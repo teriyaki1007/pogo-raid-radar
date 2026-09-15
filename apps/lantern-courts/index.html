@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Lantern Courts Dex · Aftermyth</title>
+  <meta name="description" content="Dex for Lantern Courts — Aftermyth Series 1. Classical East Asian spirit courts." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-glow" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="brand">
+        <svg class="lantern-mark" viewBox="0 0 72 40" width="72" height="40" aria-hidden="true">
+          <defs>
+            <radialGradient id="flame" cx="50%" cy="40%" r="50%">
+              <stop offset="0%" stop-color="#ffe9a8"/>
+              <stop offset="55%" stop-color="#e6b84a"/>
+              <stop offset="100%" stop-color="#c41e3a" stop-opacity="0.35"/>
+            </radialGradient>
+          </defs>
+          <!-- three lanterns -->
+          <g transform="translate(4,2)">
+            <line x1="10" y1="0" x2="10" y2="6" stroke="#e6b84a" stroke-width="1.5"/>
+            <rect x="3" y="6" width="14" height="18" rx="3" fill="url(#flame)" stroke="#e6b84a" stroke-width="1.2"/>
+            <ellipse cx="10" cy="15" rx="3" ry="4.5" fill="#fff6d0" opacity="0.85"/>
+            <path d="M5 24h10l-2 6H7z" fill="#c41e3a" opacity="0.85"/>
+          </g>
+          <g transform="translate(26,0)">
+            <line x1="10" y1="0" x2="10" y2="4" stroke="#e6b84a" stroke-width="1.5"/>
+            <rect x="2" y="4" width="16" height="22" rx="3.5" fill="url(#flame)" stroke="#e6b84a" stroke-width="1.3"/>
+            <ellipse cx="10" cy="14" rx="3.5" ry="5.5" fill="#fff6d0" opacity="0.9"/>
+            <path d="M4 26h12l-2.5 8H6.5z" fill="#c41e3a"/>
+          </g>
+          <g transform="translate(50,2)">
+            <line x1="10" y1="0" x2="10" y2="6" stroke="#e6b84a" stroke-width="1.5"/>
+            <rect x="3" y="6" width="14" height="18" rx="3" fill="url(#flame)" stroke="#e6b84a" stroke-width="1.2"/>
+            <ellipse cx="10" cy="15" rx="3" ry="4.5" fill="#fff6d0" opacity="0.85"/>
+            <path d="M5 24h10l-2 6H7z" fill="#c41e3a" opacity="0.85"/>
+          </g>
+        </svg>
+        <div class="brand-text">
+          <h1>Lantern Courts Dex</h1>
+          <p class="subtitle">Aftermyth · Series 1</p>
+        </div>
+      </div>
+      <p class="tagline" id="tagline">Classical East Asian spirit courts — Favor, Seals, and the Mandate.</p>
+    </div>
+  </header>
+
+  <main class="main">
+    <nav class="tabs" role="tablist" aria-label="Dex sections">
+      <button class="tab active" role="tab" aria-selected="true" data-tab="creatures" id="tab-creatures">
+        Creatures <span class="count" id="count-creatures">0</span>
+      </button>
+      <button class="tab" role="tab" aria-selected="false" data-tab="stadiums" id="tab-stadiums">
+        Stadiums <span class="count" id="count-stadiums">0</span>
+      </button>
+    </nav>
+
+    <div class="toolbar">
+      <label class="search-wrap">
+        <span class="sr-only">Search by name</span>
+        <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+          <circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/>
+          <path d="M15.5 15.5L21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+        <input type="search" id="search" placeholder="Search by name…" autocomplete="off" />
+      </label>
+      <div class="filters" id="filters" role="group" aria-label="Filter by court">
+        <button class="chip active" data-court="all">All</button>
+        <button class="chip chip-bureau" data-court="Celestial Bureau">Bureau</button>
+        <button class="chip chip-alleys" data-court="Yokai Alleys">Alleys</button>
+        <button class="chip chip-kin" data-court="Mountain Kin">Kin</button>
+      </div>
+      <div class="filters rarity-filters" id="rarity-filters" role="group" aria-label="Filter by rarity">
+        <button class="chip active" data-rarity="all">All rarities</button>
+        <button class="chip chip-rarity-common" data-rarity="Common">Common</button>
+        <button class="chip chip-rarity-uncommon" data-rarity="Uncommon">Uncommon</button>
+        <button class="chip chip-rarity-rare" data-rarity="Rare">Rare</button>
+        <button class="chip chip-rarity-mythic" data-rarity="Mythic">Mythic</button>
+      </div>
+    </div>
+
+    <section class="grid-panel" id="panel-creatures" role="tabpanel" aria-labelledby="tab-creatures">
+      <div class="card-grid" id="grid-creatures"></div>
+      <p class="empty" id="empty-creatures" hidden>No creatures match your search.</p>
+    </section>
+
+    <section class="grid-panel" id="panel-stadiums" role="tabpanel" aria-labelledby="tab-stadiums" hidden>
+      <div class="card-grid" id="grid-stadiums"></div>
+      <p class="empty" id="empty-stadiums" hidden>No stadiums match your search.</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Lantern Courts · Aftermyth Series 1 · Fan dex UI (no Pokémon trademarks)</p>
+  </footer>
+
+  <!-- Modal -->
+  <div class="modal" id="modal" hidden aria-hidden="true">
+    <div class="modal-backdrop" id="modal-backdrop"></div>
+    <div class="modal-dialog" role="dialog" aria-modal="true" aria-labelledby="modal-name" tabindex="-1">
+      <button class="modal-close" id="modal-close" aria-label="Close">&times;</button>
+      <div class="modal-body">
+        <div class="modal-art">
+          <img id="modal-image" src="" alt="" />
+        </div>
+        <div class="modal-info">
+          <div class="modal-meta-top">
+            <span class="modal-number" id="modal-number"></span>
+            <span class="court-badge" id="modal-court"></span>
+          </div>
+          <h2 id="modal-name"></h2>
+          <div class="modal-tags" id="modal-tags"></div>
+          <div class="stats" id="modal-stats" hidden>
+            <div class="stat">
+              <span class="stat-label">Favor</span>
+              <span class="stat-value" id="modal-favor"></span>
+            </div>
+            <div class="stat">
+              <span class="stat-label">Might</span>
+              <span class="stat-value" id="modal-might"></span>
+            </div>
+          </div>
+          <div class="modal-section">
+            <h3>Story</h3>
+            <p id="modal-story"></p>
+          </div>
+          <div class="modal-section">
+            <h3>Usage</h3>
+            <p id="modal-usage"></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="load-error" id="load-error" hidden>
+    <p>Could not load <code>dex.json</code>. Serve this folder over HTTP:</p>
+    <pre>cd /workspace/lantern-courts-dex && python3 -m http.server 8765</pre>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -4,7 +4,12 @@ Polished, mobile-first static site for the current Pokémon GO raid schedule: bo
 
 **As-of data:** 15 Sep 2026 (see `public/data/raids.json`)
 
-This repo builds a **multi-app Cloudflare Pages host**. Raid Radar lives at **`/raid/`**. Future apps (e.g. homework) go in sibling folders like `/homework/`. Fully static — no login, no analytics, no backend.
+This repo builds a **multi-app Cloudflare Pages host**. Apps live as sibling paths under one subdomain. Fully static — no login, no analytics, no backend.
+
+| Path | App |
+| --- | --- |
+| `/raid/` | **Raid Radar** — Vite-built Pokémon GO raid schedule |
+| `/lantern-courts/` | **Lantern Courts Dex** — Aftermyth Series 1 card/creature browser (static copy from `apps/lantern-courts/`; no separate npm build) |
 
 ## Local development
 
@@ -14,6 +19,8 @@ npm run dev
 ```
 
 Open the URL Vite prints, then go to `/raid/` (usually http://localhost:5173/raid/).
+
+Lantern Courts is only present after a production-style build (or copy `apps/lantern-courts/` into `dist/lantern-courts/` yourself); Vite `dev` serves the Raid Radar app.
 
 ## Production build
 
@@ -25,6 +32,7 @@ Output: `dist/`
 
 - `dist/index.html` — dark root landing page (links to apps)
 - `dist/raid/` — Raid Radar app (`index.html`, assets, `data/raids.json`)
+- `dist/lantern-courts/` — Lantern Courts Dex (copied as-is from `apps/lantern-courts/`)
 
 Preview locally:
 
@@ -32,7 +40,7 @@ Preview locally:
 npm run preview
 ```
 
-(Vite preview serves the app under `/raid/` because of `base`.)
+(Vite preview serves Raid Radar under `/raid/` because of `base`. Landing + lantern-courts are in `dist/` for Pages deploy.)
 
 ## Updating raid data
 
@@ -43,9 +51,13 @@ npm run preview
 
 Optional: keep a research markdown report elsewhere and convert into this JSON when the rotation changes.
 
+## Updating Lantern Courts Dex
+
+Edit files under **`apps/lantern-courts/`** (HTML/CSS/JS, `dex.json`, PNGs). Rebuild with `npm run build` — the folder is copied into `dist/lantern-courts/` with no path rewrites. There is no npm/Vite build step for this app.
+
 ## Cloudflare Pages
 
-This Pages project is a **multi-app host** on one subdomain. Raid Radar is served at `/raid/`. Other apps can be added later as sibling folders (e.g. `/homework/`).
+This Pages project is a **multi-app host** on one subdomain. Raid Radar is at `/raid/`; Lantern Courts Dex is at `/lantern-courts/`.
 
 | Setting | Value |
 | --- | --- |
@@ -63,10 +75,11 @@ This Pages project is a **multi-app host** on one subdomain. Raid Radar is serve
 
 ## Tech
 
-- Vite + vanilla HTML / CSS / JS (`base: '/raid/'`, build outDir `dist/raid`)
+- Vite + vanilla HTML / CSS / JS for Raid Radar (`base: '/raid/'`, build outDir `dist/raid`)
 - Data-driven from `public/data/raids.json` (fetched via `import.meta.env.BASE_URL`)
 - Artwork from [PokéAPI sprites](https://github.com/PokeAPI/sprites) CDN with graceful 404 fallbacks
 - Dark theme, outdoor-readable, ~390px mobile-first
+- Lantern Courts Dex: pure static assets in `apps/lantern-courts/`, copied into `dist/` at build time
 
 ## Disclaimer
 

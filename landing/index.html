@@ -46,6 +46,11 @@
         line-height: 1.45;
         font-size: 0.95rem;
       }
+      .apps {
+        display: flex;
+        flex-direction: column;
+        gap: 0.75rem;
+      }
       a.app {
         display: block;
         text-decoration: none;
@@ -78,10 +83,16 @@
     <main>
       <h1>Apps</h1>
       <p>Multi-app host. Pick an app below.</p>
-      <a class="app" href="/raid/">
-        <strong>Raid Radar</strong>
-        <span>Pokémon GO raid schedule</span>
-      </a>
+      <div class="apps">
+        <a class="app" href="/raid/">
+          <strong>Raid Radar</strong>
+          <span>Pokémon GO raid schedule</span>
+        </a>
+        <a class="app" href="/lantern-courts/">
+          <strong>Lantern Courts Dex</strong>
+          <span>Aftermyth · Series 1 card/creature browser</span>
+        </a>
+      </div>
     </main>
   </body>
 </html>
