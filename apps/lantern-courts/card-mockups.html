@@ -406,8 +406,65 @@
     line-height: 1.2;
   }
 
-  /* ========== SITE / STADIUM — architectural bronze frame ========== */
-  .card.site-card,
+  /* ========== SITE — quiet court frame (NOT stadium drama) ========== */
+  /* Sites keep normal card size + court colors; simple Site pill only */
+  .card.site-card {
+    /* inherits .card + .bureau/.alleys/.kin court frames — no bronze glow */
+  }
+  .card.site-card .art-window {
+    height: 42%;
+  }
+  .type-pill {
+    font-size: 0.58rem;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: linear-gradient(145deg, #4a4038, #2a241c);
+    color: #e8e0d0;
+    border: 1px solid #a89880;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+  }
+  .type-pill.site {
+    background: linear-gradient(145deg, #3a3830, #221e18);
+    color: #d8d0c0;
+    border-color: #9a9080;
+  }
+  .card.site-card.bureau .type-pill.site {
+    background: linear-gradient(145deg, #2a3050, #1a1f3a);
+    color: #e0e4f0;
+    border-color: #8a90a8;
+  }
+  .card.site-card.alleys .type-pill.site {
+    background: linear-gradient(145deg, #3a1818, #1a0808);
+    color: #e8d8b0;
+    border-color: #a87840;
+  }
+  .card.site-card.kin .type-pill.site {
+    background: linear-gradient(145deg, #2a4038, #1a2a28);
+    color: #d8e0d0;
+    border-color: #8a9870;
+  }
+  .card.site-card .lantern-seal {
+    background: radial-gradient(circle at 35% 30%, #e8e0d0, #8a8070 55%, #3a3428);
+    border-color: #a89880;
+    color: #2a2418;
+  }
+  .card.site-card .favor-pip.gate {
+    background: radial-gradient(circle at 35% 30%, #e8e0d0, #8a8070 55%, #3a3428);
+    color: #2a2418;
+    border-color: #a89880;
+    font-size: 0.75rem;
+  }
+
+  .keyword-open {
+    color: #8a7050;
+    font-weight: 700;
+  }
+
+  /* ========== STADIUM ONLY — architectural bronze + LEGENDARY FIELD ========== */
   .card.stadium-card {
     width: 300px;
     aspect-ratio: 5 / 6.2;
@@ -420,26 +477,22 @@
       0 18px 36px rgba(0,0,0,0.5),
       0 0 20px rgba(180,140,60,0.22);
   }
-  .card.site-card.bureau,
   .card.stadium-card.bureau {
     background-image:
       linear-gradient(145deg, #1e2448 0%, #14182e 50%, #1a2038 100%),
       linear-gradient(135deg, #c9a87a, #8a6a40, #e8d0a0, #6a5030, #c9a87a);
   }
-  .card.site-card.alleys,
   .card.stadium-card.alleys {
     background-image:
       linear-gradient(145deg, #3a1010 0%, #180808 50%, #2a0c0c 100%),
       linear-gradient(135deg, #c9a87a, #8a6a40, #e8d0a0, #6a5030, #c9a87a);
   }
-  .card.site-card.kin,
   .card.stadium-card.kin {
     background-image:
       linear-gradient(145deg, #2a4038 0%, #1a2a28 45%, #2a3848 100%),
       linear-gradient(135deg, #c9a87a, #8a6a40, #e8d0a0, #6a5030, #c9a87a);
   }
 
-  .card.site-card .card-inner,
   .card.stadium-card .card-inner {
     background: linear-gradient(180deg, #2a2430 0%, #1c1822 50%, #16141c 100%);
     box-shadow:
@@ -448,8 +501,7 @@
     color: #e8e0d0;
   }
 
-  /* Architectural corner motif */
-  .card.site-card .arch-corner,
+  /* Architectural corner motif — Stadium only */
   .card.stadium-card .arch-corner {
     position: absolute;
     width: 22px;
@@ -460,77 +512,48 @@
     border-style: solid;
     opacity: 0.9;
   }
-  .card.site-card .arch-corner.tl,
   .card.stadium-card .arch-corner.tl { top: 4px; left: 4px; border-width: 2px 0 0 2px; }
-  .card.site-card .arch-corner.tr,
   .card.stadium-card .arch-corner.tr { top: 4px; right: 4px; border-width: 2px 2px 0 0; }
-  .card.site-card .arch-corner.bl,
   .card.stadium-card .arch-corner.bl { bottom: 4px; left: 4px; border-width: 0 0 2px 2px; }
-  .card.site-card .arch-corner.br,
   .card.stadium-card .arch-corner.br { bottom: 4px; right: 4px; border-width: 0 2px 2px 0; }
 
-  .card.site-card .art-window,
   .card.stadium-card .art-window {
     height: 48%;
     border: 1.5px solid rgba(201,168,122,0.65);
     border-radius: 3px;
   }
-  .card.site-card .art-window img,
   .card.stadium-card .art-window img {
     object-position: center center;
   }
 
-  .card.site-card .name-plate,
   .card.stadium-card .name-plate {
     background: linear-gradient(90deg, #1a140c 0%, #2a2010 50%, #1a140c 100%);
     color: #e8d8b0;
     border-color: #c9a87a;
     text-shadow: 0 1px 2px rgba(0,0,0,0.7);
   }
-  .card.site-card .type-line,
   .card.stadium-card .type-line { color: #c8b890; }
-  .card.site-card .rule-line,
   .card.stadium-card .rule-line {
     background: linear-gradient(90deg, transparent, #c9a87a, transparent);
   }
-  .card.site-card .text-box,
   .card.stadium-card .text-box {
     background: rgba(10, 8, 16, 0.65);
     border: 1px solid rgba(201,168,122,0.3);
   }
-  .card.site-card .text-box .rules,
   .card.stadium-card .text-box .rules { color: #e0d8c8; }
-  .card.site-card .text-box .flavor,
   .card.stadium-card .text-box .flavor {
     color: #b0a070;
     border-top-color: rgba(201,168,122,0.2);
   }
-  .card.site-card .set-code,
   .card.stadium-card .set-code { color: #a89060; }
 
-  .type-pill {
-    font-size: 0.58rem;
-    font-weight: 700;
-    font-style: normal;
-    letter-spacing: 0.1em;
-    text-transform: uppercase;
-    padding: 2px 8px;
-    border-radius: 999px;
-    background: linear-gradient(145deg, #4a1830, #2a0c18);
-    color: #f0e0d0;
-    border: 1px solid #c9a87a;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.4);
-  }
   .type-pill.stadium {
     background: linear-gradient(145deg, #3a2a10, #1a1408);
     color: #f0e6a0;
     border-color: #d4af37;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.4), 0 0 8px rgba(212,175,55,0.25);
   }
 
-  .keyword-open {
-    color: #f0d878;
-    font-weight: 700;
-  }
   .keyword-field {
     color: #e8c878;
     font-weight: 700;
@@ -606,7 +629,7 @@
   }
   .rarity-pip.C { color: #c8c0b0; border-color: #8a8070; }
   .rarity-pip.U { color: #a8c8e0; border-color: #6890b0; }
-  .rarity-pip.R { color: #f0d878; border-color: #c9a227; }
+  .rarity-pip.R { color: #d4b860; border-color: #a89040; } /* subtle rare pip — not mythic foil */
 
   /* Art */
   .art-window {
@@ -741,9 +764,13 @@
     background: linear-gradient(135deg, #fff8d0, #d4af37, #8a7010);
     border: 1px solid #f0e6a0;
   }
-  .swatch.site {
+  .swatch.stadium {
     background: linear-gradient(135deg, #c9a87a, #6a5030);
     border: 1px solid #e8d0a0;
+  }
+  .swatch.site-quiet {
+    background: #e4d7bc;
+    border: 1px solid #8a8070;
   }
 
 
@@ -1028,7 +1055,7 @@
 
 <header class="page-header">
   <h1>Lantern Courts — Full Set Card Mockups (80)</h1>
-  <p class="note">60 Spirits + 10 Sites/Stadiums + 10 Support (Charms, Relics, Edicts). Distinct frames for each card kind. Art is draft concept imagery.</p>
+  <p class="note">60 Spirits + 10 Sites/Stadiums + 10 Support (Charms, Relics, Edicts). Only Mythics (gold foil) and Stadiums (architectural bronze) stand out; Sites stay quiet court frames. Art is draft concept imagery.</p>
   <div class="toolbar">
     <div class="filters" id="filters" role="toolbar" aria-label="Card filters">
       <button type="button" class="chip active" data-filter="all">All</button>
@@ -1053,7 +1080,8 @@
   <span><i class="swatch alleys"></i> Yokai Alleys</span>
   <span><i class="swatch kin"></i> Mountain Kin</span>
   <span><i class="swatch mythic"></i> Mythic gold filigree</span>
-  <span><i class="swatch site"></i> Site/Stadium bronze</span>
+  <span><i class="swatch stadium"></i> Stadium architectural</span>
+  <span><i class="swatch site-quiet"></i> Site (quiet court)</span>
   <span><i class="swatch charm"></i> Charm talisman</span>
   <span><i class="swatch relic"></i> Relic bronze</span>
   <span><i class="swatch edict"></i> Mythic Edict gold</span>
@@ -1114,8 +1142,10 @@
 
   function buildSpiritCard(c, index, print) {
     const courtClass = COURT_CLASS[c.court] || "bureau";
-    const isMythic = (c.rarity || "").toLowerCase() === "mythic";
     const letter = RARITY_LETTER[c.rarity] || "?";
+    /* isMythic ONLY rarity Mythic / M — Rares get subtle pip, never gold foil */
+    const isMythic =
+      (c.rarity || "").toLowerCase() === "mythic" || letter === "M";
     const code = (print && print.code) || collectorSpirit(index);
     const rules = (print && print.rules) || c.usage || "";
     const flavor = (print && print.flavor) || (c.story ? c.story.split(/[.!?]/)[0] + "." : "");
@@ -1163,25 +1193,30 @@
 
   function buildEnvCard(e, index, print) {
     const courtClass = COURT_CLASS[e.court] || "bureau";
-    const kind = ((print && print.type) || e.type || "Site").toLowerCase();
-    const isStadium = kind === "stadium";
+    const envType = ((print && print.type) || e.type || "Site").toLowerCase();
+    /* isStadium ONLY when type is Stadium (or environment type Stadium) — NOT Site */
+    const isStadium = envType === "stadium";
     const code = (print && print.code) || collectorEnv(index);
     const rules = (print && print.rules) || e.usage || "";
     const flavor = (print && print.flavor) || (e.story ? e.story.split(/[.!?]/)[0] + "." : "");
     const pillLabel = isStadium ? "Stadium" : "Site";
     const typeExtra = isStadium ? "Legendary Field" : "";
 
+    /* Do NOT apply stadium-card / architectural heavy classes to Sites */
     const classes = ["card", courtClass, isStadium ? "stadium-card" : "site-card"];
+    const archCorners = isStadium
+      ? `<span class="arch-corner tl"></span><span class="arch-corner tr"></span>
+      <span class="arch-corner bl"></span><span class="arch-corner br"></span>`
+      : "";
 
     return `<article class="${classes.join(" ")}" data-id="${escapeHtml(e.id)}"
       data-kind="${isStadium ? "stadium" : "site"}" data-rarity=""
       data-court="${courtClass}">
-      <span class="arch-corner tl"></span><span class="arch-corner tr"></span>
-      <span class="arch-corner bl"></span><span class="arch-corner br"></span>
+      ${archCorners}
       <div class="card-inner">
         <div class="top-bar">
           <div class="favor-pip gate" title="No Favor cost">⛩</div>
-          <span class="type-pill ${isStadium ? "stadium" : ""}">${pillLabel}</span>
+          <span class="type-pill ${isStadium ? "stadium" : "site"}">${pillLabel}</span>
         </div>
         <div class="art-window">
           <img loading="lazy" src="${escapeHtml(e.image)}" alt="${escapeHtml(e.name)}" />
