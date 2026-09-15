@@ -3,7 +3,7 @@
     "asOf": "2026-09-15",
     "asOfLabel": "15 Sep 2026",
     "timezoneNote": "All times are local to the player unless noted.",
-    "tagline": "Know what's in raids — CPs, shinies, and windows at a glance.",
+    "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
       "text": "Current Zacian package ends tonight at 10:00 PM local.",
@@ -40,9 +40,17 @@
       {
         "name": "Pokebattler",
         "url": "https://www.pokebattler.com/"
+      },
+      {
+        "name": "Leek Duck Eggs",
+        "url": "https://leekduck.com/eggs/"
+      },
+      {
+        "name": "Leek Duck Rocket",
+        "url": "https://leekduck.com/rocket-lineups/"
       }
     ],
-    "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date."
+    "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
   },
   "bosses": [
     {

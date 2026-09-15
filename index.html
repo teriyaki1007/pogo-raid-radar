@@ -3,11 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-    <meta name="description" content="Raid Radar — Pokémon GO raid schedule: bosses, 100IV CPs, shiny and hundo rates." />
+    <meta name="description" content="Raid Radar — Pokémon GO raids, egg pools, and Team GO Rocket lineups." />
     <meta name="theme-color" content="#0b1020" />
     <meta name="color-scheme" content="dark" />
     <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ccircle cx='50' cy='50' r='46' fill='%231a2338' stroke='%23f5c542' stroke-width='6'/%3E%3Cpath d='M8 50h84' stroke='%23f5c542' stroke-width='6'/%3E%3Ccircle cx='50' cy='50' r='14' fill='%230b1020' stroke='%23f5c542' stroke-width='5'/%3E%3C/svg%3E" />
-    <title>Raid Radar — Pokémon GO Raids</title>
+    <title>Raid Radar — Pokémon GO Raids, Eggs & Rocket</title>
     <link rel="stylesheet" href="/src/style.css" />
   </head>
   <body>
@@ -17,17 +17,19 @@
         <span class="brand-mark" aria-hidden="true"></span>
         <div>
           <h1>Raid Radar</h1>
-          <p class="tagline" id="tagline">Know what's in raids — CPs, shinies, and windows at a glance.</p>
+          <p class="tagline" id="tagline">Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.</p>
         </div>
       </div>
       <p class="as-of" id="as-of"></p>
       <aside class="callout" id="callout" hidden></aside>
     </header>
 
-    <nav class="tabs" role="tablist" aria-label="Raid views">
+    <nav class="tabs" role="tablist" aria-label="Game views">
       <button type="button" class="tab is-active" role="tab" aria-selected="true" data-tab="current">Current</button>
       <button type="button" class="tab" role="tab" aria-selected="false" data-tab="upcoming">Upcoming</button>
       <button type="button" class="tab" role="tab" aria-selected="false" data-tab="shadow">Shadow</button>
+      <button type="button" class="tab" role="tab" aria-selected="false" data-tab="eggs">Eggs</button>
+      <button type="button" class="tab" role="tab" aria-selected="false" data-tab="rocket">Rocket</button>
       <button type="button" class="tab" role="tab" aria-selected="false" data-tab="events">Events</button>
     </nav>
 

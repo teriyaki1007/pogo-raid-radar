@@ -23,10 +23,11 @@ const TIER_TITLES = {
 };
 
 let data = null;
+let eggsData = null;
+let rocketData = null;
 let activeTab = "current";
 
 const $ = (sel) => document.querySelector(sel);
-
 
 const TYPE_COLORS = {
   Normal: "#a8a878",
@@ -82,7 +83,8 @@ function renderCounters(boss) {
     .slice(0, 6)
     .map((c) => {
       const moves = c.moves ? `<span class="counter-moves">${escapeHtml(c.moves)}</span>` : "";
-      return `<li><span class="counter-name">${escapeHtml(c.name)}</span>${moves}</li>`;
+      const extra = c.notes && !c.moves ? `<span class="counter-moves">${escapeHtml(c.notes)}</span>` : "";
+      return `<li><span class="counter-name">${escapeHtml(c.name)}</span>${moves}${extra}</li>`;
     })
     .join("");
   return `
@@ -117,26 +119,39 @@ function formatCp(n) {
   return String(n);
 }
 
-function spriteUrl(boss) {
-  return boss.sprite?.url || PLACEHOLDER_SVG;
+function spriteUrl(entity) {
+  return entity.sprite?.url || PLACEHOLDER_SVG;
 }
 
-function handleImgError(img, boss) {
+function handleImgError(img, entity) {
   const tried = Number(img.dataset.fallbackStep || "0");
-  if (tried === 0 && boss.fallbackSprite) {
+  if (tried === 0 && entity.fallbackSprite) {
     img.dataset.fallbackStep = "1";
-    img.src = boss.fallbackSprite;
+    img.src = entity.fallbackSprite;
     return;
   }
-  if (tried <= 1 && boss.sprite?.pokeapiId) {
+  if (tried <= 1 && entity.sprite?.pokeapiId) {
     img.dataset.fallbackStep = "2";
-    img.src = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${boss.sprite.pokeapiId}.png`;
+    img.src = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${entity.sprite.pokeapiId}.png`;
     return;
   }
-  img.dataset.fallbackStep = "3";
+  if (tried <= 2 && entity.pokeapiId) {
+    img.dataset.fallbackStep = "3";
+    img.src = `https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/${entity.pokeapiId}.png`;
+    return;
+  }
+  img.dataset.fallbackStep = "4";
   img.src = PLACEHOLDER_SVG;
   img.alt = "";
   img.classList.add("art-fallback");
+}
+
+function bindSpriteFallbacks(root, entitiesById) {
+  root.querySelectorAll("img[data-entity-id]").forEach((img) => {
+    const id = img.dataset.entityId;
+    const entity = entitiesById.get(id) || {};
+    img.addEventListener("error", () => handleImgError(img, entity));
+  });
 }
 
 function renderBossCard(boss) {
@@ -163,7 +178,7 @@ function renderBossCard(boss) {
           alt="${escapeHtml(boss.name)}"
           loading="lazy"
           decoding="async"
-          data-boss-id="${escapeHtml(boss.id)}"
+          data-entity-id="${escapeHtml(boss.id)}"
           width="90"
           height="90"
         />
@@ -271,10 +286,254 @@ function renderEvents() {
   `;
 }
 
+function shinyLabel(shiny) {
+  if (shiny === true) return { text: "Shiny", className: "shiny-yes" };
+  if (shiny === false) return { text: "No shiny", className: "shiny-no" };
+  return { text: "Shiny ?", className: "shiny-unknown" };
+}
+
+function renderEggMonChip(mon, id) {
+  const shiny = shinyLabel(mon.shiny);
+  const form = mon.form ? `<span class="form">${escapeHtml(mon.form)}</span>` : "";
+  const notes = mon.notes ? `<p class="notes">${escapeHtml(mon.notes)}</p>` : "";
+  return `
+    <article class="mini-card" data-id="${escapeHtml(id)}">
+      <div class="art art-sm">
+        <img
+          src="${escapeHtml(spriteUrl(mon))}"
+          alt="${escapeHtml(mon.name)}"
+          loading="lazy"
+          decoding="async"
+          data-entity-id="${escapeHtml(id)}"
+          width="64"
+          height="64"
+        />
+      </div>
+      <div class="mini-body">
+        <h3 class="card-title mini-title">${escapeHtml(mon.name)}</h3>
+        ${form}
+        <span class="stat-value ${shiny.className}" style="font-size:0.75rem">${shiny.text}</span>
+        ${notes}
+      </div>
+    </article>`;
+}
+
+function renderEggs() {
+  if (!eggsData?.eggs?.length) {
+    return `<div class="empty">No egg pool data loaded.</div>`;
+  }
+  const meta = eggsData.meta || {};
+  const entityMap = new Map();
+  const seasonNote = meta.season
+    ? `<p class="section-lead"><strong>${escapeHtml(meta.season)}</strong>${
+        meta.seasonWindow ? ` · ${escapeHtml(meta.seasonWindow)}` : ""
+      }</p>`
+    : "";
+  const metaNotes = (meta.notes || [])
+    .map((n) => `<li>${escapeHtml(n)}</li>`)
+    .join("");
+
+  const pools = eggsData.eggs
+    .map((pool) => {
+      const incomplete = pool.incomplete
+        ? `<p class="incomplete-flag">Incomplete / still being confirmed${
+            pool.incompleteNote ? `: ${escapeHtml(pool.incompleteNote)}` : ""
+          }</p>`
+        : "";
+      const cards = (pool.pokemon || [])
+        .map((mon, i) => {
+          const id = `egg-${pool.id}-${i}`;
+          entityMap.set(id, mon);
+          return renderEggMonChip(mon, id);
+        })
+        .join("");
+      return `
+        <section class="tier-group" aria-label="${escapeHtml(pool.label)}">
+          <h2>${escapeHtml(pool.label)}</h2>
+          <p class="meta-row"><strong>Source:</strong> ${escapeHtml(pool.source || "—")}</p>
+          ${pool.window ? `<p class="meta-row"><strong>Window:</strong> ${escapeHtml(pool.window)}</p>` : ""}
+          ${incomplete}
+          <div class="mini-grid">${cards}</div>
+        </section>`;
+    })
+    .join("");
+
+  const eventNote = eggsData.eventEggsNote
+    ? `<section class="info-card"><p class="meta-row">${escapeHtml(eggsData.eventEggsNote)}</p></section>`
+    : "";
+
+  const html = `
+    ${seasonNote}
+    ${metaNotes ? `<ul class="note-list">${metaNotes}</ul>` : ""}
+    ${eventNote}
+    ${pools}
+  `;
+
+  return { html, entityMap };
+}
+
+function renderLineupPhases(lineups, idPrefix = "") {
+  if (!lineups?.length) return "";
+  return `
+    <div class="lineup-phases">
+      ${lineups
+        .map((phase, idx) => {
+          if (!phase?.length) return "";
+          const names = phase
+            .map((p) => {
+              const star = p.shinyEncounter ? "*" : "";
+              return escapeHtml(p.name) + star;
+            })
+            .join(" · ");
+          return `
+            <div class="lineup-phase">
+              <span class="battle-label">Phase ${idx + 1}</span>
+              <div class="phase-sprites">
+                ${phase
+                  .map((p, i) => {
+                    const id = `${idPrefix}-phase-sprite-${idx}-${i}-${p.name}`;
+                    return `<img src="${escapeHtml(spriteUrl(p))}" alt="${escapeHtml(p.name)}" title="${escapeHtml(
+                      p.name
+                    )}" loading="lazy" data-entity-id="${escapeHtml(id)}" width="40" height="40" />`;
+                  })
+                  .join("")}
+              </div>
+              <p class="phase-names">${names}</p>
+            </div>`;
+        })
+        .join("")}
+    </div>`;
+}
+
+function collectLineupEntities(prefix, lineups, map) {
+  (lineups || []).forEach((phase, idx) => {
+    (phase || []).forEach((p, i) => {
+      map.set(`${prefix}-phase-sprite-${idx}-${i}-${p.name}`, p);
+    });
+  });
+}
+
+function renderRocketCard(title, entity, idPrefix) {
+  const types = (entity.types || []).map((t) => `<span class="type-chip" style="${typeChipStyle(t)}">${escapeHtml(t)}</span>`).join("");
+  const quote = entity.quote ? `<p class="rocket-quote">“${escapeHtml(entity.quote)}”</p>` : "";
+  const gender = entity.gender ? `<span class="chip">${escapeHtml(entity.gender)}</span>` : "";
+  const notes = entity.notes ? `<p class="notes">${escapeHtml(entity.notes)}</p>` : "";
+  const active =
+    entity.activeNote != null
+      ? `<p class="meta-row"><strong>Status:</strong> ${escapeHtml(entity.activeNote)}</p>`
+      : "";
+  const legendary = entity.legendary
+    ? `<p class="meta-row"><strong>Legendary:</strong> Shadow ${escapeHtml(entity.legendary)}${
+        entity.legendaryNote ? ` — ${escapeHtml(entity.legendaryNote)}` : ""
+      }</p>`
+    : "";
+
+  return `
+    <article class="rocket-card" data-id="${escapeHtml(idPrefix)}">
+      <div class="card-top">
+        <div>
+          <h3 class="card-title">${escapeHtml(title)}</h3>
+          ${quote}
+          ${types ? `<div class="boss-types">${types}</div>` : ""}
+        </div>
+        ${gender}
+      </div>
+      ${active}
+      ${legendary}
+      ${renderLineupPhases(entity.lineups, idPrefix)}
+      ${renderWeakTo(entity)}
+      ${renderCounters(entity)}
+      ${notes}
+    </article>`;
+}
+
+function renderRocket() {
+  if (!rocketData) {
+    return `<div class="empty">No Rocket data loaded.</div>`;
+  }
+  const entityMap = new Map();
+  const notes = (rocketData.notes || []).map((n) => `<li>${escapeHtml(n)}</li>`).join("");
+  const metaNotes = (rocketData.meta?.notes || []).map((n) => `<li>${escapeHtml(n)}</li>`).join("");
+
+  const leadersHtml = (rocketData.leaders || [])
+    .map((leader, i) => {
+      const id = `leader-${i}`;
+      collectLineupEntities(id, leader.lineups, entityMap);
+      return renderRocketCard(leader.name, leader, id);
+    })
+    .join("");
+
+  let giovanniHtml = "";
+  if (rocketData.giovanni) {
+    collectLineupEntities("giovanni", rocketData.giovanni.lineups, entityMap);
+    giovanniHtml = renderRocketCard("Giovanni", rocketData.giovanni, "giovanni");
+  }
+
+  const gruntsHtml = (rocketData.grunts || [])
+    .map((grunt, i) => {
+      const id = `grunt-${i}`;
+      collectLineupEntities(id, grunt.lineups, entityMap);
+      const label = grunt.types?.length
+        ? `${grunt.types.join("/")} Grunt`
+        : `Grunt ${i + 1}`;
+      return renderRocketCard(label, grunt, id);
+    })
+    .join("");
+
+  const html = `
+    ${notes || metaNotes ? `<ul class="note-list">${notes}${metaNotes}</ul>` : ""}
+    <section class="tier-group" aria-label="Leaders">
+      <h2>Leaders</h2>
+      <div class="rocket-stack">${leadersHtml}</div>
+    </section>
+    ${
+      giovanniHtml
+        ? `<section class="tier-group" aria-label="Giovanni"><h2>Giovanni</h2><div class="rocket-stack">${giovanniHtml}</div></section>`
+        : ""
+    }
+    <section class="tier-group" aria-label="Grunts">
+      <h2>Grunts</h2>
+      <div class="rocket-stack">${gruntsHtml}</div>
+    </section>
+  `;
+
+  return { html, entityMap };
+}
+
 function renderPanel() {
   const panel = $("#panel");
+  const legend = $("#legend");
+
+  if (activeTab === "eggs" || activeTab === "rocket") {
+    legend.hidden = true;
+  } else {
+    legend.hidden = false;
+  }
+
   if (activeTab === "events") {
     panel.innerHTML = renderEvents();
+    return;
+  }
+
+  if (activeTab === "eggs") {
+    const result = renderEggs();
+    if (typeof result === "string") {
+      panel.innerHTML = result;
+      return;
+    }
+    panel.innerHTML = result.html;
+    bindSpriteFallbacks(panel, result.entityMap);
+    return;
+  }
+
+  if (activeTab === "rocket") {
+    const result = renderRocket();
+    if (typeof result === "string") {
+      panel.innerHTML = result;
+      return;
+    }
+    panel.innerHTML = result.html;
+    bindSpriteFallbacks(panel, result.entityMap);
     return;
   }
 
@@ -297,11 +556,8 @@ function renderPanel() {
     )
     .join("");
 
-  panel.querySelectorAll("img[data-boss-id]").forEach((img) => {
-    const id = img.dataset.bossId;
-    const boss = (data.bosses || []).find((b) => b.id === id);
-    img.addEventListener("error", () => handleImgError(img, boss || {}));
-  });
+  const map = new Map((data.bosses || []).map((b) => [b.id, b]));
+  bindSpriteFallbacks(panel, map);
 }
 
 function renderMeta() {
@@ -333,7 +589,15 @@ function renderMeta() {
     <p class="legend-note">${escapeHtml(legend.shinyNote || "")}</p>
   `;
 
-  const sources = meta.sources || [];
+  const sources = [
+    ...(meta.sources || []),
+    ...((eggsData?.meta?.sources || []).filter((s) => !(meta.sources || []).some((m) => m.url === s.url))),
+    ...((rocketData?.meta?.sources || []).filter(
+      (s) =>
+        !(meta.sources || []).some((m) => m.url === s.url) &&
+        !(eggsData?.meta?.sources || []).some((m) => m.url === s.url)
+    )),
+  ];
   $("#footer").innerHTML = `
     <div class="footer-links">
       ${sources
@@ -361,19 +625,30 @@ function bindTabs() {
   });
 }
 
+async function fetchJson(path) {
+  const res = await fetch(`${import.meta.env.BASE_URL}${path}`, { cache: "no-cache" });
+  if (!res.ok) throw new Error(`Failed to load ${path} (${res.status})`);
+  return res.json();
+}
+
 async function init() {
   const panel = $("#panel");
-  panel.innerHTML = `<div class="loading">Loading raid data…</div>`;
+  panel.innerHTML = `<div class="loading">Loading game data…</div>`;
   try {
-    const res = await fetch(`${import.meta.env.BASE_URL}data/raids.json`, { cache: "no-cache" });
-    if (!res.ok) throw new Error(`Failed to load raids.json (${res.status})`);
-    data = await res.json();
+    const [raids, eggs, rocket] = await Promise.all([
+      fetchJson("data/raids.json"),
+      fetchJson("data/eggs.json"),
+      fetchJson("data/rocket.json"),
+    ]);
+    data = raids;
+    eggsData = eggs;
+    rocketData = rocket;
     renderMeta();
     bindTabs();
     setTab("current");
   } catch (err) {
     console.error(err);
-    panel.innerHTML = `<div class="error">Could not load raid data. Check <code>public/data/raids.json</code>.</div>`;
+    panel.innerHTML = `<div class="error">Could not load data. Check <code>public/data/*.json</code>.</div>`;
   }
 }
 

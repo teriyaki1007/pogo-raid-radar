@@ -1,0 +1,923 @@
+{
+  "meta": {
+    "asOf": "2026-09-15",
+    "asOfLabel": "15 Sep 2026",
+    "season": "Twilight Trails",
+    "seasonWindow": "Tue 8 Sep 2026 10:00 AM – Tue 1 Dec 2026 10:00 AM local",
+    "sources": [
+      {
+        "name": "Leek Duck Eggs",
+        "url": "https://leekduck.com/eggs/"
+      },
+      {
+        "name": "GO Hub Egg Chart",
+        "url": "https://pokemongohub.net/post/chart/pokemon-go-eggs/"
+      },
+      {
+        "name": "Dexerto Egg Chart",
+        "url": "https://www.dexerto.com/pokemon/pokemon-go-egg-chart-2km-5km-10km-1640682/"
+      }
+    ],
+    "notes": [
+      "Pools compiled from Leek Duck (updated 14 Sep 2026) and cross-checked with GO Hub / Dexerto for Twilight Trails.",
+      "Hatch rates are not published by Niantic — not listed.",
+      "Shiny flags: true only when charts mark shiny available; null = not confirmed in the sources used.",
+      "Egg contents are fixed at pickup; event eggs can temporarily override seasonal pools.",
+      "Some community charts still mark 5 km / Adventure Sync lists as incomplete — Leek Duck list used as primary."
+    ]
+  },
+  "eggs": [
+    {
+      "id": "1km",
+      "distanceKm": 1,
+      "label": "1 km Eggs",
+      "source": "PokéStops / Gyms (seasonal)",
+      "window": "Twilight Trails season",
+      "incomplete": false,
+      "pokemon": [
+        {
+          "name": "Bulbasaur",
+          "pokeapiId": 1,
+          "sprite": {
+            "pokeapiId": 1,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+          "shiny": true
+        },
+        {
+          "name": "Charmander",
+          "pokeapiId": 4,
+          "sprite": {
+            "pokeapiId": 4,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+          "shiny": true
+        },
+        {
+          "name": "Squirtle",
+          "pokeapiId": 7,
+          "sprite": {
+            "pokeapiId": 7,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+          "shiny": true
+        },
+        {
+          "name": "Chikorita",
+          "pokeapiId": 152,
+          "sprite": {
+            "pokeapiId": 152,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
+          "shiny": true
+        },
+        {
+          "name": "Cyndaquil",
+          "pokeapiId": 155,
+          "sprite": {
+            "pokeapiId": 155,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/155.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
+          "shiny": true
+        },
+        {
+          "name": "Totodile",
+          "pokeapiId": 158,
+          "sprite": {
+            "pokeapiId": 158,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
+          "shiny": true
+        },
+        {
+          "name": "Treecko",
+          "pokeapiId": 252,
+          "sprite": {
+            "pokeapiId": 252,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png",
+          "shiny": true
+        },
+        {
+          "name": "Torchic",
+          "pokeapiId": 255,
+          "sprite": {
+            "pokeapiId": 255,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png",
+          "shiny": true
+        },
+        {
+          "name": "Mudkip",
+          "pokeapiId": 258,
+          "sprite": {
+            "pokeapiId": 258,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png",
+          "shiny": true
+        },
+        {
+          "name": "Turtwig",
+          "pokeapiId": 387,
+          "sprite": {
+            "pokeapiId": 387,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/387.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/387.png",
+          "shiny": true
+        },
+        {
+          "name": "Chimchar",
+          "pokeapiId": 390,
+          "sprite": {
+            "pokeapiId": 390,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/390.png",
+          "shiny": true
+        },
+        {
+          "name": "Piplup",
+          "pokeapiId": 393,
+          "sprite": {
+            "pokeapiId": 393,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/393.png",
+          "shiny": true
+        },
+        {
+          "name": "Snivy",
+          "pokeapiId": 495,
+          "sprite": {
+            "pokeapiId": 495,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/495.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/495.png",
+          "shiny": true
+        },
+        {
+          "name": "Tepig",
+          "pokeapiId": 498,
+          "sprite": {
+            "pokeapiId": 498,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/498.png",
+          "shiny": true
+        },
+        {
+          "name": "Oshawott",
+          "pokeapiId": 501,
+          "sprite": {
+            "pokeapiId": 501,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/501.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/501.png",
+          "shiny": true
+        },
+        {
+          "name": "Chespin",
+          "pokeapiId": 650,
+          "sprite": {
+            "pokeapiId": 650,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/650.png",
+          "shiny": true
+        },
+        {
+          "name": "Fennekin",
+          "pokeapiId": 653,
+          "sprite": {
+            "pokeapiId": 653,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/653.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/653.png",
+          "shiny": true
+        },
+        {
+          "name": "Froakie",
+          "pokeapiId": 656,
+          "sprite": {
+            "pokeapiId": 656,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/656.png",
+          "shiny": true
+        },
+        {
+          "name": "Rowlet",
+          "pokeapiId": 722,
+          "sprite": {
+            "pokeapiId": 722,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/722.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/722.png",
+          "shiny": true
+        },
+        {
+          "name": "Litten",
+          "pokeapiId": 725,
+          "sprite": {
+            "pokeapiId": 725,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/725.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/725.png",
+          "shiny": true
+        },
+        {
+          "name": "Popplio",
+          "pokeapiId": 728,
+          "sprite": {
+            "pokeapiId": 728,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/728.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/728.png",
+          "shiny": true
+        },
+        {
+          "name": "Grookey",
+          "pokeapiId": 810,
+          "sprite": {
+            "pokeapiId": 810,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/810.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/810.png",
+          "shiny": true
+        },
+        {
+          "name": "Scorbunny",
+          "pokeapiId": 813,
+          "sprite": {
+            "pokeapiId": 813,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/813.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/813.png",
+          "shiny": true
+        },
+        {
+          "name": "Sobble",
+          "pokeapiId": 816,
+          "sprite": {
+            "pokeapiId": 816,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/816.png",
+          "shiny": true
+        },
+        {
+          "name": "Sprigatito",
+          "pokeapiId": 906,
+          "sprite": {
+            "pokeapiId": 906,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/906.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/906.png",
+          "shiny": true
+        },
+        {
+          "name": "Fuecoco",
+          "pokeapiId": 909,
+          "sprite": {
+            "pokeapiId": 909,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/909.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/909.png",
+          "shiny": true
+        },
+        {
+          "name": "Quaxly",
+          "pokeapiId": 912,
+          "sprite": {
+            "pokeapiId": 912,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/912.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/912.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "id": "2km",
+      "distanceKm": 2,
+      "label": "2 km Eggs",
+      "source": "PokéStops / Gyms",
+      "window": "Twilight Trails season",
+      "incomplete": false,
+      "pokemon": [
+        {
+          "name": "Pichu",
+          "pokeapiId": 172,
+          "sprite": {
+            "pokeapiId": 172,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/172.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png",
+          "shiny": true
+        },
+        {
+          "name": "Togepi",
+          "pokeapiId": 175,
+          "sprite": {
+            "pokeapiId": 175,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/175.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png",
+          "shiny": true
+        },
+        {
+          "name": "Elekid",
+          "pokeapiId": 239,
+          "sprite": {
+            "pokeapiId": 239,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/239.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
+          "shiny": true
+        },
+        {
+          "name": "Magby",
+          "pokeapiId": 240,
+          "sprite": {
+            "pokeapiId": 240,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
+          "shiny": true
+        },
+        {
+          "name": "Azurill",
+          "pokeapiId": 298,
+          "sprite": {
+            "pokeapiId": 298,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/298.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/298.png",
+          "shiny": true
+        },
+        {
+          "name": "Tadbulb",
+          "pokeapiId": 938,
+          "sprite": {
+            "pokeapiId": 938,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/938.png",
+          "shiny": null
+        },
+        {
+          "name": "Larvesta",
+          "pokeapiId": 636,
+          "sprite": {
+            "pokeapiId": 636,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png",
+          "shiny": null,
+          "notes": "Shiny availability not confirmed published for this pool; historically no Shiny Larvesta in GO"
+        }
+      ]
+    },
+    {
+      "id": "5km",
+      "distanceKm": 5,
+      "label": "5 km Eggs",
+      "source": "PokéStops / Gyms",
+      "window": "Twilight Trails season",
+      "incomplete": true,
+      "incompleteNote": "GO Hub marked this pool incomplete as of 10 Sep 2026; Leek Duck list (14 Sep) used below.",
+      "pokemon": [
+        {
+          "name": "Snom",
+          "pokeapiId": 872,
+          "sprite": {
+            "pokeapiId": 872,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/872.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/872.png",
+          "shiny": true
+        },
+        {
+          "name": "Fidough",
+          "pokeapiId": 926,
+          "sprite": {
+            "pokeapiId": 926,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/926.png",
+          "shiny": true
+        },
+        {
+          "name": "Munchlax",
+          "pokeapiId": 446,
+          "sprite": {
+            "pokeapiId": 446,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/446.png",
+          "shiny": true
+        },
+        {
+          "name": "Sizzlipede",
+          "pokeapiId": 850,
+          "sprite": {
+            "pokeapiId": 850,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/850.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/850.png",
+          "shiny": true
+        },
+        {
+          "name": "Maschiff",
+          "pokeapiId": 942,
+          "sprite": {
+            "pokeapiId": 942,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/942.png",
+          "shiny": null
+        },
+        {
+          "name": "Mime Jr.",
+          "pokeapiId": 439,
+          "sprite": {
+            "pokeapiId": 439,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/439.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/439.png",
+          "shiny": true,
+          "notes": "Regional: Europe"
+        },
+        {
+          "name": "Indeedee",
+          "pokeapiId": 876,
+          "sprite": {
+            "pokeapiId": 876,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/876.png",
+          "form": "Male",
+          "shiny": true
+        },
+        {
+          "name": "Indeedee",
+          "pokeapiId": 876,
+          "sprite": {
+            "pokeapiId": 876,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/876.png",
+          "form": "Female",
+          "shiny": true
+        },
+        {
+          "name": "Larvesta",
+          "pokeapiId": 636,
+          "sprite": {
+            "pokeapiId": 636,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png",
+          "shiny": null,
+          "notes": "Shiny availability not confirmed published for this pool; historically no Shiny Larvesta in GO"
+        }
+      ]
+    },
+    {
+      "id": "5km-as",
+      "distanceKm": 5,
+      "label": "5 km Adventure Sync",
+      "source": "Weekly Adventure Sync (25 km milestone)",
+      "window": "Twilight Trails season",
+      "incomplete": false,
+      "pokemon": [
+        {
+          "name": "Chingling",
+          "pokeapiId": 433,
+          "sprite": {
+            "pokeapiId": 433,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/433.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/433.png",
+          "shiny": true
+        },
+        {
+          "name": "Happiny",
+          "pokeapiId": 440,
+          "sprite": {
+            "pokeapiId": 440,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/440.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/440.png",
+          "shiny": true
+        },
+        {
+          "name": "Budew",
+          "pokeapiId": 406,
+          "sprite": {
+            "pokeapiId": 406,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/406.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/406.png",
+          "shiny": true
+        },
+        {
+          "name": "Sableye",
+          "pokeapiId": 302,
+          "sprite": {
+            "pokeapiId": 302,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302.png",
+          "shiny": true
+        },
+        {
+          "name": "Tyrogue",
+          "pokeapiId": 236,
+          "sprite": {
+            "pokeapiId": 236,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "id": "7km",
+      "distanceKm": 7,
+      "label": "7 km Eggs (Friend Gifts)",
+      "source": "Opening Gifts from friends",
+      "window": "Twilight Trails season",
+      "incomplete": false,
+      "pokemon": [
+        {
+          "name": "Meowth",
+          "pokeapiId": 52,
+          "sprite": {
+            "pokeapiId": 52,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10161.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+          "form": "Galarian",
+          "shiny": true
+        },
+        {
+          "name": "Darumaka",
+          "pokeapiId": 554,
+          "sprite": {
+            "pokeapiId": 554,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10176.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554.png",
+          "form": "Galarian",
+          "shiny": true
+        },
+        {
+          "name": "Corsola",
+          "pokeapiId": 222,
+          "sprite": {
+            "pokeapiId": 222,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10173.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png",
+          "form": "Galarian",
+          "shiny": true
+        },
+        {
+          "name": "Zigzagoon",
+          "pokeapiId": 263,
+          "sprite": {
+            "pokeapiId": 263,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10174.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263.png",
+          "form": "Galarian",
+          "shiny": true
+        },
+        {
+          "name": "Stunfisk",
+          "pokeapiId": 618,
+          "sprite": {
+            "pokeapiId": 618,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10180.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/618.png",
+          "form": "Galarian",
+          "shiny": true
+        },
+        {
+          "name": "Geodude",
+          "pokeapiId": 74,
+          "sprite": {
+            "pokeapiId": 74,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10109.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+          "form": "Alolan",
+          "shiny": true
+        },
+        {
+          "name": "Diglett",
+          "pokeapiId": 50,
+          "sprite": {
+            "pokeapiId": 50,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10105.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+          "form": "Alolan",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "id": "7km-route",
+      "distanceKm": 7,
+      "label": "7 km Eggs (Route / Mateo)",
+      "source": "Mateo's Gift Exchange at end of a Route",
+      "window": "Twilight Trails season",
+      "incomplete": false,
+      "pokemon": [
+        {
+          "name": "Sneasel",
+          "pokeapiId": 215,
+          "sprite": {
+            "pokeapiId": 215,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10235.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png",
+          "form": "Hisuian",
+          "shiny": true
+        },
+        {
+          "name": "Corsola",
+          "pokeapiId": 222,
+          "sprite": {
+            "pokeapiId": 222,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10173.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png",
+          "form": "Galarian",
+          "shiny": true
+        },
+        {
+          "name": "Basculin",
+          "pokeapiId": 550,
+          "sprite": {
+            "pokeapiId": 550,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10207.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550.png",
+          "form": "White-Striped",
+          "shiny": true
+        },
+        {
+          "name": "Growlithe",
+          "pokeapiId": 58,
+          "sprite": {
+            "pokeapiId": 58,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10229.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+          "form": "Hisuian",
+          "shiny": true
+        },
+        {
+          "name": "Slowpoke",
+          "pokeapiId": 79,
+          "sprite": {
+            "pokeapiId": 79,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10164.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+          "form": "Galarian",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "id": "10km",
+      "distanceKm": 10,
+      "label": "10 km Eggs",
+      "source": "PokéStops / Gyms",
+      "window": "Twilight Trails season",
+      "incomplete": false,
+      "pokemon": [
+        {
+          "name": "Charcadet",
+          "pokeapiId": 935,
+          "sprite": {
+            "pokeapiId": 935,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/935.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/935.png",
+          "shiny": true
+        },
+        {
+          "name": "Tinkatink",
+          "pokeapiId": 957,
+          "sprite": {
+            "pokeapiId": 957,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/957.png",
+          "shiny": true
+        },
+        {
+          "name": "Honedge",
+          "pokeapiId": 679,
+          "sprite": {
+            "pokeapiId": 679,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png",
+          "shiny": true
+        },
+        {
+          "name": "Frigibax",
+          "pokeapiId": 996,
+          "sprite": {
+            "pokeapiId": 996,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/996.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/996.png",
+          "shiny": true
+        },
+        {
+          "name": "Impidimp",
+          "pokeapiId": 859,
+          "sprite": {
+            "pokeapiId": 859,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/859.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/859.png",
+          "shiny": true
+        },
+        {
+          "name": "Dratini",
+          "pokeapiId": 147,
+          "sprite": {
+            "pokeapiId": 147,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+          "shiny": true
+        },
+        {
+          "name": "Larvesta",
+          "pokeapiId": 636,
+          "sprite": {
+            "pokeapiId": 636,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png",
+          "shiny": null,
+          "notes": "Shiny availability not confirmed published for this pool; historically no Shiny Larvesta in GO"
+        }
+      ]
+    },
+    {
+      "id": "10km-as",
+      "distanceKm": 10,
+      "label": "10 km Adventure Sync",
+      "source": "Weekly Adventure Sync (50 km milestone)",
+      "window": "Twilight Trails season",
+      "incomplete": false,
+      "pokemon": [
+        {
+          "name": "Gible",
+          "pokeapiId": 443,
+          "sprite": {
+            "pokeapiId": 443,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/443.png",
+          "shiny": true
+        },
+        {
+          "name": "Toxel",
+          "pokeapiId": 848,
+          "sprite": {
+            "pokeapiId": 848,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/848.png",
+          "shiny": true
+        },
+        {
+          "name": "Druddigon",
+          "pokeapiId": 621,
+          "sprite": {
+            "pokeapiId": 621,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/621.png",
+          "shiny": true
+        },
+        {
+          "name": "Bagon",
+          "pokeapiId": 371,
+          "sprite": {
+            "pokeapiId": 371,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/371.png",
+          "shiny": true
+        },
+        {
+          "name": "Drampa",
+          "pokeapiId": 780,
+          "sprite": {
+            "pokeapiId": 780,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/780.png",
+          "shiny": true
+        }
+      ]
+    },
+    {
+      "id": "12km",
+      "distanceKm": 12,
+      "label": "12 km Strange Eggs",
+      "source": "Defeating Team GO Rocket Leaders",
+      "window": "Twilight Trails season",
+      "incomplete": false,
+      "pokemon": [
+        {
+          "name": "Sandile",
+          "pokeapiId": 551,
+          "sprite": {
+            "pokeapiId": 551,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/551.png",
+          "shiny": true
+        },
+        {
+          "name": "Vullaby",
+          "pokeapiId": 629,
+          "sprite": {
+            "pokeapiId": 629,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/629.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/629.png",
+          "shiny": true
+        },
+        {
+          "name": "Shroodle",
+          "pokeapiId": 944,
+          "sprite": {
+            "pokeapiId": 944,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/944.png",
+          "shiny": null,
+          "notes": "Shiny debut announced for Harvest Festival: Taken Over (Oct 2–5); seasonal shiny status before then not confirmed in egg charts"
+        },
+        {
+          "name": "Pancham",
+          "pokeapiId": 674,
+          "sprite": {
+            "pokeapiId": 674,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/674.png",
+          "shiny": true
+        },
+        {
+          "name": "Salandit",
+          "pokeapiId": 757,
+          "sprite": {
+            "pokeapiId": 757,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/757.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/757.png",
+          "shiny": true
+        },
+        {
+          "name": "Varoom",
+          "pokeapiId": 965,
+          "sprite": {
+            "pokeapiId": 965,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/965.png",
+          "shiny": null
+        }
+      ]
+    }
+  ],
+  "eventEggs": [],
+  "eventEggsNote": "No limited-time event egg overrides confirmed active on 15 Sep 2026 beyond the seasonal Twilight Trails pools. Harvest Festival: Taken Over (Oct 2–5) will affect Strange Eggs / Rocket content."
+}
