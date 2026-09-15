@@ -25,9 +25,22 @@
       "shinyNote": "Niantic rarely publishes shiny odds. Community estimate ~1/20 for legendaries/UBs (Dittobase). Exact rates marked when a source states them."
     },
     "sources": [
-      { "name": "Leek Duck", "url": "https://leekduck.com/raid-bosses/" },
-      { "name": "GO Hub", "url": "https://pokemongohub.net/post/guide/current-go-raids/" },
-      { "name": "Pokémon GO Live", "url": "https://pokemongolive.com/" }
+      {
+        "name": "Leek Duck",
+        "url": "https://leekduck.com/raid-bosses/"
+      },
+      {
+        "name": "GO Hub",
+        "url": "https://pokemongohub.net/post/guide/current-go-raids/"
+      },
+      {
+        "name": "Pokémon GO Live",
+        "url": "https://pokemongolive.com/"
+      },
+      {
+        "name": "Pokebattler",
+        "url": "https://www.pokebattler.com/"
+      }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date."
   },
@@ -52,13 +65,44 @@
       "ivFloor": "10/10/10",
       "cpL20": 419,
       "cpL25": 524,
-      "weather": ["Fog", "Partly Cloudy"],
+      "weather": [
+        "Fog",
+        "Partly Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 19,
         "form": "alola",
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10091.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Dark",
+        "Normal"
+      ],
+      "weakTo": [
+        "Fighting 2×",
+        "Bug",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Shadow Machamp",
+          "moves": "Counter / Dynamic Punch"
+        },
+        {
+          "name": "Conkeldurr",
+          "moves": "Counter / Dynamic Punch"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "dunsparce",
@@ -80,12 +124,39 @@
       "ivFloor": "10/10/10",
       "cpL20": 965,
       "cpL25": 1206,
-      "weather": ["Partly Cloudy"],
+      "weather": [
+        "Partly Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 206,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/206.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Normal"
+      ],
+      "weakTo": [
+        "Fighting"
+      ],
+      "counters": [
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Shadow Machamp",
+          "moves": "Counter / Dynamic Punch"
+        },
+        {
+          "name": "Conkeldurr",
+          "moves": "Counter / Dynamic Punch"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "scraggy",
@@ -107,12 +178,42 @@
       "ivFloor": "10/10/10",
       "cpL20": 784,
       "cpL25": 980,
-      "weather": ["Fog", "Cloudy"],
+      "weather": [
+        "Fog",
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 559,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/559.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Dark",
+        "Fighting"
+      ],
+      "weakTo": [
+        "Fairy 2×",
+        "Flying"
+      ],
+      "counters": [
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Xerneas",
+          "moves": "Geomancy / Moonblast"
+        },
+        {
+          "name": "Togekiss",
+          "moves": "Charm / Dazzling Gleam"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "fidough",
@@ -134,12 +235,40 @@
       "ivFloor": "10/10/10",
       "cpL20": 563,
       "cpL25": 703,
-      "weather": ["Cloudy"],
+      "weather": [
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 926,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/926.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Fairy"
+      ],
+      "weakTo": [
+        "Poison",
+        "Steel"
+      ],
+      "counters": [
+        {
+          "name": "Dusk Mane Necrozma",
+          "moves": "Metal Claw / Sunsteel Strike"
+        },
+        {
+          "name": "Shadow Metagross",
+          "moves": "Bullet Punch / Meteor Mash"
+        },
+        {
+          "name": "Nihilego",
+          "moves": "Poison Jab / Sludge Bomb"
+        },
+        {
+          "name": "Mega Beedrill",
+          "moves": "Poison Jab / Sludge Bomb"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "alolan-dugtrio",
@@ -161,13 +290,49 @@
       "ivFloor": "10/10/10",
       "cpL20": 1084,
       "cpL25": 1355,
-      "weather": ["Sunny", "Snow"],
+      "weather": [
+        "Sunny",
+        "Snow"
+      ],
       "sprite": {
         "pokeapiId": 51,
         "form": "alola",
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10105.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Ground",
+        "Steel"
+      ],
+      "weakTo": [
+        "Water",
+        "Fighting",
+        "Ground",
+        "Fire"
+      ],
+      "counters": [
+        {
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        },
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "lapras",
@@ -189,12 +354,48 @@
       "ivFloor": "10/10/10",
       "cpL20": 1509,
       "cpL25": 1886,
-      "weather": ["Rainy", "Snow"],
+      "weather": [
+        "Rainy",
+        "Snow"
+      ],
       "sprite": {
         "pokeapiId": 131,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Water",
+        "Ice"
+      ],
+      "weakTo": [
+        "Grass 2×",
+        "Rock 2×",
+        "Electric",
+        "Fighting"
+      ],
+      "counters": [
+        {
+          "name": "Kartana",
+          "moves": "Razor Leaf / Leaf Blade"
+        },
+        {
+          "name": "Mega Sceptile",
+          "moves": "Bullet Seed / Frenzy Plant"
+        },
+        {
+          "name": "Shadow Rhyperior",
+          "moves": "Smack Down / Rock Wrecker"
+        },
+        {
+          "name": "Xurkitree",
+          "moves": "Thunder Shock / Discharge"
+        },
+        {
+          "name": "Mega Diancie",
+          "moves": "Rock Throw / Rock Slide"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "falinks",
@@ -216,12 +417,45 @@
       "ivFloor": "10/10/10",
       "cpL20": 1347,
       "cpL25": 1683,
-      "weather": ["Cloudy"],
+      "weather": [
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 870,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/870.png"
       },
-      "notes": "May 2026 Super Mega Raid Day boosted odds were event-only and have ended."
+      "notes": "May 2026 Super Mega Raid Day boosted odds were event-only and have ended.",
+      "types": [
+        "Fighting"
+      ],
+      "weakTo": [
+        "Flying",
+        "Psychic",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Mega Mewtwo Y",
+          "moves": "Confusion / Psystrike"
+        },
+        {
+          "name": "Shadow Mewtwo",
+          "moves": "Psycho Cut / Psystrike"
+        },
+        {
+          "name": "Shadow Moltres",
+          "moves": "Wing Attack / Fly"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "zacian-hero",
@@ -243,13 +477,49 @@
       "ivFloor": "10/10/10",
       "cpL20": 2188,
       "cpL25": 2735,
-      "weather": ["Cloudy"],
+      "weather": [
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 888,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/888.png"
       },
       "notes": "No separate boosted-event rate for this window (Raid Hour was Sep 9 only).",
-      "highlight": true
+      "highlight": true,
+      "types": [
+        "Fairy"
+      ],
+      "weakTo": [
+        "Poison",
+        "Steel"
+      ],
+      "counters": [
+        {
+          "name": "Crowned Sword Zacian",
+          "moves": "Metal Claw / Behemoth Blade"
+        },
+        {
+          "name": "Dusk Mane Necrozma",
+          "moves": "Metal Claw / Sunsteel Strike"
+        },
+        {
+          "name": "Crowned Shield Zamazenta",
+          "moves": "Metal Claw / Behemoth Bash"
+        },
+        {
+          "name": "Shadow Metagross",
+          "moves": "Bullet Punch / Meteor Mash"
+        },
+        {
+          "name": "Eternatus",
+          "moves": "Poison Jab / Sludge Bomb"
+        },
+        {
+          "name": "Metagross",
+          "moves": "Bullet Punch / Meteor Mash"
+        }
+      ],
+      "countersSource": "guide"
     },
     {
       "id": "mega-beedrill",
@@ -271,14 +541,54 @@
       "ivFloor": "10/10/10",
       "cpL20": 1054,
       "cpL25": 1318,
-      "weather": ["Rainy", "Cloudy"],
+      "weather": [
+        "Rainy",
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 15,
         "mega": true,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10090.png"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
-      "notes": "Catch form: Beedrill (non-Mega). CPs are for catchable Beedrill."
+      "notes": "Catch form: Beedrill (non-Mega). CPs are for catchable Beedrill.",
+      "types": [
+        "Bug",
+        "Poison"
+      ],
+      "weakTo": [
+        "Fire",
+        "Flying",
+        "Psychic",
+        "Rock"
+      ],
+      "counters": [
+        {
+          "name": "Mega Mewtwo Y",
+          "moves": "Psycho Cut / Future Sight"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Shadow Mewtwo",
+          "moves": "Psycho Cut / Psystrike"
+        },
+        {
+          "name": "Shadow Reshiram",
+          "moves": "Fire Fang / Fusion Flare"
+        }
+      ],
+      "countersSource": "guide"
     },
     {
       "id": "mega-houndoom",
@@ -300,14 +610,54 @@
       "ivFloor": "10/10/10",
       "cpL20": 1505,
       "cpL25": 1882,
-      "weather": ["Fog", "Sunny"],
+      "weather": [
+        "Fog",
+        "Sunny"
+      ],
       "sprite": {
         "pokeapiId": 229,
         "mega": true,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10048.png"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
-      "notes": "Catch form: Houndoom. Prefer official/Leek Duck end (15th) over GO Hub “11–16”."
+      "notes": "Catch form: Houndoom. Prefer official/Leek Duck end (15th) over GO Hub “11–16”.",
+      "types": [
+        "Dark",
+        "Fire"
+      ],
+      "weakTo": [
+        "Water",
+        "Fighting",
+        "Ground",
+        "Rock"
+      ],
+      "counters": [
+        {
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Mega Swampert",
+          "moves": "Water Gun / Hydro Cannon"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Shadow Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        }
+      ],
+      "countersSource": "guide"
     },
     {
       "id": "shadow-machop",
@@ -329,12 +679,41 @@
       "ivFloor": "6/6/6",
       "cpL20": 730,
       "cpL25": 913,
-      "weather": ["Cloudy"],
+      "weather": [
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 66,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Fighting"
+      ],
+      "weakTo": [
+        "Flying",
+        "Psychic",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Shadow Mewtwo",
+          "moves": "Psycho Cut / Psystrike"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Shadow Moltres",
+          "moves": "Wing Attack / Fly"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "shadow-bellsprout",
@@ -356,12 +735,44 @@
       "ivFloor": "6/6/6",
       "cpL20": 590,
       "cpL25": 738,
-      "weather": ["Sunny", "Cloudy"],
+      "weather": [
+        "Sunny",
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 69,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "weakTo": [
+        "Fire",
+        "Ice",
+        "Flying",
+        "Psychic"
+      ],
+      "counters": [
+        {
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Shadow Mewtwo",
+          "moves": "Psycho Cut / Psystrike"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "White Kyurem",
+          "moves": "Ice Fang / Ice Burn"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "shadow-torchic",
@@ -383,12 +794,41 @@
       "ivFloor": "6/6/6",
       "cpL20": 624,
       "cpL25": 781,
-      "weather": ["Sunny"],
+      "weather": [
+        "Sunny"
+      ],
       "sprite": {
         "pokeapiId": 255,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Fire"
+      ],
+      "weakTo": [
+        "Water",
+        "Ground",
+        "Rock"
+      ],
+      "counters": [
+        {
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Shadow Rhyperior",
+          "moves": "Smack Down / Rock Wrecker"
+        },
+        {
+          "name": "Mega Swampert",
+          "moves": "Water Gun / Hydro Cannon"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "shadow-bagon",
@@ -410,12 +850,41 @@
       "ivFloor": "6/6/6",
       "cpL20": 660,
       "cpL25": 826,
-      "weather": ["Windy"],
+      "weather": [
+        "Windy"
+      ],
       "sprite": {
         "pokeapiId": 371,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Dragon"
+      ],
+      "weakTo": [
+        "Ice",
+        "Dragon",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "White Kyurem",
+          "moves": "Ice Fang / Ice Burn"
+        },
+        {
+          "name": "Shadow Mamoswine",
+          "moves": "Powder Snow / Avalanche"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Dragon Tail / Outrage"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "shadow-alolan-sandslash",
@@ -437,13 +906,48 @@
       "ivFloor": "6/6/6",
       "cpL20": 1390,
       "cpL25": 1737,
-      "weather": ["Snow"],
+      "weather": [
+        "Snow"
+      ],
       "sprite": {
         "pokeapiId": 28,
         "form": "alola",
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10100.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Ice",
+        "Steel"
+      ],
+      "weakTo": [
+        "Fighting 2×",
+        "Fire 2×",
+        "Ground",
+        "Rock"
+      ],
+      "counters": [
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Shadow Reshiram",
+          "moves": "Fire Fang / Fusion Flare"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "shadow-quagsire",
@@ -465,12 +969,41 @@
       "ivFloor": "6/6/6",
       "cpL20": 1138,
       "cpL25": 1423,
-      "weather": ["Rainy", "Sunny"],
+      "weather": [
+        "Rainy",
+        "Sunny"
+      ],
       "sprite": {
         "pokeapiId": 195,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Water",
+        "Ground"
+      ],
+      "weakTo": [
+        "Grass 2×"
+      ],
+      "counters": [
+        {
+          "name": "Kartana",
+          "moves": "Razor Leaf / Leaf Blade"
+        },
+        {
+          "name": "Mega Sceptile",
+          "moves": "Bullet Seed / Frenzy Plant"
+        },
+        {
+          "name": "Shadow Torterra",
+          "moves": "Razor Leaf / Frenzy Plant"
+        },
+        {
+          "name": "Zarude",
+          "moves": "Vine Whip / Power Whip"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "shadow-lampent",
@@ -492,12 +1025,49 @@
       "ivFloor": "6/6/6",
       "cpL20": 976,
       "cpL25": 1220,
-      "weather": ["Fog", "Sunny"],
+      "weather": [
+        "Fog",
+        "Sunny"
+      ],
       "sprite": {
         "pokeapiId": 608,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "weakTo": [
+        "Water",
+        "Ground",
+        "Rock",
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        },
+        {
+          "name": "Dawn Wings Necrozma",
+          "moves": "Shadow Claw / Moongeist Beam"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Shadow Chandelure",
+          "moves": "Hex / Shadow Ball"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "shadow-thundurus-incarnate",
@@ -519,13 +1089,51 @@
       "ivFloor": "6/6/6",
       "cpL20": 1911,
       "cpL25": 2389,
-      "weather": ["Rainy", "Windy"],
+      "weather": [
+        "Rainy",
+        "Windy"
+      ],
       "sprite": {
         "pokeapiId": 642,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png"
       },
       "notes": "Next weekends: 19–20 Sep and 26–27 Sep 2026.",
-      "highlight": true
+      "highlight": true,
+      "types": [
+        "Electric",
+        "Flying"
+      ],
+      "weakTo": [
+        "Ice",
+        "Rock"
+      ],
+      "counters": [
+        {
+          "name": "White Kyurem",
+          "moves": "Ice Fang / Ice Burn"
+        },
+        {
+          "name": "Shadow Rhyperior",
+          "moves": "Smack Down / Rock Wrecker"
+        },
+        {
+          "name": "Black Kyurem",
+          "moves": "Dragon Tail / Freeze Shock"
+        },
+        {
+          "name": "Mega Diancie",
+          "moves": "Rock Throw / Rock Slide"
+        },
+        {
+          "name": "Shadow Mamoswine",
+          "moves": "Powder Snow / Avalanche"
+        },
+        {
+          "name": "Mega Tyranitar",
+          "moves": "Smack Down / Stone Edge"
+        }
+      ],
+      "countersSource": "guide"
     },
     {
       "id": "zamazenta-hero",
@@ -547,13 +1155,50 @@
       "ivFloor": "10/10/10",
       "cpL20": 2188,
       "cpL25": 2735,
-      "weather": ["Cloudy"],
+      "weather": [
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 889,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png"
       },
       "notes": "Raid Hour: Wed 16 Sep, 6:00–7:00 PM local. Same stats as Hero Zacian.",
-      "highlight": true
+      "highlight": true,
+      "types": [
+        "Fighting"
+      ],
+      "weakTo": [
+        "Flying",
+        "Psychic",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Mewtwo Y",
+          "moves": "Confusion / Psystrike"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Mega Mewtwo X",
+          "moves": "Confusion / Psystrike"
+        },
+        {
+          "name": "Shadow Mewtwo",
+          "moves": "Psycho Cut / Psystrike"
+        },
+        {
+          "name": "Mega Alakazam",
+          "moves": "Confusion / Psychic"
+        },
+        {
+          "name": "Shadow Moltres",
+          "moves": "Wing Attack / Fly"
+        }
+      ],
+      "countersSource": "guide"
     },
     {
       "id": "mega-venusaur",
@@ -575,14 +1220,54 @@
       "ivFloor": "10/10/10",
       "cpL20": 1554,
       "cpL25": 1943,
-      "weather": ["Sunny", "Cloudy"],
+      "weather": [
+        "Sunny",
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 3,
         "mega": true,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10033.png"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
-      "notes": "Catch form: Venusaur."
+      "notes": "Catch form: Venusaur.",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "weakTo": [
+        "Fire",
+        "Ice",
+        "Flying",
+        "Psychic"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Shadow Salamence",
+          "moves": "Fire Fang / Fly"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "White Kyurem",
+          "moves": "Ice Fang / Ice Burn"
+        },
+        {
+          "name": "Shadow Mewtwo",
+          "moves": "Psycho Cut / Psystrike"
+        }
+      ],
+      "countersSource": "guide"
     },
     {
       "id": "captains-cap-pikachu",
@@ -605,12 +1290,39 @@
       "ivFloor": "10/10/10",
       "cpL20": 536,
       "cpL25": 670,
-      "weather": ["Rain"],
+      "weather": [
+        "Rain"
+      ],
       "sprite": {
         "pokeapiId": 25,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
       },
-      "notes": "CP from standard Pikachu chart (costume uses same stats unless stated otherwise)."
+      "notes": "CP from standard Pikachu chart (costume uses same stats unless stated otherwise).",
+      "types": [
+        "Electric"
+      ],
+      "weakTo": [
+        "Ground"
+      ],
+      "counters": [
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Shadow Excadrill",
+          "moves": "Mud-Slap / Drill Run"
+        },
+        {
+          "name": "Shadow Garchomp",
+          "moves": "Mud Shot / Earth Power"
+        },
+        {
+          "name": "Landorus Therian",
+          "moves": "Mud Shot / Sandsear Storm"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "charizard-goggles",
@@ -633,12 +1345,47 @@
       "ivFloor": "10/10/10",
       "cpL20": 1651,
       "cpL25": 2064,
-      "weather": ["Sunny", "Windy"],
+      "weather": [
+        "Sunny",
+        "Windy"
+      ],
       "sprite": {
         "pokeapiId": 6,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
       },
-      "notes": "Shiny goggles Charizard debuts with Horizons event."
+      "notes": "Shiny goggles Charizard debuts with Horizons event.",
+      "types": [
+        "Fire",
+        "Flying"
+      ],
+      "weakTo": [
+        "Rock 2×",
+        "Water",
+        "Electric"
+      ],
+      "counters": [
+        {
+          "name": "Shadow Rhyperior",
+          "moves": "Smack Down / Rock Wrecker"
+        },
+        {
+          "name": "Mega Diancie",
+          "moves": "Rock Throw / Rock Slide"
+        },
+        {
+          "name": "Rampardos",
+          "moves": "Smack Down / Rock Slide"
+        },
+        {
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        },
+        {
+          "name": "Xurkitree",
+          "moves": "Thunder Shock / Discharge"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "meowscarada",
@@ -661,12 +1408,51 @@
       "ivFloor": "10/10/10",
       "cpL20": 1614,
       "cpL25": 2017,
-      "weather": ["Sunny", "Fog"],
+      "weather": [
+        "Sunny",
+        "Fog"
+      ],
       "sprite": {
         "pokeapiId": 908,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Grass",
+        "Dark"
+      ],
+      "weakTo": [
+        "Fire",
+        "Ice",
+        "Flying",
+        "Fighting",
+        "Poison",
+        "Fairy",
+        "Bug"
+      ],
+      "counters": [
+        {
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Shadow Moltres",
+          "moves": "Wing Attack / Fly"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "skeledirge",
@@ -689,12 +1475,49 @@
       "ivFloor": "10/10/10",
       "cpL20": 1729,
       "cpL25": 2162,
-      "weather": ["Sunny", "Fog"],
+      "weather": [
+        "Sunny",
+        "Fog"
+      ],
       "sprite": {
         "pokeapiId": 911,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "weakTo": [
+        "Water",
+        "Ground",
+        "Rock",
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Dawn Wings Necrozma",
+          "moves": "Shadow Claw / Moongeist Beam"
+        },
+        {
+          "name": "Shadow Rhyperior",
+          "moves": "Smack Down / Rock Wrecker"
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "quaquaval",
@@ -717,12 +1540,49 @@
       "ivFloor": "10/10/10",
       "cpL20": 1724,
       "cpL25": 2155,
-      "weather": ["Rainy", "Cloudy"],
+      "weather": [
+        "Rainy",
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 914,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png"
       },
-      "notes": null
+      "notes": null,
+      "types": [
+        "Water",
+        "Fighting"
+      ],
+      "weakTo": [
+        "Electric",
+        "Grass",
+        "Flying",
+        "Psychic",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Xurkitree",
+          "moves": "Thunder Shock / Discharge"
+        },
+        {
+          "name": "Mega Mewtwo Y",
+          "moves": "Confusion / Psystrike"
+        },
+        {
+          "name": "Kartana",
+          "moves": "Razor Leaf / Leaf Blade"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        }
+      ],
+      "countersSource": "type"
     },
     {
       "id": "mega-staraptor",
@@ -745,13 +1605,52 @@
       "ivFloor": "10/10/10",
       "cpL20": 1614,
       "cpL25": 2018,
-      "weather": ["Partly Cloudy", "Windy"],
+      "weather": [
+        "Partly Cloudy",
+        "Windy"
+      ],
       "sprite": {
         "pokeapiId": 398,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png"
       },
       "notes": "Catch Staraptor. Up to 6 free passes (14 with ticket). Remote limit 20 (Fri 18 Sep 5 PM – Sat 19 Sep 8 PM PDT).",
-      "highlight": true
+      "highlight": true,
+      "types": [
+        "Normal",
+        "Flying"
+      ],
+      "weakTo": [
+        "Rock 2×",
+        "Electric",
+        "Ice"
+      ],
+      "counters": [
+        {
+          "name": "Shadow Rhyperior",
+          "moves": "Smack Down / Rock Wrecker"
+        },
+        {
+          "name": "Mega Diancie",
+          "moves": "Rock Throw / Rock Slide"
+        },
+        {
+          "name": "White Kyurem",
+          "moves": "Ice Fang / Ice Burn"
+        },
+        {
+          "name": "Xurkitree",
+          "moves": "Thunder Shock / Discharge"
+        },
+        {
+          "name": "Rampardos",
+          "moves": "Smack Down / Rock Slide"
+        },
+        {
+          "name": "Therian Thundurus",
+          "moves": "Volt Switch / Wildbolt Storm"
+        }
+      ],
+      "countersSource": "guide"
     },
     {
       "id": "xurkitree",
@@ -774,12 +1673,47 @@
       "ivFloor": "10/10/10",
       "cpL20": 2249,
       "cpL25": 2812,
-      "weather": ["Rain"],
+      "weather": [
+        "Rain"
+      ],
       "sprite": {
         "pokeapiId": 796,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/796.png"
       },
-      "notes": "Regional. Raid Hour Wed 23 Sep 6–7 PM."
+      "notes": "Regional. Raid Hour Wed 23 Sep 6–7 PM.",
+      "types": [
+        "Electric"
+      ],
+      "weakTo": [
+        "Ground"
+      ],
+      "counters": [
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Shadow Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Mega Garchomp",
+          "moves": "Mud Shot / Earth Power"
+        },
+        {
+          "name": "Shadow Excadrill",
+          "moves": "Mud-Slap / Earthquake"
+        },
+        {
+          "name": "Landorus Therian",
+          "moves": "Mud Shot / Sandsear Storm"
+        },
+        {
+          "name": "Shadow Garchomp",
+          "moves": "Mud Shot / Earth Power"
+        }
+      ],
+      "countersSource": "guide"
     },
     {
       "id": "pheromosa",
@@ -802,12 +1736,52 @@
       "ivFloor": "10/10/10",
       "cpL20": 1624,
       "cpL25": 2030,
-      "weather": ["Rain", "Cloudy"],
+      "weather": [
+        "Rain",
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 795,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/795.png"
       },
-      "notes": "Regional. Raid Hour Wed 23 Sep 6–7 PM."
+      "notes": "Regional. Raid Hour Wed 23 Sep 6–7 PM.",
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "weakTo": [
+        "Flying 2×",
+        "Fire",
+        "Psychic",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Shadow Moltres",
+          "moves": "Wing Attack / Fly"
+        },
+        {
+          "name": "Shadow Salamence",
+          "moves": "Fire Fang / Fly"
+        },
+        {
+          "name": "Mega Salamence",
+          "moves": "Fire Fang / Fly"
+        },
+        {
+          "name": "Incarnate Enamorus",
+          "moves": "Fairy Wind / Fly"
+        }
+      ],
+      "countersSource": "guide"
     },
     {
       "id": "buzzwole",
@@ -830,12 +1804,52 @@
       "ivFloor": "10/10/10",
       "cpL20": 1977,
       "cpL25": 2472,
-      "weather": ["Rain", "Cloudy"],
+      "weather": [
+        "Rain",
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 794,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/794.png"
       },
-      "notes": "Regional. Raid Hour Wed 23 Sep 6–7 PM."
+      "notes": "Regional. Raid Hour Wed 23 Sep 6–7 PM.",
+      "types": [
+        "Bug",
+        "Fighting"
+      ],
+      "weakTo": [
+        "Flying 2×",
+        "Fire",
+        "Psychic",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Shadow Moltres",
+          "moves": "Wing Attack / Fly"
+        },
+        {
+          "name": "Shadow Salamence",
+          "moves": "Fire Fang / Fly"
+        },
+        {
+          "name": "Shadow Staraptor",
+          "moves": "Gust / Fly"
+        },
+        {
+          "name": "Mega Salamence",
+          "moves": "Fire Fang / Fly"
+        }
+      ],
+      "countersSource": "guide"
     },
     {
       "id": "mega-malamar",
@@ -857,12 +1871,50 @@
       "ivFloor": "10/10/10 (standard); GO Hub DB 11/11/11 unconfirmed",
       "cpL20": 1347,
       "cpL25": 1685,
-      "weather": ["Fog", "Windy"],
+      "weather": [
+        "Fog",
+        "Windy"
+      ],
       "sprite": {
         "pokeapiId": 687,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png"
       },
-      "notes": "Catch form: Malamar. Floor note: GO Hub DB 11/11/11 unusual vs standard mega 10/10/10 — report both until confirmed."
+      "notes": "Catch form: Malamar. Floor note: GO Hub DB 11/11/11 unusual vs standard mega 10/10/10 — report both until confirmed.",
+      "types": [
+        "Dark",
+        "Psychic"
+      ],
+      "weakTo": [
+        "Bug 2×",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Pinsir",
+          "moves": "Bug Bite / X-Scissor"
+        },
+        {
+          "name": "Mega Heracross",
+          "moves": "Struggle Bug / Megahorn"
+        },
+        {
+          "name": "Mega Beedrill",
+          "moves": "Bug Bite / X-Scissor"
+        },
+        {
+          "name": "Mega Scizor",
+          "moves": "Fury Cutter / X-Scissor"
+        },
+        {
+          "name": "Pheromosa",
+          "moves": "Bug Bite / Bug Buzz"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        }
+      ],
+      "countersSource": "guide"
     },
     {
       "id": "xerneas",
@@ -884,12 +1936,48 @@
       "ivFloor": "10/10/10",
       "cpL20": 2160,
       "cpL25": 2701,
-      "weather": ["Cloudy"],
+      "weather": [
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 716,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
       },
-      "notes": "Raid Hour Wed 30 Sep 6–7 PM."
+      "notes": "Raid Hour Wed 30 Sep 6–7 PM.",
+      "types": [
+        "Fairy"
+      ],
+      "weakTo": [
+        "Poison",
+        "Steel"
+      ],
+      "counters": [
+        {
+          "name": "Crowned Sword Zacian",
+          "moves": "Metal Claw / Behemoth Blade"
+        },
+        {
+          "name": "Crowned Shield Zamazenta",
+          "moves": "Metal Claw / Behemoth Bash"
+        },
+        {
+          "name": "Dusk Mane Necrozma",
+          "moves": "Metal Claw / Sunsteel Strike"
+        },
+        {
+          "name": "Mega Metagross",
+          "moves": "Bullet Punch / Meteor Mash"
+        },
+        {
+          "name": "Shadow Metagross",
+          "moves": "Bullet Punch / Meteor Mash"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Sludge Bomb"
+        }
+      ],
+      "countersSource": "guide"
     },
     {
       "id": "mega-victreebel",
@@ -916,7 +2004,44 @@
         "pokeapiId": 71,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
       },
-      "notes": "Catch form: Victreebel. Exact 100IV CP unknown in source report — look up GO Hub Victreebel IV chart when needed."
+      "notes": "Catch form: Victreebel. Exact 100IV CP unknown in source report — look up GO Hub Victreebel IV chart when needed.",
+      "types": [
+        "Grass",
+        "Poison"
+      ],
+      "weakTo": [
+        "Fire",
+        "Ice",
+        "Flying",
+        "Psychic"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Shadow Salamence",
+          "moves": "Fire Fang / Fly"
+        },
+        {
+          "name": "White Kyurem",
+          "moves": "Ice Fang / Ice Burn"
+        },
+        {
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Shadow Mewtwo",
+          "moves": "Psycho Cut / Psystrike"
+        }
+      ],
+      "countersSource": "guide"
     }
   ],
   "events": [

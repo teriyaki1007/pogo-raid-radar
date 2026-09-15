@@ -38,7 +38,8 @@ npm run preview
 
 1. Edit **`public/data/raids.json`** (do not invent bosses/CPs/rates — sync from Leek Duck / GO Hub / pokemongolive).
 2. Keep fields consistent with existing entries (`category`: `current` | `upcoming` | `shadow`, etc.).
-3. Rebuild / redeploy. No code change required for routine rotation updates.
+3. Refresh **type / weakness / counter** fields with the schedule: each boss needs `types`, `weakTo` (mark `2×` double weaknesses), and `counters` (`{ "name", "moves" }`, ~3–6 practical attackers). Prefer live GO Hub / Pokebattler / Leek Duck guides; if none exist, use type-chart + meta attackers and set `countersSource` to `"type"` (guides use `"guide"`).
+4. Rebuild / redeploy. No code change required for routine rotation updates.
 
 Optional: keep a research markdown report elsewhere and convert into this JSON when the rotation changes.
 

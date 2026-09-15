@@ -27,6 +27,82 @@ let activeTab = "current";
 
 const $ = (sel) => document.querySelector(sel);
 
+
+const TYPE_COLORS = {
+  Normal: "#a8a878",
+  Fire: "#f08030",
+  Water: "#6890f0",
+  Electric: "#f8d030",
+  Grass: "#78c850",
+  Ice: "#98d8d8",
+  Fighting: "#c03028",
+  Poison: "#a040a0",
+  Ground: "#e0c068",
+  Flying: "#a890f0",
+  Psychic: "#f85888",
+  Bug: "#a8b820",
+  Rock: "#b8a038",
+  Ghost: "#705898",
+  Dragon: "#7038f8",
+  Dark: "#705848",
+  Steel: "#b8b8d0",
+  Fairy: "#ee99ac",
+};
+
+function typeChipStyle(typeName) {
+  const base = typeName.replace(/\s*2[×x].*$/i, "").trim();
+  const color = TYPE_COLORS[base] || "#9aabca";
+  return `background:${color}22;color:${color};border-color:${color}66`;
+}
+
+function renderWeakTo(boss) {
+  const weak = boss.weakTo || [];
+  if (!weak.length) return "";
+  const chips = weak
+    .map((t) => {
+      const label = escapeHtml(t);
+      return `<span class="type-chip" style="${typeChipStyle(t)}">${label}</span>`;
+    })
+    .join("");
+  return `
+    <div class="battle-block">
+      <span class="battle-label">Weak to</span>
+      <div class="type-chips">${chips}</div>
+    </div>`;
+}
+
+function renderCounters(boss) {
+  const counters = boss.counters || [];
+  if (!counters.length) return "";
+  const note =
+    boss.countersSource === "type"
+      ? `<span class="counters-note">Type-based picks</span>`
+      : "";
+  const items = counters
+    .slice(0, 6)
+    .map((c) => {
+      const moves = c.moves ? `<span class="counter-moves">${escapeHtml(c.moves)}</span>` : "";
+      return `<li><span class="counter-name">${escapeHtml(c.name)}</span>${moves}</li>`;
+    })
+    .join("");
+  return `
+    <div class="battle-block counters-block">
+      <div class="battle-label-row">
+        <span class="battle-label">Best counters</span>
+        ${note}
+      </div>
+      <ul class="counter-list">${items}</ul>
+    </div>`;
+}
+
+function renderBossTypes(boss) {
+  const types = boss.types || [];
+  if (!types.length) return "";
+  return `<div class="boss-types">${types
+    .map((t) => `<span class="type-chip boss-type" style="${typeChipStyle(t)}">${escapeHtml(t)}</span>`)
+    .join("")}</div>`;
+}
+
 function badgeClass(tier) {
   if (String(tier).startsWith("shadow")) return "badge-shadow";
   if (tier === "mega") return "badge-mega";
@@ -97,11 +173,14 @@ function renderBossCard(boss) {
           <div>
             <h3 class="card-title">${escapeHtml(boss.name)}</h3>
             ${boss.form ? `<span class="form">${escapeHtml(boss.form)}</span>` : ""}
+            ${renderBossTypes(boss)}
           </div>
           <span class="badge ${badgeClass(boss.tier)}">${escapeHtml(boss.tierLabel || boss.tier)}</span>
         </div>
         <p class="meta-row"><strong>Window:</strong> ${escapeHtml(boss.window)}</p>
         ${chips.length ? `<div class="chips">${chips.join("")}</div>` : ""}
+        ${renderWeakTo(boss)}
+        ${renderCounters(boss)}
         <div class="stats">
           <div class="stat">
             <span class="stat-label">Shiny</span>
