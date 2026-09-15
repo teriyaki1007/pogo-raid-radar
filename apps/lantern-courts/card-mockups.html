@@ -406,14 +406,7 @@
     line-height: 1.2;
   }
 
-  /* ========== SITE — quiet court frame (NOT stadium drama) ========== */
-  /* Sites keep normal card size + court colors; simple Site pill only */
-  .card.site-card {
-    /* inherits .card + .bureau/.alleys/.kin court frames — no bronze glow */
-  }
-  .card.site-card .art-window {
-    height: 42%;
-  }
+  /* ========== SITE / STADIUM pills (labels differ; frame is shared field-card) ========== */
   .type-pill {
     font-size: 0.58rem;
     font-weight: 700;
@@ -432,31 +425,20 @@
     color: #d8d0c0;
     border-color: #9a9080;
   }
-  .card.site-card.bureau .type-pill.site {
+  .card.field-card.bureau .type-pill.site {
     background: linear-gradient(145deg, #2a3050, #1a1f3a);
     color: #e0e4f0;
     border-color: #8a90a8;
   }
-  .card.site-card.alleys .type-pill.site {
+  .card.field-card.alleys .type-pill.site {
     background: linear-gradient(145deg, #3a1818, #1a0808);
     color: #e8d8b0;
     border-color: #a87840;
   }
-  .card.site-card.kin .type-pill.site {
+  .card.field-card.kin .type-pill.site {
     background: linear-gradient(145deg, #2a4038, #1a2a28);
     color: #d8e0d0;
     border-color: #8a9870;
-  }
-  .card.site-card .lantern-seal {
-    background: radial-gradient(circle at 35% 30%, #e8e0d0, #8a8070 55%, #3a3428);
-    border-color: #a89880;
-    color: #2a2418;
-  }
-  .card.site-card .favor-pip.gate {
-    background: radial-gradient(circle at 35% 30%, #e8e0d0, #8a8070 55%, #3a3428);
-    color: #2a2418;
-    border-color: #a89880;
-    font-size: 0.75rem;
   }
 
   .keyword-open {
@@ -464,8 +446,8 @@
     font-weight: 700;
   }
 
-  /* ========== STADIUM ONLY — architectural bronze + LEGENDARY FIELD ========== */
-  .card.stadium-card {
+  /* ========== SITE + STADIUM — shared architectural bronze field frame ========== */
+  .card.field-card {
     width: 300px;
     aspect-ratio: 5 / 6.2;
     padding: 11px;
@@ -477,23 +459,23 @@
       0 18px 36px rgba(0,0,0,0.5),
       0 0 20px rgba(180,140,60,0.22);
   }
-  .card.stadium-card.bureau {
+  .card.field-card.bureau {
     background-image:
       linear-gradient(145deg, #1e2448 0%, #14182e 50%, #1a2038 100%),
       linear-gradient(135deg, #c9a87a, #8a6a40, #e8d0a0, #6a5030, #c9a87a);
   }
-  .card.stadium-card.alleys {
+  .card.field-card.alleys {
     background-image:
       linear-gradient(145deg, #3a1010 0%, #180808 50%, #2a0c0c 100%),
       linear-gradient(135deg, #c9a87a, #8a6a40, #e8d0a0, #6a5030, #c9a87a);
   }
-  .card.stadium-card.kin {
+  .card.field-card.kin {
     background-image:
       linear-gradient(145deg, #2a4038 0%, #1a2a28 45%, #2a3848 100%),
       linear-gradient(135deg, #c9a87a, #8a6a40, #e8d0a0, #6a5030, #c9a87a);
   }
 
-  .card.stadium-card .card-inner {
+  .card.field-card .card-inner {
     background: linear-gradient(180deg, #2a2430 0%, #1c1822 50%, #16141c 100%);
     box-shadow:
       inset 0 0 0 1.5px rgba(201,168,122,0.7),
@@ -501,8 +483,8 @@
     color: #e8e0d0;
   }
 
-  /* Architectural corner motif — Stadium only */
-  .card.stadium-card .arch-corner {
+  /* Architectural corner motif — Site + Stadium (field-card) */
+  .card.field-card .arch-corner {
     position: absolute;
     width: 22px;
     height: 22px;
@@ -512,40 +494,40 @@
     border-style: solid;
     opacity: 0.9;
   }
-  .card.stadium-card .arch-corner.tl { top: 4px; left: 4px; border-width: 2px 0 0 2px; }
-  .card.stadium-card .arch-corner.tr { top: 4px; right: 4px; border-width: 2px 2px 0 0; }
-  .card.stadium-card .arch-corner.bl { bottom: 4px; left: 4px; border-width: 0 0 2px 2px; }
-  .card.stadium-card .arch-corner.br { bottom: 4px; right: 4px; border-width: 0 2px 2px 0; }
+  .card.field-card .arch-corner.tl { top: 4px; left: 4px; border-width: 2px 0 0 2px; }
+  .card.field-card .arch-corner.tr { top: 4px; right: 4px; border-width: 2px 2px 0 0; }
+  .card.field-card .arch-corner.bl { bottom: 4px; left: 4px; border-width: 0 0 2px 2px; }
+  .card.field-card .arch-corner.br { bottom: 4px; right: 4px; border-width: 0 2px 2px 0; }
 
-  .card.stadium-card .art-window {
+  .card.field-card .art-window {
     height: 48%;
     border: 1.5px solid rgba(201,168,122,0.65);
     border-radius: 3px;
   }
-  .card.stadium-card .art-window img {
+  .card.field-card .art-window img {
     object-position: center center;
   }
 
-  .card.stadium-card .name-plate {
+  .card.field-card .name-plate {
     background: linear-gradient(90deg, #1a140c 0%, #2a2010 50%, #1a140c 100%);
     color: #e8d8b0;
     border-color: #c9a87a;
     text-shadow: 0 1px 2px rgba(0,0,0,0.7);
   }
-  .card.stadium-card .type-line { color: #c8b890; }
-  .card.stadium-card .rule-line {
+  .card.field-card .type-line { color: #c8b890; }
+  .card.field-card .rule-line {
     background: linear-gradient(90deg, transparent, #c9a87a, transparent);
   }
-  .card.stadium-card .text-box {
+  .card.field-card .text-box {
     background: rgba(10, 8, 16, 0.65);
     border: 1px solid rgba(201,168,122,0.3);
   }
-  .card.stadium-card .text-box .rules { color: #e0d8c8; }
-  .card.stadium-card .text-box .flavor {
+  .card.field-card .text-box .rules { color: #e0d8c8; }
+  .card.field-card .text-box .flavor {
     color: #b0a070;
     border-top-color: rgba(201,168,122,0.2);
   }
-  .card.stadium-card .set-code { color: #a89060; }
+  .card.field-card .set-code { color: #a89060; }
 
   .type-pill.stadium {
     background: linear-gradient(145deg, #3a2a10, #1a1408);
@@ -768,9 +750,9 @@
     background: linear-gradient(135deg, #c9a87a, #6a5030);
     border: 1px solid #e8d0a0;
   }
-  .swatch.site-quiet {
-    background: #e4d7bc;
-    border: 1px solid #8a8070;
+  .swatch.field {
+    background: linear-gradient(135deg, #c9a87a, #6a5030);
+    border: 1px solid #e8d0a0;
   }
 
 
@@ -1055,7 +1037,7 @@
 
 <header class="page-header">
   <h1>Lantern Courts — Full Set Card Mockups (80)</h1>
-  <p class="note">60 Spirits + 10 Sites/Stadiums + 10 Support (Charms, Relics, Edicts). Only Mythics (gold foil) and Stadiums (architectural bronze) stand out; Sites stay quiet court frames. Art is draft concept imagery.</p>
+  <p class="note">60 Spirits + 10 Sites/Stadiums + 10 Support (Charms, Relics, Edicts). Mythics use gold foil; Sites and Stadiums share the same architectural bronze field frame; all other cards stay quiet. Art is draft concept imagery.</p>
   <div class="toolbar">
     <div class="filters" id="filters" role="toolbar" aria-label="Card filters">
       <button type="button" class="chip active" data-filter="all">All</button>
@@ -1080,8 +1062,8 @@
   <span><i class="swatch alleys"></i> Yokai Alleys</span>
   <span><i class="swatch kin"></i> Mountain Kin</span>
   <span><i class="swatch mythic"></i> Mythic gold filigree</span>
-  <span><i class="swatch stadium"></i> Stadium architectural</span>
-  <span><i class="swatch site-quiet"></i> Site (quiet court)</span>
+  <span><i class="swatch stadium"></i> Site / Stadium field frame</span>
+  <span><i class="swatch field"></i> Architectural bronze (shared)</span>
   <span><i class="swatch charm"></i> Charm talisman</span>
   <span><i class="swatch relic"></i> Relic bronze</span>
   <span><i class="swatch edict"></i> Mythic Edict gold</span>
@@ -1202,12 +1184,10 @@
     const pillLabel = isStadium ? "Stadium" : "Site";
     const typeExtra = isStadium ? "Legendary Field" : "";
 
-    /* Do NOT apply stadium-card / architectural heavy classes to Sites */
-    const classes = ["card", courtClass, isStadium ? "stadium-card" : "site-card"];
-    const archCorners = isStadium
-      ? `<span class="arch-corner tl"></span><span class="arch-corner tr"></span>
-      <span class="arch-corner bl"></span><span class="arch-corner br"></span>`
-      : "";
+    /* Site AND Stadium share field-card architectural bronze standout */
+    const classes = ["card", courtClass, "field-card", isStadium ? "stadium-card" : "site-card"];
+    const archCorners = `<span class="arch-corner tl"></span><span class="arch-corner tr"></span>
+      <span class="arch-corner bl"></span><span class="arch-corner br"></span>`;
 
     return `<article class="${classes.join(" ")}" data-id="${escapeHtml(e.id)}"
       data-kind="${isStadium ? "stadium" : "site"}" data-rarity=""
