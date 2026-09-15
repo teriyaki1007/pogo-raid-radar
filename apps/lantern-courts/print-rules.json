@@ -1,0 +1,428 @@
+{
+  "spirits": {
+    "minister-of-ledgers": {
+      "code": "LC01-001",
+      "rules": "Whenever you place a Seal, draw a card.",
+      "flavor": "He does not shout or strike — he amends."
+    },
+    "star-warden-qiulan": {
+      "code": "LC01-002",
+      "rules": "Pay 1 Favor: Pin target Spirit until your next turn. (It cannot change lanes.) Activate this ability only once each turn.",
+      "flavor": "Mortals say the stars are nails she drove into the sky."
+    },
+    "debt-fox": {
+      "code": "LC01-003",
+      "rules": "When The Debt Fox enters, look at an opponent's hand. That player owes you 1 Favor at the beginning of their next turn. (They must pay it if able.)",
+      "flavor": "Those who bargain lightly wake to find their names stamped in vermillion."
+    },
+    "jade-drum-general": {
+      "code": "LC01-004",
+      "rules": "Whenever Jade Drum General deals damage, you may place a Bureau Seal on a Site you control.",
+      "flavor": "Every strike is a roll call; every echo a marching order."
+    },
+    "junior-auditor": {
+      "code": "LC01-005",
+      "rules": "When Junior Auditor enters, gain 1 Favor.",
+      "flavor": "Heaven promotes those who finish the paperwork before dawn."
+    },
+    "lady-of-a-thousand-masks": {
+      "code": "LC01-006",
+      "rules": "Discard a card: Lady of a Thousand Masks's Might becomes equal to another target Spirit's Might until end of turn. Activate this ability only once each turn.",
+      "flavor": "She does not steal faces — she rents them, and the interest is identity."
+    },
+    "river-boy-kappa": {
+      "code": "LC01-007",
+      "rules": "As long as River-Boy Kappa is undamaged, it gets +2 Might.\nAs long as it is damaged, whenever it deals or takes damage, an opponent gains 1 Favor.",
+      "flavor": "He bows before he drowns you."
+    },
+    "lantern-bride": {
+      "code": "LC01-008",
+      "rules": "When Lantern Bride enters, name a Court. Spirits of the named Court your opponents control get −1 Might for as long as she remains on the battlefield.",
+      "flavor": "Until she finds a true name, her flame softens every court that refuses her invitation."
+    },
+    "oni-of-broken-gates": {
+      "code": "LC01-009",
+      "rules": "Oni of Broken Gates can't have Seals placed on it.\nWhen it enters, you may search your deck for a Site card, reveal it, put it onto the battlefield open, then shuffle.",
+      "flavor": "Seals slide off his skin; thresholds do not."
+    },
+    "alley-pickpocket": {
+      "code": "LC01-010",
+      "rules": "When Alley Pickpocket enters, an opponent discards a Charm card if able. If they can't, draw a card.",
+      "flavor": "Takes Charms from sleeves and secrets from pockets."
+    },
+    "tiger-of-the-pass": {
+      "code": "LC01-011",
+      "rules": "Whenever a Spirit an opponent controls would enter a lane you control, that player may pay 1 Favor. If they don't, that Spirit enters exhausted.",
+      "flavor": "Every traveler pays a tax — a riddle, a scar, or a Favor."
+    },
+    "granny-of-the-wind": {
+      "code": "LC01-012",
+      "rules": "Pay 1 Favor: Exhaust target Spirit or Site. Activate this ability only once each turn.",
+      "flavor": "When she unties one strand, whole valleys forget which way is down."
+    },
+    "dokkaebi-of-the-brass-club": {
+      "code": "LC01-013",
+      "rules": "When Dokkaebi of the Brass Club enters, create a Gold Pebble token Relic with \"Pay, Exile Gold Pebble: Gain 2 Favor.\"",
+      "flavor": "Pebbles become gold; gold becomes trouble. He considers both a good night."
+    },
+    "silent-crane": {
+      "code": "LC01-014",
+      "rules": "Silent Crane can't be the target of Charm spells or abilities.\nOnce per game — Look at the top five cards of your deck. You may put a Charm or Edict card from among them into your hand. Put the rest on the bottom in any order.",
+      "flavor": "Never speaks — only folds truth into paper and flies where seals still hold."
+    },
+    "shrine-attendant": {
+      "code": "LC01-015",
+      "rules": "As long as you control a Mountain Kin Site, Shrine Attendant gets +2 Might.",
+      "flavor": "The bells know his footsteps; the tiger allows his broom."
+    },
+    "pearl-abacus-spirit": {
+      "code": "LC01-016",
+      "rules": "When Pearl Abacus Spirit enters, if you control a Celestial Bureau Site, gain 1 Favor.",
+      "flavor": "Every Favor spent near it is tallied twice — once for you, once for Heaven."
+    },
+    "moon-ink-brush": {
+      "code": "LC01-017",
+      "rules": "Pay 1 Favor: Place a Bureau Seal on target Spirit you control. Activate this ability only once each turn.",
+      "flavor": "What it writes overnight becomes law by dawn — if the seal still sticks."
+    },
+    "tribunal-mirror": {
+      "code": "LC01-018",
+      "rules": "When Tribunal Mirror enters, look at an opponent's hand.\nPay 0 Favor: If you control two or more Seals, Tribunal Mirror deals 1 damage to target Spirit. Activate this ability only once each turn.",
+      "flavor": "It does not lie; it only shows the debt you hoped nobody saw."
+    },
+    "courier-of-red-seals": {
+      "code": "LC01-019",
+      "rules": "When Courier of Red Seals enters, draw a card, then discard a card.",
+      "flavor": "Late deliveries rewrite entire courts."
+    },
+    "empress-of-empty-thrones": {
+      "code": "LC01-020",
+      "rules": "When Empress of Empty Thrones enters, for each Court among Seals you control, place one Seal of that Court on a Site you control. (Place at most one Seal per Court this way.)",
+      "flavor": "When the Mandate expires, her silence is the new law."
+    },
+    "paper-cut-assassin": {
+      "code": "LC01-021",
+      "rules": "As long as you have discarded a card this turn, Paper-Cut Assassin gets +1 Might and may attack as though it had haste for combat.",
+      "flavor": "Edges sharp enough to cut a name from a ledger."
+    },
+    "sake-barrel-oni": {
+      "code": "LC01-022",
+      "rules": "When Sake Barrel Oni enters, you and an opponent each draw a card.",
+      "flavor": "Spilled sake becomes courage, then trouble."
+    },
+    "twin-gate-cats": {
+      "code": "LC01-023",
+      "rules": "The first Charm spell you cast each turn costs 1 less Favor to cast. (Minimum 0.)",
+      "flavor": "One white for luck, one black for bargains."
+    },
+    "umbrella-ghost": {
+      "code": "LC01-024",
+      "rules": "Whenever a Site opens, Umbrella Ghost gets +2 Might until end of turn.",
+      "flavor": "Rain is its invitation; puddles are its doors."
+    },
+    "festival-drum-yokai": {
+      "code": "LC01-025",
+      "rules": "Whenever Festival Drum Yokai deals damage, you may discard a card. If you do, it deals 1 damage to another target Spirit an opponent controls.",
+      "flavor": "Each beat summons lanterns — and debts."
+    },
+    "stone-turtle-of-the-ridge": {
+      "code": "LC01-026",
+      "rules": "Stone Turtle of the Ridge can't be exhausted by effects an opponent controls.",
+      "flavor": "A shrine rides its shell; centuries ride its patience."
+    },
+    "firefly-monk": {
+      "code": "LC01-027",
+      "rules": "When Firefly Monk enters, search your deck for a Mountain Kin Site card, reveal it, then shuffle and put that card on top.",
+      "flavor": "Guides the lost — and marks them for the Tiger's tax."
+    },
+    "avalanche-maiden": {
+      "code": "LC01-028",
+      "rules": "Pay 2 Favor: Avalanche Maiden deals 2 damage to each exhausted Spirit an opponent controls. Activate this ability only once each turn.",
+      "flavor": "Soft voice, white robes, whole valleys sliding when she sighs."
+    },
+    "iron-bell-warden": {
+      "code": "LC01-029",
+      "rules": "Charm spells an opponent controls that target a Spirit you control cost 1 more Favor to cast.",
+      "flavor": "When it rings, storms and trespassers both stop."
+    },
+    "mountain-king-sansin": {
+      "code": "LC01-030",
+      "rules": "When Mountain King Sansin enters, exhaust all Spirits an opponent controls in your lane.",
+      "flavor": "Even Heaven's ledgers leave a blank line for his seal."
+    },
+    "inkstone-guardian": {
+      "code": "LC01-031",
+      "rules": "When Inkstone Guardian enters, if you control a Celestial Bureau Site, place a Bureau Seal on that Site.",
+      "flavor": "Spill its ink and a destiny blots out."
+    },
+    "cloud-stair-porter": {
+      "code": "LC01-032",
+      "rules": "When Cloud Stair Porter enters, reveal the top card of your deck. If it's a Relic or Site card, put it into your hand. Otherwise, put it on the bottom of your deck.",
+      "flavor": "Late deliveries rewrite Heaven's schedule."
+    },
+    "vermillion-quill": {
+      "code": "LC01-033",
+      "rules": "Pay 1 Favor: Discard a card, then draw a card. Activate this ability only once each turn.",
+      "flavor": "What it crosses out never returns the same."
+    },
+    "night-archive-moth": {
+      "code": "LC01-034",
+      "rules": "Whenever a Seal is placed, gain 1 Favor. This ability triggers only once each turn.",
+      "flavor": "Dust from its wings is powdered history."
+    },
+    "jade-seal-lion": {
+      "code": "LC01-035",
+      "rules": "Spirits an opponent controls that are attacking Sites you control get −1 Might.",
+      "flavor": "Thieves become footnotes."
+    },
+    "astral-census-clerk": {
+      "code": "LC01-036",
+      "rules": "When Astral Census Clerk enters, look at the top three cards of your deck. Put one into your hand and the rest on the bottom in any order.",
+      "flavor": "When a star falls, someone is late on taxes."
+    },
+    "phoenix-of-rewritten-names": {
+      "code": "LC01-037",
+      "rules": "Once per game — Return target Spirit card from your discard to the battlefield exhausted. Place a Bureau Seal on it.",
+      "flavor": "Resurrection is just better paperwork."
+    },
+    "bronze-gong-sentinel": {
+      "code": "LC01-038",
+      "rules": "When Bronze Gong Sentinel enters, exhaust target Spirit with Might 3 or less.",
+      "flavor": "When the gong rings, even foxes stand still."
+    },
+    "silk-rope-binders": {
+      "code": "LC01-039",
+      "rules": "When Silk Rope Binders enters, pin target Spirit until end of turn. (It can't change lanes.)",
+      "flavor": "Soft silk, hard terms."
+    },
+    "oracle-of-half-truths": {
+      "code": "LC01-040",
+      "rules": "When Oracle of Half-Truths enters, an opponent chooses one —\n• You draw two cards.\n• That player discards two cards.",
+      "flavor": "Holds two cracked bones — one true, one kind. Courts pay for both."
+    },
+    "shadow-puppet-twin": {
+      "code": "LC01-041",
+      "rules": "When Shadow Puppet Twin is defeated, create a 1-Might Shadow token Spirit.",
+      "flavor": "Cut one and the other laughs."
+    },
+    "candy-apple-spirit": {
+      "code": "LC01-042",
+      "rules": "When Candy Apple Spirit enters, an opponent gains 1 Favor and you draw a card.",
+      "flavor": "Sticky debts stick longest."
+    },
+    "nekomata-of-lost-keys": {
+      "code": "LC01-043",
+      "rules": "Discard a Charm card: Draw a Charm card. Activate this ability only once each turn.",
+      "flavor": "Opens doors that should stay locked — for a fee."
+    },
+    "wall-spirit-nurikabe": {
+      "code": "LC01-044",
+      "rules": "Wall Spirit Nurikabe can't attack.\nWhenever a Spirit an opponent controls enters this lane, it enters exhausted.",
+      "flavor": "Blocks the path until you forget why you walked."
+    },
+    "blade-of-folded-fortune": {
+      "code": "LC01-045",
+      "rules": "Whenever you discard a card, Blade of Folded Fortune gets +1 Might until end of turn.",
+      "flavor": "Luck cuts both ways."
+    },
+    "tengu-of-rooftop-markets": {
+      "code": "LC01-046",
+      "rules": "Pay 1 Favor: Look at an opponent's hand. Activate this ability only once each turn.",
+      "flavor": "Long nose, longer ledger of insults."
+    },
+    "mask-merchant-elder": {
+      "code": "LC01-047",
+      "rules": "When Mask Merchant Elder enters, choose two Spirits you control. Exchange their Courts permanently. (They keep their other characteristics.)",
+      "flavor": "The price is always who you used to be."
+    },
+    "will-o-lantern-swarm": {
+      "code": "LC01-048",
+      "rules": "When Will-o-Lantern Swarm enters, it deals 1 damage to each Spirit an opponent controls in a lane of your choice.",
+      "flavor": "Follow them and you arrive somewhere wrong."
+    },
+    "bone-flute-piper": {
+      "code": "LC01-049",
+      "rules": "When Bone Flute Piper enters, exhaust target Site.",
+      "flavor": "The tune makes debts dance."
+    },
+    "night-parade-general": {
+      "code": "LC01-050",
+      "rules": "When Night Parade General enters, other Yokai Alleys Spirits you control get +1 Might until end of turn. Draw a card.",
+      "flavor": "Where he walks, lanterns bow."
+    },
+    "moss-deer-of-the-pass": {
+      "code": "LC01-051",
+      "rules": "As long as you control a Mountain Kin Site, Moss Deer of the Pass gets +1 Might.",
+      "flavor": "Soft steps, old taxes."
+    },
+    "pine-needle-archer": {
+      "code": "LC01-052",
+      "rules": "When Pine Needle Archer enters, it deals 1 damage to target Spirit.",
+      "flavor": "Shoots needles that whistle like wind through pines."
+    },
+    "landslide-boar": {
+      "code": "LC01-053",
+      "rules": "Whenever Landslide Boar attacks, you may close target Site. (Exhaust it; it is no longer open.)",
+      "flavor": "Paths rearrange when it runs."
+    },
+    "frost-bell-fox": {
+      "code": "LC01-054",
+      "rules": "Pay 1 Favor: Exhaust target Spirit with Might 2 or less. Activate this ability only once each turn.",
+      "flavor": "Ring once for warning, twice for winter."
+    },
+    "ridge-witch-of-echoes": {
+      "code": "LC01-055",
+      "rules": "Pay costs as able — Once each turn: Copy the enters ability of another Mountain Kin Spirit you control. You may choose new targets for the copy.",
+      "flavor": "Calls across cliffs until echoes become birds that remember you."
+    },
+    "thunder-toad-of-the-valley": {
+      "code": "LC01-056",
+      "rules": "Whenever you cast a Charm spell, Thunder Toad of the Valley deals 1 damage to target Spirit an opponent controls.",
+      "flavor": "Valleys flood when it blinks."
+    },
+    "white-snake-immortal": {
+      "code": "LC01-057",
+      "rules": "At the beginning of the end step of your turn, if White Snake Immortal is undamaged, heal 1 damage from another target Spirit you control. If no Spirit you control is damaged, gain 1 Favor instead.",
+      "flavor": "Kindness with fangs."
+    },
+    "cliff-swallow-scout": {
+      "code": "LC01-058",
+      "rules": "When Cliff Swallow Scout enters, scry 2. (Look at the top two cards of your deck, then put any number on the bottom and the rest on top in any order.)",
+      "flavor": "Scrolls under wing, wind under feet."
+    },
+    "geomancy-compass-spirit": {
+      "code": "LC01-059",
+      "rules": "When Geomancy Compass Spirit enters, search your deck for a Site card, reveal it, then shuffle and put that card on top.",
+      "flavor": "Wrong orientation invites grudges."
+    },
+    "immortal-of-the-nine-peaks": {
+      "code": "LC01-060",
+      "rules": "When Immortal of the Nine Peaks enters, gain 1 Favor for each Mountain Kin Site you control, to a maximum of 3. Mountain Kin Spirits you control get +1 Might until end of turn.",
+      "flavor": "Even Heaven's Mandate looks up."
+    }
+  },
+  "environments": {
+    "bureau-gatehouse": {
+      "code": "LC01-S01",
+      "rules": "Open — Gain 1 Favor. Place a Bureau Seal on Bureau Gatehouse.",
+      "flavor": "Cross after the third lantern and you owe the Bureau a name.",
+      "type": "Site"
+    },
+    "heavens-ledger-hall": {
+      "code": "LC01-S02",
+      "rules": "Legendary Field — Only one Stadium may be active.\nSpirits you control get +1 Might for each Seal on Sites you control, to a maximum of +2.\nWhenever you place a Seal, you may draw a card. If you do, discard a card.",
+      "flavor": "Floating ink revises lives while clerks pretend not to listen.",
+      "type": "Stadium"
+    },
+    "cloud-bridge-of-stars": {
+      "code": "LC01-S03",
+      "rules": "Legendary Field — Only one Stadium may be active.\nPay 1 Favor less to activate Pin abilities. (Minimum 0.)\nSpirits you control with Pin abilities get +1 Might.",
+      "flavor": "Qiulan walks it alone; others fall through the gaps between stars.",
+      "type": "Stadium"
+    },
+    "night-market-of-masks": {
+      "code": "LC01-S04",
+      "rules": "Open — Gain 1 Favor.\nOnce each turn, while Night Market of Masks is open: Discard a card, then draw a card.",
+      "flavor": "Buy a mask, sell a memory, leave before your reflection puts one on.",
+      "type": "Site"
+    },
+    "river-court-shallows": {
+      "code": "LC01-S05",
+      "rules": "Legendary Field — Only one Stadium may be active.\nUndamaged Spirits you control get +1 Might.\nCharm spells cost 1 less Favor to cast if they target an undamaged Spirit. (Minimum 0.)",
+      "flavor": "The Kappa holds court here; courtesy is the first trap.",
+      "type": "Stadium"
+    },
+    "broken-torii-path": {
+      "code": "LC01-S06",
+      "rules": "Legendary Field — Only one Stadium may be active.\nSpirits you control with Might 4 or greater get +1 Might.\nWhenever a Site opens or closes, Spirits you control get +1 Might until end of turn.",
+      "flavor": "The Oni calls these broken gates a welcome mat.",
+      "type": "Stadium"
+    },
+    "pass-of-old-grudges": {
+      "code": "LC01-S07",
+      "rules": "Open — Gain 1 Favor.\nDamaged Spirits in this Site's lane get +1 Might.",
+      "flavor": "The Tiger taxes the living; the wind taxes the rest.",
+      "type": "Site"
+    },
+    "mountain-shrine-of-bells": {
+      "code": "LC01-S08",
+      "rules": "Legendary Field — Only one Stadium may be active.\nMountain Kin Spirits you control get +1 Might.\nPay 1 Favor: Exhaust or untap target Site. Activate this ability only once each turn.",
+      "flavor": "When the bells ring, storms listen.",
+      "type": "Stadium"
+    },
+    "vermillion-archive-vault": {
+      "code": "LC01-S09",
+      "rules": "Legendary Field — Only one Stadium may be active.\nWhenever you place a Seal, gain 1 Favor. This ability triggers only once each turn.\nBureau Spirits you control get +1 Might as long as you control two or more Seals.",
+      "flavor": "Secrets filed under lock and constellation.",
+      "type": "Stadium"
+    },
+    "hundred-yokai-night-road": {
+      "code": "LC01-S10",
+      "rules": "Legendary Field — Only one Stadium may be active.\nWhenever you discard a card, Yokai Alleys Spirits you control get +1 Might until end of turn.\nAt the beginning of combat on your turn, if you control three or more Alleys Spirits, draw a card.",
+      "flavor": "Walk it once and you join the count.",
+      "type": "Stadium"
+    }
+  },
+  "support": {
+    "constellation-thread": {
+      "code": "LC01-061",
+      "rules": "When Constellation Thread resolves, target Spirit you control gets +1 Might until end of turn. If it's Celestial Bureau, draw a card.",
+      "flavor": "Silver thread stitching night to a sleeve.",
+      "type": "Charm"
+    },
+    "rewrite-the-line": {
+      "code": "LC01-062",
+      "rules": "Move one Seal from any permanent to another legal permanent.",
+      "flavor": "The brush decides which fate survives the page.",
+      "type": "Charm"
+    },
+    "borrowed-face": {
+      "code": "LC01-063",
+      "rules": "Exchange the Court of two target Spirits you control until end of turn.",
+      "flavor": "Two masks, one bargain.",
+      "type": "Charm"
+    },
+    "hungry-courtesy": {
+      "code": "LC01-064",
+      "rules": "Hungry Courtesy deals 2 damage to target Spirit. If you control a Kappa or Fox Spirit, draw a card.",
+      "flavor": "Empty bowl. Full teeth.",
+      "type": "Charm"
+    },
+    "riddle-tax": {
+      "code": "LC01-065",
+      "rules": "An opponent chooses: they give you 1 Favor, or the next Spirit they play enters exhausted.",
+      "flavor": "The pass always collects.",
+      "type": "Charm"
+    },
+    "untie-the-storm": {
+      "code": "LC01-066",
+      "rules": "Untie the Storm deals 1 damage to each Spirit an opponent controls. Mountain Kin Spirits you control get +1 Might until end of turn.",
+      "flavor": "One braid. Whole valleys rearrange.",
+      "type": "Charm"
+    },
+    "heavens-receipt": {
+      "code": "LC01-067",
+      "rules": "Equip / Attach to Spirit you control. Whenever attached Spirit survives damage, gain 1 Favor.",
+      "flavor": "Proof that Heaven was paid.",
+      "type": "Relic"
+    },
+    "broken-torii-shard": {
+      "code": "LC01-068",
+      "rules": "Attach to Spirit you control. Attached Spirit may deal combat damage to Sites as though they were Spirits. (Damage can close a Site.)",
+      "flavor": "Sacred wood that remembers being a gate.",
+      "type": "Relic"
+    },
+    "seal-of-the-three-courts": {
+      "code": "LC01-069",
+      "rules": "At the beginning of your end step, if you control at least one Seal of each Court (Bureau, Alleys, Kin), you claim 1 Mandate progress.",
+      "flavor": "Uneasy peace, stamped thrice.",
+      "type": "Relic"
+    },
+    "expiring-mandate": {
+      "code": "LC01-070",
+      "rules": "Cast only if you control 2 or more Seals. An opponent loses 1 Mandate progress. Draw two cards. Exile The Expiring Mandate.",
+      "flavor": "The golden thread snaps — and the treaty rewrites itself.",
+      "type": "Edict"
+    }
+  }
+}

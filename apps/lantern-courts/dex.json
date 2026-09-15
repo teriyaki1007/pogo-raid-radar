@@ -885,5 +885,137 @@
       "story": "The parade road where lanterns outnumber stars. Walk it once and you join the count.",
       "usage": "Alleys stadium. Aggro and discard tricks thrive; Night Parade General's home turf."
     }
+  ],
+  "support": [
+    {
+      "id": "constellation-thread",
+      "number": "061",
+      "name": "Constellation Thread",
+      "court": "Celestial Bureau",
+      "rarity": "Common",
+      "type": "Charm",
+      "favor": 1,
+      "might": "N/A",
+      "image": "support/constellation-thread.png",
+      "story": "Silver thread stitching night to a sleeve.",
+      "usage": "When Constellation Thread resolves, target Spirit you control gets +1 Might until end of turn. If it's Celestial Bureau, draw a card."
+    },
+    {
+      "id": "rewrite-the-line",
+      "number": "062",
+      "name": "Rewrite the Line",
+      "court": "Celestial Bureau",
+      "rarity": "Uncommon",
+      "type": "Charm",
+      "favor": 2,
+      "might": "N/A",
+      "image": "support/rewrite-the-line.png",
+      "story": "The brush decides which fate survives the page.",
+      "usage": "Move one Seal from any permanent to another legal permanent."
+    },
+    {
+      "id": "borrowed-face",
+      "number": "063",
+      "name": "Borrowed Face",
+      "court": "Yokai Alleys",
+      "rarity": "Common",
+      "type": "Charm",
+      "favor": 1,
+      "might": "N/A",
+      "image": "support/borrowed-face.png",
+      "story": "Two masks, one bargain.",
+      "usage": "Exchange the Court of two target Spirits you control until end of turn."
+    },
+    {
+      "id": "hungry-courtesy",
+      "number": "064",
+      "name": "Hungry Courtesy",
+      "court": "Yokai Alleys",
+      "rarity": "Uncommon",
+      "type": "Charm",
+      "favor": 2,
+      "might": "N/A",
+      "image": "support/hungry-courtesy.png",
+      "story": "Empty bowl. Full teeth.",
+      "usage": "Hungry Courtesy deals 2 damage to target Spirit. If you control a Kappa or Fox Spirit, draw a card."
+    },
+    {
+      "id": "riddle-tax",
+      "number": "065",
+      "name": "Riddle Tax",
+      "court": "Mountain Kin",
+      "rarity": "Common",
+      "type": "Charm",
+      "favor": 1,
+      "might": "N/A",
+      "image": "support/riddle-tax.png",
+      "story": "The pass always collects.",
+      "usage": "An opponent chooses: they give you 1 Favor, or the next Spirit they play enters exhausted."
+    },
+    {
+      "id": "untie-the-storm",
+      "number": "066",
+      "name": "Untie the Storm",
+      "court": "Mountain Kin",
+      "rarity": "Uncommon",
+      "type": "Charm",
+      "favor": 3,
+      "might": "N/A",
+      "image": "support/untie-the-storm.png",
+      "story": "One braid. Whole valleys rearrange.",
+      "usage": "Untie the Storm deals 1 damage to each Spirit an opponent controls. Mountain Kin Spirits you control get +1 Might until end of turn."
+    },
+    {
+      "id": "heavens-receipt",
+      "number": "067",
+      "name": "Heaven's Receipt",
+      "court": "Celestial Bureau",
+      "rarity": "Uncommon",
+      "type": "Relic",
+      "favor": 2,
+      "might": "N/A",
+      "image": "support/heavens-receipt.png",
+      "story": "Proof that Heaven was paid.",
+      "usage": "Equip / Attach to Spirit you control. Whenever attached Spirit survives damage, gain 1 Favor."
+    },
+    {
+      "id": "broken-torii-shard",
+      "number": "068",
+      "name": "Broken Torii Shard",
+      "court": "Yokai Alleys",
+      "rarity": "Uncommon",
+      "type": "Relic",
+      "favor": 2,
+      "might": "N/A",
+      "image": "support/broken-torii-shard.png",
+      "story": "Sacred wood that remembers being a gate.",
+      "usage": "Attach to Spirit you control. Attached Spirit may deal combat damage to Sites as though they were Spirits. (Damage can close a Site.)"
+    },
+    {
+      "id": "seal-of-the-three-courts",
+      "number": "069",
+      "name": "Seal of the Three Courts",
+      "court": "Colorless",
+      "rarity": "Rare",
+      "type": "Relic",
+      "favor": 3,
+      "might": "N/A",
+      "image": "support/seal-of-the-three-courts.png",
+      "story": "Uneasy peace, stamped thrice.",
+      "usage": "At the beginning of your end step, if you control at least one Seal of each Court (Bureau, Alleys, Kin), you claim 1 Mandate progress."
+    },
+    {
+      "id": "expiring-mandate",
+      "number": "070",
+      "name": "The Expiring Mandate",
+      "court": "Colorless",
+      "rarity": "Mythic",
+      "type": "Edict",
+      "favor": 4,
+      "might": "N/A",
+      "image": "support/expiring-mandate.png",
+      "story": "The golden thread snaps — and the treaty rewrites itself.",
+      "usage": "Cast only if you control 2 or more Seals. An opponent loses 1 Mandate progress. Draw two cards. Exile The Expiring Mandate."
+    }
   ]
 }

@@ -1,0 +1,1396 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Lantern Courts — Full Set Card Mockups (80)</title>
+<style>
+  :root {
+    --paper: #f4ecd8;
+    --ink: #1a1510;
+    --muted: #5a4e42;
+    --gold: #d4af37;
+    --gold-bright: #f0e6a0;
+    --gold-deep: #8a7010;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    min-height: 100vh;
+    font-family: "Palatino Linotype", Palatino, "Book Antiqua", Georgia, serif;
+    color: var(--ink);
+    background:
+      radial-gradient(ellipse at 20% 0%, #2a2438 0%, transparent 50%),
+      radial-gradient(ellipse at 80% 100%, #1a2a22 0%, transparent 45%),
+      linear-gradient(160deg, #121018 0%, #1c1814 50%, #0e1218 100%);
+    padding: 2rem 1.25rem 4rem;
+  }
+
+  .page-header {
+    max-width: 1280px;
+    margin: 0 auto 1.25rem;
+    text-align: center;
+  }
+
+  .page-header h1 {
+    margin: 0 0 0.5rem;
+    font-size: clamp(1.4rem, 3vw, 2rem);
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: #f0e6d2;
+    text-shadow: 0 2px 12px rgba(0,0,0,0.5);
+  }
+
+  .page-header .note {
+    margin: 0 auto 1rem;
+    max-width: 40rem;
+    font-size: 0.88rem;
+    color: #a89880;
+    font-style: italic;
+    line-height: 1.45;
+  }
+
+  .toolbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0.75rem;
+  }
+
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    justify-content: center;
+  }
+
+  .chip {
+    appearance: none;
+    border: 1px solid rgba(212, 175, 55, 0.35);
+    background: rgba(30, 26, 22, 0.75);
+    color: #d8cbb0;
+    font-family: inherit;
+    font-size: 0.72rem;
+    letter-spacing: 0.04em;
+    padding: 0.35rem 0.7rem;
+    border-radius: 999px;
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s, color 0.15s;
+  }
+  .chip:hover { border-color: var(--gold); color: #f0e6d2; }
+  .chip.active {
+    background: linear-gradient(145deg, #3a3018, #1a150c);
+    border-color: var(--gold);
+    color: var(--gold-bright);
+    box-shadow: 0 0 10px rgba(212,175,55,0.25);
+  }
+
+  .count-display {
+    font-size: 0.8rem;
+    color: #a89880;
+    letter-spacing: 0.03em;
+    min-width: 7rem;
+  }
+
+  .status-msg {
+    text-align: center;
+    color: #a89880;
+    font-size: 0.9rem;
+    margin: 2rem 0;
+  }
+  .status-msg.error { color: #e08070; }
+
+  .gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+    gap: 2.25rem 1.5rem;
+    max-width: 1280px;
+    margin: 0 auto;
+    justify-items: center;
+  }
+
+  /* ——— Card shell (normal C/U/R spirits) ——— */
+  .card {
+    width: 280px;
+    aspect-ratio: 5 / 7;
+    border-radius: 14px;
+    padding: 10px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    box-shadow:
+      0 4px 6px rgba(0,0,0,0.35),
+      0 14px 28px rgba(0,0,0,0.45),
+      inset 0 1px 0 rgba(255,255,255,0.15);
+    background-color: #2a241c;
+    overflow: hidden;
+  }
+
+  .card::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 14px;
+    pointer-events: none;
+    opacity: 0.28;
+    background-image:
+      url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.55'/%3E%3C/svg%3E");
+    mix-blend-mode: overlay;
+    z-index: 5;
+  }
+
+  .card-inner {
+    position: relative;
+    z-index: 1;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border-radius: 8px;
+    background: linear-gradient(180deg, #ebe2cd 0%, #e4d7bc 40%, #dccdb0 100%);
+    padding: 6px;
+    min-height: 0;
+    box-shadow: inset 0 0 0 1px rgba(255,255,255,0.35);
+  }
+
+  /* Court frames — normal spirits */
+  .card.bureau {
+    background: linear-gradient(145deg, #2a3058 0%, #1a1f3a 40%, #12162a 100%);
+    border: 3px solid #1a1f3a;
+    box-shadow:
+      0 4px 6px rgba(0,0,0,0.35),
+      0 14px 28px rgba(0,0,0,0.45),
+      0 0 0 1px #4a5580,
+      inset 0 1px 0 rgba(192,200,220,0.35);
+  }
+  .card.bureau .name-plate {
+    background: linear-gradient(90deg, #8b1a12 0%, #c43a22 50%, #8b1a12 100%);
+    color: #f8f0e0;
+    border-color: #c0c8d8;
+  }
+  .card.bureau .rule-line { background: linear-gradient(90deg, transparent, #c0c8d8, transparent); }
+  .card.bureau .favor-pip {
+    background: radial-gradient(circle at 35% 30%, #e8ecf8, #6a7398 55%, #2a3050);
+    color: #f5f5ff;
+    border-color: #c0c8d8;
+  }
+  .card.bureau .might-badge {
+    background: linear-gradient(145deg, #3a4060, #1a1f3a);
+    border-color: #c0c8d8;
+    color: #f0f0ff;
+  }
+
+  .card.alleys {
+    background: linear-gradient(145deg, #4a1010 0%, #1a0808 45%, #0a0505 100%);
+    border: 3px solid #1a0505;
+    box-shadow:
+      0 4px 6px rgba(0,0,0,0.4),
+      0 14px 28px rgba(0,0,0,0.5),
+      0 0 0 1px #8b1a1a,
+      inset 0 1px 0 rgba(212,175,55,0.3);
+  }
+  .card.alleys .name-plate {
+    background: linear-gradient(90deg, #1a0808 0%, #3a1010 50%, #1a0808 100%);
+    color: #f0d878;
+    border-color: #d4af37;
+  }
+  .card.alleys .rule-line { background: linear-gradient(90deg, transparent, #d4af37, transparent); }
+  .card.alleys .favor-pip {
+    background: radial-gradient(circle at 35% 30%, #f0d878, #a07820 50%, #3a2010);
+    color: #1a0800;
+    border-color: #d4af37;
+  }
+  .card.alleys .might-badge {
+    background: linear-gradient(145deg, #5a1818, #1a0808);
+    border-color: #d4af37;
+    color: #f0d878;
+  }
+  .card.alleys .rarity-pip { border-color: #d4af37; color: #d4af37; }
+
+  .card.kin {
+    background: linear-gradient(145deg, #3a5a48 0%, #2a4038 35%, #4a6a78 100%);
+    border: 3px solid #2a4a40;
+    box-shadow:
+      0 4px 6px rgba(0,0,0,0.35),
+      0 14px 28px rgba(0,0,0,0.45),
+      0 0 0 1px #7a9aaa,
+      inset 0 1px 0 rgba(180,160,120,0.35);
+  }
+  .card.kin .name-plate {
+    background: linear-gradient(90deg, #4a3a28 0%, #6a5238 50%, #4a3a28 100%);
+    color: #f0e8d0;
+    border-color: #b08a4a;
+  }
+  .card.kin .rule-line { background: linear-gradient(90deg, transparent, #b08a4a, transparent); }
+  .card.kin .favor-pip {
+    background: radial-gradient(circle at 35% 30%, #c8dce8, #5a7a6a 50%, #2a4038);
+    color: #f5fff8;
+    border-color: #b08a4a;
+  }
+  .card.kin .might-badge {
+    background: linear-gradient(145deg, #3a5a48, #1a3028);
+    border-color: #b08a4a;
+    color: #e8d8b0;
+  }
+
+  /* ========== MYTHIC — ornate gold foil ========== */
+  .card.mythic {
+    width: 296px;
+    padding: 12px;
+    border: 4px solid transparent;
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+    box-shadow:
+      0 6px 10px rgba(0,0,0,0.45),
+      0 20px 40px rgba(0,0,0,0.55),
+      0 0 28px rgba(212,175,55,0.35),
+      0 0 60px rgba(212,175,55,0.12),
+      inset 0 1px 0 rgba(255,236,160,0.4);
+  }
+  .card.mythic.bureau {
+    background-image:
+      linear-gradient(145deg, #1a1638 0%, #0e1028 45%, #1a0a18 100%),
+      linear-gradient(135deg, #fff8d0, #d4af37, #8a7010, #f0e6a0, #c9a227, #6a5010, #e8d878, #d4af37);
+  }
+  .card.mythic.alleys {
+    background-image:
+      linear-gradient(145deg, #2a0808 0%, #100404 45%, #1a0608 100%),
+      linear-gradient(135deg, #fff8d0, #d4af37, #8a7010, #f0e6a0, #c9a227, #6a5010, #e8d878, #d4af37);
+  }
+  .card.mythic.kin {
+    background-image:
+      linear-gradient(145deg, #1a2a22 0%, #0e1a18 40%, #1a2830 100%),
+      linear-gradient(135deg, #fff8d0, #d4af37, #8a7010, #f0e6a0, #c9a227, #6a5010, #e8d878, #d4af37);
+  }
+
+  /* Double gold border via pseudo */
+  .card.mythic .card-inner {
+    background: linear-gradient(180deg, #1a1628 0%, #12101c 50%, #0e0c14 100%);
+    box-shadow:
+      inset 0 0 0 2px rgba(212,175,55,0.85),
+      inset 0 0 0 4px rgba(40,30,10,0.9),
+      inset 0 0 0 5px rgba(240,230,160,0.35);
+    border-radius: 6px;
+    color: #e8e0d0;
+  }
+
+  /* Corner filigree ornaments */
+  .card.mythic .filigree {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    z-index: 6;
+    pointer-events: none;
+  }
+  .card.mythic .filigree::before,
+  .card.mythic .filigree::after {
+    content: "";
+    position: absolute;
+    background: linear-gradient(135deg, #fff8d0, #d4af37 40%, #8a7010);
+    box-shadow: 0 0 4px rgba(212,175,55,0.5);
+  }
+  .card.mythic .filigree.tl { top: 2px; left: 2px; }
+  .card.mythic .filigree.tr { top: 2px; right: 2px; transform: scaleX(-1); }
+  .card.mythic .filigree.bl { bottom: 2px; left: 2px; transform: scaleY(-1); }
+  .card.mythic .filigree.br { bottom: 2px; right: 2px; transform: scale(-1); }
+  .card.mythic .filigree::before {
+    width: 18px; height: 3px; top: 6px; left: 4px;
+    clip-path: polygon(0 40%, 70% 0, 100% 50%, 70% 100%, 0 60%);
+  }
+  .card.mythic .filigree::after {
+    width: 3px; height: 18px; top: 4px; left: 6px;
+    clip-path: polygon(40% 0, 100% 70%, 50% 100%, 0 70%, 60% 0);
+  }
+
+  /* Shimmer on mythic border only */
+  .card.mythic::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 14px;
+    pointer-events: none;
+    z-index: 4;
+    background: linear-gradient(
+      115deg,
+      transparent 0%,
+      transparent 38%,
+      rgba(255, 248, 200, 0.0) 42%,
+      rgba(255, 248, 200, 0.22) 50%,
+      rgba(255, 248, 200, 0.0) 58%,
+      transparent 62%,
+      transparent 100%
+    );
+    background-size: 220% 100%;
+    animation: mythic-shimmer 5.5s ease-in-out infinite;
+    mix-blend-mode: soft-light;
+    opacity: 0.85;
+  }
+  @keyframes mythic-shimmer {
+    0%, 100% { background-position: 120% 0; }
+    50% { background-position: -20% 0; }
+  }
+
+  .card.mythic .name-plate {
+    background: linear-gradient(90deg, #0a0804 0%, #1a1408 40%, #2a1e0a 50%, #1a1408 60%, #0a0804 100%);
+    color: #f0e6a0;
+    border: 1px solid #d4af37;
+    text-shadow: 0 0 8px rgba(212,175,55,0.45), 0 1px 2px rgba(0,0,0,0.8);
+    box-shadow:
+      0 0 8px rgba(212,175,55,0.2),
+      inset 0 1px 0 rgba(255,248,200,0.15);
+    letter-spacing: 0.03em;
+  }
+  .card.mythic .type-line { color: #c8b890; }
+  .card.mythic .rule-line {
+    background: linear-gradient(90deg, transparent, #d4af37, #f0e6a0, #d4af37, transparent);
+    height: 1.5px;
+  }
+  .card.mythic .text-box {
+    background: rgba(12, 10, 20, 0.72);
+    border: 1px solid rgba(212, 175, 55, 0.35);
+    color: #e8e0d0;
+  }
+  .card.mythic .text-box .rules { color: #e8e0d0; }
+  .card.mythic .text-box .flavor {
+    color: #c0a858;
+    border-top-color: rgba(212,175,55,0.25);
+  }
+  .card.mythic .set-code { color: #a89050; }
+  .card.mythic .art-window {
+    border: 1.5px solid rgba(212,175,55,0.65);
+    box-shadow:
+      inset 0 0 12px rgba(0,0,0,0.45),
+      0 0 0 1px rgba(80,60,20,0.8);
+  }
+  .card.mythic .favor-pip {
+    border-color: #d4af37;
+    box-shadow:
+      0 0 8px rgba(212,175,55,0.4),
+      0 1px 3px rgba(0,0,0,0.5),
+      inset 0 1px 1px rgba(255,255,255,0.35);
+  }
+  .card.mythic .might-badge {
+    border-color: #d4af37;
+    box-shadow: 0 0 8px rgba(212,175,55,0.35);
+  }
+
+  /* Mythic ribbon badge (replaces plain M pip) */
+  .mythic-ribbon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1px;
+  }
+  .mythic-ribbon .rarity-pip.M {
+    width: 26px;
+    height: 26px;
+    background: linear-gradient(145deg, #5a4010, #1a1204);
+    color: #f0e6a0;
+    border: 2px solid #d4af37;
+    box-shadow: 0 0 10px rgba(212,175,55,0.55);
+    clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
+    border-radius: 0;
+  }
+  .mythic-ribbon .ribbon-label {
+    font-size: 0.48rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    color: #f0e6a0;
+    background: linear-gradient(90deg, transparent, #3a2a08 20%, #5a4010 50%, #3a2a08 80%, transparent);
+    padding: 1px 6px;
+    border-radius: 2px;
+    text-shadow: 0 0 4px rgba(212,175,55,0.6);
+    line-height: 1.2;
+  }
+
+  /* ========== SITE / STADIUM — architectural bronze frame ========== */
+  .card.site-card,
+  .card.stadium-card {
+    width: 300px;
+    aspect-ratio: 5 / 6.2;
+    padding: 11px;
+    border: 3px solid transparent;
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+    box-shadow:
+      0 6px 12px rgba(0,0,0,0.45),
+      0 18px 36px rgba(0,0,0,0.5),
+      0 0 20px rgba(180,140,60,0.22);
+  }
+  .card.site-card.bureau,
+  .card.stadium-card.bureau {
+    background-image:
+      linear-gradient(145deg, #1e2448 0%, #14182e 50%, #1a2038 100%),
+      linear-gradient(135deg, #c9a87a, #8a6a40, #e8d0a0, #6a5030, #c9a87a);
+  }
+  .card.site-card.alleys,
+  .card.stadium-card.alleys {
+    background-image:
+      linear-gradient(145deg, #3a1010 0%, #180808 50%, #2a0c0c 100%),
+      linear-gradient(135deg, #c9a87a, #8a6a40, #e8d0a0, #6a5030, #c9a87a);
+  }
+  .card.site-card.kin,
+  .card.stadium-card.kin {
+    background-image:
+      linear-gradient(145deg, #2a4038 0%, #1a2a28 45%, #2a3848 100%),
+      linear-gradient(135deg, #c9a87a, #8a6a40, #e8d0a0, #6a5030, #c9a87a);
+  }
+
+  .card.site-card .card-inner,
+  .card.stadium-card .card-inner {
+    background: linear-gradient(180deg, #2a2430 0%, #1c1822 50%, #16141c 100%);
+    box-shadow:
+      inset 0 0 0 1.5px rgba(201,168,122,0.7),
+      inset 0 0 0 3px rgba(40,30,18,0.85);
+    color: #e8e0d0;
+  }
+
+  /* Architectural corner motif */
+  .card.site-card .arch-corner,
+  .card.stadium-card .arch-corner {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    z-index: 6;
+    pointer-events: none;
+    border-color: #c9a87a;
+    border-style: solid;
+    opacity: 0.9;
+  }
+  .card.site-card .arch-corner.tl,
+  .card.stadium-card .arch-corner.tl { top: 4px; left: 4px; border-width: 2px 0 0 2px; }
+  .card.site-card .arch-corner.tr,
+  .card.stadium-card .arch-corner.tr { top: 4px; right: 4px; border-width: 2px 2px 0 0; }
+  .card.site-card .arch-corner.bl,
+  .card.stadium-card .arch-corner.bl { bottom: 4px; left: 4px; border-width: 0 0 2px 2px; }
+  .card.site-card .arch-corner.br,
+  .card.stadium-card .arch-corner.br { bottom: 4px; right: 4px; border-width: 0 2px 2px 0; }
+
+  .card.site-card .art-window,
+  .card.stadium-card .art-window {
+    height: 48%;
+    border: 1.5px solid rgba(201,168,122,0.65);
+    border-radius: 3px;
+  }
+  .card.site-card .art-window img,
+  .card.stadium-card .art-window img {
+    object-position: center center;
+  }
+
+  .card.site-card .name-plate,
+  .card.stadium-card .name-plate {
+    background: linear-gradient(90deg, #1a140c 0%, #2a2010 50%, #1a140c 100%);
+    color: #e8d8b0;
+    border-color: #c9a87a;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.7);
+  }
+  .card.site-card .type-line,
+  .card.stadium-card .type-line { color: #c8b890; }
+  .card.site-card .rule-line,
+  .card.stadium-card .rule-line {
+    background: linear-gradient(90deg, transparent, #c9a87a, transparent);
+  }
+  .card.site-card .text-box,
+  .card.stadium-card .text-box {
+    background: rgba(10, 8, 16, 0.65);
+    border: 1px solid rgba(201,168,122,0.3);
+  }
+  .card.site-card .text-box .rules,
+  .card.stadium-card .text-box .rules { color: #e0d8c8; }
+  .card.site-card .text-box .flavor,
+  .card.stadium-card .text-box .flavor {
+    color: #b0a070;
+    border-top-color: rgba(201,168,122,0.2);
+  }
+  .card.site-card .set-code,
+  .card.stadium-card .set-code { color: #a89060; }
+
+  .type-pill {
+    font-size: 0.58rem;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: linear-gradient(145deg, #4a1830, #2a0c18);
+    color: #f0e0d0;
+    border: 1px solid #c9a87a;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+  }
+  .type-pill.stadium {
+    background: linear-gradient(145deg, #3a2a10, #1a1408);
+    color: #f0e6a0;
+    border-color: #d4af37;
+  }
+
+  .keyword-open {
+    color: #f0d878;
+    font-weight: 700;
+  }
+  .keyword-field {
+    color: #e8c878;
+    font-weight: 700;
+  }
+
+  .lantern-seal {
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    background: radial-gradient(circle at 35% 30%, #e8d8b0, #8a6a40 55%, #3a2a18);
+    border: 2px solid #c9a87a;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.4), inset 0 1px 1px rgba(255,255,255,0.3);
+    color: #2a1a08;
+  }
+
+  .favor-pip.gate {
+    background: radial-gradient(circle at 35% 30%, #e8d8b0, #8a6a40 55%, #3a2a18);
+    color: #2a1a08;
+    border-color: #c9a87a;
+    font-size: 0.75rem;
+  }
+
+  /* Top bar */
+  .top-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2px 2px 4px;
+    flex-shrink: 0;
+    gap: 4px;
+  }
+
+  .favor-pip {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 0.95rem;
+    border: 2px solid #888;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.35), inset 0 1px 1px rgba(255,255,255,0.4);
+    flex-shrink: 0;
+  }
+
+  .favor-pip.empty {
+    background: radial-gradient(circle at 35% 30%, #ddd4c0, #a89880);
+    color: #5a4a38;
+    border-color: #8a7a60;
+    font-size: 0.85rem;
+  }
+
+  .rarity-pip {
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 0.72rem;
+    letter-spacing: 0.02em;
+    background: #1a1510;
+    color: #e8dcc0;
+    border: 1.5px solid #a09070;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.4);
+    flex-shrink: 0;
+  }
+  .rarity-pip.C { color: #c8c0b0; border-color: #8a8070; }
+  .rarity-pip.U { color: #a8c8e0; border-color: #6890b0; }
+  .rarity-pip.R { color: #f0d878; border-color: #c9a227; }
+
+  /* Art */
+  .art-window {
+    flex: 0 0 auto;
+    height: 42%;
+    border-radius: 4px;
+    overflow: hidden;
+    border: 1.5px solid rgba(60, 48, 32, 0.55);
+    box-shadow: inset 0 0 8px rgba(0,0,0,0.25);
+    background: #2a2418;
+  }
+  .art-window img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    display: block;
+  }
+
+  .name-plate {
+    margin-top: 5px;
+    padding: 3px 8px;
+    border-radius: 3px;
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.01em;
+    text-align: center;
+    line-height: 1.2;
+    border: 1px solid #888;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.25);
+    flex-shrink: 0;
+  }
+
+  .type-line {
+    margin: 3px 4px 2px;
+    font-size: 0.68rem;
+    font-style: italic;
+    color: var(--muted);
+    text-align: left;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+  }
+
+  .rule-line {
+    height: 1px;
+    margin: 0 6px 4px;
+    opacity: 0.85;
+    flex-shrink: 0;
+  }
+
+  .text-box {
+    flex: 1;
+    min-height: 0;
+    margin: 0 2px;
+    padding: 5px 7px;
+    background: rgba(255, 252, 245, 0.55);
+    border: 1px solid rgba(80, 60, 40, 0.18);
+    border-radius: 3px;
+    font-size: 0.62rem;
+    line-height: 1.35;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35em;
+  }
+  .text-box .rules { color: var(--ink); white-space: pre-line; }
+  .text-box .flavor {
+    font-style: italic;
+    color: #6a5a48;
+    margin-top: auto;
+    padding-top: 0.25em;
+    border-top: 1px solid rgba(80, 60, 40, 0.12);
+  }
+
+  .bottom-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding: 4px 2px 1px;
+    flex-shrink: 0;
+  }
+
+  .might-badge {
+    min-width: 28px;
+    height: 22px;
+    padding: 0 6px;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 0.85rem;
+    border: 1.5px solid #888;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.3);
+  }
+
+  .set-code {
+    font-size: 0.55rem;
+    font-family: ui-monospace, "Cascadia Code", monospace;
+    color: #6a5a48;
+    letter-spacing: 0.04em;
+  }
+
+  .legend {
+    max-width: 1280px;
+    margin: 2.5rem auto 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem 1.5rem;
+    justify-content: center;
+    font-size: 0.75rem;
+    color: #a89880;
+  }
+  .legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+  }
+  .swatch {
+    width: 14px;
+    height: 14px;
+    border-radius: 3px;
+    display: inline-block;
+  }
+  .swatch.bureau { background: #1a1f3a; border: 1px solid #c43a22; }
+  .swatch.alleys { background: #1a0505; border: 1px solid #d4af37; }
+  .swatch.kin { background: linear-gradient(90deg, #3a5a48, #4a6a78); border: 1px solid #b08a4a; }
+  .swatch.mythic {
+    background: linear-gradient(135deg, #fff8d0, #d4af37, #8a7010);
+    border: 1px solid #f0e6a0;
+  }
+  .swatch.site {
+    background: linear-gradient(135deg, #c9a87a, #6a5030);
+    border: 1px solid #e8d0a0;
+  }
+
+
+  /* Colorless (multi-court / support) */
+  .card.colorless {
+    background: linear-gradient(145deg, #3a3840 0%, #222028 45%, #2a2830 100%);
+    border: 3px solid #1a181c;
+    box-shadow:
+      0 4px 6px rgba(0,0,0,0.35),
+      0 14px 28px rgba(0,0,0,0.45),
+      0 0 0 1px #8a8490,
+      inset 0 1px 0 rgba(220,210,200,0.25);
+  }
+  .card.colorless .name-plate {
+    background: linear-gradient(90deg, #2a2830 0%, #4a4850 50%, #2a2830 100%);
+    color: #f0e8d8;
+    border-color: #c0b8a8;
+  }
+  .card.colorless .rule-line { background: linear-gradient(90deg, transparent, #c0b8a8, transparent); }
+  .card.colorless .favor-pip {
+    background: radial-gradient(circle at 35% 30%, #e8e4dc, #787068 55%, #2a2830);
+    color: #f8f4ec;
+    border-color: #c0b8a8;
+  }
+
+  /* ========== CHARM — scroll / talisman frame ========== */
+  .card.charm-card {
+    width: 286px;
+    padding: 10px;
+    border: 3px solid transparent;
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+    box-shadow:
+      0 5px 10px rgba(0,0,0,0.4),
+      0 16px 32px rgba(0,0,0,0.45),
+      0 0 16px rgba(180,120,60,0.18);
+  }
+  .card.charm-card.bureau {
+    background-image:
+      linear-gradient(145deg, #2a2848 0%, #1a1830 50%, #221c38 100%),
+      linear-gradient(135deg, #e8d0a0, #c9a87a, #8a6040, #f0e0c0, #c9a87a);
+  }
+  .card.charm-card.alleys {
+    background-image:
+      linear-gradient(145deg, #3a1410 0%, #1a0808 50%, #2a100c 100%),
+      linear-gradient(135deg, #e8d0a0, #c9a87a, #8a6040, #f0e0c0, #c9a87a);
+  }
+  .card.charm-card.kin {
+    background-image:
+      linear-gradient(145deg, #2a4038 0%, #1a2a24 50%, #283840 100%),
+      linear-gradient(135deg, #e8d0a0, #c9a87a, #8a6040, #f0e0c0, #c9a87a);
+  }
+  .card.charm-card.colorless {
+    background-image:
+      linear-gradient(145deg, #343038 0%, #1e1c22 50%, #2a2830 100%),
+      linear-gradient(135deg, #e8d0a0, #c9a87a, #8a6040, #f0e0c0, #c9a87a);
+  }
+  .card.charm-card .card-inner {
+    background: linear-gradient(180deg, #f2e8d0 0%, #e8d8b8 40%, #dcc8a0 100%);
+    box-shadow:
+      inset 0 0 0 1.5px rgba(139, 90, 40, 0.55),
+      inset 0 0 0 3px rgba(240, 224, 180, 0.5);
+  }
+  .card.charm-card .art-window {
+    height: 40%;
+    border-radius: 6px 6px 2px 2px;
+    border: 1.5px solid rgba(139, 90, 40, 0.45);
+  }
+  .card.charm-card .name-plate {
+    background: linear-gradient(90deg, #5a3820 0%, #8a5a30 50%, #5a3820 100%);
+    color: #f8f0d8;
+    border-color: #c9a87a;
+  }
+  .card.charm-card .type-line { color: #6a4a28; }
+  .card.charm-card .rule-line {
+    background: linear-gradient(90deg, transparent, #8a5a30, #c9a87a, #8a5a30, transparent);
+  }
+  .card.charm-card .text-box {
+    background: rgba(255, 248, 230, 0.7);
+    border: 1px solid rgba(139, 90, 40, 0.22);
+  }
+  .type-pill.charm {
+    background: linear-gradient(145deg, #6a4020, #3a2010);
+    color: #f8e8c0;
+    border-color: #c9a87a;
+  }
+  .support-icon.charm-icon {
+    width: 26px; height: 26px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.9rem;
+    border-radius: 4px;
+    background: linear-gradient(145deg, #e8d0a0, #8a5a30);
+    border: 1.5px solid #c9a87a;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.35);
+  }
+
+  /* ========== RELIC — bronze artifact frame ========== */
+  .card.relic-card {
+    width: 286px;
+    padding: 10px;
+    border: 3px solid transparent;
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+    box-shadow:
+      0 5px 10px rgba(0,0,0,0.4),
+      0 16px 32px rgba(0,0,0,0.5),
+      0 0 18px rgba(160, 110, 40, 0.25);
+  }
+  .card.relic-card.bureau {
+    background-image:
+      linear-gradient(145deg, #1e2038 0%, #121428 50%, #1a1c30 100%),
+      linear-gradient(135deg, #d4a860, #8a6020, #f0d090, #5a4010, #d4a860);
+  }
+  .card.relic-card.alleys {
+    background-image:
+      linear-gradient(145deg, #2a0c0c 0%, #140606 50%, #1e0808 100%),
+      linear-gradient(135deg, #d4a860, #8a6020, #f0d090, #5a4010, #d4a860);
+  }
+  .card.relic-card.kin {
+    background-image:
+      linear-gradient(145deg, #1e3028 0%, #121e1c 50%, #1a2830 100%),
+      linear-gradient(135deg, #d4a860, #8a6020, #f0d090, #5a4010, #d4a860);
+  }
+  .card.relic-card.colorless {
+    background-image:
+      linear-gradient(145deg, #2a282c 0%, #161418 50%, #222028 100%),
+      linear-gradient(135deg, #d4a860, #8a6020, #f0d090, #5a4010, #d4a860);
+  }
+  .card.relic-card .card-inner {
+    background: linear-gradient(180deg, #2a2218 0%, #1c1610 50%, #14100c 100%);
+    box-shadow:
+      inset 0 0 0 1.5px rgba(212, 168, 96, 0.75),
+      inset 0 0 0 3px rgba(60, 40, 15, 0.9);
+    color: #e8e0d0;
+  }
+  .card.relic-card .art-window {
+    height: 40%;
+    border: 1.5px solid rgba(212, 168, 96, 0.6);
+    border-radius: 3px;
+  }
+  .card.relic-card .name-plate {
+    background: linear-gradient(90deg, #1a1208 0%, #3a2a10 50%, #1a1208 100%);
+    color: #f0d890;
+    border-color: #d4a860;
+  }
+  .card.relic-card .type-line { color: #c8b080; }
+  .card.relic-card .rule-line {
+    background: linear-gradient(90deg, transparent, #d4a860, transparent);
+  }
+  .card.relic-card .text-box {
+    background: rgba(12, 8, 4, 0.7);
+    border: 1px solid rgba(212, 168, 96, 0.3);
+  }
+  .card.relic-card .text-box .rules { color: #e8e0d0; }
+  .card.relic-card .text-box .flavor {
+    color: #c0a060;
+    border-top-color: rgba(212,168,96,0.25);
+  }
+  .card.relic-card .set-code { color: #a88850; }
+  .type-pill.relic {
+    background: linear-gradient(145deg, #5a4010, #2a1a08);
+    color: #f0d890;
+    border-color: #d4a860;
+  }
+  .support-icon.relic-icon {
+    width: 26px; height: 26px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.85rem;
+    border-radius: 50%;
+    background: radial-gradient(circle at 35% 30%, #f0d090, #8a6020 55%, #3a2808);
+    border: 2px solid #d4a860;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.4), inset 0 1px 1px rgba(255,255,255,0.3);
+    color: #2a1a08;
+  }
+
+  /* ========== EDICT — mythic-grade ornate gold ========== */
+  .card.edict-card {
+    width: 296px;
+    padding: 12px;
+    border: 4px solid transparent;
+    background-origin: border-box;
+    background-clip: padding-box, border-box;
+    box-shadow:
+      0 6px 10px rgba(0,0,0,0.45),
+      0 20px 40px rgba(0,0,0,0.55),
+      0 0 28px rgba(212,175,55,0.4),
+      0 0 60px rgba(212,175,55,0.15),
+      inset 0 1px 0 rgba(255,236,160,0.4);
+  }
+  .card.edict-card.colorless,
+  .card.edict-card.bureau,
+  .card.edict-card.alleys,
+  .card.edict-card.kin {
+    background-image:
+      linear-gradient(145deg, #1a1420 0%, #0e0c14 45%, #1a1018 100%),
+      linear-gradient(135deg, #fff8d0, #d4af37, #8a7010, #f0e6a0, #c9a227, #6a5010, #e8d878, #d4af37);
+  }
+  .card.edict-card .card-inner {
+    background: linear-gradient(180deg, #1a1628 0%, #12101c 50%, #0e0c14 100%);
+    box-shadow:
+      inset 0 0 0 2px rgba(212,175,55,0.85),
+      inset 0 0 0 4px rgba(40,30,10,0.9),
+      inset 0 0 0 5px rgba(240,230,160,0.35);
+    border-radius: 6px;
+    color: #e8e0d0;
+  }
+  .card.edict-card .filigree {
+    position: absolute;
+    width: 28px; height: 28px;
+    z-index: 6;
+    pointer-events: none;
+  }
+  .card.edict-card .filigree::before,
+  .card.edict-card .filigree::after {
+    content: "";
+    position: absolute;
+    background: linear-gradient(135deg, #fff8d0, #d4af37 40%, #8a7010);
+    box-shadow: 0 0 4px rgba(212,175,55,0.5);
+  }
+  .card.edict-card .filigree.tl { top: 2px; left: 2px; }
+  .card.edict-card .filigree.tr { top: 2px; right: 2px; transform: scaleX(-1); }
+  .card.edict-card .filigree.bl { bottom: 2px; left: 2px; transform: scaleY(-1); }
+  .card.edict-card .filigree.br { bottom: 2px; right: 2px; transform: scale(-1); }
+  .card.edict-card .filigree::before {
+    width: 18px; height: 3px; top: 6px; left: 4px;
+    clip-path: polygon(0 40%, 70% 0, 100% 50%, 70% 100%, 0 60%);
+  }
+  .card.edict-card .filigree::after {
+    width: 3px; height: 18px; top: 4px; left: 6px;
+    clip-path: polygon(40% 0, 100% 70%, 50% 100%, 0 70%, 60% 0);
+  }
+  .card.edict-card::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border-radius: 14px;
+    pointer-events: none;
+    z-index: 4;
+    background: linear-gradient(
+      115deg,
+      transparent 0%,
+      transparent 38%,
+      rgba(255, 248, 200, 0.0) 42%,
+      rgba(255, 248, 200, 0.22) 50%,
+      rgba(255, 248, 200, 0.0) 58%,
+      transparent 62%,
+      transparent 100%
+    );
+    background-size: 220% 100%;
+    animation: mythic-shimmer 5.5s ease-in-out infinite;
+    mix-blend-mode: soft-light;
+    opacity: 0.85;
+  }
+  .card.edict-card .name-plate {
+    background: linear-gradient(90deg, #0a0804 0%, #1a1408 40%, #2a1e0a 50%, #1a1408 60%, #0a0804 100%);
+    color: #f0e6a0;
+    border: 1px solid #d4af37;
+    text-shadow: 0 0 8px rgba(212,175,55,0.45), 0 1px 2px rgba(0,0,0,0.8);
+  }
+  .card.edict-card .type-line { color: #c8b890; }
+  .card.edict-card .rule-line {
+    background: linear-gradient(90deg, transparent, #d4af37, #f0e6a0, #d4af37, transparent);
+    height: 1.5px;
+  }
+  .card.edict-card .text-box {
+    background: rgba(12, 10, 20, 0.72);
+    border: 1px solid rgba(212, 175, 55, 0.35);
+  }
+  .card.edict-card .text-box .rules { color: #e8e0d0; }
+  .card.edict-card .text-box .flavor {
+    color: #c0a858;
+    border-top-color: rgba(212,175,55,0.25);
+  }
+  .card.edict-card .set-code { color: #a89050; }
+  .card.edict-card .art-window {
+    height: 40%;
+    border: 1.5px solid rgba(212,175,55,0.65);
+  }
+  .card.edict-card .favor-pip {
+    border-color: #d4af37;
+    box-shadow: 0 0 8px rgba(212,175,55,0.4);
+  }
+  .type-pill.edict {
+    background: linear-gradient(145deg, #5a4010, #1a1204);
+    color: #f0e6a0;
+    border-color: #d4af37;
+    box-shadow: 0 0 8px rgba(212,175,55,0.35);
+  }
+  .support-icon.edict-icon {
+    width: 26px; height: 26px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.85rem;
+    clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
+    background: linear-gradient(145deg, #5a4010, #1a1204);
+    color: #f0e6a0;
+    border: none;
+    box-shadow: 0 0 10px rgba(212,175,55,0.55);
+  }
+
+  .swatch.charm {
+    background: linear-gradient(135deg, #e8d0a0, #8a5a30);
+    border: 1px solid #c9a87a;
+  }
+  .swatch.relic {
+    background: linear-gradient(135deg, #d4a860, #5a4010);
+    border: 1px solid #f0d090;
+  }
+  .swatch.edict {
+    background: linear-gradient(135deg, #fff8d0, #d4af37, #8a7010);
+    border: 1px solid #f0e6a0;
+  }
+
+
+  .card[hidden] { display: none !important; }
+</style>
+</head>
+<body>
+
+<header class="page-header">
+  <h1>Lantern Courts — Full Set Card Mockups (80)</h1>
+  <p class="note">60 Spirits + 10 Sites/Stadiums + 10 Support (Charms, Relics, Edicts). Distinct frames for each card kind. Art is draft concept imagery.</p>
+  <div class="toolbar">
+    <div class="filters" id="filters" role="toolbar" aria-label="Card filters">
+      <button type="button" class="chip active" data-filter="all">All</button>
+      <button type="button" class="chip" data-filter="spirits">Spirits</button>
+      <button type="button" class="chip" data-filter="mythics">Mythics</button>
+      <button type="button" class="chip" data-filter="sites">Sites/Stadiums</button>
+      <button type="button" class="chip" data-filter="support">Support</button>
+      <button type="button" class="chip" data-filter="bureau">Celestial Bureau</button>
+      <button type="button" class="chip" data-filter="alleys">Yokai Alleys</button>
+      <button type="button" class="chip" data-filter="kin">Mountain Kin</button>
+    </div>
+  </div>
+  <div class="count-display" id="count-display">showing 0 of 80</div>
+</header>
+
+<main class="gallery" id="gallery">
+  <p class="status-msg" id="status">Loading dex…</p>
+</main>
+
+<footer class="legend">
+  <span><i class="swatch bureau"></i> Celestial Bureau</span>
+  <span><i class="swatch alleys"></i> Yokai Alleys</span>
+  <span><i class="swatch kin"></i> Mountain Kin</span>
+  <span><i class="swatch mythic"></i> Mythic gold filigree</span>
+  <span><i class="swatch site"></i> Site/Stadium bronze</span>
+  <span><i class="swatch charm"></i> Charm talisman</span>
+  <span><i class="swatch relic"></i> Relic bronze</span>
+  <span><i class="swatch edict"></i> Edict gold</span>
+</footer>
+
+<script>
+(function () {
+  const COURT_CLASS = {
+    "Celestial Bureau": "bureau",
+    "Yokai Alleys": "alleys",
+    "Mountain Kin": "kin",
+    "Colorless": "colorless"
+  };
+  const RARITY_LETTER = {
+    Common: "C",
+    Uncommon: "U",
+    Rare: "R",
+    Mythic: "M"
+  };
+
+  const gallery = document.getElementById("gallery");
+  const status = document.getElementById("status");
+  const countDisplay = document.getElementById("count-display");
+  const filtersEl = document.getElementById("filters");
+
+  let activeFilter = "all";
+  const TOTAL_CARDS = 80;
+
+  function escapeHtml(s) {
+    return String(s == null ? "" : s)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
+
+  function formatRulesHtml(rules, kind) {
+    let t = escapeHtml(rules || "");
+    if (kind === "site") {
+      t = t.replace(/\bOpen\b/g, '<span class="keyword-open">Open</span>');
+    }
+    if (kind === "stadium") {
+      t = t.replace(/Legendary Field/g, '<span class="keyword-field">Legendary Field</span>');
+    }
+    return t;
+  }
+
+  function collectorSpirit(index) {
+    return "LC01-" + String(index + 1).padStart(3, "0");
+  }
+  function collectorEnv(index) {
+    return "LC01-S" + String(index + 1).padStart(2, "0");
+  }
+  function collectorSupport(c, index) {
+    if (c.number) return "LC01-" + String(c.number).padStart(3, "0");
+    return "LC01-" + String(61 + index).padStart(3, "0");
+  }
+
+  function buildSpiritCard(c, index, print) {
+    const courtClass = COURT_CLASS[c.court] || "bureau";
+    const isMythic = (c.rarity || "").toLowerCase() === "mythic";
+    const letter = RARITY_LETTER[c.rarity] || "?";
+    const code = (print && print.code) || collectorSpirit(index);
+    const rules = (print && print.rules) || c.usage || "";
+    const flavor = (print && print.flavor) || (c.story ? c.story.split(/[.!?]/)[0] + "." : "");
+
+    const classes = ["card", courtClass];
+    if (isMythic) classes.push("mythic");
+
+    const rarityBlock = isMythic
+      ? `<div class="mythic-ribbon" title="Mythic">
+           <div class="rarity-pip M">M</div>
+           <div class="ribbon-label">MYTHIC</div>
+         </div>`
+      : `<div class="rarity-pip ${letter}" title="${escapeHtml(c.rarity)}">${letter}</div>`;
+
+    const filigree = isMythic
+      ? `<span class="filigree tl"></span><span class="filigree tr"></span><span class="filigree bl"></span><span class="filigree br"></span>`
+      : "";
+
+    return `<article class="${classes.join(" ")}" data-id="${escapeHtml(c.id)}"
+      data-kind="spirit" data-rarity="${escapeHtml((c.rarity || "").toLowerCase())}"
+      data-court="${courtClass}">
+      ${filigree}
+      <div class="card-inner">
+        <div class="top-bar">
+          <div class="favor-pip" title="Favor">${escapeHtml(c.favor)}</div>
+          ${rarityBlock}
+        </div>
+        <div class="art-window">
+          <img loading="lazy" src="${escapeHtml(c.image)}" alt="${escapeHtml(c.name)}" />
+        </div>
+        <div class="name-plate">${escapeHtml(c.name)}</div>
+        <div class="type-line">Spirit — ${escapeHtml(c.court)}</div>
+        <div class="rule-line"></div>
+        <div class="text-box">
+          <div class="rules">${formatRulesHtml(rules, "spirit")}</div>
+          <div class="flavor">${escapeHtml(flavor)}</div>
+        </div>
+        <div class="bottom-bar">
+          <div class="might-badge" title="Might">${escapeHtml(c.might)}</div>
+          <div class="set-code">${escapeHtml(code)}</div>
+        </div>
+      </div>
+    </article>`;
+  }
+
+  function buildEnvCard(e, index, print) {
+    const courtClass = COURT_CLASS[e.court] || "bureau";
+    const kind = ((print && print.type) || e.type || "Site").toLowerCase();
+    const isStadium = kind === "stadium";
+    const code = (print && print.code) || collectorEnv(index);
+    const rules = (print && print.rules) || e.usage || "";
+    const flavor = (print && print.flavor) || (e.story ? e.story.split(/[.!?]/)[0] + "." : "");
+    const pillLabel = isStadium ? "Stadium" : "Site";
+    const typeExtra = isStadium ? "Legendary Field" : "";
+
+    const classes = ["card", courtClass, isStadium ? "stadium-card" : "site-card"];
+
+    return `<article class="${classes.join(" ")}" data-id="${escapeHtml(e.id)}"
+      data-kind="${isStadium ? "stadium" : "site"}" data-rarity=""
+      data-court="${courtClass}">
+      <span class="arch-corner tl"></span><span class="arch-corner tr"></span>
+      <span class="arch-corner bl"></span><span class="arch-corner br"></span>
+      <div class="card-inner">
+        <div class="top-bar">
+          <div class="favor-pip gate" title="No Favor cost">⛩</div>
+          <span class="type-pill ${isStadium ? "stadium" : ""}">${pillLabel}</span>
+        </div>
+        <div class="art-window">
+          <img loading="lazy" src="${escapeHtml(e.image)}" alt="${escapeHtml(e.name)}" />
+        </div>
+        <div class="name-plate">${escapeHtml(e.name)}</div>
+        <div class="type-line">
+          ${escapeHtml(pillLabel)} — ${escapeHtml(e.court)}
+          ${typeExtra ? ` · <span class="keyword-field">${typeExtra}</span>` : ""}
+        </div>
+        <div class="rule-line"></div>
+        <div class="text-box">
+          <div class="rules">${formatRulesHtml(rules, isStadium ? "stadium" : "site")}</div>
+          <div class="flavor">${escapeHtml(flavor)}</div>
+        </div>
+        <div class="bottom-bar">
+          <div class="lantern-seal" title="Site seal">🏮</div>
+          <div class="set-code">${escapeHtml(code)}</div>
+        </div>
+      </div>
+    </article>`;
+  }
+
+  function buildSupportCard(s, index, print) {
+    const courtClass = COURT_CLASS[s.court] || "colorless";
+    const typeName = ((print && print.type) || s.type || "Charm");
+    const kind = typeName.toLowerCase();
+    const isMythic = (s.rarity || "").toLowerCase() === "mythic" || kind === "edict";
+    const letter = RARITY_LETTER[s.rarity] || "?";
+    const code = (print && print.code) || collectorSupport(s, index);
+    const rules = (print && print.rules) || s.usage || "";
+    const flavor = (print && print.flavor) || s.story || "";
+
+    const frameClass =
+      kind === "relic" ? "relic-card" :
+      kind === "edict" ? "edict-card" : "charm-card";
+
+    const classes = ["card", courtClass, frameClass];
+    if (isMythic && kind === "edict") classes.push("mythic");
+
+    const rarityBlock = isMythic
+      ? `<div class="mythic-ribbon" title="${escapeHtml(s.rarity || "Mythic")}">
+           <div class="rarity-pip M">${letter === "M" ? "M" : letter}</div>
+           <div class="ribbon-label">${letter === "M" ? "MYTHIC" : escapeHtml((s.rarity || "").toUpperCase())}</div>
+         </div>`
+      : `<div class="rarity-pip ${letter}" title="${escapeHtml(s.rarity)}">${letter}</div>`;
+
+    const filigree = (kind === "edict")
+      ? `<span class="filigree tl"></span><span class="filigree tr"></span><span class="filigree bl"></span><span class="filigree br"></span>`
+      : "";
+
+    const icon =
+      kind === "relic" ? `<div class="support-icon relic-icon" title="Relic">⚔</div>` :
+      kind === "edict" ? `<div class="support-icon edict-icon" title="Edict">📜</div>` :
+      `<div class="support-icon charm-icon" title="Charm">🧧</div>`;
+
+    const pillClass =
+      kind === "relic" ? "relic" :
+      kind === "edict" ? "edict" : "charm";
+
+    return `<article class="${classes.join(" ")}" data-id="${escapeHtml(s.id)}"
+      data-kind="support" data-support-type="${escapeHtml(kind)}"
+      data-rarity="${escapeHtml((s.rarity || "").toLowerCase())}"
+      data-court="${courtClass}">
+      ${filigree}
+      <div class="card-inner">
+        <div class="top-bar">
+          <div class="favor-pip" title="Favor">${escapeHtml(s.favor)}</div>
+          <span class="type-pill ${pillClass}">${escapeHtml(typeName)}</span>
+          ${rarityBlock}
+        </div>
+        <div class="art-window">
+          <img loading="lazy" src="${escapeHtml(s.image)}" alt="${escapeHtml(s.name)}" />
+        </div>
+        <div class="name-plate">${escapeHtml(s.name)}</div>
+        <div class="type-line">${escapeHtml(typeName)} — ${escapeHtml(s.court)}</div>
+        <div class="rule-line"></div>
+        <div class="text-box">
+          <div class="rules">${formatRulesHtml(rules, kind)}</div>
+          <div class="flavor">${escapeHtml(flavor)}</div>
+        </div>
+        <div class="bottom-bar">
+          ${icon}
+          <div class="set-code">${escapeHtml(code)}</div>
+        </div>
+      </div>
+    </article>`;
+  }
+
+  function applyFilter() {
+    const cards = gallery.querySelectorAll(".card");
+    let shown = 0;
+    cards.forEach((card) => {
+      const kind = card.dataset.kind;
+      const rarity = card.dataset.rarity;
+      const court = card.dataset.court;
+      let ok = true;
+      switch (activeFilter) {
+        case "spirits":
+          ok = kind === "spirit";
+          break;
+        case "mythics":
+          ok = rarity === "mythic";
+          break;
+        case "sites":
+          ok = kind === "site" || kind === "stadium";
+          break;
+        case "support":
+          ok = kind === "support";
+          break;
+        case "bureau":
+        case "alleys":
+        case "kin":
+          ok = court === activeFilter;
+          break;
+        default:
+          ok = true;
+      }
+      card.hidden = !ok;
+      if (ok) shown++;
+    });
+    countDisplay.textContent = `showing ${shown} of ${TOTAL_CARDS}`;
+  }
+
+  filtersEl.addEventListener("click", (ev) => {
+    const btn = ev.target.closest(".chip");
+    if (!btn) return;
+    activeFilter = btn.dataset.filter;
+    filtersEl.querySelectorAll(".chip").forEach((c) => c.classList.toggle("active", c === btn));
+    applyFilter();
+  });
+
+  async function load() {
+    try {
+      const [dexRes, rulesRes] = await Promise.all([
+        fetch("dex.json"),
+        fetch("print-rules.json").catch(() => null)
+      ]);
+      if (!dexRes.ok) throw new Error("Failed to load dex.json (" + dexRes.status + ")");
+      const dex = await dexRes.json();
+      let print = { spirits: {}, environments: {}, support: {} };
+      if (rulesRes && rulesRes.ok) {
+        print = await rulesRes.json();
+        print.support = print.support || {};
+      }
+
+      const creatures = dex.creatures || [];
+      const environments = dex.environments || [];
+      const support = dex.support || [];
+      if (creatures.length !== 60 || environments.length !== 10 || support.length !== 10) {
+        console.warn("Unexpected counts:", creatures.length, environments.length, support.length);
+      }
+
+      const htmlParts = [];
+      creatures.forEach((c, i) => {
+        htmlParts.push(buildSpiritCard(c, i, print.spirits && print.spirits[c.id]));
+      });
+      environments.forEach((e, i) => {
+        htmlParts.push(buildEnvCard(e, i, print.environments && print.environments[e.id]));
+      });
+      support.forEach((s, i) => {
+        htmlParts.push(buildSupportCard(s, i, print.support && print.support[s.id]));
+      });
+
+      gallery.innerHTML = htmlParts.join("\n");
+      applyFilter();
+    } catch (err) {
+      status.className = "status-msg error";
+      status.textContent = "Could not build gallery: " + err.message;
+    }
+  }
+
+  load();
+})();
+</script>
+</body>
+</html>
