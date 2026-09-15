@@ -3,66 +3,62 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="color-scheme" content="dark" />
-    <meta name="theme-color" content="#0b1020" />
+    <meta name="color-scheme" content="light" />
+    <meta name="theme-color" content="#f7fbfd" />
     <title>AP CSA Study Plan</title>
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-    <div class="page">
       <header class="hero">
-        <div class="hero-inner">
-          <div class="hero-copy">
-            <p class="eyebrow">AP Computer Science A</p>
-            <h1>AP CSA Study Plan</h1>
-            <p class="subtitle">
-              May 2027 revised framework — four units, fully digital Bluebook exam
-            </p>
-            <div class="callout" role="note">
-              <strong>Exam:</strong> Wed 12 May 2027 · Session 2 · 3 hours · Bluebook
+        <div class="page">
+          <div class="hero-inner">
+            <div class="hero-copy">
+              <p class="eyebrow">AP Computer Science A</p>
+              <h1>AP CSA Study Plan</h1>
+              <p class="subtitle lead">
+                May 2027 revised framework — four units, fully digital Bluebook exam
+              </p>
+              <div class="callout" role="note">
+                <strong>Exam:</strong> Wed 12 May 2027 · Session 2 · 3 hours · Bluebook
+              </div>
+              <p class="daily">
+                Daily target: <strong>45–60 minutes</strong> · Ziv’s plan: ~<strong>7½ hr/week</strong>
+              </p>
+              <p class="phases">
+                Source guide:
+                <a href="https://ziv.zynergy.studio/guides/ap-csa-2027/" rel="noopener noreferrer" target="_blank"
+                  >Ziv Learning Studio — AP CSA 2027</a
+                >
+              </p>
+              <div class="chips" aria-label="At a glance">
+                <span class="chip">35-week runway</span>
+                <span class="chip">4-unit course</span>
+                <span class="chip">Java</span>
+                <span class="chip">Fully digital exam</span>
+                <span class="chip">Target 4/5</span>
+              </div>
             </div>
-            <p class="daily">
-              Daily target: <strong>45–60 minutes</strong> · Ziv’s plan: ~<strong>7½ hr/week</strong>
-            </p>
-            <p class="phases">
-              Source guide:
-              <a href="https://ziv.zynergy.studio/guides/ap-csa-2027/" rel="noopener noreferrer" target="_blank"
-                >Ziv Learning Studio — AP CSA 2027</a
-              >
-            </p>
           </div>
-        <div class="hero-art" aria-hidden="true">
-          <svg viewBox="0 0 168 120" xmlns="http://www.w3.org/2000/svg" fill="none">
-            <rect x="8" y="18" width="112" height="78" rx="8" stroke="#24304a" stroke-width="2" fill="#141c2e"/>
-            <rect x="16" y="28" width="96" height="52" rx="3" fill="#0f1628"/>
-            <text x="28" y="52" font-family="ui-monospace,monospace" font-size="22" font-weight="700" fill="#f5c542">{</text>
-            <text x="78" y="52" font-family="ui-monospace,monospace" font-size="22" font-weight="700" fill="#f5c542">}</text>
-            <text x="36" y="68" font-family="system-ui,sans-serif" font-size="9" font-weight="600" fill="#9aa8c7">AP CSA</text>
-            <rect x="40" y="88" width="48" height="4" rx="2" fill="#24304a"/>
-            <rect x="118" y="42" width="42" height="48" rx="6" stroke="#f5c542" stroke-width="1.5" fill="#141c2e"/>
-            <rect x="126" y="50" width="26" height="4" rx="1" fill="#24304a"/>
-            <rect x="126" y="58" width="26" height="4" rx="1" fill="#24304a"/>
-            <rect x="126" y="66" width="18" height="4" rx="1" fill="#24304a"/>
-            <circle cx="148" cy="80" r="7" fill="#f5c542"/>
-            <path d="M145 80l2.2 2.2 4.5-4.5" stroke="#0b1020" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
-          </svg>
-        </div>
         </div>
       </header>
 
-      <nav class="toc card" aria-label="On this page">
-        <ul class="toc-list">
-          <li><a href="#admin">Admin</a></li>
-          <li><a href="#this-week">This week</a></li>
-          <li><a href="#exam-glance">Exam</a></li>
-          <li><a href="#course">Course</a></li>
-          <li><a href="#calendar">Calendar</a></li>
-          <li><a href="#repeatable">Week</a></li>
-          <li><a href="#resources">Resources</a></li>
-          <li><a href="#frqs">FRQs</a></li>
-          <li><a href="#first-session">Wed Sep 16</a></li>
-        </ul>
+      <nav class="toc" aria-label="On this page">
+        <div class="page toc-inner">
+          <ul class="toc-list">
+            <li><a href="#admin">Admin</a></li>
+            <li><a href="#this-week">This week</a></li>
+            <li><a href="#exam-glance">Exam</a></li>
+            <li><a href="#course">Course</a></li>
+            <li><a href="#calendar">Calendar</a></li>
+            <li><a href="#repeatable">Week</a></li>
+            <li><a href="#resources">Resources</a></li>
+            <li><a href="#frqs">FRQs</a></li>
+            <li><a href="#first-session">Wed Sep 16</a></li>
+          </ul>
+        </div>
       </nav>
+
+    <main class="page">
 
       <!-- 2. Admin checklist -->
       <section class="card" id="admin" aria-labelledby="admin-heading">
@@ -189,7 +185,7 @@ Shaky:</pre>
         <article class="unit-card">
           <header class="unit-head">
             <h3 class="unit-title"><span class="unit-badge" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.5" fill="currentColor" stroke="none"/></svg></span>Unit 1 · Using Objects and Methods</h3>
-            <span class="pct">15–25% MCQ</span>
+            <span class="pct weight">15–25% MCQ</span>
           </header>
           <ul class="topic-list">
             <li>Algorithms, program structure, compilation &amp; runtime</li>
@@ -254,7 +250,7 @@ Shaky:</pre>
         <article class="unit-card">
           <header class="unit-head">
             <h3 class="unit-title"><span class="unit-badge" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 5v6l4 2 4-2V5"/><path d="M7 17c2 2 8 2 10 0"/></svg></span>Unit 2 · Selection and Iteration</h3>
-            <span class="pct">25–35% MCQ</span>
+            <span class="pct weight">25–35% MCQ</span>
           </header>
           <ul class="topic-list">
             <li>Relational / Boolean ops; <code>if</code> / <code>else</code> / nested; De Morgan</li>
@@ -312,7 +308,7 @@ Shaky:</pre>
         <article class="unit-card">
           <header class="unit-head">
             <h3 class="unit-title"><span class="unit-badge" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="6" width="14" height="12" rx="1.5"/><path d="M5 10h14"/></svg></span>Unit 3 · Class Creation</h3>
-            <span class="pct">10–18% MCQ</span>
+            <span class="pct weight">10–18% MCQ</span>
           </header>
           <ul class="topic-list">
             <li>Class headers, private fields, constructors, accessors / mutators</li>
@@ -378,7 +374,7 @@ Shaky:</pre>
         <article class="unit-card">
           <header class="unit-head">
             <h3 class="unit-title"><span class="unit-badge" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 5h6v6H5zM13 5h6v6h-6zM5 13h6v6H5zM13 13h6v6h-6z"/></svg></span>Unit 4 · Data Collections</h3>
-            <span class="pct">30–40% MCQ</span>
+            <span class="pct weight">30–40% MCQ</span>
           </header>
           <ul class="topic-list">
             <li>1D arrays; enhanced <code>for</code>; ArrayList API</li>
@@ -444,8 +440,8 @@ Shaky:</pre>
             </li>
           </ul>
         </article>
-      </section>
         </div>
+      </section>
 
       <!-- 6. 35-week calendar -->
       <section class="card" id="calendar" aria-labelledby="calendar-heading">
@@ -656,7 +652,7 @@ Shaky:</pre>
         + AP Comp Sci Study Plan bot. Edit <code>apps/ap-csa/</code> to update. Checklist progress is saved in this
         browser only.
       </footer>
-    </div>
+    </main>
     <script src="app.js"></script>
   </body>
 </html>
