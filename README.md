@@ -4,7 +4,7 @@ Polished, mobile-first static site for the current Pokémon GO raid schedule: bo
 
 **As-of data:** 15 Sep 2026 (see `public/data/raids.json`)
 
-Live intent: Cloudflare Pages + custom domain. Fully static — no login, no analytics, no backend.
+This repo builds a **multi-app Cloudflare Pages host**. Raid Radar lives at **`/raid/`**. Future apps (e.g. homework) go in sibling folders like `/homework/`. Fully static — no login, no analytics, no backend.
 
 ## Local development
 
@@ -13,7 +13,7 @@ npm install
 npm run dev
 ```
 
-Open the URL Vite prints (usually http://localhost:5173).
+Open the URL Vite prints, then go to `/raid/` (usually http://localhost:5173/raid/).
 
 ## Production build
 
@@ -21,13 +21,18 @@ Open the URL Vite prints (usually http://localhost:5173).
 npm run build
 ```
 
-Output: `dist/` (ready for Cloudflare Pages or any static host).
+Output: `dist/`
+
+- `dist/index.html` — dark root landing page (links to apps)
+- `dist/raid/` — Raid Radar app (`index.html`, assets, `data/raids.json`)
 
 Preview locally:
 
 ```bash
 npm run preview
 ```
+
+(Vite preview serves the app under `/raid/` because of `base`.)
 
 ## Updating raid data
 
@@ -38,6 +43,8 @@ npm run preview
 Optional: keep a research markdown report elsewhere and convert into this JSON when the rotation changes.
 
 ## Cloudflare Pages
+
+This Pages project is a **multi-app host** on one subdomain. Raid Radar is served at `/raid/`. Other apps can be added later as sibling folders (e.g. `/homework/`).
 
 | Setting | Value |
 | --- | --- |
@@ -55,8 +62,8 @@ Optional: keep a research markdown report elsewhere and convert into this JSON w
 
 ## Tech
 
-- Vite + vanilla HTML / CSS / JS
-- Data-driven from `public/data/raids.json`
+- Vite + vanilla HTML / CSS / JS (`base: '/raid/'`, build outDir `dist/raid`)
+- Data-driven from `public/data/raids.json` (fetched via `import.meta.env.BASE_URL`)
 - Artwork from [PokéAPI sprites](https://github.com/PokeAPI/sprites) CDN with graceful 404 fallbacks
 - Dark theme, outdoor-readable, ~390px mobile-first
 

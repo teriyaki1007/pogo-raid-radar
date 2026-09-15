@@ -286,7 +286,7 @@ async function init() {
   const panel = $("#panel");
   panel.innerHTML = `<div class="loading">Loading raid data…</div>`;
   try {
-    const res = await fetch("./data/raids.json", { cache: "no-cache" });
+    const res = await fetch(`${import.meta.env.BASE_URL}data/raids.json`, { cache: "no-cache" });
     if (!res.ok) throw new Error(`Failed to load raids.json (${res.status})`);
     data = await res.json();
     renderMeta();

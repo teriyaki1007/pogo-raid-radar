@@ -5,11 +5,11 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "rm -rf dist && vite build && cp landing/index.html dist/index.html",
     "preview": "vite preview"
   },
   "devDependencies": {
     "vite": "^8.3.0"
   },
-  "description": "Raid Radar — Pokémon GO raid schedule static site"
+  "description": "Raid Radar \u2014 Pok\u00e9mon GO raid schedule static site"
 }
