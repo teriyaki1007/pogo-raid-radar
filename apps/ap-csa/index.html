@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="theme-color" content="#0b1020" />
+    <title>AP CSA Study Plan</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <p class="eyebrow">AP Computer Science A</p>
+        <h1>AP CSA Study Plan</h1>
+        <p class="subtitle">Weekly Java study checklists through the May 12, 2027 exam</p>
+        <div class="callout" role="note">
+          <strong>Exam:</strong> Wed May 12, 2027 · Session 2
+        </div>
+        <p class="daily">Daily target: <strong>45–60 minutes</strong></p>
+        <p class="phases">Phases: Foundations → Core OOP → Advanced → Exam mode</p>
+      </header>
+
+      <section class="card" aria-labelledby="this-week">
+        <h2 id="this-week">This week</h2>
+        <p class="meta">Week of Sep 15–21, 2026 · Unit 1 Primitive Types</p>
+        <ul class="checklist week-list">
+          <li>
+            <label>
+              <input type="checkbox" data-key="week-wed" />
+              <span><strong>Wed:</strong> types &amp; variables + Check (5 snippets)</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="week-thu" />
+              <span><strong>Thu:</strong> expressions, casting, integer division</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="week-fri" />
+              <span><strong>Fri:</strong> compound ops + Math (random 1–6)</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="week-sat" />
+              <span><strong>Sat (opt):</strong> redo Wed snippets from memory</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="week-sun" />
+              <span><strong>Sun (opt):</strong> light rest or flashcards</span>
+            </label>
+          </li>
+        </ul>
+        <p class="note">Official start Wed Sep 16 (skip Tue).</p>
+      </section>
+
+      <section class="card" aria-labelledby="todays-jot">
+        <div class="jot-head">
+          <h2 id="todays-jot">Today’s jot</h2>
+          <button type="button" id="copy-jot" class="btn-copy">Copy</button>
+        </div>
+        <pre id="jot-template" class="jot" tabindex="0">Predict →
+Run →
+Fix →</pre>
+      </section>
+
+      <section class="card" aria-labelledby="unit-progress">
+        <h2 id="unit-progress">Unit progress</h2>
+        <ul class="checklist units">
+          <li>
+            <label>
+              <input type="checkbox" data-key="unit-1" />
+              <span>Unit 1 — Primitive Types</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="unit-2" />
+              <span>Unit 2 — Using Objects</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="unit-3" />
+              <span>Unit 3 — Boolean Expressions &amp; if</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="unit-4" />
+              <span>Unit 4 — Iteration</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="unit-5" />
+              <span>Unit 5 — Writing Classes</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="unit-6" />
+              <span>Unit 6 — Array</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="unit-7" />
+              <span>Unit 7 — ArrayList</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="unit-8" />
+              <span>Unit 8 — 2D Array</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="unit-9" />
+              <span>Unit 9 — Inheritance</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="unit-10" />
+              <span>Unit 10 — Recursion</span>
+            </label>
+          </li>
+        </ul>
+      </section>
+
+      <footer class="footer">
+        Content owned by AP Comp Sci Study Plan bot — edit <code>apps/ap-csa/</code> to update.
+      </footer>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
