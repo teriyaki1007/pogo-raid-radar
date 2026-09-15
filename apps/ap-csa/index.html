@@ -11,23 +11,43 @@
   <body>
     <div class="page">
       <header class="hero">
-        <p class="eyebrow">AP Computer Science A</p>
-        <h1>AP CSA Study Plan</h1>
-        <p class="subtitle">
-          May 2027 revised framework — four units, fully digital Bluebook exam
-        </p>
-        <div class="callout" role="note">
-          <strong>Exam:</strong> Wed 12 May 2027 · Session 2 · 3 hours · Bluebook
+        <div class="hero-inner">
+          <div class="hero-copy">
+            <p class="eyebrow">AP Computer Science A</p>
+            <h1>AP CSA Study Plan</h1>
+            <p class="subtitle">
+              May 2027 revised framework — four units, fully digital Bluebook exam
+            </p>
+            <div class="callout" role="note">
+              <strong>Exam:</strong> Wed 12 May 2027 · Session 2 · 3 hours · Bluebook
+            </div>
+            <p class="daily">
+              Daily target: <strong>45–60 minutes</strong> · Ziv’s plan: ~<strong>7½ hr/week</strong>
+            </p>
+            <p class="phases">
+              Source guide:
+              <a href="https://ziv.zynergy.studio/guides/ap-csa-2027/" rel="noopener noreferrer" target="_blank"
+                >Ziv Learning Studio — AP CSA 2027</a
+              >
+            </p>
+          </div>
+        <div class="hero-art" aria-hidden="true">
+          <svg viewBox="0 0 168 120" xmlns="http://www.w3.org/2000/svg" fill="none">
+            <rect x="8" y="18" width="112" height="78" rx="8" stroke="#24304a" stroke-width="2" fill="#141c2e"/>
+            <rect x="16" y="28" width="96" height="52" rx="3" fill="#0f1628"/>
+            <text x="28" y="52" font-family="ui-monospace,monospace" font-size="22" font-weight="700" fill="#f5c542">{</text>
+            <text x="78" y="52" font-family="ui-monospace,monospace" font-size="22" font-weight="700" fill="#f5c542">}</text>
+            <text x="36" y="68" font-family="system-ui,sans-serif" font-size="9" font-weight="600" fill="#9aa8c7">AP CSA</text>
+            <rect x="40" y="88" width="48" height="4" rx="2" fill="#24304a"/>
+            <rect x="118" y="42" width="42" height="48" rx="6" stroke="#f5c542" stroke-width="1.5" fill="#141c2e"/>
+            <rect x="126" y="50" width="26" height="4" rx="1" fill="#24304a"/>
+            <rect x="126" y="58" width="26" height="4" rx="1" fill="#24304a"/>
+            <rect x="126" y="66" width="18" height="4" rx="1" fill="#24304a"/>
+            <circle cx="148" cy="80" r="7" fill="#f5c542"/>
+            <path d="M145 80l2.2 2.2 4.5-4.5" stroke="#0b1020" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
         </div>
-        <p class="daily">
-          Daily target: <strong>45–60 minutes</strong> · Ziv’s plan: ~<strong>7½ hr/week</strong>
-        </p>
-        <p class="phases">
-          Source guide:
-          <a href="https://ziv.zynergy.studio/guides/ap-csa-2027/" rel="noopener noreferrer" target="_blank"
-            >Ziv Learning Studio — AP CSA 2027</a
-          >
-        </p>
+        </div>
       </header>
 
       <nav class="toc card" aria-label="On this page">
@@ -46,7 +66,7 @@
 
       <!-- 2. Admin checklist -->
       <section class="card" id="admin" aria-labelledby="admin-heading">
-        <h2 id="admin-heading">Admin checklist</h2>
+        <h2 id="admin-heading" class="section-title"><span class="section-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M9 8h6M9 12h6M9 16h4"/></svg></span>Admin checklist</h2>
         <p class="meta">Self-study does not register you for the exam — confirm with CAIS / AP coordinator.</p>
         <ul class="checklist">
           <li>
@@ -78,7 +98,7 @@
 
       <!-- 3. This week -->
       <section class="card" id="this-week" aria-labelledby="this-week-heading">
-        <h2 id="this-week-heading">This week</h2>
+        <h2 id="this-week-heading" class="section-title"><span class="section-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/><circle cx="12" cy="15" r="1.5" fill="currentColor" stroke="none"/></svg></span>This week</h2>
         <p class="meta">Sep 16–21, 2026 · Setup + Unit 1 foundations (start Wed)</p>
         <ul class="checklist week-list">
           <li>
@@ -129,7 +149,7 @@ Shaky:</pre>
 
       <!-- 4. Exam at a glance -->
       <section class="card" id="exam-glance" aria-labelledby="exam-heading">
-        <h2 id="exam-heading">Exam at a glance</h2>
+        <h2 id="exam-heading" class="section-title"><span class="section-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3l2.2 4.5 5 .7-3.6 3.5.9 5.1L12 14.5 7.5 16.8l.9-5.1L4.8 8.2l5-.7L12 3z"/></svg></span>Exam at a glance</h2>
         <ul class="exam-facts">
           <li><strong>Wed 12 May 2027</strong> · Session 2</li>
           <li><strong>3 hours</strong> fully digital in Bluebook</li>
@@ -159,15 +179,16 @@ Shaky:</pre>
 
       <!-- 5. Complete course — 4 units -->
       <section class="card" id="course" aria-labelledby="course-heading">
-        <h2 id="course-heading">Complete course · 4 units</h2>
+        <h2 id="course-heading" class="section-title"><span class="section-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect x="4" y="14" width="16" height="5" rx="1"/><rect x="6" y="9" width="12" height="5" rx="1"/><rect x="8" y="4" width="8" height="5" rx="1"/></svg></span>Complete course · 4 units</h2>
         <p class="meta">
           Revised 2026–27 framework — not the old 10 units. Code analysis is ~37–53% of MCQ.
           Inheritance is <strong>removed</strong> as a core unit.
         </p>
 
+        <div class="unit-grid">
         <article class="unit-card">
           <header class="unit-head">
-            <h3>Unit 1 · Using Objects and Methods</h3>
+            <h3 class="unit-title"><span class="unit-badge" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1.5" fill="currentColor" stroke="none"/></svg></span>Unit 1 · Using Objects and Methods</h3>
             <span class="pct">15–25% MCQ</span>
           </header>
           <ul class="topic-list">
@@ -232,7 +253,7 @@ Shaky:</pre>
 
         <article class="unit-card">
           <header class="unit-head">
-            <h3>Unit 2 · Selection and Iteration</h3>
+            <h3 class="unit-title"><span class="unit-badge" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 5v6l4 2 4-2V5"/><path d="M7 17c2 2 8 2 10 0"/></svg></span>Unit 2 · Selection and Iteration</h3>
             <span class="pct">25–35% MCQ</span>
           </header>
           <ul class="topic-list">
@@ -290,7 +311,7 @@ Shaky:</pre>
 
         <article class="unit-card">
           <header class="unit-head">
-            <h3>Unit 3 · Class Creation</h3>
+            <h3 class="unit-title"><span class="unit-badge" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="6" width="14" height="12" rx="1.5"/><path d="M5 10h14"/></svg></span>Unit 3 · Class Creation</h3>
             <span class="pct">10–18% MCQ</span>
           </header>
           <ul class="topic-list">
@@ -356,7 +377,7 @@ Shaky:</pre>
 
         <article class="unit-card">
           <header class="unit-head">
-            <h3>Unit 4 · Data Collections</h3>
+            <h3 class="unit-title"><span class="unit-badge" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 5h6v6H5zM13 5h6v6h-6zM5 13h6v6H5zM13 13h6v6h-6z"/></svg></span>Unit 4 · Data Collections</h3>
             <span class="pct">30–40% MCQ</span>
           </header>
           <ul class="topic-list">
@@ -424,10 +445,11 @@ Shaky:</pre>
           </ul>
         </article>
       </section>
+        </div>
 
       <!-- 6. 35-week calendar -->
       <section class="card" id="calendar" aria-labelledby="calendar-heading">
-        <h2 id="calendar-heading">35-week calendar</h2>
+        <h2 id="calendar-heading" class="section-title"><span class="section-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4 6h16M4 12h10M4 18h16"/><circle cx="18" cy="12" r="2" fill="currentColor" stroke="none"/></svg></span>35-week calendar</h2>
         <p class="meta">Sep → May 11 · from Ziv Learning Studio guide</p>
         <div class="table-wrap" role="region" aria-label="35-week calendar" tabindex="0">
           <table class="cal-table">
@@ -513,7 +535,7 @@ Shaky:</pre>
 
       <!-- 7. Repeatable week -->
       <section class="card" id="repeatable" aria-labelledby="repeatable-heading">
-        <h2 id="repeatable-heading">Repeatable 7½-hour week</h2>
+        <h2 id="repeatable-heading" class="section-title"><span class="section-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><path d="M12 8v4l3 2"/></svg></span>Repeatable 7½-hour week</h2>
         <ul class="breakdown">
           <li><strong>2 × 60 min</strong> — Learn a topic, then reproduce examples without looking</li>
           <li><strong>3 × 60 min</strong> — Write and debug code from a blank screen</li>
@@ -534,7 +556,7 @@ Shaky:</pre>
 
       <!-- 8. Resources -->
       <section class="card" id="resources" aria-labelledby="resources-heading">
-        <h2 id="resources-heading">Resources</h2>
+        <h2 id="resources-heading" class="section-title"><span class="section-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M5 4h11a3 3 0 013 3v13H8a3 3 0 00-3 3V4z"/><path d="M5 20a3 3 0 013-3h12"/></svg></span>Resources</h2>
         <h3 class="subhead">Free core — enough to finish the course</h3>
         <ol class="resource-list">
           <li><strong>College Board CED</strong> — authoritative curriculum and samples</li>
@@ -568,7 +590,7 @@ Shaky:</pre>
 
       <!-- 9. Past FRQs + traps + AI -->
       <section class="card" id="frqs" aria-labelledby="frqs-heading">
-        <h2 id="frqs-heading">Past FRQs, traps &amp; AI discipline</h2>
+        <h2 id="frqs-heading" class="section-title"><span class="section-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M7 3h7l5 5v13a1 1 0 01-1 1H7a1 1 0 01-1-1V4a1 1 0 011-1z"/><path d="M14 3v5h5M9 13h6M9 17h4"/></svg></span>Past FRQs, traps &amp; AI discipline</h2>
         <h3 class="subhead">How to use past exam questions</h3>
         <ol class="resource-list">
           <li><strong>During content learning:</strong> pick individual parts by topic; don’t burn full recent papers early</li>
@@ -603,7 +625,7 @@ Shaky:</pre>
 
       <!-- 10. First session Wed Sep 16 -->
       <section class="card" id="first-session" aria-labelledby="first-session-heading">
-        <h2 id="first-session-heading">Tomorrow · Wed Sep 16 · first session</h2>
+        <h2 id="first-session-heading" class="section-title"><span class="section-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="8"/><path d="M10 9l5 3-5 3V9z" fill="currentColor" stroke="none"/></svg></span>Tomorrow · Wed Sep 16 · first session</h2>
         <p class="meta">~45–60 min · Unit 1 foundations · types &amp; variables</p>
         <ol class="session-steps">
           <li>
