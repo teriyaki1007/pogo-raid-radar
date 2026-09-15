@@ -13,17 +13,73 @@
       <header class="hero">
         <p class="eyebrow">AP Computer Science A</p>
         <h1>AP CSA Study Plan</h1>
-        <p class="subtitle">Weekly Java study checklists through the May 12, 2027 exam</p>
+        <p class="subtitle">
+          May 2027 revised framework — four units, fully digital Bluebook exam
+        </p>
         <div class="callout" role="note">
-          <strong>Exam:</strong> Wed May 12, 2027 · Session 2
+          <strong>Exam:</strong> Wed 12 May 2027 · Session 2 · 3 hours · Bluebook
         </div>
-        <p class="daily">Daily target: <strong>45–60 minutes</strong></p>
-        <p class="phases">Phases: Foundations → Core OOP → Advanced → Exam mode</p>
+        <p class="daily">
+          Daily target: <strong>45–60 minutes</strong> · Ziv’s plan: ~<strong>7½ hr/week</strong>
+        </p>
+        <p class="phases">
+          Source guide:
+          <a href="https://ziv.zynergy.studio/guides/ap-csa-2027/" rel="noopener noreferrer" target="_blank"
+            >Ziv Learning Studio — AP CSA 2027</a
+          >
+        </p>
       </header>
 
-      <section class="card" aria-labelledby="this-week">
-        <h2 id="this-week">This week</h2>
-        <p class="meta">Week of Sep 15–21, 2026 · Unit 1 Primitive Types</p>
+      <nav class="toc card" aria-label="On this page">
+        <ul class="toc-list">
+          <li><a href="#admin">Admin</a></li>
+          <li><a href="#this-week">This week</a></li>
+          <li><a href="#exam-glance">Exam</a></li>
+          <li><a href="#course">Course</a></li>
+          <li><a href="#calendar">Calendar</a></li>
+          <li><a href="#repeatable">Week</a></li>
+          <li><a href="#resources">Resources</a></li>
+          <li><a href="#frqs">FRQs</a></li>
+          <li><a href="#first-session">Wed Sep 16</a></li>
+        </ul>
+      </nav>
+
+      <!-- 2. Admin checklist -->
+      <section class="card" id="admin" aria-labelledby="admin-heading">
+        <h2 id="admin-heading">Admin checklist</h2>
+        <p class="meta">Self-study does not register you for the exam — confirm with CAIS / AP coordinator.</p>
+        <ul class="checklist">
+          <li>
+            <label>
+              <input type="checkbox" data-key="admin-seat" />
+              <span><strong>Exam seat confirmed</strong> — CAIS/AP coordinator confirms order, venue, fee &amp; deadline</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="admin-cb" />
+              <span><strong>College Board account</strong> — legal name matches ID; login &amp; recovery work</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="admin-classroom" />
+              <span><strong>AP Classroom access</strong> — join class or exam-only section</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="admin-bluebook" />
+              <span><strong>Bluebook installed</strong> — supported device + official test preview before May</span>
+            </label>
+          </li>
+        </ul>
+      </section>
+
+      <!-- 3. This week -->
+      <section class="card" id="this-week" aria-labelledby="this-week-heading">
+        <h2 id="this-week-heading">This week</h2>
+        <p class="meta">Sep 16–21, 2026 · Setup + Unit 1 foundations (start Wed)</p>
         <ul class="checklist week-list">
           <li>
             <label>
@@ -56,87 +112,527 @@
             </label>
           </li>
         </ul>
-        <p class="note">Official start Wed Sep 16 (skip Tue).</p>
-      </section>
+        <p class="note">Aligned to Ziv Sep 9–30 focus; official start Wed Sep 16 (skip Tue).</p>
 
-      <section class="card" aria-labelledby="todays-jot">
         <div class="jot-head">
-          <h2 id="todays-jot">Today’s jot</h2>
+          <h3 id="todays-jot">Today’s jot</h3>
           <button type="button" id="copy-jot" class="btn-copy">Copy</button>
         </div>
-        <pre id="jot-template" class="jot" tabindex="0">Predict →
-Run →
-Fix →</pre>
+        <pre id="jot-template" class="jot" tabindex="0">Date:
+Types touched:
+Snippet (what I wrote):
+Predict →
+Actual →
+One sentence: int vs double this week —
+Shaky:</pre>
       </section>
 
-      <section class="card" aria-labelledby="unit-progress">
-        <h2 id="unit-progress">Unit progress</h2>
-        <ul class="checklist units">
-          <li>
-            <label>
-              <input type="checkbox" data-key="unit-1" />
-              <span>Unit 1 — Primitive Types</span>
-            </label>
-          </li>
-          <li>
-            <label>
-              <input type="checkbox" data-key="unit-2" />
-              <span>Unit 2 — Using Objects</span>
-            </label>
-          </li>
-          <li>
-            <label>
-              <input type="checkbox" data-key="unit-3" />
-              <span>Unit 3 — Boolean Expressions &amp; if</span>
-            </label>
-          </li>
-          <li>
-            <label>
-              <input type="checkbox" data-key="unit-4" />
-              <span>Unit 4 — Iteration</span>
-            </label>
-          </li>
-          <li>
-            <label>
-              <input type="checkbox" data-key="unit-5" />
-              <span>Unit 5 — Writing Classes</span>
-            </label>
-          </li>
-          <li>
-            <label>
-              <input type="checkbox" data-key="unit-6" />
-              <span>Unit 6 — Array</span>
-            </label>
-          </li>
-          <li>
-            <label>
-              <input type="checkbox" data-key="unit-7" />
-              <span>Unit 7 — ArrayList</span>
-            </label>
-          </li>
-          <li>
-            <label>
-              <input type="checkbox" data-key="unit-8" />
-              <span>Unit 8 — 2D Array</span>
-            </label>
-          </li>
-          <li>
-            <label>
-              <input type="checkbox" data-key="unit-9" />
-              <span>Unit 9 — Inheritance</span>
-            </label>
-          </li>
-          <li>
-            <label>
-              <input type="checkbox" data-key="unit-10" />
-              <span>Unit 10 — Recursion</span>
-            </label>
-          </li>
+      <!-- 4. Exam at a glance -->
+      <section class="card" id="exam-glance" aria-labelledby="exam-heading">
+        <h2 id="exam-heading">Exam at a glance</h2>
+        <ul class="exam-facts">
+          <li><strong>Wed 12 May 2027</strong> · Session 2</li>
+          <li><strong>3 hours</strong> fully digital in Bluebook</li>
+          <li><strong>42 MCQ</strong> · 90 min · 55%</li>
+          <li><strong>4 FRQ</strong> · 90 min · 45%</li>
+        </ul>
+        <p class="note">Aim for a consistent estimated 4/5 range — universities decide credit; a 3 is “qualified.”</p>
+        <div class="frq-grid">
+          <article class="frq-card">
+            <h3>FRQ 1 · Methods &amp; control</h3>
+            <p>Write two methods, or one constructor and one method, using calls, conditions/loops and String methods.</p>
+          </article>
+          <article class="frq-card">
+            <h3>FRQ 2 · Class design</h3>
+            <p>Implement a class: header, instance variables, constructor and required method from a specification.</p>
+          </article>
+          <article class="frq-card">
+            <h3>FRQ 3 · ArrayList</h3>
+            <p>Traverse and manipulate data stored in an <code>ArrayList</code>.</p>
+          </article>
+          <article class="frq-card">
+            <h3>FRQ 4 · 2D array</h3>
+            <p>Traverse and manipulate rows, columns and elements in a two-dimensional array.</p>
+          </article>
+        </div>
+      </section>
+
+      <!-- 5. Complete course — 4 units -->
+      <section class="card" id="course" aria-labelledby="course-heading">
+        <h2 id="course-heading">Complete course · 4 units</h2>
+        <p class="meta">
+          Revised 2026–27 framework — not the old 10 units. Code analysis is ~37–53% of MCQ.
+          Inheritance is <strong>removed</strong> as a core unit.
+        </p>
+
+        <article class="unit-card">
+          <header class="unit-head">
+            <h3>Unit 1 · Using Objects and Methods</h3>
+            <span class="pct">15–25% MCQ</span>
+          </header>
+          <ul class="topic-list">
+            <li>Algorithms, program structure, compilation &amp; runtime</li>
+            <li><code>int</code> / <code>double</code> / <code>boolean</code>; assignment, arithmetic, compound, remainder</li>
+            <li>Integer division, casting, overflow; objects, references, <code>null</code>, aliasing</li>
+            <li>Methods, params, return, overloading; <code>String</code> + prescribed methods</li>
+            <li><code>Math</code> + random; wrappers / autoboxing; comments, pre/postconditions</li>
+          </ul>
+          <p class="output">Output: 25–35 short programs, mini-project, unit test, methods FRQ</p>
+          <ul class="checklist compact">
+            <li>
+              <label>
+                <input type="checkbox" data-key="u1-types" />
+                <span>Primitives, assignment &amp; arithmetic</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u1-cast" />
+                <span>Casting, integer division &amp; overflow</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u1-objects" />
+                <span>Objects, references, null &amp; aliasing</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u1-methods" />
+                <span>Methods, params, return &amp; overloading</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u1-string" />
+                <span>String + prescribed methods</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u1-math" />
+                <span>Math, random, wrappers / autoboxing</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u1-docs" />
+                <span>Comments, preconditions &amp; postconditions</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u1-output" />
+                <span>Output goals done (programs + mini-project + test + FRQ)</span>
+              </label>
+            </li>
+          </ul>
+        </article>
+
+        <article class="unit-card">
+          <header class="unit-head">
+            <h3>Unit 2 · Selection and Iteration</h3>
+            <span class="pct">25–35% MCQ</span>
+          </header>
+          <ul class="topic-list">
+            <li>Relational / Boolean ops; <code>if</code> / <code>else</code> / nested; De Morgan</li>
+            <li>Short-circuit; correct comparisons (primitive, String, reference)</li>
+            <li><code>while</code> / <code>for</code> / nested; accumulators, counters, max/min</li>
+            <li>String traversal; off-by-one &amp; infinite loops; tracing</li>
+          </ul>
+          <p class="output">Output: 40+ exercises, simulation, timed FRQ parts, cumulative test</p>
+          <ul class="checklist compact">
+            <li>
+              <label>
+                <input type="checkbox" data-key="u2-bool" />
+                <span>Boolean logic, if/else &amp; De Morgan</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u2-short" />
+                <span>Short-circuit &amp; correct comparisons</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u2-loops" />
+                <span>while / for / nested loops</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u2-accum" />
+                <span>Accumulators, counters, max/min</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u2-string" />
+                <span>String traversal &amp; construction</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u2-trace" />
+                <span>Off-by-one, infinite loops &amp; tracing</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u2-output" />
+                <span>Output goals done (40+ + simulation + FRQs + test)</span>
+              </label>
+            </li>
+          </ul>
+        </article>
+
+        <article class="unit-card">
+          <header class="unit-head">
+            <h3>Unit 3 · Class Creation</h3>
+            <span class="pct">10–18% MCQ</span>
+          </header>
+          <ul class="topic-list">
+            <li>Class headers, private fields, constructors, accessors / mutators</li>
+            <li>Public / private; instance / static; <code>this</code>; scope</li>
+            <li>Pass-by-value; helpers; invariants / pre/post; client testing</li>
+          </ul>
+          <p class="output warn">
+            Inheritance is <strong>not</strong> a core unit — do not let an old textbook drive the plan.
+          </p>
+          <p class="output">Output: several small classes + ≥4 class-design tasks/FRQs</p>
+          <ul class="checklist compact">
+            <li>
+              <label>
+                <input type="checkbox" data-key="u3-header" />
+                <span>Headers, private fields &amp; encapsulation</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u3-ctor" />
+                <span>Constructors &amp; initialization</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u3-access" />
+                <span>Accessors, mutators &amp; behaviour methods</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u3-mod" />
+                <span>Public/private, instance/static, this &amp; scope</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u3-pass" />
+                <span>Pass-by-value &amp; reference mutation</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u3-helpers" />
+                <span>Helpers, invariants &amp; pre/post</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u3-client" />
+                <span>Client testing &amp; reference/runtime errors</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u3-output" />
+                <span>Output goals done (classes + ≥4 design FRQs)</span>
+              </label>
+            </li>
+          </ul>
+        </article>
+
+        <article class="unit-card">
+          <header class="unit-head">
+            <h3>Unit 4 · Data Collections</h3>
+            <span class="pct">30–40% MCQ</span>
+          </header>
+          <ul class="topic-list">
+            <li>1D arrays; enhanced <code>for</code>; ArrayList API</li>
+            <li>2D arrays; standard algorithms (count/sum/avg/min/max/filter/replace)</li>
+            <li>Searching + prescribed sorting; recursion (base / recursive / trace)</li>
+            <li>Reading text files / data sets; boundary &amp; runtime errors</li>
+          </ul>
+          <p class="output">Output: array / ArrayList / grid projects + repeated timed FRQ 3 &amp; 4</p>
+          <ul class="checklist compact">
+            <li>
+              <label>
+                <input type="checkbox" data-key="u4-1d" />
+                <span>1D arrays &amp; enhanced for</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u4-list" />
+                <span>ArrayList API &amp; safe traversal</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u4-2d" />
+                <span>2D arrays &amp; nested traversal</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u4-algo" />
+                <span>Standard algorithms (count/sum/avg/min/max/filter)</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u4-search" />
+                <span>Searching &amp; prescribed sorting</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u4-rec" />
+                <span>Recursion: base, recursive call &amp; trace</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u4-files" />
+                <span>Text files / data sets</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u4-errors" />
+                <span>Boundary &amp; runtime errors</span>
+              </label>
+            </li>
+            <li>
+              <label>
+                <input type="checkbox" data-key="u4-output" />
+                <span>Output goals done (projects + timed FRQ 3/4)</span>
+              </label>
+            </li>
+          </ul>
+        </article>
+      </section>
+
+      <!-- 6. 35-week calendar -->
+      <section class="card" id="calendar" aria-labelledby="calendar-heading">
+        <h2 id="calendar-heading">35-week calendar</h2>
+        <p class="meta">Sep → May 11 · from Ziv Learning Studio guide</p>
+        <div class="table-wrap" role="region" aria-label="35-week calendar" tabindex="0">
+          <table class="cal-table">
+            <thead>
+              <tr>
+                <th scope="col">Dates</th>
+                <th scope="col">Focus</th>
+                <th scope="col">Required work</th>
+                <th scope="col">Checkpoint</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>9–30 Sep</td>
+                <td>Setup + Unit 1 foundations</td>
+                <td>Register; install tools; diagnostic; syntax, types, expressions, casts, methods &amp; basic objects. Code 4 days/week.</td>
+                <td>Write, compile &amp; debug 10 small programs without AI writing them.</td>
+              </tr>
+              <tr>
+                <td>October</td>
+                <td>Finish Unit 1</td>
+                <td>Objects, references, Strings, Math, wrappers &amp; documentation. Build a quiz, calculator or simple game.</td>
+                <td>65%+ unit MCQ; explain aliasing, integer division, String equality &amp; return values.</td>
+              </tr>
+              <tr>
+                <td>November</td>
+                <td>Unit 2A</td>
+                <td>Boolean logic, conditions, equivalence, short-circuiting &amp; tracing.</td>
+                <td>Solve unfamiliar condition-tracing problems without running the code.</td>
+              </tr>
+              <tr>
+                <td>December</td>
+                <td>Unit 2B</td>
+                <td>Loops, nested loops, String traversal &amp; common loop algorithms; 8–10 CodingBat weekly.</td>
+                <td>65%+ cumulative Unit 1–2 test; write standard patterns from a blank screen.</td>
+              </tr>
+              <tr>
+                <td>January</td>
+                <td>Unit 3</td>
+                <td>Design several small classes; practise new-style specification tables.</td>
+                <td>Write a complete class—header, fields, constructor &amp; method—in 25 minutes.</td>
+              </tr>
+              <tr>
+                <td>February</td>
+                <td>Unit 4A</td>
+                <td>Arrays &amp; ArrayList; begin one timed collection FRQ each week.</td>
+                <td>No confusion among <code>array.length</code>, <code>String.length()</code> &amp; <code>list.size()</code>.</td>
+              </tr>
+              <tr>
+                <td>1–15 March</td>
+                <td>Unit 4B</td>
+                <td>2D arrays, standard algorithms &amp; data analysis.</td>
+                <td>Complete ArrayList &amp; 2D-array FRQs under time.</td>
+              </tr>
+              <tr>
+                <td>16–31 March</td>
+                <td>Finish content</td>
+                <td>Recursion, files/data sets, cumulative review &amp; first full 3-hour mock.</td>
+                <td>Score with rubrics; rank the top five recurring errors.</td>
+              </tr>
+              <tr>
+                <td>1–14 April</td>
+                <td>Targeted repair</td>
+                <td>Relearn three weakest areas; two mixed MCQ sets &amp; all four FRQ types each week.</td>
+                <td>75%+ mixed MCQ &amp; ~70%+ of available FRQ rubric points.</td>
+              </tr>
+              <tr>
+                <td>15–30 April</td>
+                <td>Exam simulation</td>
+                <td>Two full timed exams; Bluebook navigation; type without compiler/autocomplete.</td>
+                <td>Two consecutive results in the estimated 4/5 range.</td>
+              </tr>
+              <tr>
+                <td>1–11 May</td>
+                <td>Taper</td>
+                <td>One early final mock, then short error/algorithm review. Confirm device &amp; admission.</td>
+                <td>Rested, equipped and consistent—not cramming.</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+      <!-- 7. Repeatable week -->
+      <section class="card" id="repeatable" aria-labelledby="repeatable-heading">
+        <h2 id="repeatable-heading">Repeatable 7½-hour week</h2>
+        <ul class="breakdown">
+          <li><strong>2 × 60 min</strong> — Learn a topic, then reproduce examples without looking</li>
+          <li><strong>3 × 60 min</strong> — Write and debug code from a blank screen</li>
+          <li><strong>60 min</strong> — Trace MCQs by hand; explain each mistake</li>
+          <li><strong>75 min</strong> — Complete an FRQ or a small project</li>
+          <li><strong>15 min</strong> — Update tracker and error log</li>
+        </ul>
+        <p class="note">Every fourth week: replace the project with a cumulative timed test. Aim ~70% writing/tracing, 20% explanation, 10% projects.</p>
+        <h3 class="subhead">Progress targets</h3>
+        <ul class="target-list">
+          <li><strong>December:</strong> 65%+ on unit MCQs</li>
+          <li><strong>February:</strong> 70%+ and able to complete individual FRQ parts</li>
+          <li><strong>31 March:</strong> all curriculum content completed</li>
+          <li><strong>Mid-April:</strong> 75%+ mixed MCQ / ~70% FRQ rubric points</li>
+          <li><strong>Final two mocks:</strong> stable estimated 4/5 range</li>
         </ul>
       </section>
 
+      <!-- 8. Resources -->
+      <section class="card" id="resources" aria-labelledby="resources-heading">
+        <h2 id="resources-heading">Resources</h2>
+        <h3 class="subhead">Free core — enough to finish the course</h3>
+        <ol class="resource-list">
+          <li><strong>College Board CED</strong> — authoritative curriculum and samples</li>
+          <li><strong>CSAwesome2 (2026+)</strong> — primary interactive course; do not use CSAwesome v1 as main sequence</li>
+          <li><strong>Official Java Quick Reference</strong> — keep open from week one</li>
+          <li><strong>CodingBat Java</strong> — short logic, String, loop and array drills</li>
+          <li><strong>Official released FRQs</strong> — questions, rubrics, samples, commentary</li>
+          <li><strong>AP Classroom</strong> — topic questions &amp; progress checks after enrollment</li>
+          <li><strong>BlueJ or IntelliJ IDEA Community</strong> + current JDK (BlueJ simpler for beginners)</li>
+          <li><strong>Bluebook</strong> — required digital-exam practice</li>
+        </ol>
+        <h3 class="subhead">Optional paid — choose one</h3>
+        <ul class="resource-list plain">
+          <li>
+            <strong>Recommended:</strong> Barron’s AP CSA Premium, <strong>13th</strong> ed. (Teukolsky &amp; Carman),
+            ISBN <code>9798349700354</code> — revised 2026 exam, six practice tests
+          </li>
+          <li>
+            <strong>Alternative:</strong> Princeton Review AP CSA Premium Prep, <strong>9th</strong> ed.,
+            ISBN <code>9780593518410</code>
+          </li>
+          <li>
+            <strong>Extra FRQ depth:</strong> Be Prepared for the AP CSA Exam in Java, <strong>9th</strong> ed. (2026)
+          </li>
+        </ul>
+        <p class="warn-box" role="note">
+          Do <strong>not</strong> use Barron’s 12th edition or another old 10-unit book as the primary resource.
+          Older books may emphasize removed inheritance content, omit files/data sets, or describe the former exam.
+        </p>
+      </section>
+
+      <!-- 9. Past FRQs + traps + AI -->
+      <section class="card" id="frqs" aria-labelledby="frqs-heading">
+        <h2 id="frqs-heading">Past FRQs, traps &amp; AI discipline</h2>
+        <h3 class="subhead">How to use past exam questions</h3>
+        <ol class="resource-list">
+          <li><strong>During content learning:</strong> pick individual parts by topic; don’t burn full recent papers early</li>
+          <li><strong>From February:</strong> rotate all four current FRQ categories under a ~22-minute target</li>
+          <li><strong>After every FRQ:</strong> mark with the official rubric, then rewrite missed sections without the solution</li>
+          <li><strong>In April:</strong> reserve unused material for two or three full simulations</li>
+        </ol>
+        <p class="note">
+          Older released questions do not fully align with the 2025–26 revision. Prioritize 2026+ and current FRQ
+          categories; use 2023–25 selectively for still-valid Java skills and ignore removed-topic points.
+        </p>
+
+        <h3 class="subhead">Classic traps</h3>
+        <ul class="trap-list">
+          <li>Use <code>.equals</code> for String content — not <code>==</code></li>
+          <li>Zero-based indexing and exclusive upper bounds</li>
+          <li>Distinguish <code>array.length</code>, <code>String.length()</code>, <code>list.size()</code></li>
+          <li>Removing from an ArrayList while moving forward can skip elements — trace index shifts</li>
+          <li>Test empty, one-element, first/last, all-match / no-match, and permitted <code>null</code> cases</li>
+          <li>FRQs are typed in Bluebook with no IDE compiler, debugger or autocomplete — practise plain editor</li>
+          <li>Wrong bounds, return value, mutation or assumptions can cost more than a small syntax slip</li>
+          <li>AP CSA ≠ AP CSP — no Create performance task; Java programming + code analysis only</li>
+        </ul>
+
+        <h3 class="subhead">AI discipline</h3>
+        <p class="ai-note">
+          <strong>Attempt first.</strong> AI may explain or generate fresh practice, but you must then solve again
+          independently. Otherwise it hides readiness. Best strategy: write and trace Java every week from September,
+          finish new content by 31 March, and spend April on timed mixed practice plus disciplined error correction.
+        </p>
+      </section>
+
+      <!-- 10. First session Wed Sep 16 -->
+      <section class="card" id="first-session" aria-labelledby="first-session-heading">
+        <h2 id="first-session-heading">Tomorrow · Wed Sep 16 · first session</h2>
+        <p class="meta">~45–60 min · Unit 1 foundations · types &amp; variables</p>
+        <ol class="session-steps">
+          <li>
+            <strong>Setup (5–10 min)</strong> — Open BlueJ or IntelliJ + JDK. Confirm a “Hello” program compiles and runs.
+            Skim the Java Quick Reference once.
+          </li>
+          <li>
+            <strong>Learn (15–20 min)</strong> — <code>int</code>, <code>double</code>, <code>boolean</code>; declaring
+            variables; assignment. Note the difference between integer and floating-point division.
+          </li>
+          <li>
+            <strong>Check · 5 snippets (15–20 min)</strong> — Write five tiny programs from a blank screen (e.g. declare
+            mixed types, print a sum, store a remainder, flip a boolean, cast a double to int). Predict output before
+            running.
+          </li>
+          <li>
+            <strong>Jot (5 min)</strong> — Fill today’s jot template (Copy button above). Mark Wed checkbox when done.
+          </li>
+        </ol>
+        <p class="note">Skip Tue. Weekend is optional redo / rest only.</p>
+      </section>
+
       <footer class="footer">
-        Content owned by AP Comp Sci Study Plan bot — edit <code>apps/ap-csa/</code> to update.
+        Content merged from
+        <a href="https://ziv.zynergy.studio/guides/ap-csa-2027/" rel="noopener noreferrer" target="_blank"
+          >Ziv Learning Studio guide</a
+        >
+        + AP Comp Sci Study Plan bot. Edit <code>apps/ap-csa/</code> to update. Checklist progress is saved in this
+        browser only.
       </footer>
     </div>
     <script src="app.js"></script>

@@ -1,5 +1,5 @@
 (function () {
-  const STORAGE_KEY = "ap-csa-checkboxes";
+  const STORAGE_KEY = "ap-csa-checkboxes-v2";
 
   function loadState() {
     try {
@@ -53,4 +53,16 @@
       }, 1500);
     });
   }
+
+  /* Smooth-scroll for sticky TOC (respects reduced-motion via CSS/html) */
+  document.querySelectorAll('.toc-list a[href^="#"]').forEach((link) => {
+    link.addEventListener("click", (e) => {
+      const id = link.getAttribute("href").slice(1);
+      const target = document.getElementById(id);
+      if (!target) return;
+      e.preventDefault();
+      target.scrollIntoView({ behavior: "smooth", block: "start" });
+      history.replaceState(null, "", "#" + id);
+    });
+  });
 })();
