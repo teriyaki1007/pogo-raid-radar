@@ -769,78 +769,92 @@
     border-color: #c0b8a8;
   }
 
-  /* ========== CHARM — scroll / talisman frame ========== */
+  /* ========== CHARM — scroll / talisman (ink & paper; NO gold foil) ========== */
   .card.charm-card {
     width: 286px;
     padding: 10px;
-    border: 3px solid transparent;
-    background-origin: border-box;
-    background-clip: padding-box, border-box;
+    border: 2px solid #6a5848;
     box-shadow:
       0 5px 10px rgba(0,0,0,0.4),
       0 16px 32px rgba(0,0,0,0.45),
-      0 0 16px rgba(180,120,60,0.18);
+      inset 0 1px 0 rgba(255,248,230,0.12);
   }
   .card.charm-card.bureau {
-    background-image:
-      linear-gradient(145deg, #2a2848 0%, #1a1830 50%, #221c38 100%),
-      linear-gradient(135deg, #e8d0a0, #c9a87a, #8a6040, #f0e0c0, #c9a87a);
+    background: linear-gradient(145deg, #2a2848 0%, #1a1830 50%, #221c38 100%);
+    border-color: #5a6080;
+    box-shadow:
+      0 5px 10px rgba(0,0,0,0.4),
+      0 16px 32px rgba(0,0,0,0.45),
+      0 0 0 1px #8a90a8,
+      inset 0 1px 0 rgba(200,205,220,0.2);
   }
   .card.charm-card.alleys {
-    background-image:
-      linear-gradient(145deg, #3a1410 0%, #1a0808 50%, #2a100c 100%),
-      linear-gradient(135deg, #e8d0a0, #c9a87a, #8a6040, #f0e0c0, #c9a87a);
+    background: linear-gradient(145deg, #3a1410 0%, #1a0808 50%, #2a100c 100%);
+    border-color: #6a3028;
+    box-shadow:
+      0 5px 10px rgba(0,0,0,0.4),
+      0 16px 32px rgba(0,0,0,0.45),
+      0 0 0 1px #8a5040,
+      inset 0 1px 0 rgba(220,180,150,0.15);
   }
   .card.charm-card.kin {
-    background-image:
-      linear-gradient(145deg, #2a4038 0%, #1a2a24 50%, #283840 100%),
-      linear-gradient(135deg, #e8d0a0, #c9a87a, #8a6040, #f0e0c0, #c9a87a);
+    background: linear-gradient(145deg, #2a4038 0%, #1a2a24 50%, #283840 100%);
+    border-color: #4a6050;
+    box-shadow:
+      0 5px 10px rgba(0,0,0,0.4),
+      0 16px 32px rgba(0,0,0,0.45),
+      0 0 0 1px #7a9080,
+      inset 0 1px 0 rgba(180,200,190,0.15);
   }
   .card.charm-card.colorless {
-    background-image:
-      linear-gradient(145deg, #343038 0%, #1e1c22 50%, #2a2830 100%),
-      linear-gradient(135deg, #e8d0a0, #c9a87a, #8a6040, #f0e0c0, #c9a87a);
+    background: linear-gradient(145deg, #343038 0%, #1e1c22 50%, #2a2830 100%);
+    border-color: #6a6460;
+    box-shadow:
+      0 5px 10px rgba(0,0,0,0.4),
+      0 16px 32px rgba(0,0,0,0.45),
+      0 0 0 1px #908880,
+      inset 0 1px 0 rgba(220,210,200,0.15);
   }
   .card.charm-card .card-inner {
-    background: linear-gradient(180deg, #f2e8d0 0%, #e8d8b8 40%, #dcc8a0 100%);
+    background: linear-gradient(180deg, #f4ecd8 0%, #ebe0c8 40%, #e0d4b8 100%);
     box-shadow:
-      inset 0 0 0 1.5px rgba(139, 90, 40, 0.55),
-      inset 0 0 0 3px rgba(240, 224, 180, 0.5);
+      inset 0 0 0 1px rgba(90, 70, 50, 0.35),
+      inset 0 0 0 3px rgba(244, 236, 216, 0.65);
   }
   .card.charm-card .art-window {
     height: 40%;
     border-radius: 6px 6px 2px 2px;
-    border: 1.5px solid rgba(139, 90, 40, 0.45);
+    border: 1.5px solid rgba(90, 70, 50, 0.35);
   }
   .card.charm-card .name-plate {
-    background: linear-gradient(90deg, #5a3820 0%, #8a5a30 50%, #5a3820 100%);
-    color: #f8f0d8;
-    border-color: #c9a87a;
+    background: linear-gradient(90deg, #4a3828 0%, #6a5040 50%, #4a3828 100%);
+    color: #f4ecd8;
+    border-color: #8a7060;
   }
-  .card.charm-card .type-line { color: #6a4a28; }
+  .card.charm-card .type-line { color: #5a4a38; }
   .card.charm-card .rule-line {
-    background: linear-gradient(90deg, transparent, #8a5a30, #c9a87a, #8a5a30, transparent);
+    background: linear-gradient(90deg, transparent, #6a5848, transparent);
   }
   .card.charm-card .text-box {
-    background: rgba(255, 248, 230, 0.7);
-    border: 1px solid rgba(139, 90, 40, 0.22);
+    background: rgba(255, 252, 245, 0.72);
+    border: 1px solid rgba(90, 70, 50, 0.18);
   }
   .type-pill.charm {
-    background: linear-gradient(145deg, #6a4020, #3a2010);
-    color: #f8e8c0;
-    border-color: #c9a87a;
+    background: linear-gradient(145deg, #5a4838, #2a2018);
+    color: #f0e8d8;
+    border-color: #8a7060;
   }
   .support-icon.charm-icon {
     width: 26px; height: 26px;
     display: flex; align-items: center; justify-content: center;
     font-size: 0.9rem;
     border-radius: 4px;
-    background: linear-gradient(145deg, #e8d0a0, #8a5a30);
-    border: 1.5px solid #c9a87a;
+    background: linear-gradient(145deg, #e8dcc8, #8a7060);
+    border: 1.5px solid #6a5848;
     box-shadow: 0 1px 3px rgba(0,0,0,0.35);
   }
 
-  /* ========== RELIC — bronze artifact frame ========== */
+  /* ========== RELIC — bronze / artifact frame (NO mythic gold foil) ========== */
   .card.relic-card {
     width: 286px;
     padding: 10px;
@@ -850,77 +864,117 @@
     box-shadow:
       0 5px 10px rgba(0,0,0,0.4),
       0 16px 32px rgba(0,0,0,0.5),
-      0 0 18px rgba(160, 110, 40, 0.25);
+      0 0 14px rgba(120, 90, 50, 0.2);
   }
   .card.relic-card.bureau {
     background-image:
       linear-gradient(145deg, #1e2038 0%, #121428 50%, #1a1c30 100%),
-      linear-gradient(135deg, #d4a860, #8a6020, #f0d090, #5a4010, #d4a860);
+      linear-gradient(135deg, #a89070, #6a5030, #c8b090, #4a3820, #a89070);
   }
   .card.relic-card.alleys {
     background-image:
       linear-gradient(145deg, #2a0c0c 0%, #140606 50%, #1e0808 100%),
-      linear-gradient(135deg, #d4a860, #8a6020, #f0d090, #5a4010, #d4a860);
+      linear-gradient(135deg, #a89070, #6a5030, #c8b090, #4a3820, #a89070);
   }
   .card.relic-card.kin {
     background-image:
       linear-gradient(145deg, #1e3028 0%, #121e1c 50%, #1a2830 100%),
-      linear-gradient(135deg, #d4a860, #8a6020, #f0d090, #5a4010, #d4a860);
+      linear-gradient(135deg, #a89070, #6a5030, #c8b090, #4a3820, #a89070);
   }
   .card.relic-card.colorless {
     background-image:
       linear-gradient(145deg, #2a282c 0%, #161418 50%, #222028 100%),
-      linear-gradient(135deg, #d4a860, #8a6020, #f0d090, #5a4010, #d4a860);
+      linear-gradient(135deg, #a89070, #6a5030, #c8b090, #4a3820, #a89070);
   }
   .card.relic-card .card-inner {
     background: linear-gradient(180deg, #2a2218 0%, #1c1610 50%, #14100c 100%);
     box-shadow:
-      inset 0 0 0 1.5px rgba(212, 168, 96, 0.75),
-      inset 0 0 0 3px rgba(60, 40, 15, 0.9);
+      inset 0 0 0 1.5px rgba(168, 144, 112, 0.7),
+      inset 0 0 0 3px rgba(50, 38, 22, 0.9);
     color: #e8e0d0;
   }
   .card.relic-card .art-window {
     height: 40%;
-    border: 1.5px solid rgba(212, 168, 96, 0.6);
+    border: 1.5px solid rgba(168, 144, 112, 0.55);
     border-radius: 3px;
   }
   .card.relic-card .name-plate {
-    background: linear-gradient(90deg, #1a1208 0%, #3a2a10 50%, #1a1208 100%);
-    color: #f0d890;
-    border-color: #d4a860;
+    background: linear-gradient(90deg, #1a1208 0%, #3a2a18 50%, #1a1208 100%);
+    color: #e0d0b0;
+    border-color: #a89070;
   }
-  .card.relic-card .type-line { color: #c8b080; }
+  .card.relic-card .type-line { color: #b8a888; }
   .card.relic-card .rule-line {
-    background: linear-gradient(90deg, transparent, #d4a860, transparent);
+    background: linear-gradient(90deg, transparent, #a89070, transparent);
   }
   .card.relic-card .text-box {
     background: rgba(12, 8, 4, 0.7);
-    border: 1px solid rgba(212, 168, 96, 0.3);
+    border: 1px solid rgba(168, 144, 112, 0.28);
   }
   .card.relic-card .text-box .rules { color: #e8e0d0; }
   .card.relic-card .text-box .flavor {
-    color: #c0a060;
-    border-top-color: rgba(212,168,96,0.25);
+    color: #b0a070;
+    border-top-color: rgba(168,144,112,0.22);
   }
-  .card.relic-card .set-code { color: #a88850; }
+  .card.relic-card .set-code { color: #908060; }
+  /* Rare Relic: subtle silver/bronze pip accent — not full mythic foil */
+  .card.relic-card .rarity-pip.R {
+    color: #e8e0d0;
+    border-color: #c0c8d0;
+    background: linear-gradient(145deg, #4a4538, #1a1810);
+    box-shadow: 0 0 6px rgba(180, 190, 200, 0.35);
+  }
   .type-pill.relic {
-    background: linear-gradient(145deg, #5a4010, #2a1a08);
-    color: #f0d890;
-    border-color: #d4a860;
+    background: linear-gradient(145deg, #4a3820, #221808);
+    color: #e0d0b0;
+    border-color: #a89070;
   }
   .support-icon.relic-icon {
     width: 26px; height: 26px;
     display: flex; align-items: center; justify-content: center;
     font-size: 0.85rem;
     border-radius: 50%;
-    background: radial-gradient(circle at 35% 30%, #f0d090, #8a6020 55%, #3a2808);
-    border: 2px solid #d4a860;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.4), inset 0 1px 1px rgba(255,255,255,0.3);
+    background: radial-gradient(circle at 35% 30%, #d0c0a0, #6a5030 55%, #2a2010);
+    border: 2px solid #a89070;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.4), inset 0 1px 1px rgba(255,255,255,0.25);
     color: #2a1a08;
   }
 
-  /* ========== EDICT — mythic-grade ornate gold ========== */
+  /* ========== EDICT — base type frame; gold ONLY when also .mythic ========== */
   .card.edict-card {
+    width: 286px;
+    padding: 10px;
+    border: 3px solid #5a4858;
+    background: linear-gradient(145deg, #2a2430 0%, #1a1620 50%, #221c28 100%);
+    box-shadow:
+      0 5px 10px rgba(0,0,0,0.4),
+      0 16px 32px rgba(0,0,0,0.45),
+      0 0 0 1px #8a7888,
+      inset 0 1px 0 rgba(220,200,210,0.15);
+  }
+  .card.edict-card .card-inner {
+    background: linear-gradient(180deg, #ebe2cd 0%, #e4d7bc 40%, #dccdb0 100%);
+    box-shadow: inset 0 0 0 1px rgba(255,255,255,0.35);
+  }
+  .card.edict-card .art-window { height: 40%; }
+  .type-pill.edict {
+    background: linear-gradient(145deg, #4a3040, #241018);
+    color: #f0e0e8;
+    border-color: #a08090;
+  }
+  .support-icon.edict-icon {
+    width: 26px; height: 26px;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 0.85rem;
+    clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
+    background: linear-gradient(145deg, #4a3040, #241018);
+    color: #f0e0e8;
+    border: none;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+  }
+
+  /* Mythic Edict: same ornate gold foil as Mythic spirits (.mythic) */
+  .card.edict-card.mythic {
     width: 296px;
     padding: 12px;
     border: 4px solid transparent;
@@ -933,113 +987,23 @@
       0 0 60px rgba(212,175,55,0.15),
       inset 0 1px 0 rgba(255,236,160,0.4);
   }
-  .card.edict-card.colorless,
-  .card.edict-card.bureau,
-  .card.edict-card.alleys,
-  .card.edict-card.kin {
+  .card.edict-card.mythic.colorless,
+  .card.edict-card.mythic.bureau,
+  .card.edict-card.mythic.alleys,
+  .card.edict-card.mythic.kin {
     background-image:
       linear-gradient(145deg, #1a1420 0%, #0e0c14 45%, #1a1018 100%),
       linear-gradient(135deg, #fff8d0, #d4af37, #8a7010, #f0e6a0, #c9a227, #6a5010, #e8d878, #d4af37);
   }
-  .card.edict-card .card-inner {
-    background: linear-gradient(180deg, #1a1628 0%, #12101c 50%, #0e0c14 100%);
-    box-shadow:
-      inset 0 0 0 2px rgba(212,175,55,0.85),
-      inset 0 0 0 4px rgba(40,30,10,0.9),
-      inset 0 0 0 5px rgba(240,230,160,0.35);
-    border-radius: 6px;
-    color: #e8e0d0;
-  }
-  .card.edict-card .filigree {
-    position: absolute;
-    width: 28px; height: 28px;
-    z-index: 6;
-    pointer-events: none;
-  }
-  .card.edict-card .filigree::before,
-  .card.edict-card .filigree::after {
-    content: "";
-    position: absolute;
-    background: linear-gradient(135deg, #fff8d0, #d4af37 40%, #8a7010);
-    box-shadow: 0 0 4px rgba(212,175,55,0.5);
-  }
-  .card.edict-card .filigree.tl { top: 2px; left: 2px; }
-  .card.edict-card .filigree.tr { top: 2px; right: 2px; transform: scaleX(-1); }
-  .card.edict-card .filigree.bl { bottom: 2px; left: 2px; transform: scaleY(-1); }
-  .card.edict-card .filigree.br { bottom: 2px; right: 2px; transform: scale(-1); }
-  .card.edict-card .filigree::before {
-    width: 18px; height: 3px; top: 6px; left: 4px;
-    clip-path: polygon(0 40%, 70% 0, 100% 50%, 70% 100%, 0 60%);
-  }
-  .card.edict-card .filigree::after {
-    width: 3px; height: 18px; top: 4px; left: 6px;
-    clip-path: polygon(40% 0, 100% 70%, 50% 100%, 0 70%, 60% 0);
-  }
-  .card.edict-card::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    border-radius: 14px;
-    pointer-events: none;
-    z-index: 4;
-    background: linear-gradient(
-      115deg,
-      transparent 0%,
-      transparent 38%,
-      rgba(255, 248, 200, 0.0) 42%,
-      rgba(255, 248, 200, 0.22) 50%,
-      rgba(255, 248, 200, 0.0) 58%,
-      transparent 62%,
-      transparent 100%
-    );
-    background-size: 220% 100%;
-    animation: mythic-shimmer 5.5s ease-in-out infinite;
-    mix-blend-mode: soft-light;
-    opacity: 0.85;
-  }
-  .card.edict-card .name-plate {
-    background: linear-gradient(90deg, #0a0804 0%, #1a1408 40%, #2a1e0a 50%, #1a1408 60%, #0a0804 100%);
-    color: #f0e6a0;
-    border: 1px solid #d4af37;
-    text-shadow: 0 0 8px rgba(212,175,55,0.45), 0 1px 2px rgba(0,0,0,0.8);
-  }
-  .card.edict-card .type-line { color: #c8b890; }
-  .card.edict-card .rule-line {
-    background: linear-gradient(90deg, transparent, #d4af37, #f0e6a0, #d4af37, transparent);
-    height: 1.5px;
-  }
-  .card.edict-card .text-box {
-    background: rgba(12, 10, 20, 0.72);
-    border: 1px solid rgba(212, 175, 55, 0.35);
-  }
-  .card.edict-card .text-box .rules { color: #e8e0d0; }
-  .card.edict-card .text-box .flavor {
-    color: #c0a858;
-    border-top-color: rgba(212,175,55,0.25);
-  }
-  .card.edict-card .set-code { color: #a89050; }
-  .card.edict-card .art-window {
-    height: 40%;
-    border: 1.5px solid rgba(212,175,55,0.65);
-  }
-  .card.edict-card .favor-pip {
-    border-color: #d4af37;
-    box-shadow: 0 0 8px rgba(212,175,55,0.4);
-  }
-  .type-pill.edict {
+  .card.edict-card.mythic .type-pill.edict {
     background: linear-gradient(145deg, #5a4010, #1a1204);
     color: #f0e6a0;
     border-color: #d4af37;
     box-shadow: 0 0 8px rgba(212,175,55,0.35);
   }
-  .support-icon.edict-icon {
-    width: 26px; height: 26px;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 0.85rem;
-    clip-path: polygon(50% 0%, 95% 25%, 95% 75%, 50% 100%, 5% 75%, 5% 25%);
+  .card.edict-card.mythic .support-icon.edict-icon {
     background: linear-gradient(145deg, #5a4010, #1a1204);
     color: #f0e6a0;
-    border: none;
     box-shadow: 0 0 10px rgba(212,175,55,0.55);
   }
 
@@ -1092,7 +1056,7 @@
   <span><i class="swatch site"></i> Site/Stadium bronze</span>
   <span><i class="swatch charm"></i> Charm talisman</span>
   <span><i class="swatch relic"></i> Relic bronze</span>
-  <span><i class="swatch edict"></i> Edict gold</span>
+  <span><i class="swatch edict"></i> Mythic Edict gold</span>
 </footer>
 
 <script>
@@ -1244,8 +1208,10 @@
     const courtClass = COURT_CLASS[s.court] || "colorless";
     const typeName = ((print && print.type) || s.type || "Charm");
     const kind = typeName.toLowerCase();
-    const isMythic = (s.rarity || "").toLowerCase() === "mythic" || kind === "edict";
     const letter = RARITY_LETTER[s.rarity] || "?";
+    /* Gold / mythic treatment ONLY for rarity Mythic (or code M) — never by type alone */
+    const isMythic =
+      (s.rarity || "").toLowerCase() === "mythic" || letter === "M";
     const code = (print && print.code) || collectorSupport(s, index);
     const rules = (print && print.rules) || s.usage || "";
     const flavor = (print && print.flavor) || s.story || "";
@@ -1255,16 +1221,16 @@
       kind === "edict" ? "edict-card" : "charm-card";
 
     const classes = ["card", courtClass, frameClass];
-    if (isMythic && kind === "edict") classes.push("mythic");
+    if (isMythic) classes.push("mythic");
 
     const rarityBlock = isMythic
-      ? `<div class="mythic-ribbon" title="${escapeHtml(s.rarity || "Mythic")}">
-           <div class="rarity-pip M">${letter === "M" ? "M" : letter}</div>
-           <div class="ribbon-label">${letter === "M" ? "MYTHIC" : escapeHtml((s.rarity || "").toUpperCase())}</div>
+      ? `<div class="mythic-ribbon" title="Mythic">
+           <div class="rarity-pip M">M</div>
+           <div class="ribbon-label">MYTHIC</div>
          </div>`
       : `<div class="rarity-pip ${letter}" title="${escapeHtml(s.rarity)}">${letter}</div>`;
 
-    const filigree = (kind === "edict")
+    const filigree = isMythic
       ? `<span class="filigree tl"></span><span class="filigree tr"></span><span class="filigree bl"></span><span class="filigree br"></span>`
       : "";
 
