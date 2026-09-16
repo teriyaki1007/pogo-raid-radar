@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-09-16",
-    "asOfLabel": "16 Sep 2026",
+    "asOf": "2026-09-17",
+    "asOfLabel": "17 Sep 2026",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Zamazenta 5★ + Mega Venusaur are live. Horizons 1★/3★ start at 10:00 AM local; Raid Hour tonight 6–7 PM.",
-      "endsAtLabel": "Horizons: Wed 16 Sep 10:00 AM · Raid Hour: 6:00–7:00 PM local"
+      "text": "Horizons raids live: Captain’s Cap Pikachu 1★ + Charizard (goggles) / Meowscarada / Skeledirge / Quaquaval 3★. Zamazenta 5★ + Mega Venusaur continue. Super Mega Staraptor Raid Day Sat 19 Sep 2–5 PM. Spotlight Hour tonight: Charmander (goggles) 6–7 PM.",
+      "endsAtLabel": "Horizons / Zamazenta / Mega Venusaur → Tue 22 Sep · Super Mega Raid Day: Sat 19 Sep 2:00–5:00 PM local"
     },
     "legend": {
       "standard": {
@@ -556,7 +556,7 @@
         "pokeapiId": 889,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png"
       },
-      "notes": "Raid Hour: Wed 16 Sep, 6:00–7:00 PM local. Same stats as Hero Zacian.",
+      "notes": "Raid Hour was Wed 16 Sep, 6:00–7:00 PM local (completed). Same stats as Hero Zacian.",
       "highlight": true,
       "types": [
         "Fighting"
@@ -671,7 +671,7 @@
       "catchForm": null,
       "tier": "1",
       "tierLabel": "1★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "event": "Pokémon Horizons: The Series Celebration",
@@ -726,7 +726,7 @@
       "catchForm": null,
       "tier": "3",
       "tierLabel": "3★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "event": "Pokémon Horizons: The Series Celebration",
@@ -789,7 +789,7 @@
       "catchForm": null,
       "tier": "3",
       "tierLabel": "3★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "event": "Pokémon Horizons: The Series Celebration",
@@ -856,7 +856,7 @@
       "catchForm": null,
       "tier": "3",
       "tierLabel": "3★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "event": "Pokémon Horizons: The Series Celebration",
@@ -921,7 +921,7 @@
       "catchForm": null,
       "tier": "3",
       "tierLabel": "3★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "event": "Pokémon Horizons: The Series Celebration",
@@ -1007,37 +1007,39 @@
         "pokeapiId": 398,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png"
       },
-      "notes": "Catch Staraptor. Up to 6 free passes (14 with ticket). Remote limit 20 (Fri 18 Sep 5 PM – Sat 19 Sep 8 PM PDT).",
+      "notes": "Catch Staraptor. Up to 6 free passes (14 with ticket). Remote limit 20 (Fri 18 Sep 5 PM – Sat 19 Sep 8 PM PDT). Mega form is Fighting/Flying (base catch form stays Normal/Flying).",
       "highlight": true,
       "types": [
-        "Normal",
+        "Fighting",
         "Flying"
       ],
       "weakTo": [
-        "Rock 2×",
         "Electric",
-        "Ice"
+        "Ice",
+        "Flying",
+        "Psychic",
+        "Fairy"
       ],
       "counters": [
         {
-          "name": "Shadow Rhyperior",
-          "moves": "Smack Down / Rock Wrecker"
+          "name": "Mega Mewtwo Y",
+          "moves": "Psycho Cut / Future Sight"
         },
         {
-          "name": "Mega Diancie",
-          "moves": "Rock Throw / Rock Slide"
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
         },
         {
-          "name": "White Kyurem",
-          "moves": "Ice Fang / Ice Burn"
+          "name": "Mega Mewtwo X",
+          "moves": "Confusion / Psystrike"
         },
         {
-          "name": "Xurkitree",
-          "moves": "Thunder Shock / Discharge"
+          "name": "Shadow Mewtwo",
+          "moves": "Confusion / Psystrike"
         },
         {
-          "name": "Rampardos",
-          "moves": "Smack Down / Rock Slide"
+          "name": "Mega Raichu Y",
+          "moves": "Thunder Shock / Zap Cannon"
         },
         {
           "name": "Therian Thundurus",
@@ -1391,14 +1393,17 @@
       "shinyRate": "not published",
       "hundoRate": "1/216",
       "ivFloor": "10/10/10",
-      "cpL20": null,
-      "cpL25": null,
-      "weather": [],
+      "cpL20": 2003,
+      "cpL25": 2503,
+      "weather": [
+        "Sunny",
+        "Cloudy"
+      ],
       "sprite": {
         "pokeapiId": 71,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png"
       },
-      "notes": "Catch form: Victreebel. Exact 100IV CP unknown in source report — look up GO Hub Victreebel IV chart when needed.",
+      "notes": "Catch form: Victreebel. Hundo CP from GO Hub / Dittobase IV charts (L20 2003 / L25 WB 2503).",
       "types": [
         "Grass",
         "Poison"
