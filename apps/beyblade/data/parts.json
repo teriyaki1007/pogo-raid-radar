@@ -64,7 +64,8 @@
       "Slash",
       "Free"
     ],
-    "cxNote": "CX Custom Line = Lock Chip + Main Blade + Assist Blade (+ optional Over Blade not required in builder). Score uses stacked part bases; metal Lock + Heavy Assist get mass bonuses."
+    "cxNote": "CX Custom Line = Lock Chip + Main Blade + Assist Blade (+ optional Over Blade not required in builder). Score uses stacked part bases; metal Lock + Heavy Assist get mass bonuses.",
+    "ratchetIntegratedNote": "Blades with ratchetIntegrated:true cannot equip a separate ratchet (Expand Blade / Infinity)."
   },
   "blades": [
     {
@@ -239,11 +240,12 @@
       "scoreBase": 82,
       "priceNote": "estimate — JP MSRP ¥2700 ≈ HK$135; HK sealed expect HK$150–280 range uncertainty / needs listing check",
       "code": "UX-20",
-      "notes": "Expand Blade (ratchet integrated); climbed WBO Aug 2026",
+      "notes": "Expand Blade (ratchet integrated); climbed WBO Aug 2026; bit-only (no separate ratchet).",
       "shorthand": "GV / Glory",
       "usagePct": 1.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 133 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-18",
+      "ratchetIntegrated": true
     },
     {
       "id": "meteor-dragoon",
@@ -461,11 +463,12 @@
       "scoreBase": 68,
       "priceNote": "estimate — starter JP ¥2600 → ~HK$130 MSRP-est; needs listing check",
       "code": "UX-19",
-      "notes": "Expand Blade Apr 2026",
+      "notes": "Expand Blade Apr 2026; bit-only (no separate ratchet).",
       "shorthand": "Griffon",
       "usagePct": 2.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 197 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-18",
+      "ratchetIntegrated": true
     },
     {
       "id": "tyranno-beat",

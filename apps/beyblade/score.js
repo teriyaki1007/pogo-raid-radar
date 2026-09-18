@@ -35,6 +35,9 @@ export const WEIGHTS = {
   blade: 0.5,
   ratchet: 0.25,
   bit: 0.25,
+  // Expand / ratchet-integrated (blade + bit only)
+  expandBlade: 0.65,
+  expandBit: 0.35,
   // CX stack weights (sum ≈ 1.0)
   cxLock: 0.12,
   cxMain: 0.38,
@@ -87,14 +90,30 @@ function formatUsage(part) {
   return `${Number.isInteger(n) ? n : n.toFixed(1)}%`;
 }
 
+function isRatchetIntegrated(blade) {
+  return !!(blade && (blade.ratchetIntegrated === true || blade.ratchetIntegrated === "true"));
+}
+
+/** Neutral stub when Expand Blade has no separate ratchet. */
+const INTEGRATED_RATCHET = {
+  id: "integrated",
+  name: "Integrated",
+  abbr: "",
+  scoreBase: 72,
+  tier: "A",
+  height: 60,
+  protrusions: 0,
+  hkdMin: 0,
+  hkdMax: 0,
+  usagePct: null,
+};
+
 function comboStringBasic(blade, ratchet, bit) {
-  const expand =
-    /valkyrie|griffon/i.test(blade.name) && blade.notes?.toLowerCase().includes("expand");
-  const r = ratchet?.abbr || ratchet?.name || "";
   const bAbbr = bit?.abbr || bit?.name || "";
-  if (expand && (!ratchet || ratchet.id === "integrated")) {
+  if (isRatchetIntegrated(blade)) {
     return `${blade.name} ${bAbbr}`.trim();
   }
+  const r = ratchet?.abbr || ratchet?.name || "";
   return `${blade.name} ${r} ${bit?.name || bAbbr}`.replace(/\s+/g, " ").trim();
 }
 
@@ -260,7 +279,7 @@ function coachNotes(bladeLike, ratchet, bit, scores, extraStrengths = []) {
   }
   if ((bladeLike.pros || [])[0]) strengths.push(bladeLike.pros[0]);
   if ((bit.pros || [])[0]) strengths.push(`Bit: ${bit.pros[0]}`);
-  if (parseHeight(ratchet) === 60) strengths.push("60-height ratchet — safest competitive stance.");
+  if (ratchet?.id !== "integrated" && parseHeight(ratchet) === 60) strengths.push("60-height ratchet — safest competitive stance.");
 
   if ((bladeLike.cons || [])[0]) risks.push(bladeLike.cons[0]);
   if (mis >= 5) risks.push("Part mismatch / tall or weak ratchet may leak bursts or scrapes.");
@@ -349,36 +368,56 @@ function finishScores({
  * @param {{blade: object, ratchet: object, bit: object}} parts
  */
 export function scoreCombo({ blade, ratchet, bit }) {
-  if (!blade || !ratchet || !bit) return null;
+  if (!blade || !bit) return null;
+  const integrated = isRatchetIntegrated(blade);
+  if (!integrated && !ratchet) return null;
 
-  const syn = synergyBonus(blade, ratchet, bit);
-  const mis = mismatchPenalty(blade, ratchet, bit);
-  const uNudge = usageNudge(blade, ratchet, bit);
+  const r = integrated ? INTEGRATED_RATCHET : ratchet;
+  const syn = synergyBonus(blade, r, bit);
+  const mis = integrated ? 0 : mismatchPenalty(blade, r, bit);
+  const uNudge = integrated ? usageNudge(blade, bit) : usageNudge(blade, ratchet, bit);
 
-  const rawComp =
-    WEIGHTS.blade * (blade.scoreBase || 45) +
-    WEIGHTS.ratchet * (ratchet.scoreBase || 45) +
-    WEIGHTS.bit * (bit.scoreBase || 45) +
-    syn -
-    mis +
-    uNudge;
+  const rawComp = integrated
+    ? WEIGHTS.expandBlade * (blade.scoreBase || 45) +
+      WEIGHTS.expandBit * (bit.scoreBase || 45) +
+      syn -
+      mis +
+      uNudge
+    : WEIGHTS.blade * (blade.scoreBase || 45) +
+      WEIGHTS.ratchet * (ratchet.scoreBase || 45) +
+      WEIGHTS.bit * (bit.scoreBase || 45) +
+      syn -
+      mis +
+      uNudge;
+
+  const extras = [];
+  if (integrated) {
+    extras.push("Expand Blade — ratchet is integrated; only the Bit is swappable.");
+  }
 
   return finishScores({
     rawComp,
     bladeLike: blade,
-    ratchet,
+    ratchet: r,
     bit,
-    costParts: [blade, ratchet, bit],
-    string: comboStringBasic(blade, ratchet, bit),
-    extraStrengths: [],
+    costParts: integrated ? [blade, bit] : [blade, ratchet, bit],
+    string: comboStringBasic(blade, r, bit),
+    extraStrengths: extras,
     breakdownExtra: {
-      mode: "basic",
+      mode: integrated ? "expand" : "basic",
+      ratchetIntegrated: integrated,
       usageNudge: uNudge,
-      usage: {
-        blade: formatUsage(blade),
-        ratchet: formatUsage(ratchet),
-        bit: formatUsage(bit),
-      },
+      usage: integrated
+        ? {
+            blade: formatUsage(blade),
+            ratchet: "integrated",
+            bit: formatUsage(bit),
+          }
+        : {
+            blade: formatUsage(blade),
+            ratchet: formatUsage(ratchet),
+            bit: formatUsage(bit),
+          },
     },
   });
 }

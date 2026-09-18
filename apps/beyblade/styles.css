@@ -757,3 +757,16 @@ h1 {
 .ref-controls {
   flex-wrap: wrap;
 }
+
+
+.expand-badge {
+  display: inline-block;
+  margin-left: 0.35rem;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: #f5c542;
+  background: #f5c54222;
+  border: 1px solid #f5c54255;
+}

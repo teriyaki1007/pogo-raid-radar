@@ -32,6 +32,36 @@ function byId(list, id) {
   return (list || []).find((p) => p.id === id) || null;
 }
 
+function isRatchetIntegrated(blade) {
+  return !!(blade && blade.ratchetIntegrated);
+}
+
+/** Hide / disable ratchet picker when Expand Blade is selected. */
+function syncRatchetField() {
+  const blade = byId(state.data?.blades, state.bladeId);
+  const integrated = isRatchetIntegrated(blade);
+  const field = $("#ratchet-field");
+  if (field) field.hidden = integrated;
+  const select = $("#ratchet-select");
+  const search = $("#ratchet-search");
+  if (select) select.disabled = integrated;
+  if (search) search.disabled = integrated;
+  if (integrated) {
+    state.ratchetId = "";
+    if (select) select.value = "";
+    const hint = $("#ratchet-hint");
+    if (hint) hint.textContent = "Ratchet integrated — bit only";
+    const usage = $("#ratchet-usage");
+    if (usage) usage.textContent = "No separate ratchet on Expand Blades";
+    const bh = $("#builder-hint");
+    if (bh && state.mode === "basic") bh.textContent = "Blade + Bit (ratchet integrated)";
+  } else if (state.mode === "basic") {
+    const bh = $("#builder-hint");
+    if (bh) bh.textContent = "Blade + Ratchet + Bit";
+  }
+}
+
+
 function filterList(list, q) {
   const s = (q || "").trim().toLowerCase();
   if (!s) return list;
@@ -155,6 +185,7 @@ function refreshBuilderSelects() {
     setUsageLine("#blade-usage", byId(blades, state.bladeId));
     setUsageLine("#ratchet-usage", byId(ratchets, state.ratchetId));
     setUsageLine("#bit-usage", byId(bits, state.bitId));
+    syncRatchetField();
   } else {
     const lq = $("#lock-search").value;
     const mq = $("#main-search").value;
@@ -218,18 +249,23 @@ function renderResults() {
   }
 
   const blade = byId(state.data.blades, state.bladeId);
-  const ratchet = byId(state.data.ratchets, state.ratchetId);
   const bit = byId(state.data.bits, state.bitId);
+  const integrated = isRatchetIntegrated(blade);
+  const ratchet = integrated ? null : byId(state.data.ratchets, state.ratchetId);
 
-  if (!blade || !ratchet || !bit) {
+  if (!blade || !bit || (!integrated && !ratchet)) {
     el.className = "results empty-state";
-    el.innerHTML = "Select a Blade, Ratchet, and Bit to score the combo.";
+    el.innerHTML = integrated
+      ? "Select a Blade and Bit (this Expand Blade has an integrated ratchet)."
+      : "Select a Blade, Ratchet, and Bit to score the combo.";
     return;
   }
 
   const s = scoreCombo({ blade, ratchet, bit });
   paintResults(el, s, {
-    tiers: `${blade.tier} / ${ratchet.tier} / ${bit.tier}`,
+    tiers: integrated
+      ? `${blade.tier} / integrated / ${bit.tier}`
+      : `${blade.tier} / ${ratchet.tier} / ${bit.tier}`,
   });
 }
 
@@ -240,7 +276,7 @@ function paintResults(el, s, { tiers }) {
     <div class="combo-title">
       <span class="grade-pill" style="color:${gColor};border-color:${gColor}55;background:${gColor}22">${s.overall}</span>
       <h3 id="combo-string">${escapeHtml(s.comboString)}</h3>
-      <span class="role-tag">${escapeHtml(s.typeRole)}${s.mode === "cx" ? " · CX" : ""}</span>
+      <span class="role-tag">${escapeHtml(s.typeRole)}${s.mode === "cx" ? " · CX" : s.mode === "expand" || s.breakdown?.ratchetIntegrated ? " · Expand" : ""}</span>
     </div>
     <div class="usage-row" aria-label="Part usage percentages">
       ${usagePills(s.usage)}
@@ -348,10 +384,13 @@ function renderParts() {
       const cons = (p.cons || []).slice(0, 3);
       const u = usageBadgeText(p);
       const uClass = p.usagePct == null ? "usage-na" : p.usagePct >= 20 ? "usage-high" : p.usagePct >= 5 ? "usage-mid" : "usage-low";
+      const expandBadge = p.ratchetIntegrated
+        ? `<span class="badge expand-badge">Ratchet integrated</span>`
+        : "";
       return `
       <article class="part-card" role="listitem">
         <div class="part-top">
-          <h3 class="title">${escapeHtml(p.name)}${abbr}${p.metal ? " <span class=\"metal-tag\">metal</span>" : ""}</h3>
+          <h3 class="title">${escapeHtml(p.name)}${abbr}${p.metal ? " <span class=\"metal-tag\">metal</span>" : ""}${expandBadge}</h3>
           <span class="badge tier-${escapeHtml(p.tier)}">${escapeHtml(p.tier)}</span>
           <span class="badge type">${escapeHtml(p.type || cat)}</span>
           ${p.code ? `<span class="badge type">${escapeHtml(p.code)}</span>` : ""}
@@ -440,6 +479,8 @@ function setupBuilder() {
   $("#blade-select").addEventListener("change", (e) => {
     state.bladeId = e.target.value;
     setUsageLine("#blade-usage", byId(state.data.blades, state.bladeId));
+    syncRatchetField();
+    refreshBuilderSelects();
     renderResults();
   });
   $("#ratchet-select").addEventListener("change", (e) => {
