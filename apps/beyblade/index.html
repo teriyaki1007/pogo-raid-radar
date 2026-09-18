@@ -10,7 +10,7 @@
       content="Beyblade X combo builder and parts reference with HK price estimates and tournament usage %"
     />
     <title>Beyblade Guide — Combo Builder</title>
-    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="styles.css?v=20260918d" />
   </head>
   <body>
     <div class="page">
@@ -48,7 +48,7 @@
           </div>
 
           <!-- Basic / UX -->
-          <div class="builder-grid" id="builder-basic">
+          <div class="builder-grid" id="builder-basic" data-panel="basic">
             <div class="field">
               <label for="blade-search">Blade</label>
               <input type="search" id="blade-search" placeholder="Search blades…" autocomplete="off" />
@@ -73,7 +73,7 @@
           </div>
 
           <!-- CX Custom Line -->
-          <div class="builder-grid cx-grid" id="builder-cx" hidden>
+          <div class="builder-grid cx-grid is-hidden" id="builder-cx" data-panel="cx" hidden>
             <div class="field">
               <label for="lock-search">Lock Chip</label>
               <input type="search" id="lock-search" placeholder="Search lock chips…" autocomplete="off" />
@@ -201,6 +201,6 @@
         <p><a href="/">← All apps</a></p>
       </footer>
     </div>
-    <script type="module" src="app.js"></script>
+    <script type="module" src="app.js?v=20260918d"></script>
   </body>
 </html>

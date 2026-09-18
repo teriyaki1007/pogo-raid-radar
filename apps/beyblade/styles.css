@@ -786,3 +786,30 @@ h1 {
   background: #f5c54222;
   border: 1px solid #f5c54255;
 }
+
+
+.is-hidden {
+  display: none !important;
+}
+
+.usage-callout {
+  margin: 0.45rem 0 0.55rem;
+  padding: 0.45rem 0.65rem;
+  border-radius: 0.55rem;
+  border: 1px solid rgba(245, 197, 66, 0.45);
+  background: rgba(245, 197, 66, 0.12);
+  color: var(--accent);
+  font-size: 0.88rem;
+  font-weight: 650;
+}
+
+.usage-callout strong {
+  font-variant-numeric: tabular-nums;
+  font-size: 1.05rem;
+}
+
+.badge.usage {
+  font-size: 0.78rem !important;
+  padding: 0.18rem 0.55rem !important;
+  border-width: 1.5px;
+}

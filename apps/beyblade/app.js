@@ -2,7 +2,7 @@
  * Beyblade X coaching SPA — loads data/parts.json (relative) and scores combos.
  * Modes: Basic/UX (Blade+Ratchet+Bit) and CX (Lock+Main+Assist+Ratchet+Bit).
  */
-import { scoreCombo, scoreCxCombo, gradeColor, formatUsage } from "./score.js";
+import { scoreCombo, scoreCxCombo, gradeColor, formatUsage } from "./score.js?v=20260918d";
 
 const state = {
   data: null,
@@ -23,7 +23,7 @@ const state = {
 const $ = (sel) => document.querySelector(sel);
 
 async function loadData() {
-  const res = await fetch("data/parts.json");
+  const res = await fetch("data/parts.json?v=20260918d");
   if (!res.ok) throw new Error(`Failed to load parts.json (${res.status})`);
   return res.json();
 }
@@ -41,25 +41,33 @@ function syncRatchetField() {
   const blade = byId(state.data?.blades, state.bladeId);
   const integrated = isRatchetIntegrated(blade);
   const field = $("#ratchet-field");
-  if (field) field.hidden = integrated;
+  if (field) {
+    field.hidden = integrated;
+    field.classList.toggle("is-hidden", integrated);
+    field.style.display = integrated ? "none" : "";
+  }
   const select = $("#ratchet-select");
   const search = $("#ratchet-search");
-  if (select) select.disabled = integrated;
+  if (select) {
+    select.disabled = integrated;
+    if (integrated) {
+      state.ratchetId = "";
+      select.value = "";
+    }
+  }
   if (search) search.disabled = integrated;
+  const hint = $("#ratchet-hint");
+  const usage = $("#ratchet-usage");
   if (integrated) {
-    state.ratchetId = "";
-    if (select) select.value = "";
-    const hint = $("#ratchet-hint");
     if (hint) hint.textContent = "Ratchet integrated — bit only";
-    const usage = $("#ratchet-usage");
     if (usage) usage.textContent = "No separate ratchet on Expand Blades";
-    const bh = $("#builder-hint");
-    if (bh && state.mode === "basic") bh.textContent = "Blade + Bit (ratchet integrated)";
-  } else if (state.mode === "basic") {
-    const bh = $("#builder-hint");
-    if (bh) bh.textContent = "Blade + Ratchet + Bit";
+  }
+  const bh = $("#builder-hint");
+  if (bh && state.mode === "basic") {
+    bh.textContent = integrated ? "Blade + Bit (ratchet integrated)" : "Blade + Ratchet + Bit";
   }
 }
+
 
 
 function filterList(list, q) {
@@ -183,52 +191,53 @@ function sortByName(a, b) {
 }
 
 function refreshBuilderSelects() {
+  if (!state.data) return;
   const { blades, ratchets, bits, lockChips, mainBlades, assistBlades } = state.data;
 
-  if (state.mode === "basic") {
-    const bq = $("#blade-search").value;
-    const rq = $("#ratchet-search").value;
-    const iq = $("#bit-search").value;
-    const bl = filterList(blades, bq).slice().sort(sortParts);
-    const rl = filterList(ratchets, rq).slice().sort(sortRatchets);
-    const il = filterList(bits, iq).slice().sort(sortParts);
-    fillSelect($("#blade-select"), bl, "blade", state.bladeId, blades);
-    fillSelect($("#ratchet-select"), rl, "ratchet", state.ratchetId, ratchets);
-    fillSelect($("#bit-select"), il, "bit", state.bitId, bits);
-    $("#blade-hint").textContent = `${bl.length} blades`;
-    $("#ratchet-hint").textContent = `${rl.length} ratchets`;
-    $("#bit-hint").textContent = `${il.length} bits`;
-    setUsageLine("#blade-usage", byId(blades, state.bladeId));
-    setUsageLine("#ratchet-usage", byId(ratchets, state.ratchetId));
-    setUsageLine("#bit-usage", byId(bits, state.bitId));
-    syncRatchetField();
-  } else {
-    const lq = $("#lock-search").value;
-    const mq = $("#main-search").value;
-    const aq = $("#assist-search").value;
-    const rq = $("#cx-ratchet-search").value;
-    const iq = $("#cx-bit-search").value;
-    const ll = filterList(lockChips || [], lq).slice().sort(sortByUsage);
-    const ml = filterList(mainBlades || [], mq).slice().sort(sortByUsage);
-    const al = filterList(assistBlades || [], aq).slice().sort(sortByUsage);
-    const rl = filterList(ratchets, rq).slice().sort(sortRatchets);
-    const il = filterList(bits, iq).slice().sort(sortParts);
-    fillSelect($("#lock-select"), ll, "lock", state.lockId, lockChips);
-    fillSelect($("#main-select"), ml, "main", state.mainId, mainBlades);
-    fillSelect($("#assist-select"), al, "assist", state.assistId, assistBlades);
-    fillSelect($("#cx-ratchet-select"), rl, "ratchet", state.cxRatchetId, ratchets);
-    fillSelect($("#cx-bit-select"), il, "bit", state.cxBitId, bits);
-    $("#lock-hint").textContent = `${ll.length} lock chips`;
-    $("#main-hint").textContent = `${ml.length} main blades`;
-    $("#assist-hint").textContent = `${al.length} assist blades`;
-    $("#cx-ratchet-hint").textContent = `${rl.length} ratchets`;
-    $("#cx-bit-hint").textContent = `${il.length} bits`;
-    setUsageLine("#lock-usage", byId(lockChips, state.lockId));
-    setUsageLine("#main-usage", byId(mainBlades, state.mainId));
-    setUsageLine("#assist-usage", byId(assistBlades, state.assistId));
-    setUsageLine("#cx-ratchet-usage", byId(ratchets, state.cxRatchetId));
-    setUsageLine("#cx-bit-usage", byId(bits, state.cxBitId));
-  }
+  // Always populate BOTH basic and CX selects so CX never shows iOS "No Options"
+  const bq = $("#blade-search")?.value || "";
+  const rq = $("#ratchet-search")?.value || "";
+  const iq = $("#bit-search")?.value || "";
+  const bl = filterList(blades, bq).slice().sort(sortParts);
+  const rlBasic = filterList(ratchets, rq).slice().sort(sortRatchets);
+  const ilBasic = filterList(bits, iq).slice().sort(sortParts);
+  fillSelect($("#blade-select"), bl, "blade", state.bladeId, blades);
+  fillSelect($("#ratchet-select"), rlBasic, "ratchet", state.ratchetId, ratchets);
+  fillSelect($("#bit-select"), ilBasic, "bit", state.bitId, bits);
+  if ($("#blade-hint")) $("#blade-hint").textContent = `${bl.length} blades`;
+  if ($("#ratchet-hint")) $("#ratchet-hint").textContent = `${rlBasic.length} ratchets`;
+  if ($("#bit-hint")) $("#bit-hint").textContent = `${ilBasic.length} bits`;
+  setUsageLine("#blade-usage", byId(blades, state.bladeId));
+  setUsageLine("#ratchet-usage", byId(ratchets, state.ratchetId));
+  setUsageLine("#bit-usage", byId(bits, state.bitId));
+
+  const lq = $("#lock-search")?.value || "";
+  const mq = $("#main-search")?.value || "";
+  const aq = $("#assist-search")?.value || "";
+  const cxRq = $("#cx-ratchet-search")?.value || "";
+  const cxIq = $("#cx-bit-search")?.value || "";
+  const ll = filterList(lockChips || [], lq).slice().sort(sortByUsage);
+  const ml = filterList(mainBlades || [], mq).slice().sort(sortByUsage);
+  const al = filterList(assistBlades || [], aq).slice().sort(sortByUsage);
+  const rlCx = filterList(ratchets, cxRq).slice().sort(sortRatchets);
+  const ilCx = filterList(bits, cxIq).slice().sort(sortParts);
+  fillSelect($("#lock-select"), ll, "lock", state.lockId, lockChips || []);
+  fillSelect($("#main-select"), ml, "main", state.mainId, mainBlades || []);
+  fillSelect($("#assist-select"), al, "assist", state.assistId, assistBlades || []);
+  fillSelect($("#cx-ratchet-select"), rlCx, "ratchet", state.cxRatchetId, ratchets);
+  fillSelect($("#cx-bit-select"), ilCx, "bit", state.cxBitId, bits);
+  if ($("#lock-hint")) $("#lock-hint").textContent = `${ll.length} lock chips`;
+  if ($("#main-hint")) $("#main-hint").textContent = `${ml.length} main blades`;
+  if ($("#assist-hint")) $("#assist-hint").textContent = `${al.length} assist blades`;
+  if ($("#cx-ratchet-hint")) $("#cx-ratchet-hint").textContent = `${rlCx.length} ratchets`;
+  if ($("#cx-bit-hint")) $("#cx-bit-hint").textContent = `${ilCx.length} bits`;
+  setUsageLine("#lock-usage", byId(lockChips, state.lockId));
+  setUsageLine("#main-usage", byId(mainBlades, state.mainId));
+  setUsageLine("#assist-usage", byId(assistBlades, state.assistId));
+  setUsageLine("#cx-ratchet-usage", byId(ratchets, state.cxRatchetId));
+  setUsageLine("#cx-bit-usage", byId(bits, state.cxBitId));
+
+  syncRatchetField();
 }
 
 function usagePills(usageObj) {
@@ -432,6 +441,9 @@ function renderParts() {
           ${p.code ? `<span class="badge type">${escapeHtml(p.code)}</span>` : ""}
           <span class="badge usage ${uClass}" title="${escapeHtml(p.usageNote || "")}">Usage ${escapeHtml(u)}</span>
         </div>
+        <div class="usage-callout">Tournament usage: <strong>${escapeHtml(u)}</strong>${
+          p.usageNote ? ` · ${escapeHtml(String(p.usageNote).slice(0, 60))}` : ""
+        }</div>
         <div class="part-meta">
           <span>${priceLine(p)}</span>
         </div>
@@ -464,28 +476,32 @@ function renderParts() {
 }
 
 function setMode(mode) {
-  state.mode = mode;
+  state.mode = mode === "cx" ? "cx" : "basic";
   document.querySelectorAll(".mode-btn").forEach((b) => {
-    b.classList.toggle("active", b.dataset.mode === mode);
+    b.classList.toggle("active", b.dataset.mode === state.mode);
   });
   const basic = $("#builder-basic");
   const cx = $("#builder-cx");
+  const showBasic = state.mode === "basic";
   if (basic) {
-    basic.hidden = mode !== "basic";
-    basic.style.display = mode === "basic" ? "" : "none";
+    basic.hidden = !showBasic;
+    basic.classList.toggle("is-hidden", !showBasic);
+    basic.style.setProperty("display", showBasic ? "grid" : "none", "important");
   }
   if (cx) {
-    cx.hidden = mode !== "cx";
-    cx.style.display = mode === "cx" ? "" : "none";
+    cx.hidden = showBasic;
+    cx.classList.toggle("is-hidden", showBasic);
+    cx.style.setProperty("display", showBasic ? "none" : "grid", "important");
   }
   const hint = $("#builder-hint");
   if (hint) {
     hint.textContent =
-      mode === "cx" ? "Lock + Main + Assist + Ratchet + Bit" : "Blade + Ratchet + Bit";
+      state.mode === "cx" ? "Lock + Main + Assist + Ratchet + Bit" : "Blade + Ratchet + Bit";
   }
   refreshBuilderSelects();
   renderResults();
 }
+
 
 function setupTabs() {
   document.querySelectorAll(".tab").forEach((btn) => {
@@ -612,7 +628,7 @@ async function main() {
   setMetaLine();
   setupBuilder();
   setupParts();
-  refreshBuilderSelects();
+  setMode("basic"); // hide CX panel + fill all selects
   renderParts();
 
   const params = new URLSearchParams(location.search);
