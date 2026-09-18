@@ -1,0 +1,3275 @@
+{
+  "meta": {
+    "updated": "2026-09-18",
+    "source": "beyblade-x-parts-reference.md (BEYWATCH / WBO / HK retail synthesis)",
+    "currency": "HKD",
+    "priceDisclaimer": "All HKD values are estimates (sealed retail anchors, MSRP-derived, or unknown ranges). Never treat as verified live listings. Meta shifts.",
+    "viabilityNote": "Tiers mapped from BEYWATCH.GG: beywatch X→S, S→A, A→B, B→C, C→D, sparse/?→Unranked.",
+    "topBlades": [
+      "Shark Scale",
+      "Wizard Rod",
+      "Aero Pegasus",
+      "Blast",
+      "Cobalt Dragoon"
+    ],
+    "topRatchets": [
+      "1-60",
+      "9-60",
+      "3-60",
+      "1-70",
+      "1-50",
+      "7-60"
+    ],
+    "topBits": [
+      "Hexa",
+      "Free Ball",
+      "Low Rush",
+      "Rush",
+      "Level",
+      "Kick",
+      "Elevate"
+    ]
+  },
+  "blades": [
+    {
+      "id": "shark-scale",
+      "name": "Shark Scale",
+      "type": "Attack",
+      "tier": "S",
+      "hkdMin": 180,
+      "hkdMax": 460,
+      "pros": [
+        "Low contact points scoop under opponents → ratchet snipes / bursts",
+        "Flexible across many ratchet/bit pairs",
+        "Strong into other attack blades"
+      ],
+      "cons": [
+        "High recoil / KO risk when hit squarely",
+        "Uneven weight → scrape if destabilized",
+        "Launch-dependent; loses long games to Wizard Rod 1-60 H"
+      ],
+      "bestCombos": [
+        "Shark Scale 1-70 LR",
+        "Shark Scale 3-60 LR",
+        "Shark Scale 9-60 FB"
+      ],
+      "scoreBase": 95,
+      "priceNote": "estimate — sealed UX peers HK$179–250+; SG loose converted ≈HK$360–460 (not HK listing); HK used/loose unknown",
+      "code": "UX-15",
+      "notes": "#1 blade by top cuts; under-scoop attack + stamina to spin-finish",
+      "shorthand": "Scale / SS"
+    },
+    {
+      "id": "wizard-rod",
+      "name": "Wizard Rod",
+      "type": "Stamina",
+      "tier": "S",
+      "hkdMin": 75,
+      "hkdMax": 240,
+      "pros": [
+        "Even outer rim weight → best consistent stamina",
+        "Round profile deflects attackers",
+        "Widely available historically"
+      ],
+      "cons": [
+        "Vulnerable to destabilizers / scrape",
+        "Left-spin stealers can neutralize stamina lead",
+        "Wins slowly — poor launch hurts more"
+      ],
+      "bestCombos": [
+        "Wizard Rod 1-60 H",
+        "Wizard Rod 1-60 FB",
+        "Wizard Rod 9-60 B"
+      ],
+      "scoreBase": 95,
+      "priceNote": "estimate — T CLUB UX-03 sealed HK$74.90; BuyMarket HK$240 sealed; used/loose unknown (meta premium likely)",
+      "code": "UX-03",
+      "notes": "Highest win share; default 3v3 stamina anchor",
+      "shorthand": "Rod / WR"
+    },
+    {
+      "id": "aero-pegasus",
+      "name": "Aero Pegasus",
+      "type": "Attack",
+      "tier": "S",
+      "hkdMin": 200,
+      "hkdMax": 500,
+      "pros": [
+        "High first-place rate on Rush builds",
+        "Strong X-dash attack patterns",
+        "Heavy versatile attacker"
+      ],
+      "cons": [
+        "Scarcer / special release → hard to source",
+        "Build preference shifts (1-50 vs 1-60/1-70)"
+      ],
+      "bestCombos": [
+        "Aero Pegasus 1-60 R",
+        "Aero Pegasus 3-60 R",
+        "Aero Pegasus 1-50 R"
+      ],
+      "scoreBase": 95,
+      "priceNote": "estimate — special release; sealed often well above standard booster; unknown precise HK loose / needs listing check",
+      "code": "UX-00",
+      "notes": "Consistent #3 meta attack",
+      "shorthand": "Aero / AP"
+    },
+    {
+      "id": "blast",
+      "name": "Blast (Emperor Blast Heavy)",
+      "type": "Attack",
+      "tier": "S",
+      "hkdMin": 99,
+      "hkdMax": 199,
+      "pros": [
+        "Metal Lock Chip + Heavy Assist → extreme mass",
+        "Strong KO / pressure potential"
+      ],
+      "cons": [
+        "Less agile than UX attackers",
+        "Parts-intensive (3 CX pieces)"
+      ],
+      "bestCombos": [
+        "Emperor Blast Heavy 9-60 K",
+        "Emperor Blast Heavy 7-70 LR"
+      ],
+      "scoreBase": 95,
+      "priceNote": "estimate — CX starters/boosters sealed ~HK$99–199; individual Main/Assist loose unknown",
+      "code": "CX-07",
+      "notes": "Top CX stack by beywatch; often Emperor + Blast + Heavy",
+      "shorthand": "Blast"
+    },
+    {
+      "id": "cobalt-dragoon",
+      "name": "Cobalt Dragoon",
+      "type": "Balance",
+      "tier": "S",
+      "hkdMin": 100,
+      "hkdMax": 150,
+      "pros": [
+        "Left-spin equalizes / beats right-spin stamina walls",
+        "Elevate builds excel in top cuts"
+      ],
+      "cons": [
+        "Burstier on some ratchets",
+        "Matchup-dependent vs same-spin"
+      ],
+      "bestCombos": [
+        "Cobalt Dragoon 5-60 E",
+        "Cobalt Dragoon 9-60 E",
+        "Cobalt Dragoon 1-60 E"
+      ],
+      "scoreBase": 95,
+      "priceNote": "estimate — T CLUB BX-34 starter HK$119; used blade unknown",
+      "code": "BX-34",
+      "notes": "Premier left-spin counter",
+      "shorthand": "CD / Dragoon"
+    },
+    {
+      "id": "glory-valkyrie",
+      "name": "Glory Valkyrie",
+      "type": "Attack",
+      "tier": "A",
+      "hkdMin": 135,
+      "hkdMax": 280,
+      "pros": [
+        "Strong results across multiple bits",
+        "No ratchet choice simplifies deck building"
+      ],
+      "cons": [
+        "Cannot tune height/protrusions",
+        "Newer part — long-term meta still settling"
+      ],
+      "bestCombos": [
+        "Glory Valkyrie K",
+        "Glory Valkyrie T",
+        "Glory Valkyrie B"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — JP MSRP ¥2700 ≈ HK$135; HK sealed expect HK$150–280 range uncertainty / needs listing check",
+      "code": "UX-20",
+      "notes": "Expand Blade (ratchet integrated); climbed WBO Aug 2026",
+      "shorthand": "GV / Glory"
+    },
+    {
+      "id": "meteor-dragoon",
+      "name": "Meteor Dragoon",
+      "type": "Defense",
+      "tier": "A",
+      "hkdMin": 129,
+      "hkdMax": 200,
+      "pros": [
+        "Left-spin answer",
+        "Level/Elevate viability"
+      ],
+      "cons": [
+        "Lower usage than Cobalt Dragoon",
+        "Build still diversifying"
+      ],
+      "bestCombos": [
+        "Meteor Dragoon 7-60 L",
+        "Meteor Dragoon 7-70 L",
+        "Meteor Dragoon 9-60 E"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — The Club-style starters often HK$129; BuyMarket peers HK$179+; loose unknown",
+      "code": "UX-17",
+      "notes": "Left-spin defense/balance",
+      "shorthand": "MD / Meteor"
+    },
+    {
+      "id": "wyvern-hover",
+      "name": "Wyvern Hover",
+      "type": "Attack",
+      "tier": "A",
+      "hkdMin": 150,
+      "hkdMax": 400,
+      "pros": [
+        "Agile; Kick meta synergy; pocket reverse",
+        "Strong on Infinity Stadium / pocket play"
+      ],
+      "cons": [
+        "Special release scarcity",
+        "Less wall than Rod"
+      ],
+      "bestCombos": [
+        "Hover Wyvern 9-60 K",
+        "Hover Wyvern 9-60 R",
+        "Hover Wyvern 1-60 LR"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — special release; unknown / needs listing check",
+      "code": "UX-00",
+      "notes": "Also called Hover Wyvern; lighter ~35g class",
+      "shorthand": "Hover / WH"
+    },
+    {
+      "id": "knight-shield",
+      "name": "Knight Shield",
+      "type": "Defense",
+      "tier": "A",
+      "hkdMin": 75,
+      "hkdMax": 120,
+      "pros": [
+        "Early defense shape",
+        "Cheap entry"
+      ],
+      "cons": [
+        "Tiny top-cut sample — treat cautiously",
+        "Largely out of main meta"
+      ],
+      "bestCombos": [
+        "Knight Shield 5-60 O"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — T CLUB sealed HK$74.90; starter HK$109; loose low demand",
+      "code": "BX-04",
+      "notes": "A on beywatch (high 1st rate, very low sample)",
+      "shorthand": "Shield / KS"
+    },
+    {
+      "id": "silver-wolf",
+      "name": "Silver Wolf",
+      "type": "Stamina",
+      "tier": "A",
+      "hkdMin": 109,
+      "hkdMax": 240,
+      "pros": [
+        "Strong FB stamina",
+        "Fewer build variants needed"
+      ],
+      "cons": [
+        "Lower ceiling than Rod",
+        "Dependent on 9-60"
+      ],
+      "bestCombos": [
+        "Silver Wolf 9-60 FB",
+        "Silver Wolf 9-70 FB",
+        "Silver Wolf 9-60 H"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — sealed UX starter/booster band HK$109–240; loose unknown",
+      "code": "UX-08",
+      "notes": "Stamina alternative to Rod",
+      "shorthand": "Wolf / SW"
+    },
+    {
+      "id": "phoenix-wing",
+      "name": "Phoenix Wing",
+      "type": "Attack",
+      "tier": "A",
+      "hkdMin": 75,
+      "hkdMax": 379,
+      "pros": [
+        "Proven attack shape",
+        "Many successful builds"
+      ],
+      "cons": [
+        "Outpaced by Shark Scale / Aero in share"
+      ],
+      "bestCombos": [
+        "Phoenix Wing 1-60 R",
+        "Phoenix Wing 3-60 R",
+        "Phoenix Wing 3-60 LR"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — BuyMarket BX-23 sealed listed HK$379 (scarce); T CLUB older HK$74.90; loose unknown",
+      "code": "BX-23",
+      "notes": "Former meta staple; still competitive",
+      "shorthand": "PW / Wing"
+    },
+    {
+      "id": "dran-strike",
+      "name": "Dran Strike",
+      "type": "Attack",
+      "tier": "A",
+      "hkdMin": 100,
+      "hkdMax": 160,
+      "pros": [
+        "Strong attack",
+        "Free Flat stock opens new tips"
+      ],
+      "cons": [
+        "No single consensus ratchet yet"
+      ],
+      "bestCombos": [
+        "Dran Strike 9-60 K",
+        "Dran Strike 3-60 LR"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — May 2026 release; JP starter-class MSRP-derived ~HK$100–140; sealed needs listing check",
+      "code": "BX-49",
+      "notes": "Rising (WBO #5 mid-Aug 2026)",
+      "shorthand": "Strike / DS"
+    },
+    {
+      "id": "bahamut-blitz",
+      "name": "Bahamut Blitz",
+      "type": "Attack",
+      "tier": "B",
+      "hkdMin": 109,
+      "hkdMax": 199,
+      "pros": [
+        "CX attack option with Break Heavy stacks"
+      ],
+      "cons": [
+        "Parts-intensive CX build"
+      ],
+      "bestCombos": [
+        "Emperor Blitz Break Heavy 1-50 LR"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — sealed CX starter ~HK$109–199",
+      "code": "CX-13",
+      "notes": "CX Main Blade Blitz",
+      "shorthand": "Blitz"
+    },
+    {
+      "id": "bullet-griffon",
+      "name": "Bullet Griffon",
+      "type": "Attack",
+      "tier": "B",
+      "hkdMin": 130,
+      "hkdMax": 200,
+      "pros": [
+        "Integrated Expand design",
+        "Tournament presence"
+      ],
+      "cons": [
+        "Bit-only tuning"
+      ],
+      "bestCombos": [
+        "Bullet Griffon H",
+        "Bullet Griffon M",
+        "Bullet Griffon J"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — starter JP ¥2600 → ~HK$130 MSRP-est; needs listing check",
+      "code": "UX-19",
+      "notes": "Expand Blade Apr 2026",
+      "shorthand": "Griffon"
+    },
+    {
+      "id": "tyranno-beat",
+      "name": "Tyranno Beat",
+      "type": "Attack",
+      "tier": "B",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "Cheap path to attack",
+        "Still sees cuts"
+      ],
+      "cons": [
+        "Outclassed by Scale"
+      ],
+      "bestCombos": [
+        "Tyranno Beat 1-60 R"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — T CLUB RB Vol.3 sealed HK$74.90 (random)",
+      "code": "BX-31",
+      "notes": "",
+      "shorthand": "TB"
+    },
+    {
+      "id": "impact-drake",
+      "name": "Impact Drake",
+      "type": "Attack",
+      "tier": "B",
+      "hkdMin": 119,
+      "hkdMax": 179,
+      "pros": [
+        "Ready-made competitive stock (9-60 LR)"
+      ],
+      "cons": [
+        "Lower share than Scale/Aero"
+      ],
+      "bestCombos": [
+        "Impact Drake 9-60 LR"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — sealed starter-class HK$119–179; loose unknown",
+      "code": "UX-11",
+      "notes": "",
+      "shorthand": "ID"
+    },
+    {
+      "id": "scorpio-spear",
+      "name": "Scorpio Spear",
+      "type": "Balance",
+      "tier": "B",
+      "hkdMin": 160,
+      "hkdMax": 190,
+      "pros": [
+        "9-60 FB can spike in large events"
+      ],
+      "cons": [
+        "Usage unstable week-to-week"
+      ],
+      "bestCombos": [
+        "Scorpio Spear 9-60 FB"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — BuyMarket UX-14 sealed HK$179",
+      "code": "UX-14",
+      "notes": "Stamina/Balance",
+      "shorthand": "Spear"
+    },
+    {
+      "id": "clock-mirage",
+      "name": "Clock Mirage",
+      "type": "Balance",
+      "tier": "B",
+      "hkdMin": 75,
+      "hkdMax": 180,
+      "pros": [
+        "Niche CX-adjacent mid builds"
+      ],
+      "cons": [
+        "Narrow use"
+      ],
+      "bestCombos": [
+        "Clock Mirage 4-55 LO"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — RB Select; listing check",
+      "code": "UX-16",
+      "notes": "",
+      "shorthand": "Clock"
+    },
+    {
+      "id": "ragna-rage",
+      "name": "Ragna Rage",
+      "type": "Attack",
+      "tier": "B",
+      "hkdMin": 90,
+      "hkdMax": 120,
+      "pros": [
+        "CX attack Flow Heavy stacks"
+      ],
+      "cons": [
+        "Low sample"
+      ],
+      "bestCombos": [
+        "Ragna Rage Flow Heavy 1-60 R"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — BuyMarket CX-15 HK$99",
+      "code": "CX-15",
+      "notes": "CX Main Blade Rage",
+      "shorthand": "Rage"
+    },
+    {
+      "id": "golem-rock",
+      "name": "Golem Rock",
+      "type": "Defense",
+      "tier": "B",
+      "hkdMin": 109,
+      "hkdMax": 179,
+      "pros": [
+        "Heavy defensive profile",
+        "FB builds"
+      ],
+      "cons": [
+        "Lower 1st rate"
+      ],
+      "bestCombos": [
+        "Golem Rock 9-60 FB"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — sealed band HK$109–179",
+      "code": "UX-13",
+      "notes": "",
+      "shorthand": "Golem"
+    },
+    {
+      "id": "wizard-arrow",
+      "name": "Wizard Arrow",
+      "type": "Stamina",
+      "tier": "B",
+      "hkdMin": 75,
+      "hkdMax": 110,
+      "pros": [
+        "Budget Rod-like profile"
+      ],
+      "cons": [
+        "Outclassed by Rod"
+      ],
+      "bestCombos": [
+        "Wizard Arrow 1-60 H"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — T CLUB HK$74.90",
+      "code": "BX-03",
+      "notes": "",
+      "shorthand": "Arrow"
+    },
+    {
+      "id": "mummy-curse",
+      "name": "Mummy Curse",
+      "type": "Balance",
+      "tier": "B",
+      "hkdMin": 75,
+      "hkdMax": 180,
+      "pros": [
+        "RB rare spice"
+      ],
+      "cons": [
+        "Scarce; low sample"
+      ],
+      "bestCombos": [
+        "Mummy Curse 9-60 W"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — RB Vol.8; listing check",
+      "code": "UX-18",
+      "notes": "",
+      "shorthand": "Mummy"
+    },
+    {
+      "id": "unicorn-delta",
+      "name": "Unicorn Delta",
+      "type": "Balance",
+      "tier": "C",
+      "hkdMin": 75,
+      "hkdMax": 180,
+      "pros": [
+        "CX Peak Heavy stacks in cuts"
+      ],
+      "cons": [
+        "Low sample"
+      ],
+      "bestCombos": [
+        "Emperor Delta Peak Heavy 9-60 K"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — RB pricing",
+      "code": "CX-17",
+      "notes": "CX Main Delta",
+      "shorthand": "Delta"
+    },
+    {
+      "id": "hells-scythe",
+      "name": "Hells Scythe",
+      "type": "Defense",
+      "tier": "C",
+      "hkdMin": 100,
+      "hkdMax": 130,
+      "pros": [
+        "Launch product familiarity"
+      ],
+      "cons": [
+        "Out of main meta"
+      ],
+      "bestCombos": [
+        "Hells Scythe 9-60 B"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — T CLUB starters HK$109 era",
+      "code": "BX-02",
+      "notes": "Defense/Stamina",
+      "shorthand": "Scythe"
+    },
+    {
+      "id": "sol-eclipse",
+      "name": "Sol Eclipse",
+      "type": "Balance",
+      "tier": "C",
+      "hkdMin": 129,
+      "hkdMax": 199,
+      "pros": [
+        "CX niche Heavy + Kick"
+      ],
+      "cons": [
+        "Niche only"
+      ],
+      "bestCombos": [
+        "Sol Eclipse Heavy 9-60 K"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — BuyMarket HK$199; The Club ~HK$129",
+      "code": "CX-09",
+      "notes": "",
+      "shorthand": "Eclipse"
+    },
+    {
+      "id": "hells-hammer",
+      "name": "Hells Hammer",
+      "type": "Attack",
+      "tier": "C",
+      "hkdMin": 100,
+      "hkdMax": 130,
+      "pros": [
+        "Early UX attack"
+      ],
+      "cons": [
+        "Fallen from meta"
+      ],
+      "bestCombos": [
+        "Hells Hammer 3-60 K"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — T CLUB HK$109",
+      "code": "UX-02",
+      "notes": "",
+      "shorthand": "Hammer"
+    },
+    {
+      "id": "cobalt-drake",
+      "name": "Cobalt Drake",
+      "type": "Attack",
+      "tier": "C",
+      "hkdMin": 150,
+      "hkdMax": 400,
+      "pros": [
+        "Rare/event presence"
+      ],
+      "cons": [
+        "Collector premium; sparse competitive"
+      ],
+      "bestCombos": [
+        "Cobalt Drake 9-60 R"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — rare/event; collector premium — listing check",
+      "code": "BX-00",
+      "notes": "",
+      "shorthand": "Drake"
+    },
+    {
+      "id": "dran-sword",
+      "name": "Dran Sword",
+      "type": "Attack",
+      "tier": "C",
+      "hkdMin": 75,
+      "hkdMax": 120,
+      "pros": [
+        "Entry starter attack"
+      ],
+      "cons": [
+        "Outclassed"
+      ],
+      "bestCombos": [
+        "Dran Sword 3-60 F"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — T CLUB entry HK$74.90–109",
+      "code": "BX-01",
+      "notes": "",
+      "shorthand": "Sword"
+    },
+    {
+      "id": "dran-dagger",
+      "name": "Dran Dagger",
+      "type": "Attack",
+      "tier": "C",
+      "hkdMin": 180,
+      "hkdMax": 250,
+      "pros": [
+        "Deck set piece"
+      ],
+      "cons": [
+        "Outclassed"
+      ],
+      "bestCombos": [
+        "Dran Dagger 4-60 R"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — deck HK$219",
+      "code": "BX-20",
+      "notes": "",
+      "shorthand": "Dagger"
+    },
+    {
+      "id": "tyranno-roar",
+      "name": "Tyranno Roar",
+      "type": "Attack",
+      "tier": "C",
+      "hkdMin": 180,
+      "hkdMax": 280,
+      "pros": [
+        "Deck mate with Shark Scale"
+      ],
+      "cons": [
+        "Secondary to Scale"
+      ],
+      "bestCombos": [
+        "Tyranno Roar 1-60 R"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — with Shark Scale deck",
+      "code": "UX-15",
+      "notes": "Also Roar Tyranno",
+      "shorthand": "Roar"
+    },
+    {
+      "id": "samurai-calibur",
+      "name": "Samurai Calibur",
+      "type": "Attack",
+      "tier": "C",
+      "hkdMin": 100,
+      "hkdMax": 180,
+      "pros": [
+        "Mid BX attack"
+      ],
+      "cons": [
+        "Needs listing confirmation"
+      ],
+      "bestCombos": [
+        "Samurai Calibur 1-60 W"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — listing check",
+      "code": "BX-45",
+      "notes": "",
+      "shorthand": "Calibur"
+    },
+    {
+      "id": "dran-buster",
+      "name": "Dran Buster",
+      "type": "Attack",
+      "tier": "C",
+      "hkdMin": 109,
+      "hkdMax": 159,
+      "pros": [
+        "Early UX ace"
+      ],
+      "cons": [
+        "Fallen from meta"
+      ],
+      "bestCombos": [
+        "Dran Buster 1-60 LF"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — starter ~HK$109–159",
+      "code": "UX-01",
+      "notes": "",
+      "shorthand": "Buster"
+    },
+    {
+      "id": "knight-mail",
+      "name": "Knight Mail",
+      "type": "Defense",
+      "tier": "C",
+      "hkdMin": 269,
+      "hkdMax": 445,
+      "pros": [
+        "Customize Set U access"
+      ],
+      "cons": [
+        "Expensive set; out of main meta"
+      ],
+      "bestCombos": [
+        "Knight Mail 1-60 R"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — T CLUB set HK$269; BuyMarket HK$445",
+      "code": "UX-10",
+      "notes": "",
+      "shorthand": "Mail"
+    },
+    {
+      "id": "shark-edge",
+      "name": "Shark Edge",
+      "type": "Attack",
+      "tier": "C",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "Early shark attack"
+      ],
+      "cons": [
+        "Outclassed by Scale"
+      ],
+      "bestCombos": [
+        "Shark Edge 3-60 LF"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — RB Vol.1 HK$74.90",
+      "code": "BX-14",
+      "notes": "",
+      "shorthand": "Edge"
+    },
+    {
+      "id": "samurai-saber",
+      "name": "Samurai Saber",
+      "type": "Attack",
+      "tier": "C",
+      "hkdMin": 140,
+      "hkdMax": 180,
+      "pros": [
+        "Level bit stock synergy"
+      ],
+      "cons": [
+        "Lower share"
+      ],
+      "bestCombos": [
+        "Samurai Saber 9-60 L"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — T CLUB HK$159",
+      "code": "UX-09",
+      "notes": "",
+      "shorthand": "Saber"
+    },
+    {
+      "id": "dran-brave",
+      "name": "Dran Brave",
+      "type": "Attack",
+      "tier": "D",
+      "hkdMin": 170,
+      "hkdMax": 210,
+      "pros": [
+        "CX entry Attack"
+      ],
+      "cons": [
+        "Low meta; stock V"
+      ],
+      "bestCombos": [
+        "Dran Brave S6-60 V"
+      ],
+      "scoreBase": 38,
+      "priceNote": "estimate — BuyMarket HK$189",
+      "code": "CX-01",
+      "notes": "CX Main Brave",
+      "shorthand": "Brave"
+    },
+    {
+      "id": "crimson-garuda",
+      "name": "Crimson Garuda",
+      "type": "Attack",
+      "tier": "D",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "Occasional rare cuts"
+      ],
+      "cons": [
+        "Low usage"
+      ],
+      "bestCombos": [
+        "Crimson Garuda 9-70 K"
+      ],
+      "scoreBase": 38,
+      "priceNote": "estimate — T CLUB HK$74.90",
+      "code": "BX-38",
+      "notes": "",
+      "shorthand": "Garuda"
+    },
+    {
+      "id": "whale-wave",
+      "name": "Whale Wave",
+      "type": "Balance",
+      "tier": "D",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "Elevate stock source historically"
+      ],
+      "cons": [
+        "Low meta"
+      ],
+      "bestCombos": [
+        "Whale Wave 1-60 LR"
+      ],
+      "scoreBase": 38,
+      "priceNote": "estimate — T CLUB RB HK$74.90",
+      "code": "BX-36",
+      "notes": "",
+      "shorthand": "Whale"
+    },
+    {
+      "id": "hells-chain",
+      "name": "Hells Chain",
+      "type": "Defense",
+      "tier": "D",
+      "hkdMin": 180,
+      "hkdMax": 250,
+      "pros": [
+        "Deck defense"
+      ],
+      "cons": [
+        "Out of meta"
+      ],
+      "bestCombos": [
+        "Hells Chain 9-60 B"
+      ],
+      "scoreBase": 38,
+      "priceNote": "estimate — deck HK$219",
+      "code": "BX-21",
+      "notes": "",
+      "shorthand": "Chain"
+    },
+    {
+      "id": "unicorn-sting",
+      "name": "Unicorn Sting",
+      "type": "Balance",
+      "tier": "D",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "Early balance"
+      ],
+      "cons": [
+        "Out of meta"
+      ],
+      "bestCombos": [
+        "Unicorn Sting 5-60 O"
+      ],
+      "scoreBase": 38,
+      "priceNote": "estimate — T CLUB HK$74.90",
+      "code": "BX-26",
+      "notes": "",
+      "shorthand": "Sting"
+    },
+    {
+      "id": "dranzer-spiral",
+      "name": "Dranzer Spiral",
+      "type": "Balance",
+      "tier": "Unranked",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "X-Over nostalgia"
+      ],
+      "cons": [
+        "Not in main meta"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — T CLUB HK$79.90",
+      "code": "BXG-01 / BX-00",
+      "notes": "",
+      "shorthand": "Spiral"
+    },
+    {
+      "id": "phoenix-feather",
+      "name": "Phoenix Feather",
+      "type": "Attack",
+      "tier": "Unranked",
+      "hkdMin": 150,
+      "hkdMax": 400,
+      "pros": [
+        "CoroCoro special"
+      ],
+      "cons": [
+        "Collector; sparse competitive"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — collector; listing check",
+      "code": "BX-00",
+      "notes": "",
+      "shorthand": "Feather"
+    },
+    {
+      "id": "samurai-steel",
+      "name": "Samurai Steel",
+      "type": "Balance",
+      "tier": "Unranked",
+      "hkdMin": 100,
+      "hkdMax": 250,
+      "pros": [
+        "Special release"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — listing check",
+      "code": "BX-00",
+      "notes": "",
+      "shorthand": ""
+    },
+    {
+      "id": "mammoth-tusk",
+      "name": "Mammoth Tusk",
+      "type": "Defense",
+      "tier": "Unranked",
+      "hkdMin": 100,
+      "hkdMax": 250,
+      "pros": [
+        "Special release"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — listing check",
+      "code": "BX-00",
+      "notes": "",
+      "shorthand": ""
+    },
+    {
+      "id": "knight-lance",
+      "name": "Knight Lance",
+      "type": "Attack",
+      "tier": "Unranked",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "Early attack"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — T CLUB HK$74.90",
+      "code": "BX-13",
+      "notes": "",
+      "shorthand": "Lance"
+    },
+    {
+      "id": "leon-claw",
+      "name": "Leon Claw",
+      "type": "Attack",
+      "tier": "Unranked",
+      "hkdMin": 100,
+      "hkdMax": 130,
+      "pros": [
+        "Entry attack"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — T CLUB starter HK$109",
+      "code": "BX-15",
+      "notes": "",
+      "shorthand": "Claw"
+    },
+    {
+      "id": "viper-tail",
+      "name": "Viper Tail",
+      "type": "Attack",
+      "tier": "Unranked",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "RB attack"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — RB HK$74.90",
+      "code": "BX-16",
+      "notes": "",
+      "shorthand": "Viper"
+    },
+    {
+      "id": "rhino-horn",
+      "name": "Rhino Horn",
+      "type": "Defense",
+      "tier": "Unranked",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "Early defense"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — T CLUB HK$74.90",
+      "code": "BX-19",
+      "notes": "",
+      "shorthand": "Rhino"
+    },
+    {
+      "id": "wyvern-gale",
+      "name": "Wyvern Gale",
+      "type": "Stamina",
+      "tier": "Unranked",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "Early stamina"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — RB Vol.2",
+      "code": "BX-24",
+      "notes": "",
+      "shorthand": "Gale"
+    },
+    {
+      "id": "sphinx-cowl",
+      "name": "Sphinx Cowl",
+      "type": "Defense",
+      "tier": "Unranked",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "RB defense"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — RB Select HK$74.90",
+      "code": "BX-27",
+      "notes": "",
+      "shorthand": "Sphinx"
+    },
+    {
+      "id": "weiss-tiger",
+      "name": "Weiss Tiger",
+      "type": "Balance",
+      "tier": "Unranked",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "Balance shape"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — T CLUB HK$74.90",
+      "code": "BX-33",
+      "notes": "",
+      "shorthand": "Tiger"
+    },
+    {
+      "id": "black-shell",
+      "name": "Black Shell",
+      "type": "Defense",
+      "tier": "Unranked",
+      "hkdMin": 75,
+      "hkdMax": 150,
+      "pros": [
+        "RB Vol.4 defense"
+      ],
+      "cons": [
+        "Tiny sample"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — listing check",
+      "code": "BX-35",
+      "notes": "",
+      "shorthand": "Shell"
+    },
+    {
+      "id": "tricera-press",
+      "name": "Tricera Press",
+      "type": "Defense",
+      "tier": "Unranked",
+      "hkdMin": 100,
+      "hkdMax": 180,
+      "pros": [
+        "M-85 stock unique"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — listing check",
+      "code": "BX-44",
+      "notes": "",
+      "shorthand": "Tricera"
+    },
+    {
+      "id": "shelter-drake",
+      "name": "Shelter Drake",
+      "type": "Defense",
+      "tier": "Unranked",
+      "hkdMin": 75,
+      "hkdMax": 150,
+      "pros": [
+        "Select RB"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — listing check",
+      "code": "BX-39",
+      "notes": "",
+      "shorthand": "Shelter"
+    },
+    {
+      "id": "heavens-ring",
+      "name": "Heavens Ring",
+      "type": "Stamina",
+      "tier": "Unranked",
+      "hkdMin": 150,
+      "hkdMax": 200,
+      "pros": [
+        "RB Vol.11 rare"
+      ],
+      "cons": [
+        "Unranked / new"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — BuyMarket RB HK$179",
+      "code": "BX-50",
+      "notes": "",
+      "shorthand": "Heavens"
+    },
+    {
+      "id": "shinobi-shadow",
+      "name": "Shinobi Shadow",
+      "type": "Attack",
+      "tier": "Unranked",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "UX RB attack"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — T CLUB RB HK$74.90",
+      "code": "UX-05",
+      "notes": "",
+      "shorthand": "Shinobi"
+    },
+    {
+      "id": "leon-crest",
+      "name": "Leon Crest",
+      "type": "Balance",
+      "tier": "Unranked",
+      "hkdMin": 75,
+      "hkdMax": 100,
+      "pros": [
+        "7-60 O sparse"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [
+        "Leon Crest 7-60 O"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — T CLUB HK$74.90",
+      "code": "UX-06",
+      "notes": "",
+      "shorthand": "Crest"
+    },
+    {
+      "id": "phoenix-rudder",
+      "name": "Phoenix Rudder",
+      "type": "Stamina",
+      "tier": "Unranked",
+      "hkdMin": 180,
+      "hkdMax": 250,
+      "pros": [
+        "9-60 R sparse"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [
+        "Phoenix Rudder 9-60 R"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — deck HK$219",
+      "code": "UX-07",
+      "notes": "",
+      "shorthand": "Rudder"
+    },
+    {
+      "id": "ghost-circle",
+      "name": "Ghost Circle",
+      "type": "Stamina",
+      "tier": "Unranked",
+      "hkdMin": 75,
+      "hkdMax": 150,
+      "pros": [
+        "7-60 FB builds"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [
+        "Ghost Circle 7-60 FB"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — RB Vol.5",
+      "code": "UX-12",
+      "notes": "",
+      "shorthand": "Ghost"
+    },
+    {
+      "id": "orochi-cluster",
+      "name": "Orochi Cluster",
+      "type": "Attack",
+      "tier": "Unranked",
+      "hkdMin": 150,
+      "hkdMax": 300,
+      "pros": [
+        "Special Jan 2026"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [
+        "Orochi Cluster 7-60 K"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — special; listing check",
+      "code": "UX-00",
+      "notes": "",
+      "shorthand": "Orochi"
+    },
+    {
+      "id": "wizard-arc",
+      "name": "Wizard Arc",
+      "type": "Stamina",
+      "tier": "Unranked",
+      "hkdMin": 180,
+      "hkdMax": 220,
+      "pros": [
+        "CX stamina main"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — BuyMarket HK$199",
+      "code": "CX-02",
+      "notes": "CX Main Arc",
+      "shorthand": "Arc"
+    },
+    {
+      "id": "perseus-dark",
+      "name": "Perseus Dark",
+      "type": "Defense",
+      "tier": "Unranked",
+      "hkdMin": 140,
+      "hkdMax": 180,
+      "pros": [
+        "CX defense"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — BuyMarket HK$159",
+      "code": "CX-03",
+      "notes": "CX Main Dark",
+      "shorthand": "Dark"
+    },
+    {
+      "id": "knight-fortress",
+      "name": "Knight Fortress",
+      "type": "Defense",
+      "tier": "Unranked",
+      "hkdMin": 100,
+      "hkdMax": 140,
+      "pros": [
+        "CX defense"
+      ],
+      "cons": [
+        "Unranked"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — The Club CX-14 ~HK$109",
+      "code": "CX-14",
+      "notes": "CX Main Fortress",
+      "shorthand": "Fortress"
+    },
+    {
+      "id": "hells-nether",
+      "name": "Hells Nether",
+      "type": "Balance",
+      "tier": "Unranked",
+      "hkdMin": 279,
+      "hkdMax": 450,
+      "pros": [
+        "New Aug 2026 deck"
+      ],
+      "cons": [
+        "Too new for stable tier"
+      ],
+      "bestCombos": [],
+      "scoreBase": 45,
+      "priceNote": "estimate — BuyMarket HK$450; The Club ~HK$279",
+      "code": "UX-21",
+      "notes": "Deck Set Aug 2026",
+      "shorthand": "Nether"
+    }
+  ],
+  "ratchets": [
+    {
+      "id": "1-60",
+      "name": "One Sixty",
+      "abbr": "1-60",
+      "type": "Ratchet",
+      "tier": "S",
+      "hkdMin": 40,
+      "hkdMax": 120,
+      "pros": [
+        "Meta #1; stamina + pocket recovery on Rod",
+        "Oval shape helps pocket escape"
+      ],
+      "cons": [
+        "Contested part in decks (only one copy)"
+      ],
+      "bestPartners": [
+        "Wizard Rod + H/FB",
+        "Attack blades + R/LR"
+      ],
+      "scoreBase": 95,
+      "priceNote": "estimate — stock on UX-01 etc.; loose competitive premium likely; portion of HK$74.90–119 bey",
+      "height": 60,
+      "protrusions": 1
+    },
+    {
+      "id": "9-60",
+      "name": "Nine Sixty",
+      "abbr": "9-60",
+      "type": "Ratchet",
+      "tier": "S",
+      "hkdMin": 35,
+      "hkdMax": 100,
+      "pros": [
+        "High weight distribution",
+        "Versatile"
+      ],
+      "cons": [
+        "Slightly worse Rod matchup vs 1-60 H for some"
+      ],
+      "bestPartners": [
+        "Silver Wolf FB",
+        "Shark Scale FB",
+        "Cobalt Dragoon E",
+        "Hover Kick"
+      ],
+      "scoreBase": 95,
+      "priceNote": "estimate — common on BX-23 stock; loose unknown",
+      "height": 60,
+      "protrusions": 9
+    },
+    {
+      "id": "3-60",
+      "name": "Three Sixty",
+      "abbr": "3-60",
+      "type": "Ratchet",
+      "tier": "A",
+      "hkdMin": 25,
+      "hkdMax": 70,
+      "pros": [
+        "Balanced attack height",
+        "Widely available (BX-01)"
+      ],
+      "cons": [
+        "Less special vs 1-60/1-70 in current meta"
+      ],
+      "bestPartners": [
+        "Shark Scale LR",
+        "Phoenix Wing R",
+        "Dran Sword F"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — very common; used often cheap — listing check",
+      "height": 60,
+      "protrusions": 3
+    },
+    {
+      "id": "1-70",
+      "name": "One Seventy",
+      "abbr": "1-70",
+      "type": "Ratchet",
+      "tier": "A",
+      "hkdMin": 50,
+      "hkdMax": 120,
+      "pros": [
+        "Scale’s best statistical partner"
+      ],
+      "cons": [
+        "Scarcer than 1-60/3-60"
+      ],
+      "bestPartners": [
+        "Shark Scale LR"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — from UX-15 set; listing check",
+      "height": 70,
+      "protrusions": 1
+    },
+    {
+      "id": "1-50",
+      "name": "One Fifty",
+      "abbr": "1-50",
+      "type": "Ratchet",
+      "tier": "A",
+      "hkdMin": 45,
+      "hkdMax": 100,
+      "pros": [
+        "Low CG attack"
+      ],
+      "cons": [
+        "Stamina / scrape tradeoffs"
+      ],
+      "bestPartners": [
+        "Aero Pegasus R",
+        "Bahamut Blitz stacks"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — CX-13 stock; sealed CX HK$109–199 band",
+      "height": 50,
+      "protrusions": 1
+    },
+    {
+      "id": "7-60",
+      "name": "Seven Sixty",
+      "abbr": "7-60",
+      "type": "Ratchet",
+      "tier": "A",
+      "hkdMin": 35,
+      "hkdMax": 90,
+      "pros": [
+        "Heavy circular rim"
+      ],
+      "cons": [
+        "Burst risk on low-resistance bits"
+      ],
+      "bestPartners": [
+        "Scale R",
+        "Emperor Blast Heavy LR",
+        "weight builds"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — UX-06 stock; T CLUB Leon Crest HK$74.90",
+      "height": 60,
+      "protrusions": 7
+    },
+    {
+      "id": "5-60",
+      "name": "Five Sixty",
+      "abbr": "5-60",
+      "type": "Ratchet",
+      "tier": "B",
+      "hkdMin": 30,
+      "hkdMax": 80,
+      "pros": [
+        "Strong left-spin Elevate partner"
+      ],
+      "cons": [
+        "Mid prize-score"
+      ],
+      "bestPartners": [
+        "Cobalt Dragoon E"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — common BX-15; listing check",
+      "height": 60,
+      "protrusions": 5
+    },
+    {
+      "id": "4-50",
+      "name": "Four Fifty",
+      "abbr": "4-50",
+      "type": "Ratchet",
+      "tier": "B",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Scale stock height"
+      ],
+      "cons": [
+        "Narrower use outside Scale"
+      ],
+      "bestPartners": [
+        "Shark Scale LR"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — UX-15 deck; listing check",
+      "height": 50,
+      "protrusions": 4
+    },
+    {
+      "id": "6-60",
+      "name": "Six Sixty",
+      "abbr": "6-60",
+      "type": "Ratchet",
+      "tier": "B",
+      "hkdMin": 40,
+      "hkdMax": 90,
+      "pros": [
+        "Helps some Rod matchups vs 1-60"
+      ],
+      "cons": [
+        "Burstier reports on some blades"
+      ],
+      "bestPartners": [
+        "Wizard Rod H",
+        "CX-01 stock"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — CX-01 BuyMarket HK$189 sealed product",
+      "height": 60,
+      "protrusions": 6
+    },
+    {
+      "id": "9-70",
+      "name": "Nine Seventy",
+      "abbr": "9-70",
+      "type": "Ratchet",
+      "tier": "B",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Stamina tall builds"
+      ],
+      "cons": [
+        "Less common than 9-60"
+      ],
+      "bestPartners": [
+        "Silver Wolf FB",
+        "Phoenix Rudder"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — UX-07 deck HK$219 product",
+      "height": 70,
+      "protrusions": 9
+    },
+    {
+      "id": "0-60",
+      "name": "Zero Sixty",
+      "abbr": "0-60",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Smooth / low protrusion contact"
+      ],
+      "cons": [
+        "Less popular than 1/3/9-60 meta"
+      ],
+      "bestPartners": [
+        "Wolf Hunt"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — product-dependent",
+      "height": 60,
+      "protrusions": 0
+    },
+    {
+      "id": "0-70",
+      "name": "Zero Seventy",
+      "abbr": "0-70",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 50,
+      "hkdMax": 120,
+      "pros": [
+        "Smooth contact profile"
+      ],
+      "cons": [
+        "Less popular than meta heights"
+      ],
+      "bestPartners": [
+        "Scorpio Spear"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — Scorpio spear sealed HK$179 (BuyMarket)",
+      "height": 70,
+      "protrusions": 0
+    },
+    {
+      "id": "0-80",
+      "name": "Zero Eighty",
+      "abbr": "0-80",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Smooth tall"
+      ],
+      "cons": [
+        "Less popular"
+      ],
+      "bestPartners": [
+        "Ghost Circle"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — product-dependent",
+      "height": 80,
+      "protrusions": 0
+    },
+    {
+      "id": "2-60",
+      "name": "Two Sixty",
+      "abbr": "2-60",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 35,
+      "hkdMax": 80,
+      "pros": [
+        "Stock Cobalt Dragoon"
+      ],
+      "cons": [
+        "Meta prefers 5-60/9-60 E"
+      ],
+      "bestPartners": [
+        "Left-spin bits"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — starter HK$119",
+      "height": 60,
+      "protrusions": 2
+    },
+    {
+      "id": "2-70",
+      "name": "Two Seventy",
+      "abbr": "2-70",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 40,
+      "hkdMax": 90,
+      "pros": [
+        "Mid height"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Level"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — starter HK$159",
+      "height": 70,
+      "protrusions": 2
+    },
+    {
+      "id": "2-80",
+      "name": "Two Eighty",
+      "abbr": "2-80",
+      "type": "Ratchet",
+      "tier": "D",
+      "hkdMin": 30,
+      "hkdMax": 80,
+      "pros": [
+        "Tall option"
+      ],
+      "cons": [
+        "Generally avoided competitively"
+      ],
+      "bestPartners": [],
+      "scoreBase": 38,
+      "priceNote": "estimate — listing check",
+      "height": 80,
+      "protrusions": 2
+    },
+    {
+      "id": "3-70",
+      "name": "Three Seventy",
+      "abbr": "3-70",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 35,
+      "hkdMax": 80,
+      "pros": [
+        "Early UX attack height"
+      ],
+      "cons": [
+        "Outpaced by 60-height meta"
+      ],
+      "bestPartners": [
+        "Attack bits"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — starter HK$109",
+      "height": 70,
+      "protrusions": 3
+    },
+    {
+      "id": "3-80",
+      "name": "Three Eighty",
+      "abbr": "3-80",
+      "type": "Ratchet",
+      "tier": "D",
+      "hkdMin": 30,
+      "hkdMax": 70,
+      "pros": [
+        "Tall defense"
+      ],
+      "cons": [
+        "80 height usually avoided"
+      ],
+      "bestPartners": [
+        "Defense"
+      ],
+      "scoreBase": 38,
+      "priceNote": "estimate — HK$74.90–109",
+      "height": 80,
+      "protrusions": 3
+    },
+    {
+      "id": "3-85",
+      "name": "Three Eighty Five",
+      "abbr": "3-85",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 50,
+      "hkdMax": 150,
+      "pros": [
+        "Unique height"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Bound Spike"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — Customize set HK$269–445",
+      "height": 85,
+      "protrusions": 3
+    },
+    {
+      "id": "4-55",
+      "name": "Four Fifty-Five",
+      "abbr": "4-55",
+      "type": "Ratchet",
+      "tier": "B",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "CX mid stamina height"
+      ],
+      "cons": [
+        "Narrow use"
+      ],
+      "bestPartners": [
+        "LO / stamina"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — CX sealed HK$199",
+      "height": 55,
+      "protrusions": 4
+    },
+    {
+      "id": "4-60",
+      "name": "Four Sixty",
+      "abbr": "4-60",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 25,
+      "hkdMax": 70,
+      "pros": [
+        "Common early"
+      ],
+      "cons": [
+        "Easier to burst than better sides"
+      ],
+      "bestPartners": [
+        "Classic"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — HK$74.90–109",
+      "height": 60,
+      "protrusions": 4
+    },
+    {
+      "id": "4-70",
+      "name": "Four Seventy",
+      "abbr": "4-70",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 30,
+      "hkdMax": 70,
+      "pros": [
+        "Mid height mixed"
+      ],
+      "cons": [
+        "Situational"
+      ],
+      "bestPartners": [
+        "Mixed"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — HK$74.90",
+      "height": 70,
+      "protrusions": 4
+    },
+    {
+      "id": "4-80",
+      "name": "Four Eighty",
+      "abbr": "4-80",
+      "type": "Ratchet",
+      "tier": "D",
+      "hkdMin": 25,
+      "hkdMax": 70,
+      "pros": [
+        "Tall early"
+      ],
+      "cons": [
+        "80 height usually avoided"
+      ],
+      "bestPartners": [],
+      "scoreBase": 38,
+      "priceNote": "estimate — HK$74.90",
+      "height": 80,
+      "protrusions": 4
+    },
+    {
+      "id": "5-50",
+      "name": "Five Fifty",
+      "abbr": "5-50",
+      "type": "Ratchet",
+      "tier": "B",
+      "hkdMin": 45,
+      "hkdMax": 100,
+      "pros": [
+        "Aggressive low"
+      ],
+      "cons": [
+        "Wiki incomplete; verify stock product"
+      ],
+      "bestPartners": [
+        "Aggressive"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — listing check; confirmed BeyCommunity",
+      "height": 50,
+      "protrusions": 5
+    },
+    {
+      "id": "5-70",
+      "name": "Five Seventy",
+      "abbr": "5-70",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Rod stock"
+      ],
+      "cons": [
+        "Meta moved off stock DB builds"
+      ],
+      "bestPartners": [
+        "DB"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — Rod product",
+      "height": 70,
+      "protrusions": 5
+    },
+    {
+      "id": "5-80",
+      "name": "Five Eighty",
+      "abbr": "5-80",
+      "type": "Ratchet",
+      "tier": "D",
+      "hkdMin": 30,
+      "hkdMax": 70,
+      "pros": [
+        "Tall"
+      ],
+      "cons": [
+        "Avoided"
+      ],
+      "bestPartners": [],
+      "scoreBase": 38,
+      "priceNote": "estimate — RB",
+      "height": 80,
+      "protrusions": 5
+    },
+    {
+      "id": "6-70",
+      "name": "Six Seventy",
+      "abbr": "6-70",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 40,
+      "hkdMax": 90,
+      "pros": [
+        "Mid-tall"
+      ],
+      "cons": [
+        "Situational"
+      ],
+      "bestPartners": [],
+      "scoreBase": 52,
+      "priceNote": "estimate — listing check",
+      "height": 70,
+      "protrusions": 6
+    },
+    {
+      "id": "6-80",
+      "name": "Six Eighty",
+      "abbr": "6-80",
+      "type": "Ratchet",
+      "tier": "D",
+      "hkdMin": 40,
+      "hkdMax": 90,
+      "pros": [
+        "Tall CX"
+      ],
+      "cons": [
+        "Avoided"
+      ],
+      "bestPartners": [],
+      "scoreBase": 38,
+      "priceNote": "estimate — CX sealed",
+      "height": 80,
+      "protrusions": 6
+    },
+    {
+      "id": "7-55",
+      "name": "Seven Fifty Five",
+      "abbr": "7-55",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Low-mid"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [],
+      "scoreBase": 52,
+      "priceNote": "estimate — RB",
+      "height": 55,
+      "protrusions": 7
+    },
+    {
+      "id": "7-70",
+      "name": "Seven Seventy",
+      "abbr": "7-70",
+      "type": "Ratchet",
+      "tier": "B",
+      "hkdMin": 45,
+      "hkdMax": 110,
+      "pros": [
+        "Used in Meteor top cuts"
+      ],
+      "cons": [
+        "Wiki incomplete; verify stock"
+      ],
+      "bestPartners": [
+        "Level",
+        "Meteor Dragoon"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — listing check",
+      "height": 70,
+      "protrusions": 7
+    },
+    {
+      "id": "8-70",
+      "name": "Eight Seventy",
+      "abbr": "8-70",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Defense CX"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "UN"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — CX ~HK$109",
+      "height": 70,
+      "protrusions": 8
+    },
+    {
+      "id": "8-80",
+      "name": "Eight Eighty",
+      "abbr": "8-80",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 50,
+      "hkdMax": 120,
+      "pros": [
+        "Newer"
+      ],
+      "cons": [
+        "Wiki incomplete"
+      ],
+      "bestPartners": [],
+      "scoreBase": 52,
+      "priceNote": "estimate — Nether deck",
+      "height": 80,
+      "protrusions": 8
+    },
+    {
+      "id": "9-65",
+      "name": "Nine Sixty-Five",
+      "abbr": "9-65",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Odd height"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [],
+      "scoreBase": 52,
+      "priceNote": "estimate — RB",
+      "height": 65,
+      "protrusions": 9
+    },
+    {
+      "id": "9-80",
+      "name": "Nine Eighty",
+      "abbr": "9-80",
+      "type": "Ratchet",
+      "tier": "D",
+      "hkdMin": 30,
+      "hkdMax": 70,
+      "pros": [
+        "Tall"
+      ],
+      "cons": [
+        "Avoided"
+      ],
+      "bestPartners": [],
+      "scoreBase": 38,
+      "priceNote": "estimate — RB",
+      "height": 80,
+      "protrusions": 9
+    },
+    {
+      "id": "m-85",
+      "name": "M Eighty Five",
+      "abbr": "M-85",
+      "type": "Ratchet",
+      "tier": "C",
+      "hkdMin": 50,
+      "hkdMax": 120,
+      "pros": [
+        "Unique M shape"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Bound Spike class"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — listing check",
+      "height": 85,
+      "protrusions": "M"
+    }
+  ],
+  "bits": [
+    {
+      "id": "hexa",
+      "name": "Hexa",
+      "abbr": "H",
+      "type": "Defense",
+      "tier": "S",
+      "hkdMin": 50,
+      "hkdMax": 150,
+      "pros": [
+        "Hexagonal tip; high burst resist",
+        "Rod’s #1 partner"
+      ],
+      "cons": [
+        "Contested meta part; premium likely"
+      ],
+      "bestPartners": [
+        "Wizard Rod 1-60",
+        "Silver Wolf"
+      ],
+      "scoreBase": 95,
+      "priceNote": "estimate — UX-02 stock; loose premium likely — listing check",
+      "mech": "Hexagonal tip; high burst resist"
+    },
+    {
+      "id": "free-ball",
+      "name": "Free Ball",
+      "abbr": "FB",
+      "type": "Stamina",
+      "tier": "S",
+      "hkdMin": 50,
+      "hkdMax": 150,
+      "pros": [
+        "Ball tip on free-spinning axle; reduces X-Dash",
+        "High burst resist vs Ball"
+      ],
+      "cons": [
+        "Premium meta part"
+      ],
+      "bestPartners": [
+        "Rod",
+        "Scale stamina",
+        "Silver Wolf 9-60"
+      ],
+      "scoreBase": 95,
+      "priceNote": "estimate — UX-08 stock; listing check",
+      "mech": "Free-spinning axle ball"
+    },
+    {
+      "id": "low-rush",
+      "name": "Low Rush",
+      "abbr": "LR",
+      "type": "Attack",
+      "tier": "S",
+      "hkdMin": 50,
+      "hkdMax": 140,
+      "pros": [
+        "Lower Rush flat; aggressive dash",
+        "Lower height"
+      ],
+      "cons": [
+        "Premium attack tip"
+      ],
+      "bestPartners": [
+        "Shark Scale 1-70/3-60",
+        "Impact Drake"
+      ],
+      "scoreBase": 95,
+      "priceNote": "estimate — UX-11 stock",
+      "mech": "Lower Rush flat"
+    },
+    {
+      "id": "rush",
+      "name": "Rush",
+      "abbr": "R",
+      "type": "Attack",
+      "tier": "S",
+      "hkdMin": 40,
+      "hkdMax": 120,
+      "pros": [
+        "Flat rush tip; strong X-Dash attack"
+      ],
+      "cons": [
+        "High KO risk if poorly launched"
+      ],
+      "bestPartners": [
+        "Aero 1-60",
+        "Scale",
+        "Phoenix Wing"
+      ],
+      "scoreBase": 95,
+      "priceNote": "estimate — BX-20 stock",
+      "mech": "Flat rush tip"
+    },
+    {
+      "id": "level",
+      "name": "Level",
+      "abbr": "L",
+      "type": "Balance",
+      "tier": "A",
+      "hkdMin": 45,
+      "hkdMax": 120,
+      "pros": [
+        "Leveling tip; Meteor staple"
+      ],
+      "cons": [
+        "Build-specific"
+      ],
+      "bestPartners": [
+        "Meteor Dragoon 7-60",
+        "Samurai Saber stock"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — UX-09",
+      "mech": "Leveling tip behavior"
+    },
+    {
+      "id": "kick",
+      "name": "Kick",
+      "abbr": "K",
+      "type": "Attack",
+      "tier": "A",
+      "hkdMin": 45,
+      "hkdMax": 120,
+      "pros": [
+        "Kick/pocket oriented",
+        "Hover & Glory favorite"
+      ],
+      "cons": [
+        "Stadium-dependent"
+      ],
+      "bestPartners": [
+        "Hover 9-60",
+        "Glory Valkyrie",
+        "Blast Heavy"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — CX-05",
+      "mech": "Kick/pocket oriented"
+    },
+    {
+      "id": "elevate",
+      "name": "Elevate",
+      "abbr": "E",
+      "type": "Balance",
+      "tier": "A",
+      "hkdMin": 45,
+      "hkdMax": 120,
+      "pros": [
+        "Height-changing elevate motion",
+        "Left-spin star"
+      ],
+      "cons": [
+        "Matchup-dependent"
+      ],
+      "bestPartners": [
+        "Cobalt Dragoon 5-60/9-60"
+      ],
+      "scoreBase": 82,
+      "priceNote": "estimate — BX-36 Whale Wave stock historically",
+      "mech": "Height-changing / elevate motion"
+    },
+    {
+      "id": "narrow",
+      "name": "Narrow",
+      "abbr": "Nr",
+      "type": "Balance",
+      "tier": "B",
+      "hkdMin": 45,
+      "hkdMax": 110,
+      "pros": [
+        "Newer; rising prize score"
+      ],
+      "cons": [
+        "Data still growing"
+      ],
+      "bestPartners": [
+        "Rod / Scale experiments"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — CX-18",
+      "mech": "Newer CX tip"
+    },
+    {
+      "id": "jolt",
+      "name": "Jolt",
+      "abbr": "J",
+      "type": "Attack",
+      "tier": "B",
+      "hkdMin": 45,
+      "hkdMax": 110,
+      "pros": [
+        "Stock Meteor; aggressive"
+      ],
+      "cons": [
+        "Less consistent than L/E for Meteor"
+      ],
+      "bestPartners": [
+        "Meteor Dragoon"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — UX-17",
+      "mech": "Aggressive attack tip"
+    },
+    {
+      "id": "ball",
+      "name": "Ball",
+      "abbr": "B",
+      "type": "Stamina",
+      "tier": "B",
+      "hkdMin": 25,
+      "hkdMax": 80,
+      "pros": [
+        "Classic ball stamina"
+      ],
+      "cons": [
+        "Burstier than H/FB"
+      ],
+      "bestPartners": [
+        "Rod 9-60 B (older meta)"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — BX-03 common",
+      "mech": "Classic ball tip"
+    },
+    {
+      "id": "flat",
+      "name": "Flat",
+      "abbr": "F",
+      "type": "Attack",
+      "tier": "D",
+      "hkdMin": 20,
+      "hkdMax": 50,
+      "pros": [
+        "Simple classic dash"
+      ],
+      "cons": [
+        "Outclassed by Rush/LF"
+      ],
+      "bestPartners": [
+        "Dran Sword 3-60"
+      ],
+      "scoreBase": 38,
+      "priceNote": "estimate — common BX-01",
+      "mech": "Flat tip"
+    },
+    {
+      "id": "low-flat",
+      "name": "Low Flat",
+      "abbr": "LF",
+      "type": "Attack",
+      "tier": "C",
+      "hkdMin": 30,
+      "hkdMax": 80,
+      "pros": [
+        "Faster/lower attack"
+      ],
+      "cons": [
+        "Stamina poor"
+      ],
+      "bestPartners": [
+        "Dran Buster 1-60",
+        "Shark Edge"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — BX-14",
+      "mech": "Shorter Flat"
+    },
+    {
+      "id": "accel",
+      "name": "Accel",
+      "abbr": "A",
+      "type": "Attack",
+      "tier": "D",
+      "hkdMin": 30,
+      "hkdMax": 80,
+      "pros": [
+        "Early UX attack"
+      ],
+      "cons": [
+        "Niche now"
+      ],
+      "bestPartners": [
+        "Dran Buster stock"
+      ],
+      "scoreBase": 38,
+      "priceNote": "estimate — UX-01",
+      "mech": "Accel flat variant"
+    },
+    {
+      "id": "gear-flat",
+      "name": "Gear Flat",
+      "abbr": "GF",
+      "type": "Attack",
+      "tier": "C",
+      "hkdMin": 30,
+      "hkdMax": 80,
+      "pros": [
+        "Dash + gear feel"
+      ],
+      "cons": [
+        "Recoil"
+      ],
+      "bestPartners": [
+        "Phoenix Wing stock"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — BX-23",
+      "mech": "Geared flat"
+    },
+    {
+      "id": "gear-rush",
+      "name": "Gear Rush",
+      "abbr": "GR",
+      "type": "Attack",
+      "tier": "Unranked",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "CX attack"
+      ],
+      "cons": [
+        "Scarce"
+      ],
+      "bestPartners": [
+        "Fox Brush line"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — CX-06",
+      "mech": "Geared Rush"
+    },
+    {
+      "id": "under-flat",
+      "name": "Under Flat",
+      "abbr": "UF",
+      "type": "Attack",
+      "tier": "B",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Scale stock"
+      ],
+      "cons": [
+        "Limited outside Scale"
+      ],
+      "bestPartners": [
+        "Shark Scale 4-50"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — UX-15",
+      "mech": "Under-profile flat"
+    },
+    {
+      "id": "free-flat",
+      "name": "Free Flat",
+      "abbr": "FF",
+      "type": "Attack",
+      "tier": "B",
+      "hkdMin": 50,
+      "hkdMax": 120,
+      "pros": [
+        "Free-spinning Flat; Dran Strike stock"
+      ],
+      "cons": [
+        "New — data growing"
+      ],
+      "bestPartners": [
+        "Dran Strike"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — BX-49",
+      "mech": "Free-spinning Flat"
+    },
+    {
+      "id": "rubber-accel",
+      "name": "Rubber Accel",
+      "abbr": "RA",
+      "type": "Attack",
+      "tier": "Unranked",
+      "hkdMin": 50,
+      "hkdMax": 130,
+      "pros": [
+        "Grip dash"
+      ],
+      "cons": [
+        "Wear"
+      ],
+      "bestPartners": [
+        "Seen on Glory"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — listing check",
+      "mech": "Rubber Accel"
+    },
+    {
+      "id": "turbo",
+      "name": "Turbo",
+      "abbr": "Tr",
+      "type": "Attack",
+      "tier": "Unranked",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Pegasus Blast stock"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Blast"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — CX-07",
+      "mech": "CX turbo tip"
+    },
+    {
+      "id": "zap",
+      "name": "Zap",
+      "abbr": "Z",
+      "type": "Attack",
+      "tier": "Unranked",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Scorpio stock unique"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Scorpio Spear 0-70"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — UX-14",
+      "mech": "Unique attack tip"
+    },
+    {
+      "id": "quake",
+      "name": "Quake",
+      "abbr": "Q",
+      "type": "Attack",
+      "tier": "D",
+      "hkdMin": 30,
+      "hkdMax": 70,
+      "pros": [
+        "Destabilize"
+      ],
+      "cons": [
+        "Inconsistent"
+      ],
+      "bestPartners": [
+        "Tyranno Beat stock"
+      ],
+      "scoreBase": 38,
+      "priceNote": "estimate — BX-31",
+      "mech": "Oscillating attack"
+    },
+    {
+      "id": "cyclone",
+      "name": "Cyclone",
+      "abbr": "C",
+      "type": "Attack",
+      "tier": "C",
+      "hkdMin": 35,
+      "hkdMax": 90,
+      "pros": [
+        "Left-spin cyclone; Dragoon stock"
+      ],
+      "cons": [
+        "Meta prefers Elevate"
+      ],
+      "bestPartners": [
+        "Cobalt Dragoon 2-60"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — BX-34",
+      "mech": "Left-spin cyclone"
+    },
+    {
+      "id": "merge",
+      "name": "Merge",
+      "abbr": "M",
+      "type": "Balance",
+      "tier": "Unranked",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Calibur / Griffon"
+      ],
+      "cons": [
+        "Unclear long-term"
+      ],
+      "bestPartners": [
+        "Samurai Calibur",
+        "Bullet Griffon"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — BX-45",
+      "mech": "Merge tip"
+    },
+    {
+      "id": "ignition",
+      "name": "Ignition",
+      "abbr": "I",
+      "type": "Attack",
+      "tier": "Unranked",
+      "hkdMin": 45,
+      "hkdMax": 110,
+      "pros": [
+        "Aggressive CX"
+      ],
+      "cons": [
+        "New"
+      ],
+      "bestPartners": [
+        "Bahamut Blitz"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — CX-13",
+      "mech": "CX Bahamut tip"
+    },
+    {
+      "id": "bound-spike",
+      "name": "Bound Spike",
+      "abbr": "BS",
+      "type": "Defense",
+      "tier": "Unranked",
+      "hkdMin": 45,
+      "hkdMax": 120,
+      "pros": [
+        "Defense bounce"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Knight Mail 3-85"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — UX-10",
+      "mech": "Bound spike"
+    },
+    {
+      "id": "taper",
+      "name": "Taper",
+      "abbr": "T",
+      "type": "Defense",
+      "tier": "D",
+      "hkdMin": 20,
+      "hkdMax": 50,
+      "pros": [
+        "Early defense"
+      ],
+      "cons": [
+        "Outclassed"
+      ],
+      "bestPartners": [
+        "Hells Scythe stock"
+      ],
+      "scoreBase": 38,
+      "priceNote": "estimate — BX-02",
+      "mech": "Tapered tip"
+    },
+    {
+      "id": "high-taper",
+      "name": "High Taper",
+      "abbr": "HT",
+      "type": "Defense",
+      "tier": "Unranked",
+      "hkdMin": 30,
+      "hkdMax": 70,
+      "pros": [
+        "Chain stock"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Hells Chain"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — BX-21",
+      "mech": "Taller taper"
+    },
+    {
+      "id": "needle",
+      "name": "Needle",
+      "abbr": "N",
+      "type": "Stamina",
+      "tier": "D",
+      "hkdMin": 20,
+      "hkdMax": 50,
+      "pros": [
+        "Stamina stay"
+      ],
+      "cons": [
+        "Easy KO"
+      ],
+      "bestPartners": [
+        "Knight Shield stock"
+      ],
+      "scoreBase": 38,
+      "priceNote": "estimate — BX-04",
+      "mech": "Sharp needle"
+    },
+    {
+      "id": "high-needle",
+      "name": "High Needle",
+      "abbr": "HN",
+      "type": "Stamina",
+      "tier": "Unranked",
+      "hkdMin": 30,
+      "hkdMax": 70,
+      "pros": [
+        "Lance stock"
+      ],
+      "cons": [
+        "Fragile"
+      ],
+      "bestPartners": [
+        "Knight Lance"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — BX-13",
+      "mech": "Tall needle"
+    },
+    {
+      "id": "point",
+      "name": "Point",
+      "abbr": "P",
+      "type": "Balance",
+      "tier": "C",
+      "hkdMin": 25,
+      "hkdMax": 70,
+      "pros": [
+        "Mixed tip"
+      ],
+      "cons": [
+        "Mid"
+      ],
+      "bestPartners": [
+        "Leon Claw",
+        "Phoenix alt"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — BX-15",
+      "mech": "Point tip"
+    },
+    {
+      "id": "orb",
+      "name": "Orb",
+      "abbr": "O",
+      "type": "Defense",
+      "tier": "C",
+      "hkdMin": 25,
+      "hkdMax": 70,
+      "pros": [
+        "Defense/stamina"
+      ],
+      "cons": [
+        "Mid"
+      ],
+      "bestPartners": [
+        "Knight Shield 5-60 O"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — BX-16",
+      "mech": "Orb tip"
+    },
+    {
+      "id": "low-orb",
+      "name": "Low Orb",
+      "abbr": "LO",
+      "type": "Stamina",
+      "tier": "B",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Rod alt; Clock Mirage"
+      ],
+      "cons": [
+        "Less than H/FB"
+      ],
+      "bestPartners": [
+        "Rod 1-60",
+        "Clock 4-55"
+      ],
+      "scoreBase": 68,
+      "priceNote": "estimate — CX-02",
+      "mech": "Lower Orb"
+    },
+    {
+      "id": "spike",
+      "name": "Spike",
+      "abbr": "S",
+      "type": "Attack",
+      "tier": "Unranked",
+      "hkdMin": 25,
+      "hkdMax": 60,
+      "pros": [
+        "Rhino stock"
+      ],
+      "cons": [
+        "Recoil"
+      ],
+      "bestPartners": [
+        "Rhino Horn"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — BX-19",
+      "mech": "Spike tip"
+    },
+    {
+      "id": "gear-ball",
+      "name": "Gear Ball",
+      "abbr": "GB",
+      "type": "Stamina",
+      "tier": "Unranked",
+      "hkdMin": 30,
+      "hkdMax": 80,
+      "pros": [
+        "Ghost Circle"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Ghost Circle 0-80"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — UX-12",
+      "mech": "Geared ball"
+    },
+    {
+      "id": "gear-point",
+      "name": "Gear Point",
+      "abbr": "GP",
+      "type": "Balance",
+      "tier": "Unranked",
+      "hkdMin": 30,
+      "hkdMax": 70,
+      "pros": [
+        "Unicorn stock"
+      ],
+      "cons": [
+        "Mid"
+      ],
+      "bestPartners": [
+        "Unicorn Sting"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — BX-26",
+      "mech": "Geared point"
+    },
+    {
+      "id": "gear-needle",
+      "name": "Gear Needle",
+      "abbr": "GN",
+      "type": "Stamina",
+      "tier": "Unranked",
+      "hkdMin": 30,
+      "hkdMax": 80,
+      "pros": [
+        "Leon Crest / Hover stock"
+      ],
+      "cons": [
+        "Mid"
+      ],
+      "bestPartners": [
+        "Leon Crest 7-60"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — UX-06",
+      "mech": "Geared needle"
+    },
+    {
+      "id": "disc-ball",
+      "name": "Disk Ball",
+      "abbr": "DB",
+      "type": "Stamina",
+      "tier": "C",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Rod stock"
+      ],
+      "cons": [
+        "Meta moved to H"
+      ],
+      "bestPartners": [
+        "Wizard Rod 5-70 stock"
+      ],
+      "scoreBase": 52,
+      "priceNote": "estimate — UX-03",
+      "mech": "Disc + ball"
+    },
+    {
+      "id": "metal-needle",
+      "name": "Metal Needle",
+      "abbr": "MN",
+      "type": "Stamina",
+      "tier": "Unranked",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Heavy tip"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Shinobi Shadow"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — UX-05",
+      "mech": "Metal needle"
+    },
+    {
+      "id": "unite",
+      "name": "Unite",
+      "abbr": "U",
+      "type": "Balance",
+      "tier": "Unranked",
+      "hkdMin": 30,
+      "hkdMax": 80,
+      "pros": [
+        "Weiss Tiger"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Weiss Tiger 3-60"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — BX-33",
+      "mech": "Unite tip"
+    },
+    {
+      "id": "glide",
+      "name": "Glide",
+      "abbr": "G",
+      "type": "Stamina",
+      "tier": "Unranked",
+      "hkdMin": 35,
+      "hkdMax": 90,
+      "pros": [
+        "Rudder stock"
+      ],
+      "cons": [
+        "Mid"
+      ],
+      "bestPartners": [
+        "Phoenix Rudder 9-70"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — UX-07",
+      "mech": "Glide stamina"
+    },
+    {
+      "id": "under-needle",
+      "name": "Under Needle",
+      "abbr": "UN",
+      "type": "Defense",
+      "tier": "Unranked",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Golem / Fortress"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Golem Rock",
+        "Knight Fortress"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — UX-13 / CX-14",
+      "mech": "Under needle"
+    },
+    {
+      "id": "wedge",
+      "name": "Wedge",
+      "abbr": "W",
+      "type": "Balance",
+      "tier": "Unranked",
+      "hkdMin": 35,
+      "hkdMax": 90,
+      "pros": [
+        "Mummy / Perseus"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Mummy Curse",
+        "Perseus Dark"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — CX-03",
+      "mech": "Wedge tip"
+    },
+    {
+      "id": "vortex",
+      "name": "Vortex",
+      "abbr": "V",
+      "type": "Attack",
+      "tier": "D",
+      "hkdMin": 35,
+      "hkdMax": 90,
+      "pros": [
+        "Brave stock"
+      ],
+      "cons": [
+        "Low meta"
+      ],
+      "bestPartners": [
+        "Dran Brave"
+      ],
+      "scoreBase": 38,
+      "priceNote": "estimate — CX-01",
+      "mech": "Vortex tip"
+    },
+    {
+      "id": "wall-ball",
+      "name": "Wall Ball",
+      "abbr": "WB",
+      "type": "Stamina",
+      "tier": "Unranked",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Flame stock"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Cerberus Flame"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — CX-08",
+      "mech": "Wall ball"
+    },
+    {
+      "id": "trans-kick",
+      "name": "Trans Kick",
+      "abbr": "TK",
+      "type": "Attack",
+      "tier": "Unranked",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Eclipse stock"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Sol Eclipse"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — CX-09",
+      "mech": "Transform kick"
+    },
+    {
+      "id": "trans-point",
+      "name": "Trans Point",
+      "abbr": "TP",
+      "type": "Balance",
+      "tier": "Unranked",
+      "hkdMin": 35,
+      "hkdMax": 90,
+      "pros": [
+        "Garuda stock"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Crimson Garuda"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — BX-38",
+      "mech": "Transform point"
+    },
+    {
+      "id": "operate",
+      "name": "Operate",
+      "abbr": "Op",
+      "type": "Balance",
+      "tier": "Unranked",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Might deck"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Emperor Might"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — CX-11",
+      "mech": "Operate tip"
+    },
+    {
+      "id": "yielding",
+      "name": "Yielding",
+      "abbr": "Y",
+      "type": "Balance",
+      "tier": "Unranked",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "pros": [
+        "Rage stock"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Ragna Rage"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — CX-15",
+      "mech": "Yielding tip"
+    },
+    {
+      "id": "dot",
+      "name": "Dot",
+      "abbr": "D",
+      "type": "Defense",
+      "tier": "Unranked",
+      "hkdMin": 30,
+      "hkdMax": 80,
+      "pros": [
+        "Black Shell RB"
+      ],
+      "cons": [
+        "Niche"
+      ],
+      "bestPartners": [
+        "Black Shell"
+      ],
+      "scoreBase": 45,
+      "priceNote": "estimate — BX-35",
+      "mech": "Dot tip"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="theme-color" content="#0b1020" />
+    <meta
+      name="description"
+      content="Beyblade X combo builder and parts reference with HK price estimates"
+    />
+    <title>Beyblade Guide — Combo Builder</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <p class="eyebrow">Stadium Coach</p>
+        <h1>Beyblade Guide</h1>
+        <p class="subtitle">Combo builder + X parts reference (HK pricing)</p>
+        <p class="meta-line" id="meta-line">Beyblade X · BX / UX / CX · estimates only</p>
+      </header>
+
+      <nav class="tabs" role="tablist" aria-label="Sections">
+        <button type="button" class="tab active" role="tab" aria-selected="true" data-view="builder" id="tab-builder">
+          Combo Builder
+        </button>
+        <button type="button" class="tab" role="tab" aria-selected="false" data-view="parts" id="tab-parts">
+          Parts Reference
+        </button>
+      </nav>
+
+      <!-- Combo Builder -->
+      <section class="view" id="view-builder" role="tabpanel" aria-labelledby="tab-builder">
+        <div class="panel">
+          <div class="panel-head">
+            <h2>Build a combo</h2>
+            <span class="count" id="builder-hint">Blade + Ratchet + Bit</span>
+          </div>
+
+          <div class="builder-grid">
+            <div class="field">
+              <label for="blade-search">Blade</label>
+              <input type="search" id="blade-search" placeholder="Search blades…" autocomplete="off" />
+              <select id="blade-select" size="8" aria-label="Select blade"></select>
+              <p class="hint" id="blade-hint"></p>
+            </div>
+            <div class="field">
+              <label for="ratchet-search">Ratchet</label>
+              <input type="search" id="ratchet-search" placeholder="Search ratchets…" autocomplete="off" />
+              <select id="ratchet-select" size="8" aria-label="Select ratchet"></select>
+              <p class="hint" id="ratchet-hint"></p>
+            </div>
+            <div class="field">
+              <label for="bit-search">Bit</label>
+              <input type="search" id="bit-search" placeholder="Search bits…" autocomplete="off" />
+              <select id="bit-select" size="8" aria-label="Select bit"></select>
+              <p class="hint" id="bit-hint"></p>
+            </div>
+          </div>
+
+          <div class="results empty-state" id="results">
+            Select a Blade, Ratchet, and Bit to score the combo.
+          </div>
+        </div>
+
+        <div class="panel how">
+          <details>
+            <summary>How ratings work</summary>
+            <div class="how-body">
+              <p>
+                Scores are <strong>coach estimates</strong> for deck planning — not official Takara Tomy
+                ratings. Meta shifts; always cross-check live tournament data before a major event.
+              </p>
+              <ul>
+                <li>
+                  <strong>Competitiveness (0–100)</strong> — weighted part tiers
+                  (<code>blade 50% + ratchet 25% + bit 25%</code>) plus synergy bonuses for documented
+                  best partners, minus mismatch penalties (tall/weak ratchets, role clashes).
+                </li>
+                <li>
+                  <strong>Meta-breaking (0–100)</strong> — disruptiveness (left-spin, expand blades,
+                  unusual role stacks), capped so low-tier random trash cannot score high.
+                </li>
+                <li>
+                  <strong>Value for price (0–100)</strong> — performance proxy ÷ estimated HKD mid-range
+                  cost, normalized. HK prices are <em>ranges / estimates</em> from sealed retail anchors
+                  and MSRP-derived notes — not verified live listings.
+                </li>
+                <li>
+                  <strong>Overall grade S–D</strong> — mostly competitiveness, lightly nudged by value.
+                </li>
+              </ul>
+              <p>See <code>score.js</code> and <code>README.md</code> for the tunable weight constants.</p>
+            </div>
+          </details>
+        </div>
+      </section>
+
+      <!-- Parts Reference -->
+      <section class="view" id="view-parts" role="tabpanel" aria-labelledby="tab-parts" hidden>
+        <div class="panel">
+          <div class="panel-head">
+            <h2>Parts reference</h2>
+            <span class="count" id="parts-count"></span>
+          </div>
+
+          <div class="ref-controls" role="group" aria-label="Part category">
+            <button type="button" class="chip active" data-cat="blades">Blades</button>
+            <button type="button" class="chip" data-cat="ratchets">Ratchets</button>
+            <button type="button" class="chip" data-cat="bits">Bits</button>
+            <input type="search" id="parts-search" placeholder="Filter by name, type, tier…" autocomplete="off" />
+          </div>
+
+          <div class="part-list" id="part-list" role="list"></div>
+          <p class="empty" id="parts-empty" hidden>No parts match.</p>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <p>
+          Coach estimates · HK$ ranges are estimates · data from
+          <code>data/parts.json</code> (researched 2026-09-18).
+        </p>
+        <p><a href="/">← All apps</a></p>
+      </footer>
+    </div>
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
