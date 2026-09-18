@@ -1,0 +1,91 @@
+{
+  "updated": "2026-09-18",
+  "timezone": "Asia/Hong_Kong",
+  "assignments": [
+    {
+      "id": "socials-notes-globalisation",
+      "class": "Socials",
+      "title": "Notes about globalisation",
+      "due": "2026-09-17T09:00:00+08:00",
+      "dueLabel": "Thu 17 Sep 2026, 9:00 AM HKT",
+      "priority": "high",
+      "status": "done"
+    },
+    {
+      "id": "science-bubble-membrane",
+      "class": "Science",
+      "title": "Bubble comparison to cell membrane worksheet",
+      "due": "2026-09-17T12:00:00+08:00",
+      "dueLabel": "Thu 17 Sep 2026, 12:00 PM HKT",
+      "priority": "high",
+      "status": "done"
+    },
+    {
+      "id": "chinese-canva-pdf",
+      "class": "Chinese",
+      "title": "Presentation Canva PDF",
+      "due": "2026-09-22T23:59:00+08:00",
+      "dueLabel": "Tue 22 Sep 2026, 11:59 PM HKT",
+      "priority": "medium",
+      "status": "open"
+    },
+    {
+      "id": "math-sequences-test",
+      "class": "Math",
+      "title": "Geometric and arithmetic sequence and series unit test",
+      "due": "2026-09-22",
+      "dueLabel": "Tue 22 Sep 2026 (in class)",
+      "priority": "high",
+      "status": "open",
+      "inClass": true
+    },
+    {
+      "id": "ela-mc-test",
+      "class": "ELA",
+      "title": "Multiple-choice test",
+      "due": "2026-09-22",
+      "dueLabel": "Tue 22 Sep 2026 (in class)",
+      "priority": "high",
+      "status": "open",
+      "inClass": true
+    },
+    {
+      "id": "music-knowledge-test",
+      "class": "Music",
+      "title": "Knowledge test",
+      "due": "2026-09-22",
+      "dueLabel": "Tue 22 Sep 2026 (in class)",
+      "priority": "medium",
+      "status": "open",
+      "inClass": true
+    },
+    {
+      "id": "chinese-oral",
+      "class": "Chinese",
+      "title": "Oral presentation (in class)",
+      "due": "2026-09-23",
+      "dueLabel": "Wed 23 Sep 2026 (in class)",
+      "priority": "medium",
+      "status": "open",
+      "inClass": true
+    },
+    {
+      "id": "socials-me-project",
+      "class": "Socials",
+      "title": "Globalisation — relation explicitly to me project",
+      "due": "2026-09-25",
+      "dueLabel": "Fri 25 Sep 2026",
+      "priority": "high",
+      "status": "open"
+    },
+    {
+      "id": "english-pre-essay",
+      "class": "English",
+      "title": "PRE Essay",
+      "due": "2026-10-03",
+      "dueLabel": "Fri 3 Oct 2026",
+      "priority": "medium",
+      "status": "open"
+    }
+  ]
+}

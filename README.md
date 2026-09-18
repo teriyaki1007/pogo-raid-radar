@@ -11,6 +11,7 @@ This repo builds a **multi-app Cloudflare Pages host**. Apps live as sibling pat
 | `/raid/` | **Raid Radar** — Vite-built Pokémon GO raids / eggs / Rocket |
 | `/lantern-courts/` | **Lantern Courts Dex** — Aftermyth Series 1 card/creature browser (static copy from `apps/lantern-courts/`; no separate npm build) |
 | `/ap-csa/` | **AP CSA Study Plan** — Weekly Java checklists through the May 12, 2027 exam (static copy from `apps/ap-csa/`; no separate npm build) |
+| `/homework/` | **Homework** — Upcoming assignments and assessments (static copy from `apps/homework/`; no separate npm build) |
 
 ## Local development
 
@@ -21,7 +22,7 @@ npm run dev
 
 Open the URL Vite prints, then go to `/raid/` (usually http://localhost:5173/raid/).
 
-Lantern Courts and AP CSA are only present after a production-style build (or copy `apps/lantern-courts/` / `apps/ap-csa/` into `dist/` yourself); Vite `dev` serves the Raid Radar app.
+Lantern Courts, AP CSA, and Homework are only present after a production-style build (or copy `apps/lantern-courts/` / `apps/ap-csa/` / `apps/homework/` into `dist/` yourself); Vite `dev` serves the Raid Radar app.
 
 ## Production build
 
@@ -35,6 +36,7 @@ Output: `dist/`
 - `dist/raid/` — Raid Radar app (`index.html`, assets, `data/raids.json`, `data/eggs.json`, `data/rocket.json`)
 - `dist/lantern-courts/` — Lantern Courts Dex (copied as-is from `apps/lantern-courts/`)
 - `dist/ap-csa/` — AP CSA Study Plan (copied as-is from `apps/ap-csa/`)
+- `dist/homework/` — Homework (copied as-is from `apps/homework/`)
 
 Preview locally:
 
@@ -42,7 +44,7 @@ Preview locally:
 npm run preview
 ```
 
-(Vite preview serves Raid Radar under `/raid/` because of `base`. Landing + lantern-courts + ap-csa are in `dist/` for Pages deploy.)
+(Vite preview serves Raid Radar under `/raid/` because of `base`. Landing + lantern-courts + ap-csa + homework are in `dist/` for Pages deploy.)
 
 ## Updating game data (raids + eggs + Rocket)
 
@@ -81,9 +83,15 @@ Edit files under **`apps/lantern-courts/`** (HTML/CSS/JS, `dex.json`, PNGs). Reb
 
 Edit files under **`apps/ap-csa/`** (`index.html`, `styles.css`, `app.js`). Rebuild with `npm run build` — the folder is copied into `dist/ap-csa/` with no path rewrites. Pure static sibling app; no npm/Vite build step for this app.
 
+## Updating Homework
+
+Edit files under **`apps/homework/`** (`index.html`, `styles.css`, `app.js`, `assignments.json`). Rebuild with `npm run build` — the folder is copied into `dist/homework/` with no path rewrites. Pure static sibling app; no npm/Vite build step for this app.
+
+Homework + Assessment Helper owns the assignment data — update `apps/homework/assignments.json` to refresh the list.
+
 ## Cloudflare Pages
 
-This Pages project is a **multi-app host** on one subdomain. Raid Radar is at `/raid/`; Lantern Courts Dex is at `/lantern-courts/`; AP CSA Study Plan is at `/ap-csa/`.
+This Pages project is a **multi-app host** on one subdomain. Raid Radar is at `/raid/`; Lantern Courts Dex is at `/lantern-courts/`; AP CSA Study Plan is at `/ap-csa/`; Homework is at `/homework/`.
 
 | Setting | Value |
 | --- | --- |
@@ -108,6 +116,7 @@ This Pages project is a **multi-app host** on one subdomain. Raid Radar is at `/
 - Dark theme, outdoor-readable, ~390px mobile-first
 - Lantern Courts Dex: pure static assets in `apps/lantern-courts/`, copied into `dist/` at build time
 - AP CSA Study Plan: pure static assets in `apps/ap-csa/`, copied into `dist/` at build time
+- Homework: pure static assets in `apps/homework/`, copied into `dist/` at build time
 
 ## Disclaimer
 

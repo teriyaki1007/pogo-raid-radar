@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "rm -rf dist && vite build && cp landing/index.html dist/index.html && cp -a apps/lantern-courts dist/lantern-courts && cp -a apps/ap-csa dist/ap-csa",
+    "build": "rm -rf dist && vite build && cp landing/index.html dist/index.html && cp -a apps/lantern-courts dist/lantern-courts && cp -a apps/ap-csa dist/ap-csa && cp -a apps/homework dist/homework",
     "preview": "vite preview"
   },
   "devDependencies": {

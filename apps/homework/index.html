@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="theme-color" content="#0b1020" />
+    <title>Homework</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <p class="eyebrow">School</p>
+        <h1>Homework</h1>
+        <p class="subtitle">Upcoming assignments and assessments</p>
+        <p class="tz" id="tz-label">Timezone: HKT / Asia/Hong_Kong</p>
+      </header>
+
+      <section class="filters" aria-label="Filter by class" id="filters" hidden></section>
+
+      <section class="panel" aria-labelledby="upcoming-heading">
+        <div class="panel-head">
+          <h2 id="upcoming-heading">Upcoming</h2>
+          <span class="count" id="upcoming-count"></span>
+        </div>
+        <div id="upcoming-list" class="list" role="list"></div>
+        <p class="empty" id="upcoming-empty" hidden>No open assignments.</p>
+      </section>
+
+      <section class="panel done-panel" aria-labelledby="done-heading">
+        <button type="button" class="done-toggle" id="done-toggle" aria-expanded="false" aria-controls="done-body">
+          <h2 id="done-heading">Done</h2>
+          <span class="count" id="done-count"></span>
+          <span class="chevron" aria-hidden="true">▸</span>
+        </button>
+        <div id="done-body" class="done-body" hidden>
+          <div id="done-list" class="list" role="list"></div>
+          <p class="empty" id="done-empty" hidden>No completed items yet.</p>
+        </div>
+      </section>
+
+      <footer class="footer">
+        <p>
+          Homework + Assessment Helper owns this data. Edit
+          <code>apps/homework/assignments.json</code> and rebuild to refresh.
+        </p>
+        <p><a href="/">← All apps</a></p>
+      </footer>
+    </div>
+    <script src="app.js" defer></script>
+  </body>
+</html>
