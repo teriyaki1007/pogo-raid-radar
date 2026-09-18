@@ -612,3 +612,148 @@ h1 {
   color: var(--accent);
   word-break: break-all;
 }
+
+/* Mode toggle (Basic / CX) */
+.mode-toggle {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.85rem;
+}
+
+.mode-btn {
+  appearance: none;
+  border: 1px solid var(--border);
+  background: var(--row);
+  color: var(--muted);
+  border-radius: 0.65rem;
+  padding: 0.45rem 0.85rem;
+  font: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.mode-btn:hover,
+.mode-btn:focus-visible {
+  border-color: var(--accent);
+  color: var(--text);
+  outline: none;
+}
+
+.mode-btn.active {
+  border-color: var(--info);
+  background: rgba(142, 197, 255, 0.14);
+  color: var(--text);
+  font-weight: 600;
+}
+
+.builder-grid[hidden],
+.cx-grid[hidden] {
+  display: none !important;
+}
+
+@media (min-width: 900px) {
+  .cx-grid {
+    grid-template-columns: repeat(5, 1fr);
+  }
+}
+
+@media (min-width: 640px) and (max-width: 899px) {
+  .cx-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.usage-line {
+  margin: 0.25rem 0 0;
+  font-size: 0.72rem;
+  color: var(--muted);
+  min-height: 1.1em;
+}
+
+.usage-line .usage-pct {
+  color: var(--info);
+  font-variant-numeric: tabular-nums;
+}
+
+.usage-line .usage-note {
+  opacity: 0.8;
+}
+
+.usage-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.55rem 0 0.85rem;
+}
+
+.usage-pill {
+  font-size: 0.72rem;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid var(--border);
+  background: var(--row);
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+}
+
+.usage-pill .k {
+  color: var(--muted);
+  text-transform: capitalize;
+  margin-right: 0.15rem;
+}
+
+.badge.usage {
+  border-color: rgba(142, 197, 255, 0.35);
+  color: var(--info);
+  font-variant-numeric: tabular-nums;
+}
+
+.badge.usage.usage-high {
+  border-color: rgba(245, 197, 66, 0.45);
+  color: var(--accent);
+}
+
+.badge.usage.usage-mid {
+  border-color: rgba(142, 197, 255, 0.4);
+  color: var(--info);
+}
+
+.badge.usage.usage-low {
+  border-color: var(--border);
+  color: var(--muted);
+}
+
+.badge.usage.usage-na {
+  opacity: 0.75;
+}
+
+.metal-tag {
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--accent);
+  vertical-align: middle;
+}
+
+.sort-label {
+  font-size: 0.75rem;
+  color: var(--muted);
+  margin-left: 0.25rem;
+}
+
+#parts-sort {
+  appearance: none;
+  background: var(--row);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 0.35rem 0.7rem;
+  font: inherit;
+  font-size: 0.8rem;
+}
+
+.ref-controls {
+  flex-wrap: wrap;
+}

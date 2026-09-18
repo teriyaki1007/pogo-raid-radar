@@ -7,7 +7,7 @@
     <meta name="theme-color" content="#0b1020" />
     <meta
       name="description"
-      content="Beyblade X combo builder and parts reference with HK price estimates"
+      content="Beyblade X combo builder and parts reference with HK price estimates and tournament usage %"
     />
     <title>Beyblade Guide — Combo Builder</title>
     <link rel="stylesheet" href="styles.css" />
@@ -17,7 +17,7 @@
       <header class="hero">
         <p class="eyebrow">Stadium Coach</p>
         <h1>Beyblade Guide</h1>
-        <p class="subtitle">Combo builder + X parts reference (HK pricing)</p>
+        <p class="subtitle">Combo builder + X parts reference (HK pricing · tournament usage)</p>
         <p class="meta-line" id="meta-line">Beyblade X · BX / UX / CX · estimates only</p>
       </header>
 
@@ -38,29 +38,81 @@
             <span class="count" id="builder-hint">Blade + Ratchet + Bit</span>
           </div>
 
-          <div class="builder-grid">
+          <div class="mode-toggle" role="group" aria-label="Builder mode">
+            <button type="button" class="mode-btn active" data-mode="basic" id="mode-basic">
+              Basic / UX blade
+            </button>
+            <button type="button" class="mode-btn" data-mode="cx" id="mode-cx">
+              CX stack
+            </button>
+          </div>
+
+          <!-- Basic / UX -->
+          <div class="builder-grid" id="builder-basic">
             <div class="field">
               <label for="blade-search">Blade</label>
               <input type="search" id="blade-search" placeholder="Search blades…" autocomplete="off" />
               <select id="blade-select" size="8" aria-label="Select blade"></select>
               <p class="hint" id="blade-hint"></p>
+              <p class="usage-line" id="blade-usage"></p>
             </div>
             <div class="field">
               <label for="ratchet-search">Ratchet</label>
               <input type="search" id="ratchet-search" placeholder="Search ratchets…" autocomplete="off" />
               <select id="ratchet-select" size="8" aria-label="Select ratchet"></select>
               <p class="hint" id="ratchet-hint"></p>
+              <p class="usage-line" id="ratchet-usage"></p>
             </div>
             <div class="field">
               <label for="bit-search">Bit</label>
               <input type="search" id="bit-search" placeholder="Search bits…" autocomplete="off" />
               <select id="bit-select" size="8" aria-label="Select bit"></select>
               <p class="hint" id="bit-hint"></p>
+              <p class="usage-line" id="bit-usage"></p>
+            </div>
+          </div>
+
+          <!-- CX Custom Line -->
+          <div class="builder-grid cx-grid" id="builder-cx" hidden>
+            <div class="field">
+              <label for="lock-search">Lock Chip</label>
+              <input type="search" id="lock-search" placeholder="Search lock chips…" autocomplete="off" />
+              <select id="lock-select" size="6" aria-label="Select lock chip"></select>
+              <p class="hint" id="lock-hint"></p>
+              <p class="usage-line" id="lock-usage"></p>
+            </div>
+            <div class="field">
+              <label for="main-search">Main Blade</label>
+              <input type="search" id="main-search" placeholder="Search main blades…" autocomplete="off" />
+              <select id="main-select" size="6" aria-label="Select main blade"></select>
+              <p class="hint" id="main-hint"></p>
+              <p class="usage-line" id="main-usage"></p>
+            </div>
+            <div class="field">
+              <label for="assist-search">Assist Blade</label>
+              <input type="search" id="assist-search" placeholder="Search assist blades…" autocomplete="off" />
+              <select id="assist-select" size="6" aria-label="Select assist blade"></select>
+              <p class="hint" id="assist-hint"></p>
+              <p class="usage-line" id="assist-usage"></p>
+            </div>
+            <div class="field">
+              <label for="cx-ratchet-search">Ratchet</label>
+              <input type="search" id="cx-ratchet-search" placeholder="Search ratchets…" autocomplete="off" />
+              <select id="cx-ratchet-select" size="6" aria-label="Select CX ratchet"></select>
+              <p class="hint" id="cx-ratchet-hint"></p>
+              <p class="usage-line" id="cx-ratchet-usage"></p>
+            </div>
+            <div class="field">
+              <label for="cx-bit-search">Bit</label>
+              <input type="search" id="cx-bit-search" placeholder="Search bits…" autocomplete="off" />
+              <select id="cx-bit-select" size="6" aria-label="Select CX bit"></select>
+              <p class="hint" id="cx-bit-hint"></p>
+              <p class="usage-line" id="cx-bit-usage"></p>
             </div>
           </div>
 
           <div class="results empty-state" id="results">
-            Select a Blade, Ratchet, and Bit to score the combo.
+            Select parts to score the combo.
           </div>
         </div>
 
@@ -74,24 +126,38 @@
               </p>
               <ul>
                 <li>
-                  <strong>Competitiveness (0–100)</strong> — weighted part tiers
-                  (<code>blade 50% + ratchet 25% + bit 25%</code>) plus synergy bonuses for documented
-                  best partners, minus mismatch penalties (tall/weak ratchets, role clashes).
+                  <strong>Competitiveness (0–100)</strong> — Basic/UX:
+                  <code>blade 50% + ratchet 25% + bit 25%</code>. CX:
+                  <code>lock 12% + main 38% + assist 15% + ratchet 17.5% + bit 17.5%</code>,
+                  plus mass bonuses for metal Lock / Heavy Assist, plus synergy for documented partners,
+                  minus mismatch penalties. A light usage nudge (±3) applies when
+                  <code>usagePct</code> is present.
+                </li>
+                <li>
+                  <strong>Usage %</strong> — tournament <em>top-cut share</em> from
+                  <a href="https://beywatch.gg/" rel="noopener" target="_blank">BEYWATCH.GG</a>
+                  (<code>pickRate</code>: share of reported top-three results that included the part).
+                  Shown as “n/a” when unknown. Snapshots refresh with the data file (aim: daily when
+                  re-scraped). Not the same as win share.
                 </li>
                 <li>
                   <strong>Meta-breaking (0–100)</strong> — disruptiveness (left-spin, expand blades,
-                  unusual role stacks), capped so low-tier random trash cannot score high.
+                  CX mass stacks, unusual role stacks), capped so low-tier random trash cannot score high.
                 </li>
                 <li>
                   <strong>Value for price (0–100)</strong> — performance proxy ÷ estimated HKD mid-range
-                  cost, normalized. HK prices are <em>ranges / estimates</em> from sealed retail anchors
-                  and MSRP-derived notes — not verified live listings.
+                  cost, normalized. HK prices are <em>ranges / estimates</em> — not verified live listings.
                 </li>
                 <li>
                   <strong>Overall grade S–D</strong> — mostly competitiveness, lightly nudged by value.
                 </li>
+                <li>
+                  <strong>CX mode</strong> — Lock Chip + Main Blade + Assist Blade + Ratchet + Bit.
+                  Display name like <code>Emperor Blast Heavy 9-60 K</code>. Expand blades (Glory Valkyrie,
+                  Bullet Griffon) remain Basic/UX with integrated ratchet behaviour.
+                </li>
               </ul>
-              <p>See <code>score.js</code> and <code>README.md</code> for the tunable weight constants.</p>
+              <p>See <code>score.js</code> and <code>README.md</code> for tunable weight constants.</p>
             </div>
           </details>
         </div>
@@ -109,7 +175,16 @@
             <button type="button" class="chip active" data-cat="blades">Blades</button>
             <button type="button" class="chip" data-cat="ratchets">Ratchets</button>
             <button type="button" class="chip" data-cat="bits">Bits</button>
-            <input type="search" id="parts-search" placeholder="Filter by name, type, tier…" autocomplete="off" />
+            <button type="button" class="chip" data-cat="lockChips">Lock Chips</button>
+            <button type="button" class="chip" data-cat="mainBlades">Main Blades</button>
+            <button type="button" class="chip" data-cat="assistBlades">Assist Blades</button>
+            <input type="search" id="parts-search" placeholder="Filter by name, type, tier, usage…" autocomplete="off" />
+            <label class="sort-label" for="parts-sort">Sort</label>
+            <select id="parts-sort" aria-label="Sort parts">
+              <option value="tier">Tier</option>
+              <option value="usage">Usage %</option>
+              <option value="name">Name</option>
+            </select>
           </div>
 
           <div class="part-list" id="part-list" role="list"></div>
@@ -119,8 +194,8 @@
 
       <footer class="footer">
         <p>
-          Coach estimates · HK$ ranges are estimates · data from
-          <code>data/parts.json</code> (researched 2026-09-18).
+          Coach estimates · HK$ ranges are estimates · usage % from BEYWATCH top-cut share ·
+          <code>data/parts.json</code>.
         </p>
         <p><a href="/">← All apps</a></p>
       </footer>
