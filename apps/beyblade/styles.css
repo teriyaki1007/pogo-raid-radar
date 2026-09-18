@@ -155,7 +155,6 @@ h1 {
 .field input[type="search"],
 .field select {
   width: 100%;
-  appearance: none;
   background: var(--row);
   border: 1px solid var(--border);
   color: var(--text);
@@ -163,6 +162,23 @@ h1 {
   padding: 0.55rem 0.7rem;
   font: inherit;
   font-size: 0.92rem;
+}
+
+.field input[type="search"] {
+  appearance: none;
+}
+
+/* Native dropdowns — keep options readable on dark theme (listboxes were unpickable) */
+.field select {
+  appearance: auto;
+  -webkit-appearance: menulist;
+  cursor: pointer;
+  min-height: 2.6rem;
+}
+
+.field select option {
+  background: #121826;
+  color: #e8eefc;
 }
 
 .field input[type="search"]:focus,

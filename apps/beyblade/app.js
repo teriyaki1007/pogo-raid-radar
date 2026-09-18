@@ -103,20 +103,36 @@ function optionLabel(p, kind) {
   return `${p.name} · ${p.type || "?"} · ${tier} · ${u}`;
 }
 
-function fillSelect(selectEl, list, kind, selectedId) {
+function fillSelect(selectEl, list, kind, selectedId, fullList) {
+  if (!selectEl) return;
   const prev = selectedId || selectEl.value;
+  const rows = Array.isArray(list) ? list : [];
   selectEl.innerHTML = "";
   const ph = document.createElement("option");
   ph.value = "";
-  ph.textContent = `— select ${kind} —`;
+  ph.textContent = rows.length ? `— select ${kind} —` : `— no ${kind} data —`;
   selectEl.appendChild(ph);
-  for (const p of list) {
+
+  // Keep current selection visible even if search filter hid it
+  const pool = fullList || rows;
+  if (prev && !rows.some((p) => p.id === prev)) {
+    const kept = (pool || []).find((p) => p.id === prev);
+    if (kept) {
+      const opt = document.createElement("option");
+      opt.value = kept.id;
+      opt.textContent = optionLabel(kept, kind) + " (selected)";
+      selectEl.appendChild(opt);
+    }
+  }
+
+  for (const p of rows) {
+    if (!p || !p.id) continue;
     const opt = document.createElement("option");
     opt.value = p.id;
     opt.textContent = optionLabel(p, kind);
     selectEl.appendChild(opt);
   }
-  if (prev && list.some((p) => p.id === prev)) {
+  if (prev && [...selectEl.options].some((o) => o.value === prev)) {
     selectEl.value = prev;
   } else {
     selectEl.value = "";
@@ -176,9 +192,9 @@ function refreshBuilderSelects() {
     const bl = filterList(blades, bq).slice().sort(sortParts);
     const rl = filterList(ratchets, rq).slice().sort(sortRatchets);
     const il = filterList(bits, iq).slice().sort(sortParts);
-    fillSelect($("#blade-select"), bl, "blade", state.bladeId);
-    fillSelect($("#ratchet-select"), rl, "ratchet", state.ratchetId);
-    fillSelect($("#bit-select"), il, "bit", state.bitId);
+    fillSelect($("#blade-select"), bl, "blade", state.bladeId, blades);
+    fillSelect($("#ratchet-select"), rl, "ratchet", state.ratchetId, ratchets);
+    fillSelect($("#bit-select"), il, "bit", state.bitId, bits);
     $("#blade-hint").textContent = `${bl.length} blades`;
     $("#ratchet-hint").textContent = `${rl.length} ratchets`;
     $("#bit-hint").textContent = `${il.length} bits`;
@@ -197,11 +213,11 @@ function refreshBuilderSelects() {
     const al = filterList(assistBlades || [], aq).slice().sort(sortByUsage);
     const rl = filterList(ratchets, rq).slice().sort(sortRatchets);
     const il = filterList(bits, iq).slice().sort(sortParts);
-    fillSelect($("#lock-select"), ll, "lock", state.lockId);
-    fillSelect($("#main-select"), ml, "main", state.mainId);
-    fillSelect($("#assist-select"), al, "assist", state.assistId);
-    fillSelect($("#cx-ratchet-select"), rl, "ratchet", state.cxRatchetId);
-    fillSelect($("#cx-bit-select"), il, "bit", state.cxBitId);
+    fillSelect($("#lock-select"), ll, "lock", state.lockId, lockChips);
+    fillSelect($("#main-select"), ml, "main", state.mainId, mainBlades);
+    fillSelect($("#assist-select"), al, "assist", state.assistId, assistBlades);
+    fillSelect($("#cx-ratchet-select"), rl, "ratchet", state.cxRatchetId, ratchets);
+    fillSelect($("#cx-bit-select"), il, "bit", state.cxBitId, bits);
     $("#lock-hint").textContent = `${ll.length} lock chips`;
     $("#main-hint").textContent = `${ml.length} main blades`;
     $("#assist-hint").textContent = `${al.length} assist blades`;
@@ -236,12 +252,32 @@ function renderResults() {
     const bit = byId(state.data.bits, state.cxBitId);
 
     if (!lockChip || !mainBlade || !assistBlade || !ratchet || !bit) {
+      const miss = [
+        !lockChip && "Lock Chip",
+        !mainBlade && "Main Blade",
+        !assistBlade && "Assist Blade",
+        !ratchet && "Ratchet",
+        !bit && "Bit",
+      ].filter(Boolean);
       el.className = "results empty-state";
-      el.innerHTML = "Select Lock Chip, Main Blade, Assist Blade, Ratchet, and Bit to score the CX combo.";
+      el.innerHTML = `Still need: <strong>${miss.join(", ")}</strong>`;
       return;
     }
 
-    const s = scoreCxCombo({ lockChip, mainBlade, assistBlade, ratchet, bit });
+    let s;
+    try {
+      s = scoreCxCombo({ lockChip, mainBlade, assistBlade, ratchet, bit });
+    } catch (err) {
+      console.error(err);
+      el.className = "results empty-state";
+      el.innerHTML = "CX scoring error — see console.";
+      return;
+    }
+    if (!s) {
+      el.className = "results empty-state";
+      el.innerHTML = "Could not score this CX stack.";
+      return;
+    }
     paintResults(el, s, {
       tiers: `${lockChip.tier} / ${mainBlade.tier} / ${assistBlade.tier} / ${ratchet.tier} / ${bit.tier}`,
     });
@@ -432,10 +468,21 @@ function setMode(mode) {
   document.querySelectorAll(".mode-btn").forEach((b) => {
     b.classList.toggle("active", b.dataset.mode === mode);
   });
-  $("#builder-basic").hidden = mode !== "basic";
-  $("#builder-cx").hidden = mode !== "cx";
-  $("#builder-hint").textContent =
-    mode === "cx" ? "Lock + Main + Assist + Ratchet + Bit" : "Blade + Ratchet + Bit";
+  const basic = $("#builder-basic");
+  const cx = $("#builder-cx");
+  if (basic) {
+    basic.hidden = mode !== "basic";
+    basic.style.display = mode === "basic" ? "" : "none";
+  }
+  if (cx) {
+    cx.hidden = mode !== "cx";
+    cx.style.display = mode === "cx" ? "" : "none";
+  }
+  const hint = $("#builder-hint");
+  if (hint) {
+    hint.textContent =
+      mode === "cx" ? "Lock + Main + Assist + Ratchet + Bit" : "Blade + Ratchet + Bit";
+  }
   refreshBuilderSelects();
   renderResults();
 }
