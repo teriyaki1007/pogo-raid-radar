@@ -5,12 +5,14 @@
     "Celestial Bureau": "bureau",
     "Yokai Alleys": "alleys",
     "Mountain Kin": "kin",
+    "Colorless": "colorless",
   };
 
   const COURT_SHORT = {
     "Celestial Bureau": "Bureau",
     "Yokai Alleys": "Alleys",
     "Mountain Kin": "Kin",
+    "Colorless": "Colorless",
   };
 
   const state = {
@@ -26,12 +28,16 @@
     tagline: document.getElementById("tagline"),
     countCreatures: document.getElementById("count-creatures"),
     countStadiums: document.getElementById("count-stadiums"),
+    countSupports: document.getElementById("count-supports"),
     gridCreatures: document.getElementById("grid-creatures"),
     gridStadiums: document.getElementById("grid-stadiums"),
+    gridSupports: document.getElementById("grid-supports"),
     panelCreatures: document.getElementById("panel-creatures"),
     panelStadiums: document.getElementById("panel-stadiums"),
+    panelSupports: document.getElementById("panel-supports"),
     emptyCreatures: document.getElementById("empty-creatures"),
     emptyStadiums: document.getElementById("empty-stadiums"),
+    emptySupports: document.getElementById("empty-supports"),
     search: document.getElementById("search"),
     filters: document.getElementById("filters"),
     rarityFilters: document.getElementById("rarity-filters"),
@@ -113,12 +119,15 @@
   function renderGrids() {
     const creatures = (state.data.creatures || []).filter(matchesFilters);
     const stadiums = (state.data.environments || []).filter(matchesFilters);
+    const supports = (state.data.support || []).filter(matchesFilters);
 
     els.gridCreatures.replaceChildren(...creatures.map((c) => createCard(c, "creature")));
     els.gridStadiums.replaceChildren(...stadiums.map((e) => createCard(e, "stadium")));
+    els.gridSupports.replaceChildren(...supports.map((s) => createCard(s, "support")));
 
     els.emptyCreatures.hidden = creatures.length > 0;
     els.emptyStadiums.hidden = stadiums.length > 0;
+    els.emptySupports.hidden = supports.length > 0;
   }
 
   function openModal(item) {
@@ -146,11 +155,14 @@
       els.modalTags.appendChild(r);
     }
 
-    const hasStats = item.favor != null || item.might != null;
+    const hasFavor = item.favor != null;
+    const hasMightField = item.might != null;
+    const hasStats = hasFavor || hasMightField;
     els.modalStats.hidden = !hasStats;
     if (hasStats) {
-      els.modalFavor.textContent = item.favor != null ? item.favor : "—";
-      els.modalMight.textContent = item.might != null ? item.might : "—";
+      els.modalFavor.textContent = hasFavor ? item.favor : "—";
+      const mightNA = item.might == null || item.might === "N/A";
+      els.modalMight.textContent = mightNA ? "—" : item.might;
     }
 
     els.modalStory.textContent = item.story || "";
@@ -178,7 +190,9 @@
     });
     els.panelCreatures.hidden = tab !== "creatures";
     els.panelStadiums.hidden = tab !== "stadiums";
+    els.panelSupports.hidden = tab !== "supports";
     if (els.rarityFilters) {
+      // Hide rarity filters only for stadiums; supports have rarity.
       const stadiums = tab === "stadiums";
       els.rarityFilters.hidden = stadiums;
       els.rarityFilters.setAttribute("aria-hidden", stadiums ? "true" : "false");
@@ -249,6 +263,7 @@
 
     els.countCreatures.textContent = String((state.data.creatures || []).length);
     els.countStadiums.textContent = String((state.data.environments || []).length);
+    els.countSupports.textContent = String((state.data.support || []).length);
 
     renderGrids();
   }

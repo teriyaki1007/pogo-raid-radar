@@ -431,6 +431,11 @@ body {
   background: linear-gradient(135deg, var(--kin-a), var(--kin-b));
 }
 
+.court-badge.colorless {
+  background: linear-gradient(135deg, #5a5a68, #3e3e48);
+  color: #d8d8e0;
+}
+
 .empty {
   text-align: center;
   color: var(--text-dim);
