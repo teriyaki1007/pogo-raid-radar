@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-09-18",
-    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG __data.json usage (2026-09-18)",
+    "updated": "2026-09-19",
+    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG /parts/__data.json usage (2026-09-19 refresh; beywatch dataUpdatedAt still 2026-09-18T12:04:22.213Z)",
     "currency": "HKD",
     "priceDisclaimer": "All HKD values are estimates (sealed retail anchors, MSRP-derived, or unknown ranges). Never treat as verified live listings. Meta shifts.",
     "viabilityNote": "Tiers mapped from BEYWATCH.GG: beywatch X→S, S→A, A→B, B→C, C→D, sparse/?→Unranked. usagePct = BEYWATCH pickRate × 100.",
@@ -35,13 +35,13 @@
       "Level",
       "Ball"
     ],
-    "updatedAt": "2026-09-18T15:00:00+08:00",
-    "metaAsOf": "2026-09-18",
+    "updatedAt": "2026-09-19T09:20:00+08:00",
+    "metaAsOf": "2026-09-19",
     "usageSource": "BEYWATCH.GG pickRate (share of reported top-three results that included the part)",
     "usageScope": {
       "tournaments": 3320,
       "topThreeEntries": 9644,
-      "asOf": "2026-09-18"
+      "asOf": "2026-09-19"
     },
     "topLockChips": [
       "Emperor",
@@ -2284,7 +2284,8 @@
         "Wiki incomplete; verify stock product"
       ],
       "bestPartners": [
-        "Aggressive"
+        "Aggressive",
+        "Croco Tread TQ5-50GN stock"
       ],
       "scoreBase": 40,
       "priceNote": "estimate — listing check; confirmed BeyCommunity",
@@ -2292,7 +2293,7 @@
       "protrusions": 5,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 39 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "5-70",
@@ -3431,14 +3432,15 @@
         "Mid"
       ],
       "bestPartners": [
-        "Leon Crest 7-60"
+        "Leon Crest 7-60",
+        "Croco Tread 5-50"
       ],
       "scoreBase": 45,
       "priceNote": "estimate — UX-06",
       "mech": "Geared needle",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 28 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "disc-ball",
@@ -4360,7 +4362,7 @@
       "type": "Balance",
       "tier": "Unranked",
       "abbr": "Cro",
-      "code": "CX Lock",
+      "code": "CX-19",
       "hkdMin": 15,
       "hkdMax": 40,
       "priceNote": "estimate — plastic lock loose; metal variants higher",
@@ -4373,11 +4375,11 @@
         "Performance mostly from Main+Assist"
       ],
       "bestPartners": [],
-      "notes": "Standard CX Lock Chip",
+      "notes": "CX-19 Croco Tread Select Lock Chip (JP 2026-09-12). Sparse BEYWATCH (1 cut).",
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4481,11 +4483,11 @@
         "Performance mostly from Main+Assist"
       ],
       "bestPartners": [],
-      "notes": "Standard CX Lock Chip",
+      "notes": "Alt spelling of Croco Lock (Hasbro-style); prefer croco for CX-19 stock.",
       "scoreBase": 40,
       "usagePct": null,
       "usageNote": "insufficient sample / not on BEYWATCH rankings",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4549,7 +4551,7 @@
       "type": "Balance",
       "tier": "Unranked",
       "abbr": "Tig",
-      "code": "CX Lock",
+      "code": "CX-00",
       "hkdMin": 15,
       "hkdMax": 40,
       "priceNote": "estimate — plastic lock loose; metal variants higher",
@@ -4562,11 +4564,11 @@
         "Performance mostly from Main+Assist"
       ],
       "bestPartners": [],
-      "notes": "Standard CX Lock Chip",
+      "notes": "CX-00 Ultraman Tiga collab Lock Chip (JP 2026-09-12 starter Tiga Rage FT3-60T). Plastic; no BEYWATCH top cuts yet.",
       "scoreBase": 40,
       "usagePct": null,
       "usageNote": "insufficient sample / not on BEYWATCH rankings",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     }
@@ -4744,13 +4746,15 @@
       ],
       "bestPartners": [
         "Ragna + Flow + Heavy",
-        "1-60 R"
+        "1-60 R",
+        "Tiga + Flow + Turn",
+        "3-60 T"
       ],
-      "notes": "Ragna Rage CX main",
+      "notes": "Ragna Rage (CX-15) Metal Blade; also stock on CX-00 Tiga Rage with Flow Over Blade + Turn Assist (FT=Flow+Turn).",
       "scoreBase": 68,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 62 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -5172,6 +5176,66 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 3 top cuts",
       "usageAsOf": "2026-09-18",
       "kind": "mainBlade"
+    },
+    {
+      "id": "tread",
+      "name": "Tread",
+      "type": "Defense",
+      "tier": "Unranked",
+      "abbr": "Tread",
+      "code": "CX-19",
+      "shorthand": "Tread",
+      "hkdMin": 40,
+      "hkdMax": 90,
+      "priceNote": "estimate — CX-19 Random Booster Croco Tread Select JP ¥1,600 sealed (~MSRP-derived ~HK$80); HK sealed/loose unknown / needs listing check (not on T CLUB 2026-09-19)",
+      "pros": [
+        "Multi-contact defense Main (CX Expand / Metal Blade)",
+        "Stock with Tough Over + Quell Assist + low 5-50 GN"
+      ],
+      "cons": [
+        "Brand-new (JP 2026-09-12); only sparse BEYWATCH sample",
+        "Competitive standing unproven"
+      ],
+      "bestPartners": [
+        "Croco + Tough + Quell",
+        "5-50 GN"
+      ],
+      "notes": "CX-19 Croco Tread TQ5-50GN Metal Blade (Expand: Tough Over Blade + Quell Assist). TQ = Tough+Quell, not a single Assist id.",
+      "scoreBase": 40,
+      "usagePct": 0.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1 top cuts — sparse",
+      "usageAsOf": "2026-09-19",
+      "kind": "mainBlade"
+    },
+    {
+      "id": "whip",
+      "name": "Whip",
+      "type": "Stamina",
+      "tier": "Unranked",
+      "abbr": "Whip",
+      "code": "CX-18",
+      "shorthand": "Whip",
+      "hkdMin": 40,
+      "hkdMax": 100,
+      "priceNote": "estimate — BuyMarket CX-18 sealed cited HK$179 in reference; loose unknown",
+      "pros": [
+        "Brachio Whip CX Main",
+        "Low but non-zero tournament sample"
+      ],
+      "cons": [
+        "Unranked / sparse meta",
+        "Not a current top-cut driver"
+      ],
+      "bestPartners": [
+        "Brachio + Heavy",
+        "1-60 FB"
+      ],
+      "notes": "CX-18 Brachio Whip Main Blade",
+      "scoreBase": 42,
+      "usagePct": 0.1,
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 12 top cuts",
+      "usageAsOf": "2026-09-19",
+      "kind": "mainBlade"
     }
   ],
   "assistBlades": [
@@ -5341,11 +5405,11 @@
         "Low sample"
       ],
       "bestPartners": [],
-      "notes": "CX Assist Blade — Turn",
+      "notes": "CX Assist Blade — Turn | Stock Assist on CX-00 Tiga Rage FT3-60T (FT = Flow Over + Turn).",
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 38 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5629,11 +5693,11 @@
         "No tournament data"
       ],
       "bestPartners": [],
-      "notes": "CX Assist Blade — Quell",
+      "notes": "CX Assist Blade — Quell | Stock Assist on CX-19 Croco Tread TQ5-50GN (TQ = Tough Over + Quell). No BEYWATCH top cuts yet.",
       "scoreBase": 40,
       "usagePct": null,
       "usageNote": "insufficient sample / not on BEYWATCH rankings",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     }
   ]
