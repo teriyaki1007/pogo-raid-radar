@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-09-17",
-    "asOfLabel": "17 Sep 2026 ~10:55 PM HKT",
+    "asOf": "2026-09-19",
+    "asOfLabel": "19 Sep 2026 ~10:35 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Horizons raids live: Captain’s Cap Pikachu 1★ + Charizard (goggles) / Meowscarada / Skeledirge / Quaquaval 3★. Zamazenta 5★ + Mega Venusaur continue. Next: Super Mega Staraptor Raid Day Sat 19 Sep 2–5 PM local (Charmander goggles Spotlight Hour ended 7 PM).",
-      "endsAtLabel": "Horizons / Zamazenta / Mega Venusaur → Tue 22 Sep · Super Mega Raid Day: Sat 19 Sep 2:00–5:00 PM local"
+      "text": "Horizons raids still live through Tue 22 Sep 8 PM: Captain’s Cap Pikachu 1★ + Charizard (goggles) / Meowscarada / Skeledirge / Quaquaval 3★. Zamazenta 5★ + Mega Venusaur through Tue 22 10 PM. Super Mega Staraptor Raid Day (Sat 19, 2–5 PM) is over. Next Wed 23: regional Ultra Beasts + Mega Malamar.",
+      "endsAtLabel": "Horizons → Tue 22 Sep 8:00 PM · Zamazenta / Mega Venusaur → Tue 22 Sep 10:00 PM · Next rotation Wed 23 Sep 6:00 AM"
     },
     "legend": {
       "standard": {
@@ -979,76 +979,6 @@
       "countersSource": "type"
     },
     {
-      "id": "mega-staraptor",
-      "name": "Mega Staraptor",
-      "form": "Mega · Super Mega Raid",
-      "species": "Staraptor",
-      "catchForm": "Staraptor",
-      "tier": "super-mega",
-      "tierLabel": "Super Mega",
-      "category": "upcoming",
-      "isShadow": false,
-      "isMega": true,
-      "event": "Staraptor Super Mega Raid Day",
-      "window": "Sat 19 Sep 2:00–5:00 PM local",
-      "windowStart": "2026-09-19T14:00:00",
-      "windowEnd": "2026-09-19T17:00:00",
-      "shiny": true,
-      "shinyRate": "Boosted ~1/10 (GO Hub); Niantic exact rate not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 1614,
-      "cpL25": 2018,
-      "weather": [
-        "Partly Cloudy",
-        "Windy"
-      ],
-      "sprite": {
-        "pokeapiId": 398,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png"
-      },
-      "notes": "Catch Staraptor. Up to 6 free passes (14 with ticket). Remote limit 20 (Fri 18 Sep 5 PM – Sat 19 Sep 8 PM PDT). Mega form is Fighting/Flying (base catch form stays Normal/Flying).",
-      "highlight": true,
-      "types": [
-        "Fighting",
-        "Flying"
-      ],
-      "weakTo": [
-        "Electric",
-        "Ice",
-        "Flying",
-        "Psychic",
-        "Fairy"
-      ],
-      "counters": [
-        {
-          "name": "Mega Mewtwo Y",
-          "moves": "Psycho Cut / Future Sight"
-        },
-        {
-          "name": "Mega Rayquaza",
-          "moves": "Air Slash / Dragon Ascent"
-        },
-        {
-          "name": "Mega Mewtwo X",
-          "moves": "Confusion / Psystrike"
-        },
-        {
-          "name": "Shadow Mewtwo",
-          "moves": "Confusion / Psystrike"
-        },
-        {
-          "name": "Mega Raichu Y",
-          "moves": "Thunder Shock / Zap Cannon"
-        },
-        {
-          "name": "Therian Thundurus",
-          "moves": "Volt Switch / Wildbolt Storm"
-        }
-      ],
-      "countersSource": "guide"
-    },
-    {
       "id": "xurkitree",
       "name": "Xurkitree",
       "form": "Ultra Beast",
@@ -1460,27 +1390,28 @@
     },
     {
       "id": "raid-hour-zamazenta",
-      "when": "Wed 16 Sep 6:00–7:00 PM local",
+      "when": "Wed 16 Sep 6:00–7:00 PM local (ended)",
       "title": "Raid Hour: Zamazenta",
       "impact": "Extra 5★ density"
     },
     {
       "id": "spotlight-charmander-goggles",
-      "when": "Thu 17 Sep 6:00–7:00 PM local",
+      "when": "Thu 17 Sep 6:00–7:00 PM local (ended)",
       "title": "Spotlight: Charmander wearing Friede's goggles",
       "impact": "Wild spotlight only (2× Catch Stardust) — not a raid list change"
     },
     {
       "id": "staraptor-day",
-      "when": "Sat 19 Sep 2:00–5:00 PM local",
-      "title": "Staraptor Super Mega Raid Day",
-      "impact": "Mega Staraptor debut in Super Mega Raids; catch Staraptor. Boosted shiny ~1/10 (GO Hub). Up to 6 free passes (14 with ticket)."
+      "when": "Sat 19 Sep 2:00–5:00 PM local (ended)",
+      "title": "Staraptor Super Mega Raid Day (ended)",
+      "impact": "Mega Staraptor debut window closed. Catch was Staraptor (Mega Level 1 unlocked); boosted shiny ~1/10 (GO Hub)."
     },
     {
       "id": "shadow-weekend-19",
-      "when": "Sat–Sun 19–20 Sep 2026",
+      "when": "Sat–Sun 19–20 Sep 2026 (this weekend)",
       "title": "Shadow 5★ weekend",
-      "impact": "Shadow Thundurus Incarnate"
+      "impact": "Shadow Thundurus Incarnate in 5★ Shadow Raids (weekends)",
+      "urgent": true
     },
     {
       "id": "ubs-malamar",
