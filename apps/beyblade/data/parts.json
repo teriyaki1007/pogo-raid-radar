@@ -1,68 +1,68 @@
 {
   "meta": {
-    "updated": "2026-09-19",
-    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG /parts/__data.json usage (2026-09-19 refresh; beywatch dataUpdatedAt still 2026-09-18T12:04:22.213Z)",
+    "updated": "2026-09-20",
+    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG /parts/__data.json usage (2026-09-20 refresh; beywatch dataUpdatedAt 2026-09-19T12:03:30.855Z; lastTournament 2026-09-17)",
     "currency": "HKD",
     "priceDisclaimer": "All HKD values are estimates (sealed retail anchors, MSRP-derived, or unknown ranges). Never treat as verified live listings. Meta shifts.",
     "viabilityNote": "Tiers mapped from BEYWATCH.GG: beywatch X→S, S→A, A→B, B→C, C→D, sparse/?→Unranked. usagePct = BEYWATCH pickRate × 100.",
     "topBlades": [
-      "Wizard Rod",
       "Shark Scale",
-      "Phoenix Wing",
-      "Cobalt Dragoon",
+      "Wizard Rod",
       "Aero Pegasus",
-      "Wyvern Hover",
-      "Silver Wolf",
-      "Blast (Emperor Blast Heavy)"
+      "Blast (Emperor Blast Heavy)",
+      "Cobalt Dragoon",
+      "Glory Valkyrie",
+      "Meteor Dragoon",
+      "Wyvern Hover"
     ],
     "topRatchets": [
       "1-60",
+      "1-70",
       "9-60",
+      "7-60",
+      "1-50",
       "3-60",
       "5-60",
-      "7-60",
-      "1-70",
-      "1-50",
-      "7-70"
+      "3-70"
     ],
     "topBits": [
-      "Hexa",
       "Low Rush",
       "Rush",
+      "Hexa",
+      "Elevate",
+      "Unite",
       "Kick",
       "Free Ball",
-      "Elevate",
-      "Level",
       "Ball"
     ],
-    "updatedAt": "2026-09-19T09:20:00+08:00",
-    "metaAsOf": "2026-09-19",
+    "updatedAt": "2026-09-20T09:30:00+08:00",
+    "metaAsOf": "2026-09-20",
     "usageSource": "BEYWATCH.GG pickRate (share of reported top-three results that included the part)",
     "usageScope": {
-      "tournaments": 3320,
-      "topThreeEntries": 9644,
-      "asOf": "2026-09-19"
+      "tournaments": 3322,
+      "topThreeEntries": 9650,
+      "asOf": "2026-09-20"
     },
     "topLockChips": [
       "Emperor",
-      "Pegasus",
       "Valkyrie",
-      "Sol",
-      "Dran"
+      "Pegasus",
+      "Dran",
+      "Hells"
     ],
     "topMainBlades": [
       "Blast",
-      "Delta",
-      "Brave",
       "Blitz",
+      "Rage",
+      "Delta",
       "Eclipse"
     ],
     "topAssistBlades": [
       "Heavy",
+      "Free",
       "Wheel",
       "Jaggy",
-      "Slash",
-      "Free"
+      "Slash"
     ],
     "cxNote": "CX Custom Line = Lock Chip + Main Blade + Assist Blade (+ optional Over Blade not required in builder). Score uses stacked part bases; metal Lock + Heavy Assist get mass bonuses.",
     "ratchetIntegratedNote": "Blades with ratchetIntegrated:true cannot equip a separate ratchet (Expand Blade / Infinity)."
@@ -96,8 +96,8 @@
       "notes": "#1 blade by top cuts; under-scoop attack + stamina to spin-finish",
       "shorthand": "Scale / SS",
       "usagePct": 44.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,327 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,333 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "wizard-rod",
@@ -127,8 +127,8 @@
       "notes": "Highest win share; default 3v3 stamina anchor",
       "shorthand": "Rod / WR",
       "usagePct": 62.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 5,983 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 5,986 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "aero-pegasus",
@@ -157,8 +157,8 @@
       "notes": "Consistent #3 meta attack",
       "shorthand": "Aero / AP",
       "usagePct": 21.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,026 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,027 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "blast",
@@ -215,7 +215,7 @@
       "shorthand": "CD / Dragoon",
       "usagePct": 23.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,274 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "glory-valkyrie",
@@ -243,8 +243,8 @@
       "notes": "Expand Blade (ratchet integrated); climbed WBO Aug 2026; bit-only (no separate ratchet).",
       "shorthand": "GV / Glory",
       "usagePct": 1.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 133 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 134 top cuts",
+      "usageAsOf": "2026-09-19",
       "ratchetIntegrated": true
     },
     {
@@ -273,8 +273,8 @@
       "notes": "Left-spin defense/balance",
       "shorthand": "MD / Meteor",
       "usagePct": 6.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 659 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 660 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "wyvern-hover",
@@ -302,8 +302,8 @@
       "notes": "Also called Hover Wyvern; lighter ~35g class",
       "shorthand": "Hover / WH",
       "usagePct": 20.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,925 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,927 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "knight-shield",
@@ -330,7 +330,7 @@
       "shorthand": "Shield / KS",
       "usagePct": 1.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 105 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "silver-wolf",
@@ -358,8 +358,8 @@
       "notes": "Stamina alternative to Rod",
       "shorthand": "Wolf / SW",
       "usagePct": 16.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,587 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,588 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "phoenix-wing",
@@ -387,7 +387,7 @@
       "shorthand": "PW / Wing",
       "usagePct": 29.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,811 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "dran-strike",
@@ -414,7 +414,7 @@
       "shorthand": "Strike / DS",
       "usagePct": 2.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 264 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "bahamut-blitz",
@@ -439,7 +439,7 @@
       "shorthand": "Blitz",
       "usagePct": 0.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 85 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "bullet-griffon",
@@ -467,7 +467,7 @@
       "shorthand": "Griffon",
       "usagePct": 2.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 197 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "ratchetIntegrated": true
     },
     {
@@ -494,7 +494,7 @@
       "shorthand": "TB",
       "usagePct": 10.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,054 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "impact-drake",
@@ -519,7 +519,7 @@
       "shorthand": "ID",
       "usagePct": 3.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 299 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "scorpio-spear",
@@ -544,7 +544,7 @@
       "shorthand": "Spear",
       "usagePct": 4.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 426 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "clock-mirage",
@@ -569,7 +569,7 @@
       "shorthand": "Clock",
       "usagePct": 2.8,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 268 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "ragna-rage",
@@ -594,7 +594,7 @@
       "shorthand": "Rage",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 62 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "golem-rock",
@@ -619,8 +619,8 @@
       "notes": "",
       "shorthand": "Golem",
       "usagePct": 6.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 580 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 582 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "wizard-arrow",
@@ -645,13 +645,13 @@
       "shorthand": "Arrow",
       "usagePct": 0.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 83 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "mummy-curse",
       "name": "Mummy Curse",
       "type": "Balance",
-      "tier": "B",
+      "tier": "C",
       "hkdMin": 75,
       "hkdMax": 180,
       "pros": [
@@ -663,14 +663,14 @@
       "bestCombos": [
         "Mummy Curse 9-60 W"
       ],
-      "scoreBase": 68,
+      "scoreBase": 50,
       "priceNote": "estimate — RB Vol.8; listing check",
       "code": "UX-18",
       "notes": "",
       "shorthand": "Mummy",
-      "usagePct": 2.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 207 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usagePct": 2.2,
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 208 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "unicorn-delta",
@@ -695,7 +695,7 @@
       "shorthand": "Delta",
       "usagePct": 1.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 117 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "hells-scythe",
@@ -720,7 +720,7 @@
       "shorthand": "Scythe",
       "usagePct": 2.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 281 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "sol-eclipse",
@@ -745,7 +745,7 @@
       "shorthand": "Eclipse",
       "usagePct": 0.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 89 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "hells-hammer",
@@ -770,7 +770,7 @@
       "shorthand": "Hammer",
       "usagePct": 1.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 107 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "cobalt-drake",
@@ -795,7 +795,7 @@
       "shorthand": "Drake",
       "usagePct": 1.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 105 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "dran-sword",
@@ -820,7 +820,7 @@
       "shorthand": "Sword",
       "usagePct": 1.8,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 174 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "dran-dagger",
@@ -845,7 +845,7 @@
       "shorthand": "Dagger",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 95 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "tyranno-roar",
@@ -870,7 +870,7 @@
       "shorthand": "Roar",
       "usagePct": 1.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 141 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "samurai-calibur",
@@ -895,7 +895,7 @@
       "shorthand": "Calibur",
       "usagePct": 1.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 181 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "dran-buster",
@@ -920,7 +920,7 @@
       "shorthand": "Buster",
       "usagePct": 4.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 454 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "knight-mail",
@@ -945,7 +945,7 @@
       "shorthand": "Mail",
       "usagePct": 5.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 507 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "shark-edge",
@@ -970,13 +970,13 @@
       "shorthand": "Edge",
       "usagePct": 4.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 388 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "samurai-saber",
       "name": "Samurai Saber",
       "type": "Attack",
-      "tier": "C",
+      "tier": "D",
       "hkdMin": 140,
       "hkdMax": 180,
       "pros": [
@@ -988,14 +988,14 @@
       "bestCombos": [
         "Samurai Saber 9-60 L"
       ],
-      "scoreBase": 52,
+      "scoreBase": 40,
       "priceNote": "estimate — T CLUB HK$159",
       "code": "UX-09",
       "notes": "",
       "shorthand": "Saber",
       "usagePct": 2.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 204 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "dran-brave",
@@ -1020,7 +1020,7 @@
       "shorthand": "Brave",
       "usagePct": 1.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 108 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "crimson-garuda",
@@ -1045,7 +1045,7 @@
       "shorthand": "Garuda",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 72 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "whale-wave",
@@ -1070,7 +1070,7 @@
       "shorthand": "Whale",
       "usagePct": 2.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 250 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "hells-chain",
@@ -1095,7 +1095,7 @@
       "shorthand": "Chain",
       "usagePct": 1.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 114 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "unicorn-sting",
@@ -1120,7 +1120,7 @@
       "shorthand": "Sting",
       "usagePct": 2.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 213 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "dranzer-spiral",
@@ -1143,7 +1143,7 @@
       "shorthand": "Spiral",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 16 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "phoenix-feather",
@@ -1166,7 +1166,7 @@
       "shorthand": "Feather",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 28 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "samurai-steel",
@@ -1189,7 +1189,7 @@
       "shorthand": "",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 14 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "mammoth-tusk",
@@ -1212,7 +1212,7 @@
       "shorthand": "",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 23 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "knight-lance",
@@ -1235,7 +1235,7 @@
       "shorthand": "Lance",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 36 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "leon-claw",
@@ -1258,7 +1258,7 @@
       "shorthand": "Claw",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 21 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "viper-tail",
@@ -1281,7 +1281,7 @@
       "shorthand": "Viper",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 39 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "rhino-horn",
@@ -1304,7 +1304,7 @@
       "shorthand": "Rhino",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 19 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "wyvern-gale",
@@ -1327,7 +1327,7 @@
       "shorthand": "Gale",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 29 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "sphinx-cowl",
@@ -1350,7 +1350,7 @@
       "shorthand": "Sphinx",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 9 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "weiss-tiger",
@@ -1373,7 +1373,7 @@
       "shorthand": "Tiger",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 52 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "black-shell",
@@ -1396,7 +1396,7 @@
       "shorthand": "Shell",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 19 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "tricera-press",
@@ -1419,7 +1419,7 @@
       "shorthand": "Tricera",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 43 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "shelter-drake",
@@ -1442,7 +1442,7 @@
       "shorthand": "Shelter",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 21 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "heavens-ring",
@@ -1465,7 +1465,7 @@
       "shorthand": "Heavens",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 32 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "shinobi-shadow",
@@ -1488,7 +1488,7 @@
       "shorthand": "Shinobi",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 24 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "leon-crest",
@@ -1513,7 +1513,7 @@
       "shorthand": "Crest",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 42 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "phoenix-rudder",
@@ -1538,7 +1538,7 @@
       "shorthand": "Rudder",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 47 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "ghost-circle",
@@ -1563,7 +1563,7 @@
       "shorthand": "Ghost",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 38 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "orochi-cluster",
@@ -1588,7 +1588,7 @@
       "shorthand": "Orochi",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 49 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "wizard-arc",
@@ -1611,7 +1611,7 @@
       "shorthand": "Arc",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 44 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "perseus-dark",
@@ -1634,7 +1634,7 @@
       "shorthand": "Dark",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 15 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "knight-fortress",
@@ -1657,7 +1657,7 @@
       "shorthand": "Fortress",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 38 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "hells-nether",
@@ -1679,8 +1679,8 @@
       "notes": "Deck Set Aug 2026",
       "shorthand": "Nether",
       "usagePct": 0.3,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 27 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 29 top cuts",
+      "usageAsOf": "2026-09-19"
     }
   ],
   "ratchets": [
@@ -1708,8 +1708,8 @@
       "height": 60,
       "protrusions": 1,
       "usagePct": 75.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 7,281 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 7,285 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "9-60",
@@ -1737,8 +1737,8 @@
       "height": 60,
       "protrusions": 9,
       "usagePct": 67.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 6,547 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 6,551 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "3-60",
@@ -1765,8 +1765,8 @@
       "height": 60,
       "protrusions": 3,
       "usagePct": 46.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,479 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,482 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "1-70",
@@ -1790,8 +1790,8 @@
       "height": 70,
       "protrusions": 1,
       "usagePct": 19.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,876 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,877 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "1-50",
@@ -1816,8 +1816,8 @@
       "height": 50,
       "protrusions": 1,
       "usagePct": 8.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 828 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 829 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "7-60",
@@ -1843,8 +1843,8 @@
       "height": 60,
       "protrusions": 7,
       "usagePct": 23.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,282 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,285 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "5-60",
@@ -1869,7 +1869,7 @@
       "protrusions": 5,
       "usagePct": 26.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,529 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "4-50",
@@ -1894,7 +1894,7 @@
       "protrusions": 4,
       "usagePct": 5.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 539 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "6-60",
@@ -1920,7 +1920,7 @@
       "protrusions": 6,
       "usagePct": 6.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 601 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "9-70",
@@ -1945,8 +1945,8 @@
       "height": 70,
       "protrusions": 9,
       "usagePct": 6.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 638 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 640 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "0-60",
@@ -1971,7 +1971,7 @@
       "protrusions": 0,
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 70 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "0-70",
@@ -1996,7 +1996,7 @@
       "protrusions": 0,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 53 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "0-80",
@@ -2021,7 +2021,7 @@
       "protrusions": 0,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 51 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "2-60",
@@ -2046,7 +2046,7 @@
       "protrusions": 2,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 58 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "2-70",
@@ -2071,7 +2071,7 @@
       "protrusions": 2,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 21 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "2-80",
@@ -2094,7 +2094,7 @@
       "protrusions": 2,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 8 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "3-70",
@@ -2119,7 +2119,7 @@
       "protrusions": 3,
       "usagePct": 2.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 278 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "3-80",
@@ -2144,7 +2144,7 @@
       "protrusions": 3,
       "usagePct": 1.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 152 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "3-85",
@@ -2169,7 +2169,7 @@
       "protrusions": 3,
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 29 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "4-55",
@@ -2194,7 +2194,7 @@
       "protrusions": 4,
       "usagePct": 2.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 228 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "4-60",
@@ -2219,7 +2219,7 @@
       "protrusions": 4,
       "usagePct": 2.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 256 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "4-70",
@@ -2244,7 +2244,7 @@
       "protrusions": 4,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 39 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "4-80",
@@ -2267,7 +2267,7 @@
       "protrusions": 4,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 35 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "5-50",
@@ -2275,8 +2275,8 @@
       "abbr": "5-50",
       "type": "Ratchet",
       "tier": "Unranked",
-      "hkdMin": 45,
-      "hkdMax": 100,
+      "hkdMin": 40,
+      "hkdMax": 80,
       "pros": [
         "Aggressive low"
       ],
@@ -2288,11 +2288,11 @@
         "Croco Tread TQ5-50GN stock"
       ],
       "scoreBase": 40,
-      "priceNote": "estimate — listing check; confirmed BeyCommunity",
+      "priceNote": "estimate — CX-19 stock; sealed CX-19 The Club HK$99; loose unknown / needs listing check",
       "height": 50,
       "protrusions": 5,
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 39 top cuts",
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 40 top cuts",
       "usageAsOf": "2026-09-19"
     },
     {
@@ -2317,8 +2317,8 @@
       "height": 70,
       "protrusions": 5,
       "usagePct": 2.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 239 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 240 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "5-80",
@@ -2341,7 +2341,7 @@
       "protrusions": 5,
       "usagePct": 1.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 96 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "6-70",
@@ -2364,7 +2364,7 @@
       "protrusions": 6,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 59 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "6-80",
@@ -2387,7 +2387,7 @@
       "protrusions": 6,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 22 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "7-55",
@@ -2410,7 +2410,7 @@
       "protrusions": 7,
       "usagePct": 1.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 105 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "7-70",
@@ -2436,7 +2436,7 @@
       "protrusions": 7,
       "usagePct": 6.8,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 653 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "8-70",
@@ -2461,14 +2461,14 @@
       "protrusions": 8,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 51 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "8-80",
       "name": "Eight Eighty",
       "abbr": "8-80",
       "type": "Ratchet",
-      "tier": "C",
+      "tier": "Unranked",
       "hkdMin": 50,
       "hkdMax": 120,
       "pros": [
@@ -2478,13 +2478,13 @@
         "Wiki incomplete"
       ],
       "bestPartners": [],
-      "scoreBase": 52,
+      "scoreBase": 40,
       "priceNote": "estimate — Nether deck",
       "height": 80,
       "protrusions": 8,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "9-65",
@@ -2507,7 +2507,7 @@
       "protrusions": 9,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 21 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "9-80",
@@ -2530,7 +2530,7 @@
       "protrusions": 9,
       "usagePct": 1.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 159 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "m-85",
@@ -2555,7 +2555,7 @@
       "protrusions": "M",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 30 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     }
   ],
   "bits": [
@@ -2582,8 +2582,8 @@
       "priceNote": "estimate — UX-02 stock; loose premium likely — listing check",
       "mech": "Hexagonal tip; high burst resist",
       "usagePct": 47.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,582 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,583 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "free-ball",
@@ -2608,9 +2608,9 @@
       "scoreBase": 95,
       "priceNote": "estimate — UX-08 stock; listing check",
       "mech": "Free-spinning axle ball",
-      "usagePct": 24.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,318 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usagePct": 24.1,
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,322 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "low-rush",
@@ -2635,8 +2635,8 @@
       "priceNote": "estimate — UX-11 stock",
       "mech": "Lower Rush flat",
       "usagePct": 46.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,453 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,457 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "rush",
@@ -2661,8 +2661,8 @@
       "priceNote": "estimate — BX-20 stock",
       "mech": "Flat rush tip",
       "usagePct": 45.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,413 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,416 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "level",
@@ -2686,8 +2686,8 @@
       "priceNote": "estimate — UX-09",
       "mech": "Leveling tip behavior",
       "usagePct": 21.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,081 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,082 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "kick",
@@ -2713,8 +2713,8 @@
       "priceNote": "estimate — CX-05",
       "mech": "Kick/pocket oriented",
       "usagePct": 26.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,574 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,577 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "elevate",
@@ -2738,8 +2738,8 @@
       "priceNote": "estimate — BX-36 Whale Wave stock historically",
       "mech": "Height-changing / elevate motion",
       "usagePct": 22.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,188 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,189 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "narrow",
@@ -2762,8 +2762,8 @@
       "priceNote": "estimate — CX-18",
       "mech": "Newer CX tip",
       "usagePct": 1.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 166 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 168 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "jolt",
@@ -2786,8 +2786,8 @@
       "priceNote": "estimate — UX-17",
       "mech": "Aggressive attack tip",
       "usagePct": 5.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 520 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 521 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "ball",
@@ -2811,7 +2811,7 @@
       "mech": "Classic ball tip",
       "usagePct": 17.8,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,713 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "flat",
@@ -2835,7 +2835,7 @@
       "mech": "Flat tip",
       "usagePct": 3.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 313 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "low-flat",
@@ -2860,7 +2860,7 @@
       "mech": "Shorter Flat",
       "usagePct": 5.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 495 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "accel",
@@ -2884,7 +2884,7 @@
       "mech": "Accel flat variant",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 67 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "gear-flat",
@@ -2908,7 +2908,7 @@
       "mech": "Geared flat",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 69 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "gear-rush",
@@ -2932,7 +2932,7 @@
       "mech": "Geared Rush",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 21 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "under-flat",
@@ -2956,7 +2956,7 @@
       "mech": "Under-profile flat",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 94 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "free-flat",
@@ -2980,7 +2980,7 @@
       "mech": "Free-spinning Flat",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 46 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "rubber-accel",
@@ -3003,8 +3003,8 @@
       "priceNote": "estimate — listing check",
       "mech": "Rubber Accel",
       "usagePct": 2.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 271 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 272 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "turbo",
@@ -3028,7 +3028,7 @@
       "mech": "CX turbo tip",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 8 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "zap",
@@ -3052,7 +3052,7 @@
       "mech": "Unique attack tip",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 70 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "quake",
@@ -3076,7 +3076,7 @@
       "mech": "Oscillating attack",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 35 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "cyclone",
@@ -3100,7 +3100,7 @@
       "mech": "Left-spin cyclone",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 100 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "merge",
@@ -3125,7 +3125,7 @@
       "mech": "Merge tip",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 38 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "ignition",
@@ -3149,7 +3149,7 @@
       "mech": "CX Bahamut tip",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 30 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "bound-spike",
@@ -3173,7 +3173,7 @@
       "mech": "Bound spike",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 46 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "taper",
@@ -3197,7 +3197,7 @@
       "mech": "Tapered tip",
       "usagePct": 6.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 602 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "high-taper",
@@ -3221,7 +3221,7 @@
       "mech": "Taller taper",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 65 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "needle",
@@ -3245,7 +3245,7 @@
       "mech": "Sharp needle",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 60 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "high-needle",
@@ -3269,7 +3269,7 @@
       "mech": "Tall needle",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 71 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "point",
@@ -3294,7 +3294,7 @@
       "mech": "Point tip",
       "usagePct": 12.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,205 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "orb",
@@ -3318,7 +3318,7 @@
       "mech": "Orb tip",
       "usagePct": 2.8,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 268 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "low-orb",
@@ -3342,8 +3342,8 @@
       "priceNote": "estimate — CX-02",
       "mech": "Lower Orb",
       "usagePct": 9.3,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 901 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 902 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "spike",
@@ -3367,7 +3367,7 @@
       "mech": "Spike tip",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 28 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "gear-ball",
@@ -3391,7 +3391,7 @@
       "mech": "Geared ball",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 41 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "gear-point",
@@ -3415,7 +3415,7 @@
       "mech": "Geared point",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 94 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "gear-needle",
@@ -3424,7 +3424,7 @@
       "type": "Stamina",
       "tier": "Unranked",
       "hkdMin": 30,
-      "hkdMax": 80,
+      "hkdMax": 70,
       "pros": [
         "Leon Crest / Hover stock"
       ],
@@ -3436,7 +3436,7 @@
         "Croco Tread 5-50"
       ],
       "scoreBase": 45,
-      "priceNote": "estimate — UX-06",
+      "priceNote": "estimate — CX-19 stock GN; sealed CX-19 The Club HK$99; loose unknown / needs listing check",
       "mech": "Geared needle",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 28 top cuts",
@@ -3463,8 +3463,8 @@
       "priceNote": "estimate — UX-03",
       "mech": "Disc + ball",
       "usagePct": 0.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 63 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 64 top cuts",
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "metal-needle",
@@ -3488,7 +3488,7 @@
       "mech": "Metal needle",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 5 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "unite",
@@ -3512,7 +3512,7 @@
       "mech": "Unite tip",
       "usagePct": 2.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 277 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "glide",
@@ -3536,7 +3536,7 @@
       "mech": "Glide stamina",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 36 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "under-needle",
@@ -3561,7 +3561,7 @@
       "mech": "Under needle",
       "usagePct": 3.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 313 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "wedge",
@@ -3584,9 +3584,9 @@
       "scoreBase": 45,
       "priceNote": "estimate — CX-03",
       "mech": "Wedge tip",
-      "usagePct": 5.4,
+      "usagePct": 5.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 516 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "vortex",
@@ -3610,7 +3610,7 @@
       "mech": "Vortex tip",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 31 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "wall-ball",
@@ -3634,7 +3634,7 @@
       "mech": "Wall ball",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 92 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "trans-kick",
@@ -3658,7 +3658,7 @@
       "mech": "Transform kick",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 44 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "trans-point",
@@ -3682,7 +3682,7 @@
       "mech": "Transform point",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 37 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "operate",
@@ -3706,7 +3706,7 @@
       "mech": "Operate tip",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 26 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "yielding",
@@ -3730,7 +3730,7 @@
       "mech": "Yielding tip",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 20 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     },
     {
       "id": "dot",
@@ -3754,7 +3754,7 @@
       "mech": "Dot tip",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 57 top cuts",
-      "usageAsOf": "2026-09-18"
+      "usageAsOf": "2026-09-19"
     }
   ],
   "lockChips": [
@@ -3781,7 +3781,7 @@
       "scoreBase": 95,
       "usagePct": 5.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 572 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": true
     },
@@ -3808,7 +3808,7 @@
       "scoreBase": 68,
       "usagePct": 4.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 411 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -3834,8 +3834,8 @@
       "notes": "Metal lock; high 1st-rate when used",
       "scoreBase": 95,
       "usagePct": 2.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 244 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 245 top cuts",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": true
     },
@@ -3860,7 +3860,7 @@
       "scoreBase": 42,
       "usagePct": 1.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 102 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -3887,7 +3887,7 @@
       "scoreBase": 68,
       "usagePct": 0.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 87 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -3912,7 +3912,7 @@
       "scoreBase": 55,
       "usagePct": 0.8,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 76 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -3937,7 +3937,7 @@
       "scoreBase": 42,
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 68 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -3962,7 +3962,7 @@
       "scoreBase": 42,
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 70 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -3987,7 +3987,7 @@
       "scoreBase": 40,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 59 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4012,7 +4012,7 @@
       "scoreBase": 55,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 61 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4036,8 +4036,8 @@
       "notes": "CX Lock Chip — Cerberus",
       "scoreBase": 40,
       "usagePct": 0.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 49 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 50 top cuts",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4062,7 +4062,7 @@
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 43 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4087,7 +4087,7 @@
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 35 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4113,7 +4113,7 @@
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 37 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4140,7 +4140,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 15 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4165,7 +4165,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 20 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4192,7 +4192,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 15 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4217,7 +4217,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 24 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4244,7 +4244,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 20 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4271,7 +4271,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 16 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4298,7 +4298,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 8 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4325,7 +4325,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 11 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4352,7 +4352,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 10 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4365,7 +4365,7 @@
       "code": "CX-19",
       "hkdMin": 15,
       "hkdMax": 40,
-      "priceNote": "estimate — plastic lock loose; metal variants higher",
+      "priceNote": "estimate — plastic lock loose share of CX-19 sealed HK$99 (The Club); metal variants higher; HK loose unknown",
       "pros": [
         "Swappable CX identity sticker/lock",
         "Universal fit across Main+Assist"
@@ -4406,7 +4406,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4433,7 +4433,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4458,9 +4458,9 @@
       "bestPartners": [],
       "notes": "Standard CX Lock Chip",
       "scoreBase": 40,
-      "usagePct": null,
-      "usageNote": "insufficient sample / not on BEYWATCH rankings",
-      "usageAsOf": "2026-09-18",
+      "usagePct": 0.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4473,7 +4473,7 @@
       "code": "CX Lock",
       "hkdMin": 15,
       "hkdMax": 40,
-      "priceNote": "estimate — plastic lock loose; metal variants higher",
+      "priceNote": "estimate — alt spelling of Croco; share of CX-19 sealed HK$99 (The Club); prefer croco id",
       "pros": [
         "Swappable CX identity sticker/lock",
         "Universal fit across Main+Assist"
@@ -4485,8 +4485,8 @@
       "bestPartners": [],
       "notes": "Alt spelling of Croco Lock (Hasbro-style); prefer croco for CX-19 stock.",
       "scoreBase": 40,
-      "usagePct": null,
-      "usageNote": "insufficient sample / not on BEYWATCH rankings",
+      "usagePct": 0.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
       "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
@@ -4512,9 +4512,9 @@
       "bestPartners": [],
       "notes": "Standard CX Lock Chip",
       "scoreBase": 40,
-      "usagePct": null,
-      "usageNote": "insufficient sample / not on BEYWATCH rankings",
-      "usageAsOf": "2026-09-18",
+      "usagePct": 0.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4539,9 +4539,9 @@
       "bestPartners": [],
       "notes": "Standard CX Lock Chip",
       "scoreBase": 40,
-      "usagePct": null,
-      "usageNote": "insufficient sample / not on BEYWATCH rankings",
-      "usageAsOf": "2026-09-18",
+      "usagePct": 0.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
+      "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
     },
@@ -4553,8 +4553,8 @@
       "abbr": "Tig",
       "code": "CX-00",
       "hkdMin": 15,
-      "hkdMax": 40,
-      "priceNote": "estimate — plastic lock loose; metal variants higher",
+      "hkdMax": 50,
+      "priceNote": "estimate — plastic lock share of CX-00 Tiga Rage sealed Toys R Us HK$199.90; UP-NEXT HK$349 sold out; Carousell HK sealed ~HK$260–450; loose unknown",
       "pros": [
         "Swappable CX identity sticker/lock",
         "Universal fit across Main+Assist"
@@ -4566,8 +4566,8 @@
       "bestPartners": [],
       "notes": "CX-00 Ultraman Tiga collab Lock Chip (JP 2026-09-12 starter Tiga Rage FT3-60T). Plastic; no BEYWATCH top cuts yet.",
       "scoreBase": 40,
-      "usagePct": null,
-      "usageNote": "insufficient sample / not on BEYWATCH rankings",
+      "usagePct": 0.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
       "usageAsOf": "2026-09-19",
       "kind": "lockChip",
       "metal": false
@@ -4601,8 +4601,8 @@
       "notes": "Top CX Main by BEYWATCH (Emperor Blast Heavy meta)",
       "scoreBase": 95,
       "usagePct": 12.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,210 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,211 top cuts",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -4632,7 +4632,7 @@
       "scoreBase": 55,
       "usagePct": 1.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 117 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -4662,7 +4662,7 @@
       "scoreBase": 42,
       "usagePct": 1.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 108 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -4692,7 +4692,7 @@
       "scoreBase": 68,
       "usagePct": 0.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 85 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -4722,7 +4722,7 @@
       "scoreBase": 55,
       "usagePct": 0.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 89 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -4735,7 +4735,7 @@
       "shorthand": "Rage",
       "hkdMin": 50,
       "hkdMax": 120,
-      "priceNote": "estimate — CX-15 Infinity",
+      "priceNote": "estimate — CX-15 / CX-00 Tiga Rage FT share; Toys R Us CX-00 sealed HK$199.90; loose Main unknown",
       "pros": [
         "Stamina-leaning CX main (Ragna Rage)",
         "Works with Flow Over Blade"
@@ -4784,7 +4784,7 @@
       "scoreBase": 40,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 44 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -4814,7 +4814,7 @@
       "scoreBase": 40,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 44 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -4844,7 +4844,7 @@
       "scoreBase": 40,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 53 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -4874,7 +4874,7 @@
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 41 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -4904,7 +4904,7 @@
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 38 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -4934,7 +4934,7 @@
       "scoreBase": 40,
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 25 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -4964,7 +4964,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 15 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -4994,7 +4994,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 23 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -5024,7 +5024,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 19 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -5054,7 +5054,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 5 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -5084,7 +5084,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 11 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -5112,9 +5112,9 @@
       ],
       "notes": "Cerberus Flame main",
       "scoreBase": 40,
-      "usagePct": 0.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 14 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usagePct": 0.2,
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 15 top cuts",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -5144,7 +5144,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 8 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -5174,7 +5174,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 3 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
     {
@@ -5186,8 +5186,8 @@
       "code": "CX-19",
       "shorthand": "Tread",
       "hkdMin": 40,
-      "hkdMax": 90,
-      "priceNote": "estimate — CX-19 Random Booster Croco Tread Select JP ¥1,600 sealed (~MSRP-derived ~HK$80); HK sealed/loose unknown / needs listing check (not on T CLUB 2026-09-19)",
+      "hkdMax": 99,
+      "priceNote": "sealed retail anchor — The Club HK$99 / Toys R Us HK$99.90 CX-19 preorder (ship ~2026-09-21); UP-NEXT HK$149 sold out; Paxbeys grey HK$175–210; loose Main share unknown",
       "pros": [
         "Multi-contact defense Main (CX Expand / Metal Blade)",
         "Stock with Tough Over + Quell Assist + low 5-50 GN"
@@ -5203,7 +5203,7 @@
       "notes": "CX-19 Croco Tread TQ5-50GN Metal Blade (Expand: Tough Over Blade + Quell Assist). TQ = Tough+Quell, not a single Assist id.",
       "scoreBase": 40,
       "usagePct": 0.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1 top cuts — sparse",
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1 top cuts",
       "usageAsOf": "2026-09-19",
       "kind": "mainBlade"
     },
@@ -5262,7 +5262,7 @@
       "scoreBase": 95,
       "usagePct": 9.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 927 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5287,7 +5287,7 @@
       "scoreBase": 68,
       "usagePct": 4.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 394 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5311,7 +5311,7 @@
       "scoreBase": 68,
       "usagePct": 1.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 166 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5336,7 +5336,7 @@
       "scoreBase": 55,
       "usagePct": 1.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 117 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5361,7 +5361,7 @@
       "scoreBase": 82,
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 71 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5385,7 +5385,7 @@
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 40 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5397,7 +5397,7 @@
       "code": "CX Assist",
       "hkdMin": 20,
       "hkdMax": 50,
-      "priceNote": "estimate",
+      "priceNote": "estimate — CX-00 FT Assist share of Toys R Us sealed HK$199.90; HK loose unknown",
       "pros": [
         "Mode/utility Assist"
       ],
@@ -5433,7 +5433,7 @@
       "scoreBase": 40,
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 26 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5457,7 +5457,7 @@
       "scoreBase": 40,
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 27 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5481,7 +5481,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 18 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5505,7 +5505,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 15 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5529,7 +5529,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 17 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5553,7 +5553,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 5 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5577,7 +5577,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 10 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5601,7 +5601,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 9 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5625,7 +5625,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 3 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5649,7 +5649,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 3 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5673,7 +5673,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4 top cuts",
-      "usageAsOf": "2026-09-18",
+      "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     },
     {
@@ -5685,7 +5685,7 @@
       "code": "CX Assist",
       "hkdMin": 20,
       "hkdMax": 50,
-      "priceNote": "estimate",
+      "priceNote": "estimate — CX-19 TQ Assist share of sealed HK$99 (The Club); HK loose unknown",
       "pros": [
         "Defensive Assist"
       ],
@@ -5695,8 +5695,8 @@
       "bestPartners": [],
       "notes": "CX Assist Blade — Quell | Stock Assist on CX-19 Croco Tread TQ5-50GN (TQ = Tough Over + Quell). No BEYWATCH top cuts yet.",
       "scoreBase": 40,
-      "usagePct": null,
-      "usageNote": "insufficient sample / not on BEYWATCH rankings",
+      "usagePct": 0.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
       "usageAsOf": "2026-09-19",
       "kind": "assistBlade"
     }
