@@ -4,3 +4,6 @@ build steps: none — static copy
 landing label: Beyblade Guide
 subtitle: Combo builder + X parts reference (HK pricing)
 copy to: apps/beyblade/ (sibling of /raid/, /homework/, etc.)
+include img/: yes — copy entire folder including img/ (WebP part thumbnails)
+note: Pokemon Go Helper / Pages deploy must sync img/ or cards fall back to initials placeholders
+cache: ?v=20260921img on css/js/json

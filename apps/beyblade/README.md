@@ -44,6 +44,19 @@ Every blade, ratchet, bit, lock chip, main blade, and assist blade has:
 
 Top-level `meta.metaAsOf` / `meta.updatedAt` / `meta.usageScope` record the scrape window.
 
+
+## Part images
+
+Parts Reference cards show a ~88px thumbnail per part (`img/{blades,ratchets,bits,lockChips,mainBlades,assistBlades}/<id>.webp`).
+
+| Field | Meaning |
+|-------|---------|
+| `image` | Relative path like `img/blades/wizard-rod.webp`, or **`null`** when only a labeled placeholder is shown |
+
+**Source / attribution:** Product art copied from the community [Beyblade-X-Parts-Image-Database](https://github.com/Sun-After-the-Reign/Beyblade-X-Parts-Image-Database) (mostly Takara Tomy lineup stills). **Fair use for a non-commercial fan reference** — not affiliated with Takara Tomy / Hasbro. Missing parts (a few Lock Chips) use initials placeholders, never hotlinked CDNs.
+
+Copy the whole folder **including `img/`** when deploying.
+
 ## Scoring (`score.js`)
 
 Tunable weights in `WEIGHTS`:
@@ -56,6 +69,11 @@ Tunable weights in `WEIGHTS`:
 | **Grade S–D** | Mostly competitiveness, lightly nudged by value |
 
 Scores and HK$ ranges are **coach estimates**. Meta shifts; verify live listings and tournament data before buying or locking a deck.
+
+## CHANGELOG (2026-09-21)
+
+- Added local WebP thumbnails for nearly all parts under `img/`; `image` field on every catalog entry.
+- Parts Reference cards show `.part-thumb` (or initials placeholder). Cache bust `?v=20260921img`.
 
 ## CHANGELOG (2026-09-18)
 
@@ -75,7 +93,8 @@ index.html      SPA shell (builder modes + parts tabs)
 styles.css      Dark stadium theme (#0b1020)
 app.js          UI + data load
 score.js        Transparent scorer (basic + CX)
-data/parts.json Blades, ratchets, bits, lockChips, mainBlades, assistBlades
+data/parts.json Blades, ratchets, bits, lockChips, mainBlades, assistBlades (+ image paths)
+img/            Local WebP thumbnails by category (required for deploy)
 README.md
 DEPLOY.txt
 ```

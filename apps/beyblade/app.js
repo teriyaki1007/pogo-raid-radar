@@ -2,7 +2,7 @@
  * Beyblade X coaching SPA — loads data/parts.json (relative) and scores combos.
  * Modes: Basic/UX (Blade+Ratchet+Bit) and CX (Lock+Main+Assist+Ratchet+Bit).
  */
-import { scoreCombo, scoreCxCombo, gradeColor, formatUsage } from "./score.js?v=20260918d";
+import { scoreCombo, scoreCxCombo, gradeColor, formatUsage } from "./score.js?v=20260921img";
 
 const state = {
   data: null,
@@ -23,7 +23,7 @@ const state = {
 const $ = (sel) => document.querySelector(sel);
 
 async function loadData() {
-  const res = await fetch("data/parts.json?v=20260918d");
+  const res = await fetch("data/parts.json?v=20260921img");
   if (!res.ok) throw new Error(`Failed to load parts.json (${res.status})`);
   return res.json();
 }
@@ -402,6 +402,24 @@ function priceLine(p) {
   )}${(p.priceNote || "").length > 80 ? "…" : ""})</span>`;
 }
 
+
+function partInitials(p) {
+  const src = (p.abbr || p.name || p.id || "?").trim();
+  const bits = src.split(/[\s\-]+/).filter(Boolean);
+  if (bits.length >= 2) return (bits[0][0] + bits[1][0]).toUpperCase();
+  return src.slice(0, 2).toUpperCase();
+}
+
+/** Thumbnail or labeled placeholder — never a broken image icon. */
+function partThumbHtml(p) {
+  const alt = escapeHtml(p.name || p.id || "part");
+  const ini = escapeHtml(partInitials(p));
+  const ph = `<div class="part-thumb part-thumb--ph" title="${alt}" aria-label="${alt}"><span>${ini}</span></div>`;
+  if (!p.image) return ph;
+  // data-ph holds fallback HTML; onerror swaps in place
+  return `<img class="part-thumb" src="${escapeHtml(p.image)}" alt="${alt}" width="88" height="88" loading="lazy" decoding="async" data-ph="${ini}" onerror="this.onerror=null;const d=document.createElement('div');d.className='part-thumb part-thumb--ph';d.title=this.alt;d.setAttribute('aria-label',this.alt);d.innerHTML='<span>'+this.dataset.ph+'</span>';this.replaceWith(d);" />`;
+}
+
 function renderParts() {
   const cat = state.partsCat;
   const list = state.data[cat] || [];
@@ -434,6 +452,9 @@ function renderParts() {
         : "";
       return `
       <article class="part-card" role="listitem">
+        <div class="part-card-row">
+          ${partThumbHtml(p)}
+          <div class="part-card-main">
         <div class="part-top">
           <h3 class="title">${escapeHtml(p.name)}${abbr}${p.metal ? " <span class=\"metal-tag\">metal</span>" : ""}${expandBadge}</h3>
           <span class="badge tier-${escapeHtml(p.tier)}">${escapeHtml(p.tier)}</span>
@@ -469,6 +490,8 @@ function renderParts() {
                   .join(" · ")}</p>`
               : ""
           }
+        </div>
+          </div>
         </div>
       </article>`;
     })

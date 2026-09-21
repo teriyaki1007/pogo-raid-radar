@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18",
+  "updated": "2026-09-21",
   "timezone": "Asia/Hong_Kong",
   "assignments": [
     {
@@ -72,7 +72,7 @@
     {
       "id": "socials-me-project",
       "class": "Socials",
-      "title": "Globalisation — relation explicitly to me project",
+      "title": "Globalisation \u2014 relation explicitly to me project",
       "due": "2026-09-25",
       "dueLabel": "Fri 25 Sep 2026",
       "priority": "high",
@@ -82,8 +82,8 @@
       "id": "english-pre-essay",
       "class": "English",
       "title": "PRE Essay",
-      "due": "2026-10-03",
-      "dueLabel": "Fri 3 Oct 2026",
+      "due": "2026-10-06",
+      "dueLabel": "Tue 6 Oct 2026",
       "priority": "medium",
       "status": "open"
     }

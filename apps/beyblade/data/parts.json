@@ -67,7 +67,9 @@
       "Slash"
     ],
     "cxNote": "CX Custom Line = Lock Chip + Main Blade + Assist Blade (+ optional Over Blade not required in builder). Score uses stacked part bases; metal Lock + Heavy Assist get mass bonuses.",
-    "ratchetIntegratedNote": "Blades with ratchetIntegrated:true cannot equip a separate ratchet (Expand Blade / Infinity)."
+    "ratchetIntegratedNote": "Blades with ratchetIntegrated:true cannot equip a separate ratchet (Expand Blade / Infinity).",
+    "imagesAsOf": "2026-09-21",
+    "imageSource": "Beyblade-X-Parts-Image-Database (Takara Tomy lineup art); fair use fan reference"
   },
   "blades": [
     {
@@ -99,7 +101,8 @@
       "shorthand": "Scale / SS",
       "usagePct": 44.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,335 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/shark-scale.webp"
     },
     {
       "id": "wizard-rod",
@@ -130,7 +133,8 @@
       "shorthand": "Rod / WR",
       "usagePct": 62.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 5,987 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/wizard-rod.webp"
     },
     {
       "id": "aero-pegasus",
@@ -160,7 +164,8 @@
       "shorthand": "Aero / AP",
       "usagePct": 21.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,028 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/aero-pegasus.webp"
     },
     {
       "id": "blast",
@@ -188,7 +193,8 @@
       "shorthand": "Blast",
       "usagePct": 12.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,214 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/blast.webp"
     },
     {
       "id": "cobalt-dragoon",
@@ -217,7 +223,8 @@
       "shorthand": "CD / Dragoon",
       "usagePct": 23.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,277 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/cobalt-dragoon.webp"
     },
     {
       "id": "glory-valkyrie",
@@ -247,7 +254,8 @@
       "usagePct": 1.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 137 top cuts",
       "usageAsOf": "2026-09-20",
-      "ratchetIntegrated": true
+      "ratchetIntegrated": true,
+      "image": "img/blades/glory-valkyrie.webp"
     },
     {
       "id": "meteor-dragoon",
@@ -276,7 +284,8 @@
       "shorthand": "MD / Meteor",
       "usagePct": 6.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 662 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/meteor-dragoon.webp"
     },
     {
       "id": "wyvern-hover",
@@ -305,7 +314,8 @@
       "shorthand": "Hover / WH",
       "usagePct": 20.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,930 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/wyvern-hover.webp"
     },
     {
       "id": "knight-shield",
@@ -332,7 +342,8 @@
       "shorthand": "Shield / KS",
       "usagePct": 1.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 105 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/knight-shield.webp"
     },
     {
       "id": "silver-wolf",
@@ -361,7 +372,8 @@
       "shorthand": "Wolf / SW",
       "usagePct": 16.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,589 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/silver-wolf.webp"
     },
     {
       "id": "phoenix-wing",
@@ -389,7 +401,8 @@
       "shorthand": "PW / Wing",
       "usagePct": 29.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,815 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/phoenix-wing.webp"
     },
     {
       "id": "dran-strike",
@@ -416,7 +429,8 @@
       "shorthand": "Strike / DS",
       "usagePct": 2.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 264 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/dran-strike.webp"
     },
     {
       "id": "bahamut-blitz",
@@ -441,7 +455,8 @@
       "shorthand": "Blitz",
       "usagePct": 0.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 85 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/bahamut-blitz.webp"
     },
     {
       "id": "bullet-griffon",
@@ -470,7 +485,8 @@
       "usagePct": 2.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 197 top cuts",
       "usageAsOf": "2026-09-20",
-      "ratchetIntegrated": true
+      "ratchetIntegrated": true,
+      "image": "img/blades/bullet-griffon.webp"
     },
     {
       "id": "tyranno-beat",
@@ -496,7 +512,8 @@
       "shorthand": "TB",
       "usagePct": 10.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,055 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/tyranno-beat.webp"
     },
     {
       "id": "impact-drake",
@@ -521,7 +538,8 @@
       "shorthand": "ID",
       "usagePct": 3.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 299 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/impact-drake.webp"
     },
     {
       "id": "scorpio-spear",
@@ -546,7 +564,8 @@
       "shorthand": "Spear",
       "usagePct": 4.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 427 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/scorpio-spear.webp"
     },
     {
       "id": "clock-mirage",
@@ -571,7 +590,8 @@
       "shorthand": "Clock",
       "usagePct": 2.8,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 268 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/clock-mirage.webp"
     },
     {
       "id": "ragna-rage",
@@ -596,7 +616,8 @@
       "shorthand": "Rage",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 62 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/ragna-rage.webp"
     },
     {
       "id": "golem-rock",
@@ -622,7 +643,8 @@
       "shorthand": "Golem",
       "usagePct": 6.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 582 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/golem-rock.webp"
     },
     {
       "id": "wizard-arrow",
@@ -647,7 +669,8 @@
       "shorthand": "Arrow",
       "usagePct": 0.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 83 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/wizard-arrow.webp"
     },
     {
       "id": "mummy-curse",
@@ -672,7 +695,8 @@
       "shorthand": "Mummy",
       "usagePct": 2.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 210 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/mummy-curse.webp"
     },
     {
       "id": "unicorn-delta",
@@ -697,7 +721,8 @@
       "shorthand": "Delta",
       "usagePct": 1.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 117 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/unicorn-delta.webp"
     },
     {
       "id": "hells-scythe",
@@ -722,7 +747,8 @@
       "shorthand": "Scythe",
       "usagePct": 2.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 281 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/hells-scythe.webp"
     },
     {
       "id": "sol-eclipse",
@@ -747,7 +773,8 @@
       "shorthand": "Eclipse",
       "usagePct": 0.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 89 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/sol-eclipse.webp"
     },
     {
       "id": "hells-hammer",
@@ -772,7 +799,8 @@
       "shorthand": "Hammer",
       "usagePct": 1.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 107 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/hells-hammer.webp"
     },
     {
       "id": "cobalt-drake",
@@ -797,7 +825,8 @@
       "shorthand": "Drake",
       "usagePct": 1.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 105 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/cobalt-drake.webp"
     },
     {
       "id": "dran-sword",
@@ -822,7 +851,8 @@
       "shorthand": "Sword",
       "usagePct": 1.8,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 174 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/dran-sword.webp"
     },
     {
       "id": "dran-dagger",
@@ -847,7 +877,8 @@
       "shorthand": "Dagger",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 95 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/dran-dagger.webp"
     },
     {
       "id": "tyranno-roar",
@@ -872,7 +903,8 @@
       "shorthand": "Roar",
       "usagePct": 1.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 141 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/tyranno-roar.webp"
     },
     {
       "id": "samurai-calibur",
@@ -897,7 +929,8 @@
       "shorthand": "Calibur",
       "usagePct": 1.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 181 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/samurai-calibur.webp"
     },
     {
       "id": "dran-buster",
@@ -922,7 +955,8 @@
       "shorthand": "Buster",
       "usagePct": 4.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 454 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/dran-buster.webp"
     },
     {
       "id": "knight-mail",
@@ -947,7 +981,8 @@
       "shorthand": "Mail",
       "usagePct": 5.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 507 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/knight-mail.webp"
     },
     {
       "id": "shark-edge",
@@ -972,7 +1007,8 @@
       "shorthand": "Edge",
       "usagePct": 4.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 388 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/shark-edge.webp"
     },
     {
       "id": "samurai-saber",
@@ -997,7 +1033,8 @@
       "shorthand": "Saber",
       "usagePct": 2.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 204 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/samurai-saber.webp"
     },
     {
       "id": "dran-brave",
@@ -1022,7 +1059,8 @@
       "shorthand": "Brave",
       "usagePct": 1.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 108 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/dran-brave.webp"
     },
     {
       "id": "crimson-garuda",
@@ -1047,7 +1085,8 @@
       "shorthand": "Garuda",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 72 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/crimson-garuda.webp"
     },
     {
       "id": "whale-wave",
@@ -1072,7 +1111,8 @@
       "shorthand": "Whale",
       "usagePct": 2.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 250 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/whale-wave.webp"
     },
     {
       "id": "hells-chain",
@@ -1097,7 +1137,8 @@
       "shorthand": "Chain",
       "usagePct": 1.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 114 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/hells-chain.webp"
     },
     {
       "id": "unicorn-sting",
@@ -1122,7 +1163,8 @@
       "shorthand": "Sting",
       "usagePct": 2.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 213 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/unicorn-sting.webp"
     },
     {
       "id": "dranzer-spiral",
@@ -1145,7 +1187,8 @@
       "shorthand": "Spiral",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 16 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/dranzer-spiral.webp"
     },
     {
       "id": "phoenix-feather",
@@ -1168,7 +1211,8 @@
       "shorthand": "Feather",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 28 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/phoenix-feather.webp"
     },
     {
       "id": "samurai-steel",
@@ -1191,7 +1235,8 @@
       "shorthand": "",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 14 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/samurai-steel.webp"
     },
     {
       "id": "mammoth-tusk",
@@ -1214,7 +1259,8 @@
       "shorthand": "",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 23 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/mammoth-tusk.webp"
     },
     {
       "id": "knight-lance",
@@ -1237,7 +1283,8 @@
       "shorthand": "Lance",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 36 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/knight-lance.webp"
     },
     {
       "id": "leon-claw",
@@ -1260,7 +1307,8 @@
       "shorthand": "Claw",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 21 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/leon-claw.webp"
     },
     {
       "id": "viper-tail",
@@ -1283,7 +1331,8 @@
       "shorthand": "Viper",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 39 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/viper-tail.webp"
     },
     {
       "id": "rhino-horn",
@@ -1306,7 +1355,8 @@
       "shorthand": "Rhino",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 19 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/rhino-horn.webp"
     },
     {
       "id": "wyvern-gale",
@@ -1329,7 +1379,8 @@
       "shorthand": "Gale",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 29 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/wyvern-gale.webp"
     },
     {
       "id": "sphinx-cowl",
@@ -1352,7 +1403,8 @@
       "shorthand": "Sphinx",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 9 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/sphinx-cowl.webp"
     },
     {
       "id": "weiss-tiger",
@@ -1375,7 +1427,8 @@
       "shorthand": "Tiger",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 52 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/weiss-tiger.webp"
     },
     {
       "id": "black-shell",
@@ -1398,7 +1451,8 @@
       "shorthand": "Shell",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 19 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/black-shell.webp"
     },
     {
       "id": "tricera-press",
@@ -1421,7 +1475,8 @@
       "shorthand": "Tricera",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 43 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/tricera-press.webp"
     },
     {
       "id": "shelter-drake",
@@ -1444,7 +1499,8 @@
       "shorthand": "Shelter",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 21 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/shelter-drake.webp"
     },
     {
       "id": "heavens-ring",
@@ -1467,7 +1523,8 @@
       "shorthand": "Heavens",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 32 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/heavens-ring.webp"
     },
     {
       "id": "shinobi-shadow",
@@ -1490,7 +1547,8 @@
       "shorthand": "Shinobi",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 24 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/shinobi-shadow.webp"
     },
     {
       "id": "leon-crest",
@@ -1515,7 +1573,8 @@
       "shorthand": "Crest",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 42 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/leon-crest.webp"
     },
     {
       "id": "phoenix-rudder",
@@ -1540,7 +1599,8 @@
       "shorthand": "Rudder",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 47 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/phoenix-rudder.webp"
     },
     {
       "id": "ghost-circle",
@@ -1565,7 +1625,8 @@
       "shorthand": "Ghost",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 38 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/ghost-circle.webp"
     },
     {
       "id": "orochi-cluster",
@@ -1590,7 +1651,8 @@
       "shorthand": "Orochi",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 49 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/orochi-cluster.webp"
     },
     {
       "id": "wizard-arc",
@@ -1613,7 +1675,8 @@
       "shorthand": "Arc",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 44 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/wizard-arc.webp"
     },
     {
       "id": "perseus-dark",
@@ -1636,7 +1699,8 @@
       "shorthand": "Dark",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 15 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/perseus-dark.webp"
     },
     {
       "id": "knight-fortress",
@@ -1659,7 +1723,8 @@
       "shorthand": "Fortress",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 39 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/knight-fortress.webp"
     },
     {
       "id": "hells-nether",
@@ -1682,7 +1747,8 @@
       "shorthand": "Nether",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 30 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/blades/hells-nether.webp"
     }
   ],
   "ratchets": [
@@ -1711,7 +1777,8 @@
       "protrusions": 1,
       "usagePct": 75.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 7,289 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/1-60.webp"
     },
     {
       "id": "9-60",
@@ -1740,7 +1807,8 @@
       "protrusions": 9,
       "usagePct": 67.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 6,555 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/9-60.webp"
     },
     {
       "id": "3-60",
@@ -1768,7 +1836,8 @@
       "protrusions": 3,
       "usagePct": 46.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,488 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/3-60.webp"
     },
     {
       "id": "1-70",
@@ -1793,7 +1862,8 @@
       "protrusions": 1,
       "usagePct": 19.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,878 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/1-70.webp"
     },
     {
       "id": "1-50",
@@ -1819,7 +1889,8 @@
       "protrusions": 1,
       "usagePct": 8.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 832 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/1-50.webp"
     },
     {
       "id": "7-60",
@@ -1846,7 +1917,8 @@
       "protrusions": 7,
       "usagePct": 23.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,286 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/7-60.webp"
     },
     {
       "id": "5-60",
@@ -1871,7 +1943,8 @@
       "protrusions": 5,
       "usagePct": 26.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,532 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/5-60.webp"
     },
     {
       "id": "4-50",
@@ -1896,7 +1969,8 @@
       "protrusions": 4,
       "usagePct": 5.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 539 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/4-50.webp"
     },
     {
       "id": "6-60",
@@ -1922,7 +1996,8 @@
       "protrusions": 6,
       "usagePct": 6.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 601 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/6-60.webp"
     },
     {
       "id": "9-70",
@@ -1948,7 +2023,8 @@
       "protrusions": 9,
       "usagePct": 6.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 642 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/9-70.webp"
     },
     {
       "id": "0-60",
@@ -1973,7 +2049,8 @@
       "protrusions": 0,
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 70 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/0-60.webp"
     },
     {
       "id": "0-70",
@@ -1998,7 +2075,8 @@
       "protrusions": 0,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 53 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/0-70.webp"
     },
     {
       "id": "0-80",
@@ -2023,7 +2101,8 @@
       "protrusions": 0,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 51 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/0-80.webp"
     },
     {
       "id": "2-60",
@@ -2048,7 +2127,8 @@
       "protrusions": 2,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 58 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/2-60.webp"
     },
     {
       "id": "2-70",
@@ -2073,7 +2153,8 @@
       "protrusions": 2,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 21 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/2-70.webp"
     },
     {
       "id": "2-80",
@@ -2096,7 +2177,8 @@
       "protrusions": 2,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 8 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/2-80.webp"
     },
     {
       "id": "3-70",
@@ -2121,7 +2203,8 @@
       "protrusions": 3,
       "usagePct": 2.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 279 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/3-70.webp"
     },
     {
       "id": "3-80",
@@ -2146,7 +2229,8 @@
       "protrusions": 3,
       "usagePct": 1.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 152 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/3-80.webp"
     },
     {
       "id": "3-85",
@@ -2171,7 +2255,8 @@
       "protrusions": 3,
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 29 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/3-85.webp"
     },
     {
       "id": "4-55",
@@ -2196,7 +2281,8 @@
       "protrusions": 4,
       "usagePct": 2.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 228 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/4-55.webp"
     },
     {
       "id": "4-60",
@@ -2221,7 +2307,8 @@
       "protrusions": 4,
       "usagePct": 2.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 256 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/4-60.webp"
     },
     {
       "id": "4-70",
@@ -2246,7 +2333,8 @@
       "protrusions": 4,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 39 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/4-70.webp"
     },
     {
       "id": "4-80",
@@ -2269,7 +2357,8 @@
       "protrusions": 4,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 35 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/4-80.webp"
     },
     {
       "id": "5-50",
@@ -2295,7 +2384,8 @@
       "protrusions": 5,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 40 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/5-50.webp"
     },
     {
       "id": "5-70",
@@ -2320,7 +2410,8 @@
       "protrusions": 5,
       "usagePct": 2.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 240 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/5-70.webp"
     },
     {
       "id": "5-80",
@@ -2343,7 +2434,8 @@
       "protrusions": 5,
       "usagePct": 1.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 96 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/5-80.webp"
     },
     {
       "id": "6-70",
@@ -2366,7 +2458,8 @@
       "protrusions": 6,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 59 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/6-70.webp"
     },
     {
       "id": "6-80",
@@ -2389,7 +2482,8 @@
       "protrusions": 6,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 22 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/6-80.webp"
     },
     {
       "id": "7-55",
@@ -2412,7 +2506,8 @@
       "protrusions": 7,
       "usagePct": 1.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 105 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/7-55.webp"
     },
     {
       "id": "7-70",
@@ -2438,7 +2533,8 @@
       "protrusions": 7,
       "usagePct": 6.8,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 654 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/7-70.webp"
     },
     {
       "id": "8-70",
@@ -2463,7 +2559,8 @@
       "protrusions": 8,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 51 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/8-70.webp"
     },
     {
       "id": "8-80",
@@ -2486,7 +2583,8 @@
       "protrusions": 8,
       "usagePct": 0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/8-80.webp"
     },
     {
       "id": "9-65",
@@ -2509,7 +2607,8 @@
       "protrusions": 9,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 21 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/9-65.webp"
     },
     {
       "id": "9-80",
@@ -2532,7 +2631,8 @@
       "protrusions": 9,
       "usagePct": 1.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 159 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/9-80.webp"
     },
     {
       "id": "m-85",
@@ -2557,7 +2657,8 @@
       "protrusions": "M",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 30 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/ratchets/m-85.webp"
     },
     {
       "id": "1-80",
@@ -2586,7 +2687,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 234 top cuts",
       "usageAsOf": "2026-09-20",
       "code": "BX/UX ratchet",
-      "notes": "Gap-fill 2026-09-21 — on BEYWATCH, was missing from catalog"
+      "notes": "Gap-fill 2026-09-21 — on BEYWATCH, was missing from catalog",
+      "image": "img/ratchets/1-80.webp"
     },
     {
       "id": "7-80",
@@ -2611,7 +2713,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 47 top cuts",
       "usageAsOf": "2026-09-20",
       "code": "BX/UX ratchet",
-      "notes": "Gap-fill 2026-09-21 — on BEYWATCH, was missing from catalog"
+      "notes": "Gap-fill 2026-09-21 — on BEYWATCH, was missing from catalog",
+      "image": "img/ratchets/7-80.webp"
     }
   ],
   "bits": [
@@ -2639,7 +2742,8 @@
       "mech": "Hexagonal tip; high burst resist",
       "usagePct": 47.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,587 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/hexa.webp"
     },
     {
       "id": "free-ball",
@@ -2666,7 +2770,8 @@
       "mech": "Free-spinning axle ball",
       "usagePct": 24.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,323 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/free-ball.webp"
     },
     {
       "id": "low-rush",
@@ -2692,7 +2797,8 @@
       "mech": "Lower Rush flat",
       "usagePct": 46.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,465 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/low-rush.webp"
     },
     {
       "id": "rush",
@@ -2718,7 +2824,8 @@
       "mech": "Flat rush tip",
       "usagePct": 45.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4,418 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/rush.webp"
     },
     {
       "id": "level",
@@ -2743,7 +2850,8 @@
       "mech": "Leveling tip behavior",
       "usagePct": 21.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,087 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/level.webp"
     },
     {
       "id": "kick",
@@ -2770,7 +2878,8 @@
       "mech": "Kick/pocket oriented",
       "usagePct": 26.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,579 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/kick.webp"
     },
     {
       "id": "elevate",
@@ -2795,7 +2904,8 @@
       "mech": "Height-changing / elevate motion",
       "usagePct": 22.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2,191 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/elevate.webp"
     },
     {
       "id": "narrow",
@@ -2819,7 +2929,8 @@
       "mech": "Newer CX tip",
       "usagePct": 1.8,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 170 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/narrow.webp"
     },
     {
       "id": "jolt",
@@ -2843,7 +2954,8 @@
       "mech": "Aggressive attack tip",
       "usagePct": 5.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 521 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/jolt.webp"
     },
     {
       "id": "ball",
@@ -2867,7 +2979,8 @@
       "mech": "Classic ball tip",
       "usagePct": 17.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,713 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/ball.webp"
     },
     {
       "id": "flat",
@@ -2891,7 +3004,8 @@
       "mech": "Flat tip",
       "usagePct": 3.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 313 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/flat.webp"
     },
     {
       "id": "low-flat",
@@ -2916,7 +3030,8 @@
       "mech": "Shorter Flat",
       "usagePct": 5.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 495 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/low-flat.webp"
     },
     {
       "id": "accel",
@@ -2940,7 +3055,8 @@
       "mech": "Accel flat variant",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 67 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/accel.webp"
     },
     {
       "id": "gear-flat",
@@ -2964,7 +3080,8 @@
       "mech": "Geared flat",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 69 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/gear-flat.webp"
     },
     {
       "id": "gear-rush",
@@ -2988,7 +3105,8 @@
       "mech": "Geared Rush",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 21 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/gear-rush.webp"
     },
     {
       "id": "under-flat",
@@ -3012,7 +3130,8 @@
       "mech": "Under-profile flat",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 94 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/under-flat.webp"
     },
     {
       "id": "free-flat",
@@ -3036,7 +3155,8 @@
       "mech": "Free-spinning Flat",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 47 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/free-flat.webp"
     },
     {
       "id": "rubber-accel",
@@ -3060,7 +3180,8 @@
       "mech": "Rubber Accel",
       "usagePct": 2.8,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 273 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/rubber-accel.webp"
     },
     {
       "id": "turbo",
@@ -3084,7 +3205,8 @@
       "mech": "CX turbo tip",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 8 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/turbo.webp"
     },
     {
       "id": "zap",
@@ -3108,7 +3230,8 @@
       "mech": "Unique attack tip",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 70 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/zap.webp"
     },
     {
       "id": "quake",
@@ -3132,7 +3255,8 @@
       "mech": "Oscillating attack",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 35 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/quake.webp"
     },
     {
       "id": "cyclone",
@@ -3156,7 +3280,8 @@
       "mech": "Left-spin cyclone",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 100 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/cyclone.webp"
     },
     {
       "id": "merge",
@@ -3181,7 +3306,8 @@
       "mech": "Merge tip",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 38 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/merge.webp"
     },
     {
       "id": "ignition",
@@ -3205,7 +3331,8 @@
       "mech": "CX Bahamut tip",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 30 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/ignition.webp"
     },
     {
       "id": "bound-spike",
@@ -3229,7 +3356,8 @@
       "mech": "Bound spike",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 46 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/bound-spike.webp"
     },
     {
       "id": "taper",
@@ -3253,7 +3381,8 @@
       "mech": "Tapered tip",
       "usagePct": 6.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 602 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/taper.webp"
     },
     {
       "id": "high-taper",
@@ -3277,7 +3406,8 @@
       "mech": "Taller taper",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 65 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/high-taper.webp"
     },
     {
       "id": "needle",
@@ -3301,7 +3431,8 @@
       "mech": "Sharp needle",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 60 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/needle.webp"
     },
     {
       "id": "high-needle",
@@ -3325,7 +3456,8 @@
       "mech": "Tall needle",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 71 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/high-needle.webp"
     },
     {
       "id": "point",
@@ -3350,7 +3482,8 @@
       "mech": "Point tip",
       "usagePct": 12.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,205 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/point.webp"
     },
     {
       "id": "orb",
@@ -3374,7 +3507,8 @@
       "mech": "Orb tip",
       "usagePct": 2.8,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 269 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/orb.webp"
     },
     {
       "id": "low-orb",
@@ -3399,7 +3533,8 @@
       "mech": "Lower Orb",
       "usagePct": 9.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 902 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/low-orb.webp"
     },
     {
       "id": "spike",
@@ -3423,7 +3558,8 @@
       "mech": "Spike tip",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 28 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/spike.webp"
     },
     {
       "id": "gear-ball",
@@ -3447,7 +3583,8 @@
       "mech": "Geared ball",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 41 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/gear-ball.webp"
     },
     {
       "id": "gear-point",
@@ -3471,7 +3608,8 @@
       "mech": "Geared point",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 94 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/gear-point.webp"
     },
     {
       "id": "gear-needle",
@@ -3496,7 +3634,8 @@
       "mech": "Geared needle",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 28 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/gear-needle.webp"
     },
     {
       "id": "disc-ball",
@@ -3520,7 +3659,8 @@
       "mech": "Disc + ball",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 64 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/disc-ball.webp"
     },
     {
       "id": "metal-needle",
@@ -3544,7 +3684,8 @@
       "mech": "Metal needle",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 5 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/metal-needle.webp"
     },
     {
       "id": "unite",
@@ -3568,7 +3709,8 @@
       "mech": "Unite tip",
       "usagePct": 2.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 278 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/unite.webp"
     },
     {
       "id": "glide",
@@ -3592,7 +3734,8 @@
       "mech": "Glide stamina",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 36 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/glide.webp"
     },
     {
       "id": "under-needle",
@@ -3617,7 +3760,8 @@
       "mech": "Under needle",
       "usagePct": 3.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 313 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/under-needle.webp"
     },
     {
       "id": "wedge",
@@ -3642,7 +3786,8 @@
       "mech": "Wedge tip",
       "usagePct": 5.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 516 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/wedge.webp"
     },
     {
       "id": "vortex",
@@ -3666,7 +3811,8 @@
       "mech": "Vortex tip",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 31 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/vortex.webp"
     },
     {
       "id": "wall-ball",
@@ -3690,7 +3836,8 @@
       "mech": "Wall ball",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 92 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/wall-ball.webp"
     },
     {
       "id": "trans-kick",
@@ -3714,7 +3861,8 @@
       "mech": "Transform kick",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 44 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/trans-kick.webp"
     },
     {
       "id": "trans-point",
@@ -3738,7 +3886,8 @@
       "mech": "Transform point",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 37 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/trans-point.webp"
     },
     {
       "id": "operate",
@@ -3762,7 +3911,8 @@
       "mech": "Operate tip",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 26 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/operate.webp"
     },
     {
       "id": "yielding",
@@ -3786,7 +3936,8 @@
       "mech": "Yielding tip",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 21 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/yielding.webp"
     },
     {
       "id": "dot",
@@ -3810,7 +3961,8 @@
       "mech": "Dot tip",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 57 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/dot.webp"
     },
     {
       "id": "disk-spike",
@@ -3834,7 +3986,8 @@
       "scoreBase": 45,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 2 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/disk-spike.webp"
     },
     {
       "id": "wall-wedge",
@@ -3857,7 +4010,8 @@
       "scoreBase": 45,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 14 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/wall-wedge.webp"
     },
     {
       "id": "gear-unite",
@@ -3880,7 +4034,8 @@
       "scoreBase": 45,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4 top cuts",
-      "usageAsOf": "2026-09-20"
+      "usageAsOf": "2026-09-20",
+      "image": "img/bits/gear-unite.webp"
     }
   ],
   "lockChips": [
@@ -3909,7 +4064,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 578 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": true
+      "metal": true,
+      "image": "img/lockChips/emperor.webp"
     },
     {
       "id": "pegasus",
@@ -3936,7 +4092,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 411 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/pegasus.webp"
     },
     {
       "id": "valkyrie",
@@ -3963,7 +4120,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 245 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": true
+      "metal": true,
+      "image": "img/lockChips/valkyrie.webp"
     },
     {
       "id": "sol",
@@ -3988,7 +4146,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 102 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/sol.webp"
     },
     {
       "id": "dran",
@@ -4015,7 +4174,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 87 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/dran.webp"
     },
     {
       "id": "hells",
@@ -4040,7 +4200,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 76 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/hells.webp"
     },
     {
       "id": "bahamut",
@@ -4065,7 +4226,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 68 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/bahamut.webp"
     },
     {
       "id": "fox",
@@ -4090,7 +4252,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 70 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/fox.webp"
     },
     {
       "id": "unicorn",
@@ -4115,7 +4278,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 59 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/unicorn.webp"
     },
     {
       "id": "wolf",
@@ -4140,7 +4304,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 61 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/wolf.webp"
     },
     {
       "id": "cerberus",
@@ -4165,7 +4330,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 50 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/cerberus.webp"
     },
     {
       "id": "perseus",
@@ -4190,7 +4356,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 43 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/perseus.webp"
     },
     {
       "id": "phoenix",
@@ -4215,7 +4382,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 35 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/phoenix.webp"
     },
     {
       "id": "wizard",
@@ -4241,7 +4409,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 37 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/wizard.webp"
     },
     {
       "id": "hornet",
@@ -4268,7 +4437,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 15 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/hornet.webp"
     },
     {
       "id": "knight",
@@ -4293,7 +4463,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 20 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/knight.webp"
     },
     {
       "id": "kraken",
@@ -4320,7 +4491,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 15 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/kraken.webp"
     },
     {
       "id": "ragna",
@@ -4345,7 +4517,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 24 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/ragna.webp"
     },
     {
       "id": "rhino",
@@ -4372,7 +4545,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 20 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/rhino.webp"
     },
     {
       "id": "whale",
@@ -4399,7 +4573,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 16 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/whale.webp"
     },
     {
       "id": "brachio",
@@ -4426,7 +4601,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 8 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/brachio.webp"
     },
     {
       "id": "leon",
@@ -4453,7 +4629,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 11 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/leon.webp"
     },
     {
       "id": "stag",
@@ -4480,7 +4657,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 10 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": null
     },
     {
       "id": "croco",
@@ -4507,7 +4685,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/croco.webp"
     },
     {
       "id": "drake",
@@ -4534,7 +4713,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/drake.webp"
     },
     {
       "id": "enlil",
@@ -4561,7 +4741,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/enlil.webp"
     },
     {
       "id": "afc",
@@ -4588,7 +4769,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": null
     },
     {
       "id": "croc",
@@ -4615,7 +4797,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/croc.webp"
     },
     {
       "id": "eva",
@@ -4642,7 +4825,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/eva.webp"
     },
     {
       "id": "nfc",
@@ -4669,7 +4853,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": null
     },
     {
       "id": "tiga",
@@ -4696,7 +4881,8 @@
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
       "usageAsOf": "2026-09-20",
       "kind": "lockChip",
-      "metal": false
+      "metal": false,
+      "image": "img/lockChips/tiga.webp"
     }
   ],
   "mainBlades": [
@@ -4729,7 +4915,8 @@
       "usagePct": 12.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1,214 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/blast.webp"
     },
     {
       "id": "delta",
@@ -4759,7 +4946,8 @@
       "usagePct": 1.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 117 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/delta.webp"
     },
     {
       "id": "brave",
@@ -4789,7 +4977,8 @@
       "usagePct": 1.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 108 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/brave.webp"
     },
     {
       "id": "blitz",
@@ -4819,7 +5008,8 @@
       "usagePct": 0.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 85 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/blitz.webp"
     },
     {
       "id": "eclipse",
@@ -4849,7 +5039,8 @@
       "usagePct": 0.9,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 89 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/eclipse.webp"
     },
     {
       "id": "rage",
@@ -4881,7 +5072,8 @@
       "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 62 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/rage.webp"
     },
     {
       "id": "arc",
@@ -4911,7 +5103,8 @@
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 44 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/arc.webp"
     },
     {
       "id": "flare",
@@ -4941,7 +5134,8 @@
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 44 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/flare.webp"
     },
     {
       "id": "might",
@@ -4971,7 +5165,8 @@
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 53 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/might.webp"
     },
     {
       "id": "brush",
@@ -5001,7 +5196,8 @@
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 41 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/brush.webp"
     },
     {
       "id": "fortress",
@@ -5031,7 +5227,8 @@
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 39 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/fortress.webp"
     },
     {
       "id": "hunt",
@@ -5061,7 +5258,8 @@
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 25 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/hunt.webp"
     },
     {
       "id": "dark",
@@ -5091,7 +5289,8 @@
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 15 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/dark.webp"
     },
     {
       "id": "reaper",
@@ -5121,7 +5320,8 @@
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 23 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/reaper.webp"
     },
     {
       "id": "volt",
@@ -5151,7 +5351,8 @@
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 19 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/volt.webp"
     },
     {
       "id": "antler",
@@ -5181,7 +5382,8 @@
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 5 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/antler.webp"
     },
     {
       "id": "fang",
@@ -5211,7 +5413,8 @@
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 11 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/fang.webp"
     },
     {
       "id": "flame",
@@ -5241,7 +5444,8 @@
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 16 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/flame.webp"
     },
     {
       "id": "wriggle",
@@ -5271,7 +5475,8 @@
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 8 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/wriggle.webp"
     },
     {
       "id": "fort",
@@ -5301,7 +5506,8 @@
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 3 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/fort.webp"
     },
     {
       "id": "tread",
@@ -5331,7 +5537,8 @@
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 1 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/tread.webp"
     },
     {
       "id": "whip",
@@ -5361,7 +5568,8 @@
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 13 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "mainBlade"
+      "kind": "mainBlade",
+      "image": "img/mainBlades/whip.webp"
     }
   ],
   "assistBlades": [
@@ -5389,7 +5597,8 @@
       "usagePct": 9.6,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 932 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/heavy.webp"
     },
     {
       "id": "wheel",
@@ -5414,7 +5623,8 @@
       "usagePct": 4.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 394 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/wheel.webp"
     },
     {
       "id": "jaggy",
@@ -5438,7 +5648,8 @@
       "usagePct": 1.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 166 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/jaggy.webp"
     },
     {
       "id": "slash",
@@ -5463,7 +5674,8 @@
       "usagePct": 1.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 117 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/slash.webp"
     },
     {
       "id": "free",
@@ -5488,7 +5700,8 @@
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 71 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/free.webp"
     },
     {
       "id": "assault",
@@ -5512,7 +5725,8 @@
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 40 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/assault.webp"
     },
     {
       "id": "turn",
@@ -5536,7 +5750,8 @@
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 38 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/turn.webp"
     },
     {
       "id": "bumper",
@@ -5560,7 +5775,8 @@
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 26 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/bumper.webp"
     },
     {
       "id": "dual",
@@ -5584,7 +5800,8 @@
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 28 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/dual.webp"
     },
     {
       "id": "knuckle",
@@ -5608,7 +5825,8 @@
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 18 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/knuckle.webp"
     },
     {
       "id": "massive",
@@ -5632,7 +5850,8 @@
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 15 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/massive.webp"
     },
     {
       "id": "round",
@@ -5656,7 +5875,8 @@
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 17 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/round.webp"
     },
     {
       "id": "charge",
@@ -5680,7 +5900,8 @@
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 6 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/charge.webp"
     },
     {
       "id": "erase",
@@ -5704,7 +5925,8 @@
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 10 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/erase.webp"
     },
     {
       "id": "vertical",
@@ -5728,7 +5950,8 @@
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 9 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/vertical.webp"
     },
     {
       "id": "gravity",
@@ -5752,7 +5975,8 @@
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 3 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/gravity.webp"
     },
     {
       "id": "odd",
@@ -5776,7 +6000,8 @@
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 3 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/odd.webp"
     },
     {
       "id": "zillion",
@@ -5800,7 +6025,8 @@
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 4 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/zillion.webp"
     },
     {
       "id": "quell",
@@ -5824,7 +6050,8 @@
       "usagePct": 0,
       "usageNote": "BEYWATCH top-cut share (pickRate) Sep 2026; 0 top cuts",
       "usageAsOf": "2026-09-20",
-      "kind": "assistBlade"
+      "kind": "assistBlade",
+      "image": "img/assistBlades/quell.webp"
     }
   ]
 }
