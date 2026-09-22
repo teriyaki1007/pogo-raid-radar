@@ -86,6 +86,24 @@
       "dueLabel": "Tue 6 Oct 2026",
       "priority": "medium",
       "status": "open"
+    },
+    {
+      "id": "math-hw-check-sep25",
+      "class": "Math",
+      "title": "HW Check",
+      "due": "2026-09-25",
+      "dueLabel": "Fri 25 Sep 2026",
+      "priority": "medium",
+      "status": "open"
+    },
+    {
+      "id": "socials-globalization-quiz-1",
+      "class": "Socials",
+      "title": "Globalization quiz #1",
+      "due": "2026-10-02",
+      "dueLabel": "Fri 2 Oct 2026",
+      "priority": "high",
+      "status": "open"
     }
   ]
 }
