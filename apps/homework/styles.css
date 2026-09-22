@@ -320,3 +320,44 @@ h1 {
     grid-column: 1 / -1;
   }
 }
+
+
+.row {
+  grid-template-columns: auto 1fr;
+  align-items: start;
+}
+
+.check-wrap {
+  display: flex;
+  align-items: flex-start;
+  padding-top: 0.15rem;
+  cursor: pointer;
+}
+
+.check {
+  width: 1.15rem;
+  height: 1.15rem;
+  accent-color: var(--accent);
+  cursor: pointer;
+}
+
+.row-body {
+  min-width: 0;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.row.done .title {
+  text-decoration: line-through;
+  color: var(--muted);
+}
+
+@media (min-width: 520px) {
+  .row {
+    grid-template-columns: auto 1fr;
+  }
+
+  .meta {
+    grid-column: auto;
+  }
+}

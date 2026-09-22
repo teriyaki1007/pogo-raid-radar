@@ -13,7 +13,7 @@
       <header class="hero">
         <p class="eyebrow">School</p>
         <h1>Homework</h1>
-        <p class="subtitle">Upcoming assignments and assessments</p>
+        <p class="subtitle">Upcoming assignments and assessments — check off when done</p>
         <p class="tz" id="tz-label">Timezone: HKT / Asia/Hong_Kong</p>
       </header>
 
@@ -29,12 +29,12 @@
       </section>
 
       <section class="panel done-panel" aria-labelledby="done-heading">
-        <button type="button" class="done-toggle" id="done-toggle" aria-expanded="false" aria-controls="done-body">
+        <button type="button" class="done-toggle" id="done-toggle" aria-expanded="true" aria-controls="done-body">
           <h2 id="done-heading">Done</h2>
           <span class="count" id="done-count"></span>
           <span class="chevron" aria-hidden="true">▸</span>
         </button>
-        <div id="done-body" class="done-body" hidden>
+        <div id="done-body" class="done-body">
           <div id="done-list" class="list" role="list"></div>
           <p class="empty" id="done-empty" hidden>No completed items yet.</p>
         </div>
@@ -42,8 +42,7 @@
 
       <footer class="footer">
         <p>
-          Homework + Assessment Helper owns this data. Edit
-          <code>apps/homework/assignments.json</code> and rebuild to refresh.
+          Check the box to mark finished — past items stay listed under Done. Marks save in this browser.
         </p>
         <p><a href="/">← All apps</a></p>
       </footer>
