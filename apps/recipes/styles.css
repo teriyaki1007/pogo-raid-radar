@@ -483,7 +483,24 @@ textarea { min-height: 220px; line-height: 1.55; }
   border: 0;
 }
 
-/* Card delete control — subtle tomato/sage match */
+/* Delete controls stay visually clear without overpowering recipe content. */
+.btn-delete-page {
+  margin: 0 0 0.85rem;
+  background: var(--tomato);
+  border-color: var(--tomato);
+  color: #fff;
+  box-shadow: 0 6px 14px rgba(196, 92, 62, 0.2);
+}
+.btn-delete-page:hover {
+  background: #a9472f;
+  border-color: #a9472f;
+  color: #fff;
+}
+.btn-delete-page:focus-visible {
+  outline: 2px solid var(--tomato-soft);
+  outline-offset: 3px;
+}
+
 .card-top {
   display: flex;
   align-items: flex-start;
@@ -501,9 +518,9 @@ textarea { min-height: 220px; line-height: 1.55; }
   margin: 0.1rem 0 0;
   padding: 0.28rem 0.65rem;
   border-radius: 999px;
-  border: 1px solid rgba(196, 92, 62, 0.28);
-  background: rgba(196, 92, 62, 0.06);
-  color: #9a422c;
+  border: 1px solid var(--tomato);
+  background: var(--tomato);
+  color: #fff;
   font: inherit;
   font-size: 0.72rem;
   font-weight: 700;
@@ -514,9 +531,9 @@ textarea { min-height: 220px; line-height: 1.55; }
   transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
 }
 .btn-delete:hover {
-  background: rgba(196, 92, 62, 0.14);
-  border-color: var(--tomato);
-  color: var(--tomato);
+  background: #a9472f;
+  border-color: #a9472f;
+  color: #fff;
 }
 .btn-delete:focus-visible {
   outline: 2px solid var(--tomato-soft);
