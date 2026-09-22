@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-09-22",
-    "asOfLabel": "22 Sep 2026 ~11:13 PM HKT",
+    "asOf": "2026-09-23",
+    "asOfLabel": "23 Sep 2026 ~6:52 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Horizons event raids + Zamazenta 5★ / Mega Venusaur ended Tue 22 Sep evening local. Overnight gap now — Current tab is empty for 1★/3★/5★/Mega until Wed 23 Sep 6:00 AM. Then: regional Ultra Beasts (Xurkitree Asia-Pacific · Pheromosa Europe/ME/Africa/India · Buzzwole Americas/Greenland) + Mega Malamar through Tue 29 Sep 10 PM. Shadow package (Thundurus weekends) continues. HK/Asia-Pacific: prepare Ground for Xurkitree.",
-      "endsAtLabel": "Gap → Wed 23 Sep 6:00 AM · UB / Mega Malamar → Tue 29 Sep 10:00 PM · Next: Xerneas / Mega Victreebel Wed 30 Sep 6:00 AM"
+      "text": "LIVE now (from Wed 23 Sep 6:00 AM local): regional Ultra Beasts — Xurkitree (Asia-Pacific / HK), Pheromosa (Europe / ME / Africa / India), Buzzwole (Americas & Greenland) — plus Mega Malamar through Tue 29 Sep 10:00 PM. Raid Hour tonight 6–7 PM for your region's UB. Shadow package (Thundurus weekends) unchanged. 1★/3★ charts not yet republished by Leek Duck / GO Hub after Horizons ended — Current tab lists confirmed 5★ / Mega / Shadow only until those sources update.",
+      "endsAtLabel": "UB / Mega Malamar → Tue 29 Sep 10:00 PM · Raid Hour Wed 23 Sep 6–7 PM · Next: Xerneas / Mega Victreebel Wed 30 Sep 6:00 AM"
     },
     "legend": {
       "standard": {
@@ -537,7 +537,7 @@
       "catchForm": null,
       "tier": "5",
       "tierLabel": "5★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "region": "Asia-Pacific",
@@ -600,7 +600,7 @@
       "catchForm": null,
       "tier": "5",
       "tierLabel": "5★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "region": "Europe / Middle East / Africa / India",
@@ -668,7 +668,7 @@
       "catchForm": null,
       "tier": "5",
       "tierLabel": "5★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "region": "Americas & Greenland",
@@ -736,7 +736,7 @@
       "catchForm": "Malamar",
       "tier": "mega",
       "tierLabel": "Mega",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": true,
       "window": "23–29 Sep 2026 (6:00 AM → 10:00 PM local)",
@@ -966,16 +966,17 @@
     },
     {
       "id": "ubs-malamar",
-      "when": "Wed 23 Sep 6:00 AM local (next — ~hours away)",
-      "title": "Regional Ultra Beasts + Mega Malamar",
-      "impact": "Tier 5 becomes regional (Xurkitree / Pheromosa / Buzzwole); Mega Malamar. See Upcoming tab.",
+      "when": "Wed 23 Sep 6:00 AM – Tue 29 Sep 10:00 PM local (LIVE)",
+      "title": "Regional Ultra Beasts + Mega Malamar (LIVE)",
+      "impact": "5★ regional: Xurkitree (Asia-Pacific) / Pheromosa (Europe–ME–Africa–India) / Buzzwole (Americas & Greenland). Mega Malamar worldwide. 1★/3★ not yet confirmed by primary charts.",
       "urgent": true
     },
     {
       "id": "raid-hour-ubs",
-      "when": "Wed 23 Sep 6:00–7:00 PM local",
-      "title": "Raid Hour: regional Ultra Beasts",
-      "impact": "Extra 5★ density for regional UBs"
+      "when": "Wed 23 Sep 6:00–7:00 PM local (tonight)",
+      "title": "Raid Hour: regional Ultra Beasts (tonight)",
+      "impact": "Extra 5★ density for your region's UB",
+      "urgent": true
     },
     {
       "id": "spotlight-rattata",
