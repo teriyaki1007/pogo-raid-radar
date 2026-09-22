@@ -22,7 +22,7 @@ Open `http://localhost:8765/`.
 | `recipes/*.html` | Individual readable recipe pages |
 | `data/recipes.json` | Published catalog (id, title, blurb, href, tags, art) |
 | `styles.css` | Shared design system |
-| `js/home.js` | Loads catalog + `recipe-site-imports-v1` into the grid |
+| `js/home.js` | Loads catalog + imports; delete controls; lobster purge; hidden list |
 | `js/import.js` | Parse / preview / save imports |
 | `assets/*.svg` | Original plating illustrations (CSS/SVG only) |
 
@@ -63,7 +63,17 @@ Mobile-first soft cards, generous type — distinct from dark groot apps (Raid R
 - Home grid merges catalog + imports (imports are browser-local until you promote them to JSON + a real page).
 - Parsing is **approximate** — captions are often incomplete or gated.
 
+## Delete & hide recipes
+
+On the home shelf, every card has a **Delete** control (confirm dialog first):
+
+- **Imported** cards: removed from `localStorage` key `recipe-site-imports-v1`, then the grid re-renders.
+- **Catalog** cards: id is added to `recipe-site-hidden-v1` (array of ids) so they disappear from the grid without editing server files. Use **Restore hidden catalog recipes** in the footer to clear that list.
+
+On first load, `home.js` also auto-removes any imported recipe whose title matches lobster + mac (case-insensitive), so stray Lobster Mac and Cheese imports disappear for returning users.
+
 ## Mounting on groot
+
 
 Pokemon Go Helper can mount this site at `/recipes/` on groot when ready (static assets + `recipes.json` fetch). Until then, treat `/workspace/recipe-site/` as the source of truth for Recipe Site Studio.
 

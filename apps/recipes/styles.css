@@ -482,3 +482,55 @@ textarea { min-height: 220px; line-height: 1.55; }
   clip: rect(0, 0, 0, 0);
   border: 0;
 }
+
+/* Card delete control — subtle tomato/sage match */
+.card-top {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 0.65rem;
+}
+.card-top h3 {
+  flex: 1;
+  min-width: 0;
+}
+
+.btn-delete {
+  appearance: none;
+  flex-shrink: 0;
+  margin: 0.1rem 0 0;
+  padding: 0.28rem 0.65rem;
+  border-radius: 999px;
+  border: 1px solid rgba(196, 92, 62, 0.28);
+  background: rgba(196, 92, 62, 0.06);
+  color: #9a422c;
+  font: inherit;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  cursor: pointer;
+  line-height: 1.2;
+  transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+.btn-delete:hover {
+  background: rgba(196, 92, 62, 0.14);
+  border-color: var(--tomato);
+  color: var(--tomato);
+}
+.btn-delete:focus-visible {
+  outline: 2px solid var(--tomato-soft);
+  outline-offset: 2px;
+}
+
+.footer-actions {
+  margin-top: 0.75rem;
+}
+.footer-actions a {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--ink-muted);
+}
+.footer-actions a:hover {
+  color: var(--sage);
+}
