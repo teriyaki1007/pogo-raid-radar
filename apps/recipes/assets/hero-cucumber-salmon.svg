@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Cucumber Salmon Roll Salad</title>
+  <desc id="heroDesc">Vector illustration of a fresh bowl with cucumber ribbons, salmon cubes, and dual sauces</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E8F6EC"/>
+      <stop offset="55%" stop-color="#F7FBF8"/>
+      <stop offset="100%" stop-color="#FFE8DE"/>
+    </linearGradient>
+    <linearGradient id="bowl" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F0F4F1"/>
+    </linearGradient>
+    <linearGradient id="salmon" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF9B7A"/>
+      <stop offset="100%" stop-color="#E86A4A"/>
+    </linearGradient>
+    <linearGradient id="cuke" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#A8E0B5"/>
+      <stop offset="100%" stop-color="#5FB878"/>
+    </linearGradient>
+    <radialGradient id="shadow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2A4A35" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#2A4A35" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="640" height="420" rx="28" fill="url(#bg)"/>
+  <!-- soft leaf accents -->
+  <ellipse cx="90" cy="80" rx="36" ry="16" fill="#7BC98A" opacity="0.35" transform="rotate(-25 90 80)"/>
+  <ellipse cx="560" cy="70" rx="40" ry="14" fill="#F4A27A" opacity="0.28" transform="rotate(20 560 70)"/>
+  <ellipse cx="580" cy="340" rx="50" ry="18" fill="#7BC98A" opacity="0.25" transform="rotate(-12 580 340)"/>
+  <!-- plate shadow -->
+  <ellipse cx="320" cy="355" rx="210" ry="28" fill="url(#shadow)"/>
+  <!-- bowl -->
+  <ellipse cx="320" cy="300" rx="200" ry="55" fill="#E6EEE8"/>
+  <ellipse cx="320" cy="250" rx="210" ry="120" fill="url(#bowl)" stroke="#D5E2D8" stroke-width="3"/>
+  <ellipse cx="320" cy="250" rx="190" ry="100" fill="#F9FCFA"/>
+  <!-- cucumber ribbons -->
+  <path d="M160 250 C200 210, 240 290, 280 250 C310 220, 330 280, 360 245 C390 210, 420 275, 460 240 C490 215, 510 260, 480 270 C430 290, 380 300, 320 305 C250 310, 200 290, 160 250 Z" fill="url(#cuke)" opacity="0.9"/>
+  <path d="M180 235 C220 200, 250 270, 290 235 C320 210, 345 265, 375 230 C405 200, 435 255, 470 225" fill="none" stroke="#3D9A58" stroke-width="3" stroke-linecap="round" opacity="0.45"/>
+  <path d="M195 265 C235 245, 270 285, 310 260 C345 240, 370 285, 405 255 C435 235, 455 270, 475 255" fill="none" stroke="#2F7A45" stroke-width="2.5" stroke-linecap="round" opacity="0.35"/>
+  <!-- salmon cubes -->
+  <g>
+    <rect x="250" y="195" width="48" height="36" rx="8" fill="url(#salmon)" transform="rotate(-8 274 213)"/>
+    <rect x="305" y="185" width="52" height="38" rx="8" fill="url(#salmon)" transform="rotate(6 331 204)"/>
+    <rect x="360" y="200" width="46" height="34" rx="8" fill="url(#salmon)" transform="rotate(-4 383 217)"/>
+    <rect x="285" y="225" width="44" height="32" rx="8" fill="#F07A58" transform="rotate(10 307 241)"/>
+    <!-- sear marks -->
+    <path d="M258 205 L278 212" stroke="#C94F32" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+    <path d="M318 195 L340 200" stroke="#C94F32" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+    <path d="M370 210 L388 216" stroke="#C94F32" stroke-width="2" stroke-linecap="round" opacity="0.45"/>
+  </g>
+  <!-- red onion arcs -->
+  <path d="M210 220 Q230 200 250 215" fill="none" stroke="#C97A9A" stroke-width="4" stroke-linecap="round" opacity="0.75"/>
+  <path d="M420 215 Q445 200 465 222" fill="none" stroke="#C97A9A" stroke-width="4" stroke-linecap="round" opacity="0.7"/>
+  <!-- cilantro leaves -->
+  <g fill="#3FA35A">
+    <ellipse cx="230" cy="195" rx="10" ry="6" transform="rotate(-30 230 195)"/>
+    <ellipse cx="242" cy="188" rx="9" ry="5" transform="rotate(15 242 188)"/>
+    <ellipse cx="430" cy="190" rx="10" ry="6" transform="rotate(25 430 190)"/>
+    <ellipse cx="445" cy="198" rx="8" ry="5" transform="rotate(-10 445 198)"/>
+    <ellipse cx="340" cy="175" rx="9" ry="5" transform="rotate(-5 340 175)"/>
+  </g>
+  <!-- creamy white sauce drizzle -->
+  <path d="M220 275 C260 255, 300 290, 340 265 C380 240, 420 280, 455 260" fill="none" stroke="#FFF8F0" stroke-width="7" stroke-linecap="round" opacity="0.95"/>
+  <path d="M220 275 C260 255, 300 290, 340 265 C380 240, 420 280, 455 260" fill="none" stroke="#F5E6D3" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <!-- reddish sauce drizzle -->
+  <path d="M235 290 C275 270, 315 305, 355 280 C390 260, 425 295, 450 278" fill="none" stroke="#E85A45" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
+  <!-- scallion bits -->
+  <g stroke="#6FBF7E" stroke-width="3" stroke-linecap="round">
+    <line x1="265" y1="250" x2="278" y2="238"/>
+    <line x1="390" y1="248" x2="402" y2="235"/>
+    <line x1="320" y1="260" x2="330" y2="248"/>
+  </g>
+  <!-- lime accent -->
+  <circle cx="520" cy="280" r="28" fill="#D4F06A" opacity="0.9"/>
+  <circle cx="520" cy="280" r="22" fill="#E8F7A0"/>
+  <path d="M520 258 L520 302 M502 280 L538 280 M508 264 L532 296 M532 264 L508 296" stroke="#A8C94A" stroke-width="1.5" opacity="0.6"/>
+</svg>

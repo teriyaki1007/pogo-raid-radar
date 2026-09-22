@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Salmon ribbon plating illustration">
+  <rect width="320" height="200" rx="24" fill="#efe6d8"/>
+  <ellipse cx="160" cy="110" rx="120" ry="64" fill="#fffaf3" stroke="#e4d9c8" stroke-width="3"/>
+  <path d="M70 118 C110 70, 150 70, 190 112 C150 96, 120 96, 70 118Z" fill="#e28a6a" stroke="#c45c3e" stroke-width="2"/>
+  <path d="M96 128 C136 82, 176 84, 216 124 C176 108, 146 108, 96 128Z" fill="#d97858" stroke="#c45c3e" stroke-width="2"/>
+  <path d="M122 136 C160 96, 198 98, 236 132 C198 118, 168 118, 122 136Z" fill="#ef9a78" stroke="#c45c3e" stroke-width="2"/>
+  <ellipse cx="230" cy="92" rx="18" ry="18" fill="#6fa888" stroke="#3d6b5a" stroke-width="1.5"/>
+  <ellipse cx="230" cy="92" rx="11" ry="11" fill="#e6f3ec"/>
+  <ellipse cx="248" cy="118" rx="14" ry="14" fill="#78b294" stroke="#3d6b5a" stroke-width="1.5"/>
+  <ellipse cx="248" cy="118" rx="8" ry="8" fill="#e8f5ee"/>
+  <g fill="#c45c3e" opacity="0.85">
+    <circle cx="100" cy="148" r="3"/><circle cx="118" cy="152" r="2.2"/><circle cx="140" cy="150" r="2.6"/>
+  </g>
+</svg>

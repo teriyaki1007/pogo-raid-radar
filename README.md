@@ -128,3 +128,6 @@ This Pages project is a **multi-app host** on one subdomain. Raid Radar is at `/
 ## Disclaimer
 
 Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Raid windows, egg pools, Rocket lineups, and rates change; always re-check [Leek Duck](https://leekduck.com/), [GO Hub](https://pokemongohub.net/), and [pokemongolive](https://pokemongolive.com/).
+
+### `/recipes/`
+Static Recipe Site Studio multi-recipe site (copy of `apps/recipes/`).

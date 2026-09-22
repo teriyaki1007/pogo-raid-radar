@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Cucumber slices plating illustration">
+  <rect width="320" height="200" rx="24" fill="#efe6d8"/>
+  <ellipse cx="160" cy="108" rx="118" ry="62" fill="#fffaf3" stroke="#e4d9c8" stroke-width="3"/>
+  <ellipse cx="108" cy="98" rx="34" ry="34" fill="#6fa888" stroke="#3d6b5a" stroke-width="2"/>
+  <ellipse cx="108" cy="98" rx="22" ry="22" fill="#dfeee6"/>
+  <ellipse cx="108" cy="98" rx="10" ry="10" fill="#8fc4a8"/>
+  <ellipse cx="158" cy="86" rx="34" ry="34" fill="#5f9a7a" stroke="#3d6b5a" stroke-width="2"/>
+  <ellipse cx="158" cy="86" rx="22" ry="22" fill="#e6f3ec"/>
+  <ellipse cx="158" cy="86" rx="10" ry="10" fill="#7db698"/>
+  <ellipse cx="205" cy="104" rx="34" ry="34" fill="#78b294" stroke="#3d6b5a" stroke-width="2"/>
+  <ellipse cx="205" cy="104" rx="22" ry="22" fill="#e8f5ee"/>
+  <ellipse cx="205" cy="104" rx="10" ry="10" fill="#8fc4a8"/>
+  <g fill="#c9b79a">
+    <circle cx="130" cy="128" r="2.2"/><circle cx="148" cy="134" r="2"/><circle cx="170" cy="126" r="2.4"/>
+    <circle cx="188" cy="136" r="2"/><circle cx="120" cy="118" r="1.8"/>
+  </g>
+</svg>

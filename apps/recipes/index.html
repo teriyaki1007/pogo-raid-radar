@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Recipe Site Studio</title>
+  <meta name="description" content="A warm editorial recipe collection — browse dishes and import captions into local recipe cards." />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="icon" href="assets/mark.svg" type="image/svg+xml" />
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav" aria-label="Primary">
+      <a class="brand" href="index.html">
+        <img class="brand-mark" src="assets/mark.svg" alt="" width="36" height="36" />
+        Recipe Site Studio
+      </a>
+      <ul class="nav-links">
+        <li><a href="index.html" aria-current="page">Recipes</a></li>
+        <li><a href="import.html">Import</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="wrap">
+    <section class="hero">
+      <div>
+        <p class="eyebrow">Warm kitchen · editorial cards</p>
+        <h1>Cook from the page, not the feed.</h1>
+        <p class="lede">
+          A cream-and-sage recipe shelf for dishes worth keeping. Browse the collection,
+          open a readable recipe, or paste an Instagram caption and turn it into a card
+          saved in your browser.
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#recipe-grid">Browse recipes</a>
+          <a class="btn btn-secondary" href="import.html">Import a caption</a>
+        </div>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <img src="assets/plating-salmon.svg" alt="" width="360" height="225" />
+      </div>
+    </section>
+
+    <div class="section-head">
+      <div>
+        <h2>Recipe shelf</h2>
+        <p>Catalog recipes plus anything you’ve imported locally.</p>
+      </div>
+      <p id="recipe-count">Loading…</p>
+    </div>
+
+    <div id="recipe-grid" class="recipe-grid" aria-live="polite"></div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Recipe Site Studio · static HTML/CSS/JS · no backend required for imports.</p>
+      <p>Serve over HTTP so <code>data/recipes.json</code> can load via fetch.</p>
+    </div>
+  </footer>
+
+  <script src="js/home.js" defer></script>
+</body>
+</html>

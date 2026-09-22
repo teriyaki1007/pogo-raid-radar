@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Grain bowl plating illustration">
+  <rect width="320" height="200" rx="24" fill="#efe6d8"/>
+  <ellipse cx="160" cy="78" rx="92" ry="28" fill="#fffaf3" stroke="#e4d9c8" stroke-width="3"/>
+  <path d="M68 78 C72 150, 248 150, 252 78" fill="#f4ebe0" stroke="#d8cbb8" stroke-width="3"/>
+  <ellipse cx="160" cy="78" rx="90" ry="26" fill="#fffaf3"/>
+  <ellipse cx="128" cy="78" rx="34" ry="18" fill="#6fa888"/>
+  <ellipse cx="168" cy="70" rx="28" ry="14" fill="#5f9a7a"/>
+  <g fill="#f0e2c8">
+    <ellipse cx="190" cy="88" rx="3" ry="2"/><ellipse cx="200" cy="84" rx="3" ry="2"/>
+    <ellipse cx="208" cy="90" rx="3" ry="2"/><ellipse cx="196" cy="94" rx="3" ry="2"/>
+    <ellipse cx="184" cy="96" rx="3" ry="2"/><ellipse cx="212" cy="98" rx="3" ry="2"/>
+  </g>
+  <rect x="142" y="86" width="28" height="18" rx="4" fill="#e28a6a" stroke="#c45c3e" stroke-width="1.5"/>
+  <rect x="118" y="92" width="22" height="14" rx="4" fill="#d97858" stroke="#c45c3e" stroke-width="1.5"/>
+  <g fill="#c9b79a">
+    <circle cx="150" cy="78" r="1.8"/><circle cx="160" cy="74" r="1.6"/><circle cx="172" cy="80" r="1.7"/>
+  </g>
+  <ellipse cx="160" cy="158" rx="70" ry="8" fill="rgba(44,42,38,0.08)"/>
+</svg>
