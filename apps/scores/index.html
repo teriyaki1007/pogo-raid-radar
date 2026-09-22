@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
+    <meta name="theme-color" content="#0b1020" />
+    <title>Part Scores</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="hero">
+        <p class="eyebrow">Music</p>
+        <h1>Part Scores</h1>
+        <p class="subtitle">Charts by genre &amp; instrument — listen in-page, open the PDF</p>
+      </header>
+
+      <section class="filters" aria-label="Filter scores">
+        <div class="filter-row">
+          <label for="filter-genre">Genre</label>
+          <select id="filter-genre">
+            <option value="">All</option>
+          </select>
+        </div>
+        <div class="filter-row">
+          <label for="filter-instrument">Instrument</label>
+          <select id="filter-instrument">
+            <option value="">All</option>
+          </select>
+        </div>
+      </section>
+
+      <section class="panel" aria-labelledby="scores-heading">
+        <div class="panel-head">
+          <h2 id="scores-heading">Scores</h2>
+          <span class="count" id="list-count"></span>
+        </div>
+        <div id="score-list" class="list" role="list"></div>
+        <p class="empty" id="list-empty" hidden>No scores match these filters.</p>
+      </section>
+
+      <footer class="footer">
+        <p>Practice charts with audio playthrough. PDF opens in a new tab.</p>
+        <p><a href="/">← All apps</a></p>
+      </footer>
+    </div>
+    <script src="app.js" defer></script>
+  </body>
+</html>

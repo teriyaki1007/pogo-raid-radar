@@ -13,6 +13,7 @@ This repo builds a **multi-app Cloudflare Pages host**. Apps live as sibling pat
 | `/ap-csa/` | **AP CSA Study Plan** — Weekly Java checklists through the May 12, 2027 exam (static copy from `apps/ap-csa/`; no separate npm build) |
 | `/homework/` | **Homework** — Upcoming assignments and assessments (static copy from `apps/homework/`; no separate npm build) |
 | `/beyblade/` | **Beyblade Guide** — Combo builder + X parts reference with HK pricing (static copy from `apps/beyblade/`; no separate npm build) |
+| `/scores/` | **Part Scores** — Charts by genre & instrument with in-page audio (static copy from `apps/scores/`; no separate npm build) |
 
 ## Local development
 
@@ -39,6 +40,7 @@ Output: `dist/`
 - `dist/ap-csa/` — AP CSA Study Plan (copied as-is from `apps/ap-csa/`)
 - `dist/homework/` — Homework (copied as-is from `apps/homework/`)
 - `dist/beyblade/` — Beyblade Guide (copied as-is from `apps/beyblade/`)
+- `dist/scores/` — Part Scores (copied as-is from `apps/scores/`)
 
 Preview locally:
 
@@ -97,7 +99,7 @@ Edit files under **`apps/beyblade/`** (`index.html`, `styles.css`, `app.js`, `sc
 
 ## Cloudflare Pages
 
-This Pages project is a **multi-app host** on one subdomain. Raid Radar is at `/raid/`; Lantern Courts Dex is at `/lantern-courts/`; AP CSA Study Plan is at `/ap-csa/`; Homework is at `/homework/`; Beyblade Guide is at `/beyblade/`.
+This Pages project is a **multi-app host** on one subdomain. Raid Radar is at `/raid/`; Lantern Courts Dex is at `/lantern-courts/`; AP CSA Study Plan is at `/ap-csa/`; Homework is at `/homework/`; Beyblade Guide is at `/beyblade/`; Part Scores is at `/scores/`.
 
 | Setting | Value |
 | --- | --- |
@@ -124,6 +126,7 @@ This Pages project is a **multi-app host** on one subdomain. Raid Radar is at `/
 - AP CSA Study Plan: pure static assets in `apps/ap-csa/`, copied into `dist/` at build time
 - Homework: pure static assets in `apps/homework/`, copied into `dist/` at build time
 - Beyblade Guide: pure static assets in `apps/beyblade/`, copied into `dist/` at build time
+- Part Scores: pure static assets in `apps/scores/`, copied into `dist/` at build time
 
 ## Disclaimer
 
@@ -131,3 +134,6 @@ Raid Radar is an unofficial fan project and is not affiliated with Niantic, The 
 
 ### `/recipes/`
 Static Recipe Site Studio multi-recipe site (copy of `apps/recipes/`).
+
+### `/scores/`
+Static Part Scores library (copy of `apps/scores/`) — filter by genre/instrument, HTML5 audio, PDF charts.
