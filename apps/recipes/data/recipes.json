@@ -22,5 +22,37 @@
     "tags": ["salad", "edamame", "cucumber", "approximate"],
     "art": "bowl",
     "href": "recipes/crispy-edamame-cucumber-salad.html"
+  },
+  {
+    "id": "spam-musubi",
+    "title": "Spam Musubi",
+    "blurb": "Glazed Spam pressed with sushi rice and furikake, wrapped in nori — complete recipe from the caption.",
+    "tags": ["hawaiian", "spam", "rice", "musubi"],
+    "art": "bowl",
+    "href": "recipes/spam-musubi.html"
+  },
+  {
+    "id": "tomato-beef-soup",
+    "title": "Tomato Beef Soup (罗宋汤)",
+    "blurb": "Waterless tomato-beef soup — tomatoes and cabbage make the broth under tender chuck roast.",
+    "tags": ["soup", "chinese", "beef", "tomato", "approximate"],
+    "art": "bowl",
+    "href": "recipes/tomato-beef-soup.html"
+  },
+  {
+    "id": "spicy-chicken-udon",
+    "title": "10-Minute Spicy Chicken Udon (麻辣雞絲烏冬)",
+    "blurb": "Chewy udon with shredded chicken, crab sticks, cucumber, spicy sesame-vinegar sauce, and soft eggs.",
+    "tags": ["noodles", "udon", "spicy", "chinese", "approximate"],
+    "art": "bowl",
+    "href": "recipes/spicy-chicken-udon.html"
+  },
+  {
+    "id": "carbonara",
+    "title": "Carbonara",
+    "blurb": "Classic Roman carbonara — guanciale, eggs, pecorino, black pepper, pasta water. No cream.",
+    "tags": ["pasta", "italian", "carbonara", "approximate"],
+    "art": "bowl",
+    "href": "recipes/carbonara.html"
   }
 ]
