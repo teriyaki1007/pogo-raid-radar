@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-09-19",
-    "asOfLabel": "19 Sep 2026 ~10:35 PM HKT",
+    "asOf": "2026-09-22",
+    "asOfLabel": "22 Sep 2026 ~11:13 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Horizons raids still live through Tue 22 Sep 8 PM: Captain’s Cap Pikachu 1★ + Charizard (goggles) / Meowscarada / Skeledirge / Quaquaval 3★. Zamazenta 5★ + Mega Venusaur through Tue 22 10 PM. Super Mega Staraptor Raid Day (Sat 19, 2–5 PM) is over. Next Wed 23: regional Ultra Beasts + Mega Malamar.",
-      "endsAtLabel": "Horizons → Tue 22 Sep 8:00 PM · Zamazenta / Mega Venusaur → Tue 22 Sep 10:00 PM · Next rotation Wed 23 Sep 6:00 AM"
+      "text": "Horizons event raids + Zamazenta 5★ / Mega Venusaur ended Tue 22 Sep evening local. Overnight gap now — Current tab is empty for 1★/3★/5★/Mega until Wed 23 Sep 6:00 AM. Then: regional Ultra Beasts (Xurkitree Asia-Pacific · Pheromosa Europe/ME/Africa/India · Buzzwole Americas/Greenland) + Mega Malamar through Tue 29 Sep 10 PM. Shadow package (Thundurus weekends) continues. HK/Asia-Pacific: prepare Ground for Xurkitree.",
+      "endsAtLabel": "Gap → Wed 23 Sep 6:00 AM · UB / Mega Malamar → Tue 29 Sep 10:00 PM · Next: Xerneas / Mega Victreebel Wed 30 Sep 6:00 AM"
     },
     "legend": {
       "standard": {
@@ -530,455 +530,6 @@
       "countersSource": "guide"
     },
     {
-      "id": "zamazenta-hero",
-      "name": "Zamazenta",
-      "form": "Hero of Many Battles",
-      "species": "Zamazenta",
-      "catchForm": null,
-      "tier": "5",
-      "tierLabel": "5★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "Wed 16 Sep 6:00 AM → Tue 22 Sep 10:00 PM local",
-      "windowStart": "2026-09-16T06:00:00",
-      "windowEnd": "2026-09-22T22:00:00",
-      "shiny": true,
-      "shinyRate": "~1/20 community default; Niantic not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 2188,
-      "cpL25": 2735,
-      "weather": [
-        "Cloudy"
-      ],
-      "sprite": {
-        "pokeapiId": 889,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/889.png"
-      },
-      "notes": "Raid Hour was Wed 16 Sep, 6:00–7:00 PM local (completed). Same stats as Hero Zacian.",
-      "highlight": true,
-      "types": [
-        "Fighting"
-      ],
-      "weakTo": [
-        "Flying",
-        "Psychic",
-        "Fairy"
-      ],
-      "counters": [
-        {
-          "name": "Mega Mewtwo Y",
-          "moves": "Confusion / Psystrike"
-        },
-        {
-          "name": "Mega Rayquaza",
-          "moves": "Air Slash / Dragon Ascent"
-        },
-        {
-          "name": "Mega Mewtwo X",
-          "moves": "Confusion / Psystrike"
-        },
-        {
-          "name": "Shadow Mewtwo",
-          "moves": "Psycho Cut / Psystrike"
-        },
-        {
-          "name": "Mega Alakazam",
-          "moves": "Confusion / Psychic"
-        },
-        {
-          "name": "Shadow Moltres",
-          "moves": "Wing Attack / Fly"
-        }
-      ],
-      "countersSource": "guide"
-    },
-    {
-      "id": "mega-venusaur",
-      "name": "Mega Venusaur",
-      "form": "Mega",
-      "species": "Venusaur",
-      "catchForm": "Venusaur",
-      "tier": "mega",
-      "tierLabel": "Mega",
-      "category": "current",
-      "isShadow": false,
-      "isMega": true,
-      "window": "Wed 16 Sep 6:00 AM → Tue 22 Sep 10:00 PM local",
-      "windowStart": "2026-09-16T06:00:00",
-      "windowEnd": "2026-09-22T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 1554,
-      "cpL25": 1943,
-      "weather": [
-        "Sunny",
-        "Cloudy"
-      ],
-      "sprite": {
-        "pokeapiId": 3,
-        "mega": true,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10033.png"
-      },
-      "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/3.png",
-      "notes": "Catch form: Venusaur.",
-      "types": [
-        "Grass",
-        "Poison"
-      ],
-      "weakTo": [
-        "Fire",
-        "Ice",
-        "Flying",
-        "Psychic"
-      ],
-      "counters": [
-        {
-          "name": "Mega Rayquaza",
-          "moves": "Air Slash / Dragon Ascent"
-        },
-        {
-          "name": "Mega Charizard Y",
-          "moves": "Fire Spin / Blast Burn"
-        },
-        {
-          "name": "Shadow Salamence",
-          "moves": "Fire Fang / Fly"
-        },
-        {
-          "name": "Mega Blaziken",
-          "moves": "Fire Spin / Blast Burn"
-        },
-        {
-          "name": "White Kyurem",
-          "moves": "Ice Fang / Ice Burn"
-        },
-        {
-          "name": "Shadow Mewtwo",
-          "moves": "Psycho Cut / Psystrike"
-        }
-      ],
-      "countersSource": "guide"
-    },
-    {
-      "id": "captains-cap-pikachu",
-      "name": "Captain's Cap Pikachu",
-      "form": "Captain's Cap",
-      "species": "Pikachu",
-      "catchForm": null,
-      "tier": "1",
-      "tierLabel": "1★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "event": "Pokémon Horizons: The Series Celebration",
-      "window": "Wed 16 Sep 10:00 AM → Tue 22 Sep 8:00 PM local",
-      "windowStart": "2026-09-16T10:00:00",
-      "windowEnd": "2026-09-22T20:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 536,
-      "cpL25": 670,
-      "weather": [
-        "Rain"
-      ],
-      "sprite": {
-        "pokeapiId": 25,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
-      },
-      "notes": "CP from standard Pikachu chart (costume uses same stats unless stated otherwise).",
-      "types": [
-        "Electric"
-      ],
-      "weakTo": [
-        "Ground"
-      ],
-      "counters": [
-        {
-          "name": "Primal Groudon",
-          "moves": "Mud Shot / Precipice Blades"
-        },
-        {
-          "name": "Shadow Excadrill",
-          "moves": "Mud-Slap / Drill Run"
-        },
-        {
-          "name": "Shadow Garchomp",
-          "moves": "Mud Shot / Earth Power"
-        },
-        {
-          "name": "Landorus Therian",
-          "moves": "Mud Shot / Sandsear Storm"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "charizard-goggles",
-      "name": "Charizard",
-      "form": "Friede's goggles",
-      "species": "Charizard",
-      "catchForm": null,
-      "tier": "3",
-      "tierLabel": "3★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "event": "Pokémon Horizons: The Series Celebration",
-      "window": "Wed 16 Sep 10:00 AM → Tue 22 Sep 8:00 PM local",
-      "windowStart": "2026-09-16T10:00:00",
-      "windowEnd": "2026-09-22T20:00:00",
-      "shiny": true,
-      "shinyRate": "not published (shiny goggles Charizard debuts with event)",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 1651,
-      "cpL25": 2064,
-      "weather": [
-        "Sunny",
-        "Windy"
-      ],
-      "sprite": {
-        "pokeapiId": 6,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
-      },
-      "notes": "Shiny goggles Charizard debuts with Horizons event.",
-      "types": [
-        "Fire",
-        "Flying"
-      ],
-      "weakTo": [
-        "Rock 2×",
-        "Water",
-        "Electric"
-      ],
-      "counters": [
-        {
-          "name": "Shadow Rhyperior",
-          "moves": "Smack Down / Rock Wrecker"
-        },
-        {
-          "name": "Mega Diancie",
-          "moves": "Rock Throw / Rock Slide"
-        },
-        {
-          "name": "Rampardos",
-          "moves": "Smack Down / Rock Slide"
-        },
-        {
-          "name": "Primal Kyogre",
-          "moves": "Waterfall / Origin Pulse"
-        },
-        {
-          "name": "Xurkitree",
-          "moves": "Thunder Shock / Discharge"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "meowscarada",
-      "name": "Meowscarada",
-      "form": null,
-      "species": "Meowscarada",
-      "catchForm": null,
-      "tier": "3",
-      "tierLabel": "3★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "event": "Pokémon Horizons: The Series Celebration",
-      "window": "Wed 16 Sep 10:00 AM → Tue 22 Sep 8:00 PM local",
-      "windowStart": "2026-09-16T10:00:00",
-      "windowEnd": "2026-09-22T20:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 1614,
-      "cpL25": 2017,
-      "weather": [
-        "Sunny",
-        "Fog"
-      ],
-      "sprite": {
-        "pokeapiId": 908,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/908.png"
-      },
-      "notes": null,
-      "types": [
-        "Grass",
-        "Dark"
-      ],
-      "weakTo": [
-        "Fire",
-        "Ice",
-        "Flying",
-        "Fighting",
-        "Poison",
-        "Fairy",
-        "Bug"
-      ],
-      "counters": [
-        {
-          "name": "Mega Charizard Y",
-          "moves": "Fire Spin / Blast Burn"
-        },
-        {
-          "name": "Mega Lucario",
-          "moves": "Force Palm / Aura Sphere"
-        },
-        {
-          "name": "Mega Rayquaza",
-          "moves": "Air Slash / Dragon Ascent"
-        },
-        {
-          "name": "Terrakion",
-          "moves": "Double Kick / Sacred Sword"
-        },
-        {
-          "name": "Shadow Moltres",
-          "moves": "Wing Attack / Fly"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "skeledirge",
-      "name": "Skeledirge",
-      "form": null,
-      "species": "Skeledirge",
-      "catchForm": null,
-      "tier": "3",
-      "tierLabel": "3★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "event": "Pokémon Horizons: The Series Celebration",
-      "window": "Wed 16 Sep 10:00 AM → Tue 22 Sep 8:00 PM local",
-      "windowStart": "2026-09-16T10:00:00",
-      "windowEnd": "2026-09-22T20:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 1729,
-      "cpL25": 2162,
-      "weather": [
-        "Sunny",
-        "Fog"
-      ],
-      "sprite": {
-        "pokeapiId": 911,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/911.png"
-      },
-      "notes": null,
-      "types": [
-        "Fire",
-        "Ghost"
-      ],
-      "weakTo": [
-        "Water",
-        "Ground",
-        "Rock",
-        "Ghost",
-        "Dark"
-      ],
-      "counters": [
-        {
-          "name": "Primal Kyogre",
-          "moves": "Waterfall / Origin Pulse"
-        },
-        {
-          "name": "Primal Groudon",
-          "moves": "Mud Shot / Precipice Blades"
-        },
-        {
-          "name": "Dawn Wings Necrozma",
-          "moves": "Shadow Claw / Moongeist Beam"
-        },
-        {
-          "name": "Shadow Rhyperior",
-          "moves": "Smack Down / Rock Wrecker"
-        },
-        {
-          "name": "Shadow Tyranitar",
-          "moves": "Bite / Brutal Swing"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "quaquaval",
-      "name": "Quaquaval",
-      "form": null,
-      "species": "Quaquaval",
-      "catchForm": null,
-      "tier": "3",
-      "tierLabel": "3★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "event": "Pokémon Horizons: The Series Celebration",
-      "window": "Wed 16 Sep 10:00 AM → Tue 22 Sep 8:00 PM local",
-      "windowStart": "2026-09-16T10:00:00",
-      "windowEnd": "2026-09-22T20:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 1724,
-      "cpL25": 2155,
-      "weather": [
-        "Rainy",
-        "Cloudy"
-      ],
-      "sprite": {
-        "pokeapiId": 914,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png"
-      },
-      "notes": null,
-      "types": [
-        "Water",
-        "Fighting"
-      ],
-      "weakTo": [
-        "Electric",
-        "Grass",
-        "Flying",
-        "Psychic",
-        "Fairy"
-      ],
-      "counters": [
-        {
-          "name": "Mega Rayquaza",
-          "moves": "Air Slash / Dragon Ascent"
-        },
-        {
-          "name": "Xurkitree",
-          "moves": "Thunder Shock / Discharge"
-        },
-        {
-          "name": "Mega Mewtwo Y",
-          "moves": "Confusion / Psystrike"
-        },
-        {
-          "name": "Kartana",
-          "moves": "Razor Leaf / Leaf Blade"
-        },
-        {
-          "name": "Mega Gardevoir",
-          "moves": "Charm / Dazzling Gleam"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
       "id": "xurkitree",
       "name": "Xurkitree",
       "form": "Ultra Beast",
@@ -1376,17 +927,17 @@
   "events": [
     {
       "id": "zamazenta-live",
-      "when": "Now · Wed 16 Sep 6:00 AM – Tue 22 Sep 10:00 PM local",
-      "title": "Zamazenta 5★ + Mega Venusaur live",
-      "impact": "Current legendary / mega rotation",
-      "urgent": true
+      "when": "Wed 16 Sep 6:00 AM – Tue 22 Sep 10:00 PM local (ended)",
+      "title": "Zamazenta 5★ + Mega Venusaur (ended)",
+      "impact": "Ended Tue evening local. Overnight gap until Wed 6:00 AM.",
+      "urgent": false
     },
     {
       "id": "horizons",
-      "when": "Wed 16 Sep 10:00 AM – Tue 22 Sep 8:00 PM local",
-      "title": "Pokémon Horizons: The Series Celebration",
-      "impact": "1★ Cap Pikachu + 3★ goggles Charizard + Meowscarada / Skeledirge / Quaquaval (starts 10:00 AM)",
-      "urgent": true
+      "when": "Wed 16 Sep 10:00 AM – Tue 22 Sep 8:00 PM local (ended)",
+      "title": "Pokémon Horizons: The Series Celebration (ended)",
+      "impact": "1★ Cap Pikachu + 3★ goggles Charizard / Meowscarada / Skeledirge / Quaquaval ended with the event.",
+      "urgent": false
     },
     {
       "id": "raid-hour-zamazenta",
@@ -1408,16 +959,17 @@
     },
     {
       "id": "shadow-weekend-19",
-      "when": "Sat–Sun 19–20 Sep 2026 (this weekend)",
+      "when": "Sat–Sun 19–20 Sep 2026 (ended)",
       "title": "Shadow 5★ weekend",
-      "impact": "Shadow Thundurus Incarnate in 5★ Shadow Raids (weekends)",
-      "urgent": true
+      "impact": "Shadow Thundurus Incarnate weekend window closed. Next: 26–27 Sep.",
+      "urgent": false
     },
     {
       "id": "ubs-malamar",
-      "when": "Wed 23 Sep 6:00 AM local",
+      "when": "Wed 23 Sep 6:00 AM local (next — ~hours away)",
       "title": "Regional Ultra Beasts + Mega Malamar",
-      "impact": "Tier 5 becomes regional (Xurkitree / Pheromosa / Buzzwole); Mega Malamar"
+      "impact": "Tier 5 becomes regional (Xurkitree / Pheromosa / Buzzwole); Mega Malamar. See Upcoming tab.",
+      "urgent": true
     },
     {
       "id": "raid-hour-ubs",
