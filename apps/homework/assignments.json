@@ -27,7 +27,7 @@
       "due": "2026-09-22T23:59:00+08:00",
       "dueLabel": "Tue 22 Sep 2026, 11:59 PM HKT",
       "priority": "medium",
-      "status": "done"
+      "status": "open"
     },
     {
       "id": "math-sequences-test",
@@ -36,7 +36,7 @@
       "due": "2026-09-22",
       "dueLabel": "Tue 22 Sep 2026 (in class)",
       "priority": "high",
-      "status": "done",
+      "status": "open",
       "inClass": true
     },
     {
@@ -46,7 +46,7 @@
       "due": "2026-09-22",
       "dueLabel": "Tue 22 Sep 2026 (in class)",
       "priority": "high",
-      "status": "done",
+      "status": "open",
       "inClass": true
     },
     {
