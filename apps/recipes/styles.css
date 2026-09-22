@@ -420,7 +420,7 @@ label {
   margin-bottom: 0.45rem;
 }
 
-textarea, input[type="text"] {
+textarea, input[type="text"], input[type="url"] {
   width: 100%;
   font: inherit;
   color: var(--charcoal);
@@ -432,7 +432,7 @@ textarea, input[type="text"] {
   outline: none;
   transition: border-color 0.15s ease, box-shadow 0.15s ease;
 }
-textarea:focus, input[type="text"]:focus {
+textarea:focus, input[type="text"]:focus, input[type="url"]:focus {
   border-color: var(--sage);
   box-shadow: 0 0 0 3px rgba(61, 107, 90, 0.15);
 }

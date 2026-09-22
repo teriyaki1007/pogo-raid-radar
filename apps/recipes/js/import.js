@@ -3,6 +3,7 @@
 
   const pasteEl = document.getElementById("paste-input");
   const previewEl = document.getElementById("preview");
+  const sourceUrlEl = document.getElementById("source-url");
   const statusEl = document.getElementById("status");
   const parseBtn = document.getElementById("parse-btn");
   const saveBtn = document.getElementById("save-btn");
@@ -58,14 +59,15 @@
     return null;
   }
 
-  function parseCaption(raw) {
+  function parseCaption(raw, sourceHint) {
     const text = String(raw || "").replace(/\r\n/g, "\n").trim();
     if (!text) return null;
 
     const lines = text.split("\n").map((l) => l.trimEnd());
     const nonEmpty = lines.map((l) => l.trim()).filter(Boolean);
 
-    let sourceUrl = "";
+    const hintedUrl = String(sourceHint || "").trim();
+    let sourceUrl = looksLikeUrl(hintedUrl) ? hintedUrl.split(/\s+/)[0] : "";
     let title = "";
     const ingredients = [];
     const method = [];
@@ -171,7 +173,7 @@
     if (!previewEl) return;
     if (!recipe) {
       previewEl.innerHTML =
-        '<div class="preview-empty">Paste a caption or link, then hit Parse to see a card.</div>';
+        '<div class="preview-empty">Paste recipe text or an optional link, then hit Parse to see a card.</div>';
       return;
     }
 
@@ -244,18 +246,21 @@
       );
     } catch (e) {
       setStatus(
-        "Could not write localStorage: " + (e && e.message ? e.message : "error"),
+        "Could not save in this browser: " + (e && e.message ? e.message : "error"),
         "err"
       );
     }
   }
 
   function doParse() {
-    const recipe = parseCaption(pasteEl ? pasteEl.value : "");
+    const recipe = parseCaption(
+      pasteEl ? pasteEl.value : "",
+      sourceUrlEl ? sourceUrlEl.value : ""
+    );
     current = recipe;
     renderPreview(recipe);
     if (!recipe) {
-      setStatus("Nothing to parse — paste a caption or link first.", "err");
+      setStatus("Nothing to parse — paste recipe text or add a link first.", "err");
       if (saveBtn) saveBtn.disabled = true;
       return;
     }
@@ -274,6 +279,7 @@
   if (clearBtn) {
     clearBtn.addEventListener("click", function () {
       if (pasteEl) pasteEl.value = "";
+      if (sourceUrlEl) sourceUrlEl.value = "";
       current = null;
       renderPreview(null);
       setStatus("");
