@@ -1,28 +1,17 @@
 const TZ = "Asia/Hong_Kong";
-const STORAGE_KEY = "homework-checkoffs-v1";
+const STORAGE_KEY = "homework-done-v1";
 
-const upcomingList = document.getElementById("upcoming-list");
-const doneList = document.getElementById("done-list");
-const upcomingEmpty = document.getElementById("upcoming-empty");
-const doneEmpty = document.getElementById("done-empty");
-const upcomingCount = document.getElementById("upcoming-count");
-const doneCount = document.getElementById("done-count");
+const listEl = document.getElementById("assignment-list");
+const emptyEl = document.getElementById("list-empty");
+const countEl = document.getElementById("list-count");
 const filtersEl = document.getElementById("filters");
-const doneToggle = document.getElementById("done-toggle");
-const doneBody = document.getElementById("done-body");
 const tzLabel = document.getElementById("tz-label");
 
 let allAssignments = [];
 let activeClass = "all";
-let checkoffs = loadCheckoffs();
+let activeStatus = "all"; // all | open | done
 
-doneToggle.addEventListener("click", () => {
-  const open = doneToggle.getAttribute("aria-expanded") === "true";
-  doneToggle.setAttribute("aria-expanded", String(!open));
-  doneBody.hidden = open;
-});
-
-function loadCheckoffs() {
+function loadDoneMap() {
   try {
     const raw = localStorage.getItem(STORAGE_KEY);
     if (!raw) return {};
@@ -33,22 +22,22 @@ function loadCheckoffs() {
   }
 }
 
-function saveCheckoffs() {
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(checkoffs));
+function saveDoneMap(map) {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(map));
 }
 
-/** Effective done: your checkbox wins once set; otherwise JSON status. */
-function isDone(item) {
-  if (Object.prototype.hasOwnProperty.call(checkoffs, item.id)) {
-    return Boolean(checkoffs[item.id]);
+function effectiveDone(item) {
+  const map = loadDoneMap();
+  if (Object.prototype.hasOwnProperty.call(map, item.id)) {
+    return Boolean(map[item.id]);
   }
   return item.status === "done";
 }
 
-function setDone(itemId, done) {
-  checkoffs[itemId] = done;
-  saveCheckoffs();
-  render();
+function setDone(id, done) {
+  const map = loadDoneMap();
+  map[id] = Boolean(done);
+  saveDoneMap(map);
 }
 
 function parseDue(due) {
@@ -60,7 +49,7 @@ function parseDue(due) {
 }
 
 function isOverdue(item, now) {
-  if (isDone(item)) return false;
+  if (effectiveDone(item)) return false;
   const d = parseDue(item.due);
   return d instanceof Date && !Number.isNaN(d.getTime()) && d < now;
 }
@@ -95,23 +84,26 @@ function badge(text, className) {
 }
 
 function renderRow(item, now) {
-  const done = isDone(item);
+  const done = effectiveDone(item);
   const overdue = isOverdue(item, now);
   const row = document.createElement("article");
-  row.className = "row" + (overdue ? " overdue" : "") + (done ? " done" : "");
+  row.className =
+    "row" + (overdue ? " overdue" : "") + (done ? " is-done" : "");
   row.setAttribute("role", "listitem");
+  row.dataset.id = item.id;
 
   const checkWrap = document.createElement("label");
   checkWrap.className = "check-wrap";
-  checkWrap.title = done ? "Mark as not finished" : "Mark as finished";
+  checkWrap.title = done ? "Mark as open" : "Mark as done";
 
   const checkbox = document.createElement("input");
   checkbox.type = "checkbox";
-  checkbox.className = "check";
+  checkbox.className = "done-check";
   checkbox.checked = done;
-  checkbox.setAttribute("aria-label", `Mark ${item.title || "assignment"} finished`);
+  checkbox.setAttribute("aria-label", `Mark ${item.title || "assignment"} done`);
   checkbox.addEventListener("change", () => {
     setDone(item.id, checkbox.checked);
+    render();
   });
 
   checkWrap.appendChild(checkbox);
@@ -142,7 +134,7 @@ function renderRow(item, now) {
 
   const priority = (item.priority || "medium").toLowerCase();
   meta.appendChild(badge(priority, `priority-${priority}`));
-  meta.appendChild(badge(done ? "done" : "open", done ? "status-done" : "status-open"));
+  meta.appendChild(badge(done ? "done" : "open", `status-${done ? "done" : "open"}`));
   if (item.inClass) meta.appendChild(badge("in class", "in-class"));
 
   body.appendChild(top);
@@ -160,62 +152,111 @@ function uniqueClasses(items) {
 }
 
 function renderFilters(classes) {
-  if (!classes.length) {
-    filtersEl.hidden = true;
-    return;
-  }
-  filtersEl.hidden = false;
   filtersEl.innerHTML = "";
 
-  const makeChip = (label, value) => {
+  const makeChip = (label, onClick, active) => {
     const btn = document.createElement("button");
     btn.type = "button";
-    btn.className = "chip" + (activeClass === value ? " active" : "");
+    btn.className = "chip" + (active ? " active" : "");
     btn.textContent = label;
-    btn.setAttribute("aria-pressed", String(activeClass === value));
-    btn.addEventListener("click", () => {
-      activeClass = value;
-      render();
-    });
+    btn.setAttribute("aria-pressed", String(active));
+    btn.addEventListener("click", onClick);
     return btn;
   };
 
-  filtersEl.appendChild(makeChip("All", "all"));
-  for (const c of classes) filtersEl.appendChild(makeChip(c, c));
+  const statusGroup = document.createElement("div");
+  statusGroup.className = "filter-group";
+  statusGroup.setAttribute("aria-label", "Filter by status");
+  statusGroup.appendChild(
+    makeChip(
+      "All",
+      () => {
+        activeStatus = "all";
+        render();
+      },
+      activeStatus === "all"
+    )
+  );
+  statusGroup.appendChild(
+    makeChip(
+      "Open",
+      () => {
+        activeStatus = "open";
+        render();
+      },
+      activeStatus === "open"
+    )
+  );
+  statusGroup.appendChild(
+    makeChip(
+      "Done",
+      () => {
+        activeStatus = "done";
+        render();
+      },
+      activeStatus === "done"
+    )
+  );
+  filtersEl.appendChild(statusGroup);
+
+  if (classes.length) {
+    const classGroup = document.createElement("div");
+    classGroup.className = "filter-group";
+    classGroup.setAttribute("aria-label", "Filter by class");
+    classGroup.appendChild(
+      makeChip(
+        "All classes",
+        () => {
+          activeClass = "all";
+          render();
+        },
+        activeClass === "all"
+      )
+    );
+    for (const c of classes) {
+      classGroup.appendChild(
+        makeChip(
+          c,
+          () => {
+            activeClass = c;
+            render();
+          },
+          activeClass === c
+        )
+      );
+    }
+    filtersEl.appendChild(classGroup);
+  }
 }
 
 function render() {
   const now = new Date();
-  const filtered =
+  let filtered =
     activeClass === "all"
-      ? allAssignments
+      ? allAssignments.slice()
       : allAssignments.filter((a) => a.class === activeClass);
 
-  const open = filtered.filter((a) => !isDone(a)).sort(sortByDue);
-  const done = filtered.filter((a) => isDone(a)).sort(sortByDue);
-
-  upcomingList.innerHTML = "";
-  doneList.innerHTML = "";
-
-  for (const item of open) upcomingList.appendChild(renderRow(item, now));
-  for (const item of done) doneList.appendChild(renderRow(item, now));
-
-  upcomingEmpty.hidden = open.length > 0;
-  doneEmpty.hidden = done.length > 0;
-  upcomingCount.textContent = `(${open.length})`;
-  doneCount.textContent = `(${done.length})`;
-
-  // Keep past work easy to see: auto-expand Done when it has items
-  if (done.length > 0 && doneToggle.getAttribute("aria-expanded") !== "true") {
-    doneToggle.setAttribute("aria-expanded", "true");
-    doneBody.hidden = false;
+  if (activeStatus === "open") {
+    filtered = filtered.filter((a) => !effectiveDone(a));
+  } else if (activeStatus === "done") {
+    filtered = filtered.filter((a) => effectiveDone(a));
   }
+
+  filtered.sort(sortByDue);
+
+  listEl.innerHTML = "";
+  for (const item of filtered) listEl.appendChild(renderRow(item, now));
+
+  emptyEl.hidden = filtered.length > 0;
+  const openCount = allAssignments.filter((a) => !effectiveDone(a)).length;
+  const doneCount = allAssignments.length - openCount;
+  countEl.textContent = `(${filtered.length} shown · ${openCount} open · ${doneCount} done)`;
 
   renderFilters(uniqueClasses(allAssignments));
 }
 
 async function init() {
-  tzLabel.textContent = `Timezone: HKT / ${TZ} · tap checkbox to mark finished`;
+  tzLabel.textContent = `Timezone: HKT / ${TZ}`;
   try {
     const res = await fetch("assignments.json", { cache: "no-store" });
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
@@ -223,9 +264,9 @@ async function init() {
     allAssignments = Array.isArray(data.assignments) ? data.assignments : [];
     render();
   } catch (err) {
-    upcomingEmpty.hidden = false;
-    upcomingEmpty.textContent = `Could not load assignments.json (${err.message}).`;
-    upcomingCount.textContent = "";
+    emptyEl.hidden = false;
+    emptyEl.textContent = `Could not load assignments.json (${err.message}).`;
+    countEl.textContent = "";
   }
 }
 

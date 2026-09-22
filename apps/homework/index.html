@@ -17,32 +17,20 @@
         <p class="tz" id="tz-label">Timezone: HKT / Asia/Hong_Kong</p>
       </header>
 
-      <section class="filters" aria-label="Filter by class" id="filters" hidden></section>
+      <section class="filters" aria-label="Filter assignments" id="filters"></section>
 
-      <section class="panel" aria-labelledby="upcoming-heading">
+      <section class="panel" aria-labelledby="assignments-heading">
         <div class="panel-head">
-          <h2 id="upcoming-heading">Upcoming</h2>
-          <span class="count" id="upcoming-count"></span>
+          <h2 id="assignments-heading">Assignments</h2>
+          <span class="count" id="list-count"></span>
         </div>
-        <div id="upcoming-list" class="list" role="list"></div>
-        <p class="empty" id="upcoming-empty" hidden>No open assignments.</p>
-      </section>
-
-      <section class="panel done-panel" aria-labelledby="done-heading">
-        <button type="button" class="done-toggle" id="done-toggle" aria-expanded="true" aria-controls="done-body">
-          <h2 id="done-heading">Done</h2>
-          <span class="count" id="done-count"></span>
-          <span class="chevron" aria-hidden="true">▸</span>
-        </button>
-        <div id="done-body" class="done-body">
-          <div id="done-list" class="list" role="list"></div>
-          <p class="empty" id="done-empty" hidden>No completed items yet.</p>
-        </div>
+        <div id="assignment-list" class="list" role="list"></div>
+        <p class="empty" id="list-empty" hidden>No assignments match this filter.</p>
       </section>
 
       <footer class="footer">
         <p>
-          Check the box to mark finished — past items stay listed under Done. Marks save in this browser.
+          Check the box to mark finished — done items stay listed (strikethrough). Marks save in this browser.
         </p>
         <p><a href="/">← All apps</a></p>
       </footer>
