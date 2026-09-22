@@ -16,23 +16,29 @@
     "dish-tomato-beef-soup": "assets/dish-tomato-beef-soup.svg",
     "dish-spicy-chicken-udon": "assets/dish-spicy-chicken-udon.svg",
     "dish-carbonara": "assets/dish-carbonara.svg",
+    "dish-hot-honey-chicken-mac": "assets/dish-hot-honey-chicken-mac.svg",
+    "dish-calamari-andaluza": "assets/dish-calamari-andaluza.svg",
+    "dish-avocado-sushi-bake": "assets/dish-avocado-sushi-bake.svg",
     // Legacy keys (imports / older catalog entries)
     cucumber: "assets/plating-cucumber.svg",
     salmon: "assets/plating-salmon.svg",
     bowl: "assets/plating-bowl.svg",
   };
 
+  const ART_VERSION = "2";
+
   let catalogCache = [];
 
   function artSrc(key) {
-    if (!key) return ART_ROOT.bowl;
-    if (ART_ROOT[key]) return ART_ROOT[key];
-    // Allow art: "dish-foo" → assets/dish-foo.svg when file naming matches
-    if (String(key).startsWith("dish-")) {
-      return "assets/" + key + ".svg";
-    }
-    return ART_ROOT.bowl;
+    let path;
+    if (!key) path = ART_ROOT.bowl;
+    else if (ART_ROOT[key]) path = ART_ROOT[key];
+    else if (String(key).startsWith("dish-")) path = "assets/" + key + ".svg";
+    else path = ART_ROOT.bowl;
+    const sep = path.indexOf("?") >= 0 ? "&" : "?";
+    return path + sep + "v=" + ART_VERSION;
   }
+
 
   function escapeHtml(str) {
     return String(str)
@@ -119,13 +125,14 @@
     const href = recipe.href || "#";
     const title = escapeHtml(recipe.title || "Untitled recipe");
     const blurb = escapeHtml(recipe.blurb || "");
-    const art = artSrc(recipe.art || "cucumber");
+    const key = recipe.art || "cucumber";
+    const art = artSrc(key);
     const id = recipe.id || "";
 
     return `
       <article class="card" data-catalog-id="${escapeHtml(id)}">
-        <div class="card-art" aria-hidden="true">
-          <img src="${art}" alt="" width="280" height="175" />
+        <div class="card-art" data-art="${escapeHtml(key)}" aria-hidden="true">
+          <img src="${art}" alt="" width="280" height="210" />
         </div>
         <div class="card-body">
           <div class="card-top">
@@ -147,7 +154,8 @@
         (recipe.ingredients && recipe.ingredients.slice(0, 3).join(", ")) ||
         "Saved from a pasted link or caption."
     );
-    const art = artSrc(recipe.art || "bowl");
+    const key = recipe.art || "bowl";
+    const art = artSrc(key);
     const tagHtml = tags
       .map((t) => `<li class="tag">${escapeHtml(t)}</li>`)
       .concat(['<li class="tag tag-imported">Local</li>'])
@@ -156,8 +164,8 @@
 
     return `
       <article class="card" data-import-id="${escapeHtml(detailId)}">
-        <div class="card-art" aria-hidden="true">
-          <img src="${art}" alt="" width="280" height="175" />
+        <div class="card-art" data-art="${escapeHtml(key)}" aria-hidden="true">
+          <img src="${art}" alt="" width="280" height="210" />
         </div>
         <div class="card-body">
           <div class="card-top">

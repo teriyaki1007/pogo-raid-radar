@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Hot honey chicken mac and cheese">
+  <!-- creamy yellow mac nest base -->
+  <ellipse cx="160" cy="130" rx="135" ry="55" fill="#f0e0a0"/>
+  <ellipse cx="160" cy="122" rx="120" ry="42" fill="#f7f1e8"/>
+  <!-- macaroni elbows -->
+  <g fill="none" stroke="#e8d090" stroke-width="8" stroke-linecap="round">
+    <path d="M50 125 C60 110, 80 110, 90 125"/><path d="M85 135 C95 120, 115 120, 125 135"/>
+    <path d="M120 120 C130 105, 150 105, 160 120"/><path d="M155 138 C165 123, 185 123, 195 138"/>
+    <path d="M190 118 C200 103, 220 103, 230 118"/><path d="M225 132 C235 117, 255 117, 265 132"/>
+    <path d="M70 145 C80 132, 100 132, 110 145"/><path d="M200 145 C210 132, 230 132, 240 145"/>
+  </g>
+  <!-- bold orange glazed chicken pieces on top -->
+  <rect x="70" y="40" width="55" height="42" rx="10" fill="#e07030" stroke="#a84820" stroke-width="3" transform="rotate(-15 97 61)"/>
+  <rect x="130" y="28" width="58" height="46" rx="10" fill="#f08840" stroke="#c45c3e" stroke-width="3" transform="rotate(8 159 51)"/>
+  <rect x="185" y="45" width="52" height="40" rx="10" fill="#d86028" stroke="#a84820" stroke-width="3" transform="rotate(-6 211 65)"/>
+  <rect x="100" y="70" width="48" height="36" rx="9" fill="#ef9a58" stroke="#c45c3e" stroke-width="3" transform="rotate(12 124 88)"/>
+  <!-- honey glaze shine -->
+  <ellipse cx="155" cy="42" rx="22" ry="8" fill="#ffcc66" opacity="0.55"/>
+  <ellipse cx="95" cy="52" rx="14" ry="5" fill="#ffcc66" opacity="0.45"/>
+  <!-- cheddar flecks -->
+  <g fill="#e8a020">
+    <rect x="60" y="155" width="12" height="8" rx="2" transform="rotate(-20 66 159)"/>
+    <rect x="150" y="160" width="14" height="8" rx="2"/>
+    <rect x="230" y="150" width="12" height="8" rx="2" transform="rotate(15 236 154)"/>
+  </g>
+</svg>

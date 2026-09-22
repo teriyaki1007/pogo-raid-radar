@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Calamari a la Andaluza">
+  <!-- golden fried calamari rings — stack of bold circles -->
+  <ellipse cx="110" cy="100" rx="55" ry="52" fill="#e8a848" stroke="#c48828" stroke-width="4"/>
+  <ellipse cx="110" cy="100" rx="28" ry="26" fill="none" stroke="#f7f1e8" stroke-width="18"/>
+  <ellipse cx="110" cy="100" rx="28" ry="26" fill="none" stroke="#d49830" stroke-width="3"/>
+  <ellipse cx="175" cy="70" rx="50" ry="48" fill="#f0b858" stroke="#c48828" stroke-width="4"/>
+  <ellipse cx="175" cy="70" rx="25" ry="24" fill="none" stroke="#faf6ef" stroke-width="16"/>
+  <ellipse cx="175" cy="70" rx="25" ry="24" fill="none" stroke="#e8a848" stroke-width="3"/>
+  <ellipse cx="200" cy="125" rx="52" ry="48" fill="#d49830" stroke="#a87820" stroke-width="4"/>
+  <ellipse cx="200" cy="125" rx="26" ry="24" fill="none" stroke="#f7f1e8" stroke-width="16"/>
+  <ellipse cx="200" cy="125" rx="26" ry="24" fill="none" stroke="#c48828" stroke-width="3"/>
+  <ellipse cx="85" cy="145" rx="40" ry="36" fill="#efc070" stroke="#c48828" stroke-width="3.5"/>
+  <ellipse cx="85" cy="145" rx="20" ry="18" fill="none" stroke="#fffaf3" stroke-width="13"/>
+  <ellipse cx="85" cy="145" rx="20" ry="18" fill="none" stroke="#d49830" stroke-width="2.5"/>
+  <!-- lemon wedge — bright yellow-green -->
+  <path d="M250 35 L310 55 L270 110 Z" fill="#f0e060" stroke="#c9a848" stroke-width="3"/>
+  <path d="M262 50 L292 60 L275 90 Z" fill="#faf6ef" opacity="0.55"/>
+  <line x1="262" y1="50" x2="275" y2="90" stroke="#c9a848" stroke-width="1.5" opacity="0.6"/>
+  <line x1="275" y1="48" x2="275" y2="90" stroke="#c9a848" stroke-width="1.5" opacity="0.5"/>
+  <line x1="288" y1="55" x2="275" y2="90" stroke="#c9a848" stroke-width="1.5" opacity="0.5"/>
+  <!-- parsley flecks -->
+  <g fill="#3d6b5a">
+    <ellipse cx="140" cy="155" rx="6" ry="3" transform="rotate(-30 140 155)"/>
+    <ellipse cx="240" cy="100" rx="5" ry="2.5" transform="rotate(20 240 100)"/>
+    <ellipse cx="55" cy="90" rx="5" ry="2.5" transform="rotate(-10 55 90)"/>
+  </g>
+</svg>

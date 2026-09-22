@@ -54,5 +54,29 @@
     "tags": ["pasta", "italian", "carbonara", "approximate"],
     "art": "dish-carbonara",
     "href": "recipes/carbonara.html"
+  },
+  {
+    "id": "hot-honey-chicken-mac",
+    "title": "High Protein Crispy Hot Honey Chicken Mac & Cheese",
+    "blurb": "Air-fried cornflour-crisped chicken glazed in hot honey over creamy light mac & cheese — 4 serves, ~688 cal / 63P each.",
+    "tags": ["pasta", "chicken", "high-protein", "meal-prep"],
+    "art": "dish-hot-honey-chicken-mac",
+    "href": "recipes/hot-honey-chicken-mac.html"
+  },
+  {
+    "id": "calamari-andaluza",
+    "title": "Calamari a la Andaluza",
+    "blurb": "Lightly floured calamari rings fried golden in olive oil, finished with salt and lemon — Andalusian classic.",
+    "tags": ["seafood", "spanish", "fried", "approximate"],
+    "art": "dish-calamari-andaluza",
+    "href": "recipes/calamari-andaluza.html"
+  },
+  {
+    "id": "avocado-sushi-bake",
+    "title": "Avocado Sushi Bake",
+    "blurb": "Warm sushi-rice bake topped with salmon, avocado, nori, sesame, and drizzle sauces — deconstructed sushi casserole.",
+    "tags": ["sushi", "bake", "salmon", "avocado", "approximate"],
+    "art": "dish-avocado-sushi-bake",
+    "href": "recipes/avocado-sushi-bake.html"
   }
 ]

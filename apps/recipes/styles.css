@@ -253,15 +253,36 @@ h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
 }
 
 .card-art {
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 4 / 3;
   background:
     linear-gradient(145deg, rgba(61, 107, 90, 0.08), rgba(196, 92, 62, 0.08)),
     var(--cream-deep);
   display: grid;
   place-items: center;
-  padding: 1rem;
+  padding: 0.35rem;
+  overflow: hidden;
 }
-.card-art svg, .card-art img { width: 78%; height: auto; }
+.card-art svg,
+.card-art img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+/* Soft per-dish tints so cards stay distinct even if art fails to load */
+.card-art[data-art="dish-cucumber-salmon"] { background: #e4f0e8; }
+.card-art[data-art="dish-mediterranean-cucumber"] { background: #e8f3ec; }
+.card-art[data-art="dish-edamame-cucumber"] { background: #d8ebe0; }
+.card-art[data-art="dish-spam-musubi"] { background: #f3e0d4; }
+.card-art[data-art="dish-tomato-beef-soup"] { background: #f0d4cc; }
+.card-art[data-art="dish-spicy-chicken-udon"] { background: #f5d8c8; }
+.card-art[data-art="dish-carbonara"] { background: #f3ebd0; }
+.card-art[data-art="dish-hot-honey-chicken-mac"] { background: #f5dfc4; }
+.card-art[data-art="dish-calamari-andaluza"] { background: #f3e8c8; }
+.card-art[data-art="dish-avocado-sushi-bake"] { background: #e2ebe4; }
+.card-art[data-art="cucumber"],
+.card-art[data-art="salmon"],
+.card-art[data-art="bowl"] { background: #efe6d8; }
 
 .card-body {
   padding: 1.15rem 1.2rem 1.35rem;

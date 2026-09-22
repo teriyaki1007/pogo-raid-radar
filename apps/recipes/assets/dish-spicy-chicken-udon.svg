@@ -1,35 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Spicy chicken udon plating">
-  <rect width="320" height="200" rx="24" fill="#f7f1e8"/>
-  <!-- noodle bowl -->
-  <ellipse cx="160" cy="70" rx="102" ry="30" fill="#fffaf3" stroke="#e4d9c8" stroke-width="3"/>
-  <path d="M58 70 C64 156, 256 156, 262 70" fill="#f4ebe0" stroke="#d8cbb8" stroke-width="3"/>
-  <ellipse cx="160" cy="70" rx="100" ry="28" fill="#faf6ef"/>
-  <!-- spicy sesame-vinegar broth sheen -->
-  <ellipse cx="160" cy="74" rx="90" ry="22" fill="#c45c3e" opacity="0.35"/>
-  <!-- thick udon coils -->
-  <path d="M90 78 C110 58, 140 62, 155 78 C140 70, 120 68, 90 78Z" fill="none" stroke="#e8dcc8" stroke-width="7" stroke-linecap="round"/>
-  <path d="M100 88 C125 70, 160 72, 180 90 C158 80, 130 78, 100 88Z" fill="none" stroke="#f0e6d4" stroke-width="8" stroke-linecap="round"/>
-  <path d="M118 98 C145 84, 175 86, 200 102 C172 92, 148 90, 118 98Z" fill="none" stroke="#e4d9c8" stroke-width="7" stroke-linecap="round"/>
-  <path d="M140 70 C165 55, 195 58, 215 78 C192 66, 168 64, 140 70Z" fill="none" stroke="#f7f1e8" stroke-width="6" stroke-linecap="round"/>
-  <path d="M88 96 C115 108, 155 110, 185 98" fill="none" stroke="#dccfb8" stroke-width="6" stroke-linecap="round"/>
-  <!-- shredded chicken -->
-  <rect x="112" y="82" width="28" height="7" rx="2" fill="#f0e2c8" stroke="#c9b79a" stroke-width="1" transform="rotate(-12 126 85)"/>
-  <rect x="148" y="90" width="26" height="6" rx="2" fill="#e8dcc8" stroke="#c9b79a" stroke-width="1" transform="rotate(8 161 93)"/>
-  <rect x="170" y="78" width="24" height="6" rx="2" fill="#f3ebe0" stroke="#c9b79a" stroke-width="1" transform="rotate(-5 182 81)"/>
-  <!-- cucumber strips -->
-  <rect x="200" y="86" width="8" height="22" rx="3" fill="#6fa888" stroke="#3d6b5a" stroke-width="1" transform="rotate(18 204 97)"/>
-  <rect x="214" y="90" width="7" height="18" rx="3" fill="#78b294" stroke="#3d6b5a" stroke-width="1" transform="rotate(-10 217 99)"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Spicy chicken udon">
+  <!-- orange-red chili oil pool as dominant background shape -->
+  <ellipse cx="160" cy="110" rx="140" ry="75" fill="#c45c3e"/>
+  <ellipse cx="160" cy="105" rx="125" ry="62" fill="#d97858"/>
+  <ellipse cx="140" cy="90" rx="50" ry="20" fill="#e28a6a" opacity="0.5"/>
+  <!-- thick udon noodle coils — cream against red -->
+  <path d="M50 90 C90 40, 150 35, 190 85" fill="none" stroke="#f7f1e8" stroke-width="16" stroke-linecap="round"/>
+  <path d="M60 115 C110 60, 180 55, 230 110" fill="none" stroke="#f0e6d4" stroke-width="18" stroke-linecap="round"/>
+  <path d="M80 140 C130 95, 195 92, 250 135" fill="none" stroke="#e8dcc8" stroke-width="15" stroke-linecap="round"/>
+  <path d="M100 70 C145 45, 200 50, 245 85" fill="none" stroke="#faf6ef" stroke-width="14" stroke-linecap="round"/>
+  <path d="M55 130 C100 155, 180 158, 240 125" fill="none" stroke="#e4d9c8" stroke-width="13" stroke-linecap="round"/>
   <!-- soft egg halves -->
-  <ellipse cx="100" cy="100" rx="16" ry="12" fill="#f7f1e8" stroke="#e4d9c8" stroke-width="1.4"/>
-  <ellipse cx="100" cy="100" rx="8" ry="7" fill="#e28a6a"/>
-  <ellipse cx="230" cy="108" rx="14" ry="11" fill="#faf6ef" stroke="#e4d9c8" stroke-width="1.4"/>
-  <ellipse cx="230" cy="108" rx="7" ry="6" fill="#d97858"/>
-  <!-- chili oil dots / sesame -->
-  <g fill="#c45c3e" opacity="0.85">
-    <circle cx="140" cy="108" r="2.5"/><circle cx="160" cy="114" r="2"/><circle cx="178" cy="106" r="2.2"/>
+  <ellipse cx="70" cy="155" rx="32" ry="24" fill="#f7f1e8" stroke="#e4d9c8" stroke-width="2"/>
+  <ellipse cx="70" cy="155" rx="16" ry="14" fill="#e28a6a"/>
+  <ellipse cx="260" cy="150" rx="28" ry="22" fill="#faf6ef" stroke="#e4d9c8" stroke-width="2"/>
+  <ellipse cx="260" cy="150" rx="14" ry="12" fill="#d97858"/>
+  <!-- chili oil droplets + sesame -->
+  <circle cx="150" cy="160" r="6" fill="#a84830"/>
+  <circle cx="175" cy="168" r="5" fill="#8a3a28"/>
+  <circle cx="195" cy="155" r="5.5" fill="#a84830"/>
+  <g fill="#2c2a26">
+    <circle cx="130" cy="75" r="2.5"/><circle cx="160" cy="60" r="2"/><circle cx="190" cy="70" r="2.5"/>
+    <circle cx="210" cy="95" r="2"/><circle cx="100" cy="100" r="2"/>
   </g>
-  <g fill="#2c2a26" opacity="0.5">
-    <circle cx="152" cy="72" r="1.3"/><circle cx="168" cy="68" r="1.2"/><circle cx="184" cy="74" r="1.1"/>
-  </g>
-  <ellipse cx="160" cy="168" rx="76" ry="8" fill="#2c2a26" opacity="0.08"/>
 </svg>
