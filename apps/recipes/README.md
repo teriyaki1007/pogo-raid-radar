@@ -47,11 +47,11 @@ Mobile-first soft cards, generous type — distinct from dark groot apps (Raid R
   "blurb": "One-line appetite tease.",
   "href": "recipes/your-dish.html",
   "tags": ["weeknight", "salad"],
-  "art": "bowl"
+  "art": "dish-spam-musubi"
 }
 ```
 
-`art` may be `cucumber`, `salmon`, or `bowl` (maps to SVGs in `assets/`).
+`art` is a dish key like `dish-spam-musubi` → `assets/dish-spam-musubi.svg` (legacy: `cucumber` / `salmon` / `bowl`).
 
 3. Refresh the home page.
 

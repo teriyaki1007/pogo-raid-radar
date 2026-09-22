@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Tomato beef soup plating">
+  <rect width="320" height="200" rx="24" fill="#f7f1e8"/>
+  <!-- deep soup bowl -->
+  <ellipse cx="160" cy="68" rx="100" ry="32" fill="#fffaf3" stroke="#e4d9c8" stroke-width="3"/>
+  <path d="M60 68 C66 160, 254 160, 260 68" fill="#f0e6d8" stroke="#d8cbb8" stroke-width="3"/>
+  <ellipse cx="160" cy="68" rx="98" ry="30" fill="#fffaf3"/>
+  <!-- tomato broth surface -->
+  <ellipse cx="160" cy="70" rx="88" ry="24" fill="#c45c3e"/>
+  <ellipse cx="160" cy="68" rx="82" ry="20" fill="#d97858"/>
+  <ellipse cx="148" cy="62" rx="30" ry="8" fill="#e28a6a" opacity="0.55"/>
+  <!-- tomato wedges -->
+  <path d="M100 72 L118 58 L128 78 Z" fill="#a84830" stroke="#8a3a28" stroke-width="1"/>
+  <path d="M200 66 L218 54 L224 76 Z" fill="#c45c3e" stroke="#8a3a28" stroke-width="1"/>
+  <!-- beef chunks -->
+  <rect x="124" y="74" width="22" height="14" rx="3" fill="#6b3a28" stroke="#4a2818" stroke-width="1.2" transform="rotate(-10 135 81)"/>
+  <rect x="156" y="78" width="20" height="12" rx="3" fill="#7a4630" stroke="#4a2818" stroke-width="1.2" transform="rotate(8 166 84)"/>
+  <rect x="178" y="72" width="18" height="13" rx="3" fill="#5c3220" stroke="#4a2818" stroke-width="1.2"/>
+  <!-- cabbage shreds -->
+  <path d="M110 64 Q130 58 148 66" fill="none" stroke="#dfeee6" stroke-width="3" stroke-linecap="round" opacity="0.9"/>
+  <path d="M168 60 Q190 54 210 64" fill="none" stroke="#e6f3ec" stroke-width="2.5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M130 84 Q150 90 172 82" fill="none" stroke="#c8e0c0" stroke-width="2.2" stroke-linecap="round" opacity="0.8"/>
+  <!-- steam curls -->
+  <path d="M130 48 Q134 38 128 30" fill="none" stroke="#c9b79a" stroke-width="2" stroke-linecap="round" opacity="0.55"/>
+  <path d="M160 44 Q166 32 158 24" fill="none" stroke="#c9b79a" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+  <path d="M190 48 Q196 38 188 28" fill="none" stroke="#c9b79a" stroke-width="2" stroke-linecap="round" opacity="0.45"/>
+  <ellipse cx="160" cy="170" rx="74" ry="8" fill="#2c2a26" opacity="0.08"/>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Cucumber salmon roll salad plating">
+  <rect width="320" height="200" rx="24" fill="#f7f1e8"/>
+  <!-- wide shallow plate -->
+  <ellipse cx="160" cy="118" rx="124" ry="58" fill="#fffaf3" stroke="#e4d9c8" stroke-width="3"/>
+  <ellipse cx="160" cy="112" rx="108" ry="46" fill="#faf6ef"/>
+  <!-- cucumber ribbons (spiraled strips) -->
+  <path d="M58 108 C90 72, 130 68, 168 100 C132 86, 98 88, 58 108Z" fill="#6fa888" stroke="#3d6b5a" stroke-width="1.6"/>
+  <path d="M78 122 C112 88, 152 84, 190 116 C154 102, 120 104, 78 122Z" fill="#5f9a7a" stroke="#3d6b5a" stroke-width="1.6"/>
+  <path d="M98 132 C134 102, 172 100, 208 128 C172 116, 140 118, 98 132Z" fill="#78b294" stroke="#3d6b5a" stroke-width="1.6"/>
+  <!-- salmon cubes -->
+  <rect x="176" y="78" width="28" height="22" rx="4" fill="#e28a6a" stroke="#c45c3e" stroke-width="1.5" transform="rotate(-8 190 89)"/>
+  <rect x="208" y="92" width="26" height="20" rx="4" fill="#d97858" stroke="#c45c3e" stroke-width="1.5" transform="rotate(6 221 102)"/>
+  <rect x="188" y="108" width="24" height="18" rx="4" fill="#ef9a78" stroke="#c45c3e" stroke-width="1.5" transform="rotate(-3 200 117)"/>
+  <rect x="220" y="118" width="22" height="16" rx="4" fill="#e28a6a" stroke="#c45c3e" stroke-width="1.5"/>
+  <!-- dual sauce pools -->
+  <ellipse cx="92" cy="138" rx="18" ry="8" fill="#f3f0ea" stroke="#d8cbb8" stroke-width="1.2" opacity="0.95"/>
+  <ellipse cx="128" cy="146" rx="14" ry="6" fill="#c45c3e" opacity="0.75"/>
+  <!-- red onion slivers -->
+  <path d="M70 96 Q78 88 86 96" fill="none" stroke="#c45c3e" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <path d="M240 86 Q250 78 258 88" fill="none" stroke="#c45c3e" stroke-width="2" stroke-linecap="round" opacity="0.7"/>
+  <!-- herb flecks -->
+  <g fill="#3d6b5a">
+    <ellipse cx="150" cy="96" rx="4" ry="2" transform="rotate(-30 150 96)"/>
+    <ellipse cx="168" cy="140" rx="3.5" ry="1.8" transform="rotate(20 168 140)"/>
+    <ellipse cx="246" cy="108" rx="3" ry="1.5" transform="rotate(-15 246 108)"/>
+  </g>
+  <ellipse cx="160" cy="176" rx="80" ry="7" fill="#2c2a26" opacity="0.07"/>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Crispy edamame cucumber salad plating">
+  <rect width="320" height="200" rx="24" fill="#f7f1e8"/>
+  <!-- bowl -->
+  <ellipse cx="160" cy="72" rx="96" ry="30" fill="#fffaf3" stroke="#e4d9c8" stroke-width="3"/>
+  <path d="M64 72 C68 148, 252 148, 256 72" fill="#f4ebe0" stroke="#d8cbb8" stroke-width="3"/>
+  <ellipse cx="160" cy="72" rx="94" ry="28" fill="#faf6ef"/>
+  <!-- cucumber ribbons base -->
+  <path d="M90 78 C120 58, 150 56, 178 74 C148 66, 120 66, 90 78Z" fill="#6fa888" stroke="#3d6b5a" stroke-width="1.3"/>
+  <path d="M108 92 C138 74, 168 72, 196 90 C166 82, 140 82, 108 92Z" fill="#78b294" stroke="#3d6b5a" stroke-width="1.3"/>
+  <!-- avocado slices -->
+  <ellipse cx="120" cy="100" rx="22" ry="14" fill="#8fc4a8" stroke="#3d6b5a" stroke-width="1.4" transform="rotate(-18 120 100)"/>
+  <ellipse cx="120" cy="100" rx="12" ry="7" fill="#c8e0c0" transform="rotate(-18 120 100)"/>
+  <ellipse cx="148" cy="108" rx="20" ry="12" fill="#7db698" stroke="#3d6b5a" stroke-width="1.4" transform="rotate(12 148 108)"/>
+  <!-- crispy edamame pods / beans -->
+  <ellipse cx="196" cy="86" rx="18" ry="10" fill="#3d6b5a" stroke="#2a4f42" stroke-width="1.2" transform="rotate(-25 196 86)"/>
+  <circle cx="188" cy="84" r="4" fill="#a8d4b0"/>
+  <circle cx="198" cy="88" r="4" fill="#b8dcb8"/>
+  <circle cx="206" cy="86" r="3.5" fill="#9ecca8"/>
+  <ellipse cx="214" cy="104" rx="16" ry="9" fill="#4a7a68" stroke="#2a4f42" stroke-width="1.2" transform="rotate(15 214 104)"/>
+  <circle cx="208" cy="102" r="3.5" fill="#b8dcb8"/>
+  <circle cx="218" cy="106" r="3.5" fill="#a8d4b0"/>
+  <circle cx="178" cy="98" r="5" fill="#5f9a7a" stroke="#3d6b5a" stroke-width="1"/>
+  <circle cx="168" cy="112" r="4.5" fill="#6fa888" stroke="#3d6b5a" stroke-width="1"/>
+  <circle cx="190" cy="118" r="4" fill="#78b294" stroke="#3d6b5a" stroke-width="1"/>
+  <!-- red onion + herb -->
+  <path d="M100 118 Q110 108 120 120" fill="none" stroke="#c45c3e" stroke-width="2.2" stroke-linecap="round" opacity="0.75"/>
+  <ellipse cx="230" cy="78" rx="5" ry="2.5" fill="#3d6b5a" transform="rotate(40 230 78)"/>
+  <ellipse cx="160" cy="162" rx="72" ry="8" fill="#2c2a26" opacity="0.07"/>
+</svg>

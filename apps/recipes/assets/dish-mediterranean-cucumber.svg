@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Mediterranean cucumber salad plating">
+  <rect width="320" height="200" rx="24" fill="#f7f1e8"/>
+  <!-- oval platter -->
+  <ellipse cx="160" cy="108" rx="118" ry="64" fill="#fffaf3" stroke="#e4d9c8" stroke-width="3"/>
+  <!-- cucumber rounds with seeds -->
+  <g>
+    <ellipse cx="96" cy="96" rx="30" ry="30" fill="#6fa888" stroke="#3d6b5a" stroke-width="2"/>
+    <ellipse cx="96" cy="96" rx="18" ry="18" fill="#e6f3ec"/>
+    <ellipse cx="96" cy="96" rx="7" ry="7" fill="#8fc4a8"/>
+    <ellipse cx="148" cy="78" rx="28" ry="28" fill="#5f9a7a" stroke="#3d6b5a" stroke-width="2"/>
+    <ellipse cx="148" cy="78" rx="17" ry="17" fill="#dff0e7"/>
+    <ellipse cx="148" cy="78" rx="6.5" ry="6.5" fill="#7db698"/>
+    <ellipse cx="198" cy="98" rx="30" ry="30" fill="#78b294" stroke="#3d6b5a" stroke-width="2"/>
+    <ellipse cx="198" cy="98" rx="18" ry="18" fill="#e8f5ee"/>
+    <ellipse cx="198" cy="98" rx="7" ry="7" fill="#8fc4a8"/>
+  </g>
+  <!-- red onion crescents -->
+  <path d="M118 128 A16 16 0 0 1 146 128" fill="none" stroke="#c45c3e" stroke-width="5" stroke-linecap="round" opacity="0.85"/>
+  <path d="M168 132 A14 14 0 0 1 192 128" fill="none" stroke="#a84830" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+  <!-- feta cubes -->
+  <rect x="112" y="108" width="16" height="12" rx="2" fill="#f7f1e8" stroke="#c9b79a" stroke-width="1.4"/>
+  <rect x="172" y="114" width="14" height="11" rx="2" fill="#fffaf3" stroke="#c9b79a" stroke-width="1.4"/>
+  <rect x="220" y="120" width="15" height="12" rx="2" fill="#f3ebe0" stroke="#c9b79a" stroke-width="1.4"/>
+  <!-- leafy herbs -->
+  <path d="M70 110 C66 98, 74 90, 78 102 C82 90, 90 96, 84 110Z" fill="#3d6b5a"/>
+  <path d="M236 82 C232 70, 242 64, 246 76 C250 66, 258 72, 250 84Z" fill="#3d6b5a"/>
+  <!-- lime wedge -->
+  <path d="M250 140 L268 128 L272 148 Z" fill="#b8d4a8" stroke="#3d6b5a" stroke-width="1.2"/>
+  <ellipse cx="160" cy="176" rx="78" ry="7" fill="#2c2a26" opacity="0.07"/>
+</svg>

@@ -4,7 +4,7 @@
     "title": "Cucumber Salmon Roll Salad",
     "blurb": "Warm pan-seared salmon cubes over cool cucumber ribbons with creamy white and spicy-sweet sauces, red onion, and herbs.",
     "tags": ["salad", "salmon", "cucumber", "approximate"],
-    "art": "salmon",
+    "art": "dish-cucumber-salmon",
     "href": "recipes/cucumber-salmon-roll-salad.html"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Mediterranean Cucumber Salad",
     "blurb": "Crisp cucumber, leafy herbs, sharp red onion, lime dressing, and crumbly feta — tossed until bright and glossy.",
     "tags": ["salad", "mediterranean", "cucumber", "approximate"],
-    "art": "cucumber",
+    "art": "dish-mediterranean-cucumber",
     "href": "recipes/mediterranean-cucumber-salad.html"
   },
   {
@@ -20,7 +20,7 @@
     "title": "Crispy Edamame Cucumber Salad",
     "blurb": "Cool cucumber and avocado topped with blistered crispy edamame, red onion, herbs, and a limey dressing.",
     "tags": ["salad", "edamame", "cucumber", "approximate"],
-    "art": "bowl",
+    "art": "dish-edamame-cucumber",
     "href": "recipes/crispy-edamame-cucumber-salad.html"
   },
   {
@@ -28,7 +28,7 @@
     "title": "Spam Musubi",
     "blurb": "Glazed Spam pressed with sushi rice and furikake, wrapped in nori — complete recipe from the caption.",
     "tags": ["hawaiian", "spam", "rice", "musubi"],
-    "art": "bowl",
+    "art": "dish-spam-musubi",
     "href": "recipes/spam-musubi.html"
   },
   {
@@ -36,7 +36,7 @@
     "title": "Tomato Beef Soup (罗宋汤)",
     "blurb": "Waterless tomato-beef soup — tomatoes and cabbage make the broth under tender chuck roast.",
     "tags": ["soup", "chinese", "beef", "tomato", "approximate"],
-    "art": "bowl",
+    "art": "dish-tomato-beef-soup",
     "href": "recipes/tomato-beef-soup.html"
   },
   {
@@ -44,7 +44,7 @@
     "title": "10-Minute Spicy Chicken Udon (麻辣雞絲烏冬)",
     "blurb": "Chewy udon with shredded chicken, crab sticks, cucumber, spicy sesame-vinegar sauce, and soft eggs.",
     "tags": ["noodles", "udon", "spicy", "chinese", "approximate"],
-    "art": "bowl",
+    "art": "dish-spicy-chicken-udon",
     "href": "recipes/spicy-chicken-udon.html"
   },
   {
@@ -52,7 +52,7 @@
     "title": "Carbonara",
     "blurb": "Classic Roman carbonara — guanciale, eggs, pecorino, black pepper, pasta water. No cream.",
     "tags": ["pasta", "italian", "carbonara", "approximate"],
-    "art": "bowl",
+    "art": "dish-carbonara",
     "href": "recipes/carbonara.html"
   }
 ]

@@ -8,6 +8,15 @@
   if (!grid) return;
 
   const ART_ROOT = {
+    // Per-dish original illustrations (preferred)
+    "dish-cucumber-salmon": "assets/dish-cucumber-salmon.svg",
+    "dish-mediterranean-cucumber": "assets/dish-mediterranean-cucumber.svg",
+    "dish-edamame-cucumber": "assets/dish-edamame-cucumber.svg",
+    "dish-spam-musubi": "assets/dish-spam-musubi.svg",
+    "dish-tomato-beef-soup": "assets/dish-tomato-beef-soup.svg",
+    "dish-spicy-chicken-udon": "assets/dish-spicy-chicken-udon.svg",
+    "dish-carbonara": "assets/dish-carbonara.svg",
+    // Legacy keys (imports / older catalog entries)
     cucumber: "assets/plating-cucumber.svg",
     salmon: "assets/plating-salmon.svg",
     bowl: "assets/plating-bowl.svg",
@@ -16,7 +25,13 @@
   let catalogCache = [];
 
   function artSrc(key) {
-    return ART_ROOT[key] || ART_ROOT.bowl;
+    if (!key) return ART_ROOT.bowl;
+    if (ART_ROOT[key]) return ART_ROOT[key];
+    // Allow art: "dish-foo" → assets/dish-foo.svg when file naming matches
+    if (String(key).startsWith("dish-")) {
+      return "assets/" + key + ".svg";
+    }
+    return ART_ROOT.bowl;
   }
 
   function escapeHtml(str) {
