@@ -129,13 +129,3 @@ export async function onRequestPost({ request, env }) {
   return json({ ok: true }, 202, corsHeaders(origin));
 }
 
-export async function onRequest({ request }) {
-  if (request.method === "POST") {
-    // Handled by onRequestPost when present; fallback
-    return onRequestPost(arguments[0]);
-  }
-  if (request.method === "OPTIONS") {
-    return onRequestOptions(arguments[0]);
-  }
-  return json({ ok: false, error: "Method not allowed" }, 405);
-}
