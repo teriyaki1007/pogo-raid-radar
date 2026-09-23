@@ -62,11 +62,19 @@ export async function onRequestPost({ request, env }) {
   const bad = forbidOrigin(origin);
   if (bad) return bad;
 
-  const webhookUrl = (env.GROK_RECIPE_IMPORT_WEBHOOK_URL || "").trim();
-  const key = (env.GROK_RECIPE_IMPORT_WEBHOOK_KEY || "").trim();
+  const webhookUrl = String(env.GROK_RECIPE_IMPORT_WEBHOOK_URL ?? "").trim();
+  const key = String(env.GROK_RECIPE_IMPORT_WEBHOOK_KEY ?? "").trim();
   if (!webhookUrl || !key) {
+    const missing = [];
+    if (!webhookUrl) missing.push("GROK_RECIPE_IMPORT_WEBHOOK_URL");
+    if (!key) missing.push("GROK_RECIPE_IMPORT_WEBHOOK_KEY");
     return json(
-      { ok: false, error: "Relay not configured" },
+      {
+        ok: false,
+        error: "Relay not configured",
+        missing,
+        hint: "Set these as Production runtime Variables/Secrets on the Cloudflare Pages project that serves groot.zynergy.studio, then redeploy.",
+      },
       503,
       corsHeaders(origin)
     );
