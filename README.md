@@ -137,3 +137,19 @@ Static Recipe Site Studio multi-recipe site (copy of `apps/recipes/`).
 
 ### `/scores/`
 Static Part Scores library (copy of `apps/scores/`) — filter by genre/instrument, HTML5 audio, PDF charts.
+
+## Recipe import relay
+
+Browser Import on `/recipes/` POSTs to a Cloudflare Pages Function (no secrets in static JS):
+
+- `POST /recipes/api/import-request`
+- Body: `{ "url": "https://...", "caption": "optional", "note": "optional" }`
+- Success: `202 { "ok": true }`
+
+Set these **Production** environment variables on the Cloudflare Pages project (never commit them):
+
+- `GROK_RECIPE_IMPORT_WEBHOOK_URL` — webhook URL from Recipe Site Studio’s “Recipe Import webhook” routine
+- `GROK_RECIPE_IMPORT_WEBHOOK_KEY` — raw sender key (relay adds `Bearer `; if the pasted value already starts with `Bearer `, it is used as-is)
+
+Source: `functions/recipes/api/import-request.js`
+
