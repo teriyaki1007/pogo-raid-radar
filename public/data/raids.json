@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-09-23",
-    "asOfLabel": "23 Sep 2026 ~6:52 AM HKT",
+    "asOfLabel": "23 Sep 2026 ~11:10 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE now (from Wed 23 Sep 6:00 AM local): regional Ultra Beasts — Xurkitree (Asia-Pacific / HK), Pheromosa (Europe / ME / Africa / India), Buzzwole (Americas & Greenland) — plus Mega Malamar through Tue 29 Sep 10:00 PM. Raid Hour tonight 6–7 PM for your region's UB. Shadow package (Thundurus weekends) unchanged. 1★/3★ charts not yet republished by Leek Duck / GO Hub after Horizons ended — Current tab lists confirmed 5★ / Mega / Shadow only until those sources update.",
-      "endsAtLabel": "UB / Mega Malamar → Tue 29 Sep 10:00 PM · Raid Hour Wed 23 Sep 6–7 PM · Next: Xerneas / Mega Victreebel Wed 30 Sep 6:00 AM"
+      "text": "LIVE (Wed 23 Sep 6:00 AM – Tue 29 Sep 10:00 PM local): regional Ultra Beasts — Xurkitree (Asia-Pacific / HK), Pheromosa (Europe / ME / Africa / India), Buzzwole (Americas & Greenland) — plus Mega Malamar. 1★ Dratini / Larvitar / Bagon / Deino and 3★ Hisuian Typhlosion / Samurott / Decidueye now confirmed (Leek Duck + GO Hub). Raid Hour Wed 23 Sep 6–7 PM is over. Shadow package (Thundurus weekends) unchanged.",
+      "endsAtLabel": "UB / Mega Malamar / 1★–3★ → Tue 29 Sep 10:00 PM · Next: Xerneas / Mega Victreebel Wed 30 Sep 6:00 AM · Shadow weekend Sat–Sun 26–27 Sep"
     },
     "legend": {
       "standard": {
@@ -530,6 +530,444 @@
       "countersSource": "guide"
     },
     {
+      "id": "dratini",
+      "name": "Dratini",
+      "form": null,
+      "species": "Dratini",
+      "catchForm": null,
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "23–29 Sep 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-23T06:00:00",
+      "windowEnd": "2026-09-29T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 574,
+      "cpL25": 717,
+      "weather": [
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 147,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png"
+      },
+      "notes": null,
+      "types": [
+        "Dragon"
+      ],
+      "weakTo": [
+        "Ice",
+        "Dragon",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Dragon Tail / Outrage"
+        },
+        {
+          "name": "Shadow Salamence",
+          "moves": "Dragon Tail / Outrage"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Shadow Mamoswine",
+          "moves": "Powder Snow / Avalanche"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "larvitar",
+      "name": "Larvitar",
+      "form": null,
+      "species": "Larvitar",
+      "catchForm": null,
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "23–29 Sep 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-23T06:00:00",
+      "windowEnd": "2026-09-29T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 594,
+      "cpL25": 743,
+      "weather": [
+        "Partly Cloudy",
+        "Sunny"
+      ],
+      "sprite": {
+        "pokeapiId": 246,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png"
+      },
+      "notes": null,
+      "types": [
+        "Rock",
+        "Ground"
+      ],
+      "weakTo": [
+        "Water 2×",
+        "Grass 2×",
+        "Ice",
+        "Fighting",
+        "Ground",
+        "Steel"
+      ],
+      "counters": [
+        {
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        },
+        {
+          "name": "Mega Swampert",
+          "moves": "Water Gun / Hydro Cannon"
+        },
+        {
+          "name": "Kartana",
+          "moves": "Razor Leaf / Leaf Blade"
+        },
+        {
+          "name": "Shadow Torterra",
+          "moves": "Razor Leaf / Frenzy Plant"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "bagon",
+      "name": "Bagon",
+      "form": null,
+      "species": "Bagon",
+      "catchForm": null,
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "23–29 Sep 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-23T06:00:00",
+      "windowEnd": "2026-09-29T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 660,
+      "cpL25": 826,
+      "weather": [
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 371,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png"
+      },
+      "notes": null,
+      "types": [
+        "Dragon"
+      ],
+      "weakTo": [
+        "Ice",
+        "Dragon",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Dragon Tail / Outrage"
+        },
+        {
+          "name": "Shadow Salamence",
+          "moves": "Dragon Tail / Outrage"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Baxcalibur",
+          "moves": "Ice Fang / Avalanche"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "deino",
+      "name": "Deino",
+      "form": null,
+      "species": "Deino",
+      "catchForm": null,
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "23–29 Sep 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-23T06:00:00",
+      "windowEnd": "2026-09-29T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 606,
+      "cpL25": 758,
+      "weather": [
+        "Fog",
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 633,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png"
+      },
+      "notes": null,
+      "types": [
+        "Dark",
+        "Dragon"
+      ],
+      "weakTo": [
+        "Fairy 2×",
+        "Ice",
+        "Fighting",
+        "Bug",
+        "Dragon"
+      ],
+      "counters": [
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Xerneas",
+          "moves": "Geomancy / Moonblast"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Dragon Tail / Outrage"
+        },
+        {
+          "name": "Togekiss",
+          "moves": "Charm / Dazzling Gleam"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "hisuian-typhlosion",
+      "name": "Hisuian Typhlosion",
+      "form": "Hisuian",
+      "species": "Typhlosion",
+      "catchForm": null,
+      "tier": "3",
+      "tierLabel": "3★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "23–29 Sep 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-23T06:00:00",
+      "windowEnd": "2026-09-29T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1710,
+      "cpL25": 2138,
+      "weather": [
+        "Sunny",
+        "Fog"
+      ],
+      "sprite": {
+        "pokeapiId": 157,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10233.png"
+      },
+      "notes": "Catch form: Hisuian Typhlosion.",
+      "types": [
+        "Fire",
+        "Ghost"
+      ],
+      "weakTo": [
+        "Water",
+        "Ground",
+        "Rock",
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Dawn Wings Necrozma",
+          "moves": "Psycho Cut / Moongeist Beam"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Mega Tyranitar",
+          "moves": "Smack Down / Brutal Swing"
+        },
+        {
+          "name": "Shadow Rhyperior",
+          "moves": "Mud-Slap / Rock Wrecker"
+        }
+      ],
+      "countersSource": "guide"
+    },
+    {
+      "id": "hisuian-samurott",
+      "name": "Hisuian Samurott",
+      "form": "Hisuian",
+      "species": "Samurott",
+      "catchForm": null,
+      "tier": "3",
+      "tierLabel": "3★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "23–29 Sep 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-23T06:00:00",
+      "windowEnd": "2026-09-29T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1601,
+      "cpL25": 2001,
+      "weather": [
+        "Rain",
+        "Fog"
+      ],
+      "sprite": {
+        "pokeapiId": 503,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10236.png"
+      },
+      "notes": "Catch form: Hisuian Samurott.",
+      "types": [
+        "Water",
+        "Dark"
+      ],
+      "weakTo": [
+        "Fighting",
+        "Bug",
+        "Grass",
+        "Electric",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Counter / Aura Sphere"
+        },
+        {
+          "name": "Mega Mewtwo X",
+          "moves": "Counter / Dynamic Punch"
+        },
+        {
+          "name": "Keldeo",
+          "moves": "Low Kick / Sacred Sword"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Shadow Raikou",
+          "moves": "Thunder Shock / Wild Charge"
+        }
+      ],
+      "countersSource": "guide"
+    },
+    {
+      "id": "hisuian-decidueye",
+      "name": "Hisuian Decidueye",
+      "form": "Hisuian",
+      "species": "Decidueye",
+      "catchForm": null,
+      "tier": "3",
+      "tierLabel": "3★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "23–29 Sep 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-23T06:00:00",
+      "windowEnd": "2026-09-29T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1655,
+      "cpL25": 2069,
+      "weather": [
+        "Sunny",
+        "Cloudy"
+      ],
+      "sprite": {
+        "pokeapiId": 724,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10244.png"
+      },
+      "notes": "Catch form: Hisuian Decidueye. Double weak to Flying.",
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "weakTo": [
+        "Flying 2×",
+        "Fairy",
+        "Fire",
+        "Ice",
+        "Poison",
+        "Psychic"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Shadow Moltres",
+          "moves": "Wing Attack / Fly"
+        },
+        {
+          "name": "Mega Pidgeot",
+          "moves": "Gust / Brave Bird"
+        },
+        {
+          "name": "Shadow Salamence",
+          "moves": "Fire Fang / Fly"
+        },
+        {
+          "name": "Yveltal",
+          "moves": "Gust / Oblivion Wing"
+        }
+      ],
+      "countersSource": "guide"
+    },
+    {
       "id": "xurkitree",
       "name": "Xurkitree",
       "form": "Ultra Beast",
@@ -579,7 +1017,7 @@
         },
         {
           "name": "Shadow Excadrill",
-          "moves": "Mud-Slap / Earthquake"
+          "moves": "Mud-Slap / Scorching Sands"
         },
         {
           "name": "Landorus Therian",
@@ -968,15 +1406,15 @@
       "id": "ubs-malamar",
       "when": "Wed 23 Sep 6:00 AM – Tue 29 Sep 10:00 PM local (LIVE)",
       "title": "Regional Ultra Beasts + Mega Malamar (LIVE)",
-      "impact": "5★ regional: Xurkitree (Asia-Pacific) / Pheromosa (Europe–ME–Africa–India) / Buzzwole (Americas & Greenland). Mega Malamar worldwide. 1★/3★ not yet confirmed by primary charts.",
+      "impact": "5★ regional: Xurkitree (Asia-Pacific) / Pheromosa (Europe–ME–Africa–India) / Buzzwole (Americas & Greenland). Mega Malamar worldwide. 1★ Dratini / Larvitar / Bagon / Deino; 3★ Hisuian Typhlosion / Samurott / Decidueye (Leek Duck + GO Hub).",
       "urgent": true
     },
     {
       "id": "raid-hour-ubs",
-      "when": "Wed 23 Sep 6:00–7:00 PM local (tonight)",
-      "title": "Raid Hour: regional Ultra Beasts (tonight)",
-      "impact": "Extra 5★ density for your region's UB",
-      "urgent": true
+      "when": "Wed 23 Sep 6:00–7:00 PM local (ended)",
+      "title": "Raid Hour: regional Ultra Beasts (ended)",
+      "impact": "Extra 5★ density window closed.",
+      "urgent": false
     },
     {
       "id": "spotlight-rattata",
