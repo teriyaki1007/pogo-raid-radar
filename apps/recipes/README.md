@@ -1,6 +1,6 @@
 # Recipe Site Studio
 
-Warm editorial static recipe site — cream paper, sage, tomato accent. No backend for imports; catalog lives in JSON; local imports use `localStorage`.
+Warm editorial static recipe site — cream paper, sage, tomato accent. Catalog lives in JSON; local imports use `localStorage`, and the Import page can send a link/caption through the same-origin server relay.
 
 ## Quick start
 
@@ -18,12 +18,12 @@ Open `http://localhost:8765/`.
 | Path | Role |
 |------|------|
 | `index.html` | Home — hero + recipe grid from `data/recipes.json` + local imports |
-| `import.html` | Paste link/caption → heuristic parse → preview → save |
+| `import.html` | Paste link/caption → send to Recipe Site Studio or heuristic parse → preview → save |
 | `recipes/*.html` | Individual readable recipe pages |
 | `data/recipes.json` | Published catalog (id, title, blurb, href, tags, art) |
 | `styles.css` | Shared design system |
 | `js/home.js` | Loads catalog + imports; delete controls; lobster purge; hidden list |
-| `js/import.js` | Parse / preview / save imports |
+| `js/import.js` | Parse / preview / save imports; send link/caption to the server relay |
 | `assets/*.svg` | Original plating illustrations (CSS/SVG only) |
 
 ## Design tokens
@@ -58,6 +58,7 @@ Mobile-first soft cards, generous type — distinct from dark groot apps (Raid R
 ## Import flow
 
 - Paste a URL and/or caption on **Import**.
+- **Send to Recipe Site Studio** posts `{url, caption, note}` to the same-origin `api/import-request` relay; credentials and webhook URLs never appear in client JavaScript.
 - Parser looks for a title line, `Ingredients:` / `Method:` sections, and bullet/numbered lines.
 - **Save** writes to `localStorage` key `recipe-site-imports-v1`.
 - Home grid merges catalog + imports (imports are browser-local until you promote them to JSON + a real page).

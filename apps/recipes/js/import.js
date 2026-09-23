@@ -7,6 +7,7 @@
   const statusEl = document.getElementById("status");
   const parseBtn = document.getElementById("parse-btn");
   const saveBtn = document.getElementById("save-btn");
+  const sendStudioBtn = document.getElementById("send-studio-btn");
   const clearBtn = document.getElementById("clear-btn");
 
   let current = null;
@@ -271,7 +272,65 @@
     if (saveBtn) saveBtn.disabled = false;
   }
 
+  async function sendToStudio() {
+    const url = sourceUrlEl ? sourceUrlEl.value.trim() : "";
+    const caption = pasteEl ? pasteEl.value.trim() : "";
+
+    if (!url && !caption) {
+      setStatus("Nothing to send — paste a caption or add a link first.", "err");
+      return;
+    }
+
+    if (sendStudioBtn) sendStudioBtn.disabled = true;
+    setStatus("Sending to Recipe Site Studio…", "ok");
+
+    try {
+      const response = await fetch("api/import-request", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          url,
+          caption,
+          note: "Sent from the Recipe Site Studio Import page.",
+        }),
+      });
+
+      const raw = await response.text();
+      let payload = {};
+      try {
+        payload = raw ? JSON.parse(raw) : {};
+      } catch (_) {
+        payload = {};
+      }
+
+      const serverError =
+        payload && (payload.error || payload.message)
+          ? String(payload.error || payload.message)
+          : "";
+
+      if (!response.ok) {
+        throw new Error(
+          serverError || raw || `HTTP ${response.status}${response.status === 502 ? " (relay unavailable)" : ""}`
+        );
+      }
+      if (!payload || payload.ok !== true) {
+        throw new Error(serverError || raw || "Import request was not accepted.");
+      }
+
+      setStatus(
+        "Sent — Recipe Site Studio will extract this and add it to the shelf.",
+        "ok"
+      );
+    } catch (error) {
+      const message = error && error.message ? error.message : "Network error";
+      setStatus("Could not send to Recipe Site Studio: " + message, "err");
+    } finally {
+      if (sendStudioBtn) sendStudioBtn.disabled = false;
+    }
+  }
+
   if (parseBtn) parseBtn.addEventListener("click", doParse);
+  if (sendStudioBtn) sendStudioBtn.addEventListener("click", sendToStudio);
   if (saveBtn) {
     saveBtn.disabled = true;
     saveBtn.addEventListener("click", saveCurrent);

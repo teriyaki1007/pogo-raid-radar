@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Paste a recipe · Recipe Site Studio</title>
-  <meta name="description" content="Paste a full recipe or caption, add an optional link, and save it as a local recipe card." />
+  <meta name="description" content="Send a recipe link or caption to Recipe Site Studio, or save a local recipe card." />
   <link rel="stylesheet" href="styles.css" />
   <link rel="icon" href="assets/mark.svg" type="image/svg+xml" />
 </head>
@@ -23,11 +23,12 @@
   </header>
 
   <main class="wrap">
-    <p class="eyebrow">Paste → parse → save locally</p>
+    <p class="eyebrow">Paste → send to Recipe Site Studio → or save locally</p>
     <h1>Paste a recipe</h1>
     <p class="lede">
       Paste the full recipe text — ingredients and steps — or paste a caption without chatting.
-      Add an optional link for reference. Saves stay in this browser.
+      Add an optional link for reference, then send it to Recipe Site Studio through the server relay.
+      Parse and Save still only stay in this browser.
     </p>
 
     <div class="callout disclaimer">
@@ -41,12 +42,14 @@
         <textarea id="paste-input" placeholder="Cucumber Salmon Rolls&#10;&#10;Ingredients:&#10;- 1 cucumber&#10;- smoked salmon&#10;- cream cheese&#10;&#10;Method:&#10;1. Slice cucumber thin&#10;2. Spread filling, roll, slice"></textarea>
         <label for="source-url">Optional link</label>
         <input id="source-url" type="url" inputmode="url" placeholder="https://www.instagram.com/reel/example/" />
-        <p class="hint">Tip: include section headers like <code>Ingredients:</code> and <code>Method:</code> for cleaner parses.</p>
+        <p class="hint">Tip: include section headers like <code>Ingredients:</code> and <code>Method:</code> for cleaner parses. Instagram reels may still need a caption paste when the recipe is gated.</p>
         <div class="form-actions">
           <button type="button" class="btn btn-primary" id="parse-btn">Parse</button>
           <button type="button" class="btn btn-accent" id="save-btn">Save</button>
+          <button type="button" class="btn btn-primary" id="send-studio-btn">Send to Recipe Site Studio</button>
           <button type="button" class="btn btn-secondary" id="clear-btn">Clear</button>
         </div>
+        <p class="hint">Send wakes the assistant via the server relay. It does not change the local Parse/Save flow.</p>
         <p id="status" class="status" role="status"></p>
       </section>
 
@@ -61,7 +64,7 @@
 
   <footer class="site-footer">
     <div class="wrap">
-      <p>Imports stay on this device. Promote keepers into <code>data/recipes.json</code> + a page under <code>recipes/</code>.</p>
+      <p>Local imports stay on this device. Send uses the Recipe Site Studio server relay; promote keepers into <code>data/recipes.json</code> + a page under <code>recipes/</code>.</p>
     </div>
   </footer>
 
