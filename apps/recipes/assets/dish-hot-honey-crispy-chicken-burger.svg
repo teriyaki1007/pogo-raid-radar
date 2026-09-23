@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Hot honey crispy chicken burger">
+  <!-- soft plate shadow -->
+  <ellipse cx="160" cy="178" rx="110" ry="14" fill="#e8dcc8" opacity="0.7"/>
+  <!-- bottom bun -->
+  <ellipse cx="160" cy="155" rx="95" ry="28" fill="#d4a574"/>
+  <ellipse cx="160" cy="148" rx="90" ry="22" fill="#e8bc8a"/>
+  <!-- mayo sauce smear -->
+  <path d="M78 138 Q160 128 242 138 Q160 148 78 138Z" fill="#f5f0e6" opacity="0.9"/>
+  <!-- crispy chicken patty -->
+  <ellipse cx="160" cy="118" rx="88" ry="26" fill="#c45c28" stroke="#8a3a18" stroke-width="3"/>
+  <ellipse cx="160" cy="112" rx="82" ry="20" fill="#e07838"/>
+  <!-- crust texture / crunch flecks -->
+  <g fill="#f0a060" opacity="0.85">
+    <ellipse cx="100" cy="108" rx="10" ry="5" transform="rotate(-12 100 108)"/>
+    <ellipse cx="140" cy="100" rx="12" ry="6" transform="rotate(8 140 100)"/>
+    <ellipse cx="180" cy="104" rx="11" ry="5" transform="rotate(-6 180 104)"/>
+    <ellipse cx="210" cy="112" rx="9" ry="4" transform="rotate(14 210 112)"/>
+    <ellipse cx="120" cy="118" rx="8" ry="4"/>
+  </g>
+  <!-- hot honey glaze drips -->
+  <g fill="#e8a020">
+    <path d="M95 95 Q98 115 92 130 Q100 118 102 98Z"/>
+    <path d="M155 88 Q158 112 150 135 Q162 120 164 92Z"/>
+    <path d="M210 98 Q214 118 206 132 Q218 120 220 100Z"/>
+  </g>
+  <ellipse cx="160" cy="98" rx="70" ry="10" fill="#ffcc66" opacity="0.55"/>
+  <!-- top bun -->
+  <ellipse cx="160" cy="78" rx="98" ry="32" fill="#c9894a"/>
+  <ellipse cx="160" cy="70" rx="92" ry="26" fill="#e0a868"/>
+  <!-- sesame seeds -->
+  <g fill="#f5f0e0">
+    <ellipse cx="115" cy="58" rx="5" ry="3" transform="rotate(-25 115 58)"/>
+    <ellipse cx="145" cy="50" rx="5" ry="3" transform="rotate(10 145 50)"/>
+    <ellipse cx="175" cy="52" rx="5" ry="3" transform="rotate(-15 175 52)"/>
+    <ellipse cx="200" cy="60" rx="5" ry="3" transform="rotate(20 200 60)"/>
+    <ellipse cx="130" cy="68" rx="4" ry="2.5" transform="rotate(5 130 68)"/>
+    <ellipse cx="185" cy="66" rx="4" ry="2.5" transform="rotate(-8 185 66)"/>
+  </g>
+  <!-- amber honey glow accent (distinct from mac bowl) -->
+  <circle cx="255" cy="40" r="18" fill="#ffcc66" opacity="0.35"/>
+  <circle cx="60" cy="45" r="12" fill="#e07030" opacity="0.25"/>
+</svg>

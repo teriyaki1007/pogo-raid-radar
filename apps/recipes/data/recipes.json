@@ -3,15 +3,25 @@
     "id": "cucumber-salmon-roll-salad",
     "title": "Cucumber Salmon Roll Salad",
     "blurb": "Warm pan-seared salmon cubes over cool cucumber ribbons with creamy white and spicy-sweet sauces, red onion, and herbs.",
-    "tags": ["salad", "salmon", "cucumber", "approximate"],
+    "tags": [
+      "salad",
+      "salmon",
+      "cucumber",
+      "approximate"
+    ],
     "art": "dish-cucumber-salmon",
     "href": "recipes/cucumber-salmon-roll-salad.html"
   },
   {
     "id": "mediterranean-cucumber-salad",
     "title": "Mediterranean Cucumber Salad",
-    "blurb": "Crisp cucumber, leafy herbs, sharp red onion, lime dressing, and crumbly feta — tossed until bright and glossy.",
-    "tags": ["salad", "mediterranean", "cucumber", "approximate"],
+    "blurb": "Crisp cucumber, leafy herbs, sharp red onion, lime dressing, and crumbly feta \u2014 tossed until bright and glossy.",
+    "tags": [
+      "salad",
+      "mediterranean",
+      "cucumber",
+      "approximate"
+    ],
     "art": "dish-mediterranean-cucumber",
     "href": "recipes/mediterranean-cucumber-salad.html"
   },
@@ -19,64 +29,120 @@
     "id": "crispy-edamame-cucumber-salad",
     "title": "Crispy Edamame Cucumber Salad",
     "blurb": "Cool cucumber and avocado topped with blistered crispy edamame, red onion, herbs, and a limey dressing.",
-    "tags": ["salad", "edamame", "cucumber", "approximate"],
+    "tags": [
+      "salad",
+      "edamame",
+      "cucumber",
+      "approximate"
+    ],
     "art": "dish-edamame-cucumber",
     "href": "recipes/crispy-edamame-cucumber-salad.html"
   },
   {
     "id": "spam-musubi",
     "title": "Spam Musubi",
-    "blurb": "Glazed Spam pressed with sushi rice and furikake, wrapped in nori — complete recipe from the caption.",
-    "tags": ["hawaiian", "spam", "rice", "musubi"],
+    "blurb": "Glazed Spam pressed with sushi rice and furikake, wrapped in nori \u2014 complete recipe from the caption.",
+    "tags": [
+      "hawaiian",
+      "spam",
+      "rice",
+      "musubi"
+    ],
     "art": "dish-spam-musubi",
     "href": "recipes/spam-musubi.html"
   },
   {
     "id": "tomato-beef-soup",
-    "title": "Tomato Beef Soup (罗宋汤)",
-    "blurb": "Waterless tomato-beef soup — tomatoes and cabbage make the broth under tender chuck roast.",
-    "tags": ["soup", "chinese", "beef", "tomato", "approximate"],
+    "title": "Tomato Beef Soup (\u7f57\u5b8b\u6c64)",
+    "blurb": "Waterless tomato-beef soup \u2014 tomatoes and cabbage make the broth under tender chuck roast.",
+    "tags": [
+      "soup",
+      "chinese",
+      "beef",
+      "tomato",
+      "approximate"
+    ],
     "art": "dish-tomato-beef-soup",
     "href": "recipes/tomato-beef-soup.html"
   },
   {
     "id": "spicy-chicken-udon",
-    "title": "10-Minute Spicy Chicken Udon (麻辣雞絲烏冬)",
+    "title": "10-Minute Spicy Chicken Udon (\u9ebb\u8fa3\u96de\u7d72\u70cf\u51ac)",
     "blurb": "Chewy udon with shredded chicken, crab sticks, cucumber, spicy sesame-vinegar sauce, and soft eggs.",
-    "tags": ["noodles", "udon", "spicy", "chinese", "approximate"],
+    "tags": [
+      "noodles",
+      "udon",
+      "spicy",
+      "chinese",
+      "approximate"
+    ],
     "art": "dish-spicy-chicken-udon",
     "href": "recipes/spicy-chicken-udon.html"
   },
   {
     "id": "carbonara",
     "title": "Carbonara",
-    "blurb": "Classic Roman carbonara — guanciale, eggs, pecorino, black pepper, pasta water. No cream.",
-    "tags": ["pasta", "italian", "carbonara", "approximate"],
+    "blurb": "Classic Roman carbonara \u2014 guanciale, eggs, pecorino, black pepper, pasta water. No cream.",
+    "tags": [
+      "pasta",
+      "italian",
+      "carbonara",
+      "approximate"
+    ],
     "art": "dish-carbonara",
     "href": "recipes/carbonara.html"
   },
   {
     "id": "hot-honey-chicken-mac",
     "title": "High Protein Crispy Hot Honey Chicken Mac & Cheese",
-    "blurb": "Air-fried cornflour-crisped chicken glazed in hot honey over creamy light mac & cheese — 4 serves, ~688 cal / 63P each.",
-    "tags": ["pasta", "chicken", "high-protein", "meal-prep"],
+    "blurb": "Air-fried cornflour-crisped chicken glazed in hot honey over creamy light mac & cheese \u2014 4 serves, ~688 cal / 63P each.",
+    "tags": [
+      "pasta",
+      "chicken",
+      "high-protein",
+      "meal-prep"
+    ],
     "art": "dish-hot-honey-chicken-mac",
     "href": "recipes/hot-honey-chicken-mac.html"
   },
   {
     "id": "calamari-andaluza",
     "title": "Calamari a la Andaluza",
-    "blurb": "Lightly floured calamari rings fried golden in olive oil, finished with salt and lemon — Andalusian classic.",
-    "tags": ["seafood", "spanish", "fried", "approximate"],
+    "blurb": "Lightly floured calamari rings fried golden in olive oil, finished with salt and lemon \u2014 Andalusian classic.",
+    "tags": [
+      "seafood",
+      "spanish",
+      "fried",
+      "approximate"
+    ],
     "art": "dish-calamari-andaluza",
     "href": "recipes/calamari-andaluza.html"
   },
   {
     "id": "avocado-sushi-bake",
     "title": "Avocado Sushi Bake",
-    "blurb": "Warm sushi-rice bake topped with salmon, avocado, nori, sesame, and drizzle sauces — deconstructed sushi casserole.",
-    "tags": ["sushi", "bake", "salmon", "avocado", "approximate"],
+    "blurb": "Warm sushi-rice bake topped with salmon, avocado, nori, sesame, and drizzle sauces \u2014 deconstructed sushi casserole.",
+    "tags": [
+      "sushi",
+      "bake",
+      "salmon",
+      "avocado",
+      "approximate"
+    ],
     "art": "dish-avocado-sushi-bake",
     "href": "recipes/avocado-sushi-bake.html"
+  },
+  {
+    "id": "hot-honey-crispy-chicken-burger",
+    "title": "Hot Honey Crispy Chicken Burger",
+    "blurb": "Buttermilk-marinated crispy chicken glazed in sticky hot honey with a lemony mayo sauce \u2014 approximate from caption.",
+    "tags": [
+      "burger",
+      "chicken",
+      "hot-honey",
+      "approximate"
+    ],
+    "art": "dish-hot-honey-crispy-chicken-burger",
+    "href": "recipes/hot-honey-crispy-chicken-burger.html"
   }
 ]

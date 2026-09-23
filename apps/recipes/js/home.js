@@ -19,6 +19,7 @@
     "dish-hot-honey-chicken-mac": "assets/dish-hot-honey-chicken-mac.svg",
     "dish-calamari-andaluza": "assets/dish-calamari-andaluza.svg",
     "dish-avocado-sushi-bake": "assets/dish-avocado-sushi-bake.svg",
+    "dish-hot-honey-crispy-chicken-burger": "assets/dish-hot-honey-crispy-chicken-burger.svg",
     // Legacy keys (imports / older catalog entries)
     cucumber: "assets/plating-cucumber.svg",
     salmon: "assets/plating-salmon.svg",
