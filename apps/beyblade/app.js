@@ -2,7 +2,7 @@
  * Beyblade X coaching SPA — loads data/parts.json (relative) and scores combos.
  * Modes: Basic/UX (Blade+Ratchet+Bit) and CX (Lock+Main+Assist+Ratchet+Bit).
  */
-import { scoreCombo, scoreCxCombo, gradeColor, formatUsage } from "./score.js?v=20260923meta";
+import { scoreCombo, scoreCxCombo, gradeColor, formatUsage } from "./score.js?v=20260924meta";
 
 const state = {
   data: null,
@@ -23,7 +23,7 @@ const state = {
 const $ = (sel) => document.querySelector(sel);
 
 async function loadData() {
-  const res = await fetch("data/parts.json?v=20260923meta");
+  const res = await fetch("data/parts.json?v=20260924meta");
   if (!res.ok) throw new Error(`Failed to load parts.json (${res.status})`);
   return res.json();
 }
