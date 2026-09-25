@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-09-23",
-    "asOfLabel": "23 Sep 2026 ~11:10 PM HKT",
+    "asOf": "2026-09-26",
+    "asOfLabel": "26 Sep 2026 ~6:30 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE (Wed 23 Sep 6:00 AM – Tue 29 Sep 10:00 PM local): regional Ultra Beasts — Xurkitree (Asia-Pacific / HK), Pheromosa (Europe / ME / Africa / India), Buzzwole (Americas & Greenland) — plus Mega Malamar. 1★ Dratini / Larvitar / Bagon / Deino and 3★ Hisuian Typhlosion / Samurott / Decidueye now confirmed (Leek Duck + GO Hub). Raid Hour Wed 23 Sep 6–7 PM is over. Shadow package (Thundurus weekends) unchanged.",
-      "endsAtLabel": "UB / Mega Malamar / 1★–3★ → Tue 29 Sep 10:00 PM · Next: Xerneas / Mega Victreebel Wed 30 Sep 6:00 AM · Shadow weekend Sat–Sun 26–27 Sep"
+      "text": "LIVE this weekend (Sat–Sun 26–27 Sep): Shadow Thundurus (Incarnate) in 5★ Shadow Raids. Also still LIVE through Tue 29 Sep 10:00 PM local: regional Ultra Beasts — Xurkitree (Asia-Pacific / HK), Pheromosa (Europe / ME / Africa / India), Buzzwole (Americas & Greenland) — plus Mega Malamar; 1★ Dratini / Larvitar / Bagon / Deino and 3★ Hisuian Typhlosion / Samurott / Decidueye. Today also: Catch Mastery Phantump 10:00 AM–8:00 PM (wild/research, not a raid rotation change). Spotlight Rattata (Thu 24) ended.",
+      "endsAtLabel": "Shadow Thundurus weekend → Sun 27 Sep · UB / Mega Malamar / 1★–3★ → Tue 29 Sep 10:00 PM · Next: Xerneas / Mega Victreebel Wed 30 Sep 6:00 AM"
     },
     "legend": {
       "standard": {
@@ -474,7 +474,7 @@
       "category": "shadow",
       "isShadow": true,
       "isMega": false,
-      "window": "Weekends only through ~6 Oct 2026 (ends Oct 6 8:00 PM local)",
+      "window": "Weekends only through ~6 Oct 2026 — LIVE Sat–Sun 26–27 Sep (ends Oct 6 ~8:00 PM local)",
       "windowStart": "2026-09-09T06:00:00",
       "windowEnd": "2026-10-06T20:00:00",
       "shiny": true,
@@ -491,7 +491,7 @@
         "pokeapiId": 642,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png"
       },
-      "notes": "Next weekends: 19–20 Sep and 26–27 Sep 2026.",
+      "notes": "LIVE this weekend Sat–Sun 26–27 Sep. Further weekends through ~6 Oct 2026 (weekends only).",
       "highlight": true,
       "types": [
         "Electric",
@@ -1418,21 +1418,24 @@
     },
     {
       "id": "spotlight-rattata",
-      "when": "Thu 24 Sep 6:00–7:00 PM local",
-      "title": "Spotlight: Rattata",
-      "impact": "Wild only (2× Evolution XP; XXS chance)"
+      "when": "Thu 24 Sep 6:00–7:00 PM local (ended)",
+      "title": "Spotlight: Rattata (ended)",
+      "impact": "Wild only (2× Evolution XP; XXS chance) — ended.",
+      "urgent": false
     },
     {
       "id": "shadow-weekend-26",
-      "when": "Sat–Sun 26–27 Sep 2026",
-      "title": "Shadow 5★ weekend",
-      "impact": "Shadow Thundurus Incarnate"
+      "when": "Sat–Sun 26–27 Sep 2026 (LIVE)",
+      "title": "Shadow 5★ weekend (LIVE)",
+      "impact": "Shadow Thundurus Incarnate in weekend 5★ Shadow Raids (Leek Duck / GO Hub).",
+      "urgent": true
     },
     {
       "id": "catch-mastery-phantump",
-      "when": "Sat 26 Sep 10:00 AM – 8:00 PM local",
-      "title": "Catch Mastery: Phantump",
-      "impact": "Not a raid rotation change"
+      "when": "Sat 26 Sep 10:00 AM – 8:00 PM local (LIVE today)",
+      "title": "Catch Mastery: Phantump (LIVE today)",
+      "impact": "Not a raid rotation change — wild/research Phantump (+ Cherubi / Drifloon shinies boosted).",
+      "urgent": false
     },
     {
       "id": "xerneas-victreebel",
