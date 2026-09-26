@@ -1,12 +1,12 @@
 {
   "meta": {
-    "asOf": "2026-09-26",
-    "asOfLabel": "26 Sep 2026 ~6:30 AM HKT",
+    "asOf": "2026-09-27",
+    "asOfLabel": "27 Sep 2026 ~6:30 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE this weekend (Sat–Sun 26–27 Sep): Shadow Thundurus (Incarnate) in 5★ Shadow Raids. Also still LIVE through Tue 29 Sep 10:00 PM local: regional Ultra Beasts — Xurkitree (Asia-Pacific / HK), Pheromosa (Europe / ME / Africa / India), Buzzwole (Americas & Greenland) — plus Mega Malamar; 1★ Dratini / Larvitar / Bagon / Deino and 3★ Hisuian Typhlosion / Samurott / Decidueye. Today also: Catch Mastery Phantump 10:00 AM–8:00 PM (wild/research, not a raid rotation change). Spotlight Rattata (Thu 24) ended.",
+      "text": "LIVE today (Sun 27 Sep, last day of the weekend window): Shadow Thundurus (Incarnate) in 5★ Shadow Raids. Also still LIVE through Tue 29 Sep 10:00 PM local: regional Ultra Beasts — Xurkitree (Asia-Pacific / HK), Pheromosa (Europe / ME / Africa / India), Buzzwole (Americas & Greenland) — plus Mega Malamar; 1★ Dratini / Larvitar / Bagon / Deino and 3★ Hisuian Typhlosion / Samurott / Decidueye. Catch Mastery Phantump (Sat 26) and Spotlight Rattata (Thu 24) have ended.",
       "endsAtLabel": "Shadow Thundurus weekend → Sun 27 Sep · UB / Mega Malamar / 1★–3★ → Tue 29 Sep 10:00 PM · Next: Xerneas / Mega Victreebel Wed 30 Sep 6:00 AM"
     },
     "legend": {
@@ -474,7 +474,7 @@
       "category": "shadow",
       "isShadow": true,
       "isMega": false,
-      "window": "Weekends only through ~6 Oct 2026 — LIVE Sat–Sun 26–27 Sep (ends Oct 6 ~8:00 PM local)",
+      "window": "Weekends only through ~6 Oct 2026 — LIVE Sat–Sun 26–27 Sep (today Sun 27 is the last day) (ends Oct 6 ~8:00 PM local)",
       "windowStart": "2026-09-09T06:00:00",
       "windowEnd": "2026-10-06T20:00:00",
       "shiny": true,
