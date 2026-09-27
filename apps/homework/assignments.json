@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23",
+  "updated": "2026-09-27",
   "timezone": "Asia/Hong_Kong",
   "assignments": [
     {
@@ -27,7 +27,7 @@
       "due": "2026-09-22T23:59:00+08:00",
       "dueLabel": "Tue 22 Sep 2026, 11:59 PM HKT",
       "priority": "medium",
-      "status": "open"
+      "status": "done"
     },
     {
       "id": "math-sequences-test",
@@ -36,7 +36,7 @@
       "due": "2026-09-22",
       "dueLabel": "Tue 22 Sep 2026 (in class)",
       "priority": "high",
-      "status": "open",
+      "status": "done",
       "inClass": true
     },
     {
@@ -46,7 +46,7 @@
       "due": "2026-09-22",
       "dueLabel": "Tue 22 Sep 2026 (in class)",
       "priority": "high",
-      "status": "open",
+      "status": "done",
       "inClass": true
     },
     {
@@ -56,7 +56,7 @@
       "due": "2026-09-22",
       "dueLabel": "Tue 22 Sep 2026 (in class)",
       "priority": "medium",
-      "status": "open",
+      "status": "unclear",
       "inClass": true
     },
     {
@@ -66,15 +66,33 @@
       "due": "2026-09-23",
       "dueLabel": "Wed 23 Sep 2026 (in class)",
       "priority": "medium",
-      "status": "open",
+      "status": "unclear",
       "inClass": true
     },
     {
       "id": "socials-me-project",
       "class": "Socials",
-      "title": "Globalisation \u2014 relation explicitly to me project",
+      "title": "Globalisation — relation explicitly to me project",
       "due": "2026-09-25",
       "dueLabel": "Fri 25 Sep 2026",
+      "priority": "high",
+      "status": "done"
+    },
+    {
+      "id": "math-hw-check-sep25",
+      "class": "Math",
+      "title": "HW Check",
+      "due": "2026-09-25",
+      "dueLabel": "Fri 25 Sep 2026",
+      "priority": "medium",
+      "status": "done"
+    },
+    {
+      "id": "socials-globalization-quiz-1",
+      "class": "Socials",
+      "title": "Globalization quiz #1",
+      "due": "2026-10-02",
+      "dueLabel": "Fri 2 Oct 2026",
       "priority": "high",
       "status": "open"
     },
@@ -85,24 +103,6 @@
       "due": "2026-10-06",
       "dueLabel": "Tue 6 Oct 2026",
       "priority": "medium",
-      "status": "open"
-    },
-    {
-      "id": "math-hw-check-sep25",
-      "class": "Math",
-      "title": "HW Check",
-      "due": "2026-09-25",
-      "dueLabel": "Fri 25 Sep 2026",
-      "priority": "medium",
-      "status": "open"
-    },
-    {
-      "id": "socials-globalization-quiz-1",
-      "class": "Socials",
-      "title": "Globalization quiz #1",
-      "due": "2026-10-02",
-      "dueLabel": "Fri 2 Oct 2026",
-      "priority": "high",
       "status": "open"
     }
   ]
