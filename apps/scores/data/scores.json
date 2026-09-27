@@ -9,6 +9,45 @@
     "notes": "practice/education drum chart; sparse pocket groove",
     "audio": "files/only-if-drums-practice.mp3",
     "pdf": "files/only-if-drums.pdf",
-    "tags": ["practice", "education", "pocket", "groove"]
+    "tags": [
+      "practice",
+      "education",
+      "pocket",
+      "groove"
+    ]
+  },
+  {
+    "id": "plusamari-new-strangers-drums",
+    "title": "+new strangers",
+    "artist": "plusamari",
+    "instrument": "Drums",
+    "genre": "Alternative R&B",
+    "tempo": "112 BPM",
+    "notes": "Practice/education. Alt-R&B pocket; condensed form map; tempo medium confidence.",
+    "audio": "files/plusamari-new-strangers-drums.mp3",
+    "pdf": "files/plusamari-new-strangers-drums.pdf",
+    "tags": [
+      "practice",
+      "education",
+      "pocket",
+      "alt-r&b"
+    ]
+  },
+  {
+    "id": "rejjie-snow-cookie-chips-drums",
+    "title": "Cookie Chips",
+    "artist": "Rejjie Snow (ft. MF DOOM & Cam O'bi)",
+    "instrument": "Drums",
+    "genre": "Alternative Hip-Hop",
+    "tempo": "92 BPM",
+    "notes": "Practice/education. Boom-bap pocket; condensed form map; tempo high confidence.",
+    "audio": "files/rejjie-snow-cookie-chips-drums.mp3",
+    "pdf": "files/rejjie-snow-cookie-chips-drums.pdf",
+    "tags": [
+      "practice",
+      "education",
+      "boom-bap",
+      "pocket"
+    ]
   }
 ]
