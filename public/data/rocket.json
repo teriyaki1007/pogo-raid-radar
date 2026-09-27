@@ -1,8 +1,8 @@
 {
   "meta": {
-    "asOf": "2026-09-15",
-    "asOfLabel": "15 Sep 2026",
-    "lineupsUpdated": "2026-06-25 (Leek Duck); grunt tables confirmed via Sportskeeda / Dexerto Sep 2026 guides",
+    "asOf": "2026-09-27",
+    "asOfLabel": "27 Sep 2026 ~10:30 PM HKT",
+    "lineupsUpdated": "2026-06-25 (Leek Duck, still current as of 27 Sep 2026 evening); grunt/leader tables confirmed via Sportskeeda / Dexerto / Attractmo Sep 2026 guides",
     "sources": [
       {
         "name": "Leek Duck Rocket Lineups",
@@ -23,6 +23,10 @@
       {
         "name": "Polygon Giovanni Guide",
         "url": "https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket/"
+      },
+      {
+        "name": "Leek Duck Harvest Festival: Taken Over",
+        "url": "https://leekduck.com/events/harvest-festival-taken-over-2026/"
       }
     ],
     "notes": [
@@ -30,13 +34,13 @@
       "Italic/encounter conventions vary by site — first-slot Pokémon are typical catch rewards; not all phase-2/3 are catchable.",
       "Counters are brief type-based / guide picks — not exhaustive Pokebattler rankings.",
       "Balloon invasions: Grunts and Leaders can appear in Team GO Rocket balloons; frequency rises during Takeover events.",
-      "Next Takeover: Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct 2026) debuts Shadow Zekrom and refreshes some Rocket lineups."
+      "Next Takeover: Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct 2026) debuts Shadow Zekrom; Grunt/Leader lineups change when the event starts (Leek Duck). New Shadows: Wimpod, Fomantis, Sandygast."
     ]
   },
   "notes": [
     "Defeat 6 Grunts for Mysterious Components → Rocket Radar → Leaders (Arlo / Cliff / Sierra).",
     "Super Rocket Radar (GO Pass during Takeovers) is required to find Giovanni; he appears at PokéStops during recent Takeovers (not balloons).",
-    "As of 15 Sep 2026 there is no active Takeover; Giovanni access depends on leftover Super Rocket Radars until Oct 2."
+    "As of 27 Sep 2026 evening there is no active Takeover; Giovanni access depends on leftover Super Rocket Radars until Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct)."
   ],
   "grunts": [
     {
@@ -2981,7 +2985,7 @@
     "name": "Giovanni",
     "quote": "I will not tolerate your interference.",
     "active": "conditional",
-    "activeNote": "No Takeover active on 15 Sep 2026. Requires Super Rocket Radar (GO Pass during Takeover events). Leftover radars may still work until the next event.",
+    "activeNote": "No Takeover active on 27 Sep 2026 evening. Requires Super Rocket Radar (GO Pass during Takeovers). Leftover radars may still work. Next: Harvest Festival: Taken Over (2–5 Oct) — Shadow Zekrom; radar available via Harvest Festival GO Pass (starts 29 Sep).",
     "lineups": [
       [
         {
@@ -3041,7 +3045,7 @@
       ]
     ],
     "legendary": "Reshiram",
-    "legendaryNote": "Last published finale is Shadow Reshiram (since Flying Taxi / mid-2026 Takeover guides). Next Takeover (Harvest Festival: Taken Over, 2–5 Oct 2026) debuts Shadow Zekrom — Giovanni's full Oct lineup not published yet as of 15 Sep.",
+    "legendaryNote": "Last published finale is Shadow Reshiram (since Flying Taxi / mid-2026 Takeover guides). Next Takeover (Harvest Festival: Taken Over, 2–5 Oct 2026) debuts Shadow Zekrom — Giovanni's full Oct lineup not published yet as of 27 Sep; Leek Duck rocket page still shows pre-event lineups.",
     "weakTo": [
       "Fighting",
       "Water",

@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-09-27",
-    "asOfLabel": "27 Sep 2026 ~6:30 AM HKT",
+    "asOfLabel": "27 Sep 2026 ~10:30 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE today (Sun 27 Sep, last day of the weekend window): Shadow Thundurus (Incarnate) in 5★ Shadow Raids. Also still LIVE through Tue 29 Sep 10:00 PM local: regional Ultra Beasts — Xurkitree (Asia-Pacific / HK), Pheromosa (Europe / ME / Africa / India), Buzzwole (Americas & Greenland) — plus Mega Malamar; 1★ Dratini / Larvitar / Bagon / Deino and 3★ Hisuian Typhlosion / Samurott / Decidueye. Catch Mastery Phantump (Sat 26) and Spotlight Rattata (Thu 24) have ended.",
-      "endsAtLabel": "Shadow Thundurus weekend → Sun 27 Sep · UB / Mega Malamar / 1★–3★ → Tue 29 Sep 10:00 PM · Next: Xerneas / Mega Victreebel Wed 30 Sep 6:00 AM"
+      "text": "Still LIVE through Tue 29 Sep 10:00 PM local: regional Ultra Beasts — Xurkitree (Asia-Pacific / HK), Pheromosa (Europe / ME / Africa / India), Buzzwole (Americas & Greenland) — plus Mega Malamar; 1★ Dratini / Larvitar / Bagon / Deino and 3★ Hisuian Typhlosion / Samurott / Decidueye. Shadow 5★ weekend (Thundurus Incarnate) closed for Sat–Sun 26–27 Sep; next Shadow 5★ weekend Sat–Sun 3–4 Oct (package through ~6 Oct). Harvest Festival: Applin Picking starts Tue 29 Sep 10:00 AM. Next raid rotation Wed 30 Sep 6:00 AM: Xerneas + Mega Victreebel.",
+      "endsAtLabel": "UB / Mega Malamar / 1★–3★ → Tue 29 Sep 10:00 PM · Harvest Festival → Tue 29 Sep 10:00 AM · Xerneas / Mega Victreebel → Wed 30 Sep 6:00 AM · Next Shadow 5★ weekend → Sat–Sun 3–4 Oct"
     },
     "legend": {
       "standard": {
@@ -474,7 +474,7 @@
       "category": "shadow",
       "isShadow": true,
       "isMega": false,
-      "window": "Weekends only through ~6 Oct 2026 — LIVE Sat–Sun 26–27 Sep (today Sun 27 is the last day) (ends Oct 6 ~8:00 PM local)",
+      "window": "Weekends only through ~6 Oct 2026 — weekend Sat–Sun 26–27 Sep closed; next Sat–Sun 3–4 Oct (ends Oct 6 ~8:00 PM local)",
       "windowStart": "2026-09-09T06:00:00",
       "windowEnd": "2026-10-06T20:00:00",
       "shiny": true,
@@ -491,7 +491,7 @@
         "pokeapiId": 642,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png"
       },
-      "notes": "LIVE this weekend Sat–Sun 26–27 Sep. Further weekends through ~6 Oct 2026 (weekends only).",
+      "notes": "Weekend package closed for 26–27 Sep. Next Shadow 5★ window Sat–Sun 3–4 Oct; further weekends through ~6 Oct 2026. Local-only; Purified Gems needed when enraged.",
       "highlight": true,
       "types": [
         "Electric",
@@ -1425,16 +1425,37 @@
     },
     {
       "id": "shadow-weekend-26",
-      "when": "Sat–Sun 26–27 Sep 2026 (LIVE)",
-      "title": "Shadow 5★ weekend (LIVE)",
-      "impact": "Shadow Thundurus Incarnate in weekend 5★ Shadow Raids (Leek Duck / GO Hub).",
-      "urgent": true
+      "when": "Sat–Sun 26–27 Sep 2026 (ended)",
+      "title": "Shadow 5★ weekend (ended)",
+      "impact": "Shadow Thundurus Incarnate weekend window closed. Next: Sat–Sun 3–4 Oct (package continues through ~6 Oct).",
+      "urgent": false
     },
     {
       "id": "catch-mastery-phantump",
-      "when": "Sat 26 Sep 10:00 AM – 8:00 PM local (LIVE today)",
-      "title": "Catch Mastery: Phantump (LIVE today)",
-      "impact": "Not a raid rotation change — wild/research Phantump (+ Cherubi / Drifloon shinies boosted).",
+      "when": "Sat 26 Sep 10:00 AM – 8:00 PM local (ended)",
+      "title": "Catch Mastery: Phantump (ended)",
+      "impact": "Ended Sat evening. Not a raid rotation change.",
+      "urgent": false
+    },
+    {
+      "id": "harvest-festival",
+      "when": "Tue 29 Sep 10:00 AM – Mon 5 Oct 8:00 PM local",
+      "title": "Harvest Festival: Applin Picking",
+      "impact": "Shiny Applin debut; Mossy Lures → apples; GO Pass includes Super Rocket Radar. Wild/research focused — not a raid boss rotation change (Leek Duck / GO Hub).",
+      "urgent": false
+    },
+    {
+      "id": "shadow-weekend-oct3",
+      "when": "Sat–Sun 3–4 Oct 2026",
+      "title": "Shadow 5★ weekend",
+      "impact": "Shadow Thundurus Incarnate returns for the weekend (through ~6 Oct package end).",
+      "urgent": false
+    },
+    {
+      "id": "harvest-taken-over",
+      "when": "Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local",
+      "title": "Harvest Festival: Taken Over",
+      "impact": "Team GO Rocket Takeover: Giovanni with Shadow Zekrom (Super Rocket Radar via Harvest GO Pass). Grunt/leader lineups change when the event starts — watch Rocket tab (Leek Duck).",
       "urgent": false
     },
     {
