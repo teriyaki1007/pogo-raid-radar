@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-09-29",
-    "asOfLabel": "29 Sep 2026 ~10:45 PM HKT",
+    "asOf": "2026-09-30",
+    "asOfLabel": "30 Sep 2026 ~6:35 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Regional Ultra Beasts (Xurkitree Asia-Pacific / HK · Pheromosa Europe/ME/Africa/India · Buzzwole Americas & Greenland) + Mega Malamar + 1★ Dratini/Larvitar/Bagon/Deino + 3★ Hisuian Typhlosion/Samurott/Decidueye ended Tue 29 Sep 10:00 PM local. Overnight gap now — Current tab is empty for 1★/3★/5★/Mega until Wed 30 Sep 6:00 AM. Then: Xerneas 5★ + Mega Victreebel through Tue 6 Oct 10:00 PM (Raid Hour Wed 30 Sep 6–7 PM). Shadow 1★/3★ daily continue; next Shadow 5★ weekend Sat–Sun 3–4 Oct (Thundurus Incarnate package through ~6 Oct). Harvest Festival: Applin Picking is LIVE (through Mon 5 Oct 8:00 PM). Taken Over / Shadow Zekrom Fri 2 Oct.",
-      "endsAtLabel": "Gap → Wed 30 Sep 6:00 AM · Xerneas / Mega Victreebel → Tue 6 Oct 10:00 PM · Harvest Festival → Mon 5 Oct 8:00 PM · Taken Over → Fri 2 Oct · Next Shadow 5★ weekend → Sat–Sun 3–4 Oct"
+      "text": "LIVE now (from Wed 30 Sep 6:00 AM local): Xerneas 5★ + Mega Victreebel through Tue 6 Oct 10:00 PM. Raid Hour tonight Wed 30 Sep 6–7 PM (Xerneas). Shadow 1★/3★ daily continue; next Shadow 5★ weekend Sat–Sun 3–4 Oct (Thundurus Incarnate package through ~6 Oct). 1★/3★ charts not yet republished by Leek Duck / GO Hub / ScrapedDuck after the UB window — Current lists confirmed 5★ / Mega / Shadow only until those sources update. Harvest Festival: Applin Picking LIVE (through Mon 5 Oct 8:00 PM). Taken Over / Shadow Zekrom Fri 2 Oct.",
+      "endsAtLabel": "Xerneas / Mega Victreebel → Tue 6 Oct 10:00 PM · Raid Hour Wed 30 Sep 6–7 PM · Harvest Festival → Mon 5 Oct 8:00 PM · Taken Over → Fri 2 Oct · Next Shadow 5★ weekend → Sat–Sun 3–4 Oct"
     },
     "legend": {
       "standard": {
@@ -474,7 +474,7 @@
       "category": "shadow",
       "isShadow": true,
       "isMega": false,
-      "window": "Weekends only through ~6 Oct 2026 — weekend Sat–Sun 26–27 Sep closed; next Sat–Sun 3–4 Oct (ends Oct 6 ~8:00 PM local)",
+      "window": "Weekends only through ~6 Oct 2026 — next Sat–Sun 3–4 Oct (ends Oct 6 ~8:00 PM local)",
       "windowStart": "2026-09-09T06:00:00",
       "windowEnd": "2026-10-06T20:00:00",
       "shiny": true,
@@ -491,7 +491,7 @@
         "pokeapiId": 642,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png"
       },
-      "notes": "Weekend package closed for 26–27 Sep. Next Shadow 5★ window Sat–Sun 3–4 Oct; further weekends through ~6 Oct 2026. Local-only; Purified Gems needed when enraged.",
+      "notes": "Next Shadow 5★ window Sat–Sun 3–4 Oct; further weekends through ~6 Oct 2026. Local-only; Purified Gems needed when enraged.",
       "highlight": true,
       "types": [
         "Electric",
@@ -537,7 +537,7 @@
       "catchForm": null,
       "tier": "5",
       "tierLabel": "5★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "window": "30 Sep – 6 Oct 2026 (6:00 AM → 10:00 PM local)",
@@ -556,7 +556,7 @@
         "pokeapiId": 716,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
       },
-      "notes": "Raid Hour Wed 30 Sep 6–7 PM.",
+      "notes": "Raid Hour Wed 30 Sep 6–7 PM (tonight).",
       "types": [
         "Fairy"
       ],
@@ -590,7 +590,8 @@
           "moves": "Lick / Sludge Bomb"
         }
       ],
-      "countersSource": "guide"
+      "countersSource": "guide",
+      "highlight": true
     },
     {
       "id": "mega-victreebel",
@@ -600,7 +601,7 @@
       "catchForm": "Victreebel",
       "tier": "mega",
       "tierLabel": "Mega",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": true,
       "window": "30 Sep – 6 Oct 2026 (6:00 AM → 10:00 PM local)",
@@ -704,7 +705,7 @@
       "id": "ubs-malamar",
       "when": "Wed 23 Sep 6:00 AM – Tue 29 Sep 10:00 PM local (ended)",
       "title": "Regional Ultra Beasts + Mega Malamar (ended)",
-      "impact": "Ended Tue 29 Sep 10:00 PM local. Overnight gap until Wed 30 Sep 6:00 AM (Xerneas + Mega Victreebel).",
+      "impact": "Ended Tue 29 Sep 10:00 PM local. Replaced by Xerneas + Mega Victreebel.",
       "urgent": false
     },
     {
@@ -758,9 +759,16 @@
     },
     {
       "id": "xerneas-victreebel",
-      "when": "Wed 30 Sep 6:00 AM – Tue 6 Oct 10:00 PM local (next — ~hours away)",
-      "title": "Xerneas 5★ + Mega Victreebel",
-      "impact": "New legendary / mega through 6 Oct. See Upcoming tab. Raid Hour Wed 30 Sep 6–7 PM. Leek Duck has not yet listed 1★/3★ for this window.",
+      "when": "Wed 30 Sep 6:00 AM – Tue 6 Oct 10:00 PM local (LIVE)",
+      "title": "Xerneas 5★ + Mega Victreebel (LIVE)",
+      "impact": "5★ Xerneas + Mega Victreebel worldwide through 6 Oct. Raid Hour Wed 30 Sep 6–7 PM. 1★/3★ not yet confirmed by Leek Duck / GO Hub / ScrapedDuck after UB rotation ended.",
+      "urgent": true
+    },
+    {
+      "id": "raid-hour-xerneas",
+      "when": "Wed 30 Sep 6:00–7:00 PM local (tonight)",
+      "title": "Raid Hour: Xerneas (tonight)",
+      "impact": "Extra 5★ density for Xerneas",
       "urgent": true
     }
   ]
