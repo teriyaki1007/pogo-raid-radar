@@ -1,0 +1,1344 @@
+{
+ "version": 1,
+ "note": "Ratings are fan-estimated MCU power levels, just for fun.",
+ "characters": [
+  {
+   "id": "iron-man",
+   "name": "Iron Man",
+   "alias": "Tony Stark",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Iron Man",
+    "year": 2008,
+    "type": "Film"
+   },
+   "power": 82,
+   "initials": "IM",
+   "theme": {
+    "c1": "#7a0f14",
+    "c2": "#e0a72b",
+    "accent": "#ffd76a"
+   },
+   "pattern": "hex",
+   "emblem": "circle",
+   "tagline": "Genius. Inventor. Showman.",
+   "description": "A billionaire inventor who builds a powered suit of armour and turns his genius toward protecting the world.",
+   "importance": "Iron Man kicked off the entire Marvel Cinematic Universe and set its tone: witty, high-tech and full of heart. His choices and inventions ripple through many of the stories that follow.",
+   "abilities": [
+    "Powered armour",
+    "Genius intellect",
+    "Repulsor blasts",
+    "Flight",
+    "AI assistants"
+   ]
+  },
+  {
+   "id": "captain-america",
+   "name": "Captain America",
+   "alias": "Steve Rogers",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Captain America: The First Avenger",
+    "year": 2011,
+    "type": "Film"
+   },
+   "power": 78,
+   "initials": "CA",
+   "theme": {
+    "c1": "#0b2a6b",
+    "c2": "#c0272d",
+    "accent": "#e8eefc"
+   },
+   "pattern": "stripes",
+   "emblem": "star",
+   "tagline": "The first Avenger.",
+   "description": "A determined soldier transformed by an experimental serum into the peak of human ability, carrying a near-indestructible shield.",
+   "importance": "Cap is the moral compass of the team, a symbol of courage and old-fashioned decency. His leadership holds the Avengers together when things get complicated.",
+   "abilities": [
+    "Super-soldier strength",
+    "Shield mastery",
+    "Tactical leadership",
+    "Peak agility"
+   ]
+  },
+  {
+   "id": "thor",
+   "name": "Thor",
+   "alias": "Thor Odinson",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Thor",
+    "year": 2011,
+    "type": "Film"
+   },
+   "power": 94,
+   "initials": "TH",
+   "theme": {
+    "c1": "#15275e",
+    "c2": "#5aa8ff",
+    "accent": "#e9f4ff"
+   },
+   "pattern": "bolt",
+   "emblem": "bolt",
+   "tagline": "God of Thunder.",
+   "description": "The mighty Asgardian god of thunder, wielding lightning and a hammer-forged weapon that answers only to the worthy.",
+   "importance": "Thor connects Earth to the wider cosmos of gods and realms. His storylines open the door to magic, mythology and the larger cosmic threats in the MCU.",
+   "abilities": [
+    "Lightning control",
+    "Godly strength",
+    "Flight",
+    "Weather manipulation",
+    "Near-immortality"
+   ]
+  },
+  {
+   "id": "hulk",
+   "name": "Hulk",
+   "alias": "Dr. Bruce Banner",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "The Incredible Hulk",
+    "year": 2008,
+    "type": "Film"
+   },
+   "power": 92,
+   "initials": "HK",
+   "theme": {
+    "c1": "#0f4d22",
+    "c2": "#6bcf3f",
+    "accent": "#d4ffb0"
+   },
+   "pattern": "burst",
+   "emblem": "hex",
+   "tagline": "Puny humans, meet the Other Guy.",
+   "description": "A brilliant scientist whose gamma-radiation accident unleashes a towering green powerhouse when his anger rises.",
+   "importance": "The Hulk is one of the most physically powerful heroes in the MCU and a constant reminder that the biggest battles can be internal. Banner's science and Hulk's might make for a unique double act.",
+   "abilities": [
+    "Limitless strength",
+    "Gamma healing",
+    "Leaping",
+    "Durability",
+    "Genius-level science"
+   ]
+  },
+  {
+   "id": "black-widow",
+   "name": "Black Widow",
+   "alias": "Natasha Romanoff",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Iron Man 2",
+    "year": 2010,
+    "type": "Film"
+   },
+   "power": 52,
+   "initials": "BW",
+   "theme": {
+    "c1": "#1a1a22",
+    "c2": "#b3202a",
+    "accent": "#ff7b84"
+   },
+   "pattern": "diamonds",
+   "emblem": "diamond",
+   "tagline": "Every mission has a cost.",
+   "description": "A master spy and martial artist with a shadowy past, she fights with pure skill rather than super powers.",
+   "importance": "Natasha is the glue of the early Avengers: a strategist and infiltrator who keeps the team grounded. Her history is full of secrets that drive many stories.",
+   "abilities": [
+    "Expert spy",
+    "Martial arts",
+    "Marksmanship",
+    "Stealth",
+    "Wrist gadgets"
+   ]
+  },
+  {
+   "id": "hawkeye",
+   "name": "Hawkeye",
+   "alias": "Clint Barton",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Thor",
+    "year": 2011,
+    "type": "Film"
+   },
+   "power": 48,
+   "initials": "HE",
+   "theme": {
+    "c1": "#3a1c6b",
+    "c2": "#8a55d6",
+    "accent": "#d9c2ff"
+   },
+   "pattern": "chevrons",
+   "emblem": "triangle",
+   "tagline": "Never misses.",
+   "description": "A peerless archer who never misses, armed with an arsenal of specialised trick arrows.",
+   "importance": "Clint proves you do not need powers to be a hero. As a family man among gods and monsters, he brings the team a very human perspective.",
+   "abilities": [
+    "Perfect aim",
+    "Trick arrows",
+    "Tactics",
+    "Hand-to-hand combat"
+   ]
+  },
+  {
+   "id": "spider-man",
+   "name": "Spider-Man",
+   "alias": "Peter Parker",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "type": "Film"
+   },
+   "power": 72,
+   "initials": "SM",
+   "theme": {
+    "c1": "#b21a24",
+    "c2": "#1c3c9c",
+    "accent": "#ffb3b8"
+   },
+   "pattern": "grid",
+   "emblem": "circle",
+   "tagline": "Your friendly neighbourhood hero.",
+   "description": "A teenage New Yorker with spider-like powers who swings through the city balancing homework and heroics.",
+   "importance": "Spider-Man brings youth, humour and relatability to the MCU. He shows the everyday-hero side of the universe and grows a lot under the mentors he meets.",
+   "abilities": [
+    "Wall-crawling",
+    "Spider-sense",
+    "Web-shooters",
+    "Super agility",
+    "Quick wit"
+   ]
+  },
+  {
+   "id": "black-panther",
+   "name": "Black Panther",
+   "alias": "T'Challa",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Captain America: Civil War",
+    "year": 2016,
+    "type": "Film"
+   },
+   "power": 76,
+   "initials": "BP",
+   "theme": {
+    "c1": "#0c0c14",
+    "c2": "#6b3fb8",
+    "accent": "#c9a8ff"
+   },
+   "pattern": "chevrons",
+   "emblem": "claw",
+   "tagline": "Wakanda Forever.",
+   "description": "The king and protector of Wakanda, wearing a suit of vibranium and blending tradition with cutting-edge tech.",
+   "importance": "T'Challa introduces Wakanda, the most advanced nation on Earth, and the power of the vibranium metal. His reign raises big questions about how a leader should use power.",
+   "abilities": [
+    "Vibranium suit",
+    "Enhanced senses",
+    "Martial arts",
+    "Kinetic energy absorption",
+    "Royal tactics"
+   ]
+  },
+  {
+   "id": "doctor-strange",
+   "name": "Doctor Strange",
+   "alias": "Dr. Stephen Strange",
+   "group": "other",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Doctor Strange",
+    "year": 2016,
+    "type": "Film"
+   },
+   "power": 88,
+   "initials": "DS",
+   "theme": {
+    "c1": "#6b1a1a",
+    "c2": "#e0892b",
+    "accent": "#ffe0a8"
+   },
+   "pattern": "rings",
+   "emblem": "circle",
+   "tagline": "Master of the Mystic Arts.",
+   "description": "A gifted surgeon who discovers the mystic arts and becomes Earth's Sorcerer Supreme.",
+   "importance": "Strange opens up magic and the multiverse in the MCU. He is often the one who sees the wider picture and understands what is truly at stake.",
+   "abilities": [
+    "Sorcery",
+    "Portals",
+    "Time manipulation",
+    "Astral projection",
+    "Mystic shields"
+   ]
+  },
+  {
+   "id": "captain-marvel",
+   "name": "Captain Marvel",
+   "alias": "Carol Danvers",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Captain Marvel",
+    "year": 2019,
+    "type": "Film"
+   },
+   "power": 95,
+   "initials": "CM",
+   "theme": {
+    "c1": "#1f3fae",
+    "c2": "#e0282e",
+    "accent": "#ffd24a"
+   },
+   "pattern": "burst",
+   "emblem": "star",
+   "tagline": "Higher, further, faster.",
+   "description": "A former pilot infused with cosmic energy, she flies faster than sound and fires powerful energy blasts.",
+   "importance": "Carol is among the most powerful heroes in the MCU and connects Earth's story to the galactic community. Her origin also fills in important history about the early days of S.H.I.E.L.D.",
+   "abilities": [
+    "Photon blasts",
+    "Supersonic flight",
+    "Super strength",
+    "Energy absorption",
+    "Space survival"
+   ]
+  },
+  {
+   "id": "ant-man",
+   "name": "Ant-Man",
+   "alias": "Scott Lang",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Ant-Man",
+    "year": 2015,
+    "type": "Film"
+   },
+   "power": 58,
+   "initials": "AM",
+   "theme": {
+    "c1": "#8a1c1c",
+    "c2": "#2a2a33",
+    "accent": "#ff9a6b"
+   },
+   "pattern": "dots",
+   "emblem": "circle",
+   "tagline": "Think small. Hit big.",
+   "description": "A clever ex-thief who wears a suit that lets him shrink to insect size or grow to giant scale.",
+   "importance": "Scott brings a lighter, heist-movie flavour to the MCU and opens the door to the mysterious Quantum Realm. His small-scale tricks have surprisingly big consequences.",
+   "abilities": [
+    "Size change",
+    "Ant communication",
+    "Suit tech",
+    "Quick thinking"
+   ]
+  },
+  {
+   "id": "wasp",
+   "name": "Wasp",
+   "alias": "Hope van Dyne",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Ant-Man (as Hope van Dyne)",
+    "year": 2015,
+    "type": "Film"
+   },
+   "power": 60,
+   "initials": "WP",
+   "theme": {
+    "c1": "#c48a00",
+    "c2": "#1b1b22",
+    "accent": "#ffe27a"
+   },
+   "pattern": "chevrons",
+   "emblem": "bolt",
+   "tagline": "Small but deadly.",
+   "description": "A skilled fighter who shrinks to tiny size with wings and stinging energy blasts.",
+   "importance": "Hope is a capable hero and a scientist in her own right, and her family history is tied to the shrinking technology that powers the Ant-Man stories.",
+   "abilities": [
+    "Shrinking",
+    "Flight",
+    "Bio-electric stingers",
+    "Combat training"
+   ]
+  },
+  {
+   "id": "scarlet-witch",
+   "name": "Scarlet Witch",
+   "alias": "Wanda Maximoff",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "type": "Film"
+   },
+   "power": 96,
+   "initials": "SW",
+   "theme": {
+    "c1": "#5a0a1e",
+    "c2": "#d3173e",
+    "accent": "#ff9fb5"
+   },
+   "pattern": "waves",
+   "emblem": "star",
+   "tagline": "Power without limits.",
+   "description": "A woman with remarkable reality-bending magic, whose crimson energy can move objects and warp minds.",
+   "importance": "Wanda is one of the most powerful beings in the MCU, and her emotional journey is central to several stories. Her abilities hint at forces few characters fully understand.",
+   "abilities": [
+    "Chaos magic",
+    "Telekinesis",
+    "Mind influence",
+    "Energy blasts",
+    "Reality warping"
+   ]
+  },
+  {
+   "id": "vision",
+   "name": "Vision",
+   "alias": "Vision",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Avengers: Age of Ultron",
+    "year": 2015,
+    "type": "Film"
+   },
+   "power": 86,
+   "initials": "VI",
+   "theme": {
+    "c1": "#15623a",
+    "c2": "#e0b32b",
+    "accent": "#fff0a8"
+   },
+   "pattern": "rings",
+   "emblem": "diamond",
+   "tagline": "A new kind of life.",
+   "description": "A synthetic being with a glowing gem on his brow, combining artificial intelligence with extraordinary abilities.",
+   "importance": "Vision explores what it means to be alive and what makes someone human. He is powerful yet gentle and often the calm voice among the Avengers.",
+   "abilities": [
+    "Density control",
+    "Flight",
+    "Energy beams",
+    "Intangibility",
+    "Super intelligence"
+   ]
+  },
+  {
+   "id": "falcon",
+   "name": "Falcon",
+   "alias": "Sam Wilson",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Captain America: The Winter Soldier",
+    "year": 2014,
+    "type": "Film"
+   },
+   "power": 55,
+   "initials": "FA",
+   "theme": {
+    "c1": "#7a1f1f",
+    "c2": "#2a3b66",
+    "accent": "#ffd0c8"
+   },
+   "pattern": "chevrons",
+   "emblem": "triangle",
+   "tagline": "Soaring on principle.",
+   "description": "A former Air Force pararescue specialist who soars the skies with a high-tech winged flight suit.",
+   "importance": "Sam is a dependable friend and skilled mentor figure who brings a grounded perspective and heart. He proves leadership is about people, not power.",
+   "abilities": [
+    "Flight harness",
+    "Aerial combat",
+    "Drone companion",
+    "Counselling",
+    "Shield skills"
+   ]
+  },
+  {
+   "id": "winter-soldier",
+   "name": "Winter Soldier",
+   "alias": "Bucky Barnes",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Captain America: The First Avenger",
+    "year": 2011,
+    "type": "Film"
+   },
+   "power": 60,
+   "initials": "WS",
+   "theme": {
+    "c1": "#2a2f3a",
+    "c2": "#8b98ad",
+    "accent": "#dce6f5"
+   },
+   "pattern": "stripes",
+   "emblem": "star",
+   "tagline": "A soldier out of time.",
+   "description": "A highly trained soldier with a metal arm and a long, complicated history alongside Steve Rogers.",
+   "importance": "Bucky's tie to Captain America gives the MCU some of its most personal stories. His journey is about finding who he is after a lot of hardship.",
+   "abilities": [
+    "Cybernetic arm",
+    "Super-soldier physique",
+    "Marksmanship",
+    "Stealth combat"
+   ]
+  },
+  {
+   "id": "war-machine",
+   "name": "War Machine",
+   "alias": "James \"Rhodey\" Rhodes",
+   "group": "avengers",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Iron Man",
+    "year": 2008,
+    "type": "Film"
+   },
+   "power": 62,
+   "initials": "WM",
+   "theme": {
+    "c1": "#3a3f48",
+    "c2": "#b0b7c3",
+    "accent": "#ffffff"
+   },
+   "pattern": "hex",
+   "emblem": "shield",
+   "tagline": "Heavy firepower, steady heart.",
+   "description": "A loyal Air Force officer and friend of Tony Stark who pilots a heavily armed armoured suit.",
+   "importance": "Rhodey is the dependable military mind among the heroes and a steady friend. He brings the heavy weaponry and a no-nonsense attitude.",
+   "abilities": [
+    "Armoured suit",
+    "Heavy weapons",
+    "Flight",
+    "Military tactics"
+   ]
+  },
+  {
+   "id": "loki",
+   "name": "Loki",
+   "alias": "Loki, God of Mischief",
+   "group": "villains",
+   "alignment": "villain",
+   "firstAppearance": {
+    "title": "Thor",
+    "year": 2011,
+    "type": "Film"
+   },
+   "power": 74,
+   "initials": "LK",
+   "theme": {
+    "c1": "#0f4a36",
+    "c2": "#c8a227",
+    "accent": "#f2e08a"
+   },
+   "pattern": "waves",
+   "emblem": "crescent",
+   "tagline": "Glorious purpose.",
+   "description": "A silver-tongued Asgardian trickster who uses illusions and cunning to get what he wants.",
+   "importance": "Loki is the MCU's most memorable troublemaker and a constant wild card. Charming, unpredictable and hard to pin down, he keeps every story he joins fun.",
+   "abilities": [
+    "Illusions",
+    "Sorcery",
+    "Shapeshifting",
+    "Daggers",
+    "Silver tongue"
+   ]
+  },
+  {
+   "id": "thanos",
+   "name": "Thanos",
+   "alias": "The Mad Titan",
+   "group": "villains",
+   "alignment": "villain",
+   "firstAppearance": {
+    "title": "The Avengers",
+    "year": 2012,
+    "type": "Film"
+   },
+   "power": 98,
+   "initials": "TN",
+   "theme": {
+    "c1": "#3d1a6b",
+    "c2": "#d08a2b",
+    "accent": "#ffd98a"
+   },
+   "pattern": "burst",
+   "emblem": "hex",
+   "tagline": "Inevitable.",
+   "description": "A towering cosmic warlord obsessed with a grand plan and a golden gauntlet that holds six powerful stones.",
+   "importance": "Thanos is the biggest threat of the Infinity Saga, and his shadow looms over many films. He turns an entire run of stories into a single epic quest.",
+   "abilities": [
+    "Immense strength",
+    "Near-invulnerability",
+    "Cosmic weaponry",
+    "Strategic mind",
+    "Infinity Stones"
+   ]
+  },
+  {
+   "id": "star-lord",
+   "name": "Star-Lord",
+   "alias": "Peter Quill",
+   "group": "guardians",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "type": "Film"
+   },
+   "power": 56,
+   "initials": "SL",
+   "theme": {
+    "c1": "#7a1e3a",
+    "c2": "#2a5ac0",
+    "accent": "#ffb8d0"
+   },
+   "pattern": "grid",
+   "emblem": "star",
+   "tagline": "Legendary outlaw.",
+   "description": "A charming space outlaw raised among Ravagers, armed with element guns and a classic mixtape.",
+   "importance": "Quill leads the ragtag Guardians. He brings humour, heart and a love for 80s music to the cosmic side of the MCU.",
+   "abilities": [
+    "Element guns",
+    "Jet boots",
+    "Leadership",
+    "Quick wit"
+   ]
+  },
+  {
+   "id": "gamora",
+   "name": "Gamora",
+   "alias": "Gamora",
+   "group": "guardians",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "type": "Film"
+   },
+   "power": 66,
+   "initials": "GA",
+   "theme": {
+    "c1": "#0f5a3a",
+    "c2": "#8c2fb0",
+    "accent": "#9cf0c0"
+   },
+   "pattern": "chevrons",
+   "emblem": "diamond",
+   "tagline": "Deadliest woman in the galaxy.",
+   "description": "A deadly, highly trained assassin known as the most dangerous woman in the galaxy.",
+   "importance": "Gamora's combat skill and moral grit make her the serious heart of the Guardians. Her past is intertwined with some of the galaxy's biggest players.",
+   "abilities": [
+    "Swordsmanship",
+    "Expert assassin",
+    "Enhanced agility",
+    "Acrobatics"
+   ]
+  },
+  {
+   "id": "drax",
+   "name": "Drax",
+   "alias": "Drax the Destroyer",
+   "group": "guardians",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "type": "Film"
+   },
+   "power": 62,
+   "initials": "DX",
+   "theme": {
+    "c1": "#2d4a7a",
+    "c2": "#b23a2a",
+    "accent": "#d4e2ff"
+   },
+   "pattern": "stripes",
+   "emblem": "shield",
+   "tagline": "Nothing goes over his head.",
+   "description": "A powerful warrior driven by a vow of vengeance who takes everything extremely literally.",
+   "importance": "Drax delivers big laughs and big punches. His loyalty and surprising warmth make him a fan favourite among the Guardians.",
+   "abilities": [
+    "Super strength",
+    "Dual knives",
+    "Durability",
+    "Literal thinking"
+   ]
+  },
+  {
+   "id": "rocket",
+   "name": "Rocket",
+   "alias": "Rocket Raccoon",
+   "group": "guardians",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "type": "Film"
+   },
+   "power": 45,
+   "initials": "RK",
+   "theme": {
+    "c1": "#7a3d12",
+    "c2": "#d0702a",
+    "accent": "#ffd2a0"
+   },
+   "pattern": "dots",
+   "emblem": "circle",
+   "tagline": "Got a gun for that.",
+   "description": "A sharp-tongued, genetically enhanced raccoon with a gift for weapons and engineering.",
+   "importance": "Rocket is the team's tinkerer and heart behind the prickly exterior. He shows that clever minds are as valuable as raw power.",
+   "abilities": [
+    "Weapon genius",
+    "Engineering",
+    "Piloting",
+    "Sharpshooting"
+   ]
+  },
+  {
+   "id": "groot",
+   "name": "Groot",
+   "alias": "Groot",
+   "group": "guardians",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "type": "Film"
+   },
+   "power": 64,
+   "initials": "GR",
+   "theme": {
+    "c1": "#5a3a1a",
+    "c2": "#3f9b3a",
+    "accent": "#c8f0a0"
+   },
+   "pattern": "waves",
+   "emblem": "diamond",
+   "tagline": "I am Groot.",
+   "description": "A gentle tree-like being who speaks only three words but can grow, stretch and shield his friends.",
+   "importance": "Groot is the soft-hearted muscle of the Guardians. His simple loyalty and growing character arc make him one of the most beloved members.",
+   "abilities": [
+    "Plant growth",
+    "Regeneration",
+    "Extending limbs",
+    "Protective barriers"
+   ]
+  },
+  {
+   "id": "nebula",
+   "name": "Nebula",
+   "alias": "Nebula",
+   "group": "guardians",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "type": "Film"
+   },
+   "power": 62,
+   "initials": "NB",
+   "theme": {
+    "c1": "#0f2a6b",
+    "c2": "#2aa0d8",
+    "accent": "#a8e6ff"
+   },
+   "pattern": "hex",
+   "emblem": "hex",
+   "tagline": "Forged in battle.",
+   "description": "A fierce cyborg warrior with a blue-skinned, battle-hardened past and a prickly, loyal streak.",
+   "importance": "Nebula's path is one of the MCU's most interesting character growth journeys. She brings toughness and unexpected depth to every team she joins.",
+   "abilities": [
+    "Cybernetics",
+    "Blade combat",
+    "Durability",
+    "Tactical skill"
+   ]
+  },
+  {
+   "id": "mantis",
+   "name": "Mantis",
+   "alias": "Mantis",
+   "group": "guardians",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "type": "Film"
+   },
+   "power": 50,
+   "initials": "MT",
+   "theme": {
+    "c1": "#0f5a5a",
+    "c2": "#8fd0a8",
+    "accent": "#e0fff0"
+   },
+   "pattern": "waves",
+   "emblem": "crescent",
+   "tagline": "Feel the feels.",
+   "description": "A sweet, sensitive empath who can sense and soothe the feelings of others.",
+   "importance": "Mantis adds warmth and awkward humour to the Guardians. Her gentle power shows there is more than one way to win a fight.",
+   "abilities": [
+    "Empathy",
+    "Calming touch",
+    "Martial arts",
+    "Antennae senses"
+   ]
+  },
+  {
+   "id": "shang-chi",
+   "name": "Shang-Chi",
+   "alias": "Shaun",
+   "group": "other",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Shang-Chi and the Legend of the Ten Rings",
+    "year": 2021,
+    "type": "Film"
+   },
+   "power": 68,
+   "initials": "SC",
+   "theme": {
+    "c1": "#7a1212",
+    "c2": "#d8a020",
+    "accent": "#ffe6a0"
+   },
+   "pattern": "rings",
+   "emblem": "claw",
+   "tagline": "Master of martial arts.",
+   "description": "A gifted martial artist who trained from childhood and wields ten mystical rings.",
+   "importance": "Shang-Chi brings martial-arts flair and a new cultural backdrop to the MCU. His story opens a fresh corner of the universe full of legends and magic.",
+   "abilities": [
+    "Kung fu mastery",
+    "Ten Rings",
+    "Acrobatics",
+    "Chi energy"
+   ]
+  },
+  {
+   "id": "wong",
+   "name": "Wong",
+   "alias": "Wong",
+   "group": "other",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Doctor Strange",
+    "year": 2016,
+    "type": "Film"
+   },
+   "power": 66,
+   "initials": "WG",
+   "theme": {
+    "c1": "#4a1f6b",
+    "c2": "#d09a2b",
+    "accent": "#f0dca0"
+   },
+   "pattern": "rings",
+   "emblem": "circle",
+   "tagline": "Keeper of the books.",
+   "description": "A serious, dry-witted master of the mystic arts and protector of ancient sorcerous texts.",
+   "importance": "Wong anchors the magical side of the MCU. He is a steady ally, a teacher and a powerful sorcerer in his own right.",
+   "abilities": [
+    "Sorcery",
+    "Portal creation",
+    "Mystic knowledge",
+    "Martial arts"
+   ]
+  },
+  {
+   "id": "ultron",
+   "name": "Ultron",
+   "alias": "Ultron",
+   "group": "villains",
+   "alignment": "villain",
+   "firstAppearance": {
+    "title": "Avengers: Age of Ultron",
+    "year": 2015,
+    "type": "Film"
+   },
+   "power": 80,
+   "initials": "UL",
+   "theme": {
+    "c1": "#3a0f0f",
+    "c2": "#8a1c1c",
+    "accent": "#ff6b6b"
+   },
+   "pattern": "grid",
+   "emblem": "diamond",
+   "tagline": "There are no strings on me.",
+   "description": "A self-aware artificial intelligence with a metallic body and some very strong opinions about humanity.",
+   "importance": "Ultron shows how technology meant to protect can go badly wrong. He is a tech-driven threat that tests the Avengers as a team.",
+   "abilities": [
+    "Robot bodies",
+    "Network control",
+    "Energy beams",
+    "Adaptive AI",
+    "Super strength"
+   ]
+  },
+  {
+   "id": "hela",
+   "name": "Hela",
+   "alias": "Goddess of Death",
+   "group": "villains",
+   "alignment": "villain",
+   "firstAppearance": {
+    "title": "Thor: Ragnarok",
+    "year": 2017,
+    "type": "Film"
+   },
+   "power": 91,
+   "initials": "HL",
+   "theme": {
+    "c1": "#0a2a1a",
+    "c2": "#1a7a4a",
+    "accent": "#7af0b0"
+   },
+   "pattern": "chevrons",
+   "emblem": "crescent",
+   "tagline": "Goddess of Death.",
+   "description": "The Asgardian Goddess of Death, armed with conjured blades and a hunger for conquest.",
+   "importance": "Hela is a fearsome force whose arrival shakes up Thor's world. She proves that power in the MCU can come from ancient, deep-rooted sources.",
+   "abilities": [
+    "Necrosword",
+    "Blade conjuring",
+    "Godly strength",
+    "Regeneration",
+    "Command of the dead"
+   ]
+  },
+  {
+   "id": "killmonger",
+   "name": "Killmonger",
+   "alias": "Erik Stevens",
+   "group": "villains",
+   "alignment": "villain",
+   "firstAppearance": {
+    "title": "Black Panther",
+    "year": 2018,
+    "type": "Film"
+   },
+   "power": 71,
+   "initials": "KM",
+   "theme": {
+    "c1": "#1a1a22",
+    "c2": "#d09a1a",
+    "accent": "#ffd87a"
+   },
+   "pattern": "diamonds",
+   "emblem": "claw",
+   "tagline": "A villain with a point.",
+   "description": "A skilled operative with a formidable military background and a personal mission to change Wakanda.",
+   "importance": "Killmonger is praised as one of the MCU's best-written antagonists, with a goal that makes the audience think. His story challenges what a hero is supposed to do.",
+   "abilities": [
+    "Military tactics",
+    "Martial arts",
+    "Tech suit",
+    "Ruthless focus"
+   ]
+  },
+  {
+   "id": "ego",
+   "name": "Ego",
+   "alias": "Ego",
+   "group": "villains",
+   "alignment": "villain",
+   "firstAppearance": {
+    "title": "Guardians of the Galaxy Vol. 2",
+    "year": 2017,
+    "type": "Film"
+   },
+   "power": 97,
+   "initials": "EG",
+   "theme": {
+    "c1": "#7a2a08",
+    "c2": "#e0a02a",
+    "accent": "#ffe2a0"
+   },
+   "pattern": "burst",
+   "emblem": "circle",
+   "tagline": "A celestial force.",
+   "description": "An ancient cosmic being of staggering power who crosses paths with the Guardians.",
+   "importance": "Ego expands the MCU's cosmic scale and shows just how big the universe can get. His arrival gives the Guardians' second adventure a huge sense of scale.",
+   "abilities": [
+    "Cosmic power",
+    "Matter manipulation",
+    "Energy constructs",
+    "Near-immortality"
+   ]
+  },
+  {
+   "id": "red-skull",
+   "name": "Red Skull",
+   "alias": "Johann Schmidt",
+   "group": "villains",
+   "alignment": "villain",
+   "firstAppearance": {
+    "title": "Captain America: The First Avenger",
+    "year": 2011,
+    "type": "Film"
+   },
+   "power": 58,
+   "initials": "RS",
+   "theme": {
+    "c1": "#5a0f0f",
+    "c2": "#1a1a1a",
+    "accent": "#ff6b5a"
+   },
+   "pattern": "stripes",
+   "emblem": "triangle",
+   "tagline": "Hail to power.",
+   "description": "The ruthless head of an elite science division, driven by an obsession with powerful artefacts.",
+   "importance": "Red Skull is Captain America's first big opponent and ties the MCU to its earliest mysteries. His hunt for ancient power sets up themes that echo later.",
+   "abilities": [
+    "Super-soldier strength",
+    "Advanced weapons",
+    "Command",
+    "Relic tech"
+   ]
+  },
+  {
+   "id": "ronan",
+   "name": "Ronan",
+   "alias": "Ronan the Accuser",
+   "group": "villains",
+   "alignment": "villain",
+   "firstAppearance": {
+    "title": "Guardians of the Galaxy",
+    "year": 2014,
+    "type": "Film"
+   },
+   "power": 68,
+   "initials": "RN",
+   "theme": {
+    "c1": "#3a1a6b",
+    "c2": "#8a2fb0",
+    "accent": "#d8b0ff"
+   },
+   "pattern": "chevrons",
+   "emblem": "hex",
+   "tagline": "The Accuser.",
+   "description": "A fanatical Kree warrior with a giant war hammer and a fierce devotion to his cause.",
+   "importance": "Ronan is the first major cosmic threat the Guardians face. He shows the brutal side of galactic politics and raises the stakes of their first adventure.",
+   "abilities": [
+    "War hammer",
+    "Super strength",
+    "Kree technology",
+    "Fearless combat"
+   ]
+  },
+  {
+   "id": "kang",
+   "name": "Kang",
+   "alias": "Kang the Conqueror",
+   "group": "villains",
+   "alignment": "villain",
+   "firstAppearance": {
+    "title": "Loki (Season 1)",
+    "year": 2021,
+    "type": "Series"
+   },
+   "power": 87,
+   "initials": "KG",
+   "theme": {
+    "c1": "#0f2a5a",
+    "c2": "#2a8ad8",
+    "accent": "#a8d8ff"
+   },
+   "pattern": "grid",
+   "emblem": "hex",
+   "tagline": "Conqueror of time.",
+   "description": "A cunning time-travelling conqueror with powerful future technology and a patient, strategic mind.",
+   "importance": "Kang is set up as a big multiversal threat. He brings the idea of time and alternate realities into the forefront of the MCU.",
+   "abilities": [
+    "Advanced tech",
+    "Time travel",
+    "Strategic genius",
+    "Power armour"
+   ]
+  },
+  {
+   "id": "namor",
+   "name": "Namor",
+   "alias": "Namor / K'uk'ulkan",
+   "group": "villains",
+   "alignment": "villain",
+   "firstAppearance": {
+    "title": "Black Panther: Wakanda Forever",
+    "year": 2022,
+    "type": "Film"
+   },
+   "power": 84,
+   "initials": "NM",
+   "theme": {
+    "c1": "#0a4a6b",
+    "c2": "#2ac0a8",
+    "accent": "#a8fff0"
+   },
+   "pattern": "waves",
+   "emblem": "crescent",
+   "tagline": "King of the deep.",
+   "description": "The proud ruler of a hidden underwater kingdom, blessed with flight, strength and lightning-fast reflexes.",
+   "importance": "Namor introduces a whole new civilisation beneath the waves. His fierce protectiveness makes him a formidable and complicated figure.",
+   "abilities": [
+    "Flight",
+    "Super strength",
+    "Underwater breathing",
+    "Enhanced senses",
+    "Royal command"
+   ]
+  },
+  {
+   "id": "ms-marvel",
+   "name": "Ms. Marvel",
+   "alias": "Kamala Khan",
+   "group": "other",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Ms. Marvel",
+    "year": 2022,
+    "type": "Series"
+   },
+   "power": 60,
+   "initials": "MM",
+   "theme": {
+    "c1": "#b2185a",
+    "c2": "#2a5ac0",
+    "accent": "#ffb8e0"
+   },
+   "pattern": "burst",
+   "emblem": "star",
+   "tagline": "Good is not a thing you are.",
+   "description": "A high-school fan of the Avengers who discovers light-based powers of her own.",
+   "importance": "Kamala brings fresh, youthful energy and a joyous new perspective. Her story is about growing into your own identity.",
+   "abilities": [
+    "Light constructs",
+    "Shape stretching",
+    "Fast thinking",
+    "Hard-light energy"
+   ]
+  },
+  {
+   "id": "she-hulk",
+   "name": "She-Hulk",
+   "alias": "Jennifer Walters",
+   "group": "other",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "She-Hulk: Attorney at Law",
+    "year": 2022,
+    "type": "Series"
+   },
+   "power": 80,
+   "initials": "SH",
+   "theme": {
+    "c1": "#0f6b3a",
+    "c2": "#9a2fd0",
+    "accent": "#c8ffd0"
+   },
+   "pattern": "diamonds",
+   "emblem": "diamond",
+   "tagline": "Smash and sue.",
+   "description": "A sharp lawyer who can transform into an emerald powerhouse while keeping her confidence and composure.",
+   "importance": "She-Hulk adds comedy, courtroom drama and meta-humour to the MCU. She shows a fun, more relaxed side of super-heroing.",
+   "abilities": [
+    "Super strength",
+    "Durability",
+    "Leaping",
+    "Legal expertise"
+   ]
+  },
+  {
+   "id": "moon-knight",
+   "name": "Moon Knight",
+   "alias": "Marc Spector",
+   "group": "other",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Moon Knight",
+    "year": 2022,
+    "type": "Series"
+   },
+   "power": 66,
+   "initials": "MK",
+   "theme": {
+    "c1": "#1a1a2a",
+    "c2": "#b8c0d8",
+    "accent": "#ffffff"
+   },
+   "pattern": "rings",
+   "emblem": "crescent",
+   "tagline": "Fist of Khonshu.",
+   "description": "A mysterious vigilante empowered by an ancient Egyptian moon god, with a complicated inner life.",
+   "importance": "Moon Knight pushes the MCU into darker, more mythological territory. His stories blend mystery with psychological tension.",
+   "abilities": [
+    "Enhanced strength",
+    "Crescent weapons",
+    "Healing",
+    "Stealth",
+    "Moon-powered suit"
+   ]
+  },
+  {
+   "id": "daredevil",
+   "name": "Daredevil",
+   "alias": "Matt Murdock",
+   "group": "other",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Daredevil (Netflix series)",
+    "year": 2015,
+    "type": "Series"
+   },
+   "power": 50,
+   "initials": "DD",
+   "theme": {
+    "c1": "#7a0f0f",
+    "c2": "#c02020",
+    "accent": "#ff9a8a"
+   },
+   "pattern": "chevrons",
+   "emblem": "triangle",
+   "tagline": "The man without fear.",
+   "description": "A blind lawyer by day who patrols Hell's Kitchen at night with heightened senses and a mean right hook.",
+   "importance": "Daredevil represents the street-level, gritty corner of the MCU. His stories are about justice on a very human scale.",
+   "abilities": [
+    "Radar sense",
+    "Acrobatics",
+    "Martial arts",
+    "Legal mind"
+   ]
+  },
+  {
+   "id": "deadpool",
+   "name": "Deadpool",
+   "alias": "Wade Wilson",
+   "group": "other",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Deadpool & Wolverine (MCU debut)",
+    "year": 2024,
+    "type": "Film"
+   },
+   "power": 74,
+   "initials": "DP",
+   "theme": {
+    "c1": "#8a0f14",
+    "c2": "#1a1a1a",
+    "accent": "#ff6b6b"
+   },
+   "pattern": "dots",
+   "emblem": "circle",
+   "tagline": "Maximum effort.",
+   "description": "A fast-talking mercenary with an unstoppable healing ability and a habit of talking straight to the audience.",
+   "importance": "Deadpool brings irreverent, fourth-wall-breaking comedy to the wider Marvel world. He first starred in a separate film series before joining the MCU.",
+   "abilities": [
+    "Regeneration",
+    "Sword and gun skills",
+    "Fourth-wall breaking",
+    "Acrobatics"
+   ]
+  },
+  {
+   "id": "gorr",
+   "name": "Gorr",
+   "alias": "Gorr the God Butcher",
+   "group": "villains",
+   "alignment": "villain",
+   "firstAppearance": {
+    "title": "Thor: Love and Thunder",
+    "year": 2022,
+    "type": "Film"
+   },
+   "power": 85,
+   "initials": "GB",
+   "theme": {
+    "c1": "#1a1a1a",
+    "c2": "#6b6b7a",
+    "accent": "#dcdce8"
+   },
+   "pattern": "waves",
+   "emblem": "claw",
+   "tagline": "The God Butcher.",
+   "description": "A haunted being armed with a cursed blade and a determination to challenge the gods.",
+   "importance": "Gorr is a chilling threat who is unlike Thor's earlier foes. His motives add emotional depth to the god-filled world of Asgardians.",
+   "abilities": [
+    "Necrosword",
+    "Shadow manipulation",
+    "Godslaying",
+    "Relentless drive"
+   ]
+  },
+  {
+   "id": "dormammu",
+   "name": "Dormammu",
+   "alias": "Lord of the Dark Dimension",
+   "group": "villains",
+   "alignment": "villain",
+   "firstAppearance": {
+    "title": "Doctor Strange",
+    "year": 2016,
+    "type": "Film"
+   },
+   "power": 97,
+   "initials": "DM",
+   "theme": {
+    "c1": "#2a0a5a",
+    "c2": "#8a2fd0",
+    "accent": "#d8a8ff"
+   },
+   "pattern": "rings",
+   "emblem": "flame",
+   "tagline": "Ruler of the Dark Dimension.",
+   "description": "An ancient, colossal being from the Dark Dimension who seeks to expand his domain.",
+   "importance": "Dormammu represents the vast, terrifying end of the MCU's magic. His presence raises the stakes of any mystic battle.",
+   "abilities": [
+    "Dark dimension magic",
+    "Immense power",
+    "Energy manipulation",
+    "Immortality"
+   ]
+  },
+  {
+   "id": "odin",
+   "name": "Odin",
+   "alias": "Odin Borson",
+   "group": "other",
+   "alignment": "hero",
+   "firstAppearance": {
+    "title": "Thor",
+    "year": 2011,
+    "type": "Film"
+   },
+   "power": 93,
+   "initials": "OD",
+   "theme": {
+    "c1": "#3a3a5a",
+    "c2": "#c8a227",
+    "accent": "#f2e8b0"
+   },
+   "pattern": "chevrons",
+   "emblem": "shield",
+   "tagline": "The All-Father.",
+   "description": "The wise and powerful All-Father and king of Asgard, guardian of the Nine Realms.",
+   "importance": "Odin is the ruler whose decisions shape Thor's life and the long history of the Asgardians. He embodies ancient power and old-world authority.",
+   "abilities": [
+    "Godly strength",
+    "Odinforce",
+    "Gungnir spear",
+    "Sorcery",
+    "Immortality"
+   ]
+  }
+ ]
+}

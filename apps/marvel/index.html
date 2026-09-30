@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="color-scheme" content="dark" />
+<meta name="theme-color" content="#0a0b12" />
+<meta name="description" content="Unofficial MCU fan hub: browse 40+ characters and run fun power-rating battles." />
+<title>Marvel Hub · Unofficial MCU fan site</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23e23636'/%3E%3Ctext x='16' y='24' text-anchor='middle' font-family='Impact,sans-serif' font-size='22' fill='%23fff'%3EM%3C/text%3E%3C/svg%3E" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="top">
+  <a class="home" href="/" aria-label="All apps" title="All apps">&larr;</a>
+  <div class="brand">
+    <span class="logo" aria-hidden="true">M</span>
+    <div>
+      <h1>Marvel Hub</h1>
+      <p class="sub">Unofficial MCU fan site</p>
+    </div>
+  </div>
+  <nav class="tabs" role="tablist" aria-label="Sections">
+    <button role="tab" id="tab-gallery" aria-controls="panel-gallery" aria-selected="true" type="button">Gallery</button>
+    <button role="tab" id="tab-arena" aria-controls="panel-arena" aria-selected="false" tabindex="-1" type="button">Battle Arena</button>
+  </nav>
+</header>
+
+<main id="main">
+  <section id="panel-gallery" role="tabpanel" aria-labelledby="tab-gallery">
+    <div class="intro">
+      <h2>Character Gallery</h2>
+      <p class="spoiler-note"><span class="pill">Spoiler-light</span> Descriptions avoid major plot twists, deaths and endings, so it is safe to browse even if you are mid-watch.</p>
+    </div>
+
+    <div class="controls">
+      <label class="search"><span class="sr">Search characters</span>
+        <input id="q" type="search" placeholder="Search name, alias, ability…" autocomplete="off" spellcheck="false" />
+      </label>
+      <div class="chips" id="chips" role="group" aria-label="Filter by team"></div>
+      <div class="row2">
+        <div class="seg" id="align" role="group" aria-label="Hero or villain">
+          <button type="button" data-v="all" aria-pressed="true">All</button>
+          <button type="button" data-v="hero" aria-pressed="false">Heroes</button>
+          <button type="button" data-v="villain" aria-pressed="false">Villains</button>
+        </div>
+        <label class="sort">Sort
+          <select id="sort">
+            <option value="name">A – Z</option>
+            <option value="power">Power ↓</option>
+            <option value="year">First seen</option>
+          </select>
+        </label>
+        <p id="count" class="count" aria-live="polite"></p>
+      </div>
+    </div>
+
+    <div id="grid" class="grid"></div>
+    <p id="empty" class="empty" hidden>No characters match. Try clearing the filters.</p>
+  </section>
+
+  <section id="panel-arena" role="tabpanel" aria-labelledby="tab-arena" hidden>
+    <div class="intro">
+      <h2>Battle Arena</h2>
+      <p class="muted">Pick two characters and watch them fight. The winner is drawn from their power ratings; stronger fighters usually win, but upsets happen.</p>
+    </div>
+
+    <div class="pickers">
+      <div class="picker" data-side="A">
+        <label for="selA">Fighter A</label>
+        <div class="pick-row"><select id="selA"></select><button type="button" class="btn ghost" data-browse="A">Browse</button></div>
+      </div>
+      <div class="picker" data-side="B">
+        <label for="selB">Fighter B</label>
+        <div class="pick-row"><select id="selB"></select><button type="button" class="btn ghost" data-browse="B">Browse</button></div>
+      </div>
+    </div>
+
+    <div class="odds" aria-live="polite">
+      <div class="odds-labels"><span id="oddsA"></span><span id="oddsMid" class="muted"></span><span id="oddsB"></span></div>
+      <div class="odds-bar" role="img" id="oddsBar"><span id="oddsFillA"></span><span id="oddsFillB"></span></div>
+    </div>
+
+    <div class="stage" id="stage">
+      <div class="flash" id="flash"></div>
+      <div class="fighters">
+        <div class="fighter" id="fA"></div>
+        <div class="vs" aria-hidden="true"><span id="roundLbl">VS</span></div>
+        <div class="fighter" id="fB"></div>
+      </div>
+      <p class="log" id="log" aria-live="polite">Choose your fighters, then press Fight!</p>
+      <div class="banner" id="banner" hidden>
+        <p class="b-kicker" id="bKicker">Winner</p>
+        <p class="b-name" id="bName"></p>
+        <p class="b-sub" id="bSub"></p>
+      </div>
+    </div>
+
+    <div class="actions">
+      <button type="button" class="btn primary big" id="fight">Fight!</button>
+      <button type="button" class="btn" id="skip" hidden>Skip</button>
+      <button type="button" class="btn" id="rematch" hidden>Rematch</button>
+      <button type="button" class="btn ghost" id="again" hidden>Pick new fighters</button>
+      <button type="button" class="btn ghost" id="random">Random matchup</button>
+    </div>
+
+    <div class="tally">
+      <span>Your champion: <strong id="champ">Fighter A</strong> <small class="muted">(tap a fighter to switch)</small></span>
+      <span class="score" aria-live="polite">Session: <strong id="tW">0</strong>W – <strong id="tL">0</strong>L</span>
+    </div>
+    <p class="note">Ratings are fan-estimated MCU power levels, just for fun. Win chance = A ÷ (A + B), so a 90 vs 45 matchup gives the favourite about 67%. Picking the same character twice is a 50/50 mirror match.</p>
+  </section>
+</main>
+
+<footer>
+  <p>Unofficial fan site. Marvel characters are property of Marvel/Disney.</p>
+  <p class="muted">All portraits are original stylised avatar cards, not official artwork.</p>
+</footer>
+
+<div id="overlay" class="overlay" hidden>
+  <div class="dialog" id="dialog" role="dialog" aria-modal="true" aria-labelledby="dlgTitle" tabindex="-1"></div>
+</div>
+<canvas id="confetti" aria-hidden="true"></canvas>
+
+<script src="battle.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
