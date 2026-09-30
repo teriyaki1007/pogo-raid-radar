@@ -1,7 +1,7 @@
 {
   "iso2": "IR",
   "name": "Iran",
-  "updatedAt": "2026-10-01T03:40:34+08:00",
+  "updatedAt": "2026-10-01T03:50:48+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "After two decades, US forces exit Iraq amid an ongoing war with Iran",
+      "source": "usatoday.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTzFZOXNEdzNWYkhSOHRhTHdjbUdMcmhFYVVCYmxxb0RIWU1PUnV3VmhMYjJaNWpiQ3h5aVpGYlRzblhNYWg2NUVld0hhNF9KZnNLUk5aTFZpTkQ0VWNiUkQ3SHF0VFRrWnNNUU1ka0J3NHBQTENMbGc1YUh5MzdsQWRoTGtrdTllTVFXZm1OVW04Tk0?oc=5",
+      "publishedAt": "2026-10-01T03:38:00+08:00"
+    },
+    {
+      "title": "U.S. withdraws forces in Iraq as balance of power shifts to Iran",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3pxVVVPOVd2UmNNZ3NhcVhvMFJTVzFkdE5KbGhVSjRicUtCTGZ2T2d5MHFBcFR0SVUtMnNfUEs3aGJURGxSSWwxOWlGdEVCbUhoQ2lwSDZ1Y3hSZmQ5eWlrVkhsdWM5SU9OTUxHdWlnRzJSSGVkWU1wNUxZVF8xUVVSYUwtME9pSkVkSEp2SnZiM1VTcnRSaTAyQWE5WDk5?oc=5",
+      "publishedAt": "2026-10-01T03:37:14+08:00"
+    },
+    {
+      "title": "IDF Home Front Haifa District is 'readier than ever' for Iran, Houthis",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUtlTlRMRlZJaFJGQnJpSG9qeHJHTG10Zm1wWi1VUVFvTDJ3WUFmMzYtamZwTTFDeVN4eHRfc2lYeHIyU2VVeVV2SkMyMjVIWVhFRnVfTURQdmNJUl92UldONmQ4MzFwcGVnM1pvazJySHhnWG4wcTBMUWladFJUNTBRVHBqVWtQeVN6elFLZw?oc=5",
+      "publishedAt": "2026-10-01T03:36:23+08:00"
+    },
+    {
+      "title": "Hegseth Tells Troops Reporting on Iran Is a ‘National Betrayal’",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdkc4Z09OazJhcy11aFFINU1tcm5pT1k0UnBJM2lwaXZ2SWYzMEU1a0lfbTFRSmxVM3hnbW1FMmZyT25taE5OV2ROcEExZmROOU9YRklBZkk4cVJ0ZnFkdnZtWUFaSUt0aS1KQ2pIRVVRYU9vblVwOGo3bnBNVndybXQ5MkhEQm15WmZYaHMwbTQ5Y0FMeW1CTVdBeWdZZGNLQXFEN2FHVDBaY0ZKdUVVUml3SQ?oc=5",
+      "publishedAt": "2026-10-01T03:34:36+08:00"
+    },
+    {
       "title": "Iran-US war latest: Tehran claims it has received official US response to latest offer on ending conflict",
       "source": "The Independent",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa0lkX25OOUpXR3pyanF2LUVhWFA0bVFmbi1yWmhXeFlHQmNHZG5PMXRkaFFQUGo2WVhsMHZhTEZTcnhzbnJ5VVU2RVltcXp2R3dJSkJJU2lmNEdtZEIzZE9kLXlvcVFKVXFaSFhzS2pyaGstaGFGMF9DVERJUUJEN1EtRHZRS1k1R1ItS2pMVG13YzZyNUstOXpiamNLQmpCQW9TS0RGdmxLbVNsWTRuM2x3?oc=5",
@@ -43,7 +67,7 @@
     },
     {
       "title": "Iran believed to be involved in RAF Fairford plot, Andy Burnham says",
-      "source": "thetimes.com",
+      "source": "The Times",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcjdmeHAxdk5kaWNSaDd2bjVfbTJZSllkMDh5cDJacWtyUXk3LThuQjhoUGV5bHIyUFNCZjdWNjB3QVA2VUlaNVhHV1ZYQ2w1UE5YMEU5ZmRaSUFsZENjMEd0S2hkQzNqejJtLW5kajRjTWxlazUyV3p5N0xEbkxhdkVjOE9RZzBMcHdtQnlZVXE0Um5xazNhLXkyMWdUZ3ZqTXJyU3otSmNvNG5MMDhyWEgwT01GODB0OWlR?oc=5",
       "publishedAt": "2026-10-01T03:21:11+08:00"
     },
@@ -52,30 +76,6 @@
       "source": "France 24",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLUNYQk0wQUJJZkt3cnRELUZSd2x6V2NTdms1ZWpsVmJWXy12SHJ4X3JYbDJXY2lOZGRrNDRoVnRLRkFMWjJadUhNQ1NQdlg2enJUU3Q1U25LU0RpelhxSURuVU5nRHZvbXBJNzFhcUYyV2pSUlZlaWhhLUktVFFyLVdjZHRnVDlSUlI2ZGJhUGVCVngxTWw1enNXSk83dnNTX2dxTEhMVTJzcVlkXzEyTjhWeXJ4SEx3ZHBoM01DU0FqbEdHcWtMbVRCMWdlVU1IUl93Wg?oc=5",
       "publishedAt": "2026-10-01T03:01:30+08:00"
-    },
-    {
-      "title": "John Husted Denies His Iran War Vote",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcC1jVElPYWNNSi0zbUowa2ctaHhIT25Rc2lQVW00UGZKRGFyaGNLNEdkT2J0YjFKX0VVQUtvR0FJbEhvNEdDSElrZ29ERW04RlpxZEhldmhhU05yNEhaRDh0ZDYxTXlSV1I0eEV5RHRIcnRyRVpaMGRCdHR4TE0tZW13?oc=5",
-      "publishedAt": "2026-10-01T03:01:17+08:00"
-    },
-    {
-      "title": "Report: Nearly 1,300 Schools, 210 Health Centers Damaged in Iran Amid US Assault",
-      "source": "Truthout",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON2JaZjBFUGVhRi1ndDUwTlpFSmlDY012elN6ZWJvUzJ5Q0ZPYkpTaTR6Yi1EZkxQNU1YMElhY2FTdFFWNVFnTnhaZEVQbXlyQjRmS29BRVRxeVVvVWZoRUZjMEVHTHpCZmFuazNjRGxLUDY2VUQ2eTNOS3hXTnhYckozYi1NbG9CWV8wbk1DNGFKYVRwWHZNN1V6ZUNwTUFXZ0hCd3JNdUtGbHVI?oc=5",
-      "publishedAt": "2026-10-01T02:48:14+08:00"
-    },
-    {
-      "title": "UK's Burnham cites 'strong indications' Iran linked to suspected plot near US-used airbase",
-      "source": "KOMO",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQcjZ2WFB2Ymtuc1JreGhYRndKREJ5dXpieVlITEE0Rk5MYnU4UGlBUjdDU3d1UHgwMUxrV09HRE9Qb0NreWhobHpNUzNqaXVEa2doWkRpQm92YUdwVzM0Z2FTemY0ZUlrVUpwLTdtNEprUGpUQlhvdlc4NWM0czN3emFoalo0ck1iTVREU1RyMzREQ1lTQkVjc2lUTy1DaTdqaFgwcVl4bGtZYUFhSzdnOUttMmVsa3Rqd3lNOHNOcjN3QnpDTmNKeFVOVkJjZnFIb29DeUpNamliaXd4MnZROG5YcllYYVdCcElPOVpIaGI1Ny1NSWlVaWhBdVJGTllsbkd2SXRNZ0M3V1NxVkh2UndYYTR2ZjNkbXljSDh5OUJmZ0dVQURWejJnNzhfcXVoWk5VdGM5S1NZSTl1SjFxWmhPM0VERHp6TFFJ?oc=5",
-      "publishedAt": "2026-10-01T02:42:24+08:00"
-    },
-    {
-      "title": "Live Updates: Iran says it has received U.S. counterproposal to 7-day ceasefire plan rejected by Trump",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXNwVUhFZkZrZmxLRFd1QVZwZFFWVjFLcEgxWmNJWnJCMlNnOExuY3BsdWlLaG9HYzF1VjJKYnB6eHlfU1NLZWlUcWhDMmpCVFI1eGczV19kR3kycThHd0ducEtLejdicmJXanhmWWFUcWRJeVVDb28xUlRmTWxPSWRwbXBfRU1uSW1N?oc=5",
-      "publishedAt": "2026-10-01T02:40:00+08:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "iso2": "IQ",
   "name": "Iraq",
-  "updatedAt": "2026-10-01T03:40:34+08:00",
+  "updatedAt": "2026-10-01T03:50:48+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "U.S. completes Iraq withdrawal, ending mission against ISIS",
+      "source": "cbs19.tv",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNelNQUjBsNVMxYnM2ZDVqdllSZllhdk1wOVRmMHlud0FjRHNHb0Rxd1NRTDZPWlQtQVZ5RmotTlgyMUhmRlNldlJZdEpEMmxmRXB5Mk5jLVZZNW5hTmd1eTZvcWFMdU1LLWRISlY0elBpWDBNUW04SUdHZS16ZW1qUVFBaHB2NkNCUkJEemFnX1ZDNWdkb2FKRUhYeW1rR1lvR01sQ1dFVC1kTDAtNm9lSk1EQmFNQjlGNkF5amwtb204Y3Fxb0tEN2J6US1hcENX?oc=5",
+      "publishedAt": "2026-10-01T03:48:00+08:00"
+    },
+    {
+      "title": "U.S. forces end their mission in Iraq",
+      "source": "kyma.com",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRHVqYzBfT0NFYmtGOE1VOWJ4ZXhBWi1waTJyaXFkTGNocWdiMkh1WjV4N3BiOVp6akNPRVpJUW5SZzhveU9kcVJ3TTZDZ0JlRWpwY1RZNUNiUVpxQk85aDZlNGpYSVVZUEJaYS13MURFUFpzS2JxZjZDYkY4S1liNDhHZVp5dw?oc=5",
+      "publishedAt": "2026-10-01T03:42:28+08:00"
+    },
+    {
       "title": "Mass. veterans reflect on Iraq war as US withdraws its final troops from the country",
       "source": "wgbh.org",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2FleEFPVXo0aDdYSU45TjR0aDVxTmpHZXZsaHpXVTdQZlRGb0JQRUdnTkhiZEhvUE5Rc2lYaW1XSUNCRDNkdnRnOF9zOTczQ2R3S1c3WXAzUVBpcTdMZ0VtREMxTGtkXzVwUjdjWHF1d1Vrc3hROUVrVjdKRTBGRWlGUXVhQzJDcXd4Ym1KLXcwMm5yeHNwRVRtMFRlQjhpRkVJZXM0SE94ZDlVR0JYUkY0WjZ0WjFDQi03MWhWN2hSdnJy?oc=5",
       "publishedAt": "2026-10-01T03:37:19+08:00"
+    },
+    {
+      "title": "Trump celebrates departure of last US forces from Iraq 23 years after invasion: ‘We’re getting the hell out’",
+      "source": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbXdYYklOeFBQd1VLLUw0MEZCeTZrVmdaTFdBZ1pQNFA5aG1iU1hzSXp5SGxJbGpOTk15c0FON09TcnJQRWNsYkR2QU1aN0JSSzh0Znl0bzZKTkg5NjBaT3BxVXg4M2pEOEZtajNTc2JNaHowZFdQa2hqTXN1alBmd2Zybnh5N1pTZjctR2pYRG50VlBDdHRUcGhIaFlNSElIMFBmQWZJVjh2dFJaUE5Tdm1keTZnU0M2?oc=5",
+      "publishedAt": "2026-10-01T03:30:00+08:00"
     },
     {
       "title": "Trump says US troops leaving Iraq, ending 'excursion into hell'",
@@ -55,27 +73,9 @@
     },
     {
       "title": "U.S. forces withdraw from Iraq",
-      "source": "king5.com",
+      "source": "KING5.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMkZzM0R4ZzI1Q3RmSDg1YXJvSWZVaE5nNzNVT2R2X1lTa00xa3JfOG54N0E2UXlUSEk3cFo0QU9vVDJNVExmNkRBd2lZVndJMmsyc21QU0RWS1pOYmF2eXQ1cU5uTjNtamE2WWVfWUVMenFNMzZHSFpqVVdRai1PSkJla3Z1Y2kwYjZHSFBtQ19KNjhucVM3a0JmLVRZRXpTUmpWYUZiVk5CUFQtOHE0Vk0wX2tXVXpIVXh6X21ONzRhdjg?oc=5",
       "publishedAt": "2026-10-01T03:16:00+08:00"
-    },
-    {
-      "title": "Trump on Iraq, Venezuela & Hispanic Heritage month",
-      "source": "LiveNOW from FOX",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGcy1WUE52eVRYYjc0TFhRLVItNDJqRG1lcHpXNFhHTDRlQ0RnLS10b292S0Y3Qjd6dGRZTlVCNzdVWU9mWHBwUVZBUExwNGNmNE5fTWhzWlBDbkRaUzBJdFhUWdIBaEFVX3lxTE1kdXNySnphM1ZuT3c5dHhUbjBOeGtZNlZsbkEtMkEwbEgzbGVwdUNvQXFad1BTMnh6Q0hrbWRvdk4xZ21UcDR1cF9JRlBOSkNwTU1FTUVIcmIyMkV1MjAwQjFhVy0telI4?oc=5",
-      "publishedAt": "2026-10-01T03:12:40+08:00"
-    },
-    {
-      "title": "US withdraws last troops from Iraq, redefining Baghdad-Washington partnership",
-      "source": "The World from PRX",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUkhwMmM0ZmVldTlDQWR4MXhiVTRxeUFKS1UxNkNCTmhCN0pOYUthWWZSNExKT1B1a1pWZXdYVUdRTDFMbU5ENUpaalpBdzZTbHFvU2hKSlgxcVlUaUhKWjY0S0c0cDBBUzdIV3NJOVRZbkpoOGNMY1hkLUxMNmpBSTcwVVFpWl9qRXpsT25xeXdManZxQ05SdXZzNXItQ045NWhyOXZydy1OUWoyY1B2emFReUMzNFE?oc=5",
-      "publishedAt": "2026-10-01T03:01:04+08:00"
-    },
-    {
-      "title": "President Trump Announces the Last U.S. Troops Are Leaving Iraq",
-      "source": "C-SPAN",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOekNQQW9oVUJ3OXhaTjJjT21iR0JNT0Y3YzUzM3dlUlpzWkpPeHdjaWc0dHBTMGx6bnY3ZGkzd1RFb3pnYmFKQlhxNVJsbHNYek1UbHJFR1NvRjdvSzVPWGl4RjRBNE9GZlRwWW5zbVBDQWJOUElybFlUd29IaDFuZ1ptUlNLaF9QZ1BJQk9oZ0pJbmo2cDNsS1hiMV83cTVNeEJmZkVtSUJBODAxRmdSQ2lYRGNaQQ?oc=5",
-      "publishedAt": "2026-10-01T02:58:47+08:00"
     }
   ]
 }
