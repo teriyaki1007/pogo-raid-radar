@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-09-30",
-    "asOfLabel": "30 Sep 2026 ~6:35 AM HKT",
+    "asOfLabel": "30 Sep 2026 ~10:35 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE now (from Wed 30 Sep 6:00 AM local): Xerneas 5★ + Mega Victreebel through Tue 6 Oct 10:00 PM. Raid Hour tonight Wed 30 Sep 6–7 PM (Xerneas). Shadow 1★/3★ daily continue; next Shadow 5★ weekend Sat–Sun 3–4 Oct (Thundurus Incarnate package through ~6 Oct). 1★/3★ charts not yet republished by Leek Duck / GO Hub / ScrapedDuck after the UB window — Current lists confirmed 5★ / Mega / Shadow only until those sources update. Harvest Festival: Applin Picking LIVE (through Mon 5 Oct 8:00 PM). Taken Over / Shadow Zekrom Fri 2 Oct.",
-      "endsAtLabel": "Xerneas / Mega Victreebel → Tue 6 Oct 10:00 PM · Raid Hour Wed 30 Sep 6–7 PM · Harvest Festival → Mon 5 Oct 8:00 PM · Taken Over → Fri 2 Oct · Next Shadow 5★ weekend → Sat–Sun 3–4 Oct"
+      "text": "LIVE (Wed 30 Sep 6:00 AM – Tue 6 Oct 10:00 PM local): Xerneas 5★ + Mega Victreebel. Leek Duck / GO Hub republished 1★ (Galarian Farfetch'd, Galarian Zigzagoon, Combee, Honedge) + 3★ (Miltank, Hisuian Lilligant, Dondozo). Raid Hour Xerneas Wed 30 Sep 6–7 PM ended. Shadow 1★/3★ daily; next Shadow 5★ weekend Sat–Sun 3–4 Oct (Thundurus Incarnate through ~6 Oct). Harvest Festival: Applin Picking LIVE (→ Mon 5 Oct 8:00 PM). Taken Over / Shadow Zekrom Fri 2 Oct. Spotlight Seedot Thu 1 Oct 6–7 PM.",
+      "endsAtLabel": "Xerneas / Mega Victreebel → Tue 6 Oct 10:00 PM · Next Shadow 5★ weekend → Sat–Sun 3–4 Oct · Harvest Festival → Mon 5 Oct 8:00 PM · Taken Over → Fri 2 Oct · Seedot Spotlight → Thu 1 Oct 6–7 PM"
     },
     "legend": {
       "standard": {
@@ -530,6 +530,432 @@
       "countersSource": "guide"
     },
     {
+      "catchForm": null,
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "30 Sep – 6 Oct 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-30T06:00:00",
+      "windowEnd": "2026-10-06T22:00:00",
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "notes": null,
+      "id": "galarian-farfetchd",
+      "name": "Galarian Farfetch'd",
+      "form": "Galarian",
+      "species": "Farfetch'd",
+      "tier": "1",
+      "tierLabel": "1★",
+      "shiny": true,
+      "cpL20": 956,
+      "cpL25": 1196,
+      "weather": [
+        "Cloudy"
+      ],
+      "sprite": {
+        "pokeapiId": 83,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10166.png",
+        "form": "galar"
+      },
+      "types": [
+        "Fighting"
+      ],
+      "weakTo": [
+        "Flying",
+        "Psychic",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Shadow Mewtwo",
+          "moves": "Psycho Cut / Psystrike"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Shadow Moltres",
+          "moves": "Wing Attack / Fly"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "catchForm": null,
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "30 Sep – 6 Oct 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-30T06:00:00",
+      "windowEnd": "2026-10-06T22:00:00",
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "notes": null,
+      "id": "galarian-zigzagoon",
+      "name": "Galarian Zigzagoon",
+      "form": "Galarian",
+      "species": "Zigzagoon",
+      "tier": "1",
+      "tierLabel": "1★",
+      "shiny": true,
+      "cpL20": 290,
+      "cpL25": 363,
+      "weather": [
+        "Fog",
+        "Partly Cloudy"
+      ],
+      "sprite": {
+        "pokeapiId": 263,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10174.png",
+        "form": "galar"
+      },
+      "types": [
+        "Dark",
+        "Normal"
+      ],
+      "weakTo": [
+        "Fighting 2×",
+        "Bug",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Shadow Conkeldurr",
+          "moves": "Counter / Dynamic Punch"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "catchForm": null,
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "30 Sep – 6 Oct 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-30T06:00:00",
+      "windowEnd": "2026-10-06T22:00:00",
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "notes": null,
+      "id": "combee",
+      "name": "Combee",
+      "form": null,
+      "species": "Combee",
+      "tier": "1",
+      "tierLabel": "1★",
+      "shiny": true,
+      "cpL20": 282,
+      "cpL25": 353,
+      "weather": [
+        "Rainy",
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 415,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png"
+      },
+      "types": [
+        "Bug",
+        "Flying"
+      ],
+      "weakTo": [
+        "Rock 2×",
+        "Fire",
+        "Flying",
+        "Electric",
+        "Ice"
+      ],
+      "counters": [
+        {
+          "name": "Mega Diancie",
+          "moves": "Rock Throw / Rock Slide"
+        },
+        {
+          "name": "Shadow Rhyperior",
+          "moves": "Smack Down / Rock Wrecker"
+        },
+        {
+          "name": "Mega Tyranitar",
+          "moves": "Smack Down / Stone Edge"
+        },
+        {
+          "name": "Rampardos",
+          "moves": "Smack Down / Rock Slide"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "catchForm": null,
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "30 Sep – 6 Oct 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-30T06:00:00",
+      "windowEnd": "2026-10-06T22:00:00",
+      "shinyRate": "not available (GO Hub)",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "notes": "Shiny not available per GO Hub Honedge raid guide.",
+      "id": "honedge",
+      "name": "Honedge",
+      "form": null,
+      "species": "Honedge",
+      "tier": "1",
+      "tierLabel": "1★",
+      "shiny": false,
+      "cpL20": 794,
+      "cpL25": 993,
+      "weather": [
+        "Snow",
+        "Fog"
+      ],
+      "sprite": {
+        "pokeapiId": 679,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png"
+      },
+      "types": [
+        "Steel",
+        "Ghost"
+      ],
+      "weakTo": [
+        "Fire",
+        "Ground",
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Mega Blaziken",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Dawn Wings Necrozma",
+          "moves": "Shadow Claw / Moongeist Beam"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
+        }
+      ],
+      "countersSource": "guide"
+    },
+    {
+      "catchForm": null,
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "30 Sep – 6 Oct 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-30T06:00:00",
+      "windowEnd": "2026-10-06T22:00:00",
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "notes": null,
+      "id": "miltank",
+      "name": "Miltank",
+      "form": null,
+      "species": "Miltank",
+      "tier": "3",
+      "tierLabel": "3★",
+      "shiny": true,
+      "cpL20": 1345,
+      "cpL25": 1682,
+      "weather": [
+        "Partly Cloudy"
+      ],
+      "sprite": {
+        "pokeapiId": 241,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png"
+      },
+      "types": [
+        "Normal"
+      ],
+      "weakTo": [
+        "Fighting"
+      ],
+      "counters": [
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Shadow Conkeldurr",
+          "moves": "Counter / Dynamic Punch"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Counter / Focus Blast"
+        },
+        {
+          "name": "Keldeo",
+          "moves": "Low Kick / Sacred Sword"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "catchForm": null,
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "30 Sep – 6 Oct 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-30T06:00:00",
+      "windowEnd": "2026-10-06T22:00:00",
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "notes": null,
+      "id": "hisuian-lilligant",
+      "name": "Hisuian Lilligant",
+      "form": "Hisuian",
+      "species": "Lilligant",
+      "tier": "3",
+      "tierLabel": "3★",
+      "shiny": true,
+      "cpL20": 1435,
+      "cpL25": 1794,
+      "weather": [
+        "Sunny",
+        "Cloudy"
+      ],
+      "sprite": {
+        "pokeapiId": 549,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10237.png",
+        "form": "hisui"
+      },
+      "types": [
+        "Grass",
+        "Fighting"
+      ],
+      "weakTo": [
+        "Flying 2×",
+        "Fire",
+        "Ice",
+        "Poison",
+        "Psychic",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Mega Staraptor",
+          "moves": "Gust / Brave Bird"
+        },
+        {
+          "name": "Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Shadow Moltres",
+          "moves": "Wing Attack / Fly"
+        },
+        {
+          "name": "Shadow Salamence",
+          "moves": "Fire Fang / Fly"
+        }
+      ],
+      "countersSource": "guide"
+    },
+    {
+      "catchForm": null,
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "30 Sep – 6 Oct 2026 (6:00 AM → 10:00 PM local)",
+      "windowStart": "2026-09-30T06:00:00",
+      "windowEnd": "2026-10-06T22:00:00",
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "notes": null,
+      "id": "dondozo",
+      "name": "Dondozo",
+      "form": null,
+      "species": "Dondozo",
+      "tier": "3",
+      "tierLabel": "3★",
+      "shiny": true,
+      "cpL20": 1712,
+      "cpL25": 2140,
+      "weather": [
+        "Rainy"
+      ],
+      "sprite": {
+        "pokeapiId": 977,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png"
+      },
+      "types": [
+        "Water"
+      ],
+      "weakTo": [
+        "Grass",
+        "Electric"
+      ],
+      "counters": [
+        {
+          "name": "Mega Sceptile",
+          "moves": "Fury Cutter / Frenzy Plant"
+        },
+        {
+          "name": "Kartana",
+          "moves": "Razor Leaf / Leaf Blade"
+        },
+        {
+          "name": "Shadow Raikou",
+          "moves": "Thunder Shock / Wild Charge"
+        },
+        {
+          "name": "Regieleki",
+          "moves": "Lock-On / Thunder Cage"
+        },
+        {
+          "name": "Therian Thundurus",
+          "moves": "Volt Switch / Wildbolt Storm"
+        },
+        {
+          "name": "Zekrom",
+          "moves": "Charge Beam / Fusion Bolt"
+        }
+      ],
+      "countersSource": "guide"
+    },
+    {
       "id": "xerneas",
       "name": "Xerneas",
       "form": null,
@@ -556,7 +982,7 @@
         "pokeapiId": 716,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
       },
-      "notes": "Raid Hour Wed 30 Sep 6–7 PM (tonight).",
+      "notes": "Raid Hour Wed 30 Sep 6–7 PM local (ended).",
       "types": [
         "Fairy"
       ],
@@ -761,15 +1187,22 @@
       "id": "xerneas-victreebel",
       "when": "Wed 30 Sep 6:00 AM – Tue 6 Oct 10:00 PM local (LIVE)",
       "title": "Xerneas 5★ + Mega Victreebel (LIVE)",
-      "impact": "5★ Xerneas + Mega Victreebel worldwide through 6 Oct. Raid Hour Wed 30 Sep 6–7 PM. 1★/3★ not yet confirmed by Leek Duck / GO Hub / ScrapedDuck after UB rotation ended.",
+      "impact": "5★ Xerneas + Mega Victreebel worldwide through 6 Oct. Confirmed 1★: Galarian Farfetch'd / Galarian Zigzagoon / Combee / Honedge; 3★: Miltank / Hisuian Lilligant / Dondozo (Leek Duck + GO Hub).",
       "urgent": true
     },
     {
       "id": "raid-hour-xerneas",
-      "when": "Wed 30 Sep 6:00–7:00 PM local (tonight)",
-      "title": "Raid Hour: Xerneas (tonight)",
-      "impact": "Extra 5★ density for Xerneas",
-      "urgent": true
+      "when": "Wed 30 Sep 6:00–7:00 PM local (ended)",
+      "title": "Raid Hour: Xerneas (ended)",
+      "impact": "Extra 5★ density window closed.",
+      "urgent": false
+    },
+    {
+      "id": "spotlight-seedot",
+      "when": "Thu 1 Oct 6:00–7:00 PM local",
+      "title": "Spotlight: Seedot",
+      "impact": "Wild spotlight only (2× Catch XP) — not a raid list change (GO Hub).",
+      "urgent": false
     }
   ]
 }
