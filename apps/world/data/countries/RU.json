@@ -1,0 +1,81 @@
+{
+  "iso2": "RU",
+  "name": "Russia",
+  "updatedAt": "2026-10-01T03:40:34+08:00",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "Moscow"
+    },
+    {
+      "label": "Population",
+      "value": "143,513,328 (2025, World Bank)"
+    },
+    {
+      "label": "Region",
+      "value": "Eastern Europe, Europe"
+    },
+    {
+      "label": "Languages",
+      "value": "Russian"
+    },
+    {
+      "label": "Currency",
+      "value": "Russian ruble (RUB ₽)"
+    },
+    {
+      "label": "Area",
+      "value": "17,098,242 km²"
+    }
+  ],
+  "headlines": [
+    {
+      "title": "NATO Chief Rutte Dismisses Russia’s Nuclear Threats Over Kaliningrad",
+      "source": "Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxN0lYU29EMEZVdXJ5X1lQR1doaWY0eTI2bUNvMGE2cW94T04zbE9mZHZ3YkYtc3hqc19MWms0YVJCQWxRbWxTSmlHakYxRGMtNUxjR3o5cEhTMEZrdWwtdkxPMXp6R0lhOTlqdFZQMTI?oc=5",
+      "publishedAt": "2026-10-01T03:35:32+08:00"
+    },
+    {
+      "title": "Russia attacks Ukrainian energy grid, forcing power cuts as winter looms",
+      "source": "MSN",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNFkwMGZSMV9nVE5YN1lTTWVqSjhKN1pUWHg1bXRtWVRFQ1k0cHlBcGN3T2hpWDdWdE5fdExFY3FtWjVqMHFwVUZ5SnJSZ053YUNKLVBWRFVQOTFsZFJUdnQ5c0NIdjgzSDJnRVBhdjBtemF0V3Rhc2xCVlF2S2RuOVB5RXFWOEU2ZE42LUx4VGc5RnE2Zk5iQVZlXzBBU3BSU3g5cUlXQkFndUpKLVZzU2YtSGNaSGVIZmM4MA?oc=5",
+      "publishedAt": "2026-10-01T03:35:13+08:00"
+    },
+    {
+      "title": "Lithuania Approves Proposal to Ban Performances by Artists Linked to Russia’s Occupation of Ukraine",
+      "source": "Межа. Новини України.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IQmZjQWxoUUgtZnpONS1QVXhYQzhrdTFyZTIxVVhuZ1otM3ZnRHVQY3pwZjRMTnh3MTM1NXBsSXZJajItVG5TSVhTMm5hazB3dFNPU1g2dGVTZFNsTGk2b0kweXBUTEt4aHNSUkVCUG9SM1llbWc?oc=5",
+      "publishedAt": "2026-10-01T03:32:23+08:00"
+    },
+    {
+      "title": "Russia is now wiring its attack drones into one network in flight, so a single drone can scout, strike, and relay for the rest",
+      "source": "Euromaidan Press",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTW5ObWlHT3VOcXpMNHRCbFRtUURscGNNd2JKTVhUcXpEYkRpODlSN2l1dng2UndXaUc5eXVkZHcxTWV5YlNRVzY2MkRIRWwtckwtRmM2QnFCLWRXNkUzT0lmZFBSRVpMckFIdlVPdFUxaHhzdkZWSFJhMDBWS2lTNW5hSDBVNDFsSFNJbWJMWXUtU2IwTHl4bTBoWXM4NGdkR2VWVHMxenJfMlVNLVZyR0hXUHR3MW9tcWhCdFk2RkFNTUVSRnJzaW5DbEFvbWIyOXZaTE9menVMbmxRRVhGbVFzQk8wVXdCNDNSSEFmNFR1VHJ0b1E?oc=5",
+      "publishedAt": "2026-10-01T03:20:42+08:00"
+    },
+    {
+      "title": "Kremlin Warns Against Expanding Starlink Use for Ukrainian Strikes Inside Russia",
+      "source": "caspiannews.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3BfM1dsQ3BFUk8ySTRIWjhNMXZobXBadXVTRGVkTkN3TnBNVE9PNkxMYkdYLV94MUZPSnk1Z1d3U3p6Mk43QS04cDZJUl9DUEQ3OTR3cXE5WlpiZmpqQlZyOUNlcFllNWRqb1V6ZkI2U0gyY3M2ZGU0VDRVMm1lR1pGMjBzX1JmdTluVm9HcTlpRXFlTVFWa0Q5Mmx4a3puSmpFek9CRndGZFNPdTlYQUNtWmc0bnYzZ1NkcXZUTkNqckJEUm9nTkxn?oc=5",
+      "publishedAt": "2026-10-01T03:18:11+08:00"
+    },
+    {
+      "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkxPSE9IbjNwN0xSRmY0d1Vic08zNE9VM01KMDZnTmR6bjNETGlEaEswcGI1RFd1ZFVWRU1yNFJPcDVfSkE1Um1XNURvRVpGWVFVa2NwSTNQc0RSSmpGb3ZTVVJqYU5yanJwamhWNE93RTlYNlFBT3E4QUhCWEd2bzhnLTBaVExIZlBXWlJzRThuR0VtQ0lteFdJcmoyVk56QzVVT2RlTmp3eWNnOHdQTzl0Yw?oc=5",
+      "publishedAt": "2026-10-01T03:04:29+08:00"
+    },
+    {
+      "title": "Russia summons Denmark’s ambassador to Moscow for flare incident with Danish helicopter",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdEpaazN4a0M2TlBuazh3MzNWaDRlYmpBUGtKUGpPMkh3dURFclhvQ09ITDNfRkdkWTM5bjNnd3NDOEVPb3BDbVBwMVJKaW5nNHM4X200WURxV2VBeGJfcS1CblZ0MjVMUlAzcWZnN0E2OEM3UkYtNTEzZEJIV1JpUHZlQTZPQTZkQlB2a3RiQVhpSC1INTJqd0lEQTZHTUtqY3dxaU5nVXppRHRtMkJ3cGNodm5ESGhwdlRZb0V6Z05VeHZvOUpKaA?oc=5",
+      "publishedAt": "2026-10-01T02:46:23+08:00"
+    },
+    {
+      "title": "What Evan Gershkovich wants you to know about his imprisonment in Russia",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdlNEcmlkNnlvNWtpRlNpQUZ0eUtPZlA3VWZ6RHRGMm9ybXZlbDU0aDNZTGZnRmJiSkhGNUNNRktGYmpCNkcxSWI3c2hNbm94TWlWSkFnU2lwbjM3amJGTGg3aHRVUmx3UzJKMWxHeHJPQzhjdlBoY2hVMUFBS1dxQWozUkpQMGFqc3V0OTM3NjY2UGVEWkFVV010Um1fTHlpMjF0SnE4ZExwSWZiRmZnREkyMHlZejNVdVE?oc=5",
+      "publishedAt": "2026-10-01T02:30:00+08:00"
+    }
+  ]
+}

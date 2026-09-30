@@ -1,0 +1,81 @@
+{
+  "iso2": "HK",
+  "name": "Hong Kong",
+  "updatedAt": "2026-10-01T03:40:34+08:00",
+  "facts": [
+    {
+      "label": "Capital",
+      "value": "City of Victoria"
+    },
+    {
+      "label": "Population",
+      "value": "7,498,900 (2025, World Bank)"
+    },
+    {
+      "label": "Region",
+      "value": "Eastern Asia, Asia"
+    },
+    {
+      "label": "Languages",
+      "value": "English, Chinese"
+    },
+    {
+      "label": "Currency",
+      "value": "Hong Kong dollar (HKD $)"
+    },
+    {
+      "label": "Area",
+      "value": "1,104 km²"
+    }
+  ],
+  "headlines": [
+    {
+      "title": "Hong Kong Stock Exchange: Hang Seng Index Gains 0.37% to 24,613.27 Before National Day Break",
+      "source": "BBN Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMmhNMWNERVU0NHhEbmNSWERuWEhoWkVfMGFBYndqRlZIRUFPWmRDT3U1R1NqWlY2VEJFQlU3Q3VJVHdCXzAyOXZIWVIybFdZUzV6M3V6V2pkbmVfNF81S2NnRE5YWWw3amlhdWxXZmVTNWhpZ0JTMXktNG1TRnE0ZFo0MEZPSXhoOXFGYzdudmwtUUQ2YVZqZE11YWxPYmhHMjdud1l1cnVNODk5RVRrcU91QnNHM242dG9iMVZIdHNpQ0UxNGFlVUZ3?oc=5",
+      "publishedAt": "2026-10-01T02:00:14+08:00"
+    },
+    {
+      "title": "HSBC Unveils RedCoin, Its Hong Kong Dollar Stablecoin, for 2026",
+      "source": "Altcoin Buzz",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSjNEVDg1SWNKOV9ZWVhJWWhsSkJRdHRUZGZGX3ZUS2JsUks2cnVLOGZqRjJHRlNnLTFaRkNUS25QZnB1aWVDOTRURVNjMHFoaFhXY0pDSzRfcXRWbnh2ekZ4TE9DTTZOYzlLbWkyRXJOSWJZcjdQdDREb2xGWVRMdWxIVXQ0QmhmLXRQSE9QMGFCdw?oc=5",
+      "publishedAt": "2026-10-01T01:58:00+08:00"
+    },
+    {
+      "title": "Hong Kong police arrest journalist from online news outlet over alleged sedition",
+      "source": "Newsday",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmpDQkxFSTVTdlJJQ1RvMjg0cFJIekhuSjdoMGJ5NjMxR2xvc2VhLWlBWEI5QWFyank3UEhlZFVhS0pQQWZfRGkxekZKUXUwVTI2R2RVS2E4Qzl3MHdGVXN4V3Q0ZnhqN292eTNNQnFlMW52Q0pQbFc1MXJZeFJZVTdPMjFabFo5OTNfNm5sV1Y2TFk?oc=5",
+      "publishedAt": "2026-10-01T01:05:59+08:00"
+    },
+    {
+      "title": "Hong Kong age assurance plan for social media, AI will draw on international examples",
+      "source": "biometricupdate.com",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYU03b0JuNzl1b2xNeHJBMDR4bjdwVzlSbFVIVm02cC1LMV9RUFFsQjJIV0ZEc0xEQVp2V2FBY1E1dzhWaldSY1p6SVl1ejJBcUpoX29RU054eTVzb05xWXplOVIxWE9FRlV6ajdtZGthV0xFaFlkdC1ySEdkSEd1YUg3eGVLeTRkZ3JvU0JLZnViZFgwVzJFeHZqUEUxa2dSbnl3czVZWmtkZTA0ZDEtNW5idW5EQ3pvbFJTVXhCeXA?oc=5",
+      "publishedAt": "2026-10-01T00:33:55+08:00"
+    },
+    {
+      "title": "Hong Kong Designers Bring Floral Craft, Coastal Ease and Soft Tailoring to Paris",
+      "source": "WWD",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaDVpN1NzdWh6V3E5UGt2alhXbWJIQnEyNEJ6TEZlR19ha2xaN2dNRzlqa2pGTk5yT3pCRW1zdTU4R0J0MFJ4dVk4WHV1RFFpN2pnZTRROEt4UFRuR0pwX0h5RTlHRkcxMHBOdU4wZ21jbG01eklrY0RsWUVGTGlCb3dDTGJ5YVJIbUl0MXNxdzQ1Rkc2cmJCOG1Jb2ltNXczX3RjNGZiXzJYU0E?oc=5",
+      "publishedAt": "2026-10-01T00:15:16+08:00"
+    },
+    {
+      "title": "HSBC Private Bank Survey Finds 62 Percent of Hong Kong Entrepreneurs Plan to Invest 11–30 Percent of Turnover in AI",
+      "source": "Hubbis",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYXd4QnZqdHZET1dTcGhjWG1SN1kxMFhlVlJFREN5Tk1heHNHOEJMOEp5SzdNaFF1VC0zSGt3SzNTOXlqQTRad21lVUhCY25iNkFqSmF6Q0JKbTFvSm9UMWdQWE5kbkVuN0NjUFNKaVpneDRYTlc5MFRrT19BRHIxcEphRl85MHEwMTNOcUh3b1lGSDJWMzIxZ0xSdS1VbzFsX0twdkJiLVk0TGw5R3JWTV9HMm9lSmZJWWxKQlZiOXZzUy1QbEFrVFU0cFloOXBXLVlPV05wU0hoRG8?oc=5",
+      "publishedAt": "2026-10-01T00:01:50+08:00"
+    },
+    {
+      "title": "Hong Kong, Malaysia regulators simplify dual-listing procedures",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeTA3X3dseEhPSV9ucmVUVFZwXzFYa0djUlpJMk9ubURYWXZWVjlueXBFMjZBYXN6VEkxeFdOYzRTMklYeUJPVmYtdDhiR3NRQUFWd2Q1cy1HMlVTRG14ZFoydDd0RFo5Q3dBanFmSjZmN2s4cWprT0w5U0YzY19NWk54VmRUS1RUNVFiMUg4S2ZaNlZKa3FIa1l6Ynl1NnQ3STJJTEJaeDhyRkJkUEZFcjNocDVpQQ?oc=5",
+      "publishedAt": "2026-09-30T23:58:17+08:00"
+    },
+    {
+      "title": "Prosecutors say killing of Hong Kong socialite Abby Choi likely linked to a financial dispute",
+      "source": "Los Angeles Times",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZ3NYX0FIWWxhUVRDdmlmSGdUM0xMTGhzUUxVanZtbTN2b2tmOU5EVzJTbHdCb1dmR1RfM0d0eVNiejJ6azc4UVozSEVhYUt5WGI4dDZZQkNyeTl0VWJaWUJnbU5paUlNMHlMU2NSWTlaaF9nZURpOXFKdDZ4VXRNZ1EyTUxKaUxLNnBFOXFhdGNiVGgtVUM5d0I4U01rTlBPNFpHcXVlRHhvM3VEOG5ySkh2ZGFVRlMyREI1NldEd0ZGTVJKSUhhZ1M1cTVrc01KSU56WktFZ1FFQjdacGc?oc=5",
+      "publishedAt": "2026-09-30T23:56:37+08:00"
+    }
+  ]
+}

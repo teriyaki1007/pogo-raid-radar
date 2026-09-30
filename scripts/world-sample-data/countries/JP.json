@@ -1,0 +1,39 @@
+{
+ "iso2": "JP",
+ "name": "Japan",
+ "sample": true,
+ "updatedAt": "2026-09-30T12:00:00Z",
+ "facts": [
+  {
+   "label": "Capital",
+   "value": "Tokyo (placeholder)"
+  },
+  {
+   "label": "Population",
+   "value": "~124 million (placeholder)"
+  },
+  {
+   "label": "Languages",
+   "value": "Japanese (placeholder)"
+  },
+  {
+   "label": "Note",
+   "value": "Sample data for UI testing only"
+  }
+ ],
+ "headlines": [
+  {
+   "title": "[SAMPLE] Placeholder headline 1 for Japan",
+   "source": "Sample Source",
+   "url": "https://example.com/sample-jp-1",
+   "publishedAt": "2026-09-30T18:00:00Z",
+   "summary": "Placeholder summary text. Not real news."
+  },
+  {
+   "title": "[SAMPLE] Placeholder headline 2 for Japan",
+   "source": "Sample Source",
+   "url": "https://example.com/sample-jp-2",
+   "publishedAt": "2026-09-29T06:00:00Z"
+  }
+ ]
+}

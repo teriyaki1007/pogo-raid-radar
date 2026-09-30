@@ -1,0 +1,39 @@
+{
+ "iso2": "US",
+ "name": "United States",
+ "sample": true,
+ "updatedAt": "2026-09-30T12:00:00Z",
+ "facts": [
+  {
+   "label": "Capital",
+   "value": "Washington, D.C. (placeholder)"
+  },
+  {
+   "label": "Population",
+   "value": "~335 million (placeholder)"
+  },
+  {
+   "label": "Languages",
+   "value": "English (placeholder)"
+  },
+  {
+   "label": "Note",
+   "value": "Sample data for UI testing only"
+  }
+ ],
+ "headlines": [
+  {
+   "title": "[SAMPLE] Placeholder headline 1 for United States",
+   "source": "Sample Source",
+   "url": "https://example.com/sample-us-1",
+   "publishedAt": "2026-09-30T18:00:00Z",
+   "summary": "Placeholder summary text. Not real news."
+  },
+  {
+   "title": "[SAMPLE] Placeholder headline 2 for United States",
+   "source": "Sample Source",
+   "url": "https://example.com/sample-us-2",
+   "publishedAt": "2026-09-29T06:00:00Z"
+  }
+ ]
+}

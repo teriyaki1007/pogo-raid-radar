@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="color-scheme" content="dark" />
+<meta name="theme-color" content="#050914" />
+<title>World Watch Globe</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<div id="globe" aria-label="Interactive 3D globe"></div>
+
+<header id="topbar">
+  <a class="home" href="/" title="All apps">&larr;</a>
+  <h1>World Watch Globe</h1>
+  <div id="search-wrap">
+    <input id="search" type="search" placeholder="Search country…" autocomplete="off" spellcheck="false" aria-label="Search country" aria-autocomplete="list" aria-controls="results" />
+    <ul id="results" role="listbox" hidden></ul>
+  </div>
+</header>
+
+<div id="hint">Drag to rotate · scroll/pinch to zoom · click a country</div>
+<div id="legend"><span class="swatch"></span> Has recent updates <span id="updated-global"></span></div>
+
+<aside id="panel" aria-live="polite" aria-hidden="true">
+  <button id="close" type="button" aria-label="Close (Esc)">&times;</button>
+  <div class="panel-head">
+    <span id="flag" aria-hidden="true"></span>
+    <div>
+      <h2 id="c-name"></h2>
+      <span id="badge-sample" class="badge" hidden>Sample</span>
+    </div>
+  </div>
+  <p id="c-updated" class="muted"></p>
+  <h3>Key facts</h3>
+  <dl id="facts"></dl>
+  <h3>Latest headlines</h3>
+  <ul id="headlines"></ul>
+  <p id="c-note" class="muted"></p>
+</aside>
+
+<div id="loading"><div class="spinner"></div><p>Loading globe…</p></div>
+<div id="error" hidden>
+  <div>
+    <h2>Globe unavailable</h2>
+    <p id="error-msg">Your browser or device doesn't seem to support WebGL, which the 3D globe needs. Try a recent version of Chrome, Firefox, Safari or Edge, or enable hardware acceleration.</p>
+    <p><a href="/">Back to apps</a></p>
+  </div>
+</div>
+
+<script src="vendor/globe.gl.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

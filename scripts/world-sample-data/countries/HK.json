@@ -1,0 +1,39 @@
+{
+ "iso2": "HK",
+ "name": "Hong Kong",
+ "sample": true,
+ "updatedAt": "2026-09-30T12:00:00Z",
+ "facts": [
+  {
+   "label": "Capital",
+   "value": "Hong Kong (placeholder)"
+  },
+  {
+   "label": "Population",
+   "value": "~7.5 million (placeholder)"
+  },
+  {
+   "label": "Languages",
+   "value": "Cantonese, English (placeholder)"
+  },
+  {
+   "label": "Note",
+   "value": "Sample data for UI testing only"
+  }
+ ],
+ "headlines": [
+  {
+   "title": "[SAMPLE] Placeholder headline 1 for Hong Kong",
+   "source": "Sample Source",
+   "url": "https://example.com/sample-hk-1",
+   "publishedAt": "2026-09-30T18:00:00Z",
+   "summary": "Placeholder summary text. Not real news."
+  },
+  {
+   "title": "[SAMPLE] Placeholder headline 2 for Hong Kong",
+   "source": "Sample Source",
+   "url": "https://example.com/sample-hk-2",
+   "publishedAt": "2026-09-29T06:00:00Z"
+  }
+ ]
+}
