@@ -31,7 +31,8 @@
   <section id="panel-gallery" role="tabpanel" aria-labelledby="tab-gallery">
     <div class="intro">
       <h2>Character Gallery</h2>
-      <p class="spoiler-note"><span class="pill">Spoiler-light</span> Descriptions avoid major plot twists, deaths and endings, so it is safe to browse even if you are mid-watch.</p>
+      <p class="spoiler-note"><span class="pill">Spoilers are hidden until you reveal them</span> The main description is spoiler-free. Each character also has a full-spoiler write-up (twists, deaths and fates) that stays blurred until you tap to reveal it.</p>
+      <label class="spoil-pref"><input type="checkbox" data-spoil-pref /> Show spoilers by default</label>
     </div>
 
     <div class="controls">
@@ -91,6 +92,7 @@
       </div>
       <p class="log" id="log" aria-live="polite">Choose your fighters, then press Fight!</p>
       <div class="banner" id="banner" hidden>
+        <div class="b-art" id="bArt"></div>
         <p class="b-kicker" id="bKicker">Winner</p>
         <p class="b-name" id="bName"></p>
         <p class="b-sub" id="bSub"></p>
@@ -111,11 +113,22 @@
     </div>
     <p class="note">Ratings are fan-estimated MCU power levels, just for fun. Win chance = A ÷ (A + B), so a 90 vs 45 matchup gives the favourite about 67%. Picking the same character twice is a 50/50 mirror match.</p>
   </section>
+
+  <section id="panel-credits" role="region" aria-labelledby="credits-title" hidden>
+    <div class="intro">
+      <h2 id="credits-title">Photo credits</h2>
+      <p class="muted">Portraits on this site are freely licensed photos of the <em>actors</em> who play each character, sourced from <a href="https://commons.wikimedia.org/" target="_blank" rel="noopener noreferrer">Wikimedia Commons</a>. They are not official Marvel stills or promotional art, and they do not imply endorsement by the photographers, the actors or Marvel. Each image was resized to about 400px wide (and, where noted on Commons, cropped) and is shown here under its original licence. Characters that are CGI or voice roles use an original illustrated avatar instead; no fake photos are used.</p>
+    </div>
+    <div id="creditsList" class="credits-list"></div>
+    <h3 class="credits-h">Illustrated avatars (no photo)</h3>
+    <ul id="creditsFallback" class="credits-fb"></ul>
+    <p><button type="button" class="btn ghost" id="creditsBack">&larr; Back to the gallery</button></p>
+  </section>
 </main>
 
 <footer>
   <p>Unofficial fan site. Marvel characters are property of Marvel/Disney.</p>
-  <p class="muted">All portraits are original stylised avatar cards, not official artwork.</p>
+  <p class="muted">Portraits are freely licensed photos of the actors from Wikimedia Commons, or original stylised avatar cards, never official artwork. <a href="#credits" id="creditsLink">Photo credits</a></p>
 </footer>
 
 <div id="overlay" class="overlay" hidden>

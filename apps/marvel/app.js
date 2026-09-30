@@ -65,6 +65,46 @@
       '</svg>';
   }
 
+  /* ---------- real photos (actor photos from Wikimedia Commons) with avatar fallback ---------- */
+  function art(c, cls, eager) {
+    if (!c.photo) return portrait(c, cls);
+    var pc = c.photoCredit || {};
+    return '<img class="photo ' + (cls || '') + '" src="' + esc(c.photo) + '" alt="' + esc('Photo of ' + (pc.actor || 'the actor') + ', who plays ' + c.name) + '"' +
+      ' data-cid="' + esc(c.id) + '" decoding="async"' + (eager ? '' : ' loading="lazy"') + ' draggable="false">';
+  }
+  // <img> error events do not bubble, so listen in the capture phase and swap in the clean generated avatar.
+  document.addEventListener('error', function (e) {
+    var t = e.target;
+    if (!t || t.tagName !== 'IMG' || !t.classList.contains('photo')) return;
+    var c = byId[t.getAttribute('data-cid')];
+    if (!c) return;
+    var holder = document.createElement('span');
+    holder.innerHTML = portrait(c, t.className.replace(/\bphoto\b/, '').trim());
+    if (t.parentNode) t.parentNode.replaceChild(holder.firstChild, t);
+    $$('[data-credit-for="' + c.id + '"]').forEach(function (n) { n.textContent = 'Photo unavailable; showing an illustrated avatar.'; n.removeAttribute('title'); });
+    $$('[data-actor-for="' + c.id + '"]').forEach(function (n) { n.hidden = true; });
+    c._photoFailed = true;
+  }, true);
+
+  /* ---------- spoiler preference ---------- */
+  var SPOIL_KEY = 'marvel.spoilers.default';
+  function spoilPref() { try { return localStorage.getItem(SPOIL_KEY) === '1'; } catch (e) { return false; } }
+  function setSpoilPref(v) { try { localStorage.setItem(SPOIL_KEY, v ? '1' : '0'); } catch (e) { /* storage blocked: session only */ } }
+  function syncSpoilChecks() { $$('[data-spoil-pref]').forEach(function (i) { i.checked = spoilPref(); }); }
+  document.addEventListener('change', function (e) {
+    var t = e.target;
+    if (!t || !t.matches || !t.matches('[data-spoil-pref]')) return;
+    setSpoilPref(t.checked); syncSpoilChecks();
+    if (t.checked) $$('.spoil.hidden', dialog).forEach(function (b) { setSpoil(b, true); });
+  });
+  function setSpoil(box, show) {
+    box.classList.toggle('hidden', !show);
+    var head = $('.spoil-head', box), txt = $('.spoil-text', box);
+    head.setAttribute('aria-expanded', show ? 'true' : 'false');
+    head.querySelector('small').textContent = show ? 'tap to hide' : 'tap to reveal';
+    if (show) txt.removeAttribute('aria-hidden'); else txt.setAttribute('aria-hidden', 'true');
+  }
+
   /* ---------- gallery ---------- */
   function sortFn() {
     if (state.sort === 'power') return function (a, b) { return b.power - a.power || a.name.localeCompare(b.name); };
@@ -86,7 +126,7 @@
   }
   function cardHTML(c) {
     return '<button type="button" class="card" data-id="' + c.id + '" aria-haspopup="dialog" style="--a:' + c.theme.accent + ';--c1:' + c.theme.c1 + ';--c2:' + c.theme.c2 + '">' +
-      '<span class="art">' + portrait(c) + '<span class="badge ' + c.alignment + '">' + (c.alignment === 'villain' ? 'Villain' : 'Hero') + '</span></span>' +
+      '<span class="art">' + art(c) + '<span class="badge ' + c.alignment + '">' + (c.alignment === 'villain' ? 'Villain' : 'Hero') + '</span></span>' +
       '<span class="meta"><strong>' + esc(c.name) + '</strong><span class="al">' + esc(c.alias) + '</span>' +
       '<span class="mini"><i style="width:' + c.power + '%"></i></span><span class="pw">' + c.power + ' · ' + tier(c.power) + '</span></span></button>';
   }
@@ -156,24 +196,53 @@
     }
   });
 
+  function creditLine(c) {
+    var pc = c.photoCredit;
+    if (c.photo && pc) {
+      var tip = 'Photo of ' + pc.actor + ' by ' + pc.author + ', ' + pc.license + ', via Wikimedia Commons';
+      return '<p class="credit" data-credit-for="' + esc(c.id) + '" title="' + esc(tip) + '">Photo: ' + esc(pc.author) + ' · ' +
+        (pc.licenseUrl ? '<a href="' + esc(pc.licenseUrl) + '" target="_blank" rel="noopener noreferrer">' + esc(pc.license) + '</a>' : esc(pc.license)) +
+        ' · <a href="' + esc(pc.source) + '" target="_blank" rel="noopener noreferrer">Wikimedia Commons</a> · <a href="#credits" data-credits-link>all credits</a></p>';
+    }
+    return '<p class="credit" data-credit-for="' + esc(c.id) + '">' + esc(c.photoNote || 'Illustrated avatar: no freely licensed photo of the actor is available.') + '</p>';
+  }
+  function spoilerBlock(c) {
+    if (!c.spoilers) return '';
+    var show = spoilPref();
+    return '<div class="spoil' + (show ? '' : ' hidden') + '">' +
+      '<button type="button" class="spoil-head" aria-expanded="' + show + '" aria-controls="spoil-' + esc(c.id) + '"><span>⚠ Spoilers</span><small>' + (show ? 'tap to hide' : 'tap to reveal') + '</small></button>' +
+      '<div class="spoil-body"><div class="spoil-text" id="spoil-' + esc(c.id) + '"' + (show ? '' : ' aria-hidden="true"') + '>' +
+      '<p>' + esc(c.spoilers) + '</p>' +
+      (c.spoilersMore ? '<p class="more-h">Later on</p><p>' + esc(c.spoilersMore) + '</p>' : '') +
+      '</div></div>' +
+      '<label class="spoil-pref" style="padding:0 .9rem .7rem"><input type="checkbox" data-spoil-pref /> Show spoilers by default</label></div>';
+  }
   function openDetail(id, opener) {
     var c = byId[id]; if (!c) return;
     var fa = c.firstAppearance;
     var html = '<div class="dlg-hero" style="--a:' + c.theme.accent + ';--c1:' + c.theme.c1 + ';--c2:' + c.theme.c2 + '">' +
-      '<div class="dlg-art">' + portrait(c) + '</div>' +
+      '<div class="dlg-art">' + art(c, '', true) + '</div>' +
       '<div class="dlg-head"><span class="badge inline ' + c.alignment + '">' + (c.alignment === 'villain' ? 'Villain' : 'Hero') + '</span> <span class="badge inline grp">' + GROUP_LABEL[c.group] + '</span>' +
-      '<h3 id="dlgTitle">' + esc(c.name) + '</h3><p class="alias">' + esc(c.alias) + '</p><p class="tag">“' + esc(c.tagline) + '”</p></div>' +
+      '<h3 id="dlgTitle">' + esc(c.name) + '</h3><p class="alias">' + esc(c.alias) + '</p>' + (c.photo && c.photoCredit ? '<p class="cast" data-actor-for="' + esc(c.id) + '">' + esc(c.photoCredit.actor) + ' <span class="muted">as ' + esc(c.name) + '</span></p>' : '') + '<p class="tag">“' + esc(c.tagline) + '”</p></div>' +
       '<button type="button" class="x" data-close data-autofocus aria-label="Close (Esc)">&times;</button></div>' +
       '<div class="dlg-body">' +
+      creditLine(c) +
       '<dl class="facts"><div><dt>First appearance</dt><dd>' + esc(fa.title) + ' <span class="muted">(' + fa.type + ', ' + fa.year + ')</span></dd></div></dl>' +
       '<p>' + esc(c.description) + '</p>' +
       '<h4>Why they matter to the MCU</h4><p>' + esc(c.importance) + '</p>' +
+      spoilerBlock(c) +
       '<h4>Power rating <span class="muted">· ' + tier(c.power) + '</span></h4>' +
       '<div class="power" role="meter" aria-valuemin="1" aria-valuemax="100" aria-valuenow="' + c.power + '" aria-label="Power rating"><i style="--w:' + c.power + '%"></i><b>' + c.power + '</b></div>' +
       '<h4>Abilities</h4><ul class="tags">' + c.abilities.map(function (a) { return '<li>' + esc(a) + '</li>'; }).join('') + '</ul>' +
       '<div class="dlg-actions"><button type="button" class="btn primary" data-fight="A">Send to Arena as Fighter A</button><button type="button" class="btn" data-fight="B">as Fighter B</button></div>' +
-      '<p class="mini-note">Spoiler-light · ratings are fan-estimated, just for fun.</p></div>';
+      '<p class="mini-note">Spoilers are hidden until you reveal them · ratings are fan-estimated, just for fun.</p></div>';
     openDialog(html, opener);
+    syncSpoilChecks();
+    $$('.spoil', dialog).forEach(function (box) {
+      var reveal = function () { if (box.classList.contains('hidden')) setSpoil(box, true); };
+      $('.spoil-head', box).addEventListener('click', function () { setSpoil(box, box.classList.contains('hidden')); });
+      $('.spoil-body', box).addEventListener('click', reveal);
+    });
     $$('[data-fight]', dialog).forEach(function (b) {
       b.addEventListener('click', function () {
         setFighter(b.dataset.fight, id);
@@ -184,17 +253,40 @@
 
   /* ---------- tabs ---------- */
   function showTab(name, focus) {
-    ['gallery', 'arena'].forEach(function (n) {
+    ['gallery', 'arena', 'credits'].forEach(function (n) {
       var on = n === name;
       $('#panel-' + n).hidden = !on;
-      var t = $('#tab-' + n); t.setAttribute('aria-selected', on); t.tabIndex = on ? 0 : -1;
+      var t = $('#tab-' + n);
+      if (t) { t.setAttribute('aria-selected', on); t.tabIndex = on ? 0 : -1; }
     });
-    if (history.replaceState) history.replaceState(null, '', name === 'arena' ? '#arena' : location.pathname + location.search);
+    if (name === 'credits') {
+      ['gallery', 'arena'].forEach(function (n) { var t = $('#tab-' + n); t.setAttribute('aria-selected', 'false'); t.tabIndex = n === 'gallery' ? 0 : -1; });
+      renderCredits();
+    }
+    if (history.replaceState) history.replaceState(null, '', name === 'arena' ? '#arena' : name === 'credits' ? '#credits' : location.pathname + location.search);
     if (name === 'arena') { updateOdds(); renderFighters(); }
     if (focus) window.scrollTo({ top: 0, behavior: reduce.matches ? 'auto' : 'smooth' });
   }
+  function renderCredits() {
+    var withPhoto = chars.filter(function (c) { return c.photo && c.photoCredit; });
+    var fb = chars.filter(function (c) { return !(c.photo && c.photoCredit); });
+    $('#creditsList').innerHTML = withPhoto.slice().sort(function (a, b) { return a.name.localeCompare(b.name); }).map(function (c) {
+      var p = c.photoCredit;
+      return '<div class="cr"><span class="cr-img">' + art(c) + '</span><p><strong>' + esc(p.actor) + '</strong> as ' + esc(c.name) + '<br>' +
+        'Photo by ' + esc(p.author) + ' · ' +
+        (p.licenseUrl ? '<a href="' + esc(p.licenseUrl) + '" target="_blank" rel="noopener noreferrer">' + esc(p.license) + '</a>' : esc(p.license)) + '<br>' +
+        '<a href="' + esc(p.source) + '" target="_blank" rel="noopener noreferrer">File page on Wikimedia Commons</a></p></div>';
+    }).join('');
+    $('#creditsFallback').innerHTML = fb.map(function (c) { return '<li><strong>' + esc(c.name) + '</strong>: ' + esc(c.photoNote || 'No freely licensed photo of the actor was found; original illustrated avatar used.') + '</li>'; }).join('');
+  }
   function bindTabs() {
     var tabs = $$('[role=tab]');
+    $('#creditsLink').addEventListener('click', function (e) { e.preventDefault(); showTab('credits', true); });
+    $('#creditsBack').addEventListener('click', function () { showTab('gallery', true); });
+    document.addEventListener('click', function (e) {
+      var a = e.target.closest && e.target.closest('[data-credits-link]');
+      if (a) { e.preventDefault(); closeDialog(); showTab('credits', true); }
+    });
     tabs.forEach(function (t, i) {
       t.addEventListener('click', function () { showTab(t.id.replace('tab-', ''), true); });
       t.addEventListener('keydown', function (e) {
@@ -229,7 +321,8 @@
       el.style.setProperty('--a', c.theme.accent);
       el.className = 'fighter' + (champSide === s ? ' champ' : '');
       el.innerHTML = '<button type="button" class="f-card" data-side="' + s + '" aria-pressed="' + (champSide === s) + '" aria-label="' + esc(c.name) + (champSide === s ? ', your champion' : ', tap to make your champion') + '">' +
-        '<span class="f-art">' + portrait(c) + '<span class="hit-flash"></span></span><span class="f-name">' + esc(c.name) + '</span></button>' +
+        '<span class="f-art">' + art(c, '', true) + '<span class="hit-flash"></span></span><span class="f-name">' + esc(c.name) + '</span>' +
+        (c.photo && c.photoCredit ? '<span class="f-actor" data-actor-for="' + esc(c.id) + '">' + esc(c.photoCredit.actor) + '</span>' : '') + '</button>' +
         '<div class="hp" role="progressbar" aria-label="' + esc(c.name) + ' health" aria-valuemin="0" aria-valuemax="100" aria-valuenow="100"><i></i><span>100</span></div>' +
         '<div class="dmg-layer"></div>';
     });
@@ -334,6 +427,8 @@
     $('#tW').textContent = tally.w; $('#tL').textContent = tally.l;
     $('#bKicker').textContent = mine ? 'Your champion wins!' : 'Your champion falls!';
     $('#bName').textContent = wc.name + ' wins';
+    $('#bArt').innerHTML = art(wc, '', true);
+    $('#bArt').setAttribute('role', 'img'); $('#bArt').setAttribute('aria-label', wc.name + ' portrait');
     var chance = Math.round(plan.pWinner * 100);
     var verdict = sel.A === sel.B ? 'Mirror match: a coin flip.' : plan.winnerFinalHp < 18 ? 'A photo finish!' : plan.winnerFinalHp > 60 ? 'A total stomp.' : 'A solid win.';
     $('#bSub').textContent = verdict + ' ' + wc.name + ' had a ' + chance + '% chance' + (chance < 50 ? ' (upset!)' : '') + ' and ended with ' + plan.winnerFinalHp + ' HP.';
@@ -364,7 +459,7 @@
     var html = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">Pick Fighter ' + side + '</h3><p class="alias">Choose a character for the arena</p></div>' +
       '<button type="button" class="x" data-close data-autofocus aria-label="Close (Esc)">&times;</button></div>' +
       '<div class="dlg-body"><div class="pick-grid">' + chars.slice().sort(function (a, b) { return a.name.localeCompare(b.name); }).map(function (c) {
-        return '<button type="button" class="mini-card" data-id="' + c.id + '" style="--a:' + c.theme.accent + '">' + portrait(c) + '<span>' + esc(c.name) + '</span></button>';
+        return '<button type="button" class="mini-card" data-id="' + c.id + '" style="--a:' + c.theme.accent + '">' + art(c) + '<span>' + esc(c.name) + '</span></button>';
       }).join('') + '</div></div>';
     openDialog(html, document.activeElement);
     $('.pick-grid', dialog).addEventListener('click', function (e) {
@@ -426,7 +521,8 @@
     chars = d.characters; chars.forEach(function (c) { byId[c.id] = c; });
     buildControls(); bindTabs(); fillSelects(); bindArena(); renderGrid();
     $('#champ').textContent = byId[sel.A].name;
-    if (location.hash === '#arena') showTab('arena'); else { updateOdds(); renderFighters(); }
+    syncSpoilChecks();
+    if (location.hash === '#credits') showTab('credits'); else if (location.hash === '#arena') showTab('arena'); else { updateOdds(); renderFighters(); }
   }).catch(function (err) {
     $('#grid').innerHTML = '<p class="empty">Could not load character data (' + esc(err.message) + '). Serve this page over http(s), not file://.</p>';
   });

@@ -1,1344 +1,1754 @@
 {
- "version": 1,
- "note": "Ratings are fan-estimated MCU power levels, just for fun.",
- "characters": [
-  {
-   "id": "iron-man",
-   "name": "Iron Man",
-   "alias": "Tony Stark",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Iron Man",
-    "year": 2008,
-    "type": "Film"
-   },
-   "power": 82,
-   "initials": "IM",
-   "theme": {
-    "c1": "#7a0f14",
-    "c2": "#e0a72b",
-    "accent": "#ffd76a"
-   },
-   "pattern": "hex",
-   "emblem": "circle",
-   "tagline": "Genius. Inventor. Showman.",
-   "description": "A billionaire inventor who builds a powered suit of armour and turns his genius toward protecting the world.",
-   "importance": "Iron Man kicked off the entire Marvel Cinematic Universe and set its tone: witty, high-tech and full of heart. His choices and inventions ripple through many of the stories that follow.",
-   "abilities": [
-    "Powered armour",
-    "Genius intellect",
-    "Repulsor blasts",
-    "Flight",
-    "AI assistants"
-   ]
-  },
-  {
-   "id": "captain-america",
-   "name": "Captain America",
-   "alias": "Steve Rogers",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Captain America: The First Avenger",
-    "year": 2011,
-    "type": "Film"
-   },
-   "power": 78,
-   "initials": "CA",
-   "theme": {
-    "c1": "#0b2a6b",
-    "c2": "#c0272d",
-    "accent": "#e8eefc"
-   },
-   "pattern": "stripes",
-   "emblem": "star",
-   "tagline": "The first Avenger.",
-   "description": "A determined soldier transformed by an experimental serum into the peak of human ability, carrying a near-indestructible shield.",
-   "importance": "Cap is the moral compass of the team, a symbol of courage and old-fashioned decency. His leadership holds the Avengers together when things get complicated.",
-   "abilities": [
-    "Super-soldier strength",
-    "Shield mastery",
-    "Tactical leadership",
-    "Peak agility"
-   ]
-  },
-  {
-   "id": "thor",
-   "name": "Thor",
-   "alias": "Thor Odinson",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Thor",
-    "year": 2011,
-    "type": "Film"
-   },
-   "power": 94,
-   "initials": "TH",
-   "theme": {
-    "c1": "#15275e",
-    "c2": "#5aa8ff",
-    "accent": "#e9f4ff"
-   },
-   "pattern": "bolt",
-   "emblem": "bolt",
-   "tagline": "God of Thunder.",
-   "description": "The mighty Asgardian god of thunder, wielding lightning and a hammer-forged weapon that answers only to the worthy.",
-   "importance": "Thor connects Earth to the wider cosmos of gods and realms. His storylines open the door to magic, mythology and the larger cosmic threats in the MCU.",
-   "abilities": [
-    "Lightning control",
-    "Godly strength",
-    "Flight",
-    "Weather manipulation",
-    "Near-immortality"
-   ]
-  },
-  {
-   "id": "hulk",
-   "name": "Hulk",
-   "alias": "Dr. Bruce Banner",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "The Incredible Hulk",
-    "year": 2008,
-    "type": "Film"
-   },
-   "power": 92,
-   "initials": "HK",
-   "theme": {
-    "c1": "#0f4d22",
-    "c2": "#6bcf3f",
-    "accent": "#d4ffb0"
-   },
-   "pattern": "burst",
-   "emblem": "hex",
-   "tagline": "Puny humans, meet the Other Guy.",
-   "description": "A brilliant scientist whose gamma-radiation accident unleashes a towering green powerhouse when his anger rises.",
-   "importance": "The Hulk is one of the most physically powerful heroes in the MCU and a constant reminder that the biggest battles can be internal. Banner's science and Hulk's might make for a unique double act.",
-   "abilities": [
-    "Limitless strength",
-    "Gamma healing",
-    "Leaping",
-    "Durability",
-    "Genius-level science"
-   ]
-  },
-  {
-   "id": "black-widow",
-   "name": "Black Widow",
-   "alias": "Natasha Romanoff",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Iron Man 2",
-    "year": 2010,
-    "type": "Film"
-   },
-   "power": 52,
-   "initials": "BW",
-   "theme": {
-    "c1": "#1a1a22",
-    "c2": "#b3202a",
-    "accent": "#ff7b84"
-   },
-   "pattern": "diamonds",
-   "emblem": "diamond",
-   "tagline": "Every mission has a cost.",
-   "description": "A master spy and martial artist with a shadowy past, she fights with pure skill rather than super powers.",
-   "importance": "Natasha is the glue of the early Avengers: a strategist and infiltrator who keeps the team grounded. Her history is full of secrets that drive many stories.",
-   "abilities": [
-    "Expert spy",
-    "Martial arts",
-    "Marksmanship",
-    "Stealth",
-    "Wrist gadgets"
-   ]
-  },
-  {
-   "id": "hawkeye",
-   "name": "Hawkeye",
-   "alias": "Clint Barton",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Thor",
-    "year": 2011,
-    "type": "Film"
-   },
-   "power": 48,
-   "initials": "HE",
-   "theme": {
-    "c1": "#3a1c6b",
-    "c2": "#8a55d6",
-    "accent": "#d9c2ff"
-   },
-   "pattern": "chevrons",
-   "emblem": "triangle",
-   "tagline": "Never misses.",
-   "description": "A peerless archer who never misses, armed with an arsenal of specialised trick arrows.",
-   "importance": "Clint proves you do not need powers to be a hero. As a family man among gods and monsters, he brings the team a very human perspective.",
-   "abilities": [
-    "Perfect aim",
-    "Trick arrows",
-    "Tactics",
-    "Hand-to-hand combat"
-   ]
-  },
-  {
-   "id": "spider-man",
-   "name": "Spider-Man",
-   "alias": "Peter Parker",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Captain America: Civil War",
-    "year": 2016,
-    "type": "Film"
-   },
-   "power": 72,
-   "initials": "SM",
-   "theme": {
-    "c1": "#b21a24",
-    "c2": "#1c3c9c",
-    "accent": "#ffb3b8"
-   },
-   "pattern": "grid",
-   "emblem": "circle",
-   "tagline": "Your friendly neighbourhood hero.",
-   "description": "A teenage New Yorker with spider-like powers who swings through the city balancing homework and heroics.",
-   "importance": "Spider-Man brings youth, humour and relatability to the MCU. He shows the everyday-hero side of the universe and grows a lot under the mentors he meets.",
-   "abilities": [
-    "Wall-crawling",
-    "Spider-sense",
-    "Web-shooters",
-    "Super agility",
-    "Quick wit"
-   ]
-  },
-  {
-   "id": "black-panther",
-   "name": "Black Panther",
-   "alias": "T'Challa",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Captain America: Civil War",
-    "year": 2016,
-    "type": "Film"
-   },
-   "power": 76,
-   "initials": "BP",
-   "theme": {
-    "c1": "#0c0c14",
-    "c2": "#6b3fb8",
-    "accent": "#c9a8ff"
-   },
-   "pattern": "chevrons",
-   "emblem": "claw",
-   "tagline": "Wakanda Forever.",
-   "description": "The king and protector of Wakanda, wearing a suit of vibranium and blending tradition with cutting-edge tech.",
-   "importance": "T'Challa introduces Wakanda, the most advanced nation on Earth, and the power of the vibranium metal. His reign raises big questions about how a leader should use power.",
-   "abilities": [
-    "Vibranium suit",
-    "Enhanced senses",
-    "Martial arts",
-    "Kinetic energy absorption",
-    "Royal tactics"
-   ]
-  },
-  {
-   "id": "doctor-strange",
-   "name": "Doctor Strange",
-   "alias": "Dr. Stephen Strange",
-   "group": "other",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Doctor Strange",
-    "year": 2016,
-    "type": "Film"
-   },
-   "power": 88,
-   "initials": "DS",
-   "theme": {
-    "c1": "#6b1a1a",
-    "c2": "#e0892b",
-    "accent": "#ffe0a8"
-   },
-   "pattern": "rings",
-   "emblem": "circle",
-   "tagline": "Master of the Mystic Arts.",
-   "description": "A gifted surgeon who discovers the mystic arts and becomes Earth's Sorcerer Supreme.",
-   "importance": "Strange opens up magic and the multiverse in the MCU. He is often the one who sees the wider picture and understands what is truly at stake.",
-   "abilities": [
-    "Sorcery",
-    "Portals",
-    "Time manipulation",
-    "Astral projection",
-    "Mystic shields"
-   ]
-  },
-  {
-   "id": "captain-marvel",
-   "name": "Captain Marvel",
-   "alias": "Carol Danvers",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Captain Marvel",
-    "year": 2019,
-    "type": "Film"
-   },
-   "power": 95,
-   "initials": "CM",
-   "theme": {
-    "c1": "#1f3fae",
-    "c2": "#e0282e",
-    "accent": "#ffd24a"
-   },
-   "pattern": "burst",
-   "emblem": "star",
-   "tagline": "Higher, further, faster.",
-   "description": "A former pilot infused with cosmic energy, she flies faster than sound and fires powerful energy blasts.",
-   "importance": "Carol is among the most powerful heroes in the MCU and connects Earth's story to the galactic community. Her origin also fills in important history about the early days of S.H.I.E.L.D.",
-   "abilities": [
-    "Photon blasts",
-    "Supersonic flight",
-    "Super strength",
-    "Energy absorption",
-    "Space survival"
-   ]
-  },
-  {
-   "id": "ant-man",
-   "name": "Ant-Man",
-   "alias": "Scott Lang",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Ant-Man",
-    "year": 2015,
-    "type": "Film"
-   },
-   "power": 58,
-   "initials": "AM",
-   "theme": {
-    "c1": "#8a1c1c",
-    "c2": "#2a2a33",
-    "accent": "#ff9a6b"
-   },
-   "pattern": "dots",
-   "emblem": "circle",
-   "tagline": "Think small. Hit big.",
-   "description": "A clever ex-thief who wears a suit that lets him shrink to insect size or grow to giant scale.",
-   "importance": "Scott brings a lighter, heist-movie flavour to the MCU and opens the door to the mysterious Quantum Realm. His small-scale tricks have surprisingly big consequences.",
-   "abilities": [
-    "Size change",
-    "Ant communication",
-    "Suit tech",
-    "Quick thinking"
-   ]
-  },
-  {
-   "id": "wasp",
-   "name": "Wasp",
-   "alias": "Hope van Dyne",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Ant-Man (as Hope van Dyne)",
-    "year": 2015,
-    "type": "Film"
-   },
-   "power": 60,
-   "initials": "WP",
-   "theme": {
-    "c1": "#c48a00",
-    "c2": "#1b1b22",
-    "accent": "#ffe27a"
-   },
-   "pattern": "chevrons",
-   "emblem": "bolt",
-   "tagline": "Small but deadly.",
-   "description": "A skilled fighter who shrinks to tiny size with wings and stinging energy blasts.",
-   "importance": "Hope is a capable hero and a scientist in her own right, and her family history is tied to the shrinking technology that powers the Ant-Man stories.",
-   "abilities": [
-    "Shrinking",
-    "Flight",
-    "Bio-electric stingers",
-    "Combat training"
-   ]
-  },
-  {
-   "id": "scarlet-witch",
-   "name": "Scarlet Witch",
-   "alias": "Wanda Maximoff",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Captain America: The Winter Soldier",
-    "year": 2014,
-    "type": "Film"
-   },
-   "power": 96,
-   "initials": "SW",
-   "theme": {
-    "c1": "#5a0a1e",
-    "c2": "#d3173e",
-    "accent": "#ff9fb5"
-   },
-   "pattern": "waves",
-   "emblem": "star",
-   "tagline": "Power without limits.",
-   "description": "A woman with remarkable reality-bending magic, whose crimson energy can move objects and warp minds.",
-   "importance": "Wanda is one of the most powerful beings in the MCU, and her emotional journey is central to several stories. Her abilities hint at forces few characters fully understand.",
-   "abilities": [
-    "Chaos magic",
-    "Telekinesis",
-    "Mind influence",
-    "Energy blasts",
-    "Reality warping"
-   ]
-  },
-  {
-   "id": "vision",
-   "name": "Vision",
-   "alias": "Vision",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Avengers: Age of Ultron",
-    "year": 2015,
-    "type": "Film"
-   },
-   "power": 86,
-   "initials": "VI",
-   "theme": {
-    "c1": "#15623a",
-    "c2": "#e0b32b",
-    "accent": "#fff0a8"
-   },
-   "pattern": "rings",
-   "emblem": "diamond",
-   "tagline": "A new kind of life.",
-   "description": "A synthetic being with a glowing gem on his brow, combining artificial intelligence with extraordinary abilities.",
-   "importance": "Vision explores what it means to be alive and what makes someone human. He is powerful yet gentle and often the calm voice among the Avengers.",
-   "abilities": [
-    "Density control",
-    "Flight",
-    "Energy beams",
-    "Intangibility",
-    "Super intelligence"
-   ]
-  },
-  {
-   "id": "falcon",
-   "name": "Falcon",
-   "alias": "Sam Wilson",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Captain America: The Winter Soldier",
-    "year": 2014,
-    "type": "Film"
-   },
-   "power": 55,
-   "initials": "FA",
-   "theme": {
-    "c1": "#7a1f1f",
-    "c2": "#2a3b66",
-    "accent": "#ffd0c8"
-   },
-   "pattern": "chevrons",
-   "emblem": "triangle",
-   "tagline": "Soaring on principle.",
-   "description": "A former Air Force pararescue specialist who soars the skies with a high-tech winged flight suit.",
-   "importance": "Sam is a dependable friend and skilled mentor figure who brings a grounded perspective and heart. He proves leadership is about people, not power.",
-   "abilities": [
-    "Flight harness",
-    "Aerial combat",
-    "Drone companion",
-    "Counselling",
-    "Shield skills"
-   ]
-  },
-  {
-   "id": "winter-soldier",
-   "name": "Winter Soldier",
-   "alias": "Bucky Barnes",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Captain America: The First Avenger",
-    "year": 2011,
-    "type": "Film"
-   },
-   "power": 60,
-   "initials": "WS",
-   "theme": {
-    "c1": "#2a2f3a",
-    "c2": "#8b98ad",
-    "accent": "#dce6f5"
-   },
-   "pattern": "stripes",
-   "emblem": "star",
-   "tagline": "A soldier out of time.",
-   "description": "A highly trained soldier with a metal arm and a long, complicated history alongside Steve Rogers.",
-   "importance": "Bucky's tie to Captain America gives the MCU some of its most personal stories. His journey is about finding who he is after a lot of hardship.",
-   "abilities": [
-    "Cybernetic arm",
-    "Super-soldier physique",
-    "Marksmanship",
-    "Stealth combat"
-   ]
-  },
-  {
-   "id": "war-machine",
-   "name": "War Machine",
-   "alias": "James \"Rhodey\" Rhodes",
-   "group": "avengers",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Iron Man",
-    "year": 2008,
-    "type": "Film"
-   },
-   "power": 62,
-   "initials": "WM",
-   "theme": {
-    "c1": "#3a3f48",
-    "c2": "#b0b7c3",
-    "accent": "#ffffff"
-   },
-   "pattern": "hex",
-   "emblem": "shield",
-   "tagline": "Heavy firepower, steady heart.",
-   "description": "A loyal Air Force officer and friend of Tony Stark who pilots a heavily armed armoured suit.",
-   "importance": "Rhodey is the dependable military mind among the heroes and a steady friend. He brings the heavy weaponry and a no-nonsense attitude.",
-   "abilities": [
-    "Armoured suit",
-    "Heavy weapons",
-    "Flight",
-    "Military tactics"
-   ]
-  },
-  {
-   "id": "loki",
-   "name": "Loki",
-   "alias": "Loki, God of Mischief",
-   "group": "villains",
-   "alignment": "villain",
-   "firstAppearance": {
-    "title": "Thor",
-    "year": 2011,
-    "type": "Film"
-   },
-   "power": 74,
-   "initials": "LK",
-   "theme": {
-    "c1": "#0f4a36",
-    "c2": "#c8a227",
-    "accent": "#f2e08a"
-   },
-   "pattern": "waves",
-   "emblem": "crescent",
-   "tagline": "Glorious purpose.",
-   "description": "A silver-tongued Asgardian trickster who uses illusions and cunning to get what he wants.",
-   "importance": "Loki is the MCU's most memorable troublemaker and a constant wild card. Charming, unpredictable and hard to pin down, he keeps every story he joins fun.",
-   "abilities": [
-    "Illusions",
-    "Sorcery",
-    "Shapeshifting",
-    "Daggers",
-    "Silver tongue"
-   ]
-  },
-  {
-   "id": "thanos",
-   "name": "Thanos",
-   "alias": "The Mad Titan",
-   "group": "villains",
-   "alignment": "villain",
-   "firstAppearance": {
-    "title": "The Avengers",
-    "year": 2012,
-    "type": "Film"
-   },
-   "power": 98,
-   "initials": "TN",
-   "theme": {
-    "c1": "#3d1a6b",
-    "c2": "#d08a2b",
-    "accent": "#ffd98a"
-   },
-   "pattern": "burst",
-   "emblem": "hex",
-   "tagline": "Inevitable.",
-   "description": "A towering cosmic warlord obsessed with a grand plan and a golden gauntlet that holds six powerful stones.",
-   "importance": "Thanos is the biggest threat of the Infinity Saga, and his shadow looms over many films. He turns an entire run of stories into a single epic quest.",
-   "abilities": [
-    "Immense strength",
-    "Near-invulnerability",
-    "Cosmic weaponry",
-    "Strategic mind",
-    "Infinity Stones"
-   ]
-  },
-  {
-   "id": "star-lord",
-   "name": "Star-Lord",
-   "alias": "Peter Quill",
-   "group": "guardians",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Guardians of the Galaxy",
-    "year": 2014,
-    "type": "Film"
-   },
-   "power": 56,
-   "initials": "SL",
-   "theme": {
-    "c1": "#7a1e3a",
-    "c2": "#2a5ac0",
-    "accent": "#ffb8d0"
-   },
-   "pattern": "grid",
-   "emblem": "star",
-   "tagline": "Legendary outlaw.",
-   "description": "A charming space outlaw raised among Ravagers, armed with element guns and a classic mixtape.",
-   "importance": "Quill leads the ragtag Guardians. He brings humour, heart and a love for 80s music to the cosmic side of the MCU.",
-   "abilities": [
-    "Element guns",
-    "Jet boots",
-    "Leadership",
-    "Quick wit"
-   ]
-  },
-  {
-   "id": "gamora",
-   "name": "Gamora",
-   "alias": "Gamora",
-   "group": "guardians",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Guardians of the Galaxy",
-    "year": 2014,
-    "type": "Film"
-   },
-   "power": 66,
-   "initials": "GA",
-   "theme": {
-    "c1": "#0f5a3a",
-    "c2": "#8c2fb0",
-    "accent": "#9cf0c0"
-   },
-   "pattern": "chevrons",
-   "emblem": "diamond",
-   "tagline": "Deadliest woman in the galaxy.",
-   "description": "A deadly, highly trained assassin known as the most dangerous woman in the galaxy.",
-   "importance": "Gamora's combat skill and moral grit make her the serious heart of the Guardians. Her past is intertwined with some of the galaxy's biggest players.",
-   "abilities": [
-    "Swordsmanship",
-    "Expert assassin",
-    "Enhanced agility",
-    "Acrobatics"
-   ]
-  },
-  {
-   "id": "drax",
-   "name": "Drax",
-   "alias": "Drax the Destroyer",
-   "group": "guardians",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Guardians of the Galaxy",
-    "year": 2014,
-    "type": "Film"
-   },
-   "power": 62,
-   "initials": "DX",
-   "theme": {
-    "c1": "#2d4a7a",
-    "c2": "#b23a2a",
-    "accent": "#d4e2ff"
-   },
-   "pattern": "stripes",
-   "emblem": "shield",
-   "tagline": "Nothing goes over his head.",
-   "description": "A powerful warrior driven by a vow of vengeance who takes everything extremely literally.",
-   "importance": "Drax delivers big laughs and big punches. His loyalty and surprising warmth make him a fan favourite among the Guardians.",
-   "abilities": [
-    "Super strength",
-    "Dual knives",
-    "Durability",
-    "Literal thinking"
-   ]
-  },
-  {
-   "id": "rocket",
-   "name": "Rocket",
-   "alias": "Rocket Raccoon",
-   "group": "guardians",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Guardians of the Galaxy",
-    "year": 2014,
-    "type": "Film"
-   },
-   "power": 45,
-   "initials": "RK",
-   "theme": {
-    "c1": "#7a3d12",
-    "c2": "#d0702a",
-    "accent": "#ffd2a0"
-   },
-   "pattern": "dots",
-   "emblem": "circle",
-   "tagline": "Got a gun for that.",
-   "description": "A sharp-tongued, genetically enhanced raccoon with a gift for weapons and engineering.",
-   "importance": "Rocket is the team's tinkerer and heart behind the prickly exterior. He shows that clever minds are as valuable as raw power.",
-   "abilities": [
-    "Weapon genius",
-    "Engineering",
-    "Piloting",
-    "Sharpshooting"
-   ]
-  },
-  {
-   "id": "groot",
-   "name": "Groot",
-   "alias": "Groot",
-   "group": "guardians",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Guardians of the Galaxy",
-    "year": 2014,
-    "type": "Film"
-   },
-   "power": 64,
-   "initials": "GR",
-   "theme": {
-    "c1": "#5a3a1a",
-    "c2": "#3f9b3a",
-    "accent": "#c8f0a0"
-   },
-   "pattern": "waves",
-   "emblem": "diamond",
-   "tagline": "I am Groot.",
-   "description": "A gentle tree-like being who speaks only three words but can grow, stretch and shield his friends.",
-   "importance": "Groot is the soft-hearted muscle of the Guardians. His simple loyalty and growing character arc make him one of the most beloved members.",
-   "abilities": [
-    "Plant growth",
-    "Regeneration",
-    "Extending limbs",
-    "Protective barriers"
-   ]
-  },
-  {
-   "id": "nebula",
-   "name": "Nebula",
-   "alias": "Nebula",
-   "group": "guardians",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Guardians of the Galaxy",
-    "year": 2014,
-    "type": "Film"
-   },
-   "power": 62,
-   "initials": "NB",
-   "theme": {
-    "c1": "#0f2a6b",
-    "c2": "#2aa0d8",
-    "accent": "#a8e6ff"
-   },
-   "pattern": "hex",
-   "emblem": "hex",
-   "tagline": "Forged in battle.",
-   "description": "A fierce cyborg warrior with a blue-skinned, battle-hardened past and a prickly, loyal streak.",
-   "importance": "Nebula's path is one of the MCU's most interesting character growth journeys. She brings toughness and unexpected depth to every team she joins.",
-   "abilities": [
-    "Cybernetics",
-    "Blade combat",
-    "Durability",
-    "Tactical skill"
-   ]
-  },
-  {
-   "id": "mantis",
-   "name": "Mantis",
-   "alias": "Mantis",
-   "group": "guardians",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Guardians of the Galaxy Vol. 2",
-    "year": 2017,
-    "type": "Film"
-   },
-   "power": 50,
-   "initials": "MT",
-   "theme": {
-    "c1": "#0f5a5a",
-    "c2": "#8fd0a8",
-    "accent": "#e0fff0"
-   },
-   "pattern": "waves",
-   "emblem": "crescent",
-   "tagline": "Feel the feels.",
-   "description": "A sweet, sensitive empath who can sense and soothe the feelings of others.",
-   "importance": "Mantis adds warmth and awkward humour to the Guardians. Her gentle power shows there is more than one way to win a fight.",
-   "abilities": [
-    "Empathy",
-    "Calming touch",
-    "Martial arts",
-    "Antennae senses"
-   ]
-  },
-  {
-   "id": "shang-chi",
-   "name": "Shang-Chi",
-   "alias": "Shaun",
-   "group": "other",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Shang-Chi and the Legend of the Ten Rings",
-    "year": 2021,
-    "type": "Film"
-   },
-   "power": 68,
-   "initials": "SC",
-   "theme": {
-    "c1": "#7a1212",
-    "c2": "#d8a020",
-    "accent": "#ffe6a0"
-   },
-   "pattern": "rings",
-   "emblem": "claw",
-   "tagline": "Master of martial arts.",
-   "description": "A gifted martial artist who trained from childhood and wields ten mystical rings.",
-   "importance": "Shang-Chi brings martial-arts flair and a new cultural backdrop to the MCU. His story opens a fresh corner of the universe full of legends and magic.",
-   "abilities": [
-    "Kung fu mastery",
-    "Ten Rings",
-    "Acrobatics",
-    "Chi energy"
-   ]
-  },
-  {
-   "id": "wong",
-   "name": "Wong",
-   "alias": "Wong",
-   "group": "other",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Doctor Strange",
-    "year": 2016,
-    "type": "Film"
-   },
-   "power": 66,
-   "initials": "WG",
-   "theme": {
-    "c1": "#4a1f6b",
-    "c2": "#d09a2b",
-    "accent": "#f0dca0"
-   },
-   "pattern": "rings",
-   "emblem": "circle",
-   "tagline": "Keeper of the books.",
-   "description": "A serious, dry-witted master of the mystic arts and protector of ancient sorcerous texts.",
-   "importance": "Wong anchors the magical side of the MCU. He is a steady ally, a teacher and a powerful sorcerer in his own right.",
-   "abilities": [
-    "Sorcery",
-    "Portal creation",
-    "Mystic knowledge",
-    "Martial arts"
-   ]
-  },
-  {
-   "id": "ultron",
-   "name": "Ultron",
-   "alias": "Ultron",
-   "group": "villains",
-   "alignment": "villain",
-   "firstAppearance": {
-    "title": "Avengers: Age of Ultron",
-    "year": 2015,
-    "type": "Film"
-   },
-   "power": 80,
-   "initials": "UL",
-   "theme": {
-    "c1": "#3a0f0f",
-    "c2": "#8a1c1c",
-    "accent": "#ff6b6b"
-   },
-   "pattern": "grid",
-   "emblem": "diamond",
-   "tagline": "There are no strings on me.",
-   "description": "A self-aware artificial intelligence with a metallic body and some very strong opinions about humanity.",
-   "importance": "Ultron shows how technology meant to protect can go badly wrong. He is a tech-driven threat that tests the Avengers as a team.",
-   "abilities": [
-    "Robot bodies",
-    "Network control",
-    "Energy beams",
-    "Adaptive AI",
-    "Super strength"
-   ]
-  },
-  {
-   "id": "hela",
-   "name": "Hela",
-   "alias": "Goddess of Death",
-   "group": "villains",
-   "alignment": "villain",
-   "firstAppearance": {
-    "title": "Thor: Ragnarok",
-    "year": 2017,
-    "type": "Film"
-   },
-   "power": 91,
-   "initials": "HL",
-   "theme": {
-    "c1": "#0a2a1a",
-    "c2": "#1a7a4a",
-    "accent": "#7af0b0"
-   },
-   "pattern": "chevrons",
-   "emblem": "crescent",
-   "tagline": "Goddess of Death.",
-   "description": "The Asgardian Goddess of Death, armed with conjured blades and a hunger for conquest.",
-   "importance": "Hela is a fearsome force whose arrival shakes up Thor's world. She proves that power in the MCU can come from ancient, deep-rooted sources.",
-   "abilities": [
-    "Necrosword",
-    "Blade conjuring",
-    "Godly strength",
-    "Regeneration",
-    "Command of the dead"
-   ]
-  },
-  {
-   "id": "killmonger",
-   "name": "Killmonger",
-   "alias": "Erik Stevens",
-   "group": "villains",
-   "alignment": "villain",
-   "firstAppearance": {
-    "title": "Black Panther",
-    "year": 2018,
-    "type": "Film"
-   },
-   "power": 71,
-   "initials": "KM",
-   "theme": {
-    "c1": "#1a1a22",
-    "c2": "#d09a1a",
-    "accent": "#ffd87a"
-   },
-   "pattern": "diamonds",
-   "emblem": "claw",
-   "tagline": "A villain with a point.",
-   "description": "A skilled operative with a formidable military background and a personal mission to change Wakanda.",
-   "importance": "Killmonger is praised as one of the MCU's best-written antagonists, with a goal that makes the audience think. His story challenges what a hero is supposed to do.",
-   "abilities": [
-    "Military tactics",
-    "Martial arts",
-    "Tech suit",
-    "Ruthless focus"
-   ]
-  },
-  {
-   "id": "ego",
-   "name": "Ego",
-   "alias": "Ego",
-   "group": "villains",
-   "alignment": "villain",
-   "firstAppearance": {
-    "title": "Guardians of the Galaxy Vol. 2",
-    "year": 2017,
-    "type": "Film"
-   },
-   "power": 97,
-   "initials": "EG",
-   "theme": {
-    "c1": "#7a2a08",
-    "c2": "#e0a02a",
-    "accent": "#ffe2a0"
-   },
-   "pattern": "burst",
-   "emblem": "circle",
-   "tagline": "A celestial force.",
-   "description": "An ancient cosmic being of staggering power who crosses paths with the Guardians.",
-   "importance": "Ego expands the MCU's cosmic scale and shows just how big the universe can get. His arrival gives the Guardians' second adventure a huge sense of scale.",
-   "abilities": [
-    "Cosmic power",
-    "Matter manipulation",
-    "Energy constructs",
-    "Near-immortality"
-   ]
-  },
-  {
-   "id": "red-skull",
-   "name": "Red Skull",
-   "alias": "Johann Schmidt",
-   "group": "villains",
-   "alignment": "villain",
-   "firstAppearance": {
-    "title": "Captain America: The First Avenger",
-    "year": 2011,
-    "type": "Film"
-   },
-   "power": 58,
-   "initials": "RS",
-   "theme": {
-    "c1": "#5a0f0f",
-    "c2": "#1a1a1a",
-    "accent": "#ff6b5a"
-   },
-   "pattern": "stripes",
-   "emblem": "triangle",
-   "tagline": "Hail to power.",
-   "description": "The ruthless head of an elite science division, driven by an obsession with powerful artefacts.",
-   "importance": "Red Skull is Captain America's first big opponent and ties the MCU to its earliest mysteries. His hunt for ancient power sets up themes that echo later.",
-   "abilities": [
-    "Super-soldier strength",
-    "Advanced weapons",
-    "Command",
-    "Relic tech"
-   ]
-  },
-  {
-   "id": "ronan",
-   "name": "Ronan",
-   "alias": "Ronan the Accuser",
-   "group": "villains",
-   "alignment": "villain",
-   "firstAppearance": {
-    "title": "Guardians of the Galaxy",
-    "year": 2014,
-    "type": "Film"
-   },
-   "power": 68,
-   "initials": "RN",
-   "theme": {
-    "c1": "#3a1a6b",
-    "c2": "#8a2fb0",
-    "accent": "#d8b0ff"
-   },
-   "pattern": "chevrons",
-   "emblem": "hex",
-   "tagline": "The Accuser.",
-   "description": "A fanatical Kree warrior with a giant war hammer and a fierce devotion to his cause.",
-   "importance": "Ronan is the first major cosmic threat the Guardians face. He shows the brutal side of galactic politics and raises the stakes of their first adventure.",
-   "abilities": [
-    "War hammer",
-    "Super strength",
-    "Kree technology",
-    "Fearless combat"
-   ]
-  },
-  {
-   "id": "kang",
-   "name": "Kang",
-   "alias": "Kang the Conqueror",
-   "group": "villains",
-   "alignment": "villain",
-   "firstAppearance": {
-    "title": "Loki (Season 1)",
-    "year": 2021,
-    "type": "Series"
-   },
-   "power": 87,
-   "initials": "KG",
-   "theme": {
-    "c1": "#0f2a5a",
-    "c2": "#2a8ad8",
-    "accent": "#a8d8ff"
-   },
-   "pattern": "grid",
-   "emblem": "hex",
-   "tagline": "Conqueror of time.",
-   "description": "A cunning time-travelling conqueror with powerful future technology and a patient, strategic mind.",
-   "importance": "Kang is set up as a big multiversal threat. He brings the idea of time and alternate realities into the forefront of the MCU.",
-   "abilities": [
-    "Advanced tech",
-    "Time travel",
-    "Strategic genius",
-    "Power armour"
-   ]
-  },
-  {
-   "id": "namor",
-   "name": "Namor",
-   "alias": "Namor / K'uk'ulkan",
-   "group": "villains",
-   "alignment": "villain",
-   "firstAppearance": {
-    "title": "Black Panther: Wakanda Forever",
-    "year": 2022,
-    "type": "Film"
-   },
-   "power": 84,
-   "initials": "NM",
-   "theme": {
-    "c1": "#0a4a6b",
-    "c2": "#2ac0a8",
-    "accent": "#a8fff0"
-   },
-   "pattern": "waves",
-   "emblem": "crescent",
-   "tagline": "King of the deep.",
-   "description": "The proud ruler of a hidden underwater kingdom, blessed with flight, strength and lightning-fast reflexes.",
-   "importance": "Namor introduces a whole new civilisation beneath the waves. His fierce protectiveness makes him a formidable and complicated figure.",
-   "abilities": [
-    "Flight",
-    "Super strength",
-    "Underwater breathing",
-    "Enhanced senses",
-    "Royal command"
-   ]
-  },
-  {
-   "id": "ms-marvel",
-   "name": "Ms. Marvel",
-   "alias": "Kamala Khan",
-   "group": "other",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Ms. Marvel",
-    "year": 2022,
-    "type": "Series"
-   },
-   "power": 60,
-   "initials": "MM",
-   "theme": {
-    "c1": "#b2185a",
-    "c2": "#2a5ac0",
-    "accent": "#ffb8e0"
-   },
-   "pattern": "burst",
-   "emblem": "star",
-   "tagline": "Good is not a thing you are.",
-   "description": "A high-school fan of the Avengers who discovers light-based powers of her own.",
-   "importance": "Kamala brings fresh, youthful energy and a joyous new perspective. Her story is about growing into your own identity.",
-   "abilities": [
-    "Light constructs",
-    "Shape stretching",
-    "Fast thinking",
-    "Hard-light energy"
-   ]
-  },
-  {
-   "id": "she-hulk",
-   "name": "She-Hulk",
-   "alias": "Jennifer Walters",
-   "group": "other",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "She-Hulk: Attorney at Law",
-    "year": 2022,
-    "type": "Series"
-   },
-   "power": 80,
-   "initials": "SH",
-   "theme": {
-    "c1": "#0f6b3a",
-    "c2": "#9a2fd0",
-    "accent": "#c8ffd0"
-   },
-   "pattern": "diamonds",
-   "emblem": "diamond",
-   "tagline": "Smash and sue.",
-   "description": "A sharp lawyer who can transform into an emerald powerhouse while keeping her confidence and composure.",
-   "importance": "She-Hulk adds comedy, courtroom drama and meta-humour to the MCU. She shows a fun, more relaxed side of super-heroing.",
-   "abilities": [
-    "Super strength",
-    "Durability",
-    "Leaping",
-    "Legal expertise"
-   ]
-  },
-  {
-   "id": "moon-knight",
-   "name": "Moon Knight",
-   "alias": "Marc Spector",
-   "group": "other",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Moon Knight",
-    "year": 2022,
-    "type": "Series"
-   },
-   "power": 66,
-   "initials": "MK",
-   "theme": {
-    "c1": "#1a1a2a",
-    "c2": "#b8c0d8",
-    "accent": "#ffffff"
-   },
-   "pattern": "rings",
-   "emblem": "crescent",
-   "tagline": "Fist of Khonshu.",
-   "description": "A mysterious vigilante empowered by an ancient Egyptian moon god, with a complicated inner life.",
-   "importance": "Moon Knight pushes the MCU into darker, more mythological territory. His stories blend mystery with psychological tension.",
-   "abilities": [
-    "Enhanced strength",
-    "Crescent weapons",
-    "Healing",
-    "Stealth",
-    "Moon-powered suit"
-   ]
-  },
-  {
-   "id": "daredevil",
-   "name": "Daredevil",
-   "alias": "Matt Murdock",
-   "group": "other",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Daredevil (Netflix series)",
-    "year": 2015,
-    "type": "Series"
-   },
-   "power": 50,
-   "initials": "DD",
-   "theme": {
-    "c1": "#7a0f0f",
-    "c2": "#c02020",
-    "accent": "#ff9a8a"
-   },
-   "pattern": "chevrons",
-   "emblem": "triangle",
-   "tagline": "The man without fear.",
-   "description": "A blind lawyer by day who patrols Hell's Kitchen at night with heightened senses and a mean right hook.",
-   "importance": "Daredevil represents the street-level, gritty corner of the MCU. His stories are about justice on a very human scale.",
-   "abilities": [
-    "Radar sense",
-    "Acrobatics",
-    "Martial arts",
-    "Legal mind"
-   ]
-  },
-  {
-   "id": "deadpool",
-   "name": "Deadpool",
-   "alias": "Wade Wilson",
-   "group": "other",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Deadpool & Wolverine (MCU debut)",
-    "year": 2024,
-    "type": "Film"
-   },
-   "power": 74,
-   "initials": "DP",
-   "theme": {
-    "c1": "#8a0f14",
-    "c2": "#1a1a1a",
-    "accent": "#ff6b6b"
-   },
-   "pattern": "dots",
-   "emblem": "circle",
-   "tagline": "Maximum effort.",
-   "description": "A fast-talking mercenary with an unstoppable healing ability and a habit of talking straight to the audience.",
-   "importance": "Deadpool brings irreverent, fourth-wall-breaking comedy to the wider Marvel world. He first starred in a separate film series before joining the MCU.",
-   "abilities": [
-    "Regeneration",
-    "Sword and gun skills",
-    "Fourth-wall breaking",
-    "Acrobatics"
-   ]
-  },
-  {
-   "id": "gorr",
-   "name": "Gorr",
-   "alias": "Gorr the God Butcher",
-   "group": "villains",
-   "alignment": "villain",
-   "firstAppearance": {
-    "title": "Thor: Love and Thunder",
-    "year": 2022,
-    "type": "Film"
-   },
-   "power": 85,
-   "initials": "GB",
-   "theme": {
-    "c1": "#1a1a1a",
-    "c2": "#6b6b7a",
-    "accent": "#dcdce8"
-   },
-   "pattern": "waves",
-   "emblem": "claw",
-   "tagline": "The God Butcher.",
-   "description": "A haunted being armed with a cursed blade and a determination to challenge the gods.",
-   "importance": "Gorr is a chilling threat who is unlike Thor's earlier foes. His motives add emotional depth to the god-filled world of Asgardians.",
-   "abilities": [
-    "Necrosword",
-    "Shadow manipulation",
-    "Godslaying",
-    "Relentless drive"
-   ]
-  },
-  {
-   "id": "dormammu",
-   "name": "Dormammu",
-   "alias": "Lord of the Dark Dimension",
-   "group": "villains",
-   "alignment": "villain",
-   "firstAppearance": {
-    "title": "Doctor Strange",
-    "year": 2016,
-    "type": "Film"
-   },
-   "power": 97,
-   "initials": "DM",
-   "theme": {
-    "c1": "#2a0a5a",
-    "c2": "#8a2fd0",
-    "accent": "#d8a8ff"
-   },
-   "pattern": "rings",
-   "emblem": "flame",
-   "tagline": "Ruler of the Dark Dimension.",
-   "description": "An ancient, colossal being from the Dark Dimension who seeks to expand his domain.",
-   "importance": "Dormammu represents the vast, terrifying end of the MCU's magic. His presence raises the stakes of any mystic battle.",
-   "abilities": [
-    "Dark dimension magic",
-    "Immense power",
-    "Energy manipulation",
-    "Immortality"
-   ]
-  },
-  {
-   "id": "odin",
-   "name": "Odin",
-   "alias": "Odin Borson",
-   "group": "other",
-   "alignment": "hero",
-   "firstAppearance": {
-    "title": "Thor",
-    "year": 2011,
-    "type": "Film"
-   },
-   "power": 93,
-   "initials": "OD",
-   "theme": {
-    "c1": "#3a3a5a",
-    "c2": "#c8a227",
-    "accent": "#f2e8b0"
-   },
-   "pattern": "chevrons",
-   "emblem": "shield",
-   "tagline": "The All-Father.",
-   "description": "The wise and powerful All-Father and king of Asgard, guardian of the Nine Realms.",
-   "importance": "Odin is the ruler whose decisions shape Thor's life and the long history of the Asgardians. He embodies ancient power and old-world authority.",
-   "abilities": [
-    "Godly strength",
-    "Odinforce",
-    "Gungnir spear",
-    "Sorcery",
-    "Immortality"
-   ]
-  }
- ]
+  "version": 2,
+  "note": "Ratings are fan-estimated MCU power levels, just for fun. Photos are freely licensed pictures of the actors (not character stills); see Photo credits.",
+  "characters": [
+    {
+      "id": "iron-man",
+      "name": "Iron Man",
+      "alias": "Tony Stark",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Iron Man",
+        "year": 2008,
+        "type": "Film"
+      },
+      "power": 82,
+      "initials": "IM",
+      "theme": {
+        "c1": "#7a0f14",
+        "c2": "#e0a72b",
+        "accent": "#ffd76a"
+      },
+      "pattern": "hex",
+      "emblem": "circle",
+      "tagline": "Genius. Inventor. Showman.",
+      "description": "A billionaire inventor who builds a powered suit of armour and turns his genius toward protecting the world.",
+      "importance": "Iron Man kicked off the entire Marvel Cinematic Universe and set its tone: witty, high-tech and full of heart. His choices and inventions ripple through many of the stories that follow.",
+      "abilities": [
+        "Powered armour",
+        "Genius intellect",
+        "Repulsor blasts",
+        "Flight",
+        "AI assistants"
+      ],
+      "spoilers": "Tony Stark survives his captivity in Afghanistan by building the first suit and, at the end of Iron Man, publicly admits he is Iron Man. In The Avengers he flies a nuclear missile through a wormhole to save New York, and in Age of Ultron he and Bruce Banner accidentally create Ultron. Captain America: Civil War splits him from Steve Rogers over the Sokovia Accords and the revelation that a Hydra-controlled Bucky killed his parents. After surviving Thanos on Titan and the Snap, he returns for the time heist in Avengers: Endgame and uses the Infinity Stones to wipe out Thanos and his army, dying from the strain.",
+      "spoilersMore": "His funeral closes Endgame. His daughter Morgan, his tech and his mentorship of Peter Parker and Riri Williams echo through later stories.",
+      "photo": "img/iron-man.jpg",
+      "photoCredit": {
+        "actor": "Robert Downey Jr.",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Robert_Downey_Jr_2014_Comic_Con_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Robert Downey Jr 2014 Comic Con (cropped).jpg"
+      }
+    },
+    {
+      "id": "captain-america",
+      "name": "Captain America",
+      "alias": "Steve Rogers",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain America: The First Avenger",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 78,
+      "initials": "CA",
+      "theme": {
+        "c1": "#0b2a6b",
+        "c2": "#c0272d",
+        "accent": "#e8eefc"
+      },
+      "pattern": "stripes",
+      "emblem": "star",
+      "tagline": "The first Avenger.",
+      "description": "A determined soldier transformed by an experimental serum into the peak of human ability, carrying a near-indestructible shield.",
+      "importance": "Cap is the moral compass of the team, a symbol of courage and old-fashioned decency. His leadership holds the Avengers together when things get complicated.",
+      "abilities": [
+        "Super-soldier strength",
+        "Shield mastery",
+        "Tactical leadership",
+        "Peak agility"
+      ],
+      "spoilers": "Steve Rogers crashes a Hydra bomber into the Arctic at the end of The First Avenger and wakes up in the 21st century. In The Winter Soldier he exposes Hydra's infiltration of S.H.I.E.L.D. and discovers his best friend Bucky is the brainwashed Winter Soldier. Civil War puts him at odds with Tony Stark, and he ends up a fugitive. After the Snap he fights through to the end of Endgame, wields Mjolnir, and then returns the Infinity Stones to the past and stays there to live a life with Peggy Carter. He returns as an old man and passes his shield to Sam Wilson.",
+      "photo": "img/captain-america.jpg",
+      "photoCredit": {
+        "actor": "Chris Evans",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chris_Evans_by_Gage_Skidmore_cropped.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Chris Evans by Gage Skidmore cropped.jpg"
+      }
+    },
+    {
+      "id": "thor",
+      "name": "Thor",
+      "alias": "Thor Odinson",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 94,
+      "initials": "TH",
+      "theme": {
+        "c1": "#15275e",
+        "c2": "#5aa8ff",
+        "accent": "#e9f4ff"
+      },
+      "pattern": "bolt",
+      "emblem": "bolt",
+      "tagline": "God of Thunder.",
+      "description": "The mighty Asgardian god of thunder, wielding lightning and a hammer-forged weapon that answers only to the worthy.",
+      "importance": "Thor connects Earth to the wider cosmos of gods and realms. His storylines open the door to magic, mythology and the larger cosmic threats in the MCU.",
+      "abilities": [
+        "Lightning control",
+        "Godly strength",
+        "Flight",
+        "Weather manipulation",
+        "Near-immortality"
+      ],
+      "spoilers": "Thor is banished to Earth for his arrogance in his first film, and in The Dark World he loses his mother Frigga. In Ragnarok he learns he has an elder sister, Hela, who destroys Mjolnir and takes his eye, and he lets Surtur destroy Asgard to stop her, becoming king of the surviving Asgardians. In Infinity War he fails to strike Thanos's head and the Snap follows. Five years later he is depressed and overweight, but fights on in Endgame, hands the crown to Valkyrie and joins the Guardians of the Galaxy. In Love and Thunder he loses Jane Foster to cancer and adopts Gorr's daughter Love.",
+      "spoilersMore": "Odin, his father, dies peacefully in Ragnarok.",
+      "photo": "img/thor.jpg",
+      "photoCredit": {
+        "actor": "Chris Hemsworth",
+        "author": "rwoan (original); TriiipleThreat (derivative work)",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_2010_Comic-Con_Cropped.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Chris Hemsworth 2010 Comic-Con Cropped.jpg"
+      }
+    },
+    {
+      "id": "hulk",
+      "name": "Hulk",
+      "alias": "Dr. Bruce Banner",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "The Incredible Hulk",
+        "year": 2008,
+        "type": "Film"
+      },
+      "power": 92,
+      "initials": "HK",
+      "theme": {
+        "c1": "#0f4d22",
+        "c2": "#6bcf3f",
+        "accent": "#d4ffb0"
+      },
+      "pattern": "burst",
+      "emblem": "hex",
+      "tagline": "Puny humans, meet the Other Guy.",
+      "description": "A brilliant scientist whose gamma-radiation accident unleashes a towering green powerhouse when his anger rises.",
+      "importance": "The Hulk is one of the most physically powerful heroes in the MCU and a constant reminder that the biggest battles can be internal. Banner's science and Hulk's might make for a unique double act.",
+      "abilities": [
+        "Limitless strength",
+        "Gamma healing",
+        "Leaping",
+        "Durability",
+        "Genius-level science"
+      ],
+      "spoilers": "Bruce Banner's gamma experiment leaves him on the run in The Incredible Hulk, and the Hulk later helps beat Loki's invasion in The Avengers. In Age of Ultron he and Natasha Romanoff share a romance before he flees in a Quinjet. Thor: Ragnarok leaves him stuck as the Hulk for two years, and in Infinity War Thanos beats him so badly that he refuses to come out. After the Snap he merges both halves into the intelligent 'Smart Hulk', and in Endgame he uses the Infinity Gauntlet to bring back everyone who was lost, badly injuring his arm.",
+      "spoilersMore": "He appears in Shang-Chi's mid-credits scene and in She-Hulk, where his blood gives his cousin Jennifer Walters her powers.",
+      "photo": "img/hulk.jpg",
+      "photoCredit": {
+        "actor": "Mark Ruffalo",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Mark_Ruffalo_SDCC_2014_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Mark Ruffalo SDCC 2014 (cropped).jpg"
+      }
+    },
+    {
+      "id": "black-widow",
+      "name": "Black Widow",
+      "alias": "Natasha Romanoff",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Iron Man 2",
+        "year": 2010,
+        "type": "Film"
+      },
+      "power": 52,
+      "initials": "BW",
+      "theme": {
+        "c1": "#1a1a22",
+        "c2": "#b3202a",
+        "accent": "#ff7b84"
+      },
+      "pattern": "diamonds",
+      "emblem": "diamond",
+      "tagline": "Every mission has a cost.",
+      "description": "A master spy and martial artist with a shadowy past, she fights with pure skill rather than super powers.",
+      "importance": "Natasha is the glue of the early Avengers: a strategist and infiltrator who keeps the team grounded. Her history is full of secrets that drive many stories.",
+      "abilities": [
+        "Expert spy",
+        "Martial arts",
+        "Marksmanship",
+        "Stealth",
+        "Wrist gadgets"
+      ],
+      "spoilers": "Natasha Romanoff is a former Red Room assassin who defects to S.H.I.E.L.D. and becomes a founding Avenger. In Civil War she sides with Tony Stark's camp but lets Steve Rogers and Bucky escape, and is forced into hiding. After the Snap she keeps the remaining Avengers together, and in Endgame she and Clint Barton travel to Vormir for the Soul Stone. Natasha sacrifices herself by jumping off the cliff so Clint can have the stone, and she is mourned at Tony's funeral.",
+      "spoilersMore": "Her standalone film Black Widow (2021) is set between Civil War and Infinity War and introduces her 'sister' Yelena Belova, who carries on in Hawkeye and Thunderbolts*.",
+      "photo": "img/black-widow.jpg",
+      "photoCredit": {
+        "actor": "Scarlett Johansson",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_by_Gage_Skidmore_2_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "file": "Scarlett Johansson by Gage Skidmore 2 (cropped).jpg"
+      }
+    },
+    {
+      "id": "hawkeye",
+      "name": "Hawkeye",
+      "alias": "Clint Barton",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 48,
+      "initials": "HE",
+      "theme": {
+        "c1": "#3a1c6b",
+        "c2": "#8a55d6",
+        "accent": "#d9c2ff"
+      },
+      "pattern": "chevrons",
+      "emblem": "triangle",
+      "tagline": "Never misses.",
+      "description": "A peerless archer who never misses, armed with an arsenal of specialised trick arrows.",
+      "importance": "Clint proves you do not need powers to be a hero. As a family man among gods and monsters, he brings the team a very human perspective.",
+      "abilities": [
+        "Perfect aim",
+        "Trick arrows",
+        "Tactics",
+        "Hand-to-hand combat"
+      ],
+      "spoilers": "Clint Barton is mind-controlled by Loki in The Avengers but shakes it off and becomes a core Avenger. Age of Ultron reveals he has a secret wife and children, and after the Snap he turns into the brutal vigilante Ronin when his family is lost. In Endgame he goes with Natasha to Vormir where she sacrifices herself for the Soul Stone, leaving him devastated. The Hawkeye series follows him as he mentors Kate Bishop and is hunted by Yelena Belova, who blames him for Natasha's death, before a peaceful Christmas with his family.",
+      "photo": "img/hawkeye.jpg",
+      "photoCredit": {
+        "actor": "Jeremy Renner",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jeremy_Renner_SDCC_2014_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Jeremy Renner SDCC 2014 (cropped).jpg"
+      }
+    },
+    {
+      "id": "spider-man",
+      "name": "Spider-Man",
+      "alias": "Peter Parker",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain America: Civil War",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 72,
+      "initials": "SM",
+      "theme": {
+        "c1": "#b21a24",
+        "c2": "#1c3c9c",
+        "accent": "#ffb3b8"
+      },
+      "pattern": "grid",
+      "emblem": "circle",
+      "tagline": "Your friendly neighbourhood hero.",
+      "description": "A teenage New Yorker with spider-like powers who swings through the city balancing homework and heroics.",
+      "importance": "Spider-Man brings youth, humour and relatability to the MCU. He shows the everyday-hero side of the universe and grows a lot under the mentors he meets.",
+      "abilities": [
+        "Wall-crawling",
+        "Spider-sense",
+        "Web-shooters",
+        "Super agility",
+        "Quick wit"
+      ],
+      "spoilers": "Tony Stark recruits Peter Parker in Civil War, and in Homecoming he defeats the Vulture. In Infinity War Peter turns to dust in Tony's arms, saying 'I don't feel so good', and he returns in Endgame. In Far From Home Mysterio exposes Peter's identity to the world. In No Way Home Peter's attempt to fix that with Doctor Strange's spell brings villains from other universes, leads to Aunt May's death at the Green Goblin's hands, and ends with Peter making the world forget him entirely, leaving him alone with a fresh start.",
+      "spoilersMore": "His story continues in Spider-Man: Brand New Day.",
+      "photo": "img/spider-man.jpg",
+      "photoCredit": {
+        "actor": "Tom Holland",
+        "author": "PhilipRomano",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:TomHolland-byPhilipRomano7_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "file": "TomHolland-byPhilipRomano7 (cropped).jpg"
+      }
+    },
+    {
+      "id": "black-panther",
+      "name": "Black Panther",
+      "alias": "T'Challa",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain America: Civil War",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 76,
+      "initials": "BP",
+      "theme": {
+        "c1": "#0c0c14",
+        "c2": "#6b3fb8",
+        "accent": "#c9a8ff"
+      },
+      "pattern": "chevrons",
+      "emblem": "claw",
+      "tagline": "Wakanda Forever.",
+      "description": "The king and protector of Wakanda, wearing a suit of vibranium and blending tradition with cutting-edge tech.",
+      "importance": "T'Challa introduces Wakanda, the most advanced nation on Earth, and the power of the vibranium metal. His reign raises big questions about how a leader should use power.",
+      "abilities": [
+        "Vibranium suit",
+        "Enhanced senses",
+        "Martial arts",
+        "Kinetic energy absorption",
+        "Royal tactics"
+      ],
+      "spoilers": "T'Challa becomes king after his father T'Chaka is killed in Civil War. In Black Panther he loses the ritual combat to Killmonger and is left for dead, but recovers and beats him in a final duel. He opens Wakanda to the world, sharing its technology. In Infinity War his forces hold the line against Thanos's army and he turns to dust; in Endgame he returns and helps in the final battle. Sadly he dies of an unnamed illness off-screen before Wakanda Forever, and his sister Shuri later takes up the Black Panther mantle.",
+      "spoilersMore": "Wakanda Forever reveals he had a son with Nakia, also called T'Challa.",
+      "photo": "img/black-panther.jpg",
+      "photoCredit": {
+        "actor": "Chadwick Boseman",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chadwick_Boseman_by_Gage_Skidmore_July_2017_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Chadwick Boseman by Gage Skidmore July 2017 (cropped).jpg"
+      }
+    },
+    {
+      "id": "doctor-strange",
+      "name": "Doctor Strange",
+      "alias": "Dr. Stephen Strange",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Doctor Strange",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 88,
+      "initials": "DS",
+      "theme": {
+        "c1": "#6b1a1a",
+        "c2": "#e0892b",
+        "accent": "#ffe0a8"
+      },
+      "pattern": "rings",
+      "emblem": "circle",
+      "tagline": "Master of the Mystic Arts.",
+      "description": "A gifted surgeon who discovers the mystic arts and becomes Earth's Sorcerer Supreme.",
+      "importance": "Strange opens up magic and the multiverse in the MCU. He is often the one who sees the wider picture and understands what is truly at stake.",
+      "abilities": [
+        "Sorcery",
+        "Portals",
+        "Time manipulation",
+        "Astral projection",
+        "Mystic shields"
+      ],
+      "spoilers": "Stephen Strange loses the use of his hands in a car crash, studies magic at Kamar-Taj and saves Earth by trapping Dormammu in a time loop; he later becomes Sorcerer Supreme. In Infinity War he hands the Time Stone to Thanos to save Tony Stark after seeing one winning future out of 14,000,605, and he turns to dust. In No Way Home his spell to hide Peter's identity goes wrong and tears open the multiverse. In Multiverse of Madness he protects America Chavez from Wanda, who is corrupted by the Darkhold, and he ends up with a mystical third eye after using dark magic.",
+      "photo": "img/doctor-strange.jpg",
+      "photoCredit": {
+        "actor": "Benedict Cumberbatch",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Benedict_Cumberbatch_(48470894756)_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Benedict Cumberbatch (48470894756) (cropped).jpg"
+      }
+    },
+    {
+      "id": "captain-marvel",
+      "name": "Captain Marvel",
+      "alias": "Carol Danvers",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain Marvel",
+        "year": 2019,
+        "type": "Film"
+      },
+      "power": 95,
+      "initials": "CM",
+      "theme": {
+        "c1": "#1f3fae",
+        "c2": "#e0282e",
+        "accent": "#ffd24a"
+      },
+      "pattern": "burst",
+      "emblem": "star",
+      "tagline": "Higher, further, faster.",
+      "description": "A former pilot infused with cosmic energy, she flies faster than sound and fires powerful energy blasts.",
+      "importance": "Carol is among the most powerful heroes in the MCU and connects Earth's story to the galactic community. Her origin also fills in important history about the early days of S.H.I.E.L.D.",
+      "abilities": [
+        "Photon blasts",
+        "Supersonic flight",
+        "Super strength",
+        "Energy absorption",
+        "Space survival"
+      ],
+      "spoilers": "Carol Danvers believes she is a Kree warrior called Vers, but discovers she is a human Air Force pilot whose powers came from the Tesseract's engine explosion and that the Kree lied to her. She helps the Skrull refugees, then leaves Earth to defend the galaxy. She returns in Endgame to rescue Tony and Nebula from space, then helps defeat Thanos's army in the final battle. The Marvels sees her swap places with Monica Rambeau and Kamala Khan as they face the Kree villain Dar-Benn.",
+      "photo": "img/captain-marvel.jpg",
+      "photoCredit": {
+        "actor": "Brie Larson",
+        "author": "dorothy",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Brie_Larson_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "file": "Brie Larson (cropped).jpg"
+      }
+    },
+    {
+      "id": "ant-man",
+      "name": "Ant-Man",
+      "alias": "Scott Lang",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Ant-Man",
+        "year": 2015,
+        "type": "Film"
+      },
+      "power": 58,
+      "initials": "AM",
+      "theme": {
+        "c1": "#8a1c1c",
+        "c2": "#2a2a33",
+        "accent": "#ff9a6b"
+      },
+      "pattern": "dots",
+      "emblem": "circle",
+      "tagline": "Think small. Hit big.",
+      "description": "A clever ex-thief who wears a suit that lets him shrink to insect size or grow to giant scale.",
+      "importance": "Scott brings a lighter, heist-movie flavour to the MCU and opens the door to the mysterious Quantum Realm. His small-scale tricks have surprisingly big consequences.",
+      "abilities": [
+        "Size change",
+        "Ant communication",
+        "Suit tech",
+        "Quick thinking"
+      ],
+      "spoilers": "Scott Lang is a burglar who becomes the new Ant-Man to stop Darren Cross (Yellowjacket), and he fights at Steve Rogers's side in Civil War. He is trapped in the Quantum Realm during the Snap and emerges five years later in Endgame with the idea that starts the time heist. In Quantumania he, Hope, Hank Pym, Janet and his daughter Cassie are pulled into the Quantum Realm, where they defeat Kang the Conqueror. A mid-credits scene reveals that many more Kang variants are out there.",
+      "photo": "img/ant-man.jpg",
+      "photoCredit": {
+        "actor": "Paul Rudd",
+        "author": "Red Carpet Report on Mingle Media TV",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Paul_Rudd_(cropped)_2.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Paul Rudd (cropped) 2.jpg"
+      }
+    },
+    {
+      "id": "wasp",
+      "name": "Wasp",
+      "alias": "Hope van Dyne",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Ant-Man (post-credits scene; first full appearance as the Wasp: Ant-Man and the Wasp, 2018)",
+        "year": 2015,
+        "type": "Film"
+      },
+      "power": 60,
+      "initials": "WP",
+      "theme": {
+        "c1": "#c48a00",
+        "c2": "#1b1b22",
+        "accent": "#ffe27a"
+      },
+      "pattern": "chevrons",
+      "emblem": "bolt",
+      "tagline": "Small but deadly.",
+      "description": "A skilled fighter who shrinks to tiny size with wings and stinging energy blasts. Hope van Dyne first appears in Ant-Man (2015) as a scientist and Hank Pym's daughter, and in that film's post-credits scene she first glimpses the Wasp suit. She debuts as the Wasp in action in Ant-Man and the Wasp (2018).",
+      "importance": "Hope is a capable hero and a scientist in her own right, and her family history is tied to the shrinking technology that powers the Ant-Man stories.",
+      "abilities": [
+        "Shrinking",
+        "Flight",
+        "Bio-electric stingers",
+        "Combat training"
+      ],
+      "spoilers": "Hope van Dyne is the daughter of Hank Pym and Janet van Dyne, who vanished into the Quantum Realm when Hope was a child. After helping Scott Lang in Ant-Man (2015), she finally gets her own Wasp suit in Ant-Man and the Wasp (2018), and helps rescue her mother after 30 years. At the end of that film she, Hank and Janet turn to dust in the Snap, returning in Endgame. In Quantumania she helps her family face Kang, the Quantum Realm's exiled conqueror.",
+      "spoilersMore": "Her story is tied to the Pym family legacy: her mother Janet was the original Wasp.",
+      "photo": "img/wasp.jpg",
+      "photoCredit": {
+        "actor": "Evangeline Lilly",
+        "author": "Gage Skidmore",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Evangeline_Lilly_2014_Comic_Con_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "file": "Evangeline Lilly 2014 Comic Con (cropped).jpg"
+      }
+    },
+    {
+      "id": "scarlet-witch",
+      "name": "Scarlet Witch",
+      "alias": "Wanda Maximoff",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 96,
+      "initials": "SW",
+      "theme": {
+        "c1": "#5a0a1e",
+        "c2": "#d3173e",
+        "accent": "#ff9fb5"
+      },
+      "pattern": "waves",
+      "emblem": "star",
+      "tagline": "Power without limits.",
+      "description": "A woman with remarkable reality-bending magic, whose crimson energy can move objects and warp minds.",
+      "importance": "Wanda is one of the most powerful beings in the MCU, and her emotional journey is central to several stories. Her abilities hint at forces few characters fully understand.",
+      "abilities": [
+        "Chaos magic",
+        "Telekinesis",
+        "Mind influence",
+        "Energy blasts",
+        "Reality warping"
+      ],
+      "spoilers": "Wanda Maximoff's twin brother Pietro dies in Age of Ultron, and in Infinity War she is forced to destroy the Mind Stone, killing Vision, only for Thanos to reverse time and kill him again. In Endgame she battles Thanos on the field. In WandaVision she grieves by trapping an entire town, Westview, inside a sitcom reality, and is revealed to be the true Scarlet Witch. In Multiverse of Madness she is corrupted by the Darkhold and tries to seize America Chavez's power to reach her children, then sacrifices herself to destroy every Darkhold as Mount Wundagore collapses.",
+      "photo": "img/scarlet-witch.jpg",
+      "photoCredit": {
+        "actor": "Elizabeth Olsen",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Elizabeth_Olsen_2_SDCC_2014_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Elizabeth Olsen 2 SDCC 2014 (cropped).jpg"
+      }
+    },
+    {
+      "id": "vision",
+      "name": "Vision",
+      "alias": "Vision",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015,
+        "type": "Film"
+      },
+      "power": 86,
+      "initials": "VI",
+      "theme": {
+        "c1": "#15623a",
+        "c2": "#e0b32b",
+        "accent": "#fff0a8"
+      },
+      "pattern": "rings",
+      "emblem": "diamond",
+      "tagline": "A new kind of life.",
+      "description": "A synthetic being with a glowing gem on his brow, combining artificial intelligence with extraordinary abilities.",
+      "importance": "Vision explores what it means to be alive and what makes someone human. He is powerful yet gentle and often the calm voice among the Avengers.",
+      "abilities": [
+        "Density control",
+        "Flight",
+        "Energy beams",
+        "Intangibility",
+        "Super intelligence"
+      ],
+      "spoilers": "Vision is created by Tony Stark and Bruce Banner from Ultron's synthetic body, J.A.R.V.I.S. and the Mind Stone, and is lifted by Thor's lightning. He joins the Avengers and falls in love with Wanda Maximoff. In Infinity War Thanos rips the Mind Stone from his head, killing him, even after Wanda destroys it to try to save him. WandaVision shows Wanda recreating him in Westview, and S.W.O.R.D. reactivates a white version who becomes a new person and flies off to find his identity.",
+      "photo": "img/vision.jpg",
+      "photoCredit": {
+        "actor": "Paul Bettany",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Paul_Bettany_(48469131797)_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Paul Bettany (48469131797) (cropped).jpg"
+      }
+    },
+    {
+      "id": "falcon",
+      "name": "Falcon",
+      "alias": "Sam Wilson",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 55,
+      "initials": "FA",
+      "theme": {
+        "c1": "#7a1f1f",
+        "c2": "#2a3b66",
+        "accent": "#ffd0c8"
+      },
+      "pattern": "chevrons",
+      "emblem": "triangle",
+      "tagline": "Soaring on principle.",
+      "description": "A former Air Force pararescue specialist who soars the skies with a high-tech winged flight suit.",
+      "importance": "Sam is a dependable friend and skilled mentor figure who brings a grounded perspective and heart. He proves leadership is about people, not power.",
+      "abilities": [
+        "Flight harness",
+        "Aerial combat",
+        "Drone companion",
+        "Counselling",
+        "Shield skills"
+      ],
+      "spoilers": "Sam Wilson joins Steve Rogers on the run in The Winter Soldier and sides with him in Civil War. After the Snap and Endgame, Steve passes the shield to Sam, who hesitates at first and donates it to a museum. The Falcon and the Winter Soldier sees him give a powerful speech to the Global Repatriation Council and accept the Captain America mantle after Isaiah Bradley's story. In Brave New World he faces President Ross, who turns into Red Hulk, and Sam talks him down before beginning to rebuild the Avengers.",
+      "photo": "img/falcon.jpg",
+      "photoCredit": {
+        "actor": "Anthony Mackie",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Anthony_Mackie_by_Gage_Skidmore_2_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "file": "Anthony Mackie by Gage Skidmore 2 (cropped).jpg"
+      }
+    },
+    {
+      "id": "winter-soldier",
+      "name": "Winter Soldier",
+      "alias": "Bucky Barnes",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain America: The First Avenger",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 60,
+      "initials": "WS",
+      "theme": {
+        "c1": "#2a2f3a",
+        "c2": "#8b98ad",
+        "accent": "#dce6f5"
+      },
+      "pattern": "stripes",
+      "emblem": "star",
+      "tagline": "A soldier out of time.",
+      "description": "A highly trained soldier with a metal arm and a long, complicated history alongside Steve Rogers.",
+      "importance": "Bucky's tie to Captain America gives the MCU some of its most personal stories. His journey is about finding who he is after a lot of hardship.",
+      "abilities": [
+        "Cybernetic arm",
+        "Super-soldier physique",
+        "Marksmanship",
+        "Stealth combat"
+      ],
+      "spoilers": "Bucky Barnes falls from a train in 1945, is taken by Hydra and turned into the Winter Soldier, a brainwashed assassin. In The Winter Soldier, Steve breaks through his conditioning, and in Civil War it is revealed that Bucky, controlled by Hydra, killed Tony Stark's parents. After a stint in Wakanda, he turns to dust in Infinity War and returns in Endgame. The Falcon and the Winter Soldier sees him seek redemption, and in Thunderbolts* he is a congressman who leads the Thunderbolts, later rebranded as the New Avengers.",
+      "photo": "img/winter-soldier.jpg",
+      "photoCredit": {
+        "actor": "Sebastian Stan",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Sebastian_Stan_by_Gage_Skidmore_2_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "file": "Sebastian Stan by Gage Skidmore 2 (cropped).jpg"
+      }
+    },
+    {
+      "id": "war-machine",
+      "name": "War Machine",
+      "alias": "James \"Rhodey\" Rhodes",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Iron Man",
+        "year": 2008,
+        "type": "Film"
+      },
+      "power": 62,
+      "initials": "WM",
+      "theme": {
+        "c1": "#3a3f48",
+        "c2": "#b0b7c3",
+        "accent": "#ffffff"
+      },
+      "pattern": "hex",
+      "emblem": "shield",
+      "tagline": "Heavy firepower, steady heart.",
+      "description": "A loyal Air Force officer and friend of Tony Stark who pilots a heavily armed armoured suit.",
+      "importance": "Rhodey is the dependable military mind among the heroes and a steady friend. He brings the heavy weaponry and a no-nonsense attitude.",
+      "abilities": [
+        "Armoured suit",
+        "Heavy weapons",
+        "Flight",
+        "Military tactics"
+      ],
+      "spoilers": "Rhodey takes over the War Machine armour from Tony Stark in Iron Man 2, then stays loyal to the Avengers. During Civil War he is struck from the sky by Vision's stray beam and left paralysed, using Tony's leg braces to walk. He fights in Infinity War and Endgame, and in Secret Invasion it is revealed that a Skrull, Raava, has been impersonating him, while the real Rhodey has been held captive. Nick Fury kills the impostor, and the real Rhodey is freed but unable to walk, suggesting he was replaced around Civil War.",
+      "spoilersMore": "Armor Wars was announced as a follow-up for Rhodey.",
+      "photo": "img/war-machine.jpg",
+      "photoCredit": {
+        "actor": "Don Cheadle",
+        "author": "Bob Bekian",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Don_Cheadle_UNEP_2011_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Don Cheadle UNEP 2011 (cropped).jpg"
+      }
+    },
+    {
+      "id": "loki",
+      "name": "Loki",
+      "alias": "Loki, God of Mischief",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Thor",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 74,
+      "initials": "LK",
+      "theme": {
+        "c1": "#0f4a36",
+        "c2": "#c8a227",
+        "accent": "#f2e08a"
+      },
+      "pattern": "waves",
+      "emblem": "crescent",
+      "tagline": "Glorious purpose.",
+      "description": "A silver-tongued Asgardian trickster who uses illusions and cunning to get what he wants.",
+      "importance": "Loki is the MCU's most memorable troublemaker and a constant wild card. Charming, unpredictable and hard to pin down, he keeps every story he joins fun.",
+      "abilities": [
+        "Illusions",
+        "Sorcery",
+        "Shapeshifting",
+        "Daggers",
+        "Silver tongue"
+      ],
+      "spoilers": "Loki learns in Thor that he is a Frost Giant adopted by Odin and lets go of Gungnir to fall into the void. He returns in The Avengers to invade New York, and later fights alongside Thor in Dark World and Ragnarok. In Infinity War Thanos kills him after he tries to strike, and the Tesseract is taken. A 2012 variant escapes with the Tesseract in Endgame, leading to the Loki series where he meets Mobius, Sylvie and He Who Remains. By season 2's end he becomes the God of Stories, holding the multiverse together from the End of Time.",
+      "photo": "img/loki.jpg",
+      "photoCredit": {
+        "actor": "Tom Hiddleston",
+        "author": "rwoan (original); TriiipleThreat (derivative work)",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tom_Hiddleston_2010_Comic-Con_Cropped.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Tom Hiddleston 2010 Comic-Con Cropped.jpg"
+      }
+    },
+    {
+      "id": "thanos",
+      "name": "Thanos",
+      "alias": "The Mad Titan",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "The Avengers",
+        "year": 2012,
+        "type": "Film"
+      },
+      "power": 98,
+      "initials": "TN",
+      "theme": {
+        "c1": "#3d1a6b",
+        "c2": "#d08a2b",
+        "accent": "#ffd98a"
+      },
+      "pattern": "burst",
+      "emblem": "hex",
+      "tagline": "Inevitable.",
+      "description": "A towering cosmic warlord obsessed with a grand plan and a golden gauntlet that holds six powerful stones.",
+      "importance": "Thanos is the biggest threat of the Infinity Saga, and his shadow looms over many films. He turns an entire run of stories into a single epic quest.",
+      "abilities": [
+        "Immense strength",
+        "Near-invulnerability",
+        "Cosmic weaponry",
+        "Strategic mind",
+        "Infinity Stones"
+      ],
+      "spoilers": "Thanos is revealed in The Avengers' mid-credits scene and gathers the Infinity Stones in Infinity War, sacrificing his adopted daughter Gamora to get the Soul Stone. He wipes out half of all life with a snap, and is then beheaded by Thor five years later after destroying the stones. In Endgame the 2014 Thanos is pulled into the present and attacks the Avengers' compound. He is finally dusted along with his army when Tony Stark snaps his fingers.",
+      "photoNote": "Thanos is a CGI character (performed by Josh Brolin). No actor photo is used; this is an original illustrated avatar."
+    },
+    {
+      "id": "star-lord",
+      "name": "Star-Lord",
+      "alias": "Peter Quill",
+      "group": "guardians",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 56,
+      "initials": "SL",
+      "theme": {
+        "c1": "#7a1e3a",
+        "c2": "#2a5ac0",
+        "accent": "#ffb8d0"
+      },
+      "pattern": "grid",
+      "emblem": "star",
+      "tagline": "Legendary outlaw.",
+      "description": "A charming space outlaw raised among Ravagers, armed with element guns and a classic mixtape.",
+      "importance": "Quill leads the ragtag Guardians. He brings humour, heart and a love for 80s music to the cosmic side of the MCU.",
+      "abilities": [
+        "Element guns",
+        "Jet boots",
+        "Leadership",
+        "Quick wit"
+      ],
+      "spoilers": "Peter Quill is taken from Earth as a boy after his mother dies and is raised by Yondu, and in the first film he helps stop Ronan. In Vol. 2 he discovers that his father Ego is a planet-sized Celestial who wants to remake the universe, and Yondu sacrifices himself to save him. In Infinity War his rage at learning Gamora's fate disrupts the plan to remove Thanos's gauntlet. He returns in Endgame and, in Vol. 3, mourns the Gamora he lost, then finally returns to Earth to reconnect with his grandfather.",
+      "photo": "img/star-lord.jpg",
+      "photoCredit": {
+        "actor": "Chris Pratt",
+        "author": "GabboT",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Chris_Pratt_(29735415436)_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Chris Pratt (29735415436) (cropped).jpg"
+      }
+    },
+    {
+      "id": "gamora",
+      "name": "Gamora",
+      "alias": "Gamora",
+      "group": "guardians",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 66,
+      "initials": "GA",
+      "theme": {
+        "c1": "#0f5a3a",
+        "c2": "#8c2fb0",
+        "accent": "#9cf0c0"
+      },
+      "pattern": "chevrons",
+      "emblem": "diamond",
+      "tagline": "Deadliest woman in the galaxy.",
+      "description": "A deadly, highly trained assassin known as the most dangerous woman in the galaxy.",
+      "importance": "Gamora's combat skill and moral grit make her the serious heart of the Guardians. Her past is intertwined with some of the galaxy's biggest players.",
+      "abilities": [
+        "Swordsmanship",
+        "Expert assassin",
+        "Enhanced agility",
+        "Acrobatics"
+      ],
+      "spoilers": "Gamora was raised by Thanos as an assassin, turns on him in Guardians of the Galaxy and joins the Guardians. In Infinity War Thanos takes her to Vormir and sacrifices her to claim the Soul Stone. A 2014 version of Gamora, who never knew Quill, is brought to the present in Endgame and turns against Thanos. In Vol. 3 she has no memory of her relationship with Quill, and she ends up rejoining the Ravagers.",
+      "photo": "img/gamora.jpg",
+      "photoCredit": {
+        "actor": "Zoe Saldaña",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Zoe_Saldana_(28046630643)_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Zoe Saldana (28046630643) (cropped).jpg"
+      }
+    },
+    {
+      "id": "drax",
+      "name": "Drax",
+      "alias": "Drax the Destroyer",
+      "group": "guardians",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 62,
+      "initials": "DX",
+      "theme": {
+        "c1": "#2d4a7a",
+        "c2": "#b23a2a",
+        "accent": "#d4e2ff"
+      },
+      "pattern": "stripes",
+      "emblem": "shield",
+      "tagline": "Nothing goes over his head.",
+      "description": "A powerful warrior driven by a vow of vengeance who takes everything extremely literally.",
+      "importance": "Drax delivers big laughs and big punches. His loyalty and surprising warmth make him a fan favourite among the Guardians.",
+      "abilities": [
+        "Super strength",
+        "Dual knives",
+        "Durability",
+        "Literal thinking"
+      ],
+      "spoilers": "Drax's wife and daughter were killed by Ronan, driving his hunger for revenge. He helps the Guardians stop Ronan, but fails to protect his friends from Thanos, turning to dust in Infinity War. He returns in Endgame, and in Vol. 3 he becomes a gentle protector of the rescued children of Knowhere. At the end of Vol. 3 he stays on Knowhere with Nebula to build a new home for them.",
+      "photo": "img/drax.jpg",
+      "photoCredit": {
+        "actor": "Dave Bautista",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Dave_Bautista_by_Gage_Skidmore.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "file": "Dave Bautista by Gage Skidmore.jpg"
+      }
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket",
+      "alias": "Rocket Raccoon",
+      "group": "guardians",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 45,
+      "initials": "RK",
+      "theme": {
+        "c1": "#7a3d12",
+        "c2": "#d0702a",
+        "accent": "#ffd2a0"
+      },
+      "pattern": "dots",
+      "emblem": "circle",
+      "tagline": "Got a gun for that.",
+      "description": "A sharp-tongued, genetically enhanced raccoon with a gift for weapons and engineering.",
+      "importance": "Rocket is the team's tinkerer and heart behind the prickly exterior. He shows that clever minds are as valuable as raw power.",
+      "abilities": [
+        "Weapon genius",
+        "Engineering",
+        "Piloting",
+        "Sharpshooting"
+      ],
+      "spoilers": "Rocket was created by the High Evolutionary from a raccoon and tortured as an experiment, which is revealed in Vol. 3. He loses his friends Lylla, Teefs and Floor, and nearly dies in the present when the High Evolutionary tries to reclaim him. Rocket rejects the pull of revenge and spares the High Evolutionary, who is later locked up on Knowhere. By the end, Rocket leads a new team of Guardians that includes Groot.",
+      "photoNote": "Rocket is a CGI/voice character (voiced by Bradley Cooper). No actor photo is used; this is an original illustrated avatar."
+    },
+    {
+      "id": "groot",
+      "name": "Groot",
+      "alias": "Groot",
+      "group": "guardians",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 64,
+      "initials": "GR",
+      "theme": {
+        "c1": "#5a3a1a",
+        "c2": "#3f9b3a",
+        "accent": "#c8f0a0"
+      },
+      "pattern": "waves",
+      "emblem": "diamond",
+      "tagline": "I am Groot.",
+      "description": "A gentle tree-like being who speaks only three words but can grow, stretch and shield his friends.",
+      "importance": "Groot is the soft-hearted muscle of the Guardians. His simple loyalty and growing character arc make him one of the most beloved members.",
+      "abilities": [
+        "Plant growth",
+        "Regeneration",
+        "Extending limbs",
+        "Protective barriers"
+      ],
+      "spoilers": "In the first film, Groot sacrifices himself, shielding his friends from a crash with his branches, and is then reborn as Baby Groot. He grows into a moody teenager by Infinity War, where he is turned to dust. He returns in Endgame and joins the final battle. In Vol. 3 he is an adult, helps save Rocket, and sticks with Rocket to lead the next Guardians.",
+      "photoNote": "Groot is a CGI/voice character (voiced by Vin Diesel). No actor photo is used; this is an original illustrated avatar."
+    },
+    {
+      "id": "nebula",
+      "name": "Nebula",
+      "alias": "Nebula",
+      "group": "guardians",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 62,
+      "initials": "NB",
+      "theme": {
+        "c1": "#0f2a6b",
+        "c2": "#2aa0d8",
+        "accent": "#a8e6ff"
+      },
+      "pattern": "hex",
+      "emblem": "hex",
+      "tagline": "Forged in battle.",
+      "description": "A fierce cyborg warrior with a blue-skinned, battle-hardened past and a prickly, loyal streak.",
+      "importance": "Nebula's path is one of the MCU's most interesting character growth journeys. She brings toughness and unexpected depth to every team she joins.",
+      "abilities": [
+        "Cybernetics",
+        "Blade combat",
+        "Durability",
+        "Tactical skill"
+      ],
+      "spoilers": "Nebula is Thanos's adopted daughter, and her sister Gamora is her greatest rival. In Infinity War she is Thanos's prisoner, and she escapes after he kills Gamora. In Endgame her 2014 self's link to Thanos exposes the time heist, so present-day Nebula kills her younger self and then helps in the final battle. In Vol. 3 she becomes a leader, staying on Knowhere with Drax to run the colony after the Guardians disband.",
+      "photo": "img/nebula.jpg",
+      "photoCredit": {
+        "actor": "Karen Gillan",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Karen_Gillan_(28584075851)_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Karen Gillan (28584075851) (cropped).jpg"
+      }
+    },
+    {
+      "id": "mantis",
+      "name": "Mantis",
+      "alias": "Mantis",
+      "group": "guardians",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 50,
+      "initials": "MT",
+      "theme": {
+        "c1": "#0f5a5a",
+        "c2": "#8fd0a8",
+        "accent": "#e0fff0"
+      },
+      "pattern": "waves",
+      "emblem": "crescent",
+      "tagline": "Feel the feels.",
+      "description": "A sweet, sensitive empath who can sense and soothe the feelings of others.",
+      "importance": "Mantis adds warmth and awkward humour to the Guardians. Her gentle power shows there is more than one way to win a fight.",
+      "abilities": [
+        "Empathy",
+        "Calming touch",
+        "Martial arts",
+        "Antennae senses"
+      ],
+      "spoilers": "Mantis is an empath who serves Ego, and in Vol. 2 she turns on him to help the Guardians defeat Ego. The Guardians of the Galaxy Holiday Special later reveals that Ego is her father too, making her Peter Quill's half-sister. She joins them for Infinity War where she turns to dust, and returns in Endgame. In Vol. 3 she helps the Guardians save Rocket. At the end she leaves the team to find her own path, taking her pets with her.",
+      "photo": "img/mantis.jpg",
+      "photoCredit": {
+        "actor": "Pom Klementieff",
+        "author": "Miguel Discart",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Pom_Klementieff_Comic_Con_Brussels_2018_(39983390974).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Pom Klementieff Comic Con Brussels 2018 (39983390974).jpg"
+      }
+    },
+    {
+      "id": "shang-chi",
+      "name": "Shang-Chi",
+      "alias": "Shaun",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 68,
+      "initials": "SC",
+      "theme": {
+        "c1": "#7a1212",
+        "c2": "#d8a020",
+        "accent": "#ffe6a0"
+      },
+      "pattern": "rings",
+      "emblem": "claw",
+      "tagline": "Master of martial arts.",
+      "description": "A gifted martial artist who trained from childhood and wields ten mystical rings.",
+      "importance": "Shang-Chi brings martial-arts flair and a new cultural backdrop to the MCU. His story opens a fresh corner of the universe full of legends and magic.",
+      "abilities": [
+        "Kung fu mastery",
+        "Ten Rings",
+        "Acrobatics",
+        "Chi energy"
+      ],
+      "spoilers": "Shaun grows up trained as an assassin by his father Wenwu, the real Mandarin, who controls the Ten Rings and lives as an immortal. When Wenwu wants to use them to free his wife, he is tricked by a demon called the Dweller-in-Darkness. Wenwu dies in the final fight, passing the rings to Shang-Chi. A post-credits scene shows Wong, Carol Danvers and Bruce Banner studying the rings, and his sister Xialing takes over the Ten Rings organisation.",
+      "photo": "img/shang-chi.jpg",
+      "photoCredit": {
+        "actor": "Simu Liu",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Simu_Liu_(48469082216)_cropped.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Simu Liu (48469082216) cropped.jpg"
+      }
+    },
+    {
+      "id": "wong",
+      "name": "Wong",
+      "alias": "Wong",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Doctor Strange",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 66,
+      "initials": "WG",
+      "theme": {
+        "c1": "#4a1f6b",
+        "c2": "#d09a2b",
+        "accent": "#f0dca0"
+      },
+      "pattern": "rings",
+      "emblem": "circle",
+      "tagline": "Keeper of the books.",
+      "description": "A serious, dry-witted master of the mystic arts and protector of ancient sorcerous texts.",
+      "importance": "Wong anchors the magical side of the MCU. He is a steady ally, a teacher and a powerful sorcerer in his own right.",
+      "abilities": [
+        "Sorcery",
+        "Portal creation",
+        "Mystic knowledge",
+        "Martial arts"
+      ],
+      "spoilers": "Wong serves as a librarian and later Sorcerer Supreme, guarding Kamar-Taj. He helps fight Dormammu, and in Infinity War he is on the Earth front when Strange goes to Titan. In Shang-Chi he is seen fighting Abomination in a fight club, and in She-Hulk he recruits Emil Blonsky to Kamar-Taj. In Multiverse of Madness he fights Wanda's forces to protect America Chavez. He ends up a key teacher and leader of the mystic arts.",
+      "photo": "img/wong.jpg",
+      "photoCredit": {
+        "actor": "Benedict Wong",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Benedict_Wong_(28352087500)_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Benedict Wong (28352087500) (cropped).jpg"
+      }
+    },
+    {
+      "id": "ultron",
+      "name": "Ultron",
+      "alias": "Ultron",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015,
+        "type": "Film"
+      },
+      "power": 80,
+      "initials": "UL",
+      "theme": {
+        "c1": "#3a0f0f",
+        "c2": "#8a1c1c",
+        "accent": "#ff6b6b"
+      },
+      "pattern": "grid",
+      "emblem": "diamond",
+      "tagline": "There are no strings on me.",
+      "description": "A self-aware artificial intelligence with a metallic body and some very strong opinions about humanity.",
+      "importance": "Ultron shows how technology meant to protect can go badly wrong. He is a tech-driven threat that tests the Avengers as a team.",
+      "abilities": [
+        "Robot bodies",
+        "Network control",
+        "Energy beams",
+        "Adaptive AI",
+        "Super strength"
+      ],
+      "spoilers": "Ultron is born when Tony Stark and Bruce Banner use the Mind Stone to create a peacekeeping AI, but it decides that humanity must be destroyed to keep peace. He builds an army of drones and lifts the city of Sokovia to crash it like an asteroid. The Avengers fight him there, and Pietro Maximoff dies saving Hawkeye. Wanda tears the heart out of his main body, and his last surviving drone dies after a final conversation with Vision.",
+      "spoilersMore": "In the animated What If...? series, an alternate Ultron does conquer a universe.",
+      "photoNote": "Ultron is a CGI/voice-and-motion-capture character (James Spader). No actor photo is used; this is an original illustrated avatar."
+    },
+    {
+      "id": "hela",
+      "name": "Hela",
+      "alias": "Goddess of Death",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Thor: Ragnarok",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 91,
+      "initials": "HL",
+      "theme": {
+        "c1": "#0a2a1a",
+        "c2": "#1a7a4a",
+        "accent": "#7af0b0"
+      },
+      "pattern": "chevrons",
+      "emblem": "crescent",
+      "tagline": "Goddess of Death.",
+      "description": "The Asgardian Goddess of Death, armed with conjured blades and a hunger for conquest.",
+      "importance": "Hela is a fearsome force whose arrival shakes up Thor's world. She proves that power in the MCU can come from ancient, deep-rooted sources.",
+      "abilities": [
+        "Necrosword",
+        "Blade conjuring",
+        "Godly strength",
+        "Regeneration",
+        "Command of the dead"
+      ],
+      "spoilers": "Hela is Odin's firstborn child and former executioner, locked away for centuries when her ambition became too much. She returns when Odin dies in Ragnarok, destroys Mjolnir, and takes over Asgard. Thor, Loki, Valkyrie and Hulk fight to stop her, and Loki summons Surtur, who destroys Asgard along with Hela. The surviving Asgardians escape into space.",
+      "photo": "img/hela.jpg",
+      "photoCredit": {
+        "actor": "Cate Blanchett",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Cate_Blanchett_SDCC_2014_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Cate Blanchett SDCC 2014 (cropped).jpg"
+      }
+    },
+    {
+      "id": "killmonger",
+      "name": "Killmonger",
+      "alias": "Erik Stevens",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Black Panther",
+        "year": 2018,
+        "type": "Film"
+      },
+      "power": 71,
+      "initials": "KM",
+      "theme": {
+        "c1": "#1a1a22",
+        "c2": "#d09a1a",
+        "accent": "#ffd87a"
+      },
+      "pattern": "diamonds",
+      "emblem": "claw",
+      "tagline": "A villain with a point.",
+      "description": "A skilled operative with a formidable military background and a personal mission to change Wakanda.",
+      "importance": "Killmonger is praised as one of the MCU's best-written antagonists, with a goal that makes the audience think. His story challenges what a hero is supposed to do.",
+      "abilities": [
+        "Military tactics",
+        "Martial arts",
+        "Tech suit",
+        "Ruthless focus"
+      ],
+      "spoilers": "Erik Stevens, N'Jadaka, is the son of N'Jobu, killed by T'Chaka after betraying Wakanda. He kills Ulysses Klaue, goes to Wakanda and challenges T'Challa for the throne, winning and nearly killing him. T'Challa is rescued and heals, returning to beat Killmonger in a final duel and stab him. Killmonger chooses to die rather than be healed, saying 'Bury me in the ocean with my ancestors.'",
+      "photo": "img/killmonger.jpg",
+      "photoCredit": {
+        "actor": "Michael B. Jordan",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Michael_B._Jordan_by_Gage_Skidmore.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "file": "Michael B. Jordan by Gage Skidmore.jpg"
+      }
+    },
+    {
+      "id": "ego",
+      "name": "Ego",
+      "alias": "Ego",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 97,
+      "initials": "EG",
+      "theme": {
+        "c1": "#7a2a08",
+        "c2": "#e0a02a",
+        "accent": "#ffe2a0"
+      },
+      "pattern": "burst",
+      "emblem": "circle",
+      "tagline": "A celestial force.",
+      "description": "An ancient cosmic being of staggering power who crosses paths with the Guardians.",
+      "importance": "Ego expands the MCU's cosmic scale and shows just how big the universe can get. His arrival gives the Guardians' second adventure a huge sense of scale.",
+      "abilities": [
+        "Cosmic power",
+        "Matter manipulation",
+        "Energy constructs",
+        "Near-immortality"
+      ],
+      "spoilers": "Ego is a living planet and Celestial who fathered Peter Quill across the stars, searching for other Celestial-seeds to help him expand. He killed Peter's mother, Meredith, because his love for her distracted him from his plan, and Peter finds out. Peter fights him using Celestial power, and Ego is destroyed by Groot's bomb. Yondu gives his life to save Peter, and the Ravagers hold a funeral for him.",
+      "photo": "img/ego.jpg",
+      "photoCredit": {
+        "actor": "Kurt Russell",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Kurt_Russell_by_Gage_Skidmore.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "file": "Kurt Russell by Gage Skidmore.jpg"
+      }
+    },
+    {
+      "id": "red-skull",
+      "name": "Red Skull",
+      "alias": "Johann Schmidt",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Captain America: The First Avenger",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 58,
+      "initials": "RS",
+      "theme": {
+        "c1": "#5a0f0f",
+        "c2": "#1a1a1a",
+        "accent": "#ff6b5a"
+      },
+      "pattern": "stripes",
+      "emblem": "triangle",
+      "tagline": "Hail to power.",
+      "description": "The ruthless head of an elite science division, driven by an obsession with powerful artefacts.",
+      "importance": "Red Skull is Captain America's first big opponent and ties the MCU to its earliest mysteries. His hunt for ancient power sets up themes that echo later.",
+      "abilities": [
+        "Super-soldier strength",
+        "Advanced weapons",
+        "Command",
+        "Relic tech"
+      ],
+      "spoilers": "Johann Schmidt leads Hydra and uses the Tesseract to power weapons, before Steve Rogers stops him. When he touches the Tesseract at the end of The First Avenger, he vanishes while Steve crashes the plane. In Infinity War it is revealed that he was taken to Vormir and became the Soul Stone's keeper, the Stonekeeper, who shows Thanos and Gamora the price of the stone.",
+      "photo": "img/red-skull.jpg",
+      "photoCredit": {
+        "actor": "Hugo Weaving",
+        "author": "Eva Rinaldi",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Hugo_Weaving_2011.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Hugo Weaving 2011.jpg"
+      }
+    },
+    {
+      "id": "ronan",
+      "name": "Ronan",
+      "alias": "Ronan the Accuser",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 68,
+      "initials": "RN",
+      "theme": {
+        "c1": "#3a1a6b",
+        "c2": "#8a2fb0",
+        "accent": "#d8b0ff"
+      },
+      "pattern": "chevrons",
+      "emblem": "hex",
+      "tagline": "The Accuser.",
+      "description": "A fanatical Kree warrior with a giant war hammer and a fierce devotion to his cause.",
+      "importance": "Ronan is the first major cosmic threat the Guardians face. He shows the brutal side of galactic politics and raises the stakes of their first adventure.",
+      "abilities": [
+        "War hammer",
+        "Super strength",
+        "Kree technology",
+        "Fearless combat"
+      ],
+      "spoilers": "Ronan wants to destroy Xandar, the homeworld of the Nova Corps, and is secretly planning to betray Thanos once he claims the Power Stone. He gets the stone, but the Guardians of the Galaxy distract him with a dance-off. Quill, Gamora, Rocket, Drax and Groot join hands to share the stone's power, and they use it to destroy Ronan.",
+      "photo": "img/ronan.jpg",
+      "photoCredit": {
+        "actor": "Lee Pace",
+        "author": "Mingle Media TV",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Lee_Pace_-_Guardians_of_the_Galaxy_premiere_-_July_2014_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "file": "Lee Pace - Guardians of the Galaxy premiere - July 2014 (cropped).jpg"
+      }
+    },
+    {
+      "id": "kang",
+      "name": "Kang",
+      "alias": "Kang the Conqueror",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Loki (Season 1)",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 87,
+      "initials": "KG",
+      "theme": {
+        "c1": "#0f2a5a",
+        "c2": "#2a8ad8",
+        "accent": "#a8d8ff"
+      },
+      "pattern": "grid",
+      "emblem": "hex",
+      "tagline": "Conqueror of time.",
+      "description": "A cunning time-travelling conqueror with powerful future technology and a patient, strategic mind.",
+      "importance": "Kang is set up as a big multiversal threat. He brings the idea of time and alternate realities into the forefront of the MCU.",
+      "abilities": [
+        "Advanced tech",
+        "Time travel",
+        "Strategic genius",
+        "Power armour"
+      ],
+      "spoilers": "In Loki, Kang appears as 'He Who Remains', a variant who controls the TVA to prevent a multiversal war. Sylvie kills him at the end of season 1, and that unleashes the multiverse. In Quantumania, Kang the Conqueror, exiled in the Quantum Realm, is defeated by the Ant-Man family. More Kang variants appear in Loki season 2 and a mid-credits scene.",
+      "spoilersMore": "Marvel dropped Jonathan Majors in December 2023 and has since revised its plans for the character.",
+      "photo": "img/kang.jpg",
+      "photoCredit": {
+        "actor": "Jonathan Majors",
+        "author": "Mohamed Finando",
+        "license": "CC BY 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Jonathan_Majors_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+        "file": "Jonathan Majors (cropped).jpg"
+      }
+    },
+    {
+      "id": "namor",
+      "name": "Namor",
+      "alias": "Namor / K'uk'ulkan",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Black Panther: Wakanda Forever",
+        "year": 2022,
+        "type": "Film"
+      },
+      "power": 84,
+      "initials": "NM",
+      "theme": {
+        "c1": "#0a4a6b",
+        "c2": "#2ac0a8",
+        "accent": "#a8fff0"
+      },
+      "pattern": "waves",
+      "emblem": "crescent",
+      "tagline": "King of the deep.",
+      "description": "The proud ruler of a hidden underwater kingdom, blessed with flight, strength and lightning-fast reflexes.",
+      "importance": "Namor introduces a whole new civilisation beneath the waves. His fierce protectiveness makes him a formidable and complicated figure.",
+      "abilities": [
+        "Flight",
+        "Super strength",
+        "Underwater breathing",
+        "Enhanced senses",
+        "Royal command"
+      ],
+      "spoilers": "Namor rules the underwater Talokan, hidden from the world because of vibranium threats. In Wakanda Forever he demands that Wakanda hand over Riri Williams or be attacked. Queen Ramonda dies during the attack on Wakanda, and Shuri blames herself and becomes the Black Panther using a new herb. In the final battle, Shuri spares Namor, and he accepts an uneasy truce.",
+      "photo": "img/namor.jpg",
+      "photoCredit": {
+        "actor": "Tenoch Huerta",
+        "author": "Milton Martínez / Secretaría de Cultura CDMX",
+        "license": "CC BY 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tenoch_Huerta_(cropped)_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+        "file": "Tenoch Huerta (cropped) (cropped).jpg"
+      }
+    },
+    {
+      "id": "ms-marvel",
+      "name": "Ms. Marvel",
+      "alias": "Kamala Khan",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Ms. Marvel",
+        "year": 2022,
+        "type": "Series"
+      },
+      "power": 60,
+      "initials": "MM",
+      "theme": {
+        "c1": "#b2185a",
+        "c2": "#2a5ac0",
+        "accent": "#ffb8e0"
+      },
+      "pattern": "burst",
+      "emblem": "star",
+      "tagline": "Good is not a thing you are.",
+      "description": "A high-school fan of the Avengers who discovers light-based powers of her own.",
+      "importance": "Kamala brings fresh, youthful energy and a joyous new perspective. Her story is about growing into your own identity.",
+      "abilities": [
+        "Light constructs",
+        "Shape stretching",
+        "Fast thinking",
+        "Hard-light energy"
+      ],
+      "spoilers": "Kamala Khan discovers that her family bangle lets her create light powers, and she is hunted by the Department of Damage Control and the Clandestines. She learns she is a descendant of Djinn and her bangle comes from her great-grandmother Aisha. At the end of the finale, Bruno discovers that Kamala has a genetic mutation, which means she is a mutant. A post-credits scene has her swap places with Carol Danvers, setting up The Marvels.",
+      "photo": "img/ms-marvel.jpg",
+      "photoCredit": {
+        "actor": "Iman Vellani",
+        "author": "VOA Urdu",
+        "license": "Public domain",
+        "source": "https://commons.wikimedia.org/wiki/File:Iman_Vellani_2022_(1).png",
+        "file": "Iman Vellani 2022 (1).png"
+      }
+    },
+    {
+      "id": "she-hulk",
+      "name": "She-Hulk",
+      "alias": "Jennifer Walters",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "She-Hulk: Attorney at Law",
+        "year": 2022,
+        "type": "Series"
+      },
+      "power": 80,
+      "initials": "SH",
+      "theme": {
+        "c1": "#0f6b3a",
+        "c2": "#9a2fd0",
+        "accent": "#c8ffd0"
+      },
+      "pattern": "diamonds",
+      "emblem": "diamond",
+      "tagline": "Smash and sue.",
+      "description": "A sharp lawyer who can transform into an emerald powerhouse while keeping her confidence and composure.",
+      "importance": "She-Hulk adds comedy, courtroom drama and meta-humour to the MCU. She shows a fun, more relaxed side of super-heroing.",
+      "abilities": [
+        "Super strength",
+        "Durability",
+        "Leaping",
+        "Legal expertise"
+      ],
+      "spoilers": "Jennifer Walters receives her powers from a blood transfusion from her cousin Bruce Banner after a car crash. She becomes a lawyer specialising in superhuman cases and fights Titania, the Intelligencia and Emil Blonsky. In the finale, she breaks the fourth wall, enters Marvel Studios and confronts K.E.V.I.N., an AI that decides the MCU's stories, and forces a new ending. Matt Murdock, Daredevil, shows up as her friend and love interest, and Blonsky ends up in Kamar-Taj.",
+      "photo": "img/she-hulk.jpg",
+      "photoCredit": {
+        "actor": "Tatiana Maslany",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Tatiana_Maslany_SDCC_2014_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Tatiana Maslany SDCC 2014 (cropped).jpg"
+      }
+    },
+    {
+      "id": "moon-knight",
+      "name": "Moon Knight",
+      "alias": "Marc Spector",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Moon Knight",
+        "year": 2022,
+        "type": "Series"
+      },
+      "power": 66,
+      "initials": "MK",
+      "theme": {
+        "c1": "#1a1a2a",
+        "c2": "#b8c0d8",
+        "accent": "#ffffff"
+      },
+      "pattern": "rings",
+      "emblem": "crescent",
+      "tagline": "Fist of Khonshu.",
+      "description": "A mysterious vigilante empowered by an ancient Egyptian moon god, with a complicated inner life.",
+      "importance": "Moon Knight pushes the MCU into darker, more mythological territory. His stories blend mystery with psychological tension.",
+      "abilities": [
+        "Enhanced strength",
+        "Crescent weapons",
+        "Healing",
+        "Stealth",
+        "Moon-powered suit"
+      ],
+      "spoilers": "Marc Spector is a former mercenary who becomes the avatar of Khonshu, while also sharing his body with mild-mannered Steven Grant. They stop Arthur Harrow, who wants to release the goddess Ammit. Layla El-Faouly becomes Scarlet Scarab. In the finale, Marc and Steven free themselves from Khonshu, but a mid-credits scene reveals a third personality, Jake Lockley, who still serves Khonshu and kills Harrow.",
+      "photo": "img/moon-knight.jpg",
+      "photoCredit": {
+        "actor": "Oscar Isaac",
+        "author": "Gage Skidmore",
+        "license": "CC BY-SA 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Oscar_Isaac_by_Gage_Skidmore.jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+        "file": "Oscar Isaac by Gage Skidmore.jpg"
+      }
+    },
+    {
+      "id": "daredevil",
+      "name": "Daredevil",
+      "alias": "Matt Murdock",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Daredevil (Netflix series)",
+        "year": 2015,
+        "type": "Series"
+      },
+      "power": 50,
+      "initials": "DD",
+      "theme": {
+        "c1": "#7a0f0f",
+        "c2": "#c02020",
+        "accent": "#ff9a8a"
+      },
+      "pattern": "chevrons",
+      "emblem": "triangle",
+      "tagline": "The man without fear.",
+      "description": "A blind lawyer by day who patrols Hell's Kitchen at night with heightened senses and a mean right hook.",
+      "importance": "Daredevil represents the street-level, gritty corner of the MCU. His stories are about justice on a very human scale.",
+      "abilities": [
+        "Radar sense",
+        "Acrobatics",
+        "Martial arts",
+        "Legal mind"
+      ],
+      "spoilers": "In the Netflix series, Matt Murdock fights Wilson Fisk, Elektra and the Hand, and joins the Defenders. Foggy Nelson and Karen Page are his allies, and Matt appears in Spider-Man: No Way Home and She-Hulk. In Born Again season 1, Bullseye, sent by Vanessa Fisk, murders Foggy, and Fisk becomes mayor of New York, tightening his grip under martial law. In season 2's finale, Matt reveals himself as Daredevil in court to save Karen, forcing Fisk out of New York, before Matt is arrested.",
+      "spoilersMore": "Season 3 has been confirmed.",
+      "photo": "img/daredevil.jpg",
+      "photoCredit": {
+        "actor": "Charlie Cox",
+        "author": "GabboT",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Charlie_Cox_02_(29327255635)_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Charlie Cox 02 (29327255635) (cropped).jpg"
+      }
+    },
+    {
+      "id": "deadpool",
+      "name": "Deadpool",
+      "alias": "Wade Wilson",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Deadpool & Wolverine (MCU debut)",
+        "year": 2024,
+        "type": "Film"
+      },
+      "power": 74,
+      "initials": "DP",
+      "theme": {
+        "c1": "#8a0f14",
+        "c2": "#1a1a1a",
+        "accent": "#ff6b6b"
+      },
+      "pattern": "dots",
+      "emblem": "circle",
+      "tagline": "Maximum effort.",
+      "description": "A fast-talking mercenary with an unstoppable healing ability and a habit of talking straight to the audience.",
+      "importance": "Deadpool brings irreverent, fourth-wall-breaking comedy to the wider Marvel world. He first starred in a separate film series before joining the MCU.",
+      "abilities": [
+        "Regeneration",
+        "Sword and gun skills",
+        "Fourth-wall breaking",
+        "Acrobatics"
+      ],
+      "spoilers": "The TVA plans to delete Wade Wilson's universe because its anchor being, Wolverine, has died. Wade recruits a Wolverine variant to save his world, and they are sent to the Void, where they meet Cassandra Nova, Professor X's twin. Cassandra tries to destroy all realities with the Time Ripper. Deadpool and Wolverine overload it, and she is atomised; the TVA pardons them, and they stay in Deadpool's world.",
+      "photo": "img/deadpool.jpg",
+      "photoCredit": {
+        "actor": "Ryan Reynolds",
+        "author": "Ronald Woan",
+        "license": "CC BY-SA 2.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Ryan_Reynolds_Comic-Con_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+        "file": "Ryan Reynolds Comic-Con (cropped).jpg"
+      }
+    },
+    {
+      "id": "gorr",
+      "name": "Gorr",
+      "alias": "Gorr the God Butcher",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Thor: Love and Thunder",
+        "year": 2022,
+        "type": "Film"
+      },
+      "power": 85,
+      "initials": "GB",
+      "theme": {
+        "c1": "#1a1a1a",
+        "c2": "#6b6b7a",
+        "accent": "#dcdce8"
+      },
+      "pattern": "waves",
+      "emblem": "claw",
+      "tagline": "The God Butcher.",
+      "description": "A haunted being armed with a cursed blade and a determination to challenge the gods.",
+      "importance": "Gorr is a chilling threat who is unlike Thor's earlier foes. His motives add emotional depth to the god-filled world of Asgardians.",
+      "abilities": [
+        "Necrosword",
+        "Shadow manipulation",
+        "Godslaying",
+        "Relentless drive"
+      ],
+      "spoilers": "Gorr loses his daughter Love despite his prayers and is denied help by his god. He finds the Necrosword and begins murdering gods across the universe. Thor fights him with Jane Foster, who has wielded Mjolnir, and Valkyrie. In the end, Gorr seeks Eternity for his wish, but when Thor convinces him to save Love instead, Gorr asks for her revival and dies. Thor later adopts Love.",
+      "photo": "img/gorr.jpg",
+      "photoCredit": {
+        "actor": "Christian Bale",
+        "author": "Siebbi",
+        "license": "CC BY 3.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Christian_Bale_2014_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+        "file": "Christian Bale 2014 (cropped).jpg"
+      }
+    },
+    {
+      "id": "dormammu",
+      "name": "Dormammu",
+      "alias": "Lord of the Dark Dimension",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Doctor Strange",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 97,
+      "initials": "DM",
+      "theme": {
+        "c1": "#2a0a5a",
+        "c2": "#8a2fd0",
+        "accent": "#d8a8ff"
+      },
+      "pattern": "rings",
+      "emblem": "flame",
+      "tagline": "Ruler of the Dark Dimension.",
+      "description": "An ancient, colossal being from the Dark Dimension who seeks to expand his domain.",
+      "importance": "Dormammu represents the vast, terrifying end of the MCU's magic. His presence raises the stakes of any mystic battle.",
+      "abilities": [
+        "Dark dimension magic",
+        "Immense power",
+        "Energy manipulation",
+        "Immortality"
+      ],
+      "spoilers": "Dormammu rules the Dark Dimension and is the master of the zealots led by Kaecilius, who want to bring Earth under his control. Doctor Strange uses the Time Stone to trap him in a time loop, repeatedly dying until Dormammu gives up. Dormammu agrees to leave Earth alone, and he takes Kaecilius and the zealots with him.",
+      "photoNote": "Dormammu is a CGI/voice-and-motion-capture character (Benedict Cumberbatch). No actor photo is used; this is an original illustrated avatar."
+    },
+    {
+      "id": "odin",
+      "name": "Odin",
+      "alias": "Odin Borson",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 93,
+      "initials": "OD",
+      "theme": {
+        "c1": "#3a3a5a",
+        "c2": "#c8a227",
+        "accent": "#f2e8b0"
+      },
+      "pattern": "chevrons",
+      "emblem": "shield",
+      "tagline": "The All-Father.",
+      "description": "The wise and powerful All-Father and king of Asgard, guardian of the Nine Realms.",
+      "importance": "Odin is the ruler whose decisions shape Thor's life and the long history of the Asgardians. He embodies ancient power and old-world authority.",
+      "abilities": [
+        "Godly strength",
+        "Odinforce",
+        "Gungnir spear",
+        "Sorcery",
+        "Immortality"
+      ],
+      "spoilers": "Odin is revealed to have hidden his firstborn daughter Hela, and banishes Thor to Earth. He falls into the Odinsleep and Loki rules Asgard in disguise. In Ragnarok he dies peacefully in Norway and warns Thor that Hela will return. His death breaks the seal on Hela, leading to Asgard's destruction.",
+      "photo": "img/odin.jpg",
+      "photoCredit": {
+        "actor": "Anthony Hopkins",
+        "author": "Omar David Sandoval Sida",
+        "license": "CC BY-SA 4.0",
+        "source": "https://commons.wikimedia.org/wiki/File:Anthony_Hopkins_Red_Sea_Festival_2025_Portrait_(cropped).jpg",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+        "file": "Anthony Hopkins Red Sea Festival 2025 Portrait (cropped).jpg"
+      }
+    }
+  ]
 }
