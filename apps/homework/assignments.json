@@ -114,6 +114,24 @@
       "priority": "high",
       "status": "open",
       "inClass": true
+    },
+    {
+      "id": "socials-economic-globalisation-quiz",
+      "class": "Socials",
+      "title": "Economic Globalisation quiz",
+      "due": "2026-10-09",
+      "dueLabel": "Fri 9 Oct 2026",
+      "priority": "high",
+      "status": "open"
+    },
+    {
+      "id": "science-unit-1-test",
+      "class": "Science",
+      "title": "Unit 1 test",
+      "due": "2026-10-09",
+      "dueLabel": "Fri 9 Oct 2026",
+      "priority": "high",
+      "status": "open"
     }
   ]
 }
