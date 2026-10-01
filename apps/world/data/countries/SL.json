@@ -1,7 +1,7 @@
 {
   "iso2": "SL",
   "name": "Sierra Leone",
-  "updatedAt": "2026-10-01T17:05:15+08:00",
+  "updatedAt": "2026-10-01T23:07:12+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Sierra Leone entrepreneurship support organisations begin work towards national association",
+      "source": "Tech Review Africa",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdTBmampPajh6akxOSHFqUjZPOWZVeDBFblBPTlJlU3puWTBfeDJzTkh1UDFXekk4WGlVRDIxSUVSdXV1V01wOWNla0t1OHBYaGh2eFBCS2JOV3psZVRGTW5UYVB6bUltTzJCSC14RUpUSWRDV3AzWGFLdjIzZVdtRGJmTGJYMmJMSFhJMU9Xc3NfeDFGMjhPWXpXYnBhWDJUaVR0SFRVVkFZSHVRZ3FCLXBDMWhVTnRnV3BGR1NtdnNFVXRSdG92N3BB?oc=5",
+      "publishedAt": "2026-10-01T22:28:53+08:00"
+    },
+    {
+      "title": "EU halts Sierra Leone aid over harbouring of infamous Dutch drug lord",
+      "source": "The Brussels Times",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUXBVQVdfM2tsdUlhMVlMbHRDdF80aEI5UHpXUEYzTzNSWGNnUm8yeV91NThncFV4SUFPWWctVktCem1ZZ2tUV0pGel84YktsRmRRSm1YTVB6amZwQVVyODdqWGhhZWVOMG9ydFk1RHp3NVJEWGxobTllOVExdmd3aF9QZHdwNjdndWlabFhNZS1QV3Zzb1RiTFJyZmtPN0VxM0J1ei1ZMkRES1czTlhLQ2VkckpCOEk4NGtUYmxpa0lucmhtal9TekR1ZENlamFGc1JFRnJPU3RrSVZFVDNpbTdoX3FXNUtzVXluWmw4Y3JoNlVUQkd0aTNMdE5LZw?oc=5",
+      "publishedAt": "2026-10-01T21:02:20+08:00"
+    },
+    {
       "title": "EU cuts aid to Sierra Leone over its help to convicted cocaine kingpin, Netherlands says",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNENiczFXQVFKeTZ1Sll6X29qMjVoOTdDQ25fMlFUTkhZdVFPUF9xajNEM291QUdUZTIyMkUxeUVmREZNRkdiVDJGYTRnQmMyYW1nSnFVcmZnTXZCSjJVdWZUenRrMjRVTmlOOGJfdXZFQWlqVjVFZnF2OVM3eWtTWVI3QnVfUC1zZi1ZLTJRVm03dzVMVWI2anhPUUdpWkE0QXRJb0tuUWE1WEtibVdUS2ItaFNfU2Zubmc?oc=5",
-      "publishedAt": "2026-10-01T16:57:47+08:00"
+      "publishedAt": "2026-10-01T20:44:41+08:00"
     },
     {
       "title": "EU halts aid funds to Sierra Leone over Bolle Jos extradition",
       "source": "DutchNews.nl",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZy1YdmpJazlZUGluZzh0aXdVLU1RRFVHVGZmWlRpdzhyTENoM3c2NGRqNm5vVDFfM2V6WThoU0xoRUk4XzQyUTZPaUd1OE5ZcDhxeGcteklCNS1HcF9FYkdDbGRReDZzaDFDaDlsY3FUQjhyZWVsb2pIMEN1eVZxQ0l0NzBLWXQ0Q0RJdDdxdmtxZnlMNnJCbGt5aw?oc=5",
       "publishedAt": "2026-10-01T16:51:27+08:00"
+    },
+    {
+      "title": "EU halts millions in budget support to Sierra Leone over fugitive Dutch drug lord",
+      "source": "brusselssignal.eu",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONkphb2JZd1I1cktKU1JQaTV6M1c3eW1WeksxU1JtdkVTUkVZa1BRNzRZRlNRRFE0ZTAzb2gwSTI2dE1qQ0l5azBKSWlIRkRUcENfWVpjOWhmSE9uRE52MnRnYmtuT3ZkLUhjZEVGUVBscVJfLUdRaXRXVlZfWUhrOXMzQTQtSFpaMDVMdTlkWVVjV2xnY1F4Z1d3b0VJWkFhQnZNalB6NFdvT1NzU0dHR0lXTWdIeXM?oc=5",
+      "publishedAt": "2026-10-01T15:41:34+08:00"
     },
     {
       "title": "Europe stops aid to Sierra Leone over refusal to extradite Dutch drug fugitive Bolle Jos",
@@ -58,24 +76,6 @@
       "source": "International Service for Human Rights",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcDNYZjRXNW5mUjd6LTBrRTNMa1AxWGROZVdPcHBheDFpMW1SUXdyenV4amVJNTRvSkdtdU12dTF0TlVfRUhZUDJCWk53ZnlJNXRrVTc0QjFtRnIwbFEwWlNEZmZoaUw1Q0tDWlk0bmg3akVDLURaVWttb2FoZXVkQ1F4azlQcFZQLU1sTWoxYXlxY0xYbHhGdjNnN2pqbTBBekwwRFNZa2hjQ2FoYVByNEdER1Q1TDNiSjRHYWZfU3g4VGZHaWh1ZGRaSGlGdFFiN2c?oc=5",
       "publishedAt": "2026-09-30T23:03:11+08:00"
-    },
-    {
-      "title": "Kenya, Sierra Leone explore AI partnership to enhance public services and education",
-      "source": "Tech Review Africa",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVFp3WEhyMmxoWGlaa2NwRk93Ylo2UlNNMFNvVGZuSGxkbXBnSVBaMWZLUDkxLVlscGVjMGd3bmRuZWNsQldGZ2Vad2hwc2N1S2NhM3p4ZkpCQTJQcXhoYWVrTi1QNDlzOEhEWUtHYml2a3Fxc1hZbGtCazF5RjE4dzNxNUd4OWU4MWR6QmdHN0VrVlExRUZoX1c4RkdBLXBxSEoyMjF1MUVObWFicUFUM1p1cDh3YVhKNUZLN3Nn?oc=5",
-      "publishedAt": "2026-09-29T22:09:38+08:00"
-    },
-    {
-      "title": "Equatorial Guinea vs Sierra Leone Live Stream: How to Watch 2027 Africa Cup of Nations Qualifiers",
-      "source": "fubo.tv",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNcjNabkFmMWxDQ2lTVGZqQXBQMWRxbjhmWU5WRVR3YTNlSVU2bHNpRjlrWTNDbmhYVW1YOEtHQldRVTNvSGxRRW1yWFlQeVJGb1FWeTl6RU1nRnFKRkZSbFg2LXhTX1pxc0cyYVptRGZ6Z3NkX2duTTZDT2ppbEs4N21ocGhVRTRQSjUzd3R2MTgwZVc1NFUwenk1elU1a2psUjN0QVl1Tms0LTdhMjlCZmNkQ3J2RURRN0doYkpkQXdKVWRtTVRIYjRKR2dwT05zYkgwcmhOZEdCWm5HanFwSDdod016S2Z0eHp6SnBTVGN0UQ?oc=5",
-      "publishedAt": "2026-09-28T21:03:29+08:00"
-    },
-    {
-      "title": "Equatorial Guinea vs Sierra Leone: Africa Cup of Nations Qualification stats & head-to-head",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9mYzFCeDZIZWZOcWNaM05xeklxbTQtMUZCT2hLY2JpX2c4dEJyVDJsNVUxSEhpYUNQQUZKcTBaek1iYnd5MjVEZ0pOQzhOTEx0SVpRaEZFa1dscDU2TjIxdGZTOG1EQQ?oc=5",
-      "publishedAt": "2026-09-28T15:00:00+08:00"
     }
   ]
 }

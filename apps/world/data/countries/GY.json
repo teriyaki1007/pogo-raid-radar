@@ -1,7 +1,7 @@
 {
   "iso2": "GY",
   "name": "Guyana",
-  "updatedAt": "2026-10-01T17:05:15+08:00",
+  "updatedAt": "2026-10-01T23:07:12+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,26 +30,44 @@
   ],
   "headlines": [
     {
+      "title": "Where to watch Dominica vs Guyana: TV channel and live stream for CONCACAF Nations League",
+      "source": "goal.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkRTZzhNeTBZZjRIWWZyY3EyUmtFcTVQanQwMXJSN0t6UGhEeE9qNUxHa3VQaGFIMEo0ckppdXJ1MHY3QlJGNy1SWDVHb2xDdDBicVVaNHZ6UDI4dVdxRzB4N2dEMm5oLWNKU0EwMzNKVEN0RFRWa3BQUFZvazlYLV82ckdpSXZSTVlIQUJsbnhfQ3A1dTZnMkhmMG9CSXBycGJ6el93?oc=5",
+      "publishedAt": "2026-10-01T22:34:01+08:00"
+    },
+    {
+      "title": "Guyana courts may see rise in asset-freezing and forfeiture cases, AG says",
+      "source": "Caribbean National Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU2dTOXcydTFqQnBlem53bjBEaUZLZVk0Mm1OdTlGOXRqa0RDeUczTXdQdGNSbXpnbmhqOW94eE5pQWozX2VnUHJkanB2d29PS3l0bE1NT21SUndFZkNLTmpDUFlWNGI5V2VWMkZVMlJNNkEzXzZKRVJ4b1ZpV3E3bmpPNTlZVDNLZjh4OFFJNkxMakUwSTNNVW1BRFZRX3hJRVczLUtvd3JleGVLOWhPVlBqbldvV3FER3NR?oc=5",
+      "publishedAt": "2026-10-01T22:25:17+08:00"
+    },
+    {
+      "title": "Guyana Football Federation addresses 'distressing detention' of Neron Barrow in Puerto Rico",
+      "source": "News Room Guyana",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWRIZmlxRldqLW01MFhva1JhQWRvQXBib08yWU12empvZVJRNF9td2lwQWRyOW1qV0xzanU1NlVvZTJQS1gwUzNEUkhiNWNyT1hfUHR1M2tabTZvZmNUUjdwcTVXWWRseWRqamdad3FFR2JkYWVNbVo5dTZ4dW16VjhxRWZ1ZHRIWEFUOFQ5VlJTVS1xejAtXzljcFBsdW1Kam13OE1tMHRjTlV1aWJTY1dyaTRfQTBGanFicm1B?oc=5",
+      "publishedAt": "2026-10-01T18:08:51+08:00"
+    },
+    {
+      "title": "Guyana step up 2027 CARIFTA Games preparations with formation of Local Organising Committee",
+      "source": "News Room Guyana",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdWVvMURwMjM0dEliWXpOVGE2N010NzQ0cGhQanp2ZzcwNDA2aWp2VWh4clZ3YkdFMWpIU1NTNUJtSGVyWUVaa2hLdHVHY2pVeG5Bb1R5bjFKSE9Fci1ESmVpWWFFRUdjaGwzWmJ6RkdDMnVmVk9OQjkzS1FXQjBIN2t5R0x1T0FLYW1GeS1rRjdLeUZpaXdsZmpyQTdPTU9oUk5xRXgtRU4ydzl0TXIyS1Y4c09QQTRiSzFDWnV4d04?oc=5",
+      "publishedAt": "2026-10-01T17:44:03+08:00"
+    },
+    {
+      "title": "Guyana, Canada's Niagara College partner to shape curriculum for new hospitality and tourism training institute",
+      "source": "Guyana Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaDlLeG5aQUlRZXRaSjBLdkNpTjVSRTFIbUhFWU1JTGZTOGRzYnV2MWNid3Fya0dxTDJKRHEzb0Z6M1ltQzFzTHZvT25tSEpJRUZ2eG43X0tfXzh5bDJRQXQ1NGN3Mkt2UGV5bG1ydWRqWW1RNzdPS2dvdDlBZk5LYlZMYmlBRWdIZkktN21aUGtvX1lzYVdwcnlLWDRoNkk5bDhvYVhjSTVGeXB4TjdhWEpzbmpsM21vcEtYbmlBNEJNNmpFeWlVMncycFRxdkMxWkw1N0N4OUE3ZVEwWXNBT3FEZw?oc=5",
+      "publishedAt": "2026-10-01T17:25:45+08:00"
+    },
+    {
       "title": "Guyana targets global aviation training hub – President Ali says",
       "source": "Guyana Chronicle",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcHpzMTg1bm5zbjhscW9SbkVVWUExYzVMd2l5dTkzOWFEWnM2aTNCUzl2dnczWXNPR05KVzNXNXRqVXRNVG9wbWRyVHFqR0hEY0szYTlWM3pRSVBtOVFDWGNQckNQQkpaYzNrUEw5UWpROGpocjA3cUtPYno5MVNRRE1nQTRIbWYwblFPckpycThXdVF4YmpnMlFJUWxRQWd0WUNJdQ?oc=5",
       "publishedAt": "2026-10-01T16:55:01+08:00"
     },
     {
-      "title": "Where to watch Dominica vs Guyana: TV channel and live stream for CONCACAF Nations League",
-      "source": "Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSkRTZzhNeTBZZjRIWWZyY3EyUmtFcTVQanQwMXJSN0t6UGhEeE9qNUxHa3VQaGFIMEo0ckppdXJ1MHY3QlJGNy1SWDVHb2xDdDBicVVaNHZ6UDI4dVdxRzB4N2dEMm5oLWNKU0EwMzNKVEN0RFRWa3BQUFZvazlYLV82ckdpSXZSTVlIQUJsbnhfQ3A1dTZnMkhmMG9CSXBycGJ6el93?oc=5",
-      "publishedAt": "2026-10-01T16:33:59+08:00"
-    },
-    {
-      "title": "Guyana, DR forge partnership for sustainable aviation, decarbonisation",
-      "source": "Guyana Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZW0xZHVSNHBQdEoyS3FsWHN4WmgxOV90aGxyNDBvN1dOU1F6U1p1MUpqRFpHREdxM1R5aVRnTjFPTTVUVmd5Tm1KLS1pN2pLN3RSYWxNYkZndUVsV3ZSWE1mdndEc2FIbmVlWWtkdmwzNUM3dmxPWGMzcnZsem03RTRIVVVjeVJSZlBPSkx1Q21mSWQ2dlJvNE5wM25Qbk9mVE4tZVBibjBCX20w?oc=5",
-      "publishedAt": "2026-10-01T16:15:17+08:00"
-    },
-    {
       "title": "How Guyana Became Richer Per Capita Than the United States",
-      "source": "Latin Times",
+      "source": "latintimes.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV1cxWDBpTTJQQktybkJCMzhZb2ZYZEQxUmhCX3ZwQ0pWZ2hIb0ZMLXh3N0NwMUYwbS1oUzBtNzNLdG9IUXUzY1BCamE4M2pnR2Y5Z0N2RzVwMmpTYXM2QzdXYUFuanZWbWNZNGZRTWplaUtmS0RzRzdOcEVHdlJoYzBZRmg1M1FHR1Jv?oc=5",
       "publishedAt": "2026-10-01T10:26:46+08:00"
     },
@@ -58,24 +76,6 @@
       "source": "BeSoccer Livescore",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQVGdpTDN4SjJjT3hjTWpfT0htWlEzRjJuSWItRVZ5MG9TZjZiM0RNR3A0WVdMbDYxblIzTWh5aXNyVDQwZ1lHTXd0TlAzUkhlckVtWmg4LU5Od0xmY2Ewazg3Z2o3aHM?oc=5",
       "publishedAt": "2026-10-01T08:31:32+08:00"
-    },
-    {
-      "title": "Guyana, Dominican Republic forge partnership for sustainable aviation",
-      "source": "News Room Guyana",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTi1hbkJrOGpaTGNGeEhZSG1oUnNOVV9vR21oM1dHa2Y3aVpoSUZUTFZNWWgtOTFvX3lkSmtEWUJMOTRPeF84NzZ2ZE5wMG1ubWx6dFJzRGEzYk5uNnVXYVA4QVlyQzlRc3ZvT3hZSHYtNW5LRlFfTVpPREZPdFR4NHUyNnVvMGJzelBzMEdOeDdmWVUyZ2Rld3RiemkyUmtueVE?oc=5",
-      "publishedAt": "2026-10-01T07:23:48+08:00"
-    },
-    {
-      "title": "Guyana & Greece sign Air Services Agreement",
-      "source": "News Room Guyana",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBjRDFOOVpURDZRNGlYZUVzLUk3N0JqQ3hyb1VoVkhVWGVyeXJnNzVfUnhGME1xLXBLX2pFNWxHN0pxWjlHTjJLSzR2V1ZWSnJpRUpiaU9rakIyRXVDMW5jUGlqT1AzT1IyRUN5cGd6NmQ2MG9ral9Eb1JHaUdWdw?oc=5",
-      "publishedAt": "2026-10-01T06:58:46+08:00"
-    },
-    {
-      "title": "Dominica v Guyana Odds",
-      "source": "FanDuel Sportsbook",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY3VKZkVmVHg3VnZMWFVEblJzQTQxcE9UUDFRNlE1a21IODRaS0RrUzVmSS1GOWt1Y3dWOC1Cd25NNGpvVEVQWXR4eTBQOWVSbjNCUHA3SlNxVWZpWThCZGI5ODdqRTZPWGpteFU2aUJjalN3VFZGMXdmYVp0aWtjaGh2eVNSTHM4MEtBMnVnTEhTTDJR?oc=5",
-      "publishedAt": "2026-10-01T05:49:13+08:00"
     }
   ]
 }
