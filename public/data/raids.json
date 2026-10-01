@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-09-30",
-    "asOfLabel": "30 Sep 2026 ~10:35 PM HKT",
+    "asOf": "2026-10-02",
+    "asOfLabel": "2 Oct 2026 ~6:35 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE (Wed 30 Sep 6:00 AM – Tue 6 Oct 10:00 PM local): Xerneas 5★ + Mega Victreebel. Leek Duck / GO Hub republished 1★ (Galarian Farfetch'd, Galarian Zigzagoon, Combee, Honedge) + 3★ (Miltank, Hisuian Lilligant, Dondozo). Raid Hour Xerneas Wed 30 Sep 6–7 PM ended. Shadow 1★/3★ daily; next Shadow 5★ weekend Sat–Sun 3–4 Oct (Thundurus Incarnate through ~6 Oct). Harvest Festival: Applin Picking LIVE (→ Mon 5 Oct 8:00 PM). Taken Over / Shadow Zekrom Fri 2 Oct. Spotlight Seedot Thu 1 Oct 6–7 PM.",
-      "endsAtLabel": "Xerneas / Mega Victreebel → Tue 6 Oct 10:00 PM · Next Shadow 5★ weekend → Sat–Sun 3–4 Oct · Harvest Festival → Mon 5 Oct 8:00 PM · Taken Over → Fri 2 Oct · Seedot Spotlight → Thu 1 Oct 6–7 PM"
+      "text": "LIVE (Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local): Harvest Festival: Taken Over — Giovanni Shadow Zekrom (GO Pass Super Rocket Radar), new Shadows Wimpod / Fomantis / Sandygast, Frustration removable with Charged TM, balloons every 2h. Raids still Xerneas 5★ + Mega Victreebel (→ Tue 6 Oct 10:00 PM). Shadow 1★/3★ daily; Shadow 5★ Thundurus Incarnate weekend Sat–Sun 3–4 Oct (through ~6 Oct 8:00 PM). Applin Picking continues through Mon 5 Oct 8:00 PM. Seedot Spotlight (Thu 1 Oct) ended.",
+      "endsAtLabel": "Taken Over / Shadow Zekrom → Mon 5 Oct 8:00 PM · Applin Picking → Mon 5 Oct 8:00 PM · Xerneas / Mega Victreebel → Tue 6 Oct 10:00 PM · Shadow 5★ weekend → Sat–Sun 3–4 Oct"
     },
     "legend": {
       "standard": {
@@ -1171,17 +1171,17 @@
     },
     {
       "id": "shadow-weekend-oct3",
-      "when": "Sat–Sun 3–4 Oct 2026",
-      "title": "Shadow 5★ weekend",
-      "impact": "Shadow Thundurus Incarnate returns for the weekend (through ~6 Oct package end).",
-      "urgent": false
+      "when": "Sat–Sun 3–4 Oct 2026 (next)",
+      "title": "Shadow 5★ weekend — Thundurus Incarnate",
+      "impact": "Next Shadow 5★ window. Package through ~6 Oct 8:00 PM local.",
+      "urgent": true
     },
     {
       "id": "harvest-taken-over",
-      "when": "Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local",
-      "title": "Harvest Festival: Taken Over",
-      "impact": "Team GO Rocket Takeover: Giovanni with Shadow Zekrom (Super Rocket Radar via Harvest GO Pass). Grunt/leader lineups change when the event starts — watch Rocket tab (Leek Duck).",
-      "urgent": false
+      "when": "Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local (LIVE)",
+      "title": "Harvest Festival: Taken Over (LIVE) — Shadow Zekrom",
+      "impact": "Giovanni active with Super Rocket Radar (GO Pass). Leaders refreshed (Cliff Cubone / Sierra Pancham / Arlo Alolan Grimer). New Grunt Shadows: Wimpod, Fomantis, Sandygast. Frustration removable; wider IV variance on 1★/3★ Shadow raids.",
+      "urgent": true
     },
     {
       "id": "xerneas-victreebel",
@@ -1199,9 +1199,9 @@
     },
     {
       "id": "spotlight-seedot",
-      "when": "Thu 1 Oct 6:00–7:00 PM local",
-      "title": "Spotlight: Seedot",
-      "impact": "Wild spotlight only (2× Catch XP) — not a raid list change (GO Hub).",
+      "when": "Thu 1 Oct 6:00–7:00 PM local (ended)",
+      "title": "Spotlight: Seedot (ended)",
+      "impact": "Wild spotlight only — ended.",
       "urgent": false
     }
   ]

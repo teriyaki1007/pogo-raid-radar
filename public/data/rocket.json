@@ -1,46 +1,51 @@
 {
   "meta": {
-    "asOf": "2026-09-27",
-    "asOfLabel": "27 Sep 2026 ~10:30 PM HKT",
-    "lineupsUpdated": "2026-06-25 (Leek Duck, still current as of 27 Sep 2026 evening); grunt/leader tables confirmed via Sportskeeda / Dexerto / Attractmo Sep 2026 guides",
+    "asOf": "2026-10-02",
+    "asOfLabel": "2 Oct 2026 ~6:35 AM HKT",
+    "lineupsUpdated": "2026-10-02 (Taken Over LIVE): Giovanni + Leaders from GO Hub Oct 1 guides + Leek Duck event page; Leek Duck rocket-lineups HTML still dated Jun 25 / pre-event Reshiram as of refresh — GO Hub used for live Taken Over tables. Grunt full tables not yet republished with Wimpod/Fomantis/Sandygast placements.",
     "sources": [
+      {
+        "name": "GO Hub Giovanni (Oct 2026)",
+        "url": "https://pokemongohub.net/post/guide/rocket-boss-giovanni-counters/"
+      },
+      {
+        "name": "GO Hub Arlo (Oct 2026)",
+        "url": "https://pokemongohub.net/post/guide/rocket-leader-arlo-counters/"
+      },
+      {
+        "name": "GO Hub Cliff (Oct 2026)",
+        "url": "https://pokemongohub.net/post/guide/rocket-leader-cliff-counters/"
+      },
+      {
+        "name": "GO Hub Sierra (Oct 2026)",
+        "url": "https://pokemongohub.net/post/guide/rocket-leader-sierra-counters/"
+      },
+      {
+        "name": "Leek Duck Harvest Festival: Taken Over",
+        "url": "https://leekduck.com/events/harvest-festival-taken-over-2026/"
+      },
       {
         "name": "Leek Duck Rocket Lineups",
         "url": "https://leekduck.com/rocket-lineups/"
       },
       {
-        "name": "Sportskeeda Grunt Guide (Sep 2026)",
-        "url": "https://www.sportskeeda.com/pokemon/pokemon-go-rocket-grunts-counters"
-      },
-      {
-        "name": "Dexerto Grunt Guide (Sep 2026)",
-        "url": "https://www.dexerto.com/pokemon/pokemon-go-rocket-grunt-guide-counters-and-lineups-1576357/"
-      },
-      {
-        "name": "Attractmo Leader Guide (Sep 2026)",
-        "url": "https://attractmo.de/game-guides/pokemon-go-september-2026-rocket-leader-guide"
-      },
-      {
-        "name": "Polygon Giovanni Guide",
-        "url": "https://www.polygon.com/pokemon-go-guide/23581491/giovanni-counters-team-go-rocket/"
-      },
-      {
-        "name": "Leek Duck Harvest Festival: Taken Over",
-        "url": "https://leekduck.com/events/harvest-festival-taken-over-2026/"
+        "name": "Serebii Taken Over",
+        "url": "https://www.serebii.net/pokemongo/events/harvestfestival:takenover.shtml"
       }
     ],
     "notes": [
       "Grunt * marks possible shiny Shadow encounter after the battle (per community guides).",
       "Italic/encounter conventions vary by site — first-slot Pokémon are typical catch rewards; not all phase-2/3 are catchable.",
       "Counters are brief type-based / guide picks — not exhaustive Pokebattler rankings.",
-      "Balloon invasions: Grunts and Leaders can appear in Team GO Rocket balloons; frequency rises during Takeover events.",
-      "Next Takeover: Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct 2026) debuts Shadow Zekrom; Grunt/Leader lineups change when the event starts (Leek Duck). New Shadows: Wimpod, Fomantis, Sandygast."
+      "Balloon invasions: Grunts and Leaders can appear in Team GO Rocket balloons; frequency rises during Takeover events (balloons every 2h during Taken Over).",
+      "LIVE Takeover: Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct 2026). New Shadows from Grunts: Wimpod, Fomantis, Sandygast — specific grunt taunt placements not yet published on Leek Duck as of this refresh; existing grunt tables retained as pre-event baseline.",
+      "Leaders (GO Hub Oct 1): Cliff Cubone; Sierra Pancham; Arlo Alolan Grimer. Giovanni reward: Shadow Zekrom."
     ]
   },
   "notes": [
     "Defeat 6 Grunts for Mysterious Components → Rocket Radar → Leaders (Arlo / Cliff / Sierra).",
-    "Super Rocket Radar (GO Pass during Takeovers) is required to find Giovanni; he appears at PokéStops during recent Takeovers (not balloons).",
-    "As of 27 Sep 2026 evening there is no active Takeover; Giovanni access depends on leftover Super Rocket Radars until Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct)."
+    "Super Rocket Radar (GO Pass: Harvest Festival) required for Giovanni at PokéStops (not balloons).",
+    "LIVE: Harvest Festival: Taken Over (Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local) — rescue Shadow Zekrom from Giovanni; Frustration removable with Charged TM."
   ],
   "grunts": [
     {
@@ -2655,14 +2660,14 @@
       "lineups": [
         [
           {
-            "name": "Amaura",
-            "shinyEncounter": null,
-            "pokeapiId": 698,
+            "name": "Pancham",
+            "shinyEncounter": true,
+            "pokeapiId": 674,
             "sprite": {
-              "pokeapiId": 698,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png"
+              "pokeapiId": 674,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/698.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/674.png"
           }
         ],
         [
@@ -2731,30 +2736,39 @@
         ]
       ],
       "weakTo": [
-        "Fighting",
-        "Water",
+        "Fairy",
+        "Flying",
+        "Psychic",
+        "Ice",
         "Fire",
-        "Ground"
+        "Fighting"
       ],
       "counters": [
         {
-          "name": "Terrakion",
-          "moves": "Double Kick / Sacred Sword"
+          "name": "Togekiss",
+          "moves": "Peck / Dazzling Gleam / Aura Sphere",
+          "notes": "GO Hub sample vs Pancham / Flygon"
+        },
+        {
+          "name": "Primarina",
+          "moves": "Charm / Hydro Cannon",
+          "notes": "Fairy + Water coverage"
         },
         {
           "name": "Lucario",
           "moves": "Force Palm / Aura Sphere"
         },
         {
-          "name": "Reshiram",
-          "moves": "Fire Fang / Fusion Flare"
+          "name": "Swampert",
+          "moves": "Mud Shot / Hydro Cannon"
         },
         {
-          "name": "Kyogre",
-          "moves": "Waterfall / Origin Pulse"
+          "name": "Mamoswine",
+          "moves": "Powder Snow / Icicle Spear",
+          "notes": "vs Flygon / Houndoom / Steelix"
         }
       ],
-      "notes": "Leads with Shadow Amaura (Rock/Ice). Scout phase 2/3 before final team."
+      "notes": "Taken Over lead Shadow Pancham (Fighting; shiny eligible ~1/64 community estimate). Phase 2/3 same pool as late-Sep (Flygon/Blastoise/Ferrothorn → Houndoom/Steelix/Milotic) per GO Hub Oct 1."
     },
     {
       "name": "Arlo",
@@ -2762,14 +2776,14 @@
       "lineups": [
         [
           {
-            "name": "Tyrunt",
-            "shinyEncounter": null,
-            "pokeapiId": 696,
+            "name": "Alolan Grimer",
+            "shinyEncounter": true,
+            "pokeapiId": 88,
             "sprite": {
-              "pokeapiId": 696,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png"
+              "pokeapiId": 88,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10112.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/696.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png"
           }
         ],
         [
@@ -2838,30 +2852,38 @@
         ]
       ],
       "weakTo": [
-        "Water",
-        "Fire",
         "Ground",
-        "Fighting"
+        "Fire",
+        "Water",
+        "Fighting",
+        "Dark"
       ],
       "counters": [
         {
-          "name": "Reshiram",
-          "moves": "Fire Fang / Fusion Flare"
+          "name": "Therian Landorus",
+          "moves": "Mud Shot / Sandsear Storm",
+          "notes": "GO Hub lead vs Alolan Grimer"
         },
         {
-          "name": "Kyogre",
-          "moves": "Waterfall / Origin Pulse"
+          "name": "Yveltal",
+          "moves": "Sucker Punch / Dark Pulse",
+          "notes": "vs Slowbro / Golurk / Alakazam"
         },
         {
-          "name": "Tyranitar",
+          "name": "Charizard",
+          "moves": "Fire Spin / Blast Burn",
+          "notes": "vs Scizor / Steelix"
+        },
+        {
+          "name": "Excadrill",
+          "moves": "Mud-Slap / Drill Run"
+        },
+        {
+          "name": "Hydreigon",
           "moves": "Bite / Brutal Swing"
-        },
-        {
-          "name": "Chandelure",
-          "moves": "Hex / Shadow Ball"
         }
       ],
-      "notes": "Leads with Shadow Tyrunt (Rock/Dragon). Fire helps vs Steelix/Scizor."
+      "notes": "Taken Over lead Shadow Alolan Grimer (Poison/Dark; Ground-weak; shiny eligible). Phase 2/3 unchanged vs prior rotation per GO Hub Oct 1."
     },
     {
       "name": "Cliff",
@@ -2869,14 +2891,14 @@
       "lineups": [
         [
           {
-            "name": "Axew",
-            "shinyEncounter": null,
-            "pokeapiId": 610,
+            "name": "Cubone",
+            "shinyEncounter": true,
+            "pokeapiId": 104,
             "sprite": {
-              "pokeapiId": 610,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png"
+              "pokeapiId": 104,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png"
           }
         ],
         [
@@ -2891,22 +2913,12 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
           },
           {
-            "name": "Golurk",
-            "shinyEncounter": null,
-            "pokeapiId": 623,
-            "sprite": {
-              "pokeapiId": 623,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png"
-          },
-          {
-            "name": "Galarian Weezing",
+            "name": "Weezing",
             "shinyEncounter": null,
             "pokeapiId": 110,
             "sprite": {
               "pokeapiId": 110,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10167.png"
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
           }
@@ -2945,47 +2957,46 @@
         ]
       ],
       "weakTo": [
-        "Fairy",
-        "Fighting",
         "Water",
-        "Ground"
+        "Grass",
+        "Ice",
+        "Fighting",
+        "Ground",
+        "Fairy"
       ],
       "counters": [
         {
-          "name": "Togekiss",
-          "moves": "Charm / Dazzling Gleam"
+          "name": "Mamoswine",
+          "moves": "Powder Snow / Icicle Spear",
+          "notes": "GO Hub — Cubone / Weezing / Tyranitar"
         },
         {
-          "name": "Terrakion",
-          "moves": "Double Kick / Sacred Sword"
+          "name": "Lucario",
+          "moves": "Force Palm / Aura Sphere",
+          "notes": "vs Snorlax / Tyranitar"
         },
         {
-          "name": "Kyogre",
-          "moves": "Waterfall / Origin Pulse"
+          "name": "Primarina",
+          "moves": "Charm / Disarming Voice",
+          "notes": "vs Tyranitar / Gallade / Camerupt"
         },
         {
-          "name": "Groudon",
-          "moves": "Mud Shot / Precipice Blades"
+          "name": "Garchomp",
+          "moves": "Mud Shot / Earth Power"
         },
         {
-          "name": "Gardevoir",
-          "notes": "Dexerto sample team with Lucario + Swampert"
-        },
-        {
-          "name": "Lucario"
-        },
-        {
-          "name": "Swampert"
+          "name": "Baxcalibur",
+          "moves": "Dragon Breath / Icy Wind"
         }
       ],
-      "notes": "Leads with Shadow Axew. Varied team — scout recommended."
+      "notes": "Taken Over lead Shadow Cubone (Ground). Slot 2 is Snorlax or Kanto Weezing (not Galarian) per GO Hub Oct 1; slot 3 Tyranitar / Gallade / Camerupt."
     }
   ],
   "giovanni": {
     "name": "Giovanni",
     "quote": "I will not tolerate your interference.",
-    "active": "conditional",
-    "activeNote": "No Takeover active on 27 Sep 2026 evening. Requires Super Rocket Radar (GO Pass during Takeovers). Leftover radars may still work. Next: Harvest Festival: Taken Over (2–5 Oct) — Shadow Zekrom; radar available via Harvest Festival GO Pass (starts 29 Sep).",
+    "active": true,
+    "activeNote": "LIVE during Harvest Festival: Taken Over (Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local). Requires Super Rocket Radar from GO Pass: Harvest Festival; appears at PokéStops only (not balloons).",
     "lineups": [
       [
         {
@@ -3033,49 +3044,57 @@
       ],
       [
         {
-          "name": "Reshiram",
-          "shinyEncounter": null,
-          "pokeapiId": 643,
+          "name": "Zekrom",
+          "shinyEncounter": true,
+          "pokeapiId": 644,
           "sprite": {
-            "pokeapiId": 643,
-            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png"
+            "pokeapiId": 644,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png"
           },
-          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/643.png"
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/644.png"
         }
       ]
     ],
-    "legendary": "Reshiram",
-    "legendaryNote": "Last published finale is Shadow Reshiram (since Flying Taxi / mid-2026 Takeover guides). Next Takeover (Harvest Festival: Taken Over, 2–5 Oct 2026) debuts Shadow Zekrom — Giovanni's full Oct lineup not published yet as of 27 Sep; Leek Duck rocket page still shows pre-event lineups.",
+    "legendary": "Zekrom",
+    "legendaryNote": "Shadow Zekrom debut (Electric/Dragon). Catch after defeating Giovanni. Shiny available per event materials.",
     "weakTo": [
       "Fighting",
-      "Water",
       "Ground",
-      "Rock",
-      "Ice"
+      "Ice",
+      "Dragon",
+      "Water",
+      "Grass"
     ],
     "counters": [
       {
-        "name": "Machamp",
-        "notes": "Persian / Kangaskhan / Machamp"
+        "name": "Lucario",
+        "moves": "Force Palm / Power-Up Punch / Aura Sphere",
+        "notes": "GO Hub lead — Persian / Rhyperior / Kangaskhan"
       },
       {
-        "name": "Terrakion",
-        "notes": "Fighting lead coverage"
-      },
-      {
-        "name": "Groudon",
-        "moves": "Mud Shot / Precipice Blades",
-        "notes": "vs Reshiram"
+        "name": "Mewtwo",
+        "moves": "Psycho Cut / Psystrike",
+        "notes": "vs Machamp"
       },
       {
         "name": "Rhyperior",
-        "moves": "Smack Down / Rock Wrecker",
-        "notes": "vs Reshiram"
+        "moves": "Mud-Slap / Breaking Swipe",
+        "notes": "safer vs Zekrom (GO Hub)"
+      },
+      {
+        "name": "Therian Landorus",
+        "moves": "Mud Shot / Sandsear Storm",
+        "notes": "vs Zekrom"
       },
       {
         "name": "Garchomp",
-        "moves": "Mud Shot / Earth Power",
-        "notes": "vs Reshiram"
+        "moves": "Dragon Tail / Breaking Swipe",
+        "notes": "vs Zekrom"
+      },
+      {
+        "name": "Primal Groudon",
+        "moves": "Mud Shot / Precipice Blades",
+        "notes": "vs Zekrom"
       }
     ]
   }
