@@ -1,7 +1,7 @@
 {
   "iso2": "CD",
   "name": "DR Congo",
-  "updatedAt": "2026-10-02T11:09:19+08:00",
+  "updatedAt": "2026-10-02T17:12:11+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Ebola death toll in DR Congo tops 4,000",
+      "source": "news.cgtn.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8wY3pFMGJHTE9fN1BNMlJOcUxfSjhKN1kwWmc4NkFCbDlkdUtFRGIwWk5VUVVDbnhWY0QybUotWEJ6T3JDbkMxOThjZkkxUWMxY3dvdTIzV3ZuX1lkQnpRbi1GTF9EbnNEenNRSEV3?oc=5",
+      "publishedAt": "2026-10-02T16:49:16+08:00"
+    },
+    {
+      "title": "Thousands Flee Ebola-Hit Camp In DR Congo",
+      "source": "The Whistler Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBKbVhGbVhJYjZQMVd4WExmTTFtNzNSRDRkOUhJZDRmNzdneXFPX1BoSk5KdERoLW1sQUZrMkMzLUVGZnpkODFNaUVOUnU3VVNOWk1KcWV5SW03emh5M3dTWXJZcm5yYURkbkxRRG42YnJxQnc?oc=5",
+      "publishedAt": "2026-10-02T16:24:00+08:00"
+    },
+    {
+      "title": "Ebola-positive aid worker evacuated from DR Congo to Netherlands",
+      "source": "African Insider",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdWFpeGthMHJ5amg3MFBxdVd1UUpzYzJsSmgzNkhNX3FESm84T1cxd2w3cGpHMGtDbjRWYkZfbGRadkU1REpXdUV3MVFCVUR2b2lKTjliR0tiTWZ1eElqZ1J6OEFScFV3dmY5NHZEdzVkOG96X0pNbEJNdHJLaWNHWEhVRS1ZQUhxMHJMQWNQUThVWi1ZQkpuMGxn?oc=5",
+      "publishedAt": "2026-10-02T15:10:25+08:00"
+    },
+    {
       "title": "DR Congo Ebola toll likely higher than reported as insecurity hampers response: MSF",
       "source": "Xinhua",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEaWh2RWY0MUw5dUJJZ1hHTjV3c0NfZHUxMllJci1uU29lMTE4WHpLZFBjeFhVNzRUeTNKVnZxQ1ZPTVByRVl4OWt2b2JmVzQtY3BQbmNfdHBuMkFkZlVLUzVsOGE2U25JYzBqRVlXRlI5R0lxeTEwOVp3SVE?oc=5",
@@ -54,28 +72,10 @@
       "publishedAt": "2026-10-01T23:30:41+08:00"
     },
     {
-      "title": "Rwanda demands accountability for DR Congo failure to neutralise FDLR",
-      "source": "The Eastleigh Voice",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXlBRXlJdFc2eDVMa1V1dFIzb21wYXJpcFVtdWtpMnMwcXh5aExUU0V5aXQtWlZ5cGp6c214czdOUXkwT1ZsZUJoZ1hndDI5QkFtcGd5WWNDZlhTWDFWN2pnVkJhajVNbnRTUzJYcHV3WTVER19feGZYT0hfRGpidEMwcGZWRjJDWm1vYzdqUXpUWDVQY0VxUDRsTndTYkEwRk9XZFBwYlg2WW9oS0dUOHZUNlk?oc=5",
-      "publishedAt": "2026-10-01T21:45:39+08:00"
-    },
-    {
       "title": "Ebola response faces setback as transit centre burns down in DR Congo camp",
       "source": "UN News",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PZ2VIV0hFZTltNGhYMFZETEhWZFU1VVktbzZxVnpQZXRXNXRXclROd04zd194U2laMG9aazNwS2JoTWhGTTBVWkswNHV2eGMzS0U4TU9Sdw?oc=5",
       "publishedAt": "2026-10-01T20:21:06+08:00"
-    },
-    {
-      "title": "Funeral held for DR Congo politician killed after defending Ebola response",
-      "source": "aljazeera.com",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZWVCZy1NeGZ5dzFOUVdQcW42eDBoM1JfSVI2RWJKQnc3VWhsel83VWJVNGVmMlV2bHVmUVhKN2VVNURGLVFrTGZoT1cwT1VEdlZTeEpaaUg1Z3lNRFFQaVVtUkJOcHBtYzFPSXdCRC1tSkF2SnZzOG12d2tUUktOWjFpVHlhSkNzWW9ENlhfSmpRV2pXZDN3dUoyMG1UV3VOM2JfVEtCbUNYUnBNZDZBVWZZcFFjNGwzejd2RUl0d0JrN0XSAcgBQVVfeXFMUFI3X3lybHhtMG9EZWxZVjQzLUkzMUo0WDl6MVlua29VSVd4c2o1eVhrYkJZbEdKV1ZnWngxeGRhMTVzUjltcnpLVkxMSUl4LTctRHRuc09faUpRbVlHaXNyWHd0b1BvUll2ejFfTkYxcmZaSXgwQlh0VUVLZEJackNHa2VmVWpTMGhjR3NXSHppTU1pdjNxdlh3bGdsNy10UVBsc2Y2ajd1S2tLOGJiWDJQY3lhRzROM1k4dDB0eDJaVTBuaW5HdkE?oc=5",
-      "publishedAt": "2026-10-01T20:07:54+08:00"
-    },
-    {
-      "title": "DR Congo vs. Uganda - Live Score - October 02, 2026",
-      "source": "FOX Sports",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcXliWW9yc2hJY1BHN09LMVJfV25vbUl5cG5PUWNKeThNb1o0UE5EMDEyM0JldXYwRHdhQ1Qwb09EVUswb3NIQnZ6bGtvalRmR0JzSXRfLUtxc0hwbUdwbTJqWEUtNVBsLTlSUk10Tng5OTBtdVNRM0p1aXhTZHFlRmJNN0JscW8xMThsenpzdGJNQi1YWU5BX3BpU0xGbWptZFE?oc=5",
-      "publishedAt": "2026-10-01T19:52:00+08:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "iso2": "PA",
   "name": "Panama",
-  "updatedAt": "2026-10-02T11:09:19+08:00",
+  "updatedAt": "2026-10-02T17:12:11+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "First Quantum Minerals: Panama's 'Orderly Closure' Reads Like A Life-Of-Mine Plan (FQVLF)",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNkhCQXdyWThVdzd5UlF4cElrVTVFV0NDclJwQ2RhcGFQdGFtbGZhdFBGcVE5TnROTzNYN1ZTTnFBRGxsZThDdUM1YlR2d3lDUi1ZUlZ2Qmwyb1BxX0dFVGNBc3RPWDFST2ROcm9DY1JTZlVzNTVtQ05rbXdxc0dBRmNiM3pCdFNrWlRiaXh0amxrOHN0M3ZTTnpFV1dVWE9MczRZbmJTMzJXU0FySmd2MGxjeUVMa28tYlE?oc=5",
+      "publishedAt": "2026-10-02T15:53:18+08:00"
+    },
+    {
       "title": "HIGHLIGHTS: Watch how the All Whites beat Panama in Yokohama",
       "source": "Friends of Football",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZXliaWdraVVyaFFDd2xPcTdvVjlFWU94QWZCMGtqYjBoLWxaSk9Xb3dPaGFMN3dBeHNyc1BVSk50WEZtamRBXzJ2bnY1cm5DRVAwSkgyR0FLcjVBTEtrNlR0VGhnVnpEUXloLUhRVEVEcTkxZGlYdVFmazltdGNqaDEyQVY1VVFPRUgwTU1fZC1BeGxwNHQ4amxNNGZ1NUMtXzY5TmVKVVBLMWs?oc=5",
-      "publishedAt": "2026-10-02T08:07:58+08:00"
+      "publishedAt": "2026-10-02T14:19:07+08:00"
     },
     {
-      "title": "Boxing News: Panamanian Former World Title Challenger Carlos \"Macizo\" Trujillo Passes » October 1, 2026",
-      "source": "FightNews",
+      "title": "Veteran artist honors military life in downtown Panama City art exhibit",
+      "source": "WJHG",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc0s2Z3ZzMlhkcjBEZ1lyb1ktWmF4RE5CYnJpeS05Sld0X3dPRUNZY0h0bDNxMUNBSk9DT3BiSEZCMWhPSVBwMjVISUZUalVOYk9lZzkyRlUtWENqdWQyNDV0RzNlU1JMcHRiTHhubzdickNkdTBmMjJVWE9nQ0hnWHFOak5kS1BPWlprdF9xRjdYOENwLVdDbW9Tc3pPbWUzRHNJ0gG3AUFVX3lxTE1zOUNKMnpJT2hNZG05UzF2am9ZbXR4Nks3dVA2SElPOUdPanpNVTFBT3hBSGNFbUZQcmVneW5YajkwZjRsbG00djZaRExZTl9TTmQ2cVhjbTRjMDlJblZfZVhxdGlnUWpoSGxCNkhhaTV5MEd1SUJ0TV9kM3d6QlkxZGFPOGRNbExmbFVzemNNNlZOM2dQSU1fOU9NdXRsVDNvN0lWczFLdXo5UDBwUnhNTHhGMjB2TQ?oc=5",
+      "publishedAt": "2026-10-02T11:50:00+08:00"
+    },
+    {
+      "title": "Korea customs pushes FTA tariffs on U.S. crude via Panama to cut import costs - CHOSUNBIZ",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE80Tkx6UWdIdElCSjFNaG15Q2JNMVBpUDBORGpXR0lrREkwaDV4eFAtUEplbnVtM2puLTh5c0VnMXMxMktUd0xSeDBpNE00RXdiOXp2R295aHJwS3dkNThGYVFVMDY2SHFGR1FTcEp5SHZ5ZUQ5ak9EWDluTFp4cjTSAZMBQVVfeXFMUDNUMGhQTTFNWGhIU09rLWVXOEFPSjRNMlJINUpuMlJhVWw2TDZnQVV6Q1hDT0xWck4xeTFIVk5LOUgwbDZsLVYwMEhCVy1Zd2tTX2VmUHRXSFlZSXpaTkQzbk1icHNVMG54UGVOMG9XUFlKN1ZSZncyQzRVUjl0VGlEZWwxR3haMHkwYkNCcE1wblZJ?oc=5",
+      "publishedAt": "2026-10-02T11:05:00+08:00"
+    },
+    {
+      "title": "Boxing News: Panamanian Former World Title Challenger Carlos \"Macizo\" Trujillo Passes » October 2, 2026",
+      "source": "fightnews.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORkdzaTJPYkRlS1NpcTNXQ1VIcG1sVURGd1M4RXlhVlI5d2lnZjFxcVJPYUdHUzhnN3F3bm01NHp5dG9vY3VyRElvTjFidUh4NktxSVBDb2dTNXktZDhjcHhxSVJVN3FVX21PeXdDSjZOZjNvSkNHbHBYYWhEcTliU29sSUFkVGhsV0t1S2NPNjZ0STNPTVB3Q2ZVT0FJaUQy?oc=5",
-      "publishedAt": "2026-10-02T07:13:39+08:00"
+      "publishedAt": "2026-10-02T07:18:05+08:00"
     },
     {
       "title": "Panama City couple arrested for alleged child abuse",
@@ -58,24 +76,6 @@
       "source": "WJHG",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOGlLMkdoRE00QkVNd09fdVZLNlgzVDZCTHBQak5TVXZOZEJnX2xVaF8zSXBWUnA5UnRtSldDTTI2c0JXRHZwOTY0SW9nNnMyVC1BM3ZPdHpURXBmTzNVZWJMWXB6eV9OQUQtWFdJQ2lzODJGYWRmTTRPbXhYSHF3dk5XOEE1czB0MnBaUXZjWFl2eXFWOHotYi1YVWphbWpUQlFJT0M4Ym5VUUdIS3lNM0xZRkxVTER10gHMAUFVX3lxTE1mMHo2dWMyRHVKSllhbkFpN0k2VmRVUVpUMDZMX1VNbzU1Z1ZiWGp1SzFPT1FaV01xbXZjWjc4MGktUlNWTHRhVG1FUFZOeXRkLUhHZ3BLaG5paVgzVHExMkRtYXB3T0d4cF9FY2dFc2Z2TjU2RmFHUGdDOS0yd2NXNXNyUWFoMnNjaFBIcl96cTVHQ21YYXdtUm5aOUlFcjkyOW1yaXZvNGt3WWRmSEZZRXJNT3o2al8yT3BCVmJJeGF3bzdmeERNRUMxTQ?oc=5",
       "publishedAt": "2026-10-02T02:56:00+08:00"
-    },
-    {
-      "title": "Panama City man arrested on drug, weapon charges after foot chase in Vernon",
-      "source": "WJHG",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWNRcVgzU0EwbEFFaW5nZlp2WVF1ZkxJazRuYW9sVVB5eXd2UDlISE1tbzdTZDRFeUJHVHZPVEt6eE5Sb0dBUTlFdWJFdDRTZ180Wk5xNi1NcTAwWmFELVpHdjFGM2ZjSkhteFJZdUUtcUQ4czF1d0lxVmM1dm9SYjByVHlmSzE4aWp0U1hLNWI3WXV2ZWFyM3gwek9RZXQ0ZTJB?oc=5",
-      "publishedAt": "2026-10-02T01:03:00+08:00"
-    },
-    {
-      "title": "Historic ‘Little Panama Way’ unveiled in Brooklyn",
-      "source": "caribbeanlife.com",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02MTBhVHJGSmFVS3dIdk42MjhvdWdvUWEwaFdBcExzQ25Gd3VXcmJfQWwxZnlWZUt5a1A0RDlvaXlRZDhSS1pSeG1kb1JwUERGTXN6RXAxMmIxSWZyUnVWRi1ISWlweWs5cGxub0VhdDJ4VzNGSm0zYg?oc=5",
-      "publishedAt": "2026-10-01T23:49:41+08:00"
-    },
-    {
-      "title": "How to Protect the Panama Canal",
-      "source": "The National Interest",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QeFBCNGRmLXNhNjRubnFwcFVPSWFYSFBTb19RU2VRdHRkSWJiYmFqOU13d3lCcGZkd2s4OEpCSmZYZ1h5MlhrYkZCR2RwREs3Y2tsVTZXN3pyaHN4dF9YbktCZHlNNnJ2OFZOdF9uYXVZdEN6WWYw?oc=5",
-      "publishedAt": "2026-10-01T22:49:52+08:00"
     }
   ]
 }

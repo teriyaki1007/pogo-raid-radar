@@ -1,7 +1,7 @@
 {
   "iso2": "GL",
   "name": "Greenland",
-  "updatedAt": "2026-10-02T11:09:19+08:00",
+  "updatedAt": "2026-10-02T17:12:11+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,28 @@
   ],
   "headlines": [
     {
-      "title": "Greenland Mines’ Skaergaard gallium–vanadium find: project and geotechnical notes",
-      "source": "Geomechanics.io",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYjByaUFXbGVNeE5BQ0RuaGltVHdVa29UZEJYVTlWclhsdFNoc2dzSXNEZmU2STA3RjJNQXRyOG5HZmZQUE1SZ0VyR1VqWHF0bWVNOVNvOWJ2a0c0akJKWnFkU05WSEJMWUl3UmZrX1pLVHFaM2ZOa25TNmc4dmpaYWdyd2h3MENGQlhNN2lScjZrUktQeGQwdUltU3djd0h4NTd1V2N0VldDZGJHS3UzbGRkdEY4LVRlaFFN?oc=5",
-      "publishedAt": "2026-10-02T08:00:58+08:00"
+      "title": "A unique lake has been discovered beneath the ice in Greenland: Scientists warn of the risks",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdGV5Q2M4UV9VdThGVlNwV2gyVXlzaVViUjB4dlpNYVFfOHR4XzYwMDRoYko4dDRLckFjdTBKNjVOS3VyVE5NaFlhY0F5X3hLV3pFVEpaZHhXZzZ0Mi0yTmV6WHN3VjJObW5ucHRHRjN3emNRd2hjb3dKbW1oWk5SZFAzdHdTSWV3YXVFRDI0LTMwSHFDdWJubmRheFdBb1g4MjhUeV82SQ?oc=5",
+      "publishedAt": "2026-10-02T16:09:54+08:00"
+    },
+    {
+      "title": "Greenland Oil Drilling Moves Closer After Government-Approved Environmental Work",
+      "source": "Streetwise Reports",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPS3BCUzF0MVVweXNYUmhidlhtamdUaGxtenlJbi11a3J4VmRsQnhweEhQaThNd0FJMVBHWnVwV1BVTDlPSWlNNFdYd3NnMW9TVDZoSkpDZC1HcEpxZS1OalIxbVpBeE45OWRLbTFfZ2pDdmZMc21fUGpqV1QwZUtrMDFYMGNKREJ0b1A2QTVoZEFtNUhVNlRpQjVVUzVxMkVXbmRWdkpBM0g1eEUxOVpGZVB2ODdOYVNrV1hNRGtIeGczTlNEQlhwSllxaV9XSVpIeml5Mg?oc=5",
+      "publishedAt": "2026-10-02T15:07:30+08:00"
+    },
+    {
+      "title": "REG - L1 Group Limited Greenland Energy Co. - Form 8.3 Greenland Energy Co",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZWhPV3R3dndBanhadkw1bWNSWjdjTkpIdFhYRC1NRnJTeGNJTVFVc3RiV0gyVTZNcDlRYVRIQWpSYkd1NDlUbDVPSlZGek5DMVdreFZBWE8xeTczS09Lbk1XcFI5VXJNUUhkRlBNczM4cXdtVm9SS0g2VUxXTEl3WXJuRUZCYVNMbTBvb0FIb0ZMdng5cWtiN0FhUXhOQ203UHhuZzc1TGZpVkZWa3NkU1F4WWFXYmJPeS1FZnlZUTd6NERkVVdoQUE5cXlabjh4WWhFbnpQYVFIRG9acGc?oc=5",
+      "publishedAt": "2026-10-02T14:24:00+08:00"
+    },
+    {
+      "title": "Vampire Planet: Yes, Trump Seized Greenland After All",
+      "source": "CounterPunch.org",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaVU0WlFhMk5pRFFvZ1JKNGEzaU4yV3NDQnY0MHVwamtJNUJJdjNsMkFCQUpsWllkbWY4UVNQcDJpYXpEWG0ycmFvN091WXpSck43SG1IbWNXLWxsSTFvSjlJS0UxSWcwem0xR19sVmZ3a3lrbFZCMmdUYXFfcEdqQUZaY0ZKTjl3QkE?oc=5",
+      "publishedAt": "2026-10-02T14:03:54+08:00"
     },
     {
       "title": "Greenland Mines makes gallium, vanadium discovery at Skaergaard",
@@ -42,40 +60,22 @@
       "publishedAt": "2026-10-02T06:58:23+08:00"
     },
     {
-      "title": "Greenland Mines Identifies Critical Minerals Additions Including Gallium and Vanadium as Landmark 2026 Skaergaard PGM Program Concludes",
-      "source": "Carroll County Mirror-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcGRja05rY3RVTk1hdXZnSzI3S1NiWDlTVHYxTE44eVY1cGtyMlI3MExrRHFzajY4QTZ1UnM3UVBXOHhveWpQYmxqNUpVLVlwZFUwN2ZKdkQxekJnczZ2NGQtVEktUE1iRS1JUUFqZW02X2JBdFhYV21LR2FpMkk0NEk5Z1E5MzVDRDQxX05zLVZObzJ5T2xYa09INml5czR4QmcyXzRJSEdyZFR3NEtSUXVZZEtJOWc?oc=5",
-      "publishedAt": "2026-10-02T00:33:52+08:00"
+      "title": "Naatsit Underwear: Greenland’s Beaded Seal-Fur G-String!",
+      "source": "Ancient Origins",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVnlwZ2xBN1hJVHpNb0JwV1h2U3B4TXU1bm80d0RRVUVDSFFZenA3em1ZZ2JRWk1wczFnSFFwT1FhX3NxYXVRUUdJOWpFemxIX2FKSVY0UVVKaEMxRVhZTVJRRVZyWjh5YnVHeTRlbENBNW5Hb29Bc0QxS2Y0UU1kUWoxTGhncEdHQWpQT0ZqMkwxSGp3REFz?oc=5",
+      "publishedAt": "2026-10-02T03:33:51+08:00"
     },
     {
-      "title": "GLND Stock Whipsaws As Greenland Permit Timeline Slips To 2027",
-      "source": "timothysykes.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSGRrWFpBYkVGUV83OHZDeUhhcWcwTG5tdFltSWlfdFF1VkVKT3RJbHhEZlZ0OXdDLVJVTUJDX1FwaU0xZHVWOTAxQUNIcUhMRTBSaGJ4MnA3VmUzYzFPMGRsckNaT3ZOdXo1QWw2bTZlTTB2UUVodkcxYVNoaWpxaTJOQldudkk?oc=5",
-      "publishedAt": "2026-10-02T00:33:00+08:00"
-    },
-    {
-      "title": "REG - BlackRock Group Greenland Energy Co. - Form 8.3 - Greenland Energy Company",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcjl1Q2N2Wi1KTlhMOFBvTTF2QlJJT2k5Szd4MEduWXRwMFdLd2otUGdKQ0RyV09EMjVOMVh5UlJobGtmOHJoRC1pekdiOWxTZG1DNDdxbXZ4UE15NmRkR29rV2dOVFZ6cktqNlRUWEFsVDlMa2J2LVlMQ1puUGxidjU2YzI1RVNDbDExc3RZZzkxdjZHbE5HamRDVnB4V1RFLUhGanRTY3J2MkV5NDhEY1VwbmI5V0N5RGpnRWdrNkhBTHJJODdhelV5RDlHeUFSUjUzbzlJaDE4cENTdkFiT0R4NA?oc=5",
-      "publishedAt": "2026-10-01T22:20:00+08:00"
+      "title": "Greenland Mines Announces Completion of Major 2026 Skaergaard Field Program, Advancing Metallurgy, Mine Planning and Initial Assessment Work",
+      "source": "Quiver Quantitative",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQUF96SjJpQmZXMGM3TExHM2JRS0l1Z1ByRFFVYzk0QXFDaDFsSFpmV1dkQWxibGI0QWo3cmNIZXVxRGNOUFIxR3VUdWtYYmRNLVUtVFNwdVl4LVNGdUlXNGtKcC13UW1DYTZBZkxQaTVWaDBwRF85UmdEa29heEJZLUVzSnRuNzZDY1NpMEI3dVhNTjVvZG96Sk4wdWdsYmtRZTB1bnkydFhGNHo0UjRBTkpFS3M3ZTM3TThIU05SdFdhdEVnN051angwOFlfaHF3YlhCN0pJVmNYNWM1VllRZ2lJOGFuZFRNNnMxaUtBTWFQNzRyN3B3MDhvZnU0eEU0ZlpzM2c0Sm0?oc=5",
+      "publishedAt": "2026-10-02T00:40:00+08:00"
     },
     {
       "title": "Denmark happy with Greenland deal but wary Trump could change course: Lawmaker",
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaGhNcHBPSExzVEhxM3hpT2VWcXBtd01BVHFHaWVhbnJKTzRPallnVGZLdHVEOFFKTHdzODlxd2pORy1UU0dNRU9Vc0ZjY1NmWmZRTFBfUXlUcGVmbWRsQkYtQm9GZ1dKc21mZ1lSU3dVZGFXTlA1Xy1Uc1NfZnBaOXp0UlRaN213U1NMbjdHV1JuaXJOR2x2UWYwdDF1QTVZQ01xM0JxeTNiRk5ZRWhpd3NSNU5WYjJw?oc=5",
       "publishedAt": "2026-10-01T22:01:07+08:00"
-    },
-    {
-      "title": "Denmark says NATO could have long-term presence in Greenland after US deal",
-      "source": "Baltimore Sun",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNFNvbnFZQzdNelo3T3JtSDdzbHRrLVdIYzgxZXl1cWs0bUxiWXZzRGNyaXBrWEFWRHNhdGtnQk1qNlJMRjdSV2dfSlo0YVJXbzc4YldLd1d3UlpzSkFaekJ5RFVKSklEaF85d3ZpeFNvbmwzbFBZaXJucm9SbVdMZ2Z1UEpvMVpQV0RoUkFqelpxaXFrVTFNTk5CS21WWjVONTlLek90Rm92c2pJb1FsZXpiUkt3QQ?oc=5",
-      "publishedAt": "2026-10-01T20:07:54+08:00"
-    },
-    {
-      "title": "'Trump's deal with Greenland stands in perfect contrast to his friends-and-family diplomacy'",
-      "source": "lemonde.fr",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZTFRZ01wRWpQanBHamRhTVphQXZnZHNCRkZ4QlBaMG90aTRQN1VFUlNZWVBWNXlHLUMtdTdHN2M1TTgza0lVWXY1eFZyLUcxbzJjVTI2WXRhOVBBNGItcVZac2trZkhRd0g3WEpOSmdxUjV1WnNGX3dPendLOWlfRU5lb2k5S0FkbFhaUmRkaFlCSndtbUlpNXcxd3lVbUNqU3NQTnR0MVlVTk5Ja2lyZUx1TXNGczhvdnFxeS15bWNydjdZdjVaMjVEbC1ZSDRrbFVfRGZvUUNvNWNVTXNTV1FlX3BOVXBsRWpuRlNad0k?oc=5",
-      "publishedAt": "2026-10-01T20:00:11+08:00"
     }
   ]
 }

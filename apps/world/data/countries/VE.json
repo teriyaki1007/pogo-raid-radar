@@ -1,7 +1,7 @@
 {
   "iso2": "VE",
   "name": "Venezuela",
-  "updatedAt": "2026-10-02T11:09:19+08:00",
+  "updatedAt": "2026-10-02T17:12:11+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,34 @@
   ],
   "headlines": [
     {
-      "title": "Trump Eyes Potential US Military Base in Venezuela",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0ZfckE0RGxGMkxwOC15ajRkUTVMcG0zQ2pYalI3WjMtRVhaMFhqZlFVTXhqRF9ET05sanZ2M0ppeFE2c0I5V3pZeWhKaWxRdExDRzRHUUlzekJFNFlaaEhiczJhYVFYaU9GWlN2eU1aR0RMMjlNbXU4OTYyUmZBb1lHSFpJbVRxR19LY21yV1l2czhWMnFj?oc=5",
-      "publishedAt": "2026-10-02T05:09:07+08:00"
+      "title": "Venezuela's oil is flowing faster than its democracy",
+      "source": "upi.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRW5WUFhiN0M5SzhGZW9RWGVhN2E4V1BTb2lzTkJZTnpxejVySU9ZWGxrWkNIQTVYazRiNFZFQUlYMXJXSkh2NTdKc29DME1vNVd0aWtDSU96ZjhxS0lFOXVXV3plZW1kZHdQQ0pYZjc5dWtHc0N2QjhnOUdWYWxWUkZxTHNyVDNZLUViZUU0dXQ5cEVKMjNWTFdXcVZSOVh5WlhjN3RPSWRldm9Nc0RjSHpTRUY3UdIBuwFBVV95cUxOSHBqel9fRjlJRnNKcTVWVk5tWVJjTjQ1dFJyT3JfSU5RaXlWRWJWNXpXek52eVd5SjJycFJsRWZWa296czFndjI5MlpLSlJQVUtJVDdsYjg0TjlJejRmc3RrXzJEWGtDaFRoOUM3SUZQV1RqZGtCb1VYMnowRHp2YlU4Wjc2WWRzMi1NUFZ4b01uV19FbzRpZ1JDVmk4cVgzdXpUeXJ5Q0F1RExmYjFybTdCWUpGNVlSTmlN?oc=5",
+      "publishedAt": "2026-10-02T17:00:06+08:00"
+    },
+    {
+      "title": "Ex-Venezuelan mayor, detained by ICE in Butler County, returns home",
+      "source": "cincinnati.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUUdHc09nRWw2dFBIVEw2d19ZQnhXUUJ2eVdyd042bTlmOUxoZmE4d2dWNTFPMVE3eHJVSEluN2F5QVU0R25DQ3BKSGpCYlQ5NzZ4Nk01bDhBS253QjRZOWc2Nm5vVER6b2dtV0otUHR1azV6aVVJUkg5ZHBsYkpYUEpHM1B6SFRQYmtvSUhKZ0QxeldiTTBEeFVvcXhzczJwU2F5d3V6VUVhd1daSmc?oc=5",
+      "publishedAt": "2026-10-02T12:25:00+08:00"
+    },
+    {
+      "title": "Exclusive | Democratic Senators Challenge Trump Officials on Pentagon’s Venezuela Oil Deal",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTU9rSGh2RjZsanpNLVJQdDNMTk5yWVhTSjVqR05xT0Jwa0lUVG1LUXQ1cnVMaHg1YzZsbnVDelJteE9hQ0d3Y3ZSYWJfNGdGZW5tQjVyMzNXUUNIM0huVzFkV2pwVWJyYm9zVTlEMElwcVJXa29aOUt5d1RQcVZkc1Npa3RuZ0VsXzVjd3d1NHkza3JyRHo5TTR3MUtHaWp2elpmTVNFbnBzZ2k0eEhzTXF5VnJJLWtheHVkYXpXRlZldDUyU3F3NFpISUU3UQ?oc=5",
+      "publishedAt": "2026-10-02T12:12:45+08:00"
+    },
+    {
+      "title": "Venezuelan delivery driver shot by ICE has surgery to remove bullet",
+      "source": "The Independent",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWmd3ZHVVSUFSa3F5Yld1YmktRTVCTVRjSjEwT0Nta0w4QzA0b3FjUVRFNjlaMFFaanducjRoV250cmhqMTU3VGVLZ2JBd0Qwc2IwWF9RTUR6ZVNNSjZFc3pvd2E2bnFLQzkwWl9nc3VPTi1TalVJVlpmbG5COGVCcXFsN2pCcVg2SHV2WHZB?oc=5",
+      "publishedAt": "2026-10-02T11:25:00+08:00"
+    },
+    {
+      "title": "Venezuelan Gov’t Promises Electricity Improvements as Blackout Protests Increase",
+      "source": "Venezuelanalysis",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXZfN2E1M3ZxRVVqQ1EtcWJveEoyY2hhLU4yTEJ0VWF3cDN3VlR2bGh6ckJFTnVTZlBJTUgzMnl6ZERfaU5PLWZrOUx3aW4xYWtyTUJERjk0Vkc1TnJ5SUY1cUxfVGRkYUJsNFVRQXRlNFNEYWV4YVhnR1pWVG1EZWdmSUF2Zk9JNGp3a0tvYWQxaXZHVk02MGpDSXlnRWNDRW5LVGVxODNQSVB1TkxqVkdKN0Y?oc=5",
+      "publishedAt": "2026-10-02T11:01:49+08:00"
     },
     {
       "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president",
@@ -48,34 +72,10 @@
       "publishedAt": "2026-10-02T05:00:00+08:00"
     },
     {
-      "title": "\"Request from higher up” made Curacao refuse Venezuelan opposition leader’s flight",
-      "source": "NL Times",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLVh6ekotakFPZFdrdWhwNlVDd2NVY29Da01EdkV4TnlrYmlNNk9TZlVReHNXaExfWE1sR3E0c1FUWGx4MWhoRnJJSEdsakFNWEhMVzAtOGJYRkZrZHY2Zy1ZU0dRZWM0VW1mUWhwcl8xQ3NLWjBCZG9GdWsySDFPZFdPTHZEVTRyNUF6Q0xuSDZnd0dpYTNaOE85QmloaWNTRXln?oc=5",
-      "publishedAt": "2026-10-02T04:00:00+08:00"
-    },
-    {
-      "title": "Trump Asked Grok About Potential Blowback Before Kidnapping Venezuela's President: Report",
-      "source": "gizmodo.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRHJkSmtxRG4waEhXU1pIY29WNHBZYk9TTERJU1ZUNE5HbGxScUYwT0JNNkRubzRldnI5cl9ZVnEyT056Ynd1RVcyQjBVc0JzWkxxOEpDSGRtWjdSd1luTmNzTXIwUGw2a0JSa2ZUOVc3cG84emhJNEZMRzFyRkxzcTl4U1gyWjRTcFh4M1V6ZU5oZW9vYlFQOXJMUEJVM1JibE1uaTJGSU5TMVY2ZU81aWJLekxMLUFNeHc?oc=5",
-      "publishedAt": "2026-10-02T03:55:54+08:00"
-    },
-    {
-      "title": "Trump appears open to U.S. military base in Venezuela, South America",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRDVUVTd4OTRqQU1IdDhqcnZpVkFMQmNWaG0tVWJ1NUpHWXhsa29OcUFsWFNjSUJfSjNGZnl6cUVDNW9DQUYxN2QtR2ZHdmlJc28zaThvN1l5WjM5c2wtQ3lZSEs3bFVxUno5bEFrUHdxbWp5aUtWbF9fZ285U0wtZXNWM3Jrd2d0MGZWeDJaa3dFUTg?oc=5",
-      "publishedAt": "2026-10-02T03:49:00+08:00"
-    },
-    {
-      "title": "Venezuela's oil exports down in September amid high freight rates, data show",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQejlTR0VNeUxLUk1qY3pZMWhxTERYbEpGUG9xeng5aFRZVkNVa1NSYmktVmRsU3RranlWRlJXRDhqYVRzMzBUblhuV1BoWTRDOGt1Q1YwMkozUzFtUUdZOW9LajBubFQ1MUZtVGp1OHVjY2xCOEN3T1dMeWY0c3pXNVpScHVJX2pGekJnSHFYNktsemVkMzV6Z1Rrc2NYX2YwRl9FQXFWbzVyemN4eTU2aVVMeXpPa0hHd2c?oc=5",
-      "publishedAt": "2026-10-02T02:33:58+08:00"
-    },
-    {
       "title": "Trump says he’s ‘looking at’ opening US military base in Venezuela",
-      "source": "Washington Examiner",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDZqUWdvMklXbkV2OElkQ3FfcEx2a2NIUjhRN3E1ZkEzZGJ0ODBVY21wNlFlcHBDM0phR25mWkd4eWlialY2QWNQLVdnMDVDWnhSRjJESkVDRFRBSHA0MGRhWVpSR3RIT3NpVGZkbDlzdmFCaFZlR2dZbTgxakF0cm5uaEVlU3BWSFhtUTVrOTJYZmdBRE5uLUE3V29wQTFQX3lz?oc=5",
-      "publishedAt": "2026-10-02T02:18:00+08:00"
+      "source": "Colorado Politics",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXpqU0tNanZSYTAtUHdzay04dXljTkdOSUdIdmgwaDVhRFJjcWFscF9JLVJDNnZBQldnRFkteHVMOVZuSXNYQTVHdDR4R2h2QUxCREcxcUJqYndpektiSWVYTjlJOWFKY3RSTEpXMGdYTU1jRElnNmIyWUs2T3lRbncwMGtyMzhuUW12Vlc3ZWtUM2lxOVNWZlhObk04T2NjZTRaS0w2QUJBUVkz?oc=5",
+      "publishedAt": "2026-10-02T04:44:37+08:00"
     }
   ]
 }
