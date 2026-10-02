@@ -1,9 +1,13 @@
 {
   "meta": {
     "asOf": "2026-10-02",
-    "asOfLabel": "2 Oct 2026 ~6:35 AM HKT",
-    "lineupsUpdated": "2026-10-02 (Taken Over LIVE): Giovanni + Leaders from GO Hub Oct 1 guides + Leek Duck event page; Leek Duck rocket-lineups HTML still dated Jun 25 / pre-event Reshiram as of refresh — GO Hub used for live Taken Over tables. Grunt full tables not yet republished with Wimpod/Fomantis/Sandygast placements.",
+    "asOfLabel": "2 Oct 2026 ~10:40 PM HKT",
+    "lineupsUpdated": "2026-10-02 evening (~10:40 PM HKT): Leek Duck rocket-lineups republished for Harvest Festival: Taken Over. Grunt slots updated — Fomantis (Grass), Wimpod (Bug), Sandygast (Ghost); also Axew (Dragon), Makuhita (Fighting); Water♂ Feebas removed. Cliff slot 2 corrected to Snorlax / Golurk / Galarian Weezing (GO Hub + Leek Duck). Giovanni Shadow Zekrom + leader leads unchanged (Pancham / Alolan Grimer / Cubone).",
     "sources": [
+      {
+        "name": "Leek Duck Rocket Lineups (Updated Oct 2, 2026)",
+        "url": "https://leekduck.com/rocket-lineups/"
+      },
       {
         "name": "GO Hub Giovanni (Oct 2026)",
         "url": "https://pokemongohub.net/post/guide/rocket-boss-giovanni-counters/"
@@ -25,10 +29,6 @@
         "url": "https://leekduck.com/events/harvest-festival-taken-over-2026/"
       },
       {
-        "name": "Leek Duck Rocket Lineups",
-        "url": "https://leekduck.com/rocket-lineups/"
-      },
-      {
         "name": "Serebii Taken Over",
         "url": "https://www.serebii.net/pokemongo/events/harvestfestival:takenover.shtml"
       }
@@ -45,7 +45,7 @@
   "notes": [
     "Defeat 6 Grunts for Mysterious Components → Rocket Radar → Leaders (Arlo / Cliff / Sierra).",
     "Super Rocket Radar (GO Pass: Harvest Festival) required for Giovanni at PokéStops (not balloons).",
-    "LIVE: Harvest Festival: Taken Over (Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local) — rescue Shadow Zekrom from Giovanni; Frustration removable with Charged TM."
+    "LIVE: Harvest Festival: Taken Over (Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local) — rescue Shadow Zekrom from Giovanni; new Grunt Shadows Wimpod / Fomantis / Sandygast; Frustration removable with Charged TM."
   ],
   "grunts": [
     {
@@ -56,16 +56,6 @@
       "lineups": [
         [
           {
-            "name": "Hoothoot",
-            "shinyEncounter": true,
-            "pokeapiId": 163,
-            "sprite": {
-              "pokeapiId": 163,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png"
-          },
-          {
             "name": "Teddiursa",
             "shinyEncounter": true,
             "pokeapiId": 216,
@@ -74,6 +64,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png"
+          },
+          {
+            "name": "Hoothoot",
+            "shinyEncounter": true,
+            "pokeapiId": 163,
+            "sprite": {
+              "pokeapiId": 163,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/163.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png"
           },
           {
             "name": "Porygon",
@@ -98,16 +98,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/294.png"
           },
           {
-            "name": "Starly",
-            "shinyEncounter": true,
-            "pokeapiId": 396,
-            "sprite": {
-              "pokeapiId": 396,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png"
-          },
-          {
             "name": "Stufful",
             "shinyEncounter": true,
             "pokeapiId": 759,
@@ -116,19 +106,19 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/759.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/759.png"
+          },
+          {
+            "name": "Starly",
+            "shinyEncounter": true,
+            "pokeapiId": 396,
+            "sprite": {
+              "pokeapiId": 396,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/396.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/396.png"
           }
         ],
         [
-          {
-            "name": "Swellow",
-            "shinyEncounter": null,
-            "pokeapiId": 277,
-            "sprite": {
-              "pokeapiId": 277,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png"
-          },
           {
             "name": "Ursaring",
             "shinyEncounter": null,
@@ -138,6 +128,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png"
+          },
+          {
+            "name": "Swellow",
+            "shinyEncounter": null,
+            "pokeapiId": 277,
+            "sprite": {
+              "pokeapiId": 277,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/277.png"
           },
           {
             "name": "Kangaskhan",
@@ -175,6 +175,16 @@
       "lineups": [
         [
           {
+            "name": "Litwick",
+            "shinyEncounter": true,
+            "pokeapiId": 607,
+            "sprite": {
+              "pokeapiId": 607,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png"
+          },
+          {
             "name": "Ponyta",
             "shinyEncounter": true,
             "pokeapiId": 77,
@@ -193,16 +203,6 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/255.png"
-          },
-          {
-            "name": "Litwick",
-            "shinyEncounter": true,
-            "pokeapiId": 607,
-            "sprite": {
-              "pokeapiId": 607,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/607.png"
           }
         ],
         [
@@ -239,16 +239,6 @@
         ],
         [
           {
-            "name": "Magmortar",
-            "shinyEncounter": null,
-            "pokeapiId": 467,
-            "sprite": {
-              "pokeapiId": 467,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png"
-          },
-          {
             "name": "Darmanitan",
             "shinyEncounter": null,
             "pokeapiId": 555,
@@ -267,6 +257,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/655.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/655.png"
+          },
+          {
+            "name": "Magmortar",
+            "shinyEncounter": null,
+            "pokeapiId": 467,
+            "sprite": {
+              "pokeapiId": 467,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/467.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/467.png"
           }
         ]
       ],
@@ -309,16 +309,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/258.png"
           },
           {
-            "name": "Krabby",
-            "shinyEncounter": true,
-            "pokeapiId": 98,
-            "sprite": {
-              "pokeapiId": 98,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png"
-          },
-          {
             "name": "Tentacool",
             "shinyEncounter": true,
             "pokeapiId": 72,
@@ -327,19 +317,19 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png"
+          },
+          {
+            "name": "Krabby",
+            "shinyEncounter": true,
+            "pokeapiId": 98,
+            "sprite": {
+              "pokeapiId": 98,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png"
           }
         ],
         [
-          {
-            "name": "Swampert",
-            "shinyEncounter": null,
-            "pokeapiId": 260,
-            "sprite": {
-              "pokeapiId": 260,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png"
-          },
           {
             "name": "Dewpider",
             "shinyEncounter": null,
@@ -349,6 +339,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/751.png"
+          },
+          {
+            "name": "Swampert",
+            "shinyEncounter": null,
+            "pokeapiId": 260,
+            "sprite": {
+              "pokeapiId": 260,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/260.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260.png"
           },
           {
             "name": "Sharpedo",
@@ -363,16 +363,6 @@
         ],
         [
           {
-            "name": "Greninja",
-            "shinyEncounter": null,
-            "pokeapiId": 658,
-            "sprite": {
-              "pokeapiId": 658,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png"
-          },
-          {
             "name": "Walrein",
             "shinyEncounter": null,
             "pokeapiId": 365,
@@ -381,6 +371,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/365.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/365.png"
+          },
+          {
+            "name": "Greninja",
+            "shinyEncounter": null,
+            "pokeapiId": 658,
+            "sprite": {
+              "pokeapiId": 658,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658.png"
           },
           {
             "name": "Tentacruel",
@@ -430,22 +430,12 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/129.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png"
-          },
-          {
-            "name": "Feebas",
-            "shinyEncounter": true,
-            "pokeapiId": 349,
-            "sprite": {
-              "pokeapiId": 349,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/349.png"
           }
         ],
         [
           {
             "name": "Magikarp",
-            "shinyEncounter": null,
+            "shinyEncounter": true,
             "pokeapiId": 129,
             "sprite": {
               "pokeapiId": 129,
@@ -503,16 +493,6 @@
       "lineups": [
         [
           {
-            "name": "Helioptile",
-            "shinyEncounter": true,
-            "pokeapiId": 694,
-            "sprite": {
-              "pokeapiId": 694,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/694.png"
-          },
-          {
             "name": "Voltorb",
             "shinyEncounter": true,
             "pokeapiId": 100,
@@ -531,19 +511,19 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/403.png"
+          },
+          {
+            "name": "Helioptile",
+            "shinyEncounter": true,
+            "pokeapiId": 694,
+            "sprite": {
+              "pokeapiId": 694,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/694.png"
           }
         ],
         [
-          {
-            "name": "Voltorb",
-            "shinyEncounter": true,
-            "pokeapiId": 100,
-            "sprite": {
-              "pokeapiId": 100,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png"
-          },
           {
             "name": "Electabuzz",
             "shinyEncounter": true,
@@ -553,6 +533,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png"
+          },
+          {
+            "name": "Voltorb",
+            "shinyEncounter": true,
+            "pokeapiId": 100,
+            "sprite": {
+              "pokeapiId": 100,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png"
           },
           {
             "name": "Alolan Geodude",
@@ -567,16 +557,6 @@
         ],
         [
           {
-            "name": "Ampharos",
-            "shinyEncounter": null,
-            "pokeapiId": 181,
-            "sprite": {
-              "pokeapiId": 181,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png"
-          },
-          {
             "name": "Luxray",
             "shinyEncounter": null,
             "pokeapiId": 405,
@@ -585,6 +565,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/405.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/405.png"
+          },
+          {
+            "name": "Ampharos",
+            "shinyEncounter": null,
+            "pokeapiId": 181,
+            "sprite": {
+              "pokeapiId": 181,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/181.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png"
           },
           {
             "name": "Galvantula",
@@ -625,16 +615,6 @@
       "lineups": [
         [
           {
-            "name": "Tangela",
-            "shinyEncounter": true,
-            "pokeapiId": 114,
-            "sprite": {
-              "pokeapiId": 114,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png"
-          },
-          {
             "name": "Phantump",
             "shinyEncounter": true,
             "pokeapiId": 708,
@@ -645,17 +625,37 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/708.png"
           },
           {
-            "name": "Treecko",
+            "name": "Fomantis",
             "shinyEncounter": true,
-            "pokeapiId": 252,
+            "pokeapiId": 753,
             "sprite": {
-              "pokeapiId": 252,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png"
+              "pokeapiId": 753,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/753.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/252.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/753.png"
+          },
+          {
+            "name": "Tangela",
+            "shinyEncounter": true,
+            "pokeapiId": 114,
+            "sprite": {
+              "pokeapiId": 114,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png"
           }
         ],
         [
+          {
+            "name": "Lileep",
+            "shinyEncounter": null,
+            "pokeapiId": 345,
+            "sprite": {
+              "pokeapiId": 345,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png"
+          },
           {
             "name": "Sceptile",
             "shinyEncounter": null,
@@ -675,16 +675,6 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/755.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/755.png"
-          },
-          {
-            "name": "Lileep",
-            "shinyEncounter": null,
-            "pokeapiId": 345,
-            "sprite": {
-              "pokeapiId": 345,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/345.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/345.png"
           }
         ],
         [
@@ -699,16 +689,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/652.png"
           },
           {
-            "name": "Cradily",
-            "shinyEncounter": null,
-            "pokeapiId": 346,
-            "sprite": {
-              "pokeapiId": 346,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png"
-          },
-          {
             "name": "Trevenant",
             "shinyEncounter": null,
             "pokeapiId": 709,
@@ -717,6 +697,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/709.png"
+          },
+          {
+            "name": "Cradily",
+            "shinyEncounter": null,
+            "pokeapiId": 346,
+            "sprite": {
+              "pokeapiId": 346,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/346.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/346.png"
           }
         ]
       ],
@@ -748,16 +738,6 @@
       "lineups": [
         [
           {
-            "name": "Spheal",
-            "shinyEncounter": true,
-            "pokeapiId": 363,
-            "sprite": {
-              "pokeapiId": 363,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png"
-          },
-          {
             "name": "Seel",
             "shinyEncounter": true,
             "pokeapiId": 86,
@@ -776,18 +756,28 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/225.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png"
+          },
+          {
+            "name": "Spheal",
+            "shinyEncounter": true,
+            "pokeapiId": 363,
+            "sprite": {
+              "pokeapiId": 363,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/363.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/363.png"
           }
         ],
         [
           {
-            "name": "Alolan Ninetales",
+            "name": "Sealeo",
             "shinyEncounter": null,
-            "pokeapiId": 38,
+            "pokeapiId": 364,
             "sprite": {
-              "pokeapiId": 38,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10104.png"
+              "pokeapiId": 364,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png"
           },
           {
             "name": "Froslass",
@@ -800,14 +790,14 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png"
           },
           {
-            "name": "Sealeo",
+            "name": "Alolan Ninetales",
             "shinyEncounter": null,
-            "pokeapiId": 364,
+            "pokeapiId": 38,
             "sprite": {
-              "pokeapiId": 364,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/364.png"
+              "pokeapiId": 38,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10104.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/364.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
           }
         ],
         [
@@ -873,14 +863,14 @@
       "lineups": [
         [
           {
-            "name": "Machop",
+            "name": "Timburr",
             "shinyEncounter": true,
-            "pokeapiId": 66,
+            "pokeapiId": 532,
             "sprite": {
-              "pokeapiId": 66,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
+              "pokeapiId": 532,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png"
           },
           {
             "name": "Mankey",
@@ -893,17 +883,27 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png"
           },
           {
-            "name": "Timburr",
+            "name": "Makuhita",
             "shinyEncounter": true,
-            "pokeapiId": 532,
+            "pokeapiId": 296,
             "sprite": {
-              "pokeapiId": 532,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png"
+              "pokeapiId": 296,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/532.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/296.png"
           }
         ],
         [
+          {
+            "name": "Hitmontop",
+            "shinyEncounter": true,
+            "pokeapiId": 237,
+            "sprite": {
+              "pokeapiId": 237,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png"
+          },
           {
             "name": "Hitmonlee",
             "shinyEncounter": true,
@@ -923,19 +923,19 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png"
-          },
-          {
-            "name": "Hitmontop",
-            "shinyEncounter": true,
-            "pokeapiId": 237,
-            "sprite": {
-              "pokeapiId": 237,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/237.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png"
           }
         ],
         [
+          {
+            "name": "Conkeldurr",
+            "shinyEncounter": null,
+            "pokeapiId": 534,
+            "sprite": {
+              "pokeapiId": 534,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png"
+          },
           {
             "name": "Annihilape",
             "shinyEncounter": null,
@@ -955,16 +955,6 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/392.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/392.png"
-          },
-          {
-            "name": "Conkeldurr",
-            "shinyEncounter": null,
-            "pokeapiId": 534,
-            "sprite": {
-              "pokeapiId": 534,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/534.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/534.png"
           }
         ]
       ],
@@ -997,6 +987,16 @@
       "lineups": [
         [
           {
+            "name": "Oddish",
+            "shinyEncounter": true,
+            "pokeapiId": 43,
+            "sprite": {
+              "pokeapiId": 43,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
+          },
+          {
             "name": "Zubat",
             "shinyEncounter": true,
             "pokeapiId": 41,
@@ -1015,28 +1015,18 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/211.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png"
-          },
-          {
-            "name": "Oddish",
-            "shinyEncounter": true,
-            "pokeapiId": 43,
-            "sprite": {
-              "pokeapiId": 43,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png"
           }
         ],
         [
           {
-            "name": "Nidorina",
+            "name": "Galarian Weezing",
             "shinyEncounter": true,
-            "pokeapiId": 30,
+            "pokeapiId": 110,
             "sprite": {
-              "pokeapiId": 30,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png"
+              "pokeapiId": 110,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10167.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
           },
           {
             "name": "Nidorino",
@@ -1049,14 +1039,14 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png"
           },
           {
-            "name": "Galarian Weezing",
+            "name": "Nidorina",
             "shinyEncounter": true,
-            "pokeapiId": 110,
+            "pokeapiId": 30,
             "sprite": {
-              "pokeapiId": 110,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10167.png"
+              "pokeapiId": 30,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png"
           }
         ],
         [
@@ -1120,16 +1110,6 @@
       "lineups": [
         [
           {
-            "name": "Gligar",
-            "shinyEncounter": true,
-            "pokeapiId": 207,
-            "sprite": {
-              "pokeapiId": 207,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png"
-          },
-          {
             "name": "Rhyhorn",
             "shinyEncounter": true,
             "pokeapiId": 111,
@@ -1138,6 +1118,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/111.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png"
+          },
+          {
+            "name": "Gligar",
+            "shinyEncounter": true,
+            "pokeapiId": 207,
+            "sprite": {
+              "pokeapiId": 207,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png"
           },
           {
             "name": "Trapinch",
@@ -1162,16 +1152,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png"
           },
           {
-            "name": "Vibrava",
-            "shinyEncounter": true,
-            "pokeapiId": 329,
-            "sprite": {
-              "pokeapiId": 329,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png"
-          },
-          {
             "name": "Claydol",
             "shinyEncounter": true,
             "pokeapiId": 344,
@@ -1180,6 +1160,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/344.png"
+          },
+          {
+            "name": "Vibrava",
+            "shinyEncounter": true,
+            "pokeapiId": 329,
+            "sprite": {
+              "pokeapiId": 329,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/329.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/329.png"
           }
         ],
         [
@@ -1194,16 +1184,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png"
           },
           {
-            "name": "Flygon",
-            "shinyEncounter": null,
-            "pokeapiId": 330,
-            "sprite": {
-              "pokeapiId": 330,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png"
-          },
-          {
             "name": "Hippowdon",
             "shinyEncounter": null,
             "pokeapiId": 450,
@@ -1212,6 +1192,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/450.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/450.png"
+          },
+          {
+            "name": "Flygon",
+            "shinyEncounter": null,
+            "pokeapiId": 330,
+            "sprite": {
+              "pokeapiId": 330,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/330.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/330.png"
           }
         ]
       ],
@@ -1244,16 +1234,6 @@
       "lineups": [
         [
           {
-            "name": "Swablu",
-            "shinyEncounter": true,
-            "pokeapiId": 333,
-            "sprite": {
-              "pokeapiId": 333,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png"
-          },
-          {
             "name": "Taillow",
             "shinyEncounter": true,
             "pokeapiId": 276,
@@ -1272,19 +1252,19 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/821.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/821.png"
+          },
+          {
+            "name": "Swablu",
+            "shinyEncounter": true,
+            "pokeapiId": 333,
+            "sprite": {
+              "pokeapiId": 333,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/333.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/333.png"
           }
         ],
         [
-          {
-            "name": "Gligar",
-            "shinyEncounter": true,
-            "pokeapiId": 207,
-            "sprite": {
-              "pokeapiId": 207,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png"
-          },
           {
             "name": "Scyther",
             "shinyEncounter": true,
@@ -1304,19 +1284,19 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png"
+          },
+          {
+            "name": "Gligar",
+            "shinyEncounter": true,
+            "pokeapiId": 207,
+            "sprite": {
+              "pokeapiId": 207,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/207.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png"
           }
         ],
         [
-          {
-            "name": "Swanna",
-            "shinyEncounter": null,
-            "pokeapiId": 581,
-            "sprite": {
-              "pokeapiId": 581,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png"
-          },
           {
             "name": "Dragonite",
             "shinyEncounter": null,
@@ -1336,6 +1316,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/733.png"
+          },
+          {
+            "name": "Swanna",
+            "shinyEncounter": null,
+            "pokeapiId": 581,
+            "sprite": {
+              "pokeapiId": 581,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/581.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/581.png"
           }
         ]
       ],
@@ -1368,6 +1358,16 @@
       "lineups": [
         [
           {
+            "name": "Wobbuffet",
+            "shinyEncounter": true,
+            "pokeapiId": 202,
+            "sprite": {
+              "pokeapiId": 202,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png"
+          },
+          {
             "name": "Ralts",
             "shinyEncounter": true,
             "pokeapiId": 280,
@@ -1386,29 +1386,9 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png"
-          },
-          {
-            "name": "Wobbuffet",
-            "shinyEncounter": true,
-            "pokeapiId": 202,
-            "sprite": {
-              "pokeapiId": 202,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png"
           }
         ],
         [
-          {
-            "name": "Duosion",
-            "shinyEncounter": true,
-            "pokeapiId": 578,
-            "sprite": {
-              "pokeapiId": 578,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png"
-          },
           {
             "name": "Drowzee",
             "shinyEncounter": true,
@@ -1418,6 +1398,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png"
+          },
+          {
+            "name": "Duosion",
+            "shinyEncounter": true,
+            "pokeapiId": 578,
+            "sprite": {
+              "pokeapiId": 578,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/578.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/578.png"
           },
           {
             "name": "Wobbuffet",
@@ -1442,16 +1432,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475.png"
           },
           {
-            "name": "Reuniclus",
-            "shinyEncounter": null,
-            "pokeapiId": 579,
-            "sprite": {
-              "pokeapiId": 579,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png"
-          },
-          {
             "name": "Malamar",
             "shinyEncounter": null,
             "pokeapiId": 687,
@@ -1460,6 +1440,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/687.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/687.png"
+          },
+          {
+            "name": "Reuniclus",
+            "shinyEncounter": null,
+            "pokeapiId": 579,
+            "sprite": {
+              "pokeapiId": 579,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/579.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/579.png"
           }
         ]
       ],
@@ -1512,14 +1502,14 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
           },
           {
-            "name": "Grubbin",
+            "name": "Wimpod",
             "shinyEncounter": true,
-            "pokeapiId": 736,
+            "pokeapiId": 767,
             "sprite": {
-              "pokeapiId": 736,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png"
+              "pokeapiId": 767,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/767.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/736.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/767.png"
           }
         ],
         [
@@ -1534,16 +1524,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png"
           },
           {
-            "name": "Dewpider",
-            "shinyEncounter": true,
-            "pokeapiId": 751,
-            "sprite": {
-              "pokeapiId": 751,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/751.png"
-          },
-          {
             "name": "Anorith",
             "shinyEncounter": true,
             "pokeapiId": 347,
@@ -1552,6 +1532,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/347.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/347.png"
+          },
+          {
+            "name": "Dewpider",
+            "shinyEncounter": true,
+            "pokeapiId": 751,
+            "sprite": {
+              "pokeapiId": 751,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/751.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/751.png"
           }
         ],
         [
@@ -1566,16 +1556,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png"
           },
           {
-            "name": "Vikavolt",
-            "shinyEncounter": null,
-            "pokeapiId": 738,
-            "sprite": {
-              "pokeapiId": 738,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png"
-          },
-          {
             "name": "Scolipede",
             "shinyEncounter": null,
             "pokeapiId": 545,
@@ -1584,6 +1564,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/545.png"
+          },
+          {
+            "name": "Vikavolt",
+            "shinyEncounter": null,
+            "pokeapiId": 738,
+            "sprite": {
+              "pokeapiId": 738,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/738.png"
           }
         ]
       ],
@@ -1655,16 +1645,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/410.png"
           },
           {
-            "name": "Cranidos",
-            "shinyEncounter": true,
-            "pokeapiId": 408,
-            "sprite": {
-              "pokeapiId": 408,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png"
-          },
-          {
             "name": "Graveler",
             "shinyEncounter": true,
             "pokeapiId": 75,
@@ -1673,19 +1653,19 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png"
+          },
+          {
+            "name": "Cranidos",
+            "shinyEncounter": true,
+            "pokeapiId": 408,
+            "sprite": {
+              "pokeapiId": 408,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/408.png"
           }
         ],
         [
-          {
-            "name": "Aurorus",
-            "shinyEncounter": null,
-            "pokeapiId": 699,
-            "sprite": {
-              "pokeapiId": 699,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/699.png"
-          },
           {
             "name": "Tyrantrum",
             "shinyEncounter": null,
@@ -1705,6 +1685,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png"
+          },
+          {
+            "name": "Aurorus",
+            "shinyEncounter": null,
+            "pokeapiId": 699,
+            "sprite": {
+              "pokeapiId": 699,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/699.png"
           }
         ]
       ],
@@ -1749,14 +1739,14 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/355.png"
           },
           {
-            "name": "Gastly",
+            "name": "Sandygast",
             "shinyEncounter": true,
-            "pokeapiId": 92,
+            "pokeapiId": 769,
             "sprite": {
-              "pokeapiId": 92,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
+              "pokeapiId": 769,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/769.png"
           },
           {
             "name": "Yamask",
@@ -1813,16 +1803,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png"
           },
           {
-            "name": "Cofagrigus",
-            "shinyEncounter": null,
-            "pokeapiId": 563,
-            "sprite": {
-              "pokeapiId": 563,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png"
-          },
-          {
             "name": "Froslass",
             "shinyEncounter": null,
             "pokeapiId": 478,
@@ -1831,6 +1811,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/478.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/478.png"
+          },
+          {
+            "name": "Cofagrigus",
+            "shinyEncounter": null,
+            "pokeapiId": 563,
+            "sprite": {
+              "pokeapiId": 563,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/563.png"
           }
         ]
       ],
@@ -1862,16 +1852,6 @@
       "lineups": [
         [
           {
-            "name": "Deino",
-            "shinyEncounter": true,
-            "pokeapiId": 633,
-            "sprite": {
-              "pokeapiId": 633,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png"
-          },
-          {
             "name": "Noibat",
             "shinyEncounter": true,
             "pokeapiId": 714,
@@ -1882,27 +1862,27 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/714.png"
           },
           {
-            "name": "Dratini",
+            "name": "Deino",
             "shinyEncounter": true,
-            "pokeapiId": 147,
+            "pokeapiId": 633,
             "sprite": {
-              "pokeapiId": 147,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png"
+              "pokeapiId": 633,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/633.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/633.png"
+          },
+          {
+            "name": "Axew",
+            "shinyEncounter": true,
+            "pokeapiId": 610,
+            "sprite": {
+              "pokeapiId": 610,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/610.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/610.png"
           }
         ],
         [
-          {
-            "name": "Dragonair",
-            "shinyEncounter": null,
-            "pokeapiId": 148,
-            "sprite": {
-              "pokeapiId": 148,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png"
-          },
           {
             "name": "Alolan Exeggutor",
             "shinyEncounter": null,
@@ -1912,6 +1892,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10114.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png"
+          },
+          {
+            "name": "Dragonair",
+            "shinyEncounter": null,
+            "pokeapiId": 148,
+            "sprite": {
+              "pokeapiId": 148,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png"
           },
           {
             "name": "Gabite",
@@ -1936,16 +1926,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"
           },
           {
-            "name": "Salamence",
-            "shinyEncounter": null,
-            "pokeapiId": 373,
-            "sprite": {
-              "pokeapiId": 373,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png"
-          },
-          {
             "name": "Garchomp",
             "shinyEncounter": null,
             "pokeapiId": 445,
@@ -1954,6 +1934,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445.png"
+          },
+          {
+            "name": "Salamence",
+            "shinyEncounter": null,
+            "pokeapiId": 373,
+            "sprite": {
+              "pokeapiId": 373,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/373.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373.png"
           }
         ]
       ],
@@ -1986,14 +1976,14 @@
       "lineups": [
         [
           {
-            "name": "Alolan Rattata",
+            "name": "Carvanha",
             "shinyEncounter": true,
-            "pokeapiId": 19,
+            "pokeapiId": 318,
             "sprite": {
-              "pokeapiId": 19,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10091.png"
+              "pokeapiId": 318,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png"
           },
           {
             "name": "Poochyena",
@@ -2006,27 +1996,17 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/261.png"
           },
           {
-            "name": "Carvanha",
+            "name": "Alolan Rattata",
             "shinyEncounter": true,
-            "pokeapiId": 318,
+            "pokeapiId": 19,
             "sprite": {
-              "pokeapiId": 318,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/318.png"
+              "pokeapiId": 19,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10091.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/318.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png"
           }
         ],
         [
-          {
-            "name": "Houndour",
-            "shinyEncounter": true,
-            "pokeapiId": 228,
-            "sprite": {
-              "pokeapiId": 228,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png"
-          },
           {
             "name": "Sneasel",
             "shinyEncounter": true,
@@ -2036,6 +2016,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/215.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png"
+          },
+          {
+            "name": "Houndour",
+            "shinyEncounter": true,
+            "pokeapiId": 228,
+            "sprite": {
+              "pokeapiId": 228,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/228.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png"
           },
           {
             "name": "Absol",
@@ -2164,14 +2154,14 @@
         ],
         [
           {
-            "name": "Probopass",
+            "name": "Aggron",
             "shinyEncounter": null,
-            "pokeapiId": 476,
+            "pokeapiId": 306,
             "sprite": {
-              "pokeapiId": 476,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png"
+              "pokeapiId": 306,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png"
           },
           {
             "name": "Alolan Sandslash",
@@ -2184,14 +2174,14 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png"
           },
           {
-            "name": "Aggron",
+            "name": "Probopass",
             "shinyEncounter": null,
-            "pokeapiId": 306,
+            "pokeapiId": 476,
             "sprite": {
-              "pokeapiId": 306,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/306.png"
+              "pokeapiId": 476,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/476.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/476.png"
           }
         ]
       ],
@@ -2224,14 +2214,14 @@
       "lineups": [
         [
           {
-            "name": "Alolan Vulpix",
+            "name": "Ralts",
             "shinyEncounter": true,
-            "pokeapiId": 37,
+            "pokeapiId": 280,
             "sprite": {
-              "pokeapiId": 37,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10103.png"
+              "pokeapiId": 280,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png"
           },
           {
             "name": "Snubbull",
@@ -2244,14 +2234,14 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png"
           },
           {
-            "name": "Ralts",
+            "name": "Alolan Vulpix",
             "shinyEncounter": true,
-            "pokeapiId": 280,
+            "pokeapiId": 37,
             "sprite": {
-              "pokeapiId": 280,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/280.png"
+              "pokeapiId": 37,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10103.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/280.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png"
           }
         ],
         [
@@ -2266,16 +2256,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png"
           },
           {
-            "name": "Kirlia",
-            "shinyEncounter": true,
-            "pokeapiId": 281,
-            "sprite": {
-              "pokeapiId": 281,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png"
-          },
-          {
             "name": "Galarian Weezing",
             "shinyEncounter": true,
             "pokeapiId": 110,
@@ -2284,6 +2264,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10167.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
+          },
+          {
+            "name": "Kirlia",
+            "shinyEncounter": true,
+            "pokeapiId": 281,
+            "sprite": {
+              "pokeapiId": 281,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/281.png"
           }
         ],
         [
@@ -2298,16 +2288,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png"
           },
           {
-            "name": "Granbull",
-            "shinyEncounter": null,
-            "pokeapiId": 210,
-            "sprite": {
-              "pokeapiId": 210,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png"
-          },
-          {
             "name": "Galarian Weezing",
             "shinyEncounter": null,
             "pokeapiId": 110,
@@ -2316,6 +2296,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10167.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
+          },
+          {
+            "name": "Granbull",
+            "shinyEncounter": null,
+            "pokeapiId": 210,
+            "sprite": {
+              "pokeapiId": 210,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/210.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png"
           }
         ]
       ],
@@ -2483,16 +2473,6 @@
         ],
         [
           {
-            "name": "Snorlax",
-            "shinyEncounter": null,
-            "pokeapiId": 143,
-            "sprite": {
-              "pokeapiId": 143,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
-          },
-          {
             "name": "Poliwrath",
             "shinyEncounter": null,
             "pokeapiId": 62,
@@ -2511,9 +2491,7 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/282.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282.png"
-          }
-        ],
-        [
+          },
           {
             "name": "Snorlax",
             "shinyEncounter": null,
@@ -2523,7 +2501,9 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
-          },
+          }
+        ],
+        [
           {
             "name": "Gyarados",
             "shinyEncounter": null,
@@ -2543,6 +2523,16 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png"
+          },
+          {
+            "name": "Snorlax",
+            "shinyEncounter": null,
+            "pokeapiId": 143,
+            "sprite": {
+              "pokeapiId": 143,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
           }
         ]
       ],
@@ -2672,6 +2662,16 @@
         ],
         [
           {
+            "name": "Blastoise",
+            "shinyEncounter": null,
+            "pokeapiId": 9,
+            "sprite": {
+              "pokeapiId": 9,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+          },
+          {
             "name": "Flygon",
             "shinyEncounter": null,
             "pokeapiId": 330,
@@ -2690,19 +2690,19 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/598.png"
-          },
-          {
-            "name": "Blastoise",
-            "shinyEncounter": null,
-            "pokeapiId": 9,
-            "sprite": {
-              "pokeapiId": 9,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
           }
         ],
         [
+          {
+            "name": "Milotic",
+            "shinyEncounter": null,
+            "pokeapiId": 350,
+            "sprite": {
+              "pokeapiId": 350,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png"
+          },
           {
             "name": "Houndoom",
             "shinyEncounter": null,
@@ -2722,16 +2722,6 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/208.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png"
-          },
-          {
-            "name": "Milotic",
-            "shinyEncounter": null,
-            "pokeapiId": 350,
-            "sprite": {
-              "pokeapiId": 350,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/350.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/350.png"
           }
         ]
       ],
@@ -2798,16 +2788,6 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png"
           },
           {
-            "name": "Slowbro",
-            "shinyEncounter": null,
-            "pokeapiId": 80,
-            "sprite": {
-              "pokeapiId": 80,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
-            },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png"
-          },
-          {
             "name": "Golurk",
             "shinyEncounter": null,
             "pokeapiId": 623,
@@ -2816,18 +2796,28 @@
               "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png"
+          },
+          {
+            "name": "Slowbro",
+            "shinyEncounter": null,
+            "pokeapiId": 80,
+            "sprite": {
+              "pokeapiId": 80,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png"
           }
         ],
         [
           {
-            "name": "Scizor",
+            "name": "Alakazam",
             "shinyEncounter": null,
-            "pokeapiId": 212,
+            "pokeapiId": 65,
             "sprite": {
-              "pokeapiId": 212,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png"
+              "pokeapiId": 65,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
           },
           {
             "name": "Charizard",
@@ -2840,14 +2830,14 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
           },
           {
-            "name": "Alakazam",
+            "name": "Scizor",
             "shinyEncounter": null,
-            "pokeapiId": 65,
+            "pokeapiId": 212,
             "sprite": {
-              "pokeapiId": 65,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png"
+              "pokeapiId": 212,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/212.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png"
           }
         ]
       ],
@@ -2913,12 +2903,22 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png"
           },
           {
-            "name": "Weezing",
+            "name": "Golurk",
+            "shinyEncounter": null,
+            "pokeapiId": 623,
+            "sprite": {
+              "pokeapiId": 623,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png"
+            },
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png"
+          },
+          {
+            "name": "Galarian Weezing",
             "shinyEncounter": null,
             "pokeapiId": 110,
             "sprite": {
               "pokeapiId": 110,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png"
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10167.png"
             },
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png"
           }
@@ -2967,26 +2967,28 @@
       "counters": [
         {
           "name": "Mamoswine",
-          "moves": "Powder Snow / Icicle Spear",
-          "notes": "GO Hub — Cubone / Weezing / Tyranitar"
+          "moves": "Powder Snow / Icicle Spear / High Horsepower",
+          "notes": "GO Hub — Cubone / Golurk / Galarian Weezing / Tyranitar"
         },
         {
           "name": "Lucario",
-          "moves": "Force Palm / Aura Sphere",
-          "notes": "vs Snorlax / Tyranitar"
+          "moves": "Force Palm / Aura Sphere / Shadow Ball",
+          "notes": "vs Snorlax / Tyranitar / Gallade"
         },
         {
           "name": "Primarina",
-          "moves": "Charm / Disarming Voice",
-          "notes": "vs Tyranitar / Gallade / Camerupt"
+          "moves": "Waterfall / Hydro Cannon / Disarming Voice",
+          "notes": "vs Cubone / Golurk / Camerupt / Gallade / Tyranitar"
         },
         {
           "name": "Garchomp",
-          "moves": "Mud Shot / Earth Power"
+          "moves": "Mud Shot / Sand Tomb / Earth Power",
+          "notes": "vs Galarian Weezing / Tyranitar / Camerupt"
         },
         {
           "name": "Baxcalibur",
-          "moves": "Dragon Breath / Icy Wind"
+          "moves": "Dragon Breath / Icy Wind",
+          "notes": "vs Cubone / Golurk — avoid Galarian Weezing"
         }
       ],
       "notes": "Taken Over lead Shadow Cubone (Ground). Slot 2 is Snorlax or Kanto Weezing (not Galarian) per GO Hub Oct 1; slot 3 Tyranitar / Gallade / Camerupt."

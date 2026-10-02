@@ -1,7 +1,7 @@
 {
   "meta": {
     "asOf": "2026-10-02",
-    "asOfLabel": "2 Oct 2026 ~6:35 AM HKT",
+    "asOfLabel": "2 Oct 2026 ~10:40 PM HKT",
     "season": "Twilight Trails",
     "seasonWindow": "Tue 8 Sep 2026 10:00 AM – Tue 1 Dec 2026 10:00 AM local",
     "sources": [
@@ -25,7 +25,7 @@
       "Egg contents are fixed at pickup; event eggs can temporarily override seasonal pools.",
       "Some community charts still mark 5 km / Adventure Sync lists as incomplete — Leek Duck list used as primary.",
       "Shiny Shroodle debut LIVE during Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct 2026) from 12 km Strange Eggs (Leek Duck).",
-      "Egg distance pools still match Leek Duck chart last updated 14 Sep 2026 (Twilight Trails); no pool species changes verified this refresh."
+      "Egg distance pools still match Leek Duck chart last updated 14 Sep 2026 (Twilight Trails) and ScrapedDuck scrape; no pool species changes this evening refresh."
     ]
   },
   "eggs": [
@@ -921,5 +921,5 @@
     }
   ],
   "eventEggs": [],
-  "eventEggsNote": "No limited-time event egg overrides confirmed active on 15 Sep 2026 beyond the seasonal Twilight Trails pools. Harvest Festival: Taken Over (Oct 2–5) will affect Strange Eggs / Rocket content."
+  "eventEggsNote": "No limited-time event egg distance overrides active beyond Twilight Trails seasonal pools (Leek Duck eggs chart still dated 14 Sep 2026). Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct 2026) is LIVE for Rocket / Strange Egg context; Shiny Shroodle debut from 12 km Strange Eggs."
 }
