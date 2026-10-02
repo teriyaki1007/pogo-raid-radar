@@ -1,7 +1,7 @@
 {
   "iso2": "RW",
   "name": "Rwanda",
-  "updatedAt": "2026-10-02T23:10:46+08:00",
+  "updatedAt": "2026-10-03T05:04:14+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Rwanda opens first embassy in Spain| The New Times",
+      "source": "The New Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM29vQ3ZrNGRoazNKWmM5eHBpdnA3RldrZFFxWkJ4eFZCMWM0VmoxVkZPNGtDR2FuVlBkbEN3R196M3JfOW5ncUJhbkFsLVhkcjVxY3dJLWE3a0ZmdkZTRmpJUWp1RWxkTVZ5NUFxc2UzajdheHYwSkJhX1EyYjZOX3kyQlBlb2xOaHloZWczQm50eDFHRGNfbzFQVdIBoAFBVV95cUxNX1BSYWtxbEc3eGUwQmplc1cxTktjWTlUWEVDV2Ywd3hEVkFxVDlqam1JQnplMkxMRm1mdXR1UGNCYnZ2U2NqTVdrX2psSklRLWp4MnhRS3FDaTBmbTlfT193Xy1leHpVY1Rvbk5OQ25iTG02bW95QUEyT1dPR1EtMzBEREpWRU5zVVRnUUtfTXpubHl0bngySGZlRnVqUEIy?oc=5",
+      "publishedAt": "2026-10-03T04:18:40+08:00"
+    },
+    {
+      "title": "Alberta Mountie found not guilty of using database to help Rwanda",
+      "source": "Global News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3dodHdvLU9GdGhCclM1dGR0WmFtOXlYbmp0aXVjaTllVVlWZVF2d0o0WTEyQXp1LTdtMnBXT2xhUEQwSXRGU05TTnBzNnpzYWo0d3pmcUcxRnE3VzUzMzBrcnJGZlkyRF9Zdm9zR1BuX0xobTVOaXZIbjlEODdEUQ?oc=5",
+      "publishedAt": "2026-10-03T04:05:32+08:00"
+    },
+    {
+      "title": "Alberta Mountie found not guilty of using police database to help Rwanda",
+      "source": "edmonton.citynews.ca",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0ZJUDFod0xldWFpZmtBTXZwVmxuMDd6QVdvcERHMEpIa2ZkSGJjWmNHYTZsWFFXZ3c1Q2xjYkp5anNkR0pZMEE1dEF0cGpRM3U5THg0YWhqMUZGLXJueXhjY2lQTENCeFZVTm8ybVRfWUVLSXJLazd0ZFJON2NWTlhaS3FPVWJoYUFVdy1UWnNtV3E5aFJuMk1kSk93SUhJSWM2N2pSOTVsX1dnV2dGYVdzUQ?oc=5",
+      "publishedAt": "2026-10-03T03:06:49+08:00"
+    },
+    {
+      "title": "CP NewsAlert: Alberta Mountie found not guilty of using database to help Rwanda",
+      "source": "Winnipeg Free Press",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZWhDTEF4empYUHc3eHBYUEExbFZWNGRBdVZDaHpBT01hSk41ZTBra2plcXU1NnU4aUlJd2gtYXBVVGdtZUNHM0xKT3I0SFBnSXVlZW1wVU4xTjBnSi10ZjJTUklHWFh4NlE3YVNWdXc3YUpxWVhaZEpiYWVjSW41RmlfUV9nbDJaMGNCODViajFMUUo2aDc1bVhnMkZtRmhTdmJYaTZoOFVsVXJ3dE9yV3hvU3NTM3dFdHdqWV9kZkJ2Z21oWEpYSkZqZ1hWQWdoSTdN?oc=5",
+      "publishedAt": "2026-10-03T02:27:50+08:00"
+    },
+    {
+      "title": "From Rwanda to ACU, Jabo pursues science and service",
+      "source": "acuoptimist.com",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUU14LW5fd1pSaFAyWFJYMGtzZ0xBM3UyY2pBdUM2SVRjWTNRYjlPaG5oLTZhSGZManZmcTlwZVJQckFxTGtJSnROZjNHcG5kcmIzVUlSbndublNxNXNzWXR2TjdVYTlPN2JXdW54RXNaQkpYMTRRYlVkU1pQV1ZRbUN6OEdIUHltYlBabg?oc=5",
+      "publishedAt": "2026-10-02T23:19:19+08:00"
+    },
+    {
       "title": "How a WhatsApp Message Helped Open the Doors to the University of Rwanda",
       "source": "USA for UNHCR",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVHBiUHJtR29CQlpTV1NZU2ZLdW5saWhEVTU3bmhiR2g5UGZ6cHk3djVDZHNpVndRbTNBc0w1YUowcm4tSkFWTVVjaFVwQWFuWnVwWjJ2MVp4ZnFYVTdXLXlKQzJkODA0Vmw0TE1VeWMxQUU3d2tZUmM3YkFfTUMtZnZRV3NZcDhYdEVoTDlaaVozQk84YXlBSHljMHh2YmdtTDJuWTdsdG9vX2Y3Rk1JVF9Vbw?oc=5",
       "publishedAt": "2026-10-02T21:36:35+08:00"
-    },
-    {
-      "title": "Rwanda-bound cargo from Dar es Salaam rises by 24% as Tanzania strengthens corridor| The New Times",
-      "source": "The New Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMTZMcnFQQ2xoZ2VkaGVUWXF2SlVRS19wZVFodXZ4WVdoTmZMSHo5c1JUYVJNellGblhCaEpLNjU4ek1SaFFZejUybXpBV0VINzNhbXRteU1wT09PZnZPNTNrckNZR1JoUl9ER2ZtU2E3QllZV1ZBMEdjR0xCbVpBSVBYWjV0T2hpaVlRV05Cb0l5UlU4Rm1YSXh0aW5XRGUzUjlPQy15MXMxMnZzZjJjSTR2U0VCRGxNcVNBaWJ0VjA3ZWs0RlFZNVdySzBOX3dZYVHSAdcBQVVfeXFMT2V4Sldja2RzcFdJbVh3YjVqekx2cXlMbDZ3TTNIbjRNRkZ5WFRDTE9xQlR5VDdCZVlOenNpbUZrMWc2VGdQbG5zcWdrYWxySWhUYTlYR3RvZ3pPZngxaTBkVUo5SG5IUV9pTmk4RW0zRUxaSmZudVBBcGtTR09PckgtcDB3WHQtREl0bWxEQzFuZElSN18yQ3AzUFpYUmE5LWZzNDNwRlBodXUxWnBzVTN5LUV5VDRNanJWdTctZ2luaTVtc3lTTEhNbk1yRE5vS0pXcllubUE?oc=5",
-      "publishedAt": "2026-10-02T21:22:50+08:00"
     },
     {
       "title": "AI Reshapes Rwanda’s Global Business Services",
@@ -51,31 +75,7 @@
       "title": "Hapag-Lloyd opens offices in Namibia and Rwanda",
       "source": "Fresh Plaza",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd0dtUGtaY2VFdDZzWHktWmJjNXI4cG1YVlNhWndMT25qWjdQZF9FaTAxY1J3R1dNaW9DMXRERFBSUUh0Ym9tYXN2T3Uwd2dQLXlGbTVuWGxtUVNpN2ZUV29GUGZnTlo4S0dhOGRwd1JtY2FPRVpCbzlYcDBpOXNqSHJOTG91cllNU0hzRmdYZy1wbmVrTExjWnltd01BUnZCTTF4ZWoxRlk?oc=5",
-      "publishedAt": "2026-10-02T20:34:26+08:00"
-    },
-    {
-      "title": "Can Savings Drive the Economy? PM Tells Parliament Rwanda Needs More to Create Jobs",
-      "source": "KT PRESS -",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0pab2lHQUxjS3pNRGdlUXBjOU1hVGwyeEE4ZXV1WWlFN2R1MnRDVWtOZ2dEZ0g3SjViX2JldV8zV0xaM0pvSnlLZlFlQ2tkU3hBc05qdzVxbGhlcjFFMEl6U1V5dmFIN0pDZlE2cU1Yb28zRjBkZzhTbl9sV2E4a0hCQWlnZmVHOGd3aGtZQ3NBZVVBeFlfbzFWM3JvT1ZqT044YUJNUjVfaVVNa1dSZ01kX3g?oc=5",
-      "publishedAt": "2026-10-02T20:22:59+08:00"
-    },
-    {
-      "title": "MTN Rwanda Turns to AI as It Expands 5G Network",
-      "source": "Tech In Africa",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeC1FUmtnU1pZakxlOEpTV3Fvb3ZCUlpYdEkxUHFzMktpS1NXam1wRURjd2VlRUstaUtrNnlxbE5WMUhXN21RVnRwSnJmZmdTOEVLRGpwY3lxTDVlb2pPZnZJNGFEMVQxYW5jQkJCeEM2VXlZTGZ1RTR2cnptZlNNUllfbw?oc=5",
-      "publishedAt": "2026-10-02T19:42:34+08:00"
-    },
-    {
-      "title": "Rwanda Moves to Protect Rwf54 Billion Held by Nearly 15,000 Savings Groups",
-      "source": "KT PRESS -",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWW5TZWZyQ21FYUJfaFhROHFiSm9Mbk1jS3NITS1lVjB2ckc4WmdxUnMwZ05kTkMyTVh4akNISTFmUlFoUUk0dlJHVHYtZmYxOXNaNWpWWVpoQkxRRnM4TDZNT3JmekVFVjlhcGtmZ2ljWUZIb1lZR3gzWTlaQnV4ZGJqaUZwSG5pbU9IdUFfZU1kQ2lTWGgwektzZWRfUE5meXFNN2dlZVE?oc=5",
-      "publishedAt": "2026-10-02T19:18:38+08:00"
-    },
-    {
-      "title": "MTN Rwanda CEO credits AI with better fault management",
-      "source": "Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLW0ybWhkRE1Jd1o2YTZHbjB6LTN6MkFDbERmNmh0ZVNILW9wZWl5WWhSQ09RWEpLV3NnUklwdFZ0WVJpUjBIdTdFeHpweE9ueEFpSmVnVnFaY3AyRzlOQmYzMEtwa0VyUURnQngxNGlDLTZ2b3N3WXhtdTNqVzVySDhQTkVsZDZVbmhFekQ3M1pwekV3b2NSbUpfUDlIZw?oc=5",
-      "publishedAt": "2026-10-02T17:15:11+08:00"
+      "publishedAt": "2026-10-02T20:38:11+08:00"
     }
   ]
 }
