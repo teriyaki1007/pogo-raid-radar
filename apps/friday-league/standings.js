@@ -17,13 +17,12 @@
     return ((data && data.matchDays) || []).slice().sort(function (x, y) { return x.day - y.day; });
   }
 
-  /** All player names: anyone with a stat line, plus anyone listed in data.players. */
+  /** S2 player names: anyone with a stat line in a match day. (data.players only holds photos/profile extras.) */
   function playerNames(data) {
     var seen = {};
     var names = [];
     function add(n) { if (!Object.prototype.hasOwnProperty.call(seen, n)) { seen[n] = 1; names.push(n); } }
     sortedDays(data).forEach(function (d) { Object.keys(d.stats || {}).forEach(add); });
-    Object.keys((data && data.players) || {}).forEach(add);
     return names;
   }
 
@@ -100,6 +99,54 @@
     return { season: arch.season, rows: rows, champion: rows.length ? rows[0] : null };
   }
 
+  var ARCHIVE_SEASON = "S1";
+
+  function slugify(name) {
+    return String(name).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+  }
+
+  /** Profile extras for a player from data.players: {photo, pos} or {}. */
+  function playerExtras(data, name) {
+    var p = ((data && data.players) || {})[name];
+    return p && typeof p === "object" ? p : {};
+  }
+
+  /** Everyone who has a profile page: S2 players by rank, then archive-only players by archive rank. */
+  function profileOrder(data) {
+    var names = computeStandings(data).map(function (r) { return r.name; });
+    var arch = computeArchive(data, ARCHIVE_SEASON);
+    if (arch) arch.rows.forEach(function (r) { if (names.indexOf(r.name) < 0) names.push(r.name); });
+    return names;
+  }
+
+  function findBySlug(data, slug) {
+    var all = profileOrder(data);
+    for (var i = 0; i < all.length; i++) if (slugify(all[i]) === slug) return all[i];
+    return null;
+  }
+
+  /** Everything the profile page shows, computed from matchDays + archive. */
+  function playerProfile(data, name) {
+    var s2 = computeStandings(data).filter(function (r) { return r.name === name; })[0] || null;
+    var arch = computeArchive(data, ARCHIVE_SEASON);
+    var s1 = arch ? (arch.rows.filter(function (r) { return r.name === name; })[0] || null) : null;
+    if (!s2 && !s1) return null;
+    var extras = playerExtras(data, name);
+    var days = sortedDays(data).map(function (d) {
+      var e = s2 && s2.perDay[d.day];
+      return { day: d.day, date: d.date, played: !!e, g: e ? e.g : 0, a: e ? e.a : 0, ga: e ? e.ga : 0 };
+    });
+    var order = profileOrder(data), i = order.indexOf(name);
+    return {
+      name: name, slug: slugify(name), photo: extras.photo || null, pos: extras.pos || null,
+      s2: s2 && s2.md ? s2 : null, s1: s1, perDay: days,
+      isMvp: !!data.mvp && data.mvp === name,
+      isChampion: !!(arch && arch.champion && arch.champion.name === name),
+      s1Only: !!s1 && !(s2 && s2.md),
+      prev: order[(i - 1 + order.length) % order.length], next: order[(i + 1) % order.length]
+    };
+  }
+
   /** Name(s) with the highest value of key ("g" or "a"); ties return several. */
   function leaders(rows, key) {
     var max = 0;
@@ -122,7 +169,8 @@
   }
 
   return {
-    computeStandings: computeStandings, computeArchive: computeArchive, matchDayTable: matchDayTable, leaders: leaders,
+    computeStandings: computeStandings, computeArchive: computeArchive,
+    slugify: slugify, playerProfile: playerProfile, profileOrder: profileOrder, findBySlug: findBySlug, playerExtras: playerExtras, matchDayTable: matchDayTable, leaders: leaders,
     latestDay: latestDay, sortedDays: sortedDays, playerNames: playerNames, formatDate: formatDate,
     compareOverall: compareOverall, compareGoals: compareGoals, compareAssists: compareAssists
   };

@@ -85,6 +85,46 @@ assert.deepEqual(plain(S.computeStandings(data).map((r) => r.name)), ["Lucas", "
   assert.equal(JSON.parse(text).matchDays.length, 3);
 }
 
+// 3d. Player profiles: S2 + S1 stats are computed, never stored
+const profExpected = {
+  Lucas: [[8, 8, 16], [36, 10, 46]], Dastan: [[5, 7, 12], [19, 17, 36]], Wesley: [[9, 1, 10], [30, 11, 41]],
+  Justin: [[4, 4, 8], [23, 22, 45]], Curtis: [[2, 2, 4], [5, 1, 6]], Baron: [[1, 2, 3], [6, 4, 10]], Karson: [[1, 1, 2], [10, 5, 15]],
+};
+for (const [name, [e2, e1]] of Object.entries(profExpected)) {
+  const P = S.playerProfile(data, name);
+  assert.ok(P, name);
+  assert.deepEqual([P.s2.g, P.s2.a, P.s2.ga], e2, `${name} S2`);
+  assert.deepEqual([P.s1.g, P.s1.a, P.s1.ga], e1, `${name} S1`);
+  assert.equal(P.slug, name.toLowerCase());
+  assert.equal(S.findBySlug(data, P.slug), name);
+  assert.equal(P.photo, `img/${name.toLowerCase()}.jpg`, `${name} photo path`);
+  assert.ok(fs.existsSync(path.join(root, "apps/friday-league", P.photo)), `${name} photo file exists`);
+  assert.ok(fs.statSync(path.join(root, "apps/friday-league", P.photo)).size < 150_000, `${name} photo is compressed`);
+  assert.equal(P.perDay.length, 2);
+}
+const lucas = S.playerProfile(data, "Lucas");
+assert.equal(lucas.s2.rank, 1); assert.equal(lucas.s1.rank, 1);
+assert.equal(lucas.s2.md, 2); assert.equal(lucas.s2.gaPerMd, 8);
+assert.ok(lucas.isMvp && lucas.isChampion && !lucas.s1Only);
+assert.deepEqual(plain(lucas.perDay.map((d) => [d.day, d.played, d.g, d.a])), [[1, true, 2, 2], [2, true, 6, 6]]);
+const curtis = S.playerProfile(data, "Curtis");
+assert.equal(curtis.s2.md, 1); assert.equal(curtis.s2.rank, 5);
+assert.deepEqual(plain(curtis.perDay.map((d) => d.played)), [true, false], "Curtis absent MD2");
+assert.ok(!S.playerProfile(data, "Dastan").isMvp && !S.playerProfile(data, "Dastan").isChampion);
+// S1-only players: stats-only profile (no photo, no S2)
+for (const [name, rank, ga] of [["Luke", 5, 21], ["Theo", 9, 5]]) {
+  const P = S.playerProfile(data, name);
+  assert.ok(P.s1Only && !P.s2 && P.photo === null && P.s1.rank === rank && P.s1.ga === ga, name);
+}
+assert.equal(S.playerProfile(data, "Nobody"), null);
+assert.equal(S.findBySlug(data, "nobody"), null);
+// prev/next wrap around: S2 players by rank, then S1-only players
+assert.deepEqual(plain(S.profileOrder(data)), ["Lucas", "Dastan", "Wesley", "Justin", "Curtis", "Baron", "Karson", "Luke", "Theo"]);
+assert.equal(lucas.prev, "Theo"); assert.equal(lucas.next, "Dastan");
+assert.equal(S.slugify("Mary Ann"), "mary-ann");
+// photos referenced by data.players must exist
+for (const [n, v] of Object.entries(data.players)) assert.ok(fs.existsSync(path.join(root, "apps/friday-league", v.photo)), `${n} photo`);
+
 // 4. Script helpers
 assert.deepEqual(parseStats("Lucas 3/1, Dastan 2 / 2"), { Lucas: { g: 3, a: 1 }, Dastan: { g: 2, a: 2 } });
 assert.throws(() => parseStats("Lucas 3-1"));

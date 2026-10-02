@@ -2,7 +2,15 @@
   "season": "S2 (26/27)",
   "name": "Friday League",
   "mvp": "Lucas",
-  "players": {},
+  "players": {
+    "Lucas": { "photo": "img/lucas.jpg", "pos": "62% 30%", "zoom": 2.2 },
+    "Dastan": { "photo": "img/dastan.jpg", "pos": "57% 30%", "zoom": 2.2 },
+    "Wesley": { "photo": "img/wesley.jpg", "pos": "50% 28%", "zoom": 4 },
+    "Justin": { "photo": "img/justin.jpg", "pos": "52% 28%", "zoom": 2.2 },
+    "Curtis": { "photo": "img/curtis.jpg", "pos": "40% 28%", "zoom": 2.2 },
+    "Baron": { "photo": "img/baron.jpg", "pos": "60% 25%", "zoom": 4 },
+    "Karson": { "photo": "img/karson.jpg", "pos": "30% 27%", "zoom": 4.5 }
+  },
   "matchDays": [
     {
       "day": 1,

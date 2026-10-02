@@ -3,7 +3,8 @@
 //
 //   node scripts/add-friday-league-matchday.mjs 2026-10-09 "Lucas 3/1, Dastan 2/2, Wesley 1/0"
 //
-// Options: --new  allow player names not seen before   --dry-run  print only, don't write
+// Profiles/photos live in the "players" key of league.json and are never modified by this script.
+// Options: --new  allow player names not seen before (initials badge until a photo is added)   --dry-run  print only, don't write
 // Players who did not play are simply left out. Format is "Name goals/assists".
 import fs from "node:fs";
 import path from "node:path";
@@ -29,7 +30,8 @@ export function formatLeague(d) {
   if (!players.length) out.push('  "players": {},');
   else {
     out.push('  "players": {');
-    players.forEach(([n, v], i) => out.push(`    ${q(n)}: ${q(v)}${i < players.length - 1 ? "," : ""}`));
+    const obj = (v) => "{ " + Object.entries(v).map(([k, x]) => `${q(k)}: ${q(x)}`).join(", ") + " }";
+    players.forEach(([n, v], i) => out.push(`    ${q(n)}: ${obj(v)}${i < players.length - 1 ? "," : ""}`));
     out.push("  },");
   }
   out.push('  "matchDays": [');
@@ -94,8 +96,14 @@ function main() {
     if (last && date <= last.date)
       throw new Error(`Date ${date} must be after the latest match day (${last.date}, MD ${last.day}).`);
 
-    const known = S.playerNames(data);
+    // Known = anyone with stats, a players entry, or an archive entry (so returning players don't need --new).
+    const known = [...new Set([
+      ...S.playerNames(data),
+      ...Object.keys(data.players || {}),
+      ...(data.archive || []).flatMap((s) => s.final.map((f) => f.player)),
+    ])];
     const stats = {};
+    const newcomers = [];
     const raw = parseStats(statsArg);
     for (const [typed, v] of Object.entries(raw)) {
       const match = known.find((k) => k.toLowerCase() === typed.toLowerCase());
@@ -103,6 +111,7 @@ function main() {
       if (!match) {
         if (!allowNew) throw new Error(`Unknown player "${typed}". Known: ${known.join(", ")}. Use --new to add a new player.`);
         name = typed.replace(/\s+/g, " ");
+        newcomers.push(name);
       }
       if (name in stats) throw new Error(`Player "${name}" listed twice.`);
       stats[name] = v;
@@ -117,6 +126,8 @@ function main() {
     console.log("\n #  Player      MD   G   A  G+A");
     for (const r of table)
       console.log(`${String(r.rank).padStart(2)}  ${r.name.padEnd(10)} ${String(r.md).padStart(3)} ${String(r.g).padStart(3)} ${String(r.a).padStart(3)} ${String(r.ga).padStart(4)}`);
+    for (const n of newcomers)
+      console.log(`\nNote: new player "${n}" gets an initials badge. To add a photo: put img/<name>.jpg in apps/friday-league/ and add "${n}": { "photo": "img/<name>.jpg", "pos": "50% 10%" } to the "players" key in data/league.json.`);
     if (!dry) {
       fs.writeFileSync(dataFile, text);
       console.log(`\nWrote ${path.relative(root, dataFile)}. Next: npm run build, commit, push (see apps/friday-league/README.md).`);
