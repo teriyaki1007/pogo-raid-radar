@@ -1,7 +1,7 @@
 {
   "meta": {
-    "asOf": "2026-10-02",
-    "asOfLabel": "2 Oct 2026 ~10:40 PM HKT",
+    "asOf": "2026-10-03",
+    "asOfLabel": "3 Oct 2026 ~6:30 AM HKT",
     "season": "Twilight Trails",
     "seasonWindow": "Tue 8 Sep 2026 10:00 AM – Tue 1 Dec 2026 10:00 AM local",
     "sources": [
@@ -25,7 +25,8 @@
       "Egg contents are fixed at pickup; event eggs can temporarily override seasonal pools.",
       "Some community charts still mark 5 km / Adventure Sync lists as incomplete — Leek Duck list used as primary.",
       "Shiny Shroodle debut LIVE during Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct 2026) from 12 km Strange Eggs (Leek Duck).",
-      "Egg distance pools still match Leek Duck chart last updated 14 Sep 2026 (Twilight Trails) and ScrapedDuck scrape; no pool species changes this evening refresh."
+      "Shiny flags re-synced to Leek Duck eggs chart (14 Sep 2026) + ScrapedDuck: Larvesta (2/5/10 km), Tadbulb (2 km), Varoom (12 km) now marked shiny; Sobble no longer marked shiny on the chart. Shiny Shroodle remains True for LIVE Taken Over (through Mon 5 Oct) despite seasonal chart icon still absent.",
+      "Egg distance pools still match Leek Duck chart last updated 14 Sep 2026 (Twilight Trails) and ScrapedDuck scrape; no pool species changes this morning refresh."
     ]
   },
   "eggs": [
@@ -275,7 +276,7 @@
             "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png"
           },
           "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/816.png",
-          "shiny": true
+          "shiny": null
         },
         {
           "name": "Sprigatito",
@@ -375,7 +376,7 @@
             "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/938.png"
           },
           "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/938.png",
-          "shiny": null
+          "shiny": true
         },
         {
           "name": "Larvesta",
@@ -385,7 +386,7 @@
             "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
           },
           "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png",
-          "shiny": null,
+          "shiny": true,
           "notes": "Shiny availability not confirmed published for this pool; historically no Shiny Larvesta in GO"
         }
       ]
@@ -490,7 +491,7 @@
             "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
           },
           "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png",
-          "shiny": null,
+          "shiny": true,
           "notes": "Shiny availability not confirmed published for this pool; historically no Shiny Larvesta in GO"
         }
       ]
@@ -783,7 +784,7 @@
             "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/636.png"
           },
           "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/636.png",
-          "shiny": null,
+          "shiny": true,
           "notes": "Shiny availability not confirmed published for this pool; historically no Shiny Larvesta in GO"
         }
       ]
@@ -915,7 +916,7 @@
             "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/965.png"
           },
           "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/965.png",
-          "shiny": null
+          "shiny": true
         }
       ]
     }

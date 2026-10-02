@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-10-02",
-    "asOfLabel": "2 Oct 2026 ~10:40 PM HKT",
+    "asOf": "2026-10-03",
+    "asOfLabel": "3 Oct 2026 ~6:30 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE (Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local): Harvest Festival: Taken Over — Giovanni Shadow Zekrom (GO Pass Super Rocket Radar), new Shadows Wimpod / Fomantis / Sandygast, Frustration removable with Charged TM, balloons every 2h. Raids still Xerneas 5★ + Mega Victreebel (→ Tue 6 Oct 10:00 PM). Shadow 1★/3★ daily; Shadow 5★ Thundurus Incarnate weekend Sat–Sun 3–4 Oct (through ~6 Oct 8:00 PM). Applin Picking continues through Mon 5 Oct 8:00 PM. Seedot Spotlight (Thu 1 Oct) ended.",
-      "endsAtLabel": "Taken Over / Shadow Zekrom → Mon 5 Oct 8:00 PM · Applin Picking → Mon 5 Oct 8:00 PM · Xerneas / Mega Victreebel → Tue 6 Oct 10:00 PM · Shadow 5★ weekend → Sat–Sun 3–4 Oct"
+      "text": "LIVE (Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local): Harvest Festival: Taken Over — Giovanni Shadow Zekrom (GO Pass Super Rocket Radar), new Shadows Wimpod / Fomantis / Sandygast, Frustration removable with Charged TM, balloons every 2h. Raids still Xerneas 5★ + Mega Victreebel (→ Tue 6 Oct 10:00 PM). Shadow 1★/3★ daily; Shadow 5★ Thundurus Incarnate LIVE this weekend Sat–Sun 3–4 Oct (package through ~6 Oct 8:00 PM). Applin Picking continues through Mon 5 Oct 8:00 PM. Seedot Spotlight (Thu 1 Oct) ended.",
+      "endsAtLabel": "Taken Over / Shadow Zekrom → Mon 5 Oct 8:00 PM · Applin Picking → Mon 5 Oct 8:00 PM · Xerneas / Mega Victreebel → Tue 6 Oct 10:00 PM · Shadow 5★ weekend LIVE Sat–Sun 3–4 Oct"
     },
     "legend": {
       "standard": {
@@ -474,7 +474,7 @@
       "category": "shadow",
       "isShadow": true,
       "isMega": false,
-      "window": "Weekends only through ~6 Oct 2026 — next Sat–Sun 3–4 Oct (ends Oct 6 ~8:00 PM local)",
+      "window": "Weekends only through ~6 Oct 2026 — LIVE this weekend Sat–Sun 3–4 Oct (package ends Oct 6 ~8:00 PM local)",
       "windowStart": "2026-09-09T06:00:00",
       "windowEnd": "2026-10-06T20:00:00",
       "shiny": true,
@@ -491,7 +491,7 @@
         "pokeapiId": 642,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png"
       },
-      "notes": "Next Shadow 5★ window Sat–Sun 3–4 Oct; further weekends through ~6 Oct 2026. Local-only; Purified Gems needed when enraged.",
+      "notes": "LIVE Shadow 5★ window Sat–Sun 3–4 Oct; further weekends through ~6 Oct 2026. Local-only; Purified Gems needed when enraged.",
       "highlight": true,
       "types": [
         "Electric",
@@ -723,7 +723,7 @@
       "species": "Honedge",
       "tier": "1",
       "tierLabel": "1★",
-      "shiny": false,
+      "shiny": true,
       "cpL20": 794,
       "cpL25": 993,
       "weather": [
@@ -1171,9 +1171,9 @@
     },
     {
       "id": "shadow-weekend-oct3",
-      "when": "Sat–Sun 3–4 Oct 2026 (next)",
-      "title": "Shadow 5★ weekend — Thundurus Incarnate",
-      "impact": "Next Shadow 5★ window. Package through ~6 Oct 8:00 PM local.",
+      "when": "Sat–Sun 3–4 Oct 2026 (LIVE)",
+      "title": "Shadow 5★ weekend — Thundurus Incarnate (LIVE)",
+      "impact": "LIVE Shadow 5★ window this weekend. Package through ~6 Oct 8:00 PM local.",
       "urgent": true
     },
     {
