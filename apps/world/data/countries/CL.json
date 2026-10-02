@@ -1,7 +1,7 @@
 {
   "iso2": "CL",
   "name": "Chile",
-  "updatedAt": "2026-10-02T05:04:57+08:00",
+  "updatedAt": "2026-10-02T11:09:19+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,28 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Missing Chilean Diver’s Gear Found With Bite Marks As Experts Clash Over Shark Theory",
+      "source": "DeeperBlue.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPU1ItanhRblRYczJnQ1ZFaFhEbW9XRnlhbjAtTXg4M0RTdFFlckF2OW5YbEJxbm9UQkNkN0FFb1FvVTdPZDlLcmlUVlRxNHphd3Q5ZDQybjFZWHh4MTlJTGJwRkFBTFo2X2sxd0Y4WFgzRFdEcE9mNWJLV1J1czVhYWNPOUJWVU82VllsNWdSLTZLR2ItV2xFZ3lodGt0MEM0Um1HRWV3eld6UTdLazc1eUx3?oc=5",
+      "publishedAt": "2026-10-02T10:00:44+08:00"
+    },
+    {
+      "title": "Student protests in Chile lead to violent clashes over proposed education cuts",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSnMzbFZvdTZiRi1OTGpSanJEQ2Q0cTRYcFdjLW85R1JseGIybUk5NERfUGNMS05Ob0g0aTZxSnVHdkZEb0M0dG9qcDV5Rm1vbFhENDVrcEJkVU4zcjFWNXBVN0VVWGJpZ09LcllJWVNyN0dmVVZLdDVSV2hjbDZZUmVrNXIzdjlJLWRkdXNZckxLbDBiZ1BlOG44RmVMSFdMRjBVQ0h3blhmM2tvaHZZcE5kRDVHUXc?oc=5",
+      "publishedAt": "2026-10-02T09:00:35+08:00"
+    },
+    {
+      "title": "ICE reveals what led to detentions at Chile & Chili's Taqueria in Tallahassee as legal expert weighs in",
+      "source": "WTXL ABC 27",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYkZSVlFFY1NPYTNsVFBaUlZGLWNMNXV0dDhaekgyRVFSNzY1U2VTNjU5eXJ5NllpQmFyQ3VQcDlfa0Vhbjh0NVpjb0tNd2FOalJkVjMwZ0RKMWlOaTRrRnJmZmFlR1BQREhSR2p5empKMWtZTlZEODN3TDQ2WkF0ekVjTGRQQzlmMExmRVhkR1BGZWtnTjVWTmdTVDZoNHI4Zy0zM3NuLXhHODgyS1UwVnd4V3ZJSUxTTFF1TjFwVHJ1Z3JQTHBqNjh5V3lfQ2pjdl81OVp0NFZ6UHc?oc=5",
+      "publishedAt": "2026-10-02T06:46:14+08:00"
+    },
+    {
+      "title": "CVE Chile chief talks project pipeline, services offer, PMGD outlook, PPA strategy",
+      "source": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMC1SUkJTc0tFTnBUNXVIZE81TS1DQnNCa3ZFUTd4d3hNbWpuWkRlMng3d2MtY3pYZmZ6THl4dzdCalZQSEtIbkQ3YldkSXktX0VHX1Z6b3dIV2xEdlVncWRuVllVMm9iVFZMRGRTa0g0MXZBTmRYWjc4aEloUEdnR2R5bWRkSVV5MTAwbmQ2dTF2ODlld1I3QmdaYmF2Mld4VWIwdEs0MnpTdFktZzNEMnFyTmljaHU2d3J3Xw?oc=5",
+      "publishedAt": "2026-10-02T01:54:06+08:00"
+    },
+    {
       "title": "Google to fund Chile's Aguas Andinas under goal to replenish 120% of its water",
       "source": "BNamericas",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVE9vYWZjWVFBa2NBSzUxU0N5QXg3TXNLODJIcVRlaG11ZldVaWljWk5XRmpzb0UtRGxxakp0SEE3RHp6akdEbXVGeWF1bHFvejdyN3BsMTdGQkd4bGgya2xPYWlSOEM5bGNwWTVVMDFjb25DQ2h6QVFEbjJuekRuaGdnMGJEdkFxb3prcGlyNDNteElrRVdLd2FrandKY0N0RXV5bHdOdkxKaEI2bFhsZA?oc=5",
       "publishedAt": "2026-10-02T01:54:06+08:00"
     },
     {
-      "title": "CVE Chile chief talks project pipeline, services offer, PMGD outlook, PPA strategy",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMC1SUkJTc0tFTnBUNXVIZE81TS1DQnNCa3ZFUTd4d3hNbWpuWkRlMng3d2MtY3pYZmZ6THl4dzdCalZQSEtIbkQ3YldkSXktX0VHX1Z6b3dIV2xEdlVncWRuVllVMm9iVFZMRGRTa0g0MXZBTmRYWjc4aEloUEdnR2R5bWRkSVV5MTAwbmQ2dTF2ODlld1I3QmdaYmF2Mld4VWIwdEs0MnpTdFktZzNEMnFyTmljaHU2d3J3Xw?oc=5",
-      "publishedAt": "2026-10-02T01:52:00+08:00"
-    },
-    {
       "title": "APTOPIX Chile Students Protest",
       "source": "The Herald Journal",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcEJsYTNwMXdILXNLTS1fVVpKcmZ4U0gtNk9IUk1mUzd5UUNRVnFVOVZDa1RRcFlrT2Q1bnNFXzN0b2lMSzN3ekdERTJNN2kxNk9aVDR0R2tTd0dseTUxWkhaZ3hURzktazlqbGdzc3MyMWJ0a3hvOGNGV0JKOFRzRUFqOUhMMHRQUWFJcVhMT0tONkczdHdRSlpDeE5DWEpDcm5fVTF2S3RzdzA?oc=5",
       "publishedAt": "2026-10-02T01:33:25+08:00"
-    },
-    {
-      "title": "Chile Students Protest Feared Education Cuts",
-      "source": "english.alarabiya.net",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd2p0emp3SkJNellZWnpEQ2VEZWJXbWlIcENqZEd0MWUxeXh6RUt5QTZyU0JMRHR5TlhyUzZITVQ2dEQ5eFlSQUF1VlBlaXdrUFlrSUhkclZVa0dHd0F0S2R3VGl6Q2dDRlRzeVJzU19fa1NtMlFFckRiRnkydDN4Sy1sOTZYZDlsMTBMRHlpcW5GR0UxZWd5RXRXQVhwUdIBowFBVV95cUxPNC1sQTJrX1hsWHlfQ0RtNU0zbHZPTmtuZVRqWjNfSTJRMTA3aXd5ZEVFZFFDRTlSX2VScll4dkp0dHJoYVN5Sk9icEQ3bkZZS29BX3VWdVY5WGpRUkZHZU1rd2V4T2hjRUlQOU1CTzRqbDdJbWZUeGlrZ09hMzlJa2dzblJhMUFLanBFRTFpRHdpSktRLXhTZXZLODh4b2ZfOTQ0?oc=5",
-      "publishedAt": "2026-10-02T01:30:11+08:00"
     },
     {
       "title": "Chile Students Protest",
@@ -64,18 +76,6 @@
       "source": "Arkansas Razorbacks",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMWdkeFF2bWNMUjNJM0E2eElqeElnRVRUU1ZQcnZUOHpYYU1sQlhuWkpHUTNQWnNmVHR3aThxbE5VeGlJeGNIaG51ZmlDY204MFd3YXFibnBpQ0swLWhFaFNseXEtNm9SdVpQemJlX2twTjN0Y1M4M2dWekN4M3FLZ1h5QWZfQzJab05JZlNhRUs?oc=5",
       "publishedAt": "2026-10-02T01:23:30+08:00"
-    },
-    {
-      "title": "No. 16 Razorbacks host Chile Pepper Festival at Agri Park",
-      "source": "Arkansas Razorbacks",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMWE0RW9HZ19TR2ExblVlZ0dwVW1NQWR0YjdjOHgxaERtUDlySGd3RVVtZmFOYXJvdkZjd2J1V3M4M05hVnVpQ1lZOGk2ZHRHS3dBSThvZUtTV2VPNnJEZ1Y0VFdaSnBuek9rMnJKRFZpTkNRRjFZdDdQY0x1dV85RFUwbnZHZ21mbW8xeWZlNnNPUQ?oc=5",
-      "publishedAt": "2026-10-02T01:17:01+08:00"
-    },
-    {
-      "title": "Chile Lithium Project Draws Investors Despite Pullback",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT2JyN1M1bTNiRVhFMEh1aHI2UkFBT1hqZjdDeV9pZjl1TXNSY084RVktaXR0d1E3b3Vmcl9mR054OVI5azdoTkhBN1B5aTRXWk1oM05fVkJ0a2hvR3lpV0RPcVVxYU90Q083cUdUMlBUTVk3YXZCMzJUNWhvcWJrbjZpYVhYN2tCM2V1blBfQlVPS0xEMWtSWm4tc3JyOVhtd2YxOENKR3lPSXNqY3M0d2hqTmphdw?oc=5",
-      "publishedAt": "2026-10-01T23:59:25+08:00"
     }
   ]
 }

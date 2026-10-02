@@ -1,7 +1,7 @@
 {
   "iso2": "UY",
   "name": "Uruguay",
-  "updatedAt": "2026-10-02T05:04:57+08:00",
+  "updatedAt": "2026-10-02T11:09:19+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,22 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Uruguay International Music Day",
+      "source": "chronicleonline.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVZ5WlR0QkpRYU9QNEpnM2hWVDd4N3NQLS1hbzJRbFIxSlM3TW1RZDVsYzBwSERPVVBtU1huekkyaTBwZlhVUHhsaVhKSWg5NWZTdWNFSjdhVzR3NzlIQlFMX21sb1VMNlp3Y1p2LWk3ekJXUVVjNXFKVHNOZENxMTNnc0lxdkc2a2pRMDFPOHF2OEQweUh0My1GWmtpZnZKYjhZMXgyd1Q1eDBlcV9WQ1pSRXRLWTMyNmR4ZEdJdw?oc=5",
+      "publishedAt": "2026-10-02T06:56:27+08:00"
+    },
+    {
       "title": "Uruguay Port Conflict Hits Fishing Exports, Diverts Cargo to Other Ports",
-      "source": "datamarnews.com",
+      "source": "DatamarNews",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ1BYTVpNWmo2eXRWRlVYVFVQdXQzRUptbUZLT04xeHhybFRCT2xhQ0pkUmNGUmVJUjV1YXZwQXJHcld2clIxbDJiekVHMkI5c1pfOWhGYWVBWFZjZHhWN2VDZlBpYU0zWnlCa1NiM0NLandEbXBVWEhoUEh5dnRXVWRDcG5fdkpkVjJYV1Q0cFI?oc=5",
       "publishedAt": "2026-10-02T04:36:25+08:00"
+    },
+    {
+      "title": "Minister of State at the Ministry of Foreign Affairs, Foreign Minister of Uruguay sign letter of intent on international mediation",
+      "source": "The Peninsula Qatar",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNR1pRUFVjamJFNVNPUk5iT3ZKOFp4YXdmMWNVMy11MGZYVlJrdms2UncwcWdNV3JQOW9ZbXVleXVUSWU1TnFMWG94cUlNbVY5Y1MzQ0pod2hnd3E4RXpwMmk1NHVFbVlNbU1HUkl0N0RRSFRDMU15a2puZ284eVhJUC1iSFlKN1MxbF9pSkJrbExhNHNWc0Nld2luUUFVVWxncmdZLUVUTlJWdnVvbENvMkl6RjBaa3ZHSmlicmpJcHBueU85bWoyNjVnRXNhSEtud2Q3SU4wTTRQV3dKRXpfbnBFMG9Nb3dSN3Z2Ymh6aUN5ZTZpcFRFRDlHaEN0WGlXMjFsdEhNN0xEQQ?oc=5",
+      "publishedAt": "2026-10-02T03:47:41+08:00"
     },
     {
       "title": "Uruguay Trade Balance Swings to Deficit in August",
       "source": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUE9FQVJKeXBjbjh6X0Z6a2ltbVdUd3hNeVdUb0tzRU84S0tOdHhGakg4VDFsa1doZHU2Z0lFU1YwN2gxb0FvWDNYVGNNeTFNZVMwYTBtNDQwT0NNa0xMM2xPZzNVR0w1NnBCTFpXblhtYW1ZdHhUNVFxaVR1d3ZtRGNWY0JXdmxTcUQ5aGJTYUZObV9QNENGMEFXdG9FUXVXOXc?oc=5",
       "publishedAt": "2026-10-02T03:27:14+08:00"
-    },
-    {
-      "title": "Qatar, Uruguay Sign Letter of Intent to Strengthen Cooperation on Int'l Mediation",
-      "source": "qna.org.qa",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYzVobzFSSGRhNzVTSVRlSkRtZmo4eWNkdkxxVEN6QWRVaDM4VmQzMTdLU2kyamp0SVB5QldDTDdoYlFhSHQtcDNLS3U3NHhhQXhLV3FFbHhqZTF1OHdNa3B3Y29DN0NXOW5icFZMZlB5MHJZRGw4bkh4WkttOURsS3o0T1RHVEYxUGNIb2trN1FjMGl4Z0lUQnVUZEVkMXdtQTNCT25jRDNPeWtPeWh2dVgyYWlQYW43VV9GUXo5YmNaU0RS?oc=5",
-      "publishedAt": "2026-10-02T02:07:08+08:00"
     },
     {
       "title": "Uruguay President Meets Minister of State at Ministry of Foreign Affairs",
@@ -70,12 +76,6 @@
       "source": "MercoPress",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSkExdWdlMDhlSmxITUxzT1B1ekhPeV9tN2lGS3l2SjJiQm5aeXJsV2lQTC1LOG1Qb3pxYllnNlkzVHVLN2NHakJvdlF0S3F3YzNQdzFiRnBaaUY3OXo0bVhTN1pqZi1vbEZNNGJBU3owdzNaNEllc05zNGRvSDBySEl1Ui1EdFBuSXZGNUx2MVotQUMwSTdueDU5R2sxQXZVN1NlWE5uZ3lvMFRoa2FfN09NR0FlcUxGQmdIRHBMczZRQlBmSi00Vm5RS2NaTXU2RFE?oc=5",
       "publishedAt": "2026-10-01T17:32:00+08:00"
-    },
-    {
-      "title": "Moreno stresses team responsibility after Uruguay loss, Korea aims bounce back - CHOSUNBIZ",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jcHdDTGtQME5uX18xTUVCWllnbFVvYkFpUzM5ejgwcm1mbXhfbjBGREUwYkdKbEY5UWdhazAxUE1IVk1yQlhTUWR2c3JMMWV5SzhrSEg1VnhiNTdyaTN5dmJZLUNNUHFZWGhCLWdxdGpIS1dZRWI0VEI0VVB5X1XSAZMBQVVfeXFMT0FlZkVLeVRPSjltelViRGUzek82c1djNkNGS3ZYLTFkNUM5WW45MWlLUXlWd25zd2xOQjB3Tk10UUFTeFhNeFU5aGllV0FJbVYwVC13LW1jN0wwWDRvTUVpUTRfNkt4U05WSmtSSU1FNm9iZUd2RldkbGZENWR0cEppNk53dkkzd0VXOHU3SmhpR1Bv?oc=5",
-      "publishedAt": "2026-10-01T16:30:00+08:00"
     }
   ]
 }

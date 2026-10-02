@@ -1,7 +1,7 @@
 {
   "iso2": "VA",
   "name": "Vatican City",
-  "updatedAt": "2026-10-02T05:04:57+08:00",
+  "updatedAt": "2026-10-02T11:09:19+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,6 +26,42 @@
   ],
   "headlines": [
     {
+      "title": "The view from the Vatican",
+      "source": "SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRnFYeW0zVDBqdUVvU3RnZEZxc3Q0YmsyT3U4NEhGa0FuY3NaUkhQWTdmcW5KR2lPZDQ2WkRfZnNUdlA2MXowdjdzS1N3bVpYbW41eV90dThBVnZOVlRrNW53akVPczF2clZZWi1GbHVUNjAwd1RKMEwwcGdOMWJ5ZFVrWQ?oc=5",
+      "publishedAt": "2026-10-02T10:38:03+08:00"
+    },
+    {
+      "title": "Relics of Charlene Richard returned to Lafayette after trip to Vatican",
+      "source": "KLFY.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYzBWTEdxNHB5ZVh5WTZVRUhKRmtNNjdkOGRHd2JIcWRzZ2dZb2pmWW51eXpXbXFaVU0xT1FkWFJ5NW13NktKdFByV1prTHJCS3ByZVlvODZiOThRQ2dPTElnRDEyOVdZTy1hMmhBYnhpQnk3Rm9jVXhJQ3lvcnc3bnY0UWstZ2d3elowbWRGWWdCTkpwbjFvclVIb1B2dUJ0NXUxQ0lpb2RnWm12S0h5MnVqZmFmQdIBuwFBVV95cUxNR2REa2YtcjByWDJmQmtuVFpWVS1yWnFDUzVTNEdUdElYRXJRSlk4MWVPMnY2TUktRmlaaEZRX3g4TVZjNlpOZ3pBRk1HZnd1WmY0a25RNnBPUjlxRmNDaE5xMGt4SDU4bWM2UTc4WmgwRl9IeURzMXNSYk81MUxzZVFLZHNDMEJBdTZlNzlTLWNxMk5xeEotNVhvcEdkejlyQWh4ZHBxYjAzMF8ycTY4Mm05VGZoLWVScXpV?oc=5",
+      "publishedAt": "2026-10-02T07:23:55+08:00"
+    },
+    {
+      "title": "Vatican Diplomacy & Vance’s End Times",
+      "source": "Catholic Outlook",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5rUExTVTVFQU9wcnFuS3dFUDRMcU5jbEt4LWV5NU5BV3pyN2MzeGxNMVdCWkNHbGM0NEpFRTlnWHhUYmN0NTBaWGhOU3FSVTRtTHFQekJCUlo4X0VFbEVIci1QdEhpYWdHS1NrVmc1RUc?oc=5",
+      "publishedAt": "2026-10-02T07:15:40+08:00"
+    },
+    {
+      "title": "Hundreds of children join Pope Leo XIV in praying the rosary for peace in Vatican Gardens",
+      "source": "OSV News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUVHaXZ5ZmJDbTB3OUpwYU1GZjN0SkU2SDc3SHdhZUMyRTIyaVREZUowNzV2MC1RaHR5UFowTHdwb1dhQkxaWXRNclFXOERUYS05UDhMTUxfMDg1VENOeHJvSEdpMHEyZ2k1cG1namhnNGx5cVFHajdUV0U0U1lUODRpY0V3X0pKMXRSeFRQNVliVzN5b2lHWHlDcE9aYy1BLVFJV3hkM1czc0gxSmU5NG5hQWw?oc=5",
+      "publishedAt": "2026-10-02T05:53:25+08:00"
+    },
+    {
+      "title": "Bishop Barron meets Pope Leo XIV at Vatican, ordains 18 deacons in St. Peter’s Basilica",
+      "source": "OSV News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUzFaVGZuWXljalNwMWc1WEhVSndyMDgyN1lFc2ZWeXA5c1VNZTVHRWdxUFFJZUpEYlcwQ3ZDWVNyTnlZNk1ta0J1NjdFajloTi1YWjJycENYQ1Nta2V5MWdKdnlIaXI0dFhFREhrcUF6X2tNa1N3MldNdEEtVXR3aXJwU2liSjBHV3NWdWxxY3ZYeUJiSUQ5SUlTWURtSjdlMnUxamhNNVdVMFU1U1E?oc=5",
+      "publishedAt": "2026-10-02T05:20:49+08:00"
+    },
+    {
+      "title": "The White Sox say their fan in the Vatican may be the extra boost they needed",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNUFJRDF1TFozdl9LNlVGajg2SFN2cUlHUmNZZTJJNFg0SVVlWVdLWmIzd01MN3JOT0ZmckdWN3RYNGVrT0lMbHhHZVZ3LXJ0bFZPZS1STHRJcGQ0WEJETUd1clllV3ZHUUJ2RExOcVRoLV9fZUNMUHpGQkhPeU9WQ1N1Y3hqa25XVUVNQno0d2xuSV9JM3kzN0JfSUdRY2hfa2ZkSGdrdlUyV3dCY2RfWjdCZ3l4V0xUaTRBRHBCZw?oc=5",
+      "publishedAt": "2026-10-02T05:15:56+08:00"
+    },
+    {
       "title": "A rosary in the Vatican for ‘peace for all the children in the world'",
       "source": "Vatican News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMlowNW9hSks4ZzlrMkhDdWYtWUd0eVM4bEp5dkNYNHNKTGNCSzk0NGJGSVZhTnVoTDJMS19lVFVoWEhhZnl3UkRyeno2dWppWkNkX2xZVjBIekl5VTM1Rm5SNkExNXdzSkd0Q2YyWE9paGhQRGhNTS1uSW9HS3Q4bzhIeDQzR21zaEtSbGdTeVFhc0dQX05ZZVF2RFdIa3JyaUJIdU5va2tvZW02?oc=5",
@@ -36,42 +72,6 @@
       "source": "dailyrecordnews.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcGp2TFpHbWpZdTQzVmxDUWJGTTROYUNDZ2pfZjZEcmVrYzhHQVJSQldTQXRaaHRNYjFTNFpRcDVsclh6MXF4Mm5maEs1YnlsaUJmdmJta0g1UXRCNlFadDVhUy1yUFJWdDBTQVBodkFCMkVIRGd2ekpjaWRuY0JhZzdydXB5REZCZEVpUGlrc1pFajh1NHEzN0xSUHRRWUxGYm43Y3RqbkNjZWU5WFJwX2JwWmZ6ZnF4VkRZV0FDSEc?oc=5",
       "publishedAt": "2026-10-02T00:44:32+08:00"
-    },
-    {
-      "title": "Anglo-Saxon coins found near Vatican reveal medieval ‘Little England’",
-      "source": "NonStop Local KHQ",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxON0xuMjkwd2I4cDUwM3BUdjFoREcxYVJRaUF4c3lna09RQ2VXWkFBX0dHLVRKelhzbWhKUGZCYW02QTBTb0dYWEIybkxuMXgxMDhKTmUwbThtXzRiWjJnekFxc0Zmb0l5SF9iOXRMd2hnV25jcFV2Rk5ybHVSLVhuSXBlc3JObXlNZ0psQmR2T3pZZXVPaXQwUEJpNThuY3hzZzlTczFlcVFlWjBXdU4wbUNYTkZjNFdMcWJIbk5SZi1hOF9aZ2RXdVQ4S29QTGIzWHd2V2QtUGJWQk9tUDkxTXBGdks5VjRS?oc=5",
-      "publishedAt": "2026-10-02T00:21:34+08:00"
-    },
-    {
-      "title": "VATICAN - New “Donum Missionis” Foundation brings the missionary colleges in Rome under one institution",
-      "source": "Agenzia Fides",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRDhuRFJEY1VoSnVoU25lcVNqY2tzWVZkWFJuVTEtSTNyLTFXTDFPajdpQ1lqVW94UVZndU9DWDl5Tk1yRWNkRWtxSEtqSVJVUVVUT2pOWEdtR1ZQR0lkakRxME5aT2FmMEZSU013TVZYYzBYVTdhMXE0M3hOaGV3dld4eE51OXNZcFpWcXU5SG5GM0NHcE45MlV3bkgxSmRKYTl0NkVpMmlHcEVpNlNMQzBjQmwxLTNxdHRIMnJrLTZnRVl2b1hvSUF6SE1weHc?oc=5",
-      "publishedAt": "2026-10-01T23:55:55+08:00"
-    },
-    {
-      "title": "‘From conflict to communion’: Lutheran World Federation meets with Pope",
-      "source": "Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOVpLSEFmMVFwQVBSQ3NsWkh4STduZ1h2c3FkTm5XRzdXdTJOa1RmSUFuLVc3cGNSQk5KZ0RFQVZmdGlhLWtVVjJKMUpYQkxiS2ZYd19DWTc3SFlreWtkYTlKVnNPMEdWdzFVRWdUN29iVnBtWk9QenhvbzFhWXdfTDE3OFRGaWlfa3dVU1U1ZTNnMmh6VG9abEVxQnhUQlR0eUhNaXNfaHZZRW5SdWZNcWJNVQ?oc=5",
-      "publishedAt": "2026-10-01T23:08:07+08:00"
-    },
-    {
-      "title": "Pope warns of ‘uncontrolled consumption of resources,’ challenges to waste disposal",
-      "source": "EWTN News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkFjajdWNXlBYWd5Q0lrcmFPQUlIdzdmWkpPREpCX3B1dUlMWW9mR0R1NTd5YTFxZEpQODgxSVZWdmN4RldLSVdZRmhBRUwydXBTOTJNcVRmMGt2dzhjS2REdUhPTnFnVFl0cVFfQTFJb09iYUQwS3NqVnZMc0w2WW9WbmNOb0NLYXhLTWF6VTdWYUtXVjZWaHAtWEVqRURZY2tEQnZ1OUpyZ3V2aGFiYWE4WQ?oc=5",
-      "publishedAt": "2026-10-01T23:06:00+08:00"
-    },
-    {
-      "title": "Vatican calls for greater health care access and global solidarity",
-      "source": "The Dialog",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSmlVWXZaU0ZETWNSbTk0TlNqWnV0SUtTcXBJX3I3TmpYX0tLWm1nY2tKMElHU01nSG5YMU5ZVDF5eFNZQnFXQlRwVmEzMzNLZ1ZmV2dsRHdOV0RkVGc4cFV5dWZfYXQzMTVoYWppdW9CRENyUzF1dlprOW1FWHMzaV9ucDBNdER5NXl3MkdPZDNqNTNLNDRFNmt6Z2lfbmpsbFhR?oc=5",
-      "publishedAt": "2026-10-01T21:58:50+08:00"
-    },
-    {
-      "title": "Vatican II Didn’t Kneel to Modernity",
-      "source": "First Things",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5qSE9mTE1iMFIyckpfbDJ0WmJpZGtjUFA2NTNvRlpiNjJPZ0tVczRBdnBHZ1phQ29VX1p6Z1VNdVhKX1pjZy02ck5qLThOSkZ3YW91dV9sVUJHY0xlM2h3RENyN1pPRDh0NlZWdg?oc=5",
-      "publishedAt": "2026-10-01T21:17:14+08:00"
     }
   ]
 }
