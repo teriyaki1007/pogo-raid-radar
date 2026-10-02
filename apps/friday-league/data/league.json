@@ -1,0 +1,49 @@
+{
+  "season": "S2 (26/27)",
+  "name": "Friday League",
+  "mvp": "Lucas",
+  "players": {},
+  "matchDays": [
+    {
+      "day": 1,
+      "date": "2026-09-18",
+      "stats": {
+        "Lucas": { "g": 2, "a": 2 },
+        "Wesley": { "g": 3, "a": 0 },
+        "Curtis": { "g": 2, "a": 2 },
+        "Justin": { "g": 0, "a": 2 },
+        "Dastan": { "g": 0, "a": 2 },
+        "Baron": { "g": 1, "a": 0 },
+        "Karson": { "g": 0, "a": 0 }
+      }
+    },
+    {
+      "day": 2,
+      "date": "2026-10-02",
+      "stats": {
+        "Lucas": { "g": 6, "a": 6 },
+        "Dastan": { "g": 5, "a": 5 },
+        "Wesley": { "g": 6, "a": 1 },
+        "Justin": { "g": 4, "a": 2 },
+        "Karson": { "g": 1, "a": 1 },
+        "Baron": { "g": 0, "a": 2 }
+      }
+    }
+  ],
+  "archive": [
+    {
+      "season": "S1",
+      "final": [
+        { "player": "Lucas", "g": 36, "a": 10 },
+        { "player": "Justin", "g": 23, "a": 22 },
+        { "player": "Wesley", "g": 30, "a": 11 },
+        { "player": "Dastan", "g": 19, "a": 17 },
+        { "player": "Luke", "g": 5, "a": 16 },
+        { "player": "Karson", "g": 10, "a": 5 },
+        { "player": "Baron", "g": 6, "a": 4 },
+        { "player": "Curtis", "g": 5, "a": 1 },
+        { "player": "Theo", "g": 2, "a": 3 }
+      ]
+    }
+  ]
+}

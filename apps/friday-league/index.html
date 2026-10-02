@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="color-scheme" content="dark" />
+  <meta name="theme-color" content="#070b14" />
+  <meta name="description" content="Friday League leaderboard: individual goals + assists standings for Season 2 (26/27)." />
+  <title>Friday League · Season 2 Leaderboard</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle cx='32' cy='32' r='30' fill='%23070b14' stroke='%232be37c' stroke-width='4'/%3E%3Cpath d='M32 18l11 8-4 13H25l-4-13z' fill='%232be37c'/%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip" href="#main">Skip to leaderboard</a>
+
+  <header class="hero">
+    <div class="wrap">
+      <p class="eyebrow"><span class="dot" aria-hidden="true"></span> <span id="season-label">Season 2 · 26/27</span></p>
+      <h1 id="league-name">Friday League</h1>
+      <p class="updated" id="updated" aria-live="polite">Loading…</p>
+      <div class="chips" id="chips" aria-label="League leaders"></div>
+    </div>
+  </header>
+
+  <nav class="wrap seasons" aria-label="Season">
+    <a href="#s2" id="nav-s2" class="season-link" aria-current="page">Season 2 <small>Current</small></a>
+    <a href="#s1" id="nav-s1" class="season-link" hidden>Season 1 <small>Archive</small></a>
+  </nav>
+
+  <main class="wrap" id="main" tabindex="-1">
+    <noscript><p class="notice">This page needs JavaScript to show the leaderboard.</p></noscript>
+    <p class="notice" id="error" role="alert" hidden></p>
+
+    <div id="view-s2">
+    <section aria-labelledby="mvp-title" class="section">
+      <h2 id="mvp-title" class="sr-only">Most valuable player</h2>
+      <div id="mvp"></div>
+    </section>
+
+    <section aria-labelledby="lb-title" class="section" id="leaderboard">
+      <div class="section-head">
+        <h2 id="lb-title">Leaderboard</h2>
+        <p class="hint">Ranked by goals + assists. Tap a column header to sort.</p>
+      </div>
+      <div class="card table-card">
+        <div class="table-scroll">
+          <table class="lb" id="lb">
+            <caption class="sr-only">Season leaderboard</caption>
+            <thead>
+              <tr>
+                <th scope="col" class="c-rank">#</th>
+                <th scope="col" class="c-player">Player</th>
+                <th scope="col" class="num c-md" title="Match days played">MD</th>
+                <th scope="col" class="num sortable" data-sort="g" aria-sort="none"><button type="button">G<span class="arrow" aria-hidden="true"></span></button></th>
+                <th scope="col" class="num sortable" data-sort="a" aria-sort="none"><button type="button">A<span class="arrow" aria-hidden="true"></span></button></th>
+                <th scope="col" class="num sortable" data-sort="ga" aria-sort="descending"><button type="button">G+A<span class="arrow" aria-hidden="true"></span></button></th>
+              </tr>
+            </thead>
+            <tbody id="lb-body"></tbody>
+          </table>
+        </div>
+      </div>
+      <p class="legend">MD = match days played · G = goals · A = assists · bar = share of the leader's G+A. Ties: more goals, then fewer match days played, then A–Z.</p>
+    </section>
+
+    <section aria-labelledby="md-title" class="section">
+      <div class="section-head">
+        <h2 id="md-title">Match days</h2>
+        <p class="hint">Pick a match day to see its table.</p>
+      </div>
+      <div class="tabs" role="tablist" aria-label="Match days" id="tabs"></div>
+      <div class="card" id="md-panel" role="tabpanel" tabindex="0"></div>
+    </section>
+
+    </div>
+
+    <div id="view-s1" hidden>
+      <section aria-labelledby="champ-title" class="section">
+        <h2 id="champ-title" class="sr-only">Season 1 champion</h2>
+        <div id="champ"></div>
+      </section>
+      <section aria-labelledby="s1-title" class="section">
+        <div class="section-head">
+          <h2 id="s1-title">Season 1 · Final standings</h2>
+          <p class="hint">Final totals only. <a class="back" href="#s2">Back to Season 2 →</a></p>
+        </div>
+        <div class="card table-card">
+          <div class="table-scroll">
+            <table class="lb" id="lb1">
+              <caption class="sr-only">Season 1 final standings</caption>
+              <thead>
+                <tr>
+                  <th scope="col" class="c-rank">#</th>
+                  <th scope="col" class="c-player">Player</th>
+                  <th scope="col" class="num">G</th>
+                  <th scope="col" class="num">A</th>
+                  <th scope="col" class="num">G+A</th>
+                </tr>
+              </thead>
+              <tbody id="lb1-body"></tbody>
+            </table>
+          </div>
+        </div>
+        <p class="legend">G = goals · A = assists · bar = share of the champion's G+A. Ties: more goals, then A–Z. “S1 only” = did not play in Season 2.</p>
+      </section>
+    </div>
+
+    <!-- Player profiles are not built yet. When they are, render them in this section
+         using the optional "players" object in data/league.json (see README.md). -->
+    <section id="profiles" class="section" hidden aria-label="Player profiles"></section>
+  </main>
+
+  <footer class="foot">
+    <div class="wrap">Friday League · Season 2 · Friends league</div>
+  </footer>
+
+  <script src="standings.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
