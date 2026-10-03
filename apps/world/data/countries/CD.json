@@ -1,7 +1,7 @@
 {
   "iso2": "CD",
   "name": "DR Congo",
-  "updatedAt": "2026-10-03T11:06:51+08:00",
+  "updatedAt": "2026-10-03T17:05:38+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "CHIMP SPORT: Cranes Stun DR Congo in First Friendly",
+      "source": "chimpreports.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWmMycWRvaEJVZE55UzNXWVhsMnB3QzVaeGNJX3pXRkF4UzU5czFrVS1HemZyZ3hBdE9sS0ExbU1faTJkU000RURGUjY4VlRSaGY1Q1dadWhMd09mUVJSSG1UMXkwODNybkpTdXJsazJRaThwRVFpNG9VUDlNakNiU2lB?oc=5",
+      "publishedAt": "2026-10-03T14:48:32+08:00"
+    },
+    {
+      "title": "DR Congo records 8,300 confirmed Ebola cases, over 4,000 deaths",
+      "source": "bastillepost.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeXI0dy0tMmlSMWZsTG5xSnRzV2JMcmk3VERuSGtrTmhPeE9PUnpyWTQ1NmxyOGJkQmZBNTF5cmVFNXhCQjZ0c0NjOEJOblJ2WDN3bFN6QjFiQW8wNlRTOFNncXhzeU5zMHhyYXNMUjFjREJVcW96c3RIZVprbGZzQVp4RGhSX3Z0aF9MSy1MZWF3elROckpmV2Y0WjQxRjUxZkxUaGlqN0Z3ZV9CbGVXMWlB?oc=5",
+      "publishedAt": "2026-10-03T13:46:00+08:00"
+    },
+    {
+      "title": "Ebola transit centre burned down amid insecurity in DR Congo",
+      "source": "Peoples Gazette Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXdrc2RST0lUOEVCSnZISzBkS2dROG1HanFhS04xWEtFSGVnYXl5M1FXZi1YSVYtbW1sT0FEV25LRlZURkFWYTlKdTlFSTZvRy1LczliYmFVajBlSWZHeGJEZk1DekVYU3Z0UldrLW1paDN5S3dEaDhsSmJzWFNDYTlMZTFjTEppdFhuOA?oc=5",
+      "publishedAt": "2026-10-03T10:19:46+08:00"
+    },
+    {
       "title": "​DR Congo Ebola outbreak deaths surpass 4,000: 5 reasons the deadliest outbreak is still not contained​",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPUndsYVdzOG84SUsyU043blJ6Vk1GUmtwTDFNR3JiQlIxX3pZS2VhS1FvTnJnSEh5N3dKNF9VSWlLNGU5OWhFSFFrZkU0SUQ4ZFVOWUhEOS14RjRrN0Zqb0VYd3pTN3BFRW44ZmZScTN3dFZRaHdUTHg2YXRQaE1fTTcxZ1ZTcEp6aDl2RGFFaDFiYlZ4Zm5fRFZseTdGanNwV0R4S2t0ZE5uWTlwal9JQzRGX0VRaEtrU2lReXM5WVlpLWpuZkZjMlhJZmJ0R056ZU15aDZ4ZkhxQTI3Rm4tVTh0dTZQaHJURlc0UW1UWnRFZG9WTzJmREM0QnMwRGNKTm82dHMwRdIBjwJBVV95cUxPa1NOeGs2T3lZR2ZFUnVfb3B3RHpZeUFRcmpPZUtBRFdCd3RFeGVkRnc4cjFrTnplZUtIZ216OFFVdk9lQ3FBdDN5UFdnMDZjbGdrUGJsckVnMjRhRm1OU0hFTWgzY1dlRGRnclJENDBXRUN2T3VEOUhDQnVPMGwzaWo0S016Zno1dXUxeVhzM2lEazFfZjlfekpNVWpacURFbmUzbG5oNGs5ajRFVDhSUWNTOEFlM3Z2NjZibTlEenh4X2xFV190ZXJmWXRPVXdiMENnWThhZzZ0R3pTY3J5eWlTSUtyWkxiQUE0UEFhc1puMzZqS0hSaVRCMmVob3JYWDhKak93bl9nWkNkVk5N?oc=5",
@@ -42,16 +60,10 @@
       "publishedAt": "2026-10-03T09:48:30+08:00"
     },
     {
-      "title": "Ebola death toll in DRC passes 4,000, as health workers are fighting to get paid",
-      "source": "Le Monde.fr",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSUFVM3VUMzhwdGhDeUxaSk5WMDNRYjdaeE0wcC1WaWYzaG5LTjJZMUxoS21QTXMyUUFwTUxJTXFnZVZCNEd3SmlVVjNZNmpTVGZEQ2dsTmh1Qi1XZ1BobjVqcDEwNHZLWXQxMzQxWm85NUp4R1JPU0tmdENQdGFLSXlPeWt6RjI5RFZXUmlJVnRleEk3Q0d0MEFrY0N2WkpwZjZmc09GZEdoNHM2dmlqaDhKdWJiaVJTT1NRQWZYZXhqZlFxSERsS0NhWVpVNFpsTHcyU2d2cjE0LUN3ZUNQVEZvV0s0elVxQlh4b1ZB?oc=5",
-      "publishedAt": "2026-10-03T08:46:41+08:00"
-    },
-    {
       "title": "DR Congo Ebola Death Toll Passes 4,000 in Second-Deadliest Outbreak Ever",
       "source": "teleSUR English",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1mbHNrZ3hqZlpYdDhXZGQ2bG1oTWJ4NDJqWFl6bEh1SDR4LXdGNGg5eGJlM2gweDUwZnJXS3Z3VXZWR1BfZ3VBNURZLWI0Z0FHUVlua0k5OVVWV0FnSTVJc21RaV8xd0hFWF80dHdLeUhYVEMxSnV1SQ?oc=5",
-      "publishedAt": "2026-10-03T05:14:06+08:00"
+      "publishedAt": "2026-10-03T07:44:14+08:00"
     },
     {
       "title": "DR Congo Ebola cases grow, deaths top 4,000 as officials struggle to ascertain numbers, trends",
@@ -60,22 +72,10 @@
       "publishedAt": "2026-10-03T04:52:00+08:00"
     },
     {
-      "title": "Ebola transit centre burned down amid insecurity in DR Congo",
-      "source": "gazettengr.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXdrc2RST0lUOEVCSnZISzBkS2dROG1HanFhS04xWEtFSGVnYXl5M1FXZi1YSVYtbW1sT0FEV25LRlZURkFWYTlKdTlFSTZvRy1LczliYmFVajBlSWZHeGJEZk1DekVYU3Z0UldrLW1paDN5S3dEaDhsSmJzWFNDYTlMZTFjTEppdFhuOA?oc=5",
-      "publishedAt": "2026-10-03T03:42:56+08:00"
-    },
-    {
       "title": "Ebola Deaths Rise To Over 4000 In DR Congo As Government Battles Worsening Outbreak",
       "source": "Sahara Reporters",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZzF3V0tEejRIM1FHOWE3OUhPaGZvZG83R2cyeWFfeDRENXhacnVnUFRCMkF6dkJjTVk5TG5qbGg1cE1FVGNKamxKdUl2Ukx1THFDYldZUENTTmJfR0lBV1pqNVV3djZ1MVdYeDNmTXhFcnVKUGN3bVg0Q1RZMExQZ2JSM0VjcUVrUlFrNzc0RWczdjQ2UWF6OF8zRzZVbUVQeklmMzRKZmhKV2lxdExlTUd6Yw?oc=5",
       "publishedAt": "2026-10-03T03:33:17+08:00"
-    },
-    {
-      "title": "New-look Cranes pass first DR Congo audition",
-      "source": "Daily Monitor",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVnRmVEZrX3NLcUNVQ1lKcWFjMk9WT0ZTTzRMVW1FV202bnVPWHEzZl9rem9tdXFIdjlRcHFFNWxqNTJIbnducXRXMEdHT1o1RjVOWmQ1bVdNN0RuQUpwbHl4STJyVWFIaGs1WG5nbElhWjFQa0lCQloxempYampiN3l0RXhPQjRCMEJTTC0wbWFHVUJCd2Z1T3BMR21jWVpX?oc=5",
-      "publishedAt": "2026-10-03T02:38:06+08:00"
     }
   ]
 }

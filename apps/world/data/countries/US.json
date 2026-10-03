@@ -1,7 +1,7 @@
 {
   "iso2": "US",
   "name": "United States",
-  "updatedAt": "2026-10-03T11:06:51+08:00",
+  "updatedAt": "2026-10-03T17:05:38+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,52 +30,52 @@
   ],
   "headlines": [
     {
+      "title": "The American dream remains elusive in the valley that inspired East of Eden",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYWhnS3BSQ3QyY0VWN2tPamR2MFctcnhPNDNQb1JvYnpaQl9fMXJRYWxib1Z5WnR2endFS2hzcXRhMmlFbDh2SjFqR1doaWtENHRNSlVkWmEwUXJ1ckdDemdVazgzOXRrZ1hFWFdHc1NhM09sdnhreW1yb0xOcm81NnJ3T0lZQjBH?oc=5",
+      "publishedAt": "2026-10-03T17:00:00+08:00"
+    },
+    {
+      "title": "U.S. 95 closure for rail work",
+      "source": "2news.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUm5lVHdDQ3FvMDE0OXZzSnoyVW1aTkN2SmZHaDY0eUwtcUJCWTJRMXR6MzREYy1sQ2dMUG4tUDdXSTNiREZYUE0tbkpnUEp2QXhtR25mc2dXQzVIQVR2RC1kT0RsSVY0SnZlaEdRcWNYQXBpamN6MWxhenNPNzJOdTlicm0wcm9uQnRFRXBOWlRXUWphVEdPbkFkN1g2ck1mOW5sTUd6dFEzRHczVnc?oc=5",
+      "publishedAt": "2026-10-03T14:22:00+08:00"
+    },
+    {
+      "title": "‘Elon is my prophet’: how Musk’s Doge team took a wrecking ball to Washington",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR0NEUHA4NjNSMlZxVWZSeC1Ic2JEWVAyemVHRnFDeTZqYXljeW9jV25MOTZpQ3dfU3JuNEpNbXFXZk85WW9xek9hY0o3ME1JTUluWE15LVVETGNrSWpPNElDUDdTaHNoYmpXQjg1NGlwWi1GUGYtWmZtRnA4QVVlOTNyNnhfN1VzR0NZZjgtN1VKV3IyQXhwb2F0OG9obmJ6SjlKZVVQYnhtRE54dnJzVFpLeEN1VUU0UXFHQ1Nn?oc=5",
+      "publishedAt": "2026-10-03T13:00:00+08:00"
+    },
+    {
+      "title": "Trump Says US to Send One-Time $90 Payment to 20 Million Seniors Enrolled in Medicare",
+      "source": "U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMkVVWlVhcWVPdUVpTkdZYlJGblh4WURYWHZuVjY0S0E4QXU2dFpDY1BiNFdNNWlhQl9fWjZDUUlJNWNKMDdZbWhEWVZUalhNWGR0R1lEaGU0Ykh4bFBFVlpvMGZVcVdfXzlBc1pvUlc4SkdGeUJtU2EwZ3NNbHJwMjZJQlo5R0N0M3ZrRmd2VkZxN0xfLTNLZWFsZkhOYnRWZFFKVnRRT2k1YlFUNk5kdTg5OEkyY19iU2UxYzgyTjZKakV0N2pqeC1VSGNzLUlpRVRlNlBOSUQ?oc=5",
+      "publishedAt": "2026-10-03T12:51:00+08:00"
+    },
+    {
+      "title": "A Gut Punch in Ohio: Nearly 1,400 Laid off at Truck Factory Just Days Before Trump Rally",
+      "source": "U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQM1VxMFVrSXc3LWZYMVVibFg2WTk1bVg5TmZ0T2hoQ2Qzb1hUTVI1ZXVjOHZ1MUdXY2hLdjFOWUNiU2tTNTFMbWdEVnZsdjdkMDhDbDc0X3EyNDNjWWtpaFNDSWxESDJza0VFbTFOSXA3U3ZCZGJyNkQ5TlhrNERBLXNkNmZRZlg1czFva183dFlzMC16c19FY3pOczVYRks1N0NNb2lsSnlaR3BYY2s4cVRRSE0wN3N3Z0VwS3phZW8wQ3FJQWxIMFpRUy1YbndKd2xkQlE2a2hsVWxLMUtfN0FvLWQtNDQ?oc=5",
+      "publishedAt": "2026-10-03T12:02:00+08:00"
+    },
+    {
       "title": "U.S. Pacific Command Statement on DPRK Missile Launch",
       "source": "pacom.mil",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQblZVbXNZWl9GZzl5WkloVXo2c01FS3JYS1FpbnluRkNoTTJnLVNFaERjMXhQWEtzMzZhUGhKb25lRjZsVXpKNUlIcDVncXh5czEyX0ZITXBPOTdmYklYalc4bXdVdTcwNVlNZEFMM3dfZkgzMkZNOWg2N3pYLXQ5VW00bDlZSjEyWVVvZ3lNUHhYZjJ3XzJ3c25tZWZiS1lBMW82SVdmSnJEQnc5aUl0RG1pOGhSZw?oc=5",
       "publishedAt": "2026-10-03T08:32:20+08:00"
     },
     {
-      "title": "Fight over U.S. attorney in Seattle testing limits of presidential power",
-      "source": "KOMO",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMTZGRUlGVkNnOW9JdHlSV2tONy1VZ2FRUkZpQ2QzdzZJUEFSZ09vMWFfdVJ1anlZOGFGNEVmb2g5RnFsWWNJTENIQWFiSG5VTzlVV2w2UnVraVBQcDhIckFsOVVZdHp5cW5aN1YySmZBRVhCREhHTnFac3RES3d2Ny1KV25jM2dTWFdaUU04X1dJbWduUzJXM0lUTmtGWW5FT0tyNw?oc=5",
-      "publishedAt": "2026-10-03T08:00:07+08:00"
+      "title": "Federal court temporarily blocks Trump administration’s border wall in Texas’ Big Bend region",
+      "source": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPenBEVEMxTGlsampPUW90Vy1GaFlYQWtlUWpVeDYxbVFMcWF0a2xPT0s5ZkNlQ2dVRzI3Q0l1Ulo4dWx5NGtJbDlNT2NsaXZ4b2pWSGNoOWRjalJ6MjhvNXZMcUNldC05TXFudFF4QU10UFpnM2ZwWkYyTEpBNUpVaFo2ZF9ZUGc5ZzBRTVl5R2pnOURobkF3SXNfcENEMHdYU1IxbERoUEtvR0xtS21tcFdwc0VTbm9wclE?oc=5",
+      "publishedAt": "2026-10-03T05:41:04+08:00"
     },
     {
-      "title": "Federal judge halts Big Bend border wall construction in blow to Trump agenda",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaUNPSWJrMHc0Z3NRMUlobFFIQjkzMW5ZWm5JU1EybnpBQ29ZbWpGYkZRTzBOMFpReEpqNjNTdHRkUWd2NXViUFNoSXkyQl9SbTAzM3JHNHhOSktDckxGQnpZS0ZvNGM0U2YxYkc3UEdfdFZURjdlMHFJRmdyNWF1RS00MkxoaUMwUnlpbUJjYmY?oc=5",
-      "publishedAt": "2026-10-03T07:32:00+08:00"
-    },
-    {
-      "title": "Trump Stumps for Candidates in Deep Red Alabama and Says He'll Be Back Again Next Week",
-      "source": "U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSUtPakJTQW81dDg2Mzh6TVp5QTU0cGdmUG5EbHdNM0xwcm1oRXN4eDctbkdLMk15d2ZaR2wtakVhWkpSblVYYWU3dVVoTFVDNE0zLTdvYk5yRDRSbjZFQ1g2QzhQY1B5WjU5dXpBNGhfb3JwZnJUSUs2NmZWZjI4Z2hsenpKWHJ4UXFZY2FOLWx2V2hCeExFTDdHTHJoSnd1MlBIUkd1QjJMN1dkd2FGLV9jYm5GOEJROHFtblVmVnZGdw?oc=5",
-      "publishedAt": "2026-10-03T06:35:49+08:00"
-    },
-    {
-      "title": "U.S. jobs growth slows in September as unemployment climbs to 4.2%",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRzg5NzItbmdBeWRKTmxvelBsVDRsalRsbnNEb01ReXJQbVA5MVlrMHZ0MDRELVBuWXVoMTh4Qy1UZVlySlFSRlQyQ015aUF5Uy1hUHRYVFMzSnlMS2gzcFRhWEJSTkVyNmFCaE1sTmI5cUVBaFJNZFhyX29DTER5TXFwemNJLUtwX3hVNDZkR3Z4bE1sblVVTg?oc=5",
-      "publishedAt": "2026-10-03T06:35:00+08:00"
-    },
-    {
-      "title": "Exclusive-Trump Visa Policies Weigh on Columbia Journalism Program as Admissions Pause",
-      "source": "U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORDZqdzI3QUIwRy0xMGFhQTJoZVJBR2lGVERjQXVVQzZ1NmFveUpKSGlFZUJYTDlQNXZzMmZjYWROa0dtV0hDVVFyUkF6c2NodWpkNkh1QWx1NnlvTFU0aThIVU5iV1FtbTZhLUJSSnN1eHJ0VVFpVTE1WEkzWnI4OUFSXzBBTklzTXJseC1SUHNwTmM0WFdIOG9fRVhwbktWQjZocGU4YUJyNnpNejl4Zm5JQ1ZJek5xck45b1l5YnhfZjBRcVFPWlpudnA1bDFLVGxSQlRqOA?oc=5",
-      "publishedAt": "2026-10-03T05:34:00+08:00"
-    },
-    {
-      "title": "PHOTOS: U.S. Sen. Mark Kelly and wife Gabby Giffords speak in Upstate",
-      "source": "The Greenville News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUjRyNndCQ2l4QUY2dkkzd0J5OENsT0VsS1hGTmZPSUMtWHRmSVZ3YXpUMFRTekEwendtcHhsY01OUG5oXzN6dUNPYzV2SG9UbDJBTDdOQXJ5ak9TeU00WEQ4N0JUTUpwLTNxUjdNVFRMTlhWcVYzLXhBZTJmR2ZkM1ZsTFg5ODhTX0N0VmVOUUU0VFRjMGRDZVpTS2lfaUFWYXJRYjRmUVQtUVZXNkV4dzIxRXlRZC1haFBUSmdaYXZEMDlEa1dHeThxQmZmRjEybi1vMkVJd2JnUENNaGx1ZktSdw?oc=5",
-      "publishedAt": "2026-10-03T04:53:00+08:00"
-    },
-    {
-      "title": "Fired Florida deputy acquitted in killing of Black U.S. airman from Georgia",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR0VBLWN6UnJka2dzN1p1NmQxZV80ZE92VG9CT0lreDU5eGRjeEZwalh2WEp4TS1pVWFmcnN4UFhsUGZRS0U5c2dRRGF3RnNJVXpJNklQenV4eU9ZX1I1MXJvWXNOb3U3WlAwTDVXN01nN1c4LW5GdkRWbXprUUh4R1lHVFpzUTZ5ZXVOVlVSQjU2Z2xSYlYzUWlNMHVIcWRSOTNjWDN0V3UxVi1HSnlKMG5B?oc=5",
-      "publishedAt": "2026-10-03T04:40:50+08:00"
+      "title": "Impact of U.S./Canada trade war on Wisconsin's dairy farmers",
+      "source": "Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcUYzcGFZZzJsQ1FyUzhPUkdrNl9nYVd3MlFZZ0g5X09SMkxMdW43YjJ4d0dZbW9GWHNSalZ4OVBHMEVSVFpDYXF4X3ZyaktITEhHZVZqbTJHMFlXaldCbWl3YXViQmhmamhFTEM3bXBNRVFSbGZqMnh1ZlBpb2pWVWY2cEtHczA0MkFoN1FmTU1JUkxRN29ZelJsbjU4RXJkTUs2RERuNDhTeTE0UlhSVF9PWnR3UVZyUHJVZkxLeGpKRXNwRkZJ?oc=5",
+      "publishedAt": "2026-10-03T04:38:00+08:00"
     }
   ]
 }
