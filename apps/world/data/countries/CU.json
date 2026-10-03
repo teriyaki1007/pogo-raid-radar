@@ -1,7 +1,7 @@
 {
   "iso2": "CU",
   "name": "Cuba",
-  "updatedAt": "2026-10-03T23:05:33+08:00",
+  "updatedAt": "2026-10-04T05:09:05+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,28 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Churches rally round Christian influencer after 'abuse' of Cuban justice system",
+      "source": "Premier Christian News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNem9xeG9BUkhQQ2phMnEyenVRZ3A3Wm5hTFdYc28ySS1JR3hLOW9LbUE3SUVZRGJmcFFoQjhTTXhqa0xGM044ZkU4UWdzU1lSVDRwMHhFOEUwYVdZUDBiV3BfRmJLYl9oQ1k0UmJFNjJnQU9wekpMOVlWbURmdG1ESGJvOTQ5V2dfY2Npb3V5WDJnUWlwd3RKOXdJV3Z3NnBiOW4xZ1RoSXVLUFZEeXEtLWxTU2JjR2pDQmhCdXBvcVk?oc=5",
+      "publishedAt": "2026-10-04T03:41:25+08:00"
+    },
+    {
+      "title": "Russia and Cuba agree to develop cooperation in cultural sphere",
+      "source": "TV BRICS",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbHVxNkhYSzktV1dUT1laeElzZ1hFcWhDNXlmdy1yTjAzNV81X2pTak1QUmhUTXN4VTAwRVVjVFM2N3UtS29RdC00aXhITXU0X0hSeExNYVJBbjhOejMxc2JFVDJ0emIzdDVTM2t0a28zM3BaZG9HVjg3dzBOclhFMDVuSWlubjNwMEszTC1hMVEwTjhmcjRz?oc=5",
+      "publishedAt": "2026-10-04T00:30:10+08:00"
+    },
+    {
+      "title": "Cuba",
+      "source": "abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kMkxkcVRGRFBDZlJGUzhIMkR4RFNSWGFPeTdSbGJlazhNRi1NU0lRQURhc0tDbVBsaW9jOE9IRmVPc0ZFbXc?oc=5",
+      "publishedAt": "2026-10-03T20:15:41+08:00"
+    },
+    {
       "title": "Immigration briefing: How Trump’s crackdowns are impacting Cuban voters",
       "source": "NPR",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0NIRndkeTBveE1wQ0ZwRUEtZWRybFNpdTdsRGwwQkIwRWtmOWpObDVDSkdVMldqTW5wc2tYdF9EWXh4RmVuQ2tSZWNHTXlib3NsSm9FNldkSUVwOHgtWlFKQVctcXZCUEZVQzBURDZWeHVxbWU2T1FyLWpoRlZCTkNHdi1NLXdoR2Z6U1VWQTVqZ0Z4M3dRNEhrckwxR1VHdWNVTmI3YlJZbHhJUDVPQy04Y00?oc=5",
       "publishedAt": "2026-10-03T19:47:00+08:00"
     },
     {
-      "title": "Russia and Cuba agree to develop cooperation in cultural sphere",
-      "source": "TV BRICS",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbHVxNkhYSzktV1dUT1laeElzZ1hFcWhDNXlmdy1yTjAzNV81X2pTak1QUmhUTXN4VTAwRVVjVFM2N3UtS29RdC00aXhITXU0X0hSeExNYVJBbjhOejMxc2JFVDJ0emIzdDVTM2t0a28zM3BaZG9HVjg3dzBOclhFMDVuSWlubjNwMEszTC1hMVEwTjhmcjRz?oc=5",
-      "publishedAt": "2026-10-03T19:00:41+08:00"
-    },
-    {
       "title": "U.S Coast Guard Intercepts Cargo Ship Carrying Fuel Bound For Cuba Amid Oil Embargo",
       "source": "Marine Insight",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONncyT3NFZnFoNVRsZnRxMnFCaHl3OWxTTFdscXhjaWVLMndwVDlwbnVITmdKYmhGWTdLX3F1UlBJTjNmcEx2QzJDUHJsVnNhWnNBX2Z0anVQYjkzeUViMnFpOVZpdEVnbjZXYnZXclNHazEyc0VBdG5pUEZxeTA3QjVPX01rNGx1YTlGdnNpb2JpemdlbFFxZmdVMjBPRHBmZFlxR3hoYlczS05IUlBXS0RJSGQ?oc=5",
       "publishedAt": "2026-10-03T18:45:25+08:00"
-    },
-    {
-      "title": "Cuba",
-      "source": "abcnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kMkxkcVRGRFBDZlJGUzhIMkR4RFNSWGFPeTdSbGJlazhNRi1NU0lRQURhc0tDbVBsaW9jOE9IRmVPc0ZFbXc?oc=5",
-      "publishedAt": "2026-10-03T16:17:02+08:00"
     },
     {
       "title": "Juan Negroni (opinion): My boyhood odyssey from Cuba to New York",
@@ -67,15 +73,9 @@
     },
     {
       "title": "US Coast Guard Intercepts Ship Transporting Fuel to Cuba",
-      "source": "english.aawsat.com",
+      "source": "ASHARQ AL-AWSAT English",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQk9ubEVXdTZhLWQzM05OYmt2VjAwbzZuYldCdDlYUUtRNjA0cFNCZG93SDhya09kLWJoQzMyRzloWlFUNHBORzdBb0hqSzFyQmVhbWw3dURIblhVbG02Z3dpMVJTQzlhQ2NQdmFzMWRBUnJHZ2ZnanF2cEtYRm5SRjJEeFlBU1A5bmJvZTdtMGlkNEpYR2pHcGp3?oc=5",
       "publishedAt": "2026-10-03T13:24:19+08:00"
-    },
-    {
-      "title": "CubaBrief: International Nonviolence Day, Gandhi, and Cuba",
-      "source": "Center for Free Cuba",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzBNeGZha3ZRWEMySW52VEdnd05pS2xoUVZxdXJBcVFPZW5Wc1poRWExWm5rYXR4NXZ1LVhMdFI5VzdWTm5iZE4zSll6aElTTUU4TmdyWk8walJheng3SEpTWWIxb0xaMC1NcXFpMHZlMmlyelo2RzdXNmFxelpRT1ljUnYxZjRzaDI2eXg5OGlzOFkweDhfNEFLQmI3UF9EbzBMWlJR?oc=5",
-      "publishedAt": "2026-10-03T13:00:04+08:00"
     }
   ]
 }

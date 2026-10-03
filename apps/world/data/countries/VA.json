@@ -1,7 +1,7 @@
 {
   "iso2": "VA",
   "name": "Vatican City",
-  "updatedAt": "2026-10-03T23:05:33+08:00",
+  "updatedAt": "2026-10-04T05:09:05+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,6 +26,24 @@
   ],
   "headlines": [
     {
+      "title": "Pope Leo celebrates Mass for members of the Vatican Gendarmerie Corps",
+      "source": "Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUlJEWURFUXJmQTN3aUxIeDBtSXJQcm5KOTJ1WVF3WnhLNkZYamlYSWpzNVJNYVhkT245R0tqbE4tdi1HclhyVVd2Q0xxbDd3Mmp4NWk2ekxoXzVUdGxjTDFOTE4xOWVDLUZHV21vMF9QLXZxaHlPZ3g3eHAzSkNTVXZQS0JRVDl4MEtZU2NyTkQ2Q3BGOVRDRHZCMDdNZG5tak9MclRjeFZFYjJQcnF1RA?oc=5",
+      "publishedAt": "2026-10-04T03:02:15+08:00"
+    },
+    {
+      "title": "Vatican Observatory scholar says Earth may be rarer than once believed",
+      "source": "EWTN Great Britain",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX25IaDgxUGFUQ0hHaE9nSXlPcGJiaW9xQ01KT1Y2V016UDhQSzZhZGYyLWJHNVA1WXJoOFBlbzBsX3R1TFIzUEp6bVVwOXNqWlZwX2l1U3A3aDNVdllDbDQ1em8yZlJrczZkWEJmbElQYk5BT0Fia3Jod2dOXzhLbEFZUmFmOVhwVnFGUUljOUMtRk1mdlZEbnVUVTc5WUU?oc=5",
+      "publishedAt": "2026-10-04T01:30:07+08:00"
+    },
+    {
+      "title": "The Vatican opens an exhibition on preserving knowledge",
+      "source": "aleteia.org",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTkdNeWYxaXlyRE81QUI1aHA0Y3lZX0dYVGRzbXlVcHRNQjNNWmVEMGJPYjhNV29veDhjMENRSEZXQXBRZGxuQkNodzk4ZUpyMC1yUjR0SVJFSkxZb0xkZ04tQzVpUnR3VTJyckpBSVkyNXp4NERKbTdZV2RMN0xvSGN0TE1hVE44V0F4bHFZVzA?oc=5",
+      "publishedAt": "2026-10-04T01:00:30+08:00"
+    },
+    {
       "title": "Vatican’s second-in-command speaks about migrants, AI during San Jose visit",
       "source": "The Mercury News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOERLYnhydkRXTFJOa1RGRlc1M2JReHVxcEN5NHFsLVlhZmlXTXZCV1lQTk50Z0I4NmpOWS1xamFWT0JXNDMxUFN3LUNvd3pOUVhXc3ZsRFUtUjF2TEw1N1gxM0IxcnVWM3gwdlg2b0xlRW5KQUlYczU5UVlxSEdiRnVzQ3JYU0tZVHZmUXpIa1J0M3dTdWxzQ1VlWHZ6ZFV1dkpaMVhEWmhNNHhjeHBSRDc3QQ?oc=5",
@@ -33,45 +51,27 @@
     },
     {
       "title": "Vatican Dispatch: After France, Leo faces a consequential October",
-      "source": "catholicherald.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcXZoQ3BMby1XaTVEVm1vS2Z4WFpiY2NEWmpJd1pJOVdUQjlEWFJVQnNxY2ZHbVhaa1RRWldod2pvMnFxS3ppUkhKd1FSUzdTb2xlMDFpM1VKR241YlR3SkdPNFB3U2M4aUhjeFd5MjJQR1pDWm9fUzVmRFA2VXhRaWNMT2NfNW44UGZ6d3A2V0tzQ1FwRlc4WWQ2YjdwRUlOTHc?oc=5",
+      "source": "The Catholic Herald",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnZLRXZYTlJyWEdkVE05WEFsNnRBSHN3a3JDRFBuWWxZaHRXMTJDSTg5SEFXTllMQThYWktLNmRBSkZ6MVVMS1RHTzkzbnFpajY1MFNuSUF3aTBKSFlwN2F5TjdaSEV1ZFZteXJrQ2NqdEFkNkVyemhobG8xbTAxU1JMR3JROHBWYnlWRXdfU25EVUxUOHhYZFo2NWU3bDFJSjVr?oc=5",
       "publishedAt": "2026-10-03T21:00:00+08:00"
     },
     {
-      "title": "The Vatican opens an exhibition on preserving knowledge",
-      "source": "aleteia.org",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTkdNeWYxaXlyRE81QUI1aHA0Y3lZX0dYVGRzbXlVcHRNQjNNWmVEMGJPYjhNV29veDhjMENRSEZXQXBRZGxuQkNodzk4ZUpyMC1yUjR0SVJFSkxZb0xkZ04tQzVpUnR3VTJyckpBSVkyNXp4NERKbTdZV2RMN0xvSGN0TE1hVE44V0F4bHFZVzA?oc=5",
-      "publishedAt": "2026-10-03T20:57:20+08:00"
-    },
-    {
       "title": "Pope moves St. Peter’s archpriest to Italian diocese without naming successor",
-      "source": "OSV News",
+      "source": "osvnews.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSlFGSEJnaWpBcmk1QlI5d0FDS2xNUFBVS2Q4bWM3U0lqRnltUVk2YkZHMlYwSnk2NUJpRlJWS3pzbFlILVkxdnJmZzIxQmc1RE9HWG1aV1hLUDZHNk9NLThFMEl1b3FoYlpTNGdRNVhhc0RMbUVBZ05JRjBvU2pzRDdzRHYydUotckNacjB1Y3BHNUthRng0RGdzNXZXUUR5YkE?oc=5",
       "publishedAt": "2026-10-03T20:29:18+08:00"
     },
     {
+      "title": "NPR journalists Scott Detrow and Daniel Burke discuss their book about Pope Leo XIV",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONkY2enMxMlNib0lwRklHVVkzNkZ1TFF4VllSbE93WmZIaGZDUFJEU1M1MnFFRXg5R0p0YWhSREZyUGVSRkRZeC1IT2piWEpJOGFMcTlfWjJjQm1YZExLU1h6bUtmM1ZaM1lhMVJwcG43UWthX1BmOHZBaU9OemFnZDJtWXFzMTFUaDFFNmpKQ1Q1UWUtV2w2Y3dKbEFjUW5IMnp1cktGUm1jWVpiR25sMmtZMjI0bFpYZ2ZqME5jOUZNVTNkYWQw?oc=5",
+      "publishedAt": "2026-10-03T19:47:14+08:00"
+    },
+    {
       "title": "Cardinal Gambetti removed as Archpriest of the Vatican",
-      "source": "thecatholicherald.com",
+      "source": "The Catholic Herald",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOejl0S1hWN05rbUg0d1lfZGxFeV9IRmlpS0htTmZMMllDZG5IX3pIYjZJT0xianJsYTVUSUxtODZLSl95aWJRVzNtQ3VrZm0xQUIzcmwzV2pUbzFjRllDWHpPVkVQUm9Fd1VIdEdSUVdlSjRNUDlpWV9YSm1EaWF6SWNZYzJ5Wi00eFZ1TXQ0bjFrWWNUR2h3?oc=5",
       "publishedAt": "2026-10-03T19:39:31+08:00"
-    },
-    {
-      "title": "Pope Leo receives President of Montenegro",
-      "source": "Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN2VrQ0t4SEJndUxpMDRCOUR0ZHBJbFpEZVdtR3VoX0hvVjlYOGZ2ZGlzMERKT214cGNsbkc4Y3g5a0VLdy10cUQxWHFLT05MQ2dKdDVvZGMyemFJVEpHa0UyWGQ4OXByTGtfblVjX00yMU11RTY3Nl9iS1ZvUnJKRjdFSDhTZGxNSXVVLUhZNDR4WDlCZjBNZ053?oc=5",
-      "publishedAt": "2026-10-03T19:29:26+08:00"
-    },
-    {
-      "title": "Pope to Pontifical Teutonic College: Preserve unity with the Pope and the faith",
-      "source": "Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa04wZTBNbWFJNDZrN3NIRGV2NXAwTk5UZklvNU11azdCNlEtYlZYTEd0UEJLMjB1a05MTVREeW1VdFJPUEx1eDZKTy1PN1pVY3NnV0E2R0h0Q3EyclhOVXVvOHB2NzBTSDZkREZMMF8weW9rZE1wZjhvTVY4N2lfR2IyMjN0ZWh0blM5VlkwclVTWk81UGFhMFpJdnJBVzdSQmtYajNiaWZXeW13Z0FfRTNYdw?oc=5",
-      "publishedAt": "2026-10-03T18:56:48+08:00"
-    },
-    {
-      "title": "No one expected Leo to be pope — except everyone who knew him as 'Bob'",
-      "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMTdNaDR3ZGtTR3Qybko4T0ZXa1Q0cjMyLUdkQ2JQSWR0VnR0QUwtYjZTbEpqdDVaMjhkejVFaTVWbmdOOG9PVDctVkpCTThfS2FJU3NNTkhiT3RWMHpNeVRDWURPd0ZwNF8xalJicmgzQTcteFlBUTRkTXpyS0RvMDFYdVJMMTA?oc=5",
-      "publishedAt": "2026-10-03T17:00:00+08:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-10-03T23:05:33+08:00",
+  "updatedAt": "2026-10-04T05:09:05+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Stripe announces plans to create 200 jobs in Dublin",
+      "source": "RTE.ie",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjRHc3NERqUWFmTjBMOWcyT1FJbm44QXBrTjk0RFRtSEF1dnNPVnN2dUYyUy1ZTlBZVlBpa3BYQkxKQlNmWGNIZHBrSHhZcmE2NFJQRDl4V2JGOWtvSXRwRzRoSEYtb3Z6NHhZTFZ3?oc=5",
+      "publishedAt": "2026-10-04T04:44:26+08:00"
+    },
+    {
+      "title": "Exact date the clocks change in Ireland as 5pm sunsets on the way",
+      "source": "Dublin Live",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9QVmNyZGpLbnhEMm52U1V3dDFfblpxYmplRXRBZ2c4dDFmOEd0MDhUYzA5VTBZc214ZXBWSGg1OFNFcFdkbUZCdU1pMENZcUdwUHJXSjhVcnFGbmNfZVlLZVQxN09OS0lncVZmM0ZGdXlSMG04TF9RZlhKRVbSAYIBQVVfeXFMTUFiZWhVWE9KUzRuR19seGJJaUtfQjFVc2JzYjJKSmxmTlkzbk5kemMzOVN5UVUxc0toMUNWSWRPeEZuc2pxRlNwVVVhZ0VlNkxwWnhLWE92SjQyQU0zUTZ1TTZkSy03YkpfY2lsbHFJalJuTE92dmZ2V2ItT042aDJCUQ?oc=5",
+      "publishedAt": "2026-10-04T03:52:30+08:00"
+    },
+    {
+      "title": "Ireland press conference ahead of Israel game in Nations League cut short",
+      "source": "Newsday",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1k1RDRRNEVLN1pTVHdGWHZrSWhfUzR6LTNldmdkdzdYa3VqaHcwdzRlcjFPTVlJSmwxSEMyYnJiT3ZMVVdXTUR3dWpQUDI5bDhxbGNNdjhfWmlWZFZ1NHpnVGVQSVlOOHExa1h0Zm00U3dQS09KOS11c2NDVTJISQ?oc=5",
+      "publishedAt": "2026-10-03T23:44:41+08:00"
+    },
+    {
       "title": "DUBLIN THEATRE FESTIVAL 2026: Review: LOURDES! THE MUSICAL, Civic Theatre",
       "source": "BroadwayWorld",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZDYxVV93Tzdub2dSanBQRHZhX2pzQVhSRjRNdlVKcEV5RHk3dlZXbzVWNmlaaDQ2b2pYYUtNdmNtLXhzWHYtSDhjTFotMnZEQkdHbHR1b3ZvUFl4YWRHZzhHcDhPbk05cnNWTFVHeUdGM3k2Y0E5MDMyVlliZy1zbnVjdDNPYXY1bEdDOXZScHZNR0dVT1pobm56UjJSRFVoMnViU1ljQTh6SWtpQXItQ3NUZ0ZhcWNTOGdpZFA4dlBrdw?oc=5",
@@ -42,40 +60,22 @@
       "publishedAt": "2026-10-03T20:49:27+08:00"
     },
     {
-      "title": "Stripe announces plans to create 200 jobs in Dublin",
-      "source": "RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjRHc3NERqUWFmTjBMOWcyT1FJbm44QXBrTjk0RFRtSEF1dnNPVnN2dUYyUy1ZTlBZVlBpa3BYQkxKQlNmWGNIZHBrSHhZcmE2NFJQRDl4V2JGOWtvSXRwRzRoSEYtb3Z6NHhZTFZ3?oc=5",
-      "publishedAt": "2026-10-03T20:31:35+08:00"
-    },
-    {
-      "title": "Hallgrimsson hopes Irish bonds will be stronger after tough period",
+      "title": "Ireland coach Hallgrimsson hopes squad bonds will be stronger after tough period",
       "source": "The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFNrRkF6LTMwUWd0WUxBZGlGcjVoR0VuUV8xRkZQQW4wOUxjNDJxS3hsclZJaWxBRnpJRnNoVDFkYkxSQy13bEM0LXdOWl9hQU9aZ3BZTU5lWGJncVhHWTdJQmhoSUFWT29JaUt2T1M2R1NUcnMzUmlHUHduaHZ5MG5SZG5IdVNiak82SldqV1BKdHNhTjJJMUViZVRKLWxnTVdtamhOa1VVU0dBSXFQVVA0T05relEzanpaWGItZnR3ajdvQkc0eHVvVQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVVNFUzl6djBsNkd0S09Oa0xXNWd1RHhQb3NVTGo2RmJFQm5fZ2hSdFFxODJoc3d0SDFFZi1OaE9vTGJYb216UGkyX2x3Q2xRZmpULVRVbjhMRmdIUUZvZ2Q3aXU2VnZlNE9OSHpYSVVITUhXQzRmVkVpUGJyXzdVc2FlQ216QXFOamhQV3N2RHgwci1IQ1doNGFyQ0ZfYXd6cThlelA4QVNZQnRiY0JF?oc=5",
       "publishedAt": "2026-10-03T19:38:00+08:00"
     },
     {
       "title": "Livinia Nixon takes a Scenic luxury land journey through the stirring landscapes of Britain and Ireland",
-      "source": "nine.com.au",
+      "source": "Nine.com.au",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb1lub2RWejRUNG82S19ZQkE2ZGFCYndUbWFHbjNSa296d2VLc2Vsc012V3ZlYlBQekJWalktMGY0SHBrOHdOaUpEYmk5a3VrbDByb3poSFdnUzJuMVY2bkE3MjF5SUtJbWtFS2dEMXhZQjljMzRBV041Q0hSZllIMGdrUzBpNGF2eXVVWjNSMkJZTjI2bHRpT3E4Q0lJZ0JocHRmWlliWmpOYnFrd2pWcXNqbGd2ekdfMXRNRzhKZHFQZw?oc=5",
       "publishedAt": "2026-10-03T16:00:00+08:00"
     },
     {
-      "title": "Shairoze Akram: Pakistan-born All-Ireland winner pushing Castleknock to new highs in Dublin",
-      "source": "The Irish Times",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQnA3Y2JXeHdpWFljOVp2amFzNzdtUVpRdE9yS1ppQmdKd3hIWFFqcHU3V0t1Y25JUW0tNmZWVjBZUG9OaXVmbWUyZmVjeGlzUUVhaTd3c3E3R0VBODZEaFVKZjNHWEpOT3E3Z1hWV1VFQnV6Y3h0elg0TUw4Wjg5LU42N21LMGdOV1NJWGY3M19neVRITHhQSEV3SVY1LXI3dGVRSlFEWVlPT2I2WEN5UXVydkxkSUtfRDZTb0p0cDNrUFhBN1ZRTDZvdGtKUHJ3YlU3SU5OOTlCVUNjamZsNGNn?oc=5",
-      "publishedAt": "2026-10-03T13:05:04+08:00"
-    },
-    {
-      "title": "Dublin Theatre Festival 2026: Refuge",
-      "source": "theartsreview.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc0tEdW1ZS2sxTTJoYmJpdTNpQ3RCbWJ3a09qQnNnZEh5S0t4TXltT2plWlp1WEhWd3BPN2ZNWjFfamdfekFpdXpuOExjRkZ0TjVLZnh4V3FfWjZPWldJMGlnYUxQb1dOSmZVTG1VM2JxaFRuYmlrbDFTNG84RnFZVnkwYw?oc=5",
-      "publishedAt": "2026-10-03T10:05:24+08:00"
-    },
-    {
-      "title": "Ross & Rachel – The Civic Theatre, Dublin",
-      "source": "The Reviews Hub",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kSU93dFlHcENWVEtqbUxnMUdhdThPUEprUWNFVE45NHhlVDhIMDlhS05IRHhDLVZHS2NkckJ1bUp2aHhlbkE5WUlGM2R6WDRmSUtNNHJFTk5Mc3VKVTktR2dvWGxTanhNWVVmSmVieGpiMHlhcWc?oc=5",
-      "publishedAt": "2026-10-03T08:19:17+08:00"
+      "title": "Dublin Docklands at 30: Regeneration, riches and a lingering sense of betrayal",
+      "source": "Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTzRuUThLSmEzclhXeWluVDJLb0RqeHdMeXlLZUxaTmx2RklMZjJVLTVGa1hXZkljRDY5WU90X1l0a1NMRDhwWW04ZzlBZWttSGN2cER4cTJPOUpWQ3ExdlkwTUlRQ3RUTHNJWVozREVyaFVhQi1qU01mM0VzZkRaTVJ5RU5CM1ZDNzBIWFFOck9TSXBkdHpFYXhDNUFDY3l5Wmk0MmxkV1c3SW9heWRFbnRFOHdBVk5KMGtieW1RQkFXaVBaQ1JNeXMxWQ?oc=5",
+      "publishedAt": "2026-10-03T13:30:00+08:00"
     }
   ]
 }
