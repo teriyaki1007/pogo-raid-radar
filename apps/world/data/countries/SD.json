@@ -1,7 +1,7 @@
 {
   "iso2": "SD",
   "name": "Sudan",
-  "updatedAt": "2026-10-03T05:04:14+08:00",
+  "updatedAt": "2026-10-03T11:06:51+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Opinion| South Sudan’s oil lifeline runs through a war zone. Kenya’s new refinery offers a way out",
+      "source": "Radio Tamazuj",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWXhPYkM1TjJ5YUFwUllGNWdHNzB4MmJ1a2tfT0FFb1JNcVcxVW5VUlpMNHBDRXF1TzVQZkRzOUtXQjRKekRLWXpEY1M4Ml9OYVd2UklhN05RVTk5ejRNQkFmMkhuNmhrcWRvLTBnUFUzR1NxSnhnV2ttNnhmMF9WR1lhSEQ5MHRPclY3WkJEQUdHZVVnSVVQbmpmMk16Q25pRU5EczA0eEpZZmVMVml1dW4xeHgwUmt0X1lEdmpaQTlRbnJkQjQ0UC1zMnQzWnNudFNKY3BB?oc=5",
+      "publishedAt": "2026-10-03T07:31:52+08:00"
+    },
+    {
+      "title": "Sudanese commander orders troops in Blue Nile to prepare push against rebels",
+      "source": "Sudan Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96LU96eGY4NVctTUEzRElnTGZvb1k5d3QxbTVmQ2x5VVJubWJLemR6Yk5lX3JWb1ZQTUM4YURsYXFwRDJVRXVqU0JiZ1ZuVG5s?oc=5",
+      "publishedAt": "2026-10-03T06:41:09+08:00"
+    },
+    {
+      "title": "Sudan signs basic export credit deal with Belarus to finance agriculture, infrastructure",
+      "source": "Sudan Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aam0zUjEwZUs4QlphNVRObXVTQm1JV1ZKNmI2bmZnRHRRT0hFTDNGVnlVUWVsaDdCQWd5c0hCQzVzbFVaY0E3cFRDcEpwUkM4?oc=5",
+      "publishedAt": "2026-10-03T05:52:21+08:00"
+    },
+    {
+      "title": "Taiwan’s president latest setback, Angolan fuel protests turn violent, Trump launches Sudan peace effort",
+      "source": "GZERO Media",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc284d0tNOGpiUFdiV0VWdHVxNFNpejgtYkRoMGtxcThxNTNmU1B0R2JOUmZTUzJnNUgyYlc4ek1hMzJHaEpRUzdxY0lIcTl6QUxpUDNEOEhEeDRVY0hjN2V3MzIxWkRCZFZIdFJoSWRVUThhR1piQ2NaN3BlSC1LUUpIMThfVVJnOHhLTUxJTVlzeUpMTjJ4ZU41UW9BUm03SW5ka1RNYldoR0VhNE5ERS1ycEI5Ty1SYTcwNm9xZWFNRGlTVGNRYXRtSFlCLVVkcHJ6ZEdlU0UzZw?oc=5",
+      "publishedAt": "2026-10-03T05:21:05+08:00"
+    },
+    {
+      "title": "Documentary \"Mangok\" follows Brandeis staffer's fight to rescue family kidnapped in South Sudan",
+      "source": "Brandeis University",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjA5MWtITmJDTUhReHdFblZoNDlCdnN3VGJ5RmpOOTFiTFFtUnFsOGFaUFo5cVQyMV9YLWZVbVM1ekFvM1M5TjNCLTJFU05ZYXd0Q0hiLWdwXzhJWmhtUk1YODlBQXJZaW9IS2JvMDFmQnIyaWp5RDdHQzJDZE5SNHY4SjE?oc=5",
+      "publishedAt": "2026-10-03T05:18:11+08:00"
+    },
+    {
       "title": "Massad Boulos Discusses Peace Efforts in Sudan With UN Envoy",
       "source": "صوت الإمارات",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGZCZHlSVHRUbks2TTU5VXFLZVBiT1QyNDJSV2IzLU1aOEhBRUdCSlhYNDY3VlByLUg5akhvZnlMTVE5QTlhdzc3UEQ3LWhGV2NCVk1XM081Q0hOVkF3ZEEzVklVQ25aOS1tOE9zUTNGY3R6NW1hMHhUOWVOQjZZUU1leU5Rb2RxTHJVaDdlWTE4MlFhaG5wbUlhdThkVExoUFlPX3lSU0FsWnZpNGc0VmZR?oc=5",
@@ -46,36 +76,6 @@
       "source": "horn review",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDJUNm1JaHpPRnlOSy14TnJwa0lnSnVLdXlmZjJ0RzRRdEpQUFBwamxCYnZJaGFEb0V4THBPUDdTOHBHZXFURTRXVmtCMFJhMDRHNC1xVlNzYUdoQnBvNGVzclN6TkVkSndaeTF1MW9ET2JvVm5fZFFYNFdYdmFjQi0ycEVrS0dYbVB2d2IyQVFxUTdONFdWeFRXVWlRazctOGxoNlJ4RjZ2QnM?oc=5",
       "publishedAt": "2026-10-03T03:47:59+08:00"
-    },
-    {
-      "title": "US, UN push for wider humanitarian access in Sudan and DRC",
-      "source": "People Daily",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTnk4UG9TbmtoR01yVWNRMndjU2l5N29fSXZsdjV2QVB4QWdRUWV2VzJGZWRhXzJYejN6RWpPNnR2b0VnMHVDbXZpU0hPMk9SVkQ4a2R0VTN0MEhQQVZvbnl6MWdCMmlHYU5TN2MteWZBZThMOERHWUxnVFJHdUFld1NHZExGTHlyUkF5WHVuZnZJVzRa?oc=5",
-      "publishedAt": "2026-10-03T03:11:18+08:00"
-    },
-    {
-      "title": "Sudan’s army says it captured RSF stronghold in North Kordofan",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNjByb0hzUW1uOUgxN3FZRkJjNlc3eHdWZ2h2TER5WGJNTVdVS25WWXNfN2J5OXgwZVFiUExyelRUbEh2YllPZVNUM3VGM3V2OVVtRHZkalVRX2tmWDNTZEI3c0tERVZJUUxzWEVrT0Z2ejQzS083cmdEZW1oTGVoSXRNSlRCUmdreWR2VjFB?oc=5",
-      "publishedAt": "2026-10-03T02:51:54+08:00"
-    },
-    {
-      "title": "Drone strikes on dormitory, shelter kill 10 in Sudan’s El-Obeid",
-      "source": "Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ3J5Yl9zNmdoeEM0LTFxcGpqdVQyU2hmRy1nVHVZY0RLa3JwRW5lekZyX0ZJTTBMQ0pxWXlHcVRZSXI0VzItNXlkN1o5STVseVIwcldqY205OXM1dmZrQll0SmlhYmxRY1FCSWUtT1EzaG9iRmx3RU5pSFBiaVhDWURRUTJsQW8zXzlzVlFnd0Rhd0VHSXVGbHlMQmxlTG91clVTUXgyMnludw?oc=5",
-      "publishedAt": "2026-10-03T02:28:39+08:00"
-    },
-    {
-      "title": "UN Welcomes Sudan’s Decision to Keep Adre Crossing Open",
-      "source": "Sudan Horizon",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMnNtMkllQTJYdWRBeXAzbkNPWlZ0SGNVNk9UODRCMnBZMWdvZEE1Z3d5NFI1VV9LXzhQbV9rRy1IWnVmWG0xUnotUTl5aFBXQjNibjJSVjdzT0Zxd2g5Tl85Q3B0R2ZMTnRZTENXc1BWZXJSRHhuX3ZOdmhnN1BpSG9uTTZlTG8?oc=5",
-      "publishedAt": "2026-10-03T01:55:56+08:00"
-    },
-    {
-      "title": "South Sudan Humanitarian Update (as of 30 September 2026)",
-      "source": "ReliefWeb",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOXVSZUlqVHpqTDVkMm5QQmRnczFaZGl0ai1HNzlXdE05X0pJNjFEaGJtVWZtVnRsX0I5WklQM3VCSEdvdExsVW1ZbFp3bkRFZ0RoYnlqdXg2cUh6czdnVzdVNmltbXBmTk9TNXNXQkU0VmhiVHZpX1NiLXJiTm9USUR6cmJjUzFfbm1tWnRNUXdRY2ww?oc=5",
-      "publishedAt": "2026-10-03T01:41:56+08:00"
     }
   ]
 }

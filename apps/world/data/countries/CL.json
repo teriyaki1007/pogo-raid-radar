@@ -1,7 +1,7 @@
 {
   "iso2": "CL",
   "name": "Chile",
-  "updatedAt": "2026-10-03T05:04:14+08:00",
+  "updatedAt": "2026-10-03T11:06:51+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Chile Police Killed",
+      "source": "sharonherald.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXhTMWhSOURVUHRKRmZmejMtcEYyMUNFQ2lrajBRREdqb0VnOUpMSzBaRy1NcTJYWjd0Y1Nhb3RqdTlxbndWZ2xHS1l4WEdteUlJMEQ4Q0RyNTh6cmZPb0xZWEpRT0pXczVmZ1BTLTNuUEJJNWw3LTduanRRNk1PRDQ0VGxBbkh2dXF2NWNLZWV2TnJPTVB3U3Y3THh2eTB0YjRmc2JiMDF6a0st?oc=5",
+      "publishedAt": "2026-10-03T06:34:12+08:00"
+    },
+    {
+      "title": "Copper from Chile and Peru, possible bargaining chip in Chinese approval for Anglo-Teck merger",
+      "source": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWlBYZlpSeVQwT1ctOV94bkg2STlESE5QWVExRG05eUd2NWlyVVYzZkhydE94dEhOWVlXTnhTN1hRdkkxOFBPeHRSZFpwbmJDZW5GOUlkMHpLNTY0WFk4NF9tOWFUY1g0X0NDRHZBZ3pTSXcxZXNrOEtCZF9NVEpSRGEtMWZDdlFpYXpoTlNsU1FHWm5UR1FVS0cxNUFiaHo1Y0cyanU5NU13VGMtNUhLNUNXX0daZFM2SzcwcG1YTk43SWw5Wk1adHY5OG8?oc=5",
+      "publishedAt": "2026-10-03T05:56:15+08:00"
+    },
+    {
+      "title": "Photo Journal: Chile’s Isolated Puesteros Captured by Pie Aerts",
+      "source": "SUITCASE Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOXFzdnJNY09BZUhVa2FRQm0zNTFERFFqV2VsRUtDRXJXcjNjQ2QxWE5JanhMSzNvR25XZ2laN3ZUcU9kcWp2ZjhUUFl1MkkxV3lQcVFnM3dNMUU4YW41c2p1QjVMNmdGeE4zbXdWbUpVT0RydGNOekJmOENRU3Z1MVNoSE55UQ?oc=5",
+      "publishedAt": "2026-10-03T05:49:26+08:00"
+    },
+    {
+      "title": "Tigers Travel to Arkansas for the Chile Pepper Invitational",
+      "source": "University of Memphis Athletics",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVE45cE5HTlhjR3hwem41RF9mVE9HSnBYYzVKT1pnNk1feW93bjJhQ1RyYXFHR2FrS0l4a3YwUEJMcG5YWDlNX0F3TUZVMjRrbUMtczNkLTlHN2lnenRhd1lSQW5xNTZRc2lQRmxfVGxybVVrMGtuV0NLb2VwZWJybUUtTE44dHNZaHdPaV9nNDEtZHZDaF9IejRJVWh3YkFnSzh1TTVyUHRTZVBxbGU2eTJ3anBnbEE?oc=5",
+      "publishedAt": "2026-10-03T05:06:10+08:00"
+    },
+    {
       "title": "U.S., Chile and Russia Offset Drop in Brazilian Beef Exports to China",
       "source": "DatamarNews",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNTNUWVVWY1lzb0JCWVVEanVkSmI0VXhYRmo0eHRjM09hV3NsTFg2Y0ZGbU5MempWWTEtX2ZEMURldHN6b3dJeXJLbG5yQkRINnhVUWJ1cDVuRkgzdFp0Uno0bk9xNUJ0VV9kN1JKb2Z0N1pCelcyT1JON0txYUNocl8xSkY?oc=5",
       "publishedAt": "2026-10-03T05:00:35+08:00"
+    },
+    {
+      "title": "Colorful wildflowers bloom across Chile's Atacama Desert",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaEJFdzJLeTYyNXRuOWNCMHlfTmI5aDFLeC0wVklXOFphZXlyNWQwMms2aFg1WTRjQUs0aDF3cUpBeHM1bDlQeTI2QTdPVm5pSEtRWksyeFlXLU1DNU0xb0hRRFEzNUQ5LTgtb1EtRk55WUlfTmtOSkxtU2lYclMwbE1VUGlNZkhjYll6S0t5TEVjV0RFSm05MjNuc244eXVT?oc=5",
+      "publishedAt": "2026-10-03T04:34:57+08:00"
     },
     {
       "title": "Colorful wildflowers bloom across Chile's Atacama Desert in wake of 'super' El Niño",
@@ -46,36 +76,6 @@
       "source": "Dealroom",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNci1XZlJGZFhBY3I5dVAzSzhUaFFxakE2cWVpamI0S0dHZ3hISUlRMVBfNjZGaU9SXzFFY0wwSG9nMW9nay1jbUpPTGFLMHJzVnBlYzhwNzhzNThJR1RTVkk0VUs4NHhIVEoyd2YtNUl4U2dRNklMQWx5d3F6TGZ3NWtlS3B4Z1EwOElhZW56aGhLQUtWX3NzelBTQ1V2bW4yd2E0eHh1Q18?oc=5",
       "publishedAt": "2026-10-03T02:45:28+08:00"
-    },
-    {
-      "title": "USA vs. Chile, 2026 Friendly: Man of the Match",
-      "source": "Stars and Stripes FC",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWlHa3l0bDhVRTVpeHh0cWNsMHpqSHlQM0FRV2RaZHdHb2VJV0FKMDZaS3NuTG1UYUZxY294ZE1OZzFGZE9LYS02SkhVSEpQcV9JaFN5TUt1b1g1ZlRrMXh4WXNxelhNcGRNVF9RMlZBdlJrNzhHd2N2Y3dkX1VXMmZLa0J0TWpGWXU4VGEtZ2JCc3I1M0U5MkF3?oc=5",
-      "publishedAt": "2026-10-03T01:45:00+08:00"
-    },
-    {
-      "title": "Chile's Copper Hits 15-Year Low — and a Mine Strike Could Make It Worse",
-      "source": "Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOemNlQkJWaXJ2UE1wY2lHSUU4V0RRX1cyanRDUEFrRkFfRzNCUUFCd1p4dFBhckFHWnpsLVFwblpXMjVncGtwQnpYMWJTQlFJcVotZXR2RHh6R3llMUNBSXR4QzgwbjFaT3k3SnJsN1FFdkdmdmpHbjY3ZTVfRlVUemp4a3oyQ25zWWFWWGNseERvV3lrX0ZGS1U4RkI?oc=5",
-      "publishedAt": "2026-10-03T01:03:12+08:00"
-    },
-    {
-      "title": "Chile’s JetSMART eyes fleet, crew consolidation in Santiago",
-      "source": "ch-aviation",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSTJzSER5ZmxEWnkxbGxPOWplZFVGODh6anR4RVlKOEliTTA0LUZfcDkwMTlOalUxeW45SV94eTE0V0hrdjZxcWVYcUNCdlZMdWhURTdZRE8yOU9vMU5ZQTVoRGJwbEQ0WXdfTE1iNTl3RkVuVXkxMVhkZVRDeVpJX0xsd1VVWTZQMlBEaGEtT29NMXFzUXFsM1dZZ0RZZw?oc=5",
-      "publishedAt": "2026-10-03T00:32:20+08:00"
-    },
-    {
-      "title": "Photo Journal: Chile’s Isolated Puesteros Captured by Pie Aerts",
-      "source": "SUITCASE Magazine",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOXFzdnJNY09BZUhVa2FRQm0zNTFERFFqV2VsRUtDRXJXcjNjQ2QxWE5JanhMSzNvR25XZ2laN3ZUcU9kcWp2ZjhUUFl1MkkxV3lQcVFnM3dNMUU4YW41c2p1QjVMNmdGeE4zbXdWbUpVT0RydGNOekJmOENRU3Z1MVNoSE55UQ?oc=5",
-      "publishedAt": "2026-10-02T23:49:26+08:00"
-    },
-    {
-      "title": "Chilean Police Crack Down on Student March Against Budget Cuts",
-      "source": "Orinoco Tribune",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeHdGSHRpVG5FV2w2SjFrUHFqR254Nmx1LURxN3Q0MjdyTlpKOUY0RXk5ME9HQWdlVkctMTY0YjJLZlh0bzRjUzNVaVlqaG5mdlBUdEhTZHJrcjhLRGltRF9zWnItVmdMeXNKbmMwU2Q2c2NlYl9aUXd3UXRRVWVCaTdsRWxQcjN0ZjdJb3VuM1JVbW9N?oc=5",
-      "publishedAt": "2026-10-02T23:03:59+08:00"
     }
   ]
 }

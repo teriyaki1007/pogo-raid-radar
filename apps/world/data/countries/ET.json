@@ -1,7 +1,7 @@
 {
   "iso2": "ET",
   "name": "Ethiopia",
-  "updatedAt": "2026-10-03T05:04:14+08:00",
+  "updatedAt": "2026-10-03T11:06:51+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,8 +30,38 @@
   ],
   "headlines": [
     {
+      "title": "Ethiopia expands AI use, applied research",
+      "source": "Realnews Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1LYXNuUWZncTg1RkNJV2xpWkdIamhhQk9vTEVsWjM5aFFXZGJIa3FYZWdsV2hZaFFxSmQ4SWR3bHFuWXpLbmpXVXhCOXdkNENadkRKZXBMa1k3ZXhQUkNiNEFxX0pLTWo5TXFsM3czZVQxcThpVXV1dHJ3?oc=5",
+      "publishedAt": "2026-10-03T10:40:10+08:00"
+    },
+    {
+      "title": "What to Know About Fighting Between Ethiopia and Rebels in Tigray",
+      "source": "nytimes.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQY0RwX2VmWlJ6VjZhaGxkR2pVVWpOdEhqUl93TG56bFVPQ25lcHZQUXZtV1lvVGliQW9DbVhIWjA4ODFua0FQODRLUVVtdmdxZVg4MU9VeXRCMmVGZTI5V0pWSWljOXNzcmlQdUdqMGlJQkRXRFhDMDUxbXNwZkY2WHF6TQ?oc=5",
+      "publishedAt": "2026-10-03T10:03:10+08:00"
+    },
+    {
+      "title": "Renewed hostility between Ethiopia and Eritrea raises tensions in the Horn of Africa",
+      "source": "EFE - Agencia de noticias",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWFLa3JRaUVBb2NuWmZNbUpzb2NUUTVXdkxQQ041MmhlWUlwUmI5STdyTzZKRUZpR29ZU1RUa3locHVLSzYwRU1KcEExcTVYdGNCN3ZkTXJGLVhyM01IQkxJcE5kRE5TbmJTekhuTmotTF9XUFM2MGFrOEs5MzY0ZjJaWWprV1BWaTBuUi1wSDVILWhiWHZwcVpBU29VeVdtUG1RWHFTU0tOdUVFRUpLZGJVVVJxVEE?oc=5",
+      "publishedAt": "2026-10-03T09:23:36+08:00"
+    },
+    {
+      "title": "Ethiopian Airlines Celebrates 80 Years with a Special Trip to ‘The Land of Origin’",
+      "source": "The Washington Informer",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5OFRuc1RhUlFIUUdYNWEtTEVDTFZ4LWdGcGluYmlxWWVLbTN4ekxINUNMM0U0YmVOMHpoWmpUWnBSeFBrY2dvU01WV1dfZW1MQkM3OV9MTkxMY2NoSHl2cVpMRk5WQzFJa29jMmViWjBpbWZK?oc=5",
+      "publishedAt": "2026-10-03T08:21:00+08:00"
+    },
+    {
+      "title": "Ethiopia conflict risks wider regional war",
+      "source": "tribune.com.pk",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ0JjamFXZ1VzeUg2QUhtQ1Ayb0pHWV92RTFNN2dLUlJEa0pXQ3F4LTFZNngzR0MyamgzWUx3ZWM4ck9fVmN0cEZNSnkyTEJwV21rQnRlX3U0RnRhUWk5NmRuTHZ2eFB6bVNyUTQ4UW5TaWM2RjZreWdLUExrQjlaSFFEaHdVQdIBjgFBVV95cUxPZmV6NTRyelpxNVkybUhkVk1aOHc3SExaVW9jejV2dURvSHVIXy1jUm9DSllpUXFoRnpCMGRkNkpST3RxMVBKNzF4VEllQUNjUUxrdE5HNmdqelVtVjJpdEVRXzFlQUhxMGY3dWtZSGdMc0RUMndfRWlYLVpHd3VQbWFQUC1nbUFQMG1BOGJn?oc=5",
+      "publishedAt": "2026-10-03T08:10:35+08:00"
+    },
+    {
       "title": "Eye on Africa - Ethiopian army pushes back Tigrayan rebels",
-      "source": "france24.com",
+      "source": "France 24",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd1QwbVlCM0ljTXlpOGRqLWtGQlJkVUJ4SVhTREZITWdCTVo2QkNiQ0xLX25Qa1Y1M3Y1a3BMRkNESXhOdkJhcXQ1SUlOTkgwbUNTMDFnaFJza1NqZDJTUElEcUxKbWFPeTNmc3RpXzZ5ZmtiUlhySmFmNkplamx4cnZMM1ZWcndCb01lczZmZUFNZ25NelJmLXU5SEk2cUUxVXhWdw?oc=5",
       "publishedAt": "2026-10-03T04:46:00+08:00"
     },
@@ -46,36 +76,6 @@
       "source": "Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOHNzaVUzQ0JJUDJxZDlVR2ctbE52QWFqdWtuNVR0SlNDWUdFQnYwb1VwMWRLb1dBOGlfZUM0ZEVwODkzVEZNcHZIWk12LVRTRTZ6WkcwazBiTGs3N2FFLU9jVmdjazRXRk80cDRtMlRJc3U4MHAyVl9aUUZPYmhUbWtWR1N4V2l3RWJCbV9YYjY3b09jV1dKRWNJSFFvWFBLSktjSW1zTEdQd9IBrwFBVV95cUxOaUtucklZTXZuMHpVMGM5Ml9lRjVIYUFYaU45Vk80blFzYjFmTURmRG5RdVJuanVLUHJ2NDZJaUdRZ29PUEplQXRxMEpmNWlha3JMVndIbE4zOUtoc2NibkpGYkRReFFOdmxDOVpVVkNPX0M0bmZiMDFhVFpXbUF0aDk3andSSS01em9oWTMyYldFM3pPSDdHd2NjUHRGSVpHd3lnbTVXcnl2djdZYmw0?oc=5",
       "publishedAt": "2026-10-03T04:18:13+08:00"
-    },
-    {
-      "title": "The possibility of Sudan’s War Converging with Ethiopia’s Renewed Conflict",
-      "source": "horn review",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaDJUNm1JaHpPRnlOSy14TnJwa0lnSnVLdXlmZjJ0RzRRdEpQUFBwamxCYnZJaGFEb0V4THBPUDdTOHBHZXFURTRXVmtCMFJhMDRHNC1xVlNzYUdoQnBvNGVzclN6TkVkSndaeTF1MW9ET2JvVm5fZFFYNFdYdmFjQi0ycEVrS0dYbVB2d2IyQVFxUTdONFdWeFRXVWlRazctOGxoNlJ4RjZ2QnM?oc=5",
-      "publishedAt": "2026-10-03T03:47:59+08:00"
-    },
-    {
-      "title": "Government-Humanitarian Coordination for Effective Humanitarian Response in Northern Ethiopia",
-      "source": "horn review",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPamdzYzNhckZVQk5mTVBqZVVVa0hMY2Fkd2ZrRTJlYi1pWU9SeGtXaW9PYlBwYTZFWUQ4N0wzbHVIeEZPZnFGOGF5LVJCamhLUHVBZUxZVGxMRWNxTmt6c2FfU0lJczZYdGxSUzVGNW9Ka3NUbTNVVzJVS2IyeUxXLVkyaEZpeWNTX3RrdHBkY1lXV2VfUXRUV24tcFBxblFkcFdGU28xYVpZb1pjRkFaWmRVQlRMRTZoU0ZRNWtfdDBiOWZRSmlF?oc=5",
-      "publishedAt": "2026-10-03T03:33:39+08:00"
-    },
-    {
-      "title": "Ethiopia Tigray rebels pushed back as regional tensions spike",
-      "source": "Courthouse News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbExMVk1pMi01TWFlcGlVdkJjaldpUHZRYWdYMUJxX2o5UTlGWjlKNU9Bcm90Qkw1d0V2MWVjUXAxeFJRSk9UMzJxV1k0VkQ3OWJxdWh6SEtGbXVNVUw3cFpqMy1Pc1pfUTlTWlVtcGxfWTI1amUwUFRncC16dV9QZnpSbkRTbkZkVVZiTUE5TGt2NTFTZUZXRg?oc=5",
-      "publishedAt": "2026-10-03T02:54:58+08:00"
-    },
-    {
-      "title": "Ethiopian Prime Minister Calls for National Unity During Traditional Celebration",
-      "source": "teleSUR English",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcTZ0U3BwYlNYV2pCN0ptQkxZVnF0SEk4RUgxYlNkNC1KaXFZRklqN1JPazEzZmRlLXFiamlXa3B6Y1N0QWpFTkNJaHJkNFRodF9lbmZfanNIWFlpZjNSUU1CYkZHZHFpWkxlSXpkREVvSGZHY1BiTUxuWXdZRkJDR09rVWhlRFJlRmNhLXplejhwdk5QT3JJLUdPX1FBZjlsaEdaMERWdE5heWdMbWFxeXBR?oc=5",
-      "publishedAt": "2026-10-03T02:54:02+08:00"
-    },
-    {
-      "title": "Could conflict in Ethiopia expand across the region? | Inside Story",
-      "source": "Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15bGQ1bTJhX2JYRi1VbGFzd1A2ZlVOOVhuSWhMMU5TTUxXSDl1dG84RzRqcHkxdjVGZnR2eXdNUlBzUGRXWnczcElVcWxZZjJHc09xbnJOazhUMWlTZGphZmZpekk5RUHSAVxBVV95cUxPNm5lWHprZGZkejlDV2MwQ203NUxlMDBZWnowdTY4WnhHT0pXV19MMU54V20yY2tWclM4VUc1dFNTTnloZ3g1eEFFMXI0aG1xSzM3LWl0Y2R5aWJleQ?oc=5",
-      "publishedAt": "2026-10-03T02:28:28+08:00"
     }
   ]
 }
