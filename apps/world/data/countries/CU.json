@@ -1,7 +1,7 @@
 {
   "iso2": "CU",
   "name": "Cuba",
-  "updatedAt": "2026-10-03T17:05:38+08:00",
+  "updatedAt": "2026-10-03T23:05:33+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,14 +30,44 @@
   ],
   "headlines": [
     {
+      "title": "Immigration briefing: How Trump’s crackdowns are impacting Cuban voters",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc0NIRndkeTBveE1wQ0ZwRUEtZWRybFNpdTdsRGwwQkIwRWtmOWpObDVDSkdVMldqTW5wc2tYdF9EWXh4RmVuQ2tSZWNHTXlib3NsSm9FNldkSUVwOHgtWlFKQVctcXZCUEZVQzBURDZWeHVxbWU2T1FyLWpoRlZCTkNHdi1NLXdoR2Z6U1VWQTVqZ0Z4M3dRNEhrckwxR1VHdWNVTmI3YlJZbHhJUDVPQy04Y00?oc=5",
+      "publishedAt": "2026-10-03T19:47:00+08:00"
+    },
+    {
+      "title": "Russia and Cuba agree to develop cooperation in cultural sphere",
+      "source": "TV BRICS",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbHVxNkhYSzktV1dUT1laeElzZ1hFcWhDNXlmdy1yTjAzNV81X2pTak1QUmhUTXN4VTAwRVVjVFM2N3UtS29RdC00aXhITXU0X0hSeExNYVJBbjhOejMxc2JFVDJ0emIzdDVTM2t0a28zM3BaZG9HVjg3dzBOclhFMDVuSWlubjNwMEszTC1hMVEwTjhmcjRz?oc=5",
+      "publishedAt": "2026-10-03T19:00:41+08:00"
+    },
+    {
+      "title": "U.S Coast Guard Intercepts Cargo Ship Carrying Fuel Bound For Cuba Amid Oil Embargo",
+      "source": "Marine Insight",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONncyT3NFZnFoNVRsZnRxMnFCaHl3OWxTTFdscXhjaWVLMndwVDlwbnVITmdKYmhGWTdLX3F1UlBJTjNmcEx2QzJDUHJsVnNhWnNBX2Z0anVQYjkzeUViMnFpOVZpdEVnbjZXYnZXclNHazEyc0VBdG5pUEZxeTA3QjVPX01rNGx1YTlGdnNpb2JpemdlbFFxZmdVMjBPRHBmZFlxR3hoYlczS05IUlBXS0RJSGQ?oc=5",
+      "publishedAt": "2026-10-03T18:45:25+08:00"
+    },
+    {
+      "title": "Cuba",
+      "source": "abcnews.com",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kMkxkcVRGRFBDZlJGUzhIMkR4RFNSWGFPeTdSbGJlazhNRi1NU0lRQURhc0tDbVBsaW9jOE9IRmVPc0ZFbXc?oc=5",
+      "publishedAt": "2026-10-03T16:17:02+08:00"
+    },
+    {
       "title": "Juan Negroni (opinion): My boyhood odyssey from Cuba to New York",
       "source": "CT Insider",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjhnZFZvVlBCVU16dzUyLV96VTNfb2xZNmVUa0lpeENYWFphaHFzenZaWE4wZl9lX053UXhMNm1GVWQwby1PTWZQQ240M1U3TDI4Z3pvN0dyMXNwYUhHeU9jX0RsekMySkhWWEF1Yl9xX0ZVWU5jakFmR1Vud2NacHV5ajduRFpQ?oc=5",
       "publishedAt": "2026-10-03T16:16:11+08:00"
     },
     {
+      "title": "St. Kitts and Nevis vs Cuba: Concacaf Nations League stats & head-to-head",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IQW1CcnJ0cnNzM3pHdldKazBFNlBJdkJPbGtGRV82SW1NVnpBTWdGamtwczFqdUo1Z1k5QXBTajk2TXdyTC1nSndxNnRwMjNPWVExTXQwOWxSQl9aNDZSeUw1bw?oc=5",
+      "publishedAt": "2026-10-03T14:57:18+08:00"
+    },
+    {
       "title": "US Coast Guard Intercepts Ship Transporting Fuel to Cuba",
-      "source": "ASHARQ AL-AWSAT English",
+      "source": "english.aawsat.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQk9ubEVXdTZhLWQzM05OYmt2VjAwbzZuYldCdDlYUUtRNjA0cFNCZG93SDhya09kLWJoQzMyRzloWlFUNHBORzdBb0hqSzFyQmVhbWw3dURIblhVbG02Z3dpMVJTQzlhQ2NQdmFzMWRBUnJHZ2ZnanF2cEtYRm5SRjJEeFlBU1A5bmJvZTdtMGlkNEpYR2pHcGp3?oc=5",
       "publishedAt": "2026-10-03T13:24:19+08:00"
     },
@@ -46,36 +76,6 @@
       "source": "Center for Free Cuba",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzBNeGZha3ZRWEMySW52VEdnd05pS2xoUVZxdXJBcVFPZW5Wc1poRWExWm5rYXR4NXZ1LVhMdFI5VzdWTm5iZE4zSll6aElTTUU4TmdyWk8walJheng3SEpTWWIxb0xaMC1NcXFpMHZlMmlyelo2RzdXNmFxelpRT1ljUnYxZjRzaDI2eXg5OGlzOFkweDhfNEFLQmI3UF9EbzBMWlJR?oc=5",
       "publishedAt": "2026-10-03T13:00:04+08:00"
-    },
-    {
-      "title": "Tohatchi vs Cuba - Boys Junior Varsity Football 10/03/2026 | Watch Live & On Demand",
-      "source": "NFHS Network",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZmdyc2E4SjRsbXoyOGxDbW8xTW5fNW95YWhiUmYtZ0h3OGtGSVJMZm55cVBVT3VycEU3ZTA1a2NHUHdySW9xcDg3SWZjRFFuYkJFbG5wNlZmaWVMTzd3Z2ltam9jMTlibE1QaFBIa05sMGx5YkpJU0t1M3Facmdna1FDQzV5Vkp3?oc=5",
-      "publishedAt": "2026-10-03T12:35:19+08:00"
-    },
-    {
-      "title": "U.S. Coast Guard and Mexican Navy stop illegal fuel shipment to Cuba",
-      "source": "WLRN",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVlF5TVZBUjMtd1ZXVkdwLWhjN3JpNHdGcjFtam9jREFDUFk2YkNMcHhMODdXY29Nek9nRHVjeUpseTViNlZJWVpVRVdfUFVSZmhTZC0wR0VlWG9rT2Jsam1GUUFHakczeGRfZjM5R00ydkpVNVZtcFo0NHdBTFREZ1ZiTG9pVHFCcnc0WkM5dDFyUTRMOEo4ajVMWHBCM1Q1ZGhUdFVBbXdzcVBp?oc=5",
-      "publishedAt": "2026-10-03T12:27:00+08:00"
-    },
-    {
-      "title": "US Coast Guard says it intercepted fuel on way to Cuba",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNUZOYlJ5OTVHXzdPVUJDamZWOGFCeTdQNVpZWHQtTmdvTWRfb2M2bmltSnZjTXRoTk9XeWNpWHFhR0VRS2hYM1IwaXdHaVhsSURCUFl5T045S1J6U3hBVlpjZUE4T1dPb21TQ2NuNUlkY3pLYkh5MlRCYWgwMk5XZXlvLWZici1ERWt2Zll3?oc=5",
-      "publishedAt": "2026-10-03T10:36:00+08:00"
-    },
-    {
-      "title": "OFAC expands Cuba sanctions and tightens financial and travel restrictions",
-      "source": "Herbert Smith Freehills Kramer",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObU0tYXFnWHQ2WEktbVFUUkxKanhtV25WUWxNSHUtUnBJQXU4azFJWTViczFKTmxCM2VYaXFjSS1Oa29DTkRPT1Y3NG5WbzhSWG4tVzN2VFlzQTNUYlZUVTRfVkdlXzBLQzRnUXQwSTVBTG45ZTZySlNZalZxR3NJWmVLV3M5UWNyLTlzZFppRHNhMXFOaDlub0RUSHVwbWZUazdlM1NpaUFIVkhmUDdnNFVmRFhtajlJLVdsbFhUM25GWGpjbHc?oc=5",
-      "publishedAt": "2026-10-03T10:22:39+08:00"
-    },
-    {
-      "title": "Cuba",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1kMkxkcVRGRFBDZlJGUzhIMkR4RFNSWGFPeTdSbGJlazhNRi1NU0lRQURhc0tDbVBsaW9jOE9IRmVPc0ZFbXc?oc=5",
-      "publishedAt": "2026-10-03T08:23:21+08:00"
     }
   ]
 }

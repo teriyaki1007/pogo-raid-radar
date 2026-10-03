@@ -1,7 +1,7 @@
 {
   "iso2": "BB",
   "name": "Barbados",
-  "updatedAt": "2026-10-03T17:05:38+08:00",
+  "updatedAt": "2026-10-03T23:05:33+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "A&E: Barbados balance brought to The Well",
+      "source": "Norman Transcript",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObEx4cDNYTklTOUMzckZWcWtpcVp6X2VfVzEwWGtOUmg2SXlySi1uRFlBcGNTRkFIZWhTLU5uQ1BqNE9rbzJhNGRlRUJ5allfSFF4NnVzMm9xMkxIR0VrWkRSakVYUnJYQ0RFN2xxUjAySG5Kay1yWVdZTUp0UllTaXhfSUVfYjJqZFBwSDVMckp1OGctWFlxQlJlVHNhYWtqSU42WjZwa2U3alhKUVdfTzNETlVOaVVVWEEzSHYtMEtjSWJYZWVB?oc=5",
+      "publishedAt": "2026-10-03T22:30:00+08:00"
+    },
+    {
+      "title": "Video: Barbados Football Team Defeat Bermuda",
+      "source": "Bernews",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uaVJVekplaHo4aDdYN1diUUlBRGp3ek5ndjdmWDFjc05peEpVY0dZUVZIaGtpVDdsVjlrc3ZsdWpLbXBweTdLUWFhZ3FFemh4cUFmd3U4UGFxZk96ZmN3S09oc2VRRWU2WjNFMU1JazllMWNXM3NiUDhGbC0?oc=5",
+      "publishedAt": "2026-10-03T19:21:01+08:00"
+    },
+    {
+      "title": "Barbados police arrest 19-year-old British national over $1.17m cocaine",
+      "source": "Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN2VLeEMyT2ZFTEptLWRxVktHT1d4amtMNmdwYzAxbWlFRWx2d3owdFdOaGlOb2FLUkF2NjJUN2l2bzhCUjlIa3dFUnd1cjc0NWl1NmE0b01tQm5IMDZlLUVtWFBZLVNUdkNDcXJxWHk4bk54Wm00YlZLUmN5dWw5cGJwSzZxSU9BbksxOEh0S0tWY0JXVWc?oc=5",
+      "publishedAt": "2026-10-03T18:24:42+08:00"
+    },
+    {
       "title": "Bermuda soundly beaten by Barbados in Nations League",
       "source": "Royal Gazette | Bermuda",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWUVXZUN5TXBnTm5fVDEyalNHeXZhbElRZGtnbmZ2d3M1RFVDbGxMNldvWFRxMkI0V19fSnVkLTN3Y3Mxd196LXItZVg3Y1JROVVKM3ZJZlg3cFFhdnk4Mll0NHF3WGZqcGQ4dmlFNi1LOEJFSWlKMHRTSHFTTENoMDcyUENKdFFtS3Uyc3RkMVFjblV6bEU0YWI4N1p3bFc5cVhySkQxZ0d2R1Vac1h5QUtDakM?oc=5",
@@ -42,6 +60,12 @@
       "publishedAt": "2026-10-03T10:44:47+08:00"
     },
     {
+      "title": "Barbados vs Bermuda: Concacaf Nations League stats & head-to-head",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE10cWk1NHhKWmFsQmZLSzZSSmZWS1J6S3c2bURWRFFLd3MzdW1nRzVIWGtWWjdlalZjTWVoUTBoU0NkNkxCb3dZT3JDNkdoS2xvOFktbng1ZjRaR3NOUUJGRE95RQ?oc=5",
+      "publishedAt": "2026-10-03T09:26:39+08:00"
+    },
+    {
       "title": "Barbados join regional elite as seventh KFC International School Football tournament set for December 13-20",
       "source": "News Room Guyana",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNko4cHFBeHltM29HQjhySUJIZHozU0ZmaTI0Z2FCX2wtMHRQOXhrVHZCMUppeHpibklXb0NZNVhnbVRzQWhlaWtVQ3VYSzBITWlNaWFSU01EYWJiZ25ZeGVLckNhdzR0TWUtcV9uUU02dmJoWDFndVZHbHpPWmlJcGl4TThOLXowWVUtOHJVLWRjREp2SHQ2S0lmcjU4aWdqbk5odGpiUnVuZms0RVNmOFNTUko5b1ZIR3B6MFU3VG5SQlRGaEdyS0ltZjRnb0ppNjZnVUtR?oc=5",
@@ -49,33 +73,9 @@
     },
     {
       "title": "Piton Boyz win big in Barbados",
-      "source": "stluciatimes.com",
+      "source": "St. Lucia Times",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FWkZ6S01YeVJHc3IxM3VNblpmOFFucDV3TWMycGlBc196ckdVLVpxYWhNZ3FmcEVMd01Xd3pBR196emo3X2JsS1dHQkdLTmZLbEpWSUJ5enJyamdzdVZFckhLd2lIVmlOQ0FGUzhPUTFTR2wwYmVpei1yTQ?oc=5",
       "publishedAt": "2026-10-03T06:37:53+08:00"
-    },
-    {
-      "title": "Barbados – Former ICBL Head Ingrid Innes Found Guilty in the US of Money Laundering",
-      "source": "NY Carib News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZ0lEcE14ME9wVlQ0bzktRXFDT3oxTXRGTzdoOVFCZUlFVWRKd2JZR1JkQTNDUWxoNHN1dmpKZkd4Wm5LYjFjT1BlUVJyaDhYQUpqS1RpUDRGS3lXM25rTmJCSEFCT2hCOGhtcWdjT2V1dGxYM2QzdzBGM3ZhU05XQW9kMkxnYXpPamEyRV92V1huZnVoV1hsT2N0bmdneEQtQjR4OEVxZXZVZw?oc=5",
-      "publishedAt": "2026-10-03T04:03:45+08:00"
-    },
-    {
-      "title": "Former Barbados insurer CEO fined US$7,000 in money laundering case",
-      "source": "Caribbean National Weekly",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFZWa0E0YTlMcnMzaEs3ekY0OVFDUDhlQ0ZaVndhN2l2WTJDYkJKQmllUHJwVkRPQ0k5SUxhRXlpQkt3VXRycmN5dzlnVzJ4MDA2OGNEdnQzWUF1bl8xTW5mMnM3MXlxMEd1NGFhU0tWeXBfVmY1QUppbWt5MnlEX1ZjZGdta1JlTV80ZHI2bTVGNC1qRnUxYkY0ZDY2VDIwMWtkV1JnNUtmZVUyejBvRw?oc=5",
-      "publishedAt": "2026-10-03T03:12:09+08:00"
-    },
-    {
-      "title": "Barbados to extend citizenship to great-grandchildren",
-      "source": "voice-online.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVphc3dYRm9INTUzeGJpOWNOeVNZUWsydkR3VkdzSWxjNHRLMXRmU3k1TlA3OTRWMy1HdWlDRGE2Mzdva1hydElSVm5Za09hZ3BWY1NtclRNeUR5RXFVdnJ1TDF4SXJKN2dEb05uZG1OekZKRndCOE5fWGZqbkpGYnhENnVMY2JfZUZnV3ItZkViZDBXMG84clAwampBb1p5cTVJR3NINW1uUExQcVJfWWdR?oc=5",
-      "publishedAt": "2026-10-03T00:28:47+08:00"
-    },
-    {
-      "title": "CWI welcomes Barbados’ High-Performance Centre initiative",
-      "source": "News Room Guyana",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZG1wNC0xY1h0N0lHejk4RmZEeFBYbWxVN1NVR1ZjZF9PN3FuSFhpek4tSGNQdktYeUdMVWo2ZkRwdV9SdW9hUmdzTF9IcXBaMno2ZERjX2xRYjVkTHdlUV9hejJ5N28tdkJrbW53QTI1UGFUN1hTWXVkOFRfeExFRWJ5WHJZZWFXVU1mdFBrT3VHZw?oc=5",
-      "publishedAt": "2026-10-02T20:58:37+08:00"
     }
   ]
 }

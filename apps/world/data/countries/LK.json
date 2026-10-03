@@ -1,7 +1,7 @@
 {
   "iso2": "LK",
   "name": "Sri Lanka",
-  "updatedAt": "2026-10-03T17:05:38+08:00",
+  "updatedAt": "2026-10-03T23:05:33+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,8 +30,38 @@
   ],
   "headlines": [
     {
+      "title": "Cyber resilience starts at the top: Deloitte Sri Lanka",
+      "source": "EconomyNext",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc1VfTEdpLUZTRzI0cW1SbGx5Z0dzMzg5alNOS2dPalg4dHpRTU9rbzhYV040d2JMWXhiOG9Lc2pyX0NIZ3dVcEpobnhTXzE4amR3YS1Bc0hTSVdEYUdkSWNMaDl6TklBa1FRUnVRUmM4UVdQLUlSd0ozcndQbjRPcUdaZkFhLVBNU0dZRk13?oc=5",
+      "publishedAt": "2026-10-03T21:08:41+08:00"
+    },
+    {
+      "title": "LTTE-linked Drug Networks Under Lens As India, Sri Lanka Deepen Anti-narcotics Cooperation",
+      "source": "ETV Bharat",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdTRJZjFMZXJadTU2bWZTcWlRZVRNa19Pd0NNRDBWS0lVeC1wd3RqcWpiTWhXWTl4QUVzbjMtRE84SS1mVnprLU5tVVJENU05MmtYQ0hRUzllS0EtQ1VjUEFUa0JHLU5pT0l3NjFnNk1lcjFPVTgwRUVWM3ZLWmo1cllmaVFHNlhWXzJramNqb1BqbmZrcmFwV1doSkZkekN4eXdVeXp5Rmx5MVI3NzVYR2ZSdjJKZVhZaTJXenJQRW5KSlNHWjF6eDlEZFlHS0tTMF9NUDdtVdIB3AFBVV95cUxORGpFcDlSVkVqcVhjM2xnZzY4RmFBYnJUV0pVbUprV0d4OWY3UjRROTJDWlZudDlQOExlMTZzR01vdnJwMFF2REJrbFdfd3ZFT2VRWFFBTFQtejJmaE8yVkJLWHNkUVRLYnA4RXdvWmRDUHZZb2p1WV92bXhObFVxYldtQ2lYMHVELTFDbDF0YTN1bWx6VmpVV0JyQmg4eU1zN19MUjZNdEJCQllvakMtR0R1Ym5PNDNHZkRDU1RMX2FlMGpZLW9GX05FU3h5cWlEQnBLNXA5NzFpbkg3?oc=5",
+      "publishedAt": "2026-10-03T20:42:45+08:00"
+    },
+    {
+      "title": "Sri Lanka Central Bank buys US$64.2mn in September amid depreciation pressure",
+      "source": "EconomyNext",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSmM3a1k2RDZDTWE1Wnl3X3B1dWkxeDdVcDczREhUaTVUYmNXV0RUc1JGSU1Vd1BuenFDNERFOTdqWTQxZUp3VEVyZ25DVzlkVms0cGVYLUhYejVFOS1CY3MwaTNjU2c2dUEwZFNtLXZ4bmJMLXhhUmplV2JuMmFoSnBPejlVQ0VCdGpob2lLRFEyZW0xLUIyUVhNMktEVVJhbjZ6VHl2RE5DOXc4?oc=5",
+      "publishedAt": "2026-10-03T19:08:41+08:00"
+    },
+    {
+      "title": "Asian Games Cricket: Bangladesh Lose to Sri Lanka in Bronze Medal Match",
+      "source": "businesstimes-bd.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5RcDFBbkF4WHNIa2ZpQmwtTzB5YV9pM2pSWVdQUVF2VXhyVTN2UFQ5djA1UGxEUGlTZ2lXbGdqVUVPZlZhcnFYbmMyZncxbVdoZnJBRm9zMzJmLTZIMW5PS19Jaw?oc=5",
+      "publishedAt": "2026-10-03T17:37:56+08:00"
+    },
+    {
+      "title": "Sri Lanka driver brakes for snake on expressway, triggering three-vehicle crash",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNzhDd0lDODhSS2VjVHIyTlM4OTladUZaYnRxQ2t5QzJIQWg5YmdWMXRhd2V0cDlXUVFReTRrb0JTRmdZcmR1QnIyYm56WGRfWTdPOHZFSXE3WW9qcHUwX2J1dVFmZV9YNmZIQUMyZG1lMjNac1JrN1N3LW1tOHlaQnd6dWZTOEN1OEdTUFhKUQ?oc=5",
+      "publishedAt": "2026-10-03T17:33:00+08:00"
+    },
+    {
       "title": "Sri Lanka beat Bangladesh by 63 runs to secure Asian Games men’s cricket bronze medal",
-      "source": "news.com.au",
+      "source": "News.com.au",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQLU53NDl0Qnc0cmd6dGVKU1ZIeklUcGUwQ1dYbnZac3ExR3NkMDUwM0lHZTVlZ05fNklqeEFTaG42R0twcXBZdG9qZ2IxZm5lNnI4RW5WcDBKZlFOT3hDQ05qci1xQXlVZklveGhYY01sd0pmM2hMdU9BakNzUEZuZVZDQXJ0VUJBZ2N6Sldua1lIcDFIMDU1T1liZVpQaFo5WTI3VWlSWkhRdEcwSFB3a0FENEpZUE5tNGtmX3lUVjBlVVQ1MUFXS0V5VVpBS2VYVjZPYUxXQVFLMzFCYzRKelFJRmFFQk020gHuAUFVX3lxTE4zT0p5RzlfeGplZmVzeEptT3ZwVS1USEdwdWQySGxRTDZfWkk2UnpPX1g2MWFwa3NqSjFyUm95ZzlBMVJjNy1uS2xIa09PSXJxbGlfbXo4T3IwM09zUUktN2tlQ0F0aE9pVWl4OHBlSlFpVVJBVEs1WENrTVc4WmhXVHdpamRlQ2RielpGOTRvTnh1dmlTaE02YzZoQ19RSXZKeUlPX2dvZUhYcjlXMkhfUkhNLW9ialZPVjlHY01oUHJ1SVQyazBZeFVWV2FaSVB2WUE5cjYydXBlTEJESHNveXk4VHFFN1FIaUtCVWc?oc=5",
       "publishedAt": "2026-10-03T15:55:59+08:00"
     },
@@ -45,37 +75,7 @@
       "title": "Dialog brings Samsung Galaxy Z Fold8 and Z Fold8 Ultra 5G to Sri Lanka",
       "source": "Telecompaper",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQUdCQUNHX2dVeWhVWVpZZW03eVcxRVdra3A4cHpQb1FfQnB4aGZfWHN4azVBbUVwMzVaeDJsR2xESVNZQTVnMjdWVmJLNm9GTHdYdnp0bjZ6XzhDSFI2SF9jd1JfeWxlUVpBU0R3SjVuRUFOaTFKT2Q5YmJJbno4N3M3SDRFUXJPTVZGb292Y0dNVFBmOUZicHBOWEFoN0VyUlJfaUE2eFgwSmpNWmNvQndhWQ?oc=5",
-      "publishedAt": "2026-10-03T15:14:16+08:00"
-    },
-    {
-      "title": "Sri Lanka Says US Secondary Sanctions Apply Globally, Not Colombo-Specific",
-      "source": "ETV Bharat",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVNndy13c1lUNF9wczhCc0pxNGl6YmtHOEF2ZTlQc2p6MUhDaFFIclVPV2p3eDlZbURJdk5iNlh3M0YxT1d6dHRfcHlucmh4WWg2QkRWVGQtQ0MycnExSUZRQWp1OHQxUXFSZjkxdUpYSTdiQXFQNldSNkhWd3MzMk1lRHVzSEE3cEd1Y1RpdDFFSmIwcVRmZTlrVXo3bnhFaVVwZ1NET0d5MGZ5aXNVRnpHaDVfMHJCbWVGSE1iLXYwRWxGcF9HLW9vQdIB0AFBVV95cUxNX3hzR21ZRjlQelhLUncxS1RxU1lqdDl2VmNwbWlQeDV6bDJGNFdrdUlxSEI1Q1I3RGxUMEpxeGtSdFRNZkU0eld4SURRcDBnWXhfcXpnXzhpNXRjUjNIZmg4X1NJWGdrNTFnZUpLRkxXMkRqUTMyaW56Mm5ZN3JEd19iUEF2blpMTjVTdm52WnhqRWpERTJMNjVodklDZktabDNGdUdkdU5DaVZxR2Eyd0NfMVpzaGs5bUIwR2NJWjhJdGxKUE1xVm5wWmpRQnJM?oc=5",
-      "publishedAt": "2026-10-03T15:07:18+08:00"
-    },
-    {
-      "title": "Dialog Axiata launches JKOA Classic 4G feature phone in Sri Lanka",
-      "source": "Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbnJFMFVOeklNU2lZYWJhdWFGQUF1cHgxejJNMkwtRkpaUy04eWVFZEZncFVEdy1HSHM2WHB2UlRmUUdsTTBLaTdwUV91d3RWclZjb3AtT2NVRmRhdXR2VktiMHhVb1FiYnFldWxOVXRKVFRGcnFqdkZILXlxcXN0NHJ2Q2VjRVdsd1Z5TTNVX1Jxb0E5UUlCUG1NTDVGOE82bnJhcUVZWklnWU9E?oc=5",
-      "publishedAt": "2026-10-03T15:04:34+08:00"
-    },
-    {
-      "title": "Sri Lanka court refuses to issue arrest warrants for two Indian directors in bribery case",
-      "source": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPN3RKeEplZDJFZnJHOFAteGVVcGpPNVZQXzVSMEZ2VGNCYVQ2SWNDLUsyVXlvVzhuUmVYYklBdHFveVI1bzBqMTRweWZpdFR4bV8yNTlfNW9GTldMZktUOXRmQ1RyRDVHaHJqdGpZRGlxNEM2eHMwalJXZnEyUFBWeWVHaWJpVVBkaGEyVkZRR1RQdnhvOFpUbC1WYXBIaUpXMGN4clhubFRJdnpUSVNpbmpQS3BHQjBueVAyTlZhZDE3QTYtdHIwQm1iTE43TjhYaHBCaGFENW9rcmk2eVhFdEtR0gHoAUFVX3lxTE94cU5OMGhzU0VadDJjNmdfQVJZcDhDbU9ETlY5TWs1WTlLZDRiX0pOa0liTVJSMEpFeldVVnZ1aDdYVFo0SDNaZnNaVXlpUUxFSWoxdXcwTWxrTkNwNUtpbWo1TmhfTUNldU1MQTV0ZFhSeUZPV3VKYTdQQXl2c2tJQ3hGcWVCWXFMY3FUOWFVVkRLdTFyMWJVMll0RkpfNzhaZkxQbVJfQmxpS0h6RXg1QXFMTkoxWk1kZ3RFYi12bEpWandqZjVGNmF6eWlKdWFSb3kta3oxbXdhaXQxQ19JMUh5QnhvbVM?oc=5",
-      "publishedAt": "2026-10-03T15:01:17+08:00"
-    },
-    {
-      "title": "Sri Lanka Secures Bronze, Beating Bangladesh In Men's Cricket At Asian Games",
-      "source": "NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTzl1eGFMNXNWa2NrMVhmZnloZXhRMEI3N3hlYTNaUENaYnNFTHFCVUdkZ1VoOUJFbUtRemNMOF8zYktETkY5UTFNS2FrcHZZZlJnYUF6QlVSZGJQTk43M2gwZFJVeGhyQlZLcjk4aXFKaDJvTUZKTTBoN002eHRfY3ZJcjNrYWFqTTl5dE1WaXlIUGJxRWlRUmVGbFBOOU5PUndWamtiUTNPUFBHYTFqTHF5d3ZXdw?oc=5",
-      "publishedAt": "2026-10-03T14:57:24+08:00"
-    },
-    {
-      "title": "Sri Lanka says US sanctions are global, not aimed at stranded Iranian tankers",
-      "source": "India Today",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNXk4RDZlWmgxSDZwYVNENHFwc2FTSnd1XzV1VDdfUHByWDVkTTlCdWMyQUxXTFVvTWdtTEl1YUNkRlBGYkFsTGg2XzFuX0tjamY2cExudE9KME5jTlhSNkNrTk5VelNERFBkaE1kUnE5Wk5Rc0FzSUdXRUo5OWJSTHhJQXJCWDlBNEhkMUxfV0lRZWlQU21Cc3AtRzZjUGk4VTFMQjlkcldrTzM1QV90WHZOZE5KUWZCYWVhMTQtYnJHd9IBxwFBVV95cUxQRTRSQzg1a3VuSU5KOE9wUFNsVGZjTlg2N25fbmdkVlhpQ0QwWWFJdVNpT2dZeGZVR09zdU9nQTMtcWV1LW0xVlJHT1N3NWE1bGhlRGJWZDZhNmxiRVh0ZkUzdHdkMmRzNkg2TTNkOXFaWDhWZzRKbUZOaGgwX2h3aUJNRlQ2Q292VkI4UlBuQVdvdG5Eb254UVFzSWhTd2NYYVRGdFR3emNKVm5QRDBadGZ5LUJGN2ZyTjR5SkYxVlRSSG9CUzB3?oc=5",
-      "publishedAt": "2026-10-03T14:32:28+08:00"
+      "publishedAt": "2026-10-03T15:13:38+08:00"
     }
   ]
 }
