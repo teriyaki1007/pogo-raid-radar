@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-10-04",
-    "asOfLabel": "4 Oct 2026 ~10:30 PM HKT",
+    "asOf": "2026-10-05",
+    "asOfLabel": "5 Oct 2026 ~6:30 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE (Sun 4 Oct 12:00 AM – Sat 10 Oct 11:59 PM local): World Space Week 2026 — Astronaut Pikachu debut in 1★ raids + free Timed Research (shiny available). Also LIVE through Mon 5 Oct 8:00 PM: Harvest Festival: Taken Over — Giovanni Shadow Zekrom (GO Pass Super Rocket Radar), new Shadows Wimpod / Fomantis / Sandygast, Frustration removable with Charged TM, balloons every 2h. Applin Picking → Mon 5 Oct 8:00 PM. Raids: Xerneas 5★ + Mega Victreebel → Tue 6 Oct 10:00 PM. Shadow 1★/3★ daily; Shadow 5★ Thundurus Incarnate weekends only through ~6 Oct 8:00 PM (LIVE today Sun 4 Oct).",
-      "endsAtLabel": "Astronaut Pikachu / World Space Week → Sat 10 Oct 11:59 PM · Taken Over / Shadow Zekrom → Mon 5 Oct 8:00 PM · Applin Picking → Mon 5 Oct 8:00 PM · Xerneas / Mega Victreebel → Tue 6 Oct 10:00 PM · Shadow 5★ weekend LIVE Sun 4 Oct"
+      "text": "LIVE (Sun 4 Oct 12:00 AM – Sat 10 Oct 11:59 PM local): World Space Week 2026 — Astronaut Pikachu debut in 1★ raids + free Timed Research (shiny available). LAST DAY (ends Mon 5 Oct 8:00 PM): Harvest Festival: Taken Over — Giovanni Shadow Zekrom (GO Pass Super Rocket Radar), new Shadows Wimpod / Fomantis / Sandygast, Frustration removable with Charged TM, balloons every 2h; Applin Picking also ends 8:00 PM. Raids: Xerneas 5★ + Mega Victreebel → Tue 6 Oct 10:00 PM. Shadow 1★/3★ daily; Shadow Thundurus package ends Tue 6 Oct 8:00 PM (Shadow 5★ weekend 3–4 Oct ended). NEXT (Wed 7 Oct 6:00 AM): Yveltal 5★ + Mega Blastoise, Shadow Landorus (Incarnate) in Shadow raids; Yveltal Raid Hour Wed 7 Oct 6–7 PM.",
+      "endsAtLabel": "Taken Over / Shadow Zekrom → Mon 5 Oct 8:00 PM · Applin Picking → Mon 5 Oct 8:00 PM · Xerneas / Mega Victreebel → Tue 6 Oct 10:00 PM · Shadow Thundurus → Tue 6 Oct 8:00 PM · World Space Week → Sat 10 Oct 11:59 PM"
     },
     "legend": {
       "standard": {
@@ -992,15 +992,15 @@
     },
     {
       "id": "shadow-weekend-oct3",
-      "when": "Sat–Sun 3–4 Oct 2026 (LIVE)",
-      "title": "Shadow 5★ weekend — Thundurus Incarnate (LIVE)",
-      "impact": "LIVE Shadow 5★ window this weekend. Package through ~6 Oct 8:00 PM local.",
-      "urgent": true
+      "when": "Sat–Sun 3–4 Oct 2026 (ended)",
+      "title": "Shadow 5★ weekend — Thundurus Incarnate (ended)",
+      "impact": "Weekend Shadow 5★ window closed. Shadow Thundurus package ends Tue 6 Oct 8:00 PM local; Shadow Landorus (Incarnate) takes over Wed 7 Oct.",
+      "urgent": false
     },
     {
       "id": "harvest-taken-over",
-      "when": "Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local (LIVE)",
-      "title": "Harvest Festival: Taken Over (LIVE) — Shadow Zekrom",
+      "when": "Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local (LIVE, ends today)",
+      "title": "Harvest Festival: Taken Over (LIVE — last day) — Shadow Zekrom",
       "impact": "Giovanni active with Super Rocket Radar (GO Pass). Leaders refreshed (Cliff Cubone / Sierra Pancham / Arlo Alolan Grimer). New Grunt Shadows: Wimpod, Fomantis, Sandygast. Frustration removable; wider IV variance on 1★/3★ Shadow raids.",
       "urgent": true
     },
@@ -1023,6 +1023,41 @@
       "when": "Thu 1 Oct 6:00–7:00 PM local (ended)",
       "title": "Spotlight: Seedot (ended)",
       "impact": "Wild spotlight only — ended.",
+      "urgent": false
+    },
+    {
+      "id": "world-space-week-2026",
+      "when": "Sun 4 Oct 12:00 AM – Sat 10 Oct 11:59 PM local (LIVE)",
+      "title": "World Space Week 2026 (LIVE) — Astronaut Pikachu",
+      "impact": "Astronaut Pikachu debuts in 1★ raids (shiny available) plus free Timed Research (Leek Duck).",
+      "urgent": true
+    },
+    {
+      "id": "yveltal-blastoise-oct7",
+      "when": "Wed 7 Oct 6:00 AM – Tue 13 Oct 10:00 PM local (upcoming)",
+      "title": "Yveltal 5★ + Mega Blastoise (upcoming)",
+      "impact": "Next rotation replaces Xerneas / Mega Victreebel (Leek Duck). Yveltal is Dark/Flying — weak to Fairy, Electric, Ice, Rock. Mega Blastoise is Water — weak to Grass, Electric.",
+      "urgent": false
+    },
+    {
+      "id": "shadow-landorus-oct",
+      "when": "Wed 7 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (upcoming)",
+      "title": "Shadow Landorus (Incarnate) in Shadow raids (upcoming)",
+      "impact": "Replaces Shadow Thundurus as the 5★ Shadow boss for October (Leek Duck). Ground/Flying — weak to Ice ×2.56, Water.",
+      "urgent": false
+    },
+    {
+      "id": "raid-hour-yveltal",
+      "when": "Wed 7 Oct 6:00–7:00 PM local (upcoming)",
+      "title": "Raid Hour: Yveltal (upcoming)",
+      "impact": "More 5★ raids for one hour.",
+      "urgent": false
+    },
+    {
+      "id": "spotlight-elgyem",
+      "when": "Thu 8 Oct 6:00–7:00 PM local (upcoming)",
+      "title": "Spotlight: Elgyem (upcoming)",
+      "impact": "Wild spotlight with 2× Catch Candy — not a raid event.",
       "urgent": false
     }
   ]
