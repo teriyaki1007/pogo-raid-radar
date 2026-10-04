@@ -1,7 +1,7 @@
 {
   "iso2": "KH",
   "name": "Cambodia",
-  "updatedAt": "2026-10-04T17:06:06+08:00",
+  "updatedAt": "2026-10-04T23:02:35+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "MH WellFest Cambodia 2026 promotes health, fitness and community through running",
+      "source": "Khmer Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbXdzSTF5Z0NBRGNRR3dzbm9YdHBzTzVvdU13aDlIOUp2N3Q0amVFQXROUlFHVVFUVml1SV9WQ2ZsQVZiVzd2TTZnN0hPY1A4MnhNS2JPTTVVS0puQlNOTTUzQkxjLWtiRHh6bU9pNHNCR2V6U0R4VV9jMkN3NHJVbGVTazJZanM3dll2Tm02b2JKQnJiVHgwX3BYNWQwZGZCX092V1otT1ZDSUlHWXhjQ1EwTjlUVGw1MFFj?oc=5",
+      "publishedAt": "2026-10-04T20:34:18+08:00"
+    },
+    {
+      "title": "India-backed project clears nearly 198,000 sq m of mine-contaminated land in Cambodia | Hindustan Times",
+      "source": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWkdvRmtqVWhFQ3luR25ra1JSbFZCSTJfdFJlSkt3a0FrV2dXdVgyTDZ3eHZHS3dHQmw0LTl2ckFUXzd3ZlFmejNudXIyV2Y1TjlqTGk4dlA5UE9tZXQ1VGtBWWhVdXp5ejBiRjV6aW5XeGJDOU1qRzRZblZBUEI2OEZXb2dSME00dXUtTkl5RHpCZkZyb0JhMGUtUWZBNFBZd0ZMSkxDZDZvdDFkOEc2Z3dBYTRBRUJUWVVxUDVVS1JBclc1TDU1SmQ3QmxtemRBQWppU1ZDcWc4c21DUU5BSTVQbFVkWC1qODJWZkFRRjjSAfABQVVfeXFMTVpHb0ZralVoRUN5bkdua2tSUmxWQkkyX3RSZUpLd2tBa1dnV3VYMkw2d3h2R0t3R0JsNC05dnJBVF83d2ZRZnozbnVyMldmNU45akxpOHZQOVBPbWV0NVRrQVloVXV6eXowYkY1emluV3hiQzlNakc0WW5WQVBCNjhGV29nUjBNNHV1LU5JeUR6QmZGcm9CYTBlLVFmQTRQWXdGTEpMQ2Q2b3QxZDhHNmd3QWE0QUVCVFlVcVA1VUtSQXJXNUw1NUpkN0JsbXpkQUFqaVNWQ3FnOHNtQ1FOQUk1UGxVZFgtajgyVmZBUUY4?oc=5",
+      "publishedAt": "2026-10-04T18:25:12+08:00"
+    },
+    {
       "title": "Cambodia's rice exports grow as demand in Philippines increases",
       "source": "The Star",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNnhoNnZZejE3TkVKeU1CU280RVBrNWprd18xRlhBTklYdDBza1E2ajc1eUIwOTMwLURMeFBTY2R5MF90RFJhSUc5MlFuclZhZHVMaS1JbzFnTGFwMzdIeDA3TmNveVBEX2F4ZE1fNFZxaHpnSTQ4Qk1HTUZzRlhwVm1DR25JTzBLSW82M2FSYWZRY2dSMW45VDBqcE5mNFJFb2k2T3VuTjF6N2hZZEFURXZTTXdaa3lQMVFnQWZsaTYtWnNYc2Nr?oc=5",
@@ -37,7 +49,7 @@
     },
     {
       "title": "Mine-free land presented to villagers in south-western Cambodia with Indian support",
-      "source": "Times of Oman",
+      "source": "timesofoman.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQa1loaExrN21HMXhZZXp2RE5kWVo2TW8yWXVhbDBaMy1COVp0eHhPLUY2NGNCbk5wMzVtdDV6SE1Cd2NOeXQxaGtrZ3UzT1BYX0Nhd0tTYUNmTFBJQjhDYmk4cm13N3BSOXhhYmFkOU5ncUY1UmZoSUFJbkpXY2lHUEpHbFZmY1l5V1dnUkV6NWhrc0thTTdYMjZFekVJbUsyN3JRU1Q5MG8zUW9DZy1aQ3ZIMTg0R3l5UVVjRTR0bw?oc=5",
       "publishedAt": "2026-10-04T13:42:00+08:00"
     },
@@ -60,22 +72,10 @@
       "publishedAt": "2026-10-04T10:31:48+08:00"
     },
     {
-      "title": "VIDEO: Nearly 3,000 apply as Cambodia begins conscription law implementation",
-      "source": "Khmer Times",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd1QxODJwWHQwOHB1UHIxbDd6dy01TFJuVGRyYXl6VEdrTGo2ZDlLZHhjbDhiQ0I3ejk1X21EYkpyTHlUWmVBT0xtbkJwSVdSRXdTd3ZhZ29PaEcybVIxcDBfTnFLenpsd2hoc1pycEVkQXJGRzNTN0Z1a2FnMGp2YkJkMldmSG1KbktscEpRVW9NdkxxT0p5MFA3X3c2V2NDQUhoMnhtZkdiRnFSVF9ENmpEUnA?oc=5",
-      "publishedAt": "2026-10-04T07:23:07+08:00"
-    },
-    {
       "title": "Hong Kong lift first trophy with ASEAN Challenge Cup win over Cambodia",
       "source": "OneFootball",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdjN0b0luUG9ZQjJ2UVdySklLT0p6MnA2ZS1oNmp4REd0Ni03RW5MMVJnakdqS0x2QXhBRExjU0syWS1DWmdJX0QtclhTM201N2tnNDRDOWZYRkdVbk84bUdHeGQtMkMxS1RDS21hTDV3S1lUWGpqTXNJb19Mak9qdzd3TXpSLThUQUJqVkxuME1VbmhoLVlRMk9kbVgwWGZxZE43MEcwS3JUU09qQ0Y2Xw?oc=5",
       "publishedAt": "2026-10-04T04:42:52+08:00"
-    },
-    {
-      "title": "OPINION - Cambodia’s fight against cross-border crime: International pressure and domestic constraints",
-      "source": "Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUC04alRaSGQzQ2VhWFJDMzBEc0dNYXFyMnBFb0RjT1B4VWJZY21LWlhUZnJBd0FaOEFTNWNORzlDNVd3RXZGR2VfUzhicnEyb2NTcWtrMzRacm9QcUxvRXB1Y2pLenh3Sm01dHdlSGlVci1HZ1U1WFA4VmFoLVRNOUYxQTBBWUpUakNVb3NsTTBNZlZSNGZjTEJvLS1iVVVraDZEdnV1ZTVoMDVROHczX2ZDYjZxX2JFR2pQNnRVQmtkVjQ?oc=5",
-      "publishedAt": "2026-10-04T04:07:47+08:00"
     }
   ]
 }
