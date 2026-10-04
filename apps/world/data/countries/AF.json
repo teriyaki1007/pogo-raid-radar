@@ -1,7 +1,7 @@
 {
   "iso2": "AF",
   "name": "Afghanistan",
-  "updatedAt": "2026-10-04T05:09:05+08:00",
+  "updatedAt": "2026-10-04T11:05:31+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Special Report: The Persecution of Afghanistan’s Hazaras",
+      "source": "Genocide Watch",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR2NfZ3JpNHhvZEFiVDFyMUU1ZmplVThxWkFmMHY5dTRtY1NxNG4zblRWcXlYZ2h5MHRNbEdkYmxoZUxCcHBwT0dfcURSeENnUEZOV005aGVvbzdveUVTamlJdU56NFpTSEJUNXQ3U1EybG5QWFdMcnlxYk9JOU1qcTVJY2UtTUxPNWNmSkh3RVpkNm4yd2U2Z2lZdl80dw?oc=5",
+      "publishedAt": "2026-10-04T10:06:43+08:00"
+    },
+    {
+      "title": "5 killed in mine collapse in Afghanistan",
+      "source": "Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KSDYwMkl3VjBiZDZQRno2WkQxejZvbUpXUTlfekw5WEZPREpkd3pJWWk5S1IzMzl1TTdTUGVQLXhBcENzMk83dkZaQk5vUmNTLXFrc25aMlplVTJSTXE5UTRQaUJNc1ZLc0pJU253?oc=5",
+      "publishedAt": "2026-10-04T06:04:58+08:00"
+    },
+    {
       "title": "Pakistan Bombs Afghanistan, Marking a New Escalation in Conflict Between the Two Nations",
       "source": "Nacionale News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZWlPX1hodFFzSTBRSmhTSkR0MVo3UVYtMm9zU2poUHpaSENLdGVST2xvYTB3bW9telpVekNXdzRHb1pNS0xlYk55MTJMRUppeE9xbjQ2RWRfY0FYRXJ0dFg2bnVPc1VFUjA4eERCSWNDdEh4Y25VU3NCVE1PODA1clg3N1A2U3BiOWJGbw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcjljaW9tY0xzcHhBRkRJV05WT3RRTkdkdlhjcWpmTDVNaU10WElaS2lNVXRTdHpRemVKX09vaVl4YVdwSndsdllQLVk2a08yMXdRMEhoeXRQQzgxYzZqendhdXIxX0NqVXZVaEVBX1Zsd1FjTFh2NXVhbzE4WWUwV1FORUFJNmNKbmg4Xzh3eThCdw?oc=5",
       "publishedAt": "2026-10-04T03:05:24+08:00"
+    },
+    {
+      "title": "Pakistan and Afghanistan used to be allies but they're edging towards all-out war",
+      "source": "dw.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRHV4RzhqLUtuUlYySmJBSHd6bTU2bFdBQmZTYW5vcWI5aHZvdkdoMlMzclAteUoxV2ZuUzRtQURwZm5uTlk1NHlSM2kteFVfbl9DYXpMMTBUNDlwS2VfNGNsQkRrclhKUjZzWGNNc3BIdUxCZktKQng1ZDhKUWVZakVESjQxLU90MTFaajdXYWtwcknSAZMBQVVfeXFMT0htWFpqMGUtS1dNdHR1SldDS0h0ekZYdUxEUUNpQ081Rk5qY0kyZGJXczQtUkR5aEV1LWxwLTJGRjFNYjFmOHhKQlJfRDVTb21WejFrTnphSkVwUVVJcjQxWTNLLVVCVkFVSzR5MG52aFFKMnhTckZvaE9FYUZoWmZlWWlVS2JHRmhlMy00RUhUYVZR?oc=5",
+      "publishedAt": "2026-10-04T02:52:16+08:00"
     },
     {
       "title": "Russia Voices Concerns Over Civilian Deaths In Pakistani Strikes On Afghanistan, Calls Situation ‘Serious’",
@@ -42,40 +60,22 @@
       "publishedAt": "2026-10-04T02:01:01+08:00"
     },
     {
-      "title": "Russian Embassy expresses concern over civilian casualties in Paks military actions against Afghanistan",
-      "source": "tribuneindia.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMTFTeTEzMkJfLWREbGd4STczVERZeWFYa1dUZ2tyaXhIZlpRbVUyUUtBTEs5bFRKX1R4SW01OEk1UVloaW11TDMyOWJBbm45UHA4T29KSjJQeHJCal9CYUNwNFBRR3hteVQ1c2ZSblBGUWoyMGl3c3BFVFdLLTM4NnJBRHR2T1gydTQ0Y0NzTURfWlRhdGlzajNBV3N5a1ZtOGhhWE15Q0h2bkthWUpVd0o4MWY4WkFJcDY4NGlzWU1raU9rVWxVcFFLVzZpci1laWRiUnFwQWcxRGtj0gHgAUFVX3lxTE82MWx4eWFiZTlsZWNoaXJSN1p2Nl93ZUlvU25LdnFpdHNJME03MWJGOGV3bTBZUDZrdjkxRXI3LVk5VlMwSy04ZzhkS1AzNHQyYkM2dGRMYjY0Mi1UWl9Uc0xVdTNPT1BfdmxkaFduTzdjcGMtM0Q1cV9iZTU5Qy1Ja0c3dVhfYmtqSWp0WlFGTG1wV3RTRjhHT1FkRkZDMHNNc0pNWjVuT0VYQlRGSUNZMnpHaVNybTdHb3VhWGhzcnQ5ZGUxMkdfTWpRWE5iRG5LQUtTdjdDRjFqeHJfcHZG?oc=5",
-      "publishedAt": "2026-10-04T01:27:14+08:00"
+      "title": "Russian Embassy expresses concern over civilian casualties in Pak's military actions against Afghanistan",
+      "source": "aninews.in",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdlRLckJISUN0dFM3ZUZiNUxDYU4xSURJeDJrcWJNSmRGUGNaem5jTFkwVGhYa0tKdXdvZWN6cVZ6QVMtbTc0bEZLUTlTS0s1Zl9tSmo0U3ZlYk0yM19JVk5SYmdJWnR5bFU5TXRWaFNtaTFPLWtPZGsyRExmNXBBQnVGU0VMLTNOM0l0VWxzS0ltcEFVY0U1NnUxWVFYa19CSkN5QTZfc3A3N3kyZmd5WHZhTFhpejFuSnkzN0xucWxNTU5XVnBEQ2h3YlVTc2hsajBxZ1c0SVUtLTFReWZ6ZFRYMVUtTFh4Y1J2VA?oc=5",
+      "publishedAt": "2026-10-04T01:22:00+08:00"
     },
     {
-      "title": "5 killed in mine collapse in Afghanistan",
-      "source": "Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KSDYwMkl3VjBiZDZQRno2WkQxejZvbUpXUTlfekw5WEZPREpkd3pJWWk5S1IzMzl1TTdTUGVQLXhBcENzMk83dkZaQk5vUmNTLXFrc25aMlplVTJSTXE5UTRQaUJNc1ZLc0pJU253?oc=5",
-      "publishedAt": "2026-10-04T00:07:35+08:00"
+      "title": "Pakistan’s Afghan Envoy To Participate In Moscow Format Talks",
+      "source": "Afghanistan International",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB4bE84QzU3RnY0bDlscFhVejRLNVN0UEhQNnNoVkpqajFSMzhldURwUjlyc0ZTelhxeTZ1M2ZZX3JlMFVJZnVRSWZnWk1qbUE?oc=5",
+      "publishedAt": "2026-10-04T00:21:14+08:00"
     },
     {
-      "title": "Gold mine collapse kills 5 miners in northern Afghanistan",
-      "source": "Newsday",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yUTF1Sm1BNGd4WTgxN2stUXE0OVBJZkJPS0tCS0N3aWUtRkVxdWhIdjc4bzlwZFZRSUJhYl9yZC1LbXNyOVB1NmlmaDdxQWJYbkx2RzNlbDdmWXRBdkVlcWZsdUthM25HcS12aFZ4N20yWWpnRXFaZDAxdi04QQ?oc=5",
-      "publishedAt": "2026-10-03T22:50:02+08:00"
-    },
-    {
-      "title": "Taliban Seek Russian Cooperation to Improve Healthcare Services in Afghanistan",
-      "source": "8am.media",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVDFnVDVrNTIxaUZXc0o0T2NOZThrazVBZERVczczSkc3RzNydnhfdUVYdzhKdW1abGNnTzcyTGlRYksydGN3VVdydHpzc3hPU0Z5ODZxc1dBYWNRYk16OV9MVDU5Uk5xQkg0M3N4SWZNeFVMT1htZmJQb0dIUHppUGhtWnpFVE5pcEs0a0xnUEZ4aXF0bmxrZ2dyUkVxNjBtUy1n?oc=5",
-      "publishedAt": "2026-10-03T20:15:51+08:00"
-    },
-    {
-      "title": "Pakistan Army Chief Calls Airstrikes in Afghanistan ‘Targeted Counterterrorism Actions’",
-      "source": "KabulNow",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSUc5SWxQS2tFcHVPdzk2QXRfdVlhUVA0aHFsUGZOZFVGUU5GbW1WZjlLb0pFbGlJSXB3Z2dJem5VVmkwRENjcGdyZVp2QTNwb25uV3FGa3djX0txMWl2RDBhbXA0dWVRTDZWNGpjVk1kRTcyZFRBSEx6SXlNZUpJUG16UjNYZ0RNU05rUTFldDhnRHJacU9fM1lVTDVJdGZ5VHpoSTBkR3gzSzR6ekJkSTBsV0tVZw?oc=5",
-      "publishedAt": "2026-10-03T20:02:13+08:00"
-    },
-    {
-      "title": "Five Miners Killed in Mine Collapse in Northern Afghanistan",
-      "source": "thekabultribune.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOQWlCby1TU2VVbXRRd3B6YXN6R2h2UW5VX2h6NWozeWc2dDh5WklVS1pscUIyc29YcGxNY0ZZV005OWJxWDN0NDlDVnVqVkU?oc=5",
-      "publishedAt": "2026-10-03T19:39:15+08:00"
+      "title": "Russia Voices Concern Over Afghanistan-Pakistan Fighting as UN Confirms Civilian Deaths",
+      "source": "Khaama Press",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUFV5V2tvNEhSdXR0dk1raTZUUVItcHFvUGtXV1FWcG9rcUt5UGkzYnA1T0pSTUUwV3N3QTZ3QUVXVi1INHNIUEFSb3QyV2ZqeW54U1JrWmx6Z2pXYlVhcVFZSS1xZnR6dUp4aDAzWmV0OXp0d3lLTzBEVUZ0VzZZa1gyWEdxOHNwRDYyekxUOFZpNGlRRnJBVnptRE5HbFBZazlaalBxdjVXMGhaamNHcQ?oc=5",
+      "publishedAt": "2026-10-03T23:46:16+08:00"
     }
   ]
 }

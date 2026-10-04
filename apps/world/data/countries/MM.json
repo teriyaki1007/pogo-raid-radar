@@ -1,7 +1,7 @@
 {
   "iso2": "MM",
   "name": "Myanmar",
-  "updatedAt": "2026-10-04T05:09:05+08:00",
+  "updatedAt": "2026-10-04T11:05:31+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Myanmar migrants returned to war-torn nation from Malaysia",
+      "source": "Free Malaysia Today",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWlzdlA3ZmJacmg5cUJEZkNDNFVqS0p3Yjl0UHNhaFM4dkRlMWVTdWtlR3B0b3VPQWlxZWdheVRwLUJWZnZ2MVpmbUZodDZNVHdBMm4yZmJXOHFnZmNTLU9XRDhZdkwteEZkVDFaY21uMnZXbVlnNHYzaGQ4dWIwZUZyY0J2NXN1QWkxaWtfV21vODlkTURHWEpTaDZOb1dlekgzdWxhUFNpOXc1OEUwX253c0d2UlZiT3ltazF0aw?oc=5",
+      "publishedAt": "2026-10-04T10:12:08+08:00"
+    },
+    {
+      "title": "Myanmar students participate in 2026 Yunnan International Youth Exchange Programme",
+      "source": "Global New Light Of Myanmar",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZUMxbGFYS09MYU1aNzVhYUpRV0FjQWJaNlRLQ0YtMU1iWW8ySlptS0hsRy0tTHlUUHNGLXJvaXZYemI4VWFvbzBCRWxCTDVuRlhtSi12Y0dyZjFRWDZvdnE1TThtZVRlOVpGaWZtU3JCbDh5MFU4cWZndTFUOEJjMHNjWUtsbHF1UUJzeEY5WmQ1cjA5WTFfNEluOEtUMXNXVi1mN2J1aU5uUE0?oc=5",
+      "publishedAt": "2026-10-04T10:11:29+08:00"
+    },
+    {
+      "title": "Rohingya — Myanmar and the Rare Earth",
+      "source": "Pressenza - International Press Agency",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80amNQNm5OelE5RGtNQ3JEdUd3aG9TTm9iRHBpcUp2THpUY0FibjVMLU1fa0h3YUdFTGxxQTVFLVlZYkg5VmlVZlRsUnZZWU0tRk9VZmczbExVcktqSjhfZmU5ai1xbDlrVnJpekw3NTcwRExvVWNad3pn?oc=5",
+      "publishedAt": "2026-10-04T08:24:19+08:00"
+    },
+    {
       "title": "Myanmar experts stress ecosystem conservation for migratory bird habitats, flyways",
       "source": "Xinhua",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5UUDdXbVc2eVkzaTA3WVlmRm5EMnA1RFZrdWszbF8wQ2FRY2tMcEUteDQybmU3VjIzbTNUY2VTR3VnWXVPNkxGS2JHVlVSdEhWcWQ4MFVGSEFKbWpFVFBZN3FwNFlWQmpfeDgzT0tiMmVuczg3dGIxNkRTNzI?oc=5",
       "publishedAt": "2026-10-04T00:05:15+08:00"
+    },
+    {
+      "title": "NSCN-K (YA) condemns alleged drone attack in Langkho, Myanmar",
+      "source": "Ukhrul Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVll1YVB4bTYzV2pJeUZERkV2TkJhUjQ0d1BpVmZSaW9pMXotNTVBUTFtbDNDOVdUcmZoYktVd0tRYTRVT3FCeURuU1ZIR1NRVTAwa3FRX3hfRjRVNk1lQmNLVUVpQmExVDNUaTQxRDRmSDJNYXdxazFLM20tSV9IdlBiOW1Sc1d1VHMw?oc=5",
+      "publishedAt": "2026-10-03T23:16:54+08:00"
     },
     {
       "title": "Philippines voices concern over Myanmar airstrike",
@@ -43,7 +67,7 @@
     },
     {
       "title": "Philippines voices concern over Myanmar airstrike deaths",
-      "source": "Bangkok Post",
+      "source": "bangkokpost.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGFPbjRVb2FKTDlwMTZTQ3U0OEZ1a1V5OG45UmxKRFRoRmdmeTNRLW5aeFlZRWRSTlFCNEFEcjZVck5TcFVuWFlrS2VERnBJa2FKWXlIeXdXTnVBN3B6Wk5nTEFLc01TeDlDMW9wNi00Y1NzaHN0ajRDeWFMcVJlVExUcjNWODRGTlZ5bE14elpmVDFjVi11VlJEQTcwbU0?oc=5",
       "publishedAt": "2026-10-03T17:25:00+08:00"
     },
@@ -52,30 +76,6 @@
       "source": "Ukhrul Times",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUVkblpsaTZqQUJlWVJVSV80OTFzSEJGT0hsbGFxaUREd0lJcF9palNiMmw4WmJrSVlRak52TzdNSF9HQ0dLVXZ4WU1CdlVMdHRWWTJYNi1NRkI4NW11U2dZX2JBUlJPanZiVldQamtzYVc5LWFaaHlFODg3bW1na200eUN0dFkyRXRNYnlYdFdnenF4eTVlZw?oc=5",
       "publishedAt": "2026-10-03T17:21:49+08:00"
-    },
-    {
-      "title": "Philippines urges ASEAN talks after 50 killed in Myanmar airstrike",
-      "source": "Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMVlOU2Y0cERMUkIxVFVWM2VxcVJJdVJhOFdwaTgyNXZaWFVmSm1jYXBCZ2daNU1oT3hDaFVGUVFyelBvMEhIb2J1XzhVejV2bUlqTGk0bEt3bm1tZm1QeEZaa1gyclA3Q0ZHR2xDUUx3dVprZEVVa2ROM1kwMGcwc3E4Z0VJV19pSHlPYWpsbnRpNTZVOVlvdjlRWmZ0TnluUzhnXzZieWFaeTNBSzNadUhB?oc=5",
-      "publishedAt": "2026-10-03T17:17:00+08:00"
-    },
-    {
-      "title": "Philippines voices concern over Myanmar airstrike deaths, injuries",
-      "source": "CNA",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYXdHd3REa0NpY3ZucUZvWEZMblBmQkRORnBzcFBHbjlrOURsMEVSenBDNHlqdmU3ZllSYXJpdXJkQWJXeUdfN3dtNEFVZmVMTDgzXzRwX0J3OVFLNW5sdFRhQnp0VnlWcktWdTlfZk5hSHlrMFVzeXRKT3V6a2lpX0gxTFh2Z25qRTV6RUFGNW1WQUdhdFNqRy1MTndLOHlSNEFfRG1IaXRkRWVsdjlv?oc=5",
-      "publishedAt": "2026-10-03T16:34:09+08:00"
-    },
-    {
-      "title": "Philippines voices concern over Myanmar air strike deaths, injuries",
-      "source": "The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVhEWlV2aXJ4bFZKQ0FNbktwMElsdW50SGFiVjM1Z0ZxMWZER0pQSnN6U2pIY2lUcGpTRzB2QUJwQnJ5cDJEeVZldlE2MTU5eVJxNFphOHZPNWZRVW5ZUFgtNl9DdG8xcjcyQnRQY3kxUDJtQW02RWo2UHJ6cmdXZ1R6V1BUem5UTXZid3A1V3lNZVJaMGRpLXpnOGxndFZmRWFFbU1Tb2RObHc?oc=5",
-      "publishedAt": "2026-10-03T15:13:00+08:00"
-    },
-    {
-      "title": "Malaysia sends 1,476 back to Myanmar as UN warns they face serious risks",
-      "source": "tamilguardian.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZzdWYmRxck1CZVloY1hfM0FRXzh1TTA2bUZEVnBqRTJMVWZvUVh3RmZKZzBhWDVCcGZnOVZxSk1JN0V1R1UxZkRyQTFBT2MxbnFqWmNtQTdYcE51SXZBcGJ4V244VW0xWGRCcUNBZktBSVBMM2VYTU9kaHB2X3NNdTZjUUludlVLdlNLNWFHUDNGOWltVUtkQlZzT3VZbVQtd0p0a1BB?oc=5",
-      "publishedAt": "2026-10-03T12:37:49+08:00"
     }
   ]
 }

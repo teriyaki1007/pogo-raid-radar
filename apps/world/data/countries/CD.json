@@ -1,7 +1,7 @@
 {
   "iso2": "CD",
   "name": "DR Congo",
-  "updatedAt": "2026-10-04T05:09:05+08:00",
+  "updatedAt": "2026-10-04T11:05:31+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "Gor Mahia forward captains Uganda as Cranes stun DR Congo",
+      "source": "Mozzart Sport Kenya",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeUh3dk9LeHd0SlV5SGlIcjR4TFJBZzgwUV9PT0RmbTRaUXJ6SDVJX0UzTFlEZWF2Vnc4Nm5oQWxBY0NDMVRyaVRndGlBb2NIZ2R5OUZyY3JaZDlmRXhkSm5WbGc4aXh1TVBJYlg4QXpiX3E4Znk0djNib2FBa1BBLWdZUVJTVkRlcWJuNlRxTjBjaHdjT0ZfZG4yeTRhZXZyZlRsODdBMnJybVM3?oc=5",
+      "publishedAt": "2026-10-04T07:18:48+08:00"
+    },
+    {
+      "title": "More than 250 people enrolled in Ebola prevention trial in DR Congo — PBS NewsHour",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWUY3b3pLUmpDdXdFdVFHdDJRd0owb0dEcXotMHg4T08wVF9RckNUYmlmbUJhUmJRRDRxQkR3cm9OS0YtX1pzdmQ0U1ZBbGY5UGZ3X3p5T0pWVUhWbVVkdU92V2hxY3NVRHYxd3dxa2lYX2ZDMGxyLWZnaGhOZWRmNGV5ZGJlU1pJQzdnTmc3OGt0ZXRXb042NV9zMnlPOTctTlhwR3VQSG4zT2NPckhLVA?oc=5",
+      "publishedAt": "2026-10-04T05:08:39+08:00"
+    },
+    {
       "title": "China’s grip on DRC critical minerals tightens: 49 projects and counting",
       "source": "The Africa Report",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRDBWUWNJbFcxSkFmMkQyVHhNWGNiUjZIYlVoNEd0OVg0djJDdWp2Yi1Nald6bUVKQlRXcVlqUlRQVkJTYm5aNmpNYWlSelV3dXFQZnNMdWRxdVBKVklSOEd3VjBmekNCMk5YSWdjNlNSMXg5bjd6ZnB5SWRneWo4MXktd3dJdXlTS3BiREd4aURTUVhZSEY3c2lDbVZYSTRyaXZoX3hLcU5oSTJ0SEVR?oc=5",
       "publishedAt": "2026-10-04T01:58:34+08:00"
-    },
-    {
-      "title": "Gor Mahia forward captains Uganda as Cranes stun DR Congo",
-      "source": "Mozzart Sport Kenya",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeUh3dk9LeHd0SlV5SGlIcjR4TFJBZzgwUV9PT0RmbTRaUXJ6SDVJX0UzTFlEZWF2Vnc4Nm5oQWxBY0NDMVRyaVRndGlBb2NIZ2R5OUZyY3JaZDlmRXhkSm5WbGc4aXh1TVBJYlg4QXpiX3E4Znk0djNib2FBa1BBLWdZUVJTVkRlcWJuNlRxTjBjaHdjT0ZfZG4yeTRhZXZyZlRsODdBMnJybVM3?oc=5",
-      "publishedAt": "2026-10-04T01:35:24+08:00"
     },
     {
       "title": "FDLR continues killings, forced disappearances in eastern DR Congo, UN says| The New Times",
@@ -61,21 +67,15 @@
     },
     {
       "title": "DR Congo Begins Trial of Drug to Prevent Ebola",
-      "source": "Voice of Nigeria",
+      "source": "von.gov.ng",
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QTEVEak4wVURCZl8yUDZkdTdCWElLWFd6QzJPQmFieUthbkZLS2c3T1c0dWh0R1lMQ1Z4WW8yS2NDbEw4YmZPMU9DbFFpWWFtTjB2MG1NakRha1VfYzFTWVVzZnJfcF95WU1RakhQV1JIVzAw?oc=5",
       "publishedAt": "2026-10-03T20:07:11+08:00"
     },
     {
       "title": "Drug trial seeks to halt DR Congo’s deadliest Ebola outbreak",
-      "source": "Irish Examiner",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xWG5VYXRuT01jQVV5VjVmRmNkS0lvQWF4UHFJYnRfVmhoY0xvc29DajNOZERjbENFTGZKSlJLYnZqaWQ0SGhxM0JLdEgxY0ZYU01YbW1oakZQZTBGSjBkY1k2UGY?oc=5",
+      "source": "BreakingNews.ie",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeXB5aUpnVnNobEFGWXBVNzdCVjYzM3BjWTdVWE9ZYmFaRl9SbW11a3JpUk1LT0lCVG9uZTZFWUo3UzB5ck5BNkQ2cHBNTnMtVzdNXzl1LU93LTZialhsS1Z4Vlc5ZGJ4Mmo0NUpOQjEtX2czdGxRY1l0MHlXRDRjeGpyb0dHQ0gwal9wZVAwaWhXR0NsWW5RNUVuVmlrcmMweV9rek5RTWFkQQ?oc=5",
       "publishedAt": "2026-10-03T18:13:00+08:00"
-    },
-    {
-      "title": "DR Congo records 8,300 confirmed Ebola cases, over 4,000 deaths",
-      "source": "bastillepost.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeXI0dy0tMmlSMWZsTG5xSnRzV2JMcmk3VERuSGtrTmhPeE9PUnpyWTQ1NmxyOGJkQmZBNTF5cmVFNXhCQjZ0c0NjOEJOblJ2WDN3bFN6QjFiQW8wNlRTOFNncXhzeU5zMHhyYXNMUjFjREJVcW96c3RIZVprbGZzQVp4RGhSX3Z0aF9MSy1MZWF3elROckpmV2Y0WjQxRjUxZkxUaGlqN0Z3ZV9CbGVXMWlB?oc=5",
-      "publishedAt": "2026-10-03T13:46:00+08:00"
     }
   ]
 }
