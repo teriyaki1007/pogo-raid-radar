@@ -1,7 +1,7 @@
 {
   "iso2": "VA",
   "name": "Vatican City",
-  "updatedAt": "2026-10-04T23:02:35+08:00",
+  "updatedAt": "2026-10-05T05:10:40+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,10 +26,34 @@
   ],
   "headlines": [
     {
+      "title": "Could AI be conscious? Why Anthropic is turning to the Vatican",
+      "source": "The News International",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0ZVV0lBb1dsS3htZjdFM2ZleDFsZ0RkZnlUZVM0d0U2RDZMOUxtU1k5OTFjQ05LYUY1N1dQUWlOZGpvUUpNTXZ0TjFRbGFWRjB1aEpQa2ZwdERDWm02YjVQVGpvajhocUd6dUpoRzdMQ2JXb3BxT216UzMxV0ZGOHZnSzdnamREdUhST3Y0c0tGa3puYmVTNmVtYVI0czQzTWxLbkd30gGiAUFVX3lxTE91MWtjZ3pGbjdRZVlFTHhGZk5jMExxLW1rWFUxYUdFaVpVb01LRFlNLXNpVDMzN1dJamZiZGRLSE5HLXpidVVLYlBTM2pPbmlqWjR2cXk2WjZMOWFzRjlsazk3RUl4RHc5VVlSeVdQT1NkaXA4aEMtX0lsbEZLcUlOb3N4Nm1Xc0VCSkRJUzVLTmVpTDI5a3Z4VXFJMTJkUV9MQQ?oc=5",
+      "publishedAt": "2026-10-05T02:57:00+08:00"
+    },
+    {
+      "title": "Pope Leo XIV’s Historic France Visit Highlights Faith Revival and Europe’s Christian Roots",
+      "source": "EWTN Vatican",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaHg4eU9EY3hnV0tZTk9GbTF2cHJUYlRGWVNWTzV2enJ4TnE4bzNFMWVyOEpTanljNXd0OXhXY3duTjNJcnI3T2J5TDZ0dDhiSlpsMTl2eEVnSXYyRmdSTUtnNWxlTkVNdFFEMEdWXzAzRWRVT2hKQjliMXBLU3hZZmdpTnh5SDFidzYtVmlTaE1mZDNXTXQzdHZjbnRuZmtXQXV2NDN2c2RhWHdvUWJCY2xlLUVBSHk2OUNrUnNn?oc=5",
+      "publishedAt": "2026-10-05T02:31:26+08:00"
+    },
+    {
+      "title": "Build ‘a different kind of network,’ Vatican media chief urges PH Catholic communicators",
+      "source": "CBCPNews",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOckhXa1p6QjdVZ25mV29kSTIyQ2hGTHdNWWdpWE9wTHRCQTE2V2dtWkVuMnk1QlphT1BJNzZmS3lMbjJ3RjNZaklzY05hdUE0S1FyamxuYTJqTXR0TmhUcTVoR3J5RmtOODhtSmplTW9hdTZ5SmZSdXlFYWhTR3pMM0RkbDdqblV0RnNHbWpLUE5xcHBrZElDblFURXZkRmFMNGlZTHlEOUtQSU8wc0MxY2NYQ1Z4VDQ?oc=5",
+      "publishedAt": "2026-10-05T01:19:47+08:00"
+    },
+    {
+      "title": "Anthropic Has Been Aggressively Lobbying the Vatican to Consider AI Consciousness",
+      "source": "Futurism",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42Y3BtOVJxOWlqTGFfX0dCNmo1OFRHa1hNRDJrOGlCeDJsOXhrcm9FdWhpT0FrZk9zbmZHd3l0UUFsNW1qeEY5bVplRm1UenZsNkZ4R3dNSkFOdlMxR3gwRXBtLUhQeFdURURMWGNJT2lCY3dCbHVzMXRUdw?oc=5",
+      "publishedAt": "2026-10-05T01:02:00+08:00"
+    },
+    {
       "title": "Pope at Angelus: Saint Francis shows us how to build peace through fraternal love",
       "source": "Vatican News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWnA2N0MzSkpFYkhBeHBHTmItTTE1bGFhekk3Z3VObklSQ1J6VTV6S2xyTGtuaXZuc05zZGlPX0REUU5HMDhpZ2REM3FBT3VHYnRnUEJfRlh4NVRRRUxoWU14c21iUGRUVWdYNndRNTVQNEFtNGR2bk9paEJEM21aLXdwc1VqRlpUcndrUmQ4b1oyNUZiYXM1dnFwSWZfdHpteEE5NGlCYy0yeXVWX2pv?oc=5",
-      "publishedAt": "2026-10-04T21:13:35+08:00"
+      "publishedAt": "2026-10-05T00:26:08+08:00"
     },
     {
       "title": "Pope: May we pray for the intercession of the Virgin Mary for world peace",
@@ -39,39 +63,15 @@
     },
     {
       "title": "Vatican Pope",
-      "source": "goshennews.com",
+      "source": "Goshen News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVXZqOUF1TVNoa1lmaFUwTEFBTktxbFhoLTl5Wl9KZXl5ZjdlQkFKWXFiLWk2c1JuWFZ0cksyNzJPYjQzMi1BNWdmR0NXNmJfRmUxdXdRaWgyQzVwRnR6cXk2aW83Rjh0TnVObkY4R0ZPdVlWVkt6QUdvSTlNOWN1WURVbktCV0xzcUVrMUdsZFBLM1plOEZyY1I1TjFhN2NZZV9QVGxmbGlKQQ?oc=5",
       "publishedAt": "2026-10-04T19:01:14+08:00"
-    },
-    {
-      "title": "Build ‘a different kind of network,’ Vatican media chief urges PH Catholic communicators",
-      "source": "CBCPNews",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOckhXa1p6QjdVZ25mV29kSTIyQ2hGTHdNWWdpWE9wTHRCQTE2V2dtWkVuMnk1QlphT1BJNzZmS3lMbjJ3RjNZaklzY05hdUE0S1FyamxuYTJqTXR0TmhUcTVoR3J5RmtOODhtSmplTW9hdTZ5SmZSdXlFYWhTR3pMM0RkbDdqblV0RnNHbWpLUE5xcHBrZElDblFURXZkRmFMNGlZTHlEOUtQSU8wc0MxY2NYQ1Z4VDQ?oc=5",
-      "publishedAt": "2026-10-04T17:19:59+08:00"
-    },
-    {
-      "title": "Pope Leo XIV’s Historic France Visit Highlights Faith Revival and Europe’s Christian Roots",
-      "source": "EWTN Vatican",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaHg4eU9EY3hnV0tZTk9GbTF2cHJUYlRGWVNWTzV2enJ4TnE4bzNFMWVyOEpTanljNXd0OXhXY3duTjNJcnI3T2J5TDZ0dDhiSlpsMTl2eEVnSXYyRmdSTUtnNWxlTkVNdFFEMEdWXzAzRWRVT2hKQjliMXBLU3hZZmdpTnh5SDFidzYtVmlTaE1mZDNXTXQzdHZjbnRuZmtXQXV2NDN2c2RhWHdvUWJCY2xlLUVBSHk2OUNrUnNn?oc=5",
-      "publishedAt": "2026-10-04T16:11:40+08:00"
     },
     {
       "title": "Anthropic’s Olah Clashed With Vatican Over AI Consciousness Before Encyclical Launch",
       "source": "forkast.news",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQjd5VVBVYmJpLWNEQkh2ZlZGZnpzaHhlTWlNVVFTN005UFBrd3NKRUM4VXk5SmdQajBwTjFaLTgyUDJKU1Q2TUZNb1hoVEJXcFhEMEpoOExkaDk2OWZ4RjJmT0NwT0I5Y0NRa0pjRHBkcEZHUGhka3g4M1BSNnJYQll4U044NGxFeTFzR2tOMmZPc1lYanBzUkZKT1ljS3Nob3luejlHOVI?oc=5",
       "publishedAt": "2026-10-04T13:47:00+08:00"
-    },
-    {
-      "title": "Vatican Observatory scholar says Earth may be rarer than once believed",
-      "source": "EWTN Great Britain",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX25IaDgxUGFUQ0hHaE9nSXlPcGJiaW9xQ01KT1Y2V016UDhQSzZhZGYyLWJHNVA1WXJoOFBlbzBsX3R1TFIzUEp6bVVwOXNqWlZwX2l1U3A3aDNVdllDbDQ1em8yZlJrczZkWEJmbElQYk5BT0Fia3Jod2dOXzhLbEFZUmFmOVhwVnFGUUljOUMtRk1mdlZEbnVUVTc5WUU?oc=5",
-      "publishedAt": "2026-10-04T06:23:41+08:00"
-    },
-    {
-      "title": "The Vatican opens an exhibition on preserving knowledge",
-      "source": "aleteia.org",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTkdNeWYxaXlyRE81QUI1aHA0Y3lZX0dYVGRzbXlVcHRNQjNNWmVEMGJPYjhNV29veDhjMENRSEZXQXBRZGxuQkNodzk4ZUpyMC1yUjR0SVJFSkxZb0xkZ04tQzVpUnR3VTJyckpBSVkyNXp4NERKbTdZV2RMN0xvSGN0TE1hVE44V0F4bHFZVzA?oc=5",
-      "publishedAt": "2026-10-04T06:15:58+08:00"
     }
   ]
 }
