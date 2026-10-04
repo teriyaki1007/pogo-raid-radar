@@ -1,7 +1,7 @@
 {
   "iso2": "RE",
   "name": "Réunion",
-  "updatedAt": "2026-10-04T11:05:31+08:00",
+  "updatedAt": "2026-10-04T17:06:06+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,12 +26,6 @@
   ],
   "headlines": [
     {
-      "title": "Africa Men's 7s: Kenya Morans sink Réunion to maintain perfect start in Mauritius",
-      "source": "Mozzart Sport Kenya",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV0VlYXpxSUdubXVvb0hyTTBMazV0aVFoUU5MZGQwUUlGVTJUT3gwQUtHOG5tTENxVzlHYk1VSVZTZUVpVlFXbl9qNjlNaWo3aHVNN1hTdmd3aTkzel9wZGxUMUFyTDc0OTF2VThsQkhQRmQ4WVFERlUyQWRHOGMyWlNSSzlVek1uNzlBYTZZTTlQRWFtQ2Y1bW5OemxudlUxNHd4alNncWNkbjdCdWlONEkyTWdJa200UVdZVHd6RjNnNzZKeFE?oc=5",
-      "publishedAt": "2026-10-03T18:17:32+08:00"
-    },
-    {
       "title": "Boluda Towage adds new tug to La Réunion fleet",
       "source": "Container News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOc2ZwQ0NXeGxXSFZJb0w4WDhXelFQbFVRYVZkWUdLczMyVGxrbjkzUEVuVzZnNTJxUF95SmxHRURzZTZ5TVFlNUZIa1B1LVlHZFFjOENDRGtEZmVXak96MlFkTnU3TUFyWFJfaEVXNHRrOVQ1c2VFVDlsakE5OW8?oc=5",
@@ -39,7 +33,7 @@
     },
     {
       "title": "Porsche Centre Réunion takes the new Cayenne Electric off the beaten track",
-      "source": "Porsche Newsroom",
+      "source": "newsroom.porsche.com",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONVp0QnBvVGVjNkFTZDJXOU9PbVBzMnpiS2w1Mm55SXE3VFA5N0xURHlEbGlXN051WHFqR1puMEpoSjZyTzdDc0NtV25Pdy00UGJZeWIyOG44Z0VnTWZtN2pvakk5cDRVdE1ONlFDbXJISVE3ZnZsVW40bmNCMnhaeW94RjN5SUdNNWRSMkVFZ1FTNDN4cnR5bkg0VlZTeU1tVG5F?oc=5",
       "publishedAt": "2026-09-30T19:54:42+08:00"
     },
@@ -51,7 +45,7 @@
     },
     {
       "title": "Chikungunya likely entered Réunion Island once then spread through human movement, study suggests",
-      "source": "Medical Xpress",
+      "source": "medicalxpress.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeHZaVUl3QUQ2Z0ZNNzYySUgtRllGbkVMQ0EyWVRlSmFONklpVk0zU2dlZjM4VlNBVzZuMjBqcVY0X0tZS01MZkUxd0FOSWtETFRCMUxRSy1OTmcwNWdzTHFCdVBOWmJFTDRUWG4yWF9CNHlFUDNLMkQ3bllmcm4xRFkyc25RWFFrXzhibw?oc=5",
       "publishedAt": "2026-09-26T01:00:05+08:00"
     },
@@ -72,6 +66,12 @@
       "source": "Flightradar24",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNXMzNVVxeUdwMEljVUl3OFJQS2R5clhxU0dqRXlLNGFaSjhDcktQc0k5ZlZPOUp0Z1M1ZEhEcE9XMU96VEN3WnpPMGZlVDB0UHU3aU9hTU1Idy0xeWR0azFvaW9yQzJNZENYX19CVFJIakJwVE5FRzB1SjNDM2pqT2ZUcnlWVmVDMzJhMVZNZTdWRVhkMFVrT1ZUeHJwRXBuRW1sc2xoWEEwSEJZZHJzeFNwV0xjNVNodjRuaFdZb01mSElDM0Jj?oc=5",
       "publishedAt": "2026-09-14T15:00:00+08:00"
+    },
+    {
+      "title": "République démocratique du Congo : Compte rendu de la réunion de coordination sur la réponse logistique à la Maladie à Virus Ebola LCT – Ituri, 10 septembre 2026",
+      "source": "ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNbmJIRUlSSENkd050aGktWDBPQ0dsdWpUbnhFNEU4cDI0aXJVdnZOWVJBc1dDYngxX3JzMlF5NF9mZjdpWG5PSDY4SDl1dmFHWGJlcTFTSGxsSnNOZW5sVm16WjFnT3ZMZFp6cGxyalpYemlfN3R3SW5HWUpVUzhGVmU2M3ptRHNaeC1xa1pjWWtvMGVnUTIxUGE5S3diMWxEU1JscGtaenZyczVPZE5oLTNVOVA2UFNjbDl4X1hpdGRuT052OERVcU0tY2wzeEFCZFdtTmdZLTJmajNlbVN4SlF1U0tBT1FqTjJHS1pNY0t4dGhqSnhZcFFLb2RMR3lubWgtcDllN196djZlUms0bEtGN3VuNWV1aHZ3N1o3cGNaa082RlNhQ1lfVmhHNExa?oc=5",
+      "publishedAt": "2026-09-10T15:00:00+08:00"
     }
   ]
 }
