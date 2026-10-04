@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-10-03",
-    "asOfLabel": "3 Oct 2026 ~6:30 AM HKT",
+    "asOf": "2026-10-04",
+    "asOfLabel": "4 Oct 2026 ~10:30 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE (Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local): Harvest Festival: Taken Over — Giovanni Shadow Zekrom (GO Pass Super Rocket Radar), new Shadows Wimpod / Fomantis / Sandygast, Frustration removable with Charged TM, balloons every 2h. Raids still Xerneas 5★ + Mega Victreebel (→ Tue 6 Oct 10:00 PM). Shadow 1★/3★ daily; Shadow 5★ Thundurus Incarnate LIVE this weekend Sat–Sun 3–4 Oct (package through ~6 Oct 8:00 PM). Applin Picking continues through Mon 5 Oct 8:00 PM. Seedot Spotlight (Thu 1 Oct) ended.",
-      "endsAtLabel": "Taken Over / Shadow Zekrom → Mon 5 Oct 8:00 PM · Applin Picking → Mon 5 Oct 8:00 PM · Xerneas / Mega Victreebel → Tue 6 Oct 10:00 PM · Shadow 5★ weekend LIVE Sat–Sun 3–4 Oct"
+      "text": "LIVE (Sun 4 Oct 12:00 AM – Sat 10 Oct 11:59 PM local): World Space Week 2026 — Astronaut Pikachu debut in 1★ raids + free Timed Research (shiny available). Also LIVE through Mon 5 Oct 8:00 PM: Harvest Festival: Taken Over — Giovanni Shadow Zekrom (GO Pass Super Rocket Radar), new Shadows Wimpod / Fomantis / Sandygast, Frustration removable with Charged TM, balloons every 2h. Applin Picking → Mon 5 Oct 8:00 PM. Raids: Xerneas 5★ + Mega Victreebel → Tue 6 Oct 10:00 PM. Shadow 1★/3★ daily; Shadow 5★ Thundurus Incarnate weekends only through ~6 Oct 8:00 PM (LIVE today Sun 4 Oct).",
+      "endsAtLabel": "Astronaut Pikachu / World Space Week → Sat 10 Oct 11:59 PM · Taken Over / Shadow Zekrom → Mon 5 Oct 8:00 PM · Applin Picking → Mon 5 Oct 8:00 PM · Xerneas / Mega Victreebel → Tue 6 Oct 10:00 PM · Shadow 5★ weekend LIVE Sun 4 Oct"
     },
     "legend": {
       "standard": {
@@ -474,7 +474,7 @@
       "category": "shadow",
       "isShadow": true,
       "isMega": false,
-      "window": "Weekends only through ~6 Oct 2026 — LIVE this weekend Sat–Sun 3–4 Oct (package ends Oct 6 ~8:00 PM local)",
+      "window": "Weekends only through ~6 Oct 2026 — LIVE today Sun 4 Oct (package through ~6 Oct 8:00 PM)",
       "windowStart": "2026-09-09T06:00:00",
       "windowEnd": "2026-10-06T20:00:00",
       "shiny": true,
@@ -530,243 +530,64 @@
       "countersSource": "guide"
     },
     {
-      "catchForm": null,
+      "id": "astronaut-pikachu",
+      "name": "Astronaut Pikachu",
+      "form": "Astronaut",
+      "species": "Pikachu",
+      "catchForm": "Astronaut",
+      "tier": "1",
+      "tierLabel": "1★",
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "30 Sep – 6 Oct 2026 (6:00 AM → 10:00 PM local)",
-      "windowStart": "2026-09-30T06:00:00",
-      "windowEnd": "2026-10-06T22:00:00",
-      "shinyRate": "not published",
+      "window": "World Space Week · 4 Oct 12:00 AM – 10 Oct 11:59 PM local",
+      "windowStart": "2026-10-04T00:00:00",
+      "windowEnd": "2026-10-10T23:59:00",
+      "shiny": true,
+      "shinyRate": "not published (costume debut; official: shiny available)",
       "hundoRate": "1/216",
       "ivFloor": "10/10/10",
-      "notes": null,
-      "id": "galarian-farfetchd",
-      "name": "Galarian Farfetch'd",
-      "form": "Galarian",
-      "species": "Farfetch'd",
-      "tier": "1",
-      "tierLabel": "1★",
-      "shiny": true,
-      "cpL20": 956,
-      "cpL25": 1196,
+      "cpL20": 536,
+      "cpL25": 670,
       "weather": [
-        "Cloudy"
+        "Rainy"
       ],
       "sprite": {
-        "pokeapiId": 83,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10166.png",
-        "form": "galar"
+        "pokeapiId": 25,
+        "url": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm25.fGLASS_HELMET_2026.icon.png",
+        "form": "astronaut"
       },
+      "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+      "notes": "Debut costume for World Space Week 2026 (ESA collab). Also from free Timed Research (claim by Mon 12 Oct 11:59 PM). Replaces prior 1★ pool (Galarian Farfetch’d / Galarian Zigzagoon / Combee / Honedge) while the event runs.",
       "types": [
-        "Fighting"
+        "Electric"
       ],
       "weakTo": [
-        "Flying",
-        "Psychic",
-        "Fairy"
+        "Ground"
       ],
       "counters": [
-        {
-          "name": "Mega Rayquaza",
-          "moves": "Air Slash / Dragon Ascent"
-        },
-        {
-          "name": "Shadow Mewtwo",
-          "moves": "Psycho Cut / Psystrike"
-        },
-        {
-          "name": "Mega Gardevoir",
-          "moves": "Charm / Dazzling Gleam"
-        },
-        {
-          "name": "Shadow Moltres",
-          "moves": "Wing Attack / Fly"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "catchForm": null,
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "30 Sep – 6 Oct 2026 (6:00 AM → 10:00 PM local)",
-      "windowStart": "2026-09-30T06:00:00",
-      "windowEnd": "2026-10-06T22:00:00",
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "notes": null,
-      "id": "galarian-zigzagoon",
-      "name": "Galarian Zigzagoon",
-      "form": "Galarian",
-      "species": "Zigzagoon",
-      "tier": "1",
-      "tierLabel": "1★",
-      "shiny": true,
-      "cpL20": 290,
-      "cpL25": 363,
-      "weather": [
-        "Fog",
-        "Partly Cloudy"
-      ],
-      "sprite": {
-        "pokeapiId": 263,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10174.png",
-        "form": "galar"
-      },
-      "types": [
-        "Dark",
-        "Normal"
-      ],
-      "weakTo": [
-        "Fighting 2×",
-        "Bug",
-        "Fairy"
-      ],
-      "counters": [
-        {
-          "name": "Mega Lucario",
-          "moves": "Force Palm / Aura Sphere"
-        },
-        {
-          "name": "Terrakion",
-          "moves": "Double Kick / Sacred Sword"
-        },
-        {
-          "name": "Shadow Conkeldurr",
-          "moves": "Counter / Dynamic Punch"
-        },
-        {
-          "name": "Mega Gardevoir",
-          "moves": "Charm / Dazzling Gleam"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "catchForm": null,
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "30 Sep – 6 Oct 2026 (6:00 AM → 10:00 PM local)",
-      "windowStart": "2026-09-30T06:00:00",
-      "windowEnd": "2026-10-06T22:00:00",
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "notes": null,
-      "id": "combee",
-      "name": "Combee",
-      "form": null,
-      "species": "Combee",
-      "tier": "1",
-      "tierLabel": "1★",
-      "shiny": true,
-      "cpL20": 282,
-      "cpL25": 353,
-      "weather": [
-        "Rainy",
-        "Windy"
-      ],
-      "sprite": {
-        "pokeapiId": 415,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/415.png"
-      },
-      "types": [
-        "Bug",
-        "Flying"
-      ],
-      "weakTo": [
-        "Rock 2×",
-        "Fire",
-        "Flying",
-        "Electric",
-        "Ice"
-      ],
-      "counters": [
-        {
-          "name": "Mega Diancie",
-          "moves": "Rock Throw / Rock Slide"
-        },
-        {
-          "name": "Shadow Rhyperior",
-          "moves": "Smack Down / Rock Wrecker"
-        },
-        {
-          "name": "Mega Tyranitar",
-          "moves": "Smack Down / Stone Edge"
-        },
-        {
-          "name": "Rampardos",
-          "moves": "Smack Down / Rock Slide"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "catchForm": null,
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "30 Sep – 6 Oct 2026 (6:00 AM → 10:00 PM local)",
-      "windowStart": "2026-09-30T06:00:00",
-      "windowEnd": "2026-10-06T22:00:00",
-      "shinyRate": "not available (GO Hub)",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "notes": "Shiny not available per GO Hub Honedge raid guide.",
-      "id": "honedge",
-      "name": "Honedge",
-      "form": null,
-      "species": "Honedge",
-      "tier": "1",
-      "tierLabel": "1★",
-      "shiny": true,
-      "cpL20": 794,
-      "cpL25": 993,
-      "weather": [
-        "Snow",
-        "Fog"
-      ],
-      "sprite": {
-        "pokeapiId": 679,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png"
-      },
-      "types": [
-        "Steel",
-        "Ghost"
-      ],
-      "weakTo": [
-        "Fire",
-        "Ground",
-        "Ghost",
-        "Dark"
-      ],
-      "counters": [
-        {
-          "name": "Mega Blaziken",
-          "moves": "Fire Spin / Blast Burn"
-        },
-        {
-          "name": "Mega Gengar",
-          "moves": "Lick / Shadow Ball"
-        },
-        {
-          "name": "Dawn Wings Necrozma",
-          "moves": "Shadow Claw / Moongeist Beam"
-        },
         {
           "name": "Primal Groudon",
           "moves": "Mud Shot / Precipice Blades"
         },
         {
-          "name": "Mega Charizard Y",
-          "moves": "Fire Spin / Blast Burn"
+          "name": "Therian Landorus",
+          "moves": "Mud Shot / Sandsear Storm"
+        },
+        {
+          "name": "Excadrill",
+          "moves": "Mud-Slap / Scorching Sands"
+        },
+        {
+          "name": "Shadow Rhyperior",
+          "moves": "Mud-Slap / Earthquake"
+        },
+        {
+          "name": "Groudon",
+          "moves": "Mud Shot / Precipice Blades"
         }
       ],
-      "countersSource": "guide"
+      "countersSource": "type"
     },
     {
       "catchForm": null,
