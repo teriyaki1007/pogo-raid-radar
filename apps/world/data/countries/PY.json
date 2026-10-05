@@ -1,7 +1,7 @@
 {
   "iso2": "PY",
   "name": "Paraguay",
-  "updatedAt": "2026-10-05T05:10:40+08:00",
+  "updatedAt": "2026-10-05T11:11:30+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Power Grid Partially Restored in Paraguay’s Capital After a Heavy Storm",
+      "source": "teleSUR English",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTUJPQ0owUWl5TjVpenZuMDktY081cEpIZm1PRXROdHhKOXNGU3BPMEVEVnU2QUhhTlZBTkxWUEptRXFGWFZPV1RmX2NjUHkzd0c0R0J4d1QxcU5NcndHTmhDWC0zY0VJaDZLOFJYYnkzcmJ5b0xMZjJTX3BqS0pTX3A5MFcyeDlLTFI2NFgtUlF0eGhveFFTOW10NVpJM08tdjN3Yg?oc=5",
+      "publishedAt": "2026-10-05T08:37:39+08:00"
+    },
+    {
+      "title": "FILE PHOTO: Soledad Nunez, Paraguay's opposition vice presidential candidate talks to Reuters in Asuncion",
+      "source": "The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOOFBha1p2ekdQbTFkQ0lGZFRBaEhXejhaN0tZR2l1MFlxQTBjUkpYQzVuWVc4RTZRVUhKZmJsM2phZDc4dlRHaXlmUHk4enhvOXRHX2dERkdwYk1OTkEtRGVzWXQ0WjliMFQzSUthRFhzNUhlMVNobklEX003Q0E4LXRGMEtkZ2dLdlotOHhNTHhsRjgtVFRFR25sak5VektKd1p5QXpXM0cxZTRRYVA3WUdSdmhYNnVpQmd1cFZSSzNUV1JLSUtGU25OWnE4bVVEUEJPODlnYmVjQXFmNFg1SF9jX2Vrc3BMQ2N5NWtDMURvN1c2Tk9GV2RockhZYnd5Q0k0a1FNZTZac3FnR2MwTXQ0bGVYNVFaV1BraTd6SDliWC1fd2Vn?oc=5",
+      "publishedAt": "2026-10-05T08:32:54+08:00"
+    },
+    {
+      "title": "Paraguay opposition candidate wins Asuncion mayor’s race in gauge of 2028 vote",
+      "source": "Internazionale",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNN2htR211ZWsyY29QdTlVSG1ZV21hRElOZDhQR215cnlaSklNQUE0LTB2SF9zaExOVW52MG9Dc1RRc09uNUtVZ0hiaDBNalI4R04tQjNwdUxPOWpyVkYxdkw0ei1zTGlqdFFiczBNWXNaOUh3elJGRUJpSDhxdUVGVmRMVnlQREduekVwUU9nNWM3Y1FobFl1TDFfVkcwcHZZQWdBVEQyZlFWVUp4YzRFdzlWT1B4c2NiVndmYV9YeHNUeTZrWExneHRzVkVfR1hXaUxVVXdDRHp0QQ?oc=5",
+      "publishedAt": "2026-10-05T08:32:54+08:00"
+    },
+    {
       "title": "Widespread damage after huge hailstones pound Paraguay capital",
       "source": "Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOWIwbzFwODBVclNKR2twTTY3U2lhUlRIVXVabzd6bWlobEdUT3daOXByNkNXV29IU0lLdTlCenVON01HbHNDcXlPc09xV0xueTZ2NlRIaHY0bEotRngxb3dIcHRtenFHQWF3anRMX01SYldYd0pVdUVJam5kbG1ibmpUQndhcG1TY2FjTnZWbzBRSVQtMUMzUzZhRmhmRVlnUzloWEw1T1dSMUg5QVQtM0FSc9IBuAFBVV95cUxQWTFRX2gwMk5IZl9QTlVFU1VaRmZIV3Y3VjNjZk1La1lNTUZoOVlPVUtBSUV2c2NYa0hQemUwdldtdmxoQmMzMTZwUGNvclBQQlFCRDB3Ynd3MUZTbGFRV1VPUVBKS194Tmc0ME9TZ3pGdGlCSFA4akVwSGE3TjV6cVV2VjFSR3ZPTFpHRHVVOS10UXZid01DTnpqTUgyNDhjRDJzX0Mya2FKSlZ3QVhHN0dDNHBGeXQ1?oc=5",
-      "publishedAt": "2026-10-05T03:19:50+08:00"
+      "publishedAt": "2026-10-05T05:44:27+08:00"
     },
     {
       "title": "Paraguay World Skate Championship",
       "source": "Idaho State Journal",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWdhRHZ2b2VJNGdhQzRCX2xKbld2LVhQQTRQbDRLZVNuVkpNRXZNb01LWVdha04zUzF1TzlmUFdVUHNUd3hVcGh5WW83cDloWEpSZ1FQaTRoS0dTbGVxZ0c4YnRtb0poUkJTSDY0aWJ1LWZGbHNTbEVMVlU2WTh4cWdjNENhbWF1LUhqRi1aRDgwTEJFMHprTlFuWkJ6WGdwd0hwbE1TekR3WjN1WHJ3Q1l2a01TdFVBc0NPLWtRQ1ZJUkFtUHl3UXdzTQ?oc=5",
-      "publishedAt": "2026-10-05T00:48:09+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeWZmY2IxZW9scUMwUlU1dW9RV01ZUnNhZnJQY0tGOVN4UW1wZmdRYVV5d1FRWkhDUDFnNkMxQmdvQ2x2NF9qYk54Yzl0ZGdxTjczcHRMYXJMTmloSTlwMzRuWWlub2lWTWM3aHI1ZVZjSGVYTE55STFvZFJWSFVYc0FfcDFvSUt6aE8xWVlfbGhWa29QVHZYbk8ybmsyZVRYaFJOLVhPeVQ1cUhfNDJCZ1Z5VkQ3MzdwZlpnbmF6b1IxZ21DN3FrMlQwWQ?oc=5",
+      "publishedAt": "2026-10-05T00:47:09+08:00"
     },
     {
       "title": "7th Latin American Folklore Gathering Brings Artists From 13 Countries To Paraguay",
@@ -58,24 +76,6 @@
       "source": "ColombiaOne.com",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82T0t4bVhwZV9ZZHhxcl9YcENySmEtazdlWWswU3l2VjNCNXFObktxaDRaTWZ3VHk4UWVTZFQxcmRtNTQxcDg3Mi04YkdhaVNnTWJTYUpQZGFIMW1tY3VEN1RZNA?oc=5",
       "publishedAt": "2026-10-03T20:43:11+08:00"
-    },
-    {
-      "title": "Colombia 0-1 Paraguay: Junior Alonso shines in Harrison friendly",
-      "source": "Sofascore",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRENRWkJ0R0dicTBGZUZLb2FjX19rYU1DMmI3cFg4ckxhSEQxZVlzamIzSk53UTdKcllOSngxaHJsbS1rQTNST21kVWRwTHhKOXBfc0dabFhLZ0FXWFZrZmxOMWRocHVZa1B0endNVU1ET2kzNXBScjJubG53VkVXRFFNM0dtbGJVWE5raDlSUWpSYW8tRHpmQUx3?oc=5",
-      "publishedAt": "2026-10-03T10:42:27+08:00"
-    },
-    {
-      "title": "Colombia vs Paraguay Predictions, Picks & Odds – 03/10/2026",
-      "source": "ToffeeWeb",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2R3OHpqbndMOUhvNzZiYlctOFVrTGw2MnVJc1BuVm9UYUVaaVNmOC1Cb1UtQ1pYRFNZWjhvVHJmd3Byd2gzbDFaaktEdGFKazRwV1FfQ3JKaEFiYi1xdlVrTmNOaVp1QWpIZFFLWC0zbzlfNTFkdWR4bzdqakNjT0RPY053b3NL?oc=5",
-      "publishedAt": "2026-10-03T07:52:21+08:00"
-    },
-    {
-      "title": "Colombia vs Paraguay: Where to Watch, Live Stream, TV Channel & Kick-Off Time | Goal.com US",
-      "source": "Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbmVQbXdlUldtbDdLSHVBN1FfWG45THNHcDRaS2R3Z1k4b25PRUd3a2NsSlZxRkNrSlFzNXphVWdqWXhxWFR5VGNudnhHcHBib3g3T0tnZERzQmpZQmd6NmttYlJHM2l1eFdmM1pKd0NYbkNKV25HYU5qaE1sM2E3NjVZVlJuLWVrQ2NMajNwZmw0Q3ZVNW5FeWo2bm1BOG12X1hjRkNWOUtiazg?oc=5",
-      "publishedAt": "2026-10-03T06:40:33+08:00"
     }
   ]
 }
