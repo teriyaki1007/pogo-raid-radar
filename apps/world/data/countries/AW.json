@@ -1,7 +1,7 @@
 {
   "iso2": "AW",
   "name": "Aruba",
-  "updatedAt": "2026-10-05T11:11:30+08:00",
+  "updatedAt": "2026-10-05T17:06:26+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -31,7 +31,7 @@
   "headlines": [
     {
       "title": "Aruba vs Anguilla: Concacaf Nations League stats & head-to-head",
-      "source": "bbc.co.uk",
+      "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aSC1ybEhnYWVjRklIclNFUVVPNkxHSWVXRzNnYVRtbHlBOWViN2psRUtVcklkTFBFT2s4eGZZUEdxa0VUMVh0OWJLWmpxMHZtVi03X25URk1rcjM4dXZHaFJNTzI3dw?oc=5",
       "publishedAt": "2026-10-05T10:45:10+08:00"
     },
@@ -40,6 +40,12 @@
       "source": "Concacaf | Official Website",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZVNrQkxBZmtPd3hlN2ZsTkNSdXFVVVExb0V4VFVqTTdSbFRGSU5DclNXWHgwZFVaOUFLN1VJVW9xVkZ1V3FXX1JiZl9QdjlwbjdvV19ReFpQMWVMVmJFLUg2Q1FtaENBaElkS0wzMHpSS0VzOWVSR3BmVDdvdE0xSE1sUXV3bVh5cU16MldzQ3J5UQ?oc=5",
       "publishedAt": "2026-10-05T10:25:00+08:00"
+    },
+    {
+      "title": "Aruba 3-2 Anguilla (Oct 4, 2026) Player Stats",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yTm00Um9HbXpVR3pYRHhqWXdUYVVFTC1Gakc0OE41UUpMVXBKZlVpR1JEQm1mRldGRko1Zl82eVUyeU5aaWF5cEtjY0JycVQ4MTNMLU5YNjdIdTF6VUl5SUREWmFRVUdCbDlF?oc=5",
+      "publishedAt": "2026-10-05T10:03:09+08:00"
     },
     {
       "title": "Arthur Dowers: Experience, Renewal, and a Firm Commitment to Aruba",
@@ -54,10 +60,10 @@
       "publishedAt": "2026-10-05T08:35:00+08:00"
     },
     {
-      "title": "Aruba Dolphins Open Water 2026: A morning of sports, competition, and inclusion",
+      "title": "MP Eduard Pieters (PPA): “Today we rebuild the Patriotic Center; tomorrow we rebuild the nation of Aruba.” PPA restores its center in San Nicolas and opens its doors to everyone willing to contribute to Aruba’s future",
       "source": "EA News Aruba",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNkZZVGNmcTRNallHbEJ0TUFiNWwyWmlDMkpGdWdoRGkxSlRfZUJXSG5HaTJOLVRoMUloaGdfVDBGZGp1M0FnWmtEckVXNUxQM1JEdHJ3c0FhYUpyX1lxNFNZM0xMRVh0dE4xX1hBYnhiLWxrMkdYRkdZTFB3cEdpMGRoYXJuSEhQTHBpMUVXTWFfekk0dlJURk9QM2pwbVBqaXc?oc=5",
-      "publishedAt": "2026-10-04T20:08:18+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNSXBZeVQwOXpvR2dPQ1BPRkh3LXFtV2VEclFndTFGYl8yWFUtSkdpX1NXWXlrSWNOX2c0cmpMZl82U0hzQ3hlaVo4VDV0LUZvTTZHNmZzbVdMOVhGZWUyUWc0b3NrTEV2SjR3TFdKX0RHbXREWEhJbzN2VEY0MWhJc1Eyc1hvNkxhb3E4OFZlWklpODZoNXEtVGN1STlkMWxSYkVmMHNrc3dkLW55WmZ2NHI3YWVkcXVlZWh6SEQwN2xJeHMwYnJUd0g3dlgzNWVaNVVocER0RE01R0FSbEdBamZZSnVmUGtGSWFYbTFvdHVyN1FHdDlONkNNdnJCaFpGQk9xM1NZbWJ5OFFNX01Bc1VpcDNobWRiekRyeVc0dHZYQUZQXzJISg?oc=5",
+      "publishedAt": "2026-10-05T06:41:31+08:00"
     },
     {
       "title": "Aruba Has an Overwater Bungalow Resort — and It’s Hidden on the Island’s Quieter Coast",
@@ -66,16 +72,10 @@
       "publishedAt": "2026-10-03T05:42:26+08:00"
     },
     {
-      "title": "Lenovo Technology Powers Aruba.it Racing – Ducati to Historic 2026 WorldSBK Triple Crown",
-      "source": "Lenovo StoryHub",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQk5nSFJMTmZZTkQ3MjFPR0pLLUhqTmp0bTV4b2JCQ2MyZVBJci1ESEZZazZEelUwNng1dE5xUE1sZ0d4amFfcUJFUks0WnRnZDV1OGphcFI5TFM4azBVS0xibExmSzJMSDVwRzR6dGhBTEg2TlN1WnpiTVdEYlYySFFDbUFzRFIyWS1KWWw2bkRadlBOellDbFVjY3RtN19pT1ZVNmhwbm55SWV5QkRCVWJ0NVBCRnJoYnBfOW1VSWpsQkxu?oc=5",
-      "publishedAt": "2026-10-01T04:37:59+08:00"
-    },
-    {
-      "title": "Aruba Art Fair 2026 recap | Aruba.com",
-      "source": "aruba.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOejB2REhGS3VYb0F3eUdUb3ZqTHJzY3pod2lOLWdlZDNxdTF0R0gtZEx5emNyMFA5eDBrbUF6ZUF4U3c1T3NGT2xrVHExaTVFQ2otLUgxOHpfSkZheUgxZG90S01nd0ltdl81Zy1QWWdCTGNaNlhWaWo1VVV1eFVRVEtGZHpwSzZteGhiYTZla2x3XzBTQ1E?oc=5",
-      "publishedAt": "2026-09-30T16:07:48+08:00"
+      "title": "Aruba vs. Anguilla (Oct 4, 2026) Live Score",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nZWFEMGgwRW9KZ3A1ZGhlM3d0YnY1VDlidFZ3eFhpOXNPcWg1UGhqdG1tbWFNNDJPSkNiRFBqWmNyUmp0NEN6T2pDRDg0T1VDQTFveGRqVHloZkxaUnRiWGhR?oc=5",
+      "publishedAt": "2026-10-01T13:20:16+08:00"
     }
   ]
 }
