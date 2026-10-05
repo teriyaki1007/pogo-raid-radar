@@ -1,8 +1,8 @@
 {
   "meta": {
-    "asOf": "2026-10-04",
-    "asOfLabel": "4 Oct 2026 ~10:30 PM HKT",
-    "lineupsUpdated": "2026-10-04 evening (~10:30 PM HKT): Re-checked Leek Duck rocket-lineups HTML (Updated Oct 2, 2026) via page scrape + prior ScrapedDuck/GO Hub tables. No lineup changes vs 3 Oct evening file. Confirmed: Water♂ Magikarp+Feebas; Fomantis (Grass), Wimpod (Bug), Sandygast (Ghost); Leaders Cliff Cubone / Sierra Pancham / Arlo Alolan Grimer; Giovanni Shadow Zekrom still LIVE through Mon 5 Oct 8:00 PM.",
+    "asOf": "2026-10-05",
+    "asOfLabel": "5 Oct 2026 ~10:40 PM HKT",
+    "lineupsUpdated": "2026-10-05 evening (~10:40 PM HKT): Harvest Festival: Taken Over ended Mon 5 Oct 8:00 PM local. Leek Duck rocket-lineups still dated Oct 2, 2026 and ScrapedDuck matches the existing file — grunt/leader lineups unchanged for now (Leaders Cliff Cubone / Sierra Pancham / Arlo Alolan Grimer). Giovanni Shadow Zekrom encounter window closed.",
     "sources": [
       {
         "name": "Leek Duck Rocket Lineups (Updated Oct 2, 2026)",
@@ -45,8 +45,8 @@
   },
   "notes": [
     "Defeat 6 Grunts for Mysterious Components → Rocket Radar → Leaders (Arlo / Cliff / Sierra).",
-    "Super Rocket Radar (GO Pass: Harvest Festival) required for Giovanni at PokéStops (not balloons).",
-    "LIVE: Harvest Festival: Taken Over (Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local) — rescue Shadow Zekrom from Giovanni; new Grunt Shadows Wimpod / Fomantis / Sandygast; Frustration removable with Charged TM."
+    "Giovanni is not currently active — the Taken Over Super Rocket Radar window ended Mon 5 Oct 8:00 PM local.",
+    "ENDED Mon 5 Oct 8:00 PM local: Harvest Festival: Taken Over (Shadow Zekrom from Giovanni). Lineups may shift once Leek Duck posts a post-event update."
   ],
   "grunts": [
     {
@@ -3008,8 +3008,8 @@
   "giovanni": {
     "name": "Giovanni",
     "quote": "I will not tolerate your interference.",
-    "active": true,
-    "activeNote": "LIVE during Harvest Festival: Taken Over (Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local). Requires Super Rocket Radar from GO Pass: Harvest Festival; appears at PokéStops only (not balloons).",
+    "active": false,
+    "activeNote": "Ended Mon 5 Oct 8:00 PM local (Harvest Festival: Taken Over). Was accessed via the GO Pass Super Rocket Radar; lineup shown is the Taken Over Shadow Zekrom team until a new Giovanni window is announced.",
     "lineups": [
       [
         {

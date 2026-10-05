@@ -1,7 +1,7 @@
 {
   "meta": {
-    "asOf": "2026-10-04",
-    "asOfLabel": "4 Oct 2026 ~10:30 PM HKT",
+    "asOf": "2026-10-05",
+    "asOfLabel": "5 Oct 2026 ~10:40 PM HKT",
     "season": "Twilight Trails",
     "seasonWindow": "Tue 8 Sep 2026 10:00 AM – Tue 1 Dec 2026 10:00 AM local",
     "sources": [
@@ -24,7 +24,7 @@
       "Shiny flags: true only when charts mark shiny available; null = not confirmed in the sources used.",
       "Egg contents are fixed at pickup; event eggs can temporarily override seasonal pools.",
       "Some community charts still mark 5 km / Adventure Sync lists as incomplete — Leek Duck list used as primary.",
-      "Shiny Shroodle debut LIVE during Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct 2026) from 12 km Strange Eggs (Leek Duck / event). Seasonal ScrapedDuck chart still marks Shroodle non-shiny — keep True while Taken Over is live.",
+      "Shiny Shroodle debut LIVE during Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct 2026) from 12 km Strange Eggs (Leek Duck / event). Seasonal ScrapedDuck chart still marks Shroodle non-shiny — shiny was released during Taken Over; kept True pending a Leek Duck chart update.",
       "Shiny flags re-synced to Leek Duck eggs chart (14 Sep 2026) + ScrapedDuck: Larvesta (2/5/10 km), Tadbulb (2 km), Varoom (12 km) marked shiny; Sobble not shiny on chart.",
       "4 Oct ~10:30 PM HKT refresh: egg distance pools still match Leek Duck (14 Sep 2026) + ScrapedDuck; no pool species changes. World Space Week does not alter egg pools."
     ]
@@ -922,5 +922,5 @@
     }
   ],
   "eventEggs": [],
-  "eventEggsNote": "No limited-time event egg distance overrides active beyond Twilight Trails seasonal pools (Leek Duck eggs chart still dated 14 Sep 2026). Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct 2026) is LIVE for Rocket / Strange Egg context; Shiny Shroodle debut from 12 km Strange Eggs."
+  "eventEggsNote": "No limited-time event egg distance overrides active beyond Twilight Trails seasonal pools (Leek Duck eggs chart still dated 14 Sep 2026). Harvest Festival: Taken Over ended Mon 5 Oct 8:00 PM local. Sandile Hatch Day is scheduled Sat 17 Oct 11:00 AM – 5:00 PM local (details pending on Leek Duck)."
 }
