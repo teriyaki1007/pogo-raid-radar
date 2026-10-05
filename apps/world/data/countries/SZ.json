@@ -1,7 +1,7 @@
 {
   "iso2": "SZ",
   "name": "Eswatini",
-  "updatedAt": "2026-10-05T17:06:26+08:00",
+  "updatedAt": "2026-10-05T23:07:21+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,20 +30,26 @@
   ],
   "headlines": [
     {
+      "title": "New Eswatini envoy pledges support for Taiwan's int'l participation",
+      "source": "Focus Taiwan - CNA English News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9obGY1TjhvY0pkS3h5MWxoRTZSTzBCQl85U05ZRlktWTNXYzNsaE16ZWNDVHJHY3I2RGJGdVdIRzhGZXZLd01uaHBqVExkVDdUR2JXTU5iOA?oc=5",
+      "publishedAt": "2026-10-05T20:17:00+08:00"
+    },
+    {
+      "title": "MTN Eswatini Partners With Lubane SACCO to Expand Access to Devices",
+      "source": "TechAfrica News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONU9ENE5jbkc4Rm1USF9EajNCZThOWVNVLU5qYkFMQzZsVWFRbW40Smh0OGRxYXpOd3AxWGZiR01aMlU4LTE4emw0X0ppdEZvcjlFTzV6aWZ6ZVM4MmRRRFJ5VDFMN0NVQlg3X0laM2c1MEIzOE9QN3RDNEFlTTlzbHkxRFVEckI4S0JpZUdGUWVzd1otR3hkWUxTSVQtMVBxOXNnRTcya3N4Zw?oc=5",
+      "publishedAt": "2026-10-05T18:47:59+08:00"
+    },
+    {
       "title": "Lao man deported by the US to Eswatini is released after more than a year in prison",
       "source": "livingstonenterprise.net",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX2txeG05VmFvaWRMRk9TM1hLTVZieU9ZN0FxYlRtVV8tN2RpWGUzczVEcktnMXY1SzhuLUFSRzUzX2ZldlVyVkxla2ViTjVjS2ozVDd0NXF4OUVBaHhtcG5YS0JCVU9Nano4WllqU3JNcHZPSWJIdFJFOURlTEdGOGpaU3pPYkhDY2E1T1l2MlplTThsdEJ6bUhwaGRGbVVrM01xSDJGclZyWVJsbU9BSVpGYkFlaVVQOU9tTklEakJCSmxmSXBlOHR6NjdLaFE?oc=5",
       "publishedAt": "2026-10-05T16:44:07+08:00"
     },
     {
-      "title": "MTN Eswatini Partners With Lubane SACCO to Expand Access to Devices",
-      "source": "TechAfrica News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONU9ENE5jbkc4Rm1USF9EajNCZThOWVNVLU5qYkFMQzZsVWFRbW40Smh0OGRxYXpOd3AxWGZiR01aMlU4LTE4emw0X0ppdEZvcjlFTzV6aWZ6ZVM4MmRRRFJ5VDFMN0NVQlg3X0laM2c1MEIzOE9QN3RDNEFlTTlzbHkxRFVEckI4S0JpZUdGUWVzd1otR3hkWUxTSVQtMVBxOXNnRTcya3N4Zw?oc=5",
-      "publishedAt": "2026-10-05T16:02:59+08:00"
-    },
-    {
       "title": "Trump deportee leaves African prison after 14 months under Eswatini’s $5.1 million migration deal",
-      "source": "Business Insider Africa",
+      "source": "africa.businessinsider.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZllxUjBBMWVqSkdQcWFiR1RfN1ppbDcycy1RTU5qYzVTTXFuWEZEcElXenQ2Z25WQ0JMVTBsUWxUWC1jMzM4eFRKNVVJRWRQeURFMFpwS2lnMjJJb3hFVmIxVUdZeFItcjdnOFBnYW1yVnV5NklMYnFBbkxLUTZwR19yTlBxMFJFZ0ZHRUwtd28wZlJaZDF2NzdYbWYtNGlKaU9pWllINTZDM2JHZS03eUg4QUJLS18xbU1xTDV2S2lNeHNwb1FtUUZUWEUxS0tWTGl1dEhwZ2FVZw?oc=5",
       "publishedAt": "2026-10-05T15:06:44+08:00"
     },
@@ -55,27 +61,21 @@
     },
     {
       "title": "Laotian deportee freed in Eswatini after year under Trump third-country policy",
-      "source": "indiatoday.in",
+      "source": "India Today",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZExvRnlvVmpYYmQtZzlKalVPb0FKeGpqbG91c1Zob3FtRTRENGhJV0d0aW14RWVjdUh6X0tNdS14dGJsODlNazVManBYR01LcnV6emhhemNMVlcwUVZZOG5SbzlDdmRaWENnNDJONmdkTXhuaGdjeEdPdjZQQVBwS3NmdnhyTkRoUHplaVhwdUhHMlQ5blh0WVByUkZaY1lPdFJmdzBUUWFUa0p6UEFVeF93bTF1cWVLRmRRYmZ6ejB0SU9IS002MXdUbmdJUWQ2YldqVXBONjgwam1K0gHcAUFVX3lxTE9kTG9GeW9WalhiZC1nOUpqVU9vQUp4ampsb3VzVmhvcW1FNEQ0aElXR3RpbXhFZWN1SHpfS011LXh0Ymw4OU1rNUxqcFhHTUtydXp6aGF6Y0xWVzBRVlk4blJvOUN2ZFpYQ2c0Mk42Z2RNeG5oZ2N4R092NlBBUHBLc2Z2eHJORGhQemVpWHB1SEcyVDluWHRZUHJSRlpjWU90UmZ3MFRRYVRrSnpQQVV4X3dtMXVxZUtGZFFiZnp6MHRJT0hLTTYxd1RuZ0lRZDZiV2pVcE42ODBqbUo?oc=5",
       "publishedAt": "2026-10-05T11:44:50+08:00"
+    },
+    {
+      "title": "Foreign firms take 55% of Eswatini construction value",
+      "source": "times.co.sz",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeEREenhvX0QtdDlsRFpKNzZqcEdvVHliaVhrZEk4dW55U05DOFA1eTBETXhvR01FZE9JcUJJR05MYXJLM2JCMVVxQk1xZzRuNzNiZy0zeUhnaFpGdFFNdWx2T3VyUkRXQnZmR0VsaTNaU2hLSUVpNHlwNVUwdXg0SnlOWUJDcU1PYVE3VA?oc=5",
+      "publishedAt": "2026-10-05T10:36:33+08:00"
     },
     {
       "title": "Eswatini Deportee Released",
       "source": "Bedford Gazette",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObXBheGhuWi1wSGlVMWhnMmo4SktnNlcxWmhIN2FKTF83TkgyTFN1VzFXc3M1OE5DNlg2QWdYd0FxbEdxeE5CZWdBYWF1cUp4OGZwWjUxZm93T0hMVjdjNk0taUY2RjlxQUkyX3pBLTR2eHhNTDg5UTQwaTBEV3pBWnVOQl9fdHJBOVh2NGoxT1dTWlBINUtkczV0STZELXRrdDB4enBCTzJ3V2wxWHhYLWhfazBabXpn?oc=5",
       "publishedAt": "2026-10-05T02:28:51+08:00"
-    },
-    {
-      "title": "Apply for UNICEF Internship Opportunities in Africa 2026: PM&E Internship in Eswatini and 5 Communications Internships in Cameroon",
-      "source": "Global South Opportunities",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02SVR1d2dXY0JmOGRBb1BXeVBjQWJ0YldrN2VRdEtVU2ZpVkNyLWRjay1mUm5jX2YyeGFlMVVLQVByTUJ1bUxMZmZlY0ctYlRsSnE0cjRrUjBfdk56MHJXX2Z2WXNNaFVJN3VmTHdpYw?oc=5",
-      "publishedAt": "2026-10-01T14:48:04+08:00"
-    },
-    {
-      "title": "World Vision Eswatini’s collaboration on water Solutions Inspire Regional Learning",
-      "source": "World Vision International (WVI)",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSUprbW9ObGtPTEVaLVZQcmRiT0hiTE9XVGxaN0l1cjNTNDVPbjVwdUIzT3dIWUcxY3phTjJMRXlPMDllNC1fTzNjZVdDZjRuUGlGZU51SmtOYjhsWXhMVlZRNzJsWGF2WW5YOHNoWXNUVVZEQ01vcUI5aFVFdlg5ODMtM1dCem15Z2FQRC02b1FuSFdYYTFCNEFwd0dGcTNPaVBPN0xhanJuVjBYWVBvU1RvUC1mdw?oc=5",
-      "publishedAt": "2026-09-29T20:54:33+08:00"
     }
   ]
 }
