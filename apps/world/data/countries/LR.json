@@ -1,7 +1,7 @@
 {
   "iso2": "LR",
   "name": "Liberia",
-  "updatedAt": "2026-10-05T23:07:21+08:00",
+  "updatedAt": "2026-10-06T05:05:17+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,15 +30,39 @@
   ],
   "headlines": [
     {
+      "title": "Liberia to launch 2026 offshore licensing round offering 29 blocks",
+      "source": "worldoil.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkNYVTBZNVZ2SWxJVDEwUWRMNWFNMWxmbURFT1pPd2FLUHp6RDg2aW1tcjlxS2tTbXc4UFVRd1JzV0hrLW5uWHVTSmZXR1Y5Q0R6T2JtVnRPQ3AwbFVOaDQteXNXbzJOaTdraDQyRDhMTW9RSjVVZ3JsQW9nRnA2elU0ZjFZRWhFRURsNFBwdy1LMmd2YUUxa3c2NVQybk9wTlF3eC1XeXZ6blU?oc=5",
+      "publishedAt": "2026-10-06T04:15:27+08:00"
+    },
+    {
+      "title": "Civil Society Strengthens Joint Advocacy for Inclusive Electoral Reform in Liberia",
+      "source": "Global News Network Liberia",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS2N0T1ZRTmdEOVdyNzI0VW1pUjdVb0hJdVFSR0gxQi1tX1l5aVIyNUpuaFJtM1BMdmhNWGxBSDdfeEpYZEZpR2QtZ3czYVZXTjVydGphU2NFdjJ4cHJzN1FlcWJFWGVmOEtjdmtIaUxsTzhONjlVNzhJbm9NcXBDai0zbERJUnRUR3ZnM2RUQ0RwLXl4Q3B1bmJHOUx2OUVWMXphaU5tOUlaUQ?oc=5",
+      "publishedAt": "2026-10-06T03:22:27+08:00"
+    },
+    {
+      "title": "Monrovia Mayor Launches Family Farms Project",
+      "source": "The New Dawn Liberia",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcFhDc3d2eEswXzFaSG5CZEJpeThrV3lXX01DdkxGTE5qaV9tS0JiTEdja3Y4cmJxY3RPY3cwZDZyTXZKRi1tWWl4b1Bfd1p6dEpqbmtxTkRJUUg5YmU0THdKNnEwcFpzOEIwendfZXVhMVVZZ0lfbFFXSEtsR0tkQmpHVXYydw?oc=5",
+      "publishedAt": "2026-10-06T03:17:24+08:00"
+    },
+    {
+      "title": "Honoring Gandhi, Indian Firms Support Liberia’s Vulnerable",
+      "source": "liberianobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQXlielk4cUFEN2w4anVYMXBrQ3p1T2Q1dDY2MHc2bmNWT2hvZTg4dnB0SFJQSE9qZVJPSDF3em9SX3RoTW1KZmJ0X1Fqb0FwUWdiT3pRaTNXMjNIaFFEQU52bjdUaFdlWGZsUGx5amQwdXByZ1l0b2J0bzlNM3hfWUJrdDZ3ams0OThoSWRVcmxYX0FvZzJTcUEtZk03MmE5VnR1Zlg5SUhyYUF1ZzVTdjdmWmVNUGRmMU04VFphYnBJYmN3LXU3N3NPUnRJckhrd1JrSzBCb2ZXQURyTEhpVVhoV3ZEaGs?oc=5",
+      "publishedAt": "2026-10-06T00:12:45+08:00"
+    },
+    {
       "title": "U.S. migrant flights to Liberia evoke troubling history of sending people deemed unwanted to the West African nation | The Conversation",
       "source": "PennLive.com",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOLVZnTnE2TnhpYm11aXJNU0tJMWNrdDBlZ1JGLWlDZlI4bnIzQzVmUF80NTZvYnRINzFzOHRVVDk3eGlwazg0eFg1cTNIUnkzdk81akpGanplODRGN2Z4cVNUTDBPSUdUblF3VGVxUmh6YUg3VmhNdGJxNEs0UFZSN3pCSTQzbVdzQk5CamtKSTUzenVfUVFsMU0yRzFJTjVYNldWMFhmeHpTVm0tel91eUs4MFVSdlZvd1NLNzhZTjJSVjk0YndkMHVJNmp0NVpFUWtGRUxRSWR5ajYzc3kzUXA5azBtOHYxQV9iRWc4VWljdzljTEJKSmdfMlhCNy11anlVSmtkcTM?oc=5",
       "publishedAt": "2026-10-05T23:00:00+08:00"
     },
     {
-      "title": "Editorial: A Cleaner Monrovia Is Everyone’s Duty",
+      "title": "India Unveils Gandhi Bust in Monrovia",
       "source": "The New Dawn Liberia",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcDlseHcyZFZ6cGhmbUczbk4tbl9EWjFPUFZTdkhycFZWV0YwcmFYYnNuRi0xejRCaEY5OHlFNzFXVmJoOXpraEpjZG5JWnJ5VXVuSEg5OEl3WkVfTkVsZ0g5d3d1Rm1IeFZyOFhNRl9nUmliRmRUbTlmemYzb19ZRDhobnEzV1lz?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fWWxQczduRUhUbno3RmtVWW5fakFEWFBKdnBQbC0tcldCV1g3QUxWMGdobVMySGRrOGhYZjRHZzgtMWw5WHJMcHhPd05TMm40WDhkVzJ4ZTktb3ZEUVNtX3NSUzdmN0tjYV9Rc3d4Sm5xNEVUMzFFWFgxaXU?oc=5",
       "publishedAt": "2026-10-05T21:58:05+08:00"
     },
     {
@@ -48,34 +72,10 @@
       "publishedAt": "2026-10-05T21:04:10+08:00"
     },
     {
-      "title": "India Unveils Gandhi Bust in Monrovia",
-      "source": "The New Dawn Liberia",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5fWWxQczduRUhUbno3RmtVWW5fakFEWFBKdnBQbC0tcldCV1g3QUxWMGdobVMySGRrOGhYZjRHZzgtMWw5WHJMcHhPd05TMm40WDhkVzJ4ZTktb3ZEUVNtX3NSUzdmN0tjYV9Rc3d4Sm5xNEVUMzFFWFgxaXU?oc=5",
-      "publishedAt": "2026-10-05T20:46:47+08:00"
-    },
-    {
-      "title": "Liberia: Performance Management and Compliance System (PMCS) Conducts Verification Assessment Exercise at Ministry of Education",
-      "source": "Zawya",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOQUhmZnVySERwbEViZUZ2ZUlQU1Y3WkRJTWdsVTl3VW9xN0QwWFl4SWsyeG12dWo5MkNTNENLNWYxTzc1aUJ4RGlMb0NlRF95ckdEZ2o5dDRqOGdRNnR5emoyZ2x1N251OFFkbHJLajIyVEF4bzlMMmFrT1dTU01uRzhSSnZRUTR2UTZoV240bGk5T0llZ0ZOcVg0OS1FWlJwTWVVa0JYNC14Y0ZVNHdTZ0wySXJFMDgyc2IwdEctOTZ5Q1doaG4tTjdKbi1yS0d6RnlpeXREOExrS2Y1bVZpMWUzandJZTctenhCMFZPSUtwd1hOenlYRXpTbnR3T3k0UFdScGxSd0VkTWRva21ya1M5V0lENlQ2U2ZmUThn?oc=5",
-      "publishedAt": "2026-10-05T19:41:00+08:00"
-    },
-    {
-      "title": "Honoring Gandhi, Indian Firms Support Liberia’s Vulnerable",
-      "source": "liberianobserver.com",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQXlielk4cUFEN2w4anVYMXBrQ3p1T2Q1dDY2MHc2bmNWT2hvZTg4dnB0SFJQSE9qZVJPSDF3em9SX3RoTW1KZmJ0X1Fqb0FwUWdiT3pRaTNXMjNIaFFEQU52bjdUaFdlWGZsUGx5amQwdXByZ1l0b2J0bzlNM3hfWUJrdDZ3ams0OThoSWRVcmxYX0FvZzJTcUEtZk03MmE5VnR1Zlg5SUhyYUF1ZzVTdjdmWmVNUGRmMU04VFphYnBJYmN3LXU3N3NPUnRJckhrd1JrSzBCb2ZXQURyTEhpVVhoV3ZEaGs?oc=5",
-      "publishedAt": "2026-10-05T18:40:28+08:00"
-    },
-    {
       "title": "Ladi Jadesimi's LADOL signs deal for Liberia oil shore base",
       "source": "Billionaires.Africa",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSHk5aG5fVTVxaEU0dENzYU1yWW5DcHdRdWN4TnhrcktwWncwaGRCdEMweGZNMkJOdU9wU3B6VE9jSWYwenlwdUtxd3RtZUpqdkoxLTRLbkhPdVg0ZThQR2lMOTlYdUxSdnQ2ZDAwNXBiRHN3RWhCRjNTbGltV0Y4VzlIQ253cjl0YVdKUmhvdUFKTllNZDV3NG9tMUlhNVZpNWpSVWZwMWxWamk3Y3dsZlZCTlhVSUE?oc=5",
-      "publishedAt": "2026-10-05T18:27:04+08:00"
-    },
-    {
-      "title": "World Bank Calls for Sustainable Financing of Liberia’s Social Protection",
-      "source": "liberianobserver.com",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTFA4Zi1ZblE4bjN2akxQY2VPRXZwaGpsVXkwR0h2VXVZek9sVkFBZkc2WUNsRTBfQk1tMDRiMlVUdDVwRnZ1a1BsLTB6bW8zSm16NEl0MzE5VGRmWUZtYy1PLXJyZXdqZnFIMUVFeUswVnlleHZnTmJWNHAxMk5BODViNm8yRXBLX1RLTkxtVW9vQW9BLUVUYTE4V2ptOEhDMWlsa0FlQlYxOExhQVgyNFB6NEVwemNZVlg3OHY5V0xrREk4TFJJRGdIUEhRdzJmX25nZ1pOeVJFUHdxMG5HLURVOUwzcXQwOUJEclVoeVVnS0JNdTdWZA?oc=5",
-      "publishedAt": "2026-10-05T15:28:00+08:00"
+      "publishedAt": "2026-10-05T20:51:46+08:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "iso2": "BO",
   "name": "Bolivia",
-  "updatedAt": "2026-10-05T23:07:21+08:00",
+  "updatedAt": "2026-10-06T05:05:17+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Bolivia Inflation: September 2026 CPI Up 0.85%, Annual Rate 5.70% - News and Statistics",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LQjJBY0FEN1VScWZMTUQ0ZUhCN2c3XzI5T0ZoTzkyVTBSdXctNTJMdkw2WUJGV004cldkanl5Uk12cFZEb0sxWkJqRjBJa3VUYW1hZ25hd01GUWtCQ1N5SEJZVFVhc1FrTC1MUW1PbFVsQ1U3eWFkdQ?oc=5",
+      "publishedAt": "2026-10-06T03:13:31+08:00"
+    },
+    {
+      "title": "Mass. couple wants to bring Bolivian food back to Boston",
+      "source": "Axios",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcnQzbl9DMXYzSzBoVUlBeE9PNVBYWklEalBaYnczaHBSTUF4c2FhYTdfVi1NbG9yVzlmVk1YcDYtX25ycS1NeVR0VlQ4dGd5WG9TLTg4b1ZVU01RYjNBUGxKM1dQcXJNR1l6N0hGdTF0QTllN3VTSUJFeXg3aXV3amtwRzJwZw?oc=5",
+      "publishedAt": "2026-10-05T23:07:07+08:00"
+    },
+    {
+      "title": "Bolivia Attorney General",
+      "source": "Bluefield Daily Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcHE5NEZueFVNQlBwdkwybmg4bGNPZkkzNjlzNU92QUg2WF9tWGJoNlpWMUJTaDNHZl9vcW1seFh1dzFQdmp0Q25aN0lOM3Q5ZUJHV2lFakZOMGtRWnUzNHNJVVFUSzRhNmM5R3Roa1kwQ01yTXBoMUlqVmZ1SDVKdlVVbDhUb2lpZmtMLTg4MG9GNXAyVldUVHI0TXFkc1JCaXRJd3dzdUJpWFpIdWtMNDV2N1ZETms?oc=5",
+      "publishedAt": "2026-10-05T13:00:00+08:00"
+    },
+    {
       "title": "Bolivia Arrests Attorney General Over Alleged Drug Ties After US Pressure",
       "source": "globalpost.com",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLVJmMTZ3bTd5QzhnYlhwb3ZUVndfT3JGbGtvSWY5STNlODRnQ3pLVHpCOXZfNTNLdW1obmJtbGtSdmI2VDMxTTJCaVdwOUF4RVhmVEhNR203ZjNTWm5rNEYwbnY0WUVFUU1MWTJwTjRienRjNHBkeE1GeFdhRFlubFQwVm9aVm1YUDFOT2hWY21pZFp0TjJGN3k0cFFDcFVoY0RHRFdJQzE?oc=5",
       "publishedAt": "2026-10-05T08:24:02+08:00"
+    },
+    {
+      "title": "Bolivia vs Gambia: Friendlies stats & head-to-head",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OeTQtcGpOX25FLVhRY01wYnBjb25VdW5DZXVHQUZ2MVk2ZUo0YlZ3emlnUG91azRUeWZETFdJdF9KNFdMWTN4WG9VakZrQUFrSHd3Q29xbWNyaE1jTGF0c2ZzQQ?oc=5",
+      "publishedAt": "2026-10-05T07:09:15+08:00"
     },
     {
       "title": "IRCS launches humanitarian health program in Bolivia",
@@ -43,7 +67,7 @@
     },
     {
       "title": "Shield of Americas in Action: Bolivia's Top Prosecutor Nailed in Cash-Stuffed Ambulance Getaway",
-      "source": "Latin Times",
+      "source": "latintimes.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc2FiYWpSWDVTYkppNTNLNGZGWXpoeEpGRFE5QWZzU0toVm9LYU1YNDJHU0ctSDJjX2Foa2FOckVBLVhQMl9oNUR3cW5Pc1hyTWFyemp1c1VOcTRkUklQWmN4U2YydnJ4bWdjUEpLclktOV84RWx0X293S2RvYlE0TlhNSWVFOWN4RVRvWWhxTEJIS0NXdC1FQ2diYUZaWl9ueGRJVkhVZFlJeHJ4YjU1Z3RVbVRWYzBuOVE?oc=5",
       "publishedAt": "2026-10-03T21:45:55+08:00"
     },
@@ -52,30 +76,6 @@
       "source": "teleSUR English",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaEZrRUVmajBtMEd6R01CdmQzTEw0UzRCcS1YdVR4TzhKV21MQkVHc19IX3VtWnZnZUxKaDFsOV9QLUZNYk9OR1pSLVhta3RiaWwtRWZyTVpZTWNJRDlGY3JRUkttWWtzSzVYV3VoYWZCRk01US1TOEFWa09uMjJzRXUtdmtxaG5lQWJZTGFhcTA?oc=5",
       "publishedAt": "2026-10-03T17:44:34+08:00"
-    },
-    {
-      "title": "Bolivia attorney general arrested on drug trafficking and money laundering charges",
-      "source": "Jurist.org",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaU9ZeVBVNVVlVnFXb0I4RlRudlFEM2htcmZpejdfVkhicVBGZ3MzU05qVnp5SkZTYm9xRFRET3JIdjlUUU1iMmtPYmk2SHIwQ2VMY0RtZ3U3MUlVOGFOYXBXSWR4QmNJMUNUQkdKb2g0V1J1ODdBOXVMYm5rS2ZZdFpaNzkzMV9ySXdObEdqUU50UVdOOWhiZ3FwU3hOU1hLWXNqQlV3VHNoam53ZWdic05Oc05oUkc5TnE4?oc=5",
-      "publishedAt": "2026-10-03T13:50:46+08:00"
-    },
-    {
-      "title": "Bolivia jails prosecutor investigating Trump operative Cerimedo on Washington’s orders",
-      "source": "wsws.org",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UVDR6SXE4X3JhN3JoemVuTGVNUDVuUV9kYXBGeHJtVXlienJoVlBWS3NVN05tenpieEc5LWJzcmljMl8xc3g3NzJ3N1pPR3ZGejQ1R0F4NHFndjl0Q1VWM3V5dmNuMHZv?oc=5",
-      "publishedAt": "2026-10-03T09:00:59+08:00"
-    },
-    {
-      "title": "IMF Approves Bolivia Loan Deal to Support Paz’s Economic Reforms",
-      "source": "bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeTNSRGRlYU93dXJPNmRmZG13UDYxbGxpZFBtTk8wVERUbmlHZ3RpUjliN2dQempPWVV3bzI3cVNqM005MmkyQUtDckVJVFFENnBMbjh0QUY3bFRyQlMtZV9KLWt3T2gwSElKRUFONUEtcXp0RDFkS0pQc190Tk9SMUpRN0ZtMmZuOFdaQ2thLXA4ZHljTXpqUFdYZ0tjM0lJem5HVFR3NXJvMjZ3dnhrNnBPY2stdw?oc=5",
-      "publishedAt": "2026-10-03T08:55:00+08:00"
-    },
-    {
-      "title": "IMF Approves 36-Month Loan Program for Bolivia",
-      "source": "Mirage News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbTFFNlI3ZldmRXM4QXdvVXQtbjdSMkZOTmEwVVhxdTBpNjhMVzJBUFlKdjRIbENuRWtkNkNQQnROZHIzc21sMDRySUU3eEF3YXV1NldIMFVxTXBGdFlOdF9pNHJJbmR4VzU0UV9Ebm9rcm9KVm10SllXa1FTTFRJbjlZbE1OZTJEOGc?oc=5",
-      "publishedAt": "2026-10-03T08:18:00+08:00"
     }
   ]
 }
