@@ -1,7 +1,7 @@
 {
   "iso2": "MU",
   "name": "Mauritius",
-  "updatedAt": "2026-10-06T11:11:54+08:00",
+  "updatedAt": "2026-10-06T17:03:16+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Trust is climate infrastructure: What Mauritius teaches us about building truly resilient communities",
+      "source": "resilience.org",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTmJwa2lQS1V6cmRBbFVTRFk4OWtMT1JfaDZPME53aEtadU9FX1JwQzlmY2paNllpWV9LdkNKZGQ2Vy1hb1pxTlVkVXpfZnRtWU9PVWtsSnZIbm9uOWtIMElfblZ0QVRhSlpEQWp4WFdhaUJpQjZfMGJLM0E4bE1zSjJmUVhZV1FhQXBTTHpVX3YzZnVfRm9nclpDQzNLemxZR2NyX1otSmt0ZGRGZGVqT1VCRnBZcHRtU1RheGFmdHVUVkE4S1doTlgyNm4zYUJXUkszMm11Z0xjNjRzN3BCYg?oc=5",
+      "publishedAt": "2026-10-06T16:07:59+08:00"
+    },
+    {
+      "title": "Innodis and GreenYellow: the first two plants commissioned as part of an 8.2 MWp solar program in Mauritius",
+      "source": "afp.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQclZvdGNHSmdoTHY4WjFyUnd3c1BseGpPWnBseHBtQ3BNblBkRzFqY3pkOFlHLS1PTF9vNVduQ3dGQV8zYkVCb1E5ekNHTTVPWklTbkdxWmhETEtRVEVfZDNoWFlwNG5oQ2dIOEZSWi1hLUZpZXJSVExnU3pzLThZTGkzczFQY1VMZVZiRkdZOHB5TFo1S245bExvN09tajU2aG9vVy1PZ2NQaDc1MU1xejQ5UTJvTUlLdVE?oc=5",
+      "publishedAt": "2026-10-06T15:00:00+08:00"
+    },
+    {
+      "title": "Kenya/Mauritius • I&M pivots away from Mauritius retail banking",
+      "source": "Africa Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFd3SXB4TEVmelBOOXVkSkRpQjA0TndyaXo0M0FUUVJCbFA4UldmQzFOaFdsYTk4c1ZMdm5SekpLRnc3QmpGLVctMDNKUUItZC02bHJZaXRxQXMxcXItemJpeF9CcXN1WUdUOHd0X0trOWtIQTJ2akUyQURxckZOaXNuaS1XcUh5cnFWcVFUNERpaEUtR2w5aFNrWFk1em0yVUlnS2JHNG1mTnUzTlc1U056d1lTVkRYS2JSQ0Y0ME8zRzRlTHFvdUVCdVM?oc=5",
+      "publishedAt": "2026-10-06T12:42:05+08:00"
+    },
+    {
+      "title": "Sri Lanka Football Defeat Mauritius 3–2 To Extend Winning Streak",
+      "source": "Newsfirst",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRVhXS3BPc0NNUWJiOVF2Z2FQeXMwX0JLQWxuZE9aSGdsd1diTXFmUUlRSTFpOUtyRUJCMUphcDNxaGlNSlBETS1RSHhzdkllOG9OVWFJZlc3TlVrQjZOcW9WdlJKUWlzeWpoeDlROFpXMjhfU0FqOU9IVDRLM0F2d1VLWDdxZlN6c185Q3piSk9uNXg5Nlc3Xy1DOFJEVkV1bGduMzJ3?oc=5",
+      "publishedAt": "2026-10-06T09:59:47+08:00"
+    },
+    {
+      "title": "BMA Feature: Mauritius Battles Rising Sea Temperatures To Protect Fragile Coral Reefs",
+      "source": "Broadcast Media Africa",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPekVSMEdnbUZjalZJbXRxTl84cG1qWGRvUGpIcmpWbTBGdkhYcEFCOUUya0YyeEVSX3VqMG9YRGpDcldUS3U1NFczWlhMQ18zTlJndHlLQjBFb1hTSmk2VFNSem43YVd4dE40TnVsVnR3QXlkeENFTjdCMS1Nd2Z6Qk05bGVrdE1YNEFSeERGb2RWYkNoMWJHSzNGUFJLOGZrQUh5N3RFczFwaWI0TkVPNzZyRWczYTVhbTJxeGZ0MUUyeGxoUVY0dVo3WGdISjQ?oc=5",
+      "publishedAt": "2026-10-06T07:51:42+08:00"
+    },
+    {
       "title": "Sri Lanka beat higher-ranked Mauritius in 3-2 thriller",
       "source": "Newswire",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWlBDV2o4c1c3M0RsbG1ndl9uUDZEZFliWW5JN1BTM0VOMUY3cnlnWklRMUxORG5raFVvTEdLX0xzV3FGc0VsbDZyNEt4Wm42QW5KdkhieFl6TUV0WnBmN2d3TzkyWDdzWDZOZC1XQ3NuYnpMVTQzeDAwVUZGd2VvT0hMem5xUWw3MFdxREZ3ZGRDeDhk?oc=5",
-      "publishedAt": "2026-10-06T08:14:58+08:00"
+      "publishedAt": "2026-10-06T07:27:02+08:00"
     },
     {
       "title": "Mauritius to host Africa’s own credit rating agency",
@@ -43,39 +73,9 @@
     },
     {
       "title": "Airlink launches direct Cape Town-Mauritius route",
-      "source": "Bizcommunity",
+      "source": "bizcommunity.com",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUHNrbDVwSFBMOUdzdG9yYUhJbWU4cVBGWVp0bmoyNjFMTEJoSUxrcE4wVXROYTVFT2M5dEdqZzFRNjQ1UkxPRHU3M0dEVmZTRmVrOHZPb284Wmx6SFhDUk8td3oxR0dKRUJ6czc5TFAxdHNDc0k1ZDZpRHZ5YTB2SXBadjFXX1RhUkRfSU93WmxnQlV0ZE5xdjFR?oc=5",
       "publishedAt": "2026-10-06T02:31:16+08:00"
-    },
-    {
-      "title": "BMA Feature: Mauritius Battles Rising Sea Temperatures To Protect Fragile Coral Reefs",
-      "source": "news.broadcastmediaafrica.com",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPekVSMEdnbUZjalZJbXRxTl84cG1qWGRvUGpIcmpWbTBGdkhYcEFCOUUya0YyeEVSX3VqMG9YRGpDcldUS3U1NFczWlhMQ18zTlJndHlLQjBFb1hTSmk2VFNSem43YVd4dE40TnVsVnR3QXlkeENFTjdCMS1Nd2Z6Qk05bGVrdE1YNEFSeERGb2RWYkNoMWJHSzNGUFJLOGZrQUh5N3RFczFwaWI0TkVPNzZyRWczYTVhbTJxeGZ0MUUyeGxoUVY0dVo3WGdISjQ?oc=5",
-      "publishedAt": "2026-10-06T02:30:57+08:00"
-    },
-    {
-      "title": "Necker Finance Recognised for Independent Wealth Management in Mauritius at Global Banking and Finance Review Awards 2026",
-      "source": "Global Banking & Finance Review",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdVByZGtfNHZaU3hERzFrNHpHLS1MaG9HVWNucVdST1NLbGY4ZzdiN21CVkNOYndpcmQ3MGhRSGVJQkVqLUt2RDhDdVpMbmJWLWlMdWFQeU9lOTU1Q0lfaE44YTRxXzlkMjVOSGxSUHdYcjF6VGFCUDIwYWExTUJWMWZ0RHl1czdhaGRzZTVMb3dYbVA2cm9iVk1NRndTS1V3TDdkRF9XWGRubzlUeDJ0Zk5uZmhMSzI2T19FSllCbkM2OUo5NGhEZXgwMFdaUTR5ZmVhdG1JTGVWNjh1U1BRNmtuWk1yb2JUSUtnR0FJN3E3NWpK?oc=5",
-      "publishedAt": "2026-10-06T00:55:35+08:00"
-    },
-    {
-      "title": "[+Sky-Sports!] Mauritius vs Sri Lanka Live Free 𝐒𝐭𝐫𝐞𝐚𝐦 UEFA Nations League 03 October 2026",
-      "source": "Clarin.com",
-      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQRUNnelhkd2pSdXhoUHFCQ0JpcjZxSVJKNWJ6bFdRcU05bkNQMWVPaWxqQ1FJN1R0S2d0R3ktTTJhZWNRZWxxM0kwS1JVZERBdlNsTEZITGNJcE5uN1YyV1JTMlI5Vkc2WV9tb3Vfc2ZqYmpVcFhEeU9pek4wOXNmc0ZSeERSTlNQSEg4WXhnVFFidG5RaDVMSzV6Q3h4blFuMk9YYXRiX3pEU0VvRFhvSWRaZ3VXVm91SVdDZFpWdGh6OTBlRklLYm5BNkxfNnF4QmNyWTgtMWVJQnBjamRsU2FoSjM5YU84SEI3ZFdrLUcwRmJZdHBvTVdQV2xiSXRaY2hXeHFCTzd6OG9mZVJVZUVUWi1LOU9hc2Q0c2xxOFVNS0RPQXIwcmtSU0N1d2pyNkY2OHZLZkRaUQ?oc=5",
-      "publishedAt": "2026-10-05T23:08:56+08:00"
-    },
-    {
-      "title": "!+[Here's Way To Watch] Mauritius vs Sri Lanka Live Online 𝐒𝐭𝐫𝐞𝐚𝐦 UEFA Nations League 03 October 2026",
-      "source": "Clarin.com",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQT0VTWmtUY2FkMjhGQkJwYmJYNFl5NWwwMEhTTkhQVUVCdEh0bkFzMy14WjJzemRfRTdwdXFPU1NPOEdTa3pMaExldlR5Y3h0Yzh6RTRfMWdQNEtXUXJqdGM3bTlRblM3OGVqa0tBc1RlcEJMYWxWS05GSVJkUDFzWnFQZWJ0Z2JVazdfQVlLeXRSWUczbHd2VkhOY2dPWUtTcklVSFVBT2hpaXI2cnFsUmhuUktmaXQ0YmltRjk1SW9pYWNKTmc1bDFsZmlneU5HaVk3NVFzMTNFdGQwcjEtTTFSLVRhVURUaTBnUlYxeFlJWmhrZDAwb0FDVkNoTHFrVkdBUjNFZXYydno2N0F0a3NMM0c0TnFRWmMtVGZLRmlsSDJtd3U5OHJVTURFTm8yTW1rNVBLVEgwOERNZ0E1UDhQM1I2VUVjQ0E?oc=5",
-      "publishedAt": "2026-10-05T23:08:54+08:00"
-    },
-    {
-      "title": "Airlink Cape Town to Mauritius flights launch with new direct route",
-      "source": "Cape Town ETC",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPalZjNUpVWkl5SDAwdTRZMHdma3RYcmVNSzkyR2RWRll4TWZlR21YQmxBNFRwdVluRVIyQU5EQm5YXzJjWFJ5YmhNdGpOQVhmOHZTZlk5TUUtNHVXd25ZNTdKOHZhMzRGNDRMSG0tTzRZZXh0b0JlS0RpOUdFcmlLd0otSzJMQXJCdnlkY3JxQ3RXLXAxaHdFb1pXdzhBQjJEaDJj?oc=5",
-      "publishedAt": "2026-10-05T18:42:01+08:00"
     }
   ]
 }
