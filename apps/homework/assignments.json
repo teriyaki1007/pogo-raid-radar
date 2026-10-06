@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-10-06",
   "timezone": "Asia/Hong_Kong",
   "assignments": [
     {
@@ -94,7 +94,7 @@
       "due": "2026-10-02",
       "dueLabel": "Fri 2 Oct 2026",
       "priority": "high",
-      "status": "open"
+      "status": "done"
     },
     {
       "id": "english-pre-essay",
@@ -112,7 +112,7 @@
       "due": "2026-10-06",
       "dueLabel": "Tue 6 Oct 2026 (in class)",
       "priority": "high",
-      "status": "open",
+      "status": "done",
       "inClass": true
     },
     {
