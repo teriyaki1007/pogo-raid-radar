@@ -1,7 +1,7 @@
 {
   "iso2": "PA",
   "name": "Panama",
-  "updatedAt": "2026-10-06T05:05:17+08:00",
+  "updatedAt": "2026-10-06T11:11:54+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Panama Canal Expands Transits As Water Conditions Improve",
+      "source": "RFD-TV",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbncxb21GRWxSR0tkQloxRTFYY19TU2dSWmRZZkxPZ3hTWXlPTDg4WDZZUE9lWmY2YktJb193LXBOTFNBTmJfN3lCdGowajlqQVFTbGJuUGNyTHJMUXJWVmlVcjdRS21xU3hpcWVYdGd1MVJ0LVZ2RmdsZ3BhNGh4ZVRnY181QQ?oc=5",
+      "publishedAt": "2026-10-06T09:09:50+08:00"
+    },
+    {
+      "title": "Panama Canal extends long-term booking with Panamax locks pilot",
+      "source": "Seatrade Maritime News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMGQ1allIaTV5UmFORnJ1d0tjNEt1a1FBeE5laUJ3M1paXzhFQmJWeXF4akZhWFJCTEt6dnJ5eUVIdnVWT2o2ekZBcHhxWDN6N1pOVEdDUUhjVWpRN0ZxbjAtTTRfc1JDYURKalhsdTUyVGNUcTgzNm1jN0pkTUw3dkY0RjVWMHkxb01WYlRIaFd1T0ZVc2JwWjZhSTh4Tk1rS0RnTzFXUDU4ZFE5VERoZmUxZnRGSGtpYjRqWmZn?oc=5",
+      "publishedAt": "2026-10-06T08:38:52+08:00"
+    },
+    {
+      "title": "PH, Panama eye bigger trade, maritime partnership",
+      "source": "thephilbiznews.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOakxyWEYwd3VuaXhlY1RRa01KNXNfdnByNFVaNHRkTjNYQjdka3lTY2xhQm9CVk53TGxQTmdFM0hzRTladXh3Y3VGTmpFYkNrNVlrLW5MU1V0VmV1dTlqVlZQVVk5cEU3OTlRNVEwMVlCSG5TbzRjdXI5anZNTHQwOWJqeG9RQm5ZOWtsUWZKYw?oc=5",
+      "publishedAt": "2026-10-06T07:38:00+08:00"
+    },
+    {
       "title": "Panama City event brings out skateboarders and their tricks",
       "source": "Panama City News Herald",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUUFXU09IVEQyZGh0Q1hGVFdlTWZFTmtYQ0NIeTAtVE50UHNZTVlUR1JyXzc2VlVOVkRrNjR5WFZrczVMS3haZzBUVGU0elZfNGRCM2FtejM5NGZTLWxham5NZTg1WlZpZ1ZkWkhKNlF2MmRDSlhVNFR2ZU5kT1I2WThMcTBqYnF0UUJjTkc0MVNLMlVybzBSSWcxUFhyNlhFZDM0WUNfX2lGbFB5dnY2aVZ2YVBrXzhJbXlteF9BUjRMcUdZTWNXMlkxelhheWNudFE?oc=5",
@@ -40,12 +58,6 @@
       "source": "Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUng1Vk1pdGJSZUU3ek9tcVdyd3JJU0Zld0EyRFZsZ3VwWWpVd3JRZTl2MjFsM2ZJX1k0a2t3OFNrRlIxSHdKOUYzelIxV1hXUm00czdhUG1vM3VLTGl2NkpaVkNCOE1lZnRlTXVuOFVMX3pfWUVqM0VRRWVyRjA3NW5LTEZxS1RUNnN1NXFIUlczUQ?oc=5",
       "publishedAt": "2026-10-06T04:18:24+08:00"
-    },
-    {
-      "title": "Panama Canal Expands Transits As Water Conditions Improve",
-      "source": "RFD-TV",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbncxb21GRWxSR0tkQloxRTFYY19TU2dSWmRZZkxPZ3hTWXlPTDg4WDZZUE9lWmY2YktJb193LXBOTFNBTmJfN3lCdGowajlqQVFTbGJuUGNyTHJMUXJWVmlVcjdRS21xU3hpcWVYdGd1MVJ0LVZ2RmdsZ3BhNGh4ZVRnY181QQ?oc=5",
-      "publishedAt": "2026-10-06T03:06:00+08:00"
     },
     {
       "title": "Panama Canal opens early auction access for 2027 Panamax transits",
@@ -64,18 +76,6 @@
       "source": "mypanhandle.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZGhWejhGdzRjN0lEOC1iaDVOVTJqaGFUM2NPZ25BdGN5YWRNY3hKWkhCQk1BV2FSa2dLQ3ZRczk5cEhSQW8tVjR3YU1EQzdnWW8zV2hwUjFPWHdIMmo2cDlJMkN3a2dYNS1ZSmRFdXB0M0RiWGVVbTF2RmFGM01UUG9LQ2JxMHZiVTlGdHgzRkZTSUtkS1Mw0gGcAUFVX3lxTE9Hc2F4SlNIZDk1NFlCR3VNT2hNZFRvb2pPY1VrQTZiQXdGMThSaDdFMFd1aWYwbm1PbmtnZWRwaWhiYUlhTXJlZk9ENkpmYWJmX1p2a043cFFucUU4MnRCQmJjVXd1Uk1DUTNRamVUbUgtMFdERHFYZzloRFFWTnVSZzFrS195d0lxdko0ZHprRTVhRkFGdXozU3VoNw?oc=5",
       "publishedAt": "2026-10-06T01:30:57+08:00"
-    },
-    {
-      "title": "APTOPIX Panama Animal Blessing",
-      "source": "Goshen News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTHFhanlxcm4tSHFJcHR5XzA2RlRRMGV6SjNFbFJTMDlqSlVrWmFhMmc3OEppbEtlWlg1amNvQURoT1g1d2ItM2tkenVfVDl6THhQamdJQzNZeTcyOE9SRTJXQlptUXoxdXpyTVNHUnBvLTJRVF8yem5PdEM2Z19uUDJDNUJKNmYyT1pPa2F5S1RmNHkxMTExS3A4eTVSODVFbFZkTnBNY2VLZDBsZk9VVHdNTzdhLUMzRlppSy1VaDN1dw?oc=5",
-      "publishedAt": "2026-10-06T00:48:47+08:00"
-    },
-    {
-      "title": "Panama Canal LoTSA 2027: Panamax Pilot Program Adds 288 Slots - News and Statistics",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRDZENG9KR0tWcjlGZEhjODZlaUI2VllIeW1Bd0V1dUd0Um1hYml4UHFqYjN1S3ptN0U3dDZ4M2dCNjQtVmpDZHJEb0FNWk9KdEhOX1ctX1ZGQW1qR3BkeUlPVjd2UGladlJ0Wm1kaUhOTFB5SV9kdWt3RjM1Q1RXQ0ZwNEEtdnZEM1BfTWUzZFFCUjktTXc1M1AzcnBHbmI5bXRWUzF5NGd3RnlSa3c?oc=5",
-      "publishedAt": "2026-10-05T23:50:38+08:00"
     }
   ]
 }
