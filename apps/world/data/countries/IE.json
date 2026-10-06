@@ -1,7 +1,7 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-10-06T17:03:16+08:00",
+  "updatedAt": "2026-10-06T23:11:24+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,8 +30,38 @@
   ],
   "headlines": [
     {
-      "title": "Irish Rail train services into Dublin from Newbridge disrupted by signalling issues",
-      "source": "The Irish Times",
+      "title": "Beoga Dublin City Residency 2026",
+      "source": "The Journal of Music in Ireland",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9yYWhxbkRoSFNpelY0YjFJdExhbTBrNUVWTFkyUHRSTEgtM0l3cnJQWElTZGxlSm82bmRIUEhLNjJEREVtR0gtSHRKVER3TVVsREVzbHhYWnNkX25PYkVOVC1LUjF0X3dXcnpZ?oc=5",
+      "publishedAt": "2026-10-06T21:41:42+08:00"
+    },
+    {
+      "title": "Social welfare Ireland: Department of Social Protection scam warning as Budget increases announced",
+      "source": "Dublin Live",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmw3TUxndUlQRUdiMUhlVGkxMmxZZnpKNmtNNFRMZ3FWbzRtWHJxdkExdGZDM09oZy1MWjVIMC1Yc0c1c3V0eDNISkdfWFQ2TjNHRFJOVkN4WnRrem9QemdEbVdrSXBMdkJIVS1MbUh6Y21TQVJXTF9nTXdrMEtKVkYxNmVxTDlhNVFQVFdpbE9pWnluNXVj0gGcAUFVX3lxTE1TSVZzRWRrLXBBUW9Bc2lqNmhCb2hiRFFiWGl6a0xxYTBMUGVVVnFSc2d6NFM1eFNIMHZZb19ITmV1dlByWVdDVkhmSmgwZ3E1VFg4OUZhTHl4OU1FMlZfa2tuU3lvZ2xaclJaVDVhRmptUWpmYkVVQW11Z1BIRnA0VVdmS0p6UDl3Rm84TWZ5eEFZTk1mWi0tbHdvNw?oc=5",
+      "publishedAt": "2026-10-06T20:44:11+08:00"
+    },
+    {
+      "title": "Calls for ban on rickshaws in Dublin following death of young mother",
+      "source": "irishtimes.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXR4SlRfNVhvbzY1UEpUbDcxb0k4UmVxTkNsaE9ndklKMUQ5WHgzbDQ1SDNQczc5T2ViQ290enlBQkQ1WnIzeTBQZ05TZ1Q1aXdHNlRxeS1EU0NtTk9qVU9SVl9RZ2VxbGlVNGt3Z2JYU3FnYWFZcEFpMW9OSHBhbnpwT1cwejI3Z3RwNnhoU3VVQ2lhUEJ1Q1ZvbHVwQ0dZTG9scmZEMFUwQTJRa0VaWjhhVXhLQQ?oc=5",
+      "publishedAt": "2026-10-06T20:38:38+08:00"
+    },
+    {
+      "title": "Dublin rickshaw trade like the 'wild west' - Councillor",
+      "source": "RTE.ie",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZS1Brak94M1E2ekwteXAzeTVOMVI5NTlIVlRjTGJsLWtrZUg5YU9HMTFFdTdUeWZmbU1IT3ozZU9CRDhhMS1KeEtzbDBxYzhpV1h2RFE0dHhhSDVsdUhhbjZvckxoa203bk5FcjlhR0hhb0dHMXJV?oc=5",
+      "publishedAt": "2026-10-06T19:59:41+08:00"
+    },
+    {
+      "title": "Focus Ireland calls for Dubliners to sleep out under the stars to help end child homelessness",
+      "source": "Dublin People",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONzlwRnR2em5saVp5YmNCN2pqQm1QbnlTVG9tV2c2QUE0NGRZUHFrOEdGWEF5U3ZjWWZwVl92YjV5Wk1sbFVJek9tZVZmX1R1LUkzU1BWRlU2Z3JJNXpqaFRxQzlyN1pWTnFBeEVTM3FzQ0ltRGJVUzRmdl9VS3ZFZXlNT2o0RkpEMHItclhmaE1JUTNSZmVsT21Kc1lwMmdjVlFRV3ZJQ2JKc1RMOXZkQWpDR0LSAbQBQVVfeXFMTjc5cEZ0dnpubGlaeWJjQjdqakJtUG55U1RvbVdnNkFBNDRkWVBxazhHRlhBeVN2Y1lmcFZfdmI1eVpNbGxVSXpPbWVWZl9UdS1JM1NQVkZVNmdySTV6amhUcUM5cjdaVk5xQXhFUzNxc0NJbURiVVM0ZnZfVUt2RWV5TU9qNEZKRDByLXJYZmhNSVEzUmZlbE9tSnNZcDJnY1ZRUVd2SUNiSnNUTDl2ZEFqQ0dC?oc=5",
+      "publishedAt": "2026-10-06T18:38:10+08:00"
+    },
+    {
+      "title": "Irish Rail services into Dublin from Newbridge disrupted by signalling issues",
+      "source": "irishtimes.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZWFVWFlLZkFKZHlGNlc4TDhkRXhNc2RtdW90RHZWNENKcUU0N0NDYTA3OFBsaGY2S2h3VVl2d3RvdVFDLUl1TEU2OFhDU055Tm9CSXA4YUZ6WVZHOGIySHNuY3lvMEZGaG14U21aQjYxclRrQVg5bzUxbllGWm96dG1idl9qczdUcnNBbXNqR0cxQlczMWVhd0cyVDZPS2d3WHRDQjU5ZEFab21ybHJyYVl3S284b1VW?oc=5",
       "publishedAt": "2026-10-06T16:41:57+08:00"
     },
@@ -42,40 +72,10 @@
       "publishedAt": "2026-10-06T10:10:16+08:00"
     },
     {
-      "title": "‘They deserve to be on a good wage’: Dublin parents back teachers on industrial action",
-      "source": "The Irish Times",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTTZhNVl4SzBtQ2hzR1lGMndTVl96NDljN1dSemFtR0tvSmZhckxwbmIyTURTQWdTZElCY2ZPTDBnU21YLWV0MzhoT296Mm1nMTNzNGhBcU9vSnRyVGdraTRiUkdNRTBfakRWXzB4VmhJRWx0eXR2N1FTZVNFMWczbjc4ODhCTkNibE1Vc0lhdVNTeXdYUXRWTE8zVzM3dVNYZUxwOVNST2prTWNJWFdkQUxkNEM2cXhMNlJJY05sOE41ZTkwZUhMYnROeGJseUFDQm1takh1SQ?oc=5",
-      "publishedAt": "2026-10-06T10:01:15+08:00"
-    },
-    {
       "title": "Irish organized crime case paused as Kinahan scouts lawyer",
       "source": "Courthouse News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZGY1Y2FKLWJDenh4N1NUdmNxTkpPUl83SDZmMGxIc1JfUFJmRFdnUkN6VEE3SkNaQTQwWDRmNFFsTDF0cWRYUjB4UEFNTVVPZGoyNmgxZnM5dDVseVpfbWNwdzdYaTk2Q0RWWUhCbW0ydVhhU3huaHNLZUhFb21hbFhVR3NwNGQtNll5b214czdndTQ?oc=5",
       "publishedAt": "2026-10-06T09:46:57+08:00"
-    },
-    {
-      "title": "Ireland seeks to balance energy relief and restraint in another generous budget",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLUduWnFzVTdYcVdwQ05iRjBWX2RPNWY3cXRVNVkzanNtWkhhWUNKb0JfbTRra2dSYzFvNEdEaVZSS2cxY2pXdUwyS1VmcWxpQTBXeGJpNXYtMGRwMEk0STJNdWd5R2JvZi1vbVloNFpEWXVQRGRuaVRabHZxRXRzd2NYcEZaX2dWTE9mVGhoam1YbzZaU1R3VnNOdnpvaUMxdHBENmJyd0lBWTkyY3dsUzdDZUs?oc=5",
-      "publishedAt": "2026-10-06T07:14:04+08:00"
-    },
-    {
-      "title": "Why club football can sometimes have the edge over the All-Ireland senior championship",
-      "source": "Irish Mirror",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPajl1dlI4TVZZMVpDcjF2a2hhVWFFemJlaW1ONVlrR29KUk5BS2JpZEFXME1YNVdUbnU1UjlqNFp0bUkwNHgtaERDaVpVeHJmbmhRV2ZmdDZYSFJuQXFjdDR2TF9QQVZodUJ6VXdWRnFUd2pxSmt1cGNwOFE4NFdlNW8xM1nSAYoBQVVfeXFMTmJfQWlTTld5cVhlSkExOXJ5bHRlOEVDeTctYjJXRzVEbjFlNnFqZW1ick5PMWIya2RwZm9Wb0EweXV6djRRc0tEc3dDWjhSdEtlZVhXSEN6NkZaR2tuMFBPMnA3ZVlTSXRpYWRrU3lXYjJxRGltMEI0VVk2LTNxNnpCX0dIZVpOdlRR?oc=5",
-      "publishedAt": "2026-10-06T06:07:30+08:00"
-    },
-    {
-      "title": "Flight circles above Ireland in mid-air alert as it descends to 9000ft",
-      "source": "Dublin Live",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOVRjcGZKOWZWRVdFRU5VdnNiRkFHbXVTclYwcHY2OWRiU0Zsc18yeXMtMm9oeUc5N19xczZUaV9sLXp3YzJPNlhQZFNqY2cyQ1ppOTRpWTlvMnRCVkVRU3A3OWROeFRoeWFfU2VwNi1RUFFXVktJZktKM085RS1lZkpkd2tFN2tZVTBKR9IBkgFBVV95cUxPNDdfTEZjRC1UaEJzQldwME9jZWdTaG9ETVg3amhhQ29UekM4RU9ESHBGUlhPVDJJM1JmSWNDTnI2Tk9vZDl3UU9tN3l2Z0E5bUt4WXZHR3ZSU2xPM3Y4VVNDeDNaNEMzM0g4VFhpY0dKYVM3c1BVbTdtT090UVpNMTFxdDB4RGtSXzZjTzRUcFlJdw?oc=5",
-      "publishedAt": "2026-10-06T03:34:56+08:00"
-    },
-    {
-      "title": "Dublin Festival of History International Viking Seminar 2026 explores Ireland's Viking connections",
-      "source": "Dublin City Council",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbVNzRldBTDRPbC1IV0hLN0xTc1U0dFQ2WFpCZjRLRnpCLWF2Tnd0V3VMX2FiaXAtT1I2aDZxclQxMktSVURKZUVxaGlHcU5uSjN1UThIdkROdWJtYzdIOW8ycElTUkFOSHdwaW56aEFnbzZZc2JVZ2JubW12VDhHMDVXLW1zZFFTeDNjVFU4eWhnNktXbkl3ZFYtclcyUHVOWW1MVTkwZGhzREU2ZGNYU2FBXzVwTktuYUtJZDJPMnJtTUk?oc=5",
-      "publishedAt": "2026-10-06T02:53:01+08:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "iso2": "TR",
   "name": "Türkiye",
-  "updatedAt": "2026-10-06T17:03:16+08:00",
+  "updatedAt": "2026-10-06T23:11:24+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "Italian ambassador praises space cooperation with Türkiye",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZTRSTW55MGZKZEdVLWlYR3h3dk1Na29BSlVYUmpMM3Utb0FiMnVvb0Y3MFgzT0I2XzBTNlNud08xYkg1ODZvVTVfVXZqS1FWc1dkMW03R2FLNGhPd2VxdTJlcUl4LXZZUnZFRU9NakJDWHAwRzJKRE5UckVscm9IQW9abUZrMFpMRHowc3BoOFAtdzQ1UXRjTEFEMi1fejg?oc=5",
+      "publishedAt": "2026-10-06T18:00:00+08:00"
+    },
+    {
+      "title": "Japan, Türkiye jointly open university in Ankara",
+      "source": "Myanmar International TV",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR2I3MTkyVWFMNHVkRlM2ODNxTHh4ZHB2SHZYeHVwcXpzZDJWMnhVQ2ZLejh4NHBOR0lzSEFmSi0wRDVFM2ZReko0T1h4aHFVbm1YTnZjdnFhUVhjT2tFUnhrZlJLd0ZLTnpFeWNibFhHZUxReFl5V0VxS2d5OHpZS04tVDgtZ2JC?oc=5",
+      "publishedAt": "2026-10-06T17:30:55+08:00"
+    },
+    {
       "title": "Japan, Turkey jointly open university in Ankara | NHK WORLD-JAPAN News",
       "source": "nhk.or.jp",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBubkNlYTNhVFplajdRX3hjUmVGQWl0Smx1LTlXRVBudzdGUVJ1RFNlX1NMVjF1ZnNTUmN4cjRuNUx5RldBMHVLaER6dTRQOWRyYkpPV0kwZmFKbE1WdS1sd1FqNA?oc=5",
-      "publishedAt": "2026-10-06T09:52:23+08:00"
+      "publishedAt": "2026-10-06T03:52:23+08:00"
     },
     {
       "title": "Ankara hosts Presidential Cup show jumping weekend",
@@ -42,22 +54,16 @@
       "publishedAt": "2026-10-05T16:46:35+08:00"
     },
     {
-      "title": "Ankara university orchestra pairs Turkish, Western instruments",
-      "source": "Türkiye Today",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSHNsMGhpSHkzdkNoTWRqVzR2emphb3hVMlhZeDBGOU00Nzd2R1pQaF9KTnJERTFUaU5KUHdGM3BaMjA2dWlvOExnZlpFUXRqczVXbHBjcGg4S0gzYzRmcDE1Sk11eWdhR081VnBmTEN5VElpdlFmV0xLNGZtU1lyU1Z2aTMtZUo1UEZ1d1hxRTk2cV9ibG5oNFdSdW9iWjVUT2VSQ2R4eTk3cFVTSWl3?oc=5",
-      "publishedAt": "2026-10-05T12:09:45+08:00"
-    },
-    {
       "title": "August 15 Commemorated in Ankara, Türkiye",
       "source": "TOLOnews",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFM1piS2V3d2FTZmx3VV81TlB4TWdnQ2pLWW5TdEdTX0UwcThxNTlGZl9JaDQxNHNjYmsxMlJjbTBGNlZjaENYb0pWa2xaY1IzbVc5OV9B?oc=5",
       "publishedAt": "2026-10-05T03:17:12+08:00"
     },
     {
-      "title": "Türkiye and France sign defense cooperation road map",
-      "source": "Yeni Şafak English",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEVPVjdhRWZwOWE5Y0Z0T040Mm5Wamg0Z1Q1TWZNU0RxV2EtVTU5NHFmeTRfZUJZZFQ2SkhFSS01WUppSm04WTBUdFFQTHVWVXkwRE95d0d0QVpFYmxRUXlOTHNXaVFaaDZSWUpqVnJFQ0QxRUVwbl9pN0hUbDdrY2dxcWZxcE9HSlFIc3c0YkJERDhCQkNycg?oc=5",
-      "publishedAt": "2026-10-03T19:16:40+08:00"
+      "title": "Turkish rock star Sebnem Ferah draws 52,000 fans in Ankara comeback",
+      "source": "Türkiye Today",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUTVSaXl5LS1HdkFXQ3U1eEhSMTg2bWFtTHU4TmRVVGstZ21rYnpzVU83SnFUMzhwZkZqUFdJdFpPM24yZkxXV3BucjFRcmxMRktrS1NLMkgzYjdBWWtOZzRkSThPN0Z5eEZoR1pKUGxiWVBmVW1nZnAyYlhSNVBpUGVsZjJ4NkpqVW9GOVc5SExZakVhaHJDN05ha0UwTjA5Y19acG9XSjZLQ2ZxT1kzUQ?oc=5",
+      "publishedAt": "2026-10-03T17:15:09+08:00"
     },
     {
       "title": "Turkey-Greece cable dispute hits impasse as Ankara insists on prior coordination",
@@ -69,13 +75,7 @@
       "title": "Turkey: Ankara’s Nuclear Ambitions in the Post-Iran War Environment",
       "source": "Middle East Institute",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNXRBZm4yQUNWZkV6MENvQTVweFdXY2tPcFN3aEpiYkJBTEpUTnVzamZ4ckl1Y0dVdklFNVY1SDNxMDBZazU5VWxWTkhrX2x5SnZBelZZbmpVRjB3Z2V0SXV4UDNMR3ZCcWlWTC1QUEVrcl91RDFaRnFXb1FsSXNaNFVJNGIyb1N4WlZ3Rm9jZGdZeGI3bzU3dGxn?oc=5",
-      "publishedAt": "2026-09-29T04:10:42+08:00"
-    },
-    {
-      "title": "Ankara: Turkey, Russia patrols begin around Idlib",
-      "source": "Arab News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZUNLV1JQZGRKY1ZwQkpVNTA4SUdhaGpldlR1YVpqTzN6NXQ3elR6VmFDUVpHY0FzRDBhdlpmbnhHRm01VnN3SjBQZDMwUFliUG1ZY0RtRDc2aDY4NjE1WmhkbU05YThWZUVxUWlWbUFJLW5DRjk3VXFJTkdBbGF0SjZFeUFkYVVfYTJhWDV5MndBb0ppLTdZ?oc=5",
-      "publishedAt": "2026-09-27T01:27:03+08:00"
+      "publishedAt": "2026-09-28T15:00:00+08:00"
     }
   ]
 }
