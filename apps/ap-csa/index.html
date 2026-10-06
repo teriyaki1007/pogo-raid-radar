@@ -45,6 +45,7 @@
       <nav class="toc" aria-label="On this page">
         <div class="page toc-inner">
           <ul class="toc-list">
+            <li><a href="#progress">Progress</a></li>
             <li><a href="#admin">Admin</a></li>
             <li><a href="#this-week">This week</a></li>
             <li><a href="#exam-glance">Exam</a></li>
@@ -59,6 +60,61 @@
       </nav>
 
     <main class="page">
+
+      <!-- 1. My progress (static, updated by hand) -->
+      <section class="card" id="progress" aria-labelledby="progress-heading">
+        <h2 id="progress-heading" class="section-title"><span class="section-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19h16"/><path d="M6 15l4-4 3 3 5-6"/></svg></span>My progress</h2>
+        <p class="meta">Self-reported as of Mon Oct 5 · <strong>Last updated Oct 6, 2026</strong></p>
+        <div class="progress-grid">
+          <article class="progress-card covered">
+            <header class="unit-head">
+              <h3>Covered · Unit 1 basics</h3>
+              <span class="pct done-pill">Done</span>
+            </header>
+            <ul class="done-list">
+              <li><span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span>What Java is &amp; what a program is</span></li>
+              <li><span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span><code>System.out.println()</code> and comments</span></li>
+              <li><span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span>Variables &amp; types: <code>int</code>, <code>double</code>, <code>boolean</code>, <code>String</code>, <code>char</code></span></li>
+              <li><span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span>Assignment <code>=</code></span></li>
+              <li><span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span>Arithmetic operators, integer division &amp; <code>%</code></span></li>
+              <li><span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span>Compound assignment <code>+=</code> <code>-=</code> <code>*=</code> <code>/=</code>, plus <code>++</code> / <code>--</code></span></li>
+              <li><span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span>Tracing variables by hand</span></li>
+            </ul>
+          </article>
+          <article class="progress-card covered ahead">
+            <header class="unit-head">
+              <h3>Covered · Unit 2 selection</h3>
+              <span class="pct ahead-pill">Ahead of schedule</span>
+            </header>
+            <ul class="done-list">
+              <li><span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span>Booleans &amp; relational operators</span></li>
+              <li><span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span>Comparing values; <code>==</code> on primitives</span></li>
+              <li><span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span><code>if</code> / <code>else if</code> / <code>else</code></span></li>
+              <li><span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span><code>&amp;&amp;</code>, <code>||</code>, <code>!</code></span></li>
+              <li><span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span>Evaluating compound Boolean expressions</span></li>
+              <li><span class="tick" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg></span><span>Tracing conditional code</span></li>
+            </ul>
+            <p class="output">Ziv’s calendar doesn’t start conditionals until November.</p>
+          </article>
+          <article class="progress-card next">
+            <header class="unit-head">
+              <h3>Up next in Unit 1</h3>
+              <span class="pct">8 gaps</span>
+            </header>
+            <ul class="next-list">
+              <li>Casting: <code>(int)</code> / <code>(double)</code></li>
+              <li><code>Math</code> class + random numbers</li>
+              <li>String methods + <code>.equals</code> vs <code>==</code></li>
+              <li>Writing methods with parameters &amp; return values</li>
+              <li>Creating objects, references &amp; <code>null</code></li>
+              <li>Wrapper classes / autoboxing</li>
+              <li>Overloading</li>
+              <li>Preconditions &amp; postconditions</li>
+            </ul>
+            <p class="output">Overloading + pre/postconditions move to the week of Oct 12.</p>
+          </article>
+        </div>
+      </section>
 
       <!-- 2. Admin checklist -->
       <section class="card" id="admin" aria-labelledby="admin-heading">
@@ -95,40 +151,46 @@
       <!-- 3. This week -->
       <section class="card" id="this-week" aria-labelledby="this-week-heading">
         <h2 id="this-week-heading" class="section-title"><span class="section-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="5" width="18" height="16" rx="2"/><path d="M3 10h18M8 3v4M16 3v4"/><circle cx="12" cy="15" r="1.5" fill="currentColor" stroke="none"/></svg></span>This week</h2>
-        <p class="meta">Sep 16–21, 2026 · Setup + Unit 1 foundations (start Wed)</p>
+        <p class="meta">Oct 5–11, 2026 · Finish Unit 1 core: casting, Math, Strings, methods, objects · 45–60 min/day</p>
         <ul class="checklist week-list">
           <li>
             <label>
-              <input type="checkbox" data-key="week-wed" />
-              <span><strong>Wed:</strong> types &amp; variables + Check (5 snippets)</span>
+              <input type="checkbox" data-key="w1005-mon" />
+              <span><strong>Mon (opt):</strong> catch-up on any unfinished checkpoint programs or String work</span>
             </label>
           </li>
           <li>
             <label>
-              <input type="checkbox" data-key="week-thu" />
-              <span><strong>Thu:</strong> expressions, casting, integer division</span>
+              <input type="checkbox" data-key="w1005-tue" />
+              <span><strong>Tue:</strong> casting <code>(int)</code> / <code>(double)</code> + <code>Math</code> — <code>abs</code>, <code>pow</code>, <code>sqrt</code>, <code>random</code> for a 1–6 dice roll</span>
             </label>
           </li>
           <li>
             <label>
-              <input type="checkbox" data-key="week-fri" />
-              <span><strong>Fri:</strong> compound ops + Math (random 1–6)</span>
+              <input type="checkbox" data-key="w1005-wed" />
+              <span><strong>Wed:</strong> String methods — <code>length</code>, <code>substring</code>, <code>indexOf</code>, <code>equals</code>, <code>compareTo</code> — and why <code>.equals</code> beats <code>==</code> for Strings</span>
             </label>
           </li>
           <li>
             <label>
-              <input type="checkbox" data-key="week-sat" />
-              <span><strong>Sat (opt):</strong> redo Wed snippets from memory</span>
+              <input type="checkbox" data-key="w1005-thu" />
+              <span><strong>Thu:</strong> writing your own methods with parameters and return values</span>
             </label>
           </li>
           <li>
             <label>
-              <input type="checkbox" data-key="week-sun" />
-              <span><strong>Sun (opt):</strong> light rest or flashcards</span>
+              <input type="checkbox" data-key="w1005-fri" />
+              <span><strong>Fri:</strong> objects &amp; references — <code>new</code>, calling methods, <code>null</code>, aliasing (+ wrappers if time)</span>
+            </label>
+          </li>
+          <li>
+            <label>
+              <input type="checkbox" data-key="w1005-wknd" />
+              <span><strong>Weekend (opt):</strong> 10 mixed predict-the-output snippets combining conditionals with the new material</span>
             </label>
           </li>
         </ul>
-        <p class="note">Aligned to Ziv Sep 9–30 focus; official start Wed Sep 16 (skip Tue).</p>
+        <p class="note">Revised Oct 6 from your progress report. Overloading + pre/postconditions move to the week of Oct 12. After each session, note what felt shaky.</p>
 
         <div class="jot-head">
           <h3 id="todays-jot">Today’s jot</h3>
@@ -139,7 +201,7 @@ Types touched:
 Snippet (what I wrote):
 Predict →
 Actual →
-One sentence: int vs double this week —
+One sentence: what clicked today —
 Shaky:</pre>
       </section>
 
