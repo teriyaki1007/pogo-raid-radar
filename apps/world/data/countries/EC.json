@@ -1,7 +1,7 @@
 {
   "iso2": "EC",
   "name": "Ecuador",
-  "updatedAt": "2026-10-06T23:11:24+08:00",
+  "updatedAt": "2026-10-07T05:06:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Trees on Farms Boost Tropical Soil Carbon and Fertility, Landmark Ecuador Study Finds",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZi1vb0hhbXRySVRTU2JTbG10bDNzOVFPY21XMWtZNm9TcFFlc0c0Tnd5WkJpWTliejVHYXloZkZGbEZyYXAxalRDRkg5Z01YQi1lMzAxYUZ0ZDdmbFpvdTk2WkZQeDRwT2drNGYyVjVPZENXME8zMnJJVVZsYm5JampwVjZyLXk4eDBxOE5zbm8ybnQ5Y0poem9GRjlGNF9lbjY2YmJ2QVk0ODhMUUE?oc=5",
+      "publishedAt": "2026-10-07T00:11:02+08:00"
+    },
+    {
+      "title": "NY Times: US Moves 'Killer' Drones to Colombia, Ecuador",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUgwS05NMnhJR3o1Ukk0YzZ5OXNDUlJXNlcwVV95eUZ6OGVkQVFLeTJWbWw4ei1wcDQ5Sm93VXJIOXNhUVNRR2k0X1ZRSjZjOWp5eEFrOUwyMWUxWGt3SktfOEprUnZzUTVQcTFMZmJVSFM1aHhXQW1oaHN4ZHBrV0FjRXo?oc=5",
+      "publishedAt": "2026-10-06T23:44:03+08:00"
+    },
+    {
       "title": "US sends MQ-9 Reaper drones from Africa to Colombia and Ecuador",
       "source": "Apa.az",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdkw2bXhleE9BWm11TjM0NFRCZjJ0QldNNlczS09sVlFYeUhsaHppZVJLZWotRFhoYkZyRm5KQjI5cDN5RjBBdGtEbnlUY19FYjNaak9jTVpvOTlBTWVUZUQxdUlmcmFxNTlzUmFrU0ZWc1JMOFdEQWhXYVdTRDhRRWt2dGczOXFXdzZzTkpZZElqa19SVHNWYjBhaEs?oc=5",
@@ -42,40 +54,28 @@
       "publishedAt": "2026-10-06T20:47:51+08:00"
     },
     {
+      "title": "India Could Boost Crude and Critical Minerals Supply from Ecuador",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU21WWC11WE5PYzNCb1V5a2s5RUNSZmtrZ3RLX19FSVBqY2NvWFlyX1lveGE4QjdNQ3JEZ3QzMUpxcGtlcmI1cDRsZjl6a3oxU1N1Z1VyVmxrTlktMjVQWDdOWTFHa21YaGthcVNfQk13ZnVJTTVzMm11MEI5YVh6V09FeVYxLTlaenQybHNWN3M3b1VBNGdMdU40cjFCNklzajFXckIyZUlsMURhV05GMVA0RE5aS2M0WTFlU3NR0gHDAUFVX3lxTE9odE94TTFpd2JnMDhtMWhIQVo5c0ZUN3JBSUc5dV8xdzlxQTQ0X0w5ZFNkRHNGNWduLXg1LU90dVZmOW1SaXZaSW1pdHFnQmxGRTJqNXhLbGZCWkxUNjBJLWJNZ1RFRmV6SmNxUnZXcWdYb3ZIbjEzUF91WVN6Y2prbS1lVHl5TW5GVVlBNFZjSklkRW5aNUkyQ004bXRWakZ4ZlZLbUJhMjZ6QWt4YkhTb3UxY0tMU3pEZGxVbVdkY2VkSQ?oc=5",
+      "publishedAt": "2026-10-06T20:30:00+08:00"
+    },
+    {
+      "title": "Ecuador Records 430 Child, Teen Homicides In 2026",
+      "source": "teleSUR English",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MRDJRSXI5UjdjajhFME5vLVp0WWxCbGNMalRYM09NVEZoQURDbTZKSk5ybUg1LXpfWEhTSUN2SFJ4LXdhdl81NF9QMFRhdGhZR3lHQ2FJRGRPenBVaVk1bXJPYk1BLUQ1NEg4WlBIN29oVkswTmVpUw?oc=5",
+      "publishedAt": "2026-10-06T19:02:44+08:00"
+    },
+    {
       "title": "Gran Tierra to focus operations on Azerbaijan, Canada after Colombia, Ecuador exit",
       "source": "Latest news from Azerbaijan",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR1J0QS1yMXhXckwwcjRkRmIxbGhOM1hLMmJNb184R3dqOV9kWFVpbmZUS0hfdFZYa1ZPSmJsTGFxTHo3QkdUdUVEUVJkbFAzZ0RMUEYzX1g3X2pZXzMydGk5VjZHQ2VuUjhOcW9Tam40dUE3LXhEVjZaMm5wVXk5aEZlRTk5V0FYRFpoZFVMTTN5bElMcm1Zc3BWUVIzM2QwMzVj?oc=5",
-      "publishedAt": "2026-10-06T18:53:09+08:00"
+      "publishedAt": "2026-10-06T18:54:39+08:00"
     },
     {
       "title": "Ecuador in talks with India for sale of crude oil, critical minerals, copper: ambassador Buchelli",
       "source": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaTZMOXh5elY4Wks2anZtcmRqNFlURjE3alNCWWRRNjRXN0FWTGd6VzdYNFdXendHYmJldDh3OUhETVV1OHBiNW5CM1R4d1ExU1luTnJRbGlfY0RmRVRWNGY0V1Jkc0pMX1VUSDZKaFZvWTFHNXltcXlFa2cydGNwZ3pmNTdxMkVYZHUyR003dW9SQkFXUmFqaEdfQkFaUXI3ZmMzM09SVFJXeWx6aVRMVDZ3MlRkb25sd01IN0N4dkNOS1R3b05nX3d3VDJ1Q285Z1lLUWtDN2N1cDk2OHhodjE5NWhIZw?oc=5",
       "publishedAt": "2026-10-06T17:50:58+08:00"
-    },
-    {
-      "title": "Millicom debuts Tigo brand in Ecuador, pledges USD 900 mln investment",
-      "source": "Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcC04RDN5RUFMdlFPUDAtT0lveG9fWW9KSVMwbDdpTkFGQ3liamdUTC1LOFZvT0w3cGJRdUt4WWhOWGlEalhlYVFDQ25uNDd3X2hNMXB5ZW5RNFZDWFBUQWNpWHU3WmU5N3hYU1Eyc1pzWkdqc0NUN1NDT3F5ZF9scWdZTXh1M0h6ZUNXcXhIWVVLZWtYVTB0VHZGbi1MekdTVkNMQ29SUGVqMmZsSzBwNg?oc=5",
-      "publishedAt": "2026-10-06T17:40:55+08:00"
-    },
-    {
-      "title": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZzdxZ09ZNjdBZnNxeTlaM09KU0JrcHkxTDRIcjlObGxfaUFYZkRJSGtoMzNWT1plX2huUVpFVmdSNzRWd3pLU3RoQzU1cFBoWmxwTWxUYjhFTGhONHItdzJ5bmlIWWNmQXJxWUhSSWtSa0tNRWNfelhZR1Z6LURuN0Q2UVVaRm9XSGo0UEMzelZJV0toOUI4TWE4NTg?oc=5",
-      "publishedAt": "2026-10-06T17:03:34+08:00"
-    },
-    {
-      "title": "Juangulo Scores His First International Goal for Ecuador",
-      "source": "Roker Report",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVzVjSW9CMHpNNndfT0lBTUVidVU3YVh4OG5PVGpUVnNONldfcEFPMDFrT0dmVHpFX0VzUC1kSi16TkZoNWJrblROZjJ5VDZMcExUd2dfTmZMRFpHdWdZUUV3ZElFSTJrRUF5YXVyUjBOdGdjaHl2UFo4UlRueF9RbVRyVkVSbVNJaVRhV0hVZ3ZkQjIwcU9adnlCNDJ1N1NTN00xUXl5OA?oc=5",
-      "publishedAt": "2026-10-06T13:00:00+08:00"
-    },
-    {
-      "title": "Japan Ecuador Soccer",
-      "source": "Bluefield Daily Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNHlQZnN4MC1ON3BBTU9FRjNIT0lqTlJVRlhqUFVWRWg2MUQyQ25BMU91NFVNQ3JHTmJuSS1uSjRaX21NLXFmY1NyeDk0ZlYzSEg0bzkzUnJaOFVBcWIwYkp6TEpSVEtSRDNtVFJRal9Jc1JzeFJmVERoR2loLWZjbDI0YXFoTVdzZF8wNHJGb0IxNm1kdVhxV1B3NlNfR2xtenFyM0xBSG9mRExRYWhsczFLTmxVbXF4?oc=5",
-      "publishedAt": "2026-10-06T11:19:47+08:00"
     }
   ]
 }

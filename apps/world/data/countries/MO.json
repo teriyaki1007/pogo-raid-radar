@@ -1,7 +1,7 @@
 {
   "iso2": "MO",
   "name": "Macau",
-  "updatedAt": "2026-10-06T23:11:24+08:00",
+  "updatedAt": "2026-10-07T05:06:45+08:00",
   "facts": [
     {
       "label": "Population",
@@ -26,8 +26,38 @@
   ],
   "headlines": [
     {
+      "title": "Macau Industrial Products Show to feature GBA ‘Super Hamburger Festival’ 1st time",
+      "source": "The Macau Post Daily",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9POWhPdW45bmxFR0ZCTVJ1TW9oRFdpRGJUd19TUXg4Q0ZfWTVoWm5MT1Y0d1l5SExPZVdXNWdTQ01ta2lxdEZJQ1ZLYXhGR0ZjMDlZ?oc=5",
+      "publishedAt": "2026-10-07T02:47:50+08:00"
+    },
+    {
+      "title": "Gongbei Customs seizes 17 smuggled peony plants, palm family seeds from Macau",
+      "source": "The Macau Post Daily",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOUFFjek5pNDJpRmJnUGtXbVJHdlh2TVhKU2lUN0VTdVJQUzVMOTI2eVFNSkFfdVBHbVllbHp3aUl3aUIycG1DcllhNDBCTWFMSjMw?oc=5",
+      "publishedAt": "2026-10-07T02:28:11+08:00"
+    },
+    {
+      "title": "Macau Grand Prix debut will be road racing swansong for Ulster Superbike regular Aaron Spence",
+      "source": "Belfast News Letter",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQX05JVzhOY1poSkRrOF93WmdsenJBN1RHR2k0ZTNBQVdhY3ExdG9YOUpENkRROVgtY0JsaTJOR0dPMXNZbnNYa04zeFlJYUV6ZXdJNHFKUjRneW14VzRzUmlzZjNwSGUxYU1DNklFMmRObVJRc0FQdFpCOWFZb0ZsX1ZnVnJmWTltdmtFWXJRaDZHWmVsMEhXNUJuRmRpc2dvclFxdGlOZmE1U0kzVzJiTzhPTG9QX3ptelZWaEg2dy1kZE5fNE11NTgtQzA4WUpYeHNIWjBmbldvMWFIdHR3ck9vRQ?oc=5",
+      "publishedAt": "2026-10-07T00:13:00+08:00"
+    },
+    {
+      "title": "Macau Golden Week Visitor Surge Contrasts with WYNN Gaming Reven",
+      "source": "GuruFocus",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQa2FkdTllZExjcjgxb0p5U2owb2J4Ym5xV0pNTC1aMUFpQUctQklqblVidFl6VHZzOHpMRVFoVmZhWlJjWktRbVlNbUdXajRGNV9FVXZzRTZ4T2o0dDVZMHlSSXRRdDhZN2xhLVNxY2o3UWE5RUtxOUtDZ3VSZzdCaTY5WDIzV1JWX004MlNnUDRsZW5MY0lob0VOdC1FMzVfZkdha25wZnd2blcxVEE?oc=5",
+      "publishedAt": "2026-10-07T00:12:46+08:00"
+    },
+    {
+      "title": "Macau Golden Week sees an increase in visitors but lower gaming revenue (MLCO:NASDAQ)",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc0VPYnJsYVhrWk04YzdJdGxtM04tR0tQY01GQVh4WHJCRHdZRldRV0l0dnNSdy1OeUNEN1JUTFVGd0lMc1FVbzBrZWxnY3lkN1R4VlZEMUV5b3RzdXdZbi1TUmRKckZod1FPMHV6WE5vVDNuYUFwc0Q3emsyT000cmZRWlBxZnp5YWppVnN5cEs3TUZvNkU0WE5iVVhPRmJNcE5Fa1FDb2JLVURybEE?oc=5",
+      "publishedAt": "2026-10-06T23:26:51+08:00"
+    },
+    {
       "title": "Sands China Reaffirms Macau Conservatory Project",
-      "source": "ggbmagazine.com",
+      "source": "GGB Magazine",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb0o4OUxodHVwSnlCUVZiWEFjWDZIdDBaMHh6QVBrNm9keXpHQl9iT2VHdklEdERWWlJYN0NEcy1vMVl0N3N3dkxVVWdZU0tTbWhCaG00bklIYTFIN0IwTkFZcFZjRnc3S0t6UFVKTzd0RVQ3bEcxdHp6Tno5NU5PRkZpTy1qa1RmZUE?oc=5",
       "publishedAt": "2026-10-06T22:18:59+08:00"
     },
@@ -35,43 +65,13 @@
       "title": "Macau banks’ operating results rise 5% through August",
       "source": "Macau Business",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS0d0Wm9nbUpJb3N0Z29zaktRSTNwZVJYN1BDSWc3NmpUTmJzN0doSk5wUEtfOHR4cWQ1RW51YjFqT09PMHlxZS1YSF9xa0hvMG5MRGtUQ1FLWEppeWhpY1RZdENZN2w0M3I4N2ZjUEtIeGQyZnJGVjlmS3pVczBDX1dNako?oc=5",
-      "publishedAt": "2026-10-06T21:52:30+08:00"
+      "publishedAt": "2026-10-06T21:55:34+08:00"
     },
     {
       "title": "Macau LRT daily ridership surges to record 35,600 in September",
       "source": "Macau Business",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQam83akpmNHJFNXhrQlRuQkFGd3RwOUhoMXozRkl5c3Z5YzQydDJUZXVzeW9BMEpxQndsblctMkdjRnFHZFFQTUxNeTJaeTB4VUtHZEVvWlhoNkgzdlIybmJiZE8xWlJkb1g1Q1Q4NXRUTXdydF9tdXIxbmtjbEh5YU9KU1U1RTlKTFE?oc=5",
       "publishedAt": "2026-10-06T19:49:50+08:00"
-    },
-    {
-      "title": "At the helm: DHL Express names Julian Neo to lead Hong Kong and Macau operations",
-      "source": "Human Resources Online",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVW1HUllVaExzREc5cS16dldDemMySDVCdERvYklqUlZ2THIzd3M2WWM4LU1vaFpwWFhYbldKNnpNd2VKYlJaamQ0TzZueHhacDF2SVJlV05JcnAxLVk2SjNkV0l3M2xBODhiWm10djc4UGM0R2VzbE9iZUlpVzg0eVZOZHhuUDB6R3dJQThsYlRtN3FNLTVISDdSb21oWFpTOVpRNmdyVnBMWVlOY0k3OUlWQW1LM0U?oc=5",
-      "publishedAt": "2026-10-06T17:35:33+08:00"
-    },
-    {
-      "title": "BYD’s Racco Kei EV jumps out of Japan, prepares for launch in Sri Lanka and Macau",
-      "source": "CarNewsChina.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMTdtT0Z3MWcyd3RUY2x5R0s2VzFuUE1YUmxVSnI4Q2pUU0JFNmM2YkRzcGFqajZuTVdWYTVtWlVjTDBDT195YXdTc0E4ZElDNm05bVppcDBvUFU3by1ubkNuQjZLUmJyVVNKN3pTd1ZZYU14VXpJbl9FUzRLUG15dU1YLXBQaWNIOElYSVVGbXFOVGZuVzZvT1lMbGp6c2NnYVd1VWFJV2xHYXpRUVllNTl5UGxBQUE?oc=5",
-      "publishedAt": "2026-10-06T17:01:00+08:00"
-    },
-    {
-      "title": "Macau average daily arrivals at 184k in first 5 days of October Golden Week",
-      "source": "GGRAsia",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdWN5NmZ6TDdVOFliWmZGZnZ3ckduTkEtSUlUclh3dERaZ1hyTDd6YVR2Y2JwYmNSNjNqeU5qQnRPU0w4QXBGaUJ2QksybkZaUGd1U202TXNiNm83eWx4dmotZkU1NWpYZTNvN25IVEp3b0ZkaDYxZFJDbXV5SXNfUkJEVEhiU1o1VXQ5MWVBRVFuSUNqd3ZxNmx3ZEtxNjI2?oc=5",
-      "publishedAt": "2026-10-06T09:25:47+08:00"
-    },
-    {
-      "title": "Exclusive: Trump pleaded with Macau to fix 'outrageous' trademark defeat",
-      "source": "Hong Kong Free Press HKFP",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUVU5d2JBa0xOdFJYWGtaT2xmWUwzSFBMNXFHY2VMTGliQ2F4NGJkVTBqcWtLUVVSaGgzS2dvOUtMVlRoa0hCT2pZU01OTzNlNTA4cjhiYy1nZTlfdjR2TS1LSW04WllUY0hxWi1LWDdwSjAyZGVIT0tkV1V1U0tYdUlQWk5ER3Ruc3dWdGhIV3dsZWJoTVlLNDQ5d0xhREg2aFQ2YmI3MHNiOVRrVXlSZVd4MV9ReXM5NHJ1VWpTMjRaXzJKX19fN2pBR1UtUWdrTkR5a3BLUTEzLUE1bWtQRERhTmRFQQ?oc=5",
-      "publishedAt": "2026-10-06T07:40:00+08:00"
-    },
-    {
-      "title": "Mass-baccarat bets at US$127 up, star in Macau-floor checks on day five of October Golden week holidays",
-      "source": "GGRAsia",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaHZDeGJMcm9NYnViSHR3OGJHcDlmVW9pTzV1QTdsaFZxOGNLVVBMTTFPOWRxWUstT1FPUXJvR2tuMHdVdFRIbW0ycXN6aGJWdTFLLWZ2V3dQRHFqc1pSaVNtY19LSlhiTTBXamJjVC02d0N0TEJCSkhlV1h4ekJJcGFseUF3Vll0VHNYNFVJeXVuaFNOUWZGN1YzelRHNVNkbTNlTzFYZlhrdzB4SVRUWkpMTzFJdFJqM2lkZUJldUxvRnc?oc=5",
-      "publishedAt": "2026-10-05T22:51:41+08:00"
     }
   ]
 }
