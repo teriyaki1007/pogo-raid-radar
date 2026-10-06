@@ -1,8 +1,8 @@
 {
   "meta": {
-    "asOf": "2026-10-05",
-    "asOfLabel": "5 Oct 2026 ~10:40 PM HKT",
-    "lineupsUpdated": "2026-10-05 evening (~10:40 PM HKT): Harvest Festival: Taken Over ended Mon 5 Oct 8:00 PM local. Leek Duck rocket-lineups still dated Oct 2, 2026 and ScrapedDuck matches the existing file — grunt/leader lineups unchanged for now (Leaders Cliff Cubone / Sierra Pancham / Arlo Alolan Grimer). Giovanni Shadow Zekrom encounter window closed.",
+    "asOf": "2026-10-06",
+    "asOfLabel": "6 Oct 2026 ~10:40 PM HKT",
+    "lineupsUpdated": "2026-10-06 evening (~10:40 PM HKT): re-synced to Leek Duck rocket-lineups (Updated Oct 2, 2026) — Electric Grunt slot 2 is Electabuzz / Magnemite / Alolan Geodude (Magnemite replaces a duplicate Voltorb). Leaders unchanged (Cliff Cubone / Sierra Pancham / Arlo Alolan Grimer). Giovanni inactive since Taken Over ended Mon 5 Oct 8:00 PM.",
     "sources": [
       {
         "name": "Leek Duck Rocket Lineups (Updated Oct 2, 2026)",
@@ -546,14 +546,14 @@
             "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png"
           },
           {
-            "name": "Voltorb",
+            "name": "Magnemite",
             "shinyEncounter": true,
-            "pokeapiId": 100,
+            "pokeapiId": 81,
             "sprite": {
-              "pokeapiId": 100,
-              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png"
+              "pokeapiId": 81,
+              "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png"
             },
-            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png"
+            "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png"
           },
           {
             "name": "Alolan Geodude",
