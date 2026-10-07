@@ -1,12 +1,12 @@
 {
   "meta": {
     "asOf": "2026-10-07",
-    "asOfLabel": "7 Oct 2026 ~6:40 AM HKT",
+    "asOfLabel": "7 Oct 2026 ~10:40 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE NOW (from Wed 7 Oct 6:00 AM local): Yveltal 5★ + Mega Blastoise through Tue 13 Oct 10:00 PM; Shadow Landorus (Incarnate) in Shadow raids through 3 Nov. Yveltal Raid Hour today Wed 7 Oct 6–7 PM. New 1★/3★ and Shadow 1★/3★ lists not posted yet. LIVE through Sat 10 Oct 11:59 PM: World Space Week (Astronaut Pikachu 1★). Zorua Community Day Sat 10 Oct 2–5 PM. Next: Dialga + Mega Dragonite (14 Oct), Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM.",
+      "text": "LIVE NOW (from Wed 7 Oct 6:00 AM local): Yveltal 5★ + Mega Blastoise through Tue 13 Oct 10:00 PM; Shadow Landorus (Incarnate) in Shadow raids through 3 Nov. Yveltal Raid Hour today Wed 7 Oct 6–7 PM. New 3★: Starmie, Umbreon, Gothitelle. New Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion. LIVE through Sat 10 Oct 11:59 PM: World Space Week (Astronaut Pikachu 1★). Zorua Community Day Sat 10 Oct 2–5 PM. Next: Dialga + Mega Dragonite (14 Oct), Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM.",
       "endsAtLabel": "Yveltal / Mega Blastoise → Tue 13 Oct 10:00 PM · World Space Week → Sat 10 Oct 11:59 PM"
     },
     "legend": {
@@ -54,33 +54,271 @@
   },
   "bosses": [
     {
-      "id": "shadow-machop",
-      "name": "Shadow Machop",
+      "id": "shadow-gastly",
+      "name": "Shadow Gastly",
       "form": "Shadow",
-      "species": "Machop",
+      "species": "Gastly",
       "catchForm": null,
       "tier": "shadow-1",
       "tierLabel": "Shadow 1★",
       "category": "shadow",
       "isShadow": true,
       "isMega": false,
-      "window": "Daily · September Shadow package (scheduled end Tue 6 Oct)",
-      "windowStart": "2026-09-09T06:00:00",
-      "windowEnd": "2026-10-06T20:00:00",
+      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
+      "windowStart": "2026-10-07T06:00:00",
+      "windowEnd": "2026-11-03T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
       "ivFloor": "6/6/6",
-      "cpL20": 730,
-      "cpL25": 913,
+      "cpL20": 702,
+      "cpL25": 878,
+      "weather": [
+        "Fog",
+        "Cloudy"
+      ],
+      "sprite": {
+        "pokeapiId": 92,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
+      },
+      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
+      "types": [
+        "Ghost",
+        "Poison"
+      ],
+      "weakTo": [
+        "Ghost",
+        "Dark",
+        "Psychic",
+        "Ground"
+      ],
+      "counters": [
+        {
+          "name": "Darkrai",
+          "moves": "Snarl / Shadow Ball"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Mewtwo",
+          "moves": "Psycho Cut / Psystrike"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "shadow-totodile",
+      "name": "Shadow Totodile",
+      "form": "Shadow",
+      "species": "Totodile",
+      "catchForm": null,
+      "tier": "shadow-1",
+      "tierLabel": "Shadow 1★",
+      "category": "shadow",
+      "isShadow": true,
+      "isMega": false,
+      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
+      "windowStart": "2026-10-07T06:00:00",
+      "windowEnd": "2026-11-03T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/1000",
+      "ivFloor": "6/6/6",
+      "cpL20": 646,
+      "cpL25": 808,
+      "weather": [
+        "Rainy"
+      ],
+      "sprite": {
+        "pokeapiId": 158,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png"
+      },
+      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
+      "types": [
+        "Water"
+      ],
+      "weakTo": [
+        "Electric",
+        "Grass"
+      ],
+      "counters": [
+        {
+          "name": "Zekrom",
+          "moves": "Charge Beam / Fusion Bolt"
+        },
+        {
+          "name": "Shadow Raikou",
+          "moves": "Thunder Shock / Wild Charge"
+        },
+        {
+          "name": "Xurkitree",
+          "moves": "Thunder Shock / Discharge"
+        },
+        {
+          "name": "Kartana",
+          "moves": "Razor Leaf / Leaf Blade"
+        },
+        {
+          "name": "Mega Sceptile",
+          "moves": "Bullet Seed / Frenzy Plant"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "shadow-shieldon",
+      "name": "Shadow Shieldon",
+      "form": "Shadow",
+      "species": "Shieldon",
+      "catchForm": null,
+      "tier": "shadow-1",
+      "tierLabel": "Shadow 1★",
+      "category": "shadow",
+      "isShadow": true,
+      "isMega": false,
+      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
+      "windowStart": "2026-10-07T06:00:00",
+      "windowEnd": "2026-11-03T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/1000",
+      "ivFloor": "6/6/6",
+      "cpL20": 509,
+      "cpL25": 636,
+      "weather": [
+        "Partly Cloudy",
+        "Snow"
+      ],
+      "sprite": {
+        "pokeapiId": 410,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png"
+      },
+      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
+      "types": [
+        "Rock",
+        "Steel"
+      ],
+      "weakTo": [
+        "Fighting 2×",
+        "Ground 2×",
+        "Water"
+      ],
+      "counters": [
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Excadrill",
+          "moves": "Mud-Slap / Scorching Sands"
+        },
+        {
+          "name": "Shadow Conkeldurr",
+          "moves": "Counter / Dynamic Punch"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "shadow-gible",
+      "name": "Shadow Gible",
+      "form": "Shadow",
+      "species": "Gible",
+      "catchForm": null,
+      "tier": "shadow-1",
+      "tierLabel": "Shadow 1★",
+      "category": "shadow",
+      "isShadow": true,
+      "isMega": false,
+      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
+      "windowStart": "2026-10-07T06:00:00",
+      "windowEnd": "2026-11-03T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/1000",
+      "ivFloor": "6/6/6",
+      "cpL20": 635,
+      "cpL25": 794,
+      "weather": [
+        "Windy",
+        "Sunny"
+      ],
+      "sprite": {
+        "pokeapiId": 443,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png"
+      },
+      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
+      "types": [
+        "Dragon",
+        "Ground"
+      ],
+      "weakTo": [
+        "Ice 2×",
+        "Dragon",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Shadow Mamoswine",
+          "moves": "Powder Snow / Avalanche"
+        },
+        {
+          "name": "Shadow Weavile",
+          "moves": "Ice Shard / Avalanche"
+        },
+        {
+          "name": "Galarian Darmanitan",
+          "moves": "Ice Fang / Avalanche"
+        },
+        {
+          "name": "Glaceon",
+          "moves": "Frost Breath / Avalanche"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "shadow-primeape",
+      "name": "Shadow Primeape",
+      "form": "Shadow",
+      "species": "Primeape",
+      "catchForm": null,
+      "tier": "shadow-3",
+      "tierLabel": "Shadow 3★",
+      "category": "shadow",
+      "isShadow": true,
+      "isMega": false,
+      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
+      "windowStart": "2026-10-07T06:00:00",
+      "windowEnd": "2026-11-03T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/1000",
+      "ivFloor": "6/6/6",
+      "cpL20": 1307,
+      "cpL25": 1634,
       "weather": [
         "Cloudy"
       ],
       "sprite": {
-        "pokeapiId": 66,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png"
+        "pokeapiId": 57,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
       },
-      "notes": "October Shadow 1★/3★ lineup not yet posted on Leek Duck — may change from Wed 7 Oct.",
+      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
       "types": [
         "Fighting"
       ],
@@ -91,187 +329,20 @@
       ],
       "counters": [
         {
-          "name": "Mega Rayquaza",
-          "moves": "Air Slash / Dragon Ascent"
-        },
-        {
-          "name": "Shadow Mewtwo",
+          "name": "Mewtwo",
           "moves": "Psycho Cut / Psystrike"
         },
         {
-          "name": "Mega Gardevoir",
-          "moves": "Charm / Dazzling Gleam"
+          "name": "Mega Alakazam",
+          "moves": "Psycho Cut / Psychic"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
         },
         {
           "name": "Shadow Moltres",
-          "moves": "Wing Attack / Fly"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "shadow-bellsprout",
-      "name": "Shadow Bellsprout",
-      "form": "Shadow",
-      "species": "Bellsprout",
-      "catchForm": null,
-      "tier": "shadow-1",
-      "tierLabel": "Shadow 1★",
-      "category": "shadow",
-      "isShadow": true,
-      "isMega": false,
-      "window": "Daily · September Shadow package (scheduled end Tue 6 Oct)",
-      "windowStart": "2026-09-09T06:00:00",
-      "windowEnd": "2026-10-06T20:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 590,
-      "cpL25": 738,
-      "weather": [
-        "Sunny",
-        "Cloudy"
-      ],
-      "sprite": {
-        "pokeapiId": 69,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png"
-      },
-      "notes": "October Shadow 1★/3★ lineup not yet posted on Leek Duck — may change from Wed 7 Oct.",
-      "types": [
-        "Grass",
-        "Poison"
-      ],
-      "weakTo": [
-        "Fire",
-        "Ice",
-        "Flying",
-        "Psychic"
-      ],
-      "counters": [
-        {
-          "name": "Mega Charizard Y",
-          "moves": "Fire Spin / Blast Burn"
-        },
-        {
-          "name": "Shadow Mewtwo",
-          "moves": "Psycho Cut / Psystrike"
-        },
-        {
-          "name": "Mega Rayquaza",
-          "moves": "Air Slash / Dragon Ascent"
-        },
-        {
-          "name": "White Kyurem",
-          "moves": "Ice Fang / Ice Burn"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "shadow-torchic",
-      "name": "Shadow Torchic",
-      "form": "Shadow",
-      "species": "Torchic",
-      "catchForm": null,
-      "tier": "shadow-1",
-      "tierLabel": "Shadow 1★",
-      "category": "shadow",
-      "isShadow": true,
-      "isMega": false,
-      "window": "Daily · September Shadow package (scheduled end Tue 6 Oct)",
-      "windowStart": "2026-09-09T06:00:00",
-      "windowEnd": "2026-10-06T20:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 624,
-      "cpL25": 781,
-      "weather": [
-        "Sunny"
-      ],
-      "sprite": {
-        "pokeapiId": 255,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/255.png"
-      },
-      "notes": "October Shadow 1★/3★ lineup not yet posted on Leek Duck — may change from Wed 7 Oct.",
-      "types": [
-        "Fire"
-      ],
-      "weakTo": [
-        "Water",
-        "Ground",
-        "Rock"
-      ],
-      "counters": [
-        {
-          "name": "Primal Kyogre",
-          "moves": "Waterfall / Origin Pulse"
-        },
-        {
-          "name": "Primal Groudon",
-          "moves": "Mud Shot / Precipice Blades"
-        },
-        {
-          "name": "Shadow Rhyperior",
-          "moves": "Smack Down / Rock Wrecker"
-        },
-        {
-          "name": "Mega Swampert",
-          "moves": "Water Gun / Hydro Cannon"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "shadow-bagon",
-      "name": "Shadow Bagon",
-      "form": "Shadow",
-      "species": "Bagon",
-      "catchForm": null,
-      "tier": "shadow-1",
-      "tierLabel": "Shadow 1★",
-      "category": "shadow",
-      "isShadow": true,
-      "isMega": false,
-      "window": "Daily · September Shadow package (scheduled end Tue 6 Oct)",
-      "windowStart": "2026-09-09T06:00:00",
-      "windowEnd": "2026-10-06T20:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 660,
-      "cpL25": 826,
-      "weather": [
-        "Windy"
-      ],
-      "sprite": {
-        "pokeapiId": 371,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/371.png"
-      },
-      "notes": "October Shadow 1★/3★ lineup not yet posted on Leek Duck — may change from Wed 7 Oct.",
-      "types": [
-        "Dragon"
-      ],
-      "weakTo": [
-        "Ice",
-        "Dragon",
-        "Fairy"
-      ],
-      "counters": [
-        {
-          "name": "White Kyurem",
-          "moves": "Ice Fang / Ice Burn"
-        },
-        {
-          "name": "Shadow Mamoswine",
-          "moves": "Powder Snow / Avalanche"
-        },
-        {
-          "name": "Mega Rayquaza",
-          "moves": "Dragon Tail / Outrage"
+          "moves": "Wing Attack / Sky Attack"
         },
         {
           "name": "Mega Gardevoir",
@@ -281,184 +352,119 @@
       "countersSource": "type"
     },
     {
-      "id": "shadow-alolan-sandslash",
-      "name": "Shadow Alolan Sandslash",
-      "form": "Shadow · Alolan",
-      "species": "Sandslash",
+      "id": "shadow-kirlia",
+      "name": "Shadow Kirlia",
+      "form": "Shadow",
+      "species": "Kirlia",
       "catchForm": null,
       "tier": "shadow-3",
       "tierLabel": "Shadow 3★",
       "category": "shadow",
       "isShadow": true,
       "isMega": false,
-      "window": "Daily · September Shadow package (scheduled end Tue 6 Oct)",
-      "windowStart": "2026-09-09T06:00:00",
-      "windowEnd": "2026-10-06T20:00:00",
+      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
+      "windowStart": "2026-10-07T06:00:00",
+      "windowEnd": "2026-11-03T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
       "ivFloor": "6/6/6",
-      "cpL20": 1390,
-      "cpL25": 1737,
+      "cpL20": 552,
+      "cpL25": 690,
       "weather": [
-        "Snow"
+        "Windy",
+        "Cloudy"
       ],
       "sprite": {
-        "pokeapiId": 28,
-        "form": "alola",
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10100.png"
+        "pokeapiId": 281,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png"
       },
-      "notes": "October Shadow 1★/3★ lineup not yet posted on Leek Duck — may change from Wed 7 Oct.",
+      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
       "types": [
-        "Ice",
+        "Psychic",
+        "Fairy"
+      ],
+      "weakTo": [
+        "Ghost",
+        "Poison",
         "Steel"
       ],
-      "weakTo": [
-        "Fighting 2×",
-        "Fire 2×",
-        "Ground",
-        "Rock"
-      ],
       "counters": [
         {
-          "name": "Mega Lucario",
-          "moves": "Force Palm / Aura Sphere"
+          "name": "Shadow Metagross",
+          "moves": "Bullet Punch / Meteor Mash"
         },
         {
-          "name": "Mega Blaziken",
-          "moves": "Fire Spin / Blast Burn"
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
         },
         {
-          "name": "Terrakion",
-          "moves": "Double Kick / Sacred Sword"
+          "name": "Excadrill",
+          "moves": "Metal Claw / Iron Head"
         },
         {
-          "name": "Shadow Reshiram",
-          "moves": "Fire Fang / Fusion Flare"
-        },
-        {
-          "name": "Primal Groudon",
-          "moves": "Mud Shot / Precipice Blades"
+          "name": "Chandelure",
+          "moves": "Hex / Shadow Ball"
         }
       ],
       "countersSource": "type"
     },
     {
-      "id": "shadow-quagsire",
-      "name": "Shadow Quagsire",
+      "id": "shadow-drapion",
+      "name": "Shadow Drapion",
       "form": "Shadow",
-      "species": "Quagsire",
+      "species": "Drapion",
       "catchForm": null,
       "tier": "shadow-3",
       "tierLabel": "Shadow 3★",
       "category": "shadow",
       "isShadow": true,
       "isMega": false,
-      "window": "Daily · September Shadow package (scheduled end Tue 6 Oct)",
-      "windowStart": "2026-09-09T06:00:00",
-      "windowEnd": "2026-10-06T20:00:00",
+      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
+      "windowStart": "2026-10-07T06:00:00",
+      "windowEnd": "2026-11-03T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
       "ivFloor": "6/6/6",
-      "cpL20": 1138,
-      "cpL25": 1423,
+      "cpL20": 1401,
+      "cpL25": 1752,
       "weather": [
-        "Rainy",
-        "Sunny"
+        "Cloudy",
+        "Fog"
       ],
       "sprite": {
-        "pokeapiId": 195,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/195.png"
+        "pokeapiId": 452,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png"
       },
-      "notes": "October Shadow 1★/3★ lineup not yet posted on Leek Duck — may change from Wed 7 Oct.",
+      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
       "types": [
-        "Water",
-        "Ground"
-      ],
-      "weakTo": [
-        "Grass 2×"
-      ],
-      "counters": [
-        {
-          "name": "Kartana",
-          "moves": "Razor Leaf / Leaf Blade"
-        },
-        {
-          "name": "Mega Sceptile",
-          "moves": "Bullet Seed / Frenzy Plant"
-        },
-        {
-          "name": "Shadow Torterra",
-          "moves": "Razor Leaf / Frenzy Plant"
-        },
-        {
-          "name": "Zarude",
-          "moves": "Vine Whip / Power Whip"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "shadow-lampent",
-      "name": "Shadow Lampent",
-      "form": "Shadow",
-      "species": "Lampent",
-      "catchForm": null,
-      "tier": "shadow-3",
-      "tierLabel": "Shadow 3★",
-      "category": "shadow",
-      "isShadow": true,
-      "isMega": false,
-      "window": "Daily · September Shadow package (scheduled end Tue 6 Oct)",
-      "windowStart": "2026-09-09T06:00:00",
-      "windowEnd": "2026-10-06T20:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 976,
-      "cpL25": 1220,
-      "weather": [
-        "Fog",
-        "Sunny"
-      ],
-      "sprite": {
-        "pokeapiId": 608,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/608.png"
-      },
-      "notes": "October Shadow 1★/3★ lineup not yet posted on Leek Duck — may change from Wed 7 Oct.",
-      "types": [
-        "Ghost",
-        "Fire"
-      ],
-      "weakTo": [
-        "Water",
-        "Ground",
-        "Rock",
-        "Ghost",
+        "Poison",
         "Dark"
       ],
+      "weakTo": [
+        "Ground"
+      ],
       "counters": [
-        {
-          "name": "Primal Kyogre",
-          "moves": "Waterfall / Origin Pulse"
-        },
-        {
-          "name": "Dawn Wings Necrozma",
-          "moves": "Shadow Claw / Moongeist Beam"
-        },
         {
           "name": "Primal Groudon",
           "moves": "Mud Shot / Precipice Blades"
         },
         {
-          "name": "Shadow Tyranitar",
-          "moves": "Bite / Brutal Swing"
+          "name": "Therian Landorus",
+          "moves": "Mud Shot / Sandsear Storm"
         },
         {
-          "name": "Shadow Chandelure",
-          "moves": "Hex / Shadow Ball"
+          "name": "Excadrill",
+          "moves": "Mud-Slap / Scorching Sands"
+        },
+        {
+          "name": "Shadow Rhyperior",
+          "moves": "Mud-Slap / Earthquake"
+        },
+        {
+          "name": "Garchomp",
+          "moves": "Mud Shot / Earth Power"
         }
       ],
       "countersSource": "type"
@@ -590,38 +596,104 @@
       "countersSource": "type"
     },
     {
+      "id": "starmie",
+      "name": "Starmie",
+      "form": null,
+      "species": "Starmie",
       "catchForm": null,
+      "tier": "3",
+      "tierLabel": "3★",
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "30 Sep – 6 Oct 2026 (scheduled end 10:00 PM local)",
-      "windowStart": "2026-09-30T06:00:00",
-      "windowEnd": "2026-10-06T22:00:00",
+      "window": "From Wed 7 Oct 6:00 AM local · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "windowStart": "2026-10-07T06:00:00",
+      "windowEnd": "2026-10-13T22:00:00",
+      "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/216",
       "ivFloor": "10/10/10",
-      "notes": "Scheduled through Tue 6 Oct 10:00 PM local. Leek Duck hasn't posted the 3★ list for Wed 7 Oct yet — check in-game; this card will be replaced once confirmed.",
-      "id": "miltank",
-      "name": "Miltank",
-      "form": null,
-      "species": "Miltank",
-      "tier": "3",
-      "tierLabel": "3★",
-      "shiny": true,
-      "cpL20": 1345,
-      "cpL25": 1682,
+      "cpL20": 1476,
+      "cpL25": 1846,
       "weather": [
-        "Partly Cloudy"
+        "Rainy",
+        "Windy"
       ],
       "sprite": {
-        "pokeapiId": 241,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/241.png"
+        "pokeapiId": 121,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
       },
+      "notes": "New in the 3★ pool from Wed 7 Oct (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
       "types": [
-        "Normal"
+        "Water",
+        "Psychic"
       ],
       "weakTo": [
-        "Fighting"
+        "Electric",
+        "Grass",
+        "Bug",
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Zekrom",
+          "moves": "Charge Beam / Fusion Bolt"
+        },
+        {
+          "name": "Shadow Raikou",
+          "moves": "Thunder Shock / Wild Charge"
+        },
+        {
+          "name": "Xurkitree",
+          "moves": "Thunder Shock / Discharge"
+        },
+        {
+          "name": "Kartana",
+          "moves": "Razor Leaf / Leaf Blade"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "umbreon",
+      "name": "Umbreon",
+      "form": null,
+      "species": "Umbreon",
+      "catchForm": null,
+      "tier": "3",
+      "tierLabel": "3★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "From Wed 7 Oct 6:00 AM local · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "windowStart": "2026-10-07T06:00:00",
+      "windowEnd": "2026-10-13T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1221,
+      "cpL25": 1526,
+      "weather": [
+        "Fog"
+      ],
+      "sprite": {
+        "pokeapiId": 197,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png"
+      },
+      "notes": "New in the 3★ pool from Wed 7 Oct (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
+      "types": [
+        "Dark"
+      ],
+      "weakTo": [
+        "Fighting",
+        "Bug",
+        "Fairy"
       ],
       "counters": [
         {
@@ -637,144 +709,75 @@
           "moves": "Counter / Dynamic Punch"
         },
         {
-          "name": "Mega Blaziken",
-          "moves": "Counter / Focus Blast"
-        },
-        {
           "name": "Keldeo",
           "moves": "Low Kick / Sacred Sword"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
         }
       ],
       "countersSource": "type"
     },
     {
-      "catchForm": null,
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "30 Sep – 6 Oct 2026 (scheduled end 10:00 PM local)",
-      "windowStart": "2026-09-30T06:00:00",
-      "windowEnd": "2026-10-06T22:00:00",
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "notes": "Scheduled through Tue 6 Oct 10:00 PM local. Leek Duck hasn't posted the 3★ list for Wed 7 Oct yet — check in-game; this card will be replaced once confirmed.",
-      "id": "hisuian-lilligant",
-      "name": "Hisuian Lilligant",
-      "form": "Hisuian",
-      "species": "Lilligant",
-      "tier": "3",
-      "tierLabel": "3★",
-      "shiny": true,
-      "cpL20": 1435,
-      "cpL25": 1794,
-      "weather": [
-        "Sunny",
-        "Cloudy"
-      ],
-      "sprite": {
-        "pokeapiId": 549,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10237.png",
-        "form": "hisui"
-      },
-      "types": [
-        "Grass",
-        "Fighting"
-      ],
-      "weakTo": [
-        "Flying 2×",
-        "Fire",
-        "Ice",
-        "Poison",
-        "Psychic",
-        "Fairy"
-      ],
-      "counters": [
-        {
-          "name": "Mega Rayquaza",
-          "moves": "Air Slash / Dragon Ascent"
-        },
-        {
-          "name": "Mega Staraptor",
-          "moves": "Gust / Brave Bird"
-        },
-        {
-          "name": "Rayquaza",
-          "moves": "Air Slash / Dragon Ascent"
-        },
-        {
-          "name": "Shadow Moltres",
-          "moves": "Wing Attack / Fly"
-        },
-        {
-          "name": "Shadow Salamence",
-          "moves": "Fire Fang / Fly"
-        }
-      ],
-      "countersSource": "guide"
-    },
-    {
-      "catchForm": null,
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "30 Sep – 6 Oct 2026 (scheduled end 10:00 PM local)",
-      "windowStart": "2026-09-30T06:00:00",
-      "windowEnd": "2026-10-06T22:00:00",
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "notes": "Scheduled through Tue 6 Oct 10:00 PM local. Leek Duck hasn't posted the 3★ list for Wed 7 Oct yet — check in-game; this card will be replaced once confirmed.",
-      "id": "dondozo",
-      "name": "Dondozo",
+      "id": "gothitelle",
+      "name": "Gothitelle",
       "form": null,
-      "species": "Dondozo",
+      "species": "Gothitelle",
+      "catchForm": null,
       "tier": "3",
       "tierLabel": "3★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "From Wed 7 Oct 6:00 AM local · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "windowStart": "2026-10-07T06:00:00",
+      "windowEnd": "2026-10-13T22:00:00",
       "shiny": true,
-      "cpL20": 1712,
-      "cpL25": 2140,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1382,
+      "cpL25": 1728,
       "weather": [
-        "Rainy"
+        "Windy"
       ],
       "sprite": {
-        "pokeapiId": 977,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/977.png"
+        "pokeapiId": 576,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png"
       },
+      "notes": "New in the 3★ pool from Wed 7 Oct (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
       "types": [
-        "Water"
+        "Psychic"
       ],
       "weakTo": [
-        "Grass",
-        "Electric"
+        "Bug",
+        "Ghost",
+        "Dark"
       ],
       "counters": [
         {
-          "name": "Mega Sceptile",
-          "moves": "Fury Cutter / Frenzy Plant"
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
         },
         {
-          "name": "Kartana",
-          "moves": "Razor Leaf / Leaf Blade"
+          "name": "Darkrai",
+          "moves": "Snarl / Shadow Ball"
         },
         {
-          "name": "Shadow Raikou",
-          "moves": "Thunder Shock / Wild Charge"
+          "name": "Shadow Tyranitar",
+          "moves": "Bite / Brutal Swing"
         },
         {
-          "name": "Regieleki",
-          "moves": "Lock-On / Thunder Cage"
+          "name": "Chandelure",
+          "moves": "Hex / Shadow Ball"
         },
         {
-          "name": "Therian Thundurus",
-          "moves": "Volt Switch / Wildbolt Storm"
-        },
-        {
-          "name": "Zekrom",
-          "moves": "Charge Beam / Fusion Bolt"
+          "name": "Pheromosa",
+          "moves": "Bug Bite / Bug Buzz"
         }
       ],
-      "countersSource": "guide"
+      "countersSource": "type"
     },
     {
       "id": "yveltal",
