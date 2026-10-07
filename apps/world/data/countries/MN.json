@@ -1,7 +1,7 @@
 {
   "iso2": "MN",
   "name": "Mongolia",
-  "updatedAt": "2026-10-07T23:19:49+08:00",
+  "updatedAt": "2026-10-08T05:08:17+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -29,6 +29,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Olds College shares its expertise with Mongolia",
+      "source": "Today in BC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd2h0eTF6N3lkb3Q2cDViZjdFTDJQSmNuQVl6UUhVVUJJQkZIRnIwUDltdWNzcXlRU0hKelFTQ0JlcEllSnJEUzNMVS1rQmtvOFgtUkhoUEdsZ1lWaERPOTVUdXZncEFjOHRSQmJONXl5VkZRTVhMU1B6ZmNIQTdrc1h2RUxTNy1v?oc=5",
+      "publishedAt": "2026-10-08T03:04:06+08:00"
+    },
+    {
+      "title": "May earns award from president of Mongolia",
+      "source": "University of North Georgia",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUmJpVVFqZ081WURTc2xuTDJ0dEVBWXV2Wm05cGtNdjRwd256VGY0eVE0QW0wRVFzV3VHek1hQjFhQlE2Z2NXSWZsWVJob0JGMWpWRWQwNVo2UkpVTWxXTVg3eGZuRzFpYkFTODlQcnFwMFZLbGU4OFcwUWphSlZlWDlPb1djOUQ0aXVDZQ?oc=5",
+      "publishedAt": "2026-10-08T02:04:32+08:00"
+    },
     {
       "title": "Mongolia orders ‘surveillance’ on Russia border after reported plague death",
       "source": "Arab News",
@@ -64,18 +76,6 @@
       "source": "The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOR1RBSG9idFBHSTl4RkJhMFVWdVRXUHAtemVqZ3M0b2YyOFdhTGJ5azQ4QXg2dTE1eEtDYzJrQm9VUERlaDFSU0ZqMW5vWGFMblEtVFR1LUdhN2kxclhPUEYwalNBV1FnSjZycjlMV3lYSXFqdmplaUNSeEdtOWxJTTloT01WVGQ1TVMxR0F3SXFkNExyUmpaNnpPRzdxVWNZQnVIVjhJXzdDaHRCcElJWEdIZ3ZTbm9IbGFXd2Fzd255Q3FEUTBneGlyZXh4SlV6Zy1jNVF4WHF4ZmNXSHZGS0ZCemxFR2FuUWRXa0FadkFFcmJHVHN1UHBxRURKb3ZXTE51UG1sV3VrRXV0SUU0ZGRFNDdGQWppd2gzUEJia3FHZXBiZWhRX2ZkdVZKMWw10gG2AkFVX3lxTFBveFhaV1huV3Z0ajRRWFpMMS1mRWFVbmstd3VXSFEtYWhuQU1ZTU5YNFBHNkNVV09WRzVzNXp1aGFTN25GZ1ZzQnpSWVJ3a3NQbXR5YnRFdjFxQzZ4U3R6VVk5OHEyYzNNNXNHWTVnMlRablVCMmVIS21yaFFWekhrVm4zc3lobmphSnV1aEhqNkhYa2pIa2E0Q01nTHFyOE5jcUtrcW5pNnRQSFZkR3oyQ2VfMHQzMzc0Tnp5ZGZEYWp3OVNvYnNrbnZzbzRVUUdKOFlkVVZWY0YwQTU0VkFRSVBOUV9GZTZkZHdTZk1qeWRqNldlS05BN2l6dzZ3bUFHT053Y0FaVWtjU0szMTJhODgtbWh1Y1pHNU10Y3ZzMFk1VDF6RFVhMWNFTWJ5MFpQN2oyb0E?oc=5",
       "publishedAt": "2026-10-07T16:19:07+08:00"
-    },
-    {
-      "title": "Rural Inner Mongolia takes centre stage in China’s data centre boom",
-      "source": "South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQzd2R0dUTllnSW1VT0NISEdBOUR6RWxMTmxCUlhpSUNvNU14aFRsOG95UWtRdnVXMzdxZldzemo4MzkyNXEyN0NBT0xCeFBlVFJkeUIzbDFhV0M2U3FiT0dTWUpic2hVWGhKV0t1T3lNWjhET1lfd0hFcHZ3TTdJTU13Q0xYZmdqTHhJS1BrZjhPQ1RKMGlOOE40MklHOFlTaW0xUENaWQ?oc=5",
-      "publishedAt": "2026-10-07T16:05:36+08:00"
-    },
-    {
-      "title": "Kyrgyzstan, Mongolia to develop cooperation in pediatric cardiac surgery",
-      "source": "AZƏRTAC – Azərbaycan Dövlət İnformasiya Agentliyi",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ2wxYXVmRndHNEJENjdwc3hidXJQQ05vOUxmUUNsX0RDbTd4TkVLbTBnZDdEOFRuVDctTmV3dEs2X0tvNF9ZcWE2N1FPaFU0M0gtUUpib2p5eVYxWmRsZFJ2X1RtLVZaT01DWVN5bjI5ZEM0dUhFVUJ2VXRVOHYyLVA5MDE4djE1QmJObmR4V3FsaW9wQkl5SDFocVlnOHFNdlFKVWthVUlvTVE?oc=5",
-      "publishedAt": "2026-10-07T15:18:00+08:00"
     }
   ]
 }

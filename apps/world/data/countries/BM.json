@@ -1,7 +1,7 @@
 {
   "iso2": "BM",
   "name": "Bermuda",
-  "updatedAt": "2026-10-07T23:19:49+08:00",
+  "updatedAt": "2026-10-08T05:08:17+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,12 @@
   ],
   "headlines": [
     {
+      "title": "Bermuda items feature in Peter Benchley auction",
+      "source": "Royal Gazette | Bermuda",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQclg5SHB1VDFLdDhZbTUtOXBKQURyaDJURXB6Yk5FSkhpNWNqZVdGSlpqakU1YUFBTllKaGxzRlhFdXMxaUJkbU5Fa1NiaUNzUlF1UzJTZm5SLVkzS0lyeXVwVG5FMzhaVzJTdlZiMFRkbDBJRkRoNlNfa1dGOXNobUxuUF8wS0ZDcmxqUmdaaXBuSzlZU0VPT2dTNFRYQVVmSzdvbXRwOUpyX0k?oc=5",
+      "publishedAt": "2026-10-08T02:46:42+08:00"
+    },
+    {
       "title": "Coast Guard Releases Names of Persons Aboard Missing Bermuda-to-Boston Medical Air Transport Jet",
       "source": "Homeland Security Today",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZkJDZEN5VXJtVkNkd0drMERXaUNwMVdVRDI3RHU5OEVtTGZmektURzBJRndJRXgtRDVWc1NVNmtXUVNBWk1kb00zSl81elBEMFJCNk94QVNoVUZJSTlGZmQwWGRldXlJeDFPTEVHTTR6c1FMcG8yMl9STjBTSDA5a0w0ZUVUbG9ZdkM5cUp5YzRDb1llXzZ0VXNvUmd6ek5TM3BJMzVHZjJ3WEREY0xwcDJzU1g4ak94dnhGazNsS2NxR0xrZ1cxWkVxa2cyODl0WXhJYm5XajIwQ0RBbXdtdVR4bkNiZ2dFdlYyTzNPRGU?oc=5",
@@ -48,16 +54,10 @@
       "publishedAt": "2026-10-07T19:10:57+08:00"
     },
     {
-      "title": "Race World Offshore keen to hold powerboat race in Bermuda",
+      "title": "Race World Offshore targets Bermuda as next frontier",
       "source": "Royal Gazette | Bermuda",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON1BFQzZydllLd2N1NjRpVW5pOTNzUmlUdy1XRURqS1Zmb0NCNEVSREw5S3hSdmhhM2dTMUNvYVVFMlVpSDl2Z3NGS1FfYWxfN05YUXNUZ0VmX3NWbWRCYU9fUGNwOWhCWW92R3J0MEFwWC1VOFFhU185NUQtSjlRNDBFbE1iNVdndHhWclRtMU5meklMSFoxbDd0YVFpV2RuRXFhNExhT1BhUTYxYXppV3Q3YmJKcDJLcUZVSEtkVQ?oc=5",
-      "publishedAt": "2026-10-07T18:36:00+08:00"
-    },
-    {
-      "title": "The Bermuda Calendar, October 7, 2026",
-      "source": "Royal Gazette | Bermuda",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjRCeVJxNFJjbFgtVFRra1hMWm43TEhBUDZ1RGh2RUtNT20xYUUtRVZBVU14TkpYTDFvbUdHNXVpSlRPZjJNNXpPZV9VUi1TQXRaWlBpRjltaFZaQWszTkliQmJWRzVYSkhVRDFNdTdoMGhqVmZDR3FUVHlYNmFMRklYSWhoVFdtQ2I3T01jSmJ3enRBdUlPRzJvdmZlYlpmcHc?oc=5",
-      "publishedAt": "2026-10-07T18:20:00+08:00"
+      "publishedAt": "2026-10-07T18:45:46+08:00"
     },
     {
       "title": "How has Chelsea fared against the Premier League's Bermuda Triangle?",
@@ -66,16 +66,16 @@
       "publishedAt": "2026-10-07T15:00:00+08:00"
     },
     {
-      "title": "Bermuda vs Barbados: Concacaf Nations League stats & head-to-head",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LQVRnMC1TWjRNU2xkdVAweUtHQ3hvZUNYWkRYR0ZfQVFGNU9OM3A2d09hU2FTaUN2THQtVUhKamhQMFRaMDVGYlRRZUE0Q0E1RnIxOUstM2l4T2JNRUktcU96OA?oc=5",
-      "publishedAt": "2026-10-07T13:30:54+08:00"
-    },
-    {
       "title": "Niagara nurse among 4 Canadians on lost medical air transport out of Hamilton",
       "source": "CBC",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWxWT0t6eHRsU20zZ3hMYWZsSDEyOFBxczc3YW54NExBOGQyVEV4eWdKcWFBOXFVZlVBel9rZW5NNFdEYWVnMThqRnJvejdBU3NHRmNMdkxQNjRwdURZN0JBWkdiSWVxZlZmVG9SUllpR3R2T2JYdmQ1aXY1cUJxTnVFR1VGMFpSQUJDcHotcUdtU0V1cGxGWmJnekR2TnZyQmc?oc=5",
       "publishedAt": "2026-10-07T06:51:15+08:00"
+    },
+    {
+      "title": "Bermuda explores digital ID, begins supplier qualification process",
+      "source": "Biometric Update",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ0FJelBNMGJBenpJRzB2ZmJnSUxYUkNrRDZyNVo1SjFUdVZ5MDVRTzlqbzBJYm5aTkJYbUtRbzRmZUNaNHRrcTVFMVJqd2R3NkpKdVVCMjZ3U3RTZmlneWdiNkRESmkySHFBZ3VXN3hsMEFnbW4tTUl4VkU5M1FWZkZJdW51aU42Um56ZFRxY2ljbnlubVlCWDZOZ2JVQm95cTB2QlNEVQ?oc=5",
+      "publishedAt": "2026-10-07T03:54:00+08:00"
     }
   ]
 }
