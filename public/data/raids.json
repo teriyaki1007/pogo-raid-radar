@@ -1,12 +1,12 @@
 {
   "meta": {
-    "asOf": "2026-10-07",
-    "asOfLabel": "7 Oct 2026 ~10:40 PM HKT",
+    "asOf": "2026-10-08",
+    "asOfLabel": "8 Oct 2026 ~6:40 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE NOW (from Wed 7 Oct 6:00 AM local): Yveltal 5★ + Mega Blastoise through Tue 13 Oct 10:00 PM; Shadow Landorus (Incarnate) in Shadow raids through 3 Nov. Yveltal Raid Hour today Wed 7 Oct 6–7 PM. New 3★: Starmie, Umbreon, Gothitelle. New Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion. LIVE through Sat 10 Oct 11:59 PM: World Space Week (Astronaut Pikachu 1★). Zorua Community Day Sat 10 Oct 2–5 PM. Next: Dialga + Mega Dragonite (14 Oct), Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM.",
+      "text": "LIVE NOW (from Wed 7 Oct 6:00 AM local): Yveltal 5★ + Mega Blastoise through Tue 13 Oct 10:00 PM; Shadow Landorus (Incarnate) in Shadow raids through 3 Nov. New 3★: Starmie, Umbreon, Gothitelle. New Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion. LIVE through Sat 10 Oct 11:59 PM: World Space Week (Astronaut Pikachu 1★). Zorua Community Day Sat 10 Oct 2–5 PM. Next: Dialga + Mega Dragonite (14 Oct), Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Announced: Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM) with 1★ Pikachu wearing a hat and capelet + Sinistea wearing a bow (both shiny debuts).",
       "endsAtLabel": "Yveltal / Mega Blastoise → Tue 13 Oct 10:00 PM · World Space Week → Sat 10 Oct 11:59 PM"
     },
     "legend": {
@@ -48,6 +48,10 @@
       {
         "name": "Leek Duck Rocket",
         "url": "https://leekduck.com/rocket-lineups/"
+      },
+      {
+        "name": "Pokémon GO News — Halloween 2026 Part I",
+        "url": "https://pokemongolive.com/news/halloween-part-1-2026"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
@@ -1368,6 +1372,127 @@
         }
       ],
       "countersSource": "type"
+    },
+    {
+      "id": "pikachu-hat-capelet-halloween2026",
+      "name": "Pikachu wearing a hat and capelet",
+      "form": "Halloween 2026 costume",
+      "species": "Pikachu",
+      "catchForm": "Hat and capelet",
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Halloween 2026 Part I · Tue 27 Oct 10:00 AM – Sun 1 Nov 10:00 AM local",
+      "windowStart": "2026-10-27T10:00:00",
+      "windowEnd": "2026-11-01T10:00:00",
+      "shiny": true,
+      "shinyRate": "not published (costume debut; official: shiny available)",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 536,
+      "cpL25": 670,
+      "weather": [
+        "Rainy"
+      ],
+      "sprite": {
+        "pokeapiId": 25,
+        "url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/pikachu-hat-capelet.png",
+        "form": "halloween-2026"
+      },
+      "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+      "notes": "Costume debut in 1★ raids during Halloween 2026 Part I (official Pokémon GO news + Leek Duck). Also in the wild/Field Research during the event.",
+      "types": [
+        "Electric"
+      ],
+      "weakTo": [
+        "Ground"
+      ],
+      "counters": [
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Therian Landorus",
+          "moves": "Mud Shot / Sandsear Storm"
+        },
+        {
+          "name": "Excadrill",
+          "moves": "Mud-Slap / Scorching Sands"
+        },
+        {
+          "name": "Shadow Rhyperior",
+          "moves": "Mud-Slap / Earthquake"
+        },
+        {
+          "name": "Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "sinistea-bow-halloween2026",
+      "name": "Sinistea wearing a bow",
+      "form": "Halloween 2026 costume",
+      "species": "Sinistea",
+      "catchForm": "Bow",
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Halloween 2026 Part I · Tue 27 Oct 10:00 AM – Sun 1 Nov 10:00 AM local",
+      "windowStart": "2026-10-27T10:00:00",
+      "windowEnd": "2026-11-01T10:00:00",
+      "shiny": true,
+      "shinyRate": "not published (costume debut; official: shiny available)",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 650,
+      "cpL25": 813,
+      "weather": [
+        "Fog"
+      ],
+      "sprite": {
+        "pokeapiId": 854,
+        "url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/sinistea-bow.png",
+        "form": "halloween-2026"
+      },
+      "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
+      "notes": "Costume debut in 1★ raids during Halloween 2026 Part I (official Pokémon GO news + Leek Duck).",
+      "types": [
+        "Ghost"
+      ],
+      "weakTo": [
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Darkrai",
+          "moves": "Snarl / Shadow Ball"
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Giratina (Origin)",
+          "moves": "Shadow Claw / Shadow Ball"
+        },
+        {
+          "name": "Hisuian Typhlosion",
+          "moves": "Hex / Shadow Ball"
+        }
+      ],
+      "countersSource": "type"
     }
   ],
   "events": [
@@ -1510,15 +1635,15 @@
     },
     {
       "id": "raid-hour-yveltal",
-      "when": "Wed 7 Oct 6:00–7:00 PM local (today)",
-      "title": "Raid Hour: Yveltal (today)",
-      "impact": "More 5★ raids for one hour.",
+      "when": "Wed 7 Oct 6:00–7:00 PM local (ended)",
+      "title": "Raid Hour: Yveltal (ended)",
+      "impact": "Extra 5★ density window closed.",
       "urgent": false
     },
     {
       "id": "spotlight-elgyem",
-      "when": "Thu 8 Oct 6:00–7:00 PM local (upcoming)",
-      "title": "Spotlight: Elgyem (upcoming)",
+      "when": "Thu 8 Oct 6:00–7:00 PM local (today)",
+      "title": "Spotlight: Elgyem (today)",
       "impact": "Wild spotlight with 2× Catch Candy — not a raid event.",
       "urgent": false
     },
@@ -1597,6 +1722,34 @@
       "when": "Sat 31 Oct 2:00–5:00 PM local (upcoming)",
       "title": "Super Mega Raid Day (upcoming)",
       "impact": "Leek Duck lists the date and time; featured Mega and bonuses not announced yet.",
+      "urgent": false
+    },
+    {
+      "id": "tcg-30th-celebration",
+      "when": "Sun 27 Sep 10:00 AM – Tue 20 Oct 10:00 PM local (LIVE, US retail only)",
+      "title": "Pokémon TCG: 30th Celebration (LIVE — US retail locations)",
+      "impact": "Mega Gengar appears more frequently in Mega Raids at participating Target, Best Buy and GameStop locations in the United States (shiny Gengar possible), plus Timed Research there. No change elsewhere (official Pokémon GO news / Leek Duck).",
+      "urgent": false
+    },
+    {
+      "id": "halloween-2026-part-1",
+      "when": "Tue 27 Oct 10:00 AM – Sun 1 Nov 10:00 AM local (upcoming)",
+      "title": "Halloween 2026 Part I (upcoming)",
+      "impact": "1★ raids: Pikachu wearing a hat and capelet, Sinistea wearing a bow (both shiny debuts). Also Zubat wearing a top hat debuts in the wild; GO Pass: Halloween 2026 (Candy/Stardust milestone bonuses). Official Pokémon GO news + Leek Duck.",
+      "urgent": false
+    },
+    {
+      "id": "halloween-2026-part-2",
+      "when": "Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM local (upcoming)",
+      "title": "Halloween 2026 Part II (upcoming)",
+      "impact": "Dates listed by Leek Duck; raid details not announced yet.",
+      "urgent": false
+    },
+    {
+      "id": "festival-of-lights-2026",
+      "when": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM local (upcoming)",
+      "title": "Festival of Lights 2026 (upcoming)",
+      "impact": "Official news: Pikachu wearing a saree and Pikachu wearing a kurta return in raids (shiny / Special Background possible); raid tier not stated yet.",
       "urgent": false
     }
   ]
