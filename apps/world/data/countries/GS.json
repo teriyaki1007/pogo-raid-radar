@@ -1,7 +1,7 @@
 {
   "iso2": "GS",
   "name": "South Georgia",
-  "updatedAt": "2026-10-07T17:08:40+08:00",
+  "updatedAt": "2026-10-07T23:19:49+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,10 +26,16 @@
   ],
   "headlines": [
     {
+      "title": "Georgia Emergency Search & Rescue - South Georgia",
+      "source": "WALB",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDdsQVVkeTB6ajNKM2IzSUhaS0RyQjRFbkI1cG9MOWtkMnZ1MVktbmhDcFhCOFFnWHRLSE9vcWZnRVZHMHZOZXRaYzJSZ1Q0R0hsOHlEV2R4Z2RhZmNVcDFKQV9kcl8yN3dPbHU3bzVvYnplbWpmenZ4aklIcmR0b21jbGRMZEl5LVBwSQ?oc=5",
+      "publishedAt": "2026-10-07T11:26:21+08:00"
+    },
+    {
       "title": "Tropical Depression 9 forms with potential impacts in south Georgia, expected to become category 2 hurricane",
       "source": "WALB",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQT2xhMlFVbFhxOVAxRS1UajBtNks5aHg1dmUtX1hPM0RzV3A2LU5DcGdqa2w2dkk1SjZUUHlwbWpucWVFeEprb1lPdmxuT0Rkc0pZNVd3dTBVWlJ1b3hLem9XRUNsTUJUb0xSYUhEYUxEMUtPOS1icnVZZmpJWlFWZ3dzQUxxb1FjUTlBWmxpMF9DT2ZjR1FQTU1kc0xYZmpNTVlLRExpcC1VYTVtNV9ocW5oUncxMVhTTUcta292Tkh4eDRYTEJyTlphUmI3SzZSeFdwU2dwRQ?oc=5",
-      "publishedAt": "2026-10-07T07:58:56+08:00"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2ItcGZfUURpUnNYS3NDU2x4WTRSZEh1SXpLSW5kUUdRWEx0Z0x5Umpocy00QmtxdF9Xc0lMbVN2V1VaSndkdUV2SEt1c19qd2NqMW14c1BlTE5mOWNhaHhEX2dZN2tvU3BUV21pSVdGNnJYQlNDNFB4Z0gtc1plQS1BVWUzNU9BSEJuRE5aOWV4Rlk0UjRicV9XYk5LZ9IBsgFBVV95cUxPZzNITFBtWkFjMXpZcnpTYmU4dzhIMVJ1dzd0NE1NSGlDT2J6OEZ0S3FEVVZIc3lZZ0hzbnFnUTdaV2F0dHVaZlF0NFRvc09QQjNnbFUyMGlZbFpaNTVZSzFKUmJKX09acGRwQzd4cWhrTms0c1ZUTnZMeGNOWTk5U2R0SlRjd1dmOUxibVFxaWlTN3dxN2xZMHE5MGhSMmt5eEtwRklpaDBWYVlzeFJ3SzJn?oc=5",
+      "publishedAt": "2026-10-07T05:28:00+08:00"
     },
     {
       "title": "Wiregrass Connects South Georgia Students to Career Opportunities",
@@ -44,12 +50,6 @@
       "publishedAt": "2026-10-06T21:22:03+08:00"
     },
     {
-      "title": "Georgia Emergency Search & Rescue - South Georgia",
-      "source": "WALB",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDdsQVVkeTB6ajNKM2IzSUhaS0RyQjRFbkI1cG9MOWtkMnZ1MVktbmhDcFhCOFFnWHRLSE9vcWZnRVZHMHZOZXRaYzJSZ1Q0R0hsOHlEV2R4Z2RhZmNVcDFKQV9kcl8yN3dPbHU3bzVvYnplbWpmenZ4aklIcmR0b21jbGRMZEl5LVBwSQ?oc=5",
-      "publishedAt": "2026-10-06T13:20:49+08:00"
-    },
-    {
       "title": "Two dead, three dozen injured after South Georgia shooting",
       "source": "Audacy",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMFdSOFFwYnN0TVdJYVJJdmxlbDREd2RlR3o1SnJjcG1vN1diS0ljTVJ2bkRQd0NGd01XR1FPbmZXLXRDckdZYm9FM09oRVBLRnJmNWdQT1RaQ0NwdjJKS01wWHM2UHpkYzBkcnVvaER5d3p2WFJpRzRJQUNRVHM5bVZEQV9HZTFpSGhSblRkbUZkR1NWanhYY0J1SmFIMTRQ?oc=5",
@@ -57,8 +57,8 @@
     },
     {
       "title": "2 killed, dozens hurt as gunfire erupts at homecoming block party in south Georgia",
-      "source": "Enidnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOaHdkRDNjTFJjbkEyWnRQZzNOalNvNVl1ZGxUT2x0R0ZwSTNWTFBlWWw4N1UzT0pTc3V0aVJSNWFTd0t5dm9iQ2VPWHFzYWYwT3ZkdmtfWGhYY05EX29JbFotbEowM0RhSGJ3S2NqdkJrUXk2aWo1WEtwWFVWLXFOdVd2bHFPd0J5TXk2NWZ5R0dPY2lzU2oyVU1YVDFaREdVQUVDZk9wdnBsM2FFVV9TUUFIR1pPNjcySHctNXBRaU9udGppNGdzSUx2cm5jcUVUZ0xjenlPWXJacURRMTM4M1BsYk5FTmg5di14bzU0TG5HLXRWTmRseUEtX3ZMZw?oc=5",
+      "source": "McAlester news",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNc2ZDZ0hlcjk3ZkphT1FITjdCTWlHQmhVdGFFQ0syMVdNdHhZTjh2Vy1TWTY3cVlrQWdUbWp4TGN3YW9qSUI3clliU3NIWjdnVWxLTnhWV0VsYWwwRFcycW9kVVdQTDN2MFFraDh5b2FoSFpwb0M1OVlOZG95d3lFMGx5T3M0NUYxd3dLQi1GbUxFSkRYZ0RVNVBCcTUxT2o2UVRJTDNjX2RRbFFhUUdvTXZLOGtQN01TdTRzSE8wbEJRRnFDeFd2OXdvYy16VUx0ZUZnRXFRSmVkcE05X055c29VZ1NSajdxV1MtcFhDdk0ySGlPZUZ2Y0RLX3c?oc=5",
       "publishedAt": "2026-10-05T21:50:47+08:00"
     },
     {
