@@ -1,7 +1,7 @@
 {
   "iso2": "SY",
   "name": "Syria",
-  "updatedAt": "2026-10-07T11:05:30+08:00",
+  "updatedAt": "2026-10-07T17:08:40+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,12 @@
   ],
   "headlines": [
     {
+      "title": "Opinion | flydubai Hijack, And How Syria's Descent Into 'Jihadism' Has Now Become Everyone's Problem",
+      "source": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdHJVN0ItcWRHRjF6dkxSNGFzdGlKZlF1V1lad3oycS1LX1JKMDJ1R0hYa0NMQ1gwRWlvNnluQjhuSU5OQUZhVzFNdlkwUHgwR2xpMjN1ejlNT2pMVXh2WDFDSHE3dnhZdFpiRUp0aVVfb3lUUVZyczRPT09ReUNhNUMxU2FpWXZDQ1l5UjJHX0t3ZWppY3BaNXh5dUYwS1NIRnRsZHNCOHJoR2l0aVU3SXNKLVZhaVp6QWc?oc=5",
+      "publishedAt": "2026-10-07T15:57:27+08:00"
+    },
+    {
       "title": "Syrian embassy returns seized passport after 43 years",
       "source": "Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON1hfZVN0N2lhUW1INVRtQWZTT0o0RmdINW9pLU5La0V4Q3FzYkgzR2pOaFQ0QmZnWnRfazB5bUVRUlpjVmpCdTgzMUhCeXNKR2F2dVRvODFINjVjQ3hkR0Z1TzBMS1NMcERVb2pLN0NSaHlhN0JjRXMxOHNGS3VPQmIxV21xVHNZS3JvVzE3ZTA1aUFoZlNsZ1BPVXFOV3lieXlROTZfa9IBrAFBVV95cUxNeXhYWnk0WTN6WGE3M2dkSTUyOWc2RDRtWHlObEFfRDdJUDBCUTQ2VDctb1FoaThobFFfVGJhcExSUlZUNmtMNVE5cFl4NlgxTVV5d040NXBiRGZZRzJKSThoUkt4TC1sbEdZdGtPbGlQa1NTakJIamNyVXM4dlNkcTJrcU9kZDFnMUVucS1aMmFDMGxKQnFEZnNza1BNSTNYUlFlb0p4aHNmQV9i?oc=5",
@@ -42,40 +48,34 @@
       "publishedAt": "2026-10-07T04:53:53+08:00"
     },
     {
+      "title": "Syria's Kurds, Arabs find common cause in battle for language rights",
+      "source": "Al-Monitor",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOHFmN21UdTJvMmhHd0p3dFMybGpaTUU4UktJeUR0Tk1ybEg4ZXExV0lSWVdicUtZOXphMUJIRFNqWVppZHBBZ1hZYmR6Ty14NzllU2k0cGJBajJxRXo4dmNFYWVnUWpiZ3o0dmxpbGJFSFlTdFQwT2FJd1U5VkZwNmh4MmJ5aENpc2lsbjZaaHZPOEx6WmVfaHZXNDh1bS04QVJfeWhvNA?oc=5",
+      "publishedAt": "2026-10-07T03:02:09+08:00"
+    },
+    {
+      "title": "Saudi Crown Prince meets Syria's President Al Shara in Riyadh",
+      "source": "The National",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUDNWYm1hVXczaUNsR1MxUXhEMk5qWHFLbHRNVDlqalBkclpkOGpxQUc3ODVhQ1puZjBHakM1VzZzMUZSa3BtS2FLZkxwcFY5UTNWTXRjckJsQ2UtdExwcWM3RElvbWpseTR4RVk5ZS1UdmtUS1hhWTNWeWhmVWxFTG9WM2dwSDU5bENzZkhWUTlNamc2YUNaR29nRXhHVm16NnJaWVNWOFB1N1I0Z19NQXBkRGY?oc=5",
+      "publishedAt": "2026-10-07T02:28:38+08:00"
+    },
+    {
+      "title": "Air crew members from Iran, Syria, Lebanon, Oman may have entered Israel",
+      "source": "The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sVUJiMVRTMDZwdk81TktaY0VjUVFKUlBYUFRfdWJibEpRNU5qeEh5eGNDVUVNb2ZkUzZIakktYUJpa1FwQ1VsTGljWnY1dXhueHptUkJwdnhQZmtH?oc=5",
+      "publishedAt": "2026-10-07T02:00:22+08:00"
+    },
+    {
+      "title": "Syria’s Sharaa in Riyadh as Saudi airports come under Houthi attacks: What to know",
+      "source": "Al-Monitor",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObzNIdkl2RTc3MEtKYmduNHdkanAtUVJSWGF1LWZWUmJFS1dOWWpFSTE3MkFqOEtCcGxpYlpCNlY2ajF3MTJkTl9Ga1lfVjZ0YzYyZk8wbWVmejhtM1d3bDI0cFYxWVRhUm5WR0pRVVg3S3hVT1FOUGhtaWlJcW5xalliZHlRTzl5STJGMklfSU9KNUd6R1FCSkRKY2JscjZHV2h6M0VfTWlKX1FCSWJIcDBzZk92Znc?oc=5",
+      "publishedAt": "2026-10-07T00:16:04+08:00"
+    },
+    {
       "title": "Syrian Airlines Reveals Bold New Look As It Returns To Europe And Plans To Double Its Fleet",
       "source": "Live and Let's Fly",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBacnNOUHhzajFJaHBMZWxOb3lMdmxVZHlzZHpRNnNyblEtRFpZVEJNanFyU291SjRTamctMjAwUkJXWFpPeXVwMndHMllXR1ZrcnliQXNpVUtSOW9yR0kyaVFhSmM?oc=5",
       "publishedAt": "2026-10-06T20:39:11+08:00"
-    },
-    {
-      "title": "Syrian President Ahmed al-Sharaa arrives in Riyadh for talks with MBS",
-      "source": "The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qOTZfc1c5YURPdXVyay1KRlFlR1lrSE4zd0FfdjI1dUVHRjRKNlVYa2hHN2lvYlRReXUwRDE4Z2RtYTNmYlotMEJiOWRUeEF3UFpoanMxXzA4dU1Q?oc=5",
-      "publishedAt": "2026-10-06T19:23:54+08:00"
-    },
-    {
-      "title": "Syrian president in Riyadh for talks with Saudi crown prince",
-      "source": "Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVBwTzlSMW9LSWxnU0NyNjFNbjhZLWFGLVVCYTZwOElJOXVRdUVNYjRkWWVTX084NTB3QjAtNnlrU2hyUXhCWjl3RXo2ZUswWm9rU1YtQjNUUFFzeEtyRzg0VlB3NjlDeWFTTXhNNFctcHFPQ28yVlV5ellrRHNVLWpDQjRoQ3RUOVJ3M0xLeFRJNkM3TEs1d2lxTlZZRmtpQkI4dWVSTFJVdw?oc=5",
-      "publishedAt": "2026-10-06T19:20:07+08:00"
-    },
-    {
-      "title": "Building a Pathway for the Future of Volleyball in Syria",
-      "source": "FIVB",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMVdvTUFGR1N2MmUyamRuT3M3V3FkX2JoS1JTcjlyU21rWmxYLTRGRUhLX0dxUE1ITmpja2U3Szg0Tk5TZDYtNGQ5R0xsVFpxVm5lUkVuN2RaLUM0VzdERW9RLTJUYmhrLWF3bWhsbHhobWZHclNKUDM5VGRxY2ZOQ18wV1o?oc=5",
-      "publishedAt": "2026-10-06T15:07:16+08:00"
-    },
-    {
-      "title": "Oscars: Syria Picks ‘The Other Side of the Sun’ as Best Int’l Feature Submission, Icarus Takes Doc for U.S.",
-      "source": "The Hollywood Reporter",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN0lhZ1VtZjdsUVY1Zl9OQzdneUFLZk9HVUs5cXpxX2ZKa1RwTmdzTmZ6SkM4TUU1TldJM01aY2N5dFBza21rcFF6RnJ2S0N4Wm9UMXJ2cGQ2bExPQlJ5LURESThyNkRuZGdRY2MxOEpLU3VSSDc0WHFwck03bktZQ3JDZFpUM05OamowQXRwT294eVlSWE9VampHNnJncDdIdUFIZll0ZTV4cTlOR0h6dVZFVEFhc1JWam5VWm5DM3g?oc=5",
-      "publishedAt": "2026-10-06T10:50:35+08:00"
-    },
-    {
-      "title": "Syrian Airlines unveils laser-sharp look for the future",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeEVYaGM3cXBhSEVPVVAyVzNKTFRodFpLU3BmQ0pMdVI2WGNXNW8tV280RzZBc01tMkJoMzFoV3RCNkZmbHRnYzQzM05LTDFqbTVBc3Ntd2drQkVyYjF5TFFRSzRBLW1fLTktU0VmbHRhZmU3QlB3ZDJnaEJyTURPMU5NU2o2T2k5NEdnQVh1cFNWQkc1LXFMbnVRYjc0RGtxcFpWSUVTa2RlZ9IBrwFBVV95cUxQblNSMHpmN1lCZ0ZHdm5GaG1wc0d5eDRfTUdZX0t6S3RJel9BdXFDcGZjZnZLdzZYaThBMncwWDd0NHJuYURmbWQ0ZTB2bjhTeXc4R083ckpMdy11WFloWHc5WVZZQW9XQ1J3SkNJbEVpU09rejYydkhaTXpyOW9VWV9GRng3VTcxaHRTV3VMUnFKZGk3eGxkM3hlQ09MSHhITFlzRzJzNG9JWk1NaTdz?oc=5",
-      "publishedAt": "2026-10-06T08:25:26+08:00"
     }
   ]
 }

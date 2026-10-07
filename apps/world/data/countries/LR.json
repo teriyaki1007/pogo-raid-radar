@@ -1,7 +1,7 @@
 {
   "iso2": "LR",
   "name": "Liberia",
-  "updatedAt": "2026-10-07T11:05:30+08:00",
+  "updatedAt": "2026-10-07T17:08:40+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "Regional Consultations Begin on Liberia’s CVE Strategy",
+      "source": "United Nations Development Programme",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOFVqeThBd19xZ2J3cUxvdmpveXNfVEhfZHo1ZjdOTnJtVWtCWkhVQ0VRRlEzSGNqMjR0WE5mTlhuVzVDVnJHRi1yWFAxeDV2MVgtQUpVUFVsM3Vod2xkT0NVdk1wQ1p1WkdKdmwwRm9fRmtxWERFSGtHRGtoR3MzMHZiSFRUb0FDM1Z0UjkxTng4Y1JOS29ralV3?oc=5",
+      "publishedAt": "2026-10-07T16:47:36+08:00"
+    },
+    {
+      "title": "Why TSXV:BLU climbed on the TSX Venture Exchange ahead of Liberia's offshore licensing round",
+      "source": "kalkine.ca",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVDVfUjNXaDZXZUk0X0xLU2pmQkhIWTExMkw2STZDYS1xMEFwSEg3dmtPb2RmN25xUHZoR1puQzU1MUNBaDFhTU02SjZ1N1RZZk9qRXZjX0Z2aXFpQUpsVjZGMFhzZGpYbV92Nk1lekdHTFhEbEpZWnZuSGdHdWxqNUhjRUZzUi1HVmtsXzJHbG55QmVrYXVGbEJHMDQ3ZDlvQzUwaWEyb0J6aGRKb1ppdVNnLUZhZ0NSNTdJLU4waw?oc=5",
+      "publishedAt": "2026-10-07T16:06:00+08:00"
+    },
+    {
+      "title": "Liberia to launch 2026 offshore licensing round on 14 October",
+      "source": "Oil & Gas Middle East",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RaFRWVXJyVjNSVFVCOGgxRjJRbFRrQjF0X3pGQ3lndW5sQWt2RG9FRUd5UUlXMTFwNm9RTHBuSkxsZ1VaVnJOQ21aOEFxelBlZnZmdXdqSnJVazRRTzhPamwwcHJRT2kyMWtWMHlQaTVLNkVuenVQSVFGX2FfQQ?oc=5",
+      "publishedAt": "2026-10-07T14:44:55+08:00"
+    },
+    {
+      "title": "23 Indians rescued after Liberia-flagged oil tanker attacked off Russia's Black Sea coast",
+      "source": "Udayavani",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYjlvWlo0YUdLVTRWcEtKVVR5WmtkMTZtQjRhRTJiY2NkY1JJNzM4Rkk0M0cyMlE1WnFTRGVDdThOYmFwNUMxY183RjNwMXhqQ2hGWVhqMm9xODlpVzl1V2wyTllCSjAzVnU2eUc2bWJyUnBLNlBZYUV0Zm9FNW5rQTVMMnpLdFBFVHdIS0FkYlBYOGhnLXNEZEZ2dlZkU3JsbTVPNVAxVk5OdFZycU02M0kzbTA1eVlrb0FxVGtEbUVveUdpTmVzU1B3c2ZlRkVqdnBUblRR?oc=5",
+      "publishedAt": "2026-10-07T13:48:17+08:00"
+    },
+    {
+      "title": "Ex- President Sirleaf Challenges Liberia to Give Anti-Corruption Laws Teeth",
+      "source": "liberianobserver.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYXV3ZmIzemdINDV2VDhtS01YaFNDWjJsVWJpUlNKZHQxUE85SEprZWdnVGtGSzZnTXNwNWtrRmRsejNEbkxWTFRnYm9VWmZxOWdsVU9YZi1QSFJ6c3RDbzQ1ZUJqaXRGXzNNSWg4VGtpa3JpWTk1SDAyT1JYTnlHMkQyempkRUg3VXdXeE1ZTGRyS3ZoSnh6bHY3d0t4cUFmcDJqYkYyV2NKNnRRdU9ON19Ob0cwaUFaXzJjOWpyT0tOYTlfNEtuVmcwcHk1aERQREpUVWFvTHp1WlpfZUFaWXVPMlY2d05yX3BPem12dkVpTmRoUHc?oc=5",
+      "publishedAt": "2026-10-07T13:37:00+08:00"
+    },
+    {
+      "title": "India works on maritime pacts with Liberia and Panama as attacks on shipping continue",
+      "source": "Maritime Gateway",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWV9ERTF4Z3VWa3BSX3VqVi1qZE1mbHh6QzZoLUJLenF1ejBEaUVuZVVZX1pobUV5ei11SEVIazI3QVdxLXNxV2xuQTRYTDVIeThEU3BfNXZkZUdmUEpVM0k2d21Mc1hXZGdBR1R3UGlHdm5iN2ZLT3BjOEgzeTc0dUpEaDMzZVdLZGJYNHN4Zm9zM1RFWDljdVlDSjA2WEZqRlVDYXZGck80VzNER2hhSlI0bjBNV2hwT2c?oc=5",
+      "publishedAt": "2026-10-07T11:25:49+08:00"
+    },
+    {
       "title": "Hearing on Trump's effort to deport Kilmar Abrego Garcia to Liberia canceled",
       "source": "Modern Ghana",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5lX0hxdm50WnlkeHpPTHp6UllyT0taWTRBN2dOMU9mTDR5OVkwa3dKS3FaUXQ0WmtnbC1YTjFVV2FuaWxyZV9VU1RNT1JZN2c2a2xXUDdpdnlWelRPZVBJ0gFcQVVfeXFMT3JZdWFCS1ZCczZOOXVTcUZwY3ZEMHJXd1VhUmwxdmNsRmw4R2lQcUwyc2E3TUhLTmd3Y19iblZndUVmRXRiNTlQcXFpeUxNQjdqWjh5Z1RvZlB0aWg?oc=5",
@@ -40,42 +76,6 @@
       "source": "KTSA",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZElfOHQ1am9BcXllamUyQzNIZXk3a2R2U2RBeGdPSmhYYW1vVzg0djRNbTVDTFZLYXVhRGJuMnNZZnV4dmhFNTZEODc1Uk9ZNjBMWlZoZUtrankwTWFDUHpLNWItQkRyR3lBR3Q0cllveGl1RE5XcWYxNFhaUFhDRFZiTjBQWlFxMVFZT3hsXzFVTm1V?oc=5",
       "publishedAt": "2026-10-07T02:15:00+08:00"
-    },
-    {
-      "title": "Ms. Global: Sweden Ends Reproductive Health Support for Liberia; U.K. Bans Trans People From Bathrooms and More",
-      "source": "Ms. Magazine",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMlBYcEJRV1luUFE5TVpWZGZWeXExTnoycjBBQnpVTWN2YS13SDg3M1VNMkpFNU5NbWVSWlVYejlRUlRsX3hpOTJWN1VXc1RTRDN3b2VENnZsTmpXQXA0R0pLVkZVcERfS0VkMDBmUGJXS2hlMHJ6LVlidWJFQ1FWZEh2UjVTNUVkSVhUZU1DbmpWdDFFcUZpcA?oc=5",
-      "publishedAt": "2026-10-07T02:03:43+08:00"
-    },
-    {
-      "title": "Fire erupts on Liberia-flagged oil tanker near Russia’s Sochi: Authorities",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORzVjZlNMQm82S25BLW93eVJKM1VoZVRkUjlXcnNfLXBlSE5NLVpvbFEtR1c0QUxGYlNHbFktWGd6TmdhWC0zMWd3d3FkLW1pTkJxaGhuU2hqajNaTUhsY2tQRXViNk1KMGpzQ3R6NUtBb2NZdWdnVkthV2VRdlZseXF1bHZBOU1ZMjVhamVBc2JseGFGZ05jS2RYRlpRbGRtSjZYaVRqbkw2bjFzTXIxSmJR?oc=5",
-      "publishedAt": "2026-10-07T01:59:56+08:00"
-    },
-    {
-      "title": "Livelihood, Innovations, Food Security and Entrepreneurship (LIFE): Supporting rural households in Liberia to strengthen food security, income and resilience",
-      "source": "ReliefWeb",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOc3I1ZjRRR21IMFRCdlFydFpwaXAwbVdVMEVkY0J1Q1g5cE5qZUs1aW1VcmlUUTZuTkNPVlB4WjdQTm5aUVhnWkRvVGoyc3djbFFHaHBjMXBPaHRWcW93YTB2R1lGTWJiZHQzenNfYV9QZDZFQmhjaEZkMWlIUGhmM2tzZUhiV19IN0ZtX1hzZkU3M09VY3ZMYlJVaDBOSU1pQVMwWGwwek1ERXZCb0Jhby1SQm9ZQ1RqdTlkaVFyenNiMlVPbnpsU1JISUdlU0xvWHcwN25iNEo5MUVsX2RKaUlXSmJmWUZWYW1YQmNpbk9nb2hmejU5YTE2M0hxVDlmQUY5Ql9JWG9LQVRJS3Bn?oc=5",
-      "publishedAt": "2026-10-07T01:03:14+08:00"
-    },
-    {
-      "title": "Kilmar Abrego Garcia to be in court to fight deportation to Liberia",
-      "source": "upi",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOE9YNnN4RGt3S3hDQnU2Q2dOUEE2U1VyLTdhRm90QWJlald0RTNsTGw2SjFGTjMwQ1pMODNMU2QwdjdOaUU3SzF1ZTFBdnNIekdOcGN3bzY4RmhNM2RuUGRTbEFlNGFBRlB5ZFRYXzNXMmJRUU5LUEZfQ1RKUVJVREFfaFBjV1ZmTjFpQWxIRmYxR1hBcXVNT0w1c9IBoAFBVV95cUxOQjIxZzd5ZmwzSXg4bl9GOGlGZ0E4ZmZKU3JVNUZIbWFXWml3SjFQNjZudVRNSmxNUjl0bGlhZmo5VkNhcVNvZ0Z6bm14TjJMa2RwaVdzNTIwMmN2bjZ2cVdBbVliVkp2SGVNMW9QZVdNNjZ6Zk1RQUx3QXZ0Q01ZVEZ5bS14UExUSi13Y05hMU1rYXV1dVN1YUI3Tl9lWEFU?oc=5",
-      "publishedAt": "2026-10-07T00:06:22+08:00"
-    },
-    {
-      "title": "Kilmar Ábrego Garcia is set to be back in court as he battles deportation to Liberia",
-      "source": "Daily Independent",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaGJ1Z29Mc1pmbkplMExlZHVSeF9RUldseXl2Wi1xVzlrT3dsemJaaV8yUUNKZXE1Y2FGR1Q1MDdaN0Ryc0lzRE4wcFMxUW9RMVZyWmtfbFNzMnk2YURvSnhWUXVhalJUUW5GOHJvSmxKQzJVdGc1U0o2bFBtemZDZENybnU5XzdSaXpWUU9YTldWak45SzdhaWc0WjZwZXlzSGdRY2NwLTkzTjhqajd2MmZaaUNSSmpNUUlmUWVRaWJsQlZoaGZHMG9JeUd4UWVXMzRiMTFic2s1STUzVGlBOTloQWkyRktoTEk1QTJTQUlsZnJaRmlXTDR2UQ?oc=5",
-      "publishedAt": "2026-10-06T23:11:46+08:00"
-    },
-    {
-      "title": "Hearing for Kilmar Ábrego Garcia abruptly canceled as he battles deportation to Liberia",
-      "source": "PBS",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZUYyWjFXcTlRWWtBbXNtWmJtQzFXb25TX2kwbVVfT2hLN0FLdEtWVzd5NFowTGhwcDBKc1RUT1hRZzB0Ri03c3hyMjVDc3VFd0lzZGZTM1c3UVk4VUlEeEpoOGY2UTEwY0pBb0Z5XzJoWWM5clE5YTAyZG5uYk1VaDJnMHFkUTNmbmZpNy1lam5hVTV2bzVZOU1lWldkcnczZUlhMUNoZDB2blQ4RDZ5Y2h1TEFJVWFiLVlOdWhsQQ?oc=5",
-      "publishedAt": "2026-10-06T23:08:34+08:00"
     }
   ]
 }
