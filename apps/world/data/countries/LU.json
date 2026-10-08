@@ -1,7 +1,7 @@
 {
   "iso2": "LU",
   "name": "Luxembourg",
-  "updatedAt": "2026-10-08T11:06:58+08:00",
+  "updatedAt": "2026-10-08T17:02:30+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,22 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Luxembourg council officials only informed government of €400k fraud after four months",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa29jOGRldmRvdmhHU0VBZjAtSUlFSTBiUVl4aXVMWUJrS1NzVDZXQ2lTcEh5c2hZWG50Q2JEcWw1amxhRFJoTVI1cHpmcW9zaFRzZ0dRTzJWc0hneEJ4ODBnWXJGUVZtTGFGY2o0YVV0NnU4bHQyTTRxdnBxSXFrVkdCN1N6aWUzbldCaDhTblJlT2pQMjhnbVJUOGFPTk5VTXpXbFYxVDFtNGN4dFFTc2VlSHI4Yjl3bm1LbWs2OHpyUVZJRENaSDE2REotVlJC?oc=5",
+      "publishedAt": "2026-10-08T16:55:19+08:00"
+    },
+    {
+      "title": "Online porn company fined again by Luxembourg regulator",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMVpVdUNaM1VWRURhSExmWC15b3ZuVUFrMTA5Z1JaLUhqVjZPVU8tblV3MnNpbDhRaHF4YUFUelNqZTNOOFI2WExBb0IzMUduUVJoU0ZmSjl1cklPc2tLb2UtSlFlZDEyUW14Y0pBZ0xjajBEdGtkMXR1dEp1ZVMxZmQ3WHJ0d0pfMjBkMllRQ3NRdWd2MmZuOC1FVHphU0gxY3BwMmF1ck5OUXFqZ210Z2sxdw?oc=5",
+      "publishedAt": "2026-10-08T16:17:41+08:00"
+    },
+    {
+      "title": "Baroness Catherine Ashton to deliver this year's Churchill Memorial Lecture: British-Luxembourg Society",
+      "source": "RTL Today",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPN2RtU2YxeUJxMk5TRW5abFBIakFXc1pEclBDZ1FucnhVT1RCOUg0UDZlc2RuOEhpek9SbFBqeVdsV21vTmpzOXdEdkt2b1dLS0htd2ZDenVDNEswdmtzdkRJZDlUemh4VVAwNmhhN2VSTzdsNlNCUHdYLVJ5SllfMzZIdTdTdkNBWjFpRW02SXY1NEIzU3VJbFdsMGpORTRBaW5KcDdBVVVTdUNINFhHdXJiaWdOVEJVS3ZLT3h3RQ?oc=5",
+      "publishedAt": "2026-10-08T14:04:54+08:00"
+    },
+    {
+      "title": "Reports of second plague death in Russia, Luxembourg budget under scrutiny, and evicted Spanish pensioner dies",
+      "source": "RTL Today",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSXV2RE5QR3JBaFFueVJTWkk2ZHJycm1OWkpTVjU0akJiUk5KalJnT2R0ajU3bEg4bXFKdDdydzNVOTR1NXdXQmQyWENWS2pxRHV5VWFFcFYwSEFRSzR3ZEtEbEVRYmkteFIwSmRsNkZLV3UwRFRvZjdiNXJmekJjWHJzTFVhRGllUXhnRkcyNWVnSW5KdDNMOWVlWHdlV2kyWmxtSXd4Z1ZwNmViaGpSb3BmV1lQdzZlUWdncW1qOS0taUFLdl92dEx5SzFsamVxVjl4OXBTelNRZG5Nd2dKYnlmWQ?oc=5",
+      "publishedAt": "2026-10-08T13:28:47+08:00"
+    },
+    {
       "title": "CACEIS to acquire Edmond de Rothschild's third-party asset servicing business in Luxembourg",
       "source": "FStech",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3ZOY2RITXhfazc5V3pJUE54VVNHRzdjZTlDS0ZxMkxWdUwxNHowN3FPWHo0bFVqM1IwcWwtM1N1ekI2VjBZN3BtaUgwX19pRFNCQzdITk1tbW5iY2h5N1Rja0FQMGNqcGFGamwzUUhLcXVfZjdMMVo2T29kaVQ5b3JNdFJUTC1oN3JlaGxwLXlOZnYwUk5QMXF2Um1wNThPZWdGdDlmNU8tbGZJVENRRWZrdk1ObFlFR0RJd25B?oc=5",
       "publishedAt": "2026-10-08T06:36:46+08:00"
-    },
-    {
-      "title": "Soaring energy prices cause Luxembourg’s inflation rate to jump to 2.9%",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVpweDM3ZTJOOXNhdlRVd0x5T1o3TURHd0tFbTVtZUtZcHBhTEw1LUpfMEZjRFlna3FpMnFpQ2xCdDIzcWppOVFmeWNVWVVWQUo1VmhpM2hxeDJzWVBRblVWS0sycE1NOExIa2huNjhLcVJWNGI1em4zTVpTVmZhcGNCRmZCTWlPcndHRU5wbTRGRG1sQVBMdVdFdlhJTFNfa2tMWk5rOWFCN24wN2pRU0RsdVFJNUFjT1N3?oc=5",
-      "publishedAt": "2026-10-08T05:00:00+08:00"
-    },
-    {
-      "title": "Payconiq’s switch to Wero opens door to new phishing scams in Luxembourg",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkFOSmNFWVg0dGQ3S29kODl6Zm9wNHRWb2NKRnV6XzRhVlJkM2w4X3hhajJkNkdSY01yVllTWHpDcDJ4OGFHUkxPUGlNTlVzNXRpdU9pOHF3ZEJwS2l3TEdyMmN1Vjl5djd6bXA2YTZyQWtOQ2E2MUdEWEFJLVljb3dLbUFGV1gwMnB5SUlfTFZfcFp4eGFFRlc0WWFsNnRGbURoWnBGaUtFaHd2bk9VUWt1LVg0Qk1xbDBrUkpzNzB0MU5udFhteA?oc=5",
-      "publishedAt": "2026-10-08T04:00:00+08:00"
     },
     {
       "title": "Tomáš Raška’s Natland invests in Luxembourg real estate abroad",
@@ -64,18 +76,6 @@
       "source": "marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYm5Ed1hJX2piZERGSWF2Qm5jTUo2UXhocWlOakc2bGtUMDg0Q09NVUdNaHEtZHZIY1Aya0lJZmJSNGdHU1ppMnYtam5Ra0RYYm5HdHhpRHRZOGFPNXNVMG9ta3pWd25qM2NRMllIYnVQeXZPcVo5cVQ3MnI2eGk4TFhpMnZvNzhwNGFCN3pUcTRMc3lWOGt2OW1ubk1uVGg4eGd6T1RjYVEweDNuaXJhRWN3cWVQeFF2Mm5VWGpvdGt5N1k?oc=5",
       "publishedAt": "2026-10-07T21:37:20+08:00"
-    },
-    {
-      "title": "Rugby Europe Conference: Squad announcement for Luxembourg's upcoming fixtures with aspirations for promotion",
-      "source": "RTL Today",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcTFySjh0MU15RXM2WEhUdGU4aDhsRE9YeG1iX2c0YnhUdF9mcDdBQmdzUEdDRWJnd1lvVU01d19FOFhlSmRocDNLbmFKeUZIZzNvVkFmMmtyelNmVzhfXzNKd0N5UkxvU1B1N0NSMjhJTWNQelVuVDF0MHVHNDZTODFZYTFibUk1bkp3bXhrcldEMWVtUDY1QkMwQQ?oc=5",
-      "publishedAt": "2026-10-07T21:23:56+08:00"
-    },
-    {
-      "title": "Luxembourg Inflation Rate at 5-Month High",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmJKeEtlSU84Wks0V0gtYkpIN1pfTl8tdFFobkN0dWlLdWhmZUJrU01NTVcxUVplUHZfNGI2M1FZbkQtSW11eUM4YmlZQ3V0djJ1TU9hcWptU042U1ZkTDF3ODQtaUdpOEtkN0tmMjVqempsb1FtYkJnblZmdGpFVFQtWUJodVRsOHFnWmpPR2tldDZMbEZJ?oc=5",
-      "publishedAt": "2026-10-07T18:28:38+08:00"
     }
   ]
 }

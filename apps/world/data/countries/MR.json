@@ -1,7 +1,7 @@
 {
   "iso2": "MR",
   "name": "Mauritania",
-  "updatedAt": "2026-10-08T11:06:58+08:00",
+  "updatedAt": "2026-10-08T17:02:30+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "U-23 AFCONQ: DR Congo to face Nigeria after eliminating Mauritania",
+      "source": "Daily Post Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUNNeEloeGt5OUtfZVBUUXBfZzFWMXNyVEM2UEVZQ0NRcld1SF9kV2o0SVVHQjNOOS1jNEloQXB1N1BNYjZ1VmZGRVBWdXgzUVBxOUlabkxDdVFoeUhPcHZ1Um00MHF5bC1xX09wUTdkRFU2ZGppQVBCZTc2OUV2LU5oUVdaSl9RSVhORHE1c25lWlg5VEpyRjRqaUZaUUk?oc=5",
+      "publishedAt": "2026-10-08T16:50:19+08:00"
+    },
+    {
+      "title": "Mauritania | Population Movement Operation Update #4 (MDRMR017)",
+      "source": "ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTJyNFNmNndublp0VlhZdjBncWQ1UWlkRzlsLTRSUEJuSXptNU1ldTZBTzl0XzY4NkFadUhpMGo4b2wwVzV5cmsyblMyUGY2bTdlNVhRbmVYeW9Ea0dGSmNvZ0ozZkNGYlBGamhYaEUzZDdnZGU1RGlRRVRTUlZqY2hWTFlfUnZQUGpCYkM0blp6d0R3SVlfdUh6ZW1ZMEk?oc=5",
+      "publishedAt": "2026-10-08T10:12:59+08:00"
+    },
+    {
       "title": "DRC: Fecofa congratulates Leopards U23 after 2-0 victory over Mauritania",
       "source": "ACP | Agence Congolaise de Presse",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZGhBc3dkckMtX3VXa1RCWWsyeXV6N2RRQ3lLUGlvSWFoaHBicWZVa3N5dVpmU2JqdGZfbjZ2cVY0UHpZckRKTmkySGVHcm5GR3U0LWRNU29rbmE5aGdKMGRfemlQanNFV2s3NWpyd0FuUGxGWjI0VDdiSEVrRVBOVEc2QXBtNWZZS1VxbEw2bWZqdEM3Mzd4TnZZdw?oc=5",
@@ -54,22 +66,10 @@
       "publishedAt": "2026-10-07T13:35:08+08:00"
     },
     {
-      "title": "U-23 Africa Cup of Nations qualifiers: DRC beat Mauritania and advance to the second round (0–1, 2–0)",
-      "source": "ACP | Agence Congolaise de Presse",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMXcxTU51dEdEU2ZHd1RNUlFzdi01aVlmS2VVUUZYWElBNko0Y2hybVZOVHNRbDVVMDFrRzhWOTE2RVBPTS1IYkY1TUgwWjJQTTVsalhBcFM4cHNlNkNodnB6WEU4dUg5SzJocTRQU2sxekIxUXk3SUJkYl9HV3FNQk44Y0NOeDFZeWlQWVd5SGdSYzZTQ2l6LURPSE1GQ3JtcGlBZldpV1JXN0VXd2hMY0NlcEYyS1FrSG5zYl93?oc=5",
-      "publishedAt": "2026-10-07T07:39:59+08:00"
-    },
-    {
       "title": "Elite Agro Holding announces AED 660mlnin agricultural investments across the UAE, Morocco and Mauritania",
       "source": "Zawya",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeFNYYlE4WFdYUTBYU3E4ZVNIVEhjV0xzbUFlNnBTc0dSUm1LWngzY2VDTWVhZnV1TkVOcFN2WTBHUm53SV9GZ00wWkV3SGhHVF8tWDFoRE5yV1NDRU1PTl8tZkoxLXhqRkFyaGxOX3dXeTFPMTVyWjI3OUY4R0ktaTFzc0ZjV3hJUjh3WS01LTd2bXZYbVNwSGxwS3FmQ3U2ZGZQNU1UMlh5Z3BUZmFrNjRwVC1yOGxWSWVES1N5X0pCTEQyNVhPak5maG0xZnNZRy10LVRHODhiR0dhZUd4T3BqdG1rNU1zSkk3VkxxMUwwRmI0OXdwWWVB?oc=5",
       "publishedAt": "2026-10-06T21:06:00+08:00"
-    },
-    {
-      "title": "Guterres report: Mauritania demands guarantees on Lagouira",
-      "source": "Yabiladi.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUTdPcVV5X05TOFhVMVFuaGJpMm1MV3JfTFlMLVZEQ2FsbEw4bnEzLUNHYkZna050R3VUdGtoUVFQSXdmRnFHV242ZjBsM29WbGpJVUF1dTlXZWFyaXFibFpkRi1fak05OURpOEh2bUlJcU9rNnFQeUNESG1GUGs3Q3ZkNnVkdWRXVGhUN1ZQamx5Ukw0T2IyWFBTa3h6Mzg?oc=5",
-      "publishedAt": "2026-10-06T17:55:02+08:00"
     },
     {
       "title": "4.5 million meals distributed in Mauritania under '100 Million Meals'",

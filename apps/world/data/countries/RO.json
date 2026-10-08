@@ -1,7 +1,7 @@
 {
   "iso2": "RO",
   "name": "Romania",
-  "updatedAt": "2026-10-08T11:06:58+08:00",
+  "updatedAt": "2026-10-08T17:02:30+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "Romania Orders 12 Airbus H225M Helicopters to Begin Puma Replacement",
-      "source": "The Aviation Hub",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81SW5nc1FDbE0xUHpSRlpwdzF3bkpKWDh1NTIxQUFKdjU5MzhnZmRQSDlVNlhtZmdSMGxzdF9zZHZiUUhhTmppZmQtWjRYdE8ydnhkRU5sQWJMMEU0Wlk4aVlxTW1YXzlGcjdHZzhZdGtJOExNbVRBdg?oc=5",
+      "title": "Romania Orders 12 H225M Caracal Helicopters",
+      "source": "Мілітарний",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY1lXM1l6azZzQmdRLTFUWmlVazRsSno5ZEhnRjZlbXJtRHpUZUNsbTVqV3NPVjROQlljdXQ5VU1rVk5mVjg1SlRyMl83eHhkby1qSHR5VGFqaG1LX3FTM2ZsU3pEejIteGszc0RUamRJTjduNElpUDBhQmhSaVFESQ?oc=5",
+      "publishedAt": "2026-10-08T15:42:59+08:00"
+    },
+    {
+      "title": "Romania orders 12 Airbus H225M helicopters to replace Puma fleet",
+      "source": "Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYkJNODQ3S2ZFV2ZqekRaUm9vUk5DTGpRbnZoMGdjQkhfa3VhTWlBM0tBUjFyTUMwU2lqUC1PbDZ5ZGhNUUxUY3QyOWlBVWtDNkN5UERETFlKei1lRzhJTnB5MEpnN09sWHZ3M1FrMHZrVGlqVDR2QXF6b2VWV1ZQN2Q1REdCTGhORFJWSXpiMmNUVEFvR3FGc3o3M0FrYU0?oc=5",
+      "publishedAt": "2026-10-08T15:36:27+08:00"
+    },
+    {
+      "title": "Bolt for Business appoints Romanian Bogdan Clipici as Regional Manager for 3 countries",
+      "source": "Romania Insider",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONkdRVjg0ajU5ZzhkOWFoVlRiOEVCdmJ1WGhoTVRab0RKemcwbG12RTZpQlFZQU9qdXBLUFIxR3ZRdGZMaWFMM2tQY2VKd2N3WW5zbGU1T0tEMzc3WXJLbWRvYkgxaWhFci15cXJMdmFvVlhHQVlNUTh3UW1BWUZpZnZtWVd5MlNtdWtVRk45bnM5UTgtVHJ5Y1B3RUtRMURvZndUaHJtUQ?oc=5",
+      "publishedAt": "2026-10-08T13:33:53+08:00"
+    },
+    {
+      "title": "Over 300,000 people expected at Romania’s largest religious pilgrimage",
+      "source": "Romania Insider",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZU9Kb1VsVjg5a0J6X0twY3pPbDFaQkdudDBfN2dQTlJBRGpGbWJHR2tBWXh1a0lnMGdxSWNaSU5aS2N2Uk96QUp5cW9tZDgwazJqQUM5ci1yd0hLelJZUms5SG96RzlhSTIzcmVtTFhaV0xhdEVMeEhtZnVvdFYxTWVCZlJnUGN3d05tVktzVUVKVlB1UVpCZmRybHBwZw?oc=5",
+      "publishedAt": "2026-10-08T13:11:54+08:00"
+    },
+    {
+      "title": "Emergency funds and extra capacity in Romania for Ukrainian Railways",
+      "source": "RailFreight.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPY2h1NENKV3J6ZEJ6Sjc1YmR3U1NQX3pDa3lyVktIQWRtdzNob1l4UGxud1R1TS0wRUJqaEc4TUVzdW1aN2M1NTU3blFrc2k5VGNQQW9aNWt6YWVpNHNKTFExemw4eU5xeWJwUUFEZTc5QjhEY2FGY3N6WjFOVnAwYkFlQWEwa3pKa2lKYXFQanFGX3hjcWdtdDNBWDc4T3o2cmNfQXozdGRJSUhodXZyaWpUanlEdWFL?oc=5",
+      "publishedAt": "2026-10-08T12:28:58+08:00"
+    },
+    {
+      "title": "Romania to Keep EU’s Highest Rates as Political Woes Weaken Leu",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkZrVS0tdkFBSHpGMVNzbVRIX0xoQnd4U0NOdTdUYldTM29RV3o5R3ZyYVVWVFFpczRnN1hGMThNUVFndnlLbVkwSTh0ZjNEVC13bjByX3o0cTBiRVhCeklrTzQ4cEZ4X0VmS21tSVdlaHFLWnJSaEVUZ0otcWRYeDF3U0p3UzhPOU94ZWo4ZVc4Z1ozeTQtOVNkWm9YcTFPUS02a1p4V1NSYzlHejBBSU1OUDY?oc=5",
       "publishedAt": "2026-10-08T11:00:00+08:00"
+    },
+    {
+      "title": "Chile Trample Romania at Junior Challenger",
+      "source": "Americas Rugby News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1lIeEhZRC1ab21KU1RzZ3E3ZmsyNkZBSmFvUXNlRWpqY0s4M1EySjlrWnZlR0c3NENMQlpQdE9MZHlzOVgwV2w1enFHQ2ZoLTVQLThuaC1qMHhvNC0wRDNEQ0ZCQ3BrVGF6RGFMRThuUWJrU2dFVXRUaHNtanJRZFU2eTBYcnRMdVFVNXZjMXVUZw?oc=5",
+      "publishedAt": "2026-10-08T08:24:24+08:00"
     },
     {
       "title": "Freedom24 to open office in Bucharest",
       "source": "SeeNews",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jX1dMVnk3Y0pXNDBFNzJ1RlZVa2JxMUdQX19VaXJsZEpRaEI4eVgzM0RZWlpqd3ZXb0prLV9JeHBwYWNqZm8tRWZwckxqMmRoV0pUZ3lQT1dzbTJIVWhPbmRDbGxFejdoUUxaZ09SbWk4UzFkczhmMm1n?oc=5",
       "publishedAt": "2026-10-08T03:15:39+08:00"
-    },
-    {
-      "title": "Romania Residential Building Permits Decline in First Eight Months",
-      "source": "https://news.brgbuildingsolutions.com/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONGlwcTVZZmdZbURPVkphbGRRRVlBeU1wdzFVa0tvaFFfX3c4Z19iN25tSk05YjVRSXV3ZUpJdUpjOW9VekEybW1RajdJVzF2RHg3TTZFaENiWHZKeldGazFDYkVWM3I5eVNOdTBBYkozV2hkUXExUzZibGl3NXF3ZmxQcFZBQWxVeU5Za2JzOEQtNWhnWklqYzJBT2syRUhnVEotTm95ZFF5UjE3WkE?oc=5",
-      "publishedAt": "2026-10-08T02:19:58+08:00"
-    },
-    {
-      "title": "Eurowind commissions its first battery storage in Romania",
-      "source": "CEEnergynews",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WZ1E0dnBTZ1NBOVB0NDBnUURhQktlSWdZUGhHUFJsNzllVGRlVk9OY296Vk1EMU1BRUsydlFGSkxyLXdhZkJnU00yNlgwQ2k5R0RwaXJPcURMTDRXeDZTeUFBWjdQQzA1UXY4dFhYckFyeDdfNXl1Rw?oc=5",
-      "publishedAt": "2026-10-08T00:49:38+08:00"
-    },
-    {
-      "title": "Libya and Romania Discuss Livestock and Meat Trade Protocols",
-      "source": "Libya Herald",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSGl2S2xGaUJZOWhuVjIybGt6NGRQd3dUejlKN3pob05GLTE2ZDlQcmFQbF9FX3NXQWctd1ltak1NRnpabmwxUDgwSWpISDFFeXNzeE5TU1FxQUZyeVhLLWpMdHRueFE0RjJrZkRwd25tT3BqRXd1Q3pfaXQ3NlhMYzVRNkhjbTJxTVN1TDlLUFo3eTRkODRsaXlKcExMZnZNOS01QzJZbGRoazhPUmdOWE1rdFRpalBsWFU1Qnl6WDhxX25COHJqdw?oc=5",
-      "publishedAt": "2026-10-08T00:37:00+08:00"
-    },
-    {
-      "title": "Bulgaria to invite Romania and Turkey for ship security talks",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUHplUno5SFZ3VTRlUzcwYTNyZk9EbVBTRmI5amN1WWF5VHAxNTNwbVMxVjIxOW11bjZTUnNROEtpSU53QTZjakYtVUM1b3luRXg0UFpleVRIazlTRnRSY2lfcUh1NWk2dmpaTzNZZEFfWUdoRFFTTTFQMV82RVgteHh3QV9Mc3ZKTUVhMDV5ZG5RUHltYjcyazQ5Y0g5RVdTcVcyYm5ra19LR292X21iRzNfUGM?oc=5",
-      "publishedAt": "2026-10-07T23:32:36+08:00"
-    },
-    {
-      "title": "Ballard Wins 4.8 MW Siemens Order to Power Romania’s Hydrogen Trains",
-      "source": "ChemAnalyst",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNGVSRmhxQ292SDZ5MUJ1MV9BWkdieE01bGV1ZDBLaHNwWW5YNzk1ZXotWC1TSkZ1S1BIaE5ucHY3REl6bmhNQjdDNHY3b0xua0hSME5CRGNSamw1SVNQak02aTM0OWtDWkJOZno3NHBvakI5TGRCZU9qMXZNWVJHajlHYm9UazY3M2ptT2QyWnhVci1COWVpVHJTUFdEck55M3VoamR5amxLamtqREdPakVObTJYNjRRelg0?oc=5",
-      "publishedAt": "2026-10-07T23:16:27+08:00"
-    },
-    {
-      "title": "Nicusor Dan: Romania's relationship with USA is constantly strengthening, including in sphere of education",
-      "source": "Agerpres",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcV9vaFFGNE04cW9oUWg1aXp2R3M3Q2Iyc0NVRTNCMm1Kd3plWkwzMmpKM0JqTUZLaUFvRTNfVjdpNS10WWpEVXYxZVIzeE8yMzFOTmQwNVpCZGRmM0VVdlRWdVdEbkxDczFyc0FBZl9oRGQtSTFqRnJsNlBpQmlUNEtlam4xdWtJYi1CV2Zmc21FbFpWOVZzbDNFcXNMckJBM1ZUNGlVZnZiZFFCTGYxWkhBUXpYNjNhdXMyeE9kRkZvNl9ibFlMdjFuR19xTXdfWDI5eUFTZkFhR08yTzRLZjNn?oc=5",
-      "publishedAt": "2026-10-07T23:09:03+08:00"
     }
   ]
 }
