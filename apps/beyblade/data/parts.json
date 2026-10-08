@@ -1,69 +1,69 @@
 {
   "meta": {
-    "updated": "2026-10-07",
-    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG /parts/__data.json usage (2026-10-07 refresh; beywatch dataUpdatedAt 2026-10-06T12:06:34.897Z; lastTournament 2026-10-06; scope 3363/9771/33833 (+4/+12/+40 vs Oct 6); blades Ragna Rage / Golem Rock / Wizard Arrow C→B; CX Main Rage C→B; bit Level B→A; Low Rush back to #1 bit over Rush; 1-50 ahead of 7-60; lock Emperor #1 over Valkyrie; HK CX-19 Animes Pro HK$99 現貨 (unchanged); UP-NEXT HK$149 still sold out; The Club / TRU status carried over)",
+    "updated": "2026-10-08",
+    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG /parts/__data.json usage (2026-10-08 refresh; beywatch dataUpdatedAt 2026-10-07T12:08:04.327Z; lastTournament 2026-10-07; scope 3615/10681/34427 (+252/+910/+594 vs Oct 7 — large batch of new events); fetched via web proxy because direct box fetch returned HTTP 403; tier moves: blades Cobalt Dragoon S→A, Phoenix Wing A→B, Knight Shield A→B, Unicorn Delta C→A, Bullet Griffon B→A, Dran Dagger C→B, Impact Drake / Clock Mirage / Ragna Rage / Wizard Arrow B→C, Tyranno Roar / Samurai Saber C→D; ratchets 1-60 S→A, 5-60 B→A, 0-60 C→B, 6-70 D→C, 4-55 C→D; bits Hexa S→A, Level A→B, Low Orb B→A, Taper / Wedge / Zap C→B, Accel D→C, Gear Point / Wall Ball B→C; CX lock Unicorn B→A, main Delta C→A, main Rage B→C, assist Wheel B→A, assist Free A→B; Valkyrie back to #1 lock chip; no new parts; HK prices unchanged)",
     "currency": "HKD",
     "priceDisclaimer": "All HKD values are estimates (sealed retail anchors, MSRP-derived, or unknown ranges). Never treat as verified live listings. Meta shifts.",
     "viabilityNote": "Tiers mapped from BEYWATCH.GG: beywatch X→S, S→A, A→B, B→C, C→D, sparse/?→Unranked. usagePct = BEYWATCH pickRate × 100.",
     "topBlades": [
       "Shark Scale",
-      "Wizard Rod",
       "Aero Pegasus",
+      "Wizard Rod",
       "Blast (Emperor Blast Heavy)",
       "Cobalt Dragoon",
       "Meteor Dragoon",
+      "Dran Strike",
       "Wyvern Hover",
       "Glory Valkyrie",
-      "Silver Wolf",
-      "Knight Shield"
+      "Unicorn Delta"
     ],
     "topRatchets": [
       "1-60",
-      "9-60",
       "1-70",
+      "9-60",
       "1-50",
       "7-60",
       "3-60",
-      "3-70",
-      "5-60"
+      "5-60",
+      "6-60"
     ],
     "topBits": [
-      "Low Rush",
       "Rush",
+      "Low Rush",
       "Hexa",
+      "Narrow",
       "Elevate",
       "Kick",
-      "Free Ball",
       "Unite",
-      "Narrow"
+      "Free Ball"
     ],
-    "updatedAt": "2026-10-07T09:15:00+08:00",
-    "metaAsOf": "2026-10-07",
-    "usageSource": "BEYWATCH.GG /parts/__data.json (dataUpdatedAt 2026-10-06T12:06:34.897Z; 3363 tournaments / 9771 top-three / 33833 combo slots; lastTournament 2026-10-06; usagePct = pickRate × 100; tiers X→S,S→A,A→B,B→C,C→D,?→Unranked; advanced vs 2026-10-06 dump)",
+    "updatedAt": "2026-10-08T09:30:00+08:00",
+    "metaAsOf": "2026-10-08",
+    "usageSource": "BEYWATCH.GG /parts/__data.json (dataUpdatedAt 2026-10-07T12:08:04.327Z; 3615 tournaments / 10681 top-three / 34427 combo slots; lastTournament 2026-10-07; usagePct = pickRate × 100; tiers X→S,S→A,A→B,B→C,C→D,?→Unranked; advanced vs 2026-10-07 dump)",
     "usageScope": {
-      "tournaments": 3363,
-      "topThreeEntries": 9771,
-      "asOf": "2026-10-07",
-      "comboSlots": 33833
+      "tournaments": 3615,
+      "topThreeEntries": 10681,
+      "asOf": "2026-10-08",
+      "comboSlots": 34427
     },
     "topLockChips": [
-      "Emperor",
       "Valkyrie",
+      "Emperor",
+      "Unicorn",
       "Pegasus",
-      "Dran",
-      "Unicorn"
+      "Dran"
     ],
     "topMainBlades": [
       "Blast",
+      "Delta",
       "Blitz",
       "Rage",
-      "Delta",
       "Eclipse"
     ],
     "topAssistBlades": [
       "Heavy",
-      "Free",
       "Wheel",
+      "Free",
       "Jaggy",
       "Slash"
     ],
@@ -100,9 +100,9 @@
       "code": "UX-15",
       "notes": "#1 blade by top cuts; under-scoop attack + stamina to spin-finish",
       "shorthand": "Scale / SS",
-      "usagePct": 45.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 4409 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 44.8,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 4781 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/shark-scale.webp"
     },
     {
@@ -132,9 +132,9 @@
       "code": "UX-03",
       "notes": "Highest win share; default 3v3 stamina anchor",
       "shorthand": "Rod / WR",
-      "usagePct": 62.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 6059 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 60.7,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 6485 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/wizard-rod.webp"
     },
     {
@@ -163,9 +163,9 @@
       "code": "UX-00",
       "notes": "Consistent #3 meta attack",
       "shorthand": "Aero / AP",
-      "usagePct": 21.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 2057 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 20.1,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 2148 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/aero-pegasus.webp"
     },
     {
@@ -192,16 +192,16 @@
       "code": "CX-07",
       "notes": "Top CX stack by beywatch; often Emperor + Blast + Heavy",
       "shorthand": "Blast",
-      "usagePct": 12.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 1225 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 12.1,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 1293 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/blast.webp"
     },
     {
       "id": "cobalt-dragoon",
       "name": "Cobalt Dragoon",
       "type": "Balance",
-      "tier": "S",
+      "tier": "A",
       "hkdMin": 100,
       "hkdMax": 150,
       "pros": [
@@ -222,9 +222,9 @@
       "code": "BX-34",
       "notes": "Premier left-spin counter",
       "shorthand": "CD / Dragoon",
-      "usagePct": 23.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 2297 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 22.5,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 2404 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/cobalt-dragoon.webp"
     },
     {
@@ -253,8 +253,8 @@
       "notes": "Expand Blade (ratchet integrated); climbed WBO Aug 2026; bit-only (no separate ratchet).",
       "shorthand": "GV / Glory",
       "usagePct": 1.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 159 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 174 games in scope",
+      "usageAsOf": "2026-10-08",
       "ratchetIntegrated": true,
       "image": "img/blades/glory-valkyrie.webp"
     },
@@ -283,9 +283,9 @@
       "code": "UX-17",
       "notes": "Left-spin defense/balance",
       "shorthand": "MD / Meteor",
-      "usagePct": 6.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 675 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 6.6,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 709 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/meteor-dragoon.webp"
     },
     {
@@ -313,16 +313,16 @@
       "code": "UX-00",
       "notes": "Also called Hover Wyvern; lighter ~35g class",
       "shorthand": "Hover / WH",
-      "usagePct": 19.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 1943 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 18.9,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 2021 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/wyvern-hover.webp"
     },
     {
       "id": "knight-shield",
       "name": "Knight Shield",
       "type": "Defense",
-      "tier": "A",
+      "tier": "B",
       "hkdMin": 75,
       "hkdMax": 120,
       "pros": [
@@ -341,9 +341,9 @@
       "code": "BX-04",
       "notes": "A on beywatch (high 1st rate, very low sample)",
       "shorthand": "Shield / KS",
-      "usagePct": 1.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 105 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 106 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/knight-shield.webp"
     },
     {
@@ -371,16 +371,16 @@
       "code": "UX-08",
       "notes": "Stamina alternative to Rod",
       "shorthand": "Wolf / SW",
-      "usagePct": 16.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 1611 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 15.6,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 1665 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/silver-wolf.webp"
     },
     {
       "id": "phoenix-wing",
       "name": "Phoenix Wing",
       "type": "Attack",
-      "tier": "A",
+      "tier": "B",
       "hkdMin": 75,
       "hkdMax": 379,
       "pros": [
@@ -400,9 +400,9 @@
       "code": "BX-23",
       "notes": "Former meta staple; still competitive",
       "shorthand": "PW / Wing",
-      "usagePct": 28.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 2820 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 27.5,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 2941 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/phoenix-wing.webp"
     },
     {
@@ -428,9 +428,9 @@
       "code": "BX-49",
       "notes": "Rising (WBO #5 mid-Aug 2026)",
       "shorthand": "Strike / DS",
-      "usagePct": 2.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 274 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.7,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 290 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/dran-strike.webp"
     },
     {
@@ -455,15 +455,15 @@
       "notes": "CX Main Blade Blitz",
       "shorthand": "Blitz",
       "usagePct": 0.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 86 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 91 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/bahamut-blitz.webp"
     },
     {
       "id": "bullet-griffon",
       "name": "Bullet Griffon",
       "type": "Attack",
-      "tier": "B",
+      "tier": "A",
       "hkdMin": 130,
       "hkdMax": 200,
       "pros": [
@@ -483,9 +483,9 @@
       "code": "UX-19",
       "notes": "Expand Blade Apr 2026; bit-only (no separate ratchet).",
       "shorthand": "Griffon",
-      "usagePct": 2.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 204 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 216 games in scope",
+      "usageAsOf": "2026-10-08",
       "ratchetIntegrated": true,
       "image": "img/blades/bullet-griffon.webp"
     },
@@ -511,16 +511,16 @@
       "code": "BX-31",
       "notes": "",
       "shorthand": "TB",
-      "usagePct": 10.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 1058 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 10.3,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 1095 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/tyranno-beat.webp"
     },
     {
       "id": "impact-drake",
       "name": "Impact Drake",
       "type": "Attack",
-      "tier": "B",
+      "tier": "C",
       "hkdMin": 119,
       "hkdMax": 179,
       "pros": [
@@ -537,9 +537,9 @@
       "code": "UX-11",
       "notes": "",
       "shorthand": "ID",
-      "usagePct": 3.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 299 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.8,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 302 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/impact-drake.webp"
     },
     {
@@ -563,16 +563,16 @@
       "code": "UX-14",
       "notes": "Stamina/Balance",
       "shorthand": "Spear",
-      "usagePct": 4.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 428 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 4.1,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 439 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/scorpio-spear.webp"
     },
     {
       "id": "clock-mirage",
       "name": "Clock Mirage",
       "type": "Balance",
-      "tier": "B",
+      "tier": "C",
       "hkdMin": 75,
       "hkdMax": 180,
       "pros": [
@@ -589,16 +589,16 @@
       "code": "UX-16",
       "notes": "",
       "shorthand": "Clock",
-      "usagePct": 2.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 272 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.6,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 282 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/clock-mirage.webp"
     },
     {
       "id": "ragna-rage",
       "name": "Ragna Rage",
       "type": "Attack",
-      "tier": "B",
+      "tier": "C",
       "hkdMin": 90,
       "hkdMax": 120,
       "pros": [
@@ -616,8 +616,8 @@
       "notes": "CX Main Blade Rage",
       "shorthand": "Rage",
       "usagePct": 0.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 63 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 64 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/ragna-rage.webp"
     },
     {
@@ -642,16 +642,16 @@
       "code": "UX-13",
       "notes": "",
       "shorthand": "Golem",
-      "usagePct": 6.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 585 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 5.6,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 599 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/golem-rock.webp"
     },
     {
       "id": "wizard-arrow",
       "name": "Wizard Arrow",
       "type": "Stamina",
-      "tier": "B",
+      "tier": "C",
       "hkdMin": 75,
       "hkdMax": 110,
       "pros": [
@@ -669,8 +669,8 @@
       "notes": "",
       "shorthand": "Arrow",
       "usagePct": 0.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 83 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 88 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/wizard-arrow.webp"
     },
     {
@@ -694,16 +694,16 @@
       "code": "UX-18",
       "notes": "",
       "shorthand": "Mummy",
-      "usagePct": 2.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 210 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 209 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/mummy-curse.webp"
     },
     {
       "id": "unicorn-delta",
       "name": "Unicorn Delta",
       "type": "Balance",
-      "tier": "C",
+      "tier": "A",
       "hkdMin": 75,
       "hkdMax": 180,
       "pros": [
@@ -721,8 +721,8 @@
       "notes": "CX Main Delta",
       "shorthand": "Delta",
       "usagePct": 1.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 120 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 129 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/unicorn-delta.webp"
     },
     {
@@ -746,9 +746,9 @@
       "code": "BX-02",
       "notes": "Defense/Stamina",
       "shorthand": "Scythe",
-      "usagePct": 2.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 282 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.7,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 292 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/hells-scythe.webp"
     },
     {
@@ -772,9 +772,9 @@
       "code": "CX-09",
       "notes": "",
       "shorthand": "Eclipse",
-      "usagePct": 0.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 89 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.8,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 88 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/sol-eclipse.webp"
     },
     {
@@ -798,9 +798,9 @@
       "code": "UX-02",
       "notes": "",
       "shorthand": "Hammer",
-      "usagePct": 1.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 108 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 112 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/hells-hammer.webp"
     },
     {
@@ -824,9 +824,9 @@
       "code": "BX-00",
       "notes": "",
       "shorthand": "Drake",
-      "usagePct": 1.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 106 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 110 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/cobalt-drake.webp"
     },
     {
@@ -850,16 +850,16 @@
       "code": "BX-01",
       "notes": "",
       "shorthand": "Sword",
-      "usagePct": 1.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 175 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.6,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 176 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/dran-sword.webp"
     },
     {
       "id": "dran-dagger",
       "name": "Dran Dagger",
       "type": "Attack",
-      "tier": "C",
+      "tier": "B",
       "hkdMin": 180,
       "hkdMax": 250,
       "pros": [
@@ -876,16 +876,16 @@
       "code": "BX-20",
       "notes": "",
       "shorthand": "Dagger",
-      "usagePct": 1.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 95 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.9,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 94 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/dran-dagger.webp"
     },
     {
       "id": "tyranno-roar",
       "name": "Tyranno Roar",
       "type": "Attack",
-      "tier": "C",
+      "tier": "D",
       "hkdMin": 180,
       "hkdMax": 280,
       "pros": [
@@ -902,9 +902,9 @@
       "code": "UX-15",
       "notes": "Also Roar Tyranno",
       "shorthand": "Roar",
-      "usagePct": 1.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 142 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.3,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 143 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/tyranno-roar.webp"
     },
     {
@@ -928,9 +928,9 @@
       "code": "BX-45",
       "notes": "",
       "shorthand": "Calibur",
-      "usagePct": 1.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 182 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.7,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 185 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/samurai-calibur.webp"
     },
     {
@@ -954,9 +954,9 @@
       "code": "UX-01",
       "notes": "",
       "shorthand": "Buster",
-      "usagePct": 4.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 454 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 4.3,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 464 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/dran-buster.webp"
     },
     {
@@ -980,9 +980,9 @@
       "code": "UX-10",
       "notes": "",
       "shorthand": "Mail",
-      "usagePct": 5.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 508 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 4.8,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 518 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/knight-mail.webp"
     },
     {
@@ -1006,16 +1006,16 @@
       "code": "BX-14",
       "notes": "",
       "shorthand": "Edge",
-      "usagePct": 4.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 390 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 3.8,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 403 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/shark-edge.webp"
     },
     {
       "id": "samurai-saber",
       "name": "Samurai Saber",
       "type": "Attack",
-      "tier": "C",
+      "tier": "D",
       "hkdMin": 140,
       "hkdMax": 180,
       "pros": [
@@ -1032,9 +1032,9 @@
       "code": "UX-09",
       "notes": "",
       "shorthand": "Saber",
-      "usagePct": 2.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 206 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.9,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 208 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/samurai-saber.webp"
     },
     {
@@ -1058,9 +1058,9 @@
       "code": "CX-01",
       "notes": "CX Main Brave",
       "shorthand": "Brave",
-      "usagePct": 1.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 108 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 112 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/dran-brave.webp"
     },
     {
@@ -1085,8 +1085,8 @@
       "notes": "",
       "shorthand": "Garuda",
       "usagePct": 0.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 73 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 75 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/crimson-garuda.webp"
     },
     {
@@ -1110,9 +1110,9 @@
       "code": "BX-36",
       "notes": "",
       "shorthand": "Whale",
-      "usagePct": 2.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 250 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.4,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 255 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/whale-wave.webp"
     },
     {
@@ -1136,9 +1136,9 @@
       "code": "BX-21",
       "notes": "",
       "shorthand": "Chain",
-      "usagePct": 1.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 115 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.1,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 120 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/hells-chain.webp"
     },
     {
@@ -1162,9 +1162,9 @@
       "code": "BX-26",
       "notes": "",
       "shorthand": "Sting",
-      "usagePct": 2.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 214 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 215 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/unicorn-sting.webp"
     },
     {
@@ -1186,9 +1186,9 @@
       "code": "BXG-01 / BX-00",
       "notes": "",
       "shorthand": "Spiral",
-      "usagePct": 0.2,
+      "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate); 16 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/dranzer-spiral.webp"
     },
     {
@@ -1211,8 +1211,8 @@
       "notes": "",
       "shorthand": "Feather",
       "usagePct": 0.3,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 29 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 31 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/phoenix-feather.webp"
     },
     {
@@ -1236,7 +1236,7 @@
       "shorthand": "",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate); 14 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/samurai-steel.webp"
     },
     {
@@ -1259,8 +1259,8 @@
       "notes": "",
       "shorthand": "",
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 23 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 25 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/mammoth-tusk.webp"
     },
     {
@@ -1282,9 +1282,9 @@
       "code": "BX-13",
       "notes": "",
       "shorthand": "Lance",
-      "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 36 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.3,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 37 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/knight-lance.webp"
     },
     {
@@ -1308,7 +1308,7 @@
       "shorthand": "Claw",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate); 22 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/leon-claw.webp"
     },
     {
@@ -1332,7 +1332,7 @@
       "shorthand": "Viper",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate); 39 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/viper-tail.webp"
     },
     {
@@ -1356,7 +1356,7 @@
       "shorthand": "Rhino",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate); 19 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/rhino-horn.webp"
     },
     {
@@ -1379,8 +1379,8 @@
       "notes": "",
       "shorthand": "Gale",
       "usagePct": 0.3,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 29 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 28 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/wyvern-gale.webp"
     },
     {
@@ -1404,7 +1404,7 @@
       "shorthand": "Sphinx",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate); 9 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/sphinx-cowl.webp"
     },
     {
@@ -1427,8 +1427,8 @@
       "notes": "",
       "shorthand": "Tiger",
       "usagePct": 0.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 52 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 53 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/weiss-tiger.webp"
     },
     {
@@ -1452,7 +1452,7 @@
       "shorthand": "Shell",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate); 20 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/black-shell.webp"
     },
     {
@@ -1475,8 +1475,8 @@
       "notes": "",
       "shorthand": "Tricera",
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 43 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 44 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/tricera-press.webp"
     },
     {
@@ -1499,8 +1499,8 @@
       "notes": "",
       "shorthand": "Shelter",
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 22 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 21 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/shelter-drake.webp"
     },
     {
@@ -1523,8 +1523,8 @@
       "notes": "",
       "shorthand": "Heavens",
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 38 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 39 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/heavens-ring.webp"
     },
     {
@@ -1547,8 +1547,8 @@
       "notes": "",
       "shorthand": "Shinobi",
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 24 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 25 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/shinobi-shadow.webp"
     },
     {
@@ -1574,7 +1574,7 @@
       "shorthand": "Crest",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate); 43 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/leon-crest.webp"
     },
     {
@@ -1599,8 +1599,8 @@
       "notes": "",
       "shorthand": "Rudder",
       "usagePct": 0.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 49 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 52 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/phoenix-rudder.webp"
     },
     {
@@ -1625,8 +1625,8 @@
       "notes": "",
       "shorthand": "Ghost",
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 38 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 39 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/ghost-circle.webp"
     },
     {
@@ -1652,7 +1652,7 @@
       "shorthand": "Orochi",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate); 49 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/orochi-cluster.webp"
     },
     {
@@ -1674,9 +1674,9 @@
       "code": "CX-02",
       "notes": "CX Main Arc",
       "shorthand": "Arc",
-      "usagePct": 0.5,
+      "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate); 44 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/wizard-arc.webp"
     },
     {
@@ -1698,9 +1698,9 @@
       "code": "CX-03",
       "notes": "CX Main Dark",
       "shorthand": "Dark",
-      "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 15 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.1,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 16 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/perseus-dark.webp"
     },
     {
@@ -1723,8 +1723,8 @@
       "notes": "CX Main Fortress",
       "shorthand": "Fortress",
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 39 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 41 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/knight-fortress.webp"
     },
     {
@@ -1747,8 +1747,8 @@
       "notes": "Deck Set Aug 2026",
       "shorthand": "Nether",
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 40 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 42 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/blades/hells-nether.webp"
     },
     {
@@ -1776,7 +1776,7 @@
       "shorthand": "Luster / LD",
       "usagePct": null,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-10-07"
+      "usageAsOf": "2026-10-08"
     }
   ],
   "ratchets": [
@@ -1785,7 +1785,7 @@
       "name": "One Sixty",
       "abbr": "1-60",
       "type": "Ratchet",
-      "tier": "S",
+      "tier": "A",
       "hkdMin": 40,
       "hkdMax": 120,
       "pros": [
@@ -1803,9 +1803,9 @@
       "priceNote": "estimate — stock on UX-01 etc.; loose competitive premium likely; portion of HK$74.90–119 bey",
       "height": 60,
       "protrusions": 1,
-      "usagePct": 75.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 7379 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 74.5,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 7959 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/1-60.webp"
     },
     {
@@ -1833,9 +1833,9 @@
       "priceNote": "estimate — common on BX-23 stock; loose unknown",
       "height": 60,
       "protrusions": 9,
-      "usagePct": 67.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 6627 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 66.7,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 7123 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/9-60.webp"
     },
     {
@@ -1862,9 +1862,9 @@
       "priceNote": "estimate — very common; used often cheap — listing check",
       "height": 60,
       "protrusions": 3,
-      "usagePct": 46.3,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 4525 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 44.9,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 4798 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/3-60.webp"
     },
     {
@@ -1888,9 +1888,9 @@
       "priceNote": "estimate — from UX-15 set; listing check",
       "height": 70,
       "protrusions": 1,
-      "usagePct": 19.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 1897 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 18.6,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 1985 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/1-70.webp"
     },
     {
@@ -1915,9 +1915,9 @@
       "priceNote": "estimate — CX-13 stock; sealed CX HK$109–199 band",
       "height": 50,
       "protrusions": 1,
-      "usagePct": 8.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 860 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 8.5,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 912 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/1-50.webp"
     },
     {
@@ -1943,9 +1943,9 @@
       "priceNote": "estimate — UX-06 stock; T CLUB Leon Crest HK$74.90",
       "height": 60,
       "protrusions": 7,
-      "usagePct": 23.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 2311 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 22.7,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 2422 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/7-60.webp"
     },
     {
@@ -1953,7 +1953,7 @@
       "name": "Five Sixty",
       "abbr": "5-60",
       "type": "Ratchet",
-      "tier": "B",
+      "tier": "A",
       "hkdMin": 30,
       "hkdMax": 80,
       "pros": [
@@ -1969,9 +1969,9 @@
       "priceNote": "estimate — common BX-15; listing check",
       "height": 60,
       "protrusions": 5,
-      "usagePct": 26.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 2545 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 25.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 2665 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/5-60.webp"
     },
     {
@@ -1995,9 +1995,9 @@
       "priceNote": "estimate — UX-15 deck; listing check",
       "height": 50,
       "protrusions": 4,
-      "usagePct": 5.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 541 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 5.4,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 574 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/4-50.webp"
     },
     {
@@ -2022,9 +2022,9 @@
       "priceNote": "estimate — CX-01 BuyMarket HK$189 sealed product",
       "height": 60,
       "protrusions": 6,
-      "usagePct": 6.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 602 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 6.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 643 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/6-60.webp"
     },
     {
@@ -2049,9 +2049,9 @@
       "priceNote": "estimate — UX-07 deck HK$219 product",
       "height": 70,
       "protrusions": 9,
-      "usagePct": 6.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 647 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 6.2,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 664 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/9-70.webp"
     },
     {
@@ -2059,7 +2059,7 @@
       "name": "Zero Sixty",
       "abbr": "0-60",
       "type": "Ratchet",
-      "tier": "C",
+      "tier": "B",
       "hkdMin": 40,
       "hkdMax": 100,
       "pros": [
@@ -2076,8 +2076,8 @@
       "height": 60,
       "protrusions": 0,
       "usagePct": 0.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 71 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 73 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/0-60.webp"
     },
     {
@@ -2102,8 +2102,8 @@
       "height": 70,
       "protrusions": 0,
       "usagePct": 0.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 53 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 54 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/0-70.webp"
     },
     {
@@ -2129,7 +2129,7 @@
       "protrusions": 0,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate); 51 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/0-80.webp"
     },
     {
@@ -2153,9 +2153,9 @@
       "priceNote": "estimate — starter HK$119",
       "height": 60,
       "protrusions": 2,
-      "usagePct": 0.6,
+      "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate); 58 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/2-60.webp"
     },
     {
@@ -2180,8 +2180,8 @@
       "height": 70,
       "protrusions": 2,
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 21 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 22 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/2-70.webp"
     },
     {
@@ -2205,7 +2205,7 @@
       "protrusions": 2,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate); 8 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/2-80.webp"
     },
     {
@@ -2229,9 +2229,9 @@
       "priceNote": "estimate — starter HK$109",
       "height": 70,
       "protrusions": 3,
-      "usagePct": 2.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 279 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.7,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 285 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/3-70.webp"
     },
     {
@@ -2255,9 +2255,9 @@
       "priceNote": "estimate — HK$74.90–109",
       "height": 80,
       "protrusions": 3,
-      "usagePct": 1.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 152 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.5,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 156 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/3-80.webp"
     },
     {
@@ -2283,7 +2283,7 @@
       "protrusions": 3,
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate); 29 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/3-85.webp"
     },
     {
@@ -2291,7 +2291,7 @@
       "name": "Four Fifty-Five",
       "abbr": "4-55",
       "type": "Ratchet",
-      "tier": "C",
+      "tier": "D",
       "hkdMin": 40,
       "hkdMax": 100,
       "pros": [
@@ -2307,9 +2307,9 @@
       "priceNote": "estimate — CX sealed HK$199",
       "height": 55,
       "protrusions": 4,
-      "usagePct": 2.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 231 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.2,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 238 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/4-55.webp"
     },
     {
@@ -2333,9 +2333,9 @@
       "priceNote": "estimate — HK$74.90–109",
       "height": 60,
       "protrusions": 4,
-      "usagePct": 2.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 256 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.5,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 264 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/4-60.webp"
     },
     {
@@ -2360,8 +2360,8 @@
       "height": 70,
       "protrusions": 4,
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 39 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 40 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/4-70.webp"
     },
     {
@@ -2384,8 +2384,8 @@
       "height": 80,
       "protrusions": 4,
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 35 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 39 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/4-80.webp"
     },
     {
@@ -2411,8 +2411,8 @@
       "height": 50,
       "protrusions": 5,
       "usagePct": 0.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 45 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 51 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/5-50.webp"
     },
     {
@@ -2436,9 +2436,9 @@
       "priceNote": "estimate — Rod product",
       "height": 70,
       "protrusions": 5,
-      "usagePct": 2.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 240 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.3,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 245 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/5-70.webp"
     },
     {
@@ -2460,9 +2460,9 @@
       "priceNote": "estimate — RB",
       "height": 80,
       "protrusions": 5,
-      "usagePct": 1.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 96 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.9,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 95 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/5-80.webp"
     },
     {
@@ -2470,7 +2470,7 @@
       "name": "Six Seventy",
       "abbr": "6-70",
       "type": "Ratchet",
-      "tier": "D",
+      "tier": "C",
       "hkdMin": 40,
       "hkdMax": 90,
       "pros": [
@@ -2485,8 +2485,8 @@
       "height": 70,
       "protrusions": 6,
       "usagePct": 0.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 60 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 61 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/6-70.webp"
     },
     {
@@ -2510,7 +2510,7 @@
       "protrusions": 6,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate); 22 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/6-80.webp"
     },
     {
@@ -2532,9 +2532,9 @@
       "priceNote": "estimate — RB",
       "height": 55,
       "protrusions": 7,
-      "usagePct": 1.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 108 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 110 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/7-55.webp"
     },
     {
@@ -2559,9 +2559,9 @@
       "priceNote": "estimate — listing check",
       "height": 70,
       "protrusions": 7,
-      "usagePct": 6.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 660 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 6.3,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 669 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/7-70.webp"
     },
     {
@@ -2587,7 +2587,7 @@
       "protrusions": 8,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate); 52 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/8-70.webp"
     },
     {
@@ -2611,7 +2611,7 @@
       "protrusions": 8,
       "usagePct": null,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/8-80.webp"
     },
     {
@@ -2634,8 +2634,8 @@
       "height": 65,
       "protrusions": 9,
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 21 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 23 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/9-65.webp"
     },
     {
@@ -2657,9 +2657,9 @@
       "priceNote": "estimate — RB",
       "height": 80,
       "protrusions": 9,
-      "usagePct": 1.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 160 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.5,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 161 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/9-80.webp"
     },
     {
@@ -2685,7 +2685,7 @@
       "protrusions": "M",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate); 30 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/ratchets/m-85.webp"
     },
     {
@@ -2711,9 +2711,9 @@
       "priceNote": "unknown / needs listing check — no verified HK sealed/loose anchor found 2026-09-21",
       "height": 80,
       "protrusions": 1,
-      "usagePct": 2.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 236 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.3,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 241 games in scope",
+      "usageAsOf": "2026-10-08",
       "code": "BX/UX ratchet",
       "notes": "Gap-fill 2026-09-21 — on BEYWATCH, was missing from catalog",
       "image": "img/ratchets/1-80.webp"
@@ -2738,8 +2738,8 @@
       "height": 80,
       "protrusions": 7,
       "usagePct": 0.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 48 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 49 games in scope",
+      "usageAsOf": "2026-10-08",
       "code": "BX/UX ratchet",
       "notes": "Gap-fill 2026-09-21 — on BEYWATCH, was missing from catalog",
       "image": "img/ratchets/7-80.webp"
@@ -2751,7 +2751,7 @@
       "name": "Hexa",
       "abbr": "H",
       "type": "Defense",
-      "tier": "S",
+      "tier": "A",
       "hkdMin": 50,
       "hkdMax": 150,
       "pros": [
@@ -2768,9 +2768,9 @@
       "scoreBase": 95,
       "priceNote": "estimate — UX-02 stock; loose premium likely — listing check",
       "mech": "Hexagonal tip; high burst resist",
-      "usagePct": 47.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 4651 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 46.5,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 4970 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/hexa.webp"
     },
     {
@@ -2796,9 +2796,9 @@
       "scoreBase": 95,
       "priceNote": "estimate — UX-08 stock; listing check",
       "mech": "Free-spinning axle ball",
-      "usagePct": 24.3,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 2371 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 23.4,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 2504 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/free-ball.webp"
     },
     {
@@ -2823,9 +2823,9 @@
       "scoreBase": 95,
       "priceNote": "estimate — UX-11 stock",
       "mech": "Lower Rush flat",
-      "usagePct": 46.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 4500 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 44.8,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 4782 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/low-rush.webp"
     },
     {
@@ -2850,9 +2850,9 @@
       "scoreBase": 95,
       "priceNote": "estimate — BX-20 stock",
       "mech": "Flat rush tip",
-      "usagePct": 45.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 4459 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 44.5,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 4749 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/rush.webp"
     },
     {
@@ -2860,7 +2860,7 @@
       "name": "Level",
       "abbr": "L",
       "type": "Balance",
-      "tier": "A",
+      "tier": "B",
       "hkdMin": 45,
       "hkdMax": 120,
       "pros": [
@@ -2876,9 +2876,9 @@
       "scoreBase": 82,
       "priceNote": "estimate — UX-09",
       "mech": "Leveling tip behavior",
-      "usagePct": 21.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 2107 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 20.5,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 2194 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/level.webp"
     },
     {
@@ -2904,9 +2904,9 @@
       "scoreBase": 82,
       "priceNote": "estimate — CX-05",
       "mech": "Kick/pocket oriented",
-      "usagePct": 26.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 2613 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 26.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 2779 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/kick.webp"
     },
     {
@@ -2930,9 +2930,9 @@
       "scoreBase": 82,
       "priceNote": "estimate — BX-36 Whale Wave stock historically",
       "mech": "Height-changing / elevate motion",
-      "usagePct": 22.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 2219 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 21.9,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 2339 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/elevate.webp"
     },
     {
@@ -2955,9 +2955,9 @@
       "scoreBase": 68,
       "priceNote": "estimate — CX-18",
       "mech": "Newer CX tip",
-      "usagePct": 2.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 202 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 217 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/narrow.webp"
     },
     {
@@ -2980,9 +2980,9 @@
       "scoreBase": 68,
       "priceNote": "estimate — UX-17",
       "mech": "Aggressive attack tip",
-      "usagePct": 5.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 530 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 5.2,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 555 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/jolt.webp"
     },
     {
@@ -3005,9 +3005,9 @@
       "scoreBase": 68,
       "priceNote": "estimate — BX-03 common",
       "mech": "Classic ball tip",
-      "usagePct": 17.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 1722 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 16.8,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 1796 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/ball.webp"
     },
     {
@@ -3030,9 +3030,9 @@
       "scoreBase": 38,
       "priceNote": "estimate — common BX-01",
       "mech": "Flat tip",
-      "usagePct": 3.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 314 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 3.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 316 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/flat.webp"
     },
     {
@@ -3056,9 +3056,9 @@
       "scoreBase": 52,
       "priceNote": "estimate — BX-14",
       "mech": "Shorter Flat",
-      "usagePct": 5.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 496 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 4.7,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 505 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/low-flat.webp"
     },
     {
@@ -3066,7 +3066,7 @@
       "name": "Accel",
       "abbr": "A",
       "type": "Attack",
-      "tier": "D",
+      "tier": "C",
       "hkdMin": 30,
       "hkdMax": 80,
       "pros": [
@@ -3081,9 +3081,9 @@
       "scoreBase": 55,
       "priceNote": "estimate — UX-01",
       "mech": "Accel flat variant",
-      "usagePct": 0.7,
+      "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate); 68 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/accel.webp"
     },
     {
@@ -3106,9 +3106,9 @@
       "scoreBase": 52,
       "priceNote": "estimate — BX-23",
       "mech": "Geared flat",
-      "usagePct": 0.7,
+      "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate); 69 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/gear-flat.webp"
     },
     {
@@ -3133,7 +3133,7 @@
       "mech": "Geared Rush",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate); 22 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/gear-rush.webp"
     },
     {
@@ -3156,9 +3156,9 @@
       "scoreBase": 42,
       "priceNote": "estimate — UX-15",
       "mech": "Under-profile flat",
-      "usagePct": 1.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 94 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.9,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 97 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/under-flat.webp"
     },
     {
@@ -3182,8 +3182,8 @@
       "priceNote": "estimate — BX-49",
       "mech": "Free-spinning Flat",
       "usagePct": 0.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 53 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 52 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/free-flat.webp"
     },
     {
@@ -3206,9 +3206,9 @@
       "scoreBase": 45,
       "priceNote": "estimate — listing check",
       "mech": "Rubber Accel",
-      "usagePct": 2.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 274 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.6,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 279 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/rubber-accel.webp"
     },
     {
@@ -3232,8 +3232,8 @@
       "priceNote": "estimate — CX-07",
       "mech": "CX turbo tip",
       "usagePct": 0.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 8 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 9 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/turbo.webp"
     },
     {
@@ -3241,7 +3241,7 @@
       "name": "Zap",
       "abbr": "Z",
       "type": "Attack",
-      "tier": "C",
+      "tier": "B",
       "hkdMin": 40,
       "hkdMax": 100,
       "pros": [
@@ -3257,8 +3257,8 @@
       "priceNote": "estimate — UX-14",
       "mech": "Unique attack tip",
       "usagePct": 0.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 71 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 72 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/zap.webp"
     },
     {
@@ -3281,9 +3281,9 @@
       "scoreBase": 38,
       "priceNote": "estimate — BX-31",
       "mech": "Oscillating attack",
-      "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 35 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.3,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 36 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/quake.webp"
     },
     {
@@ -3307,8 +3307,8 @@
       "priceNote": "estimate — BX-34",
       "mech": "Left-spin cyclone",
       "usagePct": 1.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 100 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 103 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/cyclone.webp"
     },
     {
@@ -3333,8 +3333,8 @@
       "priceNote": "estimate — BX-45",
       "mech": "Merge tip",
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 38 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 39 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/merge.webp"
     },
     {
@@ -3358,8 +3358,8 @@
       "priceNote": "estimate — CX-13",
       "mech": "CX Bahamut tip",
       "usagePct": 0.3,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 30 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 29 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/ignition.webp"
     },
     {
@@ -3383,8 +3383,8 @@
       "priceNote": "estimate — UX-10",
       "mech": "Bound spike",
       "usagePct": 0.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 47 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 49 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/bound-spike.webp"
     },
     {
@@ -3392,7 +3392,7 @@
       "name": "Taper",
       "abbr": "T",
       "type": "Defense",
-      "tier": "C",
+      "tier": "B",
       "hkdMin": 20,
       "hkdMax": 50,
       "pros": [
@@ -3407,9 +3407,9 @@
       "scoreBase": 55,
       "priceNote": "estimate — BX-02",
       "mech": "Tapered tip",
-      "usagePct": 6.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 606 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 5.9,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 629 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/taper.webp"
     },
     {
@@ -3432,9 +3432,9 @@
       "scoreBase": 45,
       "priceNote": "estimate — BX-21",
       "mech": "Taller taper",
-      "usagePct": 0.7,
+      "usagePct": 0.6,
       "usageNote": "BEYWATCH top-cut share (pickRate); 66 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/high-taper.webp"
     },
     {
@@ -3458,8 +3458,8 @@
       "priceNote": "estimate — BX-04",
       "mech": "Sharp needle",
       "usagePct": 0.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 60 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 62 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/needle.webp"
     },
     {
@@ -3484,7 +3484,7 @@
       "mech": "Tall needle",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH top-cut share (pickRate); 71 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/high-needle.webp"
     },
     {
@@ -3508,9 +3508,9 @@
       "scoreBase": 68,
       "priceNote": "estimate — BX-15",
       "mech": "Point tip",
-      "usagePct": 12.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 1207 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 11.7,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 1248 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/point.webp"
     },
     {
@@ -3533,9 +3533,9 @@
       "scoreBase": 68,
       "priceNote": "estimate — BX-16",
       "mech": "Orb tip",
-      "usagePct": 2.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 269 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.5,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 270 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/orb.webp"
     },
     {
@@ -3543,7 +3543,7 @@
       "name": "Low Orb",
       "abbr": "LO",
       "type": "Stamina",
-      "tier": "B",
+      "tier": "A",
       "hkdMin": 40,
       "hkdMax": 100,
       "pros": [
@@ -3559,9 +3559,9 @@
       "scoreBase": 68,
       "priceNote": "estimate — CX-02",
       "mech": "Lower Orb",
-      "usagePct": 9.3,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 913 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 8.8,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 939 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/low-orb.webp"
     },
     {
@@ -3585,8 +3585,8 @@
       "priceNote": "estimate — BX-19",
       "mech": "Spike tip",
       "usagePct": 0.3,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 28 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 30 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/spike.webp"
     },
     {
@@ -3610,8 +3610,8 @@
       "priceNote": "estimate — UX-12",
       "mech": "Geared ball",
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 41 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 40 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/gear-ball.webp"
     },
     {
@@ -3619,7 +3619,7 @@
       "name": "Gear Point",
       "abbr": "GP",
       "type": "Balance",
-      "tier": "B",
+      "tier": "C",
       "hkdMin": 30,
       "hkdMax": 70,
       "pros": [
@@ -3634,9 +3634,9 @@
       "scoreBase": 68,
       "priceNote": "estimate — BX-26",
       "mech": "Geared point",
-      "usagePct": 1.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 95 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.9,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 91 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/gear-point.webp"
     },
     {
@@ -3661,8 +3661,8 @@
       "priceNote": "estimate — CX-19 stock GN; sealed CX-19 The Club HK$99; loose unknown / needs listing check",
       "mech": "Geared needle",
       "usagePct": 0.3,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 28 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 29 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/gear-needle.webp"
     },
     {
@@ -3685,9 +3685,9 @@
       "scoreBase": 68,
       "priceNote": "estimate — UX-03",
       "mech": "Disc + ball",
-      "usagePct": 0.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 64 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.6,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 63 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/disc-ball.webp"
     },
     {
@@ -3710,9 +3710,9 @@
       "scoreBase": 45,
       "priceNote": "estimate — UX-05",
       "mech": "Metal needle",
-      "usagePct": 0.1,
+      "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate); 5 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/metal-needle.webp"
     },
     {
@@ -3735,9 +3735,9 @@
       "scoreBase": 82,
       "priceNote": "estimate — BX-33",
       "mech": "Unite tip",
-      "usagePct": 2.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 283 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.7,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 293 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/unite.webp"
     },
     {
@@ -3760,9 +3760,9 @@
       "scoreBase": 45,
       "priceNote": "estimate — UX-07",
       "mech": "Glide stamina",
-      "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 36 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.3,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 37 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/glide.webp"
     },
     {
@@ -3786,9 +3786,9 @@
       "scoreBase": 45,
       "priceNote": "estimate — UX-13 / CX-14",
       "mech": "Under needle",
-      "usagePct": 3.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 314 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 3.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 324 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/under-needle.webp"
     },
     {
@@ -3796,7 +3796,7 @@
       "name": "Wedge",
       "abbr": "W",
       "type": "Balance",
-      "tier": "C",
+      "tier": "B",
       "hkdMin": 35,
       "hkdMax": 90,
       "pros": [
@@ -3812,9 +3812,9 @@
       "scoreBase": 45,
       "priceNote": "estimate — CX-03",
       "mech": "Wedge tip",
-      "usagePct": 5.3,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 521 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 5.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 531 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/wedge.webp"
     },
     {
@@ -3839,7 +3839,7 @@
       "mech": "Vortex tip",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate); 31 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/vortex.webp"
     },
     {
@@ -3847,7 +3847,7 @@
       "name": "Wall Ball",
       "abbr": "WB",
       "type": "Stamina",
-      "tier": "B",
+      "tier": "C",
       "hkdMin": 40,
       "hkdMax": 100,
       "pros": [
@@ -3862,9 +3862,9 @@
       "scoreBase": 68,
       "priceNote": "estimate — CX-08",
       "mech": "Wall ball",
-      "usagePct": 1.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 94 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.9,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 97 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/wall-ball.webp"
     },
     {
@@ -3887,9 +3887,9 @@
       "scoreBase": 45,
       "priceNote": "estimate — CX-09",
       "mech": "Transform kick",
-      "usagePct": 0.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 45 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.4,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 46 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/trans-kick.webp"
     },
     {
@@ -3914,7 +3914,7 @@
       "mech": "Transform point",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate); 39 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/trans-point.webp"
     },
     {
@@ -3938,8 +3938,8 @@
       "priceNote": "estimate — CX-11",
       "mech": "Operate tip",
       "usagePct": 0.3,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 26 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 27 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/operate.webp"
     },
     {
@@ -3964,7 +3964,7 @@
       "mech": "Yielding tip",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate); 21 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/yielding.webp"
     },
     {
@@ -3988,8 +3988,8 @@
       "priceNote": "estimate — BX-35",
       "mech": "Dot tip",
       "usagePct": 0.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 57 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 59 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/dot.webp"
     },
     {
@@ -4014,7 +4014,7 @@
       "scoreBase": 45,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate); 3 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/disk-spike.webp"
     },
     {
@@ -4037,8 +4037,8 @@
       "hkdMax": null,
       "scoreBase": 45,
       "usagePct": 0.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 14 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 15 games in scope",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/wall-wedge.webp"
     },
     {
@@ -4062,7 +4062,7 @@
       "scoreBase": 45,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate); 4 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "image": "img/bits/gear-unite.webp"
     },
     {
@@ -4089,7 +4089,7 @@
       "notes": "Upcoming Takara Tomy BX-52 part (Japan 2026-10-10).",
       "usagePct": null,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-10-07"
+      "usageAsOf": "2026-10-08"
     },
     {
       "id": "low-point",
@@ -4115,7 +4115,7 @@
       "notes": "Hasbro G2745 stock Bit; public release timing reported Aug–Oct 2026 depending market.",
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate); 1 games in scope",
-      "usageAsOf": "2026-10-07"
+      "usageAsOf": "2026-10-08"
     }
   ],
   "lockChips": [
@@ -4140,9 +4140,9 @@
       "bestPartners": [],
       "notes": "Metal competitive lock chip",
       "scoreBase": 95,
-      "usagePct": 6.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 588 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 5.7,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 606 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": true,
       "image": "img/lockChips/emperor.webp"
@@ -4168,9 +4168,9 @@
       "bestPartners": [],
       "notes": "Stock on Pegasus Blast",
       "scoreBase": 68,
-      "usagePct": 4.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 414 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 4.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 431 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/pegasus.webp"
@@ -4196,9 +4196,9 @@
       "bestPartners": [],
       "notes": "Metal lock; high 1st-rate when used",
       "scoreBase": 95,
-      "usagePct": 2.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 245 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 2.4,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 258 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": true,
       "image": "img/lockChips/valkyrie.webp"
@@ -4223,8 +4223,8 @@
       "notes": "Sol Eclipse stock",
       "scoreBase": 42,
       "usagePct": 1.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 102 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 103 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/sol.webp"
@@ -4251,8 +4251,8 @@
       "notes": "Dran Brave stock",
       "scoreBase": 68,
       "usagePct": 0.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 87 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 92 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/dran.webp"
@@ -4276,9 +4276,9 @@
       "bestPartners": [],
       "notes": "CX Lock Chip — Hells",
       "scoreBase": 55,
-      "usagePct": 0.8,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 76 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.7,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 80 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/hells.webp"
@@ -4303,8 +4303,8 @@
       "notes": "Bahamut Blitz",
       "scoreBase": 42,
       "usagePct": 0.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 69 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 70 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/bahamut.webp"
@@ -4329,8 +4329,8 @@
       "notes": "CX Lock Chip — Fox",
       "scoreBase": 42,
       "usagePct": 0.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 70 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 72 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/fox.webp"
@@ -4339,7 +4339,7 @@
       "id": "unicorn",
       "name": "Unicorn",
       "type": "Balance",
-      "tier": "B",
+      "tier": "A",
       "abbr": "Uni",
       "code": "CX Lock",
       "hkdMin": 15,
@@ -4355,8 +4355,8 @@
       "notes": "CX Lock Chip — Unicorn",
       "scoreBase": 68,
       "usagePct": 0.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 60 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 61 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/unicorn.webp"
@@ -4381,8 +4381,8 @@
       "notes": "Wolf Hunt stock",
       "scoreBase": 55,
       "usagePct": 0.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 61 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 62 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/wolf.webp"
@@ -4407,8 +4407,8 @@
       "notes": "CX Lock Chip — Cerberus",
       "scoreBase": 40,
       "usagePct": 0.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 51 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 55 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/cerberus.webp"
@@ -4433,8 +4433,8 @@
       "notes": "CX Lock Chip — Perseus",
       "scoreBase": 40,
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 43 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 44 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/perseus.webp"
@@ -4458,9 +4458,9 @@
       "bestPartners": [],
       "notes": "CX Lock Chip — Phoenix",
       "scoreBase": 40,
-      "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 35 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.3,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 34 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/phoenix.webp"
@@ -4486,8 +4486,8 @@
       "notes": "Wizard Arc stock",
       "scoreBase": 40,
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 38 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 40 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/wizard.webp"
@@ -4514,8 +4514,8 @@
       "notes": "Standard CX Lock Chip",
       "scoreBase": 40,
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 15 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 20 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/hornet.webp"
@@ -4540,8 +4540,8 @@
       "notes": "CX Lock Chip — Knight",
       "scoreBase": 40,
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 20 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 23 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/knight.webp"
@@ -4568,8 +4568,8 @@
       "notes": "Standard CX Lock Chip",
       "scoreBase": 40,
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 15 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 19 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/kraken.webp"
@@ -4594,8 +4594,8 @@
       "notes": "Ragna Rage",
       "scoreBase": 40,
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 24 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 23 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/ragna.webp"
@@ -4622,8 +4622,8 @@
       "notes": "Standard CX Lock Chip",
       "scoreBase": 40,
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 20 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 21 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/rhino.webp"
@@ -4650,8 +4650,8 @@
       "notes": "Standard CX Lock Chip",
       "scoreBase": 40,
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 16 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 17 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/whale.webp"
@@ -4678,8 +4678,8 @@
       "notes": "Standard CX Lock Chip",
       "scoreBase": 40,
       "usagePct": 0.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 8 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 9 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/brachio.webp"
@@ -4706,8 +4706,8 @@
       "notes": "Standard CX Lock Chip",
       "scoreBase": 40,
       "usagePct": 0.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 11 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 13 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/leon.webp"
@@ -4734,8 +4734,8 @@
       "notes": "Standard CX Lock Chip",
       "scoreBase": 40,
       "usagePct": 0.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 10 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 11 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": null
@@ -4763,7 +4763,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate); 1 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/croco.webp"
@@ -4791,7 +4791,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate); 1 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/drake.webp"
@@ -4819,7 +4819,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate); 1 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/enlil.webp"
@@ -4847,7 +4847,7 @@
       "scoreBase": 40,
       "usagePct": null,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": null
@@ -4875,7 +4875,7 @@
       "scoreBase": 40,
       "usagePct": null,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/croc.webp"
@@ -4903,7 +4903,7 @@
       "scoreBase": 40,
       "usagePct": null,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/eva.webp"
@@ -4931,7 +4931,7 @@
       "scoreBase": 40,
       "usagePct": null,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": null
@@ -4959,7 +4959,7 @@
       "scoreBase": 40,
       "usagePct": null,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/tiga.webp"
@@ -4986,7 +4986,7 @@
       "scoreBase": 40,
       "usagePct": null,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "lockChip"
     }
   ],
@@ -5017,9 +5017,9 @@
       ],
       "notes": "Top CX Main by BEYWATCH (Emperor Blast Heavy meta)",
       "scoreBase": 95,
-      "usagePct": 12.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 1225 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 12.1,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 1293 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/blast.webp"
     },
@@ -5027,7 +5027,7 @@
       "id": "delta",
       "name": "Delta",
       "type": "Attack",
-      "tier": "C",
+      "tier": "A",
       "abbr": "Delta",
       "code": "CX",
       "shorthand": "Delta",
@@ -5049,8 +5049,8 @@
       "notes": "Tracked on BEYWATCH as Delta main",
       "scoreBase": 55,
       "usagePct": 1.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 120 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 129 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/delta.webp"
     },
@@ -5079,9 +5079,9 @@
       ],
       "notes": "Dran Brave stock main",
       "scoreBase": 42,
-      "usagePct": 1.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 108 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.0,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 112 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/brave.webp"
     },
@@ -5111,8 +5111,8 @@
       "notes": "Bahamut Blitz CX main; rising A-tier on BEYWATCH",
       "scoreBase": 68,
       "usagePct": 0.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 86 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 91 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/blitz.webp"
     },
@@ -5141,9 +5141,9 @@
       ],
       "notes": "Sol Eclipse main",
       "scoreBase": 55,
-      "usagePct": 0.9,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 89 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.8,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 88 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/eclipse.webp"
     },
@@ -5151,7 +5151,7 @@
       "id": "rage",
       "name": "Rage",
       "type": "Stamina",
-      "tier": "B",
+      "tier": "C",
       "abbr": "Rage",
       "code": "CX-15",
       "shorthand": "Rage",
@@ -5175,8 +5175,8 @@
       "notes": "Ragna Rage (CX-15) Metal Blade; also stock on CX-00 Tiga Rage with Flow Over Blade + Turn Assist (FT=Flow+Turn).",
       "scoreBase": 55,
       "usagePct": 0.6,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 63 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 64 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/rage.webp"
     },
@@ -5205,9 +5205,9 @@
       ],
       "notes": "Wizard Arc stock main",
       "scoreBase": 40,
-      "usagePct": 0.5,
+      "usagePct": 0.4,
       "usageNote": "BEYWATCH top-cut share (pickRate); 44 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/arc.webp"
     },
@@ -5236,9 +5236,9 @@
       ],
       "notes": "Phoenix Flare main",
       "scoreBase": 40,
-      "usagePct": 0.5,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 44 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.4,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 43 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/flare.webp"
     },
@@ -5269,7 +5269,7 @@
       "scoreBase": 40,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH top-cut share (pickRate); 53 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/might.webp"
     },
@@ -5299,8 +5299,8 @@
       "notes": "Fox Brush main",
       "scoreBase": 40,
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 41 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 42 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/brush.webp"
     },
@@ -5330,8 +5330,8 @@
       "notes": "Knight Fortress Infinity main",
       "scoreBase": 40,
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 39 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 41 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/fortress.webp"
     },
@@ -5360,9 +5360,9 @@
       ],
       "notes": "Wolf Hunt stock main",
       "scoreBase": 40,
-      "usagePct": 0.3,
+      "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate); 25 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/hunt.webp"
     },
@@ -5391,9 +5391,9 @@
       ],
       "notes": "Perseus Dark stock main",
       "scoreBase": 40,
-      "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 15 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.1,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 16 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/dark.webp"
     },
@@ -5423,8 +5423,8 @@
       "notes": "Hells Reaper main",
       "scoreBase": 40,
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 23 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 25 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/reaper.webp"
     },
@@ -5455,7 +5455,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate); 19 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/volt.webp"
     },
@@ -5485,8 +5485,8 @@
       "notes": "Hells Antler main",
       "scoreBase": 40,
       "usagePct": 0.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 5 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 9 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/antler.webp"
     },
@@ -5516,8 +5516,8 @@
       "notes": "Leon Fang main",
       "scoreBase": 40,
       "usagePct": 0.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 11 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 13 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/fang.webp"
     },
@@ -5547,8 +5547,8 @@
       "notes": "Cerberus Flame main",
       "scoreBase": 40,
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 16 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 18 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/flame.webp"
     },
@@ -5578,8 +5578,8 @@
       "notes": "Kraken Wriggle main",
       "scoreBase": 40,
       "usagePct": 0.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 8 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 12 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/wriggle.webp"
     },
@@ -5608,9 +5608,9 @@
       ],
       "notes": "Hornet Fort / similar CX defense main",
       "scoreBase": 40,
-      "usagePct": 0.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 3 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.1,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 8 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/fort.webp"
     },
@@ -5624,7 +5624,7 @@
       "shorthand": "Tread",
       "hkdMin": 99,
       "hkdMax": 149,
-      "priceNote": "sealed retail anchors — Animes Pro HK$99 【現貨】 available:true (animes-pro.com; re-checked 2026-10-06; was HK$128 on 2026-10-04); UP-NEXT HK$149 sold out (inventory 0 as of 2026-10-06; had 2 on 2026-10-04); The Club prior HK$99 (URL HTTP 404); Toys R Us CX-19 URL HTTP 410 / Product-Variation available:false HK$99.90",
+      "priceNote": "sealed retail anchors — Animes Pro HK$99 【現貨】 available:true (animes-pro.com; re-checked 2026-10-08; was HK$128 on 2026-10-04); UP-NEXT HK$149 sold out (available:false as of 2026-10-08; had 2 on 2026-10-04); The Club prior HK$99 (URL HTTP 404); Toys R Us CX-19 URL HTTP 410 / Product-Variation available:false HK$99.90",
       "pros": [
         "Multi-contact defense Main (CX Expand / Metal Blade)",
         "Stock with Tough Over + Quell Assist + low 5-50 GN"
@@ -5641,7 +5641,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate); 1 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/tread.webp"
     },
@@ -5671,8 +5671,8 @@
       "notes": "CX-18 Brachio Whip Main Blade",
       "scoreBase": 42,
       "usagePct": 0.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 13 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 14 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "mainBlade",
       "image": "img/mainBlades/whip.webp"
     }
@@ -5699,9 +5699,9 @@
       "bestPartners": [],
       "notes": "Top Assist by usage",
       "scoreBase": 95,
-      "usagePct": 9.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 943 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 9.4,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 1002 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/heavy.webp"
     },
@@ -5709,7 +5709,7 @@
       "id": "wheel",
       "name": "Wheel",
       "type": "Defense",
-      "tier": "B",
+      "tier": "A",
       "abbr": "Wheel",
       "code": "CX Assist",
       "hkdMin": 25,
@@ -5725,9 +5725,9 @@
       "bestPartners": [],
       "notes": "CX Assist Blade — Wheel",
       "scoreBase": 68,
-      "usagePct": 4.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 397 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 3.9,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 420 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/wheel.webp"
     },
@@ -5750,9 +5750,9 @@
       "bestPartners": [],
       "notes": "CX Assist Blade — Jaggy",
       "scoreBase": 55,
-      "usagePct": 1.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 167 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.6,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 174 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/jaggy.webp"
     },
@@ -5776,9 +5776,9 @@
       "bestPartners": [],
       "notes": "CX-01",
       "scoreBase": 55,
-      "usagePct": 1.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 117 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 1.1,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 122 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/slash.webp"
     },
@@ -5786,7 +5786,7 @@
       "id": "free",
       "name": "Free",
       "type": "Stamina",
-      "tier": "A",
+      "tier": "B",
       "abbr": "Free",
       "code": "CX Assist",
       "hkdMin": 25,
@@ -5803,8 +5803,8 @@
       "notes": "Strong conversion",
       "scoreBase": 82,
       "usagePct": 0.7,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 73 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 75 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/free.webp"
     },
@@ -5828,8 +5828,8 @@
       "notes": "CX-07",
       "scoreBase": 40,
       "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 40 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 43 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/assault.webp"
     },
@@ -5852,9 +5852,9 @@
       "bestPartners": [],
       "notes": "CX Assist Blade — Turn | Stock Assist on CX-00 Tiga Rage FT3-60T (FT = Flow Over + Turn).",
       "scoreBase": 40,
-      "usagePct": 0.4,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 38 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usagePct": 0.3,
+      "usageNote": "BEYWATCH top-cut share (pickRate); 37 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/turn.webp"
     },
@@ -5878,8 +5878,8 @@
       "notes": "CX Assist Blade — Bumper",
       "scoreBase": 40,
       "usagePct": 0.3,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 26 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 28 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/bumper.webp"
     },
@@ -5904,7 +5904,7 @@
       "scoreBase": 40,
       "usagePct": 0.3,
       "usageNote": "BEYWATCH top-cut share (pickRate); 28 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/dual.webp"
     },
@@ -5929,7 +5929,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH top-cut share (pickRate); 18 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/knuckle.webp"
     },
@@ -5953,8 +5953,8 @@
       "notes": "CX Assist Blade — Massive",
       "scoreBase": 40,
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 15 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 17 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/massive.webp"
     },
@@ -5978,8 +5978,8 @@
       "notes": "CX-02",
       "scoreBase": 40,
       "usagePct": 0.2,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 17 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 20 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/round.webp"
     },
@@ -6003,8 +6003,8 @@
       "notes": "CX Assist Blade — Charge",
       "scoreBase": 40,
       "usagePct": 0.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 5 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 6 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/charge.webp"
     },
@@ -6029,7 +6029,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH top-cut share (pickRate); 10 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/erase.webp"
     },
@@ -6053,8 +6053,8 @@
       "notes": "CX-14",
       "scoreBase": 40,
       "usagePct": 0.1,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 9 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 10 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/vertical.webp"
     },
@@ -6078,8 +6078,8 @@
       "notes": "CX Assist Blade — Gravity",
       "scoreBase": 40,
       "usagePct": 0.0,
-      "usageNote": "BEYWATCH top-cut share (pickRate); 3 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageNote": "BEYWATCH top-cut share (pickRate); 4 games in scope",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/gravity.webp"
     },
@@ -6104,7 +6104,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate); 3 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/odd.webp"
     },
@@ -6129,7 +6129,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH top-cut share (pickRate); 4 games in scope",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/zillion.webp"
     },
@@ -6154,7 +6154,7 @@
       "scoreBase": 40,
       "usagePct": null,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-10-07",
+      "usageAsOf": "2026-10-08",
       "kind": "assistBlade",
       "image": "img/assistBlades/quell.webp"
     }
