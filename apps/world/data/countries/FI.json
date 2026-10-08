@@ -1,7 +1,7 @@
 {
   "iso2": "FI",
   "name": "Finland",
-  "updatedAt": "2026-10-08T05:08:17+08:00",
+  "updatedAt": "2026-10-08T11:06:58+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,7 +30,37 @@
   ],
   "headlines": [
     {
-      "title": "NBC Developing Series Based On Finland’s ’66th North Precinct’ From ‘The Irrational’ Creator Arika Mittman",
+      "title": "Helsinki Baltic Herring Market held in Helsinki, Finland",
+      "source": "Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZWG85Sm1UU1I0NWFlQk5rdzdYdVQzUUFXVENaOTlvTVh1QXo1LTgxS19nRXg4MVl6czNMaEpHcjZiQnQ0aVZZckNLWVFwazdseUgyYlYxdlBsUkxUdGZrbk93?oc=5",
+      "publishedAt": "2026-10-08T08:41:00+08:00"
+    },
+    {
+      "title": "Google Finland data centers face pause on preparatory work",
+      "source": "finchannel",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcVk4NXFhZGhxdlBUenMtay1IVHJGZGJBeHJGcGNKV1Jxb0w0dERlc2o1bXVLRC1nZFJMMjFxbEoyMC1NMzVsZ1U3VjhmTUkzNFZrSXJmM0FlZkNMRHZVckl2R05yNjF3RjBNWHg3ZkMzak5IWjUyWTZMUlo2ZUNNMGU3OWZpSmNFR3RZRVRlcmFnMUs4MkstWFZSRG9BM2IxY2p6MUJQRlBDQzg1Z0owU2JRdFNiMVdpc2VQMUVJVQ?oc=5",
+      "publishedAt": "2026-10-08T05:18:58+08:00"
+    },
+    {
+      "title": "Finland Orders Google to Suspend New Data Centers After Contractors Pave Over Protected Forests",
+      "source": "Futurism",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0YxREJyYzRVVnhrTHNrXzRUR20tRU1zNnRMdmVoOVVvcmg5NmRzQ3hkMTB3dmZLalhXRndocEtYNVVTQV8zV3luQnd5bGN1ejluTjBFNWVpSjB1bWZwbGdDam1DbU12WHJXeVVrekljLUZ6dEdFNndHUEt2X21LUVYtRk1vSE1Zby1xZlVmeDZqWWJIUm9Z?oc=5",
+      "publishedAt": "2026-10-08T03:58:01+08:00"
+    },
+    {
+      "title": "Google’s €13B Finland Data Center Push Hits Roadblock: Here’s What Happened",
+      "source": "eWeek",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaHVhMmdGUzVhNE9td25YYmoxVktQWVdJWTR3ZFVNRXFFUFJET2RfZjJmNWhuaWhGZjBfQXFzX09DR3VfTFdPVnIyYzZSYW9JZlBhUzRDQnd1cWcyeVNrdFAxQVR5ekp0SWRVX0lfdFF3MlpfVmV4MURBZksxVzNKcGNiaFl4NVE?oc=5",
+      "publishedAt": "2026-10-08T03:08:45+08:00"
+    },
+    {
+      "title": "Why Finland ordered Google to pause work at two data centers",
+      "source": "Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1QxVlUxR3VDTU12U29jcTAtVWFOSWM0NTFQQ2RJME9XX2U2bmh2emZqMDlNYm12WHhuZGxGMmxqMlE2OVplVUREakNweTFwcWIxNVJkQ0dSbFhEN003NXNCbGVQQmVZNEkwUDM1YUVuNGtPdkcxZ2pWYjhOT3ZoaXJaZk9iNTFI?oc=5",
+      "publishedAt": "2026-10-08T02:35:47+08:00"
+    },
+    {
+      "title": "NBC Developing Series Based On Finland’s ‘66th North Precinct’ From ‘The Irrational’ Creator Arika Mittman",
       "source": "Deadline",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTVZNnQySldoM182RmR1M0Y1VHlONmpIclMtdEY5eWdCRlcyTXZja3lpTjlXdTFKWE1FSWVjMHFpZ1Q0blpWU213QVEwa3RtcVlBMG1yUDA0TnJGODBrdVI4LWU1ejNNOW5mVUc3UXlKLWo5eHY1bzF1MnVpQ2V1RjlHWmp0aWRFUjlTNnJFNThsWGs?oc=5",
       "publishedAt": "2026-10-08T02:30:00+08:00"
@@ -46,36 +76,6 @@
       "source": "finchannel",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObGF2Vk0wZlhnR3dHU3VNdXV1Q0tSTGRvZXV4Z01SeUdzZnZZSXNFLVdXbmhDNHVVQklzaVBvdl9US2NkTTBRQWl6M0dlTlRXWWZ0V2dBMnc2czB3UjQzaVhVWkkxV3Q5Z3drR1ZmZkd3cjBfR0JBcVJnYWprQlRESVFLZW1TLUZLd09WQmZLSno3WU9vWVg3M1hzVGRPdnN3eUVuMzJEam5naGdGbG1KVDJ0VUdqQ2plTWdr?oc=5",
       "publishedAt": "2026-10-08T02:10:58+08:00"
-    },
-    {
-      "title": "Finland’s forest groups warn EU restoration plan could cut wood supply",
-      "source": "Lesprom Network",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOFM4SnVyeGFfdzZIc0JLSnhBMVFvZ0NuWDVjSTQ0WVZWUExXTk5nd1RUVFdiWndPV3RJRWJqdm5XQmRKSFpWeDVSVW1BWVlPTmZqVmRuZWtqeW5pOTY0em9QWmpwOHlWUHJuTHVSWDdZb3MwVExzMnNMTmJfY2xBME1lT1RZRFZVd2VnMFowQWh5WTFXUmtqYXAwMHdoNnNnWHVGZlQ1ckc2WkJXUWc?oc=5",
-      "publishedAt": "2026-10-08T02:09:11+08:00"
-    },
-    {
-      "title": "Why Finland ordered Google to pause work at two data centers",
-      "source": "Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd1QxVlUxR3VDTU12U29jcTAtVWFOSWM0NTFQQ2RJME9XX2U2bmh2emZqMDlNYm12WHhuZGxGMmxqMlE2OVplVUREakNweTFwcWIxNVJkQ0dSbFhEN003NXNCbGVQQmVZNEkwUDM1YUVuNGtPdkcxZ2pWYjhOT3ZoaXJaZk9iNTFI?oc=5",
-      "publishedAt": "2026-10-08T02:05:51+08:00"
-    },
-    {
-      "title": "Finland blocked the sale of six properties to Russian, Montenegrin, and Israeli citizens, citing national security risks",
-      "source": "Informat.ro",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOW1DTXVJemxfelUzaFZnRDNYV2lOLUVjLTNGZjlVekdDX1Q0U1RrU00tNzBxZ3JCWkFwVHNYNjVmU0tiN3dlVzQ2cjQ3SXlfcldwRzlscjhMaUFYYzdsc084TU5BTUxHVDJkaHdpOGFYV1RicVlDRDhpaTl2ZndjSzRlTnJuWHJadm84RDlBMUZUYnpNM3FJU2ExM04xVlFTV0tJ?oc=5",
-      "publishedAt": "2026-10-08T01:53:36+08:00"
-    },
-    {
-      "title": "Google told to stop forest clearing for two data centres in Finland weeks after announcing its biggest European investment",
-      "source": "The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPMUdLTGZNempaU0lzamxUYjdBd0h3MEJnOEwxQmxfZ09FVUZlS0wxMkFLd1dUdHlTeFBHb2t2V0h3SnEyb0c1eU5DMTl6a0Q0bG5aUGtwSTA0cWFwaGN3bUV6aXBncnhJbG1jd2kzcHlkdVJ1UGFoNGRYamlOTlR3el9RMFdQT2pyMWhjdlFrNUI4anl0RnlQTFNtSmdjaUJjSjRqUkpoY3dqTklpVmdhZXJQelZjcW1KRDkyWW83czdUb0dDZE8xcXlqeEZTRzB3TmJ4STBtdkFoNVh3dTlCS2RDYS0tTGVJZlBuNGlRaHhsWEYtTVpvRVpXbDZGc05xUzBPMW84SXc3Tk5jX0U4MTBjQXcteGdsQUJhSWs0X2NLcjRqTDRGZC13cjdIeHc?oc=5",
-      "publishedAt": "2026-10-08T01:53:11+08:00"
-    },
-    {
-      "title": "Google’s Big Finland AI Bet Hits A Green Hurdle; Two Data Centres Put On Hold",
-      "source": "NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTTF6QzJ6aW9wUVV4Q0tIZS12b3RUcEJRcUtRWTc1cnB2WUprQ0hNam0tOFVDWG9IMGd2LXhHeFNhckVKRFBoUnA4MHNwYXVzOTdFenJLSWsyYlBnVkQtWE01R1Vvd2lQNkFLdVhUdDlySzh6RDZzamxCNlFkLTI3dTlad29qdFRNbU9TZGxkallRUnFnV1VrM1doeVJTbUVfbEZvWlRnUjdaTG5obUgzaW1ZcE5QN3M1dDltR01R0gHGAUFVX3lxTE5LSnFjVHJRSWdUSGRfd0hVeVJXbXJLYUNTYUVQVjExNHJaNmhvZUpGRGZJbFNQZWpEUGpIYTZJVWJXcGVHUzMwV2YyYmJhUVVJRFdEeU04ekZvUWJPLXBsbWk5SHctVWZKeUNRTUJuZ1UwOGU0MWwxSVZHbDYySWxKSmo1SUNQRE5EUU54aFNFSTI2T19RTHI0NGRXenNYc0hWUm5SN09KRXoyZ1ZjQlBxbk5RTGVlc1MzRlJ6dmJ3SktaamFuUQ?oc=5",
-      "publishedAt": "2026-10-08T01:33:23+08:00"
     }
   ]
 }

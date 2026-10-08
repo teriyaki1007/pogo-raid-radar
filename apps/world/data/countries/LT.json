@@ -1,7 +1,7 @@
 {
   "iso2": "LT",
   "name": "Lithuania",
-  "updatedAt": "2026-10-08T05:08:17+08:00",
+  "updatedAt": "2026-10-08T11:06:58+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "EU, Canada and Lithuania pull out of disinformation conference after US pressure",
+      "source": "Politico",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQkZ6alcwVUpJRTUwQWF5YUVubmU5NFphdmtFYTNOYnVYVDdMRXJ6OW5zUHNhdTZKX1liT0lsQTZCTjN5OEp3SXhMcXZyUjZUY09tbHFDVFVVRnRlUXZnaU1kaUdLNEN5LXJocEQ0dVF0Q25QSGVob1MwaTRKY2p2Qk5YbDlydk0xbC1na1Bfb2pVZmxEcktweDRn?oc=5",
+      "publishedAt": "2026-10-08T07:32:00+08:00"
+    },
+    {
+      "title": "Lithuania to deploy troops along border with Russia's Kaliningrad after Latvia incident",
+      "source": "The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQmN1RDgzYkhwS2o2YUE3bWNkSEZOTjJ3TG03a3BQNUNCRnBkbHRwYjRnNmhBMFE3MWZNaEhvVHNCeTVOcGRvbGE2dHMybVdQT2VVbU55ZVVWRzFTWHRCcTZYWG1jcVB0M19SNnp0MXZUeVZZaHphUTRpNjl6SGRycnlWdGlqclJtbFkzbEVLZXQtbjRZaWpjYnYyU216bmw0Y3NfRUxKQzAwSWpRRWVXaC1tQ1ZjZw?oc=5",
+      "publishedAt": "2026-10-08T06:56:37+08:00"
+    },
+    {
+      "title": "Lithuania seeks military deployment to secure border with Russia’s Kaliningrad - Oj",
+      "source": "Odessa Journal",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQalpGR1BCalhJcUIxSzJMTDYxaHBKQ2d5Y3RHb1p4NkpERDIwYmFCSjFzOXN0VGdiVG0zWUIyMHAweXBzTUZhWnNCUTQ3S0VPYUpLRzlFNEhqdl9YdWJZMVVuUmpHRFJFZHVCVVVqMFpCR2N6b2dKaTdYTG82S0pSbkR2R1laT0VfR0FGUE5PZERTQjZ4eFZqSg?oc=5",
+      "publishedAt": "2026-10-08T06:17:48+08:00"
+    },
+    {
+      "title": "Lithuania extends temporary protection for Ukrainians until March 2028 - Oj",
+      "source": "Odessa Journal",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcUN4bmVVQWo5REl4NWpSTmlGelhDMXVkd3M1Tnl2c2RUWG5OX1VzeldobXFoUVJRaTJaaTNFRVpLbWl4TG9hWTJjb1RxSXJaRmZPQmlDRXBkNjAwdEZXa0FQYTItTjdJbXJJVEF6VVBETVpEQlFXY0NvT29SQnlrLVQyWlNVaTFOcXRERnA0S0dCZVAzR2dqTDVMZmU5VFpXZUE?oc=5",
+      "publishedAt": "2026-10-08T06:03:34+08:00"
+    },
+    {
       "title": "Lithuania Has Allocated an Additional €15 Million for Ukraine's Recovery — Sibiga",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONDZfTzVmLXRINm5kTUh2NUVSZFFNQXRYUlBXczFaNkpCV2IybUt2MWs3Zkk0X0drMURZZlVFUjBCYUQwZ0ZOemJjRV9BY0hwZkxYRVprVzRFN1RsS3F3U05DVFRtUUQ5SUVnam9xLVdJd1MzUXNoMUR6UU9EU2ZzM0FsX0t6VzBqNkJ2VFY5bVVKSkE2VnBhY3lR?oc=5",
       "publishedAt": "2026-10-08T04:55:21+08:00"
+    },
+    {
+      "title": "Lithuania Lifts Nuclear Weapons Ban",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcnNCa2hYR2dNSkJFUlhPLVJfdnVEX1Z1WURhcm1lT09FZmpRSUY0YTFOMFUzSS1rdmNfRHQ2RVhkekNxdi1pR2Q5ZTlPV29Na0ZLV2NoQzdzbEQ0a1BEdjdPRUpNSWp4MDZjT1hicHhMb0FEaFlzZDhXa1I4dm91WnBFT0I?oc=5",
+      "publishedAt": "2026-10-08T04:31:49+08:00"
     },
     {
       "title": "Lithuania to deploy military to guard border with Russian exclave Kaliningrad",
@@ -46,36 +76,6 @@
       "source": "UNITED24 Media",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWHhRV2p4QllDQ1Z2cXRXQ292anMyZkUyZ0FBS0xNUENjUzl5WDlhNlM4N3dGM184TU84N19RNHBJT1pxekFsRy1iRl9XZVJPbFljLW9uYkIwUWx6MlRnQTdNT180Z0RDT3Q5bnVKdzREeC1IRDFSWjZ1cWE4U2lsNGZtZXRlMEJ6YWNUdFFlVkNGSVpkYW11alBkLUp2SzVpR0dZU0pjdHJmR1BLeXhfMk1XUTlMMDc4WUN6SElaTQ?oc=5",
       "publishedAt": "2026-10-08T04:10:33+08:00"
-    },
-    {
-      "title": "Russia warns Lithuania over nuclear weapons, Europe braces for massive hybrid attack | Gravitas",
-      "source": "WION",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHRYTjZpS1JnNXpGUnpSX0RwY1FQSHZCVjNkMTZ1M1F3bGlMQkZRRFpLbU12VDJUUUFrVGU4ODZ4NTZrNWhHdl9jTzdzcFF4R0tSTEVlNHo2M0ZPeHlvdURzVmZOUXowMHZjcjRUNldvM1FUbVlaZG5oSDBneHZRbnRZM0xwekVTSTRUN2JvZkE2MUV4WWV6RTg4bHFiN1FVN2dYMm1B0gGrAUFVX3lxTFAzVFdlLVJwZHVLQjRXN2JleXR3MXJzRVVDSHlJV251VWRlVVFuSHUwWVFEYjZHd0ZlalFqVmNfX2MzTVJDOHVjSDBJVXRjZzJvR0JDT3FHdTFkRFpUbXhEZHpydlVuZW1XMVpIdEVoaEZLWldIOThLNzJ6Wl9PLXFkYjUtMENlN1pJZldxUW9JU3BKNkU1dEs4bWloRlFMc29JRm4zVjhFUE5DMA?oc=5",
-      "publishedAt": "2026-10-08T02:12:00+08:00"
-    },
-    {
-      "title": "AeroVironment delivers first batch of Switchblade 600 loitering munitions to Lithuania",
-      "source": "Defence Industry Europe",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlhHVGZzWEtlZzN3TVpEaFVEUGhwN29wSEJKSFpNUmlJZFZKNHRhb0RBN3J4TzdhNlFac2VQcWxhbDMwT0VXMkltTTdlQ3pzaTZIczNTSERZQ214T0tUNmZfSl91eWZ6djhQWEtrMXdrLXRvbEt0Z1RybGlxb0ZLamUxTFBwb19KdWMzclIzblBGTEtSRlQ4aUNJZEctVHI3a053TFFuMXpLUXNFanRqQS14OVdQUQ?oc=5",
-      "publishedAt": "2026-10-08T02:07:03+08:00"
-    },
-    {
-      "title": "68-year-old Russian who swam to Lithuania in search of asylum gets six years in prison after being returned home",
-      "source": "https://theins.press/en",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB5REx5dXBRNURsR2tvbDNHSDRFcWtnNllHd3BEUm52UUFabWlXZ0pSdUdSYUlrd3JfUlZJS2QwSTlaTTlRRm1CSE5WNA?oc=5",
-      "publishedAt": "2026-10-08T02:06:45+08:00"
-    },
-    {
-      "title": "Lithuania to deploy military personnel to guard border with Kaliningrad Oblast — RMF24",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLXM5eV9SWTZmeGFKdmhMZ0VIS1k4UjlCbkthRWdBQ2g2UEZQNEM4NHJra0JhYUVtVkNmbE5kS2hnLTQ1bzJzLTF3ejNKQ2JQUEJxWGlIVElXeDEyZUJwVVpwUDdNd3duajVYQWNrWW1hTUR1eERpOU11UkZ2MF9GMjVTdld2VFRvYjBZSGNQUUNaaXlLeTdoOVQtaHc4ZEVEU1otTDd3TQ?oc=5",
-      "publishedAt": "2026-10-08T02:03:59+08:00"
-    },
-    {
-      "title": "Lithuania Lifts Ban on Nuclear Weapons, Foreign Troops",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcnNCa2hYR2dNSkJFUlhPLVJfdnVEX1Z1WURhcm1lT09FZmpRSUY0YTFOMFUzSS1rdmNfRHQ2RVhkekNxdi1pR2Q5ZTlPV29Na0ZLV2NoQzdzbEQ0a1BEdjdPRUpNSWp4MDZjT1hicHhMb0FEaFlzZDhXa1I4dm91WnBFT0I?oc=5",
-      "publishedAt": "2026-10-07T23:46:51+08:00"
     }
   ]
 }

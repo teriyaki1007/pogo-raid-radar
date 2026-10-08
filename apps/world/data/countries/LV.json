@@ -1,7 +1,7 @@
 {
   "iso2": "LV",
   "name": "Latvia",
-  "updatedAt": "2026-10-08T05:08:17+08:00",
+  "updatedAt": "2026-10-08T11:06:58+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "In Latvia, a pro-Russian activist was sentenced to six years for making a donation to the Russian army",
+      "source": "Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkJlUHM1RkF3bVRtb1pWT1VKdHh5eHhDcEt3NHhnN29BLWNQZjBybi14VEZrTHJEb3NvU1ZYUXA1VDVGWmNSUXNQR1F2T25fN1h2S1o4OGlNc3B0WWMtZmNGV0lUX0NueU92OXI3WEpJbUlOdkV3NmpabzVhUjhyRlZybDM5X3NrTlFxTkRGYjR4UEl6aHZzZ1h1T3VvOF94UUZaT3BVR01nQ09JU2dlc2ExZ0F4NmdWbS1pSkFiNF90QdIBwAFBVV95cUxPR3Y0cVBXZzNlbUVIYmpwUGxkak5ZVndzM0Y0cFFqeHFQRGFWd2tzRWM0U0lXN3QySWpGV2xiQVhra3ZJdXZHQ1BWLWVTWUpldHVmWHUtWG02N1c1TXlYQVpIbXVPbVVJMmNSYTRYazVzVmw3bUppODZZazJBZnhnY0xpLUFMU25DYWJ3Z2o2b1Y4MHEwSXAtdEtleWlfUUNxc3l0RUlZb1ljZ3lDaWUyYUU0NXJ4RWZ2Z0VfcFRONm8?oc=5",
+      "publishedAt": "2026-10-08T07:16:44+08:00"
+    },
+    {
+      "title": "Lithuania to deploy troops along border with Russia's Kaliningrad after Latvia incident",
+      "source": "The Kyiv Independent",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQmN1RDgzYkhwS2o2YUE3bWNkSEZOTjJ3TG03a3BQNUNCRnBkbHRwYjRnNmhBMFE3MWZNaEhvVHNCeTVOcGRvbGE2dHMybVdQT2VVbU55ZVVWRzFTWHRCcTZYWG1jcVB0M19SNnp0MXZUeVZZaHphUTRpNjl6SGRycnlWdGlqclJtbFkzbEVLZXQtbjRZaWpjYnYyU216bmw0Y3NfRUxKQzAwSWpRRWVXaC1tQ1ZjZw?oc=5",
+      "publishedAt": "2026-10-08T06:56:37+08:00"
+    },
+    {
+      "title": "Latvian court sentences woman to six years in prison over €43 transfer investigators say was intended for drone-jamming equipment for Russian troops",
+      "source": "Meduza",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOUEFCXzhHeXBzLTBoUWNBQVM2RnphNkx0YzdzdkhFSnFHQnByODNwdkR5MmhzbzBNTXpIVFNmSkE0WGhNNWI0Y2I2V2NKbEUtVWh0VGpZYlhJNHN5c1pVOUYzcDFfVjJjNFJJOUpSenhXZFA4S0Z0WlE4SmwtR0d2eENGRDRwaU9JT2hEVW9PZDVNaG9ENG5ES1VRbkUtWFJFbWRkcFp3ZFZua2thVU1DNkRsR1d1NnZGRGVOeGRscFdCUmFjVW85SWFUNFA5Q1FkV3JCNG9tWGFWSU9MQXBjaTZzTUxLVlp4WUdFYzNkVG9udmxWVTZtejNtUnJRSHhmNWtXN1NMVDJONkZidEtyb0t30gGXAkFVX3lxTE1lZVczd0ZVenVodWl3LUtBSC1PdjdHel82SDVCVW9UcUJ3azl0bnRMblpUMkg3RkFNRnFsSktFOU9rQWF4bUNzeGY4RnQ5OFZTTjZySEZHV1ZPWVlBM2VJWG5faFRTXzh2bUZzVl9qOU5uQThiaExDVUt6MS1GSnRobDNJTVg0Q2pPVGlSTjY1bm9fQ3l4ZmhqY0JWLXI3THYxMUI3ZXc4c25uTFVaOUhxVEpIT3pkYVFwaVJncnoyM282LUhDYjVleEI3UzRwR0xVOEF2SHVOMGUxdk42R0w4TFJHR2VNQkF6dXo4TWxSTWdsejB0amlIeXFsdUR2c21WRWw3U0JNR0xjRzlxbzE5RFRIMWprQQ?oc=5",
+      "publishedAt": "2026-10-08T05:24:00+08:00"
+    },
+    {
       "title": "Latvia expels ex-BBC journalist for serving ‘Russian interests’",
-      "source": "The Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1h3QTlXZktQM2owZFFpSlhxdnFrTjJtVTVfOWdBUW5lV2FKSnV2dDRRYlFUNExtTUlHckU2ampFc2YyOEZOSXhCUzRSeW9Rc2YtNUlmNXktS28yZ3hNVHpWdG1zX05icWp1SUZWTTFhLTVBVDh5a29md1BTYlJPcXNJNk00SXZ2VGs5R01Zc2hPcVZvVThzN2hORDFsQTVac19wMkRISGVfNXNS?oc=5",
-      "publishedAt": "2026-10-08T03:04:00+08:00"
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN3pSdkRVcUpScVFkT2x1SWZRRUdfaXpBOFpUUkJ4Y1BTdTZnRG1vVWdRT01Sblp5eG1fZWtMQXRyWkp4bklQTmhTSTd3MzQxUmg4dy15bEV5cndYTzJjRXVzY0pRMHAtaFY0ZkxTakVQX0FjSlNDSVB2ZFRPMzd1ZkhzUG5zejhhOVFvU0tEaTRVZw?oc=5",
+      "publishedAt": "2026-10-08T03:04:01+08:00"
     },
     {
       "title": "Latvia moves to declare Russian journalist Leonid Ragozin persona non grata, Baltic outlet Delfi reports",
@@ -48,34 +66,16 @@
       "publishedAt": "2026-10-08T00:17:00+08:00"
     },
     {
-      "title": "Six years in prison for 43 euros: a woman in Latvia was sentenced for donating to the Russian army",
-      "source": "Прямий",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNDliQkd6U042bzFaYXVSOTNSZzRQbzIwT3l4TUEyMWIwVHFDVGpsSGRIZE16N252em5OVG1rYXFuU0laZlE0U2VtR2Q4SFhkVUVXUTRsalRrUEFSdjZRQm5YaWtCaHRNclRvNUtEVDN6ck1QcWxOdlhBVENfYjZTSkZtZExyVk5aMG5tOU1IQ0xnUElYMVpBX1lpc1U5OHVYVWJUb3pFcUlKMkpYWGVBZ1VEYTB2S28?oc=5",
-      "publishedAt": "2026-10-07T23:57:37+08:00"
+      "title": "Latvia says its Rail Baltica main line cannot be built by 2030",
+      "source": "Railway Supply",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM3FVNlNSUnZWbXRJb2RlZ3Y5RklLTVFOMWVvbUtraDFoX2hzLWlWNm1QbzlhNUJpazlybDBnUFFyOHN0eFpTdFR5RlduVlpHSUVIMmNuMXBXVUFBODE5Vm54M2g4TlNVWGtPRjRVVEJmTkJuRHVEOTB1aFAwWncwTlpwaURFZ2dEWGh0U2JQRFhDR3Jf?oc=5",
+      "publishedAt": "2026-10-07T23:48:26+08:00"
     },
     {
       "title": "Bite Group names new CEO in Latvia",
       "source": "Telecompaper",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ0ljbnNVcEVPeWRHclVxbVNCRWFybGtmM09nNWdGQkcyUXpXOUtCZUppZHM1VkRFT1E2Z3A4cmNpNkxDOTBnM05sWDQxY3BQSGVNRG45M0tGTmh0OGJEMjU0ek9MSTNTRmp4QzMtNDFUOWh0MC1vbC1mNkIyRHcyRkFHNA?oc=5",
       "publishedAt": "2026-10-07T22:52:50+08:00"
-    },
-    {
-      "title": "Latvia Moves to Expel Russian Journalist Leonid Ragozin, Delfi Reports",
-      "source": "The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONVJKamdrSFBpaFlQVVo0V05JSjdoSHh4NDdfbWRONTZxM0tQbklBN1p5YUZNSnhFbnlwSTRfbDdyYXhuZDB4czV0TXJ5R2plMzM1a2NyWlFXX183ZjQzeE1wUldRY0NFVlpHMG95UXEwS2U5MDNldVRXd0lpY0FKczZMZHRQbWpvZUc5T0lxOFRnVEtnbFlzcTk5cTFLZ0hVS29hR3M0Rk9WZ3NjZFF3cVZmRTI0cjRhemc?oc=5",
-      "publishedAt": "2026-10-07T22:33:00+08:00"
-    },
-    {
-      "title": "Unidentified masked people enter Latvia from Belarus, damage border surveillance equipment",
-      "source": "Ґвара Медіа",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUlacHJWU0ZiRjF1WTRxR2VNTW9GS1FEbnk0T0R3eC1oQURuU2NDQkRUeWY2Y0JoY0tNOFplQ3JsSkdMaTdLQ3FIZE5GSUN2ZUxKZGZoTW9lWGdTVzBsMnFLR09SVDFIdmNQX09VNldjNTc2VG9adEphSVFUZTNGdWExalVpOHFvaF9KTkFfUkQyQjJIZS1fbE1UQ3k4dE5MTjZNLTItb0xoVWpaTjVJZVpoNjNqcTg?oc=5",
-      "publishedAt": "2026-10-07T21:44:24+08:00"
-    },
-    {
-      "title": "Latvia Keeps Visa Rules for Uzbek Citizens Unchanged",
-      "source": "Caspian Post",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYzB3Ti02MFFjX3p0OE1JNTZYX252LWkyN2dJN3kxb1JNTG5UTTVBd0NUOXc2aFBMT0N1ZXVNcVh6OEwyQzIwbHFIcG9xZzZYLU9rYlpRNjRvZXRZZFFxX3pHVFZrdXVmY0lWWkJPVjY5eTFLNG5QNFRMMm03Q0I3TUdQLVpVM2d6Y05JazRPNko?oc=5",
-      "publishedAt": "2026-10-07T20:52:58+08:00"
     }
   ]
 }
