@@ -1,7 +1,7 @@
 {
   "iso2": "BM",
   "name": "Bermuda",
-  "updatedAt": "2026-10-09T17:06:37+08:00",
+  "updatedAt": "2026-10-09T23:37:09+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,9 +30,39 @@
   ],
   "headlines": [
     {
+      "title": "Bermuda property capacity tops $2.8B",
+      "source": "www.businessinsurance.com",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93X1RTNmhJMGdYb3VCQWhsMlYweHBzNDJleVZaTTduak00TVlNVkF1SlM3eW11WGlneFY2SHhjd2c1OVBjTTA0cTNvbzhuR25lM2MwcV8tdVM5Mk1WQ2YwZHNaWTJBampiRWdDLW0yY21Gd3ZZTy1GWmZR?oc=5",
+      "publishedAt": "2026-10-09T22:15:31+08:00"
+    },
+    {
+      "title": "BILTIR’s Largest Ever Conference Showcases Bermuda’s Role as a Global (Re)Insurance Leader",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPb1FjN0xXOEFwaGJrQWRZVVFPLWQyMzJ3RTR0UVhSeDdoT2tSVkFMYmtUWDdfZlh6ZWpXSEE1dTIyRXBzTU5wVzJJMVZGS3JPLTR4M01yVVlKWGp3MmpvV3p1Z1ZUaVNTWFNoNXVPZ1pVd2ZlQUFmS1JrTk9Hd2Z1OXBVQ1RrYnZrU1oyWklkQW00U1l0RGhiWlZlVTZsSDdQdllLV19hOHpXbUR3SjliUU40cEhaRDFxUFBjVWdGa3V4UzZJa2E4MmtkOGlGSjdxMXVSQy1GWTJHZ3M?oc=5",
+      "publishedAt": "2026-10-09T20:00:00+08:00"
+    },
+    {
+      "title": "Wallabies: The ‘Bermuda Triangle’ challenge facing ‘big body’ Joseph Suaalii on the Eden Park wing",
+      "source": "Planet Rugby",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWk1mQzZTWVZ3ZHJOTndnT2RMV0pkWXdlZDlUVDJOWEN1VnN6b3IzTk9DLThFODVtU1YwdmJYQnVLcHptMzRJU1BHNTh2STZZRFRwSEhyUEtESk5HTUFKMG5ueXhMNE83LXRLd1MzVFVVSkVJY3EzbHVERlFSN1ViN0dvZGE0eHN2ZXZqc2JJT090VHgwa1RTRHdYb1lVVERDUDFzNEprMXhXQjE1ZktpbVF1UlhrVmN3RmFJVlV5R0M4d0VN?oc=5",
+      "publishedAt": "2026-10-09T19:39:35+08:00"
+    },
+    {
+      "title": "The leadership question Bermuda cannot afford to avoid",
+      "source": "Royal Gazette | Bermuda",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUmE4TDk4N3NUVWxjYkptLVFTNkFMNGVhZWhnQjFfcU1ubkZrU3gwQ3Y3UlVtcEJKREFmZmMyUFBtRVN5cDU0UFhmQUZxRWpkbWJPRUliWDlLUmhoWGlJZ2RWdTRaS3o2NnU1c3ptMHJXQzZ0Qkx2NHJMQlktMzlQQ0RZZkcyWWxEX3hrRzRVWFFQenBBWTMtTTNFVF9id1dNLWo4bWNEekNndGpEelFhYUFlRjNpbzFhVjZGSkZMMEtESTM2STJCazBZaThzVVMz?oc=5",
+      "publishedAt": "2026-10-09T18:59:00+08:00"
+    },
+    {
+      "title": "Hamilton Re mourns Sergio Lottimore, head of specialty reinsurance, after air tragedy",
+      "source": "Bermuda Re",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZkN4WUVCQUhXZDE0TlBJNEtuRVFLaW5VNVNfajB3ZTNHcHpKTUxNYUFlN1g3Nkp5Nkg3TjdMb2JPNERRdVZaTnNneDZfSDhmc1NoYkJZTzhhUFJZdmwxQ2NYd0RnN0hKazFKc3ZjSXFuNXJsVzczanJ6a0dOakJ6amZJOGRPMmFWdzFnWUtNdUVTSkIxbEMtQlRxLXdFWUR0UnJlRmFUYW8xbWtmOWEyNXNseG5qcHFtVE1zNGFuNlB4VHI3?oc=5",
+      "publishedAt": "2026-10-09T18:57:27+08:00"
+    },
+    {
       "title": "Bermuda for foodies: the classic dishes you have to try",
-      "source": "Simcoe.com",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQdUtTN1Zjd0NHdEhVUlRkalJNcm5rZHcyZmZxOUw1TzFEU193VXM1eHc2eEUzVXl2RUotZldNcklXVzFMRjZTbWE3TUh4Wi1UZVNncEhCVGhmUmRUc1MtZnp0cGZiZVRWZWxoeEQ2d3RPcUNaWHl1emtIRGtJMFdJUS1VazhmSjF1ZTk0NFRCbUdTTWpLYUpDaERMNHBvM2ZrRzAxNjlaZHBXajZyQml3eWRWY2l5M2hsZ2FhVXVTLXhHS21qNE8zeTFfb252LUFyRVZSeHVjYWV1RFFncHhiem5DRnZxNXJPdW1GMWlfRlh4ZHZEZ0w4aExweDFBQUhJOG1ZQ3N0M3dpNHo4Z3AwNDAxQ0JXOVotYlVYNmJrM1d0a3JWdG5Sa25PVlRwRE0yc0pBRW9FUWh1cUtyT3c?oc=5",
+      "source": "Toronto.com",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPLXltaFFHTTBpeVE0ZV9MQ1dJcHBKQjZwcFVGTDI4NlR2dS1lZW1Hd2t4dk14TVNaUGRTLVR4M0hEcGJjM0JYQ1pPOEl4RElrTnNiNXA2VWEtdHY4UkYyWWtwVWx5YVcwSHBRVEdRUWZzYlB1N1BUdEloY0oyQUZfTHFWSTE1bW84Zl9hbkxPa3huV1l0cXpFeGItUGtDMmFwbi1SaGtaOVBUYmhLWU1MTzRqN0tqX2ZVM2syZE1va0VJU2NvS0JVbHh5ZXZjbldyLTlmNVZiYS1oczU0OXp0ZUkyUFh0dnJVWlhBdVFxczEySE9xWWR5dWViWnB3X0lEN1hnQkEwbl8tV0JPZTNxOS1JcjRuMEg4ODJmZUZoMHloQXlqWWM5ZENrd21zaFpCc2RLa0dWQ1ZvTDN3cXNz?oc=5",
       "publishedAt": "2026-10-09T17:00:00+08:00"
     },
     {
@@ -42,40 +72,10 @@
       "publishedAt": "2026-10-09T14:37:00+08:00"
     },
     {
-      "title": "Pedestrian becomes Bermuda’s 14th road fatality of 2026",
-      "source": "Royal Gazette | Bermuda",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZXVIS1IzYk8xR05qd3I3ZW5OaElnNC1HWC1tRFRmNjhJallhLXJWXzVueWdveGVNalFVdEJ4RzdWV3E4N29OblRXRXFMQUxFempmbDF6WXJ1U040X2t0bHdfRExjTnFidlNEYzg2T2duZ2RmeVlxRDFCMmE1NWhDOXF3YWVIVnF5cGFzUkRYU0dBQlNTMFdNQXpJS1NORFZqZ3BYY1V0eU82UlQyMmxMNjJiSEF6QQ?oc=5",
-      "publishedAt": "2026-10-09T07:28:48+08:00"
-    },
-    {
       "title": "Terryn Fray: Bermuda Ready For Busy 2027",
       "source": "Bernews",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4ydk5mNm1oS0RqRzFaYkZMYXR1V1VCUktUcnI0MGd1UmMzdXZXeURqbXRlTF9vUEZpclR4dUN0Y2JERndfbmQ5WmVjSnByM3pKekxWY2hRZHlER0cydGxsRDdmdlVnOGYxam5vNTM1Mkxtd0dtWXBz?oc=5",
       "publishedAt": "2026-10-09T04:22:55+08:00"
-    },
-    {
-      "title": "Bermuda Reinsurers Reported Stronger Underwriting Profitability in 2026",
-      "source": "Beinsure",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UVThVUlE2VDNIWHB0dk52VGRWY0RqeC1XUEt5SlNHLWk2cHI1a2haRTNpQlc0ZGxHaHdseC05Y2VTd2t5Wi1uLUNKT0NUV1haTGVxMTQxa3Y4eU9xX1B4NXFISDVycDR4Sko0bTV4X0I1cFU0OXc?oc=5",
-      "publishedAt": "2026-10-09T02:01:04+08:00"
-    },
-    {
-      "title": "Eight cyclists ride for Bermuda at Caribbean Championships",
-      "source": "Royal Gazette | Bermuda",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVWltT1dWR044bnhVVEgwOUtGSHNjb3RMNEtMQ1V6NDNpdEhFdnBUNHNVMUZFTmNRdjFFZFdWM3EwNkU3a2MtTUNkdExsTTNzbmUyMEc0Uk5YMHc2ckRPM2lfZUZuMDFsSkhpQjJmV3ctZHFZZndFMWxBTWROT1lNYXZNWVo3X2t3akpjTFBnTDNvOG1WZEh6SDhGWlRub3dMWjR6ZEFDMWFTRVdLWEVrTUhJMVV0VnVQNTRz?oc=5",
-      "publishedAt": "2026-10-09T00:25:27+08:00"
-    },
-    {
-      "title": "Newmarket Friday latest: Flora Of Bermuda set to blossom for final time",
-      "source": "Racing TV",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT2RGQkNuY2VqSW9oRjdtak5SNmFxZVFMbWVHRFg3TFE5Q2FLdjJoRGZqWDAxYjJFVnRoaGVtdDktcDY2bmF5QWZselR5aVV6X0VjaldsTmNMaW1xaVdCRTl6Y29YcDhGS0RuQzlRaGw2UmtHS3hvSnFBSF9KYXZ5SUtKZGpwcmM?oc=5",
-      "publishedAt": "2026-10-08T22:54:00+08:00"
-    },
-    {
-      "title": "BermudAir Launches New Nonstop Service from Florida to Belize, Turks & Caicos, and Bermuda with $99 Introductory Fares",
-      "source": "EIN News",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQU3BWbUZWaDJSbGg0UWgwN0tSY19uVVhQWVl6Vm5ZNWxnUjk2eWp1bzlld0ZlOWkyOTJSSV9xWVNPcmtUdWN6TVJJak43bEdGUkZ1MGNxNXdYb1FLZGJOS0U0bHFHTHRrTUFGTHNiU1dXZkYzdTE5OHNHanFTQVNZS3RCMkkzbDlwc1FMRzgyUnFhNTVwMWs2ZVdUaDRjenJTSlF6MEh4bi1LWGJEbElycUkxdU91b3ZKR3c5SWlNWnVIYVp6dWRKeHc5a2tmOGhlaFdqQmlsTHh0M013ZndBSTdpeWgwRkVERnNn?oc=5",
-      "publishedAt": "2026-10-08T22:32:00+08:00"
     }
   ]
 }

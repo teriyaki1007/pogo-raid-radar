@@ -1,7 +1,7 @@
 {
   "iso2": "MU",
   "name": "Mauritius",
-  "updatedAt": "2026-10-09T17:06:37+08:00",
+  "updatedAt": "2026-10-09T23:37:09+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Egypt joins launch of AfCRA in Mauritius",
+      "source": "Egyptian Gazette",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaXVPYl9LRzdEOXkzZlRaOEFVLTdNNE82RFZPVGxrSDdtdkF6TmpDUzdzVWo4Z0M3bE5sMjRMdkFlRkxEN2E4dXo5aWZ2RjFOUFVHVUg2Sm9OaUhvTDRxc2M1Uk5nQ3cxc3NOa19mM1pINWY0RlBib0xTY095eWVDd1F3?oc=5",
+      "publishedAt": "2026-10-09T20:25:44+08:00"
+    },
+    {
+      "title": "WOI.eco Announces WOI Nations Platforms in UAE, India, Malaysia, Mauritius and Kenya",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNYWY5RlRSc0t5ZDVVR0JQTXloZlA0Y1lKQmJwdXpBVGVneDg0d29qTnJRXzIwOURLZkNPRDRoeEFMZFBYMi1WanlOZndjYzlhckhyTkhsNUFvVXNfZWFXb3ExTDV2VW5MTWdiUWtUM2t1Wk1udHN2Qjk4VEczeTA5cm5rMXJGMXpQb3VuNjR0NzZiclNLVmViN1BWOHpJSGNPdGRRdlQ1SUxJaU04eFhzZ09KS2R4TEFuQU1RSERad0UydUh6SUtyX0piQmhBSFV1WjdSdWVYblFkNVc3dHE3cDEtQW9ibmZFVHlOVVRCTzl0UmZt?oc=5",
+      "publishedAt": "2026-10-09T20:07:37+08:00"
+    },
+    {
+      "title": "'India Understands Us': Mauritius Minister Praises PM Modi, Indian Diaspora | Sagarmanthan 2026",
+      "source": "Firstpost",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQm4tTWM0SVZVM3RIcWNmZHNTaDJjWGRhSTdNc1NHNmF4N1hBdlFBSEYxMWhFSVF6UnVGcUYyYVk1ZURCQmFIMGxfZktaM2RBZXlIcXNxYjVjMDZsZXcydzJKNEE0ZnNVVzgwaE91ckhvMUJ0a0JvZk5yQlYzSWRuMlljVjh4UjFadU56SHhCRDZHTWpWRnlVTlBLRnptVktHV250U21GbGk0UUFkcDd2c0dCYUYtamdRaVVCeUtycWJOSzlsZV9DbzBwNWtnSEw5VHU0RDhZNWp2c3RNZXVxcHBLNmJQS2cw0gHuAUFVX3lxTE9oNHBRY0IwdV9UY1RmZ0haM0ZTUkM5b3RkS09oNXhGVEppVTZLOExnU0lmRkRWNi0yb21yajBIaHNGX3VTRXhIbG90MV9iQnU4eWJ3N1A2RzVOdzdrLXc2STVKMXFUNkRmZWE1UG5QUDlfT2ZseUxfbnJZdlhlZVctZGI3eVR2N19jbW8zOUpaRlVPYlVIWU9JSDRLZ21PMVdhbHVHaUtzS2VQX1l4VGtlY055STJLV2FGblVnWFptczFKTHRoanVDZ2p6Nk14MG5INklwR0hTM0Y4RGlBRXg3LVFCZmd5N3pGdkpIX1E?oc=5",
+      "publishedAt": "2026-10-09T19:45:00+08:00"
+    },
+    {
+      "title": "Black Queens Thrash Mauritius 3-0! Ghana Takes Big Step Towards LA 2028 Olympics | AM Sports",
+      "source": "Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iYW82TTB6Um1wdm40NVktS3M1RUJSbDROT3BCMjR3aURqU3pXdzBFTlV5MmctX3lFbm5nSjhuNi15MWNhYkcxMHhjRWtUWVQzVWtmbFdQSklNM0F4bGExbEtGUDHSAVxBVV95cUxORkFmZlJvek14NHhqSWM4YmkzaTVWVGdPSkZiQmF0d1pjX1J0X2xDbld5dW1kNzQtMWhTSTJ3VDlyQWZETU9raVppUmlNbFF3VGgxejI1eXVKRU4tYQ?oc=5",
+      "publishedAt": "2026-10-09T17:41:06+08:00"
+    },
+    {
       "title": "SUNLIFE LAUNCHES ESTELLA, A NEW WAY TO EXPERIENCE RESORT LIVING IN MAURITIUS",
       "source": "Breaking Travel News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVlphSm9nMzVNMHFiT0JtM2pqeGE2T0JoZGcwa3ZCV1hxanktWndRVXZCYTVzaE9DdUZwWXgyMkhPcGhVNUVjZDNBa2gtR1V5WTJOd1VIZGUyS3ZTZElkVUdsendTaTM3aDhjSkZfYkZDaElvc2kxTVFNVjhhejZieUM3Y3NhVTBRVEg5NjE3SjlUTS1FUGlod1JPVU1OOTVLWkMxTDdKUkVwN3B3M01tcTI2MEpVVndmb0hkTTdfTDFJUQ?oc=5",
-      "publishedAt": "2026-10-09T16:33:04+08:00"
+      "publishedAt": "2026-10-09T16:35:08+08:00"
     },
     {
       "title": "Kenya signal statement of intent with 2026 Mauritius Sevens victory",
@@ -52,30 +76,6 @@
       "source": "Africa Top Sports",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVExxaDQybDcwMmlHWGZXZ2lYUlNwandMRkxMeDNNMElROG9NNWF1a1I3Q1BiWG1MekZONXhFUFdjbFEwV3l1bXQ0OElYOHUxSXF6RUk2YnRsTjVJVFFyc3VtOVVtUFYxbmlDZjNndHgtNHpfd3pUa1RUNXp4Y3dFVHBRd3ZNbkxZRUFrN0w4TURuWm9ScmZGQURJSQ?oc=5",
       "publishedAt": "2026-10-09T04:33:35+08:00"
-    },
-    {
-      "title": "Black Queens beat Mauritius 3-0 in Olympic Games qualifier first leg",
-      "source": "Ghana Football Association",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ0Z4VE9mR1Q0b3lSUnU1UXMyQWdNQzkxREN5QmNjWVlENUxxbHN3dC1NUDUwUlFEN3FDT0VLMjg0cmphNE5rNlJLc014QlpRTlg1cVRsZ2VfQjc0cV80NmhfXzZTUGZpNVpxNUN0djNZMG85THFlcklSanAzSklLNkRWOFc2UU9ud2dPSmF6Q0FCNjRibG400gGfAUFVX3lxTFBUcTViaEdTM3VkN1ktU3d3YTB1bXlfV2Y3VFFpWVRFNzZMTzMydTlQekIyT1pLVW90Vnc2SmVYMzFxMVNHZ1JPNERBSjljbVZSbkRLY0RhNlJ1ekg2TnFlNHNGcHFzdTRqNWZwQXoxQzhQQ1pTck1JWlFsLUlYT3Bhel9XREtveHpkeFdQMjBKUi0wbkhzNlJUcUtBbWNtNA?oc=5",
-      "publishedAt": "2026-10-09T03:16:56+08:00"
-    },
-    {
-      "title": "Black Queens beat Mauritius 3-0 to put one foot into next round of Olympic qualifiers",
-      "source": "3News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWmUxeE5wSDdJNFlaT1psSHo4cjR2NFp1WV9zM0tEVjJTRlhoU2FQZUctc1E2SU5ucmZvV0xaMjlhNDZLX0VQTGc4VDF4OEpiVDQyZmwyVUY4bDRtMzlzUnlSWGJPRU0xMzlfR01tUng0TU5jZDBvU1gwWWZXRlROSzVnZC10RElVMDBXSFlOZ1FWRGtEUGU2UlotRWNidDdOTUZCNlJ4Zmh2U2lBRU5Z?oc=5",
-      "publishedAt": "2026-10-09T01:21:49+08:00"
-    },
-    {
-      "title": "Great Plains and Shoot The Rapids Headline New Wave of Mauritius Imports",
-      "source": "SAHorseracing.COM",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vVlBCVkxXZE1DNG1kd3dfelEtbXBDamJwall3TWZGdzZ2VG14TVdOeEZIN0thNHVlcDlRbVpSejFJM1lkMXM0MHZSdVBMWDRiRmVMNlRNRlFRZExwcWhlOQ?oc=5",
-      "publishedAt": "2026-10-08T23:50:41+08:00"
-    },
-    {
-      "title": "Mauritius unveils Space Strategy 2036 to strengthen national space sector",
-      "source": "Tech Review Africa",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTjI3TklHLTQzd1ppRFZhTVE1dHZCOTVSSjM2MjBWRE8tcDhqNzR3UnI3eU01UnAtVTl3X3dqMjY1SFdkaG12REZ3b3dXZTdGZmRNNmR0Zm9IVFRJbWhhcFdCd1Q5empmRXhydHJ3RTFLY1ZURTdub2NhVXNjelJDXzFVMk94eVhjS1U1WTIxcjk0N1V5OGREdTRsTEFyMUlOM3NrTElFUFhjd3R0RU9jSDVR?oc=5",
-      "publishedAt": "2026-10-08T22:15:51+08:00"
     }
   ]
 }

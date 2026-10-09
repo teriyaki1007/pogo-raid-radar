@@ -1,7 +1,7 @@
 {
   "iso2": "GA",
   "name": "Gabon",
-  "updatedAt": "2026-10-09T17:06:37+08:00",
+  "updatedAt": "2026-10-09T23:37:09+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "FDA asks the public to weigh in on ibogaine clinical studies; Gabon wants its cut of the ibogaine boom",
+      "source": "The Microdose | Substack",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NdDFlV0RpaGpBZ2FVcTF0TnVkYXJISC03NzdtbzZVekVTc3V1RGhoWWcxMTNEb3ZtdjdVb0J2VlJfNXlhUzVKOUhodXFFczNtOHpHcXUtVEQxaGhhV003WFcwem1fUFJiLUdpYlBZTi1TMXdteUdhZWt3?oc=5",
+      "publishedAt": "2026-10-09T23:03:12+08:00"
+    },
+    {
+      "title": "Gabon: Allogo maintains his executive board, government issues ultimatum",
+      "source": "Bénin Web TV",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYXdVUkNCa2hXLW51amU5elFzMFJpTHNvbHhLNGlrUzlhNktqN0V3Smt6SVRPeXlOQ3lGUWNuc2RIc2JDNklpM2N2WFYyV3J1MEV6T1dsVHpvM25JLVkzTktxaEdMRDNSUnVsTEJYUTJENmR3WkJuam5wZXFydFhoeDU1Q3llV3JpbVM3RFBlWTVrNVVMN1lNQzlMdV8?oc=5",
+      "publishedAt": "2026-10-09T19:54:11+08:00"
+    },
+    {
+      "title": "Gabon: 1,473 dismissals, two official reports still diverge",
+      "source": "Bénin Web TV",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWEt4dlI2Zl9UNnpWUGVMQld4MXNYcENVR09mMWVYcU45QUdqOF8zeTYtbDdjT3NoNkFTZ2NmR0tUZzVCRkZsNGdReHd2Tm02cHJyQnJaWWs0N2FNLUpiT2JBcGN1X1MyclFMRklHOWRCcFNiY0NmdWstbnBXWGdpSGhqSG5VUlZjOWc?oc=5",
+      "publishedAt": "2026-10-09T18:05:56+08:00"
+    },
+    {
       "title": "Vaalco completes Gabon Phase 3 drilling with ETSEM-3H well at about 2,000 bopd and starts Baobab Phase 5",
       "source": "Oil & Gas Middle East",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PZHlLV1lYaE8xd0lvalpOUDJTbnhoNjVobTRTQVZYOWxvNzVKYk5OV1VCenhmdmVMbGk0UDRycHZkMGZBcXlLZ3Z6eWM5UDNTaUR1Z09FS1JMNlNlV09sY200NnVteVY0SjRRNTkwNDg0YmZYb3A4ZDln?oc=5",
       "publishedAt": "2026-10-09T13:55:31+08:00"
-    },
-    {
-      "title": "Gabon: 30 billion FCFA in September to stabilize fuel prices",
-      "source": "Bénin Web TV",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdnUtZ0hJNVg0bVFzUE9GeWFTSmRmVEt2WWNuTnFBTW44aFF0dUlZTHh0Vlg5M1haMHNmbkRWV3J6Zm5QZjZFWk5Ea0ZMR05SQ0ZPV1ByMkt5YXNSMUx5M1p0dFJaZ0JvWU5xZHo1eDNsbmhuZXFXQjFaVXU4amE2eTNnckE2YTB5OUgtald3?oc=5",
-      "publishedAt": "2026-10-09T13:12:17+08:00"
     },
     {
       "title": "Vaalco Energy's new Gabon well hits 2,000 BOPD, boosting growth and debt repayment plans.",
@@ -64,18 +76,6 @@
       "source": "Upstream Online",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTFJVaUlJTDZXMFlUeW5oSUgzdTZnX3daRjZPOGpubDU0YTE1RGEtUmdpMmE5ZlNBN1BNQUJQSTVvREE3b0N6YkZ1VzZ4WjV3Y2hvQWFqODhuMy1mMHpWRTlHRUVvZ0liejFWd3dYUFQwSmRvZzNXd3R3LUg1Y0Q2V0FNX0lQYzdYZzByOE90aTNIWDNrOHB1VkFtYTg?oc=5",
       "publishedAt": "2026-10-08T14:59:21+08:00"
-    },
-    {
-      "title": "Supermajors set to snare huge areas of deepwater acreage in Gabon",
-      "source": "Upstream Online",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWU9tMHJ5MWhpLXFzYnFjUWhsZG1kc180ZVBLVFlfNk9ZVGc2RTA1MncxT1VKblFSS2dGVUJzUXQ3QXhrVDVibUMwWUlZRGVEckVudmZQZXZjQVhIXzVsYWJ0TlFBVU5aWDR3c2FvY2x6cUYwRzV2TXIxU2xTRHJwUTFHVFFnU2tFNUdRdHhfZjJzY1V4S0FESFlaZXM2cGtZUFJPX2xGdUNVU0lPSXhMaVZUZGZHZHFvd0JvVQ?oc=5",
-      "publishedAt": "2026-10-08T14:00:44+08:00"
-    },
-    {
-      "title": "VAALCO Energy stock gets new output from a Gabon well",
-      "source": "AD HOC NEWS",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3A4RGVsMHlQb2ZSUnhXbnl4TVF0S3hDNlhhZ0VTMVhNX2trd0hCRFZzX1hYSHdCamtSM2RIMEZ0bF9ycVBaY0sxR3dORmtPVXBXQWR4RWg4NWRsWnRtUnRlWGNHaFNvSGNoOUhBbTcxaEs4aHJjZnVwa2xVRmFXVUw3SmQ1TmdOdFNERkltcDRTRlRsMi01ZGFfNlcxQmtXY0FhVmZpamdhVWhPajh5ajFR?oc=5",
-      "publishedAt": "2026-10-08T11:29:13+08:00"
     }
   ]
 }
