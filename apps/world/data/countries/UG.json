@@ -1,7 +1,7 @@
 {
   "iso2": "UG",
   "name": "Uganda",
-  "updatedAt": "2026-10-09T06:11:27+08:00",
+  "updatedAt": "2026-10-09T11:05:40+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Banda urges Copper Queens to learn from Uganda defeat",
+      "source": "ZamFoot",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZGdmWlBUMFFDQkRkMnVNbmh3V1NaZHBPMHNvWVI0SHRaVDFYcGI1R25XQWFZZ2czTVpiSTdLamJtT3p0OWFheHEwVkcxRzZpdnpnSExHWDRWSFNhOGJJajRuRHFkaFRTNVBNdVdHRkVpMVpJQVVudkRveHVvZXJHN2FyaTdJWkc0Zm1DZg?oc=5",
+      "publishedAt": "2026-10-09T10:25:23+08:00"
+    },
+    {
+      "title": "Ugandan artist Leilah Babirye weaves queer resistance into intricate sculptures",
+      "source": "The Bay State Banner",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGhKblR3TW1CV3A5S1dYVjlyaVZJeFdTdFhCMVhJX3JNaFZVVUtVcGZFejNISHZfb2pPTldHa3o4cFJsZkt2aHJsMUk0Q19QWVR4dEhIV3FSNnVtUVZEcDBmRUVqZzFGbUx6ZlVjUjAtSGNKRzJYNU1obWRWZnpBcDBNc3NkNHRreW5vcUZIWnlubVFsUVlfY191Tk9XR09wdTNZZG9DWXhaOHhJTFJlZTVqNnVVcDJfX1E?oc=5",
+      "publishedAt": "2026-10-09T10:00:04+08:00"
+    },
+    {
       "title": "Low Pay, Burnout and Depression Drive Poor Welfare Among Ugandan Doctors",
       "source": "Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlpNUEJTbFotb29yc0pCQlh0OXN1M3lYRXZ5MmJ5clluTnhkeXRVaERsSlJxbWZjdHZSdUxNMnkwOWR0UW1IMVNiUkpCcEcxa0NrUE5rQkVPVGc2NUtmbE1Ocy0zT3E3VmtkYnJFb3QwWm9jc0pzcXdMSjhyd0tNeFFDaUV5M2VCTDBVUnRzRnU5US1wRmF2X2hqVTQ?oc=5",
@@ -42,40 +54,28 @@
       "publishedAt": "2026-10-09T04:24:12+08:00"
     },
     {
-      "title": "President Zardari felicitates Ugandan President on Independence Day",
-      "source": "| Associated Press Of Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTVIeXBEREN3OW9Ua0t1QlhnVWtJNTJTTmdCZkxOUmZvTTMxVks5TGtQWWFBTzkzeEN0cnprUVF2dUJvRElPbFhhcGdoM1NxUWFBaGpmMU52MV9aaGlvZlNwSlg1UzlXT3FGS3VfaTloRm1XblcwUFZpc1BITy1HZ3VRbkpwWXBNNmhHZGQ1dzV0ZUczZnhPall3ZG9JbzMweFE?oc=5",
-      "publishedAt": "2026-10-09T03:01:39+08:00"
-    },
-    {
       "title": "UGANDA PREMIER LEAGUE: Vipers edge Blacks Power 4-0",
       "source": "NTV Uganda",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tNS11Q242N0ZRYk00SDRCT2dRV0M5ZWFySzVIaXVLOUJhR0hvcnZCWkpEdXNnbEtVMnNGNUNzRXlaelFGdFZPRUhLSm03clNIRTRzcldHMlM2T1o0LTlKQmN1YVJfaEEzdm1KcHEwZDF3M2wwd0xwNGFNWV9hUQ?oc=5",
       "publishedAt": "2026-10-09T02:55:47+08:00"
     },
     {
-      "title": "REGIONAL TOURISM : Uganda eyes market in Kenya",
-      "source": "NTV Uganda",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ERUZ0YUxzNHFNRWlHYUlrejYtTkdNR3dmdFRWdF9KVXRrSDNTaXdvcDRVQTBmTW5ONkZGRFpnMDRfRllDa3FRMW5uS2lxSTRhOVRObXFZaWMzTGl2NzRFc2dyZURhc2J1OFRva1ZUa0V4cEhYLVM1WGJwbw?oc=5",
-      "publishedAt": "2026-10-09T02:50:32+08:00"
-    },
-    {
-      "title": "Uganda orders crackdown on citizens crossing into Kenya to meddle in 2027 election",
+      "title": "Uganda orders crackdown on citizens crossing into Kenya to register as voters",
       "source": "Citizen Digital",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYVg3UTlxaWRfVXBIUF9zdkk1T2FHQkRHUFdkYUc0N1p3cDM5anNnX1ZOWG0wcTFYZ09sckFWckpyZ2tDWHNJYlBFY0YwUXRBTEp5NS1JeHRBNWNvTVJod3puNXJXQzE1ZldOSEd1dHo4c3Atb2V2WV9HUkFZZXhHMnA5cFgwelp2clhobVI0NE00dkJ5NG81WVhjZzB2anl1UFAzV3Y1Q1dKa1Ywc2Y3VkxtZ1F1eEhINjMwU2lrUGhJdHFjYUFOb09YZFkxVTlRaFdUSkgzUQ?oc=5",
       "publishedAt": "2026-10-09T02:48:34+08:00"
+    },
+    {
+      "title": "RUGBY UGANDA CUP: Draws for this year’s edition done",
+      "source": "NTV Uganda",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54dnZNRm0wX21vdURTam5RaVA2bG8wcGZoVmR4RzNKeWRyb1l1b05QT0NHX21Db1NmQThmZ2JtSGIxR2Nta2FVN0lFZmt6T0NKUUhTWVV0eWZPallDRndURjhzM3Myc2hvb2Z3eWpManNxU3RtTHVJWHNHLXlYQQ?oc=5",
+      "publishedAt": "2026-10-09T02:46:56+08:00"
     },
     {
       "title": "LoP Ssenyonyi asks Commonwealth to press Uganda's govt on democracy, rights",
       "source": "Daily Monitor",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSEEwVjlYX0VxT0tFWnhDS1p0WC04YUxBVFM0R184dlVKUXJDQ1gtN2cwdFlyRFhDY2xrSFQyRUZqWEJubnhZd3FjN3VONTB2S2lRVUxLckhkaC0zaVlpSGRLNVBWQUpnb0xhbmdJNTNXRHhfYUR3Y1N0emtrM0FwZGJQaDFvU1BVTmJseHE3VHcwSVJwOVRjUkQ5RDIwdHFZZ3FTWnpNX2JTbjN3TURON1FpNTBjUTlLb3JrRHFKcEVJRktLVndBeFp3?oc=5",
       "publishedAt": "2026-10-09T02:45:00+08:00"
-    },
-    {
-      "title": "Concerns raised over lack of Ebola screening at Kenya-Uganda water border",
-      "source": "Citizen Digital",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMDItTmdaRkVJcXBrRURWcWU4bzV6TU9aZ0lnZUJzemY1dE9WcWhqd2xVaHVBUWN2eTR1QWxINVJEeEdqUXNteVpPbm02eU5TaWlkU2dyR3JKbGxES2RRbjFzRFA2LTdsbTNmbnVyUmF3TndQTENTRnZ3OVRwUzhqTldsMDdHNzBSVVVNbGZhempOUTdpUG1RcEFLc1RFMFdkOWFwc1prS2I1RnItMVJXQXQ4TQ?oc=5",
-      "publishedAt": "2026-10-09T02:43:02+08:00"
     }
   ]
 }
