@@ -1,7 +1,7 @@
 {
   "iso2": "DK",
   "name": "Denmark",
-  "updatedAt": "2026-10-09T23:37:09+08:00",
+  "updatedAt": "2026-10-10T05:10:31+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Akande presents credentials to Denmark’s King, begins diplomatic mission",
+      "source": "The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUDg2UC1jTkZVVnZMN3p2eVVkcnJkVHZhSC1qcWNvMEdBeHZCTFlFcV9vMmExMFBJdXpRTllxSmZFV2JoR05sRHIyanlHVE9CWTBaZERaV2tOQlhseEpucjN1MDQta3VBZV90N1hBVHMyWTU3VmRrdVZCY3Vva1BaWDhIdXpvNHdFWGY2UHRpb3kxbE9ZemFxc1p3S3Q?oc=5",
+      "publishedAt": "2026-10-10T03:56:50+08:00"
+    },
+    {
+      "title": "Denmark's deepfake bill makes publishers prove consent from January 2027",
+      "source": "PPC Land",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVzJGNkJvaXV3YXZmN1E2blFuLUl5b1V4SGRCdWpXMktuYzJsdWJXU3VHa0RJM2lTOVJXU3VMTnZNWDczMFVRUUIwODlTZGRkT1lwdjlMRWk5MTY3ZFF0MF9PT0MyT0VTc1FCN0VxQTZuSGxFT0pBLWdYSzhHNEhWUHhrX2dGb1Y1Y1F6M3JMVU9rNEE?oc=5",
+      "publishedAt": "2026-10-10T03:48:34+08:00"
+    },
+    {
+      "title": "Joint statement of the Foreign Ministers of Canada, Denmark, Germany, France, Italy, Japan the Netherlands and the United Kingdom",
+      "source": "Canada.ca",
+      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxONWNBbWZsRVJkVW1EbjZvTU9xSVBVYXBnSmdDSlBsUDhoYVd2elZweWhZRlVLRmllcTJ0QVVIal9IamlZM1oyMy05dTY3a3NOcE8wcHZoT0F1Y05KSHh3VEZNSE5veldlRmJZaDN5V1Z2MnMyRUx0WlhJX1pxdFBBeE02NENZa3ZHdjhGVkZyZ3F3N3BiVGVzWkdGU3BmZ1JZUGtiQTNlekkxaHJ1cmpIMEJ2NGg3Zkk3ZFBwa0V3VWdyQWl3aUpUT2ZVdllxQzQyQWlySEl3M3pOME91azB1YjZ1Zk8tZEd6RjhKT3BqcUdsRVZHZDVsOHE4QldfdkhGaXJhNG5lNnBQY292aVZj?oc=5",
+      "publishedAt": "2026-10-10T01:54:31+08:00"
+    },
+    {
       "title": "Denmark stocks higher at close of trade; OMX Copenhagen 20 up 1.54%",
       "source": "Investing.com",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY3JveklfYS1wY1lISExNcklNSG9JZ3FCVWF5N3B1STlRaUtEQnZkNGRzNkJwVUNqUGFPbUlTb2hPRTd6VF9iMmMzb05pemp5RHN3aXJUc1RRTFFnTHk2LWk0S2daOXB1WU5SbDcxRTZWLUZDdzV5SHkzYnZyX0pOaV9hUm9XZ0VDbFhEVFM2bGtqdkQxV0J4M3FXLWNuYjFvZjIxYy1rQjVTdEZIVEw2bmg5bHVhcW9SOEtBTVpB?oc=5",
-      "publishedAt": "2026-10-09T23:34:29+08:00"
+      "publishedAt": "2026-10-09T23:32:14+08:00"
+    },
+    {
+      "title": "Denmark shares higher at close of trade; OMX Copenhagen 20 up 1.54%",
+      "source": "Investing.com UK",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQkp2eUpVTVNQNkZkQm04S20wQS1MM2RfUlRmVkw1elJ5ejJ2Qnl4RFlUeHc1aWV3WG1YRG1RMzJ0V08wZDlGQUJ2cjQ0Q3EwWXhncGJtQUhLMUF3VGFGVUh3Y0lQVmtPUWY5TXRORkdUZzNuVE43d0tEUTFGckZ2TFQtRW1YUjNtYXJON3BFUC1rVFd0X00wOXlNb252WnlsRXpJR0RHVzJPaDA0MGJOUnNrUVJqYnhjaVVlcw?oc=5",
+      "publishedAt": "2026-10-09T23:30:00+08:00"
     },
     {
       "title": "Denmark awards contract to Systematic for C-UAV C2 system",
@@ -51,31 +75,7 @@
       "title": "Denmark proposes tighter gambling ad rules, live sports marketing ban",
       "source": "Yogonet",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbW5pb2hhMjFYNGlDejVGWEwwZUhfVmE4Yk9XdVpFc0VTUk1MTG5aa1VLWHhYVEhUWmRNbHhNQld2LWdUV01BNG9wYUhQMEM5STMyaUxRTHdIdi1xVWEzSEUxME0tMFJrd0Y5bC1KWTFzUHRWbTQybEo0T3E1aXMwUHRNa2wxbWYwT0h0OFFKWE5PZnlrejJFZWdkZ0dBa1ZnbHAwdThmRkVaX2U2VUpoV29BdVE3SmcxWXZaMnVEdVRSWEYwM2xrNQ?oc=5",
-      "publishedAt": "2026-10-09T22:13:16+08:00"
-    },
-    {
-      "title": "AI-ready C2 system ordered by Denmark for counter-drone defense",
-      "source": "Military Embedded Systems",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcENHZVpJZUVQWW5DSG5QbHNXNWZYY1hUNEtROXdsQ3NNU0o3NUlUZ0dVOFM5cGQ2Z1pSOURwSC14Qm51UzlxeVJleC1idlh2OUlpcGR5MTE5SnZ5eGY4XzZvNDh0RHlUNzd2bk9KWnNvd3ZwWk10dkxhQ3VhOTV0S05yNmt4WTJWUERKaUVyVTh1Z2Q3a1VFa3NtQ3UtUlROckRrdjk0S3h2cXlmOUxIeEM1SQ?oc=5",
-      "publishedAt": "2026-10-09T22:12:12+08:00"
-    },
-    {
-      "title": "IKEA's Danish stores could become shelters as Europe boosts preparedness",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcC1iZ1lnRk9BNUt5bGFxTHNvU3U4bU1oczkya2MzbEJ0MFNSTGppUHZseGxiS2V1SUFXdElFdDFHcG95TzhfLXJSNENVb1JQZGtSTmFnTTFfMW41RHdoam5KRVROODZPdkw5cXhKa2JLWkc1OEdPT0t5Y19EMFJ4dHdaSW1adi1hQjVGMzI3cm5ZVGJBYV9zU2lKVHdlOTU5dlRqc2pUam5NSG80ekUw?oc=5",
-      "publishedAt": "2026-10-09T22:05:03+08:00"
-    },
-    {
-      "title": "Fire near Aarup disrupts train services across Denmark throughout Friday",
-      "source": "The Copenhagen Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ3dIakZnRzNHdXJNQlhONUp3YUkxTzAxb1QyeDBIck9Ham9IalJHU2gxN3g1OURlX2tRVXhkS3pJanZ4VldhQ0thUTBpOUFtbXhjSy1zS1lWTlZCUlF0RzhneWZZdC1uYlhVd1lMRVM3VG5tZ3FxTFZrOG5IZnZ2dGJyVmVtWndGVjZPd28zV2dEZkVzc0xOT1pOb2drVGFYa05sRms2ZmozbzducUMyb3lfTGQ5QjhO?oc=5",
-      "publishedAt": "2026-10-09T22:00:55+08:00"
-    },
-    {
-      "title": "Algiecel Opens Denmark Microalgae Production Facility to Offer Fish Oil Alternatives to Pet Industry",
-      "source": "Pet Age",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE96dE52YkVWOXZSdm9sTGtmdERpT2M2RS1kR29PZlBFWm5leWozUlAtWExwQmxsdHFjYmpxSVlDd1pZcFMxMU9WWFk3NERVdmkweFQ3SWZsa3RfZmNqLURybXJKRmFqTlBqR3N0OUpnaWJwN0ZoMlFQUw?oc=5",
-      "publishedAt": "2026-10-09T20:36:21+08:00"
+      "publishedAt": "2026-10-09T22:15:53+08:00"
     }
   ]
 }
