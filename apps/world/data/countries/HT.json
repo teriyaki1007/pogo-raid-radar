@@ -1,7 +1,7 @@
 {
   "iso2": "HT",
   "name": "Haiti",
-  "updatedAt": "2026-10-09T11:05:40+08:00",
+  "updatedAt": "2026-10-09T17:06:37+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Haiti - FLASH : 4.1 magnitude earthquake in Grand'Anse",
+      "source": "HaitiLibre.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXA5MV9hWGw1ZUpYSlNyOEdCd2VFc2hyOEdhR3U4TDN1cTZWVHR0cHdWQjVRQkV4UzBYWDh5M2tUdG1EdF91SWQ4MDhSU05SdjlwUDF2cHpkNmFIUE1iYmV3VFhyN2lGT0plTThpQUZmRGdsamxfR3hVZk1zLW5LSnhyVEhyWE9Xa011dEYtTHZ6SFpHSllPX2g0bw?oc=5",
+      "publishedAt": "2026-10-09T16:26:06+08:00"
+    },
+    {
+      "title": "Editorial: Council skips the $$ details in bid to help Haitian immigrants",
+      "source": "Boston Herald",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeUN0RzJTOUZ5Vl9hSHdRMW01d2ViVlJXbDBTNmNvRDlmNFBveld0N1dhR2hKM3pIdjFZUzd1c1N2OXk2ZDVMdWI2UThrYUVPQlhvTnNpSHExM3NwYUhTdTRvUllxTzgwd3FjNUtXcFlJcWo5b3NPbEZOV2ZiSlJhYldqUzBMM1MwMjFMQ3JhVmhwaDZhZWNtZFI4Qm8xUmptdndtaGxhbVJRdzF0MVBn?oc=5",
+      "publishedAt": "2026-10-09T15:33:38+08:00"
+    },
+    {
+      "title": "In Haiti’s Cities, People, Heat and Greenery Shape Which Mosquitoes Thrive",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZ3lGaHpGc2dQc1l4QlRyMU1KN3k4b1BVZk1EQVl6RTR3ak10ZE5qMkdmMU5ud2VPc3pLQkoycExSTmRxaG5XTDVCRUVUUFlUOENQNWZjN0lDLVo3QVlua2dkMUN2TlRvM0hMRXQ1NnJfdXB4Wkh6OExyNmRnTVNEb0h4YnlpZEpRM2kzMkpkUDNDSG14ZnhwS29SWWM?oc=5",
+      "publishedAt": "2026-10-09T15:23:40+08:00"
+    },
+    {
+      "title": "Paska And Njerae Unveil Visual Story For “No More Drama,” Merging Haitian Konpa And East African RnB",
+      "source": "Capital FM Africa",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbmw0eHE4OTAwZkhmc2pSbW52NlAxVVlvU2QzZWZoOGpXbkNGWEpWVmpoVkVUcW1NaGx1QUo5cWxGRmltNVIxVHBZSENyd0ZKYlZXS1gxUnl2OEZWZUx5QmRYUDV0aEduUlNvVGtDM3hCN19oRTQxd3JzeEtaa3pycWJXT1dYYVhyZ2hRWkhQaTNOQ2E5WU5ZR1FjVUNmNjRtYU1BTEpYY2hPQ2R0UDdqQktKVjQtblE3aUQxZTZaRnM?oc=5",
+      "publishedAt": "2026-10-09T12:09:43+08:00"
+    },
+    {
       "title": "Friendly Match: Haiti Faces Japan",
       "source": "lenouvelliste.com",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdG84RlBZZ1p1TmF3UjdIV3I2MkZDXzZMN2dLVW1OTTkzcXZrRXZ1SG9zTE5IeThaaEpXSW1CUXpFaFFLQ3BFSHc1STV3T3VFR0NVbWZEVTFhdGk3eFU0LXloSlZaOHBnM3hKNnNZMkI1eHZPdXR4MmJwVFhLdU1CcFlB?oc=5",
       "publishedAt": "2026-10-09T10:58:49+08:00"
+    },
+    {
+      "title": "Haiti! I’m not sorry!",
+      "source": "Trinidad Guardian",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iQk5JWWI0eDVOTlhjZWs4aVR3ejlmWnJJMUxLTldHWTZyUEthd2c0dXVhbVphdmViMUdwTXdtLS1SNVpuM2MwcWlYbFBrMnpnb3pfZWhJRU11QUdnUWF1WWpuTGtfUENMZERrN2ZPYWhtS29IOFFFQ3FLMWU4a2M?oc=5",
+      "publishedAt": "2026-10-09T10:05:48+08:00"
     },
     {
       "title": "Haiti revises electoral law again, but doesn’t formally postpone Dec. 13 vote",
@@ -46,36 +76,6 @@
       "source": "Allora! Italian Australian News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMExSUWU1S2ZkOEtxQ3ZQSEtpSnRoZURIM2VIcWtDdTJXdzlIakJaeThSNnpLY0lXREtmUUNJamd5MU1CYW00Vlg3bjdrUlJSR3NNa2ozbEdONW9BNFZzNlBoTk1jclMtSDFRUld4ZWQ2VDdzUEcyQjF6MjNCNGZfWlh3a0hYQTdUV3BWc0RKa1gwc2lLTnl0MGJRWWZzV3pnckdhRnVYT2hISlBLQmw1REI5WHMwSFloWlY3QmcyWGxDZw?oc=5",
       "publishedAt": "2026-10-09T05:50:54+08:00"
-    },
-    {
-      "title": "UN accuses former mayor of funding Haiti’s gangs, leaking police info to them",
-      "source": "The Haitian Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeThfMGU4UVY2SHp2TXN2cVN4VXpOc3RzZUUyZUJRT3hWQ1pualhJbG9manZjeHRsVUx4VGpGRkpOdGpKdmowRWp4MHVSak16RU9ZLUYyUGJpcXJhWFhXTVlpV1RSb1Y4bmxIa0dYc2RycUlZakl2M1RmQmVXR1dnUUU4WlMzazRFdGstOHRZNmJsUlFrclBtanVIVldjd0puU3VYVnczbzJnSjlldXBRYVVB?oc=5",
-      "publishedAt": "2026-10-09T05:35:54+08:00"
-    },
-    {
-      "title": "Minister Déméro meets with the Ambassador of France in Haiti",
-      "source": "lenouvelliste.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVlwTzJFc0xxRHVBMi1fbHlhQ3lQbDFINUN4N3FzMXl1YVk5Z1RkbXhpT2Z5MUYzU3MzVU92dGlvVW8wWEx2cmRGdGtVdmtPdml4cF9EcXNVX3RQdjVGM1hUZ2k2VEx2Y0R4UThRbDdJTm50cndwVFBSMFNWNDJCUkpOOGJCWWRFN2Zac2ZYWVhJNjZHNHNmRzhZYlVaaUZ2czhCOXpHMA?oc=5",
-      "publishedAt": "2026-10-09T04:41:37+08:00"
-    },
-    {
-      "title": "More than 5K people killed or injured in Haiti gang violence",
-      "source": "Panay News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3o4MlVqcVJ6WnpGLThMMzBxa0IwblphTl9KTGJXbm1DSVY1VUVkNEZ0amczWTBlaENoUzVNa185WW95Q3pBaUluejRaOEgzVlpidUJYU0F6ZHB0VGVsYngySnRWbm1PVDF3TGdjQzVMRGRFQTlsLXBsZWZoREs5c21NbWxUbG5FVXdmWDZLYXM?oc=5",
-      "publishedAt": "2026-10-09T00:21:00+08:00"
-    },
-    {
-      "title": "American To Resume Haiti Service, Add Second Venezuela Route",
-      "source": "Periódico Digital Centroamericano y del Caribe",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZkpnVDNvdjJuNVppQUpwTkZKQTZhUWV2Tlp2VVRBTXBTc0k4UUZ0SE1vTVhuOUtXckRFV282N0hMRmJQMW5MVDBGVEZ3MkxYYjRhQ3FLMkV4QnhwbUhBUWdBeUlPNllFSmM3WURBN2JneW5rdHpsR05iYVFyUHdDdmR6MWxWLVZWS1JFTllFa25oQVdMcm4yaVFNSUFxdGxNN3YtOTdR?oc=5",
-      "publishedAt": "2026-10-09T00:04:41+08:00"
-    },
-    {
-      "title": "Haiti - News : Zapping...",
-      "source": "HaitiLibre.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1mTUtiVEpHLXhHVjhKYnctSEhmaUtjMXF3aU90THJ1X3lyZ0tqWmdMTzdKY2FDQXY5ZFNzZnVzZy1UQUFLSGZ4MTBucHZjbnI1M2xEWm16eGdHSl9HTWZoMzh3RkwwTV9nRkFuejJGWUVDUQ?oc=5",
-      "publishedAt": "2026-10-08T23:12:06+08:00"
     }
   ]
 }
