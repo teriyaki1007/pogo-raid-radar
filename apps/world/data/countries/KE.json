@@ -1,7 +1,7 @@
 {
   "iso2": "KE",
   "name": "Kenya",
-  "updatedAt": "2026-10-10T05:10:31+08:00",
+  "updatedAt": "2026-10-10T11:07:39+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "Ebola meets El Niño: Kenya’s looming twin-disaster",
+      "source": "Daily Nation",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNlR6cXhSUUdkX0J1blpvZzIwSE90cEpDdUJaQnN4OFBieGxGSWhLRG1PaEV0aHB1d25LRTVUOGlRY0s1ejJHWER4QUR1NGR6RGtiSkdfeU5ndG1wZWlvTnBjbmZBNXoycjJrbkNoLVBVWmxNLTlZVmp4TW5BbXdpSWNIRkFjclFsOXBFZXJQWWlySVV2bGt6ZEx6ZVQ?oc=5",
+      "publishedAt": "2026-10-10T11:00:00+08:00"
+    },
+    {
+      "title": "Why women take longer to become secondary school principals in Kenya",
+      "source": "Daily Nation",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONFM5WEJBUTdWX01abnVwajNBMlF1c2tyYWNQVUJrclNIZjlIdDJITm1XVTlMTWZjNmNwU1FUYlF5S2VTb3pMNW9wZWdSOC1VRzY4a1ctZnhDTUhsZjJfenNrX0RHS1VHQ3JPMVF5bHdoeWJlbmEwZW90TzFCLTh3QTR4Zm94LVlNU2ZuSXNoeXlUTGJidzg3c2dsZ3pQeFpzQTB0bEtXeTEyc0VMQ0pwWG45dFlZYnpL?oc=5",
+      "publishedAt": "2026-10-10T11:00:00+08:00"
+    },
+    {
+      "title": "Kenyan Businessman Crosses Borders with Ebola Undetected",
+      "source": "Nacionale News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ2JYb3hsRUJpZGxqRXU5MHU4aF9Fdm9DOFc4NUFBeE1OYjBvVjlEdmFsajB4QnBScEsyeE5jR1hJeUhRZERFVjBlT21YRFJiQUEybW15U3hCa21fMFJPOXE3UHppdlpnYXZycEFtT2IyN2haS09WS2V6ZC12dUI0dUZmb2Y5dnVwOUtLLXltZUNjTVc2TzFkdUFn?oc=5",
+      "publishedAt": "2026-10-10T09:02:38+08:00"
+    },
+    {
+      "title": "Kenya's first Ebola case: Questions remain after man travelled across three nations undetected",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16LURkaEpXRE5HTmNYYlVmTEdJQ3Zuc1p1NXNHaXZaeFFfU09oeTFFZXlHaDh2SjYwNlV6cm5tSW9YU3RuWVZsZVUtTUZaaTRrald4aDg2QlFMamM?oc=5",
+      "publishedAt": "2026-10-10T08:00:08+08:00"
+    },
+    {
+      "title": "Kenya’s 22% power loss exposes costly grid problems for businesses",
+      "source": "People Daily",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUNUX2h5YU83a1VNeUt3QzcxWGZjN0R6NzY3MGRQR3BVNjF5Mk9xZl9oVHhvOHhCTFRFSjRyMW5vNGZBb2MxeE41U3dYOTQxa3dFWnhtbDI5VGxKNFhSeXAycF93QzJnQWRkUTRzYVpwZ0RBc3lYOS1tZnE4RlJCVS1WWnJ5ZVNVajBpUGpiU01vVHgyVGk5WWxmckhOVWJJYjM0?oc=5",
+      "publishedAt": "2026-10-10T05:34:46+08:00"
+    },
+    {
+      "title": "FAKE: This poll purportedly on top 10 best-performing senators is not from Ipsos Kenya",
+      "source": "PesaCheck",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZWo1TnRNNTB5TjZqbjNXRGRlcFRjdmp1a2FJUjdMMzY5dGs5dlBTZDdZSVJHWW83bXdxcHRKTjI5cU5ONksxMHJ0VUROelVwcFhrMlBZWFVMby1WMkRNRFlfTDRYRUZ3S01CNmU4VHRzcDNGWjdBNkZxQXUtM1Bsb1JxN2NEU2pTdE5qMFc4UmNyZ0dIM2dzTnVnLTA0RnRIOXhIVnpfOWhzajFZ?oc=5",
+      "publishedAt": "2026-10-10T05:07:05+08:00"
+    },
+    {
       "title": "From Farm to Fries: The Fry Industry in Kenya Prepares to Welcome the World",
       "source": "PotatoPro",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcXZ5S0cwck5wQ2g4TFZ6bWxHeDRaWnc2UmttdERkVVhEeGNYM2hhMjRteWhSSFRFSjQ4SGJ3TTQzTGxfRFhiczAyXzNfVjZZMmZBbWpDUVh2N2k2WHZyRFpCZktqRWRHSEpJTlBSS1BNVHQtUGl2d1o1dURXR0g5WXlrazc0LU5CYjJJQnJXWmlMZw?oc=5",
@@ -40,42 +76,6 @@
       "source": "People Daily",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTM2NEtFMHF6SmhGWkx0a18ycW55VXJxT2JFMkU0YmdOUFNjeTNMY29WN1R3bGV6WUNDaUlFMWxtN0JLZm9hdVh2cjh6dzhJWmp3UEFzMjdRLXhleEFrUl9pX3VTcVpleGZHM1dMcjFhWVJ5VGFVeFZEMkxKc3dDdm1YRUdYS2N0emQteC0wY1VkaE9PVEVNVFBZZE1Yd092SDFJM1d5ckl2ZEM4Yl9wMTJfaEVfTDA?oc=5",
       "publishedAt": "2026-10-10T04:10:23+08:00"
-    },
-    {
-      "title": "OPINION: Kenya's growth runs on trusted information. It's time to invest in it",
-      "source": "Citizen Digital",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdDRYQWJxVGpOcm1DejY0QXlfLTlMU0NiVU5Za0hsOGctdkY5ZEtlY0FSU1BsWnRYdTNidjFIRFNaMUJYc2JjLUxmMzBXNUVldU16VFhwQjdheGgxZm9hM3JKQkMtblZnSENRWHpOeTlHQm1aS0pCeG1zX28xTFp3NU1VLTRxU0p1VU45TFpUYUtXUlQ2TVZqWWJfZTBlMndYMFI2ZXZvRlluemJCZ3IzT1NhYnI?oc=5",
-      "publishedAt": "2026-10-10T03:36:08+08:00"
-    },
-    {
-      "title": "Somalia approves national Ebola preparedness plan after Kenya case",
-      "source": "Hiiraan Online",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWDBVUGlUY1VjT0c2ZFJUMkFQNGxJWlROaFhTc1hERzQyLUM4YkdCQnR6QnpjNk5qYU9fWVpzNWk4Q09YVndkejRrUmF4SjNRTE96WC1Qa0QxRE9OajdtZmFtQnZfUldhVlg3b3RjZTNxd1BxZU9TdGs5Y3EwRzNOS2x1aDR4VndOMURrRVN5RVZoSjVrdXVIQTFhLWVkYUdDZ3lpbGtBWFRpWnltQTd6czJJZ3BQWUJM?oc=5",
-      "publishedAt": "2026-10-10T03:31:16+08:00"
-    },
-    {
-      "title": "WHO: Kenya’s first Ebola patient may have contracted virus while seeking treatment in DRC",
-      "source": "Citizen Digital",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQR3dXN2oxMUdCdG5MTzNuWDJaRjdVVHFVVnN3TFQxam9ZR2lVTXE4bXdQR20zQXpFMVNtNjJEWXY3U0RnYl91TkRSV0lUNVg0d2J6UHJvZXBzSHZyM3BkLTBiRVN2aFhfR1g0R21rVVZBMEZGbWswYnM0X01yY3VDZFNWRjFwRmZOekIzWUttVWdqbXBYRjBGSVE2YWRPZVlMNUp2VVdCd0VVMGllU25MVjlJWXB1WWVEMVFRRlZVeHpGRjhITVE?oc=5",
-      "publishedAt": "2026-10-10T03:09:50+08:00"
-    },
-    {
-      "title": "Kenya fuel prices: Why crude oil surge raises risk of EPRA’s October hike",
-      "source": "People Daily",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeVRWajE0OTFpSExSZG9SMkltbEhrdDJndmNQOTNqSUpCUmgzMnBCWHJJVl9wTVZHQ3dId3p3eTZpa3B6aUxZc2xVTW8xTzE4MjNreUhzeVV6WFpuRmdKd2dvRnhBcnptQklCNzJ5MGJVZjVwWnp5NUZaSjZlMnV1anJFdDU2SkdjQ0F4TXE0MXI1UURwVVFfSGxkaGxiRHItcTc4S29qSFFueFh6?oc=5",
-      "publishedAt": "2026-10-10T03:02:16+08:00"
-    },
-    {
-      "title": "Chabad of Kenya Opens New Center, Starts Search for Bigger One",
-      "source": "Chabad Lubavitch World Headquarters",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXV4Unh1NUlPWXlCQ1dvd0tIdjhfX2hrZVdkNk85WUZLTkdUMHNMZ2VzYjFSWnZNNFY4VHVVMXlRWEhuLUlEd211WWJfUkctY3UxdTR0b2FIU0hHUjUweXVaQkpxMDR0anZrcm1ST01XZnlJZTBlZGhRNGFJSmduaThLUzFpQ09MLVZmMmdDNERLQQ?oc=5",
-      "publishedAt": "2026-10-10T02:17:21+08:00"
-    },
-    {
-      "title": "Dangote taps EIL for Kenya grassroots refinery project",
-      "source": "Oil & Gas Journal",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcnoxZlVSaGZ1ekcySXk5aW1zVmQwVkowcHR3TFJpelVubV9PZml3cjYwa18zcFhMSnlXb04zTTFFMjVaNklEVzJsa1BseDI5aDFNV1lmR0hDZjhFS3hfUHhBam1DSmNOaWNTaWdwRXJnaTlEZUE3algxTklpM18wek9XeXdzOFE1a0lZblVUb21XOWk2M1BwdTZtYlkzczIxSzJ1Vklmd1ZMWmxf?oc=5",
-      "publishedAt": "2026-10-10T01:23:29+08:00"
     }
   ]
 }
