@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-10",
   "timezone": "Asia/Hong_Kong",
   "assignments": [
     {
@@ -123,6 +123,72 @@
       "dueLabel": "Fri 9 Oct 2026",
       "priority": "high",
       "status": "open"
+    },
+    {
+      "id": "chinese-poem-writing-hw",
+      "class": "Chinese",
+      "title": "Poem Writing HW",
+      "due": "2026-10-11",
+      "dueLabel": "Sun 11 Oct 2026",
+      "priority": "medium",
+      "status": "open"
+    },
+    {
+      "id": "socials-economic-sources-prep",
+      "class": "Socials",
+      "title": "Economic sources preparation HW",
+      "due": "2026-10-12",
+      "dueLabel": "Mon 12 Oct 2026",
+      "priority": "medium",
+      "status": "open"
+    },
+    {
+      "id": "music-cable-plugins-test",
+      "class": "Music Production",
+      "title": "Music Knowledge — cable plugins test",
+      "due": "2026-10-14",
+      "dueLabel": "Wed 14 Oct 2026",
+      "priority": "high",
+      "status": "open",
+      "inClass": true
+    },
+    {
+      "id": "music-goodness-of-god-replication",
+      "class": "Music Production",
+      "title": "“Goodness of God” replication",
+      "due": "2026-10-15",
+      "dueLabel": "Thu 15 Oct 2026",
+      "priority": "high",
+      "status": "open"
+    },
+    {
+      "id": "science-lab-report-block-1",
+      "class": "Science",
+      "title": "Lab Report — In Class Block 1",
+      "due": "2026-10-15",
+      "dueLabel": "Thu 15 Oct 2026 (in class)",
+      "priority": "high",
+      "status": "open",
+      "inClass": true
+    },
+    {
+      "id": "socials-political-globalisation-quiz",
+      "class": "Socials",
+      "title": "Political Globalisation Quiz",
+      "due": "2026-10-16",
+      "dueLabel": "Fri 16 Oct 2026",
+      "priority": "high",
+      "status": "open"
+    },
+    {
+      "id": "science-lab-report-block-2",
+      "class": "Science",
+      "title": "Lab Report — In Class Block 2",
+      "due": "2026-10-16",
+      "dueLabel": "Fri 16 Oct 2026 (in class)",
+      "priority": "high",
+      "status": "open",
+      "inClass": true
     }
   ]
 }
