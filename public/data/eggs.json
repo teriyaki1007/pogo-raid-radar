@@ -1,7 +1,7 @@
 {
   "meta": {
-    "asOf": "2026-10-08",
-    "asOfLabel": "8 Oct 2026 ~6:40 AM HKT",
+    "asOf": "2026-10-11",
+    "asOfLabel": "11 Oct 2026 ~6:40 AM HKT",
     "season": "Twilight Trails",
     "seasonWindow": "Tue 8 Sep 2026 10:00 AM – Tue 1 Dec 2026 10:00 AM local",
     "sources": [
@@ -24,10 +24,10 @@
       "Shiny flags: true only when charts mark shiny available; null = not confirmed in the sources used.",
       "Egg contents are fixed at pickup; event eggs can temporarily override seasonal pools.",
       "Some community charts still mark 5 km / Adventure Sync lists as incomplete — Leek Duck list used as primary.",
-      "Shiny Shroodle debut LIVE during Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct 2026) from 12 km Strange Eggs (Leek Duck / event). Seasonal ScrapedDuck chart still marks Shroodle non-shiny — shiny was released during Taken Over; kept True pending a Leek Duck chart update.",
+      "Shiny Shroodle debuted during Harvest Festival: Taken Over (Fri 2 Oct – Mon 5 Oct 2026) from 12 km Strange Eggs (Leek Duck / event). Seasonal ScrapedDuck chart may still mark Shroodle non-shiny — shiny was released during Taken Over; kept True.",
       "Shiny flags re-synced to Leek Duck eggs chart (14 Sep 2026) + ScrapedDuck: Larvesta (2/5/10 km), Tadbulb (2 km), Varoom (12 km) marked shiny; Sobble not shiny on chart.",
       "4 Oct ~10:30 PM HKT refresh: egg distance pools still match Leek Duck (14 Sep 2026) + ScrapedDuck; no pool species changes. World Space Week does not alter egg pools.",
-      "8 Oct ~6:40 AM HKT refresh: seasonal pools still match Leek Duck (14 Sep 2026). Sandile Hatch Day details now official (see event egg note)."
+      "11 Oct ~6:40 AM HKT refresh: seasonal pools still match Leek Duck (14 Sep 2026). World Space Week / Zorua CD ended; no event egg override active. Sandile Hatch Day still upcoming (17 Oct)."
     ]
   },
   "eggs": [
