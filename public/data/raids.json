@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-10-11",
-    "asOfLabel": "11 Oct 2026 ~10:30 PM HKT",
+    "asOf": "2026-10-12",
+    "asOfLabel": "12 Oct 2026 ~6:30 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE NOW (through Tue 13 Oct 10:00 PM local): Yveltal 5★ + Mega Blastoise; Shadow Landorus (Incarnate) in Shadow raids through 3 Nov. 1★ (GO Hub, post–World Space Week): Clefairy, Teddiursa, Elgyem, Amaura. 3★: Starmie, Umbreon, Gothitelle. Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion. World Space Week / Astronaut Pikachu and Zorua Community Day ended Sat 10 Oct. Next: Fall Marathon: Buddy Trek (Tue 13 Oct — Bramblin debut), then Dialga + Mega Dragonite (14 Oct), Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Announced: Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM) with 1★ Pikachu wearing a hat and capelet + Sinistea wearing a bow (both shiny debuts).",
-      "endsAtLabel": "Yveltal / Mega Blastoise → Tue 13 Oct 10:00 PM · Fall Marathon starts Tue 13 Oct 10:00 AM"
+      "text": "TODAY Mon 12 Oct: Max Monday — Dynamax Rookidee at Power Spots (Max Battles 6:00 AM–9:00 PM local; denser Monday window). LIVE gym raids (through Tue 13 Oct 10:00 PM local): Yveltal 5★ + Mega Blastoise; Shadow Landorus (Incarnate) through 3 Nov. 1★ (GO Hub, post–World Space Week; Leek Duck still stale on Astronaut Pikachu as of this morning): Clefairy, Teddiursa, Elgyem, Amaura. 3★: Starmie, Umbreon, Gothitelle. Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion. WSW Timed Research claim window ends tonight Mon 12 Oct 11:59 PM. Next: Fall Marathon: Buddy Trek (Tue 13 Oct 10:00 AM — Bramblin debut), then Dialga + Mega Dragonite (14 Oct), Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Announced: Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM) with 1★ Pikachu wearing a hat and capelet + Sinistea wearing a bow (both shiny debuts).",
+      "endsAtLabel": "Max Monday Rookidee → Mon 12 Oct 9:00 PM · Yveltal / Mega Blastoise → Tue 13 Oct 10:00 PM · Fall Marathon Tue 13 Oct 10:00 AM"
     },
     "legend": {
       "standard": {
@@ -758,7 +758,7 @@
         "pokeapiId": 35,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png"
       },
-      "notes": "Confirmed standard 1★ pool on GO Hub (updated 10–11 Oct) after Astronaut Pikachu / World Space Week ended. Leek Duck still listed Astronaut Pikachu stale as of evening check.",
+      "notes": "Re-confirmed standard 1★ pool on GO Hub (updated 10–11 Oct; morning 12 Oct re-check). Leek Duck / ScrapedDuck still list Astronaut Pikachu stale after World Space Week ended.",
       "types": [
         "Fairy"
       ],
@@ -817,7 +817,7 @@
         "pokeapiId": 216,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png"
       },
-      "notes": "Confirmed standard 1★ pool on GO Hub (updated 10–11 Oct) after Astronaut Pikachu / World Space Week ended.",
+      "notes": "Re-confirmed standard 1★ pool on GO Hub (updated 10–11 Oct; morning 12 Oct re-check). Leek Duck / ScrapedDuck still list Astronaut Pikachu stale after World Space Week ended.",
       "types": [
         "Normal"
       ],
@@ -875,7 +875,7 @@
         "pokeapiId": 605,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png"
       },
-      "notes": "Confirmed standard 1★ pool on GO Hub (updated 10–11 Oct) after Astronaut Pikachu / World Space Week ended. Featured in Spotlight Hour Thu 8 Oct.",
+      "notes": "Re-confirmed standard 1★ pool on GO Hub (updated 10–11 Oct; morning 12 Oct re-check). Leek Duck / ScrapedDuck still list Astronaut Pikachu stale after World Space Week ended. Featured in Spotlight Hour Thu 8 Oct.",
       "types": [
         "Psychic"
       ],
@@ -936,7 +936,7 @@
         "pokeapiId": 698,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png"
       },
-      "notes": "Confirmed standard 1★ pool on GO Hub (updated 10–11 Oct) after Astronaut Pikachu / World Space Week ended. Fighting and Steel are double super-effective (×2.56).",
+      "notes": "Re-confirmed standard 1★ pool on GO Hub (updated 10–11 Oct; morning 12 Oct re-check). Leek Duck / ScrapedDuck still list Astronaut Pikachu stale after World Space Week ended. Fighting and Steel are double super-effective (×2.56).",
       "types": [
         "Rock",
         "Ice"
@@ -1806,7 +1806,7 @@
       "id": "world-space-week-2026",
       "when": "Sun 4 Oct 12:00 AM – Sat 10 Oct 11:59 PM local (ended)",
       "title": "World Space Week 2026 (ended) — Astronaut Pikachu",
-      "impact": "Astronaut Pikachu 1★ raids ended Sat 10 Oct 11:59 PM. Timed Research claim window through Mon 12 Oct 11:59 PM (Leek Duck / GO Hub).",
+      "impact": "Astronaut Pikachu 1★ raids ended Sat 10 Oct 11:59 PM. Timed Research claim window through Mon 12 Oct 11:59 PM local (ends tonight).",
       "urgent": false
     },
     {
@@ -1860,10 +1860,10 @@
     },
     {
       "id": "max-monday-rookidee-oct12",
-      "when": "Mon 12 Oct 6:00 AM – 9:00 PM local (Max Battles window; upcoming)",
-      "title": "Max Monday / Dynamax Rookidee (upcoming)",
-      "impact": "Dynamax Rookidee featured in Max Battles for the Oct 12–18 window; denser Power Spots on Mondays (GO Hub / Leek Duck). Not a Gym raid change.",
-      "urgent": false
+      "when": "Mon 12 Oct 6:00 AM – 9:00 PM local (Max Battles window; LIVE TODAY)",
+      "title": "Max Monday / Dynamax Rookidee (LIVE TODAY)",
+      "impact": "Dynamax Rookidee featured in Max Battles for the Oct 12–18 window; denser Power Spots on Mondays. Tier-1 Max Battle (~250 Max Particles on win), Flying — weak to Electric, Ice, Rock; shiny-eligible (GO Hub). Not a Gym raid change.",
+      "urgent": true
     },
     {
       "id": "fall-marathon-buddy-trek",
@@ -1876,7 +1876,7 @@
       "id": "sandile-hatch-day",
       "when": "Sat 17 Oct 11:00 AM – 5:00 PM local (upcoming)",
       "title": "Sandile Hatch Day (upcoming)",
-      "impact": "Egg-focused event (Leek Duck) — details pending.",
+      "impact": "2 km Eggs collected during the window hatch Sandile much more frequently with an increased shiny Sandile chance; 2× Hatch Candy; ½ Egg Hatch Distance (¼ with paid Timed Research ticket); more 2 km Eggs from PokéStops (GO Hub / official news). Egg-focused — not a raid rotation change.",
       "urgent": false
     },
     {
