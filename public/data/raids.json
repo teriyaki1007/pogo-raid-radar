@@ -1,12 +1,12 @@
 {
   "meta": {
     "asOf": "2026-10-11",
-    "asOfLabel": "11 Oct 2026 ~6:40 AM HKT",
+    "asOfLabel": "11 Oct 2026 ~10:30 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE NOW (through Tue 13 Oct 10:00 PM local): Yveltal 5★ + Mega Blastoise; Shadow Landorus (Incarnate) in Shadow raids through 3 Nov. 3★: Starmie, Umbreon, Gothitelle. Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion. World Space Week / Astronaut Pikachu 1★ and Zorua Community Day ended Sat 10 Oct. No confirmed standard 1★ pool yet after Astronaut Pikachu (Leek Duck still lists it stale). Next: Fall Marathon: Buddy Trek (Tue 13 Oct — Bramblin debut), then Dialga + Mega Dragonite (14 Oct), Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Announced: Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM) with 1★ Pikachu wearing a hat and capelet + Sinistea wearing a bow (both shiny debuts).",
+      "text": "LIVE NOW (through Tue 13 Oct 10:00 PM local): Yveltal 5★ + Mega Blastoise; Shadow Landorus (Incarnate) in Shadow raids through 3 Nov. 1★ (GO Hub, post–World Space Week): Clefairy, Teddiursa, Elgyem, Amaura. 3★: Starmie, Umbreon, Gothitelle. Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion. World Space Week / Astronaut Pikachu and Zorua Community Day ended Sat 10 Oct. Next: Fall Marathon: Buddy Trek (Tue 13 Oct — Bramblin debut), then Dialga + Mega Dragonite (14 Oct), Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Announced: Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM) with 1★ Pikachu wearing a hat and capelet + Sinistea wearing a bow (both shiny debuts).",
       "endsAtLabel": "Yveltal / Mega Blastoise → Tue 13 Oct 10:00 PM · Fall Marathon starts Tue 13 Oct 10:00 AM"
     },
     "legend": {
@@ -730,6 +730,248 @@
         }
       ],
       "countersSource": "type"
+    },
+    {
+      "id": "clefairy",
+      "name": "Clefairy",
+      "form": null,
+      "species": "Clefairy",
+      "catchForm": null,
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "From after World Space Week (Sun 11 Oct) · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "windowStart": "2026-10-11T00:00:00",
+      "windowEnd": "2026-10-13T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 660,
+      "cpL25": 825,
+      "weather": [
+        "Cloudy"
+      ],
+      "sprite": {
+        "pokeapiId": 35,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png"
+      },
+      "notes": "Confirmed standard 1★ pool on GO Hub (updated 10–11 Oct) after Astronaut Pikachu / World Space Week ended. Leek Duck still listed Astronaut Pikachu stale as of evening check.",
+      "types": [
+        "Fairy"
+      ],
+      "weakTo": [
+        "Poison",
+        "Steel"
+      ],
+      "counters": [
+        {
+          "name": "Zacian (Crowned)",
+          "moves": "Metal Claw / Behemoth Blade"
+        },
+        {
+          "name": "Dusk Mane Necrozma",
+          "moves": "Metal Claw / Sunsteel Strike"
+        },
+        {
+          "name": "Zamazenta (Crowned)",
+          "moves": "Metal Claw / Behemoth Bash"
+        },
+        {
+          "name": "Mega Lucario",
+          "moves": "Bullet Punch / Meteor Mash"
+        },
+        {
+          "name": "Shadow Metagross",
+          "moves": "Bullet Punch / Meteor Mash"
+        }
+      ],
+      "countersSource": "guide"
+    },
+    {
+      "id": "teddiursa",
+      "name": "Teddiursa",
+      "form": null,
+      "species": "Teddiursa",
+      "catchForm": null,
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "From after World Space Week (Sun 11 Oct) · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "windowStart": "2026-10-11T00:00:00",
+      "windowEnd": "2026-10-13T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 759,
+      "cpL25": 949,
+      "weather": [
+        "Partly Cloudy"
+      ],
+      "sprite": {
+        "pokeapiId": 216,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png"
+      },
+      "notes": "Confirmed standard 1★ pool on GO Hub (updated 10–11 Oct) after Astronaut Pikachu / World Space Week ended.",
+      "types": [
+        "Normal"
+      ],
+      "weakTo": [
+        "Fighting"
+      ],
+      "counters": [
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Counter / Aura Sphere"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Shadow Conkeldurr",
+          "moves": "Force Palm / Dynamic Punch"
+        },
+        {
+          "name": "Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        }
+      ],
+      "countersSource": "guide"
+    },
+    {
+      "id": "elgyem",
+      "name": "Elgyem",
+      "form": null,
+      "species": "Elgyem",
+      "catchForm": null,
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "From after World Space Week (Sun 11 Oct) · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "windowStart": "2026-10-11T00:00:00",
+      "windowEnd": "2026-10-13T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 791,
+      "cpL25": 989,
+      "weather": [
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 605,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png"
+      },
+      "notes": "Confirmed standard 1★ pool on GO Hub (updated 10–11 Oct) after Astronaut Pikachu / World Space Week ended. Featured in Spotlight Hour Thu 8 Oct.",
+      "types": [
+        "Psychic"
+      ],
+      "weakTo": [
+        "Bug",
+        "Dark",
+        "Ghost"
+      ],
+      "counters": [
+        {
+          "name": "Mega Houndoom",
+          "moves": "Snarl / Dark Pulse"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Dawn Wings Necrozma",
+          "moves": "Psycho Cut / Moongeist Beam"
+        },
+        {
+          "name": "Shadow Darkrai",
+          "moves": "Snarl / Foul Play"
+        },
+        {
+          "name": "Mega Beedrill",
+          "moves": "Bug Bite / Fell Stinger"
+        }
+      ],
+      "countersSource": "guide"
+    },
+    {
+      "id": "amaura",
+      "name": "Amaura",
+      "form": null,
+      "species": "Amaura",
+      "catchForm": null,
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "From after World Space Week (Sun 11 Oct) · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "windowStart": "2026-10-11T00:00:00",
+      "windowEnd": "2026-10-13T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 779,
+      "cpL25": 974,
+      "weather": [
+        "Partly Cloudy",
+        "Snow"
+      ],
+      "sprite": {
+        "pokeapiId": 698,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png"
+      },
+      "notes": "Confirmed standard 1★ pool on GO Hub (updated 10–11 Oct) after Astronaut Pikachu / World Space Week ended. Fighting and Steel are double super-effective (×2.56).",
+      "types": [
+        "Rock",
+        "Ice"
+      ],
+      "weakTo": [
+        "Fighting 2×",
+        "Steel 2×",
+        "Water",
+        "Grass",
+        "Ground",
+        "Rock"
+      ],
+      "counters": [
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Zacian (Crowned)",
+          "moves": "Metal Claw / Behemoth Blade"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Counter / Aura Sphere"
+        },
+        {
+          "name": "Dusk Mane Necrozma",
+          "moves": "Metal Claw / Sunsteel Strike"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        }
+      ],
+      "countersSource": "guide"
     },
     {
       "id": "yveltal",
