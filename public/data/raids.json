@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-10-12",
-    "asOfLabel": "12 Oct 2026 ~6:30 AM HKT",
+    "asOfLabel": "12 Oct 2026 ~11:00 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "TODAY Mon 12 Oct: Max Monday — Dynamax Rookidee at Power Spots (Max Battles 6:00 AM–9:00 PM local; denser Monday window). LIVE gym raids (through Tue 13 Oct 10:00 PM local): Yveltal 5★ + Mega Blastoise; Shadow Landorus (Incarnate) through 3 Nov. 1★ (GO Hub, post–World Space Week; Leek Duck still stale on Astronaut Pikachu as of this morning): Clefairy, Teddiursa, Elgyem, Amaura. 3★: Starmie, Umbreon, Gothitelle. Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion. WSW Timed Research claim window ends tonight Mon 12 Oct 11:59 PM. Next: Fall Marathon: Buddy Trek (Tue 13 Oct 10:00 AM — Bramblin debut), then Dialga + Mega Dragonite (14 Oct), Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Announced: Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM) with 1★ Pikachu wearing a hat and capelet + Sinistea wearing a bow (both shiny debuts).",
-      "endsAtLabel": "Max Monday Rookidee → Mon 12 Oct 9:00 PM · Yveltal / Mega Blastoise → Tue 13 Oct 10:00 PM · Fall Marathon Tue 13 Oct 10:00 AM"
+      "text": "Max Monday Dynamax Rookidee ended Mon 12 Oct 9:00 PM local. LIVE gym raids (through Tue 13 Oct 10:00 PM local): Yveltal 5★ + Mega Blastoise; Shadow Landorus (Incarnate) through 3 Nov. 1★ (Leek Duck + GO Hub aligned): Clefairy, Teddiursa, Elgyem, Amaura. 3★: Starmie, Umbreon, Gothitelle. Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion. WSW Timed Research claim window ends tonight Mon 12 Oct 11:59 PM. Next: Fall Marathon: Buddy Trek (Tue 13 Oct 10:00 AM — Bramblin debut), then Dialga + Mega Dragonite (14 Oct), Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Announced: Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM) with 1★ Pikachu wearing a hat and capelet + Sinistea wearing a bow (both shiny debuts).",
+      "endsAtLabel": "Yveltal / Mega Blastoise → Tue 13 Oct 10:00 PM · Fall Marathon Tue 13 Oct 10:00 AM · WSW claim → Mon 12 Oct 11:59 PM"
     },
     "legend": {
       "standard": {
@@ -1860,15 +1860,15 @@
     },
     {
       "id": "max-monday-rookidee-oct12",
-      "when": "Mon 12 Oct 6:00 AM – 9:00 PM local (Max Battles window; LIVE TODAY)",
-      "title": "Max Monday / Dynamax Rookidee (LIVE TODAY)",
-      "impact": "Dynamax Rookidee featured in Max Battles for the Oct 12–18 window; denser Power Spots on Mondays. Tier-1 Max Battle (~250 Max Particles on win), Flying — weak to Electric, Ice, Rock; shiny-eligible (GO Hub). Not a Gym raid change.",
-      "urgent": true
+      "when": "Mon 12 Oct 6:00 AM – 9:00 PM local (ended)",
+      "title": "Max Monday / Dynamax Rookidee (ended)",
+      "impact": "Dynamax Rookidee Max Battles window closed Mon 12 Oct 9:00 PM local (featured for the Oct 12–18 Max Battle rotation). Denser Monday Power Spots also ended for today. Tier-1 Max Battle (~250 Max Particles on win), Flying — weak to Electric, Ice, Rock; shiny-eligible (GO Hub). Not a Gym raid change.",
+      "urgent": false
     },
     {
       "id": "fall-marathon-buddy-trek",
-      "when": "Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM local (upcoming)",
-      "title": "Fall Marathon: Buddy Trek (upcoming)",
+      "when": "Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM local (upcoming tomorrow)",
+      "title": "Fall Marathon: Buddy Trek (upcoming tomorrow)",
       "impact": "Bramblin debut (GO Pass / Incense / Field Research). Boosted shiny Electrike; boosted shiny Hisuian Growlithe from Incense from Fri 16 Oct 10 AM. Mega Manectric can reach Super Max Level + Discharge+. Free Timed Research: walk up to 42 km for Marathon Visor Pikachu. Not a raid rotation change (Leek Duck).",
       "urgent": false
     },
