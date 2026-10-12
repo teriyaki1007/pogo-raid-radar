@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-10-12",
-    "asOfLabel": "12 Oct 2026 ~11:00 PM HKT",
+    "asOf": "2026-10-13",
+    "asOfLabel": "13 Oct 2026 ~6:30 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Max Monday Dynamax Rookidee ended Mon 12 Oct 9:00 PM local. LIVE gym raids (through Tue 13 Oct 10:00 PM local): Yveltal 5★ + Mega Blastoise; Shadow Landorus (Incarnate) through 3 Nov. 1★ (Leek Duck + GO Hub aligned): Clefairy, Teddiursa, Elgyem, Amaura. 3★: Starmie, Umbreon, Gothitelle. Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion. WSW Timed Research claim window ends tonight Mon 12 Oct 11:59 PM. Next: Fall Marathon: Buddy Trek (Tue 13 Oct 10:00 AM — Bramblin debut), then Dialga + Mega Dragonite (14 Oct), Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Announced: Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM) with 1★ Pikachu wearing a hat and capelet + Sinistea wearing a bow (both shiny debuts).",
-      "endsAtLabel": "Yveltal / Mega Blastoise → Tue 13 Oct 10:00 PM · Fall Marathon Tue 13 Oct 10:00 AM · WSW claim → Mon 12 Oct 11:59 PM"
+      "text": "Fall Marathon: Buddy Trek starts today Tue 13 Oct 10:00 AM local — Bramblin debut (Incense / Field Research / GO Pass; boost shiny Electrike). LIVE gym raids (through Tue 13 Oct 10:00 PM local): Yveltal 5★ + Mega Blastoise; Shadow Landorus (Incarnate) through 3 Nov. 1★ (Leek Duck + GO Hub aligned): Clefairy, Teddiursa, Elgyem, Amaura. 3★: Starmie, Umbreon, Gothitelle. Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion. WSW Timed Research claim window ended Mon 12 Oct 11:59 PM. Max Monday Dynamax Rookidee ended Mon 12 Oct 9:00 PM. Next raids: Dialga + Mega Dragonite (14 Oct), Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Announced: Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM) with 1★ Pikachu wearing a hat and capelet + Sinistea wearing a bow (both shiny debuts).",
+      "endsAtLabel": "Fall Marathon → Tue 13 Oct 10:00 AM · Yveltal / Mega Blastoise → Tue 13 Oct 10:00 PM · Dialga + Mega Dragonite Wed 14 Oct 6:00 AM"
     },
     "legend": {
       "standard": {
@@ -1804,9 +1804,9 @@
     },
     {
       "id": "world-space-week-2026",
-      "when": "Sun 4 Oct 12:00 AM – Sat 10 Oct 11:59 PM local (ended)",
+      "when": "Sun 4 Oct 12:00 AM – Sat 10 Oct 11:59 PM local (ended); Timed Research claim through Mon 12 Oct 11:59 PM (ended)",
       "title": "World Space Week 2026 (ended) — Astronaut Pikachu",
-      "impact": "Astronaut Pikachu 1★ raids ended Sat 10 Oct 11:59 PM. Timed Research claim window through Mon 12 Oct 11:59 PM local (ends tonight).",
+      "impact": "Astronaut Pikachu 1★ raids ended Sat 10 Oct 11:59 PM. Timed Research claim window ended Mon 12 Oct 11:59 PM local.",
       "urgent": false
     },
     {
@@ -1867,10 +1867,10 @@
     },
     {
       "id": "fall-marathon-buddy-trek",
-      "when": "Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM local (upcoming tomorrow)",
-      "title": "Fall Marathon: Buddy Trek (upcoming tomorrow)",
-      "impact": "Bramblin debut (GO Pass / Incense / Field Research). Boosted shiny Electrike; boosted shiny Hisuian Growlithe from Incense from Fri 16 Oct 10 AM. Mega Manectric can reach Super Max Level + Discharge+. Free Timed Research: walk up to 42 km for Marathon Visor Pikachu. Not a raid rotation change (Leek Duck).",
-      "urgent": false
+      "when": "Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM local (starts today 10:00 AM)",
+      "title": "Fall Marathon: Buddy Trek (starts today 10:00 AM)",
+      "impact": "Bramblin debut (GO Pass / Incense / Field Research). Boosted shiny Electrike; boosted shiny Hisuian Growlithe from Incense from Fri 16 Oct 10 AM. Mega Manectric can reach Super Max Level + Discharge+. Free Timed Research: walk up to 42 km for Marathon Visor Pikachu. Not a raid rotation change; no event egg override (Leek Duck / Serebii).",
+      "urgent": true
     },
     {
       "id": "sandile-hatch-day",
