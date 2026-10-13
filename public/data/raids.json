@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-10-13",
-    "asOfLabel": "13 Oct 2026 ~6:30 AM HKT",
+    "asOfLabel": "13 Oct 2026 ~10:45 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Fall Marathon: Buddy Trek starts today Tue 13 Oct 10:00 AM local — Bramblin debut (Incense / Field Research / GO Pass; boost shiny Electrike). LIVE gym raids (through Tue 13 Oct 10:00 PM local): Yveltal 5★ + Mega Blastoise; Shadow Landorus (Incarnate) through 3 Nov. 1★ (Leek Duck + GO Hub aligned): Clefairy, Teddiursa, Elgyem, Amaura. 3★: Starmie, Umbreon, Gothitelle. Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion. WSW Timed Research claim window ended Mon 12 Oct 11:59 PM. Max Monday Dynamax Rookidee ended Mon 12 Oct 9:00 PM. Next raids: Dialga + Mega Dragonite (14 Oct), Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Announced: Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM) with 1★ Pikachu wearing a hat and capelet + Sinistea wearing a bow (both shiny debuts).",
-      "endsAtLabel": "Fall Marathon → Tue 13 Oct 10:00 AM · Yveltal / Mega Blastoise → Tue 13 Oct 10:00 PM · Dialga + Mega Dragonite Wed 14 Oct 6:00 AM"
+      "text": "ENDED Tue 13 Oct 10:00 PM local: Yveltal 5★ + Mega Blastoise. Overnight gap now — no live 5★/Mega until Wed 14 Oct 6:00 AM. NEXT (Wed 14 Oct 6:00 AM local): Dialga 5★ + Mega Dragonite through Tue 20 Oct 10:00 PM; Dialga Raid Hour Wed 14 Oct 6–7 PM. 1★/3★: last verified Yveltal-window pool still shown (Clefairy, Teddiursa, Elgyem, Amaura / Starmie, Umbreon, Gothitelle) — Dialga-window lists not posted yet on Leek Duck/GO Hub (still showing Yveltal set overnight). Shadow Landorus (Incarnate) continues through 3 Nov (Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion). Fall Marathon: Buddy Trek is LIVE (Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM) — Bramblin debut; boost shiny Electrike. Then: Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM): 1★ Pikachu hat+capelet + Sinistea bow (shiny debuts).",
+      "endsAtLabel": "Gap → Wed 14 Oct 6:00 AM · Dialga + Mega Dragonite → Tue 20 Oct 10:00 PM · Fall Marathon → Mon 19 Oct 8:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM"
     },
     "legend": {
       "standard": {
@@ -558,7 +558,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "From Wed 7 Oct 6:00 AM local · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 3★ TBD from Wed 14 Oct 6:00 AM",
       "windowStart": "2026-10-07T06:00:00",
       "windowEnd": "2026-10-13T22:00:00",
       "shiny": true,
@@ -575,7 +575,7 @@
         "pokeapiId": 121,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
       },
-      "notes": "New in the 3★ pool from Wed 7 Oct (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
+      "notes": "Last verified Yveltal-window 3★ (Leek Duck / GO Hub). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 3★ list not posted yet — check in-game; replace when confirmed.",
       "types": [
         "Water",
         "Psychic"
@@ -622,7 +622,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "From Wed 7 Oct 6:00 AM local · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 3★ TBD from Wed 14 Oct 6:00 AM",
       "windowStart": "2026-10-07T06:00:00",
       "windowEnd": "2026-10-13T22:00:00",
       "shiny": true,
@@ -638,7 +638,7 @@
         "pokeapiId": 197,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png"
       },
-      "notes": "New in the 3★ pool from Wed 7 Oct (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
+      "notes": "Last verified Yveltal-window 3★ (Leek Duck / GO Hub). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 3★ list not posted yet — check in-game; replace when confirmed.",
       "types": [
         "Dark"
       ],
@@ -682,7 +682,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "From Wed 7 Oct 6:00 AM local · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 3★ TBD from Wed 14 Oct 6:00 AM",
       "windowStart": "2026-10-07T06:00:00",
       "windowEnd": "2026-10-13T22:00:00",
       "shiny": true,
@@ -698,7 +698,7 @@
         "pokeapiId": 576,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png"
       },
-      "notes": "New in the 3★ pool from Wed 7 Oct (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
+      "notes": "Last verified Yveltal-window 3★ (Leek Duck / GO Hub). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 3★ list not posted yet — check in-game; replace when confirmed.",
       "types": [
         "Psychic"
       ],
@@ -742,7 +742,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "From after World Space Week (Sun 11 Oct) · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 1★ TBD from Wed 14 Oct 6:00 AM",
       "windowStart": "2026-10-11T00:00:00",
       "windowEnd": "2026-10-13T22:00:00",
       "shiny": true,
@@ -758,7 +758,7 @@
         "pokeapiId": 35,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png"
       },
-      "notes": "Re-confirmed standard 1★ pool on GO Hub (updated 10–11 Oct; morning 12 Oct re-check). Leek Duck / ScrapedDuck still list Astronaut Pikachu stale after World Space Week ended.",
+      "notes": "Last verified Yveltal-window 1★ (Leek Duck / GO Hub, post–World Space Week). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 1★ list not posted yet — check in-game; replace when confirmed.",
       "types": [
         "Fairy"
       ],
@@ -801,7 +801,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "From after World Space Week (Sun 11 Oct) · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 1★ TBD from Wed 14 Oct 6:00 AM",
       "windowStart": "2026-10-11T00:00:00",
       "windowEnd": "2026-10-13T22:00:00",
       "shiny": true,
@@ -817,7 +817,7 @@
         "pokeapiId": 216,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png"
       },
-      "notes": "Re-confirmed standard 1★ pool on GO Hub (updated 10–11 Oct; morning 12 Oct re-check). Leek Duck / ScrapedDuck still list Astronaut Pikachu stale after World Space Week ended.",
+      "notes": "Last verified Yveltal-window 1★ (Leek Duck / GO Hub, post–World Space Week). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 1★ list not posted yet — check in-game; replace when confirmed.",
       "types": [
         "Normal"
       ],
@@ -859,7 +859,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "From after World Space Week (Sun 11 Oct) · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 1★ TBD from Wed 14 Oct 6:00 AM",
       "windowStart": "2026-10-11T00:00:00",
       "windowEnd": "2026-10-13T22:00:00",
       "shiny": true,
@@ -875,7 +875,7 @@
         "pokeapiId": 605,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png"
       },
-      "notes": "Re-confirmed standard 1★ pool on GO Hub (updated 10–11 Oct; morning 12 Oct re-check). Leek Duck / ScrapedDuck still list Astronaut Pikachu stale after World Space Week ended. Featured in Spotlight Hour Thu 8 Oct.",
+      "notes": "Last verified Yveltal-window 1★ (Leek Duck / GO Hub, post–World Space Week). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 1★ list not posted yet — check in-game; replace when confirmed.",
       "types": [
         "Psychic"
       ],
@@ -919,7 +919,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "From after World Space Week (Sun 11 Oct) · usually rotates with the 5★ (Tue 13 Oct 10:00 PM) — check in-game",
+      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 1★ TBD from Wed 14 Oct 6:00 AM",
       "windowStart": "2026-10-11T00:00:00",
       "windowEnd": "2026-10-13T22:00:00",
       "shiny": true,
@@ -936,7 +936,7 @@
         "pokeapiId": 698,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png"
       },
-      "notes": "Re-confirmed standard 1★ pool on GO Hub (updated 10–11 Oct; morning 12 Oct re-check). Leek Duck / ScrapedDuck still list Astronaut Pikachu stale after World Space Week ended. Fighting and Steel are double super-effective (×2.56).",
+      "notes": "Last verified Yveltal-window 1★ (Leek Duck / GO Hub, post–World Space Week). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 1★ list not posted yet — check in-game; replace when confirmed.",
       "types": [
         "Rock",
         "Ice"
@@ -974,137 +974,6 @@
       "countersSource": "guide"
     },
     {
-      "id": "yveltal",
-      "name": "Yveltal",
-      "form": null,
-      "species": "Yveltal",
-      "catchForm": null,
-      "tier": "5",
-      "tierLabel": "5★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "Wed 7 Oct 6:00 AM – Tue 13 Oct 10:00 PM local",
-      "windowStart": "2026-10-07T06:00:00",
-      "windowEnd": "2026-10-13T22:00:00",
-      "shiny": true,
-      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 2160,
-      "cpL25": 2701,
-      "weather": [
-        "Fog",
-        "Windy"
-      ],
-      "sprite": {
-        "pokeapiId": 717,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/717.png"
-      },
-      "notes": "LIVE since Wed 7 Oct 6:00 AM local (replaced Xerneas). Raid Hour Wed 7 Oct 6–7 PM local. Shiny available (Leek Duck).",
-      "types": [
-        "Dark",
-        "Flying"
-      ],
-      "weakTo": [
-        "Fairy",
-        "Electric",
-        "Ice",
-        "Rock"
-      ],
-      "counters": [
-        {
-          "name": "Zekrom",
-          "moves": "Charge Beam / Fusion Bolt"
-        },
-        {
-          "name": "Xurkitree",
-          "moves": "Thunder Shock / Discharge"
-        },
-        {
-          "name": "Shadow Raikou",
-          "moves": "Thunder Shock / Wild Charge"
-        },
-        {
-          "name": "Mega Manectric",
-          "moves": "Thunder Fang / Wild Charge"
-        },
-        {
-          "name": "Shadow Rhyperior",
-          "moves": "Smack Down / Rock Wrecker"
-        },
-        {
-          "name": "White Kyurem",
-          "moves": "Ice Fang / Ice Burn"
-        }
-      ],
-      "countersSource": "type",
-      "highlight": true
-    },
-    {
-      "id": "mega-blastoise",
-      "name": "Mega Blastoise",
-      "form": "Mega",
-      "species": "Blastoise",
-      "catchForm": "Blastoise",
-      "tier": "mega",
-      "tierLabel": "Mega",
-      "category": "current",
-      "isShadow": false,
-      "isMega": true,
-      "window": "Wed 7 Oct 6:00 AM – Tue 13 Oct 10:00 PM local",
-      "windowStart": "2026-10-07T06:00:00",
-      "windowEnd": "2026-10-13T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 1409,
-      "cpL25": 1761,
-      "weather": [
-        "Rainy"
-      ],
-      "sprite": {
-        "pokeapiId": 9,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png"
-      },
-      "notes": "LIVE since Wed 7 Oct 6:00 AM local (replaces Mega Victreebel). Catch form: Blastoise (not Mega). Shiny available (Leek Duck).",
-      "types": [
-        "Water"
-      ],
-      "weakTo": [
-        "Grass",
-        "Electric"
-      ],
-      "counters": [
-        {
-          "name": "Kartana",
-          "moves": "Razor Leaf / Leaf Blade"
-        },
-        {
-          "name": "Mega Sceptile",
-          "moves": "Bullet Seed / Frenzy Plant"
-        },
-        {
-          "name": "Zekrom",
-          "moves": "Charge Beam / Fusion Bolt"
-        },
-        {
-          "name": "Xurkitree",
-          "moves": "Thunder Shock / Discharge"
-        },
-        {
-          "name": "Shadow Raikou",
-          "moves": "Thunder Shock / Wild Charge"
-        },
-        {
-          "name": "Mega Venusaur",
-          "moves": "Vine Whip / Frenzy Plant"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
       "id": "dialga-oct14",
       "name": "Dialga",
       "form": null,
@@ -1132,7 +1001,7 @@
         "pokeapiId": 483,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
       },
-      "notes": "Altered/standard Forme per Leek Duck. Raid Hour Wed 14 Oct 6–7 PM local.",
+      "notes": "Starts Wed 14 Oct 6:00 AM local (replaces Yveltal). Altered/standard Forme per Leek Duck. Raid Hour Wed 14 Oct 6–7 PM local. Shiny available (Leek Duck).",
       "types": [
         "Steel",
         "Dragon"
@@ -1196,7 +1065,7 @@
         "pokeapiId": 149,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
       },
-      "notes": "Catch form: Dragonite (not Mega). Ice is double super-effective (×2.56).",
+      "notes": "Starts Wed 14 Oct 6:00 AM local (replaces Mega Blastoise). Catch form: Dragonite (not Mega). Ice is double super-effective (×2.56). Shiny available (Leek Duck).",
       "types": [
         "Dragon",
         "Flying"
@@ -1811,10 +1680,10 @@
     },
     {
       "id": "yveltal-blastoise-oct7",
-      "when": "Wed 7 Oct 6:00 AM – Tue 13 Oct 10:00 PM local (LIVE)",
-      "title": "Yveltal 5★ + Mega Blastoise (LIVE)",
-      "impact": "Replaced Xerneas / Mega Victreebel (Leek Duck). Yveltal is Dark/Flying — weak to Fairy, Electric, Ice, Rock. Mega Blastoise is Water — weak to Grass, Electric.",
-      "urgent": true
+      "when": "Wed 7 Oct 6:00 AM – Tue 13 Oct 10:00 PM local (ended)",
+      "title": "Yveltal 5★ + Mega Blastoise (ended)",
+      "impact": "Ended Tue 13 Oct 10:00 PM local. Overnight gap until Wed 14 Oct 6:00 AM (Dialga + Mega Dragonite). Leek Duck raid-bosses page still listed this set as Ongoing overnight — treat as stale vs event pages.",
+      "urgent": false
     },
     {
       "id": "shadow-landorus-oct",
@@ -1846,10 +1715,10 @@
     },
     {
       "id": "dialga-dragonite-oct14",
-      "when": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local (upcoming)",
-      "title": "Dialga 5★ + Mega Dragonite (upcoming)",
-      "impact": "Replaces Yveltal / Mega Blastoise (Leek Duck; both shiny-eligible). Dialga is Steel/Dragon — weak to Fighting, Ground. Mega Dragonite is Dragon/Flying — weak to Ice ×2.56, Dragon, Fairy, Rock.",
-      "urgent": false
+      "when": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local (starts tomorrow morning)",
+      "title": "Dialga 5★ + Mega Dragonite (starts Wed 6:00 AM)",
+      "impact": "Next rotation replaces Yveltal / Mega Blastoise (Leek Duck; both shiny-eligible). Dialga is Steel/Dragon — weak to Fighting, Ground. Mega Dragonite is Dragon/Flying — weak to Ice ×2.56, Dragon, Fairy, Rock. Raid Hour Wed 14 Oct 6–7 PM.",
+      "urgent": true
     },
     {
       "id": "spotlight-stufful",
@@ -1867,8 +1736,8 @@
     },
     {
       "id": "fall-marathon-buddy-trek",
-      "when": "Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM local (starts today 10:00 AM)",
-      "title": "Fall Marathon: Buddy Trek (starts today 10:00 AM)",
+      "when": "Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM local (LIVE)",
+      "title": "Fall Marathon: Buddy Trek (LIVE)",
       "impact": "Bramblin debut (GO Pass / Incense / Field Research). Boosted shiny Electrike; boosted shiny Hisuian Growlithe from Incense from Fri 16 Oct 10 AM. Mega Manectric can reach Super Max Level + Discharge+. Free Timed Research: walk up to 42 km for Marathon Visor Pikachu. Not a raid rotation change; no event egg override (Leek Duck / Serebii).",
       "urgent": true
     },
@@ -1895,9 +1764,9 @@
     },
     {
       "id": "raid-hour-dialga",
-      "when": "Wed 14 Oct 6:00–7:00 PM local (upcoming)",
-      "title": "Raid Hour: Dialga (upcoming)",
-      "impact": "More 5★ raids for one hour.",
+      "when": "Wed 14 Oct 6:00–7:00 PM local (upcoming — tomorrow)",
+      "title": "Raid Hour: Dialga (upcoming — tomorrow)",
+      "impact": "More 5★ raids for one hour on Dialga’s first day.",
       "urgent": false
     },
     {
