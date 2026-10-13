@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10",
+  "updated": "2026-10-14",
   "timezone": "Asia/Hong_Kong",
   "assignments": [
     {
@@ -172,6 +172,15 @@
       "inClass": true
     },
     {
+      "id": "socials-political-globalisation-case-study",
+      "class": "Socials",
+      "title": "Political Globalisation Case Study Activity",
+      "due": "2026-10-15",
+      "dueLabel": "Thu 15 Oct 2026",
+      "priority": "high",
+      "status": "open"
+    },
+    {
       "id": "socials-political-globalisation-quiz",
       "class": "Socials",
       "title": "Political Globalisation Quiz",
@@ -189,6 +198,15 @@
       "priority": "high",
       "status": "open",
       "inClass": true
+    },
+    {
+      "id": "calm-unit-1-reflection",
+      "class": "CALM",
+      "title": "Unit 1 Reflection Writing",
+      "due": "2026-10-27",
+      "dueLabel": "Tue 27 Oct 2026",
+      "priority": "medium",
+      "status": "open"
     }
   ]
 }
