@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-10-13",
-    "asOfLabel": "13 Oct 2026 ~10:45 PM HKT",
+    "asOf": "2026-10-14",
+    "asOfLabel": "14 Oct 2026 ~6:35 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "ENDED Tue 13 Oct 10:00 PM local: Yveltal 5★ + Mega Blastoise. Overnight gap now — no live 5★/Mega until Wed 14 Oct 6:00 AM. NEXT (Wed 14 Oct 6:00 AM local): Dialga 5★ + Mega Dragonite through Tue 20 Oct 10:00 PM; Dialga Raid Hour Wed 14 Oct 6–7 PM. 1★/3★: last verified Yveltal-window pool still shown (Clefairy, Teddiursa, Elgyem, Amaura / Starmie, Umbreon, Gothitelle) — Dialga-window lists not posted yet on Leek Duck/GO Hub (still showing Yveltal set overnight). Shadow Landorus (Incarnate) continues through 3 Nov (Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion). Fall Marathon: Buddy Trek is LIVE (Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM) — Bramblin debut; boost shiny Electrike. Then: Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM): 1★ Pikachu hat+capelet + Sinistea bow (shiny debuts).",
-      "endsAtLabel": "Gap → Wed 14 Oct 6:00 AM · Dialga + Mega Dragonite → Tue 20 Oct 10:00 PM · Fall Marathon → Mon 19 Oct 8:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM"
+      "text": "LIVE now (Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local): Dialga 5★ + Mega Dragonite. Dialga Raid Hour tonight Wed 14 Oct 6–7 PM local. New Dialga-window 1★/3★ (GO Hub): Galarian Slowpoke, Hisuian Voltorb, Nincada, Beldum / Hisuian Arcanine, Snorlax, Kleavor. Shadow Landorus (Incarnate) continues through 3 Nov (Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion). Fall Marathon: Buddy Trek is LIVE (Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM) — Bramblin debut; boost shiny Electrike. Then: Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM): 1★ Pikachu hat+capelet + Sinistea bow (shiny debuts).",
+      "endsAtLabel": "Dialga + Mega Dragonite → Tue 20 Oct 10:00 PM · Fall Marathon → Mon 19 Oct 8:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Raid Hour Dialga tonight 6–7 PM"
     },
     "legend": {
       "standard": {
@@ -60,6 +60,22 @@
       {
         "name": "GO Hub October 2026 Events",
         "url": "https://pokemongohub.net/post/event/october-2026-events/"
+      },
+      {
+        "name": "Leek Duck — Dialga in 5★ (Oct 2026)",
+        "url": "https://leekduck.com/events/dialga-in-5-star-raid-battles-october-2026/"
+      },
+      {
+        "name": "Leek Duck — Mega Dragonite (Oct 2026)",
+        "url": "https://leekduck.com/events/mega-dragonite-in-mega-raids-october-2026/"
+      },
+      {
+        "name": "GO Hub — Dialga counters",
+        "url": "https://db.pokemongohub.net/pokemon/483/counters"
+      },
+      {
+        "name": "GO Hub — Mega Dragonite counters",
+        "url": "https://db.pokemongohub.net/pokemon/149-Mega/counters"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
@@ -548,157 +564,33 @@
       "highlight": true
     },
     {
-      "id": "starmie",
-      "name": "Starmie",
-      "form": null,
-      "species": "Starmie",
+      "id": "galarian-slowpoke",
+      "name": "Galarian Slowpoke",
+      "form": "Galarian",
+      "species": "Slowpoke",
       "catchForm": null,
-      "tier": "3",
-      "tierLabel": "3★",
+      "tier": "1",
+      "tierLabel": "1★",
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 3★ TBD from Wed 14 Oct 6:00 AM",
-      "windowStart": "2026-10-07T06:00:00",
-      "windowEnd": "2026-10-13T22:00:00",
+      "window": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local",
+      "windowStart": "2026-10-14T06:00:00",
+      "windowEnd": "2026-10-20T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/216",
       "ivFloor": "10/10/10",
-      "cpL20": 1476,
-      "cpL25": 1846,
-      "weather": [
-        "Rainy",
-        "Windy"
-      ],
-      "sprite": {
-        "pokeapiId": 121,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png"
-      },
-      "notes": "Last verified Yveltal-window 3★ (Leek Duck / GO Hub). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 3★ list not posted yet — check in-game; replace when confirmed.",
-      "types": [
-        "Water",
-        "Psychic"
-      ],
-      "weakTo": [
-        "Electric",
-        "Grass",
-        "Bug",
-        "Ghost",
-        "Dark"
-      ],
-      "counters": [
-        {
-          "name": "Zekrom",
-          "moves": "Charge Beam / Fusion Bolt"
-        },
-        {
-          "name": "Shadow Raikou",
-          "moves": "Thunder Shock / Wild Charge"
-        },
-        {
-          "name": "Xurkitree",
-          "moves": "Thunder Shock / Discharge"
-        },
-        {
-          "name": "Kartana",
-          "moves": "Razor Leaf / Leaf Blade"
-        },
-        {
-          "name": "Mega Gengar",
-          "moves": "Lick / Shadow Ball"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "umbreon",
-      "name": "Umbreon",
-      "form": null,
-      "species": "Umbreon",
-      "catchForm": null,
-      "tier": "3",
-      "tierLabel": "3★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 3★ TBD from Wed 14 Oct 6:00 AM",
-      "windowStart": "2026-10-07T06:00:00",
-      "windowEnd": "2026-10-13T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 1221,
-      "cpL25": 1526,
-      "weather": [
-        "Fog"
-      ],
-      "sprite": {
-        "pokeapiId": 197,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png"
-      },
-      "notes": "Last verified Yveltal-window 3★ (Leek Duck / GO Hub). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 3★ list not posted yet — check in-game; replace when confirmed.",
-      "types": [
-        "Dark"
-      ],
-      "weakTo": [
-        "Fighting",
-        "Bug",
-        "Fairy"
-      ],
-      "counters": [
-        {
-          "name": "Mega Lucario",
-          "moves": "Force Palm / Aura Sphere"
-        },
-        {
-          "name": "Terrakion",
-          "moves": "Double Kick / Sacred Sword"
-        },
-        {
-          "name": "Shadow Conkeldurr",
-          "moves": "Counter / Dynamic Punch"
-        },
-        {
-          "name": "Keldeo",
-          "moves": "Low Kick / Sacred Sword"
-        },
-        {
-          "name": "Mega Gardevoir",
-          "moves": "Charm / Dazzling Gleam"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "gothitelle",
-      "name": "Gothitelle",
-      "form": null,
-      "species": "Gothitelle",
-      "catchForm": null,
-      "tier": "3",
-      "tierLabel": "3★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 3★ TBD from Wed 14 Oct 6:00 AM",
-      "windowStart": "2026-10-07T06:00:00",
-      "windowEnd": "2026-10-13T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 1382,
-      "cpL25": 1728,
+      "cpL20": 700,
+      "cpL25": 876,
       "weather": [
         "Windy"
       ],
       "sprite": {
-        "pokeapiId": 576,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/576.png"
+        "pokeapiId": 10164,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10164.png"
       },
-      "notes": "Last verified Yveltal-window 3★ (Leek Duck / GO Hub). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 3★ list not posted yet — check in-game; replace when confirmed.",
+      "notes": "Dialga-window 1★ (GO Hub current-go-raids, Wed 14 Oct). Psychic-type Galarian form.",
       "types": [
         "Psychic"
       ],
@@ -708,13 +600,13 @@
         "Dark"
       ],
       "counters": [
-        {
-          "name": "Mega Gengar",
-          "moves": "Lick / Shadow Ball"
-        },
         {
           "name": "Darkrai",
           "moves": "Snarl / Shadow Ball"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
         },
         {
           "name": "Shadow Tyranitar",
@@ -723,101 +615,279 @@
         {
           "name": "Chandelure",
           "moves": "Hex / Shadow Ball"
-        },
-        {
-          "name": "Pheromosa",
-          "moves": "Bug Bite / Bug Buzz"
         }
       ],
       "countersSource": "type"
     },
     {
-      "id": "clefairy",
-      "name": "Clefairy",
-      "form": null,
-      "species": "Clefairy",
+      "id": "hisuian-voltorb",
+      "name": "Hisuian Voltorb",
+      "form": "Hisuian",
+      "species": "Voltorb",
       "catchForm": null,
       "tier": "1",
       "tierLabel": "1★",
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 1★ TBD from Wed 14 Oct 6:00 AM",
-      "windowStart": "2026-10-11T00:00:00",
-      "windowEnd": "2026-10-13T22:00:00",
+      "window": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local",
+      "windowStart": "2026-10-14T06:00:00",
+      "windowEnd": "2026-10-20T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/216",
       "ivFloor": "10/10/10",
-      "cpL20": 660,
-      "cpL25": 825,
+      "cpL20": 577,
+      "cpL25": 721,
       "weather": [
-        "Cloudy"
+        "Rainy",
+        "Sunny"
       ],
       "sprite": {
-        "pokeapiId": 35,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png"
+        "pokeapiId": 10231,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10231.png"
       },
-      "notes": "Last verified Yveltal-window 1★ (Leek Duck / GO Hub, post–World Space Week). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 1★ list not posted yet — check in-game; replace when confirmed.",
+      "notes": "Dialga-window 1★ (GO Hub). Electric/Grass Hisuian form.",
       "types": [
-        "Fairy"
+        "Electric",
+        "Grass"
       ],
       "weakTo": [
+        "Fire",
+        "Ice",
         "Poison",
-        "Steel"
+        "Bug",
+        "Flying"
       ],
       "counters": [
         {
-          "name": "Zacian (Crowned)",
-          "moves": "Metal Claw / Behemoth Blade"
+          "name": "Reshiram",
+          "moves": "Fire Fang / Fusion Flare"
         },
         {
-          "name": "Dusk Mane Necrozma",
-          "moves": "Metal Claw / Sunsteel Strike"
+          "name": "Shadow Chandelure",
+          "moves": "Fire Spin / Overheat"
         },
         {
-          "name": "Zamazenta (Crowned)",
-          "moves": "Metal Claw / Behemoth Bash"
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
         },
         {
-          "name": "Mega Lucario",
-          "moves": "Bullet Punch / Meteor Mash"
-        },
-        {
-          "name": "Shadow Metagross",
-          "moves": "Bullet Punch / Meteor Mash"
+          "name": "Shadow Mamoswine",
+          "moves": "Powder Snow / Avalanche"
         }
       ],
-      "countersSource": "guide"
+      "countersSource": "type"
     },
     {
-      "id": "teddiursa",
-      "name": "Teddiursa",
+      "id": "nincada",
+      "name": "Nincada",
       "form": null,
-      "species": "Teddiursa",
+      "species": "Nincada",
       "catchForm": null,
       "tier": "1",
       "tierLabel": "1★",
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 1★ TBD from Wed 14 Oct 6:00 AM",
-      "windowStart": "2026-10-11T00:00:00",
-      "windowEnd": "2026-10-13T22:00:00",
+      "window": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local",
+      "windowStart": "2026-10-14T06:00:00",
+      "windowEnd": "2026-10-20T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/216",
       "ivFloor": "10/10/10",
-      "cpL20": 759,
-      "cpL25": 949,
+      "cpL20": 439,
+      "cpL25": 549,
+      "weather": [
+        "Rainy",
+        "Sunny"
+      ],
+      "sprite": {
+        "pokeapiId": 290,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png"
+      },
+      "notes": "Dialga-window 1★ (GO Hub).",
+      "types": [
+        "Bug",
+        "Ground"
+      ],
+      "weakTo": [
+        "Fire",
+        "Flying",
+        "Water",
+        "Ice"
+      ],
+      "counters": [
+        {
+          "name": "Reshiram",
+          "moves": "Fire Fang / Fusion Flare"
+        },
+        {
+          "name": "Shadow Moltres",
+          "moves": "Fire Spin / Overheat"
+        },
+        {
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "beldum",
+      "name": "Beldum",
+      "form": null,
+      "species": "Beldum",
+      "catchForm": null,
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local",
+      "windowStart": "2026-10-14T06:00:00",
+      "windowEnd": "2026-10-20T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 558,
+      "cpL25": 697,
+      "weather": [
+        "Snow",
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 374,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/374.png"
+      },
+      "notes": "Dialga-window 1★ (GO Hub).",
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "weakTo": [
+        "Fire",
+        "Ground",
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Reshiram",
+          "moves": "Fire Fang / Fusion Flare"
+        },
+        {
+          "name": "Darkrai",
+          "moves": "Snarl / Shadow Ball"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "hisuian-arcanine",
+      "name": "Hisuian Arcanine",
+      "form": "Hisuian",
+      "species": "Arcanine",
+      "catchForm": null,
+      "tier": "3",
+      "tierLabel": "3★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local",
+      "windowStart": "2026-10-14T06:00:00",
+      "windowEnd": "2026-10-20T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1797,
+      "cpL25": 2247,
+      "weather": [
+        "Sunny",
+        "Partly Cloudy"
+      ],
+      "sprite": {
+        "pokeapiId": 10230,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10230.png"
+      },
+      "notes": "Dialga-window 3★ (GO Hub). Fire/Rock — 4× Water and Ground.",
+      "types": [
+        "Fire",
+        "Rock"
+      ],
+      "weakTo": [
+        "Water",
+        "Ground",
+        "Fighting",
+        "Rock"
+      ],
+      "counters": [
+        {
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Shadow Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        },
+        {
+          "name": "Shadow Swampert",
+          "moves": "Water Gun / Hydro Cannon"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "snorlax",
+      "name": "Snorlax",
+      "form": null,
+      "species": "Snorlax",
+      "catchForm": null,
+      "tier": "3",
+      "tierLabel": "3★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local",
+      "windowStart": "2026-10-14T06:00:00",
+      "windowEnd": "2026-10-20T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1843,
+      "cpL25": 2304,
       "weather": [
         "Partly Cloudy"
       ],
       "sprite": {
-        "pokeapiId": 216,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png"
+        "pokeapiId": 143,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
       },
-      "notes": "Last verified Yveltal-window 1★ (Leek Duck / GO Hub, post–World Space Week). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 1★ list not posted yet — check in-game; replace when confirmed.",
+      "notes": "Dialga-window 3★ (GO Hub).",
       "types": [
         "Normal"
       ],
@@ -830,145 +900,82 @@
           "moves": "Force Palm / Aura Sphere"
         },
         {
-          "name": "Mega Blaziken",
-          "moves": "Counter / Aura Sphere"
-        },
-        {
           "name": "Terrakion",
           "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Counter / Focus Blast"
         },
         {
           "name": "Shadow Conkeldurr",
-          "moves": "Force Palm / Dynamic Punch"
+          "moves": "Counter / Dynamic Punch"
         },
         {
-          "name": "Lucario",
-          "moves": "Force Palm / Aura Sphere"
+          "name": "Keldeo",
+          "moves": "Low Kick / Sacred Sword"
         }
       ],
       "countersSource": "guide"
     },
     {
-      "id": "elgyem",
-      "name": "Elgyem",
+      "id": "kleavor",
+      "name": "Kleavor",
       "form": null,
-      "species": "Elgyem",
+      "species": "Kleavor",
       "catchForm": null,
-      "tier": "1",
-      "tierLabel": "1★",
+      "tier": "3",
+      "tierLabel": "3★",
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 1★ TBD from Wed 14 Oct 6:00 AM",
-      "windowStart": "2026-10-11T00:00:00",
-      "windowEnd": "2026-10-13T22:00:00",
+      "window": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local",
+      "windowStart": "2026-10-14T06:00:00",
+      "windowEnd": "2026-10-20T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/216",
       "ivFloor": "10/10/10",
-      "cpL20": 791,
-      "cpL25": 989,
+      "cpL20": 1798,
+      "cpL25": 2247,
       "weather": [
-        "Windy"
+        "Rainy",
+        "Partly Cloudy"
       ],
       "sprite": {
-        "pokeapiId": 605,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/605.png"
+        "pokeapiId": 900,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png"
       },
-      "notes": "Last verified Yveltal-window 1★ (Leek Duck / GO Hub, post–World Space Week). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 1★ list not posted yet — check in-game; replace when confirmed.",
+      "notes": "Dialga-window 3★ (GO Hub). Bug/Rock.",
       "types": [
-        "Psychic"
-      ],
-      "weakTo": [
         "Bug",
-        "Dark",
-        "Ghost"
-      ],
-      "counters": [
-        {
-          "name": "Mega Houndoom",
-          "moves": "Snarl / Dark Pulse"
-        },
-        {
-          "name": "Mega Gengar",
-          "moves": "Lick / Shadow Ball"
-        },
-        {
-          "name": "Dawn Wings Necrozma",
-          "moves": "Psycho Cut / Moongeist Beam"
-        },
-        {
-          "name": "Shadow Darkrai",
-          "moves": "Snarl / Foul Play"
-        },
-        {
-          "name": "Mega Beedrill",
-          "moves": "Bug Bite / Fell Stinger"
-        }
-      ],
-      "countersSource": "guide"
-    },
-    {
-      "id": "amaura",
-      "name": "Amaura",
-      "form": null,
-      "species": "Amaura",
-      "catchForm": null,
-      "tier": "1",
-      "tierLabel": "1★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "Last verified through Tue 13 Oct 10:00 PM local (Yveltal window) · Dialga-window 1★ TBD from Wed 14 Oct 6:00 AM",
-      "windowStart": "2026-10-11T00:00:00",
-      "windowEnd": "2026-10-13T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 779,
-      "cpL25": 974,
-      "weather": [
-        "Partly Cloudy",
-        "Snow"
-      ],
-      "sprite": {
-        "pokeapiId": 698,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/698.png"
-      },
-      "notes": "Last verified Yveltal-window 1★ (Leek Duck / GO Hub, post–World Space Week). Window ended Tue 13 Oct 10:00 PM local with the 5★. Dialga-window 1★ list not posted yet — check in-game; replace when confirmed.",
-      "types": [
-        "Rock",
-        "Ice"
-      ],
-      "weakTo": [
-        "Fighting 2×",
-        "Steel 2×",
-        "Water",
-        "Grass",
-        "Ground",
         "Rock"
       ],
+      "weakTo": [
+        "Water",
+        "Rock",
+        "Steel"
+      ],
       "counters": [
         {
-          "name": "Mega Lucario",
-          "moves": "Force Palm / Aura Sphere"
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
         },
         {
-          "name": "Zacian (Crowned)",
-          "moves": "Metal Claw / Behemoth Blade"
+          "name": "Shadow Kyogre",
+          "moves": "Waterfall / Origin Pulse"
         },
         {
-          "name": "Mega Blaziken",
-          "moves": "Counter / Aura Sphere"
+          "name": "Shadow Metagross",
+          "moves": "Bullet Punch / Meteor Mash"
         },
         {
-          "name": "Dusk Mane Necrozma",
-          "moves": "Metal Claw / Sunsteel Strike"
+          "name": "Rampardos",
+          "moves": "Smack Down / Rock Slide"
         },
         {
-          "name": "Terrakion",
-          "moves": "Double Kick / Sacred Sword"
+          "name": "Mega Swampert",
+          "moves": "Water Gun / Hydro Cannon"
         }
       ],
       "countersSource": "guide"
@@ -981,7 +988,7 @@
       "catchForm": null,
       "tier": "5",
       "tierLabel": "5★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "window": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local",
@@ -1001,7 +1008,7 @@
         "pokeapiId": 483,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
       },
-      "notes": "Starts Wed 14 Oct 6:00 AM local (replaces Yveltal). Altered/standard Forme per Leek Duck. Raid Hour Wed 14 Oct 6–7 PM local. Shiny available (Leek Duck).",
+      "notes": "LIVE from Wed 14 Oct 6:00 AM local (replaces Yveltal). Standard Forme (Leek Duck). Raid Hour Wed 14 Oct 6–7 PM local. Shiny available. Catch CP 2217–2307 (2771–2884 Snow/Windy).",
       "types": [
         "Steel",
         "Dragon"
@@ -1012,31 +1019,31 @@
       ],
       "counters": [
         {
+          "name": "Mega Mewtwo X",
+          "moves": "Counter / Dynamic Punch"
+        },
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Counter / Aura Sphere"
+        },
+        {
           "name": "Primal Groudon",
           "moves": "Mud Shot / Precipice Blades"
         },
         {
-          "name": "Shadow Groudon",
-          "moves": "Mud Shot / Precipice Blades"
+          "name": "Mega Mewtwo Y",
+          "moves": "Counter / Focus Blast"
         },
         {
-          "name": "Terrakion",
-          "moves": "Double Kick / Sacred Sword"
-        },
-        {
-          "name": "Mega Lucario",
-          "moves": "Counter / Aura Sphere"
-        },
-        {
-          "name": "Shadow Excadrill",
-          "moves": "Mud Shot / Drill Run"
-        },
-        {
-          "name": "Keldeo",
-          "moves": "Low Kick / Sacred Sword"
+          "name": "Keldeo (Resolute)",
+          "moves": "Low Kick / Secret Sword"
         }
       ],
-      "countersSource": "type"
+      "countersSource": "GO Hub"
     },
     {
       "id": "mega-dragonite-oct14",
@@ -1046,7 +1053,7 @@
       "catchForm": "Dragonite",
       "tier": "mega",
       "tierLabel": "Mega",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": true,
       "window": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local",
@@ -1065,7 +1072,7 @@
         "pokeapiId": 149,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png"
       },
-      "notes": "Starts Wed 14 Oct 6:00 AM local (replaces Mega Blastoise). Catch form: Dragonite (not Mega). Ice is double super-effective (×2.56). Shiny available (Leek Duck).",
+      "notes": "LIVE from Wed 14 Oct 6:00 AM local (replaces Mega Blastoise). Catch form: Dragonite (not Mega). Ice is double super-effective (×2.56). Shiny available (Leek Duck). Catch CP 2096–2167 (2621–2709 Windy).",
       "types": [
         "Dragon",
         "Flying"
@@ -1082,27 +1089,27 @@
           "moves": "Ice Fang / Ice Burn"
         },
         {
+          "name": "Mega Mewtwo Y",
+          "moves": "Psycho Cut / Ice Beam"
+        },
+        {
+          "name": "Mega Mewtwo X",
+          "moves": "Psycho Cut / Ice Beam"
+        },
+        {
+          "name": "Black Kyurem",
+          "moves": "Dragon Tail / Freeze Shock"
+        },
+        {
           "name": "Shadow Mamoswine",
           "moves": "Powder Snow / Avalanche"
         },
         {
-          "name": "Mega Rayquaza",
-          "moves": "Dragon Tail / Dragon Ascent"
-        },
-        {
-          "name": "Shadow Weavile",
-          "moves": "Ice Shard / Avalanche"
-        },
-        {
-          "name": "Galarian Darmanitan",
-          "moves": "Ice Fang / Avalanche"
-        },
-        {
-          "name": "Shadow Rhyperior",
-          "moves": "Smack Down / Rock Wrecker"
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Triple Axel"
         }
       ],
-      "countersSource": "type"
+      "countersSource": "GO Hub"
     },
     {
       "id": "palkia-oct21",
@@ -1682,7 +1689,7 @@
       "id": "yveltal-blastoise-oct7",
       "when": "Wed 7 Oct 6:00 AM – Tue 13 Oct 10:00 PM local (ended)",
       "title": "Yveltal 5★ + Mega Blastoise (ended)",
-      "impact": "Ended Tue 13 Oct 10:00 PM local. Overnight gap until Wed 14 Oct 6:00 AM (Dialga + Mega Dragonite). Leek Duck raid-bosses page still listed this set as Ongoing overnight — treat as stale vs event pages.",
+      "impact": "Ended Tue 13 Oct 10:00 PM local. Replaced by Dialga + Mega Dragonite from Wed 14 Oct 6:00 AM.",
       "urgent": false
     },
     {
@@ -1715,9 +1722,9 @@
     },
     {
       "id": "dialga-dragonite-oct14",
-      "when": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local (starts tomorrow morning)",
-      "title": "Dialga 5★ + Mega Dragonite (starts Wed 6:00 AM)",
-      "impact": "Next rotation replaces Yveltal / Mega Blastoise (Leek Duck; both shiny-eligible). Dialga is Steel/Dragon — weak to Fighting, Ground. Mega Dragonite is Dragon/Flying — weak to Ice ×2.56, Dragon, Fairy, Rock. Raid Hour Wed 14 Oct 6–7 PM.",
+      "when": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local (LIVE)",
+      "title": "Dialga 5★ + Mega Dragonite (LIVE)",
+      "impact": "LIVE rotation replaces Yveltal / Mega Blastoise (Leek Duck / GO Hub; both shiny-eligible). Dialga Steel/Dragon — weak to Fighting, Ground. Mega Dragonite Dragon/Flying — Ice ×2.56, Dragon, Fairy, Rock. New 1★/3★ pool posted on GO Hub. Raid Hour Wed 14 Oct 6–7 PM.",
       "urgent": true
     },
     {
@@ -1764,10 +1771,10 @@
     },
     {
       "id": "raid-hour-dialga",
-      "when": "Wed 14 Oct 6:00–7:00 PM local (upcoming — tomorrow)",
-      "title": "Raid Hour: Dialga (upcoming — tomorrow)",
+      "when": "Wed 14 Oct 6:00–7:00 PM local (tonight)",
+      "title": "Raid Hour: Dialga (tonight)",
       "impact": "More 5★ raids for one hour on Dialga’s first day.",
-      "urgent": false
+      "urgent": true
     },
     {
       "id": "giratina-sableye-oct28",
