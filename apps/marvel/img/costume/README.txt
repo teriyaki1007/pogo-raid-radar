@@ -3,4 +3,4 @@ When a file exists, set characters.json "costumeArt": "img/costume/<id>.jpg"
 for that character. The site prefers costumeArt over actor Commons photos.
 Do not commit actor lookalikes — costume-inspired illustrations only.
 
-Current: 60 portraits (batches 1–5, 2026-10-14).
+Current: 86 portraits (full Marvel Hub set, 2026-10-14). Placeholders retired.
