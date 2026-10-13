@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <meta name="color-scheme" content="dark" />
 <meta name="theme-color" content="#0a0b12" />
-<meta name="description" content="Unofficial MCU fan hub: browse 40+ characters and run fun power-rating battles." />
+<meta name="description" content="Unofficial MCU fan hub: browse 80+ characters, 1v1 arena, and online party-code battles." />
 <title>Marvel Hub · Unofficial MCU fan site</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23e23636'/%3E%3Ctext x='16' y='24' text-anchor='middle' font-family='Impact,sans-serif' font-size='22' fill='%23fff'%3EM%3C/text%3E%3C/svg%3E" />
-<link rel="stylesheet" href="styles.css" />
+<link rel="stylesheet" href="styles.css?v=20261014party" />
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -24,6 +24,7 @@
   <nav class="tabs" role="tablist" aria-label="Sections">
     <button role="tab" id="tab-gallery" aria-controls="panel-gallery" aria-selected="true" type="button">Gallery</button>
     <button role="tab" id="tab-arena" aria-controls="panel-arena" aria-selected="false" tabindex="-1" type="button">Battle Arena</button>
+    <button role="tab" id="tab-party" aria-controls="panel-party" aria-selected="false" tabindex="-1" type="button">Party Battle</button>
   </nav>
 </header>
 
@@ -114,6 +115,71 @@
     <p class="note">Ratings are fan-estimated MCU power levels, just for fun. Win chance = A ÷ (A + B), so a 90 vs 45 matchup gives the favourite about 67%. Picking the same character twice is a 50/50 mirror match.</p>
   </section>
 
+
+  <section id="panel-party" data-build="20261014party" role="tabpanel" aria-labelledby="tab-party" hidden>
+    <div class="intro">
+      <h2>Party Battle</h2>
+      <p class="muted">Online turn-based fights for 2–6 players. Create a room, share the party code, and duel across devices. Damage uses the same MCU power ratings as the arena — stronger usually wins, upsets happen.</p>
+      <p class="pill">No install · free PeerJS lobby · host is referee</p>
+    </div>
+
+    <div id="partySetup" class="party-setup">
+      <label class="party-name">Your name
+        <input id="partyName" type="text" maxlength="18" placeholder="Hero name" autocomplete="nickname" />
+      </label>
+      <div class="party-actions">
+        <button type="button" class="btn primary" id="partyHost">Create room</button>
+        <span class="party-or">or</span>
+        <label class="party-join">Join code
+          <input id="partyCodeIn" type="text" maxlength="6" placeholder="e.g. K7P2" autocomplete="off" spellcheck="false" class="code-input" />
+        </label>
+        <button type="button" class="btn" id="partyJoin">Join</button>
+      </div>
+      <p id="partyStatus" class="party-status muted" aria-live="polite"></p>
+    </div>
+
+    <div id="partyRoom" class="party-room" hidden>
+      <div class="party-code-banner">
+        <div>
+          <p class="muted" style="margin:0">Party code</p>
+          <p class="code-big" id="partyCodeOut">----</p>
+        </div>
+        <button type="button" class="btn ghost" id="partyCopy">Copy code</button>
+        <button type="button" class="btn ghost" id="partyLeave">Leave</button>
+      </div>
+
+      <div id="partyLobby" class="party-lobby">
+        <h3>Lobby</h3>
+        <ul id="partyPlayers" class="party-players"></ul>
+        <div class="party-pick-row">
+          <label for="partyChar">Your fighter</label>
+          <div class="pick-row">
+            <select id="partyChar"></select>
+            <button type="button" class="btn ghost" id="partyBrowse">Browse</button>
+          </div>
+        </div>
+        <div class="actions">
+          <button type="button" class="btn" id="partyReady">Ready</button>
+          <button type="button" class="btn primary" id="partyStart" hidden>Start battle</button>
+        </div>
+      </div>
+
+      <div id="partyFight" class="party-fight" hidden>
+        <p id="partyTurn" class="party-turn" aria-live="polite"></p>
+        <div id="partyFighters" class="party-fighters"></div>
+        <div id="partyMoves" class="party-moves" hidden>
+          <p class="muted">Your move — pick an ability<span id="partyTargetLbl"> and a target</span></p>
+          <div id="partyTargets" class="party-targets"></div>
+          <div id="partyAbilities" class="party-abilities"></div>
+        </div>
+        <ol id="partyLog" class="party-log" aria-live="polite"></ol>
+        <div class="actions">
+          <button type="button" class="btn primary" id="partyRematch" hidden>Rematch</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section id="panel-credits" role="region" aria-labelledby="credits-title" hidden>
     <div class="intro">
       <h2 id="credits-title">Photo credits</h2>
@@ -136,7 +202,9 @@
 </div>
 <canvas id="confetti" aria-hidden="true"></canvas>
 
-<script src="battle.js"></script>
-<script src="app.js"></script>
+<script src="https://unpkg.com/peerjs@1.5.4/dist/peerjs.min.js" crossorigin="anonymous"></script>
+<script src="battle.js?v=20261014party"></script>
+<script src="multiplayer.js?v=20261014party"></script>
+<script src="app.js?v=20261014party"></script>
 </body>
 </html>

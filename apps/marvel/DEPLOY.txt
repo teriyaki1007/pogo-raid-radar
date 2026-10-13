@@ -1,0 +1,5 @@
+Marvel Hub deploy notes (2026-10-14)
+- Roster expanded to 86 MCU characters; power ratings rechecked (ratingsAsOf 2026-10-14).
+- New Party Battle tab: PeerJS (unpkg peerjs@1.5.4 + free 0.peerjs.com broker). No API key.
+- Host creates 4-char code; guests join on /marvel/#party. Turn-based, 2–6 players, host-authoritative.
+- Cache-bust: ?v=20261014party ; marker data-build="20261014party" on #panel-party.

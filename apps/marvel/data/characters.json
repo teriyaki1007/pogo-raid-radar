@@ -1,6 +1,6 @@
 {
-  "version": 2,
-  "note": "Ratings are fan-estimated MCU power levels, just for fun. Photos are freely licensed pictures of the actors (not character stills); see Photo credits.",
+  "version": 3,
+  "note": "Ratings are fan-estimated MCU power levels (rechecked Oct 2026), just for fun. Photos are freely licensed pictures of the actors (not character stills); see Photo credits. CGI/voice roles use illustrated avatars.",
   "characters": [
     {
       "id": "iron-man",
@@ -13,7 +13,7 @@
         "year": 2008,
         "type": "Film"
       },
-      "power": 82,
+      "power": 83,
       "initials": "IM",
       "theme": {
         "c1": "#7a0f14",
@@ -95,7 +95,7 @@
         "year": 2011,
         "type": "Film"
       },
-      "power": 94,
+      "power": 92,
       "initials": "TH",
       "theme": {
         "c1": "#15275e",
@@ -137,7 +137,7 @@
         "year": 2008,
         "type": "Film"
       },
-      "power": 92,
+      "power": 86,
       "initials": "HK",
       "theme": {
         "c1": "#0f4d22",
@@ -179,7 +179,7 @@
         "year": 2010,
         "type": "Film"
       },
-      "power": 52,
+      "power": 54,
       "initials": "BW",
       "theme": {
         "c1": "#1a1a22",
@@ -221,7 +221,7 @@
         "year": 2011,
         "type": "Film"
       },
-      "power": 48,
+      "power": 51,
       "initials": "HE",
       "theme": {
         "c1": "#3a1c6b",
@@ -261,7 +261,7 @@
         "year": 2016,
         "type": "Film"
       },
-      "power": 72,
+      "power": 73,
       "initials": "SM",
       "theme": {
         "c1": "#b21a24",
@@ -303,7 +303,7 @@
         "year": 2016,
         "type": "Film"
       },
-      "power": 76,
+      "power": 77,
       "initials": "BP",
       "theme": {
         "c1": "#0c0c14",
@@ -386,7 +386,7 @@
         "year": 2019,
         "type": "Film"
       },
-      "power": 95,
+      "power": 94,
       "initials": "CM",
       "theme": {
         "c1": "#1f3fae",
@@ -427,7 +427,7 @@
         "year": 2015,
         "type": "Film"
       },
-      "power": 58,
+      "power": 59,
       "initials": "AM",
       "theme": {
         "c1": "#8a1c1c",
@@ -467,7 +467,7 @@
         "year": 2015,
         "type": "Film"
       },
-      "power": 60,
+      "power": 61,
       "initials": "WP",
       "theme": {
         "c1": "#c48a00",
@@ -508,7 +508,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 96,
+      "power": 95,
       "initials": "SW",
       "theme": {
         "c1": "#5a0a1e",
@@ -549,7 +549,7 @@
         "year": 2015,
         "type": "Film"
       },
-      "power": 86,
+      "power": 85,
       "initials": "VI",
       "theme": {
         "c1": "#15623a",
@@ -590,7 +590,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 55,
+      "power": 57,
       "initials": "FA",
       "theme": {
         "c1": "#7a1f1f",
@@ -631,7 +631,7 @@
         "year": 2011,
         "type": "Film"
       },
-      "power": 60,
+      "power": 64,
       "initials": "WS",
       "theme": {
         "c1": "#2a2f3a",
@@ -671,7 +671,7 @@
         "year": 2008,
         "type": "Film"
       },
-      "power": 62,
+      "power": 63,
       "initials": "WM",
       "theme": {
         "c1": "#3a3f48",
@@ -712,7 +712,7 @@
         "year": 2011,
         "type": "Film"
       },
-      "power": 74,
+      "power": 76,
       "initials": "LK",
       "theme": {
         "c1": "#0f4a36",
@@ -753,7 +753,7 @@
         "year": 2012,
         "type": "Film"
       },
-      "power": 98,
+      "power": 97,
       "initials": "TN",
       "theme": {
         "c1": "#3d1a6b",
@@ -866,7 +866,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 62,
+      "power": 60,
       "initials": "DX",
       "theme": {
         "c1": "#2d4a7a",
@@ -906,7 +906,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 45,
+      "power": 49,
       "initials": "RK",
       "theme": {
         "c1": "#7a3d12",
@@ -1050,7 +1050,7 @@
         "year": 2021,
         "type": "Film"
       },
-      "power": 68,
+      "power": 73,
       "initials": "SC",
       "theme": {
         "c1": "#7a1212",
@@ -1090,7 +1090,7 @@
         "year": 2016,
         "type": "Film"
       },
-      "power": 66,
+      "power": 70,
       "initials": "WG",
       "theme": {
         "c1": "#4a1f6b",
@@ -1164,7 +1164,7 @@
         "year": 2017,
         "type": "Film"
       },
-      "power": 91,
+      "power": 90,
       "initials": "HL",
       "theme": {
         "c1": "#0a2a1a",
@@ -1245,7 +1245,7 @@
         "year": 2017,
         "type": "Film"
       },
-      "power": 97,
+      "power": 96,
       "initials": "EG",
       "theme": {
         "c1": "#7a2a08",
@@ -1285,7 +1285,7 @@
         "year": 2011,
         "type": "Film"
       },
-      "power": 58,
+      "power": 55,
       "initials": "RS",
       "theme": {
         "c1": "#5a0f0f",
@@ -1406,7 +1406,7 @@
         "year": 2022,
         "type": "Film"
       },
-      "power": 84,
+      "power": 82,
       "initials": "NM",
       "theme": {
         "c1": "#0a4a6b",
@@ -1447,7 +1447,7 @@
         "year": 2022,
         "type": "Series"
       },
-      "power": 60,
+      "power": 61,
       "initials": "MM",
       "theme": {
         "c1": "#b2185a",
@@ -1486,7 +1486,7 @@
         "year": 2022,
         "type": "Series"
       },
-      "power": 80,
+      "power": 79,
       "initials": "SH",
       "theme": {
         "c1": "#0f6b3a",
@@ -1526,7 +1526,7 @@
         "year": 2022,
         "type": "Series"
       },
-      "power": 66,
+      "power": 67,
       "initials": "MK",
       "theme": {
         "c1": "#1a1a2a",
@@ -1567,7 +1567,7 @@
         "year": 2015,
         "type": "Series"
       },
-      "power": 50,
+      "power": 52,
       "initials": "DD",
       "theme": {
         "c1": "#7a0f0f",
@@ -1608,7 +1608,7 @@
         "year": 2024,
         "type": "Film"
       },
-      "power": 74,
+      "power": 75,
       "initials": "DP",
       "theme": {
         "c1": "#8a0f14",
@@ -1648,7 +1648,7 @@
         "year": 2022,
         "type": "Film"
       },
-      "power": 85,
+      "power": 84,
       "initials": "GB",
       "theme": {
         "c1": "#1a1a1a",
@@ -1688,7 +1688,7 @@
         "year": 2016,
         "type": "Film"
       },
-      "power": 97,
+      "power": 98,
       "initials": "DM",
       "theme": {
         "c1": "#2a0a5a",
@@ -1749,6 +1749,1378 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "file": "Anthony Hopkins Red Sea Festival 2025 Portrait (cropped).jpg"
       }
+    },
+    {
+      "id": "nick-fury",
+      "name": "Nick Fury",
+      "alias": "Nicholas J. Fury",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Iron Man",
+        "year": 2008,
+        "type": "Film"
+      },
+      "power": 48,
+      "initials": "NF",
+      "theme": {
+        "c1": "#1a1a1a",
+        "c2": "#4a1515",
+        "accent": "#c62828"
+      },
+      "pattern": "grid",
+      "emblem": "triangle",
+      "tagline": "The man behind the curtain.",
+      "description": "A one-eyed spymaster who recruits extraordinary people and keeps Earth in the game against threats no agency can face alone.",
+      "importance": "Fury quietly builds the Avengers Initiative and shapes how Earth responds to cosmic and terrestrial crises.",
+      "abilities": [
+        "Espionage",
+        "Tactical command",
+        "LMD decoys",
+        "Marksmanship"
+      ],
+      "spoilers": "Fury reveals the Avengers Initiative after the Battle of New York era begins, fakes his death in The Winter Soldier, and later works with Skrulls and Carol Danvers across Secret Invasion-era stories.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "quicksilver",
+      "name": "Quicksilver",
+      "alias": "Pietro Maximoff",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015,
+        "type": "Film"
+      },
+      "power": 72,
+      "initials": "QS",
+      "theme": {
+        "c1": "#4a5568",
+        "c2": "#a0aec0",
+        "accent": "#e2e8f0"
+      },
+      "pattern": "stripes",
+      "emblem": "bolt",
+      "tagline": "Too fast to catch.",
+      "description": "Wanda’s twin, a speedster who dashes through battlefields faster than most eyes can follow.",
+      "importance": "His short MCU run still defines a classic “cost of war” moment for the Maximoff twins.",
+      "abilities": [
+        "Super speed",
+        "Momentum strikes",
+        "Rapid rescue"
+      ],
+      "spoilers": "Pietro dies taking bullets for Hawkeye and a child in Age of Ultron. Wanda’s grief fuels later arcs.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "yelena-belova",
+      "name": "Yelena Belova",
+      "alias": "White Widow",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Black Widow",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 55,
+      "initials": "YB",
+      "theme": {
+        "c1": "#2d3a2e",
+        "c2": "#6b8f71",
+        "accent": "#c5e1a5"
+      },
+      "pattern": "dots",
+      "emblem": "claw",
+      "tagline": "Dry humour. Deadly aim.",
+      "description": "A Black Widow operative with lethal training, sibling friction, and a talent for undercutting any heroic speech.",
+      "importance": "Yelena carries the Widow legacy forward and ties street-level stories into larger MCU conflicts.",
+      "abilities": [
+        "Martial arts",
+        "Widow bites",
+        "Espionage",
+        "Marksmanship"
+      ],
+      "spoilers": "She confronts Natasha in Black Widow, later hunts a “Hawkeye” in the Hawkeye series, and appears in Thunderbolts-era material.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "kate-bishop",
+      "name": "Kate Bishop",
+      "alias": "Hawkeye",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Hawkeye",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 50,
+      "initials": "KB",
+      "theme": {
+        "c1": "#1a237e",
+        "c2": "#c62828",
+        "accent": "#ffcdd2"
+      },
+      "pattern": "chevrons",
+      "emblem": "triangle",
+      "tagline": "New blood, old bow.",
+      "description": "A sharpshooting New Yorker who idolises Clint Barton and steps into the Hawkeye mantle with nerve and skill.",
+      "importance": "Kate proves legacy mantles can pass to the next generation without losing the street-level heart of the MCU.",
+      "abilities": [
+        "Archery",
+        "Martial arts",
+        "Improvised gadgets"
+      ],
+      "spoilers": "She teams with Clint against the Tracksuit Mafia and Eleanor Bishop’s dealings with Kingpin, then keeps the Hawkeye name.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "shuri",
+      "name": "Shuri",
+      "alias": "Black Panther",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Black Panther",
+        "year": 2018,
+        "type": "Film"
+      },
+      "power": 74,
+      "initials": "SH",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#00bfa5",
+        "accent": "#b9f6ca"
+      },
+      "pattern": "hex",
+      "emblem": "hex",
+      "tagline": "Genius of Wakanda.",
+      "description": "Wakanda’s leading scientist and inventor who later takes up the Black Panther mantle.",
+      "importance": "Shuri bridges vibranium tech brilliance with the spiritual duty of the Panther.",
+      "abilities": [
+        "Vibranium tech",
+        "Genius intellect",
+        "Panther suit",
+        "Martial skill"
+      ],
+      "spoilers": "After T’Challa’s death she becomes Black Panther in Wakanda Forever, surviving the ancestral plane and defending Wakanda from Namor.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "okoye",
+      "name": "Okoye",
+      "alias": "General of the Dora Milaje",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Black Panther",
+        "year": 2018,
+        "type": "Film"
+      },
+      "power": 58,
+      "initials": "OK",
+      "theme": {
+        "c1": "#b71c1c",
+        "c2": "#212121",
+        "accent": "#ffd54f"
+      },
+      "pattern": "chevrons",
+      "emblem": "shield",
+      "tagline": "Duty first.",
+      "description": "Leader of the Dora Milaje — unmatched spear work, unshakable loyalty to Wakanda.",
+      "importance": "Okoye embodies Wakanda’s military honour across Black Panther films and Avengers crossovers.",
+      "abilities": [
+        "Spear mastery",
+        "Tactics",
+        "Dora Milaje training"
+      ],
+      "spoilers": "She fights in Infinity War and Endgame, briefly clashes with a grieving Shuri’s choices, and remains Wakanda’s steel spine.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "m-baku",
+      "name": "M'Baku",
+      "alias": "Leader of the Jabari",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Black Panther",
+        "year": 2018,
+        "type": "Film"
+      },
+      "power": 70,
+      "initials": "MB",
+      "theme": {
+        "c1": "#3e2723",
+        "c2": "#efebe9",
+        "accent": "#ffcc80"
+      },
+      "pattern": "waves",
+      "emblem": "shield",
+      "tagline": "The Jabari mountain.",
+      "description": "A formidable Jabari warrior whose strength and pride make him both rival and ally to the throne.",
+      "importance": "M'Baku shows that Wakanda’s power is not only vibranium tech — tradition and raw might matter too.",
+      "abilities": [
+        "Enhanced strength",
+        "Gorilla-armour tactics",
+        "Leadership"
+      ],
+      "spoilers": "He refuses the heart-shaped herb path at first, later aids T’Challa and Shuri, and becomes a key political voice in Wakanda Forever.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "valkyrie",
+      "name": "Valkyrie",
+      "alias": "Brunnhilde",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor: Ragnarok",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 76,
+      "initials": "VK",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#f9a825",
+        "accent": "#ffe082"
+      },
+      "pattern": "chevrons",
+      "emblem": "shield",
+      "tagline": "Asgard’s last Valkyrie.",
+      "description": "A legendary Asgardian warrior who drinks hard, fights harder, and eventually leads her people.",
+      "importance": "Valkyrie reconnects Thor to Asgardian myth and becomes King of New Asgard.",
+      "abilities": [
+        "Asgardian strength",
+        "Sword mastery",
+        "Pegasus flight"
+      ],
+      "spoilers": "She helps stop Hela, fights Thanos’s forces, and by Love and Thunder rules New Asgard while still charging into battle.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "jane-foster",
+      "name": "Jane Foster",
+      "alias": "The Mighty Thor",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 88,
+      "initials": "JF",
+      "theme": {
+        "c1": "#0d47a1",
+        "c2": "#fbc02d",
+        "accent": "#fff59d"
+      },
+      "pattern": "bolt",
+      "emblem": "bolt",
+      "tagline": "Worthy.",
+      "description": "An astrophysicist who becomes the Mighty Thor when Mjolnir answers her courage — even while she fights illness.",
+      "importance": "Jane’s arc proves worthiness is about heart, not birthright, and redefines who can lift the hammer.",
+      "abilities": [
+        "Mjolnir",
+        "Lightning",
+        "Asgardian strength",
+        "Science genius"
+      ],
+      "spoilers": "In Love and Thunder she wields Mjolnir while battling cancer, dies a hero, and reunites with Thor in Valhalla.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "heimdall",
+      "name": "Heimdall",
+      "alias": "Gatekeeper of Asgard",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 78,
+      "initials": "HD",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#ffd54f",
+        "accent": "#c8e6c9"
+      },
+      "pattern": "rings",
+      "emblem": "shield",
+      "tagline": "All-seeing guardian.",
+      "description": "Asgard’s sentinel whose senses span the Nine Realms and whose sword opens the Bifrost.",
+      "importance": "Heimdall is the quiet backbone of Asgard’s defence and a moral constant for Thor.",
+      "abilities": [
+        "All-sight",
+        "Bifrost control",
+        "Asgardian combat"
+      ],
+      "spoilers": "He smuggles survivors off Asgard, is killed by Thanos at the start of Infinity War after sending Hulk to Earth, and later appears in spiritual contexts.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "america-chavez",
+      "name": "America Chavez",
+      "alias": "Ms. America",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "year": 2022,
+        "type": "Film"
+      },
+      "power": 80,
+      "initials": "AC",
+      "theme": {
+        "c1": "#0d47a1",
+        "c2": "#c62828",
+        "accent": "#ffffff"
+      },
+      "pattern": "stars",
+      "emblem": "star",
+      "tagline": "Punch through realities.",
+      "description": "A teenager who can kick open star-shaped portals between universes.",
+      "importance": "America makes the multiverse personal — her power is exactly what darker forces hunt.",
+      "abilities": [
+        "Star portals",
+        "Interdimensional travel",
+        "Super strength"
+      ],
+      "spoilers": "Wanda hunts her to replace lost children; Strange protects her; she learns to control her punches through the multiverse.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "adam-warlock",
+      "name": "Adam Warlock",
+      "alias": "Him",
+      "group": "guardians",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "year": 2023,
+        "type": "Film"
+      },
+      "power": 86,
+      "initials": "AW",
+      "theme": {
+        "c1": "#f9a825",
+        "c2": "#6a1b9a",
+        "accent": "#ffe082"
+      },
+      "pattern": "burst",
+      "emblem": "diamond",
+      "tagline": "Born for a purpose.",
+      "description": "A Sovereign-engineered golden being who grows from naïve weapon into a Guardian.",
+      "importance": "Adam closes the Guardians trilogy’s themes of engineered life choosing its own family.",
+      "abilities": [
+        "Cosmic strength",
+        "Energy beams",
+        "Flight",
+        "Healing"
+      ],
+      "spoilers": "Created by the Sovereign to destroy the Guardians, he instead joins them after Vol. 3’s climax and later leads a new Guardians roster.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "yondu",
+      "name": "Yondu Udonta",
+      "alias": "Ravager Captain",
+      "group": "guardians",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 62,
+      "initials": "YD",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#00838f",
+        "accent": "#80deea"
+      },
+      "pattern": "waves",
+      "emblem": "crescent",
+      "tagline": "Whistle once.",
+      "description": "A blue-skinned Ravager with a deadly Yaka arrow controlled by whistling — and a surprisingly soft spot for Peter Quill.",
+      "importance": "Yondu’s found-family turn is one of the MCU’s most emotional Guardian beats.",
+      "abilities": [
+        "Yaka arrow",
+        "Ravager tactics",
+        "Leadership"
+      ],
+      "spoilers": "He returns Peter to the Guardians and sacrifices himself escaping Ego’s planet in Vol. 2.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "sylvie",
+      "name": "Sylvie",
+      "alias": "Sylvie Laufeydottir",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Loki",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 77,
+      "initials": "SY",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#a5d6a7",
+        "accent": "#dcedc8"
+      },
+      "pattern": "chevrons",
+      "emblem": "crescent",
+      "tagline": "Variant with a grudge.",
+      "description": "A Loki variant who escaped the Time Variance Authority and fought to topple the Sacred Timeline’s rulers.",
+      "importance": "Sylvie forces the MCU to confront free will versus dictated history.",
+      "abilities": [
+        "Sorcery",
+        "Combat",
+        "Timeline chaos"
+      ],
+      "spoilers": "She kills He Who Remains, fracturing the multiverse, and later contends with the fallout alongside Loki.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "ikaris",
+      "name": "Ikaris",
+      "alias": "Prime Eternal",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Eternals",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 89,
+      "initials": "IK",
+      "theme": {
+        "c1": "#1565c0",
+        "c2": "#ffe082",
+        "accent": "#fff8e1"
+      },
+      "pattern": "burst",
+      "emblem": "diamond",
+      "tagline": "The flying fortress.",
+      "description": "An Eternal with flight and cosmic eye-beams, torn between duty to a Celestial design and love for humanity.",
+      "importance": "Ikaris frames the Eternals’ central conflict: obedience versus protecting Earth.",
+      "abilities": [
+        "Flight",
+        "Optic beams",
+        "Super strength",
+        "Near-immortality"
+      ],
+      "spoilers": "He sides with Arishem’s Emergence plan, battles his family, and flies into the sun after failing to stop them.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "sersi",
+      "name": "Sersi",
+      "alias": "Eternal of Matter",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Eternals",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 78,
+      "initials": "SE",
+      "theme": {
+        "c1": "#004d40",
+        "c2": "#80cbc4",
+        "accent": "#e0f2f1"
+      },
+      "pattern": "rings",
+      "emblem": "hex",
+      "tagline": "Matter listens.",
+      "description": "An Eternal who transmutes matter and becomes the emotional centre of her family’s stand for Earth.",
+      "importance": "Sersi leads the choice to defy the Emergence and save the planet.",
+      "abilities": [
+        "Matter transmutation",
+        "Empathy",
+        "Eternal durability"
+      ],
+      "spoilers": "She turns Tiamut to stone, briefly bonds with a Uni-Mind, and is taken by Arishem for judgment at the film’s end.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "thena",
+      "name": "Thena",
+      "alias": "Warrior Eternal",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Eternals",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 84,
+      "initials": "TH",
+      "theme": {
+        "c1": "#eceff1",
+        "c2": "#90a4ae",
+        "accent": "#ffffff"
+      },
+      "pattern": "diamonds",
+      "emblem": "claw",
+      "tagline": "Blades of light.",
+      "description": "A peerless Eternal warrior who conjures weapons from cosmic energy while fighting Mahd Wy’ry.",
+      "importance": "Thena shows the cost of endless war even on immortal soldiers.",
+      "abilities": [
+        "Energy weapons",
+        "Master combat",
+        "Agility"
+      ],
+      "spoilers": "She nearly kills allies during Mahd Wy’ry episodes, recovers enough to fight Ikaris and the Deviants, and leaves Earth with others to find more Eternals.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "ironheart",
+      "name": "Ironheart",
+      "alias": "Riri Williams",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Black Panther: Wakanda Forever",
+        "year": 2022,
+        "type": "Film"
+      },
+      "power": 76,
+      "initials": "IR",
+      "theme": {
+        "c1": "#b71c1c",
+        "c2": "#1565c0",
+        "accent": "#90caf9"
+      },
+      "pattern": "hex",
+      "emblem": "circle",
+      "tagline": "MIT’s new armourer.",
+      "description": "A student genius who builds her own advanced suit and steps into a legacy Tony Stark left behind.",
+      "importance": "Riri extends Iron Man’s tech heroism into a new generation.",
+      "abilities": [
+        "Powered armour",
+        "Genius intellect",
+        "Repulsors",
+        "Flight"
+      ],
+      "spoilers": "Wakanda recruits her in Wakanda Forever; her solo series continues her armour evolution and personal stakes.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "cassie-lang",
+      "name": "Cassie Lang",
+      "alias": "Stature",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Ant-Man",
+        "year": 2015,
+        "type": "Film"
+      },
+      "power": 60,
+      "initials": "CL",
+      "theme": {
+        "c1": "#b71c1c",
+        "c2": "#1565c0",
+        "accent": "#ef9a9a"
+      },
+      "pattern": "dots",
+      "emblem": "hex",
+      "tagline": "Growing up fast.",
+      "description": "Scott Lang’s daughter who dons her own shrinking tech and joins the fight at giant and tiny scales.",
+      "importance": "Cassie makes the Ant-Man stories a family affair and ties Quantum Realm stakes to personal hope.",
+      "abilities": [
+        "Size-shifting",
+        "Pym tech",
+        "Courage"
+      ],
+      "spoilers": "As a teen in Quantumania she helps confront Kang the Conqueror alongside her family and the freedom fighters of the Quantum Realm.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "monica-rambeau",
+      "name": "Monica Rambeau",
+      "alias": "Spectrum",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain Marvel",
+        "year": 2019,
+        "type": "Film"
+      },
+      "power": 82,
+      "initials": "MR",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#f57c00",
+        "accent": "#ffe0b2"
+      },
+      "pattern": "waves",
+      "emblem": "burst",
+      "tagline": "Phased through everything.",
+      "description": "A S.W.O.R.D. agent who gains energy-phase powers after the Westview anomaly and becomes a heavy hitter in her own right.",
+      "importance": "Monica links Captain Marvel’s legacy to WandaVision’s aftermath and orbital defence stories.",
+      "abilities": [
+        "Energy phasing",
+        "Intangibility",
+        "Energy blasts",
+        "Flight"
+      ],
+      "spoilers": "She becomes Photon/Spectrum-class after WandaVision, later appears in The Marvels dealing with wormhole and family fallout.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "agatha-harkness",
+      "name": "Agatha Harkness",
+      "alias": "Agatha All Along",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "WandaVision",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 86,
+      "initials": "AH",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#212121",
+        "accent": "#ce93d8"
+      },
+      "pattern": "rings",
+      "emblem": "crescent",
+      "tagline": "And I kill too.",
+      "description": "A centuries-old witch who schemes, sings, and siphons power — rival and dark mirror to Wanda.",
+      "importance": "Agatha pulls fairy-tale witchcraft into the MCU’s suburban horror chapter.",
+      "abilities": [
+        "Chaos-adjacent magic",
+        "Power absorption",
+        "Sorcery",
+        "Manipulation"
+      ],
+      "spoilers": "She torments Wanda in Westview, is trapped in the “Agnes” loop, and later headlines Agatha All Along.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "high-evolutionary",
+      "name": "High Evolutionary",
+      "alias": "Herbert Wyndham",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy Vol. 3",
+        "year": 2023,
+        "type": "Film"
+      },
+      "power": 88,
+      "initials": "HE",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#eeff41",
+        "accent": "#f4ff81"
+      },
+      "pattern": "grid",
+      "emblem": "diamond",
+      "tagline": "Perfection, at any cost.",
+      "description": "A fanatical scientist who rewrites species in pursuit of a perfect society — including Rocket’s origin.",
+      "importance": "He is the emotional villain of the Guardians finale, personifying cruel “improvement.”",
+      "abilities": [
+        "Genetic engineering",
+        "Powered armour",
+        "Science armies",
+        "Durability"
+      ],
+      "spoilers": "The Guardians storm his ship, Rocket confronts his past, and they leave him defeated and humiliated.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "vulture",
+      "name": "Vulture",
+      "alias": "Adrian Toomes",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 58,
+      "initials": "VU",
+      "theme": {
+        "c1": "#33691e",
+        "c2": "#827717",
+        "accent": "#c0ca33"
+      },
+      "pattern": "chevrons",
+      "emblem": "claw",
+      "tagline": "Wings over Queens.",
+      "description": "A salvager turned winged arms dealer who sees heroes as elites stealing blue-collar survival.",
+      "importance": "Vulture grounds Spider-Man’s world in class tension and DIY supervillain tech.",
+      "abilities": [
+        "Exo-wings",
+        "Alien tech weapons",
+        "Salvage genius"
+      ],
+      "spoilers": "He nearly kills Peter on a ferry and school dance night; after defeat he keeps Peter’s identity quiet in prison.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "mysterio",
+      "name": "Mysterio",
+      "alias": "Quentin Beck",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Spider-Man: Far From Home",
+        "year": 2019,
+        "type": "Film"
+      },
+      "power": 64,
+      "initials": "MY",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#fdd835",
+        "accent": "#fff59d"
+      },
+      "pattern": "burst",
+      "emblem": "circle",
+      "tagline": "Illusionist with drones.",
+      "description": "A disillusioned Stark tech specialist who uses drones and projectors to play god — and frame Spider-Man.",
+      "importance": "Mysterio weaponises narrative itself, setting up identity catastrophe for Peter.",
+      "abilities": [
+        "Hard-light illusions",
+        "Drone swarms",
+        "Combat training",
+        "Deception"
+      ],
+      "spoilers": "He fakes elemental threats, dies by his own drone fire, and posthumously exposes Peter’s identity worldwide.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "crossbones",
+      "name": "Crossbones",
+      "alias": "Brock Rumlow",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 57,
+      "initials": "CB",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b71c1c",
+        "accent": "#ef9a9a"
+      },
+      "pattern": "stripes",
+      "emblem": "shield",
+      "tagline": "Hydra’s blunt instrument.",
+      "description": "A ruthless Hydra operative and former S.T.R.I.K.E. agent who thrives on chaos and explosives.",
+      "importance": "Crossbones triggers the airport-road-to-Civil-War explosion that shatters the Accords debate.",
+      "abilities": [
+        "Combat expertise",
+        "Explosives",
+        "Cybernetic strength"
+      ],
+      "spoilers": "After Winter Soldier he returns in Civil War and detonates a suicide bomb that kills Wakandan workers and T’Chaka.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "taskmaster",
+      "name": "Taskmaster",
+      "alias": "Antonia Dreykov",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Black Widow",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 66,
+      "initials": "TM",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#eceff1"
+      },
+      "pattern": "grid",
+      "emblem": "shield",
+      "tagline": "Copy any move.",
+      "description": "A masked fighter who perfectly mimics others’ combat styles, controlled through Red Room cruelty.",
+      "importance": "Taskmaster personalises the Widow program’s horror — skill stolen and enslaved.",
+      "abilities": [
+        "Photographic reflexes",
+        "Weapon mastery",
+        "Shield work",
+        "Acrobatics"
+      ],
+      "spoilers": "Antonia is freed from mind control at the end of Black Widow after Natasha confronts Dreykov.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost",
+      "alias": "Ava Starr",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018,
+        "type": "Film"
+      },
+      "power": 68,
+      "initials": "GH",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#b39ddb",
+        "accent": "#e1bee7"
+      },
+      "pattern": "waves",
+      "emblem": "hex",
+      "tagline": "Phasing out of time.",
+      "description": "A quantum-unstable thief who phases through matter while her body tears itself apart.",
+      "importance": "Ghost blurs villain/victim lines in the Ant-Man family of stories.",
+      "abilities": [
+        "Intangibility",
+        "Invisibility",
+        "Quantum phasing",
+        "Espionage"
+      ],
+      "spoilers": "Hank and Hope stabilise her; she later appears among Thunderbolts-era antiheroes.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "abomination",
+      "name": "Abomination",
+      "alias": "Emil Blonsky",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "The Incredible Hulk",
+        "year": 2008,
+        "type": "Film"
+      },
+      "power": 84,
+      "initials": "AB",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#a5d6a7",
+        "accent": "#c8e6c9"
+      },
+      "pattern": "burst",
+      "emblem": "claw",
+      "tagline": "Rage, perfected.",
+      "description": "A soldier overdosed on gamma and serum until he becomes a spiked green juggernaut.",
+      "importance": "Abomination is Hulk’s classic physical rival from the MCU’s early days, later recontextualised in She-Hulk.",
+      "abilities": [
+        "Gamma strength",
+        "Durability",
+        "Leap attacks",
+        "Combat training"
+      ],
+      "spoilers": "He battles Hulk in Harlem, is imprisoned, and years later appears in She-Hulk: Attorney at Law trying a quieter life.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "wenwu",
+      "name": "Xu Wenwu",
+      "alias": "The Mandarin",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 85,
+      "initials": "XW",
+      "theme": {
+        "c1": "#b71c1c",
+        "c2": "#212121",
+        "accent": "#ffcdd2"
+      },
+      "pattern": "rings",
+      "emblem": "circle",
+      "tagline": "Ten rings. One legend.",
+      "description": "An immortal warlord wielding ten mystical rings, father to Shang-Chi, and architect of a global secret empire.",
+      "importance": "Wenwu replaces the film-Mandarin hoax with the real mythic threat behind the Ten Rings organisation.",
+      "abilities": [
+        "Ten Rings",
+        "Immortality",
+        "Martial mastery",
+        "Army command"
+      ],
+      "spoilers": "Dweller-in-Darkness manipulates him into opening Ta Lo’s gate; he dies helping Shang-Chi stop the sealed evil.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "kingpin",
+      "name": "Kingpin",
+      "alias": "Wilson Fisk",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Daredevil",
+        "year": 2015,
+        "type": "Series"
+      },
+      "power": 63,
+      "initials": "KP",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#f5f5f5",
+        "accent": "#eeeeee"
+      },
+      "pattern": "grid",
+      "emblem": "diamond",
+      "tagline": "King of New York crime.",
+      "description": "A towering crime lord who mixes high society with brutal personal violence.",
+      "importance": "Fisk anchors street-level MCU villainy across Daredevil, Hawkeye, and Echo.",
+      "abilities": [
+        "Superhuman physique",
+        "Crime empire",
+        "Intimidation",
+        "Strategy"
+      ],
+      "spoilers": "He wars with Daredevil, resurfaces in Hawkeye’s New York, and features in Echo’s story.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "punisher",
+      "name": "Punisher",
+      "alias": "Frank Castle",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Daredevil",
+        "year": 2016,
+        "type": "Series"
+      },
+      "power": 58,
+      "initials": "PJ",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#f5f5f5",
+        "accent": "#ffffff"
+      },
+      "pattern": "dots",
+      "emblem": "triangle",
+      "tagline": "One-man war.",
+      "description": "A Marine turned vigilante who wages lethal war on criminals after his family’s murder.",
+      "importance": "Punisher pulls the MCU’s street level into morally grey, R-rated territory.",
+      "abilities": [
+        "Marksmanship",
+        "Tactics",
+        "Military training",
+        "Willpower"
+      ],
+      "spoilers": "He allies uneasily with Daredevil, headlines his own season of killings, and remains a lethal urban myth.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "jessica-jones",
+      "name": "Jessica Jones",
+      "alias": "Jewel",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Jessica Jones",
+        "year": 2015,
+        "type": "Series"
+      },
+      "power": 61,
+      "initials": "JJ",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#cfd8dc"
+      },
+      "pattern": "stripes",
+      "emblem": "diamond",
+      "tagline": "Private eye. Super strength.",
+      "description": "A gifted detective with super strength, trauma, and zero patience for nonsense.",
+      "importance": "Jessica defines Defenders-era grit and the cost of mind-control villainy.",
+      "abilities": [
+        "Super strength",
+        "Durability",
+        "Investigation",
+        "Brawling"
+      ],
+      "spoilers": "She defeats Kilgrave, drinks through the fallout, and teams with the Defenders against Midland Circle threats.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "luke-cage",
+      "name": "Luke Cage",
+      "alias": "Power Man",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Luke Cage",
+        "year": 2016,
+        "type": "Series"
+      },
+      "power": 70,
+      "initials": "LC",
+      "theme": {
+        "c1": "#f9a825",
+        "c2": "#212121",
+        "accent": "#ffe082"
+      },
+      "pattern": "hex",
+      "emblem": "shield",
+      "tagline": "Bulletproof Harlem.",
+      "description": "A hero with unbreakable skin who becomes Harlem’s reluctant shield.",
+      "importance": "Luke brings community-scale heroism and hip-hop soul to the street-level MCU.",
+      "abilities": [
+        "Unbreakable skin",
+        "Super strength",
+        "Street tactics"
+      ],
+      "spoilers": "He clears his name, fights Cottonmouth and Mariah, and joins the Defenders.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "wolverine",
+      "name": "Wolverine",
+      "alias": "Logan / James Howlett",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Deadpool & Wolverine",
+        "year": 2024,
+        "type": "Film"
+      },
+      "power": 82,
+      "initials": "WV",
+      "theme": {
+        "c1": "#f9a825",
+        "c2": "#212121",
+        "accent": "#fff59d"
+      },
+      "pattern": "claw",
+      "emblem": "claw",
+      "tagline": "Healing factor. Claws.",
+      "description": "A variant of the clawed mutant with a healing factor and a short temper, pulled into a timeline-hopping mess.",
+      "importance": "Logan’s MCU debut via Deadpool widens the door to mutant stories.",
+      "abilities": [
+        "Adamantium claws",
+        "Healing factor",
+        "Feral combat",
+        "Enhanced senses"
+      ],
+      "spoilers": "Deadpool recruits a “worst” Wolverine variant to save his timeline from TVA-adjacent erasure in Deadpool & Wolverine.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "surtur",
+      "name": "Surtur",
+      "alias": "Lord of Muspelheim",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Thor: Ragnarok",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 94,
+      "initials": "SU",
+      "theme": {
+        "c1": "#bf360c",
+        "c2": "#ff6f00",
+        "accent": "#ffd180"
+      },
+      "pattern": "flame",
+      "emblem": "flame",
+      "tagline": "Ragnarok incarnate.",
+      "description": "A fire giant whose crown and Eternal Flame bring prophesied doom to Asgard.",
+      "importance": "Surtur is the literal apocalypse Thor chooses to wield against Hela.",
+      "abilities": [
+        "Fire giant stature",
+        "Twilight Sword",
+        "Lava and flame",
+        "Prophetic doom"
+      ],
+      "spoilers": "Thor steals his crown early on, then restores Surtur to full power to destroy Asgard and Hela with it.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "collector",
+      "name": "The Collector",
+      "alias": "Taneleer Tivan",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 55,
+      "initials": "TC",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#ffd54f",
+        "accent": "#ffe082"
+      },
+      "pattern": "diamonds",
+      "emblem": "hex",
+      "tagline": "He collects worlds’ wonders.",
+      "description": "An ancient Elder of the Universe obsessed with possessing unique relics and beings.",
+      "importance": "The Collector ties Infinity Stone lore together and shows how far cosmic hoarders will go.",
+      "abilities": [
+        "Vast archives",
+        "Alien tech",
+        "Knowledge",
+        "Resources"
+      ],
+      "spoilers": "His Knowhere museum is wrecked when the Power Stone flares; Thanos later attacks Knowhere for the Reality Stone era.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "grandmaster",
+      "name": "Grandmaster",
+      "alias": "En Dwi Gan",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor: Ragnarok",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 70,
+      "initials": "GM",
+      "theme": {
+        "c1": "#f57c00",
+        "c2": "#7b1fa2",
+        "accent": "#ffe082"
+      },
+      "pattern": "dots",
+      "emblem": "star",
+      "tagline": "Let the games begin.",
+      "description": "A flamboyant Elder who runs Sakaar’s Contest of Champions with crooked charm.",
+      "importance": "He turns Thor’s lowest point into a neon gladiator comedy with real stakes.",
+      "abilities": [
+        "Immortality",
+        "Sakaaran tech",
+        "Manipulation",
+        "Game craft"
+      ],
+      "spoilers": "Thor escapes his games; the Grandmaster is overthrown in a revolution led by Korg’s allies as Thor leaves Sakaar.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "korg",
+      "name": "Korg",
+      "alias": "Korg",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor: Ragnarok",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 72,
+      "initials": "KG",
+      "theme": {
+        "c1": "#5d4037",
+        "c2": "#bcaaa4",
+        "accent": "#efebe9"
+      },
+      "pattern": "hex",
+      "emblem": "shield",
+      "tagline": "Made of rocks, mate.",
+      "description": "A Kronan gladiator with a soft voice, hard fists, and excellent revolutionary timing.",
+      "importance": "Korg is the comic soul of Thor’s latter films and a surprisingly solid fighter.",
+      "abilities": [
+        "Rock body",
+        "Super strength",
+        "Revolution logistics"
+      ],
+      "spoilers": "He helps free Sakaar’s slaves, joins Thor’s circle, and survives into Love and Thunder and beyond.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "pepper-potts",
+      "name": "Pepper Potts",
+      "alias": "Rescue",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Iron Man",
+        "year": 2008,
+        "type": "Film"
+      },
+      "power": 74,
+      "initials": "PP",
+      "theme": {
+        "c1": "#b71c1c",
+        "c2": "#f5f5f5",
+        "accent": "#ffcdd2"
+      },
+      "pattern": "hex",
+      "emblem": "circle",
+      "tagline": "CEO. Partner. Rescue.",
+      "description": "Tony Stark’s partner who dons the Rescue armour when the universe’s stakes turn personal.",
+      "importance": "Pepper humanises the Stark saga and proves she can fly the fight herself.",
+      "abilities": [
+        "Rescue armour",
+        "Executive command",
+        "Flight",
+        "Repulsors"
+      ],
+      "spoilers": "She wears Rescue in Endgame’s final battle, helps defeat Thanos’s army, and mourns Tony afterward.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "happy-hogan",
+      "name": "Happy Hogan",
+      "alias": "Head of Security",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Iron Man",
+        "year": 2008,
+        "type": "Film"
+      },
+      "power": 42,
+      "initials": "HH",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#cfd8dc"
+      },
+      "pattern": "grid",
+      "emblem": "circle",
+      "tagline": "Driver. Babysitter. Hero-adjacent.",
+      "description": "Stark’s loyal head of security who keeps landing in crises — and occasionally rising to them.",
+      "importance": "Happy is the MCU’s glue of ordinary loyalty next to extraordinary people.",
+      "abilities": [
+        "Security training",
+        "Piloting",
+        "Loyalty",
+        "Occasional combat"
+      ],
+      "spoilers": "He helps raise & protect Spider-Man logistics, gets badly hurt in Far From Home, and remains Aunt May and Peter’s support.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "phil-coulson",
+      "name": "Phil Coulson",
+      "alias": "Agent Coulson",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Iron Man",
+        "year": 2008,
+        "type": "Film"
+      },
+      "power": 46,
+      "initials": "PC",
+      "theme": {
+        "c1": "#1565c0",
+        "c2": "#e3f2fd",
+        "accent": "#90caf9"
+      },
+      "pattern": "stripes",
+      "emblem": "shield",
+      "tagline": "Still a huge Cap fan.",
+      "description": "S.H.I.E.L.D.’s finest agent — polite, lethal when needed, and the heart behind early Avengers recruitment.",
+      "importance": "Coulson’s “death” forges the Avengers; his wider story expands on Agents of S.H.I.E.L.D.",
+      "abilities": [
+        "Espionage",
+        "Marksmanship",
+        "Strategy",
+        "Inspiring speech"
+      ],
+      "spoilers": "Loki kills him in The Avengers; related series material explores his return and continued service.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+    },
+    {
+      "id": "maria-hill",
+      "name": "Maria Hill",
+      "alias": "Commander Hill",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "The Avengers",
+        "year": 2012,
+        "type": "Film"
+      },
+      "power": 47,
+      "initials": "MH",
+      "theme": {
+        "c1": "#263238",
+        "c2": "#90a4ae",
+        "accent": "#eceff1"
+      },
+      "pattern": "grid",
+      "emblem": "triangle",
+      "tagline": "S.H.I.E.L.D. pragmatist.",
+      "description": "A sharp S.H.I.E.L.D. commander who keeps operations running when gods and monsters hit the news cycle.",
+      "importance": "Hill is the professional spine beside Fury across multiple Avengers crises.",
+      "abilities": [
+        "Command",
+        "Firearms",
+        "Tactics",
+        "Intel"
+      ],
+      "spoilers": "She helps expose Hydra, coordinates Endgame-era efforts, and later falls in Secret Invasion.",
+      "spoilersMore": "",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
     }
-  ]
+  ],
+  "ratingsAsOf": "2026-10-14",
+  "ratingsNote": "Rechecked against MCU feats: cosmic entities and chaos-magic at the top; Mark 85 / Ten Rings / Stormbreaker bumps for tech and weapon peaks; street-level heroes clustered 45–60. Stronger fighters usually win; upsets remain possible."
 }

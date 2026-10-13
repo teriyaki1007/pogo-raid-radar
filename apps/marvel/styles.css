@@ -244,3 +244,47 @@ footer p{margin:.2rem 0}
 footer a{color:#9fc4ff}
 .intro a{color:#9fc4ff}
 @media (max-width:640px){.b-art{width:64px;height:64px}.credits-list{grid-template-columns:1fr}}
+
+/* ---- Party Battle ---- */
+.party-setup{display:grid;gap:.9rem;margin:1rem 0;padding:1rem;background:var(--card);border:1px solid var(--border);border-radius:16px}
+.party-name,.party-join{display:flex;flex-direction:column;gap:.35rem;font-size:.85rem;color:var(--muted)}
+.party-name input,.party-join input,.code-input{padding:.7rem .85rem;border-radius:12px;border:1px solid var(--border);background:var(--bg2);color:var(--text);font-size:1rem}
+.code-input{letter-spacing:.2em;text-transform:uppercase;font-weight:800;max-width:9rem}
+.party-actions{display:flex;flex-wrap:wrap;gap:.6rem;align-items:flex-end}
+.party-or{color:var(--muted);font-size:.85rem;padding-bottom:.6rem}
+.party-status{margin:0;min-height:1.2em}
+.party-room{margin-top:1rem}
+.party-code-banner{display:flex;flex-wrap:wrap;gap:.75rem;align-items:center;padding:1rem;border-radius:16px;background:linear-gradient(135deg,rgba(226,54,54,.2),rgba(74,168,255,.12));border:1px solid var(--border);margin-bottom:1rem}
+.code-big{margin:0;font:400 2.4rem/1 var(--display);letter-spacing:.18em;color:var(--gold)}
+.party-players{list-style:none;margin:0 0 1rem;padding:0;display:grid;gap:.5rem}
+.party-players li{display:flex;align-items:center;gap:.75rem;padding:.65rem .8rem;background:var(--card);border:1px solid var(--border);border-radius:12px}
+.party-players .p-art{width:48px;height:48px;border-radius:10px;overflow:hidden;flex:none;background:var(--bg2)}
+.party-players .p-art .photo,.party-players .p-art .portrait{width:100%;height:100%;object-fit:cover}
+.party-players .p-meta{flex:1;min-width:0}
+.party-players .p-meta strong{display:block;font-size:.95rem}
+.party-players .p-meta span{font-size:.78rem;color:var(--muted)}
+.party-players .pill-ready{margin-left:auto;font-size:.65rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:.2rem .5rem;border-radius:999px;background:rgba(245,197,66,.15);color:var(--gold);border:1px solid rgba(245,197,66,.4)}
+.party-players .pill-ready.on{background:rgba(46,160,80,.2);color:#8dffb0;border-color:#2ea050}
+.party-pick-row{margin:.5rem 0 1rem}
+.party-pick-row label{display:block;font-size:.85rem;color:var(--muted);margin-bottom:.35rem}
+.party-fighters{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:.75rem;margin:1rem 0}
+.pf{background:var(--card);border:1px solid var(--border);border-radius:14px;padding:.6rem;text-align:center;transition:border-color .2s,box-shadow .2s}
+.pf.turn{border-color:var(--gold);box-shadow:0 0 0 1px var(--gold),0 8px 24px rgba(245,197,66,.2)}
+.pf.dead{opacity:.45;filter:grayscale(.6)}
+.pf .pf-art{width:100%;aspect-ratio:1;border-radius:10px;overflow:hidden;margin-bottom:.4rem}
+.pf .pf-art .photo,.pf .pf-art .portrait{width:100%;height:100%;object-fit:cover}
+.pf .pf-name{font:400 1.05rem/1.1 var(--display);letter-spacing:.04em;text-transform:uppercase}
+.pf .pf-player{font-size:.72rem;color:var(--muted)}
+.pf .hp{margin-top:.45rem}
+.party-turn{font:400 1.3rem/1.2 var(--display);letter-spacing:.05em;text-transform:uppercase;color:var(--gold);margin:.2rem 0}
+.party-targets,.party-abilities{display:flex;flex-wrap:wrap;gap:.45rem;margin:.4rem 0 .7rem}
+.party-targets button,.party-abilities button{border:1px solid var(--border);background:var(--card);color:var(--text);padding:.5rem .8rem;border-radius:999px;font:600 .85rem system-ui;cursor:pointer}
+.party-targets button[aria-pressed=true],.party-abilities button:active{background:var(--red);border-color:var(--red);color:#fff}
+.party-targets button[aria-pressed=true]{background:var(--blue);border-color:var(--blue)}
+.party-log{margin:1rem 0;padding:0 0 0 1.1rem;color:var(--muted);font-size:.88rem;max-height:180px;overflow:auto}
+.party-log li{margin:.25rem 0}
+.party-moves{padding:1rem;background:var(--card);border:1px solid var(--border);border-radius:14px}
+@media (max-width:640px){
+  .code-big{font-size:1.8rem}
+  .tabs button{padding:.45rem .65rem;font-size:.8rem}
+}

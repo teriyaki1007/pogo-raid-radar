@@ -1,0 +1,461 @@
+/* Party-code multiplayer (PeerJS). Host-authoritative turn-based battles. No API key. */
+(function (root) {
+  'use strict';
+  var B = root.MarvelBattle;
+  var CODE_ALPH = '23456789ABCDEFGHJKLMNPQRSTUVWXYZ';
+  var PEER_PREFIX = 'mhv1';
+
+  function genCode() {
+    var s = '';
+    for (var i = 0; i < 4; i++) s += CODE_ALPH[Math.floor(Math.random() * CODE_ALPH.length)];
+    return s;
+  }
+  function peerIdFor(code) { return PEER_PREFIX + String(code || '').toUpperCase(); }
+  function normalizeCode(c) { return String(c || '').toUpperCase().replace(/[^A-Z0-9]/g, '').slice(0, 6); }
+
+  function uid() {
+    return 'p' + Math.random().toString(36).slice(2, 10);
+  }
+
+  /**
+   * Create a PartySession.
+   * opts: {
+   *   byId: {charId: character},
+   *   onState: function(state),
+   *   onLog: function(msg),
+   *   onError: function(err),
+   *   playerName: string
+   * }
+   */
+  function PartySession(opts) {
+    this.byId = opts.byId || {};
+    this.onState = opts.onState || function () {};
+    this.onLog = opts.onLog || function () {};
+    this.onError = opts.onError || function () {};
+    this.playerName = (opts.playerName || 'Player').slice(0, 18);
+    this.localId = uid();
+    this.isHost = false;
+    this.code = '';
+    this.peer = null;
+    this.conns = {}; // peerId -> DataConnection (host only)
+    this.hostConn = null; // guest -> host
+    this.state = null;
+  }
+
+  PartySession.prototype._emit = function () {
+    this.onState(this.state && JSON.parse(JSON.stringify(this.state)));
+  };
+
+  PartySession.prototype._log = function (m) { this.onLog(m); };
+
+  PartySession.prototype._emptyLobby = function (code) {
+    return {
+      phase: 'lobby', // lobby | fighting | done
+      code: code,
+      hostId: this.localId,
+      players: [{
+        id: this.localId,
+        name: this.playerName,
+        charId: null,
+        ready: false,
+        hp: 100,
+        connected: true
+      }],
+      turnOrder: [],
+      turnIndex: 0,
+      log: [],
+      winnerId: null,
+      lastAction: null
+    };
+  };
+
+  PartySession.prototype._mkPeer = function (id, cb) {
+    if (typeof root.Peer !== 'function') {
+      cb(new Error('PeerJS failed to load. Check your network.'));
+      return;
+    }
+    var peer = id ? new root.Peer(id, { debug: 0 }) : new root.Peer({ debug: 0 });
+    var done = false;
+    var t = setTimeout(function () {
+      if (done) return;
+      done = true;
+      try { peer.destroy(); } catch (e) {}
+      cb(new Error('Could not reach the free PeerJS lobby server. Try again in a moment.'));
+    }, 12000);
+    peer.on('open', function (openId) {
+      if (done) return;
+      done = true;
+      clearTimeout(t);
+      cb(null, peer, openId);
+    });
+    peer.on('error', function (err) {
+      if (done) return;
+      done = true;
+      clearTimeout(t);
+      cb(err);
+    });
+  };
+
+  PartySession.prototype.host = function (cb) {
+    var self = this;
+    var attempts = 0;
+    function tryOnce() {
+      attempts++;
+      var code = genCode();
+      var pid = peerIdFor(code);
+      self._mkPeer(pid, function (err, peer) {
+        if (err) {
+          if (attempts < 5 && /taken|unavailable|Error/i.test(String(err.type || err.message || err))) {
+            tryOnce();
+            return;
+          }
+          self.onError(err);
+          if (cb) cb(err);
+          return;
+        }
+        self.isHost = true;
+        self.code = code;
+        self.peer = peer;
+        self.state = self._emptyLobby(code);
+        self._bindHost(peer);
+        self._log('Room created. Share code ' + code);
+        self._emit();
+        if (cb) cb(null, code);
+      });
+    }
+    tryOnce();
+  };
+
+  PartySession.prototype._bindHost = function (peer) {
+    var self = this;
+    peer.on('connection', function (conn) {
+      conn.on('open', function () {
+        self.conns[conn.peer] = conn;
+        self._wireConn(conn);
+        self._send(conn, { type: 'hello', youMayJoin: true });
+      });
+      conn.on('close', function () { self._onGuestGone(conn.peer); });
+      conn.on('error', function () { self._onGuestGone(conn.peer); });
+    });
+    peer.on('error', function (err) { self.onError(err); });
+  };
+
+  PartySession.prototype._onGuestGone = function (peerKey) {
+    delete this.conns[peerKey];
+    if (!this.state) return;
+    // Mark matching player disconnected if we stored peer map — guests send player id on join
+    var changed = false;
+    (this.state.players || []).forEach(function (p) {
+      if (p._peer === peerKey) { p.connected = false; changed = true; }
+    });
+    if (changed) {
+      this._log('A player disconnected.');
+      this._broadcastState();
+    }
+  };
+
+  PartySession.prototype.join = function (code, cb) {
+    var self = this;
+    code = normalizeCode(code);
+    if (code.length < 4) {
+      var e = new Error('Enter the 4-character party code.');
+      self.onError(e);
+      if (cb) cb(e);
+      return;
+    }
+    self._mkPeer(null, function (err, peer) {
+      if (err) { self.onError(err); if (cb) cb(err); return; }
+      self.isHost = false;
+      self.code = code;
+      self.peer = peer;
+      var conn = peer.connect(peerIdFor(code), { reliable: true });
+      var opened = false;
+      var timer = setTimeout(function () {
+        if (opened) return;
+        self.onError(new Error('No room found for code ' + code + '. Check the code or ask the host to create again.'));
+        if (cb) cb(new Error('timeout'));
+      }, 10000);
+      conn.on('open', function () {
+        opened = true;
+        clearTimeout(timer);
+        self.hostConn = conn;
+        self._wireConn(conn);
+        self._send(conn, {
+          type: 'join',
+          player: { id: self.localId, name: self.playerName }
+        });
+        self._log('Joined room ' + code);
+        if (cb) cb(null, code);
+      });
+      conn.on('error', function (err) { self.onError(err); });
+      conn.on('close', function () {
+        self._log('Disconnected from host.');
+        if (self.state) { self.state.phase = 'disconnected'; self._emit(); }
+      });
+      peer.on('error', function (err) { self.onError(err); });
+    });
+  };
+
+  PartySession.prototype._wireConn = function (conn) {
+    var self = this;
+    conn.on('data', function (msg) {
+      try { self._onMsg(msg, conn); } catch (e) { self.onError(e); }
+    });
+  };
+
+  PartySession.prototype._send = function (conn, msg) {
+    if (conn && conn.open) conn.send(msg);
+  };
+
+  PartySession.prototype._broadcast = function (msg, exceptPeer) {
+    var self = this;
+    Object.keys(self.conns).forEach(function (k) {
+      if (k === exceptPeer) return;
+      self._send(self.conns[k], msg);
+    });
+  };
+
+  PartySession.prototype._broadcastState = function () {
+    this._emit();
+    this._broadcast({ type: 'state', state: this.state });
+  };
+
+  PartySession.prototype._onMsg = function (msg, conn) {
+    if (!msg || !msg.type) return;
+    if (this.isHost) this._hostHandle(msg, conn);
+    else this._guestHandle(msg);
+  };
+
+  PartySession.prototype._hostHandle = function (msg, conn) {
+    var st = this.state;
+    if (!st) return;
+    if (msg.type === 'join') {
+      if (st.phase !== 'lobby') {
+        this._send(conn, { type: 'err', message: 'Battle already started.' });
+        return;
+      }
+      if (st.players.length >= 6) {
+        this._send(conn, { type: 'err', message: 'Room is full (max 6).' });
+        return;
+      }
+      var p = msg.player;
+      if (!p || !p.id) return;
+      if (st.players.some(function (x) { return x.id === p.id; })) {
+        this._broadcastState();
+        return;
+      }
+      st.players.push({
+        id: p.id,
+        name: String(p.name || 'Player').slice(0, 18),
+        charId: null,
+        ready: false,
+        hp: 100,
+        connected: true,
+        _peer: conn.peer
+      });
+      this._log((p.name || 'Player') + ' joined.');
+      this._broadcastState();
+      return;
+    }
+    if (msg.type === 'pick') {
+      this._setPick(msg.playerId, msg.charId);
+      return;
+    }
+    if (msg.type === 'ready') {
+      this._setReady(msg.playerId, !!msg.ready);
+      return;
+    }
+    if (msg.type === 'start') {
+      if (msg.playerId === st.hostId) this.startBattle();
+      return;
+    }
+    if (msg.type === 'move') {
+      this._applyMove(msg.playerId, msg.ability, msg.targetId);
+      return;
+    }
+    if (msg.type === 'rematch') {
+      if (msg.playerId === st.hostId) this.rematch();
+    }
+  };
+
+  PartySession.prototype._guestHandle = function (msg) {
+    if (msg.type === 'state') {
+      this.state = msg.state;
+      this._emit();
+      return;
+    }
+    if (msg.type === 'err') {
+      this.onError(new Error(msg.message || 'Host error'));
+    }
+  };
+
+  PartySession.prototype._player = function (id) {
+    if (!this.state) return null;
+    for (var i = 0; i < this.state.players.length; i++) {
+      if (this.state.players[i].id === id) return this.state.players[i];
+    }
+    return null;
+  };
+
+  PartySession.prototype.pickCharacter = function (charId) {
+    if (this.isHost) this._setPick(this.localId, charId);
+    else if (this.hostConn) this._send(this.hostConn, { type: 'pick', playerId: this.localId, charId: charId });
+  };
+
+  PartySession.prototype.setReady = function (ready) {
+    if (this.isHost) this._setReady(this.localId, ready);
+    else if (this.hostConn) this._send(this.hostConn, { type: 'ready', playerId: this.localId, ready: !!ready });
+  };
+
+  PartySession.prototype._setPick = function (playerId, charId) {
+    if (!this.isHost || !this.state || this.state.phase !== 'lobby') return;
+    if (!this.byId[charId]) return;
+    var p = this._player(playerId);
+    if (!p) return;
+    p.charId = charId;
+    p.ready = false;
+    this._broadcastState();
+  };
+
+  PartySession.prototype._setReady = function (playerId, ready) {
+    if (!this.isHost || !this.state || this.state.phase !== 'lobby') return;
+    var p = this._player(playerId);
+    if (!p || !p.charId) return;
+    p.ready = !!ready;
+    this._broadcastState();
+  };
+
+  PartySession.prototype.requestStart = function () {
+    if (this.isHost) this.startBattle();
+    else if (this.hostConn) this._send(this.hostConn, { type: 'start', playerId: this.localId });
+  };
+
+  PartySession.prototype.startBattle = function () {
+    if (!this.isHost || !this.state || this.state.phase !== 'lobby') return;
+    var ready = this.state.players.filter(function (p) { return p.ready && p.charId && p.connected !== false; });
+    if (ready.length < 2) {
+      this._log('Need at least 2 ready players to start.');
+      return;
+    }
+    // Drop unready from this fight
+    this.state.players = ready.map(function (p) {
+      return { id: p.id, name: p.name, charId: p.charId, ready: true, hp: 100, connected: true, _peer: p._peer };
+    });
+    var self = this;
+    var order = B.initiativeOrder(this.state.players.map(function (p) {
+      var c = self.byId[p.charId];
+      return { id: p.id, power: c ? c.power : 50 };
+    }));
+    this.state.turnOrder = order;
+    this.state.turnIndex = 0;
+    this.state.phase = 'fighting';
+    this.state.winnerId = null;
+    this.state.log = ['Battle start! Initiative set.'];
+    this.state.lastAction = null;
+    this._log('Battle started.');
+    this._broadcastState();
+  };
+
+  PartySession.prototype.currentTurnId = function () {
+    if (!this.state || this.state.phase !== 'fighting') return null;
+    return this.state.turnOrder[this.state.turnIndex % this.state.turnOrder.length] || null;
+  };
+
+  PartySession.prototype.alivePlayers = function () {
+    if (!this.state) return [];
+    return this.state.players.filter(function (p) { return p.hp > 0; });
+  };
+
+  PartySession.prototype.submitMove = function (ability, targetId) {
+    if (this.isHost) this._applyMove(this.localId, ability, targetId);
+    else if (this.hostConn) {
+      this._send(this.hostConn, { type: 'move', playerId: this.localId, ability: ability, targetId: targetId });
+    }
+  };
+
+  PartySession.prototype._applyMove = function (playerId, ability, targetId) {
+    if (!this.isHost || !this.state || this.state.phase !== 'fighting') return;
+    if (this.currentTurnId() !== playerId) return;
+    var atkP = this._player(playerId);
+    if (!atkP || atkP.hp <= 0) return;
+    var atkC = this.byId[atkP.charId];
+    if (!atkC) return;
+
+    var alive = this.alivePlayers().filter(function (p) { return p.id !== playerId; });
+    if (!alive.length) return;
+    var defP = null;
+    if (targetId) defP = this._player(targetId);
+    if (!defP || defP.hp <= 0 || defP.id === playerId) defP = alive[0];
+    var defC = this.byId[defP.charId];
+    if (!defC) return;
+
+    var abs = atkC.abilities && atkC.abilities.length ? atkC.abilities : ['a fierce strike'];
+    var ab = ability && abs.indexOf(ability) >= 0 ? ability : abs[Math.floor(Math.random() * abs.length)];
+    var hit = B.turnDamage(atkC.power, defC.power);
+    defP.hp = Math.max(0, defP.hp - hit.damage);
+    var line = atkC.name + ' uses ' + ab + ' on ' + defC.name + ' for ' + hit.damage + (hit.crit ? ' CRIT!' : '') +
+      (defP.hp <= 0 ? ' — K.O.!' : ' (' + defP.hp + ' HP left)');
+    this.state.log = (this.state.log || []).concat([line]).slice(-12);
+    this.state.lastAction = {
+      atkId: playerId, defId: defP.id, ability: ab, damage: hit.damage, crit: hit.crit, defHp: defP.hp
+    };
+
+    var still = this.alivePlayers();
+    if (still.length <= 1) {
+      this.state.phase = 'done';
+      this.state.winnerId = still.length ? still[0].id : playerId;
+      var w = this._player(this.state.winnerId);
+      var wc = w && this.byId[w.charId];
+      this.state.log.push((wc ? wc.name : 'Someone') + ' wins the party battle!');
+      this._broadcastState();
+      return;
+    }
+
+    // advance turn to next alive
+    var n = this.state.turnOrder.length;
+    for (var i = 0; i < n; i++) {
+      this.state.turnIndex = (this.state.turnIndex + 1) % n;
+      var nid = this.currentTurnId();
+      var np = this._player(nid);
+      if (np && np.hp > 0) break;
+    }
+    this._broadcastState();
+  };
+
+  PartySession.prototype.rematch = function () {
+    if (!this.isHost || !this.state) return;
+    var self = this;
+    this.state.phase = 'lobby';
+    this.state.turnOrder = [];
+    this.state.turnIndex = 0;
+    this.state.winnerId = null;
+    this.state.lastAction = null;
+    this.state.log = [];
+    this.state.players.forEach(function (p) {
+      p.hp = 100;
+      p.ready = false;
+      // keep charId for convenience
+    });
+    this._log('Rematch — pick & ready up again.');
+    this._broadcastState();
+  };
+
+  PartySession.prototype.requestRematch = function () {
+    if (this.isHost) this.rematch();
+    else if (this.hostConn) this._send(this.hostConn, { type: 'rematch', playerId: this.localId });
+  };
+
+  PartySession.prototype.destroy = function () {
+    try {
+      Object.keys(this.conns).forEach(function (k) { try { this.conns[k].close(); } catch (e) {} }.bind(this));
+      if (this.hostConn) try { this.hostConn.close(); } catch (e) {}
+      if (this.peer) try { this.peer.destroy(); } catch (e) {}
+    } catch (e) {}
+    this.conns = {};
+    this.hostConn = null;
+    this.peer = null;
+    this.state = null;
+  };
+
+  root.MarvelParty = { PartySession: PartySession, genCode: genCode, normalizeCode: normalizeCode };
+})(typeof self !== 'undefined' ? self : this);

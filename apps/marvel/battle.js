@@ -108,5 +108,38 @@
     return { winner: winnerSide, loser: winnerSide === 'A' ? 'B' : 'A', pWinner: pW, winnerFinalHp: left, hits: hits };
   }
 
-  return { winChance: winChance, drawWinner: drawWinner, planFight: planFight, splitInt: splitInt };
+  // --- Turn-based multiplayer helpers (host-authoritative) ---
+  // Damage weighted by MCU power: stronger attackers hit harder; stronger defenders take less.
+  function turnDamage(atkPower, defPower, rng) {
+    rng = rng || Math.random;
+    var atk = Math.max(1, +atkPower || 1);
+    var def = Math.max(1, +defPower || 1);
+    var ratio = atk / (atk + def * 0.55);
+    var base = 10 + atk * 0.14;
+    var roll = 0.72 + rng() * 0.56;
+    var dmg = Math.round(base * ratio * roll);
+    var critChance = 0.08 + Math.max(0, (atk - def) / 400);
+    var crit = rng() < critChance;
+    if (crit) dmg = Math.round(dmg * 1.55);
+    dmg = Math.max(4, Math.min(38, dmg));
+    return { damage: dmg, crit: crit };
+  }
+
+  function initiativeOrder(players, rng) {
+    rng = rng || Math.random;
+    // players: [{id, power}]
+    return players
+      .map(function (p) { return { id: p.id, score: (+p.power || 0) + rng() * 25 }; })
+      .sort(function (a, b) { return b.score - a.score; })
+      .map(function (x) { return x.id; });
+  }
+
+  return {
+    winChance: winChance,
+    drawWinner: drawWinner,
+    planFight: planFight,
+    splitInt: splitInt,
+    turnDamage: turnDamage,
+    initiativeOrder: initiativeOrder
+  };
 });

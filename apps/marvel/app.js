@@ -253,18 +253,24 @@
 
   /* ---------- tabs ---------- */
   function showTab(name, focus) {
-    ['gallery', 'arena', 'credits'].forEach(function (n) {
-      var on = n === name;
-      $('#panel-' + n).hidden = !on;
+    ['gallery', 'arena', 'party', 'credits'].forEach(function (n) {
+      var panel = $('#panel-' + n); if (panel) panel.hidden = n !== name;
       var t = $('#tab-' + n);
-      if (t) { t.setAttribute('aria-selected', on); t.tabIndex = on ? 0 : -1; }
+      if (t) { t.setAttribute('aria-selected', n === name); t.tabIndex = n === name ? 0 : -1; }
     });
     if (name === 'credits') {
-      ['gallery', 'arena'].forEach(function (n) { var t = $('#tab-' + n); t.setAttribute('aria-selected', 'false'); t.tabIndex = n === 'gallery' ? 0 : -1; });
+      ['gallery', 'arena', 'party'].forEach(function (n) {
+        var t = $('#tab-' + n); if (!t) return;
+        t.setAttribute('aria-selected', 'false'); t.tabIndex = n === 'gallery' ? 0 : -1;
+      });
       renderCredits();
     }
-    if (history.replaceState) history.replaceState(null, '', name === 'arena' ? '#arena' : name === 'credits' ? '#credits' : location.pathname + location.search);
+    if (history.replaceState) {
+      var hash = name === 'arena' ? '#arena' : name === 'credits' ? '#credits' : name === 'party' ? '#party' : location.pathname + location.search;
+      history.replaceState(null, '', hash);
+    }
     if (name === 'arena') { updateOdds(); renderFighters(); }
+    if (name === 'party') { renderParty(); }
     if (focus) window.scrollTo({ top: 0, behavior: reduce.matches ? 'auto' : 'smooth' });
   }
   function renderCredits() {
@@ -485,6 +491,205 @@
     });
   }
 
+
+  /* ---------- party battle (PeerJS) ---------- */
+  var party = null;
+  var partyTargetId = null;
+  var partyReadyOn = false;
+
+  function partyNameVal() {
+    var n = ($('#partyName') && $('#partyName').value || '').trim();
+    return n || 'Player';
+  }
+  function fillPartySelect() {
+    var el = $('#partyChar'); if (!el) return;
+    var opts = chars.slice().sort(function (a, b) { return a.name.localeCompare(b.name); })
+      .map(function (c) { return '<option value="' + c.id + '">' + esc(c.name) + ' (' + c.power + ')</option>'; }).join('');
+    el.innerHTML = '<option value="">Choose…</option>' + opts;
+  }
+  function ensureParty(cb) {
+    if (typeof window.Peer !== 'function') {
+      $('#partyStatus').textContent = 'Loading multiplayer library…';
+      var s = document.createElement('script');
+      s.src = 'https://unpkg.com/peerjs@1.5.4/dist/peerjs.min.js';
+      s.onload = function () { cb(); };
+      s.onerror = function () {
+        $('#partyStatus').textContent = 'Could not load PeerJS. Check your network and retry.';
+      };
+      document.head.appendChild(s);
+      return;
+    }
+    cb();
+  }
+  function makeSession() {
+    if (party) { try { party.destroy(); } catch (e) {} party = null; }
+    party = new window.MarvelParty.PartySession({
+      byId: byId,
+      playerName: partyNameVal(),
+      onState: function () { renderParty(); },
+      onLog: function (m) { $('#partyStatus').textContent = m; },
+      onError: function (err) {
+        $('#partyStatus').textContent = (err && err.message) ? err.message : String(err);
+      }
+    });
+    return party;
+  }
+  function renderParty() {
+    var setup = $('#partySetup'), room = $('#partyRoom');
+    if (!setup) return;
+    if (!party || !party.state) {
+      setup.hidden = false; room.hidden = true;
+      return;
+    }
+    setup.hidden = true; room.hidden = false;
+    var st = party.state;
+    $('#partyCodeOut').textContent = st.code || party.code || '----';
+    var isHost = party.isHost;
+    $('#partyStart').hidden = !isHost || st.phase !== 'lobby';
+    $('#partyRematch').hidden = !(isHost && st.phase === 'done');
+    $('#partyLobby').hidden = st.phase !== 'lobby';
+    $('#partyFight').hidden = st.phase === 'lobby';
+
+    if (st.phase === 'lobby') {
+      $('#partyPlayers').innerHTML = st.players.map(function (p) {
+        var c = p.charId && byId[p.charId];
+        var you = p.id === party.localId;
+        return '<li>' +
+          '<span class="p-art">' + (c ? art(c) : '<span class="muted">?</span>') + '</span>' +
+          '<span class="p-meta"><strong>' + esc(p.name) + (you ? ' (you)' : '') + (p.id === st.hostId ? ' · host' : '') + '</strong>' +
+          '<span>' + (c ? esc(c.name) + ' · ' + c.power : 'picking…') + '</span></span>' +
+          '<span class="pill-ready' + (p.ready ? ' on' : '') + '">' + (p.ready ? 'Ready' : 'Wait') + '</span></li>';
+      }).join('');
+      var me = st.players.filter(function (p) { return p.id === party.localId; })[0];
+      if (me && me.charId) $('#partyChar').value = me.charId;
+      partyReadyOn = !!(me && me.ready);
+      $('#partyReady').textContent = partyReadyOn ? 'Unready' : 'Ready';
+      $('#partyReady').disabled = !(me && me.charId);
+    }
+
+    if (st.phase === 'fighting' || st.phase === 'done') {
+      var turnId = party.currentTurnId && party.currentTurnId();
+      var turnP = turnId && st.players.filter(function (p) { return p.id === turnId; })[0];
+      var turnC = turnP && byId[turnP.charId];
+      if (st.phase === 'done') {
+        var w = st.players.filter(function (p) { return p.id === st.winnerId; })[0];
+        var wc = w && byId[w.charId];
+        $('#partyTurn').textContent = wc ? (wc.name + ' wins!') : 'Battle over';
+      } else {
+        $('#partyTurn').textContent = turnC ? ('Turn: ' + turnC.name + (turnP.id === party.localId ? ' — your move!' : ' (' + turnP.name + ')')) : 'Fight!';
+      }
+      $('#partyFighters').innerHTML = st.players.map(function (p) {
+        var c = byId[p.charId]; if (!c) return '';
+        var dead = p.hp <= 0;
+        return '<div class="pf' + (p.id === turnId && st.phase === 'fighting' ? ' turn' : '') + (dead ? ' dead' : '') + '" style="--a:' + c.theme.accent + '">' +
+          '<div class="pf-art">' + art(c) + '</div>' +
+          '<div class="pf-name">' + esc(c.name) + '</div>' +
+          '<div class="pf-player">' + esc(p.name) + '</div>' +
+          '<div class="hp" role="progressbar" aria-valuenow="' + p.hp + '" aria-valuemin="0" aria-valuemax="100"><i style="width:' + p.hp + '%"></i><span>' + p.hp + '</span></div></div>';
+      }).join('');
+      $('#partyLog').innerHTML = (st.log || []).map(function (l) { return '<li>' + esc(l) + '</li>'; }).join('');
+
+      var myTurn = st.phase === 'fighting' && turnId === party.localId;
+      $('#partyMoves').hidden = !myTurn;
+      if (myTurn) {
+        var me2 = st.players.filter(function (p) { return p.id === party.localId; })[0];
+        var mc = me2 && byId[me2.charId];
+        var foes = st.players.filter(function (p) { return p.id !== party.localId && p.hp > 0; });
+        $('#partyTargetLbl').hidden = foes.length <= 1;
+        if (!partyTargetId || !foes.some(function (f) { return f.id === partyTargetId; })) {
+          partyTargetId = foes[0] ? foes[0].id : null;
+        }
+        $('#partyTargets').innerHTML = foes.length <= 1 ? '' : foes.map(function (f) {
+          var fc = byId[f.charId];
+          return '<button type="button" data-target="' + f.id + '" aria-pressed="' + (f.id === partyTargetId) + '">' + esc(fc ? fc.name : f.name) + '</button>';
+        }).join('');
+        $('#partyAbilities').innerHTML = (mc && mc.abilities ? mc.abilities : ['Strike']).map(function (a) {
+          return '<button type="button" data-ability="' + esc(a) + '">' + esc(a) + '</button>';
+        }).join('');
+      }
+    }
+  }
+
+  function bindParty() {
+    fillPartySelect();
+    try {
+      var saved = localStorage.getItem('marvel.partyName');
+      if (saved && $('#partyName')) $('#partyName').value = saved;
+    } catch (e) {}
+    $('#partyName').addEventListener('change', function () {
+      try { localStorage.setItem('marvel.partyName', partyNameVal()); } catch (e) {}
+    });
+    $('#partyHost').addEventListener('click', function () {
+      ensureParty(function () {
+        $('#partyStatus').textContent = 'Creating room…';
+        makeSession().host(function (err, code) {
+          if (err) return;
+          $('#partyStatus').textContent = 'Room ready — share code ' + code;
+          renderParty();
+        });
+      });
+    });
+    $('#partyJoin').addEventListener('click', function () {
+      ensureParty(function () {
+        var code = window.MarvelParty.normalizeCode($('#partyCodeIn').value);
+        $('#partyStatus').textContent = 'Joining ' + code + '…';
+        makeSession().join(code, function (err) {
+          if (err) return;
+          renderParty();
+        });
+      });
+    });
+    $('#partyCopy').addEventListener('click', function () {
+      var c = $('#partyCodeOut').textContent;
+      if (navigator.clipboard && c) navigator.clipboard.writeText(c).then(function () {
+        $('#partyStatus').textContent = 'Copied ' + c;
+      }).catch(function () { $('#partyStatus').textContent = 'Code: ' + c; });
+    });
+    $('#partyLeave').addEventListener('click', function () {
+      if (party) { try { party.destroy(); } catch (e) {} party = null; }
+      partyReadyOn = false; partyTargetId = null;
+      $('#partyStatus').textContent = 'Left the room.';
+      renderParty();
+      $('#partySetup').hidden = false; $('#partyRoom').hidden = true;
+    });
+    $('#partyChar').addEventListener('change', function () {
+      if (!party) return;
+      var id = $('#partyChar').value;
+      if (id) party.pickCharacter(id);
+    });
+    $('#partyBrowse').addEventListener('click', function () {
+      var html = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">Pick your fighter</h3><p class="alias">Party battle roster</p></div>' +
+        '<button type="button" class="x" data-close data-autofocus aria-label="Close (Esc)">&times;</button></div>' +
+        '<div class="dlg-body"><div class="pick-grid">' + chars.slice().sort(function (a, b) { return a.name.localeCompare(b.name); }).map(function (c) {
+          return '<button type="button" class="mini-card" data-id="' + c.id + '" style="--a:' + c.theme.accent + '">' + art(c) + '<span>' + esc(c.name) + '</span></button>';
+        }).join('') + '</div></div>';
+      openDialog(html, document.activeElement);
+      $('.pick-grid', dialog).addEventListener('click', function (e) {
+        var b = e.target.closest('.mini-card'); if (!b) return;
+        $('#partyChar').value = b.dataset.id;
+        if (party) party.pickCharacter(b.dataset.id);
+        closeDialog();
+      });
+    });
+    $('#partyReady').addEventListener('click', function () {
+      if (!party) return;
+      partyReadyOn = !partyReadyOn;
+      party.setReady(partyReadyOn);
+    });
+    $('#partyStart').addEventListener('click', function () { if (party) party.requestStart(); });
+    $('#partyRematch').addEventListener('click', function () { if (party) party.requestRematch(); });
+    $('#partyTargets').addEventListener('click', function (e) {
+      var b = e.target.closest('[data-target]'); if (!b) return;
+      partyTargetId = b.dataset.target;
+      $$('#partyTargets [data-target]').forEach(function (x) { x.setAttribute('aria-pressed', x === b); });
+    });
+    $('#partyAbilities').addEventListener('click', function (e) {
+      var b = e.target.closest('[data-ability]'); if (!b || !party) return;
+      party.submitMove(b.dataset.ability, partyTargetId);
+    });
+  }
+
+
   /* ---------- confetti (canvas, no deps) ---------- */
   var cv = $('#confetti'), cx = cv.getContext('2d'), parts = [], raf = 0;
   function sizeCv() { cv.width = window.innerWidth; cv.height = window.innerHeight; }
@@ -519,10 +724,13 @@
     return r.json();
   }).then(function (d) {
     chars = d.characters; chars.forEach(function (c) { byId[c.id] = c; });
-    buildControls(); bindTabs(); fillSelects(); bindArena(); renderGrid();
+    buildControls(); bindTabs(); fillSelects(); bindArena(); bindParty(); renderGrid();
     $('#champ').textContent = byId[sel.A].name;
     syncSpoilChecks();
-    if (location.hash === '#credits') showTab('credits'); else if (location.hash === '#arena') showTab('arena'); else { updateOdds(); renderFighters(); }
+    if (location.hash === '#credits') showTab('credits');
+    else if (location.hash === '#arena') showTab('arena');
+    else if (location.hash === '#party') showTab('party');
+    else { updateOdds(); renderFighters(); }
   }).catch(function (err) {
     $('#grid').innerHTML = '<p class="empty">Could not load character data (' + esc(err.message) + '). Serve this page over http(s), not file://.</p>';
   });
