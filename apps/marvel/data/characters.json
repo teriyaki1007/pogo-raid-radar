@@ -2009,7 +2009,7 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/shuri.jpg"
     },
     {
       "id": "okoye",
@@ -2043,7 +2043,7 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/okoye.jpg"
     },
     {
       "id": "m-baku",
@@ -2077,7 +2077,7 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/m-baku.jpg"
     },
     {
       "id": "valkyrie",
@@ -2111,7 +2111,7 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/valkyrie.jpg"
     },
     {
       "id": "jane-foster",
@@ -2146,7 +2146,7 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "epic",
-      "costumeArt": null
+      "costumeArt": "img/costume/jane-foster.jpg"
     },
     {
       "id": "heimdall",
@@ -2180,7 +2180,7 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/heimdall.jpg"
     },
     {
       "id": "america-chavez",
@@ -2214,7 +2214,7 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/america-chavez.jpg"
     },
     {
       "id": "adam-warlock",
@@ -2249,7 +2249,7 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "epic",
-      "costumeArt": null
+      "costumeArt": "img/costume/adam-warlock.jpg"
     },
     {
       "id": "yondu",
@@ -2283,7 +2283,7 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/yondu.jpg"
     },
     {
       "id": "sylvie",
@@ -2317,7 +2317,7 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/sylvie.jpg"
     },
     {
       "id": "ikaris",
@@ -2352,7 +2352,7 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "epic",
-      "costumeArt": null
+      "costumeArt": "img/costume/ikaris.jpg"
     },
     {
       "id": "sersi",
@@ -2386,7 +2386,7 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/sersi.jpg"
     },
     {
       "id": "thena",
@@ -3315,49 +3315,73 @@
     "currency": "shards",
     "note": "Rates locked by Marvel Hub 2026-10-14. Stronger MCU ratings = lower pull rate."
   },
-  "dataBuild": "20261014art36",
+  "dataBuild": "20261014art60",
   "costumeArtBatch": {
     "asOf": "2026-10-14",
-    "count": 36,
+    "count": 60,
     "ids": [
+      "adam-warlock",
+      "america-chavez",
       "ant-man",
       "black-panther",
       "black-widow",
       "captain-america",
       "captain-marvel",
+      "daredevil",
+      "deadpool",
       "doctor-strange",
+      "dormammu",
       "drax",
       "ego",
       "falcon",
       "gamora",
+      "gorr",
       "groot",
       "hawkeye",
+      "heimdall",
       "hela",
       "hulk",
+      "ikaris",
       "iron-man",
+      "jane-foster",
       "kang",
+      "kate-bishop",
       "killmonger",
       "loki",
+      "m-baku",
       "mantis",
+      "moon-knight",
+      "ms-marvel",
       "namor",
       "nebula",
+      "nick-fury",
+      "odin",
+      "okoye",
+      "quicksilver",
       "red-skull",
       "rocket",
       "ronan",
       "scarlet-witch",
+      "sersi",
       "shang-chi",
+      "she-hulk",
+      "shuri",
       "spider-man",
       "star-lord",
+      "sylvie",
       "thanos",
       "thor",
       "ultron",
+      "valkyrie",
       "vision",
       "war-machine",
       "wasp",
       "winter-soldier",
-      "wong"
+      "wong",
+      "yelena-belova",
+      "yondu"
     ],
-    "note": "Marvel Hub costume portraits batches 1–3 (36 total)"
+    "note": "Marvel Hub costume portraits batches 1–5 (60 total)"
   },
   "gachaBands": {
     "common": "<=55",
