@@ -1,5 +1,17 @@
-Marvel Hub deploy notes (2026-10-14)
-- Roster expanded to 86 MCU characters; power ratings rechecked (ratingsAsOf 2026-10-14).
-- New Party Battle tab: PeerJS (unpkg peerjs@1.5.4 + free 0.peerjs.com broker). No API key.
-- Host creates 4-char code; guests join on /marvel/#party. Turn-based, 2–6 players, host-authoritative.
-- Cache-bust: ?v=20261014party ; marker data-build="20261014party" on #panel-party.
+Marvel Hub deploy notes (2026-10-14 gacha)
+- Roster: 86 MCU characters; ratingsAsOf 2026-10-14; each has rarity band + costumeArt slot.
+- Gacha rates (Marvel Hub lock): Common ≤45 ~55%, Uncommon 46–65 ~28%, Rare 66–80 ~12%,
+  Epic 81–90 ~4%, Legendary 91–100 ~1%.
+- Currency: shards. Arena win +12 shards/+20 XP (loss +5/+8). Party win +20/+35 (loss +8/+12).
+  Pull ×1 = 100 shards; ×10 = 900. Duplicates → bonus shards.
+- Accounts: localStorage today (salted SHA-256 password hash in-browser). Guest progress
+  migrates into a new account on register. Starter: 300 shards + 5 street-level characters.
+- Party Battle: PeerJS still free/no key. Keep working alongside gacha.
+- Cache-bust: ?v=20261014gacha ; marker data-build="20261014gacha" on #panel-account.
+
+Optional multi-device sync (Dastan must do once in Cloudflare dashboard — no API keys invented):
+1. Create a D1 database (e.g. marvel_accounts) in the Pages project for groot.zynergy.studio.
+2. Bind it as env MARVEL_DB on the Pages project.
+3. Add Pages Functions under functions/marvel/api/* and include "/marvel/api/*" in
+   functions/_routes.json + public/_routes.json.
+4. Until then, accounts stay per-browser localStorage (fully playable).

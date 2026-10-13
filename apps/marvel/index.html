@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <meta name="color-scheme" content="dark" />
 <meta name="theme-color" content="#0a0b12" />
-<meta name="description" content="Unofficial MCU fan hub: browse 80+ characters, 1v1 arena, and online party-code battles." />
+<meta name="description" content="Unofficial MCU fan hub: gallery, gacha pulls, accounts, 1v1 arena, and online party-code battles." />
 <title>Marvel Hub · Unofficial MCU fan site</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23e23636'/%3E%3Ctext x='16' y='24' text-anchor='middle' font-family='Impact,sans-serif' font-size='22' fill='%23fff'%3EM%3C/text%3E%3C/svg%3E" />
-<link rel="stylesheet" href="styles.css?v=20261014party" />
+<link rel="stylesheet" href="styles.css?v=20261014gacha" />
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -23,9 +23,15 @@
   </div>
   <nav class="tabs" role="tablist" aria-label="Sections">
     <button role="tab" id="tab-gallery" aria-controls="panel-gallery" aria-selected="true" type="button">Gallery</button>
+    <button role="tab" id="tab-collection" aria-controls="panel-collection" aria-selected="false" tabindex="-1" type="button">Collection</button>
+    <button role="tab" id="tab-gacha" aria-controls="panel-gacha" aria-selected="false" tabindex="-1" type="button">Gacha</button>
     <button role="tab" id="tab-arena" aria-controls="panel-arena" aria-selected="false" tabindex="-1" type="button">Battle Arena</button>
     <button role="tab" id="tab-party" aria-controls="panel-party" aria-selected="false" tabindex="-1" type="button">Party Battle</button>
   </nav>
+  <div class="acct-chip" id="acctChip" aria-live="polite">
+    <span id="acctSummary" class="acct-summary">Guest · — shards</span>
+    <button type="button" class="btn ghost tiny" id="acctOpen">Account</button>
+  </div>
 </header>
 
 <main id="main">
@@ -116,7 +122,7 @@
   </section>
 
 
-  <section id="panel-party" data-build="20261014party" role="tabpanel" aria-labelledby="tab-party" hidden>
+  <section id="panel-party" data-build="20261014gacha" role="tabpanel" aria-labelledby="tab-party" hidden>
     <div class="intro">
       <h2>Party Battle</h2>
       <p class="muted">Online turn-based fights for 2–6 players. Create a room, share the party code, and duel across devices. Damage uses the same MCU power ratings as the arena — stronger usually wins, upsets happen.</p>
@@ -180,6 +186,69 @@
     </div>
   </section>
 
+  <section id="panel-collection" role="tabpanel" aria-labelledby="tab-collection" hidden>
+    <div class="intro">
+      <h2>Your Collection</h2>
+      <p class="muted">Characters you own from gacha pulls and starter packs. Progress saves on this device with your account (or as Guest until you register).</p>
+      <p id="collectionStats" class="pill" aria-live="polite"></p>
+    </div>
+    <div id="collectionGrid" class="grid"></div>
+    <p id="collectionEmpty" class="empty" hidden>No characters yet — pull on the Gacha tab or register for a starter pack.</p>
+  </section>
+
+  <section id="panel-gacha" role="tabpanel" aria-labelledby="tab-gacha" hidden>
+    <div class="intro">
+      <h2>Gacha Summons</h2>
+      <p class="muted">Spend <strong>shards</strong> earned from battles. Stronger MCU ratings are rarer. Rates locked by Marvel Hub.</p>
+    </div>
+    <div class="gacha-rates" id="gachaRates" aria-label="Pull rates"></div>
+    <div class="gacha-wallet" id="gachaWallet" aria-live="polite"></div>
+    <div class="gacha-actions actions">
+      <button type="button" class="btn primary big" id="gachaPull1">Pull ×1 · 100 shards</button>
+      <button type="button" class="btn big" id="gachaPull10">Pull ×10 · 900 shards</button>
+    </div>
+    <div id="gachaResults" class="gacha-results" aria-live="polite"></div>
+    <p class="note">Duplicates convert to bonus shards (Common 8 → Legendary 120). Costume art slots are ready for Marvel Hub batches — actor photos stay until then.</p>
+  </section>
+
+  <section id="panel-account" role="tabpanel" aria-labelledby="acctOpen" hidden data-build="20261014gacha">
+    <div class="intro">
+      <h2>Account</h2>
+      <p class="muted">Register so shards, XP, and owned characters persist on this browser. Multi-device sync needs a one-time Cloudflare D1 bind (see deploy notes) — local accounts work today with no secrets.</p>
+    </div>
+    <div class="acct-panel" id="acctPanel">
+      <div id="acctLoggedOut" class="acct-box">
+        <div class="acct-forms">
+          <form id="formRegister" class="acct-form">
+            <h3>Register</h3>
+            <label>Username <input name="user" type="text" autocomplete="username" maxlength="24" required minlength="3" placeholder="e.g. dastan" /></label>
+            <label>Password <input name="pass" type="password" autocomplete="new-password" minlength="4" required /></label>
+            <button type="submit" class="btn primary">Create account</button>
+            <p class="muted tiny">Starter: 300 shards + Hawkeye, Black Widow, Happy Hogan, Falcon, Ant-Man.</p>
+          </form>
+          <form id="formLogin" class="acct-form">
+            <h3>Log in</h3>
+            <label>Username <input name="user" type="text" autocomplete="username" maxlength="24" required /></label>
+            <label>Password <input name="pass" type="password" autocomplete="current-password" required /></label>
+            <button type="submit" class="btn">Log in</button>
+          </form>
+        </div>
+        <p id="acctMsg" class="party-status" aria-live="polite"></p>
+      </div>
+      <div id="acctLoggedIn" class="acct-box" hidden>
+        <p>Signed in as <strong id="acctName"></strong></p>
+        <dl class="facts acct-facts">
+          <div><dt>Shards</dt><dd id="acctShards">0</dd></div>
+          <div><dt>XP / Level</dt><dd id="acctXp">0</dd></div>
+          <div><dt>Owned</dt><dd id="acctOwned">0</dd></div>
+          <div><dt>Pulls</dt><dd id="acctPulls">0</dd></div>
+        </dl>
+        <button type="button" class="btn ghost" id="acctLogout">Log out</button>
+        <p class="note">Passwords are salted SHA-256 hashes stored only in this browser’s localStorage — never sent to a server unless you later enable Cloudflare sync.</p>
+      </div>
+    </div>
+  </section>
+
   <section id="panel-credits" role="region" aria-labelledby="credits-title" hidden>
     <div class="intro">
       <h2 id="credits-title">Photo credits</h2>
@@ -203,8 +272,9 @@
 <canvas id="confetti" aria-hidden="true"></canvas>
 
 <script src="https://unpkg.com/peerjs@1.5.4/dist/peerjs.min.js" crossorigin="anonymous"></script>
-<script src="battle.js?v=20261014party"></script>
-<script src="multiplayer.js?v=20261014party"></script>
-<script src="app.js?v=20261014party"></script>
+<script src="battle.js?v=20261014gacha"></script>
+<script src="multiplayer.js?v=20261014gacha"></script>
+<script src="accounts.js?v=20261014gacha"></script>
+<script src="app.js?v=20261014gacha"></script>
 </body>
 </html>

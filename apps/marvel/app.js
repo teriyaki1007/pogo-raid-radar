@@ -67,9 +67,15 @@
 
   /* ---------- real photos (actor photos from Wikimedia Commons) with avatar fallback ---------- */
   function art(c, cls, eager) {
-    if (!c.photo) return portrait(c, cls);
+    // Prefer Marvel Hub costume art when present; else actor photo; else illustrated avatar.
+    var src = c.costumeArt || c.photo;
+    if (!src) return portrait(c, cls);
     var pc = c.photoCredit || {};
-    return '<img class="photo ' + (cls || '') + '" src="' + esc(c.photo) + '" alt="' + esc('Photo of ' + (pc.actor || 'the actor') + ', who plays ' + c.name) + '"' +
+    var isCostume = !!c.costumeArt;
+    var alt = isCostume
+      ? (c.name + ' costume art')
+      : ('Photo of ' + (pc.actor || 'the actor') + ', who plays ' + c.name);
+    return '<img class="photo ' + (cls || '') + (isCostume ? ' costume' : '') + '" src="' + esc(src) + '" alt="' + esc(alt) + '"' +
       ' data-cid="' + esc(c.id) + '" decoding="async"' + (eager ? '' : ' loading="lazy"') + ' draggable="false">';
   }
   // <img> error events do not bubble, so listen in the capture phase and swap in the clean generated avatar.
@@ -124,9 +130,15 @@
     }
     return true;
   }
+  function rarityBadge(c) {
+    var A = window.MarvelAccounts;
+    var r = A ? A.rarityOf(c) : 'common';
+    var lab = A ? A.RARITY_LABEL[r] : r;
+    return '<span class="badge rarity ' + r + '">' + lab + '</span>';
+  }
   function cardHTML(c) {
     return '<button type="button" class="card" data-id="' + c.id + '" aria-haspopup="dialog" style="--a:' + c.theme.accent + ';--c1:' + c.theme.c1 + ';--c2:' + c.theme.c2 + '">' +
-      '<span class="art">' + art(c) + '<span class="badge ' + c.alignment + '">' + (c.alignment === 'villain' ? 'Villain' : 'Hero') + '</span></span>' +
+      '<span class="art">' + art(c) + '<span class="badge ' + c.alignment + '">' + (c.alignment === 'villain' ? 'Villain' : 'Hero') + '</span>' + rarityBadge(c) + '</span>' +
       '<span class="meta"><strong>' + esc(c.name) + '</strong><span class="al">' + esc(c.alias) + '</span>' +
       '<span class="mini"><i style="width:' + c.power + '%"></i></span><span class="pw">' + c.power + ' · ' + tier(c.power) + '</span></span></button>';
   }
@@ -231,7 +243,7 @@
       '<p>' + esc(c.description) + '</p>' +
       '<h4>Why they matter to the MCU</h4><p>' + esc(c.importance) + '</p>' +
       spoilerBlock(c) +
-      '<h4>Power rating <span class="muted">· ' + tier(c.power) + '</span></h4>' +
+      '<h4>Power rating <span class="muted">· ' + tier(c.power) + ' · ' + (window.MarvelAccounts ? window.MarvelAccounts.RARITY_LABEL[window.MarvelAccounts.rarityOf(c)] : '') + '</span></h4>' +
       '<div class="power" role="meter" aria-valuemin="1" aria-valuemax="100" aria-valuenow="' + c.power + '" aria-label="Power rating"><i style="--w:' + c.power + '%"></i><b>' + c.power + '</b></div>' +
       '<h4>Abilities</h4><ul class="tags">' + c.abilities.map(function (a) { return '<li>' + esc(a) + '</li>'; }).join('') + '</ul>' +
       '<div class="dlg-actions"><button type="button" class="btn primary" data-fight="A">Send to Arena as Fighter A</button><button type="button" class="btn" data-fight="B">as Fighter B</button></div>' +
@@ -253,24 +265,29 @@
 
   /* ---------- tabs ---------- */
   function showTab(name, focus) {
-    ['gallery', 'arena', 'party', 'credits'].forEach(function (n) {
+    var all = ['gallery', 'collection', 'gacha', 'arena', 'party', 'account', 'credits'];
+    all.forEach(function (n) {
       var panel = $('#panel-' + n); if (panel) panel.hidden = n !== name;
       var t = $('#tab-' + n);
       if (t) { t.setAttribute('aria-selected', n === name); t.tabIndex = n === name ? 0 : -1; }
     });
     if (name === 'credits') {
-      ['gallery', 'arena', 'party'].forEach(function (n) {
+      ['gallery', 'collection', 'gacha', 'arena', 'party'].forEach(function (n) {
         var t = $('#tab-' + n); if (!t) return;
         t.setAttribute('aria-selected', 'false'); t.tabIndex = n === 'gallery' ? 0 : -1;
       });
       renderCredits();
     }
     if (history.replaceState) {
-      var hash = name === 'arena' ? '#arena' : name === 'credits' ? '#credits' : name === 'party' ? '#party' : location.pathname + location.search;
+      var hashMap = { arena: '#arena', credits: '#credits', party: '#party', gacha: '#gacha', collection: '#collection', account: '#account' };
+      var hash = hashMap[name] || (location.pathname + location.search);
       history.replaceState(null, '', hash);
     }
     if (name === 'arena') { updateOdds(); renderFighters(); }
     if (name === 'party') { renderParty(); }
+    if (name === 'collection') { renderCollection(); }
+    if (name === 'gacha') { renderGacha(); }
+    if (name === 'account') { renderAccount(); }
     if (focus) window.scrollTo({ top: 0, behavior: reduce.matches ? 'auto' : 'smooth' });
   }
   function renderCredits() {
@@ -443,6 +460,11 @@
     $('#skip').hidden = true; $('#rematch').hidden = false; $('#again').hidden = false; $('#random').hidden = false;
     $$('.pick-row select, [data-browse]').forEach(function (x) { x.disabled = false; });
     if (!reduce.matches) startConfetti(wc.theme);
+    if (window.MarvelAccounts) {
+      var reward = window.MarvelAccounts.grantBattleReward('arena', mine);
+      refreshAcctChip();
+      $('#log').textContent = lc.name + ' is down. ' + wc.name + ' stands victorious! (+' + reward.shards + ' shards, +' + reward.xp + ' XP)';
+    }
     $('#rematch').focus({ preventScroll: true });
   }
 
@@ -575,6 +597,15 @@
         var w = st.players.filter(function (p) { return p.id === st.winnerId; })[0];
         var wc = w && byId[w.charId];
         $('#partyTurn').textContent = wc ? (wc.name + ' wins!') : 'Battle over';
+        if (window.MarvelAccounts) {
+          var battleId = (st.code || '') + ':' + (st.winnerId || '') + ':' + (st.log && st.log.length);
+          var iWon = st.winnerId === party.localId;
+          var pr = window.MarvelAccounts.grantPartyOnce(battleId, iWon);
+          if (!pr.skipped) {
+            refreshAcctChip();
+            $('#partyStatus').textContent = (iWon ? 'Victory' : 'Defeat') + ' — +' + pr.shards + ' shards, +' + pr.xp + ' XP';
+          }
+        }
       } else {
         $('#partyTurn').textContent = turnC ? ('Turn: ' + turnC.name + (turnP.id === party.localId ? ' — your move!' : ' (' + turnP.name + ')')) : 'Fight!';
       }
@@ -690,6 +721,117 @@
   }
 
 
+
+  /* ---------- accounts / gacha / collection ---------- */
+  function refreshAcctChip() {
+    var A = window.MarvelAccounts; if (!A) return;
+    var u = A.currentUser();
+    var p = A.progress();
+    var lvl = A.levelFromXp(p.xp);
+    var who = u || 'Guest';
+    var el = $('#acctSummary');
+    if (el) el.textContent = who + ' · ' + p.shards + ' shards · Lv ' + lvl;
+    var w = $('#gachaWallet');
+    if (w) w.innerHTML = '<strong>' + p.shards + '</strong> shards · <strong>' + p.xp + '</strong> XP (Lv ' + lvl + ')' +
+      (u ? '' : ' · <span class="muted">playing as Guest — register to keep progress</span>');
+  }
+  function renderAccount() {
+    var A = window.MarvelAccounts; if (!A) return;
+    var u = A.currentUser();
+    var out = $('#acctLoggedOut'), inn = $('#acctLoggedIn');
+    if (u) {
+      out.hidden = true; inn.hidden = false;
+      $('#acctName').textContent = u;
+      var p = A.progress();
+      $('#acctShards').textContent = p.shards;
+      $('#acctXp').textContent = p.xp + ' / Lv ' + A.levelFromXp(p.xp);
+      $('#acctOwned').textContent = Object.keys(p.owned).length;
+      $('#acctPulls').textContent = p.pullCount;
+    } else {
+      out.hidden = false; inn.hidden = true;
+    }
+    refreshAcctChip();
+  }
+  function renderCollection() {
+    var A = window.MarvelAccounts; if (!A) return;
+    var list = A.ownedList(chars).sort(function (a, b) {
+      return b.char.power - a.char.power || a.char.name.localeCompare(b.char.name);
+    });
+    var p = A.progress();
+    $('#collectionStats').textContent = list.length + ' owned · ' + p.shards + ' shards · ' + p.pullCount + ' pulls';
+    $('#collectionGrid').innerHTML = list.map(function (o) {
+      var c = o.char;
+      return '<button type="button" class="card owned" data-id="' + c.id + '" aria-haspopup="dialog" style="--a:' + c.theme.accent + ';--c1:' + c.theme.c1 + ';--c2:' + c.theme.c2 + '">' +
+        '<span class="art">' + art(c) + rarityBadge(c) +
+        (o.count > 1 ? '<span class="badge count">×' + o.count + '</span>' : '') + '</span>' +
+        '<span class="meta"><strong>' + esc(c.name) + '</strong><span class="al">' + esc(c.alias) + '</span>' +
+        '<span class="pw">' + c.power + ' · ' + tier(c.power) + '</span></span></button>';
+    }).join('');
+    $('#collectionEmpty').hidden = list.length > 0;
+  }
+  function renderGacha() {
+    var A = window.MarvelAccounts; if (!A) return;
+    $('#gachaRates').innerHTML = A.RARITY_ORDER.map(function (r) {
+      return '<span class="rate-pill ' + r + '"><b>' + A.RARITY_LABEL[r] + '</b> ' + Math.round(A.RATES[r] * 100) + '%</span>';
+    }).join('');
+    refreshAcctChip();
+  }
+  function showPullResults(res) {
+    var A = window.MarvelAccounts;
+    if (!res.ok) {
+      $('#gachaResults').innerHTML = '<p class="empty">' + esc(res.error || 'Pull failed') + '</p>';
+      return;
+    }
+    $('#gachaResults').innerHTML = '<div class="pull-grid">' + res.results.map(function (r) {
+      if (!r.ok) return '';
+      var c = byId[r.id];
+      return '<div class="pull-card ' + r.rarity + '">' +
+        '<div class="pull-art">' + (c ? art(c, '', true) : '') + '</div>' +
+        '<span class="badge rarity ' + r.rarity + '">' + A.RARITY_LABEL[r.rarity] + '</span>' +
+        '<strong>' + esc(r.name) + '</strong>' +
+        '<span class="muted">' + r.power + (r.duplicate ? ' · dup +' + r.shardBack + ' shards' : ' · NEW') + '</span></div>';
+    }).join('') + '</div>';
+    refreshAcctChip();
+  }
+  function bindAccount() {
+    var A = window.MarvelAccounts; if (!A) return;
+    $('#acctOpen').addEventListener('click', function () { showTab('account', true); });
+    $('#formRegister').addEventListener('submit', function (e) {
+      e.preventDefault();
+      var fd = new FormData(e.target);
+      $('#acctMsg').textContent = 'Creating…';
+      A.register(fd.get('user'), fd.get('pass')).then(function () {
+        $('#acctMsg').textContent = 'Welcome! Starter pack unlocked.';
+        e.target.reset();
+        renderAccount(); refreshAcctChip();
+      }).catch(function (err) { $('#acctMsg').textContent = err.message || String(err); });
+    });
+    $('#formLogin').addEventListener('submit', function (e) {
+      e.preventDefault();
+      var fd = new FormData(e.target);
+      $('#acctMsg').textContent = 'Signing in…';
+      A.login(fd.get('user'), fd.get('pass')).then(function () {
+        $('#acctMsg').textContent = 'Signed in.';
+        e.target.reset();
+        renderAccount(); refreshAcctChip();
+      }).catch(function (err) { $('#acctMsg').textContent = err.message || String(err); });
+    });
+    $('#acctLogout').addEventListener('click', function () {
+      A.logout(); renderAccount(); refreshAcctChip();
+      $('#acctMsg').textContent = 'Signed out. Guest progress is separate.';
+    });
+    $('#collectionGrid').addEventListener('click', function (e) {
+      var b = e.target.closest('.card'); if (b) openDetail(b.dataset.id, b);
+    });
+    $('#gachaPull1').addEventListener('click', function () {
+      showPullResults(A.doPull(chars, 1));
+    });
+    $('#gachaPull10').addEventListener('click', function () {
+      showPullResults(A.doPull(chars, 10));
+    });
+    refreshAcctChip();
+  }
+
   /* ---------- confetti (canvas, no deps) ---------- */
   var cv = $('#confetti'), cx = cv.getContext('2d'), parts = [], raf = 0;
   function sizeCv() { cv.width = window.innerWidth; cv.height = window.innerHeight; }
@@ -724,12 +866,15 @@
     return r.json();
   }).then(function (d) {
     chars = d.characters; chars.forEach(function (c) { byId[c.id] = c; });
-    buildControls(); bindTabs(); fillSelects(); bindArena(); bindParty(); renderGrid();
+    buildControls(); bindTabs(); fillSelects(); bindArena(); bindParty(); bindAccount(); renderGrid();
     $('#champ').textContent = byId[sel.A].name;
-    syncSpoilChecks();
+    syncSpoilChecks(); refreshAcctChip();
     if (location.hash === '#credits') showTab('credits');
     else if (location.hash === '#arena') showTab('arena');
     else if (location.hash === '#party') showTab('party');
+    else if (location.hash === '#gacha') showTab('gacha');
+    else if (location.hash === '#collection') showTab('collection');
+    else if (location.hash === '#account') showTab('account');
     else { updateOdds(); renderFighters(); }
   }).catch(function (err) {
     $('#grid').innerHTML = '<p class="empty">Could not load character data (' + esc(err.message) + '). Serve this page over http(s), not file://.</p>';

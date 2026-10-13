@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "note": "Ratings are fan-estimated MCU power levels (rechecked Oct 2026), just for fun. Photos are freely licensed pictures of the actors (not character stills); see Photo credits. CGI/voice roles use illustrated avatars.",
+  "version": 4,
+  "note": "Ratings are fan-estimated MCU power levels (rechecked Oct 2026), just for fun. Photos are freely licensed pictures of the actors (not character stills); see Photo credits. CGI/voice roles use illustrated avatars. costumeArt slots await Marvel Hub costume batches.",
   "characters": [
     {
       "id": "iron-man",
@@ -42,7 +42,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Robert_Downey_Jr_2014_Comic_Con_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Robert Downey Jr 2014 Comic Con (cropped).jpg"
-      }
+      },
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "captain-america",
@@ -82,7 +84,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Chris_Evans_by_Gage_Skidmore_cropped.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Chris Evans by Gage Skidmore cropped.jpg"
-      }
+      },
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "thor",
@@ -124,7 +128,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_2010_Comic-Con_Cropped.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Chris Hemsworth 2010 Comic-Con Cropped.jpg"
-      }
+      },
+      "rarity": "legendary",
+      "costumeArt": null
     },
     {
       "id": "hulk",
@@ -166,7 +172,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Mark_Ruffalo_SDCC_2014_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Mark Ruffalo SDCC 2014 (cropped).jpg"
-      }
+      },
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "black-widow",
@@ -208,7 +216,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Scarlett_Johansson_by_Gage_Skidmore_2_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "file": "Scarlett Johansson by Gage Skidmore 2 (cropped).jpg"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "hawkeye",
@@ -248,7 +258,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Jeremy_Renner_SDCC_2014_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Jeremy Renner SDCC 2014 (cropped).jpg"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "spider-man",
@@ -290,7 +302,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:TomHolland-byPhilipRomano7_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "file": "TomHolland-byPhilipRomano7 (cropped).jpg"
-      }
+      },
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "black-panther",
@@ -332,7 +346,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Chadwick_Boseman_by_Gage_Skidmore_July_2017_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Chadwick Boseman by Gage Skidmore July 2017 (cropped).jpg"
-      }
+      },
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "doctor-strange",
@@ -373,7 +389,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Benedict_Cumberbatch_(48470894756)_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Benedict Cumberbatch (48470894756) (cropped).jpg"
-      }
+      },
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "captain-marvel",
@@ -414,7 +432,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Brie_Larson_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "file": "Brie Larson (cropped).jpg"
-      }
+      },
+      "rarity": "legendary",
+      "costumeArt": null
     },
     {
       "id": "ant-man",
@@ -454,7 +474,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Paul_Rudd_(cropped)_2.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Paul Rudd (cropped) 2.jpg"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "wasp",
@@ -495,7 +517,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Evangeline_Lilly_2014_Comic_Con_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "file": "Evangeline Lilly 2014 Comic Con (cropped).jpg"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "scarlet-witch",
@@ -536,7 +560,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Elizabeth_Olsen_2_SDCC_2014_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Elizabeth Olsen 2 SDCC 2014 (cropped).jpg"
-      }
+      },
+      "rarity": "legendary",
+      "costumeArt": null
     },
     {
       "id": "vision",
@@ -577,7 +603,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Paul_Bettany_(48469131797)_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Paul Bettany (48469131797) (cropped).jpg"
-      }
+      },
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "falcon",
@@ -618,7 +646,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Anthony_Mackie_by_Gage_Skidmore_2_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "file": "Anthony Mackie by Gage Skidmore 2 (cropped).jpg"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "winter-soldier",
@@ -658,7 +688,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Sebastian_Stan_by_Gage_Skidmore_2_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "file": "Sebastian Stan by Gage Skidmore 2 (cropped).jpg"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "war-machine",
@@ -699,7 +731,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Don_Cheadle_UNEP_2011_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Don Cheadle UNEP 2011 (cropped).jpg"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "loki",
@@ -740,7 +774,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Tom_Hiddleston_2010_Comic-Con_Cropped.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Tom Hiddleston 2010 Comic-Con Cropped.jpg"
-      }
+      },
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "thanos",
@@ -773,7 +809,9 @@
         "Infinity Stones"
       ],
       "spoilers": "Thanos is revealed in The Avengers' mid-credits scene and gathers the Infinity Stones in Infinity War, sacrificing his adopted daughter Gamora to get the Soul Stone. He wipes out half of all life with a snap, and is then beheaded by Thor five years later after destroying the stones. In Endgame the 2014 Thanos is pulled into the present and attacks the Avengers' compound. He is finally dusted along with his army when Tony Stark snaps his fingers.",
-      "photoNote": "Thanos is a CGI character (performed by Josh Brolin). No actor photo is used; this is an original illustrated avatar."
+      "photoNote": "Thanos is a CGI character (performed by Josh Brolin). No actor photo is used; this is an original illustrated avatar.",
+      "rarity": "legendary",
+      "costumeArt": null
     },
     {
       "id": "star-lord",
@@ -813,7 +851,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Chris_Pratt_(29735415436)_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Chris Pratt (29735415436) (cropped).jpg"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "gamora",
@@ -853,7 +893,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Zoe_Saldana_(28046630643)_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Zoe Saldana (28046630643) (cropped).jpg"
-      }
+      },
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "drax",
@@ -893,7 +935,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Dave_Bautista_by_Gage_Skidmore.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "file": "Dave Bautista by Gage Skidmore.jpg"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "rocket",
@@ -925,7 +969,9 @@
         "Sharpshooting"
       ],
       "spoilers": "Rocket was created by the High Evolutionary from a raccoon and tortured as an experiment, which is revealed in Vol. 3. He loses his friends Lylla, Teefs and Floor, and nearly dies in the present when the High Evolutionary tries to reclaim him. Rocket rejects the pull of revenge and spares the High Evolutionary, who is later locked up on Knowhere. By the end, Rocket leads a new team of Guardians that includes Groot.",
-      "photoNote": "Rocket is a CGI/voice character (voiced by Bradley Cooper). No actor photo is used; this is an original illustrated avatar."
+      "photoNote": "Rocket is a CGI/voice character (voiced by Bradley Cooper). No actor photo is used; this is an original illustrated avatar.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "groot",
@@ -957,7 +1003,9 @@
         "Protective barriers"
       ],
       "spoilers": "In the first film, Groot sacrifices himself, shielding his friends from a crash with his branches, and is then reborn as Baby Groot. He grows into a moody teenager by Infinity War, where he is turned to dust. He returns in Endgame and joins the final battle. In Vol. 3 he is an adult, helps save Rocket, and sticks with Rocket to lead the next Guardians.",
-      "photoNote": "Groot is a CGI/voice character (voiced by Vin Diesel). No actor photo is used; this is an original illustrated avatar."
+      "photoNote": "Groot is a CGI/voice character (voiced by Vin Diesel). No actor photo is used; this is an original illustrated avatar.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "nebula",
@@ -997,7 +1045,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Karen_Gillan_(28584075851)_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Karen Gillan (28584075851) (cropped).jpg"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "mantis",
@@ -1037,7 +1087,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Pom_Klementieff_Comic_Con_Brussels_2018_(39983390974).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Pom Klementieff Comic Con Brussels 2018 (39983390974).jpg"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "shang-chi",
@@ -1077,7 +1129,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Simu_Liu_(48469082216)_cropped.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Simu Liu (48469082216) cropped.jpg"
-      }
+      },
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "wong",
@@ -1117,7 +1171,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Benedict_Wong_(28352087500)_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Benedict Wong (28352087500) (cropped).jpg"
-      }
+      },
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "ultron",
@@ -1151,7 +1207,9 @@
       ],
       "spoilers": "Ultron is born when Tony Stark and Bruce Banner use the Mind Stone to create a peacekeeping AI, but it decides that humanity must be destroyed to keep peace. He builds an army of drones and lifts the city of Sokovia to crash it like an asteroid. The Avengers fight him there, and Pietro Maximoff dies saving Hawkeye. Wanda tears the heart out of his main body, and his last surviving drone dies after a final conversation with Vision.",
       "spoilersMore": "In the animated What If...? series, an alternate Ultron does conquer a universe.",
-      "photoNote": "Ultron is a CGI/voice-and-motion-capture character (James Spader). No actor photo is used; this is an original illustrated avatar."
+      "photoNote": "Ultron is a CGI/voice-and-motion-capture character (James Spader). No actor photo is used; this is an original illustrated avatar.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "hela",
@@ -1192,7 +1250,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Cate_Blanchett_SDCC_2014_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Cate Blanchett SDCC 2014 (cropped).jpg"
-      }
+      },
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "killmonger",
@@ -1232,7 +1292,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Michael_B._Jordan_by_Gage_Skidmore.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "file": "Michael B. Jordan by Gage Skidmore.jpg"
-      }
+      },
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "ego",
@@ -1272,7 +1334,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Kurt_Russell_by_Gage_Skidmore.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "file": "Kurt Russell by Gage Skidmore.jpg"
-      }
+      },
+      "rarity": "legendary",
+      "costumeArt": null
     },
     {
       "id": "red-skull",
@@ -1312,7 +1376,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Hugo_Weaving_2011.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Hugo Weaving 2011.jpg"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "ronan",
@@ -1352,7 +1418,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Lee_Pace_-_Guardians_of_the_Galaxy_premiere_-_July_2014_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "file": "Lee Pace - Guardians of the Galaxy premiere - July 2014 (cropped).jpg"
-      }
+      },
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "kang",
@@ -1393,7 +1461,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Jonathan_Majors_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
         "file": "Jonathan Majors (cropped).jpg"
-      }
+      },
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "namor",
@@ -1434,7 +1504,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Tenoch_Huerta_(cropped)_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "file": "Tenoch Huerta (cropped) (cropped).jpg"
-      }
+      },
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "ms-marvel",
@@ -1473,7 +1545,9 @@
         "license": "Public domain",
         "source": "https://commons.wikimedia.org/wiki/File:Iman_Vellani_2022_(1).png",
         "file": "Iman Vellani 2022 (1).png"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "she-hulk",
@@ -1513,7 +1587,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Tatiana_Maslany_SDCC_2014_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Tatiana Maslany SDCC 2014 (cropped).jpg"
-      }
+      },
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "moon-knight",
@@ -1554,7 +1630,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Oscar_Isaac_by_Gage_Skidmore.jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "file": "Oscar Isaac by Gage Skidmore.jpg"
-      }
+      },
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "daredevil",
@@ -1595,7 +1673,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Charlie_Cox_02_(29327255635)_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Charlie Cox 02 (29327255635) (cropped).jpg"
-      }
+      },
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "deadpool",
@@ -1635,7 +1715,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Ryan_Reynolds_Comic-Con_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Ryan Reynolds Comic-Con (cropped).jpg"
-      }
+      },
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "gorr",
@@ -1675,7 +1757,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Christian_Bale_2014_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
         "file": "Christian Bale 2014 (cropped).jpg"
-      }
+      },
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "dormammu",
@@ -1707,7 +1791,9 @@
         "Immortality"
       ],
       "spoilers": "Dormammu rules the Dark Dimension and is the master of the zealots led by Kaecilius, who want to bring Earth under his control. Doctor Strange uses the Time Stone to trap him in a time loop, repeatedly dying until Dormammu gives up. Dormammu agrees to leave Earth alone, and he takes Kaecilius and the zealots with him.",
-      "photoNote": "Dormammu is a CGI/voice-and-motion-capture character (Benedict Cumberbatch). No actor photo is used; this is an original illustrated avatar."
+      "photoNote": "Dormammu is a CGI/voice-and-motion-capture character (Benedict Cumberbatch). No actor photo is used; this is an original illustrated avatar.",
+      "rarity": "legendary",
+      "costumeArt": null
     },
     {
       "id": "odin",
@@ -1748,7 +1834,9 @@
         "source": "https://commons.wikimedia.org/wiki/File:Anthony_Hopkins_Red_Sea_Festival_2025_Portrait_(cropped).jpg",
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
         "file": "Anthony Hopkins Red Sea Festival 2025 Portrait (cropped).jpg"
-      }
+      },
+      "rarity": "legendary",
+      "costumeArt": null
     },
     {
       "id": "nick-fury",
@@ -1781,7 +1869,9 @@
       ],
       "spoilers": "Fury reveals the Avengers Initiative after the Battle of New York era begins, fakes his death in The Winter Soldier, and later works with Skrulls and Carol Danvers across Secret Invasion-era stories.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "quicksilver",
@@ -1813,7 +1903,9 @@
       ],
       "spoilers": "Pietro dies taking bullets for Hawkeye and a child in Age of Ultron. Wanda’s grief fuels later arcs.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "yelena-belova",
@@ -1846,7 +1938,9 @@
       ],
       "spoilers": "She confronts Natasha in Black Widow, later hunts a “Hawkeye” in the Hawkeye series, and appears in Thunderbolts-era material.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "kate-bishop",
@@ -1878,7 +1972,9 @@
       ],
       "spoilers": "She teams with Clint against the Tracksuit Mafia and Eleanor Bishop’s dealings with Kingpin, then keeps the Hawkeye name.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "shuri",
@@ -1911,7 +2007,9 @@
       ],
       "spoilers": "After T’Challa’s death she becomes Black Panther in Wakanda Forever, surviving the ancestral plane and defending Wakanda from Namor.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "okoye",
@@ -1943,7 +2041,9 @@
       ],
       "spoilers": "She fights in Infinity War and Endgame, briefly clashes with a grieving Shuri’s choices, and remains Wakanda’s steel spine.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "m-baku",
@@ -1975,7 +2075,9 @@
       ],
       "spoilers": "He refuses the heart-shaped herb path at first, later aids T’Challa and Shuri, and becomes a key political voice in Wakanda Forever.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "valkyrie",
@@ -2007,7 +2109,9 @@
       ],
       "spoilers": "She helps stop Hela, fights Thanos’s forces, and by Love and Thunder rules New Asgard while still charging into battle.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "jane-foster",
@@ -2040,7 +2144,9 @@
       ],
       "spoilers": "In Love and Thunder she wields Mjolnir while battling cancer, dies a hero, and reunites with Thor in Valhalla.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "heimdall",
@@ -2072,7 +2178,9 @@
       ],
       "spoilers": "He smuggles survivors off Asgard, is killed by Thanos at the start of Infinity War after sending Hulk to Earth, and later appears in spiritual contexts.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "america-chavez",
@@ -2104,7 +2212,9 @@
       ],
       "spoilers": "Wanda hunts her to replace lost children; Strange protects her; she learns to control her punches through the multiverse.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "adam-warlock",
@@ -2137,7 +2247,9 @@
       ],
       "spoilers": "Created by the Sovereign to destroy the Guardians, he instead joins them after Vol. 3’s climax and later leads a new Guardians roster.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "yondu",
@@ -2169,7 +2281,9 @@
       ],
       "spoilers": "He returns Peter to the Guardians and sacrifices himself escaping Ego’s planet in Vol. 2.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "sylvie",
@@ -2201,7 +2315,9 @@
       ],
       "spoilers": "She kills He Who Remains, fracturing the multiverse, and later contends with the fallout alongside Loki.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "ikaris",
@@ -2234,7 +2350,9 @@
       ],
       "spoilers": "He sides with Arishem’s Emergence plan, battles his family, and flies into the sun after failing to stop them.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "sersi",
@@ -2266,7 +2384,9 @@
       ],
       "spoilers": "She turns Tiamut to stone, briefly bonds with a Uni-Mind, and is taken by Arishem for judgment at the film’s end.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "thena",
@@ -2298,7 +2418,9 @@
       ],
       "spoilers": "She nearly kills allies during Mahd Wy’ry episodes, recovers enough to fight Ikaris and the Deviants, and leaves Earth with others to find more Eternals.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "ironheart",
@@ -2331,7 +2453,9 @@
       ],
       "spoilers": "Wakanda recruits her in Wakanda Forever; her solo series continues her armour evolution and personal stakes.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "cassie-lang",
@@ -2363,7 +2487,9 @@
       ],
       "spoilers": "As a teen in Quantumania she helps confront Kang the Conqueror alongside her family and the freedom fighters of the Quantum Realm.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "monica-rambeau",
@@ -2396,7 +2522,9 @@
       ],
       "spoilers": "She becomes Photon/Spectrum-class after WandaVision, later appears in The Marvels dealing with wormhole and family fallout.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "agatha-harkness",
@@ -2429,7 +2557,9 @@
       ],
       "spoilers": "She torments Wanda in Westview, is trapped in the “Agnes” loop, and later headlines Agatha All Along.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "high-evolutionary",
@@ -2462,7 +2592,9 @@
       ],
       "spoilers": "The Guardians storm his ship, Rocket confronts his past, and they leave him defeated and humiliated.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "vulture",
@@ -2494,7 +2626,9 @@
       ],
       "spoilers": "He nearly kills Peter on a ferry and school dance night; after defeat he keeps Peter’s identity quiet in prison.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "mysterio",
@@ -2527,7 +2661,9 @@
       ],
       "spoilers": "He fakes elemental threats, dies by his own drone fire, and posthumously exposes Peter’s identity worldwide.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "crossbones",
@@ -2559,7 +2695,9 @@
       ],
       "spoilers": "After Winter Soldier he returns in Civil War and detonates a suicide bomb that kills Wakandan workers and T’Chaka.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "taskmaster",
@@ -2592,7 +2730,9 @@
       ],
       "spoilers": "Antonia is freed from mind control at the end of Black Widow after Natasha confronts Dreykov.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "ghost",
@@ -2625,7 +2765,9 @@
       ],
       "spoilers": "Hank and Hope stabilise her; she later appears among Thunderbolts-era antiheroes.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "abomination",
@@ -2658,7 +2800,9 @@
       ],
       "spoilers": "He battles Hulk in Harlem, is imprisoned, and years later appears in She-Hulk: Attorney at Law trying a quieter life.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "wenwu",
@@ -2691,7 +2835,9 @@
       ],
       "spoilers": "Dweller-in-Darkness manipulates him into opening Ta Lo’s gate; he dies helping Shang-Chi stop the sealed evil.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "kingpin",
@@ -2724,7 +2870,9 @@
       ],
       "spoilers": "He wars with Daredevil, resurfaces in Hawkeye’s New York, and features in Echo’s story.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "punisher",
@@ -2757,7 +2905,9 @@
       ],
       "spoilers": "He allies uneasily with Daredevil, headlines his own season of killings, and remains a lethal urban myth.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "jessica-jones",
@@ -2790,7 +2940,9 @@
       ],
       "spoilers": "She defeats Kilgrave, drinks through the fallout, and teams with the Defenders against Midland Circle threats.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "luke-cage",
@@ -2822,7 +2974,9 @@
       ],
       "spoilers": "He clears his name, fights Cottonmouth and Mariah, and joins the Defenders.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "wolverine",
@@ -2855,7 +3009,9 @@
       ],
       "spoilers": "Deadpool recruits a “worst” Wolverine variant to save his timeline from TVA-adjacent erasure in Deadpool & Wolverine.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "epic",
+      "costumeArt": null
     },
     {
       "id": "surtur",
@@ -2888,7 +3044,9 @@
       ],
       "spoilers": "Thor steals his crown early on, then restores Surtur to full power to destroy Asgard and Hela with it.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "legendary",
+      "costumeArt": null
     },
     {
       "id": "collector",
@@ -2921,7 +3079,9 @@
       ],
       "spoilers": "His Knowhere museum is wrecked when the Power Stone flares; Thanos later attacks Knowhere for the Reality Stone era.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "grandmaster",
@@ -2954,7 +3114,9 @@
       ],
       "spoilers": "Thor escapes his games; the Grandmaster is overthrown in a revolution led by Korg’s allies as Thor leaves Sakaar.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "korg",
@@ -2986,7 +3148,9 @@
       ],
       "spoilers": "He helps free Sakaar’s slaves, joins Thor’s circle, and survives into Love and Thunder and beyond.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "pepper-potts",
@@ -3019,7 +3183,9 @@
       ],
       "spoilers": "She wears Rescue in Endgame’s final battle, helps defeat Thanos’s army, and mourns Tony afterward.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "rare",
+      "costumeArt": null
     },
     {
       "id": "happy-hogan",
@@ -3052,7 +3218,9 @@
       ],
       "spoilers": "He helps raise & protect Spider-Man logistics, gets badly hurt in Far From Home, and remains Aunt May and Peter’s support.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "common",
+      "costumeArt": null
     },
     {
       "id": "phil-coulson",
@@ -3085,7 +3253,9 @@
       ],
       "spoilers": "Loki kills him in The Avengers; related series material explores his return and continued service.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     },
     {
       "id": "maria-hill",
@@ -3118,9 +3288,32 @@
       ],
       "spoilers": "She helps expose Hydra, coordinates Endgame-era efforts, and later falls in Secret Invasion.",
       "spoilersMore": "",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
+      "rarity": "uncommon",
+      "costumeArt": null
     }
   ],
   "ratingsAsOf": "2026-10-14",
-  "ratingsNote": "Rechecked against MCU feats: cosmic entities and chaos-magic at the top; Mark 85 / Ten Rings / Stormbreaker bumps for tech and weapon peaks; street-level heroes clustered 45–60. Stronger fighters usually win; upsets remain possible."
+  "ratingsNote": "Rechecked against MCU feats: cosmic entities and chaos-magic at the top; Mark 85 / Ten Rings / Stormbreaker bumps for tech and weapon peaks; street-level heroes clustered 45–60. Stronger fighters usually win; upsets remain possible.",
+  "gacha": {
+    "rates": {
+      "common": 0.55,
+      "uncommon": 0.28,
+      "rare": 0.12,
+      "epic": 0.04,
+      "legendary": 0.01
+    },
+    "bands": {
+      "common": "rating ≤45",
+      "uncommon": "46–65",
+      "rare": "66–80",
+      "epic": "81–90",
+      "legendary": "91–100"
+    },
+    "pullCost": 100,
+    "multiCost": 900,
+    "currency": "shards",
+    "note": "Rates locked by Marvel Hub 2026-10-14. Stronger MCU ratings = lower pull rate."
+  },
+  "dataBuild": "20261014gacha"
 }
