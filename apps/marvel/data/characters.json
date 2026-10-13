@@ -1,6 +1,6 @@
 {
   "version": 4,
-  "note": "Ratings are fan-estimated MCU power levels (rechecked Oct 2026), just for fun. Photos are freely licensed pictures of the actors (not character stills); see Photo credits. CGI/voice roles use illustrated avatars. costumeArt slots await Marvel Hub costume batches.",
+  "note": "Ratings are fan-estimated MCU power levels (rechecked Oct 2026), just for fun. Photos are freely licensed pictures of the actors (not character stills); see Photo credits. CGI/voice roles use illustrated avatars. costumeArt prefers Marvel Hub costume portraits when present.",
   "characters": [
     {
       "id": "iron-man",
@@ -129,7 +129,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Chris Hemsworth 2010 Comic-Con Cropped.jpg"
       },
-      "rarity": "legendary",
+      "rarity": "epic",
       "costumeArt": "img/costume/thor.jpg"
     },
     {
@@ -217,7 +217,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "file": "Scarlett Johansson by Gage Skidmore 2 (cropped).jpg"
       },
-      "rarity": "uncommon",
+      "rarity": "common",
       "costumeArt": "img/costume/black-widow.jpg"
     },
     {
@@ -259,8 +259,8 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Jeremy Renner SDCC 2014 (cropped).jpg"
       },
-      "rarity": "uncommon",
-      "costumeArt": null
+      "rarity": "common",
+      "costumeArt": "img/costume/hawkeye.jpg"
     },
     {
       "id": "spider-man",
@@ -476,7 +476,7 @@
         "file": "Paul Rudd (cropped) 2.jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/ant-man.jpg"
     },
     {
       "id": "wasp",
@@ -519,7 +519,7 @@
         "file": "Evangeline Lilly 2014 Comic Con (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/wasp.jpg"
     },
     {
       "id": "scarlet-witch",
@@ -605,7 +605,7 @@
         "file": "Paul Bettany (48469131797) (cropped).jpg"
       },
       "rarity": "epic",
-      "costumeArt": null
+      "costumeArt": "img/costume/vision.jpg"
     },
     {
       "id": "falcon",
@@ -648,7 +648,7 @@
         "file": "Anthony Mackie by Gage Skidmore 2 (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/falcon.jpg"
     },
     {
       "id": "winter-soldier",
@@ -690,7 +690,7 @@
         "file": "Sebastian Stan by Gage Skidmore 2 (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/winter-soldier.jpg"
     },
     {
       "id": "war-machine",
@@ -733,7 +733,7 @@
         "file": "Don Cheadle UNEP 2011 (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/war-machine.jpg"
     },
     {
       "id": "loki",
@@ -853,7 +853,7 @@
         "file": "Chris Pratt (29735415436) (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/star-lord.jpg"
     },
     {
       "id": "gamora",
@@ -894,8 +894,8 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Zoe Saldana (28046630643) (cropped).jpg"
       },
-      "rarity": "rare",
-      "costumeArt": null
+      "rarity": "uncommon",
+      "costumeArt": "img/costume/gamora.jpg"
     },
     {
       "id": "drax",
@@ -937,7 +937,7 @@
         "file": "Dave Bautista by Gage Skidmore.jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/drax.jpg"
     },
     {
       "id": "rocket",
@@ -970,8 +970,8 @@
       ],
       "spoilers": "Rocket was created by the High Evolutionary from a raccoon and tortured as an experiment, which is revealed in Vol. 3. He loses his friends Lylla, Teefs and Floor, and nearly dies in the present when the High Evolutionary tries to reclaim him. Rocket rejects the pull of revenge and spares the High Evolutionary, who is later locked up on Knowhere. By the end, Rocket leads a new team of Guardians that includes Groot.",
       "photoNote": "Rocket is a CGI/voice character (voiced by Bradley Cooper). No actor photo is used; this is an original illustrated avatar.",
-      "rarity": "uncommon",
-      "costumeArt": null
+      "rarity": "common",
+      "costumeArt": "img/costume/rocket.jpg"
     },
     {
       "id": "groot",
@@ -1005,7 +1005,7 @@
       "spoilers": "In the first film, Groot sacrifices himself, shielding his friends from a crash with his branches, and is then reborn as Baby Groot. He grows into a moody teenager by Infinity War, where he is turned to dust. He returns in Endgame and joins the final battle. In Vol. 3 he is an adult, helps save Rocket, and sticks with Rocket to lead the next Guardians.",
       "photoNote": "Groot is a CGI/voice character (voiced by Vin Diesel). No actor photo is used; this is an original illustrated avatar.",
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/groot.jpg"
     },
     {
       "id": "nebula",
@@ -1088,7 +1088,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Pom Klementieff Comic Con Brussels 2018 (39983390974).jpg"
       },
-      "rarity": "uncommon",
+      "rarity": "common",
       "costumeArt": null
     },
     {
@@ -1172,7 +1172,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Benedict Wong (28352087500) (cropped).jpg"
       },
-      "rarity": "rare",
+      "rarity": "uncommon",
       "costumeArt": null
     },
     {
@@ -1377,7 +1377,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Hugo Weaving 2011.jpg"
       },
-      "rarity": "uncommon",
+      "rarity": "common",
       "costumeArt": null
     },
     {
@@ -1419,7 +1419,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "file": "Lee Pace - Guardians of the Galaxy premiere - July 2014 (cropped).jpg"
       },
-      "rarity": "rare",
+      "rarity": "uncommon",
       "costumeArt": null
     },
     {
@@ -1505,7 +1505,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
         "file": "Tenoch Huerta (cropped) (cropped).jpg"
       },
-      "rarity": "epic",
+      "rarity": "rare",
       "costumeArt": null
     },
     {
@@ -1631,7 +1631,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
         "file": "Oscar Isaac by Gage Skidmore.jpg"
       },
-      "rarity": "rare",
+      "rarity": "uncommon",
       "costumeArt": null
     },
     {
@@ -1674,7 +1674,7 @@
         "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
         "file": "Charlie Cox 02 (29327255635) (cropped).jpg"
       },
-      "rarity": "uncommon",
+      "rarity": "common",
       "costumeArt": null
     },
     {
@@ -1870,7 +1870,7 @@
       "spoilers": "Fury reveals the Avengers Initiative after the Battle of New York era begins, fakes his death in The Winter Soldier, and later works with Skrulls and Carol Danvers across Secret Invasion-era stories.",
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
-      "rarity": "uncommon",
+      "rarity": "common",
       "costumeArt": null
     },
     {
@@ -1939,7 +1939,7 @@
       "spoilers": "She confronts Natasha in Black Widow, later hunts a “Hawkeye” in the Hawkeye series, and appears in Thunderbolts-era material.",
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
-      "rarity": "uncommon",
+      "rarity": "common",
       "costumeArt": null
     },
     {
@@ -1973,7 +1973,7 @@
       "spoilers": "She teams with Clint against the Tracksuit Mafia and Eleanor Bishop’s dealings with Kingpin, then keeps the Hawkeye name.",
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
-      "rarity": "uncommon",
+      "rarity": "common",
       "costumeArt": null
     },
     {
@@ -2076,7 +2076,7 @@
       "spoilers": "He refuses the heart-shaped herb path at first, later aids T’Challa and Shuri, and becomes a key political voice in Wakanda Forever.",
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
-      "rarity": "rare",
+      "rarity": "uncommon",
       "costumeArt": null
     },
     {
@@ -2523,7 +2523,7 @@
       "spoilers": "She becomes Photon/Spectrum-class after WandaVision, later appears in The Marvels dealing with wormhole and family fallout.",
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
-      "rarity": "epic",
+      "rarity": "rare",
       "costumeArt": null
     },
     {
@@ -2731,7 +2731,7 @@
       "spoilers": "Antonia is freed from mind control at the end of Black Widow after Natasha confronts Dreykov.",
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
-      "rarity": "rare",
+      "rarity": "uncommon",
       "costumeArt": null
     },
     {
@@ -2766,7 +2766,7 @@
       "spoilers": "Hank and Hope stabilise her; she later appears among Thunderbolts-era antiheroes.",
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
-      "rarity": "rare",
+      "rarity": "uncommon",
       "costumeArt": null
     },
     {
@@ -2975,7 +2975,7 @@
       "spoilers": "He clears his name, fights Cottonmouth and Mariah, and joins the Defenders.",
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
-      "rarity": "rare",
+      "rarity": "uncommon",
       "costumeArt": null
     },
     {
@@ -3010,7 +3010,7 @@
       "spoilers": "Deadpool recruits a “worst” Wolverine variant to save his timeline from TVA-adjacent erasure in Deadpool & Wolverine.",
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
-      "rarity": "epic",
+      "rarity": "rare",
       "costumeArt": null
     },
     {
@@ -3080,7 +3080,7 @@
       "spoilers": "His Knowhere museum is wrecked when the Power Stone flares; Thanos later attacks Knowhere for the Reality Stone era.",
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
-      "rarity": "uncommon",
+      "rarity": "common",
       "costumeArt": null
     },
     {
@@ -3115,7 +3115,7 @@
       "spoilers": "Thor escapes his games; the Grandmaster is overthrown in a revolution led by Korg’s allies as Thor leaves Sakaar.",
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
-      "rarity": "rare",
+      "rarity": "uncommon",
       "costumeArt": null
     },
     {
@@ -3254,7 +3254,7 @@
       "spoilers": "Loki kills him in The Avengers; related series material explores his return and continued service.",
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
-      "rarity": "uncommon",
+      "rarity": "common",
       "costumeArt": null
     },
     {
@@ -3289,7 +3289,7 @@
       "spoilers": "She helps expose Hydra, coordinates Endgame-era efforts, and later falls in Secret Invasion.",
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
-      "rarity": "uncommon",
+      "rarity": "common",
       "costumeArt": null
     }
   ],
@@ -3334,5 +3334,19 @@
       "thor"
     ],
     "note": "Marvel Hub costume portraits batch 1 — more coming"
+  },
+  "gachaBands": {
+    "common": "<=55",
+    "uncommon": "56-70",
+    "rare": "71-82",
+    "epic": "83-92",
+    "legendary": "93-100"
+  },
+  "gachaRates": {
+    "common": 0.55,
+    "uncommon": 0.28,
+    "rare": 0.12,
+    "epic": 0.04,
+    "legendary": 0.01
   }
 }

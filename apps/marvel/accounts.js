@@ -156,10 +156,10 @@
     if (!c) return 'common';
     if (c.rarity) return c.rarity;
     var p = +c.power || 0;
-    if (p <= 45) return 'common';
-    if (p <= 65) return 'uncommon';
-    if (p <= 80) return 'rare';
-    if (p <= 90) return 'epic';
+    if (p <= 55) return 'common';
+    if (p <= 70) return 'uncommon';
+    if (p <= 82) return 'rare';
+    if (p <= 92) return 'epic';
     return 'legendary';
   }
 
