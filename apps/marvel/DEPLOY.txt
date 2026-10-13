@@ -7,7 +7,7 @@ Marvel Hub deploy notes (2026-10-14 gacha)
 - Accounts: localStorage today (salted SHA-256 password hash in-browser). Guest progress
   migrates into a new account on register. Starter: 300 shards + 5 street-level characters.
 - Party Battle: PeerJS still free/no key. Keep working alongside gacha.
-- Cache-bust: ?v=20261014gacha ; marker data-build="20261014gacha" on #panel-account.
+- Cache-bust: ?v=20261014art12 ; marker data-build="20261014art12" on #panel-account.
 
 Optional multi-device sync (Dastan must do once in Cloudflare dashboard — no API keys invented):
 1. Create a D1 database (e.g. marvel_accounts) in the Pages project for groot.zynergy.studio.
@@ -15,3 +15,7 @@ Optional multi-device sync (Dastan must do once in Cloudflare dashboard — no A
 3. Add Pages Functions under functions/marvel/api/* and include "/marvel/api/*" in
    functions/_routes.json + public/_routes.json.
 4. Until then, accounts stay per-browser localStorage (fully playable).
+
+Costume art batch 1 (2026-10-14): 12 portraits in img/costume/
+(iron-man, captain-america, thor, hulk, black-widow, spider-man, doctor-strange,
+scarlet-witch, thanos, captain-marvel, black-panther, loki). Site prefers costumeArt.

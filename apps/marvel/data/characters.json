@@ -44,7 +44,7 @@
         "file": "Robert Downey Jr 2014 Comic Con (cropped).jpg"
       },
       "rarity": "epic",
-      "costumeArt": null
+      "costumeArt": "img/costume/iron-man.jpg"
     },
     {
       "id": "captain-america",
@@ -86,7 +86,7 @@
         "file": "Chris Evans by Gage Skidmore cropped.jpg"
       },
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/captain-america.jpg"
     },
     {
       "id": "thor",
@@ -130,7 +130,7 @@
         "file": "Chris Hemsworth 2010 Comic-Con Cropped.jpg"
       },
       "rarity": "legendary",
-      "costumeArt": null
+      "costumeArt": "img/costume/thor.jpg"
     },
     {
       "id": "hulk",
@@ -174,7 +174,7 @@
         "file": "Mark Ruffalo SDCC 2014 (cropped).jpg"
       },
       "rarity": "epic",
-      "costumeArt": null
+      "costumeArt": "img/costume/hulk.jpg"
     },
     {
       "id": "black-widow",
@@ -218,7 +218,7 @@
         "file": "Scarlett Johansson by Gage Skidmore 2 (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/black-widow.jpg"
     },
     {
       "id": "hawkeye",
@@ -304,7 +304,7 @@
         "file": "TomHolland-byPhilipRomano7 (cropped).jpg"
       },
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/spider-man.jpg"
     },
     {
       "id": "black-panther",
@@ -348,7 +348,7 @@
         "file": "Chadwick Boseman by Gage Skidmore July 2017 (cropped).jpg"
       },
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/black-panther.jpg"
     },
     {
       "id": "doctor-strange",
@@ -391,7 +391,7 @@
         "file": "Benedict Cumberbatch (48470894756) (cropped).jpg"
       },
       "rarity": "epic",
-      "costumeArt": null
+      "costumeArt": "img/costume/doctor-strange.jpg"
     },
     {
       "id": "captain-marvel",
@@ -434,7 +434,7 @@
         "file": "Brie Larson (cropped).jpg"
       },
       "rarity": "legendary",
-      "costumeArt": null
+      "costumeArt": "img/costume/captain-marvel.jpg"
     },
     {
       "id": "ant-man",
@@ -562,7 +562,7 @@
         "file": "Elizabeth Olsen 2 SDCC 2014 (cropped).jpg"
       },
       "rarity": "legendary",
-      "costumeArt": null
+      "costumeArt": "img/costume/scarlet-witch.jpg"
     },
     {
       "id": "vision",
@@ -776,7 +776,7 @@
         "file": "Tom Hiddleston 2010 Comic-Con Cropped.jpg"
       },
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/loki.jpg"
     },
     {
       "id": "thanos",
@@ -811,7 +811,7 @@
       "spoilers": "Thanos is revealed in The Avengers' mid-credits scene and gathers the Infinity Stones in Infinity War, sacrificing his adopted daughter Gamora to get the Soul Stone. He wipes out half of all life with a snap, and is then beheaded by Thor five years later after destroying the stones. In Endgame the 2014 Thanos is pulled into the present and attacks the Avengers' compound. He is finally dusted along with his army when Tony Stark snaps his fingers.",
       "photoNote": "Thanos is a CGI character (performed by Josh Brolin). No actor photo is used; this is an original illustrated avatar.",
       "rarity": "legendary",
-      "costumeArt": null
+      "costumeArt": "img/costume/thanos.jpg"
     },
     {
       "id": "star-lord",
@@ -3315,5 +3315,24 @@
     "currency": "shards",
     "note": "Rates locked by Marvel Hub 2026-10-14. Stronger MCU ratings = lower pull rate."
   },
-  "dataBuild": "20261014gacha"
+  "dataBuild": "20261014art12",
+  "costumeArtBatch": {
+    "asOf": "2026-10-14",
+    "count": 12,
+    "ids": [
+      "black-panther",
+      "black-widow",
+      "captain-america",
+      "captain-marvel",
+      "doctor-strange",
+      "hulk",
+      "iron-man",
+      "loki",
+      "scarlet-witch",
+      "spider-man",
+      "thanos",
+      "thor"
+    ],
+    "note": "Marvel Hub costume portraits batch 1 — more coming"
+  }
 }
