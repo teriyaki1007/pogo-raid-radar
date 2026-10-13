@@ -49,5 +49,39 @@
       "boom-bap",
       "pocket"
     ]
+  },
+  {
+    "id": "goodness-of-god-drums",
+    "title": "Goodness of God",
+    "artist": "Bethel Music / Jenn Johnson",
+    "instrument": "Drums",
+    "genre": "Contemporary Worship",
+    "tempo": "63 BPM",
+    "notes": "Practice/education. Worship ballad build; Ab major 4/4; Bethel/Jenn Johnson Victory arrangement.",
+    "audio": "files/goodness-of-god-drums.mp3",
+    "pdf": "files/goodness-of-god-drums.pdf",
+    "tags": [
+      "practice",
+      "education",
+      "worship",
+      "ballad"
+    ]
+  },
+  {
+    "id": "goodness-of-god-bass",
+    "title": "Goodness of God",
+    "artist": "Bethel Music / Jenn Johnson",
+    "instrument": "Bass",
+    "genre": "Contemporary Worship",
+    "tempo": "63 BPM",
+    "notes": "Practice/education. Ab concert root-focused worship bass; same arrangement.",
+    "audio": "files/goodness-of-god-bass.mp3",
+    "pdf": "files/goodness-of-god-bass.pdf",
+    "tags": [
+      "practice",
+      "education",
+      "worship",
+      "bass"
+    ]
   }
 ]
