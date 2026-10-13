@@ -1047,7 +1047,7 @@
         "file": "Karen Gillan (28584075851) (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/nebula.jpg"
     },
     {
       "id": "mantis",
@@ -1089,7 +1089,7 @@
         "file": "Pom Klementieff Comic Con Brussels 2018 (39983390974).jpg"
       },
       "rarity": "common",
-      "costumeArt": null
+      "costumeArt": "img/costume/mantis.jpg"
     },
     {
       "id": "shang-chi",
@@ -1131,7 +1131,7 @@
         "file": "Simu Liu (48469082216) cropped.jpg"
       },
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/shang-chi.jpg"
     },
     {
       "id": "wong",
@@ -1173,7 +1173,7 @@
         "file": "Benedict Wong (28352087500) (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/wong.jpg"
     },
     {
       "id": "ultron",
@@ -1209,7 +1209,7 @@
       "spoilersMore": "In the animated What If...? series, an alternate Ultron does conquer a universe.",
       "photoNote": "Ultron is a CGI/voice-and-motion-capture character (James Spader). No actor photo is used; this is an original illustrated avatar.",
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/ultron.jpg"
     },
     {
       "id": "hela",
@@ -1252,7 +1252,7 @@
         "file": "Cate Blanchett SDCC 2014 (cropped).jpg"
       },
       "rarity": "epic",
-      "costumeArt": null
+      "costumeArt": "img/costume/hela.jpg"
     },
     {
       "id": "killmonger",
@@ -1294,7 +1294,7 @@
         "file": "Michael B. Jordan by Gage Skidmore.jpg"
       },
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/killmonger.jpg"
     },
     {
       "id": "ego",
@@ -1336,7 +1336,7 @@
         "file": "Kurt Russell by Gage Skidmore.jpg"
       },
       "rarity": "legendary",
-      "costumeArt": null
+      "costumeArt": "img/costume/ego.jpg"
     },
     {
       "id": "red-skull",
@@ -1378,7 +1378,7 @@
         "file": "Hugo Weaving 2011.jpg"
       },
       "rarity": "common",
-      "costumeArt": null
+      "costumeArt": "img/costume/red-skull.jpg"
     },
     {
       "id": "ronan",
@@ -1420,7 +1420,7 @@
         "file": "Lee Pace - Guardians of the Galaxy premiere - July 2014 (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": null
+      "costumeArt": "img/costume/ronan.jpg"
     },
     {
       "id": "kang",
@@ -1463,7 +1463,7 @@
         "file": "Jonathan Majors (cropped).jpg"
       },
       "rarity": "epic",
-      "costumeArt": null
+      "costumeArt": "img/costume/kang.jpg"
     },
     {
       "id": "namor",
@@ -1506,7 +1506,7 @@
         "file": "Tenoch Huerta (cropped) (cropped).jpg"
       },
       "rarity": "rare",
-      "costumeArt": null
+      "costumeArt": "img/costume/namor.jpg"
     },
     {
       "id": "ms-marvel",
@@ -3315,25 +3315,49 @@
     "currency": "shards",
     "note": "Rates locked by Marvel Hub 2026-10-14. Stronger MCU ratings = lower pull rate."
   },
-  "dataBuild": "20261014art12",
+  "dataBuild": "20261014art36",
   "costumeArtBatch": {
     "asOf": "2026-10-14",
-    "count": 12,
+    "count": 36,
     "ids": [
+      "ant-man",
       "black-panther",
       "black-widow",
       "captain-america",
       "captain-marvel",
       "doctor-strange",
+      "drax",
+      "ego",
+      "falcon",
+      "gamora",
+      "groot",
+      "hawkeye",
+      "hela",
       "hulk",
       "iron-man",
+      "kang",
+      "killmonger",
       "loki",
+      "mantis",
+      "namor",
+      "nebula",
+      "red-skull",
+      "rocket",
+      "ronan",
       "scarlet-witch",
+      "shang-chi",
       "spider-man",
+      "star-lord",
       "thanos",
-      "thor"
+      "thor",
+      "ultron",
+      "vision",
+      "war-machine",
+      "wasp",
+      "winter-soldier",
+      "wong"
     ],
-    "note": "Marvel Hub costume portraits batch 1 — more coming"
+    "note": "Marvel Hub costume portraits batches 1–3 (36 total)"
   },
   "gachaBands": {
     "common": "<=55",

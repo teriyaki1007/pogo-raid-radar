@@ -1,4 +1,4 @@
-Marvel Hub deploy notes (2026-10-14 art24)
+Marvel Hub deploy notes (2026-10-14 art36)
 - Roster: 86 MCU characters; ratingsAsOf 2026-10-14; each has rarity band + costumeArt slot.
 - Gacha rates (Marvel Hub retune): Common ≤55 ~55%, Uncommon 56–70 ~28%, Rare 71–82 ~12%,
   Epic 83–92 ~4%, Legendary 93–100 ~1%.
@@ -7,7 +7,7 @@ Marvel Hub deploy notes (2026-10-14 art24)
 - Accounts: localStorage today (salted SHA-256 password hash in-browser). Guest progress
   migrates into a new account on register. Starter: 300 shards + 5 street-level characters.
 - Party Battle: PeerJS still free/no key. Keep working alongside gacha.
-- Cache-bust: ?v=20261014art24 ; marker data-build="20261014art24" on #panel-account.
+- Cache-bust: ?v=20261014art36 ; marker data-build="20261014art36" on #panel-account.
 
 Optional multi-device sync (Dastan must do once in Cloudflare dashboard — no API keys invented):
 1. Create a D1 database (e.g. marvel_accounts) in the Pages project for groot.zynergy.studio.
@@ -16,8 +16,10 @@ Optional multi-device sync (Dastan must do once in Cloudflare dashboard — no A
    functions/_routes.json + public/_routes.json.
 4. Until then, accounts stay per-browser localStorage (fully playable).
 
-Costume art batches (2026-10-14): 24 portraits in img/costume/
+Costume art batches (2026-10-14): 36 portraits in img/costume/
 Batch 1: iron-man, captain-america, thor, hulk, black-widow, spider-man, doctor-strange,
 scarlet-witch, thanos, captain-marvel, black-panther, loki.
 Batch 2: hawkeye, ant-man, wasp, vision, falcon, winter-soldier, war-machine, star-lord,
 gamora, drax, rocket, groot. Site prefers costumeArt over actor photos.
+Batch 3: nebula, mantis, shang-chi, wong, ultron, hela, killmonger, ego, red-skull, ronan,
+kang, namor.
