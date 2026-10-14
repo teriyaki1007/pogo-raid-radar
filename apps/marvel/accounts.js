@@ -171,7 +171,7 @@
 
   function grantBattleReward(kind, won, meta) {
     // kind: 'arena' | 'party'
-    // meta.difficulty (Arena): ~0.6–1.8 from enemy/player power — harder foes pay more
+    // meta.difficulty (Arena): ~0.6–1.8 — base 36 win / 10 loss shards, scaled by foe difficulty
     var p = progress();
     var shards, xp;
     if (kind === 'party') {
@@ -183,11 +183,11 @@
         scale = Math.max(0.6, Math.min(1.85, meta.difficulty));
       }
       if (won) {
-        shards = Math.max(8, Math.round(12 * scale));
+        shards = Math.max(24, Math.round(36 * scale));
         xp = Math.max(12, Math.round(20 * scale));
         p.battles.arenaW = (p.battles.arenaW || 0) + 1;
       } else {
-        shards = Math.max(4, Math.round(5 * Math.max(0.75, scale * 0.85)));
+        shards = Math.max(8, Math.round(10 * Math.max(0.75, scale * 0.85)));
         xp = Math.max(6, Math.round(8 * Math.max(0.75, scale * 0.85)));
         p.battles.arenaL = (p.battles.arenaL || 0) + 1;
       }
