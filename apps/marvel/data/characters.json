@@ -4995,7 +4995,8 @@
       "spoilers": "She helps retake Wakanda from Killmonger and later searches for answers in Wakanda Forever.",
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Nakia yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/nakia.jpg"
     },
     {
       "id": "ramonda",
@@ -5028,7 +5029,8 @@
       "spoilers": "She rules after T’Challa’s death and is killed by Namor’s tidal attack on the capital.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ramonda yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/ramonda.jpg"
     },
     {
       "id": "ayo",
@@ -5061,7 +5063,8 @@
       "spoilers": "She deactivates Bucky’s trigger words in TFATWS and remains a Dora pillar in Wakanda Forever.",
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ayo yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/ayo.jpg"
     },
     {
       "id": "klaue",
@@ -5095,7 +5098,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ulysses Klaue yet.",
       "typePrimary": "Tech",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/klaue.jpg"
     },
     {
       "id": "tchaka",
