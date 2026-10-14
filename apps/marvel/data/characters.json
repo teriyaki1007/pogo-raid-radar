@@ -6527,7 +6527,8 @@
       "spoilers": "Scott destroys his suit’s regulator; Cross is presumed dead—later remade as MODOK.",
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Yellowjacket yet.",
-      "typePrimary": "Tech"
+      "typePrimary": "Tech",
+      "costumeArt": "img/costume/yellowjacket.jpg"
     },
     {
       "id": "modok",
@@ -6562,7 +6563,8 @@
       "rarity": "uncommon",
       "photoNote": "M.O.D.O.K. is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
       "typePrimary": "Tech",
-      "typeSecondary": "Enhanced"
+      "typeSecondary": "Enhanced",
+      "costumeArt": "img/costume/modok.jpg"
     },
     {
       "id": "hank-pym",
@@ -6596,7 +6598,8 @@
       "spoilers": "He enters the Quantum Realm to find Janet, later helps fight Kang the Conqueror.",
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hank Pym yet.",
-      "typePrimary": "Tech"
+      "typePrimary": "Tech",
+      "costumeArt": "img/costume/hank-pym.jpg"
     },
     {
       "id": "janet-van-dyne",
@@ -6630,7 +6633,8 @@
       "spoilers": "Scott rescues her in Ant-Man and the Wasp; she warns against Kang and fights in Quantumania.",
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Janet van Dyne yet.",
-      "typePrimary": "Tech"
+      "typePrimary": "Tech",
+      "costumeArt": "img/costume/janet-van-dyne.jpg"
     },
     {
       "id": "bill-foster",
@@ -6664,7 +6668,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Bill Foster yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Tech"
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/bill-foster.jpg"
     },
     {
       "id": "luis",
@@ -6698,7 +6703,8 @@
       "spoilers": "He helps steal and save the day across Ant-Man films and runs X-Con Security.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Luis yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/luis.jpg"
     },
     {
       "id": "elektra",
@@ -6732,7 +6738,8 @@
       "spoilers": "She dies and returns as the Black Sky; the Defenders stop the Hand’s resurrection plan.",
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Elektra yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/elektra.jpg"
     },
     {
       "id": "bullseye",
@@ -6766,7 +6773,8 @@
       "spoilers": "He becomes Fisk’s agent and later murders Foggy Nelson in Born Again.",
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Bullseye yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/bullseye.jpg"
     },
     {
       "id": "echo",
@@ -8401,7 +8409,7 @@
     "currency": "shards",
     "note": "Rates locked by Marvel Hub 2026-10-14. Stronger MCU ratings = lower pull rate. Bands retuned with roster v5."
   },
-  "dataBuild": "20261014portraits32",
+  "dataBuild": "20261014portraits94",
   "costumeArtBatch": {
     "asOf": "2026-10-14",
     "count": 110,
