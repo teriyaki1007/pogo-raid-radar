@@ -1,7 +1,7 @@
 {
   "iso2": "FM",
   "name": "Micronesia",
-  "updatedAt": "2026-10-10T11:07:39+08:00",
+  "updatedAt": "2026-10-14T11:05:59+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,16 +26,16 @@
   ],
   "headlines": [
     {
+      "title": "Jeta: Shattering Micronesian Myths Through Teacher Workshops",
+      "source": "Honolulu Civil Beat",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZkpmOV9NcTNucGludTVNVWxnT0FrdHg2emZ3V0R4NlZPMnZWSXRIOHJjWFgtX1lrb0liWWctSFRMZ0xNZkdoSFVlODZKX2pkNk9XUmR6dFlHU25Bcl9PMUQ0NnhiOFZYT1ZXRV95RVR0UDRITDg1bkNPRjdLcmlEN1NkdEZDSzdpWkliUExHaW1ORjdOTjlGczRR?oc=5",
+      "publishedAt": "2026-10-13T18:08:09+08:00"
+    },
+    {
       "title": "First Pohnpeian-speaking ward outside Micronesia created in U.S.",
       "source": "Church News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVR0QlBtVzZJLUl2NkZiMlM0bzJZOEVWOVpWT29VeFBCWHg3dFJuQkN5NTlIZDEwaUg5UjFQMWFoVnBwYWpZT1lYeUxKR1NDWm13ZGMzeEVxMWMxNjZReWE1NTNnMEZLRWJwUldSNlFwNTBsRW5kd0VYd1B1NVFtNUczNnlPekVRSndJTzl4SlpmSkxvSi1yekVOSEhPMUpSOHlrN2oxZktyX0pLX1BNa2pzV3pfZw?oc=5",
       "publishedAt": "2026-10-07T06:33:44+08:00"
-    },
-    {
-      "title": "Entries open for International Scholarships Programme (Micronesia)",
-      "source": "fundsforNGOs - Grants and Resources for Sustainability",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUEJhWUhEN2FkQlRnSlptOUhULW9ubGpYSkR1REpOMzBMNnZWRXZydW5XVEJYMFhWZ2tOOHdiLXBVNFRrdndvQnlqU1RHZ3NkcTVfbldYeXFpTlhFQV9pcjhMZHB1TGJqQlhMWWVXaTBqT3JkUFhKMTdHZ1Q2S09PY2lfRTVpOERSLUQ3N3U0QlV6OHpIWnRiVFZiY0k1a3UtN29vT1M3Z0RKUdIBrwFBVV95cUxOSnM0ckZTTlBvV2FwdmJBcTEyY3NBY0R5RlMxMEJIaEhKMEpwTTVKMlZ4ZTRGYWVmN0JmMVBQa1k1cFlTN0wtbTZRQUM0OXJudWp5U2s4dVFqYlRWdU1QaTd4Z3pNZzlLM1l2NEVsVVA4WHAwQkJEdW0yTl9iVHRXX2tMRGlPMjZfcElENlotUHQ3LXAyel8tWGFOUnJjOWs1S0hqaFRzdFRjVVFWUXE0?oc=5",
-      "publishedAt": "2026-10-06T15:00:00+08:00"
     },
     {
       "title": "Europe to Micronesia: Why Flights Are So Expensive",
@@ -54,18 +54,6 @@
       "source": "guampdn.com",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ2Y1aUdEY2xHUTVaODVOTjdUa1hmbWJValdMczhfdVl5WV9faWgwUVZENFg1eDJrYzQ5RWQzSWlZQkhsdE90NGh2QlZyOXJxY2doU2w5RThRSVRLNW4wWUtCYUhIcjhkUXJLRzNsVXpWYlFNTlNES2RkS2lqazVkZG0wNWFqYTJib05jbjhmOXdfc1k2cDFYZXQwbkg3MmI3STFoS09WVmdjNUJ0OGpxcDdRYXd3MDBSeWdGRW1LaVNJbXF1N1hIdXVjc2FXNmxqakNhbA?oc=5",
       "publishedAt": "2026-09-28T14:33:00+08:00"
-    },
-    {
-      "title": "Strengthening U.S. Ties with the Pacific: Deputy Secretary Landau Engages Partners in Federated States of Micronesia, Solomon Islands, and Kiribati",
-      "source": "U.S. Department of State (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQX3NuaFBMWjc1ei1oUkdVOURYOXdoRmI5cERMZ2tYdnFTZGlKMl9ldkVQanMzWGZiVGp0S0dJYWE0NjB3cVpxSDhxc3pITlRRUjF2cTYycTJ2RUZabFdHUVFCQ1BXYzZBeDkwWG5sQkl0cnQyNEN4cHJBMTQ0YUpGdEJNUUNjR2JJNUZ5alJ0Qmo5TjdDMDR0cWdqa3g1bmIxQ2I4VUNSNUlfengwMHdteTBVekZsLUpmV20wVGQzMTQ0aFN6ZkswalFzYzBuaXpVMTQ5aVBKRXZUQnZTMW9lUFdUNFVyVnQwVUtVRkhoY0FnaWNmN1puaWQwRW8wU0RrYk1KV2pEbXozdUVzc2ppMTB1c21lUVZBWE9pbktjODV0SWxxMmRDMkpGVTFwaXBaaGpr?oc=5",
-      "publishedAt": "2026-09-11T15:00:00+08:00"
-    },
-    {
-      "title": "Climate-hit Micronesia calls for cultural rights protections",
-      "source": "ohchr",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNV3ZjUVRyaWlRSjlPT1Q1bXpPclpRWWFLdXJrWkVLWnR2OEZ0OGcyelpwVVFqaHdsOVdsZWR5ZE1Ob2tQdTEwUXFPYjN3c1ZlQ0hoZmtPNlVibTRCbHZjZGlQMU5LX0NwX2ZxZnlzeUR1aE1xZ2VXVGJrZUJmN1dTVDlfUy0zWVJPREYtanBiUDRtT1drZmpWYWIzdlRidw?oc=5",
-      "publishedAt": "2026-09-09T15:00:00+08:00"
     }
   ]
 }
