@@ -731,11 +731,15 @@
       $('#partyFighters').innerHTML = st.players.map(function (p) {
         var c = byId[p.charId]; if (!c) return '';
         var dead = p.hp <= 0;
-        return '<div class="pf' + (p.id === turnId && st.phase === 'fighting' ? ' turn' : '') + (dead ? ' dead' : '') + '" style="--a:' + c.theme.accent + '">' +
+        var sh = Math.max(0, +p.shield || 0);
+        var stunned = !!p.stunned;
+        return '<div class="pf' + (p.id === turnId && st.phase === 'fighting' ? ' turn' : '') + (dead ? ' dead' : '') + (stunned ? ' stunned' : '') + '" style="--a:' + c.theme.accent + '">' +
           '<div class="pf-art">' + art(c) + '</div>' +
-          '<div class="pf-name">' + esc(c.name) + '</div>' +
+          '<div class="pf-name">' + esc(c.name) + (stunned ? ' <span class="pf-stun">STUN</span>' : '') + '</div>' +
           '<div class="pf-player">' + esc(p.name) + '</div>' +
-          '<div class="hp" role="progressbar" aria-valuenow="' + p.hp + '" aria-valuemin="0" aria-valuemax="100"><i style="width:' + p.hp + '%"></i><span>' + p.hp + '</span></div></div>';
+          '<div class="hp' + (p.hp <= 30 ? ' low' : '') + '" role="progressbar" aria-valuenow="' + p.hp + '" aria-valuemin="0" aria-valuemax="100"><i style="width:' + p.hp + '%"></i><span>' + p.hp + '</span></div>' +
+          (sh ? '<div class="shield" role="progressbar" aria-valuenow="' + sh + '" aria-valuemin="0" aria-valuemax="45"><i style="width:' + Math.min(100, (sh / 45) * 100) + '%"></i><span>Shield ' + sh + '</span></div>' : '') +
+          '</div>';
       }).join('');
       $('#partyLog').innerHTML = (st.log || []).map(function (l) { return '<li>' + esc(l) + '</li>'; }).join('');
 
@@ -745,17 +749,31 @@
         var me2 = st.players.filter(function (p) { return p.id === party.localId; })[0];
         var mc = me2 && byId[me2.charId];
         var foes = st.players.filter(function (p) { return p.id !== party.localId && p.hp > 0; });
-        $('#partyTargetLbl').hidden = foes.length <= 1;
+        var kit = (window.MarvelBattle && window.MarvelBattle.abilityKit)
+          ? window.MarvelBattle.abilityKit(mc && mc.abilities)
+          : (mc && mc.abilities ? mc.abilities : ['Strike']).map(function (a) {
+            return { name: a, type: 'damage', label: 'ATK', needsTarget: true };
+          });
         if (!partyTargetId || !foes.some(function (f) { return f.id === partyTargetId; })) {
           partyTargetId = foes[0] ? foes[0].id : null;
         }
-        $('#partyTargets').innerHTML = foes.length <= 1 ? '' : foes.map(function (f) {
+        var showTargets = foes.length > 1;
+        $('#partyTargetLbl').hidden = !showTargets;
+        $('#partyTargets').innerHTML = !showTargets ? '' : foes.map(function (f) {
           var fc = byId[f.charId];
           return '<button type="button" data-target="' + f.id + '" aria-pressed="' + (f.id === partyTargetId) + '">' + esc(fc ? fc.name : f.name) + '</button>';
         }).join('');
-        $('#partyAbilities').innerHTML = (mc && mc.abilities ? mc.abilities : ['Strike']).map(function (a) {
-          return '<button type="button" data-ability="' + esc(a) + '">' + esc(a) + '</button>';
+        $('#partyAbilities').innerHTML = kit.map(function (a) {
+          var tip = a.needsTarget
+            ? (a.type === 'pierce' ? 'Pierce — ignores shield' : a.type === 'stun' ? 'Stun — damage + skip their next turn' : 'Attack')
+            : (a.type === 'heal' ? 'Heal yourself' : 'Gain shield');
+          return '<button type="button" class="ab ab-' + a.type + '" data-ability="' + esc(a.name) + '" data-needs-target="' + (a.needsTarget ? '1' : '0') + '" title="' + esc(tip) + '">' +
+            '<span class="ab-tag">' + esc(a.label) + '</span> ' + esc(a.name) + '</button>';
         }).join('');
+        var moveHint = $('#partyMoveHint');
+        if (moveHint) {
+          moveHint.textContent = 'Pick an ability — ATK / PIERCE / STUN need a target; HEAL / SHIELD are self.';
+        }
       }
     }
   }
@@ -779,15 +797,23 @@
         });
       });
     });
-    $('#partyJoin').addEventListener('click', function () {
+    function doPartyJoin() {
       ensureParty(function () {
         var code = window.MarvelParty.normalizeCode($('#partyCodeIn').value);
+        if (!code || code.length < 4) {
+          $('#partyStatus').textContent = 'Enter the 4-character party code from the host.';
+          return;
+        }
         $('#partyStatus').textContent = 'Joining ' + code + '…';
         makeSession().join(code, function (err) {
           if (err) return;
           renderParty();
         });
       });
+    }
+    $('#partyJoin').addEventListener('click', doPartyJoin);
+    $('#partyCodeIn').addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') { e.preventDefault(); doPartyJoin(); }
     });
     $('#partyCopy').addEventListener('click', function () {
       var c = $('#partyCodeOut').textContent;

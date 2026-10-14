@@ -134,12 +134,220 @@
       .map(function (x) { return x.id; });
   }
 
+  // Ability effect types for Party combat. Characters keep flavor ability names in
+  // characters.json; Hub can later add explicit `effects` without breaking this.
+  var EFFECT_TYPES = ['damage', 'pierce', 'shield', 'heal', 'stun'];
+  var EFFECT_LABEL = {
+    damage: 'ATK',
+    pierce: 'PIERCE',
+    shield: 'SHIELD',
+    heal: 'HEAL',
+    stun: 'STUN'
+  };
+  var EFFECT_NEEDS_TARGET = {
+    damage: true,
+    pierce: true,
+    stun: true,
+    shield: false,
+    heal: false
+  };
+
+  function classifyAbilityKeyword(name) {
+    var s = String(name || '').toLowerCase();
+    if (/heal|regen|restor|vital|empath|life force|recover/.test(s)) return 'heal';
+    if (/shield|armou?r|barrier|protect|guard|absorb|force field|ward|deflect/.test(s)) return 'shield';
+    if (/stun|freeze|paralys|sleep|hypno|disable|knock.?out|mind control|mind influence|charm|confuse|petrif|bind|web/.test(s)) return 'stun';
+    if (/pierce|penetrat|phase|precision|snipe|assassin|ignore|through|arrow|quantum|sonic|vibranium strike/.test(s)) return 'pierce';
+    if (/blast|strike|punch|kick|slash|beam|bolt|lightning|fire|flame|hammer|strength|smash|shot|blast|rage|fury|godly|super.?soldier|claw|blade|repulsor|photon|energy|magic|chaos|odinf/.test(s)) return 'damage';
+    return null;
+  }
+
+  /**
+   * Build a strategic kit from a character's ability name list.
+   * Keyword match first; fill remaining slots so every kit has real choices
+   * (damage / pierce / shield / heal / stun) without editing characters.json.
+   * Optional per-ability override: if abilities[i] is {name, effect} Hub can drop that later.
+   */
+  function abilityKit(abilities) {
+    var raw = abilities && abilities.length ? abilities : ['Strike'];
+    var names = [];
+    var forced = [];
+    for (var i = 0; i < raw.length; i++) {
+      var a = raw[i];
+      if (a && typeof a === 'object') {
+        names.push(String(a.name || a.id || 'Strike'));
+        var fe = String(a.effect || a.type || '').toLowerCase();
+        forced.push(EFFECT_TYPES.indexOf(fe) >= 0 ? fe : null);
+      } else {
+        names.push(String(a || 'Strike'));
+        forced.push(null);
+      }
+    }
+    var types = names.map(function (n, idx) {
+      return forced[idx] || classifyAbilityKeyword(n);
+    });
+    var have = {};
+    types.forEach(function (t) { if (t) have[t] = true; });
+    var fillOrder = ['damage', 'pierce', 'shield', 'stun', 'heal'];
+    for (var j = 0; j < types.length; j++) {
+      if (types[j]) continue;
+      var pick = null;
+      for (var k = 0; k < fillOrder.length; k++) {
+        if (!have[fillOrder[k]]) { pick = fillOrder[k]; break; }
+      }
+      if (!pick) pick = fillOrder[j % fillOrder.length];
+      types[j] = pick;
+      have[pick] = true;
+    }
+    if (!have.damage) {
+      types[0] = 'damage';
+      have.damage = true;
+    }
+    return names.map(function (n, idx) {
+      var t = types[idx];
+      return {
+        name: n,
+        type: t,
+        label: EFFECT_LABEL[t] || 'ATK',
+        needsTarget: !!EFFECT_NEEDS_TARGET[t]
+      };
+    });
+  }
+
+  function resolveAbility(abilities, abilityName) {
+    var kit = abilityKit(abilities);
+    if (abilityName) {
+      for (var i = 0; i < kit.length; i++) {
+        if (kit[i].name === abilityName) return kit[i];
+      }
+    }
+    return kit[0];
+  }
+
+  function absorbDamage(hp, shield, raw) {
+    var s = Math.max(0, +shield || 0);
+    var h = Math.max(0, +hp || 0);
+    var d = Math.max(0, +raw || 0);
+    var fromShield = Math.min(s, d);
+    s -= fromShield;
+    d -= fromShield;
+    h = Math.max(0, h - d);
+    return { hp: h, shield: s, absorbed: fromShield, hpLost: d };
+  }
+
+  /**
+   * Apply one Party ability. Pure — returns next fighter stats + log bits.
+   * atk/def: { hp, shield, stunned, power }
+   * ability: from resolveAbility / abilityKit entry
+   */
+  function applyAbility(atk, def, ability, rng) {
+    rng = rng || Math.random;
+    var type = (ability && ability.type) || 'damage';
+    var name = (ability && ability.name) || 'Strike';
+    var atkHp = Math.max(0, +atk.hp || 0);
+    var atkShield = Math.max(0, +atk.shield || 0);
+    var defHp = def ? Math.max(0, +def.hp || 0) : 0;
+    var defShield = def ? Math.max(0, +def.shield || 0) : 0;
+    var defStunned = def ? !!def.stunned : false;
+    var out = {
+      type: type,
+      ability: name,
+      damage: 0,
+      crit: false,
+      healed: 0,
+      shieldGained: 0,
+      stunned: false,
+      pierced: false,
+      absorbed: 0,
+      atkHp: atkHp,
+      atkShield: atkShield,
+      defHp: defHp,
+      defShield: defShield,
+      defStunned: defStunned,
+      needsTarget: !!EFFECT_NEEDS_TARGET[type]
+    };
+
+    if (type === 'heal') {
+      var heal = Math.round(14 + rng() * 10 + Math.min(8, (+atk.power || 50) * 0.06));
+      heal = Math.max(12, Math.min(28, heal));
+      var nh = Math.min(100, atkHp + heal);
+      out.healed = nh - atkHp;
+      out.atkHp = nh;
+      return out;
+    }
+
+    if (type === 'shield') {
+      var gain = Math.round(16 + rng() * 10 + Math.min(6, (+atk.power || 50) * 0.05));
+      gain = Math.max(14, Math.min(30, gain));
+      var ns = Math.min(45, atkShield + gain);
+      out.shieldGained = ns - atkShield;
+      out.atkShield = ns;
+      return out;
+    }
+
+    // Offensive types need a living defender
+    if (!def || defHp <= 0) return out;
+
+    var scale = type === 'stun' ? 0.58 : type === 'pierce' ? 0.88 : 1;
+    var hit = turnDamage(atk.power, def.power, rng);
+    var dmg = Math.max(3, Math.round(hit.damage * scale));
+    if (type === 'stun') dmg = Math.max(3, Math.min(22, dmg));
+    out.damage = dmg;
+    out.crit = !!hit.crit && type !== 'stun';
+
+    if (type === 'pierce') {
+      out.pierced = true;
+      out.defHp = Math.max(0, defHp - dmg);
+      out.defShield = defShield; // untouched
+      out.absorbed = 0;
+    } else {
+      var ab = absorbDamage(defHp, defShield, dmg);
+      out.defHp = ab.hp;
+      out.defShield = ab.shield;
+      out.absorbed = ab.absorbed;
+    }
+
+    if (type === 'stun') {
+      out.stunned = true;
+      out.defStunned = true;
+    }
+    return out;
+  }
+
+  function formatAbilityLine(atkName, defName, result) {
+    var ab = result.ability;
+    if (result.type === 'heal') {
+      return atkName + ' uses ' + ab + ' and heals ' + result.healed + ' HP (' + result.atkHp + ' HP)';
+    }
+    if (result.type === 'shield') {
+      return atkName + ' uses ' + ab + ' — shield +' + result.shieldGained + ' (shield ' + result.atkShield + ')';
+    }
+    var bits = atkName + ' uses ' + ab;
+    if (result.type === 'pierce') bits += ' (pierce)';
+    if (result.type === 'stun') bits += ' (stun)';
+    bits += ' on ' + defName + ' for ' + result.damage;
+    if (result.crit) bits += ' CRIT!';
+    if (result.absorbed) bits += ' [' + result.absorbed + ' blocked]';
+    if (result.stunned) bits += ' — stunned!';
+    if (result.defHp <= 0) bits += ' — K.O.!';
+    else bits += ' (' + result.defHp + ' HP' + (result.defShield ? ', shield ' + result.defShield : '') + ')';
+    return bits;
+  }
+
   return {
     winChance: winChance,
     drawWinner: drawWinner,
     planFight: planFight,
     splitInt: splitInt,
     turnDamage: turnDamage,
-    initiativeOrder: initiativeOrder
+    initiativeOrder: initiativeOrder,
+    EFFECT_TYPES: EFFECT_TYPES,
+    EFFECT_LABEL: EFFECT_LABEL,
+    abilityKit: abilityKit,
+    resolveAbility: resolveAbility,
+    applyAbility: applyAbility,
+    absorbDamage: absorbDamage,
+    formatAbilityLine: formatAbilityLine,
+    classifyAbilityKeyword: classifyAbilityKeyword
   };
 });

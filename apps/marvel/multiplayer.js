@@ -59,6 +59,8 @@
         charId: null,
         ready: false,
         hp: 100,
+        shield: 0,
+        stunned: false,
         connected: true
       }],
       turnOrder: [],
@@ -69,19 +71,33 @@
     };
   };
 
+  PartySession.prototype._peerOpts = function () {
+    // Public STUN only — helps phone/laptop NATs without any API key.
+    return {
+      debug: 0,
+      config: {
+        iceServers: [
+          { urls: 'stun:stun.l.google.com:19302' },
+          { urls: 'stun:stun1.l.google.com:19302' }
+        ]
+      }
+    };
+  };
+
   PartySession.prototype._mkPeer = function (id, cb) {
     if (typeof root.Peer !== 'function') {
       cb(new Error('PeerJS failed to load. Check your network.'));
       return;
     }
-    var peer = id ? new root.Peer(id, { debug: 0 }) : new root.Peer({ debug: 0 });
+    var opts = this._peerOpts();
+    var peer = id ? new root.Peer(id, opts) : new root.Peer(opts);
     var done = false;
     var t = setTimeout(function () {
       if (done) return;
       done = true;
       try { peer.destroy(); } catch (e) {}
       cb(new Error('Could not reach the free PeerJS lobby server. Try again in a moment.'));
-    }, 12000);
+    }, 15000);
     peer.on('open', function (openId) {
       if (done) return;
       done = true;
@@ -172,9 +188,9 @@
       var opened = false;
       var timer = setTimeout(function () {
         if (opened) return;
-        self.onError(new Error('No room found for code ' + code + '. Check the code or ask the host to create again.'));
+        self.onError(new Error('No room found for code ' + code + '. Check the code, keep both tabs open, or ask the host to create again.'));
         if (cb) cb(new Error('timeout'));
-      }, 10000);
+      }, 15000);
       conn.on('open', function () {
         opened = true;
         clearTimeout(timer);
@@ -250,6 +266,8 @@
         charId: null,
         ready: false,
         hp: 100,
+        shield: 0,
+        stunned: false,
         connected: true,
         _peer: conn.peer
       });
@@ -339,7 +357,10 @@
     }
     // Drop unready from this fight
     this.state.players = ready.map(function (p) {
-      return { id: p.id, name: p.name, charId: p.charId, ready: true, hp: 100, connected: true, _peer: p._peer };
+      return {
+        id: p.id, name: p.name, charId: p.charId, ready: true,
+        hp: 100, shield: 0, stunned: false, connected: true, _peer: p._peer
+      };
     });
     var self = this;
     var order = B.initiativeOrder(this.state.players.map(function (p) {
@@ -381,23 +402,52 @@
     var atkC = this.byId[atkP.charId];
     if (!atkC) return;
 
-    var alive = this.alivePlayers().filter(function (p) { return p.id !== playerId; });
-    if (!alive.length) return;
+    var resolved = B.resolveAbility(atkC.abilities, ability);
+    var needsTarget = resolved.needsTarget;
     var defP = null;
-    if (targetId) defP = this._player(targetId);
-    if (!defP || defP.hp <= 0 || defP.id === playerId) defP = alive[0];
-    var defC = this.byId[defP.charId];
-    if (!defC) return;
+    var defC = null;
 
-    var abs = atkC.abilities && atkC.abilities.length ? atkC.abilities : ['a fierce strike'];
-    var ab = ability && abs.indexOf(ability) >= 0 ? ability : abs[Math.floor(Math.random() * abs.length)];
-    var hit = B.turnDamage(atkC.power, defC.power);
-    defP.hp = Math.max(0, defP.hp - hit.damage);
-    var line = atkC.name + ' uses ' + ab + ' on ' + defC.name + ' for ' + hit.damage + (hit.crit ? ' CRIT!' : '') +
-      (defP.hp <= 0 ? ' — K.O.!' : ' (' + defP.hp + ' HP left)');
-    this.state.log = (this.state.log || []).concat([line]).slice(-12);
+    if (needsTarget) {
+      var alive = this.alivePlayers().filter(function (p) { return p.id !== playerId; });
+      if (!alive.length) return;
+      if (targetId) defP = this._player(targetId);
+      if (!defP || defP.hp <= 0 || defP.id === playerId) defP = alive[0];
+      defC = this.byId[defP.charId];
+      if (!defC) return;
+    }
+
+    var result = B.applyAbility(
+      { hp: atkP.hp, shield: atkP.shield || 0, power: atkC.power },
+      defP ? { hp: defP.hp, shield: defP.shield || 0, power: defC.power, stunned: !!defP.stunned } : null,
+      resolved
+    );
+
+    atkP.hp = result.atkHp;
+    atkP.shield = result.atkShield;
+    if (defP) {
+      defP.hp = result.defHp;
+      defP.shield = result.defShield;
+      defP.stunned = !!result.defStunned;
+    }
+
+    var line = B.formatAbilityLine(atkC.name, defC ? defC.name : atkC.name, result);
+    this.state.log = (this.state.log || []).concat([line]).slice(-14);
     this.state.lastAction = {
-      atkId: playerId, defId: defP.id, ability: ab, damage: hit.damage, crit: hit.crit, defHp: defP.hp
+      atkId: playerId,
+      defId: defP ? defP.id : playerId,
+      ability: resolved.name,
+      type: resolved.type,
+      damage: result.damage,
+      crit: result.crit,
+      healed: result.healed,
+      shieldGained: result.shieldGained,
+      stunned: result.stunned,
+      pierced: result.pierced,
+      absorbed: result.absorbed,
+      defHp: defP ? defP.hp : atkP.hp,
+      defShield: defP ? defP.shield : atkP.shield,
+      atkHp: atkP.hp,
+      atkShield: atkP.shield
     };
 
     var still = this.alivePlayers();
@@ -411,15 +461,28 @@
       return;
     }
 
-    // advance turn to next alive
+    this._advanceTurn();
+    this._broadcastState();
+  };
+
+  PartySession.prototype._advanceTurn = function () {
+    if (!this.state || this.state.phase !== 'fighting') return;
     var n = this.state.turnOrder.length;
-    for (var i = 0; i < n; i++) {
+    if (!n) return;
+    for (var guard = 0; guard < n * 2; guard++) {
       this.state.turnIndex = (this.state.turnIndex + 1) % n;
       var nid = this.currentTurnId();
       var np = this._player(nid);
-      if (np && np.hp > 0) break;
+      if (!np || np.hp <= 0) continue;
+      if (np.stunned) {
+        np.stunned = false;
+        var nc = this.byId[np.charId];
+        var skipLine = (nc ? nc.name : np.name) + ' is stunned and skips a turn!';
+        this.state.log = (this.state.log || []).concat([skipLine]).slice(-14);
+        continue;
+      }
+      break;
     }
-    this._broadcastState();
   };
 
   PartySession.prototype.rematch = function () {
@@ -433,6 +496,8 @@
     this.state.log = [];
     this.state.players.forEach(function (p) {
       p.hp = 100;
+      p.shield = 0;
+      p.stunned = false;
       p.ready = false;
       // keep charId for convenience
     });
