@@ -5,9 +5,12 @@
 })(typeof self !== 'undefined' ? self : this, function () {
   'use strict';
 
-  // P(A wins) = rA / (rA + rB)
+  // P(A wins) = rA^3 / (rA^3 + rB^3) — sharper gaps (Legendary vs Common ~90%+)
   function winChance(rA, rB) {
-    return rA / (rA + rB);
+    var a = Math.pow(+rA || 0, 3);
+    var b = Math.pow(+rB || 0, 3);
+    var s = a + b;
+    return s > 0 ? a / s : 0.5;
   }
 
   // Decide the winner BEFORE any animation. Returns 'A' or 'B'.

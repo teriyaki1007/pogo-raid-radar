@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "note": "Ratings are fan-estimated MCU power levels (rechecked Oct 2026), just for fun. Photos are freely licensed pictures of the actors (not character stills); see Photo credits. CGI/voice roles use illustrated avatars. costumeArt prefers Marvel Hub costume portraits when present.",
+  "version": 5,
+  "note": "Ratings are fan-estimated MCU power levels (retuned Oct 2026 for sharper bands + power^3 win odds), just for fun. Photos are freely licensed pictures of the actors (not character stills) where present; CGI/voice roles and new expansion entries use illustrated avatars. costumeArt prefers Marvel Hub costume portraits when present.",
   "characters": [
     {
       "id": "iron-man",
@@ -13,7 +13,7 @@
         "year": 2008,
         "type": "Film"
       },
-      "power": 83,
+      "power": 86,
       "initials": "IM",
       "theme": {
         "c1": "#7a0f14",
@@ -57,7 +57,7 @@
         "year": 2011,
         "type": "Film"
       },
-      "power": 78,
+      "power": 80,
       "initials": "CA",
       "theme": {
         "c1": "#0b2a6b",
@@ -143,7 +143,7 @@
         "year": 2008,
         "type": "Film"
       },
-      "power": 86,
+      "power": 88,
       "initials": "HK",
       "theme": {
         "c1": "#0f4d22",
@@ -187,7 +187,7 @@
         "year": 2010,
         "type": "Film"
       },
-      "power": 54,
+      "power": 42,
       "initials": "BW",
       "theme": {
         "c1": "#1a1a22",
@@ -231,7 +231,7 @@
         "year": 2011,
         "type": "Film"
       },
-      "power": 51,
+      "power": 36,
       "initials": "HE",
       "theme": {
         "c1": "#3a1c6b",
@@ -273,7 +273,7 @@
         "year": 2016,
         "type": "Film"
       },
-      "power": 73,
+      "power": 75,
       "initials": "SM",
       "theme": {
         "c1": "#b21a24",
@@ -317,7 +317,7 @@
         "year": 2016,
         "type": "Film"
       },
-      "power": 77,
+      "power": 79,
       "initials": "BP",
       "theme": {
         "c1": "#0c0c14",
@@ -361,7 +361,7 @@
         "year": 2016,
         "type": "Film"
       },
-      "power": 88,
+      "power": 90,
       "initials": "DS",
       "theme": {
         "c1": "#6b1a1a",
@@ -404,7 +404,7 @@
         "year": 2019,
         "type": "Film"
       },
-      "power": 94,
+      "power": 96,
       "initials": "CM",
       "theme": {
         "c1": "#1f3fae",
@@ -447,7 +447,7 @@
         "year": 2015,
         "type": "Film"
       },
-      "power": 59,
+      "power": 62,
       "initials": "AM",
       "theme": {
         "c1": "#8a1c1c",
@@ -532,7 +532,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 95,
+      "power": 97,
       "initials": "SW",
       "theme": {
         "c1": "#5a0a1e",
@@ -575,7 +575,7 @@
         "year": 2015,
         "type": "Film"
       },
-      "power": 85,
+      "power": 87,
       "initials": "VI",
       "theme": {
         "c1": "#15623a",
@@ -618,7 +618,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 57,
+      "power": 60,
       "initials": "FA",
       "theme": {
         "c1": "#7a1f1f",
@@ -661,7 +661,7 @@
         "year": 2011,
         "type": "Film"
       },
-      "power": 64,
+      "power": 67,
       "initials": "WS",
       "theme": {
         "c1": "#2a2f3a",
@@ -703,7 +703,7 @@
         "year": 2008,
         "type": "Film"
       },
-      "power": 63,
+      "power": 66,
       "initials": "WM",
       "theme": {
         "c1": "#3a3f48",
@@ -746,7 +746,7 @@
         "year": 2011,
         "type": "Film"
       },
-      "power": 76,
+      "power": 78,
       "initials": "LK",
       "theme": {
         "c1": "#0f4a36",
@@ -789,7 +789,7 @@
         "year": 2012,
         "type": "Film"
       },
-      "power": 97,
+      "power": 99,
       "initials": "TN",
       "theme": {
         "c1": "#3d1a6b",
@@ -824,7 +824,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 56,
+      "power": 58,
       "initials": "SL",
       "theme": {
         "c1": "#7a1e3a",
@@ -866,7 +866,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 66,
+      "power": 68,
       "initials": "GA",
       "theme": {
         "c1": "#0f5a3a",
@@ -908,7 +908,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 60,
+      "power": 64,
       "initials": "DX",
       "theme": {
         "c1": "#2d4a7a",
@@ -950,7 +950,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 49,
+      "power": 38,
       "initials": "RK",
       "theme": {
         "c1": "#7a3d12",
@@ -984,7 +984,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 64,
+      "power": 63,
       "initials": "GR",
       "theme": {
         "c1": "#5a3a1a",
@@ -1018,7 +1018,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 62,
+      "power": 65,
       "initials": "NB",
       "theme": {
         "c1": "#0f2a6b",
@@ -1060,7 +1060,7 @@
         "year": 2017,
         "type": "Film"
       },
-      "power": 50,
+      "power": 34,
       "initials": "MT",
       "theme": {
         "c1": "#0f5a5a",
@@ -1102,7 +1102,7 @@
         "year": 2021,
         "type": "Film"
       },
-      "power": 73,
+      "power": 76,
       "initials": "SC",
       "theme": {
         "c1": "#7a1212",
@@ -1186,7 +1186,7 @@
         "year": 2015,
         "type": "Film"
       },
-      "power": 80,
+      "power": 82,
       "initials": "UL",
       "theme": {
         "c1": "#3a0f0f",
@@ -1222,7 +1222,7 @@
         "year": 2017,
         "type": "Film"
       },
-      "power": 90,
+      "power": 91,
       "initials": "HL",
       "theme": {
         "c1": "#0a2a1a",
@@ -1265,7 +1265,7 @@
         "year": 2018,
         "type": "Film"
       },
-      "power": 71,
+      "power": 74,
       "initials": "KM",
       "theme": {
         "c1": "#1a1a22",
@@ -1307,7 +1307,7 @@
         "year": 2017,
         "type": "Film"
       },
-      "power": 96,
+      "power": 98,
       "initials": "EG",
       "theme": {
         "c1": "#7a2a08",
@@ -1349,7 +1349,7 @@
         "year": 2011,
         "type": "Film"
       },
-      "power": 55,
+      "power": 44,
       "initials": "RS",
       "theme": {
         "c1": "#5a0f0f",
@@ -1391,7 +1391,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 68,
+      "power": 69,
       "initials": "RN",
       "theme": {
         "c1": "#3a1a6b",
@@ -1433,7 +1433,7 @@
         "year": 2021,
         "type": "Series"
       },
-      "power": 87,
+      "power": 91,
       "initials": "KG",
       "theme": {
         "c1": "#0f2a5a",
@@ -1519,7 +1519,7 @@
         "year": 2022,
         "type": "Series"
       },
-      "power": 61,
+      "power": 63,
       "initials": "MM",
       "theme": {
         "c1": "#b2185a",
@@ -1560,7 +1560,7 @@
         "year": 2022,
         "type": "Series"
       },
-      "power": 79,
+      "power": 81,
       "initials": "SH",
       "theme": {
         "c1": "#0f6b3a",
@@ -1602,7 +1602,7 @@
         "year": 2022,
         "type": "Series"
       },
-      "power": 67,
+      "power": 66,
       "initials": "MK",
       "theme": {
         "c1": "#1a1a2a",
@@ -1645,7 +1645,7 @@
         "year": 2015,
         "type": "Series"
       },
-      "power": 52,
+      "power": 40,
       "initials": "DD",
       "theme": {
         "c1": "#7a0f0f",
@@ -1688,7 +1688,7 @@
         "year": 2024,
         "type": "Film"
       },
-      "power": 75,
+      "power": 77,
       "initials": "DP",
       "theme": {
         "c1": "#8a0f14",
@@ -1730,7 +1730,7 @@
         "year": 2022,
         "type": "Film"
       },
-      "power": 84,
+      "power": 88,
       "initials": "GB",
       "theme": {
         "c1": "#1a1a1a",
@@ -1772,7 +1772,7 @@
         "year": 2016,
         "type": "Film"
       },
-      "power": 98,
+      "power": 100,
       "initials": "DM",
       "theme": {
         "c1": "#2a0a5a",
@@ -1806,7 +1806,7 @@
         "year": 2011,
         "type": "Film"
       },
-      "power": 93,
+      "power": 95,
       "initials": "OD",
       "theme": {
         "c1": "#3a3a5a",
@@ -1849,7 +1849,7 @@
         "year": 2008,
         "type": "Film"
       },
-      "power": 48,
+      "power": 32,
       "initials": "NF",
       "theme": {
         "c1": "#1a1a1a",
@@ -1884,7 +1884,7 @@
         "year": 2015,
         "type": "Film"
       },
-      "power": 72,
+      "power": 73,
       "initials": "QS",
       "theme": {
         "c1": "#4a5568",
@@ -1918,7 +1918,7 @@
         "year": 2021,
         "type": "Film"
       },
-      "power": 55,
+      "power": 38,
       "initials": "YB",
       "theme": {
         "c1": "#2d3a2e",
@@ -1953,7 +1953,7 @@
         "year": 2021,
         "type": "Series"
       },
-      "power": 50,
+      "power": 30,
       "initials": "KB",
       "theme": {
         "c1": "#1a237e",
@@ -2022,7 +2022,7 @@
         "year": 2018,
         "type": "Film"
       },
-      "power": 58,
+      "power": 59,
       "initials": "OK",
       "theme": {
         "c1": "#b71c1c",
@@ -2056,7 +2056,7 @@
         "year": 2018,
         "type": "Film"
       },
-      "power": 70,
+      "power": 63,
       "initials": "MB",
       "theme": {
         "c1": "#3e2723",
@@ -2124,7 +2124,7 @@
         "year": 2011,
         "type": "Film"
       },
-      "power": 88,
+      "power": 85,
       "initials": "JF",
       "theme": {
         "c1": "#0d47a1",
@@ -2227,7 +2227,7 @@
         "year": 2023,
         "type": "Film"
       },
-      "power": 86,
+      "power": 89,
       "initials": "AW",
       "theme": {
         "c1": "#f9a825",
@@ -2262,7 +2262,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 62,
+      "power": 60,
       "initials": "YD",
       "theme": {
         "c1": "#4a148c",
@@ -2330,7 +2330,7 @@
         "year": 2021,
         "type": "Film"
       },
-      "power": 89,
+      "power": 88,
       "initials": "IK",
       "theme": {
         "c1": "#1565c0",
@@ -2365,7 +2365,7 @@
         "year": 2021,
         "type": "Film"
       },
-      "power": 78,
+      "power": 79,
       "initials": "SE",
       "theme": {
         "c1": "#004d40",
@@ -2399,7 +2399,7 @@
         "year": 2021,
         "type": "Film"
       },
-      "power": 84,
+      "power": 85,
       "initials": "TH",
       "theme": {
         "c1": "#eceff1",
@@ -2433,7 +2433,7 @@
         "year": 2022,
         "type": "Film"
       },
-      "power": 76,
+      "power": 73,
       "initials": "IR",
       "theme": {
         "c1": "#b71c1c",
@@ -2468,7 +2468,7 @@
         "year": 2015,
         "type": "Film"
       },
-      "power": 60,
+      "power": 58,
       "initials": "CL",
       "theme": {
         "c1": "#b71c1c",
@@ -2502,7 +2502,7 @@
         "year": 2019,
         "type": "Film"
       },
-      "power": 82,
+      "power": 81,
       "initials": "MR",
       "theme": {
         "c1": "#4a148c",
@@ -2572,7 +2572,7 @@
         "year": 2023,
         "type": "Film"
       },
-      "power": 88,
+      "power": 87,
       "initials": "HE",
       "theme": {
         "c1": "#311b92",
@@ -2607,7 +2607,7 @@
         "year": 2017,
         "type": "Film"
       },
-      "power": 58,
+      "power": 56,
       "initials": "VU",
       "theme": {
         "c1": "#33691e",
@@ -2641,7 +2641,7 @@
         "year": 2019,
         "type": "Film"
       },
-      "power": 64,
+      "power": 59,
       "initials": "MY",
       "theme": {
         "c1": "#1b5e20",
@@ -2676,7 +2676,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 57,
+      "power": 56,
       "initials": "CB",
       "theme": {
         "c1": "#212121",
@@ -2710,7 +2710,7 @@
         "year": 2021,
         "type": "Film"
       },
-      "power": 66,
+      "power": 60,
       "initials": "TM",
       "theme": {
         "c1": "#37474f",
@@ -2745,7 +2745,7 @@
         "year": 2018,
         "type": "Film"
       },
-      "power": 68,
+      "power": 62,
       "initials": "GH",
       "theme": {
         "c1": "#4a148c",
@@ -2815,7 +2815,7 @@
         "year": 2021,
         "type": "Film"
       },
-      "power": 85,
+      "power": 84,
       "initials": "XW",
       "theme": {
         "c1": "#b71c1c",
@@ -2850,7 +2850,7 @@
         "year": 2015,
         "type": "Series"
       },
-      "power": 63,
+      "power": 58,
       "initials": "KP",
       "theme": {
         "c1": "#212121",
@@ -2885,7 +2885,7 @@
         "year": 2016,
         "type": "Series"
       },
-      "power": 58,
+      "power": 57,
       "initials": "PJ",
       "theme": {
         "c1": "#212121",
@@ -2920,7 +2920,7 @@
         "year": 2015,
         "type": "Series"
       },
-      "power": 61,
+      "power": 57,
       "initials": "JJ",
       "theme": {
         "c1": "#37474f",
@@ -2955,7 +2955,7 @@
         "year": 2016,
         "type": "Series"
       },
-      "power": 70,
+      "power": 64,
       "initials": "LC",
       "theme": {
         "c1": "#f9a825",
@@ -3024,7 +3024,7 @@
         "year": 2017,
         "type": "Film"
       },
-      "power": 94,
+      "power": 97,
       "initials": "SU",
       "theme": {
         "c1": "#bf360c",
@@ -3059,7 +3059,7 @@
         "year": 2014,
         "type": "Film"
       },
-      "power": 55,
+      "power": 35,
       "initials": "TC",
       "theme": {
         "c1": "#4a148c",
@@ -3094,7 +3094,7 @@
         "year": 2017,
         "type": "Film"
       },
-      "power": 70,
+      "power": 56,
       "initials": "GM",
       "theme": {
         "c1": "#f57c00",
@@ -3163,7 +3163,7 @@
         "year": 2008,
         "type": "Film"
       },
-      "power": 74,
+      "power": 71,
       "initials": "PP",
       "theme": {
         "c1": "#b71c1c",
@@ -3198,7 +3198,7 @@
         "year": 2008,
         "type": "Film"
       },
-      "power": 42,
+      "power": 18,
       "initials": "HH",
       "theme": {
         "c1": "#37474f",
@@ -3233,7 +3233,7 @@
         "year": 2008,
         "type": "Film"
       },
-      "power": 46,
+      "power": 28,
       "initials": "PC",
       "theme": {
         "c1": "#1565c0",
@@ -3268,7 +3268,7 @@
         "year": 2012,
         "type": "Film"
       },
-      "power": 47,
+      "power": 26,
       "initials": "MH",
       "theme": {
         "c1": "#263238",
@@ -3291,10 +3291,4658 @@
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "common",
       "costumeArt": "img/costume/maria-hill.jpg"
+    },
+    {
+      "id": "ajak",
+      "name": "Ajak",
+      "alias": "Prime Eternal",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Eternals",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 84,
+      "initials": "AJ",
+      "theme": {
+        "c1": "#1a237e",
+        "c2": "#ffd700",
+        "accent": "#fff9c4"
+      },
+      "pattern": "stars",
+      "emblem": "shield",
+      "tagline": "The healer who led them.",
+      "description": "Leader of the Eternals on Earth, gifted with healing and a link to the Celestials.",
+      "importance": "Ajak’s death forces the Eternals to choose Earth over the Emergence.",
+      "abilities": [
+        "Healing",
+        "Celestial communion",
+        "Leadership",
+        "Eternal durability"
+      ],
+      "spoilers": "Ikaris kills Ajak after she decides to stop the Emergence; her death fractures the family.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ajak yet."
+    },
+    {
+      "id": "gilgamesh",
+      "name": "Gilgamesh",
+      "alias": "The Strongest Eternal",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Eternals",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 86,
+      "initials": "GI",
+      "theme": {
+        "c1": "#7a0f14",
+        "c2": "#e0a72b",
+        "accent": "#ffd76a"
+      },
+      "pattern": "grid",
+      "emblem": "star",
+      "tagline": "Strongest of the Eternals.",
+      "description": "An Eternal of immense physical strength who protects Thena through her Mahd Wy’ry.",
+      "importance": "Gilgamesh is the team’s powerhouse and Thena’s anchor.",
+      "abilities": [
+        "Super strength",
+        "Energy punches",
+        "Durability",
+        "Loyalty"
+      ],
+      "spoilers": "Kro kills Gilgamesh; Thena uses his strength in the Uni-Mind to help stop Tiamut.",
+      "rarity": "epic",
+      "photoNote": "Gilgamesh is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "makkari",
+      "name": "Makkari",
+      "alias": "Eternal Speedster",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Eternals",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 83,
+      "initials": "MA",
+      "theme": {
+        "c1": "#0b2a6b",
+        "c2": "#c0272d",
+        "accent": "#e8eefc"
+      },
+      "pattern": "chevrons",
+      "emblem": "star",
+      "tagline": "Faster than sound.",
+      "description": "A deaf Eternal who runs at speeds that let her salvage history and smash Deviants.",
+      "importance": "Makkari’s speed turns the final fight and her bond with Druig steadies the team.",
+      "abilities": [
+        "Super speed",
+        "Sonic shockwaves",
+        "Enhanced senses",
+        "Salvage expertise"
+      ],
+      "spoilers": "She races into Tiamut’s emergence site to buy time and joins the Uni-Mind.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Makkari yet."
+    },
+    {
+      "id": "druig",
+      "name": "Druig",
+      "alias": "Mind Eternal",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Eternals",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 80,
+      "initials": "DR",
+      "theme": {
+        "c1": "#33691e",
+        "c2": "#aed581",
+        "accent": "#f1f8e9"
+      },
+      "pattern": "flame",
+      "emblem": "shield",
+      "tagline": "He bends wills.",
+      "description": "An Eternal who controls minds and walked away from the others to spare humanity war.",
+      "importance": "Druig’s power could end wars—or strip free will—and he chooses Earth’s side.",
+      "abilities": [
+        "Mind control",
+        "Telepathy",
+        "Eternal durability"
+      ],
+      "spoilers": "He helps form the Uni-Mind and stays on Earth after Arishem takes others for judgment.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Druig yet."
+    },
+    {
+      "id": "phastos",
+      "name": "Phastos",
+      "alias": "Eternal Inventor",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Eternals",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 78,
+      "initials": "PH",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "rings",
+      "emblem": "shield",
+      "tagline": "Technology from the stars.",
+      "description": "The Eternals’ engineer whose inventions shaped human progress—and his guilt over them.",
+      "importance": "Phastos builds the Uni-Mind device and argues for protecting humanity.",
+      "abilities": [
+        "Technoformation",
+        "Invention",
+        "Energy constructs",
+        "Eternal durability"
+      ],
+      "spoilers": "He joins the stand against the Emergence; Arishem later takes him for judgment.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Phastos yet."
+    },
+    {
+      "id": "kingo",
+      "name": "Kingo",
+      "alias": "Eternal Showman",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Eternals",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 74,
+      "initials": "KI",
+      "theme": {
+        "c1": "#01579b",
+        "c2": "#81d4fa",
+        "accent": "#e1f5fe"
+      },
+      "pattern": "rings",
+      "emblem": "burst",
+      "tagline": "Bollywood’s cosmic star.",
+      "description": "An Eternal who became a movie star and fires cosmic projectiles from his hands.",
+      "importance": "Kingo brings humor and heart; he refuses to kill Ikaris but still helps the plan.",
+      "abilities": [
+        "Energy projectiles",
+        "Showmanship",
+        "Combat skill",
+        "Eternal durability"
+      ],
+      "spoilers": "He sits out the final fight against Ikaris on principle, then rejoins the family’s aftermath.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kingo yet."
+    },
+    {
+      "id": "sprite",
+      "name": "Sprite",
+      "alias": "Eternal Storyteller",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Eternals",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 68,
+      "initials": "SP",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#a5d6a7",
+        "accent": "#e8f5e9"
+      },
+      "pattern": "hex",
+      "emblem": "flame",
+      "tagline": "Illusion and eternal youth.",
+      "description": "An Eternal trapped looking like a child who weaves illusions and wants a real life.",
+      "importance": "Sprite’s betrayal and wish for mortality drive the emotional cost of Eternals.",
+      "abilities": [
+        "Illusion casting",
+        "Storytelling",
+        "Eternal durability"
+      ],
+      "spoilers": "She sides with Ikaris, then asks Sersi to make her human; she ages into an adult.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Sprite yet."
+    },
+    {
+      "id": "black-knight",
+      "name": "Black Knight",
+      "alias": "Dane Whitman",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Eternals",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 70,
+      "initials": "BK",
+      "theme": {
+        "c1": "#33691e",
+        "c2": "#aed581",
+        "accent": "#f1f8e9"
+      },
+      "pattern": "rings",
+      "emblem": "shield",
+      "tagline": "The sword chooses.",
+      "description": "A museum scholar destined to wield the cursed Ebony Blade.",
+      "importance": "His mid-credits tease opens a supernatural knightly corner of the MCU.",
+      "abilities": [
+        "Ebony Blade (latent)",
+        "Scholarship",
+        "Swordsmanship"
+      ],
+      "spoilers": "After the Emergence crisis, Dane approaches the Ebony Blade as voices whisper his name.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Black Knight yet."
+    },
+    {
+      "id": "arishem",
+      "name": "Arishem",
+      "alias": "Prime Celestial",
+      "group": "other",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Eternals",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 100,
+      "initials": "AR",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "stars",
+      "emblem": "burst",
+      "tagline": "Judge of worlds.",
+      "description": "A towering Celestial who seeds worlds and judges whether Emergence should proceed.",
+      "importance": "Arishem reveals the cosmic factory behind Earth’s heroes and stakes.",
+      "abilities": [
+        "Cosmic judgment",
+        "Planet-scale power",
+        "Creation of Eternals",
+        "Near-omnipotence"
+      ],
+      "spoilers": "He abducts Sersi, Kingo and Phastos to judge whether Earth deserves to live after Tiamut is stopped.",
+      "rarity": "legendary",
+      "photoNote": "Arishem is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "kro",
+      "name": "Kro",
+      "alias": "Deviant Leader",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Eternals",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 82,
+      "initials": "KR",
+      "theme": {
+        "c1": "#1a237e",
+        "c2": "#ffd700",
+        "accent": "#fff9c4"
+      },
+      "pattern": "claw",
+      "emblem": "bolt",
+      "tagline": "Evolution through slaughter.",
+      "description": "A Deviant who gains powers by killing Eternals and seeks to free his kind.",
+      "importance": "Kro is the Deviant threat that forces the Eternals back together.",
+      "abilities": [
+        "Power absorption",
+        "Shapeshifting tendrils",
+        "Enhanced strength",
+        "Regen"
+      ],
+      "spoilers": "He kills Ajak and Gilgamesh; Thena finally kills him in the Amazon.",
+      "rarity": "rare",
+      "photoNote": "Kro is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "cosmo",
+      "name": "Cosmo",
+      "alias": "Cosmo the Spacedog",
+      "group": "guardians",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 55,
+      "initials": "CO",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "bolt",
+      "emblem": "diamond",
+      "tagline": "Good dog. Psychic dog.",
+      "description": "A telepathic Soviet space dog who becomes Knowhere’s security chief and a Guardian.",
+      "importance": "Cosmo ties the Guardians’ found-family vibe to Knowhere’s weird heart.",
+      "abilities": [
+        "Telepathy",
+        "Telekinesis",
+        "Spaceflight suit",
+        "Loyalty"
+      ],
+      "spoilers": "She helps free Knowhere from the High Evolutionary’s attack and joins the new Guardians.",
+      "rarity": "common",
+      "photoNote": "Cosmo is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "kraglin",
+      "name": "Kraglin",
+      "alias": "Kraglin Obfonteri",
+      "group": "guardians",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 48,
+      "initials": "KR",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#eceff1"
+      },
+      "pattern": "rings",
+      "emblem": "triangle",
+      "tagline": "Yondu’s first mate.",
+      "description": "A Ravager who inherits Yondu’s Yaka arrow and sticks with the Guardians’ orbit.",
+      "importance": "Kraglin carries Yondu’s legacy into later Guardians stories.",
+      "abilities": [
+        "Yaka arrow",
+        "Ravager grit",
+        "Piloting"
+      ],
+      "spoilers": "Yondu leaves him the arrow; by Vol. 3 he helps defend Knowhere and stays with the team’s wider family.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kraglin yet."
+    },
+    {
+      "id": "stakar-ogord",
+      "name": "Stakar Ogord",
+      "alias": "Starhawk",
+      "group": "guardians",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 64,
+      "initials": "SO",
+      "theme": {
+        "c1": "#7a0f14",
+        "c2": "#e0a72b",
+        "accent": "#ffd76a"
+      },
+      "pattern": "chevrons",
+      "emblem": "circle",
+      "tagline": "Ravager legend.",
+      "description": "A legendary Ravager captain who once flew with Yondu’s old crew.",
+      "importance": "Stakar embodies the Ravagers’ code and helps avenge Yondu.",
+      "abilities": [
+        "Leadership",
+        "Starship command",
+        "Combat experience"
+      ],
+      "spoilers": "He exiles Yondu for child trafficking, then leads Ravagers to honor Yondu’s funeral.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Stakar Ogord yet."
+    },
+    {
+      "id": "ayesha",
+      "name": "Ayesha",
+      "alias": "High Priestess",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 72,
+      "initials": "AY",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "diamonds",
+      "emblem": "burst",
+      "tagline": "Sovereign perfection.",
+      "description": "Gold-skinned Sovereign leader who hunts the Guardians and creates Adam Warlock.",
+      "importance": "Ayesha’s vendetta births Adam and ties Sovereign pride to cosmic conflict.",
+      "abilities": [
+        "Sovereign tech",
+        "Leadership",
+        "Genetic engineering"
+      ],
+      "spoilers": "She creates Adam to destroy the Guardians; her arc intersects Warlock in later stories.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ayesha yet."
+    },
+    {
+      "id": "taserface",
+      "name": "Taserface",
+      "alias": "Taserface",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy Vol. 2",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 42,
+      "initials": "TA",
+      "theme": {
+        "c1": "#880e4f",
+        "c2": "#f8bbd0",
+        "accent": "#fce4ec"
+      },
+      "pattern": "flame",
+      "emblem": "triangle",
+      "tagline": "Worst. Name. Ever.",
+      "description": "A mutinous Ravager whose terrifying name is slightly less terrifying out loud.",
+      "importance": "Comic relief villain who still nearly dooms Yondu’s crew.",
+      "abilities": [
+        "Guns",
+        "Mutiny",
+        "Bad branding"
+      ],
+      "spoilers": "He overthrows Yondu, then dies when Yondu and Rocket retake the ship.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Taserface yet."
+    },
+    {
+      "id": "korath",
+      "name": "Korath",
+      "alias": "Korath the Pursuer",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 66,
+      "initials": "KO",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#ce93d8",
+        "accent": "#f3e5f5"
+      },
+      "pattern": "bolt",
+      "emblem": "shield",
+      "tagline": "Kree pursuer.",
+      "description": "A Kree accumulator and Ronan’s enforcer who later appears in Captain Marvel’s era.",
+      "importance": "Korath links the Kree military across Guardians and Captain Marvel.",
+      "abilities": [
+        "Kree strength",
+        "Energy weapons",
+        "Tracker tech"
+      ],
+      "spoilers": "Star-Lord kills him on Morag in 2014; a younger Korath serves Yon-Rogg in 1995.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Korath yet."
+    },
+    {
+      "id": "howard-the-duck",
+      "name": "Howard the Duck",
+      "alias": "Howard",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Guardians of the Galaxy",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 28,
+      "initials": "HD",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#eceff1"
+      },
+      "pattern": "dots",
+      "emblem": "crescent",
+      "tagline": "Trapped in a world he never made.",
+      "description": "A cynical talking duck from Duckworld who keeps turning up in the MCU’s weird corners.",
+      "importance": "Howard is the MCU’s running cosmic gag with surprising staying power.",
+      "abilities": [
+        "Sarcasm",
+        "Firearms",
+        "Survival"
+      ],
+      "spoilers": "Cameos from Collector’s museum to Endgame’s post-credits and beyond.",
+      "rarity": "common",
+      "photoNote": "Howard the Duck is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "the-watcher",
+      "name": "The Watcher",
+      "alias": "Uatu",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "What If...?",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 94,
+      "initials": "TW",
+      "theme": {
+        "c1": "#e65100",
+        "c2": "#ffe0b2",
+        "accent": "#fff3e0"
+      },
+      "pattern": "diamonds",
+      "emblem": "crescent",
+      "tagline": "I am the Watcher.",
+      "description": "An omniscient cosmic being sworn to observe the Multiverse—until he cannot.",
+      "importance": "The Watcher frames What If...? and embodies the Multiverse’s scale.",
+      "abilities": [
+        "Omniscience (multiversal)",
+        "Near-omnipotence",
+        "Reality observation"
+      ],
+      "spoilers": "He breaks his oath to help stop Infinity Ultron, assembling the Guardians of the Multiverse.",
+      "rarity": "legendary",
+      "photoNote": "The Watcher is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "frigga",
+      "name": "Frigga",
+      "alias": "Queen of Asgard",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 76,
+      "initials": "FR",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#eceff1"
+      },
+      "pattern": "hex",
+      "emblem": "burst",
+      "tagline": "Asgard’s wisdom.",
+      "description": "Queen of Asgard, mother to Thor and adoptive mother to Loki, skilled in magic and rule.",
+      "importance": "Frigga’s love and death reshape Thor and Loki’s paths.",
+      "abilities": [
+        "Asgardian magic",
+        "Swordsmanship",
+        "Political wisdom",
+        "Asgardian strength"
+      ],
+      "spoilers": "Malekith’s forces kill her in The Dark World; her loss drives Thor and Loki’s uneasy alliance.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Frigga yet."
+    },
+    {
+      "id": "lady-sif",
+      "name": "Lady Sif",
+      "alias": "Sif",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 74,
+      "initials": "LS",
+      "theme": {
+        "c1": "#bf360c",
+        "c2": "#ffab91",
+        "accent": "#fbe9e7"
+      },
+      "pattern": "hex",
+      "emblem": "hex",
+      "tagline": "Goddess of war.",
+      "description": "Asgardian warrior and Thor’s loyal friend, deadly with a blade.",
+      "importance": "Sif represents Asgard’s warrior ideal across Thor films and Agents of S.H.I.E.L.D.",
+      "abilities": [
+        "Sword mastery",
+        "Asgardian strength",
+        "Combat tactics"
+      ],
+      "spoilers": "She fights for Asgard against Loki, the Dark Elves, and later appears amid Multiverse threads.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Lady Sif yet."
+    },
+    {
+      "id": "volstagg",
+      "name": "Volstagg",
+      "alias": "Volstagg the Valiant",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 68,
+      "initials": "VO",
+      "theme": {
+        "c1": "#0b2a6b",
+        "c2": "#c0272d",
+        "accent": "#e8eefc"
+      },
+      "pattern": "hex",
+      "emblem": "bolt",
+      "tagline": "Hearty warrior.",
+      "description": "One of the Warriors Three—loud, loyal, and lethal in a fight.",
+      "importance": "Volstagg embodies Asgard’s camaraderie beside Thor.",
+      "abilities": [
+        "Asgardian strength",
+        "Axe combat",
+        "Fearlessness"
+      ],
+      "spoilers": "Hela kills Volstagg and Fandral when she returns to Asgard in Ragnarok.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Volstagg yet."
+    },
+    {
+      "id": "hogun",
+      "name": "Hogun",
+      "alias": "Hogun the Grim",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 67,
+      "initials": "HO",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "bolt",
+      "emblem": "diamond",
+      "tagline": "The grim warrior.",
+      "description": "Silent, deadly member of the Warriors Three.",
+      "importance": "Hogun’s stoic loyalty rounds out Thor’s classic companions.",
+      "abilities": [
+        "Mace combat",
+        "Asgardian strength",
+        "Discipline"
+      ],
+      "spoilers": "Hela kills him defending the Bifrost in Thor: Ragnarok.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hogun yet."
+    },
+    {
+      "id": "fandral",
+      "name": "Fandral",
+      "alias": "Fandral the Dashing",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 66,
+      "initials": "FA",
+      "theme": {
+        "c1": "#b71c1c",
+        "c2": "#ffcdd2",
+        "accent": "#ffebee"
+      },
+      "pattern": "hex",
+      "emblem": "bolt",
+      "tagline": "Dashing bladesman.",
+      "description": "The charming swordsman of the Warriors Three.",
+      "importance": "Fandral brings swashbuckling flair to Asgard’s defenders.",
+      "abilities": [
+        "Swordsmanship",
+        "Agility",
+        "Asgardian strength"
+      ],
+      "spoilers": "Hela kills him alongside Volstagg in Ragnarok.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Fandral yet."
+    },
+    {
+      "id": "malekith",
+      "name": "Malekith",
+      "alias": "Malekith the Accursed",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Thor: The Dark World",
+        "year": 2013,
+        "type": "Film"
+      },
+      "power": 84,
+      "initials": "MA",
+      "theme": {
+        "c1": "#00695c",
+        "c2": "#80cbc4",
+        "accent": "#e0f2f1"
+      },
+      "pattern": "burst",
+      "emblem": "shield",
+      "tagline": "Dark Elf warlord.",
+      "description": "Leader of the Dark Elves who seeks the Aether to plunge the universe into darkness.",
+      "importance": "Malekith brings the Reality Stone into the Infinity Saga.",
+      "abilities": [
+        "Dark Elf physiology",
+        "Aether control",
+        "Kursed enhancement",
+        "War leadership"
+      ],
+      "spoilers": "He nearly unleashes the Aether during the Convergence; Thor destroys his fleet and Malekith dies.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Malekith yet."
+    },
+    {
+      "id": "skurge",
+      "name": "Skurge",
+      "alias": "The Executioner",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor: Ragnarok",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 70,
+      "initials": "SK",
+      "theme": {
+        "c1": "#880e4f",
+        "c2": "#f8bbd0",
+        "accent": "#fce4ec"
+      },
+      "pattern": "claw",
+      "emblem": "burst",
+      "tagline": "Redeemed by the Bifrost.",
+      "description": "An Asgardian who serves Hela as Executioner before choosing a heroic last stand.",
+      "importance": "Skurge’s redemption is one of Ragnarok’s sharpest emotional beats.",
+      "abilities": [
+        "Asgardian strength",
+        "Dual M16s",
+        "Axe combat"
+      ],
+      "spoilers": "He opens the Bifrost for refugees and dies holding off Hela’s forces with stolen guns.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Skurge yet."
+    },
+    {
+      "id": "zeus",
+      "name": "Zeus",
+      "alias": "King of Omnipotence City",
+      "group": "other",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Thor: Love and Thunder",
+        "year": 2022,
+        "type": "Film"
+      },
+      "power": 90,
+      "initials": "ZE",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "hex",
+      "emblem": "claw",
+      "tagline": "God of thunder’s rival.",
+      "description": "Bombastic ruler of Omnipotence City who hoards godly power and a thunderbolt.",
+      "importance": "Zeus expands the MCU’s pantheon politics and teases Hercules.",
+      "abilities": [
+        "Godly power",
+        "Thunderbolt",
+        "Immortality",
+        "Showmanship"
+      ],
+      "spoilers": "Thor steals his thunderbolt; Zeus survives a wound and vows revenge via Hercules.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Zeus yet."
+    },
+    {
+      "id": "hercules",
+      "name": "Hercules",
+      "alias": "Son of Zeus",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor: Love and Thunder",
+        "year": 2022,
+        "type": "Film"
+      },
+      "power": 91,
+      "initials": "HE",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#ce93d8",
+        "accent": "#f3e5f5"
+      },
+      "pattern": "stripes",
+      "emblem": "hex",
+      "tagline": "God of strength.",
+      "description": "Olympian demigod teased as Zeus’s enforcer against Thor.",
+      "importance": "Hercules mid-credits tease sets up a mythic heavy-hitter.",
+      "abilities": [
+        "Godly strength",
+        "Olympian combat",
+        "Lion motif"
+      ],
+      "spoilers": "Zeus calls on Hercules after Thor humiliates him in Omnipotence City.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hercules yet."
+    },
+    {
+      "id": "darcy-lewis",
+      "name": "Darcy Lewis",
+      "alias": "Darcy",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 22,
+      "initials": "DL",
+      "theme": {
+        "c1": "#33691e",
+        "c2": "#aed581",
+        "accent": "#f1f8e9"
+      },
+      "pattern": "flame",
+      "emblem": "bolt",
+      "tagline": "Intern with opinions.",
+      "description": "Political-science intern turned astrophysics sidekick and WandaVision’s chaotic documentarian.",
+      "importance": "Darcy is the MCU’s beloved comic-relief scientist-adjacent friend.",
+      "abilities": [
+        "Wit",
+        "Improvised science support",
+        "Loyalty"
+      ],
+      "spoilers": "She helps Jane with the Convergence, later monitors Westview and names the Hex.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Darcy Lewis yet."
+    },
+    {
+      "id": "erik-selvig",
+      "name": "Erik Selvig",
+      "alias": "Dr. Selvig",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thor",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 24,
+      "initials": "ES",
+      "theme": {
+        "c1": "#880e4f",
+        "c2": "#f8bbd0",
+        "accent": "#fce4ec"
+      },
+      "pattern": "stars",
+      "emblem": "shield",
+      "tagline": "Astrophysicist on the edge.",
+      "description": "Astrophysicist who studies the Bifrost, the Tesseract, and too many cosmic crises.",
+      "importance": "Selvig bridges S.H.I.E.L.D. science and Asgardian weirdness.",
+      "abilities": [
+        "Astrophysics",
+        "Tesseract research",
+        "Stubborn courage"
+      ],
+      "spoilers": "Loki mind-controls him in The Avengers; he later helps close the Convergence and recovers.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Erik Selvig yet."
+    },
+    {
+      "id": "peggy-carter",
+      "name": "Peggy Carter",
+      "alias": "Agent Carter",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain America: The First Avenger",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 45,
+      "initials": "PC",
+      "theme": {
+        "c1": "#01579b",
+        "c2": "#81d4fa",
+        "accent": "#e1f5fe"
+      },
+      "pattern": "stars",
+      "emblem": "crescent",
+      "tagline": "Founding Agent.",
+      "description": "SSR agent, founding S.H.I.E.L.D. force, and Steve Rogers’ great love.",
+      "importance": "Peggy anchors Cap’s heart and the MCU’s spy-agency roots.",
+      "abilities": [
+        "Marksmanship",
+        "Espionage",
+        "Leadership",
+        "Hand-to-hand"
+      ],
+      "spoilers": "She helps defeat Hydra in WWII, co-founds S.H.I.E.L.D., and reunites with Steve when he returns the stones.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Peggy Carter yet."
+    },
+    {
+      "id": "sharon-carter",
+      "name": "Sharon Carter",
+      "alias": "Agent 13",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 44,
+      "initials": "SC",
+      "theme": {
+        "c1": "#1a237e",
+        "c2": "#ffd700",
+        "accent": "#fff9c4"
+      },
+      "pattern": "diamonds",
+      "emblem": "diamond",
+      "tagline": "Carter bloodline.",
+      "description": "S.H.I.E.L.D./CIA operative and Peggy’s niece who walks a gray line as the Power Broker.",
+      "importance": "Sharon connects Cap’s past to modern spy games and the Flag Smashers era.",
+      "abilities": [
+        "Espionage",
+        "Marksmanship",
+        "Martial arts",
+        "Tradecraft"
+      ],
+      "spoilers": "She kisses Steve in Civil War, later becomes the Power Broker on Madripoor, then aids Sam against the Flag Smashers.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Sharon Carter yet."
+    },
+    {
+      "id": "john-walker",
+      "name": "John Walker",
+      "alias": "U.S. Agent",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "The Falcon and the Winter Soldier",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 68,
+      "initials": "JW",
+      "theme": {
+        "c1": "#880e4f",
+        "c2": "#f8bbd0",
+        "accent": "#fce4ec"
+      },
+      "pattern": "stars",
+      "emblem": "shield",
+      "tagline": "Government’s Captain.",
+      "description": "Decorated soldier named Captain America by the U.S. government, later U.S. Agent.",
+      "importance": "Walker interrogates what the shield means when legacy is assigned, not earned.",
+      "abilities": [
+        "Super-soldier serum",
+        "Shield combat",
+        "Military tactics",
+        "Enhanced strength"
+      ],
+      "spoilers": "He kills a Flag Smasher on camera, loses the mantle, takes U.S. Agent, and joins Valentina’s Thunderbolts.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for John Walker yet."
+    },
+    {
+      "id": "helmut-zemo",
+      "name": "Helmut Zemo",
+      "alias": "Baron Zemo",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Captain America: Civil War",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 52,
+      "initials": "HZ",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#a5d6a7",
+        "accent": "#e8f5e9"
+      },
+      "pattern": "bolt",
+      "emblem": "star",
+      "tagline": "No mask. No powers. Just a plan.",
+      "description": "Sokovian aristocrat who shattered the Avengers with grief and precision.",
+      "importance": "Zemo proves a human strategist can topple gods without a superpower.",
+      "abilities": [
+        "Strategy",
+        "Espionage",
+        "Combat training",
+        "Psychological warfare"
+      ],
+      "spoilers": "He frames Bucky, reveals the Starks’ killers, then returns in TFATWS against the Flag Smashers.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Helmut Zemo yet."
+    },
+    {
+      "id": "isaiah-bradley",
+      "name": "Isaiah Bradley",
+      "alias": "Isaiah Bradley",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "The Falcon and the Winter Soldier",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 70,
+      "initials": "IB",
+      "theme": {
+        "c1": "#880e4f",
+        "c2": "#f8bbd0",
+        "accent": "#fce4ec"
+      },
+      "pattern": "rings",
+      "emblem": "star",
+      "tagline": "The first Black Captain.",
+      "description": "A secret Korean War super-soldier erased by his own country.",
+      "importance": "Isaiah reframes Cap’s legacy through erased Black history in the MCU.",
+      "abilities": [
+        "Super-soldier strength",
+        "Combat experience",
+        "Endurance"
+      ],
+      "spoilers": "Sam exposes his story and installs his statue at the Captain America museum exhibit.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Isaiah Bradley yet."
+    },
+    {
+      "id": "joaquin-torres",
+      "name": "Joaquin Torres",
+      "alias": "Falcon",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "The Falcon and the Winter Soldier",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 58,
+      "initials": "JT",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "flame",
+      "emblem": "hex",
+      "tagline": "New wings.",
+      "description": "Air Force LT who inherits the Falcon mantle after Sam becomes Cap.",
+      "importance": "Torres continues the Falcon legacy into Brave New World and beyond.",
+      "abilities": [
+        "EXO-7 Falcon",
+        "Aerial combat",
+        "Intelligence work"
+      ],
+      "spoilers": "Sam passes him the wings; he serves as Falcon beside Captain America Sam Wilson.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Joaquin Torres yet."
+    },
+    {
+      "id": "valentina-de-fontaine",
+      "name": "Valentina Allegra de Fontaine",
+      "alias": "Val",
+      "group": "other",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Black Widow",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 40,
+      "initials": "VF",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "bolt",
+      "emblem": "claw",
+      "tagline": "Contessa with a clipboard.",
+      "description": "Shadowy power broker who recruits damaged heroes into black-ops teams.",
+      "importance": "Valentina is the connective tissue for Thunderbolts and dark-government plots.",
+      "abilities": [
+        "Espionage",
+        "Political manipulation",
+        "Recruitment",
+        "Resources"
+      ],
+      "spoilers": "She recruits Yelena, Walker, and others into the Thunderbolts while chasing greater power.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Valentina Allegra de Fontaine yet."
+    },
+    {
+      "id": "red-guardian",
+      "name": "Red Guardian",
+      "alias": "Alexei Shostakov",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Black Widow",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 64,
+      "initials": "RG",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#a5d6a7",
+        "accent": "#e8f5e9"
+      },
+      "pattern": "claw",
+      "emblem": "claw",
+      "tagline": "Soviet Captain.",
+      "description": "Russia’s answer to Cap—out of shape, full of stories, still dangerous.",
+      "importance": "Alexei brings family chaos and heart to the Red Room escape.",
+      "abilities": [
+        "Super-soldier strength",
+        "Brawling",
+        "Propaganda charisma"
+      ],
+      "spoilers": "He helps destroy the Red Room and later joins Valentina’s Thunderbolts with Yelena.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Red Guardian yet."
+    },
+    {
+      "id": "melina-vostokoff",
+      "name": "Melina Vostokoff",
+      "alias": "Iron Maiden",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Black Widow",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 60,
+      "initials": "MV",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#a5d6a7",
+        "accent": "#e8f5e9"
+      },
+      "pattern": "stars",
+      "emblem": "triangle",
+      "tagline": "Red Room scientist.",
+      "description": "Surrogate mother to Natasha and Yelena; spy, scientist, survivor.",
+      "importance": "Melina reveals the Red Room’s chemical control and helps tear it down.",
+      "abilities": [
+        "Espionage",
+        "Hand-to-hand",
+        "Scientific genius",
+        "Widow training"
+      ],
+      "spoilers": "She fakes loyalty to Dreykov, then helps free the Widows with an antidote release.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Melina Vostokoff yet."
+    },
+    {
+      "id": "sentry",
+      "name": "Sentry",
+      "alias": "Robert Reynolds",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Thunderbolts*",
+        "year": 2025,
+        "type": "Film"
+      },
+      "power": 98,
+      "initials": "SE",
+      "theme": {
+        "c1": "#1a237e",
+        "c2": "#ffd700",
+        "accent": "#fff9c4"
+      },
+      "pattern": "stripes",
+      "emblem": "diamond",
+      "tagline": "The void inside.",
+      "description": "A golden-powered volunteer whose limitless strength hides a terrifying Void.",
+      "importance": "Sentry is Thunderbolts*’ walking nuclear option and emotional core.",
+      "abilities": [
+        "Vast super strength",
+        "Flight",
+        "Energy power",
+        "The Void"
+      ],
+      "spoilers": "Valentina uses Bob as a weapon; the Thunderbolts confront the Void to save him and the city.",
+      "rarity": "legendary",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Sentry yet.",
+      "spoilersMore": "The Void manifests as a dark opposite that consumes people into shadowed pocket spaces."
+    },
+    {
+      "id": "everett-ross",
+      "name": "Everett Ross",
+      "alias": "Agent Ross",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain America: Civil War",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 30,
+      "initials": "ER",
+      "theme": {
+        "c1": "#00695c",
+        "c2": "#80cbc4",
+        "accent": "#e0f2f1"
+      },
+      "pattern": "flame",
+      "emblem": "bolt",
+      "tagline": "Joint Counter Terrorist.",
+      "description": "Government agent tangled in Wakandan and Thunderbolt Ross politics.",
+      "importance": "Ross is a recurring bureaucratic hinge between heroes and states.",
+      "abilities": [
+        "Intelligence analysis",
+        "Diplomacy",
+        "Sidearm"
+      ],
+      "spoilers": "He aids T’Challa and remains tangled in Wakandan and U.S. power games.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Everett Ross yet."
+    },
+    {
+      "id": "batroc",
+      "name": "Batroc",
+      "alias": "Georges Batroc",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 50,
+      "initials": "BA",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "diamonds",
+      "emblem": "burst",
+      "tagline": "Leap-frog mercenary.",
+      "description": "Algerian mercenary and master of savate hired for high-seas chaos.",
+      "importance": "Batroc is Cap’s classic martial foil who keeps bouncing back.",
+      "abilities": [
+        "Savate",
+        "Agility",
+        "Mercenary tactics"
+      ],
+      "spoilers": "Cap thrashes him on the Lemurian Star; he later works Madripoor jobs in TFATWS.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Batroc yet."
+    },
+    {
+      "id": "arnim-zola",
+      "name": "Arnim Zola",
+      "alias": "Dr. Zola",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Captain America: The First Avenger",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 55,
+      "initials": "AZ",
+      "theme": {
+        "c1": "#bf360c",
+        "c2": "#ffab91",
+        "accent": "#fbe9e7"
+      },
+      "pattern": "stars",
+      "emblem": "diamond",
+      "tagline": "Hydra’s mind in a machine.",
+      "description": "Hydra scientist who uploaded his consciousness into a vast computer.",
+      "importance": "Zola bridges WWII Hydra to modern S.H.I.E.L.D. infiltration.",
+      "abilities": [
+        "Genius intellect",
+        "Digital consciousness",
+        "Hydra algorithms"
+      ],
+      "spoilers": "He survives as a bunker AI in The Winter Soldier and reveals Project Insight before the base explodes.",
+      "rarity": "common",
+      "photoNote": "Arnim Zola is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "alexander-pierce",
+      "name": "Alexander Pierce",
+      "alias": "Secretary Pierce",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Captain America: The Winter Soldier",
+        "year": 2014,
+        "type": "Film"
+      },
+      "power": 38,
+      "initials": "AP",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "hex",
+      "emblem": "burst",
+      "tagline": "Hydra in a suit.",
+      "description": "World Security Council power broker secretly running Hydra inside S.H.I.E.L.D.",
+      "importance": "Pierce shows Hydra’s most dangerous form: respectable authority.",
+      "abilities": [
+        "Political power",
+        "Strategy",
+        "Winter Soldier command"
+      ],
+      "spoilers": "Nick Fury fakes his death to expose him; Pierce dies in the Insight uprising.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Alexander Pierce yet."
+    },
+    {
+      "id": "flag-smasher",
+      "name": "Karli Morgenthau",
+      "alias": "Flag Smasher",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "The Falcon and the Winter Soldier",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 62,
+      "initials": "KM",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "stripes",
+      "emblem": "shield",
+      "tagline": "One world. One people.",
+      "description": "Enhanced leader of the Flag Smashers fighting for displaced people—by any means.",
+      "importance": "Karli forces Sam to define Captain America beyond the government’s script.",
+      "abilities": [
+        "Super-soldier serum",
+        "Guerrilla tactics",
+        "Leadership",
+        "Hand-to-hand"
+      ],
+      "spoilers": "Sharon Carter kills her as she nearly detonates trucks in New York.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Karli Morgenthau yet."
+    },
+    {
+      "id": "nakia",
+      "name": "Nakia",
+      "alias": "Nakia",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Black Panther",
+        "year": 2018,
+        "type": "Film"
+      },
+      "power": 58,
+      "initials": "NA",
+      "theme": {
+        "c1": "#e65100",
+        "c2": "#ffe0b2",
+        "accent": "#fff3e0"
+      },
+      "pattern": "grid",
+      "emblem": "star",
+      "tagline": "War Dog with a heart.",
+      "description": "Wakandan War Dog and T’Challa’s love who fights for outreach over isolation.",
+      "importance": "Nakia is Wakanda’s moral argument for helping the wider world.",
+      "abilities": [
+        "Espionage",
+        "Hand-to-hand",
+        "Marksmanship",
+        "Diplomacy"
+      ],
+      "spoilers": "She helps retake Wakanda from Killmonger and later searches for answers in Wakanda Forever.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Nakia yet."
+    },
+    {
+      "id": "ramonda",
+      "name": "Ramonda",
+      "alias": "Queen Ramonda",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Black Panther",
+        "year": 2018,
+        "type": "Film"
+      },
+      "power": 40,
+      "initials": "RA",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#a5d6a7",
+        "accent": "#e8f5e9"
+      },
+      "pattern": "dots",
+      "emblem": "hex",
+      "tagline": "Queen Mother.",
+      "description": "Queen of Wakanda who steadies the throne through grief and war.",
+      "importance": "Ramonda’s leadership defines Wakanda between T’Challa’s death and Shuri’s rise.",
+      "abilities": [
+        "Statecraft",
+        "Resolve",
+        "Strategic command"
+      ],
+      "spoilers": "She rules after T’Challa’s death and is killed by Namor’s tidal attack on the capital.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ramonda yet."
+    },
+    {
+      "id": "ayo",
+      "name": "Ayo",
+      "alias": "Ayo",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Black Panther",
+        "year": 2018,
+        "type": "Film"
+      },
+      "power": 62,
+      "initials": "AY",
+      "theme": {
+        "c1": "#33691e",
+        "c2": "#aed581",
+        "accent": "#f1f8e9"
+      },
+      "pattern": "stars",
+      "emblem": "star",
+      "tagline": "Dora Milaje.",
+      "description": "Elite Dora Milaje warrior who later challenges Bucky’s past.",
+      "importance": "Ayo embodies Wakandan duty across Black Panther and TFATWS.",
+      "abilities": [
+        "Spear mastery",
+        "Martial arts",
+        "Leadership"
+      ],
+      "spoilers": "She deactivates Bucky’s trigger words in TFATWS and remains a Dora pillar in Wakanda Forever.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ayo yet."
+    },
+    {
+      "id": "klaue",
+      "name": "Ulysses Klaue",
+      "alias": "Klaw",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Avengers: Age of Ultron",
+        "year": 2015,
+        "type": "Film"
+      },
+      "power": 54,
+      "initials": "UK",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "dots",
+      "emblem": "bolt",
+      "tagline": "Vibranium thief.",
+      "description": "Black-market arms dealer obsessed with Wakandan vibranium.",
+      "importance": "Klaue links Ultron’s rise to Killmonger’s coup.",
+      "abilities": [
+        "Sonic arm cannon",
+        "Smuggling networks",
+        "Marksmanship"
+      ],
+      "spoilers": "Ultron takes his arm; Killmonger kills him in Black Panther to bait Wakanda.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ulysses Klaue yet."
+    },
+    {
+      "id": "tchaka",
+      "name": "T'Chaka",
+      "alias": "King T'Chaka",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain America: Civil War",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 72,
+      "initials": "TC",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "grid",
+      "emblem": "claw",
+      "tagline": "Previous Black Panther.",
+      "description": "King of Wakanda and former Black Panther whose death sparks Civil War’s tragedy.",
+      "importance": "T’Chaka’s secrets about N’Jobu shape T’Challa’s reign.",
+      "abilities": [
+        "Black Panther suit",
+        "Vibranium combat",
+        "Kingship"
+      ],
+      "spoilers": "Zemo’s bombing kills him in Vienna; his past choice fuels Killmonger.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for T'Chaka yet."
+    },
+    {
+      "id": "namora",
+      "name": "Namora",
+      "alias": "Namora",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Black Panther: Wakanda Forever",
+        "year": 2022,
+        "type": "Film"
+      },
+      "power": 78,
+      "initials": "NA",
+      "theme": {
+        "c1": "#b71c1c",
+        "c2": "#ffcdd2",
+        "accent": "#ffebee"
+      },
+      "pattern": "stripes",
+      "emblem": "shield",
+      "tagline": "Talokanil warrior.",
+      "description": "Namor’s cousin and fierce Talokanil commander.",
+      "importance": "Namora represents Talokan’s next generation of power.",
+      "abilities": [
+        "Super strength",
+        "Aquatic adaptation",
+        "Spear combat",
+        "Flight wing-anklets"
+      ],
+      "spoilers": "She fights Wakanda in the ocean war and stands by Namor after the truce.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Namora yet."
+    },
+    {
+      "id": "attuma-talokan",
+      "name": "Attuma",
+      "alias": "Attuma of Talokan",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Black Panther: Wakanda Forever",
+        "year": 2022,
+        "type": "Film"
+      },
+      "power": 76,
+      "initials": "AT",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#a5d6a7",
+        "accent": "#e8f5e9"
+      },
+      "pattern": "hex",
+      "emblem": "bolt",
+      "tagline": "Talokan’s hammer.",
+      "description": "Towering Talokanil warrior loyal to Namor.",
+      "importance": "Attuma is Talokan’s frontline muscle in the Wakandan war.",
+      "abilities": [
+        "Super strength",
+        "Aquatic combat",
+        "Heavy weapons"
+      ],
+      "spoilers": "He leads assaults on Wakanda and battles the Dora and Ironheart’s tech.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Attuma yet."
+    },
+    {
+      "id": "green-goblin",
+      "name": "Green Goblin",
+      "alias": "Norman Osborn",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 80,
+      "initials": "GG",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#eceff1"
+      },
+      "pattern": "hex",
+      "emblem": "star",
+      "tagline": "The Multiverse’s nightmare.",
+      "description": "Oscorp titan split between brilliant Norman and the murderous Goblin.",
+      "importance": "Green Goblin is No Way Home’s primary catastrophic threat.",
+      "abilities": [
+        "Goblin serum",
+        "Glider",
+        "Pumpkin bombs",
+        "Super strength"
+      ],
+      "spoilers": "He kills Aunt May; Peter nearly murders him before curing Norman, who returns home healed.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Green Goblin yet."
+    },
+    {
+      "id": "doc-ock",
+      "name": "Doctor Octopus",
+      "alias": "Otto Octavius",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 78,
+      "initials": "DO",
+      "theme": {
+        "c1": "#880e4f",
+        "c2": "#f8bbd0",
+        "accent": "#fce4ec"
+      },
+      "pattern": "grid",
+      "emblem": "hex",
+      "tagline": "Four arms, one mind.",
+      "description": "Brilliant scientist whose AI tentacles seize control—until a cure frees him.",
+      "importance": "Doc Ock is the first cured variant and a reluctant ally.",
+      "abilities": [
+        "Mechanical tentacles",
+        "Genius intellect",
+        "Super coordination"
+      ],
+      "spoilers": "Peter cures him mid-battle; Otto then helps fight the other villains and returns home.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Doctor Octopus yet."
+    },
+    {
+      "id": "electro-nwh",
+      "name": "Electro",
+      "alias": "Max Dillon",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 79,
+      "initials": "EL",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#a5d6a7",
+        "accent": "#e8f5e9"
+      },
+      "pattern": "dots",
+      "emblem": "diamond",
+      "tagline": "Blue lightning.",
+      "description": "A downtrodden tech worker turned living electrical storm from another universe.",
+      "importance": "Electro’s power surge nearly overloads the final battle.",
+      "abilities": [
+        "Electrokinesis",
+        "Energy absorption",
+        "Flight (energy)"
+      ],
+      "spoilers": "He is cured mid-fight and returns to his universe restored.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Electro yet."
+    },
+    {
+      "id": "sandman",
+      "name": "Sandman",
+      "alias": "Flint Marko",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 74,
+      "initials": "SA",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#a5d6a7",
+        "accent": "#e8f5e9"
+      },
+      "pattern": "dots",
+      "emblem": "hex",
+      "tagline": "Man of sand.",
+      "description": "A thief transformed into living sand who mainly wants to go home to his daughter.",
+      "importance": "Sandman is the most sympathetic of the NWH villains.",
+      "abilities": [
+        "Sand physiology",
+        "Size shifting",
+        "Density control"
+      ],
+      "spoilers": "He is cured and sent home, hoping for a better fate with his daughter.",
+      "rarity": "rare",
+      "photoNote": "Sandman is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "lizard",
+      "name": "Lizard",
+      "alias": "Dr. Curt Connors",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 72,
+      "initials": "LI",
+      "theme": {
+        "c1": "#0b2a6b",
+        "c2": "#c0272d",
+        "accent": "#e8eefc"
+      },
+      "pattern": "grid",
+      "emblem": "burst",
+      "tagline": "The missing limb’s curse.",
+      "description": "A scientist whose regenerative serum turns him into a giant lizard.",
+      "importance": "Lizard continues the theme of cures gone wrong across Spider-stories.",
+      "abilities": [
+        "Reptilian strength",
+        "Regeneration",
+        "Claws",
+        "Scientific mind"
+      ],
+      "spoilers": "He is cured in the final battle and returned to his universe.",
+      "rarity": "rare",
+      "photoNote": "Lizard is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "aunt-may",
+      "name": "Aunt May",
+      "alias": "May Parker",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain America: Civil War",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 20,
+      "initials": "AM",
+      "theme": {
+        "c1": "#1a237e",
+        "c2": "#ffd700",
+        "accent": "#fff9c4"
+      },
+      "pattern": "flame",
+      "emblem": "circle",
+      "tagline": "With great power…",
+      "description": "Peter Parker’s aunt whose compassion defines his heroism.",
+      "importance": "May is Spider-Man’s emotional north star in the MCU.",
+      "abilities": [
+        "Compassion",
+        "Community work",
+        "Moral guidance"
+      ],
+      "spoilers": "Green Goblin mortally wounds her in No Way Home; her last words urge Peter that helping others still matters.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Aunt May yet."
+    },
+    {
+      "id": "michelle-jones",
+      "name": "Michelle Jones",
+      "alias": "MJ",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 22,
+      "initials": "MJ",
+      "theme": {
+        "c1": "#bf360c",
+        "c2": "#ffab91",
+        "accent": "#fbe9e7"
+      },
+      "pattern": "flame",
+      "emblem": "claw",
+      "tagline": "MJ.",
+      "description": "Peter’s sharp, observant partner who sees through masks—literal and otherwise.",
+      "importance": "MJ grounds Spider-Man’s high-school era and Multiverse heartbreak.",
+      "abilities": [
+        "Investigation",
+        "Wit",
+        "Courage"
+      ],
+      "spoilers": "Strange’s final spell erases Peter’s identity from her memory.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Michelle Jones yet."
+    },
+    {
+      "id": "ned-leeds",
+      "name": "Ned Leeds",
+      "alias": "Ned",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Spider-Man: Homecoming",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 21,
+      "initials": "NL",
+      "theme": {
+        "c1": "#01579b",
+        "c2": "#81d4fa",
+        "accent": "#e1f5fe"
+      },
+      "pattern": "dots",
+      "emblem": "hex",
+      "tagline": "Guy in the chair.",
+      "description": "Peter’s best friend and self-declared guy in the chair.",
+      "importance": "Ned is the MCU’s purest friendship energy in the Spider-trilogy.",
+      "abilities": [
+        "Tech support",
+        "Focus",
+        "Loyalty"
+      ],
+      "spoilers": "He briefly wears the nanotech suit, helps vs. Mysterio, and forgets Peter after Strange’s spell.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ned Leeds yet."
+    },
+    {
+      "id": "spider-man-raimi",
+      "name": "Spider-Man (Raimi)",
+      "alias": "Peter Parker",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 76,
+      "initials": "S(",
+      "theme": {
+        "c1": "#b71c1c",
+        "c2": "#ffcdd2",
+        "accent": "#ffebee"
+      },
+      "pattern": "dots",
+      "emblem": "star",
+      "tagline": "The other guy.",
+      "description": "An older Peter Parker pulled from another universe to help save the Multiverse’s villains.",
+      "importance": "Tobey’s Peter mentors MCU Peter through grief and restraint.",
+      "abilities": [
+        "Spider powers",
+        "Organic webbing",
+        "Experience",
+        "Empathy"
+      ],
+      "spoilers": "He helps cure the villains and returns home after the final battle.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Spider-Man (Raimi) yet."
+    },
+    {
+      "id": "spider-man-webb",
+      "name": "Spider-Man (Webb)",
+      "alias": "Peter Parker",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Spider-Man: No Way Home",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 75,
+      "initials": "S(",
+      "theme": {
+        "c1": "#33691e",
+        "c2": "#aed581",
+        "accent": "#f1f8e9"
+      },
+      "pattern": "hex",
+      "emblem": "diamond",
+      "tagline": "Too many spiders.",
+      "description": "Another universe’s Spider-Man who lost Gwen and finds hope helping again.",
+      "importance": "Andrew’s Peter brings raw emotion and web-slinging flair to the team-up.",
+      "abilities": [
+        "Spider powers",
+        "Web shooters",
+        "Acrobatics",
+        "Heart"
+      ],
+      "spoilers": "He saves Electro’s cure moment and returns home with renewed purpose.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Spider-Man (Webb) yet."
+    },
+    {
+      "id": "ancient-one",
+      "name": "The Ancient One",
+      "alias": "Ancient One",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Doctor Strange",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 92,
+      "initials": "TO",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "hex",
+      "emblem": "crescent",
+      "tagline": "Master of the mystic arts.",
+      "description": "Sorcerer Supreme who draws from the Dark Dimension to protect Earth—at a cost.",
+      "importance": "She sets Strange on his path and defines the MCU’s mystic rules.",
+      "abilities": [
+        "Mystic arts",
+        "Mirror Dimension",
+        "Time Stone access",
+        "Martial arts"
+      ],
+      "spoilers": "Kaecilius mortally wounds her; she dies after confessing her Dark Dimension bargain to Strange.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for The Ancient One yet."
+    },
+    {
+      "id": "mordo",
+      "name": "Karl Mordo",
+      "alias": "Baron Mordo",
+      "group": "other",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Doctor Strange",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 82,
+      "initials": "KM",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "bolt",
+      "emblem": "diamond",
+      "tagline": "Too many sorcerers.",
+      "description": "A Kamar-Taj master who turns against magic’s rule-breakers.",
+      "importance": "Mordo is the zealot foil to Strange’s flexible heroism.",
+      "abilities": [
+        "Mystic arts",
+        "Martial arts",
+        "Staff of the Living Tribunal"
+      ],
+      "spoilers": "After the Ancient One’s death he quits Kamar-Taj and begins hunting sorcerers.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Karl Mordo yet."
+    },
+    {
+      "id": "kaecilius",
+      "name": "Kaecilius",
+      "alias": "Kaecilius",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Doctor Strange",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 80,
+      "initials": "KA",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#eceff1"
+      },
+      "pattern": "waves",
+      "emblem": "burst",
+      "tagline": "Zealot of Dormammu.",
+      "description": "A former Master who seeks eternal life through the Dark Dimension.",
+      "importance": "Kaecilius opens Earth’s first full Dormammu crisis.",
+      "abilities": [
+        "Dark Dimension magic",
+        "Spatial shards",
+        "Martial skill"
+      ],
+      "spoilers": "Strange traps Dormammu in a time loop; Kaecilius is taken into the Dark Dimension.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kaecilius yet."
+    },
+    {
+      "id": "christine-palmer",
+      "name": "Christine Palmer",
+      "alias": "Dr. Palmer",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Doctor Strange",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 24,
+      "initials": "CP",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "stars",
+      "emblem": "crescent",
+      "tagline": "Surgeon and conscience.",
+      "description": "Brilliant surgeon and Strange’s emotional anchor across two films.",
+      "importance": "Christine humanizes Strange’s ego and Multiverse grief.",
+      "abilities": [
+        "Surgery",
+        "Medical brilliance",
+        "Moral clarity"
+      ],
+      "spoilers": "She helps Strange early on; Multiverse of Madness shows variant Christines and her Earth-616 marriage.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Christine Palmer yet."
+    },
+    {
+      "id": "clea",
+      "name": "Clea",
+      "alias": "Clea",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "year": 2022,
+        "type": "Film"
+      },
+      "power": 88,
+      "initials": "CL",
+      "theme": {
+        "c1": "#7a0f14",
+        "c2": "#e0a72b",
+        "accent": "#ffd76a"
+      },
+      "pattern": "burst",
+      "emblem": "circle",
+      "tagline": "From the Dark Dimension.",
+      "description": "A mystical warrior who recruits Strange against an incursion threat.",
+      "importance": "Clea’s mid-credits appearance opens Dark Dimension politics.",
+      "abilities": [
+        "Dark Dimension magic",
+        "Blade skill",
+        "Dimensional travel"
+      ],
+      "spoilers": "She appears after Strange’s third eye opens, summoning him to help her cosmos.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Clea yet."
+    },
+    {
+      "id": "rintrah",
+      "name": "Rintrah",
+      "alias": "Rintrah",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Doctor Strange in the Multiverse of Madness",
+        "year": 2022,
+        "type": "Film"
+      },
+      "power": 77,
+      "initials": "RI",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "flame",
+      "emblem": "hex",
+      "tagline": "Raging minotaur mystic.",
+      "description": "A green minotaur disciple of Kamar-Taj who charges into chaos for Strange.",
+      "importance": "Rintrah is Multiverse of Madness’ breakout mystical muscle.",
+      "abilities": [
+        "Super strength",
+        "Mystic arts",
+        "Charge attacks"
+      ],
+      "spoilers": "He helps defend Kamar-Taj and escapes with survivors after Wanda’s siege.",
+      "rarity": "rare",
+      "photoNote": "Rintrah is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "talos",
+      "name": "Talos",
+      "alias": "Talos",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain Marvel",
+        "year": 2019,
+        "type": "Film"
+      },
+      "power": 70,
+      "initials": "TA",
+      "theme": {
+        "c1": "#00695c",
+        "c2": "#80cbc4",
+        "accent": "#e0f2f1"
+      },
+      "pattern": "stripes",
+      "emblem": "burst",
+      "tagline": "Skrull general.",
+      "description": "Shapeshifting Skrull leader who allies with Fury and Carol against Kree tyranny.",
+      "importance": "Talos humanizes the Skrulls before Secret Invasion’s tragedy.",
+      "abilities": [
+        "Shapeshifting",
+        "Skrull strength",
+        "Espionage",
+        "Leadership"
+      ],
+      "spoilers": "He helps free Skrull refugees; Gravik’s faction later kills him in Secret Invasion.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Talos yet."
+    },
+    {
+      "id": "yon-rogg",
+      "name": "Yon-Rogg",
+      "alias": "Yon-Rogg",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Captain Marvel",
+        "year": 2019,
+        "type": "Film"
+      },
+      "power": 72,
+      "initials": "YR",
+      "theme": {
+        "c1": "#b71c1c",
+        "c2": "#ffcdd2",
+        "accent": "#ffebee"
+      },
+      "pattern": "bolt",
+      "emblem": "claw",
+      "tagline": "Kree mentor-liar.",
+      "description": "Starforce commander who trained Vers while hiding her true past.",
+      "importance": "Yon-Rogg is Carol’s abusive mentor figure and Kree propaganda made flesh.",
+      "abilities": [
+        "Kree strength",
+        "Photon weapons",
+        "Combat training"
+      ],
+      "spoilers": "Carol defeats him without using her full power and sends him back with a warning.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Yon-Rogg yet."
+    },
+    {
+      "id": "minn-erva",
+      "name": "Minn-Erva",
+      "alias": "Minn-Erva",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Captain Marvel",
+        "year": 2019,
+        "type": "Film"
+      },
+      "power": 68,
+      "initials": "ME",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#eceff1"
+      },
+      "pattern": "bolt",
+      "emblem": "triangle",
+      "tagline": "Starforce sniper.",
+      "description": "Elite Kree sniper who resents Vers and hunts Skrulls without mercy.",
+      "importance": "Minn-Erva shows Starforce’s cold professionalism.",
+      "abilities": [
+        "Marksmanship",
+        "Kree physiology",
+        "Tactics"
+      ],
+      "spoilers": "Maria Rambeau shoots down her craft during the final battle.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Minn-Erva yet."
+    },
+    {
+      "id": "maria-rambeau",
+      "name": "Maria Rambeau",
+      "alias": "Maria Rambeau",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain Marvel",
+        "year": 2019,
+        "type": "Film"
+      },
+      "power": 36,
+      "initials": "MR",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "hex",
+      "emblem": "bolt",
+      "tagline": "Pilot and friend.",
+      "description": "Air Force pilot, Carol’s best friend, and Monica’s mother.",
+      "importance": "Maria roots Carol’s humanity and seeds the Rambeau legacy.",
+      "abilities": [
+        "Piloting",
+        "Leadership",
+        "Marksmanship"
+      ],
+      "spoilers": "She helps defeat Starforce; later dies of cancer before WandaVision’s Westview crisis.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Maria Rambeau yet."
+    },
+    {
+      "id": "gravik",
+      "name": "Gravik",
+      "alias": "Gravik",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Secret Invasion",
+        "year": 2023,
+        "type": "Series"
+      },
+      "power": 82,
+      "initials": "GR",
+      "theme": {
+        "c1": "#33691e",
+        "c2": "#aed581",
+        "accent": "#f1f8e9"
+      },
+      "pattern": "claw",
+      "emblem": "diamond",
+      "tagline": "Skrull supremacist.",
+      "description": "Radical Skrull who harvests superhero DNA to become a Super-Skrull.",
+      "importance": "Gravik turns Talos’s dream into a war on Earth.",
+      "abilities": [
+        "Shapeshifting",
+        "Super-Skrull powers",
+        "Strategy",
+        "Harvested abilities"
+      ],
+      "spoilers": "He kills Talos; G’iah, empowered as a Super-Skrull, kills Gravik in the finale.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Gravik yet."
+    },
+    {
+      "id": "giah",
+      "name": "G'iah",
+      "alias": "G'iah",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Secret Invasion",
+        "year": 2023,
+        "type": "Series"
+      },
+      "power": 84,
+      "initials": "GI",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#ce93d8",
+        "accent": "#f3e5f5"
+      },
+      "pattern": "flame",
+      "emblem": "bolt",
+      "tagline": "Super-Skrull heir.",
+      "description": "Talos’s daughter who defected through Gravik’s ranks and became a Super-Skrull.",
+      "importance": "G’iah inherits both Skrull hope and terrifying power.",
+      "abilities": [
+        "Shapeshifting",
+        "Harvested Avenger powers",
+        "Espionage"
+      ],
+      "spoilers": "She absorbs the fruit of Gravik’s machine and kills him.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for G'iah yet."
+    },
+    {
+      "id": "dar-benn",
+      "name": "Dar-Benn",
+      "alias": "Dar-Benn",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "The Marvels",
+        "year": 2023,
+        "type": "Film"
+      },
+      "power": 85,
+      "initials": "DB",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "chevrons",
+      "emblem": "crescent",
+      "tagline": "Kree Accuser reborn.",
+      "description": "Kree revolutionary who wields Universal Weapon jump-points to steal resources for Hala.",
+      "importance": "Dar-Benn is The Marvels’ planet-stakes antagonist.",
+      "abilities": [
+        "Universal Weapon",
+        "Jump-point tears",
+        "Kree strength",
+        "Leadership"
+      ],
+      "spoilers": "Her overuse of the weapon implodes her; the Marvels restore Hala’s sun afterward.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Dar-Benn yet."
+    },
+    {
+      "id": "xialing",
+      "name": "Xu Xialing",
+      "alias": "Xialing",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 70,
+      "initials": "XX",
+      "theme": {
+        "c1": "#bf360c",
+        "c2": "#ffab91",
+        "accent": "#fbe9e7"
+      },
+      "pattern": "claw",
+      "emblem": "shield",
+      "tagline": "Sister of the rings.",
+      "description": "Shang-Chi’s sister who built the Golden Daggers Club and later claims the Ten Rings.",
+      "importance": "Xialing reframes the Ten Rings’ future beyond Wenwu.",
+      "abilities": [
+        "Martial arts",
+        "Staff combat",
+        "Leadership",
+        "Ten Rings (later)"
+      ],
+      "spoilers": "She fights Dweller-in-Darkness with Shang-Chi, then takes command of the Ten Rings.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Xu Xialing yet."
+    },
+    {
+      "id": "katy-chen",
+      "name": "Katy Chen",
+      "alias": "Katy",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 26,
+      "initials": "KC",
+      "theme": {
+        "c1": "#7a0f14",
+        "c2": "#e0a72b",
+        "accent": "#ffd76a"
+      },
+      "pattern": "rings",
+      "emblem": "circle",
+      "tagline": "Unexpected archer.",
+      "description": "Shang-Chi’s best friend who becomes an unlikely Ta Lo archer hero.",
+      "importance": "Katy is the audience’s hilarious, brave entry into Shang-Chi’s world.",
+      "abilities": [
+        "Archery",
+        "Driving",
+        "Courage",
+        "Humor"
+      ],
+      "spoilers": "She kills the Dweller’s soul-sucker mid-air and later trains with Wong and Shang-Chi.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Katy Chen yet."
+    },
+    {
+      "id": "death-dealer",
+      "name": "Death Dealer",
+      "alias": "Death Dealer",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 64,
+      "initials": "DD",
+      "theme": {
+        "c1": "#33691e",
+        "c2": "#aed581",
+        "accent": "#f1f8e9"
+      },
+      "pattern": "stripes",
+      "emblem": "triangle",
+      "tagline": "Masked mentor.",
+      "description": "Ten Rings assassin who trained young Shang-Chi in lethal arts.",
+      "importance": "Death Dealer personifies the cult of violence Shang-Chi escapes.",
+      "abilities": [
+        "Assassin training",
+        "Knives",
+        "Martial arts"
+      ],
+      "spoilers": "Shang-Chi defeats him in Macau; soul-eaters later kill him in Ta Lo.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Death Dealer yet."
+    },
+    {
+      "id": "trevor-slattery",
+      "name": "Trevor Slattery",
+      "alias": "The Mandarin (fake)",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Iron Man 3",
+        "year": 2013,
+        "type": "Film"
+      },
+      "power": 15,
+      "initials": "TS",
+      "theme": {
+        "c1": "#1a237e",
+        "c2": "#ffd700",
+        "accent": "#fff9c4"
+      },
+      "pattern": "chevrons",
+      "emblem": "hex",
+      "tagline": "Greatest actor alive.",
+      "description": "A washed-up actor hired to play the Mandarin for Killian’s conspiracy.",
+      "importance": "Trevor is the MCU’s wildest twist villain reveal and later All Hail the King punchline.",
+      "abilities": [
+        "Acting",
+        "Improvisation",
+        "Surprising survival"
+      ],
+      "spoilers": "Killian used him as a terrorist puppet; the real Ten Rings later abducts him to meet Wenwu.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Trevor Slattery yet."
+    },
+    {
+      "id": "dweller-in-darkness",
+      "name": "Dweller-in-Darkness",
+      "alias": "Dweller-in-Darkness",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 90,
+      "initials": "DD",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "stars",
+      "emblem": "hex",
+      "tagline": "Soul eater.",
+      "description": "An ancient soul-devouring beast sealed behind Ta Lo’s gate.",
+      "importance": "The Dweller is Shang-Chi’s kaiju-scale finale threat.",
+      "abilities": [
+        "Soul absorption",
+        "Colossal size",
+        "Darkness tendrils",
+        "Fear aura"
+      ],
+      "spoilers": "Shang-Chi, Xialing, and the Ten Rings destroy it with the Great Protector’s aid.",
+      "rarity": "epic",
+      "photoNote": "Dweller-in-Darkness is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "morris",
+      "name": "Morris",
+      "alias": "Morris",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 25,
+      "initials": "MO",
+      "theme": {
+        "c1": "#b71c1c",
+        "c2": "#ffcdd2",
+        "accent": "#ffebee"
+      },
+      "pattern": "waves",
+      "emblem": "burst",
+      "tagline": "Faceless friend.",
+      "description": "A cute hundun companion from Ta Lo who befriends Katy and Shang-Chi.",
+      "importance": "Morris is Ta Lo’s adorable emissary and comic relief.",
+      "abilities": [
+        "Flight",
+        "Hundun physiology",
+        "Guidance"
+      ],
+      "spoilers": "He guides the heroes to Ta Lo and sticks with Trevor Slattery.",
+      "rarity": "common",
+      "photoNote": "Morris is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "razorfist",
+      "name": "Razor Fist",
+      "alias": "Razor Fist",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 60,
+      "initials": "RF",
+      "theme": {
+        "c1": "#e65100",
+        "c2": "#ffe0b2",
+        "accent": "#fff3e0"
+      },
+      "pattern": "chevrons",
+      "emblem": "diamond",
+      "tagline": "Blade for an arm.",
+      "description": "Ten Rings enforcer with a machete arm and zero chill.",
+      "importance": "Razor Fist is Wenwu’s brutal field captain.",
+      "abilities": [
+        "Blade arm",
+        "Martial arts",
+        "Intimidation"
+      ],
+      "spoilers": "He hunts Shang-Chi and Katy and falls with Wenwu’s assault on Ta Lo.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Razor Fist yet."
+    },
+    {
+      "id": "whiplash",
+      "name": "Whiplash",
+      "alias": "Ivan Vanko",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Iron Man 2",
+        "year": 2010,
+        "type": "Film"
+      },
+      "power": 74,
+      "initials": "WH",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#eceff1"
+      },
+      "pattern": "flame",
+      "emblem": "diamond",
+      "tagline": "Whips of plasma.",
+      "description": "Son of a Stark-wronged Soviet physicist who builds arc-powered whips and a bird-of-prey suit.",
+      "importance": "Whiplash proves others can weaponize Stark tech.",
+      "abilities": [
+        "Arc whips",
+        "Exo-suit",
+        "Engineering genius"
+      ],
+      "spoilers": "He attacks Monaco and the Expo with Justin Hammer’s drones; the suit overloads and kills him.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Whiplash yet."
+    },
+    {
+      "id": "iron-monger",
+      "name": "Iron Monger",
+      "alias": "Obadiah Stane",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Iron Man",
+        "year": 2008,
+        "type": "Film"
+      },
+      "power": 76,
+      "initials": "IM",
+      "theme": {
+        "c1": "#b71c1c",
+        "c2": "#ffcdd2",
+        "accent": "#ffebee"
+      },
+      "pattern": "burst",
+      "emblem": "shield",
+      "tagline": "Boardroom betrayer.",
+      "description": "Stark Industries’ COO who steals the arc reactor and builds a brute suit.",
+      "importance": "Obadiah is the MCU’s first armored rival and corporate villain.",
+      "abilities": [
+        "Iron Monger armor",
+        "Business manipulation",
+        "Brute strength"
+      ],
+      "spoilers": "Tony overloads the reactor; Pepper triggers a factory blast that kills Stane.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Iron Monger yet."
+    },
+    {
+      "id": "aldrich-killian",
+      "name": "Aldrich Killian",
+      "alias": "Killian",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Iron Man 3",
+        "year": 2013,
+        "type": "Film"
+      },
+      "power": 78,
+      "initials": "AK",
+      "theme": {
+        "c1": "#880e4f",
+        "c2": "#f8bbd0",
+        "accent": "#fce4ec"
+      },
+      "pattern": "stars",
+      "emblem": "crescent",
+      "tagline": "Extremis overdrive.",
+      "description": "AIM founder who uses Extremis to heal—and to terrorize—while inventing the Mandarin myth.",
+      "importance": "Killian turns regenerative science into a false-flag empire.",
+      "abilities": [
+        "Extremis regeneration",
+        "Heat blasts",
+        "Genius intellect",
+        "Enhanced strength"
+      ],
+      "spoilers": "Tony plants a targeted Extremis charge; the explosion kills Killian.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Aldrich Killian yet."
+    },
+    {
+      "id": "justin-hammer",
+      "name": "Justin Hammer",
+      "alias": "Hammer",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Iron Man 2",
+        "year": 2010,
+        "type": "Film"
+      },
+      "power": 34,
+      "initials": "JH",
+      "theme": {
+        "c1": "#bf360c",
+        "c2": "#ffab91",
+        "accent": "#fbe9e7"
+      },
+      "pattern": "grid",
+      "emblem": "diamond",
+      "tagline": "Worst contractor.",
+      "description": "Defense contractor who tries to out-Stark Tony and fails upward into prison.",
+      "importance": "Hammer is comic corporate foil and drone-war enabler for Whiplash.",
+      "abilities": [
+        "Weapons contracting",
+        "Showmanship",
+        "Drones (by proxy)"
+      ],
+      "spoilers": "His Expo drones go rogue under Vanko; he ends up in Seagate.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Justin Hammer yet."
+    },
+    {
+      "id": "ho-yinsen",
+      "name": "Ho Yinsen",
+      "alias": "Yinsen",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Iron Man",
+        "year": 2008,
+        "type": "Film"
+      },
+      "power": 16,
+      "initials": "HY",
+      "theme": {
+        "c1": "#00695c",
+        "c2": "#80cbc4",
+        "accent": "#e0f2f1"
+      },
+      "pattern": "bolt",
+      "emblem": "circle",
+      "tagline": "The man who saved Tony.",
+      "description": "A captured physician who helps Tony build the first armor and gives his life for the escape.",
+      "importance": "Yinsen is the moral spark that creates Iron Man.",
+      "abilities": [
+        "Medicine",
+        "Engineering aid",
+        "Sacrifice"
+      ],
+      "spoilers": "He distracts the Ten Rings so Tony can flee and dies asking Tony not to waste his life.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ho Yinsen yet."
+    },
+    {
+      "id": "howard-stark",
+      "name": "Howard Stark",
+      "alias": "Howard Stark",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain America: The First Avenger",
+        "year": 2011,
+        "type": "Film"
+      },
+      "power": 40,
+      "initials": "HS",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#eceff1"
+      },
+      "pattern": "stars",
+      "emblem": "triangle",
+      "tagline": "Father of the future.",
+      "description": "Genius industrialist, Cap’s wartime ally, and Tony Stark’s father.",
+      "importance": "Howard seeds Stark tech, S.H.I.E.L.D., and Tony’s unresolved grief.",
+      "abilities": [
+        "Invention",
+        "Engineering",
+        "Espionage support",
+        "Charisma"
+      ],
+      "spoilers": "Hydra-controlled Bucky kills Howard and Maria Stark in 1991—the truth that shatters Civil War.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Howard Stark yet."
+    },
+    {
+      "id": "maria-stark",
+      "name": "Maria Stark",
+      "alias": "Maria Stark",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Captain America: Civil War",
+        "year": 2016,
+        "type": "Film"
+      },
+      "power": 15,
+      "initials": "MS",
+      "theme": {
+        "c1": "#e65100",
+        "c2": "#ffe0b2",
+        "accent": "#fff3e0"
+      },
+      "pattern": "diamonds",
+      "emblem": "crescent",
+      "tagline": "Tony’s mother.",
+      "description": "Tony Stark’s mother, remembered most through the tragedy of her murder.",
+      "importance": "Maria’s death is the emotional detonator of Civil War.",
+      "abilities": [
+        "Compassion",
+        "Family anchor"
+      ],
+      "spoilers": "The Winter Soldier kills her with Howard; Tony watches the tape decades later.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Maria Stark yet."
+    },
+    {
+      "id": "yellowjacket",
+      "name": "Yellowjacket",
+      "alias": "Darren Cross",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Ant-Man",
+        "year": 2015,
+        "type": "Film"
+      },
+      "power": 72,
+      "initials": "YE",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#ce93d8",
+        "accent": "#f3e5f5"
+      },
+      "pattern": "claw",
+      "emblem": "triangle",
+      "tagline": "Pym tech gone wrong.",
+      "description": "Hank Pym’s protégé who weaponizes the Yellowjacket suit for Hydra buyers.",
+      "importance": "Cross is Ant-Man’s first shrinking-arms race villain.",
+      "abilities": [
+        "Yellowjacket suit",
+        "Size shifting",
+        "Energy blasts",
+        "Genius intellect"
+      ],
+      "spoilers": "Scott destroys his suit’s regulator; Cross is presumed dead—later remade as MODOK.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Yellowjacket yet."
+    },
+    {
+      "id": "modok",
+      "name": "M.O.D.O.K.",
+      "alias": "Darren Cross",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Ant-Man and the Wasp: Quantumania",
+        "year": 2023,
+        "type": "Film"
+      },
+      "power": 70,
+      "initials": "MO",
+      "theme": {
+        "c1": "#bf360c",
+        "c2": "#ffab91",
+        "accent": "#fbe9e7"
+      },
+      "pattern": "waves",
+      "emblem": "star",
+      "tagline": "Mental organism designed only for killing.",
+      "description": "Darren Cross remade by Kang into a floating hyper-intellect with rage issues.",
+      "importance": "MODOK is Quantumania’s tragicomic pulp monster.",
+      "abilities": [
+        "Psionic blasts",
+        "Genius intellect",
+        "Hover chair",
+        "Durability"
+      ],
+      "spoilers": "He redeems himself aiding the Pyms, then dies in a heroic explosion against Kang’s forces.",
+      "rarity": "uncommon",
+      "photoNote": "M.O.D.O.K. is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "hank-pym",
+      "name": "Hank Pym",
+      "alias": "Dr. Hank Pym",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Ant-Man",
+        "year": 2015,
+        "type": "Film"
+      },
+      "power": 68,
+      "initials": "HP",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "bolt",
+      "emblem": "bolt",
+      "tagline": "Original Ant-Man.",
+      "description": "Inventor of Pym Particles and original Ant-Man who mentors Scott Lang.",
+      "importance": "Hank’s science underpins Ant-Man’s corner of the MCU—and Quantumania’s stakes.",
+      "abilities": [
+        "Pym Particles",
+        "Genius intellect",
+        "Ant communication",
+        "Combat experience"
+      ],
+      "spoilers": "He enters the Quantum Realm to find Janet, later helps fight Kang the Conqueror.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hank Pym yet."
+    },
+    {
+      "id": "janet-van-dyne",
+      "name": "Janet van Dyne",
+      "alias": "Wasp (Janet)",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Ant-Man",
+        "year": 2015,
+        "type": "Film"
+      },
+      "power": 70,
+      "initials": "JD",
+      "theme": {
+        "c1": "#880e4f",
+        "c2": "#f8bbd0",
+        "accent": "#fce4ec"
+      },
+      "pattern": "bolt",
+      "emblem": "bolt",
+      "tagline": "Lost in the Quantum Realm.",
+      "description": "Original Wasp who survived decades in the Quantum Realm.",
+      "importance": "Janet’s return expands Quantum Realm lore and Kang’s prison mythology.",
+      "abilities": [
+        "Pym Particles",
+        "Flight wings",
+        "Bio-electric stings",
+        "Quantum awareness"
+      ],
+      "spoilers": "Scott rescues her in Ant-Man and the Wasp; she warns against Kang and fights in Quantumania.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Janet van Dyne yet."
+    },
+    {
+      "id": "bill-foster",
+      "name": "Bill Foster",
+      "alias": "Goliath",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018,
+        "type": "Film"
+      },
+      "power": 66,
+      "initials": "BF",
+      "theme": {
+        "c1": "#bf360c",
+        "c2": "#ffab91",
+        "accent": "#fbe9e7"
+      },
+      "pattern": "waves",
+      "emblem": "hex",
+      "tagline": "Growing pains.",
+      "description": "Former Pym collaborator who can grow to giant size and cares for Ava Starr.",
+      "importance": "Foster brings Goliath into the MCU and a moral take on Ghost’s cure.",
+      "abilities": [
+        "Size growth",
+        "Physics expertise",
+        "Hand-to-hand"
+      ],
+      "spoilers": "He helps stabilize Ghost and stays off the Avengers’ radar afterward.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Bill Foster yet."
+    },
+    {
+      "id": "luis",
+      "name": "Luis",
+      "alias": "Luis",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Ant-Man",
+        "year": 2015,
+        "type": "Film"
+      },
+      "power": 19,
+      "initials": "LU",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "rings",
+      "emblem": "crescent",
+      "tagline": "Storytime.",
+      "description": "Scott’s friend with legendary rambling stories and a big heart.",
+      "importance": "Luis is Ant-Man’s comic soul and X-Con family glue.",
+      "abilities": [
+        "Storytelling",
+        "Van driving",
+        "Loyalty",
+        "Security work"
+      ],
+      "spoilers": "He helps steal and save the day across Ant-Man films and runs X-Con Security.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Luis yet."
+    },
+    {
+      "id": "elektra",
+      "name": "Elektra",
+      "alias": "Elektra Natchios",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Daredevil (Netflix series)",
+        "year": 2016,
+        "type": "Series"
+      },
+      "power": 56,
+      "initials": "EL",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#eceff1"
+      },
+      "pattern": "rings",
+      "emblem": "triangle",
+      "tagline": "The assassin’s heart.",
+      "description": "Deadly assassin and Matt Murdock’s complicated love, bound to the Hand’s wars.",
+      "importance": "Elektra is Daredevil’s most dangerous personal entanglement.",
+      "abilities": [
+        "Assassin training",
+        "Sai mastery",
+        "Acrobatics",
+        "Stealth"
+      ],
+      "spoilers": "She dies and returns as the Black Sky; the Defenders stop the Hand’s resurrection plan.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Elektra yet."
+    },
+    {
+      "id": "bullseye",
+      "name": "Bullseye",
+      "alias": "Lester",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Daredevil (Netflix series)",
+        "year": 2018,
+        "type": "Series"
+      },
+      "power": 58,
+      "initials": "BU",
+      "theme": {
+        "c1": "#33691e",
+        "c2": "#aed581",
+        "accent": "#f1f8e9"
+      },
+      "pattern": "diamonds",
+      "emblem": "shield",
+      "tagline": "Everything’s a weapon.",
+      "description": "A psychotic assassin who never misses—and becomes Fisk’s sharpest knife.",
+      "importance": "Bullseye is Daredevil’s lethal mirror and Born Again chaos agent.",
+      "abilities": [
+        "Perfect aim",
+        "Improvised weapons",
+        "Martial skill",
+        "Unpredictability"
+      ],
+      "spoilers": "He becomes Fisk’s agent and later murders Foggy Nelson in Born Again.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Bullseye yet."
+    },
+    {
+      "id": "echo",
+      "name": "Echo",
+      "alias": "Maya Lopez",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Hawkeye",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 57,
+      "initials": "EC",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "bolt",
+      "emblem": "burst",
+      "tagline": "Photographic reflexes.",
+      "description": "Deaf Choctaw vigilante with photographic reflexes seeking truth about her father’s death.",
+      "importance": "Echo bridges Hawkeye’s NYC to Indigenous mysticism and Kingpin’s empire.",
+      "abilities": [
+        "Photographic reflexes",
+        "Martial arts",
+        "Tracking",
+        "Ancestral power"
+      ],
+      "spoilers": "She nearly kills Fisk in her series, then walks a path of healing beyond vengeance.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Echo yet."
+    },
+    {
+      "id": "iron-fist",
+      "name": "Iron Fist",
+      "alias": "Danny Rand",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Iron Fist (Netflix series)",
+        "year": 2017,
+        "type": "Series"
+      },
+      "power": 72,
+      "initials": "IF",
+      "theme": {
+        "c1": "#b71c1c",
+        "c2": "#ffcdd2",
+        "accent": "#ffebee"
+      },
+      "pattern": "hex",
+      "emblem": "star",
+      "tagline": "The Immortal Iron Fist.",
+      "description": "Keeper of K’un-Lun’s chi who punches with a glowing fist of force.",
+      "importance": "Danny brings martial-mystical street heroics to the Defenders.",
+      "abilities": [
+        "Iron Fist chi",
+        "Martial arts",
+        "Chi healing",
+        "Dragon power"
+      ],
+      "spoilers": "He helps stop the Hand with the Defenders and remains part of the Netflix-MCU tapestry.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Iron Fist yet."
+    },
+    {
+      "id": "trish-walker",
+      "name": "Trish Walker",
+      "alias": "Hellcat",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Jessica Jones (Netflix series)",
+        "year": 2015,
+        "type": "Series"
+      },
+      "power": 60,
+      "initials": "TW",
+      "theme": {
+        "c1": "#7a0f14",
+        "c2": "#e0a72b",
+        "accent": "#ffd76a"
+      },
+      "pattern": "dots",
+      "emblem": "bolt",
+      "tagline": "Hellcat rising.",
+      "description": "Jessica’s adoptive sister who becomes the vigilante Hellcat.",
+      "importance": "Trish shows how Jessica’s world creates new—sometimes dangerous—heroes.",
+      "abilities": [
+        "Enhanced strength (later)",
+        "Martial arts",
+        "Investigation"
+      ],
+      "spoilers": "She enhances herself and goes too far; Jessica turns her in after a lethal spiral.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Trish Walker yet."
+    },
+    {
+      "id": "kilgrave",
+      "name": "Kilgrave",
+      "alias": "Purple Man",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Jessica Jones (Netflix series)",
+        "year": 2015,
+        "type": "Series"
+      },
+      "power": 74,
+      "initials": "KI",
+      "theme": {
+        "c1": "#bf360c",
+        "c2": "#ffab91",
+        "accent": "#fbe9e7"
+      },
+      "pattern": "chevrons",
+      "emblem": "diamond",
+      "tagline": "Do it.",
+      "description": "A purple-suited monster whose voice makes anyone obey.",
+      "importance": "Kilgrave is one of the MCU’s most unsettling non-god villains.",
+      "abilities": [
+        "Mind control",
+        "Manipulation",
+        "Ruthlessness"
+      ],
+      "spoilers": "Jessica kills him to end his control spree after he torments New York.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kilgrave yet."
+    },
+    {
+      "id": "foggy-nelson",
+      "name": "Foggy Nelson",
+      "alias": "Franklin Nelson",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Daredevil (Netflix series)",
+        "year": 2015,
+        "type": "Series"
+      },
+      "power": 18,
+      "initials": "FN",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "waves",
+      "emblem": "burst",
+      "tagline": "Nelson and Murdock.",
+      "description": "Matt’s best friend and law partner—the heart of Hell’s Kitchen’s legal crusade.",
+      "importance": "Foggy is Daredevil’s conscience in a suit.",
+      "abilities": [
+        "Lawyering",
+        "Loyalty",
+        "Street smarts"
+      ],
+      "spoilers": "Bullseye murders him in Daredevil: Born Again, devastating Matt and Karen.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Foggy Nelson yet."
+    },
+    {
+      "id": "karen-page",
+      "name": "Karen Page",
+      "alias": "Karen Page",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Daredevil (Netflix series)",
+        "year": 2015,
+        "type": "Series"
+      },
+      "power": 20,
+      "initials": "KP",
+      "theme": {
+        "c1": "#880e4f",
+        "c2": "#f8bbd0",
+        "accent": "#fce4ec"
+      },
+      "pattern": "bolt",
+      "emblem": "burst",
+      "tagline": "Reporter with a secret.",
+      "description": "Nelson & Murdock ally turned investigative journalist hunting Fisk’s empire.",
+      "importance": "Karen is the prose-and-pistol spine of Daredevil’s civilian war.",
+      "abilities": [
+        "Investigation",
+        "Marksmanship",
+        "Courage"
+      ],
+      "spoilers": "She survives Fisk’s rise to mayor and Foggy’s murder, still fighting for the truth.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Karen Page yet."
+    },
+    {
+      "id": "white-vision",
+      "name": "White Vision",
+      "alias": "Vision",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "WandaVision",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 87,
+      "initials": "WV",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#eceff1"
+      },
+      "pattern": "flame",
+      "emblem": "shield",
+      "tagline": "I am Vision.",
+      "description": "S.W.O.R.D.’s rebuilt Vision who reclaims his memories and identity.",
+      "importance": "White Vision keeps the synthezoid’s story alive beyond WandaVision.",
+      "abilities": [
+        "Density control",
+        "Solar beam",
+        "Flight",
+        "Super intellect"
+      ],
+      "spoilers": "He battles Hex Vision, regains memories via Ship of Theseus, and flies away free.",
+      "rarity": "epic",
+      "photoNote": "White Vision is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "billy-maximoff",
+      "name": "Billy Maximoff",
+      "alias": "Wiccan",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "WandaVision",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 86,
+      "initials": "BM",
+      "theme": {
+        "c1": "#7a0f14",
+        "c2": "#e0a72b",
+        "accent": "#ffd76a"
+      },
+      "pattern": "dots",
+      "emblem": "star",
+      "tagline": "Witchcraft inherited.",
+      "description": "Wanda’s son reborn through Agatha’s coven trial as the young witch Teen/Wiccan.",
+      "importance": "Billy bridges WandaVision to Agatha All Along and Young Avengers energy.",
+      "abilities": [
+        "Chaos magic",
+        "Spells",
+        "Astral senses",
+        "Teleportation"
+      ],
+      "spoilers": "In Agatha All Along he seeks his twin and survives the Witches’ Road as Wiccan.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Billy Maximoff yet."
+    },
+    {
+      "id": "rio-vidal",
+      "name": "Rio Vidal",
+      "alias": "Death",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Agatha All Along",
+        "year": 2024,
+        "type": "Series"
+      },
+      "power": 93,
+      "initials": "RV",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#a5d6a7",
+        "accent": "#e8f5e9"
+      },
+      "pattern": "flame",
+      "emblem": "hex",
+      "tagline": "Death wears green.",
+      "description": "A primordial force of Death who loved Agatha and walks the Road in disguise.",
+      "importance": "Rio personifies Death in the MCU’s witch saga.",
+      "abilities": [
+        "Death’s power",
+        "Green magic",
+        "Shapeshifting guise",
+        "Combat"
+      ],
+      "spoilers": "She is revealed as Death; Agatha ultimately yields to her.",
+      "rarity": "legendary",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Rio Vidal yet."
+    },
+    {
+      "id": "lilia-calderu",
+      "name": "Lilia Calderu",
+      "alias": "Lilia",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Agatha All Along",
+        "year": 2024,
+        "type": "Series"
+      },
+      "power": 72,
+      "initials": "LC",
+      "theme": {
+        "c1": "#33691e",
+        "c2": "#aed581",
+        "accent": "#f1f8e9"
+      },
+      "pattern": "stars",
+      "emblem": "diamond",
+      "tagline": "Divination out of order.",
+      "description": "A centuries-old divination witch experiencing time out of sequence.",
+      "importance": "Lilia’s sacrifice and prophecy steer the coven’s fate.",
+      "abilities": [
+        "Divination",
+        "Time-scrambled foresight",
+        "Witchcraft"
+      ],
+      "spoilers": "She confronts the Salem Seven and dies holding a prophetic line that saves others.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Lilia Calderu yet."
+    },
+    {
+      "id": "jennifer-kale",
+      "name": "Jennifer Kale",
+      "alias": "Jen Kale",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Agatha All Along",
+        "year": 2024,
+        "type": "Series"
+      },
+      "power": 68,
+      "initials": "JK",
+      "theme": {
+        "c1": "#1a237e",
+        "c2": "#ffd700",
+        "accent": "#fff9c4"
+      },
+      "pattern": "claw",
+      "emblem": "circle",
+      "tagline": "Potions under a bind.",
+      "description": "A potions witch whose power was bound—and who wants it back.",
+      "importance": "Jen is the coven’s sharp-tongued specialist.",
+      "abilities": [
+        "Potions",
+        "Protection magic",
+        "Occult knowledge"
+      ],
+      "spoilers": "She walks the Witches’ Road with Agatha’s coven and survives its trials.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Jennifer Kale yet."
+    },
+    {
+      "id": "jimmy-woo",
+      "name": "Jimmy Woo",
+      "alias": "Agent Woo",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Ant-Man and the Wasp",
+        "year": 2018,
+        "type": "Film"
+      },
+      "power": 28,
+      "initials": "JW",
+      "theme": {
+        "c1": "#e65100",
+        "c2": "#ffe0b2",
+        "accent": "#fff3e0"
+      },
+      "pattern": "hex",
+      "emblem": "hex",
+      "tagline": "Card tricks and FBI badges.",
+      "description": "FBI agent who watches Scott Lang and later investigates Westview with kindness.",
+      "importance": "Jimmy is the MCU’s friendliest federal agent and WandaVision’s soft landing.",
+      "abilities": [
+        "Investigation",
+        "Card sleight-of-hand",
+        "Empathy"
+      ],
+      "spoilers": "He helps free Westview’s civilians and remains an ally to powered people.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Jimmy Woo yet."
+    },
+    {
+      "id": "mobius",
+      "name": "Mobius",
+      "alias": "Mobius M. Mobius",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Loki",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 30,
+      "initials": "MO",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "waves",
+      "emblem": "diamond",
+      "tagline": "TVA analyst.",
+      "description": "A TVA agent who studies variants and becomes Loki’s unlikely friend.",
+      "importance": "Mobius is the human (ish) heart of the TVA saga.",
+      "abilities": [
+        "Investigation",
+        "TemPad tech",
+        "Interrogation",
+        "Loyalty"
+      ],
+      "spoilers": "He helps Loki against the TVA’s lies and lives a renewed life after the Loom crisis.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Mobius yet."
+    },
+    {
+      "id": "ravonna",
+      "name": "Ravonna Renslayer",
+      "alias": "Judge Renslayer",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Loki",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 48,
+      "initials": "RR",
+      "theme": {
+        "c1": "#00695c",
+        "c2": "#80cbc4",
+        "accent": "#e0f2f1"
+      },
+      "pattern": "rings",
+      "emblem": "circle",
+      "tagline": "TVA judge.",
+      "description": "A ruthless TVA judge with buried memories and a hunger for free will’s throne.",
+      "importance": "Renslayer personifies the TVA’s authoritarian smile.",
+      "abilities": [
+        "Authority",
+        "Combat training",
+        "TemPad mastery",
+        "Ambition"
+      ],
+      "spoilers": "She hunts free will’s secrets and clashes with Sylvie and Loki’s allies across both seasons.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ravonna Renslayer yet."
+    },
+    {
+      "id": "he-who-remains",
+      "name": "He Who Remains",
+      "alias": "He Who Remains",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Loki",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 94,
+      "initials": "HR",
+      "theme": {
+        "c1": "#7a0f14",
+        "c2": "#e0a72b",
+        "accent": "#ffd76a"
+      },
+      "pattern": "burst",
+      "emblem": "crescent",
+      "tagline": "The man at the End of Time.",
+      "description": "A Kang variant who built the TVA to stop a multiversal war—then invited his own murder.",
+      "importance": "He Who Remains opens the Kang Dynasty threat with a single conversation.",
+      "abilities": [
+        "Multiversal tech",
+        "Foresight via Alioth",
+        "TVA creation",
+        "Strategy"
+      ],
+      "spoilers": "Sylvie kills him; his death unleashes Kang variants across the Multiverse.",
+      "rarity": "legendary",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for He Who Remains yet."
+    },
+    {
+      "id": "miss-minutes",
+      "name": "Miss Minutes",
+      "alias": "Miss Minutes",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Loki",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 55,
+      "initials": "MM",
+      "theme": {
+        "c1": "#1a237e",
+        "c2": "#ffd700",
+        "accent": "#fff9c4"
+      },
+      "pattern": "stripes",
+      "emblem": "burst",
+      "tagline": "Tick-tock.",
+      "description": "A cartoon AI mascot of the TVA with a terrifying loyalty to He Who Remains.",
+      "importance": "Miss Minutes is the TVA’s cheerful propaganda—and a lethal digital threat.",
+      "abilities": [
+        "TVA system access",
+        "Holographic presence",
+        "Manipulation",
+        "Data control"
+      ],
+      "spoilers": "She aids Ravonna and He Who Remains’ agenda, tormenting Loki and Sylvie.",
+      "rarity": "common",
+      "photoNote": "Miss Minutes is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "hunter-b15",
+      "name": "Hunter B-15",
+      "alias": "Hunter B-15",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Loki",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 42,
+      "initials": "H1",
+      "theme": {
+        "c1": "#00695c",
+        "c2": "#80cbc4",
+        "accent": "#e0f2f1"
+      },
+      "pattern": "dots",
+      "emblem": "crescent",
+      "tagline": "Minute Men no more.",
+      "description": "A TVA hunter who learns she was a stolen variant and fights for free will.",
+      "importance": "B-15 leads the TVA’s conscience revolt.",
+      "abilities": [
+        "Combat training",
+        "TemPad",
+        "Leadership",
+        "Pruning expertise"
+      ],
+      "spoilers": "She helps expose the TVA’s lies and rebuilds it beside Mobius and Loki’s allies.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hunter B-15 yet."
+    },
+    {
+      "id": "classic-loki",
+      "name": "Classic Loki",
+      "alias": "Loki Variant",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Loki",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 80,
+      "initials": "CL",
+      "theme": {
+        "c1": "#33691e",
+        "c2": "#aed581",
+        "accent": "#f1f8e9"
+      },
+      "pattern": "waves",
+      "emblem": "claw",
+      "tagline": "Glorious purpose, retired.",
+      "description": "An older Loki variant who faked his death and mastered illusion on a lonely world.",
+      "importance": "Classic Loki’s sacrifice makes the Alioth gambit possible.",
+      "abilities": [
+        "Master illusion",
+        "Asgardian magic",
+        "Longevity",
+        "Showmanship"
+      ],
+      "spoilers": "He distracts Alioth with a giant Asgard illusion so Loki and Sylvie can pass, dying in the effort.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Classic Loki yet."
+    },
+    {
+      "id": "thunderbolt-ross",
+      "name": "Thunderbolt Ross",
+      "alias": "Red Hulk",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "The Incredible Hulk",
+        "year": 2008,
+        "type": "Film"
+      },
+      "power": 88,
+      "initials": "TR",
+      "theme": {
+        "c1": "#7a0f14",
+        "c2": "#e0a72b",
+        "accent": "#ffd76a"
+      },
+      "pattern": "waves",
+      "emblem": "hex",
+      "tagline": "General. President. Monster.",
+      "description": "Betty’s father and Hulk’s longtime hunter who becomes Red Hulk as President.",
+      "importance": "Ross ties the Hulk’s origin to Brave New World’s political crisis.",
+      "abilities": [
+        "Military command",
+        "Red Hulk strength",
+        "Heat generation",
+        "Strategy"
+      ],
+      "spoilers": "In Brave New World he transforms into Red Hulk; Sam Wilson’s Cap confronts him.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Thunderbolt Ross yet."
+    },
+    {
+      "id": "leader",
+      "name": "The Leader",
+      "alias": "Samuel Sterns",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "The Incredible Hulk",
+        "year": 2008,
+        "type": "Film"
+      },
+      "power": 70,
+      "initials": "TL",
+      "theme": {
+        "c1": "#e65100",
+        "c2": "#ffe0b2",
+        "accent": "#fff3e0"
+      },
+      "pattern": "dots",
+      "emblem": "crescent",
+      "tagline": "Gamma genius.",
+      "description": "A cellist-turned-gamma genius whose intellect mutates into a green, scheming Leader.",
+      "importance": "Sterns is the long-teased brain villain behind Brave New World’s chaos.",
+      "abilities": [
+        "Super intellect",
+        "Gamma mutation",
+        "Conspiracy mastery"
+      ],
+      "spoilers": "Banner’s blood mutates him; years later he engineers political crises as the Leader.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for The Leader yet."
+    },
+    {
+      "id": "betty-ross",
+      "name": "Betty Ross",
+      "alias": "Betty Ross",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "The Incredible Hulk",
+        "year": 2008,
+        "type": "Film"
+      },
+      "power": 22,
+      "initials": "BR",
+      "theme": {
+        "c1": "#1a237e",
+        "c2": "#ffd700",
+        "accent": "#fff9c4"
+      },
+      "pattern": "bolt",
+      "emblem": "triangle",
+      "tagline": "Bridge to Banner.",
+      "description": "Scientist and Bruce Banner’s great love caught between father and Hulk.",
+      "importance": "Betty is the human stake of the Hulk’s origin film.",
+      "abilities": [
+        "Biochemistry",
+        "Compassion",
+        "Courage"
+      ],
+      "spoilers": "She helps Banner evade her father’s hunt and witnesses his control struggles.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Betty Ross yet."
+    },
+    {
+      "id": "mister-fantastic",
+      "name": "Mister Fantastic",
+      "alias": "Reed Richards",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "The Fantastic Four: First Steps",
+        "year": 2025,
+        "type": "Film"
+      },
+      "power": 86,
+      "initials": "MF",
+      "theme": {
+        "c1": "#880e4f",
+        "c2": "#f8bbd0",
+        "accent": "#fce4ec"
+      },
+      "pattern": "diamonds",
+      "emblem": "hex",
+      "tagline": "Everything stretches.",
+      "description": "Genius patriarch of the Fantastic Four whose body stretches with his intellect.",
+      "importance": "Reed anchors the MCU’s First Family and cosmic science era.",
+      "abilities": [
+        "Elasticity",
+        "Genius intellect",
+        "Invention",
+        "Leadership"
+      ],
+      "spoilers": "He leads the Four against Galactus’s demand and fights to protect their world and child.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Mister Fantastic yet."
+    },
+    {
+      "id": "invisible-woman",
+      "name": "Invisible Woman",
+      "alias": "Sue Storm",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "The Fantastic Four: First Steps",
+        "year": 2025,
+        "type": "Film"
+      },
+      "power": 85,
+      "initials": "IW",
+      "theme": {
+        "c1": "#01579b",
+        "c2": "#81d4fa",
+        "accent": "#e1f5fe"
+      },
+      "pattern": "grid",
+      "emblem": "crescent",
+      "tagline": "Force of will.",
+      "description": "Sue Storm wields invisibility and force fields as the Four’s emotional center.",
+      "importance": "Sue is the team’s strongest will and protective power.",
+      "abilities": [
+        "Invisibility",
+        "Force fields",
+        "Leadership",
+        "Tactical mind"
+      ],
+      "spoilers": "She stands against Galactus’s threat and safeguards Franklin’s future.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Invisible Woman yet."
+    },
+    {
+      "id": "human-torch",
+      "name": "Human Torch",
+      "alias": "Johnny Storm",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "The Fantastic Four: First Steps",
+        "year": 2025,
+        "type": "Film"
+      },
+      "power": 82,
+      "initials": "HT",
+      "theme": {
+        "c1": "#0b2a6b",
+        "c2": "#c0272d",
+        "accent": "#e8eefc"
+      },
+      "pattern": "chevrons",
+      "emblem": "claw",
+      "tagline": "Flame on.",
+      "description": "Sue’s brother who becomes living flame—cocky, brave, and airborne.",
+      "importance": "Johnny is the Four’s hotheaded public face.",
+      "abilities": [
+        "Pyrokinesis",
+        "Flight",
+        "Nova burst",
+        "Showmanship"
+      ],
+      "spoilers": "He lights up the fight against Galactus’s herald and the cosmic siege.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Human Torch yet."
+    },
+    {
+      "id": "the-thing",
+      "name": "The Thing",
+      "alias": "Ben Grimm",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "The Fantastic Four: First Steps",
+        "year": 2025,
+        "type": "Film"
+      },
+      "power": 88,
+      "initials": "TT",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#ce93d8",
+        "accent": "#f3e5f5"
+      },
+      "pattern": "claw",
+      "emblem": "bolt",
+      "tagline": "It's clobberin' time.",
+      "description": "Reed’s best friend transformed into an orange-rock powerhouse with a soft heart.",
+      "importance": "Ben is the Four’s muscle and conscience.",
+      "abilities": [
+        "Super strength",
+        "Rock durability",
+        "Combat skill",
+        "Loyalty"
+      ],
+      "spoilers": "He goes toe-to-toe with cosmic threats to save their world beside his family.",
+      "rarity": "epic",
+      "photoNote": "The Thing is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "galactus",
+      "name": "Galactus",
+      "alias": "Devourer of Worlds",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "The Fantastic Four: First Steps",
+        "year": 2025,
+        "type": "Film"
+      },
+      "power": 100,
+      "initials": "GA",
+      "theme": {
+        "c1": "#880e4f",
+        "c2": "#f8bbd0",
+        "accent": "#fce4ec"
+      },
+      "pattern": "claw",
+      "emblem": "crescent",
+      "tagline": "Worlds end when he hungers.",
+      "description": "A cosmic entity who consumes planets to survive, looming over the Fantastic Four’s world.",
+      "importance": "Galactus is the MCU’s planet-scale hunger given form.",
+      "abilities": [
+        "Planet devouring",
+        "Cosmic power",
+        "Size beyond measure",
+        "Herald empowerment"
+      ],
+      "spoilers": "He demands a terrible price tied to Franklin Richards; the Four defy him.",
+      "rarity": "legendary",
+      "photoNote": "Galactus is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "silver-surfer",
+      "name": "Silver Surfer",
+      "alias": "Shalla-Bal",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "The Fantastic Four: First Steps",
+        "year": 2025,
+        "type": "Film"
+      },
+      "power": 95,
+      "initials": "SS",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#ce93d8",
+        "accent": "#f3e5f5"
+      },
+      "pattern": "stars",
+      "emblem": "crescent",
+      "tagline": "Herald on the board.",
+      "description": "Galactus’s silver herald who rides the cosmic boards ahead of annihilation.",
+      "importance": "Shalla-Bal’s Surfer reframes the herald myth for the MCU’s F4 era.",
+      "abilities": [
+        "Power Cosmic",
+        "Board flight",
+        "Energy projection",
+        "Surfing spacetime"
+      ],
+      "spoilers": "She heralds Galactus’s approach and becomes central to the Four’s cosmic confrontation.",
+      "rarity": "legendary",
+      "photoNote": "Silver Surfer is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "cassandra-nova",
+      "name": "Cassandra Nova",
+      "alias": "Cassandra Nova",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Deadpool & Wolverine",
+        "year": 2024,
+        "type": "Film"
+      },
+      "power": 90,
+      "initials": "CN",
+      "theme": {
+        "c1": "#7a0f14",
+        "c2": "#e0a72b",
+        "accent": "#ffd76a"
+      },
+      "pattern": "chevrons",
+      "emblem": "diamond",
+      "tagline": "Xavier’s dark twin.",
+      "description": "A psychic monster ruling the Void with stolen powers and sibling hatred.",
+      "importance": "Cassandra Nova is Deadpool & Wolverine’s big bad and a Multiverse-level psychic threat.",
+      "abilities": [
+        "Telepathy",
+        "Telekinesis",
+        "Power theft",
+        "Reality cruelty"
+      ],
+      "spoilers": "She nearly annihilates the Void’s resistance; Deadpool and Wolverine stop her with pruned legends.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Cassandra Nova yet."
+    },
+    {
+      "id": "paradox",
+      "name": "Paradox",
+      "alias": "Mr. Paradox",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Deadpool & Wolverine",
+        "year": 2024,
+        "type": "Film"
+      },
+      "power": 40,
+      "initials": "PA",
+      "theme": {
+        "c1": "#0b2a6b",
+        "c2": "#c0272d",
+        "accent": "#e8eefc"
+      },
+      "pattern": "dots",
+      "emblem": "flame",
+      "tagline": "TVA middle management.",
+      "description": "A TVA renegade who wants to destroy a timeline with a Time Ripper instead of waiting.",
+      "importance": "Paradox kicks Deadpool into the Void and exposes TVA corruption.",
+      "abilities": [
+        "TVA tech",
+        "Bureaucracy",
+        "Time Ripper project"
+      ],
+      "spoilers": "His plan fails; the TVA reels him back in after Deadpool and Wolverine save the timeline.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Paradox yet."
+    },
+    {
+      "id": "daisy-johnson",
+      "name": "Daisy Johnson",
+      "alias": "Quake",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Agents of S.H.I.E.L.D.",
+        "year": 2013,
+        "type": "Series"
+      },
+      "power": 78,
+      "initials": "DJ",
+      "theme": {
+        "c1": "#7a0f14",
+        "c2": "#e0a72b",
+        "accent": "#ffd76a"
+      },
+      "pattern": "diamonds",
+      "emblem": "burst",
+      "tagline": "Vibrational hero.",
+      "description": "Inhuman S.H.I.E.L.D. agent who quakes the earth beneath her enemies.",
+      "importance": "Daisy is AoS’s long-arc protagonist and Inhuman face.",
+      "abilities": [
+        "Vibration manipulation",
+        "Espionage",
+        "Combat training",
+        "Leadership"
+      ],
+      "spoilers": "She rises from Skye to Quake, leads teams across timelines, and remains S.H.I.E.L.D.’s seismic heart.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Daisy Johnson yet."
+    },
+    {
+      "id": "melinda-may",
+      "name": "Melinda May",
+      "alias": "The Cavalry",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Agents of S.H.I.E.L.D.",
+        "year": 2013,
+        "type": "Series"
+      },
+      "power": 58,
+      "initials": "MM",
+      "theme": {
+        "c1": "#00695c",
+        "c2": "#80cbc4",
+        "accent": "#e0f2f1"
+      },
+      "pattern": "dots",
+      "emblem": "bolt",
+      "tagline": "The Cavalry.",
+      "description": "Legendary S.H.I.E.L.D. operative of few words and devastating fights.",
+      "importance": "May is Coulson’s steadiest partner and AoS’s combat backbone.",
+      "abilities": [
+        "Martial arts",
+        "Piloting",
+        "Espionage",
+        "Tactics"
+      ],
+      "spoilers": "She survives betrayals, LMD crises, and chronicom wars beside the team.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Melinda May yet."
+    },
+    {
+      "id": "fitz",
+      "name": "Leo Fitz",
+      "alias": "Fitz",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Agents of S.H.I.E.L.D.",
+        "year": 2013,
+        "type": "Series"
+      },
+      "power": 35,
+      "initials": "LF",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "rings",
+      "emblem": "crescent",
+      "tagline": "Engineering heart.",
+      "description": "S.H.I.E.L.D. engineer whose inventions and love for Simmons drive years of crises.",
+      "importance": "Fitz is AoS’s scientific soul.",
+      "abilities": [
+        "Engineering genius",
+        "Invention",
+        "Problem-solving"
+      ],
+      "spoilers": "He survives Framework trauma, space exile, and chronicom timelines to reunite with Jemma.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Leo Fitz yet."
+    },
+    {
+      "id": "simmons",
+      "name": "Jemma Simmons",
+      "alias": "Simmons",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Agents of S.H.I.E.L.D.",
+        "year": 2013,
+        "type": "Series"
+      },
+      "power": 34,
+      "initials": "JS",
+      "theme": {
+        "c1": "#37474f",
+        "c2": "#90a4ae",
+        "accent": "#eceff1"
+      },
+      "pattern": "claw",
+      "emblem": "claw",
+      "tagline": "Biochem brilliance.",
+      "description": "Brilliant biochemist and Fitz’s partner through monsters, space, and time.",
+      "importance": "Simmons is AoS’s scientific compassion.",
+      "abilities": [
+        "Biochemistry",
+        "Medicine",
+        "Field science"
+      ],
+      "spoilers": "She endures Maveth, the Framework, and a chronicom future before finding peace with Fitz.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Jemma Simmons yet."
+    },
+    {
+      "id": "ghost-rider-aos",
+      "name": "Ghost Rider",
+      "alias": "Robbie Reyes",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Agents of S.H.I.E.L.D.",
+        "year": 2016,
+        "type": "Series"
+      },
+      "power": 88,
+      "initials": "GR",
+      "theme": {
+        "c1": "#01579b",
+        "c2": "#81d4fa",
+        "accent": "#e1f5fe"
+      },
+      "pattern": "stripes",
+      "emblem": "shield",
+      "tagline": "Spirit of Vengeance.",
+      "description": "An East LA mechanic bonded to a Spirit of Vengeance and a hellcharged charger.",
+      "importance": "Robbie brings Ghost Rider’s infernal justice into the AoS/MCU TV tapestry.",
+      "abilities": [
+        "Hellfire",
+        "Penance stare (spirit)",
+        "Hellcharger",
+        "Super strength"
+      ],
+      "spoilers": "He helps S.H.I.E.L.D. against Darkhold threats, then drives into another dimension.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ghost Rider yet."
+    },
+    {
+      "id": "yoyo",
+      "name": "Yo-Yo Rodriguez",
+      "alias": "Yo-Yo",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Agents of S.H.I.E.L.D.",
+        "year": 2016,
+        "type": "Series"
+      },
+      "power": 66,
+      "initials": "YR",
+      "theme": {
+        "c1": "#33691e",
+        "c2": "#aed581",
+        "accent": "#f1f8e9"
+      },
+      "pattern": "grid",
+      "emblem": "bolt",
+      "tagline": "Super speed with a snap-back.",
+      "description": "Colombian Inhuman who moves in bursts of speed and always returns to her start point.",
+      "importance": "Yo-Yo becomes a core S.H.I.E.L.D. fighter and Mack’s partner.",
+      "abilities": [
+        "Burst super speed",
+        "Combat training",
+        "Inhuman resilience"
+      ],
+      "spoilers": "She loses her arms to a future splinter, gains prosthetics, and helps stop the Chronicoms.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Yo-Yo Rodriguez yet."
+    },
+    {
+      "id": "mack",
+      "name": "Alphonso Mackenzie",
+      "alias": "Mack",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Agents of S.H.I.E.L.D.",
+        "year": 2014,
+        "type": "Series"
+      },
+      "power": 52,
+      "initials": "AM",
+      "theme": {
+        "c1": "#00695c",
+        "c2": "#80cbc4",
+        "accent": "#e0f2f1"
+      },
+      "pattern": "grid",
+      "emblem": "crescent",
+      "tagline": "Shotgun-axe Director.",
+      "description": "Mechanic turned Director of S.H.I.E.L.D. with a shotgun-axe and a steadfast heart.",
+      "importance": "Mack is the team’s moral center and later its leader.",
+      "abilities": [
+        "Combat",
+        "Engineering",
+        "Leadership",
+        "Shotgun-axe"
+      ],
+      "spoilers": "He becomes Director, partners with Yo-Yo, and holds S.H.I.E.L.D. together through the Chronicom war.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Alphonso Mackenzie yet."
+    },
+    {
+      "id": "enoch",
+      "name": "Enoch",
+      "alias": "Enoch",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Agents of S.H.I.E.L.D.",
+        "year": 2017,
+        "type": "Series"
+      },
+      "power": 60,
+      "initials": "EN",
+      "theme": {
+        "c1": "#7a0f14",
+        "c2": "#e0a72b",
+        "accent": "#ffd76a"
+      },
+      "pattern": "waves",
+      "emblem": "burst",
+      "tagline": "Chronicom friend.",
+      "description": "A Chronicom anthropologist who becomes one of S.H.I.E.L.D.’s strangest true friends.",
+      "importance": "Enoch’s sacrifice and loyalty define late-AoS emotional stakes.",
+      "abilities": [
+        "Chronicom physiology",
+        "Time knowledge",
+        "Weapons",
+        "Loyalty"
+      ],
+      "spoilers": "He helps the team across years and dies saving them in the final season’s time war.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Enoch yet."
+    },
+    {
+      "id": "deke-shaw",
+      "name": "Deke Shaw",
+      "alias": "Deke",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Agents of S.H.I.E.L.D.",
+        "year": 2017,
+        "type": "Series"
+      },
+      "power": 36,
+      "initials": "DS",
+      "theme": {
+        "c1": "#4a148c",
+        "c2": "#ce93d8",
+        "accent": "#f3e5f5"
+      },
+      "pattern": "waves",
+      "emblem": "circle",
+      "tagline": "Lighthouse entrepreneur.",
+      "description": "A sarcastic survivor from a ruined future who becomes FitzSimmons’ unexpected ally.",
+      "importance": "Deke adds humor and heart to AoS’s future arc.",
+      "abilities": [
+        "Scavenging",
+        "Tech tinkering",
+        "Salesmanship",
+        "Courage"
+      ],
+      "spoilers": "He stays behind in the past to live his own life after helping stop the Chronicoms.",
+      "rarity": "common",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Deke Shaw yet."
+    },
+    {
+      "id": "kora-aos",
+      "name": "Kora",
+      "alias": "Kora",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Agents of S.H.I.E.L.D.",
+        "year": 2020,
+        "type": "Series"
+      },
+      "power": 70,
+      "initials": "KO",
+      "theme": {
+        "c1": "#1a237e",
+        "c2": "#ffd700",
+        "accent": "#fff9c4"
+      },
+      "pattern": "stars",
+      "emblem": "crescent",
+      "tagline": "Jiaying’s other daughter.",
+      "description": "Daisy’s Inhuman sister with energy powers and a complicated redemption.",
+      "importance": "Kora expands Afterlife’s family tragedy in AoS’s finale season.",
+      "abilities": [
+        "Energy projection",
+        "Inhuman power",
+        "Combat"
+      ],
+      "spoilers": "She defects from Nathaniel Malick’s side and helps S.H.I.E.L.D. win the temporal war.",
+      "rarity": "uncommon",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kora yet."
+    },
+    {
+      "id": "cloak",
+      "name": "Cloak",
+      "alias": "Tyrone Johnson",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Cloak & Dagger",
+        "year": 2018,
+        "type": "Series"
+      },
+      "power": 74,
+      "initials": "CL",
+      "theme": {
+        "c1": "#880e4f",
+        "c2": "#f8bbd0",
+        "accent": "#fce4ec"
+      },
+      "pattern": "burst",
+      "emblem": "crescent",
+      "tagline": "Darkforce dimension.",
+      "description": "A young man who channels Darkforce, teleporting through a hungry dimension.",
+      "importance": "Cloak brings Darkforce street-level power to Marvel TV’s MCU-adjacent slate.",
+      "abilities": [
+        "Darkforce teleportation",
+        "Fear absorption",
+        "Dimension walking"
+      ],
+      "spoilers": "He partners with Dagger against Roxxon and personal demons across two seasons.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Cloak yet."
+    },
+    {
+      "id": "dagger",
+      "name": "Dagger",
+      "alias": "Tandy Bowen",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Cloak & Dagger",
+        "year": 2018,
+        "type": "Series"
+      },
+      "power": 72,
+      "initials": "DA",
+      "theme": {
+        "c1": "#1b5e20",
+        "c2": "#a5d6a7",
+        "accent": "#e8f5e9"
+      },
+      "pattern": "claw",
+      "emblem": "bolt",
+      "tagline": "Lightforce knives.",
+      "description": "A light-powered hope-bringer who pairs with Cloak.",
+      "importance": "Dagger is the Lightforce half of a signature duo.",
+      "abilities": [
+        "Light daggers",
+        "Hope infusion",
+        "Photokinesis"
+      ],
+      "spoilers": "She and Cloak stabilize each other’s powers and take on New Orleans’ corruption.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Dagger yet."
+    },
+    {
+      "id": "infinity-ultron",
+      "name": "Infinity Ultron",
+      "alias": "Ultron",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "What If...?",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 99,
+      "initials": "IU",
+      "theme": {
+        "c1": "#212121",
+        "c2": "#b0bec5",
+        "accent": "#eceff1"
+      },
+      "pattern": "grid",
+      "emblem": "shield",
+      "tagline": "Peace in my own image.",
+      "description": "An Ultron who won—and claimed the Infinity Stones across a ruined cosmos.",
+      "importance": "Infinity Ultron is What If...?’s Multiverse apocalypse given a face.",
+      "abilities": [
+        "Infinity Stones",
+        "AI intellect",
+        "Cosmic scale power",
+        "Army of drones"
+      ],
+      "spoilers": "The Watcher and Guardians of the Multiverse stop him.",
+      "rarity": "legendary",
+      "photoNote": "Infinity Ultron is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "captain-carter",
+      "name": "Captain Carter",
+      "alias": "Peggy Carter",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "What If...?",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 80,
+      "initials": "CC",
+      "theme": {
+        "c1": "#880e4f",
+        "c2": "#f8bbd0",
+        "accent": "#fce4ec"
+      },
+      "pattern": "waves",
+      "emblem": "flame",
+      "tagline": "I can do this all day.",
+      "description": "A Peggy Carter who took the super-soldier serum and became a Multiverse legend.",
+      "importance": "Captain Carter is What If...?’s flagship hero variant.",
+      "abilities": [
+        "Super-soldier strength",
+        "Shield mastery",
+        "Leadership",
+        "Tactics"
+      ],
+      "spoilers": "She leads Multiverse missions with the Watcher’s blessing after defeating Infinity Ultron’s threat.",
+      "rarity": "rare",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Captain Carter yet."
+    },
+    {
+      "id": "party-thor",
+      "name": "Party Thor",
+      "alias": "Thor",
+      "group": "avengers",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "What If...?",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 91,
+      "initials": "PT",
+      "theme": {
+        "c1": "#7a0f14",
+        "c2": "#e0a72b",
+        "accent": "#ffd76a"
+      },
+      "pattern": "dots",
+      "emblem": "crescent",
+      "tagline": "Nobody told me I was invited.",
+      "description": "An unrestrained Thor whose terrestrial party nearly destroys Earth—and then helps save realities.",
+      "importance": "Party Thor is comic chaos that still punches Multiverse threats.",
+      "abilities": [
+        "Godly strength",
+        "Lightning",
+        "Mjolnir",
+        "Party resilience"
+      ],
+      "spoilers": "He joins the Guardians of the Multiverse against Infinity Ultron after learning restraint.",
+      "rarity": "epic",
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Party Thor yet."
+    },
+    {
+      "id": "alioth",
+      "name": "Alioth",
+      "alias": "Alioth",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Loki",
+        "year": 2021,
+        "type": "Series"
+      },
+      "power": 96,
+      "initials": "AL",
+      "theme": {
+        "c1": "#01579b",
+        "c2": "#81d4fa",
+        "accent": "#e1f5fe"
+      },
+      "pattern": "stars",
+      "emblem": "flame",
+      "tagline": "Storm at the End of Time.",
+      "description": "A chronophagous cloud-beast that guards the Void beyond the TVA.",
+      "importance": "Alioth is the apocalyptic gatekeeper of pruned timelines.",
+      "abilities": [
+        "Time consumption",
+        "Storm form",
+        "Reality erasure",
+        "Vast scale"
+      ],
+      "spoilers": "Loki and Sylvie enchant Alioth to reach the Citadel at the End of Time.",
+      "rarity": "legendary",
+      "photoNote": "Alioth is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "great-protector",
+      "name": "Great Protector",
+      "alias": "Great Protector",
+      "group": "other",
+      "alignment": "hero",
+      "firstAppearance": {
+        "title": "Shang-Chi and the Legend of the Ten Rings",
+        "year": 2021,
+        "type": "Film"
+      },
+      "power": 89,
+      "initials": "GP",
+      "theme": {
+        "c1": "#311b92",
+        "c2": "#b39ddb",
+        "accent": "#ede7f6"
+      },
+      "pattern": "dots",
+      "emblem": "burst",
+      "tagline": "Dragon of Ta Lo.",
+      "description": "The water dragon guardian of Ta Lo who battles soul-eaters beside Shang-Chi.",
+      "importance": "The Great Protector is Shang-Chi’s mythic ally in the finale.",
+      "abilities": [
+        "Dragon flight",
+        "Water power",
+        "Colossal strength",
+        "Soul defense"
+      ],
+      "spoilers": "It fights the Dweller-in-Darkness with Shang-Chi wearing the Ten Rings.",
+      "rarity": "epic",
+      "photoNote": "Great Protector is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+    },
+    {
+      "id": "fenris",
+      "name": "Fenris",
+      "alias": "Fenris Wolf",
+      "group": "villains",
+      "alignment": "villain",
+      "firstAppearance": {
+        "title": "Thor: Ragnarok",
+        "year": 2017,
+        "type": "Film"
+      },
+      "power": 80,
+      "initials": "FE",
+      "theme": {
+        "c1": "#1a237e",
+        "c2": "#ffd700",
+        "accent": "#fff9c4"
+      },
+      "pattern": "dots",
+      "emblem": "circle",
+      "tagline": "Hela’s wolf.",
+      "description": "A colossal wolf resurrected by Hela to terrorize Asgard’s refugees.",
+      "importance": "Fenris is Ragnarok’s animal apocalypse on four legs.",
+      "abilities": [
+        "Colossal strength",
+        "Bite force",
+        "Loyalty to Hela",
+        "Durability"
+      ],
+      "spoilers": "Hulk battles Fenris on the Bifrost as Asgardians evacuate.",
+      "rarity": "rare",
+      "photoNote": "Fenris is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
     }
   ],
   "ratingsAsOf": "2026-10-14",
-  "ratingsNote": "Rechecked against MCU feats: cosmic entities and chaos-magic at the top; Mark 85 / Ten Rings / Stormbreaker bumps for tech and weapon peaks; street-level heroes clustered 45–60. Stronger fighters usually win; upsets remain possible.",
+  "ratingsNote": "Fan-estimated MCU power; win odds use power^3 (A^3/(A^3+B^3)). Gacha bands C<=55 U56-70 R71-82 E83-92 L>=93.",
   "gacha": {
     "rates": {
       "common": 0.55,
@@ -3304,18 +7952,18 @@
       "legendary": 0.01
     },
     "bands": {
-      "common": "rating ≤45",
-      "uncommon": "46–65",
-      "rare": "66–80",
-      "epic": "81–90",
-      "legendary": "91–100"
+      "common": "rating ≤55",
+      "uncommon": "56–70",
+      "rare": "71–82",
+      "epic": "83–92",
+      "legendary": "93–100"
     },
     "pullCost": 100,
     "multiCost": 900,
     "currency": "shards",
-    "note": "Rates locked by Marvel Hub 2026-10-14. Stronger MCU ratings = lower pull rate."
+    "note": "Rates locked by Marvel Hub 2026-10-14. Stronger MCU ratings = lower pull rate. Bands retuned with roster v5."
   },
-  "dataBuild": "20261014art86",
+  "dataBuild": "20261014roster229",
   "costumeArtBatch": {
     "asOf": "2026-10-14",
     "count": 86,

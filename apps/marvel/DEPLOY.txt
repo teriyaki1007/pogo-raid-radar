@@ -44,3 +44,10 @@ PeerJS join harden (2026-10-14 peer2):
   guest auto-retry once; friendlier errors (wrong/stale code, host left, NAT/VPN/adblock).
 - Metered Open Relay needs an API key — not wired (no secrets). Public PeerJS TURN is free.
 - Cache-bust: ?v=20261014peer2 ; data-build="20261014peer2" on #panel-party.
+
+Roster + power^3 (2026-10-14 roster229):
+- characters.json version 5: 229 MCU characters (Hub merged v2). New chars may lack costumeArt (avatar/photo fallback).
+- winChance: P(A)=A^3/(A^3+B^3) in battle.js (Arena + any drawWinner/planFight callers).
+- Gacha bands unchanged: C<=55, U56-70, R71-82, E83-92, L>=93.
+- Seed marvelhub still ensureSeedAccount(all ids) on init — owns full 229 after refresh.
+- Cache-bust: ?v=20261014roster229 ; data-build="20261014roster229".
