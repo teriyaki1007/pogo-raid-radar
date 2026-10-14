@@ -373,12 +373,6 @@
     $$('#panel-arena .pick-row select, #panel-arena [data-browse], #arenaBrowse').forEach(function (x) {
       x.disabled = !has || busy;
     });
-    var pc = $('#partyChar'), pb = $('#partyBrowse');
-    if (pc) pc.disabled = !has;
-    if (pb) pb.disabled = !has;
-  }
-  function refreshOwnedPickers() {
-    fillSelects();
     fillPartySelect();
     updateOwnGates();
     if (ownedChars().length) {
@@ -780,24 +774,34 @@
   }
 
 
-  /* ---------- party battle (PeerJS) ---------- */
+  /* ---------- party battle (PeerJS) — Bo5 lineups + brackets ---------- */
   var party = null;
   var partyTargetId = null;
   var partyReadyOn = false;
+  var partyBrowseSlot = 0;
 
   function partyNameVal() {
     var n = ($('#partyName') && $('#partyName').value || '').trim();
     return n || 'Player';
   }
-  function fillPartySelect() {
-    var el = $('#partyChar'); if (!el) return;
+  function ownedOptionHtml(prev) {
     var list = ownedChars().slice().sort(function (a, b) { return a.name.localeCompare(b.name); });
-    var prev = el.value;
-    var opts = list.map(function (c) {
-      return '<option value="' + c.id + '">' + esc(c.name) + ' (' + c.power + ')</option>';
+    return '<option value="">Slot…</option>' + list.map(function (c) {
+      return '<option value="' + c.id + '"' + (prev === c.id ? ' selected' : '') + '>' + esc(c.name) + ' (' + c.power + ')</option>';
     }).join('');
-    el.innerHTML = '<option value="">Choose…</option>' + opts;
-    if (prev && list.some(function (c) { return c.id === prev; })) el.value = prev;
+  }
+  function fillPartySelect() {
+    var wrap = $('#partyLineup'); if (!wrap) return;
+    var me = party && party.state && (party.state.players || []).filter(function (p) { return p.id === party.localId; })[0];
+    var lineup = (me && me.lineup) ? me.lineup : [null, null, null, null, null];
+    wrap.innerHTML = [0, 1, 2, 3, 4].map(function (i) {
+      return '<div class="lineup-slot" data-slot="' + i + '">' +
+        '<label>G' + (i + 1) + '</label>' +
+        '<div class="pick-row">' +
+        '<select data-slot="' + i + '" class="party-slot-select">' + ownedOptionHtml(lineup[i]) + '</select>' +
+        '<button type="button" class="btn ghost party-slot-browse" data-slot="' + i + '">Browse</button>' +
+        '</div></div>';
+    }).join('');
   }
   function ensureParty(cb) {
     if (typeof window.Peer !== 'function') {
@@ -827,6 +831,26 @@
     });
     return party;
   }
+  function playerNameById(st, id) {
+    var p = (st.players || []).filter(function (x) { return x.id === id; })[0];
+    return p ? p.name : '?';
+  }
+  function renderBracket(st) {
+    var el = $('#partyBracket'); if (!el) return;
+    if (!st.bracket || st.mode !== 'tournament') { el.hidden = true; el.innerHTML = ''; return; }
+    el.hidden = false;
+    var br = st.bracket;
+    el.innerHTML = '<h4>Tournament</h4>' + br.rounds.map(function (round, ri) {
+      return '<div class="bracket-round"><span class="muted">Round ' + (ri + 1) + '</span><ul>' + round.map(function (m) {
+        var a = m.a ? playerNameById(st, m.a) : 'BYE';
+        var b = m.b ? playerNameById(st, m.b) : 'BYE';
+        var score = (m.a && m.b) ? (' ' + (m.scoreA || 0) + '-' + (m.scoreB || 0)) : '';
+        var win = m.winner ? (' → ' + esc(playerNameById(st, m.winner))) : '';
+        var cur = ri === br.roundIdx && round.indexOf(m) === br.matchIdx && !m.winner;
+        return '<li class="' + (cur ? 'live' : '') + '">' + esc(a) + ' vs ' + esc(b) + score + win + '</li>';
+      }).join('') + '</ul></div>';
+    }).join('');
+  }
   function renderParty() {
     var setup = $('#partySetup'), room = $('#partyRoom');
     if (!setup) return;
@@ -845,32 +869,55 @@
 
     if (st.phase === 'lobby') {
       $('#partyPlayers').innerHTML = st.players.map(function (p) {
-        var c = p.charId && byId[p.charId];
+        var filled = (p.lineup || []).filter(Boolean).length;
         var you = p.id === party.localId;
+        var preview = (p.lineup || []).filter(Boolean).slice(0, 5).map(function (id) {
+          var c = byId[id];
+          return c ? '<span class="p-art tiny" title="' + esc(c.name) + '">' + art(c) + '</span>' : '';
+        }).join('');
         return '<li>' +
-          '<span class="p-art">' + (c ? art(c) : '<span class="muted">?</span>') + '</span>' +
           '<span class="p-meta"><strong>' + esc(p.name) + (you ? ' (you)' : '') + (p.id === st.hostId ? ' · host' : '') + '</strong>' +
-          '<span>' + (c ? esc(c.name) + ' · ' + c.power : 'picking…') + '</span></span>' +
+          '<span>' + filled + '/5 lineup</span></span>' +
+          '<span class="lineup-preview">' + preview + '</span>' +
           '<span class="pill-ready' + (p.ready ? ' on' : '') + '">' + (p.ready ? 'Ready' : 'Wait') + '</span></li>';
       }).join('');
+      fillPartySelect();
       var me = st.players.filter(function (p) { return p.id === party.localId; })[0];
-      if (me && me.charId) $('#partyChar').value = me.charId;
       partyReadyOn = !!(me && me.ready);
       $('#partyReady').textContent = partyReadyOn ? 'Unready' : 'Ready';
-      $('#partyReady').disabled = !(me && me.charId);
+      var full = me && me.lineup && me.lineup.filter(Boolean).length === 5;
+      $('#partyReady').disabled = !full;
     }
 
     if (st.phase === 'fighting' || st.phase === 'done') {
+      renderBracket(st);
+      var match = st.match;
+      var seriesEl = $('#partySeries');
+      if (seriesEl) {
+        if (match) {
+          seriesEl.textContent = playerNameById(st, match.aId) + ' ' + match.scoreA + ' – ' + match.scoreB + ' ' +
+            playerNameById(st, match.bId) + ' · Game ' + (match.gameIndex + 1) + '/5 (first to 3)';
+        } else if (st.phase === 'done' && st.championId) {
+          seriesEl.textContent = playerNameById(st, st.championId) + ' wins' + (st.mode === 'tournament' ? ' the tournament!' : ' best of 5!');
+        } else {
+          seriesEl.textContent = '';
+        }
+      }
+
       var turnId = party.currentTurnId && party.currentTurnId();
-      var turnP = turnId && st.players.filter(function (p) { return p.id === turnId; })[0];
-      var turnC = turnP && byId[turnP.charId];
+      var fighters = (match && match.fighters) ? match.fighters : [];
+      var turnF = fighters.filter(function (f) { return f.id === turnId; })[0];
+      var turnC = turnF && byId[turnF.charId];
+      var turnP = turnF && party._player ? null : null;
+      var turnName = turnF ? playerNameById(st, turnF.id) : '';
+
       if (st.phase === 'done') {
-        var w = st.players.filter(function (p) { return p.id === st.winnerId; })[0];
-        var wc = w && byId[w.charId];
-        $('#partyTurn').textContent = wc ? (wc.name + ' wins!') : 'Battle over';
-        if (window.MarvelAccounts) {
-          var battleId = (st.code || '') + ':' + (st.winnerId || '') + ':' + (st.log && st.log.length);
-          var iWon = st.winnerId === party.localId;
+        $('#partyTurn').textContent = st.championId
+          ? (playerNameById(st, st.championId) + (st.mode === 'tournament' ? ' is champion!' : ' wins the series!'))
+          : 'Battle over';
+        if (window.MarvelAccounts && st.championId) {
+          var battleId = (st.code || '') + ':champ:' + st.championId + ':' + (st.mode || '') + ':' + (st.log && st.log.length);
+          var iWon = st.championId === party.localId;
           var pr = window.MarvelAccounts.grantPartyOnce(battleId, iWon);
           if (!pr.skipped) {
             refreshAcctChip();
@@ -878,29 +925,34 @@
           }
         }
       } else {
-        $('#partyTurn').textContent = turnC ? ('Turn: ' + turnC.name + (turnP.id === party.localId ? ' — your move!' : ' (' + turnP.name + ')')) : 'Fight!';
+        $('#partyTurn').textContent = turnC
+          ? ('Turn: ' + turnC.name + (turnId === party.localId ? ' — your move!' : ' (' + turnName + ')'))
+          : 'Fight!';
       }
-      $('#partyFighters').innerHTML = st.players.map(function (p) {
-        var c = byId[p.charId]; if (!c) return '';
-        var dead = p.hp <= 0;
-        var sh = Math.max(0, +p.shield || 0);
-        var stunned = !!p.stunned;
-        return '<div class="pf' + (p.id === turnId && st.phase === 'fighting' ? ' turn' : '') + (dead ? ' dead' : '') + (stunned ? ' stunned' : '') + '" style="--a:' + c.theme.accent + '">' +
+
+      $('#partyFighters').innerHTML = fighters.map(function (f) {
+        var c = byId[f.charId]; if (!c) return '';
+        var dead = f.hp <= 0;
+        var sh = Math.max(0, +f.shield || 0);
+        var stunned = !!f.stunned;
+        return '<div class="pf' + (f.id === turnId && st.phase === 'fighting' ? ' turn' : '') + (dead ? ' dead' : '') + (stunned ? ' stunned' : '') + '" style="--a:' + c.theme.accent + '">' +
           '<div class="pf-art">' + art(c) + '</div>' +
           '<div class="pf-name">' + esc(c.name) + (stunned ? ' <span class="pf-stun">STUN</span>' : '') + '</div>' +
-          '<div class="pf-player">' + esc(p.name) + '</div>' +
-          '<div class="hp' + (p.hp <= 30 ? ' low' : '') + '" role="progressbar" aria-valuenow="' + p.hp + '" aria-valuemin="0" aria-valuemax="100"><i style="width:' + p.hp + '%"></i><span>' + p.hp + '</span></div>' +
+          '<div class="pf-player">' + esc(playerNameById(st, f.id)) + '</div>' +
+          '<div class="hp' + (f.hp <= 30 ? ' low' : '') + '" role="progressbar" aria-valuenow="' + f.hp + '" aria-valuemin="0" aria-valuemax="100"><i style="width:' + f.hp + '%"></i><span>' + f.hp + '</span></div>' +
           (sh ? '<div class="shield" role="progressbar" aria-valuenow="' + sh + '" aria-valuemin="0" aria-valuemax="45"><i style="width:' + Math.min(100, (sh / 45) * 100) + '%"></i><span>Shield ' + sh + '</span></div>' : '') +
           '</div>';
       }).join('');
-      $('#partyLog').innerHTML = (st.log || []).map(function (l) { return '<li>' + esc(l) + '</li>'; }).join('');
+
+      var logSrc = (match && match.log && match.log.length) ? match.log : (st.log || []);
+      $('#partyLog').innerHTML = logSrc.map(function (l) { return '<li>' + esc(l) + '</li>'; }).join('');
 
       var myTurn = st.phase === 'fighting' && turnId === party.localId;
       $('#partyMoves').hidden = !myTurn;
       if (myTurn) {
-        var me2 = st.players.filter(function (p) { return p.id === party.localId; })[0];
+        var me2 = fighters.filter(function (f) { return f.id === party.localId; })[0];
         var mc = me2 && byId[me2.charId];
-        var foes = st.players.filter(function (p) { return p.id !== party.localId && p.hp > 0; });
+        var foes = fighters.filter(function (f) { return f.id !== party.localId && f.hp > 0; });
         var kit = (window.MarvelBattle && window.MarvelBattle.abilityKit)
           ? window.MarvelBattle.abilityKit(mc && mc.abilities)
           : (mc && mc.abilities ? mc.abilities : ['Strike']).map(function (a) {
@@ -922,12 +974,33 @@
           return '<button type="button" class="ab ab-' + a.type + '" data-ability="' + esc(a.name) + '" data-needs-target="' + (a.needsTarget ? '1' : '0') + '" title="' + esc(tip) + '">' +
             '<span class="ab-tag">' + esc(a.label) + '</span> ' + esc(a.name) + '</button>';
         }).join('');
-        var moveHint = $('#partyMoveHint');
-        if (moveHint) {
-          moveHint.textContent = 'Pick an ability — ATK / PIERCE / STUN need a target; HEAL / SHIELD are self.';
-        }
       }
     }
+  }
+
+  function openLineupBrowse(slot) {
+    partyBrowseSlot = slot;
+    var list = ownedChars().slice().sort(function (a, b) { return a.name.localeCompare(b.name); });
+    if (!list.length) {
+      var emptyHtml = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">No owned fighters</h3><p class="alias">Party uses your collection only</p></div>' +
+        '<button type="button" class="x" data-close data-autofocus aria-label="Close (Esc)">&times;</button></div>' +
+        '<div class="dlg-body">' + ownGateHtml('party') + '</div>';
+      openDialog(emptyHtml, document.activeElement);
+      bindOwnGateClicks($('.dlg-body', dialog));
+      return;
+    }
+    var html = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">Lineup slot ' + (slot + 1) + '</h3><p class="alias">Owned characters only · unique per lineup</p></div>' +
+      '<button type="button" class="x" data-close data-autofocus aria-label="Close (Esc)">&times;</button></div>' +
+      '<div class="dlg-body"><div class="pick-grid">' + list.map(function (c) {
+        return '<button type="button" class="mini-card" data-id="' + c.id + '" style="--a:' + c.theme.accent + '">' + art(c) + '<span>' + esc(c.name) + '</span></button>';
+      }).join('') + '</div></div>';
+    openDialog(html, document.activeElement);
+    $('.pick-grid', dialog).addEventListener('click', function (e) {
+      var b = e.target.closest('.mini-card'); if (!b) return;
+      if (party) party.setLineupSlot(partyBrowseSlot, b.dataset.id);
+      closeDialog();
+      renderParty();
+    });
   }
 
   function bindParty() {
@@ -980,40 +1053,24 @@
       renderParty();
       $('#partySetup').hidden = false; $('#partyRoom').hidden = true;
     });
-    $('#partyChar').addEventListener('change', function () {
-      if (!party) return;
-      var id = $('#partyChar').value;
-      if (!id) return;
-      if (window.MarvelAccounts && !window.MarvelAccounts.owns(id)) {
-        updateOwnGates();
-        fillPartySelect();
-        return;
-      }
-      party.pickCharacter(id);
-    });
-    $('#partyBrowse').addEventListener('click', function () {
-      var list = ownedChars().slice().sort(function (a, b) { return a.name.localeCompare(b.name); });
-      if (!list.length) {
-        var emptyHtml = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">No owned fighters</h3><p class="alias">Party uses your collection only</p></div>' +
-          '<button type="button" class="x" data-close data-autofocus aria-label="Close (Esc)">&times;</button></div>' +
-          '<div class="dlg-body">' + ownGateHtml('party') + '</div>';
-        openDialog(emptyHtml, document.activeElement);
-        bindOwnGateClicks($('.dlg-body', dialog));
-        return;
-      }
-      var html = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">Pick your fighter</h3><p class="alias">Owned characters only</p></div>' +
-        '<button type="button" class="x" data-close data-autofocus aria-label="Close (Esc)">&times;</button></div>' +
-        '<div class="dlg-body"><div class="pick-grid">' + list.map(function (c) {
-          return '<button type="button" class="mini-card" data-id="' + c.id + '" style="--a:' + c.theme.accent + '">' + art(c) + '<span>' + esc(c.name) + '</span></button>';
-        }).join('') + '</div></div>';
-      openDialog(html, document.activeElement);
-      $('.pick-grid', dialog).addEventListener('click', function (e) {
-        var b = e.target.closest('.mini-card'); if (!b) return;
-        $('#partyChar').value = b.dataset.id;
-        if (party) party.pickCharacter(b.dataset.id);
-        closeDialog();
+    var lineupWrap = $('#partyLineup');
+    if (lineupWrap) {
+      lineupWrap.addEventListener('change', function (e) {
+        var sel = e.target.closest('select.party-slot-select'); if (!sel || !party) return;
+        var slot = +sel.dataset.slot;
+        var id = sel.value || null;
+        if (id && window.MarvelAccounts && !window.MarvelAccounts.owns(id)) {
+          updateOwnGates();
+          fillPartySelect();
+          return;
+        }
+        party.setLineupSlot(slot, id);
       });
-    });
+      lineupWrap.addEventListener('click', function (e) {
+        var b = e.target.closest('.party-slot-browse'); if (!b) return;
+        openLineupBrowse(+b.dataset.slot);
+      });
+    }
     $('#partyReady').addEventListener('click', function () {
       if (!party) return;
       partyReadyOn = !partyReadyOn;
@@ -1032,8 +1089,6 @@
     });
   }
 
-
-
   /* ---------- accounts / gacha / collection ---------- */
   function refreshAcctChip() {
     var A = window.MarvelAccounts; if (!A) return;
@@ -1047,7 +1102,37 @@
     if (w) w.innerHTML = '<strong>' + p.shards + '</strong> shards · <strong>' + p.xp + '</strong> XP (Lv ' + lvl + ')' +
       (u ? '' : ' · <span class="muted">playing as Guest — register to keep progress</span>');
   }
+  function bindRedeem() {
+    function wire(formId, inputId, msgId) {
+      var form = $(formId);
+      if (!form || form.dataset.bound) return;
+      form.dataset.bound = '1';
+      form.addEventListener('submit', function (e) {
+        e.preventDefault();
+        var A = window.MarvelAccounts; if (!A || !A.redeemCode) return;
+        var msg = $(msgId);
+        var res = A.redeemCode(($(inputId) && $(inputId).value) || '');
+        if (!res.ok) {
+          if (msg) msg.textContent = res.error || 'Redeem failed';
+          return;
+        }
+        var bits = [];
+        if (res.shards) bits.push('+' + res.shards + ' shards');
+        if (res.units && res.units.length) bits.push(res.units.length + ' unit(s)');
+        if (msg) msg.textContent = 'Redeemed ' + res.code + (bits.length ? ' — ' + bits.join(', ') : '');
+        if ($(inputId)) $(inputId).value = '';
+        renderAccount();
+        renderCollection();
+        refreshAcctChip();
+        fillPartySelect();
+      });
+    }
+    wire('#formRedeem', '#redeemCode', '#redeemMsg');
+    wire('#formRedeemGuest', '#redeemCodeGuest', '#redeemMsgGuest');
+  }
+
   function renderAccount() {
+    bindRedeem();
     var A = window.MarvelAccounts; if (!A) return;
     var u = A.currentUser();
     var out = $('#acctLoggedOut'), inn = $('#acctLoggedIn');

@@ -1,9 +1,11 @@
-/* Party-code multiplayer (PeerJS). Host-authoritative turn-based battles. No API key. */
+/* Party-code multiplayer (PeerJS). Host-authoritative Bo5 lineups + brackets. */
 (function (root) {
   'use strict';
   var B = root.MarvelBattle;
   var CODE_ALPH = '23456789ABCDEFGHJKLMNPQRSTUVWXYZ';
   var PEER_PREFIX = 'mhv1';
+  var LINEUP_SIZE = 5;
+  var SERIES_WINS = 3; // best of 5
 
   function genCode() {
     var s = '';
@@ -12,21 +14,22 @@
   }
   function peerIdFor(code) { return PEER_PREFIX + String(code || '').toUpperCase(); }
   function normalizeCode(c) { return String(c || '').toUpperCase().replace(/[^A-Z0-9]/g, '').slice(0, 6); }
-
-  function uid() {
-    return 'p' + Math.random().toString(36).slice(2, 10);
+  function uid() { return 'p' + Math.random().toString(36).slice(2, 10); }
+  function emptyLineup() { return [null, null, null, null, null]; }
+  function lineupFull(lineup) {
+    if (!lineup || lineup.length < LINEUP_SIZE) return false;
+    for (var i = 0; i < LINEUP_SIZE; i++) if (!lineup[i]) return false;
+    return true;
+  }
+  function shuffle(arr) {
+    var a = arr.slice();
+    for (var i = a.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var t = a[i]; a[i] = a[j]; a[j] = t;
+    }
+    return a;
   }
 
-  /**
-   * Create a PartySession.
-   * opts: {
-   *   byId: {charId: character},
-   *   onState: function(state),
-   *   onLog: function(msg),
-   *   onError: function(err),
-   *   playerName: string
-   * }
-   */
   function PartySession(opts) {
     this.byId = opts.byId || {};
     this.onState = opts.onState || function () {};
@@ -37,15 +40,14 @@
     this.isHost = false;
     this.code = '';
     this.peer = null;
-    this.conns = {}; // peerId -> DataConnection (host only)
-    this.hostConn = null; // guest -> host
+    this.conns = {};
+    this.hostConn = null;
     this.state = null;
   }
 
   PartySession.prototype._emit = function () {
     this.onState(this.state && JSON.parse(JSON.stringify(this.state)));
   };
-
   PartySession.prototype._log = function (m) { this.onLog(m); };
 
   PartySession.prototype._emptyLobby = function (code) {
@@ -56,22 +58,29 @@
       players: [{
         id: this.localId,
         name: this.playerName,
-        charId: null,
+        lineup: emptyLineup(),
         ready: false,
-        hp: 100,
-        shield: 0,
-        stunned: false,
         connected: true
       }],
-      turnOrder: [],
-      turnIndex: 0,
-      log: [],
-      winnerId: null,
-      lastAction: null
+      mode: null, // series | tournament
+      bracket: null,
+      match: null,
+      championId: null,
+      log: []
     };
   };
 
-  /** Map PeerJS / WebRTC errors to short actionable copy. */
+  PartySession.prototype._mkPlayer = function (id, name, peerKey) {
+    return {
+      id: id,
+      name: String(name || 'Player').slice(0, 18),
+      lineup: emptyLineup(),
+      ready: false,
+      connected: true,
+      _peer: peerKey || null
+    };
+  };
+
   PartySession.prototype._friendlyError = function (err) {
     var type = (err && err.type) ? String(err.type) : '';
     var raw = String((err && err.message) || err || '');
@@ -80,7 +89,7 @@
       return new Error('No open room for that code. Host may have left or refreshed — ask them to Create room again and share the new code. Keep both tabs open.');
     }
     if (/negotiation-failed|could not negotiate|ice|webrtc/i.test(low)) {
-      return new Error('Could not link devices (network blocked direct play). Try: same Wi-Fi, disable VPN/adblock, both keep the tab open, or host creates a fresh code. Cross-network needs a free relay — retry in a moment.');
+      return new Error('Could not link devices (network blocked direct play). Try: same Wi-Fi, disable VPN/adblock, both keep the tab open, or host creates a fresh code.');
     }
     if (/network|socket|server-error|disconnected|ssl/i.test(low)) {
       return new Error('Lobby server hiccup. Check internet, wait a few seconds, then Create/Join again. Adblock can block PeerJS — try allowing unpkg.com / 0.peerjs.com.');
@@ -96,8 +105,6 @@
   };
 
   PartySession.prototype._peerOpts = function () {
-    // PeerJS config REPLACES library defaults — must re-include their free TURN
-    // (turn:*.turn.peerjs.com) or cross-NAT joins fail with "Could not negotiate".
     return {
       debug: 0,
       config: {
@@ -106,10 +113,7 @@
           { urls: 'stun:stun1.l.google.com:19302' },
           { urls: 'stun:stun2.l.google.com:19302' },
           {
-            urls: [
-              'turn:eu-0.turn.peerjs.com:3478',
-              'turn:us-0.turn.peerjs.com:3478'
-            ],
+            urls: ['turn:eu-0.turn.peerjs.com:3478', 'turn:us-0.turn.peerjs.com:3478'],
             username: 'peerjs',
             credential: 'peerjsp'
           }
@@ -142,7 +146,6 @@
     });
     peer.on('error', function (err) {
       if (done) return;
-      // unavailable-id only matters while claiming a host id — surface it for retry
       done = true;
       clearTimeout(t);
       cb(self._friendlyError(err));
@@ -204,7 +207,6 @@
   PartySession.prototype._onGuestGone = function (peerKey) {
     delete this.conns[peerKey];
     if (!this.state) return;
-    // Mark matching player disconnected if we stored peer map — guests send player id on join
     var changed = false;
     (this.state.players || []).forEach(function (p) {
       if (p._peer === peerKey) { p.connected = false; changed = true; }
@@ -241,7 +243,6 @@
           finished = true;
           clearTimeout(timer);
           var friendly = self._friendlyError(errObj);
-          // One automatic retry helps flaky ICE / brief broker lag
           if (attempts < 2 && /negotiate|network|timeout|webrtc|ice/i.test(String(friendly.message))) {
             self._log('Link failed — retrying once…');
             try { peer.destroy(); } catch (e) {}
@@ -279,10 +280,7 @@
           self._log('Disconnected from host. Ask them to recreate the room if needed.');
           if (self.state) { self.state.phase = 'disconnected'; self._emit(); }
         });
-        peer.on('error', function (err) {
-          // peer-unavailable = host id not on broker (left / wrong code / refreshed)
-          fail(err);
-        });
+        peer.on('error', function (err) { fail(err); });
       });
     }
     attempt();
@@ -294,11 +292,9 @@
       try { self._onMsg(msg, conn); } catch (e) { self.onError(e); }
     });
   };
-
   PartySession.prototype._send = function (conn, msg) {
     if (conn && conn.open) conn.send(msg);
   };
-
   PartySession.prototype._broadcast = function (msg, exceptPeer) {
     var self = this;
     Object.keys(self.conns).forEach(function (k) {
@@ -306,12 +302,10 @@
       self._send(self.conns[k], msg);
     });
   };
-
   PartySession.prototype._broadcastState = function () {
     this._emit();
     this._broadcast({ type: 'state', state: this.state });
   };
-
   PartySession.prototype._onMsg = function (msg, conn) {
     if (!msg || !msg.type) return;
     if (this.isHost) this._hostHandle(msg, conn);
@@ -323,11 +317,11 @@
     if (!st) return;
     if (msg.type === 'join') {
       if (st.phase !== 'lobby') {
-        this._send(conn, { type: 'err', message: 'Battle already started.' });
+        this._send(conn, { type: 'err', message: 'Match already started.' });
         return;
       }
-      if (st.players.length >= 6) {
-        this._send(conn, { type: 'err', message: 'Room is full (max 6).' });
+      if (st.players.length >= 8) {
+        this._send(conn, { type: 'err', message: 'Room is full (max 8).' });
         return;
       }
       var p = msg.player;
@@ -336,23 +330,13 @@
         this._broadcastState();
         return;
       }
-      st.players.push({
-        id: p.id,
-        name: String(p.name || 'Player').slice(0, 18),
-        charId: null,
-        ready: false,
-        hp: 100,
-        shield: 0,
-        stunned: false,
-        connected: true,
-        _peer: conn.peer
-      });
+      st.players.push(this._mkPlayer(p.id, p.name, conn.peer));
       this._log((p.name || 'Player') + ' joined.');
       this._broadcastState();
       return;
     }
-    if (msg.type === 'pick') {
-      this._setPick(msg.playerId, msg.charId);
+    if (msg.type === 'lineup') {
+      this._setLineup(msg.playerId, msg.lineup);
       return;
     }
     if (msg.type === 'ready') {
@@ -391,9 +375,22 @@
     return null;
   };
 
-  PartySession.prototype.pickCharacter = function (charId) {
-    if (this.isHost) this._setPick(this.localId, charId);
-    else if (this.hostConn) this._send(this.hostConn, { type: 'pick', playerId: this.localId, charId: charId });
+  PartySession.prototype.setLineupSlot = function (slot, charId) {
+    slot = +slot;
+    if (slot < 0 || slot >= LINEUP_SIZE) return;
+    var lineup;
+    if (this.isHost) {
+      var me = this._player(this.localId);
+      if (!me) return;
+      lineup = (me.lineup || emptyLineup()).slice();
+      lineup[slot] = charId || null;
+      this._setLineup(this.localId, lineup);
+    } else if (this.hostConn) {
+      var cur = this.state && this._player(this.localId);
+      lineup = (cur && cur.lineup ? cur.lineup.slice() : emptyLineup());
+      lineup[slot] = charId || null;
+      this._send(this.hostConn, { type: 'lineup', playerId: this.localId, lineup: lineup });
+    }
   };
 
   PartySession.prototype.setReady = function (ready) {
@@ -401,12 +398,20 @@
     else if (this.hostConn) this._send(this.hostConn, { type: 'ready', playerId: this.localId, ready: !!ready });
   };
 
-  PartySession.prototype._setPick = function (playerId, charId) {
+  PartySession.prototype._setLineup = function (playerId, lineup) {
     if (!this.isHost || !this.state || this.state.phase !== 'lobby') return;
-    if (!this.byId[charId]) return;
     var p = this._player(playerId);
     if (!p) return;
-    p.charId = charId;
+    var next = emptyLineup();
+    var seen = {};
+    for (var i = 0; i < LINEUP_SIZE; i++) {
+      var id = lineup && lineup[i] ? String(lineup[i]) : null;
+      if (id && this.byId[id] && !seen[id]) {
+        next[i] = id;
+        seen[id] = true;
+      }
+    }
+    p.lineup = next;
     p.ready = false;
     this._broadcastState();
   };
@@ -414,7 +419,7 @@
   PartySession.prototype._setReady = function (playerId, ready) {
     if (!this.isHost || !this.state || this.state.phase !== 'lobby') return;
     var p = this._player(playerId);
-    if (!p || !p.charId) return;
+    if (!p || !lineupFull(p.lineup)) return;
     p.ready = !!ready;
     this._broadcastState();
   };
@@ -424,43 +429,162 @@
     else if (this.hostConn) this._send(this.hostConn, { type: 'start', playerId: this.localId });
   };
 
+  PartySession.prototype._buildBracket = function (ids) {
+    var seeded = shuffle(ids);
+    // pad to next power of 2 with byes (null)
+    var n = 1;
+    while (n < seeded.length) n *= 2;
+    while (seeded.length < n) seeded.push(null);
+    var round0 = [];
+    for (var i = 0; i < seeded.length; i += 2) {
+      round0.push({ a: seeded[i], b: seeded[i + 1], winner: null, scoreA: 0, scoreB: 0 });
+    }
+    return { rounds: [round0], roundIdx: 0, matchIdx: 0 };
+  };
+
   PartySession.prototype.startBattle = function () {
     if (!this.isHost || !this.state || this.state.phase !== 'lobby') return;
-    var ready = this.state.players.filter(function (p) { return p.ready && p.charId && p.connected !== false; });
+    var ready = this.state.players.filter(function (p) {
+      return p.ready && lineupFull(p.lineup) && p.connected !== false;
+    });
     if (ready.length < 2) {
-      this._log('Need at least 2 ready players to start.');
+      this._log('Need at least 2 ready players with full 5-char lineups.');
       return;
     }
-    // Drop unready from this fight
-    this.state.players = ready.map(function (p) {
-      return {
-        id: p.id, name: p.name, charId: p.charId, ready: true,
-        hp: 100, shield: 0, stunned: false, connected: true, _peer: p._peer
-      };
-    });
+    this.state.players = ready;
+    this.state.championId = null;
+    this.state.log = [];
+    if (ready.length === 2) {
+      this.state.mode = 'series';
+      this.state.bracket = null;
+      this._startMatch(ready[0].id, ready[1].id);
+    } else {
+      this.state.mode = 'tournament';
+      this.state.bracket = this._buildBracket(ready.map(function (p) { return p.id; }));
+      this._log('Tournament bracket set — winner advances.');
+      this._startNextBracketMatch();
+    }
+  };
+
+  PartySession.prototype._startNextBracketMatch = function () {
+    var br = this.state.bracket;
+    if (!br) return;
+    while (br.roundIdx < br.rounds.length) {
+      var round = br.rounds[br.roundIdx];
+      while (br.matchIdx < round.length) {
+        var m = round[br.matchIdx];
+        if (m.winner) { br.matchIdx++; continue; }
+        // bye handling
+        if (!m.a && m.b) { m.winner = m.b; br.matchIdx++; continue; }
+        if (m.a && !m.b) { m.winner = m.a; br.matchIdx++; continue; }
+        if (!m.a && !m.b) { br.matchIdx++; continue; }
+        this._startMatch(m.a, m.b);
+        return;
+      }
+      // round complete — build next or crown champion
+      var winners = round.map(function (x) { return x.winner; }).filter(Boolean);
+      if (winners.length <= 1) {
+        this.state.phase = 'done';
+        this.state.championId = winners[0] || null;
+        this.state.match = null;
+        var champ = this._player(this.state.championId);
+        this.state.log.push((champ ? champ.name : 'Someone') + ' wins the tournament!');
+        this._broadcastState();
+        return;
+      }
+      var next = [];
+      for (var i = 0; i < winners.length; i += 2) {
+        next.push({ a: winners[i], b: winners[i + 1] || null, winner: null, scoreA: 0, scoreB: 0 });
+      }
+      br.rounds.push(next);
+      br.roundIdx++;
+      br.matchIdx = 0;
+    }
+  };
+
+  PartySession.prototype._startMatch = function (aId, bId) {
+    this.state.match = {
+      aId: aId,
+      bId: bId,
+      scoreA: 0,
+      scoreB: 0,
+      gameIndex: 0,
+      fighters: [],
+      turnOrder: [],
+      turnIndex: 0,
+      log: [],
+      lastAction: null,
+      gameWinnerId: null
+    };
+    // sync bracket scores if present
+    if (this.state.bracket) {
+      var m = this.state.bracket.rounds[this.state.bracket.roundIdx][this.state.bracket.matchIdx];
+      if (m) { m.scoreA = 0; m.scoreB = 0; }
+    }
+    this._startGame();
+  };
+
+  PartySession.prototype._startGame = function () {
+    var match = this.state.match;
+    if (!match) return;
+    var a = this._player(match.aId);
+    var b = this._player(match.bId);
+    if (!a || !b) return;
+    var gi = match.gameIndex;
+    var aChar = a.lineup[gi];
+    var bChar = b.lineup[gi];
+    if (!aChar || !bChar) {
+      this._log('Missing lineup slot for game ' + (gi + 1));
+      return;
+    }
+    match.fighters = [
+      { id: a.id, charId: aChar, hp: 100, shield: 0, stunned: false },
+      { id: b.id, charId: bChar, hp: 100, shield: 0, stunned: false }
+    ];
+    match.gameWinnerId = null;
+    match.lastAction = null;
     var self = this;
-    var order = B.initiativeOrder(this.state.players.map(function (p) {
-      var c = self.byId[p.charId];
-      return { id: p.id, power: c ? c.power : 50 };
+    match.turnOrder = B.initiativeOrder(match.fighters.map(function (f) {
+      var c = self.byId[f.charId];
+      return { id: f.id, power: c ? c.power : 50 };
     }));
-    this.state.turnOrder = order;
-    this.state.turnIndex = 0;
+    match.turnIndex = 0;
+    var ac = this.byId[aChar];
+    var bc = this.byId[bChar];
+    var line = 'Game ' + (gi + 1) + ': ' + (ac ? ac.name : '?') + ' vs ' + (bc ? bc.name : '?') +
+      ' · Series ' + match.scoreA + '-' + match.scoreB;
+    match.log = [line];
     this.state.phase = 'fighting';
-    this.state.winnerId = null;
-    this.state.log = ['Battle start! Initiative set.'];
-    this.state.lastAction = null;
-    this._log('Battle started.');
+    this.state.log = (this.state.log || []).concat([line]).slice(-20);
+    this._log(line);
     this._broadcastState();
   };
 
-  PartySession.prototype.currentTurnId = function () {
-    if (!this.state || this.state.phase !== 'fighting') return null;
-    return this.state.turnOrder[this.state.turnIndex % this.state.turnOrder.length] || null;
+  PartySession.prototype._fighter = function (playerId) {
+    var match = this.state && this.state.match;
+    if (!match) return null;
+    for (var i = 0; i < match.fighters.length; i++) {
+      if (match.fighters[i].id === playerId) return match.fighters[i];
+    }
+    return null;
   };
 
+  PartySession.prototype.currentTurnId = function () {
+    if (!this.state || this.state.phase !== 'fighting' || !this.state.match) return null;
+    var m = this.state.match;
+    return m.turnOrder[m.turnIndex % m.turnOrder.length] || null;
+  };
+
+  PartySession.prototype.aliveFighters = function () {
+    if (!this.state || !this.state.match) return [];
+    return this.state.match.fighters.filter(function (f) { return f.hp > 0; });
+  };
+
+  // Back-compat alias used by older UI
   PartySession.prototype.alivePlayers = function () {
-    if (!this.state) return [];
-    return this.state.players.filter(function (p) { return p.hp > 0; });
+    return this.aliveFighters().map(function (f) {
+      return { id: f.id, hp: f.hp, charId: f.charId, shield: f.shield, stunned: f.stunned };
+    });
   };
 
   PartySession.prototype.submitMove = function (ability, targetId) {
@@ -471,46 +595,47 @@
   };
 
   PartySession.prototype._applyMove = function (playerId, ability, targetId) {
-    if (!this.isHost || !this.state || this.state.phase !== 'fighting') return;
+    if (!this.isHost || !this.state || this.state.phase !== 'fighting' || !this.state.match) return;
     if (this.currentTurnId() !== playerId) return;
-    var atkP = this._player(playerId);
-    if (!atkP || atkP.hp <= 0) return;
-    var atkC = this.byId[atkP.charId];
+    var match = this.state.match;
+    var atkF = this._fighter(playerId);
+    if (!atkF || atkF.hp <= 0) return;
+    var atkC = this.byId[atkF.charId];
     if (!atkC) return;
 
     var resolved = B.resolveAbility(atkC.abilities, ability);
     var needsTarget = resolved.needsTarget;
-    var defP = null;
+    var defF = null;
     var defC = null;
 
     if (needsTarget) {
-      var alive = this.alivePlayers().filter(function (p) { return p.id !== playerId; });
+      var alive = this.aliveFighters().filter(function (f) { return f.id !== playerId; });
       if (!alive.length) return;
-      if (targetId) defP = this._player(targetId);
-      if (!defP || defP.hp <= 0 || defP.id === playerId) defP = alive[0];
-      defC = this.byId[defP.charId];
+      if (targetId) defF = this._fighter(targetId);
+      if (!defF || defF.hp <= 0 || defF.id === playerId) defF = alive[0];
+      defC = this.byId[defF.charId];
       if (!defC) return;
     }
 
     var result = B.applyAbility(
-      { hp: atkP.hp, shield: atkP.shield || 0, power: atkC.power, typePrimary: atkC.typePrimary },
-      defP ? { hp: defP.hp, shield: defP.shield || 0, power: defC.power, stunned: !!defP.stunned, typePrimary: defC.typePrimary } : null,
+      { hp: atkF.hp, shield: atkF.shield || 0, power: atkC.power, typePrimary: atkC.typePrimary },
+      defF ? { hp: defF.hp, shield: defF.shield || 0, power: defC.power, stunned: !!defF.stunned, typePrimary: defC.typePrimary } : null,
       resolved
     );
 
-    atkP.hp = result.atkHp;
-    atkP.shield = result.atkShield;
-    if (defP) {
-      defP.hp = result.defHp;
-      defP.shield = result.defShield;
-      defP.stunned = !!result.defStunned;
+    atkF.hp = result.atkHp;
+    atkF.shield = result.atkShield;
+    if (defF) {
+      defF.hp = result.defHp;
+      defF.shield = result.defShield;
+      defF.stunned = !!result.defStunned;
     }
 
     var line = B.formatAbilityLine(atkC.name, defC ? defC.name : atkC.name, result);
-    this.state.log = (this.state.log || []).concat([line]).slice(-14);
-    this.state.lastAction = {
+    match.log = (match.log || []).concat([line]).slice(-14);
+    match.lastAction = {
       atkId: playerId,
-      defId: defP ? defP.id : playerId,
+      defId: defF ? defF.id : playerId,
       ability: resolved.name,
       type: resolved.type,
       damage: result.damage,
@@ -520,20 +645,43 @@
       stunned: result.stunned,
       pierced: result.pierced,
       absorbed: result.absorbed,
-      defHp: defP ? defP.hp : atkP.hp,
-      defShield: defP ? defP.shield : atkP.shield,
-      atkHp: atkP.hp,
-      atkShield: atkP.shield
+      defHp: defF ? defF.hp : atkF.hp,
+      defShield: defF ? defF.shield : atkF.shield,
+      atkHp: atkF.hp,
+      atkShield: atkF.shield
     };
 
-    var still = this.alivePlayers();
+    var still = this.aliveFighters();
     if (still.length <= 1) {
-      this.state.phase = 'done';
-      this.state.winnerId = still.length ? still[0].id : playerId;
-      var w = this._player(this.state.winnerId);
-      var wc = w && this.byId[w.charId];
-      this.state.log.push((wc ? wc.name : 'Someone') + ' wins the party battle!');
+      var winId = still.length ? still[0].id : playerId;
+      match.gameWinnerId = winId;
+      if (winId === match.aId) match.scoreA++;
+      else match.scoreB++;
+      if (this.state.bracket) {
+        var bm = this.state.bracket.rounds[this.state.bracket.roundIdx][this.state.bracket.matchIdx];
+        if (bm) { bm.scoreA = match.scoreA; bm.scoreB = match.scoreB; }
+      }
+      var wp = this._player(winId);
+      var wc = wp && this.byId[this._fighter(winId) ? this._fighter(winId).charId : null];
+      var gline = (wc ? wc.name : (wp ? wp.name : 'Someone')) + ' takes game ' + (match.gameIndex + 1) +
+        ' · Series ' + match.scoreA + '-' + match.scoreB;
+      match.log.push(gline);
+      this.state.log = (this.state.log || []).concat([gline]).slice(-20);
+
+      if (match.scoreA >= SERIES_WINS || match.scoreB >= SERIES_WINS) {
+        this._finishMatch(match.scoreA >= SERIES_WINS ? match.aId : match.bId);
+        return;
+      }
+      // next game
+      match.gameIndex++;
+      if (match.gameIndex >= LINEUP_SIZE) {
+        // safety: decide by score
+        this._finishMatch(match.scoreA >= match.scoreB ? match.aId : match.bId);
+        return;
+      }
       this._broadcastState();
+      var self = this;
+      setTimeout(function () { self._startGame(); }, 600);
       return;
     }
 
@@ -541,20 +689,47 @@
     this._broadcastState();
   };
 
+  PartySession.prototype._finishMatch = function (winnerId) {
+    var match = this.state.match;
+    if (!match) return;
+    if (this.state.mode === 'series') {
+      this.state.phase = 'done';
+      this.state.championId = winnerId;
+      var w = this._player(winnerId);
+      this.state.log.push((w ? w.name : 'Someone') + ' wins best of 5!');
+      this._broadcastState();
+      return;
+    }
+    // tournament: record winner and advance
+    var br = this.state.bracket;
+    var bm = br.rounds[br.roundIdx][br.matchIdx];
+    bm.winner = winnerId;
+    bm.scoreA = match.scoreA;
+    bm.scoreB = match.scoreB;
+    var wp = this._player(winnerId);
+    this.state.log.push((wp ? wp.name : 'Someone') + ' advances!');
+    br.matchIdx++;
+    this.state.match = null;
+    this._broadcastState();
+    var self = this;
+    setTimeout(function () { self._startNextBracketMatch(); }, 700);
+  };
+
   PartySession.prototype._advanceTurn = function () {
-    if (!this.state || this.state.phase !== 'fighting') return;
-    var n = this.state.turnOrder.length;
+    var match = this.state && this.state.match;
+    if (!match || this.state.phase !== 'fighting') return;
+    var n = match.turnOrder.length;
     if (!n) return;
     for (var guard = 0; guard < n * 2; guard++) {
-      this.state.turnIndex = (this.state.turnIndex + 1) % n;
-      var nid = this.currentTurnId();
-      var np = this._player(nid);
-      if (!np || np.hp <= 0) continue;
-      if (np.stunned) {
-        np.stunned = false;
-        var nc = this.byId[np.charId];
-        var skipLine = (nc ? nc.name : np.name) + ' is stunned and skips a turn!';
-        this.state.log = (this.state.log || []).concat([skipLine]).slice(-14);
+      match.turnIndex = (match.turnIndex + 1) % n;
+      var nid = match.turnOrder[match.turnIndex % n];
+      var nf = this._fighter(nid);
+      if (!nf || nf.hp <= 0) continue;
+      if (nf.stunned) {
+        nf.stunned = false;
+        var nc = this.byId[nf.charId];
+        var skipLine = (nc ? nc.name : 'Fighter') + ' is stunned and skips a turn!';
+        match.log = (match.log || []).concat([skipLine]).slice(-14);
         continue;
       }
       break;
@@ -563,21 +738,17 @@
 
   PartySession.prototype.rematch = function () {
     if (!this.isHost || !this.state) return;
-    var self = this;
     this.state.phase = 'lobby';
-    this.state.turnOrder = [];
-    this.state.turnIndex = 0;
-    this.state.winnerId = null;
-    this.state.lastAction = null;
+    this.state.mode = null;
+    this.state.bracket = null;
+    this.state.match = null;
+    this.state.championId = null;
     this.state.log = [];
     this.state.players.forEach(function (p) {
-      p.hp = 100;
-      p.shield = 0;
-      p.stunned = false;
       p.ready = false;
-      // keep charId for convenience
+      // keep lineup
     });
-    this._log('Rematch — pick & ready up again.');
+    this._log('Rematch — ready up with your lineups again.');
     this._broadcastState();
   };
 
@@ -598,5 +769,16 @@
     this.state = null;
   };
 
-  root.MarvelParty = { PartySession: PartySession, genCode: genCode, normalizeCode: normalizeCode };
+  // Legacy no-op so old UI calls don't throw before reload
+  PartySession.prototype.pickCharacter = function (charId) {
+    this.setLineupSlot(0, charId);
+  };
+
+  root.MarvelParty = {
+    PartySession: PartySession,
+    genCode: genCode,
+    normalizeCode: normalizeCode,
+    LINEUP_SIZE: LINEUP_SIZE,
+    SERIES_WINS: SERIES_WINS
+  };
 })(typeof self !== 'undefined' ? self : this);

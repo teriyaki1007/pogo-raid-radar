@@ -8,7 +8,7 @@
 <meta name="description" content="Unofficial MCU fan hub: gallery, gacha pulls, accounts, 1v1 arena, and online party-code battles." />
 <title>Marvel Hub · Unofficial MCU fan site</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23e23636'/%3E%3Ctext x='16' y='24' text-anchor='middle' font-family='Impact,sans-serif' font-size='22' fill='%23fff'%3EM%3C/text%3E%3C/svg%3E" />
-<link rel="stylesheet" href="styles.css?v=20261014marvelApi1" />
+<link rel="stylesheet" href="styles.css?v=20261014partyBo5" />
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -68,7 +68,7 @@
     <p id="empty" class="empty" hidden>No characters match. Try clearing the filters.</p>
   </section>
 
-  <section id="panel-arena" data-build="20261014marvelApi1" role="tabpanel" aria-labelledby="tab-arena" hidden>
+  <section id="panel-arena" data-build="20261014partyBo5" role="tabpanel" aria-labelledby="tab-arena" hidden>
     <div class="intro">
       <h2>Battle Arena</h2>
       <p class="muted">Solo turn-based fights vs a CPU — same moves as Party (<strong>ATK</strong> / <strong>PIERCE</strong> / <strong>SHIELD</strong> / <strong>HEAL</strong> / <strong>STUN</strong>). You pick <strong>only your owned</strong> fighter; the enemy is <strong>random</strong> (anti-farm). Type advantages (Skill · Tech · Enhanced · Mystic · Cosmic · Mythic · Mutant) multiply damage ×1.5 / ×0.67.</p>
@@ -129,11 +129,11 @@
   </section>
 
 
-  <section id="panel-party" data-build="20261014marvelApi1" role="tabpanel" aria-labelledby="tab-party" hidden>
+  <section id="panel-party" data-build="20261014partyBo5" role="tabpanel" aria-labelledby="tab-party" hidden>
     <div class="intro">
       <h2>Party Battle</h2>
-      <p class="muted">Online turn-based fights for 2–6 players. Create a room, share the party code, and duel across devices. Your fighter must be from your <strong>owned</strong> collection. Each ability is a real choice — <strong>ATK</strong>, <strong>PIERCE</strong> (ignores shield), <strong>SHIELD</strong>, <strong>HEAL</strong>, or <strong>STUN</strong> (skip their next turn). Power still shapes damage, but smart picks win fights.</p>
-      <p class="pill">No install · free PeerJS lobby · STUN + TURN relay · host is referee</p>
+      <p class="muted">Online <strong>best of 5</strong> with a locked <strong>5-character lineup</strong> (owned only). Two players duel series-style; <strong>3+</strong> players run a <strong>winner-advances</strong> tournament. Moves: <strong>ATK</strong> · <strong>PIERCE</strong> · <strong>SHIELD</strong> · <strong>HEAL</strong> · <strong>STUN</strong>.</p>
+      <p class="pill">PeerJS lobby · Bo5 lineups · brackets for 3+ · host is referee</p>
     </div>
     <div id="partyOwnGate" class="own-gate-wrap" hidden></div>
 
@@ -165,20 +165,20 @@
       <div id="partyLobby" class="party-lobby">
         <h3>Lobby</h3>
         <ul id="partyPlayers" class="party-players"></ul>
-        <div class="party-pick-row">
-          <label for="partyChar">Your fighter</label>
-          <div class="pick-row">
-            <select id="partyChar"></select>
-            <button type="button" class="btn ghost" id="partyBrowse">Browse</button>
-          </div>
+        <div class="party-lineup-block">
+          <h4>Your lineup (5)</h4>
+          <p class="muted tiny">Game 1 uses slot 1, game 2 slot 2, … First to 3 game wins takes the match.</p>
+          <div id="partyLineup" class="party-lineup"></div>
         </div>
         <div class="actions">
           <button type="button" class="btn" id="partyReady">Ready</button>
-          <button type="button" class="btn primary" id="partyStart" hidden>Start battle</button>
+          <button type="button" class="btn primary" id="partyStart" hidden>Start</button>
         </div>
       </div>
 
       <div id="partyFight" class="party-fight" hidden>
+        <p id="partySeries" class="party-series pill" aria-live="polite"></p>
+        <div id="partyBracket" class="party-bracket" hidden></div>
         <p id="partyTurn" class="party-turn" aria-live="polite"></p>
         <div id="partyFighters" class="party-fighters"></div>
         <div id="partyMoves" class="party-moves" hidden>
@@ -220,7 +220,7 @@
     <p class="note">Duplicates convert to bonus shards (Common 8 → Legendary 120). Costume portraits from Marvel Hub replace actor photos when available (full set of 86 wired).</p>
   </section>
 
-  <section id="panel-account" role="tabpanel" aria-labelledby="acctOpen" hidden data-build="20261014marvelApi1">
+  <section id="panel-account" role="tabpanel" aria-labelledby="acctOpen" hidden data-build="20261014partyBo5">
     <div class="intro">
       <h2>Account</h2>
       <p class="muted">Register so shards, XP, and owned characters persist on this browser. Multi-device sync needs a one-time Cloudflare D1 bind (see deploy notes) — local accounts work today with no secrets.</p>
@@ -243,6 +243,13 @@
           </form>
         </div>
         <p id="acctMsg" class="party-status" aria-live="polite"></p>
+        <form id="formRedeemGuest" class="acct-form redeem-form" style="margin-top:1rem">
+          <h3>Redemption code</h3>
+          <label>Code <input id="redeemCodeGuest" name="code" type="text" maxlength="32" placeholder="Enter code" autocomplete="off" spellcheck="false" /></label>
+          <button type="submit" class="btn">Redeem</button>
+          <p id="redeemMsgGuest" class="party-status muted" aria-live="polite"></p>
+        </form>
+
       </div>
       <div id="acctLoggedIn" class="acct-box" hidden>
         <p>Signed in as <strong id="acctName"></strong></p>
@@ -252,8 +259,14 @@
           <div><dt>Owned</dt><dd id="acctOwned">0</dd></div>
           <div><dt>Pulls</dt><dd id="acctPulls">0</dd></div>
         </dl>
+        <form id="formRedeem" class="acct-form redeem-form" style="margin-top:1rem">
+          <h3>Redemption code</h3>
+          <label>Code <input id="redeemCode" name="code" type="text" maxlength="32" placeholder="Enter code" autocomplete="off" spellcheck="false" /></label>
+          <button type="submit" class="btn">Redeem</button>
+          <p id="redeemMsg" class="party-status muted" aria-live="polite"></p>
+        </form>
         <button type="button" class="btn ghost" id="acctLogout">Log out</button>
-        <p class="note">Passwords are salted SHA-256 hashes stored only in this browser’s localStorage — never sent to a server unless you later enable Cloudflare sync.</p>
+        <p class="note">Passwords sync to D1 when signed in remotely. Redemption codes grant shards / units — drop your code list with Pokemon Go Helper to unlock them.</p>
       </div>
     </div>
   </section>
@@ -281,9 +294,9 @@
 <canvas id="confetti" aria-hidden="true"></canvas>
 
 <script src="https://unpkg.com/peerjs@1.5.4/dist/peerjs.min.js" crossorigin="anonymous"></script>
-<script src="battle.js?v=20261014marvelApi1"></script>
-<script src="multiplayer.js?v=20261014marvelApi1"></script>
-<script src="accounts.js?v=20261014marvelApi1"></script>
-<script src="app.js?v=20261014marvelApi1"></script>
+<script src="battle.js?v=20261014partyBo5"></script>
+<script src="multiplayer.js?v=20261014partyBo5"></script>
+<script src="accounts.js?v=20261014partyBo5"></script>
+<script src="app.js?v=20261014partyBo5"></script>
 </body>
 </html>

@@ -78,6 +78,7 @@
     p.shards = +p.shards || 0;
     p.xp = +p.xp || 0;
     p.owned = p.owned && typeof p.owned === 'object' ? p.owned : {};
+    p.redeemed = p.redeemed && typeof p.redeemed === 'object' ? p.redeemed : {};
     p.pullCount = +p.pullCount || 0;
     p.battles = p.battles || { arenaW: 0, arenaL: 0, partyW: 0, partyL: 0 };
     if (p.lastPartyRewardId === undefined && p.last_party_reward_id !== undefined) {
@@ -486,6 +487,36 @@
     return { ok: true, cost: cost, results: results, progress: p };
   }
 
+  /**
+   * Redemption codes — fill REDEEM_CODES when Dastan provides the list.
+   * Format: { CODEUPPER: { shards?: number, units?: string[] } }
+   * Each username can redeem a code once (tracked in progress.redeemed).
+   */
+  var REDEEM_CODES = {
+    // e.g. WELCOME: { shards: 200, units: ['hawkeye'] }
+  };
+
+  function redeemCode(raw) {
+    var code = String(raw || '').trim().toUpperCase().replace(/\s+/g, '');
+    if (!code) return { ok: false, error: 'Enter a code.' };
+    var def = REDEEM_CODES[code];
+    if (!def) return { ok: false, error: 'Unknown or inactive code.' };
+    var p = progress();
+    p.redeemed = p.redeemed && typeof p.redeemed === 'object' ? p.redeemed : {};
+    if (p.redeemed[code]) return { ok: false, error: 'You already redeemed this code.', progress: p };
+    var gotShards = Math.max(0, +def.shards || 0);
+    var gotUnits = [];
+    (def.units || []).forEach(function (id) {
+      if (!id) return;
+      p.owned[id] = (p.owned[id] || 0) + 1;
+      gotUnits.push(id);
+    });
+    if (gotShards) p.shards += gotShards;
+    p.redeemed[code] = { at: nowIso(), shards: gotShards, units: gotUnits.slice() };
+    saveCurrent(p);
+    return { ok: true, code: code, shards: gotShards, units: gotUnits, progress: p };
+  }
+
   /** Built-in seed login: marvelhub / marvelallcharacters owns the full roster (local). */
   function ensureSeedAccount(allIds) {
     allIds = allIds || [];
@@ -553,6 +584,8 @@
     owns: owns,
     ownedList: ownedList,
     ensureSeedAccount: ensureSeedAccount,
+    redeemCode: redeemCode,
+    REDEEM_CODES: REDEEM_CODES,
     normalizeUser: normalizeUser,
     DUP_SHARDS: DUP_SHARDS
   };
