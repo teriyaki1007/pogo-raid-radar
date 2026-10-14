@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-10-14",
-    "asOfLabel": "14 Oct 2026 ~6:35 AM HKT",
+    "asOfLabel": "14 Oct 2026 ~10:45 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE now (Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local): Dialga 5★ + Mega Dragonite. Dialga Raid Hour tonight Wed 14 Oct 6–7 PM local. New Dialga-window 1★/3★ (GO Hub): Galarian Slowpoke, Hisuian Voltorb, Nincada, Beldum / Hisuian Arcanine, Snorlax, Kleavor. Shadow Landorus (Incarnate) continues through 3 Nov (Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion). Fall Marathon: Buddy Trek is LIVE (Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM) — Bramblin debut; boost shiny Electrike. Then: Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM): 1★ Pikachu hat+capelet + Sinistea bow (shiny debuts).",
-      "endsAtLabel": "Dialga + Mega Dragonite → Tue 20 Oct 10:00 PM · Fall Marathon → Mon 19 Oct 8:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Raid Hour Dialga tonight 6–7 PM"
+      "text": "LIVE now (Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local): Dialga 5★ + Mega Dragonite. Dialga Raid Hour Wed 14 Oct 6–7 PM local has ended. Dialga-window 1★/3★ (Leek Duck + GO Hub aligned): Galarian Slowpoke, Hisuian Voltorb, Nincada, Beldum / Hisuian Arcanine, Snorlax, Kleavor. Shadow Landorus (Incarnate) continues through 3 Nov (Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion). Fall Marathon: Buddy Trek is LIVE (Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM) — Bramblin debut; boost shiny Electrike. Tomorrow Thu 15 Oct 6–7 PM: Spotlight Stufful (wild only). Then: Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM): 1★ Pikachu hat+capelet + Sinistea bow (shiny debuts).",
+      "endsAtLabel": "Dialga + Mega Dragonite → Tue 20 Oct 10:00 PM · Fall Marathon → Mon 19 Oct 8:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Spotlight Stufful tomorrow 6–7 PM"
     },
     "legend": {
       "standard": {
@@ -1724,7 +1724,7 @@
       "id": "dialga-dragonite-oct14",
       "when": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local (LIVE)",
       "title": "Dialga 5★ + Mega Dragonite (LIVE)",
-      "impact": "LIVE rotation replaces Yveltal / Mega Blastoise (Leek Duck / GO Hub; both shiny-eligible). Dialga Steel/Dragon — weak to Fighting, Ground. Mega Dragonite Dragon/Flying — Ice ×2.56, Dragon, Fairy, Rock. New 1★/3★ pool posted on GO Hub. Raid Hour Wed 14 Oct 6–7 PM.",
+      "impact": "LIVE rotation (Leek Duck / GO Hub; both shiny-eligible). Dialga Steel/Dragon — weak to Fighting, Ground. Mega Dragonite Dragon/Flying — Ice ×2.56, Dragon, Fairy, Rock. 1★/3★ pool confirmed on Leek Duck + GO Hub. Dialga Raid Hour Wed 14 Oct 6–7 PM has ended.",
       "urgent": true
     },
     {
@@ -1771,10 +1771,10 @@
     },
     {
       "id": "raid-hour-dialga",
-      "when": "Wed 14 Oct 6:00–7:00 PM local (tonight)",
-      "title": "Raid Hour: Dialga (tonight)",
-      "impact": "More 5★ raids for one hour on Dialga’s first day.",
-      "urgent": true
+      "when": "Wed 14 Oct 6:00–7:00 PM local (ended)",
+      "title": "Raid Hour: Dialga (ended)",
+      "impact": "Ended. More 5★ raids for one hour on Dialga’s first day.",
+      "urgent": false
     },
     {
       "id": "giratina-sableye-oct28",
