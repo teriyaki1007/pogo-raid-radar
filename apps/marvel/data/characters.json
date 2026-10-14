@@ -5794,7 +5794,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Talos yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/talos.jpg"
     },
     {
       "id": "yon-rogg",
@@ -5828,7 +5829,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Yon-Rogg yet.",
       "typePrimary": "Cosmic",
-      "typeSecondary": "Enhanced"
+      "typeSecondary": "Enhanced",
+      "costumeArt": "img/costume/yon-rogg.jpg"
     },
     {
       "id": "minn-erva",
@@ -5862,7 +5864,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Minn-Erva yet.",
       "typePrimary": "Cosmic",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/minn-erva.jpg"
     },
     {
       "id": "maria-rambeau",
@@ -5895,7 +5898,8 @@
       "spoilers": "She helps defeat Starforce; later dies of cancer before WandaVision’s Westview crisis.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Maria Rambeau yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/maria-rambeau.jpg"
     },
     {
       "id": "gravik",
@@ -5930,7 +5934,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Gravik yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Cosmic"
+      "typeSecondary": "Cosmic",
+      "costumeArt": "img/costume/gravik.jpg"
     },
     {
       "id": "giah",
@@ -5964,7 +5969,8 @@
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for G'iah yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Cosmic"
+      "typeSecondary": "Cosmic",
+      "costumeArt": "img/costume/giah.jpg"
     },
     {
       "id": "dar-benn",
@@ -5999,7 +6005,8 @@
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Dar-Benn yet.",
       "typePrimary": "Cosmic",
-      "typeSecondary": "Tech"
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/dar-benn.jpg"
     },
     {
       "id": "xialing",
@@ -6034,7 +6041,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Xu Xialing yet.",
       "typePrimary": "Skill",
-      "typeSecondary": "Mystic"
+      "typeSecondary": "Mystic",
+      "costumeArt": "img/costume/xialing.jpg"
     },
     {
       "id": "katy-chen",
