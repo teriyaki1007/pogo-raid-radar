@@ -4156,7 +4156,8 @@
       "spoilers": "Hela kills Volstagg and Fandral when she returns to Asgard in Ragnarok.",
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Volstagg yet.",
-      "typePrimary": "Mythic"
+      "typePrimary": "Mythic",
+      "costumeArt": "img/costume/volstagg.jpg"
     },
     {
       "id": "hogun",
@@ -4190,7 +4191,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hogun yet.",
       "typePrimary": "Mythic",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/hogun.jpg"
     },
     {
       "id": "fandral",
@@ -4224,7 +4226,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Fandral yet.",
       "typePrimary": "Mythic",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/fandral.jpg"
     },
     {
       "id": "malekith",
@@ -4259,7 +4262,8 @@
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Malekith yet.",
       "typePrimary": "Mythic",
-      "typeSecondary": "Mystic"
+      "typeSecondary": "Mystic",
+      "costumeArt": "img/costume/malekith.jpg"
     },
     {
       "id": "skurge",
@@ -8333,32 +8337,41 @@
     "currency": "shards",
     "note": "Rates locked by Marvel Hub 2026-10-14. Stronger MCU ratings = lower pull rate. Bands retuned with roster v5."
   },
-  "dataBuild": "20261014arena1",
+  "dataBuild": "20261014portraits24",
   "costumeArtBatch": {
     "asOf": "2026-10-14",
-    "count": 86,
+    "count": 110,
     "ids": [
       "abomination",
       "adam-warlock",
       "agatha-harkness",
+      "ajak",
       "america-chavez",
       "ant-man",
+      "arishem",
+      "ayesha",
+      "black-knight",
       "black-panther",
       "black-widow",
       "captain-america",
       "captain-marvel",
       "cassie-lang",
       "collector",
+      "cosmo",
       "crossbones",
       "daredevil",
       "deadpool",
       "doctor-strange",
       "dormammu",
       "drax",
+      "druig",
       "ego",
       "falcon",
+      "fandral",
+      "frigga",
       "gamora",
       "ghost",
+      "gilgamesh",
       "gorr",
       "grandmaster",
       "groot",
@@ -8367,6 +8380,8 @@
       "heimdall",
       "hela",
       "high-evolutionary",
+      "hogun",
+      "howard-the-duck",
       "hulk",
       "ikaris",
       "iron-man",
@@ -8376,11 +8391,18 @@
       "kang",
       "kate-bishop",
       "killmonger",
+      "kingo",
       "kingpin",
+      "korath",
       "korg",
+      "kraglin",
+      "kro",
+      "lady-sif",
       "loki",
       "luke-cage",
       "m-baku",
+      "makkari",
+      "malekith",
       "mantis",
       "maria-hill",
       "monica-rambeau",
@@ -8393,6 +8415,7 @@
       "odin",
       "okoye",
       "pepper-potts",
+      "phastos",
       "phil-coulson",
       "punisher",
       "quicksilver",
@@ -8405,16 +8428,21 @@
       "she-hulk",
       "shuri",
       "spider-man",
+      "sprite",
+      "stakar-ogord",
       "star-lord",
       "surtur",
       "sylvie",
+      "taserface",
       "taskmaster",
       "thanos",
+      "the-watcher",
       "thena",
       "thor",
       "ultron",
       "valkyrie",
       "vision",
+      "volstagg",
       "vulture",
       "war-machine",
       "wasp",
@@ -8425,7 +8453,7 @@
       "yelena-belova",
       "yondu"
     ],
-    "note": "Marvel Hub full costume set (86) — all roster placeholders retired",
+    "note": "Marvel Hub costume set (110) — wired art under img/costume/",
     "wiredIds": [
       "ajak",
       "arishem",
@@ -8433,8 +8461,10 @@
       "black-knight",
       "cosmo",
       "druig",
+      "fandral",
       "frigga",
       "gilgamesh",
+      "hogun",
       "howard-the-duck",
       "kingo",
       "korath",
@@ -8442,11 +8472,13 @@
       "kro",
       "lady-sif",
       "makkari",
+      "malekith",
       "phastos",
       "sprite",
       "stakar-ogord",
       "taserface",
-      "the-watcher"
+      "the-watcher",
+      "volstagg"
     ],
     "lastBatch": [
       "ajak",
@@ -8468,9 +8500,13 @@
       "howard-the-duck",
       "the-watcher",
       "frigga",
-      "lady-sif"
+      "lady-sif",
+      "volstagg",
+      "hogun",
+      "fandral",
+      "malekith"
     ],
-    "lastBatchNote": "Hub portraits batch: eternals/guardians/asgard support cast"
+    "lastBatchNote": "Hub portraits batch: eternals/guardians/asgard (+ Warriors Three / Malekith)"
   },
   "gachaBands": {
     "common": "<=55",
