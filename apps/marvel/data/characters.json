@@ -5551,7 +5551,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Spider-Man (Webb) yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Tech"
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/spider-man-webb.jpg"
     },
     {
       "id": "ancient-one",
@@ -5585,7 +5586,8 @@
       "spoilers": "Kaecilius mortally wounds her; she dies after confessing her Dark Dimension bargain to Strange.",
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for The Ancient One yet.",
-      "typePrimary": "Mystic"
+      "typePrimary": "Mystic",
+      "costumeArt": "img/costume/ancient-one.jpg"
     },
     {
       "id": "mordo",
@@ -5619,7 +5621,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Karl Mordo yet.",
       "typePrimary": "Mystic",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/mordo.jpg"
     },
     {
       "id": "kaecilius",
@@ -5652,7 +5655,8 @@
       "spoilers": "Strange traps Dormammu in a time loop; Kaecilius is taken into the Dark Dimension.",
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kaecilius yet.",
-      "typePrimary": "Mystic"
+      "typePrimary": "Mystic",
+      "costumeArt": "img/costume/kaecilius.jpg"
     },
     {
       "id": "christine-palmer",
