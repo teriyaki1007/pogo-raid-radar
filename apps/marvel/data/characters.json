@@ -5133,7 +5133,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for T'Chaka yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/tchaka.jpg"
     },
     {
       "id": "namora",
@@ -5167,7 +5168,8 @@
       "spoilers": "She fights Wakanda in the ocean war and stands by Namor after the truce.",
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Namora yet.",
-      "typePrimary": "Enhanced"
+      "typePrimary": "Enhanced",
+      "costumeArt": "img/costume/namora.jpg"
     },
     {
       "id": "attuma-talokan",
@@ -5201,7 +5203,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Attuma yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/attuma-talokan.jpg"
     },
     {
       "id": "green-goblin",
@@ -5236,7 +5239,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Green Goblin yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Tech"
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/green-goblin.jpg"
     },
     {
       "id": "doc-ock",
