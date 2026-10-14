@@ -71,24 +71,60 @@
     };
   };
 
+  /** Map PeerJS / WebRTC errors to short actionable copy. */
+  PartySession.prototype._friendlyError = function (err) {
+    var type = (err && err.type) ? String(err.type) : '';
+    var raw = String((err && err.message) || err || '');
+    var low = (type + ' ' + raw).toLowerCase();
+    if (/peer-unavailable|could not connect to peer/i.test(low)) {
+      return new Error('No open room for that code. Host may have left or refreshed — ask them to Create room again and share the new code. Keep both tabs open.');
+    }
+    if (/negotiation-failed|could not negotiate|ice|webrtc/i.test(low)) {
+      return new Error('Could not link devices (network blocked direct play). Try: same Wi-Fi, disable VPN/adblock, both keep the tab open, or host creates a fresh code. Cross-network needs a free relay — retry in a moment.');
+    }
+    if (/network|socket|server-error|disconnected|ssl/i.test(low)) {
+      return new Error('Lobby server hiccup. Check internet, wait a few seconds, then Create/Join again. Adblock can block PeerJS — try allowing unpkg.com / 0.peerjs.com.');
+    }
+    if (/browser-incompatible/i.test(low)) {
+      return new Error('This browser cannot do party battles. Try Chrome, Edge, or Firefox on the latest version.');
+    }
+    if (/unavailable-id|taken/i.test(low)) {
+      return new Error('Room code was busy — creating another…');
+    }
+    if (err instanceof Error) return err;
+    return new Error(raw || 'Party connection failed.');
+  };
+
   PartySession.prototype._peerOpts = function () {
-    // Public STUN only — helps phone/laptop NATs without any API key.
+    // PeerJS config REPLACES library defaults — must re-include their free TURN
+    // (turn:*.turn.peerjs.com) or cross-NAT joins fail with "Could not negotiate".
     return {
       debug: 0,
       config: {
         iceServers: [
           { urls: 'stun:stun.l.google.com:19302' },
-          { urls: 'stun:stun1.l.google.com:19302' }
-        ]
+          { urls: 'stun:stun1.l.google.com:19302' },
+          { urls: 'stun:stun2.l.google.com:19302' },
+          {
+            urls: [
+              'turn:eu-0.turn.peerjs.com:3478',
+              'turn:us-0.turn.peerjs.com:3478'
+            ],
+            username: 'peerjs',
+            credential: 'peerjsp'
+          }
+        ],
+        sdpSemantics: 'unified-plan'
       }
     };
   };
 
   PartySession.prototype._mkPeer = function (id, cb) {
     if (typeof root.Peer !== 'function') {
-      cb(new Error('PeerJS failed to load. Check your network.'));
+      cb(new Error('PeerJS failed to load. Check your network / disable adblock for this site.'));
       return;
     }
+    var self = this;
     var opts = this._peerOpts();
     var peer = id ? new root.Peer(id, opts) : new root.Peer(opts);
     var done = false;
@@ -96,8 +132,8 @@
       if (done) return;
       done = true;
       try { peer.destroy(); } catch (e) {}
-      cb(new Error('Could not reach the free PeerJS lobby server. Try again in a moment.'));
-    }, 15000);
+      cb(new Error('Could not reach the free PeerJS lobby (0.peerjs.com). Check internet, disable VPN/adblock, then retry.'));
+    }, 18000);
     peer.on('open', function (openId) {
       if (done) return;
       done = true;
@@ -106,9 +142,10 @@
     });
     peer.on('error', function (err) {
       if (done) return;
+      // unavailable-id only matters while claiming a host id — surface it for retry
       done = true;
       clearTimeout(t);
-      cb(err);
+      cb(self._friendlyError(err));
     });
   };
 
@@ -151,9 +188,17 @@
         self._send(conn, { type: 'hello', youMayJoin: true });
       });
       conn.on('close', function () { self._onGuestGone(conn.peer); });
-      conn.on('error', function () { self._onGuestGone(conn.peer); });
+      conn.on('error', function (err) {
+        self._log('Guest link failed — they may need to rejoin.');
+        self._onGuestGone(conn.peer);
+        if (err) self.onError(self._friendlyError(err));
+      });
     });
-    peer.on('error', function (err) { self.onError(err); });
+    peer.on('disconnected', function () {
+      self._log('Lobby dropped — trying to reconnect…');
+      try { peer.reconnect(); } catch (e) {}
+    });
+    peer.on('error', function (err) { self.onError(self._friendlyError(err)); });
   };
 
   PartySession.prototype._onGuestGone = function (peerKey) {
@@ -179,37 +224,68 @@
       if (cb) cb(e);
       return;
     }
-    self._mkPeer(null, function (err, peer) {
-      if (err) { self.onError(err); if (cb) cb(err); return; }
-      self.isHost = false;
-      self.code = code;
-      self.peer = peer;
-      var conn = peer.connect(peerIdFor(code), { reliable: true });
-      var opened = false;
-      var timer = setTimeout(function () {
-        if (opened) return;
-        self.onError(new Error('No room found for code ' + code + '. Check the code, keep both tabs open, or ask the host to create again.'));
-        if (cb) cb(new Error('timeout'));
-      }, 15000);
-      conn.on('open', function () {
-        opened = true;
-        clearTimeout(timer);
-        self.hostConn = conn;
-        self._wireConn(conn);
-        self._send(conn, {
-          type: 'join',
-          player: { id: self.localId, name: self.playerName }
+    var attempts = 0;
+    function attempt() {
+      attempts++;
+      self._mkPeer(null, function (err, peer) {
+        if (err) { self.onError(err); if (cb) cb(err); return; }
+        self.isHost = false;
+        self.code = code;
+        self.peer = peer;
+        var target = peerIdFor(code);
+        var conn = peer.connect(target, { reliable: true });
+        var opened = false;
+        var finished = false;
+        function fail(errObj) {
+          if (finished || opened) return;
+          finished = true;
+          clearTimeout(timer);
+          var friendly = self._friendlyError(errObj);
+          // One automatic retry helps flaky ICE / brief broker lag
+          if (attempts < 2 && /negotiate|network|timeout|webrtc|ice/i.test(String(friendly.message))) {
+            self._log('Link failed — retrying once…');
+            try { peer.destroy(); } catch (e) {}
+            setTimeout(attempt, 800);
+            return;
+          }
+          try { peer.destroy(); } catch (e) {}
+          self.peer = null;
+          self.onError(friendly);
+          if (cb) cb(friendly);
+        }
+        var timer = setTimeout(function () {
+          fail(new Error('No room found for code ' + code + '. Check the code (4 chars), keep the host tab open, or ask them to Create room again and share a new code.'));
+        }, 20000);
+        conn.on('open', function () {
+          if (finished) return;
+          opened = true;
+          finished = true;
+          clearTimeout(timer);
+          self.hostConn = conn;
+          self._wireConn(conn);
+          self._send(conn, {
+            type: 'join',
+            player: { id: self.localId, name: self.playerName }
+          });
+          self._log('Joined room ' + code);
+          if (cb) cb(null, code);
         });
-        self._log('Joined room ' + code);
-        if (cb) cb(null, code);
+        conn.on('error', function (err) { fail(err); });
+        conn.on('close', function () {
+          if (!opened) {
+            fail(new Error('peer-unavailable'));
+            return;
+          }
+          self._log('Disconnected from host. Ask them to recreate the room if needed.');
+          if (self.state) { self.state.phase = 'disconnected'; self._emit(); }
+        });
+        peer.on('error', function (err) {
+          // peer-unavailable = host id not on broker (left / wrong code / refreshed)
+          fail(err);
+        });
       });
-      conn.on('error', function (err) { self.onError(err); });
-      conn.on('close', function () {
-        self._log('Disconnected from host.');
-        if (self.state) { self.state.phase = 'disconnected'; self._emit(); }
-      });
-      peer.on('error', function (err) { self.onError(err); });
-    });
+    }
+    attempt();
   };
 
   PartySession.prototype._wireConn = function (conn) {

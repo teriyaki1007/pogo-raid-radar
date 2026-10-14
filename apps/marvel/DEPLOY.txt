@@ -36,3 +36,11 @@ Strategic Party combat (2026-10-14 strat1):
 - Optional future Hub override: ability objects {name, effect} in characters.json.
 - PeerJS: public Google STUN servers; join timeout 15s; Enter submits join code.
 - Cache-bust: ?v=20261014strat1
+
+PeerJS join harden (2026-10-14 peer2):
+- Root cause: strat1 STUN-only iceServers replaced PeerJS defaults and dropped free TURN
+  (turn:eu-0/us-0.turn.peerjs.com, user peerjs / peerjsp) → "Could not negotiate connection".
+- Restored STUN + PeerJS public TURN; sdpSemantics unified-plan; host broker reconnect;
+  guest auto-retry once; friendlier errors (wrong/stale code, host left, NAT/VPN/adblock).
+- Metered Open Relay needs an API key — not wired (no secrets). Public PeerJS TURN is free.
+- Cache-bust: ?v=20261014peer2 ; data-build="20261014peer2" on #panel-party.

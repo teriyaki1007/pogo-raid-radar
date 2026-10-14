@@ -670,7 +670,8 @@
       onState: function () { renderParty(); },
       onLog: function (m) { $('#partyStatus').textContent = m; },
       onError: function (err) {
-        $('#partyStatus').textContent = (err && err.message) ? err.message : String(err);
+        var msg = (err && err.message) ? err.message : String(err);
+        $('#partyStatus').textContent = msg;
       }
     });
     return party;
