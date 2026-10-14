@@ -6809,7 +6809,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Echo yet.",
       "typePrimary": "Skill",
-      "typeSecondary": "Mystic"
+      "typeSecondary": "Mystic",
+      "costumeArt": "img/costume/echo.jpg"
     },
     {
       "id": "iron-fist",
@@ -6844,7 +6845,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Iron Fist yet.",
       "typePrimary": "Mystic",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/iron-fist.jpg"
     },
     {
       "id": "trish-walker",
@@ -6878,7 +6880,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Trish Walker yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/trish-walker.jpg"
     },
     {
       "id": "kilgrave",
@@ -6912,7 +6915,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kilgrave yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Mystic"
+      "typeSecondary": "Mystic",
+      "costumeArt": "img/costume/kilgrave.jpg"
     },
     {
       "id": "foggy-nelson",
@@ -8409,7 +8413,7 @@
     "currency": "shards",
     "note": "Rates locked by Marvel Hub 2026-10-14. Stronger MCU ratings = lower pull rate. Bands retuned with roster v5."
   },
-  "dataBuild": "20261014portraits94",
+  "dataBuild": "20261014portraits186",
   "costumeArtBatch": {
     "asOf": "2026-10-14",
     "count": 110,

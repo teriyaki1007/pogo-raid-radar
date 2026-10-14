@@ -1175,7 +1175,7 @@
   function stopConfetti() { cancelAnimationFrame(raf); parts = []; cx.clearRect(0, 0, cv.width, cv.height); cv.classList.remove('on'); }
 
   /* ---------- init ---------- */
-  fetch('data/characters.json?v=20261014portraits94').then(function (r) {
+  fetch('data/characters.json?v=20261014portraits186').then(function (r) {
     if (!r.ok) throw new Error('HTTP ' + r.status);
     return r.json();
   }).then(function (d) {
