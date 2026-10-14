@@ -6144,7 +6144,8 @@
       "spoilers": "Killian used him as a terrorist puppet; the real Ten Rings later abducts him to meet Wenwu.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Trevor Slattery yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/trevor-slattery.jpg"
     },
     {
       "id": "dweller-in-darkness",
@@ -6213,7 +6214,8 @@
       "spoilers": "He guides the heroes to Ta Lo and sticks with Trevor Slattery.",
       "rarity": "common",
       "photoNote": "Morris is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
-      "typePrimary": "Mythic"
+      "typePrimary": "Mythic",
+      "costumeArt": "img/costume/morris.jpg"
     },
     {
       "id": "razorfist",
@@ -6247,7 +6249,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Razor Fist yet.",
       "typePrimary": "Skill",
-      "typeSecondary": "Enhanced"
+      "typeSecondary": "Enhanced",
+      "costumeArt": "img/costume/razorfist.jpg"
     },
     {
       "id": "whiplash",
@@ -6280,7 +6283,8 @@
       "spoilers": "He attacks Monaco and the Expo with Justin Hammer’s drones; the suit overloads and kills him.",
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Whiplash yet.",
-      "typePrimary": "Tech"
+      "typePrimary": "Tech",
+      "costumeArt": "img/costume/whiplash.jpg"
     },
     {
       "id": "iron-monger",
