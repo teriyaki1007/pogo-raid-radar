@@ -493,8 +493,8 @@
     }
 
     var result = B.applyAbility(
-      { hp: atkP.hp, shield: atkP.shield || 0, power: atkC.power },
-      defP ? { hp: defP.hp, shield: defP.shield || 0, power: defC.power, stunned: !!defP.stunned } : null,
+      { hp: atkP.hp, shield: atkP.shield || 0, power: atkC.power, typePrimary: atkC.typePrimary },
+      defP ? { hp: defP.hp, shield: defP.shield || 0, power: defC.power, stunned: !!defP.stunned, typePrimary: defC.typePrimary } : null,
       resolved
     );
 

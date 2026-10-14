@@ -1,6 +1,6 @@
 {
   "version": 5,
-  "note": "Ratings are fan-estimated MCU power levels (retuned Oct 2026 for sharper bands + power^3 win odds), just for fun. Photos are freely licensed pictures of the actors (not character stills) where present; CGI/voice roles and new expansion entries use illustrated avatars. costumeArt prefers Marvel Hub costume portraits when present.",
+  "note": "Ratings are fan-estimated MCU power levels (retuned Oct 2026 for sharper bands + power^3 win odds), just for fun. Photos are freely licensed pictures of the actors (not character stills) where present; CGI/voice roles and new expansion entries use illustrated avatars. costumeArt prefers Marvel Hub costume portraits when present. Type advantages (primary-only ×1.5/×0.67) added 2026-10-14 for Arena.",
   "characters": [
     {
       "id": "iron-man",
@@ -44,7 +44,9 @@
         "file": "Robert Downey Jr 2014 Comic Con (cropped).jpg"
       },
       "rarity": "epic",
-      "costumeArt": "img/costume/iron-man.jpg"
+      "costumeArt": "img/costume/iron-man.jpg",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "captain-america",
@@ -86,7 +88,9 @@
         "file": "Chris Evans by Gage Skidmore cropped.jpg"
       },
       "rarity": "rare",
-      "costumeArt": "img/costume/captain-america.jpg"
+      "costumeArt": "img/costume/captain-america.jpg",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "thor",
@@ -130,7 +134,8 @@
         "file": "Chris Hemsworth 2010 Comic-Con Cropped.jpg"
       },
       "rarity": "epic",
-      "costumeArt": "img/costume/thor.jpg"
+      "costumeArt": "img/costume/thor.jpg",
+      "typePrimary": "Mythic"
     },
     {
       "id": "hulk",
@@ -174,7 +179,8 @@
         "file": "Mark Ruffalo SDCC 2014 (cropped).jpg"
       },
       "rarity": "epic",
-      "costumeArt": "img/costume/hulk.jpg"
+      "costumeArt": "img/costume/hulk.jpg",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "black-widow",
@@ -218,7 +224,8 @@
         "file": "Scarlett Johansson by Gage Skidmore 2 (cropped).jpg"
       },
       "rarity": "common",
-      "costumeArt": "img/costume/black-widow.jpg"
+      "costumeArt": "img/costume/black-widow.jpg",
+      "typePrimary": "Skill"
     },
     {
       "id": "hawkeye",
@@ -260,7 +267,8 @@
         "file": "Jeremy Renner SDCC 2014 (cropped).jpg"
       },
       "rarity": "common",
-      "costumeArt": "img/costume/hawkeye.jpg"
+      "costumeArt": "img/costume/hawkeye.jpg",
+      "typePrimary": "Skill"
     },
     {
       "id": "spider-man",
@@ -304,7 +312,9 @@
         "file": "TomHolland-byPhilipRomano7 (cropped).jpg"
       },
       "rarity": "rare",
-      "costumeArt": "img/costume/spider-man.jpg"
+      "costumeArt": "img/costume/spider-man.jpg",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Tech"
     },
     {
       "id": "black-panther",
@@ -348,7 +358,9 @@
         "file": "Chadwick Boseman by Gage Skidmore July 2017 (cropped).jpg"
       },
       "rarity": "rare",
-      "costumeArt": "img/costume/black-panther.jpg"
+      "costumeArt": "img/costume/black-panther.jpg",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Tech"
     },
     {
       "id": "doctor-strange",
@@ -391,7 +403,8 @@
         "file": "Benedict Cumberbatch (48470894756) (cropped).jpg"
       },
       "rarity": "epic",
-      "costumeArt": "img/costume/doctor-strange.jpg"
+      "costumeArt": "img/costume/doctor-strange.jpg",
+      "typePrimary": "Mystic"
     },
     {
       "id": "captain-marvel",
@@ -434,7 +447,9 @@
         "file": "Brie Larson (cropped).jpg"
       },
       "rarity": "legendary",
-      "costumeArt": "img/costume/captain-marvel.jpg"
+      "costumeArt": "img/costume/captain-marvel.jpg",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "ant-man",
@@ -476,7 +491,8 @@
         "file": "Paul Rudd (cropped) 2.jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": "img/costume/ant-man.jpg"
+      "costumeArt": "img/costume/ant-man.jpg",
+      "typePrimary": "Tech"
     },
     {
       "id": "wasp",
@@ -519,7 +535,9 @@
         "file": "Evangeline Lilly 2014 Comic Con (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": "img/costume/wasp.jpg"
+      "costumeArt": "img/costume/wasp.jpg",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "scarlet-witch",
@@ -562,7 +580,8 @@
         "file": "Elizabeth Olsen 2 SDCC 2014 (cropped).jpg"
       },
       "rarity": "legendary",
-      "costumeArt": "img/costume/scarlet-witch.jpg"
+      "costumeArt": "img/costume/scarlet-witch.jpg",
+      "typePrimary": "Mystic"
     },
     {
       "id": "vision",
@@ -605,7 +624,9 @@
         "file": "Paul Bettany (48469131797) (cropped).jpg"
       },
       "rarity": "epic",
-      "costumeArt": "img/costume/vision.jpg"
+      "costumeArt": "img/costume/vision.jpg",
+      "typePrimary": "Tech",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "falcon",
@@ -648,7 +669,9 @@
         "file": "Anthony Mackie by Gage Skidmore 2 (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": "img/costume/falcon.jpg"
+      "costumeArt": "img/costume/falcon.jpg",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "winter-soldier",
@@ -690,7 +713,9 @@
         "file": "Sebastian Stan by Gage Skidmore 2 (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": "img/costume/winter-soldier.jpg"
+      "costumeArt": "img/costume/winter-soldier.jpg",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "war-machine",
@@ -733,7 +758,8 @@
         "file": "Don Cheadle UNEP 2011 (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": "img/costume/war-machine.jpg"
+      "costumeArt": "img/costume/war-machine.jpg",
+      "typePrimary": "Tech"
     },
     {
       "id": "loki",
@@ -776,7 +802,9 @@
         "file": "Tom Hiddleston 2010 Comic-Con Cropped.jpg"
       },
       "rarity": "rare",
-      "costumeArt": "img/costume/loki.jpg"
+      "costumeArt": "img/costume/loki.jpg",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Mystic"
     },
     {
       "id": "thanos",
@@ -811,7 +839,9 @@
       "spoilers": "Thanos is revealed in The Avengers' mid-credits scene and gathers the Infinity Stones in Infinity War, sacrificing his adopted daughter Gamora to get the Soul Stone. He wipes out half of all life with a snap, and is then beheaded by Thor five years later after destroying the stones. In Endgame the 2014 Thanos is pulled into the present and attacks the Avengers' compound. He is finally dusted along with his army when Tony Stark snaps his fingers.",
       "photoNote": "Thanos is a CGI character (performed by Josh Brolin). No actor photo is used; this is an original illustrated avatar.",
       "rarity": "legendary",
-      "costumeArt": "img/costume/thanos.jpg"
+      "costumeArt": "img/costume/thanos.jpg",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "star-lord",
@@ -853,7 +883,9 @@
         "file": "Chris Pratt (29735415436) (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": "img/costume/star-lord.jpg"
+      "costumeArt": "img/costume/star-lord.jpg",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "gamora",
@@ -895,7 +927,9 @@
         "file": "Zoe Saldana (28046630643) (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": "img/costume/gamora.jpg"
+      "costumeArt": "img/costume/gamora.jpg",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "drax",
@@ -937,7 +971,8 @@
         "file": "Dave Bautista by Gage Skidmore.jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": "img/costume/drax.jpg"
+      "costumeArt": "img/costume/drax.jpg",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "rocket",
@@ -971,7 +1006,8 @@
       "spoilers": "Rocket was created by the High Evolutionary from a raccoon and tortured as an experiment, which is revealed in Vol. 3. He loses his friends Lylla, Teefs and Floor, and nearly dies in the present when the High Evolutionary tries to reclaim him. Rocket rejects the pull of revenge and spares the High Evolutionary, who is later locked up on Knowhere. By the end, Rocket leads a new team of Guardians that includes Groot.",
       "photoNote": "Rocket is a CGI/voice character (voiced by Bradley Cooper). No actor photo is used; this is an original illustrated avatar.",
       "rarity": "common",
-      "costumeArt": "img/costume/rocket.jpg"
+      "costumeArt": "img/costume/rocket.jpg",
+      "typePrimary": "Tech"
     },
     {
       "id": "groot",
@@ -1005,7 +1041,8 @@
       "spoilers": "In the first film, Groot sacrifices himself, shielding his friends from a crash with his branches, and is then reborn as Baby Groot. He grows into a moody teenager by Infinity War, where he is turned to dust. He returns in Endgame and joins the final battle. In Vol. 3 he is an adult, helps save Rocket, and sticks with Rocket to lead the next Guardians.",
       "photoNote": "Groot is a CGI/voice character (voiced by Vin Diesel). No actor photo is used; this is an original illustrated avatar.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/groot.jpg"
+      "costumeArt": "img/costume/groot.jpg",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "nebula",
@@ -1047,7 +1084,9 @@
         "file": "Karen Gillan (28584075851) (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": "img/costume/nebula.jpg"
+      "costumeArt": "img/costume/nebula.jpg",
+      "typePrimary": "Tech",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "mantis",
@@ -1089,7 +1128,9 @@
         "file": "Pom Klementieff Comic Con Brussels 2018 (39983390974).jpg"
       },
       "rarity": "common",
-      "costumeArt": "img/costume/mantis.jpg"
+      "costumeArt": "img/costume/mantis.jpg",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Mystic"
     },
     {
       "id": "shang-chi",
@@ -1131,7 +1172,9 @@
         "file": "Simu Liu (48469082216) cropped.jpg"
       },
       "rarity": "rare",
-      "costumeArt": "img/costume/shang-chi.jpg"
+      "costumeArt": "img/costume/shang-chi.jpg",
+      "typePrimary": "Skill",
+      "typeSecondary": "Mystic"
     },
     {
       "id": "wong",
@@ -1173,7 +1216,8 @@
         "file": "Benedict Wong (28352087500) (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": "img/costume/wong.jpg"
+      "costumeArt": "img/costume/wong.jpg",
+      "typePrimary": "Mystic"
     },
     {
       "id": "ultron",
@@ -1209,7 +1253,8 @@
       "spoilersMore": "In the animated What If...? series, an alternate Ultron does conquer a universe.",
       "photoNote": "Ultron is a CGI/voice-and-motion-capture character (James Spader). No actor photo is used; this is an original illustrated avatar.",
       "rarity": "rare",
-      "costumeArt": "img/costume/ultron.jpg"
+      "costumeArt": "img/costume/ultron.jpg",
+      "typePrimary": "Tech"
     },
     {
       "id": "hela",
@@ -1252,7 +1297,8 @@
         "file": "Cate Blanchett SDCC 2014 (cropped).jpg"
       },
       "rarity": "epic",
-      "costumeArt": "img/costume/hela.jpg"
+      "costumeArt": "img/costume/hela.jpg",
+      "typePrimary": "Mythic"
     },
     {
       "id": "killmonger",
@@ -1294,7 +1340,9 @@
         "file": "Michael B. Jordan by Gage Skidmore.jpg"
       },
       "rarity": "rare",
-      "costumeArt": "img/costume/killmonger.jpg"
+      "costumeArt": "img/costume/killmonger.jpg",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "ego",
@@ -1336,7 +1384,8 @@
         "file": "Kurt Russell by Gage Skidmore.jpg"
       },
       "rarity": "legendary",
-      "costumeArt": "img/costume/ego.jpg"
+      "costumeArt": "img/costume/ego.jpg",
+      "typePrimary": "Cosmic"
     },
     {
       "id": "red-skull",
@@ -1378,7 +1427,9 @@
         "file": "Hugo Weaving 2011.jpg"
       },
       "rarity": "common",
-      "costumeArt": "img/costume/red-skull.jpg"
+      "costumeArt": "img/costume/red-skull.jpg",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Tech"
     },
     {
       "id": "ronan",
@@ -1420,7 +1471,9 @@
         "file": "Lee Pace - Guardians of the Galaxy premiere - July 2014 (cropped).jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": "img/costume/ronan.jpg"
+      "costumeArt": "img/costume/ronan.jpg",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "kang",
@@ -1463,7 +1516,9 @@
         "file": "Jonathan Majors (cropped).jpg"
       },
       "rarity": "epic",
-      "costumeArt": "img/costume/kang.jpg"
+      "costumeArt": "img/costume/kang.jpg",
+      "typePrimary": "Tech",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "namor",
@@ -1506,7 +1561,8 @@
         "file": "Tenoch Huerta (cropped) (cropped).jpg"
       },
       "rarity": "rare",
-      "costumeArt": "img/costume/namor.jpg"
+      "costumeArt": "img/costume/namor.jpg",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "ms-marvel",
@@ -1547,7 +1603,9 @@
         "file": "Iman Vellani 2022 (1).png"
       },
       "rarity": "uncommon",
-      "costumeArt": "img/costume/ms-marvel.jpg"
+      "costumeArt": "img/costume/ms-marvel.jpg",
+      "typePrimary": "Mutant",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "she-hulk",
@@ -1589,7 +1647,8 @@
         "file": "Tatiana Maslany SDCC 2014 (cropped).jpg"
       },
       "rarity": "rare",
-      "costumeArt": "img/costume/she-hulk.jpg"
+      "costumeArt": "img/costume/she-hulk.jpg",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "moon-knight",
@@ -1632,7 +1691,9 @@
         "file": "Oscar Isaac by Gage Skidmore.jpg"
       },
       "rarity": "uncommon",
-      "costumeArt": "img/costume/moon-knight.jpg"
+      "costumeArt": "img/costume/moon-knight.jpg",
+      "typePrimary": "Mystic",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "daredevil",
@@ -1675,7 +1736,9 @@
         "file": "Charlie Cox 02 (29327255635) (cropped).jpg"
       },
       "rarity": "common",
-      "costumeArt": "img/costume/daredevil.jpg"
+      "costumeArt": "img/costume/daredevil.jpg",
+      "typePrimary": "Skill",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "deadpool",
@@ -1717,7 +1780,9 @@
         "file": "Ryan Reynolds Comic-Con (cropped).jpg"
       },
       "rarity": "rare",
-      "costumeArt": "img/costume/deadpool.jpg"
+      "costumeArt": "img/costume/deadpool.jpg",
+      "typePrimary": "Mutant",
+      "typeSecondary": "Skill"
     },
     {
       "id": "gorr",
@@ -1759,7 +1824,9 @@
         "file": "Christian Bale 2014 (cropped).jpg"
       },
       "rarity": "epic",
-      "costumeArt": "img/costume/gorr.jpg"
+      "costumeArt": "img/costume/gorr.jpg",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "dormammu",
@@ -1793,7 +1860,9 @@
       "spoilers": "Dormammu rules the Dark Dimension and is the master of the zealots led by Kaecilius, who want to bring Earth under his control. Doctor Strange uses the Time Stone to trap him in a time loop, repeatedly dying until Dormammu gives up. Dormammu agrees to leave Earth alone, and he takes Kaecilius and the zealots with him.",
       "photoNote": "Dormammu is a CGI/voice-and-motion-capture character (Benedict Cumberbatch). No actor photo is used; this is an original illustrated avatar.",
       "rarity": "legendary",
-      "costumeArt": "img/costume/dormammu.jpg"
+      "costumeArt": "img/costume/dormammu.jpg",
+      "typePrimary": "Mystic",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "odin",
@@ -1836,7 +1905,9 @@
         "file": "Anthony Hopkins Red Sea Festival 2025 Portrait (cropped).jpg"
       },
       "rarity": "legendary",
-      "costumeArt": "img/costume/odin.jpg"
+      "costumeArt": "img/costume/odin.jpg",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Mystic"
     },
     {
       "id": "nick-fury",
@@ -1871,7 +1942,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "common",
-      "costumeArt": "img/costume/nick-fury.jpg"
+      "costumeArt": "img/costume/nick-fury.jpg",
+      "typePrimary": "Skill"
     },
     {
       "id": "quicksilver",
@@ -1905,7 +1977,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": "img/costume/quicksilver.jpg"
+      "costumeArt": "img/costume/quicksilver.jpg",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "yelena-belova",
@@ -1940,7 +2013,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "common",
-      "costumeArt": "img/costume/yelena-belova.jpg"
+      "costumeArt": "img/costume/yelena-belova.jpg",
+      "typePrimary": "Skill"
     },
     {
       "id": "kate-bishop",
@@ -1974,7 +2048,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "common",
-      "costumeArt": "img/costume/kate-bishop.jpg"
+      "costumeArt": "img/costume/kate-bishop.jpg",
+      "typePrimary": "Skill"
     },
     {
       "id": "shuri",
@@ -2009,7 +2084,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": "img/costume/shuri.jpg"
+      "costumeArt": "img/costume/shuri.jpg",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "okoye",
@@ -2043,7 +2120,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/okoye.jpg"
+      "costumeArt": "img/costume/okoye.jpg",
+      "typePrimary": "Skill"
     },
     {
       "id": "m-baku",
@@ -2077,7 +2155,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/m-baku.jpg"
+      "costumeArt": "img/costume/m-baku.jpg",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "valkyrie",
@@ -2111,7 +2191,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": "img/costume/valkyrie.jpg"
+      "costumeArt": "img/costume/valkyrie.jpg",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Skill"
     },
     {
       "id": "jane-foster",
@@ -2146,7 +2228,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "epic",
-      "costumeArt": "img/costume/jane-foster.jpg"
+      "costumeArt": "img/costume/jane-foster.jpg",
+      "typePrimary": "Mythic"
     },
     {
       "id": "heimdall",
@@ -2180,7 +2263,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": "img/costume/heimdall.jpg"
+      "costumeArt": "img/costume/heimdall.jpg",
+      "typePrimary": "Mythic"
     },
     {
       "id": "america-chavez",
@@ -2214,7 +2298,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": "img/costume/america-chavez.jpg"
+      "costumeArt": "img/costume/america-chavez.jpg",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "adam-warlock",
@@ -2249,7 +2335,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "epic",
-      "costumeArt": "img/costume/adam-warlock.jpg"
+      "costumeArt": "img/costume/adam-warlock.jpg",
+      "typePrimary": "Cosmic"
     },
     {
       "id": "yondu",
@@ -2283,7 +2370,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/yondu.jpg"
+      "costumeArt": "img/costume/yondu.jpg",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "sylvie",
@@ -2317,7 +2406,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": "img/costume/sylvie.jpg"
+      "costumeArt": "img/costume/sylvie.jpg",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Mystic"
     },
     {
       "id": "ikaris",
@@ -2352,7 +2443,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "epic",
-      "costumeArt": "img/costume/ikaris.jpg"
+      "costumeArt": "img/costume/ikaris.jpg",
+      "typePrimary": "Cosmic"
     },
     {
       "id": "sersi",
@@ -2386,7 +2478,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": "img/costume/sersi.jpg"
+      "costumeArt": "img/costume/sersi.jpg",
+      "typePrimary": "Cosmic"
     },
     {
       "id": "thena",
@@ -2420,7 +2513,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "epic",
-      "costumeArt": "img/costume/thena.jpg"
+      "costumeArt": "img/costume/thena.jpg",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Skill"
     },
     {
       "id": "ironheart",
@@ -2455,7 +2550,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": "img/costume/ironheart.jpg"
+      "costumeArt": "img/costume/ironheart.jpg",
+      "typePrimary": "Tech"
     },
     {
       "id": "cassie-lang",
@@ -2489,7 +2585,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/cassie-lang.jpg"
+      "costumeArt": "img/costume/cassie-lang.jpg",
+      "typePrimary": "Tech"
     },
     {
       "id": "monica-rambeau",
@@ -2524,7 +2621,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": "img/costume/monica-rambeau.jpg"
+      "costumeArt": "img/costume/monica-rambeau.jpg",
+      "typePrimary": "Cosmic"
     },
     {
       "id": "agatha-harkness",
@@ -2559,7 +2657,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "epic",
-      "costumeArt": "img/costume/agatha-harkness.jpg"
+      "costumeArt": "img/costume/agatha-harkness.jpg",
+      "typePrimary": "Mystic"
     },
     {
       "id": "high-evolutionary",
@@ -2594,7 +2693,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "epic",
-      "costumeArt": "img/costume/high-evolutionary.jpg"
+      "costumeArt": "img/costume/high-evolutionary.jpg",
+      "typePrimary": "Tech",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "vulture",
@@ -2628,7 +2729,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/vulture.jpg"
+      "costumeArt": "img/costume/vulture.jpg",
+      "typePrimary": "Tech"
     },
     {
       "id": "mysterio",
@@ -2663,7 +2765,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/mysterio.jpg"
+      "costumeArt": "img/costume/mysterio.jpg",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "crossbones",
@@ -2697,7 +2801,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/crossbones.jpg"
+      "costumeArt": "img/costume/crossbones.jpg",
+      "typePrimary": "Skill",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "taskmaster",
@@ -2732,7 +2838,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/taskmaster.jpg"
+      "costumeArt": "img/costume/taskmaster.jpg",
+      "typePrimary": "Skill"
     },
     {
       "id": "ghost",
@@ -2767,7 +2874,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/ghost.jpg"
+      "costumeArt": "img/costume/ghost.jpg",
+      "typePrimary": "Tech",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "abomination",
@@ -2802,7 +2911,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "epic",
-      "costumeArt": "img/costume/abomination.jpg"
+      "costumeArt": "img/costume/abomination.jpg",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "wenwu",
@@ -2837,7 +2947,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "epic",
-      "costumeArt": "img/costume/wenwu.jpg"
+      "costumeArt": "img/costume/wenwu.jpg",
+      "typePrimary": "Mystic",
+      "typeSecondary": "Skill"
     },
     {
       "id": "kingpin",
@@ -2872,7 +2984,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/kingpin.jpg"
+      "costumeArt": "img/costume/kingpin.jpg",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "punisher",
@@ -2907,7 +3021,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/punisher.jpg"
+      "costumeArt": "img/costume/punisher.jpg",
+      "typePrimary": "Skill"
     },
     {
       "id": "jessica-jones",
@@ -2942,7 +3057,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/jessica-jones.jpg"
+      "costumeArt": "img/costume/jessica-jones.jpg",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "luke-cage",
@@ -2976,7 +3093,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/luke-cage.jpg"
+      "costumeArt": "img/costume/luke-cage.jpg",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "wolverine",
@@ -3011,7 +3129,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": "img/costume/wolverine.jpg"
+      "costumeArt": "img/costume/wolverine.jpg",
+      "typePrimary": "Mutant"
     },
     {
       "id": "surtur",
@@ -3046,7 +3165,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "legendary",
-      "costumeArt": "img/costume/surtur.jpg"
+      "costumeArt": "img/costume/surtur.jpg",
+      "typePrimary": "Mythic"
     },
     {
       "id": "collector",
@@ -3081,7 +3201,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "common",
-      "costumeArt": "img/costume/collector.jpg"
+      "costumeArt": "img/costume/collector.jpg",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Tech"
     },
     {
       "id": "grandmaster",
@@ -3116,7 +3238,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "uncommon",
-      "costumeArt": "img/costume/grandmaster.jpg"
+      "costumeArt": "img/costume/grandmaster.jpg",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Tech"
     },
     {
       "id": "korg",
@@ -3150,7 +3274,9 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": "img/costume/korg.jpg"
+      "costumeArt": "img/costume/korg.jpg",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "pepper-potts",
@@ -3185,7 +3311,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "rare",
-      "costumeArt": "img/costume/pepper-potts.jpg"
+      "costumeArt": "img/costume/pepper-potts.jpg",
+      "typePrimary": "Tech"
     },
     {
       "id": "happy-hogan",
@@ -3220,7 +3347,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "common",
-      "costumeArt": "img/costume/happy-hogan.jpg"
+      "costumeArt": "img/costume/happy-hogan.jpg",
+      "typePrimary": "Skill"
     },
     {
       "id": "phil-coulson",
@@ -3255,7 +3383,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "common",
-      "costumeArt": "img/costume/phil-coulson.jpg"
+      "costumeArt": "img/costume/phil-coulson.jpg",
+      "typePrimary": "Skill"
     },
     {
       "id": "maria-hill",
@@ -3290,7 +3419,8 @@
       "spoilersMore": "",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for this expansion character yet.",
       "rarity": "common",
-      "costumeArt": "img/costume/maria-hill.jpg"
+      "costumeArt": "img/costume/maria-hill.jpg",
+      "typePrimary": "Skill"
     },
     {
       "id": "ajak",
@@ -3323,7 +3453,9 @@
       ],
       "spoilers": "Ikaris kills Ajak after she decides to stop the Emergence; her death fractures the family.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ajak yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ajak yet.",
+      "typePrimary": "Cosmic",
+      "costumeArt": "img/costume/ajak.jpg"
     },
     {
       "id": "gilgamesh",
@@ -3356,7 +3488,10 @@
       ],
       "spoilers": "Kro kills Gilgamesh; Thena uses his strength in the Uni-Mind to help stop Tiamut.",
       "rarity": "epic",
-      "photoNote": "Gilgamesh is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Gilgamesh is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Enhanced",
+      "costumeArt": "img/costume/gilgamesh.jpg"
     },
     {
       "id": "makkari",
@@ -3389,7 +3524,9 @@
       ],
       "spoilers": "She races into Tiamut’s emergence site to buy time and joins the Uni-Mind.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Makkari yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Makkari yet.",
+      "typePrimary": "Cosmic",
+      "costumeArt": "img/costume/makkari.jpg"
     },
     {
       "id": "druig",
@@ -3421,7 +3558,10 @@
       ],
       "spoilers": "He helps form the Uni-Mind and stays on Earth after Arishem takes others for judgment.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Druig yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Druig yet.",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Mystic",
+      "costumeArt": "img/costume/druig.jpg"
     },
     {
       "id": "phastos",
@@ -3454,7 +3594,10 @@
       ],
       "spoilers": "He joins the stand against the Emergence; Arishem later takes him for judgment.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Phastos yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Phastos yet.",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/phastos.jpg"
     },
     {
       "id": "kingo",
@@ -3487,7 +3630,10 @@
       ],
       "spoilers": "He sits out the final fight against Ikaris on principle, then rejoins the family’s aftermath.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kingo yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kingo yet.",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/kingo.jpg"
     },
     {
       "id": "sprite",
@@ -3519,7 +3665,10 @@
       ],
       "spoilers": "She sides with Ikaris, then asks Sersi to make her human; she ages into an adult.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Sprite yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Sprite yet.",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Mystic",
+      "costumeArt": "img/costume/sprite.jpg"
     },
     {
       "id": "black-knight",
@@ -3551,7 +3700,10 @@
       ],
       "spoilers": "After the Emergence crisis, Dane approaches the Ebony Blade as voices whisper his name.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Black Knight yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Black Knight yet.",
+      "typePrimary": "Mystic",
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/black-knight.jpg"
     },
     {
       "id": "arishem",
@@ -3584,7 +3736,9 @@
       ],
       "spoilers": "He abducts Sersi, Kingo and Phastos to judge whether Earth deserves to live after Tiamut is stopped.",
       "rarity": "legendary",
-      "photoNote": "Arishem is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Arishem is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Cosmic",
+      "costumeArt": "img/costume/arishem.jpg"
     },
     {
       "id": "kro",
@@ -3617,7 +3771,10 @@
       ],
       "spoilers": "He kills Ajak and Gilgamesh; Thena finally kills him in the Amazon.",
       "rarity": "rare",
-      "photoNote": "Kro is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Kro is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Cosmic",
+      "costumeArt": "img/costume/kro.jpg"
     },
     {
       "id": "cosmo",
@@ -3650,7 +3807,9 @@
       ],
       "spoilers": "She helps free Knowhere from the High Evolutionary’s attack and joins the new Guardians.",
       "rarity": "common",
-      "photoNote": "Cosmo is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Cosmo is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Enhanced",
+      "costumeArt": "img/costume/cosmo.jpg"
     },
     {
       "id": "kraglin",
@@ -3682,7 +3841,10 @@
       ],
       "spoilers": "Yondu leaves him the arrow; by Vol. 3 he helps defend Knowhere and stays with the team’s wider family.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kraglin yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kraglin yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/kraglin.jpg"
     },
     {
       "id": "stakar-ogord",
@@ -3714,7 +3876,10 @@
       ],
       "spoilers": "He exiles Yondu for child trafficking, then leads Ravagers to honor Yondu’s funeral.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Stakar Ogord yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Stakar Ogord yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/stakar-ogord.jpg"
     },
     {
       "id": "ayesha",
@@ -3746,7 +3911,10 @@
       ],
       "spoilers": "She creates Adam to destroy the Guardians; her arc intersects Warlock in later stories.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ayesha yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ayesha yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Cosmic",
+      "costumeArt": "img/costume/ayesha.jpg"
     },
     {
       "id": "taserface",
@@ -3778,7 +3946,10 @@
       ],
       "spoilers": "He overthrows Yondu, then dies when Yondu and Rocket retake the ship.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Taserface yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Taserface yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/taserface.jpg"
     },
     {
       "id": "korath",
@@ -3810,7 +3981,10 @@
       ],
       "spoilers": "Star-Lord kills him on Morag in 2014; a younger Korath serves Yon-Rogg in 1995.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Korath yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Korath yet.",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/korath.jpg"
     },
     {
       "id": "howard-the-duck",
@@ -3842,7 +4016,9 @@
       ],
       "spoilers": "Cameos from Collector’s museum to Endgame’s post-credits and beyond.",
       "rarity": "common",
-      "photoNote": "Howard the Duck is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Howard the Duck is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/howard-the-duck.jpg"
     },
     {
       "id": "the-watcher",
@@ -3874,7 +4050,9 @@
       ],
       "spoilers": "He breaks his oath to help stop Infinity Ultron, assembling the Guardians of the Multiverse.",
       "rarity": "legendary",
-      "photoNote": "The Watcher is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "The Watcher is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Cosmic",
+      "costumeArt": "img/costume/the-watcher.jpg"
     },
     {
       "id": "frigga",
@@ -3907,7 +4085,10 @@
       ],
       "spoilers": "Malekith’s forces kill her in The Dark World; her loss drives Thor and Loki’s uneasy alliance.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Frigga yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Frigga yet.",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Mystic",
+      "costumeArt": "img/costume/frigga.jpg"
     },
     {
       "id": "lady-sif",
@@ -3939,7 +4120,10 @@
       ],
       "spoilers": "She fights for Asgard against Loki, the Dark Elves, and later appears amid Multiverse threads.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Lady Sif yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Lady Sif yet.",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/lady-sif.jpg"
     },
     {
       "id": "volstagg",
@@ -3971,7 +4155,8 @@
       ],
       "spoilers": "Hela kills Volstagg and Fandral when she returns to Asgard in Ragnarok.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Volstagg yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Volstagg yet.",
+      "typePrimary": "Mythic"
     },
     {
       "id": "hogun",
@@ -4003,7 +4188,9 @@
       ],
       "spoilers": "Hela kills him defending the Bifrost in Thor: Ragnarok.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hogun yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hogun yet.",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Skill"
     },
     {
       "id": "fandral",
@@ -4035,7 +4222,9 @@
       ],
       "spoilers": "Hela kills him alongside Volstagg in Ragnarok.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Fandral yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Fandral yet.",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Skill"
     },
     {
       "id": "malekith",
@@ -4068,7 +4257,9 @@
       ],
       "spoilers": "He nearly unleashes the Aether during the Convergence; Thor destroys his fleet and Malekith dies.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Malekith yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Malekith yet.",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Mystic"
     },
     {
       "id": "skurge",
@@ -4100,7 +4291,9 @@
       ],
       "spoilers": "He opens the Bifrost for refugees and dies holding off Hela’s forces with stolen guns.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Skurge yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Skurge yet.",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Skill"
     },
     {
       "id": "zeus",
@@ -4133,7 +4326,8 @@
       ],
       "spoilers": "Thor steals his thunderbolt; Zeus survives a wound and vows revenge via Hercules.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Zeus yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Zeus yet.",
+      "typePrimary": "Mythic"
     },
     {
       "id": "hercules",
@@ -4165,7 +4359,9 @@
       ],
       "spoilers": "Zeus calls on Hercules after Thor humiliates him in Omnipotence City.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hercules yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hercules yet.",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "darcy-lewis",
@@ -4197,7 +4393,8 @@
       ],
       "spoilers": "She helps Jane with the Convergence, later monitors Westview and names the Hex.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Darcy Lewis yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Darcy Lewis yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "erik-selvig",
@@ -4229,7 +4426,9 @@
       ],
       "spoilers": "Loki mind-controls him in The Avengers; he later helps close the Convergence and recovers.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Erik Selvig yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Erik Selvig yet.",
+      "typePrimary": "Skill",
+      "typeSecondary": "Tech"
     },
     {
       "id": "peggy-carter",
@@ -4262,7 +4461,8 @@
       ],
       "spoilers": "She helps defeat Hydra in WWII, co-founds S.H.I.E.L.D., and reunites with Steve when he returns the stones.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Peggy Carter yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Peggy Carter yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "sharon-carter",
@@ -4295,7 +4495,8 @@
       ],
       "spoilers": "She kisses Steve in Civil War, later becomes the Power Broker on Madripoor, then aids Sam against the Flag Smashers.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Sharon Carter yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Sharon Carter yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "john-walker",
@@ -4328,7 +4529,9 @@
       ],
       "spoilers": "He kills a Flag Smasher on camera, loses the mantle, takes U.S. Agent, and joins Valentina’s Thunderbolts.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for John Walker yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for John Walker yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "helmut-zemo",
@@ -4361,7 +4564,8 @@
       ],
       "spoilers": "He frames Bucky, reveals the Starks’ killers, then returns in TFATWS against the Flag Smashers.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Helmut Zemo yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Helmut Zemo yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "isaiah-bradley",
@@ -4393,7 +4597,9 @@
       ],
       "spoilers": "Sam exposes his story and installs his statue at the Captain America museum exhibit.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Isaiah Bradley yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Isaiah Bradley yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "joaquin-torres",
@@ -4425,7 +4631,9 @@
       ],
       "spoilers": "Sam passes him the wings; he serves as Falcon beside Captain America Sam Wilson.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Joaquin Torres yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Joaquin Torres yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "valentina-de-fontaine",
@@ -4458,7 +4666,8 @@
       ],
       "spoilers": "She recruits Yelena, Walker, and others into the Thunderbolts while chasing greater power.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Valentina Allegra de Fontaine yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Valentina Allegra de Fontaine yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "red-guardian",
@@ -4490,7 +4699,9 @@
       ],
       "spoilers": "He helps destroy the Red Room and later joins Valentina’s Thunderbolts with Yelena.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Red Guardian yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Red Guardian yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "melina-vostokoff",
@@ -4523,7 +4734,8 @@
       ],
       "spoilers": "She fakes loyalty to Dreykov, then helps free the Widows with an antidote release.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Melina Vostokoff yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Melina Vostokoff yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "sentry",
@@ -4557,7 +4769,9 @@
       "spoilers": "Valentina uses Bob as a weapon; the Thunderbolts confront the Void to save him and the city.",
       "rarity": "legendary",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Sentry yet.",
-      "spoilersMore": "The Void manifests as a dark opposite that consumes people into shadowed pocket spaces."
+      "spoilersMore": "The Void manifests as a dark opposite that consumes people into shadowed pocket spaces.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "everett-ross",
@@ -4589,7 +4803,8 @@
       ],
       "spoilers": "He aids T’Challa and remains tangled in Wakandan and U.S. power games.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Everett Ross yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Everett Ross yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "batroc",
@@ -4621,7 +4836,8 @@
       ],
       "spoilers": "Cap thrashes him on the Lemurian Star; he later works Madripoor jobs in TFATWS.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Batroc yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Batroc yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "arnim-zola",
@@ -4653,7 +4869,8 @@
       ],
       "spoilers": "He survives as a bunker AI in The Winter Soldier and reveals Project Insight before the base explodes.",
       "rarity": "common",
-      "photoNote": "Arnim Zola is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Arnim Zola is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Tech"
     },
     {
       "id": "alexander-pierce",
@@ -4685,7 +4902,8 @@
       ],
       "spoilers": "Nick Fury fakes his death to expose him; Pierce dies in the Insight uprising.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Alexander Pierce yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Alexander Pierce yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "flag-smasher",
@@ -4718,7 +4936,8 @@
       ],
       "spoilers": "Sharon Carter kills her as she nearly detonates trucks in New York.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Karli Morgenthau yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Karli Morgenthau yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "nakia",
@@ -4751,7 +4970,8 @@
       ],
       "spoilers": "She helps retake Wakanda from Killmonger and later searches for answers in Wakanda Forever.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Nakia yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Nakia yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "ramonda",
@@ -4783,7 +5003,8 @@
       ],
       "spoilers": "She rules after T’Challa’s death and is killed by Namor’s tidal attack on the capital.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ramonda yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ramonda yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "ayo",
@@ -4815,7 +5036,8 @@
       ],
       "spoilers": "She deactivates Bucky’s trigger words in TFATWS and remains a Dora pillar in Wakanda Forever.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ayo yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ayo yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "klaue",
@@ -4847,7 +5069,9 @@
       ],
       "spoilers": "Ultron takes his arm; Killmonger kills him in Black Panther to bait Wakanda.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ulysses Klaue yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ulysses Klaue yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "tchaka",
@@ -4879,7 +5103,9 @@
       ],
       "spoilers": "Zemo’s bombing kills him in Vienna; his past choice fuels Killmonger.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for T'Chaka yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for T'Chaka yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "namora",
@@ -4912,7 +5138,8 @@
       ],
       "spoilers": "She fights Wakanda in the ocean war and stands by Namor after the truce.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Namora yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Namora yet.",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "attuma-talokan",
@@ -4944,7 +5171,9 @@
       ],
       "spoilers": "He leads assaults on Wakanda and battles the Dora and Ironheart’s tech.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Attuma yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Attuma yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "green-goblin",
@@ -4977,7 +5206,9 @@
       ],
       "spoilers": "He kills Aunt May; Peter nearly murders him before curing Norman, who returns home healed.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Green Goblin yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Green Goblin yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Tech"
     },
     {
       "id": "doc-ock",
@@ -5009,7 +5240,8 @@
       ],
       "spoilers": "Peter cures him mid-battle; Otto then helps fight the other villains and returns home.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Doctor Octopus yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Doctor Octopus yet.",
+      "typePrimary": "Tech"
     },
     {
       "id": "electro-nwh",
@@ -5041,7 +5273,9 @@
       ],
       "spoilers": "He is cured mid-fight and returns to his universe restored.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Electro yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Electro yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "sandman",
@@ -5073,7 +5307,8 @@
       ],
       "spoilers": "He is cured and sent home, hoping for a better fate with his daughter.",
       "rarity": "rare",
-      "photoNote": "Sandman is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Sandman is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "lizard",
@@ -5106,7 +5341,8 @@
       ],
       "spoilers": "He is cured in the final battle and returned to his universe.",
       "rarity": "rare",
-      "photoNote": "Lizard is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Lizard is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "aunt-may",
@@ -5138,7 +5374,8 @@
       ],
       "spoilers": "Green Goblin mortally wounds her in No Way Home; her last words urge Peter that helping others still matters.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Aunt May yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Aunt May yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "michelle-jones",
@@ -5170,7 +5407,8 @@
       ],
       "spoilers": "Strange’s final spell erases Peter’s identity from her memory.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Michelle Jones yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Michelle Jones yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "ned-leeds",
@@ -5202,7 +5440,9 @@
       ],
       "spoilers": "He briefly wears the nanotech suit, helps vs. Mysterio, and forgets Peter after Strange’s spell.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ned Leeds yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ned Leeds yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "spider-man-raimi",
@@ -5235,7 +5475,8 @@
       ],
       "spoilers": "He helps cure the villains and returns home after the final battle.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Spider-Man (Raimi) yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Spider-Man (Raimi) yet.",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "spider-man-webb",
@@ -5268,7 +5509,9 @@
       ],
       "spoilers": "He saves Electro’s cure moment and returns home with renewed purpose.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Spider-Man (Webb) yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Spider-Man (Webb) yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Tech"
     },
     {
       "id": "ancient-one",
@@ -5301,7 +5544,8 @@
       ],
       "spoilers": "Kaecilius mortally wounds her; she dies after confessing her Dark Dimension bargain to Strange.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for The Ancient One yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for The Ancient One yet.",
+      "typePrimary": "Mystic"
     },
     {
       "id": "mordo",
@@ -5333,7 +5577,9 @@
       ],
       "spoilers": "After the Ancient One’s death he quits Kamar-Taj and begins hunting sorcerers.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Karl Mordo yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Karl Mordo yet.",
+      "typePrimary": "Mystic",
+      "typeSecondary": "Skill"
     },
     {
       "id": "kaecilius",
@@ -5365,7 +5611,8 @@
       ],
       "spoilers": "Strange traps Dormammu in a time loop; Kaecilius is taken into the Dark Dimension.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kaecilius yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kaecilius yet.",
+      "typePrimary": "Mystic"
     },
     {
       "id": "christine-palmer",
@@ -5397,7 +5644,8 @@
       ],
       "spoilers": "She helps Strange early on; Multiverse of Madness shows variant Christines and her Earth-616 marriage.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Christine Palmer yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Christine Palmer yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "clea",
@@ -5429,7 +5677,8 @@
       ],
       "spoilers": "She appears after Strange’s third eye opens, summoning him to help her cosmos.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Clea yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Clea yet.",
+      "typePrimary": "Mystic"
     },
     {
       "id": "rintrah",
@@ -5461,7 +5710,9 @@
       ],
       "spoilers": "He helps defend Kamar-Taj and escapes with survivors after Wanda’s siege.",
       "rarity": "rare",
-      "photoNote": "Rintrah is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Rintrah is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Mystic",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "talos",
@@ -5494,7 +5745,9 @@
       ],
       "spoilers": "He helps free Skrull refugees; Gravik’s faction later kills him in Secret Invasion.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Talos yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Talos yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "yon-rogg",
@@ -5526,7 +5779,9 @@
       ],
       "spoilers": "Carol defeats him without using her full power and sends him back with a warning.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Yon-Rogg yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Yon-Rogg yet.",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "minn-erva",
@@ -5558,7 +5813,9 @@
       ],
       "spoilers": "Maria Rambeau shoots down her craft during the final battle.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Minn-Erva yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Minn-Erva yet.",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Skill"
     },
     {
       "id": "maria-rambeau",
@@ -5590,7 +5847,8 @@
       ],
       "spoilers": "She helps defeat Starforce; later dies of cancer before WandaVision’s Westview crisis.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Maria Rambeau yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Maria Rambeau yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "gravik",
@@ -5623,7 +5881,9 @@
       ],
       "spoilers": "He kills Talos; G’iah, empowered as a Super-Skrull, kills Gravik in the finale.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Gravik yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Gravik yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "giah",
@@ -5655,7 +5915,9 @@
       ],
       "spoilers": "She absorbs the fruit of Gravik’s machine and kills him.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for G'iah yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for G'iah yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "dar-benn",
@@ -5688,7 +5950,9 @@
       ],
       "spoilers": "Her overuse of the weapon implodes her; the Marvels restore Hala’s sun afterward.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Dar-Benn yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Dar-Benn yet.",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Tech"
     },
     {
       "id": "xialing",
@@ -5721,7 +5985,9 @@
       ],
       "spoilers": "She fights Dweller-in-Darkness with Shang-Chi, then takes command of the Ten Rings.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Xu Xialing yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Xu Xialing yet.",
+      "typePrimary": "Skill",
+      "typeSecondary": "Mystic"
     },
     {
       "id": "katy-chen",
@@ -5754,7 +6020,8 @@
       ],
       "spoilers": "She kills the Dweller’s soul-sucker mid-air and later trains with Wong and Shang-Chi.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Katy Chen yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Katy Chen yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "death-dealer",
@@ -5786,7 +6053,8 @@
       ],
       "spoilers": "Shang-Chi defeats him in Macau; soul-eaters later kill him in Ta Lo.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Death Dealer yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Death Dealer yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "trevor-slattery",
@@ -5818,7 +6086,8 @@
       ],
       "spoilers": "Killian used him as a terrorist puppet; the real Ten Rings later abducts him to meet Wenwu.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Trevor Slattery yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Trevor Slattery yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "dweller-in-darkness",
@@ -5851,7 +6120,9 @@
       ],
       "spoilers": "Shang-Chi, Xialing, and the Ten Rings destroy it with the Great Protector’s aid.",
       "rarity": "epic",
-      "photoNote": "Dweller-in-Darkness is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Dweller-in-Darkness is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Mystic",
+      "typeSecondary": "Mythic"
     },
     {
       "id": "morris",
@@ -5883,7 +6154,8 @@
       ],
       "spoilers": "He guides the heroes to Ta Lo and sticks with Trevor Slattery.",
       "rarity": "common",
-      "photoNote": "Morris is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Morris is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Mythic"
     },
     {
       "id": "razorfist",
@@ -5915,7 +6187,9 @@
       ],
       "spoilers": "He hunts Shang-Chi and Katy and falls with Wenwu’s assault on Ta Lo.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Razor Fist yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Razor Fist yet.",
+      "typePrimary": "Skill",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "whiplash",
@@ -5947,7 +6221,8 @@
       ],
       "spoilers": "He attacks Monaco and the Expo with Justin Hammer’s drones; the suit overloads and kills him.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Whiplash yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Whiplash yet.",
+      "typePrimary": "Tech"
     },
     {
       "id": "iron-monger",
@@ -5979,7 +6254,8 @@
       ],
       "spoilers": "Tony overloads the reactor; Pepper triggers a factory blast that kills Stane.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Iron Monger yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Iron Monger yet.",
+      "typePrimary": "Tech"
     },
     {
       "id": "aldrich-killian",
@@ -6012,7 +6288,9 @@
       ],
       "spoilers": "Tony plants a targeted Extremis charge; the explosion kills Killian.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Aldrich Killian yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Aldrich Killian yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Tech"
     },
     {
       "id": "justin-hammer",
@@ -6044,7 +6322,9 @@
       ],
       "spoilers": "His Expo drones go rogue under Vanko; he ends up in Seagate.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Justin Hammer yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Justin Hammer yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "ho-yinsen",
@@ -6076,7 +6356,9 @@
       ],
       "spoilers": "He distracts the Ten Rings so Tony can flee and dies asking Tony not to waste his life.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ho Yinsen yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ho Yinsen yet.",
+      "typePrimary": "Skill",
+      "typeSecondary": "Tech"
     },
     {
       "id": "howard-stark",
@@ -6109,7 +6391,9 @@
       ],
       "spoilers": "Hydra-controlled Bucky kills Howard and Maria Stark in 1991—the truth that shatters Civil War.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Howard Stark yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Howard Stark yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "maria-stark",
@@ -6140,7 +6424,8 @@
       ],
       "spoilers": "The Winter Soldier kills her with Howard; Tony watches the tape decades later.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Maria Stark yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Maria Stark yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "yellowjacket",
@@ -6173,7 +6458,8 @@
       ],
       "spoilers": "Scott destroys his suit’s regulator; Cross is presumed dead—later remade as MODOK.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Yellowjacket yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Yellowjacket yet.",
+      "typePrimary": "Tech"
     },
     {
       "id": "modok",
@@ -6206,7 +6492,9 @@
       ],
       "spoilers": "He redeems himself aiding the Pyms, then dies in a heroic explosion against Kang’s forces.",
       "rarity": "uncommon",
-      "photoNote": "M.O.D.O.K. is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "M.O.D.O.K. is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "hank-pym",
@@ -6239,7 +6527,8 @@
       ],
       "spoilers": "He enters the Quantum Realm to find Janet, later helps fight Kang the Conqueror.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hank Pym yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hank Pym yet.",
+      "typePrimary": "Tech"
     },
     {
       "id": "janet-van-dyne",
@@ -6272,7 +6561,8 @@
       ],
       "spoilers": "Scott rescues her in Ant-Man and the Wasp; she warns against Kang and fights in Quantumania.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Janet van Dyne yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Janet van Dyne yet.",
+      "typePrimary": "Tech"
     },
     {
       "id": "bill-foster",
@@ -6304,7 +6594,9 @@
       ],
       "spoilers": "He helps stabilize Ghost and stays off the Avengers’ radar afterward.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Bill Foster yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Bill Foster yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Tech"
     },
     {
       "id": "luis",
@@ -6337,7 +6629,8 @@
       ],
       "spoilers": "He helps steal and save the day across Ant-Man films and runs X-Con Security.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Luis yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Luis yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "elektra",
@@ -6370,7 +6663,8 @@
       ],
       "spoilers": "She dies and returns as the Black Sky; the Defenders stop the Hand’s resurrection plan.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Elektra yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Elektra yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "bullseye",
@@ -6403,7 +6697,8 @@
       ],
       "spoilers": "He becomes Fisk’s agent and later murders Foggy Nelson in Born Again.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Bullseye yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Bullseye yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "echo",
@@ -6436,7 +6731,9 @@
       ],
       "spoilers": "She nearly kills Fisk in her series, then walks a path of healing beyond vengeance.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Echo yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Echo yet.",
+      "typePrimary": "Skill",
+      "typeSecondary": "Mystic"
     },
     {
       "id": "iron-fist",
@@ -6469,7 +6766,9 @@
       ],
       "spoilers": "He helps stop the Hand with the Defenders and remains part of the Netflix-MCU tapestry.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Iron Fist yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Iron Fist yet.",
+      "typePrimary": "Mystic",
+      "typeSecondary": "Skill"
     },
     {
       "id": "trish-walker",
@@ -6501,7 +6800,9 @@
       ],
       "spoilers": "She enhances herself and goes too far; Jessica turns her in after a lethal spiral.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Trish Walker yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Trish Walker yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "kilgrave",
@@ -6533,7 +6834,9 @@
       ],
       "spoilers": "Jessica kills him to end his control spree after he torments New York.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kilgrave yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kilgrave yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Mystic"
     },
     {
       "id": "foggy-nelson",
@@ -6565,7 +6868,8 @@
       ],
       "spoilers": "Bullseye murders him in Daredevil: Born Again, devastating Matt and Karen.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Foggy Nelson yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Foggy Nelson yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "karen-page",
@@ -6597,7 +6901,8 @@
       ],
       "spoilers": "She survives Fisk’s rise to mayor and Foggy’s murder, still fighting for the truth.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Karen Page yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Karen Page yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "white-vision",
@@ -6630,7 +6935,9 @@
       ],
       "spoilers": "He battles Hex Vision, regains memories via Ship of Theseus, and flies away free.",
       "rarity": "epic",
-      "photoNote": "White Vision is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "White Vision is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "billy-maximoff",
@@ -6663,7 +6970,8 @@
       ],
       "spoilers": "In Agatha All Along he seeks his twin and survives the Witches’ Road as Wiccan.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Billy Maximoff yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Billy Maximoff yet.",
+      "typePrimary": "Mystic"
     },
     {
       "id": "rio-vidal",
@@ -6696,7 +7004,9 @@
       ],
       "spoilers": "She is revealed as Death; Agatha ultimately yields to her.",
       "rarity": "legendary",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Rio Vidal yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Rio Vidal yet.",
+      "typePrimary": "Mystic",
+      "typeSecondary": "Mythic"
     },
     {
       "id": "lilia-calderu",
@@ -6728,7 +7038,8 @@
       ],
       "spoilers": "She confronts the Salem Seven and dies holding a prophetic line that saves others.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Lilia Calderu yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Lilia Calderu yet.",
+      "typePrimary": "Mystic"
     },
     {
       "id": "jennifer-kale",
@@ -6760,7 +7071,8 @@
       ],
       "spoilers": "She walks the Witches’ Road with Agatha’s coven and survives its trials.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Jennifer Kale yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Jennifer Kale yet.",
+      "typePrimary": "Mystic"
     },
     {
       "id": "jimmy-woo",
@@ -6792,7 +7104,8 @@
       ],
       "spoilers": "He helps free Westview’s civilians and remains an ally to powered people.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Jimmy Woo yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Jimmy Woo yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "mobius",
@@ -6825,7 +7138,9 @@
       ],
       "spoilers": "He helps Loki against the TVA’s lies and lives a renewed life after the Loom crisis.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Mobius yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Mobius yet.",
+      "typePrimary": "Skill",
+      "typeSecondary": "Tech"
     },
     {
       "id": "ravonna",
@@ -6858,7 +7173,9 @@
       ],
       "spoilers": "She hunts free will’s secrets and clashes with Sylvie and Loki’s allies across both seasons.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ravonna Renslayer yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ravonna Renslayer yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "he-who-remains",
@@ -6891,7 +7208,9 @@
       ],
       "spoilers": "Sylvie kills him; his death unleashes Kang variants across the Multiverse.",
       "rarity": "legendary",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for He Who Remains yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for He Who Remains yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "miss-minutes",
@@ -6924,7 +7243,8 @@
       ],
       "spoilers": "She aids Ravonna and He Who Remains’ agenda, tormenting Loki and Sylvie.",
       "rarity": "common",
-      "photoNote": "Miss Minutes is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Miss Minutes is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Tech"
     },
     {
       "id": "hunter-b15",
@@ -6957,7 +7277,9 @@
       ],
       "spoilers": "She helps expose the TVA’s lies and rebuilds it beside Mobius and Loki’s allies.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hunter B-15 yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hunter B-15 yet.",
+      "typePrimary": "Skill",
+      "typeSecondary": "Tech"
     },
     {
       "id": "classic-loki",
@@ -6990,7 +7312,9 @@
       ],
       "spoilers": "He distracts Alioth with a giant Asgard illusion so Loki and Sylvie can pass, dying in the effort.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Classic Loki yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Classic Loki yet.",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Mystic"
     },
     {
       "id": "thunderbolt-ross",
@@ -7023,7 +7347,8 @@
       ],
       "spoilers": "In Brave New World he transforms into Red Hulk; Sam Wilson’s Cap confronts him.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Thunderbolt Ross yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Thunderbolt Ross yet.",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "leader",
@@ -7055,7 +7380,9 @@
       ],
       "spoilers": "Banner’s blood mutates him; years later he engineers political crises as the Leader.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for The Leader yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for The Leader yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Tech"
     },
     {
       "id": "betty-ross",
@@ -7087,7 +7414,8 @@
       ],
       "spoilers": "She helps Banner evade her father’s hunt and witnesses his control struggles.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Betty Ross yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Betty Ross yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "mister-fantastic",
@@ -7120,7 +7448,9 @@
       ],
       "spoilers": "He leads the Four against Galactus’s demand and fights to protect their world and child.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Mister Fantastic yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Mister Fantastic yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Tech"
     },
     {
       "id": "invisible-woman",
@@ -7153,7 +7483,8 @@
       ],
       "spoilers": "She stands against Galactus’s threat and safeguards Franklin’s future.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Invisible Woman yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Invisible Woman yet.",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "human-torch",
@@ -7186,7 +7517,8 @@
       ],
       "spoilers": "He lights up the fight against Galactus’s herald and the cosmic siege.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Human Torch yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Human Torch yet.",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "the-thing",
@@ -7219,7 +7551,8 @@
       ],
       "spoilers": "He goes toe-to-toe with cosmic threats to save their world beside his family.",
       "rarity": "epic",
-      "photoNote": "The Thing is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "The Thing is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "galactus",
@@ -7252,7 +7585,8 @@
       ],
       "spoilers": "He demands a terrible price tied to Franklin Richards; the Four defy him.",
       "rarity": "legendary",
-      "photoNote": "Galactus is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Galactus is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Cosmic"
     },
     {
       "id": "silver-surfer",
@@ -7285,7 +7619,8 @@
       ],
       "spoilers": "She heralds Galactus’s approach and becomes central to the Four’s cosmic confrontation.",
       "rarity": "legendary",
-      "photoNote": "Silver Surfer is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Silver Surfer is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Cosmic"
     },
     {
       "id": "cassandra-nova",
@@ -7318,7 +7653,9 @@
       ],
       "spoilers": "She nearly annihilates the Void’s resistance; Deadpool and Wolverine stop her with pruned legends.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Cassandra Nova yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Cassandra Nova yet.",
+      "typePrimary": "Mutant",
+      "typeSecondary": "Mystic"
     },
     {
       "id": "paradox",
@@ -7350,7 +7687,9 @@
       ],
       "spoilers": "His plan fails; the TVA reels him back in after Deadpool and Wolverine save the timeline.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Paradox yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Paradox yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "daisy-johnson",
@@ -7383,7 +7722,8 @@
       ],
       "spoilers": "She rises from Skye to Quake, leads teams across timelines, and remains S.H.I.E.L.D.’s seismic heart.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Daisy Johnson yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Daisy Johnson yet.",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "melinda-may",
@@ -7416,7 +7756,8 @@
       ],
       "spoilers": "She survives betrayals, LMD crises, and chronicom wars beside the team.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Melinda May yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Melinda May yet.",
+      "typePrimary": "Skill"
     },
     {
       "id": "fitz",
@@ -7448,7 +7789,9 @@
       ],
       "spoilers": "He survives Framework trauma, space exile, and chronicom timelines to reunite with Jemma.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Leo Fitz yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Leo Fitz yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "simmons",
@@ -7480,7 +7823,9 @@
       ],
       "spoilers": "She endures Maveth, the Framework, and a chronicom future before finding peace with Fitz.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Jemma Simmons yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Jemma Simmons yet.",
+      "typePrimary": "Skill",
+      "typeSecondary": "Tech"
     },
     {
       "id": "ghost-rider-aos",
@@ -7513,7 +7858,9 @@
       ],
       "spoilers": "He helps S.H.I.E.L.D. against Darkhold threats, then drives into another dimension.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ghost Rider yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ghost Rider yet.",
+      "typePrimary": "Mystic",
+      "typeSecondary": "Enhanced"
     },
     {
       "id": "yoyo",
@@ -7545,7 +7892,8 @@
       ],
       "spoilers": "She loses her arms to a future splinter, gains prosthetics, and helps stop the Chronicoms.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Yo-Yo Rodriguez yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Yo-Yo Rodriguez yet.",
+      "typePrimary": "Enhanced"
     },
     {
       "id": "mack",
@@ -7578,7 +7926,9 @@
       ],
       "spoilers": "He becomes Director, partners with Yo-Yo, and holds S.H.I.E.L.D. together through the Chronicom war.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Alphonso Mackenzie yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Alphonso Mackenzie yet.",
+      "typePrimary": "Skill",
+      "typeSecondary": "Tech"
     },
     {
       "id": "enoch",
@@ -7611,7 +7961,9 @@
       ],
       "spoilers": "He helps the team across years and dies saving them in the final season’s time war.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Enoch yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Enoch yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "deke-shaw",
@@ -7644,7 +7996,9 @@
       ],
       "spoilers": "He stays behind in the past to live his own life after helping stop the Chronicoms.",
       "rarity": "common",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Deke Shaw yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Deke Shaw yet.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Skill"
     },
     {
       "id": "kora-aos",
@@ -7676,7 +8030,9 @@
       ],
       "spoilers": "She defects from Nathaniel Malick’s side and helps S.H.I.E.L.D. win the temporal war.",
       "rarity": "uncommon",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kora yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kora yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "cloak",
@@ -7708,7 +8064,9 @@
       ],
       "spoilers": "He partners with Dagger against Roxxon and personal demons across two seasons.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Cloak yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Cloak yet.",
+      "typePrimary": "Mystic",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "dagger",
@@ -7740,7 +8098,9 @@
       ],
       "spoilers": "She and Cloak stabilize each other’s powers and take on New Orleans’ corruption.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Dagger yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Dagger yet.",
+      "typePrimary": "Mystic",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "infinity-ultron",
@@ -7773,7 +8133,9 @@
       ],
       "spoilers": "The Watcher and Guardians of the Multiverse stop him.",
       "rarity": "legendary",
-      "photoNote": "Infinity Ultron is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Infinity Ultron is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Tech",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "captain-carter",
@@ -7806,7 +8168,9 @@
       ],
       "spoilers": "She leads Multiverse missions with the Watcher’s blessing after defeating Infinity Ultron’s threat.",
       "rarity": "rare",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Captain Carter yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Captain Carter yet.",
+      "typePrimary": "Enhanced",
+      "typeSecondary": "Skill"
     },
     {
       "id": "party-thor",
@@ -7839,7 +8203,8 @@
       ],
       "spoilers": "He joins the Guardians of the Multiverse against Infinity Ultron after learning restraint.",
       "rarity": "epic",
-      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Party Thor yet."
+      "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Party Thor yet.",
+      "typePrimary": "Mythic"
     },
     {
       "id": "alioth",
@@ -7872,7 +8237,9 @@
       ],
       "spoilers": "Loki and Sylvie enchant Alioth to reach the Citadel at the End of Time.",
       "rarity": "legendary",
-      "photoNote": "Alioth is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Alioth is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Cosmic",
+      "typeSecondary": "Mythic"
     },
     {
       "id": "great-protector",
@@ -7905,7 +8272,9 @@
       ],
       "spoilers": "It fights the Dweller-in-Darkness with Shang-Chi wearing the Ten Rings.",
       "rarity": "epic",
-      "photoNote": "Great Protector is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Great Protector is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Mythic",
+      "typeSecondary": "Cosmic"
     },
     {
       "id": "fenris",
@@ -7938,7 +8307,8 @@
       ],
       "spoilers": "Hulk battles Fenris on the Bifrost as Asgardians evacuate.",
       "rarity": "rare",
-      "photoNote": "Fenris is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar."
+      "photoNote": "Fenris is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
+      "typePrimary": "Mythic"
     }
   ],
   "ratingsAsOf": "2026-10-14",
@@ -7963,7 +8333,7 @@
     "currency": "shards",
     "note": "Rates locked by Marvel Hub 2026-10-14. Stronger MCU ratings = lower pull rate. Bands retuned with roster v5."
   },
-  "dataBuild": "20261014roster229",
+  "dataBuild": "20261014arena1",
   "costumeArtBatch": {
     "asOf": "2026-10-14",
     "count": 86,
@@ -8055,7 +8425,52 @@
       "yelena-belova",
       "yondu"
     ],
-    "note": "Marvel Hub full costume set (86) — all roster placeholders retired"
+    "note": "Marvel Hub full costume set (86) — all roster placeholders retired",
+    "wiredIds": [
+      "ajak",
+      "arishem",
+      "ayesha",
+      "black-knight",
+      "cosmo",
+      "druig",
+      "frigga",
+      "gilgamesh",
+      "howard-the-duck",
+      "kingo",
+      "korath",
+      "kraglin",
+      "kro",
+      "lady-sif",
+      "makkari",
+      "phastos",
+      "sprite",
+      "stakar-ogord",
+      "taserface",
+      "the-watcher"
+    ],
+    "lastBatch": [
+      "ajak",
+      "gilgamesh",
+      "makkari",
+      "druig",
+      "phastos",
+      "kingo",
+      "sprite",
+      "black-knight",
+      "arishem",
+      "kro",
+      "cosmo",
+      "kraglin",
+      "stakar-ogord",
+      "ayesha",
+      "taserface",
+      "korath",
+      "howard-the-duck",
+      "the-watcher",
+      "frigga",
+      "lady-sif"
+    ],
+    "lastBatchNote": "Hub portraits batch: eternals/guardians/asgard support cast"
   },
   "gachaBands": {
     "common": "<=55",
@@ -8070,5 +8485,157 @@
     "rare": 0.12,
     "epic": 0.04,
     "legendary": 0.01
+  },
+  "typeSystem": {
+    "version": 1,
+    "types": [
+      "Skill",
+      "Tech",
+      "Enhanced",
+      "Mystic",
+      "Cosmic",
+      "Mythic",
+      "Mutant"
+    ],
+    "multipliers": {
+      "advantage": 1.5,
+      "neutral": 1.0,
+      "disadvantage": 0.67
+    },
+    "chart": {
+      "Skill": {
+        "Skill": 1.0,
+        "Tech": 1.0,
+        "Enhanced": 0.67,
+        "Mystic": 1.5,
+        "Cosmic": 1.0,
+        "Mythic": 0.67,
+        "Mutant": 1.0
+      },
+      "Tech": {
+        "Skill": 1.0,
+        "Tech": 1.0,
+        "Enhanced": 1.5,
+        "Mystic": 1.0,
+        "Cosmic": 0.67,
+        "Mythic": 0.67,
+        "Mutant": 0.67
+      },
+      "Enhanced": {
+        "Skill": 1.5,
+        "Tech": 0.67,
+        "Enhanced": 1.0,
+        "Mystic": 1.0,
+        "Cosmic": 1.0,
+        "Mythic": 0.67,
+        "Mutant": 1.5
+      },
+      "Mystic": {
+        "Skill": 0.67,
+        "Tech": 1.0,
+        "Enhanced": 1.0,
+        "Mystic": 1.0,
+        "Cosmic": 1.5,
+        "Mythic": 1.5,
+        "Mutant": 1.0
+      },
+      "Cosmic": {
+        "Skill": 1.0,
+        "Tech": 1.5,
+        "Enhanced": 1.0,
+        "Mystic": 0.67,
+        "Cosmic": 1.0,
+        "Mythic": 1.5,
+        "Mutant": 1.5
+      },
+      "Mythic": {
+        "Skill": 1.5,
+        "Tech": 1.5,
+        "Enhanced": 1.5,
+        "Mystic": 0.67,
+        "Cosmic": 0.67,
+        "Mythic": 1.0,
+        "Mutant": 0.67
+      },
+      "Mutant": {
+        "Skill": 1.0,
+        "Tech": 1.5,
+        "Enhanced": 0.67,
+        "Mystic": 1.0,
+        "Cosmic": 0.67,
+        "Mythic": 1.5,
+        "Mutant": 1.0
+      }
+    },
+    "rules": {
+      "dualType": "primary-only",
+      "dualTypeDetail": "Damage multipliers use attacker.primary vs defender.primary only. Secondary is flavor/UI and does not affect the matchup math.",
+      "sameType": 1.0,
+      "advantagePairs": [
+        [
+          "Skill",
+          "Mystic"
+        ],
+        [
+          "Mystic",
+          "Cosmic"
+        ],
+        [
+          "Cosmic",
+          "Tech"
+        ],
+        [
+          "Tech",
+          "Enhanced"
+        ],
+        [
+          "Enhanced",
+          "Skill"
+        ],
+        [
+          "Mythic",
+          "Enhanced"
+        ],
+        [
+          "Mythic",
+          "Skill"
+        ],
+        [
+          "Mythic",
+          "Tech"
+        ],
+        [
+          "Mystic",
+          "Mythic"
+        ],
+        [
+          "Cosmic",
+          "Mythic"
+        ],
+        [
+          "Cosmic",
+          "Mutant"
+        ],
+        [
+          "Mutant",
+          "Tech"
+        ],
+        [
+          "Mutant",
+          "Mythic"
+        ],
+        [
+          "Enhanced",
+          "Mutant"
+        ]
+      ]
+    },
+    "notes": [
+      "Compact 7-type MCU system (Symbiote folded into Enhanced/Cosmic — no Venom-line roster).",
+      "Main cycle: Skill > Mystic > Cosmic > Tech > Enhanced > Skill.",
+      "Mythic niche: strong vs Enhanced/Skill/Tech; weak to Mystic and Cosmic.",
+      "Mutant niche: strong vs Tech and Mythic; weak to Enhanced and Cosmic.",
+      "Flavor: Skill interrupts casters; Mystic seals cosmic/godly power; Cosmic overwhelms machines and pantheons; Tech outguns flesh; Enhanced outclasses baseline agents."
+    ]
   }
 }

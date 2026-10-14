@@ -8,7 +8,7 @@
 <meta name="description" content="Unofficial MCU fan hub: gallery, gacha pulls, accounts, 1v1 arena, and online party-code battles." />
 <title>Marvel Hub · Unofficial MCU fan site</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='6' fill='%23e23636'/%3E%3Ctext x='16' y='24' text-anchor='middle' font-family='Impact,sans-serif' font-size='22' fill='%23fff'%3EM%3C/text%3E%3C/svg%3E" />
-<link rel="stylesheet" href="styles.css?v=20261014roster229" />
+<link rel="stylesheet" href="styles.css?v=20261014arena1" />
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
@@ -68,27 +68,28 @@
     <p id="empty" class="empty" hidden>No characters match. Try clearing the filters.</p>
   </section>
 
-  <section id="panel-arena" role="tabpanel" aria-labelledby="tab-arena" hidden>
+  <section id="panel-arena" data-build="20261014arena1" role="tabpanel" aria-labelledby="tab-arena" hidden>
     <div class="intro">
       <h2>Battle Arena</h2>
-      <p class="muted">Pick two <strong>owned</strong> characters and watch them fight. The winner is drawn from their power ratings; stronger fighters usually win, but upsets happen.</p>
+      <p class="muted">Solo turn-based fights vs a CPU — same moves as Party (<strong>ATK</strong> / <strong>PIERCE</strong> / <strong>SHIELD</strong> / <strong>HEAL</strong> / <strong>STUN</strong>). You pick <strong>only your owned</strong> fighter; the enemy is <strong>random</strong> (anti-farm). Type advantages (Skill · Tech · Enhanced · Mystic · Cosmic · Mythic · Mutant) multiply damage ×1.5 / ×0.67.</p>
+      <p class="pill">1 player · random foe · type chart · rewards scale with difficulty</p>
     </div>
     <div id="arenaOwnGate" class="own-gate-wrap" hidden></div>
 
-    <div class="pickers">
+    <div class="pickers arena-pickers">
       <div class="picker" data-side="A">
-        <label for="selA">Fighter A</label>
-        <div class="pick-row"><select id="selA"></select><button type="button" class="btn ghost" data-browse="A">Browse</button></div>
+        <label for="selA">Your fighter</label>
+        <div class="pick-row"><select id="selA"></select><button type="button" class="btn ghost" id="arenaBrowse" data-browse="A">Browse</button></div>
       </div>
-      <div class="picker" data-side="B">
-        <label for="selB">Fighter B</label>
-        <div class="pick-row"><select id="selB"></select><button type="button" class="btn ghost" data-browse="B">Browse</button></div>
+      <div class="picker arena-enemy-picker" aria-live="polite">
+        <label>Enemy <span class="muted">(random)</span></label>
+        <p id="arenaEnemyLabel" class="arena-enemy-label">??? — revealed when you fight</p>
       </div>
     </div>
 
-    <div class="odds" aria-live="polite">
+    <div class="odds arena-matchup" aria-live="polite">
       <div class="odds-labels"><span id="oddsA"></span><span id="oddsMid" class="muted"></span><span id="oddsB"></span></div>
-      <div class="odds-bar" role="img" id="oddsBar"><span id="oddsFillA"></span><span id="oddsFillB"></span></div>
+      <div id="arenaTypeHint" class="arena-type-hint muted">Pick a fighter, then Fight — foe &amp; type matchup appear live.</div>
     </div>
 
     <div class="stage" id="stage">
@@ -98,7 +99,13 @@
         <div class="vs" aria-hidden="true"><span id="roundLbl">VS</span></div>
         <div class="fighter" id="fB"></div>
       </div>
-      <p class="log" id="log" aria-live="polite">Choose your fighters, then press Fight!</p>
+      <p class="log" id="log" aria-live="polite">Choose your fighter, then press Fight!</p>
+      <div id="arenaMoves" class="arena-moves party-moves" hidden>
+        <p class="muted">Your move — pick an ability</p>
+        <p class="party-move-hint muted">ATK / PIERCE / STUN hit the foe; HEAL / SHIELD are self.</p>
+        <div id="arenaAbilities" class="party-abilities"></div>
+      </div>
+      <ol id="arenaLog" class="party-log arena-turn-log" aria-live="polite" hidden></ol>
       <div class="banner" id="banner" hidden>
         <div class="b-art" id="bArt"></div>
         <p class="b-kicker" id="bKicker">Winner</p>
@@ -109,21 +116,20 @@
 
     <div class="actions">
       <button type="button" class="btn primary big" id="fight">Fight!</button>
-      <button type="button" class="btn" id="skip" hidden>Skip</button>
-      <button type="button" class="btn" id="rematch" hidden>Rematch</button>
-      <button type="button" class="btn ghost" id="again" hidden>Pick new fighters</button>
-      <button type="button" class="btn ghost" id="random">Random matchup</button>
+      <button type="button" class="btn" id="rematch" hidden>New foe (rematch)</button>
+      <button type="button" class="btn ghost" id="again" hidden>Change fighter</button>
+      <button type="button" class="btn ghost" id="random">Random owned</button>
     </div>
 
     <div class="tally">
-      <span>Your champion: <strong id="champ">Fighter A</strong> <small class="muted">(tap a fighter to switch)</small></span>
+      <span>You: <strong id="champ">—</strong></span>
       <span class="score" aria-live="polite">Session: <strong id="tW">0</strong>W – <strong id="tL">0</strong>L</span>
     </div>
-    <p class="note">Ratings are fan-estimated MCU power levels, just for fun. Win chance = A ÷ (A + B), so a 90 vs 45 matchup gives the favourite about 67%. Picking the same character twice is a 50/50 mirror match.</p>
+    <p class="note">Enemy is rolled from the full roster near your power (weighted so free commons are rare). Rewards scale with foe difficulty. Party Battle stays separate for online friends.</p>
   </section>
 
 
-  <section id="panel-party" data-build="20261014roster229" role="tabpanel" aria-labelledby="tab-party" hidden>
+  <section id="panel-party" data-build="20261014arena1" role="tabpanel" aria-labelledby="tab-party" hidden>
     <div class="intro">
       <h2>Party Battle</h2>
       <p class="muted">Online turn-based fights for 2–6 players. Create a room, share the party code, and duel across devices. Your fighter must be from your <strong>owned</strong> collection. Each ability is a real choice — <strong>ATK</strong>, <strong>PIERCE</strong> (ignores shield), <strong>SHIELD</strong>, <strong>HEAL</strong>, or <strong>STUN</strong> (skip their next turn). Power still shapes damage, but smart picks win fights.</p>
@@ -214,7 +220,7 @@
     <p class="note">Duplicates convert to bonus shards (Common 8 → Legendary 120). Costume portraits from Marvel Hub replace actor photos when available (full set of 86 wired).</p>
   </section>
 
-  <section id="panel-account" role="tabpanel" aria-labelledby="acctOpen" hidden data-build="20261014roster229">
+  <section id="panel-account" role="tabpanel" aria-labelledby="acctOpen" hidden data-build="20261014arena1">
     <div class="intro">
       <h2>Account</h2>
       <p class="muted">Register so shards, XP, and owned characters persist on this browser. Multi-device sync needs a one-time Cloudflare D1 bind (see deploy notes) — local accounts work today with no secrets.</p>
@@ -275,9 +281,9 @@
 <canvas id="confetti" aria-hidden="true"></canvas>
 
 <script src="https://unpkg.com/peerjs@1.5.4/dist/peerjs.min.js" crossorigin="anonymous"></script>
-<script src="battle.js?v=20261014roster229"></script>
-<script src="multiplayer.js?v=20261014roster229"></script>
-<script src="accounts.js?v=20261014roster229"></script>
-<script src="app.js?v=20261014roster229"></script>
+<script src="battle.js?v=20261014arena1"></script>
+<script src="multiplayer.js?v=20261014arena1"></script>
+<script src="accounts.js?v=20261014arena1"></script>
+<script src="app.js?v=20261014arena1"></script>
 </body>
 </html>

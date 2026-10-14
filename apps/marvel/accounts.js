@@ -169,21 +169,33 @@
     return Math.floor(Math.sqrt(Math.max(0, xp) / 50)) + 1;
   }
 
-  function grantBattleReward(kind, won) {
+  function grantBattleReward(kind, won, meta) {
     // kind: 'arena' | 'party'
+    // meta.difficulty (Arena): ~0.6–1.8 from enemy/player power — harder foes pay more
     var p = progress();
     var shards, xp;
     if (kind === 'party') {
       if (won) { shards = 20; xp = 35; p.battles.partyW = (p.battles.partyW || 0) + 1; }
       else { shards = 8; xp = 12; p.battles.partyL = (p.battles.partyL || 0) + 1; }
     } else {
-      if (won) { shards = 12; xp = 20; p.battles.arenaW = (p.battles.arenaW || 0) + 1; }
-      else { shards = 5; xp = 8; p.battles.arenaL = (p.battles.arenaL || 0) + 1; }
+      var scale = 1;
+      if (meta && typeof meta.difficulty === 'number' && isFinite(meta.difficulty)) {
+        scale = Math.max(0.6, Math.min(1.85, meta.difficulty));
+      }
+      if (won) {
+        shards = Math.max(8, Math.round(12 * scale));
+        xp = Math.max(12, Math.round(20 * scale));
+        p.battles.arenaW = (p.battles.arenaW || 0) + 1;
+      } else {
+        shards = Math.max(4, Math.round(5 * Math.max(0.75, scale * 0.85)));
+        xp = Math.max(6, Math.round(8 * Math.max(0.75, scale * 0.85)));
+        p.battles.arenaL = (p.battles.arenaL || 0) + 1;
+      }
     }
     p.shards += shards;
     p.xp += xp;
     saveCurrent(p);
-    return { shards: shards, xp: xp, progress: p };
+    return { shards: shards, xp: xp, progress: p, difficulty: kind === 'arena' ? (meta && meta.difficulty) : undefined };
   }
 
   /** Deduplicate party rewards when state re-renders on 'done'. */

@@ -246,7 +246,7 @@
       '<h4>Power rating <span class="muted">· ' + tier(c.power) + ' · ' + (window.MarvelAccounts ? window.MarvelAccounts.RARITY_LABEL[window.MarvelAccounts.rarityOf(c)] : '') + '</span></h4>' +
       '<div class="power" role="meter" aria-valuemin="1" aria-valuemax="100" aria-valuenow="' + c.power + '" aria-label="Power rating"><i style="--w:' + c.power + '%"></i><b>' + c.power + '</b></div>' +
       '<h4>Abilities</h4><ul class="tags">' + c.abilities.map(function (a) { return '<li>' + esc(a) + '</li>'; }).join('') + '</ul>' +
-      '<div class="dlg-actions"><button type="button" class="btn primary" data-fight="A">Send to Arena as Fighter A</button><button type="button" class="btn" data-fight="B">as Fighter B</button></div>' +
+      '<div class="dlg-actions"><button type="button" class="btn primary" data-fight="A">Send to Arena</button></div>' +
       '<p class="mini-note">Spoilers are hidden until you reveal them · ratings are fan-estimated, just for fun.</p></div>';
     openDialog(html, opener);
     syncSpoilChecks();
@@ -320,11 +320,12 @@
     });
   }
 
-  /* ---------- battle arena ---------- */
-  var sel = { A: 'iron-man', B: 'thanos' };
-  var tally = { w: 0, l: 0 }, champSide = 'A';
-  var running = false, timers = [], plan = null, currentFight = null;
+  /* ---------- battle arena (turn-based vs AI) ---------- */
+  var sel = { A: 'iron-man' };
+  var tally = { w: 0, l: 0 };
+  var running = false, timers = [];
   var selectsBound = false;
+  var arena = null; // { phase, you, foe, player, enemy, turn, log, difficulty }
 
   /** Characters the current user may pick in Arena / Party (owned only). */
   function ownedChars() {
@@ -336,7 +337,6 @@
     var ids = list.map(function (c) { return c.id; });
     if (!ids.length) return false;
     if (ids.indexOf(sel.A) < 0) sel.A = ids[0];
-    if (ids.indexOf(sel.B) < 0) sel.B = ids.length > 1 ? ids[1] : ids[0];
     return true;
   }
   function ownGateHtml(where) {
@@ -367,10 +367,11 @@
       if (!has) pg.innerHTML = ownGateHtml('party');
     }
     var fight = $('#fight'), random = $('#random');
-    if (fight) fight.disabled = !has || running;
-    if (random) random.disabled = !has || running;
-    $$('#panel-arena .pick-row select, #panel-arena [data-browse]').forEach(function (x) {
-      x.disabled = !has || running;
+    var busy = running || (arena && arena.phase === 'fighting');
+    if (fight) fight.disabled = !has || busy;
+    if (random) random.disabled = !has || busy;
+    $$('#panel-arena .pick-row select, #panel-arena [data-browse], #arenaBrowse').forEach(function (x) {
+      x.disabled = !has || busy;
     });
     var pc = $('#partyChar'), pb = $('#partyBrowse');
     if (pc) pc.disabled = !has;
@@ -393,30 +394,40 @@
     });
   }
 
+  function typeBadge(c) {
+    if (!c || !c.typePrimary) return '';
+    var sec = c.typeSecondary ? ' / ' + esc(c.typeSecondary) : '';
+    return '<span class="type-pill type-' + esc(c.typePrimary) + '">' + esc(c.typePrimary) + sec + '</span>';
+  }
+
   function fillSelects() {
     var list = ownedChars().slice().sort(function (a, b) { return a.name.localeCompare(b.name); });
     clampSelToOwned();
     var opts = list.length
-      ? list.map(function (c) { return '<option value="' + c.id + '">' + esc(c.name) + ' (' + c.power + ')</option>'; }).join('')
+      ? list.map(function (c) {
+        var t = c.typePrimary ? ' · ' + c.typePrimary : '';
+        return '<option value="' + c.id + '">' + esc(c.name) + ' (' + c.power + t + ')</option>';
+      }).join('')
       : '<option value="">No owned fighters</option>';
-    ['A', 'B'].forEach(function (s) {
-      var el = $('#sel' + s); if (!el) return;
-      el.innerHTML = opts;
-      if (list.length) el.value = sel[s];
-      if (!selectsBound) {
-        el.addEventListener('change', function () {
-          if (running) { el.value = sel[s]; return; }
-          if (!el.value) return;
-          sel[s] = el.value; resetStage();
-        });
-      }
-    });
-    selectsBound = true;
+    var el = $('#selA'); if (!el) return;
+    el.innerHTML = opts;
+    if (list.length) el.value = sel.A;
+    if (!selectsBound) {
+      el.addEventListener('change', function () {
+        if (running || (arena && arena.phase === 'fighting')) { el.value = sel.A; return; }
+        if (!el.value) return;
+        sel.A = el.value; resetStage();
+      });
+      selectsBound = true;
+    }
   }
   function setFighter(side, id) {
-    if (running) return;
+    if (running || (arena && arena.phase === 'fighting')) return;
+    if (side !== 'A') side = 'A';
     if (window.MarvelAccounts && !window.MarvelAccounts.owns(id)) return;
-    sel[side] = id; $('#sel' + side).value = id; resetStage();
+    sel.A = id;
+    var el = $('#selA'); if (el) el.value = id;
+    resetStage();
   }
   function renderFighters() {
     if (!clampSelToOwned()) {
@@ -429,164 +440,299 @@
       var ch = $('#champ'); if (ch) ch.textContent = '—';
       return;
     }
-    ['A', 'B'].forEach(function (s) {
-      var c = byId[sel[s]];
-      var el = $('#f' + s);
-      el.style.setProperty('--a', c.theme.accent);
-      el.className = 'fighter' + (champSide === s ? ' champ' : '');
-      el.innerHTML = '<button type="button" class="f-card" data-side="' + s + '" aria-pressed="' + (champSide === s) + '" aria-label="' + esc(c.name) + (champSide === s ? ', your champion' : ', tap to make your champion') + '">' +
-        '<span class="f-art">' + art(c, '', true) + '<span class="hit-flash"></span></span><span class="f-name">' + esc(c.name) + '</span>' +
-        (c.photo && c.photoCredit ? '<span class="f-actor" data-actor-for="' + esc(c.id) + '">' + esc(c.photoCredit.actor) + '</span>' : '') + '</button>' +
-        '<div class="hp" role="progressbar" aria-label="' + esc(c.name) + ' health" aria-valuemin="0" aria-valuemax="100" aria-valuenow="100"><i></i><span>100</span></div>' +
+    var a = byId[sel.A];
+    var enemy = arena && arena.enemy ? arena.enemy : null;
+    var youHp = arena ? arena.you.hp : 100;
+    var foeHp = arena ? arena.foe.hp : 100;
+    var youSh = arena ? (arena.you.shield || 0) : 0;
+    var foeSh = arena ? (arena.foe.shield || 0) : 0;
+    var youStun = arena && arena.you.stunned;
+    var foeStun = arena && arena.foe.stunned;
+
+    var elA = $('#fA');
+    elA.style.setProperty('--a', a.theme.accent);
+    elA.className = 'fighter champ' + (arena && arena.phase === 'done' && arena.you.hp <= 0 ? ' loser' : '') +
+      (arena && arena.phase === 'done' && arena.you.hp > 0 ? ' winner' : '') +
+      (youStun ? ' stunned' : '');
+    elA.innerHTML = '<div class="f-card" aria-label="' + esc(a.name) + ', you">' +
+      '<span class="f-art">' + art(a, '', true) + '<span class="hit-flash"></span></span>' +
+      '<span class="f-name">' + esc(a.name) + '</span>' + typeBadge(a) +
+      (youStun ? '<span class="pf-stun">STUN</span>' : '') +
+      '</div>' +
+      '<div class="hp' + (youHp <= 30 ? ' low' : '') + '" role="progressbar" aria-valuenow="' + youHp + '" aria-valuemin="0" aria-valuemax="100"><i style="width:' + youHp + '%"></i><span>' + Math.round(youHp) + '</span></div>' +
+      (youSh ? '<div class="shield arena-shield" role="progressbar"><i style="width:' + Math.min(100, (youSh / 45) * 100) + '%"></i><span>Shield ' + youSh + '</span></div>' : '') +
+      '<div class="dmg-layer"></div>';
+
+    var elB = $('#fB');
+    if (!enemy) {
+      elB.style.setProperty('--a', '#666');
+      elB.className = 'fighter enemy-hidden';
+      elB.innerHTML = '<div class="f-card muted"><span class="f-art f-mystery">?</span><span class="f-name">Mystery foe</span></div>' +
+        '<div class="hp" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"><i style="width:100%"></i><span>?</span></div>';
+    } else {
+      elB.style.setProperty('--a', enemy.theme.accent);
+      elB.className = 'fighter' + (arena && arena.phase === 'done' && arena.foe.hp <= 0 ? ' loser' : '') +
+        (arena && arena.phase === 'done' && arena.foe.hp > 0 ? ' winner' : '') +
+        (foeStun ? ' stunned' : '');
+      elB.innerHTML = '<div class="f-card" aria-label="' + esc(enemy.name) + ', enemy">' +
+        '<span class="f-art">' + art(enemy, '', true) + '<span class="hit-flash"></span></span>' +
+        '<span class="f-name">' + esc(enemy.name) + '</span>' + typeBadge(enemy) +
+        (foeStun ? '<span class="pf-stun">STUN</span>' : '') +
+        '</div>' +
+        '<div class="hp' + (foeHp <= 30 ? ' low' : '') + '" role="progressbar" aria-valuenow="' + foeHp + '" aria-valuemin="0" aria-valuemax="100"><i style="width:' + foeHp + '%"></i><span>' + Math.round(foeHp) + '</span></div>' +
+        (foeSh ? '<div class="shield arena-shield" role="progressbar"><i style="width:' + Math.min(100, (foeSh / 45) * 100) + '%"></i><span>Shield ' + foeSh + '</span></div>' : '') +
         '<div class="dmg-layer"></div>';
-    });
-    $('#champ').textContent = byId[sel[champSide]].name;
+    }
+    $('#champ').textContent = a.name;
+    var lab = $('#arenaEnemyLabel');
+    if (lab) lab.innerHTML = enemy
+      ? (esc(enemy.name) + ' · power ' + enemy.power + ' · ' + typeBadge(enemy))
+      : '??? — revealed when you fight';
   }
   function updateOdds() {
     if (!clampSelToOwned()) {
-      var oa = $('#oddsA'), ob = $('#oddsB'), om = $('#oddsMid');
+      var oa = $('#oddsA'), ob = $('#oddsB'), om = $('#oddsMid'), th = $('#arenaTypeHint');
       if (oa) oa.textContent = '';
       if (ob) ob.textContent = '';
-      if (om) om.textContent = 'own fighters to see odds';
+      if (om) om.textContent = 'own a fighter to begin';
+      if (th) th.textContent = 'Owned fighters only.';
       return;
     }
-    var a = byId[sel.A], b = byId[sel.B];
-    var p = B.winChance(a.power, b.power), pa = Math.round(p * 1000) / 10, pb = Math.round((1 - p) * 1000) / 10;
-    $('#oddsA').innerHTML = '<strong>' + esc(a.name) + '</strong> ' + pa.toFixed(1) + '%';
-    $('#oddsB').innerHTML = pb.toFixed(1) + '% <strong>' + esc(b.name) + '</strong>';
-    $('#oddsMid').textContent = sel.A === sel.B ? 'mirror match' : a.power + ' vs ' + b.power;
-    $('#oddsFillA').style.width = (p * 100) + '%';
-    $('#oddsFillB').style.width = ((1 - p) * 100) + '%';
-    $('#oddsFillA').style.background = a.theme.c2; $('#oddsFillB').style.background = b.theme.c2;
-    $('#oddsBar').setAttribute('aria-label', a.name + ' ' + pa.toFixed(1) + ' percent, ' + b.name + ' ' + pb.toFixed(1) + ' percent');
+    var a = byId[sel.A];
+    var enemy = arena && arena.enemy;
+    $('#oddsA').innerHTML = '<strong>' + esc(a.name) + '</strong> ' + a.power + (a.typePrimary ? ' · ' + esc(a.typePrimary) : '');
+    if (enemy) {
+      var multYou = B.typeMultiplier ? B.typeMultiplier(a.typePrimary, enemy.typePrimary) : 1;
+      var multFoe = B.typeMultiplier ? B.typeMultiplier(enemy.typePrimary, a.typePrimary) : 1;
+      $('#oddsB').innerHTML = enemy.power + (enemy.typePrimary ? ' · ' + esc(enemy.typePrimary) : '') + ' <strong>' + esc(enemy.name) + '</strong>';
+      $('#oddsMid').textContent = 'type ×' + multYou + ' yours / ×' + multFoe + ' theirs';
+      var th = $('#arenaTypeHint');
+      if (th) {
+        var hint = '';
+        if (multYou >= 1.4) hint = 'Your type is strong here (×1.5).';
+        else if (multYou <= 0.7) hint = 'Your type is weak here (×0.67).';
+        else hint = 'Neutral type matchup for you.';
+        th.textContent = hint + ' Enemy rolled near your power — not player-chosen.';
+      }
+    } else {
+      $('#oddsB').textContent = '???';
+      $('#oddsMid').textContent = 'waiting for fight';
+      var th2 = $('#arenaTypeHint');
+      if (th2) th2.textContent = 'Fight rolls a random foe near your power. You never pick the opponent.';
+    }
   }
   function clearTimers() { timers.forEach(clearTimeout); timers = []; }
   function later(fn, ms) { timers.push(setTimeout(fn, ms)); }
 
   function resetStage() {
-    clearTimers(); running = false; plan = null;
+    clearTimers(); running = false; arena = null;
     $('#stage').className = 'stage';
     $('#banner').hidden = true;
     $('#roundLbl').textContent = 'VS';
-    $('#log').textContent = 'Choose your fighters, then press Fight!';
-    $('#fight').hidden = false; $('#skip').hidden = true; $('#rematch').hidden = true; $('#again').hidden = true; $('#random').hidden = false;
+    $('#log').textContent = 'Choose your fighter, then press Fight!';
+    var al = $('#arenaLog'); if (al) { al.hidden = true; al.innerHTML = ''; }
+    var am = $('#arenaMoves'); if (am) am.hidden = true;
+    $('#fight').hidden = false; $('#rematch').hidden = true; $('#again').hidden = true; $('#random').hidden = false;
     stopConfetti();
     updateOdds(); renderFighters();
     updateOwnGates();
   }
 
-  function setHp(side, hp) {
-    var el = $('#f' + side + ' .hp');
-    el.firstChild.style.width = hp + '%';
-    el.lastChild.textContent = Math.round(hp);
-    el.setAttribute('aria-valuenow', Math.round(hp));
-    el.classList.toggle('low', hp <= 30);
+  function arenaPushLog(line) {
+    if (!arena) return;
+    arena.log = (arena.log || []).concat([line]).slice(-16);
+    var al = $('#arenaLog');
+    if (al) {
+      al.hidden = false;
+      al.innerHTML = arena.log.map(function (l) { return '<li>' + esc(l) + '</li>'; }).join('');
+    }
+    $('#log').textContent = line;
+  }
+
+  function arenaRenderMoves() {
+    var am = $('#arenaMoves');
+    var box = $('#arenaAbilities');
+    if (!am || !box || !arena || arena.phase !== 'fighting') return;
+    var myTurn = arena.turn === 'you' && !running;
+    am.hidden = !myTurn;
+    if (!myTurn) { box.innerHTML = ''; return; }
+    var kit = B.abilityKit(arena.player.abilities);
+    box.innerHTML = kit.map(function (a) {
+      var tip = a.needsTarget
+        ? (a.type === 'pierce' ? 'Pierce — ignores shield' : a.type === 'stun' ? 'Stun — damage + skip their next turn' : 'Attack')
+        : (a.type === 'heal' ? 'Heal yourself' : 'Gain shield');
+      return '<button type="button" class="ab ab-' + a.type + '" data-ability="' + esc(a.name) + '" title="' + esc(tip) + '">' +
+        '<span class="ab-tag">' + esc(a.label) + '</span> ' + esc(a.name) + '</button>';
+    }).join('');
+  }
+
+  function arenaFinish(youWon) {
+    if (!arena || arena.phase === 'done') return;
+    arena.phase = 'done';
+    running = false;
+    clearTimers();
+    var am = $('#arenaMoves'); if (am) am.hidden = true;
+    $('#stage').className = 'stage done';
+    $('#roundLbl').textContent = 'K.O.';
+    tally[youWon ? 'w' : 'l']++;
+    $('#tW').textContent = tally.w; $('#tL').textContent = tally.l;
+    var wc = youWon ? arena.player : arena.enemy;
+    var lc = youWon ? arena.enemy : arena.player;
+    $('#bKicker').textContent = youWon ? 'Victory!' : 'Defeat';
+    $('#bName').textContent = wc.name + ' wins';
+    $('#bArt').innerHTML = art(wc, '', true);
+    var diff = arena.difficulty || 1;
+    $('#bSub').textContent = (youWon ? 'You beat ' : 'Fallen to ') + lc.name +
+      ' · difficulty ×' + diff.toFixed(2) +
+      ' · ' + (arena.player.typePrimary || '?') + ' vs ' + (arena.enemy.typePrimary || '?');
+    $('#banner').hidden = false;
+    arenaPushLog(lc.name + ' is down. ' + wc.name + ' stands victorious!');
+    $('#fight').hidden = true; $('#rematch').hidden = false; $('#again').hidden = false; $('#random').hidden = false;
+    renderFighters();
+    updateOwnGates();
+    if (!reduce.matches && youWon) startConfetti(wc.theme);
+    if (window.MarvelAccounts) {
+      var reward = window.MarvelAccounts.grantBattleReward('arena', youWon, { difficulty: diff });
+      refreshAcctChip();
+      $('#log').textContent = (youWon ? 'Victory!' : 'Defeat.') + ' +' + reward.shards + ' shards, +' + reward.xp + ' XP (diff ×' + diff.toFixed(2) + ')';
+    }
+    $('#rematch').focus({ preventScroll: true });
+  }
+
+  function arenaApplySide(side, abilityName) {
+    if (!arena || arena.phase !== 'fighting') return;
+    var atkC = side === 'you' ? arena.player : arena.enemy;
+    var defC = side === 'you' ? arena.enemy : arena.player;
+    var atkS = side === 'you' ? arena.you : arena.foe;
+    var defS = side === 'you' ? arena.foe : arena.you;
+    var resolved = B.resolveAbility(atkC.abilities, abilityName);
+    var result = B.applyAbility(
+      { hp: atkS.hp, shield: atkS.shield || 0, power: atkC.power, typePrimary: atkC.typePrimary },
+      resolved.needsTarget ? { hp: defS.hp, shield: defS.shield || 0, power: defC.power, stunned: !!defS.stunned, typePrimary: defC.typePrimary } : null,
+      resolved
+    );
+    atkS.hp = result.atkHp;
+    atkS.shield = result.atkShield;
+    if (resolved.needsTarget) {
+      defS.hp = result.defHp;
+      defS.shield = result.defShield;
+      defS.stunned = !!result.defStunned;
+    }
+    var line = B.formatAbilityLine(atkC.name, resolved.needsTarget ? defC.name : atkC.name, result);
+    arenaPushLog(line);
+    renderFighters();
+    updateOdds();
+
+    if (arena.you.hp <= 0 || arena.foe.hp <= 0) {
+      arenaFinish(arena.you.hp > 0);
+      return true;
+    }
+    return false;
+  }
+
+  function arenaAdvanceTurn() {
+    if (!arena || arena.phase !== 'fighting') return;
+    // Flip turn; skip if stunned
+    var next = arena.turn === 'you' ? 'cpu' : 'you';
+    var st = next === 'you' ? arena.you : arena.foe;
+    var c = next === 'you' ? arena.player : arena.enemy;
+    if (st.stunned) {
+      st.stunned = false;
+      arenaPushLog((c.name) + ' is stunned and skips a turn!');
+      arena.turn = next;
+      renderFighters();
+      // skip to the following turn
+      later(function () { arenaAdvanceTurn(); }, reduce.matches ? 200 : 550);
+      return;
+    }
+    arena.turn = next;
+    $('#roundLbl').textContent = next === 'you' ? 'YOU' : 'CPU';
+    renderFighters();
+    if (next === 'you') {
+      running = false;
+      arenaRenderMoves();
+      $('#log').textContent = 'Your turn — pick an ability.';
+    } else {
+      running = true;
+      arenaRenderMoves();
+      $('#log').textContent = arena.enemy.name + ' is thinking…';
+      later(arenaCpuTurn, reduce.matches ? 280 : 700);
+    }
+  }
+
+  function arenaCpuTurn() {
+    if (!arena || arena.phase !== 'fighting' || arena.turn !== 'cpu') return;
+    var kit = B.abilityKit(arena.enemy.abilities);
+    var pick = B.cpuPickAbility(kit, arena.foe, arena.you);
+    var done = arenaApplySide('cpu', pick && pick.name);
+    if (done) return;
+    later(arenaAdvanceTurn, reduce.matches ? 220 : 500);
   }
 
   function startFight() {
-    if (running) return;
+    if (running || (arena && arena.phase === 'fighting')) return;
     if (!clampSelToOwned()) {
       updateOwnGates();
       var log = $('#log'); if (log) log.textContent = 'Own some fighters first — register or pull on Gacha.';
       return;
     }
-    var a = byId[sel.A], b = byId[sel.B];
-    var side = B.drawWinner(a.power, b.power);               // decided BEFORE animating
-    plan = B.planFight(a, b, side);
-    currentFight = { a: a, b: b, side: side };
-    running = true;
+    var player = byId[sel.A];
+    var enemy = B.pickArenaEnemy(player, chars);
+    if (!enemy) {
+      $('#log').textContent = 'Could not roll an enemy. Try again.';
+      return;
+    }
+    var difficulty = (+enemy.power || 1) / Math.max(1, +player.power || 1);
+    difficulty = Math.max(0.6, Math.min(1.85, difficulty));
+    arena = {
+      phase: 'fighting',
+      player: player,
+      enemy: enemy,
+      you: { hp: 100, shield: 0, stunned: false },
+      foe: { hp: 100, shield: 0, stunned: false },
+      turn: 'you',
+      log: [],
+      difficulty: difficulty
+    };
     clearTimers(); stopConfetti();
-    renderFighters();
     $('#banner').hidden = true;
     $('#stage').className = 'stage fighting';
-    $('#fight').hidden = true; $('#skip').hidden = false; $('#rematch').hidden = true; $('#again').hidden = true; $('#random').hidden = true;
-    $$('.pick-row select, [data-browse]').forEach(function (x) { x.disabled = true; });
-    $('#fightStatus') && ($('#fightStatus').textContent = '');
-    var fast = reduce.matches;
-    var t0 = fast ? 250 : 900, step = fast ? 350 : 720;
-    $('#log').textContent = a.name + ' vs ' + b.name + '… FIGHT!';
-    $('#roundLbl').textContent = 'FIGHT!';
-    plan.hits.forEach(function (h, i) {
-      later(function () { doHit(h, i); }, t0 + i * step);
-    });
-    later(function () { finish(); }, t0 + plan.hits.length * step + (fast ? 200 : 700));
-  }
-
-  function doHit(h, i) {
-    var atk = h.side, def = h.side === 'A' ? 'B' : 'A';
-    var stage = $('#stage');
-    $('#roundLbl').textContent = 'R' + (i + 1);
-    $('#log').textContent = h.text;
-    var fa = $('#f' + atk), fd = $('#f' + def);
-    if (!reduce.matches) {
-      fa.classList.remove('lunge-A', 'lunge-B'); void fa.offsetWidth; fa.classList.add('lunge-' + atk);
-      later(function () {
-        fd.classList.remove('shake'); void fd.offsetWidth; fd.classList.add('shake');
-        stage.classList.remove('quake'); void stage.offsetWidth; if (h.crit || h.last) stage.classList.add('quake');
-      }, 160);
-    }
-    later(function () {
-      var fl = $('.hit-flash', fd); fl.classList.remove('on'); void fl.offsetWidth; fl.classList.add('on');
-      setHp(atk === 'A' ? 'B' : 'A', atk === 'A' ? h.hpB : h.hpA);
-      var n = document.createElement('span');
-      n.className = 'dmg' + (h.crit || h.last ? ' big' : '');
-      n.textContent = '-' + h.damage + (h.crit ? '!' : '');
-      n.style.left = (30 + Math.random() * 40) + '%';
-      $('.dmg-layer', fd).appendChild(n);
-      setTimeout(function () { n.remove(); }, 1100);
-    }, reduce.matches ? 0 : 170);
-  }
-
-  function finish() {
-    if (!running) return;
-    running = false;
-    // enforce final state exactly as planned
-    var last = plan.hits[plan.hits.length - 1];
-    setHp('A', last.hpA); setHp('B', last.hpB);
-    var W = plan.winner, L = plan.loser;
-    var wc = currentFight[W === 'A' ? 'a' : 'b'], lc = currentFight[L === 'A' ? 'a' : 'b'];
-    $('#f' + W).classList.add('winner'); $('#f' + L).classList.add('loser');
-    $('#stage').className = 'stage done';
-    $('#roundLbl').textContent = 'K.O.';
-    var mine = champSide === W;
-    tally[mine ? 'w' : 'l']++;
-    $('#tW').textContent = tally.w; $('#tL').textContent = tally.l;
-    $('#bKicker').textContent = mine ? 'Your champion wins!' : 'Your champion falls!';
-    $('#bName').textContent = wc.name + ' wins';
-    $('#bArt').innerHTML = art(wc, '', true);
-    $('#bArt').setAttribute('role', 'img'); $('#bArt').setAttribute('aria-label', wc.name + ' portrait');
-    var chance = Math.round(plan.pWinner * 100);
-    var verdict = sel.A === sel.B ? 'Mirror match: a coin flip.' : plan.winnerFinalHp < 18 ? 'A photo finish!' : plan.winnerFinalHp > 60 ? 'A total stomp.' : 'A solid win.';
-    $('#bSub').textContent = verdict + ' ' + wc.name + ' had a ' + chance + '% chance' + (chance < 50 ? ' (upset!)' : '') + ' and ended with ' + plan.winnerFinalHp + ' HP.';
-    $('#banner').hidden = false;
-    $('#log').textContent = lc.name + ' is down. ' + wc.name + ' stands victorious!';
-    $('#skip').hidden = true; $('#rematch').hidden = false; $('#again').hidden = false; $('#random').hidden = false;
+    $('#fight').hidden = true; $('#rematch').hidden = true; $('#again').hidden = true; $('#random').hidden = true;
     updateOwnGates();
-    if (!reduce.matches) startConfetti(wc.theme);
-    if (window.MarvelAccounts) {
-      var reward = window.MarvelAccounts.grantBattleReward('arena', mine);
-      refreshAcctChip();
-      $('#log').textContent = lc.name + ' is down. ' + wc.name + ' stands victorious! (+' + reward.shards + ' shards, +' + reward.xp + ' XP)';
+    var order = B.initiativeOrder([
+      { id: 'you', power: player.power },
+      { id: 'cpu', power: enemy.power }
+    ]);
+    arena.turn = order[0] === 'you' ? 'you' : 'cpu';
+    arenaPushLog('Fight! ' + player.name + ' vs ' + enemy.name + ' (' + (player.typePrimary || '?') + ' vs ' + (enemy.typePrimary || '?') + ')');
+    arenaPushLog('Enemy difficulty ×' + difficulty.toFixed(2) + '. Initiative: ' + (arena.turn === 'you' ? 'you' : enemy.name) + '.');
+    updateOdds();
+    renderFighters();
+    if (arena.turn === 'you') {
+      running = false;
+      arenaRenderMoves();
+      $('#roundLbl').textContent = 'YOU';
+      $('#log').textContent = 'Your turn — pick an ability.';
+    } else {
+      running = true;
+      arenaRenderMoves();
+      $('#roundLbl').textContent = 'CPU';
+      $('#log').textContent = enemy.name + ' moves first…';
+      later(arenaCpuTurn, reduce.matches ? 300 : 800);
     }
-    $('#rematch').focus({ preventScroll: true });
   }
 
-  function skip() {
-    if (!running) return;
-    clearTimers();
-    finish();
-  }
   function rematch() {
-    resetStage(); startFight();
+    resetStage();
+    // keep same owned fighter, new random enemy
+    startFight();
   }
   function randomPair() {
-    if (running) return;
+    if (running || (arena && arena.phase === 'fighting')) return;
     var list = ownedChars();
     if (!list.length) { updateOwnGates(); return; }
-    var a = list[Math.floor(Math.random() * list.length)], b;
-    if (list.length === 1) b = a;
-    else do { b = list[Math.floor(Math.random() * list.length)]; } while (b === a);
-    sel.A = a.id; sel.B = b.id; $('#selA').value = a.id; $('#selB').value = b.id; resetStage();
+    var a = list[Math.floor(Math.random() * list.length)];
+    sel.A = a.id; $('#selA').value = a.id; resetStage();
   }
 
   function browse(side) {
@@ -599,33 +745,38 @@
       bindOwnGateClicks($('.dlg-body', dialog));
       return;
     }
-    var html = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">Pick Fighter ' + side + '</h3><p class="alias">Owned characters only</p></div>' +
+    var html = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">Pick your fighter</h3><p class="alias">Owned only · enemy is random</p></div>' +
       '<button type="button" class="x" data-close data-autofocus aria-label="Close (Esc)">&times;</button></div>' +
       '<div class="dlg-body"><div class="pick-grid">' + list.map(function (c) {
-        return '<button type="button" class="mini-card" data-id="' + c.id + '" style="--a:' + c.theme.accent + '">' + art(c) + '<span>' + esc(c.name) + '</span></button>';
+        return '<button type="button" class="mini-card" data-id="' + c.id + '" style="--a:' + c.theme.accent + '">' + art(c) + '<span>' + esc(c.name) + '</span>' +
+          (c.typePrimary ? '<small class="muted">' + esc(c.typePrimary) + '</small>' : '') + '</button>';
       }).join('') + '</div></div>';
     openDialog(html, document.activeElement);
     $('.pick-grid', dialog).addEventListener('click', function (e) {
       var b = e.target.closest('.mini-card'); if (!b) return;
-      setFighter(side, b.dataset.id); closeDialog();
+      setFighter('A', b.dataset.id); closeDialog();
     });
   }
 
   function bindArena() {
     $('#fight').addEventListener('click', startFight);
-    $('#skip').addEventListener('click', skip);
     $('#rematch').addEventListener('click', rematch);
     $('#again').addEventListener('click', function () { resetStage(); $('#selA').focus(); });
     $('#random').addEventListener('click', randomPair);
-    $$('[data-browse]').forEach(function (b) { b.addEventListener('click', function () { browse(b.dataset.browse); }); });
-    ['A', 'B'].forEach(function (s) {
-      $('#sel' + s).addEventListener('change', function () { updateOdds(); });
-    });
-    $('.fighters').addEventListener('click', function (e) {
-      var b = e.target.closest('.f-card'); if (!b || running) return;
-      champSide = b.dataset.side; renderFighters();
-      $('.f-card[data-side="' + champSide + '"]').focus();
-    });
+    var br = $('#arenaBrowse') || $('[data-browse="A"]');
+    if (br) br.addEventListener('click', function () { browse('A'); });
+    var abox = $('#arenaAbilities');
+    if (abox) {
+      abox.addEventListener('click', function (e) {
+        var b = e.target.closest('[data-ability]');
+        if (!b || !arena || arena.phase !== 'fighting' || arena.turn !== 'you' || running) return;
+        running = true;
+        arenaRenderMoves();
+        var done = arenaApplySide('you', b.dataset.ability);
+        if (done) return;
+        later(arenaAdvanceTurn, reduce.matches ? 220 : 480);
+      });
+    }
   }
 
 

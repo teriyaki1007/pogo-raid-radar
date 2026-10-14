@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "types": [
+    "Skill",
+    "Tech",
+    "Enhanced",
+    "Mystic",
+    "Cosmic",
+    "Mythic",
+    "Mutant"
+  ],
+  "multipliers": {
+    "advantage": 1.5,
+    "neutral": 1.0,
+    "disadvantage": 0.67
+  },
+  "chart": {
+    "Skill": {
+      "Skill": 1.0,
+      "Tech": 1.0,
+      "Enhanced": 0.67,
+      "Mystic": 1.5,
+      "Cosmic": 1.0,
+      "Mythic": 0.67,
+      "Mutant": 1.0
+    },
+    "Tech": {
+      "Skill": 1.0,
+      "Tech": 1.0,
+      "Enhanced": 1.5,
+      "Mystic": 1.0,
+      "Cosmic": 0.67,
+      "Mythic": 0.67,
+      "Mutant": 0.67
+    },
+    "Enhanced": {
+      "Skill": 1.5,
+      "Tech": 0.67,
+      "Enhanced": 1.0,
+      "Mystic": 1.0,
+      "Cosmic": 1.0,
+      "Mythic": 0.67,
+      "Mutant": 1.5
+    },
+    "Mystic": {
+      "Skill": 0.67,
+      "Tech": 1.0,
+      "Enhanced": 1.0,
+      "Mystic": 1.0,
+      "Cosmic": 1.5,
+      "Mythic": 1.5,
+      "Mutant": 1.0
+    },
+    "Cosmic": {
+      "Skill": 1.0,
+      "Tech": 1.5,
+      "Enhanced": 1.0,
+      "Mystic": 0.67,
+      "Cosmic": 1.0,
+      "Mythic": 1.5,
+      "Mutant": 1.5
+    },
+    "Mythic": {
+      "Skill": 1.5,
+      "Tech": 1.5,
+      "Enhanced": 1.5,
+      "Mystic": 0.67,
+      "Cosmic": 0.67,
+      "Mythic": 1.0,
+      "Mutant": 0.67
+    },
+    "Mutant": {
+      "Skill": 1.0,
+      "Tech": 1.5,
+      "Enhanced": 0.67,
+      "Mystic": 1.0,
+      "Cosmic": 0.67,
+      "Mythic": 1.5,
+      "Mutant": 1.0
+    }
+  },
+  "rules": {
+    "dualType": "primary-only",
+    "dualTypeDetail": "Damage multipliers use attacker.primary vs defender.primary only. Secondary is flavor/UI and does not affect the matchup math.",
+    "sameType": 1.0,
+    "advantagePairs": [
+      [
+        "Skill",
+        "Mystic"
+      ],
+      [
+        "Mystic",
+        "Cosmic"
+      ],
+      [
+        "Cosmic",
+        "Tech"
+      ],
+      [
+        "Tech",
+        "Enhanced"
+      ],
+      [
+        "Enhanced",
+        "Skill"
+      ],
+      [
+        "Mythic",
+        "Enhanced"
+      ],
+      [
+        "Mythic",
+        "Skill"
+      ],
+      [
+        "Mythic",
+        "Tech"
+      ],
+      [
+        "Mystic",
+        "Mythic"
+      ],
+      [
+        "Cosmic",
+        "Mythic"
+      ],
+      [
+        "Cosmic",
+        "Mutant"
+      ],
+      [
+        "Mutant",
+        "Tech"
+      ],
+      [
+        "Mutant",
+        "Mythic"
+      ],
+      [
+        "Enhanced",
+        "Mutant"
+      ]
+    ]
+  },
+  "notes": [
+    "Compact 7-type MCU system (Symbiote folded into Enhanced/Cosmic \u2014 no Venom-line roster).",
+    "Main cycle: Skill > Mystic > Cosmic > Tech > Enhanced > Skill.",
+    "Mythic niche: strong vs Enhanced/Skill/Tech; weak to Mystic and Cosmic.",
+    "Mutant niche: strong vs Tech and Mythic; weak to Enhanced and Cosmic.",
+    "Flavor: Skill interrupts casters; Mystic seals cosmic/godly power; Cosmic overwhelms machines and pantheons; Tech outguns flesh; Enhanced outclasses baseline agents."
+  ]
+}

@@ -111,6 +111,87 @@
     return { winner: winnerSide, loser: winnerSide === 'A' ? 'B' : 'A', pWinner: pW, winnerFinalHp: left, hits: hits };
   }
 
+  // --- Type advantages (MCU 7-type, primary-only) ---
+  var TYPE_CHART = {
+    Skill:    { Skill: 1.0, Tech: 1.0, Enhanced: 0.67, Mystic: 1.5, Cosmic: 1.0, Mythic: 0.67, Mutant: 1.0 },
+    Tech:     { Skill: 1.0, Tech: 1.0, Enhanced: 1.5, Mystic: 1.0, Cosmic: 0.67, Mythic: 0.67, Mutant: 0.67 },
+    Enhanced: { Skill: 1.5, Tech: 0.67, Enhanced: 1.0, Mystic: 1.0, Cosmic: 1.0, Mythic: 0.67, Mutant: 1.5 },
+    Mystic:   { Skill: 0.67, Tech: 1.0, Enhanced: 1.0, Mystic: 1.0, Cosmic: 1.5, Mythic: 1.5, Mutant: 1.0 },
+    Cosmic:   { Skill: 1.0, Tech: 1.5, Enhanced: 1.0, Mystic: 0.67, Cosmic: 1.0, Mythic: 1.5, Mutant: 1.5 },
+    Mythic:   { Skill: 1.5, Tech: 1.5, Enhanced: 1.5, Mystic: 0.67, Cosmic: 0.67, Mythic: 1.0, Mutant: 0.67 },
+    Mutant:   { Skill: 1.0, Tech: 1.5, Enhanced: 0.67, Mystic: 1.0, Cosmic: 0.67, Mythic: 1.5, Mutant: 1.0 }
+  };
+  var TYPE_LIST = ['Skill', 'Tech', 'Enhanced', 'Mystic', 'Cosmic', 'Mythic', 'Mutant'];
+
+  function typeMultiplier(atkType, defType) {
+    var row = TYPE_CHART[atkType];
+    if (!row) return 1;
+    var m = row[defType];
+    return typeof m === 'number' ? m : 1;
+  }
+
+  function typeLabel(mult) {
+    if (mult >= 1.4) return 'super effective';
+    if (mult <= 0.7) return 'not very effective';
+    return '';
+  }
+
+  /**
+   * Weighted random Arena foe from the full roster (never player-chosen).
+   * Prefers power near the player's (±band), with a bias against free commons.
+   */
+  function pickArenaEnemy(player, roster, rng) {
+    rng = rng || Math.random;
+    var pp = Math.max(1, +(player && player.power) || 50);
+    var list = (roster || []).filter(function (c) { return c && c.id; });
+    if (!list.length) return null;
+    var band = 18;
+    var near = list.filter(function (c) {
+      return Math.abs((+c.power || 0) - pp) <= band;
+    });
+    if (near.length < 10) {
+      band = 28;
+      near = list.filter(function (c) {
+        return Math.abs((+c.power || 0) - pp) <= band;
+      });
+    }
+    if (near.length < 6) near = list.slice();
+    var weights = near.map(function (c) {
+      var p = +c.power || 1;
+      var d = Math.abs(p - pp);
+      var prox = 1 / (1 + d * 0.11);
+      // Prefer equal-or-stronger so farming weak picks is rare
+      var challenge = p >= pp - 4 ? 1.45 : p >= pp - 12 ? 1.0 : 0.55;
+      return Math.max(0.05, prox * challenge);
+    });
+    var sum = weights.reduce(function (a, b) { return a + b; }, 0);
+    var r = rng() * sum, acc = 0;
+    for (var i = 0; i < near.length; i++) {
+      acc += weights[i];
+      if (r <= acc) return near[i];
+    }
+    return near[near.length - 1];
+  }
+
+  /** Simple CPU ability picker for Arena AI. */
+  function cpuPickAbility(kit, atk, def, rng) {
+    rng = rng || Math.random;
+    kit = kit && kit.length ? kit : [{ name: 'Strike', type: 'damage', needsTarget: true }];
+    function find(t) {
+      for (var i = 0; i < kit.length; i++) if (kit[i].type === t) return kit[i];
+      return null;
+    }
+    var hp = Math.max(0, +(atk && atk.hp) || 0);
+    var sh = Math.max(0, +(atk && atk.shield) || 0);
+    var defHp = Math.max(0, +(def && def.hp) || 0);
+    var defSh = Math.max(0, +(def && def.shield) || 0);
+    if (hp <= 38 && find('heal') && rng() < 0.78) return find('heal');
+    if (sh < 12 && find('shield') && rng() < 0.55) return find('shield');
+    if (defSh >= 14 && find('pierce') && rng() < 0.7) return find('pierce');
+    if (defHp > 0 && find('stun') && !def.stunned && rng() < 0.32) return find('stun');
+    return find('damage') || find('pierce') || kit[0];
+  }
+
   // --- Turn-based multiplayer helpers (host-authoritative) ---
   // Damage weighted by MCU power: stronger attackers hit harder; stronger defenders take less.
   function turnDamage(atkPower, defPower, rng) {
@@ -293,10 +374,18 @@
 
     var scale = type === 'stun' ? 0.58 : type === 'pierce' ? 0.88 : 1;
     var hit = turnDamage(atk.power, def.power, rng);
-    var dmg = Math.max(3, Math.round(hit.damage * scale));
-    if (type === 'stun') dmg = Math.max(3, Math.min(22, dmg));
+    var typeMult = 1;
+    if (atk.typePrimary && def.typePrimary) {
+      typeMult = typeMultiplier(atk.typePrimary, def.typePrimary);
+    } else if (typeof atk.typeMult === 'number') {
+      typeMult = atk.typeMult;
+    }
+    var dmg = Math.max(3, Math.round(hit.damage * scale * typeMult));
+    if (type === 'stun') dmg = Math.max(3, Math.min(28, dmg));
     out.damage = dmg;
     out.crit = !!hit.crit && type !== 'stun';
+    out.typeMult = typeMult;
+    out.typeHint = typeLabel(typeMult);
 
     if (type === 'pierce') {
       out.pierced = true;
@@ -330,6 +419,7 @@
     if (result.type === 'stun') bits += ' (stun)';
     bits += ' on ' + defName + ' for ' + result.damage;
     if (result.crit) bits += ' CRIT!';
+    if (result.typeHint) bits += ' (' + result.typeHint + ')';
     if (result.absorbed) bits += ' [' + result.absorbed + ' blocked]';
     if (result.stunned) bits += ' — stunned!';
     if (result.defHp <= 0) bits += ' — K.O.!';
@@ -351,6 +441,12 @@
     applyAbility: applyAbility,
     absorbDamage: absorbDamage,
     formatAbilityLine: formatAbilityLine,
-    classifyAbilityKeyword: classifyAbilityKeyword
+    classifyAbilityKeyword: classifyAbilityKeyword,
+    TYPE_CHART: TYPE_CHART,
+    TYPE_LIST: TYPE_LIST,
+    typeMultiplier: typeMultiplier,
+    typeLabel: typeLabel,
+    pickArenaEnemy: pickArenaEnemy,
+    cpuPickAbility: cpuPickAbility
   };
 });

@@ -51,3 +51,13 @@ Roster + power^3 (2026-10-14 roster229):
 - Gacha bands unchanged: C<=55, U56-70, R71-82, E83-92, L>=93.
 - Seed marvelhub still ensureSeedAccount(all ids) on init — owns full 229 after refresh.
 - Cache-bust: ?v=20261014roster229 ; data-build="20261014roster229".
+
+Arena remake (2026-10-14 arena1):
+- Arena is turn-based like Party (ATK/PIERCE/SHIELD/HEAL/STUN) vs simple CPU AI.
+- Player picks ONLY owned fighter; enemy is weighted-random near player power (anti-farm).
+- 7-type chart (Skill/Tech/Enhanced/Mystic/Cosmic/Mythic/Mutant): primary-only ×1.5 / ×0.67.
+  typePrimary/typeSecondary on all 229 chars; typeSystem embedded in characters.json.
+- Type mult also applied in Party Battle damage.
+- Arena rewards scale with difficulty = clamp(enemyPower/playerPower, 0.6–1.85).
+- Party PeerJS multiplayer unchanged aside from type damage.
+- Cache-bust: ?v=20261014arena1 ; data-build="20261014arena1".
