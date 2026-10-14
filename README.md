@@ -153,3 +153,25 @@ Set these **Production** environment variables on the Cloudflare Pages project (
 
 Source: `functions/recipes/api/import-request.js`
 
+
+## Marvel Hub account API (D1)
+
+`/marvel/` register / login / progress sync against D1 bind **MARVEL_DB** (database name `marvel_accounts`):
+
+| Method | Path | Auth | Body |
+| --- | --- | --- | --- |
+| `POST` | `/marvel/api/register` | — | `{ "username", "password" }` → `{ ok, username, token, progress }` |
+| `POST` | `/marvel/api/login` | — | `{ "username", "password" }` → `{ ok, username, token, progress }` |
+| `GET` | `/marvel/api/progress` | `Authorization: Bearer <token>` | → `{ ok, username, progress }` |
+| `PUT` | `/marvel/api/progress` | Bearer | `{ "shards", "xp", "owned", "pullCount", "battles", "lastPartyRewardId" }` (or wrapped in `{ "progress": … }`) |
+
+Passwords: PBKDF2-SHA-256 (100k iters), random salt, stored in `users`. Sessions: HMAC-signed token (30d). PeerJS party stays client-only.
+
+**Production bindings / secrets** (Cloudflare Pages dashboard — do not commit):
+
+- D1 binding name: `MARVEL_DB` → database `marvel_accounts` (schema already applied by Dad)
+- Secret: `MARVEL_AUTH_SECRET` (or `AUTH_SECRET`) — long random string for HMAC; API returns `503` with `missing` if absent
+
+Recipe webhook env (`GROK_RECIPE_IMPORT_*`) is untouched. Routes include both `/recipes/api/*` and `/marvel/api/*` in `functions/_routes.json` + `public/_routes.json`.
+
+Source: `functions/marvel/api/{register,login,progress}.js` (+ `_lib.js`)

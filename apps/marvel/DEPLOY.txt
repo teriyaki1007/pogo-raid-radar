@@ -61,3 +61,12 @@ Arena remake (2026-10-14 arena1):
 - Arena rewards scale with difficulty = clamp(enemyPower/playerPower, 0.6–1.85).
 - Party PeerJS multiplayer unchanged aside from type damage.
 - Cache-bust: ?v=20261014arena1 ; data-build="20261014arena1".
+
+Marvel D1 account API (2026-10-14 marvelApi1):
+- Pages Functions: POST /marvel/api/register, POST /marvel/api/login,
+  GET+PUT /marvel/api/progress (Bearer token). D1 bind MARVEL_DB.
+- Client accounts.js prefers API; falls back to localStorage if API 503/unreachable.
+  Seed marvelhub / marvelallcharacters remains local ensureSeedAccount().
+- Dad must set Production secret MARVEL_AUTH_SECRET (or AUTH_SECRET) if not already.
+  MARVEL_DB bind already live per Dad Bridge. Do not touch recipe webhook env.
+- Cache-bust: ?v=20261014marvelApi1 ; data-build="20261014marvelApi1".

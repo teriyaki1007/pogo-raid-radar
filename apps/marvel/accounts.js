@@ -1,10 +1,13 @@
-/* Marvel Hub accounts, progress, and gacha (localStorage today; CF D1 optional later). */
+/* Marvel Hub accounts, progress, and gacha.
+ * Prefers Cloudflare D1 via /marvel/api/* when available; falls back to localStorage. */
 (function (root) {
   'use strict';
 
   var ACC_KEY = 'marvel.accounts.v1';
   var SESS_KEY = 'marvel.session.v1';
+  var TOKEN_KEY = 'marvel.token.v1';
   var PROG_PREFIX = 'marvel.progress.v1.';
+  var API_BASE = '/marvel/api';
   var RATES = { common: 0.55, uncommon: 0.28, rare: 0.12, epic: 0.04, legendary: 0.01 };
   var RARITY_ORDER = ['common', 'uncommon', 'rare', 'epic', 'legendary'];
   var RARITY_LABEL = {
@@ -17,6 +20,8 @@
   var STARTER_OWNED = ['hawkeye', 'black-widow', 'happy-hogan', 'falcon', 'ant-man'];
   var SEED_USER = 'marvelhub';
   var SEED_PASS = 'marvelallcharacters';
+  var syncTimer = null;
+  var apiAvailable = null; // null unknown, true/false after probe
 
   function nowIso() { return new Date().toISOString(); }
 
@@ -43,6 +48,16 @@
     } catch (e) { /* */ }
   }
 
+  function getToken() {
+    try { return localStorage.getItem(TOKEN_KEY) || ''; } catch (e) { return ''; }
+  }
+  function setToken(t) {
+    try {
+      if (t) localStorage.setItem(TOKEN_KEY, t);
+      else localStorage.removeItem(TOKEN_KEY);
+    } catch (e) { /* */ }
+  }
+
   function progKey(user) { return PROG_PREFIX + (user || '__guest__'); }
 
   function defaultProgress() {
@@ -58,18 +73,24 @@
     };
   }
 
+  function normalizeProgress(p) {
+    if (!p || typeof p !== 'object') return defaultProgress();
+    p.shards = +p.shards || 0;
+    p.xp = +p.xp || 0;
+    p.owned = p.owned && typeof p.owned === 'object' ? p.owned : {};
+    p.pullCount = +p.pullCount || 0;
+    p.battles = p.battles || { arenaW: 0, arenaL: 0, partyW: 0, partyL: 0 };
+    if (p.lastPartyRewardId === undefined && p.last_party_reward_id !== undefined) {
+      p.lastPartyRewardId = p.last_party_reward_id;
+    }
+    return p;
+  }
+
   function loadProgress(user) {
     try {
       var raw = localStorage.getItem(progKey(user));
       if (!raw) return defaultProgress();
-      var p = JSON.parse(raw);
-      if (!p || typeof p !== 'object') return defaultProgress();
-      p.shards = +p.shards || 0;
-      p.xp = +p.xp || 0;
-      p.owned = p.owned && typeof p.owned === 'object' ? p.owned : {};
-      p.pullCount = +p.pullCount || 0;
-      p.battles = p.battles || { arenaW: 0, arenaL: 0, partyW: 0, partyL: 0 };
-      return p;
+      return normalizeProgress(JSON.parse(raw));
     } catch (e) { return defaultProgress(); }
   }
   function saveProgress(user, p) {
@@ -97,11 +118,42 @@
     return String(u || '').trim().toLowerCase().replace(/[^a-z0-9_\-.]/g, '').slice(0, 24);
   }
 
-  function register(username, password) {
-    username = normalizeUser(username);
-    password = String(password || '');
-    if (username.length < 3) return Promise.reject(new Error('Username needs at least 3 letters/numbers.'));
-    if (password.length < 4) return Promise.reject(new Error('Password needs at least 4 characters.'));
+  function apiFetch(path, opts) {
+    opts = opts || {};
+    var headers = { 'Content-Type': 'application/json' };
+    if (opts.token) headers.Authorization = 'Bearer ' + opts.token;
+    return fetch(API_BASE + path, {
+      method: opts.method || 'GET',
+      headers: headers,
+      body: opts.body != null ? JSON.stringify(opts.body) : undefined,
+      credentials: 'same-origin'
+    }).then(function (res) {
+      return res.json().then(function (data) {
+        return { status: res.status, ok: res.ok, data: data || {} };
+      }).catch(function () {
+        return { status: res.status, ok: res.ok, data: { ok: false, error: 'Bad JSON from API' } };
+      });
+    });
+  }
+
+  function isTransientApiFailure(errOrResult) {
+    if (!errOrResult) return true;
+    if (errOrResult.status === 503) return true;
+    if (errOrResult.status === 0) return true;
+    var missing = errOrResult.data && errOrResult.data.missing;
+    if (missing && missing.length) return true;
+    return false;
+  }
+
+  function applyRemoteSession(username, token, progress) {
+    setSession(username);
+    setToken(token || '');
+    if (progress) {
+      saveProgress(username, normalizeProgress(progress));
+    }
+  }
+
+  function registerLocal(username, password) {
     var acc = loadAccounts();
     if (acc.users[username]) return Promise.reject(new Error('That username is taken.'));
     var salt = randomSalt();
@@ -111,7 +163,6 @@
       var p = defaultProgress();
       p.shards = STARTER_SHARDS;
       STARTER_OWNED.forEach(function (id) { p.owned[id] = (p.owned[id] || 0) + 1; });
-      // Migrate guest progress shards/owned if any
       var guest = loadProgress('__guest__');
       if (guest.shards > 0 || Object.keys(guest.owned).length) {
         p.shards += guest.shards;
@@ -123,24 +174,124 @@
       }
       saveProgress(username, p);
       setSession(username);
-      return { username: username, progress: p };
+      setToken('');
+      return { username: username, progress: p, source: 'local' };
     });
   }
 
-  function login(username, password) {
-    username = normalizeUser(username);
-    password = String(password || '');
+  function loginLocal(username, password) {
     var acc = loadAccounts();
     var u = acc.users[username];
     if (!u) return Promise.reject(new Error('Unknown username.'));
     return hashPassword(password, u.salt).then(function (hash) {
       if (hash !== u.hash) throw new Error('Wrong password.');
       setSession(username);
-      return { username: username, progress: loadProgress(username) };
+      setToken('');
+      return { username: username, progress: loadProgress(username), source: 'local' };
     });
   }
 
-  function logout() { setSession(''); }
+  function register(username, password) {
+    username = normalizeUser(username);
+    password = String(password || '');
+    if (username.length < 3) return Promise.reject(new Error('Username needs at least 3 letters/numbers.'));
+    if (password.length < 4) return Promise.reject(new Error('Password needs at least 4 characters.'));
+
+    return apiFetch('/register', {
+      method: 'POST',
+      body: { username: username, password: password }
+    }).then(function (res) {
+      if (res.ok && res.data && res.data.ok) {
+        apiAvailable = true;
+        var remote = normalizeProgress(res.data.progress);
+        // Merge guest local progress into remote starter once, then PUT.
+        var guest = loadProgress('__guest__');
+        var merged = false;
+        if (guest.shards > 0 || Object.keys(guest.owned).length) {
+          remote.shards += guest.shards;
+          remote.xp += guest.xp;
+          Object.keys(guest.owned).forEach(function (id) {
+            remote.owned[id] = (remote.owned[id] || 0) + guest.owned[id];
+          });
+          try { localStorage.removeItem(progKey('__guest__')); } catch (e) { /* */ }
+          merged = true;
+        }
+        applyRemoteSession(res.data.username || username, res.data.token, remote);
+        if (merged) scheduleSync(true);
+        return { username: res.data.username || username, progress: remote, source: 'api' };
+      }
+      if (res.status === 409 || (res.data && /taken/i.test(res.data.error || ''))) {
+        apiAvailable = true;
+        return Promise.reject(new Error(res.data.error || 'That username is taken.'));
+      }
+      if (res.status >= 400 && res.status < 500 && !isTransientApiFailure(res)) {
+        apiAvailable = true;
+        return Promise.reject(new Error((res.data && res.data.error) || 'Register failed.'));
+      }
+      // API down / not configured → local fallback
+      apiAvailable = false;
+      return registerLocal(username, password);
+    }).catch(function (err) {
+      if (err && err.message && !/Failed to fetch|NetworkError|Load failed/i.test(err.message)
+          && err.name !== 'TypeError') {
+        return Promise.reject(err);
+      }
+      apiAvailable = false;
+      return registerLocal(username, password);
+    });
+  }
+
+  function login(username, password) {
+    username = normalizeUser(username);
+    password = String(password || '');
+
+    return apiFetch('/login', {
+      method: 'POST',
+      body: { username: username, password: password }
+    }).then(function (res) {
+      if (res.ok && res.data && res.data.ok) {
+        apiAvailable = true;
+        applyRemoteSession(res.data.username || username, res.data.token, res.data.progress);
+        return {
+          username: res.data.username || username,
+          progress: loadProgress(res.data.username || username),
+          source: 'api'
+        };
+      }
+      if (res.status === 401) {
+        apiAvailable = true;
+        // If remote unknown, try local (e.g. seed marvelhub only local)
+        if (res.data && /Unknown username/i.test(res.data.error || '')) {
+          return loginLocal(username, password).catch(function () {
+            throw new Error(res.data.error || 'Unknown username.');
+          });
+        }
+        return Promise.reject(new Error((res.data && res.data.error) || 'Wrong password.'));
+      }
+      if (res.status >= 400 && res.status < 500 && !isTransientApiFailure(res)) {
+        apiAvailable = true;
+        return Promise.reject(new Error((res.data && res.data.error) || 'Login failed.'));
+      }
+      apiAvailable = false;
+      return loginLocal(username, password);
+    }).catch(function (err) {
+      if (err && err.message && !/Failed to fetch|NetworkError|Load failed/i.test(err.message)
+          && err.name !== 'TypeError') {
+        return Promise.reject(err);
+      }
+      apiAvailable = false;
+      return loginLocal(username, password);
+    });
+  }
+
+  function logout() {
+    setSession('');
+    setToken('');
+    if (syncTimer) {
+      clearTimeout(syncTimer);
+      syncTimer = null;
+    }
+  }
 
   function currentUser() { return sessionUser(); }
 
@@ -149,9 +300,57 @@
     return loadProgress(u || '__guest__');
   }
 
+  function putProgressRemote(p) {
+    var token = getToken();
+    var u = sessionUser();
+    if (!token || !u) return Promise.resolve({ skipped: true });
+    return apiFetch('/progress', {
+      method: 'PUT',
+      token: token,
+      body: { progress: p }
+    }).then(function (res) {
+      if (res.ok && res.data && res.data.ok) {
+        apiAvailable = true;
+        return res.data;
+      }
+      if (res.status === 401) {
+        // Stale token — drop it; keep local session so play continues offline
+        setToken('');
+      }
+      return res.data;
+    }).catch(function () {
+      return { skipped: true };
+    });
+  }
+
+  function scheduleSync(immediate) {
+    if (!getToken()) return;
+    if (syncTimer) clearTimeout(syncTimer);
+    var delay = immediate ? 50 : 600;
+    syncTimer = setTimeout(function () {
+      syncTimer = null;
+      putProgressRemote(progress());
+    }, delay);
+  }
+
   function saveCurrent(p) {
     var u = sessionUser();
     saveProgress(u || '__guest__', p);
+    if (u && getToken()) scheduleSync(false);
+  }
+
+  function refreshFromRemote() {
+    var token = getToken();
+    var u = sessionUser();
+    if (!token || !u) return Promise.resolve(null);
+    return apiFetch('/progress', { method: 'GET', token: token }).then(function (res) {
+      if (res.ok && res.data && res.data.ok && res.data.progress) {
+        saveProgress(u, normalizeProgress(res.data.progress));
+        return loadProgress(u);
+      }
+      if (res.status === 401) setToken('');
+      return null;
+    }).catch(function () { return null; });
   }
 
   function rarityOf(c) {
@@ -170,8 +369,6 @@
   }
 
   function grantBattleReward(kind, won, meta) {
-    // kind: 'arena' | 'party'
-    // meta.difficulty (Arena): ~0.6–1.8 — base 36 win / 10 loss shards, scaled by foe difficulty
     var p = progress();
     var shards, xp;
     if (kind === 'party') {
@@ -198,7 +395,6 @@
     return { shards: shards, xp: xp, progress: p, difficulty: kind === 'arena' ? (meta && meta.difficulty) : undefined };
   }
 
-  /** Deduplicate party rewards when state re-renders on 'done'. */
   function grantPartyOnce(battleId, won) {
     var p = progress();
     if (battleId && p.lastPartyRewardId === battleId) {
@@ -245,7 +441,6 @@
       return { ok: false, error: 'Need ' + cost + ' shards (you have ' + p.shards + ').', progress: p };
     }
     var pools = poolByRarity(chars);
-    // Fallback: if a band is empty, step down
     function resolveBand(band) {
       var idx = RARITY_ORDER.indexOf(band);
       for (var i = idx; i >= 0; i--) {
@@ -291,9 +486,7 @@
     return { ok: true, cost: cost, results: results, progress: p };
   }
 
-  /** Built-in seed login: marvelhub / marvelallcharacters owns the full roster.
-   *  Called on app init. Creates the account on fresh browsers; on existing browsers
-   *  re-applies the known password hash and fills any missing ownership. */
+  /** Built-in seed login: marvelhub / marvelallcharacters owns the full roster (local). */
   function ensureSeedAccount(allIds) {
     allIds = allIds || [];
     var username = normalizeUser(SEED_USER);
@@ -314,6 +507,8 @@
       });
       if (!p.shards || p.shards < STARTER_SHARDS) p.shards = Math.max(p.shards || 0, STARTER_SHARDS);
       saveProgress(username, p);
+      // If already signed in remotely as seed, push ownership up to D1
+      if (sessionUser() === username && getToken()) scheduleSync(true);
       return { username: username, progress: p };
     });
   }
@@ -329,6 +524,11 @@
       .map(function (c) { return { char: c, count: p.owned[c.id] }; });
   }
 
+  // Soft refresh when a remote session is already present
+  if (getToken() && sessionUser()) {
+    refreshFromRemote();
+  }
+
   root.MarvelAccounts = {
     RATES: RATES,
     RARITY_ORDER: RARITY_ORDER,
@@ -337,12 +537,14 @@
     MULTI_COST: MULTI_COST,
     STARTER_SHARDS: STARTER_SHARDS,
     SEED_USER: SEED_USER,
+    API_BASE: API_BASE,
     register: register,
     login: login,
     logout: logout,
     currentUser: currentUser,
     progress: progress,
     saveCurrent: saveCurrent,
+    refreshFromRemote: refreshFromRemote,
     rarityOf: rarityOf,
     levelFromXp: levelFromXp,
     grantBattleReward: grantBattleReward,
