@@ -5689,7 +5689,8 @@
       "spoilers": "She helps Strange early on; Multiverse of Madness shows variant Christines and her Earth-616 marriage.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Christine Palmer yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/christine-palmer.jpg"
     },
     {
       "id": "clea",
@@ -5722,7 +5723,8 @@
       "spoilers": "She appears after Strange’s third eye opens, summoning him to help her cosmos.",
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Clea yet.",
-      "typePrimary": "Mystic"
+      "typePrimary": "Mystic",
+      "costumeArt": "img/costume/clea.jpg"
     },
     {
       "id": "rintrah",
@@ -5756,7 +5758,8 @@
       "rarity": "rare",
       "photoNote": "Rintrah is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
       "typePrimary": "Mystic",
-      "typeSecondary": "Enhanced"
+      "typeSecondary": "Enhanced",
+      "costumeArt": "img/costume/rintrah.jpg"
     },
     {
       "id": "talos",
