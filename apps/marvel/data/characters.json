@@ -5273,7 +5273,8 @@
       "spoilers": "Peter cures him mid-battle; Otto then helps fight the other villains and returns home.",
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Doctor Octopus yet.",
-      "typePrimary": "Tech"
+      "typePrimary": "Tech",
+      "costumeArt": "img/costume/doc-ock.jpg"
     },
     {
       "id": "electro-nwh",
@@ -5307,7 +5308,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Electro yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Cosmic"
+      "typeSecondary": "Cosmic",
+      "costumeArt": "img/costume/electro-nwh.jpg"
     },
     {
       "id": "sandman",
@@ -5340,7 +5342,8 @@
       "spoilers": "He is cured and sent home, hoping for a better fate with his daughter.",
       "rarity": "rare",
       "photoNote": "Sandman is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
-      "typePrimary": "Enhanced"
+      "typePrimary": "Enhanced",
+      "costumeArt": "img/costume/sandman.jpg"
     },
     {
       "id": "lizard",
@@ -5374,7 +5377,8 @@
       "spoilers": "He is cured in the final battle and returned to his universe.",
       "rarity": "rare",
       "photoNote": "Lizard is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
-      "typePrimary": "Enhanced"
+      "typePrimary": "Enhanced",
+      "costumeArt": "img/costume/lizard.jpg"
     },
     {
       "id": "aunt-may",
