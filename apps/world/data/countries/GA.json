@@ -1,7 +1,7 @@
 {
   "iso2": "GA",
   "name": "Gabon",
-  "updatedAt": "2026-10-14T17:07:41+08:00",
+  "updatedAt": "2026-10-14T23:04:29+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,28 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Airtel Gabon, ZTE deploy industry-first hybrid Massive MIMO",
+      "source": "ITWeb Africa",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ21nZHkwZWd1T05pa0pnSzlwRFd3UmhmYVB3MlQ4V2dDVWplZ1lxRFctajFoNlRnU2hyTWpZcFptWWdzS3dvaW1JMDVoaTN4TndXc0l0ZVFaVElZT2FHMnpCWTl3akx3NElDRHRUaTRTSFlZU2tNalhxbUxoSVB2VHE0bVBhZTBzWkFkVVQ0NEFPSTlpT2ZUNjZYNm53WGRrMGtaM3N3QQ?oc=5",
+      "publishedAt": "2026-10-14T17:59:50+08:00"
+    },
+    {
+      "title": "Gabon • Oligui Nguema faces risk of rebellion within PDG",
+      "source": "Africa Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUlhYSHE4QlRCMVk1eThCSk1uZFdKdjhUbnUzSjBJd1VPUHFqWWVQbnd0QWFzVEd5T3RicmRRMDRKdHEzbXhBaGYtMGF0ajNkLU96c2w2bWxyM3RaRFJSUk5XbjduU1NXNDYyLV9TVGV2U2lHcHNEbS00VVJkMGhQcHNueXY2MGdBbjJBMGxRaDhGdHo4SG4tVDJaXzJValVCeHlRRkdObWhvQ3ZvVkFfZjNnV24xcXRXdWRIZWg4c3A?oc=5",
+      "publishedAt": "2026-10-14T16:15:00+08:00"
+    },
+    {
+      "title": "Aurion Capital signs MoU for up to 450 MW gas-to-power program in Gabon",
+      "source": "Africa Business Communities",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjVIN0UxZ3Z3cnNjMThQdi00S251QjN0RUpPLVhOUHJ1YXBIaHlfWkZxRUF2QVg1cXhPZDNFaHN2MGpveEExcDVvNkNzaFBXR3VmMzJIXy1CNDBra2RLRk13WXJDUkxIYzVZYTNjMjdFa1VWMVhzQU1wNVE4VWdBQmgtQXZJMG1iMmdCWkNUNzZIdHVueHRVd1JPY3hPd0NSLU55UjJlT05TYVBfZUQtVFRKbEFtMEZQTjJSSFB5OXkwQk1jakNFdQ?oc=5",
+      "publishedAt": "2026-10-14T15:54:36+08:00"
+    },
+    {
+      "title": "Conservation after a coup: Former Gabon minister Lee White satisfied about legacy",
+      "source": "The Africa Report",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZXY2OGo3cmFoQWZyZHF5Ym9LLWlseDVIRGRmM1B2ZHliT2lIOTdMX2VSdVFac0Z6dmF2ZjRuQlgxSDRrMGlRbUEyZGRRSTZvQzJZZFNXeE4weWttVThXU2czWnprMHBfaVVuNW10SWVxNHZUUU9aTUoxY2I0VzZyel9qc3hyVFNOV3EzaV80b2ttTnh1TWh2MFNtMExmVHR5Q1ZBUUdfRVprdWlOMmFyU3J2aXM3UkE5ZG5MeA?oc=5",
+      "publishedAt": "2026-10-14T15:35:29+08:00"
+    },
+    {
       "title": "France moves to become top shareholder in mining giant behind Gabon’s world-leading manganese operation under $558 million funding plan",
       "source": "Business Insider Africa",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWkt1Nmh0M3E4cFkxRlJFcDN0UWJmLU1yc1JfeEdQckxhYW16SnhrSGluM3F6dkEyS1A1RVd3eldCOHdsRHgwZG1KZFBtS2Z6bnFhU1NpS3FfOV9fQzVpYjF6QVhYU2d5ZWFPd2o1ZDRqcm03dlByYW9xdnFFUHNOV1Ywc1ZBMmNpcVRkU3ViTldwQ01ldkJXTzFjUHV3TDlILTFtR1lBaDdvd09OUlBKR25DcDJlRE5ZOXRTRzl5dEtHZkZzUmsyUGd6RzNROWxsMmozVEpn?oc=5",
       "publishedAt": "2026-10-14T14:56:02+08:00"
     },
     {
-      "title": "Aurion Capital signs MoU for up to 450 MW gas-to-power program in Gabon",
-      "source": "Africa Business Communities",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdjVIN0UxZ3Z3cnNjMThQdi00S251QjN0RUpPLVhOUHJ1YXBIaHlfWkZxRUF2QVg1cXhPZDNFaHN2MGpveEExcDVvNkNzaFBXR3VmMzJIXy1CNDBra2RLRk13WXJDUkxIYzVZYTNjMjdFa1VWMVhzQU1wNVE4VWdBQmgtQXZJMG1iMmdCWkNUNzZIdHVueHRVd1JPY3hPd0NSLU55UjJlT05TYVBfZUQtVFRKbEFtMEZQTjJSSFB5OXkwQk1jakNFdQ?oc=5",
-      "publishedAt": "2026-10-14T14:13:47+08:00"
-    },
-    {
       "title": "VAALCO Energy completes Phase 3 drilling offshore Gabon",
       "source": "Africa Business Communities",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUFFkZ0FhQjZhRUxER1cwbmVrckxiLXhXc0hWYURCWTllNU4xY2hrdF9LLXk2cGpuRjBqSnpfUjR1UG9va2YxV1ZDTkZFdWNDRGZJejZGb0ZncFRwSEFEb0E3WkpjZzVmNDlLU2RhY09ZTXJzc0NuX0F5NE8xZVpKR0JtUlJEaFVIM0RXVUJCcjE0MWVrbGhxNU9wYnMwdk1EX0JWM19IdGNqdw?oc=5",
       "publishedAt": "2026-10-14T13:48:40+08:00"
-    },
-    {
-      "title": "Telecom news: ZTE, Airtel Gabon, Starlink, Jio, Bharti Airtel, BSNL, Saptang",
-      "source": "TelecomLead",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdEpOTkstM3VoZnV6OU5BbVBIUC1kQml4bThRWWVIQUtlT0VKbl9iN0t4c0Zta0FyQ19wM2RqY2tQQ3RYdkVlbzZuU1ZPQ0FwMTd3M3MtdTlGOGszRW8wOWV4dmVkakQwVU1aelluZXhiZUM5THU4ZnhObjJxQVZ4dVNGbkZ5RVVabGNUbENBc2hHZWZ0Q290Q1ZHbWtFWURuMW5xcTNRV0LSAbABQVVfeXFMTmtDWUNtVTZCZDc2NmQxRXJCVG5pNmt4TUYwWENtWnhEcDVkNjNaRzZkNlU2R2g3ZlkyZFhVTzZpTmtGWDNGQ0JoN0xfbFZhSzZ6SnUybGhvSnRlTDVHNHpEOGVqQ3hhREpacko0SFNqZWtpU2lUdHZnVENOV3lIbEI5ZDVva1lwYXBEMWxiR25iS2h4aHVBQ0hFOFNnaUVORFF2YWl4Zk5NMVRta2Z2VzU?oc=5",
-      "publishedAt": "2026-10-14T11:38:38+08:00"
     },
     {
       "title": "BW Energy lands $208m Gabon platform lease and extends RCF",
@@ -64,18 +76,6 @@
       "source": "Telecompaper",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdFFlTUE3OFNtY3V4ckprYVhtN2hqb0l6NUpzR0RJTDNHaXNFdzg1Y0ZoOUJ1YU9XLUtMb3JLa0pUSVpzQm8ybTF0WUpidUt3T3hWSU1uWFZ4N1pOQTlwdzFOYXBiYlJRZGNwcENtcUtSNzJLTWtEckpJMmJGT2MxdktDczc0bjFaazRGS253U0wxaWkybnZPUXZneldkWEwtXzBNa3JVcW1pRURtR0E2WDZDY3dDZUlaaXN3?oc=5",
       "publishedAt": "2026-10-13T18:26:36+08:00"
-    },
-    {
-      "title": "Aurion Capital signs MOU with Gabon and SEEG for a 450 MW electricity program to strengthen the country’s energy security",
-      "source": "The Sierra Leone Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUk1TYzU1eVltLVc2Z0lOWFNReHUwWC13aElScHZxTGhVSXhEbnlDY0NPTUhSb3p3ZFBKR3d2NV9KNjdJaXdYdzREcnpJMkZaenJ4NkNWb0l4NkJKcTRYR2V3aFNmbGs3ZWx3U0hQazQyVVNBanlmQWVEa1JOUU04RDJ2VEVpQVNDNHA3ejdsYmEtWVJfSW1SYXU4NnRQdXloYW9QOGVqcWM4N1pjdXNRT1pUZGJtaV9PNFFOd1BaMGJTLVpycEpJZEJ4MmVUZ2FTNWZNd1B5Y2xsd01sbm9FMU5zTndxMVRkZzZVTkRtVmZIbkE?oc=5",
-      "publishedAt": "2026-10-13T17:57:56+08:00"
-    },
-    {
-      "title": "BW Energy’s Gabon development gets $208m project financing",
-      "source": "Splash247",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObnhLZ19HbmJwRjE0Skc1RTdEWHN2OWZwVWo4R2kzU25DSERLMWwwOFV1NkR3ajNGVVlYSlNULXNsQXRBU3p3Q1pTNXVRbHRlVkV5VHlGTFo3S1pta0hQd1NLTUk3MEQwRTdxYmhWT0FPdExIeVp2bXVWM0JDRElGYXNETlJJZw?oc=5",
-      "publishedAt": "2026-10-13T16:17:01+08:00"
     }
   ]
 }

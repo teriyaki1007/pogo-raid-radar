@@ -1,7 +1,7 @@
 {
   "iso2": "IS",
   "name": "Iceland",
-  "updatedAt": "2026-10-14T17:07:41+08:00",
+  "updatedAt": "2026-10-14T23:04:29+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
-      "title": "Ring Road Closed in South Iceland as Storm Brings Orange Warnings",
+      "title": "ArkLaTex travelers visit Glacier Lagoon and Diamond Beach in Iceland",
+      "source": "KTBS 3",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOFRJd2xHdlRrQ01RWlZhLTVCeXFCTE0xWlNNRTRDNEpVSVlsYzVmZVdhcjZIeFRfZzdSZUJ6YVVtRVUxWmR0a3BSdnFQMm81Tmc1QlZ2dWpSbGdjR3ZVWnozdHZYakVBaU5oTllyS0pBMkFudXJUYk9FRVNJUzVzd1hnWnJReVRBMGp3MElLV0YwTHlQMnIxXzlDTDFZUFNlMDQ4OG96STNhSXh1U29zSzVUR1M4cEN1QXNIMmdYSURXN25KaEF5WDE3dGRLd25DLUxzVXdRTjVxcHM5N2JOeGFvRQ?oc=5",
+      "publishedAt": "2026-10-14T22:30:00+08:00"
+    },
+    {
+      "title": "UN Disarmament Chief Discusses Nuclear Risks in Iceland",
       "source": "Iceland Review",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOHd6U3NGc3hlLWJWdFFuVThFanpxbmZGMFZtR0Nnblh3Rzg0Q1dLZDVqeU9PakoxMFJrT1l6T2E4aVNCeXdXSlo2cENFQmtLQXk2SlFzbFJrZExkSEx1Y3RjLVBHdmwxS1hFV29QVjJyLXRqZFRfbWdMamt5WUVhLWVfRmJyMWlSRnVxZGo0bG55WWc?oc=5",
-      "publishedAt": "2026-10-14T15:00:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzUzZXZIZXVHWVpOcFIwdTRNNUotVDhQb0dIbE1PQ3hCcURrRy1nbHVtRTRGbzZMQkFUNGhqVVc0RUNpX091b0I0MUxVRU9CWnBtdHpxaFM4ZWVvOXY2ekxjcUpReTJQQVBja1huN0xpd0Q5c0ROdEdPcXlDMy15blQ5cUJjYU8yYjRsbnpn?oc=5",
+      "publishedAt": "2026-10-14T20:00:45+08:00"
+    },
+    {
+      "title": "Rarity finders: Yellow-throated Vireo in Iceland",
+      "source": "BirdGuides",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVlFWdnBDaXNWTDZfaC1WQlBRM2J3TjEyZ2dJOU4xejYyek1Fc1BfSkdVVVVFNExzYWVnNTZjaVhDRnliMk9ZeWRNZ0kyNWhoUV9KNWY2V1pvMVByRk5uQUtzM0xLMGxxM2Rqa0xHT1ZySUxNY1ZabnZhRVFUVFlhNjF4c3RuVXV0bnF2Vg?oc=5",
+      "publishedAt": "2026-10-14T19:31:08+08:00"
+    },
+    {
+      "title": "Opposition to east Iceland salmon farm grows",
+      "source": "Fish Farmer",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSDZsbDRIX1EtdlljVk1EdW1NZ2l4QWZodnNjbkw3X3I0Z1YzdVpXSk5CYV9jM3lxSXhKR0tiN0ZqZEJmT3Fkc0VDVl9mUnI0UEtOX0JMV1pzd0k1YVgxM1B6T3cteDZLcHhaaXZ5YWJHSDFOOFlWR1lrYzlqeTRZdXJYU1ZmTkxJRFNaTw?oc=5",
+      "publishedAt": "2026-10-14T19:03:09+08:00"
+    },
+    {
+      "title": "Iceland Opens ISK 40 Million Media Innovation Fund",
+      "source": "Iceland Review",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc3M0T0lOUnEwYU8taUNGUnZtWVNNeVZFZ3g5VU1ZWVdEWDBKU3NOVEYtOGF3Mm9MUkJ3RVZIaU9lN0oxT19wOERlb3hwLXJJdGk0dmw2TlZaUFR2MVVwUkNsV2c5X2dXLXpvUV9JU2g2NHRxLVY4cWNkNHQxOHhCWk1jUkdPWk9lTHZF?oc=5",
+      "publishedAt": "2026-10-14T19:00:54+08:00"
+    },
+    {
+      "title": "Section of South Iceland Road to close on Thursday",
+      "source": "mbl.is",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcVNWVFNXdmVYN04tb2EycFZMWUhJQVE4aElPN29MTlc0MFZuQ19ZNzZZVklDa3VEeUpfOTZfNTV2X3lEREZ6a1liTHowbDR0anhmc1UwbHJRS1dpUzhVX3VPS2xDZ2xsZ1FTRmhsLTctdjhBZjdBTm84NHpqLXZKSUIwWE80RFpnUW5ZQU1TX3Rpa0JHYzJtNThB?oc=5",
+      "publishedAt": "2026-10-14T18:00:00+08:00"
     },
     {
       "title": "Iceland vs Croatia: Women's WC Qualification Europe stats & head-to-head",
@@ -46,36 +76,6 @@
       "source": "Icelandic Meteorological office",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdFFxTXVNZ1NPcjkzdmJRVTVNcUNvWWFTZC1mNl83d0YzVHNzaDZnRkhDeDdvcVlzOFplb3BrRUhMN21kME9RMXdUeVNfczVYeExoLWJMOUEwMjc2NUpQMTRDRF9pWU1IRG1rVTJFRmhYdzBhN2hvQVliVEl6aTNzbWVESjRXVUctQzJ1MkJHdzF5V3BBVlNna1N6anpVdV9qVXh1ZDN3eVFGTVE?oc=5",
       "publishedAt": "2026-10-14T03:34:05+08:00"
-    },
-    {
-      "title": "St Georges Reports Completion of Iceland Gold Drilling and Provides Trading Status Update",
-      "source": "TheNewswire",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZWlrUzllX1dIX2lOUDVENGgwT0xORVo2UmlSWVJla0dsVVFJQzRfdzA0aXd6R0VnblczT0F2SGpjZHQyckNON0NDLThsS1pCUDVaMms3MDFwNWtaS28zQUdDRmpUcDM5eGotZi1KMEVDaWFmX09RYXR0RlNPcnRlX1hsQVpIOHZseWNuclVYNEdWREl2TUxEVjNweUZYQnBsdDd1UTdnSTlHbjQwc0cwcDJhR3FDTWliN2huOHFKdEVCUHFncUlySmNNbVdtSXd6UzdfMkxMU1FmcVJqVXBWUQ?oc=5",
-      "publishedAt": "2026-10-13T21:04:51+08:00"
-    },
-    {
-      "title": "Aurania Resources Completes Drilling at Thormodsdalur Gold Project in Iceland",
-      "source": "Junior Mining Network",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxORGYzSDJaVTJ0c3ZURUVqQTBxbnhhSm5fOURTdlpoWURDR0FXWEtFUHZhRWV5RXhVb2V4aUhaSkhsX1I4dnloZElqT05TaG5TeDl6djJ4dzNHX0dURmdacFQ3UVRCSWJfSlZYNU9NaC1JZUlHdjZXMF9pS3dkRjUtOHVEM0RBamNuOXQweTJwZ0EyVWdDRFpHemZGNW4tMWVaTzlnZnpLeExIdzh6a1RwX3ZoX2o4TEE2MHZraVEwTTk4Zy1Cb3JwMlVENkhFWndFSXFaclZubmhjTGtZak9KbTZ6Q3FJU2pfZW5vclRLQzVhbzVuZTB1RGcyZ1AtUQ?oc=5",
-      "publishedAt": "2026-10-13T19:33:31+08:00"
-    },
-    {
-      "title": "Almost all drilled rock was recovered from most holes at Aurania’s Iceland project.",
-      "source": "Stock Titan",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVGFPd0M0bklvSWRNM08ybE5RMUgwU25FV2FZZmRVSFc4dFpWQXFTekdOMVI5QlM5ZXAybXpmdmNRYmJxMXoyeW9SLTFqSm1PWnhkVlgyaFB2RW8yS0FyWFRHVnE1NFNHaFEtS2RRWWotaDR5SzAyeURWZjJ0S2JuMVc0UjBfSXdpUHNudzVxZVlYN0s3NUFwMy1BMlZvbEkyV012azlrU1phbEFaNGNoWWQwLV9GZw?oc=5",
-      "publishedAt": "2026-10-13T19:00:00+08:00"
-    },
-    {
-      "title": "Iceland capelin packers face planning uncertainty after 46% cut in quota recommendation",
-      "source": "Undercurrent News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHhGbVdWRzJXTzRiVGMwSGZIeUx1bWhrdUNzbnpMcVBWN0MxMU5STmJGU056SjJHR2h0SmJrM1lTUVhXaHNQTEpVVUwtUnlqOU1oTEg3cXVmelpFSWdWUXREZ3FEaDhneU93aXhTWGVRM3FHb0Vla3dYaEE1RWpRQlZkQTlfc1l0Rldlc0RzdGtoTi1nZW5ELV9VWi1tNFZQZ2UtdWNrX3VENFJDbUpPSmNWWHA2XzhXNVo3RHIxdHZ4aXE1MnR5UjJFNA?oc=5",
-      "publishedAt": "2026-10-13T18:06:00+08:00"
-    },
-    {
-      "title": "Nexo system wins applause at Iceland University of the Arts",
-      "source": "LSi Online",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ0MxcC04WUVSSE9jYktHLW1FeFdCRG1uN25RYWtWZU5EY0tlcG02QWdqanVXMjZzaFdmazRtcVkxZl8xNDltaXRuWnJuMFVmLXZ5dDhKOExVMHl1RGJrMWVjZlY4elV4VGROYTl1b1BETW5vMTFLOGdCZ21UbXZKM2lfMDREbHptbW1hdjlGaldicEgzX2c?oc=5",
-      "publishedAt": "2026-10-13T17:21:34+08:00"
     }
   ]
 }

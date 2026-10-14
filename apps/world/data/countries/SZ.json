@@ -1,7 +1,7 @@
 {
   "iso2": "SZ",
   "name": "Eswatini",
-  "updatedAt": "2026-10-14T17:07:41+08:00",
+  "updatedAt": "2026-10-14T23:04:29+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -29,6 +29,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Eswatini needs 90-day fuel storage capacity",
+      "source": "Times of Eswatini",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSjdKX1dBR0ZfYzU1RGd4dUtpeF9XZU5jOVgtWm9ZeWNpVGFZVENjMjE3R3o1N3A1cFh1Z1JEejNDakJZbTVSLXBGNEFteW4yMXB6T0NFSHVXNmc1ZDBtd2dzSmNNSWJqS3VweFA0OXpJeWhJbk44TUlyMWF4eG15Zg?oc=5",
+      "publishedAt": "2026-10-14T10:44:59+08:00"
+    },
     {
       "title": "Nursing professor teaches lifesaving skills in Eswatini",
       "source": "Greensboro News and Record",
@@ -70,12 +76,6 @@
       "source": "Focus Taiwan",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rZS1sR05LY3ZnSHg1RUtRUG1fRkR2R2M3QWJoZTZ1UE5XWFNfb0lvcEdPWUJpS2F6MFIzQmpFMFFQR2NMXzlpM0hmMllTa2kzNnlOVmRkZw?oc=5",
       "publishedAt": "2026-10-11T16:38:00+08:00"
-    },
-    {
-      "title": "Lai, Eswatini king visit Taiwan Army flight training command",
-      "source": "Taiwan News",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBjQW5lNFZkSEM4LUJNZTdENkkwZENoYk9RYnpxREpXUU9JdTZuY2lPMEdOcWhZREtQLUFyWmZaVnoxUDhzVkxGODQ1cWZua21pSjhLTUk1THQ?oc=5",
-      "publishedAt": "2026-10-11T15:46:36+08:00"
     }
   ]
 }
