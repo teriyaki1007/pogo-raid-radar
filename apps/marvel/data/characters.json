@@ -6949,7 +6949,8 @@
       "spoilers": "Bullseye murders him in Daredevil: Born Again, devastating Matt and Karen.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Foggy Nelson yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/foggy-nelson.jpg"
     },
     {
       "id": "karen-page",
@@ -6982,7 +6983,8 @@
       "spoilers": "She survives Fisk’s rise to mayor and Foggy’s murder, still fighting for the truth.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Karen Page yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/karen-page.jpg"
     },
     {
       "id": "white-vision",
@@ -7017,7 +7019,8 @@
       "rarity": "epic",
       "photoNote": "White Vision is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
       "typePrimary": "Tech",
-      "typeSecondary": "Cosmic"
+      "typeSecondary": "Cosmic",
+      "costumeArt": "img/costume/white-vision.jpg"
     },
     {
       "id": "billy-maximoff",
@@ -7051,7 +7054,8 @@
       "spoilers": "In Agatha All Along he seeks his twin and survives the Witches’ Road as Wiccan.",
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Billy Maximoff yet.",
-      "typePrimary": "Mystic"
+      "typePrimary": "Mystic",
+      "costumeArt": "img/costume/billy-maximoff.jpg"
     },
     {
       "id": "rio-vidal",
@@ -7086,7 +7090,8 @@
       "rarity": "legendary",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Rio Vidal yet.",
       "typePrimary": "Mystic",
-      "typeSecondary": "Mythic"
+      "typeSecondary": "Mythic",
+      "costumeArt": "img/costume/rio-vidal.jpg"
     },
     {
       "id": "lilia-calderu",
@@ -7119,7 +7124,8 @@
       "spoilers": "She confronts the Salem Seven and dies holding a prophetic line that saves others.",
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Lilia Calderu yet.",
-      "typePrimary": "Mystic"
+      "typePrimary": "Mystic",
+      "costumeArt": "img/costume/lilia-calderu.jpg"
     },
     {
       "id": "jennifer-kale",
@@ -7152,7 +7158,8 @@
       "spoilers": "She walks the Witches’ Road with Agatha’s coven and survives its trials.",
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Jennifer Kale yet.",
-      "typePrimary": "Mystic"
+      "typePrimary": "Mystic",
+      "costumeArt": "img/costume/jennifer-kale.jpg"
     },
     {
       "id": "jimmy-woo",
@@ -7185,7 +7192,8 @@
       "spoilers": "He helps free Westview’s civilians and remains an ally to powered people.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Jimmy Woo yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/jimmy-woo.jpg"
     },
     {
       "id": "mobius",
@@ -7220,7 +7228,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Mobius yet.",
       "typePrimary": "Skill",
-      "typeSecondary": "Tech"
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/mobius.jpg"
     },
     {
       "id": "ravonna",
@@ -7255,7 +7264,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ravonna Renslayer yet.",
       "typePrimary": "Tech",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/ravonna.jpg"
     },
     {
       "id": "he-who-remains",
@@ -7290,7 +7300,8 @@
       "rarity": "legendary",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for He Who Remains yet.",
       "typePrimary": "Tech",
-      "typeSecondary": "Cosmic"
+      "typeSecondary": "Cosmic",
+      "costumeArt": "img/costume/he-who-remains.jpg"
     },
     {
       "id": "miss-minutes",
@@ -7324,7 +7335,8 @@
       "spoilers": "She aids Ravonna and He Who Remains’ agenda, tormenting Loki and Sylvie.",
       "rarity": "common",
       "photoNote": "Miss Minutes is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
-      "typePrimary": "Tech"
+      "typePrimary": "Tech",
+      "costumeArt": "img/costume/miss-minutes.jpg"
     },
     {
       "id": "hunter-b15",
@@ -7359,7 +7371,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hunter B-15 yet.",
       "typePrimary": "Skill",
-      "typeSecondary": "Tech"
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/hunter-b15.jpg"
     },
     {
       "id": "classic-loki",
@@ -7394,7 +7407,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Classic Loki yet.",
       "typePrimary": "Mythic",
-      "typeSecondary": "Mystic"
+      "typeSecondary": "Mystic",
+      "costumeArt": "img/costume/classic-loki.jpg"
     },
     {
       "id": "thunderbolt-ross",
@@ -7428,7 +7442,8 @@
       "spoilers": "In Brave New World he transforms into Red Hulk; Sam Wilson’s Cap confronts him.",
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Thunderbolt Ross yet.",
-      "typePrimary": "Enhanced"
+      "typePrimary": "Enhanced",
+      "costumeArt": "img/costume/thunderbolt-ross.jpg"
     },
     {
       "id": "leader",
@@ -7462,7 +7477,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for The Leader yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Tech"
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/leader.jpg"
     },
     {
       "id": "betty-ross",
@@ -7495,7 +7511,8 @@
       "spoilers": "She helps Banner evade her father’s hunt and witnesses his control struggles.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Betty Ross yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/betty-ross.jpg"
     },
     {
       "id": "mister-fantastic",
@@ -7530,7 +7547,8 @@
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Mister Fantastic yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Tech"
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/mister-fantastic.jpg"
     },
     {
       "id": "invisible-woman",
@@ -7564,7 +7582,8 @@
       "spoilers": "She stands against Galactus’s threat and safeguards Franklin’s future.",
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Invisible Woman yet.",
-      "typePrimary": "Enhanced"
+      "typePrimary": "Enhanced",
+      "costumeArt": "img/costume/invisible-woman.jpg"
     },
     {
       "id": "human-torch",
@@ -7598,7 +7617,8 @@
       "spoilers": "He lights up the fight against Galactus’s herald and the cosmic siege.",
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Human Torch yet.",
-      "typePrimary": "Enhanced"
+      "typePrimary": "Enhanced",
+      "costumeArt": "img/costume/human-torch.jpg"
     },
     {
       "id": "the-thing",
@@ -7632,7 +7652,8 @@
       "spoilers": "He goes toe-to-toe with cosmic threats to save their world beside his family.",
       "rarity": "epic",
       "photoNote": "The Thing is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
-      "typePrimary": "Enhanced"
+      "typePrimary": "Enhanced",
+      "costumeArt": "img/costume/the-thing.jpg"
     },
     {
       "id": "galactus",
@@ -7666,7 +7687,8 @@
       "spoilers": "He demands a terrible price tied to Franklin Richards; the Four defy him.",
       "rarity": "legendary",
       "photoNote": "Galactus is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
-      "typePrimary": "Cosmic"
+      "typePrimary": "Cosmic",
+      "costumeArt": "img/costume/galactus.jpg"
     },
     {
       "id": "silver-surfer",
@@ -7700,7 +7722,8 @@
       "spoilers": "She heralds Galactus’s approach and becomes central to the Four’s cosmic confrontation.",
       "rarity": "legendary",
       "photoNote": "Silver Surfer is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
-      "typePrimary": "Cosmic"
+      "typePrimary": "Cosmic",
+      "costumeArt": "img/costume/silver-surfer.jpg"
     },
     {
       "id": "cassandra-nova",
@@ -7735,7 +7758,8 @@
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Cassandra Nova yet.",
       "typePrimary": "Mutant",
-      "typeSecondary": "Mystic"
+      "typeSecondary": "Mystic",
+      "costumeArt": "img/costume/cassandra-nova.jpg"
     },
     {
       "id": "paradox",
@@ -7769,7 +7793,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Paradox yet.",
       "typePrimary": "Tech",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/paradox.jpg"
     },
     {
       "id": "daisy-johnson",
@@ -7803,7 +7828,8 @@
       "spoilers": "She rises from Skye to Quake, leads teams across timelines, and remains S.H.I.E.L.D.’s seismic heart.",
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Daisy Johnson yet.",
-      "typePrimary": "Enhanced"
+      "typePrimary": "Enhanced",
+      "costumeArt": "img/costume/daisy-johnson.jpg"
     },
     {
       "id": "melinda-may",
@@ -7837,7 +7863,8 @@
       "spoilers": "She survives betrayals, LMD crises, and chronicom wars beside the team.",
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Melinda May yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/melinda-may.jpg"
     },
     {
       "id": "fitz",
@@ -7871,7 +7898,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Leo Fitz yet.",
       "typePrimary": "Tech",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/fitz.jpg"
     },
     {
       "id": "simmons",
@@ -7905,7 +7933,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Jemma Simmons yet.",
       "typePrimary": "Skill",
-      "typeSecondary": "Tech"
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/simmons.jpg"
     },
     {
       "id": "ghost-rider-aos",
@@ -7940,7 +7969,8 @@
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ghost Rider yet.",
       "typePrimary": "Mystic",
-      "typeSecondary": "Enhanced"
+      "typeSecondary": "Enhanced",
+      "costumeArt": "img/costume/ghost-rider-aos.jpg"
     },
     {
       "id": "yoyo",
@@ -7973,7 +8003,8 @@
       "spoilers": "She loses her arms to a future splinter, gains prosthetics, and helps stop the Chronicoms.",
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Yo-Yo Rodriguez yet.",
-      "typePrimary": "Enhanced"
+      "typePrimary": "Enhanced",
+      "costumeArt": "img/costume/yoyo.jpg"
     },
     {
       "id": "mack",
@@ -8008,7 +8039,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Alphonso Mackenzie yet.",
       "typePrimary": "Skill",
-      "typeSecondary": "Tech"
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/mack.jpg"
     },
     {
       "id": "enoch",
@@ -8043,7 +8075,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Enoch yet.",
       "typePrimary": "Tech",
-      "typeSecondary": "Cosmic"
+      "typeSecondary": "Cosmic",
+      "costumeArt": "img/costume/enoch.jpg"
     },
     {
       "id": "deke-shaw",
@@ -8078,7 +8111,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Deke Shaw yet.",
       "typePrimary": "Tech",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/deke-shaw.jpg"
     },
     {
       "id": "kora-aos",
@@ -8112,7 +8146,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Kora yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Cosmic"
+      "typeSecondary": "Cosmic",
+      "costumeArt": "img/costume/kora-aos.jpg"
     },
     {
       "id": "cloak",
@@ -8146,7 +8181,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Cloak yet.",
       "typePrimary": "Mystic",
-      "typeSecondary": "Cosmic"
+      "typeSecondary": "Cosmic",
+      "costumeArt": "img/costume/cloak.jpg"
     },
     {
       "id": "dagger",
@@ -8180,7 +8216,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Dagger yet.",
       "typePrimary": "Mystic",
-      "typeSecondary": "Cosmic"
+      "typeSecondary": "Cosmic",
+      "costumeArt": "img/costume/dagger.jpg"
     },
     {
       "id": "infinity-ultron",
@@ -8215,7 +8252,8 @@
       "rarity": "legendary",
       "photoNote": "Infinity Ultron is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
       "typePrimary": "Tech",
-      "typeSecondary": "Cosmic"
+      "typeSecondary": "Cosmic",
+      "costumeArt": "img/costume/infinity-ultron.jpg"
     },
     {
       "id": "captain-carter",
@@ -8250,7 +8288,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Captain Carter yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/captain-carter.jpg"
     },
     {
       "id": "party-thor",
@@ -8284,7 +8323,8 @@
       "spoilers": "He joins the Guardians of the Multiverse against Infinity Ultron after learning restraint.",
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Party Thor yet.",
-      "typePrimary": "Mythic"
+      "typePrimary": "Mythic",
+      "costumeArt": "img/costume/party-thor.jpg"
     },
     {
       "id": "alioth",
@@ -8319,7 +8359,8 @@
       "rarity": "legendary",
       "photoNote": "Alioth is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
       "typePrimary": "Cosmic",
-      "typeSecondary": "Mythic"
+      "typeSecondary": "Mythic",
+      "costumeArt": "img/costume/alioth.jpg"
     },
     {
       "id": "great-protector",
@@ -8354,7 +8395,8 @@
       "rarity": "epic",
       "photoNote": "Great Protector is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
       "typePrimary": "Mythic",
-      "typeSecondary": "Cosmic"
+      "typeSecondary": "Cosmic",
+      "costumeArt": "img/costume/great-protector.jpg"
     },
     {
       "id": "fenris",
@@ -8388,7 +8430,8 @@
       "spoilers": "Hulk battles Fenris on the Bifrost as Asgardians evacuate.",
       "rarity": "rare",
       "photoNote": "Fenris is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
-      "typePrimary": "Mythic"
+      "typePrimary": "Mythic",
+      "costumeArt": "img/costume/fenris.jpg"
     }
   ],
   "ratingsAsOf": "2026-10-14",
@@ -8413,109 +8456,221 @@
     "currency": "shards",
     "note": "Rates locked by Marvel Hub 2026-10-14. Stronger MCU ratings = lower pull rate. Bands retuned with roster v5."
   },
-  "dataBuild": "20261014portraits186",
+  "dataBuild": "20261014portraits229",
   "costumeArtBatch": {
     "asOf": "2026-10-14",
-    "count": 110,
+    "count": 229,
     "ids": [
       "abomination",
       "adam-warlock",
       "agatha-harkness",
       "ajak",
+      "aldrich-killian",
+      "alexander-pierce",
+      "alioth",
       "america-chavez",
+      "ancient-one",
       "ant-man",
       "arishem",
+      "arnim-zola",
+      "attuma-talokan",
+      "aunt-may",
       "ayesha",
+      "ayo",
+      "batroc",
+      "betty-ross",
+      "bill-foster",
+      "billy-maximoff",
       "black-knight",
       "black-panther",
       "black-widow",
+      "bullseye",
       "captain-america",
+      "captain-carter",
       "captain-marvel",
+      "cassandra-nova",
       "cassie-lang",
+      "christine-palmer",
+      "classic-loki",
+      "clea",
+      "cloak",
       "collector",
       "cosmo",
       "crossbones",
+      "dagger",
+      "daisy-johnson",
+      "dar-benn",
+      "darcy-lewis",
       "daredevil",
       "deadpool",
+      "death-dealer",
+      "deke-shaw",
+      "doc-ock",
       "doctor-strange",
       "dormammu",
       "drax",
       "druig",
+      "dweller-in-darkness",
+      "echo",
       "ego",
+      "electro-nwh",
+      "elektra",
+      "enoch",
+      "erik-selvig",
+      "everett-ross",
       "falcon",
       "fandral",
+      "fenris",
+      "fitz",
+      "flag-smasher",
+      "foggy-nelson",
       "frigga",
+      "galactus",
       "gamora",
       "ghost",
+      "ghost-rider-aos",
+      "giah",
       "gilgamesh",
       "gorr",
       "grandmaster",
+      "gravik",
+      "great-protector",
+      "green-goblin",
       "groot",
+      "hank-pym",
       "happy-hogan",
       "hawkeye",
+      "he-who-remains",
       "heimdall",
       "hela",
+      "helmut-zemo",
+      "hercules",
       "high-evolutionary",
+      "ho-yinsen",
       "hogun",
+      "howard-stark",
       "howard-the-duck",
       "hulk",
+      "human-torch",
+      "hunter-b15",
       "ikaris",
+      "infinity-ultron",
+      "invisible-woman",
+      "iron-fist",
       "iron-man",
+      "iron-monger",
       "ironheart",
+      "isaiah-bradley",
       "jane-foster",
+      "janet-van-dyne",
+      "jennifer-kale",
       "jessica-jones",
+      "jimmy-woo",
+      "joaquin-torres",
+      "john-walker",
+      "justin-hammer",
+      "kaecilius",
       "kang",
+      "karen-page",
       "kate-bishop",
+      "katy-chen",
+      "kilgrave",
       "killmonger",
       "kingo",
       "kingpin",
+      "klaue",
+      "kora-aos",
       "korath",
       "korg",
       "kraglin",
       "kro",
       "lady-sif",
+      "leader",
+      "lilia-calderu",
+      "lizard",
       "loki",
+      "luis",
       "luke-cage",
       "m-baku",
+      "mack",
       "makkari",
       "malekith",
       "mantis",
       "maria-hill",
+      "maria-rambeau",
+      "maria-stark",
+      "melina-vostokoff",
+      "melinda-may",
+      "michelle-jones",
+      "minn-erva",
+      "miss-minutes",
+      "mister-fantastic",
+      "mobius",
+      "modok",
       "monica-rambeau",
       "moon-knight",
+      "mordo",
+      "morris",
       "ms-marvel",
       "mysterio",
+      "nakia",
       "namor",
+      "namora",
       "nebula",
+      "ned-leeds",
       "nick-fury",
       "odin",
       "okoye",
+      "paradox",
+      "party-thor",
+      "peggy-carter",
       "pepper-potts",
       "phastos",
       "phil-coulson",
       "punisher",
       "quicksilver",
+      "ramonda",
+      "ravonna",
+      "razorfist",
+      "red-guardian",
       "red-skull",
+      "rintrah",
+      "rio-vidal",
       "rocket",
       "ronan",
+      "sandman",
       "scarlet-witch",
+      "sentry",
       "sersi",
       "shang-chi",
+      "sharon-carter",
       "she-hulk",
       "shuri",
+      "silver-surfer",
+      "simmons",
+      "skurge",
       "spider-man",
+      "spider-man-raimi",
+      "spider-man-webb",
       "sprite",
       "stakar-ogord",
       "star-lord",
       "surtur",
       "sylvie",
+      "talos",
       "taserface",
       "taskmaster",
+      "tchaka",
       "thanos",
+      "the-thing",
       "the-watcher",
       "thena",
       "thor",
+      "thunderbolt-ross",
+      "trevor-slattery",
+      "trish-walker",
       "ultron",
+      "valentina-de-fontaine",
       "valkyrie",
       "vision",
       "volstagg",
@@ -8523,66 +8678,111 @@
       "war-machine",
       "wasp",
       "wenwu",
+      "whiplash",
+      "white-vision",
       "winter-soldier",
       "wolverine",
       "wong",
+      "xialing",
       "yelena-belova",
-      "yondu"
+      "yellowjacket",
+      "yon-rogg",
+      "yondu",
+      "yoyo",
+      "zeus"
     ],
-    "note": "Marvel Hub costume set (110) — wired art under img/costume/",
+    "note": "Marvel Hub costume set (229) — full roster wired under img/costume/",
     "wiredIds": [
-      "ajak",
-      "arishem",
-      "ayesha",
-      "black-knight",
-      "cosmo",
-      "druig",
-      "fandral",
-      "frigga",
-      "gilgamesh",
-      "hogun",
-      "howard-the-duck",
-      "kingo",
-      "korath",
-      "kraglin",
-      "kro",
-      "lady-sif",
-      "makkari",
-      "malekith",
-      "phastos",
-      "sprite",
-      "stakar-ogord",
-      "taserface",
-      "the-watcher",
-      "volstagg"
+      "foggy-nelson",
+      "karen-page",
+      "white-vision",
+      "billy-maximoff",
+      "rio-vidal",
+      "lilia-calderu",
+      "jennifer-kale",
+      "jimmy-woo",
+      "mobius",
+      "ravonna",
+      "he-who-remains",
+      "miss-minutes",
+      "hunter-b15",
+      "classic-loki",
+      "thunderbolt-ross",
+      "leader",
+      "betty-ross",
+      "mister-fantastic",
+      "invisible-woman",
+      "human-torch",
+      "the-thing",
+      "galactus",
+      "silver-surfer",
+      "cassandra-nova",
+      "paradox",
+      "daisy-johnson",
+      "melinda-may",
+      "fitz",
+      "simmons",
+      "ghost-rider-aos",
+      "yoyo",
+      "mack",
+      "enoch",
+      "deke-shaw",
+      "kora-aos",
+      "cloak",
+      "dagger",
+      "infinity-ultron",
+      "captain-carter",
+      "party-thor",
+      "alioth",
+      "great-protector",
+      "fenris"
     ],
     "lastBatch": [
-      "ajak",
-      "gilgamesh",
-      "makkari",
-      "druig",
-      "phastos",
-      "kingo",
-      "sprite",
-      "black-knight",
-      "arishem",
-      "kro",
-      "cosmo",
-      "kraglin",
-      "stakar-ogord",
-      "ayesha",
-      "taserface",
-      "korath",
-      "howard-the-duck",
-      "the-watcher",
-      "frigga",
-      "lady-sif",
-      "volstagg",
-      "hogun",
-      "fandral",
-      "malekith"
+      "foggy-nelson",
+      "karen-page",
+      "white-vision",
+      "billy-maximoff",
+      "rio-vidal",
+      "lilia-calderu",
+      "jennifer-kale",
+      "jimmy-woo",
+      "mobius",
+      "ravonna",
+      "he-who-remains",
+      "miss-minutes",
+      "hunter-b15",
+      "classic-loki",
+      "thunderbolt-ross",
+      "leader",
+      "betty-ross",
+      "mister-fantastic",
+      "invisible-woman",
+      "human-torch",
+      "the-thing",
+      "galactus",
+      "silver-surfer",
+      "cassandra-nova",
+      "paradox",
+      "daisy-johnson",
+      "melinda-may",
+      "fitz",
+      "simmons",
+      "ghost-rider-aos",
+      "yoyo",
+      "mack",
+      "enoch",
+      "deke-shaw",
+      "kora-aos",
+      "cloak",
+      "dagger",
+      "infinity-ultron",
+      "captain-carter",
+      "party-thor",
+      "alioth",
+      "great-protector",
+      "fenris"
     ],
-    "lastBatchNote": "Hub portraits batch: eternals/guardians/asgard (+ Warriors Three / Malekith)"
+    "lastBatchNote": "Hub portraits final backfill (43): foggy-nelson through fenris — gallery complete"
   },
   "gachaBands": {
     "common": "<=55",
