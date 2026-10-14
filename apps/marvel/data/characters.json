@@ -6317,7 +6317,8 @@
       "spoilers": "Tony overloads the reactor; Pepper triggers a factory blast that kills Stane.",
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Iron Monger yet.",
-      "typePrimary": "Tech"
+      "typePrimary": "Tech",
+      "costumeArt": "img/costume/iron-monger.jpg"
     },
     {
       "id": "aldrich-killian",
@@ -6352,7 +6353,8 @@
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Aldrich Killian yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Tech"
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/aldrich-killian.jpg"
     },
     {
       "id": "justin-hammer",
@@ -6386,7 +6388,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Justin Hammer yet.",
       "typePrimary": "Tech",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/justin-hammer.jpg"
     },
     {
       "id": "ho-yinsen",
@@ -6420,7 +6423,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ho Yinsen yet.",
       "typePrimary": "Skill",
-      "typeSecondary": "Tech"
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/ho-yinsen.jpg"
     },
     {
       "id": "howard-stark",
@@ -6455,7 +6459,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Howard Stark yet.",
       "typePrimary": "Tech",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/howard-stark.jpg"
     },
     {
       "id": "maria-stark",
@@ -6487,7 +6492,8 @@
       "spoilers": "The Winter Soldier kills her with Howard; Tony watches the tape decades later.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Maria Stark yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/maria-stark.jpg"
     },
     {
       "id": "yellowjacket",
