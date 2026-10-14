@@ -5411,7 +5411,8 @@
       "spoilers": "Green Goblin mortally wounds her in No Way Home; her last words urge Peter that helping others still matters.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Aunt May yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/aunt-may.jpg"
     },
     {
       "id": "michelle-jones",
@@ -5444,7 +5445,8 @@
       "spoilers": "Strange’s final spell erases Peter’s identity from her memory.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Michelle Jones yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/michelle-jones.jpg"
     },
     {
       "id": "ned-leeds",
@@ -5478,7 +5480,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Ned Leeds yet.",
       "typePrimary": "Tech",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/ned-leeds.jpg"
     },
     {
       "id": "spider-man-raimi",
@@ -5512,7 +5515,8 @@
       "spoilers": "He helps cure the villains and returns home after the final battle.",
       "rarity": "rare",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Spider-Man (Raimi) yet.",
-      "typePrimary": "Enhanced"
+      "typePrimary": "Enhanced",
+      "costumeArt": "img/costume/spider-man-raimi.jpg"
     },
     {
       "id": "spider-man-webb",
