@@ -6076,7 +6076,8 @@
       "spoilers": "She kills the Dweller’s soul-sucker mid-air and later trains with Wong and Shang-Chi.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Katy Chen yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/katy-chen.jpg"
     },
     {
       "id": "death-dealer",
@@ -6109,7 +6110,8 @@
       "spoilers": "Shang-Chi defeats him in Macau; soul-eaters later kill him in Ta Lo.",
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Death Dealer yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/death-dealer.jpg"
     },
     {
       "id": "trevor-slattery",
@@ -6177,7 +6179,8 @@
       "rarity": "epic",
       "photoNote": "Dweller-in-Darkness is a CGI/voice or illustrated entry. No actor photo is used; illustrated avatar.",
       "typePrimary": "Mystic",
-      "typeSecondary": "Mythic"
+      "typeSecondary": "Mythic",
+      "costumeArt": "img/costume/dweller-in-darkness.jpg"
     },
     {
       "id": "morris",
