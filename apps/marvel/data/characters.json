@@ -4297,7 +4297,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Skurge yet.",
       "typePrimary": "Mythic",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/skurge.jpg"
     },
     {
       "id": "zeus",
@@ -4331,7 +4332,8 @@
       "spoilers": "Thor steals his thunderbolt; Zeus survives a wound and vows revenge via Hercules.",
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Zeus yet.",
-      "typePrimary": "Mythic"
+      "typePrimary": "Mythic",
+      "costumeArt": "img/costume/zeus.jpg"
     },
     {
       "id": "hercules",
@@ -4365,7 +4367,8 @@
       "rarity": "epic",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Hercules yet.",
       "typePrimary": "Mythic",
-      "typeSecondary": "Enhanced"
+      "typeSecondary": "Enhanced",
+      "costumeArt": "img/costume/hercules.jpg"
     },
     {
       "id": "darcy-lewis",
@@ -4398,7 +4401,8 @@
       "spoilers": "She helps Jane with the Convergence, later monitors Westview and names the Hex.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Darcy Lewis yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/darcy-lewis.jpg"
     },
     {
       "id": "erik-selvig",
@@ -4432,7 +4436,8 @@
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Erik Selvig yet.",
       "typePrimary": "Skill",
-      "typeSecondary": "Tech"
+      "typeSecondary": "Tech",
+      "costumeArt": "img/costume/erik-selvig.jpg"
     },
     {
       "id": "peggy-carter",
@@ -4466,7 +4471,8 @@
       "spoilers": "She helps defeat Hydra in WWII, co-founds S.H.I.E.L.D., and reunites with Steve when he returns the stones.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Peggy Carter yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/peggy-carter.jpg"
     },
     {
       "id": "sharon-carter",
@@ -4500,7 +4506,8 @@
       "spoilers": "She kisses Steve in Civil War, later becomes the Power Broker on Madripoor, then aids Sam against the Flag Smashers.",
       "rarity": "common",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for Sharon Carter yet.",
-      "typePrimary": "Skill"
+      "typePrimary": "Skill",
+      "costumeArt": "img/costume/sharon-carter.jpg"
     },
     {
       "id": "john-walker",
@@ -4535,7 +4542,8 @@
       "rarity": "uncommon",
       "photoNote": "Illustrated avatar: no freely licensed actor photo bundled for John Walker yet.",
       "typePrimary": "Enhanced",
-      "typeSecondary": "Skill"
+      "typeSecondary": "Skill",
+      "costumeArt": "img/costume/john-walker.jpg"
     },
     {
       "id": "helmut-zemo",
@@ -8337,7 +8345,7 @@
     "currency": "shards",
     "note": "Rates locked by Marvel Hub 2026-10-14. Stronger MCU ratings = lower pull rate. Bands retuned with roster v5."
   },
-  "dataBuild": "20261014portraits24",
+  "dataBuild": "20261014portraits32",
   "costumeArtBatch": {
     "asOf": "2026-10-14",
     "count": 110,
