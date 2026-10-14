@@ -329,3 +329,9 @@ footer a{color:#9fc4ff}
   .acct-chip{order:3;width:100%;margin:.35rem 0 0;justify-content:space-between}
   .acct-summary{max-width:none}
 }
+
+/* Owned-only fight gate */
+.own-gate-wrap{margin:0 0 1rem}
+.own-gate{padding:1rem 1.1rem;border-radius:16px;background:linear-gradient(135deg,rgba(226,54,54,.18),rgba(74,168,255,.1));border:1px solid rgba(226,54,54,.45)}
+.own-gate p{margin:.25rem 0}
+.own-gate-actions{display:flex;flex-wrap:wrap;gap:.5rem;margin-top:.65rem!important}

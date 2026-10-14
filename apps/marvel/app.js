@@ -283,8 +283,8 @@
       var hash = hashMap[name] || (location.pathname + location.search);
       history.replaceState(null, '', hash);
     }
-    if (name === 'arena') { updateOdds(); renderFighters(); }
-    if (name === 'party') { renderParty(); }
+    if (name === 'arena') { refreshOwnedPickers(); }
+    if (name === 'party') { fillPartySelect(); updateOwnGates(); renderParty(); }
     if (name === 'collection') { renderCollection(); }
     if (name === 'gacha') { renderGacha(); }
     if (name === 'account') { renderAccount(); }
@@ -324,20 +324,111 @@
   var sel = { A: 'iron-man', B: 'thanos' };
   var tally = { w: 0, l: 0 }, champSide = 'A';
   var running = false, timers = [], plan = null, currentFight = null;
+  var selectsBound = false;
+
+  /** Characters the current user may pick in Arena / Party (owned only). */
+  function ownedChars() {
+    if (!window.MarvelAccounts) return chars.slice();
+    return window.MarvelAccounts.ownedList(chars).map(function (o) { return o.char; });
+  }
+  function clampSelToOwned() {
+    var list = ownedChars();
+    var ids = list.map(function (c) { return c.id; });
+    if (!ids.length) return false;
+    if (ids.indexOf(sel.A) < 0) sel.A = ids[0];
+    if (ids.indexOf(sel.B) < 0) sel.B = ids.length > 1 ? ids[1] : ids[0];
+    return true;
+  }
+  function ownGateHtml(where) {
+    var A = window.MarvelAccounts;
+    var logged = A && A.currentUser();
+    var lead = logged
+      ? 'You need owned characters to fight here. Pull on Gacha to grow your roster.'
+      : 'Fighters must be from your collection. Register for a free starter pack, or sign in — then pull on Gacha.';
+    return '<div class="own-gate" role="status">' +
+      '<p><strong>Owned fighters only</strong> — ' + lead + '</p>' +
+      '<p class="own-gate-actions">' +
+      (logged ? '' : '<button type="button" class="btn primary" data-goto="account">Account / Register</button>') +
+      '<button type="button" class="btn' + (logged ? ' primary' : '') + '" data-goto="gacha">Open Gacha</button>' +
+      '<button type="button" class="btn ghost" data-goto="collection">Collection</button>' +
+      '</p></div>';
+  }
+  function updateOwnGates() {
+    var list = ownedChars();
+    var has = list.length > 0;
+    var ag = $('#arenaOwnGate');
+    var pg = $('#partyOwnGate');
+    if (ag) {
+      ag.hidden = has;
+      if (!has) ag.innerHTML = ownGateHtml('arena');
+    }
+    if (pg) {
+      pg.hidden = has;
+      if (!has) pg.innerHTML = ownGateHtml('party');
+    }
+    var fight = $('#fight'), random = $('#random');
+    if (fight) fight.disabled = !has || running;
+    if (random) random.disabled = !has || running;
+    $$('#panel-arena .pick-row select, #panel-arena [data-browse]').forEach(function (x) {
+      x.disabled = !has || running;
+    });
+    var pc = $('#partyChar'), pb = $('#partyBrowse');
+    if (pc) pc.disabled = !has;
+    if (pb) pb.disabled = !has;
+  }
+  function refreshOwnedPickers() {
+    fillSelects();
+    fillPartySelect();
+    updateOwnGates();
+    if (ownedChars().length) {
+      updateOdds();
+      renderFighters();
+    }
+  }
+  function bindOwnGateClicks(root) {
+    if (!root) return;
+    root.addEventListener('click', function (e) {
+      var b = e.target.closest('[data-goto]'); if (!b) return;
+      showTab(b.dataset.goto, true);
+    });
+  }
 
   function fillSelects() {
-    var opts = chars.slice().sort(function (a, b) { return a.name.localeCompare(b.name); })
-      .map(function (c) { return '<option value="' + c.id + '">' + esc(c.name) + ' (' + c.power + ')</option>'; }).join('');
+    var list = ownedChars().slice().sort(function (a, b) { return a.name.localeCompare(b.name); });
+    clampSelToOwned();
+    var opts = list.length
+      ? list.map(function (c) { return '<option value="' + c.id + '">' + esc(c.name) + ' (' + c.power + ')</option>'; }).join('')
+      : '<option value="">No owned fighters</option>';
     ['A', 'B'].forEach(function (s) {
-      var el = $('#sel' + s); el.innerHTML = opts; el.value = sel[s];
-      el.addEventListener('change', function () { if (running) { el.value = sel[s]; return; } sel[s] = el.value; resetStage(); });
+      var el = $('#sel' + s); if (!el) return;
+      el.innerHTML = opts;
+      if (list.length) el.value = sel[s];
+      if (!selectsBound) {
+        el.addEventListener('change', function () {
+          if (running) { el.value = sel[s]; return; }
+          if (!el.value) return;
+          sel[s] = el.value; resetStage();
+        });
+      }
     });
+    selectsBound = true;
   }
   function setFighter(side, id) {
     if (running) return;
+    if (window.MarvelAccounts && !window.MarvelAccounts.owns(id)) return;
     sel[side] = id; $('#sel' + side).value = id; resetStage();
   }
   function renderFighters() {
+    if (!clampSelToOwned()) {
+      ['A', 'B'].forEach(function (s) {
+        var el = $('#f' + s);
+        if (!el) return;
+        el.className = 'fighter';
+        el.innerHTML = '<div class="f-card muted"><span class="f-name">—</span></div>';
+      });
+      var ch = $('#champ'); if (ch) ch.textContent = '—';
+      return;
+    }
     ['A', 'B'].forEach(function (s) {
       var c = byId[sel[s]];
       var el = $('#f' + s);
@@ -352,6 +443,13 @@
     $('#champ').textContent = byId[sel[champSide]].name;
   }
   function updateOdds() {
+    if (!clampSelToOwned()) {
+      var oa = $('#oddsA'), ob = $('#oddsB'), om = $('#oddsMid');
+      if (oa) oa.textContent = '';
+      if (ob) ob.textContent = '';
+      if (om) om.textContent = 'own fighters to see odds';
+      return;
+    }
     var a = byId[sel.A], b = byId[sel.B];
     var p = B.winChance(a.power, b.power), pa = Math.round(p * 1000) / 10, pb = Math.round((1 - p) * 1000) / 10;
     $('#oddsA').innerHTML = '<strong>' + esc(a.name) + '</strong> ' + pa.toFixed(1) + '%';
@@ -371,10 +469,10 @@
     $('#banner').hidden = true;
     $('#roundLbl').textContent = 'VS';
     $('#log').textContent = 'Choose your fighters, then press Fight!';
-    $('#fight').hidden = false; $('#fight').disabled = false; $('#skip').hidden = true; $('#rematch').hidden = true; $('#again').hidden = true; $('#random').hidden = false;
-    $$('.pick-row select, [data-browse]').forEach(function (x) { x.disabled = false; });
+    $('#fight').hidden = false; $('#skip').hidden = true; $('#rematch').hidden = true; $('#again').hidden = true; $('#random').hidden = false;
     stopConfetti();
     updateOdds(); renderFighters();
+    updateOwnGates();
   }
 
   function setHp(side, hp) {
@@ -387,6 +485,11 @@
 
   function startFight() {
     if (running) return;
+    if (!clampSelToOwned()) {
+      updateOwnGates();
+      var log = $('#log'); if (log) log.textContent = 'Own some fighters first — register or pull on Gacha.';
+      return;
+    }
     var a = byId[sel.A], b = byId[sel.B];
     var side = B.drawWinner(a.power, b.power);               // decided BEFORE animating
     plan = B.planFight(a, b, side);
@@ -458,7 +561,7 @@
     $('#banner').hidden = false;
     $('#log').textContent = lc.name + ' is down. ' + wc.name + ' stands victorious!';
     $('#skip').hidden = true; $('#rematch').hidden = false; $('#again').hidden = false; $('#random').hidden = false;
-    $$('.pick-row select, [data-browse]').forEach(function (x) { x.disabled = false; });
+    updateOwnGates();
     if (!reduce.matches) startConfetti(wc.theme);
     if (window.MarvelAccounts) {
       var reward = window.MarvelAccounts.grantBattleReward('arena', mine);
@@ -478,15 +581,27 @@
   }
   function randomPair() {
     if (running) return;
-    var a = chars[Math.floor(Math.random() * chars.length)], b;
-    do { b = chars[Math.floor(Math.random() * chars.length)]; } while (b === a);
+    var list = ownedChars();
+    if (!list.length) { updateOwnGates(); return; }
+    var a = list[Math.floor(Math.random() * list.length)], b;
+    if (list.length === 1) b = a;
+    else do { b = list[Math.floor(Math.random() * list.length)]; } while (b === a);
     sel.A = a.id; sel.B = b.id; $('#selA').value = a.id; $('#selB').value = b.id; resetStage();
   }
 
   function browse(side) {
-    var html = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">Pick Fighter ' + side + '</h3><p class="alias">Choose a character for the arena</p></div>' +
+    var list = ownedChars().slice().sort(function (a, b) { return a.name.localeCompare(b.name); });
+    if (!list.length) {
+      var emptyHtml = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">No owned fighters</h3><p class="alias">Arena uses your collection only</p></div>' +
+        '<button type="button" class="x" data-close data-autofocus aria-label="Close (Esc)">&times;</button></div>' +
+        '<div class="dlg-body">' + ownGateHtml('arena') + '</div>';
+      openDialog(emptyHtml, document.activeElement);
+      bindOwnGateClicks($('.dlg-body', dialog));
+      return;
+    }
+    var html = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">Pick Fighter ' + side + '</h3><p class="alias">Owned characters only</p></div>' +
       '<button type="button" class="x" data-close data-autofocus aria-label="Close (Esc)">&times;</button></div>' +
-      '<div class="dlg-body"><div class="pick-grid">' + chars.slice().sort(function (a, b) { return a.name.localeCompare(b.name); }).map(function (c) {
+      '<div class="dlg-body"><div class="pick-grid">' + list.map(function (c) {
         return '<button type="button" class="mini-card" data-id="' + c.id + '" style="--a:' + c.theme.accent + '">' + art(c) + '<span>' + esc(c.name) + '</span></button>';
       }).join('') + '</div></div>';
     openDialog(html, document.activeElement);
@@ -525,9 +640,13 @@
   }
   function fillPartySelect() {
     var el = $('#partyChar'); if (!el) return;
-    var opts = chars.slice().sort(function (a, b) { return a.name.localeCompare(b.name); })
-      .map(function (c) { return '<option value="' + c.id + '">' + esc(c.name) + ' (' + c.power + ')</option>'; }).join('');
+    var list = ownedChars().slice().sort(function (a, b) { return a.name.localeCompare(b.name); });
+    var prev = el.value;
+    var opts = list.map(function (c) {
+      return '<option value="' + c.id + '">' + esc(c.name) + ' (' + c.power + ')</option>';
+    }).join('');
     el.innerHTML = '<option value="">Choose…</option>' + opts;
+    if (prev && list.some(function (c) { return c.id === prev; })) el.value = prev;
   }
   function ensureParty(cb) {
     if (typeof window.Peer !== 'function') {
@@ -686,12 +805,27 @@
     $('#partyChar').addEventListener('change', function () {
       if (!party) return;
       var id = $('#partyChar').value;
-      if (id) party.pickCharacter(id);
+      if (!id) return;
+      if (window.MarvelAccounts && !window.MarvelAccounts.owns(id)) {
+        updateOwnGates();
+        fillPartySelect();
+        return;
+      }
+      party.pickCharacter(id);
     });
     $('#partyBrowse').addEventListener('click', function () {
-      var html = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">Pick your fighter</h3><p class="alias">Party battle roster</p></div>' +
+      var list = ownedChars().slice().sort(function (a, b) { return a.name.localeCompare(b.name); });
+      if (!list.length) {
+        var emptyHtml = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">No owned fighters</h3><p class="alias">Party uses your collection only</p></div>' +
+          '<button type="button" class="x" data-close data-autofocus aria-label="Close (Esc)">&times;</button></div>' +
+          '<div class="dlg-body">' + ownGateHtml('party') + '</div>';
+        openDialog(emptyHtml, document.activeElement);
+        bindOwnGateClicks($('.dlg-body', dialog));
+        return;
+      }
+      var html = '<div class="dlg-hero slim"><div class="dlg-head"><h3 id="dlgTitle">Pick your fighter</h3><p class="alias">Owned characters only</p></div>' +
         '<button type="button" class="x" data-close data-autofocus aria-label="Close (Esc)">&times;</button></div>' +
-        '<div class="dlg-body"><div class="pick-grid">' + chars.slice().sort(function (a, b) { return a.name.localeCompare(b.name); }).map(function (c) {
+        '<div class="dlg-body"><div class="pick-grid">' + list.map(function (c) {
           return '<button type="button" class="mini-card" data-id="' + c.id + '" style="--a:' + c.theme.accent + '">' + art(c) + '<span>' + esc(c.name) + '</span></button>';
         }).join('') + '</div></div>';
       openDialog(html, document.activeElement);
@@ -803,7 +937,7 @@
       A.register(fd.get('user'), fd.get('pass')).then(function () {
         $('#acctMsg').textContent = 'Welcome! Starter pack unlocked.';
         e.target.reset();
-        renderAccount(); refreshAcctChip();
+        renderAccount(); refreshAcctChip(); refreshOwnedPickers();
       }).catch(function (err) { $('#acctMsg').textContent = err.message || String(err); });
     });
     $('#formLogin').addEventListener('submit', function (e) {
@@ -813,11 +947,11 @@
       A.login(fd.get('user'), fd.get('pass')).then(function () {
         $('#acctMsg').textContent = 'Signed in.';
         e.target.reset();
-        renderAccount(); refreshAcctChip();
+        renderAccount(); refreshAcctChip(); refreshOwnedPickers();
       }).catch(function (err) { $('#acctMsg').textContent = err.message || String(err); });
     });
     $('#acctLogout').addEventListener('click', function () {
-      A.logout(); renderAccount(); refreshAcctChip();
+      A.logout(); renderAccount(); refreshAcctChip(); refreshOwnedPickers();
       $('#acctMsg').textContent = 'Signed out. Guest progress is separate.';
     });
     $('#collectionGrid').addEventListener('click', function (e) {
@@ -825,9 +959,11 @@
     });
     $('#gachaPull1').addEventListener('click', function () {
       showPullResults(A.doPull(chars, 1));
+      refreshOwnedPickers();
     });
     $('#gachaPull10').addEventListener('click', function () {
       showPullResults(A.doPull(chars, 10));
+      refreshOwnedPickers();
     });
     refreshAcctChip();
   }
@@ -866,16 +1002,28 @@
     return r.json();
   }).then(function (d) {
     chars = d.characters; chars.forEach(function (c) { byId[c.id] = c; });
-    buildControls(); bindTabs(); fillSelects(); bindArena(); bindParty(); bindAccount(); renderGrid();
-    $('#champ').textContent = byId[sel.A].name;
-    syncSpoilChecks(); refreshAcctChip();
-    if (location.hash === '#credits') showTab('credits');
-    else if (location.hash === '#arena') showTab('arena');
-    else if (location.hash === '#party') showTab('party');
-    else if (location.hash === '#gacha') showTab('gacha');
-    else if (location.hash === '#collection') showTab('collection');
-    else if (location.hash === '#account') showTab('account');
-    else { updateOdds(); renderFighters(); }
+    function boot() {
+      buildControls(); bindTabs(); fillSelects(); bindArena(); bindParty(); bindAccount();
+      bindOwnGateClicks($('#arenaOwnGate')); bindOwnGateClicks($('#partyOwnGate'));
+      renderGrid(); refreshOwnedPickers();
+      syncSpoilChecks(); refreshAcctChip();
+      if (location.hash === '#credits') showTab('credits');
+      else if (location.hash === '#arena') showTab('arena');
+      else if (location.hash === '#party') showTab('party');
+      else if (location.hash === '#gacha') showTab('gacha');
+      else if (location.hash === '#collection') showTab('collection');
+      else if (location.hash === '#account') showTab('account');
+      else { updateOdds(); renderFighters(); updateOwnGates(); }
+    }
+    var ids = chars.map(function (c) { return c.id; });
+    if (window.MarvelAccounts && window.MarvelAccounts.ensureSeedAccount) {
+      window.MarvelAccounts.ensureSeedAccount(ids).then(boot).catch(function (err) {
+        console.warn('Seed account setup failed', err);
+        boot();
+      });
+    } else {
+      boot();
+    }
   }).catch(function (err) {
     $('#grid').innerHTML = '<p class="empty">Could not load character data (' + esc(err.message) + '). Serve this page over http(s), not file://.</p>';
   });

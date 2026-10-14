@@ -15,6 +15,8 @@
   var DUP_SHARDS = { common: 8, uncommon: 15, rare: 30, epic: 60, legendary: 120 };
   var STARTER_SHARDS = 300;
   var STARTER_OWNED = ['hawkeye', 'black-widow', 'happy-hogan', 'falcon', 'ant-man'];
+  var SEED_USER = 'marvelhub';
+  var SEED_PASS = 'marvelallcharacters';
 
   function nowIso() { return new Date().toISOString(); }
 
@@ -277,6 +279,33 @@
     return { ok: true, cost: cost, results: results, progress: p };
   }
 
+  /** Built-in seed login: marvelhub / marvelallcharacters owns the full roster.
+   *  Called on app init. Creates the account on fresh browsers; on existing browsers
+   *  re-applies the known password hash and fills any missing ownership. */
+  function ensureSeedAccount(allIds) {
+    allIds = allIds || [];
+    var username = normalizeUser(SEED_USER);
+    var acc = loadAccounts();
+    var prev = acc.users[username];
+    var salt = randomSalt();
+    return hashPassword(SEED_PASS, salt).then(function (hash) {
+      acc.users[username] = {
+        salt: salt,
+        hash: hash,
+        createdAt: (prev && prev.createdAt) || nowIso(),
+        seed: true
+      };
+      saveAccounts(acc);
+      var p = loadProgress(username);
+      allIds.forEach(function (id) {
+        if (!p.owned[id]) p.owned[id] = 1;
+      });
+      if (!p.shards || p.shards < STARTER_SHARDS) p.shards = Math.max(p.shards || 0, STARTER_SHARDS);
+      saveProgress(username, p);
+      return { username: username, progress: p };
+    });
+  }
+
   function owns(id) {
     var p = progress();
     return !!(p.owned && p.owned[id]);
@@ -295,6 +324,7 @@
     PULL_COST: PULL_COST,
     MULTI_COST: MULTI_COST,
     STARTER_SHARDS: STARTER_SHARDS,
+    SEED_USER: SEED_USER,
     register: register,
     login: login,
     logout: logout,
@@ -308,6 +338,7 @@
     doPull: doPull,
     owns: owns,
     ownedList: ownedList,
+    ensureSeedAccount: ensureSeedAccount,
     normalizeUser: normalizeUser,
     DUP_SHARDS: DUP_SHARDS
   };

@@ -23,3 +23,10 @@ Batch 2: hawkeye, ant-man, wasp, vision, falcon, winter-soldier, war-machine, st
 gamora, drax, rocket, groot. Site prefers costumeArt over actor photos.
 Batch 3: nebula, mantis, shang-chi, wong, ultron, hela, killmonger, ego, red-skull, ronan,
 kang, namor.
+
+Owned-only Arena/Party (2026-10-14 owned1):
+- Fighter picks (select + browse + random) use MarvelAccounts.owned only.
+- Guests / empty collection see CTA to Account + Gacha; Fight disabled until owned ≥ 1.
+- Seed account ensureSeedAccount() on init: username marvelhub / password marvelallcharacters
+  (SHA-256 salted same as register). Creates or refreshes full roster ownership in localStorage.
+  Fresh browsers get the account automatically; login with those creds to use all 86.
