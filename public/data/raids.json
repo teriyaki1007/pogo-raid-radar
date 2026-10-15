@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-10-15",
-    "asOfLabel": "15 Oct 2026 ~6:40 AM HKT",
+    "asOfLabel": "15 Oct 2026 ~10:40 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE now (Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local): Dialga 5★ + Mega Dragonite. Dialga Raid Hour Wed 14 Oct 6–7 PM local has ended. Dialga-window 1★/3★ (Leek Duck + GO Hub aligned): Galarian Slowpoke, Hisuian Voltorb, Nincada, Beldum / Hisuian Arcanine, Snorlax, Kleavor. Shadow Landorus (Incarnate) continues through 3 Nov (Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion). Fall Marathon: Buddy Trek is LIVE (Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM) — Bramblin debut; boost shiny Electrike. Today Thu 15 Oct 6–7 PM: Spotlight Stufful (wild only). Sat 17 Oct 11 AM–5 PM: Sandile Hatch Day. Then: Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM): 1★ Pikachu hat+capelet + Sinistea bow (shiny debuts).",
-      "endsAtLabel": "Dialga + Mega Dragonite → Tue 20 Oct 10:00 PM · Fall Marathon → Mon 19 Oct 8:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Spotlight Stufful today 6–7 PM"
+      "text": "LIVE now (Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local): Dialga 5★ + Mega Dragonite. Dialga-window 1★/3★ (Leek Duck + GO Hub aligned): Galarian Slowpoke, Hisuian Voltorb, Nincada, Beldum / Hisuian Arcanine, Snorlax, Kleavor. Shadow Landorus (Incarnate) continues through 3 Nov (Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion). Fall Marathon: Buddy Trek is LIVE (Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM) — Bramblin debut; boost shiny Electrike (boosted shiny Hisuian Growlithe from Incense from Fri 16 Oct 10 AM). Stufful Spotlight (Thu 15 Oct 6–7 PM) has ended. Next: Sat 17 Oct 11 AM–5 PM Sandile Hatch Day; Mon 19 Oct 6 AM–9 PM Max Monday Dynamax Sneasel. Then: Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM): 1★ Pikachu hat+capelet + Sinistea bow (shiny debuts).",
+      "endsAtLabel": "Dialga + Mega Dragonite → Tue 20 Oct 10:00 PM · Fall Marathon → Mon 19 Oct 8:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Sandile Hatch Day → Sat 17 Oct 11 AM–5 PM"
     },
     "legend": {
       "standard": {
@@ -1729,9 +1729,9 @@
     },
     {
       "id": "spotlight-stufful",
-      "when": "Thu 15 Oct 6:00–7:00 PM local (upcoming)",
-      "title": "Spotlight: Stufful (upcoming)",
-      "impact": "Wild spotlight only — not a raid event.",
+      "when": "Thu 15 Oct 6:00–7:00 PM local (ended)",
+      "title": "Spotlight: Stufful (ended)",
+      "impact": "Ended. Wild spotlight only — not a raid event.",
       "urgent": false
     },
     {
@@ -1753,6 +1753,13 @@
       "when": "Sat 17 Oct 11:00 AM – 5:00 PM local (upcoming)",
       "title": "Sandile Hatch Day (upcoming)",
       "impact": "2 km Eggs collected during the window hatch Sandile much more frequently with an increased shiny Sandile chance; 2× Hatch Candy; ½ Egg Hatch Distance (¼ with paid Timed Research ticket); more 2 km Eggs from PokéStops (GO Hub / official news). Egg-focused — not a raid rotation change.",
+      "urgent": false
+    },
+    {
+      "id": "max-monday-sneasel-oct19",
+      "when": "Mon 19 Oct 6:00 AM – 9:00 PM local (upcoming); Dynamax Sneasel also in Max Battles through ~Sun 25 Oct",
+      "title": "Max Monday / Dynamax Sneasel (upcoming)",
+      "impact": "Featured Max Monday: Dynamax Sneasel (Leek Duck). Denser Power Spots Mon 6:00 AM–9:00 PM local. Sneasel may appear in Max Battles Oct 19–25. Dark/Ice — weak to Fighting, Rock, Bug, Steel, Fire, Fairy (×2 Fighting vs Dark+Ice). Shiny-eligible per event notes. Not a Gym raid change.",
       "urgent": false
     },
     {
