@@ -1,7 +1,7 @@
 {
   "meta": {
-    "asOf": "2026-10-16",
-    "asOfLabel": "16 Oct 2026 ~10:30 PM HKT",
+    "asOf": "2026-10-17",
+    "asOfLabel": "17 Oct 2026 ~6:30 AM HKT",
     "season": "Twilight Trails",
     "seasonWindow": "Tue 8 Sep 2026 10:00 AM – Tue 1 Dec 2026 10:00 AM local",
     "sources": [
@@ -28,7 +28,8 @@
       "Shiny flags re-synced to Leek Duck eggs chart (14 Sep 2026) + ScrapedDuck: Larvesta (2/5/10 km), Tadbulb (2 km), Varoom (12 km) marked shiny; Sobble not shiny on chart.",
       "4 Oct ~10:30 PM HKT refresh: egg distance pools still match Leek Duck (14 Sep 2026) + ScrapedDuck; no pool species changes. World Space Week does not alter egg pools.",
       "11 Oct ~6:40 AM HKT refresh: seasonal pools still match Leek Duck (14 Sep 2026). World Space Week / Zorua CD ended; no event egg override active. Sandile Hatch Day still upcoming (17 Oct).",
-      "15 Oct ~6:40 AM HKT refresh: seasonal pools still match Leek Duck (Updated 14 Sep 2026). No event egg override active. Sandile Hatch Day still upcoming Sat 17 Oct 11:00 AM–5:00 PM local."
+      "15 Oct ~6:40 AM HKT refresh: seasonal pools still match Leek Duck (Updated 14 Sep 2026). No event egg override active. Sandile Hatch Day still upcoming Sat 17 Oct 11:00 AM–5:00 PM local.",
+      "17 Oct ~6:30 AM HKT refresh: seasonal pools still match Leek Duck (Updated 14 Sep 2026). No event egg override active yet (pre-11 AM). Sandile Hatch Day is TODAY Sat 17 Oct 11:00 AM–5:00 PM local."
     ]
   },
   "eggs": [
@@ -924,5 +925,5 @@
     }
   ],
   "eventEggs": [],
-  "eventEggsNote": "No limited-time event egg pools active right now — Twilight Trails seasonal pools apply (Leek Duck eggs chart dated 14 Sep 2026). Tomorrow: Sandile Hatch Day, Sat 17 Oct 11:00 AM – 5:00 PM local — Sandile hatches much more frequently from 2 km Eggs with an increased shiny Sandile chance, plus 2× hatch Candy, ½ hatch distance (¼ with the paid Timed Research ticket) and more 2 km Eggs from PokéStops (Leek Duck / official news)."
+  "eventEggsNote": "No limited-time event egg pools active right now — Twilight Trails seasonal pools apply (Leek Duck eggs chart dated 14 Sep 2026). TODAY: Sandile Hatch Day, Sat 17 Oct 11:00 AM – 5:00 PM local — Sandile hatches much more frequently from 2 km Eggs with an increased shiny Sandile chance, plus 2× hatch Candy, ½ hatch distance (¼ with the paid Timed Research ticket) and more 2 km Eggs from PokéStops (Leek Duck / official news). Starts 11:00 AM local."
 }

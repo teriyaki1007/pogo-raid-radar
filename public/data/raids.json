@@ -1,12 +1,12 @@
 {
   "meta": {
-    "asOf": "2026-10-16",
-    "asOfLabel": "16 Oct 2026 ~10:30 PM HKT",
+    "asOf": "2026-10-17",
+    "asOfLabel": "17 Oct 2026 ~6:30 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE now (Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local): Dialga 5★ + Mega Dragonite. Dialga-window 1★/3★ (Leek Duck + PokéBase aligned): Galarian Slowpoke, Hisuian Voltorb, Nincada, Beldum / Hisuian Arcanine, Snorlax, Kleavor. Shadow Landorus (Incarnate) continues through 3 Nov (Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion). Fall Marathon: Buddy Trek is LIVE (Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM) — Bramblin debut; boosted shiny Electrike; boosted shiny Hisuian Growlithe from Incense is LIVE now (Fri 16 Oct 10:00 AM – Mon 19 Oct 8:00 PM; Incense pool: Hisuian Growlithe, Nincada, Electrike, Helioptile, Bramblin). Tomorrow Sat 17 Oct 11:00 AM–5:00 PM: Sandile Hatch Day (boosted Sandile from 2 km Eggs + shiny rate; 2× hatch Candy; ½ hatch distance). Mon 19 Oct 6 AM–9 PM: Max Monday Dynamax Sneasel. Then: Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM): 1★ Pikachu hat+capelet + Sinistea bow (shiny debuts).",
+      "text": "LIVE now (Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local): Dialga 5★ + Mega Dragonite. Dialga-window 1★/3★ (Leek Duck + PokéBase aligned): Galarian Slowpoke, Hisuian Voltorb, Nincada, Beldum / Hisuian Arcanine, Snorlax, Kleavor. Shadow Landorus (Incarnate) continues through 3 Nov (Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion). Fall Marathon: Buddy Trek is LIVE (Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM) — Bramblin debut; boosted shiny Electrike; boosted shiny Hisuian Growlithe from Incense is LIVE now (Fri 16 Oct 10:00 AM – Mon 19 Oct 8:00 PM; Incense pool: Hisuian Growlithe, Nincada, Electrike, Helioptile, Bramblin). TODAY Sat 17 Oct 11:00 AM–5:00 PM: Sandile Hatch Day (boosted Sandile from 2 km Eggs + increased shiny chance; 2× hatch Candy; ½ hatch distance / ¼ with paid ticket; more 2 km Eggs from PokéStops). Mon 19 Oct 6 AM–9 PM: Max Monday Dynamax Sneasel. Then: Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM): 1★ Pikachu hat+capelet + Sinistea bow (shiny debuts).",
       "endsAtLabel": "Sandile Hatch Day → Sat 17 Oct 11 AM–5 PM · Dialga + Mega Dragonite → Tue 20 Oct 10:00 PM · Fall Marathon → Mon 19 Oct 8:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM"
     },
     "legend": {
@@ -1750,9 +1750,9 @@
     },
     {
       "id": "sandile-hatch-day",
-      "when": "Sat 17 Oct 11:00 AM – 5:00 PM local (tomorrow)",
-      "title": "Sandile Hatch Day (tomorrow)",
-      "impact": "Tomorrow: 2 km Eggs collected during the window hatch Sandile much more frequently with an increased shiny Sandile chance; 2× Hatch Candy; ½ Egg Hatch Distance (¼ with paid Timed Research ticket); more 2 km Eggs from PokéStops (Leek Duck / GO Hub / official news). Egg-focused — not a raid rotation change.",
+      "when": "Sat 17 Oct 11:00 AM – 5:00 PM local (today)",
+      "title": "Sandile Hatch Day (today)",
+      "impact": "Today 11:00 AM–5:00 PM local: 2 km Eggs collected during the window hatch Sandile much more frequently with an increased shiny Sandile chance; 2× Hatch Candy; ½ Egg Hatch Distance (¼ with paid Timed Research ticket); more 2 km Eggs from PokéStops (Leek Duck / GO Hub / official news). Egg-focused — not a raid rotation change.",
       "urgent": true
     },
     {
