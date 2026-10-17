@@ -1,7 +1,7 @@
 {
   "iso2": "BG",
   "name": "Bulgaria",
-  "updatedAt": "2026-10-17T05:04:57+08:00",
+  "updatedAt": "2026-10-17T11:11:30+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Bulgaria seeks stronger NATO military presence amid growing Black Sea threats",
+      "source": "A News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOUFwQUR2c2Znd253SUprdDZUdExTczZfazRScjhHZWkzWjk5VjVLU3pfTjJEOHU4aUcwbWtRa2Y1YVF6M3E0cHoyam5iNzB3anhaWHowT1JTRlFTS0xuYlczNktMLXBYWGkxXzM3dV9udkhGcTdjLTMycEo2WGdMNnZzWF96Qy1PUy1wYTdiTDNKcWlSTlVTdVFkZF9zYzlsTkV3V3h2UXowZUwwVEV2NEsyMTdGUWJoU0dN0gHAAUFVX3lxTE40MlN2UUV1YzNkTmlPRDFPVmY4WHkyTzdITUhUNnJWaFNYVlRsSEpjcDg0Sk1YSGRLX1JLbGc4ZkJXOVlmZkpkdDZnYUtsTmJydGM4VE9penQ3eUNtbXUweWZxNjV2aVZlVmdhcjkwaWFXNVE1cmdSMzBtdXc2UmtINzlRM2N5RjE0a0pac1RhRUVaZ3ZMdl9KaTBPU2EwaDdIMVl6VTZiX2M3SUotcEczQ3l6TG1JRlh5TlVFMU1XUg?oc=5",
+      "publishedAt": "2026-10-17T09:48:14+08:00"
+    },
+    {
+      "title": "North Macedonia puts railway to Bulgaria to tender",
+      "source": "megaproject.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd29BNkY4TV9oWi03TFFOeHl2cE5scVZnREhBb2ZKZURHU2tYVHM3MXFwdmpRQ3NmX2NxaU9fSG9FNlFoZ2dub0N1dmtfSnVHRDJpbTRGalZ6em5USzRuT2xQV1dfc0tCY2pZSlRibE9JMEtQWDhFd2xXVlJHSWZlNE0waXZQWEdLLU9YanV1Ry0?oc=5",
+      "publishedAt": "2026-10-17T09:38:39+08:00"
+    },
+    {
+      "title": "Clocks in Bulgaria change to winter time on October 25 2026",
+      "source": "The Sofia Globe",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeGE0R2FjS0hnYWZJRHVvRGlIcXNQbXUyMU9MLUNsaVlGclRNa0lBZGt4OUxfU3ZEQ3UzbDVTMlRLNDhsdm9lSDlZVGZ2UEgtaENTdFpZMlgzdFZWbmllTWtEY3ZFZHA5TEhMZGpLMnowaXY4X1o5dU91dF9JbVhkcjdncW90RkV6c2doRk84M0ZiNTl5dUxBSUtn?oc=5",
+      "publishedAt": "2026-10-17T05:28:45+08:00"
+    },
+    {
       "title": "Bratislava marks 100 years of academic study of Bulgarian",
       "source": "БНР Новини",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGxzSHpQek1wSHV1V1hGbWs2SWotbmdzaHZnZ0UtNVFuREJMZm5JUG9FSHhDb29DUHBHZmFwcEtPY1R5SU1oVHM2bXQ3aGxFLU9EYXNHczBNYmJ2YWhxdFVMWTgySEo5SzVEZWxzYldLVktUZG1TVTJyMWFnMXJzZEppTFV3bExNMGpuS1d1TlV3UVpZVXc?oc=5",
       "publishedAt": "2026-10-17T03:43:25+08:00"
-    },
-    {
-      "title": "Russia's war reaches Bulgaria's shores, putting Radev's Moscow-friendly stance to the test",
-      "source": "The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVGdjNHhIN2gwM1ZJQ3pBS1BVbVVZdVlWRXRDamlsX3pNU2JxRWNRTFdHNEZKZ1ROVFRVX1NJSm1KZEY4ZHBhWEMzSGJTbExaUWNRY01uaS13ek0wRDFCd2c3bUN1M3JFMjRCQms3UmY5YjRvbjdiN3NrbG5SSWlMYzNTRXNTeHdFZFE1QXlYMncwcG04SXdVSXdrTGhESGw0LU5CeWRMVExIakk3aHhzTEM0dEVldw?oc=5",
-      "publishedAt": "2026-10-17T02:53:16+08:00"
     },
     {
       "title": "Bulgaria asks NATO to deploy assets after Black Sea attacks",
@@ -54,28 +66,16 @@
       "publishedAt": "2026-10-17T02:13:11+08:00"
     },
     {
+      "title": "World in Brief: Zelensky rallies European leaders; Bulgaria requests NATO support",
+      "source": "The Economist",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRzVwRV9wYXo3RkEzb3pfZEY2U0NPeEVFLUdPNjdTVmVZYXBDTGRKR1U0akhHUmpWOXgzaUNUOFdxMUZwTWtWTUYxSWYxWWlRa0RpbkpxaEFtWDhrdW1vbWNqRndPb2E3NkxIeWo3c09MXzc2b3hlenBxdndvRWRUR1J1THU3UXYyVW85WGx1cjdPLVJtZ1BR?oc=5",
+      "publishedAt": "2026-10-17T01:59:46+08:00"
+    },
+    {
       "title": "Bulgaria and Romania Continue Black Sea Searches After Attacks",
       "source": "The Maritime Executive",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcjAyN203SGViREcwamVsbldZTE5KQ0UzSF83VEUxUDVoQkE5elZqYjEtOVhNYm1sXzBCRFlSRnFvaTZVNkhMZjJCMlVqdE9Ha1ppV3hfeXVJSHBnajhYWE9jWC1sbUFFUG5scm1ZclBuXzR6UTVjbDdQYjhSM21jSG5FV0RkYUNST2o5Ui1oYkpPbFU0cE50Nmpnd1A0dUNvVVBv?oc=5",
       "publishedAt": "2026-10-17T01:52:06+08:00"
-    },
-    {
-      "title": "“A lad offers gold for a maiden”: a two-voice folklore gem of Bulgaria's Shopluk",
-      "source": "БНР Новини",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd1ZTQ3FBTUZzXzVpTFF1WlJmYWpTUFVlY0NSNlhLQ01nMjh0WnJDTURDSjVDWkN2VHpFSElpdVdkaTEyZ0RMNVVCdl9valFHOWNHSXAzanlDenJPNEJkOGstMWxXMjR4TmJnQW5BMnNWSEFMeG42QjBYV2ZiQy1RSGt2SzduV1ROc3dwc0dOdUpaSm9FYllOZlUxV28tS3lKU3lGVVFKZFA3SGVaa01N?oc=5",
-      "publishedAt": "2026-10-17T01:46:18+08:00"
-    },
-    {
-      "title": "Warmer Weekend Ahead in Bulgaria as Temperatures Climb to 20°C",
-      "source": "Novinite.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQclMyT2R5M1VSZlk3WWZib0ZzTmFtMG10RGRsVzRsSmxqWFZjQjhnV29Ec2hZZ0lvTEtRT2gzZHpTekVDb2JqVjd1UjROSnZWYVZPa1AyN2N6SnpSRWtmeXkwX2w5alBOSXFPc0xnUW9DNUFyT09KRXJQWGVTaGEyZ3JnRlNYREU2Nld5b0hEd2tBVWxxeXFMTDZKSUEwUVQ4TWlmUk4zTHBZOHlm?oc=5",
-      "publishedAt": "2026-10-17T00:41:08+08:00"
-    },
-    {
-      "title": "Bulgaria Asks NATO for Fighter Jets and Anti-Drone Systems After Black Sea Shipping Attacks",
-      "source": "Envanter Medya",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeUw5OEhDa0s1elNWaE1LaHE5ZWY0bkZsSlZGRG5IOGtVVlFYMGNCVDV6LW83S3VGSnZnc3hGY0xnYngzalpnLTZEN19HU0JfUGM1c09OVjl6bDlOM0JMRFdmd0JCb1B3YTVXVUtWaVhoNGNfZTFwbVB4MXRBUXJTelh3?oc=5",
-      "publishedAt": "2026-10-16T23:46:00+08:00"
     }
   ]
 }

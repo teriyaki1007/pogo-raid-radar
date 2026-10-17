@@ -1,7 +1,7 @@
 {
   "iso2": "AL",
   "name": "Albania",
-  "updatedAt": "2026-10-17T05:04:57+08:00",
+  "updatedAt": "2026-10-17T11:11:30+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "Albanian students continue to pressure the government for fourth day in a row",
+      "source": "EFE - Agencia de noticias",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS0NBa2xTSEZmaHJBZ3FHQnV3Wnk3VjdxQXJWUEpKNGlPR3p2cWczZEgzX0Vxc1FUVVVtakdDSVVrZWJkWDF2RzA1N1NoTUpjX0hTcU5BZF9DV2k5aUE4M2E3N0J5aDNiUWhUQWpsRmdLOUdvUE9OcjhuOGM1a2x6QlE1REs3dlZQVHpPYXE3b2J2eHJQQ0wwcUFVSUc4UmJicFh3?oc=5",
+      "publishedAt": "2026-10-17T08:05:04+08:00"
+    },
+    {
+      "title": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdjdMS2ZKUlhUMGVhMFpYaXVMUEZzbFZMeXBIRVE1cVppYXloNGpjVThNcHowM3VxT1lxODE2TzI3cTJpVWNMOHVnWkpqM1I1NXRFRDI5RWJzRlJuYnl3SXpxLUtSUkJ5VU9qZFl1NWM1Si1nSTR2YV9RU1VBUnMyZnZrNVNESU1JQmFuZ1RJMDRZOVB2bURFVnYtWGVmaDI0ZjQxaWhpMjRLSEstZVBLOENVQ2dwQdIBuwFBVV95cUxPYzBaeVhOQmFrQ0JRV0NtMnU3WGFaTTZkclJfMkNtUmJKNkdlcE1haHU5cVBicFdJUWJOSTJ6T0QyMEVVZVpsNllGVUpFZjRCS0lsR0hNeUFFcFFjR2dya2VBVFoxMzFuNkItakVFSWJsWUdwUXFzM3ZQV2RuYy10YnRiUFR6Y282V2Nqa3lVNHZkMzdUSUlrWTR4RXZEN2JkcDNhbzJ2RWtpTFhLRjk0b0pCYWtnckpBd3E4?oc=5",
+      "publishedAt": "2026-10-17T07:33:53+08:00"
+    },
+    {
+      "title": "🇦🇱 CHAOS IN ALBANIA: PROTESTERS HAVE STORMED AND TRASHED THE MINISTRY OF ECONOMY Anti-government demonstrators in Tirana have broken into the building during violent protests over education costs, corruption, and growing anger at P",
+      "source": "X",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBYXVDT3N3b0psaGNJMjR6X0xhT2M0YndZQi1DWjRzclJTR0dFcEc2TU1YMDAyYm9iTFRoM1Q3YkswbnBGUnhSS01WYVYzZVVHeEVfU0ZsQzMxRnozclotMWVKcmh4WkdyUEd6Mg?oc=5",
+      "publishedAt": "2026-10-17T07:07:46+08:00"
+    },
+    {
+      "title": "Albania Protests",
+      "source": "Goshen News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV0l1T0hXaklFZVZENDBCWldqTDZ3ek1teTNtTUVSZmpVbjEtQmd2UWpTcmZ5dnExMGNBd0sycmxaNU5VTDl1Zzd5V3prb3JhY2lya2xuY0NEbUpZMnZSZkdkcXpqZy1fXzdBMENUTjVISlRXdDFObEpiYnNXSWpOTDZyd2szVk8xRlhNcGV2TXVyY0RabzNXZjVpY2gyR3ZtYU1rbnlKRHBnM1BSRWhN?oc=5",
+      "publishedAt": "2026-10-17T05:20:03+08:00"
+    },
+    {
       "title": "Rama accuses foreign forces of fueling protests in Albania — France 24",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUF80QlpXTHJIMmRUcTZFOXp1T3NILXdqR0ViVi1PVnMtLUU4TFh4UXZQM2kwUDhoRG5kZTF5UmR5OUppYnhtWVpfd1dDYkF4Ym1FanNua0FkUjFELW1iLUhpaHpBVjlWRS1jOVVPT28tbXljampObzVEak54STVxUGpPNG5SQlVkbHFQYUJkYTIwMUU5MnFWejNfaEV1bm5LREtn?oc=5",
@@ -39,43 +63,19 @@
       "title": "Ombudsman Reports Overcrowding, Alleged Police Abuse During Fourt Days of Protests in Albania",
       "source": "Albanian Daily News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYjE1SU1YOHVXb2hQMWZ1STl2eHRxdUd6TnRuNWhsSVRjTEFpSllON1lCZHRYbVF2dzQ3NXlqNmdDakhhbmV3dXpxV2xiUEhXT0RwbmR0ME5WNU1EWkNHLWxsRkVmaVJidHNzenpNTExvWGVacWxfd0pjemRjeUdMRHh0bDRjS2lpX0RpRk5hdkdlV0pwNDlqTmJuRkc4eVdtaEVGWS1ITHlldFlacU95TUxkSE9ocDhrYjM0aVA4TTRVV0dUMVE?oc=5",
-      "publishedAt": "2026-10-17T04:48:45+08:00"
+      "publishedAt": "2026-10-17T04:52:08+08:00"
+    },
+    {
+      "title": "Clashes grip Tirana as Albanian PM blames 'foreign hands' | Hindustan Times",
+      "source": "Hindustan Times",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSkNSTFFtOGttc1lrRGwxNVR0Y1FUdUhJRktjWnQ0UWZMenlEdGljTWFqa2V4YUhlbk5TUjRNNTZmTnVmYXNSckxOaGJyaHU1ekNDOGNJclp2bDNPMzBLRW9DUF9FenRaekZLdFdvNDk0d0NuZ0lqdjZISFlZSGptTUZqTDRaRGFKZlpJemRpZXc1V2hpSUVwWGhHdzRWaGNHQzh0QTY5VHlma0VKbWZjRFBOVWlvb0NIdnhRYlotcmtKc2Jh0gHKAUFVX3lxTE5HVGotcEdSWmhsSTJ6dU5XSzZxQkVoZlJNWmtHaF9LMS1UMVVWTVBZU0FpZ0R4Uks0STNPTUZTM0JEQkV1NmV2MzFJcmY0M29PZDg1SmRzb2N3TmVBTlc4OFdtMHFvRWJJZDNJZHNYX3ZwbUxUbUl0eEs1aFhsUzFnRFRCWXRPNWF3RmdzaUx3UFN4M01hU1d2UDcyS2t6SWZKTWF4NzQzZGpLWWIwNURWdlc3V1k3VnRGWWhFS1k1WGw1YnlzempvWWc?oc=5",
+      "publishedAt": "2026-10-17T04:04:05+08:00"
     },
     {
       "title": "Albania protests: Students demonstrate against poor school conditions",
       "source": "Modern Ghana",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5wbXhaa1dWcmJwaEFYMl8yZy1xSDJPRktKVE9uVmxaakY0U2RRZUlpWEM4c1FXSHJ3ajNHOURKcGNHT3NyVkdIcGduZHpBbWQtQnBIUHVCWDNUVzlhSjhua05vb0dkY0XSAVxBVV95cUxOX0diOXp3V0RiSnRLWEJITjNrcmgtWlk5em51cXk1bDAzY2RQVFNFOGpFcFlpTXJFdXhnLXRfZXBDSzNpMkRiNVlNNFhiTXVvTklBTV9nQ3Iwb1lZTw?oc=5",
       "publishedAt": "2026-10-17T04:02:34+08:00"
-    },
-    {
-      "title": "Clashes grip Tirana as Albanian PM blames 'foreign hands' for protests",
-      "source": "France 24",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMHJ0SFZBS3FaTmxRWC1SSkc0T1Rqd29oT0Z3VUJYM084QVNsVzdtMjJpdzV0U3JEUTVRcjF3WlJrYzhaVXQ0ZmF1aU5hUmxQaUJ2VGxzeEZ4Um9nRkNTallkUEVqRlJYYTBaX1RVb2VzQkxOa0F1OGU2S0tueHRqRlZvZWhsaXBJWWRoOWdEU0dCcGZCWFE0eXN4b0R4Y1dt?oc=5",
-      "publishedAt": "2026-10-17T03:59:23+08:00"
-    },
-    {
-      "title": "Albania's anti-government student protests turn violent. #BBCNews",
-      "source": "Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wbVpzZnhHNjU5RElkRmQ5a3FKdGdvaEs5NjRBWjNmM1REeFhfY0p6bnN0aDRaTU9vb1RBVk41UnFUdDV2UDhZVFdnU0xJaEc4U3I2dHVIVlFQckRIWWVr?oc=5",
-      "publishedAt": "2026-10-17T03:22:27+08:00"
-    },
-    {
-      "title": "Rama blames “foreign evil hands” for stoking unrest to derail Albania’s EU bid",
-      "source": "EUalive",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeDJQVDVpcC04TEhKMkwtVzU3QXhYRjFPdVBJOExpcUtVUG9uTlEwZnpKdDZtcWEwMDR3Y1FGQlpTcVlJTm1yRnFnZk45SUJJQktTWlotWVV0R0Y2bmY2QTVqVUx2V0dRcWd3RXo4NmFfcml3TWxHQng0NmtJR1JZTXdhQTJfcGJQX3FIZzBxSVNhd1kxR056bDl4cEs?oc=5",
-      "publishedAt": "2026-10-17T02:25:56+08:00"
-    },
-    {
-      "title": "Albanian PM blames 'foreign hands' for violent protests across country",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc0VRcTF6eVlLR0dtWXFIQ1hVX041QnZJOG1TcDJCRXZJTUFjdS1lUXFqSlNLSlNSdTNEQ3lLeU52NkhkQjMtLWRHMVlUdWRYX2tKY0J3TEhtMkVpWUZ6Sm1yejgwLTdMTlMzVFh5UGVsNVJWeXVwbDF2aVl0eUxDUWh4UktMSHhGOGVCeWg3VF91RE9fUWNRck1WX3NXeF9qS2pDZm53UjhnUQ?oc=5",
-      "publishedAt": "2026-10-17T01:25:11+08:00"
-    },
-    {
-      "title": "Video. Albanian PM blames 'foreign hands' for violent protests across country",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDJuel81X0Z5eXdmVk9PNTVBRmd5VFk0V3R6MUVKU0tCMG9YUy1EbjJLeTVoN3NxN1IxbV85TXU2YW44NExWOUNyUzhpOUptWXgtY3BRd01wbjM3MkVQcWJPS2MzOVpQSFVqU2xqT1VqbmlsLTk0R3Eyem1KTEtyT2NUNk5aTUVNTkN1Q1BGNGF3MjJzbmlWQmxyTEstbWw3YjdoNjgyVkp4WU5WMHZpd2dR?oc=5",
-      "publishedAt": "2026-10-17T01:25:11+08:00"
     }
   ]
 }
