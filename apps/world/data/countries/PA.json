@@ -1,7 +1,7 @@
 {
   "iso2": "PA",
   "name": "Panama",
-  "updatedAt": "2026-10-17T11:11:30+08:00",
+  "updatedAt": "2026-10-17T17:06:28+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,9 +30,27 @@
   ],
   "headlines": [
     {
+      "title": "746 aftershocks recorded in Panama after 7.5 earthquake",
+      "source": "Qazinform",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZHFHNmlwbjBjZHN1bmFrZFFRQm9BRTVTaU5HZU5IdGx6emJGMFBhdWF1SmVvbkNWUnhqb3NyVmxWNjk0RTZwS1Z1aWQ5MmZZdjNqRWNQeU1YZUFYUUIwbTl0TG1na2dNNnJvX01sTEs0SkZJREtveEhrTml1a1E1bkJoMkZIUXVWVWxDMlZuZzVVUdIBkgFBVV95cUxNS0JTbG16Y3VBaU1aMTRpZXVvR1JCSy1TQ0h3M2w5OHplc1VaaFNBQ2w3dlV4YlVpbnR4cjZxcUs4MTBPVEJhenptem81RDBmWTdxMFFzM3VDQlpNS2h1WjRYR2x1c09ZZzVhSU9wMmZJb1d2dlVTcGpnU1Z5WEwwOWJFNDJmNk13VFdSY1FxbVViQQ?oc=5",
+      "publishedAt": "2026-10-17T12:30:08+08:00"
+    },
+    {
+      "title": "Panama City Fire Department holds annual open house",
+      "source": "WJHG",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHN2MFphbDdIQWRhSUJzX0E2LU1naklyaDRhdUtlbHVmS3Nfa2hHSElIdFJ6RmNtTEl0alVVUmtqOUxJejZ1bS16TzNHczRfRW1vYXN6YU1SN2kzWXdrV3VCdUN1d1BxeEZoeGR4VkhGYnRvVzdsLWo0TmlseVJUdTN3OGJGOUt3eVhuUdIBoAFBVV95cUxQdDRJRGNqdElpd1p6WTJaOE1vRGx6VlZoMXRveGRJOWZRbkxjVXBnUEZROUhQbERxaE1xMFBMOHBzNE1fa1lCaXNWd2xWUnZVRnVfRWUyZ1dUdFJmUTBxWFcxWTJ6MXIzWHJhNFdyeVZHeXN5NFFCcXB0U1BpUjJBY25fMHlsc1BRem9iVUFUUzVGME1ZX2pubHFkb3pEUl9w?oc=5",
+      "publishedAt": "2026-10-17T11:54:00+08:00"
+    },
+    {
+      "title": "Panama City Fire Department holds open house",
+      "source": "WJHG",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNW5QelVWejdsd1A3cWhLUVFIYVV2YVNuZVRIcmxINEoxRjVnMUNqNERjeVRQU3JlejY3elJMWndZRmthWUVCM2ZKUmZoM0ludWpLSWtGWGhrOG15TDVfSDQ0UFJsYkZnUnZIUU9nUy1HZ2hLUU9YQkdnU2N3dmdrS3BNTS1TZFZndGlB?oc=5",
+      "publishedAt": "2026-10-17T11:48:00+08:00"
+    },
+    {
       "title": "Panama Malaria",
       "source": "Goshen News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMkUwclJhS2lqWEVHb3FOTklkNVJjdkxFY0RyQlF6ODdlWHZJSWVSWjNVb2dsbm5rUXJaTW56QmNxX0tLR2gxRTdYWVBmX01QRlpwbWpBakJQS2N5dUh4OTZHRklfcXVIcXQ0bFJjSkNQLTRPcThUbkZmdEFMSmdkWnJCcllGS0NqMGVyVVRKX0VLc0pyX1BhcTRPNUNrSWh4bEhBRnEyMjNzeE5F?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLUtLMDl2dmpzVmNNV0EzTjBONXBrR3VHMzhSUGZNd0tocjk3S1RmNkNxRjRYaWhUVk5sUFJkQWY4SGJvbUJPZmI4RnBIanRDZFAzeHc2Z2ZBX2NiN2R4WmtOOWtfbmMxX2JUNkl6NGgxdXl2aGJzYU1NV0Q3SUYwVGpkUHcyRU1zNFk5dFp1LWVISEpzU2ZJWmlEb0FZYkRKUDF0NFdxYnZQLWVP?oc=5",
       "publishedAt": "2026-10-17T10:20:07+08:00"
     },
     {
@@ -42,40 +60,22 @@
       "publishedAt": "2026-10-17T10:19:39+08:00"
     },
     {
+      "title": "The Fear Left Behind by the October 9 Earthquake in Panama",
+      "source": "Havana Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWpGcVZzbGdBbmxZSlNJTVFpaUNFTVZMWVJiUy1KekdCTlN5bGJvVkVVQnozZWt0NF9tOWowenZmUUlTblBHUlJtRmZGNjZfVW9PR25VcGJ6R19fOEx3MjkzbkFubWhjQ2tjTHhjZWU0M1V4M1RGRk1hbmNUMTRncEw1Vk8xTzZ5VVViN2NybkJZSFFpbVE?oc=5",
+      "publishedAt": "2026-10-17T09:57:25+08:00"
+    },
+    {
       "title": "Panama: 746 aftershocks after magnitude 7.5 earthquake — Anadolu Agency",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOEc0SjBCaE5DQ1k4UEJBQmVtbUcydDNEeWhwT25sdmxJLU9WekdhSlNMd3pSNkNrd2xtTUt4ZUdxeUpDZC0yT1JjNUp4QVdfbEQzSWNxVEJ4cG8zVThqelVIVnhmVi1seEdNU3QzdlpCbElCU0NtQ3I2bUNlZ1lnZi1sOTVKUjVJcFdmVXpSSHJ6QzAwVTFUb25nd2s?oc=5",
       "publishedAt": "2026-10-17T09:46:26+08:00"
     },
     {
-      "title": "Panama City to modernize 60-year-old Tarpon Dock Bridge",
-      "source": "WJHG",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQmxqWTV1TjM4UlloYUh6RnFpakkzNkx2aU1rbFBsOWJkajI0bVdKSm9wb2o4bWtHOWJIaEVEUWtaNDh2cG1jMm1MZURfaHBWNzhQMFhHcDZyRkpRT2RDTWU4YURaREN3d0x3TmhYRmljTV9xeWhXY1B5Y0RIeFR3X0VjOERVMTdWYkxTS1pR0gGiAUFVX3lxTE9lOEhPa2sxbmNpcTk5NlM3RGNfdnJleU5IVVRjZkFTU095eWZXNDJKWEUwVVN1SHRvdjc1OUQ1b1I0NnRUTmZfd3AwWWtobktTS0FaQmVPQVIzM3pkTjJDaUdQN3c2aG9sUjRIMjBZQjlzZlEzZHNRMGtPRlpEbEpZbF8tTGs5aUJGYUhSREo1RVdXQUJVWEpwbm1LMnR0MEIzQQ?oc=5",
-      "publishedAt": "2026-10-17T09:37:00+08:00"
-    },
-    {
       "title": "Panama records 746 aftershocks following magnitude 7.5 earthquake",
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1VheUZWcVB2UWswX0xvM3JUMnF0MTRyaTR4UzY0UnFwaEw0T3MzY0c5azloQTBXUWVxRlNNVUxzY3JhZWNTVi1Lb29YZWdCTGJzWGo2S0ZrWEg0bjVhM1JKUHBrSDBqcEFRQ3pnWmNXNDRvNWoxdkZma0JGT3BMRTlSQzAyTmxUQTNQYWFxUldScENKdVloTWppazZOZ3VvYzk5SzNWVTRJQQ?oc=5",
       "publishedAt": "2026-10-17T09:36:10+08:00"
-    },
-    {
-      "title": "Panama City man sentenced to nearly 10 years in prison for embezzling over $1.4M from employer",
-      "source": "WJHG",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXhKRk9ORHNYcnZfYk5fbUhWZEhnOUZKVjB4cXVpZWpqNFlkNHlyazUtSGpEZkpoWnhENTJsalg3ZzE4Q29ZWGV2VUhGR2xTSzhOYVhwMV9DNEhBYy13MlBDNUVzc0ZyWE9MQlEzWk9RMndvOHIxNk5LM3o0TERnQ3YzUGdBQ3kzeFZlXzloQ0UxTmEwRHMxSXhQdzNyLVk4U3dGZ0E1c191ZFBZN0J3?oc=5",
-      "publishedAt": "2026-10-17T07:52:00+08:00"
-    },
-    {
-      "title": "Panama City residents sentenced in major drug bust",
-      "source": "mypanhandle.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdmhPd0JhNHJjQVlIdGJUbVNtbnc3YzFwNWlHQXJnb1pTNFlJZDVENno0TjNvSHNadnpCZ0pmQmtFSzhEMU9kSi1IQVV6Nk95YlFwaVYwV3U1RHl0LS1yM3AtXzFBX2xsMnlnQTZFZW1tdTBfMVZleUd3TUhBNGE0dVRrekdLM1dWc2V1ZjdON2hKZEQ4Z1BvMHZ3?oc=5",
-      "publishedAt": "2026-10-17T07:08:57+08:00"
-    },
-    {
-      "title": "New wasp species from Panama honors Indigenous Bribri people",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUo2Nll4NTdxdk4tY2dDRWUxSnUxbG4xTzgzd3ZSa1ZsaUFnNzQ5NTBMZUxxNWhBMzEzd1E2V0NFeDhicUV6TUpDN21KaEVxSktxaXA3SVM4M2hIb0xWbmxXT3BPenNVNWpySXcyVHlENnBCa0gtZ01sdDMyQTlwZnpKblVzZVBJdXF1ODhn?oc=5",
-      "publishedAt": "2026-10-17T07:01:14+08:00"
     }
   ]
 }
