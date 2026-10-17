@@ -1,7 +1,7 @@
 {
   "iso2": "BM",
   "name": "Bermuda",
-  "updatedAt": "2026-10-17T23:08:14+08:00",
+  "updatedAt": "2026-10-18T05:03:18+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Over 1,000 Tickets Sold For Taste Of Bermuda",
+      "source": "Bernews",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50YXBfM3l6X08ySzJnajBfTmdBc1RqajMxbGVYOHlJWHdPVDcwaW5LNzY4Nnhva3MwOGplTFRnWXQ1UkVlWEQ0MTFzVEQ3M1M5VHQyOHUySnBwM01XMUo2N1hBeC1EVUQ1SmR3V2xJR0JIR1JG?oc=5",
+      "publishedAt": "2026-10-17T23:37:59+08:00"
+    },
+    {
+      "title": "Royal Caribbean Cancels Bermuda Cruise Visit and Sends Passengers to Canada",
+      "source": "Rus Tourism News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTURvRnNOQ0w1YUNCUnE4cjhFTTE4WjFIbGVwbVd6WTNJR3JUbE9GN3laeFQ1OUlKN0tnTXJHM0lWQjdSZEhhclJVcGdKZXVSZkgyRk1rZ21zUWswazlyX1pvcHhoREx6TXFOVE5QTHh0NTNMV0xES0M5QnhEeG5zT0Z5ZmFFS0IzcmJYZHBkVlRrLVk4T2R1enNqbDdvVm1CamJZMVBFMEpCNWU2Y0NDemFieGFZNzczNWc?oc=5",
+      "publishedAt": "2026-10-17T23:12:47+08:00"
+    },
+    {
+      "title": "Royal Caribbean Ship Skips Bermuda for Canada, Guests Can’t Get Off the Ship",
+      "source": "Cruise Hive",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWURJZTJ1Nl9NOFZZZENERWRzMHBoUkRuTmw5bFBEOFNiOGVWWmdhMVY3RFRxb0k0S0psaTRCTHd0TUFrYXhheXRRV1lZWU9oT0tJTE1JT0xFT2VaMzVXZE9OZDlKQ2NOMXBZcmZBb3ZXUk9GQkVyR0RzNmNydEtoTDhTeW5PdVl4Z0xqZks4bFNicTJMMVUzc3p3Rmp3ZGt6UmJTTlpFQzZYNHJ2?oc=5",
+      "publishedAt": "2026-10-17T21:39:00+08:00"
+    },
+    {
       "title": "Photos: Taste Of Bermuda ‘Tastemakers Series’",
       "source": "Bernews",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kTGpMUE1TZUw3dWpGYWk0aC1NWUxEV3hlQ1g2NExJSXNhbmNTNTkyS1VJRVVESk84SzcwTmphbGJJcVhjN2xFX2VHV0FjUjVjRGwxM3R0V19kRTVxVVZVQmdIbHV3ZFd3RWs1RmJHZU9jUTNfTTgyUWFxWQ?oc=5",
@@ -42,10 +60,10 @@
       "publishedAt": "2026-10-17T20:00:00+08:00"
     },
     {
-      "title": "Photos: Taste Of Bermuda Tabletop Theatre",
-      "source": "Bernews",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pSWdwRUwtZERCWXFqNkQ1VngzbDduNF9TNjYwV0dZVWFHTGVIM2tNVGs3OFhqMGFOTmRiM0tyZkI5aE4wZFowbzc0b1lVWTduNDNxWUduMS1lMUZHSS1panBnZ2NlZ1hKRVlBRzRPalpjUnpU?oc=5",
-      "publishedAt": "2026-10-17T19:34:19+08:00"
+      "title": "Bermuda chub is a largely unsung local species",
+      "source": "Royal Gazette | Bermuda",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFhSY3FDWU9MNk4yZ2VPcWVZMnBZSjh1Y2stb2pKQVh3ZHVtTGNmd0dlbHJBUEdWUmRzb3V6R3ktMWRIMGxkRXRnM203ZFgtX2V5MGp3QmQyeTlvSmhPaEFyWjlkLUZJSjdTY2dzQmlzVzRodDZ4ZGN3TnVYblJvbm9oT0RFNXpYcHVNWWRpYXVwWVdnRmN5NDRMcVNFdlRCM3FkbGtEdE5qNE0?oc=5",
+      "publishedAt": "2026-10-17T18:30:40+08:00"
     },
     {
       "title": "KPMG Banking CEO Outlook report 2023 - KPMG Bermuda",
@@ -58,24 +76,6 @@
       "source": "Golfweek",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR3p0LUlYMHpBbnYzNHlmc0hucVlpd1FSdGdqNEdfX0ZjWlhSV0ZYMGV0TGxZM0FpaHFhc1NZUzIxUzBPYUY5dWJ3SHluZXpWX0dMSXZwZjNYTkFPWGlpUmVqY3dtNzUtSDhCa1psTVZGTzlZaUZ6cUJJWExWY2NjbmFyanRGY3JtOG9DMElPVzI0ZTVoR1QwZWlHVTYyR1dDaEZoNjFaY3lodGJPVnFRdGl1RVlON0YzVlhYU19iaUtra0Uyb3hB?oc=5",
       "publishedAt": "2026-10-17T05:57:00+08:00"
-    },
-    {
-      "title": "Inside the Field: Butterfield Bermuda Championship",
-      "source": "PGA Tour",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbHlST3AwendCeTBPNllrcWtVakNkMXRVS1k4RmNVQnRxS2l4SldHYW5uUHVaakxlOEVIWll4M2g5b0lkS21fMnlab3FtSXo2c0JSM2g4c3plT1VSa1B4LTZEWk5kOTlWMUw1VGRLc0IxbUxCdDgtMUpVUEk4bnFBMzBoSzNINkpMbWU0X3RPXzh4NjluQUtld3JSMTVXb3BLT2psOXBEeGVwZVZ4ZTBrOWUwbXQyQ0pOVy1HcDJhbTdvTTVXZlJtX3ZoMlFmOWt0MnNRclZmTHozNDB1N2FHYTRNZlhtZw?oc=5",
-      "publishedAt": "2026-10-17T05:51:17+08:00"
-    },
-    {
-      "title": "Bermuda promotes digital-assets regime in US",
-      "source": "Royal Gazette | Bermuda",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM1FBUHJFSnNWeVc1M0M4ZE95LXI0ZWg1Tkt0SElwYVJZVGNHZC1xeWZ1MHNneWRibmhpRXd2bEgxUVczaUZJaUZTcHRFUDVoTkw0Vk9nRWtMeDVmMGEzZ0RwSkdEZl9uLXhnQ2VaeGRBZkh4ME5vaHpDendOM1ZqTDlScFRpeG9qRFcwRVY4MHpVVzRaVHk1RGNza0l0VjdjMHpVdFFCWUxaV2FuVVRXeXpoWUZqUQ?oc=5",
-      "publishedAt": "2026-10-17T05:25:22+08:00"
-    },
-    {
-      "title": "Butterfield Bermuda Championship 2026: Full field for Port Royal",
-      "source": "Golf Channel",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaG01WGJfSmtLWEktQWpTYkxUal9vTHVhVWtremk3b1c5NnZVaXFKbVY3VTI5UFhmTWRtZENxcmI1ZTNxeWYzTkE2Z3YzMlFUWXdWUlotQnhaU3Nvbk8ydzQtbDVhU25tUnlyVVVCd0pJSTlLWmgwMHpQZ1dzU0g4MWlVR0I5ZV9aSVUtVzJsUWUtZw?oc=5",
-      "publishedAt": "2026-10-17T05:24:57+08:00"
     }
   ]
 }

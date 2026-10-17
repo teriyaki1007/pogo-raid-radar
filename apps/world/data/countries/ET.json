@@ -1,7 +1,7 @@
 {
   "iso2": "ET",
   "name": "Ethiopia",
-  "updatedAt": "2026-10-17T23:08:14+08:00",
+  "updatedAt": "2026-10-18T05:03:18+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "Somaliland president backs Ethiopia amid rising Horn of Africa tensions",
+      "source": "Hiiraan Online",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFRDOHlCSXAyY3g5ZUtvZXROd1BLQkRJdllDZDdPU2l4ek5Ndkc4eVh2TksxbEFBZkRoX251bEs2T2JrdEJIM3V0czRVLXh4OGZmejFzOEZCN3VxeHUzZFZtVG1CdldUV2dZYU5JUEo5SjQtcjVhNEZkV3kyVEM3WHNSb0MxUlgtUHNnbkk5dXlHTEZ4X2xpUTl3a0x6Snd0N3pXSnROOEJ2aURxa3FZUGdtU18wR3JVRGlVYkJtS1JHbkxp?oc=5",
+      "publishedAt": "2026-10-18T04:19:00+08:00"
+    },
+    {
+      "title": "Ghana set to overtake Ethiopia as Africa’s eighth-largest economy, leading by $1.49 billion in latest IMF projections",
+      "source": "Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYnBOWmV6QXBZS0VUQUhZejdQdV9CbkVkdUFzY05fSmxxVFJLRjRIY1hqLTAyYm9CcU1Cd092RUwyY0c0V2RxMG9tbU9OSE1MS3JUNlpfb3dZRGRYcmdZVy1SeVF3QkdaTmJiSnBrbGYtU3RHaWVzZWVpbnRrQTJGbTB4YU50MlFZNV9tNzY1a2Z0XzdDbXB0cVItMmMzbHVaUExNVzQwbDNuLTRMaFRsMTJocTRJem9EYWlfQ2hmOUgyQm1ualU1dFhqeTdBVENIQ0E2VVhZTnB1dw?oc=5",
+      "publishedAt": "2026-10-18T01:46:10+08:00"
+    },
+    {
+      "title": "Homeless Ethiopian club suffer heavy CAF Cup loss",
+      "source": "New Age BD",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNk03TVZzZDhtMDlCTVZqdTdnZy1rWjFmZm8yTGU0LUd2STZUWnBsdjZja2M1NlFxV2puS180dndIVlRDUi1nRktST3NXb3RMa051VFZkMVRmcUJPVktVdGk0bFFpMmZnSGJiNm5jc2otLVRmb0tMQWZnWVM2Wlg0WFlldVRsOTN0OWhYVTdoOG9NSHhqNk1vZmp4TQ?oc=5",
+      "publishedAt": "2026-10-18T01:04:19+08:00"
+    },
+    {
+      "title": "Ethiopia loses East Africa's largest economy title to Kenya, falling $24 billion behind in latest rankings",
+      "source": "Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWm1hd2hFcEFlMUJ5a2JVVGJpODV3S001MllXelNoX1hxWWNXMUNFVzhYX1ZQRHJ6SWVEeVZ5VDJDUFNlbDZIOWxaTzI1RXp5VVZ2TFYwWURTSDg1a1dLczJ0OTlvck9kbHpWdzMxMGpPX1NDUGFoZEx1MkxvTkgxN0gtT2laTG5BQXJldnJfaGFwa0NsVWVaM1RzaGpCMURWNzJtMWRyMTdpcFZseS1xbzRBRGJxUnpVSEYxUGNLODBzNEg1Y25rYnZLY3A5N24tZm1aVGZmSQ?oc=5",
+      "publishedAt": "2026-10-18T00:51:48+08:00"
+    },
+    {
+      "title": "Amharic Trust in Oncologist Scale Validated Among Ethiopian Cervical Cancer Patients",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ1lzbjRBeEFNcjAzMDdISFZmSXBXRmNnNVBRcDlvcWc2bWZYVElvenpNdXhBSzFJdGdTSEF6Sk85MDJ1ek1XY2s3WkM1NmI5bXExZlRWT2hOSmNsdUtyS0NLZGNOUkhvRkM1Y2xnWkNfcFFHN0lCWkxNT1JEOU15VGtWU20zMlN5MDE0ZDNxQVlJbEtMcUtRUXpiRnJaUWNtcGpGZ3VnS2pyRGNDUVE?oc=5",
+      "publishedAt": "2026-10-18T00:46:18+08:00"
+    },
+    {
+      "title": "‘Thinking Five Years Ahead’: Ethiopia’s $50 Million Bet To Become Billion-Dollar Regional Gold And Metals Hub",
+      "source": "Forbes Africa",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV0dZdFQ2WExGWkJsNVlybnFpWk9DVngtNTdreDJCRXdCYThkZEVWcklEZ2p3QVB5bHQxcGdzRUFpS2EybVZKLUhWdENpQzk1Ty1nZGNYamdQUE9WTzJWUzhzV0NZdmlVS3lvMjFDZnN5LURzMlRLVVM2ZWVCWkhpUTZIZ2FGTzQtcDRINVJtWG9kUUxIem1zai16aFdpejhKZ2xDNVVlUFFCWXZwdlZMbHlzOHU4cUota3hQRVQ5WkRaVWdqOHNOUW02TTRtYkhCRG80QlJTV2JhTDV6RUVOQlVjbFRvVkJXVkU2RW9GY1pXazg?oc=5",
+      "publishedAt": "2026-10-18T00:17:00+08:00"
+    },
+    {
       "title": "Only 27% of Ethiopian Toddlers Get a Minimally Diverse Diet, Major Meta-Analysis Finds",
       "source": "Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU0F2b3BITGdvemFkbk1pYThRRlc2Tm84bXhVNG44a1lTYkFvTC1Wa2wwYVd3YVVOWGtFaTVPVF9TRDEyQlRCekFYT185R1FDZ2hWcnNmdFptOXpfWDdaMDBhWDVuallFOEZVNndPZERDVmRsVGIxNmxIY1RPbTQyd0lkTTFHXzVRTjNzR0xrMWhxaGxDY1N3QWxPWkJSS0FhUFFLUXRNcUQwUi1MaHc?oc=5",
@@ -40,42 +76,6 @@
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2xSMzlkejBLaGx1MGxkV1hCQ01PRTh6SWZJRlpPNUFCMmRRcVhRTXJkcUpGU2VEWkg5T0d5c0xXeWlnRVpWcjQ1NXMzZjEyd0xyaTlobUluODhVX085cGZxVTlQX3lyX05pdS1CUVBMZzlRNGdLTlVyQy0zR256emxWLWctdWctM0p4bHlhU29aNWt4SjVGd1V3WUJ4Skt1STl3aVlWUQ?oc=5",
       "publishedAt": "2026-10-17T22:25:58+08:00"
-    },
-    {
-      "title": "Somaliland president backs Ethiopia amid rising Horn of Africa tensions",
-      "source": "Hiiraan Online",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFRDOHlCSXAyY3g5ZUtvZXROd1BLQkRJdllDZDdPU2l4ek5Ndkc4eVh2TksxbEFBZkRoX251bEs2T2JrdEJIM3V0czRVLXh4OGZmejFzOEZCN3VxeHUzZFZtVG1CdldUV2dZYU5JUEo5SjQtcjVhNEZkV3kyVEM3WHNSb0MxUlgtUHNnbkk5dXlHTEZ4X2xpUTl3a0x6Snd0N3pXSnROOEJ2aURxa3FZUGdtU18wR3JVRGlVYkJtS1JHbkxp?oc=5",
-      "publishedAt": "2026-10-17T22:20:10+08:00"
-    },
-    {
-      "title": "‘Thinking Five Years Ahead’: Ethiopia’s $50 Million Bet To Become Billion-Dollar Regional Gold And Metals Hub",
-      "source": "Forbes Africa",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNV0dZdFQ2WExGWkJsNVlybnFpWk9DVngtNTdreDJCRXdCYThkZEVWcklEZ2p3QVB5bHQxcGdzRUFpS2EybVZKLUhWdENpQzk1Ty1nZGNYamdQUE9WTzJWUzhzV0NZdmlVS3lvMjFDZnN5LURzMlRLVVM2ZWVCWkhpUTZIZ2FGTzQtcDRINVJtWG9kUUxIem1zai16aFdpejhKZ2xDNVVlUFFCWXZwdlZMbHlzOHU4cUota3hQRVQ5WkRaVWdqOHNOUW02TTRtYkhCRG80QlJTV2JhTDV6RUVOQlVjbFRvVkJXVkU2RW9GY1pXazg?oc=5",
-      "publishedAt": "2026-10-17T21:20:20+08:00"
-    },
-    {
-      "title": "Two Ethiopian opposition members, lawyer, released after months",
-      "source": "Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNDlMdXdEdF96S0FKNXVvLVBDX3pMTXQxdkFUajFYYURsaUR3M0YzTFMtM1NtZzdoc2FCR1duRDRncnRIaVM3d1cteGFORU81UDQ3YXhObVlhWVBfZjV0Vm4ydDg2R1lIZWFqV0FadVdrZlNSUVZlc0tpVW8xMU1TYUx3ajZ1dGZTdjB6OUwzZ3Jad0M2bVU3bm1OMlYtUTdwdEE?oc=5",
-      "publishedAt": "2026-10-17T20:37:14+08:00"
-    },
-    {
-      "title": "Ethiopia Accused of Role in Somalia’s Southwest Conflict",
-      "source": "Horseed Media",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXlpSE85NEw0bF9RZjV0d0dyT2dPWGZsUVJrUU4yUkpVaGlxcEdGMDVXTE14WFFjWW01SnlPYU9EZ09JcUN2TVBiVXZoVUVYOEdwU0h1VDZXTEJseUl2ekpLMTdQckdBWG5uVm54RWhzQ0tIYkFtVHIwaS1mMnlvaldqay11bUM2R0VoQk1uRGNNZw?oc=5",
-      "publishedAt": "2026-10-17T19:40:07+08:00"
-    },
-    {
-      "title": "Russia’s Mediation Offer Between Ethiopia and Eritrea",
-      "source": "horn review",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZUl3a2NxeV9EM1FsbzkwdkFjLVFGTUtYbGtkM1NkdVVMLWlIZzM1WjRXZnhNYUZFaGxQXzRGTXhOdDFXemtnM1M5MWxPTUlsZVhBeDg2Sm1ST0xNWHdobXBvNGxqajlJa1I3NDhRUVF5cVBIclByXzdNVk9PVDlVRnhXcHBNWWNOZmpCV2E1cE4?oc=5",
-      "publishedAt": "2026-10-17T18:15:45+08:00"
-    },
-    {
-      "title": "News: #Russia offers to host #Ethiopia–#Eritrea talks amid rising tensions Addis Ababa - Russia has offered to facilitate dialogue between Ethiopia and Eritrea amid escalating tensions between the two neighboring countries, warning that the deterioration of th",
-      "source": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV0VnTzB4eVdkbkxNeXNxU3NIczVILS1sdXQxVWhLWjVYT2FacGN0bGVFeUtDQnVBSm9XNU5XTVgxdUV4UllBMUVUZUgxWXloVzlkYTFwZTZILWJ3VXNHTC1kX3EtMXU4U1pmUGpKRHo3d281VWEtZXk3LU5aLTRwZnpwVkN6Nnpza0pVQ0t2c2lQUFVrSURoNm80WmM1cXo4YTFTYTloSl9MdnA3RFdYbzl4Y0oySnZHNXdQR0sxVGdEWU9uS1N2QTF0MFk1SmR2VnpUNEVialYyejFTQzlV?oc=5",
-      "publishedAt": "2026-10-17T17:01:49+08:00"
     }
   ]
 }
