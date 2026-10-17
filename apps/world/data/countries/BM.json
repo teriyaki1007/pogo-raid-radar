@@ -1,7 +1,7 @@
 {
   "iso2": "BM",
   "name": "Bermuda",
-  "updatedAt": "2026-10-17T17:06:28+08:00",
+  "updatedAt": "2026-10-17T23:08:14+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,22 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Photos: Taste Of Bermuda ‘Tastemakers Series’",
+      "source": "Bernews",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1kTGpMUE1TZUw3dWpGYWk0aC1NWUxEV3hlQ1g2NExJSXNhbmNTNTkyS1VJRVVESk84SzcwTmphbGJJcVhjN2xFX2VHV0FjUjVjRGwxM3R0V19kRTVxVVZVQmdIbHV3ZFd3RWs1RmJHZU9jUTNfTTgyUWFxWQ?oc=5",
+      "publishedAt": "2026-10-17T20:03:07+08:00"
+    },
+    {
+      "title": "Bermuda squad named for Under-15 World Cup and Festival",
+      "source": "Royal Gazette | Bermuda",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUHNlQUJab2dDczdZZXhxNnZBRnRlLUFBM1M4REt0bVExYTBzNzRYaEt5WUxiSHFNRzRyRnBaeEF2Y21NMWhtOHFiSVJTNnpWUFhzeXB6eVJWMzVNWC1idzVCNURmYUJ6aUVIYTdqYTZ6ZnF0SG5iQzJwOFREemJXbmZ6RkYyMERKYWNvbzRsTUp6bllHTmw5blpjaVp2SkVxVk1fNm15RnBzaFJaWlRTY0loZ1VvSWZ4?oc=5",
+      "publishedAt": "2026-10-17T20:00:00+08:00"
+    },
+    {
+      "title": "Photos: Taste Of Bermuda Tabletop Theatre",
+      "source": "Bernews",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pSWdwRUwtZERCWXFqNkQ1VngzbDduNF9TNjYwV0dZVWFHTGVIM2tNVGs3OFhqMGFOTmRiM0tyZkI5aE4wZFowbzc0b1lVWTduNDNxWUduMS1lMUZHSS1panBnZ2NlZ1hKRVlBRzRPalpjUnpU?oc=5",
+      "publishedAt": "2026-10-17T19:34:19+08:00"
+    },
+    {
       "title": "KPMG Banking CEO Outlook report 2023 - KPMG Bermuda",
       "source": "kpmg.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yVUcxOWY1SktPWE5OZzE3a2pxZ0RkZVNIVmVQaVdOaG81Snd0S0hxRWxzTDJvSEFYWkxVSklGMzdzNWdoQXlETmdSWE9RQmNISi16UkxuTTFxeFp1cGR1MHd5OEh0dGR3RlR3M1laVnV4OGZmVjQydlZhUEtQNDg?oc=5",
       "publishedAt": "2026-10-17T14:55:49+08:00"
     },
     {
-      "title": "2026 Bermuda Gold Cup Day 3 - Gold Cup heavyweights fight back to secure final eight spots",
-      "source": "Yachts and Yachting Online",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCT3QxS1p3RmNUeVlLQnREZWhOLUdjcUhOTjNDU2dXNWRJMFp1Y1dRWWNxejJvT1BGTVNwYWt3bEZmZE0wTFdQYmdCbkpGVE9mOHhJWmttTzRwdTVqYks0U0ExSE92TENiSlgyLXZWdkFVWUVLb1ZlbWh2V0xtdw?oc=5",
-      "publishedAt": "2026-10-17T14:51:00+08:00"
-    },
-    {
       "title": "Miles Russell among several amateurs in field for PGA Tour's 2026 Butterfield Bermuda",
       "source": "Golfweek",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR3p0LUlYMHpBbnYzNHlmc0hucVlpd1FSdGdqNEdfX0ZjWlhSV0ZYMGV0TGxZM0FpaHFhc1NZUzIxUzBPYUY5dWJ3SHluZXpWX0dMSXZwZjNYTkFPWGlpUmVqY3dtNzUtSDhCa1psTVZGTzlZaUZ6cUJJWExWY2NjbmFyanRGY3JtOG9DMElPVzI0ZTVoR1QwZWlHVTYyR1dDaEZoNjFaY3lodGJPVnFRdGl1RVlON0YzVlhYU19iaUtra0Uyb3hB?oc=5",
       "publishedAt": "2026-10-17T05:57:00+08:00"
+    },
+    {
+      "title": "Inside the Field: Butterfield Bermuda Championship",
+      "source": "PGA Tour",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbHlST3AwendCeTBPNllrcWtVakNkMXRVS1k4RmNVQnRxS2l4SldHYW5uUHVaakxlOEVIWll4M2g5b0lkS21fMnlab3FtSXo2c0JSM2g4c3plT1VSa1B4LTZEWk5kOTlWMUw1VGRLc0IxbUxCdDgtMUpVUEk4bnFBMzBoSzNINkpMbWU0X3RPXzh4NjluQUtld3JSMTVXb3BLT2psOXBEeGVwZVZ4ZTBrOWUwbXQyQ0pOVy1HcDJhbTdvTTVXZlJtX3ZoMlFmOWt0MnNRclZmTHozNDB1N2FHYTRNZlhtZw?oc=5",
+      "publishedAt": "2026-10-17T05:51:17+08:00"
     },
     {
       "title": "Bermuda promotes digital-assets regime in US",
@@ -58,24 +76,6 @@
       "source": "Golf Channel",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaG01WGJfSmtLWEktQWpTYkxUal9vTHVhVWtremk3b1c5NnZVaXFKbVY3VTI5UFhmTWRtZENxcmI1ZTNxeWYzTkE2Z3YzMlFUWXdWUlotQnhaU3Nvbk8ydzQtbDVhU25tUnlyVVVCd0pJSTlLWmgwMHpQZ1dzU0g4MWlVR0I5ZV9aSVUtVzJsUWUtZw?oc=5",
       "publishedAt": "2026-10-17T05:24:57+08:00"
-    },
-    {
-      "title": "Hamilton’s long culinary weekend attracts the crowds",
-      "source": "Royal Gazette | Bermuda",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFVRRll4YUdsS0szV1I3YXpSVGxqbDdlY09ac28yZC1USmVOaU85OEJYU05tQUdKaGlkeFNES2ZuSFdqem5SRlltUGFkMVNpeHhDa2tPbktZNU84UVR1MUdXellrdmNfQ3JRUzQ1ZEdOOGpjMVJUQVBUR0hGckt1NFlyeXlKYl8zUW9IM19QNmlDVGdKbUdpZ05wclFLU0JFa0hTMV9SMl9ZaG90UW9EZGlWTnFiSW8?oc=5",
-      "publishedAt": "2026-10-17T05:20:58+08:00"
-    },
-    {
-      "title": "Inside the Field: Butterfield Bermuda Championship",
-      "source": "PGA Tour",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbHlST3AwendCeTBPNllrcWtVakNkMXRVS1k4RmNVQnRxS2l4SldHYW5uUHVaakxlOEVIWll4M2g5b0lkS21fMnlab3FtSXo2c0JSM2g4c3plT1VSa1B4LTZEWk5kOTlWMUw1VGRLc0IxbUxCdDgtMUpVUEk4bnFBMzBoSzNINkpMbWU0X3RPXzh4NjluQUtld3JSMTVXb3BLT2psOXBEeGVwZVZ4ZTBrOWUwbXQyQ0pOVy1HcDJhbTdvTTVXZlJtX3ZoMlFmOWt0MnNRclZmTHozNDB1N2FHYTRNZlhtZw?oc=5",
-      "publishedAt": "2026-10-17T05:10:06+08:00"
-    },
-    {
-      "title": "Adopt-A-Highway doing litter clean up on Bermuda Bluff",
-      "source": "WSAV-TV",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaGtVcDN5cjdxd3BHdVU0Umk3MVB6a3ZOVjc4bnc2N1NScFhpVUNhZzMzZmVoLXhhd20yVU9oTEJSSzFKUHZKSEV2SmdHcWx5NzJ5Q3pORWxsRXFuMXZ0UnVaQ3dGN0ZSY3JobXN1VEs0QldGT1BHUTE0N196UzA5ZzZXUVNZUVA2dEZ4RWFrMHBsdWkzUVhHWnQ5bXdnbkhEMm9JaGpFVHAxRk5aaWfSAbMBQVVfeXFMTWUwWV9yd2JKSVpnd05hVTR5YUVOX3RRY1FtZFRwakV5WWtodl9CdGEySFFRT3R3WXZwMWNtQldPOVAtTVhsZWh5UndoaGhLbm9wLUxISmpfbUxueFBHZWJSd2M3bE5MbGNPYzBYVjAwWWpKRkdPV2t0U0haelFENTR3VmZPTWtLSTZaQXowMlZBWERUakdPTXVGZDZpZUNhZHlIR01PZVJsVVVVMmtKTzNJT1E?oc=5",
-      "publishedAt": "2026-10-17T03:39:59+08:00"
     }
   ]
 }
