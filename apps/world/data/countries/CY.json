@@ -1,7 +1,7 @@
 {
   "iso2": "CY",
   "name": "Cyprus",
-  "updatedAt": "2026-10-18T11:03:23+08:00",
+  "updatedAt": "2026-10-18T17:08:26+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
-      "title": "Child deaths in Cyprus put focus on investigations and support for bereaved families",
+      "title": "Cyprus independence stands for a compromise Eoka never sought",
+      "source": "Cyprus Mail",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNmpnWlpxR0Fta04tX0lybVdRX3I4eGE0VktCSnk2QUdPM3N0V0JEZ0FQejBwbk9seFdpWG5DYTNlcV85ZEJvNENlVUdnbUhOSGRmOTl1Mkxzb29FelBFRHhRMUtuMWVTYVVUZzJkcTFQNlAwUDZJaHhiclVmcGhFeERDRHNENzFxaXpCc0VBaWpTV1V0aXdyOU5uZjA?oc=5",
+      "publishedAt": "2026-10-18T16:17:41+08:00"
+    },
+    {
+      "title": "In Cyprus, identical groceries cost up to 226% more at some stores, and market produce is 26% cheaper",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZUc4dllaLTZweVlTckFfLV96bGtob1lDcXJ3SE1tWk5NVjJ5dHdTNlYyV0RjekduZFd3RjFfUzlJVlV4R3BMbVB2eThWQkFDNXZsdWRNSEhlWVFDQWZmcmlIZE10VFFoVmJHazRiUFdMcThSQ1dUR0NoUTBsNjA1eDhUNTJ2X0VnSEM5Mldqangyazgtc213?oc=5",
+      "publishedAt": "2026-10-18T16:00:00+08:00"
+    },
+    {
+      "title": "Cyprus forecasts 2027 growth as Morgan Stanley backs European bank shares",
       "source": "Cyprus Inform",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUTFyeGQzejdqamJHS2lwMmtvT1J1a2hQM2dNaVJ0RE1vYndnN084VHJjMjE5QmMzT0lBQno3dWJ2T1FEZHpsWWRqRGQ5M0dhbWtQeDQzR1VFd3BIM2s3LU9PbFZsUUxXZkRnLU1YOG5abHdDbGh1U3NVSkQ4T3d5TWJXNjFIYlgyRW9FQmNVcjVYcDVEbWdQQ1lHTUtZMDVLWW81Y3NyZm94SFhLOUs5SEhXVUZPZTBZdU82OA?oc=5",
-      "publishedAt": "2026-10-18T09:29:05+08:00"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWTdoc281eEZaakoyZUpWNG1od3FzdDJnckYzZmlEMUhNREJISU14MUx0eFZzRmxwdndEa2lONUxJUEJRQ3pleklKYVp2VEllaHNJNUJIN3ladjFEN3l0ZnZaMGIwcy1tSk1HaFVxWlZCQnhRVzllR29hanBhTmJ2Njg4YkljRjRzVlBSWDhZck12NnpScFIydTVwaUx0UkczMjhZUFhsNEVJQS1pa3c?oc=5",
+      "publishedAt": "2026-10-18T14:06:09+08:00"
+    },
+    {
+      "title": "Cyprus Business Now: weekly wrap-up",
+      "source": "Cyprus Mail",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwZHF2dUtydFBLdUlaSkZqS1NodTU5NTY0RVl2MTJkUjREdWNucXJWelZNaDJpQlBteDF0TFBra1RXdnlKblZxcEZsNTg5Mm1Ib1R1eHc0YUpCUGVrVVBGZ3lwVWFPQm1yTHJKbTM5bE1oYUJjdjhrcHdtYmZlZw?oc=5",
+      "publishedAt": "2026-10-18T14:00:00+08:00"
+    },
+    {
+      "title": "Cyprus gets its COP31 invitation, but on Turkey’s terms",
+      "source": "Knews, Kathimerini",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMGZHcFNvWHpPeWxxODQxU1JIY2ZjSkdYdzF4LW04aFRXUEFJTDhoQjJuSlp5RGplN01PS18tR3VjM3ozbTJuaWIyS05pZURWWWhZaFgtYmMzWi05UG5acVBEUmdhbVRPcmRaNXJnZWIzQU5SUzllUEhOSElBSzE3UDNuY1k5aGlxWFM3UFNkRVpPZUZKdkZqMnNFUQ?oc=5",
+      "publishedAt": "2026-10-18T13:58:00+08:00"
+    },
+    {
+      "title": "''The greatest risk for Cyprus is remaining a passive consumer of artificial intelligence''",
+      "source": "Knews, Kathimerini",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNanF6dHcxc1lHaDBOTFFsMVB3Y056aE5LTUxfOVhNWUFaeHpVeHFOT29oNm1zQi04bU5Ya240UDk5cUszUFhvRHBUaFppZjRqa2ZMZ0xhYW90b0N2NkxodnZELXM2c1k5VlhSYkh4QUJIZ2xmR0RPbzhaQnpQdVg5cmhDa3pxenFMQ2NpVTh4OUdjdDhuaTBuaHJuQ0Jhb01qNWJzSWFhUE8zR3g5V3hNQ0xFellKSWlDcnQ3bnRISElZVjluSVNJQnFCWmlLaER1NU01WG1ndw?oc=5",
+      "publishedAt": "2026-10-18T13:02:00+08:00"
     },
     {
       "title": "US senator accuses Turkey of ‘thuggish behavior’ toward Greece and Cyprus",
@@ -46,36 +76,6 @@
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZUNOMWJxbnc1aHVrZ2pqSjhXaVRDWmp5N0pPS1Bhdl8tN29ENVBKNld5UDhQMzVfRHBGYU5vQWktUnF2UDhzQjdkRTF3NUhQdm9jbkRpb0h4NGltNGduQVlYMHM5Z2VmYXZDSW03QmJvR0kxSjgzMUh2X21maFdrOGhObjZvUkR3V2wtWVJFNG1jeU9NNktfN0VjRldObTZ0RGswTHd3?oc=5",
       "publishedAt": "2026-10-18T01:37:00+08:00"
-    },
-    {
-      "title": "Turkish Cypriot fuel workers’ strike ends with layoff decisions reversed",
-      "source": "Cyprus Mail",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejRBVDIzbVFQTkVaY29GdDVWUDVqWTJEQ0ZLWURHQ2dJUWhoMGpnSFdBY0JiTkJhUVJXcXlSMUFZMU44S2lHcE1OVGE5NTZIRFVGa05yUGZGeXF3WHBGOVhONDZkM2JMbzVXSk91SUo4Zm9ad2o5U2FfVHY5VTU2Z2xLQzVidFZwV2VRLUxuNkU1UzJMdmptcERRUTVyQlFxZ2ZRQy16ZGNaUQ?oc=5",
-      "publishedAt": "2026-10-18T01:13:04+08:00"
-    },
-    {
-      "title": "Cyprus Museum welcomes Giannis Koutis album presentation",
-      "source": "Cyprus Mail",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa2VZZWlsZEhPZUxDSTg1WWE3dVEyNXVoVm91MjNkZ2pxT1FyRU1pTVA2QnlZSXFIaXM2TUYxSmo1Q1pTOU5WamszdnV2elhIdGxoa1FYRC1BV0k2dllpRm02bmJhTDcxMGZtdXpMSTFsbzVMTzNLa3lxLUdMZk5tY2tJR2JpTzBIeGZFV01ZQTF2UmFweHc?oc=5",
-      "publishedAt": "2026-10-18T00:00:00+08:00"
-    },
-    {
-      "title": "High-Level EU-Turkey Meeting in October Will Address Cyprus Issue and EU-Turkey Relations",
-      "source": "The National Herald",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS21ySHotSTRsSGk4UXRKNkcyZENGYjFTWHhxcklJaVpJbmtpTlJlc2YzaHZ4dEdMTkl6TWk5dF9FclpWUWVfVWp1eTAyLTUxZXFsajduQnFQQWZ6UUNia0tuTWJpY1hjZDZkdTV3QlVNT1N3XzVHZVU5OXptSzZZeVowZTFDVHlOTUFKYXh2SDhteXpYenduRHprY3R0c2xpRnF2ZmNCaXlfRHZhanpyMVRXcjdxQ3JSN3RCTU92MGdwZw?oc=5",
-      "publishedAt": "2026-10-17T21:27:26+08:00"
-    },
-    {
-      "title": "Police use tear gas during protests in France — Cyprus Mail",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnlaaHNtWkx5YVRCd0JGNENGTWdadWdOQ29lYUxmV1VUOV9nQzlGVWd3dVBTXy1nNU5sakVGWVJnT3BDNXdaVWNWQUV5YUxjb3NCaEczZWExdG54V2g2dmNlVGNCelRhYmVvWFEtMmVFZzBldE8zdGd5SU4yM2o3REFpYzdkZ1M4TUpjWmJFRjFLa2V2WDdoanlvWGFhZVdKUnpfcEZfUVQ?oc=5",
-      "publishedAt": "2026-10-17T21:13:13+08:00"
-    },
-    {
-      "title": "Turkish broadcaster warns of possible naval clash over Cyprus electricity link (video)",
-      "source": "Knews, Kathimerini",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS3FkSGtlMFdaYnBRSXJfeU9WNE9wVGUycFJOeF9kSG04cndHRE05Qk9WblZzVFZNak9SMFVubDlNUzFmWkZQd1FMeDhRVk1QcnVaOFh4ODFGZzFTaTRrWXlEbkpYRGVKZl8yMWFsQkxOeUJuVi1TNDh0VU9qU1hiZFAzeVBJaWNQVGgwS1hKcFBZTmFGWWdlNkI1VXhyc2M1bzQxakFvV0ZLQWN5OUVGRFVlekU1NEFLT05wZzFCLWl1bnc?oc=5",
-      "publishedAt": "2026-10-17T20:09:00+08:00"
     }
   ]
 }

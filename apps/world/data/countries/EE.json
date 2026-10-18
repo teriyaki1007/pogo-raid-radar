@@ -1,7 +1,7 @@
 {
   "iso2": "EE",
   "name": "Estonia",
-  "updatedAt": "2026-10-18T11:03:23+08:00",
+  "updatedAt": "2026-10-18T17:08:26+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,28 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Number of debtors at North Estonia Medical Centre doubles — ERR News",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMDlLVG9PMXh5MDVnekJoN3hqRVRnOEw3aW1DZHdFUEFkTS1zSU9SRnJMM1Z6Ul9KbEM2Z3ZoaXpkeGRaYTlzQjlWdE1xN3V0UjRPbkR1akctMFNMYkJNN3ctd2gtM3hZZk90NjV4VkdvLUdOVDU0bXpuN2tkRVoxVVNUZk0yU0RSc291cVQxQ0c3ZXdTd0tvVDJfazhOTk9u?oc=5",
+      "publishedAt": "2026-10-18T13:38:16+08:00"
+    },
+    {
+      "title": "Is this Europe’s weirdest holiday? Bog swimming in Estonia",
+      "source": "City AM",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU55bFNZclhTWXhtOUlneVVtRE1GdjJTNW0tWnk3R0piSmlUNl9vME1TQ1FFdFJvaTI2dGJFZUl2NW5tMEI3Z2xrazRwOUpUVFdVUm9oSG5MUU92TmtkSExMRkxFcFFkVXB5MTJYbWZvd2JVUWJkWF9TZl9LYVNhR1VGOHAyODg?oc=5",
+      "publishedAt": "2026-10-18T13:29:00+08:00"
+    },
+    {
+      "title": "A week of Estonian design: where a factory floor became a gallery",
+      "source": "DesignWanted",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yVnNNZ3UybUg3Vzc3NjItajlNNThNc1ZPQjlDWExsZkUtcS1PSWZIVWRMaFRQS0hMWk91SXU4ZW9tMGFxcGVmdUF5WFJVMEsxZFJGRG0xdWNYSUFTYjdHcFNQMFVvbGpCVmxSTW9IeloyOF9Gdzg5RjBB?oc=5",
+      "publishedAt": "2026-10-18T13:00:00+08:00"
+    },
+    {
       "title": "Over 50 Medieval Cloth Seals, Including One from Amsterdam, Discovered in Estonia",
       "source": "Arkeonews",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNWJXSkVYeWNpSWNIaFZTald2YnZPcGU2UzdwYU5WWnJuTjk5MlpWbW5KYnd2WEtJYWtfNmNBTWlObnNVT2lhWGEwZjlPTzJSaVRBck05eWYtTkJQX2hrYmlzR0pHY2Z2c1JGeFBfWFNoc2hwdzllcDBTNmg5eWtzV3BYVlRXQ0c0ZGVReDhIT2thZVBOU3J5S211bnY2b1VnMEpTMw?oc=5",
       "publishedAt": "2026-10-18T09:48:57+08:00"
     },
     {
-      "title": "Rugby Europe Conference: Luxembourg rugby team delivers stunning 106-5 win over Estonia",
-      "source": "RTL Today",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3pZNDZndkxSa0NEOHR6SFR3OXRVZjhjZEVJQU5BY281R2ZJWGVtUDlHU3hfVHh2NTNmUXJrSUhGaHQ4ZS01azY1dnFSb3FRV2kyektiNDRGVHhVb1BvTEx5MC1tRko5LWEzZUJuV2EzZnVPTFZoczhsZjB3M0xQbC1LSXVXcVpSZ3BFeDVjLUNpMktHaGJxeUJRbDBFZkVBTTFxQVFCdWlGdw?oc=5",
-      "publishedAt": "2026-10-17T23:15:00+08:00"
+      "title": "‘Little green men? We'll shoot them’ says former Estonian president",
+      "source": "TVP World",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2NCRm5zbkY5WHZqRDViSDlVYnU3Q0V0Vl8yTmw0bW0zQ1VwQ1BrdklZMmdvdU8zRTJFa3hXU1MwOWdlOC13QjJjWDl4ZDZvZDg2aXFWZVVJc29EU0t0MklVUWV1Vkt4THVNU1VoZkUzd21jbFotUm5WUnQtTEhEVGFzQkdzMG9pOGhndEtNZ2F5MnpXNEZscg?oc=5",
+      "publishedAt": "2026-10-18T01:06:00+08:00"
     },
     {
       "title": "Estonia's Reform Party unveils slogan for 2027 elections — ERR News",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3pIQVFvT0NnelpiQUdGSzAxdjh6R281amgyMWFSM2o4azZfNTB1NDZwWnk0Z3FrWWh2amFYaU1yT1JOaWU2MTd3bmU4UVRZTTVRN1BjV3JoN0N5U1IxVWNlUHlYbW5UcXZzQkdNcUJaT1dfekZuNFRtT2I2Wm9rR1ZFVmk5STlMUGlnTld3d0E3WFM0UWhjVFdDOHI0QQ?oc=5",
       "publishedAt": "2026-10-17T23:10:18+08:00"
-    },
-    {
-      "title": "Nearly a third of teachers at Estonian schools lack qualifications",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdEJjZjI5Y2VXNFVmZ2ZlQ1ZpTmUzWXFQLTdZOXFOa3M5X3RQUEhyX2lFZWhPbVphdUJCTVliUkRTREhMdUlJZExBTEZaanVEYnVhdkpNVEdUd3dZdTlJRGo5dEZocWNzU1dSNHFTZkJ4OUJBYnVIdnlYQ3p5emwxai1FRzN3c2pmbnJna3NVQjg1Mk1iN1hYQmhaN2VMMHNncElQeWl6c2t3WDFsNVF6WDlqNlFtXzhS?oc=5",
-      "publishedAt": "2026-10-17T21:21:19+08:00"
     },
     {
       "title": "Nearly third of teachers at schools transitioning to Estonian unqualified",
@@ -64,18 +76,6 @@
       "source": "Defence24.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWWJsQnh6U1dWOS1FLWNnaHZRTlZ4aVpyV3dRNmtuaEtaUmR2d1E3aWsyam5sU2FXdjk3Z0hoMXQzYlF6bjM1bXNGazRXQnZRaHMxMGZpOUVkOTZyWXQ1RDRLOG9CdEFRaVVCRnNNSlZuNk4xS0hlM3d2blpMNk1Bbk5DOHU4X2ZUd2xZdDVfS0JpQTNZY1MzQVExc09RaWlnWHpmZk9xTzJITUVrcFVKRkdQUDI3T19aRzBZb0VRR0ExLTZ1Q0Z2Tjd3?oc=5",
       "publishedAt": "2026-10-17T20:00:02+08:00"
-    },
-    {
-      "title": "Estonia's Eneli Jefimova sweeps skins event, snags MVP at college swim meet",
-      "source": "ERR",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnM0a0FUd1FGQURqMllyVk5SM3RHY19qUUU3YXhPNWNjX2JSRjJFX0VuV0JWRHJMZk1KaHhSVUxCckhvaVdJSFFfbjduTnJtMl9XYTNJNzdORFo5NG5xcWt3VXpwRGp3a21rTG5ydWpsVXluVE15dUxjMUNpREhmblZZZUFibEJaTElnRm4weWNRc1ZvODcyLUFUNkRaVjlqaE5KX2FfVUo?oc=5",
-      "publishedAt": "2026-10-17T19:59:00+08:00"
-    },
-    {
-      "title": "\"Little green men? We'll shoot them\" says former Estonian president | Toomas Hendrik Ilves",
-      "source": "YouTube",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBOMmZ4ejdLUlFTR1ZMaVVGSkZSamRBOE5CMkgwRkdpa3Q2SzFsalZLemlHalRabzJoT0ZvQjBfaUxpN0ZLX2RySF9RVlBMM2ZyaUprZmhtejBhQWZm?oc=5",
-      "publishedAt": "2026-10-17T03:17:28+08:00"
     }
   ]
 }

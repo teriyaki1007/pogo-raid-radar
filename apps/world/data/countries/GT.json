@@ -1,7 +1,7 @@
 {
   "iso2": "GT",
   "name": "Guatemala",
-  "updatedAt": "2026-10-18T11:03:23+08:00",
+  "updatedAt": "2026-10-18T17:08:26+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "LIVE : Former Guatemalan anti-corruption prosecutor shot dead at sports centre",
+      "source": "Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNHdoWnZKT0QybDByZnV2RjNVb0x3alVsSkVjajhRQmk4bjNaR2o1aXdYTzNWWFZYeGtBQjdGTl9xejN3eU5yQ1dTS0c0MURwYk5xcWZ6aFlkSklUNmlhbEFtcUhRQzQ1RW9udlJXdTRSdnY0OVNIenB6WWxTS2FEMl9scjlhc3RYTmxxZ0d3U0lWc0ZGZGIyVUVLOU9idw?oc=5",
+      "publishedAt": "2026-10-18T14:35:09+08:00"
+    },
+    {
+      "title": "Guatemalan former prosecutor shot dead at sports centre",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSmQyM1EzOEpTSUpKS1M4cUd3Z1NsaGF5QXFwVU5KejVDRURaOGY4cmpfQ3R6YjRORVQtMkpqWGd6MHpqTzRhWGNRS0p0UGRZWGZIcUN4alM3bkN5WXJ3MVBNUUhGenJNMkR1aFFpdmhBU0wwNDdBTVZ4MFg4NzNpNF9qWXBoWGliR1ZJX012SGdudTIwQjJ0bGxqemNkQdIBowFBVV95cUxNcFVTQ3dQdEFUVVVkUmF1ZG5fbENNdmd0U21sZ2M5QWExcUMxbDN3bkdubC1tNXdtb1ZYMHhDeHU2YXExeVJqRlRlWS1aQVRFczZOLTFCZDdfVlVMbm5OX0xKSTNqODhuU25ycWVMeTBLczM5NlJlOFY1V1REX1VMNy1DZk5UeVR1eDVzaTlfeTVocllnVGlNbTluQ2diSUZubFFJ?oc=5",
+      "publishedAt": "2026-10-18T14:01:11+08:00"
+    },
+    {
       "title": "Former Guatemalan prosecutor and ex-tax authority chief Solorzano Foppa shot dead in Guatemala City",
       "source": "The Lufkin Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNREQ1ZXBUVmFpNE9rLW1VRHNMaG43R2l5NVoxOFktbzR2QnJ0cDBpa2lTNEZGdlhFRWZZbU1hM1hLNUxxWWx3WWpBWnRyTTVYd01SZEVFU3M5a1ZoNGdtcmNSeDU5WllycUd0akxMVVdOUmhnbmF6blBXejNWWkVOcWllMzY5dVVQdXhmMTlYYWNXb1FmRlZYUTVGTTR3dVA4eXkxVXQyTHlzdzVrSm9zVzNXM045cnF2Y1pNN3B0ZEsyc1dpYnBuNzRTbFVmZWhVVEdRWWlVZVMwSmNYZzg2aFA0aHVPWmwzaXplUUN6alZWVWR4bXluYnhZYUpMNkdieTQyRVVjeUFwOXFYaVd0bkxMZmJMQlVoclFKVnI3VTZiUTQ?oc=5",
-      "publishedAt": "2026-10-18T10:32:19+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOZjZWS2ZzQS1KdEVHRTVjb0l3bjh0YVBxbHFYOWViRk5fbGNLd3NzS2FBNUFrMnAzUk9MeU82dEktZFRhOGloamJUdlZRemU2SFF2M2p0MVp0Mms5cGQ4bFdtRHFCZE9jN1FSWlo5V1IzdDdvdGdoM3djMGdIT2huRDB6Y1VMLV9KcjJ0eFZQdUk0S3p0Wm1DajBGVi1KTDJnVWxkejF1VlRnUVJBVFh4c1RYVUdWS3h4eDVPTEpTdi1DZGowT1UyUndROG5ieGFzMWUtMTBqM0g5MUNTZW5JVGpQMnBFTnFXcTVZei15QzZ4aVBxZlB3djE0ZlE4LU9KVHZuZEQ5aGJPUTBJMGxkUnhYeng2VjlUOVNjT0JybXM2Q0E?oc=5",
+      "publishedAt": "2026-10-18T10:32:20+08:00"
     },
     {
       "title": "Guatemala’s former anti-corruption prosecutor murdered on a soccer field",
@@ -55,27 +67,15 @@
     },
     {
       "title": "Pocket Ultrasound Brings Bedside Imaging to Guatemalan Medical Students",
-      "source": "Bioengineer.org",
+      "source": "bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMV9RWHRxbW1Kby1UWlRqLWVldDRNMjR5aEF0Ykt3ZEl0WHlOSklpdERaMURCNEhWTDZCU0ZoTGdVZDJ0M3hLM19WMnJxZ0ItYTZ2NjFXcHJ4YkdQVGdMMDFaeDdXQ0NtZTgxSWtmMHAyeU5kQjd6c2lLR0hYa3JrWlpELW8wMWhDZjlBMVJ5ampqb29UUElfMzgwa0Y?oc=5",
       "publishedAt": "2026-10-18T04:51:18+08:00"
     },
     {
-      "title": "Prominent Guatemalan Anti-Corruption Lawyer Killed in Shooting",
-      "source": "U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV1BadzdBYjRyODNiUGZjNi1jSVY0MHlTT3cwNjR6bFhTbklrNC1aWDdxaDFmN0xmaVpXdlZNSzBBVFRtcjBtcnZ6Mmw5U2IyZ214RUxnc05rMkZDTERvUzlCOENBc3hwREo4Wk5SdHdDbnMzQ1lIM3l4aU9UNkVIWGNRS1lVX0lvbC02bGxZbVM3cnA3ZGRHM0tyMUppaEJXWUFfYVR5NEZoMlZUSXp0M1o0LTVXU0E?oc=5",
-      "publishedAt": "2026-10-18T04:49:16+08:00"
-    },
-    {
       "title": "Bird surveys reveal which vegetation patches still keep Guatemala’s coastal plain alive",
-      "source": "Bioengineer.org",
+      "source": "bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFp4czRtazdHOWFTWlVxNXc1eUlWV24ybFg1YklkNjBFaUt3WkJpSzdhVGJ5N1B0bUhXUmJrZ0JsVVYwTmtrNWVNcF9RTnJaU1gyWFJyNnlpUVIxOHY0ZkdjRUZrU2p5Mm4tSWNIVWM2Yl9JN2w4LUJXQkNSY19GRGMwd0FzUmxHSmpMWnR5bXVyNXN4LUlocVh0U0ZSZF84VVlnb0x0ckFxb01oeUNPSQ?oc=5",
       "publishedAt": "2026-10-18T04:46:18+08:00"
-    },
-    {
-      "title": "Belize Powers Past Guatemala, Keeps Final Hopes Alive",
-      "source": "norceca.info",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QVlY4S1pjQWlsM1dzTU81UGdTd3V5bElLdWI4MVgxTWN2cDJkSm83YkY2QXoxSy1feVJHS2tQOWNkb1RuVDdZZll2a0hhU0JfRVNmZDlpS1NwcXU5VEtmeDZnZ3BOVFJINU5NeC1ZdWxOSzdpd1RMTHVzTExSalE?oc=5",
-      "publishedAt": "2026-10-18T03:58:00+08:00"
     }
   ]
 }
