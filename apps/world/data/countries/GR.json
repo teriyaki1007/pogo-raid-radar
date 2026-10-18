@@ -1,7 +1,7 @@
 {
   "iso2": "GR",
   "name": "Greece",
-  "updatedAt": "2026-10-18T17:08:26+08:00",
+  "updatedAt": "2026-10-18T23:02:37+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,22 +30,40 @@
   ],
   "headlines": [
     {
-      "title": "US Senator Accuses Turkey of ‘Thuggish Behavior’ toward Greece and Cyprus",
-      "source": "The National Herald",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkpka0ZGYXdwX3dBb0gxWEZVc1Q3NHFiQy1PaFhuNkl4T0JIUVVPUlJqWDE3akQ3TFNMTWNEZl9CVzJqWlFtakZvQkd5a2VGMXlmOGpBWHN1bWctamxMQmpDbmxwNm1xZm8wdXJ5SFBWdjRieHBFY2pydVNYQXBZV25Qbk05Ym1HaXRfeU5vY09wU2RDTHNfTHNyY2FtdlFFajlqVGJDbWw0Zw?oc=5",
-      "publishedAt": "2026-10-18T16:35:09+08:00"
+      "title": "Two Killed in Plane Crash in Northern Greece",
+      "source": "GreekReporter.com",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5USV9hd21uOTd5d1dUN2Z2WkF6ejZIYV9KdVNkak52MnJuSkVDZW83N28zblpSdXpFbDZTTE9aelBseW9vblUzakJPZTNEbFlJZ20yUUZCamZIdzFxMGVGb0ZaMEVYdWd5MmNLdXY5NVRvcE9r?oc=5",
+      "publishedAt": "2026-10-18T21:31:40+08:00"
+    },
+    {
+      "title": "Two injured in light aircraft crash in northern Greece",
+      "source": "eKathimerini.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdERnN2Iwb3NvdEVqbjZZMVJzVXRIQmNWS0NhTkJ1U1VJOXA5THFoYWZIaVZ3YUo3Tm9GMEtDVmZQRWJzN3M2RmpNSVFnMmo3RElVcjlkR0FFbzk4aWJkQjl0LXllZFhmcHo4ZWgwQ3dxY3k1RWFoeFpYSjV4dlRFZUVTTDJsc2p0S1FkRmVaLXc5SURMWkhuTVFRMDBwUQ?oc=5",
+      "publishedAt": "2026-10-18T20:46:51+08:00"
+    },
+    {
+      "title": "IMF Chief Cites Greece’s Early Debt Repayment as Example for Argentina",
+      "source": "GreekReporter.com",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RSlc5eHdDdWxUNGpYbUR6YjFndXBnQjRCRDhiVnptUG9fZjdkMzBSdnhLc1liX2NyVFVibjRLTGZfdmVPc01iZXNkYm5USE80NTVyZXItX2VlUXFxTmY3akJrYVBtazVtdV9CbFFVQkZKQVZ5RGRJ?oc=5",
+      "publishedAt": "2026-10-18T20:10:05+08:00"
+    },
+    {
+      "title": "Ancient Arsinoe Excavation Reveals Columned Courtyard Building and Bronze Coins in Greece",
+      "source": "cristinaiglesias.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd1hRc2Jha0gxQU41RE5aOGFmSTZfTEVhSjZTSUVKNHVsVEJhYUJfU3p1Mzk3SVdUb2xvOFVTekQ4SnZ5ZkFKRjB2eEFLWEhZTWxrYXBkSDliamJMcjJTaXhCRGNMcG1jWDFRUGU5cGtQeHRJS3hDbGF6R0ZVZjZoY1Rzcy1BZktTRWtMSHZDckU3Z3NST2k5UWIwOWE1MWdJVTBoSW5RUktzaTBqaVhNcTFUX1RVR2ViNWdxZ2RtTHdhbkNrX0E?oc=5",
+      "publishedAt": "2026-10-18T19:22:18+08:00"
+    },
+    {
+      "title": "'Sing for Greece' to select the country's song for Burgas 2027",
+      "source": "Eurovision.tv",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMHpuaFhudGhEWTliOUNhcGZoNEpoZHNKOUlOdXZhRWphY1FTb1gtbGRQQk5ZRkNJSVp6Zy1kOFNSNW8zVUVSVnVsa0RpV0FKaUNya1I5bE9PUlpvaE1OVFl4V2E5eXU0bzFXZjlJWFBjSnZwU25TTjJFSnhWcHB3dWxtUlVzdw?oc=5",
+      "publishedAt": "2026-10-18T18:06:00+08:00"
     },
     {
       "title": "What Rubio gets wrong about Greece",
       "source": "Neos Kosmos",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSG9WcDVteEtQTFpWNHVXVmZQanBPOWlXUThCZDM5azJGWmIxcTJtYU9UUHROYVRMMXlBWkp0TVloS2ZOWWxvS3I2bjViU3FZNDVpekRxVzVzS0FUUVBOUTRhSFB1T2lDdXd3d2xYa25nNER1Yi04X1ltZWRXNFVkRVA4c2NvaWp3MUR6bXkwQ0xMa1U?oc=5",
       "publishedAt": "2026-10-18T15:26:39+08:00"
-    },
-    {
-      "title": "Warmer weather, local showers forecast across Greece",
-      "source": "eKathimerini.com",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOc2E5OWdaTXExS1A1Zm1NZmZWd3RvX1pWNkxLXzFEajU0bjZwTDBkekhMcS16VnBBRzN0ZmtlSGQzTWxHUl8xc0s1MWNRXzM5cVRoVEFoQXRMRXdjaEhsUl9ZYkwzSV81Q0RtSm5ST2k1Qjlac0dNbll3ZGJnTjFSVU90a1ZpeC1VaUlwcXhjNEwyWHRSTkxoSHpR?oc=5",
-      "publishedAt": "2026-10-18T15:01:50+08:00"
     },
     {
       "title": "Venomous Ottoman Viper Found 130 km Further West in Greece Than Ever Before",
@@ -58,24 +76,6 @@
       "source": "The Lufkin Daily News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVXdKamtNN1pIdVN1aWM3SGlKYVpRenhPU1lEZ3E5eTg5ZGpiVmZrMFpJdWI0YWJUcjhlVHhWb0t6bHUtR1VPb05LZkZlbVl0Z003Q3RnNmk4dExrQ3lWb3pwbkwzTWt2WHpWVDJja3M0WERNZ3pVeklwaDk0MDItSnBfQUdfSDdlbDc2YjdINE8tYkRuYzZFT3c1aWQ0MjVMWk5Dc19WWmhUc3Vfc21hRGNZMmUyOVF5MFR0QXVaZGE?oc=5",
       "publishedAt": "2026-10-18T13:15:17+08:00"
-    },
-    {
-      "title": "A Private Romance, A Reported Greece Wedding: What We Know About Anirudh And Kavya Maran",
-      "source": "NDTV Profit",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPazRTYVFNcDdHMjMxTzBoRVNjTEc0aDFTRzhHLW5FeWhfS3hGODFleF9YOTJMTUk2b2lxUkpldWdRRFFUSUdFRlZ1dmJJYlhXenE5YzlIRWh2N2hidEZJckg5bGVGbW1OendtZDV0MWtib21Rb2hvRFRzZ285bFg2YUM3Q0pjc2ZOcHNzTEtxVWZES3dEMHFRM19RblpJdmViQWhLUk1IWmw5MUVtQUM1OGQxc0NIcUR6alFUV3I4SUU3cF9PcmRQY01UZE4zYkxMWjBjeVJZMlhtU0Zr0gHkAUFVX3lxTE83Ymx5bUFlYkx3V3htbklkckh3NFhLU2NoQzZlQ2oyOFFUTHREbEF2Ri1wbGVNdnE1c2o3WVN2emR2TWpNekppVEo3Q21oVVNRUzZDeEtzck1JTkhEd2NkTnRTS0hINkgwVmRWTHhvM2hJUmFYdE10QXB3NmR1YmZ6NnJPek5jNW83R05qMTYzNFdOczVZcUE2MnpqWGxTcnJBUzl6ekNKRmdCNUlNcnhsOUtHbGQ4X3JRWnN3TjE3UjFrU1phV0x1Y2pGQ0hWcTFlRGFuZVBXUUJKRXhnTjVzd1Y5aA?oc=5",
-      "publishedAt": "2026-10-18T12:12:18+08:00"
-    },
-    {
-      "title": "Greece explains why it is not supplying Patriot missiles to Ukraine",
-      "source": "Ukrinform",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGIxWVBUOHhDdTFQdllqVlFlbDRpVzFzbWs5bm5ScmpBa1g5X0x2cENrcFdwb1V6c1ZrX19BMUNwVzlXYUxiUHZKWlFsMjFvREpRcHVYYzYwazdTVVNyOFpUQ2dhdGJVbW9lRmh4LUlDUGExenl2TXUyWGtRcWJDUEF1dG11NlFjQ3gxM3ZnM2xzSTU4anZNTUU5TFRsY0MyZlNRaFlJNjU5cnBfZHJYWUpCaE9GVU0waEVPUzQta9IBxAFBVV95cUxPcE5tOEFEMGNtbTZiZGpESWF3LXI2aUU0SG9iXzc5X1hRMENxMFRyUS1PRW1VaUZmV2s5V3Jpc1hzejRaM2Q4bzY5RTJvRjU5eDNXQWMzT0ZOTjFyTWlsUDgySGN4bFp3M3pQWG9xQm9KcUVQNlJrbUFQQUYtMWpVRVhDbnlOWW5WdjNfODBwN2hxeENPUDhPQllhUThZRFpRU1pGOTFpakYtb2JkSlMwTE8tc0diSlF4R2ZNSV9UUmlHNUZP?oc=5",
-      "publishedAt": "2026-10-18T08:32:00+08:00"
-    },
-    {
-      "title": "Greece will not transfer Patriot missiles to Ukraine at the expense of its own defense capabilities — Prime Minister Mitsotakis",
-      "source": "Ukrainian news",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN2tLcmFpT0t6c3QwM1NNNWNHT1BvcmRpNWxsTEQ0X1V3ZWx0QXVnOEcwUzZrdGZtRnlHYlNkWDN6RkJUOWlQQi1uanNhZUR5WlBDWUpCSFNZUlZTV3pFR2V0bTVNa0V1TC1xdUVsZV9lcmZteFhKNXVSZ0JrbGRzVC1icE5CZnV5VnlNelp0Wmg4VHhHTWVIVl80bjVENVZxV285MWdjSkNiRkdYVktwYWsxUHpVZkFHcWczN3dqUTBDNURmRzNrbk9ycUtlUVZqaEHSAdcBQVVfeXFMTm1IZjVNZFg1X3pTWk5QeEtDMDdWT0JSTHlMN0JjWFB1cnRYeDJIMDZ3YmEzTkQ5Ykp0N3BQNW8tTmNRYWNrNGpXQmRRYlJWYURuWTRYTHFBS01ZaVNISDIwSHZBaTFKdFRIWk1MVnFqejJVeDh2eFVFdzdrZHdQSnU3dTQteEJlZS1oXzZTZHRLZ3VMRDROVjJaVXJ2bnZudldpWnFjWkFWcTVDazg4NzlJNFpzcWF4TnNkMzV0NFZxaTlMWHNIeHA2aVMzWk0xcXdLYmlaRDQ?oc=5",
-      "publishedAt": "2026-10-18T03:03:53+08:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "iso2": "CR",
   "name": "Costa Rica",
-  "updatedAt": "2026-10-18T17:08:26+08:00",
+  "updatedAt": "2026-10-18T23:02:37+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Costa Rica Storms Return After 2,000 Lightning Strikes in One Day",
+      "source": "The Tico Times",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1TRkU4QTBobjUtMEg1RVo3X2JRMGJCYW9tb1RPZkVCSFh0RlJrUG5zM3cwRHJlOFRkTjhrOHJ1V2FFWWtRbGFuZ09IZXVNRXE3REtNYVE2QjNDd3JJNUNOandTSkxZbmF1cUh3WEJZcV9UY0ttWkNNWHB2OWQtUQ?oc=5",
+      "publishedAt": "2026-10-18T23:00:00+08:00"
+    },
+    {
+      "title": "Costa Rica’s National Theater Celebrates 129 Years With Free Tours and Concerts Today",
+      "source": "The Tico Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVk5jbmlnZnNTRFViT2ZKMkRQN2lvT3M5NXNPYlpwWUU4NWZXbDhmTXZNWnZBdzlIMFlFOHVzVjN6TVB0UHV5b2Vycm41bTBJVjBxMWxxd2swZFRKUHJmekpNbEpwNHpsU2QtUm93ckozSkhsN1ptd1hadkhscU5tTmxYMHg?oc=5",
+      "publishedAt": "2026-10-18T21:41:00+08:00"
+    },
+    {
       "title": "Costa Rica’s Marine Nematodes Remain Largely Unknown, Review Finds",
-      "source": "bioengineer.org",
+      "source": "Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLUpHN1ZyV0dRQXVyMUkyVllFT1Y4OUtTcHVuMjFoUG1kaFFEOXY2ZDF4T1VGbDN5Y0VwR0lkdDg4cHRMNDAxY1M2dENDVGcwbXNHRXpsUU92Qk56RXNqbm9jdVVQWWhlX1pDSTgtZ2tRR2c1ZUFtOEdIbHZ0bjVnM3ZUNWpfcUhCRlZKcjRiU083NW8?oc=5",
       "publishedAt": "2026-10-18T16:31:19+08:00"
+    },
+    {
+      "title": "Nicaragua Comes Back to Defeat Costa Rica; Both Advance to Women’s Final Four Final",
+      "source": "norceca.info",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaS1MRDQzOHdEQzhFemU0UFBGbHBZSWwzc09VTXUwS3hpN3h6SWhQSHBBZTlZTWJzY3VsSFZ5d01HVzBQUDhlUkVsUWpoUUkzenFub0hvX05nS1VOWXNicHo0WHllTkhpSGs5T1Jmc3RrWFFPZnQ3Vlk4ZGcwNFZoLXg1bHNubzRKUzJ1TG9nZl81QUhxSEhmUzA4SUtoNVFWYjQ1bW1B?oc=5",
+      "publishedAt": "2026-10-18T14:54:00+08:00"
     },
     {
       "title": "Costa Rica's President Fernandez tours CECOT prison during visit to El Salvador",
@@ -42,34 +60,16 @@
       "publishedAt": "2026-10-18T11:47:17+08:00"
     },
     {
-      "title": "Costa Rica Office Vacancy Could Hit 27% by 2030 as Multinationals Cut Jobs",
-      "source": "The Tico Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQWs3UUxBd2FCZXlxTmI0dUp0ZlBCU3BESmE5VWZmQUtaX1J6U25mUEtUcXhWRVRHWTM3ZjNTU2ZHbVdxWU9PX3NvYlRoUDVJaVM3SkZKNkxMU2k1eXRWbEpXOERBWE4wOFI5M1RqbmR5U01iZkJtVHJzWHAtNzVwdldHSi1RSHVMOEpJ?oc=5",
-      "publishedAt": "2026-10-18T10:03:00+08:00"
-    },
-    {
-      "title": "Matthew McConaughey's Tequila Brand Debuts in Costa Rica Through Luxury Hotel Partnership",
-      "source": "The Tico Times",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OUHI5SE0tR2pIY1FQM0tuT05zMnczek9ERVJua1NhWV9DVm9fVjBBMXRsX0NRaVpjOC1uT3lwM1BYc2ZYVnpXTWh2eFdwcjRvT0Qxb2JkWFJUclM5TEhmZjlPdkd0SXMzM0VnOE9ueEZIM1piWGlDRkY2SQ?oc=5",
-      "publishedAt": "2026-10-18T07:30:00+08:00"
-    },
-    {
       "title": "Argentina to begin post-Messi era with Uruguay, Costa Rica friendlies",
       "source": "The Daily Star",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVJWWm41akVIMVQtNVRpSXhBN0oxMDNScmhXMWxiQVA1cURaRi1RbzZLRUJDNDc1WWU4SDVQOU9fYWlyMFQ1VlRRQkNoX041TUN4eDYwRWw0X0R2QnpXSDNHS0RsR1hFVXJYbUFBTWlQM0dvUTlNVERxaXgwb1hObWIySVp2SkttWXM0YTdmbEhweXJUaVVSRjNEd09VcjVxRXNrQUJ1WUl4RzI2WDYtVjJjS0J1QmhRTGc?oc=5",
       "publishedAt": "2026-10-18T02:04:41+08:00"
     },
     {
-      "title": "San José Municipality Cancels Zapote Fair Tender: Are Year-End Festivities at Risk?",
-      "source": "The Costa Rica News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORVhxLV92SzJ6eDNTUnlJRFZRVjdxMlhYam9Wb0wtYlhJeWtJY2tsVmQ0ZWQtaE1sc1loNXF5RlExMXRDYnVVTjNxcndtZFp5Q0x3eUdlVjRBN3dSN0VERzdET2ZYQm9lYm16alBPQXY1U1g1OUZxRmpwanowUnV4OFNhejYxdGJKSVI0ZkVRNXBoODRUNGZhUzc0NlNnMmE1eXF5ZUpyT1Z1VHp1VjZpMQ?oc=5",
-      "publishedAt": "2026-10-17T14:27:08+08:00"
-    },
-    {
       "title": "El Salvador Costa Rica",
-      "source": "Goshen News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUkN1bS1DYUpWZnVldUU4TnpPbkpMRzk0YjJ1aEJMb2h2TjRYLWR5Uk1MSl9JZjNTYWp3RDNBUlgzZzlOdGNuUDd6eWFWSF8tNmhDX2tpMEYwWWpmcEtTb3NJSkVlTkRCblpxYXN6cHpwLS1iSjFBa2xLd1hGbEpYYmp2ZFBqNHF6eGVZSGhETTE4MHNmNm0xamcxWTFJaV9mblVLbUlSWnVtNHRaeXdKaEFZcTNIYmc?oc=5",
-      "publishedAt": "2026-10-17T13:15:07+08:00"
+      "source": "The Herald Journal",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYUIyclpWM0J6dGw0OHJhanhodlNKaFgyNDFqQ2hRekRMRzkyWmVSMWpkMUJtN3Vhc1hNOTBGNlhMNnN3OG01NXl4QXJjWEN3NkIxa25zU1dlWXRUaF9pMFZxWEIxUmdpS0d4TnNyVkhNOUtjN0lxM1NoMDZ0TUJrWWZLUjVMSkpuRFFLRUNGN3dHUmU4S3hyd2p4UzF1em1Z?oc=5",
+      "publishedAt": "2026-10-17T10:56:25+08:00"
     },
     {
       "title": "Costa Rica's CACCO opens: cartel bosses running ops from their cells are first in line",

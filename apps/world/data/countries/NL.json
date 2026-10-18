@@ -1,7 +1,7 @@
 {
   "iso2": "NL",
   "name": "Netherlands",
-  "updatedAt": "2026-10-18T17:08:26+08:00",
+  "updatedAt": "2026-10-18T23:02:37+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "🇳🇱 Netherlands: Maria Completes First Rehearsal for Junior Eurovision 2026",
+      "source": "Eurovoix",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNzhoSFJucGVRRjVmTi1WUkNDRnlPYUNOZC1CcW0yU2x1eE1yMXExMFlDNHpGRUFJNlBOdWFZN3FQMi1BNVByUDVRclZuMGRscHRMaXJSLVNVQmd5RWhJbGY1Y1FFRHJhT3hHbkZrUU4zY0FWc19OSk5XaDQwWXN4V3hoX015V2RFQUJGRVgtQURyYVVtYjVyNTFkeWd0WTNz?oc=5",
+      "publishedAt": "2026-10-18T22:40:08+08:00"
+    },
+    {
+      "title": "Christian Blank: Netherlands Cancer Institute Opens Clinical PhD Position in Melanoma Immunotherapy",
+      "source": "Oncodaily",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1sQ0U2ZVAtbEp0S21jVXQzRkVCYk45LXF6Z2F2NEJfNlpaQTV5RXFYeEtCVTV4N2pqUkY5dE5xaUVPVzVUazd0eGhiMWs4UHBZUlBiVTRKWWNHa0NEMnFkNA?oc=5",
+      "publishedAt": "2026-10-18T21:52:09+08:00"
+    },
+    {
+      "title": "Netherlands World Championships Gymnastics",
+      "source": "Idaho State Journal",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ29OMFFrbk5oLTUyS2RrWmNsZkU4dkdzekE1Ni1VYm9mVF9vRFczWmVkX01sT05jenFYZW5INGVabFgwZlpmUTNoOHhidUVzWHEwU240YUJSdnRkLUpObzNmcTQ0b3JaMmc1Z09QUERyTkRJV210SFhPSFU5NkdHWXdqcjVYRWQ0N1hMc3dmOHp1Z0U3RTY0Y0prbi1QaERWZ3JlQTgxMW1KYmJpSnBjMXJMcUhvSWJoTDdBTS10d3Ezd3VoT0ZDRUhLVmZtRWJONWdJQzM0Zw?oc=5",
+      "publishedAt": "2026-10-18T20:10:22+08:00"
+    },
+    {
+      "title": "Midterm melee: Americans in the Netherlands gear up to vote",
+      "source": "DutchNews.nl",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY3lGejlVRy1hOF83TlBMU1RMVzZPcHFZMENCOFQ3elE3NGc1QTlVYTRCLThhRk90UjVIOThtV2VrVWdib1FaZGxoa3Q1LTNfX182Vk1NVEhsOEdVWml1WElzSTZnV3V0ZVJvNkpkZjAyTkFLRm9MUEpfR09xaHMyRFZyblFkVnJhVlRzM2M1Smc4V19HQmFr?oc=5",
+      "publishedAt": "2026-10-18T19:55:18+08:00"
+    },
+    {
+      "title": "Embassy of the Netherlands congratulates Azerbaijan on the anniversary of the restoration of independence - PHOTO",
+      "source": "1News.az",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOTlSUnpUQmcySmRWSGM3dWR6QUl3UTdMaFVmbHVFU0p0OFIwU0xpaGIxVWc3Rk05dnFpampFaUxqa3Uwcmo4YV8zTXh1Z0hTZXQ3ZWtoYWdnZWhObWZHTGIyWDdtVjlUaTAtdFVRRlI1WWhhdXkteDY0a3Y3VXUwMG1XSnE3dDdBMlZnQ19MV3JtYTJsTFFnRmpmUkVmcUV3bEZxOWxiV2RndjJXaktTcWpsZk8yOFY5YWJPdjlJYWxMd1NqUU9WTUkzSHpRbXZqMW9saG9ILU5FcXhGZ3FrREk0T2lHeENGWEE?oc=5",
+      "publishedAt": "2026-10-18T18:20:00+08:00"
+    },
+    {
       "title": "Number of plumbers rises 60% in the Netherlands, but worker shortage remains",
       "source": "NL Times",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQXzZmcG1UVzNsVzdBaFphTkVEZjMtRUN4NzFvbUZVeTlGYVE0SzR0bTZGNG5MeVdUNHp0djBmeTlHeEFqekx4OEtNaFBhaHFfNjlkZm5vbFBicUFQOTlaNHpZd0xhaFEwNmwwTjNGelg0a1dEblZVUERPWFZFRzN3akpHS2Z2SnhjbzZqOVdOSy1sa2Uz?oc=5",
@@ -46,36 +76,6 @@
       "source": "The Sun",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnh5cmtBb3ZfUEhkNUh4STVKYWtoX09KWElhYzdncGVrUGZaY1Q0dlFNNkJwU0w5YzRCZmR0ZTFhMHNraU9FLU5pRktqLUFPVDZFTE9NeE5zcW5xdm5RQU4yZGhqZ1ZrX2tjVXctbktRbGNhLUJycGJnbjdQQkdIYjlTaURhUDFVX0lsd0hHbmw?oc=5",
       "publishedAt": "2026-10-18T05:27:00+08:00"
-    },
-    {
-      "title": "APTOPIX Netherlands World Championships Gymnastics",
-      "source": "Springfield News-Sun",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUVJwNHhNV2JVYUJvdllxZFVxdUJKMlpnXzVUdW4xOEE2Sk5HbDhBZkxmbVVSNnp6aFBJdG8xMzdSWURiYzhkbldPNGlOSU0xNkVEV0ZSYWxFTXFzbFdmUXdmWXdlMktNU2R5Sk84bE5EcXlwTklfOHRHLWdkeGRsYUo3VlZLWnRHVGt3ZExjckpCZVlQNXVLRW9oNU5rTXJTMGY3QUZYSkNGSm42elp3amRzX3k3ekt4U0thbm1VeDVKWVJXU1ZzMFhXaERpZ3BRRTdEdUstSnpGWmVVY3NB?oc=5",
-      "publishedAt": "2026-10-18T04:41:38+08:00"
-    },
-    {
-      "title": "Netherlands World Championships Gymnastics",
-      "source": "dailyrecordnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaEhjVHJybzY0X25yWDFFZHI3TENQRENjejVSTEdEOWtvZE9uZmt6S2l5dVVubW5ncFlKYlY5ZDVOb2QwMVdKeXlrdl9wVmlnWGc1ck0tVy1GY0hJRHhUanpYQWZReHBzYThZTnNRaGh3M0tUWE9namlqbEZua2didVpjbmlsMDdTOUhoMG5UOWVlQ1p1WlU3NjZCdnNsMkRlSlpYa2VXbmRaVi1GeUlnRzhIRzliUktTNXJON21qRG9MRFRWTE9IcTd0M0hOaThPZHhZ?oc=5",
-      "publishedAt": "2026-10-18T02:43:29+08:00"
-    },
-    {
-      "title": "Netherlands' E-Flight Academy Partners with SimFlying for ATPL and APS-MCC Training",
-      "source": "afm.aero",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRnZHcmtZMjhEbEh5U3pZUHlBQlM0cXZFYzhMYVVyWFJ1WERIa2pIS2xfdmlEY19ROUx0T2tOaWM3cUNKSkZlMkhZWEZNcnRzSXVzX3p3UGVoc0FJLVNXY1RSUmdBR2FBNnVGcU0yWXhkTkhpY19ad1R6S2x6T1lhbWp0WWEtb1FQZnQ1NTM2eFgxd00xUFVqdmpwMU9zZ0ct?oc=5",
-      "publishedAt": "2026-10-18T01:42:37+08:00"
-    },
-    {
-      "title": "Dutch cities report rising nuisance from street preachers",
-      "source": "NL Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaFJQVkpzSlRibmRqdlBtWlZEcWhZWHZpeENUX2lCdU5sWGwtaHlqdktHTmNrX1RQRVVJYmxiQV9ONTkyemszM3dwMnNDSmJLQTdkZnhyOThZMEwyajR6MUVMelBFVEpfNkR1cU5GVHlvYk55dkcyai1vY2oyR2t2Q3E3blkwajZ6cXc?oc=5",
-      "publishedAt": "2026-10-18T00:05:00+08:00"
-    },
-    {
-      "title": "Malmö Project Outlines Business Proposal Development and Project Funds Management Activities in the Netherlands",
-      "source": "Carroll County Mirror-Democrat",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc2xIZWZwbUt6UjR3TzdfSnhXZmtEUkI5cTJmZWFrWUI0dFNmM0dXS1lfR2RXQi1BU1FYdUlPM1lnZ1VRbkhaN0dRLU1TNEIza3pFWFJMYks2elNOSG8tejVKTV9ZT081Ty1DY3c0LUFtV3ZsQVNHUHFVb3BUVzlTX1dHYUU2cWxmaFBMbTFIeE5hRV9rNjNBblNvMmdlcVA2aE1HcFhXcGo2UWdyTVNQc1ZKZGllV2M?oc=5",
-      "publishedAt": "2026-10-17T21:20:02+08:00"
     }
   ]
 }
