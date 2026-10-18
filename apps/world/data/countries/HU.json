@@ -1,7 +1,7 @@
 {
   "iso2": "HU",
   "name": "Hungary",
-  "updatedAt": "2026-10-18T05:03:18+08:00",
+  "updatedAt": "2026-10-18T11:03:23+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,34 @@
   ],
   "headlines": [
     {
-      "title": "Hungary's PM announces decision on Ukrainian grain transit",
-      "source": "RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWll5Mk5tT1RmWGpTX2lIRDdrSjI3MFFwX1pncUh3Nlp1WWdoVlp2TzhTQ0lSWW5RU2djZzlYQ09JNXM5M3dLRGxyRm13QWc1QnpuTWlkQVpFRDlGcVU1UGtuM2NjY292WlF0SHZ6QzJXa2NDS3l4RTlDbmRCZ3phYXBvRzZUMVV0Vy1QNmRqRUxORnAzZXpZ?oc=5",
-      "publishedAt": "2026-10-18T01:05:17+08:00"
+      "title": "Hungary PM to Reveal 2027 Budget, Euro Roadmap",
+      "source": "Briefs Finance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWVdWaFQzUzB0N3Z1cWJMZFJvcGgzZUdFRGFsV3BsSTMtTjZJZG5CcDQ4cWJOYjBZVFBwbVd2c0VkTXl0czYxUlBpS1JZMWozZHpyclRqZ3k4b0EyTXMzaVdGWTZmRHY4SzkxWGtDZmxvbFY1Q3pwZ0NNaFA0MWxuMTlESWdTbzI0?oc=5",
+      "publishedAt": "2026-10-18T08:39:41+08:00"
+    },
+    {
+      "title": "And Magyar has no objection: Hungary’s prime minister says he will not block transit of Ukrainian grain through his country – media reports",
+      "source": "Ukrainian news",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVy05U015eEw0WS1IdmVJTUU3bl9fZlBCZEdzWTMyWFBUTExfMnJkWi1RVDZocWt0WFZUZWpqc1AtRjEyZkQ1UE9rUzVPcTJ2V3UxU0lwZGJ5czFuZGZIU2dQNlNMbkVkczlLUnNGb181WVMySDFOUEJjeWlRakNpVkFpakFEX3FmcGpxSHFpRG5CWVdwa0FmSUNNcmJ6VGhYVndMc2F0YWxXX0ZBWnVCWURNU0hVcEFJdGhuNjlwZ19RbUV5eHpr0gHMAUFVX3lxTE1KQnIxandocGMwQXNmQnFMUkcwUjFYc2g0dWh2cjB2bnd3TzhNTnVNZG1ZQzFSRFhnUXhGR3FqMGU0cFhzMVNrRTBUa0l6c01OTk5yTnc3YjJtdzhfc0JSMElwaFlnQ1RXMmp1aUtjaVNpWmlJZWV0cnNiMG5paXR2NUxZZjh2SW9sNDlwZFM3TTB1ZmRxOFVMVEZha0VXbDhEMEEyNHdPVDl3SnpGbkxvMFNhczZwcVpfVkRDRjAtQkZBcHA5WVlnZTg2Mw?oc=5",
+      "publishedAt": "2026-10-18T08:17:47+08:00"
+    },
+    {
+      "title": "Hungary’s PM will allow Ukrainian grain transit as Zelenskyy requested",
+      "source": "European Interest",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaTJoRERvcGYwdVhSTG5qV0p3bnZHLURSUS1Xc2V3dmI5UzJZM08xcmRCcmoyVVN6bWcyRV9FZWY3eFlzVlUtdktOb0k3RS1LM0FxR3ZsejByVWJhbXFBX3pta3dVQ0Q4UHlwcFRiakFGNERfaHlHWXBxeUhjZWlvY21acFlxYTNtNW94QVJUcW9lZ3A1MTE0cFl4RHFDSF9nUVBYZw?oc=5",
+      "publishedAt": "2026-10-18T05:56:33+08:00"
+    },
+    {
+      "title": "Hungary's Magyar seeks one more year of exemption for Russian oil",
+      "source": "Around Prague",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFgzREFqckVhMXF1a19uNXM1b1pOZHhKOXdpMUhVQU0wY2pkcWFWb1drbTZ5UlVINUNuRmJCUDlKUVVFZEZtZm1jT19wbjFveFh1V1lFV0Q4UUczWmtIeGFZaDVxM0NMYlBEXzl5azVYR1NIdUZNbHVsR2FwdF9zcklIRUwwRU9QV2llTUtoVDVXdGN6b0NhUGlhY3JRU21oRW9WX1RR?oc=5",
+      "publishedAt": "2026-10-18T05:35:56+08:00"
     },
     {
       "title": "Dominik Szoboszlai suffers injury recurrence as heavy Liverpool, Hungary minutes load begins to take toll",
       "source": "Sporting News",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTnlIQnB1LUJFSXAwRUdkY1hUOFRDdFVqYUc4YVJLZHlrWG83bzBzVl9fX2ZJZkN1Rzh0ay1BVm1LcFExRE1Ta2c2TkFoajdPYzBRTENqXzYxMi1wUVVVNXlBVlpodWxXQV9RUERtc1o0bVNYZjJCZWpfSXdLekNCYlBBT0dKY1EzNDB5T3hGN2tEVFlMaVB2SXVPQmFKQnRNWVQ3QW1LZ3Q2SGQtVmZxN3lEay1PWUlmb0lwVkhPQXVrWmFWQzc2MkhnQmg1RGVOVm5v?oc=5",
-      "publishedAt": "2026-10-18T00:08:37+08:00"
+      "publishedAt": "2026-10-18T00:51:00+08:00"
     },
     {
       "title": "Magyar Approved the Transit of Ukrainian Grain Through Hungary — Reuters",
@@ -54,28 +72,10 @@
       "publishedAt": "2026-10-18T00:02:00+08:00"
     },
     {
-      "title": "Hungary will not oppose transit of Ukrainian grain to Europe — Magyar",
-      "source": "UkrAgroConsult",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWltcE1wV25LXzNlQ1Y5ZEE5elJwalVlT1JPc2ZDQVV1T2ZlTS1oWmpaOHhmSkpuSEJwdUFQck13elRkVFpYQW5PLVd3UGllaXdzV0xCc1pJWmpWSVRjU1didUlIcUxmcmsyaGlFbXRocHZCVlBwV0F1UHdncmdJWkdmNFV0b2Q5bDBtd0dnX1Vjb2xJRWVYQTFyaFBlTk4wU0JOYVZn?oc=5",
-      "publishedAt": "2026-10-17T23:50:51+08:00"
-    },
-    {
       "title": "Zelensky asked neighbors to let grain cargoes through, Hungary PM says",
       "source": "Arab News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ0I1bEp3VWR1Rkc5Vms1OGFoVzloTTMyT1o3QkM0OW1tZC1kSWE4X3Y2d3NWRXFxbDVzckhfQ1hEX3E2LW91WDlHYVJYNlpScGhUY0d4anVuX3pNamYxSEN0OUgzUlRrNGF3UnNheEJla1U2YXhBb2UwWDJsb3UxTENVRGZ6Wlk1MG41cW1oTzJ4cHc1akNaVGpHX2wyMFdrSElDTFJuVXlyU3Fw?oc=5",
       "publishedAt": "2026-10-17T23:25:05+08:00"
-    },
-    {
-      "title": "Viet Nam, Hungary promote cooperation in agriculture, science, technology",
-      "source": "Nhan Dan Online",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNR0hQcml1dkF1SEM4cUd6QUM5cERYNHNvUEEyYk5NTi1kcDl4UmJBUTZqQTMtMkhoM0piTWtpQ0NMV1RWc1BKZGdVSDh5QmpLQ1IyZldfcEJQck9JTVNsaTlkUkg1Vy1QTVh1UjRBV2ZoX2dieTllSnVIYU00cjNUaUZhdVJ6SC1JYTVjS2JWRG5xS2FBOUVzVHk3WTZxd2VoWGQ4SW4xcS0tVjhr?oc=5",
-      "publishedAt": "2026-10-17T23:10:47+08:00"
-    },
-    {
-      "title": "Hungary to Unveil 2027 Budget Monday, Laying Out Euro Road Map",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPb1Q1czJYRHphOXh0NTlBNHVHcnlYaGNqWFVRRWpQdENpRDZJSTNVampZY1lWMUdfaDQwd2Y3SU5PQnlZYmFoZmljXzBCNUJiN2tKY2hnb3YyN1JpY0hKV2J3R1BBb1IwSXhDMG56ODNBX3U3Wl9qMjIyUTVGN0szZkR2MnhfLTc2TU5KZE1WSXVSQnUya0tzNTh1R25QMGpHa0VzbFNweEtBWmE0Sm1KT2l3?oc=5",
-      "publishedAt": "2026-10-17T23:07:12+08:00"
     }
   ]
 }
