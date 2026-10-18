@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-10-18",
   "timezone": "Asia/Hong_Kong",
   "assignments": [
     {
@@ -198,6 +198,15 @@
       "priority": "high",
       "status": "open",
       "inClass": true
+    },
+    {
+      "id": "english-literacy-initiative-planning",
+      "class": "English",
+      "title": "Literacy Initiative planning",
+      "due": "2026-10-26",
+      "dueLabel": "Mon 26 Oct 2026",
+      "priority": "medium",
+      "status": "open"
     },
     {
       "id": "calm-unit-1-reflection",
