@@ -15,7 +15,7 @@
   {
     "id": "mediterranean-cucumber-salad",
     "title": "Mediterranean Cucumber Salad",
-    "blurb": "Crisp cucumber, leafy herbs, sharp red onion, lime dressing, and crumbly feta \u2014 tossed until bright and glossy.",
+    "blurb": "Crisp cucumber, leafy herbs, sharp red onion, lime dressing, and crumbly feta — tossed until bright and glossy.",
     "tags": [
       "salad",
       "mediterranean",
@@ -41,7 +41,7 @@
   {
     "id": "spam-musubi",
     "title": "Spam Musubi",
-    "blurb": "Glazed Spam pressed with sushi rice and furikake, wrapped in nori \u2014 complete recipe from the caption.",
+    "blurb": "Glazed Spam pressed with sushi rice and furikake, wrapped in nori — complete recipe from the caption.",
     "tags": [
       "hawaiian",
       "spam",
@@ -53,8 +53,8 @@
   },
   {
     "id": "tomato-beef-soup",
-    "title": "Tomato Beef Soup (\u7f57\u5b8b\u6c64)",
-    "blurb": "Waterless tomato-beef soup \u2014 tomatoes and cabbage make the broth under tender chuck roast.",
+    "title": "Tomato Beef Soup (罗宋汤)",
+    "blurb": "Waterless tomato-beef soup — tomatoes and cabbage make the broth under tender chuck roast.",
     "tags": [
       "soup",
       "chinese",
@@ -67,7 +67,7 @@
   },
   {
     "id": "spicy-chicken-udon",
-    "title": "10-Minute Spicy Chicken Udon (\u9ebb\u8fa3\u96de\u7d72\u70cf\u51ac)",
+    "title": "10-Minute Spicy Chicken Udon (麻辣雞絲烏冬)",
     "blurb": "Chewy udon with shredded chicken, crab sticks, cucumber, spicy sesame-vinegar sauce, and soft eggs.",
     "tags": [
       "noodles",
@@ -82,7 +82,7 @@
   {
     "id": "carbonara",
     "title": "Carbonara",
-    "blurb": "Classic Roman carbonara \u2014 guanciale, eggs, pecorino, black pepper, pasta water. No cream.",
+    "blurb": "Classic Roman carbonara — guanciale, eggs, pecorino, black pepper, pasta water. No cream.",
     "tags": [
       "pasta",
       "italian",
@@ -95,7 +95,7 @@
   {
     "id": "hot-honey-chicken-mac",
     "title": "High Protein Crispy Hot Honey Chicken Mac & Cheese",
-    "blurb": "Air-fried cornflour-crisped chicken glazed in hot honey over creamy light mac & cheese \u2014 4 serves, ~688 cal / 63P each.",
+    "blurb": "Air-fried cornflour-crisped chicken glazed in hot honey over creamy light mac & cheese — 4 serves, ~688 cal / 63P each.",
     "tags": [
       "pasta",
       "chicken",
@@ -108,7 +108,7 @@
   {
     "id": "calamari-andaluza",
     "title": "Calamari a la Andaluza",
-    "blurb": "Lightly floured calamari rings fried golden in olive oil, finished with salt and lemon \u2014 Andalusian classic.",
+    "blurb": "Lightly floured calamari rings fried golden in olive oil, finished with salt and lemon — Andalusian classic.",
     "tags": [
       "seafood",
       "spanish",
@@ -121,7 +121,7 @@
   {
     "id": "avocado-sushi-bake",
     "title": "Avocado Sushi Bake",
-    "blurb": "Warm sushi-rice bake topped with salmon, avocado, nori, sesame, and drizzle sauces \u2014 deconstructed sushi casserole.",
+    "blurb": "Warm sushi-rice bake topped with salmon, avocado, nori, sesame, and drizzle sauces — deconstructed sushi casserole.",
     "tags": [
       "sushi",
       "bake",
@@ -135,7 +135,7 @@
   {
     "id": "hot-honey-crispy-chicken-burger",
     "title": "Hot Honey Crispy Chicken Burger",
-    "blurb": "Buttermilk-marinated crispy chicken glazed in sticky hot honey with a lemony mayo sauce \u2014 approximate from caption.",
+    "blurb": "Buttermilk-marinated crispy chicken glazed in sticky hot honey with a lemony mayo sauce — approximate from caption.",
     "tags": [
       "burger",
       "chicken",
@@ -144,5 +144,19 @@
     ],
     "art": "dish-hot-honey-crispy-chicken-burger",
     "href": "recipes/hot-honey-crispy-chicken-burger.html"
+  },
+  {
+    "id": "hoisin-garlic-noodles",
+    "title": "20-Minute Hoisin Garlic Noodles",
+    "blurb": "Knife-cut noodles tossed in sticky hoisin-garlic sauce with chili oil, green onion, and sesame — weeknight classic from @bisongainz.",
+    "tags": [
+      "noodles",
+      "asian",
+      "hoisin",
+      "garlic",
+      "weeknight"
+    ],
+    "art": "dish-hoisin-garlic-noodles",
+    "href": "recipes/hoisin-garlic-noodles.html"
   }
 ]

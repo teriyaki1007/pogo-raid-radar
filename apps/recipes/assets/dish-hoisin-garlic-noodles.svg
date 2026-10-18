@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200" role="img" aria-label="Hoisin garlic noodles">
+  <!-- dark soy-hoisin bowl base — distinct from chili-oil udon -->
+  <ellipse cx="160" cy="118" rx="138" ry="68" fill="#3d2a1f"/>
+  <ellipse cx="160" cy="112" rx="122" ry="56" fill="#5c3d2e"/>
+  <ellipse cx="145" cy="98" rx="48" ry="18" fill="#7a5240" opacity="0.45"/>
+  <!-- wide knife-cut noodle ribbons — glossy amber-brown glaze -->
+  <path d="M48 95 C95 42, 155 38, 205 88" fill="none" stroke="#c4a06a" stroke-width="14" stroke-linecap="round"/>
+  <path d="M58 118 C108 68, 175 62, 235 112" fill="none" stroke="#d4b078" stroke-width="16" stroke-linecap="round"/>
+  <path d="M72 140 C125 98, 190 95, 255 138" fill="none" stroke="#b89058" stroke-width="13" stroke-linecap="round"/>
+  <path d="M95 72 C140 48, 198 52, 248 90" fill="none" stroke="#e0c088" stroke-width="12" stroke-linecap="round"/>
+  <path d="M52 128 C98 152, 175 155, 242 128" fill="none" stroke="#a87848" stroke-width="11" stroke-linecap="round"/>
+  <!-- garlic cloves (cream) clustered left -->
+  <ellipse cx="72" cy="148" rx="14" ry="11" fill="#f7f1e8" stroke="#e4d9c8" stroke-width="1.5"/>
+  <path d="M68 142 Q72 138 76 142" fill="none" stroke="#d8cfc0" stroke-width="1.2"/>
+  <ellipse cx="92" cy="155" rx="11" ry="9" fill="#faf6ef" stroke="#e4d9c8" stroke-width="1.5"/>
+  <!-- green onion batons -->
+  <rect x="200" y="72" width="6" height="28" rx="2" fill="#3d6b5a" transform="rotate(-25 203 86)"/>
+  <rect x="218" y="78" width="5" height="24" rx="2" fill="#4a7d6a" transform="rotate(18 220 90)"/>
+  <rect x="188" y="85" width="5" height="20" rx="2" fill="#2f5648" transform="rotate(-8 190 95)"/>
+  <!-- chili oil droplets (tomato accent) -->
+  <circle cx="155" cy="158" r="5" fill="#c45c3e"/>
+  <circle cx="175" cy="165" r="4" fill="#a84830"/>
+  <circle cx="195" cy="152" r="4.5" fill="#c45c3e"/>
+  <!-- sesame seeds -->
+  <g fill="#2c2a26">
+    <ellipse cx="125" cy="78" rx="3" ry="1.8" transform="rotate(30 125 78)"/>
+    <ellipse cx="148" cy="65" rx="2.8" ry="1.6" transform="rotate(-20 148 65)"/>
+    <ellipse cx="170" cy="72" rx="3" ry="1.7" transform="rotate(15 170 72)"/>
+    <ellipse cx="195" cy="98" rx="2.5" ry="1.5" transform="rotate(-35 195 98)"/>
+    <ellipse cx="110" cy="105" rx="2.6" ry="1.5" transform="rotate(40 110 105)"/>
+    <ellipse cx="220" cy="120" rx="2.4" ry="1.4" transform="rotate(10 220 120)"/>
+  </g>
+</svg>
