@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-10-19",
-    "asOfLabel": "19 Oct 2026 ~10:33 PM HKT",
+    "asOf": "2026-10-20",
+    "asOfLabel": "20 Oct 2026 ~6:30 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE now (Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local): Dialga 5★ + Mega Dragonite. Dialga-window 1★/3★ (Leek Duck + GO Hub aligned): Galarian Slowpoke, Hisuian Voltorb, Nincada, Beldum / Hisuian Arcanine, Snorlax, Kleavor. Shadow Landorus (Incarnate) continues through 3 Nov (Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion). ENDED Mon 19 Oct 8:00 PM: Fall Marathon: Buddy Trek (Bramblin debut; boosted shiny Electrike; Incense Hisuian Growlithe window closed). ENDED Mon 19 Oct 9:00 PM: Max Monday denser Power Spots for Dynamax Sneasel (Sneasel may still appear in Max Battles through ~Sun 25 Oct). LIVE Mon 19 Oct 5:00 PM – Sat 24 Oct 11:59 PM: Minior Showers: Orionids — Green Core Minior wild debut; boosted 5–9 PM local + 1,000 Stardust/catch (not a raid/egg change). Then: Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM): 1★ Pikachu hat+capelet + Sinistea bow (shiny debuts).",
-      "endsAtLabel": "Fall Marathon ended Mon 19 Oct 8:00 PM · Max Monday denser window ended Mon 19 Oct 9:00 PM · Dialga + Mega Dragonite → Tue 20 Oct 10:00 PM · Orionids Minior → Sat 24 Oct 11:59 PM · Shadow Landorus → Tue 3 Nov 10:00 PM"
+      "text": "LAST DAY (Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local): Dialga 5★ + Mega Dragonite. Dialga-window 1★/3★ (Leek Duck + GO Hub aligned): Galarian Slowpoke, Hisuian Voltorb, Nincada, Beldum / Hisuian Arcanine, Snorlax, Kleavor. Shadow Landorus (Incarnate) continues through 3 Nov (Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion). LIVE Mon 19 Oct 5:00 PM – Sat 24 Oct 11:59 PM: Minior Showers: Orionids — Green Core Minior wild debut; boosted 5–9 PM local + 1,000 Stardust/catch (not a raid/egg change). Then: Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct). Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM: Mega Chandelure debut + Super Max / Ominous Wind+ (official + Leek Duck). Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM): 1★ Pikachu hat+capelet + Sinistea bow (shiny debuts).",
+      "endsAtLabel": "Dialga + Mega Dragonite → Tue 20 Oct 10:00 PM · Orionids Minior → Sat 24 Oct 11:59 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Chandelure SMRD Sat 31 Oct 2–5 PM"
     },
     "legend": {
       "standard": {
@@ -76,6 +76,14 @@
       {
         "name": "GO Hub — Mega Dragonite counters",
         "url": "https://db.pokemongohub.net/pokemon/149-Mega/counters"
+      },
+      {
+        "name": "Leek Duck — Chandelure Super Mega Raid Day",
+        "url": "https://leekduck.com/events/chandelure-super-mega-raid-day-2026/"
+      },
+      {
+        "name": "Pokémon GO — Chandelure Super Mega Raid Day",
+        "url": "https://pokemongo.com/en/news/chandelure-super-mega-raid-day-2026"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
@@ -1440,6 +1448,75 @@
       "countersSource": "type"
     },
     {
+      "id": "mega-chandelure-smrd-oct31",
+      "name": "Mega Chandelure",
+      "form": "Mega",
+      "species": "Chandelure",
+      "catchForm": "Chandelure",
+      "tier": "mega",
+      "tierLabel": "Super Mega Raid Day",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": true,
+      "window": "Chandelure Super Mega Raid Day · Sat 31 Oct 2:00–5:00 PM local",
+      "windowStart": "2026-10-31T14:00:00",
+      "windowEnd": "2026-10-31T17:00:00",
+      "shiny": true,
+      "shinyRate": "boosted (not published; prior SMRDs ~1/10 community)",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": null,
+      "cpL25": null,
+      "weather": [
+        "Fog",
+        "Sunny"
+      ],
+      "sprite": {
+        "pokeapiId": 609,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/609.png"
+      },
+      "notes": "Mega Chandelure debut (official + Leek Duck). Catch form: Chandelure with Mega Level 1 unlocked. Ghost/Fire — Super Max Level eligible; Ominous Wind+ while Mega Evolved. CP ranges for the Mega boss not listed on Leek Duck yet — check in-game.",
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "weakTo": [
+        "Water",
+        "Ground",
+        "Rock",
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "moves": "Smack Down / Stone Edge"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Darkrai",
+          "moves": "Snarl / Shadow Ball"
+        },
+        {
+          "name": "Rampardos",
+          "moves": "Smack Down / Rock Slide"
+        }
+      ],
+      "countersSource": "type",
+      "highlight": true
+    },
+    {
       "id": "pikachu-hat-capelet-halloween2026",
       "name": "Pikachu wearing a hat and capelet",
       "form": "Halloween 2026 costume",
@@ -1800,8 +1877,8 @@
     {
       "id": "super-mega-raid-day-oct31",
       "when": "Sat 31 Oct 2:00–5:00 PM local (upcoming)",
-      "title": "Super Mega Raid Day (upcoming)",
-      "impact": "Leek Duck lists the date and time; featured Mega and bonuses not announced yet.",
+      "title": "Chandelure Super Mega Raid Day (upcoming)",
+      "impact": "Mega Chandelure debut in Super Mega Raids (Ghost/Fire). Catch: Chandelure with Mega Level 1 unlocked; boosted shiny chance (community ~1/10 on prior SMRDs; Niantic not published). First Super Max Level for Mega Chandelure + Ominous Wind+ while Mega Evolved. Up to 6 free Raid Passes; remote raid limit 20 (Fri 30 Oct 5:00 PM – Sat 31 Oct 8:00 PM PDT). Global Challenge Fri 30 Oct 5:00 PM – Sat 31 Oct 8:00 PM PDT (bonuses Nov 2–15 PST). Timed Research: Premium Battle Pass + Tyranitar encounter (Leek Duck / official news).",
       "urgent": false
     },
     {
