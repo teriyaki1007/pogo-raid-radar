@@ -1,7 +1,7 @@
 {
   "iso2": "HT",
   "name": "Haiti",
-  "updatedAt": "2026-10-19T05:09:56+08:00",
+  "updatedAt": "2026-10-19T11:05:35+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Five Salvadoran Soldiers Missing in Haiti After Ambush",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2c0Uk1WaGQtMlNSQU5BRWpJZlk3aGtWQTRSTW5jZU5kQUNhNlRaVVBsbjA5OFExRkppb21VVE0zUEdtd1FtZ2l2eXp4clNxUTFDV0xYM05hVHVRM0VqQXdodjJnZU9uQThRR0cwemlPNUpkXzBHS1ZwWmZBWGsyRFZTVDVaa01ySGQxVWdGbk9uZw?oc=5",
+      "publishedAt": "2026-10-19T09:59:14+08:00"
+    },
+    {
+      "title": "Honoring Ayiti: Haitian Advocacy, Art, and Expression",
+      "source": "The Haitian Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWsyVHJ3enNZZWR2M3VBYWREWHgyYk1jMW55UUtfcmJ5dTRSNmtMQ2RKdDZZZ1p0dk04MVA4MkZnQzBqc2VTM3MxVTktSW8xZjB1RXlrWDAyMlFEbUtucldEdElFR2p6UktRaHF1eTUtWXNOei1mdFNaTDl1LVRreG1abmRhVmRtbEE?oc=5",
+      "publishedAt": "2026-10-19T09:09:25+08:00"
+    },
+    {
+      "title": "US court exposes alleged role of Haiti assassination suspect Turkey refused to extradite",
+      "source": "Nordic Monitor",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM1NXcFZseHp2aHRmMFJqVXIxQlJvYzQtMWNpV0RFbWNfY043MWdwNFVjNHpHVnVIbzdvRHpXdlFfb0JWOUtIRm9EUldYMG9IMVJNOFVaenB1U3ByV3RaclN1andLSk9VTDhuVmRxQ2RNZmQtY1RDdTJXa2wtU3J0MW1PSFZnUlRkSUs4RG1YQW5qOTN4OXF3TkdsZjM5UkRpaTJXWmRQWTJlcjcyRTdBaEZrdF83Rm1h?oc=5",
+      "publishedAt": "2026-10-19T06:21:30+08:00"
+    },
+    {
+      "title": "Two Jamaicans, Haitian national charged in US voter fraud cases",
+      "source": "Caribbean National Weekly",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVhQZ1R6Q3BueVJHVEdMMkRNbUpXc2RUUDUyQXMzU2Q0OVdPS0thM0x0a2NxXzhjdjh6UW0wTHpvU0ZwdmJGd2JxNmZTbWNxVXNxeTQwcDZQbEdZaW4td0FkM0s3SUpxdjlnalptbF8xZnQ3Z1NBcFR1UUROSHFxSUlSZm8yUFlmMllRS2F6Um44N3hSeHdsS1dBMXlXVjIzYi1rMmV1WUg3QUtG?oc=5",
+      "publishedAt": "2026-10-19T05:37:42+08:00"
+    },
+    {
+      "title": "Jamaicans, Haitian among 16 charged with US election offences",
+      "source": "Jamaica Observer",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaG5yU2gxUEUya1FTVW0wUm9VczdQalRXNzlyRXVEY3JJTDBEUDBDOUl5SnhVZDI1R09JdHZObUZjUU1nelBPV1BVS2ZHSTlVYUN6TkhFSDlnTWUzYlFvTFJHRjdVb25keERuWnZUTG9UelJ0cHljbTlqNl8zUVB6aTJmd0l1bjk0QWJqa0R6ejdEM1FSZG81ZWtDM3lIOWlR?oc=5",
+      "publishedAt": "2026-10-19T02:58:45+08:00"
+    },
+    {
       "title": "Zapping Haiti of October 18, 2026",
       "source": "HaitiLibre.com",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd0Flakd3bl9tREhnM196eWpMandCU2xOcm5pMThfOFo5dEc5UVpxY2xDQVlRbWlzRGlZdi10ZHVDZzIzT3BScFM5NEk0N0t3VnItRDRMUnVOLVhYWTEyQ2R2bzZ4OGlsaWl3bmZNR0NaeGxUa3FCSE81ZzF6REtwdU56aUQ?oc=5",
@@ -46,36 +76,6 @@
       "source": "Modern Ghana",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qVXdFalVvTGRXME5pRDNMTU1sQVpfeTVMMWpVQU11cFlaUnBBWnZaYWNVZFNSUDU0cGpaa25LWG5nSVUtWFZCV3EwX1R1MjNhN1pIX3pIZWpuRXROcHNZ0gFcQVVfeXFMTzEweWJZb2puOC13Q0w4SDU1VFk5eHFubVlMMlJuLWU0SDAwWDNFVHJOZkVMbHhUNHFxUDZPcWE5QXV1eWlUcE5WeGtwcG9VQmREajNEejl5THQ0eVo?oc=5",
       "publishedAt": "2026-10-18T19:43:31+08:00"
-    },
-    {
-      "title": "3rd Annual Save Haiti Fundraising Gala",
-      "source": "The Haitian Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oVkxfeDIzU21QTWMtZmdncWRuTnNVQU9FQzRFMnhaeWNZUWNQUld1NEhPTHBOZEtWUmU1QzlUWjhqLURLWHpNT2R3V2RERVZ4ZDh0YzY5eDZmeXg0UXVFVE03enFMV2IxX2Exc2RicUl2anlKQUVBMzdB?oc=5",
-      "publishedAt": "2026-10-18T02:39:01+08:00"
-    },
-    {
-      "title": "Feud In Dolly Parton’s Inner Circle Reveals Arms Deal with Haitian Police",
-      "source": "Talking Points Memo",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdVpVbFZMc1BxSmVRcUZ1dXoyc0hEcnJVdzBFdTZxRUlUSS1VcFRFanl0R1czS09sOU5OQ1JnUWdQeXhBN2xpMWxFUEtqdHJreVdRTFNJUHJGV3VLSFhHVm16VV9Tc3pVcERxNEZlcENwdGlJUkFpVXNDWnIxZUJwSk1PbVdLcDZiVzBLa1JQT3gzVGNvQXdzMENzdHpUWmtVZ3VRVXZkUnk4cWpMNWFMeUtR?oc=5",
-      "publishedAt": "2026-10-18T02:33:00+08:00"
-    },
-    {
-      "title": "Today in history: Jean-Jacques Dessalines, father of Haiti’s independence, is assassinated",
-      "source": "The Haitian Times",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOXFPZlRpNE15dzBjMXd4b1lTRzJzMGR6ZlhNY21ZTjBGZ0l6S1BMRW1SWHJRZFdhMTNLZlgwM3lTajVjRlZCUk44RkdsemtiLWozdm54R2pUVkpGSUxBcDFHbG5Ja2JGSS0yWU5DQlI4ZjA3NEtSZXBhQ3k4X3h4UWRuaVQ5V2NDd2hCcWFBdHZfYzZh?oc=5",
-      "publishedAt": "2026-10-18T01:37:07+08:00"
-    },
-    {
-      "title": "Haiti Anniversary",
-      "source": "Goshen News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaEd3Njk3SC1mNlA2bHdMeVhsVm13dFMzc2gteTJYQzdCSlh3SnZlVzQ2X2l1WUJyRkJfcF9Dc1lpMnRQQ0t0NklDMXBpdVRKcFVVeGFOS3ZuRkFSekhnaUpVZ2I0cTc4eXBoQWJ6Z20yUjB3T2NSTGpkZVFKc3J2MjlGQmNHNkQ0SlZPQy16VU5CXzRKTzRTRzN5V1ZwZVBZanIyeFY0eHdfaGVNNno5Zg?oc=5",
-      "publishedAt": "2026-10-18T01:30:14+08:00"
-    },
-    {
-      "title": "Dolly Parton’s nephew, former lawmaker struck arms deal in Haiti. Millions are missing",
-      "source": "Miami Herald",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVzRXdmczYzI0VHFqeDNmc1lYNm1OMlB3VkhfQkFfbWFfUjlrVmNZbTRlelF1VWhoUThoUkdEbEw1Y0w0M2xxWjdxTWc1VGFEdU8zREd0ZG82Qm5jdk1GaFZHQlc0WVR6azNzbmtFTFZkdWdhbVZIVXlWQUtPanZVNGZXeHlWXzhjYWdmOExPUW9VUdIBkgFBVV95cUxQN2I1UElhd0liU1pLRW05NXEyTmdyaTl4OGFNQ0dISFBKeFY5VkJTSXYtNC1pSmZTZU5Dcm5YUDNjVmpDQnk3SHlUcG02ZHlkdnZQOV9ZUjFxT0F0S3ExU3p6SDB2Z3ZCVGJnenZNQ2J1YkxFVkYyd09lNDdvaGdKNnVSbmp2VXM2dEw2ZG1kRzB2Zw?oc=5",
-      "publishedAt": "2026-10-18T01:25:00+08:00"
     }
   ]
 }

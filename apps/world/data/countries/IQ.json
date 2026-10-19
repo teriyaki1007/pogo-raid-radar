@@ -1,7 +1,7 @@
 {
   "iso2": "IQ",
   "name": "Iraq",
-  "updatedAt": "2026-10-19T05:09:56+08:00",
+  "updatedAt": "2026-10-19T11:05:35+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Security Alert: U.S. Mission Iraq – October 18, 2026",
+      "source": "U.S. Embassy & Consulate in Iraq (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43YVlwckV4N2h0YktDalJGaDJJLXdmdHpWNklsMXhZRzRGbmhrRTFUb081V1FKYXJRREJZMEhsM05hYlNZNDJvemJXWEh3TU9ESEh5NTVSRG9SbDlfU2xYcTdtVjRvdFg0Z3JrSFV0SlJFOWhXSERDeUhvdm5GQQ?oc=5",
+      "publishedAt": "2026-10-19T09:35:36+08:00"
+    },
+    {
+      "title": "Shafaq News..Health authorities step up inspections in Iraq's Al-Anbar",
+      "source": "شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYktUd054d0RNMzdERGxDekhPU0dpQWRPRVFDNGhaRXByRElZT2xsbjVyV1lxVHEtSW5mSUJIYWxuc3ZiQW1FdmdTaS13OWRoQnllZWsyYU90QVotVV9Cc01SXzRtVjVVNjdhMGw4cGRvbVAtOG1tTUQ3QzE1NjhBR0FDTmU0U3czekJ5UmJiTGU?oc=5",
+      "publishedAt": "2026-10-19T07:03:54+08:00"
+    },
+    {
       "title": "Iraq’s dinar devaluation tests efforts to protect consumers from rising prices",
       "source": "The National",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWnAtNnpOS0NWRFFleXpja202WVNxU25qVTVYdlR3UzNVSUc4RnIxZ1JuTHNFU0pURmFJMG1jWVZaRkNxZmJWRS1nQ2lhMVdNU0t0dkFzQnNpdnBta1NlczNZclNzTWFlQ2Q1RHk3cEhwVnBaN0JwdEFZcU5HSTljSi0tRUd2eGZwNUYwUkprQ1Jnak5KYWhMZWQ3TERsYUdxRF9hZFI2aTJaUmRmM1FBY0ZyZFlBMUFYS1JEZHFjdUtxbnFOZjVweWpMNA?oc=5",
@@ -43,14 +55,14 @@
     },
     {
       "title": "US firms show increasing interest in developing Iraq’s hydrocarbon resources",
-      "source": "IraqiNews",
+      "source": "Iraqi News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV2FMMWhtb2VKNGZCTnR2SGxabzJIVTBZUmhnNDMyT2ZXME0wVUtXTzU4V0M3MTRWYzFLTTdVZGk1d1VPanVQWG90S3czbEEzLVkxMFlkQ2Y0YnhKOTBvWHlQZnpXTmVSWjlvc2RiQ09GQnVwek1WWFRIX1pMbzRXY2J4ejFxNnZ6UFpCN0YxNzFQYzg0Q3lqR0t2TTdkZjMtbk40MGRLYy1FM3c?oc=5",
       "publishedAt": "2026-10-19T02:16:03+08:00"
     },
     {
       "title": "Iraq",
       "source": "Goshen News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOODNZc29TcjRubXZsOGttTS1FRE1CV0JfazdXR05VbmhMZlhJeVZyTjM2TWlDM1VPbVdUc3lod1VqOFNDT3BSSnlYX0s1R0NBNU1xaDBON1JWdTJjMmd5R0pCX2YzU0tuMk1TQUdCTjlDZk5IczkxTDk4NTVJVmRkQ3lqTHdoOVp2UzVtNVdTeXBEZDRoaTNXeklQZzhEQWM?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazRKeGxZdnFBRDZDUDJEMWFmWk9JX29ZUEhxVGw3Vm1pMFhPcG1jajZfRFRfN3NNYktTc3ctQjc0eFhObkVxZXRSNjNFUDA0c0FPNzZidlEwMmFPckFNbTFxNjRRendZYTd3TjhucmJqT2pFSmVUSWFsVjR0OHk2RnU0UG0tUW1EdmRCWkdtSklrZGlmbW9DUVBTRUxNOWM?oc=5",
       "publishedAt": "2026-10-19T01:20:30+08:00"
     },
     {
@@ -61,21 +73,9 @@
     },
     {
       "title": "US lifts restrictions on Iraqi exchange firms",
-      "source": "IraqiNews",
+      "source": "Iraqi News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOUJvZ1VqaG1EMWVPRkFxbmFMRHZQLUtNUG91QU05bXdsZFZxMWFfYjJUNjEtVkdJRno5VWJjR2tnM2JRZmR5NF9KdGN0NnN1SzhVSkY5MFprYVJvdGUxTDJRY2o3WVZtQmQ1b3VFbGVlN3J1LXdSblZ2UlB3bG1ieDhwZw?oc=5",
       "publishedAt": "2026-10-19T00:23:25+08:00"
-    },
-    {
-      "title": "Iran envoy in Baghdad: Security of Iran-Iraq borders is Tehran's red line",
-      "source": "Tehran Times",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd1kzUVRFbWRIRFlkakg2Y3o4V25zeVM4WmVaQWtJcWZsZk16N1dyeHUwWlN0VnVPTnlsclNsQzNrTFFSbVhFcDEwd1VKMWRnd3hXaDY3SFFOQmJ2R2tEUzZnSl82eFVDakoyblRDOXBzakthOGZKQmtiQ3ZUMlg4bUVyY1oyR2Z4d01GY1NjS0lmMWdmZkhkLUpCTGJlRU5hSGJhZElB?oc=5",
-      "publishedAt": "2026-10-19T00:06:39+08:00"
-    },
-    {
-      "title": "Asad Shaibani's trip to Iraq to attend the meeting of foreign ministers of the Organization of Islamic Cooperation",
-      "source": "کردپرس",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHptcUlBdHZGSmM0TDZUSVNSeG5PWEctNkRQektKUExVdmwzNEhURXlnSDR4SnVjN2JNWG1zdnpXWXpZWFBISjdMUzFXM19kVHBpVnNiS2RaZkhHSE1wYXdfaS1HbTB1dmxfY0pleHNpYTd2ekc0SnRDN2FhblBPbXpvT1FtLUJ5V2RtZllHRFV2WDd3SW9leE1zRHhJX1FFNGZ5Qk56MzF2Ujk0SEtUeEJkZklsNDk0TGhOSUVoaW1sN0M5cG91UjBVZmNSdXA3Vjh4WjcwTjY?oc=5",
-      "publishedAt": "2026-10-18T23:39:59+08:00"
     }
   ]
 }

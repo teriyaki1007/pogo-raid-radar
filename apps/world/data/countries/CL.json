@@ -1,7 +1,7 @@
 {
   "iso2": "CL",
   "name": "Chile",
-  "updatedAt": "2026-10-19T05:09:56+08:00",
+  "updatedAt": "2026-10-19T11:05:35+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Season’s First Shipments of Chilean Cherries Land in Shanghai",
+      "source": "Produce Report",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1ZRaDZHSElQcVVRR3o0MU9Waks5RGxUMWdHZTlTY3ZoMjlrdjk1RmlNanliV0RtMlVyTG9ac193YS1saUZYVTJPM3NMRnhmYzNpMW9vWDdfOHl5OVpUQnRPZmxtR2ZXMEZfMTkyMkNHLWdDNEtVX1BLeTFlcXJ3TUdXVjRkMTZaa2NpU0owblVUMlBxR21F?oc=5",
+      "publishedAt": "2026-10-19T10:26:16+08:00"
+    },
+    {
+      "title": "Clashes with police as thousands in Santiago mark seventh anniversary of Chile’s 2019 uprising",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdWJ4VVNHd1lBRm9FRFdiRjJwY0tibWx0bFkwZjd6VEw5QURFdml5SDhvLWxMSl9nbnVIbXNweWdaeGRxU2RxNWp0WHNZWFNLTEFDYzIzWkhGZktJUkJ2VGtZTDYxd2pMdVdudkpmb2RmMl9EX05VQ19lMUxwSXZKMzFvMURPeVpMLW1pRHJSME5ZSXhDVjhXdlVCVnpkaDhhUlRmeDBBeDJEWVFjclJ3V0JQMk5paFNBZFNrMHNVeUNrOU5TTUJHMkJQZGlFaGo0OGtwVmtxNG1rZm1QWVNTX1d5bFNBZw?oc=5",
+      "publishedAt": "2026-10-19T09:41:00+08:00"
+    },
+    {
       "title": "Chile Protest",
-      "source": "WV News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU3FicmtpS1pmZUJuUjRIU3hHVDM2dmxPOFNxdmw4ZkREOTdNbklsbDNOdl83am1tRjlSQ0FoT0trQXhoMWQ4cmJ3aVpZXzFOb0U2MWNlb1doWnJ1QmVLNGtjSTUtTTdiUUF1RnFlWnd6SGNxNFY4bVNmbnVWS01ReHU4SDBhcmZScjZXSGJVX3hTM3ZtTVVsSFZacEl1aFNa?oc=5",
-      "publishedAt": "2026-10-19T04:49:21+08:00"
+      "source": "chronicleonline.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONml0ZFNsdUhnN0IxZFFBVWpiMlNrQ0R3Y09CZXFhcUFMaXNCMW1uWVI2cmZweFNxMElSSWNncl96REw4U000dGw1dmpuLXduQ3FCa1NHVFJGTmpxVVlabDM0SGhOQzlqRDk0ODBLaVpBb3QzUDA0NXFXX183LW9lMmdjaWwxWS12VWlSbzh2S21uZXV1SC03UmlhWHZlbGtVSmJsMjVuWQ?oc=5",
+      "publishedAt": "2026-10-19T07:16:13+08:00"
+    },
+    {
+      "title": "Chile’s Las Manques Decisively Defeat Mexico in Santiago",
+      "source": "Americas Rugby News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVERxTno2cHJaTmlTRFFJYTJPNkE5X3RLQ3M4bFhPRmZhWnVhb2V0LUp0LVlKWlU0cUU1YW40THlXZGRQeGZFMDRuUlkxeXJnVkhZNWZ0SG9xZk50Zm1hN2VJVHpOMm5rWmtxWTFJU19zcXdyYVZGQTdPSjZuTGViRmNMN3NMMmJEYTRCWC1xa1N0b1JsNmhseFZBZHM1MG9oNEZ3?oc=5",
+      "publishedAt": "2026-10-19T07:02:31+08:00"
+    },
+    {
+      "title": "BTS Jimin, First Emotional Live Performance of \"Heartbeat\"… Chile Captivated",
+      "source": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9yU0pIM08wZGhUUEtqQ2JCaU9TQXVlNFhOQ3huMmlWYnlzakd1aEdHTGtkOGlzNXNUV0pNMjJ6NXlUYmhCdjRoeFlaTGpRc1JteDRrVWl5UnlyZ0dPbnViX3ZhdXozVElRX3VKYTJMT2dVWW9xVTFWbw?oc=5",
+      "publishedAt": "2026-10-19T06:57:36+08:00"
+    },
+    {
+      "title": "Protesters clash with police on anniversary of Chile's 2019 unrest",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUlWT2FZeGMyVGVqMkxhbTNCT0E3ejRhNkJXTXV4ZDBVUVMzQnFJY2ZhT21rZHJCUFFNbzNFYWhhdU9ONEhrbXM0OTRXMmh4N1RHcDZYV0hpSV9KTVNKbWZiUi0yTk1zXzR4QWw1T25lOVRSOGt5OGdtQnBkRllqaGsteFJlSjVvamJ5eFNVZ1MwenFENXZBOURzaHljeGpRRVBGZklHRVZzRjhMT1c4?oc=5",
+      "publishedAt": "2026-10-19T06:47:03+08:00"
     },
     {
       "title": "Three Dead in Avalanche in Chile",
@@ -46,36 +76,6 @@
       "source": "That Eric Alper",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU2xuOHo4NG42TXJEYmRjZFFXZXhDdjdwekxJZkd5WFAyUlFJc3JmbThSVHFNQ2pZMzVzRGVDSk82RXc3RHlCNEhRN1R1LVhRcG1yMERUYXU3MnlTRVlvZFJkaHJacGh0cWxRR1VGam5GV29vbm1JbEoxMndteDlJTWdoaFVNQUoxam1PbTRYM0RhNngtTTVBMXltVWFEOEVOS3hIcG5ycV9LWVVtNm4yc0hrLVVUVmxYNXdYNmYwWFlpcDRTWFF2V2J5VmwzWXNw?oc=5",
       "publishedAt": "2026-10-19T02:13:50+08:00"
-    },
-    {
-      "title": "Chile U20 Claim Historic Title, Fueling the Pipeline for Rugby World Cup 2027",
-      "source": "Americas Rugby News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY08zbHpHNU9FRU1rQVpKR2ZCc0NRRFhvSVZKYW9JYms5QWZwU1Z2NDJueGhRbGtHRlVqRVY5TXRQNldVTGUyUlQ3bERVMW1aMU1lSzNyRDlQQWFwZTcxZ1BtaTFOdUJzdlZaSlFyWldBVTJJVGhMWFltcVBBM3d6NUFUci1ZYW5mcGNEcEpXTVBpblZHRXluUjQ0SEhWZFo5TW8xYnRqamw1Nzh1VlkxM3dvUW4xTWdOSnpHSW5ZWQ?oc=5",
-      "publishedAt": "2026-10-19T01:32:13+08:00"
-    },
-    {
-      "title": "Declaran alerta roja por posibles deslaves en Chile",
-      "source": "WFMZ.com",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaEx0WTNwUTJoNXBZS2tmT0xsSnNwcjVvd1hEUlhqbjFBc1E1QzVydXJHQ1g3cEFUWkFMVV9iZW5IZkFjTXh2NUdVVXVhUWlOMXN5dW1VTFAyaGVZc1YxeUpjMXJnMmF2c0p3dFlyQnh5UzdGR3d3clBobmtMQjR4a3gtX2RUcnJpdXowVTZ0eWpETjdlWms3R0RqTGNtVE1LYmdDMHh3bDdhcWRPVElFOGpNdUhlbzUzMFNhdkZhOTB3dGRjSER4MnNpUXFGODFWRmdkcHF3dlo?oc=5",
-      "publishedAt": "2026-10-19T01:20:27+08:00"
-    },
-    {
-      "title": "From Greece to Chilean Patagonia: The Story Behind the Psijas Islands",
-      "source": "GreekReporter.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdEZHVFp2MV9jbk5Qem9zcC0tOFJwTWdvbkVxREtpOFkxVXpnbW5CYUp2Q3JfeGVYeHk5aFZBaGJwZDN6VExKZC1CMXl6SHhBX1ZUaE1ZYWxENV9BQWtJNlV1SjEwUVB2dDRVbGEwb0M4c3lZSVZfVFIxQUM3a2h4a2RmNUp5VlpoY3dBNThqbw?oc=5",
-      "publishedAt": "2026-10-19T00:39:14+08:00"
-    },
-    {
-      "title": "Nursing Students in Spain and Chile Show Moderate Evidence-Based Practice Competence, Study Finds",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOXY4WUhYcHh1ajVhRDBOYXB6TVJYWlh2aTFab0txZlg2NElRR3ZTdzBuMTgzV185N1JuNllJUlJPemplZFVuRG43YmdCWS1Oc0NnUnFRWENFaktteERyQjllR05ha3lDSkNrRFJfR3FaRU9PX2xhV2lzaV9kSUxiNmtDSWl1MlNxNjRtZGgxb0E0QmlnblRreG10R09qYWpibU44NmN6b29mWlFFdmFyMDR5cHZBU2VpY3Zfa3JR?oc=5",
-      "publishedAt": "2026-10-18T23:46:44+08:00"
-    },
-    {
-      "title": "Santander to invest $800M in Chile, buys life annuity business",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd1ZUYmdNdndpbXpVOTNLMXROWXhEWUkyenlLbGtDODRNQndBUFRtN2p5SV95bzVzbnBwSkh4bUNxTEZQbk9XUEtFaEpTNWl6Q3lmM0Y3ZkFONDZMd0ZZNjUyZUlLYmtzbEJqQnFJWXUzUUsxc1VOQ1MxSU1sVVduUXR3RWswcUtCd0ZDc181bzUzYUJPelVzLU1n?oc=5",
-      "publishedAt": "2026-10-18T23:45:33+08:00"
     }
   ]
 }
