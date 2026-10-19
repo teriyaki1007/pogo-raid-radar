@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-10-17",
-    "asOfLabel": "17 Oct 2026 ~10:30 PM HKT",
+    "asOf": "2026-10-19",
+    "asOfLabel": "19 Oct 2026 ~10:33 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE now (Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local): Dialga 5★ + Mega Dragonite. Dialga-window 1★/3★ (Leek Duck + GO Hub aligned): Galarian Slowpoke, Hisuian Voltorb, Nincada, Beldum / Hisuian Arcanine, Snorlax, Kleavor. Shadow Landorus (Incarnate) continues through 3 Nov (Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion). Fall Marathon: Buddy Trek is LIVE (Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM) — Bramblin debut; boosted shiny Electrike; boosted shiny Hisuian Growlithe from Incense is LIVE now (Fri 16 Oct 10:00 AM – Mon 19 Oct 8:00 PM; Incense pool: Hisuian Growlithe, Nincada, Electrike, Helioptile, Bramblin). ENDED Sat 17 Oct 5:00 PM: Sandile Hatch Day (boosted Sandile from 2 km Eggs + increased shiny chance; 2× hatch Candy; ½ hatch distance / ¼ with paid ticket). Mon 19 Oct 6 AM–9 PM: Max Monday Dynamax Sneasel. Then: Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM): 1★ Pikachu hat+capelet + Sinistea bow (shiny debuts).",
-      "endsAtLabel": "Sandile Hatch Day ended Sat 17 Oct 5:00 PM · Dialga + Mega Dragonite → Tue 20 Oct 10:00 PM · Fall Marathon → Mon 19 Oct 8:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM"
+      "text": "LIVE now (Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local): Dialga 5★ + Mega Dragonite. Dialga-window 1★/3★ (Leek Duck + GO Hub aligned): Galarian Slowpoke, Hisuian Voltorb, Nincada, Beldum / Hisuian Arcanine, Snorlax, Kleavor. Shadow Landorus (Incarnate) continues through 3 Nov (Shadow 1★: Gastly, Totodile, Shieldon, Gible; Shadow 3★: Primeape, Kirlia, Drapion). ENDED Mon 19 Oct 8:00 PM: Fall Marathon: Buddy Trek (Bramblin debut; boosted shiny Electrike; Incense Hisuian Growlithe window closed). ENDED Mon 19 Oct 9:00 PM: Max Monday denser Power Spots for Dynamax Sneasel (Sneasel may still appear in Max Battles through ~Sun 25 Oct). LIVE Mon 19 Oct 5:00 PM – Sat 24 Oct 11:59 PM: Minior Showers: Orionids — Green Core Minior wild debut; boosted 5–9 PM local + 1,000 Stardust/catch (not a raid/egg change). Then: Palkia + Mega Charizard X/Y (21 Oct), Giratina (Origin) + Mega Sableye (28 Oct), Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I (Tue 27 Oct 10 AM – Sun 1 Nov 10 AM): 1★ Pikachu hat+capelet + Sinistea bow (shiny debuts).",
+      "endsAtLabel": "Fall Marathon ended Mon 19 Oct 8:00 PM · Max Monday denser window ended Mon 19 Oct 9:00 PM · Dialga + Mega Dragonite → Tue 20 Oct 10:00 PM · Orionids Minior → Sat 24 Oct 11:59 PM · Shadow Landorus → Tue 3 Nov 10:00 PM"
     },
     "legend": {
       "standard": {
@@ -1743,10 +1743,10 @@
     },
     {
       "id": "fall-marathon-buddy-trek",
-      "when": "Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM local (LIVE)",
-      "title": "Fall Marathon: Buddy Trek (LIVE)",
-      "impact": "Bramblin debut (GO Pass / Incense / Field Research). Boosted shiny Electrike throughout. Incense phase 2 LIVE (Fri 16 Oct 10:00 AM – Mon 19 Oct 8:00 PM): Hisuian Growlithe, Nincada, Electrike, Helioptile, Bramblin — boosted shiny Hisuian Growlithe from Incense (Daily Adventure Incense excluded; Leek Duck / GO Hub / PoGoPortal). Mega Manectric can reach Super Max Level + Discharge+. Free Timed Research: walk up to 42 km for Marathon Visor Pikachu. Not a raid rotation change; no event egg override.",
-      "urgent": true
+      "when": "Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM local (ended)",
+      "title": "Fall Marathon: Buddy Trek (ended)",
+      "impact": "Ended Mon 19 Oct 8:00 PM local. Bramblin debuted (GO Pass / Incense / Field Research). Boosted shiny Electrike throughout. Incense phase 2 (Fri 16 Oct 10:00 AM – Mon 19 Oct 8:00 PM): Hisuian Growlithe, Nincada, Electrike, Helioptile, Bramblin — boosted shiny Hisuian Growlithe from Incense (Daily Adventure Incense excluded). Mega Manectric Super Max Level + Discharge+. GO Pass rewards claimable until Wed 21 Oct 8:00 PM local (Leek Duck). Not a raid rotation change.",
+      "urgent": false
     },
     {
       "id": "sandile-hatch-day",
@@ -1757,9 +1757,9 @@
     },
     {
       "id": "max-monday-sneasel-oct19",
-      "when": "Mon 19 Oct 6:00 AM – 9:00 PM local (upcoming); Dynamax Sneasel also in Max Battles through ~Sun 25 Oct",
-      "title": "Max Monday / Dynamax Sneasel (upcoming)",
-      "impact": "Featured Max Monday: Dynamax Sneasel (Leek Duck). Denser Power Spots Mon 6:00 AM–9:00 PM local. Sneasel may appear in Max Battles Oct 19–25. Dark/Ice — weak to Fighting, Rock, Bug, Steel, Fire, Fairy (×2 Fighting vs Dark+Ice). Shiny-eligible per event notes. Not a Gym raid change.",
+      "when": "Mon 19 Oct 6:00 AM – 9:00 PM local (ended denser window); Dynamax Sneasel may continue in Max Battles through ~Sun 25 Oct",
+      "title": "Max Monday / Dynamax Sneasel (denser window ended)",
+      "impact": "Denser Power Spots window ended Mon 19 Oct 9:00 PM local. Dynamax Sneasel was the featured Max Monday (Leek Duck); Sneasel may still appear in Max Battles Oct 19–25. Dark/Ice — weak to Fighting, Rock, Bug, Steel, Fire, Fairy. Shiny-eligible per event notes. Not a Gym raid change.",
       "urgent": false
     },
     {
@@ -1813,10 +1813,10 @@
     },
     {
       "id": "minior-showers-orionids",
-      "when": "Mon 19 Oct – Sat 24 Oct 2026 (upcoming; evening wild focus 5–9 PM local per GO Hub)",
-      "title": "Orionids Meteor Shower: Minior Debut (upcoming)",
-      "impact": "Minior debuts in the wild (Meteor Form); more frequent 5:00–9:00 PM local with shooting-star skies (GO Hub October 2026 Events). Not a raid rotation change.",
-      "urgent": false
+      "when": "Mon 19 Oct 5:00 PM – Sat 24 Oct 11:59 PM local (LIVE; boosted wild 5–9 PM nightly)",
+      "title": "Minior Showers: Orionids — Green Core Minior Debut (LIVE)",
+      "impact": "LIVE: Green Core Minior debuts in the wild (Meteor Form). Boosted spawns + shooting-star skies 5:00–9:00 PM local each day; 1,000 Stardust per Minior catch (Leek Duck / GO Hub / Serebii). Not a raid rotation or egg-pool change.",
+      "urgent": true
     },
     {
       "id": "halloween-2026-part-1",
