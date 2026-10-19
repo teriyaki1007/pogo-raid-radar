@@ -1,7 +1,7 @@
 {
   "iso2": "SI",
   "name": "Slovenia",
-  "updatedAt": "2026-10-19T17:10:52+08:00",
+  "updatedAt": "2026-10-19T23:30:24+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,28 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Heat, scarce snow melting away Slovenia’s Alpine glaciers. One is still standing",
+      "source": "Sentinel Colorado",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObUFDQnpPTk1KNGo1cVpRWmFLbW9UUXNkOXN4WmlOSDFrM1FzSU9kLWRERUR0REpnLU82cVYxVmJVai1odUNDSU1FRkxzd084LWxtMDFDVGZ2bktFV3FRUmVmUzQ5MFh2MVNCRjZhc1V4TEtlQnpjX2JpXzI2aVRKeFRNQ0NzSlNjQzg3V3lxZDNNZWRZMjlSR2lGbTFoLUlLSkJGNXkwVHlGTEFMTFh1YUJSZ25wMGxqMGRfVTJB?oc=5",
+      "publishedAt": "2026-10-19T20:42:04+08:00"
+    },
+    {
+      "title": "The Slovenia Times",
+      "source": "The Slovenia Times",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMHhBcXZ6TjI3cEplMHNnVDYzUjJvR1AyQ2t2RWRkQ3IzMTZyUXMtUmFFSG1aamNNRm9zeXFUaVF6Uk82ejRpOTJMV3luSV93R01BVFZ0Szczbk45a0otb19uU3BVcGJPSjZHSVNOaXlIR0RKc0ZlOE1kNVhCOUIydGpLQWZNX3Q4cHVNa0c5eEtocnRaT1VKbTZ6RnlpMk1USDNrNUhqd3YwdEx6ejhETHUzSVBUUQ?oc=5",
+      "publishedAt": "2026-10-19T18:29:54+08:00"
+    },
+    {
+      "title": "Enock Onchari storms to victory in Ljubljana marathon with course record",
+      "source": "The Kenyan Diaspora Media",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVXhiV1ZzQjl6R00wNUVtRTlRRUM2OERzaURGaWJTbWZTMVJEUExsUUVkWUtpZlVXaHlWbUlmZUtUbTVNa2NtWFFVV2o5djdsVHdrVlJuREc2TndDdnJRQmRtc1JrUl9iQWZBWDFtdGxyMkNLeUFLaThtNDkwTmFZOVNHTHZBNTVfU2w4Uk00ZlFVdkhPZEdWaGE0TWUyQm9tY3k0cGRvTmNUYlN6TUVBU20tZUpVeU0?oc=5",
+      "publishedAt": "2026-10-19T15:40:00+08:00"
+    },
+    {
       "title": "Three-Barrel Gatling Gun and Guided Missiles: Slovenia Unveils New Skythunder Air Defense System",
       "source": "Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQY01qaG1IYm43SmR3WHJRNmxEN2h0M2lKNVJnRGVMczRWQXdvcGRiRmN5ZlJvbXFTcUdoS3NkbU1ONHFPYVJKZmVxSmRkUUhROGJiQ3hqd2toRWVsalRvM25xXzFTRDJEX0gySDR3WDdraEh6WG80RUMxNk1BdlBHU0ZMNlpuVlhpMlZmZTRZNzBOSlo3UVRaRm5YcjlnS0R3VE51UWh1YmRHa2ZMcm5XeUpCT0pHV1lUWlBRMUF5M0E3ZXJEdGc?oc=5",
       "publishedAt": "2026-10-19T15:10:37+08:00"
     },
     {
-      "title": "Egypt, Slovenia discuss scheduled flights between Ljubljana and Hurghada - Urban & Transport - Egypt",
-      "source": "Ahram Online",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUR4UnV5ckVMSFhiTTY0dkZQdVdiUHNOTzFkZjNYd1ZqTmlJM0RObTFkVU5VbExxRnNULXRGWkc4ejJYTjI1X3JWWkZIQ05yekhOMkVNUUhSc3ZIanJlQUVIcU1XMXJoM2paLXc4M1Rib3UtZXRiUDdxTlVKNTQ1aFdNMEw5YlE4VENvLUdnOHpJRDJkclUzQVlaNHNzaUl2djQ3VEVGVXRDNW1LY0JFM2xFeVdJWUNRR2lLU3k3M1JYRUdEY3NVOUNoZEp5UQ?oc=5",
-      "publishedAt": "2026-10-19T03:44:41+08:00"
-    },
-    {
       "title": "Egypt, Slovenia explore new opportunities to strengthen air links",
       "source": "Egyptian Gazette",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOWpvZldvZXJwcVhxYXBfeFJHSjdEaktpRWUyNFNUdUFBM1JlRGo2NGtGZDhaLTJkaGhkc2o4M0oyLWJNSUxwWFUwZkxoSDZoQ3hOLWszTW0yOFBXd3NmdzNjbVMwaXUwSHI3NFRQWDNWWjhyeVFYRjZNMFktYW1iVVlqRjVrUG1PNmJ3MTJKSXJSQVUtS3RSVTI1LXZpQlFvVkE?oc=5",
       "publishedAt": "2026-10-19T02:08:27+08:00"
-    },
-    {
-      "title": "Heat, scarce snow melting away Slovenia's Alpine glaciers. One is still standing",
-      "source": "The Batesville Daily Guard",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNdzJOaXlMZVF1VkN1aFkySUEyNTNSUzB4a0dEUXdxTmpnV0RmaWRfYmNiOEFFZXJDLVcyYU9ucVV3a3ZRR0RRSnA5WGlMR3NJZXVzRVlMRDF4Y3Robm5UVmJNVUk0cHZHdVhSLWFCb1pWSU1feWZSSENJVDZwTVp4M1JtRDFURUNGaEJYRDFMSFJYUG9OX1Z5dTZ0YmNEMktseFZRdTY1NEI5OFhRalM2VkZiTEItVlZCMldIZGhFZWNLdWtGV09sUnZIZ3M2RW9ORkowc1V4ZnlqRHM4UzUzNnU1Wms3S1kzdnRMN0dMUU9JbmR3MTBNbWdR?oc=5",
-      "publishedAt": "2026-10-16T20:46:22+08:00"
     },
     {
       "title": "Slovenia Melting Glaciers",
@@ -66,16 +72,10 @@
       "publishedAt": "2026-10-16T07:27:13+08:00"
     },
     {
-      "title": "Slovenia's Last Glacier: Skuta Ice Shrinks as Triglav Glacier Disappears",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSUV4RVdycjR0bm83c1N1V25aN3EzN3JCaXVsM2pmMWNKcjBRVDVLR2g0X2xmMElCVVRnV2FWQjI4TkE1ZmtiTDNiWkVJazZJYmNLOE5xeklGRHBIWXFHNnBQM3dwaVRCRHplWWlReXpBdzJ4VG40QXpfeGRSZjRac1lDYzFXU0tsYzhFSHdFR0NtQ1ItMkd1TXdqTUUxTmx5MUE?oc=5",
-      "publishedAt": "2026-10-15T23:10:58+08:00"
-    },
-    {
-      "title": "‘Striking change’: Slovenia’s last glacier is rapidly shrinking",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSWNQUVdiR213V3dkWmZNa0xLa0ZOTFJVZktsZldqa2J3VEMxU19rQUwxWlA5b2tYb19UdDNpeURiLUJOc2pFXzRadVlDRW5FbkxrS1VHQ2pRVUE0ay1QNVBZcGtuMVVoVHZVd0lkMkhtZXhSQk5KaUhEdGh5QXpmSlNMU01sZUZwd3g3ck9vc05jYkdGazgwM2QzaHNzQU5CVy1BVVNPOW85dldaS09jbmF3OVZILWE1LWNBVEhxUnRiQ3ZO?oc=5",
-      "publishedAt": "2026-10-15T19:31:14+08:00"
+      "title": "Slovenia reaffirmed its continued support for Ukraine and its accession to the EU – Stefanchuk",
+      "source": "Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUU5fQUM2YXg5RHZ4M0cxdWlMem9qcXRJYW8yNFkySzRiSW9Xanl2YUJWdlNHQXFIdUhYUkYzWHFWek44dll2MHpwdEtBd0d0LWFxbWFyODREWDZ4c2V6TU1KYzlIV3pMN0Y4SDB3QTU5RENQazJaTlViUDZZcFY4TGtSTHFQMEI5R000aGIxZXEwR1IyNllLZERuUU41NkVaUTQ1bTdQdVd3S2JfUlowa1pMT3VEZ9IBtAFBVV95cUxOMVpyU1FZMXZnY182R2xqcnZYMThWeGF3YlozOXcta1hzLUlKM2lDemhXa25ydkh2UjdrSHBFTjJETnBma19YcDBaTF9QdlhMd3R3TU1qc0N6VTRjVUlzcGVDYmlZbnE3N3lfMFJuaUFGTzZBMlZzUGVNVkQ1MEZoWkE4b0Y3b3NsOWxPZXhnR3lBWjhmZDhPSE9MVGsxVEdpWFdDNDlzOEVmdW9CU3Y2X1hxM3o?oc=5",
+      "publishedAt": "2026-10-16T04:55:55+08:00"
     }
   ]
 }

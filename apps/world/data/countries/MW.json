@@ -1,7 +1,7 @@
 {
   "iso2": "MW",
   "name": "Malawi",
-  "updatedAt": "2026-10-19T17:10:52+08:00",
+  "updatedAt": "2026-10-19T23:30:24+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Malawi Faces Rising Food Prices and Lean Season Pressures as El Niño Threat Looms",
+      "source": "AfricaBrief",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB4Wm1qaHE0UlMzTEJ5NHVGRjlNMHRReGJsX2FuMTJDLWh3RjB1eXhHNzJSWVdELVlNMjUzRzluTlFnZnhJTzJMSkVRZ01PRWprYXBscmhtMnlIYTBza2pKWElocnhPNkV1dks1STdFLUt2RV9PVUNwb2Z3?oc=5",
+      "publishedAt": "2026-10-19T19:23:14+08:00"
+    },
+    {
+      "title": "Shaping Legal Minds and Advocating for Environmental Justice with Edna Obiri: Solar agriculture in Malawi",
+      "source": "Business & Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUnN1eUROUnZ3R3kwLWdSY1VKM1lGLXMwUGkwOHNQNjc3cUw1d1A2SVpQY0x4V01aM3p5dFhaWVlBd3Byd1pJbDlJbG5nZ0J1ZFdGMVEtY3dkYlpRMW9JOThLd3FPSHFQQmF4SldJbGUzQVIzU2ZYM0JGUUQ1bkQwZ3EyNm1MdVZpMXNsenJTVGc4ZTItY21MUWEzckJmQTlISWVvVXVEYVJQeDZoS0o3R2Vzc1JWbFcxQktNUWRPQy1BYWxUdzFIWExRclVKOXBLWDM0?oc=5",
+      "publishedAt": "2026-10-19T17:59:35+08:00"
+    },
+    {
+      "title": "Malawi to roast in 42C heatwave as experts warn lives could be at risk",
+      "source": "Nyasa Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcW9YY2NiZXJSR25uU1JmMDYwOEMxQTBRUnBLVHBIQ2l1clNoR0dlVXZRY21NZjltMEJnUTJTQlp1QVh5SDNycEFVU21NR1FaRGVIbFVhcWdTVWN1TS1oRFp2ZV9zWjJHVnFlSVp6T0lOdzdOTGlDRUFyZGduYjU2THJtS2NaSVNROUlySVFZMHpZdGR5VDZqR3R6bFZYNFU?oc=5",
+      "publishedAt": "2026-10-19T17:20:32+08:00"
+    },
+    {
       "title": "IMF warns Malawi of food shortages, power cuts",
       "source": "Malawi24",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQXpoT1FSWjhxb2ZKbU4yQm1oVHBObEY5cC1MZ1hQci1mTUswWERqWE1FMC1yNkhqblcxRGFXYUR5SkxEeHpBbGhvZW53ZVhwWnZWa1NhWFBMWlFnNWlRam9CbHpZNVpsM1I0VjZ1Tk5FME9fODlhNXpTNnFGc1BBUWVZWW8?oc=5",
@@ -48,12 +66,6 @@
       "publishedAt": "2026-10-19T14:20:24+08:00"
     },
     {
-      "title": "287 fuel tankers expected in Malawi this week",
-      "source": "Nyasa Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CbnhZOTlyQ3A0eTFxVkZQMzZJV0x0RE9aR2p3NXpZYk1HZ2pqNTI5ZS1PUjRQVnQ2RDN0SXB2WFRVaTBpOUZWc0xSZkRZVG1COWYxbzFGU2E4SDM2c21BdGh1Umx1N3dCRmt3NldGY0hla1B1blNPd0R3TzhUUQ?oc=5",
-      "publishedAt": "2026-10-19T14:10:09+08:00"
-    },
-    {
       "title": "Kenya engages diaspora community in Malawi to address welfare concerns",
       "source": "The Kenyan Diaspora Media",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRXhobkZTUkUzWVJLY19VaDVuWUNtNE5zX3dLd1NValBld2FGLVRxZV9EUkJGQmJfVTgwUWg5MjM4cFRQNUVCbnFDT19jQ1A3QTZ1eERQT1hrRy16UGZGcW1vQzRDSjVkWm0xeWZKZkZGb1B2VXJnUHVZRG15N3FIbHZhLVJQMWF3akVSZmIzUklBbUZFNlh6ZW9QeERjOHNRdmQ4cUs5blltakhqSUI5c2pyOA?oc=5",
@@ -64,18 +76,6 @@
       "source": "Nyasa Times",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMm8zQkwzd3k2NXNZMmN5ZnM1RV9jN3h3R1RIZTRYMEM4T0hKc3ZZUE50M2JuS01JdGdtRmtuSWNEUFJYYnFrVXpPRlIwWFlpd21wVjBxdWxfc0Q5SldjdDNiTkdkMGhPZ09GVTk3RDYxZzVxbFJuRVh6ck9ERmZWTXljeFd4SjJodUZNXzIteHowQ1hjZXBZNzg5NEI4dlg1OWw4?oc=5",
       "publishedAt": "2026-10-19T06:19:44+08:00"
-    },
-    {
-      "title": "Malawi: Vice President Jane Ansah Takes Cancer Fight Beyond Hospital Wards, Calls for Compassion and Early Detection",
-      "source": "pan african visions",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOGYtRzI4Y3ItZkwzN1hwSWZjZVczTHNqVl9DUmNtMjNEXzFLSGlCZVQzN0F3aHRNejQ1X3dsMHpNdGFpOEtuQ0haTm9LeG1Cb1JqOFRFaDUxb1l2OXlrUWloVDNzMHlNQ2lTRG5hWm5FQW1tSDNNMFRlTFg1bTRjcEI4U1dKaTZNNFdhMWlETWFScU5HRThITUMtRkw3Q0p3YW5FTGx4ZEdFS0M3a0dsZmM0WWlqMERxN2RQVWRCeHpldHpJajBDc1o0a19YbDVweEJPbklBaGJMRXVrNXYwQ29qdHQ5cmpF?oc=5",
-      "publishedAt": "2026-10-18T23:37:16+08:00"
-    },
-    {
-      "title": "Malawi Mining License Audit Rare Earth Impact Explained",
-      "source": "Rare Earth Exchanges",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0hMWDg5Qlc5NTYtYm1zby1kZEE1SnBNdUV4TXRtZUFscE9HLU9KVFBreS1uVnFRV3NHZFE5SnEybkhoTUhQazZqZjNLN2ZvbFhDa014bWMtOUJsNk5uU0tPQTNJUDVKVWFDUkd4NGtvLTl5TmttRmZWNF8tZUVVOQ?oc=5",
-      "publishedAt": "2026-10-18T14:22:58+08:00"
     }
   ]
 }

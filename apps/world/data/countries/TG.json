@@ -1,7 +1,7 @@
 {
   "iso2": "TG",
   "name": "Togo",
-  "updatedAt": "2026-10-19T17:10:52+08:00",
+  "updatedAt": "2026-10-19T23:30:24+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,22 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Russias Pivot To The Global South: Togo Emerges As A Gateway To West Africa",
+      "source": "Nigerian Voice",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX1VHOF8wenRDTWRzUUswcXp4TVR0bnpZYkwtMExzOGIySWxEd2ZReDVtakdxc0UwbEZvSDd1M3ItWDRhRTZjcndFek1tOFBTVjR2MncxR2pqYmdWQjZQcTVfN1ZjcWFOb0xYZEhmN2xiQjNndF9YZkMySUMwUGpoRHNqRmpSbTExM2RDTlJmMnFaZGdYNEVva1BQWVltdnFSWG1ZUHFzUHZQbFJ50gGyAUFVX3lxTE1uNnBzTXctMUlyYmVsWlFfSVhvZmZudXNWdnQ1dGlwSEo1NEsyNGIyMlhIZHBOUldhWHo3eVgtT2dQRWNVMFRPZlJ0ajlRU0l6MUpBYnFUaGxuUS16T0dlWVJhWTl4SVNxQUkzQlY5Ml9QWGwzb3dSd25HRzN6T3FXT0drc1poaDRyYVVXVkRNQnVHSjVFeU4xQ0JqUkxMbEw3SzFNV0lKZnRGbGVFNVZ0N1E?oc=5",
+      "publishedAt": "2026-10-19T23:00:00+08:00"
+    },
+    {
+      "title": "Togo Signs Huawei Agreement to Modernize Energy, Transport and Customs",
+      "source": "Togo First",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNT3lvTWlpUGFtd0xkSU5KcHBxSVBkb1o5Q3dabTFtWC1iTjI2T2lWQlg1WF9pdjRpOFVob3p4d1Y5UWRkeE81ejY1ZmdLbGNtY3BDRWllc01YWXZVS0VUWXJ4TW5uLVF2azlkVUZKbVRpWWNOWkVnNlFlQmZuYk0xZENTUFQwaG1YQjEtYXpMLVU5Nk02S2ZLc0pmVG5ZZHE0T3UxYlJleVp6djZndWxXT002NWkyV29KRXZxNjUwakJBenV5WVFYcA?oc=5",
+      "publishedAt": "2026-10-19T20:09:06+08:00"
+    },
+    {
+      "title": "What a decade of international descriptors signals about Togo’s image and investment appeal",
+      "source": "Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXzhYYkpmM0pvdi12SFlBUV9TT3RxQkhpNWgxbmNaWUQxZjB4ckQtN1l6b2JzLTdyU1NCQlNLT0RSM1UydTFxclVJT18wN0tocVEyaXp1YUdlMF8xVmhjc3NUYXhMU1Vpbk1MVlFXTXFGUThka0p3RU9oTUJoNDJGRl9Yem54bks0dUtxOENlUVdrMTVBTGc0MGNqMGXSAZsBQVVfeXFMUGhrUEF0ZTdhTlVFVXlRN2F3MGVoOVgtUkNDOFRvanJRc1hZaHlCb1djYnVMUEViWDdfVHpYbFV4UG5WWm94RnB6R3N1bEx1UXVYUlpnSzRsNHlvVm5RQXZpS2p5YjkxT1lqejV0RVdkblc5NXZlNjVma1JTNERrajE4aXlsTjYwdUtNdnJiUTZ5aklUdHRpaVlTVU0?oc=5",
+      "publishedAt": "2026-10-19T19:41:49+08:00"
+    },
+    {
+      "title": "Togo Moves to Turn Senegalese, Egyptian Interest Into Business Partnerships",
+      "source": "Togo First",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWUVqZ0pkSXJWUXlSYWc3Zy1QQnY3U3R3RnF4YlBFZm84Q082UmxtakM2V05NU0FvcDlBT0tNQU1Ja0Fjd2tBQkdLdEEyMU9jNk1zRTN5MG43TDlMYjRyM3Z3T1FBaXNMY3lfejZuUWpKVFJ3Wm9qSm54R1hKQkk3aUhaMkNqb05uWEJZVW1yclBjeWs4UzN1VzRaY3VHQXk4eE9rcXJFS1dPU3N4bThsQ1NDdzhPS3J4NFJJSXpDRXRBR2ZBd1VjQk9NQnMwVUE?oc=5",
+      "publishedAt": "2026-10-19T18:39:00+08:00"
+    },
+    {
       "title": "Russia-Togo Trade: Fertilizers, Phosphates, and Lomé Port Open New Commercial Routes to West Africa",
       "source": "russia's pivot to asia",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQalphMTU5LUJpbDM1OWJVcVV3NzlJUkQ4cXhoR3FNN25vd01TODhJUllFT2I0UUgzQmJNS2k0TGl2R0haM3FzaE9zOGlBTXVyb2RFQnRsRWIwMndzR2hiM0gwanBFc0VYYlZUMXl5el9EdjJOeWxaa3NZdmRGeUFfQUtDYUtkdGpHMDN3NDZJU2liV1NpSE5sSzZhcXZmajdRYkczNDBfc0FzdDdveWt4N2RVTXpjSzhydFZXTE81LWdXbmt4T2R3?oc=5",
       "publishedAt": "2026-10-19T01:15:09+08:00"
-    },
-    {
-      "title": "Togo and France Plan January 2027 Talks to Expand Local Government Partnerships",
-      "source": "Togo First",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaC1lcm1TNF9EZmVKMDlZX0JyWnJ3M2ljWW53SGg2T3EtSk1hSndrR0dpUUNIaGdJMGVnOURiRHBycVVwM1RDUDltTVBkajk3NHVPZUtoRktHT1ZPVWFxLWVhNVZyQWlJNGtzMTNEdkU5b0FHOEh6UktIcnNTR1lUb0U2WFJFRk5PWE5tQ29sdHltb21sa21IQ3d2djdHdlotbjJVYnZJRFVaeEFndGhka1d1VEp4ck5wemN1M0lsZE9ieWJKbC1PSUVqYmhCaExpMFhjQUtn?oc=5",
-      "publishedAt": "2026-10-18T00:40:59+08:00"
-    },
-    {
-      "title": "Togo and China Sign 13 Agreements on Trade, Technology and Debt Relief",
-      "source": "Togo First",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZHJjXzZzMWhuV2lfdUphbHMwUkE0cTlfZW1iVUpIX0MteVU0VUlRN1NpLUlhQ3VlMXZ3b2dVVG5lNy1UamFfclNoT2dwNU9PMjVCVVg2M183MXBSQVNuSXFITjlPdlhWTjBTTVV6RGE2bWZjZzQ0TVNkNXpNdlZ5VFpoTlBuZkdSXzFleWJySmJxLVo0OVFTUTJjZ1NtQXZaSnNOMEFhRTZBUzAwQUlUOTdJTVF3Zm5yM1lpYnhZcWozb01pZG9RQg?oc=5",
-      "publishedAt": "2026-10-18T00:30:58+08:00"
     },
     {
       "title": "A third plant for Lomé’s port as Togo plans 120MW of gas power",
@@ -60,22 +72,10 @@
       "publishedAt": "2026-10-16T07:08:06+08:00"
     },
     {
-      "title": "China, Togo Deepen Strategic Cooperation, Commit To Shared Future",
-      "source": "News Agency of Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaDZtTWRhNGxUS241OFY1MmpoRzhkSkR0aFlLMW5PSzN6MDhGZm9xZkpUVjdmaklCNUxmR3dibE1CaEo2S19ucko5X0VHSW9xV0EwX3FXRTV1Sjd5eks4bXRfYXRDaWQ4QU5VTWVNS2tJTWliUTd1T2k3RzRDQy1pQ2RNdlNzcEpqZEFB?oc=5",
-      "publishedAt": "2026-10-16T04:46:35+08:00"
-    },
-    {
       "title": "Chinese premier holds talks with Togo's president of Council of Ministers",
       "source": "Xinhua",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HNmxpek5YUGlHYlk1bHpvaFlCOFlCd0hnRllMZ05Bc0dOWm9DRzZVU3dyLWl3c2lvT3pfR3ZDNllDWVQ3dnVFb3k5a24wNmp2R2lRcS10RnZZdW5MLTYwVFpRNERvWUh3ZmRCVVhkSnBIcUIwMWVjSlZsd1U?oc=5",
       "publishedAt": "2026-10-15T22:24:15+08:00"
-    },
-    {
-      "title": "Chinese premier holds welcome ceremony for Togo's president of Council of Ministers",
-      "source": "巴士的報",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbWFCU3p3cTlOWXhsdU91dmt3N29GMV9YMzNlQXgzcW1USVA3X09zTF9vcWFPVWVUZ0ozTkppYUFjeWdZVHBsZzVPS1l1SGJsZEtWMUNLc2dmdFhXcXcyZmRwQ3JTQklMMWRLZXZsQnR6WjlSUFh0WjkyZW1WOVh5MVJEb1AxS3RiUzc0bW9fV056LUZKdzljTm1JLWRGVnRGTHk4S21hLWxFZ0lCWlZYZW13S0l3SkdQeEV6VVZUMWhxSGVramxLT1ZlZjllb2s?oc=5",
-      "publishedAt": "2026-10-15T19:38:00+08:00"
     }
   ]
 }
