@@ -1,7 +1,7 @@
 {
   "iso2": "VU",
   "name": "Vanuatu",
-  "updatedAt": "2026-10-19T11:05:35+08:00",
+  "updatedAt": "2026-10-19T17:10:52+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "Vanuatu expects reduction in China’s police presence — ABC News Australia",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZzEyXy1RY3Z0a0Z0VHdqeFdqTlYtakFiWURub3k1aHRGT21qOE82Rkl0SVVyRWt2YW5nTE50NHNYNTNpU0RsdTU5MlpOTXZPcGNpb1c5T0RULURVdkdUTVpQN1l5cGZKTDJQSDhKR0lmSUstVmVJeXFCYW5rMTRIYUdnR3E2clFXcU45MjlJR2ExSWhEYUZpZTVaY3pWSVYweDlObA?oc=5",
+      "publishedAt": "2026-10-19T15:30:53+08:00"
+    },
+    {
+      "title": "Vanuatu expects China police presence to fall after deal with Australia",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMGFCQ0pGTVNlM2t2a3BvUm9NZm5laGxsVUxPYklfcVFFUGVJcmgwaGpXbzNwRUdLSE1lT0I2QWdySU54VnNWRHpEczF0X0NjY0wtX3BmbElLNTNNWXd4dER0R3VyWm5iRFl0STVjc0hGcVFRQnQ3LTlhYXVDdEJBUEVtYTY5aDdQNUlLWjhCWjY3OFdMT2dkV3lzQ01mMUgz?oc=5",
+      "publishedAt": "2026-10-19T14:10:01+08:00"
+    },
+    {
+      "title": "‘Raw, authentic and very different’: Vanuatu wants Aussies to discover another side of the Pacific",
+      "source": "Karryon",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd3pPM25mbmFLWDI5eGI4V0w3bXdCYl9pdFNhNDV3emZTek1hMDcwUTBoN1B6ZVE2bXk3NkVnWGhvQzRUS0dpcHd6RjhsT28yZnZmWVdlZXZLZk0yNE9ZLURTMWVPRUlBaXhHTDBTTWtZaWtLUnFWU09Sazk2amNFWQ?oc=5",
+      "publishedAt": "2026-10-19T11:36:02+08:00"
+    },
+    {
+      "title": "A Guide to Vanuatu: Where to Stay, Eat and Explore Across Efate and Espiritu Santo",
+      "source": "Concrete Playground",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IeHJBdzlyQ1RtSEVWZUIyVXFtUXBtb3JsckJ0RHBfaXR2Y09YelVhNjQ2Q09icWxkSFE1Q0cxSlVUUGRkTnhiQ1hVN3Q5dXhQbkdPZ3Bfc21mUGxNQmRNWE5EZmN5cnFubEg2a1FsUQ?oc=5",
+      "publishedAt": "2026-10-19T11:24:53+08:00"
+    },
+    {
       "title": "OFC Beach Soccer Men’s Nations Cup 2026 | Team Profile | Vanuatu",
       "source": "Oceania Football Confederation",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDcxNXJzdWNuaFJBOEdvS0dSNXlMX2FJVnN6T3NYS3NlTGZLVDVhTHhHS2FuSDREd20wTEl6YzZPTVB0SjBLTGprdWlhRlRvUzZBNXVqcmp6RXpiV1ZpZl95aDA4WFlydWtXMkM3VGF5RURqWkI1TFFjTW5DaWdrQlg5a204aHRGVExoTXBjNXUwX0RHUFB3?oc=5",
@@ -48,34 +72,10 @@
       "publishedAt": "2026-10-18T05:15:33+08:00"
     },
     {
-      "title": "‘Raw, authentic and very different’: Vanuatu wants Aussies to discover another side of the Pacific",
-      "source": "Karryon",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd3pPM25mbmFLWDI5eGI4V0w3bXdCYl9pdFNhNDV3emZTek1hMDcwUTBoN1B6ZVE2bXk3NkVnWGhvQzRUS0dpcHd6RjhsT28yZnZmWVdlZXZLZk0yNE9ZLURTMWVPRUlBaXhHTDBTTWtZaWtLUnFWU09Sazk2amNFWQ?oc=5",
-      "publishedAt": "2026-10-16T09:40:07+08:00"
-    },
-    {
       "title": "Vanuatu doctor warns men against injecting foreign substances into genitals",
       "source": "RNZ",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOFlGdlZCbVJ1ajZKTG5TNzFfOGE0endNemxIUFlkV0c4SnEzT0hUdzhXaGFDMFhxOW16Z2hvNzdqU29vTUQwT0xjQXl2RzRwU0pQellkY01GcWtNMVJlRmJzMUdVdTVLNmMxWVE4NmdHZTAyNHNRNVpxOVl4TTZ6Ni0tTnlTN3JtaHhIdVBublFDekxxb0FZaTFXczFWUDNqUUp3M3BOUVp4bTA0NVo2ZHZJT3lkS1Y2MFE?oc=5",
       "publishedAt": "2026-10-16T05:47:42+08:00"
-    },
-    {
-      "title": "Pro contract for Vanuatu's under 16 captain could be the first of many as FIFA spends big on development - ABC Pacific",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVkJDMWR4Yk5nRFc0MkRzX0NnRlhKY3R3cjFlRURSb1ZwaW5oaFpSZWd6TzlCdzUxMnViemFrQjdpRnFENjR3clRkSWZpYmFvQXZMV0tGTEZqNnZjTXQ3MWdYdWtVY3Y3cDB2MW8yU0xhdGR5UUZ1aXNlVGsybG1Mc1N6SQ?oc=5",
-      "publishedAt": "2026-10-16T04:00:00+08:00"
-    },
-    {
-      "title": "Ramazani reflects on Australia Cup triumph and sees brighter future for Vanuatu footbal",
-      "source": "Vanuatu Daily Post",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNMDF2Y1hUZ2dKckRyNm5OalhvSzM5M0ZYRVhxMWNpV2dJTVdNbmhMOGtJZHBKRXdqVFVOWFdIZnNlZGt3VHp2aWNNdlFyVFpDOGhYSlFJX2RSY1p0WkJtN3V1a1hHRGY3Rm5zRTVWNzgyOXY4NUJSbVBZdHlKVmhtYkpZYk5DQl82U2xyUmEybDNKQmxNNzF5d3lQbGVRQU9PaThFaG5idThZMjBSMzBiWVhwOVVJdkZjeGwtajBGU2lTUUcyV2NtMmZaeWE1OXJOeWVHMXdVaTBPYmlWQVJpRjRHWkotVjcxRXJCdHd5U19WOE13a1AwWDFpZUktcnJ4RngtNFBqcEo?oc=5",
-      "publishedAt": "2026-10-15T04:00:00+08:00"
-    },
-    {
-      "title": "From Vanuatu to outer space",
-      "source": "Save the Children Australia",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rdUgxdlB2N0M0WGlyQllnWTV2SmpmdGVsajVxTDBHVGMzQnVHYW5IV2F6UGtYTWt5VkU0Z2VDaXRWSDNTa3BSblJSajVYNlJleUh1bGtkZlo2THNhNXlKcURDelZUWFpIQVg4QmFnbkpfWjRkb3lIVWRNVGZ2TDQ?oc=5",
-      "publishedAt": "2026-10-15T01:53:04+08:00"
     }
   ]
 }

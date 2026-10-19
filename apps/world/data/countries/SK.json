@@ -1,7 +1,7 @@
 {
   "iso2": "SK",
   "name": "Slovakia",
-  "updatedAt": "2026-10-19T11:05:35+08:00",
+  "updatedAt": "2026-10-19T17:10:52+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Primitives lands first format sale for Belgian political series \"First Choice\" in Slovakia - Señal News",
+      "source": "Senal News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOenY4RlBfa2loNFBodGVfQUg4cjl1czF1amlmTVpfRjBaUGNZRVp6Y0EzTlI4dmgtT3BwX3hxUEYxNWZzRkJMNUdiMHJlV29xb004aFBsbTlZVGtDS1U3T3ZMWjFjaWNYUVNNdzZvWURISHFnQUVJWHhsWng0bnZfWmR0eE1WX2wySnVXOV9fVkxyLUZrc3A5bS1YdWdvSm1KYUZ6TGNPejJKYk1oS1Ryb21XcEdfVWZILUdEdUVR0gHDAUFVX3lxTE1HaWVwcjM0ODZ2X1l4RWh6d1VlXzh4OVFMRmZLa0ZYTFF4YnBhcDF2MTJzUkxwTGZCeElCNGxnTVFQUjVhSEZKcHVpWVBoT3BuQUJmWGZKX0J3ZEZHMzY4RHVZRHIzMk85X1NVSDM4VkZ0ZTgyOXBsTW5ZWDJ5UGF3cXBWWWVIREtTcU5CakFYUFl1NHJfazhvSHZKMDJYQXhGbU1GQkg4ZF9ocms2dmFXU0h5aUVBUWJWaUZsZ1I1ZFFWaw?oc=5",
+      "publishedAt": "2026-10-19T16:00:57+08:00"
+    },
+    {
+      "title": "Slovakia just gave Tesla FSD Supervised the green light. That's nine EU countries now. The rollout is coming soon, bringing Tesla's advanced driving assistance to more European roads. Think busy intersections, tricky turns, stop-and-go traffic and long drives,",
+      "source": "X",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CcHQ3ZjkyTWc5Uy1NTEZJMHd0R3hjVUNLSEJhYnUwTF8xOV9pZVptWDF2Ukw3OHA5Z005UHduME45VTluTW1LTjJGTXlSUjBtY1I4bjRXQ2FxWDhydm0ya1pOZXhTVHJDTEFJUg?oc=5",
+      "publishedAt": "2026-10-19T14:30:00+08:00"
+    },
+    {
+      "title": "Hungary to keep rates, S&P to review Slovakia",
+      "source": "FXStreet",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPcmxDdG4wRlRId2VDY1pkcXJ6RFhHOTVoS0wyWEhjcEVIa1hST0RLbDBfODFWb0UyLTlDTDF3OUN1aFlXMGRZdFh1bjFKZFpVRWtKYU0tVlUxRW9wOHo2cGNzWnhRTzRoUWpPYngtWWVyWnRlZlZaaXdscGpfWFcxMkJyVDZRc1pxTTJYblI2elNQbW56?oc=5",
+      "publishedAt": "2026-10-19T13:48:56+08:00"
+    },
+    {
       "title": "Balkan Lizards Found in Slovakia via Plant Trade",
       "source": "Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6TXl4Y1FDTTBTMHlVV1IwOFRJcnkySFd0SWVIYjZPcDZsVWVGbVFybmtZMEQ2a2FBZ0V2cXlvenpNYXlDcjhsdm80U3BfX2xPS2FlTEtOaE1hUFIwXzJQcC1WdGxqYTdmZlRBdncxWVBsUDlkQzNjMHFpZWxJdw?oc=5",
       "publishedAt": "2026-10-18T21:16:19+08:00"
-    },
-    {
-      "title": "Extinct stonewort re-discovered in Slovakia after 45 years",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjFHUl9DTWNQRll4VWc2djJ4NnZmMVBFTmppRHAxZG5XNWFJckttaG1QdFRBYlpIRjkwYjYyalZqWDJwSUkycndJSXBQV3dzSVZiY2UyR2l1NDU0aTgtOVkwMEUxdmxNZTlmNlJnTEhCcWZyS3lPQWprRDM3bi02WGRkbzYwMUtYYWl3?oc=5",
-      "publishedAt": "2026-10-18T08:24:04+08:00"
     },
     {
       "title": "Slovakia approves Tesla FSD Supervised for road use",
@@ -64,18 +76,6 @@
       "source": "Українська правда",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Wa1llNUROTmp0eTgxYmdzTVN4d2RyYVg0MnkyV05DWk1LeEZqTURhaUhySS1YQ09uQTM3bG5rVmpoSmJGaW9pYnJGNW5xTGJJUC1XNllpcVBDRkFHYjN0QjRSMVrSAXBBVV95cUxOVnZPZDhWXzZ4VDZTc191QklLVXJRcEZiM0QzTzZXNGsxZmFEREw0aWEzaVhoSWxnQ0dhR0VkdGtTNG1WamYwTnkwVTl3X0VEUWtXZWlkMTk1aWFHU0ItNmhsNk1ZM0gwcGVhdTE0OFFn?oc=5",
       "publishedAt": "2026-10-17T19:00:00+08:00"
-    },
-    {
-      "title": "Slovakia, Hungary won't join 70 billion euro EU package sought by Ukraine, Fico says",
-      "source": "The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjIyXzN2TnZSTFNTQlB5b1ROSXpQLUl5U3d0cEJ3SHptNGdScmNvM3VxZFRIQmxsZTdkcENNQXMzaTlqT3BMZndJVlo3bmxXYS16WkVqcUVTalU2NGQzdHp4dlJKbERZVE02MmRfS2JreGF0NGpoSUVORDhOb1R1cHB1X3ZDaXRITWJ0MlBoUnMtd3Y2b1B5c05CYUhXbTZCV1BfMmlmekp6Y1Z2OXg4?oc=5",
-      "publishedAt": "2026-10-17T16:47:23+08:00"
-    },
-    {
-      "title": "Slovakia and Hungary refuse to fund possible EU loan for Ukraine in 2027",
-      "source": "RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRGZRSU5lTjlCd1d1Y05zd1owQ3BOYXNQZzVwb3lVbXZlN1JaXzFvY2Y5enFydFlHZTBKbUJlS2NreE9feldhaTFzNzJwUnZRei1ieWhnaDQwZlBOSThrSm5GQ1FkWGZXY2hKM2FLVk9uaV9wbWNHQjNZNFo5Q0swcS1mRVVJQy16Sk04eW81a1JKbTFKVlVR?oc=5",
-      "publishedAt": "2026-10-17T16:21:20+08:00"
     }
   ]
 }

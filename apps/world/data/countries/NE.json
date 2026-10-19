@@ -1,7 +1,7 @@
 {
   "iso2": "NE",
   "name": "Niger",
-  "updatedAt": "2026-10-19T11:05:35+08:00",
+  "updatedAt": "2026-10-19T17:10:52+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Niger: Fuel shortage hits Niamey, exports banned",
+      "source": "Bénin Web TV",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9oTzRULTRxbG9mNVFzMVFpN0gzUHFISE10cUhWaFJ1Ul9uMk5PM1kya2lPQkMxNmNaOUMxUW5OdkRKQk9GQ3l1ZXZKNGNVaHB3a1I2c21oV1ZEV05rTDJmQ0lpTE5rOERadVd1QlJ1YlFLRDRIUHNoc0syT00?oc=5",
+      "publishedAt": "2026-10-19T15:38:56+08:00"
+    },
+    {
+      "title": "Niger: Fuel shortages leave drivers stranded in Niamey",
+      "source": "Africanews",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaDlSRWZYaGllSy16NVlhb1VRcVpaWm5EMXYxaUJCdjdXa0dKc0JQS0tQV0YxenZfQk1SdHMydjJnRUJrM1p4Ykx0a21rWGtUS1pFZl90MjZOMVJiRmJHOThTRW1XNW1DMF9WZWZrSFUxSW9hS3cwMDBsdGxYb2w2ZzZjRVRPU2Y1dlVZR08xMnEtZHkxcVRv0gGcAUFVX3lxTFBNempQdmRtQWxTWVRibjgwWlVFdzg4REV3eWloenVzOTJXNEZMTkJyZ2h2Wi1MR3hCd0xmbUNyVUVKaVltcEVaQzc5M3ROUUdtLUNFbVFnUkEtQUV3Xzl0VkNDZjhJUG1iMzBaWUJRMDJDTDdRdWV6MjBhWDdUMmo5R0h5YXphWXdjQkM0N25lN2RtRTl4M2VfRFA3cg?oc=5",
+      "publishedAt": "2026-10-19T12:57:11+08:00"
+    },
+    {
       "title": "Niger: Niamey accuses Paris of ingratitude after the expulsion of a paraplegic officer",
       "source": "Bénin Web TV",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVctOFdkWllGb0NkUjRWWXlMd2dBUUFHY2haV2YzQng2aE5BVkxFdHQ3NXV2bFJfTDNGRVpQenBsRDdvSzU0OXVyZmlNYllKZUhGMENScHFFcVZMY3JJM1diUnhJdkZOV0tNUzV6MHIzOG5UMzRrZFJwWldHQ1dnTVVkVVYyNktyU3RqdngzUXc1N2NQTVVIejlzamVYNUhTYThWVnpiU1hGdDJ1WHBQUg?oc=5",
@@ -48,15 +60,9 @@
       "publishedAt": "2026-10-09T22:05:04+08:00"
     },
     {
-      "title": "Niger: 166 billion FCFA for a third drinking water plant in Niamey",
-      "source": "Bénin Web TV",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaDlZbTdUQnlTQkl2Y0lKTGlMdUdMNHVuT2s1WWQ1SjNnckRDM2hQaTN5TGdXcTJ1M1FUc1VyRm0zZlNlb3NZTjRmT051M2V5R3c4dmVhR2VVOFdPSmR0RGdTX05iTHFjdThtSGJrSEw4amtDcW9UUXk2bnV4ckxQUndGcUliTHVPMTZfRF9VSXdDeWFPVkE?oc=5",
-      "publishedAt": "2026-10-07T15:00:00+08:00"
-    },
-    {
       "title": "Algeria sent fighter jets to Niger to thwart ‘coup attempt’, president says",
       "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTi1idkVjT1ZpcHhxbEZaYVUxR1FYNThkY2owS2ZzcG5tTG4zNDN5Mmd3YjJiOS1TcEw4WUF4YnRGYkRCS3piUVVpalNVWW5BdFRsLVVLQ1RZTHNLSC1LemRteGdFbnhQb1hyOVlnWkh0RDROQWV5bFJoYmltZGUwOS1MNWZWLU0wcGVzdEIyMkRHQjVBbVBoUzVwQ3ZTTkp0Wko0dzdxcnhYV0ZCcVNhRHo2MA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTi1idkVjT1ZpcHhxbEZaYVUxR1FYNThkY2owS2ZzcG5tTG4zNDN5Mmd3YjJiOS1TcEw4WUF4YnRGYkRCS3piUVVpalNVWW5BdFRsLVVLQ1RZTHNLSC1LemRteGdFbnhQb1hyOVlnWkh0RDROQWV5bFJoYmltZGUwOS1MNWZWLU0wcGVzdEIyMkRHQjVBbVBoUzVwQ3ZTTkp0Wko0dzdxcnhYV0ZCcVNhRHo2MNIBuAFBVV95cUxQTTJkY1RWblFfenhoRUZVU2c2OFRIdzNVdkhiY01ySGd3VjFVQjhHMXpNSFRjdTJvQTI1VXU1eGJERmJNT1RSVmF4WWRGVHZGdmtaM0pjR3VUSGR0TDUyLTBQWldaWDhoRHp1WVdHSG1YSjlqcmtnMnR2RnRxRURKMGVRSDYtM1JkMUJ4NmdCOTh2QjZtOG1RTkRJYWZGT3ljc2tUVE40aWZTWWg3OTMzNHlNTEZpS2Ut?oc=5",
       "publishedAt": "2026-10-03T15:00:00+08:00"
     },
     {

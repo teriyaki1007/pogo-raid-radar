@@ -1,7 +1,7 @@
 {
   "iso2": "VA",
   "name": "Vatican City",
-  "updatedAt": "2026-10-19T11:05:35+08:00",
+  "updatedAt": "2026-10-19T17:10:52+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,6 +26,30 @@
   ],
   "headlines": [
     {
+      "title": "Vatican upholds excommunication of US deacon who resigned after son was molested by priest",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM21MZFVicDloaDFpM3ZzTkZiUkdwWThUb3Y3RzV1Z3ZWQTdnMW5DZ1phMkFmNS1aQjR4MzRmQnpSM1NmNnhiYnJ4NWxhOEg0Mm16WEUwWUlFYkpHVTV0SHpxdjYtNlNDQXJCNHhoRThBeEIyTG9NY1o3UXZ1dklYR0Y3OS1sdGdFSjBibFltbjRaai1KSTZEaTEwNUE?oc=5",
+      "publishedAt": "2026-10-19T17:01:00+08:00"
+    },
+    {
+      "title": "Pope greeted by crowds in first major appearance since lung cancer surgery",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYVJPdDVfMm5ZV2FhWHI3MmxJUzNaejZja25tbXVjYmNRanNUVVJLemFmc1VEeVU0WU9rTUZuREhtd2J2UHZDZk5HVkJaYklNaC1kanBnemRuRFdjN1I4M3Z4VDNNVUdPU0k0WmJuTkJOeVBaNnFQVzFpemw4V1BPc0ZnRjMzSE5zSU5QUDdjeGlVZ1pfWkZqcUEyZ3d2dkNhSDBmdTZEOWZHVFZKOHk0WS1NcktCM3fSAbwBQVVfeXFMUFJUc1pRbVlNODgyRUN0cEZhOFZhV0pBTHcwWlUxMmMxSXZMaEMzTXVIQkh1eVZWaENBSGZlX0lyNkxWakhCbXJTeUQzOHZoejhiMXl4Y093NlFBYkpjcmJsdnlXS25FNVJPYVRWTEFyWFNfRllaa29xMW1MRGtQTEVPVDQ2R3JaNVdsS2NBU0ZmSE5CbWVUOVhsNV9hVHkyVVRJelI1emd3eS1leTRrU1VfTkhUWUdQNWhfbUo?oc=5",
+      "publishedAt": "2026-10-19T12:53:44+08:00"
+    },
+    {
+      "title": "Crowds welcome Pope Leo XIV back to Vatican after his surgery",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZW9Jam5yTVdaUXN0UkppdGc2OHpWek9OUEZoUXpLU1Rhamd4bHpHM0laOGxJbEZqejhhMk1JbC1idl8xOVdWeVVSZW40VXVpUVdwZVk3QXkyZkFLWUpQQUc2eGJ1U25ES1UzMVBwT1BDQ0R5WHhjNDVDZ2NHcUhqSWQzOTRSMkR6UTBRSGNfSFNsME5JNjFRN2hXazVXaDl0emgwV20ySUs?oc=5",
+      "publishedAt": "2026-10-19T12:15:00+08:00"
+    },
+    {
+      "title": "Catholics in Africa outnumber those in Europe, Vatican says",
+      "source": "Sight Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX24teFEzc2NXRWRsUkl1cGJiOVJVLXJoMS00M2FwUUxrVHRYQW95WHhSSUs5Uy1sX0pSX3I0T0IxVjFyZTFaaUZwekM3VWxWNmRiOGRiWlBScHRYRDJFX3NXN3p4Zmc0ZWwyVlBwMXhkSFFUX1hpeGZaVWhMN0tjUUFhUUFJOW94ZEEtcE5fZ3l3NjcxVFhKTg?oc=5",
+      "publishedAt": "2026-10-19T12:01:37+08:00"
+    },
+    {
       "title": "Vatican Pope",
       "source": "TelegraphHerald.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQS1p2N0xYNTRIMndPSXZMRFJfQVRXRjhVeDBLMUY5WE5tQkRDZnQ5RTREb3FTWnBETW9FU3VQRVlfMzdab2ZtUXdyQWQxSm1MQlp5UjI4cjg3UHpUR2FKVU81RjgzMFlfVTB0NVJHcHV3cWtIeWt1bDJTcTREeFNjdjRMb2ZTN2lDa3RqZmN2OUZuYldBcHFzXw?oc=5",
@@ -44,34 +68,10 @@
       "publishedAt": "2026-10-19T07:13:09+08:00"
     },
     {
-      "title": "An American pope brings American-style governance to the Vatican, even in a health crisis",
-      "source": "Chronicle-Tribune",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQdmhmOHRhRkFhWXV1Rzh5dDNRUVVXM2dTaDkwNzVuaWZhOXYtSE5TMlpCTDNENEFiS3BZLTQ0RU9YWXpjTGljUDZZVC1wemw3cFpueERzTFlxMHN2eXAyUHFObkxpZVZGMXI2dks4cTdGbGp5dnlWYWpGdXk2NHZLajdMU3cyRU54V0pvTFpraDFhQ0NZVkRBSjMtUUZqZGIxMDZ0NVBDVVlWMjQ1ckUtazJGaU1yVS1RSW9kWXgyRk1QeXJTenV4OFVwWmNpaWNHcEpNMWp6QXdjMHFfYzdUd3UyRW16b1Bycmd5NlVfblJIMlVnUzI3bWZfX0pxMWpQa1E4dmw4S1ZZLWI3MEhF?oc=5",
-      "publishedAt": "2026-10-19T07:09:16+08:00"
-    },
-    {
-      "title": "Pope Leo returns to Vatican window for Angelus saying prayers sustained him after cancer surgery",
-      "source": "The Catholic Weekly",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KWGhkcmR0UzZPVEl1VHctVFZwVUR0WXR4TmpUSU5xUHRSdXN6bVV3TUJZdnRfNUpFQ2k1aUUya041TVZhc28wQXg0NVdENVpQTi1QOHkwUnFqclY0RjFCMU1oenRlRkp2b1dLYU1fY1lPZw?oc=5",
-      "publishedAt": "2026-10-19T07:01:10+08:00"
-    },
-    {
       "title": "Pope Leo XIV returns to Vatican after lung cancer surgery",
       "source": "cbs19.tv",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM1c4aTlrRVZLSmdSVG82cWhZb1I4eXU2WWh2Wm9HVmhaX3FJaEh3dGRBLXlXRjh6X01DbGhZMDFrUWl0eUZoLVQ3UUpxTGJGaDhjNk5iU3BvQWxiQnZ5Ym01VEVpRlhDRnlKbXFURnhVQjJhVGtIVW9PVkFkR0Y5WjNMU1BObUpzbkFhSDVVd1k5RlZ6ZEx5WXBzRVVGZVFKaVlFZURmUXp4THRXcmNhTUpScnJvY2hXUktZN3JtMXBUTFAyTUMydURIWWtxMXZwT2c?oc=5",
       "publishedAt": "2026-10-19T06:05:00+08:00"
-    },
-    {
-      "title": "Pope Leo: 'May families actively participate in life of the Church'",
-      "source": "Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUWx1WHFWY0p0Z1ZkMTJvRmVYVW9xTndjWU5vNUxOdDZYTm1rYnZRX0c1VkJpZkNKSjh6bEdyS1ZJZDREU20tM0diZ0hEeFdiTzY5ZU9HYS1ndVZIRDJ3SXZBMXVUcUF3YkVMS3VUbXY4Wi1pLWFRZENON1ZEQXp0T1hDZUpwNjBjMi1BY2xJQmZmTV9MT0s1amtfbG9Lby1pVjAzOGFIOA?oc=5",
-      "publishedAt": "2026-10-19T05:16:19+08:00"
-    },
-    {
-      "title": "Pope Leo greets crowds at Vatican in first event since cancer surgery",
-      "source": "Premier Christian News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUjl6Yl9mck54M1NZeG1aMkhJcGE5WEk0RVVmWXZUdFVmcFFMeUEwOXhIRUxtbDh3VTZucEk3ekZneFdVOGdxWUZTb0x2WWVhT2t3d0U4Zk9Bd3psR0xLR0NGVFl5RTA2MDJCSm95bFltRldsTFZVekNCbGpEek1Ram9kNkJ4ejNzNUQxYW9IMXFrbmRpZXo4YVNybExIMVVabDhXUThJTU9PcV9oc2M3c0ctU19DUQ?oc=5",
-      "publishedAt": "2026-10-19T04:22:00+08:00"
     }
   ]
 }
