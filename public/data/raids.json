@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-10-20",
-    "asOfLabel": "20 Oct 2026 ~10:35 PM HKT",
+    "asOf": "2026-10-21",
+    "asOfLabel": "21 Oct 2026 ~6:30 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "ENDED Tue 20 Oct 10:00 PM local: Dialga 5★ + Mega Dragonite + Dialga-window 1★/3★ (Galarian Slowpoke, Hisuian Voltorb, Nincada, Beldum / Hisuian Arcanine, Snorlax, Kleavor). Overnight gap now — Current tab has no 1★/3★/5★/Mega until Wed 21 Oct 6:00 AM. Then: Palkia 5★ + Mega Charizard X & Y through Tue 27 Oct 10:00 PM (Palkia Raid Hour Wed 21 Oct 6–7 PM). Shadow Landorus (Incarnate) + Shadow 1★/3★ continue through 3 Nov. LIVE through Sat 24 Oct 11:59 PM: Minior Showers: Orionids (Green Core Minior; boosted 5–9 PM + 1,000 Stardust/catch — not a raid/egg change). Then Giratina (Origin) + Mega Sableye (28 Oct; Mega Sableye through 8 Nov). Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I Tue 27 Oct.",
-      "endsAtLabel": "Gap → Wed 21 Oct 6:00 AM · Palkia / Mega Charizard X+Y → Tue 27 Oct 10:00 PM · Orionids Minior → Sat 24 Oct 11:59 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Chandelure SMRD Sat 31 Oct 2–5 PM"
+      "text": "LIVE from Wed 21 Oct 6:00 AM local: Palkia 5★ + Mega Charizard X & Y through Tue 27 Oct 10:00 PM (Palkia Raid Hour TODAY Wed 21 Oct 6–7 PM). Standard 1★/3★ for this window not yet posted on Leek Duck / ScrapedDuck (still showing ended Dialga-window list) — check in-game until sources refresh; do not assume Dialga-window 1★/3★ continued. Shadow Landorus (Incarnate) + Shadow 1★/3★ continue through 3 Nov. LIVE through Sat 24 Oct 11:59 PM: Minior Showers: Orionids (Green Core Minior; boosted 5–9 PM). Then Giratina (Origin) + Mega Sableye from 28 Oct (Mega Sableye through 8 Nov). Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I Tue 27 Oct.",
+      "endsAtLabel": "Palkia / Mega Charizard X+Y → Tue 27 Oct 10:00 PM · Raid Hour today 6–7 PM · Orionids Minior → Sat 24 Oct 11:59 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Chandelure SMRD Sat 31 Oct 2–5 PM"
     },
     "legend": {
       "standard": {
@@ -595,7 +595,7 @@
       "catchForm": null,
       "tier": "5",
       "tierLabel": "5★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "window": "Wed 21 Oct 6:00 AM – Tue 27 Oct 10:00 PM local",
@@ -615,7 +615,7 @@
         "pokeapiId": 484,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
       },
-      "notes": "Starts Wed 21 Oct 6:00 AM local (replaces Dialga). Standard Forme (Leek Duck). Raid Hour Wed 21 Oct 6–7 PM local. Shiny available. Catch CP 2190–2280 (2737–2850 Rain/Windy).",
+      "notes": "LIVE from Wed 21 Oct 6:00 AM local through Tue 27 Oct 10:00 PM (replaces Dialga). Standard Forme (Leek Duck). Raid Hour TODAY Wed 21 Oct 6–7 PM local. Shiny available. Catch CP 2190–2280 (2737–2850 Rain/Windy). Weak only to Dragon & Fairy.",
       "types": [
         "Water",
         "Dragon"
@@ -630,24 +630,24 @@
           "moves": "Dragon Tail / Breaking Swipe"
         },
         {
-          "name": "Eternatus",
-          "moves": "Dragon Tail / Dynamax Cannon"
+          "name": "Shadow Dragonite",
+          "moves": "Dragon Tail / Outrage"
         },
         {
-          "name": "Mega Dragonite",
+          "name": "Shadow Salamence",
           "moves": "Dragon Tail / Outrage"
         },
         {
           "name": "Mega Garchomp",
-          "moves": "Dragon Tail / Breaking Swipe"
-        },
-        {
-          "name": "Mega Salamence",
-          "moves": "Dragon Tail / Draco Meteor"
+          "moves": "Dragon Tail / Outrage"
         },
         {
           "name": "Mega Gardevoir",
           "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Zacian (Hero)",
+          "moves": "Snarl / Play Rough"
         }
       ],
       "countersSource": "GO Hub"
@@ -660,7 +660,7 @@
       "catchForm": "Charizard",
       "tier": "mega",
       "tierLabel": "Mega",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": true,
       "window": "Wed 21 Oct 6:00 AM – Tue 27 Oct 10:00 PM local",
@@ -680,7 +680,7 @@
         "pokeapiId": 6,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
       },
-      "notes": "Starts Wed 21 Oct 6:00 AM local with Mega Charizard Y (replaces Mega Dragonite). Catch form: Charizard (Fire/Flying, not Mega). Boss is Fire/Dragon. Shiny Charizard available (Leek Duck).",
+      "notes": "LIVE from Wed 21 Oct 6:00 AM local with Mega Charizard Y through Tue 27 Oct 10:00 PM (replaces Mega Dragonite). Catch form: Charizard (Fire/Flying, not Mega). Boss is Fire/Dragon. Shiny Charizard available (Leek Duck).",
       "types": [
         "Fire",
         "Dragon"
@@ -692,31 +692,31 @@
       ],
       "counters": [
         {
+          "name": "Eternatus",
+          "moves": "Dragon Tail / Dynamax Cannon"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
+          "name": "Mega Dragonite",
+          "moves": "Dragon Tail / Outrage"
+        },
+        {
+          "name": "Mega Garchomp",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
           "name": "Primal Groudon",
           "moves": "Mud Shot / Precipice Blades"
         },
         {
-          "name": "Mega Rayquaza",
-          "moves": "Dragon Tail / Dragon Ascent"
-        },
-        {
           "name": "Shadow Rhyperior",
           "moves": "Smack Down / Rock Wrecker"
-        },
-        {
-          "name": "Shadow Garchomp",
-          "moves": "Mud Shot / Earth Power"
-        },
-        {
-          "name": "Rampardos",
-          "moves": "Smack Down / Rock Slide"
-        },
-        {
-          "name": "Shadow Groudon",
-          "moves": "Mud Shot / Precipice Blades"
         }
       ],
-      "countersSource": "type"
+      "countersSource": "GO Hub"
     },
     {
       "id": "mega-charizard-y-oct21",
@@ -726,7 +726,7 @@
       "catchForm": "Charizard",
       "tier": "mega",
       "tierLabel": "Mega",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": true,
       "window": "Wed 21 Oct 6:00 AM – Tue 27 Oct 10:00 PM local",
@@ -746,28 +746,32 @@
         "pokeapiId": 6,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
       },
-      "notes": "Starts Wed 21 Oct 6:00 AM local with Mega Charizard X. Catch form: Charizard (not Mega). Rock is double super-effective (×2.56). Shiny Charizard available (Leek Duck).",
+      "notes": "LIVE from Wed 21 Oct 6:00 AM local with Mega Charizard X through Tue 27 Oct 10:00 PM. Catch form: Charizard (not Mega). Rock is double super-effective (×2.56). Shiny Charizard available (Leek Duck).",
       "types": [
         "Fire",
         "Flying"
       ],
       "weakTo": [
-        "Rock",
+        "Rock 2×",
         "Water",
         "Electric"
       ],
       "counters": [
         {
-          "name": "Shadow Rhyperior",
-          "moves": "Smack Down / Rock Wrecker"
-        },
-        {
           "name": "Mega Diancie",
           "moves": "Rock Throw / Rock Slide"
         },
         {
-          "name": "Rampardos",
+          "name": "Shadow Rhyperior",
+          "moves": "Smack Down / Rock Wrecker"
+        },
+        {
+          "name": "Shadow Rampardos",
           "moves": "Smack Down / Rock Slide"
+        },
+        {
+          "name": "Shadow Tyrantrum",
+          "moves": "Rock Throw / Meteor Beam"
         },
         {
           "name": "Mega Tyranitar",
@@ -776,13 +780,9 @@
         {
           "name": "Primal Kyogre",
           "moves": "Waterfall / Origin Pulse"
-        },
-        {
-          "name": "Zekrom",
-          "moves": "Charge Beam / Fusion Bolt"
         }
       ],
-      "countersSource": "type"
+      "countersSource": "GO Hub"
     },
     {
       "id": "giratina-origin-oct28",
@@ -1269,7 +1269,7 @@
       "id": "dialga-dragonite-oct14",
       "when": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local (ended)",
       "title": "Dialga 5★ + Mega Dragonite (ended)",
-      "impact": "Ended Tue 20 Oct 10:00 PM local (incl. Dialga-window 1★/3★). Overnight gap until Wed 21 Oct 6:00 AM — then Palkia + Mega Charizard X & Y.",
+      "impact": "Ended Tue 20 Oct 10:00 PM local (incl. Dialga-window 1★/3★). Replaced by Palkia + Mega Charizard X & Y from Wed 21 Oct 6:00 AM.",
       "urgent": false
     },
     {
@@ -1309,17 +1309,17 @@
     },
     {
       "id": "palkia-charizard-oct21",
-      "when": "Wed 21 Oct 6:00 AM – Tue 27 Oct 10:00 PM local (upcoming — starts tomorrow 6:00 AM)",
-      "title": "Palkia 5★ + Mega Charizard X & Y (upcoming — tomorrow)",
-      "impact": "Starts Wed 21 Oct 6:00 AM local after overnight gap (Leek Duck; shiny Palkia and Charizard available). Palkia Water/Dragon — weak to Dragon, Fairy. Mega Charizard X Fire/Dragon; Mega Charizard Y Fire/Flying (Rock ×2.56). Palkia Raid Hour Wed 21 Oct 6–7 PM. Next 1★/3★ pool not posted yet on Leek Duck.",
+      "when": "Wed 21 Oct 6:00 AM – Tue 27 Oct 10:00 PM local (LIVE)",
+      "title": "Palkia 5★ + Mega Charizard X & Y (LIVE)",
+      "impact": "LIVE from Wed 21 Oct 6:00 AM local (Leek Duck; shiny Palkia and Charizard available). Standard 1★/3★ not yet listed for this window on Leek Duck/ScrapedDuck — check in-game. Palkia Raid Hour tonight 6–7 PM.",
       "urgent": true
     },
     {
       "id": "raid-hour-palkia",
-      "when": "Wed 21 Oct 6:00–7:00 PM local (upcoming)",
-      "title": "Raid Hour: Palkia (upcoming)",
-      "impact": "More 5★ raids for one hour.",
-      "urgent": false
+      "when": "Wed 21 Oct 6:00–7:00 PM local (TODAY)",
+      "title": "Raid Hour: Palkia (TODAY)",
+      "impact": "More 5★ raids for one hour — tonight.",
+      "urgent": true
     },
     {
       "id": "spotlight-morelull",
