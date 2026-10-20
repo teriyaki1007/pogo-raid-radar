@@ -1,7 +1,7 @@
 {
   "iso2": "TL",
   "name": "Timor-Leste",
-  "updatedAt": "2026-10-20T17:03:42+08:00",
+  "updatedAt": "2026-10-20T23:03:40+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -29,6 +29,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Sunda Energy Gets 12-Month Extension for Timor-Leste TL-SO-19-16 PSC - News and Statistics",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWHZyRTktMTNCVm01ZDFyVTlvWlU1c1Q3UDVLX3BDUUw4M19LYjdUVGx2cGpBOWVkUnJ0WWhpeDB3U3ZDMDhrWVJqODREMGhGbXR5SDB1aWVVcVVTUmRvYXBqck1vLTlldEpTc2ZIOFZ0TWJNSEEwYmE0aDFaWUJRODVGaWgxUFJ6NlRrRzFCaDRBdnI4QlhOd2J3?oc=5",
+      "publishedAt": "2026-10-20T20:41:16+08:00"
+    },
+    {
+      "title": "Indonesia, Timor-Leste sign landmark treaty to boost economic integration",
+      "source": "Indonesia Business Post",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmgycFhnWmZpZWp3MHpsc1RBa09iRjJoVndhNk1lR3pFX1NpWHJmRXo4ZU1hbjVRalJ6ZXJPLUZrd014VHdZMzBuTktTVUZRQTNvMUIxNXBFTGM4NUF1V3EwaFVZWXNjQXBLcjlBbjRmUFZsQkVVWVJsMWlQclVEU3Q1SzF2Y2tNS3h2MEQ2NXl6N0wxeEVUTlFLNlVwT0VOTFZxbmwwY2h4M2llZmk3TUtsSVZzNWhY?oc=5",
+      "publishedAt": "2026-10-20T18:23:33+08:00"
+    },
     {
       "title": "Timor-Leste and Vietnam step up business and investment links",
       "source": "VOV.VN",
@@ -60,22 +72,10 @@
       "publishedAt": "2026-10-20T00:09:18+08:00"
     },
     {
-      "title": "Sunda Energy Secures 12-Month Extension to Chuditch Gas Production Sharing Contract in Timor-Leste",
-      "source": "Yahoo Finance UK",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOHJYb29UUGdCVTdNNGtUZTE3NXBoMHlEemVQSGx1cjQ5c2pjSkdXTGFBQXVaYktfRTV4THNiME5vNGF4NGJtdlpSUmpPR2lSMXRvT2ZmUENYY2tYVWRKeVhLRF9yam5ZNWlOVmxiQ0E5N3ZqTmgyX05RRmJnVTVXVVVjU2g?oc=5",
-      "publishedAt": "2026-10-19T15:02:55+08:00"
-    },
-    {
-      "title": "Sunda Energy receives 12-month extension for Timor-Leste PSC By Investing.com",
-      "source": "Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUnJwUEE0SHVEcWJmN0p1MENEcEJvYXp4YmQ2bTFDRkRLbElTU3hUWjAySnI3STd3UUxQS3gyOEMzWVhIYVBGNEpoN0tCNzI5enNJc0gySUdkejBLUGN5MFFjMmZTOXZhYjRFeEpISXk4eWFJeDJpbkJSSlRCVHVVazV5cGZ4Rk05YllRSV8zQlVtUTdkM21TSm9kV1VGcFhYb1JjSWRGMnV6cDFJcExpWDVkcXkxYXBiUW1V?oc=5",
-      "publishedAt": "2026-10-19T15:00:00+08:00"
-    },
-    {
-      "title": "Timor-Leste Sets Out to Strengthen the Foundations of Its Public Health System",
-      "source": "World Health Organization (WHO)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbmpaMWktMXlmZHBYTHZGNUhERVFvM3RCNkY5aU9PZEl3TGl2UVMwR2FleUoweGJMYU1hUlluV3RYc2loby16RGhqanpPay1QZmlheUx2aDJnNHBLQldWNzQxWk9URXZmLVdKTjdWcXo3dEg0N2tZcmEyTlc0RFh0LW1UVW5EMFAwcGhtUm03UGw1VHY0cTRfbXdkNlpZMl9lNXV6VnZ2OEdLUmREcTEtMHNJTmxRYjFiRE1wd210aTg5NHVLWDYyenJybEs?oc=5",
-      "publishedAt": "2026-10-19T12:44:12+08:00"
+      "title": "Sunda Energy receives 12-month extension for Timor-Leste PSC",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV21iWnNSOU5fTVdwSHA0RXZ0RV9rcXZHRjlFUDdoU2ZFMkhqekIybmFncmNlQmtndFd5WGkxVXJULUxvdlBiS2ljMjJ6YnktVEdrM2FzR05fNjFmUkRJb2hvNWZTMnZxS0hNRV9CYW0zSUVVaW9NYnM1WVhUWVR4MW1OZW9BdDcyTm1XWDZLdnJaWnJpckFoSWltZm1aRV80ZmRhQzFlZDQ2bHpTRlAyREpCUHNHUQ?oc=5",
+      "publishedAt": "2026-10-19T15:22:47+08:00"
     }
   ]
 }

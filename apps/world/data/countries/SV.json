@@ -1,7 +1,7 @@
 {
   "iso2": "SV",
   "name": "El Salvador",
-  "updatedAt": "2026-10-20T17:03:42+08:00",
+  "updatedAt": "2026-10-20T23:03:40+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,14 +30,38 @@
   ],
   "headlines": [
     {
-      "title": "El Salvador deploys SITA border tech",
+      "title": "Five Salvadoran Soldiers Missing in Haiti After Ambush",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2c0Uk1WaGQtMlNSQU5BRWpJZlk3aGtWQTRSTW5jZU5kQUNhNlRaVVBsbjA5OFExRkppb21VVE0zUEdtd1FtZ2l2eXp4clNxUTFDV0xYM05hVHVRM0VqQXdodjJnZU9uQThRR0cwemlPNUpkXzBHS1ZwWmZBWGsyRFZTVDVaa01ySGQxVWdGbk9uZw?oc=5",
+      "publishedAt": "2026-10-20T22:49:00+08:00"
+    },
+    {
+      "title": "Guatemala sends additional troops to Haiti after four Salvadoran soldiers go missing",
+      "source": "Caribbean National Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRGliOE9Ba3dyRW0wc3Jnc3hlNG9ZdF9IZm9HTnRKU0Zyc1cwbE9jOUE5SXFyN3lHdXBldE5YLVhtaHhPdHFHWkJtc2xPeTZMN2lYYXh5bUg2eVRxR1BGdnBHZ0RQQ2VTOTFnT3BXVnpSRkM4aUJNcGhsS2VET29BSUw5NjhJY3JwRFpSU1BJcXktRkFqZnVNbVN2NE9CVVdMaWN0N1BjaUJEYkhzZUFDWHp0QkJCOUN3LXZYbGJLci1KWi1KeEJNM0hB?oc=5",
+      "publishedAt": "2026-10-20T22:28:05+08:00"
+    },
+    {
+      "title": "El Salvador to process traveler data prior to arrival by flight or cruise, first in Central America",
+      "source": "WebWire",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtMGkxcDdnQU0xdE95X0hUQ21EeGpXbHZlV3FfS0RDMmVjaVlrYkk3dEhNQXdDbGtlenpabWtIQXN5SXp4YlprbVRGbjFjTWxZV1lTZFlRZXo5S0FtOEhSTA?oc=5",
+      "publishedAt": "2026-10-20T21:47:08+08:00"
+    },
+    {
+      "title": "PROJECT WATCH: Asia Brewery inaugurates new Cobra bottling line in El Salvador City",
+      "source": "PROGRESS WATCH: Metro Cagayan de Oro and Northern Mindanao -",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRGNISmtsUE1mTk9rcjB0a01rOXRwTEdFWXlYWjBnSEE5U3VRMExxYVc4Yk4xNzdmY05mQmhoUWdnWDE5YlM1N0NzLTBNX0JzSFU3V1FBS0JLTC1ramJNakJ6dTNzTTl2X3c0ek1yT2hrOUpVbUFKcl9LR2Y3YnNoUGF5U1FCV3lkWWZmSTlCbTZmb0FVLWFMeVZyREo4MnpmaW1ESW5XUWNkRzB5ZzdSSzg2VHBMZjJtemc?oc=5",
+      "publishedAt": "2026-10-20T17:07:44+08:00"
+    },
+    {
+      "title": "El Salvador deploys SITA border data gateway",
       "source": "Seatrade Cruise News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZG5nMm5BdVdPMTJRc1VnWnRkeklpbEFGbng4TjcyZjZzbk5DbFdfWXBKZzBpblBFRFBjZnF0OFgzcV91TndvX3ZlREdMVWpRVk9Hal9DZHdWWElicTZyWmcyNno2U3V1YU12a1h6eHRRc0oyaUlOc2VPQ0hfT1dlNE9Lb0ZzM3NudzZMMzg1WU0yZS1mS3BJQTBscw?oc=5",
       "publishedAt": "2026-10-20T16:54:39+08:00"
     },
     {
       "title": "PROJECT WATCH: 5,000-capacity Divine Mercy Convention Center rising in El Salvador City",
-      "source": "metrocdodev.com",
+      "source": "PROGRESS WATCH: Metro Cagayan de Oro and Northern Mindanao -",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSDNQY0tSZ2NRd0JwVzd6MzRUU1htLWR4NUM0SlZ4MjFSQktvd2N5TkdLWVUzRWtYODdKNFNFLU8xQUxBdDBvTUQ2Q0J4cVppWFRlZnlZMDNvMkpqUXdUMUxpemFoTWFnWXpEWUM0UUxIcHVKYzdXdU1feUl5OHJSRFRMZXFBN05LdVlZTkJ5WEtBU2lWcW1rMU1Mb2E4TmE5ajBpb1pJa3hBZXVPeGR4X3hyUHZSWXdIRmQtN2Zn?oc=5",
       "publishedAt": "2026-10-20T16:33:21+08:00"
     },
@@ -52,30 +76,6 @@
       "source": "Pluang",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNkdkNEJmakxzQ0VVUnNtdWJwNjdEQmV1U1NxTFNqWFcyZGM4bXkwOE1UUUYyRVJqWVZsTlRWbWJyT0dTLTZFQ05jVW1NelpwZWRmSzJjS3g1d2FidDFzcVQzdVZUWWlzYzFBdjNGc3NIZ2tWc3czVXFsNDZaOXltbDhDU2NGUDdKdmhYWWZBZw?oc=5",
       "publishedAt": "2026-10-20T07:25:45+08:00"
-    },
-    {
-      "title": "4 soldiers from El Salvador missing in Haiti after attack by gangs",
-      "source": "CBC",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUmtoeEJJampXWGNMNjlTcUx3WjFKLTNOX2dVQV9ZcUF4QWMzVDVnV3J3R1BDb2tFMHQ5SjRXa3hZWnBCcnczN0V6dzBHUzRqaEd1UzBvT3dCOHlUMmotT2NfYU1XRThpV2FHYkVYQ0ZGZnduaklNeV9LeWxWOV9HcmxKUQ?oc=5",
-      "publishedAt": "2026-10-20T04:12:38+08:00"
-    },
-    {
-      "title": "Four Salvadoran air force members missing after gang ambush in Haiti",
-      "source": "Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT3JreU5sUWFVY3RSZ3FJWktudVFTRnhtVVVRYnZuZVlVMmtrQ2NFOTRMSHNtdjJ2VlFIZXNYUnVHUnJOOWp1Q0xnTkU2QnNIbTBlU2dNcXRPbGpFQlNkdFVFNmlUa24taDNIRzQ2UHR1OWM2b1lEVkJyZXNsVW5Sc1VycGpBSkVlTVJFZ3NLMVplakpIVU1LN2NaYURrOEI2VHZVZWRtT0pVdmM?oc=5",
-      "publishedAt": "2026-10-20T03:22:56+08:00"
-    },
-    {
-      "title": "From National Palace Speakers To Lake Ilopango Bull Riding: Why Bitcoiners Are Booking El Salvador This Month",
-      "source": "Bitcoin Magazine",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbDRUODFJcHppRWQ5Vl9tUmNRWGlTeUV2VnJKLWJVX1FGalF4RW11akV2VnJSLWoxZnEzRVRGajNsMkJ6Qzc4UmlkMTNYYTBObjl2OHQ2aWxzazFfc0R4SmYxZmRuRjItYVlmQTdyb2xoNFlSSXEyaGVkQ29ZQUNWcktSMVdsU2xMSTY0S2FHenpjUFdMOWgyYlpwbU1hVTdDTW4tdU9Wd0g3Y2VKeTFMNzBvRGV3SDVDUXhIQ1Bubw?oc=5",
-      "publishedAt": "2026-10-20T00:17:22+08:00"
-    },
-    {
-      "title": "Man Twice Illegally Deported To El Salvador Declines to Return",
-      "source": "Bloomberg Law News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQTZWVVNqeTlWNTRBRkl3eEFJMFlZaXBudzhNT1BzZ01MS1I3RDNmaHo3dkV5TklfWDQ4aWpGeWN1bWlpSk5MNEJ4UDVGbzdRcHV2LVZjUTN6QjAteG96WFhZNkpvRERITFJ5YWpka0VOdTlXNm9uTDlqWXR0aVFRdW9BV3pIMDk4STF3VHQ3OE9UZGFlN0FlTXQ0dFhJcmJU?oc=5",
-      "publishedAt": "2026-10-19T23:54:00+08:00"
     }
   ]
 }

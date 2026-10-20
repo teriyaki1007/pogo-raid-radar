@@ -1,7 +1,7 @@
 {
   "iso2": "RE",
   "name": "Réunion",
-  "updatedAt": "2026-10-20T17:03:42+08:00",
+  "updatedAt": "2026-10-20T23:03:40+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -25,6 +25,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "TDF extends 5G Broadcast trial to Réunion",
+      "source": "Broadband TV News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUFSUDJTaTFNOHJ3emx6QlNFRkgyNklHNWs2NE9VOW5Wem5MOS1vakpzbjhMd3NjZFNKdHlPa2tBdnF2OWpSSXhjSGZ2YnJlQXVwVXhpYVhiV0lfaElxMktiRTZIUEJ0Sk9TYUxkaTRrYlNQZVVTT0YteFU3ejRqUjdpWDJPVXRmTnpoSVVR?oc=5",
+      "publishedAt": "2026-10-20T18:20:06+08:00"
+    },
     {
       "title": "The Female Shark Spotter Protecting Réunion Island’s Surfers",
       "source": "Atlas Obscura",
@@ -66,12 +72,6 @@
       "source": "ReliefWeb",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd3czVHg3YVVxWG4zYVFKZDVLeFkxRXZHcFp1STB6TzFkSjNrWVhKa3BoSGc5MHZWSVNObDRoYTkzVk1sU0t6R092ZllnRWFuMEZNbzczM1hEdzNuWHZ4S2F3YTB2eWRqcW8zS1B5SlI0QjhoaC1iN2I4dm9meFlNd1dmTC1kaHFJS1R3LV96bUFEWHVqNm05NWFEZ24yZWoycnVtVWI5TE03TXJBR2JnQkVORUV5MmxNdzF6c1Y2YkpIWVRHNERBbUU5M0pidEtlNVJUUm5vMkIyVGs1ZFh5NW5B?oc=5",
       "publishedAt": "2026-10-09T20:04:02+08:00"
-    },
-    {
-      "title": "France: EPPO seizes €4 million in probe into agricultural subsidy fraud in Réunion",
-      "source": "The independent public prosecution office of the EU",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcC1kVmJZYlhpbGVEVVU1WS10YnQ4TWw5c3NWdHloZEpQYWV3ZVhtcGtKdWkzSm9JMXJfRXhnT19uV0hKZjdOM2MzaEdRUzRJdzctd2NNZS15WWdCT2stX0hTaUVtY0hvOGVRWUcySXM1UnZhVzdkbTVMU1JRaGFycHZxbldNSWVFSUVTckc3cEU0ZDZWQXhTRGFvSlhINnpSZnlVNHZLajZZUXhETGNCbzBDdEh6UTB5SFlZQWhjQzE4Zw?oc=5",
-      "publishedAt": "2026-10-08T20:00:00+08:00"
     }
   ]
 }
