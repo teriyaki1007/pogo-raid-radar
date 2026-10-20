@@ -1,7 +1,7 @@
 {
   "iso2": "HT",
   "name": "Haiti",
-  "updatedAt": "2026-10-20T11:07:31+08:00",
+  "updatedAt": "2026-10-20T17:03:42+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "\"Haiti needs a manager, not a politician,\" says presidential candidate Munir Joseph Mourra",
+      "source": "lenouvelliste.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRkJsMlZjcE43NVVxZ2UyVkphMU5DOEZEVG9sN3c0clU5WnR4MUdBTThJYWwxOF8wUVF6RU5VN1cwWHBLN244djVYMVpTaUprYlJvNldqNGtYSC14UE1laTdkWnlXeWJZSzZGUDRxbVR1Y1dyTzN1N2hFVWxOOFdOR1V0Q29GbG1tSFZjcThqUjVIYmdWOGdnU3N6QWlOSERSV1VKRlFfMzNST3FfOVg4OGczVC1YQWFlUVJMSFctMkNpeGQySnpYMHNR?oc=5",
+      "publishedAt": "2026-10-20T15:00:31+08:00"
+    },
+    {
+      "title": "Haiti: Elections on hold as gangs adapt to security crackdown, Security Council hears",
+      "source": "The Eastleigh Voice",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS1ZiOUJ2SE1qOHQxZWlhNzVWUmd1ZnoySnA1TE8zM2hGQ0ExWllKSWhNTEZUNkt3R09Ka0JXWFVwb2pZbXFBbkJxUXN4ZUc1YlhUZnZBMXBkZnZGQUR1UHpJajR6TW53ZXF5dzc4MGViR0plckI0S0txUXhFZUlHa25IQ2dhMUlvVHVJY3FBaHZTODZpWTdCQ1ZEMTkyRkMzV2JIWnVpb01mM1N3MGNUQ2dpbFpoc3pON3hYdUlmanV6dGJGLXNaVQ?oc=5",
+      "publishedAt": "2026-10-20T13:49:19+08:00"
+    },
+    {
+      "title": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations",
+      "source": "TelegraphHerald.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEJLQjVsQXlsRU5NZU8wN0lhTWNLUlcwZ1JMbkNJQ2dYVXYwZVdJM3NqWDhhM09UWkE0ZC1NWlYxUzRIZFdHUjJ4Z3dBNGRQS1RrODhQc3loMVl5WkVpZW95QW5rdWwwakx2dEJoUmkzb0dXYllCNFoxM3pRREJEeFB0NFVEd0FLYXhPbHJiLS1Sc25QSkVVOWZrZ0F1Nmc?oc=5",
+      "publishedAt": "2026-10-20T13:30:00+08:00"
+    },
+    {
+      "title": "Haiti gangs target foreign troops in biggest attack on new force",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUHJhRWp0T2RwdmpNMmdFMzctOUJtWm04OEgtNlhhV2tJelZwY1VSNGZhdFVyWFNDbTMtSDQ2dkRzbmRMLTM4VTNjdGZ4ek8xZGFuZnF6Sk8tMW4wdlcwZlA5SGZRS1RtX21iZzd1R1FHV3RHaTN1WDZleGVUV1F2TWhOWlJBSVg1V0w1Y2RuY1g4c3JxcHBFbUVIZDZERXZlZWJoLWhwcWlIU1pna01IT0NHUFJ4M1lKQXpKS2pZRQ?oc=5",
+      "publishedAt": "2026-10-20T13:16:00+08:00"
+    },
+    {
+      "title": "United Nations Integrated Office in Haiti - Report of the Secretary-General (S/2026/800) [EN/AR/RU/ZH]",
+      "source": "ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQmdIY1IzVXVVZXYwUTAzT0FYRHFHUE1vSGQteUFHS1ZkODdaakJDVGZNQ2NHcjM0TXFJY1czc29LU2l6bTRuU1RoZlp0bDBRdkJjQ0ZteTN2aEZXR1VsVHFBVWM2Y2VoMHp2cU9ESjBiZlg3LUhyZFM2ZWlPWHpXVkdqaHQyRFZxdFpSRHBNX0VrVGRqRHdhaVRYeE1SN2VlMEYza0RMVVNCMTZYTmxrbWQ4UV92TUU?oc=5",
+      "publishedAt": "2026-10-20T09:30:28+08:00"
+    },
+    {
       "title": "The UN warns the Security Council that gangs are adjusting their tactics against security operations in Haiti.",
       "source": "Demócrata",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVUk2am9NX0drV00zcHFkeWlzbjJMWFZzMVNGYUJiME5FSHNTemR1bG5TX3ZUWHRuWFBaZHBLX1hIejF6NFowel9XcFg4WVBFY3h6RmtGaVg2eFFsb3dFZzM0NVhUV0hpalBKUjhzTWF0VWZjbXpvR2NydXVzUVdMZnRUeWE4eEYwOTR3bXBzLUdXUGNLTllxS0NxMGQ4V2dwc05IY3pLcEp3TlJDd1dNYXVuVEo5YnlxQl84LTdOOUd0YWZXQm83MXJfanEyU3N4YVp3WVRELXZyN3BZbGJ6VnVDODhRUmfSAewBQVVfeXFMUDFKWWlkQ2ZYUl82V2RnRFp2dWVucFZ2WkFrLWxuTnFZTTNtbnZRbWUxUzVqZnZGdDk5WlZZeXVrR0VVc2ZpNmJUUFROZUI3Z2dUODVPM0VMMnhaYWV3cVRGQ0U1VXZJRHdEUWpRU1IwamhVamtCc3VOdVNRYWVNLU5WMmM3VmptMDJ2WnZkdGxCS2RmTDVtdUw0dDJHTDd6N2pGWU9fcjBVc3h3N3ljY1pCaC1hMHBPLVlGNG01YnVXNjVkM0p5N2lvR19WVFZmUXJTcG91SmtYY0Nldl9URlN5UVRPVzVJVmtSUEE?oc=5",
       "publishedAt": "2026-10-20T09:04:43+08:00"
-    },
-    {
-      "title": "Gilbert Bigio, Haitian Tycoon Linked to Gangs, Dies at 91",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBJalhjbVk1U2Z2YnJPYnFVMG1MamRsYXU5cFpuMkhwMnZuNGoxbzB2Q1lkNUd4RWxGeEg2blVTU2VIVk1WOHVrZ0FPYXZCSnJMeEV5cWpDdHJKUFlHVm5IMnRjRGhyVlBqUl9GR0tYTFlOTnZsVVo4emQwNF85QQ?oc=5",
-      "publishedAt": "2026-10-20T08:34:01+08:00"
     },
     {
       "title": "Haiti Security",
@@ -52,30 +76,6 @@
       "source": "NewsCord",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNckNSSUpTY2FZVml3dlduM2pibk9sdXBxMmZRMkNDQ1Bra2lqSENaZmxrQmJZcTJFQi12ZHpxLVJGOTdHM3ZwWUFjaUpyelhpYVl5d2h2ZkNPa1dwQUMzMVZoNXUwa21fcVhGalhxVDZud05DRzFHN2pETk9MaVRLT3J2ZExXNmpKNjlNWnhTSXZ5TUZmOW5MMy1DaE9xeFZGdlBKYVREUnFzaDFwN0w1WlFkbTFrVHQ2LWEwWVc1WlpqY09MaTFGbGVJWHdGN251S3BOZXBLYXF4WlJWa1hXYWMwZzY?oc=5",
       "publishedAt": "2026-10-20T07:28:22+08:00"
-    },
-    {
-      "title": "Gangs in Haiti target foreign troops in the biggest attack since a new force began operations",
-      "source": "Enidnews.com",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUmNsdDV1TGlyVTVqT3RZN2w2ckl6N0E2R2VZZWYyZUxBZlFLd1hBRXRXZWJTUGctTHYzNVVhX0FBWmxqTmw4RkMxMGtqZkZWZzNLY3pKcWZfWDV3NWlTYThZRzRXMFlEZmpfb3Q0UzR4WC13RzJXMjQ1VlUwRmxyd3A3ME9uVnB2TU5paS1DQmktUm9yU3dCM3EyTmJyUXVMLXJFV1dJWXUwLTVTR1l0MUVlMmRGWm5tMDVSMmV3bThNX3NIOGZRVERGdmg3VEstaWJCdjB1S1RsRm1Ea2wyYjJ4VjR0TDdJMF94djdBaS1KOE13MjdF?oc=5",
-      "publishedAt": "2026-10-20T06:47:41+08:00"
-    },
-    {
-      "title": "UN Warns Haiti’s Election Credibility at Risk Amid Gang Violence",
-      "source": "La Voce di New York",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOY1hhSXpVVHpsNVBobXRMSEt3MVdlbjR4TUQ3Nk5ucWFIRmdjd0hHSVJWUFhuQXM2cVRMN1lBcG9aNTF6RzlCaGxsOHl3bUlreDhkQzM1dkNfNy1kdlRjb1JaMEJOLVNUYk9Lek9XX3BjY2JZSE8tX2JCS0Q2T0FTNkdBTFZaOU9MMjE3RlNJcnp0UzFfWEd6SGpJQlhnQlVHQ1Fud1E4Rk9hd3hTcWc?oc=5",
-      "publishedAt": "2026-10-20T06:31:11+08:00"
-    },
-    {
-      "title": "Haiti gang seizes four Salvadoran soldiers in attack",
-      "source": "WORLD News Group",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbEhKUWF5MkcwSzByRWdTMWdDQXhYOUI2X0hZMFExY2QwSnpubV9OQS1xNk5ycG1YQjZaZUNYMzZidVFUVDZ6MjhqZUVGTVROY3VWNGZvMDBmd2hIZExUWThmdDZOZUdVMTYxUl8wSUN2ZUNLNDhvMTNYcXYxWWpUZnB5Y0V0Z3h0cjVfMQ?oc=5",
-      "publishedAt": "2026-10-20T05:30:00+08:00"
-    },
-    {
-      "title": "Dolly Parton's nephew tied to an arms deal in Haiti that went wrong",
-      "source": "The Tennessean",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMkRXdURuOE8td1lJQ1dCRkJOVXBzTjg0dDdaZUdtZFFyQnowTGFmRVlkUlRkTGluc1J4anZlbndRZ3p6bVgxWThmSkw1LUZLRlVxb2FzUHZhaU1pZGd6WU1yeUZLU1hvZHZDTkpod1J6czVYZURoMGk5ejhnRzFHcUsycFNHZ1pOOEpjSVplMGtvMkxHR3M1blV3d0NBQUxvbWo1Q1FRcUw2NEFkUzFWRzZOUEthQXI4OVpVYy1NOA?oc=5",
-      "publishedAt": "2026-10-20T05:17:00+08:00"
     }
   ]
 }

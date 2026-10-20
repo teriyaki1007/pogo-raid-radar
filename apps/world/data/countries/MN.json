@@ -1,7 +1,7 @@
 {
   "iso2": "MN",
   "name": "Mongolia",
-  "updatedAt": "2026-10-20T11:07:31+08:00",
+  "updatedAt": "2026-10-20T17:03:42+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,22 +30,40 @@
   ],
   "headlines": [
     {
-      "title": "TMK Energy (ASX:TMK) Declares Gas Discovery in Mongolia: What Steps Lead From Appraisal to a Production Licence?",
-      "source": "Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYmRvVXRGc1NBYVYzZ3FWWUVDVVlFWHFPdDJDNlMwZ1lyN2JXblVpbFNab3ZoV1p4VnJPZUZUaGFkcGkzZ0N4Ykd4Y3BmR2lpSmNObElxczdOaHFIY0l2aW5KYVlfVXAzRm9OWVRKaFhScHJla2FMWDBiT2ZyNFhFSmlPODg2Z21XYTdPOHowODFaMDAyYzk4S01zRDVyVXNSblNwTTBienBEbXNhLW5TUnZnUUprWTRLckliMDVZRXVvaTEyQ01laGxVN1lsdFVzMllBY1ZJeXNwZw?oc=5",
-      "publishedAt": "2026-10-20T10:25:00+08:00"
+      "title": "Inner Mongolia Tycoon's Ambition Uncovered: Taking Over Loss-Making Company at Premium Price",
+      "source": "36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1LVlBMDI5YkxzVXJMd3RLeHBsZnlvZnE4Xy01UjdFRTJTc0ZZSTRfWXZ1WjZjdEVjVkF1enJSSzJycG9vblQySzZBYzZ6Wk03Nkdv?oc=5",
+      "publishedAt": "2026-10-20T16:43:30+08:00"
+    },
+    {
+      "title": "Jade Gas begins drilling Mongolia’s first multilateral well at Red Lake",
+      "source": "Petroleum Australia",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjZlMDFBWGsxSndrbzlCSmZBUFJ0OEdTQy1FM0dQMm5OWGlxTlRQM2FDVmxPdGVSb0hXaE5mc2E4VzROUHZkci1WZ3hwZ216WWg4UWx2bjFXVjA1NmdVdEJXa2JYTWthUU81WHFKcThWWmhZSTdrV3J4NU9HUy1wU0tZcWppMDNXbXRlYUpoTFhqc2JkcEVPQjhDa2F3WlYzcDBidG9nTFpIZnVOcnlHUFU0aW8?oc=5",
+      "publishedAt": "2026-10-20T16:00:17+08:00"
+    },
+    {
+      "title": "Mongolia, Japan join forces on afforestation and water projects in the Gobi",
+      "source": "Qazinform",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVmhQTTV1ek1JTkNVak9RdFJ0Und4UGRVQ09VdzdYY19nVkVPSTJ5U0F2ZjF0NWdBdUxIU3FQeUFpM280eVA4Ymg2OE9yZVd1amwtT1FHc3J1VXhyZGYzWTJlS0NsRXBWdV9xUTVITU5CWHlJR0ZiNGE3M0JoSzdWT2ZlbkZ4aXY5Tjk2ZkdXNXFDYVVRX212bHMwTDdNcHNPcVNBZkhKVWwyam9v0gGsAUFVX3lxTE1JU29MdWhOWlAwNnhudVp0Sm1WZkx5d0NnTXJNdGtsejk1bEY4X0FMSnlfZ2RpRmtoRWFPNWRsWEl2SUhEaWJfWlhSNFJlcVV6RGVBVlpRQmN6ZlA5YzdLcm9GQnJjdHZKM3pJcmNCX2tzckxUNUw3ZThncExLQnBaemxUNWFuX3NlVGd0VzcyRFNObzBLTVZIXzY1WWxSaE1xSkZQbFFpUjREOG8?oc=5",
+      "publishedAt": "2026-10-20T15:35:46+08:00"
+    },
+    {
+      "title": "Mongolian gas prize beckons as TMK Energy clears discovery hurdle",
+      "source": "SMH.com.au",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX1VDTGhjMFlwU1ktSTk5MFJ5bnlJMzAwQWJxOWE0RFJCbzcxZ3NVSDhJRjZCTENoSnlZMWpNemhIYVExcnFjT20tcEtfU2s5aFRETUg2QXZ4ZThIeEFGY2N6d1JIVUREd1M5N29PUjloblpZVHcxM25VVXB6TkUwNnZKUTg4N3gyQW03NHI3QzloaFZpby1RZlJWZWxVeV9xTFQ0U3hDNlFzYWRCSE9CYlBUcGhVZGNrRTVjRHBuaUVHbWlMUmpR?oc=5",
+      "publishedAt": "2026-10-20T13:52:47+08:00"
+    },
+    {
+      "title": "KDDI subsidiary faces criticism and questions over Mongolian wildfire",
+      "source": "The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaUxCSmItWklhajJXbDFRa1FlMmg4SW9PX3J2SG10SklNVndXQUxTQnpXeXBIZlNPY3RfaG5sUl9xWloxYk1iaWRzWG1XeFJwdzdncm9SVzZGemh0MGl2LVFfeTIwOUVDbkpLMzhlZ2IyeDVhM1AzNzluTEVNMVVSRDdaem0zaXdSb0E?oc=5",
+      "publishedAt": "2026-10-20T11:51:00+08:00"
     },
     {
       "title": "Mongolia’s health sector wage to rise by 20%, other public service by 50%",
       "source": "Asia News Network",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdlBJOW9uT3FiR2NEUGpjNUFXUHd3dVFOdHNjRzRWaXpubnlhM0NKWHg1V0lmOC1NZzZ4Q3prNzgxRHg3amszMWp5NG40TVppZjJMd3hkeV94cmloc3Z6UVdLc1BsZ0dvZzR4OUtiYjhTYXpjendqV21qSEVCNk1XX0c3SVp2WkVsZ0RTeDk2M0JKVUV4czMyV21RVQ?oc=5",
       "publishedAt": "2026-10-20T10:13:00+08:00"
-    },
-    {
-      "title": "Inner Mongolia leads world in energy storage",
-      "source": "China Daily",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SRWdRczhPWkFsZ2xaaHdKNk1TbjN2dkEycnBiVURfbnpFNjdKVFpnaHpyWWNIOGtwVFhlUkZVenJraWQ4OV9Sd1hEdGcxRzhYUF9zcUlPYldNbUZwRXJJaTNub2R2VGlUTE9iV29qY2xuUVZSVlpoeTAtQl94UQ?oc=5",
-      "publishedAt": "2026-10-20T09:16:00+08:00"
     },
     {
       "title": "La Plata Native Betsy Cooksey Shares Life-Changing Mongolia Journey In New Memoir",
@@ -58,24 +76,6 @@
       "source": "MASTKD",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMFpmWDRLMklxM3JpQ2diRUVHVlNIUXNXLTFhRDMzVlRzUHFkcXdPa29ReE1Hb3VVb25JU2dPbkRRVDk3dF9KLW4tTVVEZVVpOHpWcnVaYWkzOVhGVnJDMGk4VEVvbnJoX0hobjVWTXpmU1ptNWtYeDhLNUtraW43WnBjc0V4RVpfdkVtVjNCbGFuLVNaRV9xM25LUE5Gbno5WG1YMFRqMF9nRkROd1RDRlVKVVFjUUFWb3c?oc=5",
       "publishedAt": "2026-10-20T03:17:31+08:00"
-    },
-    {
-      "title": "DPM meets First DPM of Mongolia",
-      "source": "| Associated Press Of Pakistan",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XXzNmdEVkOHJXYUFNR0Y3Rm0tY041SDVPUGlWRlczRHI4VkNwTTY5U21STW5PbnVLdG55bWk3ZWluSTUyZUVKcEtxaFBUWG43aDUyWEdqUFlvVUVFQ25Ld2pFNFc0d3AtWmdmdFVpQQ?oc=5",
-      "publishedAt": "2026-10-20T02:17:03+08:00"
-    },
-    {
-      "title": "From Dunwoody to Mongolia, Atlanta Archery Club members take aim at new challenges",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMElhT2JWczRfSTU3cU1GV1lBdHNmT1NXU20tMHBBclE1ZmZxdHR6dkdvdWM1NEpXUUZkM2g0QnhHd0xTaDMxVnZhY2Q2aTlGVEdBOU5TbHFsSzg5cW82UXZlVkppNEhlNThpelFWbExfQnBzMGFCTl8teDV1dS1ETGdDVjJHeG1YQlIwX3dZbFJtQXo4UHUwSW9mOVhYNlFsX2t0U3FaeXZGaFFFbGktVHFSbFUyOE14YmZj?oc=5",
-      "publishedAt": "2026-10-20T01:59:00+08:00"
-    },
-    {
-      "title": "Super Junior's Choi Siwon Honors Patriot Lee Tae-jun in Mongolia",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZVg4b0h3YzQ2QXBBUFEtR2VGQlBZUGtwQmNIUXpFMTFYM3RveTBmY19oWGgwS0VSb0NKOGhTd21taVZPd1ZhQzZpZi1DWXhFV09hS21mZkJrWmJ4U3FFU3FJOFdPOGN5OTRtSnp1MG05a3NnbG5HZ2Q1YmVzckttUUFwWlBkUTZrWW14NDhB?oc=5",
-      "publishedAt": "2026-10-19T23:58:14+08:00"
     }
   ]
 }
