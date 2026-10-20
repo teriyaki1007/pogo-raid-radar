@@ -1,7 +1,7 @@
 {
   "iso2": "MT",
   "name": "Malta",
-  "updatedAt": "2026-10-20T23:03:40+08:00",
+  "updatedAt": "2026-10-21T05:10:56+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Archaeologists Thought Malta’s Mysterious Stone ‘Railways’ Were Prehistoric. The Evidence Tells a Different Story",
+      "source": "Gizmodo",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVzNaT2szM1NlUUlYRE1SRkozb200eEZUX0hrTUZFWjVxbWdweng2N05qZ1FrTzJMRFRBaTBtNDlfR0k0UnFFVU5nbDJUc1JObHB2d19fV01tN1hoR3RKTDNJaTZwa05GUmJ4RFB3dGhvTl9pR2Y1ZVo5Z1FNQ2pFaktsbU1LdVFPTnU3V0NHbjh6djA3Wk15VmQ1Q1ZlSEtoMzIyTG5KbnhBb09ZeDJHMWFUWGxSak9mQjZDZk1VR0dEYWdVMDdpSGRtakFhNU4yUG5FcVFIUQ?oc=5",
+      "publishedAt": "2026-10-21T04:30:18+08:00"
+    },
+    {
+      "title": "Young members of the Order of Malta help the homeless in St. Peter’s Square",
+      "source": "Catholic World Report",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUJWVjhuaWlXd255RzczOFdwRmstUGsxUXNuWTk0cVMzMVgydDd6SzkteTJwVWVzX1d6dTdnMjNfZVJiZ2FlOVNiNThMTzlNQTF5dzZTamM3M3lhVjdWX25pRVpZbWdPMFB5NTk1RmFMM2FZb3JfTGk5SGxHN0xVVFNRSmVTSklVR3JkckJRVTA5MnlNa3NzcFlKX0VtRXFIY3lJNDJMVlhzdWtMd1ZkN3dnWXdvZVROenRnMFVB?oc=5",
+      "publishedAt": "2026-10-21T04:26:15+08:00"
+    },
+    {
+      "title": "Empty Supermarket Shelves In Malta As Sicilian Truck Drivers' Strike Disrupts Food Deliveries",
+      "source": "Lovin Malta",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOajFzaS1OQVRkWFIwR2VfZi04NzM3dFlCcFdGbWwxTktBRWlfVnFyZVJNUFNRZE0tN2FxNU1tODdlVmxRSnJaSVQwSDg5QjNlR1NPOVFhT0xpTjNiSmxsamxHbkl3NFlSMFZTVEJ5OWRZM2djekllbDBPMjBIUjZsVDJIRjBsQk81TDVwTkwxc2dIdXl2Ylg1TXhxQV9qUWY1cUxMRURDRlM3T3c1VGdPUVI2ckwtRTVnUkFVSGNR?oc=5",
+      "publishedAt": "2026-10-20T23:44:29+08:00"
+    },
+    {
+      "title": "Swiss Manager Falls to His Death While Climbing in Malta",
+      "source": "blue News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV2Y1RFZPTWwwbklMNXRBRThabWZCNHRLYVZ5UkRMYUxDVTRQbkpoRkQ5S0g2UWdfUUE2TkNhZ3h6UlhzeTBNQXliZFlZLUVsWEhDRy00RjVWR3cwOVA1X1RRVGFnSWQ1TDZwRWw0OXZLeXR4c2RocC03RjQ0djBmX1BsMkhMVi1neEY3c1Zfd3JhZE13SHBoLUN1Z0ZWN0lTdmRnUHZFZEFDeFN1TEo0?oc=5",
+      "publishedAt": "2026-10-20T23:37:42+08:00"
+    },
+    {
+      "title": "Mr. Attaf receives the new Ambassador of the Republic of Malta to Algeria",
+      "source": "mfa.gov.dz",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdnZudVVmNzkxRDZ4Y3J3M3hPclJEX2JVaXBUZm1lUHhDWnliV2Zpak45ZlBGVHV0ek41eU1rUVRKVTBCTjBJYTMwVzgtem1nTDJodWpKS2tXWVpVNXdFbUpjbDhndl9teC1DT2N4WllybXNUcm9OcDNPRVBhaExzOEZMTDdrYmJlYnRPZGN2T2VGV0NuaVd2SUJyLVJQME9zUTNpdzBiY0IzbUpSZzNOOHQyY1dVTUx3N015VTl3V3lGNktEZFBJQkkxclhNeXhfMllYLUdtamk?oc=5",
+      "publishedAt": "2026-10-20T23:28:46+08:00"
+    },
+    {
       "title": "Islamic infiltration vote in European Parliament divides Maltese MEPs",
       "source": "MaltaToday",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOGRudUY0T0FVUTl2YWltMkxkOTFGcUlTc203SmZXb2JBOHd0S2FSQjI3WTZqS3VONzJKMkdoWThaNGl4cW9Pb295QkxkdzUtLTFnaHJlYkJmSF9mUmE5ZF84dmsyRlh2X0taT0hKQ2RvalZiMjVUQUVhVFZIQmNzZ2dCZGVUTVJrYi1WcUc3RXdSWTY4THp0dTRHMy00cnpjbDg1dDJOZWlJVi1kSUQ3ZGdlZzBzY0FuMlE?oc=5",
@@ -42,40 +72,10 @@
       "publishedAt": "2026-10-20T22:43:00+08:00"
     },
     {
-      "title": "Young members of the Order of Malta help the homeless in St. Peter’s Square",
-      "source": "Catholic World Report",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSUJWVjhuaWlXd255RzczOFdwRmstUGsxUXNuWTk0cVMzMVgydDd6SzkteTJwVWVzX1d6dTdnMjNfZVJiZ2FlOVNiNThMTzlNQTF5dzZTamM3M3lhVjdWX25pRVpZbWdPMFB5NTk1RmFMM2FZb3JfTGk5SGxHN0xVVFNRSmVTSklVR3JkckJRVTA5MnlNa3NzcFlKX0VtRXFIY3lJNDJMVlhzdWtMd1ZkN3dnWXdvZVROenRnMFVB?oc=5",
-      "publishedAt": "2026-10-20T22:26:15+08:00"
-    },
-    {
-      "title": "Europe’s youth are rebelling. Malta should take note",
-      "source": "MaltaToday",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNelBqNUlyQUJVWFRzWVNrTUV3OXNIS1BRQW1SaGZ5M1RyNlVGczYtX1lyRGR5aUhDc1BxVUthc1JnbVRhR09WaTZqYi1uWEt0Umd6STQ2T2RKVVZuTk9wWnh0VHZUSVJNaTl6ejVUcTFEbzlLZ3huRzZEOWlObktvZ2ptMTRteHFaMDZITTRqS0FJYTFnVVJRcjlCdVhKM3dVTW5UQzZNQQ?oc=5",
-      "publishedAt": "2026-10-20T22:01:00+08:00"
-    },
-    {
-      "title": "Shura Council Speaker holds talks with Panama, Malta and US Diplomats | Gulf Times",
-      "source": "Gulf Times",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbFo2clhNQllGX3JQOGVOMS02cHV2Rjc1Z3VSVFdJdUpoLWJaUGJwLU9kVEVDNUN1NHFpWEF3Tl80eEZ1bEs0LWJTdkJUMUdFSHdkUEk4YnRSWVVwS29qal9iU1VXeWFycTdWZGZUeTVtQ2ZTNGN2YUUwdmRBRVhiNVZZRWExMExlcjJIQW9QdHJKSXpxSWlNY1FxRDNKNjFNcGtVb2U5QS1rcEtIVEVVWmk4Zjhqc03SAbwBQVVfeXFMTnBsQkRwSTlYdlBpN0tfZzNZeFNfWmR3Y0IyVEdmREVBZVVmdlhMci1qOFoyN29ReEtaR3ZVdk5QbFBCWmFRQlFzNFp1RFF4RE1SWFFfcGxwTFZEc09ybzFEQTc5N2NmQVhQSElNSHRPZXc4OWZnc2hlYlZFUWhUMllfSDlDZ241LWVEcW1GaGxmN1JldHBnM001cUpSSlowUFpsNkFqVUpuUTBMUnFTR0Uzc3Y5QXd6c2p2QTU?oc=5",
-      "publishedAt": "2026-10-20T21:26:00+08:00"
-    },
-    {
-      "title": "Malta: IFJ adopts motion demanding justice for Daphne Caruana Galizia",
-      "source": "International Federation of Journalists - IFJ",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTnFzMlRacDcxYzUtZXF3SXhEV2FSS2t5VXpoQXBhWEJPbGJZWFhNSEt4WHg0UDRRYl9uei0wU2xOTEpoSDVka2FiWjhmN1NLV2VjRXlrbjdGcTJCQlN3LU0ySVVuNjJHSWRKWkJvd25pY0F6Z1FmZDNoWGZFTHBNUmxnQS1pMGExSDJnVkNuTHRLZzAwaEdUYzdMXzNRNW5ONE5DSHFRSnEtQ0hIRXBjMGNaakpZUnlhWU5IRGVWeW9XaVE0QnkzeWpSMnhhaEVScHdnWg?oc=5",
-      "publishedAt": "2026-10-20T21:17:42+08:00"
-    },
-    {
-      "title": "Service Dogs Malta gets €20,000 for adapted van",
-      "source": "Times of Malta",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQnhuNnYzWG1ITzNjSHNseWI0RXprcDZMWjhjQ2d3YUNndFdsZFdLRVZhRE9HbTl2bEUxZ2xNOExtZmp5X1FGeUJkNURKbGtVSllHQTRXTjFzQUQtSHdJdms4RUxpY011eERRazAyZmdpWXZKdjRoZE1VZkRPVnI4NWlNWmpxZ0FfTlE?oc=5",
-      "publishedAt": "2026-10-20T21:05:00+08:00"
-    },
-    {
-      "title": "New accessible vehicle empowers Service Dogs Malta Foundation to enhance mobility and support",
-      "source": "The Malta Independent Online",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONW1yQ0lnQ2hqSk4tMDRYZmZOc0JYaGdaMGtGdm43akw0RnYzendaZWo5V2ozR2pTTk5PUzJmNVJ3aERKZkdKczk4T1BuMjM2OXZUYUNyVFNrUF9hNDJOSC00QU8xY0YtS2F1dXRNVXk4Mkl3M1ppLWRSSUV0OVRwSEljTHhWSkUxRWJpQ2hUcmZadkFpNmRHT3lZTzJuVmR5SG5qTThTVXJiR0F0TThpT0pvaGV6WWVRQ25VUS1ZcUNTOGpBV0Jkemt0MXgybXBTRDJHOXlXV3pSZmlzZ1ZGYUxEMlBpRE5Sc0duaEVxd0ZOTzFLczU2M3RR?oc=5",
-      "publishedAt": "2026-10-20T20:48:00+08:00"
+      "title": "Most Maltese cart ruts date to the Classical era, not prehistory, new survey suggests",
+      "source": "Archaeology News Online Magazine",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbm5pZDBKTnNtUGdzMTNzWTFJVlEwaFhXZU43dTFHRUd5MlpLbTQzMVhrTnl2Und3ODFQNk9YWUxBbjVRX3hBa3IzM3JoV1FBRWQySk92WVB5ZlREb1Fxa3RFWVhaYWpEa1NhbXhXQkNnclZsZGM0NTlzUzU0YWk5SDlhbFd0UkpZdl9odg?oc=5",
+      "publishedAt": "2026-10-20T22:26:37+08:00"
     }
   ]
 }
