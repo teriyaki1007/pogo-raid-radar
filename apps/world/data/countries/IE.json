@@ -1,7 +1,7 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-10-20T05:11:37+08:00",
+  "updatedAt": "2026-10-20T11:07:31+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Bloomberg expansion makes Dublin office Europe's largest",
+      "source": "Irish Examiner",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IelN6MkE1Nm5sVTZ5d0s0Rzk5TW9NejBEMnNIb1lOVkNmWklwT1FDcG9WTEI3T04wY3J5cmJDR2NjZDM2ZnJQSUxOMHhiNUtLR3FRaFBVVlEwSENPN0lHaUpIbHFUSFZyeGxMSWVhSjhhOG1sZHc?oc=5",
+      "publishedAt": "2026-10-20T07:03:00+08:00"
+    },
+    {
+      "title": "In Dublin, tech workers raise concerns about AI",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1hUOWNuVmUtZEEtRXR6cTg4XzFGTzl0OVp1Q2xROVdSU3p3R3h1YWk4R2lnLWo0SG92dzNCRXZyWFc0bnQ4MC1Vc2pqV0RMdEtScmRHZWJGNXlpWUlZWnJBSVFnTGg2elFTTDhMaW5DR2FEZ3g4Sko0cldaVEhJLWttRDNfM0d3MGluU29UNDFreDRvdGc?oc=5",
+      "publishedAt": "2026-10-20T06:20:52+08:00"
+    },
+    {
       "title": "Dublin council denies St Edmundsbury housing rezoning but gives green light to two other sites",
       "source": "The Irish Times",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeDBFQU5mbGFhd0Z6cG1Ndi1OYm5ycmJJM2dQX1ZHa19hX1VfOV9mRy12bERnMWN1dHF3Q1d5TzlRYklYU3kybHB6SmNDcXNPTTFGdkR3blJxY28wa2tjLTlKZndzZExSaWJnMHN6Q0ZjZ0RXTGprUV9VTDlpSVZaeGh3NG1IRUE2NDAxYUFTblF6ZDlmU0JReUNvSHJnUHc1OU1qa29laFpma21qbVdNVjNjN0Z0c1lBRDdra2hHWW9MRWZfQ0dqMkpxazJSakhfNXQxN3lNSUx4Z1hOMllITzZn?oc=5",
       "publishedAt": "2026-10-20T03:54:33+08:00"
+    },
+    {
+      "title": "Air France flight to Paris diverts to Dublin Airport after passenger falls ill",
+      "source": "Dublin Live",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yaExZTVloNnh0cV85djZaaUVnRWVxOTF6ME1kNGltcHRPcFllcnlVQXMydXRfdnNjcXdPNjhMVDVINVFWbFZlQWlobEhVMTNVRmZlYzM2YmhhaW1RXzlfS1czWl9QaXBSbXNsTG5Bb0pBWTJ4b3FacUtYUdIBgAFBVV95cUxPSTVtN1FrVFZuRFotbVZValVpT3NGTzJxdzBfaEEzTXlVdWxFcjFSQVBJcFpkUkxRSmdaNHJMQS0wX1lTdmttRjlad0tzV255VTZWeVctX3VmV3VOWkg4WTk0ZFpOQmY1ZW54Zl9vSGFUOU54a19mMlBDNm9aeXBnXw?oc=5",
+      "publishedAt": "2026-10-20T02:39:33+08:00"
     },
     {
       "title": "Ireland proposes language testing for citizenship - School of Education",
@@ -54,28 +72,10 @@
       "publishedAt": "2026-10-19T23:48:00+08:00"
     },
     {
-      "title": "Air France Flight Declares Emergency and Diverts to Dublin",
-      "source": "Rus Tourism News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa1pzM19NSXhhdVdOZURqLVp2V1ZfY2F2NGw2NnNtcTFsN1RyZTBrNjFCZ19sbWxBRTJ3emUyNG9YSnFlcjFBc1pZdVN1UFVTQ0tvVzVzaVJ3cnZrZ3V4TkljTER3TWk1WTRwSUR0bWxtVmcwYVBpUDN0MVJaelk5Q2RNNUhzbmQ2M2F1OG5WWGVtUTBQRzhtdHZPQThnS0NsclU4?oc=5",
-      "publishedAt": "2026-10-19T23:11:06+08:00"
-    },
-    {
-      "title": "Indian diaspora in Ireland stages solidarity protest against SIR, demands CEC’s resignation",
-      "source": "Maktoob",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOWdVeVV3T3BoM3VUUWQ1YkIzcE9FM01iT1p5Wm5kaHlDckV1akJ4RlNCcUdPX19YdmJfQm5KVG5NQkFiNDVNUm5URk5NcWZqdHFJOXFTVFgxMzRxRXFtS0o0V3FIV1oxMXA4dTRYQTlORmxDdE5UeE52UVR0emd2a3lPa0lXXzlwNnoydUZQUU9jUG9TaWJxQ3A1UnhBYzZpeEc1amdMWk5vakZZbkxRTXdjQWl1REVFOUlQNk5PMUdPQzdDaEt5eWZXOThfRGc?oc=5",
-      "publishedAt": "2026-10-19T20:26:11+08:00"
-    },
-    {
-      "title": "Ireland weather: Latest on Bank Holiday weekend storm fears as conditions to take nasty turn",
-      "source": "Irish Mirror",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQkNQd0Qzb3YzVDZCTVcwdGItN3lZX2R2VkN6WW5maEZrZE5YejhkQkQxRmRTU0RsZk1lcVBFOVNSd01rNmNhcmNlUzVDWVZBc0lTWkp5cUZnU2N2LVQ4c1p0YkZvYXNoSVNDZVpRd2hZejQxYWduSzB5czhVclhNUHdSYWQ1TXVjdlVlRG41RdIBlAFBVV95cUxQYnVPX0Myc3phSUtBT21mMmJBbmxuRjVMTjY0SDhraklpQmpuQ01ncGNCNXVad3UyZExhbnlRY09oNXBEM0xKaFNlTE0wbmVHUklLbFZDdkFRMTIxTmxxVXpmYXBNQVRhOURQUGpUOGgtcm9pbGJQeE1RcE5lRi1TczNDekpTWE9PdkotTENFR0toYzNs?oc=5",
-      "publishedAt": "2026-10-19T16:40:48+08:00"
-    },
-    {
-      "title": "‘Will a laptop stop a bullet?’ The murder group chat keeping Ireland’s top female crime writers awake at night",
-      "source": "Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdWdfWVIxd08tblNQcDh2bF9aTGhLLXdtbkp4UEp2d1IxOVZKdDloTUZNYU1hOTBhcVJXSnkyREQ1NWR2WWxsN2tyRTFFSE5ub3pLR2dnS1JENVVKZl9VNnIwbTRPQ3FpNHRKd1RlZTc0TzVtdUotclFTSk41ZlZiVzNueTVIRXBHTG1SSEtjU1hvZDJ4STZHX08xRV9tVm9HUTBud0dDakdNME1hdGtDdS0xcVZ6Q18wcUdkOEdPZ2xEQTFoN0VxY05NbmdCandrcnU0Mzhxb2JjYVVfTEFvTkw2dFF1dGlZMnctT2dSVk5KbVRnWkVaMzNaLXJYTWM?oc=5",
-      "publishedAt": "2026-10-19T15:00:00+08:00"
+      "title": "Governor Mills Arrives in Dublin to Promote Relations Between Maine and Ireland",
+      "source": "Maine.gov",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRE83NjBlVDhwbzBNNHR1M01YYk9Hcy1oSk1nWVZPMmxEX2J5UkxINzl2bGtQSHpHZlhzSUEtODY5THExSUcwTy1qQ1dEMXRQMVJEZGExdVJFV0hMa3JSWHYxNzNyZDJXRVZlUDJaSmQwQi1ydVV5SlVCNzVsUjM3QW55dVFGREpmLUx6RE5hVnZQbE9YR2paNFhuWG56UFk5dkt6eDRzaVBmUm1ycXU2M05VT2ZJWGtVUkswVzMzZ2dBdzQ?oc=5",
+      "publishedAt": "2026-10-19T23:44:00+08:00"
     }
   ]
 }
