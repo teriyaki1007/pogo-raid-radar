@@ -1,7 +1,7 @@
 {
   "iso2": "CZ",
   "name": "Czechia",
-  "updatedAt": "2026-10-21T11:09:58+08:00",
+  "updatedAt": "2026-10-21T17:11:00+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,28 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Child aggression in Czech schools is rising: how the state responds",
+      "source": "Around Prague",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVzRUU0x0bjkyM1JBZTUxYW55dm1iSm82ZWZ2bmZqb0I5S3lfMWRxR0NOejdzbFVVX1BOM0dDS2hJQ3R3QVMwd1Z1V2VjNmgtVldZZFh2T0xhZUQ4RkNDcGx2RjhxYTAzZVFzeWhVem9xUElPV3o1c2pHaTRPS2x5X0FmM05Ud2FDdGsxN2NBSlZ6VGM3UGZlVUZ6aDYxRlRFbUh3c3htMmlPbTh3ekZxT25xRHdLT2txSDJBMg?oc=5",
+      "publishedAt": "2026-10-21T16:15:57+08:00"
+    },
+    {
+      "title": "Czechia extends special work visas for foreign workers until 2028",
+      "source": "Expats.cz",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT2VrZ1g1RTRXWTJBNDhzWS13UngwY3dIa0s3NVpBLTlDM2dNYXU0dUltbks3QnpJRWJmNGQ1VUxwSldRSG9SRlJNM0RFTTNDZkR4LTVVVWlCb3FvME5Eb3h2bG1ZbWVsbE9RRjlLTkhKRDRoa2JweFNGMDdwVkdXN3FRek9WVDkxOVI4U1F4WkpYWTdzdkxlSVVzaWdQaTFUMUJtNm9USmN6dw?oc=5",
+      "publishedAt": "2026-10-21T16:00:00+08:00"
+    },
+    {
+      "title": "8 Most Walkable Cities And Towns In The Czech Republic",
+      "source": "Outlook India",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUUJhVkxMS1JOOTAzVnBCSG9kRVpjSHJsWF9PRXdlT2lXcWp4NDB5bE83YWhpOWcxcW1pbmdkbWRiZTdNdXRyM2RIN1dUTlZ2NWV6cVVMdFFaaThTNlZsSHJMYnlzQUo2WWNWVVBjYllmdmpkOE5zQ3lsaWQ1MmhObzRWUkJyWHpFU05Qd1oyY3VCV3lkZk5ob3hEaXdwZnVLeUVjbDlxc1Z0ekZuUC1IbXh6UDZtazlrS0RYb0Z6aDhqSDTSAcMBQVVfeXFMT1FCYVZMTEtSTjkwM1ZwQkhvZEVaY0hybFhfT0V3ZU9pV3FqeDQweWxPN2FoaTlnMXFtaW5nZG1kYmU3TXV0cjNkSDdXVE5WdjVlenFVTHRRWmk4UzZWbEhyTGJ5c0FKNlljVlVQY2JZZnZqZDhOc0N5bGlkNTJoTm80VlJCclh6RVNOUHdaMmN1Qld5ZGZOaG94RGl3cGZ1S3lFY2w5cXNWdHpGblAtSG14elA2bWs5a0tEWG9Gemg4akg0?oc=5",
+      "publishedAt": "2026-10-21T15:00:40+08:00"
+    },
+    {
+      "title": "Mamut case in Czechia: 107,000 iPhones worth CZK 4 billion missing",
+      "source": "Around Prague",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdGFIWXl4elhhSzNMbkhDbHkzVlBXeHBESUt1c1dhRW85SGpabU9taHFiV1p2RFl5QTVmMGs3Qnc2NjEzc3Y4TGMxSDVjQWxZV1pFZDJHa2FuVGpkempwZ3k2RGExWXQ3eTgtT1daTzZGT2x6My1BbVNFZ2N0NXZEbW5fYmNVYWpXWXl4ZWFXR3VVbHRKNWtiVDhndXdCei12c1lNeTdfYmZ3QQ?oc=5",
+      "publishedAt": "2026-10-21T14:30:54+08:00"
+    },
+    {
+      "title": "Czech jobless register shrinks, but long-term unemployment keeps rising",
+      "source": "Expats.cz",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZkNDMlRSNGRTeW5LVzA5ZHhuRzN1T0hnLTFyanJMeWxDYjNEclFBb2FiOUlLOGZQZEktRFBtTHpkcjJVczdKR1ZfUm1WV1ZSbl8tMjh0ZHFSUVBlaFBZdklYaEhaOHFsNXFILTJfSlpRd1RlYVhLeG1QVElQeU52aEtTM01CcGZvQlJLMlFFbHVyYThYX000NDZKd3dMUEFnRWF6NURxMUVGeWN1Zm9PMg?oc=5",
+      "publishedAt": "2026-10-21T14:15:00+08:00"
+    },
+    {
       "title": "Team Czechia vs Team United States — FIFAe World Cup 2026",
       "source": "Sheep Esports",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZMGd3LV9Gb1FfdGpZMFlZYjE3ai1JTVVzWEc2eVRVVUJmbTdRdFFGdmtWX1ZmUHJRZGNOVXh5clhycXZZbDkxX2hQSTBvTHQ4MWg2czd4OUQtZXlXM0hWWUVBLUVSczZna0Rn?oc=5",
       "publishedAt": "2026-10-21T08:51:05+08:00"
-    },
-    {
-      "title": "Colonel Foltýn escapes punishment over anti-Putin patch in Czechia",
-      "source": "Around Prague",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSEtZWXdIUlBtNGNqZ0U4bHNRSHlHSU1kdHFOa252TDUzaGJNR3N4djdPS2pldHlzZDAtTkp4b3FRSVRIaWdoc0dUTk4wTlRoQ3p6Y3ZGVURzQ2VwY2t2ak5ELWpEWVVUcWR4dkp1QnhQWXY2NHVBM2d4OFoxUkh0LXRsUmE2cUMwY2p5VWpfc3ZBdy1sOXkzSHV6Yw?oc=5",
-      "publishedAt": "2026-10-21T04:41:28+08:00"
-    },
-    {
-      "title": "Major water outage to hit Prague’s Ďáblice, Prosek neighborhoods",
-      "source": "Expats.cz",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaE1IdVd6SXJSZXhSYVFNWkg1VUc4cGxwaEhFdE5ZWTlZOUJZREkzWlJKUXhjSEx4bzREWWNWQmpTSFlSdktXRFZBTVpaSzZkOFhGTkY2YmUxMDV6VUVNUDZKSmhOSU84TUx3UWsyZkl0dWxSNVZHalNtTzM3UVg0dDBadmNfUlBtV2hHby1MRHZnNk1QWjk5MklMNXNRMVZBUmFSSklXRQ?oc=5",
-      "publishedAt": "2026-10-21T03:26:00+08:00"
-    },
-    {
-      "title": "How Many Foreigners Live in Czechia in 2026: Interior Ministry Data Explained",
-      "source": "Around Prague",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPajdTdERJLVprV1dXRmVXb25JVV9ONGlvcG1STXZabm5CU25RMmgySWlQSEpTbXg5QUV3TU9lMGlSMkxtS2FCbktaa1Fvd0gtMEg5a0hxZTRtMThIVkNyNDZCNDRtN2NnTi1LWG9lLVJxZFdQd3BuMHprZE1mbnFyQ2sxeEE5dTlzMko0U0JHVUhsX00?oc=5",
-      "publishedAt": "2026-10-21T02:58:00+08:00"
     },
     {
       "title": "South Korea Sets Sights Beyond Dukovany to Temelin Units 3 and 4, Opens Additional Order Talks with Czech Republic",
@@ -60,22 +72,10 @@
       "publishedAt": "2026-10-21T02:53:40+08:00"
     },
     {
-      "title": "Czechia plans to halve benefits for Ukrainian refugees",
-      "source": "The New Voice of Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNejhNZlhQRGdHR1BHdWxNUjBTUmlwdF9Ed1RPWFh5enpsTmZ0R3ZFWEZWWEFldFNjMW9wRnNaalRZenVhcF9oRTNKLVBwRXF6eFlrWUhDQ1RvLXdsWU45WGNrQzJwbm1uV2Zzd2pvMTZ6cVdpclBzeXhCYzRoR29SLXBhSzBTY3pFNnVUdVcwdlBTRmVrS2pMcHBhVGY4Z9IBmgFBVV95cUxNR2VyX2dUYlZZYkJmSkdZeGw0YS1rQWFhbWdQVkx6c0NTUlFsUVVMOHVuUjZYQUk0YWFZQ2QwZmd5OXM1czZ5ZHc0UEltMEZQMTVpN3F2NHVPQ0ZucDhNREx1N05PV0dWeWhYaTVpZ04yVklWZ01nZzZaM0VlSWpIWThiQmJBRGl3MS1UaWUyTk12bndHNTNYeGp3?oc=5",
-      "publishedAt": "2026-10-21T02:24:49+08:00"
-    },
-    {
       "title": "Czech Republic: Vojtech Munzar Awarded the Title of Knight of the Order of the Star of Italy",
       "source": "ANSA",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUnZELVd3RTZpQUNYdVJfb0R5RTJiVWRsWHpJR3YxRU0zaktIYXVjdGF4WlhGaGpIWnQ0LTNOOXZGUEVfVkU5dGRGdDlKcWZJNXQyNDl4RldkN0podk5OWGpibGRPZUI2d2JWMGZZdFVKQXZtaHlyUFE2b3lRTmNCNWtRd0ZKUXRlWDFEeVB4OVl1ZXA1Wldsa2ZPeFR2VkFzRVJpR0g3SHhyU3hBdHlMQXVkLWwyTEg5OW1xZ1lCTmVjQkVzQzdxckNOMlBsMmNoZUctMWEtSEszWE9zQngzajFSajlXSXZzUWtwbEVCMmE0bzhhR3l4ZF9aN0UtWmZocnR0dUhsd9IBjAJBVV95cUxPN0RMUVlIZTdRQmVHWVNQVDF1c0t5dHdVbXl6YmQxWXhsNmhfQ1N1Wl9MUzBIbjY4MHY0NVFscjdsdXR1cmlmWFlxeDhlRTUzcWZ2MGFKYVRvMGpyQllzcVBJNXNJSVU4RlE0TUFaU1JJeEQwNlQxM19ybFpjb205dVpZTC1sbHl1a3F6d0N0ODc2VnJzQ3JwV2RKSHpMT3VPa3RfZ29EUXBoYUxtdEhPX1ZBVXFsOWpic01zQ1FDZE5YRXkxaHdVcEs5VDVxRkpvc0t2d0I2S251d25ORHhGRDhsdkZ1ZHVwTUUwOWxBQU0wWmVnOHhERHk2WFgwb3Y0NGlYeFd6eDBOTk5s?oc=5",
       "publishedAt": "2026-10-21T01:46:00+08:00"
-    },
-    {
-      "title": "Armenian Defence Minister Suren Papikyan visits Aero Vodochody in Czechia",
-      "source": "Armenpress",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0WEczUVVkMURlLWJ3N09oNV9oVGM5VWh4dC0xNl90d0QyVjFUWmdvU09TbXFzZkd1SUF2aXAxOVBvRGdFdFFCaU83S0xDYVZVd0HSAVdBVV95cUxOV3BLUTlnZ2FLZlFJZnRRNEZvSVgxWTMtOXNkeU5BR0E2NVZBQjM4RGtPOVRCUHRud0ZldHE1d3Bwb3FqeTRYOWEyNzR6VW1QNm1QNmRfLW8?oc=5",
-      "publishedAt": "2026-10-21T00:29:00+08:00"
     }
   ]
 }

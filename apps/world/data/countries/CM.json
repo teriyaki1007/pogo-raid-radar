@@ -1,7 +1,7 @@
 {
   "iso2": "CM",
   "name": "Cameroon",
-  "updatedAt": "2026-10-21T11:09:58+08:00",
+  "updatedAt": "2026-10-21T17:11:00+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Switzerland Bitcoin ETF & Cameroon's Paul Biya: Financial Haven?",
+      "source": "Cryptonews",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaDl4V2o0Y3VGVWlOY1JVUl8taThOM3o5U2pBREEwLVVSMXNfLU5TMzdPMWE3MjJIR2EwUy1Db2FtZjhtLTludU54Q2VySXhJZlhVQnRyTWRkM3NCVG8yM3QzLWl3TlhERk9rd1ZtSmhJWUM5WldCZGVHdVZ4ak1CYkljb3dZWkZKblQwVzVnSEYwcEtnLWpaemdzZ19icUdtZXc?oc=5",
+      "publishedAt": "2026-10-21T15:54:30+08:00"
+    },
+    {
+      "title": "Egypt, Kenya and Cameroon await 2027 Women's Volleyball World Cup draw · SNA",
+      "source": "Sport News Africa",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONXVIUUxSVzI5ekVreVhrWnU0eS1BdzdlSU1WX0FETXRva0Q1VFJVQzF4MUVndXltMlpsSHpmal80b2g5Q281eDdFdl9Kd0Ixa29oYUtzRFZQQkFpQ0hSR0IyOGRCbndDNG1iVW56UnBnWkdEZzJ3cmFSazFFY3ZQN2ttRmxzaDBLTHBOQkdLMFcydzBXbHd3d2MxWUZPVmtaVUVBalh4d2I?oc=5",
+      "publishedAt": "2026-10-21T15:46:12+08:00"
+    },
+    {
+      "title": "World’s Oldest Leader Is Starting to Alarm Investors in Cameroon",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQX3NOX2MtVGRudG9rQ19LbFp6S19mYjVHTmZCZDFVQktzVjlFTFZ2SUVyOUNsLWRlMkhXNEdpTGJlbUVVNldnYmlHZVpMUlhfXzdvWXVVR3NxRWpSWndzN2NUaVA2eGUzM1F3ZHBpT1JkR1QxU2ktVnZ2TllDb1N4WWtZR1J0bU1aWFZMRC01Qm40TnNPaV9mcEJFdlItUGp1aDluNkxHSHFlOHJiZjdZdkdPcXdDYU9DX1pES1Rn?oc=5",
+      "publishedAt": "2026-10-21T13:30:00+08:00"
+    },
+    {
+      "title": "Cameroon • BIR rapid intervention force expands presence around Lake Chad",
+      "source": "Africa Intelligence",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTnlDdFhkRmxBMFpDLWpBNWdpWTFMQ1JaYW12OTJ5UEltTUkwSTU0UVhUWVVqQnZSb3NHeThqVzN1eFRXaDgyYXZySEdmNG1zN1Fua3JqRm1ySVBWNVl5Mm9HZEQ1bFJ5Rjg5LXJoTUEzcDdaQVR4Y2NQU2VIQVlPM1QzZTc0bjhjUUhDb0l6bl9vWFdHTm1XSFhSeGlUTllwZDNNQy1SWFBJbW5yVHEzd2dfc3dzU1Z2SXUxWFZOLWlRYWQ2ZlJUNmMyWDhiMWZIXzlj?oc=5",
+      "publishedAt": "2026-10-21T12:43:59+08:00"
+    },
+    {
+      "title": "Tower Resources advances Cameroon drilling plans after Thali license extension",
+      "source": "Offshore Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOX0ZuRlA5WUJiVXNjbWFKcld1TmtFcjNNQlRiaWV6SEc5TV8tTGFHQW9Pc3ltX1R5eDhjRll4VE96cnhvaFh3RXVoQkxuX3lOcmdPZHJkVXpCQnR0UDk2VGFjYWNrTl9GSEVlUGY1RVphNHlQV1JpdV9WQVlMUXhadVRkUEN3VkhjNlF5blZSV3ZnSDNERzc2UXlYYjRvWlZGMENJMEdaS2YwcWhmRHdVbGFHQW9ueDRPMHVlRG9FQ0N0UkhaVnBDZTVCOGVrMGZ0Y1JmWURCOFNzdThVU1JfUThjanc1R0x5QVNmdEhVZm51a0k?oc=5",
+      "publishedAt": "2026-10-21T08:04:10+08:00"
+    },
+    {
       "title": "Meet the Cameroonian who just debuted as Victoria’s Secret’s newest Angel",
       "source": "Face2Face Africa",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTGY0MGNWazlSS2drSmZtS3NJaUtQNkFrd1NaWG5qR2JBNS15U09HZk56SVhONHRiMjl6M1ZCRjY5YmpSRm0yZW8zT2VZR3NKc3lmcWhGNWhEdjFyYVkxWExVVjJHUDZzNVhrbVBKSFZWbE83YTFvU3A2YmVKME5ZUEFxQV9sanlMUWswZ0xjZzE4SG54TmpPNmZHTGZyQU0yN09OOEh0c2thOGc?oc=5",
@@ -46,36 +76,6 @@
       "source": "Actu Cameroun",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS2hrYW1id1pIdGROY0VlbWp2bVRCNi1vR3BvQTJ1cTVHQmRIa1NTbHl3VVM5RnV0VWZXbFRldy1lMXRvYTN1MnNUdkFLZkp5VUdfZlNxVHdHanNRZ1lVQWE1TGJ5U2ZMeVNrZmpMczV1Y25heTdqc1hmakhuUWZYTHZyWVpGdW5SR3ZzTFZnMHVSQ1JvcVREM2IyMWF2MUpU?oc=5",
       "publishedAt": "2026-10-21T03:57:08+08:00"
-    },
-    {
-      "title": "Cameroon Pushes to Make Simplified Legal Status Effective for Entrepreneurs",
-      "source": "Business in Cameroon",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPanZnR01CWUpzZ0ZxV3ppVGFJOUxpdE1qMGtnVTdVRy03WXRhdGc5WE1EeGxlaXZ2R21DUDZkNmRmQUNUdEt4UHU1Z1VYRnh1R3IyUkRjQVc3U2pRRkZhMjhBMEFjN0J2cHlqcl9tWW5zX3BZYnB2cGtMSUdId2FCLTd5UU5fd2Q4Zkk1MHVHUk5zSnAtLVU0WmRRaDdHaTVVaExGdThjUm95THZDSVBaQWhIc3otSmtjcG9UVlVpZDNkaHJQcTRQTmhWZFhZTFB6M09rR2dsbDZPQQ?oc=5",
-      "publishedAt": "2026-10-21T02:10:21+08:00"
-    },
-    {
-      "title": "What's Up With Cameroon's 93-Year-Old President Paul Biya, Who's Often Absent for Months? | Vantage",
-      "source": "Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN3NBRWRzMHNiVjV2LXBxWnhuQkVBaThTOTdLRzZld0xKRTV3VWdHM1k0azlMai1GUWRnX2lKQmhJQ1N0aHFNcl9JTVBJTnJpSWY2N0hfa21Uc0NVWEpfeWNZTXNpQl9LT3lweDFUZXFBX2lwRWsyLXBpSjZtZ0hSYTNhaFc1dWJtVUk4U2Ita2lHaTdfeXVTSHBTSHFKaVZLMm5YOVVDY19DbEYtUUlEOVB4MTBGYlgtYnZ2MXplcGlMN0U3RHhjbFM4TDlvdktjbzhn0gHYAUFVX3lxTE00LVBVck40Z0s4aTdoWVEwRFotV2RDR2R2QkNiSU1uZW1Zb1F6SEJpRVNSUFl5aHJvdDBLa0g1RnV6amc1NW91RVJWMmVtcl9MdFhaTldxTjQxWVYxZDFCb2ZYbmRJcXRwRlRyVmRpZHVhdmcyQlFaTm1xeXVqMnJsTlAtWTZneHo4allWaDlrbFVNV2liMGIwVGVuV1l0Y2ZkcTBRWUFXX2JTdUdtaGVmZTdvTl9Rc2FYRlllVU5qRzZnMV9kcmp5TjRtNFA3QlB6VXE0YU02Qw?oc=5",
-      "publishedAt": "2026-10-21T01:44:29+08:00"
-    },
-    {
-      "title": "Germany Faces Fresh Calls to Return Cameroon’s Sacred Bangwa Queen",
-      "source": "pan african visions",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMmpFTVRXZERGWVZQeTI5UU5GZ3VOdHJNSk1KTlNxMVJzdU1MT0k4cVZHRzNlSEVla3BlcUowS3JTeW9QN0E2eGVEUFBZaWtIYllSeGQ3S2VnLWV4LVRhZGpiMElNZVFIdG5USlhLOHdOWXEydkUzLXd1b3hpOFNHd0QwTGlmMkp5MWtQNzU4Q3poWldfUy0wcEV2NVFESDhKbzdsVXEtbw?oc=5",
-      "publishedAt": "2026-10-21T00:40:31+08:00"
-    },
-    {
-      "title": "Cameroon’s Socadel Plans CFA52.6 Billion in Fuel Purchases to Supply 33 Power Plants",
-      "source": "Business in Cameroon",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFlHSWxQMDVoaDJEeEJvWGtfWFpNdV8zNTZDRDRaZHFWMEhjUmZVUFhhNFNMTUJ1YV95Vk5MMUh6anlUV0V1Tk1NVklnVHZkbG9qd2lCSm95TG5XTV94YUVOMXVJLVNSVExxSzBvYjM0Q3VuN0g1d2VtbjNyZmQtT3c1T011WFl6Y0h0Q3ZfMkJMNWZ0LTNUMnl1WDlJaTg4dHZYa2duOXJtanpzTHJpOGhMQWN3YWtPUUJFS2gxRnVGN2Jya2I1VlhOTEZtUGF0UUpB?oc=5",
-      "publishedAt": "2026-10-21T00:24:59+08:00"
-    },
-    {
-      "title": "Remarks by CDA John G. Robinson – Cameroon International Tech Summit (CITS26)",
-      "source": "U.S. Embassy in Cameroon (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdlpxNnlROGRQRW9GX1BqZjBsTElyUFFicDNNeEpoVUhwYno1UnpkMkhGZVQ1Tk1QSHB2YVg4QklXQUlHa1R0anlrbF9Qb1pQTXE0YXgxLTBFTE81UW8tcWlBRWhZU1pqdWdnWjZjX3pNV2pmZHFianBaSTFLNUttaXFWU1N4RnZnYzVDQ0lqbWtwRk9VTDBVN3Yzc3hCU3c?oc=5",
-      "publishedAt": "2026-10-20T23:33:50+08:00"
     }
   ]
 }

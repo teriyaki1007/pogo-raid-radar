@@ -1,7 +1,7 @@
 {
   "iso2": "TT",
   "name": "Trinidad and Tobago",
-  "updatedAt": "2026-10-21T11:09:58+08:00",
+  "updatedAt": "2026-10-21T17:11:00+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -29,6 +29,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Can the world find Trinidad and Tobago?",
+      "source": "Trinidad Guardian",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbGdkUWJMSXRRMGZvTTBYbWVjUmNGVnVRd2hkVEdrRTc4d25oOVE0QTAyb2xwS1JjUnJrOXgwLV9iOFFvSzZBNjFGQXJkTmQtaDJJSkVvMUk5NmRxRlZxM0s3NDhhejZOR25kQ0J3eWgxNEFoZWtxTDJFQUhBV0JqVVhLa3kxcVVvaElRZjJvMFM0SndacUlwclp2cw?oc=5",
+      "publishedAt": "2026-10-21T10:05:15+08:00"
+    },
     {
       "title": "Every Number Has a Story: Strengthening Mortality Data in Trinidad and Tobago",
       "source": "Pan American Health Organization (PAHO)",
@@ -70,12 +76,6 @@
       "source": "The St Kitts Nevis Observer",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZUZnNFJPcUYwRTR5dEowLU1TemlLZGVPLUZrMHdXODlFMExZSjlnZE9wYXBDUFh5VUFORTVkUHp5eUxyN1F3UjRFME81SXdsNmtfOGlZSUc0QXBZakoxSDB6OVZjWWlZRGhnTUZyRlFfX2pQMGhtSGNkV2tWcDZpalVZdzJCMkxJcHU1bkNIYWkwMXJ5Y3ZjV1NELW8?oc=5",
       "publishedAt": "2026-10-17T08:58:34+08:00"
-    },
-    {
-      "title": "Trinidad and Tobago celebrate their semi-final win",
-      "source": "Cricinfo",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSThFaTN3Q1NVWDFGc05BaV9WWEl0c2Rpak9lRGRqT0dpczgxeUwwNFUwZGRfWGp0WUZoNmNydTk1R2s2RjRLNFEweDFfb3NtWGJ1dHdaMlphWVU0cGw5NFlId25FMlA3cnhHWEZKcnBTTGx1cDhBczVobmFzbFMtRVVucWQwRVRqMS1v?oc=5",
-      "publishedAt": "2026-10-17T05:58:01+08:00"
     }
   ]
 }
