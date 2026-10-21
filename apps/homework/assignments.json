@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18",
+  "updated": "2026-10-21",
   "timezone": "Asia/Hong_Kong",
   "assignments": [
     {
@@ -215,6 +215,33 @@
       "due": "2026-10-27",
       "dueLabel": "Tue 27 Oct 2026",
       "priority": "medium",
+      "status": "open"
+    },
+    {
+      "id": "chinese-tianjingsha-presentation",
+      "class": "Chinese",
+      "title": "天淨沙 presentation",
+      "due": "2026-10-27",
+      "dueLabel": "Tue 27 Oct 2026",
+      "priority": "medium",
+      "status": "open"
+    },
+    {
+      "id": "socials-ecological-globalization-quiz",
+      "class": "Socials",
+      "title": "Ecological Globalization Quiz",
+      "due": "2026-10-30",
+      "dueLabel": "Fri 30 Oct 2026",
+      "priority": "high",
+      "status": "open"
+    },
+    {
+      "id": "math-unit-3-test-hw",
+      "class": "Math",
+      "title": "Unit 3 Test + HW due",
+      "due": "2026-10-30",
+      "dueLabel": "Fri 30 Oct 2026",
+      "priority": "high",
       "status": "open"
     }
   ]
