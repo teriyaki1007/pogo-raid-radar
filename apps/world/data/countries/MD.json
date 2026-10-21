@@ -1,7 +1,7 @@
 {
   "iso2": "MD",
   "name": "Moldova",
-  "updatedAt": "2026-10-21T23:12:22+08:00",
+  "updatedAt": "2026-10-22T05:03:11+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "Moldova’s fight against Kremlin interference faces Gagauzia election test",
+      "source": "Atlantic Council",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUVVnQnluUnVkZlJEN0M0RmZDZWtVTjVQcm9YSXBQdkVjSjhLUzVWRjJKM1NoekY3WC1SQmhkMTdGRWt6a1k0NjdtZ3FadGtUVmMxT2FfZmhtYy1CRTFQeHVONi1rQlhmUlF3WlRVWFI1TWxPbnRaMXFBUmxyTEZMd3ZlRVRTeTBROWVLaGhKTTg5VUJETXJmaTg0WWJaMmsyYnVTRnVPRExZYUlWZFdKRk9HUk1wQ1NpUUdWR1kyUGZhQQ?oc=5",
+      "publishedAt": "2026-10-22T02:02:00+08:00"
+    },
+    {
+      "title": "Nearly 1,800 shelters in Moldova; some are unusable, Minister of Internal Affairs",
+      "source": "Radio Moldova",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVU0welRVT2dLUGxXc1dXMWJNQWo5VW1iTE1TdEVKR05TdkxaODJxRmpUeGVHdlVSaVUteG9ZQmMycjBzU09yRmlVaXlFY2FmT212WHFZNXFEaWh2a3YwNzZjdWpWRHJwS1MxekFlSkNfQVVXNm4wNXJ5dVlFQ1FuM1ZaVS03d1lqbGVhZFRZdmlfM0NxUGpIRERBTjBFaW1xVFRvR284RGZCZWNxR1VBNw?oc=5",
+      "publishedAt": "2026-10-22T00:47:45+08:00"
+    },
+    {
+      "title": "Moldova launches probe into Yandex Go’s data and ownership risks",
+      "source": "Latest news from Azerbaijan",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQVhvdk1vNi1FSVM4ekl1ZHZaS2dpdDZ0MWo3NUFFei1jelh2UGZVbDlIQ0tVejZWV25ZZ3RZaGZqZ0NkeGtxdmFSTmU4RXpwZnYzcnR4UlR1SzJSb3NTbHVoSGVYLW5IcXg5bjItaXk0Zm43bEZCdW5pTllJblMwYklqZDNXSGhxTEJRNQ?oc=5",
+      "publishedAt": "2026-10-22T00:13:35+08:00"
+    },
+    {
+      "title": "Moldova is investigating Yandex over the transfer of data to Russia and tax fraud",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVFAyZlRoY3FjNWtjME9DZzdYaHZqb2MyRFNQNE9yXzJZQ0Nvckk4N0psM1NOU2VBdGdSWnpTdVp6anotWDh5cWthODRZaUM5TXRveFBtZVRXdkdrRGtmcGhJVThseHdmbndBQng2Q1BUZ0RhbVRSa1ExWC1uUDR4Vm5vcEllMU1qbW4yeGplOVNvXzJUOU9LcXVJV3RqZHM3dG9SeVBGbGdTdkVia1FQZFJxNE4xT1hW?oc=5",
+      "publishedAt": "2026-10-21T23:46:06+08:00"
+    },
+    {
+      "title": "Amid Russia's Onslaught, A Twist In The Pursuit Of Men Fleeing Ukraine For Moldova",
+      "source": "Radio Free Europe/Radio Liberty",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM2lhdTE2YVFNRmNsMGJXRGRXQkNncmVGQUpac2hCY08tLUxaampPSzlLLTlfd1dJNmM3bWFJUmYwTVBDOFdVOUtFY0k2Z3J4dFJPTUswaGgwblBFWDRhTTZITnJqNnI1LWhSay1PYlpHaGZmVXJic010eXRQU1ZoZllvNTnSAYcBQVVfeXFMTkNzbVlPd0NGOWx2eXdkSzlqalR0dTNOS0ZHT25CVFAzV0xYdmh6UUZQenBOaDF0OVpTaV84M3dZamV3cEdUV0VDcmtOSjYxNXBRM3RjeU9wdWNGVjVHbTFDY25td2duM0xXRlVKcEpoWF9reEtfb3E0NEhRVGVCQXBfTWdZMldz?oc=5",
+      "publishedAt": "2026-10-21T23:35:38+08:00"
+    },
+    {
+      "title": "Moldovan table grapes show good quality and larger sizes",
+      "source": "FreshPlaza",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0Y2X0NUXzNjUjVia3NmWksyMmR2Y3JFOFN0UUJmT28xZHp5d2FmOGtzaFlwUl9DNHMzdjhvQUR3RHJmU1NfaFNIT2JaaVoxWHF5UnNIcmc1UXJMd0VfZUEtV2hjcDU3WmI4LWtCdXZoWUtGVXhKYjQ2b2t2cVRWV0FpOFVVNlNZVmJLMzhWUmRIUW16aVVuSU55a1V0TWlLLXlyZnJqbWZmTUExYk1oNVJSajk?oc=5",
+      "publishedAt": "2026-10-21T22:50:43+08:00"
+    },
+    {
       "title": "Hungary Blocks Ukraine and Moldova’s EU Accession Progress Despite Diplomatic Breakthrough",
       "source": "EU Today",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01Tm1uRmtBOVZJYkpKeGZSRkg2R0hpU09TSnlFRDROOER3NVlOV0pabjI5dWFvTmNjVTJYUVVoMG5nYnladGxNbVFRSlY5YnBMR0NKV3owMXJ4S0NfOVRESC1HMUZXSzJZakNhSnNHalJWeFNkWVJ6djVhQmpnQQ?oc=5",
@@ -40,42 +76,6 @@
       "source": "SeeNews",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaWh2YmFndml0b0Z2aG13QmRSZFlhUFg3a1BTdXhkQU0tbnNNR2ZqR2hCNVlCb21IUUF6T0did2wxdnRIWDFaNFpsTzNiR0VvaGVVS1pSSXN5OXpVVE5CUnNKdnhTcHhxbmEtN3otWGlVdVZveExYR1drTDVrRXY1RnI3REhnTWlxZjVXUnluX2xLVmFERmRQUWNYVWQ1M3Q3MVM4djhmWGE2bXJzajVNRXNoa2IxVDlwbUE?oc=5",
       "publishedAt": "2026-10-21T21:44:46+08:00"
-    },
-    {
-      "title": "Moldova Pulls Border Staff From Ukraine-Side Crossings, Eyes Relocating Ukrainian Checkpoints",
-      "source": "Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5JSFlUenhNUS1VRTJORTg2QU5KbElYalBZQmFiTXoxeXU2SXBud2xhVlU4Qm9GVUg2Q0REMmRIRE80Nm00VlhVSE83QQ?oc=5",
-      "publishedAt": "2026-10-21T21:34:39+08:00"
-    },
-    {
-      "title": "Ukraine and Moldova to Open New Dniester Bridge by End of 2026 - Oj",
-      "source": "Odessa Journal",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcDhVcWVRNGlTVWRwd1pKMzI0RHZJcGd3WlhCOGU1cFhkREdYN3MxTDVhRFFrMzJ0alpOV1pmZ3NoWHhxTHZtZG9ZcGhCRXdWaElrZ1dyV08yVzlnWnNxV0F5MVRmd3RJNFltZVhGVk10NkxiSEZGWTFpSDg0VzFka1hLdGp4Zy1OdmFHaEtOanYwaHMyTExKVmFlSThwLWZncUNVXw?oc=5",
-      "publishedAt": "2026-10-21T20:59:22+08:00"
-    },
-    {
-      "title": "Moldovan table grapes show good quality and larger sizes",
-      "source": "FreshPlaza",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd0Y2X0NUXzNjUjVia3NmWksyMmR2Y3JFOFN0UUJmT28xZHp5d2FmOGtzaFlwUl9DNHMzdjhvQUR3RHJmU1NfaFNIT2JaaVoxWHF5UnNIcmc1UXJMd0VfZUEtV2hjcDU3WmI4LWtCdXZoWUtGVXhKYjQ2b2t2cVRWV0FpOFVVNlNZVmJLMzhWUmRIUW16aVVuSU55a1V0TWlLLXlyZnJqbWZmTUExYk1oNVJSajk?oc=5",
-      "publishedAt": "2026-10-21T20:23:24+08:00"
-    },
-    {
-      "title": "The Russian market trap: why Moldova’s cherry industry Is advancing while Uzbekistan is falling behind?",
-      "source": "EastFruit",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPZjRteHY3WXQwY2FOdHZhVktoekpuM0tsZmR4QVhmQUFBd2o0QktKZHgwNjZMQVpZOTM3WHNUVkNmLVBuaGZUVk5RRkZuUmduS0tXZEpPVWhDS3FrM1dpYU05X05qRnZKRm40UFIwTDNwVEd1bm5UcG12aVdjeEhfM09VYURNTlBLZzVZWFRGMDZVSGMzUXRiMzA5Q05wRXFkYlRXTnFoYUdFNXNBNTByMHlGc1ZHRndMTTkyRkl0QThkUHF1aXJjeTE1MGdvX0xsSEdIUldSelBQSmZrclE?oc=5",
-      "publishedAt": "2026-10-21T20:22:10+08:00"
-    },
-    {
-      "title": "Moldova breaks Guinness World Record for ‘largest human grapevine’",
-      "source": "The Drinks Business",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHN2R1ZiS2JkeGtiLUx4RWVwRGJWQ3dBR05xRThNRTg4WGNRd29YZ1hORWlrX2xfOTcxREtWcVMyZXo1dWJlSC1zcnVVbDMycGRYcTdnZ2NSR0NhVG1jT1NOX253RFNxQ0daN0tabzZvU3kwbTR2NFd6SWE0aEItQnJHS1VtUWhleXJwSUpGZy0xZmdQdXZVSS1DZVpXeFZxS3dFdWJwbEs3dW8?oc=5",
-      "publishedAt": "2026-10-21T19:59:01+08:00"
-    },
-    {
-      "title": "Ukrainian checkpoints may be relocated to Moldova’s territory",
-      "source": "RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSGpPVXZ0VklIRkxNdTBuUER6LTY0ZW16bmctNFJqS1hIcUQ0aUFURjBpU2piX19GNzVuQ2pReVFwWk1nM2U5TldWcTVEb2EtZVo1RWtwTy1pWDlZaE1ka2ZvM1RVOXNEZlRneTVqYWRyRFd0T1NaTFJCQW5GT1ZuTXZ1Mk91M0V3QkhkM1F3NmNiaDg?oc=5",
-      "publishedAt": "2026-10-21T19:44:48+08:00"
     }
   ]
 }

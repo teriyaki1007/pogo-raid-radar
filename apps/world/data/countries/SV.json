@@ -1,7 +1,7 @@
 {
   "iso2": "SV",
   "name": "El Salvador",
-  "updatedAt": "2026-10-21T23:12:22+08:00",
+  "updatedAt": "2026-10-22T05:03:11+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "El Salvador's president says military operation launched in Haiti to retrieve missing UN force members",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2Q4N0JVWVZfa0hodDBQcGJPeWpYTUVBWXl3SEdMVzhUT25ZZlQ2dm5GVXZFbjF6X19mdnRhbUM4QndacW9BZGJwd1pNMEFFSjl0VVBLT0c4NTN0QndvUDlRNERSUmk4cVRTWGdfZXdseFBBOWlhdFZUOERBWExZTXhsRTZuQmI5UGlESFJIMUk0cW1CQUU1YnBKNlVKb01zU2lpRA?oc=5",
+      "publishedAt": "2026-10-22T05:02:44+08:00"
+    },
+    {
+      "title": "El Salvador says Haiti gangs holding 4 force members hostage, announces new rescue mission",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXFZb1FxUlowcWMwdURfWXIyRlQ0Q09mOWltdHd1bVR5V2I4Mlg4LTNKbmNCQ2RURk90MjMwVXlSRFYxZVJ0ZEJMN0JMRlNiNS1qOEZITmtNRjdkU204QUtEV2ZkVlEzdUR5T2pHSENXcjFzN0pkelBfRV9DZXE1RU9waFlRVVJLYXcwcnNnZ1RFelNwSW83ZVBLRE9YbDdLblhveDJwTVZic1RGOWMxWUZhZ3V2Y3JLa0tVdUQ4VzZjeVk?oc=5",
+      "publishedAt": "2026-10-22T04:10:21+08:00"
+    },
+    {
+      "title": "El Salvador screens passengers before arrival with the SITA data platform",
+      "source": "Aviacionline",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOSndRUTUxTVRoVk9NcUNYQ3hXcmRRT3FXN3IyQU5xM3lIdjVpWEI0d2xSSlNBLWFRRjJ6cVNrVl92eVNQdWh6elFXbmJBMXNIcERBVkRmODdRR0oybjBxX3U3eW1GWW10STduakVkZXQ4OFdvdE9oUng3VHhaOFA3MzQ3Z194dnpUX2lJa2VXNGRyYXZqR3JBTVNISzFXMlltNzVTbDNqdnIyV2RCLXlGMDNjWU9IWmYyRS1SWlY1NkE3eS1TcTRRelJJUkY1bE5paktwY0dLRnl4RnFQTFR6Y2tVaVhvcTlza2t3ZXkyd1RsTnB4ekVqcWhYMzlJOUJMRF9MYnlBMjdoMTQ?oc=5",
+      "publishedAt": "2026-10-22T02:39:00+08:00"
+    },
+    {
+      "title": "El Salvador Release Plan",
+      "source": "Post Register",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeXRObVF5MHh1ellMOGNRa0VxYXlHVlNaY01rTzM3TmgtN0k5S1ZtY2ZTTEdJZEtkWFFiNGhyRi1KVVRZME8ydkhHRGR5NFJWU0lmckZvRTdhWGVCVmt1T3FCdTlta3c0RmxNYldKcEJHanV2akpIdXV0UWFhX1NYODdkSXJKbGtPVG9yajlnczNSc1dFY1NDNUFvZW52RjUzM1Jnd2psZko0bnpvREVzWjdn?oc=5",
+      "publishedAt": "2026-10-22T01:45:13+08:00"
+    },
+    {
+      "title": "APTOPIX El Salvador El Niño Drought",
+      "source": "Goshen News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX3Q4N0tzYTVjZWc0ZHpkTi1rVkVzRXdibVo1aUxCOWZrZmVUUTJXNS16MFpneWRCR2hiTndQRk11UU5icm50RG56U0pvRlY0NnhWS0R3RHpfbEZkQ0ZkNHliUHd5Rk9UUmFkajhZU2JQWVNzNGlnT0pOWWhtdWRrcThqQ1RpZk83VDJqUGM1WkJIVVZUREtQbFJGdldBUTFxZ2FJeXNNR05YWHl0WFZsNkhrbV9jWU9fV2h3WkMxbHVESTRPMUtQRA?oc=5",
+      "publishedAt": "2026-10-22T00:20:36+08:00"
+    },
+    {
       "title": "‘I never saw my son, until they handed him over in a bag’: inside El Salvador’s brutal crime crackdown",
       "source": "The Guardian",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMVY0OWdpMXdabktuVGlhMUo1bkQ3ZzM2V2xjWUw3TFhtQmxHbXduREVETHZuc3pCem5Lb0ZzcEtVTzZOSERmWXRaS3pKN1BVOW44Mk9JQ21qTXdXZklHU2VFT3JLdE0zMU50MFNFM0t1YnF2ejhkWFU0RHluQVYxWDVKNTRoaWlkRWtCZXBpa3pHaUYyVzdlNWFjNWtkY0htSUIzZjRoRHB2UXpKYVdOSC1mckFCQVRqcGRMRWZuaFJpenVGc3NuanlzT1VlanZFTXZ5aGNnekFpclQ0?oc=5",
@@ -43,39 +73,9 @@
     },
     {
       "title": "El Salvador El Niño Drought",
-      "source": "The Herald Journal",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbDBCYUg0eEdlRVBwcV9kMU5YcXdGMmprajdyNnktT1BrUFlyLW0zLXNFb0t1VzA3Z3FzYjBMY2U2ZDhTeXl5dHVpWWdkcXRKMlB0bm0waGZvdUtWU3pnV3dxMFE0OVhGUWdvcllLWFFjQVFYc2dhOUdYanpSSFE4M2NiWi1qX3FZZUkwSmlWMUI0TDlVNGIzM3NVMkZtTGw0YnZzSXIzNA?oc=5",
-      "publishedAt": "2026-10-21T18:00:27+08:00"
-    },
-    {
-      "title": "Egriselda López, Ambassador of El Salvador to the United Nations — Statement at the UN Security Council on the Question Concerning Haiti",
-      "source": "The America Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQLWNuT05lTk5zUWVjMUZESDlxYW8xX0pQSnozbFRMWFNYVGwwdHJ5QWkyRWk2ZmpjQ3ZudXM4TmJUcnVjX0w1UVZGdWRYQ2tRRjl6OTdfMnNUMDR4WGJwWFZoTkNRbEgxSzg4NTBhc1N0TTZlNmRuMVRJS1VIeFNGeXF1ZjAzYU40ai1zT3FCWkwySHVSTGxNT2Fhd3JobGRZbDhGSGdja3U1cEdCMGxVV0ZaS011ZXlVSmpoTkdnTEJrMzFURWJVZm5nUFdFS0JvM25xM3dsckJFNTRnOFBPMVVSeHQxZUwwNU5JTmtyVkszM2ZUbGt3?oc=5",
-      "publishedAt": "2026-10-21T16:48:45+08:00"
-    },
-    {
-      "title": "4 troops from El Salvador missing after gang ambush in Haiti",
-      "source": "BNO News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaldqam5QTU1iU285SE01cUxRSVZUS2hvTUhreXZta0I1M2lPc0hRMThMeE15dWZZWkFGazkyQzVsdjBwUW1hcmtlaUtwNzNQNzhNWk9YQjFJamtib2E4LTd2bzhLcWQ0Rzkzdy1LNXdHdTM2bjdHbm5oWlRSakZwZkpTenh4dUpxWGdjU2ZWWDVoVFZhNzJUaExKeDRYWWln?oc=5",
-      "publishedAt": "2026-10-21T07:52:11+08:00"
-    },
-    {
-      "title": "Photos from inside El Salvador's notorious mega-prison",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPamM4NVdsSzZWcjIyS2lvWnljZ3lqazBhTjdhaW1nN01Rb002NGlBRVRadzNxUDNjWS1zLUVSZ3VFRmRCdDljM0ZWalE2bW5KclRxXzRsQ1RJYkJuRmc0NnpGU2RzazBlbmpXTDdjRTJnMW13d0VETVR5ejNvUm1TeUFtemM1X0hUcmpwbUtwczVfTi01b2E5MA?oc=5",
-      "publishedAt": "2026-10-21T02:49:00+08:00"
-    },
-    {
-      "title": "Five Salvadoran Soldiers Missing in Haiti After Ambush",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ2c0Uk1WaGQtMlNSQU5BRWpJZlk3aGtWQTRSTW5jZU5kQUNhNlRaVVBsbjA5OFExRkppb21VVE0zUEdtd1FtZ2l2eXp4clNxUTFDV0xYM05hVHVRM0VqQXdodjJnZU9uQThRR0cwemlPNUpkXzBHS1ZwWmZBWGsyRFZTVDVaa01ySGQxVWdGbk9uZw?oc=5",
-      "publishedAt": "2026-10-20T22:49:00+08:00"
-    },
-    {
-      "title": "El Salvador to process traveler data prior to arrival by flight or cruise, first in Central America",
-      "source": "WebWire",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtMGkxcDdnQU0xdE95X0hUQ21EeGpXbHZlV3FfS0RDMmVjaVlrYkk3dEhNQXdDbGtlenpabWtIQXN5SXp4YlprbVRGbjFjTWxZV1lTZFlRZXo5S0FtOEhSTA?oc=5",
-      "publishedAt": "2026-10-20T21:47:08+08:00"
+      "source": "Post Register",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOczM3WjBWLWdmQTh4ejVuRkU0QU53OWs1VUlaMndwRXk3YXhVZ0pmdk5GeU9sOXR0UWVMS1Flckt3cUh5aDJscHhGREZGcHJ1V2tXNjQ5ZmtMMFFtVFp4ay1WZEFxbW9Kbkd4b0c5Mk8wYWdxN3hTeXNaWnpfQnV0M3Z1Smw3VXpIeDRCSnJUdHI3OV9tZkpvS3dZTXQyVm5fd1R3UjhXY1hQaHo1SjFGYlFXQzFOdw?oc=5",
+      "publishedAt": "2026-10-21T18:00:28+08:00"
     }
   ]
 }
