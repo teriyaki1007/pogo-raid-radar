@@ -1,7 +1,7 @@
 {
   "iso2": "HN",
   "name": "Honduras",
-  "updatedAt": "2026-10-21T17:11:00+08:00",
+  "updatedAt": "2026-10-21T23:12:22+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
-      "title": "Honduran farmers struggle to feed their families as drought destroys crops across Central America",
+      "title": "HONDURAS: Los agricultores tienen dificultades para alimentar a sus familias, por la sequía",
       "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQai1TRVhjNERKVVBfZGVheC03QndMRldxdFZWUXpJRGZaWXpQSTBEbWZ6T05MMS1Cc21vcWNkYnQzVTJ3eU5ZRjFlN0lWMVgzVVJaWk9EQUdORVlYd2VFUF9zYXBJM2NSVHZSaXFTMUtVYjI4Ulkza19hemdBR21pcFNvMEdXaTlEeHlBaW5XMkJ3eGxSSHJ5d0QyOXZIMVhpU2Q0aG9vWXNNZW5Hc0J2QlF0c0lIV0loVmxONG5zNVNfT1NFNFppVVIteTFtbi04R245SDhLSS1XMlpSeUFqeXBHNkM0N0pYV1Bj?oc=5",
-      "publishedAt": "2026-10-21T17:02:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRnhnREx0cFlOY19JSkw5a0hCS0dvX09EZjcyOHdXOU5aM0V3WkU2RHVWRWVGalpIY1VQQnV4a2FPcUJLcnFtYkhhNDItQWVaYnNuLXVTOGwyQzdlZDZDX3AtYkpqQ05rcHkyVlBHdWE2d1Rsc3UzOHYtQTZoNnFfbjZkZFJYSEJYdmstenFoU2ZvUkFjSzliY05NaWJZdk5hbDRMaGxHa2dQSFByRTZKcWVORHRkRldlR01nYnY5Y2tjeFFOb1ZkbFJnYkw0QzNsT29UOEVtZHFvSzNFUGN0dA?oc=5",
+      "publishedAt": "2026-10-21T22:46:00+08:00"
+    },
+    {
+      "title": "PBI-Honduras explains the application and selection process to be a field volunteer “brigadista” (application deadline: October 30)",
+      "source": "Peace Brigades International-Canada",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWWZwbncyT3ZhTUU2c1FFWjVMakFHeUFLM3hkaTA1XzFOM2pZN0F4d3MtMHMxeGg5NnNyYW81ZUh2Y2hiWXlzaHFLYWRpYjJUNk5HWFRGUzNtbmFlN2lOb0RzRVpOX2IxdnlGLVE2clgyV1VkdkliZVhKSDFYNmpFZFZ6MFBOcXNQUWhDandUa3hqSEYtZVd4QzhERkJpenFDNUxHQWxWa2VOaUhFaEdieVFQZjc5c3piMHdQMzE5VTlENndJYWZiN09zZmtMbW00cU5iNW1wcGdxX1Q4R0lPVnlETQ?oc=5",
+      "publishedAt": "2026-10-21T22:07:03+08:00"
+    },
+    {
+      "title": "APTOPIX Honduras El Niño Drought",
+      "source": "Goshen News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWFktMUNsQlQ5N1NlM1ZlYzN0THYwa1pWN3JaNUdKMlloTzhWNWwwS1o2TUNLWXhZMEZmTk1Ha0dCRXlMall0dlhpR1Z6dUM0eHVtOVJkU3Y2d2t4VHR5NE9zSHlUN3pZOWI0amEwREdGa0tSazBjS2VhNGZpRi1HLUZ0cGZZMjFKTl9YanBsNmlfdjNFYWV1eHIwOV9fLWtHUEJtV1NUSXJwVmc4SEJSU3lZMjVNVkphYi02cXJ1c20wMm1B?oc=5",
+      "publishedAt": "2026-10-21T19:35:36+08:00"
+    },
+    {
+      "title": "Honduras: Peasant Movement Warns of the Social Cost of IMF-Backed Reforms",
+      "source": "La Via Campesina",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZlEyLWt2WDg2ZU1Nckwxd2pjd3N3VExQbmJsSk1xbUVRNXJ6b3RZUktXc0l1Y195WEZCZThNTTJJYUI5b0EwdU1XSHNva3FKcWZad3ZGS2VnT3p2LVRmRHYtQm0tUUVxM0kzZ0VGSkplcFVhU1A3UnBnX2JyMEl3ODZwYnQtT0lMVHI4VzNuNkJiLWdlQ25RMU4waUJJSWkwR1FGeVNlYjJsNFdXRkE?oc=5",
+      "publishedAt": "2026-10-21T18:28:49+08:00"
+    },
+    {
+      "title": "Honduras El Niño Drought",
+      "source": "Post Register",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa2lzenEtUmxLdmVIZ0hVZHZWZmhWQ2FqU3U2NWU3VERPV3g2NzRiRjJreElBcnZwWGpmTkRXMk41YV83UldTaDd4Z2xlNkdxaUdUb1dDYldlZFdadTlPbUN1MVpWdlExUEFBaWNqTl82TFNmdXZzVUg1S2c3WVRkU1lVSDVkdmQ3UnFvTmVPWEwwTTNPTC1FNkJLYms2T05vLUMtZnI3X2lVeEhRYmVVUHJn?oc=5",
+      "publishedAt": "2026-10-21T18:00:28+08:00"
+    },
+    {
+      "title": "Honduran farmers struggle to feed their families as drought destroys crops across Central America",
+      "source": "Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYUhVTWhlVXZBN3djRHVoUG5aSkhBUkVBVHdyM1hUR21hQk1wS0tjN1ZCRXQ3VldjN3Y0Y0xKdHliWHlxaHplMk90bjkyb3NEYlR6VzVyQkxkNFNXUnJrNVZvaDJtLWdRV1VBZkJLNkZHOFloQnhSbTdHOTJ2V210QUUyREF4Ylk?oc=5",
+      "publishedAt": "2026-10-21T17:02:06+08:00"
     },
     {
       "title": "Honduras Congress Approves Funds for Maximum-Security Prison",
@@ -46,36 +76,6 @@
       "source": "Fox News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX3lvV25WR3JWZWxKZmg1VmpNM2cxTnBBZzl5eUZ4MFVERHRGQWMtdWNLRUlEcGZnUFV4Z1UxLVRaZXIxbDEtQndhWXk3NUZOX1BsY1NWbjMyUWN6b2M5bXE5Snh4RElnV3JRQmV2bjBCb1N3Q2U5RE9vVEtXYmI2aGRVQmlQeWZXal9iTHM5aThhbzNKQW53eW4wTllnMHJ0STVXNkRMMVRwU1A1QnZ6MnRpVlQ4LU3SAbwBQVVfeXFMUERtaC1TVjJ2d3M2SlpwLV9MamMyUXM3bEVKT25BbmdCaU4tR3dNSE1oNXh4eXB0NFQ3cjUzS3VsWGk1Zm96TTFFeGRqamxhVXRhTXM3RkhJZ0EwYVBMM3JIYllmdXJBNjJVUWx6Z2xTSkVyWUhKbXZibEhSU3hLU3JjeVdrN1BUSEtDcHc4SnhsZGp2NVNlV1UySkItSTdwUV80QnRxb2N0cWJOcURFcXZKMDdwV2tNYUxuLTY?oc=5",
       "publishedAt": "2026-10-21T08:56:23+08:00"
-    },
-    {
-      "title": "Illegal Honduran migrant allegedly attacks ICE agents with hammer during NJ traffic stop: feds",
-      "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM3JWU19oMm9uYmYxd1B2WkZkb1BBeWdTb1JZUmlhZnhUd2l2Sk5oYzE5Yy1kUjF1UHg1RzMtaEVvRURIVVYwbzZWb1U5aENUNHNkNWdpUVI5V1NOR3JqVm95Y2c3QUVUU0JZcFBEZnE4M2JzVy1tYVJtSTJud1A5ajFXeURTaTBLcDJEdXY1ZnQtSGxGU3drM09Ra3paaGZrS0daTlBmRWFaU3c4eFhZdEJVRjFLTHdCQ3NvMDQtZFdlNUZhMTJ2bHpFUFA?oc=5",
-      "publishedAt": "2026-10-21T08:51:00+08:00"
-    },
-    {
-      "title": "Inside the Camp at the Heart of Honduras’ Garífuna Land Struggle",
-      "source": "InSight Crime",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVGM2TUNSUXhHcEtVdHI5cjRPQUJ4YlBMbE9scDlBbWpiYTI2cG4yUF92LUIwNVhLYjhMaXBBeTc2UXNkcU54dHdRRzVRb21STmxScVIybzI5cUYxQU51YzRlQjlvMWs2cjhqNHZTeVEzZDdOY0RtNlJ0SkFXdnVnc1RXcjFoUTY2TGFoc3RmOExZT3VUZzdUdk9R?oc=5",
-      "publishedAt": "2026-10-21T00:39:08+08:00"
-    },
-    {
-      "title": "Viamericas Adds Banco LAFISE to Its Honduras Bank Deposit Network",
-      "source": "Business Wire",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZFU2eEJKODVOXzBUS2JnZ0R1Zy1kd1hxbEdDeVh6UTZITDdnRmo1UUFXOF9sdHdYaHRPOU5WYVFfUGtwY0NpSkhoU0Z3NHBKRDN0ZnYyUVpycFZQcllGTnZ3bVdqTDhvUWk2VTYyOE1BcXE3eUNzdlRXZTVUalJvRXJPMTU1RE9hcXN4RzJFZTJ4dkhEczRNWFROMGJrTGtTa0c4dU8yNWZpVUgwd1Z3cGJveWtwdVppcHhmMlVJdw?oc=5",
-      "publishedAt": "2026-10-20T20:31:00+08:00"
-    },
-    {
-      "title": "LIDERA: Strengthening Women’s Leadership and Political Participation in Honduras",
-      "source": "ONU Mujeres – América Latina y el Caribe",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSGczMDlJY2YzRVpWemdWbDNYY1E2WkZBOWsxT3I0eWdteDlwb0hUOGJnLTBvX0FtYVF5eGR6ekhUdUhvbEFuZGdibEJLZWdkMU9vOVc1U05fMllmZy1CdUFMRlJqLXVqeG1YNkFTV1NjXzEwRnFiaXNTSUVqemJLY1VCMHlFcXhsejR0c0ctQUcxTmNERzNhdl9JWUpxVWxydzZubXlVbHBRTWI0MnlXX3dCR0NmeFpwZXlrQXlNWjV3U08wWlF2WHhjcENVRkltZnhTNHRR?oc=5",
-      "publishedAt": "2026-10-20T20:00:00+08:00"
-    },
-    {
-      "title": "Honduras Leads Maritime Counterdrug Effort During Operation Barracuda",
-      "source": "Diálogo Americas",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTGJEXzNMSkNoVG5mdllpcUZfaC05WHhqdVJvUS1sWTJReDZOS0IwOU9BVTdxNkVnd29ZTXJpdFNkZ0RfYkNLdWhBM2xGcFVFQ3p6d3ZFeVVyaHFLUG03SFdCeno3MzRxLUdNMFBQcVlPSW9Rd1RoVm9xZFp2M2NCNWxaSjBDd2Q3Y21kYVZMSHd0TzlFVmpSUHk5RU0weHhlekdLcHdQWENHZVVD?oc=5",
-      "publishedAt": "2026-10-20T18:00:57+08:00"
     }
   ]
 }

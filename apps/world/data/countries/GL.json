@@ -1,7 +1,7 @@
 {
   "iso2": "GL",
   "name": "Greenland",
-  "updatedAt": "2026-10-21T17:11:00+08:00",
+  "updatedAt": "2026-10-21T23:12:22+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,7 +30,37 @@
   ],
   "headlines": [
     {
-      "title": "US military looking to expand Greenland presence by next year",
+      "title": "US Eyes Greenland Military Construction Next Year",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONUtCa3dMV0M3R2JyVWgyUE9uVUYyVHBDeHFHaVpkTHdRY0t5dnllMWtteElJWFQtRlF5VFRsZ1ZMbWd0NEo3ZjVOczM0LUN0N1dienZ1TFlKNmxHdzBSZUZtTjlmMzV4M0hlVGZIRFM2bFRJX0VyazN6UnhYOTZFcEtoZFlzYkR2Nm1aQ21wYlcydDFxY3VVbQ?oc=5",
+      "publishedAt": "2026-10-21T22:33:42+08:00"
+    },
+    {
+      "title": "REG - BlackRock Group Greenland Energy Co. - Form 8.3 - Greenland Energy Company",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTFBnb0JJYW1TQ3E1cVBvVl9VNDVMQ0pnU3VtdjJjMlRwRGNQUVJGUTRaLWxJWHNiSktHVXpFRXM2WUJNM05pcFNVOTF5WlplUjdqNnVJRlNPZXlUWHRLc01WbUdRdGUzakhENkEzTGp3cEZhV3B6Vzg4bnhhZldoWnkzbXB6aVczS2tPaHdjNjV6RktETDVNQW1uUENhLXhLTWM5S2hVaWFicXYycERWT2t1RFluMk9GYnJYeGI2TDBEcm5XYU4xZTBsRUJSclFOUzhWUDJXY1BKMl9XUDZzODhEQQ?oc=5",
+      "publishedAt": "2026-10-21T22:20:01+08:00"
+    },
+    {
+      "title": "Migratory birds spread avian influenza to Greenland’s polar bears",
+      "source": "The National Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQl85NHgzWjVrYkVrcFhCU2hxS01VY0FwWENYMWdXZVhDT0dScm96XzlaN3lwLU1jbTR0Skt1Sy11cTFFT3RIdHBKUFEzaWdYMFVDOHc0YWE4eGhOYTdFNEpjNV9YSkNaUmlWZkxWeko2MEpsZUR1bDNEd3hnVjE0c3NJd2ZZelVIUmlCVmFlSlBJYVk3LWc2dFNPcVdYWmdpT3ow?oc=5",
+      "publishedAt": "2026-10-21T21:21:33+08:00"
+    },
+    {
+      "title": "Trump's Disrupt First, Negotiate Second: Greenland in Focus",
+      "source": "RealClearDefense",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYXlBV1FzTUNZNjN4aTVMNi1hQVFwWEFreEx5dXBHNDc1azBRTUlFYndBOGhJUF9kbjNqMTl5NlNBSFJhVDF2X2FZVTc1NzNKa1FtZUswVTEzRWpWbk01bGtZb2hVWUY1MmJqZmZQOGtGTElUWEdDTzBOajMwdjRwNjlMZ2xDc2RtRkI5aEpnZ19HbjdCVkZ5NTJyeGRlczIyV3A1N3NLLUN6WUg5VFBkVVd5aFloYzdDNExyaGFYenJmUQ?oc=5",
+      "publishedAt": "2026-10-21T18:39:51+08:00"
+    },
+    {
+      "title": "Former Royal Greenland exec to lead retail expansion for UK branch of Malaysian supplier",
+      "source": "Undercurrent News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWGtzSGNLNTNKR3hJckx5b3FpTzhFLTNISzhDWTJEUHladzJRRm4ydFZWdHNJVWhxYWg3cGdHTFNqZDhUS0t3elJKUDhPX1ZTOUpRZmxSanFEYk83WTF3RV9rWUN5eUpwQmFmWnhURzZlYWF6YVdkM3ktLWNmcFBWTDBlc2t5SDYzYnBYM1RYd1ZWZmQ3c0FsRnFHR3B6cHR6d3pFTENNVkNNWVNaZG14dmVqVVZxZXpmM2hzUHVLZVg0d3dsZ3JLS1hhQjhKZw?oc=5",
+      "publishedAt": "2026-10-21T18:12:00+08:00"
+    },
+    {
+      "title": "US military looking to expand Greenland base presence next year",
       "source": "Washington Examiner",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSVVMMmcwSGtHX00wV1kxZEozVHRmV1ctS2s2VklqRzVINGVpSzM5eHJ5cU9qVlpCbVhGUUpPdF9ZTl9HM3BkV3ljZkdWeVgxWlIxYUUxMDdRQkhWM1dfLVA3d3hEWUluU0FRYlMzcGcxZU9BV2RVNFpDcHI4aVNfdC1jd1NXTkVVS2FVLXlzYTdIa0ZCc1JpR1VaY2daZjNLTEUwQ0lB?oc=5",
       "publishedAt": "2026-10-21T17:00:00+08:00"
@@ -46,36 +76,6 @@
       "source": "Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3M5cGRpb3JtMWs3MlJ2eXkyYndDa0tiNF9tbHJDTnhicGJiVlktcXVEbW9mNGYwU2d5TFJyZUdsLVkwSTZsakdIRWNvSkgySGVsejVpUTIweDZ3OFdYcENfNEc1enhMcXhxMmhWWlpkOWRSY1VmZDNicTZJU19haEl1Yw?oc=5",
       "publishedAt": "2026-10-21T11:28:14+08:00"
-    },
-    {
-      "title": "Forgotten samples from Greenland's Cold War base reveal warmer summers during ancient ice-free period",
-      "source": "Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yc0xDbVN0UjhtZXVtcWhxUklOdEpqc0Z5X3RzN3BnM3QxbHpGUDZTLWVqUEV5N051U3EtUF9rejk3ZkNYSmhZbHZ4ek5EdUMzTk1ybUYwSEJsTlBPOXJyc0h0RmRBODR6OWppSnFUams3UktsTEJMZ0ZCVQ?oc=5",
-      "publishedAt": "2026-10-21T07:40:01+08:00"
-    },
-    {
-      "title": "Greenland Mines (GRML) Begins Trading on Xetra to Expand Global Investor Access",
-      "source": "NewMediaWire",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPNlJOcHltbGpMUkUwczVKS3R1dklfY1BsSXFlVDdGRUtaTEd6Z05VLUhxSE1GS19kWHVfLVU3TWdFUWpHRF9OWlkyblZKRVdxeER3OHFxUzQ3U3ZoRk1ua2drN2ExRFBaYWhMT2NQRWJDY2JNb2tPUUdwWXJfSlRJWFlxTUZGMTA5U0dtMkdCYmwtYUpoM2VReEw1QkdJOHF0X0VqSzZPekpUWXpUYWF6MG53a3g4QlR1bjZz?oc=5",
-      "publishedAt": "2026-10-21T03:34:50+08:00"
-    },
-    {
-      "title": "United States, Denmark, and Greenland Amend the 1951 Defense Agreement",
-      "source": "American Society of International Law",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaEVoTzZqYmlDQlF4YXBwY1pQLWM1akRiSWg1dG15dWw4Y1k1MFZGYmh1WjQ0d0t0bkdxNzk0VHU5WXQ3bUZMZlpBM2xaRUJOOVRJdm1qc0l1N1lYN291WmFKclFEcG1ub3MzSy14eVFnRlNISEZTM3FBR0ZNQk1aMGJiQ1pldS1CVEVXcXRnNWdQZEZ0YlE?oc=5",
-      "publishedAt": "2026-10-21T02:51:29+08:00"
-    },
-    {
-      "title": "Trump says NATO was \"nice enough to give us Greenland. We got Greenland.\"",
-      "source": "X",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56LTNLOHZCOEcwekI1ckswWDNWa1ZSZmpvekhrRWtURE5MeHpFVlVGbUNrdzdKYXFrYUtXRkhxaEY3cGwyMGhSYldPWnlWdDNtZG44dlNMQ1RtNGcwaXJMX0JfZGFpNnc?oc=5",
-      "publishedAt": "2026-10-21T02:44:54+08:00"
-    },
-    {
-      "title": "The European Union stands up to Trump's ambitions in the Arctic and strengthens its presence in the region: \"Greenland belongs to its people\"",
-      "source": "El Constitucional",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQSnN4bTZpaEFHMU1PVTV0V2pxWVNxd3pYVV9LSkFnYXFaNzhUWUt1X2ttU0F3dS1KM1FVNGpKeVlJRjVldXNIU3piUmM2MUlOYXBZU2RSUFhldzJaalpQUFZSVlZvb3ZMN09sVzU3Q0lhNXlUZ1ZDUl9BOWxrcUdWckpyU1ZjTEZVUG15QTNaR3NrNzlNdkdsZ3V1YjdyMHZ5Uzl0Y2FiMzk0OXhsdmFHMkZ6NmhzZjBZbmVkRUF5dUZHNjZkRmJPWjVmWXJSanJoRzlUN1c4SHpBYm9SYS1qYUxpM2FFV2tpSGIyMTBFa0JkRVNQQ1U4UEtZc28xZUhwbEpyQ2RVOUJheG5uWm53d1ZmOXROa3liRE1pNkRtcjlBRnYxSEE?oc=5",
-      "publishedAt": "2026-10-21T02:35:34+08:00"
     }
   ]
 }
