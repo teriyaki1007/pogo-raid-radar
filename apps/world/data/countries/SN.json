@@ -1,7 +1,7 @@
 {
   "iso2": "SN",
   "name": "Senegal",
-  "updatedAt": "2026-10-22T11:04:08+08:00",
+  "updatedAt": "2026-10-22T17:11:06+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Local identity inspires Dakar 2026 podiums",
+      "source": "Inside The Games",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSnE2Q1ZuRFdyVVotRERoNklsZkR4S3ZvcjRsTk5IQlc2RkZzeUFfZ3NxdzVqczg3UXgxbC1mWUQwbVgxTTN3cS01Z2RwUERzMzUxLXRVRWVyd0Z5VW92eVlET29UdmFmXzBGa0NNdDVIZHZ5ajJ3bVlsRXFOZXdYUGtjQVJGT3BSN3ZfOVNVR2V6TDQ?oc=5",
+      "publishedAt": "2026-10-22T17:03:56+08:00"
+    },
+    {
+      "title": "Senegal’s Sall quits UN secretary-general race after Security Council vote",
+      "source": "Peoples Gazette Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWGRKU1pzZ3ZTZENmelFzS1NDWkZaQ3Y3SUFmTTV0N1BmdHFOQzQzOHI2eVdVQ3pTUjFqaktPcmxpaTZ5VVdzRVVDLWRLdERwUGZwTXlnaW9NaE5yR0tXZlRKemRMUnlxaFJhRFlLaTFVdFF2NDVwUlBrZHJ0Mk4xZzllLXpmeEQxWEdUMFF2N05ibGRsZFFkN1VLUUdvQQ?oc=5",
+      "publishedAt": "2026-10-22T15:02:40+08:00"
+    },
+    {
+      "title": "Senegal unions press on with general strike days before Youth Olympics",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEthUTN0VGF6aGo4T2s1LW9KdlN5Z0FCbjhSS01ZNFBfd3MzT3BqU0NHT3lhZjFuNDZqR2FreEZEeUZTYnYzWlgtQ05ka19rQzhvNVdvNzJydGdldXdDQkMyMFVxTmVhZHM0RnVXbmNsSUJ0MlJoQzFuMEY1U0xyeGc1dnhmaVdNbUg0MXJjWHRlNXhmUmV5dlcxdzZIT1huRmYtcmw5RmdLQkFo?oc=5",
+      "publishedAt": "2026-10-22T13:17:22+08:00"
+    },
+    {
+      "title": "Olympic history being scripted in Senegal with ten days to go until Dakar 2026",
+      "source": "Australian Olympic Committee",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZjZzc1hsZElUVVJNX0htVUcxYU50NGJyTXRpZkNjZ2dMWmNpcTVfSW04Nm9hRFNTN3BXYWFSbWZmQmVXcE8xcGkyWlYwcm8wR0xYOWZhdm9zWDRJMm91RzdMSTFiOXFuT040c2h4dnkxQ3lNQ3N2SGU0UlJUTkVuZ2otSFRTdWowa05UYUFiLXFFWEJuQ2JqRUhJVDFFMkUyOXdDVFl5QXFGUkJVTUVZUkJ3?oc=5",
+      "publishedAt": "2026-10-22T12:53:26+08:00"
+    },
+    {
       "title": "Senegal seeks \"a place, an industry and a voice\" through Dakar 2026 YOG, says President Faye",
       "source": "Xinhua",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5IRDFWNlgzNGtPdVJYNzlmbzNGcVB5UnpmNExTaGxJLW1oZUgxQUo3Tkl3R0l0TjEwLXVKZEJzSmNRV0RISDF3eG0tYjZnRjNwOTNoQnJjcUh1Z0l6cTl4aGdvdEc4SWd5MDAxSzRSUjBnRVN1Q0NQVFc4V2s?oc=5",
       "publishedAt": "2026-10-22T09:21:15+08:00"
+    },
+    {
+      "title": "Senegal: Sutelec challenges requisitions by Dakar governor during strike",
+      "source": "Bénin Web TV",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT09WZkxCQ01Nb1hfNUpHZG5vQzUtZ3B2anZPS2hqNHZCdnJJcnhoMXRsanM1bWcxOG56QWllWlhtZUtxY1NLQnRuTTBhVGtCaUwyOGgxc2tBVXBRVktIelNkWWdESG1HUWxaYjFkdzk5eTBaSFZvLVYzbG1tOWRodm5XWjZXNVJCcWpVYTExaGFwU05BeUtYUndQUWd3dw?oc=5",
+      "publishedAt": "2026-10-22T01:20:46+08:00"
     },
     {
       "title": "Senegal bonds fall after Sonko opposes budget bills",
@@ -46,36 +76,6 @@
       "source": "Africa Intelligence",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOUZ3Q0RiU3F5UmdKN2ZMMVY0TFVBOUlzOV9yZjFPbTRueWFPNm1sMFk5N0RrQkVnalFwaTFZYUxnVzZsN2UzSzJ0cUpueXJWalZ6dV8ySU1yZVpVbkt3NmdhQUFldXF3V3RWVjVlMVdINDlqRGdHck9yS0ppN1Nsb0ZEWXBmRVoxam85SllWM3lkcE16TVoyWmtRV2JkWTlUY2hnRl82LUFQd25JRmM3cnl3TEVld0R0MFlzRWNreHRCenBJSGc?oc=5",
       "publishedAt": "2026-10-21T22:48:14+08:00"
-    },
-    {
-      "title": "Dakar 2026 Youth Olympic Games: Dip Doundou Guiss, the hip-hop artist who became a voice for Senegalese youth",
-      "source": "Olympics",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU0Y5d0R5a1VLQ09pRG5jdHJtbWpfNnp2NDg5bTUwV3RDY0pKZy0taWN5TUJyN2JvVVBMRXZfa0FicVRMU1dWOE1DTTB6OEFtNTdpeHdiY2U2U0Q0emhreGZfNFd1dUpfaXVyRXdXY0pBOVZtWGFqUVY0Y18tQ0h0aTctVXJmcFBHUDlOX3lVTWNCMG90UU9sX2lldkRrUnZPNlhudG94cXMxOVAtRklPbjZ6S0tUZw?oc=5",
-      "publishedAt": "2026-10-21T21:56:05+08:00"
-    },
-    {
-      "title": "Integrating working equids into one health and disaster risk management in Senegal",
-      "source": "ReliefWeb",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVUdBRmpPYkhzdUEwRDhfdVdFOW80YV9sakEtNi0xZVV3QUZtZnR2RTdRMlpOeTFVWTEwbkttdTdWOFF5YnNBQUdabS11NFZyUU5GVjZ2bV9kbmYxWjVUVVUyc0pGWmZ5UDVGVTctWjhqRGd3Vy16MUVUNWFnZmhkcDlYT1FGNlpraE00UkpyRmo1cVpYeUVQTDRlSWpwM3M2bWQzR1lwN1c2X2pDYjBtQg?oc=5",
-      "publishedAt": "2026-10-21T20:08:59+08:00"
-    },
-    {
-      "title": "Senegal Awaits November CAS Ruling on AFCON Title",
-      "source": "Oz Arab Media",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BOTJQQ3pXZnJkazAxVjhua3RzVVV2dkVaTlJ3a2NGQ0M5RXE3RVlSTXFaSHNyZEs0WXNmT3daNEdUTS1EZjhrZEM3QVprczlhamJFNDdzekQtNVl0bHRqT1RyQVRjeXJVaG1BX2FKT0pCVG1FenlUdlA2RQ?oc=5",
-      "publishedAt": "2026-10-21T20:03:27+08:00"
-    },
-    {
-      "title": "Line-up for CAF Beach Soccer AFCON Senegal 2026 complete following conclusion of qualifiers",
-      "source": "CAFOnline.com",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWHZOYTF4cTZwV1gxZnB0Z0xvSHBZWTI4TDNfN1VZdk1BRzM4RVhaYmhocmlRZ0hNSGlXTG5oWVJwazhTMVgwVXl3WF91TWFBRHIxTTRERlNLMXFQMDFZYlRyYTA1Q0ROUF9wejlRcW1UTmVPTzlaUm5jWE5uWlBSeU9RSUktdU9PUE5YSXNybHRKX25ValNFV293a1lzMC1FWWwxeU5XTzNnQlExeHJuaGxFNU0wYlFVZF9vY3NOMS1TdTYyelBTb0VlcjA4R3oyTDFabTl0TWVWeV95aUw4eGlQRk1SUWtXTEdiZnFGa2tYTng5?oc=5",
-      "publishedAt": "2026-10-21T18:01:13+08:00"
-    },
-    {
-      "title": "Africa: Senegal's Teranga Lions to Wait Till End of November for CAS Verdict",
-      "source": "allAfrica.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5MWkNtdTlaOU1Xbmh3MXpNbU81aXVtWmZvYnVLZWU1R3hSRENJUDlVWEkxZHFtZDRXVURvVmEwamdIUHkzUndHeTJTWko1LVBNVlRYR2llU0RCZFU?oc=5",
-      "publishedAt": "2026-10-21T16:58:51+08:00"
     }
   ]
 }

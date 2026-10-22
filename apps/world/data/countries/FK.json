@@ -1,7 +1,7 @@
 {
   "iso2": "FK",
   "name": "Falkland Islands",
-  "updatedAt": "2026-10-22T11:04:08+08:00",
+  "updatedAt": "2026-10-22T17:11:06+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,6 +26,24 @@
   ],
   "headlines": [
     {
+      "title": "Argentina’s president rules out military action over Falkland Islands",
+      "source": "The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdzlST2t0U3p4M0hGZ3Q4SHNKb29DM0FIZ1lLdmVPd3VZNGpMSWNDckR5ZllwdzlQSUZlM1VBYmNldWF6UUZsb2hseUlMdlc2NFhfUUlIVkstQVdvWmtoYXNyZGxxNzdLOWhmenNrTUZpOHBlQkpOMGZMZDRicTVTSU01eWRlbnV0NkZpOG83aks0d0h4OGtQY0o4Ums3ZzFCV2c?oc=5",
+      "publishedAt": "2026-10-22T16:19:00+08:00"
+    },
+    {
+      "title": "Javier Milei once again rules out 'military solutions' to seize the Falkland Islands",
+      "source": "GB News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORWRDdVUzcXRYV3o2aDQwTUc1ZHZYLUNMd0R1MWl1RGpfSUt4cTBxRWR6eTZKdW9jbFVwM2M5UGNqbTJPbVMzM3NpVkJqSXpvRWdMYUszZzNQYmJrLTNCcjRncUFYSklabU9jR1EwcVFzRlJucVhUcXdTR1ZLcGxfd0cwQVRSU1cyWEE1SzNiZw?oc=5",
+      "publishedAt": "2026-10-22T12:06:45+08:00"
+    },
+    {
+      "title": "Argentina's Javier Milei issues huge update on Falkland Islands",
+      "source": "Daily Express",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY3F6NmZjS3dFU2U1MkF6U1pHODA0WGoxQkMzZ0g4RHZmNGRqUEs3SEx4SmE3bk0zZkZoYzBoYXpqVGhYNTJjc05LTERqWEItakZuZzE4dnBEd1NqMlZXX2JfRzZsMF9IX3RPTU9RZGtpSFZ4eDdGandhejhyY2tybGQzbG04M3RXc2VxOUV0ekwxWEc3VWhONHdiRjVHMGNGWWR4N240XzQ5cGM2b2xtUNIBtgFBVV95cUxQMGRpc2cyRFNtUm9ubEZsdmlNMWFEYWNrTTNqZ3gtbjBPZk5yS0psX3VweExkQzBPUU1JYVJwTzlSZ3paSmxfY2tBSGg4aXQ1Qjd0LTNHbXZ2bDRKa1R2b3pDQXNHUGR3cHpMWnd6RGcxYk9Zc183eXZJSm5RSkI1bEZTWmxwU0FtT3JhOENyQXh0UlNlUDFjX1MtR2RiTEJGNVJPNW11VzVKZE5kLVJ1UzZ2WlVFUQ?oc=5",
+      "publishedAt": "2026-10-22T05:01:00+08:00"
+    },
+    {
       "title": "UK premier vows 'firmest action' to support Falkland Islands, voices concern over Ukraine",
       "source": "A News",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVnBHb09GNDdmb2x1R2JRdWNnNFpLdGxBcEQyalFycEw2cWRqbFM0TU1BZzhKbW5fQi16MXZTNkM1UmFDZTZWQTl2Y3BWVzZfM0NQNUxCZWJWVXA1b0VfOE1WX1o3dk5BaHFEM2V0ckNia1FXNVZQZGpvUVpiQjI2S3JVQkdEZ093UzNrdWdvS0FaVlQyMS1ucDBJNUx2RnFwdEF0bE84TGE0LW5oSlVuek1tblZCTWVaX1ZBbmN4OWpXckJhcTNJ0gHMAUFVX3lxTFBCeG5HWllUZ1FlN2RGVlJEWTgyUV90VXNES3c2RTZacmlaLVlpZS1NWlMxZ3dvN3FnYjJRY0R6SGlqY3Fwd1NvTnh4MlZRQXVMb1RFenItV2hWZmtNX2d0ZnFDMGNrSEJLYkRLaWFjOEgtamtlMDZObVB5aDlEeFZQaU9oaUFYNnpMMlZ6Z1UtWnBHY0E4MWQ3WXRMbl9tU3pUV0xNMHV4cXo3V21nNUlwb05pTk1VVm9XeXFpX1dEQkhTbXlhSkI5WmFiOQ?oc=5",
@@ -36,12 +54,6 @@
       "source": "LBC",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYUJJX0MtTzNxQ21GR1VfMzJqWVA0andGZTZ4SzVMV0ZFaGRhVXk0blgtSWZ0SzhjVVdIR01KZ2N2ZlRIRWlwOVR1VERGdTZyQU95aTRtRmZyWk1fbDBhZEdfVVBUNHFJY1F1VDJfMHVWX3RYTXRfMzJVd2JTcHRRbUpkMGxhTER5dzY0Y2JEdzJ4UXNBSlBnSFB3?oc=5",
       "publishedAt": "2026-10-21T13:20:35+08:00"
-    },
-    {
-      "title": "USA demands to end the UN decolonization committee that addresses Western Sahara, Falkland Islands, and Gibraltar",
-      "source": "Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQV2F5WmZ1WTZqSENvWkd6UnJrVzBlS2RnSjFWVGF6WUlTaFN1ZWw4LWIzeVE4OGdISEp3U2NNcTdrQndMbURoV0F5VzlRb01sWERkbC1NWUx5Wk13WEM1MkRvMXdBZ2NUYUJyUU1pUnk0UVZjQU04b0pYUGE0eE5UR0xLQTJkdVRlZ0xERmZJVkN6Z1MxOTR4bmFKTzI1eDNmb3FidlJYX3Z1X2lsMFJxN0lla3VIV0stUWpuQlZYNEl2b01vVXNTbFpvN3N5V1dEbWhiWGZORlI2a0FudEJBOHN4R2VKa2F0U2fSAe8BQVVfeXFMUFh2OHRaWC0ydE43SWpHSTg4VDBLUzVQR2lWYzFPdXYyZDJCSDZrcV9IZ0FYVTQ0N21wb0swdlpueDhiSkQwUnVITUZ2VnBZYThfZFRfcERfZHBnY3YwTE5hc1ZRNVZxMWhpYUJsMExEUUlhZmxyMXphR01saW8yY2t6MFByT003NlBURUpDY2p3UnpBZWZEQkRLYndPUEhrUDJxTmtjVnpwUGZRQkJUdUdaWngtdVJUTlBRZGQ0Wm8tcklEX0lNc3RNTTdxTk5TbFN6MG9MNjM2a1NhVnd2WXhwSktlWUdFbkxDSzdsSnM?oc=5",
-      "publishedAt": "2026-10-20T02:28:38+08:00"
     },
     {
       "title": "Argentina sues UK over Malvinas/Falkland Islands oil exploitation",
@@ -57,21 +69,9 @@
     },
     {
       "title": "Argentina asks international court to halt the UK’s oil exploitation in the Falkland Islands",
-      "source": "Jurist.org",
+      "source": "JURIST News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZTFGeWFNb1oxZC1mSWVQSEJzQktUWlF6Nk92dVJ6Y2xjQ2w1aTBJRllnd3FTUFFuNk5vM1JwbEN1X090aUJlNVByZmhrY09LWTFIUGlGNWlSQnBSczkzRlgwQkxZN01aWHlNc3kxMktYeWZSVHMtLTBMTi0tbjg4TlltNTZFZk4zaEo2bVBaUlV5YTNrVTFFRXhUQXppWGsyZGdraENESEd4cW1SdFVKY3VpM0wybDljUnJ6QnpxX1pWTkdDblE?oc=5",
       "publishedAt": "2026-10-15T11:16:48+08:00"
-    },
-    {
-      "title": "UK Troops Rehearse Defense of Falkland Islands Amid Argentine Claims",
-      "source": "Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0F6MklPWVZ6b0hxYnlzT0ZXVEJEa1NwQlZKZ0lOTkU4Z25pRzhnVGdFdzh1ckNMcDg3ZDgwZlFPOFhLVXRVcGMtenlFYmRaaVkyZjFUUDNtOHQtQURZcndvNDktVGFhYVpxSldHRXV5MTlKY2dZYnU5ZFQ5OFVOOHNjcXZxcjlZQVJBaVRuaXVaejhrTG1Ra3ZGX0pXTmRRRlE?oc=5",
-      "publishedAt": "2026-10-15T02:54:33+08:00"
-    },
-    {
-      "title": "Argentina asks tribunal to halt British oil activity near Falkland Islands",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemlmQTVsX2wzU1NLd01iZzJ4bmNkVEZRQV9ERzlXU3pJblVmcUZkN3ZCN3JKYjlnNWpjWjBhVHZPOE1HT2NYMnRiM2hhaDFSZm9EbGYxem80SWxiMTJRbXVweWo5S0pPcTFwM255TlNiVHU2SENGdXk3R21sUjVKS1dKMlBpcmlPVWNoclNVLUVZNl9ySkh6QTJOcnoybkJLOEdRNEpmOVlJZ18zcFlFMzNfYnlnUQ?oc=5",
-      "publishedAt": "2026-10-13T15:00:00+08:00"
     }
   ]
 }

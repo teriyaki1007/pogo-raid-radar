@@ -1,7 +1,7 @@
 {
   "iso2": "AL",
   "name": "Albania",
-  "updatedAt": "2026-10-22T11:04:08+08:00",
+  "updatedAt": "2026-10-22T17:11:06+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "Albania to offer 93.7 mln euro of T-bills on Oct 27",
+      "source": "SeeNews",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNakktV2JtOTd2eHFzOWQtVFhMN0RNekE2M05BQXJJQmc5Q0VmYkppUDdaa29TM25iTllidHpOX21HZV9KdEZWZVBRUUJ2aXA4eUlSdU9FZUR6Ny1aNXFjT3dxQVFKY3pYekVIVFB5R0d1R1dwSW9jQkkxNXVzbTVaOTFPRlBjRTNneVo5SA?oc=5",
+      "publishedAt": "2026-10-22T16:08:39+08:00"
+    },
+    {
+      "title": "Albania: Molotov cocktails and oysters on Edija Rama's cabinet",
+      "source": "vreme.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZUZ1UldIalhGR2ZmeFUyYlE0aEcycGEzd0VhS1F6UC1DczloUnl2WTUwYkIyZC12bUZncXlvc2VramhWSlRMTWh2MVIySmxLQjA4RjBFaUJrWWNsNmJBQlNjdDI4MXpvV1pUZU44X2pWOFBOOTlVS2NnMkJvTWNicG1zRTVQTTYxTG5ySmF3SnpQeGM?oc=5",
+      "publishedAt": "2026-10-22T14:02:07+08:00"
+    },
+    {
       "title": "Protests in Albania continue as students demand improved education conditions",
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYzNGTkEyTkk0Ry1NZm5DaXdIdzlOaS13RlVsM1VYUlVCSEVWQ05FUlFfNEFWNDVXOFRBeFN0aUpub0o5bjJJTWI5X3JwNTdrQ1NLcmNNRkdSUnVSMW9uaE9yN1RrVzF4cm5WOFNSN0toU25LYlZsU0RXeXh2d0RjMmg5QzhZY0Z5Rm1Sb1FaQ09IdGljdTRLRDhrSTkzeVRPLWZ3Rm5HVURXdGhGZGtWX3phMjhRbWxp?oc=5",
       "publishedAt": "2026-10-22T04:58:36+08:00"
-    },
-    {
-      "title": "Why Albania's political crisis is deepening",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORllEWDZNNDNfZzR4UzdrWm5LZ0Q3eGp0dzBmOHY2V0ZjcGJvZ25YWHQwVFhmSkN3RWVrZDB4dnkwTXNpb0MyRVBjRG9OM0hhWmFIQUVSVVIwODg5Si1kZzY3cFVnU0U1bUVXT1U5N0N0NV9qNnB3eXZWYVVzbjFxV1RJaU5kQQ?oc=5",
-      "publishedAt": "2026-10-22T04:00:16+08:00"
     },
     {
       "title": "First Clashes Erupt Outside Albania’s Prime Minister’s Office as Protest Tensions Escalate",
@@ -61,8 +67,8 @@
     },
     {
       "title": "Albania Protests",
-      "source": "GazetteXtra",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLS1XbGtQWDFlWkhsRGFHQXJULXhBVzEwWmpoTUVvSFpGME1INVVVM2NZQUZlR3AzZFBYOFBiUTdGUW9kOUw4UU1XVElIZkNvXzNnYTJyUmhaNUpGZ08yN0FRVkVpUTZjbGNXb2ZzZk1fSWtWcTNtSVQySGJ0Q1FfNHdaNFlfZWZaQXUzLTRLMnlSeUpHNlNwdllNNmVycnY2TW52R1d2SEpYZVJfWHpV?oc=5",
+      "source": "Bluefield Daily Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcGlvMXl1Y1FXZkZJV2pWMnlNQ2Q4cXNLbUtlSjNFeDNTbGtINm5teUpQR0lMdFlYRWdYcHpyWk9XaXZ0dW55LUVlR1dYcnduQmxOSVlLbDdmTzZZc2NVQlRuREZLbnk5eW8ybFhHbWpuZFV4NDFHUDh4SGpYYkM4UFBKQWw0ZDZOWGpNQWk0WWQ5MGNQcWk1WW8yVTVzQlBrWS1WbUpHQ1NVX0M4cFZ2bWpn?oc=5",
       "publishedAt": "2026-10-22T01:57:50+08:00"
     },
     {
@@ -70,12 +76,6 @@
       "source": "Dayton Daily News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUG5GWnc4d1RBbHh1a1EzbmsxcDZndE5YRWtWR3o0bnpFVjdHVk5USV9MbHgwOHNUQmRhNlBvUGJ6eExrLXF5YVRWaEplaWxWZ3NDLTFXWDV0Zm9VUm1jaVRjNjR5VDBrNGtrQVZTMGx5Y1RsWlhkZlloRjhpc3U5NGpITzNENXZaSnA4Vjk2anlGT1VZUVdlRjNzSldXbDg0d1dEMGszYU92NjFWRFhTNFZnRFJpSVEx?oc=5",
       "publishedAt": "2026-10-21T23:09:16+08:00"
-    },
-    {
-      "title": "Albania’s Students Demand the Fall of Rama and an End to Corruption",
-      "source": "Balkan Insight",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNTd4LWhFU3ZWUnlFZXVJYm85THBkVkxSeEg4WlFaQWhFRkU0SHJEUzhpWHFNbnMzODh1ZXpic3dnZGU5X1ZSWHloYmdmaXMtY0U1Y2IydC04cXRRdkVOMndQdmhoNHN4VElrTEJuLU5YWnRmS2JweENUeVhIekRjekFZSU9fM0ZhdVI3c0w1MnlqbFBZQWc3SWtEWUl5SlRJWmd1dE5jU3FrSHM?oc=5",
-      "publishedAt": "2026-10-21T23:03:39+08:00"
     }
   ]
 }
