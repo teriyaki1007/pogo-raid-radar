@@ -1,7 +1,7 @@
 {
   "iso2": "KP",
   "name": "North Korea",
-  "updatedAt": "2026-10-22T23:07:27+08:00",
+  "updatedAt": "2026-10-23T05:12:08+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Feds Lasso Texas Laptop Farms for North Korean IT Workers",
+      "source": "Dark Reading",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTGRDTWhSYWpCRzR3RDRUSENpV3ZhdmRucG5fTjZraDE5cGFaV1JhQkJiOFNBOG41REhVWXEwNFQ5NDNWM1cxYTdqX0Vra2JqcWstVnpXcFhMQ2V5MTMxaGFDSVRXZWxyTGN1cG83TmNYQ2t6RGZEaU1CRXRRRGd0TTFDNWFtSk5Nb1MyY3BmZw?oc=5",
+      "publishedAt": "2026-10-23T04:58:36+08:00"
+    },
+    {
+      "title": "North and South Korea tensions rise as Pyongyang fortifies border",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOc0RJcm9jb0ZqZ0dPa1BEZ3ZZRV9qMTg4OHRTNVRUeHREMG9fLTAyaWpGTjRrQlhYWGlMNEZhemhWUWN6WGNON3Q1bTdFODFtam5rQU5VcnExcFA5VWV4Q3hHSy0td1Z2RTZpSFpiVl9UMWV4c3BtLTF6cEQ0OF9hNkJVRVo?oc=5",
+      "publishedAt": "2026-10-23T01:09:34+08:00"
+    },
+    {
+      "title": "Turkey and Canada’s new friendship, El Salvador threatening Haitian gangs, North Korea’s petty propaganda push",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmRQMmZpeHNUMW02LVByUU5oYjU5U05haVhfdS1fOEJxTm9FeVJMV2pyZmFRODVEbnZUQkdVbm8wYXFzVVdrb1lleGVlWlp0Tnd3dWFuT1BKN0hSSUpSS3JPWGxtZDdENThucFUtZ2p6WXIwQUNqUnhfaDRwNm5yTG1KUU13ZGRKMjZzRUp3ZW1DeEJQNl9ZcQ?oc=5",
+      "publishedAt": "2026-10-22T23:53:46+08:00"
+    },
+    {
+      "title": "North Korean Defector Founds Waterproofing Company in South Korea",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUENtaHNkSmZBTFZiY05ydmI4X3NqeXVjSzN2VkhiS083UVZWTEs2bXlIUTJnd0hxNTBlemdLWWw3UHBKQWc5eHp2WTFfUFZzcHUwdHJON25uVVlDazVCQUFMLXhGS2N3N2w2MEJEbkZva0VOQXE2bWY0N3FQeDJKdHIzNWdUOXBH?oc=5",
+      "publishedAt": "2026-10-22T23:41:38+08:00"
+    },
+    {
       "title": "Can North Korea’s nukes really be called defensive?",
       "source": "Korea JoongAng Daily",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSWJ2STZ1VHM0dEpTbUc3RTlzU2hZMWFKQmhjZXppS1B4QmtOTlhuWFlwQVRXNjZuaTQyZVFUN2twZTZLajhBWXFkR0gxRDl2TXhHanNKbklXOHRGY0dENXRnVzlWblZ2dWVLZ0JnUzFpNGx1ZkgwbGN5Nnh1VzF4MU1ZSkhOck1kSjRsbER1UldpSlBIN1hpcmhXNWU3eEtKWW1R?oc=5",
-      "publishedAt": "2026-10-22T23:05:24+08:00"
+      "publishedAt": "2026-10-22T23:04:35+08:00"
+    },
+    {
+      "title": "North Korean IT Personnel Conceal Identities, Work in South Korea",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmVmWlBkaUNPX0NDT3E1SU9oNjNkdHYzeExiNHZTNE5Wd1hqdFlmZnV2VDNNdkRnbmlzQ1Etbm1jOHl0clVtTGlyTENFYndEY2xVZG9EM2s0bGtyZEVKR2RNb1lkR2tiWU5BcEVPSi1fOTAxbXRDdno2NW9pV0tkaGRSSGw1YzY0?oc=5",
+      "publishedAt": "2026-10-22T22:45:17+08:00"
     },
     {
       "title": "North Korea - Building an Alliance with China and Russia",
@@ -42,40 +72,10 @@
       "publishedAt": "2026-10-22T22:37:50+08:00"
     },
     {
-      "title": "Ship linked with North Korean weapons deliveries sailing along Norwegian coast",
-      "source": "The Barents Observer",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT1F4amRtYVVlblp0T1BEMjVrUG5JUmlmVV9CLTR3UWZRQ0JDMmlqZGhJTEJYQjdzMkxUU0RxU0I0YmpCZ0p6MWZWVHpnN1M0ZFA2OU1UTGdSOFBqMmFENTlPcFdDdWN1ZlEtbmsxWUY4SlBVaTluczIwNlN6cnF6eVJLT3padmxNOVhMZ2djRXA3cFlRdzBJbmxDbkRnZ1UzVFdQWDk2X0pUT1liRUFBWVVpQXB1X1UtOUNydmM0Y2ZqTVk?oc=5",
-      "publishedAt": "2026-10-22T22:29:13+08:00"
-    },
-    {
       "title": "What to make of China, North Korea's new cross-border bridge",
       "source": "upi",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPR21jdGduZjhpNWlNdVNEdERFNE9QV0gtdDJsQnFQUWhrWkdtRDFCQVJIS0hiMnV4QkRhM2xWNUNZY3BJVVNkMUxrSVF1QU9tbGltSkcxVHNKcnhCT1NHdVpHRF96eHRwTEZvemJMSTBVY3UxejNxSUNDaVl6MkpPcXY3a1lJUFVBMi1MYkhLaHQxcTF0Wmx0eHRldVRRd9IBowFBVV95cUxNR1QtalFuU1MxSXhiRnIwNHRmSENhTVNqWlpENmRHd2pSSkdqaEFxTnZLcXBLMkFVMlBPQ3NibnlOQmNxY1FQc3AyQnpqSlFjMW11ZkhnLUk1QllUdkdraGQ1ODJqanlxZUdKVzNEMk04N2JlRkltYzhQaG5KYVQzeXZxLXBNRVg1Y29uVE1mSDFxSkV3YlJUUnA5enNOZ202U1ln?oc=5",
       "publishedAt": "2026-10-22T22:07:01+08:00"
-    },
-    {
-      "title": "South Korea Urges North Korea to Establish Communication Channel to Prevent Border Clashes",
-      "source": "Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMnhBeEJ2dXFxd3ZtcXFKdERjT0ZmMkdURVhZS2N4T2lkT3B4bVRxai1EdmxnLVMwa1RIeWlRdDMwejJwelpmcXVULWk4ZUNKYXItOFhEdy1BREZBaEZnb09sTi13ZXk3WGtPQmFhcDlnV3RGNXlkdV9ucmozU1cxZVBEdDIzWVBwYW91elVtSFNuclhUZENPbjIxLXFkLUNTbVpZZ2J4WU1YNmc5bkNwMmphUHhDR2k3SE1Xb05PRkd4VWZuRVM1Wmd1ZlFKZw?oc=5",
-      "publishedAt": "2026-10-22T21:02:15+08:00"
-    },
-    {
-      "title": "North Korea Threatens South Korea With ‘Horrible Consequences,’ Announces Border Alert",
-      "source": "The Diplomatic Insight",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY0hGVGxJX1FhN2Q0czI2NHhoRHB6WW12Z242b0pQZU12bHBqV2gxa01XR19jVW13VVhjc0tVMEd0RU9DSEgtaHZQdEdXMlpyOXVZLVZ2VDBnNXI3TmxjcF94V2R5WFBRS0RqSjJIa2g5ZkNLQVl6aVdla0k4aHZES3R0ZF9jVTJFUEV1NVBXb2YydjA?oc=5",
-      "publishedAt": "2026-10-22T20:52:47+08:00"
-    },
-    {
-      "title": "Ukraine Destroys Elusive North Korean Koksan Supergun in Operation Vivaldi",
-      "source": "UNITED24 Media",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWUdEZGE3RFRFWFh4aVFsdXlJQlRGd3JQenIwbWhQS19YdWVkc2xsVHlkWi1haWdnSUNDYVE5RXU1dlc2b2Ixcy1fVWozaTBqdDZGY0NLSllIU1ZWaHBpYlhGV1dPTlJJVE1jbUdHTHRrWElwTzdLbWR5RzBZWGlFc3NCbVgxOGwwQ053Qi1QSXd2cDVDRl92TEhQRzdrWWx0d0QyeHdrMlpNUTIyUENzODFzN3dYakp6ekFvYXNB?oc=5",
-      "publishedAt": "2026-10-22T19:44:48+08:00"
-    },
-    {
-      "title": "‘Rosy Bitterling’: North Korea’s Crude Insult Diplomacy",
-      "source": "조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ1dqbXlGTHhHeTFmX0xUVE5nT2V2V1dwMEM2NVM2XzBtLXBEbEZRTHpiUThIa3JCZkxZWlpYSHdWaEVxOHpnWHA4SDhmVVN5NkRJOUNueXB6ajZ6RHhtS2NydjNnUDAxRnQtWnVUQi1OVGtUQXNEUTVDcVN5WVJEdkhTUnhqVlE?oc=5",
-      "publishedAt": "2026-10-22T19:29:34+08:00"
     }
   ]
 }
