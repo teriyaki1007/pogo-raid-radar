@@ -1,7 +1,7 @@
 {
   "iso2": "IM",
   "name": "Isle of Man",
-  "updatedAt": "2026-10-22T17:11:06+08:00",
+  "updatedAt": "2026-10-22T23:07:27+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Could the Isle of Man soon have a dedicated epilepsy nurse?",
+      "source": "Isle of Man Today",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX1dtVDYwcWZRMmkwR1c4ZXd0aHE0SWVFelVNSmdSdmpxZWQyVndzbVc2NW9hSHVFYXpJVGlwYlI2c0lHMWpTbm5sVmpQQm8zRHZBamp1UTNtRHY3d2dvYnhDa2ZZTnJKZ2NZN3o1WldNdUhxRGtHVFh5aTlmZkJvLUotZjZzMnR6NVhEb2o3WlNPeWN0MWtqZjUyODQ5dw?oc=5",
+      "publishedAt": "2026-10-22T21:57:12+08:00"
+    },
+    {
+      "title": "Ten Isle of Man local authority elections planned for December",
+      "source": "Isle of Man Today",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOFRpejZxMDFzd1cwNjJ5YWRjMTJFaDNkVnR0V0p1aEtFYzFSS1ZSd1h1UkZaYVNoMUlXdkNTZEJ5WDVBN2ZacVhSNllEazk2eVI0N0l0V1FuZE84UUJzTFh5TjZSWmV4X3RjYUZNRVFBdTVpZUpQQ2pnY1ZmMFN3X2psbnR4aEsyVFJ6cEN0Ul9NWTBYSW1jM3F6TEx0S2l3SjJr?oc=5",
+      "publishedAt": "2026-10-22T20:32:56+08:00"
+    },
+    {
+      "title": "Jury considering verdict in Isle of Man boy's stabbing murder trial",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Xa2V6V1I1YTAtTzlXX3JoV3FKRzY1cW5iRkRuTzVSQ3RnLU5PcXFzWExXM1FLYUxoSzB1cVk4dzhjRWtGY2lrTTZwVGU3WEtfLV9rMkFzWURIS3Yzcnc?oc=5",
+      "publishedAt": "2026-10-22T20:02:57+08:00"
+    },
+    {
+      "title": "Manx businesses urged to check whether websites use PHP",
+      "source": "Manx Radio",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcUhfTUsxS0RIMUxoUk0yNzNpckJyckJBZGF0YXAwM05LUGZEaTJxZ1dOcThGMWQxUnNZR255VUFwb0V3Q0RFRG5EaHM2RWU0a3g4cXJzemhMZnU2YVhrNHM0d0otaFNLNlc1X2RJSGxvbUdjeUtXb0VraVMzbG80M2xEVkJWTnFvNGpYcDZ3ek9KNlBHSWFzNkU1OFBYR2pTTllTeVNHaw?oc=5",
+      "publishedAt": "2026-10-22T18:32:00+08:00"
+    },
+    {
       "title": "Joe Locke says Isle of Man will always be part of his life",
       "source": "3FM Isle of Man",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWWxUOG95bmdfRlM0dEdXbzEyYnloQkVxZ29oVGYwSjF5bEhHb1lzZVhvRXZWbk5ad0w0RTNlcFRhNzNpNTl2MnExTmlzalkxRktlNXZiWGZnRGp0RzZvY2ZSX2RweXEyMmw4dzBXTXg0UFAwd0F5WXItRnNvSjBuby02SG94Zi1HbUtoY3NUbjBrQms2NTMxbExGd3hEVlA1UHdkVg?oc=5",
       "publishedAt": "2026-10-22T15:55:00+08:00"
-    },
-    {
-      "title": "PokerStars Isle of Man faces uncertainty over Flutter job cuts",
-      "source": "3FM Isle of Man",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2ZObHB3ZHZNeU9ULWxJcDl5dUUxZ1oxTG51Z0JKdC0wTnpFM0lYZ2szZE1wbmVzeEpvREZVM0U5VWptekZNNnRFZFluYVNyaUtmc0lKQ1ZZTUw0Q2VEVzh6Z3F3SHJmSUc4NUQ4bFVrdENwV3dqb1lEeENTVGw4aVgyQ1U4a2huSkplWWs5SktFbzQzYjBOclpPVndmRi1VektpcC1uV1dZQQ?oc=5",
-      "publishedAt": "2026-10-22T15:18:00+08:00"
     },
     {
       "title": "“115 units worldwide, just 2 in Korea”... BMW M 1000 RR Isle of Man TT Edition",
@@ -58,24 +76,6 @@
       "source": "HotCars",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOFpQWVlCOFVKcmFPWWlKWWMteHNCOGs1b191akRJcjNMZWhucVJzMVRaUXFMSG96S3V6NmMyclRWYXBVaXU3a21UQ096NHZISHVDS2x2Wml1RVFzd3V3Y0phQWpWYjV3RGJGOUpJN0d5QnpnYnZmd1dJVmtrdkRTMElJLVhldw?oc=5",
       "publishedAt": "2026-10-22T08:50:00+08:00"
-    },
-    {
-      "title": "All Isle of Man school websites taken offline as precaution",
-      "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWHRmVHJ2ZWN1V3dvRzFHRFpyM1FMbXhiYmRzR1o3eTR2ZHFNeXFHNWFPRVFlTjgwaW5ub2xTSnBHakQwMmQ1ZlBaUXlWX242T2kwbXBBOThsbUM3WFNnWWdndVQya3JQTU1qQ29HMEJ4S0g0am5DOWtqS2l2Q3NWOEN0TkNfem5reHlVU3BfRzhlcmFSUlJtS1VGck9mdHc?oc=5",
-      "publishedAt": "2026-10-22T03:12:59+08:00"
-    },
-    {
-      "title": "More Isle of Man Government websites taken offline amid cyber security warnings",
-      "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd3NPdEEtV0xtUnVnVXBYQTRhRFZic2dHb0dVUVk5X0JzNC0wWVlSX2ktd3VxeWxVem9oek8zd0Q0eVJkbHN0cWZkUXJ0Nzd0YzMyZ3BGbFExck5zbkxmQzRSRi03cGpWU09WT3FlSWNzZ09tZFo5Yk0welFRUUhpY1Q4NW1veUVqcVIzNXZoblJiR1BWUVBSS2NlMGVFVzhldlF2VnFCRWtxdHlwVkptc1R3cU1lTHVMUHc?oc=5",
-      "publishedAt": "2026-10-22T00:17:18+08:00"
-    },
-    {
-      "title": "Isle of Man could see first assisted death after law gains royal assent | ITV News",
-      "source": "ITVX",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb1ZFd09VRXJqZmw2QzJYRHJDZ2lXSWVNZEFFaDY1d1dWdl85SkQ5aEI0RkpKOVp5RVUtTnUybG5IWndRX3VoRFI3MlJZY3lCek9JeWNtU3pFR2JLNEdoOXEwX2ZrNnRpclcteW9sQzA5R2U2bGd1TWtlbmJiQWlrRWU1eUxxQTJFaFRR?oc=5",
-      "publishedAt": "2026-10-21T21:56:56+08:00"
     }
   ]
 }

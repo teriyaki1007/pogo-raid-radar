@@ -1,7 +1,7 @@
 {
   "iso2": "GG",
   "name": "Guernsey",
-  "updatedAt": "2026-10-22T17:11:06+08:00",
+  "updatedAt": "2026-10-22T23:07:27+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,15 +26,27 @@
   ],
   "headlines": [
     {
-      "title": "Jersey’s school attendance steady after Guernsey launches attendance campaign",
+      "title": "AM Best Assigns Credit Rating to Ascot Insurance Guernsey Limited, Affirms Credit Ratings of Ascot Group Limited’s Core Operating Subsidiaries",
+      "source": "Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNY2NyOUVkUVplVE1HSHBqaGRZVXEtTi03NzhlckdPVy1HLS1DN29uZVNoSkFyajh4NGQzczlVRnRZU2pTU0MzMEl2NUZJUDhHNHRnYUUxejZ3RTUwN3ByTUVuR0tHRWUzbGpiUk1Td2puYnZwbFZKWVh2TFdtbzVReTlGeE80anpCTzVlcVUxaWpaTkFZNUw5R1FkUXpmZ2oxZ290SXFNR0JQS0wxa1JZMy10ZXRNVUxDOFlEcDdIYVRDb0JuYnJUSEV2aHg3NmQ1MGJQMkxzNzFUTWtvZElOM0xSRFlqbFRzNXlGeGxjVGprY3UwTkFFQzdzT05kMUc0YVdUUUZLVjZ6OGc3MUJ3M3VEckYxeGtIanJ5ZDBCTGp5Vk0?oc=5",
+      "publishedAt": "2026-10-22T22:59:00+08:00"
+    },
+    {
+      "title": "Storm Austen grounds flights as Guernsey Airport closes",
       "source": "Bailiwick Express",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbDJ6R0ZsaklsR2VOa09WX25CR0xrZnpoNVFIYURoNVhOdExXcUlwbzZ4eUNSRFVVR0J4WmVlT2JpUEMxeWJVNFFzcjdPdjkzOHNOWnVTZWtHQ2daN28tRDZOM3MwcDhFT0lUZHI1LTcyMzdCQk9lem1seEdIY1BQUnlzYXdVb2VRZUlXMHZ4M3B4bExkbGpFQ1hzbTItaUh6aXdkUVd5WF82aktROG9HZEJObmRFUQ?oc=5",
-      "publishedAt": "2026-10-22T17:00:33+08:00"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUlhkMlJ0X0lJdlJXLVdpdVY0OUh3bzBBOERUcG5Kei1FVGZLdFhkR1Y1WHg1OFNPdFg1ZVpYMm11LWo0Z2Z3RnFIYzNONnMxcDdXLWV1a0stbzFQeWNoVXZXZ3cwMDMwbUFFbFFwTjBnektnMWNpNVdSRVgteXRRejBsNEZIbWVIWGpydW0ySEYxaWF6VVBVakN2R0VWUQ?oc=5",
+      "publishedAt": "2026-10-22T21:31:23+08:00"
+    },
+    {
+      "title": "Storm Austen: Schools shut as red warning puts Guernsey on alert",
+      "source": "Bailiwick Express",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOTFrZ1lDUHpZTWgyaFpILXhZS2JzcTBDTjBhcXUxX0J0Vjg0UnVxc09aWGtoTUQ5dW9ua0d1WW16VDZBYzJuNmdWdlZ4ejdtX244U1QwNzRhaENLMEdjUlBqMFlOQVhzaWV1dXNTOUtIYVZacy1nOGhYaE44SDhDMkQ2dzR2R242ZFdxQm9EblJEMlFzUEstQjJLVnJVMWE2eTYtX1dVVHM?oc=5",
+      "publishedAt": "2026-10-22T19:14:48+08:00"
     },
     {
       "title": "States of Guernsey meeting",
       "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iNkJiX2J6WVlGaVR0OXRXTnk5ZFMyWVdDZWZqZ1ZYQ3ZvbXk2V2xqV2p4WWM1MlhvUVNuQzFLa1ZfdnZvaGhzdGZqdGNja2g0MmRDTTdn?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9UcmI4M2xnN25OcWhLV0tGeG52RVA4bFA2RG5USGRTRkwtcWo4QWlkcXRZaGFBNkFkZDhmRDJObnVGSUhZaTBjdU5VcWdqdXZQZExrSF9VTUw?oc=5",
       "publishedAt": "2026-10-22T16:44:41+08:00"
     },
     {
@@ -44,34 +56,22 @@
       "publishedAt": "2026-10-22T16:30:22+08:00"
     },
     {
-      "title": "Guernsey People Have Your Nay-Say: 3 in 4 Facebook politics posts are negative",
-      "source": "Bailiwick Express",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNjlQend6ZHh6NjR0ckFaVzd5U0E5dTdTU1VQSHlJNTZTQ1ZrOXVjX2VraWxDU0ItR1BGemNacmZQR08wUkJ4QXpGZWxucnJtRjVfRjNacmxFTEJwZU9LaEpYOHU2b3Q2alJLX28yczRuTDlhak9Walc2RzZQbWZaaTFVWTRSenppLWhyX1dISGFuMHpDWURaUHhERGhKNldGNm5UN1hEZ21VU1l5dl9WTDZ2dks2d1E?oc=5",
-      "publishedAt": "2026-10-22T14:38:00+08:00"
+      "title": "Casper Christian's Kellun Milne scores a touchdown in the Mountaineers' 88-6 victory over Guernsey on Oct. 17 at Cheney Alumni Field in Casper.",
+      "source": "Casper Star-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44ZkJEc3EtMDZlaVB4V1hacW9aZDJqTjVfTWh1MXFqeWpNZFR1OU1yakdETkJJNUJQcEtTR1ZQbzlpQy0wdkZDcFZwRDZkR1RHOE5xdFZaTU9SaFg4VzY1SWZxS0Frdkh6cXZoSmpBQTNFWGRidTZmWVZpTQ?oc=5",
+      "publishedAt": "2026-10-22T13:39:52+08:00"
     },
     {
       "title": "Shared parental leave a 'critical priority' for Guernsey",
       "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE41T1FYcHdJOHdQZVdPYUR5QmFLLUQtSURlQkpPVkQ0SmRMbElJWHhtTHBaM1FGMFlNclg0Zkh6MU1RcS1UZVh2bGdKQ0JrSko4aVdZNFNaYUZvUHdiSEE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oNW4zemZSQmpuSlVZNFBrbTRWRUpnWDA5TDg2YXcxa25tR05oWlZGd2FvSkE3Z2s0MDNzOFBHSWpkcFg2RlFGVUhWdXlTaDJjV2haTVBleHR2LVU?oc=5",
       "publishedAt": "2026-10-22T13:26:12+08:00"
     },
     {
       "title": "Guernsey Woollens spins new thread with return of cotton",
       "source": "Guernsey Press",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHhYV1ZzS2VRSWJUNHkwb1BsY3hTZ1dsbmdaSWRSdC1FbTNIXzBFMS1jRFJyTzhLZm5BMndYUFZXMTUzcXQ1ZnJicHQtWDkxUnhyOGJWRFR6N01FREJTVHRyeWkxZFkwdlU2Z3lqdmR6dUZjTmRKX1J5VW9ndl8wbEdiQmhqTjRiZTRFWmloYzdMMFd0aGlOWG9iZEd4ZVk?oc=5",
-      "publishedAt": "2026-10-22T11:33:45+08:00"
-    },
-    {
-      "title": "Guernsey family forge future out of flock by keeping warm in wool this winter",
-      "source": "ITVX",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUhXQUFQT1ByRGZKRHcyZDlDTWNrbXpVdDFHck5aSjdHbFB3cEV2S1Z0RTdiVmNyMlJURmhqbVNnRmtpakhRNDg1V1lfQ2tvMFlJTWZ6ODJWeG1fc1N1Qm9MWVo1WUJ1VGV6cDVlTkxwZ18zQ1pSUkFyeTB4VWxRdzdVVzRMSXg0MmlmLVJQZjkzaWpVbFFmOVlvcHY5eXJaSUdLNVlSb0FmM1EwNkVtU1EzMERYcHM?oc=5",
-      "publishedAt": "2026-10-22T04:39:33+08:00"
-    },
-    {
-      "title": "19-year-old Salisbury boxer scores knockdown before unanimous Guernsey win",
-      "source": "Salisbury Journal",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOamRGT0NOdDFNUnhrTkdqQTh5Q1NFMk1YZ0ZURXE2TS1NQVRjWnlmTktkV3FVSWs1ZWJvV0U3TDliY2pBTWgzRnprRVdxYVpEaDJzOV9yOVdwVm1tVVFfRWZBWVRfeWlxNC1FdG4tZTFnOEJlbVhibjRPSHI2bUM0aC1Fa1gwY3BvajRnLWc5TjlNQUZJeWo1dzJSdV9CSGFZdjdiY1JIRk93UHF5TnItTA?oc=5",
-      "publishedAt": "2026-10-22T00:00:00+08:00"
+      "publishedAt": "2026-10-22T11:43:17+08:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "iso2": "SS",
   "name": "South Sudan",
-  "updatedAt": "2026-10-22T17:11:06+08:00",
+  "updatedAt": "2026-10-22T23:07:27+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Djibouti Delegation Joins South Sudan Oil & Power (SSOP) 2026 as East Africa’s Energy Renaissance Advances",
+      "source": "Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU0hjeUlDWmlBQUxvQm9DdUJmVW5Memg1YUFxUk9LTElkQk9YMW56ZVRxcnd4bEJTMjY1a28xYlNiT3hUUmhXWFJSLWtUeFVsT1dBSnpNaml4TnBaNDM5MzhCLWxYdkIzU2k4NENFdTItSmNRWnJqVU12QTN0cnJfUkFHVC1rNFBZTmRBXy1OQS0yYTlneHV0eENlUVVxazJqelk3UzRUZ3lVUDFKcmNwSERlWDF2WWhuSmV4am5rUlFoaUZLMGFF?oc=5",
+      "publishedAt": "2026-10-22T22:26:19+08:00"
+    },
+    {
+      "title": "African Continental Free Trade Area (AfCFTA) Secretary General Joins South Sudan Oil & Power (SSOP) 2026 as South Sudan Eyes Greater Regional Ties",
+      "source": "Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU05Gc1Bzem5jZXd4a1ZQcDBpVjV4OHNYNmNQZnhXSGpRcFhvaUJON21YcEpnVmJlTFR6VkdQODFtMTFEWFoyNTVmRWluT1RpanR0bl9pZS1aTVRtNHcxREZIRG91RE15X3RIaWNqM01fbDlCTG9vZ3RkTzJDcHM0ZHpwRWEtUXMwZ2xrVlF6RkN0NVRqSzBGTWQtbUV4XzFaTmRCT2hINFZ3VXlWbmJTVTNsZjl2RWRtX2NYcHlUNGxmaVpCWWhkUVp4elRjSDRNdUNicjNFTXU?oc=5",
+      "publishedAt": "2026-10-22T21:31:07+08:00"
+    },
+    {
+      "title": "Chinese Peacekeepers to South Sudan (Juba) Awarded UN Peace Medal of Honor",
+      "source": "China Military Online",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5QUzdMcFFpamt0dUJybXAxd3hkMEcyM1hkcjZEczlnMjdJUmxOUktZOTRKdlBaWlJNQ013Z09KX3VXSnFBZHdhWFlXSTBZWFRpZHhVcUM4b2JpN1p4RlRRVkJxV1I3X3AzVXhFUVg5Z1lrMHM?oc=5",
+      "publishedAt": "2026-10-22T18:27:19+08:00"
+    },
+    {
+      "title": "Leaders Discuss Roles in Peace and Reconciliation at “One South Sudan Peace Conference”",
+      "source": "Bangkok Post",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaFZFX25tMWtnT0JENkw2MHVTMGlGLWlWaERabUZyMmdFVmlxdVZnWi1BLXQ1TlEwdGM2eTA1SW5tdGZBY3NpUktmMm1LWXBqYlZ5ekRLVUdqOFptU0p1SktSSjVQa2puUDdieUtvT3dqTVl3NmxINTN6RnJhMEhqanpGREt3bnM1cE9EVkktcVNkMllYbUZoTlZWeWMwV3pRRU41QkZLLWUwS1ZNYng5bHdYNEM5NXVtbl9fUzNnVmMtVVh6M2VqNnliLWE1UQ?oc=5",
+      "publishedAt": "2026-10-22T18:16:00+08:00"
+    },
+    {
       "title": "At the Border, DRC and South Sudan Strengthen Ebola Surveillance",
       "source": "WHO | Regional Office for Africa",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObjAxcXZQbDdBaHZFZ21DUy1aYTRrazd4MExldTN6OExfVzFkNE9vVDlDcmpLM29kcl9lbjctOTc1ZFVxNEZ6S0JSd0ktMjZpbVhFcEhPZHQ0Q09haHFvckM1ZFgwTzNtS1RPdmpMOUZFZmpldTN3VlBfTlZvSTJSaHVpbnM2U1hweDh6b1BTdE9DdXRHN0xCQ2RycVVVN3dKbV80NVNEckpFczJCdUtpdm1XUnhMX0lRdFdJWkNIWm5nWTA?oc=5",
-      "publishedAt": "2026-10-22T15:39:23+08:00"
+      "publishedAt": "2026-10-22T15:43:05+08:00"
     },
     {
       "title": "Chinese peacekeepers to South Sudan awarded UN Peace Medal",
@@ -52,30 +76,6 @@
       "source": "Capital FM Africa",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQktnc1oyN0JCS3VuWlpLd1FPSU5VdE4yRjFjd0p1YWZoM2ZURWc1M3ZiLWJrUmJHa0xNcUVoaVlrWHFRYUxJd2EwWVBVRm43TDVoRi1ITlhrbTBsMVgzSWhmY1pzWWdjQVBKUWc3a1AxREVUTDRaaUZiNU1KWURWYnJFemIxMXk3RTNYeFhzMHhiTkVxdHpFeUFMR2ExZDZ0MnVucThHRHk?oc=5",
       "publishedAt": "2026-10-22T03:18:06+08:00"
-    },
-    {
-      "title": "South Sudan US Deportatee",
-      "source": "timesdaily.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORW4wZnZTd2JZaGtERkJvSFlXb3JFbnhjdFFpM2RfTlVxbjR1VjFZdUVkX0Y4NEJmYndwVTBuSVZBbFdDNDJNN3U5Wm1ocHV1dEgwNUpnbkZXc2VfMkkxa1JYRjZlZWRvcU9Ud0xIQXN2SnpKZmUyYWxESm1hTGtOLVU4a1hYQlQwdkQxMlF5YnptOHZGM2ZhZXhhZ00ySEl1Z2c?oc=5",
-      "publishedAt": "2026-10-22T02:26:00+08:00"
-    },
-    {
-      "title": "Bustling market in flames after drone strike hits disputed Sudan-South Sudan border – video",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNai05YVNhUmlBTkVaN1BkbVR1U2ExRlNFbEQ2SWlMSy1zVlV5Ulk1Y21qbURlLWZmOGJKc2NiejFfRWR3bGo3MVIxVTZtSERpWW9BeXN2YzRveXllTmJSeklQRFFpUklnbkNGUWdGRWVva1RfeGEzaUJnTm1kdm1ubHdaRF9yS3AzN0FZUFk5dl9hRF9qRWxnMW1oV2F0eFJ5YVZVTVlvaS1uU2RBczk5LVVhbXhfcmhEdlc1T3hjbVVzVDZFLXdNcnJxeU9TdTZhQWR6ZVJLWlU?oc=5",
-      "publishedAt": "2026-10-22T01:06:00+08:00"
-    },
-    {
-      "title": "Death toll from attack on market in Abyei rises to 153: South Sudanese official",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeEExdUpzRExPLUNRV1FjNmJhLWFZTUVLOTVBRXhRRExoZDd5R3IyRnNCVGRHMXNzYnFHQkZIVDQzMFZqZXdwOVBhUDdSaWExajVxNVRGQnVsVGx3ZlcwRGNoRU1LNnp0VDExMG9vdVVieW1FZTRsZm1zY1BxVF9ocXdid1NmWVBmT1JMdk1pQ191WTUxR1JhRTNaZEJPdVQzek1DSTdQc1E3ME5YaUhvREU1aDVwZDJrUVd0UXJMd28?oc=5",
-      "publishedAt": "2026-10-21T22:58:23+08:00"
-    },
-    {
-      "title": "UK announces £2.35 million to mitigate El Niño risks in South Sudan",
-      "source": "Sudans Post",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWHZKc2R0bHBqWkpUc1FKeXhhdnMtZzFhbEFIX0hZS1JUR1FnWUVnSFc3QlUxRjEyWDF2U1g3T2Y0aTZDUEZkb0lzdnBBMTF4WnFzcUswS3R1S1lyekxrTkE4NEdvazFob1hrMmFSUGFvaFVKZ1A2c3NtUFlFLU0xNTRuc2t2dVVNc3VBeU02LURKVHh5c1VfWm5R?oc=5",
-      "publishedAt": "2026-10-21T22:35:17+08:00"
     }
   ]
 }
