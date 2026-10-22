@@ -1,7 +1,7 @@
 {
   "iso2": "RS",
   "name": "Serbia",
-  "updatedAt": "2026-10-22T05:03:11+08:00",
+  "updatedAt": "2026-10-22T11:04:08+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,40 @@
   ],
   "headlines": [
     {
-      "title": "Students march into Belgrade while populist Vucic holds rally in Serbia's south ahead of vote",
-      "source": "Jacksonville Journal-Courier",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0Q2RzhWVnhPNDZwWFZUVjNvVGl5dmtUWGZLUGJ3c3pEYURMMkNZTGhVV25pQWwySFB1X3pyNWFiMGNPb3JBbVB4TERpSHZEaUZ5VE1VT0wtTl9mdGsyZkJBNEtuak9hOE4tNDN1V0tGQU5BX1NvNGpHOWJkb3ZwMHNvZWJxTUFTVVdOVGhGdTVRODRXR2RINk5VTmwwYlZuU3piUmZGbGMyYnRkQ0NfOWtvRUQ?oc=5",
-      "publishedAt": "2026-10-22T04:59:33+08:00"
+      "title": "Serbian election: Students emerge as greatest threat to Vucic’s long rule",
+      "source": "Sight Magazine",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUXdZdF95THRQNlVObHh3RUVzcVBTMWJNeXJXR2VlNWRERVRmQzB2S0l4ZFVySTNGUVRwR3V1Z21oQlp4UGdKY3JROFNac0lfdWowMk1jMkVucWRKbnh3aWU1WXpLSEM3X0VuZHdoRzRjeEU4NmJPZmVZa1c5S1Fhb1RSMGlMZWkyZmlYUDNFY3N6NWZ5WEROTV8zVFJzb1Jpc1VzZklSeVlCeDBZNGVF?oc=5",
+      "publishedAt": "2026-10-22T09:11:55+08:00"
+    },
+    {
+      "title": "Arrests in Serbia Over Suspected Election Day Violence Plot",
+      "source": "Nacionale",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVkFBT2paRi1GdFQxUVZDaURtdlVFaUxKamlaeDRleGpyZkhkOFUxWFpxYnlPV3p6QktRNmxTQ3E0VnRhOE83NUYxOGlrcHhnY096V2F2d0Q0U0dIZzNjblppaVl6RTZhQ0FmaWV0dHZBM0xvdmNTX09adk9lSTBCcGMtY3h2V3dKTTdDQ2F3R1dPYkpTUGh5RUptcGJGUQ?oc=5",
+      "publishedAt": "2026-10-22T08:19:21+08:00"
     },
     {
       "title": "Serbia Election",
+      "source": "Post Register",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPR012cXpWSWFEbFNRU3l4V0VhOGVEeUxjTi1iS0xJSUNBTjVtX2w1dFdJcjZKbEdtWGlIZVI1aW5yUlpNUndPWDlTampfU056M0tJblRUb3k4X2RkN2xyMTJPaklITFFDeTM2cHpYckNvSDRjWkpnY01TN2NURjhlMlMtSHhVbkRLRDZYUVdQOS0weXlkY1R4RVl4RkhSd0FJNTRnQU5B?oc=5",
+      "publishedAt": "2026-10-22T06:00:59+08:00"
+    },
+    {
+      "title": "APTOPIX Serbia Election",
       "source": "WV News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObDN5UU5EUFNpLWRBR005QkdzMFp6c1NsbzNHMWpjdWdWNXNVR2pLZmFvRkFZajdyS253WnFCRExfOTg1SFZxM2pHa29vSHg0NHlfZTZkNlphLUpKT0FKNG8zaU81WnJYNzRrYU96ZE5OMzZib1BXX21rdkNqQTR5ekxKUUFLWE1GS3huX0dseU1RaXBxOXJycmVHa2o4QWl0TFgw?oc=5",
-      "publishedAt": "2026-10-22T04:44:30+08:00"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUtMTU82c3RTSHIzSTF3QzR5VXI2Y012djBPQ2x4eGhubVlMRWxNdXRabjZoOGJOR2RGd0J0NHlfY1J6dzFjVjA2alZMRThScThlbkUta1RpR3B5UkFvc0ZBZlJnWjFEZzAwSndydVN6czlJN0w1R0RTc2pvc1hjM3RreFhmOGViTDcwMlNhaXBGMHNIMjNGUUdyV3ZYTGFfN3hEOVpPYUU3VnFLSVE?oc=5",
+      "publishedAt": "2026-10-22T06:00:28+08:00"
+    },
+    {
+      "title": "Students march into Belgrade while populist Vucic holds rally in Serbia's south ahead of vote",
+      "source": "WRAL",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMmVvWGR0QWNLbG0tQUFQeWpjRjV6V0pKU1BnX3k2ZGt6MXRFMkZpMkdBLW5aSXptNWZoa09pSEtlSzBrTHFWSXZqVkFkRzdxUzJUOXB1OGt3b3ZkUUVGV2RyOUg1Q05MdlFFcmMyWnhUOGUtanJOdzg5OVMwaVRzVFF2Q3pZOTJVdEVWazI1SUJZWFByZnJEZlV4cVdCQUtHSU9fcmlOVzVfRkFsV3JRZkwzMDhUOW5QYWVHNGRFU1VXN29UenRZ?oc=5",
+      "publishedAt": "2026-10-22T05:32:43+08:00"
+    },
+    {
+      "title": "Portrait of Serbia’s Aleksandar Vučić",
+      "source": "The World from PRX",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQc1gxS210elRVWmhTQkF4dTc4VFUtSkN0SEwtZEZEa2tkc2pKeU84UTktcFVBaDc0NElUam1rS2JhUmd4S19GMEJ6THFkbkQzVjZwdEtBSV9KN0o0aXZOMG1nTnZncExSSXU2NEtnd05ndFp4bkhjOExLQk1hMW9xTkxEdw?oc=5",
+      "publishedAt": "2026-10-22T05:27:08+08:00"
     },
     {
       "title": "Serbia Ahead Of Elections: Foreign Influence, Electoral Integrity And Challenges To Sovereignty - Analysis",
@@ -48,34 +72,10 @@
       "publishedAt": "2026-10-22T04:21:09+08:00"
     },
     {
-      "title": "Opinion | Republicans are taking CPAC to Serbia as the party bows to Putin",
-      "source": "MS NOW",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSmhLX1BNTjdBQlM4N2Z3Z2NEOGpwNWJObXJLQXJuNFBGWW9PMU9lb2VBNFJzcU5YYVlRVElfRGJLVURGV2d5aDZJWlltVS1xVFBsRmNYOEtHS3lKRHFPWUh6UC1UbmY5NDJMdnhwbzhYeTRWc2FYYVZiMWhRd1NpSlF1VEw?oc=5",
-      "publishedAt": "2026-10-22T03:08:00+08:00"
-    },
-    {
-      "title": "Hungary’s MOL Agrees to Buy Russian Stake in Serbia’s NIS",
-      "source": "Caspian Post",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdFhPd1lJa0Jub2FNcTgxN3JZeDV0N29DMjc3WWh5dkwxYWkyN0NJdnlJc1N1THVXekI2cTlRaEN0bFh1NWZVdVVxMjRUQzUzMUI3T2lGRmV6TGZ6dW44bF8zSVgxOEVRN1RsbTdCOTRiSHNHcFlZcVNfTEVHZER0cUlpcjU1b1ZjOF9qejhpdkZUWTA?oc=5",
-      "publishedAt": "2026-10-22T02:13:52+08:00"
-    },
-    {
-      "title": "Serbia: UN experts raise alarm over media freedom and shrinking civic space ahead of elections",
-      "source": "ohchr",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUxZUWdvWHhRMDdoQml5UUt3UkpFVDYyalpUU29ibmZMd3ZxZ004OW1iY2t1aWNFTTF6Tnk1blpleGp5R1VvRkdnb0NhODh1VzkxTEEzSndrV0JCMERQMlM4S29nSXJuQUlhSDhsWmY1RXY2anBRWTcyNEVtZ1ViYU1NX0tyc1lVMlFMcTU0WHZDRFRiemxpdy1SbnpiYm5sYTdVVm5sOWVTbUFkQmNuckU2U0NxenpnV0d4OHA5UQ?oc=5",
-      "publishedAt": "2026-10-22T01:11:59+08:00"
-    },
-    {
-      "title": "Air Serbia Adds New U.S. Service",
-      "source": "AirlineGeeks.com",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JLVBaTUVJd3Q5bkI2Zk5ucFcxTHJMQlZHZ2VWLXRNX2ZsWmVXQ2FPc1dOay1UdGtMNnprbjV6bkRNUHd6a25mMXVDVTdDZHZfVDRNYl9PYVNYb2haZkZfMUJNOGVLZ3ZQekdoRVhfZGkxWnRIMkJv?oc=5",
-      "publishedAt": "2026-10-22T00:47:00+08:00"
-    },
-    {
-      "title": "At least seven people detained in Serbia ahead of elections — Balkan Insight",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYXcxYmlOMnY3QjdEcnZnV1d5UWhGaWNaVWRIbHhaZWp4T0dWMFBlT1h0WEVJS3RlNVV6TloyaDVuMTNsZE5ram15SllHX0l4aHVsODNtbnNqMGluWW9KelQyMFhyRDhtLWhPcFVodzJnT1l4R2RBTV8yV0VpMDJiOEt2MEQ0cTJ5bVp4WFlsV2FERHdwemc3bzVLMmh3LXAyMzdpZUJn?oc=5",
-      "publishedAt": "2026-10-22T00:26:37+08:00"
+      "title": "Republicans are taking CPAC to Serbia as the party bows to Putin",
+      "source": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNODVIeF9aaWxSWXdZSEhhU1k3a0lVT01sSUJZQnlELVJQMTB4dldWRlRYdWw4VDhOWFFqR2JvaUgtMG1lVjh2Z1JPMWFEUkZMbXlmb3RVV3MtMHM0LWhRUXViNXR3S25FcEJleWdVdkNUcjBNZU9sRnl2NjdDLXpxSzB2YmJEOFU?oc=5",
+      "publishedAt": "2026-10-22T03:08:05+08:00"
     }
   ]
 }

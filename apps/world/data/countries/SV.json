@@ -1,7 +1,7 @@
 {
   "iso2": "SV",
   "name": "El Salvador",
-  "updatedAt": "2026-10-22T05:03:11+08:00",
+  "updatedAt": "2026-10-22T11:04:08+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,22 @@
   ],
   "headlines": [
     {
-      "title": "El Salvador's president says military operation launched in Haiti to retrieve missing UN force members",
-      "source": "CBC",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU2Q4N0JVWVZfa0hodDBQcGJPeWpYTUVBWXl3SEdMVzhUT25ZZlQ2dm5GVXZFbjF6X19mdnRhbUM4QndacW9BZGJwd1pNMEFFSjl0VVBLT0c4NTN0QndvUDlRNERSUmk4cVRTWGdfZXdseFBBOWlhdFZUOERBWExZTXhsRTZuQmI5UGlESFJIMUk0cW1CQUU1YnBKNlVKb01zU2lpRA?oc=5",
-      "publishedAt": "2026-10-22T05:02:44+08:00"
+      "title": "El Salvador Warns Haiti Gangs after Technicians Kidnapped",
+      "source": "Modern Tokyo Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRWprTVljV3RKbE0zbF92am52MGhHMlZBOWRkQmJSY2VHYWUxTldjalk1ZXJ0NVVYZFZhcFpWOUJfS2RuZlJPQTZkRHVZUU9IR1JieG03S2RUZFpCZVJqM3l3RDNKU0g1OXJkVmljQnV0WTJkNWMwVEtIRy1tRTlDbmNqc3RuUFVLQUxCSHhnMnY?oc=5",
+      "publishedAt": "2026-10-22T10:17:33+08:00"
+    },
+    {
+      "title": "El Salvador’s Bukele announces military operation to rescue hostages held by gangs in Haiti",
+      "source": "Richmond Register",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbHpXdkFjX1lMRmVpaC0xOEhPNEFnbXlCQVVyTlNFSEpRZWEybjBqdEVrYktVZmhqQVlpZXBaQUdzMjI0ZTZucUdaMVcteFY4blRzd2RnVE01a1p3dkVzeldTdGNCM0lzU2pZblFCVVBlLVJrcFNwQzM2cVdYNi02Z2Vlem9OSlRSNXIwVkx5ZFpsRVJHVG5OdHRDR2lKMU94OVFmMWdSUWVGVXF4aEZGOW5sTnVfdXJ4eTRjUk9mYWNfeFBQTmJ5QW10Ulo3bHUxVDNMcHBGemQxMy1QT0czZlNrOXVzV0hndTFSdUZCMWdHTjhnWldDQzVtVDRkUVlmZm1ubC1aUS1zMlRFd28teQ?oc=5",
+      "publishedAt": "2026-10-22T06:14:30+08:00"
     },
     {
       "title": "El Salvador says Haiti gangs holding 4 force members hostage, announces new rescue mission",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXFZb1FxUlowcWMwdURfWXIyRlQ0Q09mOWltdHd1bVR5V2I4Mlg4LTNKbmNCQ2RURk90MjMwVXlSRFYxZVJ0ZEJMN0JMRlNiNS1qOEZITmtNRjdkU204QUtEV2ZkVlEzdUR5T2pHSENXcjFzN0pkelBfRV9DZXE1RU9waFlRVVJLYXcwcnNnZ1RFelNwSW83ZVBLRE9YbDdLblhveDJwTVZic1RGOWMxWUZhZ3V2Y3JLa0tVdUQ4VzZjeVk?oc=5",
-      "publishedAt": "2026-10-22T04:10:21+08:00"
+      "source": "Internazionale",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUTh2UnM5QVh0aXVNS0FnbGd5NG1uYmpTWDlmRTVhS3JtMWdOVzE1WWxlaTdrQzZCM0k2eE5mVVB0dmdmZERxci1TMVpjWno3dXRsZl96X2VfUmVvUDdaSnNyYzJuN3ptOElEOFpGa1kyTWJITjJBazZUWl81R0RNRnNWU1ZOZWQ4VklyYzN2U3duYVJfTUphWUZ0WS1sN0E2dTJTQ016ekZfMUs1dGJGTUV6ZkhDdnBheHJaY1paWl9TWnR1RnBWdmdRR3FrQ01WS081dWFFa3FLcnlZdWYybHp3aTh2bEhK?oc=5",
+      "publishedAt": "2026-10-22T04:09:38+08:00"
     },
     {
       "title": "El Salvador screens passengers before arrival with the SITA data platform",
@@ -70,12 +76,6 @@
       "source": "Ministero degli Affari Esteri e della Cooperazione Internazionale",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORGtjdGdDdHp4akZJa3A3dGc4T0V6LUJkSkxrd2phNUJndlhsN250bU1falUwbEEtM1dxWnZ2QXJwY1NVLUdLZ21oSGk4eDBYQ003bnhPMHlFNmw5YWY4bUl6bGJPMUpMOUVIeFdqbVNQa213OUoxYld1MjFkN3BBRDRmVUtJRzV2ZzZjSmdzaU9rQWdaX2ZMYzZnMUt1WFpuaXdUNzVkZ1AxTldpNy1kQnNQdzJnRnFCRlI5THR0TWdfVWQ1WU9ZZEhTNmFDeDNJclVQOGZ5aEhEZ0daZ2VWa0NMdFp5Zw?oc=5",
       "publishedAt": "2026-10-21T20:21:07+08:00"
-    },
-    {
-      "title": "El Salvador El Niño Drought",
-      "source": "Post Register",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOczM3WjBWLWdmQTh4ejVuRkU0QU53OWs1VUlaMndwRXk3YXhVZ0pmdk5GeU9sOXR0UWVMS1Flckt3cUh5aDJscHhGREZGcHJ1V2tXNjQ5ZmtMMFFtVFp4ay1WZEFxbW9Kbkd4b0c5Mk8wYWdxN3hTeXNaWnpfQnV0M3Z1Smw3VXpIeDRCSnJUdHI3OV9tZkpvS3dZTXQyVm5fd1R3UjhXY1hQaHo1SjFGYlFXQzFOdw?oc=5",
-      "publishedAt": "2026-10-21T18:00:28+08:00"
     }
   ]
 }
