@@ -1,7 +1,7 @@
 {
   "iso2": "TN",
   "name": "Tunisia",
-  "updatedAt": "2026-10-23T23:07:59+08:00",
+  "updatedAt": "2026-10-24T05:06:00+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Protests, clashes erupt in Tunisia over recent deaths and deteriorating living conditions",
+      "source": "The New Arab",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcGVwTVliQXI1VHlPb3lvWmhGQ1lRV1I0TlhzX3B3MEVKaTBTLUFWbXQtTHVFYVJDTS1QWHhyNHFIT1JVMk83N0ZlUW56UkJWYUhpQTNNT0FicHhENHlDMi00ZXBpc1lyZWdaLXRRQTY5X0I3ODY4aHlOVGtfb283elF4dlo?oc=5",
+      "publishedAt": "2026-10-24T00:48:24+08:00"
+    },
+    {
+      "title": "Why does Tunisia become African only when Europe needs it to be?",
+      "source": "Africa Is a Country",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOejZwdFdHQldhNDVUdWs3RzFpYVVLMW9kN1p3Y3RJWmZIMTNRZVp5NDI5TUh6ZEVTSUFMdk1MMkw2ZFFBRU1UT2Y0eUFFbng5NTlVWUxLOHFHUGxSU3QwOE96b0lRZWh0VjViSERJMkR2bFNVVkFPYlNRcG1TWFNhTXk3bXZqVUZMUlRsS0JXaWVpMWk2YkFpTDdXanZ2Zmx1?oc=5",
+      "publishedAt": "2026-10-24T00:15:37+08:00"
+    },
+    {
+      "title": "Mission Blue Names Strait of Sicily and Tunisian Plateau a Hope Spot",
+      "source": "www.divein.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNnBZMHhQd2tFYUd1U1paVkFwdS1GWW1tR1JUekdhUkQ5UV9CYmFLSnJzaHkteVBRT05WZFJGNjNfalpmMlU4MlgyeGpYeHczeUVORmdUaFpkNlp0WnJ2dUdlaWxkTWxsQVVrSEJ0UjRGQ2c5WW15aVV3SURzZTdwQkJBNEpFYXUzUm5oejlaOEZZU0lvc3duZlo4cFROdw?oc=5",
+      "publishedAt": "2026-10-23T23:37:45+08:00"
+    },
+    {
       "title": "SoleCrypt Plans 40MW Solar-Powered AI Campus in Bizerte, Tunisia",
       "source": "iAfrica.com",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV0xUUXU1U1JQTXNmb0JtWFJveDBIaDRWMll6bDUwbnU1bzRaVnd2V3FHbHRBdXhSamg2MkoyWGZkbkU2N0NZY2EyZUU0RTdpMjFvYkhyUGo0c1h6Yjd0Wk1zVlpVOWZ1RzR4YXBmTEhCU0RsZHl3empkZUpvN09nZU84Tk1jczVfYmpRSw?oc=5",
@@ -37,9 +55,9 @@
     },
     {
       "title": "Clashes erupt in Tunisia after deaths allegedly linked to police",
-      "source": "Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWdnSGo2eXFzMEhBSzZXOGhxVHNQZ0oxVk0taUpMaWt3RDNybElZV1ZZbXFSZm90QlFEc2dhOGxlNEpwd0tQc1ZVZEhVODVqeXp0Y2VaTmstamIzNm1uR3VHTXc4ampkQUpWYXJFUnJUNzgySjdQeHdjY2RFeUxrc1FNTWt2dk1vSW56VmhFRzRnaXFfQ2c?oc=5",
-      "publishedAt": "2026-10-23T22:51:13+08:00"
+      "source": "Arab News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWkMxMW5jZFJPbDcxSm85RENGd0FNbkN5ZEdDcTA2LV9MWWxRcVdCUEthZUZUMkRTSHlzandPRktRa2tFYnFXOGZRdnpjQmw3cGhQWWc3V1RWaXlEMEc5bXNxZ1NPT3hvXzFucmhOXzBhYVhpQWE2dEVpamhhNlRZU0dmOHpGSzlxWV9FaTVpeGJDT2JrMm5rZjFzTGY5cUVCN3RxaVBKWGdYWVBqR0E?oc=5",
+      "publishedAt": "2026-10-23T22:31:04+08:00"
     },
     {
       "title": "Orange Tunisia Reaches 120 Young People with Digital Safety Initiative",
@@ -58,24 +76,6 @@
       "source": "Business in Cameroon",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa3FHZkd0QTdId1JNMnhraFNWWDhQQmhJZW8xekluVjlXdERwb1dHWHhycnE1V1IxVExsakgzRWpTX2tQT1V0RUJ5VVRyVWh5VlVOS2RNanRVMnRUaGozVVFDSnRxN2FDZFYtZW1IQkRURnF0bUFsZUgyVHpIbTJoZHBCQUU2RTNlWDYwV2hXZnBkZzl6QW5HaW8wMF9uM3lDeVUxMzJZZHlHTW1IZVFTNTVfNVpFNjNBLUdRaw?oc=5",
       "publishedAt": "2026-10-23T20:07:49+08:00"
-    },
-    {
-      "title": "Beyond the Olive Grove: What Mixed Farms Reveal About Rural Life and Income in Tunisia",
-      "source": "Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcFlOXzNmMG9wamZEUUhTUTZqNV96UW5YWXpEOFZJdk14bGdTNlNobWM2U1lCYld2dUM5ai1XR1V0VzBQYjM0S1N6U1JYbE95bnJPYlhhTWJCYlVGNUpYZmV0RnBMVC1TV1NOU3FrY0FUVGtwWmNrX3czRC1hVWRMYzlTQUVmOF94RVdKLVNmS2E1Z1A3QzVGQTFOcmN3aUd1OC1xZGpvNF9EdmlKdTdnZ1BqM1NKa095Ylo1ckNTSjJuOF9MS2VyRGNOdG90RTltN2t1X0Nn0gHbAUFVX3lxTE1aLXFtdVNIY056Z0NKRDlqTjhaTVhENFBnbmhNM05BY1ZramxtUDg5OGNzRkpLYXI3SV82bGFPM1Z3ZzlhU09qaERKbGNncHFPQWVoUk16djZ4Z1l3djEzOXktZjhYYUpaZ2N5XzRvdGdTUGZsMmVHNkNfTVkxYjdCdUNGczRjemQ0cGYydGY1N0EtNTlaSDkwc2NySXJ5SjRUOWpuOHBSUmF4ZU9IRFVFR3RoMmpKQ1VnRTE0dGFMa3BYenhXZzM3aTZtR0trY1J6VHpZVWlHMjd2bw?oc=5",
-      "publishedAt": "2026-10-23T17:58:26+08:00"
-    },
-    {
-      "title": "Protests Erupt in Tunisia Amid Clashes with Police Over Deaths and Poor Public Services",
-      "source": "Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGFCY2h1MXZ2MnNYbFN1TU5kdGV6M0t1UGlfT1RwMTdyTmR3MTF0V3JDRkFtTG5EdTZMazA2WkN4VWRmQzVPOEdCaW9vWWNrR3F0d3VmM2FhX3pzdnlNQU9tanN6elU2UHd1RW5QVkRGU0RFUU04eFFteEplVDE3Qm9pMXdCMjJOZUNUcFVnN2wxeEVJZXBTdGdWSHQ5WFRtd25UOXU1UHhzdw?oc=5",
-      "publishedAt": "2026-10-23T15:08:07+08:00"
-    },
-    {
-      "title": "Rare unrest flares in Tunisian capital as police clash with protesters",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWVBaXJoWTdlUjhJOWVILUtXcWJleFAxaXZIVG1tQTR4ejdadW1OaXduWUpOZ2FSMkw3VWhVU2hTOW03al8xQjRsdXJuczlJOGdIUVQtM0RJSkVGeUcyZ0dvY2hjT1JXOHFodDJwU1pHeTcxY1V5bDZuaWx2ZjdYa3lxTF8yYzBsWXd4RjE3ajYxd1M0V2pReE1sc191cXZfdWVXLUZ1SlkyaDdoSVAwQk5n0gG3AUFVX3lxTE9XMVZtMnlaTXYyTFFRdjMzbEh2bXFUQW9ZMkltaTNqX3V6bXFxbXFMdzFVdnRiVW5LMFpaWmMxWG03YlBMcWVEX0lFVmgxbS1oRHB2eTYxVTFaY1ZfMmFUa3o3QXh6bGlQSGZMSFZ1VUZOY1NkM0gxNHpIMzgxOFVDRk9udGFmWWRHeGQzcl9MTmFMREJnTDhrbTdISVpZNE9EWVlQYVktV3VrVlk5dU1GalFXTENPSQ?oc=5",
-      "publishedAt": "2026-10-23T09:00:38+08:00"
     }
   ]
 }

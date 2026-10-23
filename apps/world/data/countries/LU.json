@@ -1,7 +1,7 @@
 {
   "iso2": "LU",
   "name": "Luxembourg",
-  "updatedAt": "2026-10-23T23:07:59+08:00",
+  "updatedAt": "2026-10-24T05:06:00+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,34 @@
   ],
   "headlines": [
     {
-      "title": "Luxembourg tops Deloitte’s European ranking for new apartment prices",
+      "title": "Luxembourg City: Construction worker dies while checking crane",
+      "source": "RTL Today",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckVQbC1BM2l1RzNvbUpfUnk0UUJTTGRTdjZBcmRTM2NSQzJfdGh5UXItemlCaVg4NTB3MzUySFRLQlZjeF9jbEV3ajhyN3Jvb3JlOEVDWndxZzRCdnF1c2JHdFd6bjJxN3J1WFBBYk9ibFZvUnVZUVJBdTBhNDAyZXBQc0VpUTJqN3BBeE5VRmU0ZEw1aDM0?oc=5",
+      "publishedAt": "2026-10-24T04:05:13+08:00"
+    },
+    {
+      "title": "Luxembourg: Cargolux Boeing 747 Suffers Landing Gear Collapse",
+      "source": "The Aviation Hub",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNkZRU0YtcU9lWS1rMnZFYVVSRktVRGEwM1pyWGxfVHhsemFqcUdWaHJRdHJJbENKT2xoVFZpajNIbjluNFhkQWVQSU5Wamk4QUp0cVM1LTNCdlpoSVo1QWY0SGdQN3dYX016N01JbmR4dDQ4Q3ZZaW90UXo5YmN6RTR0aC1XZ2F2ZDQ3YzZJMloyZmJm?oc=5",
+      "publishedAt": "2026-10-24T03:35:33+08:00"
+    },
+    {
+      "title": "Worker killed in accident at CFL construction site in Luxembourg’s capital",
       "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWRwLUUwY2lObjdiVGNwTWhHRW9OS1FDb2h2NERfd2x1TlVEQ3dVeUxNWWtFOW1CX0FKR3N1RWJnVjZqX25hSW1mbW9ra0VPR3BRYmhGNWxUSDlQZlV1T19Zdkcyd0lxVzFmc2p2QTBvZDR0VXVlUnJKZzVFSlBhclQ5VGswaUlueW01cDRmendiTnZQd0YzVlplbU1VM1dmOEFqSjJWN29FdWZNc2JGTWtzdE85cTB1?oc=5",
-      "publishedAt": "2026-10-23T22:42:01+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2FuMXdqZUVZQWxJTjNvS3FtckdVSGJ0WlNaQXNGaDdySldIV3BYS1IwVTRsdmJRaUNuZVljZDkwZXFOVWtKeUhIRE03TFpiRkVRSmhOaVhxc1dyQXJNMHJ1RV9iMXFEQnZvTldIa3BwdkFKdEVJTTZoM3g2ZUllMURub3BjdHh0UDVFY2gyb0p4WnpZSnRvNXAtQklpbFVGc3FqNHl5QmlkZWhENnhBX2Mya3lkZF9SMVBCYXVENDM?oc=5",
+      "publishedAt": "2026-10-24T01:10:27+08:00"
     },
     {
       "title": "Luxembourg hotel closes for good after almost 100 years",
       "source": "Luxembourg Times",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkZhazhvTnV1blZJbHFUUHdSZ1JuTWRpWFlFLVNUdFZuUlJibVhfN3lTTmRyVEdxdEt2cTZGakdRblhyTFp1VVBZVU5XM0o3WjhZZ01wd0gxeVQ5SEV2MFN3UTJGXzRVU2ZGVUpLWGg4bURENE9PTTFTYXJBYlZvVnhlYkhrSXExajVGd3lxdXR6bTRVVkd4M0lwZndDdFJNWlVSSlFjQnk?oc=5",
-      "publishedAt": "2026-10-23T22:41:59+08:00"
+      "publishedAt": "2026-10-24T00:30:00+08:00"
+    },
+    {
+      "title": "Luxembourg’s AMLR clock is ticking: is your firm ready?",
+      "source": "FinTech Global",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZG9RSXE1X0VzMVVHbjRBMWJVUGVQWmdOR0NXcTQ0VlZGUjhtYnRBbTRWVUsxV1hJOVlRM1lHMXpSc2FVTk0xY1VWeGVZWFV3YUp1MDltU2MwVkxia2FzZVAtWC1iS1FzRjVyMmJPbFJtUElXT0V6ZnotSWI0TzUyandMcWFyUERMU3ZHd0NfREo?oc=5",
+      "publishedAt": "2026-10-23T23:31:26+08:00"
     },
     {
       "title": "Luxembourg eyes defense partnerships with Türkiye, citing its strong industry",
@@ -58,24 +76,6 @@
       "source": "Paperjam",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWnNPNU9xek9TYUMxQkd4YV9XcVFFV1FMLVNOMTFfQXctYm8wVnJERHRJMHpBV2ZNRXM1ckRtTTRKMHNyenI0LURQaGdMN2N0SkktdTVBZ2Zzb2tLbHFfRUtXUnN3YXcwVDUwMDBGNnFEZ3VwUjR4elNwRUxsNHF2VmRDQ1ktc05yNXZYWTBsdmg2ZTdFMmNSdQ?oc=5",
       "publishedAt": "2026-10-23T21:36:32+08:00"
-    },
-    {
-      "title": "Etihad Becomes First Middle East Carrier To Serve Luxembourg",
-      "source": "Aviation Week",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUQ2M3hUY1FTTnZoYzF1Q0tMQnJDT0VNeHNmTDZZMDk5Qmx4MXFjaUNieEd2WUhYckg0WnpFa1VjS0QwR01ISDJJamY5WXRjWVRfTzRKLUoyd1gtdkJCNjBnVl8wRm1EdWdPQm5UT0tBbGh1dlJ6bTJNQWZzTjUwTzdsUUxUUGxzU0REai0wbUI4QVdyQ3l2c2lEQW1OZENzLTlxMTZybUNwRm1BTUo0VHRxQUo?oc=5",
-      "publishedAt": "2026-10-23T19:58:27+08:00"
-    },
-    {
-      "title": "Luxembourg’s financial regulator sets out fund tokenisation rules",
-      "source": "Pinsent Masons",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmctWGVXMnVXemVUbnBnbTF3MG8tSGI3YXpCbHc0aXZ0UnhrMEoyckhnSVZmYjUxUkx4a1Awdmh1RTRCZm1iMHVKSVFCRjdwYUhfVjRTVUUwbG5PaWVmZkxrNXhNLXVlYVdnRExNWGg0WTk3Vk9ockpNMVhud2taLWxzSlhGUG1OOEduQTMxNDlUc0lSWGtFc1NqeG5zZlpSMW9B?oc=5",
-      "publishedAt": "2026-10-23T18:25:47+08:00"
-    },
-    {
-      "title": "Luxembourg to pay Belgium road tolls, PHP flaws put global websites at risk, and France rocked by violent protests",
-      "source": "RTL Today",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPY2xXWlRIT20tZXlDcEN5MTBjNldHcUk5RXZiNTl2aUpYTU1WYnk5SHpzMGVjVUJFeEE1VUhNSzQzVUFfWXVPYk9EUkU3VlJOeFpnV0dsYlpscEF1UUhLTXZnUUJFdXlZVnZtZTc1Nks5bFpLdHhEWEh3b1VaSE9KMjBsSThpellXMkNnN2JYRGpsRTA0bHh0VkR0UkdkWmlUZXdBYmJqdUgxVFFpU1c0ODBJaG83cjNfTXdUay1GZkRMRUJva2dBMDlXRmx0LW5MVmc5cGttODlGNFI0NDlZaTJTLTlKYlI5QlE1Ul9XZjlmZw?oc=5",
-      "publishedAt": "2026-10-23T18:15:39+08:00"
     }
   ]
 }
