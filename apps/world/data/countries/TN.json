@@ -1,7 +1,7 @@
 {
   "iso2": "TN",
   "name": "Tunisia",
-  "updatedAt": "2026-10-23T11:03:10+08:00",
+  "updatedAt": "2026-10-23T17:10:28+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "Protests Erupt in Tunisia Amid Clashes with Police Over Deaths and Poor Public Services",
+      "source": "Ratopati",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcGFCY2h1MXZ2MnNYbFN1TU5kdGV6M0t1UGlfT1RwMTdyTmR3MTF0V3JDRkFtTG5EdTZMazA2WkN4VWRmQzVPOEdCaW9vWWNrR3F0d3VmM2FhX3pzdnlNQU9tanN6elU2UHd1RW5QVkRGU0RFUU04eFFteEplVDE3Qm9pMXdCMjJOZUNUcFVnN2wxeEVJZXBTdGdWSHQ5WFRtd25UOXU1UHhzdw?oc=5",
+      "publishedAt": "2026-10-23T15:08:07+08:00"
+    },
+    {
       "title": "Rare unrest flares in Tunisian capital as police clash with protesters",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMjRheXJXaTZNRHNDaGpRY0tNWExTZkpYVGwybVJ6WVoyYjFyS1JodmgyTkRUNXYySHNSUFhfUERUb2FwUjd4Z2R0bVM5ZmtSV0twUnhYYnNwN2tVMG82V2RSUUNxNWpKLVk3UllXVmU4ZGRzbHhZSklmZXJLaVJjaUQxaF9VZkhqd0R1WlpuTnpkeEFYT1R3?oc=5",
-      "publishedAt": "2026-10-23T08:51:00+08:00"
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLWVBaXJoWTdlUjhJOWVILUtXcWJleFAxaXZIVG1tQTR4ejdadW1OaXduWUpOZ2FSMkw3VWhVU2hTOW03al8xQjRsdXJuczlJOGdIUVQtM0RJSkVGeUcyZ0dvY2hjT1JXOHFodDJwU1pHeTcxY1V5bDZuaWx2ZjdYa3lxTF8yYzBsWXd4RjE3ajYxd1M0V2pReE1sc191cXZfdWVXLUZ1SlkyaDdoSVAwQk5n0gG3AUFVX3lxTE9XMVZtMnlaTXYyTFFRdjMzbEh2bXFUQW9ZMkltaTNqX3V6bXFxbXFMdzFVdnRiVW5LMFpaWmMxWG03YlBMcWVEX0lFVmgxbS1oRHB2eTYxVTFaY1ZfMmFUa3o3QXh6bGlQSGZMSFZ1VUZOY1NkM0gxNHpIMzgxOFVDRk9udGFmWWRHeGQzcl9MTmFMREJnTDhrbTdISVpZNE9EWVlQYVktV3VrVlk5dU1GalFXTENPSQ?oc=5",
+      "publishedAt": "2026-10-23T09:00:38+08:00"
     },
     {
       "title": "Tunisian police clash with protesters in capital on day of heightened tensions",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0FIcUJ6eVRzbzg0MUxGNDh3aWJNTGIzTlVhcW16MC1tSFZXaEdfY3BFUFMxcUhNcGloVEpyVlptMGV6NFpxWDhicDlNek14OF81bVpQQ2xVaFhVcUEzdml0NFozWHVDM2gxcHpXQTRGWldhM1VNREtuVGZIdmp4bV92a1o3YU5wRjhCcDRJMzJ1MU9obi0xSWV1c2ZTZDdBQTY3TktuS0hUQWd1TXItdkMtdEpiaENHTHc?oc=5",
-      "publishedAt": "2026-10-23T06:30:33+08:00"
+      "source": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOckJZS1ltUWJMdE05eGx5VXZkZjlicGU5eHJNNU5WOXlDeEFiSy1Wal9XRkhvc2w4VlplWjJGS1RsQ3dFel9XcjBSU1dKaHhKeDBfeWlQZjJhR3FNeVIwQUNURFNXMzBndENIdHVYMnlhQjBRUklyb0pyY2lPN3FlRklZZEs0Smx5eFpkSkdYZWRuR3BIWHl4WXJ3YlAyXzdINXVsNk5xQzZNXzFsMkRTYzdOTE52NnZHLWhzS1l5aVQwdXM?oc=5",
+      "publishedAt": "2026-10-23T06:21:00+08:00"
     },
     {
       "title": "Tunisia's army tries to force young people back to national service",
@@ -70,12 +76,6 @@
       "source": "Business Insurance",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX21fWGd1cks3ZWU1SWVTZW1uVDB1Z1VTcVFCeGVvZFl4clRYZ1U2bE00QWZJOVYxYmN5UGpoWnlXTDdxZ0JsQ3FvZWoxaWRqaUNaekdKLUp6LTJSZ0U1Tk5ZMG9QbGphdGE1RkwyaHV0ZGtfVEJNeVNxenFZbmhvSzM5VEtrNkh5alh0U0dmeHFtWTdQOWc?oc=5",
       "publishedAt": "2026-10-22T22:23:51+08:00"
-    },
-    {
-      "title": "Tunisia announces tender to purchase 26.5 thsd tons of feed corn",
-      "source": "UkrAgroConsult",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQlRXakFLaDJzYld0dlZ5d3EtMFBRVzJmSThKVTdkSVpvT0xlMUp0ak5nU09FWU54QUNwTjZGd3hjYURPX2VwVlVFWnQxSlFlUV8tSHI5cFRzaTJwY3dmd0lYNWptRlNLenl5bElsNjZRaFloTWdweGVvWlVlSWQ4YUV2X0p1UndEb2FpNWN2MmppVm5JX1JkMEpxMHJGbU5hdkE?oc=5",
-      "publishedAt": "2026-10-22T21:59:59+08:00"
     }
   ]
 }

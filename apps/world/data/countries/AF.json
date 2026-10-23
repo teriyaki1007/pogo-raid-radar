@@ -1,7 +1,7 @@
 {
   "iso2": "AF",
   "name": "Afghanistan",
-  "updatedAt": "2026-10-23T11:03:10+08:00",
+  "updatedAt": "2026-10-23T17:10:28+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,9 +30,45 @@
   ],
   "headlines": [
     {
+      "title": "Researchers Describe Significant Food Safety Risks, Regulatory Gaps in Afghanistan",
+      "source": "Food Safety Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaHFaYmpGdFNkLWVrV0JjVVlhSWNNRGlCMExFNnRQTUpkR1B3elpMUnNaTEpZSlBfQkVqZDJ5ZXE5cE1wSUFiUGJlMDVHZG8ydDFlRGRnTG8zbFNxTWlyOEZ1WlJ0eEhsMXBsWFp2dmRUX2cxNF82cTNsMEpOSjF5OVJPZ3hZNXVHTEUtZnh2S1ZIem9rbDgzQU1DRzJuQ1psR3JncHhIeFFRVTk5ZWh0QkdkQW84RjhQcEMxQUR6VmJmZw?oc=5",
+      "publishedAt": "2026-10-23T17:00:00+08:00"
+    },
+    {
+      "title": "Turkmenistan power project to enable 800MW electricity supply to Afghanistan",
+      "source": "Pajhwok Afghan News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWl9xWGEwWnRtWG5EdjJWSnMxVFpieHN6WVpoQzNRQU11NXlOQjB6ZlMzNjJJMW81LUwyNGZfR2lfUVJsN1FxbmhaT0VSSHV1bGRSRTBmeVY1anpDMnMtQUlEajNyampVeXRIV0QwYnBoMGhYdWpnSGl6U3RDdFBQbzhucjBidm5aRmotMDVUN0lyTUw5bTZBTW1STTRjMTcxQW5GTG13MXdzYW1h?oc=5",
+      "publishedAt": "2026-10-23T14:33:45+08:00"
+    },
+    {
+      "title": "Afghanistan: Activists, journalists and artists silenced as media outlets targeted and educational institutions closed",
+      "source": "Civicus Monitor",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQ3VVSHFFcmo4SUNlSVE2cjlJZl9qZ3hnMHF1M1Nyd3Z2dDZ3QUxtRzh5bGZmTGh5UGJBMFItRE12dTJTVTFoY01pTC1zSHhMRkZXQWlXV0dydnI5OUhKTFBBZmJPdzF3cy1OaDd4WE9BaUlSaF9KU0xTcjU3WnVSNEFJSkVoRERTS2dNeDdzdHRWNEpNQ1QzT2hGdjBLNkFEQ1FPRlVpX3hONjd2dk1WWG5EcUVNS2Z5RTRWQ1g0dmcxbmh0RWVKTms1S2wwMVFYaVpfSGEzQUVYRDIzekhtSVRxSjJvcF9M?oc=5",
+      "publishedAt": "2026-10-23T14:10:56+08:00"
+    },
+    {
+      "title": "Mideast, North Africa, Afghanistan, Pakistan output to shrink 1.3 pct in 2026: IMF",
+      "source": "巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNR0w2Z21hRFN4UHRkS3dhWUNlTG5xc2d6OWhWMUpRcXZuNEhXT0M3TGJjNi0ySGI2dERGYm1tMkduSDZ1ajA1RnJtRUhITnBUQU9PbWg2X0tfTmh4enZ3ejRnakZaS2w4QTdESnMxRVVwdDdqeGZPNGNsczRZY0toeEkxczU2dHhVNWZVX1h1RDRQckVhSTlScWlPVWNnSmt1RXRrY0RGQ2MwbjdLWmNpQjNpTWZtMWI2dDI5Y3NwRjgtcHA2WTA3cmVB?oc=5",
+      "publishedAt": "2026-10-23T13:50:00+08:00"
+    },
+    {
+      "title": "The future of young people in Afghanistan: forced to be silent, without questioning anything",
+      "source": "Diari ARA",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPSDNKaER5WllTdU43czFHUE4xdWpEbFJncmF3V3JYRFlUR0V6b0E1SDFRbWlUSHBacm1WVGpCMU5TbGN2cFBIb3VWTnMzdmpoUGVBc1FWdnVkc2FJRGxrVzE2WkpYZXYyZFdBRE1tYU5fRnNwWjJ1V1llbmo0V0lhWHAwNjJXRlhscXdCYTM5UXBlNG45T0tnMVBLNTVxakNLOTZkM3I5UlpqZTJOTEdGZ3FmMVJNUkgtRWdobDRUR2lINU9rRmljMTJhVHF0NXJUU0s1QTBIcw?oc=5",
+      "publishedAt": "2026-10-23T13:06:31+08:00"
+    },
+    {
+      "title": "Bangladesh out of tri-series after Afghanistan defeat",
+      "source": "The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeWhsYU9PUjR6cXJvZUNLcGFuVkVZekp4T0F1aTBMSGtISTdTWG90b2p2MDQ3VWN5MDJFMzlsaU43T0xkSm5CeG1RZXJrNDVNbFk2RlZBTkxvb1pBMXVhZ3VIY0JDX2dKaks4QUZaV0Z1V2dMeEQ5d2xMMXppZEFBdUEtdUtoRTcyb0R2MnhILWxzNkJQYzlnSG1xSDROQ1NrazVxdGJYaU9CaXBjSkhHZ1BPZlZWS3M0RWhnOWFTOA?oc=5",
+      "publishedAt": "2026-10-23T13:01:06+08:00"
+    },
+    {
       "title": "Pakistan, EU flag security risks tied to Afghanistan",
       "source": "Dawn",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNTVHbXV2Vk9mb25QNmEzNWRmaWpEMVlhSk9fSFFoMlU3NGcweUpKMG1EWkc3RnRfNEM0MEhDYXo4MU50VHJyZVQ3dVN1WWswM19BMFZwM3l6b3l0UkozalhzUUZnZnhSRnoxMzZIc3pEVFdNdE1BMWdWRnBPS0VSeHlXWkx1WGlrNkVyYzF3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1EbzBfNXl3Y3hRYmN3WWJGOVdFS3FOY2VsYUxjSm5BdlEzQ2hYblM5cmQxX01kZ0RoOU5EUUhXd01fckNIZEdyUw?oc=5",
       "publishedAt": "2026-10-23T10:05:39+08:00"
     },
     {
@@ -40,42 +76,6 @@
       "source": "Substack",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ydmtRMHdDVGt0QzlGSjlYcmg3enVYdDdoN01tTzRISTQ1b0tXS2xaN3B1UTVJYVczZVBPSUQ5UTdBY0plNzZCWDBjRG9pUnZFOGZvWlUyLWo1NmFXNE5JZHUyeGRvTGh3V3Q0U1NxT3pSQkc5MXdJVmNwWQ?oc=5",
       "publishedAt": "2026-10-23T05:48:18+08:00"
-    },
-    {
-      "title": "Has the World Grown Accustomed to the Crisis in Afghanistan?",
-      "source": "8AM Media",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUi1fdzRkVVg4VF8tdGkzSUxXa2wxMXhGYkV3MmhJbDNTRkxpVHB2dlpZbk1hUC1xTmN6c3F0Y1pndHNhcE5tdGVSeHFJYjJQM1V2Mm5GekZBM21MeUpxSXVFU0JTcVBXN1BKQjhkWFU5S0Zpa3JzOXlvd0VaTExwODAxdVR2NTczWUE?oc=5",
-      "publishedAt": "2026-10-23T02:19:49+08:00"
-    },
-    {
-      "title": "Russia Backs Diplomatic Solution to Afghanistan-Pakistan Tensions, Offers to Help",
-      "source": "thekabultribune.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8xdnZNVlZqSXN2QnZ4LThURUQ2WTBGZHF3QnBWNHNTd19rWU5hNXhhdTl6N0JJOTNZNWJQa0JGWExYOHBRbmdHRnNOVExWSm8?oc=5",
-      "publishedAt": "2026-10-23T01:53:56+08:00"
-    },
-    {
-      "title": "Opinion | The U.S. left Afghanistan. China’s still there.",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVdad3NnOUhfV1h1UV9vV0xBMVN6Q0tWcndNcUNUOTVfWjRBT0xjVEVMdGtqb1JfQ1c3OVdIc0FSc2ZRQzB0cGNRSUp5eGRDMnp0ZDRLX0s5TFZ4R1prNlc2RWNZanJKN0FaM0V3SUFqVklBOUZYbG5ETmI1aGFld00zdnhCRkRQMjVGSWNITEJpXy1PYnV4Vg?oc=5",
-      "publishedAt": "2026-10-23T01:45:00+08:00"
-    },
-    {
-      "title": "WHO reports six more polio cases in Afghanistan",
-      "source": "VOA - Voice of America English News",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFByZzRwbUdWNkdNbXJQWmhidWFtNTlWeFo5N0hLR0tXWERmbXFSVjZHWHVQbDFwd2N6WE9Vc2lUeUdPTjdlSTNGUWtrMkJDRTjSAVJBVV95cUxQZmlIUGVPeXJtcFlxM21mamxhR2MzVU1DUkluaWtodllOZGFBSGNlM2paN2Vjb2JGcUZkbzhTNGpNX24xNzNTV2IzRUE1cGpTRWNR?oc=5",
-      "publishedAt": "2026-10-23T01:28:19+08:00"
-    },
-    {
-      "title": "UN Report Highlights Mounting Challenges Facing Afghanistan’s Education System",
-      "source": "KabulNow",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3N6M1pWTFB1UVhnckpMMEY2a1c4LU55Sm96eUJwc2FnZUVMM3MxbUpnM3Bqdm1tS0RXS0JUd1g4eGFkanVKUjA0cmZybi1FeFI0aUdxNmhjUVlnZzgxSzlPRTd6c2Z1QmdBczBOSkRsRG9Sc2xScDJkVTlhRFJJRWFBbjhwRkt3RkY2eUFxb3hlaGxJSlBCN0JrTUxGc1JOVFlpS25jamVlZjFCazNSLU01bnp1eHVUalZN?oc=5",
-      "publishedAt": "2026-10-23T01:24:53+08:00"
-    },
-    {
-      "title": "Pak, EU vow to boost counterterrorism, flag Afghanistan security risks",
-      "source": "Rediff",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbmg5TnpVMVgtZkozTElkeGZaMEg2c251ejJjZlZUMEU2M3R4eVZRUl9TTEJMUDZfS0FTUUxXVld4dzVCYTJodVZnQWVnNXhEYjExYUctRWMyMGZmT1NOd3lQWEJYNkNsRGlMeHRHdGpyeHp0aDA1WF9lYmZydmR4UkJfbzM2Z2RRYWJfN3dvUWxnMXhWVVYwTFlJT0tYWE4weUdVdUlJam9DVnBwUkJBTDQzQllZdTTSAboBQVVfeXFMUExnSHRSZnpoZGJsemR4dTlScW5FUExqdVdfeW1rR0VlU3pta2xjWGw4N24zWUdQbkpRaF80YUluRWw4SHlNbUZvY1dUZ1ByV1hGWDZIUlJKN1llQ3prZ0JOV21yTlk2OTVZTWRUc3FXb1Jfa0xoVk5BX0ZmWnRNUFY2VGk1bTlJNnFrUXZyemZPaEdGQl85bHNsVDBnMHJCRDh4MXNyNmMycUY5UlpIUmhVT2dTdTBRVGFR?oc=5",
-      "publishedAt": "2026-10-23T00:54:04+08:00"
     }
   ]
 }

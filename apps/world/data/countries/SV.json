@@ -1,7 +1,7 @@
 {
   "iso2": "SV",
   "name": "El Salvador",
-  "updatedAt": "2026-10-23T11:03:10+08:00",
+  "updatedAt": "2026-10-23T17:10:28+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,12 @@
   ],
   "headlines": [
     {
+      "title": "El Salvador’s security model: why it’s hard to replicate",
+      "source": "zetaluiss.it",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMFU4UkVqWmFMVUY2YnlZMHd2U3UtUG42QUtOOVVGbHdJMFZVbE1FS0Y1WlhNaDdtb3NnczBzZXM3MG53VWpkd0NRbUdid3VOWnA5SF9pbDRESmhZclkzcGpJdG9XUUZEQWpRWVVsbV8xU0xCWmE0S2h3WEd1RWpLYm9OQWtxOGZvMHRVaVZPYw?oc=5",
+      "publishedAt": "2026-10-23T16:44:39+08:00"
+    },
+    {
       "title": "El Salvador deploys special forces to Haiti to help find 4 missing soldiers who came under attack",
       "source": "www.livingstonenterprise.net",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaUpNd25nakJ3SENuSExNY2NlTzVTU3pfQjV6UFJEX1BYc1Vqelh2OTg4WV80bVB1UlhQRGJjXzJmQzd6LXNWY3JxS09yRFpLWXlzcHV0NjdWXzJqdUxYVUpqNWtSOUxzQ1lqSXBxa1lGUTFmNzVZallxcGdPRW85bEYwbkdlemtWdm1Ld3pJSXJKeDlKS2QxSVFFc29iZWVVWHlqeUpVd2V4YUIxRkNvd0MzMXM2VFhqd1MtZTViNWQ4clNXUGh1aVRxdnlONkNNWFk4bW9mWE0wSUFBMjFsdzV3?oc=5",
@@ -42,16 +48,22 @@
       "publishedAt": "2026-10-23T10:17:45+08:00"
     },
     {
+      "title": "Reclaiming the walls in a former Salvadoran gang hotspot",
+      "source": "The Australian",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOejNxU043bmpLc0VxVU8tV1p2MHREMXVCb0owVWxYS05ORk15NVprYnRKV2pCNlkwYTJCVmdxbTlpazlaOHlhbzFYMzg0WGloLWxMby1xS183bUtQNTBoeVNjM0Y5Qm5vdEx5eDJrMklseFFlbENhcXhoT2RlZkVaS25udm9iZEtvOTJXc2hCOVhnV25qa08tWDFENmw1RW9lU091dlRiT3kxS0VIWFhrRVp5OHJncWlxbDFpN0tNUmJ2Vlhtb0pRVHlTNjRzS0J2eXdnUGZ3NEZnWE84akhkUVVveXI?oc=5",
+      "publishedAt": "2026-10-23T10:10:41+08:00"
+    },
+    {
       "title": "El Salvador Sends Troops to Haiti to Rescue Military Personnel After Gang Ambush",
       "source": "WSJ",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ202dHdUU3ViV0c5Um5fdEZrcHVuUjlfOTZZdk1oeHluT3JpbHNZWVJzcW43WDF6N01wSGRNOGlDSDc2YmU4WEJkb3J3STloOW9VdmVtRFFnSUlHRHp1YzA0cTlObXpZLXFQY2NrWkktejV1Qm9femlEZUpfVFVfMnZBODBPQXREYjg2WUVwSW02eWltM2hhdW1JTHRMVEtYVTZpVjFnZ1loNFNHdEtvcEw0dERqNHdyV3FTdQ?oc=5",
       "publishedAt": "2026-10-23T08:54:00+08:00"
     },
     {
-      "title": "Reclaiming the walls in a former Salvadoran gang hotspot",
-      "source": "Winnipeg Sun",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU1VIRG5VMHBkQjdncVdKcTdlWUVaSlgzbXN4cnQwMWdIWk5yYmRKVlhJc2R4Z2pmNmw4TWRUSmxzajdDeUNjMFd3TjVmNmdHYVQ0QUsyUWEtVVBtdlRuNlJJd09PQlRRNFUyLUZxU2QtODNTVURJOEpUMEZ3Y2Jocm1sa2JJLTc1X1NHVHBJOG1BMldVai1lYkowMloyQy1ZVks1YWNvakc3SEdYSTJhRWtiWUtNYkJ4S2llODV2STJvMzFqQXRZYUJzRDdMUlotYjAzTDJabVVGYU1VZUE?oc=5",
-      "publishedAt": "2026-10-23T08:16:36+08:00"
+      "title": "Haiti Hostage Crisis Drags in El Salvador Elite Forces, Reports Say",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVTYwUzdKWnhqWWhWY2RVNVNJb054Y1JNN3pYZVRqZXR0Y2dHZGU0TFRQc0YxdE9mRUt0VUdvUXlHRGhaZ2Z1bkpERmxDcFNLa2U4QlRsakoyWnZzT1ZmRjBCV2xDX3MtTzVHRFNCR3FOLThCMmNhZ1BzUm1uaUwwVHRIZVA4bXBQdXI3VWVhWmlfaHF1d0FVRlpVakpCUVoyU3hTelVoZXdXOW5PRi1lZnpCcw?oc=5",
+      "publishedAt": "2026-10-23T06:30:36+08:00"
     },
     {
       "title": "Bukele threatens Haiti gangs that ambushed Salvadoran soldiers if they are not returned",
@@ -64,18 +76,6 @@
       "source": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmRQMmZpeHNUMW02LVByUU5oYjU5U05haVhfdS1fOEJxTm9FeVJMV2pyZmFRODVEbnZUQkdVbm8wYXFzVVdrb1lleGVlWlp0Tnd3dWFuT1BKN0hSSUpSS3JPWGxtZDdENThucFUtZ2p6WXIwQUNqUnhfaDRwNm5yTG1KUU13ZGRKMjZzRUp3ZW1DeEJQNl9ZcQ?oc=5",
       "publishedAt": "2026-10-22T23:53:46+08:00"
-    },
-    {
-      "title": "El Salvador digitizes border control with advance traveler data",
-      "source": "Travel2Latam",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1VVY2U0cDRKemtxcVlzNDN4VGpLenp1MFBqMnlEeFhteHBZcFEyRkdoaS0tZEZMZ1Ewbm81bEYxSWdmSUZXV2oyRmozaEVfOUdGQU5YRUVXSGEzOFAwS2REVExOUHB4TW9EeEE1c3ZUanJtSEpqSV80SEUyQ1FRTG96VkhaT0NfdGZqb1Q0SGJUYXBtcEtEcWRiamdHS2pGWUZTcmR3RnRpc1FF?oc=5",
-      "publishedAt": "2026-10-22T23:16:15+08:00"
-    },
-    {
-      "title": "El Salvador's Bukele Launches Military Rescue Operation in Haiti After Four Salvadoran Soldiers Are Abducted",
-      "source": "Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaktnSkZNTENYNGtNMldRSUNJOGJLd25TRlc2T2FaUWVVc0tTa1dGS1k4UlVQODdfcWFwal9qZEhKMXJqc0h6QVcxcjJWamlxNkZLb09ZOFJBcW15cWdZNDRON3ZEZnF2VFVBMnhQdXY5R0xvUFdHUDNPQXM3MTZ4dlRielRlbndSOG9fb3F1NmRhYnpTVXprSGIyY0RjVEgxNXlLNFZwVXVlVE1qckFkWVF0UTl2MnJKZGhSRTdNdEwtb2xsTi03Sw?oc=5",
-      "publishedAt": "2026-10-22T23:00:09+08:00"
     }
   ]
 }

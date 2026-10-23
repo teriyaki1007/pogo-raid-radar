@@ -1,7 +1,7 @@
 {
   "iso2": "SO",
   "name": "Somalia",
-  "updatedAt": "2026-10-23T11:03:10+08:00",
+  "updatedAt": "2026-10-23T17:10:28+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Somalia, EU military training mission discuss strengthening army capabilities",
+      "source": "Shabelle Media",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZWJVd3l3YmhFaEtYcXR5cnpmRXFXQ1lNN19iNDhQZm1vY1JFVlZKWEI2d3U3ZmpUZXlKeUNDNkJSNU1uQjlWM0liZjBKZTBRV3JCcEEyNS1ZT0wxbzRqU0dZd2h2MFlSUTFMdkFYVWlmXzhUNjAwb2FCYXB4RGRVdzR6cnN3YlJpd3JGRUJvYkFzemNhMk5jSGh6NTNyTzE5YktEMzVR?oc=5",
+      "publishedAt": "2026-10-23T16:07:21+08:00"
+    },
+    {
+      "title": "Villa Somalia and Federal Parliament Praise New Hirshabelle Speakership",
+      "source": "FTL Somalia",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYWJ1V1RXQ1JuQnhnZDdwVGdmdDVxU3ZsR0xBM1NhUzZEY3hIZGR3S0pkVklIb1FCUVFOMW05UHpWYjF3REhMUlpINFkxREJlQWgtRkN0YVBwb1VCTnlBNDhqdmlsWHU1bFE4cjFva0E0d2dOM3R4Q3l4eUdzMFRtUXBIdEJGZlRJd2dsNW5CRmg5X29QZk9XMkZia25NamVr?oc=5",
+      "publishedAt": "2026-10-23T16:02:22+08:00"
+    },
+    {
+      "title": "Around the World: Somalia Plans First Currency in 35 Years",
+      "source": "Numismatic News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbUU0LU9jTFI1c2dNWHJlZ1FES181SGM2VG1iZzMwZUx4dW0zdmRkRDFfWF8zR2RDUl9hUEJjQ1M4RU14eXdjc2pKNXhRMEZidVRvdnJSWHJ3M1hrUy1tS2JOamVJZkVQVlBISmhBXzN2bEhXMUtfLWlWTEcxUl9fWk5DclZaaFdwT1pmQlBjd04zUQ?oc=5",
+      "publishedAt": "2026-10-23T15:04:00+08:00"
+    },
+    {
+      "title": "Regional forces capture key towns in southern Somalia",
+      "source": "Hiiraan Online",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY1VaZWc4YlJRcG1xYUplQm9jenkzQ2x6ME5tV19OaDdUN29zR2NQMDhxVjVFSXFyMm1vRHdwSXp2RnNxc3kxYTZDNEpNbzJPZFhZa2o0dXllOVBBYTlyekszb3A2UFFkV1dvZk55SHhjaG4tN0NfZk43RnlCVjBaMWFkNHRfRlZJZlRZSmJlSEQ4SWtHcnQtWWRQYzE3aHFrV0tfbXBWbw?oc=5",
+      "publishedAt": "2026-10-23T11:38:45+08:00"
+    },
+    {
       "title": "Somalia beat Rwanda on penalties to reach CECAFA U-17 final",
       "source": "Hiiraan Online",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcnhoUC14WVVYSkZhcUJjZlZodmw5SVVvd21GanRDVl9UQXJ6Z1dGTXBXMGh2UkszUHlrcDV0em9FZmNXM1JacWkxWWFYX0FiY1ZUUFhiVnZBMnpoVUxpVldJNVI2Qjdkc0JBSm5KRlJlOGRjOFlJTDhobUJnV054amRkTS1WZnZkZDdYbVhUWF9rWnlPRVZBZ2VaMVZ4b0JhaXhQZTNITVVFeUhCZHc?oc=5",
       "publishedAt": "2026-10-23T07:32:36+08:00"
-    },
-    {
-      "title": "IOM warns Somalia floods could displace 874,000 people",
-      "source": "India Tribune - Chicago",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRXJfTjltT3loYlU3bEVibjJ1cFJRLWpHQlZMNWxMc1ZtcUNCc2RiSWs1MWpZS1NUaUFtdkUtbDdxWklKdWpGTDVjbzg5WDg0YTFGc0pYV1ludm50aHk2QVduSU9BMFJwSWZpbUlSOFNzT2ZkVDJVS2FiZThFTmFGX0o3QVZiV3p1UVhEeXlVTFgzdXc?oc=5",
-      "publishedAt": "2026-10-23T06:08:44+08:00"
     },
     {
       "title": "Somalia enrolls citizens returning from Yemen for biometric national IDs",
@@ -58,24 +76,6 @@
       "source": "SABC News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYUpDMFB3NDh6Y0x1SjhVWVRvajNETXlZd1JTS2lxU1VKSWthY1kxLWlJQ2F4NFZJZS1hQ0t0a0d6R2VfZVVSdGlXaExRbDkyaXB3VEUwNVRxMnZmazNNLUYxOUNBX2hEVEZVNWc1bWRnMkttQjVtUkRWSmhVaDlKeXhPNWV2ZmRlX3ZiYWZMUjNxd3JtZGlfcm93?oc=5",
       "publishedAt": "2026-10-23T01:52:39+08:00"
-    },
-    {
-      "title": "Somalia opposition scores own goal over Galmudug election",
-      "source": "Somali Guardian",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWGduamEwbDdDUG5tQ29Hazg3X180YkpIUkY1cTZkbXpJV0NZSEl3cXJTc2pUZks5NWtuYkN5eU12WkgycVpkcFRyZ1B0TjNyYWVxYVlCUWF0eEJFWFBhRkFJMHdqX2lQVG9RWHNIZ1I4NW16eU5zbUtfa3k1c2MySE1HU2dnNmdya2d5NGRrOA?oc=5",
-      "publishedAt": "2026-10-23T01:42:21+08:00"
-    },
-    {
-      "title": "Somali Army Chief Meets EUTM Commander Falasca to Strengthen Military Training Cooperation",
-      "source": "FTL Somalia",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcjNjNU1lSW1KOTBQUlc3QThXaFh0Vl96VWViM2VrMEVtbm1YN2ZFeVp4LWF4eWN4SjNOVE0yX1UwNDZuUXl2bXJlVHhFNGx5U0pNTWY4RGFaamFsTVBfVWlVZzJDR015aWl0V2k4dzRPaG1KNHhnZkhZT3N4aDhKU0taV3VsN3ptX25qTVBrQWw5WlZzbGIzekxTbkhPek4yYUJWczltYmhyWG4zMmxmQVJ3TTF6R0syenc?oc=5",
-      "publishedAt": "2026-10-23T01:40:46+08:00"
-    },
-    {
-      "title": "Netanyahu’s Somalia Map Revives Fears of Partition",
-      "source": "ASHARQ AL-AWSAT English",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUWVnSDItSG56X0p6YUNMaUVhdldKNjVmOGtQQ05ibnF1V0c4UzRfV1dVRTJocDV5UWN0bkVINFBHMFRMRERPUnRkWFZMSDdCcE1HMEowMlZpaXRZTFVKS3lyWVA5LUVPZDJwWk43Q29iRVpnSC02MnhWb08wYlRCR0M0VVg3QlFxbFM0T1lwMWhudGVicTVjMHB2b1o?oc=5",
-      "publishedAt": "2026-10-23T01:30:58+08:00"
     }
   ]
 }
