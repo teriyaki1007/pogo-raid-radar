@@ -1,7 +1,7 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-10-23T05:12:08+08:00",
+  "updatedAt": "2026-10-23T11:03:10+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Advert from Dublin Rape Crisis Centre on grandparents hugging and kissing children withdrawn",
+      "source": "Sky News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZzZYdWxXak9pT3paYmhDdWtJVjNTVS02TWYzREhjR0FzM1l4N2k4Y09UNFByMzV6bjJFeHpGQ3l6clFKY3hsc1NuTWtKWUhRd1pMNGVnVWNYS1plT2Rtb1VhWHNOQmpNMk9tVE1aRjNvQ0ZETmpZb3haeHFGdUFxQnQ4NFc4R0JlRXd5UWRucFp3eXdaTXJERWZzVlJGUG9LR1VjSVVlOEZqR2RQcTN2aGVra1VXMHc1bTNTNUpJUGkzQ2M3SjBZ?oc=5",
+      "publishedAt": "2026-10-23T05:54:31+08:00"
+    },
+    {
+      "title": "2026 Dublin Marathon: Latest Weather Forecast As Storms Batter Ireland",
+      "source": "Balls.ie",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZR0V2cU42a3haX3VPUTF0UjExZ1RqeHBDY0ZHNEFqbTVRMDU2VTR0V2Zia2FfbXFGQy1oVkxvQ1dqTlYzUUxjb0IxTFNrOGk0ZXhCYVJpaERzQkZla0FrQ3B2NDAwd2V5Z1BDcjBtVGFDVkt5VEhBY0VwdTVQUQ?oc=5",
+      "publishedAt": "2026-10-23T05:25:55+08:00"
+    },
+    {
+      "title": "Bank holiday travel disruption ahead with Dublin Marathon road closures and rail line works",
+      "source": "The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdnY1c04xc2dDR1dFLXRiS2ExbFVUdHV2bUpVaS1YaEtqenVVelRZNzhlY29Wa251VjRFZU5vVmxrR2JSSGRCZjZoZzVOVktOZVFodzRDTnY1ejlUcEo0enhWLThBYnlnSHRaYWJXSHg4cG45SEkzUkszM1gtX3liSUV2RGtuQkRGbEJsOXZ6em9JUUdCXzhad1RvdzBiZkYzakdzV3Z4R3lUX2dUNWtmeTdzTmNzVHFnRlVBYnJ6Rzl0Qm51SUR5eGE3cjNOaURIOWFSdzRVQ05RTk9NZkE?oc=5",
+      "publishedAt": "2026-10-23T05:15:37+08:00"
+    },
+    {
+      "title": "Gardaí conduct operation on the rail line between Portarlington and Dublin",
+      "source": "Laois Live",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHZvcldSem83cHJOT21Lbk0wTGRkYjAxbzNyVGpjVjN6SXJlUzZjcHY0Y0dSdl9PVkY4ZEVwZDJ1QjAzdU04RVB3bTJhbTdTdzVsckViSU02a3I0aEZPV3hmMWlMQnNycU5lR2MxRVFLU3VlMTBCQjNWdXVyc2EyNmxObGlFZzFrTnl4bDB4a29SY2lkYnc1bEFTM0hkbm1ZbXAxNjFjMmFURFUwOUpqYUFhSDMwUmFhUzJMOE0wbXNiZUxDdHc?oc=5",
+      "publishedAt": "2026-10-23T01:10:00+08:00"
+    },
+    {
       "title": "Dublin hotel cancels 70 rooms booked for antisemitism conference",
       "source": "Heritage Florida Jewish News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQkdrcjVrR3RrMTEwYkltdnlWX28yU0t2UUVoN3F2TGZTUFU1Zk9EdURsMmROeTlQV1NfeUZhYjNiOU84Vy1hY0trOFZhNFpodlN1ckhOYlNEd3B0WEZHbmo4V1VkZVpCZnh4NmU2QTFrbGxMT0hVY3NLcVY1VG1WS0xEdExzWWVNZGR0R3U2Uk52am5xb2p1VVpyYnRfMjd0NlhqTG5UMmh4a05ZZ09EYVRWb2ZmdzRYVE9qczZmUUhqdw?oc=5",
-      "publishedAt": "2026-10-22T23:54:48+08:00"
+      "publishedAt": "2026-10-23T01:05:57+08:00"
     },
     {
       "title": "Storm Austen: Orange warnings issued as Ireland braces for torrential rain and wind",
@@ -52,30 +76,6 @@
       "source": "Irish Mirror",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWkw1eDZKWTd1TG14NmxwWlhvbnZzTk9NbmVNdkFfdVhZcEVsQ3AzOG1lQXE4Zkh4RkI4czJMdnZjTUVGSXhDbHRjMklNeEhfRkZKdTBUUXJBaWJLUHdBV3V5bUxIVDk1R3lncGhBeGkwX2l5dm1LMnpUUGd6YVcxT2JudjBybURLeVZZNmxUREN4dGNoaHhPV01scGpOY2pHX1HSAacBQVVfeXFMT2xFQWtuU3FUNXg5WnhacVNZS2FodWgwLWlDOWtDem01Y2ZfT1dUcDNyMnllX3pHX0lvWnJNYkhvZWhBU2dtekZWSTRIR3ZFOGRrX2RtTUhZVUYxZVlIR1ZVcU5ZLUcwR0N1c25peEJPMlJNMFJzaHRSMFFHOUdRNFdqUzVVLWoyTUVhR1NtaUpXWUZHSmJJT3c5dTNaRnlQeWQ0QnRIMU0?oc=5",
       "publishedAt": "2026-10-22T22:50:39+08:00"
-    },
-    {
-      "title": "Galway firm wins concrete contract for Ireland’s tallest building",
-      "source": "www.irishpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWEw3OEdxVFFYTEplU3NGNmhvQUNHQlRrRGh6Z1paUE5MYjIxTVpKSkRUZkJkb1VHM1VFSlViTE4zMjRzMlVFZ2l3OFlac01aOTI3WmJtWkZVd1d3ZS1pN0NsOW1EY05YbjNQWHhxZ2VkNjZab3JMU1ZRZ1lhWnIxR0tPdEwydy1Ia2g4Nk1sOThoRjBJdkdiWUhRZU43UVM3ZXdYbG41aUItdw?oc=5",
-      "publishedAt": "2026-10-22T21:00:30+08:00"
-    },
-    {
-      "title": "Construction set to begin on Ireland’s new National Maternity Hospital",
-      "source": "www.irishpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQTB1NlFJdGpPUHpzMzVfaHRyZGx0TkJjTS12TFVMOERUbTZGWGlHRENXa0lFZ01TSjJ1QlFNSVRZLVJPc284QlJEcThiNHNLUkFkRkNoekhNbjVzVkNtWjFmMHhwc084SS1jeU9vRlRybElyYzIxZFpVdUNzRjRiVElSWGJqeTlFbzk0S01taXdzNTUxR3JYWVVuUmFpRFdpdFVDMk9rUmRqYTg?oc=5",
-      "publishedAt": "2026-10-22T20:00:47+08:00"
-    },
-    {
-      "title": "Revealed: PwC exploring move from its Dublin docklands HQ after nearly two decades",
-      "source": "Business Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV3d3UWFUN29kQi1ZUkJqLXBNYUtUcmg2a1RIdDNubU9CLV9NUnBJNDA3cFpZN0VmUDRSMlNhaHNQMDc1MWtWUzJ4bVBjMmRXNnduci1oaTYyd1ZrdGxyMXhFZHF4UHhuNXJnekF2UE8zUURMdDMxblFiTk9SZjhwMmpmUGFoLUdyMC1mSGVPQ1NUTUhsYnFfY09HMG1sd21xVG1RMklMRWZzRkRaNzVrbzdQZE9MVGx6UVVR?oc=5",
-      "publishedAt": "2026-10-22T19:50:46+08:00"
-    },
-    {
-      "title": "Ireland wins big at European Travel Awards 2026",
-      "source": "RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSmdiNThKNDdiZ1E2ejhRUk1PLVZOZklOODZKYURUdjVueVJuSkRTVFlFTVVYejlwd1FCWTNYNG10NmRhTWZZMkhacFJXUmhhU0t4a0FPVWVrZUI3bXVHS2tXUVJNVmV3dW1tS2pnVTFUR1NKSm82RXctUC1kOU1ZUDJQUGI0a3BqWXU0TTJqZHpWQUx3ekNZTjItZGZLb3RKSDNaSQ?oc=5",
-      "publishedAt": "2026-10-22T19:23:44+08:00"
     }
   ]
 }

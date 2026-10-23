@@ -1,7 +1,7 @@
 {
   "iso2": "LY",
   "name": "Libya",
-  "updatedAt": "2026-10-23T05:12:08+08:00",
+  "updatedAt": "2026-10-23T11:03:10+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Rifts emerge in Libya as eastern parliament backs central bank chief's resignation",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUmZZVFpPdHR0ZXM0QllwRldsMlJCd3lxcU9BTHY5RE1IOTNNUFdMbTd1cVFzWG1ZUURydWpVU0NJM0M5a1BKZEw2cklMV25udUlqUk9WMkJXd1RHZEVuODBSMlJwNm1tekNVTWwwdzdsVEw1eHJyYzdVQ3E3czNFSnE5NzByUi1XY1g3aUZBaGtGRC04LUlQaXlZYjExRV8xMEFpb1dBVnhRLTNJdHBYVTJxdy1sSmRtWkhQa1JEU1hnaDNsVWNleA?oc=5",
+      "publishedAt": "2026-10-23T07:14:34+08:00"
+    },
+    {
+      "title": "ADNOC's XRG in talks to buy stake in Eni's Libya business - Reuters (E:NYSE)",
+      "source": "Seeking Alpha",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUERROUs1Qm8yWWhZc2JGVDRZRDdrU0MyempXYWNMajlNeTROcjdVZ1JSVlRqaHp2dFBrcHNvT0VkQnVWaEkyYnc4NDB2THdBNVBBNmhBWUN2ckticFFjNDlUZEZnQzJZTWxQdGtZc0dfY3F5Zkc1V3pIdlJUNUNhNjc5QlprV3FYV0tWekd1aUJvanBoVlAyVWF1eTJmM3A3QkRN?oc=5",
+      "publishedAt": "2026-10-23T06:36:05+08:00"
+    },
+    {
+      "title": "Libyan Business Council Holds Talks with Greece on Commercial Ties",
+      "source": "Libya Herald",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSUR2RkR5WWJmX2tHUXYtTFQ1ZzhrVkp4MlRYTHJQd0d1Wl84b3FBV2hHYkVnUlFqLUpNa2sxM1lUekQzd3lQc1Ziby10ZWdVZEQ4aVM2dHc4V1lEcnNSbzI0Qkd3blM1OVhnSXRQSlg0STdGRjBWR3BFWmI4QzE0SXB4aldYNHZDZnFZMjQzVUtHZzBLSFpKc3VSaTJleS1CMDA2cEJwWTNjX0lST0I0bXJWbzhXbzFGcTV5NkpLTXpVTl9zcHZnd3VrYldzMzVRMEtuSzdMOFE?oc=5",
+      "publishedAt": "2026-10-23T06:21:00+08:00"
+    },
+    {
+      "title": "Libya Flour Prices Drop 14% as Mills Begin Direct Bakery Sales",
+      "source": "Libya Herald",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNzFZdGx2TzlGQVl5LTNyVDhsTmpwV0FERm80R3N5OUNmTG5oY1QxWURwRklkekpnMWhCTGxMZEFTSE1HR1VGajltdjNHTlJhR2hRYlNkM0ZCbjVZcEFJTDZyRjdUY2hNcHRpaGc2alluZHlOVXp5YzhLbjBZck9YanVOZHNLakRoU2Z0elF4Qkd1RWtaSWxPWVBHQTdyTjlyQ1VyY2l0UVZPRkJPX3RNWk1PSlBIekRILWFFV0pQRDIzRy0wQUczRjFvWl9zdk11cjhxUl9CNGUzYTNCM3lQWmJ6MlZEZEE?oc=5",
+      "publishedAt": "2026-10-23T05:58:00+08:00"
+    },
+    {
+      "title": "Libya’s GNU orders immediate shutdown of government systems over critical cybersecurity vulnerabilities",
+      "source": "The Libya Observer",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWlNnYk9TQ01LdDRoZ2FxdUxTY3hmZXZ6UTFTVDBUYTM2cEZNX0xocnBSUEpIOHd1QzdkenE3V3RMRXlRTEtPY1NqcXBDeENwb3I5WlMwSXRhZWFRVGplQ0o4STdNWGU0YVdHaDNmcEpRbmpuQ0pacHlIU2hHVWNUdmwyQTVVMGVIQ25Id0llaEFZYm93Y2diSGw2Ym5oeUJsZmNOa3VQMjQwNkhvbHplekZ1SQ?oc=5",
+      "publishedAt": "2026-10-23T05:13:52+08:00"
+    },
+    {
       "title": "Today's top news: Colombia, Libya",
       "source": "DPPA",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCY0Z4U0JaWEhJTHRxSHF5TjAtTVpFOWhtcjNlWktaenVlSHREeHZMT1VnQmlRbjVhd3l3RzY3ZUxNaXh2bW5WcDJJbXR3NVJ6Y3JaTDhYNFBqa0p6OVEtX0Nvb3dtMURZYXc?oc=5",
@@ -39,43 +69,13 @@
       "title": "Israel Condemns Libya’s Approval of Maritime Deal With Turkey",
       "source": "The Jewish Link",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnBzVC1yTVBYY0lZQXpjNzRRaG5aYWF3RE5YUUF6QWVDc1ZFbnhtaUg2Rk1SX1Q3UlMzNjE2bGo2cVluNnpFZkkxZWxOT2FYZjN4SXJfUnduZGNMRjAyVzJndzBDaHVfRS1IOTVtTHVLczVHbXlxdjhDMU1JLWxRRmdPaUdtbTVpSklRdlV3?oc=5",
-      "publishedAt": "2026-10-23T04:37:30+08:00"
+      "publishedAt": "2026-10-23T04:48:18+08:00"
     },
     {
-      "title": "How the Turkiye-Libya deal is reshaping the Mediterranean",
-      "source": "Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9xYkZsUFhVYlpvX1IyWVczbnI0S2lRWnVoUzFDR0NMRnJ5c2YycUEzWkVvZ3pkVTA0dFhvQTU5MHFCbjlPTXdleW5KUDE0bngtaXp1bXdOUXRQUHk4aXdLa2VsNFdJODjSAVxBVV95cUxNR1k4OUZkQ2NsYk9xb3ZYeTA2dDIwYXFLSTRZOGxnOGI4bDJMbk5FeTR3clotOFQyc29LeVFpUVdwS3Bwc1lROHhSdmxxcVc0X1RJenc2dS1uUzdfOA?oc=5",
-      "publishedAt": "2026-10-23T04:09:47+08:00"
-    },
-    {
-      "title": "Egypt Reaffirms Rejection of 2019 Libya-Turkey Maritime Pact",
-      "source": "Global Arab Network",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd0pHRWpBMnA3aWVvZGRmVDBXam8xenJPOHNxNFVhT1RMNkNZNzNKTmFpV1JSUk5fUE0yUDlyMlFsU21kMUFmYU5qRnF2M3hBUHBQbnF3ZllCekhwMkFMb1hHaE9UczBGc1NxZzN6aXV0NXczaGJTZXhud01LSmlSa3Byc2tQSmt0TGp4emZkUU1hMkZ1YkNCWXFpRFd6Y1ZLWEV6bHI5Q0JzVkNPcGRz?oc=5",
-      "publishedAt": "2026-10-23T04:01:42+08:00"
-    },
-    {
-      "title": "Libya’s central bank says it was raided",
-      "source": "Egyptian Gazette",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91anA0X1Y2ZWN6a21DSXNxeDhHTFQ0NDBnOGllZ3NRMU9IVGZMTS1pMk8wTS01YjJXSF9ZTFdGMkwtaF9MTDdGT2hLQl9Uc3hxdFNPR1lOSU1EcFdMeXdrdzNvWG1YdVlxM1RtN1A4Rm40R0RlOFRIcEwydE5hamM?oc=5",
-      "publishedAt": "2026-10-23T03:46:16+08:00"
-    },
-    {
-      "title": "Egypt and Greece reject Libyan parliament ratification of 2019 maritime boundaries deal with Turkiye",
-      "source": "Arab News",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeGIzZzNBR0hoV1A4SHg5enQtRVlDczBORjdFUjIwMEhVSUtSeWJYYWg2ekxiV24zdlFYdGtkWmtqR2wzWEdISGNiY2FneEllaFNabWhjQ0l6TlQwRXRnV0FhUDRtMHN1QU1TaExZSmJQbnBpdS1aeDEwc0lrYW1xUW1pZGFKZWhxd1VrOHdlQV9QRUNjeU1VWmg3N0RDR29tazhiSXVHR0ZwQ2JQR3hiVWFpUEtVX2hRV1BwTU81aC1kOE9xaGdKRV9SaDI5eG5CYm14QWtMakxTemV3VkE?oc=5",
-      "publishedAt": "2026-10-23T03:36:57+08:00"
-    },
-    {
-      "title": "Central Bank of Libya Governor Naji Issa Ousted in Forced Transition",
-      "source": "Libya Herald",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPa1pBd2FxOFozaUY4VDBlbW9tZlZranFvRjJBaDEtTXpVTEdJTnJ3UjlqN1BHaTVLSUQxSmVDbVdrYlNvYXZSakh3TGxNNC05YjlOR05YUVFOUEw2dlpJc2RRWXowUjlESlljUXNQc1ZZN2pleGZncUFmM01sUUpEQlNoRm5ubHphczZsVWF6U01ROTdqRnQ5RkRCcU1RcHdQYzJOaTRlTV9fbzRXWlFVaDlsM0I0YmdsOXRPUzVlMzR5blFqRXRiSkpDdlFhUzhIZEhN?oc=5",
-      "publishedAt": "2026-10-23T03:23:00+08:00"
-    },
-    {
-      "title": "Rifts emerge in Libya as eastern parliament backs central bank chief's resignation",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUmZZVFpPdHR0ZXM0QllwRldsMlJCd3lxcU9BTHY5RE1IOTNNUFdMbTd1cVFzWG1ZUURydWpVU0NJM0M5a1BKZEw2cklMV25udUlqUk9WMkJXd1RHZEVuODBSMlJwNm1tekNVTWwwdzdsVEw1eHJyYzdVQ3E3czNFSnE5NzByUi1XY1g3aUZBaGtGRC04LUlQaXlZYjExRV8xMEFpb1dBVnhRLTNJdHBYVTJxdy1sSmRtWkhQa1JEU1hnaDNsVWNleA?oc=5",
-      "publishedAt": "2026-10-23T03:04:12+08:00"
+      "title": "Why has the Libya-Turkiye maritime deal stirred controversy?",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVU5aUNPMmExNzZ1LUFLZTRNYTFZX2xlckN3MWZvM0l3UGZCTDlLUFdqOE9CWXFnN2w1MlhFVEx4dWxrVTJiOWV4TmRieXN6NGtJV1RkZXRQblNYREt3YTB0UEpuV1JDY3ZEX3lsRWRwbjEzSUk5OUZVdTMtYWUxQkJ3ZXBPNTFycjBLZlVWTnVTbF9qR0F4ZGVsZ0VROEptX1hfZVl0SFV0bjVkSXVEbkdrZzVMQdIBuwFBVV95cUxOc2l4YVpIc3F3Y3hrdTNPbEdrQ0gxMl9kWkN1ZUdEcFoxVFpJdjdRNm5SckY0SW5aUkRsWVFvNlg1bW9HVGhZUzlPbGo4dUJ2cUlWRHI3ZXhxMmpLWHlQR2FSaUEzY0syX1RZMzg0a2R3MDhTTjVtVnRrYmlrcGp5Uk5WcHY3QjhOYWJIRlRQMlRscU9XSW9VSkpVbXpGakJsaGFXRmphTGNzTW1CUUlwRm5xMFFWeHN1cmtB?oc=5",
+      "publishedAt": "2026-10-23T04:13:48+08:00"
     }
   ]
 }

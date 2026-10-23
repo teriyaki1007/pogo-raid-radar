@@ -1,7 +1,7 @@
 {
   "iso2": "NL",
   "name": "Netherlands",
-  "updatedAt": "2026-10-23T05:12:08+08:00",
+  "updatedAt": "2026-10-23T11:03:10+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,52 +30,52 @@
   ],
   "headlines": [
     {
+      "title": "Decade-Old PHP Flaw Found by AI; UK, Finland and Netherlands Government Sites Taken Offline as AI Security Market Set to Hit $7.7 Billion in Three Years",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xM3hUQjBVSUlZRjVHcWFFb3piYkU4SFFTQUFubDJZQUczNDRxLTZrLUhPLWxHenRYblVtRGREUU9Jb2hMT1lhV1BaR0llUTBhTmtIV1hyRTFQUWZmS2hrQlZBejdkNTE1bzNtYm1LdFVaUnd1d3c?oc=5",
+      "publishedAt": "2026-10-23T09:05:00+08:00"
+    },
+    {
+      "title": "Defense Business Brief: A little bit of MOSA; Netherlands-U.S. industry days, and more",
+      "source": "Defense One",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVzNYM1BsdURuSkFoZ3FUQ2xPRFBTaW9iQ3BQY3NnWFRidi1IaU5CbWFueDcyWUtjc1RLbWN4Z1Qza1gzbjdKREFwLUZFR3oyeDRrNEkzQ01GWEVGYmEtc05Wd0RnODgtY0pYTU5HSGpDRjBTSENVTUlYRDhPa2NCeVAxQlNNRmZCZ0c3M2M1ME5ZbUQwYVh6LXUxRE5RSWp5SUdJdXlnUEVJQ3lnZml0UDA2bVB5SUlXSEZISlYtOUxVUkZMRFI3czdPVUVTTW1rNjBGcEpyTzdXRWFzQ3RBaEpjQjRzOFd3MnM4?oc=5",
+      "publishedAt": "2026-10-23T08:40:00+08:00"
+    },
+    {
+      "title": "Netherlands stocks lower at close of trade; AEX down 1.10%",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPemRLQ2IyWU1xM25YVGQ0T3M4M2l5c3RYWWdNb0d0X2ZzNmVWSGc1OFRXeC1VbHAtYkw5OWpHdFVJSDd0dHFxWDBEOWZoRXhPVlp1NDhJWG1acG9jaEJmdWRVMGpYVW1lOVg0a2ZOTXZvdVd2OWd2N2lhRFNXa0cyZWNNenNyQ2gzaDJ0Ry1ubmRkX2FPeG5qaERlci1xSWhUQm9zMFhvckw3bzQ1MkE3alRR?oc=5",
+      "publishedAt": "2026-10-23T06:07:30+08:00"
+    },
+    {
+      "title": "Coefficient rankings: the Netherlands make excellent gains thanks to an almost perfect week",
+      "source": "Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM2p5cEx5TV9DZWNXdkRrOHlZLXZCRjBuUWhGVlBzc3ZrLWtIdHBHOEVLd2JMZUoyUUhna0dyX253RkxueEtXdXRSUEJqSHYwWFM0bzlTSjB5SGp4NDZLa1NTWE8tOTdFY0xMblpEQWp5UGFyN2dFNHEwYWdKZ0tuY2RXVm1DWExPa2U1bk5tdDdWWHRQQUdOR3BPVHVZNzdmcmFjZENJZWduMUdkdkVvZnJsTG1aUzdzVWRURzFSM2pwTEZzUDJtSXFWNkd4V1RrWWVvRkR3?oc=5",
+      "publishedAt": "2026-10-23T06:01:18+08:00"
+    },
+    {
+      "title": "Coefficient rankings: the Netherlands make excellent progress thanks to an almost perfect week",
+      "source": "Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOelVzNWRJZEhTalUwZGJrR1NIYnh1S3BmLVRkaG1hX1dGRmoxLUFZMGlmR21uMm9vSXpEMHp0QUl2UFB0bDJMQ3IwZlBjd2FxeWd4dkdYNXp1QVNUTWVILTI0U2V5emhQOFBRWDhhUFNmSy0zZkZ5OEk0WWwyM2tRamhseTQ0U0psUnpwX2JKeF9FajhJNTJXbkdITXJxTFItR0llTjlZVzczQ0pKNC05R3pNNFhHNUYySU1OTE90ZnNVOVVldWNYSG14Z1BBcGJkam9LMEFuODEza2tXTFE?oc=5",
+      "publishedAt": "2026-10-23T05:52:59+08:00"
+    },
+    {
+      "title": "Coefficient rankings: the Netherlands make major gains thanks to an almost perfect week in Europe",
+      "source": "LiveScore",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeGo5Y2NHalpjcmZHek1teWVTZEF3bkhXazUyVXF6Q2lyLWJZOGEybDd1bHIxOFlPN1NySUJvNFRIaUQzSWJibHdMNUx3Q09YSG5FdWhiRmZJYmNNMmtQc2tIWVNISi1aR1FEUWRvUEtCZFdPYWhJd3R0cU1tYUFfR19keTQ3UXZzNldlajZ6VDhmZHV1azg3bFFNODFkZGl0TkNESTV2ZWxHLWtrVG94QWV4d09sMDE5UllYek5yUV80LW5GaU5taVBsNlZqampBaDNUSFpSaGlUSXB3SnB0VFUxeUE?oc=5",
+      "publishedAt": "2026-10-23T05:40:46+08:00"
+    },
+    {
       "title": "Netherlands Europa Conference League Soccer",
-      "source": "WV News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZ3kwYlZ3NXhTM1dXSktjT19hWmQ3UnFOa19MdTFuLTAxX3pBc1ZNdWFUUExoOHZsV2loZW9wa1lDWWZuUVRMUFc0bzN1Mlk4NHFaWXEwYVZvOWRhdDhwR0xKYkhIZU1WMW5sVFlEQW5GdFV3YWhGRHNhNFlhWUN5SVNkYkJud0o0UnpPRnMtV3FhazJQT3RqZWpLNVgza0xVTlBMUVRpUVNNeXdKZTViM0E1QnNGN21LREZncnY1MUd6ZU0?oc=5",
-      "publishedAt": "2026-10-23T04:48:20+08:00"
+      "source": "The Herald Journal",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPd2pLWHhLaWlMMmR2U1VvazlodG4xWmd3emkwby1HMXo5Zlc0V1Jqc09aU0s2ek8wUXhFVkQwT2htVm5sNlJDOE04Qnp5ZlBEM1ZOcWRTOFhDeVhLcUV2NTdQUFV0NDRLUEtZb2RtU0Z4NUI4akt4M0k3MkNaNy1uM1Q4bnNGd1k2QWtpQUFyVUVRS0drMk1PUGs1OUNuRmFLMF84Nzd4cDczaDlXTEI5UHpPYy1RSVotS3dhXzFlMXliSWl0clg0?oc=5",
+      "publishedAt": "2026-10-23T04:59:47+08:00"
     },
     {
       "title": "Netherlands World Championships Gymnastics",
-      "source": "The Herald Journal",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOREdSTzhCZzF0WjRMc3lfc1d0WkJfaEV4QjhzNldqdk4zQ01TMUZjcko4UlhWZzljSTNsXzEtRm93R3kxdnN3dGlNSlpBVHhuU081SXhKMTdHSlNoYkpzRHB0V2VtQkNSX3IySHlCY3BEcHBGRkhGZS15bFV3cGZQdG9nY1BKTmR6angtd0tTTFE4eVF2VFBud2M4YUt5a1N3LVZxNEdsV2NZeUdtNE9MNGk1UFUwc0Y0NGtuRnpWbXFPMVVuLUE?oc=5",
-      "publishedAt": "2026-10-23T04:16:43+08:00"
-    },
-    {
-      "title": "A large-scale outbreak of West Nile fever has occurred in the Netherlands",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcW5FMUl1UENqaDJYbnVUd2dXa0tHNjJtOEhRMmNyMVNBX044SkNENS1zd3lOdHZZY1ZSRVVaeWxDYUF2aWdOOTRmVGlBWXFxUzVhSDRlZkV1X2xrWDlSVUhiNjNYOXZtYTJZajlOXzhOLTFFMDRUQlJjdXVnbVZ0d0lJYnIwMG5lS3huWHBUd0FtcHZZR1doazJn?oc=5",
-      "publishedAt": "2026-10-23T02:35:07+08:00"
-    },
-    {
-      "title": "🇳🇱 Netherlands: Bart Arens and Matheu Hinzen Return as Junior Eurovision Commentators",
-      "source": "Eurovoix",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX3BpWnh0cDdMV3dFNlF3c1pFUWpTTXl6VlpHVUtVU2xnNmtfWmtTUlJaZkMtaXZjd243Z1M4a013ZWJSb0xVLTNTa2FScnlmWExyUlpYeUR2TEZxdUZqWnc0TlR1RXNHdGhoVUdNV25LUE9sSVg2M0RoUnlveUN3NFhkQ2J1Wi05Mmx5LWUtU2Q3MkR6S0tMS0hhZUxBQQ?oc=5",
-      "publishedAt": "2026-10-23T02:30:22+08:00"
-    },
-    {
-      "title": "Alaska State Troopers welcome new K9 Valentino from the Netherlands",
-      "source": "Your Alaska Link",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSGgySk5lNnVjektmYm5TVFBOSDBkR0x2ZFZud0Q5TlVHYVNWejRMczl2YnpfVko2RTItN05PMkpsZVVlSjBqUUIyRWs5VW5oc1pSVDBSWWVkTmpuX2l0TWwycFA5eVFVU1c2V0FkY0NZTE9jTVYwVFdscUlJV1RrX1lMcnZrcnp2c08tYS02OE1TVlBVdmZZS1VlSS1UX3J3NFpQVVZzb2pWb2FqbXdFbGdlaFFfWWI1bTVVOEpnRXMwUndqUDBiVXVDWVVvTWtxNVNZZEhxb3BhR2pPZXd0YjUzNmk0YmxJbTJpa3lqZnI?oc=5",
-      "publishedAt": "2026-10-23T01:04:00+08:00"
-    },
-    {
-      "title": "Netherlands closes Cairo embassy to public amid protests",
-      "source": "Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQX2lkbm0yRXJaRGFReHJ2NGhzZFkzNXNPM3owZVhPdXdSVkg4TktZaHBnamFnMUxKMVJtWVRWN3N4Q1hYcFRjc3czTmxaWFhjZTlFT3k3T3drTGo3c0R6YVlac1JXRXUwM21LZ2NicWY1dGxkeEk3aFBXVjFUY0o4UUd6VQ?oc=5",
-      "publishedAt": "2026-10-23T00:51:00+08:00"
-    },
-    {
-      "title": "Netherlands shuts Cairo embassy until further notice amid protests over Egyptian's detention",
-      "source": "Gulf News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTlNzdXM2OE9vZGtpMzJHQlJGVGZudHhJX3FGS3F1UlNyc0pmSDliUDU3WlVYSkJqWHo2YlZOS05tTjJGSkZYaVBXYjZpWWtybFc5QThLdl9PU2VSckk3elR5N3JKQ3dDdERTYWNkeTlmOHZ6Zmt1OFRObEpiZ1dNR1dVTnNwdXhFUW9VR19vcW1hUHhvbl9kdDlnY1FBbWtRU21OM2lycWpyUQ?oc=5",
-      "publishedAt": "2026-10-23T00:39:43+08:00"
-    },
-    {
-      "title": "Netherlands temporarily closes embassy in Cairo amid protests over Egyptian national’s detention",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSTY4M2hoUnh6MG11ZG05TzQtbWNmeWNOd3NZclhkb0ZQNTgtQmdQN05HcG0yZlBZb1NuM1FPUW9aZkxhOHVPR09vbTFkcGJJc20yMzNIWHFsbmR5bk5xTGtQTEIzWUVoQ0dtV0pwVlBxLUwzLWc0ZHNRRmVHRUgzTWQxX2FSODZrdlNxRGVMU2VYZUIzbEtQcWJHWWNabVh1U3JCQy1TV0FhWk9oSFNiWmNnZ0RRQmdRNko4Z0ZVdXdXMUlwOVl2YVVpYXM?oc=5",
-      "publishedAt": "2026-10-23T00:22:02+08:00"
+      "source": "Idaho State Journal",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT2FBQnNBeWcyUzlQTEFjNFpzdDRrYUNlYVZ3QVVXNVVMV2RQczhOVUpzYzFnVUhPVHh6b3RpVEZyMG9TbEx4OHpEUFl3d0ZJVUhlRF9GclZ6ZGd4NHNvcnlORnVPVUgxc2IxWnozbDdDOWMxZVM1WEpkdERvQ2VWRlhNajlTVm1NbW1RcWpKVERFU1BpQlpyaVJnVVNVMnRXQ1ZsajZGbDVZRFlEdjFoQmlESnlkNmMzeVJqeTlKaXdQZnNLVHdrRUtRMG13d3R0NmZYLWs4VQ?oc=5",
+      "publishedAt": "2026-10-23T03:40:34+08:00"
     }
   ]
 }

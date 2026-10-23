@@ -1,7 +1,7 @@
 {
   "iso2": "CR",
   "name": "Costa Rica",
-  "updatedAt": "2026-10-23T05:12:08+08:00",
+  "updatedAt": "2026-10-23T11:03:10+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "Costa Rica appoint former captain Ruiz as head coach",
-      "source": "Blueprint Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkbFRUSlVrdUNWZDBTd3BNRXpvRG9OZkRJUm9jVS1McmhQQ3FnRTF4RUFQUlNSdmJBQXE4VDNaVUlmaXZyLWQtYkFLVEdmclRCMm1PWml1ZlVjQzZhdGc3RXMyQjhWeGg0ZjQtbjhWTzdaajhlLTVTMzF2NnhxUnM?oc=5",
-      "publishedAt": "2026-10-23T02:01:00+08:00"
+      "title": "Power Failure Disrupts Costa Rica’s Juan Santamaría Airport Control Tower",
+      "source": "The Tico Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOTdYT2E1OEwzRk9HSVJLVWtkcFZpTmFtYlBaZmpEcl9qNG91cUw2UDdXUFFlZzhwd0p6QTV3aEhqaExQWmhCNmxKY084NWlCRXlXeUZVZEZQVmR4NDhrSDgtLVBwT1B2eW14Z2FoblhnUmc1UHZGVnpUbkZxZ3VTc2tzaWpZZ2NVRHE1TFpzbk1rX1ZQcC1ON0p3?oc=5",
+      "publishedAt": "2026-10-23T09:34:00+08:00"
+    },
+    {
+      "title": "No Roads, No Cars, Just Tarpon at Costa Rica’s Silver King Lodge",
+      "source": "The Tico Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelNnS2hwNzEyS1NRRWkxRDdvXzVkOTdPZWEtOEd6TTYydkRFZjhZUFQyNERhdzBMdDFJZjl2ZUxPbHIwOFpKSkluU0NJUHhsemRfYk92WEdxYXdaeGlHTVNmVmhrb1NDbGRvVTdvcnhjMk16SHlGcGI2ZWZ3cFIxTkZzRFE?oc=5",
+      "publishedAt": "2026-10-23T08:16:00+08:00"
+    },
+    {
+      "title": "Carbondale filmmaker draws parallels between Costa Rica, Roaring Fork Valley in new wildlife documentary",
+      "source": "PostIndependent.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdERiNGtRTGZxR2FVb01rNUFJTWxVMTR0WTJ0LU4xeXowNDVjbndjOWNWUTk1eFBDRzAtTXhkVnpSV2NuaTlaanhfSVA3dmNNSjN3SGw1ZGo2ZzI3V3NKbWp3b2ZSbFNpazF1QmFxMGFsLWR6aks5dmk5c0xjaHZvdWg3MmxITFhnXzBTMlNOZGJtbXU2enFHTnl3Z3lrS0hYSGVUWVJVUkNRUXg2eGdweTVTdGNjNG9qUWwyWlFGM1pJclZiUFFsbkRac0l0bjFyaXpfYUFZWHc?oc=5",
+      "publishedAt": "2026-10-23T06:59:00+08:00"
+    },
+    {
+      "title": "Costa Rica: Syphilis cases on the rise; concern grows regarding congenital syphilis",
+      "source": "Outbreak News Today",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UNm5fNUhESWV5OTdpdTExZU0yOExBS25wRGRnREZMVG01bXNYVndQQnBoVkdBanJvVTdMbGtfVjlROHJMTHhhNlFweV9FWTJJSFZ2ZTE4RDV1Y3RWazh2eE9Nam03S2pidnRjZ0tjM1Q1REV5UVFwZmdDSmNVZw?oc=5",
+      "publishedAt": "2026-10-23T06:12:06+08:00"
+    },
+    {
+      "title": "Board adopts interim travel policy, approves Costa Rica trip",
+      "source": "Philomath News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMm9hUFdTeHlMNGNfTm9JUkVHVENIdTZJaE55c09rOUhDT0FPcFBHdGtMMXZkcTZwbDc3a2lTS2RERGhGZnVoN0tpY2J3WnJPNUdYZkRfUTk5M0pRLXJlTGdmcG0tQWNYZ0dsaTBpOUd2d0dYOWFqdVNpTWhyTl9GNXpCUjF6Y0lscDFqQXV0SQ?oc=5",
+      "publishedAt": "2026-10-23T05:17:42+08:00"
+    },
+    {
+      "title": "This is how Nicaraguan children integrate into Costa Rica’s classrooms",
+      "source": "La Voz de Guanacaste",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQk5pMk9DMG9BQWh0SVdsOHZoOFlNem56eURWak1IU0p3c3E4cnNCTU4xb1pESXhhNm5nb1VqRkVsOWhfR3ZXR3Q1dm1VR1VQZXJMZU1aeDV4V1Z3RTdUUWI0Ulc0MHozMWlPb2Rlb0FJZ1FEYXNEUjQwYVFlS2ZJeW5yZ1MzaFZ1eVFzbVljNVVMdEtqNUJ3OVA3aEtHQ0tNSlFB?oc=5",
+      "publishedAt": "2026-10-23T04:56:09+08:00"
+    },
+    {
+      "title": "Future Champions Golf and Costa Rica Golf Federation Announce Exciting New Four-Event Qualifying Series for the 2027 FCG Callaway World Championship",
+      "source": "The Golf Wire",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdzh1MjZma0dlRC1VRHhiQTA4WGx6UVpoX2dVeHNoQ0dHRHBYMXJQMFNTVHNuS2hfdnhacFUyTFAxb0FlZlV5dVZxOUtib1ZUd29lV3JUbUhIR0VZanFvekZSMGgtNFhINUlOZUl5ZXZlZ0M1QThsbnNhUm81cVRCSw?oc=5",
+      "publishedAt": "2026-10-23T01:06:34+08:00"
     },
     {
       "title": "Peptides Costa Rica Announces In-Country Stock of High Quality Research-Grade Peptides",
       "source": "The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNRjZmV0JlTEtjY1hGRl8zYUNnbURQR2NVU2xfY242ZEM0LTlEa0MyN3BKVG1PNExQeFptSGYwelY2T1pTa2JQWFpOQV8tcG11TUs2MmlEM0Jac3BoOF9LWGVMaDlNNWFnUF9LQzdYLWl0ZE53eVVNYVdTQjZYZHNxekFKUF93QVhhZTFQZ2ttRkZCZkQ1VDFySmVvOXdiNlRaaFJxaHBaa3RXcWZmOXcyUGcxQWY4bVc5VEt4cDZvTVh6MjhJNXE2MGpuNHI2WlJlODFkQ3EydVpxTGhNSk1tc3FVSXItTVBkRExtNGR2QWlRQdIB9wFBVV95cUxQLWRYUzVlbGwtRXc1VldkUHQwMkJISnNtTVZLTTFCRVhuYjN1RjFLTWpGajVyYVBOQ0FNMGdRZnF5NHRnUVVXaHJ3QjAwRHhhbTV5a0VqTkVsNkNLU1h5MlE0TWFVZ1BoUEpRbFNrQmg5QlRIV19uR21qSmJFeld5MWlzVEJSUWU0bmJkTnhzZU1SZTk0Um5CckprZHM3Um1HV3FfbXdKVTA5NElCSXZpTnJPWXhZLXhpRnhwRlFMOW5Udl9samt3OU5KTVktbnlxaGxKYUxkUkwxX0x0M0NoSkViaWxhRXh4Z01qeXVSb3B5N3otdjBn?oc=5",
       "publishedAt": "2026-10-23T00:25:38+08:00"
-    },
-    {
-      "title": "Costa Rica’s First Cold Push of the Season Brings Stronger Winds and Rain",
-      "source": "The Tico Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOc1Y2cFNVeTlEb0NXQ0hibjNwUlFIZ2NILTNZTGIyeS1zd1A0RDlWRmp3RTBfb0hVdXFseHBZUV91V2RMYTFmWEdNNHE2VVNBZFlOTmlBU2EzdkdUVWZfQ2NsZjdoelB3Rm80djZBY1N1LWVpWV9fOFJEeE85aUluYQ?oc=5",
-      "publishedAt": "2026-10-22T23:07:00+08:00"
-    },
-    {
-      "title": "They Want Their $650K IRA To Buy A Costa Rica Beach Condo They'll Live In Later. One IRS Rule Could Derail The Plan",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelFBU3BFUjUyX1lyb1YwX3Iyb2wtWXN0d2ZKNU1TTk9GbmtvMGtWUUI4Z25aQjY0c2ZlRDNCb0xnMm8yZnMxblJBd0xPMUlDVVh0d3RQRjIwelg3TmZQQzExNVFUX3QzbXVaSzFBZm5PRmMwekpwT2JGNk1YNDhWVkloQ3BkUUFtd1J2ekxR?oc=5",
-      "publishedAt": "2026-10-22T22:45:09+08:00"
-    },
-    {
-      "title": "Beyond Green Expands Its Global Portfolio With New Members in Costa Rica and Spain",
-      "source": "The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOck85M1lFNUQtUmpXZF9nX1ZFQlQtOWRJNm1aSFpXN3VhOUY4X181ZTRkczdnOUtqMkYyRzJraWpXbUJiOEhVb0JhYUNFRkxKVDFXdXl3TVN0RjVTRVdPRzdRZ29SZGx4ZWNZZXNrSVRMakNJcUJoWk1IczJXbUpialg5LWFhUEtUSWVfMVJEdDBGT1JGVnpmRHYzOUo0UEdtMGRjYWM1OXZ0azBockQ3LWpqM3JMZTRiNFlmR2hWaGtkVW1MZXFCZlZwWW94ZnRqUE9RR3hPOFpuX2RPUEFVSXFMQmlKb3lZTmpXU9IB8gFBVV95cUxOVWxES1VpNU9LNlM4WGNSREw5cjAwM3VzZmFhM0pseDM5MHQxZWNlNzdlUkxRSG0yVVRhQ3lwRTdMd25pNThKMXdlUy10VXBmLW0yVEJDc2xreERzWmRGTndjYkd6ZTRmQ3ozREtabWhKY2dua3FfanFZTG1TOXUyQTlwdF83WFFyV1RhUHRQMWtWc1Q0ZlJwampITmVCTGpYQWdoN05rdEhmWHFkdkFCb28zWXhNUVhvbWMwSVJXd1NYaVFHRW1KNGlLb3JVakQ1LWh1dHFDRUFFS0dWMHlZWWJ2N3E3Q1JpdmRidlMwZTItZw?oc=5",
-      "publishedAt": "2026-10-22T22:22:51+08:00"
-    },
-    {
-      "title": "Free Museums, Films and Music Fill Costa Rica’s Weekend Calendar",
-      "source": "The Tico Times",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ra3dSaGUta045VWR4VzI4MjdtREdhdkVnNTN0ZFhQNS13OF92LWkyTFUyYm5sb1drbjNTNy1uRHItSnlSR2NKMV9QNmRFVFFXbVhYX1ExektUdEp3TUc0ZS1PTllfY3J5M3NnMThwSExIVWtGNTNROWNBdDJCcG8?oc=5",
-      "publishedAt": "2026-10-22T22:00:31+08:00"
-    },
-    {
-      "title": "The Essential Guide to Visiting Costa Rica",
-      "source": "National Geographic",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbWFpWHgxaDBSamphTGtlcDRXWU00ZTRJZDRJajVpdzlPclp1M0FJdjlmLVVxdlI5U0laeUFUbmtIeDJuQUtrLXRWeEo1N0otZ2pkQ1NiVEhKZ1NDbWlFcGtNV0xDV1F0T2J0eG1PWlVHMEsxYlhvdlRMVEtYWW4wc0lodEpCM0Z5MVl3?oc=5",
-      "publishedAt": "2026-10-22T21:25:46+08:00"
-    },
-    {
-      "title": "Indo Costa Rica Film and Cultural Forum Launched at 19th Global Film Festival Noida",
-      "source": "ANI News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTVV1S1VRNkxERks3Zm41N2JMdWxZZ012MGxDS3FrWXc5S1FHUjdlbW5ZRU1PQjVZUXdqRUx4NVhGRGhrQTJCUDRQLWhKd1JKUl9zUmpRVUpMdnA3NS1ZT1VMbXNUVjR0TzhyUTBPdEZIOUZIdnM0TnFHNDN4Y1RsRVF0ZFo3X3I2RlJsU3VPSWtwQ0o3NWRCN3lJYUlCYTFXWkRNZFNvb0lab1BJZjN0bmRIOHFQZV9VT1V1NWhlenVHMEdkc2wzQkU5VUhXc2s?oc=5",
-      "publishedAt": "2026-10-22T19:01:00+08:00"
     }
   ]
 }

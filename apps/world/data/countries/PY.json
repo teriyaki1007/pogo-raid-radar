@@ -1,7 +1,7 @@
 {
   "iso2": "PY",
   "name": "Paraguay",
-  "updatedAt": "2026-10-23T05:12:08+08:00",
+  "updatedAt": "2026-10-23T11:03:10+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Paraguay Evacuates 4,200 Families as Parana River Overflows",
+      "source": "teleSUR English",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBndFhJT0hUZFRrT2kwWVRUOVlfVHNFMG85ektLOEg0Mm5vSmdUZUFfdEpEWWZnNlVMMF9tYVZrR2lvNnFpYks0WWlEa2dGTU13aVNkTFhJa3ZSbGU2eFhkVGcwdHZyMV9WX1dMN1RPYXlDbU1PbGdHeWpvdw?oc=5",
+      "publishedAt": "2026-10-23T09:13:33+08:00"
+    },
+    {
+      "title": "Heavy rains cause flooding in southern Paraguay",
+      "source": "The Lufkin Daily News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeEpOQzZyOFhQVl9RR1IyZnRtQ1g0MVJodzAxQTV6UXNaSF9xVWJHUHp1UGNQMjN2OTlUTk8xcWVzOVY4THFHdllsWWJ5WUNJQWc2eU9WNFo5OHJHaE0yNFZOTWhhU0VzM2xZdm9oTlVIRG1sZWM4NDFGbUhJX1AzYTVMVUZfbV83aHRNUFFLMXdUSXY0cU41LW1lNHF0SWlqTF9lSjhmcnhSbEVZUjRiM09VQkNfek13Tkk0TnhZRjc5X3MzdUlrYzRQaDFlMzNsVE1OdTVhZW9NbEpxRHc?oc=5",
+      "publishedAt": "2026-10-23T04:57:22+08:00"
+    },
+    {
       "title": "Paraguay to receive 15 retired Taiwanese AT-3 jet trainers - report",
       "source": "Air Data News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMlZiQzA1UXZXQmlPdzNVSldPR2UxalZ2cHYtTDZBQzZXTDlyei1BQzQxOVFQTlNuXzlVWjZ4YWdxV01qMFFIOEhmSzhJb3dmbktRNWpwdWZQWFN5OURmY2hyLThXVGVDVGo3Vi1uRFVubmFmQjV2aFR5NzJDb2MxVTBENkVHV2FOTHU5eklVaDBUZ3I1akU2MnFn?oc=5",
@@ -42,10 +54,16 @@
       "publishedAt": "2026-10-23T03:10:55+08:00"
     },
     {
-      "title": "Paraguay’s central bank under pressure over politically connected lender",
-      "source": "Internazionale",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPci1rMk9BaU8waFFGR3lrWGVydXFIVVNOT1NXcmd3TXFIUXJ1WGxERkR0OVJWOGZ4c0hTcjVwSThYNm9wOHBFMEo2SjhldV9KbmUybWdQb0toejJIQjdTY1Q4cFJXS0JlREFiQmVJbTBSTnJsMV9aMFdsbl85bGg4UkQyU25kWE0xZ25SV1dJVnY4LXdIeUpHcDFPeHZFRUVISVJNa0l1VndWMlVVWVJ0NGtkSlllNExFWWFvZXBlX3F4bjVpLVRWWEFMVzNYeDM1ZEE?oc=5",
-      "publishedAt": "2026-10-23T01:55:26+08:00"
+      "title": "Paraguay central bank faces pressure over ueno oversight as political scrutiny deepens",
+      "source": "Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlAyVDF1RTd3dV92bEMtbS1wZUo2dDktMVVjSUFvclo0a3JVNXdzMkN4OU9xaElMenluOC1hQXVqVDUwNUV2TWtJYTQyeWZ0dmdSamItMHRyZkE0LTJmd19lN3A0YjRtUmVYSmlUbUJ5ZzU3c0JkeW9GbnpYbzZLUFZFQ2U2UlFrWFdTb0VJSWROay02aDdTRnE2WUlKMUJNYUE?oc=5",
+      "publishedAt": "2026-10-23T02:11:43+08:00"
+    },
+    {
+      "title": "Paraguay's central bank under pressure over politically connected lender",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQkttWTU1WHM3ZHo1N04tMXo2ajRjOGpTX3VRWkFmVGhwNlZkUEc0bEtBa2hKdEFBYzhGV21BTFNfQzVjVTY4OGVPem1wdHZEZjZERkYyakdwcGVMaU5HOUxtQXZNaVlNd0dKazVQYUlpU0d2WGNhV0l1T3pJN1djVkhhbGZ6X1JlWXhQTFJXczFORWd0eHRpMHFUVjZHMkJtbGJWbWVYekVlYjNpMERSV2tqV2JNWHpyemNEQU84bHowQQ?oc=5",
+      "publishedAt": "2026-10-23T01:56:09+08:00"
     },
     {
       "title": "U.S. firm plans AI data centers powered by Paraguay's Itaipu dam",
@@ -58,24 +76,6 @@
       "source": "Foodmarket",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQ1Y5SGRnZU40bWoza3RmWDFVMnNudUtXRVE2XzNvQ29nUXd5MHRQNm8ySHdscUI3R0JEUGhRLVQ5LVR4dGxROVAwVlVITGUtQ191NFd6YWhwT0VVMll4RHliM0RBeVhqT1hvTlFaX1JTd0FjUXJRTTFKR2JxR1RmUmlBMTBESTdaeWc4c1R3SjhNdFJzc09MTnZkQzY2bDFkX2JNaDZmMDFPUEtqUTRrMUVIR1VyMmh5a3J5b09ocjlfaWltbm9DMDRaM2d4elp2eHhiRHEzbw?oc=5",
       "publishedAt": "2026-10-22T23:54:58+08:00"
-    },
-    {
-      "title": "Crusoe Partners With Araico To Deploy Ai Cloud Infrastructure In Paraguay",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOUxhdG1ta2JxWFU3M1RJbkJRTi0tWGpPRXNZMWhSemdqazd4N0Y5cjI5LXdQeVh6bERTY3haWXp0ZTJfN2pXWVEwT0F1REFSMG5FWW1WVU9ZZEcxWnBBMExkNXJ6N2tiNGRZNmg1QXd6YTVQLWg4S0Q0NUREbk1lOEZaaTV1UG9TWVA0UldESkstNHZ2YTVaMnlrMExHem8xV0piRVM3T2ZEXzFCZWVrUDhlNno4elZfb2dGbmsyQUphWENGNElGTU5QYnNndXJSZ2lwUGhkeGJEUUk?oc=5",
-      "publishedAt": "2026-10-22T23:36:01+08:00"
-    },
-    {
-      "title": "Taiwan: a Chinese Territory | Paraguayan politician on consequences of political isolation",
-      "source": "Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLVDM4VVdYTVA0MnMzN3o0aENHQWVXVGVUdWFsWGgydmNTNHVQOVN3TS1iZE9LOFVaUTZIZGxpUWFWLVZYWlRqekhaN0dRYU0zdFpaNUFXZkZBNmFuUDRjVNIBXEFVX3lxTE42QTBlTWdUa3Q2eW1vbzFhNVpLcUVzZGc4SUhudWlqUkt3NGhiOEZFamNiUFBDal9abUVVLTEzUlR5ZWVlVmxGV3dpQmp1aEhuc1N2QTRwY2VHMVRV?oc=5",
-      "publishedAt": "2026-10-22T23:30:00+08:00"
-    },
-    {
-      "title": "Paraguay and Switzerland secure top-10 finishes at Morocco 2026",
-      "source": "IHF",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMFUwMlV1VmFJNXE1OE0yc3A5WkRaeXlxNGtJOXpYYXlIT20xXzlRWEZUN2hiSkowUmx5OVd1WEJaNFR2X2pnWUNPNVM1clJEUUpmN2pPVENfcDNFTnJ5ck1UUDZvM29nZ0c1R2FVbGNZQ1YtcmlqT0lCRGx3NFpEcWRvdFNmN2FmVk5hdkVpVnUwdXF5MmRfVzFTRG5hd3g3?oc=5",
-      "publishedAt": "2026-10-22T23:23:09+08:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "iso2": "BB",
   "name": "Barbados",
-  "updatedAt": "2026-10-23T05:12:08+08:00",
+  "updatedAt": "2026-10-23T11:03:10+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Sports Barbados, T&T maintain unbeaten starts in Netball Qualifiers",
+      "source": "The St Kitts Nevis Observer",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFV1dmcxRGhnbDBiVUVVTUlDbnluM05YSS1WeUxiZVNfQjZHQTQyUUoyYkpTRDd6enp6dEhIOUR4LW5xMnZ1UUhUMy1PTjhzVFAySDBORVB0VndpSGRMMDBQQmhNcmJVYmpRTU92anNKLXVXRWd4WnViRDcwdGlQMFN2cm93Zm9RSlBrNzZOM1BmNGxsSHlQY192djNvV1hCa1cxMWpQcmdhUQ?oc=5",
+      "publishedAt": "2026-10-23T08:21:31+08:00"
+    },
+    {
+      "title": "Barbadian Runner Seeks Repeat in MD Million Classic",
+      "source": "BloodHorse",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORU45cU5sRzgzeTBVTjlsTTczOEhSR0Y4MVI1ajF1M0g3TUNDUUotMXhsZ2ZQUTNfYlRvRWJ3WjNZeU91cE4tMk9zVHZ1SnVPN2lsMGIySmtoLXJvUUtUUFlYbVk5R2xpZjVYbkh4ZFZfQ3ZTOUkyYXc2YUFoTUhRanVNZkVkMEtYXy1xYnlhMHE2eU94bDFwaDFqYS0tc0pSZ2pVTUExSmNtenc?oc=5",
+      "publishedAt": "2026-10-23T04:44:00+08:00"
+    },
+    {
       "title": "Childhood obesity rate in Barbados rises to 42%, education minister warns",
       "source": "Caribbean National Weekly",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWkVyODhfVGVOcjRIcU5YanJTVzNkcU0wVHhQdTUxRmh0bVdFZjE2dk9BcFRUN1RlLWgzUndPTS03Q0JCYjJabm0tUWM4aHV0WGs4MUYxMFJlck5CTFBLcDJvTzZKNk1Nam9iaFdZTjNQLTBWekdfT0VqejAwdHZSUGcxWUNPVmN4dlNQOUpVSzYxdkFENTFpOU9ISGhvY1N5ZjdqWFJ4SHRtM1ZPYzdvOFJHY1VQVVVk?oc=5",
       "publishedAt": "2026-10-23T03:56:35+08:00"
     },
     {
-      "title": "Barbadian Runner Looks To Repeat In Maryland Million Classic",
-      "source": "Paulick Report",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdnRGbGhIVnJYdlRYMU5KNy1Gc1YySmxOOUZ5VzlTNy16TFFtSFFYWjl1Z1RPeVROZ2YwRXhsMUdrQ0p1WWExRlRzMVYwdzFyX05SUlI0UmJQV0U0SlkwTlJHQTFDalRHTmFqaDh1bDd2TUdldUxfcFZ4d0dVRmgzNFFOUlpQbkVjVnRRZ2hERlRPTmxTLURGT2Q2SU1mR2hzUk1TRGFwY0FIc1N4Z04ySw?oc=5",
-      "publishedAt": "2026-10-23T02:20:18+08:00"
+      "title": "Flash-flood warning issued for western Barbados",
+      "source": "Barbados Today",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUEVGak1mTTRISWVBN3dvY3JNUlpOY2NQZVBQUHJ6LWtyV3Znbk1yUUd4Vm9FTFNkMUg1clRsN0hXNk1FRVpjVjI1WjdQTDZZWDdxMVpyVEYzVnkzVjBFSzF2MnotRExVTXZ6Q0tEVkNHVlEtSUhTNkpHbXBpRURKODlJVFBjRlJFLXhyX9IBkgFBVV95cUxNb2FHdXlUNGN1Y1E2MEJKcHRLejVoWTYxOUNIeks3WHRHdUZzMEZoQ1VCZE0yMzBQOVJadkRtbDJkZTJpZGpZUHc1R0VyTUxwSF9rd29iOHR1OC1Cd0NUQ3VRbW1kemZDaGxRb3UzcUxWeG4xMFhGT2d4NGp0Rm5nZC1YbktocVYtb0t0RWdZYzBJQQ?oc=5",
+      "publishedAt": "2026-10-23T03:45:21+08:00"
     },
     {
       "title": "Barbados presses case for fairer global climate financing",
@@ -54,28 +66,16 @@
       "publishedAt": "2026-10-22T22:32:31+08:00"
     },
     {
+      "title": "Barbados defeat Saint Lucia in netball thriller",
+      "source": "Barbados Today",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQmpLd3J2aTltXzNyb3BjN3ZQWE9IRlQ3N3l0N1VaOTNIcWNKdWtaRkRVdzd2VTFpMS1uUUJtWGg0SjhfQy10YW9RZEpwRXRMLV9BUXJEYjR2Y0tYX1VKZ0RUZzc2MVdDVl9tQ2VaU25XOEJ4MDFTZU1XQ3I3d3ZUZm1IVWQtNEtqVFZPM9IBkgFBVV95cUxOaHR2aTE0WEJvTk9Jd0VaQnc2bFpPd2JQVW16WVVCWUJxV1pYdG5ULTBtSzNxc1lUdnJuY1F6UjhySzA2OV9HOEEyZkNIVDlRRFMtbDVzOWV2dVhudTJUeEFlOUxkcHpyMTlIN2U1ZXNmdUdNUVJjeGQ1Tjl5UncxZk1Xa1RtWVpZaVVmRHpBQWNqUQ?oc=5",
+      "publishedAt": "2026-10-22T08:45:39+08:00"
+    },
+    {
       "title": "Trump's Venezuela Oil Deal Could Allow Investors to Remain Anonymous Behind Barbados Company, Report Finds",
       "source": "Latin Times",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObEh3OFVhNnk5MThXejE2OWxuSWs3WDdxS1RGQUhSUUlzY0dPc0FSWjNoa2tSZ05JT3dmc0xPRFFGanhUenFmMGtONThrbFo5cmZTd0lYeFFCWTJDUHRndlhDOVFuT1ZEaGt1LTBHQmluTXBMWW4xOEppRmJjMFJ2V24teEhUR2hCazRyUnFNOENEcHZHcDdRdTJ1dmFuTGhGVVYyakxtNThSQWJZMmVRR2JZOGxuRkFtb1Rsb2dNby10ZGZXeWs4Ug?oc=5",
       "publishedAt": "2026-10-22T02:18:26+08:00"
-    },
-    {
-      "title": "Barbados launches the global campaign “Barbados remembers your name”",
-      "source": "Travel2Latam",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZWpHUWxsQnJqVU9CWXBpel9uczFjR2hTT2YtOWw1SzNXYWNLVUJVbDNNaXgwLXU4aUFkNWpRUDN2ek44bXZGUnVQSS1oeFhPNHFjdHFhQ3RQNTFYNEZZZW5pRV9FeXNlcXpmUktEcVZuUC1uSFlMVzVManN0TE5IZ096clhvNjRnLVZtTmFlcklFYzVYYW51c0Qwc2ZxV3pvOHh0NUF3SVhLc3M2Q3E0bg?oc=5",
-      "publishedAt": "2026-10-22T01:15:51+08:00"
-    },
-    {
-      "title": "Barbados Welcomes a Wave of Exciting New Experiences in 2026",
-      "source": "Breaking Travel News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFZNc1dSZ3pvS01vak9IYVMxMU52Slc1VFlvb0RFUVJrTnQ1Z29SckloOGswWXphX0hLN0xNUkEtMnctVk5BREhPVVNtSEl3bXE3WGNpSHE3Z05nUmxLN2RDdm1SeHNueWc4b0l1S3JVY1dfYU1pTVg4RnFHbWdNb0luUkh0d1pzMFNyS3BZUTRkelJ2Y0hrTzR0d01XYmI3bm9NNVBxU0FLcE9qNlE?oc=5",
-      "publishedAt": "2026-10-21T16:45:33+08:00"
-    },
-    {
-      "title": "Barbados unveils its winter calendar",
-      "source": "Breaking Travel News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTHBHbDN3RWhrRkh6c2Z1bEtTSVhYYjR2ZFl1bUJNM25YVXNKS0RaTzNmZWFnWklnYy1JMmlYLXRKTjkzQV8tSlBYemtSQ0o4ZWtxOHFPZUlaSVBwV0JTVURfLTlXbHhQWktwcTE0ZkViS2xFZ3hod1BjR29Nc3ZwbG9nb2o5NmtaSHQ5YUFR?oc=5",
-      "publishedAt": "2026-10-21T15:22:06+08:00"
     }
   ]
 }
