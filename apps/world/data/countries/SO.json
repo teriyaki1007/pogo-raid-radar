@@ -1,7 +1,7 @@
 {
   "iso2": "SO",
   "name": "Somalia",
-  "updatedAt": "2026-10-24T11:03:58+08:00",
+  "updatedAt": "2026-10-24T17:03:21+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Ruwan sama ya tilastawa mutum dubu 800 barin muhallansu a Somalia- MDD",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnAtR052SlRwNUZLV1A1WUtRd0dkWEJFaXZyNHRiaDdvMEd0dXdZNFI3X0tRRzRKT1h1TWlibTZZZnZ2N3lNbmItVXlXMXI5LU45R19icUdGOEQxcjZaUUJoRDR2S01qTnRsMTU3UVViemZiMUNLa1FHYl9tQ1Fxd1hiQ3FyX2U5SWdzSkdOWEVqZFNCOXFXZTlQekVEQlU3VG5iUjdkemtKRVU?oc=5",
+      "publishedAt": "2026-10-24T15:50:49+08:00"
+    },
+    {
+      "title": "President Mohamud Praises UPDF’s role in Somalia’s Stability",
+      "source": "SoftPower News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQei1hSlF0Y1pyTkNCUmRjUlMxZXpVUG9DaGdidGZSYkVGeUtKLXZ5SWhrNWxrUC1WOTh6RERYdl8xTmxlTnd6Mkk2bkxFOHNJaURjejZINnZIVWoxYkdieEVQVmVoaFQzVDdta1pOX2pISl9OR3JJMGFPcE5qSHdWc0pfX3oxbnc?oc=5",
+      "publishedAt": "2026-10-24T15:39:36+08:00"
+    },
+    {
+      "title": "Somalia sends more than 200 military vehicles toward Burhakabo",
+      "source": "Somali Guardian",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY3B6Z0JTNGhFbzNCanhMNVh4bTVsMFpWWU5VenFYYmdyR2NXenNiZkt1S1dKaFZDYWVVdTlwOVpsWDR3UmpHYVdMQU40elJwcmZ2ZXpaOGhNT2FXUnpScWRvZGI1VGZiN0JrWFQ4LUF5NWZnYndJWm9fN2FieEdJbm56ekZVcmhUaktIcUFR?oc=5",
+      "publishedAt": "2026-10-24T15:36:41+08:00"
+    },
+    {
+      "title": "Kenya links Somalia’s security to regional trade and economic stability",
+      "source": "Shabelle Media Network",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHUycFMwT2lUeHlaZnh3azR5d3B2YVJrNU9Pbzc1VTlsaXBMaEtyRU1WWTBTTHRJUGJDY1llRXQ3ZnVleUdKQUVvUGg1UVQzZXBOV1pVTlFfNTdNTDlmbGRTWHdDYVlxM1hCMjNuMk5LaENnNTM3RER0V1ZsSXpvMFJhVm42SjlrNDFWaS1TVG51REtHZHEwNzUyNVlTUQ?oc=5",
+      "publishedAt": "2026-10-24T14:54:07+08:00"
+    },
+    {
+      "title": "Somalia’s House Speaker Urges Committee to Accelerate Legislative Work",
+      "source": "Shabelle Media Network",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZl9tVnRncHBGMlpnSEZQdXVnN2hhSjR1MWd5bDFHWVVVNUZOaFAyVzJydVRrVEc0WllpbDN1TkZIXzFyTVphcW1mLXNLR092V2ZzLXNDMEYyZjFsUzhqSzNmd1lDTU5lYV9mRnhPZEJhLVVOcjMtY2lQTnc5UTl4d1BhZlpiWHVQN3ZtS0dHUW9mRzlPc29XNTRNcEs?oc=5",
+      "publishedAt": "2026-10-24T14:54:05+08:00"
+    },
+    {
       "title": "Regional forces capture key towns in southern Somalia",
       "source": "Hiiraan Online",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY1VaZWc4YlJRcG1xYUplQm9jenkzQ2x6ME5tV19OaDdUN29zR2NQMDhxVjVFSXFyMm1vRHdwSXp2RnNxc3kxYTZDNEpNbzJPZFhZa2o0dXllOVBBYTlyekszb3A2UFFkV1dvZk55SHhjaG4tN0NfZk43RnlCVjBaMWFkNHRfRlZJZlRZSmJlSEQ4SWtHcnQtWWRQYzE3aHFrV0tfbXBWbw?oc=5",
@@ -46,36 +76,6 @@
       "source": "FTL Somalia",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnAtUmdRbUVUVlRvOERaTzhDd05WeHoyN0pQQXVUaG1xWVlpNG5CRzF5cU9LS2pVT2pYZVJKazJ1RFBNWGUzSGJ4MWNFa2dqZUxiTnFja3d6Z1BvNmNSRTlGaG9halVRU3Fud3FGR0ZFX013NldicWxseElxdUhuUzMydDdUTGtrYWowUE5PSWR0ajl3Y1I3aUw3N1UyMTJZSjB2MjNBdHFmUEwzNjV3cg?oc=5",
       "publishedAt": "2026-10-24T01:12:28+08:00"
-    },
-    {
-      "title": "Northeastern State: Somalia’s Cornered Frontline Region in the Red Sea Proxy Contest.",
-      "source": "pan african visions",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmQ5Sk9ydHd6WEdOa3p5VUxIdmtwZ2pRX2xFYnlLVWxTU1FsM0dTMHd5VDJ0NFljZy1tUEp6emp2Z0FMeEhrVVNtbWk4d3BQOXoyLWtRZkY0bGNQamdXM2pac044emxuVU4weS1qTjRiRkVYUW1oVENXQmNtYi1PTmg1LWIxMXh4UWQtXzJ4UmJ5ZVlpVk9DY3g2c3Z6TkRNUktfU2tmLUNmR0RjVXE5V0hZV1NwTDRXOHZRdVZ3?oc=5",
-      "publishedAt": "2026-10-23T23:23:38+08:00"
-    },
-    {
-      "title": "Somalia faces risk of mass displacement as floods threaten hundreds of thousands",
-      "source": "Horseed Media",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdDlCMlpBb2RvSllscXpidmFUd3ZNYTJSb3RvUm0tVjNZY1c3SDJ0RU1ld0tJYmRhWm44dUkzR28tclB3RVluYXVZYjFtZGo2Q09TUXQxR21iRFdlSS1ITU15Zm85YW82dHJoQzR6Q2hiRUZPWEhDSjQtN1EyaVk2RWx0Mm1CRDJESVBBVDVyRnFkY0RCN3kzOUhUbk11cEpJMENzb3BCczZMc1VCVkpFV2hzdw?oc=5",
-      "publishedAt": "2026-10-23T21:51:40+08:00"
-    },
-    {
-      "title": "Somalia army chief meets EU training mission commander",
-      "source": "Horseed Media",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSno5eTNNMExLOXhidk1CTko5aHVNbmtiMzJLUE90UWFzM1hXcVI0bTRmTUlhWlN1TVBEZ0s1c2pycUd6cDRwMmU4b1MyQkF3SzBjYnhjZHNmY0RBSHhHM2FGU0NUSDEzX2d0VWVRaFJ2bGlPa0ZzblIzZWZXam1ESVRLUlpmbTVRQzA0QlE1SDM?oc=5",
-      "publishedAt": "2026-10-23T21:50:00+08:00"
-    },
-    {
-      "title": "China, Djibouti oppose recognition of Somaliland, back Somalia",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYURjQ2NuOTZCUXhfZndQUjFQTmtOcGJvWFNxQmYtdUdJS0szM3U1RU9nc0FHNEc3TG92RGtnZGwyTHRGdjR6dlZEZFYwS1pfTW5MWkZGb3FOMUFvalVBUlNYWmpnS1JYdGVPd29qVHpFazhMN2tRd184TVUxbW16WUFjUklGYmdyT1RDMU1vMk9qU09sUkJoVi1ZRWdBcC10N2tFUUpxVExKdw?oc=5",
-      "publishedAt": "2026-10-23T21:37:42+08:00"
-    },
-    {
-      "title": "Somalia finally joins the Africa free trade agreement",
-      "source": "The EastAfrican",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSlJCT3Q4cHlXdlpidmMzOFJPME5XMkVIejdvMXQ3aEhlZzJpSmFDYnltSU9BU3RkREVZOTl0UnFuTlpWZkhKbkxOVk5JZWE4eldmQUQ0Rk5GNTlodm1nVXBIZ3QzNGpaWE9IVlNud25nVjRWcV94WE5wa1VnSTBvRWx4SkFQQkxxU0pwV2VKZkE1akhrTTR6UERLcXkxcGtPbThlZFNRVzY0c2pfTHJOYk40U0gtUQ?oc=5",
-      "publishedAt": "2026-10-23T21:00:00+08:00"
     }
   ]
 }

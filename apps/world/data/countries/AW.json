@@ -1,7 +1,7 @@
 {
   "iso2": "AW",
   "name": "Aruba",
-  "updatedAt": "2026-10-24T11:03:58+08:00",
+  "updatedAt": "2026-10-24T17:03:21+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -34,6 +34,12 @@
       "source": "Carnival Corporation",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb3gzTElvS2swNHZDYXRRQjdxVEd0X2VmVUxLOW5yRW9FYkwxbTJ1bkZsTVgyLURybEZrY0hoOXI5UDJnYzZMYkFnRERiMXdyRDhyc1FmejR4QWRJejJzaWJRdDNzdVpqaGhhbkFDOFl0NTFJMWdfMTJjV3ZEdjY3d0tMOVJnM3RncGdZRGVuUkJPY0dVQmpSZ21hOWtpNXdjYVE?oc=5",
       "publishedAt": "2026-10-24T04:42:50+08:00"
+    },
+    {
+      "title": "HPE Warns Critical Aruba Networking Flaws Could Let Hackers Take Complete Control of Devices",
+      "source": "CyberSecurityNews",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iRWpBNTBLM3UxUGFMMFY1U291NW1HOS1hUjgzM0I4bHBVWEp4MnNTTkpUeTNEcWNsOTZoVndWZ0RBZWRSSWRTZGdKNENSVUZfQlBybmhQb0xTNFZHZnd2SDlFR2pNa1hidVI0Ym5iTG3SAXZBVV95cUxPMmtGVDJxYTlEal9pUXFZNXJqUFhlZDIzSElPRkNKY3RpNW1JTDEzdWVjRVl1Z2N0NTV1NUxOdEc5SUxUZnlZVEpMNDFzS3hZa0E3T19ZSDA1dUVUaXdyZmlHS09kWjJFUjhZUkw2dU1UeUdUcnh3?oc=5",
+      "publishedAt": "2026-10-23T23:20:52+08:00"
     },
     {
       "title": "HPE Aruba Networking AOS-8 and AOS-10 Bulletin HPESBNW05162: CVE-2026-79844 and Seven More Flaws Rated 10.0, Patch Now",
@@ -70,12 +76,6 @@
       "source": "CBS News",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ3BkUXd4b1BzRXdteWZqVW5XRkhJT1VFa0xPWUp1eUs4TXFQVHNZNTJKVEtnNFNZX2xmTDNPVk04U2N3R0doaU5IZE5jSVlSOW1QZUhKZXdkTE9RSlpwY240ZV8ydVFSOU82a2RUTDVZbjRTLWRON01kdXdBVVhZU1hiSnZ3TnJqUjJnUTdTRy1na2lwaV85Tzg4WGZ3VjlvaUVGakVLTTJPMlJFSENFMVFkTVIyY0ZXTU5OTEVYdnNvT1o5WjFSMDlid3hxMExiVGc?oc=5",
       "publishedAt": "2026-10-22T23:48:00+08:00"
-    },
-    {
-      "title": "Autentico Aruba: A Taste of the Island’s Many Cultures",
-      "source": "Aruba",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMUVMM3lOa0c3R1haSWFKaEhmVklxSk1xZjB1UjFDeE9GVExUUzlHOVlJdXZURGQ5MGV4ZTF3anBPRTRaVS1JNHF0X0tJa1dlRDRiY0hORkN6WDEtUFlIU0ZtbTBCbENELXdNazFORFlVQWJ3bjRRT09Pd1I0N0RXRWx5R1pmNlBwaVE?oc=5",
-      "publishedAt": "2026-10-22T22:30:20+08:00"
     }
   ]
 }

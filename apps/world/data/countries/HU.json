@@ -1,7 +1,7 @@
 {
   "iso2": "HU",
   "name": "Hungary",
-  "updatedAt": "2026-10-24T11:03:58+08:00",
+  "updatedAt": "2026-10-24T17:03:21+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "1956 anniversary: Von der Leyen and Costa address Hungary",
+      "source": "Daily News Hungary",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EUXR3N3N6aC1NeVdWVmtlSzEyc2lIYlZpQTlYdFcwN1BveVN2b1RRamhhTkE3VDNxMnVRamNQeDJHTExEcUZCZjA2OTVjaVhQQTdybzVENUg5NEJYNTlRS0ZZaG56a1EyVGFDdW1vMlczSzQzT1drc3lFb2NKclU?oc=5",
+      "publishedAt": "2026-10-24T16:10:11+08:00"
+    },
+    {
+      "title": "APTOPIX Hungary Revolution Anniversary",
+      "source": "Bluefield Daily Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYmRkSzRCbEM0cmJpQ2IybS1Ob2hWNEdyNEVlZHVEOFB2d3c3aFdhVXJIWXV5UHNEcWNWZ3V2UHZkY3ROcXU0QmNXWkUzanZoOS1pbjRiY2lBZTN6VHUzMHAzWUZMRXVVb0pFLW1aOFFsSGRoNnBLV2ZfVU5BdE9lX2xUSjZBQjdVd0pTZ1ctdzVRY3NMa2I1ZEZ2Y2hzUVdPalZNSGctVlE5bkNLSTZCbFFtOVltTkNDWEVfZWl2clVIUlVNWXNheWFn?oc=5",
+      "publishedAt": "2026-10-24T14:44:44+08:00"
+    },
+    {
+      "title": "Hungary could gain billions from defence industry expansion, Budapest conference hears",
+      "source": "Daily News Hungary",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uZ0RVdllUQkFaZHI5OGZ0WDB5WFZRRU9NQ2FtZmppV1R4TEY1VzJ3a090TzFkdG04U1E0RzQxUVpGdFdHbXB2M1FnWE9LeEt3djBLYVFKcmZ3U0lPWndQejVNYU9TNWJ2WDlidFY0bWpPSExzcVE1b0Q4U3NvZFk?oc=5",
+      "publishedAt": "2026-10-24T13:31:00+08:00"
+    },
+    {
+      "title": "Hungary’s abandoned synagogues are finding new life — and attracting new congregants",
+      "source": "The Times of Israel",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2VBZkxISjJ2NHZpcmdnUnFFUTBGVnowai12dW5LenhzcXVrVjJtazVpOWVzN1pMdXVQNEVsazlSbmswUFJUdThLeVoxUGNGTWVxMEUyUUxYMV9tVXpHb3FrdExhNUZNeGRTNmJKUjdYT2w5QWRfaWZGTmhVRXU2aHhtWmpLb3FZUzR2d2lSUXoyV2t2VkNvN0h0WjJQbmxGMWNPQ3ZzZzNuRHM1WjJlNnR30gG3AUFVX3lxTE5kdm5Qa3Z4VDY0cXladWtXOUNrZUM2cFdQdVRRWWlybVUwamRXUnhiX3ZNaHhUWWg4VlA3Z0RsUEdlWE56ZUFHdnpNWVVvRWx1Tm9LYVlmbkdYdmpnNkJhellFa3RhZV9VbXhIcmpYZ3pnMFRUZ1ZURGZ1enF2bkhoMVkxcndxZ1dwc0V1azVQbG5YV3NvVkRON3QyM3hnaHhyTWN0d1hKdEtjVEUzNUljM3BjbGxqOA?oc=5",
+      "publishedAt": "2026-10-24T13:10:17+08:00"
+    },
+    {
+      "title": "Hungary’s Magyar wants to be a ‘reliable ally’ after Orban era",
+      "source": "Free Malaysia Today",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRG0tc1RsMjh6cjBaY3h1R25DQ2gwcGVPMktBSDEzMUtIeGVaeUhpa2U4OTJ3RktfQTJaYkR0Q1g0U3dOeXI2UE0tZDZJWmtJWUh5ZmZRQkhFUWhndDdjSy1vclY0LUpKZkZ2OWZBYi1fSnRuSURBLTlyU05ZU3J5a2dEVUsxTWZMd1ZoZnpRVG9HejA3Y3RoeFIwTjRMVGpSUUFyOFJqVTZaWnRSem5XV0VXMXYzTFloZkF6Sg?oc=5",
+      "publishedAt": "2026-10-24T12:46:12+08:00"
+    },
+    {
       "title": "US Hungary Revolution Anniversary",
-      "source": "Post Register",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbHNOUGg1T1hlVWY3MWR5dFptQWdjUTlhWXJTSVlfWTM2SjRxWVNNcDVVQnc5X192TlJBNGZBVzBCTGd5QnFzUE9rNEl1aU8zUzA3eTE3eHhJVVMtOW1EU0pXbW0ycmVKeW1ZbkVaTThrWDJKWjNXaDI1YmlueGg1M1Fyb0RUSGE4M3BMT1k1bWVFTm1FeFlWX0RBN19PcEJXdlN1TGxRbVpjRFlPT0t0M3Y1dTd5SUIyV2NlRHlkdUtEdw?oc=5",
-      "publishedAt": "2026-10-24T08:30:44+08:00"
+      "source": "Times Argus",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcmFETGRIaFlZcFpmN1FaZnl2VEtXcXY1SmhYZ3JJVDdzNVJ5Tk1rcXNmMHlBdWNibWd3LV9KMGFvWGhJZGZiUHE5ZEc3YWo4NENITjd3RjM2OVc2cFN0V0VqUlh0cktTcVlOVTBVWml6enhINVdrcWlGVXVxVGY2aVVwcURKUEwzYk1hWlU3NjlyMVdoTHQxS3FYZ1dnWHJjbG5WejdYcXNBbW5Vdl9LYXBtM21oOEZ4SC14cldaaw?oc=5",
+      "publishedAt": "2026-10-24T08:54:43+08:00"
     },
     {
       "title": "Von der Leyen and Costa mark Hungary’s 1956 Revolution and democratic renewal",
@@ -46,36 +76,6 @@
       "source": "Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWGwwUjFWMVVFRjZrM2dhclJwRjRrQnJ5UVlIZkN6bXBzWmZ2UHdiLWxqQ0VfUEV6azZQUUVMQm9uWUZsX2Y5RFU2c0puTUhTd0ttV0JUMmNWUC02T0VzQTBfWXB5OUhLbHIwaUFuNHgtenFvSU9jWGRkckZ1WFp3RVZYaXpiQ2I0djNKUk5vdE1MWHc3V2Z3MGY2VmMtX2k2SWJkMVhOTm1NMlNCNXBVLWFVZw?oc=5",
       "publishedAt": "2026-10-24T06:07:01+08:00"
-    },
-    {
-      "title": "Hungary to start receiving Norway grants after 10-year pause",
-      "source": "TVP World",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObzFBcW5RVkxrVFF6UllxLXIzZUpGVGZGcXgxZjlVUGhKbktrTVRLdEdnSEk3VjNTR0VrSFlJNjBoY2RueXNWYUNvRUJlSWE2bjZVai03dl83cTZZSy1ENDlMcFdXSzB4RUxZblp1Q201YzJnNDc0aV95czhvQWhVUUN2TW5MNDlTQmpjeUR1emN1cG9pQ243ekVB?oc=5",
-      "publishedAt": "2026-10-24T04:02:00+08:00"
-    },
-    {
-      "title": "Hungary’s Magyar wants to be a ‘reliable ally’ after Orban era",
-      "source": "Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNU2FuS2NWUTlMZmw0RC1saHptZHNpMjJUQmhpS21OM0NVdDNndF82MEdRSEtpTDg1dTgzeDV4OUFyQ1RtY2xJNHQwMjA1elJDdFRfV0FiY2xOTDlwdDItX0tqN2V4bkYtWW9ZVURfX18wX3VJMlVNdXdNbk5ScnIzRkt1a0RuTll4Um00Z3UwYw?oc=5",
-      "publishedAt": "2026-10-24T03:12:05+08:00"
-    },
-    {
-      "title": "Turkey Hungary Revolution Anniversary",
-      "source": "WV News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON2FSSmRwSDN4WE4tZnkyM3JTQ3UxRWQ4aGdRT2JNcnRhRGhlZ2pUMkh3LUptUkh1bTBEMzZsQzQ1WXhIcnljc1VicGhNbERDU2F4UmdQX1NEYzJRdWZ6WEd3SG5TWi1fQ0stTFdKWjNtYTQ4WmxNanE0X0dwQkVxbVNoeElrUS1ORmhuamFJT0luTTI4NFJYS1BGOXNQWlJkeE1fdlB4Q2N4SXRnZGV5NGlZS3N2Tkg2WVB0NDZYNmY?oc=5",
-      "publishedAt": "2026-10-24T02:51:15+08:00"
-    },
-    {
-      "title": "How the Bloody Police Crackdown of 2006 Changed Hungary Forever",
-      "source": "Hungarian Conservative",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX3JVS2tMTkc3V1ZYMTRvSFJ0ZkxrbXFKamkycGl1VEhOLXc0LWNfSWp5NjFZeHN0Q3dhVkdYLXFnSkJHMkRHbFNfMkJiRlR2bnZ4RThWQmFJRVJ6OERaMXozemxNeE50dVk1a2FlR1JXLVQ4YXYtTnJYR01vLWY3UVA0bU8yMTN4bUlmTkgyMWIzcmhsa3lsMVpVWV9RRm1QeEYw?oc=5",
-      "publishedAt": "2026-10-24T01:43:03+08:00"
-    },
-    {
-      "title": "Hungary commemorates crushed 1956 uprising",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNam5nSXRxaXl2SVVNa3ViZ3VWc3ZsZlBxc29vSUFhWkRmcWJfV1NKWnlmM25uSlFzRnA5NXBlZW5XU082Y2h5MjN0WG1aY3pZdXRIWkdlQTRWdkdOZFJQU0J3T1BWQllTcnN5VDdjUDV5Mk5oOEtrbnBYRFdYb1pCZ1NuTUU2Wm5QekMyNUJJQXZVaUpFZl9jS29rbUZTVi1Q?oc=5",
-      "publishedAt": "2026-10-24T01:33:26+08:00"
     }
   ]
 }

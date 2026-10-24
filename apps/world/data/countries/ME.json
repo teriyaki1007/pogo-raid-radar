@@ -1,7 +1,7 @@
 {
   "iso2": "ME",
   "name": "Montenegro",
-  "updatedAt": "2026-10-24T11:03:58+08:00",
+  "updatedAt": "2026-10-24T17:03:21+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Does Albania jeopardize Montenegro's EU membership?",
+      "source": "www.cna.al",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNm0zVmFMSmt6WnBfRVBvby1sRlJjck53S0FVX2RxalJkTE5ObkZWQV9rUlgwSXJlT1RISm42bkFrSVRiNy1qZExtX2REU1FCQUVzR0p3QXpGMG1hOUM4dlV4UWlmM1dhSE5vOW5fMjA2SmQ3WVRmYmNYM3E3Y0ZPcUM4ZmV3Rk9hY1FHZU9hUWQ0NUlZZDVQd3VYTDNFQ3YzMldhNg?oc=5",
+      "publishedAt": "2026-10-24T15:04:00+08:00"
+    },
+    {
+      "title": "European Chess Club Cup 2026 Winners Crowned in Budva, Montenegro",
+      "source": "European Chess Union",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGdaWlhiSlRjYjRtS0JUWkxQOFdlSEhYb01iNjVKR2taVEQtUnl3cUFua2RGLUtMaXhkNDlVdzNCR1BkaDRUYjhvUDdBbnpNSG03Vl9fNUV0b0x4V2lLZl9XNjl1VkgtNEprWkh2a0tyTXdtbDQ1YXdGNThuSjhmN3A4STVjV0liTHlfVlJ6VTVydkFCemVhQQ?oc=5",
+      "publishedAt": "2026-10-24T14:35:57+08:00"
+    },
+    {
+      "title": "Kordić: “In Montenegro, tourism accounts for a third of GDP and is growing by 10 per cent a year”",
+      "source": "Il Sole 24 ORE",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUVF5SHVUVVlYUjluX0xhZDU2R2VFYzNORU5WS21IZzhBQU4yVVhNSzdBdVR1ci1OdVZselhsZ1BWdlBGLXRxVDNhTkc5cHR5UkwyUUtUVFZ3dnlWMW00NTdVM3BVTFptRWdtcWxrMl9UZC13cUs1NUdCSnFLOTZickxhQmtIc2ZWYXVVUElTREN4SThWMGl4OWphazhJU3k4dFNVQmNPei1qQ0U0MTJjOHpSNWNNbVo4ZFFwdmlqWUJ6U2M5X3dNM2lFRzdnQQ?oc=5",
+      "publishedAt": "2026-10-24T13:15:42+08:00"
+    },
+    {
       "title": "🇲🇪 Montenegro: Mija Vujović’s Performance Choreographed by Slavko Kalezić",
       "source": "Eurovoix",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWGF0eDVpZ1NxNHpsUTJIQUd0UjhIT0RrSGwwVF9yT19FWmdVd2I1dzFLRTFBMl9iWEt6cjZBb2xRTXpFRFhkSU81Wk1CYlNPRUhfdnlvYUZGZUR3bkl0cURacHJPZTJaN1hSd2VJa3k4R1huZG9qbW5yWnVPeDk2cTNaZ3RiWGZoYXZyNWVEMVVKTzAzZEZkYjhJRVNmMlU?oc=5",
@@ -48,12 +66,6 @@
       "publishedAt": "2026-10-23T20:09:30+08:00"
     },
     {
-      "title": "Serbia After Vucic: A View From Montenegro",
-      "source": "CdM",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vREVEcTEzaVE3YV94Z21OcVdnb3l5ZnBTUV83RFotTkh6cUtib1AxZ2RXXzI5TUpTTXV4QVAyZTZSVXIzVm1HbGxrZnMxTnFxTngwNmpSck5OYV9ZSmpwdVR3WEU1RDVQUnBvNDVhd2dyeGszb0xWbQ?oc=5",
-      "publishedAt": "2026-10-23T19:12:38+08:00"
-    },
-    {
       "title": "Russia-Montenegro Relations Face Near-Total Diplomatic Freeze",
       "source": "Caspian Post",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSDhKU09oS1BRaDEzS0RrVlBwekVYZmRDdzZpZXlINU9TZjZ4T011eklKQlBoM0hoUnM0WGNLeG1BckZGNV8zemhyQWRoUURpVUZJVUd1RXktZERCOFFMdVZPdFJEZEJFajh5TF9hUWkzbHRsdTNFZ0hjczBLcG41OUowN0llX3RMOENBQXVzcFltczFUX2NMdg?oc=5",
@@ -64,18 +76,6 @@
       "source": "Balkan Insight",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOThRRUtZNTFlSExaNE5ZSXlldjhSOG80dUR2X0VNSGNnX01jTzI2VFJZbUVVZ2lma0Qwa1lpXzE2VU9LWVpYZmVKN0hUVXRXaW5PV2x1OHRaMF9iVXdZc0h0WDNpRFlldWRabnZNeVJfSndzbkR6MUtNb1o5VjgtYVRpd3dLcE4xQ1RJRmVaOGIzdjNweVFEWllGMkZlX2x6TzBhelFqenJ4ZmphUGc?oc=5",
       "publishedAt": "2026-10-23T15:51:36+08:00"
-    },
-    {
-      "title": "Montenegro Western Balkans",
-      "source": "Bluefield Daily Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM09ualpRNGtRY1dadlNXSnl1R1FrMzI0OE04VkN3TGp1dE9TaGVuUXE2T0ZvSmh4Nzgyd1pRU2lwRUh6dHV4bVgzUnBKeDFMaWNIVEctUWpHZjkwemFWMnNtbzgwUWFNVkhabFFVX2FGZE1TUmhBbnZLZ1dCdTFkUU50NzRLNEh1dmxxaHhlVktOdE1MZmlSN1ktZzBBLTc0aVNlbHBpNTMzNk1Bc0NJMmRla0ZCNnNxOEE?oc=5",
-      "publishedAt": "2026-10-23T13:00:00+08:00"
-    },
-    {
-      "title": "Montenegro's parliament adopts constitutional amendments introducing integrity checks",
-      "source": "ConstitutionNet",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMnJydG1DVUUxbm9iWkZ6TDFkQmptZGZ0LVhGSDU1ZDQzSFB2empSdHZSbDcxNS0xNTdmOW5LUlpRV1VUMzRhSlZGWFY4UElQZTdiX01xa3M1OWVnWjk2WDY3OVBpZS1TX2t1NFpBQ3h2WE96NEVVa0Z0d0dPMXhDdDhqSGRXQmw2cTNZQkNBeWR0RlZEM0hfVVJnNjVsVHRhN0hwb3RQa0lUcGpuT0RlRDdHM1BxQ2s?oc=5",
-      "publishedAt": "2026-10-23T10:08:50+08:00"
     }
   ]
 }
