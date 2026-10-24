@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-10-24",
-    "asOfLabel": "24 Oct 2026 ~10:26 PM HKT",
+    "asOf": "2026-10-25",
+    "asOfLabel": "25 Oct 2026 ~6:30 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE through Tue 27 Oct 10:00 PM local: Palkia 5★ + Mega Charizard X & Y. Standard 1★ now posted: Axew, Goomy, Jangmo-o, Frigibax. Standard 3★: Alolan Raichu, Alolan Ninetales, Alolan Muk (Leek Duck / GO Hub / ScrapedDuck). Palkia Raid Hour Wed 21 Oct 6–7 PM is OVER. Shadow Landorus (Incarnate) + Shadow 1★/3★ continue through 3 Nov. LIVE through Sat 24 Oct 11:59 PM: Minior Showers: Orionids (Green Core Minior; boosted 5–9 PM). Then Giratina (Origin) + Mega Sableye from 28 Oct (Mega Sableye through 8 Nov). Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I Tue 27 Oct.",
-      "endsAtLabel": "Palkia / Mega Charizard X+Y → Tue 27 Oct 10:00 PM · Orionids Minior → Sat 24 Oct 11:59 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Chandelure SMRD Sat 31 Oct 2–5 PM"
+      "text": "LIVE through Tue 27 Oct 10:00 PM local: Palkia 5★ + Mega Charizard X & Y. Standard 1★: Axew, Goomy, Jangmo-o, Frigibax. Standard 3★: Alolan Raichu, Alolan Ninetales, Alolan Muk (Leek Duck / GO Hub / ScrapedDuck). Palkia Raid Hour Wed 21 Oct 6–7 PM is OVER. Shadow Landorus (Incarnate) + Shadow 1★/3★ continue through 3 Nov. Minior Showers: Orionids ENDED Sat 24 Oct 11:59 PM (Green Core Minior; next Leonids Nov 14–19). Then Giratina (Origin) + Mega Sableye from 28 Oct (Mega Sableye through 8 Nov). Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM. Halloween 2026 Part I Tue 27 Oct.",
+      "endsAtLabel": "Palkia / Mega Charizard X+Y → Tue 27 Oct 10:00 PM · Orionids Minior ENDED Sat 24 Oct 11:59 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Chandelure SMRD Sat 31 Oct 2–5 PM"
     },
     "legend": {
       "standard": {
@@ -1853,10 +1853,10 @@
     },
     {
       "id": "minior-showers-orionids",
-      "when": "Mon 19 Oct 5:00 PM – Sat 24 Oct 11:59 PM local (LIVE; boosted wild 5–9 PM nightly)",
-      "title": "Minior Showers: Orionids — Green Core Minior Debut (LIVE)",
-      "impact": "LIVE: Green Core Minior debuts in the wild (Meteor Form). Boosted spawns + shooting-star skies 5:00–9:00 PM local each day; 1,000 Stardust per Minior catch (Leek Duck / GO Hub / Serebii). Not a raid rotation or egg-pool change.",
-      "urgent": true
+      "when": "Mon 19 Oct 5:00 PM – Sat 24 Oct 11:59 PM local (ENDED)",
+      "title": "Minior Showers: Orionids — Green Core Minior Debut (ended)",
+      "impact": "Ended Sat 24 Oct 11:59 PM local. Green Core Minior debut window closed (Meteor Form; boosted wild 5–9 PM nightly during the event). Next Minior Showers: Leonids Nov 14–19 (Leek Duck / GO Hub). Not a raid rotation change.",
+      "urgent": false
     },
     {
       "id": "halloween-2026-part-1",
