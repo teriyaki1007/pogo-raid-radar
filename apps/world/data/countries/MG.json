@@ -1,7 +1,7 @@
 {
   "iso2": "MG",
   "name": "Madagascar",
-  "updatedAt": "2026-10-24T17:03:21+08:00",
+  "updatedAt": "2026-10-24T23:07:33+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,12 @@
   ],
   "headlines": [
     {
+      "title": "Madagascar's rare wild pepper prized by chefs faces growing threat from commercial demand",
+      "source": "Face2Face Africa",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc1R0ZWktUGZMYWxna2FweE9pbVM3MzFDMG50am1lZVBCb0kxc2JGdTYxOFBNUHN4d3dkZ2NfVUlYNm5GMGNJaXRyRmxBVms4b002akxDWEhncUVYeF9oNnEwbFA2VVJSa1A3V09mMk5iMy1kOWdrTUxxNkd0blFJSFFyRGI1ZW1MTjdZRlJKelBKZUU4d24yNy03dlQySHFpR1NrRWszY3ltU3AwM0FnMXhuNlowc2s2c0dpb3hUc09uZw?oc=5",
+      "publishedAt": "2026-10-24T07:30:00+08:00"
+    },
+    {
       "title": "GSMA: Madagascar reforms could add MGA 4.1 trillion to GDP",
       "source": "tech dot africa",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2RnZxM0F6emxpM0U0SkVULXpFd2tJZTFSeFoyM19jZWxRT3BrUTh6WXdSaTFwVEJNcEp6cUNkdlhKakliNGY3TU5XeXF3cXRfQkY2UHZlY0pwYl9TX2VPSUQ5R1dibHZ2STl3?oc=5",
@@ -46,12 +52,6 @@
       "source": "Business Insider Africa",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbm5RUkVYbzhHSEtVNlV2aHpkWFFfWkVkeG1GcEhia1p6NFZ4QWJldlVjMExjU0tua2dwZmFFUjR5UjR3ZDloRXNHUUE5bnFTMVJWQ3FTcFNadUxqR1R6eGoyU1dIZ0puS0NDRGhmaHB3LW9hYlVjSE96aE9HVE92QnBpU3JVa0FlYXE2NlpDYkpVRkt5dlB2bXVWb1R3SU1pUkc1QV94dkZTR1JoMFlTWm5pc2dJb3pHc1ByYUxuV2dobnYxN2E5TkVJNDgwUWVDUzBHRmdjYw?oc=5",
       "publishedAt": "2026-10-23T17:45:46+08:00"
-    },
-    {
-      "title": "Evion Group (ASX:EVG) Quarterly Report: Madagascar Mining Permits, a German Offtake Terms Sheet and Carp Fluorspar Fieldwork",
-      "source": "Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRGRzcTJYRWZPN3BuWVNQMDJxVjdRX3RjMFdwNlU3YkxubndzSm1ERkh2aV8zUUhCZFEzdnV2WHZDa0NsSDZIMnZiX0o4VlU3LXJLRFkyTEgzV1RNVVEzY0FCcGNnRWdadUN0c2pCZFdlbkY4bG5aMXpkUHFENzhMWHhXam9SZWMyNnFnaXMtNFJiMmdCODBiZ0hzS09ka2t2YmFiTUJCWk9seXlDdzZZTTVIRnh5Ql9JVU9jU2VTbDRjc0dhRi1CRng2YURlVDRhWmloTktCdy1UbXFJTldzVjJpS195ZFVqTlE?oc=5",
-      "publishedAt": "2026-10-23T17:32:00+08:00"
     },
     {
       "title": "How five Boeing 777s linked Madagascar's power elite to Iran",
@@ -72,10 +72,10 @@
       "publishedAt": "2026-10-22T20:49:57+08:00"
     },
     {
-      "title": "Madagascar billionaire Hassanein Hiridjee’s AXIAN lands $62 million for Ivory Coast solar plant",
-      "source": "Billionaires.Africa",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSnZ5WEtfWHRFbWYxQzhjS2IzNlBmTGpnMzVMMWZ1REVZYTNNZzVwR09KajN0aFA2SHFBWFFMeUZTVDRCTzJpZlZOZWd5YkF2VXpobzlaSERXSUI0bjF1TEpaTXNnYjlHMkNkaVd6NUVPU0d6ZVV0NFdjbmlVNzJpZmgzeWdnakdZeUtXLUtDaTdxY2NsSHd1V0E3c2J5ZVdXT2cwakVzMDVSRFVpLUhPMzY0MGN3NVJnMW9yalNrYkRFZ0tyd0pId1pIUDBVSk52UzU0?oc=5",
-      "publishedAt": "2026-10-22T07:25:21+08:00"
+      "title": "Prized wild pepper at risk in Madagascar's shrinking forests",
+      "source": "Africanews",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUUVQZTJYbnQzRGcybmFTN3BnTWxKN2QxTmtVTXhjcm5vbEF5LXNYc0Q4QVFXLXRTRVhKZURwQkJJTTJSOWUyaXVCR0hpQ0FaMlRydE1WbzhqcWktc05jTlFVOHFMQkZ5bEtBLWVOVmF6MGlNNlAtTFZweW1CRWxFb1lpUVJCcEV6dUJmZE0ydjhMQTJub01hUEw1QndKWFHSAaQBQVVfeXFMTWo3LTdXbEo0blBFa0FLZWZiQUNVRm5KSFFsRVZsNFFITmE2VTdHdnJtMmNPVUJWQUtzUDdvb0dwM1lRaWlaT2Z3RUk2VWk2WDVLVXNnTmFOU2xDMVJnZUJYeHY3TGdzZTNzckZjaEJKdURuNnQ2NVUydmNJSGluQWdma1IzVmI0cVRwR1FKTURZQmY1Qm5zN2xSX3lXRnVzcDUxWms?oc=5",
+      "publishedAt": "2026-10-21T19:27:23+08:00"
     }
   ]
 }

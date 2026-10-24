@@ -1,7 +1,7 @@
 {
   "iso2": "GM",
   "name": "Gambia",
-  "updatedAt": "2026-10-24T17:03:21+08:00",
+  "updatedAt": "2026-10-24T23:07:33+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "Gambia’s Chief Justice calls on Asantehene",
+      "source": "Graphic Online",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb3ZBdzBneGN3YUs1TDNVU3lZT201ZDBhNEw4R2s1SmEybTc5UkFsZmc1M3laZE41cE9oaUxEaEdpaENQbi1wZDVXRGZoMlJvX0poal9KZDZzRUhucGxSSENKZVN3S1RaaWxmQkUxbG5SWG5UYkZ2azY4Vld3MDY2Tjd5X2lPcnlCQzV2Y1h6LUdVOXNjcUpoRUdMMW9sSENhZUxtOA?oc=5",
+      "publishedAt": "2026-10-24T18:05:12+08:00"
+    },
+    {
       "title": "ICJ Rohingya Genocide Case: Gambia v Myanmar & India",
       "source": "Legal Service India",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTVhsdDh2R29oTXA4dHJlZXh3czRWb25DM0Fzd1F5NEFRcUluaE1ZeUdUdkE1djBzV0Fvd2h1NVFYZ2tINncwYWwyMzBSSktPczVYdl9UYVE3SGh6bUowTkFET3NWWEtsRDJNQzZsUmZXeFhlQTBQMUlZNVRrb1UxQ3RDdVBXRERWRWpWMFAwaVZEdDFlT2dNcA?oc=5",
-      "publishedAt": "2026-10-24T16:23:15+08:00"
+      "publishedAt": "2026-10-24T16:23:46+08:00"
+    },
+    {
+      "title": "In The Gambia, communities and faith leaders band together to protect girls from child marriage",
+      "source": "United Nations Population Fund",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFJ0eHM1aGp3cXRtU19JeGx0SjRCV3hBZEFfd2F1cVV4SGhiUUpRdmc0VDNTVk1XdXRIekx6bHVZU3ZmUDJZeklHLXdBRGlPZHFONHhia01LUjEyazhySHFnVG5hMEZJLUZxa0JjX0ZKTFZtWVZTMzJsVnN3OWFnTUtDR3NpMS0zTzZuMWhvWjlDSVZDNHV0YnEyXzcydmlNQTU0UmNPaG5Xdw?oc=5",
+      "publishedAt": "2026-10-24T12:37:42+08:00"
     },
     {
       "title": "Smart Paper System Shows Promise for Maternal Health Records in The Gambia",
@@ -54,28 +66,16 @@
       "publishedAt": "2026-10-23T23:16:49+08:00"
     },
     {
-      "title": "Gambia stun Guinea Conakry to reach WAFU A U-20 Africa Cup of Nations semis",
+      "title": "Coalition 2026 unveils 3 pillars, 13 policies, 66 actions to transform Gambia by 2031",
       "source": "The Point Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaDBxQnlyRVB6d0dLYVZ6V2UtZ0VBNWY4SmY3UHJsUlhBUTZGM1ozZTQtYVNCMS1ncjhoald5MF9FNXZaQjRlUHhIM0x3WG5lQ2NWVE5MeDJQUGx0Q1RHbVdxZlgtdFg2RTY1anB6emJMYUFlZERIeE15TTBPRC1iaUNueXpUNWhhN3pZc3JrblJHbnBfY2VBR0tTb3dLS1h4RUNycVYwd3FOUjRLZ2gtV2pCVTBONTg?oc=5",
-      "publishedAt": "2026-10-23T21:31:23+08:00"
-    },
-    {
-      "title": "Gambia Inter Religious Council engages religious leaders, influencers on child protection ahead of elections",
-      "source": "The Point Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZ0dnbnFOSUZ2cXg2RHNFWWNsSWFmdUNPakwtaFdOaWZnUHpsNW9HcmIzOWxidEN6MUY4WFpndEowOWo4MzNzOWd6VHpDN2w4OU1zZkRScjRGN2hvdWE4MHNYSFk1aC1zY1VXRHBmWW5kQmRjMXgwNmNfWG1ESGllNE1mR25nVkszdmdIbXZNb2VMbEFPc1NYajN0YU1oZU1OelgzeHN0aG5TcXJuU0kyTXdfak9mUS1qa2xPYjRJSENvNllWSTh0YzBwcFVXdVFnTEtFRDhzM0xiYTdvVlZmU0FxVHNqYVR6MUFz?oc=5",
-      "publishedAt": "2026-10-23T20:14:48+08:00"
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaFowd3h3SUxZMW82TjU2T2NlYzFZUDdIdTF3NzJ1NE1zRzgwRnJ6VjhIcnZPaFI3YWRONi1EZWh3LVFkbk55dVZxdUFEcHBqNm5uQjRFTFo3OXVjZ2hMZ2xTZTlZckpWQkZwOVRMTnI3a25kZVExSnFZZ196RmEtalp5ZnFxZmljc1dMRExrV2ZYd0h1MXY3S0FfVHoxeThWMm50ck5DN0JXZGtyR2VyZy1fSndWcEdHUTVQeEJHS3A3R0dsQXc?oc=5",
+      "publishedAt": "2026-10-23T19:41:19+08:00"
     },
     {
       "title": "The Gambia to pay victims of ex-ruler Yahya Jammeh with proceeds from seized US mansion",
       "source": "GBC Ghana Online",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNME1hMV9oTzh4XzBzOVFJNjNPa09yWTI2ZUtJbEhXdE50WlhxSlk4a18td0VKbV9ia1RUU1pnc3picUc4SG1SbDNJc0p1Tng5aGRNZFl4ZUNPcl9abXJuVDFIWVlLeEExVW1qSUhWRUFEYjhXV1lJVk0tdVdwUjg0aUxFNmhjZ19JdFpNekUtREpndElJV2x3TmJpU25CRElhVFZ6NHVNalpoRTMxcGJwbFlMQmtKc3Fud3gzOGE2RmNMbl9XaWtLTFZwSQ?oc=5",
       "publishedAt": "2026-10-23T01:54:07+08:00"
-    },
-    {
-      "title": "Gambia To Compensate Victims Of Ex-President Jammeh’s Rule With $2.57m Recovered From US Mansion Sale",
-      "source": "Sahara Reporters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQWFuVDVxUTRRaEtTUWVBRzU4TWd1aGdFQVIxZVNQcHRTLUd4MnYzX0tPcjQtckNCY2dWR1VmYXVtWUhrQ3JtRzBuT0ZFc1lMc28wbVBSZXo2NTJ1NFpUNC1vcXJETnBtY0pLX0hyLXhKc3pub2tZdzhaNTRLOWJsS081M2Z3dFVhXzNMSm1kc0tpbEM2RUx5eWFnRllBUFFJbHU0aUZGS1lCSjJmUWtRVE5UeURYOXY0NGZ6OS13?oc=5",
-      "publishedAt": "2026-10-22T01:55:41+08:00"
     }
   ]
 }
