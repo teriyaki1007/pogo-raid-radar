@@ -1,7 +1,7 @@
 {
   "iso2": "AM",
   "name": "Armenia",
-  "updatedAt": "2026-10-24T23:07:33+08:00",
+  "updatedAt": "2026-10-25T05:12:18+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Beyond the Curtain: Materiality and Devotion in Armenian Art",
+      "source": "The Armenian Mirror-Spectator",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX3FJcW0zejNkYk81Tm9JaUFMUDIyaUI3U2xwRFFYaERxV01kcHFEOGJBZW9pU0RuUUlaU3BWVUpjbzVJQllsUVBuTHNlcUR5MDNtcVR3QzdQRTJyYmtlNnZuWWNJRWdJenVJR1VQWWgwX2Z5VjlTVDllSFRqMXRwMWJzcDNrSzB3dks4SHQwRHRpdGVIN0VCeWpYSnBUUUd1Y2pzU2FqYlk?oc=5",
+      "publishedAt": "2026-10-25T03:12:59+08:00"
+    },
+    {
+      "title": "Manukyan makes history for Armenia on pommel horse",
+      "source": "NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUUI3bmlqRzZXVDNTQ1o2RTh0LWQxZmU3NkQ5cnUtZE1xWkpmeDJyX0xxSTJhNjZmbmlKX1d4eThZWEx1ZTlLMUdtX0VzT29XUjlGMnhocjd5bFQxSGRSdnJUa19xajBJTXY4eVJiQkxORUhaUGx2akhNZ1AyTy12QXU2TWZ6LVBtd3p2YkI5a19pNU1hT2dzZ1l4ajdCcnhMRUg0?oc=5",
+      "publishedAt": "2026-10-25T00:16:36+08:00"
+    },
+    {
+      "title": "Armenia’s Hamlet Manukyan Becomes World Gymnastics Champion, Mamikon Khachatryan Wins Bronze",
+      "source": "The Armenian Report",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQemtSX1I4NE1LWExjejQySjlGYjRfVkNhdWtZM0NVUjUxTWh6dFhuN3NqYWZDdk9VVmF5OHFqMXlYdFhlSTRvb1pqMTluLXFpWHZXbGZ2NkR0UEJ6dFBMSl9vallSZk92ZVc2UXAzQ1lrTXFHZ0xVWFpYYVZMRW9VMWMwRHhjY1RDQjFCazNKeUU3bW9PRUpUc3BaMVdJSEdTYlN6TC16UjlQZGNaNG9tWXZNdzgtWXFOa0pqVGlUWlFLc3M1cGdNRGdB?oc=5",
+      "publishedAt": "2026-10-24T23:11:40+08:00"
+    },
+    {
       "title": "Azerbaijan says fuel exports helped reduce prices in Armenia by 20–30%",
       "source": "AzerNews",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YdmJtQ2lTalNWLUJDWHVmQkM4NEJVdGlaVDByUFlZck9wTkFBbWtsNVdNN3FzSFNjS3pWdWdVN3RtM2YtY2YzM1d6SXU3NEtBLU1oOQ?oc=5",
       "publishedAt": "2026-10-24T21:37:00+08:00"
+    },
+    {
+      "title": "Lyon City Hall delegation visits Armenian Genocide Memorial",
+      "source": "Armenpress",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xQlRCRVdDMUg4dlRVUlk3VnlrWmV0R2hmVzdnQmRVdFhhYzl6enYzU1pYTk4zaXg4N1p6S1VVYXNUZjBla1NTTy1rY3Fib09NbkHSAVdBVV95cUxNS0pYS1NXTTEyWUhTTkpJSnc0YXNaSWVDb2lvaGNqOXoyWm9vUktvYkVEQzZFVWVGSnlQYV9rM3ZQczUyQUxBelVDanYyUWhxNi16Ykh1dGc?oc=5",
+      "publishedAt": "2026-10-24T21:35:00+08:00"
+    },
+    {
+      "title": "An American Teacher and Social Media Star Experiences a Rebirth in Yerevan",
+      "source": "The Armenian Mirror-Spectator",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN2ljZ28zTGdqZkV6dmRlMzlnc0xhdWd4alZVQzVKcEdQQmlYN0xRR1hUV29pUjNXTlUzam1VS09mXzF1TjUyR1hXZ2JaOHlqcU9Xemp0eHJRWUJld3NWZmRjV2RiRXhhdXVEUjhyMnhOMXNHLTFkbm9vS0I1WjA4bGY2TFBNbHdaNEYwczlyOUhTMHVON1dLNURMZC1kcEtOYi1WcV9qWndIZUdOeFJpN05qSC0?oc=5",
+      "publishedAt": "2026-10-24T19:12:23+08:00"
     },
     {
       "title": "Caucasus shows path to Armenia-Azerbaijan normalization through trade, Suleymanov says",
@@ -46,36 +76,6 @@
       "source": "AzerNews",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jUDJYbWlNaXUwQ1ZlT3FzV25DQ3FucTYyN0lFUWNjZEFKTUhBQlRwVXo5MXAtTndhbmFoa1REamc3RlNLWi1xX1RybFdTM2ZlU0hGeg?oc=5",
       "publishedAt": "2026-10-24T16:29:00+08:00"
-    },
-    {
-      "title": "Armenian university students learn about border guard service during educational visit",
-      "source": "Armenpress",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sbXhnandhYnhZVjQ1ZDNzZ1JEcXNjWGx5WXZyenBDbUJQdlM2a085Q3kwUnBpU2NLZjVublNhX1Y1aXk0SEJjZk1wMHZ0MmlpSnfSAVdBVV95cUxQVkNtZjY1ODZRT0xHTW9IaDhNN2NGLUpLVWVNX216ejBxYklHRDlmdVpEMHNlS2k1YVg1VFREX29HbnZERm9HWXF4azJ3Z09sNFdxSXpKSTg?oc=5",
-      "publishedAt": "2026-10-24T16:01:00+08:00"
-    },
-    {
-      "title": "COP17 puts Armenia’s environmental record in the spotlight",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjg3dkhUOGZkZGoyaHdmdVFpcWlLNkw5LUJaZ0F6VDB2Z29IQklxaEJ6X3FhM0dmUE9kd2N3VjBFcFZEbnJJR0d1cno4TjU2VlBoU2o3T0R4MTdCaEljS2Z6VVFNbFUwVmRRV21IUkdjNXFEY2pFT1ZueFFxY3FhbkVDTVBGXzJsdENzdEVlNmZ1by1ORTJEeVhReGNic2tsR0VENTlR0gGrAUFVX3lxTFBvM0J2ODZ4dkJKOE9JRUZrNU1jV3ViaVoxTUg5bkpQZDBSN3dRNndDNjhyS0RBbFFhdDJSTEdVNHEzRGxpMGV4cEpzSUM4cy1LYmU4SmQyRzZPWEd6NC0wNmt0dU8xMTFKVjFpUDZuNUJaT3BzOC1FZWRFN0FOcTFVR0V4NmQ1WWVjRlE0VGpsQmxMR2h1VFJ5TEJGekxadG5UeGVhTFRpa1dMWQ?oc=5",
-      "publishedAt": "2026-10-24T15:22:11+08:00"
-    },
-    {
-      "title": "Fleet Snapshot: Armenian Air Force Fleets + Deliveries 2026-2036",
-      "source": "Aviation Week",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzNYX2VBemlYLWY0NzdGbVJpWHlUMDBJMDhFcWVuel85eFRYOUtQa015QXk1STd5VV92TkQxQVZZemdMWF9QMzVuXzc5M2w2MGVmUENlT1hyQWpha21pQ1JYbzBOaDQ0OVFXV1pBNzI3QjZEeWhBaWxybEk0TXBkRTlkVlVQME9rTVM2eVFTY2xxTnVMMmZaVHZIQjBWMVhxM0lrTGlkSXJVcUFj?oc=5",
-      "publishedAt": "2026-10-24T09:04:25+08:00"
-    },
-    {
-      "title": "Armenian Artist Turns Children’s Old Toys Into Art, Urging Us to Rethink What We Throw Away",
-      "source": "The Armenian Report",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUHN6U2tCTzR4SHBMSWRCVW02SXRFQUEyODVrcUpXeUpvU09WU3lEd256MTg0b3lfM05BQ2J0Q04zVTVFaS00eWRiVjV2dHotNHhLSFlGZmJEY1JKMW1fcWhTbXdYVEYwbXdTRXdKUzFVbXAzWS13RHBzc2FqN2hXUDkyZFdvQTJuVTR6dFlNOE1IdnZkMk1mbWxQQkpUNlh1Z2ZkNnFHRVdWYmRiSWVtX0tjQmZmSkN4dDBoLWk0RXF5djJ6TmpzWQ?oc=5",
-      "publishedAt": "2026-10-24T06:21:30+08:00"
-    },
-    {
-      "title": "2,700-Year-Old Woman Buried with Urartian Seal Found in Armenia",
-      "source": "Arkeonews",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOEtkYm5vQ1dSU3ZZRDh6X21PZHNsOUZ0bFoxWFVnVlg5NV9xempuT19pcE05ZnV1Qm9Td0NySUZYcm9PSnVoSWc5QUlGeGpZMDV3Z3lKNzdsQVc1TVFuU0w2dFBoeDJEN1h0NW9Nc1hwZ1dEaFZkakpwNkw4VGFJN2RUUmFBczNQeHhBMVFB?oc=5",
-      "publishedAt": "2026-10-24T06:03:58+08:00"
     }
   ]
 }

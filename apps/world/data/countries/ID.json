@@ -1,7 +1,7 @@
 {
   "iso2": "ID",
   "name": "Indonesia",
-  "updatedAt": "2026-10-24T23:07:33+08:00",
+  "updatedAt": "2026-10-25T05:12:18+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,16 @@
   ],
   "headlines": [
     {
+      "title": "APTOPIX Indonesia Haze",
+      "source": "Goshen News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzhSVmwxR1Rxbk53VkZpMDhGdlB2MzVpSGFrWlRFT3hQVFJBMk1pMGQ4anZ2dzRWQzNIaGNULWZkZEM1LU5GT09hSDRDYlpMR1BaQXItVzg4VFJ2VG85bEwtNW9DaWtKVkk5SHZCMXN1XzBFRnZ5TXhxNGYwM1hMcnlteTZGS2JPRk5zY0gwelo0ejQwZV81aEpuU2p0c1A3Y085aE02eTR2NXRyQ1liZGNZY2E5SGM?oc=5",
+      "publishedAt": "2026-10-25T00:49:32+08:00"
+    },
+    {
       "title": "Indonesia Cuts Gas Exports to Singapore as Domestic Demand and Haze Tensions Rise",
       "source": "Eurasia Business News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeXZRbFdFN2NxZ0NXOFUyOENkWmVVZnRDY3hWejYwTENjU3lMNkpnZHdnZEMyMXNMTHBZZ1l2TEJfWjRTNldEcGJLeE1Gc1E4bDc2M0x2U2w3RVRnWE1GazhHcGhsM1l2bEtDak1YV2JSRVpWX0RueUU1cVZZOXNsQXZyenNPekxFQlVzWm0tMzlDaDdnR2IzQXhWNFpWOUNmOTJ3MTFhQ3I2RktrQU5aNWc5MEVMd0I5TVYtTkhVbVV0bG8?oc=5",
-      "publishedAt": "2026-10-24T22:15:28+08:00"
+      "publishedAt": "2026-10-24T22:15:12+08:00"
     },
     {
       "title": "Indonesia Intercepts Mongolian-Flagged Tanker Carrying 1.16 Tonnes Of Ketamine",
@@ -43,33 +49,27 @@
     },
     {
       "title": "Indonesia Begins Trimming Pipeline Gas Exports to Singapore",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdkl5N0dmU2lFWEYtZjRidTBXb2VXeUdiSkFpUF92VjdSX3RBTkJyaENvdmZheXdjVHIwTEhiZXlHSk5LTXZrdkJmNmEycFFDUGdjOHkzUjFTbGVJR2M4OHR5bU5xbUw4UkxYcXdqaTBDc05GN3FQVnJBNkd4ZlVybTdvZ3BHUVdlb2JVVEdtQnZhbWQzbnphNGhXZUFRRnRaaWRUVkI4cGtBSXdjYWgw?oc=5",
       "publishedAt": "2026-10-24T22:02:14+08:00"
     },
     {
-      "title": "Indonesia urged to prepare for quantum cybersecurity threat as ITSEC Asia hosts AICX 2026",
-      "source": "Tech Review Africa",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3lRZ19uZmlISTlTdDBTZHREYlFteFFORjY5c1hpbndpVVB4bk02VTFKN0dqUWotcXV0RTdDdGU3N1dnXzN1a3VDVEItVHVfMGRzeVhueThtQTBBUl93UWxDSkZERW1fSTFrblFTQ0gzd0txSTh1TVJvSTRPbHl3Tkk4U19HWmNsYkZoU1JZUkdiWEFQWVBGNm9JdTN3dmlEdXNCZzJ3VnlrdmN5QVBvRWNHNWFiajhNYjNUY2g4RGlWUGQwaGlv?oc=5",
-      "publishedAt": "2026-10-24T21:22:51+08:00"
-    },
-    {
-      "title": "APTOPIX Indonesia Haze",
-      "source": "Post Register",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlhuNk43TEI3bm5BSko0QkN4bi1xUHdzX0ZIM3dMX2RUb2R3R2VmQWZ2Z1kzU3hjX3lUZVg3eGh6UWRIdklHUFM2NzBham5MTnBkSTVONmpxd3FNU0hXY21POUFrNzdaSHFXRGZkQzJpTXRWNHVwTGxiNTBOS3JlS3BkLS1YRWpNdjdPR2kyV0czRG1WTnZuV05JRlI3TDI5eF91cXV4c3BLREdaMDVV?oc=5",
-      "publishedAt": "2026-10-24T21:05:58+08:00"
-    },
-    {
-      "title": "Indonesia Haze",
-      "source": "Goshen News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNS2x6QlUwWFlOTTFnS21sTGV3d2NkVjd1bVd3d3RsUzlJM0JoUndwbmxhOXB4TkhXZ3dXNlZJcnFuMWI3S3UxS3hOV1dpYnowVG9fa05vcWV1YUswWEhLRGhTaERCR3VUbHhkczdvQmhtR2d3anVWUnBodUs1WFdvako4NGZ0OEVHbDlOdUk2WHlDeU1oRlhVR205U0RlUTJyeEtDdG5WWVFyNkxY?oc=5",
-      "publishedAt": "2026-10-24T20:54:36+08:00"
+      "title": "Indonesia names 11 corporations as suspects in forest fire investigations",
+      "source": "NST Online",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGNUZjVicERWVXMxWWIydnR1dTdOSHZKSEt6bVI0ckhhMTd6UFJ0TW1OeS1DM1YxWmR0RHRLcWVENFV2UlA5aU42bUFpdWhyN0M5S2xYbXlrOUtfMWJnX2loWjVMSHU4R0V0MF9hYVRoTVhMYTVDbURTTGVPZkRTMy15V1VERmZ4MVNpRnpjb0ZMZVJXVHF5R1dBN2NEc2JnWW9feHpXUGsyWG5odVhrU0xlSlozbEtLbjlj0gHAAUFVX3lxTE1UU3FRaG5SMk5GYjVrOUxVdXppcUNLUDBTZ2x0aEJGZm1IbHBLOTFmZDdFS1h6TnlLMThoMnNGMEtuY0dLVFhpVmhWbDdVejBkZ2JidUlLLUctdnRacm5QWHpDVkpSUDNfNVlJdEw5eTMyRGlWcXJzdXBQenVaa2ZwMFVZTDhLMXZYNmw3bWdMNjd2NUFRNUhVUXpOdTUtaHJsYTExSTMwNzhBLXBBTTFLdUlrTVFVQVVvZmhYbUZkZQ?oc=5",
+      "publishedAt": "2026-10-24T20:39:33+08:00"
     },
     {
       "title": "Türkiye, Indonesia to co-produce film on Ottoman-Southeast Asian ties",
       "source": "Türkiye Today",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWER2dFhwV2FMa2lVLXZYS0RvMFJMOUVLNjM5SU14cE5KdXZDR3hveTJjYVVxa3dDUjh2Mk9TN3E2QlN6V2dGbHhFMWwwTlpENVROcUF0R0xUSGllYzZWb3lscVZ1U2hsSXhYcm1nQk9FN3h6OTk1djZTUUVfVFVfeVl6cHVmOFFQWFF3MlZuMGt5dmlqMUNVOUVyakRGSXFQYTFDWHhmSEpDUExZSXZadXU3QQ?oc=5",
       "publishedAt": "2026-10-24T20:32:35+08:00"
+    },
+    {
+      "title": "Indonesia Haze",
+      "source": "GazetteXtra",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUlNCQ0txUjhHSHBvSDFGcTluVDE3RkZ1MGVCMTlUUXNYc09qZUlXSzRVTm1TRjdJSTRQT1MwRUdpNkhEeGp3cy1kQlRGd1V3bmlwc3NiclJJNFJHeVdNVmh4LVc4SUtJYjd0TUw1NnA5eGVLS1FHYmpEUnowQmFFUTdYMVdfdTFLQlRKNGI1Ni1VQllRN19yUmtIQ3owdnVjOVczRmgwYk5POHdy?oc=5",
+      "publishedAt": "2026-10-24T20:30:16+08:00"
     },
     {
       "title": "Indonesia plans to build museum to showcase history of Hajj pilgrimage",
