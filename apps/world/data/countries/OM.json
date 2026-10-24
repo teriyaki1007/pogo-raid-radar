@@ -1,7 +1,7 @@
 {
   "iso2": "OM",
   "name": "Oman",
-  "updatedAt": "2026-10-24T05:06:00+08:00",
+  "updatedAt": "2026-10-24T11:03:58+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,21 +30,45 @@
   ],
   "headlines": [
     {
+      "title": "Tanker hit by unknown projectile off Oman, UKMTO says",
+      "source": "Middle East Eye",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWlM1ZnI4STdOZzh1UTAxanRTNDZqX05Ga2JuWm9wMkR3ZEppLVZOU1VRV1ZoOC1saGtudlJzR2hERHZTZFBBMm1lX1NiVS1vTndoSUQxRndnVUNJRDlhYlZMZF81c3ZVNnh0Zll0dHR0dldlNU5SR2FPZHVuNUE0NDVQQUZxWnhXeTBadWVyRGl4MjNqbFBaMmR4MVlJWGpXbTN5ag?oc=5",
+      "publishedAt": "2026-10-24T08:34:00+08:00"
+    },
+    {
+      "title": "Britain and Oman agree to deepen defense and technology cooperation — Anadolu Agency",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSlZjOXljTXczZFNGSG1wQk5hZWVVSHpSQkhNNVNvU3g2MXpLeURDbW82TURaQnBMd2g5YktXeVlLMTVFeVpZVDNwckg2SHhrNGlSeGpqcFJXU3dpSWZsaG9CMlRVblFEaEY1Rk54V29HOXkzRjg2Yzc2U0pSZUYwQm41c2JiYUp4UnZERFlmc0x3Um1iUGZBSGNxcFFaQ3FEMGY3Sm9EUFJXMEp4eURzOWpMa3BQOHlf?oc=5",
+      "publishedAt": "2026-10-24T06:35:19+08:00"
+    },
+    {
+      "title": "UK, Oman agree to deepen defense, trade, technology cooperation",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMXpwdEtQV0JaUVpCMUJiQnZKWTdtQWFPRHNpdkM4Tl9DbWN5dk9iY0J2aHZlNU1KWVJXQTRzTG16c0N2VzVrMmFZNy0xSnpZbVoxZnh0Ry1QT2kteEFLX3BOVmV4SW9nV3lKVEVJQ0o4Qk82dDJKUVJtMVpoYmI2VVdzLW1XcFdmODE3RXBQX3JvWHh3bzFCZU01dFE?oc=5",
+      "publishedAt": "2026-10-24T06:01:43+08:00"
+    },
+    {
+      "title": "Oman, UK seal deal for £1bn AI data centre in Salalah",
+      "source": "Oman Observer",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWmNLQzRseDZzdXB5eWFxb3hJaVhjYTlqVHpmUVdYSGRqcW8tNWZQUnA4Szc1QXlrWGZNQi1XZHE5Smc5QU9VZ25ibjNsOGNNejUyNHdSSDI1OTJsMzljUXY3akFMbmNzTGQtRDRuWUdSTFlQbnZOMzBXaC1VWWIwNlJvTWxFbWRORG5PREtWMnY5OFd5Ui1XRFNoc0I2UTVQQ3fSAVpBVV95cUxOeVdnVVlFNFRNb19sajY1QWxkUWo2NEpJSEFnUWdvbkJDYUwwSjNSOVc5RHEtUUdnZ2dEc3hGbnJMb0VvZk5HSEtzV0phV0ZpT3FxQ2RTNDg4NXc?oc=5",
+      "publishedAt": "2026-10-24T04:46:08+08:00"
+    },
+    {
+      "title": "Oman and UK forge ambitious future partnership",
+      "source": "Oman Observer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWZ5bUtycDM1S3ZHREI5eHZBemMyc2RUaExMeFJkQ0dra3hRbnFOdkV1RmJpVERWRXNzaC1qVGZnUU5DclQ1UkFnVXFVY1J5eDFiV1c4WkN6MndRMFNFNXhpQXVRbDdjTGo0UkFGc3hYcm84eEVWUlNvWlllQjNrT1hzb1RYU2VxRG9ZcmtBSU44VFNaRzd6N01zVdIBWkFVX3lxTE9sS2ZSOUdYRk5iaVZEa21aLXN0Z3VKWjZuYTFwM2dweDJoZ3JfY1M3Si1rNjFDcmtJNnVIQ1BqNVV0ZHkyU3ZjVlQ0bGFkaU9DWTQxSEdrUUEzdw?oc=5",
+      "publishedAt": "2026-10-24T04:46:08+08:00"
+    },
+    {
       "title": "Oman targets investments to boost digital economy",
       "source": "Arabian Gulf Business Insight | AGBI",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWYtYnVnRVJIa29OSWJ1eDdSQ2lqS3ZEazg3d3BFZWdENHkxeThST1Fua3pfbkdMTEJnN3FTSTJiU1NmbWhLdW5Cem9xdkU1RXlwVzhRNWo2X2YwbzBRMy1rLU1Jek9qdEwtbkhTcmt3N1JqemowQ1I5Wk1OWDVZWXphS1hIbjUxcVA2Vg?oc=5",
       "publishedAt": "2026-10-24T04:16:42+08:00"
     },
     {
-      "title": "Oman TT team ends Asian campaign in Tashkent",
-      "source": "Oman Observer",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU0FzZUJRMEUtWGtvTW9BT0lOZDdVdWVfR3UxTVExZGxZMlFDWHI4bHlTT3FZM3VxZDkyVU1HdjkydmZ2Q0VybVh1b2dXRG41eXJVNWhxZS1PUUIxVjg0Zm5WN3VTVGpaMFNLR19uQ3g4WXRwOXZja0xxVjNlQy1JYlNBc0U4bGt5bGhZLUJjWlgzRkRVRmE1YXdBVUhTQmd3Zlh0StIBWkFVX3lxTFB3N1BtU0VueHJ3NTZqS29Cemxnei1iWkJTQ1BGWlVBLUg4ZF9CQWUxTy1ZRDc1Z0kzUjN2bVdTUEc1cUk2Q3VQZ0dzN3I5VTJEVENjN3JaUFRTQQ?oc=5",
-      "publishedAt": "2026-10-24T02:22:13+08:00"
-    },
-    {
       "title": "Tanker struck off Oman in war's most violent month for shipping in Hormuz",
       "source": "TradeWinds News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3RjU1BiZHdRY05jUFg1UHRDQlpiTDRaMHpXazBTQ1ktd3JYWEhudnU4RTN0U2xTX1pwTTlxNm9LX2xTeVNNUjNXMmhRM3FsdGRSaWY4dFdybHczUGpLcjZRLUFmMTVhR2NteGlwRHlkT210ajhyWm1HY2VTOXBiLTh5eWhNYmZ4N24xM2NCVFN2b0ZiWGVKYmxkeWhZN1U3SlhkV3hqMkgwRTk0Q2JEWTZOSEstRzl2ZlVrYk1mV2VxX3pF?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQN2JocVhjZEJJeGR5V2Z2WE1jTzVHSjEwZVRUVGVraGtKenM3eGRUUW9uZjBGVlZtM2lJelNteGhZVUJBQXRWekJXZjAwYUhGQndOcTdDZDd6dlA4bmwyeTFMQURuemNsaE1sZXg1dzRzelNIYW5fMElJUnpaYlRDQWxrdklDdnhpMEhRRHZFQXkyWFpHb1k1UHlrdS1JRkFuN1dLM09EcWVzd0ZHcnNsdE9XY0drRnp5bU9GZ0Y1TVo0Q01mYVE?oc=5",
       "publishedAt": "2026-10-24T01:57:42+08:00"
     },
     {
@@ -52,30 +76,6 @@
       "source": "Times of Oman",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTnFNMnhGRGppdDh6a0hiZmRmX3NyeTY2QWxGUzlxNFRuN2hnVHA2cVdMSE5tYmdPOTFhVTJFaFI0ekJYTmxnYlJTRkRYaTdGeTh4RDZVYXlOQkhBeTBXd09TSkM1S1BTNVdyRktyVllUSkc5bkMyaGxSNEVCUHc1czFNbE5oTEYwb1daNjA1YXFmdWYxbndnaU00aEdWMjJMck5hdjBwVF9vaWxiOVBTX3lWRVhSRmI3SFhYZU53?oc=5",
       "publishedAt": "2026-10-23T23:41:00+08:00"
-    },
-    {
-      "title": "UK: Tanker hit by unknown projectile off Omani coast",
-      "source": "Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbFFlbTdQdzQwVWhwZTJWanFtakIwSnF6azR5SGVhUjUxLUFTNGVEMnZPZk03djB0RG1zRUlZZUFPVzM4aEJsVWEyTldLbzEtLUM4T2w5T0VMTWk1UEtpTEN6S3FEa1JrWE1mTVBrTXQwTVlHUXZHNHlBWnJpVHctNGNkNkZxQ1FOYVg4Q29aTks4R2xQODJ1NDVvaWRLZw?oc=5",
-      "publishedAt": "2026-10-23T23:31:00+08:00"
-    },
-    {
-      "title": "UK-Oman joint statement on Omani State Visit",
-      "source": "GOV.UK",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNenJsWWZuMDh0ajRxV1RsTzhOUjdCQ0xBbVA5MmdhSGtXdUtpemtsOVFzQ2ZYY3p1cXV4T3lJUEpzTmVLTThBWkVJN0h2SGtncnVreUNIOEY0aE5QX0x6WWFVd3JsRl9tZDhDcVB3RWFETnhfVzctQVBMQlpuc29kcWJyakVlQQ?oc=5",
-      "publishedAt": "2026-10-23T23:05:00+08:00"
-    },
-    {
-      "title": "Adani Ports expands Middle East footprint with new Oman subsidiary",
-      "source": "PRESS Insider",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTmhKZ3ZBakxKbXhuRDV0MmdzLWNsT2dXd0ZQSWpPRmZOSnR4VnQ0TDhvejdxVDhobFZWQlc1VTFDVThxYzJMTVN3cG1ncWZVOVROZndlMjQyeHZaYUpGcmdOdXBpYzRLWHBxWDJpV0NWajd3TnZCTGtvMEFmUHJRUG1SSGx2WGxFaG4xRFlNZ01SZV9tVDgxVjIwQkxDSE5pcFlV?oc=5",
-      "publishedAt": "2026-10-23T21:45:44+08:00"
-    },
-    {
-      "title": "10 Oman Destinations Worth Visiting",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYUtrT1lsbFpMS2lLS01RWk5aNGJBOEM1WHpkQ1hac1BsNmZlM1pjMXdPR210X2ZYLWRVeG1TSlJxMnI3WGtVWnBtZW9XZzdJV3dhN1QwNTJzZm4yQ1BlRDNZaWZhMHBrTVJ1cy1xRnVuaUpQeTJDUUxnVEFRMTBWMXlESHd4aTdkZTRVRDZkcklsWjQ?oc=5",
-      "publishedAt": "2026-10-23T21:01:20+08:00"
     }
   ]
 }
