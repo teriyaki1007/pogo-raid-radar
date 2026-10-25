@@ -1,7 +1,7 @@
 {
   "iso2": "PE",
   "name": "Peru",
-  "updatedAt": "2026-10-25T23:09:34+08:00",
+  "updatedAt": "2026-10-26T05:08:23+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Single-family home built in 1894 in Peru sells for $140,000",
+      "source": "Shaw Local",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ0JkRVZNNHZqaS1odFpCYXJtNWZ6MHNGQm5FWVU3SkZERTFVZUZON015VEVSM182SmptR2E1N0VVV3BJYlJVSEpCWmwzX2l5SWpRTWN2ZGFvbzFGRGFlVEVQWlp3RVZJM053WWFLRWc0MHZmMnk5bGJDNFNPWnN3d1NNaFlWYWNYZUxHQndod3U4amVZMjJiN3V0X0R6cUhacDVLZHIyOVlKUlU?oc=5",
+      "publishedAt": "2026-10-26T04:21:00+08:00"
+    },
+    {
+      "title": "‘Open our hearts’: Peru prepares to welcome Pope after surgery",
+      "source": "The Tablet",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPck1qSG9KZjV1S1RVc3J4QzVrZjc1WUdBRDA0MjNndk15eTRFRG1ndVJfb19Zd2M3ZTNRQVRyRVNUZHpqVk5Td1V2OGE5ZXFYVHQ3UkgzQUFVQzRFcXBnSkRtNW4zZWRQZlh5M25KLUxOUkQ0LXFpMWJHTGhOMkFUNzl5U2UtRl9jOVVSMS1uLU1JSEpGZXZqaQ?oc=5",
+      "publishedAt": "2026-10-26T04:19:56+08:00"
+    },
+    {
+      "title": "Peru lawyers secure $1.06 million settlement in shooting",
+      "source": "Shaw Local",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVkVjcUh3UjZxa3FodGQyNWJXbkcwS2RuWVZlcGNuTWJiYm1CT0E2eTRMbFpmT1Q3VGItMnVGRHFnaXZEdkxhWjZzblRNTHRpb0Q2dWd5aXFuZmJVSUpxWEJyQ0pjMmFVQXFJOGpVRWRBYXlNV0NoLW02WlZNcVpaNlZTcTMtakVETnFmQUliajRzTG1SeXFZZXFVWWstcFRGSzYwbjNJWlR5Qzc4?oc=5",
+      "publishedAt": "2026-10-26T01:00:00+08:00"
+    },
+    {
+      "title": "Peru Protests: 1,000 March in Lima Against Fujimori Government",
+      "source": "teleSUR English",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04aWFZUjZZbWs4bXFPZ2pWUnR1dXZmQTVyaF9RaU5Hb2dWYXhCQ1RkeGhsYW1XWjctTnIxRUl2SlBpbnpaSXZfVms1REhCaXpvY3lUOTlIVjc?oc=5",
+      "publishedAt": "2026-10-25T23:10:31+08:00"
+    },
+    {
       "title": "Peru’s Youth Protest Government Over Crime And Forest Fires",
       "source": "teleSUR English",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YYUZrVEk4NHduMmU0aXBNaEMwTlNXYVVRTUxXNkNLUkM4TF9Uc0x6V3dWaXFFX19LQVBnR2U3XzdIdzR6WlFKS1lEd2pBZG0yTWF0bGdVSzRlQ3A1OXhMandteEdXNHZTemdDVGI4Mk90VGluTTl5NmlR?oc=5",
       "publishedAt": "2026-10-25T22:30:05+08:00"
-    },
-    {
-      "title": "Pouncing Panthers help Peru ‘go green’ for National 4-H Week",
-      "source": "Shaw Local",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUzBnam1xSlNVanUtX2g5Y0ZRWk56WS1fS3phSHozV1BJVE1zeWh0eDBsZUNzbE9PSUdtaTB3WjhOLUdiMDc0aDNuR0VBWlBtcFVSRHdqS3RmTktvdURVanpMMEUtaTJCd2NoQUctOGx0ZkZmclhCSi1EbGlxd2NOWkQxWkRla0J1WFlPQlZhTXBMVnNYZ3NZNHo0YjlRdkp4cXRKTEdqbzNUekZWM01Yd1N3?oc=5",
-      "publishedAt": "2026-10-25T19:00:00+08:00"
     },
     {
       "title": "Ice crowns the towering peaks of Peru’s Cordillera Blanca",
@@ -55,27 +73,9 @@
     },
     {
       "title": "Peru Protest",
-      "source": "The Batesville Daily Guard",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWdYVnhlTk5WSk5vRmhKTzY2cHozSk41SF9RYm1BY2pFOEgzbDdWWWF3cmdVeHdTWkZGRVdhS0lkbk40ZlprWHZkZHBLTmtvRmh3aXhGNDVJcW1nTktES0lpSDQza3NmV3hfeU8xSWVXMjlabUtxZVZGcmRXTXpzeXNsNkc4V25NYkxMRlBhazhSQ0tKZU9BNTdSdUdLRWNI?oc=5",
+      "source": "Post Register",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVEd1dlpya2txdVV6aWdxMTAxTVlDSDRNNlhYNWFaQ0x2UGlTczJyUDNiRDRsQTIxX2ItS1BRS0lqRXFYWWFRVkhQZUxmZnhqZFdOQkJjakp5M3htUWJIc2k1YjdrYldVNHhCYTE3VlotRlYwU1ZiYzhrRWNSNGVHYlFIUXQwN2hRWjNMRXRlaEpsUXlMdGhTZ1hTU01GNUdoM1E?oc=5",
       "publishedAt": "2026-10-25T06:44:14+08:00"
-    },
-    {
-      "title": "Peru proposes cash payments for 800,000 ONP pensioners and vulnerable families as Mega El Niño risks grow",
-      "source": "Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OYjFSS2hpa00tSzAtSERJMk9fMV81MENHWXJfRlp6TXd0UWVQVnd5VEswLWlsa0JFbzhjWDRhWnlkVmMtTVNwUVRkOEM1NV9SSGl6NDN2TTI0SHJ3SjVHWHNhbnlxSEpjRmhBbQ?oc=5",
-      "publishedAt": "2026-10-25T03:15:40+08:00"
-    },
-    {
-      "title": "'Don't Forget the Chapel': How Pope Leo XIV's Private Promise Helped Revive Chiclayo's Poorest Parish in Peru",
-      "source": "Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ua2QtanUxekZKcXRTdzVKcExrN1FSRGZvbThZTTNmZTZaSFZ0eTNremFJQ0l5MURKbHpSTEVUNFo5VmZMdUEwTGJSY0lmY091MEpzQWpHaGVCbEcxTVNIV2hnNHVheHRGd2pkd1VhSDR5UEJYaEFv?oc=5",
-      "publishedAt": "2026-10-25T01:36:45+08:00"
-    },
-    {
-      "title": "Peru Reached $4.813 Billion in Mining Investment Between January-August",
-      "source": "teleSUR English",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTVAtT2lNOWZkZXBvYW5IREk1Nno3ZkdsNEdFY19jazVsV29BZjJNR25FSTdxUUpsNTdvVUFseEtkajVIekxrQ3NoSHkyU3pINGthZE02akxWRXhxdjJDdEtXVklJaTdicmc5Z0ZOV2xmdlJKbkhVYWNJSzhGOHloeEJ0bzY0VkFzOUFTaG9BSDgzeXFuN2d4T3NCNUZ3T2NfUW5aMw?oc=5",
-      "publishedAt": "2026-10-25T01:13:15+08:00"
     }
   ]
 }
