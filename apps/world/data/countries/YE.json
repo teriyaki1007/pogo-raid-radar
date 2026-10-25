@@ -1,7 +1,7 @@
 {
   "iso2": "YE",
   "name": "Yemen",
-  "updatedAt": "2026-10-25T11:03:50+08:00",
+  "updatedAt": "2026-10-25T17:04:55+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "Yemen’s Ansarullah: Attacks on airports aim to impose blockade on Saudi Arabia",
+      "source": "Pars Today",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYUUwckp4bEIwU3RrVFIyTEE5U3NMeXViQUVuVldkTFRKdmphdldXdFNBZmFlZ1kxbENLaTBlQ3JNMGFPQUMtSGVOaG0weTNjNnQ2eVlfS1VOTU0tWWRCT3BjZ1QwN0xpWDY1eEJuTFZFM1pkNjJsSlJDaUsxdnVpNFEyQVJlYWx3VFJyb3JfR2dHbmtGVUtsMlpyVUNuRE1uY2R1NHBlbzBrQ0xCMF9JNlQwdlhaU0hZWU5GSlQwMmJldXIzREUxLVZiWGs?oc=5",
+      "publishedAt": "2026-10-25T16:47:00+08:00"
+    },
+    {
+      "title": "Yemeni foreign minister discusses expanding humanitarian aid with Turkish organizations",
+      "source": "Arab News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNzFOT2IxWDd2TXIwQXlrYUZWdno0elVwdjJaY2VDRDBfcGtrQ2w0OEcwRG45eFYxODNyQ0RweE1OVXJET2VWYVJEUnJnenJReUhZV2ZxVW5XOTFXVTRfRmw0WHBBb3M1MUdwM1F1UFZweERVSEVlYUU0aTQxY05UTTlMTzNZZWJoRjA2SmlUdGwxSGtGd195Sjc4VHRVVGg1ZGZtZGU3eC1QSHRTZTBzZkpKV2xCVnMwTktrSXpwcHpGUnlhNzlLUjV2UFA?oc=5",
+      "publishedAt": "2026-10-25T16:28:36+08:00"
+    },
+    {
+      "title": "Houthis renew airport threat as Saudi-Yemen fighting escalates",
+      "source": "Middle East Online",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVF9uZGUzUVNpYTlCajBjcVQwYm9NTmZmQTRqNW8tUWNQTXZxakxvb3R5U3o3UC1Qc2dDM0pFR1VqRWQtV2ZxamYxUzl4SjN1QXN1bDZVTHdMODJfNFJBQzRSOUp3MDB5bW1ndHA4ZEJaRE1ZM2RIWWtsZ0p2ZEVHbXBaeDkyWlJncmIyZDdOUmtscU1ZdlJuWQ?oc=5",
+      "publishedAt": "2026-10-25T15:57:11+08:00"
+    },
+    {
+      "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejJVeno4cmRWUWhlWHZNR2NoWF8xZ19jNnVXTS12b01LRFhpbFdpMUZCTXdJSVk3WFFhSy11dHZlekhOaUxxZTNOR1VObXdtZkQtRVpRZGhQbElmV2dJbzNWSzJpTHlrV0drQ0EtZ2hXVXJmTUZZUklOQlV4NmdoMHV4OUp5MGtXVzdTb19WZzVWTVFaNzNma1J1cWTSAaIBQVVfeXFMTTVxZm9xZlhCcDJhb0p2cV9GeHl2eWFHM28xak5sT2J3cFBiNW5hdk1WamVxdXBiQzd2UmIxcnd0VTNNU3U2MUNZVW1xTmIwMGRsTndWZnZENlR4WlpvZXJUQ2N2LU9LMWRpSURFX091Wkxfd2xFMFM0Yl9uV0xNQTg1cEpZUjE3TG13c1lKU2NIVlFmT2J6b2I4QzNLTDBMVEtR?oc=5",
+      "publishedAt": "2026-10-25T14:33:45+08:00"
+    },
+    {
+      "title": "Saudi strikes martyr 193 in Yemen, wound 468",
+      "source": "Mehr News Agency",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQlZiYk5JaHZYSHFQRWx2VkQxblZYUk1nMEpnOGtJOWt0RmlESDRUY29yQWE4Q3h5b0QxMDdiaDVCbXBwZWdCV0dGNVdQUHpnVUczLVlNbHRJNXdRN3htZnZWU1pJN0szeS0zLTdNMlhDX0didDlNX0pmUHdvMHhKbmo5bTZrZw?oc=5",
+      "publishedAt": "2026-10-25T12:12:00+08:00"
+    },
+    {
+      "title": "Decade of talks with Houthis failed to end conflict: Yemeni foreign minister",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUWx4ejUycnBXR3lybGpTdUp3c0h0UHlKakNPbE16dHg1dzNPWFBYQ1VRdFhVQVZFV0p3b0pRNy1McW8weEFJMjU0ZjRkUW5ZMUFkMW91TFRVeXZwa0NTSXNkSldIWjFiS2piS0FEdUp0Tm5LdHZ0VUVJZ3ZMS0dmVXdvZHdOR003N2czbDBHcE1Pbndtbm9DNGJxTDI0MkRXMDZaYnlwRG1YUDA4dVhGa3g0NVhMWEZUUWdTMg?oc=5",
+      "publishedAt": "2026-10-25T11:08:28+08:00"
+    },
+    {
       "title": "Yemen’s Houthis renew threat against Riyadh airport as flights set to resume",
       "source": "Investing.com",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTkYycWpsdF95b09KTnp2ak9JWFE4Yjd5cDZvUVFWOFJDeGx1ekE4NmNmQy11UEdnQjNZTGtpUkJCUWN3QzRyZHJBMzNRXzA2cUtKMGE5ZHc2UXFBSHppNmw0ZkxfbFRhamhzWGxTWWUyOTJUVzB5enVyVmNyNEhjOFprYkt5YXJFeC1mSVplNExab1lTQ1drV01GRFlzbjlHVVJBTnoyb0VKRGpqXzRVNDJ1MzJxYVYzZE5tWGpmUzFPbGlrN3c?oc=5",
@@ -40,42 +76,6 @@
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0JBTVByRUdVWnYzNWpyRUlfbGRFR2RnQzZpbTgzR05tX1AzU2VkVC10RUswYWthSGtJa2FZamVSa2E2ckdSeG5FN3VGTFU5SVJfbjY4NEZjR2tQSWJfZmxtbTJvUU5YSEpKWHRQQWpHMGRfR29xeFhkR1BwcHA5NlA3MnJmRnloYzF6Q0tBZG92ZDgzWmRubVNpNi1CajBmdXdNZmNTYnkzLWFnMldvaQ?oc=5",
       "publishedAt": "2026-10-25T07:57:43+08:00"
-    },
-    {
-      "title": "YEMEN: ‘The world now faces a problem it lacks a strategy to address’",
-      "source": "civicus lens",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY3hTdktHdGRCVTFjOHg4UlJEcV9CeHZRWThYTU96eEM5eGh2QmZaTVZvb2MwUENWYVdkS2c3MUIwd1VNNTJUdDdFOVF1bDRrSDI5eXBVbXR5czh4UGRYTWt1ZkE3LTAwTmd0ZVJKX1RkUmxEY0RkQVlDTG1DRE8xNU9qeFRkTlllV3V0c1pLdEV4Q01GQk1jcG5Ka2JmOE0xdEdCaA?oc=5",
-      "publishedAt": "2026-10-25T07:40:31+08:00"
-    },
-    {
-      "title": "Over 300 Houthis ‘neutralized’ in Yemen in 24 hours: Army",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdlotQkhmQ3R0aHI2aUxIZmlLYXQyVmlITWZaMHZNRmlTNjlLQXFkX1dtT2N0WFBfZy0zODI0RTRZMXR5LUZXdWdDa21RdVh1YnplMTdMV2VoMUQ0NGN0LWo5VGNreDByOURxVlBLUHNWRldsU0gzR1AwZm5Hdmx1VllEMktja2VXSDVRYnFuQ3l1Z2tMS2d3NU5SZ1NwdFR1?oc=5",
-      "publishedAt": "2026-10-25T07:29:07+08:00"
-    },
-    {
-      "title": "Drone destroyed in Riyadh region as explosions rock southern Yemen",
-      "source": "Middle East Eye",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWkdPQjJETDh2WlA3VHVIRExfVXFYVUhUVnNnRGhacmV5ZndhenZRZm41cGZQV01rb0VrWm1yaTVKOVlYM29hcEFhYWlFeU5JNTlFbzF0MGtSYVo2bXh5MTJmTmNDdWxJbWNReVZmbE5kWWtsRjVLa0c5T0VqMmJYRXB0aG9xc1BySkk2X3lwRjlxeTZsZTQ1SmMzQ1JnVjViSE5vNnZVU3paZ05Ra1M1bk9RTEUwR29n?oc=5",
-      "publishedAt": "2026-10-25T07:23:00+08:00"
-    },
-    {
-      "title": "Yemen, Saudi Power, and the Islamic Test of Custodianship",
-      "source": "Crescent International",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRFh5cFRrVTVfQVBtekxVd1hReFQwUWYyYWZyRC1RUmoyNF9qS2xaTzRUMFkxZE1VaTJvZnRSOTFBbzlvY2Y5QkpMMlcySElBRllRdVUwTDA3TEdkNDRiZjYzWENuQUhaVDJ0MWRiQzZRWmg1eFZ2Vk9kRmNYMFEyRTFUN3Bic05pOG42Sy1RZVI4YVJnMXBwbjluZjVHTzQ?oc=5",
-      "publishedAt": "2026-10-25T05:18:11+08:00"
-    },
-    {
-      "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNejJVeno4cmRWUWhlWHZNR2NoWF8xZ19jNnVXTS12b01LRFhpbFdpMUZCTXdJSVk3WFFhSy11dHZlekhOaUxxZTNOR1VObXdtZkQtRVpRZGhQbElmV2dJbzNWSzJpTHlrV0drQ0EtZ2hXVXJmTUZZUklOQlV4NmdoMHV4OUp5MGtXVzdTb19WZzVWTVFaNzNma1J1cWTSAaIBQVVfeXFMTTVxZm9xZlhCcDJhb0p2cV9GeHl2eWFHM28xak5sT2J3cFBiNW5hdk1WamVxdXBiQzd2UmIxcnd0VTNNU3U2MUNZVW1xTmIwMGRsTndWZnZENlR4WlpvZXJUQ2N2LU9LMWRpSURFX091Wkxfd2xFMFM0Yl9uV0xNQTg1cEpZUjE3TG13c1lKU2NIVlFmT2J6b2I4QzNLTDBMVEtR?oc=5",
-      "publishedAt": "2026-10-25T05:12:22+08:00"
-    },
-    {
-      "title": "Yemen : Houthi Media Reports Airstrikes on Sanaa",
-      "source": "Yemen Online",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5EY3ZCckpUSEMtVHJjamFTZG1kUGJmaEtlRm1lQjQ3N1JKQVprUnJkVmVoaDNDM3lwMHlkMVc1NjE1TGo4UmYzRkJYVGRxN28tR196WUtfd0s1QQ?oc=5",
-      "publishedAt": "2026-10-25T04:46:55+08:00"
     }
   ]
 }

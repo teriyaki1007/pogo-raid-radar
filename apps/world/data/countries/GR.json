@@ -1,7 +1,7 @@
 {
   "iso2": "GR",
   "name": "Greece",
-  "updatedAt": "2026-10-25T11:03:50+08:00",
+  "updatedAt": "2026-10-25T17:04:55+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Greece’s Electricity Exports Hit New Record in 2026",
+      "source": "GreekReporter.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMTlpTWNjX0w5bWF1Z3J3dEZ6NnhpOFVjb0p1cUZiQUdROGFsbm9uVXR1MzdHM1Y1VmNwQTFWN2ZaeUNJcjRCMG92cTQwZjhJZlIyVEoteWR2R1BjaVdGa0FOa2FYS1k3TUt2T1R1UGxxTG8tRjZ6dnFoT3Z4cTdjaDNQc0NKS2l1VWh2Z1BB?oc=5",
+      "publishedAt": "2026-10-25T16:54:15+08:00"
+    },
+    {
+      "title": "Israel, Greece conduct joint naval exercise for operational scenarios, sinking hostile ships",
+      "source": "The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5Ka0NxVlVaWTVjVVhKTGx0cmJFaGx3cWRmenlUVjVWNTMtTWxTakZFRHMxMVhfTzdmSWkyblUxZnN0aWdJMDRFMl81RlpSOVFNU3dFQmt6VUg4ZVlYLV92cmZSTnlhZ3lsMGRhME5n?oc=5",
+      "publishedAt": "2026-10-25T15:47:55+08:00"
+    },
+    {
+      "title": "Greece Bans Social Media for Under-15s",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV2xQT2QtOHVvWnB1Q2pwd0hkSk1fSmJsdUU1MEJ6OVdrSzZXaXlrclIyazR2LTQ0WDNlSjZWbW9FWWJoZEozb3lrbzk0bGJ3S054Zi10ekVta245OTk4Z2JpeWtlY25ramd6TGxxTXFBYnk0YkxiWUpibjdoSmY0QVNiVHYtZGZW?oc=5",
+      "publishedAt": "2026-10-25T15:13:21+08:00"
+    },
+    {
+      "title": "Greece and Turkey Clash Over New Mufti Appointments in Thrace",
+      "source": "GreekReporter.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNjlLb0VRQXpOWVF2UWVxcTFMdmlXVTV4ZVRJWmcxaHNjMXpMdkxVOGR0UERpa0liUXRvdWNyVFd1VjhBZEZfeTUyZDJWOENvYVJyVDMxOU9oV25ZLVgwTXJBTGw3Q051cV9wYlJsZXBQb0hTd1hkSy1VR0E1RERQa0ZrMzdsSmg0eHpKZGI2Yw?oc=5",
+      "publishedAt": "2026-10-25T14:40:59+08:00"
+    },
+    {
+      "title": "How Turkey's deal on Mediterranean maritime boundaries with Libya exacerbates a longtime feud with Greece",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbm1HSDFBYnNXUk92ZjVtaXY3Nk1iWDdjcndlMEVFNXA1b2Zaa3hyNVhwNDVTa0FEUGpuOHBueUhoWU1USWFwMzU5aWNoWFg5aUNuU0FtczhjamdFcnUwem9Ydk11enJ5aUdjcm5kN2tBM0ZqdzRNY0pzV0pTYUxHRFdUeHhIaHo3a2p2dHpQT3o2b2ZCZFhkc2p5aU52eU9fVmRtREt5TGptdUNDazdvZTdZbVpibEI3NWRpdnZ2akMzVlpkU2p0UDJ3LUNjZTNBdE0yN0hVMWRQWknSAdsBQVVfeXFMUGQxM0p4UUxZeWdqbXFNNlpZODVidE1FSGllS3pDQlNEZ1F6SjluVmtmZ2pVYl9PNVE4TFlCZzBWU29aLThvQlRaODU2WmdoUnQzVi1NSy1GSzdhUlQzV1dzQ1RlVDB4Y0JvU2x2cUlKMElSaS10V0d0WkhaenRtX2dncnFKSVdMMnVCV2I1Z2M5bHBKZEJPakp5ZGpKX1hDT0w3XzZ2T3hDLUR3UkJwOEJPODUzWVlwcm5YUko2enJSY2xkcHBGcWRxQllVQjVFR0RPWTlGSHVVSEhJ?oc=5",
+      "publishedAt": "2026-10-25T05:04:53+08:00"
+    },
+    {
       "title": "Section V girls soccer: Brighton shocks Greece Athena in double overtime",
       "source": "Democrat and Chronicle",
       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNSDlnTVA0ZWtCd1VnY3F2d1cxdzFxMm1mX09ISG5mMFdodHpCUkx5QVo1MEtYQ0RXM3l3R2Roc3BDVFNZLWZlTmtpczhPdEZMRXZ2NmtHcXZLNWxnVkNsREQ0Z1JqTWV6OUF2YnJTVE85NVBnN1lNN1NyYTlibEdGd0ZFNlE5X1pBbTlRZFA1S01KUjRHVWtyR0JRZWc0dzljSG1uT0J2ZWlGWGRFS0dmODdhcGxxalNWd3NsalFvSmp4SExmNVVkWXV4YnFLRkxjVDU3SDNzX2NqdGFqclhPSTNMeTNKcC1TVWp2d2ptai1ELUVOZTFYcldqcTZZSU42RFE0dw?oc=5",
@@ -46,36 +76,6 @@
       "source": "The National Herald",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQXAtYXdhanJaVGlIUTBGLVgyZHhnS1V5Q2UyRnQ0NTZUT3cwWVR6Q1EzZjBhWjg5NllKVjZ2bHRIekRjcWhwT2dZMGhfQWFkVnhJcXVmT0NfdTBxSHkwUWVuVmhOaFNyQzFHWHg3MzRoekhtYno2em8yT1hETHFkX0xIT3dNY0pzdjEwN0xSZWNJZDJQcVNpRWpMQzBSeDZxX3VZ?oc=5",
       "publishedAt": "2026-10-25T01:51:35+08:00"
-    },
-    {
-      "title": "How Turkey's deal on Mediterranean maritime boundaries with Libya exacerbates a longtime feud with Greece",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbm1HSDFBYnNXUk92ZjVtaXY3Nk1iWDdjcndlMEVFNXA1b2Zaa3hyNVhwNDVTa0FEUGpuOHBueUhoWU1USWFwMzU5aWNoWFg5aUNuU0FtczhjamdFcnUwem9Ydk11enJ5aUdjcm5kN2tBM0ZqdzRNY0pzV0pTYUxHRFdUeHhIaHo3a2p2dHpQT3o2b2ZCZFhkc2p5aU52eU9fVmRtREt5TGptdUNDazdvZTdZbVpibEI3NWRpdnZ2akMzVlpkU2p0UDJ3LUNjZTNBdE0yN0hVMWRQWknSAdsBQVVfeXFMUGQxM0p4UUxZeWdqbXFNNlpZODVidE1FSGllS3pDQlNEZ1F6SjluVmtmZ2pVYl9PNVE4TFlCZzBWU29aLThvQlRaODU2WmdoUnQzVi1NSy1GSzdhUlQzV1dzQ1RlVDB4Y0JvU2x2cUlKMElSaS10V0d0WkhaenRtX2dncnFKSVdMMnVCV2I1Z2M5bHBKZEJPakp5ZGpKX1hDT0w3XzZ2T3hDLUR3UkJwOEJPODUzWVlwcm5YUko2enJSY2xkcHBGcWRxQllVQjVFR0RPWTlGSHVVSEhJ?oc=5",
-      "publishedAt": "2026-10-24T22:00:54+08:00"
-    },
-    {
-      "title": "Eleven New Measures to Make Housing More Affordable in Greece",
-      "source": "The National Herald",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONEdvX2wwZ0o4dEY4eTVnckxuNEJqeFpvWkxIa2RjNHVxWkl0S1lHTlFwaTR3V19Wd0hYSE1XVXhiNk1jalBZRjQzR2JCVkR1OVNDcWZJcmpvQlhqNS1RRHYyLThsRF9kZ1VVajhjNFhNMDRjQ1UyeGlrVjFCRWZOYUVuSkxua3NPenVhaHVlR0Y1bXJNUURaYzVCQV8?oc=5",
-      "publishedAt": "2026-10-24T21:03:42+08:00"
-    },
-    {
-      "title": "Türkiye says Greece disregards Turkish minority's rights by appointing muftis in Western Thrace",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZFhIU3owQ2ZjRS1wb3AxakZaRGpGSWhHYzV0d1RlLUtJeW9xUDFHMnlkZWM3S2tVZVVFTkI4ODBCMEo1Qm0tQnVGbzc3LUFOT1NnX29RTUtQcmFtX3RZYnh0QVBVd0tiNWtGdmJTa0xTZmJPYXhvaEtZX1l3QkhITUZoaHo5NTBGQXo1TmtkNTZ6b0hVNmhleWJsSnFvX2RCa2tVUlB5MkpzRndGNmhQMVBKZ1NkMjFWWkowNEVKTjlXc05LdVBRNW9Yaw?oc=5",
-      "publishedAt": "2026-10-24T20:14:44+08:00"
-    },
-    {
-      "title": "Spain Cannot Watch the UAE–Greece Corridor From the Shore",
-      "source": "Atalayar",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRWRhMEp0bnZlVVlkbVBnVzF2NXE2cElVbDJiT2l2S19hVzJpaHFzNG1tSGtVemxrY0l2Qy0xbnhpMjNZZGV0TWxkdTM3Yml4U0NUeEJ1VU9EWWJFa21ZTmkzN19BYjJxSF9pRWtZdlo0VlVrcTBPMnpZSnFwdnp1SVFlRk9fc2lLZ3dFUjQxZmxfTVA3ZDRldEFJX2xrclJPUmNabW1icmtfMHhjdHJRVlhhUUJObThJSFJPejRmbk1qc0kxS1EweEdiWkxhb3FwVm1WRXRNdkY?oc=5",
-      "publishedAt": "2026-10-24T20:05:20+08:00"
-    },
-    {
-      "title": "Türkiye accuses Greece of violating Turkish minority’s religious rights in Western Thrace",
-      "source": "TRT World",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81dk9KR2tYSExVQjd0RHkxczlqMmxJUEtITDVRNmY2aEk0LVRKakNCbDNEUUp2UVRnTEg0bFRkc1hoY201cGJVVndxM29pZFRWeEJlQ3hjOU4?oc=5",
-      "publishedAt": "2026-10-24T19:54:46+08:00"
     }
   ]
 }

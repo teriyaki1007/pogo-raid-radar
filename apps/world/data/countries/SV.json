@@ -1,7 +1,7 @@
 {
   "iso2": "SV",
   "name": "El Salvador",
-  "updatedAt": "2026-10-25T11:03:50+08:00",
+  "updatedAt": "2026-10-25T17:04:55+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "El Salvador’s Bukele says bodies found in Haiti are not those of missing Salvadorans",
+      "source": "www.livingstonenterprise.net",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUEpIVTc1ajIzM1J3aENobFBYY0lURllTWDVtaEswaXdOcHNwSGF4bGhqelVKSEgyYVRfNEpBSFg5UFN4UVJ2azN6QlFnUjhtR2NZOURkbGt0eWJ5MW45dW52cnlSaUpfOXd3WGRUS2w1eHBITFo2ckRaby1peWFtbWtsSDdfa28tTG4wRGM4WTdtSlpKMGRCT3ZnUlMyNTlzM1JoOW5GUFh0YkxNOTRWbWJhTmJYMW5Jd1BKSGJxWDNxd1IwX3JHd1JUVk1xS1E?oc=5",
+      "publishedAt": "2026-10-25T16:44:42+08:00"
+    },
+    {
+      "title": "El Salvador's president denies report that bodies found in Haiti are missing Salvadoran soldiers",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbWxLTXQ1eFRKQWJoLXFHeEc5VUp3UHRhWUpDcTFubklkanloSXdfSkJhc0VyUUNVZkpxZnIwU3BleTZvZmE2YWJCWjBsdWFwQXVLLXplaG82cVd4dzE5YUdaaHlyT19JaTd4NHdCQ2VkcmF1VXJmMTV4VDd0dEVwSkJQRlhjdnpRamZLY3BNOUQ1ckdMSjZSSUxZZVV5V1E5czd2bWlQOUdVRlJwRnVxOEx6MWQza2ZkbGgtc0NVTzVPWmRPbFNXMlNYeXk4QjQ?oc=5",
+      "publishedAt": "2026-10-25T16:07:34+08:00"
+    },
+    {
+      "title": "El Salvador president says bodies found in Haiti do not belong to ambushed soldiers",
+      "source": "bdnews24.com",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5tVzVNLW8wcEtmQ2pfTDlqSWpfQlRnYWJOUlozYng2UzhBUGlrb2JCNUFMVXctYWtRakU1WmEwODdVSnhTN1ZWdDVPdkx2NWlWUkd0VXk3cXN3Zw?oc=5",
+      "publishedAt": "2026-10-25T13:38:00+08:00"
+    },
+    {
+      "title": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNEhheFZNZ2tfQ1lLWUNHT0c3T29aZ2J1LVhBSmJUczIxNGhSTzFOOUt6M1lPQnZSTnVjaUljQ2w5Rk80UUJ0cndvVzg4ZlJhLU0yUHdNVk9kZld4d2RlbC1WblBPSVRyajlmV1dlMmVXclRxQUZtV2l2ZGluTGhHRDlhNmt2dEx0cW9yd1dB?oc=5",
+      "publishedAt": "2026-10-25T10:01:15+08:00"
+    },
+    {
       "title": "Bodies of ambushed Salvadoran soldiers found in Haiti, New York Times reports",
       "source": "The Straits Times",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNm5rT1Y0WERpT0pONzc5MVFEQlNxZlh0UDdUMVBHQW1MLW1aRUFvcl94bm9DUEQ3Xy1meFFZa2RPcUh1QUpKSnBkclZkZ09ITHppNzhnYmF6SWF6aVpXbUNaMVF2b0JCUi0tOUY3aHB6SHNTWkI1Y2h1VEhLX2lzWGZ4VGJ3ZVFxU1ZOV2k4SDdhbzhLdnpYOGotZTZqTHg2SEIwRVNXWHBJd2RJU201UA?oc=5",
       "publishedAt": "2026-10-25T07:25:00+08:00"
+    },
+    {
+      "title": "Salvadoran Troops Missing in Haiti: What Can Bukele Legally Do?",
+      "source": "Diplomacy and Law",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZQXlZTTFOcVZqNlpLU0Z0WFpnUWtYbTZESDM3dXVYRzBaSUpGdWtOUzFmTGRpeXVZV1ZERnF2dlJ2cGhzV2VpNzhZLVlNRU1oNE1uVmFGcy1lTS1TWGRnMFVsVUk?oc=5",
+      "publishedAt": "2026-10-25T07:20:22+08:00"
     },
     {
       "title": "Haiti Crisis: El Salvador deploys troops for a rescue operation",
@@ -46,36 +76,6 @@
       "source": "Jamaica Observer",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWFJsbWI5RW11aFBnYU16NVJlNDZWVUwta29fV2JmZENlZ3VmM0txSmY2NUlKQ1lvVWFlZ3c3QllPVWlBUGFRb09YVV9NVzBhQlE5bjc3WmtsM0d5dGUwQ1Bhc1pMYVZwTFBxc09tM2JOMDFyUXI2RlF2NWY1WWtYVzVxUEJZa3NUT1pYa0FzNUJXQUxIbWtwVHlMWkJUalAzRVJz?oc=5",
       "publishedAt": "2026-10-25T00:45:43+08:00"
-    },
-    {
-      "title": "Salvadoran Troops Missing in Haiti: What Can Bukele Legally Do?",
-      "source": "Diplomacy and Law",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZQXlZTTFOcVZqNlpLU0Z0WFpnUWtYbTZESDM3dXVYRzBaSUpGdWtOUzFmTGRpeXVZV1ZERnF2dlJ2cGhzV2VpNzhZLVlNRU1oNE1uVmFGcy1lTS1TWGRnMFVsVUk?oc=5",
-      "publishedAt": "2026-10-25T00:27:04+08:00"
-    },
-    {
-      "title": "El Salvador sends special forces to Haiti to rescue four kidnapped soldiers",
-      "source": "Saudi Gazette",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWkFZS01OV2wxRXVIaXg3Qi0zQzlXdnBnM1htTlhKSzJ4TUFFYVZQcjZUQVQ3RS1qeFFtRzlwWDhPRVFMRk1wVjk3amZaTWRIUFZBeGRTcEYzbXBNWEpEU1lEcTJtZ1VYbTlLbzBWZXVIMzR2cmNxb0NxMnZONDc5dDVNSVJLV1pSUFRGem01ck1WWjY4dmRzQkM1S3NtYXFsMS1sUlBEUnBsNnRYTHBhenplaWdCSnpUUGdwdkRiX05PYnVjWEh0YTVVUzhzNU0?oc=5",
-      "publishedAt": "2026-10-24T20:57:00+08:00"
-    },
-    {
-      "title": "In the US, TPS holders from El Salvador report pension payments stopped — The Rio Times",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcEZIXy1haE1ibU1VSF9ZMmg5Zms0VGJLOXViRFJCcTZsUmZseFBqN3NCUzNMXzA1c1V4NVFQZDJvbWlaQXh0SEdqbVkxZzdlc1ctRzRhSHFhdmlha3dTMll6eHhncDBOWk9kWUFsZDltekhIU2hXcWQ0OGllZUtDcmNBVkRDOEU0cXY1ZzZlVHpsWEVFcHlDMlBuQ3NfOW5w?oc=5",
-      "publishedAt": "2026-10-24T19:58:54+08:00"
-    },
-    {
-      "title": "Haiti - FLASH : Major military operation by El Salvador in Haiti",
-      "source": "HaitiLibre.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLXl4SlN4Q05aQ3JvbTRQMHJXbUttanJ4RFZrV3ZYMldfc21OMnRpNFZDdmZmV05YYndJUmhDZWhUajl0QnJHQkFFb1V1Vm9veVo5elp0U1lsNzlOWURKOXZZU2Z3eURVdEI0M0Y0c2FyTFYtOGI3Rk5rQTJURzhacGNONWl0NU15dzJKQWNhOG5aUUdGdzFYQ3BzYThTX1ZaaFlVeklnNTBWdw?oc=5",
-      "publishedAt": "2026-10-24T19:13:53+08:00"
-    },
-    {
-      "title": "El Salvador deploys special forces to Haiti to rescue kidnapped troops",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnZ4TlNxak5zaTdhX0ppd1pTZEZibGxyYWJ6b1hoV3V1cFR4Q0czbXhNQXJ0YXU3NWd6OEx1R1hJcUJocUxKVGNoMUNaNG5iSmpoV2JzQnRZVmJEbzJXSmI4YXJDZnYtVlFHWUJoZEtkQnMyMGhVX2xoNmpDZE1DaHYyMmZ5djRiU2RSS05hbjByNlVtbGxvMlFaa09lUl9ULU85Ynl3VXMtTXJWOGd5OTZB?oc=5",
-      "publishedAt": "2026-10-24T14:00:47+08:00"
     }
   ]
 }
