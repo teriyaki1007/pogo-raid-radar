@@ -1,7 +1,7 @@
 {
   "iso2": "EE",
   "name": "Estonia",
-  "updatedAt": "2026-10-25T17:04:55+08:00",
+  "updatedAt": "2026-10-25T23:09:34+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Inside Estonia’s “Siberia”: how hidden spaces shape identity and belonging",
+      "source": "Estonian World",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTWhwNzFiUVVmX2huOTByY1ZhSnBmWW94MDVkZEVIUjVzdGlvY1VQaVVwQXc2TWdScFBPWlpEeEVXd21oaHU1Z2hKNTZCQXFvbVhXSEV0SHkyUS1kM3B3WTF4YUtyRy1xX1NmVnRZV3Q2MmVGN3VPaUxwXzA5OXB6Y191OGZzRk1PM3VnRDVEa0Q3cTQ4aFViajV2TXlTdk5CRkxRUDVqbDA?oc=5",
+      "publishedAt": "2026-10-25T19:53:32+08:00"
+    },
+    {
+      "title": "Globe editorial: The recycled success of Estonia’s corporate taxation",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSHN6RFc3TTNlU3AtNlh0NEhpQ0tEQVhwMVU4ZWF2V0Y2QmozTGlVZzd4TFBSTnNhejlrcVlObGRZUk1URWlzMXBXcmtqVTVfTXYtZUh0d1BTOVZMaG8xbGxRRUJfZ3V5X2x5dUU1NHFFanZqSnRIY2g5bFhJZ0FhOXNKZVZPbkZuWTl5Q0pCbDQxWmZWX2lWRlRSMDljMmgzZDFWbVhBWkdfLUdlMVYwWA?oc=5",
+      "publishedAt": "2026-10-25T18:45:00+08:00"
+    },
+    {
+      "title": "Could Russia attack NATO? Estonian general identifies two dangerous scenarios",
+      "source": "Defence24.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLUp1bW9ZWU1jZjMtcU1wcFB6UDh4LWF4TG13N2IyRzh5NEdPeTA4Y3FITTI2STZ6X1hlUUQtTjh3aXR5NHdzaFJXaG82akV4dTA5aFdsYzhlQXQydFJrYVNQWjh4dktPVVhaVHJ5ZGpXNmxkbW5aWF9yVDJ0QVRPT2VWdlp2SFJvUFhWRjcwMlI0bDEwYVUtRlpjeUVRQkxqN29keENsMEZZYV9qQ3BB?oc=5",
+      "publishedAt": "2026-10-25T17:00:01+08:00"
+    },
+    {
       "title": "Estonia planning to send 'substantial number of locomotives' to Ukraine",
       "source": "ERR",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHNWWWZDNkF6VWFReU9BYUVmLUdsMVhUZFh3NWF3aGd6MmZKWl91YXBPZlExQWU4M2xEX1RSVUlnakFTa2ZRU0lHQVJyM3hXRTNjRXpWb0NvbC1OZDZLNmZIWjFpNWp2NFk1aE5pUDZtUWJONzNlTDN0MWtNNTI0T2s3ejF5RzRUYXlrcW83ci1WY29QZXJOdkFuTHVZN2ZhR2c?oc=5",
@@ -40,12 +58,6 @@
       "source": "ERR",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLUo3ajVfSWl2Rnk1TmNrd3NaVGpwSDgxZ3VuczV0MUIxTGFNYmZZVW56dHd3QmI2N0NOMEtMb2dJWUQxbmI1OUFKWlV1WGlYX2NsbDNieXcyWVFNVDl1UWlFTGhwNlltRnN6LXZ6amJsWmpMM253QWdQc0txd2xSSEx4ejBtQ0N1clVPR3d3NnM?oc=5",
       "publishedAt": "2026-10-24T17:37:00+08:00"
-    },
-    {
-      "title": "Estonia’s First Fully Electric Ferry to Feature Next-Generation Steerprop CRP Technology",
-      "source": "Ships Monthly",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMDVhNjBjNkdOVXRpbFlyWnRkR1FYOVpoR0Q4ZV9yR1N4YzNJZTJMT0I1WExFMDA4ak5UQzBhQkdMTVlLbXBsX2FLY0Nsek5KMVJsY1FQX1RpTGZXNng3WThQNHJTQXZRekNmUFZlcktocjFCTklLRHVySkxOMi1KbkVBRGQ5SlRTUWhCc1lpQjZ2T2Fna0NxZm5KeHVWZExISEhHUFA3MC0xTGdLM1RETkljeG44QWZzLTUzQmVJdnJwU3dnZ3h1dA?oc=5",
-      "publishedAt": "2026-10-24T15:56:17+08:00"
     },
     {
       "title": "Estonia passes the presidency of the Baltic Assembly to Lithuania / Article",
@@ -60,22 +72,10 @@
       "publishedAt": "2026-10-23T22:55:15+08:00"
     },
     {
-      "title": "Estonia Receives GMLRS Rockets After US Supply Pause Due to War With Iran",
-      "source": "Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONjA0bUZ0MGozZ3pHbDZtUV9BaTVxUXFJdjVMZ1ZJMXFDWDdIaTZVMlFkeHV3b0dDS0FGWjd3RlVPRE1TVzY3NDI1STJuU0FwS1BwRDFrLWpuOWF2SjEyaFBuNGE5YXRLa2tpZFBoelRscDlob054Wk8yMnpkN0NjTjNqUjZzWDNlQzdZVTJlcUhNWWFaM1VicXFWRzVpcmlDRm1MSlVYaV8?oc=5",
-      "publishedAt": "2026-10-23T19:05:17+08:00"
-    },
-    {
-      "title": "Visit Tallinn Puts A New Spin On Estonia’s Folk Traditions",
-      "source": "B&T",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHowOUpRWkExU2ZTdmYtVlJvYXczRG95TGNUOVI2Sk9pLW9vUjdHV0g3alVxMUhNVDZmXzhFTnBJQzJtbVZrdmNhUnp5Wkwxek5SbkQxVzRhaUFvSllUUGUydkJDUDRxcVdFUEdCdEpERVVLZkt2djZNSVZUdFZSMmt3c1g5Vm1QOE5N?oc=5",
-      "publishedAt": "2026-10-23T08:16:02+08:00"
-    },
-    {
-      "title": "🇪🇪 Estonia: Eesti Laul 2027 Lineup Revealed",
-      "source": "Eurovoix",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jWDZWQnc5eUFSZjgxX3pPQkgzanc0WkEwVEVoUWFNU3NkMXNURm1tZmN0NXowdmtFUWpiT0ozUTcyRWFFSlBlQUgtQXdmMW5SVFRpUkF4OHdHMjgzWDFud2pEUjZ1QVgwdktfZHNENHBsQ0RQd3hSUENIVHQ?oc=5",
-      "publishedAt": "2026-10-23T02:59:47+08:00"
+      "title": "Estonia on the edge as Russia-NATO tensions rise",
+      "source": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUtLYklySkZoV1A2blEzX0ZPTFBzRWMwRmRSbC1FZTlyYUY3clRUSmUxTTBUb3FEUURWR05xaDNiQ01acmp6ZFNMZXQ1ektKdmx4RW1zNm5BeVg1VGIwNHBnNzR0SlpPdWpETmxVaTZ1UG4td013YTk5aVlsZ21hTEVVeS1PT0UtTFVKM3ZOMmJ5b2MzN1Q1VW40QUtKVk9MbGNDQW8ydU9YN2F6NG1hcS130gG4AUFVX3lxTFBnakNHb3FKSWhheVN0all1R2dGa3ZsNEJCN0pFY2haaE1jQzZOTjdzVXpGczF6dVZxXzRab3FoYUZLdkZCNUtjRV9hM0lXZmhERzdpS3VZaTRJSWJFa1k2VWt0ZXdUZFJaYWVENDNSUTlfcEREV01XTW5taGNQMTFpc3lTQ0JTdUM5aE1QUTAyMmxfY1RXb3I2bDZ4YVpqUDVvbWdqbmNpUk5tcTZncEhWYjdpRGprR0U?oc=5",
+      "publishedAt": "2026-10-23T09:42:00+08:00"
     }
   ]
 }
