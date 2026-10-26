@@ -1,7 +1,7 @@
 {
   "iso2": "JE",
   "name": "Jersey",
-  "updatedAt": "2026-10-26T17:06:46+08:00",
+  "updatedAt": "2026-10-26T23:15:39+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -25,6 +25,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Jersey Museum's interactive light event showcases island life",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IanpOeGpjV0hwUUpEQTJZSG52WEIyNHpDa2JQNFdzRnE3OVpSbTBhWFA2LW44WW8xXzJ4d2cxR0NQelJZUjl2aml5ZGQyRHNRREdMbmFxYUVGMWM?oc=5",
+      "publishedAt": "2026-10-25T15:16:39+08:00"
+    },
     {
       "title": "Jersey Harbour Closes as Storm Austen Cancels Flights and Ferries",
       "source": "Rus Tourism News",
@@ -54,12 +60,6 @@
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBCVTZvdWRpUnhuVEJrRUFZZnl1aldjY2V6X3F4YV85NVdFbEZlanpnM25HSlB2VEE1WU9CY3Nra2tjN21VbURhdlhic1JsbjVQNkYtUGtnV29YeEl3X0E?oc=5",
       "publishedAt": "2026-10-22T19:47:04+08:00"
-    },
-    {
-      "title": "Storm Austen wind concern leads to all Jersey schools closing",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xR05rd3VTYTlMaklhTnpFRkpwN0VMQW9XQm45MnpUN2NwbGE0YXo2cVk4ZUVXdHlfX0Z2WDhMcEdmbE1OR1J5YUhsa09WZFU1ZGd4TDNTYmZoMFpqWlE?oc=5",
-      "publishedAt": "2026-10-22T02:15:11+08:00"
     },
     {
       "title": "Storm Austen to bring gusts of up to 75mph to Jersey",

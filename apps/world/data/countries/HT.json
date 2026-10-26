@@ -1,7 +1,7 @@
 {
   "iso2": "HT",
   "name": "Haiti",
-  "updatedAt": "2026-10-26T17:06:46+08:00",
+  "updatedAt": "2026-10-26T23:15:39+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Haiti’s North Coast needs a Theme Park",
+      "source": "- Rezo Nòdwès",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9IdVFDMVVkVndpZWZPcU5ORDByVzJCTFdGNGNmNkw4V1BNYzhsOXFFcFVmcFJwWS0wa3BHeHdWS2FJd1BobU5iOWcyb3M1QWVfT1JPX25kQ1NMS0VfdVpvbFM0Y2g2a1FLN3JwUTFZbnhwUjlYNGhOaw?oc=5",
+      "publishedAt": "2026-10-26T22:49:26+08:00"
+    },
+    {
+      "title": "The situation regarding press freedom in Haiti is critical",
+      "source": "HaitiLibre.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUHZXR3RFN2VzaXc1TXhvX01aRzFqbTRaZFlnV2pVM2hpcWdfRHY4SkpacEc2RnRLc2lSRktRVTlEMkxhNWJJbVF4TmlWbFBJdmoyX19ISE9xdXdndEtFZElVcDNUWUUtaG8xemZ2Q1pnQlpkZmJMSmZ3azY4SVRGempXWVlidzV4dlBjLUJBb2JybUFpS2ZLeGNES3lKa2dURUZTeFplZw?oc=5",
+      "publishedAt": "2026-10-26T21:57:38+08:00"
+    },
+    {
+      "title": "It’s time to colonize Haiti",
+      "source": "The Spectator",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5yT0JPeF92N0FlTUlrYkVCMlg5Uks0S3JTTUh0X0hFajh5cTdfT1Zjanc0ZlZYYTJkZ0ZtSHhNV3FsS0xKWEM1ZEt4aW9DOUZmd0hMYnRXejl0LXlDZGZrZUNtZklOR2hyUUFUQnFkN2hUbmM3VnFJ?oc=5",
+      "publishedAt": "2026-10-26T20:17:47+08:00"
+    },
+    {
+      "title": "Bozell’s Says South Africa \"Will Go The Way Of Haiti\" With The Wrong Policies",
+      "source": "2oceansvibe News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS0QwazdZZG9EcG5lQ3JXbWNtNkRGMl92SHJ0RGgyS3JvcnJkc0NiV2VEMmM3a1JsNTBJODBKeTJyXzZKQk1ZeXlLeWtaQ2RfaFFUOVc0SEp2ZVNvTlBmYnpqUjdJRDVET0R4dVdOSnotbHBRTE1CcTFHWmo5M3hFSENXY1k3MDRJMDhtZW9vR0NaN0ppM3hNbTczRXY5Zw?oc=5",
+      "publishedAt": "2026-10-26T17:58:59+08:00"
+    },
+    {
+      "title": "Haiti - FLASH : Another victory for the U-15 Grenadiers in the World Cup against Israel [4-2]",
+      "source": "HaitiLibre.com",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN0N3RXF4UnZBdXlpREhnYVU0dFZJUkUyTFE0OHF2SVV3QjJkOFVET1BHaThvWnJuNFpvdUVtZ1AxSkFZQTJybTl4UW9uRXljYklXNTJ3bnFEd3RWQ1lQUE02d2dJWDZwZGtmVjNjT1JVdUlzNjkyb1pfcXRtQ0R2TkxCTFN1NHRCTG43UXZfUGF6eWJZYTcya0RHWktIZHdPMWFQTGtjYUlOU2lHYnVhT1ltSGl3blgxc212QWppNVJIOVBGSHlwUk9PVzV1bnJn?oc=5",
+      "publishedAt": "2026-10-26T17:48:28+08:00"
+    },
+    {
       "title": "El Salvador Says Bodies Found in Haiti Are Not Those of Missing Personnel",
       "source": "The SOFX Report",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLWZpdUkweWd4RWhxV3haNFYzVWEyOGt6SGlzZ0YxQXlzTmdORVc0ZWNjSmd3RjZfQTAtR01fZVEwV01YSERCOFllTVNlRjNYZ2loMU9kZk9uVEYtTE00WkdMTTVBUVVQV29na1pCMUx4b2plVkVMY1Z1a1JDZ09rZDF1eW1EeGYwNzVaUlVublBQRE4zTWRSeUVPWQ?oc=5",
@@ -46,36 +76,6 @@
       "source": "Caribbean National Weekly",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWtzTEwtbTR0RHBaOFp0Ql9Ua0hlaHY5NjJITUo0cGhvT1k5ZGhNWnFSWEhrYkVOZjRxQ3pQdHFOLUVMb3d0WUczU1QzYU9JNjc4d25XUm1WS0VwQXJtN2tSLWNkclZTNUNyYm91cWoxaFBTbFQwYzItUXFhY2s3ZldleFNUWndJZVRNYzFmR2g2MFRxcGRpN3k0Q3hORzZNR19QVE9GdTNqM0lHT0haLUJQa25MX013QVFR?oc=5",
       "publishedAt": "2026-10-26T11:14:39+08:00"
-    },
-    {
-      "title": "Why did Bukele reject reports that missing Salvadoran soldiers were found dead in Haiti?",
-      "source": "Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzJSMEYtTHp3V0RDVDlfVmZpMlNlWjQzQlFyYVFHZWcxRnNXdWpzWE5hZmw5cjZ6VnY0UWwycTJLdHZqNEVLZkxOT2o0WEdaUHBVcTYxeEo3a0U2N05VQWprOVZjck9HVlNLZlBvMnpvOXlPejlmRW1qd3JpQ1AtS21ZejhhdTNFemN0ZXNtZkw5Mk1RcDQzbVM4SjZod0VpSVNxN0NrUHFiY0Zv?oc=5",
-      "publishedAt": "2026-10-26T09:45:15+08:00"
-    },
-    {
-      "title": "‘Peanut Butter Medicine’ Saves Malnourished Children in Haiti",
-      "source": "EEW Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN3JRU3QweEpZNW1feE1qbWVJR1JXUWV2TDZfWVBVMmdGYmtldVVrcjZvUVFYRG9HLXNqSzZnOGEzNEZrdTZOZzlneXNUN0VKYVFBZWI5UDFra3B6YjQ5UW1feEVsUVBFcmk1WHo0RjNHSjV0UV9KWGQxTDkxaWRDSkVPWWxqVVZFX3laUUcwSm5TcGgyZ2pSeFBKSGtuU1g5c0Nv?oc=5",
-      "publishedAt": "2026-10-26T06:37:36+08:00"
-    },
-    {
-      "title": "Bukele Says Remains Handed Over in Haiti Do Not Belong to Missing Salvadoran Technicians",
-      "source": "The Tico Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONXRHcDBxZldTVERwdHZNb3Vaanh5WjM5VzY4MFRvTmw4dDI2QVVxelA1NVJaNHNxeXRmTlhRSmhpTENoTDNfTGtza214b2lvRlhQTnZCTHZ5VHU3bFoyb1JCS3hOUERpQ1hFb0ZTeHR6RmE3a1RVNkVWaFZweE1HcVdIVDJrS3kyOFB3elh6MlVWQQ?oc=5",
-      "publishedAt": "2026-10-26T05:00:00+08:00"
-    },
-    {
-      "title": "🇭🇹🇺🇸 Haiti says it's \"overwhelmed\" by the number of Haitian migrants being returned to them by the U.S. In June, SCOTUS ruled that \"temporary protected status\" could be ended for ~350,000 Haitians. The Trump Admin got to work, and got them OUT. Writer:",
-      "source": "X",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DUHVhS3ZfSzZkTDhSWmFZNFkySExGbVAtX1JZV3hBVFJ3Yy1vaWQ5NkFxYTA1bUpEYmE0WW5Xb3NRU1J4NThBaVd0TTdiUmpYdFo4bnZEX25CSndpUGVPWHNGTTFSX3lWa3pXQQ?oc=5",
-      "publishedAt": "2026-10-26T04:40:00+08:00"
-    },
-    {
-      "title": "Haiti - FLASH : 5 departments under Orange Alert",
-      "source": "HaitiLibre.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdmV6WmRWV3hzd2VlZW5aNEhCRTFHcnBpVTBPSFN5Y0RPS3E5akRGRmhBdnVqUzh2T2RZNUM2SjhYU3gySWtzclU5M3NWV0NfTDlyRjJHU3lvZGZXbFd4TjZzR2NLR1puOFZhR2s0VnRHdmM4ZEg1U2hGZVN6YjNyNzRBUTJ6TzRGSkE0SkRkRTQtcUlM?oc=5",
-      "publishedAt": "2026-10-26T02:20:49+08:00"
     }
   ]
 }

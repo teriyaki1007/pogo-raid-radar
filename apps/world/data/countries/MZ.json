@@ -1,7 +1,7 @@
 {
   "iso2": "MZ",
   "name": "Mozambique",
-  "updatedAt": "2026-10-26T17:06:46+08:00",
+  "updatedAt": "2026-10-26T23:15:39+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,22 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "“A Corridor Is Worth Not Only What Passes Through It, but What It Leaves Behind”: Salim Valá on Mozambique’s Investment Challenges",
+      "source": "Forbes Africa",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdEgtUnQtS1hXRHk3dmJIcFo5MC1vSVBfc3h4VzkwdVVKZVFkV1MySmE0NnNHRjFpTjhHTU1vaDc0QTVOUk9ubmNzRUx0MWk5LWI4NHpCRzNyNVRjS2NJNHhnQS14MGZHMU5LZTJhaHBQbVlhcVVMR1dIU2VnWW9aNk5lRVlMUTFTeGVBM1F2OThXUjBQTmMxWEJXMVM3eDJvUWJDT1hYWG01UTNqRnhHbXB1M2JsVmx3MFFxTEFFaVB6RjRNQXVYZC1kX2FCZ3JVTi1LVWtxb2liZ0l4eFV4Z3h4amhlWnhVVlU0cXpiQmV6SUh6LTd1dDFtVld0WGFFMUdpWA?oc=5",
+      "publishedAt": "2026-10-26T22:55:15+08:00"
+    },
+    {
+      "title": "Raxio builds Mozambique’s digital infrastructure ecosystem",
+      "source": "Club of Mozambique",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFB1cDZ0ZHROTG1xQUpJa3ptSkFxbXYyNnlhNGNxeUllcFBybnhYYklYMHFMSmIyMWh4SGRKeDBGcGhDWGVXZllsR0wtT0dhbGdHdDJFbXVXT05HcmZjc0w1S1BXY1JJTkxWU2RYOUExdlBtZDhZWHJTTVZSX3FCcllPdUQxUDhmdWprNG9ZaF9PU2tZLXA4?oc=5",
+      "publishedAt": "2026-10-26T22:26:08+08:00"
+    },
+    {
+      "title": "Mozambique’s Dingsheng restart prospect depends on export logistics",
+      "source": "Shanghai Metals Market",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdHRlZFBCVEtjT2kxTkdFRHhSUGhQb2wyQUVvM1dvNUFtOWZGY3JlSjhJRHg5eFBDb0p5VWdIbmctUmdxSE5fdjU2dU5VUmVlVjVaTFFuQTJoMi1wZDZkeE9PUmJQZ3UwYVhtV1VOZi1WN0p2THhjcmFFOTk3RW5YT0VtUlVRcVU5LUhicW9vWGF2R3IwTVV3N3ViMV9FQUVXS21rSVg5UWtzejBhR3l2UQ?oc=5",
+      "publishedAt": "2026-10-26T21:55:00+08:00"
+    },
+    {
+      "title": "Mozambique: ENH urges local businesses to seize logistics opportunities in oil and gas industry",
+      "source": "Club of Mozambique",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOa2lRcktSckYtT2Q3TGstTmJXdzB2SThYY0IzWTFjTnNPdUpiTGJIaTFqSGhELXpFbEtnblVpMnZ2LTBfUXo1aVdzX1FaN0RYenBPNXRKQ2NmUXdrMnF6Sy1BYzFTSmM0WmFVcmFPeXZBanhFcE96azZhR0ttSlJlek93bGtaaG1aVDU1Q0JqN3B1ZE5rRTMzSEdnQnFPMmY3Wi1QcndqT2ZTX0VxSnp0RVlub3kzcmVjcGdNMG9vOEtFd2ZUU282WQ?oc=5",
+      "publishedAt": "2026-10-26T21:42:13+08:00"
+    },
+    {
+      "title": "Mozambique's Chapo urges African resource security cooperation amid Cabo Delgado insurgency",
+      "source": "IntelliNews",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcU9yaFROUGFuUWJUd2pyU1ZrS052RV9SZzFPaDZxcEdHczBSX05QRE9Wd19fM01vaEVwREtkT1pjWTdSOGF6NHg1a3ZpWV85aUFUYTl1RVFUN2tLNDdlOGdyaDhvd3FEUlFLclpiQ3pRMkdpZUNPRmdJaGxyZ3htYVBSb1otYUNja0tHNk5OZVF0VktRNmN3TW5MOTlidnJ5cExZN3Z3NTUzcHpOQTJmTzU4R3czLWw4XzhXLUoxQWJQaDhvTnhkYXU0SkpXSTBMVWRZUnJUMG5mTW5lN2c?oc=5",
+      "publishedAt": "2026-10-26T19:44:12+08:00"
+    },
+    {
       "title": "Eni seeks contractor for $130 million gas power plant in Mozambique as electricity access gap persists",
       "source": "Africa Sustainability Matters",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOGhDLXlxTl9TUkpIbjhlSmVBWE80WDJuTFpTM0IwTGYwbk90SXZjVldwaHhRX2xVMmpMVGpJM2VVOXpCdldjNm5paEJZRm5LdmRMZlNSRFYtV0g3OGtpRTZvY0RXM3hYbzNxZ2psaG9nbTJ6SHhJbjRFd3Z1eEtKeGdpY0d3Mk1GWVVDX0RBcU05cFhhN0VScFBWYklNRlM3ck1ZOHduOHUxaXZ3NDh0ZEVpYUVyVjdFNG4tdkoxeEJrRkZfVm5QNkRheUtoRXV2bW5zNzMzODdDUQ?oc=5",
       "publishedAt": "2026-10-26T16:41:54+08:00"
-    },
-    {
-      "title": "Mozambique: Degradation of Quelimane technical institute halts new student admissions",
-      "source": "Club of Mozambique",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOckllZnhtRTNBeHgwRUlVRElTRmJrMmdwNzZTNXVHaG9fMUdFYVgyYnZ5d3NGRDZsV2hkOVd2bngzVHBsTFB2QlE0dGt2TThaVVRNbXIwN3dVUGZiSno1TjRKSTBrcHdNeFB1TW9pS05GR3NaQ0puWENTM0xZdWJ4U2FiUUVjSTUzMlFCQXpES0VDMmFSUWxMZ1pSUTBidXotQ0Z6R0dJR0RSXzVZeHFYMVFpLTlubjdlYjVV?oc=5",
-      "publishedAt": "2026-10-26T15:57:56+08:00"
-    },
-    {
-      "title": "Mozambique: PESOE revision allocates carried-over LNG revenues to priority investments",
-      "source": "Club of Mozambique",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbFhfcXFXVHlUbDZ2MXhSc2p4ZnRzSDRTa2hzMm0zV2VhZFRIVGZYRFZDdEswWUoyQXdEUVhwVExoWFZpdWRzbHc4SzMtdjJLU2I2Mzc3ODJFd2lraHpHZTlCZUtIVnV3OHNmT3hoZnpLQU1Zbm9ycGczVzBSSkZjT3EySkV1WTBFM0YwUU5FUHllVDhyYXNWemt1VDdZYWNfMFlBZk42V2E0WjhrQjBuUzQya2dseEUzSy1sbw?oc=5",
-      "publishedAt": "2026-10-26T15:35:02+08:00"
     },
     {
       "title": "Mozambique French catering firm CIS poised as frontrunner to win mega contract on Mozambique LNG",
@@ -58,24 +76,6 @@
       "source": "CMB News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMTd3MGtDT3FzanNBSG90U0p4OVRZdndib2VLTmRIRHF5ZlE1ZHdvRlFwSGZHbEpPOXFHTlNjeUtQUndTdng5T01mV0VhOTNlNDRQbVR2bkZJdGhQb2FVQ1QxYmV3RDA3VHJBOU1Icl9wR3R5X29zNTFlWUdXd3ZsX01fN2x5RXliMVFzRm96WGRwN2JwMk9DMmN5OA?oc=5",
       "publishedAt": "2026-10-26T13:26:15+08:00"
-    },
-    {
-      "title": "Weekly Recap: Refining & chemicals cash flow up and Mozambique LNG pact",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWFKaVVPWm5tQklIdnBaNXIzS3FNOHB2bllYZ2JYelVZRGtWZ2xnWGZqNGs2OUk3aVdJMjIybHFjdVNRckFhd3AzQmUyTE1BOW95QkVDdUhYZC1ldVZhQ0tyOTFQTFFFT0FBNE5UR0s4WEtiQVJ5T3VjZnRKWmYtMFowYXhTc1BlcUd6TXhqNkllemVYN2tBSHBOWFdCc3Mxa1phcjJOQVhPb2l6OXliRl9zbXl5aVdLXzF2S2Y3S28xS3ptcGhKQ1Fn?oc=5",
-      "publishedAt": "2026-10-26T13:00:00+08:00"
-    },
-    {
-      "title": "Syrah to bank $21.3 million for Mozambique graphite operation",
-      "source": "Mining.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNndYeVBoTy0tSmZPUEowenNlanE2ZFN2MFBBSXdkUDF1V2Eyem1XMGtvRWt2U2xYRHJjb2UwbWhUZmNUZlZ3RUhnRFlPNzFTcXdMbTlnMDdDTThqS1hfdTFDS1ViQlhUY2gtZ0ZXMVRNUWVOX0J0LVY2ZDlBWUdaQ29vQ0RGMEhGLXU0?oc=5",
-      "publishedAt": "2026-10-26T10:53:21+08:00"
-    },
-    {
-      "title": "RBR Group Enters Trading Halt Pending Mozambique Rovuma LNG Contract Announcement",
-      "source": "Kalkine",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWnBHN2UwSndIQVQ3Y3RldEktNjhQWERtdlFsVHNIdFFVdVI4N1lRNElfblZXLUJLVzgxY1NXWUk4a3JSR2U0WW5zakwwWUhEdFdFM2txU2xEV2s5X2Zyd1F5M0o5RWhPR0xlcWxfN25MMzBnSFhjbWtzLThzZ21SX1pKSUtyMWtNcU5ncG5ZQ1hqWGt2OVV5d2VxVDU2ODVIYklmR2RRbm83MDRiV1ItcW1DQm5QM3RfU1E0ekpCRGs?oc=5",
-      "publishedAt": "2026-10-26T07:15:04+08:00"
     }
   ]
 }

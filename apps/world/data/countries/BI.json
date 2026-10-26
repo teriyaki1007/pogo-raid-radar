@@ -1,7 +1,7 @@
 {
   "iso2": "BI",
   "name": "Burundi",
-  "updatedAt": "2026-10-26T17:06:46+08:00",
+  "updatedAt": "2026-10-26T23:15:39+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "WFP Burundi Country Brief October 2026",
+      "source": "ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd282TE1DUjB4LVRQZkdQcmZub1BTV2lJaDNKM3U3RXlWN0xNOWp3Mm5rV2Q2bmJOVlBGRzAzbDlRNV9aOTlpVHk3MEliS0NhMm5KZzdKMGlyT2RaMlBuRWxVV0xGbElySUh6empyYnZTNXUySkVHUHFZeUlVSGlCRw?oc=5",
+      "publishedAt": "2026-10-26T22:04:46+08:00"
+    },
+    {
       "title": "„Burundi Black“: A Hit Without Its Heroes",
       "source": "FM4",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5GbU04MjBjZVpjaW5GdmQ1UDU5US02dmowN3NUa01IQXQ4S1VXREZJZTJ6Y1FKQTlyaWplXzdMSkd2cTlPcGR6RTl5aXgtcTJ2QlNwRA?oc=5",
       "publishedAt": "2026-10-25T16:18:31+08:00"
+    },
+    {
+      "title": "BURUNDI: IMMEDIATELY RELEASE HUMANITARIAN WORKER (97.26)",
+      "source": "Amnesty International USA",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZktGelAwYk1nUHFsY05fSkN1MGF6QU0wbV9vRzVSVWdFTlA1cXNIdnA1NkhZcm9rS3V3SVlDcW1RWjU1dG11ajF1TG10cHVpc3JQa2Q4bExqdm80cEVRYTVNOVpYRTJzbVFobk5Td1pxU1NEZk1tOFlnWElNanNnMS1LS1IzR2hMNm5yeGJ5SlpvOU9F?oc=5",
+      "publishedAt": "2026-10-23T20:33:35+08:00"
     },
     {
       "title": "Burundi : in Gitega, a shortage of drinking water plunges boarding schools into a health and academic crisis",
@@ -54,28 +66,16 @@
       "publishedAt": "2026-10-22T20:00:35+08:00"
     },
     {
-      "title": "Meeting between the Burundian Minister of Foreign Affairs and the Burundian diaspora residing in Zambia",
-      "source": "Social News XYZ",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZi00WlJzTUhMSkJDdEhKWmYwRDNhdHJuYmotcGhtRzhsc3JNejZ5bXBsR2VmcmFXaTVDQjU4ZV80TXZaN1JPaUw4bmJaQzNrVFhYX21hbllZWW81bDdZaVBNcGJxbTlVWlRhOE1aMlh3Z3U1LWN2U1F2UlRiYk1QWDltWFVRTC1wY0R1VHFmOUVGZ0xDQXJfUjByLTRWLTllXzJ3ZjM3Ym1hYTJWdVVTV1dUUE5za2RFZk9DOG5tOVJ4NnF0dnN4V3phVnVTY1pSTDB2RDZfRmI1UdIB2gFBVV95cUxOZi00WlJzTUhMSkJDdEhKWmYwRDNhdHJuYmotcGhtRzhsc3JNejZ5bXBsR2VmcmFXaTVDQjU4ZV80TXZaN1JPaUw4bmJaQzNrVFhYX21hbllZWW81bDdZaVBNcGJxbTlVWlRhOE1aMlh3Z3U1LWN2U1F2UlRiYk1QWDltWFVRTC1wY0R1VHFmOUVGZ0xDQXJfUjByLTRWLTllXzJ3ZjM3Ym1hYTJWdVVTV1dUUE5za2RFZk9DOG5tOVJ4NnF0dnN4V3phVnVTY1pSTDB2RDZfRmI1UQ?oc=5",
-      "publishedAt": "2026-10-22T10:11:28+08:00"
+      "title": "Resolution on the Human Rights Situation in the Republic of Burundi - ACHPR/Res.357(LIX)2016",
+      "source": "African Commission on Human and Peoples' Rights",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTjRfMFBKc3l6VEZYV05ZT1pzaG5PUmpBSlo1VnA2eUtnMlNja1Q3VnppNEJubFk3a2V3amhGLVR6Q0xlV1lJeXQ3N1BNOHNQZnlaVUVNcmVvVGt0bVRrdnBSV2JneWNPVVZWRVFwRU5mUldScWtfNnFURHMwc3Bud3UtWXpza0dDd2ZrNFc5RlZTWk1YY0JrZEF0aF9oLTdJNHRTMzFXd0FZZ2M?oc=5",
+      "publishedAt": "2026-10-21T18:31:06+08:00"
     },
     {
       "title": "Burundi signs $1.4B power deal with US-backed company",
       "source": "Semafor",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZWxmR2MyNkdGUWxpS3RQMkhjWVhvbXZid0dxUjdTUnFEdDhqcVp0Y1VNOGpDYjg0OVdZazZIVEVVeXJMb0hoZkNlSjZHa0JocU9xWkQ0ajBWdFFVdzZPeHBHTVQyNFlDSE4tdEFOU1JxRVNOQU45Rkk0QUNQVG9uekN3MXBNTVRqSEswOWVDc0dqdnltd2Z1RUNzMXBtV1VpMDNhQjN4NzdVSjIyZmxmb09yTlc?oc=5",
       "publishedAt": "2026-10-19T21:12:00+08:00"
-    },
-    {
-      "title": "Uganda beat Burundi to qualify for Beach Soccer AFCON",
-      "source": "Nilepost",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWW5memozeXF6UWh3ZVZyeVhDdlF3ck9RcXVzdXFFR0tIekFNMThta3cwczBfUUFkcE5hWVp1OFFkUGVmQnp4YS1XYW5HZjdPSHUyeHZjTDZkZDAyMzcxUkVLN1dsYnNtby1fR256el9SUHNNLS0yUmFaMHZ2eEQ2Uld6VW5HODBhTHJVcS10VFFCcEZF0gGcAUFVX3lxTE8taDZEY25rdXhUZ1llV3lvVy1oeTVuMTR1VmJKeHl1OHEyMnI2cEVQR1lGRGF1ZUEzZ3lmMzFpcFA2VU9lMFNVSmdTY21BMVdxSmJuX3NocnJiMmFuRjZXdjNlZDhjQnFFblpTTW1qdHhWcUowU1VWUmJPZDF5d2w5SzltRExNRHdfQWJfQVl2MVUzb1JhdEFxU3Q2Mg?oc=5",
-      "publishedAt": "2026-10-19T17:56:02+08:00"
-    },
-    {
-      "title": "Burundi signs $1.4 billion Weza power deal to expand electricity access to 8 million people by 2030",
-      "source": "Africa Sustainability Matters",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVnJORlFoWWwtZC1rdVhZNWhjZTh0VDY0dVlZeHdOMlg2dTBydTRyNFdVRXVjdUg5M2F0eVktQUZYcUVJcGUyUC1qekdNY1dfNlhmbHBYQ05FQWY1QUFreXpjdHFkX3BqSk9PX0F1d3lHSGo5RjllVkNnRGpHNjhkTXBGc0xRbENaU0N6TGt0aFd0MlFNZ0xMX2NLcF8wQTBLOTQzak1EOC1WNmJkYzJZZnlEUFdURWtwdEJXdGdXeTRsS1BCM2ZYcVVyVk5TdVhjdHYwdlV3?oc=5",
-      "publishedAt": "2026-10-19T17:17:08+08:00"
     }
   ]
 }

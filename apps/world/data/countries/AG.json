@@ -1,7 +1,7 @@
 {
   "iso2": "AG",
   "name": "Antigua and Barbuda",
-  "updatedAt": "2026-10-26T17:06:46+08:00",
+  "updatedAt": "2026-10-26T23:15:39+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Antigua and Barbuda Honours Six National Heroes Today",
+      "source": "Antigua News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLU1JSUp2LUUwQ3htY0lMaDlpZm85bEFYVHJQODlDQkxXMzhKOVBZWnpVVjNPbWd1V2ptbmNJTHRvUnZFODdpTEtRQzNmeG1jZFBzRWRBczE1eHBJMnlmeldWelRsMTFHLWs2OG1SRncwZ0lvdzVsOE1LNnFhUmt4dmMwRGdDZ1Y3NGJSanRB?oc=5",
+      "publishedAt": "2026-10-26T20:48:16+08:00"
+    },
+    {
+      "title": "Antigua and Barbuda Weighs CIP Suspension to Preserve Schengen Visa-Free Access",
+      "source": "Outbound Investment Group",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRHBzXy0ySV9oa2xnNnVPUHd1UVp6ejFKQ0RoLWRFUTRkLUVMLVlJNHJWalhxWkdGTDV2a19oaDZoelFrSXBsNHdOSjNLWkVadzlPbXBZMElYbF81Qmg4RlpoTk9lbGJoUHRUSG5uVU5pN2FBTlJjek41eWV4ZkFCbkJ1UWkxYUp4Wkh4VVh1bjF3T2psQVFjWGU1dmpsbGR6Z3JDbEthU3JOVmJFcXoyVA?oc=5",
+      "publishedAt": "2026-10-26T19:48:26+08:00"
+    },
+    {
       "title": "Antigua and Barbuda likely to suspend CIP by 12 November",
       "source": "Antigua Observer Newspaper",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUEJQemRjdnRVV3FoVEY0QVN3WVd4ZnhwYjdpc1RoaU05WDdhSWVCcVgtaTRnakFnNXdHUV9nM2lMQ0JRMmZVM0QwZjVQQ0YtNFdnemtHSEpFYTVlQlB6blRqcEJ0Wno3YW9xNFhXUHN0RzlKZFI1VVRLRS1QTVQtUkNrdzAtZHN5MGVtbjJn?oc=5",
@@ -40,18 +52,6 @@
       "source": "Digital Watch Observatory",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fb0pKQS02WnFsd2ZxY2U0UFEtYTVvZjdidTVZSlNJY1ZhZWJ3eTd0eXVpbHcxRHZRaGZJU1RqMVBDYnVseldwaEd0SThBUFN6WlVfMVpmOWwwVmgwX3VWNXZEaFIxck9va0I1WnJHVEV3SXAtalAtYXVNN2I?oc=5",
       "publishedAt": "2026-10-26T02:07:58+08:00"
-    },
-    {
-      "title": "Antigua and Barbuda Falcons Cricket Team matches, scorecards, news and statistics",
-      "source": "Cricbuzz",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNC1VVDM3TE9GRWlGR3Fka09GNXlPNXRqTWVpcTV5N2ZUc3Bpd1Fnbjh4T3BWU3Jva2hJeVlZYjFhZ0tqOU8zZWx4UlRnci1ZV0xqRmhIRUZzVTVwTGhBdGxFRllWQXRtbEh2dDI1bkxVZnlWUG1VdUpyN1daWm9QZmJqSEo?oc=5",
-      "publishedAt": "2026-10-25T10:14:02+08:00"
-    },
-    {
-      "title": "Antigua and Barbuda First in Eastern Caribbean to Sign UN Development Framework for 2027–2031",
-      "source": "Antigua News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVXNjMWVnUHo0SGdoOU5yLVlPMVFQQkNPNjRJWncycFlFdjdKUEhTdWdBQTYtQ0FLLXJHaGZMdjJGc3UwREVVano4VVZiNmFycDhISmEyREtwVG9mWk8yTEVBVUJpMktsVnlWZFZDSFUyaVByb2ltZTJPSXZrWlpacVNtR2MyX2wzMWxTRVRHWFFYMDFQei1GQ3pnd2hPaWNKc3N0bDF1czQ4OU5KSDgteW1CbFRsU3cwdG41SjdZY2ZTcmc?oc=5",
-      "publishedAt": "2026-10-25T07:12:03+08:00"
     },
     {
       "title": "Historic Opening Gives Antigua and Barbuda’s Performing Arts a National Home",
@@ -66,16 +66,16 @@
       "publishedAt": "2026-10-23T21:32:01+08:00"
     },
     {
-      "title": "FAO RELEASE: FAO equips farmers in Antigua and Barbuda with tools for more precise nutrient and water management",
-      "source": "Dominica News Online",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRl94MnBxZnFXWi1DcjlRajA0ZFBXX20tZDJZS1FIRFUwd19tbW9VZDZQR3Z4NUNWckNzX0dTeG1ZRXY2bHVnSU5jNFhONVpQTGprZFNQX3ppdXNvYU05ZFVsbUFLWnZIeHpjOThWc0RReWhXODV5enBPaWRXeDV5ckVBRkNtS19VYnVSU183VTBIRVpndWFiR0dWMEVmenZKckxSYldSWnFTYWhlclBnZkNSbmh3RGdObWdQWEhzcS12YWhkRnJKVVR3N1dkZkN0V3JEYW53RVJxODNRQzYyN09aYV9rdmwwU1gxTmVFOXgxV042Vm5zd0g0MTRZWHNldS1jRUNR?oc=5",
-      "publishedAt": "2026-10-22T05:26:00+08:00"
-    },
-    {
       "title": "Opinion: Can a summit in Antigua and Barbuda salvage the UN’s role for peace?",
       "source": "Commonwealth Round Table",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQblF0VTRFU3pBSWVaUXA4RVZ4cTY0eFpxbUV5YjI4cEE3cXFES0lkZkRscTV6Q3dzZTlVanE0bXY5ZllHR09wYmp0X2tlR2xxSVcyeU84OGxaemE5ZWRRZXZRTElLdEx3Xzkyd21lYWxyVnRJdmNNRHBHUjN6UE9XeTd2a0R2WXoyRmZVcFo0aWJuU1lwb1k4VVAyeGRVcDlaN2F3V1h1ODgxX1VFMnRkM1ZjaFpaWDN6UHp4Mng2Qk9sNDJjbjlqU2hLYW8wTkx6Y3c?oc=5",
       "publishedAt": "2026-10-20T14:43:45+08:00"
+    },
+    {
+      "title": "Antigua and Barbuda Concludes Successful Green Climate Fund Mission, Advancing Climate Investment and Resilience Opportunities",
+      "source": "environment.gov.ag",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzJxSEQ2THZtVUQ4YVhLSTBkZlpkOHVNZ0tGUFdQa1c3NnBYeGhvclNTbi14TWFWZEdBNlpWUmZpQkZLdE1VNFVHWWszU0lXLVJtbG5PaWU5cXRnZ1gxVndSSG9vV3VOakJTbkZXcmVPUmppU2VHZlppeVd1QUVJUnhOTDhBeTRwcmZGdGFB?oc=5",
+      "publishedAt": "2026-10-17T06:43:23+08:00"
     }
   ]
 }

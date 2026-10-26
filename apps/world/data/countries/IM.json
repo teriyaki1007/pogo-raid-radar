@@ -1,7 +1,7 @@
 {
   "iso2": "IM",
   "name": "Isle of Man",
-  "updatedAt": "2026-10-26T17:06:46+08:00",
+  "updatedAt": "2026-10-26T23:15:39+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,22 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Isle of Man archer to represent UK at world championships",
+      "source": "Isle of Man Today",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmo3LWlkWUMyaExUZnBGRFdNZmNkanQxc0pXRjlJZndNSkRNOFpfUXVtWjQxN2U4dVdyODBIS2oteXJSMi1lQWdTcEd4cFB4ZDFXN1lwX09idjV3UnZXOXNhZFNBLXcyVUkwaGNQWHlCWkxBV1ktOGdrNEdGOXV5aW9yWG9oLXhmU3NablEzQVpWVlNHX1NwbnhVVFVaQQ?oc=5",
+      "publishedAt": "2026-10-26T21:22:41+08:00"
+    },
+    {
+      "title": "Could a new initiative change the way we buy Manx produce?",
+      "source": "Isle of Man Today",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZjFuSy1wT3d5NjcydFFhTHZmdU05YjljcGt2T0JKMmI5SkRlSmdQOGtPcFB3T2ppbkZHZzdmQkx4S1pERDYzV0txMU05dEpYX0Jvdk8xSVRhUk5ZTzZFX0RkZ1JhNjdJMFIxel9NVFZrWmVuZklCbG5IWHBuV0dhUk9mTXpLX25aenZPU0txaWRjT0w5X1pSWXppUW4?oc=5",
+      "publishedAt": "2026-10-26T20:50:37+08:00"
+    },
+    {
+      "title": "Red weather warning issued for Isle of Man coastal overtopping",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1kaVhqQVdnY1h1eWdFZmduaG54R2tVSTEtelNFdlJzQUtlOXFleE5JNWNBa0hsV1dfYWF5cG9oNlFTQ09jV2dEbXNrZFI3VWN4blVJWHNiMzNVRzVMcGc?oc=5",
+      "publishedAt": "2026-10-26T19:46:36+08:00"
+    },
+    {
       "title": "\"We do have a housing crisis on the Isle of Man\" says expert",
       "source": "Manx Radio",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUGlVS3NsWWx1bGpDd1hnbjVodVVaV2owSllRWnZSQ1J2RVV0Z3NrZ29JODRTbUlaNzZWaFNDeWhpd2Z0dVpfcnc3ak5ZeEJtRTVFYnY3UmdUWDFMYU83RU1saURPUks4WW5zclNQWDZlX0ttME5Nb01xeHVIVmtoTjc4bDZUUVB4THFtZWUzeHFGajlWNVI5U1U0R3B1bXl4eTc0UTRiRE1HLVk?oc=5",
       "publishedAt": "2026-10-26T14:36:00+08:00"
-    },
-    {
-      "title": "Isle of Man Chamber of Commerce sets out its economic priorities for new government",
-      "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTVU5MFhBYkFGeVA2Q2U0VGl1ejdhdzU3b0dnYmxhRTgxeFktdXppX2Ezb25RX3Jub3NRbUI0ckgxUkYzVDNhVm1zZHNXVkRyc2JRalN6R0x6QUZ1NG5aUEdBZ1djTEZSMnAwd3RWeFU5MEFmaS1pclFRdWJnOTZTdHp0Wm5fcmk3NENrczRYRjNYQ0dVOS1ZVjZobVRGVUF6bmRtUnNNdDMwLTZDenBvQ0lqcTg3TXZ1c0N4d1ZLUGsyQTNNM3lFbV9VRQ?oc=5",
-      "publishedAt": "2026-10-26T13:03:49+08:00"
-    },
-    {
-      "title": "Isle of Man businesses learn about new UK Companies House rules",
-      "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcVRHZTBVLTFNSzA2WmF3dTNBeU5tSGtYZi0tZHNMZHVibWljRnJRNWtDNVFVczJKRFUtRHFmZi1YRVJIOXJhS1g3YlR4MFJ4WDgtNzlVeWtYOXc1UEMzRG03MHVoUVUxZG5WRFRJM09kMGJNMTFHT2d6SGRRcGJoX2FJSkV0SzZuMUw0dGxESGV2RVRIOEtSVWJVUWhRT0VTVDB6d3lqQWo1UXJkMlJYbw?oc=5",
-      "publishedAt": "2026-10-26T13:03:49+08:00"
     },
     {
       "title": "In 2022, Chloe Hurst took a seasonal job on a remote Isle of Man island; she woke at 5 a.m. to ring birds",
@@ -58,12 +64,6 @@
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GWHdLRFFxNG1keVg5bzYwWGEwSURUN2F4MVRTV0UyZmwwT3ZBREhMY09mam1jc2gwUVFtZjhvQkJiaF9uYnZUUzFGYnZCLTAtUUFpVHlFRk9Qdmc5YWc?oc=5",
       "publishedAt": "2026-10-25T15:22:57+08:00"
-    },
-    {
-      "title": "Manx designer inspired by island's folklore and history",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9qUUpvSkg5SWhEV29wOURWTTV5ZVRmVDJxYXhwSXdZZDU3RXppdFY5aFBPV2JBZEhKc28xY3N6dzhJRU9pb0cwMXVDUnhmbmVHMlpIUDJkeVRULWRDZnc?oc=5",
-      "publishedAt": "2026-10-24T14:17:08+08:00"
     },
     {
       "title": "Isle of Man teen guilty of murdering schoolboy after goading him online | ITV News Granada",
