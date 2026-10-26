@@ -1,7 +1,7 @@
 {
   "iso2": "AG",
   "name": "Antigua and Barbuda",
-  "updatedAt": "2026-10-26T23:15:39+08:00",
+  "updatedAt": "2026-10-27T05:08:58+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,28 @@
   ],
   "headlines": [
     {
-      "title": "Antigua and Barbuda Honours Six National Heroes Today",
+      "title": "SIDS Centre of Excellence Officially Opens in Antigua and Barbuda, Establishing Governance for a SIDS-Led Development Agenda",
       "source": "Antigua News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLU1JSUp2LUUwQ3htY0lMaDlpZm85bEFYVHJQODlDQkxXMzhKOVBZWnpVVjNPbWd1V2ptbmNJTHRvUnZFODdpTEtRQzNmeG1jZFBzRWRBczE1eHBJMnlmeldWelRsMTFHLWs2OG1SRncwZ0lvdzVsOE1LNnFhUmt4dmMwRGdDZ1Y3NGJSanRB?oc=5",
-      "publishedAt": "2026-10-26T20:48:16+08:00"
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZVpYbGhDdnpzQk5iMGUwZXlhQnlfV2dXcUpNTkpqSUhFQ3RKSzA5bEFKa3RrVkJiMERRenBMWm9iaHdLc3ZYeGxJWjhVaVlDVnF6X21LbVJfMXREb1lvN2ZaLWdxXzFFTDN5Wk1xbk0xMjNRVXFVTkFIVzZ0ZXp2c2JDM3c3YzJMeDFXTFU4Qk52aXlCNHM2U1c5elI5eHM1dGxkVDdEbGcyQVhMRFVCRnpkcHFxOF90MXVJMER2M1BPZG0zdW5JTXRfemhIQ29WN1ZDRll4WDhIaV9BZVhTelBn?oc=5",
+      "publishedAt": "2026-10-27T02:40:19+08:00"
+    },
+    {
+      "title": "Prime Minister outlines new initiative to fund projects in Antigua and Barbuda",
+      "source": "The St Kitts Nevis Observer",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYkxYZXRsUGZTdUhWZnBUd2FCU1UwdU51RHhkNkdRQVNNQ3Bpa1lrT2FoYUFzQmVvS3BndndQbldkUEViN2x4dU1KRHVtNGNOUGo4QWJ5VzhDQnFXTWZCR0plajFGamMtREtRN2VBV3k5akVNSG50cUVKT0ozWnZSVGxyT0lEbHdLQWx4a3gxdGR2NzFNWm9vdkx2djRiM1RwYzUxX21yNXhTSl9HMy1OUUVKYTE5TUFsY0tj?oc=5",
+      "publishedAt": "2026-10-27T01:12:50+08:00"
+    },
+    {
+      "title": "Antigua and Barbuda Reparations Commission Urges King Charles to Lead Push for Justice at CHOGM",
+      "source": "Antigua News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcXNOMThfRFYyaVZCVVBHVzlUeEhhQ25MMnBQVlhjLU5ScTlKNE1odmhxRHMxQkNBTE9IRWc2YmRYcEx1Ym9FeGZpTnFrQTEwT3RkekZZSkxTTDAxdlhkb2piSnlsd0w5aVAydEFubVFESDE2WC0yLVJEVTRLdkg2ODFuQVJGSDVySGZicF8tX3Q3UzRUeWhQakN1T0JkREJwY0UzbnpRb3BfWk84cHhfVFFGMnRWWC1aNTl3d29xazhEM1NySWc?oc=5",
+      "publishedAt": "2026-10-27T00:06:57+08:00"
+    },
+    {
+      "title": "Antigua and Barbuda forecasts 1 million cruise visitors in 2027",
+      "source": "Travelweek",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSTd5REozZ0dLMGJPQk1ZQi1oNlB5OHJYZ25hSWNNZkxlOXdLWExJUUtCcWpqcW5PNTN1UDR3YWNLMWdLOWJhTEh5NUY4Q1RwbE5YNW8wdzFBa2JwdEdCZndZbkE1WGhtSkhkbFlsTVR0aHdSNG8wV1RpUVBpUC1SVE1nbHlsT1hWMllZdjYwaEh5Yk9yT0x5dVl1c0RNdDFfQ0ROaUdSc2NVV0E2?oc=5",
+      "publishedAt": "2026-10-27T00:05:16+08:00"
     },
     {
       "title": "Antigua and Barbuda Weighs CIP Suspension to Preserve Schengen Visa-Free Access",
@@ -54,28 +72,10 @@
       "publishedAt": "2026-10-26T02:07:58+08:00"
     },
     {
-      "title": "Historic Opening Gives Antigua and Barbuda’s Performing Arts a National Home",
-      "source": "Antigua News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPM1F3RHhtaFk3LUZPb3BsVXpQYmZKSUI1eW1MMHFWMXFiVFR4NzBIWVd6eWM4YWhGMUVYemU3V2c0VktGa3dOdWx2RjhIbW15Q0FGRmlXamQtcGlTazg0RjZPbUZSUEJDdFV6ekN5Wk5SRFBIczkteUc4LXRmbGVUaGViUm5SQWJmZmd0TDZLb2szWGZVMWVsbE9pOTBhV0J0TTNsUGxTd0RlY05V?oc=5",
-      "publishedAt": "2026-10-24T05:02:32+08:00"
-    },
-    {
       "title": "Antigua and Barbuda Targets Growth at Florida Caribbean Cruise Conference",
       "source": "Open Jaw",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzNLRGhudFNYWUQ0bVhNS29kSTVQNkZSa0xfVmdZdW9Dcjc1UTdxbV9mekMtZmJMQzBIODZmOTR3RHNUcUV3dXpjZlZZS3o5cW5JY2k4V19CaG0wNnVjQnozZTVIZTVxSHhrUEhLNEJpZlBCT0ZLNVQwOXUxOC1mRVR3OGJmLUFLVE1qbklXVkcyclRBZUFHLWdyaTRjUzRTOUthREIyZnh2QVBrTHFv?oc=5",
       "publishedAt": "2026-10-23T21:32:01+08:00"
-    },
-    {
-      "title": "Opinion: Can a summit in Antigua and Barbuda salvage the UN’s role for peace?",
-      "source": "Commonwealth Round Table",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQblF0VTRFU3pBSWVaUXA4RVZ4cTY0eFpxbUV5YjI4cEE3cXFES0lkZkRscTV6Q3dzZTlVanE0bXY5ZllHR09wYmp0X2tlR2xxSVcyeU84OGxaemE5ZWRRZXZRTElLdEx3Xzkyd21lYWxyVnRJdmNNRHBHUjN6UE9XeTd2a0R2WXoyRmZVcFo0aWJuU1lwb1k4VVAyeGRVcDlaN2F3V1h1ODgxX1VFMnRkM1ZjaFpaWDN6UHp4Mng2Qk9sNDJjbjlqU2hLYW8wTkx6Y3c?oc=5",
-      "publishedAt": "2026-10-20T14:43:45+08:00"
-    },
-    {
-      "title": "Antigua and Barbuda Concludes Successful Green Climate Fund Mission, Advancing Climate Investment and Resilience Opportunities",
-      "source": "environment.gov.ag",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTzJxSEQ2THZtVUQ4YVhLSTBkZlpkOHVNZ0tGUFdQa1c3NnBYeGhvclNTbi14TWFWZEdBNlpWUmZpQkZLdE1VNFVHWWszU0lXLVJtbG5PaWU5cXRnZ1gxVndSSG9vV3VOakJTbkZXcmVPUmppU2VHZlppeVd1QUVJUnhOTDhBeTRwcmZGdGFB?oc=5",
-      "publishedAt": "2026-10-17T06:43:23+08:00"
     }
   ]
 }
