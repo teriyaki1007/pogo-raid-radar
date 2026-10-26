@@ -1,7 +1,7 @@
 {
   "iso2": "MT",
   "name": "Malta",
-  "updatedAt": "2026-10-26T11:08:27+08:00",
+  "updatedAt": "2026-10-26T17:06:46+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Study offers new clues on Malta’s mysterious cart ruts",
+      "source": "Times of Malta",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQUI1RTVBTk04bEYxNjNMZTE4a243Yjg2VWVJLU5QR2JDYTJna0h5R2RYVTBaSG96UFl3YldmekUyc2x2ckZ2bF9RZlNkOVVQZDdmTGg1XzF3RWFqZDFhMGxrS0NPN1Fva2w2eU1lNzdqdXRNRnl4cVp3c0JPbTM1U2pJVExYMTI0TE5oR0hiWVNWR3RJ?oc=5",
+      "publishedAt": "2026-10-26T16:37:00+08:00"
+    },
+    {
+      "title": "REVIEW: Short Stories about Latin Women, Alejandra Marín Oyarce, Jo Malta, Luna Vásquez, Melbourne Fringe 2026",
+      "source": "Binge Fringe Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNYWdMMTA3WFVBNXZ3VnZIWm5XVnp2Rl9QdmdGTXZEMDZVWndhUUZjNGdLRkdMcThPRHZOcmcwbXhnTjh5SHpNV2tVVlc1M0pFSUU5STkxOU5ZcHE2a2xmOERHeDM1R0RLQXV2WW53bWd6WjVHOFNPWHJZZmJiaGZsTjhyZnFKQjBNWWRYY2hqRlphcXlYeVM2NEZvdDFQT2hKd2I2QWd5Q1FCX1JXY2dPbXd4ZXhtTmp4eVhvUWh1NllxeXkxRVdTZk1icWd2TTI1aG1aTE9pcE0wQ3pxVmNJQ2hxU1BSZ3dOTERWX01ST3lGenlNd05kUFZzZjZlUVBEZ1otdWV6UFM3ZHpkQ2JzU2JQSGNtNkpiN1hr?oc=5",
+      "publishedAt": "2026-10-26T15:25:44+08:00"
+    },
+    {
+      "title": "October 26: The front page of Times of Malta 10, 25 and 50 years ago",
+      "source": "Times of Malta",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2YxZFdodFBWSkR3VmhGRld6SnpDcFhIc2pTX3hmeDZ6TXdtWU9yUmJOWFg0ekNIcG1nUnJwWWdVeU9ZU3lmcEtwN2htcHdvUHNWRkxfZHhiY1NFNm5BMWRUUmttVzI4YUQtaWFERk03XzA4QUpvcUxDcXNLUjlrOUd5VUg4ZEdPdlZPZjlCRFVDWHUwVk1zWg?oc=5",
+      "publishedAt": "2026-10-26T15:01:00+08:00"
+    },
+    {
+      "title": "Malta records highest instance of food inflation outpacing minimum wage",
+      "source": "MaltaToday",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU2pKQXZhOHhUNWZJQzgtcWdvMU14clRFVTFONlN3dllSU0hqMkVNeFZfRUQxdEM4UW5QWE8zV3c4RTR4VG8xRUtfYTBnUmtsRHVGcGc3OTQ5WTVXZzF4bDFRaU55c1ZrRmlaR1FpUWtqMDFxby1GTGw3NWVvcWw1cFJzek9hYi1hWmNKYUxTcDZPNzcxRXoxRWs4SGVrczZ0ZkZTLUlpZDdHeUx0YUdfTDZKS1pIRW8tcmxUbzVTYw?oc=5",
+      "publishedAt": "2026-10-26T14:00:00+08:00"
+    },
+    {
+      "title": "Quality of life must become a priority in Malta’s development",
+      "source": "MaltaToday",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMUFIRjk0aGZzTFlZYTVkLTk1N25QVGpMZUY3VmY2bzlQYkVvdXlUZk5sRC1zanl3SzBmMWlzdFgyTjFPSzF3TDZiSVJJdzBKMUFaZWdWOXd5ZGV5RjhIMU5idXlXbW5oS1h6QldtWk1udUppYzZnakNOTmdmNktBd2xpbmNkWHg2NEJha2JLZzRpNllPSDZpbnhSZkxxYUpoMG53VmwzVGpZQWx5QWxNQjBnSzY?oc=5",
+      "publishedAt": "2026-10-26T13:30:00+08:00"
+    },
+    {
       "title": "Malta Fish Farming targets 1,000 tonne bluefin tuna exports to China",
       "source": "The Peninsula Qatar",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3JoQ1lCbzhkU0lRanQ5bi1INkNVT0JIRlVHLUhYSnR2bl9FZFI1VnFZc1J5UlJIWlhUdWN3UDZ6cVNPdlVuUWdXXzB6UF9pY1dZQUF2ZzFJaGoyYjRwQXhaRFlqSVNnNlhwSXVobFFGangzSlc4dENCOW5VYldCLTZLSFl1SWdlam9nTjFidUROMHNjcG5BbElsWjhfSFEyWG1nSjRMNWluMGdwYWx5WjA2clJUakk?oc=5",
-      "publishedAt": "2026-10-26T11:01:06+08:00"
+      "publishedAt": "2026-10-26T11:01:37+08:00"
     },
     {
       "title": "Will Malta Tourism Deal Change Trip.com Stock Narrative",
@@ -46,36 +76,6 @@
       "source": "SportsDesk",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMTVrcHN5STNGTDlZeG5XTzltTlBiZ3RWWUdxYVBWSVZXd0o5OGVpWjdlWC1fSUYwSVRnZk5xeFlJMXJpQ1dlZVMzanR2MDNkNUpORlZnR0pXM25YdFEtc3cxY1RmWkhlM2RuU3hIVVFQbi1OOXJsQjQxdGs4SDFvQVJCTWM5NjN2MDcwTmxHaU9SUXhLY0JXdDBnSmtzRlQ3WGVaUFFDMA?oc=5",
       "publishedAt": "2026-10-25T23:17:24+08:00"
-    },
-    {
-      "title": "Junior Eurovision 2026 Malta: Beppe - \"Blue Bird\"",
-      "source": "Eurovisionworld",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02SU9mTWRjQVhOdWtrMThJVFQ4QW9jeDF2ejNBTGFLSE0ybDBDb19vam1aY0hPVFo1blVFUHBXVFhKbGQ5OE8tdUkxNGFLNmprOEZWaDMxUTF3bHpxZkJwX200dXNfM2s?oc=5",
-      "publishedAt": "2026-10-25T21:28:39+08:00"
-    },
-    {
-      "title": "Malta’s Ancient History Meets Virtual Reality And AI In New Exhibition At MUŻA",
-      "source": "Lovin Malta",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUEpZNkVDZWY0aGxvWkFHTzJkU1JDYW8tOHY1X1FGX0VwZXYtMXpCWk5NcGl1NmpEY3k5WUgwMXlTMEhaWFV3Zkg3WUhPWkJIdlRqcERhN1NqRnJYTnBweHlVY3c5YlNndWtkbUlhbEdtR1ZzLTUwdUQ2UThrZm42Z3p6bU14aW5IcFRhdjNkMEEwVS13T2JvTlBCVDVXM21kMEs2amhxXzJZUF9PZ0dNNXp2RkVhRHpwQW0wSGw5cjBqQQ?oc=5",
-      "publishedAt": "2026-10-25T20:18:02+08:00"
-    },
-    {
-      "title": "Kano’s educational vision fuels Malta’s contribution to judo",
-      "source": "SportsDesk",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSVRaT2I5Z1ZqZ3E0X2wxLXFkZFU4MDZDVW4tRHJCcGxWMnRPQ1RYckxjbzcwRHREOEh0TTEtYTBFZlJ0dWp0bFZ3aENISlNWdU1BM0lTNnQ5NVBSWmNld3ZLbWFlclhKY2hNcnAtdjk4Uk5MdG4tQ1laQVRBMXJIX0c5Sm9PS3MtZW4xM2Z2VDNjSDFYVl8zbS1kNHZNcjQ4TTF3?oc=5",
-      "publishedAt": "2026-10-25T19:24:55+08:00"
-    },
-    {
-      "title": "‘Operation Pedestal’: How the Royal Navy Clung to Malta During World War II",
-      "source": "The National Interest",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdE83SERyM1JzMzl5MEw5MllzQ3hjbGl0SE1rUGp6Ymw4MHZHOFBpSGIwd21yRVpESkdQS0o0eElpRGlzR3dZQlZzM1Jsd3J4V05rYTZ4VUhBeE05ell1anNVWXB3a1ZnbjNCZGtSME82SGpSdXRfczRnSmhCZEhJX3JhdHZOZUtxMnBhc3BZR0g1SzVyRDdLVnlIV3h4cy1kS1FiYUxZWlFZcGs?oc=5",
-      "publishedAt": "2026-10-25T19:05:21+08:00"
-    },
-    {
-      "title": "First Budget after Vision 2050 must address Malta's biggest challenges in the long term - Alex Borg",
-      "source": "The Malta Independent Online",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQVkdMT01jRGVNeFJJaTA1a1Q1UmFQSGJkWTFwR3BBYmRsZW1TMXotZ0d1VWI3dEwyVEFHanlUdmF3TUxDZHVOZndKM0Z0TDlxd0pUSVFPLVhkOGtlWVo1TExBaW9vaHBSNmZ2LUVNcjhyaGp0RkwzbUlJTDl0eXF3Tl84UlJMY1VpVU1wWTlyaHJLVEQxTUlfbzhwSHNPYWJmRk5UUzEzc01QZF9mWTNBa2NlZXlDUm1ydlQwa3l3d1pnVGhTSkpxbnBYNzcxUlVTdnpsQ3RMWmcyMEtkRVZWaGVDQ3dVUXZ4RlZ4UEhlNU80VjNqWjRZVkpqSnBlOGs?oc=5",
-      "publishedAt": "2026-10-25T18:42:00+08:00"
     }
   ]
 }
