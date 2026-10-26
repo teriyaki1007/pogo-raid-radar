@@ -1,7 +1,7 @@
 {
   "iso2": "VU",
   "name": "Vanuatu",
-  "updatedAt": "2026-10-26T05:08:23+08:00",
+  "updatedAt": "2026-10-26T11:08:27+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "Earthquakes swarm offshore Vanuatu",
+      "source": "Earthquake Insights",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR2JtYk10cGVLRHlReUViQ0luekt1elBVSlZ1RkhqRHlyS2ppSDg1a3A4OFo2eHFleU42UHd4UmVvQUIzaEN0emplTFFZZ01zeEpUYW52UjBRZllpYi14VWNNU0VjN2U5c2x2bTl4R1NBNGtQajUtZ0VIVzRHZGpZYXdn?oc=5",
+      "publishedAt": "2026-10-26T08:35:07+08:00"
+    },
+    {
+      "title": "Powerful earthquake hits off the coast of Vanuatu",
+      "source": "The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWE1EU2xpX2Y5NHFsTm82N2ltbFc0dUFnWGpjVWtNQVVZUDliRVdyVHRKNDJ4dTZvT0JycUxGeW1oUllwSjZEbk4zR2RDdzVnNXhzQzlxd29BMEdsV2JwN1VjcG1tdEJJdzkwTmFiV0wwb09HcklYNDVkM05HekI4aGJfQXh1RkxNQXdibHJ3QTAwX1ljSnNrWHRJcTJPdw?oc=5",
+      "publishedAt": "2026-10-26T08:14:38+08:00"
+    },
+    {
+      "title": "Powerful twin earthquakes strike waters near Vanuatu",
+      "source": "The Canberra Times",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObl9TOUJoRnRYYjd6bExGek9JaENoUVVOMUE4ZlJSRDVMTWoxUm5fdUUtZUl0bG9PLVBSaGRsNmpoU0lLTHhoVlRFUFk2R1FIQUYyMlg2MW90TkRzVkxqalhFVnJKN081c2JRcUxuRnhSR2Jqa0tja3Q1M2xnaTNMV3VGOG5yVzFDanhCbWIzTXZPd1M4cW4temZnYlhWWUNBTEE?oc=5",
+      "publishedAt": "2026-10-26T08:02:18+08:00"
+    },
+    {
+      "title": "6.9 magnitude earthquake followed by strong aftershocks in North Vanuatu",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jVTA3d3QtV1NoRnFfM2pXd3p1Z3N5WE1NVFZZck9oU3UzXzk4aTJ2VnFNSGRGN3Vwdng4Z0hrMlE1YXBwMkM3ZEpQbVlSVXE4VEo0dy00NExMdmhJY0RDQkVhYWVrdjRscXBMbEZPeTE0cWdOU1dJUmhxZw?oc=5",
+      "publishedAt": "2026-10-26T04:00:00+08:00"
+    },
+    {
       "title": "Magnitude 6.9 earthquake strikes Vanuatu, tsunami warning lifted",
       "source": "Beinsure",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02RTQzREVTN3ZjMGowUmJYVVJVQzFBSV91eGxKSHNDZlZWRndnemZKWFNhV1JaUVNhTEZOc2dpanFLSEVNVmppcEwzMVdxdVJmeVZEdjQtMjN5Mm5WZXN2Vk00Ymx5cjQ1cEM3UmREU3A?oc=5",
@@ -48,34 +72,10 @@
       "publishedAt": "2026-10-25T13:58:16+08:00"
     },
     {
-      "title": "Earthquake of magnitude 6.16 strikes Vanuatu islands",
-      "source": "Sharjah24",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG5HNS1XWUJDQ2ZMX084dVpkNl84anhwZEJwTFBKRmp5S2ItQzVEd3RoZjlVdy1YSmVfdUpQTU5WWlQxVmlRLW1PdDR6ZUZCQV9jTXFkVDU2SThSLXhqTExFQ3VOYmxianMybXE2MXltWGphc0YtdmhhV2w0TnRYanFZWlVyajNCMWdVUmZ6ZFJKWFY3c2t1THExZw?oc=5",
-      "publishedAt": "2026-10-25T13:35:14+08:00"
-    },
-    {
       "title": "6.2 Earthquake Jolts Vanuatu Islands as 7.2 Quake Triggers Tsunami Alert Withdrawn: how 17 outlets framed it",
       "source": "NewsCord",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbjZUYVROdTNqd0FDaTlWZmxvNXcxemlINlVEYTdSWGRkeU1VUGNtNzdhT1p5OWh0dFJHZ00yTlpObWNPbW5yOFpRdmlmSzFGWmRJcGRNLW5EYlBfOE9LREVSbGJwOUhUU3pBSkZyWE13ZXdHMm9JZkcyd1VXN1lxbDgtbDVTUWdlV05NS2RnMm84Nll0NEJSc2hrZ2I3N081a09QUUoyb0o5aEtNUHJDLUR6eHdQcjZmaDdWQTZPQUFoSWlBcUR2Ml9DYl9VY1d1N0Jsb1dDVFBQSDRkT2lFRXcyUnhLd05ueXc?oc=5",
       "publishedAt": "2026-10-25T13:19:40+08:00"
-    },
-    {
-      "title": "Earthquake of magnitude 6.16 strikes Vanuatu islands, GFZ says",
-      "source": "StreetInsider",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMkRiVFVaQmlwR0x4S1RYRWFYd0JwcmpSeW5uTlQzenNiTGJIcDQ4NXNwLXBsWkNnRXhURVFPRlZrQmJja3A3TXZ3NzZjNkhSSW5lRkNtX0pPZEJCY25ENmVvN3d2UXlGcVVFXzd3ZDZsQ2J1ZmdETEw4My1hZkotQW0wMTBKUC1JQThUQzBYZmRoWEdrN1FvYUhxQUJkNm4xWXBLVU5vX3g1bmRCSzVLVEpzcXRIN2M?oc=5",
-      "publishedAt": "2026-10-25T12:38:13+08:00"
-    },
-    {
-      "title": "Magnitude 6.1 Earthquake Strikes Near Vanuatu, No Tsunami Threat To Malaysia",
-      "source": "BusinessToday Malaysia",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVUZXWlFKeURRemRoVWdhTzVFUWQwaTVDOHNwcmYzemtOcFNoeE1jZ2VUYTJoQkZBX2kwSnVsYXpjRWVHcHcxaDZoLWRVVGxtQWpnSVFQd2EyMlduckVNdUlSR2RITXlUZnlpWDBjVzQ0RVhaUmFTQWdFM0wwX01mTGczWkpZTWZ2NExMSUhHSHpnQ0lVUUxCQVV1ZFdrSTZIdXVheDhZbWdnS2huY3plSktKU0czdWtLR2IzaQ?oc=5",
-      "publishedAt": "2026-10-25T11:32:47+08:00"
-    },
-    {
-      "title": "New 6.1-magnitude tremor shakes Vanuatu",
-      "source": "Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZTEwYkE0Qk9PUFcwZnU2VDJXN21UT0FaS0EtRWtMdnZyaU1EZjR2THZjUHE2RXl5c2o5M2tuTG1TRmhTOVZqbVJwSGF4TTV4N1NDdnRyNThudzFWZVZEa3A1RDllYTNoaTdXc0hXblNfaUtxWkRkQmlnR0pVX2NJVW1tTExFM0FjMTJjSQ?oc=5",
-      "publishedAt": "2026-10-25T11:16:00+08:00"
     }
   ]
 }

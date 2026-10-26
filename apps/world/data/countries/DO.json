@@ -1,7 +1,7 @@
 {
   "iso2": "DO",
   "name": "Dominican Republic",
-  "updatedAt": "2026-10-26T05:08:23+08:00",
+  "updatedAt": "2026-10-26T11:08:27+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -29,6 +29,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "US Coast Guard repatriates 63 migrants to Dominican Republic after sea interception",
+      "source": "Caribbean National Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYVBsdC1ORWxmUV9ZZjJBZGtmc1RJcU9vMEZTbHVjS21fWHFVZW91SlVwVEZvUC13ajlHellyaFB2NE1kOEpVbk94TWtBZm8xYmVtNFUxOUd6aXlsejdnQnlyMW1CTlNIdGxPcmxGVGgzLTcyME5CNVhqSjhIQXFjTVhyOWZEY1gyOVN2LTdZV2t5V2FPeE5fTXJTZlExUi1IYTY2djJuT1VlcloxSk03dlpHVXJLblMzbTZQVUFucVNQaGRPUnliRg?oc=5",
+      "publishedAt": "2026-10-26T06:58:54+08:00"
+    },
+    {
+      "title": "Dominican Republic rules out border closure with Haiti",
+      "source": "Caribbean National Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzAxRmt6SXRWOEdtZTRkT1hIWHBLd3FGTDNaRUV2YzFYT0JDNmUwRThvaHFVdGIzNGxOa0tieU91MnBBUi1jX2ZzRDdJTW5NcnlZODFpbmxTaVRjRDVocHhkUERLdVpWa3h5cnZsRHoyWUQ5ZVNacFkwMmxFcWVoejNJX3E0OWtlSVQ4Zk5KVjRyZ0VFOVVFcTh3MG1FRFdaaVE?oc=5",
+      "publishedAt": "2026-10-26T06:58:54+08:00"
+    },
     {
       "title": "Haiti - Border : The Dominican Ministry of Defense assesses the situation in Haiti",
       "source": "HaitiLibre.com",
@@ -60,22 +72,10 @@
       "publishedAt": "2026-10-25T08:52:21+08:00"
     },
     {
-      "title": "GAMEDAY: Team USA To Play Dominican Republic in U-18 Pan-American Championship Pool Play Finale",
-      "source": "USA Baseball",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS0otQnltZlpsQkdTTkVuaEFXRUM3MVJ3Ym0xOXRuVnhIaWZiTVZiVDFscURvVndEQWRPWnpPN1ZUZlQ3b3VRWW4xUVNpSkVNMVFyOWNJc2luTE12ektwMURoN0dIQ3YzVEFvZWw1RHFpaDBPR0ZHWkRrSTF0LTRGdVJDc1pleUhLdXhRdW5vZl9yVnFLbnBUZ2M5dWVlWElubS1SV2NSM3JRZGFCcWxyeGJiUW5NZ2F2MzJzQkNGeFJxNUdydmc?oc=5",
-      "publishedAt": "2026-10-24T22:57:23+08:00"
-    },
-    {
-      "title": "A Trip to the Dominican Republic",
-      "source": "Tampa Bay 28",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZVW9obGY1TkhPWXBQNDlnZEt6UUlNYVRiRkNZN3duWHgwX0hPY1N1TnVVM3dUSGp6YnN5MFhLQWptZWI1RmFOQXJadW9ibUlSWUw4eERFWk14YnFXQ2RuS1FZcjVHRWVGdkVzazhNUFRfSUJ6dy1UZDhJTUd5Zw?oc=5",
-      "publishedAt": "2026-10-24T06:19:43+08:00"
-    },
-    {
-      "title": "Dominican Republic becomes latest Latin American country to adopt IHRA antisemitism definition amid regional shift to the right",
-      "source": "Mondoweiss",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNdVlEdnNTdjlTOWVmd0IyWlNKT2RhQ2otdFNxZXBqS005a3l3UzJ0bXpUanFvNzI4UUNsRDJ6MWt5VjlZMnJOd1BRLTExODVzazh4U094WUtVUU9HWjUteWlhSHJYQVdlT3lTY1JmNVRYODFJcHJDZGlWVnVpNDBGNUMwUkdRemlGdEZVLUV3SE9xMlc0RHZhUThVWG8wUHk5Q2FKNmJDYjN3YjdXNU1zREtwdlloWFdaeGVkTFlrOUxHcVlhaTRUWDB3czhNcEtwODBJSmdKQVkwSnZNUEpaUU5iT3FackQ2S09JemY2S2w?oc=5",
-      "publishedAt": "2026-10-24T00:38:19+08:00"
+      "title": "Dominican Republic, Cuba, Mexico, and Puerto Rico Advance to NORCECA Tour Men’s Semifinals",
+      "source": "norceca.info",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWJrVFMxYzdHcDhLR295YTlJNVhKNkpmLXg0LTN4dkdQNkg0QnkwSTNzT0NIYVZ4azRKNDJJVTEwa1N4UlE1MmZGNklCQXlUTUVWSHVQcjBKbDRRMm01NnVURjNGbVlEaGNlZTlBUi1VVVU1YjJFWVUzMFVzODJZdlVSN3NzZU5MS0Y0bjI2cUFWUUsxQmc4eTdSSUx2Z0RXQ2VmY3Z3bkgyNDNr?oc=5",
+      "publishedAt": "2026-10-25T01:16:00+08:00"
     }
   ]
 }
