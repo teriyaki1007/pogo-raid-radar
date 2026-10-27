@@ -1,7 +1,7 @@
 {
   "iso2": "PR",
   "name": "Puerto Rico",
-  "updatedAt": "2026-10-27T17:03:14+08:00",
+  "updatedAt": "2026-10-27T23:18:42+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
-      "title": "Nicholas Prouty’s Long-Term Bet on Puerto Rico",
+      "title": "Exclusive interview: Nicholas Prouty’s long-term bet on Puerto Rico",
       "source": "El Nuevo Día",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX0VhSlZuTG9wVkE3YURQQURJZmI1VGJPa0Z1YjUydDJDanlDODVfOTktUkNqSDZOdnJoNTNUUnJtdXU1b0RXWlRYNVBHcENtWFZRU2FNaVpQcHNjLUlWUG5aamxQNnVYbEdTLXkxekJGamcxSnpITWtPU0ZTcHVYT2ZMV3N0eWp0TnFvNllXQzFhN29IYjg2T1FHd0I?oc=5",
-      "publishedAt": "2026-10-27T13:17:34+08:00"
+      "publishedAt": "2026-10-27T23:17:46+08:00"
+    },
+    {
+      "title": "ICE operations intensify across San Juan as border czar Tom Homan visits Puerto Rico",
+      "source": "Pasquines",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQlJZc00yQU0xY1JMeG8xczVaeDRrUFdkeklZMVJVcTZSZ0UxaHlyRVgyZWoyNnhreVJUWkRFb1RlV3dWbllCX0hldFlnRlN6Y3dwXzByTHZVYkg3QWpUbUo3NHVhWmxTZmRieXF3MVExblRNNVBtVlFfSlJxeWY2NGo1V3ZxMmtDZ1ZHOTNac09NcXFaekkwZ0pKRUhJcU9HVWRaLWhrY1Z2bm90Zmo0OFF2OHFpN3lG?oc=5",
+      "publishedAt": "2026-10-27T21:41:15+08:00"
+    },
+    {
+      "title": "Merchants Fleet expands FleetShare to Puerto Rico for last-mile delivery",
+      "source": "FleetOwner",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZm9pZlpzM3otS0ZuQUVnYlVLZjhGaHRRNjFLWkc0Z0xqX3VheVFSWjhBOWpkdlhvZHZNUGJCU2s5Z29TQUctV3ZTVkVENFphWmp0QzB4cFY4WmxYclY1N3RrU2Fac0JoTlBkUWpfZy1nb3UtS0xNOExXcGtFYUJVM2Y5TE5MczhDbnJURDJuYWRiMGh4TzlQZmgwNlpyWHl6R1QyczRXQUVkb3ZqVUFXeDFxdVVJZURjNEo4WHFieEM?oc=5",
+      "publishedAt": "2026-10-27T20:37:56+08:00"
+    },
+    {
+      "title": "Bulín 47 Announces Puerto Rico Concert for 2027",
+      "source": "WJournalpr",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNd25fSkdkS0YwNVNyVExvbnNjemNWQ21ERUpxMVlWQ05IbVpuNHdSLTV3b3o4Zm9sa09zNk5zOVJnT2hyWERoSzRVVHRUd196eTBkMVRIX2VUaEdoSHhaNlBTWVNVajhQLVFEQmJnUThhVWVfLWNSX3RSb0tZU0JWZUl5clM3UFBsVzhVRjNJMVlxQi0zYzM5UUhWRzdKRU82SU9RNF9mbWt1M1VlTE50ZGJmR3NlWGhwYkw0YmIyNmxVaXJrVENrVlR2X20xOHVWdVdKUFB2WHkwQ19tdnpYNnJVaXRMaE5fRUE?oc=5",
+      "publishedAt": "2026-10-27T18:00:00+08:00"
+    },
+    {
+      "title": "Clemson's bowl projection may have Dabo Swinney running The Annexation of Puerto Rico",
+      "source": "Rubbing the Rock",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVhzYTdnMktFaE5aS0xJdHJLN19Pcm9TWjhXcmRfQk1GLXFSV3I1MzI4SGNKQlRUZVByZjRXM1RvVXVyYlJkVkdNUXJzWGY3cEljRE1Wckw2Ums3eG5RZ1BHVGlwSzNtQWhJWW1oQmtoT3BNODlsdEphRG1OUU5QVV9meUZVcmFYbnNXTjNPN3R1Vl80ZFpnUloyY0s3TkhzM0k3akdfOHAyeVJhS1Vz?oc=5",
+      "publishedAt": "2026-10-27T18:00:00+08:00"
+    },
+    {
+      "title": "Puerto Rico Cooperative Sector Launches Digital Platform to Connect Consumers With Businesses",
+      "source": "WJournalpr",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOQUcyQ2h1cWZZdEtrQ042dW9QVnl0YTBRbjVETGY1X00xc2ttcVdGVTBSVDdlNmNpa2N0bnFPaXFmeFo1RURVbTY2U0MzeUVnTlVILTZqYWJaWnowZEZhODBPOWZNSDNReV9PLTdUdlJWbnJZandrRkJ0M0lYbjJWOFIzaDRoV3BVNjNRcGVZUW5lSVRCVllBR1I2U1JybjN3Smk5RkEzUi02aFJtNFJjbWJnZDM1amc5M2Exa0R5RW1aV19jR0d1OVR2ZzNlQ0JWcVBVMy1kQzZ0bkRYX0hmWW92Y3RISExhZkFPNmg4TFFQTGU4R3UxNTlOcjN1ZlRNR2hWS29VUzdFN05idElkYko5OA?oc=5",
+      "publishedAt": "2026-10-27T18:00:00+08:00"
     },
     {
       "title": "FEMA says it's providing water trailers to Puerto Rico amid water crisis",
@@ -46,36 +76,6 @@
       "source": "TAPinto",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMnBNZkM4c2RUX05vYVhrclFrcnRXY3RIY2ZLbGZYZ1I2VEpuWm1CSHEtY0NGOUxfdEFEdzM2Z0xOTHpFVy15MTdlbjZ0X041MGszLUNLUmpCMFBfWXpvbVRtenJiNllOM2pIREtuZUFsQllQM1NnUm5SdmY5ZkZQYnJJTHJ2YVVybnpoTFhZOW5wWVJFNVhBTFZoTWFyTHlMbTRDQ0k5RzlyTlhZNDlEbzJRcG43TUpCVldTWUtyQkRkMkxJN2Z2cGdxLU5tVUhUdHQ1MlRMenhwSWdwQ2dsbFZMWVc4MjBEYlgtMQ?oc=5",
       "publishedAt": "2026-10-27T11:00:00+08:00"
-    },
-    {
-      "title": "Puerto Rico’s Main Airport Saw Passenger Traffic Decline 3.2 Percent in the Third Quarter",
-      "source": "Caribbean Journal",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RRHE2eUxYeVNQbWRwVVNDVzFnd2hzWlktOXhGMTJRSUEwVlhCd2RYVEFmZ2otMEtDMkthbmZpdGdlejFBdE5lZWdVNWNVV0RpdV9OaGEzU3lub2dnR2ktTzRSU00zT2lvZml4ZWhUMVgyLXZqVkRTTEJuYVNGa0U?oc=5",
-      "publishedAt": "2026-10-27T10:03:02+08:00"
-    },
-    {
-      "title": "\"Yesterday I killed Felix Plaud, and just now I killed Luis.\" | TWO MURDERS AND A CHILLING VIDEO CONFESSION A Puerto Rico businessman posted a viral claiming he killed a prominent attorney and a former student leader. Hours later, he was found dea",
-      "source": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbGhQb0NHaXhmTllqVlg3YjBfeDdBdkRWZ2h5R0hvX242RndUZ2lmVG9WalhMamlTS09kTTZNQjAwS054UXMwV1dCLWVrS3NBLVVXSHFTRmVfU09uY1EtSWhYbW1xSS1ZakM0OUppRTBVTFZKblg1Z2YzalZXRWR1bEZIdFg2NlFCNnhucVRZSTgwSDEtc0ZqVF9QdDBiSDh1NHMyQ3h6eXhPSkQwMlJYdk8yMmExUWxsZlFRVlFDa0lGekl2TzRUWFk2dDljZWdUZURaQUlHakRSaElFRFREVA?oc=5",
-      "publishedAt": "2026-10-27T05:30:33+08:00"
-    },
-    {
-      "title": "The Second-Largest Island In The US Isn't In Hawaii Or Puerto Rico",
-      "source": "https://www.islands.com/",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWmxTMHE4NlJYbWo1ZGxKdVZGMFVhX2dKdTdsZUlZQ29uazlFYUVyci1UYURmWVhsSmd1eWhod21OTDdZV3dYQTltNnE4U1V0cE52TjhWdlplRV8zenMzcVV3TmRHRzNyQ18zM0tVWDM2djNUWXVRc2NKeUg4clJrLWRnZ0o?oc=5",
-      "publishedAt": "2026-10-27T05:00:00+08:00"
-    },
-    {
-      "title": "Case study: Puerto Rican apartment complex relies on battery power",
-      "source": "Solar Power World",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWhXV3BOdTU2MGlqbkpGd2dudHVoNTBFNG1ITkRlRWtTaHZrUllzX0paMnY2ekE0Skx1MXpHel9pNGxDTXRBeFZOUlJ0akRXd29Ea3NOaFNxUUswV3RLeWw5UkJ0TlZQOGM2YnNvM2RqbzF0R0F6aVdUeTRUc0xWMmJ6bUpSMXBTaDBHUElJRXN2Rjd4Rko3Y21vSDBmd1VPUi1hdFZBMDc0YXpUXzVINXF3?oc=5",
-      "publishedAt": "2026-10-27T03:40:22+08:00"
-    },
-    {
-      "title": "Puerto Rico Apartments Use Independent Battery Systems for Grid Reliability - News and Statistics",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQXzJrLXdWWjBJb2NWN1llLS1FX0E1Wi1Halc0aDhWQXN0ZUgyaEtxVzRvQllJM0pjYWFxQnZ5d0Z5b3hCUEFzcXFxUXdvM0ZYcXNobGxYdHNZS0ROMllsRXpWcm56eVRmSi1LUU9sUFhKQmtUaFMwYXVOZHlVbWFKOWtoRU1OcEREQndkckw5b3BhMUozLTRYc2Q3ZTF5ZlBxRVdDajZRU2E3a3k5eWIyMElB?oc=5",
-      "publishedAt": "2026-10-27T03:30:57+08:00"
     }
   ]
 }
