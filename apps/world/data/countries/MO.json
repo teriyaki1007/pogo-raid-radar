@@ -1,7 +1,7 @@
 {
   "iso2": "MO",
   "name": "Macau",
-  "updatedAt": "2026-10-27T11:03:05+08:00",
+  "updatedAt": "2026-10-27T17:03:14+08:00",
   "facts": [
     {
       "label": "Population",
@@ -26,16 +26,34 @@
   ],
   "headlines": [
     {
+      "title": "Macau on track to hit 2026 casino revenue target, analysis finds",
+      "source": "Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ3E5Q1AtZTl5NGxUeXpFRWdkc1Q4UVBtd2N2QWY4OG13YnlRQkU1TFBJRnJYMUVoWXdhazhXLWNZd19aNW05akxreDhJcGNmcjd6Smlqdlg2WUotOGwwdWZ5TldpU0hGLTNCdWlzRHR0cGFMOHZ5R0lkalQ2dUFCSnZhYWdZams1QW5zRjBBYWJ6MVlI?oc=5",
+      "publishedAt": "2026-10-27T16:32:49+08:00"
+    },
+    {
+      "title": "CreditSights: Still too early to deem Macau gaming softness as structural",
+      "source": "IAG – Inside Asian Gaming",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONUFqYm9xeTkySlV3LTJXS19tZ3Ayei1aSkJ2ODZETXZ6c09xZUhHX2I2MkVoQkJwM1FuSjVvbGVmM3Z4d2pNODVjN0Zrc0V5Tlpadm80U3BmdDJXV3E0aG0xRUVPNjVuRkJUSlF3cWUwV2EzWHBoY2JrX3QtNDJTRjZkd2RrZHRmN3lyX09vVm5uNExxUVZVOEFSNC1TaGd0OWhlcg?oc=5",
+      "publishedAt": "2026-10-27T15:56:19+08:00"
+    },
+    {
+      "title": "Macau airport passenger traffic slips 0.9 per cent in third quarter",
+      "source": "Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeng3OTY0dWdtQWdDcm5YVXJCemtlbjhLWVRtTHp1MzVhSURYdHFPY1RraVdfcE95QmpHV3pheFZLRGJjUG5yWDZPVXBTcmEzc3A1UmRiMWRjdzNsaDZxV0IyN3NwcGxmSHNqUHlQaTR1RDNLUWVHd0M1Mm50VWJlaFdobHBESXZnTnQxWTJUSmZFOE1hUkMtLVdB?oc=5",
+      "publishedAt": "2026-10-27T14:06:27+08:00"
+    },
+    {
+      "title": "Macau still able to meet US$29.2bln GGR target for 2026: CreditSights",
+      "source": "GGRAsia",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeTJNUDJPUXBNT1hDeTRMbDdJY2pQZGt6YzUyV3plN1NaX05KUHN3OE92MWoteUxlUjlackpTUndSTmxrejU3LWdaaGdMOTJWSlpQQkp4aUxUdk40Yzl5LTRVOFlaOUhTS0pDZUZ6c3FZTWpFRU4yN1FVa3pwNmJ5S0hWbk9kUWhLM19EbTRNY1NDOTIxRXc?oc=5",
+      "publishedAt": "2026-10-27T13:15:07+08:00"
+    },
+    {
       "title": "Macau Chief Executive to deliver 2027 Policy Address on 16 November, expected to include GGR budget",
       "source": "IAG – Inside Asian Gaming",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMTR1UmRfVHB3alk3MTR2Nzh6ZE5Ha3NIWWtWVS1xMHpWSXJzeWhGdUFKUzZmTmxxYmtjWDhsVEFVaHdyTUxDanRRZVpoa05RdDIwT2F1YnpxajdZakRLc0x3Z2ZDQ1FKMmdldkpzdk96TWFaZV95aldNNC0tM1dfcDYzZl9jOTlxWEM4OW9KODFKV3p3S0lseWNidUF3XzFsUWZ4LXBkczRRSEhzTUs3TXVscHVEczZvc2R1SW9ZWFdwdzJWazl3?oc=5",
       "publishedAt": "2026-10-27T04:01:52+08:00"
-    },
-    {
-      "title": "Macau wins silver in FIA 2026 Asia-Pacific Racing Championship debut",
-      "source": "The Macau Post Daily",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jRFhfZlg5dzkxNkRxYzZGTTM2SjV5WlpvRlQtbjNHdlB2S0xCUk5iVHZUTld1ZjFZNlRydnpCcUk1OHJHanIxOUhpVzVTUmdOY1Vj?oc=5",
-      "publishedAt": "2026-10-27T03:12:09+08:00"
     },
     {
       "title": "Melco stages Tsingtao Beer Carnival to boost Macau-Qingdao exchanges",
@@ -50,28 +68,10 @@
       "publishedAt": "2026-10-27T02:00:44+08:00"
     },
     {
-      "title": "Macau customs seize MOP1.48 million worth of contraband",
-      "source": "Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZF9lZjZNNS0xRHk5ODFSV3dmOGktclpYOHlFRWl1MG1mRmZkYUtRaGxmNkJXczU1ai0tR0VWaXZZMnRTWXRIM3ZKdmg0Y2FfSnppamF5azhmZXdjNFZYdVFxb1FUTmlqNGstS1hkMk1SdldCMmx4aGtxb1UwWVN4QkZvQ1ZOWWd5a19YS1dfbG1qWmRkTXhn?oc=5",
-      "publishedAt": "2026-10-26T23:49:06+08:00"
-    },
-    {
       "title": "Macau Visitor Arrivals Rise 8.5% Through September",
       "source": "World Casino News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdTVNYmxUcWFzcXU2bVlyZERWeDZvZ1AxVzlaVEZqVjZkakFCM2M1b3JxX01oZG0xSDFvVGZseWVmRjNiQVhjUi11ZnNfWXljZnpqN01pdUJISnpLVUpvYUc1WERKZ2pDMEVuamlVNl9TTGtKSGU4aG1rNERXb1hhUEpLWHB6RklPSW9FbGJGNUR0XzBtWkh4RVlqc2NCU1dV?oc=5",
       "publishedAt": "2026-10-26T22:21:57+08:00"
-    },
-    {
-      "title": "Mozambique and Equatorial Guinea Chambers of Commerce sign MoU in Macau",
-      "source": "Club of Mozambique",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTE5vVnJFX2hVYmwzOWhfVU9KWXRDcUExeElpRmZyRldFLVdsWGxhdkJfSW91Ti1jaHdSWTRyVU9uc2tGWlRuX1FmZ1g1M2oxNmQ4RnR3MTMzTzdjdWRfTHBMRnpTQUVGeGhueV9IdlRWZkc3eGZlX0k5dEZJM3ZZd3R1Sm5wQ1paZ0ZTVTFVVFBhZm9DMnpCaEViTHFRVS1KMHBWRUdyamE0UQ?oc=5",
-      "publishedAt": "2026-10-26T17:58:17+08:00"
-    },
-    {
-      "title": "Most surveyed Macau employers freeze pay as average rise slows to 1.1 pct",
-      "source": "Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbE9NNFJZU255czJCVWVIRWZPV09mb0UwYzQyZ0tQOEhOSjIxcHpqTkhKWlRwam5ma2txdDNRanJDNDRGNWstX2otSGJ3Q3ZNTU45eTNTa3g1MTFwSy13Y2I5U0EwN0ZJSUctQmQ0ZjNKZ0JWZGI4MW1zZXk0Wk1rUGhMVGxoeVdMNXliVC12WFYtcHBYcTc0b282cEw?oc=5",
-      "publishedAt": "2026-10-26T11:50:45+08:00"
     }
   ]
 }

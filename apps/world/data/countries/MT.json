@@ -1,7 +1,7 @@
 {
   "iso2": "MT",
   "name": "Malta",
-  "updatedAt": "2026-10-27T11:03:05+08:00",
+  "updatedAt": "2026-10-27T17:03:14+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Showcasing Malta’s gaming ecosystem",
+      "source": "InterGame Online",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcXNoZFVCMktWd0tkSE1PNHRBVXFvOFctM3NvUE1CdDRTeGV0MDVHNEpEYUJLbVI2eTlVd0xqMk9SYTlwbGlHS1B6TEh4eDloWTBqc3dEZnN6VDZQMjFRSXF3Y0FCQkFwZ0ItdENYLU93RjRMazZfcE5aUFJGVVZxX2d5Nml2UQ?oc=5",
+      "publishedAt": "2026-10-27T16:18:45+08:00"
+    },
+    {
+      "title": "‘We Are Not Numbers On A Spreadsheet’: Malta Business Owner Slams Budget 2027 TCN Measures",
+      "source": "Lovin Malta",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcGlXUS04dzNGTk5wdzRXM25ZZC1fV0FsazA0bzJINzltSnJXYVJMUWZvQ0xkYzRwUUFMWnlWaktQLTBfSTZwaFJoYWtGemx4SjNkbjJuNzdwYXZ4T2FpakdtSnp5cnFBbXNmUmR5RENkMTZoYVhHVzNoTVBtYzJoVld6dDBqZ1NadVZUY1NSUUxNTThIa0cyRDlRNWR1TXowVTFCQ3Npd25BU0ZUeHVaUzByODY4ZFhZLTNieXFRRQ?oc=5",
+      "publishedAt": "2026-10-27T16:17:50+08:00"
+    },
+    {
       "title": "Malta Budget 2027",
       "source": "kpmg.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXa2d0dW56STJJVFFndTY2REMtbi1hM2VoMWhiWkQwUGdDbEdYdk5ZdTR6eDI0djRjRlg2QVo1MGxhSVNKSERSVkhaUnAxOTZsVTU5clNfTHEzN3JHeGN0Q3dTaVBYSGZwbFZxTFJjRQ?oc=5",
-      "publishedAt": "2026-10-27T05:35:37+08:00"
+      "publishedAt": "2026-10-27T15:47:28+08:00"
     },
     {
-      "title": "Budget 2027: Elite Athletes Representing Malta To Get 10 Days Of Paid Sports Leave",
-      "source": "Lovin Malta",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2dwd2lPN00xZ2FySUhIWlp4RFNNMG5nQjNVR2FQV25UR2h4Rmc2VlpYMURDZ1NENFBWbUN6UjZ2NGl5TXVsRWhyUUlZTzVTUC00cjJfZm5wQ1NUTFkwWUlad3dZamRHRzRzYzg4dk9qSXlZdDVoblpLbWVJdUF5dTRfeEVXN19HUy1SeDlQZS1LeGFNSkM0R2ZCcXBmOG5NNm50RnFHN2tXNmRSdUVv?oc=5",
-      "publishedAt": "2026-10-27T05:22:21+08:00"
+      "title": "Air Serbia launches direct flights from Niš to Vienna and Malta",
+      "source": "Travel Daily News International",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNU8zSjF3R1p3UXAtaW9STVIwTWYwc1RrMy16TnJXNmxJTEdQVGkwci15OXIwRWtYcmJTMU5XLVRzM2h5bTE2SmJFNVVvNXZyX0FzWnF2b0MzMUIyQjJqdUcwbjdxbXNEUjdrRDl2djRqS1RYbGRvenIweVJKU3dBWFBCOA?oc=5",
+      "publishedAt": "2026-10-27T14:24:44+08:00"
+    },
+    {
+      "title": "Protecting living standards while shaping Malta’s next economic chapter",
+      "source": "MaltaToday",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONmpyNkZBZVlyVW9wU0RvNGFUaDRTWTJqMWFLMC15ZFVqa2JCMFBHeVRNTnl6UXl4bmVBQUdBYXFRbS04UTJ6T2txd0lNUjVvUFdLV3dOQlFQSHdCY1FMeVp1ZmhTcDFJU1pxbDhUWmcwN3V6ZVFsNEFwWHhGcnNtS3dOWW0teldVSzNJa1NsaFFWaWRiSXB2NlgyQU1hTUpZYWlJejJGSnd0d2tuaUpQZUpVM3FmaXZuVlM2NlJkM09NQQ?oc=5",
+      "publishedAt": "2026-10-27T14:00:00+08:00"
+    },
+    {
+      "title": "Voluxis Malta secures AOC with Global 7500",
+      "source": "ch-aviation",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOFJCdUtmTjgyWjJwNTdsYVBVTmdBUWVJR1VQVmkxaGstY1phcU9IY3JZeEhMLUl2dFZkcVF3alJ3YW1jNnNyWTdKR1NQMmZocUZldjZCVENHREl5RmhrZWtFS1RoOUpRMXNiRTZCNVFBTWl0V3Fjam1QcWtKd185THpObmJZWGVpSWc?oc=5",
+      "publishedAt": "2026-10-27T13:58:55+08:00"
     },
     {
       "title": "Budget punishes foreign workers while leaving Malta’s problems unresolved, Momentum says",
@@ -52,30 +76,6 @@
       "source": "Saratogian",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNkl5TnpZMHhUb2FBV01LRDdrZUhPSG5EWjMtdmxBdm1PNnE5Y1F5UGtadkRxbjZxVTQtS1V4clp2cXBhZUc2QlR4WmRIMVRGc3BxN3A0TklFY3dLTjZWRkhMay1tY2FkUnVHbnlwbnJjTmI0cE01Yml5RXlQRmhDVUZWeHB5eXh5YlNHZDlRQm1xa1RUbC1JWFZIVUI5OHBHa3hJOUFaZERyMV85bDdPdWRJTm03Sk1FbDlDVkVqdXJFYnE1cHBGNVlR?oc=5",
       "publishedAt": "2026-10-27T04:17:51+08:00"
-    },
-    {
-      "title": "Budget reactions: What does Malta think?",
-      "source": "MaltaToday",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUEdTbi1rZUNvaGV3V0hMTVZhTHA4QzFYQzY3bW5UcFJtc0FzMVkxM1NNNjBaWDY0V2JKdl9Bd0pBS25Nc2lyNXh1MmdPa2VrMmNab3l0T19fOFlzTkR0eEdzNFlsS2pVRVBOZEdPcjdHYUxGMWdxUEpnSmZEOVE1b0lyMjdqZ053TXlNTTZJdHY2aGZBMUpn?oc=5",
-      "publishedAt": "2026-10-27T03:27:00+08:00"
-    },
-    {
-      "title": "Valletta Cruis Port in Malta",
-      "source": "Ithaca Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVYxTnpuX01XbFFrZFRMYlNhZ1IzSlJKTVFEdDZnQUkxX09iY3VhSUxTRDQ5NnJSWUNyU2NrMGc1Y0V2VUw1MmNYSFV1bWxMQTgtWWVKeXVRRG1EcnZCdUVHV0JTMFpSbkhtQldOcUJtUXptejhBeng5cDluSUNPelBlTG93bndMQmIxd01FWFJIWEE2blBNUXdZNzBCNjZz?oc=5",
-      "publishedAt": "2026-10-27T03:18:00+08:00"
-    },
-    {
-      "title": "Budget 2027: Talks underway with several airlines over strategic partnership for KM Malta Airlines",
-      "source": "The Malta Independent Online",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNEpRZEx3a2NxQkRRVFJ6X3Nwb3Z3Y25TV3JZWGhVQzlzOFFQbWx3dnRXUDJ1bk1vcVFZZ2dacGtMdzFYQ3VHWW1ac0UteEdpVEEzaEhJT1Jfc0VhRUNPVjBrWFBreHY5aEcxbjkteE1WWDdyY21yX25UNllqc0pNWktISkRIUTJGbkRxcFhRaWhJUlJRTTRjczZJQmFEZGltUFJGOFhjV3lCeVpTUXRKbUcxWjF1THppcV9PM3RtalU3Z2dTV2Q3SjNKOE1QUk5pN1MwMXM4SGhsbmJKQ0dTM3ctdDkyR1poOFFBWlVwWEcxbldPZ2F3Mll2RHlQMG8?oc=5",
-      "publishedAt": "2026-10-27T03:06:00+08:00"
-    },
-    {
-      "title": "Budget 2027: Higher eco-contributions for tourists staying in Malta, visiting Comino",
-      "source": "The Malta Independent Online",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeXkzOFpMZ0xJbWlLeTZrNkZ6MlR3XzNRU1A1UG04c0M1U3BFeEFMTU1KT1Ryd3doWFA2aF9ac2dqZ2Z5Xzc1RUktc1RITHczZk9FNTloR01XX0pPR0h2R1gtaXZSaGFlc251NzdrbVFLUDVfd213Q1NKX1JnbXJnYmEyRmljcUhfNUt3SDlXREJwSmlEdGY0M1ZQLUNXdEdMU19Xa1VFNF83T3dIdnlHX3BpUDRHS3JMb3VRajNFNFI3SUhQVXJ4M3NiVklYczU2eGxRYUVfTVJjQ29SMkROeDAwNlM4Q1ZmeTdZ?oc=5",
-      "publishedAt": "2026-10-27T02:57:00+08:00"
     }
   ]
 }
