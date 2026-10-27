@@ -1,7 +1,7 @@
 {
   "iso2": "GY",
   "name": "Guyana",
-  "updatedAt": "2026-10-27T05:08:58+08:00",
+  "updatedAt": "2026-10-27T11:03:05+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Greene becomes first Guyanese official to obtain VAR certification",
+      "source": "The St Kitts Nevis Observer",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT3I1WDVsUGN4blFQSnlFYkxVMHFvME9iZVQ5Y1VDeU5icTlfWlJxdkV4Mlp0Z2piTXhVRXNvY29rNVpDYThUc0hsaHhfVWh5ZmNvamNjS1ZTczdTSWg5M2J6WmR3OVItLXg0QUNZQmJGSkRtbFJ5UEZPSUx0WU0xODBHc0RBdkV1Uzl0SDRGWGlPd2RSOWRkZXZHVTZid1Z4aUlpQ282SDlqT28?oc=5",
+      "publishedAt": "2026-10-27T10:06:16+08:00"
+    },
+    {
+      "title": "After historic re-election, Lula eyes deeper partnership with Guyana",
+      "source": "News Room Guyana",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRnJvQzQ0Q1RLdHdvTDQwUV9pNjRmRWtVTFJyVHRVZ294MXRrRDFEaHloQXVQanNZSnJvN2tuYmhDeG4wb3NwNFdad2l1cXB1dkNBSExZdkNiaWVtS2tJSDdRTlZGZ3dfTkJ6SU10T2dzWkZZUmo5QTV1WnlpTlAwVVd4djNMblFJRDhfVEQ4SjBGcklZN2hNZmVHZlpLWUNH?oc=5",
+      "publishedAt": "2026-10-27T09:55:48+08:00"
+    },
+    {
+      "title": "Canadian firm secures uranium project rigs as Guyanese press for environmental study",
+      "source": "The Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUEhoYnhSWEFVQUp1NDVBZXJqMWtQczJIY2U3VGVWQXd2d1B5SnhGT1ZlUUhLLXBlVnlET3NLVWplMjNkdkRpQzJuOEc5MUxnTDhvdS1CNVRiYWRsZVl3N0xTQnp4ZWlKb0xRUE85NmpEUThFT3hYUWs1T245Zy1TV3ZZSTlseDJ6cjR1X0Vlai1CUC00alhsTW90REoxbEFqal9qZnl2bFBLbEE3Yk8xM2JtV2ZGWjltMnJkdDhLbHE?oc=5",
+      "publishedAt": "2026-10-27T09:03:03+08:00"
+    },
+    {
       "title": "Guyanese athletes secure podium finish at Suriname HYROX competition",
       "source": "News Room Guyana",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVzUxT1BHdWx6U3pVNVZuSDl1Q25ZdzRvYWltcjBBNm1GazNzSmRyVTZpRmZnUndoUUNVRkItYmZWeXh2ZFc1SnNtUmstNnJDUDVZU1VyUEFBMHBDTHhSdEMtal9xX2poemJDeWJwRmJrM1ZXNkxuRXJBT2VhNXZ0djNUbm83UC04QmZfaVZkU0NHcTMtQWstWnBqWXpRVlN6SkE?oc=5",
       "publishedAt": "2026-10-27T04:35:07+08:00"
-    },
-    {
-      "title": "PANAM SPORTS ACADEMY BRINGS THE NEXT GENERATION OF SQUASH TALENT TO GUYANA FOR U23 HIGH PERFORMANCE CAMP",
-      "source": "Panam Sports",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMjJsaVNBN0hxbEhfRzNDOXd2QUZybU9lOW5MVGVuaFFqYlVDS05jc01IaDE1QktSWnZYcktoS0lIVWN6MVFPMEs2b1N1ckZ1Z1NsdC0wUDRGOXlEdDlPZUlwU1FYcFpFcVphdjIweTBYdlE0Z2tlbG1GVGJZNnNSeVhteWZHUV8zNWdRc0pvaHhJcHJ2STdFTUVscm9JcTk5cU5CdHkybVNGR1F4aFVHOGMwQzVQa1JpTDJsN2pielVpU1JOckhMRDBhenRsdjIySTA2b2s0YlR2cFRyVElaN1RKVE1WazF6?oc=5",
-      "publishedAt": "2026-10-27T02:47:19+08:00"
     },
     {
       "title": "ICE removes illegal immigrant Kanand Ojha from US over 2015 murder case in Guyana",
@@ -64,18 +76,6 @@
       "source": "ICE | U.S. Immigration and Customs Enforcement (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcGFRYkxRVFlPM1Q4OFphZWtheFg1ci0zLXNzUk10OHdlZ2p1NTZaOE82UXRucXZySmxva0NhWHF6cDBFSVhkb1V0UklGSnVXdkJfWktuMjlEZW5DRkhVWTgybmQ3RmJqUUVoUFB5RVVfaTZRV0JHNUtJZVBfSlQ1M1B2WEt1UEw2WG1fWU9RTjU0UEhwdzB1SzN6RkY1ck1VY3hPT0VjdC1SZw?oc=5",
       "publishedAt": "2026-10-26T22:22:02+08:00"
-    },
-    {
-      "title": "US pinpoints hurdles to partnerships with Guyanese businesses",
-      "source": "Demerara Waves Online News- Guyana",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWdkU042Z3V3bF9EeGZmN2J0MlFWdk51Wl92TjJrM1kzZHFTUXZWdU5LbmR5QXhSaG1VQXd1NmI3bVIyZV8zSGVQWFBGQWRpRmtwYjBEMU1hN0FLa2dDVnBFVGVWU0swV3d2a1hadTUyMFpxQ0trMER1WVJHZkNrVzVHMk8yd0Rpelp6aXBMMG9SekhsNHRwWDFvSGJNbm5j?oc=5",
-      "publishedAt": "2026-10-26T19:30:44+08:00"
-    },
-    {
-      "title": "Guyana Moves to Block Recreational Vape Imports",
-      "source": "Vaping Post",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vMllSWkRRU2VaVkdyeGZoWDBwTGhZUnljUWFIc3RFay1CcVpsU1I4VnFjNS1PMUdjM2tYRUN2ZGRZRmtSTFRweWxDakpXcmJrUUZfX2xKTERmVjJSRm9BRHN4Zk1NWnZYVFROYUt3?oc=5",
-      "publishedAt": "2026-10-26T19:19:14+08:00"
     }
   ]
 }

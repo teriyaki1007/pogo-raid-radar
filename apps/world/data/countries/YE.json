@@ -1,7 +1,7 @@
 {
   "iso2": "YE",
   "name": "Yemen",
-  "updatedAt": "2026-10-27T05:08:58+08:00",
+  "updatedAt": "2026-10-27T11:03:05+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Saudi forces launch deadly strikes on Yemen: Houthi media",
+      "source": "The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSUFuLVNrV3dXR2FVMUNYUW5VSHNTSDJLSVVRRTBCdDJrX2lia2lLU3NHTTlPWlJFS0JRRmg2d192aVRJVjZRdEJ6Y0pTempnbXVUOHk2QUo1THprd1oyMHhYWEtnV01uUFBoQWNBQ25ieW8wdWY4SEEzT0pENFEyZERodG5vUUlDS0JQSXZza2txTE1IU1hneEtTdlJBTlJKcjhhTU02N2J1TVRGZkh4VnRDTVFEc0txbEE?oc=5",
+      "publishedAt": "2026-10-27T10:33:23+08:00"
+    },
+    {
+      "title": "Egypt Approves Saudi Defense Mandate, Rules Out Joining Attacks inside Yemen",
+      "source": "Palestine Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU2xOZkxYZ2l6eDZQck1vTzczSmcwVGk0Z1pHcXRMckRFbHNNMG0zS1VHVWFsRW41ZGZSUFFQSmxycFhMZFlOdDFOSWhlelpHQ0JSb0NJbkVETVFrcnc3RWcwaDZMeHV6RFl0c2tzdmVHRDNobEI4S0txQUd5OG80anJrNk9YbG5hTC00bnFwMWNQa2lMSVAzenNmYlhUS2Nub2dRVUUtaG5BV3JNUlhFbw?oc=5",
+      "publishedAt": "2026-10-27T10:07:54+08:00"
+    },
+    {
+      "title": "Yemen Backs Egypt’s Move to Reinforce Saudi Defenses, Senate Speaker Says",
+      "source": "Yemen Online",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwTFZKWTRadk1Ka1MyLWItN3J1UktfVjI5QWVHNk80YjJZT3pLVDExUmpJaTVYcDktNnRhdEY4eUh1bTFoZWZkNHduX3ZLTnlXMnYwcHJ1bmgzdw?oc=5",
+      "publishedAt": "2026-10-27T07:46:35+08:00"
+    },
+    {
+      "title": "Yemen Sees Fresh Escalation as Airstrikes Hit Houthi Positions in Taiz, Ballistic Missiles Land Near IDP Camps in Aden",
+      "source": "Yemen Online",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtQjJPcEV4S1VGb3FpdkpKNzB3Q2l2VE9xSUFRenRhbVhmUkJaQkFtRmd2OVlTMHdQLWlUalV1czhkcTFiSHdSSVVKNEFTaXU4WGhVU0duem9zZw?oc=5",
+      "publishedAt": "2026-10-27T05:21:29+08:00"
+    },
+    {
+      "title": "Houthi missile sites destroyed in Yemen",
+      "source": "The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZmc5a21ldVFDMXFub3loUnBSWDBDQVdFMkdVZG5SVmRKSGhhR3BMRVB0bm5lVElVbHQzdHpRUkFBcjRnWHZad083bGtBVGZZYngyTTRTVDQzMndkTGEwdFFQdFlEUmJDZ2s4UmRmNkJ1RVY5dDV2YlZFd0hJMXBIZEJoTWRFb2U4TnZZSmd0WmRMLThnX285WGYwQ1BaUXplTHln?oc=5",
+      "publishedAt": "2026-10-27T05:09:21+08:00"
+    },
+    {
       "title": "LIVE: Yemen’s capital and Red Sea coast hit by reported blasts",
       "source": "Latest news from Azerbaijan",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSll4NURFM2hPTlNYcEFkbE1oYVFfY0h0cmZCb2g0VHVFb3NRQU1BOUNEQXlTS1FVX0hJQnVRcjc1U2FKbTRtbG9xRmVPRURFOENlci11OHVRUVZ3cnFFRkl6N3BObXA2Wlh2TUt4TzJ3V1drc2pydjQ4VUtxb0t1RWZLMEplWFhE?oc=5",
-      "publishedAt": "2026-10-27T03:49:03+08:00"
+      "publishedAt": "2026-10-27T04:22:46+08:00"
     },
     {
       "title": "Access restrictions worsen critical health needs in Yemen's Taiz: UN",
@@ -46,36 +76,6 @@
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckIwZ1pHUU1CZ1VHMmpaR3NBZmJkZkJwRlBvUjJzVTFGbXFySzkybTUxV2Jqa1R3S0dGbGhJdDNmRVdtTkRfVU5pcU1HVjVNNU51NGZHamZhdGxIUjJOS0lRYTNPejFYTHNrMVFHRjRpMTF5aWRST1JTSEpIN3ZKZUVCbXpwUjU1UXdrbGpWR21vVGN0RkVDUzVNaFpmbE1FTkRlSlNnOHQ0MVVFZ1VnWkRBSDNLZjhkY3JzME1B?oc=5",
       "publishedAt": "2026-10-27T03:42:20+08:00"
-    },
-    {
-      "title": "Strikes are disrupting access to health care in Yemen",
-      "source": "Doctors Without Borders",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWnhmLVNyOEdjd1NvVkhYN3dZcDMxMVBHX3lxM1JpbU9rRTVIcGtCcEZ4YWhSZTJIM1c3blBfeWlSZnFSWUtFUC1uZWNGdmZ4N0lBLUxjV1dPdUtwaS1wWmR2dHRRWUwxOVpfQjJsNW5kWnhHMkRvVmxxMGlOMlI3RURmMXpWc25DRmNCODZLdGlsdmJyeUNj?oc=5",
-      "publishedAt": "2026-10-27T03:28:56+08:00"
-    },
-    {
-      "title": "Fuel shortages in Yemen's Taiz force hospital to cut incubators, risking newborns",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbkNmWlk4bE9DTGRLc1hHOWZoRkx6OFh6UXR1enNVcG54Xzg0WjZfMDRwVnBpT1BUSk9sVzRtYnVkSHZ1eThMQV9LdU5BN2ZheVI5T3Z6elNxZWNBZWdPc1NfMGI0VS1MVHdfUnpzZkNJVkRlV2I5UnBKU0YyQzlEdmlkcEozcmoz?oc=5",
-      "publishedAt": "2026-10-27T03:14:30+08:00"
-    },
-    {
-      "title": "Yemeni Gov’t Forces Report Major Offensive Against Houthis Across Multiple Fronts",
-      "source": "Yemen Online",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBET3JtVm1QWTNXRFRZREpBSVA4amlNLV9FX000bHZyZmRIM1oxelIxenpsMlgxZDVyYWhZRHJpelZGOEVRVWVlc3QwRzFaV2FLWTVQYlF0cWZqQQ?oc=5",
-      "publishedAt": "2026-10-27T03:02:51+08:00"
-    },
-    {
-      "title": "Thousands of people forced to flee Yemen to Djibouti as conflict escalates",
-      "source": "Geographical",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQS3BsZ2k0alNwenRaTm1QTGwtaUhJRnp0cGNXakJ0bUQ3MWZlNV9BTk9jdk1sb1dLZmxDS2NoV0pRb1FXN1hkQmZDRW16RVc4MDV6YUlDNHZMZ3F3TjloX1lMZzdQWm1hTEZuTVNaUURHdkxBb2FXdHJOeFFrWmNMa0hjYk1MNGl0Si1adDk5MENURGlNdGR6b2Rmb1R2cG9abjN2OGwyelFLdw?oc=5",
-      "publishedAt": "2026-10-27T02:54:22+08:00"
-    },
-    {
-      "title": "Yemeni military says 382 Houthis ‘neutralized’ in 1,276 strikes over 24 hours",
-      "source": "Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNdlpfc01veTBWeGlqZmxUdUFCQWNVVzIydWpyT0dZRmNyTGNHV1RQcVphQWxBaG1IWFFqZ0pXR2owUU0xQnpwZk1mbm5ib0VCRXZxSXY5OFFTZkxxUXJsSHY0YjhvRjNUVlI4TUIyMEZtMjJjRWlJVVRoSUhGSmlicFAwdmFOR3RMM0ZzemdqTzB1dEZFQjZLYWJiQlhrNWhrQmFENFpubDBrOEFDcHRSOHlLUUJHem1GSDNtR0NtMEZTRVdqR01XLXdCVjXSAdIBQVVfeXFMT01pT256MFB1MDd2UXdkamE1Mzh4U1ZzemJtWnRWVDJUYTNzWEpaeVVHUEs2ZGdJUVYtMDhzUWRsOFotQWwtUzBLc0k4ZDVQbWhWR2hGc0cySUQ1MV9DbXN2OUJWZ0RvWWcyYWo4Q3UycjJfQmJQN1ZiNzN6bTlYSjlPbC1RUzJVbjhfS19HeklPNUc2YlA3SFNteVZlRUo2aFhpNFB4OWgzT29IbFRJMmUzRUJRaEhiNEZiS21XSlJFdXFjTlNVTldhU0tLWU50SzJ3?oc=5",
-      "publishedAt": "2026-10-27T02:45:00+08:00"
     }
   ]
 }

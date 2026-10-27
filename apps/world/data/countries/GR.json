@@ -1,7 +1,7 @@
 {
   "iso2": "GR",
   "name": "Greece",
-  "updatedAt": "2026-10-27T05:08:58+08:00",
+  "updatedAt": "2026-10-27T11:03:05+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Greece keeps Patriot missile help to Yanbu as Houthis target Saudi oil sites",
+      "source": "Shipping Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNYWlxTTNnSm9NelR3VmZqSnk1OG9sbVcxOUI4NlRLbDlpeTFhTXlFVDdDRjZFa3kxUFU1WXNieFVnYWFDM0hzUWRoMjdlWXNFMVVaYUl4b0swUkNVZ05QekxuRXlOTngwNzB6VFVnLVllN05helU1b0I2Q1FSdWR1V1k4RlNzQkVDS2FiN1JNMklHc3lKY0lqeEtLcmlqRWpjeTZQb0JtYWtWcUt6SGlGaEZjeW5fdWtRelhmV3RKS2dwSnlfRVhRQWR3?oc=5",
+      "publishedAt": "2026-10-27T10:00:24+08:00"
+    },
+    {
+      "title": "Margaret Papandreou obituary: American-born ‘first lady’ of Greece",
+      "source": "The Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0lhZjEwSWtDZTc5R2czcDhFMEcwOW1HdFM4RGdCZEZZbUMxUk1RczYxcFZtYzR5amtEQ3RqMUt3SW5jUmVWV3hmN2ZRYWhyc211NGJNRklBeV9QS1FyaWVSbzcwejdXRjg3Z0pHWUJqQm9yMk9Ocl9WMjY4bXRZNXNjT01UdGVhbXVDQW9HMUJLbnFrb0tHNnB3WGE2UVNWUEFJaDFfLTBHUTBpSmRRWWg5ZXlQQ29HaktQaQ?oc=5",
+      "publishedAt": "2026-10-27T08:01:00+08:00"
+    },
+    {
+      "title": "Greece warns Libya’s Turkey maritime deal threatens Mediterranean stability",
+      "source": "www.thenationalnews.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1BzdUZaRFdrQlhGNXNPanhnNl9iZVR6VlhaRWU5cGVIcnMzVGZkRnBTNmNQV0RiWlhkUnZpcGJFMHlPeXNEaDhjVzBhWXVOcTBlcGFUU0FfWmZta1luRFhtUFlBdjFBWFRKamZ4N01zaVUwRFNpLU1keEpyQ3RZam1KZ2pMcmNuTmxrMUpQSkpwSHM?oc=5",
+      "publishedAt": "2026-10-27T07:28:16+08:00"
+    },
+    {
+      "title": "Greece, Egypt, Cyprus, UAE, Bahrain and EU Say Turkey-Libya Maritime Deal Has No Legal Effect - News and Statistics",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdnRQQVUyVy1VYkRkc2FuS213eC03N0l1ZWFmaGxpdko2OVMwQ2FQbEFoUnMyQmFLRUpMWDg3NWlhR3lEYk5pendId1c3NmVPcm9iTnIzYVQ5WmJGdFRkX1FJa3Jqa0ZINFVHdUx6d0I2ZzFlZGpZX1JIY19HUzVPVGxPX193alVJRkFLdnBTVGE5TFBYeTdyUUlDb1BjcnNHYlEw?oc=5",
+      "publishedAt": "2026-10-27T07:00:30+08:00"
+    },
+    {
+      "title": "Rare White Deer Returns to Wild in Greece After Surviving Car Crash",
+      "source": "GreekReporter.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdl9lNnFEUGpZZlJ4azJ0UFppa2lZNUtuX29aOXVvQl9UUEVsSUlHU1FiUFhmZlBFX3RfVTRqc29jckxmVnFMdnk0b1J4a0pJWTBZOHpxdWlBV0VwSlJ3aGNXdWJ5TmJXLUowNF9wc0kzMENWYnMxa3FnQ3RfNTRJbQ?oc=5",
+      "publishedAt": "2026-10-27T05:58:01+08:00"
+    },
+    {
       "title": "UK Was Greece’s Largest Investor in 2025, Greek Finance Minister Says",
       "source": "GreekReporter.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOE5oR2hRckI4R254QjgxWHd0S3pJQVVReXRVNGZIckhmdmJHV3ktN0R0UVEyVm1ES19MZGg1eVgxM2R1RVk3Vjc3bEJWLXdZLXhHSVpMRlcwTnBwV2lybnBIaVZPNnI3YmhUZ196VUxYMzlrZ2RsSVFXaE95RF9YTW5ORnFWN3B6MmR1YkpQY0NsN2NJeVFEcg?oc=5",
@@ -46,36 +76,6 @@
       "source": "eKathimerini.com",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQU3RPVk1UOHZhUU1QdzV3eDRxdkRiZWZDRjd6LURaalBtV0luejBZbHJQdDhzNmFLYUhoNEprbnZ4eGVNa2xpNjFjODl1MlVIV1JxckRWNmx2V09jV2dpQzBDci1kMEtCS2pISGM3Z1dNcGpYelo0RkRrT0d3c19CUENuaEhweUpXLXA0cW9zUmxZNFJWdk16QXZZcTkzX3RxbUZxYm5lb05PV3JVdGlHOF9HSExSMGtTbEpfamtxeTJvQWRyNXJFMjRYNHJSU0YwamhPeWpSVWNMaFdEdTJpcHA0ZU5mR0hzOVE?oc=5",
       "publishedAt": "2026-10-27T02:50:28+08:00"
-    },
-    {
-      "title": "Archbishop urges support for Greece’s foreign policy",
-      "source": "The Orthodox Observer",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVWllVkFJNFV6aEJHYVlfbzJITldvSFJCY3hmZ0ZkUlhxRWRvbVp6aTlBeVRKLTNnMS1tUXdrOWFrM0hkR0tjSlR0QUM0eEhudzNnRWpwdEVxSldzREpiRjQxeHJxemJuRkJwMWc1SHZfQWxCZG9oSzQ5SzM3VHZYOWRWRkk2TUFw?oc=5",
-      "publishedAt": "2026-10-27T02:37:12+08:00"
-    },
-    {
-      "title": "Greece-Cyprus Cable Moves Forward as Tensions Ease",
-      "source": "tovima.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNb1lqSEcxLTBDQ2QyaUpLTm8xSmtzZnhpeWRUdWZaZWQxWlNoWVp6MWwtRG44V241UjVaczk1dzBZU2hLbVF2TlJldnkweG9HTFBhSGlNc3N5b2tLcmlscnR1OUIyR2IzdTVRdlpwbHpRX2REdU9GT292OEl6MTUxSzEyellVMmhXSmQ4?oc=5",
-      "publishedAt": "2026-10-27T02:36:15+08:00"
-    },
-    {
-      "title": "Invalid, baseless and contrary to international law: Greece, EU, Egypt, Cyprus, Bahrain and UAE issue joint statement at UN on Turkey-Libya maritime deal",
-      "source": "ProtoThema English",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbXdxaUxlUy1FbEhZLWRpcnFFdzQyWDVJbFVadFlUTXdjS3RQZXFGMFdXTnluS2luc3M4MHZHd2N5cmtFblZCRkl6b3FxVjFyRHlEc3ZGZkIzVS1odGxEdmFBU2JIZy0wRDYta0lGeWt1Y3dxMVZaaFNYOWhvenROWTBrWF9GSDhvX0dDcFE2VmxKUmxtS0tCUlZyRkNtR0V2cDVuYURsYklVV21sR3NsMmtLUWtXaFNra19za2Q3QXBXNGVMdFVJUDlXdXI0SE8tcEQtbm9aVWtuQnlyWUpwNmlkbUNSZ0hlNmZIZU5ZRUM5cGZjUVE0UDJwTF9PTE5KalhqdC1qNngwNzRZV2lmQV93?oc=5",
-      "publishedAt": "2026-10-27T02:06:36+08:00"
-    },
-    {
-      "title": "Greece Bars Under-15s From Social Media From January, With Kids Wallet Age Checks",
-      "source": "Mobile ID World",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnZ1YlRFNmF0cHYyWlZjcGxrLVV5RVlTbVBkeVJrd2JlbWxMazlMZjdrb1NDbmdSQ1pxdTI2RFNOTC1NdkxXTlAzUnhUWjc1UEJoQ050eXlCNFZPRnNrYXdxOTlVOWptX3M5UUQwUWdQMnFWNG8weXJ2c01HVEhuMlZ4Njd6blJRelVodGw4b1NudDgyZWxTS1czQmVTQy1Hd2VOc0xiTU41dw?oc=5",
-      "publishedAt": "2026-10-27T01:45:18+08:00"
-    },
-    {
-      "title": "Armenian artist Sarko Meené’s works exhibited in Greece for the first time",
-      "source": "Armenpress",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yZU4yUDJsY3RmazhidUhtaFc0amdjdF9vdlp0VXZJLWRYbHRrV1VIdjBvSVZ4TjdyUTNQNV9TSTdmZHV1c25VZmk4MjBya0ptSFHSAVdBVV95cUxNb0o4eUtlUDU4THVPTldjUHZ5d2tqQ0hwbUdxd0ZNdERKSGVOSjRSY1Fkc1dLdXNxRFlra3JZcnFqa2ExLXpxY01xUnUzNTZpZk5HV0xTNWM?oc=5",
-      "publishedAt": "2026-10-27T01:16:00+08:00"
     }
   ]
 }

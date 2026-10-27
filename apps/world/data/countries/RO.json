@@ -1,7 +1,7 @@
 {
   "iso2": "RO",
   "name": "Romania",
-  "updatedAt": "2026-10-27T05:08:58+08:00",
+  "updatedAt": "2026-10-27T11:03:05+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "Romania uncovers Russia-run sabotage ring targeting arms sites",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeDJGeEpTMjcyMklPUlQxU3RZMzljb1B2Q1prTTc3eEdfRW94QTgwb1ZKRmh2MXFCSjBUVUduanVESHF5VnQxQ0dFa25CUmNnRk1CN256VHhCbDNTUE8tZm9CZjEzRy1XbWlXUjVTeHhEMFVHZUFoTjR5MVFncEZlWWxPRlMtZG1P0gGcAUFVX3lxTE9IZ0RzSDA0XzlBWjZfMjlleTB0UVpKeElKNjdUemh2cEotOFlaQV9tLVNhMlV2UGNkUmtDSE9TRjZUamFDM0V4Q2M4NEZnZW9vZ3ptbndXNmdRc3dYdERGVWtpcG1DLXUzeGtUemNQalhMaHZzNm9wNk8wNnlqYmt2dlpuVURpa0hiNC1qOU5abTNwNW9aYnFKamlOMQ?oc=5",
+      "publishedAt": "2026-10-27T10:04:00+08:00"
+    },
+    {
+      "title": "Romania says Russia-run sabotage network set fire near weapons factory",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNei1XRDhzSTJxMHhYNV9yQ1NIMWp0T0pDZHc0ckJ4UGVPbUsxRmV1UUFaWUhYSGU4czNHRS1TcUlXaElSZzZXVDlTVlU4clFXN2dmOFJGSUkxVHlGRGdGZWo5b0VRQmZGaVFjeDQ3ZW5xSmZSYjFzSEN2ZWtrZWFWMExvRjd5TExZWmFiWkt0WGMxTmRyRHI5VFdvaFJSYjhTbWl5MGozcG9pV2FJWTd2XzZB0gG3AUFVX3lxTE5qbDFpN1FjX0c0T3V5MTAwQnZyNWRCdmsxNERsUDRUNGNzZ3NwQzJHOWg1dEhpd0hVN25aVmRRWEo5U0h0ZmI1aHFnUWl0bWJmRW9Rbkx5dy1wRWtUemltUndmaWxQSGhwblFYMWNZMU9RY0d3dUlVRGpScFBnRVBVRkJQeGZjbFEyVVNNTk0zSGl4Rk84MkFiQmNfSmdqUkNRa2dnMkYxTFJVZTRxNUI1YVhwQ3d3Zw?oc=5",
+      "publishedAt": "2026-10-27T08:36:25+08:00"
+    },
+    {
+      "title": "Romanian intelligence reports Russia-coordinated sabotage network — Jerusalem Post",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUUUzdlR5UUhRZF9XSlYxNzVPLWJWcXFMeDJUXzJyWVRYdTdlWlFrLWJUN1NMWTlwVS1BUWdhUi01dXljMjloQk9MaGpaWjJLQ1V1dXZrRm1vbmEwbEJoS2dmc1FzaFZEWUpSZnRlT0tNUDBJQ1NJcTF2NTEybFVoNDVvdEU3Z2pfWndtZERvNlROV2Zqekc5STVPUThjWG56WmxSNDZ5UQ?oc=5",
+      "publishedAt": "2026-10-27T06:54:23+08:00"
+    },
+    {
+      "title": "Romanian intelligence identifies Russian sabotage network thought to have caused industrial fire",
+      "source": "The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB6WGdwdWliQWo5dGVwQ182SnFtcDFYQU9OdlBhQkhKNTJ6RGM0TXdYUzBBUklzZGlCSUk4dXVEMGl5bnpfZUZEdW9ZamdfeWxpQ2hBZGRFRE81b25mVmNZ?oc=5",
+      "publishedAt": "2026-10-27T06:14:46+08:00"
+    },
+    {
       "title": "Saboteurs who may have been planning to set fire to a defense plant were uncovered in Romania",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEdvdGtmUmtEZm9nZzhWX05hWW9tcVpxeGtORTFmWUc5TmhCZy1jQXJPUkdTSzM2RjJHaDNBVlI2UDhCeVR0NTJTODBSN2VXRy15aFFkQWEtenNGdFZMdnE5Sm1wSWVMUm50RG9fZy1fcUVOaEttY19XNkxrb2FXT1UtNFF5cE1HYlBLbUt2bzFUQnp6ajN0VTh1cFFzQ2xOT3BN?oc=5",
@@ -52,30 +76,6 @@
       "source": "The Independent",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcm54Mm5xV1RWTWJxd2pXdHp4elVLNXcwaVotWEhVVmZyVHZzNXNVR1AwMnhSaHdjRUVRSEJvYUtNR2l3UlRxV0hHYUk4QVVqVWhPSm5OX0xPRzVMZFFKNzRmTlB6b2c1eXZqTWo1SEFjbHhOeFRwcUFRVWduT3BOc2pRTHJXVUVVODFTUzl6VjYzLUtUQUJPb2sxNVdQMVY2V2JCOU80NlJnQQ?oc=5",
       "publishedAt": "2026-10-27T03:43:00+08:00"
-    },
-    {
-      "title": "Russian sabotage network believed to have caused Romanian fire, prosecutors say",
-      "source": "CTV News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1dRakJlRWFrd2NlNkhEY0NfZDlZTWh1WGY0NG5VTDZxbmhjR0JXNE9hTWNVMEZiNlRodmhPZUdWQWVOXzd3QzM1TDFLRGFPLUk4eEJHUnUxcS1VWkk5MEpNUUkyeGhUeXFmTzBjcnVNXzFoRllfNGV5SEVRSWJUM3dyS0FEMm5ET2t0VGhEdWVtUmVuWllfTWRlWGpzWWg1RVgya3hMeGhyQk0yRzByMXVuMUdiNXc?oc=5",
-      "publishedAt": "2026-10-27T03:27:01+08:00"
-    },
-    {
-      "title": "Prima TV owner Clever Media buys Romania's Kanal D in ~€100M media deal",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPczBSZDgxQTE5eExPLWJVM183Y0twamNhaXBfV2Fob1JscUh3cGNmaHNONmtSUE9DLUhZdTFsQlVwLUJJTWZ5b0swRmxhaEdPMVdyVTlzLVNQbG5IRTdYMFJqMzRZNnRHOGNSVTdjbHFQQWo5ck1jeU5XN1k2akF5SjViNkk5OGRWcTRmU3Y1cWtnZzhkNUVxdDF1SDlFa0RLWUFDTWt3?oc=5",
-      "publishedAt": "2026-10-27T03:00:45+08:00"
-    },
-    {
-      "title": "Romania says uncovered Russian sabotage network By Investing.com",
-      "source": "Investing.com Canada",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb3RWdEkzdGkyVFgzUnA5b2Q0a1BBZFRFVXUzeFJ3TXhFc3d4ZU1pY2l3cWxZRE5qaXBtZ3N5d3AwNkQ0MDlBT1Bja04xNW9hdkxnWXZrNGdHTmszNF9wbWRwdHBHTk10TkhGOXdCbElxUEgyZWttWGF1Tk1BbWZjTEwxV3g0TUQtVXhIWWUyVTM2X0dTUzQyczVOZzE1V2lSdkowSXU5T093SUtK?oc=5",
-      "publishedAt": "2026-10-27T01:32:35+08:00"
-    },
-    {
-      "title": "Romania says uncovered Russian sabotage network",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcFZ4V3BRZGpTU29RbmliMUlVVlNvbEFsTDRYQ19jRlJVV2FzSDI4V1JVcjd0dGJiMmJ6b3VSNmptVGxZekpyMmFUc2xTTjZtbUV3ZnB4NHJXZEEtMVR1NEE5VHBlRmpJaFRxLTBrelRNV2hSSVBJejVFVnFxSkJGZlBaZHc5dDhEWThjdmRGM256WjdiaVBfRHBVc2o3WHdsU2RpUHNxQQ?oc=5",
-      "publishedAt": "2026-10-27T01:30:10+08:00"
     }
   ]
 }
