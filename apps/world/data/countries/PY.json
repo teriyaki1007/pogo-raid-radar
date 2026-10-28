@@ -1,7 +1,7 @@
 {
   "iso2": "PY",
   "name": "Paraguay",
-  "updatedAt": "2026-10-28T11:11:13+08:00",
+  "updatedAt": "2026-10-28T17:12:02+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Crusoe, Araico to build 280 MW AI data centre in Paraguay",
+      "source": "ET Datacenters",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVVRjQl9kYlNpUzNwT2xqX1M2Z0lEZmJsN3RGQUtZR2oxYnNwS25qcmd1Sll2ZzdNV1E3VDN4QUZJYl9aREl3c21FSnBCNGRXQmZwT3c2S3RBV0NuVmZOX3RRNnVlUkJlWVFiSGxpMDVVaFpUSGp2MS1Sa3NaX0hmNmRycHE0OERfZ252Vll2OEVfZlQtaW9NX0RHNmZtVHdxUm1DelNQcUh2c0g5QkdSNFJrWFN3Sl9QX0hKQmNOWnFfbGpPTkgxSkFkTDdhMTEzSC1tXzVOeHBnVlg5UzNJ0gHjAUFVX3lxTE1RZDJqOHJJYW5WWmR3MVV0d0dwS25vUWdvMnhtZXVMV2pZcVgyYkdrS2JJMHMtZVFaNGQ2R0dTZ25HWlUyZnFieFdjMzR0Z3Y3VzhDVlpxcEFLTDVIRE1LdFYyR2Y3TkdRWTF2Z2tUdFhIMHViOTkzTVk2MUZVai1JUWhGNmphQ25NTzBTM0VxcjBZNWtWazVDUXlRQ1k2bU9SQ2E5LXFfeTJ5NG9GTG00NzJ2MndodWlhXzB5OFVteUl0aWN0LTlHY2c0TlhJV19XMVBXOGZSVHItWTg3Nm15YmY0?oc=5",
+      "publishedAt": "2026-10-28T15:41:15+08:00"
+    },
+    {
+      "title": "Like in China: Explore China-Paraguay connections, from tereré to herbal remedies",
+      "source": "CGTN",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOVpqbkxmbVFkVXZkRFVkNWdoSDJPcGNiQXJfSEphRThOa1V2eklScWhGaVhaX3U3STlhVGpRT1pCRWpfanpzMnZTZUJpSnc1WWZzNUpFdWJ5QnVuSkFJM09FTFBCSWtWcnhMNXoxRW52Tzh6dVhKb0Vxb29KUGlia2NWTlRaU0lTdVNPbHVtN0dlalZvSjhfaHEyXzVHS3k4YmFUbWE1TXZLNHc3UGYyam9id3dGczk4UVd1VVdR?oc=5",
+      "publishedAt": "2026-10-28T15:14:24+08:00"
+    },
+    {
+      "title": "Paraguayan senator faces expulsion over alleged parliamentary payroll kickback scheme",
+      "source": "https://streamlinefeed.co.ke/",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdTZGS0F5NnBZZGZZZDNvUFNVOHlBNTV6dDB6MVhtSWRPMWNoc19OYzV0Y0IwT01qNTZ4V1B2bEdYSWlQYTcwdUdjOC10OGxTaFBvUTdNc0E3NERqNGQtd2NWdFd3TkNXOTI4RTNRa3AzNE5CMExOUEtsUVZvOGxQYlpFQUdDNVhScFI4ZmZsM1JnN1BwQThNLW9DMmlIc04zQ0JycmtaX2pFSHVYZmxJNHZ0d2FnRHJCM3lz?oc=5",
+      "publishedAt": "2026-10-28T14:24:00+08:00"
+    },
+    {
+      "title": "India and Paraguay Deepen Economic Ties Through Trade, Clean Energy and Digital Technology",
+      "source": "Siliconindia",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeHlSdVF0X1hmVHJfM2xMZm50TDhaVEw0TWlRcEYyYlBlRDYwWGpfbUZoOHE2bThYdWg2amhfWXgwMVU1Ty0xZHhYbWxleHJEZndWWE9JR2FZY3lpQllDY2NxaUt4NC02MEdFeF9KdFFaZjlSclpQRThab1YxUlBFeVp5Z0VXbFlzalBfWTZBcWNtMHpxQVBYdG5zOHd5Wi1jOU44U0ZNRWpHbkdBdzExZnBYRGVmdWpPTnJLX254QTUzZThLZVN5REpuY0tpZ2MwUzBhM1pxRzVZYWNxak80SkVLVFRYd3oy?oc=5",
+      "publishedAt": "2026-10-28T13:48:28+08:00"
+    },
+    {
       "title": "Paraguay seeks strong partnership with India in digital governance, clean energy, investments: Ambassador Ra..",
       "source": "ET Government",
       "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQM1JRR3BNZS1KcUluMEFQQUtOMDlMdFd4YzI1U2tRbjNJUHMxVzJIZDZ3WlFpNWVBdnZTTE9VT21MaWhnSnVfbnpwbG5sTU9PTjZ2V25XeGd2SjF0TkVPdV9ySF9USDdtbUZvNzNDbUphUTlUSzREdnhEODJ4RDItR0ZXLUt5c1o4WXVSZWZuS1E0X01uVkJWbzJ0VnlINkdzV0xNOElzaWhlcGJfOUxXUV8zcnppY1RYcE40X25iSWJaUkFPZ2VMRjBlUGIzazdfZUJZNWZfNXFOQ1hyZzFTZ0J2RHUzYmRmd0hfQ3V1cG8tcV83endPd1lLZUpJWjFGUGdIOGZjMER6d0JaLWfSAZMCQVVfeXFMTkRNYTdMM3dvVlpQZVNIRVdfc3VaMERkcEZ4eDR0NVRKN2tfX0ZGU2V0OWRlNkVZWWc1Z2JwaWc1akNsdUpvcUZjdkJCd01ESGVURmZfWWdzX1dJcDVyZk5wWVMtZXBFSWE0aXlBckQ5LXBKOFA1MWxkbkE1aGkta29tY0x1dHNTOHQtNFFDZ2NOWnZEcDZzWmlKZGk4TUx6RC1Jb1FMcXQyUTZVVlo1bjhpd0NtTmxUX2xvZHlCa0JHYXRSeWtjY3JDZkZYdGlvdnYyenJyWjM0WEZneGlHNEdBTWR4d0lXMDlYOGJzOG1Mak1wZlNxQWN5X215NmhsSGVNNGt2Sm42cmhXZWZpWjRHTGc?oc=5",
-      "publishedAt": "2026-10-28T10:48:45+08:00"
+      "publishedAt": "2026-10-28T10:48:53+08:00"
     },
     {
       "title": "Strategy to promote the use of electric and/or induction stoves as a substitute for LPG in Paraguay",
@@ -42,40 +66,16 @@
       "publishedAt": "2026-10-28T04:05:19+08:00"
     },
     {
+      "title": "Paraguay Expedition Offers a Different View of Human Resilience",
+      "source": "PRLog",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXdEVi1sOVNTMjBWTVc2azRYRlQ5QlNLbjlHVWxONzdvZ05PLVg5Snd1azVnRmZaakg5MU5OcXJEemFVZ3ZHWFB6M1RicEtMNDZqY2VvVlZUZ2FMeU5TcGFaUTRiZnlPalJsN3hYeUtoU2NsbU1MQ3B2Q0dFTVJIMlV5QlF3bzBiVXRhdF9pODlTbWl3Y0JNOTRhNzREdw?oc=5",
+      "publishedAt": "2026-10-28T03:57:23+08:00"
+    },
+    {
       "title": "Google Searches for \"How to Live in Paraguay\" Jumped 1,700% After Lula's Runoff Win",
       "source": "Latin Times",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcm5TTzNWZm5OM1lrOUowOXVob1VfMmJrSWRJbVlubUhOYmdUUC1oVHlKUFA1RWlwS1E3ajg5Q0p1ZGE5bDB2RnBaM2d2M1hUWXVBcjJpaWxpZWt5S0hfSl91TnpXRzRUZjhzUkl4eHl2Y0lwcXE2RmNCQUhJTjY3Z18yXzhRUlBPSno2dVFoeUJFMHFFeVJr?oc=5",
       "publishedAt": "2026-10-28T03:20:46+08:00"
-    },
-    {
-      "title": "Paraguay joins U.S.-led alliance to secure AI supply chains",
-      "source": "upi",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVUUzZmdveFM3VUFWSFVfNnR6QmdXRlhCVzFCSzg4ZVkwazQ5NlR4VENvMWFBekdEc3RSVGNfQW5uTXFsSmc0R0JaQWhfZTlqMElwbTNtMVhwZGFrckRFd0c3WmpYaC04UEwxTWtzaG9iSjJPdHpQU1FTNGtpb3AxUloxYmxmT29nZDdOS2xFczg5eUtMVVJtaTh2cXI3YkMyeGo1c3l2UEJlbno1LUstU28wb0VvdkRmWkpGOHlHTHNmT3RQ0gHKAUFVX3lxTFBHd0wtRjktakxmamdOVEMwTVlCVENrclBScHJDdlZ1ZTFaeGI4amN4SXMxNW42YllCNjZpM3ZRQU9zeHJhQUhfNU9DN0MwQ2dqVnUwaHFmV2hKT3hxSHpOYy1LSVRKUGlnbnZTZ2duZ0swM0l4dm14alhkVzRtV05OdzNjQUFjWEttMzhabk9jYTNPU19VaGhzNFdSU2dmSHRaSFA3QzdjblYzRGhfNlJQZkJCNFRFYVY3dUNUa1dxeS1JaUxmZGtiOEE?oc=5",
-      "publishedAt": "2026-10-28T01:22:08+08:00"
-    },
-    {
-      "title": "Brazil, Paraguay, and Bolivia plan joint management of the Paraguay River waterway",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNmFaNVRHdnh3aG5jUFBKNU44OVFfUzNlalUzOWhwZmhSR202cG5RV3Yzb290M0VBRnBuVmotQnJDSnEybzhFazh4QzZNR0k1bG5zWXlUNzFnQ05GenJzS0ZzZF9ZOVk5TnRZZmhkeVdUaDVaMjZtNDZ1dVhJZEFoUVhHcjJQV3JoUzBYMGlCbmMydG40VGRxQVk1OEQtY1VfWmgtcmlqOWVmNi1fYUN0ZUx6TjlFdw?oc=5",
-      "publishedAt": "2026-10-27T21:00:10+08:00"
-    },
-    {
-      "title": "Polish roller skater Justyna Tenczar wins two World Championship golds in Paraguay — Interia Sport",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXNFTm1TUU85SThUT1M4ckdiLUlSbkVhQ2hZQzFSME5wN0NCS0p5RjQ5SnZyX1ZSYUxGZXNUYzBIeklaTjJkQk1EaHJLcjZrYmxhWi0ta3ZQeTNvbGxESmM3eFpKV2RacUItcTFtS2E2QmJ1N1M5cFU4TjUxUXJhb0huOGNfTWhrZ1NyeTdWVjNXRUlzUmRwelY1bE5mUFV4eUhtdDJHbkw1dw?oc=5",
-      "publishedAt": "2026-10-27T20:41:14+08:00"
-    },
-    {
-      "title": "Paraguay joins US scheme to boost AI supply chain",
-      "source": "Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaDhvX1oxVS1LX0toODZ1LU5ZcXdFZ1RrNG84amNXeXViLVNhX2hFWlFjVVJzQjFrZlg5NF9TYXhTNFd6cklsZVY0U25FakN4dWpkV2JxbWw1b0plSnU3X3JhSEpVTEMwUWlENm8wbGc4RE85aVBzMFhjNmxCTElwVl9GTm51TE02NHhjRHdaYmFraVZvQUR3?oc=5",
-      "publishedAt": "2026-10-27T20:39:48+08:00"
-    },
-    {
-      "title": "Crusoe and Araico to build 280 MW AI data center near Paraguay’s Itaipú Dam",
-      "source": "W.Media",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNam5vYXpzc2FqX2Zoc3l0TkZIRGpKNUw3elBvb29KeW5Oc2c3aXpSRFZya2RoOGI0VUNSU0x3aFZoc3pGdGRqLU9oNXp0ZjBFVDREOUdrZHZqbWszTlNDQ2lKOGk0ZDItdFJXdkNEU19UUm9Rd3JjS1R6eHJVV3hNSXZ1Mkk2MVRiQWlIRjRJeS1ZSUZkWnc?oc=5",
-      "publishedAt": "2026-10-27T20:04:00+08:00"
     }
   ]
 }

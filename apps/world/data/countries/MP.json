@@ -1,7 +1,7 @@
 {
   "iso2": "MP",
   "name": "Northern Mariana Islands",
-  "updatedAt": "2026-10-28T11:11:13+08:00",
+  "updatedAt": "2026-10-28T17:12:02+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,28 +30,16 @@
   ],
   "headlines": [
     {
-      "title": "Trump administration suspends Chinese visa-free access to Northern Mariana Islands",
-      "source": "NewsBytes",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdzFQaHZPd2RUSGEwRFR4cjhDMzk1SC1UMWRnZVJ4UTV0aWRMQzBnZGZUMmVnd1ZfVEFwMEJXdE5KN3R2RWxFVElBQTdQbjhWWEJ5REpPRFBfM3JOR1FJbGcwRVBRSndfNExQX1g2VUFQMHQweTRYUVVOYzVZY1hQX2NUVG9VNUNDWWFUbkRlM08zUEFZNTdTVVIwWXR6THF1NWM2ZDBWTWZHN3gycGwwUDI5TDR0dDlucnFWMzhjc2RvUTlEbGc?oc=5",
-      "publishedAt": "2026-10-27T23:13:39+08:00"
-    },
-    {
-      "title": "US Suspends Visa-Free Travel for Chinese Nationals to Northern Mariana Islands",
-      "source": "Legit News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenlnWU4zX25ZMktXcnZFenc4WDQtczZQVGdBY2lYSF93b0hvMDBBbGpId055NG56aUdyeTRpZmdBTWRPVHE1UnBmLW5ETGlyZUtTM0dVd1A0dFVKaFNjYU1VMldIb2Fmb3ZvdnFSNWkzOEk2MmRNVnpwdVlEWmRNcllVa1M2V1ljaW5lNW84NEpZZjVUQnNvSERzOGxjU2xQMzhscFItVkQ0WnM?oc=5",
-      "publishedAt": "2026-10-27T22:20:31+08:00"
-    },
-    {
       "title": "DHS suspends visa-free travel program for Chinese visitors to the Northern Mariana Islands",
       "source": "Pasquines",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM3ExSGxzQy1FTGRXWUNkRU1ZbGNLbkhrZ1g5Ujl0eWhyM0ZEd0tlaGZSTm0tSVBsWmIxSUVEOFgyNDFMQ1JJVTVkWjcyWWlqZHBxc0FaMVFEVzFGdnB0Q0x0eS1aZ1UxTC1mTzNqcjc3ZVlhRG83T0VpOUUwSGZhQXZoVjdTRURPdGN5dkRUWExKRXFFNG5WaDgtR0dyNEFhY1h6RFJSVzFrdGRWNlo4djRYbFRDYXRYdnRJal9PZjA?oc=5",
       "publishedAt": "2026-10-27T21:46:32+08:00"
     },
     {
-      "title": "US Suspends Visa-Free Entry for Chinese Nationals to Northern Mariana Islands",
-      "source": "Dainik Jagran MP CG",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNay1rRXpCZjVlRGUtVTRMRGNLU1N5eHZZQ2lwMVZHbFRVR002R3RDSHRhRlZNYW54NUNtc0RrMEQ4bm5jLTRibGVfRUFEWDRTay1ZMkNMNUFWckhZVDRsNkdQc3hpUXl1WEJfYVcwZU9GcEZpYmdBbU9jTHVHU1FHejJzWHhxWHQyWnRuTWJnSjJ4ZGk3cW1YRkN2X2dKNXFHaVp5aW42Zy1NcDktOW9RZjNtSTFlR0d6QWFoYno2U2EwanJ3MGVYV1A1bFRvUHM?oc=5",
-      "publishedAt": "2026-10-27T21:00:37+08:00"
+      "title": "US suspends visa-free travel for Chinese nationals to Northern Mariana Islands",
+      "source": "News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWWRSS29zcnlBcGlKMWE3TjR1SERjN3ZNcjduNTA5dGQxMndqRHduMC11V3NuQWxabzBNcTBGcjJ1RVl2Yi1ROHNpUms0dElvZU8xa0xfekpzaTQ5U1EtM2toaFd1R1lJcDhJRkRfYjh3RVhaMVFzRzk0elktaGNnNHZuQmlHQ3cxOVNQcXI5cUdsenNLSC1Hd0R1VlY0Tjk5RER2THBsUQ?oc=5",
+      "publishedAt": "2026-10-27T21:37:07+08:00"
     },
     {
       "title": "US Suspends Visa-Free Entry for Chinese Tourists to Northern Mariana Islands",
@@ -62,20 +50,32 @@
     {
       "title": "US suspends visa-free travel program for Chinese visitors to Northern Mariana Islands",
       "source": "Hromadske",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMW9JVDBtMTE5VHQxTjVmRkZxVmNDSXIzNFNxTFNfVTBSVEo4R0pYbG9NSW1wTE9uN0g3M1N3SEtybGwwUC0yejdVYms4STRZY0J0M0pOb20yU19LdGJfMHNVeW5nLTlURG1YM1g3SnllWGZHZENfSmdibGFZTFdHYVhXZlFlV3pSX3JqNFU2cWszcUg5bFVqSXF0aHRTOWM5aTEtQmVyYVlHMGtXRGkzcmo2dHFWVXFaekc5LVV5NNIBxAFBVV95cUxNeXltMkNFZlBmekJYWndiMG5BMWFpNG10VzNxLVpMU2ZlUGlrcEhZRnl2RXY4WUdNdWlGanl6ZElkUWxwcHdQb0pwZVpRODNpTjFLZnNnc1ZDNGZrWnhWelFJSTlkN0MtazBEZVVNek84SVhGVVNXcDVfMjNPa25Ia1pxV18zY0R5Z2UyUDlMa25oRGRjczM1ZnZLZzlCbmRXOGFJSUh4U3RESDZfSy1McmdvMEZwRWRYb043OFBvZGsxbG9P?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXltMkNFZlBmekJYWndiMG5BMWFpNG10VzNxLVpMU2ZlUGlrcEhZRnl2RXY4WUdNdWlGanl6ZElkUWxwcHdQb0pwZVpRODNpTjFLZnNnc1ZDNGZrWnhWelFJSTlkN0MtazBEZVVNek84SVhGVVNXcDVfMjNPa25Ia1pxV18zY0R5Z2UyUDlMa25oRGRjczM1ZnZLZzlCbmRXOGFJSUh4U3RESDZfSy1McmdvMEZwRWRYb043OFBvZGsxbG9P0gHEAUFVX3lxTE15eW0yQ0VmUGZ6Qlhad2IwbkExYWk0bXRXM3EtWkxTZmVQaWtwSFlGeXZFdjhZR011aUZqeXpkSWRRbHBwd1BvSnBlWlE4M2lOMUtmc2dzVkM0ZmtaeFZ6UUlJOWQ3Qy1rMERlVU16TzhJWEZVU1dwNV8yM09rbkhrWnFXXzNjRHlnZTJQOUxrbmhEZGNzMzVmdktnOUJuZFc4YUlJSHhTdERINl9LLUxyZ28wRnBFZFhvTjc4UG9kazFsb08?oc=5",
       "publishedAt": "2026-10-27T18:55:00+08:00"
-    },
-    {
-      "title": "World News | US Suspends Visa-free Travel Programme for Chinese Nationals to Northern Mariana Islands",
-      "source": "LatestLY",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFVMZTc4OHF2dWlRYkJMbzJmdXpjNFJvRk5ZSjFSWmhDcUxEeHhQbGdEV3RfRUxPaWNqZzMwOEZpZ0l0Umk2b0UzbVlqakw5cHhXQ0o3OW9nTXRybU0yQnFSd2ZoVFpEc3RjYUQtd2ZPbWRxSm96RkpsWlc0ZXNTR1FJdTRQQ1A3VldDYWpuWUpHc0VjUUwzZGp0a2x0WTFHM3VUdXRjR2t4Y0xETjJNdEJ5Zlc0bF94amZDMmtFOGtMQkIwMGlCOXRfRUROdU9hTHhZa21Ib0lRX3ZoMDdHaG81ONIB6AFBVV95cUxPXzlhdkRVaXdLUjBaVzVVQkcyQ2JNMFhHTzlIS3o0a0NBSFRfVndxSjZnUjlxMkhEM0V3QmplOFk5djlRYzBWSkVQZEZiUHg5YkM5UWhuX015ZTM5T3I2QVJPMzVLQk1nZmdkb09PNmduRjBYQWNuUUEzRUsxUnFQOFlHU1lJaHBteEJLRzlLWUZzOUNzalNhVFFNQkFubXJnekk1Tkl1R1hGT0d2YkNWc1NuMlczNVFSaTAzOGJtTElKczhEY3U2UFRLbzB6TUY0M3VNbjBPLTAwYWIxR3hqbHRkbUJHZktG?oc=5",
-      "publishedAt": "2026-10-27T18:54:16+08:00"
     },
     {
       "title": "US suspends visa-free programme for Chinese nationals in the Northern Mariana Islands — South China Morning Post",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU1lfV2w4Zk15SGh4QllFRE5RUzBjXzFIaWRJZkNMSEtmR2x0NWpxUXRNRThZalN6SlJ5bU5FM1BQTHJSWnprbDNPcXpEVHl4N0VFbnZLcW9Gc1ZxcWZESGlrOTl1WjRaZ1hIdlR6RXZ4eDNSaGx6TkdZeU1SQWZ0eEZJLU1QckZIUkplMWZwLU5HZXotdEVpa2J6VVNQaUppV21iV2hpS2FpUi1UdDdrQ2xWb1FmUnc4U0JkOGhlSGpvdVE?oc=5",
       "publishedAt": "2026-10-27T18:38:23+08:00"
+    },
+    {
+      "title": "US suspends visa-free travel programme for Chinese nationals to Northern Mariana Islands",
+      "source": "ANI News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTG9aZ3Vkd0tJdW5JSVZBREt4VE5LSGhid0F2VGhrQi1jbkg4NTFoMjNQY3hMM09IMDlmYVVBdVJkc1ZzNHdmNzFocDRuQWpBRmctaE9aRHRVRHpDNThycFMySTZFNml3b3ItbGV4RXBrc0QyZjJ6eElHWVI0MlFYTk5fTVBOMGR4dHFUUUp5WVVrZFRCTlNPYnFUbmZnXy0yWEdWSUIxSkVHcTl5bnJpaXVKU2R6VE1xcGM4RDJvVnZpY2xSQlZrZm5McmNZS19iWllYbGtn?oc=5",
+      "publishedAt": "2026-10-27T17:33:00+08:00"
+    },
+    {
+      "title": "U.S. suspends visa-free travel for Chinese citizens to the Northern Mariana Islands",
+      "source": "Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSEhMNmxWOEduNW9kTkNRRUZySU1yRnBXNmhUaVFvVnZiUGNuU2I2WFJCM3poM1dPUTU4LXg3dzI1MnpTNGFlVmZoZTRMeXZmWWZadHRjN3RkT0sxT1c5R0h3TUF6bVVUWDlYUlBDbDhpNWczd05hcnZUcW9Qd25jMDRRVmlGeGZmMnc?oc=5",
+      "publishedAt": "2026-10-27T12:04:00+08:00"
+    },
+    {
+      "title": "Guam and Northern Mariana Islands oppose US offshore seabed mining plans",
+      "source": "Mining.com.au",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9SSTQ2YlZpeXczclhyQ3hYQVdfWDhOMEg5OXQzYjM4empqVzNNa19xV1M1QnNkR1hYb3d4WHVFX0c1bmpieURrSWRzSDNsUXdwaldJSU5scUZOY0pBbzJXMTNfeGxlVlI1NnBWaVZoeUxhX3V1dkVDbEJB?oc=5",
+      "publishedAt": "2026-10-22T13:34:01+08:00"
     }
   ]
 }

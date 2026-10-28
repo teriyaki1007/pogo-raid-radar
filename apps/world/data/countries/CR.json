@@ -1,7 +1,7 @@
 {
   "iso2": "CR",
   "name": "Costa Rica",
-  "updatedAt": "2026-10-28T11:11:13+08:00",
+  "updatedAt": "2026-10-28T17:12:02+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "M&M International joins Costa Rica’s medtech hub",
+      "source": "Today's Medical Developments",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR3BqSkxxbFAtN3p5bnE4aUlrU0pFUXJvTHFRc1o4ZXhCY1k2ckp1RXBTRjVaM2ZhTDRwT2Yzbk9YYmNBVzJSbTE5eDBreEtwS1NiZE91dGFFWlVYcEZBYmFvNjRmVnptaEk2cERKMUZwN216NzlnMElfVVpzQjBzTjVfallwUUF5akNLOFN6STJZam9IdmxMMGRn?oc=5",
+      "publishedAt": "2026-10-28T14:00:00+08:00"
+    },
+    {
       "title": "Team USA's Salinas first, Johnson third as singles qualifying opens in Costa Rica",
       "source": "BOWL.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdG1BNzZLS1NUVkZfdnFmOUdvSzNQZGNSdjgtQXRVTGdpbUo0LWJUZ1ZrWkRDLUZrYVJOQkNpNHgtQjdPdXhZY3QxWGpHSHp6ZEpfOUpzRy1UcWhTOGl0XzlPb21RQjNrSzdJMzBXNDV0Z2FWelJINjZjalhudTZRblhWQ3lSRlBJaWVINlBsUVJtYWhONm1pZFZuemVWMkdMT3E0UEp3?oc=5",
-      "publishedAt": "2026-10-28T11:01:23+08:00"
+      "publishedAt": "2026-10-28T11:00:21+08:00"
+    },
+    {
+      "title": "Catch PN at the Westin in Costa Rica",
+      "source": "Positively Naperville",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1UwZEV3TXBLcXh4RWx4NFRhNHVuSGZIUmVBc3Jra0lncjZUOVZDQ3A1amxSa3JpbmZ6cnNlLWk0U0RkVGozNG84bkdGNXNZckFLY2ROZzRwQVJjMzFQb1c4dFFxeEw4amZ3dEVhU24wS0Y3S0tDakE4OHBMRWRRc2w2cWxPcDJhbFE?oc=5",
+      "publishedAt": "2026-10-28T10:37:05+08:00"
     },
     {
       "title": "One Of Costa Rica's Most Scenic Lakes Sits Beneath A Massive Volcano With Hot Springs And Wildlife-Filled Trails",
@@ -46,12 +58,6 @@
       "source": "News.com.au",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYWNFT0FienZrN2ZlZEVzcnBGRHUtN1E4a0FaSDRuMENVQlNmOEhMMFV5NDBCcG50Y1c2N3lLWE1kbTBoT0VlZkhtN3J5TDB5VjFYYy1zanZpTnd4OEZaZHVtNzFRTHlmN0RPQ1BKR3NWaGZ2aXFnVGlVM1d3Y3Y5TzN0UEhwZS14OFd2MkozcXR1aTh4Qk5qOG10WkRTUHUtUFItN00zSkNBYVR4R1Frcnh1ZXlKQi1ZcGZjRmpxeEYtVmlVVlHSAcsBQVVfeXFMTmYyMGNZVnRVOFI5YTRGV011UGhIZDBuQ0paT2N4UG1kM3pkU3VHbXhEV2FCekhVVi1PZkNKZG5aaFVnRWVaM2h1QWgyRjZaeFdaeVJia25SM3E5bEw4SDBjNzE0VUVDWWtqbWJBLUdGeU9mczlLRnVxZWI1WjVsX0VITGlna3BYM1ZpT1M3bGc3eVZqYmpaZXZxSW81cS14TVVxamV6cFdka3k4c1pWdmtXME81aTlNWG9BRHBwRG5lNDJINEF1QnRDdmc?oc=5",
       "publishedAt": "2026-10-28T07:31:11+08:00"
-    },
-    {
-      "title": "Catch PN at the Westin in Costa Rica",
-      "source": "Positively Naperville",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1UwZEV3TXBLcXh4RWx4NFRhNHVuSGZIUmVBc3Jra0lncjZUOVZDQ3A1amxSa3JpbmZ6cnNlLWk0U0RkVGozNG84bkdGNXNZckFLY2ROZzRwQVJjMzFQb1c4dFFxeEw4amZ3dEVhU24wS0Y3S0tDakE4OHBMRWRRc2w2cWxPcDJhbFE?oc=5",
-      "publishedAt": "2026-10-28T06:30:59+08:00"
     },
     {
       "title": "Costa Rica transfers first inmates to new mega-prison inspired by El Salvador's CECOT",
@@ -70,12 +76,6 @@
       "source": "The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPLV8yajRDdkRjRzRDV05BX3dKaFRZSDA2bHJqWmwxYVZmMHcyYUdXbzdHb3BvbDNLNGJ3b2VYdS04Z19CaXAwbGxWSUVhdnFyVWdLUUlDME9KNFI1S0h4MFd5MjM0aVp3MEFVUjNPU2J0blJOWEFyalU3bGVNSWdIQjA2ajBXRTlUSTJvbVN4NFNLUmlUWEpsM0xRZHp1RmpjXzZtU0JYYVFwQ1JpMDB3V0ZkUnFRZlJkWEtQZU5Zdm9ZTHh0LUpYN3VlV1Y4THdzS3NIOTFzRG5Vbm5BaXFZRtIB5gFBVV95cUxNNzJpVFdmdi00WEh5bm5jSHhscVQwSW16WUMtcGhkUFlFRlNjYWNxa0lNdFMxZkhZTWktTHRsY2l6SmxUNnRJQk53V1Q3Uy10UnloZGNRdnU2em5iUnFMckF2bERQZnlZNW03a0Q5WERlOGt4WjdzblBzZnR4NWk2SWZEYm80UEpsTDg4MEJiaF9sdndvb1V5b2JCTmpFS1RlZ3JSZWItdUViWTc0ZTBkS3NmaHZIZTRxQkNoZnMyQTNiZkxxaVhIS3BzbFVEZjZtRjFKTURWbEZIQm5nRWV1dEE3X1dHdw?oc=5",
       "publishedAt": "2026-10-28T04:01:00+08:00"
-    },
-    {
-      "title": "Shackled, shaved and in uniform: first inmates arrive at Costa Rica mega-prison",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX2RVMXFJX0xRRW1pS3hqM3NVR2h4UXo5YUtfTUY3UEROdjFJdzM0QnhOV3QxaU9jcEhFNEhSTDZWQTBORTlndjBvMmVCS2V4Q1lSQTBSSXYyQ3g3UkVHNkhReXhMRnNVSDE5OU5ZSVVxUkM3NFRVdkpWRE9zM1ZHSk5fR2Y5YXlhZjZiLVpWRXB1VTBWLVk0MmVwQ2IwRGhPUkphZVFBWkFxWHlVZ3dwcnpGclpZb0FiSEE?oc=5",
-      "publishedAt": "2026-10-28T03:41:44+08:00"
     }
   ]
 }

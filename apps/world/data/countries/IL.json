@@ -1,7 +1,7 @@
 {
   "iso2": "IL",
   "name": "Israel",
-  "updatedAt": "2026-10-28T11:11:13+08:00",
+  "updatedAt": "2026-10-28T17:12:02+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "Live Updates: Exit Polls Suggest No Clear Winner in Pivotal Israeli Election",
+      "title": "Live Updates: Israel Braces for Post-Election Gridlock as Exit Polls Show No Clear Winner",
       "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUTJ0MEpwV0JKTERtX2pIX0ktV2FvM3owbDV0TktEcVdwRThUQzRjbnZNRWR6aGNKRlhxdTNSdG1BRHlTR2VSTWpqLU5kcEZiaDBXcTE1NU80MnNGb044NngzQzRiSFYyc183bTdPdw?oc=5",
-      "publishedAt": "2026-10-28T11:06:57+08:00"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5TU2dTNUpFYmtDYnpGanZvRnR5cGFqWmE2ZVYycGxmWnotU3dNeGJPZ255dWN5a3BVU3JGYTBpUy02MXFiLTgwTkt6QzBlaURsMzZ4Wk1GbE9uMGVyRXB3SE1IdzgtbTVmTXRmTFpDTQ?oc=5",
+      "publishedAt": "2026-10-28T17:08:37+08:00"
+    },
+    {
+      "title": "Israel Election Results Live: Netanyahu Bloc Leads With 54 Seats After Two-Thirds Of Votes Counted",
+      "source": "NDTV",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM3NtXy1rTU5WcXpLWXpxLXZOUWhaWWp6NjUwbGlMS2lYckk0Ulg3NGpKdUkzSGI4ZFFuTTFjWHB3c0E0a09UMjJKR2x3R3JsS0Vfa283X2Mzd2Vrb1pQdTdtMEsxeE9LbnBsR1oxVDc5ZUxwVF9KdlVHdEJzMXhyUVctRXQzdW1jSUt3UzBESlhZNWhUNDE2STF0aFZ5VjZLWnMzWkd1S19TalBUdDhuQXViMW9iS0ZuZ2dISkswQnduNTVBd0taM1BYNVNzUkszWGtr0gHbAUFVX3lxTE95dWxIRkktTV85UnVNUGtoalJUT1k0ZDVsajdZOU9qb01yQ1lxaFAyTXVEQWtXZGI2QzlUcXhhOGlJS0ladzQtbEZxY0RDNk1GNU1Lc20xMERlbnVnSEN4LTU2Z3FUdWRsNTBVOUlfWUUwY2xsUk9udklpTmtua256ZmxmWEhSR3ZoOUhKTjZma1hoWWZVc3Z3Uld1X09laFRQWjhVRW5VdmtaeTNodUxuZVhvTWtmNmEzWk5DSExkNzdlR191MHhsZ0pOZWlxZklRRXlycERvNXJtYw?oc=5",
+      "publishedAt": "2026-10-28T17:08:08+08:00"
+    },
+    {
+      "title": "Israel heads for coalition uncertainty as election outcome hangs in the balance",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWlNHb0dldUNHTU5mWmFISkZCampjNVAzdUI0NElyOXZmYVFQaHN3dGFTalBFeWphSnE0QlNvNnl3aGxZUExzeGk4b21YdW5kaEFCTk5tTjVrUTBQX2RiVHdPVlFyX0NKMHdQOTZuSHVlc25PWHFfREZwNGpxTGtQX0daQTdVSkw2eTJqelotakw?oc=5",
+      "publishedAt": "2026-10-28T17:01:13+08:00"
     },
     {
       "title": "No clear winner in Israeli vote, exit polls indicate",
       "source": "The Washington Post",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZlhqbzVQSTlhY3I2N01SQ3QwRWlGRGJTbGtrc3FCU1VEQ0ZjVjFudFJITU9OY3hXVy1zbktyQ2pDakN3cWVlWFc1cjQ1VjVBNDBxa3ZtZVVrY0w4dzk0YURyU1d4OW9RaEhKRkhXcGo4TDdBUnVNdDBocG9lU0x6bnF3cW1LbUFud1dXQUc5NC1EWGdGMF9SQjdjb0pKZnNsYkdDUUVkY0NuOUZNUkJ6VGlzanJNZw?oc=5",
-      "publishedAt": "2026-10-28T11:00:23+08:00"
+      "publishedAt": "2026-10-28T17:00:23+08:00"
     },
     {
-      "title": "Five key takeaways from Israel’s parliamentary elections",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaWgyVkpKZ0FwVTNYeHNqQ0h2dTZQVnlTUHQtV3p2akJYY3M1RlozS2IyTDlnNEl3LUpvQ0xNZV8zY3hOUWt5VEFqTGhXaGpPMU1wU2VxeHhWQzdkNTk4ODJFWDJpS3pyemxiQWRBbGV4czRTNE9DbVo3NE9jeFNucUU2bURIOUlhZ0RYSkRsdnluYVhTTjVoR0ZoM19GQdIBowFBVV95cUxQeWQ3a1VzRDZjYVAyMjU2NGlTSmRfMmMxV2NpMnRiX0w2cFAzX3hWSWJQNW9fZDJ4ZHFzMmZjRUVGckVOWWlNQXB4QW0yS2RtZnd5WWM4cERZanhXRkVWOVdVczQ3bXZCNHg5LWJNWXRMZ0xzWWQzbUVwWUVseEdXMm00STM3ejk1M3VGWUpjOVpoUkU0YWpVaEFXZ05WYlZTYUFj?oc=5",
-      "publishedAt": "2026-10-28T10:55:57+08:00"
+      "title": "Israel Election 2026 live updates: Netanyahu, Eisenkot caught in deadlock",
+      "source": "The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XaWtxZEJQalRYdzRGUks3VG1KUGdrYlpYdVpHNUNPM09vRTNDZmJGT2tfMVo1VnJhOXVWR2ROSjN4THVnSGNnZDB5TTZqRE5lRHhXeXlGOXdMZjI1U19seGluM2hHNjRrdHNWX29xbUJPRERDM19leUplYVF1Zw?oc=5",
+      "publishedAt": "2026-10-28T17:00:05+08:00"
     },
     {
-      "title": "Netanyahu, Eisenkot stake rival claims to lead Israel after deadlocked vote",
+      "title": "The Latest: As votes are counted, no clear winner emerges in Israel's election",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZm5fOFNqTHhwZmdOM1JWeThtU21BdEh0WGc1eGtkYzdGbkE4WmRKSm9tN1c1dFFSbTN1TGQ2S2dxUlRYOElpWFZjVFdjeWl5QkVBTlRfVkJkc3VpandQQzlJUTViM2JIVFF2YVZxVk9vOVNEWHQ4bUF1UTZPV1puaDVfeVhuTm9nNmhGU0hnc2hGc2VyYjJlSGJ4T1VrRGVtWHJPQmtSUEtXODQxVDdsNmJZLU1hd2ZtRXluSk1nc05VUlZaT3FURlZXUU41bFA1LXpOV3lETjVGdVduY3BubWVDeVc4NXlr?oc=5",
+      "publishedAt": "2026-10-28T16:59:27+08:00"
+    },
+    {
+      "title": "Policeman kills knife attacker outside Israeli embassy in Serbia",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZmptb013S1hpZ2RvLUZSRWh6dHV5cWFLZC0tdVBFdE8yVk04N2xjd0Q2VzZvdC1mVEUtZmdDMW9LQlRET1doTFFJd2xqWlJZTWVhWVdtamNCWk9WMjAyanRzTjNDcXEzNG80bWM4a3p1bkp2Vm43em0tcUI1ZkE0Tm1RaHc5cEdVcS1ER0loZU1xczlmQ1gxaXZ5Q1Y3Tnp4eDNKZ09zSDNWbUxnNmt3Q1Rvc1FPcmV1dVpmSmlSRHVTc2M?oc=5",
-      "publishedAt": "2026-10-28T10:48:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ09lVDktVzU0MWp0RUxkY2V2SWhzNjVpMDMzdG1hZjVHTUJFUTFfWWlRRXFtZGJtTW0td25oeHhsTVRTbXZyNG0wTURZeEhQSndxeDFxdnlPd3k0ZGdqSTVOcjNJT1ZEdmdoREFLUFVQSWVMR2tyWGFxSk9NVEhCVWVub1k3UWQ3UWlQYm9WNnhqRFJGbXBkVUJLcnllN1g1YUF5YWxB?oc=5",
+      "publishedAt": "2026-10-28T16:53:43+08:00"
     },
     {
-      "title": "Israel’s opposition has the numbers to defeat Netanyahu. Will it let him survive anyway?",
-      "source": "The Forward",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPblNzNWhNSU1wd0tmSU1wS3M0WmxIY1h6ZEJHd1hrMUcyUlhaZkZSZ3VCUEI5TUV3M2VISk9yQ3ZvRl9RMXBqUGlhSXF0T2ZxX3AwTE1iZWJuRFdlUUpGNnB5Z0hPcjQ2ZEVjTnV6YzRjeGdvOUdNbC1SRlpGcjJXeEY0My1TSkx0OTRNUg?oc=5",
-      "publishedAt": "2026-10-28T10:40:04+08:00"
-    },
-    {
-      "title": "Exit polls signal blow for Netanyahu but no clear winner in Israel election",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUmRhY19zZllFaG9fNnNRc2ZJeGVZY3ZmejgySW1acldMVzl3SFMyZWRDMUFKWVRzeFB2dGtZdFdhcGZVa2NGQ29BNk13cHdZTG93cUNvaTJqbDRIclVtNVpZUGJUSXI0WTZKUFNtVnFjSzJTcExiS2w0dzBxQkh6cnRidzNuQTNJdlpGc21tUFY2OWlrbXYzcE9aSU55OHhHYi1iNlladjbSAa4BQVVfeXFMUE9ocldBV0FUTFBBZ1RGRkt3ZEhBSmZyQjJMVC1YWG9nMDMyaGh3Q1RvVnA5NV9aR3A4QlFPNlJQSDZGc2hqQzIyNldNZGZOMUVHd3M3ZlZkU1F5UENXci1PRk1rc1lVTjFta3dRd19ha0RfTHBobF9sU0xvdFdjWThXNmNrQUI4UFA1NkVlelJDdXc3clVqaVdUSGx5SkpyZ2dfV05jTHY4U284THd3?oc=5",
-      "publishedAt": "2026-10-28T10:34:59+08:00"
-    },
-    {
-      "title": "No clear winner in Israel as exit polls suggest rebuke for Netanyahu",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWlOWFk3QUpOcHZXX1o3Q2pGWEwtSzlsdHp1X3Vwb1FRYkNScGhTVG5hSWc0LVRwaXhCYll3ei1VNlQwcmY4STlWeDdaeWJ5Wm1qaFFGMG5NdUt5Y3U5dFZKSW1UcmRrNjI1ZkNkcTJLSHRvckwtQVlabU1zRGRYNi11RnJtWTA1dVFKV0Y0TC1zMDhwNjJjT3JB?oc=5",
-      "publishedAt": "2026-10-28T10:23:00+08:00"
-    },
-    {
-      "title": "Israel election appears to have no clear winner with Netanyahu, opponent Eisenkot far short of majorities",
-      "source": "CNBC",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5NkpkMXNwcEJheGtIakFtSmduNmE3dTBmWGlxM0RkTzI0NkI5Z244OTliMkRkRVZsQ1Z5OUdiYXA3ZlhBWjlON2F6bkRyWHpJQnFHZ3pDRUtFeXM0NnFpSFJJMm5JdVNfWVhHbHItMWMybnNpVzgtOVZoZlRDdWfSAYQBQVVfeXFMUG9DaUx4aFU1RHdqX1NXNm9QdHNrRHRiYmoxOWQzbzE2ck5jNnZBc1hTQktHZG5sZzJSYi1TS1p4SmhLdnQ0eWlmX2JpRXBHNVlJUURKeGxNZXZpN1c4cVI1X2lMWUhOVHcyekgxeExDbi1XUVMyMW1QWXFDMVY5anF2bVNn?oc=5",
-      "publishedAt": "2026-10-28T10:15:00+08:00"
+      "title": "Why I Came to Vote in Israel",
+      "source": "Jewish Journal",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdEloSHRvWlI1cVBQOFJZbUY0VHh1U3U0X0ZQaEtGQjAweHRRZDZVZDdBbHNWd2o4M2JqMmZiZTV0dXE1TXZPVnNMajdzUGdaWGR3NGRjdXFvb1lidlVwS0IyU1g2c1RObV9WVlpsZ2cxc1pDc1RNM2wwZjRWcjFUSjg4QThMRU9sZmtn?oc=5",
+      "publishedAt": "2026-10-28T16:46:59+08:00"
     }
   ]
 }
