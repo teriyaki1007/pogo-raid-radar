@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-10-28",
-    "asOfLabel": "28 Oct 2026 ~6:35 AM HKT",
+    "asOfLabel": "28 Oct 2026 ~10:35 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE since Wed 28 Oct 6:00 AM local: Giratina (Origin) 5★ (through Tue 3 Nov 10:00 PM) + Mega Sableye (through Sun 8 Nov 10:00 PM) + standard 3★ Cofagrigus / Trevenant / Dhelmise (GO Hub). Halloween 2026 Part I costume 1★ still LIVE through Sun 1 Nov 10:00 AM: Pikachu wearing a hat and capelet + Sinistea wearing a bow (shiny debuts). Shadow Landorus (Incarnate) + Shadow 1★/3★ continue through Tue 3 Nov 10:00 PM. Raid Hour tonight Wed 28 Oct 6:00–7:00 PM local: denser Giratina (Origin) 5★. ENDED Tue 27 Oct 10:00 PM: Palkia 5★ + Mega Charizard X & Y + dragon 1★ + Alolan 3★. Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM.",
-      "endsAtLabel": "Halloween costume 1★ → Sun 1 Nov 10:00 AM · Giratina (Origin) → Tue 3 Nov 10:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Raid Hour Wed 28 Oct 6–7 PM · Chandelure SMRD Sat 31 Oct 2–5 PM"
+      "text": "LIVE: Giratina (Origin) 5★ (through Tue 3 Nov 10:00 PM) + Mega Sableye (through Sun 8 Nov 10:00 PM) + standard 3★ Cofagrigus / Trevenant / Dhelmise (Leek Duck / GO Hub). Halloween 2026 Part I costume 1★ still LIVE through Sun 1 Nov 10:00 AM: Pikachu wearing a hat and capelet + Sinistea wearing a bow (shiny debuts). Shadow Landorus (Incarnate) + Shadow 1★/3★ continue through Tue 3 Nov 10:00 PM. ENDED Wed 28 Oct 7:00 PM: Giratina (Origin) Raid Hour (denser 5★ 6–7 PM). Chandelure Super Mega Raid Day Sat 31 Oct 2–5 PM. Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged.",
+      "endsAtLabel": "Halloween costume 1★ → Sun 1 Nov 10:00 AM · Giratina (Origin) → Tue 3 Nov 10:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Raid Hour ENDED Wed 28 Oct 7:00 PM · Chandelure SMRD Sat 31 Oct 2–5 PM"
     },
     "legend": {
       "standard": {
@@ -1403,14 +1403,14 @@
       "id": "giratina-sableye-oct28",
       "when": "Wed 28 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (Giratina LIVE); Mega Sableye through Sun 8 Nov 10:00 PM (LIVE)",
       "title": "Giratina (Origin) 5★ + Mega Sableye (LIVE)",
-      "impact": "LIVE since Wed 28 Oct 6:00 AM local. Standard 3★: Cofagrigus, Trevenant, Dhelmise (GO Hub). Halloween costume 1★ continues. Raid Hour Wed 28 Oct 6–7 PM.",
+      "impact": "LIVE since Wed 28 Oct 6:00 AM local. Standard 3★: Cofagrigus, Trevenant, Dhelmise (GO Hub / Leek Duck). Halloween costume 1★ continues. Raid Hour Wed 28 Oct 6–7 PM ENDED.",
       "urgent": false
     },
     {
       "id": "raid-hour-giratina-origin",
-      "when": "Wed 28 Oct 6:00–7:00 PM local (upcoming tonight)",
-      "title": "Raid Hour: Giratina (Origin) (tonight)",
-      "impact": "Denser Giratina (Origin) 5★ raids 6–7 PM local (Leek Duck).",
+      "when": "Wed 28 Oct 6:00–7:00 PM local (ENDED)",
+      "title": "Raid Hour: Giratina (Origin) (ENDED)",
+      "impact": "Raid Hour ended after 7:00 PM local on Wed 28 Oct. Giratina (Origin) 5★ remains in the normal rotation through Tue 3 Nov 10:00 PM.",
       "urgent": false
     },
     {
@@ -1445,7 +1445,7 @@
       "id": "halloween-2026-part-2",
       "when": "Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM local (upcoming)",
       "title": "Halloween 2026 Part II (upcoming)",
-      "impact": "Dates listed by Leek Duck; raid details not announced yet.",
+      "impact": "Upcoming Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM (Leek Duck). Confirmed: costume 1★ Pikachu (hat+capelet) + Sinistea (bow) continue; Mega Sableye can reach Super Max Mega Level + Night Shade+; Shiny Greavard debut in wild. Full raid rotation TBD closer to start.",
       "urgent": false
     },
     {
