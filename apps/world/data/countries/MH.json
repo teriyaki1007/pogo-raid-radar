@@ -1,7 +1,7 @@
 {
   "iso2": "MH",
   "name": "Marshall Islands",
-  "updatedAt": "2026-10-28T17:12:02+08:00",
+  "updatedAt": "2026-10-28T23:04:34+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,22 @@
   ],
   "headlines": [
     {
-      "title": "Typhoon In-fa Located Near Marshall Islands, Expected to Reach Mariana Islands",
-      "source": "The Japan News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqTVhVNjZPbHhwWHdGOXpIbThUdnBEbE55Nmxad2dYT0wybUVpWi1tckFJekcyQU1oSmFDUXpXSjB1RENDM1h2cEhRRU83OTNxd0NlbmQ2N3VWbW95THFMWkgxbnR3d25lREl4b085c1BxUEFXUmhJTA?oc=5",
-      "publishedAt": "2026-10-28T15:59:00+08:00"
-    },
-    {
       "title": "Envoy to Marshall Islands departs after National Day drag show proposal",
       "source": "Focus Taiwan",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1faWZZSkNzOFhWNlJ2M2dwMF9pTkdPSFl4eEZyeFRsRk53UmM1d2hqZHl5QzAzR292NzUxalprdTh0MUJIUXdzNXhZT0hXWEV2UFBYX0cyNA?oc=5",
       "publishedAt": "2026-10-28T15:09:00+08:00"
+    },
+    {
+      "title": "Typhoon In-fa Located Near Marshall Islands, Expected to Reach Mariana Islands",
+      "source": "The Japan News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqTVhVNjZPbHhwWHdGOXpIbThUdnBEbE55Nmxad2dYT0wybUVpWi1tckFJekcyQU1oSmFDUXpXSjB1RENDM1h2cEhRRU83OTNxd0NlbmQ2N3VWbW95THFMWkgxbnR3d25lREl4b085c1BxUEFXUmhJTA?oc=5",
+      "publishedAt": "2026-10-28T11:59:00+08:00"
+    },
+    {
+      "title": "USTDA supports mobile network upgrade on Marshall Islands",
+      "source": "Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcTRWbzYxY2h4TGZpWjdBX0ZyR0dFOWlPSWllcHpob1RKRU5GZ0tJTExfY0M0YV9oSHlPMXEzNFZwXzNYeXNoWDdNdXRrRFBKMTk1VlQ2bW50Z0NrZzJhajR6VVowX0hDMVBrVXNid1dsVkxfY3BQMndoMmN4a1Z6MndZeFM4OUJfbjk0WHIwdWp2UHRRSTNrRTBoNXowdW4wU0E?oc=5",
+      "publishedAt": "2026-10-23T17:06:03+08:00"
     },
     {
       "title": "NWS: Invest 97W developing over the Northern Marshall Islands, could make its way to the Marianas",
@@ -54,28 +60,22 @@
       "publishedAt": "2026-10-23T13:00:00+08:00"
     },
     {
-      "title": "Kapiʻolani CC, UH Mānoa partnership drives student-led impact in Marshall Islands",
-      "source": "University of Hawaii System",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTXFPemlySDRkSUVqa0owZVNOb1dHVGZreHVmbUZEelpYZmpFLV9vY1JMZWx0WVVILTdzdVRGajhLWW1lbm5kREpkLUF3eGFnTWEzOFRUM0FzSkhTV0t3alc0TGdkaHhyeGZhNWd0ZFZLQ2JzNHRIbm9UM211X3g5N1liZlU?oc=5",
-      "publishedAt": "2026-10-07T09:48:15+08:00"
+      "title": "Marshall Islands disturbance may become tropical depression, track uncertain",
+      "source": "The Guam Daily Post",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNN01fNnhRS3BMUTNnTEI5OGNRS3dUWXAtWHBqaUZRaFpKSWFFQ3R2QnBPcHcyZXRNWXFHdmtnM01jbWpydFI1M0YwLThtQUFBWF8tbVdITEk3aVhPREV4TDVLQ181bFprN3BDaDZGOUxOeUhPbFpsTldFZXM1dVZJS1RDczRGck9BWEY2XzNvczdFYjJsQVF2MHB0bzI2UXR5YUplUHVhS3VjTmVoTEVvZ3BXZXZOOS0tR2pOWkRvZElHY1ljNk91cDY3cU9DZHUzS2d2Y215MUVvajBSQWhsUUJlX2EyOUo1aUZZQ3R0eGlSck0?oc=5",
+      "publishedAt": "2026-10-22T22:00:00+08:00"
     },
     {
-      "title": "UN urges more US action on Marshall Islands nuclear legacy",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1g4SGhucDBYbEZFa1E4WFFnbHlkQjJYemIzT0Nid2NrbDJ3eV9aa0IteFVYNHRWZ3F4blo5cEtxSUVIUW51bHUxeUV0V00tS1BZZmpmVzd1dWozSnFIRHZ1NFVBcUNjaGRiTkp4VjJfSlBXN0JsNmRPVHI0RzFoNWxuaWVnR0czdTBMWE1xZjJxMVNILW9udi1MeVk4RnlNVFFta3MwQVQwcV9mVzVj?oc=5",
-      "publishedAt": "2026-10-02T15:00:00+08:00"
+      "title": "Marshall Islands dengue outbreak in Majuro & Ebeye",
+      "source": "Outbreak News Today",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9WeGJYNkl0T3k1aWpzNVdmTE1RMHl4Umx6THlnYVctaDFqM2NuYXp6RjNjLUV2SUVQVkVKQzdQSHBzRG9HVmV4eW9ORE8xeHRUSGd3djcxMW5xNC1USFk2WnBBcmd0WGNrRE5hRGYxSl9uei1QclJqU2dCS1NIQQ?oc=5",
+      "publishedAt": "2026-10-20T22:12:58+08:00"
     },
     {
-      "title": "World News in Brief: Marshall Islands nuclear legacy, FlyDubai attack condemned, Ukraine update, breast cancer treatment expanded in West Bank",
-      "source": "UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2MTNRMEZBX3diYWJIQmpZSnhpMDhWNnFjRjgxaUdSeFlGMFNvTGhaVHRiUERTUGVTbEFWa1pXUUpLZWJUYWE1QTVVSk11UFQ3blFUSEo2TQ?oc=5",
-      "publishedAt": "2026-10-01T15:00:00+08:00"
-    },
-    {
-      "title": "Marshall Islands: Eighty years on, victims of nuclear testing still seeking justice",
-      "source": "ohchr",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUXhoNGFKZzF5U3JQMmFfTElrUjZXN1BqT0RpVnZFTVUxZWFSWmVqMTFrM21ETThYQlpZRExwU3hIdzhhSThJc2kxanUxTWRVVm42MDA3MU9ReWZTa2dUVlBxUjNrLUpER3JuelhwU1kzbW5FSGszT1loUmVZYS1IeFdMOTAwQllHQzFvQ255RzlQSF8yQUd6RGUzWFdoSVpuRDJWY25maHB0QlZtdEFwNHQtYm5xWG8?oc=5",
-      "publishedAt": "2026-09-30T15:00:00+08:00"
+      "title": "Human Rights Council adopts resolution on nuclear legacy in Marshall Islands",
+      "source": "World Council of Churches",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGRKT2xvQVFBVzFSYlZUUzFjLTdzS1F4VzVPV05Db1NpM05jRDZCZHRONEVpeGRaSTlCVVFsemZmMXVIUlZmMkFsWWU5Q0FJRnhuWXBYcEtFa25fUU9xWmJ6MmJzNEk5cWFWYTlNd0FBeXI3STZfd3BkZXMtaHZRUnRKS2FqbWhVZXFubWtFbGpaYjJ3UTlocHBRaWVDSkJ5S2JBbk40UnIyUUU?oc=5",
+      "publishedAt": "2026-10-20T16:24:01+08:00"
     }
   ]
 }

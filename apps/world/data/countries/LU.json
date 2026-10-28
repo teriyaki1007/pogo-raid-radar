@@ -1,7 +1,7 @@
 {
   "iso2": "LU",
   "name": "Luxembourg",
-  "updatedAt": "2026-10-28T17:12:02+08:00",
+  "updatedAt": "2026-10-28T23:04:34+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Luxembourg parliament approves tax reform to boost take-home pay from 2028",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQjhvOHNhR3I3amFvVVIxRU9ZMnJwZDN3RjZHRE8zcVRRcUhwN3lsSmVXMjB3OGRFOFROb1dxbEl5dV94VnIxcGk2SXZoMXUtWGswLWhfSWMyOXR2QUtVdUVZbXd4bF9qbWhmVXBWY0lyLU0ybUZOSXVDWjdSVnlneXJNV19YMTI4XzdBTzdyQ3M4LWluRUZocE9RSkNwVU1fLXpCeTNmNmdFVzV3LTJGRDQyT0dxRkpCUjc2MmlYWW05dw?oc=5",
+      "publishedAt": "2026-10-28T22:16:36+08:00"
+    },
+    {
+      "title": "Live-action and animation: RTL and Film Fund Luxembourg launch joint call for TV series projects",
+      "source": "RTL Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaENEUGUzWmRlcDB2QllJZXRGX2xNMUJxYl9kdlV5QnVqRFczcFJLWWJ0SlczOVk3WUZpTVB6dEI2SmQ3T1pFTy1ueElhdjBCb3JyekZBdDlYUHRDeWxPRkxxZ01ZMllkUnl1ZzVNbEV1NnZNS0IyRmVPYnJDV3FHdklEY1lGVmQ1X0RkaVp1NlZQbTRleHg0SEJjdHNJOXo5bEpBMFpFQXVNaVBDTWJSNTdTelhCYWVU?oc=5",
+      "publishedAt": "2026-10-28T21:37:21+08:00"
+    },
+    {
+      "title": "Luxembourg’s public funding on space grows as businesses start showing promise",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1VfRUl3REpMb2cxdEZHYkxCdlJrWmlLcE9ZX0ZkeFYxMmZ5aTRwWm9fT3FjY2ZUOXgycjlDcUQzb2JXc2hBVmZoQmJZc3BnQ2x1SnVObDZ5cG1DY2lqMk93VDAyMURUb2hOdkVkUTZNeThnTVRrMzVmOFUwdjctckoyMndka0RNeF8xNW5RektPU21JSmpuS2w3S2t6UHRJbUduZ3ZSbFB6Y21RdnNNbXRWRVFhYzJxcWpZdWxZcWliUFdycW1mN21neEVqWU9h?oc=5",
+      "publishedAt": "2026-10-28T19:39:55+08:00"
+    },
+    {
+      "title": "Clearstream to enable issuance of tokenized fund shares as Luxembourg control agent",
+      "source": "Ledger Insights",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVjUyTk9tMFZ1V2JMUTduR0huLWFGSU9ScXNiY0RfNDkzQUluT0pjT0ZzYU92cUJFck1BeXhfN0V5TmtHNVQtN1VmZEJTN3lJRUNCeGpDRmp1Y1c4bkY5bXBVcTRiQ0FMVU82YjFHeEs4UkNHN25JRG5SMjFVakVjN0R5djdGZWRMWGhDT3AwdnNUUzVIMzV3Zy1SNkJrMHQ5blZJdw?oc=5",
+      "publishedAt": "2026-10-28T18:55:05+08:00"
+    },
+    {
+      "title": "Clearstream to propel tokenized fund distribution as authorized Control Agent under Luxembourg’s Blockchain Law IV",
+      "source": "FX News Group",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVTR5Q3NTVlZmOTUtdVpRdW1OOEFaOXF1Z2xDTjR1cEJ6NEp6VmgtRUc0aGYyeFlLS3M0SGNaZHRYUHJZemY4VWUtZktSa0toWUhnczM1Y0N3OWl1OUNZTHF2ZUFhNzdLSWt1dllNTnJMZjhucHo2aW5IVXFYdkxpRU1GOEVFTVpIaWhtbm5jemVyczhPRHdtVXZ1ZHU4NkI0WV9KRTZ3MmFHd1ZQdk1URkd3aTFyRnRvUks2dldPN3hMVGJoTXFqbzJpRUsxdHpVU05ocUhzS2tlRjg2Sk8zS09QczNDNkQ2UWlIYWZaRzlVMUVJaFE?oc=5",
+      "publishedAt": "2026-10-28T18:31:46+08:00"
+    },
+    {
       "title": "Space for rememberance: Schifflange inaugurates Luxembourg’s first park for mourning",
       "source": "RTL Today",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSHlnWVNBVlJpem1QRThDclFQMld2LXJzRFVIay1WRnlNaDRSUUtvb1E5bVJuOHVjbjZTbTRpZUhKdlhQN2hVdWtPMFE0azZHMXlmWmNhNnQ3MjB1UF9faHJTTjQ1c3JEazBzaE9fQlFQa2hWaFNyNWlnc2RlbVVlV0tVcGk0UUg4TG5sY2FzaERvNXhYMjA3UjdvcVJXSUVHdnhSYTdqUnQ?oc=5",
@@ -39,43 +69,13 @@
       "title": "A new rail freight service between Poland and Luxembourg, with four weekly services",
       "source": "Railway PRO",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN0pFanBiMjlSeGFvUnc1MmRYOVZkMjA0LVRrNkVSeUtIY0QzMWFXbHRxdkRQZU5ZczdxZHhPTXFmdklWUVNfc0VQaXZpMkdEZEIxcWZEN0FZcjdMekhnOHhkU3F6QWlkOHQtbmxia1hIU1lfN1k4LWp6Y1N1azBTajlzSFEycmtrN0VyMHhRcGs?oc=5",
-      "publishedAt": "2026-10-28T15:50:17+08:00"
-    },
-    {
-      "title": "Luxembourg overtakes Germany as top study destination for students",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXp1QWhoU01CUHlFMnU4cFFGLVA2NlVuNnhrTEVtUUF1LWVOOUJFaldkd1RDak1lcnRzbEFkLWNhcUpERGcyZkZZaUh3UzRKaHgtZWNtLWpnTW1sd0h4NXg2S2VvWUdtSy1xM01Jamt6c3h3dzdueU1DLWczbjNPNkhQbDJHWHhUaURVbVpxem1QQjJuY2JzRVVUQU1LYzlBcThqUDNuemt6ZUtWMElSN2YtUGI5M3M?oc=5",
-      "publishedAt": "2026-10-28T15:47:12+08:00"
-    },
-    {
-      "title": "Commuters beware: Tram service suspended all day between Luxembourg-Gare and Howald",
-      "source": "RTL Today",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYXBZMTJid0RKc1FIR2NxM3E2d1Z0aHpadm5wZzNkUWlDMDdCU0UzX2dta0xyMzBNTTltTXpUM0hZSFlQLUNhR1lLU2RzZW1QTlFKNFRkZHlnbmV0dEhNRXZHUFdjcU5DZUNhUFJIZ0hoZnFFTnRQbHpiT2tjV1NwMm1keElwQjVtdUhESE04YllYYnpXTWR5MTRLaUdLZ0hTSHVteml5XzJjQzVzTEgxcUJzSHI?oc=5",
-      "publishedAt": "2026-10-28T15:27:14+08:00"
+      "publishedAt": "2026-10-28T15:54:36+08:00"
     },
     {
       "title": "Promoting Vietnamese goods in Belgium and Luxembourg, expanding opportunities for cooperation with the EU.",
       "source": "Vietnam.vn",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSzBqdTJBcDF5cjMxd0F6Q2VUZmZacmRVWVh2VFpERFlSUzRfUnIxYWZTUUF5REpFSGZhSHhOT0E0ZE5nc1FFcnh5djVsY0R4QkJpOExSTHN6M1BDaDRtVmdfbmRSM3I3TWhtQXVVeFVWTVBaRkxKQVNaX19lZk5WQmpnWkpVS25zV3dkVnhPRWRELVdScEZN?oc=5",
       "publishedAt": "2026-10-28T14:28:46+08:00"
-    },
-    {
-      "title": "Luxembourg’s public funding on space grows as businesses start showing promise",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN1VfRUl3REpMb2cxdEZHYkxCdlJrWmlLcE9ZX0ZkeFYxMmZ5aTRwWm9fT3FjY2ZUOXgycjlDcUQzb2JXc2hBVmZoQmJZc3BnQ2x1SnVObDZ5cG1DY2lqMk93VDAyMURUb2hOdkVkUTZNeThnTVRrMzVmOFUwdjctckoyMndka0RNeF8xNW5RektPU21JSmpuS2w3S2t6UHRJbUduZ3ZSbFB6Y21RdnNNbXRWRVFhYzJxcWpZdWxZcWliUFdycW1mN21neEVqWU9h?oc=5",
-      "publishedAt": "2026-10-28T13:39:48+08:00"
-    },
-    {
-      "title": "In Luxembourg, Canada and Partners to Formalize Future-Focused ‘DSR’ Bank",
-      "source": "Fintech.ca |",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT1VfNmZ5bDlndmRXRlMzVVo3cTVGLVlNTE4wUThMQnNFeWdrOG16bk5Qck5PbkVQaWlfb01SWW1HcG91VHBKWkdfNXdqVWxVRkZkV2hOcy1GSEhNUHZ6VW12SktGMGpjY200X0lURkRVM050dnpDVTN3Y25JTlBCOXIwaUxEakNyY01r?oc=5",
-      "publishedAt": "2026-10-28T04:07:50+08:00"
-    },
-    {
-      "title": "Two Bulgarian films win awards at the CinEast Film Festival in Luxembourg",
-      "source": "БНР Новини",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOenZvOVNrNGRPSGpDSHk5dndhSnZCcElPajljSjF0d3Y3c2xHck5Ddkh1dkl2TlZmX2lEeFp0VkZzWk5qWWwzcjR0ZHItVGh2X2lSbEgzb2ZWcHl0RFJJZGJEOXdVSkY2ZUVyTXdGYTFpOGRISi1JRXJXbmJZREViTnJVdHJrNm5jS0lzM1dDWmljM1pTOHlfRWtOTWM5b29iU2dGUUlSakx1TXc?oc=5",
-      "publishedAt": "2026-10-27T20:43:28+08:00"
     }
   ]
 }

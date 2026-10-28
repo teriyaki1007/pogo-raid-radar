@@ -1,7 +1,7 @@
 {
   "iso2": "AW",
   "name": "Aruba",
-  "updatedAt": "2026-10-28T17:12:02+08:00",
+  "updatedAt": "2026-10-28T23:04:34+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "Aruba draws record crowds as families look for ways to save",
+      "source": "The Seattle Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUW5MZW02dnRoYnR1N0hfcWFRREdKcXdJM0w3cW5adXJYMC0wak5iVG91Vm1wU0wyLVloZkJLOWpUNWZyV28xNTFQOTJmMHYwY0VlaVhpMWdRTmdWay0tVERrSmhaSVNvUng4TVlUQVhxMVlGWjRKeERUOVpESkxKUm5RX1VxRFZtaC1tS001d0taejNudlR0STczcGZQbE5qbVBrN3BGNGs?oc=5",
+      "publishedAt": "2026-10-28T22:04:09+08:00"
+    },
+    {
+      "title": "Porter Adds Sun Vacation Packages to Aruba and Costa Rica With Partner Transat",
+      "source": "The Joplin Globe",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQNkJiWlBTLXRDT2xFVGFVV3RXSTI5MnpURVI5ZXdXcV9KRVZhZjlBZVR1TWxwYWJHYXJTZnEwZGctaGZhb21ZZ1J4Vk5yU3JTVU1uMGRrNHVlRUlZSTJFaEhOUHN5OUMxVC02S3l6SUlNTnVvUjNvUU5DUHNaMUN0Ny1kSkktak41WXgzaTRDdzZZSnNSakZCR3l2SUdJT3k0SkhBRmNSejZfNS0xbVNTcV9SaTZuX0VCTWZyZGVSZURiR3QtamNvNm5MLV9WZjdJWnVFWU0yd3k4QTZNMGFXX1dvR2EtZEVHWGhwNnNMR2FicjdWaXJUN3ZpWVIyS1pRelU0RXpHYkFaWVo0Nnc?oc=5",
+      "publishedAt": "2026-10-28T21:02:03+08:00"
+    },
+    {
+      "title": "HPE introduces Mist, Aruba Central support in SD-WAN platform EdgeConnect",
+      "source": "Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNUpHc3RfOXVveW9TdG9iSEVtYnl1eFVxdkg1b016Q0NIS1lpRGR1NlVMYmlTNm5GLTg3SDNobS1keHotNjdrYVVxOUNPcEY5VV82SFVRbm10dEZLZ29oc25KYVB6d1p6cE5teTFScmJfNGhhTGVVR3JUc2g4LWo1S3pyTGFMYjVaal9jY3BoWVlQeVdBTHU4QzJTMWUyMjdDMWpCV1k4azZ0dEtySUhhdzFsMkYxQQ?oc=5",
+      "publishedAt": "2026-10-28T20:50:09+08:00"
+    },
+    {
+      "title": "Aruba and Asseco announce the establishment of a joint venture to build Europe's single market for c",
+      "source": "Aruba",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa19LbEhBTzRmWVM0RVVGbEdIV3k2LU5tZXJ4MUtjVjhvcWJVQnNjdmljYXlBVVhxSHBJclZSX1JzV2p4OFJmNmdFR3E1a2s1MGNDOHFQNzN4UGRzOGlRNmxwNEFyS2hmMnhkdmFiMEpwLXN4UXhfdmJVREVhSnladm1UNFlrWWpOcTJ3ZkRfUEZqdFdJa2tEOWJzakRDdXppYzlN?oc=5",
+      "publishedAt": "2026-10-28T20:03:29+08:00"
+    },
+    {
       "title": "HPE integrates EdgeConnect into Mist & Aruba Central",
       "source": "DataCenterNews Asia Pacific",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLUtTT2YzSksybFVKcUFWUlh2OU0tRnZOT2JSVFFIVUZWY283SGI3UnFXSnBIc0ZuOE05V0t0bFh2QXhsSk9zQW9iaUVSQ3dnSWtsSTBrNWpwV3paQmJ4dEZXb2c4VGtTbXNEaS1OMGFFSHVHOU4tWkxVY1FjZkhzS1FWMWxHSDdBQ1RWZ3NFU0l0eEVjN1FwcGx3UjZ1dVRHdV9RZGsyeXZDZnRhYi1sNk4wM1BZOGZxeXNqbERn?oc=5",
@@ -52,30 +76,6 @@
       "source": "Aviation24.be",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOGo0UXJ1RUVzUllYaG1NMHkydmlPdU5LODE1TWI0RzVaNWR6R1loa1d1dmpxSDJGUFdRSS1BQnk2NGtKRGpQbnd4ZkxRR1NfV2hKUXhVelVodENoMndUQXAwYzMwM1NZNWdvZV9wMEFpa3pYYjNVMWNfampZeUo0S2p6Vk96cTYydDBXX2ZHSE1tY1J6X2FzQ0pnWFd3MlhLQTZPbWlIbkQ3M1FQeFBpWDFVVGUybnJ3el9BOVRhUTRRekMtU1BEWWRLT3ZXLTDSAdQBQVVfeXFMTTgwUjlSWDcwQWU4dXFzQlRTQU45QXgzeDFwMHZ0WEdVeV82MEhackltb2ZNdG1FQ0d1NTNhLXFjeEpFX1phWkV0RVhNRE1JTzdIOUxMWlFGTG01b2lKWlFQcUJudDc1U3BJamJoLVJTS3c1MVEyeXpEeEZyS2FWOVN6enVCSXU1Mm9saWt0TFBWbEtiQmd4M3hzUi1zU2dOVGJGTmxCMXRnYTZBYUMwWVdFanRDdWdhU3RkVUpEUVd1Q0JIRlFsT3F6RmlNOHRzNENwSkE?oc=5",
       "publishedAt": "2026-10-28T05:44:04+08:00"
-    },
-    {
-      "title": "Hewlett Packard Enterprise Announces Integration Of HPE Networking EdgeConnect With HPE Mist And HPE Aruba Central",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS1BwMUx3VXZVTjNjUFFQc0tjLWdtOUFvaDd6QmdReUkwcVRBN2JYbzFwbm9kWERtazJGU3JubnQ4bTRubE8tMW5FRkdJTXhFTllRR2hOYVMwUXRNVlp2cEpDR2ZCLTA1WVZ2SHFibGRneEJSamt6Z2VBMlEzT2NfZFRyTV82bjBJRkkxVS1EMGpMWWVKTV9rVlRFWFVLX1lGOGx4dFFmT1o5bmdaUTZXSDh0UDZIWTgyWmgzQ1lRWEVydUtMdURHcDdia0FTSk5WbHdWNmZhaVdiQS00N3hHSVNQVmJUMG5h?oc=5",
-      "publishedAt": "2026-10-28T01:20:52+08:00"
-    },
-    {
-      "title": "Wellness Takes Root in Aruba",
-      "source": "TravelPulse Canada",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBuZkt2ZUNqNnVXaE1Vbm9jT3RpZklObkpyU0l3dXBSV1NGcEZpRkwxREQxNGlQNm5Da0hETFlyZWxZT3d4a2xjQ1k3b2VPLVFsZnhiNU11ZzBuOTk2RlU3QmJ1R0ZwY0YzT3poZFY5M1E5WnZLMXRacA?oc=5",
-      "publishedAt": "2026-10-27T23:25:00+08:00"
-    },
-    {
-      "title": "AFBA advocates for a balance between a living wage, business sustainability, and job protection in Aruba",
-      "source": "EA News Aruba",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdW5RSWRQeTJoTUpGODBtQUtXVXNNaXFKc2l4U1h0T3ZNYW9pZmFZZ1ZhY3kySW1FMWFueDlINm1nbDJZX01LZVZpcm9vN0FSa3YyWDhtZi1YMm9HNWgxcjU3bkt6WklXTEhySlQ2bURVWU8wcXpxS3VQSXFoWjFEcEg0ODhyaEE4VUM1VmRXT3FWOUlvdGdvNmxNRnpXcGMzZVpXS3F1c3paR1BQcjlac3ZaRlA4RTNnRXVrSEhfSXFBdlhQ?oc=5",
-      "publishedAt": "2026-10-27T22:37:55+08:00"
-    },
-    {
-      "title": "HPE Networking networks EdgeConnect SASE into Mist, Aruba Central",
-      "source": "SDxCentral",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOW00RWgxNmJISHVmR0dnX0w4RHk5UlhaWExuSnZzZXpsQ3pWaEUwMjA4UjlZNDI2YzBSeUVodjdRbW82UlcxMkFrUkdEdTNIb09DQTA5cWhaU2JDNUlRR1l2ZDRIY0dEOGdNOXVLMXduNmZaeFo0YU1QRWUyYmpvQk5uM1BRWjBBeXlZWG5xdDh4VjA1V0cxVXAtanV1QQ?oc=5",
-      "publishedAt": "2026-10-27T22:26:57+08:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "iso2": "CF",
   "name": "Central African Republic",
-  "updatedAt": "2026-10-28T17:12:02+08:00",
+  "updatedAt": "2026-10-28T23:04:34+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,12 @@
   ],
   "headlines": [
     {
+      "title": "Central African Republic: Special Criminal Court, the Last Hope of Justice for Thousands, On the Brink of Collapse - New Report",
+      "source": "allAfrica.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOU0w3VnY4QVhTWDNfV21TVXFZbEJsZjhLN2Z6OWhzM2U2M3U1Y1g1cjV4SEZxVm5SbWZKQ25hRWVQMWdjdUx4M0dSalRiMEhBNV9Sb05DM3BGczA?oc=5",
+      "publishedAt": "2026-10-27T12:53:58+08:00"
+    },
+    {
       "title": "“The Perpetrators Are Still Here”: The Central African Republic's Special Criminal Court on Borrowed Time, As Victims Await Justice",
       "source": "Amnesty International USA",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYkNkOEI4NWN5dkRkeUJSRmNiMmtjQ3RNd1BHWjBWUGFEbUUxRHBfMW1hQ002dnFMU0FSSS1xeXQzT251cnlDWUxJNXZPY0Y3MTNWNWk1dGo5dUhkUHdSdVJTX3gtUkN3dTFKSW55VmpBU0kzUkt4ZndKbTJ0VDd0OXBsX2RtMmhjRldwU2xRei15RUcyYTFwdFNCbFRFaklnTW5yOFJoZEJtZkcyMlRyd3pOWkNpNGN4TzVhZTBZVWhZaVgweWdBOXg2cUpvcUVXS3BKWTJDdHpkUnFaNnhWbEJtX3BjT0t0LWZ4SUsySXhfWGF1?oc=5",
@@ -42,16 +48,16 @@
       "publishedAt": "2026-10-25T01:54:49+08:00"
     },
     {
-      "title": "Central African Republic: Overview of incidents affecting humanitarian workers (September 2026)",
-      "source": "ReliefWeb",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQnUyaWZDZ0xBYlhjQTIzdHVoR1NaUGZnblpkeVhKaEZxakFaSWpITDBrV1F5aHg0YzN4NVJIV0V0Um4yZ1F0VXp0SVlIbHFrVzNrWThJV1A1cUx6SWRXLVJBNFRKd1Z0M2pyZHRaUmZmdzBPLTN4RUhpd0FVOWUyOUY5eEkwQWNGdmlXdlZhbzN2c3ctSjIzVC1VT0FuM085Sm9Fck1qeWJXMjdhcXM4RDZZS053dUo3ZndYRDhIZ2tPZXU4aG00RVRPMUNtNzJ3d3pTUkJpNHBfZlE?oc=5",
-      "publishedAt": "2026-10-23T23:13:47+08:00"
-    },
-    {
       "title": "WFP Central African Republic Country Brief, October 2026",
       "source": "ReliefWeb",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbHpnVEtZc3N3THVBZlpfNzV3UGUxdG43Tm9rWk1SY0lObWFXLWxNMUlRSHFJUVVBLUtKUFpxNTVXcVFpVk9IVVhULTJ5c2lGaHhuWGRHRjNDZEhGemQzb0NwcUdvcE4zV3dCbUhsRjkwMm95QlJBRm9YS25zYTRDdTgyUl8yc1lvaERsQjJ6d00yb2FhcXVydjI0c2hFakJnQkY5eXZZcl9PVlItS1E?oc=5",
       "publishedAt": "2026-10-23T02:25:21+08:00"
+    },
+    {
+      "title": "Central African Republic: Situation Report No. 90, as of 20 October 2026",
+      "source": "ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS2NWMWktckdtQV8zeFdpZk8yV1J0RlNVSFQ1Y2lfc0tRc3NlYWdvR1Fsb3V1bjllX2xsdkJkaXZ2eTlfaWNsSXZndDRNc2ZSRGlGWWVvTVUyV2IzS2tIemxsUzEtTG1pZ3oyTG1iZHBGeHE4elNmQkZKRnN1YXhPRkhrQnZOZ2RPakJ3c3hvN21HOXFMOTZwalRNRjVYNFE3MmFnZmFtYXYyZ29qQ3MxU1VMa1pXd2Jx?oc=5",
+      "publishedAt": "2026-10-22T18:56:52+08:00"
     },
     {
       "title": "Secretary-General Meets with His Special Representative for Central African Republic",
@@ -70,12 +76,6 @@
       "source": "GOV.UK",
       "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOcTk4YUVRcXJ0MEFxWUZIazJaODFxQnY2cDZ3NXpkVmh2M1pZMXNJZGx4WGN2T2s3Vzd0R2JOQ0llVmNJc0JwdnFndTFGbW9RcjBISWFwMVRWYTR2d2R0WDY0dllKcC1uai1uZGtJTDk4Y2w2SnlLa0kwN1g2VGNZdUVSR0o4MTVabkxKMEhKY21YMG54My1tQ01BTzROak5BX1AxZ3gyaFhEV0hUQW13UTJZa3lQVUVpNXA4NnhtQUVFelY5QUlNMlpWdmVKazRkZ2d3VkdRTm1QWkJzd0Q4UnIzX2cwRzZxbFVUNjhsNnptdi1aRlFqbEJ3OWp4VUV4RlRwMGMtMlZHUE85VnRlOHhFY3dQSEhH?oc=5",
       "publishedAt": "2026-10-20T23:46:00+08:00"
-    },
-    {
-      "title": "Central African Republic: strengthening women’s leadership, from training to economic autonomy",
-      "source": "Intersos",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbXNpVDdSLWVNTnM2TnZwZEhVdzRVWHFWQkdXUmlydWtVN2M1Z0FSa1lUTnJDUzlwUDBwc0NvMjhsc3NvVk53RVFsM0g1RmJpUm55R3lFTkJxN0xwYUdyY1ZieUE4dHF0dE4zZEtyX1VWcmJtanBkVnFXQmF0a09wRHA5YTU0dklEYV9Ia1hCOFBLeVlxZVdrVlBCbUwyT1pObFdQUTQxSjl0bFB6elo3UTVObE1BV3dkUFpuaw?oc=5",
-      "publishedAt": "2026-10-20T22:26:32+08:00"
     }
   ]
 }
