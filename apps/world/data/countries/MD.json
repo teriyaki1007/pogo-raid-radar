@@ -1,7 +1,7 @@
 {
   "iso2": "MD",
   "name": "Moldova",
-  "updatedAt": "2026-10-28T05:04:48+08:00",
+  "updatedAt": "2026-10-28T11:11:13+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,16 @@
   ],
   "headlines": [
     {
-      "title": "Romanian firms create 12,000 jobs in Moldova as trade nears €4.5B",
-      "source": "Radio Moldova",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQmdDMnJZbkp0aGpWZUpsTVhCQ2xBbzdEMEZFTGV2b0pSSVNRME5YZG9mWGNqLWcxZlp1THoxUzlfbHdtcl9zSS1ja2g0UmkxTVVMSzJfVXdrNHhxdlNaelFobjdwRGxKSjNESThKcGg3WURHamN5cG4wQlJaWmpldDVZUFNtMjl3U2xYRXhraHhrSzJuOWJLTmY3OWU?oc=5",
-      "publishedAt": "2026-10-28T03:09:48+08:00"
+      "title": "Gunman sentenced to life in 2021 shooting of Phoenix Police Officer Tyler Moldovan",
+      "source": "KTAR News 92.3 FM",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUcnlkMXNzV1FMNFp6X3lvSWxhLU00dHNPVlRXUDJSMU9tRXZLZWpNamhWRDV5eEdnZ0tMV2JfUllwN2ptS3ZNYWlWMXBiZ2VsaEowcTVvNWFFU0RpbUwzSmhzb2VjUlJMS2I2MTZMUXY?oc=5",
+      "publishedAt": "2026-10-28T07:59:20+08:00"
+    },
+    {
+      "title": "RFAs: Women- and Girl-Led Community Initiatives for Crisis Management and Social Cohesion in Moldova",
+      "source": "fundsforNGOs",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMmxRMEw2WXRtX3VxUHYwR0lRcTFyWWRMY044LW5EVWNIYmZXSFMxcXk3TzZUSXRSb2hGMjJ1OGJSQVFwM085U0U1ZkJYTUNlRUpUcjExNGVBZ0JTdEMxQmtaQThLZkdRbHRQaldlM280QmRtYkw0ekppRlZKS0dzWmp6MXBUMzNCVHVPZnR2R1c2cDdYeThjTnJRWkRVTGVtZ2pCZW5ISGkyMEtqWWF3SDIzVEZoZ9IBuwFBVV95cUxPQ1FnRGI2N3RGRjRJaUJ5OER0NnR0RktMWXpNTWd6LUFRczAwclpicXJEdzFIbU8zZ2RsNVhuUnUyUktWOExUSzdQYkQ2clFoLWFtVktWM29hVzZZVG8tVXV4dTVmUjI2XzBoN213dnlMSjA4ZllsOXhUbXhNTnpSbnFHdjk2ekFnZzBZODFvTFRWQTVBa0FyMWZqYy1EQktfZ1RVemdOVE94SE1LeTh1REdCZDM4cWVHWkFV?oc=5",
+      "publishedAt": "2026-10-28T07:24:11+08:00"
     },
     {
       "title": "Moldova’s futsal record-holder turns to youth coaching",
@@ -54,6 +60,12 @@
       "publishedAt": "2026-10-28T02:03:02+08:00"
     },
     {
+      "title": "Moldova moves to slash red tape across industries under growth plan",
+      "source": "Radio Moldova",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOXdHU0RPVDc3UkxYVkQtX29NTnN6VkliRmpEZmhRY1FaZ0JjNXNQcW1oOXAzcTFVNVdwdHpTOWZ1dTZHbzV1dTZEd0owakdoMjFRLU9KNHlBWmlPVWRuT0pnSEJZdUFPeHVwUGZwSEZ2LS1ILUpPV2NjX2JHTjlLSDhmQ05hZmkwM1JWenZHbHY3R0R5aVJSVG40MEhuR0tO?oc=5",
+      "publishedAt": "2026-10-28T01:28:52+08:00"
+    },
+    {
       "title": "Moldova Issues Warning About New Cyberattacks Following a Data Breach",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONk44d01vQzhCd1V0dXBSRTBEaEZUS01NVFcyY0hpZE5CclJtS1M0eHh0SEtleUprbmNyVk5aVWUtYVlUSjc0Y0FJX0pLWEl3V0tZbXdnY2xlaG1CcHZPWGtWR3RtanAzcGpfUEVmMnJqUUlFRUUzc0hMbjJkb2duUnFWQ1E5Rl9mcTFoaGZWVQ?oc=5",
@@ -64,18 +76,6 @@
       "source": "Agerpres",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRDllNi16QnIxYXpZdkhCTUJxelNHVEFHd3BuR0llM2wxN1ZtYlRHelV5cmt5YlNQSWdrdDFVMk9aaklDUzREVzR2akY3eTh3RW1fdk5abENuSzByODNyWVVRVWZNRWt3QUUyVmVsY0ZoOVBkeEZkbXZOcVRnTTI2amxYYldLdlpNQ09SS24xMWliMTB3cTBJcFJuSlFKMlFmX1UyUmlrZkt2RGNUNms3VjRCR092dnhwQ2tqbFB6U3Z5TGpsNDlRUWJR?oc=5",
       "publishedAt": "2026-10-27T23:40:16+08:00"
-    },
-    {
-      "title": "Tyler Moldovan: Man convicted of shooting Phoenix officer faces sentencing",
-      "source": "FOX 10 Phoenix",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaXN3X3VrYlNhN1VGZVZaQ29BRE9xdTlFdk9LX3dRZl96VmdleTY3TjZkb3dnNnEtVXFoWENGRmJjWGZXVTYxNmZ6a3o2XzVHRmJHZlBZX1d5a2FZU2t1c3JXazRYSjRhTnJBS2JCeTZaN3ZZeDhNNW42el9UZHRLZXJwc2tDOEU3dVZ5LUZvRHd4OHdOeGtiSVk4T3lMc0VKNElmRkwtSQ?oc=5",
-      "publishedAt": "2026-10-27T23:22:16+08:00"
-    },
-    {
-      "title": "European Commission prepares roadmaps for Ukraine and Moldova without deadlines for concluding accession talks",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2pDRmxEeFhxZXJFSl9Qb25kbTFHNUl3blVTTGJHTHN2M1BrckVwM2k5LXpITGh6NXZMY1Ztbm1XY1dPc1VmTFBkVDBYNXZOUElQeXJxRERHc3ExeFUxZ2hOSFgtN1BYVW1FWkd4X1VZNGZzZFlVc2w2SW5yVXo2eW5YcXkxUmNDYk5vOXlJcnQ2aEIzY1VFZ0pzTGphaWotZ005Sw?oc=5",
-      "publishedAt": "2026-10-27T22:43:00+08:00"
     }
   ]
 }
