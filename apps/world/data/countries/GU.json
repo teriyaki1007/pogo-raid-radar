@@ -1,7 +1,7 @@
 {
   "iso2": "GU",
   "name": "Guam",
-  "updatedAt": "2026-10-29T23:03:10+08:00",
+  "updatedAt": "2026-10-30T05:08:42+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -46,6 +46,12 @@
       "source": "Weather Underground",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnb01zUWhoakgxRjJJRXFtWmRfYWJ2d1hTcnVMQ2t0dDZITVVwSGlXeks2c09OS04wRS1WRlIxN1hEMWlxd3M2WjFQWVdTbUZkVnp5dW5IQVAxbWwzQk9YVWVjblhPaWF6WHpMclZSNFQwaGJaRFFJ?oc=5",
       "publishedAt": "2026-10-23T18:30:27+08:00"
+    },
+    {
+      "title": "Hagåtña Village Weather Today & Hourly Forecast",
+      "source": "SpaceRef",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sWkJCTDQ2NUI3Yi00MDljb3B3cWhrV1JiTTAtMVNfVzUtbXJWek9mS1JlRUlacTVab2k0NERKdXZyVVNIV0hodm1hejBBSW1ERmxvZ3BKRjB2eVM0ZDFySHJIc0lRYmxtNmZBcWJVM3JUUQ?oc=5",
+      "publishedAt": "2026-10-13T04:18:52+08:00"
     }
   ]
 }
