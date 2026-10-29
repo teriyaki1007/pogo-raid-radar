@@ -1,7 +1,7 @@
 {
   "iso2": "GE",
   "name": "Georgia",
-  "updatedAt": "2026-10-29T17:10:53+08:00",
+  "updatedAt": "2026-10-29T23:03:10+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,12 +30,6 @@
   ],
   "headlines": [
     {
-      "title": "WIT Georgia Tbilisi Academy",
-      "source": "Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT0FZWjM2RnY2WHlpREk0RVJQbXNtVFBvLV9jUHh3Ny1jRmdnQUNsZ2s3bENkNkpqc3p1OWVYQnk2cTdlTDV4WTgzVUl4SmttcmFNTXNyU2gwSnJjVFE1WmV4b1FBdWxsemFoNVF1djFrYjlYcTBCQ3pWaXVTV3l6Tkg3UHN0NnFFTzN0bEw5aWlHUzFJ?oc=5",
-      "publishedAt": "2026-10-29T05:00:23+08:00"
-    },
-    {
       "title": "Stefano Boeri wins Loco Park competition in Tbilisi",
       "source": "The Architect’s Newspaper",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rclFvbGo4NmtuTXR1SzdseGc4NS1CaFRQRGdPdlN6Y2h4NUFfXzZYUzBQanUtUlpoNHF0N1lsVDIzU0duRDFhb1h3cW9WLUtwaXVvVm10Z0R1WDAtOGF5ZzZ6UUhlYTVMWVVaaVJaLXh0QQ?oc=5",
@@ -54,28 +48,34 @@
       "publishedAt": "2026-10-26T21:57:30+08:00"
     },
     {
-      "title": "‘Georgia without Ivanishvili’: Opposition launches new wave of protests – photos and video",
-      "source": "JAMnews",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WSXVhLTlkU1FyQlk0QU5URURvRU5iWmVrZGszbldteTktcTQwdFEwNFRNYzVTMHNDYThTdnFSRmFoYWtSeUZvdGFzOXY5TFdweWg2aXFfZkdMS3AtMklSbFQxUQ?oc=5",
-      "publishedAt": "2026-10-26T15:45:50+08:00"
-    },
-    {
-      "title": "QB recruit Bo Bryan, son of country star Luke Bryan, commits to Georgia",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbUExRXFWMTRTUER5OUk4bHlfem9VbEZUOWtYQ0N1SERNYkVHTHFEdzlCOC1jcWVXOTJEUGp0MmNBN0VrX0VhWDczVGRRaFNScEduTXpDcC16Ym8wNExsbTRaQlN5aEszOG1feFNzaDNNR3M0eFJ0SEVFbko1RXYzNHJPRWJGQXFhNE03c1hIdUNXRllEQjJWd0FnaEFvU1NUcXdWSjI3dEp4QUtmX1Fj?oc=5",
-      "publishedAt": "2026-10-26T08:39:00+08:00"
-    },
-    {
       "title": "WIT Georgia Tbilisi",
       "source": "Transfermarkt",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbDU5NHhiS2FjWXFoM3NVMWIzTTVMeVhwQUU4MTlrdDRwMWNUU1FkNnpWdHhVY0ZJYVYyNTdzbDBUS18yMm0yRDJxNFUyRkRBSVE2RWlrYS1HTHF1UXA5LXA1OVlrUUxROHpsVHpjOGdpd3VUejVOYURPbkxaZENBWUdQb1hPZW9lLThaaFdJTE9CYUh3S0x0WUk3MUYyNDN2?oc=5",
       "publishedAt": "2026-10-25T20:42:56+08:00"
     },
     {
+      "title": "WIT Georgia Tbilisi II",
+      "source": "Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb1BDZmU4NWJkbXdGWjE5c1YwLVZIUE45NEZ3dGQ0R2RMVl9LMUV6SHZjM1RabURVVm9xdkdyYTBzSHR0azFjMERkejNlaXUxQU5pS0cxV3dTYjUtZDRUTDUxeEVueFBoR21tVnZhdXFSWTVJSmN6b2VialpuME5KbVRxdkx2VFRuYVZYYk82NVlsY2gxUXF2RnU1Y3ViUHc?oc=5",
+      "publishedAt": "2026-10-24T01:22:19+08:00"
+    },
+    {
       "title": "Demonstration Alert: U.S. Embassy Tbilisi – October 23, 2026",
       "source": "U.S. Embassy in Georgia (.gov)",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONU81eFpYcWcwdDl3bmFOb2pvSUlGUDhHMGVWcFpEbUY2TWVBOV9NVlVsdmZ3bEZBbmZnTjF3VFhVTG96R0phYXludFZVM3dlbHFBVkVlaGpRSEdVOHlFVUtLMHZXbW4yMFdXUDZ6c0FMOTJqckxqanFVMTB0RVRnaUZVZ2k2eE5Q?oc=5",
       "publishedAt": "2026-10-24T00:31:29+08:00"
+    },
+    {
+      "title": "How Tbilisi’s architecture is driving Georgia’s tourism boom",
+      "source": "Domus Web",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZm9ua0x4WVlzeFJFSDFzbmtoQnFDcU5vMHRmdi0yeHctR2JzZlR6NGNrTkFxUGE2YUFrcEViNklyN1Y1Nm5rOUtGV3ZWSjRjYmNvQURwR1lWRWJNZUE3WGRnUzF6dkZRWEJFMzVlT09sWEJIN1B0Qlp4RjlCcWlQbDBNazlPSkZQWHdsX05nRFFMOXpJeE9FMUhzZ0hlWjNET1HSAacBQVVfeXFMTWZnWS1kbDVFaGk0Z2VjMGFhZk9XUWtTaW01bVFLX3lKWG5MN0dmelluUFROUGJrY0xaRU9ZNmcyYnN0XzRPaGFhc3BkUkZkVllrb1ZOYUpOV0pQOEZidXNqeHNvelpTcjJoTkc2bkg0RTh0Z0IyZEViNDE2ajRTYkZvTE5nSHdGZjVobHpJZUp4WGFhbFl4WXd4UGJha0NZZHhkaUJHSHc?oc=5",
+      "publishedAt": "2026-10-20T15:00:00+08:00"
+    },
+    {
+      "title": "Tbilisi Mayor Draws Parallels Between Protests in Georgia and France",
+      "source": "Caspian Post",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSE5ybGZkcUdvY1lCeloxQVhqV1M3cE8zakhxaTdCbC0yN19nUUVreFV0U0tKRU03TC1VOUJFZ3NRZFB6d3ZTdlJWTG9ZWFpOUmxDcVJwQkhfTmp5aHlhQ2FrcEs3d3VMbTBlc3BmekpyM2NmS2pyb3RTZlJSSDUyaUliMHJJVWRhNFBtc2FrVmlwcnE5TzZHcmpVd05vbWc2WlE?oc=5",
+      "publishedAt": "2026-10-19T22:23:47+08:00"
     }
   ]
 }

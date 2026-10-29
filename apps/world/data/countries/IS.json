@@ -1,7 +1,7 @@
 {
   "iso2": "IS",
   "name": "Iceland",
-  "updatedAt": "2026-10-29T17:10:53+08:00",
+  "updatedAt": "2026-10-29T23:03:10+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "China signals closer cooperation with Iceland",
+      "source": "mbl.is",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb1JPYzFzSnAxclBtcWdSQTRFcEw1VUNsVnR0bFZfSjlBVmNSOEJpR2l2YlFTbkF0a1B1ZktwTmFXNEo3eVF0U2VBNHp3RGVfc2FGVHZSZC1UTklxRXFPNExqdlJ1VEFKRmQ4NHp2Y0pJOE1aOWFsTmRZRFNUbll0M0FnZkZXNGUwb0E3a0pqaGZqU2wzbGRWVHRYOHJkY2F1ckZJc0UwTmU?oc=5",
+      "publishedAt": "2026-10-29T20:30:00+08:00"
+    },
+    {
+      "title": "Iceland Sets Out 2027–31 Law Enforcement Plan",
+      "source": "Iceland Review",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9uOFowS3N0ZUNhNnhWU3luMlBPMEUxd0xadnV3NzVXN3pLWkZRMVVua1paTlNHTnM5Y2xGNEdBV1M4QV8xOU0zdXY1MFhQLWg2ZEZfb1B0cU9fdHdKZzQwb25LRjB1WjlSUnlDM0F2N01LS0tPNUZTUjlEOVVua1E?oc=5",
+      "publishedAt": "2026-10-29T20:00:26+08:00"
+    },
+    {
+      "title": "Iceland will send a ‘Knittaker,’ instead of a notetaker, to recap your video call",
+      "source": "Ad Age",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvUXhIUFpZTktadFFQaFlKS01XclhuMGRILVV3aklHS2RiN2JHbUlONHVaSUtPQ0hSUW8wcXZzZ284QlZDa01iQjZKYVRxZFVrYl9aNXRsa0t5bUI4T1NRaGVkT2hFSE5QTWw3dlhQUUZoQQ?oc=5",
+      "publishedAt": "2026-10-29T20:00:00+08:00"
+    },
+    {
+      "title": "Iceland Absent From Eurovision 2027 Participant List",
+      "source": "Iceland Review",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWktEVklNRWpqUVhCWi05WHpOTHlyLW4zX1ZwTEF0dFVRMzJoWjEybFM3elVKenRndWx4V29nTzF1c0tRZHRiR3ZIdWRNdWJYTS1Bc3c5bE9maWNqbnlpQk5wYnQ5QWtzMnViRDY3SnpRdVJmVVcxZEd6TWVwOEptbk9R?oc=5",
+      "publishedAt": "2026-10-29T18:00:58+08:00"
+    },
+    {
+      "title": "Arion Bank Q3 2026 slides: strong ROE amid Iceland headwinds By Investing.com",
+      "source": "Investing.com Canada",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUjhFUTJKMHpDdG9CZlo5UUtZbjBsRU1YOC1ZYURsZmJKZzBaZ1NvUTBmRHZ1bGR0cWhzSVA3YXRoZWtId2txUXdLdXNKdHVhcEVkQk5QX0QtUWZHUG84SzhtcThoT1FfLTZIZnVKd0xpZjYzUjhmVXVVdllELXlxNjgzeVltRHhFQzlwekFuZmVYanJIaVZIN3BnVWRuVVN1VTJlY085d19lbE5UcWNtOHB2aXlzalR6YTFfZg?oc=5",
+      "publishedAt": "2026-10-29T17:46:19+08:00"
+    },
+    {
+      "title": "Iceland Inflation Holds Steady at 5.9% in October",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSkpGTThRbzBETnYxUXRmelgzdDUwS0I2Nk5DZE9kNllZcy1QMTFXTDE0SFFsYzBuNWV4Vmt4OHYzbWlLb2ZGUjMwbTk0bUsyb3pKcWVWdkpQM1JSZTFoWjJOcGNGdzRwMDdSSGlQb1JBV3dDVHljTnI3VW9YRzF1WFEzWUVSbFlWanNteDJpUV9VVHBuUXVXVVd1d3JGQ1hP?oc=5",
+      "publishedAt": "2026-10-29T17:07:37+08:00"
+    },
+    {
       "title": "Visit Iceland will send a knitter to your pointless online meeting",
       "source": "Famous Campaigns",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ2wwdExNdUhLLWU1Um0wYjV2c1VQdEYydERrMFRVaU0tSllYVjJ3QnNwT2FxcElQUmRmOHRNZVVhakpUODlXYVlxRmY0b2Itanc0cWd0RDZucHJkV3hNWl85ckg5bXZranVwVm1abmI1YzEzS1ZzWkNadXFuWXhteEphNVlKYVd4UUx2VHNXVm5EaVN3ZnZCSU9XNGFaczd6eVBnNm83bkd3SDg?oc=5",
@@ -39,43 +75,7 @@
       "title": "Iceland: More than one million farmed salmon die in September",
       "source": "Salmon Business",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUFZEOGdhejNqQURLQlFtTUNxUkhEekR3VU5rZGJPTV9ObW5fM0M4aWRILUVCU3MtbVhjRUFuUjZWcHBiU1JVZFJVSzJoR0Y4YXNmZTZPLWx1QTNzNTJpamtYdmU4UEliSDhlZWpOX2pYNDZPVlcyam5XaHVaVWp0amJwcFpkRUxncHRuaXFpUl85aFA4LUc4?oc=5",
-      "publishedAt": "2026-10-29T16:26:15+08:00"
-    },
-    {
-      "title": "ICELAND IS SENDING KNITTERS INTO THE WORLD'S MEETINGS TO GIVE PEOPLE TIME BACK",
-      "source": "PR Newswire UK",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMzdzVFFaZmoyMTBJZ01yMkMyMFpPTDhDSWlWdkx4QndCUUdfZlVJWU4yaWJjTDc5d1RsRWJMS2wxOWxyazRFaGJmX2xKRk9NMUJiUmVvN2ZuVk1fQ3hISUs5cXpCWWhvOW93eGlGdWtRUUVIdWx2bjdBcjZTeTRDT2VESkdSMmxOUVE5azdIUzBOMVE2NjBCNHFDSW1tSXQtcy1FS1JCVE14QUpGV08yNXpZeDJFV0g5ODk3UHhTTS13em95dDRUMWZVcElMbU1Q?oc=5",
-      "publishedAt": "2026-10-29T16:08:00+08:00"
-    },
-    {
-      "title": "Yellow Wind Warnings Cover South Iceland and Faxaflói",
-      "source": "Iceland Review",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeEhsOVNzcGl5b3NrVUljeDZRQW5Jb3BLNXVuTVFuMDJyYXhTTldUM0NyQWMzVXlHV0FvNnBhUFJ2ODV6TWpQRFVLenhid3p1ZnE0S2tRVF9aSlRfT3ptXzd2Z0kwTkFxdTBZVUJMcVd2Wk5GOThCTEpIWm5FZ1lXNlB3MWFLTHBjaThqb0lpMDhnNTZ0MDJGN0dxWQ?oc=5",
-      "publishedAt": "2026-10-29T15:00:00+08:00"
-    },
-    {
-      "title": "Jet2 pilot flies daughter and Framlingham students to Iceland",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rVG04QTZpa2FYQmJPeDJZX2hhckgtRFhjcGJwcTI5Y3ZtUUpmWEN2TllWazZCU0I3dDhUaE1OVkZCZW1GeFdEZ01FTkdSMGlCVV9WNnNXVFEzeE0?oc=5",
-      "publishedAt": "2026-10-29T14:56:52+08:00"
-    },
-    {
-      "title": "Reception marking 55th Anniversary of Iceland-China diplomatic relations held in Beijing",
-      "source": "People's Daily Online",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9yVllsVldnck9aRWh4N2VLZno1TU1TUmZuZlBuaHhKVk9ZajFWRHVWMkRVN0J1YlU0WFREYXhkREhVMzBvRS0xa3lPNGJrUHVhcU55U3NiUlBieElQZ3NGd1JqMA?oc=5",
-      "publishedAt": "2026-10-29T13:27:00+08:00"
-    },
-    {
-      "title": "Serbia SRL 4-0 Iceland SRL: Result and Key Stats",
-      "source": "Football.com",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ramtaa09KLW01X3dwZmtkLVRsQkpnakZTM0FFMm5mbXJKRWhoV2tMdWpIbUI5YndnN2RQbWROVVl6ZWpCYkdfZmd1a3VKc09CSmlLSjNR?oc=5",
-      "publishedAt": "2026-10-29T06:46:23+08:00"
-    },
-    {
-      "title": "Iceland Government Approves Major Residence Permit Bill",
-      "source": "Erickson Immigration Group",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZE1JWVdCWnFaV0V5eDBRUTNqZ3k3TUt3d0hqRFRtSUg3VzNUakU0QWtLUEZaOVhVcTBsMzBZUnhkVDJweHZLNFhZMGMzTmw5X3EyNFlsSldnLUNJakRZemhPWjdvdFhyNG91R3QzSXVVZU82cy03TWtnZ205dWJkdA?oc=5",
-      "publishedAt": "2026-10-29T02:22:41+08:00"
+      "publishedAt": "2026-10-29T16:32:12+08:00"
     }
   ]
 }
