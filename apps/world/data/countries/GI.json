@@ -1,7 +1,7 @@
 {
   "iso2": "GI",
   "name": "Gibraltar",
-  "updatedAt": "2026-10-29T11:12:04+08:00",
+  "updatedAt": "2026-10-29T17:10:53+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Gibraltar lose to Azerbaijan and next play Yemen in U15 World Cup",
+      "source": "Gibraltar Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRDU1ZkotWVdaSG50Wkh6MXZiS1NRdXhyQS02MllHSTRjSTFobUlrN3ZmZkw5QTZyZTdpTXhqbDlUbkxpd3JTdTlaQ3pXdDduOEJtZDdWRmlZUVJxMzR4Q1AxYm9JbHdpZmd1cXFJMVJoV3Jra3F2bWFBSmhfTkpLQndoZGxUeEJVNlFSbkNVeXdQMlNHYnc?oc=5",
+      "publishedAt": "2026-10-29T16:00:11+08:00"
+    },
+    {
+      "title": "Gibraltar Industries, Inc. (ROCK) Stock Forecasts",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMjhmak1NTXBGUWZHbkRyU0Vfb0h4djl1TDgxbjZtUmRaSXRDSEJnYmlpS05HeDN1R2ttVjJzbVQ0ZFU1OE9EcnJJeExrc3l6YUlWdXExbXhCTHZkb3d1WFdPQ0lfQUphaEtYNm9Rdk55anBtRWhIOHE3OHpjVDFoN29RZFcwOWRjMHRzbDJjQQ?oc=5",
+      "publishedAt": "2026-10-29T11:17:59+08:00"
+    },
+    {
       "title": "Government says changes to concession rules bring Gibraltar into line with UK law",
       "source": "Gibraltar Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUU9VdXNNOU1na2d5eHF0RVBxS1dwUlBnSlJqZTdTV1ZwbU9PMnZMb1pQZkFiQmVtVXctSnp4UXpOWkdZRFY2ZHJnSU9mLVhMd3E4TDVtdUU0MnV5cFNTaThhMzBYWTZCVHdyekZpaF9velZBLUJFY1FGN0dBN2g0aWpzZTdvaEh1X2NaRDVrUEcyYTltQ1o5SkFaX29velphVl9GYlZRVkU?oc=5",
@@ -42,40 +54,28 @@
       "publishedAt": "2026-10-29T02:41:35+08:00"
     },
     {
+      "title": "UK gambling tax rise adds pressure after Farage Gibraltar talks",
+      "source": "Casino.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZnhoQV9YVHhfR2NqU3BZdlpISUwwblZDSWNzcTBHd0g5NjlEMTFmeEVvaVQ1U3lBSk40VE1JU0tLV3NzNUUySmVObm42dDZHSnFnaVN1SkQwMDhybks3MkdjMFFiZEV3UHo0MXlZSjBCa3dGU2pjdkdLZUdMS3V4X2VpYmZWbnRHdFpCOEs2cV9aNFhHVW1XclhjRDV4ZU9LN2lJ?oc=5",
+      "publishedAt": "2026-10-29T01:53:53+08:00"
+    },
+    {
+      "title": "Azerbaijan beats Gibraltar 5–1 at U-15 World Cup in Baku",
+      "source": "Report.az",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNnV3bVZLYUgyY3ZVa2lNNWc5TF93b05ZV1FsMklFMGswZGNyVXlldmx5eDdsb28xSnBoa0pXdXNMaXc1c3h1UFphNTlyVnI2QlhvaVRDUGZER0w0d2F4YW93Ql9aRnBtdFNNWmtSVDBsYXFFREpmN0prckdvcDNodlZvc1lXQ2VuVTF0blBSQQ?oc=5",
+      "publishedAt": "2026-10-29T00:26:40+08:00"
+    },
+    {
+      "title": "Gibraltar face Azerbiajan next after defeat to Belarus",
+      "source": "Gibraltar Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOXNqRUtiSEp5ZGNja0xUaVNOWlNzVTZ0YjJUTHNISlBkanllNU0xb3p2bmVhZ0JscmpVc0hFOXlEeGhMZ0p0Ykx5am5zd0JhUFZkWUJOcU1iM01iUGR1SVJLVDl1ajJ3dUp3d2RNUzRCMENrSDRjVWk3QXRJQjZUaTNhbHYtUXM?oc=5",
+      "publishedAt": "2026-10-28T20:28:08+08:00"
+    },
+    {
       "title": "Strait of Gibraltar: A British Carrier, Spain, and the Game of Powers",
       "source": "Morocco World News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUlJLZE14WDFDZ1B2anVJdzlaYjQtd0FmZWY0X2dVYkhoeW96UjEzV0lPRkN4LVVodUVka291Z0kyVU9EcWhVdGVkRkFROTRZYkl5emZuWV9tenZ2TG10aXgwQ1o2YmFaMi1ISldKTVlRVVJkMF9rQzMxcTdmTm5Qb01RZkdCNjhSMUQ2YzhlLTVMU1RnTWRVYTAxbVhXNWNhRUdhc1hZY05tOXBKM01OaG8wRXVMUQ?oc=5",
       "publishedAt": "2026-10-28T20:22:18+08:00"
-    },
-    {
-      "title": "Vintage Libbey Gibraltar Dusky Blue Water Goblets 6.75\" DuraTuff Glass Set of 6 alphavilleearredores.com.br",
-      "source": "alphavilleearredores.com.br",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNc0RibkpNV08wOG1fREQ4cWw0N0JVVTdjcTZHWk9TcEdDZHh3WTg2RlMzTy0xTl8yTVRLZFJoMENZZ1ZWN2prTUlnOEdDNEVndUhQMWhfSnBJeDhNRXJ0QTktaGwzSGxqdHlSbXlBenNJVlgyVDV5TXJtWjVKY3JNWWE1Z3FJWU9nSEQ2RDBIcEJBUGc?oc=5",
-      "publishedAt": "2026-10-28T18:04:00+08:00"
-    },
-    {
-      "title": "Carnival Freedom Makes Inaugural Call To Gibraltar",
-      "source": "Your Gibraltar TV",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQkZPWnVXR25ZN3FYMEVsT3hPT21JLU1HMDdoSDVSZVFlNXhaN1EydTA0SkN4el9JNHdnU0RLTGVYNEF4MGM2aW5RMF85WWowTVpxR3BfN0czTUZiMGJsOEJLVkRfZEtTdkwzd0NIOGROLUxBbHk4RDBfbE16NjUtNWFzMTg3MzJIQU50OXFKVDVHZw?oc=5",
-      "publishedAt": "2026-10-28T17:32:08+08:00"
-    },
-    {
-      "title": "Holiday greenery sale begins for Gibraltar Historical Assoc.",
-      "source": "Door County Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jX2p6bWhJN2JmMmRXLV9oUHJsMy1aYWZTUTBiWDRxNzJndUU0MldNa0ZaaHdEcUxJZXNkUXdDOW1DbUlvUEFKQ1RfWWd3My1JZElsRnVR?oc=5",
-      "publishedAt": "2026-10-28T15:23:33+08:00"
-    },
-    {
-      "title": "Leaving the Rock: The emotional and practical challenges facing Gibraltar students in the United Kingdom",
-      "source": "Gibraltar Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTXR3MEpFTHFSWXM5NGtXNW9TYjQwd1dFOHY1dlpGa0MxU08zRTFLNFpZVkxFeDZEcFBCbTY3ajF4c1dKczVkTEw5WEM1d09xZDNiTFhnc3h0T25yc0lSN19FMmlUZlQxUWNvbFVhYVNuem9jZXUtVDZ0bkhRclByMkpvY25LMVFHOGU4U3ZhWWQ0U3FyWmNzRXlKNlhFZHNIZWlSWTZUclNVZWlkdG1JWktIZ0ppYlZJSWIta19ZdEtnSWZrMmE5NA?oc=5",
-      "publishedAt": "2026-10-28T15:01:19+08:00"
-    },
-    {
-      "title": "Gibraltar Plans Generational Tobacco Sales Ban",
-      "source": "Tobacco Reporter",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUTY4ckxCUTNrZEZKZEdnYk5kZEVGdEw1ZmNCTmFWbVZYb0J6bk5KQmM2NnR4WnJkOThVVUxkLS1UanpDcHRzRVlyeEdDaGtiT25EUkRvRnpMNXpRT0UwTUphV1ItWVFFQmRENDRhbkZWc1JHc1lwZTAzbmx5U09IQmR2QV9DMnRJOUdjYTBRSQ?oc=5",
-      "publishedAt": "2026-10-28T04:37:09+08:00"
     }
   ]
 }
