@@ -1,7 +1,7 @@
 {
   "iso2": "LT",
   "name": "Lithuania",
-  "updatedAt": "2026-10-30T11:04:11+08:00",
+  "updatedAt": "2026-10-30T17:02:37+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Politico: Trump Pressures Lithuania to Resume Belarusian Potash Transit",
+      "source": "REFORM.news",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMkVjQTZ1WWxYWEhpcXVQemt2Nmo4WktJYWJGbHpjaXZ2Um5aamlPVUpiRDhRa1ZkcEg1bS1XQXhXMDVCaFVueVZvaEVIakxHc0FuWGw4QjBSM2czcWwxS3hvWW0zQ01rejlaUDRFcFpIOEZBZDBpaXk2OGtsT3N3d0ozUUdNWGJ3T0hFNk0xZ01uSThMQWR5ZnFn0gGfAUFVX3lxTE9RQ0NBWXU3bVc0bFRZeEhnblZkRW5rLW1RMkdCTmNDVDlYZWQwazVLZ3pYUFI0LVh0R1E2UjVBYlpISVZOUXhad01NVTVGRVFNcjRmaHRMVlFpNXM3Wkt5eVhaU1FOS2ZsRnhnc0N6d0tzYkJqUHNPWmt1OENreTZyaTVxTUVkX2I0Szk4dGEtZlZESjQwblFsYmZ3b09tVQ?oc=5",
+      "publishedAt": "2026-10-30T15:41:10+08:00"
+    },
+    {
+      "title": "Lithuania’s private health providers expanded during COVID-19, then the system snapped back",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRlVtLS01aXZjZGxCU0pqRi00VEMzaTE5UVBHUF83dV9BTjd5QmJiZ2EydUhTVjlUYmtweG1WNllVeGhrcnByUmlod0JkbGRBUl9VTTVMNWlMQTRZc1JSdldqb3ljNFN1bjZFZm9mUHFqbU14bzl0a2s3eFZONjdUUVZleWh1NEFJUEJxWDFtaEU1UlR5UDFMS3MwZGVjUHk1UVczT2ZhWXlOaGdXd3ZtbFhHSGM?oc=5",
+      "publishedAt": "2026-10-30T15:28:07+08:00"
+    },
+    {
+      "title": "Lithuania GDP Contracts for the First Time Since 2022",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN29XZHVjSkhRQzBfam0tMk9paGFibWd1Y1AxOVBzLWZ5WlVkanNYbjNWSEhCRnRWNGsyX0stVjVUdjhRZGNIVFJmNjU2d0NHQkhmeVRRY0kzTWZiMVExUGQ2TXRyT0lUTU9pQnVvUlRCaDczQ1VXNnd5V3UzLXlncndWMDVsd0pCTGxyeTN0c3NfUjE3dGhIbEF3Ulg2ZWVZTENmN3lVaw?oc=5",
+      "publishedAt": "2026-10-30T15:20:49+08:00"
+    },
+    {
+      "title": "Lithuania plans to introduce universal military conscription from 2032",
+      "source": "BGNES",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON3BLVV85anU5MHdHTVI0TVh5MlJKWlBKNm9DYzZjQkw3M19XZk1tb2NZUkt2QlZTVDZmMVdkY2hZZW02ak1aRDV4Q0tTdHR4M1NZdWFHT3VjTm5uWTNVOUtPRHVoak1FcnVQNi1tTXZmaWdPTHVuc0k3bGNGM1JSTU5FVWRBOXNCVkw1aUwyNkFUeWhVdXJzVTdHU2FFdU1pTVE?oc=5",
+      "publishedAt": "2026-10-30T13:16:45+08:00"
+    },
+    {
+      "title": "Lithuania plans universal military conscription from 2032",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNV3gxWkRxRXdwVUFXMnB6c1FfbWVlbVVQOUZBTFdqRVZyMnZJWG5xR2FfMGdyZmhlNDFyX1Q0Qy1rWU5YS0xyMnBoV1g1LWtjWS1JZnNiV1JLTnBocDI0MkhfNlJOcDlIcHBUTlFaRWdrbWJIZWEya0RsMGFycDFNSkJnblVFRUUwMk16eE41NC1mWDB5N2pTXw?oc=5",
+      "publishedAt": "2026-10-30T11:55:42+08:00"
+    },
+    {
       "title": "German troops in Lithuania monitor the Belarus border with sensors",
       "source": "Around Prague",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLXVEWFEwRUlTT2RSdlg0YTB4UjMwWEZVMC05TkVic1FQbm83ejhqRkd1MnlOWXJOajBYYjFpb29YUU1lTjNHUHVoXzFFeFdyYlNEQUJSZTdSNEdhTEZFOGNBbTVEb3VxaW41WkE4MFBvMlNJV3lOUU9PRmkwUUdMNkRiY29yRzV5bU9KbzRQbFFqOXRnaUtrMWI0eVh3dXNuUVBUVEk1bnY2eUdKX0E0Yw?oc=5",
@@ -46,36 +76,6 @@
       "source": "Defence24.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVnJ0XzJiTm9wTWJtcTJBRDB6TDAxT1Vnd2gtNHh1VkItZnJoaVJlbENybXJwWnlpMWpfTk5wOFNndDBucmhvblcxNkE1UW9YT1ppT0dlRGd2VkpETERqSWRBaGwwbGY3aF9BZ01wME9FLUJDTjVHT2Y3OXkwQzRxTlFGTVgxY3dVZ0JHa2QxUW5CM2lJQnBVZGJBX2t5WmVqUGJIaFFzd2tCOEZpU0E?oc=5",
       "publishedAt": "2026-10-30T03:00:01+08:00"
-    },
-    {
-      "title": "Lithuania to expand military call-ups as security threats grow",
-      "source": "TVP World",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTmw2VkdGc0IyVlhyMHNRNHNuNzVZS0JKSzcyOFRqY2s1LWJRZUwxYzdRdENZWENSSHFJeW9qV1BWVTFTbkcxNEd5U3dMMzVjZU9GeEwyTnNFaUJwbHJORVdCb0s0VTEzaXEyWUp2TE1oTFBsUGdKMllya0ZqWkNXbFNCQ3NkNU8tZ3VmeXRROGFGUmVoMUR6OQ?oc=5",
-      "publishedAt": "2026-10-30T02:36:00+08:00"
-    },
-    {
-      "title": "Lithuania will reintroduce general military conscription in 2032 amid tensions with Russia",
-      "source": "Informat.ro",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcW0zWXFWdmN5TlFsclZnN2hrWmktZHJQb2dIcVc1d24yTW9kbVo5bDVvczhIbi1hejFZV1dQd3B6bWxJeGtnTG9fTWRWZzBRSlhHWGhVUEdQdGJ0MVZsdkxYaENKQWFicFl0S1B5VWhGN3RaRDVCZTdiSllJajdhc1hkS0VaZGk2aHpSUVprbUo4d1lyZE5PN1dtRHM2Zw?oc=5",
-      "publishedAt": "2026-10-30T02:04:59+08:00"
-    },
-    {
-      "title": "Germany is rearming to counter Russia, whilst Lithuania is preparing for a general conscription",
-      "source": "UkrMedia News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wZEVoOTRMNVJNV2EzOTBNSnhxVXVEb1ozTnBlNElFM0lUQUlWTEpXWXcxXzdHMXQ5Q01qZUZ3QkJDak9MOUZQTU1JTFpNbHJzalQ0TV80Wk1tUjFTU0RvQUZGbVphd0RKcTVHREVfaVhVUQ?oc=5",
-      "publishedAt": "2026-10-30T01:21:04+08:00"
-    },
-    {
-      "title": "2 suspects arrested in Germany over Starlink arson attempt in Lithuania",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmNjZU1IYWxoUjhOQ3h6OEc0c2tNX0VKLWVxWEZDbGRuMEJGMkQ5VWEzZWRnMlJUY1ZobTdPTlBPM193dXlLTmNHbHJYcUNZcC1XVy1VNHUzQk5tMDQ5N1h3VTRraUJLSDRqR0x6QkQteGlEYWE5a2lsQXdWdEVpZi1PenJWWlVtQmZreXpFbEh4bnd2WWtITnViZG14ZDdBOTJHUW1hTEswcEhoaWlkRA?oc=5",
-      "publishedAt": "2026-10-30T00:34:51+08:00"
-    },
-    {
-      "title": "Lithuania to reintroduce full conscription in 2032",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb2xxelhDN0hQc2EzTFJ4UVM3NC1HMF9UT3QtQkNhaExfNHdxbUNhY0c5dmZ3X0FjcnhNWlpGaDBCZ0ExWmVmRXRXcGY5NFFLYk9wZG53RW1aUzE4bVFkM2gwdUdXdENCLTltQW5YQzhsR1dOanFzRzRmam5qU1hrbVlkT080OVhyM0NDbnRUNE9wUG9tUTByUlZ1ZlpGd0gwWjBB?oc=5",
-      "publishedAt": "2026-10-30T00:33:40+08:00"
     }
   ]
 }

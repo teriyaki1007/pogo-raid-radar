@@ -1,7 +1,7 @@
 {
   "iso2": "MD",
   "name": "Moldova",
-  "updatedAt": "2026-10-30T11:04:11+08:00",
+  "updatedAt": "2026-10-30T17:02:37+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "ECHR condemns Moldova over ineffective investigation into homophobic violence at a march in Chișinău",
+      "source": "Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RYndORGI0TzdZbHpKekdUSmpDcHNwU05falM4OUlUcEpQOVJjUUpiR0lNM1lXcWcxYjZqWC1MY05ldVhDRXhkUlZPYUZudVYxS1B4QjVpZjFENW5hVkZ0S3VEZm90N0R6NW0xQW1TcGwySC1sYWtr?oc=5",
+      "publishedAt": "2026-10-30T16:30:09+08:00"
+    },
+    {
+      "title": "Moldovan Apple Growers Harvest at the Brink of Profitability: A Ton of Diesel Costs as Much as 22 Tons of Apples",
+      "source": "EastFruit",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZ2xiSmdEZDdPcXRzQko1WWluVEZRY01pNW1sa2FJNzZiRU00U1kzMkhCR1RLajVEclNXYVd4SHEwc2xuODZSZGFUdWdBT19HN3BxOW5IQTdRQ3NCMldCWWgtQUhGcS15SlNLM3plam9mZ25RNzRoMTdITzFfanVTQTF6RThucThIa0VuYmZoVWJRX01wZmFMdjMzb3JTNmIwaFBRLUw1UE9KaE5McjdVRkRHcVF3bU9LanlmVTJ2dk0yNm05RW02bVQ2YS1HcjkzQ0ZiMl9pc2dMLUhqUWFQeQ?oc=5",
+      "publishedAt": "2026-10-30T15:57:25+08:00"
+    },
+    {
       "title": "Moldova has agreed to transfer control of two Ukrainian border crossing points",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWm0td1JVSTdsTzdFWVRlckJ5X2kxcDY1REh0MjdUOFJGbHphNHBIbDBjTm84NWlOOVpFbWwxamlRQnRnTU5LWGtsQnVUTW94N1pBR3lKblJIYUt0SHhZVnpwZEltWWJvaE5Mb3FNWlM0OTlEbDNVdV9XRVRhTURmQkY0SVNEc2VQR1FGQm0zamxLWk5VVDhLcnMtaGROQ1U?oc=5",
@@ -48,6 +60,12 @@
       "publishedAt": "2026-10-30T02:04:21+08:00"
     },
     {
+      "title": "Moldova aims to provisionally close two EU accession chapters under Clusters II and III by March 2027",
+      "source": "Radio Moldova",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRkFRaWFjczlocGJEcXJTa2JxQ3Jwc2lxNFk4TjQ3RWdNLXhhRUs3YkhqT1FhMzBuejkwMGRCeW94WVZVOUF4M2Y4RTJCUURJY0I3Y20zRmIzVUtrRE1ZYlEwM1V5TXR1bGpzMnowQnotVU5TNG94LWNhRDlVSmFsZlA3Q1poc3drYXJqTlJ1cXlGMkVZdGZwN21RbGE2aWlUYldZenpqZi1DdVdoY3Y3THhoSE91SU90cE1pSktWR3QwMFJEWm5CYjl0eEtNUQ?oc=5",
+      "publishedAt": "2026-10-30T01:13:52+08:00"
+    },
+    {
       "title": "Moldovan President Calls Security Meeting After Massive Data Breach",
       "source": "Radio Free Europe/Radio Liberty",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkpTRVY1YjI4cWFaZFAxWXdaUWhHUXNicGJfbVFnMU1Bd3EzWnVKeHhkOEhVclluSWdZVDkwb1A5dkRwWDY0WXNRa2xmd0g2RHJ6NUxwT1V4aVVwNUp1enNoa1JoMGwzZVlXOFNtQmtIM0FrZG5BSnNqMzZNa2ducDdpS3dmYXBUclHSAYwBQVVfeXFMTzgyd0t2Tm1nRXFPQmpMSDltZ3hVN3pRSFBPU0pMQ1VYSUFlZk1FMDRuTHAzRTN0YkU0dWVjQUtKV3VZbU9wUlRrMklscWRJS09ESllydHBhTXUyVklpNnl2T2FUa3o4M3hGX0E2dk5vOS1DR1pwVHdsdGhjUDU0RXZQMDQ2VmxORjUwbWU?oc=5",
@@ -58,24 +76,6 @@
       "source": "LIGA.net",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWGlSOHBCQV9PSk1IQng0c20ta3V1X3lsUlYzeFRHUHZmOENWNllLaklweWFjdVFYQU5VR3VuREN2Q1RyUVBEclBIYjg0a0FYdGVOZlJENi13NmlQODVoNFlKdHdsVF90enYwemJJNHN4clFVWEdtU0VOWjJ1bG9qNkFUdGQyQmFhT3JIOE0waWNmdXlQbTRINEY0aGd6SmZ5QS1YWWZXTVlpb0ZLcDdDNUx3TTFtWThoV0hfQ2FHNkprYzdnS2o5T0NR0gHPAUFVX3lxTE02TjVpajI3TGJoSE9lVkpZU0ZUbnhZcWJ4TVZ0MUFyTTV1cXVjbDgxNmZnMWREeVJKdHFTd01kVEkzSTJsRFp6VVRFSzdSd2FFUEc2bm1vcUtPYTc0bXlzNC1wUlJHeVRuMUlWVE9pOHFSZEdrcU1UU21HWHhYLVpCcUJwdGJoWHZ0UHQzQlNLR0x3WUhBQVdETFRaU1JUOE4xQ0JhSlRKV2RVTVBPQ2N4Y3Z3X3p6YmFnU0tlRmN3TXVwODlYTDdwcUk4X0dTOA?oc=5",
       "publishedAt": "2026-10-29T23:45:19+08:00"
-    },
-    {
-      "title": "OSCE Promotes Human Rights Exchange Between Moldova and Turkmenistan",
-      "source": "Mirage News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ0hRaHlaMmRTWW9Da0hCQ1psN2lxd09KeWt1YzJaaEZMSllLeWN1eC1SemlTRVVfaVRneXRzZ1hWUkhyZS1VUmVPMTZGWEhJb1VrbU5Id0RQdnZRUUIzSEJEOTdhdmhkaXBtSklBS0dzQWtyVEV4dFh1SzJPSTRsU3lPcVZGQQ?oc=5",
-      "publishedAt": "2026-10-29T21:00:00+08:00"
-    },
-    {
-      "title": "EIB Global and EU support agricultural modernisation and rural growth in Moldova",
-      "source": "EEAS",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYjN5TkxhX21VaGk0a1hfRktjWDV2ZWY0RmMxTnVjblViMFZxejJoUElsX2Q5YWtBSHNFeXBXQ1VkY21pN0U2TGd6ei1iZGNNTUxSeENYdlFpTGxSczVjVng1UWZ5ZE1TMGtPMlhURFk5R3phMkpNaDJHLS12eGFJMVdQazh1Rkt4WTlUeTNuMlNhM3hBc2RpT2ZPcU83MTNUdWJmWFBDSVRCQ1E2aHNVRWduWjNOYlZVamlLNmdCY2kxaFVMVUE?oc=5",
-      "publishedAt": "2026-10-29T20:07:49+08:00"
-    },
-    {
-      "title": "‘Foreign actors’ may be behind Moldova hack exposing a third of population’s data",
-      "source": "TVP World",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTFMWWJaaGoyVTQ4UF8wWlRxYkhfS3R0NkZpcE1EeVhZMk1YVTYyQWlCMC1Vd1J2THM2NURVTkhaeWdhRVl0RFRuMldJWmx5WHBSV2wzQkRDQnlGMmx6Mm9yWEpwRk5rcUw5UXpnaTh5RWFsNkdFMFJKLVpSSE4zQlFTWGFSUEtreVozeG5nVFRLcmMwNHRLMDloRlZMb0hLYmVJbmZCVlVHdw?oc=5",
-      "publishedAt": "2026-10-29T19:53:00+08:00"
     }
   ]
 }

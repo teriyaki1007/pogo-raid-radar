@@ -1,7 +1,7 @@
 {
   "iso2": "MT",
   "name": "Malta",
-  "updatedAt": "2026-10-30T11:04:11+08:00",
+  "updatedAt": "2026-10-30T17:02:37+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
-      "title": "'TCNs will not disappear from Malta,' finance minister clarifies",
+      "title": "Court orders Vatican Bank to pay €20m in Malta fund dispute",
+      "source": "Times of Malta",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOVpQWnNBZHM0QWZHalV0anVzVTgtaG1seTBHcnBEaGs4MU91ZlZlemN6VGJScWdrb1hOU1puRENVVDdrU2tJdFZxMzdZMUhZNmpGaERSY0xqWnh1V2VCWVhLUnBhck5LSjY2bFRET21hM0dCcWw4SjhlU24yWXZDM0pBWHltNlNGN2hxbmFQUl9QUXNWeTFMMnFsSnhxQmtVWkhN?oc=5",
+      "publishedAt": "2026-10-30T16:43:23+08:00"
+    },
+    {
+      "title": "Xjenza Malta and the European Space Agency (ESA) launch the 5th PECS call for Space Research and Industry Development",
+      "source": "Newsbook",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWjg0YjRkQlF2UUM5WUhldHJvaDFycTR2RGprOHZmYWMwSXRJZHExcVZoR01QWFFDQk1URzRpSE5YdUdzVjhNTW5GTnhsQTNoc0tHeEtSTGhDb2lIREJNWU1PVGs5ZUVzUnU3SDJ4WHFrZHBmT2RaUFAyWUllZWFiQUZxTXV3SVhWdUFWOGhCVk9TTHFiWmV0MzhuOHV4cG94UnBNazNSSThKQVctWUp6QjRfMC1lQndsbjV6TWFaeGJGS2ZSY3dPX1J1NXdaSXpLbGJ1b1FWVGdXMUU?oc=5",
+      "publishedAt": "2026-10-30T16:40:58+08:00"
+    },
+    {
+      "title": "Buddha-Bar Malta celebrates grand opening with landmark €6M investment in St Julian's",
       "source": "MaltaToday",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSWg2aHNxcElscHpxZlZ3aWFtekowYW5NLVdSZC1XOE95WmhyUVFOTEhDR2FWWHE2OTF4VmtGLU5ibnlLQWRUNGJoX2YzVHJOTmxzVWhZSVE1NUdUTDNSVXYwMGtWQ1U1Nk42aTd4SDdWYVhxYml4Tm8zRlBLMUhpdXlBNC1fcGs5U2RfdXRwdXZaamQxZTBiUlB2TkUybEI5T2ktUVliaFNobFlk?oc=5",
-      "publishedAt": "2026-10-30T05:57:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc3l1RVBDNUsxbHpacXRFSEpWcEhLVDN0VVdZUjhGWnVHU3lPUjFYZm94LTdwX01URDNQVU94QUhCQzYtSjhaUDZ2YUVyMmc5THZka3pqNnhGRXI3VXEydXBMQXFSUmxyR3BrSVVPV1pMc3BBQjFRV1c0U0Z6czdzTE5oRVVQVWF2RHFGaDJ6NHR1VUlJV3RGVWZFRWdUV3lJdk5NeVk0T1JoY2Jxc2JudGZYNzJld0lMWEV4MmZsM0xueHNaSDRxNGQxM0t4NmJPVlJjM2dsNDZ6SXdxN0t0ZQ?oc=5",
+      "publishedAt": "2026-10-30T16:09:00+08:00"
+    },
+    {
+      "title": "In pictures: Carmelo Bonello, Malta’s Art Deco exception",
+      "source": "Times of Malta",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdF9uRjF1aEJRcW1qcnRtWkVLa1gxcGVhbVVRM1J0aUhYX3dXcUpzUzBqVXVROUpNSGtvU2JTaFJSS3VVV1BRU3ZPbmpkb0I2WXF3MDJtSkhWd0ZJaGNyN0J3U0JJOUFsdVFMRVl6RVJCUDRLelRSTjRvX0FlS05UcVl6MndsUmppTThXckhBbFAtUjZO?oc=5",
+      "publishedAt": "2026-10-30T16:00:00+08:00"
+    },
+    {
+      "title": "Watch: Opera Nova – Professional training for opera singers in Malta",
+      "source": "Newsbook",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVVRZTW9WbUtrQ0FLeWhkU2RpNFpBUjg3UnBMbVpnZlliVHM2b08xZGNXWWtPVjY4YkMtTWpWU2ZsYXh0dnMwT1FjUlFOR1l4SDBKMkprbjZyaGNNOEFmQWJhYk1waEQwYnVfa1hpSEJZQ1lkdmNzQ3R1QTAxXzQ5R2JlX2dsa293eE5HbTlVbGRTSklXa0d1Yw?oc=5",
+      "publishedAt": "2026-10-30T15:41:46+08:00"
+    },
+    {
+      "title": "Maltese firms use AI in hiring, firing and promotion decisions",
+      "source": "MaltaToday",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZlNLajhJeVBpbVJxZEtReEpIMG5UQmEtNHZZa0ZMMmU5UWFrRTNzOFY3WWFTLWdGT3FnUHlBQy1HSjdnVmYyNHJuOWJKNGtIRHdGZGZqSHUzekxrVWZ6LWhQeWpCem55c0RqOEhBZmZGYXdqdXJvZHVScGxmTWZPaFNKamNxRmFObXA3V0JwT01tQ1k2TzRQalhvLXJmQ2NPLUxaYWFwYTdMS2Y5YWk0Slln?oc=5",
+      "publishedAt": "2026-10-30T13:00:00+08:00"
     },
     {
       "title": "Sonny Veleta Guilty in East Bakersfield Murder of Cesar Malta",
@@ -46,36 +76,6 @@
       "source": "NEWS10 ABC",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVcza0c3anVjNWdvOHhDenBydVFVcXgzLUVEX1dEUFRSanRPU0hidXNyS0RLX1ZjbTBSc3Q1cFVZSEVkNHZ4X1M4SEpYUEZ0a09kOW9XUjYydW5yLUpYSUNPaVNHUnZteW5SVzJLUGV4RXBpNGVKOVZQT01HTWJHSy1Ta25NRk9MV0NyZi0td3liOVhTTnVlT1Vla19iQdIBowFBVV95cUxPRUdncVF2MDRoSEpsYnE2RmJacDZaMHRHb25RN2lqemZabmVWeHlzTnNONEJDSXpBeWYyZ0pLVjJ4a0JwQ3JVVXhqSVY1cG13Tk1lcmI4c1hDeVBENHJzNS1GUEVmZXlhdnRmODQ2QXYzQzdqRGd0YV93TXFFTXlOWWVndW5sWkRpSElsXzNRMEQzQktRc19qbGR6Y1FJd05hLTZj?oc=5",
       "publishedAt": "2026-10-30T03:45:11+08:00"
-    },
-    {
-      "title": "Malta U-15s secure FIFA World Cup & Festival third win after defeating Fiji",
-      "source": "SportsDesk",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYUJ5R0hCVlJFS3FRd2hwVVNUYk5lS29rLUlBM3dMNmtSWVV3akRpX0w3dnNvdWpyS090ODBEelVwb0RISFFrWlE3ZmNRd08zME9FZTNPSjBhdnhsaHFubnVLcTJyS3JGY1BTeDUteHUxWEMzczg2d3VrZll0OG9PcDFWV0RmS3hsYUxsaDdYNGtEX1dpYTI4QnRfU2RiNFYyYmZjUUpIWDQydk9TemN2bUFhOENjVVE?oc=5",
-      "publishedAt": "2026-10-30T02:31:49+08:00"
-    },
-    {
-      "title": "Malta International Airport shareholders’ event draws record crowd of more than 350",
-      "source": "The Malta Independent Online",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQlJfZ1czRGpLQThscF9yT2dtcXpFZ1pPY29UVjFodVdyR3N5MUlZSWxyZWJkdGVrMHhMdGlPbEEyaEY5OXZKYksxTE1IY3F3aWZ3X0FVaUtlVlRNTjRwRXY1d3NkRWg3OGQ1YXl3dlhGZFF0ektYNE52WDFtaW1yeUk5cWFROTViWWVzOEdlRDluWmpyWGN5Qmp4XzBpeTFDWUFsUnJRYlhMN3F5SWlEeG9GYkg1YjJKc0JSUlFWVlZKcjBFQjVWdzFUM0hMTmtqc1NzUndGb2s4Z19pZEFBbHk2T2lNcUtxaG9j?oc=5",
-      "publishedAt": "2026-10-30T02:08:00+08:00"
-    },
-    {
-      "title": "Bill to reform Malta Enterprise and INDIS Malta coming within days",
-      "source": "Times of Malta",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY3hkWHBzMjk0djV1bWRFSktRSkxNX2hTdjdrc3lwbUxhekVYQnFDTVR5NVhVZzY5VFdnbTQtMjJPTS1FbjZrSW5Qa282YWdRUnhWdkJEQ1RDcjhhLU5mQWJneW1ibDVvQzdhNjNxMXp0c3FydngyVmhzLXJwNDZTdHByMFdvdUpPZnNDbVNrZ1Z6dXFBQWwtSg?oc=5",
-      "publishedAt": "2026-10-30T02:01:00+08:00"
-    },
-    {
-      "title": "Over 150 Boats And Yachts! Malta Boat Show Returns To Cottonera For Its Third Edition",
-      "source": "Lovin Malta",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYzZrMFY2TTlScUxfOHF6dFFfYzg1V0FXUk9zU3YxUzJCYjRzTXpxa3dzVDBJaFc0dlFvbVRPcV9SSDRlZTNMLXNYbUVlaVBBNkdNdGlnVklzVG5kRzZYTDVsazRWSmYtUXhHbWZWbjVVY205NG5qVnpYLTh3bi0tbTFfZFBLM1UzUXdnZnJySzZ1QlB4SE80WGIyMktweTRHLWxzWGZnTk5VLVpwOFlxY0RncURYV0pwb25v?oc=5",
-      "publishedAt": "2026-10-30T01:18:51+08:00"
-    },
-    {
-      "title": "Malta Airport Introduces Self-Service Bag Tag Stations For Ryanair Passengers",
-      "source": "Lovin Malta",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMktRaXBVUVVXdS1EbTU2NVQ0Mzh0a1JRbWh6cTZINVdOX2JYcFdkSk5vS01NQm91ZVBJQ0xSanpVZmJaRUxXa3pOT0otSzBWWF9Va25pUHRjWEVLT045Z09BRzk2UEwxaW9mazFtZVVleTFlVjVkX2pVRVNYalY2dnVKN3U3Z3pfYmtKc0dkQWNIZjVKYkc5LWtnVXBJM0xlTXlTaUtmZHhES0VLbzRLUy13?oc=5",
-      "publishedAt": "2026-10-30T00:19:12+08:00"
     }
   ]
 }
