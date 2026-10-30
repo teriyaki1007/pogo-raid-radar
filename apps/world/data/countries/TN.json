@@ -1,7 +1,7 @@
 {
   "iso2": "TN",
   "name": "Tunisia",
-  "updatedAt": "2026-10-30T23:08:45+08:00",
+  "updatedAt": "2026-10-31T05:08:27+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Introducing Western’s newest Fulbright scholar: Tunisian journalism professor Arwa Kooli",
+      "source": "Western Washington University",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYjFWRGZfbVFieW1jNDU3RGswRXEtQ29TRUNNMHJIQy1kQVUtTkd1aTdjS3hwM2dZYjYwZlBaWnFoX2N5QW8wTldESWhoaUFzOGFuUHdrWjZ2Q3dObHIwQXNSMjNMLVRBbG9YbDF5cWtGTmdLT1l5U21OS1Zob0N1a21KVUxuUy12MS1QTUpHd054anNlMm1kcFYzcklfLVR3NXFGN2NlVXhNQld4?oc=5",
+      "publishedAt": "2026-10-31T00:18:02+08:00"
+    },
+    {
+      "title": "Tunisia signs new export agreement with Senegal",
+      "source": "Italpress",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE04UXhVX0oxQ2FKQVBXQkZuczZfUUt5RjlyRFl3d1F4TWFCVHlsNUVDZlpUbXN3RG9taldaMXJWcGJtSGIwZ1AwdDFjZW45Uzh3SnZRVXdoMWhTbnpNUkdNRWJDV24zZEhHTUdROHJ3ejRidWlqeVg5S1drRG1TWWc?oc=5",
+      "publishedAt": "2026-10-30T22:31:25+08:00"
+    },
+    {
       "title": "US govt provides $1.5m to help advance Tunisia phosphate project",
       "source": "Mining Weekly",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHVHLWdESmhUcE1qeXotZ0pGbmVEQ0FBQTdJa2tIX3hfNTNCd0cweHVqbEN4NmtFeGprWWpEaVZjdmQ3MldRTmhzUXotTjhJc3BsWG0xdk5xdjhpYXMxVHZ4MXhiU1NkTG1vaU9va2Zjb2pJVW9yM2I0RUphV2J6U1Z0dUt0aUV1dWlJS2doaVZobW5TNUpfNDVkU1ZRS3FuNXBSLTA5bUZZMmVhOW04?oc=5",
@@ -48,34 +60,22 @@
       "publishedAt": "2026-10-30T20:16:00+08:00"
     },
     {
+      "title": "Azerbaijan's oil exports to Tunisia increase 2.3-fold in nine months",
+      "source": "Trend News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iazNKMTJNbDBrX2tqOUZnYmNmVHA0Vm8tRzBQTThOVlFWRmNEVmZoVG96VTRqT3lLSy16ODVsSkNvZi05ZVZhUWxlQ3FBZ0ppRVFoeU9jRQ?oc=5",
+      "publishedAt": "2026-10-30T20:00:13+08:00"
+    },
+    {
       "title": "Best photos of October 30: Dance in Tunisia to Halloween",
       "source": "The National",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWUJ6TW1FUkJXbjd5NnQ3c3VtZlIwTWVvMnZLQzg3YVZDUjNqNFpzSTk1LUVJc210eGh4MlJMTmEwUEFNUXp5NDlOb3BLS29ZNWtIWnZvdDJCWUs3ajk4eFUxd24tNERCdFgycnJVUlVIMXI2REJGUE9RLVp2NWE3TzNuOTdkUDNFTkVYVXVJMC1HeVpnTUFPMGVSZUpEUExQdHBFY3J6NA?oc=5",
-      "publishedAt": "2026-10-30T17:54:22+08:00"
+      "publishedAt": "2026-10-30T17:57:11+08:00"
     },
     {
-      "title": "Barley Market Analysis – Black Sea Exports, Tunisia Tender, Price Outlook — CMB News",
-      "source": "CMB News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPd0lCZk9LYmliZ0kxdlNSRV9SNEpBSEx2MlpNRGtJdExsNGdRSHZ6VEFUSkdUT1ZxTm9HTEN5QWNCazdmaFdCY1plR2thdkw1MW5aRlZrZFE4b0QxQ1ZCdkVqNzUtSDBkZ2NLcFM0akJobS1zWS1NNmMycm1ydDZremJWVWRtMVMwUV83MVlaMjNvb0E?oc=5",
-      "publishedAt": "2026-10-30T15:42:33+08:00"
-    },
-    {
-      "title": "Tunisia’s nextProtein Faces Major Setback Following Factory Fire and Regulatory Shutdown",
-      "source": "Tech In Africa",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQazViQk1LS1lpdEFrQ3g2TGxURm1fTmZSQUFFWFFpcVJyOG5fQ2l1T2wtaTAzWjZtOHF2cHJjRTlubjVIM2F1aVk1dXRmam1DYzBGNU5ZaF84dFhIV1JGRDQ4Z19wVWJNOHBfRldFWHVVdkhRREdVQWY1RXpST3BQbWpMZk5iZkp2LVk0c2hIUHRwWkxSb3VVXzREMlh2aHFfWUtCQVd0N1lfWEpjUmhSQ0RfTEZZRVpy?oc=5",
-      "publishedAt": "2026-10-30T15:25:27+08:00"
-    },
-    {
-      "title": "Tunisia among six African countries with 100% electricity acces",
-      "source": "African Manager",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ3pqYmF6QlNzTGVuVmFzMFUxbXBRSXRKSGJnZzQ2ZkIzLUhIZjJvb2JvckVEOTU5ZE5LYzJ2S3BNS2RHUXB3d0JrVjJJanJFV3FqaTM4SjhFRkFBSnZoVHoxcFllU2FpUk9fQm5CMW5nTExhOHVwUTF3dE0zZHpKZkVSYk45VXY4THBPNnN0VFZudVFCR1B3NA?oc=5",
-      "publishedAt": "2026-10-30T15:18:00+08:00"
-    },
-    {
-      "title": "GLAM Wiki Days Tunisia 2026: Building Bridges Between Wikimedia and Tunisia’s Cultural Heritage Institutions",
-      "source": "Wikimedia.org",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQzVPNFZDSDMtY3l3cjh0bHF4UUNKdUFlVFFhU1hmQkZqZE9yQUt0eGJ4bEJWcF9ydnBtbmozWkx1NVdNUUVJMU1sSHRNVER6bFJDQzB6c1B5UTVmQmhQZlY4MWg3ZDNWYTF1azVzOEFtMWVscHdGQUR2WlRHamh1YnZPbE1vUkE3bzlEMlc3aUNNLS1zeFR5SW9Udks4R01sYVRDdnUtSHVOTVVwdjhSRzJCXzI0Tm5zNWtheTB1YWZSdTkwWWlOdnZfZHVLOVQyY2pTejBvMWZ2UmRqQ0E?oc=5",
-      "publishedAt": "2026-10-30T15:00:00+08:00"
+      "title": "Zambia to face Cameroon, Tunisia in Handball AFCON",
+      "source": "News Diggers!",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV2llc3Y0aUZ4OFdUMTgwakl6VEVCaWpoOHRQakFFZ21NMHlteGw3OWtJczR0WUhWQ2cwMXU2UC0xYVhrdUpsZ085N1dQOEpROWFJSHJxdXpEejAwV3dZOGtKcG5Eem5JcjB3MU52RnA0UEVUU0JOR0Y1WXJ3dHJwbXhoSFBLU1lLSmZaNVgxNlNKeHM1XzZhaDZxNA?oc=5",
+      "publishedAt": "2026-10-30T15:46:31+08:00"
     }
   ]
 }
