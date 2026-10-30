@@ -1,7 +1,7 @@
 {
   "iso2": "IM",
   "name": "Isle of Man",
-  "updatedAt": "2026-10-30T17:02:37+08:00",
+  "updatedAt": "2026-10-30T23:08:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Isle of Man",
+      "source": "THIRTEEN - New York Public Media",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUFCR2w4dWtkMXA4T0w0cEtXcXRwRDg0elZ2WHp2eW4tUWI1amVxNGNrZXd4cEl0Y3ZyWk0xdE45T3kzZWZKek5jMU5lNHZ2dkx0RGVtbWRodGVxRDAySExCYldiLThfd3FVVGk0b1ZqWExxcTBndE1ibXI4eUNadzU4aFdUel9OV1oyUmwtY1k?oc=5",
+      "publishedAt": "2026-10-30T20:48:21+08:00"
+    },
+    {
+      "title": "Isle of Man Yacht Club concerned over RNLI lifeboat changes",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0VmZFb0pjbVk4aWMtNjdvbnA2YldTZmZoYXFrRHQwQ2ZUamkyc2lBUk9tVzZjQm5Va1RONVNRdTZIMUx3VE1CUTBxcWxEd29EQ2pkUVBtalZxYnJPVmc?oc=5",
+      "publishedAt": "2026-10-30T20:16:13+08:00"
+    },
+    {
+      "title": "Full list of 'Bonfire Night' firework displays across the Isle of Man",
+      "source": "Isle of Man Today",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU2djbHJxNC1YQktrMXVyM2lBc05RU0ktYVZDdFpaU3ZCWTNnUWMtMnNfRVZSTC10ZUFvaUE2NzBGdWphYU9DMU9hYW1zMFVJYTFFWlhVMmZOQVM3T1djd3NCMUxDcjF2Z090M3o0RnZ1MnZsOTN6TFd4akx1NjcwcUNKNDNzRm9SX1VyY09qM0JkQVJPZVFrRmYwc1JBd2M4SVJGSEtFamlVMlBwMzdqQkVJUzRJeklsRThyb0ZDWE43alhEclQ5c2tqWFJUN3N5YW42dFlwS0Y?oc=5",
+      "publishedAt": "2026-10-30T18:37:09+08:00"
+    },
+    {
+      "title": "Isle of Man TT stars confirmed for Macau Grand Prix but regular winner absent",
+      "source": "Visordown",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUc2TS1NRW1HRFFlOWlLTllrMExNQkJFZG9BRWo0R0tjV20tTUtqWnBUZ3dPRGpIbFU2VGpZRUNnTm1EMzlKVlM0bVFyc1dydXVhTnFiU0FyMDR3QXN5dUFfRkI2MkkzM3llYzVHYUFlWTN3SVJHeHJnQnRfaU1tMXNDRC02d0w2VktpRWFjS2d4czREM3dkRXNwYlJFQQ?oc=5",
+      "publishedAt": "2026-10-30T17:33:52+08:00"
+    },
+    {
       "title": "Manx community spirit shines through during Island storms",
       "source": "3FM Isle of Man",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRVZYS0Rta1RGWG9pcTg3S1pOSllGdGFYOEtNN2stcXVqVFdsZ2dzV2hlWEdLRFJBT3lkM1FialV1b25TZGFZZ2IyTldDLTBIbTRtTVBZZG5CV21vZWNNMkpTeFZDdkdtQ3doeVBiUDNvOVRXbHFvM2NmWi1Qb1BGblJybDgtY2huUW1oWU9SeGFUYVZtMTk4Ul81bzRyODBMX2N3?oc=5",
       "publishedAt": "2026-10-30T16:40:00+08:00"
-    },
-    {
-      "title": "Isle of Man",
-      "source": "THIRTEEN - New York Public Media",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQUFCR2w4dWtkMXA4T0w0cEtXcXRwRDg0elZ2WHp2eW4tUWI1amVxNGNrZXd4cEl0Y3ZyWk0xdE45T3kzZWZKek5jMU5lNHZ2dkx0RGVtbWRodGVxRDAySExCYldiLThfd3FVVGk0b1ZqWExxcTBndE1ibXI4eUNadzU4aFdUel9OV1oyUmwtY1k?oc=5",
-      "publishedAt": "2026-10-30T15:08:45+08:00"
     },
     {
       "title": "Specialist vans to survey Isle of Man roads next month",
@@ -54,28 +72,10 @@
       "publishedAt": "2026-10-30T07:24:48+08:00"
     },
     {
-      "title": "Isle of Man FA to meet with FC Isle of Man over women's team plans",
-      "source": "Manx Radio",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQTFvdjVIUjVwNFF4bzZpSDBWNmdILUI4SUZ4T3V2R1cxbHBwZTVHX2d0dXhncnl1UkN6d0pZZ2c1bzQ0V2JOcUE1MkJvX3JWSVdQakdqc1RlQUNiRkNwNHBuV1E5aHpyMHhYLXcwUnNBc28wSlFJV1QxaDRVSHNoY1VfclNFMTlyTFY4bVVZWUVKNVFfWl95RkNMUjVqVFlzeURFamFBMUtjdU9nQ29JZWdQMFEtQQ?oc=5",
-      "publishedAt": "2026-10-30T00:00:00+08:00"
-    },
-    {
       "title": "Isle of Man medics raise concerns about assisted suicide following Royal Assent",
       "source": "www.christiantoday.com",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGg5N2I2dEJhQ2U2MzNVTnYyREx2QS1CU1dzcnpHTXBJQWlYa1BHQWpBcFNnZnVvaWl1WHlLOTRCSG1XemJpYVltajBjb2p4aVlIUXBoeWFLQnJDcjBfdTVvOHhfUkhGSXBKRDV0ZDZLN0pqOXNtTzYtMURBMmVEN21hY25DY3gzNEdzcEt6WnR4OUxzNTVqVVFoclN1NExnbk1uTW9ROGlGWHg2ME9CSjZfRkE5UQ?oc=5",
       "publishedAt": "2026-10-29T21:56:07+08:00"
-    },
-    {
-      "title": "Isle of Man revisits captive capital proposals after UK regime consultation",
-      "source": "Captive Insurance Times",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcDBXSUhaTGp5RTNvcFBzTU9RN0Q2a0NFWTJ5UHZxV1lfUk0tbWlyQTZya2FmdEJ0MXQ4aHJPLWhzR3ZTTjREYmdaNnVtMzR1S0VFaFJRM2hUTzVvcGxuUlU0c2tWSzBPVDlNeXlXdkpGNzNtQi1jVlVQekpYdzhsajhHazVzektFdDV5WFdwQlBYcEtiV0hoeE1BdEN2MkxjRl9TVWlaUmN6N0ZNRXhqT254WU5pN2hybkZiS3QwZzBqRk9Hc1hxTVh5SlVKZENYa3psb0pEMG1WOHZCX2JIcA?oc=5",
-      "publishedAt": "2026-10-29T21:44:37+08:00"
-    },
-    {
-      "title": "Rugby: Manx players selected for Sale Sharks player development system",
-      "source": "Manx Radio",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd0p2VkVQUkJLYnotYWl1Unk2MEYtckR5UW13cjBmMnhqTXNCbEp1Q1dpLVVNdW1TUG9ZZ25od2NfQnVmWGJ0VVV6OGl6eWZJMWdxem5UWVZITkVWUGxPWUQtMUFaTlBSdVZEQWh0LTJZNG9KMms5OTVBeEhJN0hNcUtpMzlONVZCVldjZ05fekFvNDhTX0JvbVdLRkVhQURUWlVZV1Fqa1RSRjZZcTBjSDBaSFhUWk5XZHJv?oc=5",
-      "publishedAt": "2026-10-29T21:15:00+08:00"
     }
   ]
 }

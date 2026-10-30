@@ -1,7 +1,7 @@
 {
   "iso2": "EE",
   "name": "Estonia",
-  "updatedAt": "2026-10-30T17:02:37+08:00",
+  "updatedAt": "2026-10-30T23:08:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "Marju Kõivupuu: Halloween won't displace Estonia's mardi and kadri traditions",
+      "title": "Estonian PM Calls Putin a Dictator After Report of US Calls for Restraint",
+      "source": "Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vTHpwSzd5cXh3dzE1SzU2Rmc3eHdqZk92SHNNOTNvbmk2U3dTTmhZb0dMNUd5OHlrNU9WLXpKMk8tam1fd3JLSE4yUQ?oc=5",
+      "publishedAt": "2026-10-30T23:01:58+08:00"
+    },
+    {
+      "title": "Estonian PM pushes back against Pentagon's call for restraint on Russia",
+      "source": "RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenJDUThLd2I3ZjJQSGZHYzh3ZzRUX2ZVbUx2SFRac09zbGdydmVCaGE1Y1ZpVGxhcTUyU0dfLWMxUVNUM21wWHRjcDRvdEV3dFNLM1hSTW9fckxkTjN3YlJCMWl3ZE5QM1ltUnQ2bkx5U3ZMaFZoeU1IZWszcXEzLVdLcDNVajZSQkJSa3d2MHMtQQ?oc=5",
+      "publishedAt": "2026-10-30T22:25:00+08:00"
+    },
+    {
+      "title": "Estonian Prime Minister Refuses to Soften Rhetoric on russia Following Alleged Request from the Pentagon",
+      "source": "Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcG5RS3FtT1RPNExNSVVPOXFESUw0bVdOX2ZLWTg0VlBWbk5wNVVsWlg3TVFGcHJ3OHJXLXEwMW9wS3B3dE9TZ2tkSzVyZ29zSDFXQjV4bDBvYW41YWM5UTI5UHlpMXRwWFM5MFZ1RTh6WmxTc2hyWkliZ1BWZ2RZTS0yaTh0YWhmY1I1NExhajFiUmdJbEJmdGs1UnpuRmdxdGRSTzQ0QnBRbW4xU192UnJsYU8xWEpRTUxaYjRITHVFblg5Z0HSAcQBQVVfeXFMT1h2TmUyd2tyUkNoek5NYmZxdFJxbGJTcnFZczJyNlhjeFZzdDBYckk4dXZQcVA4eGNMc2dzLWFFWHo2cVhManpJalV2M29VZU9uR3I0dWkzb21QdUJJdms2MEZLS0ZGOHhpcTN0cUY3N1FrRzN4WmFGSlllWDlXT1p4S2tGRG8wUnBUM1JXcnpiV1dYaUhXNzNlQ082UWY3TjZQbnpSV1NBeHJJeG1xNlN3R3VvTFVOTFhIZ1Jmb1p6YXFldQ?oc=5",
+      "publishedAt": "2026-10-30T22:24:41+08:00"
+    },
+    {
+      "title": "\"Putin is a dictator who kills women and children.\" Estonia rejects softer rhetoric toward Russia",
+      "source": "LIGA.net",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOanZHRjhIZjdhRmlpT3NjeGZkcGtNWTJLdmgxWmRiTjZvOWpWaVBNTmhzQWxyMkNUTWJfVHQyZkpORWFWelBwN3JkcGV4cGx3djZCdHBfNXhPSkVBTVJHNVRoNXh1R2k4b1RSODVqcjRZTlJVMWg1RlBhaTdBaWFNTUxPN2tGeXpRMkx5cERCdUZNdFlnc3N3d3BYY1dKUDdZWVZ6b1RPNjUwRzJabE5fak9ZUjRsVlBRdE9kazVyenZwOEdFcUxYczZ0eVNkUdIB0wFBVV95cUxPNTNVXzN5WE5pN2VEVXR1TWQxcnZiOHBObDlsLUl4NmVJSEtjbGd6ME9sTHZ3bkgtVXJGVElGRk11MFRKNW4tS19zVkxndjNGNGowOHk5eVBvUm5FNnBDTE02ZzRVTkY2UUw4N28tMGl2M2tJb3ZqbXVBMW4zRENoMHNvaU00TGw1dGtrZnlvbzV2WkFHc3Z2OFVqSW5aeDVMZ3g3bFB4RkE4WURCS2V6U1JtR19kVmJzdHhSdXdNZGN2U3U5S2ttZmhKa0tJZGhHNG1R?oc=5",
+      "publishedAt": "2026-10-30T22:10:00+08:00"
+    },
+    {
+      "title": "Estonia's Russia expertise is respected by the US, says foreign minister",
       "source": "ERR",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWWlWak56dEVJbWZNWjF2UkdLVGtzQlBBaDQ1ckNjOGZQS2M2YTlOeU9LQW1COTU1QkZuaXlGbDNlQ196c1RLblZyUkl0WHpmT2VKckJUOGJCNWthNFM4cFBWS0FQbUVWajFRSDJNaGJ0a2tETlRJZjhfU2dqOHFacDR5Z0JoWlZuZng0VVM5NmttSFVTREFnTlRBd1dCSlB6NzlEejNkVVZLQ28?oc=5",
-      "publishedAt": "2026-10-30T16:41:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZW5yTWdRZjhMbVVVVGZlNEk4SG5SbFRhZno1STRQOUtoZmtkU3lha0VacG13MWFEZXk3Z1ZCdFFrS3F5S05GNHotMXdWT0hzeHkzS3RrTDl6eEhhakZqUTRPZlpkYmo0S3ZUSms1Y085X09WYnZObjUtU1ZKQzduUkFjUHNuZi1ISDZ0QTNuRW1YVWVVMlVfY0p6cmRqMUdkZzRfQw?oc=5",
+      "publishedAt": "2026-10-30T21:17:00+08:00"
     },
     {
-      "title": "Estonia prepares requirements to upgrade G and H buildings by 2033 — ERR News",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2ZLOWVDWXEydXlpcGxadF9LVUlxYXBJS0ktLWE5c25Hb3BuRkFPYmNkZGxXN05fNlVzZk1YX1RQQVpaMnFINGZVZ2FYMGgtZXVWRVRpSi1oaGR5LTM4YmF4eEgweUdDdFNNTkZyZzdzaUpUaUsxUDdIakJ5NnB4ODJUb21NVElsVE05dFZ5X3lQckxCT1h4SGp6ejQ4WkNXRXBCdXhB?oc=5",
-      "publishedAt": "2026-10-30T16:22:02+08:00"
+      "title": "Turkey detains Kurdish poet over terrorism allegations after Estonia denies asylum, sends him back",
+      "source": "Stockholm Center for Freedom",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUnQ4UXlqSFhrMjlYTF8tWVFZUmJwTW02WFRjbE9GaDNuaURWX2VSN2lUQ1RnR1dpUENqNjFOMEJ3eHkxb1g1NHJhQXNsdldidEdmTVkzMEg5bXY4T1BzMmpkM0o2ZmFvZHRBU3M2cktfbmx0MUZKdXZOQThjTTVCMWZyS1VCSnZHOElQUVY1QW1FUWJHTENHcDhDcGJlV2xjczlvNGVQdWxIVWpXQTRINHV0SzRHWGZwdVVJQWdRNA?oc=5",
+      "publishedAt": "2026-10-30T20:47:00+08:00"
     },
     {
-      "title": "Estonia's GDP grew 2.2% in Q3 2026 — ERR News",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMkd2X0xoUDh0MUdiM3A0TkRVRG1oQVdMeG5nTnNtVjdIRGRBaDhtLTJqcnJ1TDQwNmR2V0V4QTlzT1dRYVI2RHhCc0o1YWZ5WU9ZQkg4UXd0cTZETzBrMlJ1UlR0RUtsQ0MxSnFUUV9TTEsya2ZJbldLY1ZoTENCZVIySHFfSUZ6UTB5ZDduTTdTalk?oc=5",
-      "publishedAt": "2026-10-30T15:41:55+08:00"
-    },
-    {
-      "title": "INVL fund’s portfolio company Galinta to acquire Estonian cereal producer and owner of the Baltix brand",
-      "source": "The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPSGYxM0hhVzVUWVcySFZsVGxaTlhvaUhaMWcyTWYtWUhsVGE2OFEtUjFRcVFrUXZmcmhwSjFoWHUxbElXVjlaYUpjZE5ZeGNDdDhlRTdYenF5WDFIVFlsOGFHcFluVGRHSkJKdm1lZ2x2cE1xVFhBV2w4NXNTem1iaWY1WGl1d0ZEd1E1MU51Z0tyeFVIYi1wbHQycmNrNmI0LU9WSXJuZnNqTmlVcHpOSFB0ek1nTkVWMkdmSm9YNXpCYjBrQnZFeGZWZUdsNXNKQ09Ga29XRW52V3VDRkVDTmtWQUNoVm1ucjFNejNteFlvY3pOMVJJQTRGMFFPRTZaMDBycGJhUdIBjAJBVV95cUxORmpIQkhUYVZJdFpvT0t2WmkyYVMzNmtVM2hhQnF6LWRiQ0IwTDhQZmdnREZNb25VODNtb0FLdWR3TG1QRURjejhJTkMzbDZ2X0dxbHRGWnBKaFU1eUtGUnBCTTRSNXpBMVBteEdBUU1sNV9KM3pVZ0hYZHJXdUQ3MHo3dVM3bDZuWHItdjZCSGtwUlNuOTB2MFFMVFVHNUtwRVlfN2tub0I1d2E2ZUFzS3ZDc2hvUFkwQXVTcU9oT1hfeUJBODBtdkJmM3JSUjBZcW5oTU9VNXVEUjJwNkJCOUdtUUxCcUczdFJfZnZ3R1VxV2gzcUVXZUlDM2JJRGYtdm9QZzdJdElZUk5y?oc=5",
-      "publishedAt": "2026-10-30T15:37:27+08:00"
-    },
-    {
-      "title": "GDP flash estimate: Estonia's economy grew 2.2% in Q3 2026",
+      "title": "Official: Estonia should never even consider giving up its voice on Russia",
       "source": "ERR",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaWR0UUxqUWNIRGh0R1oxb0ZpVXNyZy1rYnctdF9FSkNJODFjZTZmRjFaeDNNU2RfTUVJZklmUkNMZmdqTU5CckdlOV9WR3JXWHYwWHBpZ1lVY040RW9MRHJGajE3dGh6dlVHeTJTdHVxc2s1cGIyRzlEVUNoYWFoZXV0Z2ZIR01rM1NUenNma2Q?oc=5",
-      "publishedAt": "2026-10-30T14:53:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tkRXBFMUw1UFlwMkNHbWZ4VVNmV19nWFN1MlNNY3BfSnNvSXRQcWRVSUxkejZrWDJxUVBvcmpCS0Nnc0ctZW1DR1dhdUFrN21qS1IwY2M2RjRDY0pzc214RjJKTmk3SW5Uc1RFd2JWV3ltSjU2ZllweTJreG5PQzBOQlVFOXlEYW5QX2pzY00zSE5SVEJwak1GeGY5LWpFbHJ2MERtaw?oc=5",
+      "publishedAt": "2026-10-30T20:36:00+08:00"
     },
     {
-      "title": "UNDP facilitates the exchange of experience on judicial digitalization between Turkmenistan and Estonia",
-      "source": "United Nations Development Programme",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNenR0TVlzcXRFa1drZktXeHVMVVRFXzlXQVc2RUtJT0xua1BYMmRPZWJPVmJ5NDYtd1R3aENCREV0LUNuU3FIcExzeTEyZ3RMUWNxWjgwMmxJS2RQQjhVX1doT2YzYlp3X1lDTVZQRHNuOXNlQVdTemhsSGE4NjBPa05BVWpkNU1YS1U4OUFsZTZBT0tWQ0dVYWVGd0dtRFRnQjFpZkFsZi01WXp4Ny0wRTJTYm9UTUItZzN3czFZQnZ2UmJ5SlBzTEdKcmxkZzBhUUFONjBjM2NIQQ?oc=5",
-      "publishedAt": "2026-10-30T14:47:56+08:00"
-    },
-    {
-      "title": "Paysafe expands PaysafeWallet into Croatia, Bulgaria and Estonia",
-      "source": "IBS Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLUdESzA5WUtnU1YtQ3hnQ3QtN19HMEtjdnF4UzhyNmlqTFdZQnM4cHk3V25LZGZtUjFhc0I5Wm5jTnhVZnNaYzZaUGx0dUVRVDFpN3pkeFpIaGVNSjlWYzBzaXhndUdSZzNwb0NCOHpGY3BSdHNkeUNPU0RDYnA3TkM2Nk5lZmhtdUZSQmRremhHZHIyb0g5R3VlRlVndmI2Q0xONg?oc=5",
-      "publishedAt": "2026-10-30T13:45:33+08:00"
-    },
-    {
-      "title": "Estonia to build around 150 bunkers on its border with Russia",
+      "title": "Pentagon asks Lithuania, Latvia and Estonia to soften Russia rhetoric",
       "source": "Around Prague",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORXg2R0Vzdk45U0toVENZYUU4bGJLX2hfc0p2V0VFbWZEX1NnT0c1OHNob1oybkQzLXI3dmRVU1Q3VWZxX2JHRTU1R3ZOYW5iLU9Ic2YydXFVcWZHQWVHd1QtYWxGRkpqbGJQeW1SQmd4dzRhbkdRVXZzci1MSGx5WEx5djFZZjZWYXBqS3E3VFBRSEZUSXI0VFIxMDJWc1E?oc=5",
-      "publishedAt": "2026-10-30T09:56:06+08:00"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRG82Wlh3ZWFVTGdBQ1R1WmVSSmxTa0ZEN0tZbC1RSUdUVkRzLUFMeGswV28wOWVBVHZRV3haT3RUWGZNanQyekFaOHBwdWl0YXFuZV8tQlBHeTNON2RJWWpzSUxxYmJWc25RdDN0enNTQzVPajRiazBDcmJBVFRYeHhYT0NQWUJkM0d0VkV5UWJHYjZGZHJ1Z21PcEdMWEZlOVlyZUo5VVpQZzRL?oc=5",
+      "publishedAt": "2026-10-30T20:15:19+08:00"
     }
   ]
 }

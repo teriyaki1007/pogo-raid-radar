@@ -1,7 +1,7 @@
 {
   "iso2": "EC",
   "name": "Ecuador",
-  "updatedAt": "2026-10-30T17:02:37+08:00",
+  "updatedAt": "2026-10-30T23:08:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Ecuador implements technology to strengthen ...",
+      "source": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcUZ0YnNpNklKS2dSRzRhYWRNRlVkaV95aFBRS1l0QzVnQ01kNk1zOEdSSlp1ZEpZUldONXhRLWpKQmZIUWFmcmNhMjZHdUNXOS1SSjE0akZ1UjZyWnVWcXhfUjRBNWd0NVR0SmhyaUszWG1FUTlEcFpPVVJJd1gxS3c4SGtURWd3UzBvV0FBWW9td0hUbFc5YkpadkF2ZEVWNlk5VTdvOFN5MzBwem4xUFl1M1U0ZjlTMENNSHBOSUhqYXJ0OUhxSV9PanRQS3RLR0t5bS1sNGhoR1Z0YVV5alhYWVU3R2Nad3c3ZnBvYl9MdFhKOGJZMm1RemRzVUk1NkE?oc=5",
+      "publishedAt": "2026-10-30T21:42:53+08:00"
+    },
+    {
+      "title": "AEBE: Ecuador expands banana exports to the Middle East, ready to serve any market",
+      "source": "StreetInsider",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOR0hBVTl4S1lyWVhzcmpJU2JLSUtpQ2lqcXN5Wk1ZM0pDR2JQS0MwQ2dfNHZrRUhuU2Nqd0FmcHBiWjBEOGo2b1ByX1BGb3FtNEM5QXowdXZXcGFUUTg3ckd0X1hIMkJlZUs4UnZwZHk4Q2NTV1hxcTBrVWd4by1XUXVsejhmOE1iVlBHVkFnbUpONERrdFRoX2RSdjAyZlU3V3haUDQ0WU5fRnlvU0pMek96WmgwRVlWLWgxeTBmU2tQalRrSjdlSXR0UzZEbjdrNHpidllEcWU?oc=5",
+      "publishedAt": "2026-10-30T19:19:51+08:00"
+    },
+    {
+      "title": "Abundant supply keeps Ecuador shrimp FOB prices in check for Europe",
+      "source": "Undercurrent News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPREttazBPRDFlNUFXbHdLOE5JQVRQQVlzblRyLXlDbUY4aHRiWEZKaVpITUhNcnIwMWowQnA3LWtBRjNJM0I5azZpdjMyVTlzZkZEMUtHOEJPekpObVJRaGFyRlhyM180SGIwa1paQlMxeS1iZ0VnQjUzMlRFbVFqX0VFU2Q1cWw4czNoMTN0Q0Y0OGROSjQxeVdHakxjVlUtUkgxTXVZcHRTLTFTMEV1cDVn?oc=5",
+      "publishedAt": "2026-10-30T18:52:00+08:00"
+    },
+    {
+      "title": "Ecuador Protesters March Against Noboa Ahead of Local Elections",
+      "source": "teleSUR English",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5UYnR0WlhTRzhENVhURlhKRm5ULTdjOXBmS0V5RmZRTEVLSVNuM0p1Vl8wdGR6VzR1bHJRdUhsUU5UUmhjcl9zSVNSZkhMNy03QW9xWTdNempBU3JfVVY0UFlfZHhPUFFXemt2clpXcW8wY1RXalFfUUh3?oc=5",
+      "publishedAt": "2026-10-30T17:50:53+08:00"
+    },
+    {
       "title": "UAE, Ecuador discuss strengthening joint cooperation and partnership",
       "source": "Dubai Eye 103.8",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNHZYRmZzTFhQSDZXSFpRQWZoM2pzaV94dGdhTFR2VWpaRll5UzYyT3Fmc19FeEZZQmJmV2g0LTJpRFNXS1N5RDVEUC1MejJWMDZJanJucVlfeWNtcDB3eTR1cWpWWHAxeWcxN0dOd0FBWEkwbkpxVXgxRkhPbmV0elgtSGkwUDM2ZFp6RVZJS200T0c0Sl9od1p1RWstN21LMmlxTzd4N0JKNFky?oc=5",
-      "publishedAt": "2026-10-30T09:31:29+08:00"
+      "publishedAt": "2026-10-30T09:31:46+08:00"
     },
     {
       "title": "Suspects in Ecuador politician assassination extradited to US",
@@ -42,40 +66,16 @@
       "publishedAt": "2026-10-30T06:29:11+08:00"
     },
     {
+      "title": "Ecuador's push to ensure bananas remain an everyday fruit around the world | Multimedia | 55021832622",
+      "source": "EFE Servicios",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPajZMMDVPeVBtYVMtcmFONVlSUEZNeXZXZjlrWmJpTnZhaklnaE5qT3lHQktlNVRSVndZTmV4Q3VvQmRqNTdaUEhkeWR6YldFaDhEOVlwZzZJeEphWkJJRjFjdDh4UzQwd2FuQWdGWUxCeTcxQkxpRjNkZDVXSHFlVldUMXRleXFCRVgzcjBTUmFodWMxR3ZfTVhGazdkWEZEQXVTdFA1Vm5sdzFUaHlF?oc=5",
+      "publishedAt": "2026-10-30T06:08:00+08:00"
+    },
+    {
       "title": "María Elvira Salazar pressed to explain $3K donation from accused Ecuador assassination conspirator",
       "source": "Florida Politics",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTUlXSXdvN3BMVkFSMnRSZ0hZa0dXNFhsVk1manI2eFRJbG5vZS02V0JCcWdWVU1yc1BDeUdqZHNaRFpOSHJQYkFPOThuLUVtR2VNOV9sMXpCQ2hCSWRWTFpIOWhiSDNfSklpQWgzdGtRRml1ekxLM3lKczE5Ulc0U2xvZUZQY1JhbGdXQ2RTMGpWUElGbzFZMTN1NFdMVUFyNTFRTG1xUVVfV1BfNTBvd1VfUlFBVUZQVWpIWEZxWkp0ZVNpbGxra1hlX3Z6X0NwVW5yZ3BQTG8wQTg?oc=5",
       "publishedAt": "2026-10-30T02:13:32+08:00"
-    },
-    {
-      "title": "Abdullah bin Zayed, Ecuador's FM discuss strengthening cooperation",
-      "source": "Sharjah24",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwSDR5elhEYUNyUFRjdHJ4TU5obkl5Z1A1cU9FWnludVZNTGpjZ3FZSVBKRnZ5S09hcjdhaW9sdDFIS3NkRjlyOU4yRWMxR295Nm9EZVJrXzhVMm8?oc=5",
-      "publishedAt": "2026-10-30T01:31:07+08:00"
-    },
-    {
-      "title": "Ecuador extradites three suspects to U.S. on drug trafficking charges",
-      "source": "upi",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcmlNTmYyRkwxMzNCVGNWODdPZGQyVGs5ZVlaR1pyZGt1QTNSRFJfbkpDUjV1cllKNEpORmtITGFWdzdOTnp1M2FKSGhabVlqSVVsaHhFbjI5MDljemt5c0Y1Mm5SUjhLOTBJZmVFT3E4MXIySUpEdXYycW5LRFUxTFBnLXZLTWl4bEgzZkxCSndIME5acFk0SExkSlNsMlhzUmJvUTNXQkc3OVXSAbABQVVfeXFMUFdmR2otY2tiLXZ4blMxZUJzWkVwTjAtRjRacFplYWtLZ25ybWdqZS0tbG5jOUZub0hwam13d0hBRjhjWmYtcTBRZ2RtTkJEV0p0R2ZPLWlfc0Q4ZGpyRGN0M1lfWU5GYWxHWXZRREtLYjRBMkxxemZ1Nkp2eU9tTjdoZkpyMHBQSDhrQnZFYnFlTDcwdzhxVllkV1JvbS1UMUNlQVpIY0NJSVJFSWRkQXQ?oc=5",
-      "publishedAt": "2026-10-29T23:55:18+08:00"
-    },
-    {
-      "title": "Ecuador squeezes 24% gain from offshore gas field, extends LNG call",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlB3dlVfZ2JzLXVFSS1QRHJRcjVTNi1KZGc4bmp3U0xhRGxtY2VSTUFKYzVpZU1uRDc1VzFYNTdiM2NDaDJwUFpyblJHdm91UEhfNXpCNHE2Rm9aVzN2WmtBLWxBdHpsQ002ZUpqdmV2VDRwa0V4eTVsMHU3SXJTd2Nyc0xzZGdzT2xoelI0bU1GWmdGeTlsUGFJTWlEMzZiU2c?oc=5",
-      "publishedAt": "2026-10-29T23:29:50+08:00"
-    },
-    {
-      "title": "Silvercorp's El Domo mine in Ecuador to start operations next year after legal win (SVM:NYSE)",
-      "source": "Seeking Alpha",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTjZaMnRtdVd2WjRDSkdSVmYyU1lCWVN0QWljZ2k0amI3bTY1YnpvLUxNV2ZfTG50VEFjYUNkQXd1YU1uM0NRekcxWnEtM1lTTUtrWElwRE16eDYzVlpESlRrMjhpMGp4UUIxYnRqOW81UE54S19Oa3VfYUt0S3hNVVNHOTZwVXkzMzFWdDVHeE1mQi0wZl9QQWtQWWFVTHA3Ymt2cmt5TVY2UjdFWkYzcXFoUlFrcXhIMERR?oc=5",
-      "publishedAt": "2026-10-29T23:23:10+08:00"
-    },
-    {
-      "title": "Closer eye on dragon fruit quality following El Niño rains in Ecuador",
-      "source": "FreshPlaza",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRjNvLUp2TlhLQzRhekwzS2FpclpYbS1ST2VaMElqeW0zbWhwSHFmcDMxTF9CbVA3YlpjaUM5SjQ0dEs4U0hpeEdaOVQtNl9vVHVJQzVIcEh6bDBKbkN2ZmRReEpLeVd2MFUtaURsUWtiV1dpOXFPWm1pXzdYcXdLUmdNYUQ4WWNHbF9qYmpvUF83YVpmYm8yckliS3F1TlJadGU5SjEyWEhlZnRrRXY4aV9VSEJ5NUlfS2o5THpsNkVuLW8zamc?oc=5",
-      "publishedAt": "2026-10-29T21:37:05+08:00"
     }
   ]
 }
