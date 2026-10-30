@@ -1,7 +1,7 @@
 {
   "iso2": "GL",
   "name": "Greenland",
-  "updatedAt": "2026-10-30T05:08:42+08:00",
+  "updatedAt": "2026-10-30T11:04:11+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Air Greenland Establishes Ground Handling Subsidiary",
+      "source": "Aviation Pros",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnctcDJoTlcyWHpyN3dXTWNjelMyaGtPbk5SU1pWQkJMVFdReEI2dk1remdBdm1waEFiRjdsNWlhZ0U5cm1vOUNTUE5XT0MxM0xIWkw0OUxRdzZsQkZGbi1nMF9kSXNTYUZ0Z0g0Z1NRUjdLcWhmN2hoQWh1Nlh5VjhyR2NaellKVzd0VE1RZmZGcW5TbWZXOXF4aWJLQmk4d2RFOXNXRDZJbUs5eDNFZ0NWSWlHc2VOcWhERzByX3JidTlnZUlHM0hSa1hFUnNISnc?oc=5",
+      "publishedAt": "2026-10-30T05:40:12+08:00"
+    },
+    {
+      "title": "Greenland Resources: Potential €50 Million Equity Financing Advances With EIC Fund Due Diligence",
+      "source": "Pulse 2.0",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ2xiV0lhOG1RTWJ2aXNnUUREaS1rRlFCQ1hXMk83UzlndE91NTJlUXh4UUhZNVZiWEFfbE1YbWF5S2FkN2NOdGxhUnNQOWRHY3REdmdqX0I3MXItb1ZpSGNJWEs4UldJZzhDMDhITWNEdXd6SHVVRGZCZHZNS2hSV2M5WVNEelU4dnJBX1RDT0RTdUtueGxlTzZzbmdMLTQwT2lGamZWNU5MSi03WV9nTkZockhGdw?oc=5",
+      "publishedAt": "2026-10-30T05:34:58+08:00"
+    },
+    {
       "title": "Ilulissat inaugurates new, longer runway opening the gateway to North Greenland",
       "source": "Flightradar24",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON1BZVk1EWmtDMldjU3VoVkVJb0pwVWRMMFJEVGszeGhMekFYNG1sa292V0JGSGFaZTl4QUI0X3Z5ckpKNW1UM1E4bU5KWUoxMGZzclBxQmU1MUpPZzhzWjVwVWYwbUg0azNPNFp5VjlzdnFOLV9VUGhISUd0MklvWlctR1lFOTRGQ0lJMFBZS2NrSDMtdVpoWjhSNUNLUDZscUFfUUtSNjI0dVVoMmhnZC1MQnhyMEM3dnZyTU9uQkFPMVVYajhodkZqQm9Ndi1hT2IxQmJtUjY?oc=5",
@@ -40,6 +52,12 @@
       "source": "Markets Group",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNkFSODRKcGJwbTNBc1g5Nm5uRmpyNFNMYWVwbjNLX0ZiVW9YUE13RE1JY0c5WlRCU280a3N2OHJFRVBCbTc4dG9Xd2lVSXV4SFZpRVF1RkpfaklnaldQVV9vRmxCdGNjanpHNzBNSGRTRTU1LU5mWUN2WnhEMTVuMFlMT3E?oc=5",
       "publishedAt": "2026-10-30T02:54:50+08:00"
+    },
+    {
+      "title": "Greenland opens an international airport in Ilulissat – the third in two years",
+      "source": "la Repubblica",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNmprM1ljU3FhTjhmR3l1czRwYl9LUk1hOHBjNmROUFp5Rm1Xa2ljdThHNTdmZER2bkN1UHlKcDhnREF1RC11WWU0RERmSERndzJpZnNWOGdDVTltOVJNcnd6M2R5bXoxM3NfMXMwVGlqcWdnZk9MZ0VJa01TblNFd1VWaGlXNmdkcWhpT0s0OHNGZTRmVjBuZXROUG1PSk04WGRaS1BTT0JKLWRxMk8yTUtVX1VDTExtdTBQbzJWMGtKa0dlVkwzVVprenAyVFc1bmVJVm5HNA?oc=5",
+      "publishedAt": "2026-10-30T02:50:52+08:00"
     },
     {
       "title": "Air Greenland A330neo arrives at Ilulissat to mark opening of new hub",
@@ -54,28 +72,10 @@
       "publishedAt": "2026-10-30T02:15:16+08:00"
     },
     {
-      "title": "Ilulissat’s new airport opens, completing Greenland’s airport overhaul",
-      "source": "Arctic Today",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbWdEd1VVSFFwazZZYWx2Z3g2RXpFNGNvc3RkdjZZNzZpZVU3SzB4QUExakxQQUs1QTB2WXQzclhKVEd4aFRjTVNrVzA3MkFlRVBDTUkzTnRKY0FRYnlOc1h0QTRiYXN4Qm1JSlFmaGM2OXdnSmVTZGExWVRRVWpUcnU0c2VDMXprUExXSEw2VjBkd0d6VFhVV1ZNZlg?oc=5",
-      "publishedAt": "2026-10-29T23:55:37+08:00"
-    },
-    {
-      "title": "REG - Verition Fund Mgmt Greenland Energy Co. - Form 8.3 - GREENLAND ENERGY COMPANY",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNaUFrRWdCbkJEb2RjNGdsNHlyellXSnBEN0h5N190d1JObk9FLTNlVFd0UkVVLURQVlFqM1ZScUh6aURDdkxNcExwaFg2Y2d1b0FnTXB5NUdfc0NCdzdKazBnVjlGNmtLYVEybjRZYk5Ma3YzUkQ3SlhhOFdFVkU1RkRGaVhlNmZIS01ZemdSM0M5eERSajZXam9EOGdmZ2Z5czBqNEpOWUVZM3pBc2pIcnhhRjhNRjRpdmtWRTJKbE9HTDJscVlNaFpIYkg4aU5kSUZiNHgzQl9fWE5fendYOGRQRXNsdlU?oc=5",
-      "publishedAt": "2026-10-29T23:00:01+08:00"
-    },
-    {
-      "title": "Direct flights from Copenhagen to Ilulissat cleared as Greenland airport opens",
-      "source": "The Copenhagen Post",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT3FLckZBVmhzM1p2M0UxemlhdU8tLVJyWmVxbHpiMnhmNjdtVUNySXJXRG9Fa3V4U0JVamNsSk9nTEdPSF81MFZIUDJqRUkxNE05WmtfMExKNURLSFZPWk01aTVoSU5wZ25aOW9lMmpIOTRURlhOVmhpaEdPcTIySVUwVnl2eWhxYWxMZ19xbWZZSVJjR3EyZm5YMncyMlItNUVOTkZENGROcVNldkhRVmJrdzFJYUE4?oc=5",
-      "publishedAt": "2026-10-29T22:56:32+08:00"
-    },
-    {
-      "title": "INVESTOR ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Greenland Energy Company - GLND",
-      "source": "PR Newswire",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNc0lWT08tQmZnV0RISXU4TG5oWThfVFJyWmNLRExRYVp6WjFKWXFLV2RCY2pGNmhVbGx4cW92QkRTTEVvTS1DSmd3SjNVUGlkV2J3aG5Pdktac0tnMEFhQzcweUFlb2hGQ0c5bUtEYkRFWF9yTXVTSUJGZDNpckVwakk3TWM4LVJFVHNhdzgwVFFoOWt3N210T0hMSE8wYl9iOFhVczNQVjU5bEM1bGFaTHlmV3JpMF9oS3NPMUhoRnFqNldYRFl4TTZvU1dvX19rTWlrUEVfa1BUQl9feUNncDR5V1VjbzV0Q2pwcmRxZE0teHlJZGxzTDFDdw?oc=5",
-      "publishedAt": "2026-10-29T22:05:00+08:00"
+      "title": "Greenland Approves Tanbreez Mine Plan as European Lithium Nears Its Final Days on the ASX",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNMU9ELUZIY2R0eVdQYmptNENCSGk3ZmNVT0g1TzZQMmw0OTNTWHc3WENIUDVrODVTME5tZHl0a0dGSTF5ZVpkcm5DMjBzaVplNlNtdS1Bclc4bU52bUNTdDMtX3JfY1ZnMnhOYU94SDV2TmlIaGxyVnpGb1RKYkpzS0xhSEl6TGtyOEoxZHNKTnQyX252QmwtQWRQLU85WjZReHpkUXJIdDZxNkdBcXhudF8zOERzdEd1X2s3clI2a3ZfWDdocGY3NHZqME9SVDNDRTVjUmlrRmNNeVlKMTNSTWhyRUxXSTI0VlFaamFVXzNBSzA?oc=5",
+      "publishedAt": "2026-10-30T00:41:00+08:00"
     }
   ]
 }

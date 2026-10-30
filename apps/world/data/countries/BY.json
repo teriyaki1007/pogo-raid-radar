@@ -1,7 +1,7 @@
 {
   "iso2": "BY",
   "name": "Belarus",
-  "updatedAt": "2026-10-30T05:08:42+08:00",
+  "updatedAt": "2026-10-30T11:04:11+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "KuCoin ends services for Russia and Belarus users",
+      "source": "grafa.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUjRJWlVSU0NRZEJ6VTlwRG9HNHdUV3VwdXpJb004bWFXZmUzX09VMEZwOE0wX1Z3Mk1sQWNOT1I0emZnN1c2X20tbW5zODQ0ZmhWQ1JOMnZyNDRXekphV2pTYWpGNy03RmJsbEtHYlNGRUxzTEJTTDBvbHoyNlJtN2dkVG5McEljdlE?oc=5",
+      "publishedAt": "2026-10-30T08:27:41+08:00"
+    },
+    {
+      "title": "German troops in Lithuania monitor the Belarus border with sensors",
+      "source": "Around Prague",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNLXVEWFEwRUlTT2RSdlg0YTB4UjMwWEZVMC05TkVic1FQbm83ejhqRkd1MnlOWXJOajBYYjFpb29YUU1lTjNHUHVoXzFFeFdyYlNEQUJSZTdSNEdhTEZFOGNBbTVEb3VxaW41WkE4MFBvMlNJV3lOUU9PRmkwUUdMNkRiY29yRzV5bU9KbzRQbFFqOXRnaUtrMWI0eVh3dXNuUVBUVEk1bnY2eUdKX0E0Yw?oc=5",
+      "publishedAt": "2026-10-30T06:40:56+08:00"
+    },
+    {
       "title": "KuCoin exits Russia and Belarus with immediate effect",
       "source": "Crypto News",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13bThTeDN0SEZzclNJTFNNQW9KVGQ3eUZYU0JFZ2pJbnVtNkRNd0hzb3k0OVpmMjdJd0l0ZC1RRC1aR0diN1I3YkR2aUpkZUVnOTFzcWU4TVFxLTdXekpfa1huaTd5RHhtSmlwSTdNSDE2THJFTS1OZQ?oc=5",
@@ -42,10 +54,16 @@
       "publishedAt": "2026-10-30T03:41:34+08:00"
     },
     {
-      "title": "KuCoin Russia and Belarus Exit: All Services Suspended",
+      "title": "KuCoin Suspends All Services for Users in Russia and Belarus",
       "source": "Bitcoin Foundation",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNHJDcGdHWmFvTXh1YWcxbndZWU1KNE8wY1NNNmRwbzAxdWp5V0xTRFprN1lqeE5RZlRreWFEdGVZaGRfeUZTNjZCem5FaEV6Z200OG1XZDFUZVZtRWczNWEyVHhTcGE5cEhJN19iUzdHOHdLS013cS1pM3R1SGxlZU1EWDdOYmJvTHVxM0ZIcmRGWm4wTTlxTW0tTFFsVTc4cjRuQ2pXOEdEZw?oc=5",
       "publishedAt": "2026-10-30T03:22:54+08:00"
+    },
+    {
+      "title": "KuCoin ends services for users in Russia and Belarus",
+      "source": "Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ua3dTTGtBTElUVzZEVzVRTTh2Y0tNVVNQMGR0NnVwNGcwVVgweC1tWmlLMXg0Q19xRUpjYWNZSFU2YlFlWWtrOG5kdGoxV3RfWVRHNmJlaEFjd1h0Y1NBcUZ2QjBkaGtDdHR6SlROYnQ?oc=5",
+      "publishedAt": "2026-10-30T03:05:15+08:00"
     },
     {
       "title": "Belarus Is Still Building Hardware for the Russian War Machine",
@@ -58,24 +76,6 @@
       "source": "BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE93VmI0N2I0U1VIdFFwcjdvLURSY0l5VUVzS29CSk5yV3FFU21iTU9UNTZMY3Y1eWg4UTdsOF9BNE9YdlZxanlNdnhITUliVjRvU0tfeHlmbTd5THFudWFxLURoSDZsTXFYSE5FcDZIU0tmYVBzZWc?oc=5",
       "publishedAt": "2026-10-30T01:25:00+08:00"
-    },
-    {
-      "title": "KuCoin Discontinues Services in Russia and Belarus, Citing Compliance and Sanctions Pressure: 7 outlets compared",
-      "source": "NewsCord",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWW94QmJvZ2oxVnFZX1pRTkhkMWs2YklTSHhzcDNZa1pvdndsM0NzbzRrZm5XeVZrcEVrR2hPNUZiSUxBMnhQOUlLakNEdnFQR2E2N3FORnRJNkpjZXg0a1NReFd5WEdLRjV0WWNJOTdaR1AtYmlnQlRiamdERHpNT055YXBJdi05MWluNHR5WVp1SW5oNnZqcHdXbTNhU0JvMjQ5YXBqTlQ5c0RwQlRWWmtId1kxWGl4NWJuekR0a2JLTDF5R0VIQWZ0QmxIdFFsdlpQQzhQeHluQlNvNXY5TDM5VnJsODd4Tnc?oc=5",
-      "publishedAt": "2026-10-30T01:19:35+08:00"
-    },
-    {
-      "title": "KuCoin suspends services in Russia and Belarus",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTDQwYWZ0VFVlYzVRdUdvRXFEekktSWg5WFFpVEwweVZfNUI1R2RNM1ROSEhJdC1IcWlUX3lCN3RQSW1jMzlQQkVkNHRhVmk0MDZvWDNib2pDTmlVNnJvWF85SmNQOWtnZnBsV0YzR01fNHotcmQxVmc3bllSeW1IWm0xcThqa1RIc2VlN0k0cmlEM1RKYnk1azhmSTRNUWpqMDc2Q2RCei1pbU9xUDBF?oc=5",
-      "publishedAt": "2026-10-30T01:08:41+08:00"
-    },
-    {
-      "title": "KuCoin exits Russia and Belarus as crypto exchanges withdraw from Western-sanctioned markets",
-      "source": "Cryptonews.net",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE41RHVXemJmUUxjQVAyUlUwUVFGX2lPVDlXR3JCUXJUck9pQl9kX2lIb3N6MlhjRmVQcG5UM0FNV2QxbC1KTDZQbWtqbjdNSE0wQm9DN2NnRQ?oc=5",
-      "publishedAt": "2026-10-30T01:04:07+08:00"
     }
   ]
 }
