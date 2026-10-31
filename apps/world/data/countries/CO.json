@@ -1,7 +1,7 @@
 {
   "iso2": "CO",
   "name": "Colombia",
-  "updatedAt": "2026-10-31T11:04:44+08:00",
+  "updatedAt": "2026-10-31T17:02:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Colombia’s vice president hails President Ali’s biodiversity-conservation leadership",
+      "source": "Guyana Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGFtVklvR2M2YU9FX3hSeC1ISm84Si1wbXpiQk5nVDYwaTdLX3NYWmJUbUtxYnpOTE9Vc0JzaUJMZ2NST0RyeGNGUjBhdzlWZTBuNEZDbnZiN3ktWHRYVkgyMjVxb0k3OTVUVVRfOHpOVkduNTZnbG1SbERodkthLXJleHBGS0YyczYtSEp5eHJrYl9oR2R2ZG9FdmY5TV9scXR3R29UWDYycEUxX3N1REszMW8yQmhibUFXMlhZMA?oc=5",
+      "publishedAt": "2026-10-31T16:40:15+08:00"
+    },
+    {
+      "title": "Colombia Militarizes Border City With Venezuela After Internal Wave of Violence",
+      "source": "Orinoco Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3JHQXNjc3dzYmg2RUZFV1dkVWR1am9UekMyWTE2dF9Sd3phZW16cmNwTGVFdzBuVzkzYkpDOHozQWxRMlNFRVlaMnBvN0hmYlRueUlvTUpjcHRHU2JBcnk4SFAyei1ud01udTVrb1l4TWRmYUpCaHV5aUt2RTZNVmhHcl9SRG02ZE8xRlBNT0xHUjVqbWZKbkdLdGxDR2FPeWd5ZW1LSy1ZR1k?oc=5",
+      "publishedAt": "2026-10-31T13:27:23+08:00"
+    },
+    {
+      "title": "Colombia stocks higher at close of trade; COLCAP up 0.04%",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTGg5aWRTWkFyVWdEenVWRUxlRHkxTzd2WW0yWDRyTXo1OGpBS01WRlZ5R09ZMmhrd2h3eHdDRGhOS0FIMWFkb3JzVzBwLWFuUnFxcHdySTF1d290WlRINmFPMnNVUzgxNnJ5c3N5Y2NxUVBWUjdWNHJ5MlZxVXVxNkwwV1BBaHJkNmk5TTBqZmEwOEVCVjR2MGFtZXRkZUxncERBVi13T250b2hfOVBNMw?oc=5",
+      "publishedAt": "2026-10-31T11:22:30+08:00"
+    },
+    {
       "title": "US lawmakers urge no support for coca spraying in Colombia — Mongabay",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUEQyY0o4d1ViakItQ2VNeUtPWUVjcU9ubFVpcGs1emRQeDhtQ3B3RGdGcDZRNHVXX1E1bVRWbkhoLWl3cHA1QjlNbk55bUl4bDRSakhrcmwtZ1NLUC1hTjh6SHUwbEtPTWNJY2ZwazdJQ2dGdWhibXNkeTR1ZER3SzFtai15MGdJakJ3N3ktTXplcnA1ZWRZNkJjWWk5bU15alZDdlhxemdTV3ZiYWtGSHlGdDd4aFVT?oc=5",
@@ -43,8 +61,8 @@
     },
     {
       "title": "Colombia Security",
-      "source": "The Herald Journal",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTZGT0wtUVJsRmpJc1pLbXhtX1hVemFEbVBCVjdXZDE5Z3IxblVvZFZXWmFVbWpNQ1VUYzdGc3RIdG12SEJ6WWM3YzZpckZnSmY5V1VkTHhFWnZnQnJINnFpeHY5eDdJVFpld0h6b0ZzMGVtY0hzeVB0V3RoeEFxUW5MU2lCbUt1ME51MlZOOW95bjJXVWF4NDlB?oc=5",
+      "source": "Post Register",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdERUVU51MzcySm16Tm1mbDktanJDOGg2aEVkWGpZTTRKNGRnMDY2c0JXcUd1MGEyNzlKYVF4bjIzd1pYbXc1VzNvWXM0MkRPVzlGMTlRWWJkMTF5ckZxT19vS0kzQW5oWGxXa1lSMW4yTzV6TFlJSlhsbndINmlJU1pNZXBSWVI2NTBQWndVS1FGbDRGMjlqV0dScEQyTTZaU3hUQWtqME8?oc=5",
       "publishedAt": "2026-10-31T09:03:41+08:00"
     },
     {
@@ -58,24 +76,6 @@
       "source": "IndexBox",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3l5WWUtUnliNEt0M1Y1elJEcTB6VUF3bnlUMkM4amsyRGFVRlBVY2dDX042bUpzWVRmTW9DdmhOemdKMU5VSzVsNGdXTldENW5pcTVobWlEbC1YNW9kRUxvRG1TRklMenZCZ0NNOUZMNnFhUHZVY1JkRFNoYkE0MEtkUnVGMVQ2ZmFWUElSMVk3d0Q3dkZSeXg4Ujc?oc=5",
       "publishedAt": "2026-10-31T08:23:17+08:00"
-    },
-    {
-      "title": "14,000 Arrests, U.S. Troops and a 12.5% Tariff: What Colombia's First Two Months Under De la Espriella Mean",
-      "source": "Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORnliYWVGX0hJRjRPNUlYTHNFNlptMWZBRl9PZGg0YTJHS0VlNDZnRFp3ZTRfRWQzcHhmYlFLdFh6V21tZklpdllNd3N1OXlUSVJKWkdFdzJ5ZUhpa2xhcjc0LWxVMTFJMnhkTnF1S1RoZERNUmgzYk9KT1lhdk1weU9Cc0RjY3RM?oc=5",
-      "publishedAt": "2026-10-31T06:16:11+08:00"
-    },
-    {
-      "title": "Colombia stocks higher at close of trade; COLCAP up 0.04%",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTGg5aWRTWkFyVWdEenVWRUxlRHkxTzd2WW0yWDRyTXo1OGpBS01WRlZ5R09ZMmhrd2h3eHdDRGhOS0FIMWFkb3JzVzBwLWFuUnFxcHdySTF1d290WlRINmFPMnNVUzgxNnJ5c3N5Y2NxUVBWUjdWNHJ5MlZxVXVxNkwwV1BBaHJkNmk5TTBqZmEwOEVCVjR2MGFtZXRkZUxncERBVi13T250b2hfOVBNMw?oc=5",
-      "publishedAt": "2026-10-31T05:29:22+08:00"
-    },
-    {
-      "title": "Colombia shares higher at close of trade; COLCAP up 0.04% By Investing.com",
-      "source": "Investing.com UK",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeGkxUEg0akFiUkdvcC1NX2ZnRXVnaElVU3VVR1RidHREamlYVkgtQndaYVBpbU5iSktYMFRSUVdZb1FISjNwWGJ2YmpxaTVOOGpmb085NVdxLXFoVXNzZHBrb0tFZWdzRTR1bm5zcVI1aUI1cG1MbzZTOTYzYjVRaWNRRzYtM2ZiU05mOC1XWHphVDBwWXJVYTJTVnBMMDlVUXdfUVY5OFJ0c0ZQb1E4?oc=5",
-      "publishedAt": "2026-10-31T05:25:00+08:00"
     }
   ]
 }

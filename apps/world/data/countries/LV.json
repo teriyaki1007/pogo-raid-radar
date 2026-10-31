@@ -1,7 +1,7 @@
 {
   "iso2": "LV",
   "name": "Latvia",
-  "updatedAt": "2026-10-31T11:04:44+08:00",
+  "updatedAt": "2026-10-31T17:02:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "First market manipulation case in Latvia's history goes to court / Article",
+      "source": "LSM",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOUJxVTBMUFU0aURwVkZoSDdNdTc1OGN4WnJqVHFyc0NQQmpjWDlSRlJqQlZrazBRWlZXNFNQclFYNXhLNl9teTBHTWlHeWhZVHI3UUVFMVBxOTB2RmJNN2JnMFVEdXl0RVhOdDBSWElRdHhnSllEWGdqWU1IcFE4UUtac3hGNEpEU3F0TWpjUGljS0FOQm5HTzVuZlRkc2lqUXZzMGNmQWdaM2daeGIxem9OX1FEUkhIcm4wcmpoNC1NUQ?oc=5",
+      "publishedAt": "2026-10-31T16:33:37+08:00"
+    },
+    {
+      "title": "Estonian raw milk producer buys Latvia's largest dairy company",
+      "source": "ERR",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGFXclI4aUhPN1lfbTFERm9jOTEtNUU1NlpKWGdiRUFkV2hmY2oyMUhKZXdUX1F2c1BqQlVPVDI2UW1NWjhIY1J6eDJfeTBVYi1wYmc3aHJKbGU4a0JLdUNzUmZqWGQyWE5JZjBGZDN6ajhKcnpWQmxUMHVDZjBBOVZyVUlwU2s3M09uYnhyeTRHUXowOVoyYg?oc=5",
+      "publishedAt": "2026-10-31T16:26:00+08:00"
+    },
+    {
       "title": "NATO’s Latvia 5G demo stumbles, and commanders say that’s the point",
       "source": "www.vanguarddefence.ca",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORHNBTnFnUE92d3lkdXpyRU1BcGx3Y1dpNVdUUEg5ZDJJeVdpYW9MRHBDN0QteTFDMVFRUHo4WmlQc2JGT2VNMzJZdnNXQ0FKYzNTbEZWWEpiblM2V29QRUJxbHB4RjEwT2x3NVpNNzVBUHlvUEZzc1luQ1NOSC1WR2VNMVQxaU5TYTB6ZWpQR1ViSlBqZ2x2NkNrNHpPU1ZJ?oc=5",
@@ -48,34 +60,22 @@
       "publishedAt": "2026-10-31T00:21:40+08:00"
     },
     {
-      "title": "Tele2 Latvia completes EUR 27 mln network modernisation programme",
-      "source": "Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjJMb1pPX1VtX19TckhNY2wwU0hDLUgyWjBITFFNVXhiRWxzRTVRZU5ZTDR2M2l4a2w0aFUyek1waUJyWVN0ZmdSNXNSemdiS1B0ZmJKOFVCUXZqU0hVRUFDb1gyNTRXY29LZDJybTdJVXpybEh2RE9uV3pqX0V2by0wM2ZTaUx1Z25INEZNWGlMWUtpbWZYQzlFaW1PRV9yQmtTNXdsdC1JOS1Z?oc=5",
-      "publishedAt": "2026-10-31T00:02:36+08:00"
-    },
-    {
       "title": "Estonia's Agrone buys Latvia's biggest dairy group, maker of Kārums",
       "source": "Dealroom",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjRaODM2T2RWeUN1UldrNEZ5REJWbkdLb0Fyb1dhUzNFX2Vfb2FCODFVcWEwZVlRdkhmRDJiUWtWcU1kTGdMY29IbDBza0JUYTI5aUduUmlsSG8xODFhcExwUFRfODE0NkZtUi04anJtTmhZdl96VV8xa3FKSGNWSEExYmhjeVNhZkRxMXhXZ3lNWmJ3MXJSUXh4dVNNZmV6VHc?oc=5",
-      "publishedAt": "2026-10-30T23:56:27+08:00"
+      "publishedAt": "2026-10-31T00:14:40+08:00"
+    },
+    {
+      "title": "Tele2 Latvia completes EUR 27 mln network modernisation programme",
+      "source": "Telecompaper",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjJMb1pPX1VtX19TckhNY2wwU0hDLUgyWjBITFFNVXhiRWxzRTVRZU5ZTDR2M2l4a2w0aFUyek1waUJyWVN0ZmdSNXNSemdiS1B0ZmJKOFVCUXZqU0hVRUFDb1gyNTRXY29LZDJybTdJVXpybEh2RE9uV3pqX0V2by0wM2ZTaUx1Z25INEZNWGlMWUtpbWZYQzlFaW1PRV9yQmtTNXdsdC1JOS1Z?oc=5",
+      "publishedAt": "2026-10-31T00:01:47+08:00"
     },
     {
       "title": "Estonia’s Agrone completes purchase of Latvia’s largest dairy group — LSM English",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFFzeXlTS0diMU0tWGlRMjhIS1h1WXNjZ0llU3VQVWxFbDhWdjEyTWU1eDg2WVh4WUlNeGFWb01scW5yR0tfLVROZnllRWJEQTg0UEZiVlpHVzRjRWg2UU55WVJPdnRoU241LU9XY0ZQRll2LXhTc3RDUTVfRy1qYXBtOUR1UEdiTGlra25VazMtUF8wS1F6eVNwV2tvTWdsRi02UC1MTjgycHpVdWc?oc=5",
       "publishedAt": "2026-10-30T23:27:20+08:00"
-    },
-    {
-      "title": "Meinhard von Gerkan’s modernist Latvian villa is for sale",
-      "source": "The Spaces",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNak1XYVBycFVSanpxa2pTVWJtelROdnd0MkROaUN0bUVWQm0ycVBPS3VsMEpzYXBpQURleUlwczhocTI0VHg4QzBHV0NLX055b3F3RnVsSkZzSm9HS21rOFpUb0VVMjhuQ1hUOXZkd3RoOVdNeGdHSTBNbDlFX0M4RkFxajIwSTluWlp2SUVLd3FxOExV?oc=5",
-      "publishedAt": "2026-10-30T21:00:00+08:00"
-    },
-    {
-      "title": "Pentagon asks Lithuania, Latvia and Estonia to soften Russia rhetoric",
-      "source": "Around Prague",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRG82Wlh3ZWFVTGdBQ1R1WmVSSmxTa0ZEN0tZbC1RSUdUVkRzLUFMeGswV28wOWVBVHZRV3haT3RUWGZNanQyekFaOHBwdWl0YXFuZV8tQlBHeTNON2RJWWpzSUxxYmJWc25RdDN0enNTQzVPajRiazBDcmJBVFRYeHhYT0NQWUJkM0d0VkV5UWJHYjZGZHJ1Z21PcEdMWEZlOVlyZUo5VVpQZzRL?oc=5",
-      "publishedAt": "2026-10-30T20:15:19+08:00"
     }
   ]
 }
