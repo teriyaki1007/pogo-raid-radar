@@ -1,7 +1,7 @@
 {
   "iso2": "JE",
   "name": "Jersey",
-  "updatedAt": "2026-10-31T17:02:45+08:00",
+  "updatedAt": "2026-10-31T23:04:22+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,12 +26,6 @@
   ],
   "headlines": [
     {
-      "title": "Drones disrupt flights at Jersey airport ᐉ News from Fakti.bg - World",
-      "source": "Fakti.bg",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VVllCN3l6eEl2N0NrNFZZd0hqSmN0dVhtWllNNnVGV1NWcmduMzY1SU94ckFZc2U5TVd4aWxRSVlVVmNqazkxQ0M5ZlJ5SlByVlgyTmRWc29ONHVqUmo3a2czTnVQX2ttNGF5ZlA5WXdicHpmSERmU1dlaDlzbTA?oc=5",
-      "publishedAt": "2026-10-31T11:36:00+08:00"
-    },
-    {
       "title": "Jersey gas leak causes series of road closures",
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zS3pMVkVmOFNGRGozWEhHOWc3bkhlT0hNQ2hQV0RoUHBhV1FGb0FqNTB1SzI1WXhtd05uRnBGOVRfc3ctWkMwWU1nNk0wZmlFR0hGb0V3Y05sVjhMd2c?oc=5",
@@ -50,16 +44,28 @@
       "publishedAt": "2026-10-28T00:04:59+08:00"
     },
     {
-      "title": "Automated mobility scooters trial in Jersey",
-      "source": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEhrSjJfbEV2cEpDR2hfUm80VTMySU5XTHVucm01QTI0R2dueXBOcFBQOVgtTU1mQkpjTFhjVWdldk5xWW1rZ0g4NkNmeGFlRWlvaklVZWZsUlpIRkNOWUN0Yms3TzhRVWk5UW9lMGFnSmpHWHVMWnplTGxneGNHVmxKTDhjSE9qVmxOQ05GRQ?oc=5",
-      "publishedAt": "2026-10-25T15:16:04+08:00"
+      "title": "Storm Austen: As it happened in Jersey",
+      "source": "Jersey Evening Post",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ01TS1hHbFNXRWhSd29FRFcwWWZ1OGI5dTVSVVdDMjA4eTl0YXc3bmpnNU5wQWY1T09ObkhCXzY2YTNnTzVuQUZMQXpscjZyUndyemxsN1hfcGRDOUFiYUdqYlN0UlRub24yRGFHS2pvdHp1OWx5WU5tWGt0UUUtVFRlUzB2MXA1cXhPcTJzelVfLXlHeG0xQnl5eDFKRUNX?oc=5",
+      "publishedAt": "2026-10-23T15:00:00+08:00"
+    },
+    {
+      "title": "Unifi Aviation opens aircraft detailing operation at Jersey Airport",
+      "source": "Business Airport International",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU2xXcG5fS3plWV9mZHNldVlyQkZpWkJMTEs3OTNicWVldmlVY2pnbWhDbjJnZzJIRENUeXgwSm9CRzJxVU04QzJiNW00OUEtUDZ2WWJzbUlLM2lhNXhDSTVxX20tSlpua0FpdFNzNHFhaGdoZXlZZ2tyNzJVYjJvZFZLN01YalYtejBfMHhKdGhvMlplOVNGYmxFV0RqcGQ2ZGttSUt4TWU4bFBqMGh0VnZYRElacXNET0hwQ3c0MA?oc=5",
+      "publishedAt": "2026-10-23T02:35:10+08:00"
     },
     {
       "title": "Storm Austen wind concern leads to all Jersey schools closing",
       "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqYWMycUk2SHFQc01DMUh1dUxTdXdPM0Fqc3BaSHBRUmZBXzVycnlLNUF4TU43SENRUE5zaEtOUUJ5TzdhLTdrdVhLTnBTQm9fa3JuVHhvdE5WbUU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5xR05rd3VTYTlMaklhTnpFRkpwN0VMQW9XQm45MnpUN2NwbGE0YXo2cVk4ZUVXdHlfX0Z2WDhMcEdmbE1OR1J5YUhsa09WZFU1ZGd4TDNTYmZoMFpqWlE?oc=5",
       "publishedAt": "2026-10-21T15:00:00+08:00"
+    },
+    {
+      "title": "\"Welcome to the Channel Islands\": Acclaimed zookeeping game to feature new ‘Jersey-inspired’ map",
+      "source": "Bailiwick Express",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQzNjZXM5cVRxemQwelctdGs5M0dFeHRRRkpObHRsM29zc19lU1o3SE5KMkVtbEw4NGtORzFsQ2xoVXdCZEkwUXltU2FGX3NMWlVqck9NRV9TQmN0a25LVGtFTnd6T2lhMnlTcVNvUTdKd3pGMElRdVY1UG1PWF83VndoalEtN3JPUy1vbzZ0U2NVdFFOcXljNHRjOC16T0pzaGtOck15S283eTA3VGQ1bUpiekc5c0ZPN3JoTXgxa1psSDVPWlZNZHJR?oc=5",
+      "publishedAt": "2026-10-09T15:00:00+08:00"
     }
   ]
 }

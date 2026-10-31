@@ -1,7 +1,7 @@
 {
   "iso2": "XK",
   "name": "Kosovo",
-  "updatedAt": "2026-10-31T17:02:45+08:00",
+  "updatedAt": "2026-10-31T23:04:22+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,34 +26,40 @@
   ],
   "headlines": [
     {
+      "title": "Cyclone from Italy: Kosovo expects heavy rainfall",
+      "source": "Nacionale",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX1gybDFhSFBKTVUtU2lqQ1J0T01XUkY3OFYzQ2FndFo1Z0pkVDZIekNiNm5tT2ZNSzdtM21TYm1pem5ucVlvaUljSlk5R3c3Rm9URnVSY2FqU2tWc2xqNFVNY05BcmFxcXpUTDR4YXBnTkpiV3NQYV9UQkF4NWM1VnVMalBtcmx6RjN5WEdSWQ?oc=5",
+      "publishedAt": "2026-10-31T22:20:09+08:00"
+    },
+    {
+      "title": "Kosovo reports 24 cases of violence against women",
+      "source": "Nacionale",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQmVQMXVuS0o2elAxX05yWjM0Z2gzbmc5enlpNUEzV0lnUGhRX2FQSG5MdzNOQUNSSFRnODk0V0VRVFdfQTZPU19hS2w5OU1jc3Q2NXNnMWwtT0UwM3B2WU9PTUhuczFLUm5zbmtGUk1HaUh4Zzc0d2VRTWd2OWhTc2JDaFRfVGNkMkxGcmpXa29ydVhPdElsV2VoNnNqamJpa1pDR1B6SjBPbXJH?oc=5",
+      "publishedAt": "2026-10-31T17:13:40+08:00"
+    },
+    {
+      "title": "Ambassador Antonini in Kosovo Meets with the New Commander of the KFOR Mission",
+      "source": "ANSA",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQeWRYTWdWbTBqU0hKOElZaWpFbDNwd0JaUktjc2EyeUxwdWJpYVAyZy1NQ2VJaHpfSXZYSERGZFJXWVgzVG9MYWVuSFI5OVEwakdxNGZ5VFRScTRPdlRJQVhnYWFFdE9QNEpxLVNVcGZNa0FOLVRoMTB1eDlocHB4aHRJR1d5ZUdEWHdaNHU2dXh4RGMzQzlNd2tPNFpNWUIzNC1kS2RMNnFybXZFS3BFS04zc0VZdFdkWjdINmZBUEtoY1pjQ3JtT2U3NHREYzk4d3VyRi1hRHBuVWNXR1hEanY0aW5GVGxTMFBBdE8tZ0dld2RqQmRIMUN5Tkh2dlB3d3FNOVF6ONIBjAJBVV95cUxQMm9aenpLV2pYcDhiMTEyZGpNbDhSV2VMVkpieE5vQ3R3ZzRidzUwdlV5bU1aWlI0NGNEOXpQWXFLQ3BPaWdtbV9LWnhFbXFRdktSendpc2FjdHNjaEpTaGx5LUhxUGQxSTVxNzlWRDRmUlBRSk1oSGRNX1UyR0xVazBkZExSMDJlOEFGREotWG83ZnJGZks0OG1IbWc3S05TQVNoM3NVSlVCTUxLQ0FuUm9JbGZ0ZUhnQ3FGNG9URV9sc09pVXNrQ3JmUjJPdUg5bW1DRkllTjNYMHBtaHpMQld2d1lXZGFaWVNuOHdiS1lRMkNnaDBBR0Zla3hVWURLSUVjNENxR2hRWUhx?oc=5",
+      "publishedAt": "2026-10-31T16:32:00+08:00"
+    },
+    {
       "title": "Can Time Replace a Constitutional Event? Kosovo’s Constitutional Court and the Problem of Constitutional Deadlines",
       "source": "www.iconnectblog.com",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUkEzeF9qTVNnemNudkh4Y3d1Y1BkVWFiY2F6STcxSlFZTG5JSkhGNFlIM20yempqaWVIWkl4V3IzVEFOazdtRkItZGtTX2RyWDRjaVZxSzktTDBxcnJsTTl0U0hRRGo4Z0xVYVBSX3VIbVNnSkhXVlV6VkVocmtOakhDX0h5c3VTcmxpT19jQnBMb2pFeEFSSnVybFBWbFQwUGZ3R21fZFFsNWRQTFRvOHgyaS1XSUVMQU5WSXRkdXVjaUFncWlaYVl0WVA0ellwOW54b2NvV3hfdw?oc=5",
       "publishedAt": "2026-10-31T14:07:15+08:00"
     },
     {
+      "title": "Serb List: We will fight to preserve jobs, institutions, and the rights of the Serb people in Kosovo and Metohija",
+      "source": "Kosovo Online",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOME9XWEpnNUVmUnA0Um5OcWg4T3dUTGxRU01ic3FaTGdHWEVTbnZsalpRZFJOVUs5UGF4eXQyclVmSFNkS2FHUUN6Z1Z1REpNbl9fZ1FLMW5wNnpTS2RWMG5RU2RLOGtlaFEzdS1aS3lFenM1MFA0WmZUSmRTeWhuSUwtRW02akZFUUlTMVV0MXBjWjRtSGtKdjh1eEphWmhGNlM5ZmRtUE93VVVXT0V4QVc3RmhaeHhSZUhrTUdhdU5mY3hhVUFWMnR2Yw?oc=5",
+      "publishedAt": "2026-10-31T04:47:08+08:00"
+    },
+    {
       "title": "Kosovo Protests Grow Over Killing Of Woman Who Pleaded For Police Protection",
       "source": "Radio Free Europe/Radio Liberty",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUk52cGtSX0x4angyVGhIVHo4Tk5sQlpWX0NFUzJfWG9IdVkxY2pFSzZmX2hYZ3FxUkZBMlpwYTBvSFZaeVJPQlhQcktCR2NIZ3ZnTm9zNWJxVFRYVHlWNGgzWDNCTmhWVjVLR0pCdGsyLWN4TnpiVDBsWFVZZmxndFVCQW9ic3RhVUNUSdIBjwFBVV95cUxNSWxPVG1BMVlZb1Y1U25UMVd1bWxvSjdKbEg0QVJ4QWhDT2hIaFFxMW84Y2tGUlpKUGNsUW4wWXpNV3k0V1BteFpyY1IyVlFwSXFqSFFSUVRwUTFmeHJjX2ZGdXA0OHRMRG4tbEE4ZDdHQzFnSm5adnZ4Vl9DVUV5QUhmWE1WMmVQYnB3ZlJGdw?oc=5",
       "publishedAt": "2026-10-31T03:27:42+08:00"
-    },
-    {
-      "title": "Special Prosecution Responds to Nacionale and Vox Kosovo, But Does Not Deny: Publishes Statistics",
-      "source": "Nacionale",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRV9UNEZVMDhLb1N5eTRfdGVWeWttd0xDbFZ6c3hUS0FuUWtKLTh5dk9nUWF2OU04MjhOTVd1ZUh1aTFrZ2JOXzdoTEdyS0hkeXZKcGV2WE5XUUJPaGU0MG5Nb2NpcFpHZDFrM1dfSHB1dU50RWNYVVJ4RkZpdGE2eUlpUFB6c0JSOEtuZ2JhMVRwYUFuS3J4RU13?oc=5",
-      "publishedAt": "2026-10-31T01:21:49+08:00"
-    },
-    {
-      "title": "Kosovo Special Prosecution: Rama is suspected of abuse of official position",
-      "source": "cna.al",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNkhRNEdsTlJvWjlTb1dCRHNLU2NfM3hZa2tlVWRscVdoLXdBUWtHeGdGQ2F2WXVxdmQ2QVZNS3licG1kZlRqcV8waHl3N2M2aU9PZmtsX3JOTGFReENHMnNtTzVzRV9iMS1vdUsyUGx3MFl5Z0oxWFVsTzVJM2x2OHc5R0ZqRTRxU1B6Z2dfa1JYVFc4MVk4VkIxalcwaUJaVjhnYWVXNkd1RDZCaThVYlEzUUhsQQ?oc=5",
-      "publishedAt": "2026-10-31T00:30:00+08:00"
-    },
-    {
-      "title": "EU Enlargement Draft: Kosovo Makes No Progress in Fundamental Areas",
-      "source": "Euronews Albania",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOa0JhVFBzVEhWYVdFSUJUT0hieWEwSFM0WFc4cTR2dW9fMFZkS1hoR3pTcUJNU1Z0QmJra2F2VG9VT3V5TFFwOUd3a0VscHpidU1tN3o0WG9mbURTSWp4eU5wamhzWG5hLTNsNTFvQTVHM05veEFKVDlzXzItQkpENXJsaWJoei1nQUZoVGVZbEp6cXVj?oc=5",
-      "publishedAt": "2026-10-30T22:41:51+08:00"
     },
     {
       "title": "Kosovo insurers’ profits edge lower",
@@ -66,12 +72,6 @@
       "source": "Orthodox Times",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPb3lRN3RNQ0xEb3ktZWhTaFNFeHJoa1Z2VzR5Rk5DWno0al9CYlpMU3VuMDJCdEdrUU5wNThLQ1M3alJKYnAzMWcwZnN1Y1FtWEcyMS1VdTBMaDFyX1laSWRBMW1ha1k2NDI5UDdDOHo2Z2Q1RE5KTTdCSG9YQ1l5ZFRrTVF3MEplZDZLaFJLcmFjc01NclhYY2hIQ2IwM0lLOW54RmlpdnRhZXdqdmtrb0JfM1dOeDJHRExlQk9vOA?oc=5",
       "publishedAt": "2026-10-30T20:56:32+08:00"
-    },
-    {
-      "title": "Op Rehearsal: 1 Rifles conduct counter-drone training and UAV demonstrations in Kosovo",
-      "source": "Forces News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc3h6SkZ5V2RNRlh6bjNZZENVelhzY01ENllubmJZSnpPbldFTkx5dzRzQW9NdmRwaFplUzluM0g1MktDTGdwTjdUQWFUSWR3SUxSLU1VTnlmNUJhcWthSl81Q3pyaEtfX0hRbENmMVdpRTBxd3lyTW8tN2wzN1kwT1RJXzdBdlUxdjltVlBrX08zRmxEWjVla2pOYncyeE1wSFE2RGN3TjdDNk1UT1Jkd0xSMzJfS0pNQnVnOTBJVEc?oc=5",
-      "publishedAt": "2026-10-30T20:42:25+08:00"
     }
   ]
 }

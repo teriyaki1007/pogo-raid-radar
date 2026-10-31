@@ -1,7 +1,7 @@
 {
   "iso2": "IS",
   "name": "Iceland",
-  "updatedAt": "2026-10-31T17:02:45+08:00",
+  "updatedAt": "2026-10-31T23:04:22+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Iceland invests ISK 37.1 million to improve communications in remote areas",
+      "source": "IceNews - Daily News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWWowaWgzeUl5UE92TEpIOFJHYkdES0dPamF5N1VVcHlqcXZYTlhxYWJTb1RiNlAwUFYzRUhTMzg3Uk9mNjNKUVctZll0QjN5dGFHUGtBWUhEU1Y2aXFUTTFUNndCS1BRQUhuV1BhalYtVmVZVkp3akx4UmVWM1dtYjJsVE9JNFdBVEJ2NlZxbVpxdXZJQ2cxSFY0SzZ0Y01MRnVfeV9IWVo?oc=5",
+      "publishedAt": "2026-10-31T21:57:23+08:00"
+    },
+    {
+      "title": "Iceland Funds Five Mobile and Emergency-Communications Upgrades",
+      "source": "Iceland Review",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWE43NWE5M011OG5iWndELS1FaEtLTE02ejBJWmpDQ1FOdXVkVHBkSDR0TVdiajUxZ1BLaktaV21XLWJUXzFVX2Q0TWZmTkV3NFF2X2RNM1lYbnI1Nlc5VEFKdk9ZYTI4UHFoaFZpRGlZTVo2cUU3WmdYeFZXVjJyLXBrbGQxeTlINHVKdkNpb0FkSFd4c1R3QnFabw?oc=5",
+      "publishedAt": "2026-10-31T20:00:00+08:00"
+    },
+    {
       "title": "Blue Lagoon Approves Public Offering and Nasdaq Iceland Listing",
       "source": "Iceland Review",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRVpQRWZQM05ITWEzWW0xVVQyX0g2NXNoZ1A3OVFhdU5uSm82NFYyRUk2VlpQd0VzTDNicTN2SE1RQ3BrcFh4NExiUWhqN2VJS1M3Yy10d010VTNZTWRiM3FmQ3FucHIySnN2OFh2MC1HWG9vcHFCU2NZc3Z5RmxEcFZIaU5TLTQ?oc=5",
@@ -48,12 +60,6 @@
       "publishedAt": "2026-10-31T04:25:36+08:00"
     },
     {
-      "title": "Rifle Paper Co. Iceland Poppy Spiral Notebook",
-      "source": "khorasantimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ01STlc0WGZ1cEg4djFONFhWU1BkTnZ1VU5qZTgwVWMzR3QyY1d0b3g5d2d3TEY4c1JLYVRpS1lDbTA2VEZaZjd0dkoyYXVidUx2MWRQZ2t3MVpJcElLUXVPYzUtSkkxSl9Ub0NDc2FBeFZFN3pBY0RMSmZ1SmE4ZHZOYUdvQlBtcThQd0FRZ1J4M3M?oc=5",
-      "publishedAt": "2026-10-31T02:57:21+08:00"
-    },
-    {
       "title": "Moody Gardens Iceland: Caribbean Winter Wonderland Takes Shape",
       "source": "CW39 Houston",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd1l4VGl5YXRFQWRkU1NuWldiNExkOERZamUyMmdBMTBqWFNCNXZSZENYNFJza21OdzdWYVU2ZU1XSl9fM0xYMVlyZTQzRTQ5YjRsSmFqZkdUU2U3am1jQjN0R1hURW52ZTF0NHUyazVSMy0xcjVNR3kyTGkzNG5Kbk1YQlA4S3BTR1FQWlhpME9hM0NrTkFIZjdB?oc=5",
@@ -61,7 +67,7 @@
     },
     {
       "title": "Iceland’s Top Tourist Attraction Blue Lagoon Spa Plans IPO",
-      "source": "Bloomberg",
+      "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVVxM3pyRVVwX2RzT1JUdFZiQkttakgxRElPM1ZMMXFZcjh1X181ZnBJZzJoZnFWWHllZ0h4UHFFdnljdW1JN2djdGowUko1LWFTMHpFMF95NW5obEdFSWMybllxMWpXX3d0UFBuSjdCbnBQM01lZU16S1JXOENGd2Vxd3ZpcU95X2NaWVlibGJGbkRWMDZ3dTBUek1mcmZZVEtrUGliSkRvRHUteWc?oc=5",
       "publishedAt": "2026-10-30T23:14:52+08:00"
     },
@@ -70,12 +76,6 @@
       "source": "Santa Fe New Mexican",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPczlHRzFUUGtMRHlDUHFNMHV0M1ExNGJwbzJkOUprT3NfSHpwOVY2cm1GMV9vNlFtWU94NzdLUTN4VlEzOUthSU9OTlFaSmFFZmI2UnhZWEJsQlJweUN1RjhDZGI1cTZqdFJKdjFqeTRFNmM0ai1ia1JWWWg5dkh2dmpsS0hoZXpDWm9PVzNMeWNya0hpbTNtblkxcGpMbmRSX29sYVJmWEYtV0NZd2RKTWZaNTFaeGZrbXZuVGhlREp1RjBEQjdYMklSSHY?oc=5",
       "publishedAt": "2026-10-30T19:00:00+08:00"
-    },
-    {
-      "title": "Visit Iceland launches AI Knittakers campaign to tackle meeting fatigue",
-      "source": "Travel Daily News International",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRzEwdmxFanZPNmR3VjZiYzdmVVI1QW11WTEwTG1qR0FhNUs3OEpqY2FtRTk1SlNXYWlDY1NUbUk3YzRSYi0xcU5LS0U5UlVWSmhjbWllMWpxeGxnWTF5bWNPeTY3SGttOEdpQmxKaXNYUUo5UldDVmpvSXBqTGFEN0UtdzRKbzhEaUpkdEwtSQ?oc=5",
-      "publishedAt": "2026-10-30T18:29:55+08:00"
     }
   ]
 }

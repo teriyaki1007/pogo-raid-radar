@@ -1,7 +1,7 @@
 {
   "iso2": "CO",
   "name": "Colombia",
-  "updatedAt": "2026-10-31T17:02:45+08:00",
+  "updatedAt": "2026-10-31T23:04:22+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Fact Check: Colombia gym video falsely linked to earthquake in Xizang",
+      "source": "CGTN",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRFhrODNPbU8ybWRGbXFMb0VRV3hobFktclNFSzc3dTYyY1QySHFXa3RlNmlMRms1RWVEYUh4bDlGQVI0ZXdFbzVKWU1WN1JQN2NTU0JkNFZwSTgxMTlhRXpLMXFYZV9NNUJFek91cW5RSUlickMtY3lhLW8zZG9qMlhlT1JhVHhaWE5MUzVHU0o3cmpEcEZhMk1kck03Ri13Q3YyRTR5bUU0NHYtdXhhOXBRLWxILUl5TnlpaFdhNXdhN0k?oc=5",
+      "publishedAt": "2026-10-31T20:27:35+08:00"
+    },
+    {
+      "title": "Colombia’s central bank approves purchase of $2 billion from the government — The Rio Times",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYWE0U2R6TmttLWpfRlVnLWJBUUtjOEZIbll4QktkX1k3NTJHcGdNeTREMGZ6V1V5a0pNblRET2NRX3NQSlotSEZ2RjF6STk4UEhJVl9CQTRsRnhwUUhHUVh3MHkyZE16MU03MkVjSTczejV5WTFtWmpqVlNnamFrNlNBZUNIZlZkajRlNEo2UG4weFVaTDVEYVB5eTEtUktaTVo2blAtblhSbnJMb05WNg?oc=5",
+      "publishedAt": "2026-10-31T18:02:24+08:00"
+    },
+    {
       "title": "Colombia’s vice president hails President Ali’s biodiversity-conservation leadership",
       "source": "Guyana Chronicle",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdGFtVklvR2M2YU9FX3hSeC1ISm84Si1wbXpiQk5nVDYwaTdLX3NYWmJUbUtxYnpOTE9Vc0JzaUJMZ2NST0RyeGNGUjBhdzlWZTBuNEZDbnZiN3ktWHRYVkgyMjVxb0k3OTVUVVRfOHpOVkduNTZnbG1SbERodkthLXJleHBGS0YyczYtSEp5eHJrYl9oR2R2ZG9FdmY5TV9scXR3R29UWDYycEUxX3N1REszMW8yQmhibUFXMlhZMA?oc=5",
@@ -42,10 +54,16 @@
       "publishedAt": "2026-10-31T13:27:23+08:00"
     },
     {
+      "title": "Colombia | France reiterates its support to the United Nations Verification Mission and to peacebuilding in Colombia",
+      "source": "La France à l'ONU",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONHhSRk5IdEtRTjB3SldvQ1h1Zkl2eEdxTDBBOFEtNzVYcFdkUHZ4M1MzVU9LTEpGdjd4THJHNmo3YmxNZmhWVGo1dmxsRkRiRU16cHR6UWxIbVlrRHdJX1B4cEpxb0ZrQ0NSQ3ctSEtiLXRaWUFCcGtGRzBZZUJZaWNVd3lkMGFNV0xHazNIeVZvVEIyVmU1U09waFVwQ2ZCNjBSTjRxV3FWNHg2Q1NacEhYeWpHOTNrVFpZN1Q4TmVRM2xS?oc=5",
+      "publishedAt": "2026-10-31T12:03:52+08:00"
+    },
+    {
       "title": "Colombia stocks higher at close of trade; COLCAP up 0.04%",
       "source": "Investing.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTGg5aWRTWkFyVWdEenVWRUxlRHkxTzd2WW0yWDRyTXo1OGpBS01WRlZ5R09ZMmhrd2h3eHdDRGhOS0FIMWFkb3JzVzBwLWFuUnFxcHdySTF1d290WlRINmFPMnNVUzgxNnJ5c3N5Y2NxUVBWUjdWNHJ5MlZxVXVxNkwwV1BBaHJkNmk5TTBqZmEwOEVCVjR2MGFtZXRkZUxncERBVi13T250b2hfOVBNMw?oc=5",
-      "publishedAt": "2026-10-31T11:22:30+08:00"
+      "publishedAt": "2026-10-31T11:24:05+08:00"
     },
     {
       "title": "US lawmakers urge no support for coca spraying in Colombia — Mongabay",
@@ -58,24 +76,6 @@
       "source": "ColombiaOne.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN0lpbVJvaXpEVHZWQjRTWTA5S3JUb2VibGlkTEFSdVVmcGl2cWNqRDdmOENXZmNRT1czTEdyX0Zoek1pdVlVLXhrRzl6RTNqNDBqazVqLXZmUVFQRGRUQ2plMHVRMVlaWnRJZHkzOU0zdXh4WVg3cW1YbThXQlkxY2ZIb2VJMmhQeVVmRkgwaUhPSGtGd1FXanRzcE96dmhTcXA3X010MmZMNzhwYlE4ZTBYWkJJTDZJUFJrRg?oc=5",
       "publishedAt": "2026-10-31T10:18:00+08:00"
-    },
-    {
-      "title": "Colombia Security",
-      "source": "Post Register",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdERUVU51MzcySm16Tm1mbDktanJDOGg2aEVkWGpZTTRKNGRnMDY2c0JXcUd1MGEyNzlKYVF4bjIzd1pYbXc1VzNvWXM0MkRPVzlGMTlRWWJkMTF5ckZxT19vS0kzQW5oWGxXa1lSMW4yTzV6TFlJSlhsbndINmlJU1pNZXBSWVI2NTBQWndVS1FGbDRGMjlqV0dScEQyTTZaU3hUQWtqME8?oc=5",
-      "publishedAt": "2026-10-31T09:03:41+08:00"
-    },
-    {
-      "title": "Colombian ‘White Elephant’ Senator Makes Time’s List of 100 Emerging Figures",
-      "source": "ColombiaOne.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnIzSnY5U21oMDNaQVZIYmoxR0czRmlYbFFxdHNRekdLLTZMNElpNlUxbW9LaDlZRXZtQTFQSVdKUjdjbXNFb2kybktibVBwajREeXE2R1hNa2IxeXNjZGltMnVMaWFIcFkxS2xzLVpYVjJhY19td2lqR3I1WS01TGRadDBGU05SQThja3ZLbC1xblVBRGJCYmhWeUJkeHdZREtMd2l0OVpDUDhFcnc?oc=5",
-      "publishedAt": "2026-10-31T08:53:00+08:00"
-    },
-    {
-      "title": "Colombia LNG Imports Rise as Domestic Natural Gas Production Declines - News and Statistics",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3l5WWUtUnliNEt0M1Y1elJEcTB6VUF3bnlUMkM4amsyRGFVRlBVY2dDX042bUpzWVRmTW9DdmhOemdKMU5VSzVsNGdXTldENW5pcTVobWlEbC1YNW9kRUxvRG1TRklMenZCZ0NNOUZMNnFhUHZVY1JkRFNoYkE0MEtkUnVGMVQ2ZmFWUElSMVk3d0Q3dkZSeXg4Ujc?oc=5",
-      "publishedAt": "2026-10-31T08:23:17+08:00"
     }
   ]
 }
