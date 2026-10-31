@@ -1,15 +1,14 @@
 {
-  "updatedAt": "2026-10-31T23:04:22+08:00",
+  "updatedAt": "2026-11-01T05:08:25+08:00",
   "facts_source": "mledoze",
   "skipped": {
+    "FR": "fetch error: failed after retries: https://news.google.com/rss/search?q=France&hl=en&gl=US&ceid=US:en&when=2d",
     "AQ": "only 2 facts available",
     "AX": "only 0 real headlines found",
     "BL": "only 0 real headlines found",
     "BV": "only 3 facts available",
     "CC": "only 2 real headlines found",
     "DM": "only 1 real headlines found",
-    "GF": "only 2 real headlines found",
-    "GU": "only 2 real headlines found",
     "HM": "only 3 facts available",
     "IO": "only 2 real headlines found",
     "KN": "only 0 real headlines found",
@@ -20,10 +19,8 @@
     "SH": "only 0 real headlines found",
     "SJ": "only 2 real headlines found",
     "ST": "only 1 real headlines found",
-    "TD": "only 2 real headlines found",
     "TF": "only 0 real headlines found",
-    "UM": "only 0 real headlines found",
-    "VI": "only 2 real headlines found",
-    "WF": "only 2 real headlines found"
+    "UM": "only 1 real headlines found",
+    "VI": "only 2 real headlines found"
   }
 }
