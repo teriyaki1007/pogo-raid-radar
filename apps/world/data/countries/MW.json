@@ -1,7 +1,7 @@
 {
   "iso2": "MW",
   "name": "Malawi",
-  "updatedAt": "2026-10-31T05:08:27+08:00",
+  "updatedAt": "2026-10-31T11:04:44+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "MALAWI: ‘Gender-based violence is a national crisis that has turned deadly’",
+      "source": "civicus lens",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSUtieGNIbzJ6Tlc5bV9UQkZuLWpmTVU4T1ZtMUJfcm1wSTMtT0gzYi1nSnlKTWhBLU1kS2NrQlJsWkxVRFNhcUthazdfZHVWWXF3aGZ6ZjNJbmNLWG1UZEl3NnR3Y0VqeC1KMTB4THFIbEZab3FtZkJZc2NXSWJhUUNWYXZZVG4yd3RvZTU3QUEwYTI5UmRGVGdEUXktV2VhUkxXVUJKdjJ5X3pV?oc=5",
+      "publishedAt": "2026-10-31T10:37:30+08:00"
+    },
+    {
+      "title": "Sky Energy launches 100 electric taxis to ease Malawi fuel shortage",
+      "source": "Nyasa Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUE5vUW9PVm1KVXB3NnpYTGphVzZzYmVySXVnRDQ1eHNzU2tTbEdfVVpyM292S2lCOENQUzlmMGFzNlNaSE5aWlA4TmtqUmYtMjlnMHJVQUdYZnJHRG0tOFRlTGQzSGxDeTVnSi1iTmlPdHp3UHlxX0lpRTZKdkE3b3RnazgyV3M5SENXLVdMY1M5ZGdZcExBdmk3QQ?oc=5",
+      "publishedAt": "2026-10-31T10:26:32+08:00"
+    },
+    {
+      "title": "Malawi U-15 finish 79th in Baku, but boys have plenty to smile about",
+      "source": "Nyasa Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT3hzY09GcDFVdW5kbDFVTzNpVjh5a1BfSFBjYWNrS25uRTBBdHN4ZkdDWG13NnE3ekJkYTctSmFhczRjbWJXejU1cmRTYkNyMWlDRDR6ZHBkNGRTalNBVkR3cWRoSmdHYnFsTjlRX2FRaThfVEZxSUYwTVk0cUNLeFF0S3A1N2RIeFJXS21RMk9XeGhZc082Y1ZsVQ?oc=5",
+      "publishedAt": "2026-10-31T09:40:29+08:00"
+    },
+    {
+      "title": "Malawi’s fuel shortages, record prices deepen economic crisis",
+      "source": "New Age BD",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWd5a2p3aUY5SVhoZFBUY0cyRHlManV4WGp5S25aSDhxWVdXbDM2NmV0V3ZIR2JkYkUtOFJuR2ZRVGZlemQ3eXBtTmhXdUgwa0VUdW14Qkc5MlhwSy1fcDZ5WnY0Vmtsa3R3ekRHRDAwaXhIbE9jSUpkUTZoLUZzWG5OYTZpRC1sdGw0LWVTUFdVOWppamg1OGNuV2FrMHJDcDFrXzVPcXlLVHJBRVE?oc=5",
+      "publishedAt": "2026-10-31T06:20:00+08:00"
+    },
+    {
       "title": "MALAWI: Catholic University Engages Young Seminarians in Mental Health Awareness",
       "source": "AMECEA",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaHEwY3RYclotdXgzZndhdXFmUXBidVQzMGpuNU83cDZ5bTIwSWctVVBJMjRidmFSTWVpWEhqOTcyOVhxUTlGSG5qSWQyWk9SVDRQVzBwMmVMS09oYk5XbXpINzUzM3JvVmZTX1VrRkx1ZmVBaDBQa0kxUVJiLXRVNWRQVUxja2JaUTAzXy1zOWNTTDc4Q2ZMNU9DZlYycUZXX01RZ3lRcVNQSHBhTUhvR3p5VHJOVGVYeVlva1pNbGMyTEtnaHIxY2NTVE9PYXV6?oc=5",
-      "publishedAt": "2026-10-31T04:00:29+08:00"
+      "publishedAt": "2026-10-31T04:10:32+08:00"
     },
     {
       "title": "Ibrahim Hassan reveals Egypt's camp plans for Malawi games in AFCON qualifiers - National Teams - Sports",
@@ -48,34 +72,10 @@
       "publishedAt": "2026-10-31T02:20:18+08:00"
     },
     {
-      "title": "Malawi’s fuel shortages, record prices deepen economic crisis",
-      "source": "New Age BD",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWd5a2p3aUY5SVhoZFBUY0cyRHlManV4WGp5S25aSDhxWVdXbDM2NmV0V3ZIR2JkYkUtOFJuR2ZRVGZlemQ3eXBtTmhXdUgwa0VUdW14Qkc5MlhwSy1fcDZ5WnY0Vmtsa3R3ekRHRDAwaXhIbE9jSUpkUTZoLUZzWG5OYTZpRC1sdGw0LWVTUFdVOWppamg1OGNuV2FrMHJDcDFrXzVPcXlLVHJBRVE?oc=5",
-      "publishedAt": "2026-10-31T00:21:46+08:00"
-    },
-    {
-      "title": "Malawi Police contradict own report on Egyptian Diplomat beating, sparking confusion",
-      "source": "Nyasa Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcWJqQ0FTTTVnVEtDLUdhWXNuMndOdE5yMEp4TWQ3VVpsZzVZVGRwVWIxa1pLMjRUcFNJWE84Ty1OUlJLUmxNR3ZmcUpjOS1LRm14eC1IejRZSlIzbEV5R2hYcjNYcS1Yd0NWc0NsRm9USU94ZlJVY205MkRoaDRJWjkybjlEZTRLMjRBMFd2anBWSEFId0VNM1RHSzZNMU9rMzJoSkZQUkl6VmFXMFB3dA?oc=5",
-      "publishedAt": "2026-10-30T22:47:21+08:00"
-    },
-    {
-      "title": "Lilongwe moves to reclaim its lost green cover",
-      "source": "Malawi24",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFVoVXpXX0YxWllxeC1ZWjZhbFFGeUdxZjQ2MVI1Vnc1Q2VNNG1UWWhzamdDbjVGSmtaZzNpbG1XSnY3VU9MYXlnMHdqSC12bkhFS1A5T3lDU1Vvbmd1VFlfTGtVM2dTUW5feUFsbWZQZmdoVkI5NGpPRWwxR1JEdzI4TU50dw?oc=5",
-      "publishedAt": "2026-10-30T22:30:00+08:00"
-    },
-    {
-      "title": "Malawi Electoral Commission may be homeless as Rent Dispute Escalates",
-      "source": "Nyasa Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaWJzSG82bVQybWp3bGs5MWpRLUlNZ0RDRDNsbWJLTDdZZ29UMWhCVjI4eUk4Sy1NNzlJMGpmVDEwejA3YjNqeUZtWnpiUjQ4MUlyYmtzOXNIME5QZWdWMDBIVF9VaHZ2Vm1MV1Z1djBkSHdaOFlBTGRmN1dkT3F0RXg0SXdVMWNrN3BEQW5Nb1ZGeVg3U1dyYlp2OUZWZw?oc=5",
-      "publishedAt": "2026-10-30T22:13:45+08:00"
-    },
-    {
-      "title": "Malawi declares end to cholera outbreak after vaccination drive",
-      "source": "Channel Africa",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaUFRZUp2R0I3c29uZXQ3OEMteFFuTHhlZEtvVHQwTzhodlBiRjhaaWhJRHpNUTdDanE1bHhtQnUxTy1veVlUUlRZODQ2dWN4NTRZdTE1STdCX3NjSHZfa0dmalJuZWx5RHM4N3gyWnNWQkhZZHdNZ1hOWUxhOWE3Y3IzT2hnMi1jNlpnbkZRNG5UR3pjQldvTkNWUTMxX1FUYnR3YXFkR3c5UFlBT1BNcThDc2stUQ?oc=5",
-      "publishedAt": "2026-10-30T21:25:11+08:00"
+      "title": "Malawi: Police Confirm Egyptian Deputy Ambassador Beaten in Lilongwe Attack",
+      "source": "allAfrica.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45dzVTb2c1cm5CRmRuQWFiUHEwM2xrNnBfQU54YlJjR0VlZVFseVZWWEt4enJHS2VLb3dPWVBIVlR3cWR2VWRDcWZXY3ZSd3NhcjF4OFp3YmJKaXM?oc=5",
+      "publishedAt": "2026-10-31T00:01:06+08:00"
     }
   ]
 }

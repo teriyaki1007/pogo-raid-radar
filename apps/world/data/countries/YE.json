@@ -1,7 +1,7 @@
 {
   "iso2": "YE",
   "name": "Yemen",
-  "updatedAt": "2026-10-31T05:08:27+08:00",
+  "updatedAt": "2026-10-31T11:04:44+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Saudi and Russian foreign ministers discuss Hormuz, Yemen at G20",
+      "source": "Middle East Eye",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcTAyZjk0WTd2UWZka2hEUEpBZldUMGVHaVk5WUs2UEFxcE9BbWF4UVctdHFZTjFtcGhHM0RpaU5lcE9KZDd2V3AwR09CX3UwV1dXU2YwSVNXNzBlNTZ3ek1NRmpJNFdPY2Z6Yy1Da0ZSZGlrLUt2SHlFNXd3TlQtUkN3VTNqUDFReVlrZTNsOVg0WGsxLUNlMGJFeWdNR05CblRjMEc0UktxSWg4bEJiZG10ZGhRTE5E?oc=5",
+      "publishedAt": "2026-10-31T09:13:00+08:00"
+    },
+    {
+      "title": "Houthi missiles strike near presidential palace in Yemen's Aden",
+      "source": "Daily Finland",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa1kybkNzeEdoVlRsYlFKTXRucWF6a20wcUZJaHhJUlkxUmYwTzhkVlRWU3hCbjFYTmMzTEpYd2NwTjMwT1VCa3Q0NWJpUGRlaHlYanZJYXBlNXFFRWNrT25aMEctUTVKUkVrc3pzb2xSU0MzUEhwOVlGZjRWRnQ5M2xHNjhXdjlURE5weDZkWG4wTDJBa2s1d3V0QVFINHhrbFlQQW1OUTlHdw?oc=5",
+      "publishedAt": "2026-10-31T09:10:33+08:00"
+    },
+    {
+      "title": "From Stockholm To The Next Iran Confrontation: Yemen And The Cost Of Strategic Miscalculation - OpEd",
+      "source": "Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSjlxd1djQm00Tl9fMWw5QWdoMmk2cFZZZzNMSWs1b0NjdTZUdUlYdHFSdmVQT2tpQjYyYmh2eGRKbVNwQ293YThVVGhMRzNJOThtQ2xKMDFieERKYmxvc2k5QUJrNUpSRi1jbjlkRXZ1NGlXazkzWUVnSFg5U3VabFZqOVhTNzRMLVJGbE9ma1VGX2doaThPbFF2cHZXWnFuVEE1QTZERGJ4UHVBWG14ZllQX2VtcmlDQW5mcGpvdmh5dS1aOHJhaUJpMm5sb0diNGZr?oc=5",
+      "publishedAt": "2026-10-31T08:29:43+08:00"
+    },
+    {
+      "title": "NYC ‘fraud factory’ stole $7M in federal benefits and bought fancy cars, payments to Yemen: prosecutors",
+      "source": "New York Post",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVXRha2UwWG0xZ2oydUdMb0l6TDlmclBGRGNBdDlqejM4bmk0dE5wSjl2RDBQR2tEUDlMN0lVREJJMjFqMkgybVlDT2R1cnR3bGd5QU9tdXR3enp4OHh3UmRrNEJpdXVWN1VoN1ZnMWxvQmZvWWFtQm1uSVd3YWN0R2Z5MzVscjJCM2Y5SkVMZTJ1TzUtQURidTV3YllkVFBNeG0wRzlaQzlKQ1JfN210RW1zNGZLRFRMODZobzhEUVR4eTloaFN3Y3hDMEh0UWtjWHc?oc=5",
+      "publishedAt": "2026-10-31T07:50:00+08:00"
+    },
+    {
+      "title": "Yemen : Giants Brigades Destroy Two Houthi Vehicles, Kill Occupants in Lahj Frontline Clash",
+      "source": "Yemen Online",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPb2tvUzNIREtsQjg0aDRQa21seC1rRjZaRVc5QlI2bFJHdTZSajJ4N1JjT2dkTzlOUFhHU1B1SDZETkpWWUFvdHRUOFVTb040ZVJic196dU1iUQ?oc=5",
+      "publishedAt": "2026-10-31T06:56:53+08:00"
+    },
+    {
       "title": "Yemen : Airstrike Destroys Houthi Missile Launch Platform South of Taiz",
       "source": "Yemen Online",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tYkdjOTlWdFRFaGNqZE16c0xQRWxHeXIwaE5RUVV5SUVTWkpGTFNkaXpKVUdRd0NYRUFmSGV2YmNLWFdYMW9ldnotNlRXTzEtWHBYczJmN3NTZw?oc=5",
@@ -46,36 +76,6 @@
       "source": "Inquirer.net",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTTNGUWtuMU00bzg5VzJpNGpzQ29jMzVnOXdrVkhYNFJjZzFYX3kzOWRFOURudzM4b0FZQl9VWW5VUWlQLS1KZzhCb19md2R6cmtBV3l2UlloRzNsLS05VzFJdVBYT1BZVVFVNzhmaHVmNlZESXF1QmZOU09wRnZHbUxDSkpWZTAta3ZTcHdYVzFyd1Z0Qy02eTNQRWFzbE1L0gGmAUFVX3lxTFB0S29yNU9PdmFzb0JvZWlrcFhELTlCVE11SHpDbFJnNTBvMXR5SE5GczgxMmd6Sk1zSmwzTnFiMWtBdmd4UEJpb3NUX3VVdERld2N3WWkwYzZWbkdaM0RtX1lmYjB5QllwRnF5Tm1PUm5fZnk2TFh1QWpmczdRdzFqbEN5M3BsR2xuMkxnUkpPUU5yU3dpTExJSVhfLU9DeWZoc0xra0E?oc=5",
       "publishedAt": "2026-10-31T04:06:00+08:00"
-    },
-    {
-      "title": "Yemen : Saudi Arabia Intercepted Houthi Drone Near Madinah",
-      "source": "Yemen Online",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82R2JUTmhsSFpkZU1EelNwRlFKQUFkSlhvOEw4dy0xWUd2UC1TOVZZUk1tUGV2UjRad3Z1czhaQVowVzFCeGNTckxFeWZBOFQ5T3c?oc=5",
-      "publishedAt": "2026-10-31T04:01:46+08:00"
-    },
-    {
-      "title": "Houthis target Saudi Arabia’s Medina and Yemen’s presidential palace in Aden",
-      "source": "Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnNLa3YwaUpsQzNsdWFKOE5aT3dKVzZManFrb25zYkl5SUVlNHFnYThYeTNSOXg5YkJFZGNCUUNZUjM5aUlTS1hJRVgydk1MQno1a3NvMzF1WU5Fc0VPZEFPUTFJV2tVb2p4djVXSXRYTlFlTmxOU3RpZTIwSVJNRjY4MDV3dG5oWDZiQnBFZmlzM3ctS0dfN1F3RUZQZFIzTzdkdFowa0lHend3M2lmZko2ekNyYXJLcVpJdUF0b1l1VHBlRlHSAcsBQVVfeXFMT2haMFV3cTRFOWtWSnM2V0ZjbUc1Tjd6aDBJVWNVcG1DT3RLeG5jZTQ3VDJ6bHBVT1JZSW1pQ1dMbWNsVGdLbTdRWXVsNTFOZ292eXlGNnplSmJXcGlIQ2hsNExyeGdWUFRsNHRySktkeWhmUEtqOFNXX3d4cDFNdnBuRmxzbTA2andrbHJMcGlSczlQOXhOQjQ5MTBLbHFYcjVRWUtyZ2RoSlVRamlPZ1JDdGcyLW5MT0ZvWDRUR2l3Y3EtZWtwQzdINnM?oc=5",
-      "publishedAt": "2026-10-31T03:31:00+08:00"
-    },
-    {
-      "title": "Yemen government forces say Houthis attack Aden airport and presidential palace",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOEI0RllEcnQtRllETVVLbTVfTW93R3ZuT0Q1NzF0QTRQUmViR3NaRzFKX09UWWVaYjNDelpPRkFLbUxIZHYzRnkweFFUaGltMnlTU0s3ekxNUk9JdnpIRXhiOXNNQ1otelVVbFZYem03eXY5cnhuZUdfMGxUSV9DZW42SnpKenNRRmZkZ3NWQ2xMdmdxSGdiWHlqSHFSN2lxVk5FdU5WdmlvdVlyOF9QSUp4cHplUExWQ1QtRlNQOXBRUVlYdVFvSXpMT1E?oc=5",
-      "publishedAt": "2026-10-31T03:23:20+08:00"
-    },
-    {
-      "title": "Why Has The Endless War In Yemen Been Reignited? – OpEd",
-      "source": "Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeDEzTW1OWE1IRjQwNkotRUF5YUhWZnZMYTBVNXloT0ZOeVBFTzhvZEY3eENMa3pfUUxrbEY0UWhLRUFYM0pJaGlPLVJzQ2UxQVFPcTc2azZUdlpzdTh5OTJFU2dGOU9LWmg4X21qLUVKVkQ5TW8wdmhyZGxreXI0UWUzQkwzUEJhcGVYSzVxaWtHS2RrMzE4?oc=5",
-      "publishedAt": "2026-10-31T03:16:44+08:00"
-    },
-    {
-      "title": "Two explosions reported in Yemen's southern city of Aden",
-      "source": "Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3h1MmdBOWprWm9lMlRhdUYxN09rbmR5M3BaQVprVk9ZczZCNG4tWUV4SmFseER2RkV5a09xSUxPSG1SS0ZpZEdwSzRNX2VOdGZnSEF2VFFaU2Z6d25ZRnhTQ1FVbExvVVpDQlBWazVTTHZZMVNGMGFtaVhJRjJYRmIwSQ?oc=5",
-      "publishedAt": "2026-10-31T03:11:42+08:00"
     }
   ]
 }
