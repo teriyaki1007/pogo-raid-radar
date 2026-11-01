@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-11-01",
-    "asOfLabel": "1 Nov 2026 ~6:35 AM HKT",
+    "asOfLabel": "1 Nov 2026 ~10:30 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE: Giratina (Origin) 5★ (through Tue 3 Nov 10:00 PM) + Mega Sableye (through Sun 8 Nov 10:00 PM) + standard 3★ Cofagrigus / Trevenant / Dhelmise (Leek Duck / ScrapedDuck / GO Hub). Halloween costume 1★ Pikachu (hat+capelet) + Sinistea (bow) CONTINUE through Part II — now through Thu 5 Nov 8:00 PM local (official + Leek Duck Part II; Part I event itself ends Sun 1 Nov 10:00 AM). Shadow Landorus (Incarnate) + Shadow 1★/3★ continue through Tue 3 Nov 10:00 PM (Shadow 5★ usually weekends — today Sun 1 Nov still in window). ENDED Sat 31 Oct 5:00 PM: Chandelure Super Mega Raid Day. Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged.",
-      "endsAtLabel": "Halloween costume 1★ → Thu 5 Nov 8:00 PM · Halloween Part I event → Sun 1 Nov 10:00 AM · Giratina (Origin) → Tue 3 Nov 10:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Chandelure SMRD ENDED Sat 31 Oct 5:00 PM"
+      "text": "LIVE: Halloween 2026 Part II (since Sun 1 Nov 10:00 AM → Thu 5 Nov 8:00 PM) — costume 1★ Pikachu (hat+capelet) + Sinistea (bow) still in raids. Giratina (Origin) 5★ (through Tue 3 Nov 10:00 PM) + Mega Sableye (through Sun 8 Nov 10:00 PM) + standard 3★ Cofagrigus / Trevenant / Dhelmise (GO Hub / Leek Duck events). Shadow Landorus (Incarnate) + Shadow 1★/3★ continue through Tue 3 Nov 10:00 PM (Shadow 5★ usually weekends — today Sun 1 Nov still in window). ENDED Sun 1 Nov 10:00 AM: Halloween Part I event. ENDED Sat 31 Oct 5:00 PM: Chandelure Super Mega Raid Day. Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni still inactive — no new Takeover; leftover Super Rocket Radar may still find him per GO Hub) unchanged.",
+      "endsAtLabel": "Halloween Part II / costume 1★ → Thu 5 Nov 8:00 PM · Halloween Part I ENDED Sun 1 Nov 10:00 AM · Giratina (Origin) → Tue 3 Nov 10:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Chandelure SMRD ENDED Sat 31 Oct 5:00 PM"
     },
     "legend": {
       "standard": {
@@ -1375,17 +1375,17 @@
     },
     {
       "id": "halloween-2026-part-1",
-      "when": "Tue 27 Oct 10:00 AM – Sun 1 Nov 10:00 AM local (LIVE)",
-      "title": "Halloween 2026 Part I (LIVE)",
-      "impact": "Costume 1★ Pikachu (hat+capelet) + Sinistea (bow) LIVE; shiny debuts. Wild costume Zubat (top hat).",
+      "when": "Tue 27 Oct 10:00 AM – Sun 1 Nov 10:00 AM local (ENDED)",
+      "title": "Halloween 2026 Part I (ENDED)",
+      "impact": "ENDED Sun 1 Nov 10:00 AM local. Costume 1★ Pikachu (hat+capelet) + Sinistea (bow) CONTINUE in Part II through Thu 5 Nov 8:00 PM.",
       "urgent": false
     },
     {
       "id": "halloween-2026-part-2",
-      "when": "Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM local (upcoming)",
-      "title": "Halloween 2026 Part II (upcoming)",
-      "impact": "Upcoming Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM (official + Leek Duck). Confirmed: costume 1★ Pikachu (hat+capelet) + Sinistea (bow) continue through Part II end; Mega Sableye can reach Super Max Mega Level + Night Shade+; Shiny Greavard debut in wild / research / GO Pass. Free Timed Research (auto-complete) awards Sinistea wearing a bow — claim by Thu 5 Nov 8:00 PM.",
-      "urgent": false
+      "when": "Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM local (LIVE)",
+      "title": "Halloween 2026 Part II (LIVE)",
+      "impact": "LIVE since Sun 1 Nov 10:00 AM. Costume 1★ continue; Shiny Greavard debut; Mega Sableye Super Max Level + Night Shade+; GO Pass Halloween continues.",
+      "urgent": true
     },
     {
       "id": "festival-of-lights-2026",
