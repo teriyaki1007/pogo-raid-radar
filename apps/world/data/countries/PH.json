@@ -1,15 +1,11 @@
 {
   "iso2": "PH",
   "name": "Philippines",
-  "updatedAt": "2026-11-01T05:08:25+08:00",
+  "updatedAt": "2026-11-01T11:04:33+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Manila"
-    },
-    {
-      "label": "Population",
-      "value": "116,786,962 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,6 +26,36 @@
   ],
   "headlines": [
     {
+      "title": "MANILA, Philippines — Three thousand people participated in the 5-kilometer, zombie-themed Run For Your Life early on Sunday, Nov. 1, 2026. Read more: https://tmt.ph/2458848",
+      "source": "LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRzcteUsxekxMNDg5RktPRmU4Y0RuWXduRXZmbHBoMDZTcXpNYjh1bWpsdmlIX3BrZXBrNnNWM1hLdzRSR2xMc0JBblJQd0hIQm1vWW5wZm1ZNkhod2VZMERqQ1M5aW5tSml4a1pIRU8wcG10MnVvUTdEakJ0TVVyQUd3Y1BpSWloMERFYlI4VDkwT3hwUjhSSDBqNk84Y1E2SXdWaEpTdnJ4QTQ3MlR2RnZpSzdCVkRVbGZQNHRURQ?oc=5",
+      "publishedAt": "2026-11-01T09:54:46+08:00"
+    },
+    {
+      "title": "Round 1: Picklum keeps applying the World Title race pressure in the Philippines",
+      "source": "World Surf League",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORzNfeS1yY0tvSEJCM0diUlM3N2lOWUlEN21FRk9zSXNMZW5XSjZMNGh5Tjhwd0VhUnlIWk9sNGswaVQyd1poS2EwcE5CaGdOZVZMOVZiX0pQSWdNTWw5OEtvRmhIZnpNRFpKYVpaVkF6S2J4WEFDaDBieDRjcXVUT2l0Mnd2YmVTZElhQV9yeTFxTVhCODRLVUJaQjZJZUdMRHhKSmhEZDBHZjBqOXhWeUxxazRqd0JRTGZUR2RkRWxlR000MkpyclV0T0Z3dGtlSFVRaA?oc=5",
+      "publishedAt": "2026-11-01T09:21:12+08:00"
+    },
+    {
+      "title": "How Philippines' Carl Jammes Martin shocked the world with win over David Picasso",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYnkzRFVWOTgtNVZpYl9iektZUHBHaXJCa3ZqNmQ2dlV5RWNObUVqOVZ1SEtybnBfc1ZVakQydTNFT1ZCenpfWjdmQVBfZ2t0cFFSMmswQk9weVVzTDBKclN1eVYydVBNZk9SSUN0QlhnWUpyNk9hYmY3SV83RVZyZkZsTFgxU2h6U1hMQU9TZDdYMktiSTF3bkx4MnVQLS1vT3BSN3lkbWtjR3RfdHUtd19fQnFhYmNnX0R6RDd3?oc=5",
+      "publishedAt": "2026-11-01T08:15:00+08:00"
+    },
+    {
+      "title": "Jerry Springer live from the Philippines wasn’t on Meghan’s PR plan",
+      "source": "The Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ0hyaUlzUW5Ma3FaLXRmNHpsOHdNOUk0b2h0a3VOVjEwVklwbGJMUWZQYWFJU29Pcmg4SVdudGhlNkJQb2d4d2Y5MnFORFluQkJ5Vkt5c1N4QXhzdk1pRU9iZjZqc08tLXRQQkdBRGRsdXVvODN5X2U3dlNrZXozS3Fickpla1dNemcyUDBIVGcwR3ZrQ3UtTFRIN2xfMG45cUdORDh4MGtZU201a21URVVLbzlqZVRCam9rVEtWOE1vTy1iamc?oc=5",
+      "publishedAt": "2026-11-01T06:25:00+08:00"
+    },
+    {
+      "title": "A new political era in the Southern Philippines",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSVVaazQtNEtWVnJLQ1FZMGRZeU16cUJOYkRCeUl0T2hzM2YyZzluMVdnWlNWWGtGcVl5V1BKSW5ZZlItNTlJbmlRM21RaXl6OGs1Uy1BRjVqdGVpTUkxVU1pNHdFRzBmb2JCb0FiWFRlUGpHU1hwNnJSWXNTbnc3dV82WXZnQlBYYmR6UDJHbjZGZGlaMVRZ?oc=5",
+      "publishedAt": "2026-11-01T05:14:32+08:00"
+    },
+    {
       "title": "🇵🇭 Philippines: Carmelle Has Send Off Show Ahead of Eurovision Asia",
       "source": "Eurovoix",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFdJTGtCcHVUN0hnay1zTUVUV2YtMGgzdG1HZVNsaTd5VElhVzFqQ0F5b3g1T3lTc0N1amlPYzhjemMzV2h0RVF5Q0YyYzN1ZER4SmZFOEFKM3RXdWQzRXJhYnN0NHViWV9YYUNSQzltb2hJTVZQbTVENG56X0hWRmVqb2hqM2pkcDJQeg?oc=5",
@@ -42,40 +68,10 @@
       "publishedAt": "2026-11-01T00:35:16+08:00"
     },
     {
-      "title": "Canadian firm eyes RE investments in Philippines – Go",
+      "title": "PDRF to close gaps in Philippines water security",
       "source": "Philstar.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaXpMS0doT3ZhSHFRN2tNZ1cxejR5QnA0d2c3UThZNUpSaTA3ZlBZQmpzN1hqRjJCM21LelpvekJGeTZWa1cxTU5kNjM1OEp2eHE5RFNfZE9qM2RiQk80NTJQSHJVZVRzeHhWZVdFY0FYVWVMcy1jdFdEb1ZoLTVkaEh1T19uSDFFdDMtTHhoS0RId2JQbE51R1FrZnRuLWlWVm4w0gGqAUFVX3lxTE4wRFBtQ0Q1RC1jT3QtT0dYZ1RVMlJ6blN2QTZxaDZYMjk0dFVzVmlFN2x3UThSdDhVMWVTOEtYNExFT2VlMHhjbHNOQ1UzTi1Nb1RUUlhQYTd6QmlBVGdMams4WDNrWDloUzJEUjd4NU12dWtuNXg2V1hDN2dld1ZHdjZfU0lCU1ZxcHFIcV9oOElZVUR2ek90dnlVdnl1SlAycERrQ3FDTmd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPalcyTWl5X0ZNR1dhVklWSUJtakNNSEMzNl9jQXdIRmltZWw0a3dpaVpCWHZJLUdxaDJiUUJTY3l3STJWMXN0cjMxRDQ5RGRTSWtvYkZ3c1FZTzdZYVFFNndJOXRJeUpxcHN0S05uY1BfXzFCSWJVS0wtcWZucmE5dnVhTzRyOEdLZ2RGanZ0S3h6ajFJV0thWXNiTWjSAaMBQVVfeXFMUFMxZE1VR0ZEaTZhdV9qT0R1Q2taODZiSVhSUHUySDlJcHlIZy1fRGpod1RpUUp3Z05aaFd5NkFSRFNIOUh4Ym03UnZjZHBvLU5EWjJZeVpOb25mMUh1MkFYYU1wMlBIM0I4cWxDWkZBZUgxM1F5LUo4cWFiemhpYnNVTWNMc0lvNTRrdEpCZ0F1MlNRNHdDdjZ0cEpwZ21RdW9Zcw?oc=5",
       "publishedAt": "2026-11-01T00:00:00+08:00"
-    },
-    {
-      "title": "Philippines YOG campaign on",
-      "source": "Philstar.com",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSmVBalZmOTZzNC1DT1B5Z0tXTnJ1VHZiVDd1NWc0MEFMVHRYOVVwTlpSYXA1WlJ2cTdpdXU5WEloQlRuR21kRnJIR2dkby1PSVk5TXZDcmNlZ2RwMnVGbzhjME9xUnN3aHg1dkRtLTRjUFViUWF3WUZUdmhVaEVJcC1QVzXSAYsBQVVfeXFMTW5TeEN3QjUwNzNDMENFUVNNSWlnTjUtSGJOaWV5Yjc3dk44NnUyeVd0Y1VWNUxrRUN0ZnhXUjZueW1LVk83am1MeFl4RHpQYk93aW1nM19tSHN2TTBpdFpwOGZyeTJSeUh6enRFVjNQejVCdGtsUmk0YWtSeDJxbnpUR3ZBcVdjWkJtbw?oc=5",
-      "publishedAt": "2026-11-01T00:00:00+08:00"
-    },
-    {
-      "title": "BFI London Film Festival 2026: Isabel Sandoval on Moonglow: 1970s Philippines Police Thriller",
-      "source": "The Reviews Hub",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0Q5ZFc1SlhoUGdPbjd5NktZWXJLRWdna2FESW1vaEQ4VzhsMDl2dUY2cVFGRy1za2JnLVV0cjJFN1ZJQmVDM2VhM0xqYnRqbDdwWF9rOVdneDVXV2FvRkx0UnhhQ24xRmc4QnIwUHJaeWk0aUs1NXBXSVJCRVhDYjFiZG9ScVlTVDR2VjdTdnJRVzBwa0VRVEctU0tYNXNMVTJpWkJKYU9iRUVaRUlkc3ZhcVNzUXhpN24zSEw1cw?oc=5",
-      "publishedAt": "2026-10-31T23:55:04+08:00"
-    },
-    {
-      "title": "Britain won’t share its sex offender register, says the Philippines",
-      "source": "The Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaGNyZXFWOGhfWUlMa3NkcDZxZV9RVHZwX2JZSHZZWU9MSkRuYTdBQ0F1MS1ZMmpQWWVvVTVwLV9QOXB1cnc0QzRvYWJhaXdvQnR6U21Oek03TmNmRzBGZkZKaDVha1ZoaHJqbU9mc2Z5dDF1THVZZUwya0VnZUc3UW5CWFdTODE1R0Z1ZUNCdEN2bUpGbmRYSmFB?oc=5",
-      "publishedAt": "2026-10-31T23:48:24+08:00"
-    },
-    {
-      "title": "MANILA, Philippines — Rondae Hollis-Jefferson came up with another explosive performance to power TNT to a 98-87 win over Magnolia, scoring a three-game sweep of their quarterfinal series and barging into the PBA Season 50 Governors’ Cup semifinals",
-      "source": "LinkedIn",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUzRBQzJvYzdndmxYbXFUTzlBNG9SSjl4dEZfMmdfSGtBQnE0OVpkSTRuYXMzZDFsVnk4d2toQTdMT0FKNEZlTUFJWUZpZlBDT19ManRmMmZHNW9CWV8xeW1PQURjRVVOSy1FVXozUTFEMVo2TGYxcWNrUUxwdnAta2RHMlhrZnpMdTIxRGtITEtnZkRya2VrUkd2enViVjY4YWQ1VElPaG96cnZ0d3lvZGZRV2ZlaFhrZW5SNjcwUFgzUQ?oc=5",
-      "publishedAt": "2026-10-31T22:39:09+08:00"
-    },
-    {
-      "title": "Eye Opener: Volcano erupts in the Philippines",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRzdJcG0yT21pTkNLdld0ZGtzWUY4Sjd3Ni1ROWdocS11T0J6dTZtSkNlOGJuYlV6dVF4eFNNNFZQSXBZZXdRZXRObDNBZ0RCY0VOU3JxbllROTZEcDYtX2daYWdqQ1NQenlnaTRoMFhicEJzSk5yZE44cl9qT1NxRDdnNDJZbkNmU1BKMXhzQQ?oc=5",
-      "publishedAt": "2026-10-31T22:15:59+08:00"
     }
   ]
 }

@@ -1,15 +1,11 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-11-01T05:08:25+08:00",
+  "updatedAt": "2026-11-01T11:04:33+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Dublin"
-    },
-    {
-      "label": "Population",
-      "value": "5,484,367 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,6 +26,12 @@
   ],
   "headlines": [
     {
+      "title": "Most Halloween calls in over decade - Dublin Fire Brigade",
+      "source": "RTE.ie",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ2kzT1ROeTY2bTZ5bC12Yl9MZ2FfOUFaTHJRZU9DRG5nT0tIbS1GZ3kwNzI4Q3dLYV95eXVqTmlseHZsNTVXNzNTRjhPcG40SHNBNTFvUTRTa3F6NmlxTWpZdHNyM0JGbGtqam9LUkQyN3RpZXpoQnpHcW9XYnMydFhyRms5Z3M?oc=5",
+      "publishedAt": "2026-11-01T09:09:33+08:00"
+    },
+    {
       "title": "Firearm aimed at gardaí during attempted arrest in Dublin",
       "source": "RTE.ie",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaVjZHU0xUY2RkQzUtV3JfSmhNSnc2b3A1QUd3NTRkSGVrdVh0emNWUUlqcndfSDd0TTJFbHJjMmZQdzZ4TmRFMGhaNXFFdFFmUVV2ZC1ScWhJWGx3Y21WV2JWS0NkV3k0U1JsUWpVVzEwOUpVelNFcS1R?oc=5",
@@ -40,12 +42,6 @@
       "source": "Afloat",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNaFA3X2d6dGMyeEYyalpkMkdXZ3UzRE9PTjR3eTF5UFctTUR0bmVISnVacDFsaHBLQjRZNTJ2VDkyTHhyNDBBSnlYUHFFb2E0QTdHYi1mM3prLUFJSUFDQXJkVGx1eW9yWXR5NWRHM3lHSGllQ3RpeFBfYVU3QmJya1JWNGNWZVJKdV9TZGNwSmxIbzd3NGNCRlh4bzBIM2I4OTR2Qkw3ZWtZR2NtVWZLNjBQN09NWHM3Y1VNUENjMllWWVVRVTFjaGQyVXQzQWdfRkNMZDBwSVZEajhabUtwUl9pUjRwNy1VVUlnUA?oc=5",
       "publishedAt": "2026-11-01T01:11:24+08:00"
-    },
-    {
-      "title": "Dublin Fire Brigade preparing for 'hundreds of calls' on Halloween night",
-      "source": "RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ2kzT1ROeTY2bTZ5bC12Yl9MZ2FfOUFaTHJRZU9DRG5nT0tIbS1GZ3kwNzI4Q3dLYV95eXVqTmlseHZsNTVXNzNTRjhPcG40SHNBNTFvUTRTa3F6NmlxTWpZdHNyM0JGbGtqam9LUkQyN3RpZXpoQnpHcW9XYnMydFhyRms5Z3M?oc=5",
-      "publishedAt": "2026-11-01T00:16:48+08:00"
     },
     {
       "title": "Lifetime bans for men who wore women’s bibs at Dublin Marathon",
@@ -66,16 +62,16 @@
       "publishedAt": "2026-10-31T21:45:13+08:00"
     },
     {
-      "title": "Man aims firearm at gardaí following chase through Dublin city centre",
-      "source": "The Irish Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDk4STBvM0x3eXJCX3ZVaUN6d1RCWTl1LW0wWk41RWVDeE0xLWZfbTBzdDRaeEZtQTg1UG1pOFRFb3VBZmZmcnhJb0ctZ19NaVJCV1dQakdnb3VkOHA3ZUUxN2NueFd6bTkzeDNOV3MxbndvZURrZnRTZnVrdUFMRjlYUFkta0c4dGNienJrai1FZkUyU0F6N0JxZmxFWXE3STVRaFRaeTNZaVFSMGJQOXlveGZXaUk5THc?oc=5",
-      "publishedAt": "2026-10-31T20:48:37+08:00"
-    },
-    {
       "title": "Man (65) charged with attempted murder of doctor stabbed in Dublin medical unit",
       "source": "Irish Independent",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOHdOblU1eW1RUlRsc29VYnhkNGxuaWFNeTFKbjZNd1ROdDM5ZU1TMzI2ekRncF8yMW9OaERSUXpnLVJ0UXNEZUlXalZDb25LTjl0YUVia3MxVU9mVFJxTWhUdHBfaXNJU2tzeWRpVUNULU5ZSXJQZjFVYTNmazlQdi1YVXk3b1ZHNmNzdWVxTXpXUG1lb3AxU2d6YTF2aGFuUW5QSlN2ZnUwcnE1Qzc0MnMyT1V1R1FRUkhLelVnbExZNDVJSExiTUNUQlA?oc=5",
       "publishedAt": "2026-10-31T19:59:00+08:00"
+    },
+    {
+      "title": "Why did Macklemore choose Dublin as his launchpad for ‘Free Palestine’ tour?",
+      "source": "NBC News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0NpNERNUi0yS2NGM0cwa21uMkphcVZJSGUyaF9YU2cxQ1A5WS16TnhKMHpPak5ndmVXSWQwRkd1YWxLa2VSRzlranNsdEZ6MUNUeVJpMTF3ckVtYkpuaVIwWkNvLWxCTkJ4NXVVT3ljNU9Td0NTQ19UNXlGTXZaVU5PWHBmWmVwc1JMeVVtZVJUMFpTUWJhNXdHdVFGcmxqVUREZnRWdml6OWJMcVpJ?oc=5",
+      "publishedAt": "2026-10-31T19:00:40+08:00"
     }
   ]
 }

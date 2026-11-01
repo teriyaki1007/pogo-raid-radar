@@ -1,15 +1,11 @@
 {
   "iso2": "BW",
   "name": "Botswana",
-  "updatedAt": "2026-11-01T05:08:25+08:00",
+  "updatedAt": "2026-11-01T11:04:33+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Gaborone"
-    },
-    {
-      "label": "Population",
-      "value": "2,562,122 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -29,24 +25,6 @@
     }
   ],
   "headlines": [
-    {
-      "title": "Windhoek honours Botswana’s Seretse Khama with street renaming",
-      "source": "The Namibian",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUGxWeHBoa3FmRFJvY1V1MTFORWo4SlhjeUxhUmM4U3NfM0VmMTl2LWQ5X012RVhXVHNZVG90YVZPU1BZaVZDeW5qLVduWFBaLTlyRF9pXzNPTVdwc0lKN01qanZxbXB0SlUxYlIxSGNKVlU4V1NhZ3BJTVFTVkk3NDN1cDFmXzN4ZTQwU3NYUQ?oc=5",
-      "publishedAt": "2026-10-31T23:07:17+08:00"
-    },
-    {
-      "title": "SA, Botswana temporarily close Kopfontein border post",
-      "source": "Channel Africa",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa0pyWFdCRkw3c0xVVkNrQkhoeGs0MlI2VmZxeExqNXktR1hqLWxIZ3U5VHNRZjB4STNRbnNJeE9obGpvY08xMWM1WFVFQzlTQnJSOEFlYy0xam5VVnZuWFZ3M3g5U0JWUlFCQzlFa2FZLXgxYkRSelRqcjJZZE80TnBLaTFVRGV3SEpBSkVUWEx4cXh4a0kzMlZMZkM2UndXYjZ2blhubw?oc=5",
-      "publishedAt": "2026-10-31T18:29:57+08:00"
-    },
-    {
-      "title": "BMA shuts down Kopfontein border post between South Africa and Botswana over infrastructure problems",
-      "source": "IOL",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUkplakVSSWVQc1RaZkhzTlRvekFoVGFlNTMtZUFXelE4Y19YRjRKMWFWWk9mS3Y1RTA3N3AyN2lubGJtMTNFc3ByUkdpSXRrZC1TRTRkSVZJMWw0aWpmOTJ5Wnl6RHQ1a0psWkZwd3kwYjgyZzRZeXl1Z1JId1NNNV9xQWtxbU1sWldSbENUSXJDeXYwbEpDQmJvOHNBamkxbEpVT2dMN0JMVmJ0N0IxdWRyazE0dFotLVFraUc1b2RiRUNhSmxqdUo3ZHlYSE5PcjZjdHhkMUY5NnNWdHdKWjln?oc=5",
-      "publishedAt": "2026-10-31T17:35:25+08:00"
-    },
     {
       "title": "Stanbic Bank Botswana launches IPO to sell 20% stake",
       "source": "CNBC Africa",
@@ -72,10 +50,28 @@
       "publishedAt": "2026-10-30T22:47:41+08:00"
     },
     {
-      "title": "Presidential Documentary - Netumbo: A Leader Beyond Politics Showcased at Botswana’s 9th Bantu Film Festival",
-      "source": "New Era",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQTh1Rk16WmwyWEhLbHpGZ1ZyX1d6SFJtLUktMVNRZjhyYXNGQTlfRjN2QTR2WGRLMTJYT0xnMkhBOWNmdDZubEpqckVoTFh4V0JPWHJLZ1pDS2UySFNYQXdHODlDX245X21FWDB6ZDJTSFRLdVB2YmxWZTNOQ2p1QkhoRkxBcF9MNVF5cUthUmFWYWh0aTQ3a0RBdFBURHBhSkIxVWpkWmNzd0hpQWM2bFlsUE5zTmk1UjRTNDBodTZVYVBFNkE?oc=5",
-      "publishedAt": "2026-10-30T22:12:05+08:00"
+      "title": "A historic land restitution process offers new hope for Botswana’s Indigenous San",
+      "source": "news - Mongabay",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS3J6ZzczcDNYWjZ4VFNleWtuMXp0bmJsTFMwdTV6M1ZHd0x4OENyT1RoV1dRQ0VWazFsWm9oRjVib3Q2OEZQS3VhM0NtUG41emZYbTJOempnNG5zWVpkZGRQbWF5WWh0alZ0TWFDXzc1SWxxWHpEdmdrcU5PbWFULXdhTDNjemlsa1F6WnE4ekd3NXdJOTBQV1BqNTRXVHUtaGVIMFVlZmdYenYyeTRsWHYtWS14d9IBuwFBVV95cUxPanhPdm52cHVucVJkNlpJOUpRQUg0SlMwNWdXT3BDS3BoMHduQ0pvTG1TNU8wbXhLbTlfa2UtUVl5MFZVaXBCMmtxVEtHOS1kcncwZ3FtUVJOaGI1eXRNTTF4TXFwVzJpNkhoS3dKTS15YVRLbTM2V2pqQ2FtNE02ZUFMQkp3UDc0QnE0ZzNvVVVkWnRuWTNqaER4YURIQ3NyU0hJbklzM1JMbmlHdzh5LXR0eHkwLWZBejhv?oc=5",
+      "publishedAt": "2026-10-30T17:37:23+08:00"
+    },
+    {
+      "title": "Meet the All-Women Ranger Squad Protecting Rhinos in Botswana",
+      "source": "Travel and Leisure Asia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcnFuMzVKS2hDZUdoQTBkVjZUOE1oYmYxWG5LNGh5Qkw3dlk5YzE2QmhGUTJYaGM5eVA5eHk1ZC1DMm9zMjcya0VjRmhPSE5rLU4xc2c2cURnYnIwcGdpMm8tSzdaUmNHZDFpNUw2eHplYnBQRW5kN3lpSEdvb1BISFg1WnVBa0I1Y3Rqb0NGVlJVbVYzRlhIeVRoSEgzdkNpanJZZ3NabUNieW9KT3Rrd0FlZU1TeHR2MlZGbFNSMNIBxAFBVV95cUxPai1MSVpTTjRUeU1qeUo0VEdiQnhzTUFyLXd3c1k0TWFxeEVpTkhFeVV3ZFR4ZFRhMEVZclJGcUstYVVuSG5jd3Y3aW5YZmZ1d0Z1Y2l6ZHlteDRBTEh2dHFXa2RESWZpY1ZrQmRpZm1Ib2xlbndxTS1yVUNDcHNYTUdwTUlmR2Jtc0pPWWpVSkJvMEhDQzE5bU9MWlV3eEhSOXVCN0ZmUWhKemE2Q29KSHNHRk5iQXFBcFVWeXVoc2ZScHE5?oc=5",
+      "publishedAt": "2026-10-29T17:50:00+08:00"
+    },
+    {
+      "title": "Afreximbank to host Compliance Forum in Botswana",
+      "source": "CNBC Africa",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOVl2ZkFzV0dSeDNPeDZJQndqLXN3bmtjM1djVjl4azBnVzNCRGkwV1gwNzhRbWVtVHplZ2p1ZnNKNnVWTTV3Yy1nQm1GV0FxOWVFWGIzcm56ZmlKYmdaY0E1RGhPdXlxQnNobTViZk1BZUJOX19YVTZyUThvT25mU3pvTHVfOGViZXlJUjh1QzBvYWVVMU45blllV2w?oc=5",
+      "publishedAt": "2026-10-28T23:31:43+08:00"
+    },
+    {
+      "title": "Botswana Minerals receives enviro authorisation to proceed with field work on two licences",
+      "source": "Mining Weekly",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYURkRVJUcVFkTG1Xeld4YnE4ZFhTcWdQdDN0R2hSU3lYbmpSZ0dRdW5MSC1BNG9vVjF5alR0VW9HdDRrSmNHNzZ5REdVbHJfLWU0QmhUc3ZyQ0NXZVM0WWtVckdvZjIwaFJVNXI4WGlXZUI5VVN2dUFaaWxnbzZMOFF5dFN1cjZ0TDlJMms1VnhZMWVWd3E3LXdaNXYzcE9pN1gtS2M5WVRpeTRKeHd6VXJvYUVfM2ZhajRCd2ZHM0pUVjZjMVg5bWpCMW5LX0VtdUtlOQ?oc=5",
+      "publishedAt": "2026-10-28T22:18:00+08:00"
     }
   ]
 }

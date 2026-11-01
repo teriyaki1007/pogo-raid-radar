@@ -1,15 +1,11 @@
 {
   "iso2": "MP",
   "name": "Northern Mariana Islands",
-  "updatedAt": "2026-11-01T05:08:25+08:00",
+  "updatedAt": "2026-11-01T11:04:33+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Saipan"
-    },
-    {
-      "label": "Population",
-      "value": "43,541 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -34,6 +30,12 @@
       "source": "FOX Weather",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hZ18xal9QMnk2RlZYamVkVlQzSTBCTHJMLVQ1OWh0LUtlbDRXdDc1ZVZfa0lyTEJSdUM3bzdReXQwWjkwb3NGYmhlOWlRTHBaeER3TF9lbi0yQk9TNURWTHNxdw?oc=5",
       "publishedAt": "2026-11-01T01:31:01+08:00"
+    },
+    {
+      "title": "Super Typhoon In-Fa remains a powerful storm as it blasts past Northern Mariana Islands",
+      "source": "FOX Weather",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPR19xRUU5YllCSE5zSmU0NVFFQWtoNVlDallkNlprcTVsSzEzRXBZZU51a1BUYlpLaFB3dFdMakZLc0IzOTdIaklVY2ZwSjBZdFBMMkpQRW5VcFlTTzA3djNrSQ?oc=5",
+      "publishedAt": "2026-11-01T01:04:11+08:00"
     },
     {
       "title": "US suspends visa-free travel for Chinese visitors to Northern Mariana Islands",
@@ -70,12 +72,6 @@
       "source": "Weatherboy",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPR2NjQV9CZWt3ZnBaZjY5TkhWR2NwNTdXWjJpUU12elRqSzNaTzYtZmZqZ3M5X1ZFNnNXMUVrSUE1R1RZSG5FeDRkNnVaRjNHcFVQbHc3allYMmo5Z2FkNGh0SVJWNGF4SkQ3X3ZKbjU3cXBEUFladlVNYzRLOEFUbXVLVlFGdm5Ua2dTaEVFQVAxTTdZdERQaw?oc=5",
       "publishedAt": "2026-10-29T15:00:00+08:00"
-    },
-    {
-      "title": "Typhoon IN-FA: Forecast to Track North of Northern Mariana Islands; Limited Impact Expected at Saipan International Airport",
-      "source": "株式会社ウェザーニューズ",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83OWU4UU9aV0lCdDFLbHJhamJTS1BfM2RpWE1aOHdYUzJvc0VYZ2wyTHJqaHBrSGZvN0x2bFVqRm9OSHBrUy1mZ3ZkcXVFeC11UWNTSmFHMmVHOVd6ZENsQzlqNkU?oc=5",
-      "publishedAt": "2026-10-28T09:30:00+08:00"
     }
   ]
 }

@@ -1,15 +1,11 @@
 {
   "iso2": "AU",
   "name": "Australia",
-  "updatedAt": "2026-11-01T05:08:25+08:00",
+  "updatedAt": "2026-11-01T11:04:33+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Canberra"
-    },
-    {
-      "label": "Population",
-      "value": "27,614,411 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,52 +26,52 @@
   ],
   "headlines": [
     {
-      "title": "Harmer and Rabada wrap up South Africa series win over Australia",
-      "source": "Japan Today",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQWp6Z1JxZjlFeUV0UFd0VVpHU0pNSDJkNGVuMjFZaUhOc3o3d25KS2gyUXZnNkNvOUxNaW50S2RGbjYzZ1RsbmUyZjRsYnNZZWNtcUxUTHZUWF9xOHV4TklsQS1HbDVsZWVCQ2tESG5jajZtYnpIazEyMTc0NVZYX0RLUTkxVkxzQXpLcjFrOGdIMG5qN1hzUFh6SzVCMUgwSThIVUFB?oc=5",
-      "publishedAt": "2026-11-01T04:59:17+08:00"
+      "title": "'Disgraceful' Australia face reckoning after South Africa humbling",
+      "source": "Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZMUdIeVhwcnU5TnRMYWtveExha2hsQkdncjVQcWp2VHp2Q09DencxaGEtdlZPcFVPQXJmZ2Y1OGF5UjdNMWE1OVJIUTBKQQ?oc=5",
+      "publishedAt": "2026-11-01T10:51:56+08:00"
     },
     {
-      "title": "'Deplorable' showing from Australia in third Test",
-      "source": "SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRnVjTklBRXVYb3NoWWxpQkJyYUNVRGJYYmwwUVdOeHExMUFLaG5iUkdhc2tLQ0ZmZVQyOUhZU1U1VHVBUVZWZ2VkSDJFYTA4NXdHNzVRMkF6c3h0ZmVPTmg3TnVJVi12bWRmQVJXZFZFeXMwdWlpTmdUdkdsYmFEUWM1dml5RHh6bUFDS1QyempNc2xkbjNCXy0tM1lRZ1hBeFE?oc=5",
-      "publishedAt": "2026-11-01T04:36:32+08:00"
+      "title": "Europe’s answer to Elon Musk’s Starlink wants to build satellites in Australia",
+      "source": "شبكة تواصل الإخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2TEp1T1lDVUsyS2N6Ti03eE45YnU4NFh6LTl3aThkS21RVkl2cVR1aEdUSHBacTRkY1QwSEtiMGlfOVl5Wl9nZ2dFX291UVRJbW9J?oc=5",
+      "publishedAt": "2026-11-01T10:45:57+08:00"
     },
     {
-      "title": "Victoria Labor promises 20 free dental clinics — ABC News Australia",
+      "title": "What Happened to Knotfest Australia 2027?",
+      "source": "Blunt Magazine",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fbk9scEt1ZUJIc3ZEdm9rM0IwQ3BUSHFTVF9wQ1lrYzhLeHV4LWozTmFHekxrRzc2Ulk3R1RUQzZsc0Z3Mm1udmw2OUQ4LTRaZ1JXWFB6MDY3cXQ3XzdDajc4N05yOWt6cjhQd0ZpNUJEMTc4YUk4Rl91WQ?oc=5",
+      "publishedAt": "2026-11-01T10:45:29+08:00"
+    },
+    {
+      "title": "\"It's Un-Australia, Disgraceful\": David Warner Tears Into Pat Cummins' Team After 3rd Test Loss",
+      "source": "NDTV Sports",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTDhKM3QxQ01YZU5McTZDclhUT2RBRHhSZjZaOHZPcWhfdzMyQ0thMERKeDVZeWU2SDExeFNrdDdPZm1tRE1kU01ITGFmY2FETVlNMmZzSzdPY2FnYXJva1VVcDRFSnI3U3dpeHV4d3Z6LUVyVDcyd2I1QkVidVJXUUE1bndiNjd3QzRDTWM4SzdOWGNyQ0hDWDlyQ3dkLTBpM084MWxRc2RPNGZqc1JqVjA2UGQwYkhURTZ4dFk4RXV4cFAtNXloVThR?oc=5",
+      "publishedAt": "2026-11-01T10:43:35+08:00"
+    },
+    {
+      "title": "Faessler reveals ‘huge focus’ behind clinical Australia A shutout win",
+      "source": "Rugbypass.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQnpjaE81WkRVYUpEdFpjcmRqLXFwOTU5Z085MndSU2JacHBsY2xkbVN3bG0xNkFGeUZhRGZFak8tTnl2aWx0UWdJUU11QTRiS0NfZElsdWhkY2JJckxBbV9jQXJUY2tUbXctc29LRzZxeFk5RXVLMk1HMmE5NzVFZHViS3lMSUhfSVduRmI5RERtVTBWUmhtNEQ3dWItU291?oc=5",
+      "publishedAt": "2026-11-01T10:32:18+08:00"
+    },
+    {
+      "title": "Tours of historic prison resume in Gladstone — ABC News Australia",
       "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRkg2bUljTWE1LXFFTWlmV21lRXVTbzY5RnJ0U0NFVXZXdUEtRzNIeGt1Tk9VOXFwRG9wN3Y1enhxazY2ZTJ4T1lkcWRsUDhhV1oyRXZIQkxTNXFWcjVqTldLNzlHejM5WjZrbnBjOXlKMEgxakJNOUVSWXZyWm5xSHp3d1ctS2NmOWI0SmU4TFBNeXdYeFdDbVp4MzRVbm0yenBGcmZVM3hCV0ZVMFkxNUt2UFpaY2ZzVnRZcmVYTUxXX0tNVFE?oc=5",
-      "publishedAt": "2026-11-01T04:32:13+08:00"
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNVdlX1MtQUhOSjd4V2RLZmNkYXlBaUVHQWV2LV9wLVFYaW9LSlp0dlhoNWRXcTc3SlExN19QZmxnbEZfMkZXdVI2cWZ6N0ZOX0xCa3lIdzVfOE5IalhkU3I5aUtQLVZWek43M2JobEJYdGpuSnVfVUVFdjJzWGlnZW9BZ2MtZ3F6T0c4U1l6cTJmbmdlOFB2ZDJtUzVoT2h2QzNYcnpaWTZhUzk1dnc?oc=5",
+      "publishedAt": "2026-11-01T10:31:45+08:00"
     },
     {
-      "title": "Australian PM Albanese flies to Commonwealth summit — ABC News Australia",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT21ZZ2hDU2NZSGkzUGc5Y2FHdXF3elh4WjgydmNmdS1QekFJYUFoS0ktM0ZuVl9oVUVueWl5a2FsSklwMHhTd3RPN2tieENsNEZqZlFEa1lnMnh3VVpRMHI4cGJ1dVNDSnMtajcxemhUbWpoN080c1k1NnduZ1BhQnl4anJ0UnVaQnRSODMtOU04Tmc0bTFuOGdlZnNMZUdMOG1TSlQtRTZLSERNZnc?oc=5",
-      "publishedAt": "2026-11-01T04:19:13+08:00"
+      "title": "Amnesty International Australia calls for human rights safeguards as NSW Armed Response Command begins operations",
+      "source": "Amnesty International Australia",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRHUzYlEyZ0V5bkwta0NjVHhSSl9ab3hGTGhEM0ZEY3NaTndkc0RyOURTVFBmME1LU0t3bW53Z3hEZGFtRWJQNzk5T2t4c2dnZ09HbE0tLW40YmJLQktINXpaLWJWdEdCeHdpZ2YwUGRUV3Q4NEtpMmtwbWVtZmJZSmtoMzY3RS1CNDlLNnJZNU45N2F2aGZOekVNNldBd1c4cjQ5Q3ZDZFVObVFaOGhhdnIyNXFaMVFZa2JER3BUVVVnbVE4aGpxWkFYRWc3Q1RZWTI2UmJOMmw?oc=5",
+      "publishedAt": "2026-11-01T10:15:43+08:00"
     },
     {
-      "title": "'Frustrating' loss will 'gnaw away' at Australia",
-      "source": "SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNnBXd205LV9PcmxUUDAtNFlFR2k0NE9BN2VEUmEzQlA4OS1zTnpBOWRscEx4QTlzUXZWd0J1X0NsRHFHd0NpY1NBQ1FVMDNoSlU2eURWTHNNTjAtdnZzdFhOUGR3TWxvZmlyNDBsWlRibk5RX1VCUDBDUXBoRTAxSk0zTGtFZ2x1cWtGZndVS09uZlltLVhZdmpKUExPdHZxU2NpQUpINWN2ZWpBRnBFRi16dlNGaWZVUmtLY2xJQzZjcHhWTDV1X3UzYw?oc=5",
-      "publishedAt": "2026-11-01T04:06:53+08:00"
-    },
-    {
-      "title": "Test Cricket: Why change may be needed for Australia after Cape Town disaster",
-      "source": "Sport Nation",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWk5QX00yZmpHV1dPMVduNG9qNGQ0bjZndGo1YUg3Y2NTbVVHTmd4RncwQWhleTRWSVhiSnB3Q2llSDdmMnhWNld3Nkk5RmZWYVd4cEhiUmRqbTdtVDBudmFTcTJveGlGRWZVTmg5LVdaZU81LTZaUHd3QkpFN2hZQl9Pa0JpVnNMdzdpdHhFcWw4WEFJbjBDUlhCeFRxUXM?oc=5",
-      "publishedAt": "2026-11-01T04:01:48+08:00"
-    },
-    {
-      "title": "'Un-Australian': Warner slams 'disgraceful' batting",
-      "source": "Yahoo News Australia",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS2x3OWoteHd4RHJGNFpMZDZFTzc4dGRBQ0prdVhveTJtQVY1ZUs5QnFRRjB3ZkJvOUtDa0JfSlF1WldXRHR2NHRWT0twWWE0UUtEd2NXSHRSNmd0aGNmbU1VMlBVRnQ4Z0FvS05LazE5RUg2NURCZVNlTjBma0xNc1NYMkxuUQ?oc=5",
-      "publishedAt": "2026-11-01T03:54:36+08:00"
-    },
-    {
-      "title": "‘Un-Australian’: Warner’s brutal verdict as ‘sense of doom’ sparks 1300-day reckoning",
-      "source": "Fox Sports",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxQNm9wTTJRc3BOZHppSlBoVjVZX1FEdkVjVURlT25uQzZubnRFeldlNmRtYWxYLUJLZHRZWU1UX3dsWU1rT3RpRUhlX3ktT3o5TEhlZlVOV3ZjLXFlY1otdkREMzlweU56bDZRaW5FWE1aVVpUTUhhVWRhMXN2UW1MRTh3NTF4THhyNUZxdVI1QlhhbmswZGp2SDVyRkVnNDFUZUZ2YkdxSFVWaGhrTFM5NzdSbjJIZXhwbUwzRlRlS2RzTGV1ZjRPZzhBeHhQVllEX0JUOVJ2SV9pbFVRRFFuQW9rN25jc29QSzdZNjdpeWM2OFR5MEczcTJZejRLQXhEZVFHUGZ6eHpESW9JQWNOWjFKcURseVlTejJocnF1dGNiVHlwcWVaOVNpYWp1SW8ySjlnWklvSXRzT0o4RlBkQU1SNkdKNUlsRXQybmRPYXJESDM3cVVwNmRyUGI0M3BNbWfSAeICQVVfeXFMUDZvcE0yUXNwTmR6aUpQaFY1WV9RRHZFY1VEZU9ubkM2bm50RXpXZTZkbWFsWC1CS2R0WVlNVF93bFlNa090aUVIZV95LU96OUxIZWZVTld2Yy1xZWNaLXZERDM5cHlOemw2UWluRVhNWlVaVE1IYVVkYTFzdlFtTEU4dzUxeEx4cjVGcXVSNUJYYW5rMGRqdkg1ckZFZzQxVGVGdmJHcUhVVmhoa0xTOTc3Um4ySGV4cG1MM0ZUZUtkc0xldWY0T2c4QXh4UFZZRF9CVDlSdklfaWxVUURRbkFvazduY3NvUEs3WTY3aXljNjhUeTBHM3EyWXo0S0F4RGVRR1Bmenh6RElvSUFjTloxSnFEbHlZU3oyaHJxdXRjYlR5cHFlWjlTaWFqdUlvMko5Z1pJb0l0c09KOEZQZEFNUjZHSjVJbEV0Mm5kT2FyREgzN3FVcDZkclBiNDNwTW1n?oc=5",
-      "publishedAt": "2026-11-01T03:42:06+08:00"
+      "title": "‘Disaster brewing’: Australia slammed for ‘excuse’ culture after collapse",
+      "source": "Nine.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMFpBRlNMSk12WWstazNfY1lSSE14TG1uWlVBMDZ5cTk4VmJrVmFhVXhqX3FYMzVqMDFnSy05UTdLZHVnSXN1NV90ZktxdW00WGFNbkxkN3ljMXRWOFpibGRaOER3NGNmMFFhem4tTmZlbll2TDZic2hVRHNBU013emJYd2NoZGloUVpHVEpsdVZ2SDhmM0dxZGt3VTVvMEpyblFEcFBaQVJsSjFkXzU5a0wxNUFUVFhlbjRlSzZJLUhhWTlsb1NNU1pGWFVjT3hSYWV6dFhxN2ZTbHRiVnliZW92cU5PcXk3eXc?oc=5",
+      "publishedAt": "2026-11-01T09:59:32+08:00"
     }
   ]
 }

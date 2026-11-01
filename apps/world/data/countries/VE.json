@@ -1,15 +1,11 @@
 {
   "iso2": "VE",
   "name": "Venezuela",
-  "updatedAt": "2026-11-01T05:08:25+08:00",
+  "updatedAt": "2026-11-01T11:04:33+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Caracas"
-    },
-    {
-      "label": "Population",
-      "value": "28,516,896 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,52 +26,52 @@
   ],
   "headlines": [
     {
+      "title": "New Seismic Data and Legal Reforms Rekindle Interest in Venezuela",
+      "source": "AAPG",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01U0FsaTZnNlZ4MTg5NHpqQzJBMFBCQmRIc19URFd5OVRUMDVWN1h6aVVVT2R3VnRRX1R4YjJueU1TTmJTazZmUlBZYjkyVUJvVDBRMlVJeUpmUXZ4SUtlU2FlRERvcThuVjVwV3BNYWtQNXFtNDU0?oc=5",
+      "publishedAt": "2026-11-01T08:03:07+08:00"
+    },
+    {
+      "title": "Venezuelan army allegedly bombs ELN camp near Colombian border: Report",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQM1pnTG5OS0tBSnZDU3hUX3FfbExGRzg2S3MtVDZDa0ZGTjJrWUNEZ042eXJuNC1mcHNRZU5XbTd6M1pGWEppNzNNRnpmMnpPcDJ2aDlKX1pNLUJTdHV3WkNsT0xmY1JsMzU3aWc0QnlHTjh5am1JSDRaQWV5TEVkX19jNk9mODJ5cmR5RXMwdVRwanRIWllLdkptdkZVM0tpVERURzdxYzF0TjA?oc=5",
+      "publishedAt": "2026-11-01T07:56:08+08:00"
+    },
+    {
+      "title": "The Turkish Soap Opera of Venezuela Business Dealings",
+      "source": "Venezuelanalysis",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZFhWVjdnN2h5aUpUS2drTi1QYVNxNWFBc2tYeTNkUDk1dTZ2aFhMUWxid3ViMkdDRk5pOGZaZXNRSE1XZklNR2pNYUg5UE5QWXdyRE8wd3FZSGhZVlUxaXNFQV9ieC1OWDNfa01xa0lBZnQ2ZDhRbHI1VExfUTI2WlE5WXdDa1pQbE1BTFZNZG9Kc2VDSlE?oc=5",
+      "publishedAt": "2026-11-01T06:41:48+08:00"
+    },
+    {
+      "title": "Venezuela-Russia Energy Agreements Remain Intact Despite US Sanctions, Deputy Jesús Faría Says",
+      "source": "Orinoco Tribune",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSnY0cXZ4NXVTVF9NbmFPSENQSEJIa0JTOUI1WjNRUEc1THAyc1hYVm1DZjBnUmFHOVVMZUczT3NuTGFpYW50elhLV1NjVE43V2FNVEFNcDg3WkRkY2h5NDZ4RmtLQ0FzODlpYzF2dFQwOURQcXFiYXJ5U0c2UUNDdGc1cHNYenlzOG9ybGNsaGdUUzZOVWtNMUhvZG5UbDY1a05oWE40YVA1bEI4NDV4cGZsc1FuV3R6RW9BbWZB?oc=5",
+      "publishedAt": "2026-11-01T04:34:00+08:00"
+    },
+    {
+      "title": "Venezuela demands Bank of England return its gold reserves",
+      "source": "mronline.org",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPUnJUMU1MeHlBZUVHV0wzYzNjdlUzUWVHT1VuZUJBWVhPVEhqVVdCeUVvWVhqZmY4MVloR1ZUb19UMkcyRDU5dDNOSFRGTU9QdHl6QXJTTHd6dnVjdDRxbEd5TUVnMkZ6YkhBeF9ybTJ0MzBiTVVTeVpxOG9RcDF4WWJrZEZFM2hZbzQwYllKdTFOdzRKcldaVEZRaVR3a1BkWjdYbzhMNndocmdVdWJuVGZvbG91c3JzVWtiM2ZmbmJNdHdISTVLY0JFR0lTTUNRZ1dmeW1nMlgzOTFJMHM3eFhfekwzNGdFLXhyeFRNcXJHNkhiZ0tHMWR0Zi1tMmJxZWw5dWlpZ0NJQzlXNVhoSGNpRW9MTkhpQ01adWxn?oc=5",
+      "publishedAt": "2026-11-01T01:39:31+08:00"
+    },
+    {
+      "title": "Oil producer NABEP to increase Venezuela fleet to 41 rigs in November",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZGFweXhnYjV2dmhQbXktNEVrZ05nQmRmLTlFVmZZR3VJVENxQ19vdFlVM3JhdmJTenA0aU43NFQwY1dNOW9Xdk9JVXhSTkxNY3c4cG1IblRlNzdrajdJbFlDdlpURGxRVkRNR1owRWFGQ3ZMUjlwX2YtS3h3UFF6b183TURWdHh6a0xIeUZSdE1Rd3pybF9VZ0RnaEkybjB6ZzJLQWJFcm0xRm9FMGFmcGxJWHFudGhzcjdMUkVWR2lnVjJwNlNtNVNDYlRNdFhMcWtpQ093?oc=5",
+      "publishedAt": "2026-11-01T01:00:21+08:00"
+    },
+    {
       "title": "Is the US looting Venezuela?",
       "source": "DW.com",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWHgxVXpTYzVoN1N0aFRlRXNtMFVhSFE4eWFiQ3ZGd29EckF6Y2prY0dTX2xWMnlWc243Y204TGZ0NGI3S29ibkU5YUJmeWc4RTFSUmFlakM4T1EwSzA2U3RkOHhVbDd4ZVVBa2IybWVGR0ttSlNpV29feEZfQWh0am1sXzV3N2s2YjhrYkkwUDNDOTVGbGdZd3JUaFNuZWM?oc=5",
-      "publishedAt": "2026-11-01T02:45:00+08:00"
+      "publishedAt": "2026-11-01T00:08:56+08:00"
     },
     {
-      "title": "Chevron speeds ahead in Venezuela while Exxon urges caution with a ‘little pinch of salt’",
-      "source": "Fortune",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdlROS3laUWRGVTB1UVhLOFRQUlkxZGpEVWxXRkdhUEY4cno5TGIzalpfcWhUdFEzLTgzcGo1eFIxWFVQcTlPYWhKckVnSnJSZTg3b2UwdGpENTZkc0lla2ZNcXJhamgtdVV2OGk5Q2N4Xzh0bzlDZy1vRVd1cU5NZ2FjdGd6UGtWZjNwZ0Y4bUFnQXN1dTZaaVByLVYxQQ?oc=5",
-      "publishedAt": "2026-10-31T16:02:00+08:00"
-    },
-    {
-      "title": "Made up with millions from Venezuela: Trump downplays US's Iran war bill",
-      "source": "India Today",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObFdIWlZLLVp1TkpENmlFaUUtRlhreVppZVl3VU9tcWxnUE9zUEFUNUI5Wkt1dXV6Tk5OVzU1TmU4cXN6ekd2QkZqaUdLMGJxUWxxVUVwLWFKX3NhU05ZRGFvemMxZkRMTVZJaC1mTE9JYVZoakE3cXpCTjhPcWpsa3o4ZUVlUXd1TlBENzBhbHZHVWlKbUpsamxaSUFuQ2hDZkIwaXdkQTlROVRRZWwxdU96Ql92NUFOQnRIb2Vn0gHDAUFVX3lxTE1rWElkVW81bVZFUk92OWhpWnJJVTExV185eXdKNS1DYW10ZDIybE05SFZJVV9lY0ZyWmhydjRKdEs3WjR2ZTVNY1Q4THJkd2hPcENfQWhiQmN6SVpWQzh4ejg3SHR6Uk9jRUMzR0lTa29KV0w0QUpxeTVxSUlFNnZYY0JEVWFiNERSS1B3N2x1VnJ2Q3RfVngtOEtJTGRyRURrc28zQ0tsT0l0c3B6RkJhMFVuX2V5N2pWWWhBSGhpSjVudw?oc=5",
-      "publishedAt": "2026-10-31T08:28:20+08:00"
-    },
-    {
-      "title": "Trump touted a record Venezuela oil deal. Now reality is setting in",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdk02Q0lkand6c1VndGNPWVN4R2dDZkhXeTFRYmtXeV9vMW9LWkhLd0dKcFA1SFdPanBzRXN2QlEwalBXeV9BZlotbWRFMktJUElCVWhRaEg1bklaRjkxeHdiblNhT3h6M0NlS0tPRHptd0dQZU5ORk4yX2JpLXVSdngtLUZWUklhSmE2R2Y3NXppY3BO?oc=5",
-      "publishedAt": "2026-10-31T05:57:55+08:00"
-    },
-    {
-      "title": "Guyana Seeks Regional Support Ahead of Venezuela Border Ruling",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWVZlMXlsN2pwSVVvVTNDMEhzdTNXZGZjZ1hVaHU2X0EwWGNlTTMzNVdCLTcxUFFoVU0tdW9FRUZhcnd6NzdyWWM0QU5xR1IxTzJNQXptakRfa2xjQ2RERE01a0gwSkJvZE8zVG5OQjdSZ08waXpuZHZVRXQzSXBmQmJBUThqWWhmSUl5ZHo0bzJDU0dJRUZUYmN2YTM4V2Z5TXRRR3dvWUQwYkwtMS1CWHZRSQ?oc=5",
-      "publishedAt": "2026-10-31T05:42:34+08:00"
-    },
-    {
-      "title": "Watch: Trump takes questions on Iran War, Venezuela, midterms, more",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdi16WDZIc3BKQzdseHpBaTltWVREQk50MUZ1MHFqT0JnNlQ5dmxHbHU3Qm1QaWxFMlhHajl0aEY4QTg4REJ1emN0SWpPWl91X0ZVV1d2VVJ2TkcxNTM0enpFMzFsVG56d1JPY09BaV8zNS1MaDV3UjlmYmdUX3lQLWRzanY5RlFhQ3o2UGkxWWd1RURpeEFyZTJn?oc=5",
-      "publishedAt": "2026-10-31T03:59:00+08:00"
-    },
-    {
-      "title": "Venezuela: Rodríguez Pledges to Return Nationalized Assets to Former Owners",
-      "source": "Venezuelanalysis",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTJrblJYNjRocWUyaHZVUmk0QjZReWNsOUd4czNoTWdtMGhVUm41S3hvZlZxX0JxRE5KMlpISHQyMWJIbkNVcW5lTkg1WGZpVWZBLVhxMkpRa0JES0IxNmVxcl9rTmdFQTZZSnk0c1R2ZGlSY3lwUmN3d2QzdktVVEpvU2JfTFlMcGNMLTVRV010QXNVYUNLSk42WnNlVGltVGVGdFFBVDFBS1ZKdXc?oc=5",
-      "publishedAt": "2026-10-31T01:00:00+08:00"
-    },
-    {
-      "title": "Colombia deploys troops to Venezuela border city amid violence",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYnhLNVJSUF9xUmt3Q2VpYWtQZDhxcmJuUzZoN1FlaHd2RmN0eEVENjV4VUtEZWZZaHQyZzhMbk5Icl92dDVmcUYtUEtRSUVqLU05bXVyOWFscmsxQ1I4UHpfS0JqWFdTVnQ1ZDY0b1k4Uk9LWDNmVGZHVjJzd2RyNV9lLTNwTW1ueG5HVFU1cUluQU9JbHRlTThvOXZzUQ?oc=5",
-      "publishedAt": "2026-10-31T00:45:19+08:00"
+      "title": "Garcia and Castillo ready to make Venezuelan boxing history at Dakar 2026",
+      "source": "World Boxing",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdmRDeWM5OGxwVkNpeFRmVklhQzhUTmN2R0NVY0IxSi1QdTVIQ3dVR2hiQl85MEl6N0tGc29xZUstaUxSZUlJMS0xVVVqaFNhZ0pZd0xsSFVSSGdzTXFpT3I2dTVPakxQSWVJSV8yMWdTc240MTJVUW9QMkJJcXBXX2xYTQ?oc=5",
+      "publishedAt": "2026-10-31T20:20:44+08:00"
     }
   ]
 }

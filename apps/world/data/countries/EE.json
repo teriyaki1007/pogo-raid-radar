@@ -1,15 +1,11 @@
 {
   "iso2": "EE",
   "name": "Estonia",
-  "updatedAt": "2026-11-01T05:08:25+08:00",
+  "updatedAt": "2026-11-01T11:04:33+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Tallinn"
-    },
-    {
-      "label": "Population",
-      "value": "1,366,475 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -29,6 +25,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Estonia is planning a line of bunkers to stop Russian invasion",
+      "source": "Technology Org",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHQ5b1ZJSVVuU2dMOG1LcUszWFhHYm44amJWckdicURUSVRkcWxlNVdjV0JOenh1YmF2OHNvS0syMno2d0VrY29wS3hFQ09mX1M1ZnkydXg4WlVhSC1sLXJfTWUtQnRPTTRRd1lhQWQtNDNtdXNuOFA5dDdNS0JvWmdBSXR0UjhUUEk5eFZDT0tiazR4VzRLYjRwcEdFa0xfMUgw?oc=5",
+      "publishedAt": "2026-11-01T07:05:00+08:00"
+    },
     {
       "title": "Estonian interior minister says border guards’ powers could be expanded — ERR News",
       "source": "UA.NEWS",
@@ -70,12 +72,6 @@
       "source": "REFORM.news",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS0I1NHY0cHZPanJvVVUxelN3cEU2anJHQmdUbVFUMlU0bEtPY0xVejQzc1JYMW15bkV5bTNfaGxxVVhfWnBEU1ZJOXV6eDlHUDVpNHdxTERuY3FpRGpqTEhZb3NydWpRM1U1WVdaTkVOS0FCUEYxSGpLaUk0anFHWFpCQUFvREpRcHVzZnpXLTTSAZYBQVVfeXFMUDFlWDl6YjQydzRQRlBFS2VDMk1jWkFvTmlSRHdxTUdKazhUeWNtSmpYSXl2UEUxTEs2MUg4UjVkSXNlQmp4QWhlY2RPenJOaW82NnEteHg1cGNVUGFtaTB1a25keEhKc1NUN1RIR3BRTkhLWnR1TGc0MWIyRnpHZnd3ekVqYUs3UWJhQU51TFlXMWpSdjJR?oc=5",
       "publishedAt": "2026-10-31T01:39:38+08:00"
-    },
-    {
-      "title": "“Appeasing Dictators Brings Only Humiliation”: Estonia’s PM Rejects Softer Rhetoric Toward Russia",
-      "source": "UNITED24 Media",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeGNHSld5MmJmdEkxTHEyS1hxYzNvejhselgxNEp2YnlxWkdBU3k4bDRMNXkyNEdJWHBYZGx5LThYZm1qM3cyM2ZZNnJBeUtjTUVYN1lvMTZRYlkyVUdOcFBxdGxqU3hmeG94cEkwU3BUZWF4enE4dDYzc3RWb1ZvNlFKZ3VwYUNPQmFPTjVxUHNKTllaUEdMOGxTcDhvTHo3UDN1U0N4Nno3Z2FrWWlFN09yT0tBb21vOXVVUDBvYV9QM1ZWOXJHbHAwdw?oc=5",
-      "publishedAt": "2026-10-31T00:22:21+08:00"
     }
   ]
 }

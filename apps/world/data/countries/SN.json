@@ -1,15 +1,11 @@
 {
   "iso2": "SN",
   "name": "Senegal",
-  "updatedAt": "2026-11-01T05:08:25+08:00",
+  "updatedAt": "2026-11-01T11:04:33+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Dakar"
-    },
-    {
-      "label": "Population",
-      "value": "18,931,966 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,10 +26,28 @@
   ],
   "headlines": [
     {
+      "title": "Youth Olympics open in Senegal marking the first Olympic event in Africa",
+      "source": "Marietta Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRzZfQ0cxbU44T2J4OU5wODh4QlZ3TG95WjdpTUZwOUlRdV9qSXBzaEVjTWFva3dqaUt6THdDR1lrTTNacXNtWTZXaUlBanNGOEFNZk0tbjAzUWNBeFlTWmF2eTJnZVBZclhFVzVjc25ORkVlSEYzYldWRExHcElPcWNERlN4RGtoWVpuZmxBaHZURzd6SlJkdk9hSC16SFhDRUR1QU5nYUsyOE1jbm5hRUMyVDhwRlJxS2pFNzBRenE1Z245N0UtUDRHLVZXSWx5X3dGb1JLZnEtNlRPUXRKOVhhb0dsc0dGWGJtclhOZTZVdXZnc1Bv?oc=5",
+      "publishedAt": "2026-11-01T09:50:33+08:00"
+    },
+    {
       "title": "Youth Olympics open in Senegal as the first Olympic event in Africa",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS3JPejJqUGxpMHhlT25KMGMwLU1OX1lGM3E5TkFza1JINlhMRDVoay1vaF9pVmgzaWlxOTdfd2YwQ3RFZnpEWHpwMHRNR0ZZZzhheThmTTB6OHB2ZnNrMDA4LTJEMVBBbTRVWnA1WWFJclNUU3V3VWFTUTN0R0VtY1AzX3dJdmJCWFZBSXU4TWVkOUE1cXMtaW1wd2txcU5aaDlXQjJqd3V3T0lxR3k4UGxrblAxQ2N6WVktYkJhc3hpYmxXTFVZ?oc=5",
-      "publishedAt": "2026-11-01T04:53:56+08:00"
+      "source": "Jackson Progress-Argus",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPOXg3WWJxNU9yRnp4NUUzUmI4anRERkZZQjVZSnJWaFpNMmxfMjdDWmVSOVd4Q3l2Nnc0a3dxXzhNS3VKb3hiNk5TUnJwUTVLNktlbnFUeEQ0ek03TW1URFpDOXVEWVk4VllYMmRJQVBsSXFldDBMSWRheXRwSlBMU1hVQzBLekFCQTRramF6X3l1YzI4ZVF0Nm4xTG02dDhEX3VYSG5wZUZrODVXYkRycVdYTjg0Vl85bFF2OXpqbnVNdzRyV1dzd1p1NS1Ba0YweWhrcEt2U0VoNHJUVUMzWUFvemRfZWJQa1prQTdtZVNZY056OUhLdlRCb1c0TXlt?oc=5",
+      "publishedAt": "2026-11-01T09:25:27+08:00"
+    },
+    {
+      "title": "4th Youth Olympic Games opens in Dakar, Senegal",
+      "source": "China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DdS1tZm1qRkpVaHozengzbEpVRVdKRFhjODgxU3hZT1BrQVJsa3JteS1ScG5BNkEzNVhiQjlGRGNYM01fdmlTUEZuZmttNEN2R2pDT2I1dXNKQlk4QnJ1TzhIdG53WHNGMXpfNWJ4Q1hMTzE5MzFIYndHalp6QQ?oc=5",
+      "publishedAt": "2026-11-01T07:02:17+08:00"
+    },
+    {
+      "title": "Six Baseball5 flagbearers take centre stage at Dakar 2026 Opening Ceremony as Senegal welcomes the world",
+      "source": "World Baseball Softball Confederation (WBSC)",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeHBLX3hITUp1TVFzWG9OUDVvX0MtRElFQWc3OHRVZ1EyZzlkOFI1QnRWeEd3aUxRUXFEOWYzVlU2bEFVblRzMDBvQVRvNkJRcXlwel9DaUtFbEkwVTkweWN1aGtueTl0S2FjbzVTNlFkY1owY08zS2tfdXVWdG1TZTE4Z2FQcTM4ajVkenJvYjliaElEbFJBbGxKQUc5SFoxNk1ERXZxXzIyb3c4N1pRYUR2ckRCMHBfREtIV2pOLTJlbnlFWTlscmRWSG1jdw?oc=5",
+      "publishedAt": "2026-11-01T05:31:55+08:00"
     },
     {
       "title": "Summit High rugby player named to Team USA, slated to compete in Senegal",
@@ -58,24 +72,6 @@
       "source": "France 24",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdzJFdGlta0x1ckFGZ0ZCV1FGS296VmpSWnlJSjdUajdXaTcwSDJaaDdrY2ZxWFVCY1RtQVA1WXpYZ0lFTkN1YmY5VEVzS29BR2wtNXNIaTlCeFczbmpjbnJsa0stUnp3TG9mS0VpLUtvcVBwc19VZmxaMDRibWpfZ290aF96YXhGT3lKQ21NdFRTODFoR19lX1A1cVhPdWwwcjhRZDY3UnVLOUFLenRNelduZnRCVkhXRXFNaFh0UQ?oc=5",
       "publishedAt": "2026-11-01T03:15:21+08:00"
-    },
-    {
-      "title": "Cuba vs Senegal | Baseball5 highlights | Dakar 2026",
-      "source": "www.olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT29UZUxnVExpMDUyZ0hzY3VxRi1sUGxzbnRBUXk5MTNvUnVUcjN6ZU5iWkMzdngzWm5FWDRlM3Z0dDFzQUxJQ3UxVHpUalE4S3BrR3dOVFZ5OEdpSTJ2aTFLa3FOeWd2MmdjcjNMLVdWaV9GcmVJZXczTjQ0cExNVi1SNzBsQQ?oc=5",
-      "publishedAt": "2026-11-01T02:55:05+08:00"
-    },
-    {
-      "title": "Senegal-Cape Verde: when a passion for beach volleyball brings two nations of the ocean together",
-      "source": "Olympics",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObi01YzRRNDdWZ3BibnVIaVRNVGI0VU9qYnRFUTJUdmJZSWhEVmtuamZBSXNzdEZuMVhhNkwxUUJiNndhNFVzbHdUT0dnS3FjR3NBMkQ4d1h0cUVvV1I2c1dpeDRrT0s4XzdGUzlTUHBCdzhWYWpJdHAtQWkxMzY1WUgyMFkxTFZEMGZVeWpIYXRrMDZEeElUS25RdV92NlA1V1JScWZUd25BY1FHekFZYWFsVkpXbnRHSVlxU2NCa3VQbThsQ05N?oc=5",
-      "publishedAt": "2026-11-01T02:47:00+08:00"
-    },
-    {
-      "title": "Senegal Lawmakers Reject Budget Again, Risking IMF Deal",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdEtPMlYzc1ZSUTRiUE5IOTVocWhkQWVHZFBBTFVFNGx3Z1c2Z05XR2JnLTdMN2F1VXdUeG5YUkpfUnMwQkxnYVhIa1lsM3MxUllSQ1FfVGVDckZob3k2bmwybjdWREd0QXlJNVFaSENQcUtFRUVIMmU0MlBTcG5HUHBsdzJMcUR2ZWhaTE5yWVpqb3drcng1RWlnSzVHYzJ4RzZyRWpFNk1sVzg5b3hwWXpqRQ?oc=5",
-      "publishedAt": "2026-11-01T01:30:58+08:00"
     }
   ]
 }

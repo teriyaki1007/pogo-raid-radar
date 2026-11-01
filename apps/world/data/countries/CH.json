@@ -1,15 +1,11 @@
 {
   "iso2": "CH",
   "name": "Switzerland",
-  "updatedAt": "2026-11-01T05:08:25+08:00",
+  "updatedAt": "2026-11-01T11:04:33+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Bern"
-    },
-    {
-      "label": "Population",
-      "value": "9,092,436 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,10 +26,34 @@
   ],
   "headlines": [
     {
+      "title": "Which country has the highest debt per person? Switzerland leads, US ranks among top four",
+      "source": "Business Today",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRXJ3cTdPeWhvTnQtME1xRy1yNTQtQTIzVWNqMkR5YTVTQTlfYW0wYUdSZ3d6VFF5dkdGRjF2ZWkxYTI0OUd3ODdUZ1hpM1Z5Zi1LdUxGNGZhZDlieVNlVy1NRmRYRG5Ob05tUFJyd0RFVWoxOHB2V05La0E0dXp3enBqcjJOVks2VjBiSGt2akk1ZG1HdGt4WlJkN3JrSW80WWQ1alBYeFc2TWp3akQxWU1nd1dURTQ3SnltYzRQY2JydUo2UG9fSWQyZE9heHp0T2N0QUJYcV8xTEdLbUcyX21hTjJRck820gHuAUFVX3lxTE1wcDJlMEdCZDFoTl84TERqd0o3aEtLTlIzb0xZUkJNbW0yVUc0eGtOUWZRZDYySkxmemhkc2R0NUJVMmt5SW5EVnR1TjVZLS12Z1Y0Nk0tSXZIU2JBdXJIelNkYTRBRDNIb1ZweVIySzA3cHVrcEhfZ0pyVWZrZGtJS3lrZ2JyZmtTSklEZFVhUUFMMFFTTHBaWXg2d1JYYmhOSldUUnRIVFo4RFV6OEJ5bHhPQ3d5NDg5UnRWR3RmQXlEd24ySU9XamUzN19IQXc5RUpjTUhVUWRfdjlVRXY1eEJZZzgzMUZ1dVNDRGc?oc=5",
+      "publishedAt": "2026-11-01T10:20:05+08:00"
+    },
+    {
+      "title": "Switzerland's Jungfrau region in the shoulder season",
+      "source": "Travel Weekly",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTGZjZ3Q5TndBWlkzRWlGZG04QTJCMm8wUFFqblJHTlg2N3hQNEtJZHF2V3RHbDhEY2wwb0h3TDhyOTdWT3g2LWNKYllKWEVCbFZhOGF3R1ZnaG5vMHJZYWxqc3RDMTN6dGI0eFdkaTdzcHMwekNxam5NYTQzUm01eWtqenFDLWxUZHU2SENvRWI2V3RPYVd5bWdB?oc=5",
+      "publishedAt": "2026-11-01T08:05:04+08:00"
+    },
+    {
+      "title": "Experience two sides of Switzerland at Beau-Rivage Palace and Lausanne Palace",
+      "source": "Lifestyle.INQ",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdjVlTTJfbWZfYTlncEQ1cFBMbnE5cm9vQTJpalg2b2N3SF9Ca05zTjIweXYwSEdyNHBEUFlybjdNejdXQ25WUl9VM3BXT1FFS01YRGh0aXdTUFZBdC0yUk1JcG5BQUU5NUJRNGVEWUo1Nk9TVG1QUkVmZ2lROWpVZzB4UmdNMTZQU1HSAY8BQVVfeXFMUG45Ul9EVVZqSUI5RkVJU29TcFJYcTZseEoyNmpkY0pralpHdWgzcjJjTGZvb2pQaWVxd09UZXFrZTFHYXFYX1ZGeG5oeTZUNzFfemJtNmFNRmh0Zms0LWU1R1pfcjVGOWpQWDZJczdETlVrb1JMOE9SNHVDSGw1LU9rS21kbEI1a1NCdnozNkE?oc=5",
+      "publishedAt": "2026-11-01T05:00:00+08:00"
+    },
+    {
+      "title": "Switzerland Tennis",
+      "source": "Chronicle-Tribune",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVVdpUDNSV0VaUk9qNmFsSktuUTJ2RzJxTzNTTjE5V0VQM2cxNlNseTR6OUdpRzk1TF8tYnBpSlBjYXJEemxENS1EY2FBdWJGRkJhaFdkTzNpQURiWDhRZlZQbzBrQkFMTVFySWVOUmxwQnZXVWVmcFNvdjctSVEtSFlxMF9kdjdCNTlDZmZIRkM5NmZZaFM4SkJXVENPRTZwMFhhWllZbEpGVk5iSWVUR2dB?oc=5",
+      "publishedAt": "2026-11-01T04:52:53+08:00"
+    },
+    {
       "title": "Vacherot to meet Lehecka in the Swiss Indoors tennis final",
-      "source": "Seattle Post-Intelligencer",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWTAxenZuNGdLYzdxeTNGd3ZxMldzcG1sT2w2U1Qwa0xpZ3dfaktDWklSUVhZUUhWVHRWNk1ZY3lTQUhlbXM1d2tZaTJ3X2JfdXB2RXlWcGMxU1gyaEdiYklfdGhNUVdDNHB1VVdSS09oRk1DeTR1WEsxS19uQmhCOXM4bkg0SExwcEtkU204YllRdw?oc=5",
-      "publishedAt": "2026-11-01T03:49:21+08:00"
+      "source": "Daily Jefferson County Union",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONF9RdWF1VHo4WHBaZGR1cEswZzl0R2RseV9rcVFGUDhZU2tUbzRKakpDM2Y4TTA0NWJJa25Ya0FZS1RqVnFyTVlMejEtWTdqYXo1b1FxZXk2UVFHTTlIa3p5S25RNW9mSVB6ZlFRYjJnUkgxZkFoejlBZk5hLUh2SjhNN3B2OXpteWhiUHFqNENwdFpxaXRXVDVXcW1XeEtLYXRPZi01b19jVll2VjR3OUExZTZ2c1ktM0ZJTHkxYkRFd0VYTGlpRDEtSVZtTFFfVG1SSm1lMWhEWHRpNWp2eUstS3BFZw?oc=5",
+      "publishedAt": "2026-11-01T03:44:21+08:00"
     },
     {
       "title": "China-Switzerland FTA upgrade opens new chapter in bilateral trade: minister",
@@ -48,34 +68,10 @@
       "publishedAt": "2026-11-01T01:01:42+08:00"
     },
     {
-      "title": "Switzerland Tennis",
-      "source": "Chronicle-Tribune",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOUhVVnFzU3ZoTkhwUl9RRDZxWTVtc1JYdlVYbnU0M0JUVUJ6VVoxVUh1bHhJcHp2MEVEb0FRRXRPV3lOTnNTWFlOMkViaXdDVjZyaVlTMXB1SnNxSlZFZGR6M2lENUhqRGs1eGdBNDRMcmhtM1FFTThRN21MbTJsNWFEYVRkOG94Y0JFZzlVWlE0ZXNxN3g0Z3BEQmFGZDJSQWhPV01YWlBqMldPZHpuMFVB?oc=5",
-      "publishedAt": "2026-10-31T23:02:53+08:00"
-    },
-    {
       "title": "Switzerland and China Upgrade Trade Deal as Beijing Says Swiss Firms Plan More Investment",
       "source": "Briefs Finance",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTVRRREN2LWx1U0dJNU8yc0FsZXF2NnlPNXJrZ2JBakZZM1FPbExpdmdrWFZMcTQwVUJqZUswRUI5Wjdxdm50ZDRhZTNhdGxia1Vwb0E2eEI4aEVIbHhFaE9WNGlwWmtzc0tsc0ZCSlZWU1NfMTk5bE9ITV8yaU1IQWUwSURHaG9iTXJkaHJqX3pLZw?oc=5",
       "publishedAt": "2026-10-31T23:00:00+08:00"
-    },
-    {
-      "title": "Grindelwald Switzerland Spectacular Mountain Scenery in The Jungfrau Region (4K)",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQVFvZEdNamc1ZjBJdjRFaUxMZy1qbjkwWmYwQzlnYUdZMkMyTHVzVVp5dVFxSEdLcGdPbzQ1T2YzTlh1SzRNQlJRVkJGRUxiWkVUZmdIRDRYQmhVVkhmNTJfRm9ybWh4UHVzUlZnaGxJTXBvcHJXc3NDRkNjWnhJV3R3eUZtejBzVURVV2VRNGROQXM4N2o4ZjBZaGtFNDBWdzhWdHFZU0NhQQ?oc=5",
-      "publishedAt": "2026-10-31T21:01:15+08:00"
-    },
-    {
-      "title": "Data of 40,000 Swiss students and teachers stolen",
-      "source": "SWI swissinfo.ch",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVGdIMmVPX05md2w2YXhJNzY3Wi15bWRDb3dkY21mcDZKdkVjSE41eklraHlnR2RzNGtNVFJHWklJUTA1a0ZCQ0R4MVhRVm82Ui02MVpJbE9zQk56eEFadlphNW5kTi1LYVR6SEV1b1NtakxDTWpHcGFuT1VMTnJ1aWtYTHZFTVp2blQyM3dnclpyMldSTkZQRVdORTRRWmZ4bUl3?oc=5",
-      "publishedAt": "2026-10-31T20:58:00+08:00"
-    },
-    {
-      "title": "Grindelwald Switzerland Beautiful Alpine Village Beneath The Eiger (4K)",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN1AyVUNnQUo1Wm0xcTU1WGhCZzJmV1A0WWdSU2t4cl9ZZlRwWW94VGRMNTY4NUJRQTNhWEdEaHlnZXVNY0k0NFBiRDNDVExwZVdhaVo4Zl9QWHNGazFiZnNuWlZRcVFENGVwZ2tMMEp4SDUtN3VkZGFLV0swSkk5UXlqYTBvNHJhQU9DZEFjX1RIYXhaS0tHdkdRRUo4NU1DNWFIbA?oc=5",
-      "publishedAt": "2026-10-31T20:01:19+08:00"
     }
   ]
 }

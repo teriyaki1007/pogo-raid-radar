@@ -1,15 +1,11 @@
 {
   "iso2": "KE",
   "name": "Kenya",
-  "updatedAt": "2026-11-01T05:08:25+08:00",
+  "updatedAt": "2026-11-01T11:04:33+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Nairobi"
-    },
-    {
-      "label": "Population",
-      "value": "57,532,493 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,40 +26,34 @@
   ],
   "headlines": [
     {
-      "title": "Nearly 50,000 Flee Ethiopia’s Moyale Clashes into Kenya as Border Trade Grinds to a Halt",
-      "source": "Hiiraan Online",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNT1poWmlSNVNDWHEzZ0IwN0hhenhLRUxTQTNvV2NOTElBd1g0bkxCTGlqXzR5dVRjOHFqWV96S1lrMEN2aHJRU0FYUjg0enRySkN2aVJzSUVIMXVuUEFKQTVHdjE1Y3F6X3VsRlAydXhXNnNiSzJEV0l2UlBldEthQVNVOXZpdno3RUFJZ09zZlBVR3pSelBBdG9tWUViemNEOUtZZjF3ZVZWbU44RGpoZEdCTmRpblc2b0V3djROV0pUajh6bDY2eXJBSk5WeVZUc0Z3?oc=5",
-      "publishedAt": "2026-11-01T05:00:44+08:00"
-    },
-    {
-      "title": "New projects Kenya is implementing to increase water-storage capacity, reduce flooding",
+      "title": "Village visits, roadside rallies and now TikTok: Kenya’s 2027 politics of ‘last mile’",
       "source": "Daily Nation",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRTUyM1ZaREFibjhIT2MyZDZkbFVVMDd5VWtzZ1pTS0FSdjZwRU1vVHJidlFPVkpfd2Y4YWdqbkx2RzBNUXRORFllLTZHcXltVmdHMTFCMUhxblVlTWNpb1ZmTC1TeFdGaWowQXBNZGc4a1dibzQ1R0R3Y1N4dEdqSjI4Sm9BLUZwSDh4ZjJ0R05uNzdXM0Z4Qm9UVXFkTEZFN180Q2JRcGU?oc=5",
-      "publishedAt": "2026-11-01T03:48:25+08:00"
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd19aa1J5ZjZpZXZ6NzRSQ2dvS0dRaGxMVGswY0N5T05NWTEzOHVqbmNJUGFucjY1SmFUdEFNV3BSbHk4NXhDTTdlUmcyMkQzNWtMRmZ3bHNtS0xZZTFEVWpzQlVxMy1QU1NrU0d4d0M3SnhicnE3MkY1YUhPU3U5cW9sOTJ4emxGSEVSc2dMRmlROENPbEtsbVBFMVRIVVU1UDZqeDlWUlhDUXBLUG5Gb2VUQjN5ZUI3dllabDNFYVh0VDBiVjdEVFB4Q3Q?oc=5",
+      "publishedAt": "2026-11-01T11:00:00+08:00"
     },
     {
-      "title": "In Kenya, brother of CDF committee member suspected of murdering sister — Nation Kenya",
+      "title": "December elections in South Sudan may face difficulties — Nation Kenya",
       "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOM0xlZHA0VjVIcXlfRXNmV0xrQ3RWbXIzWmY4bzNRc3ZGaG5xN3dqMHVUYmJqSXZhOUd3alNNSVphWlgweXI1aVJPQWI2d3lsSTN3UzVldEhEc2Z2NnB3cFFQVThnT1g0MTQ4NXRHcEhWYkxHLXp6ckIzaVNydDNTUzYzdWNjcjRwNkwzVDEtbDgyclZQQUpuanpxWnQzbXpUNjl3MlpuUDRwNXJudV8xWlIxcw?oc=5",
-      "publishedAt": "2026-11-01T03:39:48+08:00"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTFhai1ZUXUzN2stVVNZX0Q4ZXhQUV8xc2Rpb1lMdDZPeTA4c196c21mazcyNXZkdWhZbER1LWtSNC03TklPVmE3X0VwanlkMGNRV0NuVmFwQ3puWF9fMWtuaU81YjdkMFIwTlV0TklaNzM0Wmg0ZHM4cV9oeXp2UHktM0JtMGhoNERmOE1sM05wTTJGMVh1MUdTbnk5Nng3dmRCZm5BZHBzNm5ONkNvVmxUdmQxWVU?oc=5",
+      "publishedAt": "2026-11-01T09:33:32+08:00"
+    },
+    {
+      "title": "Linda Mwananchi Movement plans to open offices in all 47 Kenyan counties — Nation Kenya",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLS1fWFE1ZmFMeTBySHJSTkF2X2QyTkNJSWdEbVlGYWR1OVVhUzNTcW1KbWlYa3FRcnJtVS12Wk5vVXprMW9uZnV6Q3lNMEhJS2tOallHMGNlMEFOclRQTHgwSVNBSlZpNTVPRUROWlRaLWtkbkxlblZ0QkN6WGhiYW42dWNyUm4tODc2NHdBYzZaRFUxT0RBS0Z2SlpmZ3RETnpVVDBOWkhwMWEzU2ZmdmpnSUliV3c?oc=5",
+      "publishedAt": "2026-11-01T09:29:31+08:00"
+    },
+    {
+      "title": "Ebola: Saudi Arabia suspends travel to Kenya, halts visa issuance",
+      "source": "Premium Times Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmF3OHQ3Q0RablMwenduWW55VUZIUjZIVUQ5bE45RF9wT3puWFBDOEx5UHlXaThPWE81Z3BfTVJadGdDSm04a2RwLU1BTEZKWVpnWWFsVzdac2xHNUx3aEVEamo5ZjBtdEtGbmVldklKYVZVSG5xZUpHcjZhLU1hRGxsUDFUNk1kbkJUZjIxVkM1QmlidXV6MDh4WlA3Z3FXWGU1YkM0cHhKU1VsQ3VKUW5PTmFXQ1JfVlY2TDFrSEZ6NlU?oc=5",
+      "publishedAt": "2026-11-01T06:13:56+08:00"
     },
     {
       "title": "Daily_Brief: #Kenya ranks seventh in Africa’s industrial coverage, ahead of #Ethiopia, #Tanzania",
       "source": "Addis Standard",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iNWxJQk1XVXRpU0hFN05EcTEwTTc3LU15ZDRWaktJQWpmS0pKc0V0TWQ3eEl2Z05hVGxVeUNFVTlSV1M5RDdQd0JaWjdIbHJkZlE?oc=5",
-      "publishedAt": "2026-11-01T02:37:12+08:00"
-    },
-    {
-      "title": "Kenya Power announces outage in parts of Nairobi, Kiambu, six other counties on Sunday",
-      "source": "Citizen Digital",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb0NteklWWk41QkZCX2RoRGF1TUJxak1KWDN0dUI0Rm1yY2ZLLWFSbnlZSjVfT3BjWTA0eWNuLVd5MFNlVzVOQUpCaU5oNEVtcFRyX3BwU0Q3cFVlUVFYcldnN05BV2ZBWjA5VkdLQ3o5Ujdtc2ZMV2tVS0FWNkRHQll4WG44S0FHWEhHa2x1bmNONmFQbjRoQmtBLVNoT1cyVExBck1rZFFsNTE1UXRMTmt6b0REcGp1TkVyMGxYUlR4UQ?oc=5",
-      "publishedAt": "2026-11-01T02:23:15+08:00"
-    },
-    {
-      "title": "Ruto shares progress of Bomas of Kenya as new building takes shape",
-      "source": "People Daily",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPamhoRXJIZjVoZWtRR3hkYlZLZ1VQQkpmU1dDWDhzVm82YnBndW5kOUYtZHZsTTlYdHo1ODRNWmZhb1F5OXAxR3phN3NfdVRWNTRHT3YzZmk4MG5xZG95X3lGLXlrYWNGR05zMDBfajc1VDhDbnF6RUt1aUVnUTNsZVptMmU3Y0tYZklLTW9LVDh6VEt1SV9VVGpmTFpTbGdt?oc=5",
-      "publishedAt": "2026-11-01T02:16:51+08:00"
+      "publishedAt": "2026-11-01T02:37:55+08:00"
     },
     {
       "title": "Daily_Brief: #Kenya says #Putin agrees to halt recruitment of its nationals into #Russian military",
@@ -76,6 +66,12 @@
       "source": "Capital FM Africa",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkZFRTViQ0l2R1BTUFI0eVpWXzdkWGhQRExLSTJhVm9Kb19aZnFqS1F1UVV1M0dNYkkwZmNfNVJjblFhd0Z0RmlnQ095cjdXTThDMzR2YlpDWTljenlGUlo4OGNxQ2JSa1hFNEstMDMyTGxtUC0yUzBXSzhhQjBCTUlSYmZRTl9ZRTlmTA?oc=5",
       "publishedAt": "2026-11-01T01:41:31+08:00"
+    },
+    {
+      "title": "Baseball5 at Dakar 2026 Youth Olympic Games - Day 2: Kenya stay unbeaten as Cuba and Chinese Taipei set up Group A showdown",
+      "source": "World Baseball Softball Confederation (WBSC)",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0NJYkNVWnNsUGdleUdQeU5uTHloaHdGVE0yemU1SHY0NFhkTXNkc0hBcHBzTWU0WUNKMm9XUVNmUnZzSWtIZ0RIeXJMM0dEeFR2Skl2aGZxLU0zdDZYT2xJYjBxUThFZ2xvTkVVcFdVZDNfMk4zVHE3dnNQaHR1VnlJWHQ?oc=5",
+      "publishedAt": "2026-11-01T00:01:48+08:00"
     }
   ]
 }
