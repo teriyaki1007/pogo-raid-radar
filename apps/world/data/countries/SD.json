@@ -1,7 +1,7 @@
 {
   "iso2": "SD",
   "name": "Sudan",
-  "updatedAt": "2026-11-01T11:04:33+08:00",
+  "updatedAt": "2026-11-01T17:05:26+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,6 +26,36 @@
   ],
   "headlines": [
     {
+      "title": "Egypt condemns escalating drone attacks in Sudan, calls for civilian protection - Foreign Affairs - Egypt",
+      "source": "Ahram Online",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZnF0SVk4RXZURVJsb3doUElhRGxzZ05XS1JDTmFWZlFRcVRPVFZESVJ5azlFWEpqZl94VVFPaXRCYTIyUHlISUNiNllaNDNjcFRROVZSb1JGN25ibm1WUW5sQ09tN01EbDZzd21BUDE3UHFoV1FGaWNNcUFNa3pHNU4zelk4bkVIODRmTXhDTnhfSkY0UVdCem5QemNNSHdXaklyRmJhNk56RVdQOGRreFpn?oc=5",
+      "publishedAt": "2026-11-01T15:39:26+08:00"
+    },
+    {
+      "title": "Drone strike hits power station in northern Sudan, sparks fire",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdkVlakN3UEs4aHoyOW9ka0tmbnV5T0RhN2twRExZV3FraHVnUTZNdEFFOFRIQW5rM1dQcG8wQTJtMTdfNUR3aW5xanFaeGxzWTlZVWFRQXNoTFV5Uk9XZFZadHY5MnlGci12b2x4NjJ6WF9Qck5XRjJwX3dJOEJMY2IzMW1TVGdEZXVKOW1KNlMyRVhMVm1obTZNbkxkdw?oc=5",
+      "publishedAt": "2026-11-01T14:54:37+08:00"
+    },
+    {
+      "title": "UN Secretary-General Guterres condemns escalation of drone attacks in Sudan — Asharq Al-Awsat",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWhueEhVMlJMQVZzM3lWeVZqaXdSclF6bWVTM3d4QUl3Szl6VjFyRkdCbllEM21wRzQ1cWpxZzFGVUY0OFg1MjMzeENBMlJCaGtrUEYwUER6Sjd5VEtfNGU1b1hYVC1OdFY4T3AzdHFBU3NpSHcyek5XcmY4dGNRcENOdUdkdF9vb1p3eVkzYUZkRmh4ekxyZXVhNjVBc3FLNUgxZFkzNXBsNkRVYi1j?oc=5",
+      "publishedAt": "2026-11-01T14:49:26+08:00"
+    },
+    {
+      "title": "Guterres Condemns Escalation of Drone Attacks in Sudan",
+      "source": "ASHARQ AL-AWSAT English",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWnpGSEJkNWdVU3FaUUVMUkM4aU9xT1huS3BiZEhaZUo3eGVsSjdfWU94REZheDF5SDkzcHBOckU4dDNoY0ZPdm5YX2JENV8tU1NGcm1tRTRFZ2hRT3llTlJzT1Y0U2plb1U4Q1dlOWpsYTVfeUVrOUN4V3hOakk0SUJ1ZXJZMkFSV0xpNVNnV1JfZnF5bkY2dFNR?oc=5",
+      "publishedAt": "2026-11-01T14:29:28+08:00"
+    },
+    {
+      "title": "Miliband refuses to investigate Man City owner over Sudan atrocities",
+      "source": "The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTEZRa0Z2Nk4xVmQzLXlTNTdPS1JkWldDWFJmcnNMb0tPNmx0S3BFT294Y1lpcy1SOE1ORE1UVEdFTTNBbkNmTENQdFZQbkFSUmtZZnhjQmc2aEY5OXYyOEFWZnJHNUxWdTZzLUw2VTdvbnVzZ0QtTXhVU2JmVlUxTjVxaWtZSDRnLWdINE5YWUhnSjZtM2hKR2pnM2dtZU5Id1hOMFRtamdldw?oc=5",
+      "publishedAt": "2026-11-01T14:00:00+08:00"
+    },
+    {
       "title": "December elections in South Sudan may face difficulties — Nation Kenya",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTFhai1ZUXUzN2stVVNZX0Q4ZXhQUV8xc2Rpb1lMdDZPeTA4c196c21mazcyNXZkdWhZbER1LWtSNC03TklPVmE3X0VwanlkMGNRV0NuVmFwQ3puWF9fMWtuaU81YjdkMFIwTlV0TklaNzM0Wmg0ZHM4cV9oeXp2UHktM0JtMGhoNERmOE1sM05wTTJGMVh1MUdTbnk5Nng3dmRCZm5BZHBzNm5ONkNvVmxUdmQxWVU?oc=5",
@@ -42,36 +72,6 @@
       "source": "Sudan Tribune",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzQnVGVloyMDl5UGg2LTZZdnJvZENCSVNzOXpTUGRMc0pvOGRNbTRQVUYtQjd6SS1ST2Q2NHBFYlRUcFN0aHlFbVlpVGtidURF?oc=5",
       "publishedAt": "2026-11-01T06:14:30+08:00"
-    },
-    {
-      "title": "Egypt condemns rising drone attacks in Sudan, calls for civilian protection",
-      "source": "Egyptian Gazette",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUHZDa1N6WlV4VFpVQ0d2TU91VVJVQXd3LXJhZ185WlNYWk5YVndOLXFvaUZKN3djREFZT0psel9UcWNOdjgxR2lkZVl4bkZ5WVE5N2hhLXZoMDV5TnUwZFJaaUdyQzBRN2hWTElrTWJkdVdnb25RQmJQeGhKWUd3eXpRV2htTUh6eW1xVVNUTWN6Y3ZENFRsM2VqekxrcFR4UU00SUdpV0JROHU0UVhr?oc=5",
-      "publishedAt": "2026-11-01T04:47:30+08:00"
-    },
-    {
-      "title": "Sudan Accuses United Arab Emirates Of Complicity In Genocide At International Court Of Justice: how 6 outlets framed it",
-      "source": "NewsCord",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUmZ6M3BoZjU3QWFkV0IwV0NmZ295RUxDZ0tBS2hyeW5wZE41VHcwamNGOFluRkllcjV2MnlkZE1mTHN0R25JRXkwbDFBNnp5d1ZsZklZWThSSkRNdzNTZXBya0dmWGdqWHloTzBpOFZBRURiRm9wRjdhVVFSTDJ3MHZNTTNNRFN3LTV1VGI1Ul9kSHY1aVA3d2JuVWx3dWR5VDNFVXotRGc5SktfOHNnVndPWkF4VmdJQ215T2lkbUY3RG9CMEhadmpwWkxULUxSRmRrVEoxZk5aTlE2d3E4U201clRhZXlaR2c?oc=5",
-      "publishedAt": "2026-11-01T04:04:23+08:00"
-    },
-    {
-      "title": "UN chief ‘appalled’ by Sudan drone strikes on civilians",
-      "source": "Arab News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMzRjeTl3SFpSZlUxNjZtcVJOaVpWcThlN2RyZnd4Z0RLc1FCRmdYVlIyTEtWT2dFaVFiT1NoRUhfSlhHbGtmdHVzX2dpNHRjbW1RR3JQT2FhVG44N2F6MG1nS2owengxWGZveWtJb0dRUG9GeDA0cWJOVXNfeDdVb0JLYXFDZXNOOEdrRlRHX193SklHZ0xkU1NkdUxwLUk?oc=5",
-      "publishedAt": "2026-11-01T03:00:30+08:00"
-    },
-    {
-      "title": "Putin Offers Burhan Help in Ending Sudan War",
-      "source": "ASHARQ AL-AWSAT English",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX2g3TnZaMlBmRTROZkxBdzdRMnppTE1vcVNFQ3ZSQmNTeG01VTJxTkZaUzY2Z3NnMXV3ZkRhQWxxMXUxOTdBMWRTeFJ2MTA4RnhUd0VrVzJKOFJUaW5MdnF2NndxQ3dsRXdqNHdTelJwd2ZUdWtSUEpPeGFHaWdmQlY2bDNzT0dxa2FKVUd4YkI?oc=5",
-      "publishedAt": "2026-11-01T02:37:37+08:00"
-    },
-    {
-      "title": "UNICEF Warns of Growing Toll of Drone Attacks on Children in Sudan",
-      "source": "DNE Africa",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMk9ELU9yWklhTzV0TGxoMkxBS0RiUG84YXdjS3hRX2NkVUl4MEx5WF93TW04dXJaclQ2OC1oR1JOaFhXS3Q1dDYyQXByR0JjekJJSlQyVzZ0RGRsczZvcm9KSzBWOHlyOWFUcEFpMFhneDdFZmxla0tLbUNFLWR1c3BwTk9NWEZTMUNPc2JybU9yYkMwbUtKR2x1NHl3bVhFOUxB?oc=5",
-      "publishedAt": "2026-11-01T02:05:34+08:00"
     }
   ]
 }

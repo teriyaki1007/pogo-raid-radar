@@ -1,7 +1,7 @@
 {
   "iso2": "IS",
   "name": "Iceland",
-  "updatedAt": "2026-11-01T11:04:33+08:00",
+  "updatedAt": "2026-11-01T17:05:26+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,6 +26,24 @@
   ],
   "headlines": [
     {
+      "title": "A hempcrete cabin in Iceland is a ‘house for the soul’",
+      "source": "Wallpaper*",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXlvOHoyMHQtQktnSFpDNG1KWXQ4RWlVWDRnTkhzdVhJYnBEVjBtTElJZWVPN09rUGlYSDZpekRxZWRQc3BfTVZQRlpmdXF4emFOZ2JaaVBFWWZKbFZoQVlwbGFnZkFOdVpDRHRVUmZkNlo5cjd6TF9PWjRPY0hmaw?oc=5",
+      "publishedAt": "2026-11-01T16:00:00+08:00"
+    },
+    {
+      "title": "Iceland unveils memorial plaque for lost glacier",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ScDR1NXdrV2VrTEhid2YwMWdGREhjMHlZbzVHMUhnWFVsd3ZaYTRiX3IxVEZNMmhoVU9RdzRQOUZsSXo4aEZEdWNMRzF0b2FSREFJRWlGQVJwS21w?oc=5",
+      "publishedAt": "2026-11-01T13:48:07+08:00"
+    },
+    {
+      "title": "I Stayed Warm Walking Around Iceland in These Thermal Jeans, and I Plan to Wear Them All Winter in NYC",
+      "source": "Real Simple",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdTJEcG5qTjRvRERKTzF5UkRTYk1kM243c0Z2ckVNWmJsR1B1dHJyVEtKNWRnZW1lQmN4dnZNYVdSUzlNcExhaVU4el9STk9TRFFXbE1BM2FtanVhYXZ1R0QtR3hCb3dVeTlpRjJ0SlE5cDhoa29NMFhoOUxrYmthWElZQ2NIX1k?oc=5",
+      "publishedAt": "2026-11-01T13:30:00+08:00"
+    },
+    {
       "title": "Iceland Funds Five Mobile and Emergency-Communications Upgrades",
       "source": "Iceland Review",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWE43NWE5M011OG5iWndELS1FaEtLTE02ejBJWmpDQ1FOdXVkVHBkSDR0TVdiajUxZ1BLaktaV21XLWJUXzFVX2Q0TWZmTkV3NFF2X2RNM1lYbnI1Nlc5VEFKdk9ZYTI4UHFoaFZpRGlZTVo2cUU3WmdYeFZXVjJyLXBrbGQxeTlINHVKdkNpb0FkSFd4c1R3QnFabw?oc=5",
@@ -38,10 +56,10 @@
       "publishedAt": "2026-10-31T15:00:00+08:00"
     },
     {
-      "title": "Rifle Paper Co. Iceland Poppy Spiral Notebook",
-      "source": "khorasantimes.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZ01STlc0WGZ1cEg4djFONFhWU1BkTnZ1VU5qZTgwVWMzR3QyY1d0b3g5d2d3TEY4c1JLYVRpS1lDbTA2VEZaZjd0dkoyYXVidUx2MWRQZ2t3MVpJcElLUXVPYzUtSkkxSl9Ub0NDc2FBeFZFN3pBY0RMSmZ1SmE4ZHZOYUdvQlBtcThQd0FRZ1J4M3M?oc=5",
-      "publishedAt": "2026-10-31T02:57:21+08:00"
+      "title": "Wang Yi Holds Talks with Minister for Foreign Affairs of Iceland Þorgerður Katrín Gunnarsdóttir",
+      "source": "EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMnVsQkxrZXRiY3VybGdpZl8yc3M1a1lmQ1oydGE3WVFPbC1oTjRNYmFBQXJQRHBGY0FVZ3EyRkF2Q1NPRWtpM3FPUXB5ZWFWMFNBSXo4OW80R0dENTZwcGJmRDk4cU1mdHVuTnFhYXAtWU1VT2dUS25mSW1qOUxBLXZtdXpIbEY0RXpXTGo5SWRyUTNmNFFzSWFRUThVRWFIUXVQd0tEWFduM01yU1RaMDhxVkh0c05NdUJpaG45THNaT0h0OXZaLU9lak1TeVFsTXc?oc=5",
+      "publishedAt": "2026-10-31T08:42:00+08:00"
     },
     {
       "title": "Moody Gardens Iceland: Caribbean Winter Wonderland Takes Shape",
@@ -54,24 +72,6 @@
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTVVxM3pyRVVwX2RzT1JUdFZiQkttakgxRElPM1ZMMXFZcjh1X181ZnBJZzJoZnFWWHllZ0h4UHFFdnljdW1JN2djdGowUko1LWFTMHpFMF95NW5obEdFSWMybllxMWpXX3d0UFBuSjdCbnBQM01lZU16S1JXOENGd2Vxd3ZpcU95X2NaWVlibGJGbkRWMDZ3dTBUek1mcmZZVEtrUGliSkRvRHUteWc?oc=5",
       "publishedAt": "2026-10-30T23:14:52+08:00"
-    },
-    {
-      "title": "'Tilikum in Iceland,' by Robin Jones",
-      "source": "Santa Fe New Mexican",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPczlHRzFUUGtMRHlDUHFNMHV0M1ExNGJwbzJkOUprT3NfSHpwOVY2cm1GMV9vNlFtWU94NzdLUTN4VlEzOUthSU9OTlFaSmFFZmI2UnhZWEJsQlJweUN1RjhDZGI1cTZqdFJKdjFqeTRFNmM0ai1ia1JWWWg5dkh2dmpsS0hoZXpDWm9PVzNMeWNya0hpbTNtblkxcGpMbmRSX29sYVJmWEYtV0NZd2RKTWZaNTFaeGZrbXZuVGhlREp1RjBEQjdYMklSSHY?oc=5",
-      "publishedAt": "2026-10-30T19:00:00+08:00"
-    },
-    {
-      "title": "Boeing 777-9 undergoing tests in Iceland",
-      "source": "Iceland Monitor",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMFJaRVVYZ25NSU9SUjNZdldLM1l5UE8wRHNOOFEtV0RITURrVzhkZFhQZmhzc0dBVGk5R0RiUEdHX1RoSnZPZDQwNE9zR0FfUkNIQ2tOaTNWN2ljSk5WQXZrOHlVcGk3MFZNb3Jsa29mYmlIM3NyZE1BRkF6Q01PRjJNdm9NZ3NXeG5mSkpiLWJJWUtyWTdj?oc=5",
-      "publishedAt": "2026-10-30T18:13:00+08:00"
-    },
-    {
-      "title": "Visit Iceland Will Send a Real Knitter to Your Dumb Meeting so You Can Skip It",
-      "source": "Matador Network",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RZFVZaW1MSjRQZHI4aFUzeUYyeFZ0d2w2c25LWWdBRDdmcWpWQUExbzFYY1RkeVNXTl9qRVlmX29JeWpXUEhlVkdCb09EVWlYTFdHeHhJYXVnYW5GdGVQcG9lTjJFU2ptWHQ1YmtTbw?oc=5",
-      "publishedAt": "2026-10-30T07:27:31+08:00"
     }
   ]
 }
