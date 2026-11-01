@@ -1,7 +1,7 @@
 {
   "iso2": "SS",
   "name": "South Sudan",
-  "updatedAt": "2026-11-01T17:05:26+08:00",
+  "updatedAt": "2026-11-01T23:09:56+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,16 +26,34 @@
   ],
   "headlines": [
     {
+      "title": "South Sudan Civil Society Pushes For Peace And Development",
+      "source": "pan african visions",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb21yLURUcUFvVHd0eEpWSzhRUmNVaFZxaENqUjJzUFI4S1hlR2t5SHlBTThqTEVIWmtuTGg4eEdGUk9JTHhPeWVYMGhRUDEta0Y1b0k2OXJ5dk1BZml0NjI5ek5heUlBbFhScldMZFQ2R19xWDFNM29iY1hTYmdsNjM1cmZVR0tBUk9QX1NyODQwc0JGZ283T2tQYTNBZw?oc=5",
+      "publishedAt": "2026-11-01T23:01:57+08:00"
+    },
+    {
+      "title": "Political Parties Council Under Scrutiny Over Alleged Leadership Brokerage in South Sudan",
+      "source": "Nilepost",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSUs5VzllZzNEaXVZN3E4c2dPV2JGZ1hWSEQ1aUtneWt6ZTUwNk1hLTM5aUE1MG12T09heUtpa2xaWFNpRVE0eWtEV1Z6c2Q1QUN1ZFVUclFIVnY0d1JSd0tVVVdXcHpmOHpNM3h3eVhmbkJqRzFSdWFlTzJDd29MQ2FRWVlXd1ZjX3Q5d2dacWp3bDRkQnpBZ2doYzJQcU53U3o5Wm53bzRvOUVxSmh6YldSR3ExaE03R09tMlBUVXRrZEZiM2w40gHPAUFVX3lxTE55SWUtejg2UHp2YmNFUFA1eGxLTkt4RWZsVXVVcjBWOGtrSGJZVWR6Z2d4dEt2c0JUQ3hta2FGU3lDUVRBTzhlLTFjZzl0NXdtUGZyRHFqZmZjUFVTdGJhMG05aFJiV1BMcGsxalc2XzZYUmFjTDM4amd6R0VWcjRZdzltRFFmNlZmMktwTks4WDczVlAyYjJYLXdySWsyME1WMzN4R3l4NzNsNW1ibEcxcEVjUE9CT3BDWktrTTBwQmwybTlVaGsyMWprczgtQQ?oc=5",
+      "publishedAt": "2026-11-01T21:23:12+08:00"
+    },
+    {
+      "title": "Op-Ed| From liberation to state capture: What South Sudan can learn from South Africa’s Madlanga Commission",
+      "source": "Radio Tamazuj",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZVpzZ3BHd1cxeFpOSU51bFVxNFU2MWFmQ2tSMzRNdWdnTnVCY2g2SThsSndSZ3JkVG1rbk12SFBzb2V2di1ycE9kOHZNOF8xdjk3SWJ2VVVKamZJYlhxaVdvV2lYVWFDUTM0WERGdDVTYTdNWWR1QjVWT3dEVmxMVjlMNnVOclRuNDdYeFdSNlJuQ1VVd1NmY0ZKVVRYZE1KVHBlbkEwQl9wQ005ZEJqV1Z4WXdIQTkwY3JxakNZTHlyTWtwbU83QW5rWFY4bE83UmtZOW05Rk9kQmZMY2ZDWkZwYw?oc=5",
+      "publishedAt": "2026-11-01T17:43:02+08:00"
+    },
+    {
+      "title": "Opinion| The untying of the Gordian knot: Why relieving South Sudan’s bloated executive was a necessary act of statecraft",
+      "source": "Radio Tamazuj",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdFNLLU96bXRLQ00taXcxUDUxSXdrQ19RZ2ZaVm9weEs4R3U3M3d0RWpvcUxqY0w1alprVkttVUhDRWZseGdZckthckJrQmpUNkllVExmQThnN3kweDZRbGdTZ19YQ2I1bVA3VWR6cGZjbzJ5aTdoM1ZnU0Zwb1VuZDlfaE1kWDNhNUNMN1lnOXZJSkhCaVA2UnJwNVM3RWdyQjNTb2cycVJrS0RvWjRxek81ZklxZGRfYkQ0RF8xZ0x2QnRMcndrenVHc2VVaUNoNW9nTW8wZ2lQaU55YVA5aURBU2tacF9LOFNUSjNkY1BpYnVuRmc?oc=5",
+      "publishedAt": "2026-11-01T17:43:01+08:00"
+    },
+    {
       "title": "December elections in South Sudan may face difficulties — Nation Kenya",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTFhai1ZUXUzN2stVVNZX0Q4ZXhQUV8xc2Rpb1lMdDZPeTA4c196c21mazcyNXZkdWhZbER1LWtSNC03TklPVmE3X0VwanlkMGNRV0NuVmFwQ3puWF9fMWtuaU81YjdkMFIwTlV0TklaNzM0Wmg0ZHM4cV9oeXp2UHktM0JtMGhoNERmOE1sM05wTTJGMVh1MUdTbnk5Nng3dmRCZm5BZHBzNm5ONkNvVmxUdmQxWVU?oc=5",
       "publishedAt": "2026-11-01T09:33:32+08:00"
-    },
-    {
-      "title": "SSPDF reunites two abducted children with parents in Juba",
-      "source": "Radio Tamazuj",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVzgwbWN6cnlPdmN5TFQxMlBOeXhyUTZaSFp5UHBkLV8xdjRxZEpUWW52dWJyZE5OU21xWnpiWFJ6VXpnM1dCanZTdUY5bkk0T2F0b1JMZTdMcHBpMEJMc0Z4NUo5angtS3dNV04tdTlMejdkWmExbjlrcmZxZ3VMU2VtQlJUN1BKZXJjY0xQSnYwd2xDN2t5cmVmZEFnamxCc0NsQw?oc=5",
-      "publishedAt": "2026-10-31T23:37:15+08:00"
     },
     {
       "title": "Kiir returns to Juba after Russia-Africa summit",
@@ -54,24 +72,6 @@
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY3hWWEhnSEQwRnBnalFCVHpyRzk3QlhMNzUtWlVDZmY2M2M0VDlSSnFvNW5hb253aXNkT2hEM0xET19QeWU5SkV6cmxSc19uNFQxcFc5TV8tNVBET1c3bkFlRktqNUQ3VWZMVTA0VHlsSzkzOC16czQ1RXdxYnp6U2NQNlcwYUpF?oc=5",
       "publishedAt": "2026-10-31T13:36:29+08:00"
-    },
-    {
-      "title": "Stray Bullet Kills Woman as South Sudan Rebel Clashes Spill Towards Uganda",
-      "source": "Uganda Radionetwork",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3VmS1doLVpDWU5SUDlBY3VCbWdZUzZYUWtlZmM1MHUyYU8zWHpZYmFzXzZlVEphN0JyRTZrZjZnU0RROTBZMVpxSzNfdFBXYXdLaUo3TVd1YWstVGlQdXhEYTlNTGJoWExzb1pJaHJWQWJKMENGbU94ZzUtbjhJQnhPSVAtY0dhdnpsaklYcE1qTkhrZXVjdHhNQWlsMDJnYkpGcXJ6RVpOSkFtclNFLQ?oc=5",
-      "publishedAt": "2026-10-31T11:49:03+08:00"
-    },
-    {
-      "title": "Putin raises Russian scholarship quota for South Sudanese students to 40",
-      "source": "Radio Tamazuj",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlhkNUJhQ1ZxVlQxa1NLMXZBSXBVODRZalp0MkpYNE5TWWRRa2laZkZHdTlabE0yanlzQjdhRGhxVFlLQkRJaGhxaDB3bndkbUthRXU0R0UxT0dsR3Nhc3dZMnM1ZlROOS1SQWkwMlFzcy10VkF5bHJab1V2Q2RrY0pkVUNxcFVRQnhpLS03WXpMODhLUUNwRmtOSF93SkUtMzNuRGw0a1RTR2Raelh5Q2YzdFhaS2Y2?oc=5",
-      "publishedAt": "2026-10-31T04:05:01+08:00"
-    },
-    {
-      "title": "Meeting with President of South Sudan Salva Kiir",
-      "source": "Президент России",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWbFEwVGY4TkpGSzZ1RVZXZk5POTZQU2lZS2dXZ0V4LTRpbFNIMG9jSWVlSnNtamZBcWp4ZGZxdEM0RW5qQ2xReC1mQlZGc2VPT3hlTmJ4dnAxQTZz?oc=5",
-      "publishedAt": "2026-10-31T03:15:12+08:00"
     }
   ]
 }

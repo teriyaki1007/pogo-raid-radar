@@ -1,7 +1,7 @@
 {
   "iso2": "AM",
   "name": "Armenia",
-  "updatedAt": "2026-11-01T17:05:26+08:00",
+  "updatedAt": "2026-11-01T23:09:56+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,6 +26,36 @@
   ],
   "headlines": [
     {
+      "title": "COP17 in Armenia gives biodiversity targets a new roadmap but leaves funding questions",
+      "source": "IntelliNews",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY3lfVG5UY2IxVWIxaGd6VlNSS3FkeGN4bThCaE02azFab1dpVjRweWJZYjVJaHpxZUpXR0t3emF0ZmdPaDNjbVA3djhybjI3aG9EcmlCMnB6cV83cENTVG9qb3V5ZHNKMlpGOWpiMUtxZmhNZTFadkNkc3VKbmx4bnBvUUtscTlXQ1dNeUhaVTgtTHNCNjYtamQ1ZDhFM1pKTVp1X2RDYnpJOTFXOVhseWRKaVZYa3JHMWxZZ3ZPSWNKeWMzU0FBa1JHam5qQVpNME84?oc=5",
+      "publishedAt": "2026-11-01T22:42:30+08:00"
+    },
+    {
+      "title": "A Unified Real Estate Database with Owner Accounts is Planned to Be Created in Armenia",
+      "source": "ARKA-Telecom",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUGNhVk15TlhwVGVnSFBGVEhEY3RxWGtMenRsR2x4WExwZU1MY1Z6TURLSVI0bDNQbEpVSlpqV05HMkstRmJMRTgtZXRlTzRtb2pvLWlUSENWbi1kX0pNam5qeFNldkI1ajRZMlloVUF3bmd2bFZTTm4wbDZCX3lobHVvdHE4MTJpSmF2TmRnWU1xc1BReXo5TlpJdGFWNUpKSnBqTlJ2eHhMcGFEQ3FHWjFIME5yenJlOHpibE1iZ3dMRkFu?oc=5",
+      "publishedAt": "2026-11-01T21:16:18+08:00"
+    },
+    {
+      "title": "Armenia discussed cooperation opportunities with Brazilian aircraft manufacturer Embraer",
+      "source": "Arka.am",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWtDdDVMREpQNmM0VlVVc29pMk4zYWE2aFJLQkRiUXVMOEp4RjR3NFVJRVFud3B0cmMtSHFxeC1WZXZSMGJIZkdRZTBmOUJzTnFwYnN6bndnMThyaS11alNsNVNURlFEcTdKVGZId2JtN1Z4WFpQX2lWUjFfZTloOFVGUXhLMmk0RDYtUFBmSkt4X0oyOHFWdjBlNWhNbU5xZGNobjFMSndWRGcycjdqZjgxb3d4SVRiR3dLWUxR?oc=5",
+      "publishedAt": "2026-11-01T21:03:00+08:00"
+    },
+    {
+      "title": "HAYPASS Data Processing Center Opens in Armenia: Infrastructure to Be Evaluated by European Experts",
+      "source": "Arka.am",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU2ZtSEFFX204NXprRXd0eW5XaGc1Vk9PdXBsSlhxVC1FV1c4Z3NqWTI4cmtfRUVVMDcwaHBKbkE5VXcwdThtaktENkhYN240SnRkVTBwd1R6b2s1Q2IyYkdyd0lsMnBDd3N6bDFWUlRfSzlrbWMzVXBRanNSVDFkN29BWjVuTFlhSnRmZ0dUMEJkaW8yeVBNSnEtR0tGU2JxcHFwZGZtMGpNUlFvX1ZJOHNkNGJmRFo4WE1rXzdVRDFuM1NveDFoSzN5dw?oc=5",
+      "publishedAt": "2026-11-01T20:59:00+08:00"
+    },
+    {
+      "title": "Ecocide on the Frontier: How Border Militarization is Destroying Armenia's Shikahogh Reserve",
+      "source": "Hetq.am",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5jZ3QySkVkOXJ0Q3VGQnVVRzktM3NiVzBXcGlaSzNKaW9VWDgxdkpfbkJJOWh2UFJEWU5ROXRFaFptR3QwRHlCYg?oc=5",
+      "publishedAt": "2026-11-01T18:54:00+08:00"
+    },
+    {
       "title": "Final update from Armenia",
       "source": "The Climate Watch",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQb0dEZE1JSENEOXoyVVdVMG0zWnA4b3d5bWNDbDBZbHhybXduR00zaU41OHpkYUFzaS11NDhfRklkY1IxMWJJazBiaDR0RnlRcWJ3MlNWOXZlTldpZ21oaGQwcDE?oc=5",
@@ -42,36 +72,6 @@
       "source": "The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNi1vVmlzSkp4ak5wMHN6VEJRV3d2bnkxMHk4NmVXZGJEY2NuUG91SUdoazVaZnhFMlV3SDNBbUpCUkJoTF9fR2hROUJibUtqRV9tNHNTalB6N2hMLUQyNjJ4Umo1RDl1R0RJd2tQdHh1U25oaTBJYzdlQlVybi1wTXVVWC1xQl9TaUViVW9R?oc=5",
       "publishedAt": "2026-11-01T01:40:19+08:00"
-    },
-    {
-      "title": "UNEP Executive Director statement on the closing of COP17 in Yerevan, Armenia.",
-      "source": "UNEP - UN Environment Programme",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2FNVFlmekFFVEZIdXdtT0oyUDZ0cUNRNjhFdEdOUlVCeHRqNXp5RFp4VWp6TjhmZUkxNUVvNEJmaWx5cjN6UUFKVFFOTG9uUDFzNzlSRkpMOGhoVmJRZnFhWTJkZGJXa0NVeUhjcWNZcjU0eVRsN0JnMFM5Y0pMbTRFS1JERXNLSk4tQ0ktQ25pOWx4a3VESXJ3M0ozeWVZVWVlWWI4MUVnamR5VTFxUA?oc=5",
-      "publishedAt": "2026-11-01T00:32:33+08:00"
-    },
-    {
-      "title": "Armenia officially launches new biometric system as HayPass opens first service centre",
-      "source": "Armenpress",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHRXNfaU5KNmFLT0RrT25GWGJQQmNHcENIZGdDQWdEa211R1NvaVUxa1M3M3ZIcEhLUWVORWdtMGFaY1BVLVFRdFhHUmhQUUlNdlHSAVdBVV95cUxQSzFOS2tsY1dxeHZEaU9odXJfcGJYTXFBZnllOURCNEpwdkhIVVlwV0dDcUdRaUNQb1ptcUJKTERfVXYyWldmTHg4X25fWUVVN1B3RmQ5aVk?oc=5",
-      "publishedAt": "2026-10-31T22:08:00+08:00"
-    },
-    {
-      "title": "Mirzoyan and Raggi discuss developing Armenia–Lebanon partnership based on mutual trust",
-      "source": "Armenpress",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sUzFucFdaUkp0a1ZoOTNfRUozaVlkNlppUTczc053MzBfa0M2VmdhU0pFRUZ2eUlXblo3Z3lmRm0tVmVtZk11dm85N0xjcWlRRXfSAVdBVV95cUxPWkR5aERaRWpvbkt0M2pGTGo4eFEyWjdrcjFZSlROemQyWV9tMllhOWRKcHhWTXBIWmRsVjVNQkVPb0RBbW9uNU1Md3QxdngtWmJrbFJSN0U?oc=5",
-      "publishedAt": "2026-10-31T21:56:00+08:00"
-    },
-    {
-      "title": "Armenia’s TRIPP debate exposes contradictions of its regional isolation",
-      "source": "AzerNews",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9fRzFLOGpiNVBrTDNEM0pzeG1DdGZGZ1RpcFc4SlpaOVpYZF9iUE1UZmotQ09lcXBxOE5JdHlLcGl5OGFVSG54bDJGeDFXQXlMTDVoTVVMQQ?oc=5",
-      "publishedAt": "2026-10-31T21:15:00+08:00"
-    },
-    {
-      "title": "Russia Rejects Armenia’s Nominee for Ambassador to Moscow",
-      "source": "Caspian Post",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVTRENkJrRVVJZmRoWkViMlBKa09SdC1Ub0NFNHhsaGJNdGgybVBKM0xEN3BYUWFIRmROejRjSnlqZlFZZnV5cGoybFFVWVNzOGJxY3NiUlVUVTJrQUl2R3NsdEhkQ21WUDUzU0ZWWkxxSFotU0RyRlZTbkN4Z28weGYxMWtaT25zVHp1REVaM3lzdDA?oc=5",
-      "publishedAt": "2026-10-31T20:41:00+08:00"
     }
   ]
 }

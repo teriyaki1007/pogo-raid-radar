@@ -1,7 +1,7 @@
 {
   "iso2": "CD",
   "name": "DR Congo",
-  "updatedAt": "2026-11-01T17:05:26+08:00",
+  "updatedAt": "2026-11-01T23:09:56+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -25,6 +25,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "DR Congo Medics Celebrate As Last Ebola Patients At A Facility Are Discharged",
+      "source": "شبكة تواصل الإخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9kTEdQN1hXU0R0RlJoTkxJOXZvdFVrdlkydmFkRDFabEwyYVVvdnVmZVBtTjlZVEhiMDNoNmFiQ054dWw4VkdBeEx3dHhILUhMT1FJ?oc=5",
+      "publishedAt": "2026-11-01T17:26:55+08:00"
+    },
     {
       "title": "Ebola death toll in DR Congo rises to 5,340",
       "source": "Gulf Today",
@@ -66,12 +72,6 @@
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjVUQkVLQ0FSaGdGODZzY1c0ZFFuN0pCSGJNbHZ2TDE5RDl6N01xTEF3YWRBUVo1QTRDZ1BiY2RieUg2ZE0xQWVwSW5nWllnMG5iRl9Gb1FYejRnY2Q5TDA2cXJQUHFtSnp2NV9qX0xDUHg5amNKVEkycDhsXzFxTU5Za2dabnlfbXcyeEtxa3VMYXlsUTN3UjdNOVkyNUp0?oc=5",
       "publishedAt": "2026-11-01T04:19:55+08:00"
-    },
-    {
-      "title": "More than 5,000 die from Ebola in DR Congo’s deadliest outbreak",
-      "source": "GBC Ghana Online",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtMm5DdzZ6d0hWX3hrbnFHdnlMQU9wb0V2dUd6VXl5VnYwYmx2ZEFnaTlKd0l1LXZISUV6SXp5YmRKVXZ4RU9IekpfaHZoUEd5aFlsMFF1WkloZldwLW5aQWZOMnduUWRMeExIVDVFNlc?oc=5",
-      "publishedAt": "2026-11-01T03:09:57+08:00"
     }
   ]
 }
