@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-11-01",
-    "asOfLabel": "1 Nov 2026 ~10:30 PM HKT",
+    "asOf": "2026-11-02",
+    "asOfLabel": "2 Nov 2026 ~6:35 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE: Halloween 2026 Part II (since Sun 1 Nov 10:00 AM → Thu 5 Nov 8:00 PM) — costume 1★ Pikachu (hat+capelet) + Sinistea (bow) still in raids. Giratina (Origin) 5★ (through Tue 3 Nov 10:00 PM) + Mega Sableye (through Sun 8 Nov 10:00 PM) + standard 3★ Cofagrigus / Trevenant / Dhelmise (GO Hub / Leek Duck events). Shadow Landorus (Incarnate) + Shadow 1★/3★ continue through Tue 3 Nov 10:00 PM (Shadow 5★ usually weekends — today Sun 1 Nov still in window). ENDED Sun 1 Nov 10:00 AM: Halloween Part I event. ENDED Sat 31 Oct 5:00 PM: Chandelure Super Mega Raid Day. Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni still inactive — no new Takeover; leftover Super Rocket Radar may still find him per GO Hub) unchanged.",
-      "endsAtLabel": "Halloween Part II / costume 1★ → Thu 5 Nov 8:00 PM · Halloween Part I ENDED Sun 1 Nov 10:00 AM · Giratina (Origin) → Tue 3 Nov 10:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Shadow Landorus → Tue 3 Nov 10:00 PM · Chandelure SMRD ENDED Sat 31 Oct 5:00 PM"
+      "text": "LIVE: Halloween 2026 Part II (→ Thu 5 Nov 8:00 PM) — costume 1★ Pikachu (hat+capelet) + Sinistea (bow) still in raids. Giratina (Origin) 5★ ends TOMORROW Tue 3 Nov 10:00 PM; Mega Sableye continues → Sun 8 Nov 10:00 PM; standard 3★ Cofagrigus / Trevenant / Dhelmise (Leek Duck / GO Hub). Shadow Landorus (Incarnate) package + Shadow 1★/3★ continue → Tue 3 Nov 10:00 PM — Shadow 5★ weekend Oct 31–Nov 1 ENDED (midweek Shadow 1★/3★ only; next Shadow 5★ weekends: Tornadus Incarnate per GO Hub). TODAY Mon 2 Nov 6:00 AM–9:00 PM: Max Monday Dynamax Machop (Max Battles / denser Power Spots; may appear through Sun 8 Nov). Upcoming Wed 4 Nov 6:00 AM: Giratina (Altered) 5★ → Sun 8 Nov 10:00 PM (+ Raid Hour Wed 4 Nov 6–7 PM). Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni still inactive) unchanged.",
+      "endsAtLabel": "Halloween Part II / costume 1★ → Thu 5 Nov 8:00 PM · Giratina (Origin) → Tue 3 Nov 10:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Shadow Landorus package → Tue 3 Nov 10:00 PM · Max Monday Machop denser window → Mon 2 Nov 9:00 PM · Giratina (Altered) starts Wed 4 Nov 6:00 AM · Shadow 5★ weekend ENDED Sun 1 Nov"
     },
     "legend": {
       "standard": {
@@ -156,6 +156,22 @@
       {
         "name": "Pokémon GO — Halloween 2026 Part II",
         "url": "https://pokemongolive.com/post/halloween-part-2-2026/"
+      },
+      {
+        "name": "Leek Duck — Giratina (Altered) 5★ Nov 2026",
+        "url": "https://leekduck.com/events/giratina-altered-forme-in-5-star-raid-battles-november-2026/"
+      },
+      {
+        "name": "Leek Duck — Giratina (Altered) Raid Hour Nov 4",
+        "url": "https://leekduck.com/events/raidhour20261104/"
+      },
+      {
+        "name": "Leek Duck — Max Monday Dynamax Machop Nov 2",
+        "url": "https://leekduck.com/events/max-mondays-2026-11-02/"
+      },
+      {
+        "name": "GO Hub — Dynamax Machop Max Monday",
+        "url": "https://pokemongohub.net/post/event/dynamax-machop-max-monday/"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
@@ -588,7 +604,7 @@
       "category": "shadow",
       "isShadow": true,
       "isMega": false,
-      "window": "Wed 7 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (Shadow 5★ usually weekends — check in-game)",
+      "window": "Wed 7 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (Shadow 5★ weekends only — Oct 31–Nov 1 weekend ENDED; midweek Shadow 1★/3★)",
       "windowStart": "2026-10-07T06:00:00",
       "windowEnd": "2026-11-03T22:00:00",
       "shiny": true,
@@ -605,7 +621,7 @@
         "pokeapiId": 645,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png"
       },
-      "notes": "LIVE since Wed 7 Oct 6:00 AM local; replaced Shadow Thundurus for October (Leek Duck). Ice is double super-effective (×2.56). Local-only; Purified Gems needed when enraged.",
+      "notes": "Package LIVE through Tue 3 Nov 10:00 PM local (Leek Duck). Shadow 5★ weekend Sat 31 Oct–Sun 1 Nov ENDED — midweek only Shadow 1★/3★ spawn. Next Shadow 5★ weekends: Tornadus Incarnate (GO Hub). Ice is double super-effective (×2.56). Local-only; Purified Gems needed when enraged.",
       "types": [
         "Ground",
         "Flying"
@@ -671,7 +687,7 @@
         "pokeapiId": 10007,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10007.png"
       },
-      "notes": "Origin Forme LIVE (Leek Duck + GO Hub). Shiny-eligible. Raid Hour Wed 28 Oct 6–7 PM local. Replaces Palkia. Mega Sableye runs alongside from 28 Oct but continues to Sun 8 Nov.",
+      "notes": "Origin Forme LIVE through TOMORROW Tue 3 Nov 10:00 PM (Leek Duck + GO Hub). Shiny-eligible. Raid Hour Wed 28 Oct 6–7 PM ENDED. Replaced by Giratina (Altered) from Wed 4 Nov 6:00 AM → Sun 8 Nov 10:00 PM (+ Raid Hour Wed 4 Nov 6–7 PM). Mega Sableye runs alongside through Sun 8 Nov.",
       "types": [
         "Ghost",
         "Dragon"
@@ -709,7 +725,8 @@
           "moves": "Hex / Shadow Ball"
         }
       ],
-      "countersSource": "type + GO Hub typing"
+      "countersSource": "type + GO Hub typing",
+      "highlight": true
     },
     {
       "id": "mega-sableye-oct28",
@@ -1228,9 +1245,9 @@
     },
     {
       "id": "shadow-landorus-oct",
-      "when": "Wed 7 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (LIVE)",
-      "title": "Shadow Landorus (Incarnate) in Shadow raids (LIVE)",
-      "impact": "Replaced Shadow Thundurus as the 5★ Shadow boss for October (Leek Duck). Ground/Flying — weak to Ice ×2.56, Water.",
+      "when": "Wed 7 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (LIVE package; Shadow 5★ weekend ENDED)",
+      "title": "Shadow Landorus (Incarnate) in Shadow raids (LIVE package)",
+      "impact": "Package continues through Tue 3 Nov 10:00 PM. Shadow 5★ weekend Sat 31 Oct–Sun 1 Nov ENDED — midweek Shadow 1★/3★ only. Next Shadow 5★ weekends: Tornadus Incarnate (GO Hub). Ground/Flying — Ice ×2.56, Water.",
       "urgent": false
     },
     {
@@ -1340,10 +1357,10 @@
     },
     {
       "id": "giratina-sableye-oct28",
-      "when": "Wed 28 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (Giratina LIVE); Mega Sableye through Sun 8 Nov 10:00 PM (LIVE)",
-      "title": "Giratina (Origin) 5★ + Mega Sableye (LIVE)",
-      "impact": "LIVE since Wed 28 Oct 6:00 AM local. Standard 3★: Cofagrigus, Trevenant, Dhelmise (GO Hub / Leek Duck). Halloween costume 1★ continues. Raid Hour Wed 28 Oct 6–7 PM ENDED.",
-      "urgent": false
+      "when": "Wed 28 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (Giratina LIVE — ends TOMORROW); Mega Sableye through Sun 8 Nov 10:00 PM (LIVE)",
+      "title": "Giratina (Origin) 5★ + Mega Sableye (LIVE — Origin ends Tue 3 Nov)",
+      "impact": "LIVE. Origin Giratina ends Tue 3 Nov 10:00 PM local; Altered Giratina starts Wed 4 Nov 6:00 AM. Standard 3★: Cofagrigus, Trevenant, Dhelmise. Halloween costume 1★ continue through Part II. Raid Hour Wed 28 Oct 6–7 PM ENDED.",
+      "urgent": true
     },
     {
       "id": "raid-hour-giratina-origin",
@@ -1392,6 +1409,34 @@
       "when": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM local (upcoming)",
       "title": "Festival of Lights 2026 (upcoming)",
       "impact": "Official news: Pikachu wearing a saree and Pikachu wearing a kurta return in raids (shiny / Special Background possible); raid tier not stated yet.",
+      "urgent": false
+    },
+    {
+      "id": "shadow-weekend-oct31",
+      "when": "Sat–Sun 31 Oct–1 Nov 2026 (ENDED)",
+      "title": "Shadow 5★ weekend — Landorus Incarnate (ENDED)",
+      "impact": "Weekend Shadow 5★ window closed after Sun 1 Nov. Shadow Landorus package continues through Tue 3 Nov 10:00 PM for Shadow 1★/3★ midweek. Next Shadow 5★ weekends: Tornadus Incarnate (GO Hub November schedule).",
+      "urgent": false
+    },
+    {
+      "id": "max-monday-machop-nov2",
+      "when": "Mon 2 Nov 6:00 AM – 9:00 PM local (LIVE denser window); Dynamax Machop may continue in Max Battles through Sun 8 Nov",
+      "title": "Max Monday / Dynamax Machop (LIVE)",
+      "impact": "LIVE denser Power Spots window Mon 2 Nov 6:00 AM–9:00 PM local (Leek Duck / GO Hub). Fighting-type Tier-2 Max Battle (~400 Max Particles on win); weak to Flying, Psychic, Fairy; shiny-eligible. Max Battles only — not a Gym raid change.",
+      "urgent": true
+    },
+    {
+      "id": "giratina-altered-nov4",
+      "when": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local (upcoming)",
+      "title": "Giratina (Altered) 5★ (upcoming)",
+      "impact": "Replaces Origin Forme from Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck). Shiny-eligible. Raid Hour Wed 4 Nov 6–7 PM local.",
+      "urgent": false
+    },
+    {
+      "id": "raid-hour-giratina-altered",
+      "when": "Wed 4 Nov 6:00–7:00 PM local (upcoming)",
+      "title": "Raid Hour: Giratina (Altered) (upcoming)",
+      "impact": "Increased five-star raids featuring Giratina (Altered) Wed 4 Nov 6–7 PM local (Leek Duck).",
       "urgent": false
     }
   ]
