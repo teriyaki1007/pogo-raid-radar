@@ -1,7 +1,7 @@
 {
   "iso2": "MM",
   "name": "Myanmar",
-  "updatedAt": "2026-11-01T23:09:56+08:00",
+  "updatedAt": "2026-11-02T05:03:16+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,16 +26,28 @@
   ],
   "headlines": [
     {
+      "title": "Only 33 Myanmar refugees left for biometric enrolment in Mizoram",
+      "source": "The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQal9LOXppSTZVczR0Q1p5aWctWlJGR3ZRUnh4SXVqQndDcWotOVdqUHJGNF9vcldneDY5UVVLQzRHS2VfYXdEUHJXT3p6SDRpNmE0N0RXd0lJLXZKSjFzank1NWUxOTl2aE9oZ1hzLXhIOHpFbHNBR211bW5GXzhrSWs0ekFJdDhOWkNjOWxwVHd6aEFZMVZ6RGZUcDRwQnp1Vko0U0x2YlJRWDZaQVZDaEduRUNVcG9GUnZwcjFNSWpycWExc1A1Q3QwUlhVWDAzZ3lTbHUxb9IB3AFBVV95cUxPbjBZSklSSlVwa2tPR1NVN1RmOVdqQl9TLUVzdVkwaHR5RFA4cjlJa19mbEhmMGNSdjVyc0hnNVQ3ZnVZMXB5eFUtNV9rUDdKeWNTV0JId3diaEVqTm1tV3ZSTkI3S196aVFBVVBBVVNTYkZFZWwydlBLdEdTOUItWVNXdDlKX1FvY0pJY0VKdW9KMEdnclI2di1SSXl2WFVwblA0VExNVHk2dV9XcGJjMHh4V0FEMXh5WnY4b2xqX2d5OW9feWZacmFfd3J4cG9nVFRjNkFaWG1KV0ZI?oc=5",
+      "publishedAt": "2026-11-02T02:04:00+08:00"
+    },
+    {
+      "title": "Armored vehicles deploy in Myanmar",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uQ1A3RW1iTFdvNTdIT09sSkR1cVdtRFRYZmxyY1VMYjliRVpRZUxoUXA5eW42LTg2WDllaFBnbWNWYnNmU3FXT3Q4NkVLTnpSRDkwbTR5X3AtdVlP?oc=5",
+      "publishedAt": "2026-11-02T01:22:45+08:00"
+    },
+    {
       "title": "Myanmar Military Airstrikes Kill 11, Injure over 10 in Rakhine State",
       "source": "Narinjara News",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zLVJ3SElMUEZUeERNSkphN0xlU0U5WU9UZmpieDVVcWwyN3IxOUlLLXd6d29FUi1uM1ZnUjR6bjFrMnF3bnNqWG9CMnZvQVI4ckt4MmxQOEVBYzhfY1lua0xHLXZlUHZFR3o5WDk4VQ?oc=5",
-      "publishedAt": "2026-11-01T22:46:53+08:00"
+      "publishedAt": "2026-11-01T23:46:53+08:00"
     },
     {
-      "title": "Union Minister Daw Zin Mar Aung Participated in the 8th Hybrid Congressional Briefing on Burma",
-      "source": "nugmyanmar.org",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV2s0VDU5b3FNck93WlNhWVdVSDNCRVRMVjNSbXFTdmFydDk3QW5Kc0UxSXl6RXBzMVN0S0p3NFdPdzJZSXlJRDR5SzN2X0ZMR0ZRUlU2emRTS3pwdmFlVWxPTXNKVlEzcHVBV2d0emRpQl95Nkk5VVdxSkhRMUZ1b1pmbk5VdHJJRTNZMnNXS3RFQUxDNUtHMDlSVzVPeUFwZUJscUhYTVZqWkxaYm5USnk0NmptcFlhYmZlcmdyWQ?oc=5",
-      "publishedAt": "2026-11-01T22:01:05+08:00"
+      "title": "Myanmar star elephant's 73rd birthday brings back generations of memories",
+      "source": "Xinhua",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PMzlDcW1qSHN6bnF3dmV4cmN1RFAwU05nbzNpTUVMVzFBN1gxMFoyaF9rMzBkMzdtSkx4cENmajRoSkxid203SzRlSGU2akpDVG1GcXh1OEx0eVI3aEN4eXlQN1YtcWFNOFpuVWtXcEhfcGRPTno2NktXV04?oc=5",
+      "publishedAt": "2026-11-01T23:08:15+08:00"
     },
     {
       "title": "Asean Special Envoy leads humanitarian mission to Myanmar, says DFA",
@@ -48,18 +60,6 @@
       "source": "Bangkok Post",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWl96ZklTVXZkdlpYUEVtTTljclBLcE9FREh3MWtIajBBYy0xR3hkOGN3ZFhUaExsakNHMDRRNENKNEVUVmNXcVY2TVF5XzRLcHotM0MyekFxcnpfNEF1NXc3c0JENV9ldWdHOWJ6cUlFMWJsWTF0WHhXNGhQV3hhOFJXRmFaZlhLQ1JVcFl2T3ZEX2gzTEkzbjJreDlMRmRsM3N6UzRWZng?oc=5",
       "publishedAt": "2026-11-01T19:03:00+08:00"
-    },
-    {
-      "title": "Feature: Myanmar star elephant's 73rd birthday brings back generations of memories",
-      "source": "Xinhua",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcS1xbUNvVk1XR0ltN2VZc1dCWGM1MU4yZlFCYUJyeFNneDg3WWRJVkhyV183X2NvczQ5bnNjZXN2R3Nza0ZvYmdMVlZWcUpibHV3OGlkUEtsZVRoU2kzOHQ4amlGVTEtSDlZSVA4cXhNckR3TUxhNEMwVUtUMkFHWnVkOVprdlY5RkFiZg?oc=5",
-      "publishedAt": "2026-11-01T19:02:45+08:00"
-    },
-    {
-      "title": "India and Myanmar boost defense cooperation at 8th staff talks",
-      "source": "The Avenue Mail",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGS05YTTRxY2huNHhjc0RvLXNuUEMwVllTVmtWdFUwendpa0ZEZkhmbGs0cXVXREdGc1VSVkgxdGZtcF9UVGk4TjJZUnhENm03X0JWdXJMT3hOVDFXMHhuVTdkd1JhdHRIUlB6a0c5OG1CTEl1T0NLQjFEZExfdw?oc=5",
-      "publishedAt": "2026-11-01T18:12:25+08:00"
     },
     {
       "title": "Myanmar migrant worker leader assaulted during protest outside UN office",

@@ -1,7 +1,7 @@
 {
   "iso2": "HR",
   "name": "Croatia",
-  "updatedAt": "2026-11-01T23:09:56+08:00",
+  "updatedAt": "2026-11-02T05:03:16+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,28 +26,40 @@
   ],
   "headlines": [
     {
+      "title": "How much does it really cost to get a child involved in sport in Croatia?",
+      "source": "Croatia Week",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40TWttcHI2ZjlPdVpFakJZMUVwbVpvZkpzLXlobHZsRFJZbXZGMEwxV2VXaHg5SkhYU1JERmdrWEY3MFFwR3ZKZzFteWZqNTNJa1QxVUxtUXkxYnhCVzFiMHQtSHlsc0ZNbjhwcjdLMmZoNE1LbUE?oc=5",
+      "publishedAt": "2026-11-02T02:56:15+08:00"
+    },
+    {
+      "title": "Every quarter counts: W4L launches in Croatia with a scoring system built for drama",
+      "source": "Total Waterpolo",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XUkpETU5tM19iaHVBYXlWUmRNOFVCZnpFSE90cjVWUjNtOHlkdnFTdVE5RkdxUE1jdE9DaFFiV0dLeFItZm02NVlmRUpwb05RQ3h6Q3ZGOHhqQWlWa2tabzk4WmZaRE15dHhQUHZsREI1SnVZMXZ0SW14UzRMdw?oc=5",
+      "publishedAt": "2026-11-02T01:12:13+08:00"
+    },
+    {
+      "title": "Will Vučić end up in court: Will the investigation reach him the way it reached Sanader in Croatia?",
+      "source": "vijesti.me",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQV1ptZ21UR0xrNnlQV19NWVNibmNBeE9Pc3VIaVRUSW5KQ29FaWdRYkJVM3ZWU2FPblNIQ3ZjZ1lENzRhS3FaT0xZQkctMm9KbXBEamRoa0JwRHBJNnROd2pRa0xCTzVmSEgwWmtQbnZKMk9wajJ2ZDFCWTBOTldHekpOQWN6VFAxY2RpWFI1Q2VNbjlMMXNVQVdmRUZyTTBuYXpKUnQwQlpNYVpHbWNBd0pmRzlMazlfeEtaODF1TlQyN3JTTUtSUFBHazNVOXlsMnBtQXhTYUhsWnNfTEEzNHNaRnB2QdIB1wFBVV95cUxORlBOTTRtS3lNaVh2Nnd6XzRpX3I3ZENrWDdaRlVNUElvblQ4cy10NjlnSWV4U3Zac0Q2SlUwMTh2bVV6aW54eEJwMk9GSl9HWk5YcmZuNmxqR1RpYWdqTU9ZZGhCc0daRkVfeTZrbE8wSGRHc3RIcWJyUE1QdzJEa0pFYkl1ZW16ZVNnUEVGY1lrd3VOWm9zUW8xVHpkWGFTbTBldDF4V2lHMm5Nd1BvRUltRS15bldiRFpsVWNDSjBqelVRUkF2U010aHFWM2VHUE5COTFYZw?oc=5",
+      "publishedAt": "2026-11-02T00:49:39+08:00"
+    },
+    {
+      "title": "Milatović spoke with Pirc Musar: Bilateral issues with Croatia should be resolved through dialogue...",
+      "source": "vijesti.me",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOdWtCTXRqZ0hYSzZoT0hrZV9ZUkl2RHA0ZndoZ1NTZUdQdlY4VDE2dU41R3BQektobkZ2UktXbVpiNjZFbzJYTkdUUnIwbzdlT0ZtcndZRm0yTmhuQ1NHOV9POUtpNkdKZjQ3X3hyd0paelF6Q2ZWZjhRRm84Ujl6WVI2Z0pjc3k0MXpWLXV2Zmw5MXNtV0xhOXdNUTRHY0IzekNJNXNtN1p0aS1lamY2eDUzZ1B3NTJTeEdMRHJVOWpLWTBUYWVMOHA4LTN5MlVyRDZJb3hHbXZmU1HSAcsBQVVfeXFMUGpsMU5xalFibktPLVBkS0ozc1Bfc3NmWE0tMzJpQmQzQVU5aXhuQzE2bGVMM1RJbWZwVXlpeUpENmFoaHhMVWFsVTBsdW1Hek1TOTJXdUZyQlpkTTZ6eVdJU2xXS1F5dUVXUGZDRF94MVBRSE0xdF90a1ZfcXNUV3pfRjRESHFDWVUtNnFDWFdQLV9kR3FPNWlwN01Jd2p1VGVncWhPaUFmLUxDaGdtaUctQXJzejdxcUxHZjJlcjJ3dk9Wbl91dW1uTDQ?oc=5",
+      "publishedAt": "2026-11-02T00:10:55+08:00"
+    },
+    {
       "title": "Before You Apply: The Legal Deadline Blocking Croatian Descendants",
       "source": "Total Croatia",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLVdPYjctdUYwVEtfeFhUMnpMYklpQTJUb2xtSGZSZWwtMUpkbTF2Wm15ci1wSWV4YndHR2s5X25zTno5WDJjWWdKekRXRnI3QWtyNWhFOTI4TXl4WUttRHJVNkZnTzV6bExuN0VnUm1HY3VSVW1FVjU3dUxTZG1vMDJqWF92OVF2?oc=5",
       "publishedAt": "2026-11-01T22:51:29+08:00"
     },
     {
-      "title": "From Italy to Croatia, a warming climate threatens prized white truffles",
-      "source": "WTOP News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQmVLNmxKaXMtZTZmelV0RXJEeHBQOXdWdzNrVGlkM1FYQVJnck0tQ0czZER4YV9yZ0VWZ3hIcG9OYmNtblFVdm9XR285Umphelp0ZTJaXzJKdUNKeDVuSWk1ODlZYmRkLTQ5b0IwOFo5MDAzRHVCNEtBbkhtSVdhOUpSYl80Uy1tR0RlcXAzX3VUYUtBNEhaNzk1VWQyNDFEcXZyWEJkUGt1djRNWkRIVklIbw?oc=5",
-      "publishedAt": "2026-11-01T22:32:12+08:00"
-    },
-    {
       "title": "Dinamo B win a match full of twists away at league leaders Croatia",
       "source": "Dinamo Zagreb",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcjRPZHMwVkdiUEdEV2hKSmRHNWprMlZ6MjM5MVZtWW9ZalA0RG03dzFzVE4xQTNnRWtXbW1JdVhqNFBWUS1nT3JzTUtIZ0JaNWg3eGZlY1ZGTFY0N0FVLU5ZbEJsOExqUDAydzBsZWxpd1RkLWZyVlZuUmhBWlU3YVh0ZzFhaFRGLUExVHI2TTltUzZjdUE1cTkwcm1QOFBWaFY4?oc=5",
       "publishedAt": "2026-11-01T22:05:19+08:00"
-    },
-    {
-      "title": "How much does it really cost to get a child involved in sport in Croatia?",
-      "source": "Croatia Week",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0RxSU9MMWFiQUJpQ3dGVzlmZXB0aDhuOGxhTV9lMjVCRXpVMk9ienpvVm5EQ3VrUE1fbnZ6WngtVDJKMUczTlVhdXktY295LUZZTVk1WW96S2NPWmhNZ00zdXhuNHZRRGF1YzRMRDhVY0VSRm5tb19DRkwwOGt6bXp6eWpQNkdXLVZOaDRwRDAwRmhaeEh5ZTRWTUFWaUVXWERv?oc=5",
-      "publishedAt": "2026-11-01T21:02:59+08:00"
     },
     {
       "title": "Taking cricket to the next generation in Croatia through criiio | #criiioDay",
@@ -58,20 +70,8 @@
     {
       "title": "Croatian scientists solve long-standing mystery about how human cells divide",
       "source": "Croatia Week",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb2I4TktXMk5DUXRXLXlYd0k1b1FhNXAyVE5ldGdhanE5dGQtZFY1UDVTOXhwZmxTYlRRVEFBaURoVUl4c2xDUUlOcVpsZ2lxSzdIb05WQTdQLU9aZ0V4cEl1VDMxY2Q3Y2ZmWWVWQlN5TVh3bDVvZnhHMFNSYUZybTRZUHJjREpVbTFncUdJSm5kalZJZ3U1SzFFSnRCdWVSdlFmZEpHQlo?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WRW1OMWdlbV9GdjlfSTdTQ3VmSEN0RHNvR3puT1pYOUF1akpLemdjaW9JZTZnemtsMXJsdjF1d3VQN1dTdDJBdmNJZVBBR0VqRUFnUjhQUE90TFhxamhOWDItWmhZU1RFcEtRaDAxRjFBQlFRVHRpTk1FV1k?oc=5",
       "publishedAt": "2026-11-01T18:59:14+08:00"
-    },
-    {
-      "title": "Cruising Croatia aboard Maxita, a luxury private yacht",
-      "source": "Luxury Lifestyle Magazine",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbmhMMmtlSzloeEhUbXkzNWZqYjBpMmtFS2ppX2dUR0FaNTdHVmYxREF0a2E1TE1Zem1MWjNuaWZyYXV6cHFZejV5dXF4ZjFwX1BCQUJ6OEVjWnU1aHA0WGoyVVRuYmtKNlM0eVVKb2oxZkluMUE1NTJBVUJUcWxnMEwxVUo5cTA0bHpGSkx3Q0VSdnhVOC1MYTdrLWJmb3M?oc=5",
-      "publishedAt": "2026-11-01T18:00:00+08:00"
-    },
-    {
-      "title": "Everyone Talks About Split And Dubrovnik, But Rovinj Might Be Croatia’s Most Underrated Holiday Spot",
-      "source": "BuzzFeed",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb2YxTEU0SXJkSU4xOWJuR2RDcDBOUWxEZE5pYktPX0thMU9oRkZRQ016dHA0VVlDd0JiRHlzajZwV2h4NUpfS0VuZHNxTUhFQlhwQTVmajBiNjNwbUo3NDU2ckE5ZkxUcmNTeXI0UFoxTElKbEZSYTVOWm9TOTc3R0RNQXRoc3NhWV9zUUZjY3Voc0N3?oc=5",
-      "publishedAt": "2026-11-01T16:34:01+08:00"
     }
   ]
 }
