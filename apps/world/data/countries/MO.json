@@ -1,7 +1,7 @@
 {
   "iso2": "MO",
   "name": "Macau",
-  "updatedAt": "2026-11-02T17:11:46+08:00",
+  "updatedAt": "2026-11-02T23:07:53+08:00",
   "facts": [
     {
       "label": "Population",
@@ -26,10 +26,40 @@
   ],
   "headlines": [
     {
+      "title": "Macau GGR Falls 10% in October to MOP$21.68 Billion",
+      "source": "World Casino News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdXMtS0o0cnNtU2taV19vYlFHb0dBU0NvWnlINXFKSGlqWHM1LXg5R3BaeWlrdDJJcVBrSFhnNGNsdGtFOXVSYVJ0MlZIRndEMElLVGhyNEVMVlZwc2UtZXpIeEcxck1sT1FVVTJFdzhjdGVlVldJaWtmLUMxTG5PYkUyMG51b3huQ3RhVjNYS0hEdk9ubkVTcVE4MFVlVnRfNl9ITUx0ejI?oc=5",
+      "publishedAt": "2026-11-02T22:04:44+08:00"
+    },
+    {
+      "title": "Macau October GGR falls 10% to $2.68 billion for fifth straight monthly decline",
+      "source": "Yogonet",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNUVllNmx6RE9iZlZBMVJRaHhEWmNHWV9RUlRTbkc3RFVMQzdPQURXYXdFc3lUTlZjdnhGZVVJOFN0emx0am9kS1NVb2pqRVZjMzRJUHRsaUtQWWhCODRfczNyMnp4RXkyWmpIZGttWER2OWtycmNXaGVhemkxZ3JrM1BjYWFucm9jZksyLTlZU08tQmVkblVVYV9aMTZ6N3huLVJJaFZ3ODFVanJDeFZOYTRSMlFIcmxkZndrX1B5Y3RReUt6V0dBNW1yTDdzVHZBSEFZ?oc=5",
+      "publishedAt": "2026-11-02T22:01:43+08:00"
+    },
+    {
+      "title": "Hins Cheung rules out more Macau concert shows, urges fans not to rush into buying scalped tickets",
+      "source": "The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUkY2ZUQyU3JHeUFpaHJodllRdmRhZ1FMRW00V1FwUG5SVFVsUnVybFZqWjhXXzdoSWoxMGs3OVJWYjNOaFpaaGdaVjgwNlBwUVN6X1NCTzg3QzM0ZTYzcjhQUUh4amU0TzdnaVRfWjlrQjY4M1AxbGdqZ1d4X0ZTY2Rab3RjWDl6Z2c1cDBIQVBZUjFVaWVxYmtNMGZhdDhHeG9yV0xMM3NjcDJGUDAyODdTUnZ1cVBFRmllalBNOFhlMkNadUFHdVlZbVBvWUQ0MWlERHNVVm1GcWR5MVR5VnJ1N0F2YXVIWXVFR0NB?oc=5",
+      "publishedAt": "2026-11-02T18:46:24+08:00"
+    },
+    {
+      "title": "Macau casinos post 10% gaming revenue drop in October",
+      "source": "www.gamingintelligence.com",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQm9ZcFBiaURuVnFFR1lPZEdfVk5YMkllU2pBOEZOaWJoNUs0VHAxSlZZREotX3ZaZHBzNVBEN2JTYWRGLXlFV1pvN0hualJBV1Y1NkUzTU5aZEZhVThuYjlkR3JpM3FidHc2SnRpVWQ1cnlNeHlEQ1lsYzlWdXRsSHAzdkx2N0lmMk9GeEdFYi0tNWhLbmlNVEFhSzdkT21hTGFTaktn?oc=5",
+      "publishedAt": "2026-11-02T18:43:38+08:00"
+    },
+    {
+      "title": "Macau October GGR falls 10% to MOP21.68bn",
+      "source": "InterGame Online",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPalJreWxORU5ZdmxkOUZZUTdtYkx4ZFVfbFdzeWRKUkxBYTNHR0c5RmtiS3l2b1pTYU1tVTRrUEp2ODVmc0dESGw2TXZWSGFqLTlrUl9PWTlieUFHZ0VPQ3FtbkdFZW9UZ1g3a1h6WXE0MzI5b25ZY2N0MW91VG1vU19QX1hKRmZIVW9Da2RRWDZWdEdFV2pCVDhHbw?oc=5",
+      "publishedAt": "2026-11-02T17:13:43+08:00"
+    },
+    {
       "title": "Macau’s green spaces ‘remain insufficient’ despite government efforts: Environmentalist",
       "source": "Macau Business",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkVZS2tETHJQanlZNXJNTTdCNkF6ZlpqS2pqQW9jVXROOWtyTXJkV1JaQ01nbUZnb1RRMll5M0FWOVZTTjRPakNwMmhEM0dieWxUZFBFMzBuMzJaaXUxR2pnb0x1TzI2cV9wcS1XM0VWYnpreFk3QTBydjhBWXZfWVlYMF9hYU9hczc4ZHQ2clB3ejE0bFdINEg4d0QwYTJMVVNZM2ZhM3RjQjg3Nlow?oc=5",
-      "publishedAt": "2026-11-02T16:45:36+08:00"
+      "publishedAt": "2026-11-02T16:49:18+08:00"
     },
     {
       "title": "Macau’s 450-year missionary legacy meets digital age",
@@ -42,36 +72,6 @@
       "source": "Macau Business",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ2pWRzJUTXJYTnFqeE5TX19pVElWREJicFlmX3p4REc4MmxUQW5lQl9sU2RjSkpKcE1fTTF4b2ZuM0RreVBEMGJwUWR0MEM2bGRRZlNYQklhRUpjMzB6S0NieVBaX2NHX2lyZmFMMVVpNkJiSGdZSlM2QTk5Vi1Jcl9McnphcmFjcVphenh5dDh4QmxBUGlXSTVobnp3OFprLWhtYVNrdw?oc=5",
       "publishedAt": "2026-11-02T15:10:12+08:00"
-    },
-    {
-      "title": "Cardinal Tagle urges Macau Diocese to embrace its mission as a ‘Living Church’ at 450th anniversary",
-      "source": "Herald Malaysia Online",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcEZQWFo1d2taZmY1aVQtLTFUek4xcGdBMlN0T1ozemRndTRqWU8wTDBXMkNaRHM1NmVOb2V6ZzlwQkllYmR6R0hmWnQ4WWl1YkVSWEcxRmdqOGNacjBOZTBjbXIybndOMW53RDNKMVJfbE9Kald4V0VTSzN5WjRiOFJMSXJkQmZnZWRaSGJOWHBvNVd6OUI1eXRIRlRhMDJUTnVkaGdkejlSbFFrYzRLNTYxbGR3ZG9vQi0tRWtDTVAyNjR5ckxFbnFTNkNOMlZZMEtha2cxdXU?oc=5",
-      "publishedAt": "2026-11-02T14:10:19+08:00"
-    },
-    {
-      "title": "Major Bank Citi: Macau’s October Gaming Revenue Meets Expectations; November Forecast Lowered to MOP 20.5 Billion",
-      "source": "富途牛牛",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYVdmU0t2c0lUTXU2M0MzaUg0bklGbW5UeGxnV2JtMm5TTE84S3RKbGtueEduTEJ2MHZEUlplbXVRQW1XUEVJVHhvcGphQ29ZUkY0U0oycUVOakdaVjZGLVhqUzZfOFJPUnM4b1FxMW9pa1J2OTlTSGpaaENVdWg2U1E4UGVkdElsdmNzMHVic3JpOHg0bi14QjJ2RGwtcVZvRkdDVWU4UlRWMGNf?oc=5",
-      "publishedAt": "2026-11-02T13:06:39+08:00"
-    },
-    {
-      "title": "Win Macau Grand Prix Tickets + Free Transport From HK: Your Ultimate Race & Food Weekend Guide",
-      "source": "Lifestyle Asia Hong Kong",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPckpjdG1hcGFZNjNjWHZPMUsySmVqb0NRM3ZGbmlXUFRiRHhvQXhsMDQ5eVI1UXpjRG5uQnNVNVM3QXRUMHpLMmRaNFcxNEkzeExyeFk2cFN3QlIzMk9kLWNfRkUzRmhMY0dyWUoxV0kzVVBpMGZNWlRIRXBFZnpZLWFRNDVNbGpOV1gwNlYzSEJDMERXbXM4cnhiQ092M191MW8taGQyeGpmclpfZ1ZOUXFMWjFURkpBVzJ0N055QVZMRnFhRHgxSnBHYkM?oc=5",
-      "publishedAt": "2026-11-02T12:55:00+08:00"
-    },
-    {
-      "title": "Macau October Gaming Revenue Falls 10% Despite Golden Week and NBA Events",
-      "source": "iGamingToday.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUEFtamdBRjlZb3JPZHhuckY4dW5BbE41NGd1Ry1lSms3MWNyaFZhY2tlb3I4anVfT0d1Y2QxaWVMRWFxWlhJMEdTczRkOGRGY1hfV2RWdV96UXNsU1VhUC1aWFhDbUlDemRXcUVwTFhlX3dwNS10M3lpUVBUaGU5RUlYd1JERU1kTzFPV1FxdFpUd1U1VExpb2lLX0swSkI3TlRITg?oc=5",
-      "publishedAt": "2026-11-02T12:23:38+08:00"
-    },
-    {
-      "title": "Macau gaming revenue decline extends despite Golden Week boost",
-      "source": "The Star",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY1JJNEwya1JVaUZmSVUtRUlqcUlLLVVqSWg3bmtBUS1pY01fWHN1cFJ5enZhdEhyNG5TaWtqdXhaVmoyVlVNVENnOHJfMHN4VWFfN1M0b3c0anY3TzM3bUZfWU8xTGpXTW1sZEI1T25VY3BLeVNzT1FiRHd3ZVBaWHRGaElTRlp2bDVMSEU2d1hNejJHZEwyWHJhYzlablowaHhjdjFkOWNqUUJCQXNTWEdxbUJzaVhLeURIajVVTW5saXc?oc=5",
-      "publishedAt": "2026-11-02T09:15:00+08:00"
     }
   ]
 }
