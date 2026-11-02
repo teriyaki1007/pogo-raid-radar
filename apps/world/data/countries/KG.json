@@ -1,11 +1,15 @@
 {
   "iso2": "KG",
   "name": "Kyrgyzstan",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Bishkek"
+    },
+    {
+      "label": "Population",
+      "value": "7,343,064 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Kyrgyzstan’s industrial output rises 7% to $7.83B in 9M2026",
+      "source": "Qazinform",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbHdHZkhRRnY2TTBTLXZvNzJ3al8yYk9sck9HZXFQVVFTbjJmaHpscFlmRDNaY015ekhRVDBqek5hUkxsSXkwdU1lMm5HZjUwRFMxeTJadXo4UE43M0JZM0l6ckg5NXZoN3Rrdl95dTNvVTZQRFU5R3V3Zl9xMjhIX0NaXy1uV1Y4TVduVEN0TmlDcmvSAZMBQVVfeXFMTURPMFQ3dldtMHdXZ2ZmNVV2T0luTEhmQ0FfSzNncUtLVEhiRDVPVl9vX3VtTDhhc1k5eGlmbzdBd3VrcmpXV1Vhdlh5SHBaRjNkcUlIX1MwNmNQc01hdm9MSmhJdEU0dnVlWGFzR3o1VWs4QUlLRDNFN2hkMjVKbjBHdUdqYXZYTVhLaFBrMHEwMzlj?oc=5",
+      "publishedAt": "2026-11-02T09:17:53+08:00"
+    },
+    {
+      "title": "3rd International Forum of Commissioners for Children's Rights from Central Asian countries to take place in Kyrgyzstan in 2027",
+      "source": "AKIpress News Agency",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxONWlJTk5lWTNGTFViYWVsN3FYMVExUUd3djJjUlR6cThzMUZGdXY2UnNQSTc3U1ZPRVBONnJ4c0JYV0s4clp0dkF2cFVTUmo0T1l4Sk9TY1F6NVM1UjBjTkZKZXRRMWRPdjVqUThNeGhwUEhJU0dMam81VUsxS3hGaGxiS3Nmb3hPQXh1ZVVYbkNMYXN0VEJvY1E0R3o2aVBlZXJpOERCdEdXVFlvY3JHSFdjWUhUa20weERGeUE5UWVPMDROMWlaV21uMjhHTjZDVHJrVVF2S0paR1E1QlRmWjA4RHMzTXNjSk5kU25Bb0tOOXc?oc=5",
+      "publishedAt": "2026-11-02T08:37:00+08:00"
+    },
+    {
+      "title": "Investment Law - Lessons from Several Countries; Kyrgyzstan's New Law: Clearly Defines the Rights and Responsibilities of Investors",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNLURxeE1lTHVpNUYwSVVXdThTZlFLdXliM2ZhbDBsa1dBY083TUhyb25hN0FtT1k0S2dKakVKc3FKU1VJc3NLQm9EQmxUd29PUVVtaDJ5ZnF2ZHc2Uko3ZUlheTdhZTdON2xDcmNBSXprb2dENGVqODRVUF9DQkZWQjF1cE5zRkNqNVp3dVFfVTZleUxJcmJxRk1BQ1Vmck9fNVkyZHpPaXY2MDBPNmhYaEI4RlNrZ2tYMnZoS1JDcmZaRWJhWlBYSTJEM0Q3bE04T0ZRR0hkR3JpaUhJOHRvakJZa0NEUQ?oc=5",
+      "publishedAt": "2026-11-02T08:23:17+08:00"
+    },
+    {
+      "title": "15,000 teachers of retirement age work in Kyrgyzstan",
+      "source": "AKIpress News Agency",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcXNHT0Vha1lHS2R3OFBtZmF3OU93b2RaN1pIOHh2US1faWtIZlpmV3drQ1dMQW9nWW5UbnlDMDUxa0VKZnRvRnJKd2dpWFk0UDdQclZYa3FWVm5BVTFJNnFLQWYyRENDTS1iQlFzbmppckNabWFONDJ1Y1BQWklMZDdEQmFjbHExODNPZjZVQQ?oc=5",
+      "publishedAt": "2026-11-02T07:35:00+08:00"
+    },
+    {
+      "title": "Kyrgyzstan’s road maintenance institution opens tender for purchase of diesel fuel",
+      "source": "Trend News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1fZGRkamJEdW9wTGVMb1JiWGI4Z1JtWERrSFFaUUg5Ui14c0ZpMzhyeU9pZkF6QVA4VnRUR2J2SUNPek5kZlA5NV9DMzk0SWtlYXZDQU5pS3hNZmdWbEpF?oc=5",
+      "publishedAt": "2026-11-02T05:02:00+08:00"
+    },
+    {
       "title": "UIAA elects new board members, admits Kyrgyzstan and Bolivia associations",
       "source": "Everest Chronicle",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzRrZTE0YTc2QUlaNm1BSFZlUHpzanc0SFZORGFxU1ZWcG9ISmxHTWFpem9MbnVveTNHbm1QYTJNMGVRTnRQYWVMcFg1U1Q1YjMtaVB4Y3ZDNXp2dmJrMW9mX1J1TVVTbFpRLVZBbXZtS0t2NnZGR3lBOFppS3pwQUF1bjJJanRWZXJsS3BhZUFteUtoNlNQM2FRZGs1WXNVUUdqUndR?oc=5",
-      "publishedAt": "2026-11-02T00:36:45+08:00"
+      "publishedAt": "2026-11-02T00:44:28+08:00"
     },
     {
       "title": "Kyrgyzstan’s industrial output rises 7% to $7.83B in nine months",
@@ -42,36 +76,6 @@
       "source": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDhtMHhIN0lCUDVfT1Fha1M2NHNqbTVRYkRDX1FSR2FTMFNKYjFwVUt2dE0zYms2Qkk2NGgwN0UxOGZMdDR0ZmZSb1ExcktBQ3RhN3JpaEtweE9EZzVOT1Y5VjBVbWxUNEJlSnZlc0JVYUtwZVRSM1pCWUhWaVV2UUt2Tk9uXzh6anRvMXNoT3dXVkIwbGhLc3plQjl2QjkxbEFUUnNfSQ?oc=5",
       "publishedAt": "2026-11-01T18:00:14+08:00"
-    },
-    {
-      "title": "Kasymaiev: Police Officers' Salaries Have Doubled » News of Kyrgyzstan, Bishkek and Osh - latest events today",
-      "source": "open.kg",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWDlpdW1GYTVHT0RXamJKNTZDaHVYY2lWd1Vza2dudWVxS1JLV3VpUl81THUtUGRfT1loZmpCckRlV2VQcTFBTWUtZG1vcDNQSjBVb1UxQlVNOERXdGFERHJTNThGc1pxREFXaGxxYlNidW1xVnNKZHEzVVprNWU3NHJyRjk5Yl9vSG5kQWt5U25hVEw2SEtzbmhiZ2s1VmpUX3Vhd0Y5VQ?oc=5",
-      "publishedAt": "2026-11-01T16:17:13+08:00"
-    },
-    {
-      "title": "Starting December 1, salaries for employees of the Ministry of Internal Affairs of Kyrgyzstan will be increased, and pensions for veterans will be raised. » News of Kyrgyzstan, Bishkek and Osh - latest events today",
-      "source": "open.kg",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcW9JLTJQWVBPazktdWI4RHJBeTdpc3pERjF1SWZnVkRISkFYOUFvaE5WcjZPOE1MYXEwRHppTXlRQlhvLVI2bDZKZDNxYzRYWHRjaWE2VTBTdTBZa3lhNnZYRE12UzdRVmN2b0c3cWlqZGhXZC1EMy1UaTdGaGFJZktyRlFISi1Jd3BNR3dWdDd5LWpuS3JsN3Zqb3R1MVlTSGpLNnJNaFNZUUJHdkRoNUFGSkFOQzRtb21LX2xySHh0RlZDX0xr?oc=5",
-      "publishedAt": "2026-11-01T15:51:07+08:00"
-    },
-    {
-      "title": "Kyrgyzstan disburses $144M in agricultural loans in 2026",
-      "source": "Trend News Agency",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5ckU2NHJNMFc1ZUl5WDZmTjhpYlpuV1NIMC1iNzVXOG1kbkpQRjJlc29kLVVpLWg0Q01GTUVtWU96YVR2MThfa2JLRWI5amMxejJ4OEpTa1NsVFZla2xv?oc=5",
-      "publishedAt": "2026-11-01T15:26:00+08:00"
-    },
-    {
-      "title": "Kyrgyzstan Advances Binary Options Ban With Gambling and Lottery Law Changes",
-      "source": "iGamingToday.com",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX3ptT1dsbnNWdGw3NzU4TGx0cnVVQVJZUlh3N2NGOEdnNTZEOGZ5RElvWXVkZVNzb0pBQy1lYkE1MzhQSUZXd2pZUXNwZ1VVbVlLNWZ2SDBycU81UG1XcXNMZHVya00xRkJnXzBTSjhERk9qQUpqQVBVSjdZOVZ5OFBLalV1NUdtSUViclg2Q19fNUlPd05KNE92bE1lUzRHWjVOemZianJtZw?oc=5",
-      "publishedAt": "2026-11-01T11:04:22+08:00"
-    },
-    {
-      "title": "Kyrgyzstan women's wrestling team finishes 10th at World Championships in Astana",
-      "source": "AKIpress News Agency",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMlFEWWdyZzBaajdUbW1UWXV5UGR1b08wR2ZiNVE0V3BIX3d5TWpvZG9tQm5TNmotSGh0LXNVejQybnBLTXhjelNQTktpVDlmQ1dnMzZrWUJlRmJvSnlHNnktMUxLLTdZS2FaOUM4eHk2bVJfQm1XdkR2T0JlUlRnNGNxUDlJUnRJS25tZ2ZyV1pSajJDTG5INkZzNWxMQ1BXZmItd3AxRm5zWW1YeVZfdExTVnY?oc=5",
-      "publishedAt": "2026-11-01T10:28:00+08:00"
     }
   ]
 }

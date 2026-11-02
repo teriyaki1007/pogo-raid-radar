@@ -1,11 +1,15 @@
 {
   "iso2": "LK",
   "name": "Sri Lanka",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Colombo"
+    },
+    {
+      "label": "Population",
+      "value": "21,756,000 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Sri Lankan government grants concessions to imprisoned monks",
+      "source": "World Socialist Web Site",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wRmV3WUtqWDFkdUY2SzJBSEJwVC1aSTE3Zl9FZ0xMMXotQlRpOUNhMkVWR0EzNGVrd29FTUJRVzYyYjBMbDBTeVBoOVc4N1JTR3h6TTFjT0FKbzI2ci1PYXJpZ0pIVVNt?oc=5",
+      "publishedAt": "2026-11-02T10:11:23+08:00"
+    },
+    {
+      "title": "'If not alive... repatriate my body': Family fears for Sri Lankan woman stranded in Cook Islands",
+      "source": "RNZ",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY2JPbTJlWVVDdGJRdnB6NjBMTTFBcDFFbHZ3Ni0tRmZtMGFKbXZBV29IVXVQNU1uTHQxM0J2bXVCRUh4S0N2Nk9aR2ZoOGxWeElEbkJ4azNoYnA1WEpVeVFzMTNPN0V1VFB0NmRuMHZMdG91WEVfT3ZfUk43c1RYYUF4alk0dnYtVEFrVDRrbVlMMlNWZXBvd0pKVnQyWjJCemtmWGFLSGx1WGJDbE93TVVIcmU0TzVGSW9lR3ZGaER2U1NKajFkUkQ2bDVmQQ?oc=5",
+      "publishedAt": "2026-11-02T06:51:08+08:00"
+    },
+    {
       "title": "Kangra’s Anirudh Sharma selected for international cricket championship in Sri Lanka",
       "source": "The Tribune",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT3JnSWdqcTlpeUxpZ1lqY2syVGNuSUFhQ0NEcUlsLTdlUEczODZiTjBGeTdkalZ4NzRZNGpsZ3pxcndmVllERFV4dDgwMHBYQTNVUjJiQnhmVjcwcG04RWRwX05LNmV5Z2hzeGQ1UjRLSDhXOXlJTVBiLXlNUlhibE1mUzdrOUx6d3JPSFlMWVBwdnd1ZndPWEJSbnk0ckF0SlZWVXJ6Wl9XRTFPeTVDeGZKR0NsRDFLbHktWHpRYmNiUVZJZkHSAcoBQVVfeXFMT2F2VGtnMzVFZjFpdWh6QkQ5bkg1WS0tUXBKRmZBSkY0cjVhYWtQQ05FakpybWVydHlSaW1sU3NmTExJcjRxOE8yaFdvN0ZoSUZJR09PWmYtd3RqZFB3VGd1MUhvV3lUNlRWV1hsRENKSm42SHZzNF96ZFN4RUpRTW1GX0RhcDNncGIyUlZHVHlQdHU5Sm81UC1PWkdhSURsb294NUFqd3FQWXFCRFRhYm5WQnBuRnhlS1BVZFFrbjZXd3E2VGJzLWZodw?oc=5",
@@ -44,12 +60,6 @@
       "publishedAt": "2026-11-01T17:24:29+08:00"
     },
     {
-      "title": "Fakhar century sinks Sri Lanka in Lahore final",
-      "source": "SA Cricket Mag",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT2FEc0p1TDk0c2tCYzlVMWJ2c0dWd044dDBDS2RIZnhhczlnWFIyWW9uXzZEamoxbVBsWmNjQ05zSnFGbmR0T0hjUGNqcFVZRmtveFh0QlR5c25JQVExSFlheFB2NVRRSW9ZaldHZG5ZT2NPREotUVF3ZlRUbmNBZHp3?oc=5",
-      "publishedAt": "2026-11-01T15:25:34+08:00"
-    },
-    {
       "title": "Sri Lanka's war widows and the long search for the missing",
       "source": "France 24",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQLTNxUGJDWTJCSDJoaXdfTElWTFU1LWEyd0t0Z3hpZkJqUnJlOGJXWGkxSjJJQXhHdTJZblFWdTNJVnFNSGF4Zl9RdkJEQ0xnMG4tMm1mR1NKOEZVWEluNzlBZmZuRmpQWFI0cGgxNUkxSHRvRTV3cF9lam9qTnpXc25TNllORXBVamh0ZTBJVjdTUDBxWEN4dTdhSDdfVjRfNHNUbnRldjY?oc=5",
@@ -62,16 +72,10 @@
       "publishedAt": "2026-11-01T10:49:27+08:00"
     },
     {
-      "title": "++☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑︎ Sri Lanka vs Hong Kong Live Streams - Buffstreams ℂrackstreams StreamEast",
-      "source": "Pierce Manufacturing",
-      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNcHQ3aHFfOERXS3NtSndZd3dsdjA2WEJzSFVLeEZaSjkxb3VoUWtmanZFSWdVZnJzaF95Yi1ITjFleTdjYkh5VDZJZEVxS05xWnlORzdhb3E3NFJtZ0xHQ2x4c0QzREV3U0k1NFZUNk9hWVI0V1JyZk12SXNaUzJuSV8zSkxOdmR0ckhfbGF4cEhQVS16bTVnZUlPNk5sWk9ycGJFS2ptWXlEY2FUTFM3UG9KelJ1QWlNUFNZWEZDUmNYRS1lUVlhRWlQdmYwaFBoZ3JZYWV5NTVFeDU2eVNGRnN6UjVrSW9SVmVlZ0tqeEw1M294TG9HQVY5Ujg4SU4xTXZFcEFucWpuTXE4dUFacnVINzk2OWUtVW9Ucno3a0MtNjQ1bjR5b3dJQVh5eDlILUItQkdWam9OYy1sV1pwUWQ3Y0dXTHBGakpkV19lMmhlOUM1eGg1SjZLZVE5YVVHbmhaSkJ4ZDNzWlpJODI0UXotSmRLNDc3MjdqUmtTY3RyQQ?oc=5",
-      "publishedAt": "2026-11-01T10:49:27+08:00"
-    },
-    {
-      "title": "Farmers take part in rice cultivation in Sri Lanka",
-      "source": "Global Times",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1yRm5NZmRZSnNDMFhyMkJVRTNBeVNwQjNWVjg5YWswR3NGVlVGaGtueEV0T2NnRWZqdUdOQU8yekJpSWxsR24wejVYR3ZYRkdxMDJnakhuRWc3dzZjWk9abGt3?oc=5",
-      "publishedAt": "2026-11-01T07:58:00+08:00"
+      "title": "Stranded in the Cook Islands: Why I can't get home to Sri Lanka",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00US1UaGQwZ01iMjJkVGoycUVtNnBUNTNqNngwemN6QklzdUNheW1ETnBIVzE1Yk1TVFkyb2pHOHE2SGRHd0k3NFQ1WHFGamVlT0RxV3pjdXJ3Z0U?oc=5",
+      "publishedAt": "2026-11-01T07:06:13+08:00"
     }
   ]
 }

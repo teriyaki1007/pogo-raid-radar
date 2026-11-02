@@ -1,11 +1,15 @@
 {
   "iso2": "GL",
   "name": "Greenland",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Nuuk"
+    },
+    {
+      "label": "Population",
+      "value": "56,831 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "GLND Investors Have Opportunity to Join Greenland Energy Company Fraud Investigation with SBS Law",
+      "source": "The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTjNfSEdlbnFmMGF4RkZQZGpBdjFXZ1FfNmlzM1J1Z0JSWi1DdkFHaE5Wbm9mTV9iUzFvMVBoVVEzWU5ZWGJvV1hJNnF3OTdWR3VCYUxXc0xEZDVncDlKa2d4Wk9weHd2UHFEaGNZOG9lRTBLVFNKS3B3OTJDNXBreTc5S3B5aTg1Rno3UTdMUHZzdGFtZGthTVR0R0ZwOHBydUVoeG1kbGtCdWs?oc=5",
+      "publishedAt": "2026-11-02T09:25:43+08:00"
+    },
+    {
+      "title": "Trump: \"You know how long my deal is with Greenland? Infinite. Forever. What a deal.\"",
+      "source": "X",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGN1J2Z2gyS1Q0WHJweHFaWVU3N09uY0RKYkxxQi1wYmJhWlZkY2gyWVdSRDFodzZycVRyaGtHejlBc1FRbnJDejNURjJJSndTT3JfczY1d3E0aS1XcnNUYldVelB2Qjg?oc=5",
+      "publishedAt": "2026-11-02T07:08:30+08:00"
+    },
+    {
+      "title": "Trump: \"Our acquisition for 0 dollars of Greenland. You know we got Greenland?\"",
+      "source": "X",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ILXNoNnhUSXNmV05rNlB4dEN5QzA0Y0hReFdaUldJalFadE41TFpabk13b2FnM2l3Y29ib1dtQzFBUWl5M0VuREU2bUtMbVF1SkZpWmNnNkh4cElET0RPR0s2MjFHWVk?oc=5",
+      "publishedAt": "2026-11-02T07:07:11+08:00"
+    },
+    {
       "title": "The edge of the world gets closer: Greenland opens new airport in iceberg capital",
       "source": "Ynetnews",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tR0ZadUw5LWNpcFJNTU1wV3N3M2x0SjZpbkFwZU5QU2VTb1M5a01kZkpiWFZMQUxLRG5ib1kzcU1wcGJoT25tQk9rMGhtOXRHUTZwdlBsanMwQy1IcV9Z?oc=5",
@@ -44,12 +66,6 @@
       "publishedAt": "2026-11-01T05:53:41+08:00"
     },
     {
-      "title": "American Speculators and Prospectors Find It’s Hard to Make Money in Greenland",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOclRDaVlvRjdRcm56RUJ1MDRoYUh2LXV3VEo1YmZNZWxQal9qNnF2WWJNcVNSdnBBNkdlNlBzQjNfcmtKeFBNS0hmY0dTUU5MTmlOSk12WGR6aktqbkxYZmpzcmZjMzdyVThfQnRvOVd0QkVOSkM2bEdWVWg4MlVwbWVQanVncE14WC05VUFYLU1BQXp5MWtrM3RBT1lLQ1Q1dnpHd0ZGRjczWlpSV2JBbmt4RVc0QQ?oc=5",
-      "publishedAt": "2026-11-01T05:31:17+08:00"
-    },
-    {
       "title": "Trump taunts Greenland with AI photo after country's historic achievement",
       "source": "The Independent",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNWRGMGpCMTFMNjBqQ0dzY1FrTk9nelhhTzRocE1hSkF5OW5vbmpUUGYydUJEOUVoN1V5eXZVUlpIZTFjdW4wTUhxMHZ5UXJ6bDZKYUI0eTZQOHM3OERWSWJIb3BMVXVLQ3BJblVvSkRVZVBvcHRsUC1sTnpOamRCRkdTNW9IS3FEeElGOE5laGtremlY?oc=5",
@@ -60,18 +76,6 @@
       "source": "Raw Story",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jcXpBbG93eUMtNnktczh4eVF5MWxJNms2U2sxNGhvVzBaVG4yelZlUDFSbElXZ01kZ0UwWnBjeS1oZmZ5ZnE1SHczMGNpX3I4YjBpMnFXX2JDUUtzQnNhMkt30gF0QVVfeXFMTU5fN0pIc3NOb0RYalNDRkJMQllMTTF0QTdUSkw5MUF1em9aQXZnWS1YRE5IYWx0UlJoLURGb1JBa1M2M2FxNHlnUFNRdXgxX3pTNHczUzBPZlREbUJ3WWpIeWlHcm1MbW5mUVVaYXlCT2xEWEk?oc=5",
       "publishedAt": "2026-11-01T03:57:00+08:00"
-    },
-    {
-      "title": "Trump Trolls Greenland With Bonkers AI-Generated Pic Of Island Transformed Into Enormous US Aircraft Carrier",
-      "source": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjVGeWY1aUdqSVAzUEVzdnI5M1E5X0U0TkJiVjZ0cUY2UHVPcHBIWWVmbXRGbVphWjVJam1tMGVDd3E0aEtoNDNRQnJBU0xzWVNNR3lPNXo2bzdGTjBUZ2ZkQVNxWGVlWmxGZERHT1pDNnN6RHhLdmp0QzVPT0FaMkNtNA?oc=5",
-      "publishedAt": "2026-11-01T01:45:07+08:00"
-    },
-    {
-      "title": "Trump Trolls Greenland With AI-Generated Pic Of Island Transformed Into Enormous US Aircraft Carrier",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZW8waVZVVEVRcEkwMGx2cDh4QkYzVWJFUTZJOHh0Y29XR3BUazV0Q1F6V1N6aEIwU2U4ckRWRkVWY01NRzNZS0U5NlAxMnFiQkJLbm5UUG1tZHREVEJJY3JKRjFJOUdJZnBYTEpVN2lrNk9iY0k3Vk91YWZMUEh3aFhfNE93VDJ2bkFVdA?oc=5",
-      "publishedAt": "2026-11-01T01:36:29+08:00"
     }
   ]
 }

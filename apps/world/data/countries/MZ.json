@@ -1,11 +1,15 @@
 {
   "iso2": "MZ",
   "name": "Mozambique",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Maputo"
+    },
+    {
+      "label": "Population",
+      "value": "35,631,653 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Mozambique: Universities get almost 20,000 computers for students",
+      "source": "Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNGtQaGhyWWxqWmRPOC1kLXJTV1UyRUJlZnRlOWVCYmdGUTVvNzlEWUFQV2pWWUE5THA2NndrOTM3SF9zTDdjQU9PVVZNVW93N0JhUzFQbkJWZGk0WDBRem5zUnBHb0VDYzdGSEM0QTNGcDU0M1otMGtoQ2c2Y1hWenFMVW9YYmNubjI5dHc3aXY4MjBB?oc=5",
+      "publishedAt": "2026-11-02T07:03:35+08:00"
+    },
     {
       "title": "Cheap Smuggled Mozambican Timber Undercuts Zimbabwe’s Growers",
       "source": "Wood Central",
@@ -66,12 +76,6 @@
       "source": "MEMRI | Middle East Media Research Institute",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVV0QVFHcFlDYmctTUtxMmFNb0pTM3MxOVRfTW45TXgxVWJWUDFreDZtSzI0RjA0VU9TcE9NXzZTc3NWSk5SVXN5RnhxTmJyRWFlSmhScDY3bmJmWUF1aFNkYU92UEdvOGd5TEtQZXFOa0tSQ2ZSbnhOSlV6UHVXeEZEY3pzT1hOREJrWndFWkZEUExJX2FHeEZiN2Jla09KSEZOcUZfSG5RUDUxTTBpZUJSS2MzdVFxN2c?oc=5",
       "publishedAt": "2026-10-31T05:25:05+08:00"
-    },
-    {
-      "title": "Daniel Francisco Chapo, President of Mozambique: \"Mozambique can ensure food security not only for Africa but for whole world\"",
-      "source": "TV BRICS",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSENOSDlBelpnLW5aWFl6WkUtczViVlhKbkpYekVNbkxtMF9NR29ZNFI0MHlLaWM1XzhvVDBGd1BtejZhUDlQVGIzQUFtalE4NFVOM1c3YXViZWxVWW5CRkl4Ty02T1o0MWU5UEkxdW1zLXVqWUUtc2RPbzRRZ2pPc0ZjRU40RG85UVp1OGltSGw1YWpzRndmR2FWQUtFcDVBLUZUZXNKSEZzZUE0a1h2cXc0NExSa3NndVE2S2d0dHY2dkRGdHRMUU5n?oc=5",
-      "publishedAt": "2026-10-31T05:00:00+08:00"
     }
   ]
 }

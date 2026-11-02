@@ -1,11 +1,15 @@
 {
   "iso2": "BY",
   "name": "Belarus",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Minsk"
+    },
+    {
+      "label": "Population",
+      "value": "9,085,991 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,12 @@
   ],
   "headlines": [
     {
+      "title": "An unidentified object violated Latvia’s airspace near the borders with Russia and Belarus",
+      "source": "Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTEw4VDVkX2JOa3RMTUJDeVJDWTJmWGl4anM0elJfWnBjUURkZEJ2NWRDR1l4S0taZnpBcUNRaFV3cnl4d0dRZ1JsNEFRNTBrU2JTekc0N2RZeV83dUdtTkdERWYwWW9fbURMTThmWjNOZlowMW1MZ0ZrSU5kU01NeDhpNVBsUUxkbGY2c0FwXzFidThmUHAzTWxKQjZIUW5WQzkxa0N4OW0wbk1qTnZmRXdR0gGwAUFVX3lxTE1CR3NYTUxqb2lpZ1NRZnd5YmlrVjc3ZFdlamVMTURfUWVzUWplMEZ3bHV1anlZRmZxMkI5Z3lfcjRxSTMwcXVuUkFUd1FkWXNaWHBOT0x5S250Ykg4VHRaVzhfOWtqdFE1cV9LNEVESmNRaDRiZk5rQW5jSDZleDlRSW1vbXJUaFJVdThNTjhtam5xU0VaNGlpZktja3c3Zm9tT1kwdUNYb1ZYb21kODVQ?oc=5",
+      "publishedAt": "2026-11-02T05:44:45+08:00"
+    },
+    {
       "title": "Latvian Armed Forces: Intrusion into the country's airspace recorded near the borders with Belarus and Russia",
       "source": "vijesti.me",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQWE1S0syUVRsalpMY1FKdnItZlJpdFhsN1N6Tks4RDJIZFJDSENUUFNQY3U0UVZJR0J2UHB3S2tmWFM3WmctYjhHdVBhN1l4TDNOZTk2Z1JWVHlpUjBnVm5iVmtFWFB3Z29MaFlmOUVGVFdIS3FiZUZjVkZUbzVyYzItX1I2V1Y5bnAwMFh3Q3RLSl8wN2RIZ0szMW40VmZQLUx2ZG52RXQwTVQxTV9RR29fVTNCbHR3T1Q5c3M0Wm5GOFpidVA1YnBvY2ZoMHNQR3IyLUdHUGFLbjda0gHOAUFVX3lxTE92YTR5bmRxWkYyQnY0WGwzeGQ3U0dMYlh1cmpjMk8xZ1pCaG44RWRIc0RDNnNBdy00MkRaN3Y2WFhHMzB5LVdRSHU0a3ZUVmZZbGZIbGRHZ3JRVEdhblpRc2ZxbHlVTzhFTDJNSkk5a2R5OXlOckpsay1KbTktaWhyamo4ZjhRREJ3MDFzV3ZEamZpbGlnZl9VRXRzSXo2YnFXWjdPcmFDUFlON0ZmdTl6NEdCOWN4aDdpU3FpLVFZdXZmaE1PT2FvR29HNVpn?oc=5",
@@ -39,9 +49,9 @@
     },
     {
       "title": "Latvia reports brief airspace intrusion near Russia, Belarus borders",
-      "source": "ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbGNfcnBUcTJDYURROTBIMG5pNUFGUVFtTjNvX0Z3X2JrSzE3Y2ZUbVJYSmgydWdncDVXWmFjdDRVZi1xZWpFUnc2cnVRdENmMmdSSF9mN1FSVm1rX0RJeEFITFZ6MXc5bURBeV9Ia3d0VlpaTmcyQW91a0k4Smo3UXFpT1Z4U0NqckJWU0I0UzFaTHlnMnZjOUtLeWlUei1qVXByVdIBqgFBVV95cUxNcHdsb1pFRVhCeTZyRUpfUDJYLUUwdUFXSnRyQV9vRGJjQ1Rnbzd6aHIyWFI1elNCUXl6Q0dEWUJIX0hfUE45UnV6UFlJYXp0d1lYclgxcWJjTzV2VTJqTWlST1JOcjJWc0lwZGJfZTFzVWZyampUSGMybVNzbVVTbV93bDRobmx5SXRISjNtVS1WVi1sVUotbm1hcjIyV2NTQUFnOWtBaDJVQQ?oc=5",
-      "publishedAt": "2026-11-02T02:00:03+08:00"
+      "source": "Internazionale",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMzc5MnBzdHlaRi15NFlTekxKM1FsN3VZTGZ0dVVKQ0h2aElWdnNyak1JazhQUC1GLUk2UDFacUFnZk1XUTBzaG9sbXNUWDBRODRxZ1BGRW5yVVRBQU1ZbGd1UV9fOUxqRlNrZWhXY0VVd21aQThDX0syWGw0bVhqeElTVExXS0VNam9DdFZ0OHUxTm01OEQyNnFLbUM4bTRvZDZoY0RfNHFNdG5sTkRRdkwzR2k3RkwzbnlSaFJfN1F6NnlmX1E5WTZFQQ?oc=5",
+      "publishedAt": "2026-11-02T02:07:33+08:00"
     },
     {
       "title": "Visas new required for citizens of China, Russia, Turkey, Saudi Arabia and Belarus",
@@ -60,12 +70,6 @@
       "source": "Ariana News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV05qclp3VWJOTkFlVkt3V0VuMmRZV2JZcDdwTVc4bEVyR01SVEFDTFN0emZLMERDQXc5amF3alJzSERSZE82Y3Z6cUxQX21DUGI4d3pNdzMtbUlBNndVOGRrNG8zejJGVWR4a1JGZ2l3VmhlY3l6ZzVPLWdFV2xYekp4QUpyWF9S0gGOAUFVX3lxTE5JU2Rpa3dHQ2w2NXNpZ3BKMVN2cG94ZjYyOC1Qejc3VkJxOVpjTGM1TnlxT2s0WUNXV0VPQ2NJZ3BOY2tRaXdwSk5DM1JISlRpQklvbElULUlFVEwwemFCTEtEcVJ2R1F4bnJuWWtjbFV0VmNORE5fUkZFUGkxaW9VN3lFQWRSUFY0ZVYwWUE?oc=5",
       "publishedAt": "2026-11-01T23:38:46+08:00"
-    },
-    {
-      "title": "Taliban Announce Appointment of Belarus’s New Non-Resident Ambassador to Afghanistan",
-      "source": "8AM Media",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZE92X0FqVF9pU1k4SkRWaVMxa3kzTkE1c2pmbm8wYXdLRl9pVkNlV2VZRkU1Y0tLQUNJWTNxaTNzZmYzV2dUM3FBR2NmaHRzSjY4a090N2ZVc2E0XzR1RjhPQXlxdWdIbmh2ZEJYLVpVZ1h3N3VNRWtsczhlaVRCNDF6aFJxV1ZaWGViRXA4bXV5T29ucVh0WVNjLWV5Z05WNnRoMFEtV2gzQQ?oc=5",
-      "publishedAt": "2026-11-01T23:15:38+08:00"
     },
     {
       "title": "Belarus holds at least 22 political prisoners in psychiatric hospitals",

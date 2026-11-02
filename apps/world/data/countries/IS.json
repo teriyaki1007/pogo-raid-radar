@@ -1,11 +1,15 @@
 {
   "iso2": "IS",
   "name": "Iceland",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Reykjavik"
+    },
+    {
+      "label": "Population",
+      "value": "392,404 (2025, World Bank)"
     },
     {
       "label": "Region",

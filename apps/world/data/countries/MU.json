@@ -1,11 +1,15 @@
 {
   "iso2": "MU",
   "name": "Mauritius",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Port Louis"
+    },
+    {
+      "label": "Population",
+      "value": "1,243,741 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,22 +30,10 @@
   ],
   "headlines": [
     {
-      "title": "Strong mag. 5.1 earthquake - Mauritius: Mid-Indian Ridge on Sunday, Nov 1, 2026, at 06:34 pm (Universal Time)",
-      "source": "Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRWw4TXlNa2hNc0ZKUFpjWEVCZ1FUTjNNekhlMEYtMkZkRWJfUGFDRXdnZjgtaDJ2b3lyY01zeGVxMWI4anE0am1EME5BM0lHOFNnOGg1Y1g0SlUyR2FSTGJ4b29ZQ1JJc3V3SG5NNlA2S01jWWVRcnFwN3pKV0o1cFk1Szdac0g5MHlIY1NrZVFZOXhFbGxxRkRVRTFmT2Y2aHZDLVJDQ0ZXbWZWRWlUWjMtU1lCZzZt?oc=5",
-      "publishedAt": "2026-11-02T02:35:56+08:00"
-    },
-    {
-      "title": "Rajasthan SHGs ship 10 lakh diyas made from cow dung to Mauritius for Diwali | | Inshorts",
-      "source": "Inshorts",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ3VhcmpMYWI4QjRLLUVmM25UNkhVVXVEbUM2eEN1djEzWHJxbkdfX0VOMDlhbUExYU54V3lFZ2l6NXhDMGZoMGFWazlLcTIwRzZaZlRzTjViMDViZl81bzBPWkY2QWw4cnN4U1dDSUFybk93YkoyTHI4T01yMUdpZEpPOG5OYkZ1RDFhTWd6M1JqbHNOcy1ZNXBRZkN5R1dKXzQwUE5WSEMwU3NnT0lMOGp3VFBzeEdKa1k40gHAAUFVX3lxTE9qaVc5b1A0ODBwd3g0eGlHcjRKWDV5ZVUxWXIyT3habHFBV0YxWmtRUWZsaGVILUdCSFNyNVc4b2Q0REVyRm1XSkV0TjdGMHE0N3h3cFBubWpaWWJlcEN0Y3hrRGVWU19oSk1KaHgtVzVZeVU5Y3o0Qlo5WnFKN1pvNm5MMlAxaElZLVV3SjNjWE1hbXR2VkR0am1icXFpWEJQVExkVHY3Wmg0YUVaLTIyX1hUZDllVklwejg3VGpHUQ?oc=5",
-      "publishedAt": "2026-11-02T01:33:34+08:00"
-    },
-    {
-      "title": "Scientists Discover New Trapdoor Spider Species in Mauritius Coastal Habitat",
-      "source": "The Trumpet Newspaper Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8zcXBwRUpPWW5BcG52aFhwcGo2MEJ0TWhNRU5oOGlYS3JpZm5KQmVRd3hueV92UHZrUHJINVlOaThhZXlxVVczZ01LVnpVZEtiekxGaks5cUJhNDYxWkhFc0lGZy1KVjV5TDgzZHhyRGhrMDNkdk9iSmhFVkk4dw?oc=5",
-      "publishedAt": "2026-11-01T19:49:14+08:00"
+      "title": "Rajasthan sends 10 lakh cow dung diyas to Mauritius for Diwali",
+      "source": "First India",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa092WTZpbWYzaS1udEFsdWx2QXFyYk51WnctU2V6SUZiWTd0X1JMNUhDRVViYkR3SHA3aElIX1NKekhtSk5sam9jbzBkcGdGUGUwdHJocXVGdWRzRTRnZGlOVmw0dkF0emdXX0IyNHVVM2xrOXFielBhdHRaZzFvWjh0Rzc1cFFxTHlrSmpMWXF3bDRUVFU5cmxzRjljLXNwb0RsVmR6SGh2dzBaSXNkNVE4QQ?oc=5",
+      "publishedAt": "2026-11-02T01:32:09+08:00"
     },
     {
       "title": "Mauritius agrees to recruit Nepali workers through G2G mechanism",
@@ -50,10 +42,10 @@
       "publishedAt": "2026-11-01T17:43:24+08:00"
     },
     {
-      "title": "Rajasthan sends 10 lakh cow dung diyas to Mauritius for Diwali | Hindustan Times",
-      "source": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTFliWU4zcURKenpqa3ZKdkZMTWRVY29xX3VzZGhXQ0E2SU5tWlJEYjFQS0QwUkppRFF1NDNzVmc0RWFzTXg2UnVYUmFHMzJ5dU1LbHFmWklUMU5kUUhtZUo2bFhTZHBxUXRwclg5LXF3OGZQazFDc0lEM3ZRUENubHFHTmREWHNwRU5WVVZFOTg1SkJYaVREWDJ0YTlzN25wR2VVd0JGd1NRdkliaV81MFNRdHV4R0V5X2M3bW5mWUc4Q0ZnSlo2b3J0Qk5iQdIB0wFBVV95cUxPQi1pQ05CckFXcUpkSlNLUnktRG5xbHE3bVFFNi1URTlHLUNRaHhJbUwtUUVDNkl1ZlJnbkg2X1d0Qk5rc0N0UVFuOEFjb3hmOVBBREU1dFhhZXdQV1A3TndsNkZ2VFdvU1dRU09HbWFBcklpYzM0T3BzbmtVQ2RfaHQwSzZyNklLTDNoQnl1RWxiZDNDOXNRY1pMRmF5c2E1a01zU25KZVRfNFNUN3M4dk56Qi1GYmtVTzV4RWFHRXR4QXlxSEFOZHV3Ny1UWXJzenBV?oc=5",
-      "publishedAt": "2026-11-01T15:57:01+08:00"
+      "title": "Rethinking Quality Assurance: Mauritius and Seychelles Advance Context-Responsive Approaches to Higher Education",
+      "source": "UNESCO",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1Z0MTdzbE5iMzR1ekc3OUhFNEN1Z0ltUVktSHlwc21zM05FQ19iV29pTDB4X0RuaXNzWTBzcHd1YjhYYTlhQld0YTNUZUZ4aU8weEtNTGY2c2hqNG9UbG4xTmU4VnpRdDduM2ladHVDSDhzem5JdUJYc0NGQVFwUGFHalgxUkFFR3NSNDJMa0hOX3pOdzJEOWtJZ1BITlBzWXhQSlZMQkUyTWpzYnk0Vi1WcTg1RkMweEJXQm5FdnFzamdiZ1NKYkV2S1hJZw?oc=5",
+      "publishedAt": "2026-11-01T15:59:11+08:00"
     },
     {
       "title": "Mauritius’ rare homegrown coffee embarks on aromatic journey to China",
@@ -68,10 +60,22 @@
       "publishedAt": "2026-10-31T19:25:50+08:00"
     },
     {
-      "title": "INS Tarkash Calls at Port Louis, Mauritius",
-      "source": "SP's Naval Forces",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcU1aLXUyMl9ISXo5ajVuNTQwWk5HSHdiQ1N5b0xyT0ZIa0xnWGpESlA4c2FrRXpaczcwR291ZGEyY2E5NnFrbmhkVkEwS0pnZ1Y5WnBpdXJJOWlaRmFqU0tjSTZObk5ELS1QVnAtS2NKcWdzYXNWc1hhT3JDRk85VTNIN0VSMVFsMnZqcWtoZG9sQQ?oc=5",
-      "publishedAt": "2026-10-31T17:05:10+08:00"
+      "title": "Zimbabwe’s Bard Santner Explores Mauritius Expansion After Presidential Meeting",
+      "source": "AfricaBrief",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSVJkS3hpWThtU2dsdlZrQ0ZQcUxpU3RReEh4Q1RKeWxXTldBaWx5Vk1DM0lVbUtsTkx0SkV0YTZQaU9BX184dXMwcG15R2k1YktfeGY2TmlfU0NvbkRDNUk2YVhscXFSV1FONU5WODJ4RGJkNTVwTDNHTHF5ZkQxZkRn?oc=5",
+      "publishedAt": "2026-10-31T16:21:49+08:00"
+    },
+    {
+      "title": "Spider found in Mauritius like discovering 'hidden treasure'",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpNjYyUFRObDdrWWhnWWU3WHFXcW8yc2w0RnBGUjllQjVFTWdvajlXc3oyWTJiQnNQRnl0REtWU2tLUzdHRzZlaHd2Q05rMjJMSEZNRld4NWVTR00?oc=5",
+      "publishedAt": "2026-10-31T15:15:13+08:00"
+    },
+    {
+      "title": "Mauritius lifts nighttime curfew after police shooting sparks protests",
+      "source": "TRT Afrika",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlMkgwMVU0V0NBNWp6YUlWcXpvRjAtdksxci0tYmNvYTk4OHRhUzcyS0RJTU9CM1hNNjRLbnZIeTllclFuT3JOSlNtbk96T1pWX0pReXRBZ0ttQjc4andha19pRTM?oc=5",
+      "publishedAt": "2026-10-31T07:30:05+08:00"
     }
   ]
 }

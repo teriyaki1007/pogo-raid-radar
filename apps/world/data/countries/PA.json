@@ -1,11 +1,15 @@
 {
   "iso2": "PA",
   "name": "Panama",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Panama City"
+    },
+    {
+      "label": "Population",
+      "value": "4,571,189 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Why This Oceanfront Hotel in Panama’s Historic Quarter Is Our Favorite in the Country",
+      "source": "Caribbean Journal",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0ybGRHUk9VVVQxSk9aWUV0SllhUEVzX0xDMHA4dnRpRFExWFNRODk3dEI5UWw4b1JfcWQ0akJfbDJnZkh5SlZXMHJGV1pxY2FNSHZSY3JUa3F5QnAyellvSzcxbmJqdkU3VE0xeWxOSHZFTzNQSjJsOVQ3dWU?oc=5",
+      "publishedAt": "2026-11-02T06:14:15+08:00"
+    },
+    {
+      "title": "Heavy rain brings flooding to Panama City, up to 8 inches of rainfall in Bay County",
+      "source": "WJHG",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xQ2l3UksxZUg0bWpaMUswcWRIcFk5ZlFaUElDMWpTYWl6VkJEZktKdUxWR1pob25qUnBUUWNFdURNOUpxV0U2OWI1Y1F2RDZSdXpjclZGVE9EODFtWnVaYl9JWVNnZUoxa29fWUJPRVd6ejdGZ01rRW1uOFrSAZABQVVfeXFMUFNGRThndXRLdVVMZEo4aFZDRXJHa2c3YmRHZ0syb2dTVC1UOXJvbnE3STByLXpXb3NQSWlpaW8wNG85VmpweTctR3liU29JRWNuZFhzRjBvM0EzaEZ2VzhlWW9lTzRaWWRKTHFaY2s4SWRFSEthT0pVZ3B4RkhrdVRvVU9TOG9zZ2V2eFplbDBW?oc=5",
+      "publishedAt": "2026-11-02T05:27:00+08:00"
+    },
     {
       "title": "Mary Lou Hawley Obituary (2026) - Panama City, FL - Kent-Forest Lawn Funeral Home and Cemeteries",
       "source": "Legacy | Obituary",
@@ -56,22 +72,10 @@
       "publishedAt": "2026-11-01T21:10:58+08:00"
     },
     {
-      "title": "Viral video shows 7.7-magnitude earthquake hitting Panama | Tap to know more | Inshorts",
-      "source": "Inshorts",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzRnX3dCazFrU255X1Y2MURCZFBiZE1SczRpUUgxTDJPZXY1LTBSZzlzblpJMzFHRGlSX3VwV25IZGNoa09FTl9XVEtRWDVFbk01S2dpTkJ4aFNJQzR1NC1xZWZWQm55WXJ3WFQzaTBXZU13ZmZtdm1tRzZvRVMybDBVcWpwMFR5UXpuckNoSEhiSjlFb1lhbTJYMW1OM0tkZWfSAacBQVVfeXFMUG9zY3IyNXpzU2NlQ1NMenpNbTVyb2R1bTNlb3gwdkl3N1REbXBveWVRQWF3OWZ2SlZhNW8xX1VmMUFYZEFjYVVaLWtiSUNMTFc1YUEzZFI1Rnh0SmJzTEFBMlNXcGVIVlV2aDNwWjlleGt3b0pSdEtUUGJGcE5INFYxZ1J2bDc5MjBNUUJ0aE1NNDVmRi1rdGNVYk9FTy14YWZlTU1hYlU?oc=5",
-      "publishedAt": "2026-11-01T17:28:43+08:00"
-    },
-    {
       "title": "Ecuador beats Panama by two votes to host 2028 UN biodiversity summit",
       "source": "The Climate Watch",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQkFVVmQyY1RVcFlkNkVzTHNMSU1STGN3cVB3S1B0aHlzTGR4WGtINDNNV3g4elQzNHNWMnFGai1NV0ZrYzRqTURrU2gxRWJLWGxsYXJKMkppMjB0Z2otSVJrTEZYV3RaUTJsd18xTVQ4ejBaNTQtMF84LWdqeGZIeXJ3ZEMzWS1ucDk0bEl2WDlickViNzhOV0xUQ1RMUzA?oc=5",
       "publishedAt": "2026-11-01T15:00:00+08:00"
-    },
-    {
-      "title": "‘I wouldn’t have my daughter’: Mom grateful for good Samaritans in Panama City Marina accident",
-      "source": "WJHG",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONDBiWGEyU0ttMTIzVmxqOVFVVFoyREUwcTQ2b0d2UXVZQy1zMTZ2WmJONnZfS1NLOGVVMnNFVGlhV3lVamNNeVZ3aXh0d3NKbzlHZGlPUE9TOHNUUUlEZnQ2NTVtQ25Pb0RuQU5lZHpIVEU2dUgwRGtWeHBLTnYxbk9BVG9fdWpqNV9iVllvX3ZwenhlVFhNeXRWUkdLZXNaU0hlMF92T0I2ZEQwMC1pVnAzb1BpWEHSAcsBQVVfeXFMUDVFeXRjS3l5Wk9MMzZmM2pfV25mOWd1aENQR0diRDRjbUVGX29qQ2dkTVd5RzN5a1VlT0ZLOFRMSDdldmpQQVM2WVJEMmxYS043Nks5U3FNV2xzWlVJNVBqc1NibnRtazd0TkVNaDR4TVdTc3N3cUVlR0JRcmxBOVFsRWx0dzNLQWxzOTZIelQ4aDc0c1gwQVdXZTItckxqTVBfMzlRX0E2VXhFaWFraWs4dzFuU3BnaHd6UjZMZHJZTmY2V0pXekRtaW8?oc=5",
-      "publishedAt": "2026-11-01T12:27:00+08:00"
     }
   ]
 }

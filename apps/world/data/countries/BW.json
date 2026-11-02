@@ -1,11 +1,15 @@
 {
   "iso2": "BW",
   "name": "Botswana",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Gaborone"
+    },
+    {
+      "label": "Population",
+      "value": "2,562,122 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -32,16 +36,16 @@
       "publishedAt": "2026-11-02T04:14:07+08:00"
     },
     {
-      "title": "Letsholonyane bounces back in Botswana title race",
-      "source": "KickOff",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYTRyMmw0YU5INUU0ZEdkRmc5Qm44TThjS19vNFd5Sm1tci1aOENpbFljZVVJVmU0RUU4TUR4cVNhX1dTM2J5M1hzcUFXbUpSUlVnMEZ3ZHFCM3lKTVJuanZfbUs2NF9OTWMxYXdTeEtWSS0tQTR0ekZQMHA2ZkpDdU5tX3ZCV3pxcG9IZVA1VlhNOVZlRUJWVTljVngyYUE4SzNoTm5lNDNMTFNqWTZuTlM3eDBabjVZN01nZE1n?oc=5",
-      "publishedAt": "2026-11-02T03:18:48+08:00"
-    },
-    {
       "title": "BOTSWANA-GABORONE-CHINA-FRIENDSHIP-EVENT",
       "source": "Big News Network.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd1JRcGIzc01jaE15c0F5anRMS2wzb0F6dFlCQkIxWEtsb0MyVHBZamVKa2lsWVVsRVdOcEFZV25QenhxMGZjU0czekZRcVVUVkRPYTZkSGRYNmpKY2xEUUFFaG9vOUhhMnJVbGJ3SlFSWDZsS0N5aVpGYzVRNVctaGt4cm13NFdVYVlrdDBjQQ?oc=5",
       "publishedAt": "2026-11-02T01:06:00+08:00"
+    },
+    {
+      "title": "Botswana, Chinese officials pledge closer cooperation at friendship event",
+      "source": "Xinhua",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdGE4Y2lVVFMtMzlWeC02VThpdkZXWjlaWWZkWEJIT3VKM0dIbzE2QWtBMVRtSzl2cS1yWFB5dlQ1RktnYWZNd05XY01IOE5UTHd0UlB4T3ZNX2E5ZUstQVpSU0licTk3ZWZfMkIwMFdKYXlDU05tcm1sR0FKM0FzYjJ0cWVVZw?oc=5",
+      "publishedAt": "2026-11-01T22:52:00+08:00"
     },
     {
       "title": "Botswana weighs $118mn De Beers stake increase to 25% as Signet, Richemont circle sale amid diamond slump",
@@ -50,28 +54,28 @@
       "publishedAt": "2026-11-01T20:27:22+08:00"
     },
     {
+      "title": "Letsholonyane bounces back in Botswana title race",
+      "source": "KickOff",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYTRyMmw0YU5INUU0ZEdkRmc5Qm44TThjS19vNFd5Sm1tci1aOENpbFljZVVJVmU0RUU4TUR4cVNhX1dTM2J5M1hzcUFXbUpSUlVnMEZ3ZHFCM3lKTVJuanZfbUs2NF9OTWMxYXdTeEtWSS0tQTR0ekZQMHA2ZkpDdU5tX3ZCV3pxcG9IZVA1VlhNOVZlRUJWVTljVngyYUE4SzNoTm5lNDNMTFNqWTZuTlM3eDBabjVZN01nZE1n?oc=5",
+      "publishedAt": "2026-11-01T14:21:19+08:00"
+    },
+    {
       "title": "SA suspends operations at border with Botswana, Beitbridge braces for more traffic",
       "source": "Herald.co.zw",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQnE1djg4a1RkWXdHN2d1aVhPSE9tNWhlNVAwUlRCY3BpZUUycXdxdFMtR3cyWHJ5bklsRVFBS1pnVm9yb3lBc21zZ3hYNjU5aVVjVmU0YnRwYmxCT2I3MjlweTNiMUR6MkhHOFpjQ2Zpd2N0a0VlY3lBczBBX2ZoREg1bjZOcTBCY1hIR0U1VVNjUTJzSmQ3ckdhQy0yRFFoNE9sSVY3ckRfZWVGTUZfcWpFM2JHZw?oc=5",
       "publishedAt": "2026-11-01T00:07:43+08:00"
     },
     {
-      "title": "SA, Botswana temporarily close Kopfontein border post",
-      "source": "Channel Africa",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa0pyWFdCRkw3c0xVVkNrQkhoeGs0MlI2VmZxeExqNXktR1hqLWxIZ3U5VHNRZjB4STNRbnNJeE9obGpvY08xMWM1WFVFQzlTQnJSOEFlYy0xam5VVnZuWFZ3M3g5U0JWUlFCQzlFa2FZLXgxYkRSelRqcjJZZE80TnBLaTFVRGV3SEpBSkVUWEx4cXh4a0kzMlZMZkM2UndXYjZ2blhubw?oc=5",
-      "publishedAt": "2026-10-31T18:29:57+08:00"
-    },
-    {
-      "title": "Namibia Adds Botswana to its Egg Export Market",
-      "source": "The Villager Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQWFPaXhPcUREdGhMejNsMl8zeDNObzlrTlh1Vng0c1M1V0cwaDVrVzVFaHAzZ3ZQeUt4MDMydzdIaFlPVFZsN0pfTDVYRnVHdDlSa0NIdnU4TTVSOS1oclpMbVNwa1p5VzBhcFduYVllTkoxbVFaWHlDSEpJOFk5SVlTdktzZ2VSbHdyU2o4YXQxUmdD?oc=5",
-      "publishedAt": "2026-10-31T18:02:22+08:00"
-    },
-    {
       "title": "BMA shuts down Kopfontein border post between South Africa and Botswana over infrastructure problems",
       "source": "IOL",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUkplakVSSWVQc1RaZkhzTlRvekFoVGFlNTMtZUFXelE4Y19YRjRKMWFWWk9mS3Y1RTA3N3AyN2lubGJtMTNFc3ByUkdpSXRrZC1TRTRkSVZJMWw0aWpmOTJ5Wnl6RHQ1a0psWkZwd3kwYjgyZzRZeXl1Z1JId1NNNV9xQWtxbU1sWldSbENUSXJDeXYwbEpDQmJvOHNBamkxbEpVT2dMN0JMVmJ0N0IxdWRyazE0dFotLVFraUc1b2RiRUNhSmxqdUo3ZHlYSE5PcjZjdHhkMUY5NnNWdHdKWjln?oc=5",
-      "publishedAt": "2026-10-31T17:34:10+08:00"
+      "publishedAt": "2026-10-31T17:35:25+08:00"
+    },
+    {
+      "title": "Almost half of Botswana’s new citizens since 2018 are Zimbabweans",
+      "source": "Pindula News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbHhiTnNKckZKSkhTT1BHWndSQlA3UUFKeFk5RTFSWmhiZnk3WnEzYWtmV0hzelVYZ1hoMnFtSWdrTV9GeWo2YWVWRXkxTm5Ec0tPOEE4RGp6aGYwRjU4MDNGT0M5LXR5UVVFWmdOeHN6eHNkd1ZZS2M5anFDUnYzZzR6Y0pHLWVrTUpUUzljQnRmNFFXWE80OWF4OGpKSUo5YWRQTjlR0gGuAUFVX3lxTFByRHRwUllBOGdFTTB0d3NSY3QtMkc5OV9iVmxxbjNiUXhVekU1ZWgwODJVUjJlTkpWaDZqbVc0VURrX1YzcHJOZTdsUHppLUJaaWZndTZFYm4taUctR0pFb3FsOXBDWnA3UUJpMzJldEZ4ZnR2SkctcllZSHNmaUloTl9KaGJtQ1I5Z3RVYllDR0o4RFpxeS12aUc2R2lqRU1qTUdaTi0yckhFYWZ0dw?oc=5",
+      "publishedAt": "2026-10-31T14:39:54+08:00"
     }
   ]
 }

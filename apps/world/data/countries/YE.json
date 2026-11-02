@@ -1,11 +1,15 @@
 {
   "iso2": "YE",
   "name": "Yemen",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Sana'a"
+    },
+    {
+      "label": "Population",
+      "value": "41,773,878 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "UN chief condemns death of staff member in Houthi detention in Yemen",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNjl4Q2x4WUkzWHFQdTMwNzJ1UmlGZjhNSXNRWGI2REhveFBjSjlZX3NIdGhXcmRoUzJ3cEVIYnphU1g2T0pxY2FIMjZxV2VDVXZKU21JU0pOaGJwU09kY1M1c1NESTlDbW5qTEZKQ3NRSmFkakdfYTgwYjB6WWVEQnc0ay1xUnFoMk42MHBsaHc1eGxOWGtlaFpMTXo0MWhqRWRvU01vdVVzTFdkX0xFdWlwQQ?oc=5",
+      "publishedAt": "2026-11-02T10:37:44+08:00"
+    },
+    {
+      "title": "Yemeni army says it neutralized nearly 500 Houthis in one day — Anadolu Agency",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPN3A2cXdhYWs4WGd0M1RJZktudm5HNktGNUJKa3VEamJBN0t0bTE0dTZkTG1sNVRUcW1CYTM4SndzV3V6OURfSXg0WVBzbzViSk9ZeTZIaF9Lc0NDUTJBeHpHSDFyQjFGc1ZYYkJJdGQ5dU1sT2pPYkRjY0lveGVDaGNGdEljeGVEOWEyekZhNndzZnBQYXlGSHgtTkhmQzVTVU9JX1F4NXVEc3pnTC1pZnRHUUJYQjZX?oc=5",
+      "publishedAt": "2026-11-02T10:32:42+08:00"
+    },
+    {
+      "title": "Yemeni army says nearly 500 Houthis ‘neutralized’ in latest operations",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmVySEdxNC1FZDRhajkyZHNMZUJwRy01d1FNSkdQUlNxWWpod1I5a3Z6bGZSSms4Yk1CQTFkNzRRQ3MxZVdoelR3cjRxMkROLTU5a3UySkJEWWF5d0lTOVZROGUweTJUbnZGT05YR1ZLdW9md1NkMUpNYzR2YWpjenFobWdFYUlFY1luQlFPWlZraDM0bmlLdHdJTjY5aHpWWjVGYU1Qb1JUS3RyU0hCcC1ONA?oc=5",
+      "publishedAt": "2026-11-02T10:05:53+08:00"
+    },
+    {
+      "title": "Houthi media says Saudi strikes target pier, vessel in Yemen port",
+      "source": "The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT0dmT2FDMEN2ZXdyWk84MjVvR2NCOTRieE5kOGlHcnVQaG14bGZoVXJpYTRENHVJWFNybUdpQXJJQW51cFUyY1YzcVRFd3FMUTl5VWtudTM2VDNPOXRqb0VlVk5QVjFsYjI0eEpTLVBraFBkcG1BLW9wUmh5ajhzb09PaDZiR3FkYmRHSFlEa3BWZUZPVWVaV215YktEeTdJaEY3VkpWc0dPLXF2dk1GRmpwc1lCWm8?oc=5",
+      "publishedAt": "2026-11-02T06:53:04+08:00"
+    },
+    {
+      "title": "Yemeni forces report 1,272 strikes on Houthis in 24 hours, retake positions in Al-Jawf",
+      "source": "Arab News PK",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSTM2dnZTN3RkR21NWXVPZUdqTjlBTWVTMXNoNUtDc1NVT1V6a2phUk5YdXBoYks1ZXFsOHNfcnBEUkZrMkM1Rl9HdWtKVEpoWGE4c00taDVYcVlvLVlleUxPT1V2YzlSejZKNnFKMk9XeXNmeTgxSEkzZ2pkRDg5T1N4MnhVemNOdWluQU02QXRfOWJIenRfdk5xQTZDX1Z0bE5XQXFJZXNaRTZqSnFMeWY5NDdhTUg0aUloVmlRZVBrS0xTSHNZ?oc=5",
+      "publishedAt": "2026-11-02T05:36:34+08:00"
+    },
+    {
+      "title": "Yemen: Gov’t Forces Accused of Refusing to Fight in Marib , Saada",
+      "source": "Yemen Online",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wenFtUkpFd0pvMjVLWnNDalh4cmpkRS1qU2xVTWxIb1VtR3RIRWhqT2lJdEJjZUV3bUdlV2pjRllvblhwaXl2ZzN0RlJCakxUVGdaeWVpQVF2Zw?oc=5",
+      "publishedAt": "2026-11-02T05:24:05+08:00"
+    },
+    {
       "title": "Yemen : Giants Brigades , Homeland Shield Forces Capture Strategic Positions in Lahj",
       "source": "Yemen Online",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHWHNCT1RERWlxZWktZXJIdEF0Nmg3NzdpZC1PRVdLclpncERON0laZmtKWmhvRmdmMk11UlRJTmxWZTNEdGFsbjZyaUxDRjNyLVN5WUhjMEJLUQ?oc=5",
@@ -36,42 +76,6 @@
       "source": "Arab News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTkxyWGN3YThNS1gzcVZudkRIdmtXSktfT3gtYy03a2xjSGhIQXRTMThWaUN1YlY5aHZ4YU9RUHFCcWgtSzg1b0xzT2gzOVRpSkZQaUVPb1hnUjhhaUttSVRnQURGN09velpxQmFkR25GX0xaOV9UYzZsUUl0dHM3UmFBY18ybW1IR3F1dGpoNC1jRE9wS2dSeTVua1MyNTJmdDRHSlE5QmR4WU0?oc=5",
       "publishedAt": "2026-11-02T04:25:55+08:00"
-    },
-    {
-      "title": "Saudi coalition announces operation against Houthi resources in Yemen — Anadolu Agency",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT2lRSXVzTmJfYlNFSXBOUk9lOGNRYVBLall2T0VBQ25OVkxnWVcwdnBhOG1qQzRmMUdtY3hYbnlDRWZncnNMaTU2VWpYMzNKdDRXWGhKZWNfeTVhM1VmMlVBb2R3SEM5N2pybl9WQzNjRXBLeFFFbDE0SW0xSmtXaEVjUktueDFST2NZdU9jMEJJdmt0WHRrWlJFekFoY3FjR3RXX1VLdEdYQnNGdXo3RmxPMUFWQlJuNmJObHdRcEJrQQ?oc=5",
-      "publishedAt": "2026-11-02T04:06:15+08:00"
-    },
-    {
-      "title": "More than 300,000 displaced in Yemen, most in 2 months",
-      "source": "Yemen Online",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxWjZLcDRhTnNPbjFEY3VHdEF3ZEtKVzB3Q2NYNldtNEV3cmpCT29RdzBWVFBUZFo1ckp3dE0yb1E2cGdxU2hrcXBsdS1vUlZEVEcyak9LSzYzUQ?oc=5",
-      "publishedAt": "2026-11-02T04:04:21+08:00"
-    },
-    {
-      "title": "Air strike said to hit communications network in Yemen",
-      "source": "Breakingthenews.net",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRXZOS2RjUy1MaUg0X3pwWVdBeFhUQTZTc2hFdExtYWpFUklQZ3BKU0J6bUtOTFN4RTdoWk9sTm9kRUw0NDhMSm1aSXJsbTRQV3cySHRzVE55T21LemdhTVdyU3RTSy15U2t2cW9tV0pjRWZkYWc4aU9BRkptQVptRW00VW5iNWR3OUFTeHJ6cVA2RmNYVEZCY1V6RFlNWlBh?oc=5",
-      "publishedAt": "2026-11-02T03:49:00+08:00"
-    },
-    {
-      "title": "Houthi media says Saudi strikes target pier, vessel in Yemen port",
-      "source": "Daily Sun",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDFrWXVFR1ZUQTg1MlcyQTdkWXcxdXJxSjdYVnEtZllvaGlSeTl2bmE4U1MyZC1zTmxfUU96ZTBMZUQ1VW9yS20zbUlMRncyNUVQTnJGYklaVGxHR0I5QXRSTXl4UmFURUgxQVJsMlNROEJfaEhnaDg0OWJJNGFDMEhqc3FjbmZsNlFrZHRxcnlRUWpYLWowbm0xdkNNTTJLNWZTbTdR?oc=5",
-      "publishedAt": "2026-11-02T03:36:30+08:00"
-    },
-    {
-      "title": "Air strike hits communication network in northern Yemen, Houthi-affiliated media reports",
-      "source": "Middle East Eye",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVUdQbkowNEFMWkVBU3hmcmxvU3pTOEpiSFY4eFNZNFRwMlBZTTdEeC1rYjI0NVYzLWJEa29UWFJZRUR3RjBlbW85WUVIa2NpNWI4MXJvQlEyeWNDUTIzaDY4SW5Hdzh1WFp4NUFMSkRXcFVhemgxamFEcUZQeWNMMlJkeTdNY1ZGajZzNFFuYnNyS001dkJTZlhBd01Tam9ydTRodVBZNU9mcVFEZE0wVUFUREdhTFk5cFVjRndNbTluUjJtX2c?oc=5",
-      "publishedAt": "2026-11-02T03:05:00+08:00"
-    },
-    {
-      "title": "Yemeni government forces seize strategic positions in al-Jawf",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZk1uY2xCSDBmUTdwRHZCRU1STTkxNWhyaWZ2Skpja29kY3J0bHdzZzZ3SmU4TWItaWltc295V1pMM0ZqMmRXUHBLdnlQeEdpNXprYlRUazdid2RtM21CRlJBQURxMEpreHhDZWFKNGFvcHc5VlBZNHZXc1NQUF8zVE5WMElySU9BemlYbFM1aTYzalBOSkRyV24taEVMam9jM05fedIBqgFBVV95cUxPcXZsS3ZzdC13Mm5aOUZ1aXJ0aEZGT2I3WGJIQVNaRVJQeTFSUUN2YXlBWWxya3RHWHVzZHVuUDlkMjN1b2h3RkRVY0lGbUJnYkxGQ29BTFBTMklJX1V4RlZBSjNrUlJqSWZOWW9jOUxoRFpRVXYxcTVVSVZHLXI1RmdDU3NqR2c2VkFiajRtQ0NjYW0xRFJhUExoVVJhQ2Q3aTJJR0lBNThsdw?oc=5",
-      "publishedAt": "2026-11-02T02:44:28+08:00"
     }
   ]
 }

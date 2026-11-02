@@ -1,11 +1,15 @@
 {
   "iso2": "NO",
   "name": "Norway",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Oslo"
+    },
+    {
+      "label": "Population",
+      "value": "5,610,870 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "'Make Shithouses Great Again'... Norway Hits Back at Trump's Insults with 'Luxury Restrooms'",
+      "source": "아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE02V0M0ck9EMlkydWpCX2V4aTJhSW42U1FBTzBHMnJBeXJ2M3d2aE12VGFOX0FWbHliaFlSekh3QXk0aXU3Q1FybDBZU1hUYUZrTG16WExGaTVYQ0VRNWYyNWhScXg?oc=5",
+      "publishedAt": "2026-11-02T10:28:34+08:00"
+    },
+    {
       "title": "Norway can help strengthen parliamentary democracy: Speaker",
       "source": "https://dailyasianage.com/",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV244b0JRWjBjQ3NzVk9qOEhOVWdqOVBYa2lFWDdMSUJKZktlNXVDY3g4SXRuSW0ybjJSMDl5Q1RGRE5TejMyeFpJdU9xMGJTM2JpU3RPcm5kcENTb3pxVGFnZEFEY0hPX3M3WUNQV0tKUnlDRGtzZ0g5MEp2NnR6TzRnd3l6c09mQ1JCN0JnSzRtdlFWNjI5Vl8wNVk?oc=5",
-      "publishedAt": "2026-11-02T02:00:00+08:00"
+      "publishedAt": "2026-11-02T08:01:59+08:00"
+    },
+    {
+      "title": "Norway: New appraisal well in the Afrodite discovery shows recoverable gas volumes may be more than twice as large as previously estimated",
+      "source": "energy-pedia",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPcFZiSndzaXpSNEo4NXA2c3MxSWllbmtOcEJ2SFp5V1BxQmJOSGtlaUVRWnZRaTNVTEM0X25vOGhRdnhfY2MwNkx3OXdTN1NBdVpDUGVCRmZSWFJXdWIySTBUU3did1FMTlQ3SXRjSTBndXFiekplR3Y5azgxWF9IRWFZcmpCc2JFbk85eHBHRERaRk5tdlJBa3ZVUkttYkQ4OWluUGxHVENEX09yNTA0YnFkNVFxZ2x0VlpKa1c4WnJTUXplRzJzWUt6bDNKRDlBZ25FWkE0T0h2ZEN4b0NtbmRCTFhBcW96bEZqMW5wNnJHNWlVN2J1akVmX29vTERrUGRIZ3hnVmwyb1NoRkp2MmM5bnJzcHFKUUl6VU9wSnk?oc=5",
+      "publishedAt": "2026-11-02T06:22:10+08:00"
+    },
+    {
+      "title": "Batteries Beat Norway’s Hydrogen Bulk Carriers on Cost in Two Modeled Routes",
+      "source": "CleanTechnica",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZURweF9Ndm5wRlpqRkZXYU5JNmZub09SMUpaZlBXWGpOUFBUX0tPczA5X2d5emJ6akRZNU9CTTJEQ2FRelliV25zZklkNUpzSTBXU0FDWEYySE4zNDNXeXNiRmUwVUR3ZW5JM29hdm4tNkxZOFItQ3loN29CZG5PWUxfTFhsaHlGU1BfNnVn?oc=5",
+      "publishedAt": "2026-11-02T04:52:23+08:00"
     },
     {
       "title": "Norway commits NOK 113 million to expand open satellite monitoring of nature",
       "source": "The Baltic Review",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XMkhZQTFUMTNNY0hYdkFLcmdfY0ZzbTJUbWxoWmloWWZIekhxTmpRQUlQSUp1T1AyRkFyR3FCWDYwZTBJU0VfdnBoejBUR0pObzZGS0dHN182U0lmRFhwUFF6c2VjMnNTSE9GelNRQzRXR3ptekNHcg?oc=5",
       "publishedAt": "2026-11-02T01:14:58+08:00"
+    },
+    {
+      "title": "Archaeologists Found a 66-Pound Stone Off Norway That May Be the World’s Oldest Anchor, Older Than the Bronze Age Record",
+      "source": "The Daily Galaxy",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CS1lyS2hGZXhIRG1VS0Yzem8xbXltblBBY2Fydm9aQUpqNUZRb3g1ajVHSFM4UzJ4dEFJQVRRSXRnbjF2blR5a3haUmoyb0I1YW9xWFF6TG5LQ3pBcEw5X05YaXBnZG40NldyczlMTFZybUI3U3pEbDd3?oc=5",
+      "publishedAt": "2026-11-02T00:15:00+08:00"
     },
     {
       "title": "Germany Is Building Tanks in Norway Again. This Time, Norway Invited Them",
@@ -48,30 +76,6 @@
       "source": "Azərtac",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRHhhbmRRQlRDS1VhbFlEbzdyN3RreXBzX0RkZUJHTjhlOVdHOXZDa2t4ZVRPOUxxWWJ3TmN5QmYyak1RLUd4SG9IckRMNTJ1M3dOcEhIT1JYdnJvejhralZJM29ROUR2dzBHbUN5MG1TS080aldlTlVraF9vQ3o2S0cyWVhBb0MxcG15bHlyejZJbHhNWEIwa3NtQ1hXR01WeW1tenNqcFF3aXQwalhWYXVsOG4zd0EyZ0k1QlMtc2hwaXRCZEp3WnZsYjNtemx2U3BvSHJfOXV5ZHZsemtmWk80ZEhLQk1ISVUwMA?oc=5",
       "publishedAt": "2026-11-01T23:59:00+08:00"
-    },
-    {
-      "title": "Norway can help strengthen parliamentary democracy: JS Speaker",
-      "source": "Dainik Amader Barta",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdGFCcERyUWp6b3lhaWFxNEIyUEF3dlpxYlRjLW5pbEtNVnRCVXdTd3l5RmJSU29wWWNGSmp2X3ZqSkVjY05PMGdDa0pvdk0yS0xSQ1lQSFBCUlM0RUtvZ0FVWWRnTHJvSzJ5bThZdTF1NnVTTGpwYWZkWENtR1EzcThTNW5RcGF5MDk3aDlWek9DUktHUlVyNlNwdXFsbHJWdER1ODRpbw?oc=5",
-      "publishedAt": "2026-11-01T22:22:08+08:00"
-    },
-    {
-      "title": "Scientists in Norway moved 20 Atlantic wolffish into coastal waters stripped bare by sea urchins, and what the fish did once winter was over is the part researchers find most interesting",
-      "source": "ECOticias.com - El Periódico Verde",
-      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQdGpEMWdXUmJjX0haNFp5eHgyXzg5ak0wNmc4SnZ5ZE9INDN0bXZKdUpaUlNYcDhsRzBoRW9FbXl4bmhnM3JpY00tQXBqRWs2N3hOd1JwbjJqRk1FTDlpQ3kwZUpSSEE3SDdvTTJranhTUlZnbDlPWWY4eUhra2xnNlBvQXFVdElxNnk5STllTXlaVmNsR0JkUW9qVGpIcXQ3bm1HSjFsSVFuaWlwWW1Ed1ByaEhhR3p3VDNXNEZuU1M5eG8taEtSb0xvZjBvdnAyRVhsbVFtallhbEdyRDF1Sm9zWEMxMlAxX0lzN0R5ZEsyWUJlVmxiVXdwSWRtZFJXVXh4RVozbTluaUZmM1B5VWtEejdiYjFjd3VIMmRmZFhncEM4ck5jOElSdjNobTkwSDBGMDJ6X1RQWGFmZXA3N19zZw?oc=5",
-      "publishedAt": "2026-11-01T22:05:00+08:00"
-    },
-    {
-      "title": "Leading goalscorer in Norway left in tears after allegedly being target of racist insults",
-      "source": "Flashscore.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNcHlSbUhoOEFyZHJPdVBsOFNrbm5xR0hZVk1kM3ZOUGJMemo2Z3R6MG13UWZhSEJGQUg0bmpqbXdzMDJhX0Y1NTlpemR4UXBnRU90R1N5aVBMQVlvdHJWT0tIZGFPTVg1bzdrSmVKN0U4c1FBdHhNRTlveVpvNVR4QWRjWGwyMGZCMGpPby0xd0dnSjZDUXdCclNZZE04bXZ4S3NLb0ViMUZoajJHdVR6Z1ZQclBTUHI5NF9kYjlzSkpqVUtEa1F2Z0d1NUZtWS0ySUN0MVliaWRaeTJhbGMwNndTX0E?oc=5",
-      "publishedAt": "2026-11-01T21:06:22+08:00"
-    },
-    {
-      "title": "Norway Assures Support to Bangladesh for Parliamentary Democracy and Human Rights Protection",
-      "source": "https://businessinbangladesh.com.bd/",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQVJVelZrNG0tajlySjdYTzJmUWdSVnBnQTNoRmtTWXlJY0J3bXkxY2dUcFA2dWU4ZDVwVlFEVWl5ekJMSHBGdnRRVUFwTFJyMXh0SUh2eEkzQm9tZEJ4QVpWYzNNNFFtN0pCXzBHcDlNek5NbTNvekdxd0V1OTdVWnB2MDVfR1FyVXliQUxVYTdJMDFPWTV4SXlpNy1uVmRzX1l5UHBhV3pVQVBaX3BsMHdaQUNkZ3JlMkdVR0w2RnlLUFBsbjRCTg?oc=5",
-      "publishedAt": "2026-11-01T21:03:47+08:00"
     }
   ]
 }

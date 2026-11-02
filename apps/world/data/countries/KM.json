@@ -1,11 +1,15 @@
 {
   "iso2": "KM",
   "name": "Comoros",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Moroni"
+    },
+    {
+      "label": "Population",
+      "value": "882,847 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "AFCON 2027 qualifiers: Claude Le Roy unveils Congo squad for double-header against Comoros",
+      "source": "Foot-Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdVNoeUVPV3hncjF3WmZqRzdoa1V0VHJpLWJ3eG4xajhoX1FIWEdkUWFQUVlzeHZfS2pnRmZCX3dzeTE2WTV6LUVSYmdxbW5QSGIzVmo0RzNCaEphTE1lcE9jQmxCMEZySHpjWk43OGc4bEctSHFZc0xXU1E5b2lBOVFpMUZkTzRRaVJaNVVfZWVpbTNsVndjVVlldDM1RTMyMGNhLVlYNW9Xb1FkOGg3YU5YMU80X0thbG9ONC1pbkFURUlZYm1pczBn?oc=5",
+      "publishedAt": "2026-10-31T02:08:38+08:00"
+    },
     {
       "title": "UAE President sends written message to President of Comoros inviting him to attend UN Water Conference 2026",
       "source": "www.wam.ae",

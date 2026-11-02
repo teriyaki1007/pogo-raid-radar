@@ -1,11 +1,15 @@
 {
   "iso2": "KI",
   "name": "Kiribati",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "South Tarawa"
+    },
+    {
+      "label": "Population",
+      "value": "136,488 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Five rescued in Kiribati after nearly three months at sea — ABC News Australia",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVlpeHZhU0dUZWVnM2docFQ3WDc0SzgzVlh4Q3ZSUDNGY2ZUR0Y2T1lwNDk5Y0dDQUhLUlE5a2IxMTVzdHJoTUtVRUdIZ3NYWWxyODdlZWRhejdGVXdVSFBOR0RKVXFTLU5CbUZvQ19ZNU9NU2xKVkFYOGZTSWZEYVJyQTV0cHBMZVdsc2pWX3ZSd1g4bThZVzRlUVY1b1ZuSEN0Z291aFdYMXRVZ3phb25oOS1IV2tUZEk0?oc=5",
+      "publishedAt": "2026-11-02T09:23:06+08:00"
+    },
     {
       "title": "CBD COP17: Turning promises into results for biodiversity gains in Kiribati",
       "source": "Post Courier",

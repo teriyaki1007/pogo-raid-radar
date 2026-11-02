@@ -1,11 +1,15 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Dublin"
+    },
+    {
+      "label": "Population",
+      "value": "5,484,367 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,9 +30,27 @@
   ],
   "headlines": [
     {
+      "title": "Myra’s Story – Gaiety Theatre, Dublin",
+      "source": "The Reviews Hub",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XVWFzWGlaRElsV2JoanlGUDhsNk5EcFJLdDI5c1FnZkRqWkxmeFR1UTByVzAwNHQ2ZU92VkVqNzJnVUF5ZFZGSExJMmVlekV4UHE1NEFUT3pRUG9fOXdBUDE0cE1zRjZ1amF2M1dtbWV2Zw?oc=5",
+      "publishedAt": "2026-11-02T09:05:04+08:00"
+    },
+    {
+      "title": "The Cure for Cancer – Project Arts Centre, Dublin",
+      "source": "The Reviews Hub",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRklRTml1RjVtNG52UzR0Q0RNaElGUzFucU51UUJWVjBOMVU1TEFXNnB6ZFhWQ0lndFpyM0tPMmRJRGRNZDlwYl85WldXYmNmMGROWkh2aHJpT2FWaUw0NjZlR091U1BKM2lFUk1UT0xyTzBpdW9fYmlkN05DaW85M0tvVQ?oc=5",
+      "publishedAt": "2026-11-02T08:49:11+08:00"
+    },
+    {
+      "title": "Google opens 2027 Dublin internships for students | ETIH EdTech News",
+      "source": "EdTech Innovation Hub",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaXd3NkpBcmp3bGFaWVpYTjN1RzY4bWFjVGU1TWJwOXN3dzl3dllEUm1kckNhbjljRnVrUFpab0xjMVRzMlMtdG9NNmlDYm5oM1dVcGZBZERndHE0OWRRUXFpUjc2N0dRclJQbHVDSFFRRS1MTUthTDRfYjlvZ2p6WHBOWFdQSmZJTFBRUjJxU1Z5N0tSQmF4VlRIV3ZGYjZzZUlTUFJTdzRCclNIUGoxLWI4WXFpd1VWMkNFY1lVWkpGWlQtTEp3S3ktSQ?oc=5",
+      "publishedAt": "2026-11-02T08:03:40+08:00"
+    },
+    {
       "title": "Tipperary ecovillage receives Ireland’s Greenest Village award at Dublin event",
-      "source": "Ireland Live News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU1QybHV3czl3LWtfeFUzeVlEMVhTcFNPZ1ZDemN1eUVpSE9MZ3dWQ1dCWHJZMXRmSVJBVkJaR2lYcjlxZkhVak9UQTlOT042cVZ5dHYyeHV1ZWRPWVFHOTlDWjVPazBsWEpOcGN5RU4xRktkRExQQTlvMWNkcVJoV3NqcGJad1VJNGtPYzNJNmRYVm5lVnZ5c0pKcnFKWlpIUHFCYUg1a01CQm5wTUZDbW9EV3duaktuQlBleWQ2NjR2aDBEUVFHWmJ2X0xNZlFRalZR?oc=5",
+      "source": "Tipperary Live",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc1p5aUdtMzNrRm9iTnBPNkI1NkU3QTJOVTNfYmZFRlpwX2pSRUtGRF9qUmxYNlJRYWktU0w0YmVzaW5kYjdwTGxSSVlUcmN1Z2EtZ0VHNFNMR0tQWS1yWWdZNnhPaVVJSEk2c095VC0xNUxqTS0taVpXWXJUdU1rR0Y0UERFdjQySXpVRGhFS0J6cGpDaGRGLVduV2tHeDVZM3J0amxSLTA1eFpMWFhYdG5XQVBqNWgtQmgw?oc=5",
       "publishedAt": "2026-11-02T05:00:00+08:00"
     },
     {
@@ -54,24 +76,6 @@
       "source": "Boxing Ireland",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBES0RRNzg2c2ZUMEVoRVM5blNBbnlFRHNDbTRvbW1BVFZ2U1NfUjlsNnJUaTc1cU1aekNzVGpQdWkzU3lIcmc3SzViWnNQSndBel9kWWd2eUVuOUdROTJndElXNDJoR0ZUMUktNkFVVHp0WkE?oc=5",
       "publishedAt": "2026-11-01T23:17:39+08:00"
-    },
-    {
-      "title": "Dublin Fire Brigade receives 1,600 calls in ‘busiest Halloween night in 15 years’",
-      "source": "Sunday World",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS0pIOUF1Z0xEQzZuNHg4a2puZ2g4bGprTXNFUDdHYmpPRDRtMFBxaWxKR2haVTNSV29qOW03M0dxbm14aFI1Q2M1anphRFFTMy1kWFdRemYydWtsQ2FlM05Jbk50Y2tTdWltckhhQlBqUkxvd1VRZWp2QWk5c1c3QXlaQVBkYTFVT0lLa3hlY09RNjE2UC1EYW1oQkdINFYtSWZJN3BDRjRFOFRiVzdGSFVPcmJoTDIzYkVRNWVqX2FOclNtNUFPZXZR?oc=5",
-      "publishedAt": "2026-11-01T19:38:05+08:00"
-    },
-    {
-      "title": "Portlaoise athlete claims All-Ireland Schools title",
-      "source": "Ireland Live News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWU56VUVsakZHTlRPS0NIbWxncjQtX0dVazR5TVA5bG9EMHA4TWVYd1o5WHJ2WUo1Wlk5MTdWcDg4Tk5aZmt2SEN6dmtXX2VxZnQwV3pncnhHcU95ZDJFTFUzajYyaEZ3X1UtYm1aRkdGYnRXME1MX1RpMDZaLXJxYTNuMmpKWHZvLUREZDFRWGlMcXlKMmVuanlCY0JmNmdza3o3b29BUmVKVnc?oc=5",
-      "publishedAt": "2026-11-01T17:38:00+08:00"
-    },
-    {
-      "title": "Stevie Wonder plays Dublin on 1 November at 3Arena",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbnFJZ0piV3hyTWYtU3RZby1hQVZXX1BWSmRzTHZSRVNKWXdSb3E3eVYwMnotcFJ4TTcyRUxwQVpsU25jM2pqclliNEJqZF82SHVzV3pya0RPV3NxYzJhTkNqbTNFMHo2eExRcjJZbUN2YVpiT2ZLRXo3c1NiQkU1RWk3RG5zTnVaOXdmMTlpSUlnTTJyMmhuSEFhUmxuNjkzU24tV3dvWHU?oc=5",
-      "publishedAt": "2026-11-01T17:15:29+08:00"
     }
   ]
 }

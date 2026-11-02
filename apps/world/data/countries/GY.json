@@ -1,11 +1,15 @@
 {
   "iso2": "GY",
   "name": "Guyana",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Georgetown"
+    },
+    {
+      "label": "Population",
+      "value": "835,986 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,16 @@
   ],
   "headlines": [
     {
-      "title": "King Charles praises Guyana's forest conservation efforts",
-      "source": "Caribbean National Weekly",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSEZWRXNDRDhlWWFhbThTMVFoWVVTdkNQbjc1TXQ1SlVtczBWNGdNc1A1U1N4THdPVmFkWmg1SVlfSXMtTDBlbDcxeUxzVi1qVmhoblhONWxPRHVWN0xWWmtHcHQ2S2R5bnQxaUNCZTVINmJrN1J3YzRaMXY4WlBJdmNBZUVMakRkX2RiUDNteTdJekFyNmprbF82bFBBNk9GbUVmeg?oc=5",
-      "publishedAt": "2026-11-02T02:59:23+08:00"
-    },
-    {
       "title": "Guyana Opposition Leader Azruddin Mohamed remanded over cybercrime",
       "source": "Caribbean National Weekly",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3Y0UGZnNHVCTzA0TnVMS3UwQm51SWE1VE40eFBsVTZLYXdRNkFmVWZvMFpENnNFWElDZk1Dc3I3QUxmOXRMYWF5dTZqWUZ3eE9IWWxiQVJucDlRQWVqeFpncWtVMlQ5V2JhUGZqUVhRRXFkLUdNM0tWVURDaVE0R2xaekhpV3ZQbm5qeTh3NmYwVFFueUJwazVNNHQ3UFZWYVpDaTI4dFJ1bENOQnIySkx3?oc=5",
-      "publishedAt": "2026-11-02T02:59:23+08:00"
+      "publishedAt": "2026-11-02T07:38:13+08:00"
+    },
+    {
+      "title": "King Charles praises Guyana's forest conservation efforts",
+      "source": "Caribbean National Weekly",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSEZWRXNDRDhlWWFhbThTMVFoWVVTdkNQbjc1TXQ1SlVtczBWNGdNc1A1U1N4THdPVmFkWmg1SVlfSXMtTDBlbDcxeUxzVi1qVmhoblhONWxPRHVWN0xWWmtHcHQ2S2R5bnQxaUNCZTVINmJrN1J3YzRaMXY4WlBJdmNBZUVMakRkX2RiUDNteTdJekFyNmprbF82bFBBNk9GbUVmeg?oc=5",
+      "publishedAt": "2026-11-02T07:32:59+08:00"
     },
     {
       "title": "Venezuelan diver here to refloat MV Barima dies in Guyanese waters",
@@ -44,16 +48,16 @@
       "publishedAt": "2026-11-02T02:19:46+08:00"
     },
     {
-      "title": "One Communications completes nationwide 2G shutdown, advances network modernisation in Guyana",
-      "source": "Demerara Waves Online News- Guyana",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTHVEbVJiSmdPTWMwb05iOGJ2M1pLN3AwaEVEZmZweFRSQk1wcldMMnB1ejRLemIxRWloT3doamVlazFESkJRRU1mSjdVUE9MV3pJT1hOaG96dmlfT2ktdkJiNjV6UWFQblBiNmw3LThrbkJDbk4xdGM2bVJRTm1USU9xVXNDa3VZSGxaUXdoODRvOURFMkRtdTNiV2x0VkdoMDlVQ1lsel8yN0dkN0QyblcyTDhId1lwMk9GY3ZfSUV5LTd3WDVJc1V3?oc=5",
-      "publishedAt": "2026-11-01T19:55:46+08:00"
+      "title": "Guyana’s honey production nears 50,000-gallon mark as sector expands",
+      "source": "EIN News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOWJlMU0yVWl1UG1rRlI0cE9pWU9CeEJBX1VSUUJMSWNLa2xrOHJnTnpNbVBxNDBGZFFfWG9kQVk0S3JnODJfSU9BZGJhMUZDamxwcmY3WW9PVlJpb0ZzeFBfcS1FRGJvNVBTbDJWTzMxZko0dUU1WXh2V0tQZV9KTG9NM1VQSVc2YkRBTnFMQWdqbGhLWUVPMmJmUU1NOU5WcXc3R3pwU1RYYlJ5eWpr?oc=5",
+      "publishedAt": "2026-11-01T20:14:00+08:00"
     },
     {
-      "title": "Land of Many Futures: Hetmyer joins young guardians of Guyana’s nature",
-      "source": "News Room Guyana",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckJodlJRcGoxSnlhTmRZbFg4S05obHkzMTYwUE9Sckt1M051d3MwaFlxVW5HcUlVdUZmemJzSnJHeHVxdDhmeUZKS2NRYklQb1c5aHRkT1IzMnpXUFFKZU9xSVVkdjNWV3FtU1Z4YlgyQm1lcUZ3RkM5Y2hnTktmazhfUXRnMERybWR4emtJbjVnRjlmck8zYlpSNUp6b08xanc?oc=5",
-      "publishedAt": "2026-11-01T18:02:06+08:00"
+      "title": "Guyana’s biodiversity leadership: A model for Amazon countries – former Colombian president",
+      "source": "EIN News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmF3RTU4X3FWQ01zUm12dmdnQnpodWR1YzhkMVBRSlpTMHpHLWxRWXc0REZPNndBYzU0WVlXdWdmTXk4MzVEdXM2Zm8xYTVPQWFZOEhZd3A5REVaVUhLMnNYQmJ4RG9qdHFoMHJ4bDdkaEtaU0lranR4ZHg3UVZQcm5MckVGdzk5SjFOdnhlbVhmZjlId1BDWm5EdUhyZXV4cXliUG9aNW9QMXJEUzJhSmMzSm5Oa1pHS0JfOGxUbG1Xem81VTNYNzdR?oc=5",
+      "publishedAt": "2026-11-01T20:14:00+08:00"
     },
     {
       "title": "Gov’t taking recruitment drives overseas to attract skilled Guyanese home – Ramsaroop",
@@ -68,10 +72,10 @@
       "publishedAt": "2026-11-01T16:20:32+08:00"
     },
     {
-      "title": "Guyana Opposition leader, policeman jailed on cybercrime charge",
-      "source": "Jamaica Observer",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRmxGLTFNSWY1SFF2Vk8tOWlCWW9YNGZvLXpPSzZXQ2NiVllUcGw4Q2ZWNGFlby0wLUlxQjhEd190aGFuNUNuSnZCV3N3WERmY04tc2FybG9Hemg4YkFHUTlvRHkyb0JELTRLWXM5Q21qc3doMUNrNVhaeDYxakFmNkl4ZkUtaW9zV2k1U3FCVDRVRk5yOHA0SzFUT25BQzlSTE1SR2V3?oc=5",
-      "publishedAt": "2026-11-01T04:28:07+08:00"
+      "title": "Guyana’s ‘Queen of the River’, the Victoria amazonica at the heart of botanical collaboration with Royal Gardens",
+      "source": "Demerara Waves Online News- Guyana",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSmhIUVNrcHpKa3JZT09pMVFlNnYwUEYtX2NNd29DaGJfeWtrLW82bVNXQUpoSzlYRVVic2RCRV85VDBFY2RrcW5aS09pRE4xNzNtQ2lpVEFMUHZRR29kUzZDQzB0ZzNUWUtnUUJoVkkwRjFYUlZvREx1UjE3dUt1eXZsamNrZ0duTnpyWF84UlE2VmtGR0wyamRHTmw4WXB2NG1pelFrTmpTdk16UVgtZVoyM1RaaTcwMW9IbS1QNkxjak1xd3FKZkJhcnB6RkJ4aWFUTVhhVFpzQk9jTE1j?oc=5",
+      "publishedAt": "2026-11-01T13:16:32+08:00"
     }
   ]
 }

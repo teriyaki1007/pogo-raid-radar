@@ -1,11 +1,15 @@
 {
   "iso2": "CM",
   "name": "Cameroon",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Yaoundé"
+    },
+    {
+      "label": "Population",
+      "value": "29,879,337 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "Cameroon Finds 3,914 Fintech Security Vulnerabilities After Earlier Audits Flagged Over 6,500",
+      "source": "Business in Cameroon",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMmxzVGlqekZacERoUEZvWlNuNHZWMW1HSlQyT1BhZlM1a3d0R2JRY3JvbHZaZm1YbHF6SEpQX2dnazJmN1Juekt6Q3JZYkRjRmVVYTBYaW1oM1NMSzlGcjZKb1JPR3ozOGR3N29pYU5oTW1qeUlFR19SdnY1cFExYThmajB3Unk3TC03XzItM2l0MU1iRGlMSHY1OGRDZ2JGakRVWk1GV0lUOWVHdmppVXY3WVlvMllhc29NTUgwc2ZxWm0xVjhxano0Z29KWGpJWVByWmRVMzk5SzY1VUR5Y3VBbkoxWjJEcjg4WWR3?oc=5",
+      "publishedAt": "2026-11-02T10:06:26+08:00"
+    },
+    {
+      "title": "Cameroon: Only 43% of Registered Bakeries Certified as Regulators Tighten Quality Controls",
+      "source": "Business in Cameroon",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTi1zYkRORjZRNkNoQzlQOFJaSVhCWmFkS1dBRGJZa3U2VXRtS3J5YjFaVktqQmpJUTBodm9acU9jYkgwRXZwZVdVVG15U0paRGxIQ0V2STY2OTJ1QjZmcHZoM2F0V2hQT2VNM2F5cDNZSFF2OGdFU2Rnc2xQQjhtaWxiNEh0ZmhYNGlxeUxqek1MZ3BaV0JVVTZaVFNyNVNKdXJMeGdKNkQxYXREUkpOdnJTNHVvUGNDYURNN3NXRGpKMFh3YWZGd2FrWkhKUksyTUhZYWlsZER1LURzNlFvZTZJaGZfcEk?oc=5",
+      "publishedAt": "2026-11-02T09:56:24+08:00"
+    },
+    {
+      "title": "Cameroon Food Security Outlook Update, October 2026 - May 2027: Conflict compounded by rainfall deficits to sustain elevated assistance needs through May",
+      "source": "ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQQXdjTmNrNkdrSFgzbTlfQWZUSFJWWG1QdmpXVWVBUUdtVThSX2dySWtsWUdKcGUwcF9DOGtHaElEMnFzQ0Z3SWExTFdjcGJYZ0l0OEJwRUxyUGI1alN2dExmMDZTR1lTcHd0OXdwZ2p3QVhzcnB3S3BCSFlYX0ZJUS1iNV9aMG5GcWlIeWVhYUxLdEh2Wm50elFvWGlJZDNIZlRYOWUwdHNnMVJxcHJ1bGtxcVZBZEFnajlrNkNNQ2hKLVpVaDlPeDJHWnMwYlA3Mmh4YjVDZWxncGdUVmJKdllha2NJbFBEdDJmeVRCc29Melc4bWkxTDFCa0ZnYWZOSkhIaEwyV25EaTlPU2c?oc=5",
+      "publishedAt": "2026-11-02T09:46:03+08:00"
+    },
+    {
+      "title": "As President Paul Biya returns to Cameroon, can he still rule?",
+      "source": "Genocide Watch",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdXRXeDBVbTd5X0hSeTduTEhOTVUtVEtud200Mllkc0ZURTJHOHpScGcyS25LaVZFV2o1eDB0R0VuaDlnZ3BQVlJQZXVoTEhtb0VPUXBiOVp6OW1WMThibTdkT1FTTTRxOHQ5aFV1dFlMVVN6VU0tQTRMRllrUVQ4X1k1UmNSd0NOWTQzM0hkeEJSTFNtaWtIOEM3cWhvOVZHX01YcA?oc=5",
+      "publishedAt": "2026-11-02T05:17:25+08:00"
+    },
+    {
       "title": "MELFI (ITA) scores hat trick as Italy open Dakar 2026 women’s futsal campaign with 4-2 win over Cameroon",
       "source": "www.olympics.com",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaWdDb1IzeGt5LUV1dFdXUFc2cVJYcm1pSnM0U2NseC0zZDZDVV9VdnkwUVgtN3N4MFJSdWVVdmRUU2RDWUdNVHZvMXliQU9qSENwb0l0bG9WbnhFbWRTNFRkUU5aM3pOOW4zOEswWC02aThNSmNtWVJ5NmR4Qkk3VU5fTzJVSHEwUk9tcnFUenBtRnNkVEN3V1BIdHUtVXR3Qk5wb3hZUWE0YWg1Y2tXOTNjUmJrWXJ3ZWpwWnNnOGFpY3dteEplWTljRjR2Y0sxSkM5WUZ1T19KZGs5b0k5N2tpcU9vM29Mc0taQ1FSdW0zM1lhQ1BkbEdTWmRoZw?oc=5",
@@ -38,12 +66,6 @@
       "publishedAt": "2026-11-01T23:24:30+08:00"
     },
     {
-      "title": "Dangote refinery begins fuel supply to Cameroon after initial visit to revive 45-yr refinery",
-      "source": "Businessamlive",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWFVvZk1yYXNjYVJ2TEF2bkt6TVROcEd5S0I1ODZSM19BVFlobnZMSTJ4cC1TbVdLZU1vYXI3bTZIa3p5TEtIY3dDTUxYVlZGXzlKUFdPZjF2amx5V2FtcGhOWEZ1dFQ0cUE1Rjc5NkJxdkJFUjl0XzR4d0U1Q1ljS3d3dHk1WjhpSHBQZV9YUzZwMHl6TTJqMEpqTUpfMXczLWFuSTg1anRUYUJfdzNlTzhxZWY4SGdEY21lVw?oc=5",
-      "publishedAt": "2026-11-01T21:35:15+08:00"
-    },
-    {
       "title": "Cameroon: Arrears for flagship hydroelectric plant almost exhausted guarantee",
       "source": "African Energy",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNai1kQjNsalV1ektvVUsxbGFDTU5TeVVzci11UmR3NEVsNWMzUk9IWUp4dG1yeDgydktxYkExREVCUFJ6M0laVEtrd0RLdWRPZ3Z2Y2xJcE4zMlZtRXZPRFBjcjFnOFhlMUpPVlBrY0VlWm16bWhzQ1F1bE1YS2xHYTBJcVRQZ3g4eDRaT1NYU3BuQUVRRHpQOWpYQjhsXzB4Znk0NVl0c0NHQ0FyMlpIQTZ3?oc=5",
@@ -54,24 +76,6 @@
       "source": "Big News Network.com",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMW5Xalowa3pldEg0Z1oxNlhtdU5RWXpPSW80N2plaW5qUXBud0x4R0FLWU82Ri10YTU0ZG9iaTA5cXUyRXMzaHpBVFJJaVd1azludjhFWU80OWxMR2dEc3pnTGNCcjJuSndtNVp1bHZmRnJaaGZ0YW5vejYxS2IxNExhMlNBSzZpaGdV?oc=5",
       "publishedAt": "2026-11-01T21:19:00+08:00"
-    },
-    {
-      "title": "Dangote Sets Up New Oil and Gas Company in Cameroon",
-      "source": "Africa Oil+Gas Report",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPU2JYV2tESlFIQ3hFTXFDUE1MREZXR2RPekxoalo3Y0lPbWpSRlZoRnZsZ0t5TmlJUldMY0VaOC1PVmxQb2RkcWVuQlZrbWxfS0RmYy03U3JNMkJkbE1sLUt4b0V6SkxrQy1VODZxMHZLa3dQQ3JLS3dwWG9SQ3JPeUxmMmV5YUJXN3pTLXkxVWQtWDlVTzNSWnU2QlZINm5jYnlGcFV4dm42RmpaaVllYzUtcEVKdGxhYndzcA?oc=5",
-      "publishedAt": "2026-11-01T16:00:36+08:00"
-    },
-    {
-      "title": "Documentary \"Kung Fu Dream\" premieres in Cameroon, celebrating China-Africa cultural ties",
-      "source": "Xinhua",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORkNMdldPWlhqNF9GSUQyejlZcDdGWEVzVEpOeDRvbFZCUjRJNGU1MF9aOFV3UnRVc0I4d1RoSXhWRXVUeUkzYmU2eGhvbExieUthMnlnNl9rQW1NTW1yZ3hDWi1GSTFMT3pyZXNwdHFqRnJwd1MzcGtwcTd5OGlOdUZlbmlWQQ?oc=5",
-      "publishedAt": "2026-11-01T14:42:45+08:00"
-    },
-    {
-      "title": "A Cameroon forest project includes Waza Park on 27 October",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWh0SEVpMk04QXB5QnhZaVdDcS1oR0xERWt4TTRqZWxpSTZHeGJLRmRrSE5ZTmlYM3dzZjROOXBreHVBdTlfZGI0RDY3Rnh1U2dQVlI3dXIxNW0tdkV6TExfSkFkTU5UOW9CcXJ2TE9yb3NJemE5QWtwVmhUelFUZVpBQlV4Zkd5dTNjaE13bk5OVkYwVWdrU25RQlNXMUNTVWVLSVNJTThUVzhSQUVyMVZmNk4?oc=5",
-      "publishedAt": "2026-11-01T02:09:46+08:00"
     }
   ]
 }

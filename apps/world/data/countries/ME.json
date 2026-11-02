@@ -1,11 +1,15 @@
 {
   "iso2": "ME",
   "name": "Montenegro",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Podgorica"
+    },
+    {
+      "label": "Population",
+      "value": "623,129 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Alta Bank Scandal Deepens as Montenegro Revokes Group's Payment Services License",
+      "source": "BGNES",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTHlNQzQyQU1qejVqYTNZVUZnVmFNTW8waDJSLU5CRlVsQW9xSWhDVm9jOE5YdHlIcjdvX21rby1FMWNUZWp1ZkFhbjM0YWJzQkY4bWt1VXB5eXNfckNUMUVuUTU3RjB1bzVtb010VDY2Q3dJZm9NclRseEFZelRMTjM1UHhhbWxsNkZ5UXpKSmJRYXFIeDZxZ1ozSXZlbFVUNGdGZlc3SGU0TFJTSkE?oc=5",
+      "publishedAt": "2026-11-02T09:54:55+08:00"
+    },
+    {
+      "title": "Slovenia Backs Montenegro’s EU Membership Bid",
+      "source": "BGNES",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWlN1Y05MSnlsS3BGNXZDc0pURUFQR3VFU1NiNzJPOXVxVkZWSkRFajI0bzVzM0k1d1U3VmhLTmdhbjROYkdGLUNaZWhuTTlfQ0pyZFNwUGVyTG9QYkhnMnVZQkdfZHFuSmtmVjdsd0ZGWW9LeUFBRmNXRTE5bEFVTUJ5VHpTUF9D?oc=5",
+      "publishedAt": "2026-11-02T08:27:01+08:00"
+    },
     {
       "title": "Official Trailer for Doc 'To Hold a Mountain' About a Montenegro Mama",
       "source": "FirstShowing.net",
@@ -50,28 +66,16 @@
       "publishedAt": "2026-11-02T00:52:05+08:00"
     },
     {
+      "title": "Spajic: We’ll show who defended state interests and who tried to destabilize Montenegro",
+      "source": "CdM",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzQ3VWU0cDR4M1JoWElFWDB4OUMxSmJHT253SnhqeTZsUmJ2a1IxQkRSQ21PZTVYY211eUV4djl3dEV2Q0VPWExCOC1rSUZqR2t1X1FzSVZZRFhzRXZvVXlPX0Y2alY1eTBGZmlhVVl2TlozY1g1X1BQQnVRd0dvR3RWSk9KWjVDWGFqSVpwcG5ubkYteEEwS0pCd21wbDZBNEN0LUpSM3RjU2VSTWhqQ19Jaw?oc=5",
+      "publishedAt": "2026-11-02T00:41:53+08:00"
+    },
+    {
       "title": "Students Detained Overnight in Montenegro After Making Double-Headed Eagle Gesture",
       "source": "Albanian Daily News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUzBvb2VlM3A4MUtWNnczTVJFTVBXNWdtTlNPdjF2MW5rSDUxSEJjbWZZc0JPbGRIeVlDVWhrak42eUpldlVvNEpDMzQzYVp0T3ZPbk5iZDVvV0toT3JTUEthRHRYQ2t2c053S0ZmU1lMNGhtM3otOExZNkZUVUp6bjRmM3FuZFZZdVBjMHJtWXo1TjV4VmhpZjR2QkxrMVVsSDcwRjNzdXhTTkN0UmZlOGlqaGpma2pO?oc=5",
       "publishedAt": "2026-11-02T00:38:27+08:00"
-    },
-    {
-      "title": "CIN-CG: FDI in Montenegro does not generate development - getting closer to the EU, but not to investments from European countries",
-      "source": "vijesti.me",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPYnVYVTFwNno1WXNSNENya3RPZTZsbGNfb3ZDbUI0YlJFX1QteWdybkd0VXJEZzVSQXJDTG82UTdLR2wxeHZwSVlXQ0lkRlVPb3VzTkFpV1ZGRVRtRFRCM01OV1lpTlZTMDlyVEk1TWN0aEFtQ3UtOVcxdmVDeXMxV0lxWDdzVlNZV1R0bWFuM0tuMG5TZ0hKWXlEQWdKWWhnX1M0d3BFdHlDVUFCc1VFMFFRcFRoQlNhSUluMk1OWDBIV210VW5MemVPdWIxS0hkVDZLcE9JTjRSbHk2T3JmUnBUTFN5RWc2cjdpYkQyYkFCZ2k2clRiTlVKLVJQUGRGNW4w0gHyAUFVX3lxTE14eWFTTWNMdW9IaUVaamJyeHBfZ1dDT1J5eWVCdDF0WTlNTzloWGVhUFJxeDVWVjZtbXhnZ1lJMEJDZTZ6UDNqZEVVT05fLWpHQktBS2pnUFI4NFBrYkIzYkdldlN5aUMwYmZBRG1RSnJIRURXU3d5NzFPSS1tWDNTMWpsRU8xaEVLM3cwN2Z3NFh4VUttd1BiVWZSWXVsdG92MFdJQkFuZkdFb0VQWWRuS0FDakxjMUc1X0hBSFpUc1EwZUlwN0dZUmhZNEs2dmpMcksxMUFZZDhBdXNWVGk5MXZEdHBySlgwblJXX2c2MXhn?oc=5",
-      "publishedAt": "2026-11-02T00:03:50+08:00"
-    },
-    {
-      "title": "Albanian Forum Held in Montenegro/ Kedhi: Patriots of the Highlands, Historical Dominance",
-      "source": "cna.al",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFE1d25ycTdvekdyMV9pM21xckNBOXN4RjRZR1N5QllqdmxFTWVkblAtX0lDenNVMHBEbjV3Q1FndnlheXRTSU91WGo2b1l0NGFmUkRWWWV0S281MTgxRm4zNzd5eEd4Nm5sZDFHRTJXS2hLVFg5a3ROOUpDMjlhaC1uaWZqY2RiRnpmUk5qX05fcG5heTNHRjlyLVF0Mi1RNXRXZHFRLTdody1hVGV2MFRFd3dyQQ?oc=5",
-      "publishedAt": "2026-11-01T21:03:00+08:00"
-    },
-    {
-      "title": "BACKGROUND OF MIHAILO ZINČUK’S MISSION IN MONTENEGRO: Helped to be discovered",
-      "source": "monitor.co.me",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcTFMMWkzak1ZNFRRVHRGWlcwdEl0RXpjbGQ0dENlVDB0R2ZtU2hTOWdoQU1uSHBxOGpWSDUzR0RYRHhWdWFlZmZVR0xBeE94TVNLQXhueHg2dG1STW9UTmoxc3Y0N1F6OFlrZXgzQ3F3U0NEUkxhcnJ4SUg3b3A2NmVESWV6bDAxR09qYU80cERQVTRnODZyaDJuZ29ZeVFUR2F6Uw?oc=5",
-      "publishedAt": "2026-11-01T19:50:21+08:00"
     }
   ]
 }

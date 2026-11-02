@@ -1,11 +1,15 @@
 {
   "iso2": "NE",
   "name": "Niger",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Niamey"
+    },
+    {
+      "label": "Population",
+      "value": "27,917,831 (2025, World Bank)"
     },
     {
       "label": "Region",

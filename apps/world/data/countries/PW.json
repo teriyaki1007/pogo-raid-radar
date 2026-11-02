@@ -1,11 +1,15 @@
 {
   "iso2": "PW",
   "name": "Palau",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Ngerulmud"
+    },
+    {
+      "label": "Population",
+      "value": "17,663 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,12 +30,6 @@
   ],
   "headlines": [
     {
-      "title": "Jorge Drexler: candombe, sympathy and 'Words of love' at the Palau Sant Jordi",
-      "source": "Diari ARA",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbEhDYlo3MlBMT2ZCWTJ6bHRwNDFON0M2YUhVaHRjRDkwWjU3WWRBd0NxMlZJSF9ZdkZYU2ZDZk1NaUV6LXRiY2lLT0lHQlp1UjRUQ2h1eDc3QS1BQ2lIMmhMR2ltTk95NG45UEo4SlNROHJWSVcwcXdTUFFuc0FHQ0xCYXNjM3lDaHE5d0E2ZHRXZ1IzeGRxMW80b0gya3dac2xQUlNYaG5tV0ZhN09KZkxjek0wZw?oc=5",
-      "publishedAt": "2026-11-01T16:57:21+08:00"
-    },
-    {
       "title": "Senegal vs Palau | Men's beach volleyball highlights | Dakar 2026",
       "source": "www.olympics.com",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc29NOHhpOFdUT3ZGQXAwUGtSdmZsZmt4X1ctNkgzWEV6czR1TVRQbk5KYWdRd0RLUHE4UGlwdVlQaDA2RFZqMm1LY1VoV1Q1UnNTWlVpaHlzcHpDd0hjRzJnQVNmRTVzOGlhM01wdWxsYlc5XzVZd0hlRl9KS0hJUEdpT01ld2x0UU85UXpOR3c?oc=5",
@@ -50,12 +48,6 @@
       "publishedAt": "2026-10-30T12:05:00+08:00"
     },
     {
-      "title": "Weiland: USD7M Palau facility is also for other Pacific jurisdictions",
-      "source": "Solomon Star News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWWpOUVlwRzJzdXpRdGt5X2hudDBGbUwxLURNYWYwQjg0WWdrSUxiQjFyYVFRZXc3S1Jlay0yOVcyX2U1V0pvZ2dKNE50ZVRodVBoUWllVE5iRE1vdGVWbjcwT0E4a3FsaVUyRThiYVloYlQ5bnJCX0FPbDJiOG0zYUlKd0UxNUpMbTF5TEc0VkR4RDdMT296dmFmaFZpVkJHMkZZ?oc=5",
-      "publishedAt": "2026-10-30T01:41:37+08:00"
-    },
-    {
       "title": "ASIA WATCH: Japanese recycling expert turns waste glass into Palau tourism success",
       "source": "Japan Wire by Kyodo News",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55WGNaS0JvalBubHFtOW4zQUQtT090YkE3RTdDUWhNN1FNcXhBWE1hSW5YZ1JIbXc2Q2pyMHRseFh3SXRmbUpqdTd5eFBoRGUyVzl6TXpEdnlNdw?oc=5",
@@ -68,10 +60,22 @@
       "publishedAt": "2026-10-29T07:14:44+08:00"
     },
     {
-      "title": "Pep Palau (Gastronomic Forum Barcelona): “Cooking is not archaeology: it reinvents tradition”",
-      "source": "The New Barcelona Post",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbDE4aDhpaTMtVUp0MmpaQlhrZ0tmSFlCUzRFMG5IRGVhUm1RSHRjTDdrZEN6SXpEUkVDZG04VXg2b204MHZhUzB5M2Jtd3ZaQTAwNW9aYzFFOEZTZm9Ubkh0Ym1WRXduUkdpaUFSR1lPWTRpNXgzRjhBZlBNYkdxNUdySGFYSnVPTWRBWHdyVFFCMWI1U0x1clBoSnU1TmpmQ2s2ZzU5aDZqc2xlT2Fj?oc=5",
-      "publishedAt": "2026-10-27T21:30:00+08:00"
+      "title": "Palau resists China to stand with Taipei: Lai",
+      "source": "Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PUHhjcmI2bzAxbjVJZHFmQkp5c1RZai00a3J2YjYwSDgtSjFBNzV5OWpJWGdtN1dGUmkyRmEtSlg5X0hxQnBlbDRVX2xGV2xYSUktdjZCMFJWTnUyVGJRSWFMVXE1MTh0bzZBMHlWcW1KcjVJTG5SUA?oc=5",
+      "publishedAt": "2026-10-19T15:00:00+08:00"
+    },
+    {
+      "title": "Pop star v dive-guide: Palau investigates confrontation at 30m",
+      "source": "Divernet",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQS3lEck10b0d5UFBGVjduWVlrMnAwRVRsRVQ5NWdNdDZTYXpESFNvUDVFWXZ3cmQtbGozWDhiUWl2TlJMOTVSMzZXZDdfWF9WaWhjamtKM1U3ZVJjM3VCVVhjSm5sbEl0VDdXd1JTZWVsZ2dpcmUwSGlCZGYtOVpwTkRhbWNJM0JJY3VIV1B3Wk5aanJ5R1N1TlpTcV9HMG9udXcwYWRyVzhvelFMUHNiUjdwa3M0QkFZREE?oc=5",
+      "publishedAt": "2026-10-18T15:00:00+08:00"
+    },
+    {
+      "title": "What is the average US tariff rate for Palau?",
+      "source": "USAFacts",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbE9wUHNfcWRXTXRoVGRFSGRLRTlFbUZ3aGR5NngtYkV0ay0ycjBXS29OOXJ1dGZlNEhzQWVINWhoSld4UlZkTUtJQU53eVRjX1hBRjF2SnFRZkhtVVMwWTVyXzAyUmRuZGdFV1Y4SU11YnlIbzgyT2hhOGFiWkdTWThuTWZ4MFMxMzVVajBkWTlYZw?oc=5",
+      "publishedAt": "2026-10-16T15:00:00+08:00"
     }
   ]
 }

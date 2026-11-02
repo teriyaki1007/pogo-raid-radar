@@ -1,11 +1,15 @@
 {
   "iso2": "GR",
   "name": "Greece",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Athens"
+    },
+    {
+      "label": "Population",
+      "value": "10,413,962 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Stefanos Tsitsipas and Maria Sakkari to reunite for Greece at United Cup 2027",
+      "source": "The Greek Herald",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3ppYk9OeU4zSFpvRWNTMDFRV1Z5eEJYbjZIWWRfdllNcmF3dUZyb3VMeE1DaldTNVhzY0NWbC1wM2hzeUk4ZHZ0cnhuSENhd09nVHJYOElwMlFnRE1WSy1EQnROel8wLU9oZ0ZvdVVpMDNTUVNka0ptZFlhS0RCcHFsQ2FUMDdVN1NJUWpaeE9MMXc0azJIUUg2UXFnR0RBLXJtWHZRSi1obWxFdUJ2bWRB?oc=5",
+      "publishedAt": "2026-11-02T09:20:58+08:00"
+    },
+    {
+      "title": "AHEPA’s bond with Greece is stronger than ever, says Supreme President",
+      "source": "The Orthodox Observer",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcjFaM3dRcnd5QkNvdlo5d0ZGbjdOSm9CeFdRcFlYNzRsWE81cmV0ajlSNTF3SXh6eE5SemF0X1VOQW5SS0NpdkVHcGtHZW1KZ0hpTGF0N2h4STdUUUluX0lveVhVOGRRLWJKdHFhaVFIVk1abkx2QlVaUzhVTUY4M25uX0F5NmFlM3lPZVVoMndlOGJoOE0yMXVkSE5LSWM?oc=5",
+      "publishedAt": "2026-11-02T06:11:08+08:00"
+    },
+    {
+      "title": "Eurovision 2027: These artists have submitted entries for Sing for Greece!",
+      "source": "Eurovision News | Music",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNkJaNW1SaFE3VUdmVXFfYmkyejlDTnJzS3dtOXlTUUlYVHd3MXZYM2lGZ052Q3JXYzd1ZGcxN2NERUNXcmJISWlEUDdwY04zYWpsRVhKcDljTHQ2VmtSUGFvbmoxSUt1UEZwZmFxOXBSUTVjVHRUSmFtLTFuMzYtWnE4SU03d1dmb3Z2bTRSSGJIMzBjQXlWdGUzTnk2Q2g2R1MxRXIyQzllQThxT1RZ?oc=5",
+      "publishedAt": "2026-11-02T06:10:28+08:00"
+    },
+    {
       "title": "Israeli elections and Greece",
       "source": "eKathimerini.com",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE45TE1HME5ZMDBxYk8zSGhmUGl5Y0plNEZGMzdUR3NPeExLX3Z5TDJhRzJoaTZhcjluY09URjh5SHlZYUdiTlNCSFhiU2x2bVRfMm9kTUZXbVhfZ2J3cm1tNF9sN05CRjhkZWEzOVFYUVBaYk5fOGcyb3hjbW5XZ2s?oc=5",
-      "publishedAt": "2026-11-02T04:37:30+08:00"
+      "publishedAt": "2026-11-02T04:42:18+08:00"
     },
     {
       "title": "Americans in Greece Turn Out for Midterm Elections",
@@ -54,24 +76,6 @@
       "source": "GreekReporter.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNakZnSDQweHp6OUFjZmowb2VSMjhIUzZxOFl2Q1NJbWNiSnh6aS1LNHZOY2dtRmpQN2pSaEtPQ0F6enhvWGxhbTZ5aHpleFY4Y3pSRlFMdUVkd29QQmZsVXNNT1llaTc1bU94Qks1enhOYVNLLWQxT0ZLWDM3d1NfY2pld2ZFYVFreGFRRVdzVldmUlc3elFwX01RWktCYWM4dXpoQkFpbEptYmI0WExzN0tPR05aOGZ2WExxMw?oc=5",
       "publishedAt": "2026-11-02T01:04:28+08:00"
-    },
-    {
-      "title": "Top 20 Greece Landscapes to Explore",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGNiTmR1MWVnR0hlclFqdG9iaHJ4NzJtQThsRGJKUTBpMXpxWExwS3VQdEZFSWJ1MXhpRGZjcEVORVpOcmFaR2FuWEZTWXNJY2p3ZmFEa0ViY3p2TlE1c3J5MWxLSDNKR2ZhY214RjE0bkdVbG5HdmpzZ2FFNHNMamdTVGxJZDZIOG1CUDdkOA?oc=5",
-      "publishedAt": "2026-11-01T21:01:11+08:00"
-    },
-    {
-      "title": "Naval Group delivers second FDI frigate to Greece",
-      "source": "Defensehere",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BN01jbjQza1NhcjVseHB0MEZ0c284NEpLZFhDRW9aZndLd2dWM2EyWlVBWW9ZQXVjUmJpcU5nanhFVkJtN0g5ZXZkc1VtUFpBUF9MSnlQRVVwbGhnYUhtNHBGNHdjeVZXd1RUczRSX2hFRlU3NWZyY01oeFM3SU0?oc=5",
-      "publishedAt": "2026-11-01T20:10:37+08:00"
-    },
-    {
-      "title": "Illegal Turkish-Libyan memorandum cannot erase our islands' rights; a strong Greece defends its interests",
-      "source": "Hellasjournal.com",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYnd5cVFLRGVacGJyOEo1dnRxT0VxSzZKY1RyVXM3bzJJaHA5VzhqeEEwZldvTFA2Ml9NTDFKaFM0NE1OcWF2Y1RBa1BYVHB0QXI4M19aZUpIalhJWk1XcFZFWVpLZnRMQ1ZKYnVoLWJua3RZZHZTVjBjcmx3M0MzeGRGSU9DMER3dkJZd3NYZEJ2LTFDbXAyR3hZc3o2blhyUDU4VmU5YUl5MGY0UVNfOFNTRzVqRGNUS2ZvRV9IOGl1VEVScmVKdWxkYzRiREZ5ZFJTZw?oc=5",
-      "publishedAt": "2026-11-01T19:56:29+08:00"
     }
   ]
 }

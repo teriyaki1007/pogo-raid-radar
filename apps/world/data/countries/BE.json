@@ -1,11 +1,15 @@
 {
   "iso2": "BE",
   "name": "Belgium",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Brussels"
+    },
+    {
+      "label": "Population",
+      "value": "11,941,781 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Ex-Belgian minehunter handed over to Bulgarian Navy",
+      "source": "Baird Maritime",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUkZ2bk8zZ3I1NTk2VDBrdmJ1dVQtemVMTS1iZGF6cnJNalhfMjB6cF9naURoa2NDX3QzdmVBUUJBTGVtRHFyNVlnNFFLSDlZRHlJYTFGOEVEZ3B1WEFCTkRoM3AzdVYwVS03RDdVOENMY0tVNXBrVGc0VkpQeThoY1EyMFB6V3ZqYWlobHJ0Z3pJajJmMHlrTmRfYW04QdIBqwFBVV95cUxQcFJKRHdFT0xGcXYySHdnYkpKYlJ3NDhndGIwcVg1eDF0aURKYUE2Xzk0WGFXWF9lT2h3bFR6cTlrSUlXV3FrSmx2UW5paDduQlZVSEhxMzNGbDhpaTdoWlJlTWVEazJ2ZlZ5Mm9mOVI1TWNIREh1T3N3WWZOOUpmYlZsV1NfN21yTWRrVC02MmJpQnlEUExxVnVRTTJwTDJGeURUb0VpZ0FOeU0?oc=5",
+      "publishedAt": "2026-11-02T10:33:47+08:00"
+    },
+    {
+      "title": "Morssinkhof-Rymoplast opens two recycling plants in Belgium",
+      "source": "Plastics News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWFVkV0pxOEh1YTQxS092MG80QjZNVGtVZ0o2LTBXT2tqdk5wV1RIczVnT3lPQmxSWE1DeEc2ZVZCVW9aeTlVYlhpNlE2R3hzZ1UtcUxJYnEtS25GUmZiUjE5ckM5YlJSOE1udzBacHJNX2pnX3p5NEd2aGRuakpLTVA5YW9ydl9JSmRwREZVQ054QkNjb2pUMHluZ1dacGdXVzRoRnpqOTM2WF8yandPS1JPeTd6Q3pJ?oc=5",
+      "publishedAt": "2026-11-02T09:04:00+08:00"
+    },
+    {
+      "title": "India Looks To Deepen Economic Ties With Belgium And Luxembourg",
+      "source": "BW Businessworld",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM05hb0g5X0ktMWZqSWFhaXRYbWZHOHFFbTNmN3V5ODJXTnFZQmZFTDJlSlpUMGo2V0JKUTV5Ny1EM0hEWGlhZlBVenhvRjhEZ2VBdnRtckVEcUFRX2lQVWRWOU5WcHF1Q3JDakJnQkM3RG1Ka3hyTUVSdVp6NmZDV3hfWTNKeURFN1NTOU4zdXF6TXV2Ykp2bGNYREEzQzBFclBGakdQZk1sRHc?oc=5",
+      "publishedAt": "2026-11-02T08:44:48+08:00"
+    },
+    {
+      "title": "Orange Belgium Launches VibeHack to Inspire Women in Technology",
+      "source": "The Fast Mode",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMVk1NnhmNWRmOTZudl84R19PUk1QN09iNEJzeDNmU1Z6eGdvX1ZtaTRqVFMwZ3dlUFU4R0xJTzdyOWZBY1p4RjNjd0FWQ08xV0xpNGotLW5PSl9PMjVfemUyQ005WmRoOEJqQXZkX3EweU1QTUFYWnJrSVI2N1dXM2tncEJoN256ZDRWNWNWR3BQNFVkMU81a0lHNmxJNUR5NDlhRzRsemtmLXp6bDZGQ2R5UVZzcnRGY2F1OFU3dDROQQ?oc=5",
+      "publishedAt": "2026-11-02T07:19:41+08:00"
+    },
+    {
+      "title": "Eurostar Delays Hit Belgium, Germany and Netherlands on November 1",
+      "source": "Rus Tourism News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV1lrZVNhSi1vckpXWnFmOXNDb3JDRm0xY3QzeGNRSHR4Ni1LZ3JEbF91dS1kRWF3Q2RqUy1jcWJmTEpKWnR3Nk02ckhGMkpHUmc2Sjk3UWU3ODFrZFNqamdCaGtOalFRVU9KNHBpMzRVcTJEeWc2elpqbFdHeURlZ1FFYUltSnlSa09vN0JXdjJHR1RvcGR4bmg5bnZxSWs0aWdkUzZ4RmVNcXhG?oc=5",
+      "publishedAt": "2026-11-02T05:50:25+08:00"
+    },
+    {
       "title": "Explosion damages Brussels building overnight",
       "source": "The Brussels Times",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeEdwWk5LZ3EyOHRuRklyMW8xR0pKdTl2MFphaG9BNTVMSWhqM2dOTFdmRE5pODZ5MXROeTA0bWYxVUl0dHNfZlBHNG9TSnRzb0JTRG43U2JwdmVua1ZCQ1M3d2Qyc3k5b2R0YjhpYnRjcXpKV2Q1bnA2MjlqZG5CVWNwMTBjV3N6eWdUc3R5dzlETDNfZEE?oc=5",
@@ -38,40 +72,10 @@
       "publishedAt": "2026-11-01T22:54:56+08:00"
     },
     {
-      "title": "Wisconsin Pilgrims Visit Belgium to Explore Roots of Our Lady of Champion Visionary",
-      "source": "National Catholic Register",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREN2LUNObzM1TENUZE4yOExBc05Tc0Q5VEJ6ZjhQdDFJajBfcEVXSy1DS0lWcGtNdkxJUEk4amNYQUMwR1dFNy1rWUJEVkFPaW9HbVhkODdPYlRuUl9xaktuaGlwSnV6ZF9jbnJlYy1oSkRIbWw1Mm1BdUltaVFFX3BxSU0yUWY5bTFSblJzRFpGZ1V0MjVkMXUxbUplejk0S2I4end4U3VCVnM4OEZZc1BKdEc?oc=5",
-      "publishedAt": "2026-11-01T21:10:40+08:00"
-    },
-    {
-      "title": "What’s changing in November in Luxembourg, France, Belgium and Germany",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWElLcFIzeGc0TE8yRDVVMTZZOFQxRXUwellKcnFWYVZndkIwUWpaS1JmRFpNOGo1cXcwc09vcHZzSjZQR3pGWkdza2xvdHNVVUhDb3VNckVoT2xmTWZhcndlTmJuc2ZLdXlUdWY5aDZ1MzNZN19zLW1zZXltc1BaaFRkQzZJbU1SOHhNU0FsakFOV1A3czZUN21QSnMtR0IyZnJFdE1rUUJsbFVnTnVGVnFHaXBQY1BV?oc=5",
-      "publishedAt": "2026-11-01T16:00:00+08:00"
-    },
-    {
-      "title": "All Saints' Day, All Souls' Day: What is open in Belgium on 1 and 2 November?",
+      "title": "About 100 people gather in Brussels to commemorate Novi Sad disaster",
       "source": "The Brussels Times",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOGtGbWFXeGFRcVJfY09zQVl3aFgzR1B6a0xubTloVE83RURCSldERnNVSWx1aFhObmxsUzFEWG1pbEdHT2ZIWkZDc3ZWdWZTdUZZd2YwOE9ZLWpmb3JMb3ltQXVEUE5pdnZHQ08wSzFvNWVCQ19iWTdNVWlyMklabEJ4VmtldWtVRlB2Qko4UTdma09zLWFQMU5BbFVyazBhODN1NE8zdGR1eGdxN3Vz?oc=5",
-      "publishedAt": "2026-11-01T13:48:22+08:00"
-    },
-    {
-      "title": "Why Europe Is Becoming More Belgian",
-      "source": "Eurasia Review",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbWREM3VXRlctNVBKa0NHZjdaek5HdFlBYjhEUWxZbG5NT25IMTRscm9RQnoxV1NwRG1DR1g1ODVaZXFOdF9vNm1DcXg1WTFxQVZZN2s1ZTJ2OHIwVFVaXzlfWHpYQVZSb3JTR0tLZ19EalNSaDZ6YThRRnJwem5STA?oc=5",
-      "publishedAt": "2026-11-01T09:17:12+08:00"
-    },
-    {
-      "title": "Lammens makes World Cup debut but Belgium go out",
-      "source": "Manchester United",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXh1TXBFVUtDam9LTWVJX0JRbzBCcVQ4NU5JS1Q0blBqTFlaRXZLYmRqYkZHdzUxM0ZBcUxKOGQxMW1uUklRRE5aYVhxeWtJVnBfMXI0UGNhM21Zc0xLSUZtWEJ0bVZUV1ZOYjQzM3VWOW5uaTBSVXJEbExoclJVcm50RHFVTTIyVER1UnRrQkFIQQ?oc=5",
-      "publishedAt": "2026-11-01T01:05:11+08:00"
-    },
-    {
-      "title": "Metropolitan of Belgium: Orthodoxy is neither fundamentalism nor relativism",
-      "source": "Orthodox Times",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM05mUUlvN1FQaVktbkNBbDNndmtsQWlCSDYtU0tnS2lsQS1ESlltSDl4c1E3eTNMN0JCMng2cW9sbl9sRE9SZkstWDR3UHRDclNmZWlkeWkxSmpQek83b1NLam1FQVY4cHNsclpBQk1LMHpTVHUtWVRpbm1iUWszeTZkand0OFFUSEprTzhobDBUM3ZsTndTUUx1NXdxWWdUck5J?oc=5",
-      "publishedAt": "2026-10-31T22:47:06+08:00"
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU1doY2RKWFNkM1ZkX0ZXcTBfclJKcGRlVGlKT0N5WHl3VWhYbUZkSXRZa2FsbzV3cC10OE9hQm5XZ2ZFMVkxRWNZaGtPYXZpWnlXWDBHOXdUTWFHMndFbUl4aThSMVI0TnF0Z3M2ajM2RTM2S3dkZ0d3NnRkb3hyQjRXWFRiSGs3eHRUdGw5V2Fkdjg2ZzJqS3htdS01MFBZVnltSXREVTlwWXNVdFF1eHFJMEc?oc=5",
+      "publishedAt": "2026-11-01T21:43:48+08:00"
     }
   ]
 }

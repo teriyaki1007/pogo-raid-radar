@@ -1,11 +1,15 @@
 {
   "iso2": "MD",
   "name": "Moldova",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Chișinău"
+    },
+    {
+      "label": "Population",
+      "value": "2,360,527 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Bumper harvests, fewer animals: Moldova's agriculture between growth and decline",
+      "source": "Moldova 1",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEIzaWdLV1NzTmpBZm15TV9Zcmo1dC1Ccl84YXdweFhGYzNiZHpDdzFUXzZjYVp3MlVnYXQ0aWx6aGZ1ZWZaN2tlY2R0UTV0UlhvbU1vRkF1elNIZzJGa1VlTWdPMkQ4TTNURmJRTkdld25ESXRUd2lEMkN5WVRXQzNjcUgwTUd1ZGt0SEthQUZvOHZhZVB0UG56a1AxUXVLd0pTTGtwdV9xUQ?oc=5",
+      "publishedAt": "2026-11-02T02:33:38+08:00"
+    },
+    {
+      "title": "Radio Moldova Awards Gala 2026",
+      "source": "Moldova 1",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ieW9iOVJJMEt0RnJYUmpuSzBjVUJVUnA2V3NmVnVJLWk0SXRpbm96d283OE0za2dNYXFydEVfYU5fQ1p6VkVzaFVHX29wRjFoQWsxWGhvMGNGeVI2SkprWHVXLXowVWpNVFE?oc=5",
+      "publishedAt": "2026-11-02T02:12:49+08:00"
+    },
+    {
       "title": "Drones violate Moldovan airspace twice during massive Russian attack on Ukraine",
       "source": "Ukrinform",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZFM5Y0IzcnQ2RmpJUVI4NEZKSGh1LUdMdTZyaV9IaXJzS3B0dVVZY1BTOFRYcExUeGFrZnI5U2p3QndMYnhIWklJUHFjWWNmdG5iUU9laTh2SzlweXM3T1VhTlhxc09GaXNteWFnckFVUGpIYVFLRmZobEVJcG1OdllxbTFRSWRPV3pDekxaRjFiSUVDc0tLdktBY2U5dXNHTmM4Tk1Xc19DVUs3eFYtRmx3TjdjMV9CY2hXaG1BcEhSQzNuSDBiWNIBzgFBVV95cUxQaDNGMnR5YVlqdU5oMUQ1bnZQNDZVZlYwVXd4emlmOUVRVTFuWEFUeF8zT2pnSkJDYjNfZkg4clhxWW9iSmNYX1JMdWlHQmthUXEwbnE0dFVQbXNhbGpUTXlNMkFJaHBUR0Z0MnA5ODlSUFVqN3R5RVJNc3J6bUpKZHU1ZnE3aDlKTzdnSl83UnpjYTdTdGxzQVFPc2VnRmJndWpIaFF5cjdFbTI2RENDaVA4UWRGbWdBenM0eUVnZEE2RFd0bFRQWUdCYmUxZw?oc=5",
       "publishedAt": "2026-11-01T19:48:00+08:00"
+    },
+    {
+      "title": "More than 18,000 citizens are expected to go to the polls in seven localities in the Republic of Moldova",
+      "source": "Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTXFJZDQ2Wkk4WGlrb3ZMR2U3clNRYWJhNHdhMzNyX0R1M3NpbnJXZlV0ZFRXTmI4OXNHb1RrYXQtWnlsUUtnSkd5OXZhWjZiX3FNSmp4OFp6NGx3MGM1YlRPTEI5RXFTcFVqR3RxVkZxWlZOdU01Q3FOVG5hN05sYWpRcUthNE81NXJ3RmhHdU1MUTlxcGlqMlllWVl0c0dOalF5ZHBPZ25yTHhoVk5adzF1MA?oc=5",
+      "publishedAt": "2026-11-01T16:12:46+08:00"
     },
     {
       "title": "ZdG documentary on 35 years of Russian influence in Moldova screened for foreign diplomats in Chișinău",
@@ -54,24 +76,6 @@
       "source": "SC Media",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ3lPdDFDaTYwX0dfZGxmTWFZR2hDdUJpSm5qbGViRk1LMGE4UndEeVctZ2wwU0FiMlZ5U1NpZE91VlRGVDhoOUF5LWRWdl9WdWpxa2loZ0g1NFpxMV8wck9QU2tRUnRjZ1ZlRHo1clFJWGRMT2tpRGpZakNsQWhTMFdwaGk1eHJ2S3pTX0FXc1JreWFOVVd3d3MxRVlhRjJGYThUaHpKTXdXdw?oc=5",
       "publishedAt": "2026-10-31T07:23:16+08:00"
-    },
-    {
-      "title": "Moldova extends grain and sunseed import licensing",
-      "source": "UkrAgroConsult",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdlM3eUotVkttbUJFQjFlUUJPWHF5TExzNS1WQXJlWXh1RFlwTERHQ21jQ0ZoamRvZjdmVlRhcXNrZHlPQlVtUzZVVldBZTVUOHd2S3lWWGpyOWtZcmdMN01PN3J3czVzeGZneGtuV04xWVYxM0cyVUtabFo5SEdwbHpuNFF3eHVCdW9ScE5LMlRUcTlDYmhadGxQaVNxeVh6WHVRRWJ2a3N2azg?oc=5",
-      "publishedAt": "2026-10-31T03:19:41+08:00"
-    },
-    {
-      "title": "Moldova data breach exposes records linked to 750,000 national ID numbers",
-      "source": "Biometric Update",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ0tSbXZpQThkRnNXSW0tM21PekZIN3F3S3B2Y2I0bE9iZjQ3ek9oQUw3cUdRTWY2X0pVYkM4M3hpSTJXNmJhSXpsRHdnSVR3eUFvNkZjTndPem1vaDVhX3FES295a3g3VFlqSU82U1FadG9vN0xfeHdMSG9NNjJ0THhWUFVoQlJrVmZmOTUzOERfek56ZWNjdUZGc1VEaU1Ud2wxeXZNQktwckthcUVOVA?oc=5",
-      "publishedAt": "2026-10-31T01:20:00+08:00"
-    },
-    {
-      "title": "IMF recommends Moldova cut budget deficit by 0.5 pp annually - finmin",
-      "source": "SeeNews",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcHU3b0R3bzVxWkRmRU93SDl1SEFYSTViaFBPSWMtdlVPd0hPOV9Ra2VlVl84TXJyZUNkeXVIWS15OFFRQmFpS1dEWGNxNkVrYm5UWjBUalcyVlNQZWZMdG9iQ1JWZkpVY1JHeGVzX3FhMjI2Z082Tl85NEJIdWctY0EwbWZuS2FhMFl0c0tHVHBzUWtURHMtZzhqMThWZnBuM0E?oc=5",
-      "publishedAt": "2026-10-30T20:35:07+08:00"
     }
   ]
 }

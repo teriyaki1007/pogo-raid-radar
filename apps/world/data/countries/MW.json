@@ -1,11 +1,15 @@
 {
   "iso2": "MW",
   "name": "Malawi",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Lilongwe"
+    },
+    {
+      "label": "Population",
+      "value": "22,216,120 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,12 @@
   ],
   "headlines": [
     {
+      "title": "Malawi’s motorbike crisis: registered and insured bikes, but unlicensed riders",
+      "source": "Malawi24",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWGdFM3hyRVFmSnAwelJQdWsxTGp6Y2RqdzY1Q3B3Y3Yyb0Jfd2J4bDgyNjY0ajBIZjZBbS11dS1uaVNXWWQwSFo1R1hoM2J1bElzN3B5NTdXc05QSEhJcFBZdkJrTkJ1ZHpfd2tQSUJ4Ty1LTlFFNjA4aFVNenlFYjJEOGFjbUZudW9NVzg4THUzMDAybmh2NVdKZ2o0RkJIZkxfMWo2eW5Dajcy?oc=5",
+      "publishedAt": "2026-11-02T02:10:17+08:00"
+    },
+    {
       "title": "Malawi Launches First National Action Plan on Business and Human Rights",
       "source": "AfricaBrief",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01WHV6OE5WeEk5WmxyMjFxWElMV2JfMkJXQUFxUzkwS0l0dUdPRzFqZFJIUVVIV19GTExHeWhmMWdELU5KNGZLX09kRFo0b2VvZndQYmJiTWduek5OSzk0dEVWTWhkWExoM2hsZTRMd1h4Zk8yZFVtQlZwbEc?oc=5",
@@ -44,34 +54,28 @@
       "publishedAt": "2026-11-01T21:15:51+08:00"
     },
     {
+      "title": "Mutharika’s return is a rebuke to Malawi’s rumour merchants",
+      "source": "Nyasa Times",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONWh4ZlVCNnc3NVZCa2F0ZEJvaDNNOE1pZUdpdnJCUE9vZERjU1loRUJmYVJERk41QWpmRVd4Z2lyRHZNM2ZHUnRvX2c2ZWtJVVZXbzlMbWdxUGROS29ud2wtM1hKUTlnOENEOUlGVTBFeFpEV1BPOUo3Ykx4NXl4aHNBSVphVEdwNVprbGRB?oc=5",
+      "publishedAt": "2026-11-01T19:07:02+08:00"
+    },
+    {
+      "title": "Malawi teenager joins Barcelona academy",
+      "source": "Malawi24",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EN19FemhsQk13YVNpY1FsdTZHYjdYbVZpRmg3SlBmN2poWkxNNTdiVHJCaGhYZmIwaGpNSG1SMTI5RlE3UWFxSHhWUnBNOGQyX0dxRjJkaHp6LXIwME5Wc0V1SHhGWDdKVTUwdHl1ckozMHhjM29EM2M4ZzY?oc=5",
+      "publishedAt": "2026-11-01T18:00:00+08:00"
+    },
+    {
       "title": "Malawi cattle farmers travel farther as El Nino worsens drought",
       "source": "Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDVGZEZLQ2NmaVhlUkZ4Mzl4SnRFUkVBZlhpZnYxMThyRXo5ZHNRZURfMGZKQTRVMGFCQnRIN2t0MXFfakF4ZnRGYkVoenJvQ2lsV19LU3lIUng3aE1oWU5wVXpfODNDSFB5U0JxNG1SSldCLVFIZkhpT0YzRFkteWZsMGdQQ0MxTUtzMVVCWUVYY2s4X2ZXQmFLUkpfdW1rOHNObFNvZ9IBrAFBVV95cUxQelh2TnFfcnhVVWlPZ1pUcF9tUEVwZDFrZDE4VndrZEo2ZHJiRHIxMzVPVHJrSklDUm5FUjQ3SXJiRm1qY3E1NWpnUFVKTmFXUmx1UnVsdG1LaV9zNzA3UjY5VWNFRWN0WVhaLXlzNUhTcUdTaVI0bkd3S0lGZVhrNS0yd255MjlETHFSWFRfYl9QeUtWOWlpMW5JMXpIamRQTnpqNTl2T1c3dUVO?oc=5",
       "publishedAt": "2026-11-01T17:19:37+08:00"
     },
     {
-      "title": "UbuntuNet-Connect 2026 opens in Malawi as Africa marks two decades of research and education networking",
-      "source": "Tech Review Africa",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNFJBNS1GRnJvS2xJQlB0YWtCd3hUSEpJM04zc25aSDd4QXN1bGZsNldWV2dmdEQ5NjJBQzlHTTVmaUVIcFEzbU9PLVExY3lzRjE0TnlMblYwQ28yM3lVQnRhQ3ByMXNRQmtueC1kay16U3poWUJvOWhBWklUOVNqZ3lPRDJqdFo4bjNmVG4wM29hdHQzWlJLOWJWc281cHoxcTFqZlk1Rl9QMUVZUklkdlJoaUY2bVVIWEJpV0psU0NqUEVhcm1Zd2V1ZEoxTUt0ekQ5MWlOWTNjZw?oc=5",
-      "publishedAt": "2026-10-31T19:26:36+08:00"
-    },
-    {
-      "title": "Malawi’s fuel shortages, record prices deepen economic crisis",
-      "source": "New Age BD",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNWd5a2p3aUY5SVhoZFBUY0cyRHlManV4WGp5S25aSDhxWVdXbDM2NmV0V3ZIR2JkYkUtOFJuR2ZRVGZlemQ3eXBtTmhXdUgwa0VUdW14Qkc5MlhwSy1fcDZ5WnY0Vmtsa3R3ekRHRDAwaXhIbE9jSUpkUTZoLUZzWG5OYTZpRC1sdGw0LWVTUFdVOWppamg1OGNuV2FrMHJDcDFrXzVPcXlLVHJBRVE?oc=5",
-      "publishedAt": "2026-10-31T06:20:00+08:00"
-    },
-    {
-      "title": "Malawi launches National Action Plan to advance responsible business and human rights",
-      "source": "United Nations Development Programme",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPU1Bwb3NkUlZoNURwTlV3VnpRUldvc19JXzRKMThySTNMNW1TdnYyRXVQcnZYeU1ibGxQMmJmNy16RVRWQ3NyemRjeW5NTTY0Y202SEdBTWVHdG5SS2NhSHBXTUlGalNFTnRCS1FuQUxJU3V0YjBjRHRTbWtxc0ItRmRwdlFHaEZfYjhoUlFxQzNTWnJZOV9oeDR2ZFdhWUlCbktJamd0YV9OTkFudC1sSzA5V3hkdw?oc=5",
-      "publishedAt": "2026-10-30T20:58:58+08:00"
-    },
-    {
-      "title": "'We've lost someone, we're owed answers': Family of S'porean man, 48, murdered in Malawi more than 1 year ago",
-      "source": "Mothership",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOLXVTcE1mWXkwYjhqX1k4X00yV2czeXJZT2dnZVliQ1M5cVl1d0s4X1hIOVN5RDJtbG5qVVhXLVNKQUotN2R2ZjFQWUtleGM2RVdLNGtkZVByR2JtczZQWk9JNUpRUU4ybF80dnZUOElNTDVxSzRyRjlJcHR3a2FyZ3RQRllVQURITlMzdA?oc=5",
-      "publishedAt": "2026-10-30T18:33:04+08:00"
+      "title": "Kangankunde builds skills, partnerships and foreign exchange for Malawi",
+      "source": "Nyasa Times",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHA4ZHRHTFJvVlhpb2dKVnhCNkEtOGREM3V6UUVpdUFHUmh6U0xFQ3FQUVRpdVRNMUpwc2dhT18yMkdRcUpXVHp6Yk14blBYYTFIMXQ4ZUcwZ1RTS1YyRUFHS3Nwc25VSmdHVzZwUWh5aDNvS09aeEV2T3JidUVVaHFEdzdNNGwtdDExSzNCRU13WGE3S3FhVW4zelZ6Qm8?oc=5",
+      "publishedAt": "2026-11-01T10:16:51+08:00"
     }
   ]
 }

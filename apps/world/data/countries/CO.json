@@ -1,11 +1,15 @@
 {
   "iso2": "CO",
   "name": "Colombia",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Bogotá"
+    },
+    {
+      "label": "Population",
+      "value": "53,425,635 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "At least 19 dead in Venezuela army attack on Colombian rebel camp",
+      "source": "The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVFRLbWRIV2hNS3pIV2xiUDlCTjBrV2lCOGVJLUE0NnM1VlduQ09CUERxSGFGei0xcEFzM3ktak52YlBqNWNyR0ZkTGZ6Y0N6WGl1VjRDbGF6UHozMEx3RFE5UDRiYV92WmxVVWhWRFh5aGM5TTRnaFVJd2JkeVFtMXVidEsydzhYOXpjbXE0ekhTb0tQV2RWMGVoSEZqc2xqTmdRY1BpSWV4VTRqS1E?oc=5",
+      "publishedAt": "2026-11-02T10:40:30+08:00"
+    },
+    {
+      "title": "Venezuela Attacks Colombian Rebels, Leaving 19 Dead",
+      "source": "news.sbs.co.kr",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFU0FIcTMxMm9YMmxVOFpSZkt0TjAtTXdYeS1zZTlYUjBpbFRBVFEyTkpZUDl4M29WM3Z0bTlVam9Kam1RdDN6alZBUjVwb2lBNVFaalFERXM3R2k1M0FSbENhWUZRVGNLM1V4VUhR?oc=5",
+      "publishedAt": "2026-11-02T09:35:52+08:00"
+    },
+    {
+      "title": "Former M-19 commander Navarro Wolff dies in Colombia — The Rio Times",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVndQLXMyU2dYWFdxR25BRHNDbjZuTk1oTmtNVExUX0oxRDA5UXc2YzFRa0VhV1VzY3FsR2tnN2ZQQ0hJUF9pVzc0LXVodnpOVU1kWXZTc05zVGpMUE1MT1JlSm44Rm16cy11UGtrd0VXZXpDcUpBZDg2TnNwa0p0SGFIcmw2T044SnZYQ0x5ekFWemI1VHk0ZzYyQ2hqVktGdFhR?oc=5",
+      "publishedAt": "2026-11-02T07:53:39+08:00"
+    },
+    {
+      "title": "Women's FIBA 3x3 AmeriCup 2026 El Salvador Semifinals: Canada vs. Colombia",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DMWt1X0FXZFFHUFAyNVRBeVN1U0pPODJaSlItRzEyTi1qRGRPQ01hQ1FmczZqVU5WbkxCY2tuQ1F2dmtLTDctTm5MempoaDJhdlZsVXprajBYZw?oc=5",
+      "publishedAt": "2026-11-02T07:05:00+08:00"
+    },
+    {
+      "title": "Colombian Merchants Call for the Elimination of the 40% Tariff on Imported Clothing",
+      "source": "ColombiaOne.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGgyRHY1VDJWT2FINktHdjFrWlVlTHVpUWJjQmY1MzBfWWltckVYMzU0ZU14M0k2aTlWWm9kWHNvNWU1alBueHp4OXNhZjdOdW9JTEFzRVozQlB3amc3bXJjOEZINHA4X1hldEgyazY3RmFVTVBZdklZdnN5RV9ySG1TZzlrU0NxbWRYNUduRVRuWkRrQWFKWEp4aG80MUVVenU2MDVxaFotTkduQmpMTEFKakVDd1BmaXc?oc=5",
+      "publishedAt": "2026-11-02T07:00:00+08:00"
+    },
+    {
+      "title": "Colombia Is at Risk of Default Without Fiscal Fix, Restrepo Says",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONVNvdUdoLVZNQTl5ZGlNMW5TSWQtWUUyYjZJMkRIS2NsYmlFM1pzamNFT0t1Uk02dlQzRU5wSW5nSlRYRXh4S2hHMk5ZM0xLX0JHcXJCeUs2Wmw3NlRuMUI3ODJNQWgwRENWckR0aG1JUW5HQlVfMHE1eVA4NWd4ZkZiVi1XOEpqWXRiQnVUeEtZVE9jQ2xYSVIxcVRRWWt6ZlVYZ1EzZ3FfQ2V0WTlTQnpwYVU?oc=5",
+      "publishedAt": "2026-11-02T06:38:32+08:00"
+    },
+    {
       "title": "The 2027 Minimum Wage Battle in Colombia Is Set to Kick Off",
       "source": "ColombiaOne.com",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NZTlYTlBpMi1tQU9KUnp4bTc2Vm56a1liSXVnSjc1MGUwS2pVbUI0NXc5ZExIU1pBNmZ6RE9WNzZuSXFIUEVZTkFTcTVaVV9pcXhHTEJ3bDhKOUl5OHZEbnBxeGNsb1lJejBOZzI0Zw?oc=5",
@@ -35,43 +75,7 @@
       "title": "One Police Officer Killed, Six Wounded in an Explosive Attack in Southwest Colombia",
       "source": "teleSUR English",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHdaRk9SZEtoQUtuUmxVTTBFMXk1SjdBV29NaS0wVGtEcGstRDZ6MXh6eFN4XzcyY3lWZXNhNlUxeVhtSW5idE04cmRmd1VYRWFnTk5aOThkQ3BBRE84N0p1dlBUMEp0VG9ITFBidEczZGdScUdaNkF0ZVcwY3hzVkgwSnktSWd2OU1rWWNEb1lJeGx1WmJvVXJsSkxnME1pVkNfRE1qbUFQeEdQcm52UjRsaEw?oc=5",
-      "publishedAt": "2026-11-01T23:45:00+08:00"
-    },
-    {
-      "title": "Marine fossils in Colombia reveal possible evolutionary transition without mass extinction",
-      "source": "Science X",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQajVHOUlQLUVDOGh1YVhwQnFveG9TanFETWZTRFZhdDNzSS1CUjlCR3NzTUpTNElSdHA3ZEpmMnJXLURrRXM0dGl5eERpNTY5c00wc0tuZ2VpVWFLSWc1MWhVNXJWdFJzeGtFV3ZyMzBaM0VYTUw1cEFTOFppajN3UmprTnhYQ3F5RGlEV0Y3WdIBjwFBVV95cUxQajVHOUlQLUVDOGh1YVhwQnFveG9TanFETWZTRFZhdDNzSS1CUjlCR3NzTUpTNElSdHA3ZEpmMnJXLURrRXM0dGl5eERpNTY5c00wc0tuZ2VpVWFLSWc1MWhVNXJWdFJzeGtFV3ZyMzBaM0VYTUw1cEFTOFppajN3UmprTnhYQ3F5RGlEV0Y3WQ?oc=5",
-      "publishedAt": "2026-11-01T23:28:28+08:00"
-    },
-    {
-      "title": "Explosion in Colombia kills police officer and injures seven — The Rio Times",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY0hTc1BvMHQyd0E5NzZMWTkwcTlraEQtVTU4UGpoNHJXLVJmMG16bmpZa1ZpZTVmblFBLXVsNlhRRlE3c2tNRGQ5THI5LUZMcXZaUmhJcDZabzJtSUl1MkVSa0hHaUZubzJ1cHluZjFzX2Rib2s5Zm5WMjViMVhhS0NvOTdYOVduX1piNWgtRTJaQ25EZlQ5a0s3ZHJYYkNoTVo3cC0xb0J5UW5RWnRWaGFn?oc=5",
-      "publishedAt": "2026-11-01T23:10:35+08:00"
-    },
-    {
-      "title": "Rush Street Interactive hit with new tax in Colombia",
-      "source": "CDC Gaming",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdENOUUxXM1JBRmMtLVpvM1FSWkZyaGYzVXk3aTAycTJUM3RwMmFQdGktNk9IeVk2ODFodkFGMlNBUTdPTzRCV1BLbi16U3U3Zy1nLVhxRFhKTlVpMk94Vm1UaFh6ODU2QThGMVRmTnkzR3padGltekI2amRjRzR1QnRzVDFvbDRN?oc=5",
-      "publishedAt": "2026-11-01T22:36:47+08:00"
-    },
-    {
-      "title": "Two men in Colombia diagnosed with malaria after trip to the DRC — The Rio Times",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUJ3Tk95Zm9OanRZRTlQT1VEUS1rYzlMWURrLVdhRXExVVdtbkpxTGVwUlFNUjNYX1JiMkh1czJxWjZMdUplb1FJRUNSN213TTdpOEFSd0VLUzlEb3NPaUtERjFPLUc2QmdzUlNPN2VQenF2M0pyZ1J2eVo4emNwTkpVd05hMHVxRUhJNUF6RWlKS1NvMnhzOVpZdl80bDVQX2RyVms2c2JTSTVRSkd5Vlc5a2hWVHFNTzBDNw?oc=5",
-      "publishedAt": "2026-11-01T22:07:40+08:00"
-    },
-    {
-      "title": "On This Colombia River Cruise, the Real Destination Is the Food",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORnJzX1VaTXhSUjJscUlLWlpRN19QX2Y5OWJvX0o2R1N0TUlRN0ViX3Uwc3gybmpDTDAwM0xGVFVSQ0luOEV1ZTRaLTduM3NObms2V0NCRUl3VlBYX3JpdHhJa0xZeEhNbjlCV3NhTXN6RXdTcVNQMjQ4Z283NmdnaXpNdFlIc0Vvalh1bTlrUXh2SjNMczUweUNjMA?oc=5",
-      "publishedAt": "2026-11-01T21:40:00+08:00"
-    },
-    {
-      "title": "Dia de los Angelitos in Colombia: The Origins of a Caribbean Tradition",
-      "source": "ColombiaOne.com",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LYW9QQVU5OTZxSHVoX0F2cEpJN0puenlobkNnaUpoX1czalpwUm0zZXFyZnpna0Jqa0tjbEZTOGZsdTBSd1VBN2xwQ2tMNy1BcjJUTlRYeU5jTkxlbG9tUzF2YVZuVlk0eW9rZl8ycVM4S3M?oc=5",
-      "publishedAt": "2026-11-01T19:30:00+08:00"
+      "publishedAt": "2026-11-01T23:45:15+08:00"
     }
   ]
 }

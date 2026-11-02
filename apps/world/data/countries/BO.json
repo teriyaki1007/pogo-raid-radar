@@ -1,11 +1,15 @@
 {
   "iso2": "BO",
   "name": "Bolivia",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Sucre"
+    },
+    {
+      "label": "Population",
+      "value": "12,581,843 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,22 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Bolivia Declares State of Emergency Due to Dire El Niño Impacts",
+      "source": "https://dailyasianage.com/",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEVhaGliUmxKeWF1MDkwdDlldTh4VEp6dVJkUVc3cXp2RXlQWmw1WHQ1Q0RTcmVZU29oSktvWVZMNHQ4YThndmxLeGNsYXJsNTJ1MVIyOFVVM0NWY2ZnVmJHUl82X0JEemlLZzJvY1hyQkstaDFxcmVKdEFmcVY0amhfNVFtaXY3ZUpGSGUyR0g5N2t6LWpHSWVGT2wxX0gzbUJn?oc=5",
+      "publishedAt": "2026-11-02T09:12:13+08:00"
+    },
+    {
+      "title": "Bolivia and Mexico merge All Saints’ Day and Day of the Dead traditions in La Paz",
+      "source": "EFE - Agencia de noticias",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa0ktbmlsd2NCMmdLUlM3RksyZERUYmRWU0NzYUxXVFc4SDM3ZnAwbWdmZ0dLOHozVEduT2xtYTZuSUEwYldlbFVodUhhS3NxdW04NWFud1BNTlNvdkl5LVlsbnFZamc0U243NzU1OWhDNDBrdFdnMmFKY0dLZGJQdmpvdFFHS1VwbkVaSS1DaW0xUUV2TVk1YjJDSmpmTE05WGtqOS1xNUNnRXhyZ3d5UzFBMURIX01zU25CTGM1UE1LQQ?oc=5",
+      "publishedAt": "2026-11-02T07:48:15+08:00"
+    },
+    {
+      "title": "El Niño prompts Bolivia to declare national emergency",
+      "source": "Qazinform",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNV8wblVxZW4waWtzanlHdDE3UmRUdWZnT0xlTHZwNWxJZ3pnQk01a2ZHNVk5aW1mTUt6aFpDVTZlMFgtUUFjWFFmVWdRVkEyVjJMZDI4eC10b1BrQ1hvMF9XOXVVcHNHOWNqX2pveG5oS3dzeF91bFJ1RjZMcGQySHNCMDdWM3E3Tnk5YURzONIBjwFBVV95cUxQdkdTWjNtTFI4RExjemJ1cWtnXzBTQzVZUGVxT0VJcEh4UVJGck1PcUpWdlQ2T2Z2OHNxWk5ZbnRVdFRXSmtlLXJmM2VXYjBUa2J4ZVhCZHkzUnZpQm5zMkFNX1E0NFFrMzJWUF9uNmxIX2xqZ2g0dFNoUnBUWTU4ZURpaGhIcFBTREI5b1VMOA?oc=5",
+      "publishedAt": "2026-11-02T06:44:20+08:00"
+    },
+    {
       "title": "Bolivia busts 4 PCC members in the Amazon, expels them to Brazil in under 24 hours",
       "source": "Latin Times",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNkZ4VWZnOXpqdl9POVhvMF9pUVlBVjZXMHBiTzFOVzc1OFUxWGJrbGhLNS1uRU1oYkpnUnBxTm8yaDZqbWlrVGxYVEM3TExrSDJScGg0YXJIWUFpZExHb0s2d1BFR204cXFFandlRXZXZlNQTTNhWWRSODR5SERaeFM3NFE1aHE5ODlvZjllQ3ZqTlFJcmNUNHcyblVQY3BlZ1c4MjBDSzk0YW1maVhmalNlVzBmd3M?oc=5",
       "publishedAt": "2026-11-02T02:34:25+08:00"
     },
     {
-      "title": "Bolivia Declares State of Emergency Due to Dire El Niño Impacts",
-      "source": "https://dailyasianage.com/",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEVhaGliUmxKeWF1MDkwdDlldTh4VEp6dVJkUVc3cXp2RXlQWmw1WHQ1Q0RTcmVZU29oSktvWVZMNHQ4YThndmxLeGNsYXJsNTJ1MVIyOFVVM0NWY2ZnVmJHUl82X0JEemlLZzJvY1hyQkstaDFxcmVKdEFmcVY0amhfNVFtaXY3ZUpGSGUyR0g5N2t6LWpHSWVGT2wxX0gzbUJn?oc=5",
-      "publishedAt": "2026-11-02T02:27:00+08:00"
-    },
-    {
       "title": "UIAA elects new board members, admits Kyrgyzstan and Bolivia associations",
       "source": "Everest Chronicle",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTzRrZTE0YTc2QUlaNm1BSFZlUHpzanc0SFZORGFxU1ZWcG9ISmxHTWFpem9MbnVveTNHbm1QYTJNMGVRTnRQYWVMcFg1U1Q1YjMtaVB4Y3ZDNXp2dmJrMW9mX1J1TVVTbFpRLVZBbXZtS0t2NnZGR3lBOFppS3pwQUF1bjJJanRWZXJsS3BhZUFteUtoNlNQM2FRZGs1WXNVUUdqUndR?oc=5",
-      "publishedAt": "2026-11-02T00:36:45+08:00"
+      "publishedAt": "2026-11-02T00:44:28+08:00"
     },
     {
       "title": "Bolivia declares a state of emergency to deal with El Nino",
@@ -60,18 +76,6 @@
       "source": "cna.al",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZlFfSFhheTZpUmluSl9iblJvR25peV83YlBTaEw0S21reDNtdTNjWmt2R0Q1SjZTT2ZnY0ZxcEhCZmVKT1BkdGdMVXctNlhtdTRaS3hvOEwyZC1TdDFhTE1CeFFWdVBWYWh1UUFqOUx3MGxfU3I4Tm9xWjVCYzlvUEZyY01McF96Yk1YNHdIb3JQd1UyQ2c1VFRrQ3VVMTlaRzhQY3ZVNHZaRmJrdjB5OTMySUtTdw?oc=5",
       "publishedAt": "2026-11-01T21:18:00+08:00"
-    },
-    {
-      "title": "Bolivia declares national emergency to tackle El Nino impact",
-      "source": "News On AIR",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUjJvNFRkVG83cFc1amg0YUMtd0htZzA2Z1hUdmRaV1ZITnh6ZF9xZmJ4cDVreE05a1Z3bmREck5ncG92bzQ5VTBkTU5VaWtubUd6YmlISDdMeFBfWTdPUzB3UGJtaF9nOWZYTHNDOXlwRDRqRFl0eU5IeVQ2SVZEd3FzODFJbHFSeVhSQXZjZw?oc=5",
-      "publishedAt": "2026-11-01T19:57:23+08:00"
-    },
-    {
-      "title": "Bolivia declares national emergency over El Niño-driven drought, flood risks",
-      "source": "Johannesburg Sunday World",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzhqVDhLS3duTjA2cEw3UUF5S29scndfYXEtSWZRZ2NNTkd3RlNmb2VpTjNpNG9oSkVNc1p4aU5IWHFhelQxMUdZX2R4TVlpQ2R3bkt0RnRkb2h6aFlJdDhMMHhiUFVMMWJrVmtUTllqM2pBdWJybVFpaEcyLU40ZXdwRjFfM1FfeGUtWkJST0VYajNuNTRYNWZkUWJZb0J3WFEwR25vSFp3NEhY?oc=5",
-      "publishedAt": "2026-11-01T19:35:40+08:00"
     }
   ]
 }

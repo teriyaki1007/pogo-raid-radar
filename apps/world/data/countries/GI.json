@@ -1,11 +1,15 @@
 {
   "iso2": "GI",
   "name": "Gibraltar",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Gibraltar"
+    },
+    {
+      "label": "Population",
+      "value": "40,126 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,22 +30,10 @@
   ],
   "headlines": [
     {
-      "title": "Weak mag. 2.6 earthquake - Strait OF Gibraltar on Sunday, Nov 1, 2026, at 08:41 pm (GMT +1)",
-      "source": "Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2tkSTBSZlpiVHFKanhWbkk0dVpNQk9wekgyUWV2OTVFZXNBSms2enlBaDVvNnJrUlBBTktNazFFOWRqc2tuYVN0VUE5WTEtY1R0ekg3NEo0aU9fbnFIWG4zVGpYUjZUNmZFRk1qQmNjMU1JM2I4b0hkTFZkMExDYVJBa1V0WFJVQUhWRmdtSHYxVEFpMk1xeHcyakFwUkdkNkZQV0EwZHpGQVk5YzJjOW9tVkhtOTQ?oc=5",
-      "publishedAt": "2026-11-02T04:00:31+08:00"
-    },
-    {
       "title": "Worth the trip from Gibraltar? Algeciras promises a 10-metre musical angel and walk-through Christmas tree to draw in visitors",
       "source": "Olive Press News Spain",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPR0tfQlhWZzFwY0c3OWtkYlhYVlFFQW1ERmg5ei0yQkFWbUplLXUwdVV0YnBWek5oOU9tT1Y3YnAzTGo0dVQ0WWtWVm1nWklpMkRBcHdsRUtJeExVMHJvZEU3dS10MGtSa1NMUjg3NkpHS2h1NFNEaXhDMzhndmtkMi1lc1g2NW9sN1lXeWRn?oc=5",
       "publishedAt": "2026-11-01T17:15:00+08:00"
-    },
-    {
-      "title": "Young woman left horrified after Gibraltar restaurant receipt carries shocking racist slur",
-      "source": "Euro Weekly News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVTh0UHd2Z1ZZWm0yWWFIbUl1ZWI0bzdycXBIdFlyWWo1TUZRTklFVjkydV8xZjl4cDN3WXp4ZFBVQU5qSjZQN2lIdWg3MXFUXy1EUUVrQkV3emlvYkRmckZJVWkweW9Ra0NSRlNEMnU0Q3FaX2JxSEVjdEQyZGxtVzJ0SjZmTWp1TXdVMFg2N3RlQUlQYW9zbzgxb2ZlUW1YSXlJRVpoN3A1U2dDR0VWclZBeWhHTFBGamFsQzRCLTBlODJrb2dRTg?oc=5",
-      "publishedAt": "2026-11-01T07:02:12+08:00"
     },
     {
       "title": "T&T Under-15s lose to Gibraltar 2-1",
@@ -56,22 +48,34 @@
       "publishedAt": "2026-11-01T00:00:47+08:00"
     },
     {
-      "title": "Gibraltar chief wades in on Brexit and says Andy Burnham has courage 'to tell the truth'",
-      "source": "The Mirror",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcHRuZGE4aEt1LW5JMmJYQUlPdnlRMmVXaFBzc092M3Q2aWdyZFdRbFRsNm5Wc25FNWItckVPclVGbVgyTmVsRWl2ZFlmcWtDRUpnWnl1ZGF5TmczX0E2LVl2UHNNTTFhMU5mV2FiSjVTRU9yLVFNV280VmIyblhTUU9PWHlyNknSAYwBQVVfeXFMTmpiY3cxU1ExRDVpSE5ZOVFhRWtMYjRxS25Eak9PQ0x4eDV5c1pobFVmb0dab1k5SHdDR0tON2w5RV9BR0lqaWNGR0JMZWI0M2c5c3Qxc3lLeUpsWU8xUjRwVGliTzVVNllPakZpWDZ0SkRSUGRFNkFQZ3dVb1owcmVyd0JvakpyczRSQ2E?oc=5",
-      "publishedAt": "2026-10-31T20:31:00+08:00"
-    },
-    {
-      "title": "Is Gibraltar Industries (ROCK) Undervalued Ahead Of Its November 5 Earnings?",
-      "source": "Simply Wall St",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWjBhSHpmbU40dVNTdER1U2JpeUxhZ2dZMEFESkF2Qi10VlNFalVoa2l1Wjk5WDI3SzlUSVhyVXhiWTczWWJ2X1ZNQW5sb3pCR0UyOG5LV1BrekdHWVpuUnlQNWFpM3VHcUpNeDk3SW5qVTZORnRYWTAxUjgxX19IZXdJNTJyY3hMVUVLNHZCaW5rVEpvVkFpQklNMzViVUlkVmpYdVZGZkJJeU9uaUNaRWh0azktMGpkWHFEeWhnbURvSlFQM3JRSWpEYTQxdGV0SzNmRTNPZGJ4M0hJ0gHiAUFVX3lxTE1DUmxzeWx5aVNSeUNjbFhJQkg0THhqak5mRXp6UlU2azlJN2NhUjJsZkVEUGhtRlB5MnRVdTd2M2w1N3JYWnk2X3RfWUtRN2hLQlZsa1A0QkFnUzF1TWlZYjZwbXc5a3o3VEU2Z181bnBfN3BtcjV3aXQ3MWk3dzNzcy1WeUdTSTFkTWIxaTJONVd6RC1vdEp2R0tndjY4S0N1Z3ZuZ2tmcklIS2ZxU3Zwa0RHMHN5aEtYRjNZbEdWM19GMEl6R3A3UXRQR1p3VjhkTnRQRGZmWS1jblg0S2lrcGc?oc=5",
-      "publishedAt": "2026-10-31T14:59:12+08:00"
-    },
-    {
       "title": "Composed and disciplined display saw Gibraltar beat Trinidad & Tobago",
       "source": "Gibraltar Chronicle",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZjFIM1Q5b3g4bWFGN1FjZUlRNV9SSV9xMXRGZVFCVnRuVWZyUVU3dUFWTVlxRi1Ld1dsRlc2VFk1UERnWVBxeThSdDdnQlc0cV9MN1VfSU9HdEpaaUpNRkhmOGxJZlptUWRmYWRNemZBR0R3ZEUyRl9LM0RlNldobHBSS0hveUFuTS1SLUQyeE42TUlwTksycQ?oc=5",
       "publishedAt": "2026-10-30T21:49:29+08:00"
+    },
+    {
+      "title": "U15s make history with highest ranking ever for Gibraltar football",
+      "source": "Gibraltar Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWlM5MW9TVU1UQ2VtTjA0UWl5eHcwalJrWHFZdldxUU14WFhKX1pTZzNTS3BUNk5VR1Z3SmpPbnpuLWZrNG9Qb3VJcDNSakMzeXJhRXhJRmV1QjY3aW1NUEJyMXJoWlJ3elBYVnpQWmpKUklLS0laUV9yZUxKTV8zRkNFcndodk5nWjJVVXphQ1RmcENDa25N?oc=5",
+      "publishedAt": "2026-10-30T17:10:48+08:00"
+    },
+    {
+      "title": "Young Warriors battle Gibraltar for 93rd spot",
+      "source": "Trinidad Express Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUUdoUTNQRUxYNVNyVE00N1dtRXczN2NoMTg2YVlxWEZNSmNCVlRVbnRCWWZKU1M5V0xUNTIzcGZXdWpNYkIxQUtka3kwN3hmalNSLXg2b0dINUY5Vlh1bmtQWDlBY3kwTXFzWHJLWm92ZngyRUVFQW1sYmxHMEFEVmxtOUdtME9XV0hENTVVZVMxa0FUdGFOVXFWS3dDb3lPLXV0Rlp0Vk5QbkVsel9NbnA5TGM2RS1TVGZLTTI4Ny1ieFFqTUE4QnNTTmJvelZBVUHSAdcBQVVfeXFMTTgtUHMxSGVOLUh1YWJlbW1pRzBLdHFJVUtGREhwbkRBekY4SlFLVDdCOWhtdTJITTJheENoWGFBdUdKQkIwYl9Eb3ZlNW5IclRQaFFKNV9RVllmVjhuUkx0cnJBQzk4bl8wVXpPd242NWJMeHFKMFRLWktHQVpiblVHNXJobzNnSmhpOEMxNmxtdjhta1lEVkgxTWhvVkVMQk1ITGxteGlXTnctbTl1TzdYc2R2djZCUkpQeWNnMTRydkRlYVd6MVg2UWdzRG1MbkFmaERBV2s?oc=5",
+      "publishedAt": "2026-10-30T08:38:00+08:00"
+    },
+    {
+      "title": "Government launches online parking guide for people travelling to Gibraltar",
+      "source": "Gibraltar Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTi14cDdQVkh6dGlwMlZtSnFQd3hhOENzRGRmMi1WNUdHd1gtZk4xMkZ6amk0ODd3bXBxVmptYjlhVWdGRU54enhINnRCMWFPNnFZN0xSUjVyN0U4NTZxSktfeVZUWW1mRGxEM1phOXRCbkl6amdGc1ZBU0tiT3hKZUlvVDhrZEUwaWRtNXpjUm9yU0ZvY0U4aVlHQTQ3azJF?oc=5",
+      "publishedAt": "2026-10-30T02:46:33+08:00"
+    },
+    {
+      "title": "Gibraltar Industries (ROCK) Reports Next Week: Wall Street Expects Earnings Growth",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNc2sySFEtZFdpdFo3TVp0X3Z2NzFLbmoyLW9zNlRXUTVzLUoxYVVJdEhGUVNNMnlfZTVoaU1mb0s1b3ZMZWI3SElwVDlfaENnM1lrcDl0QVhSTHN0MDdublBPTjNNbG12dWtyZS11bklhaWNTdXlRdGhYRFFTMVBCSnVyallpTlFjQ19xRzhfd3FRblMtNzhNSkwzb3c2Y0V1ZjF1TlR3?oc=5",
+      "publishedAt": "2026-10-29T21:00:05+08:00"
     }
   ]
 }

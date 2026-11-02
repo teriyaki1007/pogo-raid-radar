@@ -1,11 +1,15 @@
 {
   "iso2": "RO",
   "name": "Romania",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Bucharest"
+    },
+    {
+      "label": "Population",
+      "value": "19,020,271 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,16 @@
   ],
   "headlines": [
     {
+      "title": "Romania is losing its natural heritage at an alarming rate. What is at stake and three signs that change is possible",
+      "source": "Spotmedia.ro",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOXg3Q2xhYnJnRzczWUFRRkVHbWxXUUl1bUtTUFhUcjY5amRKcGJ4ZW1RSnFHZEt0amF0YjE1ZlJhcGhCWm5Gd1VCZ2pSYW1TdnNTSzRNckxBZHlpQ2ViZVJhdlY0Rjh5SWJnX2k1aGpuMmJRczBxYWFVM0tpNFFpM2hOd3pWNVRsU244SnVvbVpyNXF1cDAxR253aXNhY3FqU3ppczJWS2JudkdfdllCNU5zMVRESFpMaWZnV1EtdG96eU9EX3NHWGtzMXdBcFNsb1VwWTJFdlQ2X3ZpcGdacG05SGRUTjg0Z3RpbQ?oc=5",
+      "publishedAt": "2026-11-02T05:13:42+08:00"
+    },
+    {
       "title": "Winners of Romanian Filmmakers Union Awards for 2025",
       "source": "Film New Europe",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbVB6YWxsN3hac1NVZEdEdmpLbWlCaUtHQ1ZPWWNXOTRVN25odkVpdC1tNzN6QXV5OE9oN2l2X051Y3ZCaDJPc19ucXBNN3ZITjlJUzI4YUkzNTBMdGhfaWl2MzE2bVhkNDZBRVRaWDNxNjNiMGZNMXpVSXpsNTc4d3BOOEt5aDgzRm9mR0UxMHZkQnd0eGU1aEIyUWdkT2thanFaVFRVYkk3elhFN1BoODRn?oc=5",
-      "publishedAt": "2026-11-02T02:27:35+08:00"
+      "publishedAt": "2026-11-02T02:27:38+08:00"
     },
     {
       "title": "A woman in Romania used a rock as a doorstop for decades. It was a 7.7 pound piece of amber worth an estimated $1 million",
@@ -44,22 +54,10 @@
       "publishedAt": "2026-11-01T17:05:00+08:00"
     },
     {
-      "title": "5th edition of Robofest held at Polytechnic University in Bucharest, Romania",
-      "source": "Global Times",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vVzBZbmFEXzFjY3VWQnhVQ19rTC1YM0ZyMlh6ZzhxRDNxT2ZsTlVWVVlTT29xZmV3N0k3ZlQzZE5PNG05Ql9wTE8wT3N1c3QxQnBZVzQ0NHI1UTd6SzFlYUJn?oc=5",
-      "publishedAt": "2026-11-01T09:14:00+08:00"
-    },
-    {
       "title": "Romania World Ballet Day",
       "source": "Bluefield Daily Telegraph",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT0ZBRXRGTWdfaFdBNmVNdVZ0Vk5WdTg1WHRsOGlreVZjS2tnb3k2T2t6YVptQ2tBWmZiZjM1UzRiSW1ydUlWN3ZkMmZrT3g0UEI4WU91U29GT2NCOVFJbVE2U2NRN1p2eTRiUWhnZTI2T01TN2R4VHdDVFh6cVpvLVlxZ19GSDRuZGdtR1pVRzB2djZYTVU0X3BBM1JBc0FyYTJDeUswakpYbUx3NEpPSWdYSjRSYWs?oc=5",
       "publishedAt": "2026-11-01T09:02:11+08:00"
-    },
-    {
-      "title": "France vs Romania | Table tennis doubles highlights | Dakar 2026",
-      "source": "www.olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQN19sYmdadVBacHlzdUlXTV9CMTN5dV9zSmhPSWZJY3VyRl9maWlQNzk5dlVWSUk5ekZIOVVyNmN0X3pUNkJqcFZwNDR0cWlpa0ZGUF8yUlFFSmZYTFVxS2Iwc2xKWmZ5TlBIdzBNZkxDQXVOaHZtejVsV2I2cXBqa01FT0xxcWlzTlJrSg?oc=5",
-      "publishedAt": "2026-11-01T01:56:48+08:00"
     },
     {
       "title": "Four alleged Romanian pimps had first hearing for years of exploiting women",
@@ -72,6 +70,12 @@
       "source": "X",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Qbi0wbEc5cHRSSE5sWXhQa1RaS1VWajRJeXpQdnJqeGQ2MmdqcDBoVmNkTFF1LXoweThMWjFOLU1RbmdHZ1BjS0M4NXpkOFU2R2NPZm5ZSTdKalBPbGVlZ3JKTFhLbnNFZzh2eQ?oc=5",
       "publishedAt": "2026-11-01T00:53:13+08:00"
+    },
+    {
+      "title": "Romania vs. Tonga Live Stream of World Rugby",
+      "source": "CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PaktYbWtmanNMeFZGMlFHTmxCLXF5bmtac0xfdW9wRWhnZ1JuYWpVMjFUUHI3blpCOV9kMEtBSm51WW1wUDVVbTMtRklBVzdGenFGWjIxa0FwcVhVZm5SXzhQSUU5aDhn?oc=5",
+      "publishedAt": "2026-10-31T22:23:58+08:00"
     }
   ]
 }

@@ -1,11 +1,15 @@
 {
   "iso2": "PE",
   "name": "Peru",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Lima"
+    },
+    {
+      "label": "Population",
+      "value": "34,576,665 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,21 +30,45 @@
   ],
   "headlines": [
     {
+      "title": "Peru loses second bishop in two days as Pope Leo’s visit nears",
+      "source": "Catholic World Report",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYXBhSnJqdTA0UXFjM3NqNFFPNU9xa0pseHNCV2lKNUhpY3FUWWpBN3N3TGt5SENhUFVfU19kNTByZ1Vabks2Vl9KV05Sa1NadlN1ck1xY1ZhdHAwdzBMVFVWSEhRVmdVTWNOUzNYbmhjVDRKTlEzNDZPNGhmRDdka0RCMk5oTjhhVENjZzFyc1VDYkRtelJvN1BqMHZCcVd5UnV5WEhHOGY5dzVNR0E?oc=5",
+      "publishedAt": "2026-11-02T10:03:45+08:00"
+    },
+    {
+      "title": "Peru Archbishop Funeral",
+      "source": "Post Register",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUF0OEVVUjJ0Mm5feHgxdkJCSFdRWGY4ckRpanR1Z2pUVWFISXEybXlCWHM5RVcwZWZ1Qk9lOGVBS1dGMExya3FIaWRJV0FURGxkRTdObUVVamVXTFFFbGZnejBzSVA4czJkOEJ3My14Y09OMHF4Wi1WVjlFSUhmUWU4dWFCOEJ3T1JXcjZqbDdTN3NzT0RNWUYxenZyUVdhRWg0UDhzSm1GeXJmLXVfSQ?oc=5",
+      "publishedAt": "2026-11-02T06:38:34+08:00"
+    },
+    {
+      "title": "APTOPIX Peru Archbishop Funeral",
+      "source": "Idaho State Journal",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVW5lcHNlN0tjcHNnRUttZ3hvZzVGRloxY0VILXFkMGRZeTdVR2ZwdDhFN2tnNmx0bS1taGNvWlpUWUR5U2ExOWhRa3hKY3lWcmVad0ltcG9JM0kxakJhbW9NRVFmUEcxWTFxdmRIY1VqOGg5U24xMmhNQ1dHaFE0WXdzYzE3aTI5Z2ZGVXBaRmkzbnBFQUhLcUpzWHQyeU9KQ0UwZnk3dzliWGpYQmZaS2NZa1F6cDIxZkhIN0NPeUtvb1dXTGJYR2daUU4?oc=5",
+      "publishedAt": "2026-11-02T06:16:22+08:00"
+    },
+    {
+      "title": "BTS Wears Brazil National Team Uniforms… From Peru Ponchos to Chilean Mokdong Attire and Argentina’s Messi: ‘Customized Local Outfits’ for Four South American Countries [K-EYES]",
+      "source": "스타뉴스",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1Da00ya2RIWi1ZNndXNndiOUdEZGROd3dpYWQwR1lqM0FQX0p3clA5M1pFZ01taUFJZGlqMm5VNUxZOE82OHBnTU9XVGdYb3pMWGVqZXNQRFFWbDFQd2tibnY3Y0dURG1BVHFJYU9Sci1iaDlWemwxMA?oc=5",
+      "publishedAt": "2026-11-02T05:58:00+08:00"
+    },
+    {
+      "title": "APTOPIX Peru Archbishop Alarcon Funeral",
+      "source": "Post Register",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGdxeWpPb0dqTGlEWUdnd0lyTDJMa3dWckNVOE1KMjhvM3E2SUw4QWkzR2stVDY2ZVZZVlJwenU1cHBTYmtqQVdEblBab01OUks5bzNlWnpDV0NpT3o5ZHBVRXlLZzhIUHFiTWtwWmRudUQtMjZLYlFDSXJHU3dvTEtGYUZPeGFyUVNFc094WGU1aUtXS2h0aHdzekxHbGs3WHFoZFo0bVBOTVVzTkQyOGVJTWdWRW1Dc3Jqb21GRzRqSUdoUlE?oc=5",
+      "publishedAt": "2026-11-02T03:33:34+08:00"
+    },
+    {
       "title": "Deputy FM receives Peru’s ambassador",
       "source": "Kuwait Times",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMGRKNjROLTdldE5DdGxJZlhtaGl3MDVMVkIxNDBGTklGdHdHaXVOaWFwZlBQM21UbUVFdkNzM2dVUjVTbF9TRjBVcFNqeWN2bENEQ0ZOaVljMmlGcDd2RzltNVduZzlZYzdBUEdqWlRHM1NFZnd2anU2dU0zMUNEZFpaVXBMczlt0gGMAUFVX3lxTE95YzdGS0NzY016SnhWcEItOWQzZU95U0N5UWtaNE1nUWExNjVVbHNEUnNOaklHdEdEemlfSFMyb3J6NVc2ZU9PNVNmczd0M3JsYXFva1NXSEFwNEZWSW9qUTBOYl80Vnd4RWFZSUNjWFU0ZFVMbS1aR0didVNDU0VRUHRlZU1vcnZ0YXk3?oc=5",
       "publishedAt": "2026-11-02T03:32:47+08:00"
     },
     {
-      "title": "APTOPIX Peru Archbishop Alarcon Funeral",
-      "source": "The Herald Journal",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc1JHNTZwTUdYb245ems2WkRqNjIycWpkWFJjVmFzZHFhMURuaE1LbWlxNjk4Ylo1NnFlYjlZTlBtQVFLS0RhNV8xNzVPWlBqbGM4YnlTWTJFQTNCODdXYy1FdnlhVENXb3Z4UzF6Nnp0THdocTZCOXlMbG82NDlIRkIwd2Z4cWlwNXFKTzdLeG0tTkNEQ0JkZHk1QmFiNjN2RXZieWVYb2dvMGJhQlZVQmwzQWtMcVE?oc=5",
-      "publishedAt": "2026-11-02T03:14:13+08:00"
-    },
-    {
       "title": "Peru Archbishop Alarcon Funeral",
-      "source": "Post Register",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSkJvNFYxWk5XVmFHTFhsdUluQm9PWmtVRG9MQU5ic2JEQ21qNV9xNXpRbkJtblBKdGVKTUVZWlZNYW8yUXpWZEZ5amNfUVdVUHA3UDAtS3FuSUZiekFrVElYR0tQZnJzOTh1SklGZ0RsRDlfaUpsREJjMUJBbHlUOTlKRnAwTklkUGJGb0FrNElxellDMUhrVkFlYjVDdU05UXBHb1lwa0E5QXA2a2JqQzBsXzlHNGRqcjN3?oc=5",
+      "source": "Idaho State Journal",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaVFJdzBteVlPNUU0NktaeVFkc2RQQl96a3BKWkpaQ2VMZnk2c1k5VFR0OHNlZC0wWTFFbVhPSTNDSmYtMEZQbS1WZjhpSEFQSlU2cWJCWjRvYmkzMlI4M3gyZ2RFSFg3b0R2czktNXlTZ3ZpeGxTenpFQ09PMlB4dkNIOGVtRTEyVzdNa3c0QVh1RmhmNnBacGNWWFhSZ0hJSXVlZ1ZwT0prZ1NkdmJZMl9wRmFub19uNHFPQ3pOakprZw?oc=5",
       "publishedAt": "2026-11-02T03:11:29+08:00"
     },
     {
@@ -48,30 +76,6 @@
       "source": "Legacy | Obituary",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOUNuelZsSV95RUdqcEN3Vk1mb2RsOTRoQ2ItUDRkZDRSUFN3WHZkZUtFM2tmbkpZZS1MR1ByWm9lMVhXWk5Jazd6ZzMwLWZEZnZ5ZkpIWmJ6WVliNUVDcDdiZm9XV3dGeGhUZDI1TFZlY1YzYzlSUkZVREYzakF1dXFR?oc=5",
       "publishedAt": "2026-11-02T01:41:05+08:00"
-    },
-    {
-      "title": "Peruvian Archbishop on Pope’s visit: For Latin Americans he is “one of them”",
-      "source": "Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVdCZkJfT2x6WUwzbXF0bHphMXlfUWhhMm1yM205bHU4SFZiRExLWGFLY3U3dEJBOGNpeS10R3FDRFBud0Yxd2R5WE5BX2swcGYzODROZFB0c3FSMHdhUHJBT2tjd2ExTnA2eWFHZE04cWh2YWF6eHdtRk1xYVljMWVxQUdNVUpHRjVOcUtLdHhVTV9LeGZfOXViRU5NbHRLVXZUSjY0bHd6NXNqeVhqaDVnbTVQYnZtVmc?oc=5",
-      "publishedAt": "2026-11-01T23:09:58+08:00"
-    },
-    {
-      "title": "Peru's consumer prices rise 0.57% on month in October",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOb2xWREV2YXhTdzNjOTNqRlZ0WUlIR1RGQkNrUkg0WmV0RVpPTnJqNmhGQ1lLblpLTXpuQmFxVmlJZ3JSM1pqM2k0bFRxRF9iM2xEZWlRc0VhZUlIRzJPRXkwUFJ6ZFZ3ZUpzdXlhSWNHSU9TNFFfc2RJMWIwa2xSbWxvTXZZNlgwOWxxOGdXY2hrdGE1cVphOFhUalAwSk9oeU5zOTJqYklFRUJ3ckxPNm5HbHRITmtYRk4yaERVUQ?oc=5",
-      "publishedAt": "2026-11-01T22:35:44+08:00"
-    },
-    {
-      "title": "China-Peru FTA upgrade takes effect, boosting trade efficiency, investment opportunities and regional economic co-op",
-      "source": "Global Times",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9KcWdvMWM2Zk14cFFrTmRrazJhMGhyS0RRTjBRMW9CbXdESjJIeVlvalI1cFhEYTdRRkEwZHRELVZlX3BDcTkySUtBdXhCWWJpRnlPbkFjUG9IS2huOEJ5NUJ3?oc=5",
-      "publishedAt": "2026-11-01T21:12:00+08:00"
-    },
-    {
-      "title": "Protocol upgrading China-Peru FTA takes effect",
-      "source": "Xinhua",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05blBOMDNGVWNWUHlHRFNYWVdSVUlYOGpObi1qVVlBa0xLY2NOcTNGTDdLeGp4R0ptV0tKNW1oRy1SLWs4blJScDlIYmVoMjlUTmkzdzRaRUxwZm03ZmljVHNIYk1xVlA0N2NDR2QzaGVFS1djbDdiM2M4dHU?oc=5",
-      "publishedAt": "2026-11-01T19:39:15+08:00"
     }
   ]
 }

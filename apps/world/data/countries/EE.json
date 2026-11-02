@@ -1,11 +1,15 @@
 {
   "iso2": "EE",
   "name": "Estonia",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Tallinn"
+    },
+    {
+      "label": "Population",
+      "value": "1,366,475 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "[PHOTO] Estonia marks 35 years of diplomatic ties with Korea",
+      "source": "The Korea Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMnozX1E3UndhMTY0alllRTNrbDRjbUNENmtXRUlWemZPWm1XaUM1RndZc3hIMklKZHo2UlZnYUkyNWppd3BVeU9MQTFYcWx1TXNhTWdQUnBHalB3a3ozS2tUUDc5a3RXUEdNRkxLbEFnbl9IUVBKNGQtX0FBQ0NhTUZaZnZESk11bEFaNE1NbUpTM3luN1VMUFVDd1dBNFNZVXBZOTZZdkhXUUZHaFhXLUhYOU1FVjkzN3fSAb8BQVVfeXFMT1ZiX1RXSUZ1d3p6cEdxWW1Pa2ZqWE41RFV2NzBRTE5UeF8zbkxiVUtlY1BzaUN2bUlnSnZUNzI5VFM2VERsMzAxVTFST0NHVkJYa19Cc2FqTWF0Y191Qmc4Zm5SVGpDMDNEMkJiSDBBQjlka25lWEo2TkZINEJodnU0Z3o5d2xEd1VUcTVIdklIXzFKYUVPYmxLdXlzdkRJR29MQXZ3MlNTdjhWX2tvNkExbFBnbW5yTUlBdzVSeWc?oc=5",
+      "publishedAt": "2026-11-02T10:08:03+08:00"
+    },
+    {
+      "title": "Jaak Treiman: how Estonia’s presidents have made a small country heard",
+      "source": "Estonian World",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX2M1cV9jb3FkbnZzbURuWUFLNGJXYWFnNmUxSGZ1TDROemxNVUFhai1Wb1ZiT2p4dWZoWUFtcERDMDh0ekNNNlBqWjgxTkFVOXJLX0E1c0JHVFFPV3VVMU9vN2YzcEtzQXNybGNCZEdZNlBOVVVhb195RjNsMGRXYW1oTnFyeEMyVXFQZ3JVQ3hIdXBtS2pXejRBVXhhUHNnSk5RNFVR?oc=5",
+      "publishedAt": "2026-11-02T07:01:57+08:00"
+    },
+    {
+      "title": "Estonia’s Professional Privilege Reform: Journalists and Clergy",
+      "source": "Silere Non Possum",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWHNBb203N1YtNHBtY0pyZzlzQ2RJUXRXeFVzc3lwTS16NDRNdEp6X0p6ZTExLXgxQ0hYa2RCdW9TSkUwb3FZWTltVHlyd192RkNvZ3FRZzJ4dDB1bFpzeXNJTkJzX3lxTl85a2dNRXUtUUEtbDg0MnVSNWplYUxzeWl2WFRvSzlubmR5WnJLRU9Kc2VHa1F6VHE0YlRwY0JFX3IzUQ?oc=5",
+      "publishedAt": "2026-11-02T03:18:03+08:00"
+    },
+    {
       "title": "Estonian-American composer Lembit Beecher turns family memory into music",
       "source": "Estonian World",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONEUxTmVOc2pwaHZmb055VE54RU43UEZQSFpBQXNscXFibmwzeng4czJMOHg4a0tDaEdpeXNIclA5U1pyd3lvd2ppMjFpNzFlRU5UQWFMWXA0cmFmOUxwNDlRVE1KNDluaXloMHFmM0ZSRHpLb09LWnE0S1hYVGhMWEVrOG15dzBwV3dINTF5aDVyYnFTWU5fSFIwWXBQb1JsQlZsQVRKaHNrMjA?oc=5",
       "publishedAt": "2026-11-02T02:23:41+08:00"
-    },
-    {
-      "title": "Jonatan Vseviov sets out a new vision for Estonia, but difficult questions remain",
-      "source": "Estonian World",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWDdkcGhMeGtzYXE3dXhYTUh2bEgxRjB6aGVuZUhubnJnZkhtbWV0WlVyN1hDSHdIS2Y3allTMGdpZGlWUkxVYnNaakZmSUZqc2UwVVFmR2NtQmdiRFZWNUc0WE9JR3RjY1o0ejNDNzRSNWVuRks1Y2lNdUl1aUN6X3FiWWl2Tzg4eFN6NFY0TmdUZ2xpQmxJeXVFd3NRMlRPbWFJXzg4MHBLeHB5Wi1mMEFR?oc=5",
-      "publishedAt": "2026-11-02T02:19:26+08:00"
     },
     {
       "title": "Estonia’s New Defensive Line Bunkers Will Be Buried Until Troops Need Them",
@@ -60,18 +76,6 @@
       "source": "ERR",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSzVENkVqSGdmTWY5WW1ESGt4X2ZVeEJMdUE0Uml2R1g5SHI5THBCM1hWcGdDckhoeEhyRnZiakdCSmxyMkdJdEw4WTAydk9FekthOU1WRWRWcWNBcUV0aXlBdzQ2UzdnYmd0b1dXaWVzMm8zLXF5bGhlYi1VMnVSQU9VMmJjeVZUUXpZTTM2LURBVDc0RnpVZi1tc002VS15RlctWmFvZw?oc=5",
       "publishedAt": "2026-11-01T19:10:00+08:00"
-    },
-    {
-      "title": "Estonia is planning a line of bunkers to stop Russian invasion",
-      "source": "Technology Org",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHQ5b1ZJSVVuU2dMOG1LcUszWFhHYm44amJWckdicURUSVRkcWxlNVdjV0JOenh1YmF2OHNvS0syMno2d0VrY29wS3hFQ09mX1M1ZnkydXg4WlVhSC1sLXJfTWUtQnRPTTRRd1lhQWQtNDNtdXNuOFA5dDdNS0JvWmdBSXR0UjhUUEk5eFZDT0tiazR4VzRLYjRwcEdFa0xfMUgw?oc=5",
-      "publishedAt": "2026-11-01T07:05:00+08:00"
-    },
-    {
-      "title": "Estonian interior minister says border guards’ powers could be expanded — ERR News",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZXVPLU5rc2dGVW9GbmY2b3pxa1NVRWZEbFozNDRvMFd0emt6TDcxT0hmaUQ5azMtem82X0o1d3daNWkxQVl0cEhPelNkUXpEbDZ5LWh1dDYySzdJOVVSUGdaZVhQQzJSYl9vNEFPM0phZDE1dkhPaXhSNThjYnFXYUQ5WHNGWnV1WEJwTnNQbTBoa2daNDNMUE40cFFLVHE1TFdCOG9IX1ZNMGF2T1FlMDVxVi1CZw?oc=5",
-      "publishedAt": "2026-10-31T18:36:36+08:00"
     }
   ]
 }

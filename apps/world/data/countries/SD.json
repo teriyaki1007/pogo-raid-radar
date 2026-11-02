@@ -1,11 +1,15 @@
 {
   "iso2": "SD",
   "name": "Sudan",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Khartoum"
+    },
+    {
+      "label": "Population",
+      "value": "51,662,147 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,22 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Sudan files complaints with UN and African Union over drone attacks — Anadolu Agency",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHlEaGNHNFI1Z090Ymt0bXR5cnZ6TnVzRFFQcGhYV3R5UGl3UEpyUk9xSktjbDFHZlRDNzhSeWFGSTZOWlRsWWdvYl9xRDFtcW05NUxkUjVwZWdVRG1ZNDVtaWJMekFiakg0dWVrMXMyOG9ZeGRhYi0tTERQMnp1X3RvZjZPTk9xMzJBdTFtdEMxUG9aTWNLSjhMYzU3ODdWazgtZmhhdWtwdw?oc=5",
+      "publishedAt": "2026-11-02T10:15:31+08:00"
+    },
+    {
+      "title": "Sudan files complaints against Ethiopia with UN, African Union over drone attacks",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb19NbElCNEpXQ05vQ3U5YkdmRlR3LWN2X0d3Rnp5SDVsR0k1V2hTUlNKeXlubFdQR1g0UWJsQmtBRUd3QzhROFFjLTZ2OWFwWjd2V2dRcGJnTzI1MDZWdDJseWZtZEJXWEluYTc2Q3BLYTRiRHAySVgyeTRTZ1p4X055UHdsU1VpUUc1OU1TYzQ5LXpzcWN1TlRaR0lJQlRRNjhfR2Y3Z2VzR2FYUzFpMUJWRnhKaE0?oc=5",
+      "publishedAt": "2026-11-02T10:00:53+08:00"
+    },
+    {
+      "title": "Sudan cabinet orders maximum alert over RSF drone strikes",
+      "source": "Sudan Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04TU9Rb052cTh6YzRXVzFhbXZTU21TaUFEdV90eTh6anhFR3FEWXI0XzYwV0VSZXI1MGFydF9Tb0w4eEhfa0R0alB2cElTOVJE?oc=5",
+      "publishedAt": "2026-11-02T06:06:31+08:00"
+    },
+    {
+      "title": "RSF drone strikes knock out power stations in northern Sudan",
+      "source": "Sudan Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBHQnJnZ2NLNUZOdHliS2xPaVVXSENvYTI5UGNiTlMyVXVUQUM2dGlyRnkxYjRaem42am54Ti1HcDNBQU9USTRGcnBxQnVqbkdV?oc=5",
+      "publishedAt": "2026-11-02T05:29:22+08:00"
+    },
+    {
       "title": "RSF drone strikes set oil facilities ablaze in eastern Sudan",
       "source": "AzerNews",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WNkhzYnh5QlVZalZscFczWWtWaEFMbG1mbEhEXzlvOEp5dU9La1N5NGMtQlV4X1VMQmF0WDhRdFNwNS1IZTBkWTByODkyZ1pKTUd1aA?oc=5",
       "publishedAt": "2026-11-02T03:59:00+08:00"
-    },
-    {
-      "title": "Central Bank of Sudan plans fund for strategic imports amid economic crisis",
-      "source": "Sudan Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5aVXR5WVo3NkJlakZMMVlHb2R5Yl90YTJrdlRmcVpQTTVJQjNpcUgzNGNRcjg0ZDFnTWNKR3hOMTFrempRSElXdzVXNVB2cmI1?oc=5",
-      "publishedAt": "2026-11-02T03:49:58+08:00"
-    },
-    {
-      "title": "Sudanese army and RSF wage silent economic war amid military conflict",
-      "source": "Sudan Tribune",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mMFBBT1B0SFhMcUk2U3lPRVoxdGUxbkJZc0JDYkVNVFg5TV9uSWJlVWdPUW1PbFFuVEZUOUhma2tqUjVGX0VUbHhvUUMzX1lC?oc=5",
-      "publishedAt": "2026-11-02T03:21:16+08:00"
     },
     {
       "title": "Sudan General Al-Atta Accuses Puntland Mercenaries of Fighting Alongside RSF",
@@ -60,18 +76,6 @@
       "source": "DNE Africa",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQkUzWWw5UzFfNGxyOHRmeVJuMTM1REZtTG5iSTBxZTRYbVl5WHV5bDFST1dqTS1mb0cxbWtUVHFqVDZTc3Z0TUs4WUR6akZySnMyQ0JnZUxVQlA3VlVDdzRNbWhyS05uWlRiTDRxREVKdnp5bVUyZVM2b28wUWNHaUJSUTNITHh6LXBpYm5XSVFxSDFlRVRqQk1IeWNHUkdtaUtob3ZGWkRzQQ?oc=5",
       "publishedAt": "2026-11-02T02:53:43+08:00"
-    },
-    {
-      "title": "A year after the fall of El Fasher, Sudan's war has left a ghost town in its wake",
-      "source": "RFI",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa2pHVVgxM1Fidkg3S0NjOHZRU3oyRnpwck5iRXZkNjhLZF9CeHk0WTNaMndRVXZnZUNkOGFrUnRTU0ZJNnpudHltOXB4cVJOcGIzUmRPTHhNV1V6YXNWcUVYODRrSkhOOHd2WkFsQzM4eFVwb0cxSm9CQy1zM203NkFZSkxOR2NrQnVGLWRTb3RvNEF5YUEteThmVG1sUk9jQ1l6NU1hYkw5ZTRNbEVmTGR0OUJsR0dJN2dHdQ?oc=5",
-      "publishedAt": "2026-11-02T02:37:57+08:00"
-    },
-    {
-      "title": "Sudan’s power grid nears collapse as drone strikes blamed on RSF target electric stations",
-      "source": "Los Angeles Times",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOG1qY3F2WmhTUkRBeVAtUWxPNDM5RWFUZUhWZ1Y3Rl9aWElqYmQwT2dnWXYtY0Ffa3VZSEkza19OV3FGQ2lKOXRub1otSW5Nd3plWG1MT2xCbTB1UkJRTjlTdHRlMnZmZDJMSTVFbVppSjV4aW0tRUJ3OTBwR3VEamNYeGxXaTA0RkxqNXZmczNwZGxtNlRXMERUYUFOMjY3TllWbTExNHljemxkNFFrOUpJdkJ5b1hxUUZRLVd0MTR0b2Vta1pn?oc=5",
-      "publishedAt": "2026-11-02T02:20:56+08:00"
     }
   ]
 }

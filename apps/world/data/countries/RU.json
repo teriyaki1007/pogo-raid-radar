@@ -1,11 +1,15 @@
 {
   "iso2": "RU",
   "name": "Russia",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Moscow"
+    },
+    {
+      "label": "Population",
+      "value": "143,513,328 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "Russia suffers record 54,400 casualties in October, Ukraine says — and 2.1M since war began",
-      "source": "New York Post",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSVdGSEhfTzAxVnhURUI4THpoV205cFJRdTJmUHJCU1huZzhfTTFCbVlmUjlKNm1QWnY5MVdnS0ZENFlQNW80eTJkcFNCeXBlWDFMTDkzeGxCLXNaOTR4TjhjSzJkclRndDNEcGZ2WjJUa0JiaFprRFp3RG5aeFdRMlBMb0tzZ2x3eEtIbjZZTnY3R3ZsamNuZUZJOF8zN0ZOTVNqcFEyeVVIbUVEcEV6b3o2OG1mLW9OdXJPcE1zaTRYWGRiTWhkUUhLbG5SSHpwSmpodkJFU0preEdh?oc=5",
-      "publishedAt": "2026-11-02T04:55:00+08:00"
-    },
-    {
-      "title": "Russia's new suspected radar in Kaliningrad could spy deep into Europe",
+      "title": "Ukraine, Russia report hacking attacks on emergency alert apps after Oleshky truce ends",
       "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdFI1cnhfdFhUQnRHcUVLVld4WWx3Mm9jUVBwVDRvQTlhRUJGalNiaURNS3FWMWhiaGZ2UjNOT251cXA1WkhULWNib3NTeFpZelB2bXhfTDV6M0cweUI4UjFiN2k3STJrMnpHRzRGYXJsSm11dXVFUkhuVEMyYjBlSnJHZ0Zid0hrdEJQRHJGbzZ6WlBhSzlV0gGXAUFVX3lxTE1LMVhVYm9ZbVAwams1enBvZGZqTWZoYlk0bmgxMUM2Ul9FaHhsLThmdnNQSUpqTk8tTDZEQnpla0pTTlNacFZzUEV2WmhoUE1FUlV5ZnhYcDhUTFFOTXhjVkNWeU5WY3NBQWNtYVE2eEllbUJnVGVqTHZ1SUxOZE5jTmxXWXNTZFlsYnNXd3c2ZVd2TDF3aWc?oc=5",
-      "publishedAt": "2026-11-02T04:44:40+08:00"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbEQ2bmFRRzczQlJGMk92LXZ5Y08tcGZDbHhiWnBnYUEtZk5FMXFEN1R4blNzMkVnaEdoZkNFc2ZtSE5pVlI2aUFUd2JDYWxuZXhONXo0RjV1SldRUUNGRTU2N3hzdWlMRGlMS20tMDd1VTg2LUcyY2tXR0FGaTRQQV92NE5id0I2Ukdma2VSaktlTVBySW9wOXM3RE1PUQ?oc=5",
+      "publishedAt": "2026-11-02T10:51:10+08:00"
     },
     {
-      "title": "Oleshky ceasefire between Russia, Ukraine ends with no violations reported",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWFweW1oNk15eHFEVHNqUE92ODlDWThZdWNEcUlSZGZqM0FTQXZtZTBxUXhtdWZVS0ZETERqdDk3WUo0SHlzYng2STRQMkN2MVZNQVdGRkppeVN1elAzTHhBbE44ZjRXLXlPSUp5N19jdnZKVXVsN2I0RnJqQm16TXFheWdfVkxVbEU4NlhHYTUwdEFhTDRsRHc1aWR2X0ZycEhta0tJdEZUcVUtVXhFemlYRQ?oc=5",
-      "publishedAt": "2026-11-02T04:34:28+08:00"
+      "title": "Cyber attacks hit Russia, Ukraine after truce ends",
+      "source": "The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdVlydWROc3RWX1VFSWpXamRhUlFVTmZaMW80N1pkeXFIY2gzVEhYUUVZaHcxdGFmYkpodnVsS1g1bllMQi1sX0FtVlNua0FMUS1LemhFcm80ajBBQ21vMDdIZXE5endiZ2dwNFh4M01YRDRSQWt0UnliUzh4eFIzNTRVcWUxTTN1WWFhdkhuRHBaRHJJQk9EQmdZYw?oc=5",
+      "publishedAt": "2026-11-02T10:34:00+08:00"
     },
     {
-      "title": "Russia suffers highest monthly combat losses since war began, Ukraine says",
-      "source": "TVP World",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYU4wM29uX0JBZ2ZDZUlTakhhTlJrRVlLaEtDcEFyUmZHV0FBeU1LQXZkT1JBMDJsMHZjWEdwMXB3OWhoaXdDSmZvakY1MklLNDFfNVNIVDhUSElOamduWVA4MEtibHM4bHNQMklKYmtMWHJtaGgwcVJNY0Y4V3Fya1ZvaEZRT210OFh0cw?oc=5",
-      "publishedAt": "2026-11-02T04:22:08+08:00"
+      "title": "Exclusive | U.S. Pushes to Restore Russian Gas Sales to Europe Via Ukraine",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcGJ5czJUY0hNMkJORml6Z2ptY3h0SWp1MXNFVDhlNjNJY0RqQVRweDl0eGtJQ0RWZndidWFsM3VhLV82bTQ2TEYxUlRtVV9qdk1wSDd6RWM0QklacEhOWnFjeEQ0S0tZNXRDVlZiTk82cmdxZU1BY2J2dGE4aTlzcDJveW1tUUJtb0hudHI2cmJ0d2JvZDh4XzZ0Z0wtY2FwMG5YVGJn?oc=5",
+      "publishedAt": "2026-11-02T10:00:00+08:00"
     },
     {
-      "title": "Russia’s Shnaider beats Fernandez of Canada to win Tokyo title",
-      "source": "Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2ZTOVlUYUdVXzljcThJaTE4Y096SEZTZTJDa0F0WWlEYjgtQTgxLXplN3VzU3Q1WWtLV1c3enVDcUQ2bWdCRVRIdS1pUkdPSW12UFdVa0kyRTNsSndjOHlBajhRX245NU1CUENHUGQwamhQVlExaGNibThGcngzY05GNWhQX2MxMVAxZlVPMzBoa183cXNCMjAwYTlJUmZzLU5R?oc=5",
-      "publishedAt": "2026-11-02T04:08:33+08:00"
+      "title": "Emergency apps hacked in Ukraine and Russia",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEdSdWVISDd2T2sxSGVUb011LVhUai1Ob2loNWhPY2R5ZWRtbFdzN2ZPdE9wcG9DZ0ZndTRaMDZCYWdIQ0lBR18xOTgyTTQ4VUY0MFhZT05kOGJDNE9EUUNLUHN2RHdVRFR1UDNsU09GZXdkdlpCSUhOMGwyREtlX1VDM2ZLZkNCdmtqanRXS2dZTEJneDJiLQ?oc=5",
+      "publishedAt": "2026-11-02T09:48:00+08:00"
     },
     {
-      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
+      "title": "Russia says emergency alert app under cyber-attack after apparent hack on Ukraine's warning system",
       "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ENHI1LTZhR1pHYUFaTjhiQ1VyTy04ODc0dzdaYTk0QkFZdDRPa1RIZ0hoUy0xdzBBOUhMSGdjbFgzWDdyZmJXV0hSSVpZRVBlVDcxUmFVRjhZVVk?oc=5",
-      "publishedAt": "2026-11-02T03:48:17+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBhdEhaY19DQXQ2QTFMMGxMSGZHUmJHZTZ3S3FwMHkzdlFpMFdoSVRhRUZKdDkzdk9NdHUtT0wxOTNyVmJPVExtbWhEQ1ZvVUxvOWdfdUpR?oc=5",
+      "publishedAt": "2026-11-02T09:44:43+08:00"
     },
     {
-      "title": "‍‍‍[[[CBS^Sports]] Russia v Nigeria Game 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 Ｔｖ Ｃｈａｎｎｅｌ 01 November 2026",
-      "source": "Pierce Manufacturing",
-      "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNNFgxd3hmTFR5S2xwelJoNUNWdy1IWm9pc2J1Yl9lNkhNTC02U2lmYkViNnk2UjluQUZvbWw4UG83OXQ4LUMxclJOT0tTQlBmZHQ2SFVwWmlYUmlVOF83NVQ2aWM1WXpyZW1tZU1Bc1VWeXBFb1FDSk91TjQ4VHg2aHRXTlJudG92STlXbEluY3I0RFo2LTNtZEUxNGN0RVZ2Yjh4SXVaTGtpTzlTRlZCalFDQ1Btd0JSeHRlYnA5OTFHRmZPM3RpT0dRZEs5NFBpU2xaZ3htb1VZSVhsRXJnOUt1R1NsUGJ0VEZmNnRwOUc3dkpFeU1IS3JrcWxRNzBVV2loUGJhVVpkWndxbkJNQjMwSVZ1ckxETUN4V1lvWDROMUZEMEpBaXVDaVRwR0tEeVB5aUdIYlExMU1qV281Szk2R2V3N0t3UG5hdTQ3RTU1VlNRN0x4cUlnQQ?oc=5",
-      "publishedAt": "2026-11-02T02:29:20+08:00"
+      "title": "Russia says emergency alert app under cyber-attack after Ukraine reports apparent hack on warning system",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQc25wNG5Ya2JmZmRobWExLWFGTVZzU2QyTW9uNF9iQ2o2QjZGSWtmVlBfbWdXRmVFVXRQLWo5U044QlBaR3Q3eV82akhONEJ2X2IyWU9OT3Z5MklYbEt1Vmx2Z1dwZVE1RUNXVGtmc2xvNkZCZmI2NlhYSG9CRHpGeFg0RlFnM0x2TXE5dDV4SXJMUQ?oc=5",
+      "publishedAt": "2026-11-02T09:44:00+08:00"
     },
     {
-      "title": "Russian diesel sometimes reaches European markets under different labels despite ban: Senior official",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZ1BiV29YM1g0dHRmc3ZfOC15aGlmbTNJZi1nakpESGh1TE93eUVfenI5RXd5ckZYQmFsZ21DMjhjcENLa1FydUZUZDMxa2pjSUhKd1R3YTVfbmVBemE0SjJ0MFJtYkR1VTZuNDVGS2E3SFJHWjZjYk5jZUUyT19peFpJZUtDaHFmNUtNZ1hRZTR4Z3N1TUF3WUtkMHJLMEtHWmVkRTdhMUlxZFY4Y0dDOGhlUXVWUjRqUm9FU0VTRnZFUkZQSzJPdW1VTlRWRmxUUmdz?oc=5",
-      "publishedAt": "2026-11-02T01:53:50+08:00"
+      "title": "Ukraine blames Russia after air alert app sends out false warnings",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZU1vWGMtSG45R1lkVVhDY2FydFpzYnlRRDRYV1RWdnQwMFlmbGxlc25TYzcwOEhWa2I3MUtHU2JGSXVEVTJKSWxMRW1rMFJIQjBGZXZhTXhIYzZQbmotOTR2LU5xdWhmbWNxNG1kQTYwWGUwOEpjRnJPR2k2Z2FXdFdBNTZKakNUTm40SXJCcTJzSENMMFNHZ0dDLVBfX2NxZGdFNnpQWXBIYVnSAbABQVVfeXFMUDJJdUpjTzFFV1E2dWZrVlFpRWZYbWxqeVE3VWhJWkVOcF9PQTlsRnBleC0zUEZLWHFuUXgzeFQzN2o3dXJKSFhWRVdJWmsxMTBIOWVpeTNjUUlKV0ZoemNwV25DSG8wd0ZDcjBUNlJKaHJ3UlhZSVRtWnk2czU1UVpna1pvaThNdDB0SGVoZXFZOG9TZ3dUZWRPcl9TclAzR3JBTGFBRy1QVnJjb3hXRU0?oc=5",
+      "publishedAt": "2026-11-02T09:41:18+08:00"
+    },
+    {
+      "title": "The Caspian Pivot: Kazakhstan’s Digital Highway And Russia’s Strategic Countermove - Analysis",
+      "source": "Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcFF5Z0VyS1c1cGFxQTBpTHN0UmhMZmJSZGp2UHh1Z0hyOEZZdTk1U1I1QW04RUt5eVZnaUJwM3ZQcThIMGFFNHRnbWZ2NFRZSzJfWFdLTE9mTHBpVjhDRmc3YnYwRFg5WEh4MGo2OV9NS3pkSUFTZno0NExVMWQycWZtc1V3QXpHZ2Y2RnZYeFJ3R2RzcmhYdmVjVlZxUWJsd1pNcWdsV1FsNVNhY056eFRHMHBFM1pQU292TTRweTNQY1lnOTRN?oc=5",
+      "publishedAt": "2026-11-02T09:34:43+08:00"
     }
   ]
 }

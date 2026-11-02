@@ -1,11 +1,15 @@
 {
   "iso2": "GE",
   "name": "Georgia",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Tbilisi"
+    },
+    {
+      "label": "Population",
+      "value": "3,935,766 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,10 @@
   ],
   "headlines": [
     {
-      "title": "Tbilisi Police Arrest Man Suspected of Defrauding Victim of 102,300 GEL in Gold Scam",
-      "source": "georgiaonline.ge",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbTh3d293OWZxVGNVQlBlS0NHaU9iTEU1U2JiVWU1T3ZYdjZQTllKU0taWjM2NXVTVkFuN3VVVGJ1Q1pqc0g4M1dHN1ZRTUZsa25HRjd3TTBlT2xEVlFvcmpVZll1N1dQMUlqRV9DaExSNTdKSzIyX3NPaFZpYzBfUWRDNnRzODdxTENXWVQyU004TDM0TXZ2dTFDQ0gyRWtqZWNzLTluT0FTWm1Ca3c?oc=5",
-      "publishedAt": "2026-11-01T18:44:55+08:00"
+      "title": "WIT Georgia Tbilisi",
+      "source": "Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTlVRUkpSeGxFWHNjc05pNU9wNnNOamc5TEhRYVF1MGdGbFJJal9kcWozaTRlZkp4UmR4VE5DdEI2em1RWC1jQmQ5LWtlX2Z5MVpoZW05VE9KR052bnI5NHZwSnFHTkk1TDBlZmF1ZlkybkhVY1BNek0zdFRkaHBoRk8xOEVPYzdScWxQQ2RaT2s4YWlPZktfZFJUUQ?oc=5",
+      "publishedAt": "2026-11-01T20:03:38+08:00"
     },
     {
       "title": "Podcast “Protests in Georgia” - pro-European Saturday march in Tbilisi, video and photos",
@@ -54,6 +58,24 @@
       "source": "JAMnews",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcy1nVU1GTnBxZ2trYTJjbUE2VGNFSVVIdi1Bdm4xQ1VoRUFvMFlkeDBMazBCa1FRR1pjcXVaaS1Rdjl1ZWlJOWtCdDlUSGhrTkIyTGM0TTdCeXhfMDNTaHhtR3pzMXZNQTN0cXBYUUdfd3dmVTJOSXh3VzVYbUNHdjFsOWdaZGY3MmI5VTFBRXhtWmsxYUdPLUJ6MmxSakthclhoWnFDQTgxLUoxVXRUeGppQW5zV2ZhNEtQTlJoTQ?oc=5",
       "publishedAt": "2026-10-29T20:07:59+08:00"
+    },
+    {
+      "title": "WIT Georgia Tbilisi Academy",
+      "source": "Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT0FZWjM2RnY2WHlpREk0RVJQbXNtVFBvLV9jUHh3Ny1jRmdnQUNsZ2s3bENkNkpqc3p1OWVYQnk2cTdlTDV4WTgzVUl4SmttcmFNTXNyU2gwSnJjVFE1WmV4b1FBdWxsemFoNVF1djFrYjlYcTBCQ3pWaXVTV3l6Tkg3UHN0NnFFTzN0bEw5aWlHUzFJ?oc=5",
+      "publishedAt": "2026-10-29T05:00:23+08:00"
+    },
+    {
+      "title": "Use of Artificial Intelligence Among Medical Students in Tbilisi, Georgia: Perceived Advantages and Challenges",
+      "source": "Cureus",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ0FnOFBEZGs2U3ZoNkktYWU0RjhlZFhYMTNkNmQ2bHN4WEtPeUF3OEcyVTRRZjV0Q3UtQTVPYWFwZFNGdGYwZXhFYTBnRWJodl9JWlVYYkozdHAtZ3M1dU9YblJpZ2h5WHFfSDlDWEtfZEtzSzE4N0sxdU9LRjhsRzN4c0FpeHRCbk5FRmJ3TGFJcG5vMTA3cW9LWU1xdDFZamEwdHB2RkZPWlhIaVk1endvQkZuVnBuWjZ0Tm9nRThERVdUNmZjREdkSXNpQ2pnR1pYSTNRTHZ4MDVOQ2FtUQ?oc=5",
+      "publishedAt": "2026-10-26T21:57:30+08:00"
+    },
+    {
+      "title": "Georgia Faces New Test As Court Weighs Ban On 5 Opposition Parties",
+      "source": "Radio Free Europe/Radio Liberty",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWJvbFh2X3U3dWQwSUZpUGtpZzh4XzdpQldzZmZzMmpRc0VCMVZXRFhEREVtNXptS2IzU0tsaE1GbTk3MDdZa0hDUHM5aHc4N0NtMEkzSk1oY21XT2NXZGNHN2lHYmlnU09wX2lvWWFsNFFiWkhjempOMzhnSUFqSjVpcGk0bzFERVctZ1JvcjFzc1Q1N3IzQ2w5NE4wLW8yTXVCRjlPWGRnbEnSAa4BQVVfeXFMTUc2ejktSDRWdEJUM2tBZ19TNHlfSmgzQy1Gem4zUWpzRE1KNTU4LWp1R1JGbjgtT1NCSE12T1RrNGo4TFFVTzZDbHJHRjdXRkNXMVd6a3I4TUFoV1FNRkZhNGRuLTZUUWpIWnVHYlJOb09SSkltQTdYZ2hGYVRwOG9wZ0t3N003eEg0VjlqcU8yak1Xd1huZ0RpUy1DMkVpRXZ6TkZiaVIybDhMUWRn?oc=5",
+      "publishedAt": "2026-10-20T15:00:00+08:00"
     }
   ]
 }

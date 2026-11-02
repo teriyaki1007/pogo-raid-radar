@@ -1,11 +1,15 @@
 {
   "iso2": "FJ",
   "name": "Fiji",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Suva"
+    },
+    {
+      "label": "Population",
+      "value": "933,154 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,46 +30,52 @@
   ],
   "headlines": [
     {
+      "title": "165 children under State care in Fiji",
+      "source": "Fijivillage",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUDk0VGNza2Ntb3dabjZVaVljbC1qVG9qZUpodlV2d1ZzZGoyLUJiMEM1SEIzc3kzTl9mZnVrNEV5RlZkb0llbmZXSHhWeFdlelk3UjRORGNURmFCVUZXbzZ5UDE2X3lOQk1PU3RDNkVrUmMwMnJOa01KUTFDVDZBRA?oc=5",
+      "publishedAt": "2026-11-02T10:42:24+08:00"
+    },
+    {
+      "title": "Ellis’ blueprint cuts Fiji penalties",
+      "source": "The Fiji Times",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBsc0xvWmk5U1dyYzYtUDdIVm9OdUZyX3NydlFwa3JMZDIyVVQySkRKUGRTOHRZNVRuYlY2dTZxamRUQy1KZ1pNYWFrX0FZYmhGT1dLU0ZuUUFWRTJvSzJQWjlyWENyQnA5dm9ZS2ZySXZwaDA?oc=5",
+      "publishedAt": "2026-11-02T10:00:45+08:00"
+    },
+    {
+      "title": "Fiji PM Rabuka delays vote on Constitution Bill after mounting pressure",
+      "source": "RNZ",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ1FTem94ZUZ0ZWs0SUJzWFlnTFFuMk15YXYzMUlHTFczeU10SW4tYzNBalduUUZSUjFnYVpzYnZKOTc5QnF5d015MmhWMHAxWXV0N1BRNUg0RUpGdWd3RW41X2tlZGVXSVNYdWNkdU0zZzg1Wm1UN282QmNoRmNlU2diNnZacExPNzczYWZvQmt5VUxRZmxHNHBzMXZ2UDZia0t5ZG05aE40ZllkV3NEa3dmWUU?oc=5",
+      "publishedAt": "2026-11-02T09:35:54+08:00"
+    },
+    {
+      "title": "First look: Fiji’s Westin returns as a JW Marriott, with pool villas and adults-only stays",
+      "source": "Karryon",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VdHJGTlJIeUlfSWFic1F0dm1tRWExMzRDN1JuYU9ra2RYSnlDai1nWVhMYTg5SVU3UDBLbGkyZXBxLWhUZXU0dTB2RmZvVEpnaEUzNUZGNlhnME5lcWpNQQ?oc=5",
+      "publishedAt": "2026-11-02T09:09:55+08:00"
+    },
+    {
       "title": "Fijian PM Rabuka under pressure ahead of crucial vote on constitutional reform",
       "source": "RNZ",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd2FKdk05T2ZsRkU3cVBNWlNEUVFKMl9feWNGMFQ4UERPMWdjb1gxMGpxTzAtVWtsOUQ0TDRXUlR4eldVZ1hUWnVsWHNGV1Y5b19YX1VXS29jcktRc1FuVEVmdjhTNXA3RkJBMm1Sd0VtV2pKZml6am9BNllTN2JoUl9TZzdLT1h0Q3d0SW96cU9rY2tOdFBOR2ZsVW42THJXVHNFRVFkVWdpTU5PZ19kd1dEX01XeEgtRG0yeC1B?oc=5",
-      "publishedAt": "2026-11-02T02:52:17+08:00"
+      "publishedAt": "2026-11-02T07:16:36+08:00"
     },
     {
-      "title": "Six Months at Sea on Solar Power: Australia to Provide Fiji With USVs to Combat Drug Trafficking",
-      "source": "Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTzRneWFtdENsbWlSTWstbmlTQVF0OFlfYjFjdDZYUjJ0QnhmRE5aT2c1U2N5enhPNVA3MnFtRnhZNHk3Y0czRGlxX2toUG5kVWdMQmk4X3R4Y0h2d2gyNXB3aXhGMTVvZm5odWl4STY1SE1RVm1KUTRuRk1hLUk0QzZjdjZLN3gwdWhhMFROTE00SVVwaFZYeWZRb3ZUdExJM1FJSEYxVGNPMnlRYUFxMU1SUkVSRWJPNERLZ2w1Qzh1TUhSRnc?oc=5",
-      "publishedAt": "2026-11-02T00:59:32+08:00"
+      "title": "Australian traveller claims two gold bars vanished during Fiji airport customs inspection",
+      "source": "The Australia Today",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWTFLcmN3RjY4V1ZNSlVPcXd6Znd6UUFfQjMtRUZWeWdzeGplY3dTZ25EWXoyZ2V5UW1uMGUwY3BSR3A5Z21EaHNMalFrSWVhNElYem9QaG1aNUNtNVg3X1VpSkNwQThTdzVFak55WjJNWFJ1VjlOTVlxVDQ1VTAtWWhwRzBtVFhyNGNvX3hhM1FrUzVnbU5iOWFMNE41ODFpWTFsdHNwSWNoU3BEeUpfRHlwbDJHOV9WRHdtc0J6T2tCVXQxWlE?oc=5",
+      "publishedAt": "2026-11-02T06:43:33+08:00"
     },
     {
-      "title": "Two pilots from Fiji, South Africa landed flydubai plane after attack on Indian Captain Smit Machchhar | India News",
-      "source": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQS1hRZVhHcVJfOW5wMEtSWGl5cGlhNG5Rell0SlRFQWZzLUN1eHlzdjNZYjlzemRYbjluSnhqTXpwTGkyMlBBS3VxOHozVEJhanlpbFUxUXo2V0NOc0p3eFpHYlVKZDZMYmliMUJzWldSbXRKLTBUdGpzRExjblBmbVMxRlJGT2VseDBMeFZJcHVJeWRNdEZGbEZkMXlpVTZKZGhVU01FZ2k3cWtIejZ2YjlBSFRadmhKVDVXSFQza05kTElrcnFTck9uSHpRYkhSOG9BcUJqWGpPQUlrR1hqd0FaUDVjYU9Sd3VjOUhpZjBwd1JlS0FxMXlLejBGdnFkU3RfNUFfdDHSAY4CQVVfeXFMT3J5eXdsR0lYc1JFQzI5MXdGNkpVcGhRUmVxYlhkQXpmbF9TTmNzMVc1anM0ekFaZkxuTUcwYVAtUm1WWkZ6VWdmVWhHZGl0c0Z0M0xnQ3lOUURYZFg1bEVBNmxFTC1ZV3dIUjZXdmNUSjB0ZVZpcHZCWTBPcnZySHBDQXltcGdySzB5ZnBwQjdKMVRUeXlpTWhxNEFDZ1VfOXQwaWpyX3NhVjZFWTNvMFlhUlc2ZUJmQTVwU3dnQ0JZWU5tRFVabjBTNTBVTklscWNpbXd2NDNhSHJINXdmUWhCX1ZJSnppRWQtR1NzVlZhT2lzYkl4NUlha1RmV1lqQ25jV1o2Nzl0QUwxWmN3?oc=5",
-      "publishedAt": "2026-11-01T16:22:57+08:00"
+      "title": "Fiji Constitution Bill losing support as third reading expected this week",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOV3N3STRPMVNHU2VFWXhHNVNvRjRKc0xaNGdsdFRkSzJZZ1NZTEtkdzVqa2ttdFhnZWxKUU5TQWJfUXJacnAteUxvU2FTaVFuSjF3X3BVYkJpbVg4STNvcW43ZTJmX1BEeS0tWTkyLWVrQnFTTEVZd2xtQ2V2UzhkaWExWkdFUQ?oc=5",
+      "publishedAt": "2026-11-02T04:00:00+08:00"
     },
     {
-      "title": "Rugby League World Cup 2026: New Zealand beat Fiji",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB5Ykp4VnJ5WEZDMzJXUUJLdzRpd1BJekRzQUhXb1l2aWg0WGo3RlFHdTExU2hySWVzTVBpVl9IYkJoSVp2NTh2OGlSeVhweWNMUmpKeDNTYnJLNFZiRV8tMjdDazlNdldIUWFCLTRn?oc=5",
-      "publishedAt": "2026-10-31T20:25:34+08:00"
-    },
-    {
-      "title": "̳̳~＠SPORTS!]％^２０２６！] New Zealand v Fiji Rugby LIVE ONLINE",
-      "source": "Port of Rotterdam",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNWWhsaUZyVFZicGdNT1pibmxwSVJDb2hXZ3dSLXFTRHNvWUtMU3VYUFRQRlhsSVc2ZmtfMXU1STc4Wk5XajBBSl83U08wZHlhZXhDNnBoZzhUQWxOMElqOWw3a1RXaHpQeTRLYUR6ekQxczFUOFBWYnhDQ05ub0hacW1vSWxkQWpOWWpSQVhON0xhMnNZblpvVTNoVUc1Ym0tTFpST2NrRkdLejRuaTJHbWhpdFZrT21FbGNpUC1jWG5DU0s1WGdfWnhpZ3ZVVnRrUGNjeV9ZY05MZ1JRVllzak9vMkxDTEZaY3FOMFdOeXVFREI0RmRrUG8zbkhBdWxrUEZvNFdGQ3JSY1RUUnV1VVhvaHdGdUJSS3F5YUZKV040ajlRWkxTcWluUVNLTFFDbVJlY3RucFlFM1pYU040Y2lsUlI?oc=5",
-      "publishedAt": "2026-10-31T13:43:12+08:00"
-    },
-    {
-      "title": "̳̳[RUGBY===☑︎!+! [ＬＩＶＥ ＯＮ ＣＨＡＮＮＥＬ] ☑ New Zealand v Fiji Rugby View A&M LIvE FrEe StReAm 31 October 2026, Full Live Coverage of New Zealand Rugby League vs Fiji Rugby League: Watch the New Zealand Rugby League vs Fiji Rugby League",
-      "source": "Port of Rotterdam",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNS1l3X2ZEMzVzRmhMbzlxeEZtSmFJTlZHd1VEbDQyLUZVdmhVTnNZVkVNd1pSMWgyYnltRFMzb0s1SnY3WHM4Tk4zR3FELTctSUhOdGxOYzR6UVhOMVlkU2cyUWE2T2Q2RGJSSUV6Zl9FVTdtV3JKUWx6eDBqbGliQk1PODBEbWVJYlFaV2o3R2JVQ2Q5S0l6LXItYmhxeXVZbm13WTFoQ3dTSXd2WURka2ZZdWJHQ0Fkbl9ORThQQVFTcG9ONUtLbUhEdmNwMmJGeU54VENqMVBqWjNCNWZMcmFWWTRFSVFyZllTd0hzd0daalNfRS1zdC1rZjZtd3Q5VkU0TldXYVBremdEYkdNNl9YVllpTi1EbFlZcFNWdG4tZVBXc21Ba0dmdllvenV2MTJ5d2I2NVc2SHNwQ3JHVFRJQ1A?oc=5",
-      "publishedAt": "2026-10-31T13:43:10+08:00"
-    },
-    {
-      "title": "Constitutional Rewriting in Fiji: Does the Government's Constitution Bill Pass the Supreme Court's Tests?",
-      "source": "ConstitutionNet",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14VFdMTGJLOFF5ZGlSVnlPSUF0QTFrMGZsTTdEYjFIRmJlX2EyU3M0VWo1Sm9HWWcwNTlIeVV6N1JfT0stS3o5UGVTZ2gwWlVMdXI2emc4TFBKeUtiT3h4UlZwYVRkV2I5ck0yYXVWRFpUV1NlRTM4?oc=5",
-      "publishedAt": "2026-10-19T15:00:00+08:00"
+      "title": "Fiji may struggle to respond to next crisis",
+      "source": "FBC News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU2tHYU9GbUU5NlhLODZrRXZOZHZBVFlqaTNlQi1KSzk4cFpPTDM0bmxkVWJNUG9UeS05NWJ3VGs5enNnOF9XV1pzcVlWbG5JUFhZMWhpTVRjZTlJN19ZQzY0M29lU3lqQ0NpNWlHN1ZWYjE4aXNYTHp3dld2X0lCSFNB?oc=5",
+      "publishedAt": "2026-11-02T03:20:25+08:00"
     }
   ]
 }

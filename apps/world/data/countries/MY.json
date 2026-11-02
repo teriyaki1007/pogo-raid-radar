@@ -1,11 +1,15 @@
 {
   "iso2": "MY",
   "name": "Malaysia",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Kuala Lumpur"
+    },
+    {
+      "label": "Population",
+      "value": "35,977,838 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "MICCI helps strengthen Malaysia and Palestine trade",
+      "title": "Malaysia Aviation Group advances strategic projects to drive commercial expansion",
+      "source": "The Edge Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5mdlFLOFF0aUowckk1aTNGR1hhWjZMelJiUVBHei13NktraW9tMExYdjBIR0VXVTR0UC1QMjA3blFHTldIRk9KQU1xRnVzdzh5?oc=5",
+      "publishedAt": "2026-11-02T10:58:29+08:00"
+    },
+    {
+      "title": "Equinix Taps Former Kyndryl Chief To Lead Malaysia Business",
+      "source": "BusinessToday Malaysia",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXRUeDJaVDA4aTRKTkNtRGl6M05EQVlzVDZhc0ZpSzNQTll4YXBNa1g3RTQyOUhvVXluUU9ndlc0Y0dhcW4zU25yN01HbGhiaUNzVk0zSGtDT2Q4LXNVNll1LUkxemRvUEtyX25fdUxYbTQ2LVU3Q19iT1UwdjRHQllEUGxCVnZtSm1kSDBtRlpiZUphc0ZyQkNtUUxZUndFMVU4anlGNA?oc=5",
+      "publishedAt": "2026-11-02T10:57:19+08:00"
+    },
+    {
+      "title": "Nearly 100 Employees At Utusan Malaysia & Kosmo! Publisher Placed On Paid Leave",
+      "source": "SAYS",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdWFQR3p5dUtTV09yancwSHgzNS1TNXFGOGVmamhYblJvdzM1T0QwQjc4dXRuemVRb2J6alhrVmtfTGtUMEhLaXlQbnVqUVVNbWJSdHlMSm5sM2Y1NUxuY2VIdHVMdkZFWllSS2xqam5SVzBwUVREZDFEUy01SHVJOWxqaU1KbDhlRnVuWFJRWUVLTDBQTVRUc0ZhWlU2TS1QNzcw?oc=5",
+      "publishedAt": "2026-11-02T10:56:00+08:00"
+    },
+    {
+      "title": "PTTEP shuts in Block K Malaysia fields for work on Kikeh FPSO",
+      "source": "Upstream Online",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWVfNnhMTW9jUUIzZGpPcFJJcW5ZZEFWQ2QxcDJsY0YyV3FxZEZCd1NFNnZhR2Fpa1RReUtCSFR5WVhNVEJobWNzTlg0Y2t4LUFNWTg2R29TS29kZkYzVWxxOWFKN294dzZXM1JmTG5iMzJpZjF4YzNBQ3lvbVI3eFA1bm9ZLWl4b1NEalpZaEJwNHJXLTZlWjhVdkFtSjQ?oc=5",
+      "publishedAt": "2026-11-02T10:48:52+08:00"
+    },
+    {
+      "title": "Karta Coconut Water teams up with dentsu Malaysia to make simplicity ‘Naturally Intense’",
+      "source": "Campaign Brief Asia",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLWVndFE5Vk8xcXREWmdpcHJKVElrY0VGbUtFMXdqWmZJeU5seHh4WVNPSmtBMnlVcElVdVdEVXJac1JfRkRPUVdRa21sSkhTcVUzcUZyUjRtOC1Va0NHWDgxUFFJVDY2MjlHX2VtOHBwYmtqM2lEeS1QUWhkc3RnRnZOR1RlM3JDS3ZtTGdHVzhZSUt1Vk43SFdfMGNTUnF2WXY1MlpKMklhaTFTRVo2eWFnMWxDUU5jaGRpVldUM0ZYVkt4R0VZ?oc=5",
+      "publishedAt": "2026-11-02T10:43:40+08:00"
+    },
+    {
+      "title": "Meet the APEC economies: Malaysia",
+      "source": "CGTN",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGZpREhMY3hzdlppOVkyOF83OVRwOFVSS1BZQnYwTVo5ZGVsWXhTWHFwVUMzTHFyZTZJcHBxY0FELXNWM2RBYUN4MXF1aV9CMHRXUTFvRXlmbEV5Tm1hVHdRUHgzWm13ZGpJckNLS1pIci0xbWZueEpyNG82cUNzSzJsN01VaGlMdHVXcjZYelpLa0E?oc=5",
+      "publishedAt": "2026-11-02T10:30:18+08:00"
+    },
+    {
+      "title": "In Malaysia, online application for 10-year passports starts on November 2",
+      "source": "Asia News Network",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd1FsdHJhOWlBUVVZcjMteEVXbVVGMnRaM1BHOG5rV09Cc2dUcndQX1Jic1JoRDBGdzI3QXZsaXBEUmdHU3h4Y09fT1pnUEpNNEpSZVEySGloRlpubHBySGt1VGtnalV1N2ZhMXZJTHdGM3h6TUxJWmY5WVlFWGNiXzFpVTlhLXZoOFdiSGdyOEQxalU2RE15MEVYWjNBemdi?oc=5",
+      "publishedAt": "2026-11-02T10:16:12+08:00"
+    },
+    {
+      "title": "Get your headset in the game: Digital dodgeball makes a play for wider acceptance in Malaysia",
       "source": "The Star",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPci1UN3Y5emRGc0hNQTZDZ1V5QVlFazhPNS1SNzZsZVcxUGFqa3hSMno0Z0ViSkxLWTAzT2Z6MFg4QnNVM2hqVXJpcWRnTlprNldfMWdGQU5tNTBfMTRnY21BZTAySnJVYmlFM2tFY1N2ZWFjYWx2ODNIdmVLRW5aZkFEeGE1ZHlURlNVUUpTR0dhZFVHYmdhRXVOUkJ0Y0lZZ3EyS0toNHB1RDdkQndsTGJR?oc=5",
-      "publishedAt": "2026-11-02T03:54:26+08:00"
-    },
-    {
-      "title": "Asian Champions Trophy: India pull away in second half to beat Malaysia, reach semis",
-      "source": "The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWTkwS182OEJidUV3TnE0MEw3OTFVYmV6QkJjeWdYQVJ3SHdoOERfZ1dINnc5aDc3dkFHM0laZVJLTlg0N2RYN2pmcmtidFZ0aDVUQ0VCbUhiREU1UVd5SGFDQVpzVjlRaDV4dUNCRnFCd0Y5eUNsZXhlLUQ2dWJyVXk3dmZHNG9mZlhDNC0waEM2c2dqaGhfU1A5M2w5VUZyLU5nQWxnRktTUzRBYWN2c0xn0gG4AUFVX3lxTE1VYUxkSmJWRUVtN1pfSHNNRmwwTTBMMm9qVzIzZm5BUmdQNVN5V2k3TTdMVDVKeWlLeXJfMDdocUwxbC1KNmFMclJCb0QtVm83OVhtRG9VRmRiUnVtREtib3hkamhtbGtXY3NfQWpVYXVLcUFFZzZlOTBOSmlMZnJZQTFSQkFDUFZfWnNzbkpyN2VjeWpHZmphanBzM3pNMEZFYVVHbWRkNDE2WW1BZWp0Zl9yaDRSNXA?oc=5",
-      "publishedAt": "2026-11-02T02:33:42+08:00"
-    },
-    {
-      "title": "Senegal vs Malaysia | Women's beach volleyball highlights | Dakar 2026",
-      "source": "www.olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbEgtNkRoMVJ2dGhBYlZYWDV1aUtuMEtEazBEWThlbnl0NDRkTklkV2tFZmJaRDFPY1I1TFBpQWdYdHBHQnVrRUJmMGt2bTlPYUNuZmF3b0hxc3lhN2UtUDBWa3hzTXJZcjI4WXg5TUJ1alMxU2RWVmE4b1ZmQkVEYXZqLU9YS3h2U1dXWlo3RThmaVNZ?oc=5",
-      "publishedAt": "2026-11-02T02:00:33+08:00"
-    },
-    {
-      "title": "Malaysia Airlines Warns Customers of Amadeus Data Breach",
-      "source": "Airways Magazine",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlTTNfd3FURnFfUjBmNjVTa09BMWtsMGZyeWMzOTM0ajJ1UmYwLUNBVjI0MUxQLUEzMXVXbGlEZnJKT2prT1A1eExrZW9NRWY4N3NnVTh5QnNJTEJpN0o5M3RsNVA2dTFTQWsyRE84VGRiTlY0cUMwWmNWS2hhUQ?oc=5",
-      "publishedAt": "2026-11-02T01:06:37+08:00"
-    },
-    {
-      "title": "Asian Champions Trophy: Harmanpreet’s hat-trick helps India down Malaysia",
-      "source": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNndKRTM3MG5tVC1NT0hxNWh5X2dXckZ3WENwNkZ6WGE0SmxiYnMxMVVmWFBlOHRNM0lIU2JwbVlqWjdIR29jTjBScXNIN0MyeF92RVdEVE8zSEVoMjl5TUQ3bG5DUGRZU3phZm9ROGtDZGFKcWt0RnBrNEVwUERKVkg3MmNRTnQ1WHZmX1pxM3hKUjVRU0x0WlV1TWtnYkh5elp0TDJyeXFXUEZsRHVfXy1EVTh4NmdhYkZBUjI3U0ZTcHFCdkt3RdIBzwFBVV95cUxNMVF0ak5XdGNjVW5LeWJ2ZERJUjhxc0hqYURoeUtOdHlWeFBVZENBanY0bE5mbTlpNzZFdlpWQW56ODRuTlZCNGY4RzhEX2FzRjc2bFE2b09ocGc1UC1EeGNQR19HTlh0ZzIzNFRGa3A2UFBPMkRuRjQ0YkJCZlN1LW54eXJWdkYySTZXS2ZZbFY4U3NZTEcwY0x5Q3EwQkVhelpUeC1YNm00cjhTWU1GQzlwSmk4R3FsNWNmczNKRHAzOWZUWFQ2V3VMUGplVWs?oc=5",
-      "publishedAt": "2026-11-02T00:26:36+08:00"
-    },
-    {
-      "title": "Harmanpreet's hat-trick sinks Malaysia as India keep perfect Asian Champions Trophy unbeaten record",
-      "source": "The Times of India",
-      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxPc2w4d2hnLUJUbUFlS0JGV094Z3V3c2pnSlh3WUk1NVRTNUZQVkRJaUZGcEZtR1J2aXlkdE8yaDZJTmJtU2prUG52Sk5vNjRTUmhCWXpRUHN0QUdIV1RqSEhjellta2FrcVQycUtwV3o0OTZ1YWdpN3BvS1QxQ2g4bXpKV3JGVkxyWXdCUW5aUkhDaUVZZV9faEwyTXY0UjBmSWRVbzhicUkzRk9QZHJMaFlsOUlHU0ZGSGFNNjY2d3g1WmgyUkNSVlpaR0dPbzRHSXBEbk9adklzcHNLSkV6cWFLWEM1UU0zVWpYRkhsdkJMd2JFdlh0SGhGMVFqdDlUY0Z4THg5eV9DZUxNbHFfSzZxdmY0RlNFeEg2ZHh5RGJ0ZEtPWXE4Njg0WFpHZVNiaFg4T3gweGo3cG1CU2xxckszcjdnNHlzU0FUYWl4WDF0bzBlZjFsUmNHZkV1RVVaT1lCSw?oc=5",
-      "publishedAt": "2026-11-01T23:56:00+08:00"
-    },
-    {
-      "title": "Yamashita surprises self with LPGA title defense in Malaysia",
-      "source": "Golf Channel",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYV9Tc0gzQkZnby0wSUhKN1lOSEtwYUJkYW93SWtpQnpGV3hKMWRCNHZUbW9KQjdLVWxucTR5dEFUSThSd3dnRnhXUGtyZjItMW9HWE4ySERwVU9ZVEc0MlRFTUNKV2p2V3dHdjlZLUs2YmZnVXdVTmZENTBEQTkyUzNCWDJGZ19ESDhuRXpYRXl2dkZLbE9aT0NlOGZIQjd6?oc=5",
-      "publishedAt": "2026-11-01T23:45:36+08:00"
-    },
-    {
-      "title": "Asian Champions Trophy: Harmanpreet hat trick helps India beat Malaysia 4-2",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPakJnUWhRTUJ1d3dLY3owVW52R25Wbm1iTmQ4WTRleEVhYmhZdDg3Q0V6dzFFR01IYWYxbTd0WVVGRU1HeHk5RmZsSnhwVTUySjBna3NRbnFTM2hRT2NpYTdoeUd6cGRNTG1sX29WTTNYMXhvaXk3ZXJBNnJJNmxBVFkzaFliaWZ2Z3BMa1J6bEpmMng0VXJ5SnVTOHFydGc2WEJLckdWV211Sl9MZ05kUmF0ajI2UUc0SEtjTWFveDNiX0dsQTJoT2k3NDNKYWhKckZWREZuZGp2MFFESTNF?oc=5",
-      "publishedAt": "2026-11-01T23:23:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaTVYbGFHZllpNGNXUllZUWwxb0xCT2xzMTRkb3Q0UkVkZWtmQndRU1NmRlhoV0lzSno5OXd1M1Qzd04tNzlIRTk3VVJWSkJYcVdmSEhDUDJsaVRZVUVUaWpuNU9Qal9vWW4ycW5rejUzc2tRSmZSai0wTWJqZ3RiZVBPWWJ0WWxOazh5U05yb2VqdEluTUgwNDU2NnY4YU5NOVVUY1RlUFk1S0JLWmFPSmpYR2F3eWtqVGU4dldsM21tQ1UtVDMtRFJ3T01ENXNtVldPbVB1ZUhub2hPaEE?oc=5",
+      "publishedAt": "2026-11-02T10:05:05+08:00"
     }
   ]
 }

@@ -1,11 +1,15 @@
 {
   "iso2": "KE",
   "name": "Kenya",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Nairobi"
+    },
+    {
+      "label": "Population",
+      "value": "57,532,493 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "Flying blind: Kenya’s rabies data gap and the families paying the price",
+      "source": "Daily Nation",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOODdnQk4xRTVjYzAyTDNHSmVWLS1oeEI2TjZiQVhUU2VhblNXYXluMldVdmJ2YTFSc3RueUNoZkd2SzNxYzgyemk4dlFCYXoyZGhSUFRuZ3UxdVB4NmNldGxwakZ0Q3B5SUVyR3U3bjR4MWFjLWZUWmF1YUh5MUdIaFFuaVZRaUxuRWxOcmdXMjVST3BIME1tVm45WTBRSjFYVjh1QXF0ZW41LXFpWjViT25vVQ?oc=5",
+      "publishedAt": "2026-11-02T11:00:00+08:00"
+    },
+    {
+      "title": "Dakar 2026: “A sense of purpose” – Kenya relishing global challenge on home continent",
+      "source": "IHF",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSWd1TGhfbHVVVEV1XzJsZ1UwUE1GT0lMMzNJOXRZMHJpX0xxMDFTZzFvSTBkaGJLUXBQcFhvV0FLa1BlOUE3VGZTbWliczhFUFBKZEFwYXpvcjdUUEt0MjVvNUU2RHZZNlE5ellXdE01RE5Qb0w0YUhFRXRMbEgtUDZJR00zYUYxVkNaOXZlRjA5aWZTUTZWSzU1bjFST2t5Q0RrZFE1VzNBSXBXZWlKbQ?oc=5",
+      "publishedAt": "2026-11-02T08:02:28+08:00"
+    },
+    {
+      "title": "Kenya's police investigate burst dam after dozens die",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1nYWFHSW94NkRMNUxCUVlnR1JRSTZpMjJaN2xoeXVUZVctcnY3TDI1d0NTc29pV2JMb0ppNmJ1aEJLa1ZOQjc1UWVMb3FpM01kM3RISXJIekNiZ3Z5?oc=5",
+      "publishedAt": "2026-11-02T06:20:24+08:00"
+    },
+    {
+      "title": "Saudi Arabia Tightens Ebola Travel Restrictions on Kenya as Nairobi Defends Outbreak Response",
+      "source": "Horn Observer",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZXd5bGJCM1BFS2ZkbjlUb204TlcxTDlCZko3RE5YcTRrMUtaTUxSUmV0RVBibUh5OXluUlVpZHZmRmx2TDcyOUlkU2t4d3ljd2hxMFk1RjRUU3VwWUdZa1Q0RE5ZekV3NFFuNE5wRFBubzhEbmZXeU5aMkRTXzdWa2NiQXRDSmw1MVUzOWlVbVd2OWhXVWdMQ01ZbTZ0VjFweFRmbnpBRkZZdlV2M1czTTdFOU50M29tSFFkTUJUOUtWVjRhRHNzWEs0eTA?oc=5",
+      "publishedAt": "2026-11-02T06:13:35+08:00"
+    },
+    {
+      "title": "Kenya’s Sheila Chepkirui wins matchup of past champions in NYC Marathon",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDZrTEI1WTVvak9NR2QzZWRYVGdXY2M4U2tMV2FDLUZTWExrTmNkUUhqa2VKeDVtZmIwVVJHM3gtVDlCVHZJckxsMzFUQ0F0QmdzQXhZMWFnTHN4ekdNeU5QNkszdVVDM1JjUGtKTzJPN2FEaTdVZUJKaXNCdXJfX0J3cnE2OGM2Y3VMcTdWYWdqLUtlak1odmpvbjdfRlpQR1BwRTYxT0I5a0VXZXpnb2d4aEZjbjNqWEE?oc=5",
+      "publishedAt": "2026-11-02T05:48:29+08:00"
+    },
+    {
+      "title": "Wiper leader Musyoka rebukes allies over Ruto’s growing influence in Ukambani — Nation Kenya",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGw4STZCU3FGSFZ5OHZYbDJtOXlmQlV2UzlxaVBhdjlwdjBKYW1TdzJDa3hKTVZZT1podmFmSkdyc0F4N0cydDBvZVJpMVYwOHVOUVZoWWRxbTJYSVNDZ050WUYwOTBrN3lKSW5xeDctOWJUY0RYbHM4amI0YVZVdUlNNUxpQ1Z2Z3BacFhrZmgzSEN0a0FXNjYtaGJaVmtIVVJvNUFYTXVEd2plZFVGRG9KLXZRSnJyYnFN?oc=5",
+      "publishedAt": "2026-11-02T05:24:09+08:00"
+    },
+    {
       "title": "Joho announces ODM’s intention to strengthen positions in Kwale — Nation Kenya",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYUtPWmR2S0FPSjFueUtleklfQnpScnh3clBFQVRBakFPUE8wdVk4Z241clcwWDNnV2djaktTMFdYVllldkt3LWNKYU5TSnpNYVg2dE9PVkp1ajU5Y3lVckNGRUFEZ3ZobEdIREZ2YkZqZHk3NTI2TXRtcGc5OEpqdUFmZnplZjZSemZQRHk0dTFsdGFJRUxranc2al93YWpWQVN4MmNR?oc=5",
@@ -35,43 +75,7 @@
       "title": "Kenya seeks churches’ help to curb Ebola",
       "source": "CathNews",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JX2I4WVZ2cUpyUUZWRjI0V0pibmZfUjVpLWVjVnIweklEb0Fnc0hNRWt1dENINF8tREFlenltTFEwa0VTeU82T1IxUy1BdVh6QkdOakhVNlM2Q29UU195TlV0RkNUTGVJckFacEpxQ0FuSEFVbmpjSXR3ZF8?oc=5",
-      "publishedAt": "2026-11-02T04:53:27+08:00"
-    },
-    {
-      "title": "Kenya Progresses With a Port Concession Plan Worth $1 Billion",
-      "source": "The Maritime Executive",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZGNWYWtMUXNJQlFzSkphRThTREZ5dS1QTjhpX202SWx5S2tsRHZtVThfWjltMGJTT0Zia1ZTQjFxbVRBY2RGeGlUTGh2VHdwM2U0cWdneUNSODZRSFUyZmlnME54dzk0R0pQNUZ5elFNbXZMX3JNY01KNWh6bVFKd0U3Vm9jdGpuSHpTRkVTLVdjUTNqX1NZUmtuTzJKRTZV?oc=5",
-      "publishedAt": "2026-11-02T04:47:02+08:00"
-    },
-    {
-      "title": "Saudi Arabia Tightens Ebola Travel Restrictions on Kenya as Nairobi Defends Outbreak Response",
-      "source": "Horn Observer",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZXd5bGJCM1BFS2ZkbjlUb204TlcxTDlCZko3RE5YcTRrMUtaTUxSUmV0RVBibUh5OXluUlVpZHZmRmx2TDcyOUlkU2t4d3ljd2hxMFk1RjRUU3VwWUdZa1Q0RE5ZekV3NFFuNE5wRFBubzhEbmZXeU5aMkRTXzdWa2NiQXRDSmw1MVUzOWlVbVd2OWhXVWdMQ01ZbTZ0VjFweFRmbnpBRkZZdlV2M1czTTdFOU50M29tSFFkTUJUOUtWVjRhRHNzWEs0eTA?oc=5",
-      "publishedAt": "2026-11-02T04:28:29+08:00"
-    },
-    {
-      "title": "Governor Eric Mutai offered reconciliation to his deputy — Nation Kenya",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORnFjUFBhcjZjSVFVLTlET3BYUmhxWm9PaGlXLU5qM0ZCSkpuYUtrTXozS01sMXVMaE9COVVzeWpiOGRSeV9XeGZtYXVBb1UxR3pFR2xPaUcxQUlRdGE3NDhmTTRvTF9kWkwwUDAtZW8wMHNYWVFLSWpnNEYwdmV6UTFUUXdMRTlUeTJOR1VkS2tULTdpNXRyMWRWY2FqU1dnQjdFT252dw?oc=5",
-      "publishedAt": "2026-11-02T03:44:07+08:00"
-    },
-    {
-      "title": "Ruto hails Chepkirui, Obiri and others as leaders applaud Kenya’s dominance at New York Marathon",
-      "source": "The Eastleigh Voice",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeGY5UEFJa0FITVVPQlVPaG5yWmtoUEc1cTJYVHpjWlotUm9FYm5JXzg3SUtyNkxqa3h3d3d3RW1XYU1GV2FpbkQ4V01NaHAyNmRONklXdEhZRUdJNWVvVjRxM1gxYlk1X3kwdnVLUmtGT0JZQWlDaEJQMko5cXBGRVdjWHRXTVpTT1otRmphQ3hZSFduOFhuM1hYUHJQS2ZGeXJWdnl0bnJQazAxV2JaaXgzNUJ6UjNuQXZ0NVJhV1VrSnVBbnF4eXFvamhvOXBGMmtQN0hEOA?oc=5",
-      "publishedAt": "2026-11-02T03:19:50+08:00"
-    },
-    {
-      "title": "Kenya remain unbeaten to join top-ranked Cuba in baseball5 semifinals at Dakar 2026",
-      "source": "www.olympics.com",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRmdHN2V4ZmxpOHpxdGNsSEdsSjVYQW9sWmJhYW81MU5FbmdYTU1uNWRQRGtCbzN6eHB1blBQRXRpRmlidUVLNjRmcVRkQ09lS2g4Rm5LVVlPZTRyUnZqVGdKNXRvZXE2S2U2aWxpSkRLeXVXTkN4bDJoYWNuWDhUQjJGQWozeFdQbkpJNGNidk90aDNOS1oyUEo0SEJOT1gwVjc0LVlSenNnWWFQSmMyS1AtR01nOVdBMTJWdng3dUp4OUlQSjV0d3VVM2tZU0JGLUtCRFhVZEhTZHcwY0NoR1BxdlU?oc=5",
-      "publishedAt": "2026-11-02T02:34:43+08:00"
-    },
-    {
-      "title": "New York City Marathon: Sweden's Almgren and Kenya's Chepkirui win as 60,000 take part",
-      "source": "NPR",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0pZQjJnN2U2VmdpVWVMQWJiUjRCUVBDTk5CcUY1Mm9vRTN1MXpYUTd6a3lLc21KU3VYZWVsMHRHdVRxTXZ1WVp4X3JQa2U2Q3hicU5FVjFETmtnTzNueENfazRxUHNLY3FEd2dkTGZhd1pLckhQTkRGampQRVNlTHk3eGJ3LTVQQXp5Yw?oc=5",
-      "publishedAt": "2026-11-02T01:33:21+08:00"
+      "publishedAt": "2026-11-02T04:53:05+08:00"
     }
   ]
 }

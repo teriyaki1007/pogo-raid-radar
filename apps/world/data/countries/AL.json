@@ -1,11 +1,15 @@
 {
   "iso2": "AL",
   "name": "Albania",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Tirana"
+    },
+    {
+      "label": "Population",
+      "value": "2,349,580 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Can 21% VAT solve Albania's problems?",
+      "source": "cna.al",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQczBzT0dxMlVLTHk1cE9JbnNKbFA5ZDVyekM0bnczZUt2c0lhd3JLaHJTR3JsQWp0Tngxb0xNTUQ0RkJPb0ROR3kwbUZEbzU2YkVZY09OVlhPeC1ISWlCcG5MWkJSb2ZPclJrZ1hOLWI5U3BZcjZwd1g4Z3VnV0xkS05hR0pVRVNMZmhzTDZuMjRHbFRxeTJmRUtB?oc=5",
+      "publishedAt": "2026-11-02T01:52:00+08:00"
+    },
     {
       "title": "Six arrested after violence at latest anti-government protest in Albania",
       "source": "IntelliNews",
@@ -66,12 +76,6 @@
       "source": "Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVG12VWhWUmFmbERsWmw2YkR3b2VDclE3VGRhTWJtTG14SFM2ckNMYi1ITlo4UU1IUi1ScWk2UjJLV0VES3oyUklvT1VDY1d4ZnFUMTBZVGs4NFZjVGhLMjNhbU1Jclljd0V6dVA3NS00WmMwM2hhMVZxbUlJNTVoLUhuTVgySmJFNXJsNENMTE0wMElMcmk2YnFCUkN1R0hRMmZTeHpSNUlaNTEtVTgwZUF1NNIBuAFBVV95cUxOR215R2tFUFl5dE9rUWUzVWFXbWYtUk9oUEpwUTlvMlpiTHd6NzNRWnFpOGZ1VkY1cXVfQ0RjS01abzBDX2VUX0ltTmQtZ0x6ZVpGbUtNVFN6NEdpUGNoeHQtTk16MVp3WVV4YVNwTTZEajN1R0dkMHJGcXdoeUNLcDlQRUNMZ3RpaGdyNTEzUWNBSmNfcHYtZ19CSUhOQTk2M05WQU1TWHpZc1o5LTVGUnJDdUxrNWpK?oc=5",
       "publishedAt": "2026-11-01T05:13:20+08:00"
-    },
-    {
-      "title": "Protesters throw petrol bombs at police in Albania",
-      "source": "Sky News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN1pUS3pLbzFLTl9VVktjWlpTNUlWSG1saktIWTRaOHdiWHNlX2JjbWdsOGo5YzVQOUNRcGhtd0I0X3h4V0c1VXdMdnpnZVRBUmVhd0FqMnVLemtMcGhkM1J2dG9OYmNQV1R3dGRKY2pSbG45cEVXYnpZcDFQUEN0b09mSjJkSDlhXzF3dWNwdw?oc=5",
-      "publishedAt": "2026-11-01T04:47:09+08:00"
     }
   ]
 }

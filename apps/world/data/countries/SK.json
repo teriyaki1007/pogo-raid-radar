@@ -1,11 +1,15 @@
 {
   "iso2": "SK",
   "name": "Slovakia",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Bratislava"
+    },
+    {
+      "label": "Population",
+      "value": "5,413,813 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Tesco To Sell Czech Republic & Slovakia Businesses",
+      "source": "Supermarket News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVmtmWWszYnRkSGRyODRWV01LZGxwM01USXBYay1vSHRueExCVjVPaGlRbVpFckJUQldzQVhMT24yQktTUzRrWmI1MzJFVmZfQzd4aW5reWpubjhua0lRMFdZOUJsOVdmYU14RzY4Q2R2WVVMS00yYU9zZkVQVnVWeGdod0NqX2ZYVWtBUG9YOA?oc=5",
+      "publishedAt": "2026-11-02T10:00:15+08:00"
+    },
+    {
+      "title": "Two killed in bus-car collision in eastern Slovakia",
+      "source": "Apa.az",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFNxUEtFN3RuV0N5T3ZGd1F0eTBLdnl6anhGWnhyaV9XNE01c200bG4wQ3lrMG1BWDVVQkVTQUwwNmJOTDhNNDlWRVVTQ0JaTXpoQm1hUl85VU1UdklwQ1prMjJYNWJHcThxc1U5Z0IwanF6SlNCdFJuTEVYWHYxRktnTGs5NFpXeXRZ?oc=5",
+      "publishedAt": "2026-11-02T06:15:00+08:00"
+    },
+    {
       "title": "Northern Ireland draw with Slovakia in Regions’ Cup ...",
       "source": "Irish Football Association",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd3huQ2dMYVBYaUdLcGhzcmlRTl93dnhVUE5UNExRd19RNnc4YkpEU3hYZ3RhazBNOUR6dzBkOUZWN1lseEkwNEJweW5iekFpN0tfcDBxX0pIUEkwNFRObjg3VkJ4Y2ZuNmcwR2JHV0daZERsd0FUa2ZSdTdKcXBMdHlZYWJjdDVrN2VkRkdCc19lSHN5STMxZw?oc=5",
@@ -40,8 +56,8 @@
     {
       "title": "Slovakia MiG-29 Case Reopened: Prosecutor Revives Ukraine Jet Probe",
       "source": "MiGFlug",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQmxoRVp0SU1PMU9FS2h4amp4aVh4VGlVeV9uOGxCQm1lZG1tSkNJVU5YNHMwdUxicUl1cVhFMGVxYzBaUkR4ZnFTeHd5anFzR2FtVEVzZHZkYkFLcHdrSFpvWHROUUtfZ0s0Yjk0X2NsQkx1X2pzeXF6MXB5SmRUYnJZVDZVQTRONkFpSVUxWThGVFZYUjVENHV3QQ?oc=5",
-      "publishedAt": "2026-11-01T17:35:43+08:00"
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeDFteVl2bmh0NWpnanNrTTl5TGg3eEJyd2FiSExWOVUweVlDSTcyLVJWa1VCb09tTWVBUll0UVFvTXRoc1VBQXNLaERzNl81bjlhRWYycDc1UHdUQ3cySVl2VWlTSU0zTjBTQms4bFNJZXZKSG1UNnY1dEktMkRITFZ4RFJxWlhEVTRPMHBRV2hFeS1seDFJ?oc=5",
+      "publishedAt": "2026-11-01T17:35:18+08:00"
     },
     {
       "title": "ADÉLA Talks Slovakia Roots, Nicole Kidman Connection on Fallon",
@@ -50,28 +66,16 @@
       "publishedAt": "2026-10-31T22:14:27+08:00"
     },
     {
+      "title": "Fitch Affirms Slovakia at ’A-’ with Stable Outlook",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaV9CT2I1VEJUYXM5Sm83QmR4d1VqSlFaZkctbUttVzd5R19UZGxzNlpneUlaWnNqY2hVT0hPaHBZbHFXeXRDQ0Jnc2wwNTJYRkxxXzdGNEhfeFdtRkQ2MDdPZ1B3a0RXMHhCZW9NTFdUUmpQX29SLTZUMjFId3M4N0Z0QXphb3E4aHV6ckRpQTdSRDllQ3dNdGNyNkN6Q1U?oc=5",
+      "publishedAt": "2026-10-31T12:20:00+08:00"
+    },
+    {
       "title": "Ahold Delhaize to acquire Tesco in the Czech Republic and Slovakia",
       "source": "Prague Daily News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUG9YR242N3RUUzN5WjFicHpfYm9JcDdOaFY5MDAxbXF5Z2ZlWkp3ZG12cDhkTmRsZ3NyT002M0xJR1JzaExaZjVUVWRxMHg4ejkxbW9NeHcxYzF0Y2lOM2hNalNwOXdxU2hqQXQ5UTFaM3RLTXRRTUZ5UzhZZmZvUktlMWdEUUNySWtwSFkwZlhtX3JRaG9VU3VxYnRLZ1pDU21wTzVxQ01Gem8?oc=5",
       "publishedAt": "2026-10-31T11:44:07+08:00"
-    },
-    {
-      "title": "Ahold Delhaize to Acquire Tesco Czechia and Slovakia",
-      "source": "Progressive Grocer",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLU0zU2hrNjBRUExhQjRNRkdzcTktM04xbl83b3NKd0VNbWljX3FXZWNFdmhPRnhNSEF4a2ltNkRNSzdTcnVOWE9rbXZ4OGJybWt6eDdkQWRtVHRSeWtjUjVNUVdkUE5SZEh1RmdNZDlOWnNZeDRZdHFGWHVzOUw3RVlkYUplUQ?oc=5",
-      "publishedAt": "2026-10-31T03:23:17+08:00"
-    },
-    {
-      "title": "Slovakia has reopened an investigation into the transfer of MiG-29 fighter jets and air defense systems to Ukraine",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbG9xTGtwMjIxcGJJOWZkWlVudnJjWHBJU0JHR3FGMWZNXzNVSktQUTZmUVFFRGg4QnZmeVlYeFZDb0U3YjRubGMxaWdzX3B1cnVmZjVFNE9PRC1GTkhnYXdvcEtjRVlEZXZxZkUyZ0NSTEJlYTk0UExLR1pMT21PNlVoZ1ZSR2hxd3ZXa0RGQVBIRlFORmJHVXJ4bUNoeDRTcVRsbEFEaUJVcXFraWcxWjhac2EtVDlQM1h1OQ?oc=5",
-      "publishedAt": "2026-10-31T01:55:49+08:00"
-    },
-    {
-      "title": "Slovakia reopens criminal case over donation of fighter jets, air defense systems to Ukraine",
-      "source": "The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVjlPU0lHNDNvUlEwNWV2WWItU3hyTXRoTHJWSVdENUpYQkMtcHNaQl80aVUtTXZXdlpReFNFaXczd2tHWThPbUhqaEFQd2RRYWw1d0Z1cnpnb3NCUEJLU283SDEzeW5sTUt6ZVgwM0M2M1MyN052RXpXMU4tdk1rNDBOXzBzU01vQ3BaY0NsTDVoZWlTV0g3RmJaZEZPOC1RcGI4VWFKemV5b3ltVEtLU3BXLXNRT1U?oc=5",
-      "publishedAt": "2026-10-30T23:26:35+08:00"
     }
   ]
 }

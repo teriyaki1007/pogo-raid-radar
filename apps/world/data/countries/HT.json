@@ -1,11 +1,15 @@
 {
   "iso2": "HT",
   "name": "Haiti",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Port-au-Prince"
+    },
+    {
+      "label": "Population",
+      "value": "11,906,095 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "A Pregnant Haitian Woman Faces an Uncertain Future After Trump Ends Temporary Protected Status: ‘I'm Sorry I'm Bringing Her Into This World’",
+      "source": "Ms. Magazine",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONHRWdk5KZGN5MXh1YVh6ZDJLUUVJMmc4VVZxMzZxclFxU0MyRFdlOXpPcllCajdldm85RURfNW9uU3VTYlk2bVRxdnNaeEgzWTB1dDE3Zm1mSjRjLWFZbVNTTWNQRjI0QU1ydE1zWkNkcVFOX0pNMVdaR2lDRk0zZmM2cFp1OXg0aGFKVTJlajVyRmMtMFAtUHB1cjZfRC1jbzJsUWpkaC1vOGI0TlVUUi1GSWgtUmFu?oc=5",
+      "publishedAt": "2026-11-02T08:03:39+08:00"
+    },
+    {
+      "title": "Does American Airlines Fly to Haiti? It Just Restarted Service",
+      "source": "Caribbean Journal",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sSE15cUVFNHZkTGEwaEJaX0kzWXhhVnNuTEhWMGp3QnlkWjZrVVdjY1pIdlJEUE9UTU5ScENUS2JoMkJYMFRUckgtU0NWSkVubTFBd0Ytb004SUh3Y2hvUFItdnhXMFR4V3NOMDlTRlRGYUlfYmc?oc=5",
+      "publishedAt": "2026-11-02T07:46:45+08:00"
+    },
+    {
+      "title": "US greenlights El Salvador’s troop surge into Haiti",
+      "source": "Semafor",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkstc0NuRHpFUFBoWkp4ZDFVVHhmUU40UFVGODhrSkpfZm9DaVIzSXl4ZmlnTjlINVE0NFVJSHJHUmIzUzJobEIyWHdoSzFKd3dfTW9FRFRzVV8yZm9tQkZXWS1QSU9GSFB6ZzVDNVMwSXRKVG9xZ3IxQWV0VVl5Z09uUWtmVE85TlVR?oc=5",
+      "publishedAt": "2026-11-02T06:28:00+08:00"
+    },
+    {
+      "title": "American Airlines returns to Haiti with all-Haitian crew, marking 100th destination served in the region",
+      "source": "American Airlines",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQQXBUemFjcHJQQVdpME9penR5Ym8xdksyV0U4aFZhUTIzME1xRndzdXhSRk13ek1yME5lQ3NYc2FIb2FIWWdIYU1BMktzTDczZHVkV2MzeEZQTFdoSzJkd0RWR0d0Q01SbnBaWjJQLWhnVEo5OGRiQThkS09ZVTd0UDdVSm9SY0YwTFZBaDNMV3JHeklUTWF0ZkFIQlI4LTZlOWNLLWNkTnpmc0RjdENVZVVLZ25PSlNRS0Vvb2Zxd3dVbkw2cHFvb2tEbXAzb2Y0czF1RklhdGpMTlJZOWZoSzVibWk5Y09na0VKdEhheE5sM1lNWW9JNEhHT3E3MEE?oc=5",
+      "publishedAt": "2026-11-02T06:03:12+08:00"
+    },
+    {
+      "title": "American Airlines returns to Haiti, launches daily service from MIA",
+      "source": "Miami Herald",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUs5ZkpITHg2NTlYWkVXV185T1dyVWJHXzdRTFJVTnZpMVdRZ0hIczFjQWN0U1o5dFE4aTFEaFMyOTNnYjBiUTZWemlCZUNDX1QzTXVRN0RiSF9FS1ZLdWduYldlLVBnN21FbVVyY0t2Z3JEUTlmRC01dS1kSHRJSXhKOHV5d0dscjNsZWU3amlpQdIBkgFBVV95cUxOR3NFaHBiUDNKcXhpTWEwbDF6cE4wQUJBN2pnaFBDeS1WWXBGVkZEVWJRbnZXMkJiWjRZSm5Ic0JZODNGQXVOZE5CdVNRWi16X3dUUEw1TjlJOEFsT0xEQS1xMWJHSVZveFVXQ0pjbTY0QUtXdTFJNExzRG5wd3Z2dUhDZlhBQTkzMS00RTN5SDNWZw?oc=5",
+      "publishedAt": "2026-11-02T05:36:04+08:00"
+    },
+    {
+      "title": "Haiti Day of the Dead",
+      "source": "Goshen News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVkZpaHd0TXdWcGVvcXJCQkE2b0lqQU9sUWpvZkVINHN3VWtZbGxKYjJvVkg5bmU3Nnd4TTN5Z2l1Q2pVWlVSQS1Jck1oLWpCZDVMU1VtdElpQzQxVXhROE1UY3RHTmZEN1JiWlJTX0JfYU1HVmZtV1FNWkhPRjVGcU03OFpaclRGSU1PWUEyNXVyLWhLQmRuWUdhME0zR3VHV24yV3NRUUpDNlRSc0N5WXdVbkJRQQ?oc=5",
+      "publishedAt": "2026-11-02T05:18:39+08:00"
+    },
+    {
       "title": "Bukele, Haiti, the political vacuum, and how the haitian diaspora can help fill it",
       "source": "- Rezo Nòdwès",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV1lOa3l2ZVllbkk1TVprTHFNUHh6WElwR1NrRUxCbVJJb0xjMWdzZkQxYk9melNfUEVpbWtlS3RCTXFqSTJkZGZKeU1PdzJnR0FoaEZVdnoxX01PSzFZa2E5dlBNXzRzQTFYU1lPUmExY2cwWi1tSmJPOG1yRGZmU0t5SlZDdjMxTkNJMUtrVkFDOXpEYXFSZVFob0ZpYXBNLVExMC1VOXNkWVJjb0RmbA?oc=5",
@@ -36,42 +76,6 @@
       "source": "The Haitian Times",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVkoxMlFRSHlPMWoyV25sWm1rLUNvMm1qZDlZVXNtZXNKTXdYNTdpdE1RWmV0Z3dYcnBBdm40RS0wNUVtSWNIRVJsM1VSR2FRUlpYSHR2SlFNbFd6YnFvSTlFNldrZDlJZmdPT3p5WFhlUkxYdFp6Y2ZrNklBZENOOXlVNVZpUTJkUWRRSXN0bVc?oc=5",
       "publishedAt": "2026-11-02T04:07:40+08:00"
-    },
-    {
-      "title": "Does American Airlines Fly to Haiti? It Just Restarted Service",
-      "source": "Caribbean Journal",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sSE15cUVFNHZkTGEwaEJaX0kzWXhhVnNuTEhWMGp3QnlkWjZrVVdjY1pIdlJEUE9UTU5ScENUS2JoMkJYMFRUckgtU0NWSkVubTFBd0Ytb004SUh3Y2hvUFItdnhXMFR4V3NOMDlTRlRGYUlfYmc?oc=5",
-      "publishedAt": "2026-11-02T03:07:03+08:00"
-    },
-    {
-      "title": "El Salvador sends 2K troops to Haiti to rescue four missing soldiers",
-      "source": "Panay News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2g3VWZ6ck9FMVdmaUxLOTZQZDVIZ2d1Z3FKRTEzQ09iRFBYWU9fNGdhd1pDMDFBQy0tWlZkX3RZdklJVW5sRHEycEQ5SkJ0SkxMOGJZYVcybnM0RWVzMHZnVmpEeVk2NElkSmJaX0d0d195UFZ5TmpWZEM3X0lOUXdfeGllc0IxQk5pbU5IMWZUQTVpQlpiNDJmZw?oc=5",
-      "publishedAt": "2026-11-02T01:03:00+08:00"
-    },
-    {
-      "title": "American Airlines: the first flight to Haiti took off this morning",
-      "source": "lenouvelliste.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQ1JvQmtHQ0xqWUJBZ0RpWVVHWXQwS01RaTBDY3JBN0dsS0ZWQnRiY0RBaVlBSUZtWW9zdTFNWGxWNGpObV9zMVQ2ejlCMUhNS2hsWS1uRGZyVXpDRnFJYVF0QW1oX3I0Z2JGQjRHSTMwbUpDcWluZklYTVBvM3duSUoxTjB0VjBXaEE4MW5SZW5TWmZUNVRQU0d3bktkdnFTenVFeFk0VkVXMUZSZUE?oc=5",
-      "publishedAt": "2026-11-02T00:58:44+08:00"
-    },
-    {
-      "title": "Haiti - News : Zapping...",
-      "source": "HaitiLibre.com",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE12YnQyQklFQzVhQmhQWWlnUURtb1J4dGNBV3JHZjRNT3dCdUZVTHBTczQxZXVhWDF2cS1NY0ZJdmpUcDRhekFFOC1nYzZIYk9Vb0psYm5KSms2OWcxaDQ5VkV6NkJuelFkakNuYkZKUHg5dw?oc=5",
-      "publishedAt": "2026-11-01T23:28:40+08:00"
-    },
-    {
-      "title": "Haiti - MSF : Civilians and medical facilities must be spared",
-      "source": "HaitiLibre.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMnpIZF9keWdtakU5MlpnZkJxX0xZQVRudkFIWTR4WGlPQll6NUdiV1RZT1FONFljd1JKRWhDWEdxaUVueDUxeXVaS2VQWG8wU0VMT1VHNXV2R0JiUjlkcllsb3F0cDloWjg1ektmekJuYzBvVmhmNTkwbU1DTWtGMFpLcFVtT2tMV09wMEJBVXVicG5laFZvZmx2dFFNX2hyTUxmOWtR?oc=5",
-      "publishedAt": "2026-11-01T22:30:01+08:00"
-    },
-    {
-      "title": "Haiti’s Hunger Crisis Deepens as 6.35 Million Projected to Face Food Insecurity, UN Warns",
-      "source": "EEW Magazine",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjBMTVg1S2hGX21FTkRGQnduWkNQZk91cERBZC1SX20wOWxSbGNubVoxcHZseU9iNVg4eWZFeTB1d2szQkhWd2JDVVRncTJ6alcyRUt2V2c0WXVPNHU5YkxoUWtsM2dBVHhKc2htTXpjRGl1bF81eHI4ZGtrOUUwcDZaUkZ5ZDVuQjdyMVZ6QnRyXzFmLW9NTg?oc=5",
-      "publishedAt": "2026-11-01T21:39:52+08:00"
     }
   ]
 }

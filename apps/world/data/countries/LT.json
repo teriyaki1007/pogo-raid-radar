@@ -1,11 +1,15 @@
 {
   "iso2": "LT",
   "name": "Lithuania",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Vilnius"
+    },
+    {
+      "label": "Population",
+      "value": "2,888,774 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,12 @@
   ],
   "headlines": [
     {
+      "title": "Why German tanks are rolling into Lithuania Nato has overhauled its Baltic strategy",
+      "source": "UnHerd",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tcEFkTGsxNWd2dERvRjJwalVHTmFkdWh2ZEd3d1pQYk5hcmFOU21RNVhndW5rV0NUTEdWVy1mOGhJTEV2MDM0RUd6SnNXb3ZSVmNxbFpTZ093WVItVGYwZ1lkZnRBZGlaa1lCYTZKM3VDOGVNZzIwNl9wUQ?oc=5",
+      "publishedAt": "2026-11-02T08:02:41+08:00"
+    },
+    {
       "title": "How volunteers are preserving Poland and Lithuania’s shared history",
       "source": "TVP World",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUm5zQ1lBdkwzSlJuNnY2dEJfSTVqUHktOWhCZWdaWmxLdG5WTFR4ZE9FeUc5MUVMejl3WDViNENxeFp1bTcxTTA1M082TnNsaG5FV29pTjdiOXgtRXlCMUZkTEJfTUs3eFliVVlULTdIbjlCajktc2tlTHltdjdycUpFSlo0TnV5MG5UNklnMA?oc=5",
@@ -34,7 +44,7 @@
     {
       "title": "Lithuania All Saints Day",
       "source": "Post Register",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZEl5TFFneUVILVM1N1FKY3Jkb29QLU1hTjBwZzg2Mkdwd2syQVp2bjRsUEEzZVpCUVYyVHlvQlk2cEFOcFBkQnBoSUZldExCTkhPRGRNM1V1R2ktMnAwdWpyQzh2ajFZUl9jcHlaR29FR2Y1dktHUlhnWTNkVG5FSjh5UUJIQms2SkczWDV1cG93NWVJc0Nhdi0xOGRoTnktemFUTXJHX0d3V2VxMjNlZG1n?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOVQ4bzNseGxlMkhGTHNpWXU4dFAtck5NVnVUd1ZIRzd2U1pBTV8xRmxtVjlUelZ3XzhXRkZkUmJ0eXJ2UXRUWEN1bnA4SDdZS3BPZ3JXTkJxaGVVYllIWlRlUG9yU2hMTW9GVE01Si0xMWtGVkVfYktaNzZ5cG1TaWlGaHFYN0dnLXVnaS1kZUhyRXpzSnZnbVkxMkdXZ1c1NmUzN05aaVBkS25JVnVmZk53?oc=5",
       "publishedAt": "2026-11-02T03:38:20+08:00"
     },
     {
@@ -44,10 +54,10 @@
       "publishedAt": "2026-11-01T23:39:49+08:00"
     },
     {
-      "title": "Lithuania’s 2027–2029 draft budget: Defence and roads offset fiscal pressures",
-      "source": "World Construction Network",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZE9WeWdNRjdCckp6UG5uWG5oU2NxeXhZN3IxMmVKTFA3UmFGUjRqTDJqMXBGVkJENDZzQXRwNFdOME1CUEZtRnA4SzZuSjhNdXE1Z3E3M09OQzVfeU5LQnd4N1BtdkVPdC1ueVdZMzVCSmpKVWFOWVU5U1AtbFVfQ2V0R1d6NllnVnZ3cE9wRWs5UGRkZ3gxdzBhZDRVMGl6Nmhrc3FPMTFBLUcxWjRBY1UzbXE4ekVzd2lfcUh2SXMxUm1lalBQSVRxbWFnZw?oc=5",
-      "publishedAt": "2026-11-01T16:20:31+08:00"
+      "title": "Lithuania's 2027–2029 draft budget: Defence and roads offset fiscal pressures",
+      "source": "Trending Now Infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNTZEN1pKRkcxNzF3cy01SmdyQjc2bEJwMzhCZGxHbkFEM3RrVnIzdkt3UmhoenFlamI1eURCdTJvQzBYOWJBOHd1eU56VUhqWVBFejNnQTdJYUplZFpmQldIOXZwQzZYOS03Vmk2VV9jZzg2MUgwcVZleFFlMXJkM1V3NU5aUllxNW5kOVB1cnd2SzJtYk1BUURBbHhiaU1xNTdBNVRxUnNydHF4aGRQTFdEYkV5U2VGVmRqcVkxdTV0YmVO?oc=5",
+      "publishedAt": "2026-11-01T16:22:08+08:00"
     },
     {
       "title": "Cutting corners: Lithuanian artist builds unique home inspired by Gaudi",
@@ -66,12 +76,6 @@
       "source": "The Times of Israel",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcmJZaUhnaU1XSjJRNzBRVnFKcDZnUkktZFRkTGMwU1ZwR2FSUUhvVTkzRTkxdHh3TTRIdTBsTHpyTGd4RXUyRHZyYXUtZ3V4T3RVMmF3VjZSa3hVM0w0YVVTSFR5YlhkWlJIRTFtekZVbG1POW1ncXJWOGsyUjRhZjJuTlIxVWc?oc=5",
       "publishedAt": "2026-11-01T04:45:00+08:00"
-    },
-    {
-      "title": "European Juniors Qualifier Mykolas Tuskenis Of Lithuania Sends Verbal To LSU For 2027",
-      "source": "SwimSwam",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTzhEbXBUZVNQdE8wZ3lRRG40RVZnb0wyTnpvbjlTRHl4SkZ6M01yUTVrRkYyNU9ScUJtcU0zWkR4WEx0WmV6akpPcWdHU2VGckU1QzFpbTNsM3V0SnU0c3VxRFpLZkFsLXhweFpWdzN5a21KNHRGSEo5YTVXSGV0T1hwcWVpUWYzVlBKaTlNdjItVWZPc1kxUi00aUxKLW1FX2RlM3N4ZzUwZTA?oc=5",
-      "publishedAt": "2026-10-31T21:39:31+08:00"
     }
   ]
 }

@@ -1,11 +1,15 @@
 {
   "iso2": "FM",
   "name": "Micronesia",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Palikir"
+    },
+    {
+      "label": "Population",
+      "value": "113,683 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -21,6 +25,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "First Micronesian to reach Challenger Deep coming to Guam for documentary premiere",
+      "source": "guampdn.com",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNT3JKN0dqRGRDQ2w5ZUE2UFRsNU1aUUl0cDlzSGlsY3ZYOGdlT0xOaDROclZ3ZXA5aW81NllaeUM1WlhjOHluSUw5QjZKWXJoLWtNd0pmZHVMaVpaaXhISHBzbXRsVDFGT2I5S3RkQ1lzSmJKd1o3bTZ0LWtIMDI5eDgwZWFuMkRlRllDeXVJX1dpVWMxZEczTldvX0s5VXdZZ21qbXpyU202ZDc5aENtSGtvMVloT3YzOUhuNWZnaktYaGNRSDB5WUg3RXNvMUJrU3N6eUMybHhnQkZ3R2h6aF9KQ20tT0c3XzlRZ2haU2dXZWp4cEREX1V3?oc=5",
+      "publishedAt": "2026-11-02T09:00:00+08:00"
+    },
     {
       "title": "Micronesian leaders urge people-first approach to US-China rivalry",
       "source": "RNZ",

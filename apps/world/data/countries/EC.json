@@ -1,11 +1,15 @@
 {
   "iso2": "EC",
   "name": "Ecuador",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Quito"
+    },
+    {
+      "label": "Population",
+      "value": "18,289,896 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "Ecuador’s Espinsoa claims first gold medal of Dakar 2026 with 400m freestyle victory",
+      "source": "News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYkxnam95Zi1LUDlVMmlyam9BSWFaZjZXeGViek1wM2gxZzhvNUdlbXZrODRhM2V6em5XanRCMUYwcExmMVluRGR6OF96STBnRFV5X3pCQmN5cjVJdTdfQ3pCYzExY3YxSnN0bjkzSE5kRnN1aFFsT3l3QjlPNzJyV2I2ZDQtNnd5b2UyR0oyeFAzOTM4T0Q1TWZ2Ty04UGlUTC1DMlI4RjE5WVVjUGdCYXdPMkVjWi1KbEdNcVZfN1Bha1VjZ3BFY2N2eV9OR3NrdDdPWU9Ic2tEeFdlRDhXcEkzbXB2MUXSAewBQVVfeXFMTUVBX3Q5b2gzdTdpMHNhdm8wanBzVTA3X2N3WUNqOUJLb3lHUW9ZRUJBSFFWLVVKc014b0tLVGI0cGdGZXVNdTZRN2hnR3doQU05U0tqUnlHS1JWc3VhTnY3WmlHaExVcVBZbHQ0RXViemxWM01fYUFRRDNHbWNXTVF6d3NhZ1lOQkFfYlY1Vkg4dXUzdnlvMl93aXhFZEJjV2RpRGtPdkVJS1Z3OGstSDh3MnoyWi1DbXJfR3pVSGdIbVBSeWJyZzY2NERsVDZOLV8tZG1CQU9ZU1c2aDVkYWlSaVlJUTJHd2NVNEM?oc=5",
+      "publishedAt": "2026-11-02T04:46:07+08:00"
+    },
+    {
       "title": "Video captures house collapsing due to Ecuador floods",
       "source": "Modern Ghana",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04TG95d1NqYzI3RTROc3h2VHR2MVZOekhwNC1uc0xQYjdIaV84MFhpb2FyWFBEQ01Pb29ITkIydFJVUm9COHRMRVlTVHA2SmxOdDFWNDFaS1N0bHJBMU5CdmFrOVlSSVXSAVxBVV95cUxQMFpZZjJZVGR5dEZIblpWWWVIRGdWV3FRMUNyT200cTF0LUZvS0RTYWxNUmlacGZpWW9SSUIzd1pnR2tOUlVYWEZXNGRRN3lEd3pVaTR6MmMxNDNTaA?oc=5",
       "publishedAt": "2026-11-02T04:20:00+08:00"
+    },
+    {
+      "title": "Ecuador will enforce overnight curfews in five provinces from November 1 to 10 amid operations targeting organized crime.",
+      "source": "SafeAbroad",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYWdNQkNGYll6R2hEOG1oeFZJMTcxNUtLZkhkTDMwYVlMTDdJMFVKVjl0Tk5DUHd5MGthZEdwV1hnS0c1eGVQc3VkNEN3NTh1UlpIdHdtb3RoNGFKVlVsS2JyUXhFRDNXV1NERTE3U1Y0R1NOT05EMVNob2d3c2Q0bDZwelN0a0RvbTBLbGUxVmpjQ3BMX0FrYmFUYWF2SnIzbTJUcnRMbXhzUzN4dWVRV0ZKRTZUSUREU19CLURIOV9Cemtsc05qcTcwYzFYT2xIWVRnOHVTZmpzYlpPbXoxODR4NTQ2dmVLMlpF?oc=5",
+      "publishedAt": "2026-11-02T01:38:49+08:00"
     },
     {
       "title": "ECUADOR WINS ITS FIRST GOLD MEDAL AT DAKAR 2026 AND MAKES HISTORY AT THE YOUTH OLYMPIC GAMES",
@@ -60,18 +76,6 @@
       "source": "teleSUR English",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSlFEdWlCM0g3UVRLZDY3NS10a2paWHRySDJUS1NqZlgzbzBiVkliNElEdlpGMHdvYzBMazZjTG1FbnBTYURKa0hneUpIbjVKallxQWliVWpGbTJGbjlyZFltRWYxZUFYVFpzRkJBUFJ4N2FfUEl3RHAwLVkzWXowTW5KaDdCR25NYUdZV2xOSHg0TE91aWc?oc=5",
       "publishedAt": "2026-11-01T16:18:18+08:00"
-    },
-    {
-      "title": "Ecuador beats Panama by two votes to host 2028 UN biodiversity summit",
-      "source": "The Climate Watch",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQkFVVmQyY1RVcFlkNkVzTHNMSU1STGN3cVB3S1B0aHlzTGR4WGtINDNNV3g4elQzNHNWMnFGai1NV0ZrYzRqTURrU2gxRWJLWGxsYXJKMkppMjB0Z2otSVJrTEZYV3RaUTJsd18xTVQ4ejBaNTQtMF84LWdqeGZIeXJ3ZEMzWS1ucDk0bEl2WDlickViNzhOV0xUQ1RMUzA?oc=5",
-      "publishedAt": "2026-11-01T15:00:00+08:00"
-    },
-    {
-      "title": "Heavy rains in Ecuador claim one life on Santa Cruz Island — Anadolu Agency",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUlZkT1cxcWkwd1kxTWNsSHdvSEQtbE5DdDZsai1aWEU2TFZ0MlRpb0ViMC05anIwVFg4U0xuRml4ODY4cmJ3c1FjQUI4VDFic1d0UU9xcGFzZ3F6d1NFT3IwdUtGVi1qOUd0SnphTmc2REhIaWY5bU1hekFtTXZHTFBxSXlSVkRxcGczS3ZoNllSYlpLeG9GT0QwY2ZaZUpDVHZWb25CN1R4RFZsYV9N?oc=5",
-      "publishedAt": "2026-11-01T08:16:08+08:00"
     }
   ]
 }

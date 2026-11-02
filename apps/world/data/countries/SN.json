@@ -1,11 +1,15 @@
 {
   "iso2": "SN",
   "name": "Senegal",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Dakar"
+    },
+    {
+      "label": "Population",
+      "value": "18,931,966 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,9 +30,33 @@
   ],
   "headlines": [
     {
+      "title": "Youth Olympics open in Senegal as the first Olympic event in Africa",
+      "source": "News.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLUx5eGgyRFJ5UEdhTzdGYkJzNUhQdjdOS2EtaTVVcnU2bjAwamJqOXp1cDVQaWlnNHgyWWZqRmFaYW81eTVGRWhzSHoxeXJPMU5qeU5zTjFvNnFkRTJyLXFxNHNKd3ZOVC1id2c0b2VwcXQ1VEE4N2VWS09Ba1lUOUV1RjFYVFdsSFhrRFF2cHFiZkx4cVpnLXljLUE0bUlYRFVMZnp1THM4eFl4RUVoMW1MMWJUeXJQc2hYYUlZOGdUX3otV2h5ekFEczl0cWZlc1HSAdcBQVVfeXFMTk5TQUhQLWJKY3JKbk1Gc3Y3YXNkWEJJZTRKN0ZYbklMWFMtUE1nWkVBQ2ZfS1hqNl9nTlEzLWlMWFZuQ3Z0QmhJREExZ2hlSGswT3ZnbkdIb1oxV3dtQkNqNEpxcFNVRlBtek1Gc05IdkowR25oWHk1NkotTnNpczA0SVRrOE5WamJQem1wVWgzY2stZTNDNHFueVZ6VjdVOUVXcTFEbjYtUmU1bklnN2dLdHI0WjlScVAxaGRTWWlQZUJIM3lMbmk4QzRMOUFTLVdrM0tMQWs?oc=5",
+      "publishedAt": "2026-11-02T06:52:32+08:00"
+    },
+    {
+      "title": "Senegal makes history as first African country to host an Olympic event",
+      "source": "Pulse Ghana",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOV09FWVRkMVZvY2xUSFdwRGh6MldmNll1ZUNQVEQ0bDJ5RDFBbl8wbjlXWkpGdFF5NGs5am5vLXBSLW01ZEZQNzRrYjUzZ1lzV0NxcGFDVGViMjhpNDJaWHRaSjU5VUxVN3h0aVJmSzQzOVNqV2tVdURYSjBWSEpGcVp3d0tzVnFqcjJubllwWnVVRlRGMUFQaEgyaFZtTmRnd3JWdV9haVRwNEVwdHJwM3JQTXFKU3NWN0dNYXZXaw?oc=5",
+      "publishedAt": "2026-11-02T06:09:50+08:00"
+    },
+    {
+      "title": "Judoka Mati Anes wins Canada's first medal of Youth Olympics in Dakar, Senegal",
+      "source": "CTV News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNclF5LTVYWXhwcW9PRlpHSjFYb01GTk0xcW1JeDdqNmhqZnBVeHo5V2lIaGhubHByNzRhSl9VbURrT1FGZk1YQkNlbEtQY1M5a1RjUmVsWXh0M1hsaTAtRWhBWWVxaVN2cGNhOEpJbmpRTWNtRmVPQkx2WU9oZlNKUmR0X0QtNDgyQ1o3STJpQzVUZlBPYXN3cXB4dFhNYmRkTUoxblFGNGdub2FoSlp6cHRzTlFtUQ?oc=5",
+      "publishedAt": "2026-11-02T06:06:38+08:00"
+    },
+    {
+      "title": "Dakar 2026: “They're incredible!” Senegal make a flying start to their futsal campaign with Marème Niang scoring four",
+      "source": "Olympic Channel",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdGFPM2RWZVJvcWFMbnZiWVlQYUhadjM2VXYzV0E4X2F4eWhjSnZpbE5KRDhxTlNKU2lBZElkMWhadnZLakFTZWstbHh5amRPWHZiMFhTZ2VoTnlqalQxNlJ6dVQ2bW4zZGpLcEdfVlAwcUZqdHVQS1BpRXNQbUxyb0hreEhEcXU2bEE3MzIzX1UzMkZkVEE?oc=5",
+      "publishedAt": "2026-11-02T05:41:12+08:00"
+    },
+    {
       "title": "Egypt Abdelatty, former Senegal president Sall discuss African cooperation, UN reform - Foreign Affairs - Egypt",
       "source": "Ahram Online",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkg4NjRqYWx6czd3ZEE4NWlRY0dIRzZaUkMyYUpuc256XzRUUTNMeFdta05ZWFFXSVVhX3dKcGNCbWRLY1h3TG51UlNNbC1qNGxyTGNsZndyTVZOOXpYdkZzZDBucW1XcHZYWTdmYzVoZlZUUmF5YU9KRUdzZGdIT01FbmwzdjlEak9rdTdiekMzYU5Rb0JRRk9BMFFBZ1A3ZjFFMVIyRVhQY0FXbG9TLXlxUzI3akpveGQ1bGpoUENzaFFaaE8zOS1lUUg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWlJrYTloUkVZOE4tZUVoNjU2aDFzemdCdEptM3NkRFpTblpjazZ2WkFLVEtMNm9SbEppc3l3dEZKeGpRTWhyN1h4d002aTMtMFBPMk8wblVwbE1EU1ZteW5KUGV2cUNRZ2ZWVmhhRVZULU9XWmRrcVJsb25wdlFXVjZ3V213c2gzWFUycEp2NXNXamRneXJjbUt6N1Y1TGU2LU9FakFHbktjaktibHRCZ2dR?oc=5",
       "publishedAt": "2026-11-02T04:13:23+08:00"
     },
     {
@@ -48,30 +76,6 @@
       "source": "Inside The Games",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWNBbnhReVNFNVNYS2dtdXpPS0lUYUVqVjAwaUVxcl9FNkg3Z2JrUnh4X0xSTEhwdjFoY1JfYWlRcDN3bWlMc0lzYmtYanlpM0l2ak5HNE9oY0VVb2NKdXNyMVV4UDZDYkFMZlNDb3NnRkd4bjdsQVRydGQ0azl1THVENGR5dDJ5RkE4?oc=5",
       "publishedAt": "2026-11-02T03:10:38+08:00"
-    },
-    {
-      "title": "Kagame, Senegal president discuss bilateral cooperation| The New Times",
-      "source": "The New Times",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX1VDWDJBYnY1N3ZvRl9pQTVuc1J6WVk5ZHc0TVdpLWliNERzRlgwTjdmNmNxdDNGX2lOc1NKUVJrc3V0RkNSLWl6bFZJMWVQdWVhNXo4YUdWUXM0MWVyVUFiLTJ4bUFUa1c0a1dfdGpFOHNybnFzRnU0dVFuWEs5RVdrVzVjWERqVDVvOGlZc0JIMGRuUjFwS3VCM0h4aU05OS1LZ3k2TmdVZzRUMEw2VEFlSXLSAboBQVVfeXFMUFdiVzlvTEhlTHNpQXhlX2ptbzFUVXRGRExwWFNuX0E2bFQ5RDdHaGJONFJxVUVTbWpMcy1oZGtTRWZlNzRUVzY0U1piOEhvOUQ1dDBaeGowSWlxXy15V0l0aDFzQy05MlVHWHlPRTFxSUdJNFlXMk1JUDBIaEIzUUJfVDJ1aTZsZjdiVDJLTUVUVTktUWhKTks0TGk0UkoxTi1ya09uVHc4Mk15dEdPUFV5UjUyUnRqcmZ3?oc=5",
-      "publishedAt": "2026-11-02T02:44:32+08:00"
-    },
-    {
-      "title": "In Photos: Senegal Makes History as the Dakar 2026 Youth Olympic Games Kick Off",
-      "source": "BellaNaija",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWnNkQW1pUXhtUzBmV3NkZ2h0U2tyZ2M4THZseEZWOGdpSjR4eHJUOTNjbkxyTzJnZG5Pdk1yZUxjLVhGTC1ydXg3T19sYVFITXJmRmJZOVBfZGhYenkxSi1jQzZOM25wMmtpa1MzNm95eVNzX1V6eHJoakJZZnhkR3I0aXNkaHFaLUJyY2o1ZUlSMl9LZ1RFV0JxMW5RV1k?oc=5",
-      "publishedAt": "2026-11-02T01:36:08+08:00"
-    },
-    {
-      "title": "Senegal@Turkiye - Baseball5 Youth Olympic Games",
-      "source": "World Baseball Softball Confederation (WBSC)",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN3RfRmJGLWZmM3ZZV0RuT0NNTmZEVTF0akI0ZFRxdklQbXN3Z0xvR1UzajUyOVBscUlVeFF0TE9OZGhET3I0OWxzbGE4ajQtLTFWQUVNZkRfYmtTckdUSVVYVDdldVFHbVUxQXpCbFY5R0REUlI4STdOWlBfSXZTRGZwUGNVN3pQeXRXaXJtbVhPeXd0TERsbHdlMks5aGJFSUE?oc=5",
-      "publishedAt": "2026-11-02T00:45:48+08:00"
-    },
-    {
-      "title": "2026 Youth Olympic Games open in Senegal, as Kazakhstan joins parade of nations",
-      "source": "Qazinform",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcmlhY2ZUVzBFRVdmVmFJOFpaanZKOXFUalY3Z2VLMVFjTXpIMXRGQTd6NGVvVEdDMmJfblo3aDJLVlQ5QXlIRlUtY0NHYWtiLUdqNlNiSzczdlFOTkt6RTVWbEhzSERhWnIxREMxNXhZUjZ3SkhoMUp1d0t5d2ZQc3RqM3V4Q3pyaThrdVpFeVdfT2lmSlZXTWY4OUYyUXVuMFdHdGtDRG1NTXJ2T1BrRDFn0gGyAUFVX3lxTE5DMG05engzbzdoYzhaeU1zNWlkakNNUkptMGFVTFdpNlhQa0JFWklQN2EzdjhKNUg0cWN2am1QZWVmX1ByMFlQQlBLTXVKUVFYLV9VaF9ZcVJWNXBFU0ROSkotYWwtZjBGNm0yV2o4WWtfbnkzeUxRSFkyODFkRjJZX2lyUGlMS1lrSjhPeFBvN2RzZE9RTzlMN2NESUQtR3BxamsyRUVzb0NTSW5YOUZMZ3c?oc=5",
-      "publishedAt": "2026-11-02T00:18:06+08:00"
     }
   ]
 }

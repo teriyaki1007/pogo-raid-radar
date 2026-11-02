@@ -1,11 +1,15 @@
 {
   "iso2": "ET",
   "name": "Ethiopia",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Addis Ababa"
+    },
+    {
+      "label": "Population",
+      "value": "135,472,051 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Sudan files complaints against Ethiopia with UN, African Union over drone attacks",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb19NbElCNEpXQ05vQ3U5YkdmRlR3LWN2X0d3Rnp5SDVsR0k1V2hTUlNKeXlubFdQR1g0UWJsQmtBRUd3QzhROFFjLTZ2OWFwWjd2V2dRcGJnTzI1MDZWdDJseWZtZEJXWEluYTc2Q3BLYTRiRHAySVgyeTRTZ1p4X055UHdsU1VpUUc1OU1TYzQ5LXpzcWN1TlRaR0lJQlRRNjhfR2Y3Z2VzR2FYUzFpMUJWRnhKaE0?oc=5",
+      "publishedAt": "2026-11-02T10:00:53+08:00"
+    },
+    {
+      "title": "A glimpse of coffee plantation in Ethiopia",
+      "source": "Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uNE1ySDJkMGlSbURCV1ppekc2cWM3ZmRTY29BZ2xfcUxpUWs4TnFUNDA0ZUNTRnVfQkliVHE1UFJPV013ZG9lZ01wU0NfMEdCVlpXSkdydDI4STllUVZPUmJ3?oc=5",
+      "publishedAt": "2026-11-02T09:25:00+08:00"
+    },
+    {
+      "title": "Sudan accuses Ethiopia over drone attacks amid fresh strikes",
+      "source": "The New Arab",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYldiX1hDcEsxa3Q0STJvT3d0REtheF9mR1g4dXJ2WEhIV1RKYUg2SmR2bG1hZjZOYVMwY1J6bnNvTzZrcTlzeFNacmwySWNWZU1SSm5tVWtRX0pBTmpqUTgtZ1NJM0MxbGhoNXR3a3FVTjdQaHpmU25PY3FNMURVcUlpMVFtTk9DYi1wb0xsMXk3djg?oc=5",
+      "publishedAt": "2026-11-02T02:01:26+08:00"
+    },
+    {
       "title": "Abdu Adem Yesufe: Transforming Cancer Care in Ethiopia Through Strategic Action",
       "source": "Oncodaily",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sYW91SlNuc0ppUlplV2JGQ1pEVWtoSC1TcjZKSTM0bzZXRXBEOFQ0R3NSWDRBX1BTNk5xYTg2ZFZST0JoSmhSSVBxSGMyeDVXX3l4Y0FTdDdHWGJfSFFWeWZn?oc=5",
       "publishedAt": "2026-11-02T01:59:12+08:00"
-    },
-    {
-      "title": "Sudan accuses Ethiopia of drone attacks amid fresh strikes",
-      "source": "The New Arab",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWU9nTmhCVnZOOHlxX3NmX2xLQ1lzOGFjekZNemdvSXp5dWJrdGRkZzJ1QzZtNjRPT0xXT20tVEZhU3VrS0ozZEFMWlJqWWE2anRDNHJKS0JJWTZTSHF1eDE4LTFwbFdoVmx3cG1GUHZGOUd2cjJZMjFyQ0x4QmY5dl9MclFTbDJCSEFxdw?oc=5",
-      "publishedAt": "2026-11-02T01:47:40+08:00"
     },
     {
       "title": "Boot camp, cabinet edition: Ethiopian PM orders ministers to do push-ups",
@@ -56,22 +72,10 @@
       "publishedAt": "2026-11-01T23:37:21+08:00"
     },
     {
-      "title": "Washington’s Missing Strategy for the Horn Begins with Ethiopia",
-      "source": "Middle East Forum",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTHhBdl9OTWl5bGVod3I4R3lQLWpUMHgyU3BPTjhaLVpYaVA1WnFmYnVCMU1PNjlWS0FEdGtSMjEyRzMwYVZzMEpkVkhrTkJmaUtyVXdBRmxwVXNpcGFIUGFVdHgxNldRSnE3Sm9qU3FfalAzUXZ4SzhZRGl1Y3ZnNWYtSEFrYWlfQkdKelZCblM4cXd3b2lxak1fSDNWX2Yx?oc=5",
-      "publishedAt": "2026-11-01T20:32:06+08:00"
-    },
-    {
-      "title": "Ethiopia Receives First Twelve Su-35 Fighters a Year Early",
-      "source": "Military Africa",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQTZKQkt1d2lBenZ6R0NObVZEa096amxneVdDSFV0elJNRkJmbzZ3QzZmcXBiUjJuelpKb2NLUnRKZEN0YlFHSVJjTlhxdnBRaDZOVTMxWVBwVWxoRzh5clBseHk3QlZLRktfMW9lbzhBNUhiMW1wN0duXzVnbnhMekdwMnJoLUxZMGtRQ0NRbzI3SVpZTzQwUkVhSQ?oc=5",
-      "publishedAt": "2026-11-01T18:03:17+08:00"
-    },
-    {
-      "title": "Kenyan, Ethiopian athletes win 48th Istanbul Marathon as men's course record broken",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTGFyeVRfREp5MHBXTjZLTlFFNnNHTDEwQWdidUVnTVNaMEpMZ3NXTVdCNm81ZWl5MkxaMUk0azdaM3o2Mmx0UEtiRzJiVENKTERSUVdPYmJoQWt2bHdqREhXUjBpazJJaVNHaFV4Y01JcHF5U3Z5N05DYWwxZVlIZDg0M1VDVVAyQnNlLTV4aFY4MVc0dWRiWTU2cWNWQV9FNGRnNUNlVEdjYXJrdksxZDMyYnN4clRCSl82djNCVQ?oc=5",
-      "publishedAt": "2026-11-01T17:30:49+08:00"
+      "title": "Ethiopia’s Defence Modernization Signals New Era of Strategic Deterrence",
+      "source": "ENA English",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90MEhIUDFqMWlmR0UxUVFtSGlmZ3dhR2FGR1VjZXhiSUlLNDM1dE50SUhydTdtRGZCRkE3TERfTElfU2lUT3EtRmhTLWxEWW5waXc?oc=5",
+      "publishedAt": "2026-11-01T22:30:37+08:00"
     }
   ]
 }

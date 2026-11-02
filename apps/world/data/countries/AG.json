@@ -1,11 +1,15 @@
 {
   "iso2": "AG",
   "name": "Antigua and Barbuda",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Saint John's"
+    },
+    {
+      "label": "Population",
+      "value": "94,209 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
+      "title": "Watch: King Charles III caught in torrential downpour at Antigua and Barbuda parade",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xQTVzSVZPR19YYmRkX1E5M1NUU3ZEbTBvNHRLUUZ0T3hna1FkUjVlSkl2VUlHQnluVm1nZGRJSXFLWGtBUWtNRUh5YXVFb20yQU8yMEV6ZUtNaXc?oc=5",
+      "publishedAt": "2026-11-02T10:43:54+08:00"
+    },
+    {
+      "title": "PM leaves for CHOGM in Antigua and Barbuda",
+      "source": "Daily FT",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDhPWkRCYkMzN3lIRkR6dWxPNkJ5OGtKTWQ4RWFuZ3J5ZEVSbTUtVXpOOWN6TjFpQzdodzJzWEZDb2hwWldkTkQweWNUQjlKdzRmdFFWbHQ5RnlYLWVNNjhsTWR1MTVQdUc2TFlEZ21hUUFiSTVTdWZRTnZ4c0NJYg?oc=5",
+      "publishedAt": "2026-11-02T08:17:32+08:00"
+    },
+    {
+      "title": "King Charles and Queen Camilla Reunite for Special Church Service in Antigua and Barbuda",
+      "source": "The Royal Observer",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSHF1REdjdUhVbXgxcEhhQU1FS1pSMENxQUoxUzBmazFOTGNPakJTemt2a1gyNWpjcllkbkJyY3htcXhaV0NoMmdaVWZFWHNPeFNoUXJubDd3S3pVVVEwamNnMVJKMVh4QTFLYkNucmtHZ21wWGZYbk9HaE9OdWkzYkpSMjdKS19BTVAwV3BmOGRyUjRUQnJJRUxLNUhxeV9EaW5hVnZ0bzJpZDhPaGhqRzI2MEtaLVRuaG9MbTZEQTdaVXB4QlVv?oc=5",
+      "publishedAt": "2026-11-02T07:59:55+08:00"
+    },
+    {
       "title": "Antigua and Barbuda offers to end citizenship program by 2030",
       "source": "Caribbean National Weekly",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd09GbEVnOEMwWUcyVlJ3QXBxZ2RYYzJZdHNWSmpIbkpKWldCOFRURmstZXJKTS1wcHVfQzZwRXk0SG0zMVNrX0tkWktaR19XdVdTMHNReVhpQTZCOGRIRndlS1NXRDgzWWxvcWl0cGtjTUJxRURJR1hNdWFnOWxVQllCTTVGaVN1UkRfUXFhaFhQelRoU0ljXzI1WEM5bEVmd2UyQ25zVEQtQU0?oc=5",
-      "publishedAt": "2026-11-02T02:59:23+08:00"
+      "publishedAt": "2026-11-02T07:40:18+08:00"
     },
     {
-      "title": "King Charles To Attend Antigua And Barbuda’s Independence Parade",
-      "source": "Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAxN3ZHSnRlMkZKVTh6SGd4TkN3QmhvWnM2b2RMeWpOYU85akdyVDg3VFdqZTYwbjdhTFZRUTVKQ2l4ZWIyMEJ3bTlEb3JvTWRvU0Q3N1phOHV0M1oyUVE?oc=5",
-      "publishedAt": "2026-11-02T01:26:15+08:00"
+      "title": "Antigua and Barbuda PM says Burnham should offer reparations",
+      "source": "The Independent",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVN0ZE1la3cxYk03YTRkdmhweU4yMFFJRWJINDJVMTl4ZjNEdUFIM2FIQU1hNW9kOWUtWHRPZXFaWHR5VjdGakFhWWRlN2V5dGE5bnZ0WGJyNlJfX1pPcllkZmR0STA0UE9WX0JMRXZXeTdUaXdob0RlYjZPcUc5eWpsSUpZR3NabUp2c3dsWmRUcEhraVBGb21ERS1pQXdYYnotTk53?oc=5",
+      "publishedAt": "2026-11-02T07:37:00+08:00"
     },
     {
-      "title": "Browne Calls for Greater Economic Independence as Antigua and Barbuda Turns 45",
-      "source": "Antigua News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU0c5Z29VYlJITDl4RXE4WWFqUFJKRFItY0hrLU9CbU0tYmRaaDB2M2c1cFZRZTVnS1VVVGRudmgtMkQxQWhHcVRYWXN6WmxCcndIQmJXODR3OUVfc2d1dTM3dEN6eWt3N1RYUjg1czJJR2JBd2stLWxIcG5Ua1ZwamhDM3NRQUxDSEJZRTFYTmJtajhlS3BFQTExUEdvWjlobmNQLUZqVUFVeUR1Q3cw?oc=5",
-      "publishedAt": "2026-11-02T01:18:39+08:00"
+      "title": "King and Queen caught in rainstorm in Antigua and Barbuda",
+      "source": "Sky News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSGdYNGV2Q0U0UHl6dXdxbm4tdFh5YVVMQ1haa0FmNEVGel9lYzNlek9lZ2JvektheTRSa3lrRHA1cUNyMzBnTTdGVHdhRHhURGtUVkhGZ1pZbm5zVVAwQlhYMW5CNkoyanNEdHZUbEUtRFBBWUpfQUZPRUpVbTlaYm9BeDdzYWpNYldWT1MzQ3VjY3ZTUjRfVg?oc=5",
+      "publishedAt": "2026-11-02T07:29:46+08:00"
     },
     {
       "title": "UAE leaders congratulate Governor-General of Antigua and Barbuda on Independence Day",
       "source": "وزارة الخارجية الإماراتية",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXSVpXbzd5REt1U3ZsLVlQaC1heDcyUTNvUXNIbzZmVTFVdEx4a3N5UUhoVzhudnZkVjR5R0o0Y05DbWozekhTWGRxZ3FHWk5nTVcyek9rbjB2RmRCaXFDLWpzR21PT2tjOVJpSmJSN2Z0LUctSk85Yk1kMjI?oc=5",
-      "publishedAt": "2026-11-02T00:23:53+08:00"
+      "publishedAt": "2026-11-02T06:45:44+08:00"
     },
     {
-      "title": "Browne Promises Consequential CHOGM as Antigua and Barbuda Marks Independence",
-      "source": "Antigua News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNTNJR2d2Z2lKR0x4NWtOcWxTaDVMd2ZQR3ZIWk1PaThnaEE3LVY1T1V5X3VZSi03dE5mcnJjUngtdUhfbGlWMWFrZUVSajdRZ0pQTE1hdlQ4S0Y5RGtsVHZnRGg1YW44ZVF3NjZmak52R0R6ZDVaMGlwc0NjTzZlTURxcmVYeE5ib0tud2ZqWjNDZ2pRRXM2Yi1ZRXU0dExQU0l0Q0tNZGdzbnQxeWc?oc=5",
-      "publishedAt": "2026-11-02T00:17:05+08:00"
-    },
-    {
-      "title": "King and Queen touch down in Antigua and Barbuda as Caribbean tour continues",
-      "source": "Royal Central",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRnFmUVB6OUZ0Nmd2ZlhLWXF2RkVnSkx4cF8xcUxzVUNLWGs0V3R5Rzd5ZlBlTWVLcDJUQzJXbC1oeWNUQ2dRMVRuQUw3TkhVazRRZkNZYy1ycnhqUnAtb0xaTGxrRkduN2ItaFhJY3JWWlZLSjl5LUZhbHlqdFp1VUZLdmtrNGNjODI5YnNLVXpsZW5CYzBleXVFa19LLVJNbGxGb2E3cVFoemM2ZWxTTXVpTkh6ckpvM095ZXEySQ?oc=5",
-      "publishedAt": "2026-11-02T00:04:42+08:00"
-    },
-    {
-      "title": "Speech by Commonwealth Secretary-General on Antigua and Barbuda's pre-independence and the Commonwealth welcome reception",
-      "source": "Commonwealth Secretariat",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSWJ6N3QwZGdKZVpiQmNGWU50SHhTdGFKSXFmenRyRTZrVldsZjllcTRwdHowOEkzd2o2NmdKUE50WHpaTTRzX0dzMm5qS0NNbGhaLXB1dXk0YW9tdTRGbWR3QTJzczNQdXNBX1YyaHoxUlE2Z2daNlZSY0JBMjgzdlVjdUFmbkRSd1VkX2ZhNmJrenRSclVqSWZFWnRmYlkwZzhRTGlNOHkycXFDQWY2eXppdUNBVnh6T2tJ?oc=5",
-      "publishedAt": "2026-11-01T20:01:22+08:00"
-    },
-    {
-      "title": "Amir sends congratulations to Governor-General of Antigua and Barbuda",
-      "source": "The Peninsula Qatar",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXZjcW50TjB6LVNlcFNuSmJad04yWHcyVWcya3dXNEh3Q1c1LTMtSXlkaE1iNGhsblplQTZ2eHdBWlFLdDhqSHB0VkNJc0F6YVFNb3J2VDNJdzVYV2UtWEMwc3lQMWM1aVhuV0kwaWhRb0JYaGxaamFOS3BLRm1xUkVZUVJSZVBzampqN190d1d4QUdkcDJhdjhvQlJPZVZvLWNBSHRPLWZkSXYtTlZNd0E1Z3IxRnB6aGh4TA?oc=5",
-      "publishedAt": "2026-11-01T16:43:21+08:00"
+      "title": "Antigua and Barbuda PM calls on Burnham to offer reparations",
+      "source": "London Now",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2tRUGdzLWhiWlR0V3lyRDBmRkxZZlFkQ3JEQTVBT2cxSG5JeVAyaThGdzRsX204UDZIQjRhYzFZOGRUZG96al9EMjF2aVNnUTc2MHJPWGY1a1V0a0JVWWJEczRrY0Q1NUcyeVBLcmVjaDI0d3pHcFA3QXNFNF9MSVc3ZERhQVdpVjdxb2Roc3ZteHZKZHhBMWV3S2kxSlVqMGM2dkVfcGpXZm5oX1pJ?oc=5",
+      "publishedAt": "2026-11-02T06:22:13+08:00"
     }
   ]
 }

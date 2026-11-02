@@ -1,11 +1,15 @@
 {
   "iso2": "AW",
   "name": "Aruba",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Oranjestad"
+    },
+    {
+      "label": "Population",
+      "value": "108,785 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -44,16 +48,10 @@
       "publishedAt": "2026-10-28T21:45:00+08:00"
     },
     {
-      "title": "Porter Adds Sun Vacation Packages to Aruba and Costa Rica With Partner Transat",
-      "source": "thecanadianpressnews.ca",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPSFZaQm9BOThWUXNsOElUM1hLOW9LNTMwcFdZOFZhS0pNczdYbkxwbVNzNEdhOG9ueEhyd2NHMGlYVnRqeUdQUHVXOFBlQzltUFhiNzY1OVlNMW1JZ0dCbi10dDk3YUFDTnd1TmRDY3djb2FCVkh2VlVxcEVEMW5iT0dfYUJWX1lQUnpfMThkZFI5Yzh2aWc4bTZEVVRUMHpYSGZyOEo2OUxDMkZRZUtWeTBIVUxfMkZ5WUxpczlCWk96UnMwU01vNDJVMFQtUzE1YVB4Wjlfci1wRnkxaUJHSUVsa0FfLWtURDJXNmI0Mkx0TWFlSTYzdm82WWtyWWQ5ZFFhakQ4QzRqRjcwZHZuQjlnVW8yaFIzdFBfSg?oc=5",
-      "publishedAt": "2026-10-28T21:01:29+08:00"
-    },
-    {
-      "title": "Hewlett Packard Enterprise Announces Integration Of HPE Networking EdgeConnect With HPE Mist And HPE Aruba Central",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNS1BwMUx3VXZVTjNjUFFQc0tjLWdtOUFvaDd6QmdReUkwcVRBN2JYbzFwbm9kWERtazJGU3JubnQ4bTRubE8tMW5FRkdJTXhFTllRR2hOYVMwUXRNVlp2cEpDR2ZCLTA1WVZ2SHFibGRneEJSamt6Z2VBMlEzT2NfZFRyTV82bjBJRkkxVS1EMGpMWWVKTV9rVlRFWFVLX1lGOGx4dFFmT1o5bmdaUTZXSDh0UDZIWTgyWmgzQ1lRWEVydUtMdURHcDdia0FTSk5WbHdWNmZhaVdiQS00N3hHSVNQVmJUMG5h?oc=5",
-      "publishedAt": "2026-10-28T01:20:52+08:00"
+      "title": "HPE Networking networks EdgeConnect SASE into Mist, Aruba Central",
+      "source": "SDxCentral",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOW00RWgxNmJISHVmR0dnX0w4RHk5UlhaWExuSnZzZXpsQ3pWaEUwMjA4UjlZNDI2YzBSeUVodjdRbW82UlcxMkFrUkdEdTNIb09DQTA5cWhaU2JDNUlRR1l2ZDRIY0dEOGdNOXVLMXduNmZaeFo0YU1QRWUyYmpvQk5uM1BRWjBBeXlZWG5xdDh4VjA1V0cxVXAtanV1QQ?oc=5",
+      "publishedAt": "2026-10-27T22:26:57+08:00"
     },
     {
       "title": "I stayed at Marriott’s Aruba Surf Club after trying to get in for 5 years and the wait was truly worth it",
@@ -72,6 +70,12 @@
       "source": "AL.com",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZDVTQVZKaE5YY0dvZzV3NzVrSTVfVlpmTkZCRUx6UEloS1BpNlI0WkVFa1dBNnJaZzdFd3NOWUtnU21hZDZoYXM3dWE2emhyWGZlOG5UYXJKSzltOVpFQUdJRGowdUtNZVRBX1ZyVjROS3dvWm51NHJCQ3M0LVFqQXZtblNqU1oxeXBfMFMya2V4UW9aSUV6eEt2RWR3T3R5TGlITjVwTkhOd014YlByMjdfNl81OUdz0gHMAUFVX3lxTE5HeTJ1SElfeU1GSldSX3dwZjlndE1vMGZ3XzRWamw5ejZSQ1hGSVgtb3E3aFh4R1NPbUFWdE9udzdkSmd0M0Y3RkZXU1ZCZWNxMHd1WDFaajlrR0I5Zkl1eUlyci01c0VpeGMtN2hjaWYwS0VrOTZDZnFHSUR2c2FqWllyX21abTNKNnhVeks3SjlKZ3BsVVlQZ1RMNzBOS3VEVk1uNjlmVjR3d09qVjlELV9OSU1DcG9jWUdzamZkMG9fNURzZGRnUTdqUA?oc=5",
       "publishedAt": "2026-10-21T15:00:00+08:00"
+    },
+    {
+      "title": "This hotel made me forget time: My experience staying at the Ritz-Carlton, Aruba",
+      "source": "The Manual",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPOTNmdE1qNVMxVlhiQVVwUUh3MjR4ZGhCNDgxd1pQMnRrd01wS2tCVTdHR3NkcG1rZkx1SmVrV1Awam1CZ3hNWWVOUGFQY3Y4RHZHanBrdEJNZ1E4NjRKYTljY2R0SjNLTFhUdlVReHdqS1NnVFNDdTUyZXR1RVZ0QjZ3Q3FVMEJ2YzdoTUxhMGxxcXRuTC1oRENHM3JLMlJPd1lEbFJrUHlXSHY3cHpTMnpR?oc=5",
+      "publishedAt": "2026-10-13T15:00:00+08:00"
     }
   ]
 }

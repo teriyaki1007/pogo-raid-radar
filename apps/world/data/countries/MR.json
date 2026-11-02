@@ -1,11 +1,15 @@
 {
   "iso2": "MR",
   "name": "Mauritania",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Nouakchott"
+    },
+    {
+      "label": "Population",
+      "value": "5,315,065 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Mauritania rescued 134 migrants on their journey to the Canary Islands.",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUDVDV053UExNSGhzbjFTTV9MMmRqdmFhWVNSRzRjZEhfOUJmN1ZJQ1FSTkRQakVPZTZhQVdXbE12MzNXVkZZSDBZWk04TENwODhNdjY2RkdJdjBTVEJVeUtFb0tCa0otQ1NNZ1FDb3JMcV80QWMyTFJxSTNiYkhIOHRkOVVtMFdIZE1HNG83RVdKS2UxNVpmQzBtVjNldw?oc=5",
+      "publishedAt": "2026-11-02T08:16:05+08:00"
+    },
     {
       "title": "More than 130 migrants rescued off Mauritania",
       "source": "Arab News",
@@ -50,6 +60,12 @@
       "publishedAt": "2026-10-30T18:10:00+08:00"
     },
     {
+      "title": "EU allocates €20m to Mauritania's military for land surveillance assets",
+      "source": "The Brussels Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmhhY0ZndWJycGdIdG00cm95Q2Y3dzFXYjRrMmswZHg3MkRpaWFuZ0xvb0FmTmJydE1DUUdsZ3FaR0NXdFFZZHFNV2ZwdTdHcFpQQ0VrdlRremhlQkJMaFVKLUQ4VFNXcDVVV1FqMTZtbWRHRUc0VzU5NDQyakljekxQNHJOQXVlSFlKTHhQZU1iQi02ZURuN09fQV9mQmdRNEJ3blp6ZHgzWXNLenBuQ1JSQldEUnJPdHNF?oc=5",
+      "publishedAt": "2026-10-30T00:35:06+08:00"
+    },
+    {
       "title": "European Peace Facility: Council adopts 4th bilateral assistance measure in support of Mauritania",
       "source": "Council, European Union",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN0ZkQzBycHFtRGtKY3c1MnUtTHY3aVFRM2x1Mk5rdFJHaEotemJ2bkV0TVJWcnhMVTVRRWc4T3Vic1hvWGJ0Q1R3c3JLX3Eza0xPa1UxV3ptLVBqUEk4VGhyWlM5UXFXbjV1TWo2aS1neTVhV21BeVJuOTJWODNweFZxVlRIdlpqUWtGX1pnaTM1bjBoM2FsTFl6TndHS1FsUktrdFpaTE52Q0RXUWd2QmsxSXhNdVB5YlNoZkVtbm56RnM2TFZqakU2aHVEeXA3b0FVczFVclhDekNQNm1MVVhNTEFsTk5pNG92NlpaMnc0dXB4NzJF?oc=5",
@@ -60,18 +76,6 @@
       "source": "Houstonia Magazine",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQX3loM2d6MUJOZldHREVQOVlGWlF6RVUybHVEeUR3Xzh1clB4Q19vV2hJdWFud01KNHhhOTl3MVFrTF9zZGNsLUdNNTVHa1hOX2dUNm5YYUNaWHlWM2dvYTNBMkM1T09zUlhWQWN3NmdlbVVnQ1Y3YThCcDFCQWlXQmY0aVBDWTNYcG10emVSc3o?oc=5",
       "publishedAt": "2026-10-29T17:02:53+08:00"
-    },
-    {
-      "title": "GIEWS Country Brief: The Islamic Republic of Mauritania 28-October-2026",
-      "source": "ReliefWeb",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTGcxTlB0N2k0cDNpZTJRUHdPdVZIRTNIT1Vja3hkcFRSTU5HSmJNWTBsMHdNUmJfOVlhcTJHV29nbVRPWjFjTGRMbzdDWmJ1a0I2dmJxa2tabDRBN0hSaGR1VXE3RzJBY1c3NjFRVUtNWmxGTmwtdVJiZFlNWDhPWmdab0Vta01jelJQZGcxZlhja0traWYwQ1hVeTFpSUFacy03TjJR?oc=5",
-      "publishedAt": "2026-10-29T11:31:00+08:00"
-    },
-    {
-      "title": "Mauritania Students Protest Rising Transport Costs, Poor Study Conditions",
-      "source": "Channels Television",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmZwTEtmWktQZHFOVHF2Ukg1Ql85dDk3N3R0ck1BREwtcG9teXdLdGhmTjRkTTRnNkhRS2wydVNnVkhicmJtQ09GclBUWjZwbXp4cktjYmRwTHQzVFVNVXU4bjdfVmpZaDRQMEt3WFNjR1R4d1BGMnBUcndPNzZBcEhkN2lGSXRwek9UTEhMOXdUejB2NGQycXJQWDNkaGNZR0JncmNvREFkR3hmaTVfUg?oc=5",
-      "publishedAt": "2026-10-28T04:05:39+08:00"
     }
   ]
 }

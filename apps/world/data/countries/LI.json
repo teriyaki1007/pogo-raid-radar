@@ -1,11 +1,15 @@
 {
   "iso2": "LI",
   "name": "Liechtenstein",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Vaduz"
+    },
+    {
+      "label": "Population",
+      "value": "41,024 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -38,18 +42,6 @@
       "publishedAt": "2026-11-01T07:05:12+08:00"
     },
     {
-      "title": "Liechtenstein Prince blocks abortion law reform, advocates greater support for mothers",
-      "source": "www.christiantoday.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeVdRQWZuRlBfYWRPWHJVNHdmeXoyQkIyRjRlTUg1Y2cxTG5ZNmFRNDFHS3VsMHp5N2REb1YwZC1ZcE5vV1g1ZkVDcDEtYmNyOERaMFh6bThObTBGeUJEanVILThNWEF4NnYxZmtaV3REOEk1ZXFnZFRuYURRbWV5dWI3M0xOclNBSWVETFpzeFhKWGUxS0RWRlAzc3Y1WExSVk9rRzZIcGRJbEFMUjV0SEkxM0lPamttQWhPTEhR?oc=5",
-      "publishedAt": "2026-10-31T22:01:58+08:00"
-    },
-    {
-      "title": "Floin Cyberattack: MiCA Crypto Platform From Liechtenstein Goes Offline",
-      "source": "CryptoTicker.io",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oLW1aNmkzcEd1TjBWWkhicUJxLVBnbDdlRDZoaUl4M2cwT0toNlZPSDdDMEt5QlF5NFVRMVpwZ2hJMGFMQ1pqQ1cteDVRREJ1X200ZzhVNEktY3k2Nkx0M0U3VVU2WFhpN3BkdFRTYw?oc=5",
-      "publishedAt": "2026-10-31T20:37:16+08:00"
-    },
-    {
       "title": "Commerce Minister Piyush Goyal meets Hereditary Prince of Liechtenstein, Alois, in New Delhi today",
       "source": "News On AIR",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcloxLUVlZmFwUjB6eFdiNU9CQjhDR0UtR3E5WGVuNnN1ZTNmVGczLXNMVkNMRmdFY3JQQjFJckRWQlBOR1FsRU1Mc3Z5NW81X1dIdWt5LXhJOFlhcXJpQkNaTVE4V1dHUmdqQXd3ckhPZ2tWRV9zVUdXRWgzSm5XUWxqa0p1MkFtcTBrYk5ubEJUdjI2VWVOV0NHRVBZNFh6NVNQYnZWNm5Pcnh3ZjVGcjh4blJ5SUdtRlVLRjl6Zw?oc=5",
@@ -68,10 +60,22 @@
       "publishedAt": "2026-10-30T05:36:15+08:00"
     },
     {
+      "title": "President Droupadi Murmu Hosts Prince Alois and Princess Sophie of Liechtenstein at Rashtrapati Bhavan",
+      "source": "DD India",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUTdrcXItZ09YcFZYSzEzXzBPMnZyM3hZcmRKZ0JrbF9iTFpkeGtXNE50WFNRTi1jMFdOak5LdjR6aVBHd0Nia3hZZDZ5dkdEQ01fWnJEZXN1M0lCVWVWRU5Tb0pXbHhTNzBxMEZTU053ZTd5MnJZZGpJWG92aGRHUzNQa2NKNVN0Q0RRd281Y0FwcGdybXZXOWc2NkpkUHh1ZFdseEd3NTl2MGJUZXdmNmlkZlpEcWdlX3VqYV95N3ZXT0doN2w5R1hZc25Xdw?oc=5",
+      "publishedAt": "2026-10-29T19:42:12+08:00"
+    },
+    {
       "title": "Piyush Goyal meets Liechtenstein's Prince Alois, explores investment opportunities under India-EFTA pact",
       "source": "DD India",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdFlzOHhPXzlyT1RjTHNQcmhvd205QUhnMVRSYUptb0YyTU5jNkt5X3NfQWF5ZU5DeGFkNWZXQUZURUIxbDRER0pMd3VYVHpZcEt2NTZXa2tvaHBXT3pwVEVQZDhMaHBleFFfWVdrRzVhSlRKckxNTW1BV0hnVjVQTTZEcXMzWVZmZWhVcmxTSEtuOVJrbE5GdzNHVlhIbnFNWlFsWjVDOU90MUpxN1RscVdKWWFvZHBoREtJQWZIR2NvcEx2QUpmeEFHa2t5QQ?oc=5",
       "publishedAt": "2026-10-29T19:42:04+08:00"
+    },
+    {
+      "title": "India, Liechtenstein discuss tax pact to boost investments",
+      "source": "Awaz The Voice",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUXJZY2ZqZHZQQ3J2SmJObjA5V25MczBIaEpLYlk0MFZSLTE3V0NSVlVxSGRpQ0hrenBlVUJaRW1fSlI5YV9XMDZUUWZULXk0WmlJX0ZiUmNyUGFYOWtoaXJwU1VBR0xjMFJwMGVNblFaSXNUMEZZNUx3YXRrU3dWak5FclVXYWtld2k1dXVncTVLOWNycmlRQ2ZfdXNHeURiV2VVMk40MDJ6SkxaVENB?oc=5",
+      "publishedAt": "2026-10-29T17:11:52+08:00"
     }
   ]
 }

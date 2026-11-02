@@ -1,11 +1,15 @@
 {
   "iso2": "CR",
   "name": "Costa Rica",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "San José"
+    },
+    {
+      "label": "Population",
+      "value": "5,152,950 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,34 @@
   ],
   "headlines": [
     {
-      "title": "Woman Accused of Forging Deeds to Take an American’s Property Deported to Costa Rica",
-      "source": "The Tico Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaXprR2N1MVZhOVRtTXpoMkVUMHFjWnFLQzJiaExtb1g4VUJxbF9wOXNSMGxxYTFSbXhkb1ZpSXBWc2tzR3BiR2hxQTRrWXAtNUctYUdpY2pudUtSTm90MEVDeWE0N1g4VnZsT1RER2VvOGR6QXRpeXBVazBSRGlNODR5ellsRXVlUzFfcmVBYzZnU3k4ZmY4Q1ZmTThqdw?oc=5",
-      "publishedAt": "2026-11-02T03:42:00+08:00"
+      "title": "Disseminated Bullous Impetigo in an Immunocompetent Young Adult Following Travel to Costa Rica",
+      "source": "Cureus",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORlpOcURwaU9xQTdqZG5aUFVmRE9uWDd5Q2l6ZWNwb1RYV3k0ejFyaEk1QWNiRjlKcFF3YWNhTzBMbkcwUW8wc3czLXcxeW8zOGkxbV94Slo4a3NuSW5uX1F0NjVYWFZ2b3U4RFRCSGpSelRLQnBDZzNfM1M5b3NUTFNPdy0yUnpLUE5IUDA1YmxiVDJydGZWYWVFTHhpVE5zMkNyUXBrRWpKLTZlRmFWN0JScTc0V1BjaXdielItS2IwdlBiSnVOdTVHTkV2Zw?oc=5",
+      "publishedAt": "2026-11-02T10:39:28+08:00"
     },
     {
-      "title": "Fixing an Invoice in Costa Rica Can Now Reopen a Tax Return You Already Filed",
+      "title": "US Midterm Vote Won’t Necessarily Lift Costa Rica’s 12.5% Tariff",
       "source": "The Tico Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSVl5dFk2RHFTTDR3TXNKUW1rSkNaREFxcmgwcTdPSmpkY3d4WHBnb3J6YS15UDB2aWt0c1lCeGtGOG1PYVczQ20wZ0VTdndsdjl2UVJrMGtoYzVkT21YVXFXcTFjSU8yX1NkelVUYkJKT2JvT1NqRzBfNmFXQkpZQ1dkQnotZC1qTXgzY2VYdkJVY19EVFg1UQ?oc=5",
-      "publishedAt": "2026-11-02T01:00:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5MG5ZMmctOTBoZFFHaWxPMDJfcng0TWx1bTVRUUZBQ3FRRlJ4N2ZSb1VCcU9obFdBTE9KV0NxR3dFZDBBc1I3emRfZzBFSWJ5NWYzNjVaTmRCNkcwYUpvSFdUY2VWb2dhTEJtd1Y0dw?oc=5",
+      "publishedAt": "2026-11-02T09:41:00+08:00"
+    },
+    {
+      "title": "Audiovisual Heritage: How Over a Century of Costa Rica’s History Is Preserved",
+      "source": "The Costa Rica News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOW92eEJibFNWaWtoVGlwaVRwRW03SURySWwyWVR4eVlrNWNIUmdrcHMwZ29FMUpHQm92eUFVZ0VjTm1IYjducnpJUWd0Q21zcUpDdWk4aHFtRXZjRjdzM1BDV0xjYVNjNUczVE1MNU9OZkE4Tm12MXM1eHFNdFIyYTdONWU5V2p0bFlfUzhaWGg4SnZqWkhtMHl4N0ozRlZtdC1UMl9BR2I?oc=5",
+      "publishedAt": "2026-11-02T09:19:13+08:00"
+    },
+    {
+      "title": "Costa Rica’s Pesticide Problem and the Beauty of Backyard Gardening",
+      "source": "The Tico Times",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQzgwWWxnelExdkZmTU1FLWpJd1N2MEpEWHJmVnJsR0lrbmRJUDdvbE9XTDJ6a3FSM29lQmtaZDNueHZWWFk4NnZVdlRQQ1ZoeTRMamtQdS10NXVhcDAzUWQtdHdtYmlBVmFlQmRjN05UZEI5c0x1RjdBV1h0WG9JeVl3?oc=5",
+      "publishedAt": "2026-11-02T07:45:00+08:00"
+    },
+    {
+      "title": "Costa Rica completes new mega-jail for thousands of 'most dangerous' lags",
+      "source": "The Sun",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrdUI5azd6S3QyTDdwMVJsM0JydlpMOEdFQ2dWdEx2VXlRdHhOelVjaWpfVEowel9iNDNkcUxhODZKc2tSQUxTZ1YwNEwxTEtDblN3MENFUFdvcUFuSDMxNXVUUVlvX1pqeldfa25NYU1maWc?oc=5",
+      "publishedAt": "2026-11-02T04:17:50+08:00"
     },
     {
       "title": "Costa Rica vs Iran | Women's futsal highlights | Dakar 2026",
@@ -54,24 +76,6 @@
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR1dGLWFDWE5aR05Yc0VvMHFWa3BIREVDNW9ESGFSbldVOWVyWktQMkU2blVEZFBIUlY5S2hlZXZLV1FnMzhMU0FKY3BIRE5hN0h1V1VHY1Y3d1dZWk03czg0VnUzdW8td1JpeFQ1cE9YbmxFRURrNFhNS3R2ZFlHeFRlOXRhZ0F3ZU1XYVh2aUZuelNPZFBQeXludFpLSTBnSVBWWVpjWUY0WW1pQjgwWDgxLXVtN3p0NHdlQw?oc=5",
       "publishedAt": "2026-11-01T20:51:17+08:00"
-    },
-    {
-      "title": "7 Travel Contests For Costa Rica, Finland, Puerto Rico And Orlando Getaways",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ0VDR0pDTmFTVExQSW9Xam13YnJMSFYxZ2RqUlE1bHpfcVdMbzU5endKbmNjRjU5QklrSW1iUW8wSXhrRjFJSnBPSlowOVBCSEx2eElvNVUxT1FYVXJTZk5pUzFBWWkxVGZ2T1drejdFZFg5Z0FqVUpiUW9RYlpldzVWTkVVdERSU3ZPWHRDSkNmWW95VVIwV3l6OUtVMF81RmwtT3c4eG9vMkFxZkN2Q1FrbDc1RWZRR1JXaVhmbkt5aHplTFE?oc=5",
-      "publishedAt": "2026-11-01T20:15:00+08:00"
-    },
-    {
-      "title": "Craters to coast: explore Costa Rica on a Latin Routes mega-fam",
-      "source": "Travel Weekly - Home",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA3TFlJcUlkT09CYjNnVFU3LWgzQldrN2FtVktBVHdTRDdzQWh3TWlNamtLNGVFOFZVcFRITG1zb2NoR0dmNFhYOWVtNEM5ZFRRS0d1NXVQdHJENVJnOUtTdm4wNlU4MTFoUmF5c1hXUU9oX3BxejJCNmVpWQ?oc=5",
-      "publishedAt": "2026-11-01T14:31:00+08:00"
-    },
-    {
-      "title": "Costa Rica’s central bank cuts 2026 growth forecast to 3.2% — The Rio Times",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNm54Y2pLQ1BscmhsaVU3dUN6SkREU0RhbGR3aXFrd2V4RW1zYWFzN0FuTy1NeEdaWWVfQnk2aURwTVIxMjhkVHdVUnJJSjk1dXdONXp4cmtISDVSMVVOYnhucEFVRmt3TFlRSHotTl9OeHVYX3JhVW41U2pHZG51ak51d0tTbnk0ejVfUkFaaldyV3VxdXo1bXdIZTluSEdiYjZiclRfbWxRaXRH?oc=5",
-      "publishedAt": "2026-10-31T17:40:15+08:00"
     }
   ]
 }

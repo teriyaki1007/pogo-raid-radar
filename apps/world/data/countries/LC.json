@@ -1,11 +1,15 @@
 {
   "iso2": "LC",
   "name": "Saint Lucia",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Castries"
+    },
+    {
+      "label": "Population",
+      "value": "180,149 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,22 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "Cruise season preparations ramp up in Castries",
+      "source": "St. Lucia Times",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOVg4amxVUHFobU1NRTFhaGZCcVlWVXNUck1WeVBxUHNqRTB4RURZSTkxd0RQRGdIczJ2akhOb0ZYUF9HQnNDQzJJUzYzRHpqLUtSOE9URHJXLXFweWNZLXdNaDRkd0Q2VGN2WElXbGVCZ0MyRWlDMzhWYmJXYTRQOTJobWZmUjNQdjJQTWY4UDE?oc=5",
+      "publishedAt": "2026-11-02T05:56:08+08:00"
+    },
+    {
       "title": "Saint Lucia Celebrates International Creole Day",
       "source": "The Voice St. Lucia News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSlVkU05zVGxuTlVhc04tbWFxckZmMFRnMW1CRHpLOVhhZ01nazNwTERncGcwZm56TktUMmtkUlVxc3kwVktoSl9nb3lMRkVqajZ3WTU4UGRLTE5LSTJsdFlvN2NqRHlNeTFnNGJqUVlOSWxLUUREY1ZXUndQZkZ6MEFkNnlpRUE?oc=5",
       "publishedAt": "2026-10-31T23:34:04+08:00"
     },
     {
-      "title": "Saint Lucia PM Talks Deeper Ties in Agriculture and Education with Taiwan",
+      "title": "New Ocean Monitoring Buoys to Enhance Weather and Climate Monitoring in Saint Lucia",
       "source": "The Voice St. Lucia News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZjAxN2ktUWpaMnk1TkROUU4wS3hac1g0ZVJ6RU1odnFyZU9TbDNoTFIzRlNOcVVnb3RzSURscHd5T25ZQUNRZERMQ0Vja2NxOGFUQzlDY0x3aFVMR0o0UURrY2JKRUxlMnlBQ1pvYjhIbUVmS2tselZVMEctbzFXNXI2S2xBbDR0M01XakV4U2FhUWlUMzVFeVYzdFlBOV9PLTFYa29PMmpnUQ?oc=5",
-      "publishedAt": "2026-10-31T23:04:27+08:00"
-    },
-    {
-      "title": "The Best Luxury Resorts in Saint Lucia in 2026, and What the Rankings Actually Measure",
-      "source": "www.upscalelivingmag.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTER3SjIyUGRhTHk1WFRlOWVsSVRFT0xzNWI0Yi1tWVFXWHk1R3VtLXFXX01XZ3ZWczhqZEFudW5tLWc4UVhuTjltS0xkTDJJSlVGVVRjZjRIa01NeHExWmZaczF6b2ZWU1Nibko2WWEzWG1qWGlmdzNvb091elZKeVlPdG45SEk1OEtoUTZrU0NZOHdVQXZzVXBDQQ?oc=5",
-      "publishedAt": "2026-10-31T04:55:53+08:00"
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTV9iMmM0TXd0ajNaOTFwc2JvT1VxbWl6Zld5cW5qS05tSGRrUXNsUGs5cGRiZ2hzNjlHTWxFNE5FQk1nUWZ2Mkt2U2tGZHVZaVEyeEQ4X21VNDUyT3ZSbVZoVGRDZW8tWjJkT1pOM0k3SjljNW94UUtIbC1mQWdOTG9uRWwwSlNiMTBTN1dpQWlDOGpFUVZVbV9WSmk4eXVfeFNEek5TV0gtWThjZjh2dU9hMTl0a28?oc=5",
+      "publishedAt": "2026-10-31T21:15:31+08:00"
     },
     {
       "title": "President Lai and Prime Minister Philip J. Pierre of Saint Lucia hold bilateral talks -News releases-News & activities",
@@ -62,16 +66,16 @@
       "publishedAt": "2026-10-29T15:44:00+08:00"
     },
     {
-      "title": "Deputy Secretary of State Christopher Landau With Saint Lucia Prime Minister and CARICOM Chair Philip J. Pierre at the Opening Remarks of the U.S.-Caribbean Dialogue",
-      "source": "U.S. Department of State (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPaHY3TFdhV0RqLVJqT0dCaDVGSkY4NlJibzJob0UtZjB3cUlkTFVaTjFreDRmSmEzMFVQN3BfUjlKaVdOR0tXZGNUalIwQmRqTU52RmgtamF2Rmp6SUNSV2toVXBtYUszYS1Td01lbW9FMklROUQ2Wl9oRERDQjBuenFDQ1lxdDZnN0JBY1pqVkRncTZ0M3RQTW50dHFfbURSMVgtM2Nmb00yaml2SXZ2VTZIbk5wLUxQcTRxTFcxbW1yZjJwb0NUOWx0MnhOR0Z3UjU1LWhXLThYVllldjZ5MG9uaHFHQVdmR3l5cndadkMyZ19CU3EyUnBKRmRGMExKYUc1WjNxY2k2bC11S1FUbTltWVlJM0hHQy1XTVF6c19QUWpLcE5jc2k2MHhRT2VKSHc?oc=5",
-      "publishedAt": "2026-10-15T15:00:00+08:00"
+      "title": "Saint Lucia’s Coconut Bay Unveils $18M Resort-Wide Refresh",
+      "source": "Travel Agent Central",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOc3Uta3pac1QxQTRLZUpqOG9jOENJUnVjcVRFeU1LMkJwRGxCN2ZILUpIUmdXdkJuWk1BZjg3ZU9leVVaNFd0c2dqUGV1RVBpWG02Uld3dFlHRHRud3ZSd1VFTllDSkNwdERjNm9VNmVCRTFkRkVZcEZOMDBlVUdJcnF0akhNOU1SakczdmFvZHR0aDk2Sk9qbFMtYW92MTV2LVpBTnJjMzZOR3otTm9IOXoxakk0NTBJb3c?oc=5",
+      "publishedAt": "2026-10-28T21:00:00+08:00"
     },
     {
-      "title": "‘Below Saint Lucia’ underwater sculpture park on track to open this winter",
-      "source": "Wanderlust Travel Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0EwQWFudlBpcXkxLUp2Zm5mM2lHcXlZR2pMQzlkVWhXWUFWNlp3bkV6TXRlR3c2ckZxN1I5ZVBSR1ktLXVCRDRSbXdXaS0tNFlzRkVNQzdUVHRTMmxFNUlHSkNEVkJHd3dJbzd0bVVTRFlHT0IwYzRtbkJrdFlmWkhORUlvcUhHWFBYUjFFbF9DcmlRNFEwcHI0czJ4amdnNk04dU8ydHFwdmpqSFg3d1BDOA?oc=5",
-      "publishedAt": "2026-10-13T15:00:00+08:00"
+      "title": "GEF Small Grants Programme Celebrates Community-Led Action and Environmental Impact in Saint Lucia",
+      "source": "United Nations Development Programme",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORjVuQjVCbXZTRUNYRXc4alBWRjNIeWQ2WXJtR19iYmI0eGtzZnJmSDJocFJjUkpXc0tWbGJFYmpUZEp0ZHdOMzY4eDhFeVZWVnEyQUlpVFZtY1pIdm05SWtuNFRpSnB4dDEtNGxzQXowQjBUV1VMdVVINlF6a1dUbGdNZHQ2VlpCOFIzQmt2cWthMmh2WnQ0Qmpnd1ppSlUwMlhXMk80NVo3X0lGaUlKdHZ0TG5CWTRDUnBIWUE3a3c5RTdoLUM1Tjl3?oc=5",
+      "publishedAt": "2026-10-26T15:00:00+08:00"
     }
   ]
 }

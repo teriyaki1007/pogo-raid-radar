@@ -1,11 +1,15 @@
 {
   "iso2": "IM",
   "name": "Isle of Man",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Douglas"
+    },
+    {
+      "label": "Population",
+      "value": "84,118 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,39 +30,9 @@
   ],
   "headlines": [
     {
-      "title": "New Isle of Man scheme aims to help students get a foot in the door at work",
-      "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNnNXX1Q4ZklVMm9peU5faHZiWkw2TWlMU0N2QTNzRm9ILXBUM1ZQWTZhTHhnRjVkLXc5YTM1a24tbTdPS0FqekFMNTVGQ18zZl94TFB0RTFNWnRpWnZoRnRNT2pzcnF0ckl3MVFMY0ZmRENwbjRlVXNhVVFiSkIwd1pmUmpKbHVlNGhrdkdKd1hxdE1uWV9NR0lTRlozYldvc1JwX1ROZEJKeFlpRXc4Ry14eGFaZDNKTWVzRHVwaDY?oc=5",
-      "publishedAt": "2026-11-01T22:48:59+08:00"
-    },
-    {
-      "title": "Production reflects on lives of two punished Manx women",
-      "source": "Manx Radio",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWG5zb1BNQnA1V0VzTlhmbW95eV9iX3JOUXdEME9fY0E3MXFpZk9FTmNuOWMyVE9rMGxlN29qb0tBWWNhVC0xWW5lQ1RDVTBzaWhkRVBLYV9xTjJvSHEtU0ZReU44aWVOQUZqZXFnZ3ZlZ1owWkdGM1YzNWtEcVZCNlJEUW5oY2dUeFZoSjg5RG9HVDh3RU5kR1NpQTA4djZWZG5WSHVmQQ?oc=5",
-      "publishedAt": "2026-11-01T21:54:00+08:00"
-    },
-    {
-      "title": "Remember Douglas in 1978? These fascinating photos show a town transformed",
-      "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0ZUWFBFNjc2Zm5kcF9aakVQUWY3MU1ZSjF1ZTcxYm9OTGZqaXZsUmY4VmFGbDNGRGE0OUhWaVdQZGVaWms5RjRYMWlTN0h2djJsMXVzUXQ1Y0pSWFVQeDRIWEVkQzFlSk5aZ2gyWTBQd1Q0WmRqeFgzdmtlVzdQSkZ5NlY2ekNjYTV3ODFRQ1dvUlZhd3lrRkRTNU1IdEgyel9FRGR0ZjE0NUNoajJkVFh3?oc=5",
-      "publishedAt": "2026-11-01T13:03:57+08:00"
-    },
-    {
-      "title": "FC Isle of Man torn apart at Barnoldswick Town",
-      "source": "Manx Radio",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGhGZU9vdGc2aUNlNDB1OVlINXY4TS1waGVqeTJmdVMzQ3dsd2F3b1RPRXhJY3hYcm54Tk9SSndyUG5qbjBWUllTMmpSOGFvQjhCR1ZZcHJOcjBoazVBN3dlem5kaDR5T0kwOG95OUxaaWJ5aTJZWmpaMl9HUUk2NldwS2VSaklIYlVFUmwxZmR4amhTUnpsZGZIV3I?oc=5",
-      "publishedAt": "2026-11-01T00:53:00+08:00"
-    },
-    {
-      "title": "Main Douglas to Peel road to close for tree works",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoeHRoeUd6Zmk1Mk1ZMTFtb2lQT2Q4Z3daZHhKb0RKdUxjU2lNNUZ6Y25zeThPY2NlR2dLU1ZGcVpJdmdKY1V0UWwwa0lBQ2U5M0xEa21teUlRUlpyRHc?oc=5",
-      "publishedAt": "2026-10-31T15:32:55+08:00"
-    },
-    {
       "title": "'Monster' who raped sleeping teenager on Isle of Man jailed",
       "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1COWdOR0Y4Rmszd0pqUUVGY1BFSVcwMTVkczhudjU1T0dlVlJfWUtVczllRDhRNGxpcE9UY0FkMDZveUZNU2lINkpwWGU1TnVDTGxXNk1XbVhBRHVXOFE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IQjJRZGVmcUszMmlmRUhtZ0Rjd3VzaG5oVlFKdFVpRFFmRTdWMVdoc2N6ZWtXTl9sQ1IxeWhnaVdWNWtQc1JNbFUzWUd1UEtObVYtUkNPS0xuSlU?oc=5",
       "publishedAt": "2026-10-31T00:28:41+08:00"
     },
     {
@@ -68,10 +42,40 @@
       "publishedAt": "2026-10-30T20:48:21+08:00"
     },
     {
+      "title": "Full list of 'Bonfire Night' firework displays across the Isle of Man",
+      "source": "Isle of Man Today",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU2djbHJxNC1YQktrMXVyM2lBc05RU0ktYVZDdFpaU3ZCWTNnUWMtMnNfRVZSTC10ZUFvaUE2NzBGdWphYU9DMU9hYW1zMFVJYTFFWlhVMmZOQVM3T1djd3NCMUxDcjF2Z090M3o0RnZ1MnZsOTN6TFd4akx1NjcwcUNKNDNzRm9SX1VyY09qM0JkQVJPZVFrRmYwc1JBd2M4SVJGSEtFamlVMlBwMzdqQkVJUzRJeklsRThyb0ZDWE43alhEclQ5c2tqWFJUN3N5YW42dFlwS0Y?oc=5",
+      "publishedAt": "2026-10-30T18:37:09+08:00"
+    },
+    {
       "title": "Isle of Man TT stars confirmed for Macau Grand Prix but regular winner absent",
       "source": "Visordown",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUc2TS1NRW1HRFFlOWlLTllrMExNQkJFZG9BRWo0R0tjV20tTUtqWnBUZ3dPRGpIbFU2VGpZRUNnTm1EMzlKVlM0bVFyc1dydXVhTnFiU0FyMDR3QXN5dUFfRkI2MkkzM3llYzVHYUFlWTN3SVJHeHJnQnRfaU1tMXNDRC02d0w2VktpRWFjS2d4czREM3dkRXNwYlJFQQ?oc=5",
       "publishedAt": "2026-10-30T17:33:52+08:00"
+    },
+    {
+      "title": "Sylvia Davis Obituary (2026) - Isle of Man, Isle of Man - Isle of Man Today",
+      "source": "Legacy | Obituary",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaWJBX2JBZ2hRbE9fcDZIN2dTUUlxeUZXNlNYMHdnb3pZSUtaNklMUjh1ZURMVnBmOVhVZHlUTGN0TkdLTlM1OXBteDl2UUJBM3hQZDRfT3dzVHF6MlFpWC1PTlNQMjhlbFJCS1d3TkpyZ19pbWFuN1o2cDRjcHVUNEU0aXlXRnQ3LTZPenJrb0c?oc=5",
+      "publishedAt": "2026-10-29T09:17:15+08:00"
+    },
+    {
+      "title": "Seabirds and sewage among Isle of Man Biosphere status challenges",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZTjRYR01yWFhfbXVfVFN2MWJ1X0ExTWpzZm10cFVGLWRZZUExcDBBNDFLNDhaaWxUazlCelM3a2NYclVETlNzc014OGIxQmRLLTRHWWg5MUI0NFk?oc=5",
+      "publishedAt": "2026-10-25T15:22:57+08:00"
+    },
+    {
+      "title": "John McGuinness gives hint to 2027 plans including Isle of Man TT",
+      "source": "Crash.net",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS1J4WjB0VTJBQzY5R05yN291X2liRlh6MjliNU1fR0tYaGpzcXg2Y1FabkNvbjBQbDJVWW4zMThCNzlZa1FYcGw3YWtneDNVdWJfMURUMDA2RTJpWlZRZThjang3UnZKbFhZb2YwNFNWUTViVDFlMWJXa0pmeUtYODcwcEZONjZpUFUyTko3eVJMRnJ2c2pLUThpSjZWaWRQ?oc=5",
+      "publishedAt": "2026-10-19T15:00:00+08:00"
+    },
+    {
+      "title": "A Decade On From Its UNESCO Biosphere Designation, The Isle Of Man Remains An Under-Appreciated Haven",
+      "source": "Country and Town House",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fN1hjdjRrSjFoclhCWS1lUXRxUWtyd2Y2R1c3b0V3VzZnd2UtVUVlVUhUX0pyMXZHekdBS1l4SVozaWpVY1ZEX09sbE1RQjA3ekVTZGg1ai1tM0lTOC1qLV94NWxiWGVCcGZVeTR3?oc=5",
+      "publishedAt": "2026-10-16T00:27:14+08:00"
     }
   ]
 }

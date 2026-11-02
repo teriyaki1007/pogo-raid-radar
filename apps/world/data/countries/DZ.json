@@ -1,11 +1,15 @@
 {
   "iso2": "DZ",
   "name": "Algeria",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Algiers"
+    },
+    {
+      "label": "Population",
+      "value": "47,435,312 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,24 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Algeria marks 72nd revolution anniversary in Dhaka, pledges closer ties",
+      "source": "Banglanews24",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGeTdmdHNlaTY0emNmS05lYnpLakMzemhTRmZ3RGlfR0ltSkUycWNpdk03Zi1SdVU0ckw4OWJ4bG5FalM4SkdGUVotTXFWSFpQWlRkR3piTlVmVms2MTl4UVV4M1NCTWhNUUVJ?oc=5",
+      "publishedAt": "2026-11-02T11:02:14+08:00"
+    },
+    {
+      "title": "Algeria launches new cleanup of former French nuclear test site — Anadolu Agency",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT3VWUjZrS3oycmZnVlFJWEZJdTlsdHB3bFloRTVUNThGT2paLVhwQjBjQmN0NDFHZmJTeExCUXlWc1ZjS2NWbWtrbUhhMERsMzJ0SEhEMUtXVDBZU041NWJmZWh4VF9WYVk5QlRKRXZLdXRrZWEwQUNhM1VqSmtCd0gxUmJJajlOTzQ4YVA0aWktdF9sVVVFQVkwenJ3SGNhN0xvRlNWOFFRUklPTlRoU0RyNUxnZw?oc=5",
+      "publishedAt": "2026-11-02T10:15:28+08:00"
+    },
+    {
+      "title": "Algeria launches new cleanup of former French nuclear test site",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSndreHJJWVkzTXExRGVjdGdvOXNlTzJlOVRMelYxRmdQbGJiaGE3OElkRnZSWGZoYlFHWFlVNEgxWllDZ0R2NG5iQVFwZzE5RmEtZFYyRHJXNFZsTHZFRFBLaDNLbmEwS2ZqTHpTcFgwMERXS0FaWERBWERTNHVUb3M4eEhIRjZScURPVmhqamdxRGFTd2FvZ0hCd1F2NUV1TmRuWFJXSTEyVnV3?oc=5",
+      "publishedAt": "2026-11-02T10:07:25+08:00"
+    },
     {
       "title": "Algeria Continues Cleanup of Former French Nuclear Test Sites – الشروق أونلاين",
       "source": "الشروق أونلاين",
@@ -50,28 +72,10 @@
       "publishedAt": "2026-11-02T03:20:02+08:00"
     },
     {
-      "title": "Bangladesh, Algeria seek stronger energy, trade cooperation",
-      "source": "Bangladesh Sangbad Sangstha (BSS)",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5rdVZEbGNtVzl0enFnWHlHT0l5eGI2QzRidGlWaE5MTmJaWG5pT3dHdm84b3MzMXhDZEtNSkZ3NVBmNG1TSGJGZVU4bw?oc=5",
-      "publishedAt": "2026-11-02T00:57:10+08:00"
-    },
-    {
-      "title": "Algeria, BD pledge stronger ties in energy, economic sector",
-      "source": "The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY1lNemlHU2w3TklKZDNHUmFKZkRMbGxfeml6MjV6Z1VnRTRJQm9WVkNSV2dobTlucEIzdTNQTE9YNk56VndDYklELW5NVTZZZlFwa1FLZ3ZXUEEwRldEUklvQnhRWVlJeW50YTQwVXpnVF9nV2JLMTFvaGZtSEJvdExGUndiZGh2YXBLdkVTbUg5S25fZUhwa1F4U0pFREE?oc=5",
-      "publishedAt": "2026-11-02T00:24:58+08:00"
-    },
-    {
-      "title": "Syria congratulates Algeria on Revolution Day, affirms kenness on boosting cooperation",
-      "source": "سانا",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1STgyMDdST3lZaGlZd1lkejFVb0RCMWQtXzFFaER4Nlc0R2VkWkdyMWRHbWUwMlB1TzVWOUVPWm00WHhDSVFOZg?oc=5",
-      "publishedAt": "2026-11-01T23:48:15+08:00"
-    },
-    {
-      "title": "“MINURSO must go”: Former mission chief accuses Algeria of obstructing Sahara settlement",
-      "source": "HESPRESS English - Morocco News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHRnRkQyZ3UxZ19KTmZxclJoNi03SmU0eFo0T3RXcFE5WktMdGRMMDVTeV9YcWRLeFR0cTlqU1lHajhzQjdYemkzLUVqcE1JeEpTN2U1ZExjcGh0TWZTM3daR1R0V3V0R3R6U3A5WElQdW95c0JaT0prQWNaQTRqdDdKYldvYUllVTI2T3hTcHQzRUJIRzRiY3lFbEJOUWpOQTlKVzFRWklWcm1BVjlaLWxZanJmWFJhMU5pUUpn?oc=5",
-      "publishedAt": "2026-11-01T23:42:20+08:00"
+      "title": "Algeria, six other countries to maintain output unchanged in December",
+      "source": "وكالة الأنباء الجزائرية",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZFBmWVpkRy1BU0ZMdTA4aHJoU2lZV0djZ290aGM4SnZ5ZkJXdGVUUmxseXM3c3dPNE4ycFNJY0t5SDZTa0RHV2tkcnM5SWpmUkNpblFsdWJrd0Z6VF9YV0NpOGQtUjJqb0ZONXRidEkwb3FLRllpWHNSc3B2X1B2VFNyOWZ2b2VTT1lzdjV5Q3hGNjFhdG5XNzZWcXR5X3htYnc4aVVsaFRWR3dLTTFnUXBlZjQzUThlYWE2YW81Nm8zVFB3QUNFOFFR?oc=5",
+      "publishedAt": "2026-11-02T02:44:00+08:00"
     }
   ]
 }

@@ -1,11 +1,15 @@
 {
   "iso2": "KZ",
   "name": "Kazakhstan",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Astana"
+    },
+    {
+      "label": "Population",
+      "value": "20,843,754 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Türkiye, Kazakhstan target $15B in bilateral trade",
+      "source": "Türkiye Today",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQck1SQ19nWVBmbDJSc2dYX0xYSDBabXpreUNNQVdMc3h2Znc2MXR1eFFXNWcxMFlibnVCRGhMZEl6Z2F3ak1xaUpZNWExMXpfX1dnV3hTS1VqX3lmTzdUWmVXc09jSDNpOVNqTFBoYzhoZjBkc1VWOS1rN056OTZrbFY2UFBtMGswMGlXRE5DRHBkc0tucFlN?oc=5",
+      "publishedAt": "2026-11-02T10:08:22+08:00"
+    },
+    {
+      "title": "Kazakhstan celebrates Republic Day in Seoul",
+      "source": "The Korea News Plus",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zTXRTdmFkZzdER2U0QlpYNGdwN1ZUWXdHUUQyLWxjUUFHX3h4ajJsM2szRXRsaEFVeXhPM3lQZGZqNHVOYU5DUE83cURaVmZnMUs0ZXk5V3pmYS0zNzJyd2RQVUluQ21GcG5DTVU3ejBnd3RLZmU0?oc=5",
+      "publishedAt": "2026-11-02T09:42:45+08:00"
+    },
+    {
+      "title": "The Caspian Pivot: Kazakhstan’s Digital Highway And Russia’s Strategic Countermove - Analysis",
+      "source": "Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcFF5Z0VyS1c1cGFxQTBpTHN0UmhMZmJSZGp2UHh1Z0hyOEZZdTk1U1I1QW04RUt5eVZnaUJwM3ZQcThIMGFFNHRnbWZ2NFRZSzJfWFdLTE9mTHBpVjhDRmc3YnYwRFg5WEh4MGo2OV9NS3pkSUFTZno0NExVMWQycWZtc1V3QXpHZ2Y2RnZYeFJ3R2RzcmhYdmVjVlZxUWJsd1pNcWdsV1FsNVNhY056eFRHMHBFM1pQU292TTRweTNQY1lnOTRN?oc=5",
+      "publishedAt": "2026-11-02T09:34:43+08:00"
+    },
+    {
+      "title": "Kazakhstan's Dusen Kaseinov receives Alisher Navoi International Award",
+      "source": "Qazinform",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0k1eVhudklNalJzTFF3c0hiX0Y2ZVFoRjJEcHAyX0FwXzRTeHUtazBfVlVrWmVPaWo1UkxENUt3dkljc1lPOVVaek9wem1MTWZtekNCN2JyaXp1RHZGLXFvUU9VNXRvOTJpNXNKOHhZT0Zjb0dfc3NYeHV5MklnRnZqZUl5OFBheTZ2QmgtUkJTbXBib3ZYS2FiNlBhaUd0YlV6ZlhR0gGmAUFVX3lxTE52TUlZLTRiSTZPeFIxeFRLOEJVZVJMcTVlZlpYSUhnV1VBeDNsMTlTT0RQR3dmTkhVU20yTTZuQU5FMEpUWnNreHR3ZWRaUVBhNlR5OC1UNWN1Sk5rbWJBcGdmMlhscWR2RTMyZWNYU1FoLVZFWXVQbUFBMlVIUVhyM1lkR0dTalZmcG9wZ0l4dmpacFRtb250OThBb1pTQ1lac3dTMFE?oc=5",
+      "publishedAt": "2026-11-02T09:07:30+08:00"
+    },
+    {
+      "title": "SCAT’s 767-300BCF to be the First to Operate in Kazakhstan",
+      "source": "Air Cargo Week",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQend1bGNXeDVFNllZS05kc3U5N090TzlEWXVZRG1nSzk4YndBOEhGdExfZ0FEb25FM001SHZSSW5XRnlvcmVhNENXQVdBeDU2NUZETFJ5ZUY1NndWWnVhMXZGcmJGTVQ0YXZoYW5aWkp0WUQxNXYwaEFiRWZlUmtiNzA3T29mX184bkow?oc=5",
+      "publishedAt": "2026-11-02T08:13:26+08:00"
+    },
+    {
       "title": "Koryo-saram Who Endured Deportation Now Thrive in Kazakhstan",
       "source": "Seoul Economic Daily",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGlHY1YyUGEyd29lMllNMjAtUzdHSXdWNWJNMVU0Vm1VWUN3eTRBdDVobmZrLWRITHNMMm9QTHZSampUbjYzalR3a3JlUHMtYVhPYjhnYnI2aVQwMjJfMmdOOWFubmRFTS1SdWVTcTdIb0phclpFZ1lmSnQwbnJwQWJCeFdPZFBhQzVjQnJLZFRtR095d1JueUJPUlFnTFo2RVlTZGVR?oc=5",
@@ -42,36 +76,6 @@
       "source": "Qazinform",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcmlhY2ZUVzBFRVdmVmFJOFpaanZKOXFUalY3Z2VLMVFjTXpIMXRGQTd6NGVvVEdDMmJfblo3aDJLVlQ5QXlIRlUtY0NHYWtiLUdqNlNiSzczdlFOTkt6RTVWbEhzSERhWnIxREMxNXhZUjZ3SkhoMUp1d0t5d2ZQc3RqM3V4Q3pyaThrdVpFeVdfT2lmSlZXTWY4OUYyUXVuMFdHdGtDRG1NTXJ2T1BrRDFn0gGyAUFVX3lxTE5DMG05engzbzdoYzhaeU1zNWlkakNNUkptMGFVTFdpNlhQa0JFWklQN2EzdjhKNUg0cWN2am1QZWVmX1ByMFlQQlBLTXVKUVFYLV9VaF9ZcVJWNXBFU0ROSkotYWwtZjBGNm0yV2o4WWtfbnkzeUxRSFkyODFkRjJZX2lyUGlMS1lrSjhPeFBvN2RzZE9RTzlMN2NESUQtR3BxamsyRUVzb0NTSW5YOUZMZ3c?oc=5",
       "publishedAt": "2026-11-02T00:18:06+08:00"
-    },
-    {
-      "title": "Kazakhstan to spend KZT 300 million to restore Semey Ormany forest",
-      "source": "Qazinform",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlJELVdMU3M1dEN6d2NTT29NdlhZU2xNT0I0eC1QVnZoTmdiVU84VUhhU3FwQWU1OWpGQ0tmOGhkcnFRQm0yVHZfNHBGd0dIMGpRSERrWEVDZlVyZUFVeXNUbnVzLVZrbUt6cE1BRU9nckJKY05XU3E1RURTWURmRDhDakVLeGVTS2ZCZjlreWhUUjBVMjJhNmx1T2lPSWZoalHSAaIBQVVfeXFMUDQzNEJDS3c0VVZhRmRvVldNRnh6NTVQcXFvUmNJMUFISS1rdmFDOEF2OGo5UTRzaVpIMl9TXzAzREFPakVDb1VORG50eWFBeFhrNTdSa3VYLWdOZ2NPS3RxWm5tRF9FVXJCVi0zNEJqLTVmZ2I3MklYeUxWRXEySGlGc2RxUzRqaHRzV2lVRlhVOGd0Njcwdzk1SWZIcVhBb093?oc=5",
-      "publishedAt": "2026-11-01T22:21:20+08:00"
-    },
-    {
-      "title": "Russia-Bound Imports Stalled in Kazakhstan as Border Checks Tighten",
-      "source": "The Moscow Times",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeUdDSERac0d5cDNIZURtRnUwWnVLeGJMYnZKaVkxbHVnNGc1S1RSRDVBZGdWTkZfOHRmRDZqVUI4MmY0M3pDUEZyZ1lzaE1ySTFUYS1FNG44djVxblFUWHE5SWZCR1hIS0tEaVpBZEdEdDlXZ2lmOVFkNllBZExSMGtvaDRHZkhuS2pSMTc5RTZrbzF2VVJndW1qN0JLN2tEOTBGM3pCUzc2eHlaYkVkZC10bnBST0E?oc=5",
-      "publishedAt": "2026-11-01T22:12:27+08:00"
-    },
-    {
-      "title": "Ethnic Germans in Kazakhstan face legacy of the Soviet Union",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNm9jMVVrUUZyaFN0NDBzYzNmck05TkFYOVpXY2ZPMkhUN2stV3FOZlZNbTVKcm5lX1Vtc0EzVnVFejgtdE9TMXQzeE9vWXV3N1RyMGpNZFQwVXdpTlBwb1VMWElQdXQtWjRVSkxhSlQtTGROQW1rSzJ4cVk2TXlqX0Nra3M4aElHek1YZXlRanRVOG9IaXYxSdIBmAFBVV95cUxNLWRhVDJLQ1pVU0ppSFJoeGFIWVJxSHFmZE1uaDdvbjJDcnJXLXNfUTJ2bkN3cHM0a0pweVExYXFNc0ozUXk0aHVCd0pnMEZEZHp2cXZDQ1JSdXVOdnVDUmMxMGEwOG5kNVBCdmlZZ3BFWTRTV2dfYnRkNjBaQ2dQUXpNUG1pS0VqS1dBaTJNQklWQ0RrX0Jmbw?oc=5",
-      "publishedAt": "2026-11-01T21:05:44+08:00"
-    },
-    {
-      "title": "Türkiye, Kazakhstan expand defense partnerships, eye $15B in trade | Daily Sabah",
-      "source": "Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakhBN01nNUpiTmpZNE1HcVVhckk3TlRvaUhWY3hEYUlJOWlndGs1M0JhOVl3WkhiQ0FYSWtVZjBFaHhoVUZqUTduajMtZXppWlBzOTVUZzVFdHozZFJ3YW11dVZNaW54Ulk5ZVp2UjREcVZnMUNNQjZzNTZ3U3N0ZllKbTdCV2tVWjlneXFwUzI5bGtLdWU3VXc2VzB1U2IwWThpTEtfaFlKSTDSAbABQVVfeXFMTWVxa3VnakY3dUE2YzNZd2hlbmw2bDExWFV1a09LQ09FMVl1Y0hPU0laMDlDUzVBbUctc0VJdkZ3bHRWZmN2YVhJT3BCQ29JUXg0ODdoM1Z1NjBOZGlzRktNWDdyLTFQYjRkVjVZTG9pUnBDMGtzQW5sZ1RYZUh5cVh4cDRPaW9RZVRoeldMVDJrWnZFLTFaUW52RW02ekpKaE9zRHV4MEEtWDd2dy1Kdmc?oc=5",
-      "publishedAt": "2026-11-01T17:49:00+08:00"
-    },
-    {
-      "title": "How a Soyuz Lands in Kazakhstan Near Zhezkazgan",
-      "source": "MiGFlug",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2xSM1dENTlJa2hHR3Z0RTU3ak9QamJ2M2gwc1NSdjA3NU04TXV4STJVVTUwLXVuQjZqWFhDbnBUMG9fLU1JZDVhUlZ3NXUwQ0hSYzVlTmpiVmc5SlZfMTFsTXZtRnh0V2JEcVVFeDZPcHJYSERLODZmSTJUNEgxc2hMbTMyd0k2UGpfZA?oc=5",
-      "publishedAt": "2026-11-01T14:49:55+08:00"
     }
   ]
 }

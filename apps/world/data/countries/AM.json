@@ -1,11 +1,15 @@
 {
   "iso2": "AM",
   "name": "Armenia",
-  "updatedAt": "2026-11-02T05:03:16+08:00",
+  "updatedAt": "2026-11-02T11:07:30+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Yerevan"
+    },
+    {
+      "label": "Population",
+      "value": "3,086,700 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,6 +34,12 @@
       "source": "AzerNews",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xSWx3ZzA2QkxOQy1RMmRHMjJxLXhoQWFCSVJCZVdyRWt0NXVUX3h5d2pNVDh2bERjSGtWWEtvQ293YmFkNEVlZUthOFFlajNLSHFGVw?oc=5",
       "publishedAt": "2026-11-02T02:03:00+08:00"
+    },
+    {
+      "title": "Cadets defeat Armenia, now await the outcome of the other groups",
+      "source": "vijesti.me",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOR1AyRlVONzNsb2dqZWRlUS14Wk9YTUVMRmtvejQtclhPSjBHRHQ1OFJYbnZ6Y0Jkdk9acEZ3NDJKcldrNlNkZVF6R3lqblVlcDZia2xkaVJtTjRwdE45aDZzRXRxMGRrajdsV1l0ckNYcFp0NC1uYkFPQll6dnptN21aRjd4MjRUWXZZY3VKREZMTm84Unl1OXp1SW1lNmh3ZHBGeExpUzM3aTFTazdMSV9CeVBMT2Q4Z2dxcFNoelDSAasBQVVfeXFMTTB5NVhQZDI1QldpV3BmVHFsaUNjdWdDZFFwQTB3V29LRl9lbzBKMGx1czY3MEsyTjRJUGV0VW9tQTFmY0VqaUtQRlQxQTZVcWlkQTl3M3BLelZUb3lsOG55QkF5bWt1eDNWbUhpZXVDQV9vd09SbVZuVnBpa0NnWEs1b0xZQXRWTkRSZzhNb1ZTMkZjOWxOSUd4TUM0Nl9xSmk5bFpWbnNUUGVn?oc=5",
+      "publishedAt": "2026-11-02T00:49:39+08:00"
     },
     {
       "title": "COP17 in Armenia gives biodiversity targets a new roadmap but leaves funding questions",
@@ -62,16 +72,10 @@
       "publishedAt": "2026-11-01T18:54:00+08:00"
     },
     {
-      "title": "Nordic environment ministers pushed for ambitious action at COP17 in Armenia",
-      "source": "The Nordic Co-operation",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSDIzVmdIVlAwX21TNW9qaTZMSDFrS2pEcEhPdlljcW1obWpGdWg3Q3NWRk5VNC1WSm1sd1ZUZjVLNVJKSlIxX0lIX2RtaFI5VWZtbE16S0pIemZ3S2VaQzBBWldyRVlMYUZybnEwaFMwZVpVU1N0ZFlRbEZBa3BDbFgwOTBXa1dycTNQamZoVTNOeGNCaHB4d3pKY3FWQ3c?oc=5",
-      "publishedAt": "2026-11-01T15:00:00+08:00"
-    },
-    {
-      "title": "Final update from Armenia",
-      "source": "The Climate Watch",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQb0dEZE1JSENEOXoyVVdVMG0zWnA4b3d5bWNDbDBZbHhybXduR00zaU41OHpkYUFzaS11NDhfRklkY1IxMWJJazBiaDR0RnlRcWJ3MlNWOXZlTldpZ21oaGQwcDE?oc=5",
-      "publishedAt": "2026-11-01T14:44:48+08:00"
+      "title": "Armenian Government to Subsidize 2,000 Tons of Unsold Areni Grapes for Brandy Production",
+      "source": "Hetq.am",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBpY2pDZGtUcjNDVjVPTkRWazVPdjB4YUh4YUVMcnhvWHRWdko1WllTcXZCQ0hCcmNVN05xYlV3NVhlbHcwQUVQRg?oc=5",
+      "publishedAt": "2026-11-01T15:48:00+08:00"
     }
   ]
 }
