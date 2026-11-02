@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-11-02",
-    "asOfLabel": "2 Nov 2026 ~6:35 AM HKT",
+    "asOfLabel": "2 Nov 2026 ~10:30 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE: Halloween 2026 Part II (→ Thu 5 Nov 8:00 PM) — costume 1★ Pikachu (hat+capelet) + Sinistea (bow) still in raids. Giratina (Origin) 5★ ends TOMORROW Tue 3 Nov 10:00 PM; Mega Sableye continues → Sun 8 Nov 10:00 PM; standard 3★ Cofagrigus / Trevenant / Dhelmise (Leek Duck / GO Hub). Shadow Landorus (Incarnate) package + Shadow 1★/3★ continue → Tue 3 Nov 10:00 PM — Shadow 5★ weekend Oct 31–Nov 1 ENDED (midweek Shadow 1★/3★ only; next Shadow 5★ weekends: Tornadus Incarnate per GO Hub). TODAY Mon 2 Nov 6:00 AM–9:00 PM: Max Monday Dynamax Machop (Max Battles / denser Power Spots; may appear through Sun 8 Nov). Upcoming Wed 4 Nov 6:00 AM: Giratina (Altered) 5★ → Sun 8 Nov 10:00 PM (+ Raid Hour Wed 4 Nov 6–7 PM). Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni still inactive) unchanged.",
-      "endsAtLabel": "Halloween Part II / costume 1★ → Thu 5 Nov 8:00 PM · Giratina (Origin) → Tue 3 Nov 10:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Shadow Landorus package → Tue 3 Nov 10:00 PM · Max Monday Machop denser window → Mon 2 Nov 9:00 PM · Giratina (Altered) starts Wed 4 Nov 6:00 AM · Shadow 5★ weekend ENDED Sun 1 Nov"
+      "text": "LIVE: Halloween 2026 Part II (→ Thu 5 Nov 8:00 PM) — costume 1★ Pikachu (hat+capelet) + Sinistea (bow) still in raids. Giratina (Origin) 5★ ends TOMORROW Tue 3 Nov 10:00 PM; Mega Sableye continues → Sun 8 Nov 10:00 PM; standard 3★ Cofagrigus / Trevenant / Dhelmise (Leek Duck / GO Hub). Shadow Landorus (Incarnate) package + Shadow 1★/3★ continue → Tue 3 Nov 10:00 PM — Shadow 5★ weekend Oct 31–Nov 1 ENDED (midweek Shadow 1★/3★ only; next Shadow 5★ weekends: Tornadus Incarnate per GO Hub; Shadow Tornadus rotation starts Wed 4 Nov). Max Monday Dynamax Machop denser window ENDED Mon 2 Nov 9:00 PM — Machop may still appear in Max Battles through Sun 8 Nov. Upcoming Wed 4 Nov 6:00 AM: Giratina (Altered) 5★ → Sun 8 Nov 10:00 PM (+ Raid Hour Wed 4 Nov 6–7 PM). Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni still inactive — leftover Super Rocket Radar only) unchanged.",
+      "endsAtLabel": "Halloween Part II / costume 1★ → Thu 5 Nov 8:00 PM · Giratina (Origin) → Tue 3 Nov 10:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Shadow Landorus package → Tue 3 Nov 10:00 PM · Max Monday denser window ENDED Mon 2 Nov 9:00 PM (Machop Max Battles may continue → Sun 8 Nov) · Giratina (Altered) starts Wed 4 Nov 6:00 AM · Shadow 5★ weekend ENDED Sun 1 Nov"
     },
     "legend": {
       "standard": {
@@ -1420,10 +1420,10 @@
     },
     {
       "id": "max-monday-machop-nov2",
-      "when": "Mon 2 Nov 6:00 AM – 9:00 PM local (LIVE denser window); Dynamax Machop may continue in Max Battles through Sun 8 Nov",
-      "title": "Max Monday / Dynamax Machop (LIVE)",
-      "impact": "LIVE denser Power Spots window Mon 2 Nov 6:00 AM–9:00 PM local (Leek Duck / GO Hub). Fighting-type Tier-2 Max Battle (~400 Max Particles on win); weak to Flying, Psychic, Fairy; shiny-eligible. Max Battles only — not a Gym raid change.",
-      "urgent": true
+      "when": "Mon 2 Nov 6:00 AM – 9:00 PM local (ended denser window); Dynamax Machop may continue in Max Battles through Sun 8 Nov",
+      "title": "Max Monday / Dynamax Machop (denser window ended)",
+      "impact": "Denser Power Spots window ended Mon 2 Nov 9:00 PM local. Dynamax Machop was the featured Max Monday (Leek Duck / GO Hub); Machop may still appear in Max Battles through Sun 8 Nov. Fighting-type Tier-2 Max Battle (~400 Max Particles on win); weak to Flying, Psychic, Fairy; shiny-eligible. Max Battles only — not a Gym raid change.",
+      "urgent": false
     },
     {
       "id": "giratina-altered-nov4",
