@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-02",
-    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG /parts/__data.json usage (2026-11-02 refresh; beywatch dataUpdatedAt 2026-10-30T12:05:17.223Z; lastDate 2026-10-26; scope 3706/10819/34866 (identical vs 2026-11-01; MD5 1a18d17406934f14edc8a3e66fbe6bcc; direct curl HTTP 200); tier moves: none; rank: bits Low Rush #1 / Rush #2 / Narrow #3 (unchanged); usage: no moves (payload identical); no new catalog parts — BX-54 Sieg Superion / CX-20 Customization Set C still ~2026-11-21 (TT lineup/bx54.html / cx20.html 2026.11.21発売 view_timer end 2026/11/21 12:00 HTTP 200; BX-58/UX-22 still 404); UX-00 BisonValor DB lottery exclusive not added; BW stubs sieg-superion (24g) / valor-bison / suppress-superion / luster-dragoon 0 games / M-65 / Metal Taper / Force — not added; HK via hkbeybladex (shops refreshed ~2026-11-02 09:20 HKT): CX-19 Animes Pro HK$99 / Hobbyland HK$100 / Incubase HK$99 / Battleground HK$138 / BuyMarketToy HK$90 / Toytoy HK$150 有貨; GCS CX-19 HK$120 有貨 (unchanged); BX-52 Animes Pro HK$145 有貨, GCS HK$198 有貨, Incubase HK$149 有貨, Moonroad 11月預訂 HK$199 有貨, BuyMarketToy 現貨 HK$185 缺貨 / Nov preorder HK$185 有貨; Battleground BX-52 listing still absent; BX-53 all checked 缺貨 (Animes Pro HK$579); BX-54 預購 Moonroad HK$180 / BuyMarketToy HK$260 有貨, Battleground HK$148 缺貨; CX-20 預購 BuyMarketToy HK$750 有貨, Battleground HK$698 / Moonroad HK$699 缺貨; Incubase BX-54+CX-20 combo HK$799 有貨; Carousell HK / UP-NEXT not scraped",
+    "updated": "2026-11-03",
+    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG /parts/__data.json usage (2026-11-03 refresh; beywatch dataUpdatedAt 2026-10-30T12:05:17.223Z; lastDate 2026-10-26; scope 3706/10819/34866 (identical vs 2026-11-02; MD5 1a18d17406934f14edc8a3e66fbe6bcc; direct curl HTTP 200); tier moves: none; rank: bits Low Rush #1 / Rush #2 / Narrow #3 (unchanged); usage: no moves (payload identical); no new catalog parts — BX-54 Sieg Superion / CX-20 Customization Set C still ~2026-11-21 (TT lineup/bx54.html / cx20.html 2026.11.21発売 view_timer end 2026/11/21 12:00 HTTP 200; BX-58/UX-22 still 404); UX-00 BisonValor DB lottery exclusive not added; BW stubs sieg-superion (24g) / valor-bison / suppress-superion / luster-dragoon 0 games / M-65 / Metal Taper / Force — not added; HK via hkbeybladex (shops refreshed ~2026-11-03 09:15 HKT): CX-19 Animes Pro HK$99 / Hobbyland HK$100 / Incubase HK$99 / Battleground HK$138 / BuyMarketToy HK$90 / Toytoy HK$150 有貨; GCS CX-19 HK$120 有貨 (unchanged); BX-52 Animes Pro HK$145 缺貨 (was 有貨 2026-11-02), GCS HK$198 有貨, Incubase HK$149 有貨, Moonroad 11月預訂 HK$199 缺貨 (was 有貨), BuyMarketToy 現貨 HK$185 有貨 (was 缺貨) / Nov preorder HK$185 有貨; Battleground BX-52 HK$198 有貨 (listing returned; was absent 2026-11-02); BX-53 all checked 缺貨 (Animes Pro HK$579); BX-54 預購 Moonroad HK$180 / BuyMarketToy HK$260 有貨, Battleground HK$148 缺貨; CX-20 預購 BuyMarketToy HK$750 有貨, Battleground HK$698 / Moonroad HK$699 缺貨; Incubase BX-54+CX-20 combo HK$799 有貨; Carousell HK / UP-NEXT not scraped",
     "currency": "HKD",
     "priceDisclaimer": "All HKD values are estimates (sealed retail anchors, MSRP-derived, or unknown ranges). Never treat as verified live listings. Meta shifts.",
     "viabilityNote": "Tiers mapped from BEYWATCH.GG: beywatch X→S, S→A, A→B, B→C, C→D, sparse/?→Unranked. usagePct = BEYWATCH pickRate × 100.",
@@ -41,8 +41,8 @@
       "Ball",
       "Low Orb"
     ],
-    "updatedAt": "2026-11-02T09:30:00+08:00",
-    "metaAsOf": "2026-11-02",
+    "updatedAt": "2026-11-03",
+    "metaAsOf": "2026-11-03",
     "usageSource": "BEYWATCH.GG /parts/__data.json pickRate",
     "usageScope": "3706 tournaments / 10819 top-three / 34866 combo slots; lastDate 2026-10-26 dataUpdatedAt 2026-10-30T12:05:17.223Z (identical vs 2026-11-01; MD5 1a18d17406934f14edc8a3e66fbe6bcc)",
     "topLockChips": [
