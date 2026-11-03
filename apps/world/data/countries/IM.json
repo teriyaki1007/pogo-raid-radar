@@ -1,7 +1,7 @@
 {
   "iso2": "IM",
   "name": "Isle of Man",
-  "updatedAt": "2026-11-03T11:09:05+08:00",
+  "updatedAt": "2026-11-03T17:09:08+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
-      "title": "World-famous photography exhibition to open at Isle of Man museum",
+      "title": "Isle of Man Foodbank needs volunteers to help struggling families",
+      "source": "3FM Isle of Man",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZlZPVjBTa1F5T2xqYVhZS2lITVk5U1NJZmRnX3FoRDZLei1JckQtZWNUTTZCRmR3c3VFRm1jREE0dHpYYXM3TkFDZm9LZUtjTVlSZTZ4MTF0b3BIazlITF9aWm44TVdjVGJnNmZPbzV3bi1hU3QwaXNxREJ2RVJ3VFpQTUFGR2xUOGh4bWR5RnZERDJzdEtHdnRTYVpyanFSQmg1SHRocFVFdTRHNmc?oc=5",
+      "publishedAt": "2026-11-03T15:52:00+08:00"
+    },
+    {
+      "title": "Douglas Council applies to borrow £671k for housing project",
+      "source": "3FM Isle of Man",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdDJ2dXBRZ2VuQ1gtd1J6dWxPMTlsRmdlMmN4OW1FaUtONWRTaVdib2RWMTlNYVBDdjduX3hLX0F3ckZSelF1TXV5RmlBZlpGQ1JfN0ZBMnBHTTZySzAtdU9zN1YzeFNjV2lGREdlMFFHOG9DSGRacURzZGhFNTAyOFJxUHlKLVVTNHdMbVBKbzNrb1ZDWjhSTDR3Mk9jb3Vka3FCZw?oc=5",
+      "publishedAt": "2026-11-03T15:27:00+08:00"
+    },
+    {
+      "title": "Isle of Man housing minister considering empty homes tax",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1lRkhFX3BCcG9LYVV6UWM3d0JoN3pCcWVubVptMVRNclNJWHNoeEZCUEpvUTltNmN4SlltMno2VGowNld6a0FNR01XYUs2OWhNZVdCRzJrY19RQjg0RVE?oc=5",
+      "publishedAt": "2026-11-03T14:40:35+08:00"
+    },
+    {
+      "title": "Douglas scout group hit by development uncertainty",
+      "source": "Manx Radio",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEh1UVc0VTNrbHdqTlFUZTBwdG5OYVBBY0xxX1RkcnZFQkZOUWY2QjlvSURIX3hZZm0wLXVEdlJHanROcVJWRWV4a3ppRUc0ZVJwb1plQXM0Y09rLTJZWFdRY0VzY05BY0gwMGo2WWEzdTNjaW5Hck5MaWRIdjItQVdkb1JIRVFnSXhKTzR4OHRvSXJZT043b0UzTnBaVEVx?oc=5",
+      "publishedAt": "2026-11-03T14:38:00+08:00"
+    },
+    {
+      "title": "Final chapter looms for Manx airline that collapsed almost a decade ago",
       "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMEF5QUtjR2hONi1uVkMxSExLaW13SjEySWVWejk2QklXc1gxMTBuZVBtendTWUdCT1dkSFBJZHV4TE5peUpYZUhDckZnakdFcG91c0ZtNTM4cDZKMlBXZUp1bU4tVGdabFFSVlJaU191VEY0TFZXMlJTVzJwOWFMLWYwc0VtcHNxQnRBVXFUZXlaWDRWTlpsZF9iU2o1cDRNcUppZ3ZBcw?oc=5",
-      "publishedAt": "2026-11-03T03:07:31+08:00"
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNHBkN20wNmpTZ1ZZUXV0aXUtQlUtY2JYNmpNbWFRa3hpMkVwXzB5TjFhdWlESVZvdm1jS1BCYl9UWTF6WE1Tbk1JcWRfd05fcUduTzlYbmtMWnk0Y1lnZWRRamg5NE5WSGgyb1gxUl93LThXMFlJUEVRRFRjcnExclNaQUcwLWYxTlIwcU1OSWJZYks5Ulk2YU42ajlzTXpaSmwtZHd4cG9DbktLQ0JV?oc=5",
+      "publishedAt": "2026-11-03T13:03:22+08:00"
+    },
+    {
+      "title": "Manx Independent headline inspires Australian punk band's unusual name",
+      "source": "Isle of Man Today",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUWFyS2dTWWx0bmJ1Qm5rQndITlVldXRZRzBNMUY4RUNaU0Nfci1pdkI0V3F1WTBwQXotM01reGhQVXdITXZYa0ZGN1drVHF1dWZsaHhsVy1vNDZobm9iejJLdHZtVDRXNnZ6MVNmY2d6bkZQSU9WX0ZaellyY2dlQjd5VGUtZzh0anZ6VGVwTDVyR3k1bTdRbTJQVGtMSGNfbmQyQ0NSMFdDazMt?oc=5",
+      "publishedAt": "2026-11-03T13:03:22+08:00"
     },
     {
       "title": "Isle of Man ferry to be temporarily taken out of service",
@@ -42,40 +72,10 @@
       "publishedAt": "2026-11-03T01:23:48+08:00"
     },
     {
-      "title": "Isle of Man cyclist nominated for prestigious award",
-      "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR1p6QS1uSXhsR05ucHlPV1ppd1hwSi1nbHBtbkdld3BmV0Vha1BsclNrd24tZDZ4UVRvYXdzTWNFeTVDZkNaa2RCd2Jic2hrdXhPYTBsVDFLcmhkM1VRbjh6NmRDSlBXeWJSeUxwVUdFSnVYV1h1SHN5b08xSEhZZ3NfZXc3QWNJeUNrelpGUlJReEZEbHppODBIaFFKRE4x?oc=5",
-      "publishedAt": "2026-11-02T23:01:18+08:00"
-    },
-    {
       "title": "Debt advice service named as finalists in Isle of Man awards",
       "source": "The Salvation Army",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOFU5T1pVT1lTVWk1SjgzekNRX2VzcVcwSFFoX3RGcHhWUnJNWk1JZEhwaVRCbTNTWEtEQjg2cjFBUGtaall4RnJ2UnBpZWQ5TERZdzFhbU1XRlowdkh0OUR5TE5VblVpazdKdjJmS2pZVGtYSFN6bEd1blJTRGdMeXRyS09PVmFnNFBNYjVnTkRtOE0?oc=5",
       "publishedAt": "2026-11-02T22:43:10+08:00"
-    },
-    {
-      "title": "Month-long survey to assess the state of the Isle of Man's roads",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12aEtfdVJkV2VqRm90bk9XZWpyTGNqbmJKcGFrUGpGQ2ZIclg5MDMxaDdleENxVkVQYW5sWktOMERUSnFDdmFLekZYVjJLMUpDOGNqOVA4UnpUdXlkNUE?oc=5",
-      "publishedAt": "2026-11-02T21:45:44+08:00"
-    },
-    {
-      "title": "Manx Museum celebrates 10 years of UNESCO Biosphere status",
-      "source": "3FM Isle of Man",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVXU2YWl2LVFVVjBxVVE5bHRnUnoyUFVhak1SSlJOZkJKb0QwcFZUMnQ1bGF0THBqRHlGaTZsSTM3YkZ0WmVRN3Nia3JEVjhwcHhmc1JoY3ZldmMtZ0JDbnBZbnNlU1lGd3lXYlRweXNpWE8wT24zSm1VVEwyVWhJM3VmWE9tT0Q5YTF5bzBJZnhaamFtTmRpbUVPM0VEVUtqOWN1bA?oc=5",
-      "publishedAt": "2026-11-02T16:51:00+08:00"
-    },
-    {
-      "title": "Isle of Man 'must have enough hotel rooms' says MHK",
-      "source": "Manx Radio",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3ROV0hubDRydVlLVHRjbTFUOGtvZUxfV3RleTZWdkFYaTNhVkVtYk9KbzcxcnFCOVd3VVRhdlNpRExxcjFQQnlDelRhajVIVWdxWTdEeWQ2YnJzSy1CY1ZjODZXa0tfWXNLS1ZGSVRsUVFYckpfaU16aGUwS3JWUmhGU0dLb3lVQk1sYklRY3h3NzdINk5oc0V5OUc3QUU?oc=5",
-      "publishedAt": "2026-11-02T14:30:00+08:00"
-    },
-    {
-      "title": "FC Isle of Man torn apart at Barnoldswick Town",
-      "source": "Manx Radio",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGhGZU9vdGc2aUNlNDB1OVlINXY4TS1waGVqeTJmdVMzQ3dsd2F3b1RPRXhJY3hYcm54Tk9SSndyUG5qbjBWUllTMmpSOGFvQjhCR1ZZcHJOcjBoazVBN3dlem5kaDR5T0kwOG95OUxaaWJ5aTJZWmpaMl9HUUk2NldwS2VSaklIYlVFUmwxZmR4amhTUnpsZGZIV3I?oc=5",
-      "publishedAt": "2026-11-01T00:53:00+08:00"
     }
   ]
 }
