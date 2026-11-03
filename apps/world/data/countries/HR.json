@@ -1,7 +1,7 @@
 {
   "iso2": "HR",
   "name": "Croatia",
-  "updatedAt": "2026-11-03T23:11:18+08:00",
+  "updatedAt": "2026-11-04T05:08:34+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "New Maksimir Stadium architects reveal more details of controversial Zagreb project",
+      "source": "Croatia Week",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02b0tSYmVmX3ZudEhtcm5la0NkTklIdnNWX0VlZ1VLMm1SOEpXS1NxeVVlX1E5bEJJcFRwcjdKWE1nVUhBWTczZTUzNW5qWlUyZlM5UGtfU2dLckRxSnpqVlNBWHQtYmVLeUxxRHpMeDI0MmtmNlV0MjVpaw?oc=5",
+      "publishedAt": "2026-11-04T04:43:28+08:00"
+    },
+    {
+      "title": "Croatian stocks extend losing streak on losses in Koncar Group",
+      "source": "SeeNews",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVG1DZ2EwR3FDUlhkclpXRUNNUExXSHdYckZjQ1ljVEpNX1AzcGRVNmt6SG54a3hTTzVTMm53M3lZeXB1TG54VmFVLUtsQ0FTa0tYaTY0bWJrdUg3bGNwZTc4blo3X1IzdWRyM3VyTmZyOUt3N1h6SWZPa1VRM2RKMl9sRkkwekFMVXlvdmtyTk16dDhuZU5IaUZVZw?oc=5",
+      "publishedAt": "2026-11-04T04:18:32+08:00"
+    },
+    {
+      "title": "Filip Hrgović: Life is Good in Croatia, People Complain Too Much",
+      "source": "HRT",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaS1jZWdpQ2d5eXo4T2VqZXB3dU9ZZHBWQzBabTdJNENmcWViMHhveHEyelZTUFRKT2txenI3SVUyOGFlT2JmeGRMdEczb0Y5UWVjYm1hX2hPSWdaeG5zOFZXNFFfbHBINGVLOE5USGoxOXhFSGc0RmJnaEtXTmgyQU1wUzlvblFpdUs0NDBIMEh6YlJ1YVBpM1o4MEFNT01RclJPY21TbHBCX2t2TEE?oc=5",
+      "publishedAt": "2026-11-04T02:11:47+08:00"
+    },
+    {
+      "title": "Delving into history, island hopping and making new friends: Why Croatia is perfect for solo travel",
+      "source": "The Independent",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU29LUnJiVEtGVHA3NmlTZ0ZUcVIzUmVSa1lqdzV3ZVBYNGZma1MyYjUtNlJmMXNNOGIyNkpJWEgyOEo0ZGV6dE5uUkoxeGNaNFppUmo4TVh0MEVHRHdZTEVmRVVLb0NGZnlIQTFrd3dWQ3dYQmhfVk5wR3ZCQk45eWp5NVU5bUp0THZDVGZfTktvMjBQc1lXaC01MW9EZWNqQ1E?oc=5",
+      "publishedAt": "2026-11-04T00:03:00+08:00"
+    },
+    {
       "title": "VIG launches assistance services company in Croatia",
       "source": "SeeNews",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdklzcW90UFd2cDZXMzJpdVdVOXFucDVsenBNeUh0NmNNZGx5OElTR3B0b0hpOHlEcmp3dm5NT3ZUX1JkQnJFQ2lDN1VDWXcxcWN6b25CYjZBekZDVkVKaG9KblNtbU5SNFRGaUdHd29ES2hOaGNYRXdnUXU0NVRUb1VlaXNTeTBhV3A4MQ?oc=5",
       "publishedAt": "2026-11-03T22:02:28+08:00"
-    },
-    {
-      "title": "Croatia's Q3 GDP expands 2% y/y - think-tank",
-      "source": "SeeNews",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZkE5RzUzTWQ5UWhIVmYwWWdvMEJ4bGRBUjQtVy1uVUdKMXB2eXRlNi1iRWpfc3p2VDhUaC1YWFFpemlaNnp3c1V3a3I0Y2tEbDR6TkpORTdHOHpGa1NtR1FUdWhNNnVhbHBZY1VQdjNJOG05aVBuRnNOek14YzBNOFh3SlBMU1E?oc=5",
-      "publishedAt": "2026-11-03T21:59:10+08:00"
     },
     {
       "title": "Croatia-Bosnia gas pipeline faces new obstacles",
@@ -48,34 +66,16 @@
       "publishedAt": "2026-11-03T21:07:04+08:00"
     },
     {
-      "title": "Milatović: Croatia should not ask for more than what it was unwilling to accept in relations with Slovenia",
-      "source": "vijesti.me",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQbHBEVUh1THpoeWswSU1QNlBzODgzRGFMbkNORWItWEM3cGF2YjFpbWpnb010VkJFUDdLMi0xVWZVdkU1YmNPZldoajc0VzA5dDNIYXpNRS1SU3huYUQ4em84TC1Bemk0UWRCOEh6SXdyRnJiQjdrNWw2ZkhsSlhveVNBVkJMSEt4ZTNoR1MwWlpkNS0zaEFKbFd1T3N4R1ZZUzZjN1R4TEtBaGlHLWs3TnJ3OF9mdURZOGgxaGpTaDhaY1h6cWhaNjRqRXdvMW05SktVaGktUm9oTzFrMWxEN2tCaHhwdDDSAdcBQVVfeXFMTzZkclotanJ3TFJWb2JBSm9ocWRuNkJhR2RBRWJLb1ktbk5ObHljWDRmVDlpWWk2b2lTakNyM2xqYUVsdk55VVpIOE9JZmJnTTZXQ1JUZkkwOTBvV0hyVE9Wb25xckhEM29jYzdnd05UVHdySEY2STV0RGlCaFZ5eU9rRzc1bDlNNzFXcms5NlVzdGZNSy02Ym8xZGpuUUhXVDJRc21NRWRvdTlQY09CYlhEclU2eUNDb25fWWlaQXpzRFAtSlZaMWFIUFBoVjBfOFdWLWZrb0U?oc=5",
-      "publishedAt": "2026-11-03T20:38:42+08:00"
-    },
-    {
       "title": "Pashinyan meets Croatian Prime Minister in Brussels",
       "source": "Armenpress",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zVzlXcnRqeHBDcloxXzh0NDZyS0U5MTNsVzJZbmh6RUh0U09Fakt6V2RVS0tEb2d2S1JrbHlaYVFSanhGMnJhajVPM1YydklpM0HSAVdBVV95cUxPQW1paWkwZHNGUVl1bEQ0dWttWm5Rc29BNTVOM18tak1SZnN0NzVpaS1nX2ZVQWlyX0ktWDdyT2NNTWJVeUhENnRSb21URl9jamxGeUVCY3M?oc=5",
       "publishedAt": "2026-11-03T19:18:00+08:00"
     },
     {
-      "title": "Azimut Yacht Rental MUDITA Opens Books For 2027 Croatia Yacht Charters",
-      "source": "YACHT CHARTER",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWVQdl82Z0Q2OFNHZVpSaEtsaVZDLURhNHphbFdaYVQtV2J2R1dFaTU2VWhxX0lKR2FMU2F5MWREdHVTTGRjYm5yLWE4bkpTRTFrOWFIcmt3aUFEb0tHTXBkdHZwQVhVTGZrdm1jVGpGNW82NUxJblFHd0IwVnRjSWxGWEpVMTVjTlBWZXEzeVVUVnd4M3MwS3dHU2VwRjRNSmhzSGdTS29BSS1jY2c?oc=5",
-      "publishedAt": "2026-11-03T17:57:49+08:00"
-    },
-    {
-      "title": "Czech-UAE e& PPF Telecom Group among bidders for Croatian Telemach",
-      "source": "IntelliNews",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdldqLUtXR09Pd1BpM3RNdzV1MFFKWUdZMGxTUzRYVmxqRmxjaWg1bXQ3VVRpQWtTUnJ4cGptR2s1S3Q1N3YyMDhSQzZmeEpLV0VCM1FxcWFoQTIzU01XbmhidHhtSzZ6Z0MwcjNsWVlKMi1TaG8xOEw4THZNU3NJdlM1VFZPRjBndkhzaWxCS1V4a0dLRnJ0Y0Yza3dTYTdsV183Szlla2dGdU40RGxURkdOVS05T2Q3TUl3?oc=5",
-      "publishedAt": "2026-11-03T17:41:11+08:00"
-    },
-    {
-      "title": "Croatia records one of the Europe’s biggest increases in tax revenue",
-      "source": "Croatia Week",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBqY2pRUXZrSi1FZ3JhZkRBOHh4djlOOFpIWEswS0xZMHRzSzlleWxORXpVdlZXS3h6ZVpLM1o4bnVsN19iVlJWbFJGNUVvY2tjWEZ1eWZ6b1UyeTI3VDQ1MXpSSGJVZEZfZUdNRE9lQXlISm8?oc=5",
-      "publishedAt": "2026-11-03T16:41:11+08:00"
+      "title": "Armenian and Croatian Prime Ministers Meet in Brussels to Advance Strategic Partnership and Regional Peace",
+      "source": "Hetq.am",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xczN1WTEtN2JlT29Ublppb29razVxUTNYQTM2ZndTS3ExYjc0c3V3ZnJVWGlXY1RUd2w5dTZiaF9OX0pTZ21FLQ?oc=5",
+      "publishedAt": "2026-11-03T19:05:00+08:00"
     }
   ]
 }
