@@ -1,7 +1,7 @@
 {
   "iso2": "AR",
   "name": "Argentina",
-  "updatedAt": "2026-11-03T05:07:48+08:00",
+  "updatedAt": "2026-11-03T11:09:05+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "Chinese cars making inroads in Argentine market, sparking concerns from local manufacturers",
+      "title": "Singapore-Argentina Free Trade Agreement Takes Effect, Completing MERCOSUR Trade Pact",
+      "source": "INDiplomacy",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYk9fLURiZy1HUnJPdEJIeEhIV3BoR0JFR2NXQm5OUkZtYmNRYlN6bUtYR3phRXZER0liaGo3ZFMwZlp1YTNPRWVFM0lORklvMi1WbHRLeGVIN3JnUzhMNGFoSDZCbXRxZHM3OHZHY1pxR0w0SFcyamUxRkFCUUl6anQ0UDN1LXpVMm1oYWZVVnFHaHpUaE9jX1FCTjRFRTlreEpHR2I3OERWVVBKbE5OV3MzejFMS3lVbVpFNg?oc=5",
+      "publishedAt": "2026-11-03T10:40:22+08:00"
+    },
+    {
+      "title": "Argentina’s Milei pitches a regulation-free AI haven at the end of the world",
+      "source": "San Mateo Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZC1LNWdfUTNZZGF3cEZGS3htNTFLbUt5blpLdXhialhzSXduMWxRbG5kM0JJbDBEalA5YXhGeEhwcm1nSWdiRWFaMjdfeThQaTZxYUs5cjJmVnQyR0NaZFFIQ3I2TnJlektDamtYNnhudzk1Z2VJQU1jNUhJZGRoSlpZRjRmX3Q3SzUzaXMwdmFBRTN6aFRBMnY1cV93M1dWb283a3YtQVRLOFBuc0U5VGw2M0VsR0ZYRHdDREFmN2VEVG1iUUstd3NKeUFCd0VCajhtaElYNW9peXpaVUk1Z181NWFSUGtlR1BubVZMam5WTHVBUTdnaERB?oc=5",
+      "publishedAt": "2026-11-03T10:00:00+08:00"
+    },
+    {
+      "title": "HMS Medway Fires 120 Rounds in Falklands Drill as Argentina Oil Dispute Nears Tribunal",
+      "source": "Around Prague",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUElGeUltZXE3Yng0VHhpY0RId1lMX1FadWN6djYyUEpNb1BoOXNqSmRCOHVMbXBMRC1VbHVaVmRXM3h3UkFqZnBySTNpU3VRc09ZcG8wUHIyX2pGNzB0b05pQl9mdG00djd4bXA0YTlPMlpEM2NzdzRFbTE2aVlRUEVEcWFMWjMwTklvN3hpMDdOd3dOemJSVklZVXVqRm9ZMW1keUt1SUxuaFhVdHFHc3d0c0FXdw?oc=5",
+      "publishedAt": "2026-11-03T09:53:30+08:00"
+    },
+    {
+      "title": "Argentina Data Center Dreams",
+      "source": "Columbia Missourian",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYmtqUG51M3ZiU1lFYUI4bUI2R3VaZndBTUZYR1hPT3lvMTlHUkllNERTVFdfZTNIUzVpMWdGTmpzZklLRW1OWGRpQkNNdUVkU1VrRl9Ba29iTmZZZ1lRQ3RudFlTQmNQTkNzZEN5SkNOOERVZUhrVW1PTFRXcVB6OGszb0NBREowREVjdHBLb0VjT09PQjRXZVpTSUtWTWx2U005MVhxZlJmaFJOUWhWb1kwOFFXc1VJdDFXcHIzNlR0Z05aODA5Zg?oc=5",
+      "publishedAt": "2026-11-03T08:58:51+08:00"
+    },
+    {
+      "title": "Argentina's minimum pension will rise 1.93% in November, but retirees' purchasing power remains under pressure",
+      "source": "Latin Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY3lsdjMtNi1yRk0wNG81WHcwRjFiVWhDc0ZvbmpSZFFMT1FWVUxtd1lSRmtHZGZqWGtCem1aZDZ0X19SZmpSZGVHS21aTzB0Wmp1aXZITHBoUDROOWZOMzhaU05xc0ZGSGZRRktHRUVEM2JzMUZlamNJMWhEbEZvRXJZUjI3YTQ?oc=5",
+      "publishedAt": "2026-11-03T07:26:08+08:00"
+    },
+    {
+      "title": "The rise and fall of Argentina’s $LIBRA case: the crypto scandal that threatened Milei and ended in a controversial dismissal",
       "source": "Argentina Reports",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONjU3YkU3YVN0QTBSRmROVk9LTUlUamh2UGxaVG5KY2g3RWNKeWkxUUQyM2I1R2JPUWVrZjRnWXduYWJYakUtNlc2ekEtOWFycjdQM0xZZ3haZVAwWWlYSE5WVEROWkpwQkVVdU9PVS1kMHc2V2xkOWlYMlNfZjFXektCVGF5UnQwMkZLVDBxYm5JTTBSblUzd3RfUmZVVVNYUG13NnJEZU1WcnJ2UnhDMEEtOVdBVVpWT3RXbC1yODNYOGM?oc=5",
-      "publishedAt": "2026-11-03T05:03:51+08:00"
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeDRLazBZS1IyY2FsVWFUSGZ5STR4RmlyRXRlZ0ZxR3NXbGphbzlQUEFaZEpFQTlHR2VUN2JpcUFLV0dFSUw5WHFjc2pUcE1uUXg3M2hITFI1YzN2eWZGNkFkMlgxdE9HWko3WG9mR0RsRWhEM2U5MjEzV2lqQ2tIVmN2RlFoMmhVNjE1eWFKN3FBODEtTy1xTHdnWEJNcHg2UVRRbGxaNlNteVZoaU9US1ZUc01HZHNjeER4Ylc1UjU0dlFMaXlMcTlHSVE1dVU2NmNtUWhkOUl1bnZISkJtM3lvSHE5c1FCRk9hNDBR?oc=5",
+      "publishedAt": "2026-11-03T07:03:53+08:00"
     },
     {
-      "title": "David Byrne Hails Argentina's New Generation of Musicians in Latest Curated Playlist: “It's a Moment!”",
-      "source": "Consequence of Sound",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iNXhQRlNmeE5QOGZ0OUZIV09LV0psYzY2azZGUnBKM3pfOWxvc3JZREdYdklpams5T2cyOVBTeXRPdkFLTi00bDVwal92cG03LUJwWVd5My1PNzhScU02alR0aUdPWkE2U2JhTVNkRFM?oc=5",
-      "publishedAt": "2026-11-03T04:17:29+08:00"
+      "title": "SPAIN-ARGENTINA/",
+      "source": "San Mateo Daily Journal",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNXzFseUQ0aUFYbE51QkFTTzNpcnNYMmxoRDNqeW9LM1JKVDh6RV9hcHZKcXBUbkpvRVlxeVk1UHEwdEQxbC1zSUNESWRFbkU4QnF1aEV6T3U3cE5jV3FLd2h4MXZ2N1lPZkxtOEh6UFYtVEpQaWUzc2FmUG9TUU1FOXpMNV9ZUUZIWUN0UjVSaGVCUlZIbE1ya0Z3?oc=5",
+      "publishedAt": "2026-11-03T06:41:04+08:00"
     },
     {
-      "title": "More Than 50 Argentine Products Rank Among Top Global Exporters",
-      "source": "Data Portuaria",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVFBrbno5UTNRTnFxSjZiaXRIVWp6ZjljZTJ6ZGU5Zmp2ZDNNZUtuSWJDUE0xMUI0Yy1IdnRLajl2OGU1clFkVHVYVklpNUtuQ3FlRHhNSmppMFBnV2xzMHZuUkRLVGIyOWVmT3lNTTU5UURIRDJNNmVXYlhJc1MzRmxoYjBlRzZOQm5hUEotWE1WbGhNS1pwN1JHTmtDNC1uOE5CSENFalNMb3B2cEZTYVVIYkRGY19QbkRGRjlLbEM?oc=5",
-      "publishedAt": "2026-11-03T03:40:09+08:00"
-    },
-    {
-      "title": "Argentina’s Kirchner is betting on Trump’s defeat — and her own comeback",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcnBtQUpXcGtnb01PUzBvazJ2bzhHWldYaXl4VHVKMWR3QlNDMG9lT3ZORDdkS2IyVHB0SnZlOVNpR2xOMEdGaXJOR3pSRWJpTEwxd2ZOa1VhQ1VOSGw4TlY2ZmpQbWNyMVhiV1owUExhNE1zQlNaT19VZHBza05ENGxYWi15a1dkWU52Q25fVjU2NWY3cmhQYk1DdkFhVUZKU0lfOGJicWlNemRzRDEwanhORDEzY1k?oc=5",
-      "publishedAt": "2026-11-03T03:33:15+08:00"
-    },
-    {
-      "title": "Argentina’s New Captain Names His Choice to Take Lionel Messi’s No. 10 Jersey",
-      "source": "Sports Illustrated",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbHFmal8yLVBLcldvcF9EajYyTjFNSmdHSVNlZW04TTVQbW8xY1c5aWRMNHpaRU13MU12d2VqcDBDeDIxYXgwT0lyUEM3R2xTbzNkRzQzVWRLMllXR1J3NG54WHQ5SE9OLXBXelh0Y2dpOHRHREN2UExQbUx5amxDQ1JkSllKcDY2NjZnNHJLZw?oc=5",
-      "publishedAt": "2026-11-03T03:30:00+08:00"
-    },
-    {
-      "title": "Metso tapped to design PSJ Cobre Mendocino plant as Argentina copper project gears up for 2027 build",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdWhDTE1valJGS0hERTlaZWxyTWFtdnNQYTJBdDZGRDNKcjBmUFRUTlJFTks5aHlfWmxnMmQyVFl1WjJ0eVNTbTFNWkU5bXBxb0Vlc051X253MFM2Vjgzd0prRVVCd3pPWHZBUG9WYU5ZNzc1eTdubFpKM3MzLVBaZ3NWdjhrVHNfX2l5MjhvZHl1Zi1tQ2RnQ2VYTUE5TkVVdHVFVElOU2g3ZmtadG1XMnFHalRFSDlWMFFnalcyYzFRZk8yZ0NCMEhiMEl4MmF4V2xVRlVR?oc=5",
-      "publishedAt": "2026-11-03T03:27:08+08:00"
-    },
-    {
-      "title": "Torino Announces 2.82 Billion Pounds of Copper, 2.88 Million Ounces of Gold in Maiden NI 43-101 Inferred Resource at Zonda Project in San Juan, Argentina",
-      "source": "The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQbG9CTzY4Q0U5Q3U1aXljRl84cjMxQmpMMm1hMER0V3hwWEZxelEtLWNIeFg4Skl3MmoxMEpnd0tkOVppcVdFZHNoakFhZ1Z2V25TQ2VWTDNhMDZlcEVEWEp0dnZxMFZzWVVQSzgxU0NvclB2bkNYTmVmd3ExMUFYYkRDa1JkaHFvSjUwb0dyRjNLTjJmZE03M3NKVnNMUTZuOUgyRmNYZFN6ajFIYlhXSnZ0a1lrZkhUemNSMEhfN0o2WFFiRHpfSXV4REhpaENWLXROX2VPa3p2MzNkNkNSM2Zqa09ENDVqUnNTTGxfdnltMTl4ZGF2X21WeENNQllKdnFuSm83cXlnUmVjYlVoS29rY3V5VlN0a2o4Z213aWNxNmctekFqZmxfZ0NFMFhtYjhWUTZ2eG8tYVpSVVpwZVJlVG1zd9IBywJBVV95cUxQbEpBcDZMQWk0V291bXFuZlU0a0NicGdiOUNLbXVUZGo4bVlOSXYwWFZDYWc5M0xBdllDX1I2OUZOTUExcVVSOHl3X3dJRjVySHViX2ZnUC1hTmFKcm00U1N5QTR5NTB2YTE1QW96MllhcnN2eDNSbDNjOVJiY0tsUlZ1UmJCRHJQNUtkQksxeGI2SF82Y3lIcGFPUFBmWlQ4cVlrbWxMWHF4MGtURGs0LVpYbU9yS09pUzFUVjdxdVpUcmZwMVZTcEp5LTE1dTlDVzNxb0psd2s0YjFSZXpMaVVZWE90X2pBazJyT3VnMDI3WDRWMC1ZMmZrbE1qN0pnVzBUVXNWcFhjUENoX2JBaEJpUGF2NVlxMmpZZ2kwdnpxV25sZTRCdk53YlBZMWRCMnZ5SFZ4QXpMMV9hWU5ycjU4SFZ3Wkt1b1hv?oc=5",
-      "publishedAt": "2026-11-03T03:21:57+08:00"
-    },
-    {
-      "title": "Soybean Costs Expose Brazil's Edge Over the US-and a Warning for Argentina's Farms",
-      "source": "AgroLatam",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnNnUldQa3dUYTdRaXNtRFlRbW1Ja0xCTzdJeGZRcEpFUE5jZnd2dGFLTjQ2N0FKX1B1aUNWOFBydTdfWXJ5TTJndmFtMXJmRWpodVh1YmxYSW5PUFM4Tms5WVZSM0hfQTh6TFJ6b05JMlNhSzU3Nk5xTVhybG9Kd1hkY0JXMm5XMzkzcWJkZ3lsU0RKdEo0NWV0MTFNcWxWU0NXR1ktd3NvLVJkUUgtRThFVVhoU1d0?oc=5",
-      "publishedAt": "2026-11-03T02:51:19+08:00"
+      "title": "Latitude Opens Buenos Aires Office to Support Clients and Partners in Argentina",
+      "source": "IMI Daily",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ1dHQnM4YnUzYTI0emllTFZUWThmV2xsa0hpRkNOSTk3Qi13VHFwTVIwb3Z3RFZFVWQ2RWsxV0JuYWI4Q2tabjlGdnhGMzlNWUIyRmpqQVhEM1FqVnp6UC1wZExxVkFSTUVnUWZYQl8ycFJSTHc1Vkg1eU5tcnRnVmlJZ0doMXF3SzFDTmpfeV9RdWF3bkJKSGo4OWI3dE5jbExsOVRhVkJORUtNUjl5UDRkeXFCckRJZjZkLUhNcHo?oc=5",
+      "publishedAt": "2026-11-03T06:28:47+08:00"
     }
   ]
 }
