@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-11-03",
-    "asOfLabel": "3 Nov 2026 ~6:30 AM HKT",
+    "asOfLabel": "3 Nov 2026 ~10:30 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE: Halloween 2026 Part II (→ Thu 5 Nov 8:00 PM) — costume 1★ Pikachu (hat+capelet) + Sinistea (bow) still in raids. LAST DAY: Giratina (Origin) 5★ ends TODAY Tue 3 Nov 10:00 PM; Mega Sableye continues → Sun 8 Nov 10:00 PM; standard 3★ Cofagrigus / Trevenant / Dhelmise (Leek Duck / GO Hub / ScrapedDuck). Shadow Landorus (Incarnate) package + Shadow 1★/3★ end TODAY Tue 3 Nov 10:00 PM — Shadow 5★ weekend Oct 31–Nov 1 ENDED (midweek Shadow 1★/3★ only; next Shadow 5★ weekends: Tornadus Incarnate; Shadow Tornadus rotation starts Wed 4 Nov 6:00 AM). Max Monday Dynamax Machop denser window ENDED Mon 2 Nov 9:00 PM — Machop may still appear in Max Battles through Sun 8 Nov. Upcoming Wed 4 Nov 6:00 AM: Giratina (Altered) 5★ → Sun 8 Nov 10:00 PM (+ Raid Hour Wed 4 Nov 6–7 PM). Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni still inactive for new radars — leftover Super Rocket Radar only) unchanged.",
-      "endsAtLabel": "LAST DAY Origin Giratina + Shadow Landorus package → Tue 3 Nov 10:00 PM · Halloween Part II / costume 1★ → Thu 5 Nov 8:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Max Monday denser window ENDED Mon 2 Nov 9:00 PM (Machop Max Battles may continue → Sun 8 Nov) · Giratina (Altered) + Shadow Tornadus start Wed 4 Nov 6:00 AM · Shadow 5★ weekend ENDED Sun 1 Nov"
+      "text": "ENDED Tue 3 Nov 10:00 PM local: Giratina (Origin) 5★ + Origin-window 3★ (Cofagrigus / Trevenant / Dhelmise) + Shadow Landorus (Incarnate) package (Shadow 5★ + Shadow 1★/3★). Overnight gap for 5★ / Shadow until Wed 4 Nov 6:00 AM — then Giratina (Altered) 5★ → Sun 8 Nov 10:00 PM (+ Raid Hour Wed 4 Nov 6–7 PM) and Shadow Tornadus (Incarnate) 5★ weekends (first window Wed 4–Sun 8 Nov 10:00 PM). Still LIVE: Halloween 2026 Part II costume 1★ Pikachu (hat+capelet) + Sinistea (bow) → Thu 5 Nov 8:00 PM; Mega Sableye → Sun 8 Nov 10:00 PM. Max Monday Dynamax Machop denser window ENDED Mon 2 Nov 9:00 PM (Machop may still appear in Max Battles → Sun 8 Nov). Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni still inactive for new radars — leftover Super Rocket Radar only) unchanged.",
+      "endsAtLabel": "Gap → Wed 4 Nov 6:00 AM · Halloween Part II / costume 1★ → Thu 5 Nov 8:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Giratina (Altered) + Shadow Tornadus start Wed 4 Nov 6:00 AM · Origin / Shadow Landorus package ENDED Tue 3 Nov 10:00 PM · Max Monday denser window ENDED Mon 2 Nov 9:00 PM"
     },
     "legend": {
       "standard": {
@@ -172,824 +172,23 @@
       {
         "name": "GO Hub — Dynamax Machop Max Monday",
         "url": "https://pokemongohub.net/post/event/dynamax-machop-max-monday/"
+      },
+      {
+        "name": "Leek Duck — Shadow Tornadus (Incarnate) Nov 4–8 2026",
+        "url": "https://leekduck.com/events/shadow-tornadus-incarnate-forme-in-shadow-raids-november-4-2026/"
+      },
+      {
+        "name": "GO Hub — Giratina (Altered) raid guide",
+        "url": "https://pokemongohub.net/post/guide/giratina-altered-raid/"
+      },
+      {
+        "name": "GO Hub — Shadow Tornadus (Incarnate) counters",
+        "url": "https://pokemongohub.net/post/guide/shadow-tornadus-incarnate-raid-counters-guide/"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
   },
   "bosses": [
-    {
-      "id": "shadow-gastly",
-      "name": "Shadow Gastly",
-      "form": "Shadow",
-      "species": "Gastly",
-      "catchForm": null,
-      "tier": "shadow-1",
-      "tierLabel": "Shadow 1★",
-      "category": "shadow",
-      "isShadow": true,
-      "isMega": false,
-      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
-      "windowStart": "2026-10-07T06:00:00",
-      "windowEnd": "2026-11-03T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 702,
-      "cpL25": 878,
-      "weather": [
-        "Fog",
-        "Cloudy"
-      ],
-      "sprite": {
-        "pokeapiId": 92,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
-      },
-      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
-      "types": [
-        "Ghost",
-        "Poison"
-      ],
-      "weakTo": [
-        "Ghost",
-        "Dark",
-        "Psychic",
-        "Ground"
-      ],
-      "counters": [
-        {
-          "name": "Darkrai",
-          "moves": "Snarl / Shadow Ball"
-        },
-        {
-          "name": "Mega Gengar",
-          "moves": "Lick / Shadow Ball"
-        },
-        {
-          "name": "Shadow Tyranitar",
-          "moves": "Bite / Brutal Swing"
-        },
-        {
-          "name": "Mewtwo",
-          "moves": "Psycho Cut / Psystrike"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "shadow-totodile",
-      "name": "Shadow Totodile",
-      "form": "Shadow",
-      "species": "Totodile",
-      "catchForm": null,
-      "tier": "shadow-1",
-      "tierLabel": "Shadow 1★",
-      "category": "shadow",
-      "isShadow": true,
-      "isMega": false,
-      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
-      "windowStart": "2026-10-07T06:00:00",
-      "windowEnd": "2026-11-03T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 646,
-      "cpL25": 808,
-      "weather": [
-        "Rainy"
-      ],
-      "sprite": {
-        "pokeapiId": 158,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png"
-      },
-      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
-      "types": [
-        "Water"
-      ],
-      "weakTo": [
-        "Electric",
-        "Grass"
-      ],
-      "counters": [
-        {
-          "name": "Zekrom",
-          "moves": "Charge Beam / Fusion Bolt"
-        },
-        {
-          "name": "Shadow Raikou",
-          "moves": "Thunder Shock / Wild Charge"
-        },
-        {
-          "name": "Xurkitree",
-          "moves": "Thunder Shock / Discharge"
-        },
-        {
-          "name": "Kartana",
-          "moves": "Razor Leaf / Leaf Blade"
-        },
-        {
-          "name": "Mega Sceptile",
-          "moves": "Bullet Seed / Frenzy Plant"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "shadow-shieldon",
-      "name": "Shadow Shieldon",
-      "form": "Shadow",
-      "species": "Shieldon",
-      "catchForm": null,
-      "tier": "shadow-1",
-      "tierLabel": "Shadow 1★",
-      "category": "shadow",
-      "isShadow": true,
-      "isMega": false,
-      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
-      "windowStart": "2026-10-07T06:00:00",
-      "windowEnd": "2026-11-03T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 509,
-      "cpL25": 636,
-      "weather": [
-        "Partly Cloudy",
-        "Snow"
-      ],
-      "sprite": {
-        "pokeapiId": 410,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png"
-      },
-      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
-      "types": [
-        "Rock",
-        "Steel"
-      ],
-      "weakTo": [
-        "Fighting 2×",
-        "Ground 2×",
-        "Water"
-      ],
-      "counters": [
-        {
-          "name": "Primal Groudon",
-          "moves": "Mud Shot / Precipice Blades"
-        },
-        {
-          "name": "Mega Lucario",
-          "moves": "Force Palm / Aura Sphere"
-        },
-        {
-          "name": "Terrakion",
-          "moves": "Double Kick / Sacred Sword"
-        },
-        {
-          "name": "Excadrill",
-          "moves": "Mud-Slap / Scorching Sands"
-        },
-        {
-          "name": "Shadow Conkeldurr",
-          "moves": "Counter / Dynamic Punch"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "shadow-gible",
-      "name": "Shadow Gible",
-      "form": "Shadow",
-      "species": "Gible",
-      "catchForm": null,
-      "tier": "shadow-1",
-      "tierLabel": "Shadow 1★",
-      "category": "shadow",
-      "isShadow": true,
-      "isMega": false,
-      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
-      "windowStart": "2026-10-07T06:00:00",
-      "windowEnd": "2026-11-03T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 635,
-      "cpL25": 794,
-      "weather": [
-        "Windy",
-        "Sunny"
-      ],
-      "sprite": {
-        "pokeapiId": 443,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png"
-      },
-      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
-      "types": [
-        "Dragon",
-        "Ground"
-      ],
-      "weakTo": [
-        "Ice 2×",
-        "Dragon",
-        "Fairy"
-      ],
-      "counters": [
-        {
-          "name": "Shadow Mamoswine",
-          "moves": "Powder Snow / Avalanche"
-        },
-        {
-          "name": "Shadow Weavile",
-          "moves": "Ice Shard / Avalanche"
-        },
-        {
-          "name": "Galarian Darmanitan",
-          "moves": "Ice Fang / Avalanche"
-        },
-        {
-          "name": "Glaceon",
-          "moves": "Frost Breath / Avalanche"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "shadow-primeape",
-      "name": "Shadow Primeape",
-      "form": "Shadow",
-      "species": "Primeape",
-      "catchForm": null,
-      "tier": "shadow-3",
-      "tierLabel": "Shadow 3★",
-      "category": "shadow",
-      "isShadow": true,
-      "isMega": false,
-      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
-      "windowStart": "2026-10-07T06:00:00",
-      "windowEnd": "2026-11-03T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 1307,
-      "cpL25": 1634,
-      "weather": [
-        "Cloudy"
-      ],
-      "sprite": {
-        "pokeapiId": 57,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
-      },
-      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
-      "types": [
-        "Fighting"
-      ],
-      "weakTo": [
-        "Flying",
-        "Psychic",
-        "Fairy"
-      ],
-      "counters": [
-        {
-          "name": "Mewtwo",
-          "moves": "Psycho Cut / Psystrike"
-        },
-        {
-          "name": "Mega Alakazam",
-          "moves": "Psycho Cut / Psychic"
-        },
-        {
-          "name": "Mega Rayquaza",
-          "moves": "Air Slash / Dragon Ascent"
-        },
-        {
-          "name": "Shadow Moltres",
-          "moves": "Wing Attack / Sky Attack"
-        },
-        {
-          "name": "Mega Gardevoir",
-          "moves": "Charm / Dazzling Gleam"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "shadow-kirlia",
-      "name": "Shadow Kirlia",
-      "form": "Shadow",
-      "species": "Kirlia",
-      "catchForm": null,
-      "tier": "shadow-3",
-      "tierLabel": "Shadow 3★",
-      "category": "shadow",
-      "isShadow": true,
-      "isMega": false,
-      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
-      "windowStart": "2026-10-07T06:00:00",
-      "windowEnd": "2026-11-03T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 552,
-      "cpL25": 690,
-      "weather": [
-        "Windy",
-        "Cloudy"
-      ],
-      "sprite": {
-        "pokeapiId": 281,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png"
-      },
-      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
-      "types": [
-        "Psychic",
-        "Fairy"
-      ],
-      "weakTo": [
-        "Ghost",
-        "Poison",
-        "Steel"
-      ],
-      "counters": [
-        {
-          "name": "Shadow Metagross",
-          "moves": "Bullet Punch / Meteor Mash"
-        },
-        {
-          "name": "Mega Gengar",
-          "moves": "Lick / Shadow Ball"
-        },
-        {
-          "name": "Excadrill",
-          "moves": "Metal Claw / Iron Head"
-        },
-        {
-          "name": "Chandelure",
-          "moves": "Hex / Shadow Ball"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "shadow-drapion",
-      "name": "Shadow Drapion",
-      "form": "Shadow",
-      "species": "Drapion",
-      "catchForm": null,
-      "tier": "shadow-3",
-      "tierLabel": "Shadow 3★",
-      "category": "shadow",
-      "isShadow": true,
-      "isMega": false,
-      "window": "October Shadow lineup · from Wed 7 Oct 6:00 AM local (typically runs with Shadow Landorus to ~Tue 3 Nov)",
-      "windowStart": "2026-10-07T06:00:00",
-      "windowEnd": "2026-11-03T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 1401,
-      "cpL25": 1752,
-      "weather": [
-        "Cloudy",
-        "Fog"
-      ],
-      "sprite": {
-        "pokeapiId": 452,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png"
-      },
-      "notes": "New in the October Shadow 1★/3★ pool (Leek Duck, posted 7 Oct). End date not announced — check in-game.",
-      "types": [
-        "Poison",
-        "Dark"
-      ],
-      "weakTo": [
-        "Ground"
-      ],
-      "counters": [
-        {
-          "name": "Primal Groudon",
-          "moves": "Mud Shot / Precipice Blades"
-        },
-        {
-          "name": "Therian Landorus",
-          "moves": "Mud Shot / Sandsear Storm"
-        },
-        {
-          "name": "Excadrill",
-          "moves": "Mud-Slap / Scorching Sands"
-        },
-        {
-          "name": "Shadow Rhyperior",
-          "moves": "Mud-Slap / Earthquake"
-        },
-        {
-          "name": "Garchomp",
-          "moves": "Mud Shot / Earth Power"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "shadow-landorus-incarnate",
-      "name": "Shadow Landorus",
-      "form": "Incarnate · Shadow",
-      "species": "Landorus",
-      "catchForm": null,
-      "tier": "shadow-5",
-      "tierLabel": "Shadow 5★",
-      "category": "shadow",
-      "isShadow": true,
-      "isMega": false,
-      "window": "Wed 7 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (Shadow 5★ weekends only — Oct 31–Nov 1 weekend ENDED; midweek Shadow 1★/3★)",
-      "windowStart": "2026-10-07T06:00:00",
-      "windowEnd": "2026-11-03T22:00:00",
-      "shiny": true,
-      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 2050,
-      "cpL25": 2563,
-      "weather": [
-        "Sunny",
-        "Windy"
-      ],
-      "sprite": {
-        "pokeapiId": 645,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png"
-      },
-      "notes": "LAST DAY — package ends TODAY Tue 3 Nov 10:00 PM local (Leek Duck). Shadow 5★ weekend Sat 31 Oct–Sun 1 Nov ENDED — midweek only Shadow 1★/3★ spawn. Next Shadow 5★ weekends: Tornadus Incarnate (GO Hub). Ice is double super-effective (×2.56). Local-only; Purified Gems needed when enraged.",
-      "types": [
-        "Ground",
-        "Flying"
-      ],
-      "weakTo": [
-        "Ice",
-        "Water"
-      ],
-      "counters": [
-        {
-          "name": "White Kyurem",
-          "moves": "Ice Fang / Ice Burn"
-        },
-        {
-          "name": "Shadow Mamoswine",
-          "moves": "Powder Snow / Avalanche"
-        },
-        {
-          "name": "Shadow Weavile",
-          "moves": "Ice Shard / Avalanche"
-        },
-        {
-          "name": "Galarian Darmanitan",
-          "moves": "Ice Fang / Avalanche"
-        },
-        {
-          "name": "Primal Kyogre",
-          "moves": "Waterfall / Origin Pulse"
-        },
-        {
-          "name": "Shadow Swampert",
-          "moves": "Water Gun / Hydro Cannon"
-        }
-      ],
-      "countersSource": "type",
-      "highlight": true
-    },
-    {
-      "id": "giratina-origin-oct28",
-      "name": "Giratina",
-      "form": "Origin Forme",
-      "species": "Giratina",
-      "catchForm": null,
-      "tier": "5",
-      "tierLabel": "5★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "Wed 28 Oct 6:00 AM – Tue 3 Nov 10:00 PM local",
-      "windowStart": "2026-10-28T06:00:00",
-      "windowEnd": "2026-11-03T22:00:00",
-      "shiny": true,
-      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 2105,
-      "cpL25": 2631,
-      "weather": [
-        "Fog",
-        "Windy"
-      ],
-      "sprite": {
-        "pokeapiId": 10007,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10007.png"
-      },
-      "notes": "Origin Forme LAST DAY — ends TODAY Tue 3 Nov 10:00 PM (Leek Duck + GO Hub). Shiny-eligible. Raid Hour Wed 28 Oct 6–7 PM ENDED. Replaced by Giratina (Altered) from Wed 4 Nov 6:00 AM → Sun 8 Nov 10:00 PM (+ Raid Hour Wed 4 Nov 6–7 PM). Mega Sableye runs alongside through Sun 8 Nov.",
-      "types": [
-        "Ghost",
-        "Dragon"
-      ],
-      "weakTo": [
-        "Ghost",
-        "Dragon",
-        "Dark",
-        "Ice",
-        "Fairy"
-      ],
-      "counters": [
-        {
-          "name": "Mega Rayquaza",
-          "moves": "Dragon Tail / Dragon Ascent"
-        },
-        {
-          "name": "Mega Gengar",
-          "moves": "Lick / Shadow Ball"
-        },
-        {
-          "name": "Shadow Rayquaza",
-          "moves": "Dragon Tail / Outrage"
-        },
-        {
-          "name": "Mega Tyranitar",
-          "moves": "Bite / Brutal Swing"
-        },
-        {
-          "name": "Shadow Dragonite",
-          "moves": "Dragon Tail / Outrage"
-        },
-        {
-          "name": "Shadow Chandelure",
-          "moves": "Hex / Shadow Ball"
-        }
-      ],
-      "countersSource": "type + GO Hub typing",
-      "highlight": true
-    },
-    {
-      "id": "mega-sableye-oct28",
-      "name": "Mega Sableye",
-      "form": "Mega",
-      "species": "Sableye",
-      "catchForm": "Sableye",
-      "tier": "mega",
-      "tierLabel": "Mega",
-      "category": "current",
-      "isShadow": false,
-      "isMega": true,
-      "window": "Wed 28 Oct 6:00 AM – Sun 8 Nov 10:00 PM local",
-      "windowStart": "2026-10-28T06:00:00",
-      "windowEnd": "2026-11-08T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 843,
-      "cpL25": 1054,
-      "weather": [
-        "Fog"
-      ],
-      "sprite": {
-        "pokeapiId": 302,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png"
-      },
-      "notes": "LIVE (Leek Duck + GO Hub). Catch form: Sableye (not Mega). Dark/Ghost — Fairy is its only weakness. Runs Wed 28 Oct 6:00 AM – Sun 8 Nov 10:00 PM (longer than Giratina Origin, which ends 3 Nov). Shiny-eligible.",
-      "types": [
-        "Dark",
-        "Ghost"
-      ],
-      "weakTo": [
-        "Fairy"
-      ],
-      "counters": [
-        {
-          "name": "Mega Gardevoir",
-          "moves": "Charm / Dazzling Gleam"
-        },
-        {
-          "name": "Zacian (Hero)",
-          "moves": "Snarl / Play Rough"
-        },
-        {
-          "name": "Xerneas",
-          "moves": "Geomancy / Moonblast"
-        },
-        {
-          "name": "Shadow Gardevoir",
-          "moves": "Charm / Dazzling Gleam"
-        },
-        {
-          "name": "Togekiss",
-          "moves": "Charm / Dazzling Gleam"
-        },
-        {
-          "name": "Primarina",
-          "moves": "Charm / Moonblast"
-        }
-      ],
-      "countersSource": "type + GO Hub typing"
-    },
-    {
-      "id": "cofagrigus-oct28",
-      "name": "Cofagrigus",
-      "form": null,
-      "species": "Cofagrigus",
-      "catchForm": null,
-      "tier": "3",
-      "tierLabel": "3★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "Wed 28 Oct 6:00 AM local · with Giratina (Origin) window (GO Hub current list)",
-      "windowStart": "2026-10-28T06:00:00",
-      "windowEnd": "2026-11-03T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 1299,
-      "cpL25": 1624,
-      "weather": [
-        "Fog"
-      ],
-      "sprite": {
-        "pokeapiId": 563,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
-      },
-      "notes": "Giratina-window 3★ (GO Hub current raids, Oct 27/28 update). Ghost. Catch CP 1231–1299 (1539–1624 Fog). Soloable with strong Dark/Ghost.",
-      "types": [
-        "Ghost"
-      ],
-      "weakTo": [
-        "Dark",
-        "Ghost"
-      ],
-      "counters": [
-        {
-          "name": "Dawn Wings Necrozma",
-          "moves": "Psycho Cut / Moongeist Beam"
-        },
-        {
-          "name": "Shadow Darkrai",
-          "moves": "Snarl / Foul Play"
-        },
-        {
-          "name": "Mega Gengar",
-          "moves": "Lick / Shadow Ball"
-        },
-        {
-          "name": "Mega Mewtwo Y",
-          "moves": "Psycho Cut / Shadow Ball"
-        },
-        {
-          "name": "Mega Absol",
-          "moves": "Snarl / Brutal Swing"
-        },
-        {
-          "name": "Mega Houndoom",
-          "moves": "Snarl / Dark Pulse"
-        }
-      ],
-      "countersSource": "GO Hub"
-    },
-    {
-      "id": "trevenant-oct28",
-      "name": "Trevenant",
-      "form": null,
-      "species": "Trevenant",
-      "catchForm": null,
-      "tier": "3",
-      "tierLabel": "3★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "Wed 28 Oct 6:00 AM local · with Giratina (Origin) window (GO Hub current list)",
-      "windowStart": "2026-10-28T06:00:00",
-      "windowEnd": "2026-11-03T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 1462,
-      "cpL25": 1828,
-      "weather": [
-        "Fog",
-        "Sunny"
-      ],
-      "sprite": {
-        "pokeapiId": 709,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png"
-      },
-      "notes": "Giratina-window 3★ (GO Hub). Ghost/Grass. Catch CP 1390–1462 (1738–1828 Fog/Sunny). Weak to Dark, Fire, Flying, Ghost, Ice.",
-      "types": [
-        "Ghost",
-        "Grass"
-      ],
-      "weakTo": [
-        "Dark",
-        "Fire",
-        "Flying",
-        "Ghost",
-        "Ice"
-      ],
-      "counters": [
-        {
-          "name": "Mega Rayquaza",
-          "moves": "Air Slash / Dragon Ascent"
-        },
-        {
-          "name": "Mega Blaziken",
-          "moves": "Fire Spin / Blast Burn"
-        },
-        {
-          "name": "Mega Delphox",
-          "moves": "Fire Spin / Blast Burn"
-        },
-        {
-          "name": "Shadow Reshiram",
-          "moves": "Fire Fang / Fusion Flare"
-        },
-        {
-          "name": "Mega Charizard Y",
-          "moves": "Fire Spin / Blast Burn"
-        },
-        {
-          "name": "Shadow Darkrai",
-          "moves": "Snarl / Foul Play"
-        }
-      ],
-      "countersSource": "GO Hub"
-    },
-    {
-      "id": "dhelmise-oct28",
-      "name": "Dhelmise",
-      "form": null,
-      "species": "Dhelmise",
-      "catchForm": null,
-      "tier": "3",
-      "tierLabel": "3★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "Wed 28 Oct 6:00 AM local · with Giratina (Origin) window (GO Hub current list)",
-      "windowStart": "2026-10-28T06:00:00",
-      "windowEnd": "2026-11-03T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 1685,
-      "cpL25": 2107,
-      "weather": [
-        "Fog",
-        "Sunny"
-      ],
-      "sprite": {
-        "pokeapiId": 781,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png"
-      },
-      "notes": "Giratina-window 3★ (GO Hub). Ghost/Grass. Catch CP 1608–1685 (2010–2107 Fog/Sunny). Same weaknesses as Trevenant (Dark / Fire / Flying / Ghost / Ice).",
-      "types": [
-        "Ghost",
-        "Grass"
-      ],
-      "weakTo": [
-        "Dark",
-        "Fire",
-        "Flying",
-        "Ghost",
-        "Ice"
-      ],
-      "counters": [
-        {
-          "name": "Mega Rayquaza",
-          "moves": "Air Slash / Dragon Ascent"
-        },
-        {
-          "name": "Mega Delphox",
-          "moves": "Fire Spin / Mystical Fire"
-        },
-        {
-          "name": "Mega Houndoom",
-          "moves": "Snarl / Dark Pulse"
-        },
-        {
-          "name": "Mega Blaziken",
-          "moves": "Fire Spin / Blast Burn"
-        },
-        {
-          "name": "Shadow Reshiram",
-          "moves": "Fire Fang / Fusion Flare"
-        },
-        {
-          "name": "Mega Charizard Y",
-          "moves": "Fire Spin / Blast Burn"
-        }
-      ],
-      "countersSource": "GO Hub"
-    },
     {
       "id": "pikachu-hat-capelet-halloween2026",
       "name": "Pikachu wearing a hat and capelet",
@@ -1110,6 +309,203 @@
         }
       ],
       "countersSource": "type"
+    },
+    {
+      "id": "mega-sableye-oct28",
+      "name": "Mega Sableye",
+      "form": "Mega",
+      "species": "Sableye",
+      "catchForm": "Sableye",
+      "tier": "mega",
+      "tierLabel": "Mega",
+      "category": "current",
+      "isShadow": false,
+      "isMega": true,
+      "window": "Wed 28 Oct 6:00 AM – Sun 8 Nov 10:00 PM local",
+      "windowStart": "2026-10-28T06:00:00",
+      "windowEnd": "2026-11-08T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 843,
+      "cpL25": 1054,
+      "weather": [
+        "Fog"
+      ],
+      "sprite": {
+        "pokeapiId": 302,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png"
+      },
+      "notes": "LIVE through Sun 8 Nov 10:00 PM (Leek Duck + GO Hub). Catch form: Sableye (not Mega). Dark/Ghost — Fairy is its only weakness. Origin Giratina window ENDED Tue 3 Nov 10:00 PM; Mega continues alone with Halloween costume 1★. Shiny-eligible.",
+      "types": [
+        "Dark",
+        "Ghost"
+      ],
+      "weakTo": [
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Zacian (Hero)",
+          "moves": "Snarl / Play Rough"
+        },
+        {
+          "name": "Xerneas",
+          "moves": "Geomancy / Moonblast"
+        },
+        {
+          "name": "Shadow Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Togekiss",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Primarina",
+          "moves": "Charm / Moonblast"
+        }
+      ],
+      "countersSource": "type + GO Hub typing"
+    },
+    {
+      "id": "giratina-altered-nov4",
+      "name": "Giratina",
+      "form": "Altered Forme",
+      "species": "Giratina",
+      "catchForm": null,
+      "tier": "5",
+      "tierLabel": "5★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local",
+      "windowStart": "2026-11-04T06:00:00",
+      "windowEnd": "2026-11-08T22:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1931,
+      "cpL25": 2414,
+      "weather": [
+        "Fog",
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 487,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+      },
+      "notes": "Upcoming — starts Wed 4 Nov 6:00 AM local (Leek Duck). Replaces Origin Forme after overnight gap. Shiny-eligible. Hundo CP 1931 (2414 Fog/Windy). Raid Hour Wed 4 Nov 6–7 PM. Same Ghost/Dragon typing as Origin (bulkier). Mega Sableye still runs alongside through Sun 8 Nov.",
+      "types": [
+        "Ghost",
+        "Dragon"
+      ],
+      "weakTo": [
+        "Ghost",
+        "Dragon",
+        "Dark",
+        "Ice",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Eternatus",
+          "moves": "Dragon Tail / Dynamax Cannon"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
+          "name": "Black Kyurem",
+          "moves": "Dragon Tail / Freeze Shock"
+        },
+        {
+          "name": "Mega Garchomp",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
+          "name": "Shadow Haxorus",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
+          "name": "Shadow Darkrai",
+          "moves": "Snarl / Foul Play"
+        }
+      ],
+      "countersSource": "GO Hub Altered raid guide",
+      "highlight": true
+    },
+    {
+      "id": "shadow-tornadus-incarnate-nov4",
+      "name": "Shadow Tornadus",
+      "form": "Incarnate · Shadow",
+      "species": "Tornadus",
+      "catchForm": null,
+      "tier": "shadow-5",
+      "tierLabel": "Shadow 5★",
+      "category": "upcoming",
+      "isShadow": true,
+      "isMega": false,
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local (Shadow 5★ weekends; first window)",
+      "windowStart": "2026-11-04T06:00:00",
+      "windowEnd": "2026-11-08T22:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/1000",
+      "ivFloor": "6/6/6",
+      "cpL20": 1911,
+      "cpL25": 2389,
+      "weather": [
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 641,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png"
+      },
+      "notes": "Upcoming — starts Wed 4 Nov 6:00 AM local (Leek Duck). First Shadow 5★ weekend window through Sun 8 Nov 10:00 PM; longer package Mon 16 Nov → Tue 1 Dec. Pure Flying (not Ground/Flying). Hundo CP 1911 (2389 Windy). Local-only; Purified Gems needed when enraged. Shadow 1★/3★ for this rotation not yet confirmed — omitted.",
+      "types": [
+        "Flying"
+      ],
+      "weakTo": [
+        "Electric",
+        "Ice",
+        "Rock"
+      ],
+      "counters": [
+        {
+          "name": "White Kyurem",
+          "moves": "Ice Fang / Ice Burn"
+        },
+        {
+          "name": "Mega Manectric",
+          "moves": "Thunder Fang / Discharge"
+        },
+        {
+          "name": "Mega Raichu Y",
+          "moves": "Thunder Shock / Zap Cannon"
+        },
+        {
+          "name": "Mega Diancie",
+          "moves": "Rock Throw / Rock Slide"
+        },
+        {
+          "name": "Shadow Magnezone",
+          "moves": "Volt Switch / Wild Charge"
+        },
+        {
+          "name": "Mega Tyranitar",
+          "moves": "Smack Down / Stone Edge"
+        }
+      ],
+      "countersSource": "GO Hub Shadow Tornadus Incarnate counters (Nov 2026)",
+      "highlight": true
     }
   ],
   "events": [
@@ -1245,10 +641,10 @@
     },
     {
       "id": "shadow-landorus-oct",
-      "when": "Wed 7 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (LAST DAY package; Shadow 5★ weekend ENDED)",
-      "title": "Shadow Landorus (Incarnate) in Shadow raids (LAST DAY package)",
-      "impact": "LAST DAY — package ends TODAY Tue 3 Nov 10:00 PM. Shadow 5★ weekend Sat 31 Oct–Sun 1 Nov ENDED — midweek Shadow 1★/3★ only. Next: Shadow Tornadus Incarnate starts Wed 4 Nov 6:00 AM (GO Hub / Leek Duck). Ground/Flying — Ice ×2.56, Water.",
-      "urgent": true
+      "when": "Wed 7 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (ENDED)",
+      "title": "Shadow Landorus (Incarnate) in Shadow raids (ENDED)",
+      "impact": "ENDED Tue 3 Nov 10:00 PM local. Shadow 5★ weekend Oct 31–Nov 1 already closed; midweek Shadow 1★/3★ ended with the package. Next: Shadow Tornadus Incarnate from Wed 4 Nov 6:00 AM (first weekend window → Sun 8 Nov 10:00 PM; longer package from Mon 16 Nov).",
+      "urgent": false
     },
     {
       "id": "raid-hour-yveltal",
@@ -1357,9 +753,9 @@
     },
     {
       "id": "giratina-sableye-oct28",
-      "when": "Wed 28 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (Giratina LAST DAY — ends TODAY); Mega Sableye through Sun 8 Nov 10:00 PM (LIVE)",
-      "title": "Giratina (Origin) 5★ + Mega Sableye (LIVE — Origin LAST DAY Tue 3 Nov)",
-      "impact": "LAST DAY for Origin Giratina — ends TODAY Tue 3 Nov 10:00 PM local; Altered Giratina starts Wed 4 Nov 6:00 AM. Standard 3★: Cofagrigus, Trevenant, Dhelmise. Halloween costume 1★ continue through Part II. Raid Hour Wed 28 Oct 6–7 PM ENDED.",
+      "when": "Wed 28 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (Origin ENDED); Mega Sableye continues → Sun 8 Nov 10:00 PM (LIVE)",
+      "title": "Giratina (Origin) 5★ ENDED · Mega Sableye still LIVE",
+      "impact": "Origin Giratina + Origin-window 3★ ENDED Tue 3 Nov 10:00 PM. Mega Sableye still LIVE through Sun 8 Nov 10:00 PM. Altered Giratina starts Wed 4 Nov 6:00 AM.",
       "urgent": true
     },
     {
@@ -1427,10 +823,17 @@
     },
     {
       "id": "giratina-altered-nov4",
-      "when": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local (upcoming)",
-      "title": "Giratina (Altered) 5★ (upcoming)",
-      "impact": "Replaces Origin Forme from Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck). Shiny-eligible. Raid Hour Wed 4 Nov 6–7 PM local.",
-      "urgent": false
+      "when": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local (upcoming — starts tomorrow 6:00 AM)",
+      "title": "Giratina (Altered) 5★ (upcoming — tomorrow 6:00 AM)",
+      "impact": "Starts tomorrow Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck). Shiny-eligible. Hundo CP 1931 / 2414 Fog or Windy. Raid Hour Wed 4 Nov 6–7 PM local.",
+      "urgent": true
+    },
+    {
+      "id": "shadow-tornadus-nov4",
+      "when": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local (upcoming — Shadow 5★ weekends; starts tomorrow 6:00 AM)",
+      "title": "Shadow Tornadus (Incarnate) in Shadow raids (upcoming)",
+      "impact": "Starts Wed 4 Nov 6:00 AM. First Shadow 5★ weekend window through Sun 8 Nov 10:00 PM (Leek Duck). Pure Flying — weak to Electric / Ice / Rock. Longer package resumes Mon 16 Nov → Tue 1 Dec. Shadow 1★/3★ for the new rotation not yet posted — do not invent.",
+      "urgent": true
     },
     {
       "id": "raid-hour-giratina-altered",
