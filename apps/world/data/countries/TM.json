@@ -1,7 +1,7 @@
 {
   "iso2": "TM",
   "name": "Turkmenistan",
-  "updatedAt": "2026-11-03T17:09:08+08:00",
+  "updatedAt": "2026-11-03T23:11:18+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,22 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "US Assistant Secretary Arrives in Turkmenistan for Talks on Energy and Trade",
+      "source": "Caspian Post",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVXlZVVlmQ2lycWxwaVpDaFRDU19XbU9nS1BrZ3VLMXY5SG5JM0dZWldzUjVGM3U5Q1VTUTlxazNhUWJiVHF4ZFl1RlZYcXZqbEtpaDE0MG5MYTdIQ2xjZmxCcnhfSVdMUDFnUF8wUXEtQ2dqaFU4SENjbGFDUXRETm5vaTk3cDE2SGRJZFhacWN0REFERVVYWDFPMDMtTURVMDJjdUE3U2lkUVNGYzRpbndBOA?oc=5",
+      "publishedAt": "2026-11-03T22:47:37+08:00"
+    },
+    {
+      "title": "US Assistant Secretary Paul Kapur visits Turkmenistan",
+      "source": "Report.az",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX3pVd1NUTnZGdjNkS2VVbG5LeGlGWUFXX3JKRDk0WEdoWXVoSUlZa1J2Smltelc2bFZmRHVKUC1DSUVuTjZrWng2TDl6R3NoMW9fWWVmbGlCY0hja1FVc1JpcnRmdEwwb2E3OEd1R1JPanRGMGRiLVNRZHVCVG5FU1M4VV94NFQ1UnZEal9jN3NLaURx?oc=5",
+      "publishedAt": "2026-11-03T22:43:25+08:00"
+    },
+    {
+      "title": "US, Turkmenistan discuss trade, investment and Trans-Caspian connectivity",
+      "source": "Trend News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qRmRDT2JNTzcxdHdfdGFwTFA4cy1Fa1E5b2tMemszUTQ0bFl4c0Z5REh2UEs1S1FWUWhveGd0NUI4NGVVOTZwWk9XelRfa09MVjVPakZwWUlmRE5KTURfbV93?oc=5",
+      "publishedAt": "2026-11-03T21:48:46+08:00"
+    },
+    {
+      "title": "Eni report: Turkmenistan's gas production falls to its lowest level since 2019",
+      "source": "Trend News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92TF83bFNKVFl4ZzZ1RE9SSERZb29OTFpDSlBBc3lJbXVLQlVZeHdWa2hpVmd0OWNkR0tHUk9YcGJOa3I5cGNBUjRrSmdrZEhrQ05mV1lVU1U0cEtiRkhDZTJn?oc=5",
+      "publishedAt": "2026-11-03T18:58:13+08:00"
+    },
+    {
       "title": "Turkmen Weightlifter Sets Two World Youth Records",
       "source": "turkmenistan.gov.tm",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVNRRWtKWWNJMnpCTW1KTTFDazBiSjlUV0pDUEJuaUYta2diOExFZHV2aUVoNEVXVUpUbE01dXpQdEZwM2VFSWRBZjl2Mmh0V3FDMGNOeV9ZSHVrdGwtTGdsaEZuNlhBMEdrQ3hTMHpSS2FZOWxUazBzdUVpSi1HcWh1dFNJd3FJVGx0ajFjNXUtZkpsSHBSMA?oc=5",
       "publishedAt": "2026-11-03T15:57:08+08:00"
-    },
-    {
-      "title": "Turkmenistan, Austria discuss bilateral cooperation and UN engagement",
-      "source": "Trend News Agency",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Sc1B0cThlTVNFM0JCeEQ2TXBPeVJkRmRDQVNsTVJTRUVvTHdrc1gwNjJBU2JlSVlPUlBKUHlBWVFsNnR5YmFJNUJDMU1WbUZrWkRTQy1lR19zWURyOHpJQlRn?oc=5",
-      "publishedAt": "2026-11-03T15:31:29+08:00"
-    },
-    {
-      "title": "Turkmen president, Iranian FM discuss bilateral and regional ties in Ashgabat",
-      "source": "Trend News Agency",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xOVNlMVpJbXdsaUo0N0RPSy1VRlI4WEhZRUduSXlrZi1KTWRvNm84WHBrTWRfU3JXMDBUZG5DWkRoanFKR043RzlfbHM1bGI0S05pS3VUb1JFc0psaG1VN2l3?oc=5",
-      "publishedAt": "2026-11-03T14:25:13+08:00"
     },
     {
       "title": "Araqchi Holds Talks with Turkmenistan’s Top Officials",
@@ -64,18 +76,6 @@
       "source": "Islamic Republic of Iran Ministry of Foreign Affairs",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BZmlsc203bGFLaWVhc1hFMjVySlNLWTJtN2Vhck1kbkN4cWIwZE5QX1B4TklhQVJybUlmWk0xbTVKQ3phd19ZNkhKZ1JRRWZ1Qmc?oc=5",
       "publishedAt": "2026-11-03T13:48:50+08:00"
-    },
-    {
-      "title": "Deputy Foreign Minister of Turkmenistan meets with Ambassador of Austria",
-      "source": "AKIpress News Agency",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDlDQXhQV1h0c3Y4LWhpSFZsQjRpNDI3TW5kcWgxSG9VRi1fc1YtNUxrY2JnMjJFMW05a1B6Z0V6Um5OU2NKekN4MWk1cmpwVEtMLXQzOGlnRXJ2djh0V2haaTRqM3dsa0MzZXYwVmRBZmt3NTBncXBsNVd0OFZ6cm5HMVg1VnVBTjdVZ1ByQXlUZmY3VldYMURENjFuV2FPQ1cxX1ZuMkxfZw?oc=5",
-      "publishedAt": "2026-11-03T04:41:00+08:00"
-    },
-    {
-      "title": "Abbas Araghchi Arrives in Turkmenistan for High-Level Talks",
-      "source": "IranWire",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeFZPeGlYT0cxWEpRdTdsdWtyRFZhSm0tQS1uZ2NiY1djTlk2RWhFVUhDS0VxQVVLTTFBLTB2SXRtTGt2OWlkajg1NEJRY0Q3SEtmRlFUMFhUV1BubTd1R2x6WGhxN2d6WkI2cDhWVVlFUlJlZWltcGl3QUdIU1JvZDJMM0pCS0NndUdJUVBqdE1PNjliQ19Cdy1ZdkU?oc=5",
-      "publishedAt": "2026-11-03T00:20:04+08:00"
     }
   ]
 }

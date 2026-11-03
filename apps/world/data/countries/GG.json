@@ -1,7 +1,7 @@
 {
   "iso2": "GG",
   "name": "Guernsey",
-  "updatedAt": "2026-11-03T17:09:08+08:00",
+  "updatedAt": "2026-11-03T23:11:18+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,10 +26,34 @@
   ],
   "headlines": [
     {
-      "title": "Guernsey sexual assault centre to stay, despite funding concerns",
+      "title": "Guernsey’s first vet hospital receives RCVS status",
+      "source": "Vet Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNDFiWjZ2QzlWa191RWJYYjZoWW9ycTdFWkFDX2xtNGlrc3BRM0t5OFlTVEl5M2tiXzY4Y0ZCUGZxWWV4SDlnWGtDLWpIeUZ0U292bWlUNXBSdVR1QV94N0dWODJ0c2VzWG9NOUh3Q093NzA1T1pXUFZMUWlBcndvZFhvUmEyRFN5d2c2LVl1amtySjBWTXJRYVFNY3dvdzV4bHdKWUVPUGdjWW5WdXF3?oc=5",
+      "publishedAt": "2026-11-03T21:50:20+08:00"
+    },
+    {
+      "title": "Guernsey plant grabbers can still make amends, says charity",
       "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Eem1PMk8weE1jRHJUUURESGZVeGI2S1hGQ0k5ay1hT1RmT09ETzd4UXRrOW9KWmtiOGF0clljV2FfS0lrdl9qM2pYTEljZlZBdVZpNEFFd21NN0EzN0E?oc=5",
-      "publishedAt": "2026-11-03T14:26:29+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pSExKRGRhTEtLT251U29qQXFvZ3A1MUx4NlJBMC1HSlU2WnFiQkdhQ1ZsSG1OUmU0TXRuNm96TXN2UEV5M0VVaU1HS3RlUkp5Nk5xSWJXNFp6WFdNZlE?oc=5",
+      "publishedAt": "2026-11-03T20:10:33+08:00"
+    },
+    {
+      "title": "Zanesville native Breyer Ehrnfield assigned to Guernsey County",
+      "source": "The Daily Jeffersonian",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc0NRSV9QOUtFbmE2TnB4YkJuZlR1ZHBUem1VZWFqaUtGQ2FrRVU1LWpvR0FIMVFKR09rNXpsT1dXUy1HTXV2OFpaQnFnaDhYSjZCbFg4Yk9ic1VWUjU4b3IzemVwemlCWGNrdlVhWFA3YTV6eUY2dkJjbWM2Q2JIWWsxVS1jcEtHWldTdlRIZEwxYjdQREFqdDdsR0dLQk1iai03aFlsbnBablBYLUZNdGxISS1ZTUpRaGk0ZXVBTVlidw?oc=5",
+      "publishedAt": "2026-11-03T18:13:00+08:00"
+    },
+    {
+      "title": "Guernsey–St Malo ferry passenger numbers up 56% since 2024",
+      "source": "Channel Eye",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORjdtMkRDUVRJdUMzcXVQRTJ6X2lyeUMzQ1dPWkpyNlAyV3dWendPNldSZW41MkNYdlo4eV9Ud0g3Z3A4Wkc1RGNYWVo0N0daUXI3N3ZHYUZ1Wml6V0Zjczh2Sm1XOEgweGE4X19sc2d1Wkpwb1RuUXBxVVNiekxBcDlMTlJ4Qm9LUFpJ?oc=5",
+      "publishedAt": "2026-11-03T17:29:21+08:00"
+    },
+    {
+      "title": "New hearing test equipment for Guernsey children, funded by Guernsey Hard of Hearing",
+      "source": "Channel Eye",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNTJXejMzVkQ2N0NLUWd6R3paMzYwaTQyTGY0RXgtME5adTRoY1YxVFdRMXFqZV83cVVVbzg5Q2JGNk1iWGdsZlhTT091dlgtLW1MWmJ5bEtfcUtNNUZhWTh6bWNrRTVLYmQyWEU3TGVNWGZqVGV0eVFneFJjck1rbGY4c3I1MGY3aUhTcHJrZFF2Ti0tQ1BvbHV1YTVhaUxJNm8wR0wzem9ucVF4dHc?oc=5",
+      "publishedAt": "2026-11-03T17:14:18+08:00"
     },
     {
       "title": "Alpha Growth plc Launches Guernsey Life Policy for Asian and Middle Eastern Clients",
@@ -38,40 +62,16 @@
       "publishedAt": "2026-11-03T07:15:09+08:00"
     },
     {
+      "title": "Why do Guernsey and Ohio have a special relationship?",
+      "source": "ITVX",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWHdlVnJ3RXdwR0xUSUEwbDhfREdOOWdTNUFfTWppWXNHalJHTlNQcDZ5UUlHcnQwLXBXUnFFUzFnYmM1STNUdWdhaGVsUk9fdTMtOThoaVNLRzZteWMxNkthQkM2NFd2TVluNkE4YmsyblFiajJYeFR0SWhkLTJGb0RJc2FLMFlSSG43M2ExazF4UXdsZkE?oc=5",
+      "publishedAt": "2026-11-03T02:30:00+08:00"
+    },
+    {
       "title": "Police: Parkersburg chase topped 100 mph before ending in Guernsey County arrests",
       "source": "WTOV",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdnA5UnRzbjBmaXpoOWhsLTJtbFBGZlJZTHRMTU43SUpTT2htZzRacXZtNGZOaUZXcWtJQUotaklvRk9RclhzeVBVck5WMUdGTDc3UVBzTmt4U2g0QnZoeUE2b0g3VGs0Z19yVENqWWx3Yk5nbU45UEVaUHZGWVJkVWxCcDc1bDhqNkMzRGtIWE1oQmpRNzFVRVpqd0g1SXdreTJ5WERDdVFlVVhpRkE?oc=5",
       "publishedAt": "2026-11-03T01:41:35+08:00"
-    },
-    {
-      "title": "Guernsey Atlantic tuna could be 'world renowned'",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zNzRoRFp4ZmswXzR0X3d0aEFETXdwaXFhUkZOaktVQk5RWURwcUdxc3dtSmhROTVVUFFrOERXSzY2YWNDTjBwWC12NExEU2xqUW1tQS1kenRqYnhIN0E?oc=5",
-      "publishedAt": "2026-11-02T20:13:07+08:00"
-    },
-    {
-      "title": "French connection blooms as Guernsey ferry passenger numbers soar under Brittany Ferries",
-      "source": "Bailiwick Express",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMEVFM2lSa3dybE1yQ2RPVHlYbVM5WFViQktydnU2NEJULUxJNWhsLUpORXZNbkNUMGlhdGI4d3VGeDRYTGtYX0tDM0xlcU9hTDNnaFg2N2VMd1FQT3AwUFNOdDhrYUlIOHE0cWx1aHdlV0wyeFlXMi1HMVpHSDFjTjNGaEM1cnhYSDd6MGtjN05mQ1BGMnlVc1U5eWNCZkhlNjc4MldUeFBER3lZNlkwSFkteDlnX3FKWWR1Y1hnbTJVeE1XYlpnYVV3?oc=5",
-      "publishedAt": "2026-11-02T17:38:17+08:00"
-    },
-    {
-      "title": "\"Busking in Guernsey taught me about performing\" - Rachel Dawson marks new season with country single",
-      "source": "Bailiwick Express",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSTJXaWU2VUlZWS1hRzZnVEhJcks2Q2JrU2tPeDFPNWRMTFlVUFkxYzNEeEJsOE5lOXdibUpBOE9fbzVET2x0YnFWcXpoNF9WNHpzMVpFMi1mXzN0QVh4LXllLWxRN3NjRm5hQ3I0N1pIU2pFeXhVVkEwUC1EY09IZVdSdUVwRFgzcThUVUw2YVJIazhWVWZoMzcxQXl3N1RaaVlzeWFVeHRvMG9LWXRRVnZhX1ZmaVBHV1NPVHZmSzd2X1JYYVRnUEw4bUI0ekhReGZNMEZ3?oc=5",
-      "publishedAt": "2026-11-01T19:56:22+08:00"
-    },
-    {
-      "title": "“It was almost just school, fly over, play football and fly back. It got to a point where I wasn’t seeing my friends and didn’t have a life at home” Alex Scott on breaking into football from Guernsey",
-      "source": "FourFourTwo",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNNnpOVEpJTXFIOTlOWWZJVzItbnZSVHV5NUY2WUdtVlR5eG5CUHB1bG1uRVJlX1JRajV5YU95aU1HVXBBZXk5bXVhT2tfUTU0VnNtOGc5NXRYc2U5NlFfd3czUGNrcE15ZUVSQTJVMm1KVTJDYzlwbzdBRUtqalpGQmF0V1I0OHRXMC1aRWlLcUJEWks1ZHV5V25VZm1FWTRIWDcwaG9RYjF3WTMwWFRERnpGMVNQeWc4aU1mMGNqaU9tLWFPWEl5T0tvRG01eEtQb2ItSW5YZUgzbE02S1g3MVRzT2ZGLTZJYVdROXczUTd2a3E5MnVTeEVWU09GOHdKU1kta05PRjI4eXl3NWtrZ1U2RDE4SmNTVkttVm90OWRpVFc0elZfTU45UlVRaHl4ckRrdnZKVUphTFVBVmtpLTUyVzIxWjdNLXFYd3B5OUQ4WUxX?oc=5",
-      "publishedAt": "2026-10-31T19:00:00+08:00"
-    },
-    {
-      "title": "Guernsey | James Martin's Islands to Highlands",
-      "source": "THIRTEEN - New York Public Media",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0kwcGtuZXlFVUM5eGhlYzdkSUo2Q0FaNjFiWHZ3Sy16WVFlU3BLMEZjUDVLYk5tYy1GQUtQQkpjYnpadXpPVThyelNqOXpZNTN4UDVuNE1hNmJwWTdKMzRlbTN2OG1JTUJLNGdjendxZ3dQNFR1VGdPcTl1XzlCV0wzMHUxWWNUVTZnRw?oc=5",
-      "publishedAt": "2026-10-30T15:38:20+08:00"
     }
   ]
 }
