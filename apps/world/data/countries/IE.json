@@ -1,7 +1,7 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-11-04T05:08:34+08:00",
+  "updatedAt": "2026-11-04T11:06:54+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Niall Horan concert series @ 3 Arena Dublin, 9-13 Nov",
+      "source": "Transport for Ireland",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZnR5dHh2QlRQLUZOV21HYTNtX1hCM2tYdk92bmJxYUx5bEl4OXpYYTBDempPdEhjZVV3dnBFRzFVN0pwbEh6YW9qQS1fUU5kQkt6VWE5d2xoSzQ1UFdQS3lBOGJtU3IxWk5zRnlIVUgwWGJqYnlxVzNWWlJ0ZUFTX3V2UHIzVE1UTHBQb241V2V4bjJiMlFOaA?oc=5",
+      "publishedAt": "2026-11-04T09:11:36+08:00"
+    },
+    {
+      "title": "‘Significant’ disruption in Dublin next week with largest-ever Garda operation for EU presidency",
+      "source": "The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYWlkaWlVUDIwZ19YUjQyVnZWbFFoWnNTT3pOdnFZdUJ0YjYwUHhzOVBOVmhpM0l5WGtHRy03VTlQNHA0SXNxY09RV1BiWHV3VGQ4UFVCcGl0Zm1nTEZ0QUstNE9jcUJUbk1LMHJBWnlCVkhiUVlRcHFMay0zY1pqV1Q5SVhONjZSeHZ2U2ppeFNZYzdyZFdlX1FuYlJPRF9ZUWRudl9yckxreUxXdjdtWEtNYzgwMGEwT2RwSGdqYTktV3RwUHd1OFpKZjJZMmlyc19LNkJUY0Znd21sYTZmMGln?oc=5",
+      "publishedAt": "2026-11-04T08:07:42+08:00"
+    },
+    {
       "title": "Two Ryanair flights from Dublin searched after potential bomb threats",
       "source": "Belfast Telegraph",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRUZBblhXQzBjY252cHE5dFlocS1XZjByMi1USWdocnVjcmNyZENCU185dUlydmE3YUdDQ0IxNTRTZTMtVXhfeEFvUXluam1RdUhDZEpyYzBQZHdvY0gzWG83aDlSR202TE9UblVHaURFM3lMeVYtTDlleDZ2cURUOUM2aXJ3aHdxU3RWaEtmeF95T0lXS09zYzQtRDRlQW5NaVY4WjJhMmdKNlNScldvaTZWQkJ1VW9QNFBXdmxVajBwbkFVYmZOajg1dl9zYXhwaWVHb0xpX0hFcjl0VFVz?oc=5",
@@ -54,12 +66,6 @@
       "publishedAt": "2026-11-03T23:57:35+08:00"
     },
     {
-      "title": "Gardai investigating house fire at Clanbrassil Close in Dublin 8",
-      "source": "Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ0RwX1NPWjV1VW5wSDh3WG5WOXJzS2lFWmRnYXZPMVZuU0ZXQUE1dkwtM3ZlaXFBc0hSMWV6QU5kVkRFX2xRb0FHbUxhWGlyeVJYWV82eGQwcHA3a25rd0haaXB3Rk1EblRQUnBmZzlTN2ttdjdPZk80MzhwQ3oxcjVISDRzc2tZQWdQQnA0dENiTXhhcUlFMkF4cndBMzlMd1JrUkgxOHZwU2tYUERfNlBDbjJaQQ?oc=5",
-      "publishedAt": "2026-11-03T22:40:21+08:00"
-    },
-    {
       "title": "New Year’s Festival Dublin Unveils Full Programme, Dublin City Will Come Alive with Music",
       "source": "Metal Planet Music",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWlNyd19ralI4ZGpUNE4wZkJhNmFYWXFnUEJqRG1yVUxIWDNBaTEwT21GN1VyRmRhZkZJVW1pZGlENU9uZU5WLW5DZjZuVDROc3Z4Ql8xUGp3UHhMZ1J0X3VCU25LazFEeTRWMFdSWjF6TlRHR2puZnNSMlJlb1p6QlByRVcyeU9sajlLTEhTVVFzXzA4UV91RUJkZTFqVmYzcVRETVhrZHF2ajJwTUVHNEdDaU1ITHlrd3pWT1NZbE1zQ0E?oc=5",
@@ -70,12 +76,6 @@
       "source": "Hotpress",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYXI0WGdLZEduekdaTjV3QVliQ0FJVU1Bbk1MXzdxX01TcTkzNFlTaEdXSmZnUEplQ3VPaHRTeTVTUGtHdU0yN3JwUjlkelQ4WU02cjFTeTBSWEFkNWJMWFZNMGVNVV8weHlvQ1FIaEx4OHl0cDlFdldrOF9oQUdrSzZFQnYzcEcyS0tsTnZ1eTZaY05PTDRHUDRCdHZXNks4Q3dzWWk3N29Zdzd6WlF6dHZMMEFGSC15bXlSZnlndk5nYmNFZkh6UkpJTHAyNW9WTDVB?oc=5",
       "publishedAt": "2026-11-03T21:35:49+08:00"
-    },
-    {
-      "title": "Plans confirmed for Taco Bell restaurant on Waterford to Dublin motorway",
-      "source": "Ireland Live News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRHBjRXR5T1I4bzZiT2dsMFVtN0szWWNVTmRSRXZ6eDNqejRZcm40V3lTbllCTXR3ZFlxZEF5WjU3RzBoYzk4SUgwaHJrYmZfNHRjQXZGUmZrUllfZUpLMGozdTdic1FjTkFUd3FPVGkyVG9peDdVbmlTaklhUHdnYVA2ZWFlVXFYOWZ4QkNyZF9pcnBlam1aeW1HT1otdzVYT3ZRaHp5bE9rUmxCblo1bDhhUGE1ajJGX1F4aXlLV1VmNklKTGc5TzRoRDkyM2s?oc=5",
-      "publishedAt": "2026-11-03T21:00:00+08:00"
     }
   ]
 }
