@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-11-04",
-    "asOfLabel": "4 Nov 2026 ~10:35 PM HKT",
+    "asOf": "2026-11-05",
+    "asOfLabel": "5 Nov 2026 ~6:35 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE: Giratina (Altered) 5★ → Sun 8 Nov 10:00 PM + Shadow Tornadus (Incarnate) 5★ weekends (first window → Sun 8 Nov 10:00 PM; longer package Mon 16 Nov → Tue 1 Dec). Shadow 1★ (Gastly / Totodile / Shieldon / Gible) + Shadow 3★ (Primeape / Kirlia / Drapion) still listed on Leek Duck / ScrapedDuck + Halloween Part II guides (GO Hub shows a conflicting alternate Shadow 1★/3★ pool — not swapping while Part II is live). Still LIVE: Halloween 2026 Part II costume 1★ Pikachu (hat+capelet) + Sinistea (bow) → Thu 5 Nov 8:00 PM; Mega Sableye → Sun 8 Nov 10:00 PM. ENDED Wed 4 Nov 7:00 PM: Giratina (Altered) Raid Hour. Still no verified post-Origin standard 3★ replacement (Nintendo Wire tied Cofagrigus / Trevenant / Dhelmise to → Tue 3 Nov 10:00 PM; Leek Duck raid-bosses page still stale on Origin) — omitted, not invented. Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive for new radars) unchanged.",
-      "endsAtLabel": "Giratina (Altered) + Shadow Tornadus first window → Sun 8 Nov 10:00 PM · Raid Hour ENDED Wed 4 Nov 7:00 PM · Halloween Part II / costume 1★ → Thu 5 Nov 8:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Origin / ghosty 3★ / Shadow Landorus ENDED Tue 3 Nov 10:00 PM"
+      "text": "LAST DAY: Halloween 2026 Part II costume 1★ Pikachu (hat+capelet) + Sinistea (bow) + ghosty 3★ Cofagrigus / Trevenant / Dhelmise → Thu 5 Nov 8:00 PM. Tonight also: Teddiursa (witch hat) Spotlight Hour 6:00–7:00 PM (2× Evolution XP). Still LIVE past tonight: Altered Giratina 5★ + Mega Sableye → Sun 8 Nov 10:00 PM + Shadow Tornadus (Incarnate) 5★ weekends (first window → Sun 8 Nov 10:00 PM; longer package Mon 16 Nov → Tue 1 Dec). Shadow 1★ (Gastly / Totodile / Shieldon / Gible) + Shadow 3★ (Primeape / Kirlia / Drapion) per Nintendo Wire / Halloween Part II + Leek Duck/ScrapedDuck (GO Hub lists an alternate Shadow 1★/3★ pool — not swapping while Part II is live). Restored ghosty 3★ after GO Hub current + Snack Nap (updated 4 Nov) still list them; Nintendo Wire → Tue 3 Nov 10:00 PM end date looks incorrect. Raid Hour Wed 4 Nov ENDED. Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive for new radars) unchanged. No global post–8 PM 1★/3★ rotation posted yet (Festival of Lights is India-only).",
+      "endsAtLabel": "Halloween Part II / costume 1★ + ghosty 3★ → Thu 5 Nov 8:00 PM (ENDS TONIGHT) · Teddiursa Spotlight tonight 6–7 PM · Giratina (Altered) + Mega Sableye + Shadow Tornadus first window → Sun 8 Nov 10:00 PM · Raid Hour ENDED Wed 4 Nov 7:00 PM"
     },
     "legend": {
       "standard": {
@@ -184,6 +184,18 @@
       {
         "name": "GO Hub — Shadow Tornadus (Incarnate) counters",
         "url": "https://pokemongohub.net/post/guide/shadow-tornadus-incarnate-raid-counters-guide/"
+      },
+      {
+        "name": "Snack Nap — Current Raids",
+        "url": "https://www.snacknap.com/raids"
+      },
+      {
+        "name": "Leek Duck — Teddiursa witch hat Spotlight 5 Nov",
+        "url": "https://leekduck.com/events/"
+      },
+      {
+        "name": "GO Hub — Festival of Lights 2026 (India)",
+        "url": "https://pokemongohub.net/post/event/pokemon-go-festival-of-lights-2026-india-exclusive-event/"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
@@ -200,7 +212,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Halloween 2026 Part I + Part II · Tue 27 Oct 10:00 AM – Thu 5 Nov 8:00 PM local",
+      "window": "Halloween 2026 Part I + Part II · Tue 27 Oct 10:00 AM – Thu 5 Nov 8:00 PM local (ENDS TONIGHT)",
       "windowStart": "2026-10-27T10:00:00",
       "windowEnd": "2026-11-05T20:00:00",
       "shiny": true,
@@ -218,7 +230,7 @@
         "form": "halloween-2026"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
-      "notes": "Halloween costume 1★ — LIVE through Part II (official + Leek Duck / GO Hub). Part II window Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM local. Altered Giratina 5★ + Mega Sableye also live alongside. Shiny-eligible.",
+      "notes": "Halloween costume 1★ — LIVE LAST DAY through Part II end Thu 5 Nov 8:00 PM local (official + Leek Duck / GO Hub). Grab shinies today. After 8 PM: no global replacement posted yet (Festival of Lights 1★ saree/kurta is India-only Fri 6–Sun 8 Nov). Altered Giratina 5★ + Mega Sableye continue past tonight.",
       "types": [
         "Electric"
       ],
@@ -260,7 +272,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Halloween 2026 Part I + Part II · Tue 27 Oct 10:00 AM – Thu 5 Nov 8:00 PM local",
+      "window": "Halloween 2026 Part I + Part II · Tue 27 Oct 10:00 AM – Thu 5 Nov 8:00 PM local (ENDS TONIGHT)",
       "windowStart": "2026-10-27T10:00:00",
       "windowEnd": "2026-11-05T20:00:00",
       "shiny": true,
@@ -278,7 +290,7 @@
         "form": "halloween-2026"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
-      "notes": "Halloween costume 1★ — LIVE through Part II (official + Leek Duck / GO Hub). Part II window Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM local. Altered Giratina 5★ + Mega Sableye also live alongside. Shiny-eligible.",
+      "notes": "Halloween costume 1★ — LIVE LAST DAY through Part II end Thu 5 Nov 8:00 PM local (official + Leek Duck / GO Hub). Grab shinies today. After 8 PM: no global replacement posted yet (Festival of Lights 1★ saree/kurta is India-only Fri 6–Sun 8 Nov). Altered Giratina 5★ + Mega Sableye continue past tonight.",
       "types": [
         "Ghost"
       ],
@@ -337,7 +349,7 @@
         "pokeapiId": 302,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png"
       },
-      "notes": "LIVE through Sun 8 Nov 10:00 PM (Leek Duck + GO Hub). Catch form: Sableye (not Mega). Dark/Ghost — Fairy is its only weakness. Now running alongside Altered Giratina 5★ (Origin window ENDED Tue 3 Nov 10:00 PM). Shiny-eligible.",
+      "notes": "LIVE through Sun 8 Nov 10:00 PM (Leek Duck + GO Hub). Catch form: Sableye (not Mega). Dark/Ghost — Fairy is its only weakness. Running alongside Altered Giratina 5★. Halloween Part II ends tonight but Mega continues. Shiny-eligible.",
       "types": [
         "Dark",
         "Ghost"
@@ -374,6 +386,205 @@
       "countersSource": "type + GO Hub typing"
     },
     {
+      "id": "cofagrigus-oct28",
+      "name": "Cofagrigus",
+      "form": null,
+      "species": "Cofagrigus",
+      "catchForm": null,
+      "tier": "3",
+      "tierLabel": "3★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Wed 28 Oct 6:00 AM – Thu 5 Nov 8:00 PM local (Halloween Part II / GO Hub + Snack Nap Nov 4)",
+      "windowStart": "2026-10-28T06:00:00",
+      "windowEnd": "2026-11-05T20:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1299,
+      "cpL25": 1624,
+      "weather": [
+        "Fog"
+      ],
+      "sprite": {
+        "pokeapiId": 563,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
+      },
+      "notes": "LIVE through Halloween Part II end Thu 5 Nov 8:00 PM (GO Hub current list + Snack Nap updated 4 Nov; ConsolePCGaming Nov 4–5 window). Nintendo Wire had tied them to → Tue 3 Nov 10:00 PM with Origin — that end date looks wrong; restored after Nov 4 live scrapes still show them. Ghost. Catch CP 1231–1299 (1539–1624 Fog). Soloable with strong Dark/Ghost.",
+      "types": [
+        "Ghost"
+      ],
+      "weakTo": [
+        "Dark",
+        "Ghost"
+      ],
+      "counters": [
+        {
+          "name": "Dawn Wings Necrozma",
+          "moves": "Psycho Cut / Moongeist Beam"
+        },
+        {
+          "name": "Shadow Darkrai",
+          "moves": "Snarl / Foul Play"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Mega Mewtwo Y",
+          "moves": "Psycho Cut / Shadow Ball"
+        },
+        {
+          "name": "Mega Absol",
+          "moves": "Snarl / Brutal Swing"
+        },
+        {
+          "name": "Mega Houndoom",
+          "moves": "Snarl / Dark Pulse"
+        }
+      ],
+      "countersSource": "GO Hub"
+    },
+    {
+      "id": "trevenant-oct28",
+      "name": "Trevenant",
+      "form": null,
+      "species": "Trevenant",
+      "catchForm": null,
+      "tier": "3",
+      "tierLabel": "3★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Wed 28 Oct 6:00 AM – Thu 5 Nov 8:00 PM local (Halloween Part II / GO Hub + Snack Nap Nov 4)",
+      "windowStart": "2026-10-28T06:00:00",
+      "windowEnd": "2026-11-05T20:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1462,
+      "cpL25": 1828,
+      "weather": [
+        "Fog",
+        "Sunny"
+      ],
+      "sprite": {
+        "pokeapiId": 709,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png"
+      },
+      "notes": "LIVE through Halloween Part II end Thu 5 Nov 8:00 PM (GO Hub + Snack Nap Nov 4). Ghost/Grass. Catch CP 1390–1462 (1738–1828 Fog/Sunny). Weak to Dark, Fire, Flying, Ghost, Ice.",
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "weakTo": [
+        "Dark",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ice"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Mega Delphox",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Shadow Reshiram",
+          "moves": "Fire Fang / Fusion Flare"
+        },
+        {
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Shadow Darkrai",
+          "moves": "Snarl / Foul Play"
+        }
+      ],
+      "countersSource": "GO Hub"
+    },
+    {
+      "id": "dhelmise-oct28",
+      "name": "Dhelmise",
+      "form": null,
+      "species": "Dhelmise",
+      "catchForm": null,
+      "tier": "3",
+      "tierLabel": "3★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Wed 28 Oct 6:00 AM – Thu 5 Nov 8:00 PM local (Halloween Part II / GO Hub + Snack Nap Nov 4)",
+      "windowStart": "2026-10-28T06:00:00",
+      "windowEnd": "2026-11-05T20:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1685,
+      "cpL25": 2107,
+      "weather": [
+        "Fog",
+        "Sunny"
+      ],
+      "sprite": {
+        "pokeapiId": 781,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png"
+      },
+      "notes": "LIVE through Halloween Part II end Thu 5 Nov 8:00 PM (GO Hub + Snack Nap Nov 4). Ghost/Grass. Catch CP 1608–1685 (2010–2107 Fog/Sunny). Same weaknesses as Trevenant (Dark / Fire / Flying / Ghost / Ice).",
+      "types": [
+        "Ghost",
+        "Grass"
+      ],
+      "weakTo": [
+        "Dark",
+        "Fire",
+        "Flying",
+        "Ghost",
+        "Ice"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Mega Delphox",
+          "moves": "Fire Spin / Mystical Fire"
+        },
+        {
+          "name": "Mega Houndoom",
+          "moves": "Snarl / Dark Pulse"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Shadow Reshiram",
+          "moves": "Fire Fang / Fusion Flare"
+        },
+        {
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
+        }
+      ],
+      "countersSource": "GO Hub"
+    },
+    {
       "id": "giratina-altered-nov4",
       "name": "Giratina",
       "form": "Altered Forme",
@@ -401,7 +612,7 @@
         "pokeapiId": 487,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
       },
-      "notes": "LIVE since Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck event + GO Hub schedule). Replaced Origin Forme after overnight gap. Shiny-eligible. Hundo CP 1931 (2414 Fog/Windy). Raid Hour Wed 4 Nov 6–7 PM ENDED. Same Ghost/Dragon typing as Origin (bulkier DEF/HP). Mega Sableye still runs alongside through Sun 8 Nov. Standard 3★ for this window not yet confirmed — omitted.",
+      "notes": "LIVE since Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck event + GO Hub schedule). Replaced Origin Forme after overnight gap. Shiny-eligible. Hundo CP 1931 (2414 Fog/Windy). Raid Hour Wed 4 Nov 6–7 PM ENDED. Same Ghost/Dragon typing as Origin (bulkier DEF/HP). Ghosty 3★ Cofagrigus / Trevenant / Dhelmise restored as still LIVE through Halloween Part II (GO Hub + Snack Nap Nov 4). Mega Sableye runs alongside through Sun 8 Nov.",
       "types": [
         "Ghost",
         "Dragon"
@@ -1211,16 +1422,16 @@
     },
     {
       "id": "halloween-2026-part-2",
-      "when": "Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM local (LIVE)",
-      "title": "Halloween 2026 Part II (LIVE)",
-      "impact": "LIVE through Thu 5 Nov 8:00 PM. Costume 1★ continue; Shiny Greavard debut; Mega Sableye Super Max Level + Night Shade+; GO Pass Halloween continues. Origin-window 3★ ended Tue 3 Nov 10:00 PM; Altered Giratina 5★ now live.",
+      "when": "Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM local (LIVE — ENDS TONIGHT)",
+      "title": "Halloween 2026 Part II (LIVE — ENDS TONIGHT)",
+      "impact": "LAST DAY through Thu 5 Nov 8:00 PM. Costume 1★ + ghosty 3★ Cofagrigus/Trevenant/Dhelmise still listed live (GO Hub + Snack Nap). Shiny Greavard debut; Mega Sableye Super Max + Night Shade+; GO Pass Halloween ends with the event (claim unlocked rewards by Sat 7 Nov 8:00 PM). Altered Giratina 5★ + Mega continue after.",
       "urgent": true
     },
     {
       "id": "festival-of-lights-2026",
-      "when": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM local (upcoming)",
-      "title": "Festival of Lights 2026 (upcoming)",
-      "impact": "Official news: Pikachu wearing a saree and Pikachu wearing a kurta return in raids (shiny / Special Background possible); raid tier not stated yet.",
+      "when": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM local (upcoming · India only)",
+      "title": "Festival of Lights 2026 (upcoming · India only)",
+      "impact": "India-exclusive. Confirmed 1★: Pikachu wearing a saree + Pikachu wearing a kurta (shiny / Special Background possible). Not a global raid rotation replacement after Halloween Part II.",
       "urgent": false
     },
     {
@@ -1257,6 +1468,13 @@
       "title": "Raid Hour: Giratina (Altered) (ENDED)",
       "impact": "Raid Hour ended after 7:00 PM local on Wed 4 Nov. Giratina (Altered) 5★ remains in the normal rotation through Sun 8 Nov 10:00 PM.",
       "urgent": false
+    },
+    {
+      "id": "spotlight-teddiursa-witch-nov5",
+      "when": "Thu 5 Nov 6:00–7:00 PM local (tonight)",
+      "title": "Spotlight: Teddiursa wearing a witch hat (tonight)",
+      "impact": "Wild spotlight only (2× Evolution XP) — not a raid list change (Leek Duck events).",
+      "urgent": true
     }
   ]
 }
