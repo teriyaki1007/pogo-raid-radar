@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-11-04",
-    "asOfLabel": "4 Nov 2026 ~6:35 AM HKT",
+    "asOfLabel": "4 Nov 2026 ~10:35 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LIVE since Wed 4 Nov 6:00 AM local: Giratina (Altered) 5★ → Sun 8 Nov 10:00 PM (Raid Hour tonight Wed 4 Nov 6–7 PM) + Shadow Tornadus (Incarnate) 5★ weekends (first window → Sun 8 Nov 10:00 PM; longer package Mon 16 Nov → Tue 1 Dec). Shadow 1★ (Gastly / Totodile / Shieldon / Gible) + Shadow 3★ (Primeape / Kirlia / Drapion) still listed on GO Hub / Halloween Part II guides with the Tornadus rotation. Still LIVE: Halloween 2026 Part II costume 1★ Pikachu (hat+capelet) + Sinistea (bow) → Thu 5 Nov 8:00 PM; Mega Sableye → Sun 8 Nov 10:00 PM. ENDED Tue 3 Nov 10:00 PM: Origin Giratina 5★ + Origin-window 3★ (Cofagrigus / Trevenant / Dhelmise) + Shadow Landorus package. No new standard 3★ posted yet (Leek Duck raid-bosses page still stale on Origin) — omitted, not invented. Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive for new radars) unchanged.",
-      "endsAtLabel": "Giratina (Altered) + Shadow Tornadus first window → Sun 8 Nov 10:00 PM · Raid Hour Wed 4 Nov 6–7 PM · Halloween Part II / costume 1★ → Thu 5 Nov 8:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Origin / ghosty 3★ / Shadow Landorus ENDED Tue 3 Nov 10:00 PM"
+      "text": "LIVE: Giratina (Altered) 5★ → Sun 8 Nov 10:00 PM + Shadow Tornadus (Incarnate) 5★ weekends (first window → Sun 8 Nov 10:00 PM; longer package Mon 16 Nov → Tue 1 Dec). Shadow 1★ (Gastly / Totodile / Shieldon / Gible) + Shadow 3★ (Primeape / Kirlia / Drapion) still listed on Leek Duck / ScrapedDuck + Halloween Part II guides (GO Hub shows a conflicting alternate Shadow 1★/3★ pool — not swapping while Part II is live). Still LIVE: Halloween 2026 Part II costume 1★ Pikachu (hat+capelet) + Sinistea (bow) → Thu 5 Nov 8:00 PM; Mega Sableye → Sun 8 Nov 10:00 PM. ENDED Wed 4 Nov 7:00 PM: Giratina (Altered) Raid Hour. Still no verified post-Origin standard 3★ replacement (Nintendo Wire tied Cofagrigus / Trevenant / Dhelmise to → Tue 3 Nov 10:00 PM; Leek Duck raid-bosses page still stale on Origin) — omitted, not invented. Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive for new radars) unchanged.",
+      "endsAtLabel": "Giratina (Altered) + Shadow Tornadus first window → Sun 8 Nov 10:00 PM · Raid Hour ENDED Wed 4 Nov 7:00 PM · Halloween Part II / costume 1★ → Thu 5 Nov 8:00 PM · Mega Sableye → Sun 8 Nov 10:00 PM · Origin / ghosty 3★ / Shadow Landorus ENDED Tue 3 Nov 10:00 PM"
     },
     "legend": {
       "standard": {
@@ -401,7 +401,7 @@
         "pokeapiId": 487,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
       },
-      "notes": "LIVE since Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck event + GO Hub schedule). Replaced Origin Forme after overnight gap. Shiny-eligible. Hundo CP 1931 (2414 Fog/Windy). Raid Hour tonight Wed 4 Nov 6–7 PM. Same Ghost/Dragon typing as Origin (bulkier DEF/HP). Mega Sableye still runs alongside through Sun 8 Nov. Standard 3★ for this window not yet confirmed — omitted.",
+      "notes": "LIVE since Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck event + GO Hub schedule). Replaced Origin Forme after overnight gap. Shiny-eligible. Hundo CP 1931 (2414 Fog/Windy). Raid Hour Wed 4 Nov 6–7 PM ENDED. Same Ghost/Dragon typing as Origin (bulkier DEF/HP). Mega Sableye still runs alongside through Sun 8 Nov. Standard 3★ for this window not yet confirmed — omitted.",
       "types": [
         "Ghost",
         "Dragon"
@@ -1241,7 +1241,7 @@
       "id": "giratina-altered-nov4",
       "when": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local (LIVE)",
       "title": "Giratina (Altered) 5★ (LIVE)",
-      "impact": "LIVE since Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck). Shiny-eligible. Hundo CP 1931 / 2414 Fog or Windy. Raid Hour tonight Wed 4 Nov 6–7 PM local.",
+      "impact": "LIVE since Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck). Shiny-eligible. Hundo CP 1931 / 2414 Fog or Windy. Raid Hour Wed 4 Nov 6–7 PM ENDED.",
       "urgent": true
     },
     {
@@ -1253,10 +1253,10 @@
     },
     {
       "id": "raid-hour-giratina-altered",
-      "when": "Wed 4 Nov 6:00–7:00 PM local (tonight)",
-      "title": "Raid Hour: Giratina (Altered) (tonight)",
-      "impact": "Increased five-star raids featuring Giratina (Altered) Wed 4 Nov 6–7 PM local (Leek Duck).",
-      "urgent": true
+      "when": "Wed 4 Nov 6:00–7:00 PM local (ENDED)",
+      "title": "Raid Hour: Giratina (Altered) (ENDED)",
+      "impact": "Raid Hour ended after 7:00 PM local on Wed 4 Nov. Giratina (Altered) 5★ remains in the normal rotation through Sun 8 Nov 10:00 PM.",
+      "urgent": false
     }
   ]
 }
