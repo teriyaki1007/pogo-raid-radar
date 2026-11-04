@@ -1,7 +1,7 @@
 {
   "iso2": "IM",
   "name": "Isle of Man",
-  "updatedAt": "2026-11-04T11:06:54+08:00",
+  "updatedAt": "2026-11-04T17:08:58+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,28 @@
   ],
   "headlines": [
     {
-      "title": "Police make enquiries after post alleges woman was followed into Douglas pub toilet",
+      "title": "Douglas law firm ranked top in Chambers UK Guide",
       "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdXVjMjB1ZXlFRDRIYmhZdGtwTmtCZUN5V1BYN244LXdKUGRmNFp3Zll6OEJILXp4aEZvc1ZKcm14V2hXb0JwelpkNUhJN1BWbERVcmJBTWt3Z3lfaVV6c2hVNlp1VFVGNlkyTmxURC1LcFA4XzMzTDdpemdIdHhtMEpBdWw2VHdKeXJpT1BpNDRXWlJReDRCYVZnQXdJbVB4ckFFWjREanZOUTJwM1NiYXVjODc2cGVTOVdJbTNaTXVFZzFHT0hGUGFwc3owa05l?oc=5",
-      "publishedAt": "2026-11-04T01:35:04+08:00"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUJmVWMzVGpHOFpfNDA0UWRnMktVUkVxWHhmRzlxLU5OaTVkcHEwcFNBcnNURzRjblJHNFZXU1FqTHZQY0Z6TlFaYUZOdWVHZWEzck90YmhGRzh2QWJuclBXZVhZaGVmMThqUEcxd0Y1ZUZybHVHWFBlNWM5YXFRTjJRQ2szWE13SkdBY1ptMjRVNGFYUE5SZmdvVmY?oc=5",
+      "publishedAt": "2026-11-04T17:05:28+08:00"
     },
     {
-      "title": "Patients waiting 56 weeks for appointments as Manx Care records £14.9m deficit",
+      "title": "Annual survey shows improved ratings for Manx Care",
+      "source": "3FM Isle of Man",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVHA2QW80Tnk3MFhqVW02eXhheUZ5Z282aVpkck5lYV8zSXVaVUlscS1wRDE0Yk1zd01rSDVWbHdWbFNfSnYxbDRZSDVRT0dkbDVDR0hCeXA5bnh5U01QQXNXQlhLb2E4RTZCbzBmNVNqV1VVRXBpSVFoeDZmaVVDb0cwM1JQMFpDLUpadVdQaEh0THUzelNDaV9R?oc=5",
+      "publishedAt": "2026-11-04T14:51:00+08:00"
+    },
+    {
+      "title": "Scepticism over UK-EU deal to ease Manx fishing pressures",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoVjFOSUx1ZXBKcTFud3I5UjRoQ0ZtaGs5V0JVZ1JQdEFKZGxZNEFGOHpuTDBtVWRBV1BxeEh0czFDc2JhbjVGSDJPUExVcjRiZGMyZC00WFRidlk?oc=5",
+      "publishedAt": "2026-11-04T14:38:28+08:00"
+    },
+    {
+      "title": "Is El Niño making the Isle of Man's weather worse? What Met Office says",
       "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZjY2eFJHMmY3Q0xab1VaRGJXeU5DX2YwVVRhRWNsVXlZX2t3TllINVM2THNwZ2R4THVXRjl1dTJTSzRXUkM2UjM1S3BTaHM5SnZ4RjFIN1pUNE5BYWFZa21Ld05ESXV6aHRRcndvTFZ1VnhrWkdVMF9WcXNwRUs3a2VtRHlNNWVUeFI5SEVIc1cxUk43czloczJ2bGE4YmZRS2FXU2tiVUYyR1FEV3dTbnJKb3ljN21n?oc=5",
-      "publishedAt": "2026-11-04T01:05:03+08:00"
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2V4VVBfT0lySThpVjlVTUJJOVBUN2lhV1d4TTA4dTJ2MXRVMUZfbjRRNjRQNHlZSWx1VXgxTUgtMlhhT0lJcko1MHNUTHJwODBTUHdUNWF5bjJadG9iLTU3WFlkUlVIeTlDamxoQkU5a2s3eGs4SWFYbkJkcnRxaTRBZHp5T2RQV01WckNJdWFIbnlkM1pfOGNKTHA3bjZEbXBEZU55VWp4NjV6?oc=5",
+      "publishedAt": "2026-11-04T13:05:28+08:00"
     },
     {
       "title": "Manx Padel courts offer 'something completely new'",
@@ -48,34 +60,22 @@
       "publishedAt": "2026-11-04T01:01:54+08:00"
     },
     {
+      "title": "'Progress was not consistent across all services': Manx Care publishes annual report",
+      "source": "Manx Radio",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLTVZWDNXWXA2OXYzdzRZN1FmTG0tS3ZRcU03ZFZmM0hWQVZyZ0RtVHp4dlBBaTdFdlBTdWc5Y1lwQUJzcFY5QnNoZGhzdjZLUGhnRGxsTmlfeGZEdFJONkx1eVNFbjRpY2cwdzYyVFJxV2pYYzRYaG81T0JkUTc4MHgxSDZNM3hBN3puUnRjeDI5Z1k4eUYtZGsyMU1sN1h1TFFaa3FpaFJpcEhjSjA5OVAwWHVtRjNVNmZaRmZ1ZE1JSWNfWnpKekZ3?oc=5",
+      "publishedAt": "2026-11-04T00:20:00+08:00"
+    },
+    {
+      "title": "Questions raised of government's use of Manx food",
+      "source": "3FM Isle of Man",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjZLdXEtdFo4cko3NDFNNEU0M3pHVklla2g0TGJ2MDQzZ0xtdjFnbUFPUlZDY2pkdjR6eGRmQ29qYnZwcWhJZzI0ZTVsNjYwc2xIbUhvdXF5alA4MnoxRktkejE1RUt4Z3FvS2F2amY4NEJOMHBWaDJndkFwZGRiZVJyWG9WSkRrVWxrSEpEY2l1YTFBNXJr?oc=5",
+      "publishedAt": "2026-11-03T23:05:00+08:00"
+    },
+    {
       "title": "HONDA RACING UK CONFIRM LINEUP FOR 2027 ISLE OF MAN TT CAMPAIGN",
       "source": "TT Races",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdEpPYTZPMHluQ0hrNDlUVFFoeWJCMW5ZaXdfMEdhRmNZTWZJSXJNX2ExTWx5bTRlQ05lV2NmTmtPMmtIanIxUHJXQWNfdldIVXJxTVVQTGRScVU5VmRjeXNJdnFqU0g2ZUxzaVJDb2dvbHBVcjB2VFJJWTJYYVFmd1NUTjF5UWdBVTNleUllcmpVclA5X0JaVWtVd3BoeVRzMkRmeEJZTlVxc1IwcXEwdU8zd1MxcHJ4NEoyYnFiY1RJZ1lWUzRnNV8tOEVoQ2tPNlE?oc=5",
       "publishedAt": "2026-11-03T23:03:17+08:00"
-    },
-    {
-      "title": "Countdown record-breaker from Isle of Man reflects on dyslexia",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YRTFFS2tsVU1IMnV4OWJUemE2eEhpa3pWS3pfRDItS2Q2TW1QQ0xwYnpldTdNbzNkdFpJdzhnS2xZOWZKa3FFV3J0UzhnTXl6WGNtcFJiY29ZWlo4WFE?oc=5",
-      "publishedAt": "2026-11-03T20:20:51+08:00"
-    },
-    {
-      "title": "John McGuinness commits to 2027 Isle of Man TT as another road racing milestone awaits",
-      "source": "Crash.net",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX1hUcG5yMlo1MGVyTHpObzdUWFVWMW1nMm82ck5vQ3VPRnFzaVdMS1Yxa0R4U3luMTdzdXpianBTSUE1YmhkNzJGWDdLbWZSVkxZQ0J2d2ZrZjk2M3Rna2t4WmJoUW5wdWNuX1dSZHByWDZvZDJ0bW9ObE00dzVuUEZ6X1BucVNqUlZiNl9qeFZpS1RkcEZmeFFIV1FXMFRkSWFoUkozcUJjYm1PRi11ZXRkWHQtUUJz?oc=5",
-      "publishedAt": "2026-11-03T17:35:41+08:00"
-    },
-    {
-      "title": "Debt advice service named as finalists in Isle of Man awards",
-      "source": "The Salvation Army",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOFU5T1pVT1lTVWk1SjgzekNRX2VzcVcwSFFoX3RGcHhWUnJNWk1JZEhwaVRCbTNTWEtEQjg2cjFBUGtaall4RnJ2UnBpZWQ5TERZdzFhbU1XRlowdkh0OUR5TE5VblVpazdKdjJmS2pZVGtYSFN6bEd1blJTRGdMeXRyS09PVmFnNFBNYjVnTkRtOE0?oc=5",
-      "publishedAt": "2026-11-02T22:43:10+08:00"
-    },
-    {
-      "title": "Isle of Man 'must have enough hotel rooms' says MHK",
-      "source": "Manx Radio",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM3ROV0hubDRydVlLVHRjbTFUOGtvZUxfV3RleTZWdkFYaTNhVkVtYk9KbzcxcnFCOVd3VVRhdlNpRExxcjFQQnlDelRhajVIVWdxWTdEeWQ2YnJzSy1CY1ZjODZXa0tfWXNLS1ZGSVRsUVFYckpfaU16aGUwS3JWUmhGU0dLb3lVQk1sYklRY3h3NzdINk5oc0V5OUc3QUU?oc=5",
-      "publishedAt": "2026-11-02T14:30:00+08:00"
     }
   ]
 }

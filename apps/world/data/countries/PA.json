@@ -1,7 +1,7 @@
 {
   "iso2": "PA",
   "name": "Panama",
-  "updatedAt": "2026-11-04T11:06:54+08:00",
+  "updatedAt": "2026-11-04T17:08:58+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Panama Canal records growth in vessel transits and tonnage in 2026",
+      "source": "UkrAgroConsult",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUzhXck4yOXMxdENvNFV2MjNZc1dBTVNHeHFtcVNBZFNPLVhMOUtlSUhvV3NVRWVhRjFlcmVWa0hsSFV0TU9vemswVWYyM25mS1U0dXo0V1k2NEhmRkhmQ2s2NmFJQnZZemF0MkdkdktTV214Vmh5aWFKN3hGNFVvd1pEdmp2SDFhU29kVUVpOTJlNVlXUzBwTWJfTDUwVHp6dUE1LQ?oc=5",
+      "publishedAt": "2026-11-04T15:45:27+08:00"
+    },
+    {
+      "title": "Panama’s Contemporary Art Scene Steps Out of the Canal’s Shadow",
+      "source": "FAD Magazine",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPem1KLVZESWVlcldSbm8zYXlSSjJIeTlULTR1enpfZ19HeU9ha1d1R2pUblJ5cndKSmVfSEZTYjhKUUh2c0pNbjdLSkF1VHFFcEt5RjVQSmFKcG1Gb01OTE5ybWRGY1NoZUI2aWJkZEEtYXZIOG5ybW9TUlpKcmJteHJFMUtocF9tUVFxY1RKYWhMalJWV2JyUzlnSEpBdw?oc=5",
+      "publishedAt": "2026-11-04T13:19:03+08:00"
+    },
+    {
       "title": "Carlos Sanchez elected as Panama City Beach Council Ward 1",
       "source": "WJHG",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUV8xYXZ3QUliRmF6OC0tUmN0dGJKcERCYmthcW5hSkhnNnJjYWVhVnpTcGdQOWhjUTh5WjdNdTVnZkNfZ0lFM2NtTFBNQnl2ZC05RHdFTkR3ZHZBYjdGLWZYam1CSWUyV2pnVjlRM2hSb0VmSVlrR0hkMi1raFp6dGFLc2dIVVNEdzhjNkpoWU9RQQ?oc=5",
-      "publishedAt": "2026-11-04T10:33:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbHdILUdYcDZuVmdqV0QyQ3ZhUXB5UVNuWjE3RlNTNHZYcnJzY2NySG1OM0JtRXVPZnZxOXBzMG9UbEFVNy1vZzdIMlNPTnFvcFpaX1RtX2tSOWM1SUpfcl9xQnhwUVBIUjhBN0d0X1paSlVUaFgxQUxsTGJkc1cxaFpON00yQ2VMSk1rQnNCM25ZMi13dmZlVDhoZmo?oc=5",
+      "publishedAt": "2026-11-04T12:31:00+08:00"
+    },
+    {
+      "title": "Sanchez and Coburn win seats on Panama City Beach Council",
+      "source": "mypanhandle.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUUhvMTRDNjJJTm95NEsyeUpPdXBzUjhUY2ExV2hOOEdkTjFXZER4MEczaERZaFR3UkNmaVYwWGxKblNUR1BOSzh0M3g3b2F6dm1vZWp0bG55MEpyNVMtMlVvUnJNTDAtakxDcVZUSkFDU1JkYm9mQ1NlWDhaSjFHdFJZY1ZjSHBhX0p3VkhhdzBwQzRubGfSAZsBQVVfeXFMTk42RE4zSHJfYzljY3l2elJtY0psTjBFOHhQUUNWZFRyck1rX0Y4TGNJeFlJSzVfeUJoZkxXck5KRnB6SXBCenNYY2pWb3QxenJ6NllYeFc0SzBmX1JBWHdNNF9oMHZmX2lOdTl4YmVpejNQWXc1QUFZSXRxYTZKb1cwV0ZzdnI4VzhLYWVXZTc3NW1VcjY4aEF1ZkE?oc=5",
+      "publishedAt": "2026-11-04T11:55:45+08:00"
     },
     {
       "title": "Mary Coburn re-elected as Panama City Beach Council Ward 3",
@@ -42,40 +60,22 @@
       "publishedAt": "2026-11-04T10:24:00+08:00"
     },
     {
-      "title": "Belize represented at German Unity Day celebration in Panama",
-      "source": "The San Pedro Sun",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVG9ueXRLZmtfamF2b19lTG5BYUsyRDdtYUw0M29MRHNHZ3FLaWREcGctTFd3SEtOeTkxMm8wbmJLTWVlUnpGS1ZDWjlaWUxSUXpTQTZRQTFmUHh3RWthdXhIWTBDNDFHYzJib3VfM2o3QkFkc3ZSQ0plX1RDRFBiM3N2S3o1ZU5JTHFhUThrektlaFM4Y3pJdU96aVNZY0JLcV9sRnJYeWNIY2VNbkFYRFpaZjgwVWhLdUw1Vjd3?oc=5",
-      "publishedAt": "2026-11-04T07:00:00+08:00"
+      "title": "Maersk wants to keep managing former Hutchison port in Panama",
+      "source": "Seatrade Maritime News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON0VkSlhhWUVMRkgyYUI1eVY4YzBaWjhVN3NhOEpXNGRVUmQtVXBFaVRRZ2ljRGgyclRTQWtDRHhsU0pjVl83bkMwVUhzZWZ5TzF4MDBJTERWdWJzZ0hoQnMzYUt5X0JMRDIwYXRkNWM5MkhhRGpfYXVPckJ5OS1wajBHTGlQYzRkaFFab0F3MGo4bjBHRFkta2Ffa3N6T0VsM0htNDVqSy1ocGpUZmlWRQ?oc=5",
+      "publishedAt": "2026-11-04T09:59:14+08:00"
+    },
+    {
+      "title": "Panama Canal to cap ship transits due to El Nino drought",
+      "source": "DW.com",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85WjRqRFlVblNta0YzX1VBNU9zTmpud2tHSjZnZnR4VnpFM3VZUWYxTThKR0c0aGtZN01QemI2eTVKSFpoSXEyYWlpZVI2amNuaWxaX2NXNGwyM2VDbUk2Mi13MNIBY0FVX3lxTFBxWHoySjFLVTBEMzFYWTRsaF9xVlhQMG1Mc3VqTE9HX05WTTNzZWg3WU4zLXA1THB1YVk1R2F2LURnWXEzYWdubVRtM1pBOEdIN3ZqM0ItelJqZFQ1cXltRlNxMA?oc=5",
+      "publishedAt": "2026-11-04T06:52:30+08:00"
     },
     {
       "title": "Mariano Rivera talks Panama earthquake relief efforts",
       "source": "MLB.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWXR4MTN1Tnp2ZmFpaEJUZERjajJHZThiRjUzTVllNVBtTk1ZU3NrQ0hwOVVPVk9TaFVDWS1Jb2c2Sy1LalBJdFh0MjY2TjVYTnh0dUpFcXRGcUNxVW9BXzZ4S2NNVGFwS2w5ODA2cEc1LVdNSVhEcHBjLXFBLWxjU0JfOEROQQ?oc=5",
       "publishedAt": "2026-11-04T06:44:48+08:00"
-    },
-    {
-      "title": "Panama City relaunches Downtown Marina project with larger scope",
-      "source": "Panama City News Herald",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT08yOWlRVkxTcmx2SkMwS3N2SS1VXzVSME11VGpIUWpuSmM4RXdmbG5iRFJPRTRsTDlPemU0TUMxVU50M3BJVEFkS0VmNDRMTnV0MFgtQjJpWFVFNm1NelBKVHNEMkpoTkJDdzZMdThRM3NBdHozSHhrU3VIVTA5aFR3ZGxmSi12azI1ZFBtb25GdFNpSTJtZFh1azlha1RvY19haW9Sc3RjTVJvOXd4T0pGT0FObDhOajRBSGpITVowTUVQNkNmZEdVeENMUQ?oc=5",
-      "publishedAt": "2026-11-04T06:32:10+08:00"
-    },
-    {
-      "title": "Panamanian police seize drugs in containers at Atlantic and Pacific ports",
-      "source": "TradeWinds News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNazJTTEdscGxTR3ducFEzbTBXSERiMDRSbVBYc3F2T1ZWVVA1cEVadjF6QkNEeUtOa3E3SFVRYmRlbktUWFdfNXJIaTNBa3NjT25xckVxZXRFTUdWM3l4Zzl2SHBuSHRoWlBOcW9yTy1OaEt2YmJxT1BpSERhVUJqWElySUQ5Z0FNRS1mdW1IZGlGMURwZkVuUEpTSlo2NlJ5ZUtlZ2ZPOVdhaWY0SWh3UzIyTmpYRExPelJmU1FEdEwzbE9HcUE?oc=5",
-      "publishedAt": "2026-11-04T02:26:19+08:00"
-    },
-    {
-      "title": "Jamaican woman extradited from Panama to US to face charges linked to alleged lottery scam",
-      "source": "IRIE FM",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONzJzc0JPMmVfR1R6TG1DX3poem5JWUtJUGpfSDJEVWZrU042eTJQS0pZcGxKMmwyR2NtNVU1bGNJMXFucEhTUmNreGdyUERfNmZsQXVjdlNNeU5JRElzZkFiMmV1TzNjYTZZdmt3NzNpS3pSMl9KRkM3cmpSSThUSy1Jd0kyLU1VUlFNWHhURlFFWjd3TjhDUWFPRzVJaGdTRks0NVBZQ01xdkVSeFBB?oc=5",
-      "publishedAt": "2026-11-04T01:53:02+08:00"
-    },
-    {
-      "title": "Panama Maritime Authority improves sanctions compliance with Pole Star Global, removing over 100 vessels",
-      "source": "American Journal of Transportation",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUGJoc1dHR1R3ZENuSnhheHhvbTdvVHlFZ1RSUEdvR2FoOTN0S2YxMloyZ3FkX19aLU92RUNvN1lsRTdHeVFkLVBwWW9VbVIxbXhqb0hEUlpmVVotRVVFd3NfR0EzYmVwOTdvVXgwT2lhSWxFb2xIWGJXeThFTDA0bnFmZndveWVhSmE2NGg1WS1OVFIyU0doNW40cWtvTzNMMGZ2blB0R3pPbnhNdV9aR3RLa285ekpyNzJ1X3Y3bDVJaVJPSjFrQQ?oc=5",
-      "publishedAt": "2026-11-04T00:53:00+08:00"
     }
   ]
 }
