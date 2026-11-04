@@ -1,7 +1,7 @@
 {
   "iso2": "IM",
   "name": "Isle of Man",
-  "updatedAt": "2026-11-04T17:08:58+08:00",
+  "updatedAt": "2026-11-04T23:14:05+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,34 @@
   ],
   "headlines": [
     {
-      "title": "Douglas law firm ranked top in Chambers UK Guide",
+      "title": "Isle of Man cyclist honored with gold post box in home town",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5sMnJVNzVtU0phZ1RrV2RvLVVjX0hmTTI1c3g5azBZUEg1MVVzdFVMSFVBM2pfVXhXQmY0Z3ZtbUFuRjREQ1UxNkFPRWZSQ1g0c2Z3cWdzd2R4M3J5VUE?oc=5",
+      "publishedAt": "2026-11-04T23:11:25+08:00"
+    },
+    {
+      "title": "Isle of Man's Young Farmers Christmas Tractor Run dates announced",
       "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUJmVWMzVGpHOFpfNDA0UWRnMktVUkVxWHhmRzlxLU5OaTVkcHEwcFNBcnNURzRjblJHNFZXU1FqTHZQY0Z6TlFaYUZOdWVHZWEzck90YmhGRzh2QWJuclBXZVhZaGVmMThqUEcxd0Y1ZUZybHVHWFBlNWM5YXFRTjJRQ2szWE13SkdBY1ptMjRVNGFYUE5SZmdvVmY?oc=5",
-      "publishedAt": "2026-11-04T17:05:28+08:00"
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQanlZejZJTklydGpxanFsN3d2RU8zRHhBdmYxZzdYelZrR2xGZjdTVjhUMS1MNDdPN25ndFpEakVKUnZ6SG1mUW5YdERRcC1HaVRVMTVzQzVmQTZFeThZQlkwZThpNVRBTmZvdk1Vd0N3el9vOFZWU2lxZkk5dXRYSzNILVRVS24zaHhZNWZIcVpmTkF3MWRUM0F3b0NIMzMyYWl4VEJ3?oc=5",
+      "publishedAt": "2026-11-04T22:39:55+08:00"
+    },
+    {
+      "title": "Isle of Man rally co-driver Rob Fagg takes top-10 finish in Switzerland",
+      "source": "Isle of Man Today",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRHlFcGxJWjViX0QxV0R4c3hzVFlTYUFQRWlVV0Z3c2dJZ0NVcDN6cjQ0SlE0RVhtc2w2LXJrNkRhazVqX3ZNazhOUk9tazJERHVPbWNreHJfMGNVYlZQb2NMdzNQZmxZXzQ2SWlpeWZpMFlJNnVMa2wxeDBQUEVQTXdyMVN2cFJacEcxUEc2SlViamZBSVpxeTNDSmlwb1hXM2J3Q2pkbWVQaFZuWmhTcUxIa1BBbVNmMWoycVFqSXc?oc=5",
+      "publishedAt": "2026-11-04T21:21:46+08:00"
+    },
+    {
+      "title": "Isle of Man Fishing Industry Doubts UK-EU Deal Will Cut Costs",
+      "source": "JournalArta",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWnFOS0Y3ckxCQXdPS0c2azdTUzd4M09uVUtjeDFOTE9CbDFJMmVfMTlPT3dtTU9Kckp6eENVOERyNkZ5bVBVdndrbUpkV1RMNko3NkRtTG5EZHBETHNWSDU0RkM4eWwzV1ZqSGhQS2pHeHFBOXp5TDQ3Z3NOYTRXVjhKX2U?oc=5",
+      "publishedAt": "2026-11-04T19:07:42+08:00"
+    },
+    {
+      "title": "Some delays to West Baldwin work, says Manx Utilities",
+      "source": "3FM Isle of Man",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTXVEaGFSQmFmX1huT2duNmt1T2RkRDV6dkc1REJOQ1V4S2JrUzlLSWdySmRIcFpwQlNxXzNPVUtXbDg2c0ZoWFNtclpfMS1tUFdQdFJnVzJnM2Nqb1NKYWJhVE1iUFIxeFllRTZyYmFUbGZKYXI0R0k0c2hIRTBjazF2a0tSZ0pJSVFPeldzRENRdlQ5VW81MU14dEc?oc=5",
+      "publishedAt": "2026-11-04T18:15:00+08:00"
     },
     {
       "title": "Annual survey shows improved ratings for Manx Care",
@@ -48,34 +72,10 @@
       "publishedAt": "2026-11-04T14:38:28+08:00"
     },
     {
-      "title": "Is El Niño making the Isle of Man's weather worse? What Met Office says",
-      "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT2V4VVBfT0lySThpVjlVTUJJOVBUN2lhV1d4TTA4dTJ2MXRVMUZfbjRRNjRQNHlZSWx1VXgxTUgtMlhhT0lJcko1MHNUTHJwODBTUHdUNWF5bjJadG9iLTU3WFlkUlVIeTlDamxoQkU5a2s3eGs4SWFYbkJkcnRxaTRBZHp5T2RQV01WckNJdWFIbnlkM1pfOGNKTHA3bjZEbXBEZU55VWp4NjV6?oc=5",
-      "publishedAt": "2026-11-04T13:05:28+08:00"
-    },
-    {
-      "title": "Manx Padel courts offer 'something completely new'",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pNTl4T2d1cXl0bjA0d25mekhUMDZxMERkTTljd242THB0WlgyQ3ZnQ0RxcHlHbVdqdVNhczF4aUZDa3VlVXZHRDN4UU9lYXRrQnVqTlVkdVNwR0dnakE?oc=5",
-      "publishedAt": "2026-11-04T01:01:54+08:00"
-    },
-    {
       "title": "'Progress was not consistent across all services': Manx Care publishes annual report",
       "source": "Manx Radio",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLTVZWDNXWXA2OXYzdzRZN1FmTG0tS3ZRcU03ZFZmM0hWQVZyZ0RtVHp4dlBBaTdFdlBTdWc5Y1lwQUJzcFY5QnNoZGhzdjZLUGhnRGxsTmlfeGZEdFJONkx1eVNFbjRpY2cwdzYyVFJxV2pYYzRYaG81T0JkUTc4MHgxSDZNM3hBN3puUnRjeDI5Z1k4eUYtZGsyMU1sN1h1TFFaa3FpaFJpcEhjSjA5OVAwWHVtRjNVNmZaRmZ1ZE1JSWNfWnpKekZ3?oc=5",
       "publishedAt": "2026-11-04T00:20:00+08:00"
-    },
-    {
-      "title": "Questions raised of government's use of Manx food",
-      "source": "3FM Isle of Man",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZjZLdXEtdFo4cko3NDFNNEU0M3pHVklla2g0TGJ2MDQzZ0xtdjFnbUFPUlZDY2pkdjR6eGRmQ29qYnZwcWhJZzI0ZTVsNjYwc2xIbUhvdXF5alA4MnoxRktkejE1RUt4Z3FvS2F2amY4NEJOMHBWaDJndkFwZGRiZVJyWG9WSkRrVWxrSEpEY2l1YTFBNXJr?oc=5",
-      "publishedAt": "2026-11-03T23:05:00+08:00"
-    },
-    {
-      "title": "HONDA RACING UK CONFIRM LINEUP FOR 2027 ISLE OF MAN TT CAMPAIGN",
-      "source": "TT Races",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdEpPYTZPMHluQ0hrNDlUVFFoeWJCMW5ZaXdfMEdhRmNZTWZJSXJNX2ExTWx5bTRlQ05lV2NmTmtPMmtIanIxUHJXQWNfdldIVXJxTVVQTGRScVU5VmRjeXNJdnFqU0g2ZUxzaVJDb2dvbHBVcjB2VFJJWTJYYVFmd1NUTjF5UWdBVTNleUllcmpVclA5X0JaVWtVd3BoeVRzMkRmeEJZTlVxc1IwcXEwdU8zd1MxcHJ4NEoyYnFiY1RJZ1lWUzRnNV8tOEVoQ2tPNlE?oc=5",
-      "publishedAt": "2026-11-03T23:03:17+08:00"
     }
   ]
 }

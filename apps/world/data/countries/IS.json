@@ -1,7 +1,7 @@
 {
   "iso2": "IS",
   "name": "Iceland",
-  "updatedAt": "2026-11-04T17:08:58+08:00",
+  "updatedAt": "2026-11-04T23:14:05+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Danish Resident Says Iceland Treats Its Residents Like Tourists",
+      "source": "Iceland Review",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8ybHNLQUlSMEk5VEVVSGJMcDdNSEZKWVpWQW1Qd3JCOWlkbjdPakkxMEdlRkdQcnRxeFh2eHdBZ1FHc1ZMX0hPWlJ1anNRamlHMjdxSlV4S1IxQWowekhYOFZoM2lqclNwX1lKM0wwNkk?oc=5",
+      "publishedAt": "2026-11-04T23:00:42+08:00"
+    },
+    {
+      "title": "Powerscreen appoint Trukkur as Iceland distributor",
+      "source": "Agg-Net",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY1pXOUIzdW5tUGxWZnFGYUY0M0JYRGZuZ0x0cWctTFJmR0FOTGR1bVpkQTk3LVJKcF9yMTFld2hqQU4xamFjb01DcV84b096dGVjbzBoX1M4aVpUNjRkbHAzQm84U1M5UTZEOE5FemtGdkQ2d2FtcVFSUVJOd1lKR3BPeXQ5dw?oc=5",
+      "publishedAt": "2026-11-04T22:26:15+08:00"
+    },
+    {
+      "title": "Iceland Airwaves 2026 Traditionally Kicks Off at Grund",
+      "source": "Iceland Review",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUVJLRVJpaks1VzZBY3QyRFJMeGJNRGJfc0dCc2RIZ0NLQjdvWXdkajNhd0pZU1RhT2NlWDNXeGY4UmZ0RFc2eGhCdS1uTGxoaWpHU09SeW50UnR5bGJEZ19iVTg5T2FVSXRESG5tVFdibjZrbDZBN2c4VG5ubkFuLWhFY1JUSjNteUVNN3J1Y0lyRmtS?oc=5",
+      "publishedAt": "2026-11-04T20:30:21+08:00"
+    },
+    {
+      "title": "Exploring the isolated Kerlingarfjöll mountains and hot springs in Iceland’s highlands",
+      "source": "The Irish News",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQlVibGpkYmE2Wk03cWtKamNBcmhpWnNWNUdNaXRtaUkyemloUUNQazExNXpUYXJ4cFFCcnNueHJ0V2w2UVh0a2llSXlWbkdRYnZqaDYyb092VHpLeXFfd1hhM1RZTVR0ZEM1eXlXb1BPbHVnMWVxT1JSRUZjMzZ4ZkJWQTdOblFVanRmdGlxaXhVcFlxN0dKNFBOOV9oS0lEa3N4QmhSbEhvRExRQkdVMzRSRldLd3JjaV92eVptRURVMTdJazgzc3NYcGRFQnk5eElFcFk2SzQwMmFLZi14SjRQd280ZlM4?oc=5",
+      "publishedAt": "2026-11-04T19:01:29+08:00"
+    },
+    {
+      "title": "Iceland prepares for domestic account-to-account payments infrastructure",
+      "source": "Finextra Research",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYmc4QTFtN2Q3UDZsNXkyWWdKeEkzNGZxc1BwQXg3djRaNVNPZkNfVzkydFRJSldaT1NpVGhzbGtkZVo2QmdvM0plcnJYNjhfLWl4MjJ3N1Q4OWtXcHdTRlpPZF92WWs5MG1VMG5IMVlUaGV0ZzFZZ3REUU0zb2pUek94YVlYUGFwQjdOR1FkbXFfMHVTSEs2WVFiZ004T21kQm1WcW5rS1ZBS05Kb0tvbkp5ak41Zw?oc=5",
+      "publishedAt": "2026-11-04T17:30:00+08:00"
+    },
+    {
       "title": "Iceland's Blue Lagoon heads to the stock market",
       "source": "Modern Ghana",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56WkNJaWMxdjJmM0ZqWnotSGtxWndTYlBrZFcwdkoyLXpXSTRMOHhpRUFpUmZ3RHdsU3Y5OXhvZWIzc1QzZWlibUFyRjFZaUdOQzRXVHcyLVMzUkhRRGRnRtIBXEFVX3lxTE01OG42UlZ1ZUFIR1NlWmJOVzVHZXpPYUpqRlcwckE1d1FwMWctczZ1WlZKb29lOVFuYlpsLWNpck1WcmoyOG11YkZkQ0Z2d1U4eHJqZDBJUThXTlRB?oc=5",
@@ -39,43 +69,13 @@
       "title": "ICELAND IS SENDING KNITTERS INTO THE WORLD’S MEETINGS TO GIVE PEOPLE TIME BACK",
       "source": "Breaking Travel News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGgtd1B6LVFzY0UyRTZCSDNCR3R2UHU3OEoyZ0VkSVpPQU55X2V1NGRkVTM4QUVxWnFha2xTX1QxTkpnWDl0YXNHRkJleUhmdDdPdE81TzNqWFdsNHlFRGdlTmN0c1ljWTZEYUdtN2VLOEVRaWxRSENXeUx6SWpRbnFpMlp3a3J0QjMtX2VyWTNnTk9EMzhmZFEzTUxDZHJPTFUtOWE0N19JMzNsRlB3SkVYR2IxUmVZcWJidlJZckZQZw?oc=5",
-      "publishedAt": "2026-11-04T15:12:30+08:00"
-    },
-    {
-      "title": "Iceland Proposes 93% Rise in Residence Permit Income Threshold",
-      "source": "Iceland Review",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2xubEdnc3BQSkRWSjNDTWpIY3oyakRENW5oTWN6OWNXQ1dHanYzQXNVQ0pYUWQ1N3Vvd2toNzQ3Zk56QUduMmJqRnNhZGpCQWlaSmlvanhQSFFxaE4wZkNtcXhReDNvS0R1RURsQmkyeUtLR0Rqa3h4MXpRQWZ3cmJRTlQyU2F3Smc?oc=5",
-      "publishedAt": "2026-11-04T15:00:00+08:00"
+      "publishedAt": "2026-11-04T15:16:10+08:00"
     },
     {
       "title": "Handsfree Bluetooth Bose - Northern lights Aurora borealis over Iceland lagoon Stock Photo Alamy",
       "source": "auroradesio.it",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5TSGZCTnY0VFN3c2phOVVKQl9MaXBUM0NLWm03cmFBcUpZVWxHUUdiOHZxZ1BkRC1zZFBBaGtrQ2xpeThqWUZoLWhYdWFKNDlIYmJZ?oc=5",
       "publishedAt": "2026-11-04T05:47:11+08:00"
-    },
-    {
-      "title": "Iceland’s foreign minister accuses Arctic Circle chairman of echoing Moscow",
-      "source": "Arctic Today",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQamZwSWxXd0NRRW5oc3pGNEJ2QXE3elFTVUEtMmduQ2t5SVZvOFp4VHh5S0FUbUtwYVdlanMzWVRXWk1aSkxIX1Q3dHVNNFVsSlNGaDlQOXFzQ2k2Q2wzWFZhaGNYajJTRnBPUXZFS3owX2ZKSjVfczRQZ2s2Q2c0c3hiX2hWU25pYXdIc0l6cUJzZ1AxMWxTVEpJdXI2WVV5Q2h3ZFVR?oc=5",
-      "publishedAt": "2026-11-04T01:25:29+08:00"
-    },
-    {
-      "title": "U.S. and Iceland Hold Strategic Dialogue",
-      "source": "Mirage News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kWDBNSFdGc3Z2NmphNFU5TUNPdXdKbXU4Q3ZaVmN5YTVOdFljaFk3aGxwdWdYWk04T1pHR0diazY3Xy1lSFB3TTFjQWk2LTY2ZDJILWxVMzdoTnplNlA4ZGZPZm40UTEtclRfSVZyT2pZUEhFLURrZFliT05kSDA?oc=5",
-      "publishedAt": "2026-11-04T01:10:00+08:00"
-    },
-    {
-      "title": "The superhot topic: how Iceland’s IDDP is proving power at depth",
-      "source": "Power Technology",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRU5mM3dPV2ljb3g1TFl3ZEVhNnQ1WWctMmZUQi1qNklHckdhdVNkN0Z4VG9Jd3luR2VyV2NXMmFWWExneVFkNndlZXJlYWtmWGttRkF1V1RXOW1PQTVZTkVGRWxoVFZtRDB1dE1vWGhmbkRKem9PaDB6cnAxazNpRlZiNEl6bG15?oc=5",
-      "publishedAt": "2026-11-03T23:57:33+08:00"
-    },
-    {
-      "title": "Nia Christopher lands topgoal scorer award in Iceland",
-      "source": "Royal Gazette | Bermuda",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTEp0UzRNWUhyLVZWTThpUkdESnhmS2NDWm1QMzlvQ1dUSXZYUTNKTmN3UGswMUNvYWZCVHppQXpXdjRCYVBncmZnYl9LZnV0d0EycklDNkRCTlRPUXVLX1FTVjYxX0dDSTRrUVJNOVVpdjBiR0lkbkhZQ1JRUWJHNlp0cmdqUmxFaHIyUFE1OFh1YVNDbGl4bzZ2VF9hcTl6M09VaENmYlcyZjV1Nkh0cFI4a1hwdw?oc=5",
-      "publishedAt": "2026-11-03T23:33:47+08:00"
     }
   ]
 }
