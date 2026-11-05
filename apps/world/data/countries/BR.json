@@ -1,15 +1,11 @@
 {
   "iso2": "BR",
   "name": "Brazil",
-  "updatedAt": "2026-11-05T05:05:01+08:00",
+  "updatedAt": "2026-11-05T11:09:47+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Brasília"
-    },
-    {
-      "label": "Population",
-      "value": "212,812,405 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,52 +26,52 @@
   ],
   "headlines": [
     {
-      "title": "New Brazilian data center fund bets on powered land for hyperscaler tenants",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR1BRVlUxeEtJV3F1QkYyMmYxSTB2Z1lpb0pQTmhOV0JFU1JscmhoczNZTWY0S1NqUjBDdjJibG1Kbnc1bW1jQ3lXSVF5TG55ajRIbDNuVHZPZkg2UUFESkotSFNHN0N3R1JGaGk5b2x2YXFPd2VSWlZQV2FpVUhobWZDaW82VWRpRE01SFdvQnRuQTQwMFVEaTRMRFhHVDhTTTBmX2pKMmo4Q2FkWTlZ?oc=5",
-      "publishedAt": "2026-11-05T05:00:00+08:00"
+      "title": "Brazil’s Barra do Riacho port secures new LNG terminal project",
+      "source": "Splash247",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWXhDZUV5ak91Ymk0cjhaU2NSZDZYeFBsWU9ISG1BWGk5aWFnQjlnQTJmYUppVUV6Nk0tS1YxVUo0UEQtREdCQ2p4SFpiWmQ2VXZMZXBXMHcwVlBwNFNsbU1LX3NVc1B3bXVLMHdaSTRpNTZTSm9wQ3NrODlCWlRQWUlXWkdLQmt3LWc4ZQ?oc=5",
+      "publishedAt": "2026-11-05T10:45:39+08:00"
     },
     {
-      "title": "Brazil's Lula to reaffirm fiscal commitment in TV address, sources say",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSXpXZm9jdXZHdE5XYjdpQ3BUQklIcmViMDlSV1hUMFlDN0hTMFVDaWlzV2hkcnJoOEw2eTh6cXBXQjZzZS1LMFY3SW9UWW8tWW5VQnVLWHV4UDUzTGpBU0RuVThKZ3I2MWs5STQwMHdMZ1JSOXFhT3NWVkZwUi1hZEJ4OHFwZEhxT3VYb3hMMlA2dzQteFA1YzdTb0VNczkzMC1qVXEtOHByaU9SUTQzXzBpVQ?oc=5",
-      "publishedAt": "2026-11-05T04:50:09+08:00"
+      "title": "Digital 2027: Brazil",
+      "source": "DataReportal – Global Digital Insights",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPMEh3RFJrbXV0aFNtbDJYT3BPc2RsUW8ycWI0WENlcG1SXzJHWFBRYUxna0wwOXRPZ3ZtVXN6SnZVcHc0WlpzajNBdkllMjd1T2VPeERqRWkxTGYzWDdUeXJB?oc=5",
+      "publishedAt": "2026-11-05T10:26:33+08:00"
     },
     {
-      "title": "Brazil Expects U.S. Tariff Proposal by Next Week, Minister Says",
-      "source": "DatamarNews",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNS29lcnVIaDlwZkhYYllUZk80aU5ESXZ3cjFNa1A5X1pZd1pYaFY0WlZ1Y0VVZUFrQ2g4S1V0dEh1OWE3LW42dm4zSlRzWHpTazRqVk0wMEt3bGNVSkdlcHZKaDVQMzdVLXl5bnFTS2E1T0FXMUxsd1RRMTdEczEtUm15Tk9CQ2NOWTVR?oc=5",
-      "publishedAt": "2026-11-05T04:42:26+08:00"
+      "title": "Brazilian women are not a tourist attraction",
+      "source": "The Berkeley Beacon",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DUmVyRnFvelNXYlB4V1hpa2R2dUFuT3R2N0Q2S015N2pwbjVDUVBFUmk5NkJVdFlfalA4ZnJtU1kwc1dhbUJKRGNUdXI3MjZjeE96bFNfRDgyRDFsY3FBb3NKbktTTUhNN2NZUEd5eHVlNkhCTkd3SHBpQWg?oc=5",
+      "publishedAt": "2026-11-05T10:20:08+08:00"
+    },
+    {
+      "title": "Facebook expands Creator Fast Track program to Brazil",
+      "source": "Social Media Today",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTWFGemVvWDJ3SUZ6M2hCWGJiRkUwVC1ZMzJKM1JpWlNSZFdDcGVvdzlxZ0tnNi1pOFZyVThZRThmcnpBTXg0ZzdwTlVrOFVwRFJ2RVVIWXA5Y3lUVUdkZ3FBaDN1ODFpYlVsTkx6Nlo5MjhzcUtFVmNHVFdrX25PTUV0MWs2LV8taDQwT2V4RWwtMnN2WWpyZ2JQbzZUNUxN?oc=5",
+      "publishedAt": "2026-11-05T09:29:30+08:00"
+    },
+    {
+      "title": "Push Matcha Brazil Brings THE OG Functional Matcha Latte With Creatine and Fiber to the US",
+      "source": "BevNET.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdllEWGFwZFRwVU1ZS1BiVG1ZeGtRVXdhRWt3ck9tMm9PYkxtTnhoR2FzQ2o2ZGlxcEo5eFVhQVpZcHhFN0JnU1FId2YzcDRkYkp3LXZIMzdiNExWRnZPT1VTQUc2Tm1OR3VLQ0FhUENTblAtVFlqOUxTSTR4MjVqUkNRZDRIYzh5TW9vaE54X0dmdm1OUkxTRmI4S0NPenNCQVJwS194T2diSkhHNzhuZHk0c2pIRENkM1pUdzB0bTQ5bG1ndmc?oc=5",
+      "publishedAt": "2026-11-05T08:45:00+08:00"
+    },
+    {
+      "title": "How ranchers on Brazil's 'Dirty List' bypass forced labor safeguards by selling cattle through intermediaries",
+      "source": "Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XVlRWOFRyNkxySzRWcG9kLXhxdGc3aTk0S3ZOcnk5Z3ZHUFA3VE51aXZrUGk5dlc5OFBQSHlsVzkzdE1lMEpuZmhTajFILXQzUDM2a3hHQTBNc1d3c0hwRjExakE4RTNodWZDOWxEVUcxQzMzOHFFaw?oc=5",
+      "publishedAt": "2026-11-05T08:40:02+08:00"
     },
     {
       "title": "Brazil stocks higher at close of trade; Bovespa up 0.99%",
       "source": "Investing.com",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOF9idXVzU1l0S3I5Vl82bTduM0oxcEN3THlCeGhFdnItZ3Fkd2UxaVBWb2tJb3J0SmJPZmNLeXVjaDNaYU5kMTJYWl80WG9tNXJHWUw5OTBvUEtYRnVscXAxYl8tbkVfYnFXX2J2a21EU0xqcUw3S1JoZk9oR3d3aXgzeGJmeHc1Q203NkdTNDlsVU1uWDdMOHVGemhEU240YW8zS2FtVVphbVNuQXJr?oc=5",
-      "publishedAt": "2026-11-05T04:37:30+08:00"
+      "publishedAt": "2026-11-05T08:32:35+08:00"
     },
     {
-      "title": "Brazil Soybean Planting Advances to 54.3%; Chicago Futures Fall, Dollar Rises 7.15% - News and Statistics",
-      "source": "IndexBox",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1hPNHdZXzByeVJmUWRXZDhQRk8yaG5VT25NNThQSlJZMXEzWS1sVFVLeS04b28yTzFaWFRuMW00eTN3SFVhYjNrcDlkRHBNV283dklqN0k0Y0tuVEliYWlhclFPSUt4MHRPRnVPWnJneVJFeXRzUzNWZFhWNjE3OC1PM08wdzVUUTFhd2FEY2U3T19Vekc5c3lBdFVucElDeTRQOGRYY3pYdjA?oc=5",
-      "publishedAt": "2026-11-05T04:30:25+08:00"
-    },
-    {
-      "title": "Flutter cuts FY26 guidance as Brazil exit and sports results hit Q3 earnings",
-      "source": "iGaming Business",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdnYtZ0JuYzA1THJIcjhleEhhUnVXaHNUNXBaay0tNGhTZUdGcm1oN3o2S0djN21vUWxFMWplMDZ6V2stdWtGd0VnM3Q3ZFdGdjlpekxXWmY5a3lZaXoyd09kOU8yakUwN3JoN0RzRTE2eGd6TmlOTVRaVHd2bU8xT1lEZ2FIQ1RQcGhpbVJabnB2cy1RNXdmNWJ1YjdvYmVNX29mU0c0YkY4QQ?oc=5",
-      "publishedAt": "2026-11-05T04:26:15+08:00"
-    },
-    {
-      "title": "Brazil Wheat Outlook 2027: Lower Domestic Production, Record Imports and the Dollar at the Center of Costs",
-      "source": "AgroLatam",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZnRiVGt2R0l6OExoUGJsY0M2dmpMSFl5eS12Ukw5OTVSalUtU1NYcGJmcUJvWnJBZnVWSUFMQU9RWmJJaVh0NzB0cWlJSG00ZHFWb2Noa3pFVVNsbGQ3STUxUkZhY0YtQTV2cm8yenFleTcxMWg4bnJpVVc4SThma19hSWxpeEZadFVxUnlOdUgydFVvNEkybGNrX2xpLWtnV0VkR2FxRm9fMEtJcE4xaTZMLTNZM2xYaHlfakNieWpEUVFRQklVWTVDd1Uxajk0WVHSAdABQVVfeXFMTWljbWxpUHNlOC1OdnFPaXdiZW12ZjZyNXZqV2VJN0lkazRTYlJYeml0SXUzTzFyODI3bFZ5Umllb2M4aWJoYTg4bjlpd1NOVnM3U3MxUE1kaFc3clRmc0Fvdl8yZm5zdzlDYkp6cWJkSDhjT09TZC0ySGN3RDVCd0VjLXRuUXRmTVV5Mml3U09peGRIdFpkYXJhc0dzNGd2VXhJOVpvY2pSRVhnLUZaYnpCdjJhVFF4ZkktQzF0Vks0M3M0QVo3ejhyaDd4NjdZNg?oc=5",
-      "publishedAt": "2026-11-05T04:12:36+08:00"
-    },
-    {
-      "title": "Brazil: We warn against proposals to lower the age of criminal responsibility",
-      "source": "World Organisation Against Torture | OMCT",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX2FBLWNXaTZ3Y3NTZFNTTGw3TkpRbUFQZXJNNDJic1J0bmFpQUZmNHRZTnM5TmUwU1NLbWpremRtZnQwdnRCTlN4UnRITGM5bWVVNzJjeDRRRmotTVZ6VS1nX3ZRRFNpRFFDUmg0RWpFMV84SUoybmtkYlkxVjd4RlZTdlRKZEZVdlN4cFNpU2I2RG1fYjFrZ2dfYXhCOWZ3ZGR1T2h4RUpOU0h6WV9jempjdG1UREgzajEtcDd3?oc=5",
-      "publishedAt": "2026-11-05T03:48:50+08:00"
+      "title": "Max Verstappen brings “some samba” to Sao Paulo with Brazil-themed F1 helmet",
+      "source": "Motorsport.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUJlcDFtT3ZSREVhZ1pzNWpjbXUya2dhYjhiQU1rYk01Y1I4d2NWQmxzQ1hoRFZqV2U5Q2FYeEtuOG1QVmpnMnEyOWcwcVdsdUZIZWpfaUNPSHFjcWFaVVo0bUNxUzBhTEI5blJTaDdQYUpMcjFzV1pJMWNuMnZuOVR4dl8zUTNPT0xZbjRJczJ1cVpLOEgySDJZajlTeW8wWWhqeEtTMl9nczYyaGMteWdZN3MzS2szZmF3?oc=5",
+      "publishedAt": "2026-11-05T08:21:49+08:00"
     }
   ]
 }

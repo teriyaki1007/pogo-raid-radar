@@ -1,15 +1,11 @@
 {
   "iso2": "JM",
   "name": "Jamaica",
-  "updatedAt": "2026-11-05T05:05:01+08:00",
+  "updatedAt": "2026-11-05T11:09:47+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Kingston"
-    },
-    {
-      "label": "Population",
-      "value": "2,837,077 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,6 +26,36 @@
   ],
   "headlines": [
     {
+      "title": "Jamaican diaspora urged to support Reggae Boyz v USA South Florida match-up in December",
+      "source": "Jamaica Observer",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdFBuT0UxcXRjcXMxTzBwcmxpRkY5SUN3bTlTWVBmTzV6SXlWMzZrY2ZkUkQwdWwxTW9FeVMwU2laN0c1WWtaTl9Kc2c0bk5FdG53LTI1NE4yNlNSdDVDQ0s1ajBVclBsR181YXdxZXRCazJzQy1mcGhxa0EybHZKNkhfeTdjb3JCTFFrMzdGbzdudUxqeEZLblMtLVN5WWJQZll0TVpocGxUN3BzWTk3RmpKVWVMTGhWRmMxTElHWQ?oc=5",
+      "publishedAt": "2026-11-05T10:35:34+08:00"
+    },
+    {
+      "title": "Workers the True Architects of Jamaica’s Tourism Success – Minister Bartlett",
+      "source": "Jamaica Information Service (JIS)",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUjg4akpSVEhiaFlIbG9qN3RRNnBCNGVSUTJTUHdISlo3OFJvVjhOblh2RVYzaWhuWXk5TjJIQkt4aHprb1g0NkZrN3dvWXVPZi1ZME1SRlgxVUFXak9VN3M0clNrQjdjaTB3R3o1QThhTDI2Y3JqNkFadjRVaXkwbmRUR0pqbEF0TUxRYko1WTVDVnptQXFNOA?oc=5",
+      "publishedAt": "2026-11-05T07:58:59+08:00"
+    },
+    {
+      "title": "Jamaica Baptist Union slams Gov’t’s abstention on Cuba embargo vote",
+      "source": "Jamaica Observer",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVi0ydEJ4RUtuMHF6N2xvcXc4b0d1QXV6MzRvdlFkZzFudGM2eDdyT3k0N0JheERfZmlmclNUTnJpVGk4Z25yZGhDN3RrU0VvQ2pnMkJ5bGlQSVo5QVNmNWF1UDFWUXNtXzUtMjVpbE1NaFpQbVVvdWdmOEkwVjVHZ09QX3VfQnVLVVZCNFhQekNEbHNRSFZkQ2pETzJBMkRXMGNtNHNGLU5qZw?oc=5",
+      "publishedAt": "2026-11-05T07:37:33+08:00"
+    },
+    {
+      "title": "Second flight transporting a Third-Country National (TCN) to Jamaica is expected to arrive this week",
+      "source": "IRIE FM",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbXp2OHp5SHBaX3R0U3NhS2F0Wk5VbzEyLVlvQlFPcnFyTWs1TkdMdGUtazNQZ1lpR0dWQjI1S08yNFhhbGlJd2VCSHpIU00tZ0JDNmpDR3lpdGVuaGVmUlFZOG5KNVhOMW80RFBuamlzU1JITGJyMGlYZUZIQzdSZzBaVWZDLTVqRFFPa0dKeHJQcl9rMGpLLTMxVmhxcTNydlNsUDcyTW5nREE5TEhMT2E4bkoxdDkyaXc?oc=5",
+      "publishedAt": "2026-11-05T07:09:53+08:00"
+    },
+    {
+      "title": "Jamaica teams up with Masterchef winner Jhane Gibson",
+      "source": "TTG Media",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WbFJGeEd5aG1aalc1WmFxLThjV2NNN0NsR3R3a1EweG1BZjFvbWZsaUEtcmh0c01GSl90dVE2S3UzenFyLUhhTElvZkJVbnl0WWNWYmxLOWxEMzR4Z2dkUG12OHBCTHA0aHdkb2F0ZGhpQXMyYjFrcktsVkM5QQ?oc=5",
+      "publishedAt": "2026-11-05T05:43:35+08:00"
+    },
+    {
       "title": "Jamaica – FURI Helps Deportees Rebuild Their Lives After Forced Return",
       "source": "NY Carib News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemVRMmVZQnQ0ZDBSNUlNQ1hzMmJkM1kyTi1VUm1FdnhhbE5lX0doSTgwMHFKTGFPNlpNTGpOM09TWmpmNjI4d3BlbWwxYjdYVVNydUxMWFVCUFQzWHNMTG9iZURHelZUVWhBV01yZjJScmgyM1lpWmR1eFVXVFpKUktHX3ZZWmhGcnhhbTBKSmV5QmZSaWZSWQ?oc=5",
@@ -46,36 +72,6 @@
       "source": "Dorchester Reporter",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUC04R01CQm53QXFaQXNBR2ROcmprOERNeWVnUWktUUNrQVJLb2VYMUc2cmoyVlNwYmtFUHNhOVM4Yl9QMm9uaUtiREdUMmZzNGtqdUdmeVRjd0VRMTBhNkVVaE52NWtxYnFUblU2cDMzZW9uZXBIRGhxdWNQbzVUeFN2cWd6Wm5CR19QcjZVVlNtbkY0RFBhMEdNeDhzM0ZOcTJGNkVR?oc=5",
       "publishedAt": "2026-11-05T02:24:14+08:00"
-    },
-    {
-      "title": "Ocean Allure Eden Bay Opens in Jamaica With Adults-Only Luxury, Swim-Up Suites and Rooftop Jacuzzis",
-      "source": "Focus Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX21LYkVxbjZQRkN4N2xKbDhWb0x4cE9UU1NRMFRsXzJGXzY5NkxfNU53dTlMVWNWMnY0VzcwM3JrWVNSZEFZWTlaYzNwT1VEYUI0Q2NHVFI5UUZubmhLdU1xY0dFOTc4UlI4cTdXWm1uWlozSFVDdzFWNFlXWjIyMFJRcmJHUERmNUlNMUR5Z19NTjduWHlrN2psVjJRNkJyVFl5MUhTejRBQlFLdEFNY1pyamFEQ2E2N3V3bGliTVBsbDVUcERDeTd3?oc=5",
-      "publishedAt": "2026-11-05T02:02:59+08:00"
-    },
-    {
-      "title": "Christopher Martin, Baby Cham and Iwer George to headline Grace Jamaican Jerk Festival in Miramar",
-      "source": "Jamaica Observer",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSjB6RDlGOEF5dG1GSnRlMUlQNW8tMWdaejEzZUJXeW5JSG5fYUZCeDhjMGZINzlsUTV5cGNzcDVVdjc1OENqQjhJV1BHRnFBUU5JQTNVaDJPMU9nX2M5NlA3cWE3Ti1uSVZhVGExblUzNDk5UENKNV9TYS1XdS03SU05aGZnSURMcUM1MVB0MjFXeDZaX0tCSnNiLTNmbklDbUJxd29ZbE5uVHRvY25TMWJJcFVJc2ZSVDJkQXlVMUFhT1ZoOTItX2dn?oc=5",
-      "publishedAt": "2026-11-05T01:14:13+08:00"
-    },
-    {
-      "title": "NEPA eyes special environmental zone status for Jamaica’s gullies",
-      "source": "IRIE FM",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYndsU2ItZUZ0TW9EX3l0eXdpRndGUnJ4cE5TWl83ZUxFVzFRdEZ1OTBHank5Nk1NYmZ6OE9YZmF2R0tGOXpUTmlVVVZOaktvcDN4SHhtQmVDQ2E4T1owQ3JIbDhTei1YOFdtYXJ6emtYZDJqYWc4eWJqYVgyM1JwUm1GaS1ZSUZDZFY5Ug?oc=5",
-      "publishedAt": "2026-11-05T01:05:15+08:00"
-    },
-    {
-      "title": "Jamaica’s winter season gets a boost with two major resort reopenings",
-      "source": "Travelweek",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRFdUZElLOEl1QXJSenpraWJRVzJlS2JleFNpQXNwSVZmMkRTYWMxREZiUmZ3NkRxZWxaQkJLaHpuTEdKWmp4Z1N5WXFSZzFYUUhXT3lac1VzZ0xfSnJzejczaXZKXzlrN3pGd2t1OXpocG9OWDVGaEFEbkctdFMtQ3YwWTVITmJmZVpoeU1QdTF6UmtzcUhmWHBxMmFOXy1ILUdYdm45VFZTU0t6dVFFeXBONA?oc=5",
-      "publishedAt": "2026-11-05T00:37:34+08:00"
-    },
-    {
-      "title": "Jamaica teams up with Masterchef winner Jhane Gibson",
-      "source": "TTG Media",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WbFJGeEd5aG1aalc1WmFxLThjV2NNN0NsR3R3a1EweG1BZjFvbWZsaUEtcmh0c01GSl90dVE2S3UzenFyLUhhTElvZkJVbnl0WWNWYmxLOWxEMzR4Z2dkUG12OHBCTHA0aHdkb2F0ZGhpQXMyYjFrcktsVkM5QQ?oc=5",
-      "publishedAt": "2026-11-05T00:28:23+08:00"
     }
   ]
 }

@@ -1,15 +1,11 @@
 {
   "iso2": "DO",
   "name": "Dominican Republic",
-  "updatedAt": "2026-11-05T05:05:01+08:00",
+  "updatedAt": "2026-11-05T11:09:47+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Santo Domingo"
-    },
-    {
-      "label": "Population",
-      "value": "11,520,487 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,16 +26,40 @@
   ],
   "headlines": [
     {
+      "title": "UNHCR Dominican Republic Factsheet, July - September 2026",
+      "source": "ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTU4ZjE3SFhpSi1qZmhOMURkTkhxcjh2dFV3Z0w1N3YwblZQZjMyajRXeFh1Rno5RmhIWDVSV2tFeVZpa0RhQ1JiM1BZT0x4S21mOWNzNGhjYkp6TTFybE1fVVJLd055NUZvNHFfRHU3dmJOVHlVbnFjLWQ0TWRwUUNISmNmWTVzMXFZQ0FicmxfZ0R2dVF0dmpyVV9sU3lEQzh2UQ?oc=5",
+      "publishedAt": "2026-11-05T07:03:19+08:00"
+    },
+    {
+      "title": "The Industry Abroad: Inside the Dominican Republic’s real estate boom",
+      "source": "Real Estate Magazine Canada",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTnZHU1o4U2ZmX1F2d2JmNU1BRVBlX1Q0SFpqWW82andIM3dFN1FQbjR3U0VHMG9WRGEyM2JVRDlmVkdFektGVjVnREFxREJVY291ZEZCVGt1aVd0N0ZQZVkydW0xTHRxcXJOdUFLQVRuWnB2TXVrWldJWmtLMlFWNzVfeGxzYlFHNnZMcGpzR3BoWl83X3VMdGd3bXZDeU0?oc=5",
+      "publishedAt": "2026-11-05T06:07:30+08:00"
+    },
+    {
+      "title": "Dominican Republic: 48 organisations allege forced labour continues at Central Romana, urge Dominican and US governments to act; company responds",
+      "source": "Business and Human Rights Centre",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPVG5sdnI5Y1hHLTFYbGFacXVOVjBmeUJudm5rNy02b2s4RE53VWVuVXNBYk1iWFdrQXlUTkRjbFFnY0hfanF4cFkxM1lCQkVhUW1GU0FOdm9lR3o1MXlUM1hHNFVvaHM4MHluaHEtUVRZSTAwMnlUb3ZDdEh4cW5aVUFVSm5XZjhiNHY0U2k1TGcyVkdrQUNKQUJQN3JhcWJOZkpfOVhGVjVKd2JIX19paUdKWXlpSUZkOFBHcFhPMmtaNEtxZlBlWU4xNHVtNzljMGVSamtMUHNaOWljRFNvcHI0WmZDanZpeW1oYmNMOXp6eE5ORGFZWnY3bmpDbC1xb1ctQlhqQndfTGJLMk1uNWFCTzZ6OTZEY2ttNlNEc3VoSFRfSEVjREJQN24tMkJYODg0Y2lvWWxJTV9hNnpvMU94NVY4WDVuRDFSWUswajJQREM5X1VmdFJNLVh3MC1MZmIyS2FsNXQzMTQ?oc=5",
+      "publishedAt": "2026-11-05T05:10:46+08:00"
+    },
+    {
+      "title": "Dominican Republic to host UN Tourism General Assembly in 2027",
+      "source": "Dominican Today",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZWt2ZmlSSW5pNkI2TlJZc2kzTVQ5a0wwN2x0cl8ycktsbjI4U19zZ0RzY05PNGN2c0hScF9QOXVKbUEzY0JGc0J4ODRtNzhMVFlrZHp6aVJjMTRmZm8zVXBHR2M2N0VTWkl2N0RMcU51U1JnaEU5TFVXYXJMa2tMekRLUnFQV2R1SWU1MU5iOWEwRm0w?oc=5",
+      "publishedAt": "2026-11-05T04:59:43+08:00"
+    },
+    {
+      "title": "Light mag. 3.5 earthquake - North Atlantic Ocean, 118 km northeast of Salvaleon de Higueey, Dominican Republic, on Wednesday, Nov 4, 2026, at 01:09 pm (GMT -4)",
+      "source": "Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc0JoYjF0MF94SHM1bmRldGE1ZlFwZXpIUm1ObXBfNndXcWMtRTNmWHZETnU5SnY2aDVlR3l2TGtfY29LWWRKQVIybk5EbTJFQW5Hel9pZzBHdW9sXzc4Y2xxeDJDeE12eVVCSXM1cGg5LUxlVWtWOEhOck1wOW1nRExnTFRwSE91TE82ZnRGLWxuR0prb2YwT050V1FMWUlpbnhnOVhsMVNIUTBfdWUybVI1Y1pfcGM?oc=5",
+      "publishedAt": "2026-11-05T02:27:54+08:00"
+    },
+    {
       "title": "Moderate mag. 4.2 earthquake - North Atlantic Ocean, 112 km northeast of Salvaleon de Higueey, Dominican Republic, on Wednesday, Nov 4, 2026, at 12:59 pm (GMT -4)",
       "source": "Volcano Discovery",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVmtlaElIRmNYb0FnUFlXWG1TQzdvMnY2dHlpNFdIQmp0djhSM3k3OFdNTVVZM0ZiNG1KSzdNZ3NMRV8tMW0yLVFZa25fekdKTGFidjBUZkZWOXg0MDBCUHNEdjhGbnRDd0pJdWZjODcydDhyeHdmemJxQUd4SDh6dTh4SHpONGlSNDVqU0kwaklEOE0zV01HNlVDb0xwTy1pLTRFcV9zLXFQVE9XZ2Y0ZEtyMVVfTi0xWC01Rkt0bw?oc=5",
-      "publishedAt": "2026-11-05T01:34:12+08:00"
-    },
-    {
-      "title": "Light mag. 3.2 earthquake - North Atlantic Ocean, 44 km northeast of San Fernando de Monte Cristi, Dominican Republic, on Wednesday, Nov 4, 2026, at 10:42 am (GMT -4)",
-      "source": "Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT1QwSVY0U1FzSXhCT0gyM0dWYmxaZ0N0U05VRmk2MG9LaUI1MEpubURKRmZVYVpOQkppbGlsS0h0TzJXNDhIeVBjbUFLTzhlMVhmMkpPWUgyaXRoSVp0VnVfLW9xM2lUd0tZN21MOVR2dk1tUmlHeGZGUkpsLTlGVTA1N2Y1Zi1ReWduVG5BbTE2VUs3OUZJOG1rLVNXcGpHLWVDNnVDZXhlOF94aDhtOC13dy1sVHc?oc=5",
-      "publishedAt": "2026-11-04T23:50:14+08:00"
+      "publishedAt": "2026-11-05T01:10:13+08:00"
     },
     {
       "title": "Officials discuss the impact of rising fuel prices in the Dominican Republic",
@@ -48,34 +68,10 @@
       "publishedAt": "2026-11-04T23:16:18+08:00"
     },
     {
-      "title": "Dominican Republic proposes stronger cooperation within Ibero-American Conference",
-      "source": "Dominican Today",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSm5YalpfeFQxc2NFZElMRDEyZG1vdHR3OUtPVkRCaDVXd2VvR3R0SUN1cDVuZlZCazN0ZHRSWGEydUNkZldBbEluRlluTU43SzFaTWI0VGNzTlZjcXFiWEhERHNldjNFd1FEMkE4a0xMaHR2RUZxWTJHcjBjZ2stc19wMzhmRGYyM29MNi1WYk5mdndHMDk3SkRhMkVCU1R0SWg0T3laeXJ4SE5uckE?oc=5",
-      "publishedAt": "2026-11-04T21:11:40+08:00"
-    },
-    {
-      "title": "The Industry Abroad: Inside the Dominican Republic’s real estate boom",
-      "source": "Real Estate Magazine Canada",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTnZHU1o4U2ZmX1F2d2JmNU1BRVBlX1Q0SFpqWW82andIM3dFN1FQbjR3U0VHMG9WRGEyM2JVRDlmVkdFektGVjVnREFxREJVY291ZEZCVGt1aVd0N0ZQZVkydW0xTHRxcXJOdUFLQVRuWnB2TXVrWldJWmtLMlFWNzVfeGxzYlFHNnZMcGpzR3BoWl83X3VMdGd3bXZDeU0?oc=5",
-      "publishedAt": "2026-11-04T18:12:17+08:00"
-    },
-    {
       "title": "New warehouse.. DP World strengthens its logistics capabilities in the Dominican Republic",
       "source": "صوت الإمارات",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOYXFpMVhvaFFpWDluYS1QTEE3YlRCaEhKOWFSNmdJN2NoYjQxUVRCMVVWdFFBS0R2bmFoQ2dERUZsS2hwY185TjRqVjBiTHZNR0V1SzFDTGNuWGZ3QzFnU3pSUmd6Y3U1dldKdlJaRTU2S0N0YlJGeUsxMWMwak9sM0t2Zm03TG5PYkYtTXYxM2wxa0NnbGNVSkx1cTV1cUs1TmZ3aUxFQWZrbk5Za2dJdEk4YlVlOVpTeTc4dS0tbi12dGM4ZGV4Q2FSZG8xUldEdVVpazkwSlBpNUpySHV6V0d5a3ZSM0pTSVRZdlBtQVcxQQ?oc=5",
       "publishedAt": "2026-11-04T17:10:57+08:00"
-    },
-    {
-      "title": "Abinader warns Haitian gangs against approaching Dominican Republic border",
-      "source": "Caribbean National Weekly",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWks3eTZhdGRDSEVsSlgtYUxrQWFvcVNNcF82a1NMYVI3UlZ3T2hLelRmcDlQeHFvRlN4Q29wYlo1bFBfbWgxUFlfZXpMYW5lYnkzdlNuZklfbmhoRHlUSHJ3SWpzU0QxUXV0SWtkM2dOTHhzbUt2eGktRENYeW03bHVsNi1YTjdBYnlEREFWM2FHQXZOR09XMmM2QlUydFZ1dEctbnI3Nm9EdE02Z2dMdTQ0MTFObWY0ZkgteA?oc=5",
-      "publishedAt": "2026-11-04T04:49:44+08:00"
-    },
-    {
-      "title": "Dominican Republic rating upgrade reflects stronger growth and fiscal resilience",
-      "source": "Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYjNCYTlYaUNwNWwteG5rNUdQd3pnOVlOSF9WSVJsa3NPaUQyTk84em1KTVBQbjhiZmJPMkRzV0xka250MDRTa0dyS0JBSnQ3VGZ1WWhTZmRZRW52THlxRWswYjdMUU1FbzRSVjA4Vi1xRHU3YXpraUxFdW05OWxBN20tbktJR0lBd1YxUVJlbFI4MjRIQzhpU1pIb21LazlNZ0VpNTRaRWM?oc=5",
-      "publishedAt": "2026-11-04T00:21:36+08:00"
     }
   ]
 }

@@ -1,15 +1,11 @@
 {
   "iso2": "MG",
   "name": "Madagascar",
-  "updatedAt": "2026-11-05T05:05:01+08:00",
+  "updatedAt": "2026-11-05T11:09:47+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Antananarivo"
-    },
-    {
-      "label": "Population",
-      "value": "32,740,678 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -29,6 +25,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Digital 2027: Madagascar",
+      "source": "DataReportal – Global Digital Insights",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5iSUEtMGJSMUtsajhmSXQtNlpQbV9UcDZTV08yQWNHRVN0dHBUbDlsRkVsMGZtcGlCRnl0WExjcmNzZ2FwU3hRYjJ5cUpheTdCWFgxMUtnZFhVR1duU095cE9rSmhsTW8?oc=5",
+      "publishedAt": "2026-11-05T10:44:58+08:00"
+    },
     {
       "title": "Madagascar court approves constitutional referendum before polls",
       "source": "Modern Ghana",
@@ -70,12 +72,6 @@
       "source": "GamerBraves",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeXhzUC0xcnRXclJpWVdhZWZHU1lySVRTbnJRTXZHRENLT2ZmbVRMRS11Y3B4WGRUdXRuNnVEWWVndHV2YTd4TWk5UU1lLTcyTkRQZEdvVzZZaGstTFlUV0RVWEpNTW5FYW9HMTVwTmF3Vnd6UGp2UkNfdWlrOW53V01tcTAxbEZvZ0tLTXpZY18wZ0ZleWlvcnIySWhYVnhCVGRmcDdwckM1MTJGbkQ4NWI3VjAwZ2doOGNLZUtkYVJkQzFwRTdVY2l0YU9iX00?oc=5",
       "publishedAt": "2026-11-04T17:29:42+08:00"
-    },
-    {
-      "title": "Madagascar’s Long Hunger: How a century of land loss turned drought into famine",
-      "source": "European Society of Medicine",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XR1I5SEhYTGZtcHlRenJTemhkcHFwMVNYamdicXZ4czU2SEFMVDZScmw0eDhvOExzbS1kTmxZazM1NmVPTGNkLTFaak5ILU01V1B4cDJqTnViMHB2ZFlz?oc=5",
-      "publishedAt": "2026-11-04T17:10:50+08:00"
     }
   ]
 }

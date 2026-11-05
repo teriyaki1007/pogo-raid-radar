@@ -1,15 +1,11 @@
 {
   "iso2": "CD",
   "name": "DR Congo",
-  "updatedAt": "2026-11-05T05:05:01+08:00",
+  "updatedAt": "2026-11-05T11:09:47+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Kinshasa"
-    },
-    {
-      "label": "Population",
-      "value": "112,832,473 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,16 +26,34 @@
   ],
   "headlines": [
     {
-      "title": "Some 1,800 dead from cholera in Ebola-hit DR Congo: WHO",
-      "source": "Medical Xpress",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aX1BNQW8wS20tU1ExclZ3N00tWmJGV3ZmeENkY29Id2h1Qm1Hc3JNTTB1czBVdnpVT1JLVGQxV3RoNnRTZWhiYXh3NmdkSVFpR0F3WFV1SmpEWkQyZzhEUG1BOVUzbVVNMUJNTEN3dHZyMFJlaHBzVUFvZw?oc=5",
-      "publishedAt": "2026-11-05T04:40:05+08:00"
+      "title": "Trials of two new Ebola vaccines to begin in DR Congo",
+      "source": "NHKニュース",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHUWtCajBsU2U3VFMxVzhWVjJpUEg4QkJ3VnR3bW84Y1I5UENySlNpdWFNaUI5ZUo2UjhJblA2bGk2N1N4YVJKUWJWN3V6ekctYkFJbm9KRTByX3BaWkZiYjVMWQ?oc=5",
+      "publishedAt": "2026-11-05T10:58:27+08:00"
+    },
+    {
+      "title": "WHO reports 1,800 cholera deaths in DR Congo — Interia",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWRJY0htdWRKWFVrX1FyTkloUXR2TEtUSVIyZHBhSHV1TnA5eWFpVFo4VnFZXzVYSlVfTGRfSmJid2VGdjdCcjFfQ1pEelhnYWl0RTRPWFExbVg1T2tBR3JnZ1ZmVWhhSnVTM1g3ZEktZ3FvR2NnV0NMODNVeHBqSGpsNGMwZkpJaVE5Rm44WTF3TEE?oc=5",
+      "publishedAt": "2026-11-05T06:49:32+08:00"
+    },
+    {
+      "title": "British man in DR Congo to be evacuated to UK after testing positive for Ebola",
+      "source": "Peoples Gazette Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQU1CQTF3Z3pjWV9SZ2dzOXVMc3hmcW9tdkFTM0RzSFRHRTBvUEp1aDFpaS1FVzBpVjVLRk9xTnBIZ0FnSWFPWFU0bWpHWWFod0hDVUhBYU1FdkdITFNCM2hTekJYUGlaeFhvM1RiNno0dW9zZU9tbjFGbGhEZWNYUzNtUU9kM3UyZzJFSlkxcHd4WFRROE1weUJSNlI4ZWlyOExpaQ?oc=5",
+      "publishedAt": "2026-11-05T06:16:53+08:00"
+    },
+    {
+      "title": "WHO says 2 new candidate vaccines to join Ebola trial in DR Congo",
+      "source": "Apa.az",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd3M5TGNFN2J4RzA2bEFhekJUOVU2dVlWVTdGdmxJSmMwOVI1VkFIeWVrOUJ2ZnBiYVl2cHhaam9sTlI2ZC02X1BoR21MZ1N2U0xEQncyc3lURVlCX0M2WTBYeWpNS2pzNGExQ2Q0YWFQNElIbThyWjBwOTBHT3lodWtoN2Y1eHAwb0hYZlBYWEx2QklYdnFrSV9ISkdOZw?oc=5",
+      "publishedAt": "2026-11-05T05:02:00+08:00"
     },
     {
       "title": "British citizen tests positive for Ebola in DR Congo and will be treated in UK",
       "source": "Sky News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObVQxX0pwMHFxVzZwMDR4eC1FdF9Jc3lRSF80Tks2RVg4NDBhdHYzVFZCQzVaeWpLUDFSb3dPQ0ZxYTZXQXh3NUg3amNoLWxONGZkSU43QnVuZWdMT1hxWDhyeFZkemlEY0pSNEIxb3hkR0FOMVoyRjR2QUZHSWVOYUVTTFBPb3hxVkdyZHJZZ2VPUktuTjgyeHNCRkw?oc=5",
-      "publishedAt": "2026-11-05T04:37:30+08:00"
+      "publishedAt": "2026-11-05T04:42:16+08:00"
     },
     {
       "title": "British citizen infected with Ebola in DR Congo to be flown back to UK",
@@ -54,28 +68,10 @@
       "publishedAt": "2026-11-05T04:15:00+08:00"
     },
     {
-      "title": "British man infected with Ebola in DR Congo to be flown back to UK",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzZmhkUlYtbUtPSUlyU1VyenBLck5nRVIyOHhqeHQydEx4V2VrUThTaTN2cGNYWFdkX3FlT2ItRjRVdVZTNGdNQWRYVEdTT3JXejNDNUNQeklHekU?oc=5",
-      "publishedAt": "2026-11-05T02:34:19+08:00"
-    },
-    {
       "title": "CAF appoints Ugandan officials for DR Congo–Nigeria Los Angeles 2026 Olympic qualifier",
       "source": "Blueprint Newspapers",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTmtqS2xrbEhFMnFYay0xWms1aU9YTlFITGNJMnFZczlsVEhYNl9wYm93djVQRHZPQ29PRVNqMEJCSV9KeUNpdnFMRFV3M2VDV21VZHlFYkZtSWdJZjlEVUhCaWxSRGEtaHFLZmdNVGNaMXpYajBNYXhXT0lVTDhIVmlWYU16LU1HbWZRdU5ncVpGLXV6alR4bFNqUkNwSWdtMlY5d3ZYUW81dzVK?oc=5",
       "publishedAt": "2026-11-05T02:06:58+08:00"
-    },
-    {
-      "title": "British healthcare worker tests positive for Ebola in DR Congo to be flown home",
-      "source": "Chronicle Live",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjRrY3RORVFUeUh4akQ1Q1JHdEFEeENDT3ZMVEs5Y3VVblhsYlNFOTJNUUw2R1hNcXVhM3FlNS1tbXpIdWpOQTV1NElLTlY5cUZSQ3VVWk5KNnh1YTdrVkVaSk91SXF3OEhpV0F2UHpJUmZSMmpSMzRWdTZjRDhWeHNyMXFhNkNuMGR4SW9WS29taTVpM2RpSVRR0gGfAUFVX3lxTE5IUDYxaDd2S1JHbXp4eXF4Yk16OHlFekpHclo2SkpYX2dMWTRiWEtSUU1aZVI2ZlZiVjdkakxoZUJNZnhsZm9zUUtXT1duUFRtbzg5NmNZZV9ZOUIxN2xzSnJEdFpjck9JUV9WZ21pSW1ZMU80UFc1NXRxZEpBVjI3cFU1V0MwOU03NWdPSEJoakdFY21CSWR2cnBLT0RaMA?oc=5",
-      "publishedAt": "2026-11-05T01:58:00+08:00"
-    },
-    {
-      "title": "UK national tests positive for Ebola virus in DR Congo",
-      "source": "شبكة تواصل الإخبارية",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83eDU4NHdHYUpBSF8xOURCQVpYbFhxN1pIY0N0Z2NYT3hGaHFzSGV4YkV3WFh1X3NJZmtuaXVXS05sUTA0OVI1Q29fZ09jd0RyTmVj?oc=5",
-      "publishedAt": "2026-11-05T01:51:00+08:00"
     }
   ]
 }

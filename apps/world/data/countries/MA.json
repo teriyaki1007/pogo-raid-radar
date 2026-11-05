@@ -1,15 +1,11 @@
 {
   "iso2": "MA",
   "name": "Morocco",
-  "updatedAt": "2026-11-05T05:05:01+08:00",
+  "updatedAt": "2026-11-05T11:09:47+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Rabat"
-    },
-    {
-      "label": "Population",
-      "value": "38,430,770 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,52 +26,52 @@
   ],
   "headlines": [
     {
+      "title": "Digital 2027: Morocco",
+      "source": "DataReportal – Global Digital Insights",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9TMXhhbnNGWG5rcmRma3pGeXdvMUJ5WHFLOUFXcXhXdE5Zb3ZxM1NLOWYyWTVxc2NLMTJraWNkR0tSblBkYVdUeUNCTFVra2NRdmlJU01sbVVMcHJ6MEp2c0hfTQ?oc=5",
+      "publishedAt": "2026-11-05T10:54:08+08:00"
+    },
+    {
+      "title": "Morocco 4-0 New Zealand (17 Oct, 2026) Final Score",
+      "source": "ESPN",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSUtxUVRmN1JkYTQtTU00ck5xUm9IVk1qZ1FpcWRkanBVVU82MlplRmk5Wm1tU2Qza0xGZzNlbmFFSjZZTC1YbkkzcS1HRlVPYWRVSmlBTE9EVjJORTZiY0FwbDlaMVJ3aHUtU0hiUG1CNmZOUmU3M3dHdVZBNDZ6cmRrbmhadjNrSDlQREFR?oc=5",
+      "publishedAt": "2026-11-05T08:16:19+08:00"
+    },
+    {
+      "title": "Reda Belahyane back in Morocco squad after Lazio breakthrough",
+      "source": "OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNEFrVml2NHVaV2x1Skt2ZnRRUjY3MmQ3S2FzUW0wOEliMTRSaEh5MWhPU3hXT2IzYk1yYllobHU2SFlKZnFURUFpZGNvc3RXQlBQMllGNGNRNzlTSUM3aG91Z0NkSzExenNJWUN3ZVJLMEtnM0M1TXpZSVpDcUpSak5UbTZNc2hJTlNUVEtRYlFnZk5tS3NWOGRvMFFzLXdPTnpNaw?oc=5",
+      "publishedAt": "2026-11-05T06:35:16+08:00"
+    },
+    {
+      "title": "Ouahbi Announces 28 Judicial Infrastructure Projects Across Morocco for 2027",
+      "source": "Morocco World News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTVFRVV9VbURGM0Q0clFSbGJPd3FkT3NrUnU0b3JtaUt1NjBBZVhPYUpMeDZMQnRKZE9YM0hpRGFCZHVzX0pKMFZEanNTQnN1dzV1dkFhejM3RDd0REFSTGdXaUpmQ3ZySlo5RmpXbi1oWkVqSVVDOXNaOWtHZnpvWXBPSnJoMjl3QmNPZmNfV3NnU2l5VW9SQV82ZjVwRkF2OHFpUmdEWUdzTkMxbHVlcDhVWlZDdTQ0eUhNLWNnaTAzRzA?oc=5",
+      "publishedAt": "2026-11-05T05:50:09+08:00"
+    },
+    {
+      "title": "Morocco fertilizer trade report at odds with push to drop duty",
+      "source": "Capital Press",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaUVfaE42Xy1ZblNIUlVOTmlKbFlxRGZQWVgxdmVqS0ZfemNsLVJDZ1ozU1JzOVJNcXR6aU1veENlQl9zQnQ0b2J0Z3c5OE9oQXh0ZWJQbW5pdm5sTWZIN0JzdENfNk5IaWwyMFZ4ZGZQcjY4ZDFjNHRINXFGWGZwYW50XzdFbER6d2RwWEZrTy1TVkktd0ZJM29MR1p6aWdh?oc=5",
+      "publishedAt": "2026-11-05T05:36:19+08:00"
+    },
+    {
+      "title": "Samsung Pay Makes Its Debut in Morocco",
+      "source": "SammyGuru",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NaFRYUVlpTlZZQ2EwSUFkenhobUc5ZzVsMmNVbThLVkpfSkU3bzJUZTd0SXpiM0dUQV9WajBUUjlSMVhrQjNfUEJ3am5hYlNjZ2FVMWlqeXhmQkV5U21hSw?oc=5",
+      "publishedAt": "2026-11-05T05:17:49+08:00"
+    },
+    {
       "title": "THE Arab University Rankings 2027: UM6P 13th, Five Moroccan Institutions in Top 100",
       "source": "Morocco World News",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRVFtYWZZLUZldnJSR2txOHJyUlJyY2tOMkdHWmpFbk5WQTY2aUU0aVdhY2FtVjlOVFE2RzJEYV9pWjJjdmFmd1RkaVlxMlFlLUkyR09GSWUtLU9Ick9uTUoxNTJJZ1RCS055OUZrQUo2UWt1RVZsMGN3QUV1bzNmLTVlYU9PV1ZaNzEteU42d1dSTjh5NGM1WGlPcXNCMjZqbUt5azA1OU9sQmFId0ZkRTRmOVE2cGxXNjJkTUE5VzZ0TFRlaDhwUFRn?oc=5",
-      "publishedAt": "2026-11-05T05:00:00+08:00"
+      "publishedAt": "2026-11-05T05:01:53+08:00"
     },
     {
       "title": "Morocco releases 359 prisoners under anti-extremism rehabilitation programme",
       "source": "Middle East Online",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeGVIZXFVZTllYnpGdDl5VWRqeUtzRVpfNXpEVDJacGQwNWdBdDNiNEhIbW5TWnBCWjZlZkV3My1yOG5PRVlBd2dIUTBRWnNfZDBkLUNiUmZiU250eDhVMUdQVFhhV25LNHdqeUpNVEt2eU5qbFRKQ1JTWU1HWnU0X2JleTRzZE1NMTBzS1ZXZmlpc0RpS2pzZUpYcU5yakxzTi1vMG41eDU0dGtpWkN3?oc=5",
       "publishedAt": "2026-11-05T04:49:16+08:00"
-    },
-    {
-      "title": "Morocco's Press Council urges media to counter Sahara disinformation after MINURSO exit",
-      "source": "HESPRESS English - Morocco News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMDNuUzFUbTVjcmtUdGM4bFFsR01WSUFBY29YU2J1blU3S1VoeWZoWkpzejg3SVhKQmp6YTlNUzYwS3phVHFFWm5QbUtxWnQ4OFJ3MEpBanR3VmxoajVIdkUyc2pYUmlWb2d3aTVzYjFKUmpzUHBRMjZFcGpOMVhFRHg1MC13bWpQbkZWMjU3MnN6ekNLLXhjS0pZN2ZmNVp1Ui11Q2lMbm1LUGdIUUQ3c2c0aGZJc2dtaVR5d0lXVQ?oc=5",
-      "publishedAt": "2026-11-05T04:12:33+08:00"
-    },
-    {
-      "title": "Morocco says it will uphold Western Sahara ceasefire after UN mission ends | World News",
-      "source": "Hindustan Times",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUzJKcXhYR0kxVkt6TGJ5anZYVWF0NS1qLTlleHNnaVFzZjBHYUh6U3c3enM4YWhpelBVMDdaVFhiT3BjcVVqc3RQV1dBb3ItSlcwZE5NTkpDbWNoVDRXVWdNWk1XOFdpcGtaaVJLMmdfVnB6M3UzLUxObWdtNDlHNWxXemtpcU9GZFZna0FNaV93Q2J4NldTN1dmWVM3RGw2ZlR5SjZiYkFOaFUta3RGYzNtM2dINm03RFFTX3J6S3RuSmxCZllsSUUxR29hTlVkc1Nr0gHYAUFVX3lxTFBrYVlOVHNONkpHVWJhTGEtUnpZS21NWjNZNEtYX1VoMUFfNXBTTmx1NUwwRzhsRnFpSnlVNi1FZ1pzeG9xMjRTYkVxT3RFaGNCNUJ3dXl6WGV3eUhXdGMyMVR0bG5oUUxybGhqSC1RQzIyVG9sd0RfZVJxNTBIQk1uYmY0Q0FFRG5feVIwRFBZQ09KOTQzSXBvc2o4d2poUlg3bkRBaUVXcThHMW9YUGY3QUdBUmJ6UXcxOWM1RkRXcnFQU0o0UmVhYWUzaWdfQThoTjVvb0lZdw?oc=5",
-      "publishedAt": "2026-11-05T02:50:22+08:00"
-    },
-    {
-      "title": "Morocco says it will uphold Western Sahara ceasefire after UN mission ends",
-      "source": "Internazionale",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSElFYk90VzhOU1Vady1vbmFDVzJRYlVsenhyMi1BTHJieDJrMWFyN2VFSWlDXzBCeks2SzZPQ3N0X3lWNU8zTkFQbXRIaGdzdkpQTGlYcFU0MnVfcnFVSTRIWmsxQjh0U3NteEFrNFg1LWphZV90c2NFUkRkWUVUUUJVVVo4ZVliWUJxYW5OZlp2dDVpTzY4b2xIdVdZUUtUdWZlR2dRLXQ2cExJbEVvbGxKUG1aeXRiak00Yjh3OFlvV0FNZUZraTkyOVZwSVZabGNZMA?oc=5",
-      "publishedAt": "2026-11-05T02:49:51+08:00"
-    },
-    {
-      "title": "Morocco King Presses for Peacekeeper Pullout From Western Sahara",
-      "source": "Bloomberg",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdlRrR2xndXFTWENKck8td0ltRUYtYXJ5QnFtWFp5NXEwNXpuVTVMSkJtTXFRWUM1N1M4MnpDbFRJaGFWSEFpWklkejJvMmtkalJETWdhLWVZV1FlaDFhazFLZmFrbGZkQmtSZmNlOXVfbHFhRHFoLW93RjZuT19NS3NLRTZtc0tqeDhiRGZIRkY4UzIxSXFOSkVEeXRqXzZWZVdSVzZSYmdZRElLbkdaMQ?oc=5",
-      "publishedAt": "2026-11-05T02:34:39+08:00"
-    },
-    {
-      "title": "Samsung Launches Digital Wallet Service in Morocco",
-      "source": "Morocco World News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWNHRFcwT285bFpuam14Vzc3OUFySE85eW9MOHRuOEZBei1kRk9fUTh1VWVBMWlpY2hXX2N4VHRKeDRVNm5fdFZpUWNFNkpkRnMyYm1TN01TNzVJeWp5MmRZa3hwLWlzX2J5anJnaTJBY2Uzd0lCY05UWFZKRGVBLURrenIzSW85QnJya1QtUllMYWNrZnVid0wtOHRsVlJv?oc=5",
-      "publishedAt": "2026-11-05T02:01:52+08:00"
-    },
-    {
-      "title": "Laprophan buys major Moroccan pharmacy player",
-      "source": "African Law & Business",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDFzQVI0M1RZR1NHOTZIVC1aVlJTZUdkdkNvc3VYS1diZURaYnVZUlI3bUVfREFHWEdyZ0cyRDhKNjFJekNYdUllSUZsRDlCR1Z3UjVuMTVwQTBkQjY2Q1o2Y2ROUHo3TU1LSzJWbjI4LUhXUFZZYlBIY0FUN1RpZndzUkh3QjJIZWdpQTMzUQ?oc=5",
-      "publishedAt": "2026-11-05T01:34:38+08:00"
     }
   ]
 }

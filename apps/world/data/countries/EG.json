@@ -1,15 +1,11 @@
 {
   "iso2": "EG",
   "name": "Egypt",
-  "updatedAt": "2026-11-05T05:05:01+08:00",
+  "updatedAt": "2026-11-05T11:09:47+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Cairo"
-    },
-    {
-      "label": "Population",
-      "value": "118,365,995 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,10 +26,40 @@
   ],
   "headlines": [
     {
+      "title": "Digital 2027: Egypt",
+      "source": "DataReportal – Global Digital Insights",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95RnAtNUxsR09lY1Q3OUpELTAtNlZRa3lOY3M0eDJFbVY3NFNkem1jeW9ka1F4MVpJVm9zLXk3V3M0VndCTWYtZlFpM2NXclJmZWpxdzV0Q0piREpMTDlVTg?oc=5",
+      "publishedAt": "2026-11-05T10:30:00+08:00"
+    },
+    {
+      "title": "Abercrombie & Kent’s new ship Nile Seray sets sail in Egypt",
+      "source": "travelweekly.com.au",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTmh2NWVYYlBpS1JwYjNoUmkwejhYaXdtUHR6TkRfOU5RT2VhN1JQc0FKMEZFbWFkck9qZlNlRVA3Y0ZtZmE2clQ3c2Qta0VVNVJfQ09obUVrdVpkbXg2R1gzTU9VV0ZadE1VbXV6SzcxYXJlanBSNVd0b0NucGZlUmp3YlkwZXc3MzZGVFJn?oc=5",
+      "publishedAt": "2026-11-05T08:15:52+08:00"
+    },
+    {
+      "title": "Why El-Sayed Victory May Not Alter Washington’s Relationship With Egypt",
+      "source": "The Media Line",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSkYxYVdsRVZhbGx6cHEtZEpUNnl3NDVBc1MwcmxMQ2tHVk9GemhKaEJnVFd4VFVEdzdFMF9YVktIMEJ2U0Z1cnhyNXdIUWRrWWFlTTBYenprZXRMNUZ5bW9vcF9hQVFnai1SNHBaTGxVUTBIQldvS0lsRjRTdjRoUVBxWWpCdE02UjhwN3Y5X1Rha21pZlhlY2Y0blJmWkZTVEx4TjBIelFORFZB?oc=5",
+      "publishedAt": "2026-11-05T07:00:23+08:00"
+    },
+    {
+      "title": "Souring Russia-Japan relations; why Egyptian mummies were used for medicine",
+      "source": "NPR",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnk4bFIyOVJSZG9aVXh3WldHM2lXdmp2NzlxUV95dTJVRUxLdmJiMWZjTTZjbDlXMVI2UmZvd3d2U1JJVWp5RWhLR2NpMnhFejdTaHdOc25RZ2Qtc3BCU3I0WE04U0FFcFZycEdBQWtZYnFiZ2dzRW9pZ0x6cDNnWDAyYkZMUkZvN0ZEaWJJQnNGUXRnU3c2NnZaaE1pdVU3b3JlcnE2WkdFVHVya1RLN1VvcGNCUHJyRFJ3?oc=5",
+      "publishedAt": "2026-11-05T06:32:49+08:00"
+    },
+    {
+      "title": "Egyptian doctor who undertook medical missions to Gaza will now go to US Congress",
+      "source": "Middle East Eye",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONUhMS29FZFdfckJZQTdlRy1iS25qdy1qeUc5ZG9XcGdaRlpSMWROc3Ayd0VaeHhhU2dScm9pekhmbV9sandFUHB3ck9jdXM1MWhJMjV2U2NGRl92LWJNYWRMVy0yN1oxcVQxSnJUZnBfS0ppTmxTRmRFNG9UQkU1U1BOQUNha09JeFA2eDltS1p6bnY4UTBReEJyUGNkMGY1TGFVWjl6OXVRWXdRNTZNNkNjVnBzNndSTHJlbnR3ZjRkTUVxWFdzcA?oc=5",
+      "publishedAt": "2026-11-05T05:48:00+08:00"
+    },
+    {
       "title": "Broken stone blocks in Egypt reveal the life story of Khuwy, an official of King Djedkare",
       "source": "Archaeology News Online Magazine",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY2tCcE9wMVhHWkIwMlpublM1VGdnZTJtNUtxZmFod3Q5ZWpyQmNTdk1GdndzYTN6dUFFX1ZtWjhmNzJ3MmFuTXJPTFRVVlU5cm9JVUNzWDY1NXd6bFpTNWxXZWlfWUxEQTVmUFdiQ1lWeXFzdHlieTNqZG1lSTNLM240Yw?oc=5",
-      "publishedAt": "2026-11-05T04:53:16+08:00"
+      "publishedAt": "2026-11-05T04:53:09+08:00"
     },
     {
       "title": "Egypt targets annual production of 100,000 electric vehicles by 2032",
@@ -46,36 +72,6 @@
       "source": "Daily News Egypt",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdk5GOEhMdzdrcWJvdW9aZ2xDTDBXZVF2dWNlUm1pcm8zN0RPVXh0Z1FBLUtCeDBMZV9wNGhqdlJsNlU5cmJTTThsNW1hTTVCVHVtYWVPOG05R2xQUjEwbVFvWU1sQ1RRR01CaGQwZFlUVFczclpVcFBIWGlwYmV2eWMtXzVzRXZZMUhNWEtGN2p0NVhUZHNkT3MtMVMwVUNGYkdGb1I1U1pETWI5M3FN?oc=5",
       "publishedAt": "2026-11-05T03:34:16+08:00"
-    },
-    {
-      "title": "Egyptian-Sudanese agreement to defend water security",
-      "source": "Egypt Independent",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN3lQMEVHS1E2M3BzT21MVjMyNTNYdERFdjg4ZlYtOV9iTHltTlZOZ0hiODM3U0ZfSmlSM2RtNG5vRmhuS2lsWHZjS0lDQjE1eFBjRlkzQVdqQWRCZTBqMThMaXhGdUNnMXp1OU1sYzZLMEIzbWlfcUtIMXhZSkh5dW91bFBVVEVoQ19ELXhFeE9JcUZQbFZfUEN5cmxwR1NKb0x2SHcwRkhtT2pJQkNDOU5nTGNWNE1zd2VjYXNUWjRlMEVIdTJYaGFXNWlFMGJHMVgzUA?oc=5",
-      "publishedAt": "2026-11-05T03:12:20+08:00"
-    },
-    {
-      "title": "Egypt expands hydraulic fracturing, horizontal drilling to boost oil, gas production",
-      "source": "Egyptian Gazette",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWDBMMWdSQVk2b0VKTnE5M29DdWxaLWR3NGZrNTNISzZBRndvTHNCRWlmVi14dDJORDNLNXZPYlJuQ3FEczJqSklZZnZpUlpiSFlrOHVQZmIyc1R4aC1LRWhuUDZLYXl0T3ltRDRIYnBhSXFTeWNtVjYwSnJNZEJzLUtxYUpMNmFSTndHTFlXU2FZbUxlZktwbDdyOWkzUmNUTUVMNHB6bFR0ZHJ4cmNQNUl4aVU2c0ZPeHc?oc=5",
-      "publishedAt": "2026-11-05T02:44:33+08:00"
-    },
-    {
-      "title": "Egypt, US Sign 5-Year $625M Framework To Boost Economic Ties",
-      "source": "Forbes Middle East",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMEl4QjMtYWhsT1k0MXNLeERSNTRVTEc4a1E4WXR2X0o3WWR1RDRwbS1GYlk5RnptVnFZUzJ0VmRxWmdGRTUzNWNuYURCRU40LWlkZE1KakRSbVIyNGRfc09EU1pEaXhSWUpEekx6eUlfenRCVmFaaTYwWlVubFl0ZlowS2ZaVFlBRE1RUXN4ZGFFRTA5Ym5BaTlFSQ?oc=5",
-      "publishedAt": "2026-11-05T02:36:06+08:00"
-    },
-    {
-      "title": "Egypt Advances Adoption of Hydraulic Fracturing, Horizontal Drilling Tech",
-      "source": "Egypt Oil & Gas",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdGdzcVJtR0NWcThBUS1lTGhVeVVwM2FBWWV3ZVlOV2lpY05mTzJhZjlRMkdaN2VFdFVjclpxdVlDSUZxNFhwOEx0dEtRY0pmR0hIT19Kak1EY2hWTHNNVWZmb3FpRzJKdkFKQnJDVExxLUZVdFNIM3dHNmNoZU5xNVdxUDY4a0hWbkNmbkRFSXF3RTRrTnZuNzFkM0ZJalRvOUJsSU93?oc=5",
-      "publishedAt": "2026-11-05T01:56:40+08:00"
-    },
-    {
-      "title": "Egypt beat UAE to win U17 Gulf Cup title",
-      "source": "Egyptian Gazette",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdnM0TnNOc1hGUXNRRFdNQXhHY0tLWTcydVcxaERNdmYzdFpsM0ROSUZ3b05MZVhQd3ByTXpyT0drTHBUS0hKX0tibmpjaThZdV9qR09HRHk0MUY5YmxaUUZIemkwdE5MNE9Xb3B4V25qV3JFMjh1c0MzUGIyX2U5NWo2WQ?oc=5",
-      "publishedAt": "2026-11-05T01:51:19+08:00"
     }
   ]
 }

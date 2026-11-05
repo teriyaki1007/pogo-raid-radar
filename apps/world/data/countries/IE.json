@@ -1,15 +1,11 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-11-05T05:05:01+08:00",
+  "updatedAt": "2026-11-05T11:09:47+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Dublin"
-    },
-    {
-      "label": "Population",
-      "value": "5,484,367 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -29,6 +25,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Major traffic disruption in Dublin during EU meetings",
+      "source": "RTE.ie",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZV9pWlZfaTIzbjNPY1dwbVVpZHl1MlVfYkJxRzhWSWhLS01haGRweU9iaXdFVllwSnFmRjBzTVdPU3lIWUd2X3MtWHFScElhVF8zRE1pVjZtYlkwcTF4WXN4MlM3cnhKLVQ3VU1ZUlpWc0N5X3pxNXBPcFRja1Z1WXRqUDNZaTB3dnE0?oc=5",
+      "publishedAt": "2026-11-05T05:11:58+08:00"
+    },
     {
       "title": "Major road, train, and security closures will be active on November 12–13 for a political summit in Dublin, Ireland; expect heightened security.",
       "source": "SafeAbroad",
@@ -69,13 +71,7 @@
       "title": "Major protest to take place in Dublin as part of Europe-wide Day of Action on Data Centres",
       "source": "Hotpress",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGZXX283MWlaeUhJVV9nWmp6TEJCWDhVUFBLNkt1SG1mQ2xyTDlpZWItbEl6dmNsdFhkcV96Wno1YmkwTlF4NnMzOXcyd0oxdmVpUm9ham9Dbm5fRTdrQVdHZ243b1NwcnFxdU52cDg0R29IeXU0TlVpZXc4elU3OENyM1lMRHh4UXNRZHRQbnktVnI1cGUzVDZPbkpnX2NuT0JiV0gwOVZvYk93RTcyX0ZzT0JXa2hVdUs0S1JaMExEZW5LeDFpelJxMFY?oc=5",
-      "publishedAt": "2026-11-05T01:08:05+08:00"
-    },
-    {
-      "title": "Number of women seeking support for homelessness and addiction has ‘exploded’ in Dublin, according to charity",
-      "source": "Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeE80VVBtdDEyV1BhczZXNndpblNfZjVFcGZtUUVWNGFuM21KN0lmakF1MUQzUDBsRGtVZXhfaDJTNy1Cd1A4bE42VlZwbHNzSjNTQW8yYjFzNTZ4T3Y5QS10VlRoeVotN1RnZGVJM084andlZWRJeWd4WFFxLVUyRkRHMGJ5Qy10M0F3S24yd0VXSE9XV25aeU94MER1Vlp3M2JHYjJrVDZhWlB6cFpPQUlJZW5PSFJLYnJRUmpDX3NlTHJwUm1OSDFUMVAyNjN0azMzUmZWWDdvMmFKYmZoVi1PMDVEQ1d2eXdUVkJyY1g3T0E?oc=5",
-      "publishedAt": "2026-11-05T00:59:00+08:00"
+      "publishedAt": "2026-11-05T01:28:37+08:00"
     }
   ]
 }

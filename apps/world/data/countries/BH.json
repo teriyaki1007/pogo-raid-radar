@@ -1,15 +1,11 @@
 {
   "iso2": "BH",
   "name": "Bahrain",
-  "updatedAt": "2026-11-05T05:05:01+08:00",
+  "updatedAt": "2026-11-05T11:09:47+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Manama"
-    },
-    {
-      "label": "Population",
-      "value": "1,600,366 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,16 +26,40 @@
   ],
   "headlines": [
     {
+      "title": "Iraq seeks to 'revive relationship' with Bahrain on first PM visit since 2003",
+      "source": "The National",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSjd1WmF2T05ZeUhkYUwzTnZDc1VmcWExYkF3UmlsOXE5dzFqZS1VVlp5TU0xOHRuUmY5Yy1xanpFUVFPS2dPVUY2RHdndWdJajBOWVhuTFdManQtaWdvQ2VhZVMzdEtPSTNoUnhNNGVyVEp6LUcwd0c2TTB5WGRjb0Z2VWI4aWQ5VGllWXZSQzN3RnI3UWJpZ0s2VW1vX1NmV0M0VXpYY1J3SWhYaDNldUpfWjFGRXM1TkdTbl9TaFA?oc=5",
+      "publishedAt": "2026-11-05T09:41:15+08:00"
+    },
+    {
+      "title": "Innovate for Bahrain Partners with Shaffra to Deploy Enterprise AI Employees Across Bahrain - News and Statistics",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNY3F6MjgtZVJ5ZGdpODVicUFZUDhUV2N5bmtnc1dMRTVpQWlncTBaTFpBZ2R4Q3VuTEVQUlZWcnItd2pyOS1wOEMzWXZNM1hSeWVFRTBibXVxVmJZQ0xxd2xsLWhKMVBiMUoyOHBobUI1Nm1vMXUtWS1aSmlRbXpoUHZXX3dDbkdCRllzYnl5QnZTaExIOGltYXd5WHFvbXFjWlVPMzFqWjlBSC1ZYXl1ZWZyemlyUHY1cnJSWEt3c1RVSTFxMXRWT3pJQnJ6RjhhZlFDYU1peWlzV0pqNXcwUnNGSFU?oc=5",
+      "publishedAt": "2026-11-05T06:10:52+08:00"
+    },
+    {
+      "title": "Iraq and Bahrain seek to expand economic partnership during al-Zaidi visit",
+      "source": "Middle East Online",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjc5S2xTNmU5VWwzejE4cXl5dXh6VG5fWVVfeFpJVE14TkRUTlBKaG5FbURxZ1JGT21VMGxici1HQkJjM1kzOHRRMGNtT2NjYjRDb1A3ckxkd0YwOFZTbzQ3YkRkOVhCRlRkVVZra0FsN284TGJTazIyOURwM1A4bGZFQjh5ZnN2T3NucTJ2WTVsekJJX3dYenZqb0ZkeXFuUUlxSWhYTXA?oc=5",
+      "publishedAt": "2026-11-05T05:15:22+08:00"
+    },
+    {
       "title": "Bahrain Business: Alba wins top MEIRA investor relations awards",
       "source": "Gulf Daily News (Bahrain)",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yT3dYZmJUQmlqdmxVNW01WVpWb1d0elJhNU40N0J1SWxrQTVyMVhjOTN3b3hmRVJTWE9Pa2pLMm9ySzlWNTVRVms2aHowbUJDWjdJ?oc=5",
-      "publishedAt": "2026-11-05T05:01:28+08:00"
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3liYWo1OF9WYVlGUlZwS1FtNWZkU3RFUVFLQS05YnI3ekkxWWtiREVEZkp4N2hnNll6azI4cGZ2NWVLOFJkZVQ3UXhvQW43Yzdlc3RhanB5Q0ZzQnhiS3JRUnAzc3BhM2NjODMySTU2cFR2aE1lczRIUGlSc1JBclVRTEo2SXFueFVIdjAxSEc?oc=5",
+      "publishedAt": "2026-11-05T05:05:12+08:00"
+    },
+    {
+      "title": "Bahrain Business: BBK launches green toolkit",
+      "source": "Gulf Daily News (Bahrain)",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SZ3hVb2VKN0RPY2Z6bnlwMURwVi1vX0ppazYtcGtxUUNOczl4RUtJem8zeVhNaEU1Q3BMSWl2a2I3S2lEV2xCb2doOGdNdEptU0FMaXNGaW10cm1GbmZJck15a2NkN2lxb29YejVVVTQwTktEeUNR?oc=5",
+      "publishedAt": "2026-11-05T05:05:09+08:00"
     },
     {
       "title": "Bahrain Health Insurance Program for Residents Now in Effect",
       "source": "Erickson Immigration Group",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcE1hZm5EWE5Bb2hrSjFqdFBQQ0NwVGVaWDlyaWdKQk8tZ0hhbmpVVjFmcFk2c3hLZ2F0N0lseW9TcEE5RVpkd2tHUzdGTk1LVG9iZ2pyNjF3QVFGR0tlb0ExU200Qm85WmdjRHFNb3RLbktTZURRb3U2MGRqVThZdEhmSUNveGc?oc=5",
-      "publishedAt": "2026-11-05T04:46:52+08:00"
+      "publishedAt": "2026-11-05T04:56:19+08:00"
     },
     {
       "title": "Crown Prince receives Bahraini National Security Advisor",
@@ -52,30 +72,6 @@
       "source": "Fana News -",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMG5XWHRSaTgwRk11S1NQWnAyckRtX25DYklfcy1adU5nVG5rcExQQUlzbS1yZHE0TDJ1R0Q1X2FlRHhaRUU1bWs0UnhZYjhVbG9CaDFxRFMtNmkyaTBPMW91UTl6T0phME0tbHlVU1FZMWxBNlJWZ0QzbV9pbFZDOEUtaWg?oc=5",
       "publishedAt": "2026-11-05T03:35:09+08:00"
-    },
-    {
-      "title": "Bahrain's Gateway Gulf 2026 Unveils USD 22.3 Billion in Strategic Announcements, Partnerships, and Deals",
-      "source": "Morningstar",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbTBXSlA4STFKV2hyWG9lLU9VZmE4djFteEt1eG5NZG90ei1jZEpBV3F2YWJUc1FaSnJQdy1QalNsTlljcElnWFVrdkhoUDdBcUl4alZndjRjTEZmclRRWHQ4TGJiSDlXeW10SU9CNWI4WnR3a1RsS1BUcGtsLTFTUDdwTW5pdHVaSUhwMUhNUXdsZmJhVl9HaWhSSTdqZlg4YUJOb2lQa3Z6MmE4dHpsNE9mUkd0N3MzYWxHTFREUk5mS1NQN0tkcm1UcnczUWlSamVUWW9rMnI1dW9iVUxxcTZYUjFKcU96V0p0cmRlcjJzeTg?oc=5",
-      "publishedAt": "2026-11-05T03:00:00+08:00"
-    },
-    {
-      "title": "Bahraini MP: Al-Zaydi’s Visit Carries Significant Political Implications and Bolsters Iraq’s Re-engagement with the Arab World » Iraqi News Agency",
-      "source": "وكالة الانباء العراقية (واع)",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUGdXNmJMNHp5TVpDSHgzQjVXNGNCcmxHbE0za1lSRVlMRjBzaTdEQ1hTSkhQaXQ5UHRPV2kxZ0JEVXc1Wl9nVENyVkhqS1B5QURNTzBFQlV4X1pLQ0RSUUdGVmhPd3VCYVZrcTZwNEw2eWh6a2FtVGNYTV8wSU5TQThfN3dmalZ2T0tjVXc3NmhzUFdsbks5RF9xb1daMkp0eUhZaWZPLVZ0VjlZYmZCUlg3Y0swWmkzbVVxeVlDSGstbkFURW9uVWpTbWNYOUctSmx5NWhybFJ5TTZ2TmUwdnFEbHBVWnNvMFNORHJobi1nMHdSaTJOT3p3?oc=5",
-      "publishedAt": "2026-11-05T02:55:19+08:00"
-    },
-    {
-      "title": "Saudi crown prince receives Bahrain national security advisor in Riyadh",
-      "source": "Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUXVGVmtxQWFJQWRLUi1JQmpDMlI2Sm1sdVBWNTQtdFk3ZFVBSnlKWTVMWGdfRWJYZnVvellrRzJJeTNzUG9IVHRMeHBiTU1CVGxPY0xmcWZCVEE5alBzZnhnRzZmdGw2OHVxMG5KZEFRWmlqVUE5bmhRakFqdHBYdkVJcC03R0NfOE9zYXltQ1pHejdVaVpsRllKdWdXX3k0b1VYRE9iWXAwSlVmelZXNkpXX1VNeGo0?oc=5",
-      "publishedAt": "2026-11-05T02:52:31+08:00"
-    },
-    {
-      "title": "BisB Wins ‘Best ESG Bank Bahrain 2026’ at World Business Outlook Awards",
-      "source": "News of Bahrain",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ0tYQThWdmE2TS04cEtzM2hNcUVpaGRDd1BkNF83RWo2amI2eTZEcW80SGtVRHctV2w5bUlQaXhIYUlrNEZpSURjb2lYQXJFSGtrVmtCb1dHVXRRTG9qbk1DSGJzVU9zRTRPdjNxekVtbjhlRklEWmdiYkxIdnd6ZlcxTWx4YzhzdnhTY1NIQUcyYnFZZXFxcU1sU21PSFBYRW5ZN1JtWXFWUFBtN3VF?oc=5",
-      "publishedAt": "2026-11-05T01:32:20+08:00"
     }
   ]
 }
