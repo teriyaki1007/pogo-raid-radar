@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-11-05",
-    "asOfLabel": "5 Nov 2026 ~10:35 PM HKT",
+    "asOf": "2026-11-06",
+    "asOfLabel": "6 Nov 2026 ~6:30 AM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Halloween 2026 Part II ENDED Thu 5 Nov 8:00 PM local; Teddiursa (witch hat) Spotlight ENDED after 7:00 PM. Costume 1★ Pikachu (hat+capelet) + Sinistea (bow) and ghosty 3★ Cofagrigus / Trevenant / Dhelmise still listed LIVE through the Altered Giratina window → Sun 8 Nov ~10:00 PM (GO Hub current bosses Nov 4–8; GogoRaid “end not announced”; Snack Nap still lists them — morning “ends with Part II” hard cut corrected; no inventing a new global 1★/3★). Still LIVE: Altered Giratina 5★ + Mega Sableye → Sun 8 Nov 10:00 PM + Shadow Tornadus (Incarnate) 5★ weekends (first window → Sun 8 Nov 10:00 PM; longer package Mon 16 Nov → Tue 1 Dec). Shadow 1★ (Gastly / Totodile / Shieldon / Gible) + Shadow 3★ (Primeape / Kirlia / Drapion) per Leek Duck/ScrapedDuck + Halloween Part II guides (GO Hub lists an alternate Shadow 1★/3★ pool — not swapping while this set is still posted). Festival of Lights India-only saree/kurta 1★ starts Fri 6 Nov 10:00 AM (not a global replacement). Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive for new radars) unchanged. Leek Duck raid-bosses / ScrapedDuck still stale on Origin/Landorus.",
-      "endsAtLabel": "Halloween Part II ENDED Thu 5 Nov 8:00 PM · Teddiursa Spotlight ENDED · costume 1★ + ghosty 3★ still listed → Sun 8 Nov ~10:00 PM (GO Hub) · Giratina (Altered) + Mega Sableye + Shadow Tornadus first window → Sun 8 Nov 10:00 PM · Festival of Lights India Fri 6–Sun 8 Nov"
+      "text": "Morning 6 Nov: global 1★ rotated (Leek Duck raid-bosses + ScrapedDuck live scrape) — costume Pikachu (hat+capelet) + Sinistea (bow) ENDED after Thu night; now LIVE 1★ Duskull / Frillish / Frillish (Female) / Litwick since Fri 6 Nov 6:00 AM local through the Altered Giratina window → Sun 8 Nov ~10:00 PM. Ghosty 3★ Cofagrigus / Trevenant / Dhelmise still LIVE alongside. Still LIVE: Altered Giratina 5★ + Mega Sableye → Sun 8 Nov 10:00 PM + Shadow Tornadus (Incarnate) 5★ weekends (first window → Sun 8 Nov 10:00 PM; longer package Mon 16 Nov → Tue 1 Dec). Shadow 1★ (Gastly / Totodile / Shieldon / Gible) + Shadow 3★ (Primeape / Kirlia / Drapion) per Leek Duck/ScrapedDuck (GO Hub still lists an alternate Shadow 1★/3★ and stale costume 1★ — not swapping while Leek Duck/ScrapedDuck show this set). Festival of Lights India-only saree/kurta 1★ starts Fri 6 Nov 10:00 AM India local → Sun 8 Nov 8:00 PM (not a global replacement; still upcoming at this HKT morning check). Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged. ScrapedDuck shadow 5★ still stale on Landorus.",
+      "endsAtLabel": "Global 1★ → Duskull/Frillish/Litwick LIVE Fri 6 Nov 6:00 AM · ghosty 3★ + Giratina (Altered) + Mega Sableye + Shadow Tornadus first window → Sun 8 Nov 10:00 PM · Festival of Lights India Fri 6 Nov 10:00 AM–Sun 8 Nov 8:00 PM"
     },
     "legend": {
       "standard": {
@@ -200,101 +200,56 @@
       {
         "name": "GogoRaid — Current raids",
         "url": "https://www.gogoraid.com/en/raids"
+      },
+      {
+        "name": "GO Hub — Duskull counters",
+        "url": "https://db.pokemongohub.net/pokemon/355/counters"
+      },
+      {
+        "name": "GO Hub — Frillish counters",
+        "url": "https://db.pokemongohub.net/pokemon/592/counters"
+      },
+      {
+        "name": "GO Hub — Litwick counters",
+        "url": "https://db.pokemongohub.net/pokemon/607/counters"
+      },
+      {
+        "name": "GO Hub — Frillish raid guide",
+        "url": "https://pokemongohub.net/post/guide/frillish-raid-guide/"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
   },
   "bosses": [
     {
-      "id": "pikachu-hat-capelet-halloween2026",
-      "name": "Pikachu wearing a hat and capelet",
-      "form": "Halloween 2026 costume",
-      "species": "Pikachu",
-      "catchForm": "Hat and capelet",
+      "id": "duskull-nov6",
+      "name": "Duskull",
+      "form": null,
+      "species": "Duskull",
+      "catchForm": null,
       "tier": "1",
       "tierLabel": "1★",
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (GO Hub Halloween Part Two rotation with Altered Giratina; continues past Part II end) · costume debuted Halloween 2026 Part I",
-      "windowStart": "2026-10-27T10:00:00",
+      "window": "Fri 6 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck with Altered Giratina window)",
+      "windowStart": "2026-11-06T06:00:00",
       "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
-      "shinyRate": "not published (costume debut; official: shiny available)",
+      "shinyRate": "not published",
       "hundoRate": "1/216",
       "ivFloor": "10/10/10",
-      "cpL20": 536,
-      "cpL25": 670,
-      "weather": [
-        "Rainy"
-      ],
-      "sprite": {
-        "pokeapiId": 25,
-        "url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/pikachu-hat-capelet.png",
-        "form": "halloween-2026"
-      },
-      "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
-      "notes": "Still LIVE past Halloween Part II end — GO Hub current bosses lists Halloween Part Two 1★ with Altered Giratina through Sun 8 Nov ~10:00 PM; GogoRaid shows end not announced; Snack Nap (5 Nov) still lists costume 1★. Official Part II page tied them to the event, but live trackers have not rotated. Shiny-eligible costume (hat+capelet). Hundo 1/216. Festival of Lights India-only saree/kurta 1★ is separate (Fri 6–Sun 8 Nov).",
-      "types": [
-        "Electric"
-      ],
-      "weakTo": [
-        "Ground"
-      ],
-      "counters": [
-        {
-          "name": "Primal Groudon",
-          "moves": "Mud Shot / Precipice Blades"
-        },
-        {
-          "name": "Therian Landorus",
-          "moves": "Mud Shot / Sandsear Storm"
-        },
-        {
-          "name": "Excadrill",
-          "moves": "Mud-Slap / Scorching Sands"
-        },
-        {
-          "name": "Shadow Rhyperior",
-          "moves": "Mud-Slap / Earthquake"
-        },
-        {
-          "name": "Groudon",
-          "moves": "Mud Shot / Precipice Blades"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "sinistea-bow-halloween2026",
-      "name": "Sinistea wearing a bow",
-      "form": "Halloween 2026 costume",
-      "species": "Sinistea",
-      "catchForm": "Bow",
-      "tier": "1",
-      "tierLabel": "1★",
-      "category": "current",
-      "isShadow": false,
-      "isMega": false,
-      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (GO Hub Halloween Part Two rotation with Altered Giratina; continues past Part II end) · costume debuted Halloween 2026 Part I",
-      "windowStart": "2026-10-27T10:00:00",
-      "windowEnd": "2026-11-08T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published (costume debut; official: shiny available)",
-      "hundoRate": "1/216",
-      "ivFloor": "10/10/10",
-      "cpL20": 650,
-      "cpL25": 813,
+      "cpL20": 403,
+      "cpL25": 504,
       "weather": [
         "Fog"
       ],
       "sprite": {
-        "pokeapiId": 854,
-        "url": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-10-27-halloween-2026-part-1/sinistea-bow.png",
-        "form": "halloween-2026"
+        "pokeapiId": 355,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png"
       },
-      "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
-      "notes": "Still LIVE past Halloween Part II end — GO Hub current bosses lists Halloween Part Two 1★ with Altered Giratina through Sun 8 Nov ~10:00 PM; GogoRaid shows end not announced; Snack Nap (5 Nov) still lists costume Sinistea. Official Part II page tied them to the event, but live trackers have not rotated. Shiny-eligible costume (bow). Hundo 1/216.",
+      "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm355.icon.png",
+      "notes": "LIVE since Fri 6 Nov 6:00 AM local (Leek Duck raid-bosses + ScrapedDuck). Replaced Halloween costume 1★ Pikachu/Sinistea. Pure Ghost — easy solo. Shiny-eligible. Hundo 1/216. CP 364–403 (456–504 Fog).",
       "types": [
         "Ghost"
       ],
@@ -304,27 +259,236 @@
       ],
       "counters": [
         {
+          "name": "Dawn Wings Necrozma",
+          "moves": "Psycho Cut / Moongeist Beam"
+        },
+        {
           "name": "Mega Gengar",
           "moves": "Lick / Shadow Ball"
         },
         {
-          "name": "Darkrai",
-          "moves": "Snarl / Shadow Ball"
+          "name": "Shadow Darkrai",
+          "moves": "Snarl / Foul Play"
         },
         {
-          "name": "Shadow Tyranitar",
-          "moves": "Bite / Brutal Swing"
-        },
-        {
-          "name": "Giratina (Origin)",
-          "moves": "Shadow Claw / Shadow Ball"
-        },
-        {
-          "name": "Hisuian Typhlosion",
+          "name": "Mega Chandelure",
           "moves": "Hex / Shadow Ball"
+        },
+        {
+          "name": "Mega Absol",
+          "moves": "Snarl / Brutal Swing"
+        },
+        {
+          "name": "Mega Houndoom",
+          "moves": "Snarl / Foul Play"
         }
       ],
-      "countersSource": "type"
+      "countersSource": "GO Hub Duskull counters (db.pokemongohub.net/pokemon/355/counters)"
+    },
+    {
+      "id": "frillish-nov6",
+      "name": "Frillish",
+      "form": "Male",
+      "species": "Frillish",
+      "catchForm": "Male",
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Fri 6 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck with Altered Giratina window)",
+      "windowStart": "2026-11-06T06:00:00",
+      "windowEnd": "2026-11-08T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 718,
+      "cpL25": 898,
+      "weather": [
+        "Rainy",
+        "Fog"
+      ],
+      "sprite": {
+        "pokeapiId": 592,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png"
+      },
+      "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm592.icon.png",
+      "notes": "LIVE since Fri 6 Nov 6:00 AM local (Leek Duck / ScrapedDuck). Male Frillish listed separately from Female. Water/Ghost — easy solo. Shiny-eligible. Hundo 1/216. CP 668–718 (835–898 Rainy/Fog).",
+      "types": [
+        "Water",
+        "Ghost"
+      ],
+      "weakTo": [
+        "Ghost",
+        "Dark",
+        "Electric",
+        "Grass"
+      ],
+      "counters": [
+        {
+          "name": "Dawn Wings Necrozma",
+          "moves": "Psycho Cut / Moongeist Beam"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Mega Absol",
+          "moves": "Snarl / Brutal Swing"
+        },
+        {
+          "name": "Mega Manectric",
+          "moves": "Thunder Fang / Wild Charge"
+        },
+        {
+          "name": "Kartana",
+          "moves": "Razor Leaf / Leaf Blade"
+        },
+        {
+          "name": "Xurkitree",
+          "moves": "Thunder Shock / Discharge"
+        }
+      ],
+      "countersSource": "GO Hub Frillish counters + Frillish raid guide"
+    },
+    {
+      "id": "frillish-female-nov6",
+      "name": "Frillish (Female)",
+      "form": "Female",
+      "species": "Frillish",
+      "catchForm": "Female",
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Fri 6 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck with Altered Giratina window)",
+      "windowStart": "2026-11-06T06:00:00",
+      "windowEnd": "2026-11-08T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 718,
+      "cpL25": 898,
+      "weather": [
+        "Rainy",
+        "Fog"
+      ],
+      "sprite": {
+        "pokeapiId": 592,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592-female.png"
+      },
+      "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm592.fFEMALE.icon.png",
+      "notes": "LIVE since Fri 6 Nov 6:00 AM local (Leek Duck / ScrapedDuck lists Female separately). Same Water/Ghost typing and counters as male. Shiny-eligible. Hundo 1/216. CP 668–718 (835–898 Rainy/Fog).",
+      "types": [
+        "Water",
+        "Ghost"
+      ],
+      "weakTo": [
+        "Ghost",
+        "Dark",
+        "Electric",
+        "Grass"
+      ],
+      "counters": [
+        {
+          "name": "Dawn Wings Necrozma",
+          "moves": "Psycho Cut / Moongeist Beam"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Mega Absol",
+          "moves": "Snarl / Brutal Swing"
+        },
+        {
+          "name": "Mega Manectric",
+          "moves": "Thunder Fang / Wild Charge"
+        },
+        {
+          "name": "Kartana",
+          "moves": "Razor Leaf / Leaf Blade"
+        },
+        {
+          "name": "Xurkitree",
+          "moves": "Thunder Shock / Discharge"
+        }
+      ],
+      "countersSource": "GO Hub Frillish counters + Frillish raid guide (same typing as male)"
+    },
+    {
+      "id": "litwick-nov6",
+      "name": "Litwick",
+      "form": null,
+      "species": "Litwick",
+      "catchForm": null,
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Fri 6 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck with Altered Giratina window)",
+      "windowStart": "2026-11-06T06:00:00",
+      "windowEnd": "2026-11-08T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 575,
+      "cpL25": 719,
+      "weather": [
+        "Fog",
+        "Sunny"
+      ],
+      "sprite": {
+        "pokeapiId": 607,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png"
+      },
+      "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm607.icon.png",
+      "notes": "LIVE since Fri 6 Nov 6:00 AM local (Leek Duck / ScrapedDuck). Ghost/Fire — easy solo. Shiny-eligible. Hundo 1/216. CP 530–575 (663–719 Fog/Sunny).",
+      "types": [
+        "Ghost",
+        "Fire"
+      ],
+      "weakTo": [
+        "Ghost",
+        "Dark",
+        "Water",
+        "Ground",
+        "Rock"
+      ],
+      "counters": [
+        {
+          "name": "Dawn Wings Necrozma",
+          "moves": "Psycho Cut / Moongeist Beam"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Mega Greninja",
+          "moves": "Water Shuriken / Hydro Cannon"
+        },
+        {
+          "name": "Shadow Darkrai",
+          "moves": "Snarl / Foul Play"
+        }
+      ],
+      "countersSource": "GO Hub Litwick counters (db.pokemongohub.net/pokemon/607/counters)"
     },
     {
       "id": "mega-sableye-oct28",
@@ -400,7 +564,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (GO Hub Halloween Part Two rotation with Altered Giratina; continues past Part II end)",
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck still listing with Altered Giratina; continues past Halloween Part II)",
       "windowStart": "2026-11-04T06:00:00",
       "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
@@ -416,7 +580,7 @@
         "pokeapiId": 563,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
       },
-      "notes": "Still LIVE past Halloween Part II end — GO Hub current bosses lists ghosty 3★ Cofagrigus with Altered Giratina through Sun 8 Nov ~10:00 PM (Halloween Part Two rotation); GogoRaid end not announced; Snack Nap (5 Nov) still lists them. Morning “→ Thu 5 Nov 8:00 PM” hard cut corrected. Shiny-eligible. Hundo 1/216.",
+      "notes": "Still LIVE through Altered Giratina window → Sun 8 Nov ~10:00 PM (Leek Duck raid-bosses + ScrapedDuck 6 Nov morning). Costume 1★ rotated out Fri 6 Nov 6:00 AM; ghosty 3★ stayed. Shiny-eligible. Hundo 1/216.",
       "types": [
         "Ghost"
       ],
@@ -463,7 +627,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (GO Hub Halloween Part Two rotation with Altered Giratina; continues past Part II end)",
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck still listing with Altered Giratina; continues past Halloween Part II)",
       "windowStart": "2026-11-04T06:00:00",
       "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
@@ -480,7 +644,7 @@
         "pokeapiId": 709,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png"
       },
-      "notes": "Still LIVE past Halloween Part II end — GO Hub current bosses lists ghosty 3★ Trevenant with Altered Giratina through Sun 8 Nov ~10:00 PM (Halloween Part Two rotation); GogoRaid end not announced; Snack Nap (5 Nov) still lists them. Morning “→ Thu 5 Nov 8:00 PM” hard cut corrected. Shiny-eligible. Hundo 1/216.",
+      "notes": "Still LIVE through Altered Giratina window → Sun 8 Nov ~10:00 PM (Leek Duck raid-bosses + ScrapedDuck 6 Nov morning). Costume 1★ rotated out Fri 6 Nov 6:00 AM; ghosty 3★ stayed. Shiny-eligible. Hundo 1/216.",
       "types": [
         "Ghost",
         "Grass"
@@ -531,7 +695,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (GO Hub Halloween Part Two rotation with Altered Giratina; continues past Part II end)",
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck still listing with Altered Giratina; continues past Halloween Part II)",
       "windowStart": "2026-11-04T06:00:00",
       "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
@@ -548,7 +712,7 @@
         "pokeapiId": 781,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png"
       },
-      "notes": "Still LIVE past Halloween Part II end — GO Hub current bosses lists ghosty 3★ Dhelmise with Altered Giratina through Sun 8 Nov ~10:00 PM (Halloween Part Two rotation); GogoRaid end not announced; Snack Nap (5 Nov) still lists them. Morning “→ Thu 5 Nov 8:00 PM” hard cut corrected. Shiny-eligible. Hundo 1/216.",
+      "notes": "Still LIVE through Altered Giratina window → Sun 8 Nov ~10:00 PM (Leek Duck raid-bosses + ScrapedDuck 6 Nov morning). Costume 1★ rotated out Fri 6 Nov 6:00 AM; ghosty 3★ stayed. Shiny-eligible. Hundo 1/216.",
       "types": [
         "Ghost",
         "Grass"
@@ -616,7 +780,7 @@
         "pokeapiId": 487,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
       },
-      "notes": "LIVE since Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck event + GO Hub schedule). Replaced Origin Forme after overnight gap. Shiny-eligible. Hundo CP 1931 (2414 Fog/Windy). Raid Hour Wed 4 Nov 6–7 PM ENDED. Same Ghost/Dragon typing as Origin (bulkier DEF/HP). Ghosty 3★ Cofagrigus / Trevenant / Dhelmise restored as still LIVE through Halloween Part II (GO Hub + Snack Nap Nov 4). Mega Sableye runs alongside through Sun 8 Nov.",
+      "notes": "LIVE since Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck event + GO Hub schedule). Shiny-eligible. Hundo CP 1931 (2414 Fog/Windy). Raid Hour Wed 4 Nov 6–7 PM ENDED. Global 1★ rotated Fri 6 Nov 6:00 AM to Duskull/Frillish/Litwick; ghosty 3★ Cofagrigus/Trevenant/Dhelmise still LIVE alongside. Mega Sableye through Sun 8 Nov.",
       "types": [
         "Ghost",
         "Dragon"
@@ -1428,15 +1592,15 @@
       "id": "halloween-2026-part-2",
       "when": "Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM local (ENDED)",
       "title": "Halloween 2026 Part II (ENDED)",
-      "impact": "ENDED Thu 5 Nov 8:00 PM local. Spawns / Field Research / GO Pass Halloween bonuses closed (claim unlocked GO Pass rewards by Sat 7 Nov 8:00 PM). Costume 1★ + ghosty 3★ still listed on GO Hub / GogoRaid / Snack Nap through the Altered Giratina window → Sun 8 Nov ~10:00 PM — kept LIVE, not swapped to an invented pool. Altered Giratina 5★ + Mega Sableye continue → Sun 8 Nov 10:00 PM.",
+      "impact": "ENDED Thu 5 Nov 8:00 PM local. Spawns / Field Research / GO Pass Halloween bonuses closed (claim unlocked GO Pass rewards by Sat 7 Nov 8:00 PM). Costume 1★ Pikachu/Sinistea rotated out Fri 6 Nov 6:00 AM (Leek Duck/ScrapedDuck → Duskull/Frillish/Litwick). Ghosty 3★ still LIVE through Altered Giratina window → Sun 8 Nov ~10:00 PM.",
       "urgent": false
     },
     {
       "id": "festival-of-lights-2026",
-      "when": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM local (upcoming · India only)",
-      "title": "Festival of Lights 2026 (upcoming · India only)",
-      "impact": "India-exclusive starting Fri 6 Nov 10:00 AM. Confirmed 1★: Pikachu wearing a saree + Pikachu wearing a kurta (shiny / Special Background possible). Not a global raid rotation replacement after Halloween Part II.",
-      "urgent": false
+      "when": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM India local (starts today · India only)",
+      "title": "Festival of Lights 2026 (starts today · India only)",
+      "impact": "India-exclusive starting Fri 6 Nov 10:00 AM India local (still upcoming at ~6:30 AM HKT / ~4:00 AM IST). Confirmed 1★: Pikachu wearing a saree + Pikachu wearing a kurta (shiny / Special Background possible). Not a global raid rotation replacement — global 1★ is Duskull/Frillish/Litwick.",
+      "urgent": true
     },
     {
       "id": "shadow-weekend-oct31",
@@ -1456,7 +1620,7 @@
       "id": "giratina-altered-nov4",
       "when": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local (LIVE)",
       "title": "Giratina (Altered) 5★ (LIVE)",
-      "impact": "LIVE since Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck). Shiny-eligible. Hundo CP 1931 / 2414 Fog or Windy. Raid Hour Wed 4 Nov 6–7 PM ENDED. Costume 1★ + ghosty 3★ still listed alongside through this window (GO Hub).",
+      "impact": "LIVE since Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck). Shiny-eligible. Hundo CP 1931 / 2414 Fog or Windy. Raid Hour Wed 4 Nov 6–7 PM ENDED. Global 1★ now Duskull/Frillish/Litwick; ghosty 3★ still listed alongside through this window.",
       "urgent": true
     },
     {
@@ -1479,6 +1643,13 @@
       "title": "Spotlight: Teddiursa wearing a witch hat (ENDED)",
       "impact": "Spotlight Hour ended after 7:00 PM local on Thu 5 Nov. Was wild spotlight only (2× Evolution XP) — not a raid list change (Leek Duck).",
       "urgent": false
+    },
+    {
+      "id": "global-1star-nov6",
+      "when": "Fri 6 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (LIVE)",
+      "title": "Global 1★ rotation: Duskull / Frillish / Litwick (LIVE)",
+      "impact": "Leek Duck raid-bosses + ScrapedDuck rotated costume Halloween 1★ out at Fri 6 Nov 6:00 AM local. Now: Duskull, Frillish, Frillish (Female), Litwick. Ghosty 3★ unchanged. GO Hub current-bosses page still stale on costume 1★ (last edit Nov 3).",
+      "urgent": true
     }
   ]
 }
