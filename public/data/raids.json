@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-11-05",
-    "asOfLabel": "5 Nov 2026 ~6:35 AM HKT",
+    "asOfLabel": "5 Nov 2026 ~10:35 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "LAST DAY: Halloween 2026 Part II costume 1★ Pikachu (hat+capelet) + Sinistea (bow) + ghosty 3★ Cofagrigus / Trevenant / Dhelmise → Thu 5 Nov 8:00 PM. Tonight also: Teddiursa (witch hat) Spotlight Hour 6:00–7:00 PM (2× Evolution XP). Still LIVE past tonight: Altered Giratina 5★ + Mega Sableye → Sun 8 Nov 10:00 PM + Shadow Tornadus (Incarnate) 5★ weekends (first window → Sun 8 Nov 10:00 PM; longer package Mon 16 Nov → Tue 1 Dec). Shadow 1★ (Gastly / Totodile / Shieldon / Gible) + Shadow 3★ (Primeape / Kirlia / Drapion) per Nintendo Wire / Halloween Part II + Leek Duck/ScrapedDuck (GO Hub lists an alternate Shadow 1★/3★ pool — not swapping while Part II is live). Restored ghosty 3★ after GO Hub current + Snack Nap (updated 4 Nov) still list them; Nintendo Wire → Tue 3 Nov 10:00 PM end date looks incorrect. Raid Hour Wed 4 Nov ENDED. Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive for new radars) unchanged. No global post–8 PM 1★/3★ rotation posted yet (Festival of Lights is India-only).",
-      "endsAtLabel": "Halloween Part II / costume 1★ + ghosty 3★ → Thu 5 Nov 8:00 PM (ENDS TONIGHT) · Teddiursa Spotlight tonight 6–7 PM · Giratina (Altered) + Mega Sableye + Shadow Tornadus first window → Sun 8 Nov 10:00 PM · Raid Hour ENDED Wed 4 Nov 7:00 PM"
+      "text": "Halloween 2026 Part II ENDED Thu 5 Nov 8:00 PM local; Teddiursa (witch hat) Spotlight ENDED after 7:00 PM. Costume 1★ Pikachu (hat+capelet) + Sinistea (bow) and ghosty 3★ Cofagrigus / Trevenant / Dhelmise still listed LIVE through the Altered Giratina window → Sun 8 Nov ~10:00 PM (GO Hub current bosses Nov 4–8; GogoRaid “end not announced”; Snack Nap still lists them — morning “ends with Part II” hard cut corrected; no inventing a new global 1★/3★). Still LIVE: Altered Giratina 5★ + Mega Sableye → Sun 8 Nov 10:00 PM + Shadow Tornadus (Incarnate) 5★ weekends (first window → Sun 8 Nov 10:00 PM; longer package Mon 16 Nov → Tue 1 Dec). Shadow 1★ (Gastly / Totodile / Shieldon / Gible) + Shadow 3★ (Primeape / Kirlia / Drapion) per Leek Duck/ScrapedDuck + Halloween Part II guides (GO Hub lists an alternate Shadow 1★/3★ pool — not swapping while this set is still posted). Festival of Lights India-only saree/kurta 1★ starts Fri 6 Nov 10:00 AM (not a global replacement). Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive for new radars) unchanged. Leek Duck raid-bosses / ScrapedDuck still stale on Origin/Landorus.",
+      "endsAtLabel": "Halloween Part II ENDED Thu 5 Nov 8:00 PM · Teddiursa Spotlight ENDED · costume 1★ + ghosty 3★ still listed → Sun 8 Nov ~10:00 PM (GO Hub) · Giratina (Altered) + Mega Sableye + Shadow Tornadus first window → Sun 8 Nov 10:00 PM · Festival of Lights India Fri 6–Sun 8 Nov"
     },
     "legend": {
       "standard": {
@@ -196,6 +196,10 @@
       {
         "name": "GO Hub — Festival of Lights 2026 (India)",
         "url": "https://pokemongohub.net/post/event/pokemon-go-festival-of-lights-2026-india-exclusive-event/"
+      },
+      {
+        "name": "GogoRaid — Current raids",
+        "url": "https://www.gogoraid.com/en/raids"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
@@ -212,9 +216,9 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Halloween 2026 Part I + Part II · Tue 27 Oct 10:00 AM – Thu 5 Nov 8:00 PM local (ENDS TONIGHT)",
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (GO Hub Halloween Part Two rotation with Altered Giratina; continues past Part II end) · costume debuted Halloween 2026 Part I",
       "windowStart": "2026-10-27T10:00:00",
-      "windowEnd": "2026-11-05T20:00:00",
+      "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
       "shinyRate": "not published (costume debut; official: shiny available)",
       "hundoRate": "1/216",
@@ -230,7 +234,7 @@
         "form": "halloween-2026"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
-      "notes": "Halloween costume 1★ — LIVE LAST DAY through Part II end Thu 5 Nov 8:00 PM local (official + Leek Duck / GO Hub). Grab shinies today. After 8 PM: no global replacement posted yet (Festival of Lights 1★ saree/kurta is India-only Fri 6–Sun 8 Nov). Altered Giratina 5★ + Mega Sableye continue past tonight.",
+      "notes": "Still LIVE past Halloween Part II end — GO Hub current bosses lists Halloween Part Two 1★ with Altered Giratina through Sun 8 Nov ~10:00 PM; GogoRaid shows end not announced; Snack Nap (5 Nov) still lists costume 1★. Official Part II page tied them to the event, but live trackers have not rotated. Shiny-eligible costume (hat+capelet). Hundo 1/216. Festival of Lights India-only saree/kurta 1★ is separate (Fri 6–Sun 8 Nov).",
       "types": [
         "Electric"
       ],
@@ -272,9 +276,9 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Halloween 2026 Part I + Part II · Tue 27 Oct 10:00 AM – Thu 5 Nov 8:00 PM local (ENDS TONIGHT)",
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (GO Hub Halloween Part Two rotation with Altered Giratina; continues past Part II end) · costume debuted Halloween 2026 Part I",
       "windowStart": "2026-10-27T10:00:00",
-      "windowEnd": "2026-11-05T20:00:00",
+      "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
       "shinyRate": "not published (costume debut; official: shiny available)",
       "hundoRate": "1/216",
@@ -290,7 +294,7 @@
         "form": "halloween-2026"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/854.png",
-      "notes": "Halloween costume 1★ — LIVE LAST DAY through Part II end Thu 5 Nov 8:00 PM local (official + Leek Duck / GO Hub). Grab shinies today. After 8 PM: no global replacement posted yet (Festival of Lights 1★ saree/kurta is India-only Fri 6–Sun 8 Nov). Altered Giratina 5★ + Mega Sableye continue past tonight.",
+      "notes": "Still LIVE past Halloween Part II end — GO Hub current bosses lists Halloween Part Two 1★ with Altered Giratina through Sun 8 Nov ~10:00 PM; GogoRaid shows end not announced; Snack Nap (5 Nov) still lists costume Sinistea. Official Part II page tied them to the event, but live trackers have not rotated. Shiny-eligible costume (bow). Hundo 1/216.",
       "types": [
         "Ghost"
       ],
@@ -396,9 +400,9 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Wed 28 Oct 6:00 AM – Thu 5 Nov 8:00 PM local (Halloween Part II / GO Hub + Snack Nap Nov 4)",
-      "windowStart": "2026-10-28T06:00:00",
-      "windowEnd": "2026-11-05T20:00:00",
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (GO Hub Halloween Part Two rotation with Altered Giratina; continues past Part II end)",
+      "windowStart": "2026-11-04T06:00:00",
+      "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/216",
@@ -412,7 +416,7 @@
         "pokeapiId": 563,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
       },
-      "notes": "LIVE through Halloween Part II end Thu 5 Nov 8:00 PM (GO Hub current list + Snack Nap updated 4 Nov; ConsolePCGaming Nov 4–5 window). Nintendo Wire had tied them to → Tue 3 Nov 10:00 PM with Origin — that end date looks wrong; restored after Nov 4 live scrapes still show them. Ghost. Catch CP 1231–1299 (1539–1624 Fog). Soloable with strong Dark/Ghost.",
+      "notes": "Still LIVE past Halloween Part II end — GO Hub current bosses lists ghosty 3★ Cofagrigus with Altered Giratina through Sun 8 Nov ~10:00 PM (Halloween Part Two rotation); GogoRaid end not announced; Snack Nap (5 Nov) still lists them. Morning “→ Thu 5 Nov 8:00 PM” hard cut corrected. Shiny-eligible. Hundo 1/216.",
       "types": [
         "Ghost"
       ],
@@ -459,9 +463,9 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Wed 28 Oct 6:00 AM – Thu 5 Nov 8:00 PM local (Halloween Part II / GO Hub + Snack Nap Nov 4)",
-      "windowStart": "2026-10-28T06:00:00",
-      "windowEnd": "2026-11-05T20:00:00",
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (GO Hub Halloween Part Two rotation with Altered Giratina; continues past Part II end)",
+      "windowStart": "2026-11-04T06:00:00",
+      "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/216",
@@ -476,7 +480,7 @@
         "pokeapiId": 709,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png"
       },
-      "notes": "LIVE through Halloween Part II end Thu 5 Nov 8:00 PM (GO Hub + Snack Nap Nov 4). Ghost/Grass. Catch CP 1390–1462 (1738–1828 Fog/Sunny). Weak to Dark, Fire, Flying, Ghost, Ice.",
+      "notes": "Still LIVE past Halloween Part II end — GO Hub current bosses lists ghosty 3★ Trevenant with Altered Giratina through Sun 8 Nov ~10:00 PM (Halloween Part Two rotation); GogoRaid end not announced; Snack Nap (5 Nov) still lists them. Morning “→ Thu 5 Nov 8:00 PM” hard cut corrected. Shiny-eligible. Hundo 1/216.",
       "types": [
         "Ghost",
         "Grass"
@@ -527,9 +531,9 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Wed 28 Oct 6:00 AM – Thu 5 Nov 8:00 PM local (Halloween Part II / GO Hub + Snack Nap Nov 4)",
-      "windowStart": "2026-10-28T06:00:00",
-      "windowEnd": "2026-11-05T20:00:00",
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (GO Hub Halloween Part Two rotation with Altered Giratina; continues past Part II end)",
+      "windowStart": "2026-11-04T06:00:00",
+      "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/216",
@@ -544,7 +548,7 @@
         "pokeapiId": 781,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png"
       },
-      "notes": "LIVE through Halloween Part II end Thu 5 Nov 8:00 PM (GO Hub + Snack Nap Nov 4). Ghost/Grass. Catch CP 1608–1685 (2010–2107 Fog/Sunny). Same weaknesses as Trevenant (Dark / Fire / Flying / Ghost / Ice).",
+      "notes": "Still LIVE past Halloween Part II end — GO Hub current bosses lists ghosty 3★ Dhelmise with Altered Giratina through Sun 8 Nov ~10:00 PM (Halloween Part Two rotation); GogoRaid end not announced; Snack Nap (5 Nov) still lists them. Morning “→ Thu 5 Nov 8:00 PM” hard cut corrected. Shiny-eligible. Hundo 1/216.",
       "types": [
         "Ghost",
         "Grass"
@@ -1422,16 +1426,16 @@
     },
     {
       "id": "halloween-2026-part-2",
-      "when": "Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM local (LIVE — ENDS TONIGHT)",
-      "title": "Halloween 2026 Part II (LIVE — ENDS TONIGHT)",
-      "impact": "LAST DAY through Thu 5 Nov 8:00 PM. Costume 1★ + ghosty 3★ Cofagrigus/Trevenant/Dhelmise still listed live (GO Hub + Snack Nap). Shiny Greavard debut; Mega Sableye Super Max + Night Shade+; GO Pass Halloween ends with the event (claim unlocked rewards by Sat 7 Nov 8:00 PM). Altered Giratina 5★ + Mega continue after.",
-      "urgent": true
+      "when": "Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM local (ENDED)",
+      "title": "Halloween 2026 Part II (ENDED)",
+      "impact": "ENDED Thu 5 Nov 8:00 PM local. Spawns / Field Research / GO Pass Halloween bonuses closed (claim unlocked GO Pass rewards by Sat 7 Nov 8:00 PM). Costume 1★ + ghosty 3★ still listed on GO Hub / GogoRaid / Snack Nap through the Altered Giratina window → Sun 8 Nov ~10:00 PM — kept LIVE, not swapped to an invented pool. Altered Giratina 5★ + Mega Sableye continue → Sun 8 Nov 10:00 PM.",
+      "urgent": false
     },
     {
       "id": "festival-of-lights-2026",
       "when": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM local (upcoming · India only)",
       "title": "Festival of Lights 2026 (upcoming · India only)",
-      "impact": "India-exclusive. Confirmed 1★: Pikachu wearing a saree + Pikachu wearing a kurta (shiny / Special Background possible). Not a global raid rotation replacement after Halloween Part II.",
+      "impact": "India-exclusive starting Fri 6 Nov 10:00 AM. Confirmed 1★: Pikachu wearing a saree + Pikachu wearing a kurta (shiny / Special Background possible). Not a global raid rotation replacement after Halloween Part II.",
       "urgent": false
     },
     {
@@ -1452,7 +1456,7 @@
       "id": "giratina-altered-nov4",
       "when": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local (LIVE)",
       "title": "Giratina (Altered) 5★ (LIVE)",
-      "impact": "LIVE since Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck). Shiny-eligible. Hundo CP 1931 / 2414 Fog or Windy. Raid Hour Wed 4 Nov 6–7 PM ENDED.",
+      "impact": "LIVE since Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck). Shiny-eligible. Hundo CP 1931 / 2414 Fog or Windy. Raid Hour Wed 4 Nov 6–7 PM ENDED. Costume 1★ + ghosty 3★ still listed alongside through this window (GO Hub).",
       "urgent": true
     },
     {
@@ -1471,10 +1475,10 @@
     },
     {
       "id": "spotlight-teddiursa-witch-nov5",
-      "when": "Thu 5 Nov 6:00–7:00 PM local (tonight)",
-      "title": "Spotlight: Teddiursa wearing a witch hat (tonight)",
-      "impact": "Wild spotlight only (2× Evolution XP) — not a raid list change (Leek Duck events).",
-      "urgent": true
+      "when": "Thu 5 Nov 6:00–7:00 PM local (ENDED)",
+      "title": "Spotlight: Teddiursa wearing a witch hat (ENDED)",
+      "impact": "Spotlight Hour ended after 7:00 PM local on Thu 5 Nov. Was wild spotlight only (2× Evolution XP) — not a raid list change (Leek Duck).",
+      "urgent": false
     }
   ]
 }
