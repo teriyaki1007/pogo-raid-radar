@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-11-06",
-    "asOfLabel": "6 Nov 2026 ~6:30 AM HKT",
+    "asOfLabel": "6 Nov 2026 ~11:45 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Morning 6 Nov: global 1★ rotated (Leek Duck raid-bosses + ScrapedDuck live scrape) — costume Pikachu (hat+capelet) + Sinistea (bow) ENDED after Thu night; now LIVE 1★ Duskull / Frillish / Frillish (Female) / Litwick since Fri 6 Nov 6:00 AM local through the Altered Giratina window → Sun 8 Nov ~10:00 PM. Ghosty 3★ Cofagrigus / Trevenant / Dhelmise still LIVE alongside. Still LIVE: Altered Giratina 5★ + Mega Sableye → Sun 8 Nov 10:00 PM + Shadow Tornadus (Incarnate) 5★ weekends (first window → Sun 8 Nov 10:00 PM; longer package Mon 16 Nov → Tue 1 Dec). Shadow 1★ (Gastly / Totodile / Shieldon / Gible) + Shadow 3★ (Primeape / Kirlia / Drapion) per Leek Duck/ScrapedDuck (GO Hub still lists an alternate Shadow 1★/3★ and stale costume 1★ — not swapping while Leek Duck/ScrapedDuck show this set). Festival of Lights India-only saree/kurta 1★ starts Fri 6 Nov 10:00 AM India local → Sun 8 Nov 8:00 PM (not a global replacement; still upcoming at this HKT morning check). Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged. ScrapedDuck shadow 5★ still stale on Landorus.",
-      "endsAtLabel": "Global 1★ → Duskull/Frillish/Litwick LIVE Fri 6 Nov 6:00 AM · ghosty 3★ + Giratina (Altered) + Mega Sableye + Shadow Tornadus first window → Sun 8 Nov 10:00 PM · Festival of Lights India Fri 6 Nov 10:00 AM–Sun 8 Nov 8:00 PM"
+      "text": "Evening 6 Nov: global raid roster UNCHANGED vs morning — LIVE 1★ Duskull / Frillish / Frillish (Female) / Litwick (Leek Duck raid-bosses + ScrapedDuck + GogoRaid + PoGoPit; GO Hub current-bosses page still stale on Halloween costume 1★). Ghosty 3★ Cofagrigus / Trevenant / Dhelmise + Altered Giratina 5★ + Mega Sableye still LIVE → Sun 8 Nov ~10:00 PM. Shadow Tornadus (Incarnate) 5★ weekends first window → Sun 8 Nov 10:00 PM (longer package Mon 16 Nov → Tue 1 Dec); Shadow 1★ Gastly/Totodile/Shieldon/Gible + Shadow 3★ Primeape/Kirlia/Drapion per Leek Duck/ScrapedDuck/GogoRaid (ScrapedDuck/Leek Duck raid-bosses shadow-5★ header still stale on Landorus — keeping Tornadus from event pages). Festival of Lights India-only NOW LIVE since Fri 6 Nov 10:00 AM India local → Sun 8 Nov 8:00 PM — 1★ Pikachu wearing a saree + Pikachu wearing a kurta (shiny / Special Background possible; Snack Nap Live + GO Hub / GameInfo; not a global replacement). Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged.",
+      "endsAtLabel": "Global 1★ Duskull/Frillish/Litwick + ghosty 3★ + Giratina (Altered) + Mega Sableye + Shadow Tornadus first window → Sun 8 Nov ~10:00 PM · Festival of Lights India LIVE → Sun 8 Nov 8:00 PM"
     },
     "legend": {
       "standard": {
@@ -216,6 +216,14 @@
       {
         "name": "GO Hub — Frillish raid guide",
         "url": "https://pokemongohub.net/post/guide/frillish-raid-guide/"
+      },
+      {
+        "name": "Snack Nap — Festival of Lights 2026",
+        "url": "https://www.snacknap.com/events/1536/festival-of-lights-2026"
+      },
+      {
+        "name": "GameInfo — Festival of Lights 2026",
+        "url": "https://pokemon.gameinfo.io/en/events/festival-of-lights-2026"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
@@ -489,6 +497,134 @@
         }
       ],
       "countersSource": "GO Hub Litwick counters (db.pokemongohub.net/pokemon/607/counters)"
+    },
+    {
+      "id": "pikachu-saree-festival-lights-2026",
+      "name": "Pikachu wearing a saree",
+      "form": "Festival of Lights 2026 costume",
+      "species": "Pikachu",
+      "catchForm": "Saree",
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM India local (LIVE · India only · Festival of Lights)",
+      "windowStart": "2026-11-06T10:00:00",
+      "windowEnd": "2026-11-08T20:00:00",
+      "shiny": true,
+      "shinyRate": "not published (costume; official: shiny / Special Background possible)",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 536,
+      "cpL25": 670,
+      "weather": [
+        "Rainy"
+      ],
+      "sprite": {
+        "pokeapiId": 25,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+        "form": "festival-of-lights-saree"
+      },
+      "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+      "notes": "India-only LIVE (Festival of Lights 2026). Confirmed 1★ by GO Hub / Snack Nap / GameInfo. Shiny + Special Background possible. Hundo 1/216. CP 493–536 (616–670 Rainy). Does NOT replace global 1★ Duskull/Frillish/Litwick outside India.",
+      "types": [
+        "Electric"
+      ],
+      "weakTo": [
+        "Ground"
+      ],
+      "counters": [
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Therian Landorus",
+          "moves": "Mud Shot / Sandsear Storm"
+        },
+        {
+          "name": "Mega Garchomp",
+          "moves": "Mud Shot / Earth Power"
+        },
+        {
+          "name": "Shadow Excadrill",
+          "moves": "Mud-Slap / Scorching Sands"
+        },
+        {
+          "name": "Shadow Mamoswine",
+          "moves": "Mud-Slap / High Horsepower"
+        },
+        {
+          "name": "Excadrill",
+          "moves": "Mud-Slap / Scorching Sands"
+        }
+      ],
+      "countersSource": "Type meta (Electric → Ground); same pattern as Halloween costume Pikachu 1★"
+    },
+    {
+      "id": "pikachu-kurta-festival-lights-2026",
+      "name": "Pikachu wearing a kurta",
+      "form": "Festival of Lights 2026 costume",
+      "species": "Pikachu",
+      "catchForm": "Kurta",
+      "tier": "1",
+      "tierLabel": "1★",
+      "category": "current",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM India local (LIVE · India only · Festival of Lights)",
+      "windowStart": "2026-11-06T10:00:00",
+      "windowEnd": "2026-11-08T20:00:00",
+      "shiny": true,
+      "shinyRate": "not published (costume; official: shiny / Special Background possible)",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 536,
+      "cpL25": 670,
+      "weather": [
+        "Rainy"
+      ],
+      "sprite": {
+        "pokeapiId": 25,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+        "form": "festival-of-lights-kurta"
+      },
+      "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png",
+      "notes": "India-only LIVE (Festival of Lights 2026). Confirmed 1★ by GO Hub / Snack Nap / GameInfo. Shiny + Special Background possible. Hundo 1/216. CP 493–536 (616–670 Rainy). Does NOT replace global 1★ Duskull/Frillish/Litwick outside India.",
+      "types": [
+        "Electric"
+      ],
+      "weakTo": [
+        "Ground"
+      ],
+      "counters": [
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Therian Landorus",
+          "moves": "Mud Shot / Sandsear Storm"
+        },
+        {
+          "name": "Mega Garchomp",
+          "moves": "Mud Shot / Earth Power"
+        },
+        {
+          "name": "Shadow Excadrill",
+          "moves": "Mud-Slap / Scorching Sands"
+        },
+        {
+          "name": "Shadow Mamoswine",
+          "moves": "Mud-Slap / High Horsepower"
+        },
+        {
+          "name": "Excadrill",
+          "moves": "Mud-Slap / Scorching Sands"
+        }
+      ],
+      "countersSource": "Type meta (Electric → Ground); same pattern as Halloween costume Pikachu 1★"
     },
     {
       "id": "mega-sableye-oct28",
@@ -1597,9 +1733,9 @@
     },
     {
       "id": "festival-of-lights-2026",
-      "when": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM India local (starts today · India only)",
-      "title": "Festival of Lights 2026 (starts today · India only)",
-      "impact": "India-exclusive starting Fri 6 Nov 10:00 AM India local (still upcoming at ~6:30 AM HKT / ~4:00 AM IST). Confirmed 1★: Pikachu wearing a saree + Pikachu wearing a kurta (shiny / Special Background possible). Not a global raid rotation replacement — global 1★ is Duskull/Frillish/Litwick.",
+      "when": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM India local (LIVE · India only)",
+      "title": "Festival of Lights 2026 (LIVE · India only)",
+      "impact": "LIVE since Fri 6 Nov 10:00 AM India local → Sun 8 Nov 8:00 PM (Snack Nap Live; GO Hub / GameInfo). India-exclusive 1★: Pikachu wearing a saree + Pikachu wearing a kurta (shiny / Special Background possible; CP 493–536 / 616–670 Rainy). Not a global raid rotation replacement — worldwide 1★ remains Duskull/Frillish/Litwick.",
       "urgent": true
     },
     {
