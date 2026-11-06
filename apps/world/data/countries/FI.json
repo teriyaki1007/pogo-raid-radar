@@ -1,7 +1,7 @@
 {
   "iso2": "FI",
   "name": "Finland",
-  "updatedAt": "2026-11-06T11:12:19+08:00",
+  "updatedAt": "2026-11-06T17:07:16+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Finland's Lamor Q3 revenue falls on project delays",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXN3NjJUUDNfaGdnU0tQLXJQeTZtNHZNSTNyOVJOdTRnVFdkWGhSMTYyYXJsRmV1akoxX2ZVUFRZcG9XdlJHeUhtVWJ5aDFQYmRlRjNUTTVYWTVkeXJsNGY5UG9zT2pkUktNUWY2WUo1akdUZnYtb2d4MVJjMTRkSjJnX1R5Z2tXVDNsaW0yZHJfSFNaV1Y4OGlic01lLTV2VU15ZmM3SFhndmFHWVhLYjF0aUhMTDhrOWRzVw?oc=5",
+      "publishedAt": "2026-11-06T16:10:10+08:00"
+    },
+    {
+      "title": "Harri Tiido: On democracy in Finland",
+      "source": "ERR",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OVWQxVnhFQnAxQzNDQ0c5SW05ZjZNUDJyWHBwUEg5WFljdjVnZk1pZnN3eG1EWGl0NC1FRk1xMUxCRWhnQ3NUSTVkWERvVjNmMkJCTEsxYXU0ZTU0aXpuTHpLdllEMmlCSmxBV2ZJR2ZtMVBp?oc=5",
+      "publishedAt": "2026-11-06T16:10:00+08:00"
+    },
+    {
+      "title": "Finland Is No. 1 In World Happiness 2026: The Real Measure",
+      "source": "deeparrival.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQWxlLWFsVHAzV2ZrUzB3Szdncld2eGNSLTFMUjZTd3JZdVhubGJCSGFwb0p6c1FWY2liOHI5eVdwdnZKQl8zZURrR1BwYm9ZSkJfUmJWMWd3T3h1cFJYb0RwOUgtQnJkMkVHMXlwYWVqbDNHcS1lYlFxS0dxV1l1dHc2R1FEZ3dicHVVWlMyS2V5SzZvY0E?oc=5",
+      "publishedAt": "2026-11-06T15:03:37+08:00"
+    },
+    {
+      "title": "Sixteen single people will receive a free trip to Finland, with the chance to date and find love.",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT1RoNlJ0N0RVWWpIQ3FhU0d3MVBnaXdGQUpBVnUzVUlJZGhTVWJRWXlrdFRsQzE2WHAyTnRuU1I2ay1rd2toWEthU0o4aEotZ1hZMEt1R0lTdzJsSXc3WDZRUWVlU0tuUjA0M3J0SjdMUmtuR3gxOUNGSmp4dXdBMmJmeVZlQXVvc3JGOWk2X1pXelFOUDBqbEZuWDEyOU0tZDNKZzJ4RQ?oc=5",
+      "publishedAt": "2026-11-06T11:58:07+08:00"
+    },
+    {
+      "title": "Finland vs. Slovakia | Marchant Crane Centrium Tickets",
+      "source": "Event Tickets Center",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZndkWHAxbFNZMlJLLTJMUGNPblFITmNaTENGbG9uQlJEYUxLRmFjdURiYnNKX2ltdTJuTWpRdnlSNlh5a2xWOEZEc09zSUNyVWNYd2owWTR4VjFIYUoyQnpPYVBjTmxtYnhyNG93YklBUUFDU2lQaWpUSkVlbW5lMXN3MHpmNGtp?oc=5",
+      "publishedAt": "2026-11-06T11:54:10+08:00"
+    },
+    {
       "title": "Finland October 2026: Toyota bZ4X delivers first ever victory",
       "source": "Best Selling Cars Blog",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXVYRnloblVSampseU9jY256cFNQb183LXhpeDQ4SmhOSXhMZkRZUWctZ0NjcVI3T3g2SVRzNjhrNTZqMHNXNERZUGxBNmdob0FNR1Zsa3ZUZG8wYWxWUW5NWlVjMXJwZEp0UEpmVzUwMjhXeG9PVWliRGVqTXdUaGVROUtTNVllOUVpRzVSaW8zemkxOVN4T2tuMEo3eS1vbTVB?oc=5",
@@ -46,36 +76,6 @@
       "source": "McKinsey & Company",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWE1LSmV5RzhmQ1VjYUJveUNyUG11ZldwUVpwc3R3Z2pwRjZrT1l0VjNOUzNGaFBBcW9UZTEtSkZraUtTY2JhY1hlek1tVTRPQTVTTlFkckdJMzVMVFFvdjQ4Z29nVlpoX0J5QkVEVGRvMVRJSHVxLTlrMkdUeS0wUlFzNkVzRi1rWGhHSjJrTnRtVW5yekM4ZVhoU3lVbkxYRUNLNWF3VFRQR3BTQWFhVGJ1N1IyQ2ljTk5CTDFnRjNoWnNGT1YzNXk3MHJTdGJDOTItQ2ZPSFhiWms?oc=5",
       "publishedAt": "2026-11-06T08:00:00+08:00"
-    },
-    {
-      "title": "Finland begin Nocco Hockey Games by beating Swiss in repeat of worlds final",
-      "source": "Flashscore.com",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaXNXM2Q5bWFfVmRITk5Sd2hqOXUzVHVYRnhab3hkRTFNWlF0RGVWekNzRjRlMkxMTElScHZfQTlIUjhRZWYyY191RE1XSjZZWmR3TkdfeGlmM21LbWQ1RVlFMTZpODFyMWw1RmdMTFdqYUx2VVljaFhHRVlOU01rMmhoZmt5S3JmYTFvRFVuamExSnNUdFE1STA0ZklnZU5aX0lDaEpiMl9Na2RUdTZEQ0lORENCQmxMSzdHMDFab1cxc0o3NmR1eEZYelVBRVhlTEttNnA2X3k2c3c?oc=5",
-      "publishedAt": "2026-11-06T05:44:13+08:00"
-    },
-    {
-      "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeDkxMmZIcTBITTRSNjlLRXNNenNqSmNZX0JZUEgtS2pBX1NpMjY3VGpBTC14aERTNFdRVTdtQTM3Q2tKTEgyUFQ4LUgteUtHX3FyeDJwRnBoQWs4eDlhY090LWgwY1BWSHpYaW5hRWNQVERubS11bUptaU9GaXF4aHNOczA5MktiN1ZURmZoSG1zTWI4ZmRkdmhoRTZ4bS14YXhNb293?oc=5",
-      "publishedAt": "2026-11-06T05:34:35+08:00"
-    },
-    {
-      "title": "Finland Is Inviting Single Canadians To A Free Blind Dinner Date Vacation",
-      "source": "604 Now",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80SDRrLXNGa3hIZG9nd0VxOWVHalRRNE1oYlRYX3VpNDBfY3M5alNfY1VxWGFXN0c4dUhIZGFEaFNHN3FPVEdoeHZIV0RvMDl5cEFpZDRfS2dXb1hsZ0F0TGZ6blZ5UQ?oc=5",
-      "publishedAt": "2026-11-06T03:59:47+08:00"
-    },
-    {
-      "title": "GNE: Lumo Finland claim seeks €35.2M swap gain from Genie Nordic",
-      "source": "Quantisnow",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPclhkcjJlMDRTOGN6UmdpVTk5NDhLTUd5Z01pSTZpXzdaUzBCLXZqWUpURWV3MkFmM2FTbVZhenNCSHBHN2J5dlFLWHZLLXZIRTNpSXFDdWt4VDhpMWtFdV85WVpWa2xEM2VjZ1E0eWVTNTVCd29LTms2RE53dGh2TmJqeW5ZaExqWXc?oc=5",
-      "publishedAt": "2026-11-06T03:20:21+08:00"
-    },
-    {
-      "title": "Finland Jails Captain and Boatswain for “Intentional” Anchor Dragging",
-      "source": "The Maritime Executive",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZTY2NVg4RXNvQk0xZk4tY0VtV21nNUpjQWx6bUpmaXFEeGlVVFUyLWd6WVl2M2hGbVR1RkpmOUVFLXhhSnliZEVwd1RmZXl5UDZfZGpPUFdQMWt3dTBxNVNQNnFnZXZyeHlyU0xXX2tmekVlS2w2dFdxVnpKS0t4ajk3TXpZRkZDbzFhTFd0Ui1PQWZlakFsX3EwLWZjQTh1T0ZEQ3E4bkMtQQ?oc=5",
-      "publishedAt": "2026-11-06T02:55:03+08:00"
     }
   ]
 }

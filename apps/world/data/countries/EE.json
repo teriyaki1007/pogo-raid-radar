@@ -1,7 +1,7 @@
 {
   "iso2": "EE",
   "name": "Estonia",
-  "updatedAt": "2026-11-06T11:12:19+08:00",
+  "updatedAt": "2026-11-06T17:07:16+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "ARCA munitions plant secures Estonian operating permit, to start production in 2028",
+      "source": "ERR",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbTBsandLMHhYRFprQkRWUC1UUmRlR0VfdDMzOGwtVzFsUHJjMlZ1SktZaEZQakMwSVdINGxQZ3RoWXVRcWJSTlpNd2RKbDZHZ0lSeHREV25mM09nTUVMRHhhdjdydEhaenV0S2Z6b0U3eGpzbG8waThFZGxSOWN2NmlwQXFWakJCR09jdzdpNkdpNXhlRTRPaW1wdk40WDVpRjRjTTgwdHZXWWRjMkdNNTJNSQ?oc=5",
+      "publishedAt": "2026-11-06T16:12:00+08:00"
+    },
+    {
+      "title": "Estonia seeks power to suspend doctors over unsafe practices",
+      "source": "ERR",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYkFXZ2sxMllHQklZeWxtQ3VBTnNTSHhGc0VmNWp1eXc1MFV3SWNLZlphR2RWVGdhUDJOaUNTcmxCQlpUX2VWUnZlbk0zd0RDQ1p2MDg1YUZNODdFRTk3UWp0TS1iMFd6RmZvQWtKdjloaDVKdy1PUzlHNzY1Zzd0eXhKSnFRN2ZNZFRUeGc0YmRvUXJVa1E?oc=5",
+      "publishedAt": "2026-11-06T15:31:00+08:00"
+    },
+    {
+      "title": "Domestic violence costs Estonia at least €273 million a year — ERR News",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdnl0YlRUSlZsT19NeDM4aVJRVWVvQUxwU1ZKYW53c09ZT0E5bVVkUUtzSU5zUEhzbU5tal9Rd1MzUFJEQnJJU1JPYWZHWkZMRVVlRHJLRmlkM3cxT3hBQ1lmR1BUVktLQU5GWGtPeW5pVFRHRFYzRTUyS3kwa2pFTXZvb0lPcVFKS1B5ejZ1QmNZai10V08wOUE3c3hxRkwzZEtQQThTQTdtcm10MUtrLTZB?oc=5",
+      "publishedAt": "2026-11-06T15:15:43+08:00"
+    },
+    {
+      "title": "Estonia: First bunkers on the border with Russia completed",
+      "source": "Militär Aktuell",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRzZhYlg4SzBKTDZXVW9NMGxWX1ZmTEV0WVJVRWlkcGZnMldXeHllQ0F4Si13dGo2Vng1WDg5dGRhcVlRU3pXa0kweHpJTlhkT2tKeG8zY3FhRlByNjN3RWxmZmN6TXR1YnVsTWNnd2NrcHRKZVhKUDI1U3hWLTE3cS15XzR3UXlqejJRcXc3ZEtBQQ?oc=5",
+      "publishedAt": "2026-11-06T15:13:06+08:00"
+    },
+    {
+      "title": "Estonian PM Michal urges Europe not to open a channel with Putin — Politico Europe",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOE9lbEk1U3FpVXR6LVlneUhSYnhfTzJseV9MM19VYklXaUJFeERZV3NhMXNmWDZWV2ZiUTlCcTU0VGY0dzZmcnpBb243NTNQclNVakdDcHdlN0ZFbWNkWXowWW9DejZRXzdWSGZBVnZNejRHMTFIQ3FLbjRFMklWWFZ2ZnVHcHZCdUNGZFpMbnE0M21QUHdvMTBmQjNuUWk5SXVFT3VvWnRqVE9meFZLWXEzVnZ0d3V6QjQw?oc=5",
+      "publishedAt": "2026-11-06T11:21:24+08:00"
+    },
+    {
       "title": "Estonia’s prime minister urges Europe not to seek direct talks with Putin",
       "source": "Mezha.net",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS19zTE1VSjdlc1RaYlAxd0tNaE5Ra0ZxWnRtNlJUNkV3Z3NIbHZWcHlmeW9nTmptek9oZllvZTFPNWZJd1VDQ2V5eDhYczZmMWhJQUlLSklHLUFKZmtnUU1ySnZ6ZDh3Yk5ycEpZZ0ROR0NoOGgxUmVQV05JVnRzMDNod3FJMURmdVNJ?oc=5",
@@ -46,36 +76,6 @@
       "source": "Cincinnati Enquirer",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOV2JULUlxeGRhR2xDeE9TOGcxaXBZdk9wM3RMcHJ0aVR6UkczdWl2YVJrYXpxU013UjMyYmF4Vl9SZzh5dlJBcC1RbmxoaUQ4Z3ZiWlRzc2wzNk5wV1lEZUItb2Qtd0hfSDVNMml2bEFzbzdBZjlGdHhDNUgxWlkxOVJhTFpBdGNDV2pxRGpPNTZ3ZXg0cHV6cmtQb3VBaUVOUnMwT2dSWU1SWi1zakZoMFdvSFRmZmwyUXRrc0gxYURLN3VZXzE0WkZWZHUyRS16RXhtV2dDSDRZbkwzY0FvaDRPX2s5dTd6UE90LW9FOU01a0dhdFh6X0RTOG5EVms?oc=5",
       "publishedAt": "2026-11-06T05:19:53+08:00"
-    },
-    {
-      "title": "Estonian NATO Envoy: Democratic Victory Does Not Guarantee Stronger U.S. Support for Europe",
-      "source": "The Baltic Sentinel",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS2lxVzU2cFpVMmdIdjFNNnlLSFNuTG5KZkNBOHI4eEdTTUZwamdfbDNsZ3pnNmY1QmM3RkxlZlk2RTRZMktHSUdfak1haEhncERfN2JuRVkwUndieGdHdXRvZ0JlM1JqSWdpcEdwZGEzRklGUEhtanVMd0o0UllVY1RFbHd1OGJiSEZVV25mR3NjM1pZMDk0cUhJZjdpMnFvd1FFSm92UWZTbU1WeERjbDBZNjdHZ3dmNWI2Q1FaR2Y?oc=5",
-      "publishedAt": "2026-11-06T03:16:32+08:00"
-    },
-    {
-      "title": "🇪🇪 Estonia: Eesti Laul 2027 Tickets On Sale",
-      "source": "Eurovoix",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96MzZldU1NdFc3T0ZoYk9teDMyMllhTXhXUmVXYVFZSGYyczdBUERjTTNZTFVOajVXaHFKUmZTQlE2SmpBekplbDZUcEFWeHlzQXBxSEVWaEliNWpydGt5ODlqVEFfSzhlWlk2S1hUd1hSQQ?oc=5",
-      "publishedAt": "2026-11-06T02:37:43+08:00"
-    },
-    {
-      "title": "Improving Canadian Online Election Security: Lessons from Estonia and Germany – NAOC",
-      "source": "NATO Association",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU1ZwcXcxN3gwWHcxbHRQaFVuT0FGN2RSN3QtZFhyZmVMTTllby0yZ2wxQWQ5TDJtbVlHZFNiWmViRmsxQU5jVnlnV01fUFhPSkZ5ajNhNUdnQnlua3pjQkVXRXJmMFNMd293cHJtdkIxUENfMHVHYlBBa3h6eWdpaXFmYV9LZFE5azh0T1REbElOaWNiS1g5YkRoeW1yZU9HcEc5U3N3Zw?oc=5",
-      "publishedAt": "2026-11-06T02:30:00+08:00"
-    },
-    {
-      "title": "Crown Prince meets with Estonia PM",
-      "source": "وكالة الانباء الاردنية",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5weGd0V3BabEFPbEFSaWx1V3J6QlNkYWdoMEhzVDViN0tGLWUxaW83NllzUjdTWXJSOFZ5VjZlUFUyR0VGdWkwRWxidTc1b1VQNHVPbVV6ZGNxeWRCRWVyMXoxNjVhTEhQM2tGU3pZNHg?oc=5",
-      "publishedAt": "2026-11-06T00:47:59+08:00"
-    },
-    {
-      "title": "Crown Prince meets with Estonia FM",
-      "source": "وكالة الانباء الاردنية",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LY195bUxEVVZaUVFLMDNNSUhZeWFaVTdleDhwajVablJ6Rjl5enVaeHNfMmxERFRpTksxOFhmMVY0enMtRWk3dlNFb19UREFJUVBfUnA5VXJJelU5Nm5UNkRsVDBES2FhaU5aVERFWmU?oc=5",
-      "publishedAt": "2026-11-06T00:45:15+08:00"
     }
   ]
 }
