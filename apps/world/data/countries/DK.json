@@ -1,11 +1,15 @@
 {
   "iso2": "DK",
   "name": "Denmark",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Copenhagen"
+    },
+    {
+      "label": "Population",
+      "value": "6,009,169 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,22 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Denmark stocks lower at close of trade; OMX Copenhagen 20 down 1.42%",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUEt2U0FqemNmcl9ocHc4M2dWcWVZaGlEbXZRUHBRMy03UXBNR3JYVHMxZWtvSU40d3pyQk5NTWN2aXVIUHJCdmRnTXBuOFNHNWNhYU5UX3h6TFVhMHNKUWo0cTU0R3JWX0NUNmg3bTVVYUhES2UyTkRDbXZBSGJvRDR2enlCdmIzaXFmVUd5ajNXZUk0cHYydTZ0NmpQaUFjOURkN1daaW1QWnV5dUVwaWRfVTlscC1tdVBJNlJnRQ?oc=5",
+      "publishedAt": "2026-11-06T06:30:00+08:00"
+    },
+    {
       "title": "← 2019 Cyclocross World Championships, Denmark",
       "source": "Canadian Cyclist",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNU9tdnVDeEJVYWFmUWpxZ3NJNEVZakdFREFtMVJBMHZseHB4UmlrMHZRbXQ0T3JCM25XUlc4dEQ5WkxiNXhmVk0tTHpTamRxWUhxNU9sLUZiTWdTLUdWbGxabnVncjc5aGRtZDBqNXVBSWNLZmVCRmhqMkJOOUU1b2ZINEp1a1YyaGMwUnJhd1FlT3dw?oc=5",
       "publishedAt": "2026-11-06T03:58:43+08:00"
     },
     {
+      "title": "From Denmark and Turkey to Thomasville: GRSP scholars share their stories",
+      "source": "Thomasville Times-Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY0pWeVlvOHVFNVBuUFIwSUo0OEJQT1UyR3FaSGgwQ1dPa3ZhWXJmS25rVFNoSDNpY01pWHhhQkY1OW82Nnpyd3pzT1MyQUlsQTBvbnVWbm5LNU5Td1J6Q1ZQTWRSNkh3MVJ4bzlwX0RrLUpXN3JxdFI2czZCWUViNUVhbmo0MWlycGFjdkptVThhX2lyaEFrN1BGazNybC1tRUg4eGhCMkNHbUhNTlB0OGlB?oc=5",
+      "publishedAt": "2026-11-06T03:38:36+08:00"
+    },
+    {
       "title": "Queen Mary of Denmark Bundles Up in Violet Peacoat to Reopen Historic Castle Room",
       "source": "Town & Country Magazine",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmlHN0I2SmpDTktkQ0Z2VDdqaTJoOVR6MWJDblducVJrQnlaS0sxZlZJT3F4Q2xQT3lsOEEzSHdScGpCUkJIQmxFTGs0WWl6ZVNibEdySmhzRXc4QnhXUkQ0V1ppa19fT2JIeHdkUlg0T2xUYmk5RWRVMTlXbEFqNVlBMm5PV0QzZEgxbFhtLTJ4ai1NMFpmbHVacUJ2TXhQR0lYZlZscGpmS3pWZjBvU2t0V3NIYlIzNlJ1VVFlVFpWTHJ4ZDdsSWt3eUY?oc=5",
       "publishedAt": "2026-11-06T03:16:00+08:00"
-    },
-    {
-      "title": "From Denmark and Turkey to Thomasville: GRSP scholars share their stories",
-      "source": "Thomasville Times-Enterprise",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY0pWeVlvOHVFNVBuUFIwSUo0OEJQT1UyR3FaSGgwQ1dPa3ZhWXJmS25rVFNoSDNpY01pWHhhQkY1OW82Nnpyd3pzT1MyQUlsQTBvbnVWbm5LNU5Td1J6Q1ZQTWRSNkh3MVJ4bzlwX0RrLUpXN3JxdFI2czZCWUViNUVhbmo0MWlycGFjdkptVThhX2lyaEFrN1BGazNybC1tRUg4eGhCMkNHbUhNTlB0OGlB?oc=5",
-      "publishedAt": "2026-11-06T01:22:01+08:00"
     },
     {
       "title": "🇩🇰 Denmark: Will Not Return to Junior Eurovision in 2027",
@@ -54,12 +64,6 @@
       "source": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV0Y5TUM0U29GZW1zY2RQUG1ZVUwyclhxaHNjZC1zdW1mSV84VzFXNmhVd2x2dkc1VktyUTUwY1BCbGFkNzlKOUhaMDExUm9Td3M1dXhaZ25MVTRPV1dFOGY5QXZIN29kd2p3MlNjeGt2bFlORFNPdXdScWxYMjAycVpTU1AxbGZSYy1wSFJxTFhfM0tYVkFzbkk3THdzQnJaMWpseHhTMHJHbGZ6d1JxMFhkT1hVTmd4YmtleHpOQkZ4Rm85amZGMzR1ZTZZeVZVc2VwZg?oc=5",
       "publishedAt": "2026-11-06T01:07:39+08:00"
-    },
-    {
-      "title": "Denmark stocks lower at close of trade; OMX Copenhagen 20 down 1.42%",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUEt2U0FqemNmcl9ocHc4M2dWcWVZaGlEbXZRUHBRMy03UXBNR3JYVHMxZWtvSU40d3pyQk5NTWN2aXVIUHJCdmRnTXBuOFNHNWNhYU5UX3h6TFVhMHNKUWo0cTU0R3JWX0NUNmg3bTVVYUhES2UyTkRDbXZBSGJvRDR2enlCdmIzaXFmVUd5ajNXZUk0cHYydTZ0NmpQaUFjOURkN1daaW1QWnV5dUVwaWRfVTlscC1tdVBJNlJnRQ?oc=5",
-      "publishedAt": "2026-11-06T00:32:24+08:00"
     },
     {
       "title": "Energinet explores ways to boost capacity on Denmark’s existing power grid",

@@ -1,11 +1,15 @@
 {
   "iso2": "YE",
   "name": "Yemen",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Sana'a"
+    },
+    {
+      "label": "Population",
+      "value": "41,773,878 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "WFP Yemen Food Security Update, October 2026",
+      "source": "ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPc1dRaEFHU2NuLUZnTmtDUnBMemIxMUp2WFQ0eFZMeGg2N0NhZS1ucWNOWU9XbGVkSnFCOWFuazhUdnNiTXNFM0tDM3N6cklja3prTXgyTW16ZjhHNGp1MWRFM3JxNWRyZzNrTmxrQTVVczVCSzY1c3ljNERtMWdDaWxRX18?oc=5",
+      "publishedAt": "2026-11-06T08:56:02+08:00"
+    },
+    {
+      "title": "Lebanese President Reaffirms Support for Yemen’s Sovereignty in Call with Presidential Leadership Council Chief",
+      "source": "Yemen Online",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJUkRfRENLVDFIRUhjTmhrZGVtUFpUSkgtNG9RbTdTNDJ4WHRhY2pqUjBYalJsWVlzcmpwbktsdlR4OTZiV3MwWnUzZmlKX2ltRGVpelFfTmVnQQ?oc=5",
+      "publishedAt": "2026-11-06T06:57:54+08:00"
+    },
+    {
+      "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
+      "source": "UN News",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VMF80YThDRlY4d2dkNEpLSVYtZVg0M2tvUmNXZDVxalJKbUViaEZFeVdsbFJnYlkwd1JxczBHSHI5aTVadHpxZzBvR3dFT1M0VGJIM1ppUQ?oc=5",
+      "publishedAt": "2026-11-06T05:26:39+08:00"
+    },
+    {
+      "title": "Germany Announces Additional €10 Million in Humanitarian Aid for Yemen",
+      "source": "Yemen Online",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nWjdfa1MxVFF1Z2hGbkVCeU40OUxkQU9MSFFSOHhha0lxeUp5VDZCS2RsRG16cFpaWkloXzNndW5PSWJvcGhhR3lrUkJmOFY3bjlLUjdDMUc5QQ?oc=5",
+      "publishedAt": "2026-11-06T05:15:28+08:00"
+    },
+    {
+      "title": "Ansarallah Targets Dammam Airport as Saudi Strikes Kill 266 Civilians in Yemen",
+      "source": "Palestine Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOREY0cUl0dnR6Ui1adWJ5TnFmbEZnaUlvei1WTU05ajZVVDRsYmlYWU5RTkFIcktDelVvWDYtNDFNbDlmRHU4VGtsaW9CMjNTbmpsaV82SXJuVDQxQTNDdHp0UDQ2UXk5ZHpiZ25pb0tQX05SSHFXeXBDai0xdmxsVWZtQ0lCVzV2SkJ1X25sN0dCT0cxZTkydXZxd19VMExNRWtob1NVQ0c0dFdxdlhSalFmQlc0bTg?oc=5",
+      "publishedAt": "2026-11-06T05:10:12+08:00"
+    },
+    {
       "title": "Iran rejects baseless claims of interference in Yemen",
       "source": "Islamic Republic of Iran Ministry of Foreign Affairs",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fN0NMeXNNQmdxX2dKUG1KYnFnZ0dCREF1M3F5YlpfdmNQV3VUNjhYSHhIdkJwdW5wa0pTUDVnMlJGV2hKUXZyQU9yNTFXYjNPY3c?oc=5",
       "publishedAt": "2026-11-06T04:50:36+08:00"
-    },
-    {
-      "title": "LIVE: Airstrikes target Hamdan district in Yemen’s capital",
-      "source": "Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVF9GTWZDMk50WnBSWXR1bVVWb0ZLM2pjaUd3MUx4Tkc0VnVRb0dKaGtub3ROZWZHdG5LX01pTWtkRTdZa0RZUFVaY0xWVkpVaERtWVFJaEVyX3pTanhzQTFLdmp4V3IyWm82d1JCN3cwcFlmazcxT25jcmdfaU9pSVktZw?oc=5",
-      "publishedAt": "2026-11-06T04:48:45+08:00"
     },
     {
       "title": "Tehran Denies Reports of Presence of Iranian Military Advisers in Yemen",
@@ -48,30 +76,6 @@
       "source": "TelegraphHerald.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFV2aU1CeU5FY0ZUV3QwNmZMYlFKOTdWSUt5OXRWMXNrZFVXbWNKUU5LTmRDajlBOUhvYTdOMHpuUHFnemhRNnl4VUd3OTBiQ09xTGo3SmFaeGcyVldqVk1vVEJGd24xNk15ckRHYVNkblROVXlzMUpBcFJ1M1ZFdGo3dW4tUQ?oc=5",
       "publishedAt": "2026-11-06T04:13:44+08:00"
-    },
-    {
-      "title": "Yemen Emergency Response Situation Report #6 (November 5, 2026)",
-      "source": "ReliefWeb",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMGZxWnNZbXViMmszZXRvRlNIT3FtUEF2V0FYT3ZKTm1qZDVqZzI1MWhLQ2pWQzJJdUlNWWZyYlJsQjEzYlh4c0VmT2s4ZHIxLWQ2ZmlaQkFPanVBNXVXdXY5SVJCUk94RzZPNmRoelRNTXhZMGpqM2tGcFBSLS1nOFRaTkdWOG92Y0R1dWJYRW9iaGZDRUthandB?oc=5",
-      "publishedAt": "2026-11-06T03:39:53+08:00"
-    },
-    {
-      "title": "Yemen : Houthis Abduct Health Worker in Al-Masrakh, Continue Detention Campaign Targeting Civilians in Taiz Countryside",
-      "source": "Yemen Online",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZUGZEVm5PWENwWTUxRWQ4R0NzUE5FVWppaTJyT1ZDX3RjV0xpbDd6UFFwTFdveVl5RGdfaHhMZkVwci1wOExhdjhlb1dwbi10RTlJeXpFUFRNQQ?oc=5",
-      "publishedAt": "2026-11-06T02:59:12+08:00"
-    },
-    {
-      "title": "Yemen targets Houthi finances with new customs and import rules",
-      "source": "The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TaHhGSUREb1NTRURkb3poN0J0dHVQczlzV2dPSkRGYWJ0Y1F5b010aHRkMUMtOUJScUEtWlFPSDVxWmxybHRQamswV0NXZmtBWmJ6R3IyVmpiaGEx?oc=5",
-      "publishedAt": "2026-11-06T02:59:06+08:00"
-    },
-    {
-      "title": "5 Syrian Fighters Killed While Fighting Alongside Houthis in Western Yemen",
-      "source": "Yemen Online",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3WW9DQWFkdmo1S2JTOXd4V3F5R0k3ZG5jcnc3YU1mWU92NEp2eWZjanB0UVFscXhPVnBZZldzVGoyNHFvRlJuV3lfRmduTGNVWkdBWjVhVHI5UQ?oc=5",
-      "publishedAt": "2026-11-06T02:58:28+08:00"
     }
   ]
 }

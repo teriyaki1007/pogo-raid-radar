@@ -1,11 +1,15 @@
 {
   "iso2": "RS",
   "name": "Serbia",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Belgrade"
+    },
+    {
+      "label": "Population",
+      "value": "6,549,143 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Germany to play upcoming UEFA Nations League match against Serbia behind closed doors",
+      "source": "Bavarian Football Works",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLVRZZ0lzelZuYVI2Yk1tb09TQjZHZGZzNEFsNExrZkZqNEo0YmY2cnZCY3hQQURWdUk3d3JKZFZBZkxRZ2xkakxTT1NCaXdQZC1aa2swMEZZeWRzYnB3WmJiWFpIMlROZVhHTXJIZXVtV29KWGM3YWx1RGhkdWdYSk1tTkxKUllyeXpVanRuODllRG1nZE5nOUdzaE5OUDJkU3FiR1ktckYySkk3M0xqZkhhcWh4OGZmTUNBMjBkM3JaYVdzUWJDWktvOUttOUxERDEtX0V1NXlndVZRTDY5ak02MzJwYUpGbWc?oc=5",
+      "publishedAt": "2026-11-06T09:45:00+08:00"
+    },
+    {
+      "title": "FIDE World Senior Chess Championship 2026 begins in Vrnjačka Banja, Serbia",
+      "source": "FIDE",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdkpPSFlCYlZsako5Q0VnWGlvQ3ZyLW9IYzNkQnlFMkZ2WVc1bnQwdU1QeG1UdUwyQ3NqRUFzVmIyRVowNnRpZTUtdG41ZExSWEFnM0tyNnpPNUhVeWRJVGNDVExvWi1zbGhsMUNVRmpjbk0xTUNHMmZyQzI1WHJiazFzRlhqdS01X2ltSFh6dW5zb1VHQklYbUlSaw?oc=5",
+      "publishedAt": "2026-11-06T08:11:44+08:00"
+    },
+    {
+      "title": "Beyond protest: Serbia’s student movement and the promise of radical democracy",
+      "source": "Counterview",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQ2tfMEpsUHFhYmZBQ2hBOEdXcm9QLVQzcWc1UUd1bFYzaHlZYXBvRlBkNFZublR2em5Ed25YYk5nX1Vpb1Z1RnpVUm5reS1lNHBGazBEeF8xOGQ3RnFGZVdHSGlJSE43TEFBeUU1VUZ0UlY5Mm5Lc1ZYT04zYzNuRVozTHVLdEk?oc=5",
+      "publishedAt": "2026-11-06T08:06:00+08:00"
+    },
+    {
+      "title": "Marta Kos Expects Serbia to Hand Over Yugoslav-Era Security Archives to Slovenia",
+      "source": "connectingregion.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNHdSa0c5MTYxbjZ6X1hYYkgyQnlIZFRpVW9kMm9HRGNzOS03NmN3dGJRYndrekNaeUhzRGtlVDktcWVzNzJacTNDNWpJbHRtdDdGSXVCdGtRYS15QlNrV1RIRjdPdVgtSkVvczQxX3RtNlVucVJ6ZHFvS2x4Yk1QVllfbjBpMVNhR1lUZUlQZmJBd09peTJiRkk3STR5OUF0eFVyWlh5TTlhMzJWYnhabHZnUmplQQ?oc=5",
+      "publishedAt": "2026-11-06T07:06:30+08:00"
+    },
+    {
+      "title": "Student movement in Serbia beats govt, big parties in polls - can this happen in M'sia?",
+      "source": "Malaysiakini",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZnlZaVZ5amFyZVFwMjVsN3RxXzdpNWlTRjhNR3ZZbVpLTk1YbzluLXVsRXZqVlZaWWtWSmk0THV1d1FkSTFabTFvUHl3QVdLZEN1QXhNX1J1YUNMbEdMLXRPRm01dXNfZUxLbFg0VlM3VmNOQlh2MVRYS0U4djJqV1U5dnA3UWFZaE1zQmhvRGRYVHJhQ3d3Uk0wNmFVZlg2SkVwbWQ2T1Y0dm5DT3N1LVIwSHZ2M3VjdS1aeklMRzNsQQ?oc=5",
+      "publishedAt": "2026-11-06T07:00:00+08:00"
+    },
+    {
       "title": "Declaration of final vote results in Serbia paves way for student movement to form government",
-      "source": "WTOP News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWmc0ZjdiYUpqOWdZQUJTNmhqamxMZE9rVWFPd1BFNHVvWVpJdkhBZXBDMFdYSU5hSFNiU2xVZ3RoLVJkYVhCUk9VaWZsTUdkNDZhanFYcF92NWVmSnRlRi1UTWhyZjNxR25KUVd5ZTBISEt6RUEtdEFiV0wzU2NNNUw4SmZMM3lIY3dRbU1nUXV4WkE1ZTRFdkNaMktjdno3WlZrVE9WeVJsbktldExzMGYxY09CUGxSLWw3UDAtN1VHdGhzNW5Z?oc=5",
-      "publishedAt": "2026-11-06T04:52:28+08:00"
+      "source": "Norwalk Hour",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNDRmbkFSUXk1Mk9WWDhkRlN1WGh6cnE4eENmZXpLUFdRZ0JhcmtzSlJRSUl1Q1BOanBXZDR4S1o4a3JORkxwNDJoOFBiWUEwT1dsLTBmbTVtbXVXemhpMi1GUXBLN29xSUhRajRqMEtsMXVRZHJWZENCdXVrV01ydFhTSE9JYjVVeER6M1lURkJfNW5MMXQtal8wWmRfdkJycnAyNVV5VzM?oc=5",
+      "publishedAt": "2026-11-06T05:18:12+08:00"
     },
     {
       "title": "U.S. allows Hungary’s MOL to prepare for purchase of Russian stake in Serbian oil company NIS",
@@ -42,36 +76,6 @@
       "source": "Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3ZrckFrdUplVDBvd0ptTkJpR3J1a1VyVjAxVVRuR3FOdFZnNEZPSFg4akFKQnUxc3BXeE5POF9VNnBaUkM0TmRLdm1QYTdmaG9OOW1hTENJcHc3cG9YdkVjazZmN3VBV0xUdUxxclpGdHU0cmlJOUl6LUxFd3htbHhMckhvanFkSUZscktDQQ?oc=5",
       "publishedAt": "2026-11-06T04:31:45+08:00"
-    },
-    {
-      "title": "Online event: Serbia After Vučić. What Game Should Central Europe Play?",
-      "source": "Visegrad Insight",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZeUFiMGw5d09aTDY0eHBXNGdfdUVfMzlSS29yckN4Uk5JX0taYmNsOThGbmJzZk8tTFZXQTFCQ05QbGhITW1aMXdvSkM2TUkzUDU4Y2oyd2pZeXNlZ2VTRlp3NVVvQi1MWGI2SU93?oc=5",
-      "publishedAt": "2026-11-06T02:34:56+08:00"
-    },
-    {
-      "title": "FIDE World Senior Chess Championship 2026 begins in Vrnjačka Banja, Serbia",
-      "source": "FIDE",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdkpPSFlCYlZsako5Q0VnWGlvQ3ZyLW9IYzNkQnlFMkZ2WVc1bnQwdU1QeG1UdUwyQ3NqRUFzVmIyRVowNnRpZTUtdG41ZExSWEFnM0tyNnpPNUhVeWRJVGNDVExvWi1zbGhsMUNVRmpjbk0xTUNHMmZyQzI1WHJiazFzRlhqdS01X2ltSFh6dW5zb1VHQklYbUlSaw?oc=5",
-      "publishedAt": "2026-11-06T02:09:54+08:00"
-    },
-    {
-      "title": "Serbia’s New Government Faces Economic Choices as Deadlines Near",
-      "source": "Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55Q2J4YzY5SWRtUzdvcFg5X1IyRjQ3OUk1T05uWGJlZHZnS1NaV05OWndxd3E4VnNBSGlrRjF3NmJzRlluX0REQ0ZBenlOWkUxNmJWZG10SDl5UEtSN0RFWkpPUTEweERZMmc?oc=5",
-      "publishedAt": "2026-11-06T01:20:07+08:00"
-    },
-    {
-      "title": "Investigations and arrests intensify in Serbia after elections — Deutsche Welle",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYlhrUXpoWWNHWlg5RG04R285S184R2ZkMGtSUkVoRFRkNS01UVRCY2RkSE9mUVptaVRFQUpsczJVTzdSV0tXbUtEYkhVNmZYSHF3SzZXZXRCTTlGMkxpLWNnLXhCaE9WaG41c3dHZE15aXkzOHFKV0tGN3ppU3lzdFBHUjNMRGQzLWJ3X3RUWnZ4b0IwWnNLbFNlMXZ6WWNNaVNCSGFIU0g2djBPVmxvbDFTUQ?oc=5",
-      "publishedAt": "2026-11-06T01:19:13+08:00"
-    },
-    {
-      "title": "Serbia's media purge | The Listening Post #shorts",
-      "source": "Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNYnVkcXpwUzR0bXNwel8tTlJaZEJFbjJZLUdKV1g3d0RSYkprMUplWVZDeE5xNzFzUHpISS1WbkZ6TzRaMVpVOUVFS3FndF9fQklna0Nvb1RxSXJBMl8yRUl2MVRZMTDSAVxBVV95cUxPcEZlV3hVeTNhWFM3MjlSejZnNWdIdHU3MkhaY19ma2ZQSVBobG1RLVpGUEhCSENpcU9NQ0hmV1lLRVlvRUhvZGJZTkJiNU4xR3YtdTZlUjV5VXVaeA?oc=5",
-      "publishedAt": "2026-11-06T01:10:00+08:00"
     }
   ]
 }

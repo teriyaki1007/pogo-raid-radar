@@ -1,11 +1,15 @@
 {
   "iso2": "DE",
   "name": "Germany",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Berlin"
+    },
+    {
+      "label": "Population",
+      "value": "83,491,249 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
+      "title": "Research seeks to clarify assisted suicide practices in Germany and inform future regulation",
+      "source": "Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wM2hmWTNSRm84R3B3MVp6ZFY1bTBTdnJIZ1Q3R1hXYXZXY2gzbjFrZjVrQlFHa3JGWjNqcnhPQjVodTMwWGViUG8zTnFNdXJVRVo4SkhKeDhfblRNR1pSOWpTbDhTZ1RF?oc=5",
+      "publishedAt": "2026-11-06T11:00:02+08:00"
+    },
+    {
+      "title": "Germany Invests 19 Trillion Won in Gas Power Amid Renewable Expansion",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTUhFdnV0YTFncU42X1d2U1BZc2dkSzlGSjllZ2FQWjFTMjg2YlhndTBrd3p5bXR4My10M2VOYjZlV0d0R0wtY2ZMUmRLREpiRE42X2dpeS01aGJaaDZINm9GZVM0Y2lTd2thMHZveTZYeGQ2OXBFQkxzMnU0X041VmViSllWWENYcEs5NW5B?oc=5",
+      "publishedAt": "2026-11-06T10:19:58+08:00"
+    },
+    {
       "title": "Gretchen’s table: No need to wait for the holidays to dig into German potato salad",
       "source": "Pittsburgh Post-Gazette",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWkd0bkhSTUFsSUlfeEgyVGhvOXhkVktxMFJoTlV2M0w1R3A2OEJ6SnVQT3Q3SmM1N3otS0RvbWZ2cE1FdUgzRGQ0S0tnNFpITk1tWnU5d2pUZkVvaWoyV1E4ckF1amxLWC1mMUh0TUNQa0VUZ1JOZnVmdDdPNHRkQi1uWlVkdy1uZEcyR0VYNzNVa3I2c2tCZVJyY2hRWk5PMU1fVFpCSXZDWTBJUnBoQTBGX0U1SzJoUk51Wi00RVRwNHVrN0dB?oc=5",
-      "publishedAt": "2026-11-06T05:02:44+08:00"
+      "publishedAt": "2026-11-06T09:57:39+08:00"
     },
     {
-      "title": "Zelensky Renews Push for Taurus Missiles, Citing IRIS-T Gains for German Industry",
-      "source": "Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Cc21QWW1ZNlFUN0lwSXhtU2M3UDJsRHUwblJ6TXFpbm5feXFzR2UydXphZGp1VHd1aTcxVExrYk1TMGpBTWx3SGVPOA?oc=5",
-      "publishedAt": "2026-11-06T04:39:10+08:00"
-    },
-    {
-      "title": "Germany Europa League Soccer",
-      "source": "dailyrecordnews.com",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMWVJZU4wTE1wMFI2V3RlU1FiS29oY3c2VUszVnctODJjOWNXa0EtVGttQW8wdno5N0pUWmgwbjBEM3FBWDVJcHUyQWtyeWN5VzJHQXdsMFJoNVhod2dHOC1TbUQ1OXlPWFFUOWlQeDNIR2F1MmVibzFVWWRHOUlMTFVFMHJlcGZjMWtKRW02dTd3OG5hZXBvOW9BY194NXJEcTllYmx1blpTVTVucHIxb3dhZDhteVRZeFFLRzdwT2s?oc=5",
-      "publishedAt": "2026-11-06T04:13:36+08:00"
-    },
-    {
-      "title": "Israel and Germany renew energy cooperation",
-      "source": "Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vNWpFcFQtdkVCSWtON1UxczB4cWstQklTQzdFbmp4OXRFc3F0T01YeTJjLTlGQjlqZGZla3FSdnZ6U2NNckM2VUx5YkNhcjlEQXJBSU0tVEdyMldnMTRJSzZodXpKdFNqQVY2RnlmVzFnZw?oc=5",
-      "publishedAt": "2026-11-06T03:48:24+08:00"
-    },
-    {
-      "title": "Jürgen Klopp calls seven Bayern Munich players as part of Germany squad",
+      "title": "Germany to play upcoming UEFA Nations League match against Serbia behind closed doors",
       "source": "Bavarian Football Works",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOURmeWp4SlFNV0M0MW9tVFFaenFPSnZ4NWhaR2I5WG5xNVdfMlJUZ0syOHpDbWhtVk5yOU5ZWVBMeUE1ZXA3Z3h2MkstTGhYV3JzSTh4Uk1lcDQ1VHRXTkk5QkRnc3ZrakNUNnZkbHVnTkY4Yk9nZF9NSWY1OWxISXFLa1R1OWdyOGh2MzkybGpJQXY3OS1fMzZnN2c3MWozWXh1R196a0xlU2tNUFpjd3Y0YXkyNTJDS0NYVXdqdi1wRVAyc1czWUFXa2xVY19tTUY5Tk93SnYxZkpOSXlCbUV4YTVpa0tmTXc?oc=5",
-      "publishedAt": "2026-11-06T03:30:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNLVRZZ0lzelZuYVI2Yk1tb09TQjZHZGZzNEFsNExrZkZqNEo0YmY2cnZCY3hQQURWdUk3d3JKZFZBZkxRZ2xkakxTT1NCaXdQZC1aa2swMEZZeWRzYnB3WmJiWFpIMlROZVhHTXJIZXVtV29KWGM3YWx1RGhkdWdYSk1tTkxKUllyeXpVanRuODllRG1nZE5nOUdzaE5OUDJkU3FiR1ktckYySkk3M0xqZkhhcWh4OGZmTUNBMjBkM3JaYVdzUWJDWktvOUttOUxERDEtX0V1NXlndVZRTDY5ak02MzJwYUpGbWc?oc=5",
+      "publishedAt": "2026-11-06T09:45:00+08:00"
     },
     {
-      "title": "Addleshaw Hires 20-Strong Taylor Wessing Team In Germany",
-      "source": "Law360",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV1EzTzIyUW5UZXM1di12Y2ZuelpTdS1YUmxPSWFsLTBFZEI2TUlFMTdYbW5jLUFnRTNKdXBkdkhqZi1rRDlfN3JiUU9ub19YaExJclV1MF9vNzFsTFVvaUJhUjlKVHJIYmdPTEVwZ014TlRmWlRCUXlLMzZydjlvM0Q1MnRUNWlRNVZLckZtbUlHVVhoTktsLXVVVzTSAVZBVV95cUxPRGVKck5aa1FCdkpBcmFERU1KS3ZXMzJQX0pEWlNmdjE4YUpDUVNYRkxOMDJ6SXdnMlJZMTNmYXowcE92WDVkQVJaTG9zRnNEeDJVY21aUQ?oc=5",
-      "publishedAt": "2026-11-06T03:04:32+08:00"
+      "title": "Kazakhstan and Germany expand environmental cooperation",
+      "source": "Qazinform",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY0R6bThWWURUbmJ2NWpmRjZpemp3M3pjV0U2NGxyb0h0REN6NDZ6WXN0cE9OWkhpb1FUZGxrdEpFRW5mNDFNUmlNQnNtNVEweXJQWDkyc3ZTV0NzaVBtWWtDaWhydEpDZEVHaHNuaWZqMks1bzB4UThxZGU0dlA0NWdITXBfaHliZW84dWJXU3NvSnPSAZMBQVVfeXFMUFJ0SWQ3NUtNeXNwZWpEWDBtTmdSU25rd0hhb3B1TUtGa3FjN1JtR0VaLUVKeDhpcXZoeTlSR2R4WkVLSTJxT1YtOWJJQTBjSlo2NWl5ckFUZXR2Tk9VZTNhaGg2TS1XRTJFZzZSd1R6Z1B4aWlRaXRhT0xnWElIdmlaMmtUNmt3V0ZVM201OFI3alh3?oc=5",
+      "publishedAt": "2026-11-06T09:41:37+08:00"
     },
     {
-      "title": "TheGoodBroker: Employees in Germany need a salary above €84,150 to choose private health insurance in 2027",
-      "source": "Bergen Record",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUjJVVDRtZUFIWmdMRzVCQk0wMUFXSUJiX296NkY3VmtDYnFVOWJJYjZndTBHMElBazYtLVdxXzlyQTN4NEs1TmhWRjNpSXY4eDdnNFQzWG52WmhFVGRuYmdmbUptSU0yVEhGYU9JOXFDWVBwb09nUm51dEZZbmdfQndEWTF6bzdOVjhuRVNmUjhpd0p1WHNYNlBWZHhzeWEyMEZKelVmc0NJSUpmN1NDbEJkOVBCTy1KUEdPb2hKUldWXy1weWYyd0dhT2VuQU11NHE4T3VoVU52bi1mSVg3Nnc0dHhoeGwwTVNKWjgxdm1ldw?oc=5",
-      "publishedAt": "2026-11-06T02:38:32+08:00"
+      "title": "An Awkward Relationship: The German Far Right And Trump – Analysis",
+      "source": "Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNzVEQ2lOMzZIdTg2YnlLSzZOLVJESXFUbEFWX29KOTFTSlRtMTI1dDJoRlhBUk81OEdtUXg3MURqLU9pMUg1RXNrSEJBdEMxRGdVNEFudHYyUmdzVzBsTDAtanl0bjlOV3BZMlh1TjRFbDFWQ1lwek5adWU2VW4xWUFjbGNoMnNiM0JDb1I0ZWNLS2hBRjRMa0VtcmFfTFdtRUhKUFhR?oc=5",
+      "publishedAt": "2026-11-06T09:36:32+08:00"
     },
     {
-      "title": "Berlin Seeks $113 Million More for Ukraine as Russia Targets Power and Civilian Infrastructure",
-      "source": "UNITED24 Media",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLUxCWm5PVk54U3NUWThXS0FTWFotLVBobXJuS19JdXNwMTRkWEdYRTlCalhhZWE0TUVEQ1k5UjhTRlNkLXpZQ2dMV0J1LWY4MnJ6VGp3VlpKdmxxa3ZzUUxuc2lWWG5NQTdCY2pZMzZpY0pyamp5SWtmbXRnelJoU1NBX1hIaVhhRWliN2RxYzdEOXdJNHdLU1g2cFZHUDlmellXTVNIRW85UjhwTEl5bnBYMk9PY3JRNVFVdFd3LVNQVW5zRG0xMVB0N2JDaVV3Vlg2enp0Zw?oc=5",
-      "publishedAt": "2026-11-06T01:55:51+08:00"
+      "title": "German Factory Orders Rebounded in September",
+      "source": "WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNl9vcUZQbEU1V1ViYjVfYm5OZW16OTVJSzA3ai1ZOTFxUWZjTE03MktkSzVpd0EyMzYxcE9Ha1M1QU5Qa0haRkpldUVRRTVJOXdSQ0VKSjJLU01qUWsxRlBFWkp4VDM0YURHbHZKdEpZRWlkbnBvN3huQnpTbGNzZTdSOUl3a0E1?oc=5",
+      "publishedAt": "2026-11-06T09:22:40+08:00"
+    },
+    {
+      "title": "Warning strikes at over 2,000 workplaces in Germany, but the IG Metall union is trying to prevent an all-out strike",
+      "source": "World Socialist Web Site",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3VTdfQmJ1VzdFMzJtNDNadmR1VHJXVXU5VHN2dlNZNTVZMFhCZFViMU5oMXVvQmpaRElsOS1WNS1nUUVOb3NwUW1MZGFRRGlSWXdlakdudUpUbFlSOXhzZmZjdkgyNGxj?oc=5",
+      "publishedAt": "2026-11-06T09:21:00+08:00"
     }
   ]
 }

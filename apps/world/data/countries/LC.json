@@ -1,11 +1,15 @@
 {
   "iso2": "LC",
   "name": "Saint Lucia",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Castries"
+    },
+    {
+      "label": "Population",
+      "value": "180,149 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,12 +30,6 @@
   ],
   "headlines": [
     {
-      "title": "FIFA president Infantino to visit Saint Lucia ahead of presidential elections",
-      "source": "St. Lucia Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVllFeGtaMXdrMnF0Y0VxbllJVHQ4VnNlaG1nNTVMNlRrUFhLMG5zMmxpUEZpeTRHbTJld1EwMHdlMTZFR1NZT0w0Z21jUEJGYXhMdEtnUVZRc1BQMGJJTzBqYWRDbV9hMkZ6OHJFdUljMzE1ZFNTUXAtUGpyWUR1ZVQ5QjY1M2h4MEk0WFRMcTdKNmZnSmY1dlJ2WHRsVlctX0tTbW9wcHVVRjdjMDBJei1oU2lhSExZeVE?oc=5",
-      "publishedAt": "2026-11-05T23:56:27+08:00"
-    },
-    {
       "title": "Saint Lucia to host Southern Ontario Travel Advisor Roadshow",
       "source": "Pax News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSHBPc2RGOENUdkp3TjkxeDFiN2hncFg4WUpFOW9TRXUyRTF2bWlqT2JYRjZWZE91d3BCbTBQV2xJNjl4Um0wZV9jMXcxb0ZVRUJBMXJJRkgxcktvSTYzRmNkTkVVbW1kdk9sRGM5UUJsblVsWUZFZkNheUdOd0NyS01OaFJrV2hmWUN4UHNCM2UySmNSWHQ0X3paUmZtVjR5WHc?oc=5",
@@ -48,6 +46,12 @@
       "source": "St. Lucia Times",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHYwcmJKZEwzM2VHTU5Ubjg4ZEhpZ1AxSExkRVBJTS0yWVFBZHpRMlI2OWFYdXZ2a3dKdnp2ckVBTWZzTjJGUFBzUHI2RTZyYW15NFcwNkExVG5YOTl5Y0NqWnRtRXp0czBMUFNvUU0wVlZwWHNMNjFEeFJWdC14RnRhWU16b0tqaG45enJnOWxUX2pYc3hrMWh3?oc=5",
       "publishedAt": "2026-11-05T05:50:24+08:00"
+    },
+    {
+      "title": "FIFA president Infantino to visit Saint Lucia ahead of presidential elections",
+      "source": "St. Lucia Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVllFeGtaMXdrMnF0Y0VxbllJVHQ4VnNlaG1nNTVMNlRrUFhLMG5zMmxpUEZpeTRHbTJld1EwMHdlMTZFR1NZT0w0Z21jUEJGYXhMdEtnUVZRc1BQMGJJTzBqYWRDbV9hMkZ6OHJFdUljMzE1ZFNTUXAtUGpyWUR1ZVQ5QjY1M2h4MEk0WFRMcTdKNmZnSmY1dlJ2WHRsVlctX0tTbW9wcHVVRjdjMDBJei1oU2lhSExZeVE?oc=5",
+      "publishedAt": "2026-11-04T07:55:22+08:00"
     },
     {
       "title": "Saint Lucia’s Prime Minister Philip J. Pierre Congratulates Antigua And Barbuda On 45th Independence",

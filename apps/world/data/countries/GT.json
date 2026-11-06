@@ -1,11 +1,15 @@
 {
   "iso2": "GT",
   "name": "Guatemala",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Guatemala City"
+    },
+    {
+      "label": "Population",
+      "value": "18,687,881 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Weak mag. 2.6 earthquake - 23 km northeast of Cuilapa, Departamento de Santa Rosa, Guatemala, on Thursday, Nov 5, 2026, at 05:39 pm (GMT -6)",
+      "source": "Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZUZJZ3VWT295R20tTXlyMmxSbE9nSk5tZi0tSWd0VlBDOTFvZms5QnFURGFpc1dSSkNtQThfSDNRcjcyQm51TFpCYzNkWmNSMnVRb0V2RzU1UGQyRzlUbzJjdTVBVnRwUkVkSEY4MEdOemM5R1ZCcEpWRlNrT2JQSVB6LWQ3c3Nrd2p4WHlqZXMxQVFJU2NMV0RZWHNPdk1lc1E?oc=5",
+      "publishedAt": "2026-11-06T08:26:43+08:00"
+    },
+    {
+      "title": "A line of hikers appears stunned as Guatemala's Volcán de Fuego erupts",
+      "source": "Fox News",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1OZW9QNk5VbW92Wno4QWljUXpncHJJdFExSUE2U2NjWFkxcEpNT1hja084ZE9MbnRDMEFBX19jdTMwLXROc3JZZldfeU5mY0M4SUdqQTBB?oc=5",
+      "publishedAt": "2026-11-06T06:04:20+08:00"
+    },
+    {
       "title": "Guatemala lifts power grid returns off legal floor after 14 years",
       "source": "BNamericas",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2t5SzNtS0lNYzlKeG0yeDZkRDhiN2c0QmNfX01Hc3U3NG9nY0Z2YXdRem9CVGV0bzlxbGN5WHBaeGVEcVl3dnRabXFHQTRqNTZNNDFUZ3lUYVA5cXBQSUFPZmxSTGFZM0luejVuaTFuUnYzWTB5Qng0NmZlbzJOV21Yb3lFeVM1M19Sa0tLdW11dXR6VHlNa3VSLXVsd3R5Nmc?oc=5",
@@ -38,16 +54,16 @@
       "publishedAt": "2026-11-06T03:18:07+08:00"
     },
     {
-      "title": "Weak mag. 2.6 earthquake - North Pacific Ocean, 71 km southeast of Puerto San Jose, Guatemala, on Thursday, Nov 5, 2026, at 04:06 am (Guatemala time)",
-      "source": "Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaGxKTElTWUk3UUZVNnJMQVkxaFJydVBqSXl4NmJ0Z2J5M2RhVFJzZFJjR0FtZnhGa1pRMGFMa1BEM252YXF5MGhhN3AxVG1uUFRGZkhXQnBVU2ZiY2dTdHhJMVVMYlp3S2ctYVVLckJHTkxyRDZyRDk2ZUlRem5UNWpmeW5qVU1HSXd1cjlpWGJ2cU0yR3JrLXg1MkN0RFc0cmxMaklhYTFZTzg?oc=5",
-      "publishedAt": "2026-11-05T22:42:00+08:00"
-    },
-    {
       "title": "India, Guatemala explore trade opportunities in textiles, construction and other sectors",
       "source": "Mid-Day",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc21YOGthVF9EamltRVRYNWEzMWJNcHQwQ1kyR3NkUlBMc1BZUEh1aF91ejdHT1B4M25ueXlLSkw0RGthYWR5aU12ZF9hcGlRRmhqVjNpNmxCVndobU93T2I1RDczNXJGLS1abHBSOVZlNlR1c2NqY2gtdzBCZndZOUYyT2NHUXl1U2swa1Y2VnNkY0pMeEhnaVZUZHE5NnBMV21QeHBBcVM0b1ZSX3VHV0E0ejJYSXpWeXpBVkJkZUZaUFl3akJmeGt0REpGeWs?oc=5",
       "publishedAt": "2026-11-05T21:00:00+08:00"
+    },
+    {
+      "title": "Weak mag. 2.6 earthquake - North Pacific Ocean, 71 km southeast of Puerto San Jose, Guatemala, on Thursday, Nov 5, 2026, at 04:06 am (Guatemala time)",
+      "source": "Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaGxKTElTWUk3UUZVNnJMQVkxaFJydVBqSXl4NmJ0Z2J5M2RhVFJzZFJjR0FtZnhGa1pRMGFMa1BEM252YXF5MGhhN3AxVG1uUFRGZkhXQnBVU2ZiY2dTdHhJMVVMYlp3S2ctYVVLckJHTkxyRDZyRDk2ZUlRem5UNWpmeW5qVU1HSXd1cjlpWGJ2cU0yR3JrLXg1MkN0RFc0cmxMaklhYTFZTzg?oc=5",
+      "publishedAt": "2026-11-05T18:52:25+08:00"
     },
     {
       "title": "Logistics Plus opens offices in Panama, Guatemala",
@@ -56,22 +72,10 @@
       "publishedAt": "2026-11-05T16:30:20+08:00"
     },
     {
-      "title": "Weak mag. 2.4 earthquake - 23 km northeast of Cuilapa, Departamento de Santa Rosa, Guatemala, on Thursday, Nov 5, 2026, at 01:14 am (Guatemala time)",
-      "source": "Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSW1UTlRUVnpzTFUzMG5MMVQyRzctTXlJYmN2T1RzNFJtdWxVbmFxeTRGYzNHVkk1YUZiUlFLWFlxVV81cnNkNm5uMjNKa3JyaUQwSk5hMmxNazR5ZFE5TnZIZW52cXBCN3NQT2xfSkc1NG5Hd2N1Z1hpa1FnZUhkNzJuVXJoMmJ4bm91ZDNXaGhqcFo3VHNOazBPaGZpdlNzd3dHcU9Way1NWHM?oc=5",
-      "publishedAt": "2026-11-05T15:35:53+08:00"
-    },
-    {
-      "title": "India, Guatemala Boost Economic Ties, Plan Key Sector Meetings",
-      "source": "Lokmat Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPckVqdXAwekExWS1FVHdXVWZtbTh0eFVDYWhXNERIX1pYZjF4dDNSMkJUQU5VZGJyUG1LS1lNMDd2c052UDhmMy1fdHQxUzRuWGxRa2cwOGxQbGtsWWJaTkJmYkI5cjdjTENhZGNuZDk2d25LNWJJRV9CQUpCUHpWTmZ1eF9oUEhhRXAyWjhBSTU1TFEzcTdjc05fb1ZYQ2NGRDIwV1FNa09ITWtsd1VsMDNn0gG3AUFVX3lxTE9ObllLc0ZvNTBuUGl1eEgxOEVsbzAydUlLbWFjTXQtYTdBVjFZbDNpS0l0aUFHZnRzSGRqOHRjVi1HZGxScktLbzFROTMtNXdDQlV0SXU0NTZSRHU4cTA1RG5TZS1KMFNwYkVfVHU1aFA4Vkgwd1UtbmphUFRBRHZhU2JaclBnRENSMFpqX0QySzlBaVEyUWI0cDNTYV9RQ25PclZKVVV1VHFjT0x2YkVVdm9Ub1czUQ?oc=5",
-      "publishedAt": "2026-11-05T15:26:56+08:00"
-    },
-    {
-      "title": "Stories of Us: From Guatemala to Calgary to Community Celebrations and Remembrances",
-      "source": "Kentucky Annual Conference",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4YVpCcHRsb3RMM3R1clVvbWFUNlE4QUhHMkdZeUFrRm5SVVdHTXNkM2VldEVYTUcyVzdfR1VYOEhWb0lKNEtiWHRyUU5DcWh2QmZ3?oc=5",
-      "publishedAt": "2026-11-05T02:30:14+08:00"
+      "title": "CanMNT searching for offence, expecting difficult match in Guatemala",
+      "source": "TSN",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaDBDS0E4TFB0YjRyQjdYWm8zaUpNdVZERUVCWklKMzJnU2hKaVB3aHZKSVpaNWRlaGYzaTlqQ2tDT2ZYLWY3dmd6NFFTaUVXYTVyODFrUDdEeC1feFpPT01LamppdmdqZmdCaDk4SkEzZW5OVldXTzhKYjJUaGVpWkV6OHdTMmNwZnc4WW0wZE1TTHEzZGUwUXN4djhHWk91eU9GMFhSMEtaeV9Fc0J5eA?oc=5",
+      "publishedAt": "2026-11-04T04:23:13+08:00"
     }
   ]
 }

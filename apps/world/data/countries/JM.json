@@ -1,11 +1,15 @@
 {
   "iso2": "JM",
   "name": "Jamaica",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Kingston"
+    },
+    {
+      "label": "Population",
+      "value": "2,837,077 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
+      "title": "20 of 22 third-country nationals received in Jamaica have departed",
+      "source": "Caribbean National Weekly",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdkpta1ExZ0gyelI5ejBheGpWMkNma2pOTFg1c3ozN1RCUlBuZ09TZk1aZWU4LW9vOFFfWnRUb2lubF95bThCTkdUYlIyRTBqcnpvY3Q2dXNpOXIxeHFfdXR0dEFCSEFyRHctY2hBU0NvQ0ZqYkJaTjhmVEpDZWE1WkF3X1B2RHhXNFdmNXVGMk9FYUZUeUdZR09SS29VdTdUbkhSX3pueWFCdlI4U0M5ZEd3?oc=5",
+      "publishedAt": "2026-11-06T10:10:35+08:00"
+    },
+    {
+      "title": "Jamaican fighters ready to defend world titles",
+      "source": "Jamaica Gleaner",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTzNmZGZrczRCZ0ZJRjF0VnFmRTRZRWJYVW1ZWnFyS2UxVzdMeFZBU3NCZ3lMU1hVNUZXM1RkSTNkM1AyTWpNU2xlVkZYa3dWbE1sOVBqYm5iUkhjRFYyTDdrUG5kMzdDcXgxcnNuTk84bThVbXRPcWp3bkJwTjJsNVNBRlczVFk2cUF0bmluclptYXRKMEhMbkhkZw?oc=5",
+      "publishedAt": "2026-11-06T10:09:01+08:00"
+    },
+    {
+      "title": "Chevening scholarship broadens Jamaican graduate’s vision for education reform",
+      "source": "Caribbean National Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOFl4RDhnX1E1TlNwYWEzTlRRSnJYOG5XSXQtWXhYYV9aSUVoUGtHYmRabnFRUGtFcjk1MkpJTnlGMWtkSEtjNFloQ29Nd3V1WWh4T3JaSGRvN1ljZ01WQ0ppQUEwc09MazZ5d2t0WjdCbFVtdWp6UU04NURWWjQ4bFNLVFV2bHI5c05EOTBqTGNLLXpLVFZKcDdENGFiMkVMcXJtNGhNLW9TRXh1UHVZQ3g5YUNXX2pXSmdoZzlEd1A?oc=5",
+      "publishedAt": "2026-11-06T09:57:06+08:00"
+    },
+    {
+      "title": "14-Story Building Planned at 143-24 94th Ave, Jamaica",
+      "source": "Hoodline",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdzczZ0VpUFZFLVRnRDdlclFZTmhIcjhCRU01VFp3QlB5QkVXVlB2MnhrUjN6emhlRG9SQVltTk90bEVzUkZEOFhfc28yUHk4a2FfeFJfS3ZHLVNvREJWQk55cUJ3X3UtdkYyTU5GOWJXTzJuQ3dlbVdZaE1LNHhOT0pDTC1tamR6QkhuWHFKMzdsX3pFSUo5Z1p2SDZXYWY5NDhj?oc=5",
+      "publishedAt": "2026-11-06T09:52:30+08:00"
+    },
+    {
+      "title": "With Tecatito, Leon call-ups, Mexico manager Rafa Marquez turns to old and new faces vs Jamaica",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQlBPSW1ScmtremZoS0xyTF9lb1I2cG1lb1dUUkdPWkROTVJ6Mm9ISzY4N0tjTUJNdDFELXM0SXd1WVJ2dnE2ZlRQeG5ZUXZEa1lZUWZsYVVURHRMSHV6WHFrUERVM2J4c3U0UFB1SDRKMzdtWlo3R1d5OE1taVpMMjNkZk00dEdrNmg5bXJBS09GaTZvbktObnVJVEVzOTdDa1ZUeWNKd3g1bGtPZ1RTeWdTUTRnZko2ZDdtb0ZzbFVDaW8?oc=5",
+      "publishedAt": "2026-11-06T08:58:00+08:00"
+    },
+    {
+      "title": "🚨​ OFFICIAL: Mexico squad to face Jamaica",
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVB4ak9BVGNpRUxHcUVOUFlZOG12NlFjdURxY2x2SlFxTEk0dDNKUWJnSVpsMkJGRWFSWEItRTZBWUpzVzFJbC1QNTdKd1BTVTdVVjBpT1ZXeTQ1d1gyaWZmMFJ5b29ENmZCQ1pBSGowbWN6Q1JrZ0Q3UTNiZlhkLUxWLWRMMDRHcjFv?oc=5",
+      "publishedAt": "2026-11-06T08:32:18+08:00"
+    },
+    {
+      "title": "JPS and NIC complete Amity Hall Solar Project, setting a model for powering Jamaica’s agricultural growth",
+      "source": "Jamaica Observer",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOHYwQmtnUGlPWVJyQk5CMmlCYTZ3RlA5UHM2N1hleFFMM3l4MEVhSldaeTR2a0dFc2IwMGVvNzFKRlZWX1hmUDZaMWszejhNTlpzdUF2UkVua2VWMVVHX0R5MjFIVUdhZ0xBMFNueXdaYmcxRmMxT1plOXpxV1hIdG5kcEZLSUtETXNaMFdGdXBKX1RTVk16NWRzWnZITV9sQjJNSTRlV29kUUU0OEFlVDZBY3V6ejZ5SEFfSUNEMk5JQ0gtNDA1UlMtTVhWMnRGcG1N?oc=5",
+      "publishedAt": "2026-11-06T06:53:12+08:00"
+    },
+    {
       "title": "Jamaica Sees ‘Strong Demand’ One Year After Hurricane Melissa",
       "source": "Travel Market Report",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOFIzRTIzbXFvRWdqSU5iSzJubk0zVXVlY1hDcTFST2ozX28wTnBEQ0pNNUEwWmpCVG1OOG52bWdpcFJrcldtVTdHdUFQRUh2anFOUVQtakMyRTZreHExRTNYcC03M19ZdVlQZ2dLcHEtNlNzeWhiQlNSUmlHQ2dvbVRtQ0Y0NEN0NHJiT3l4QW1aNUJIRm81THptcmxLUFAxTnoyVTZPUVpCZDNmVVNBSEJEcC13b0E?oc=5",
       "publishedAt": "2026-11-06T03:47:48+08:00"
-    },
-    {
-      "title": "Permits filed for 74-unit residential building in Jamaica",
-      "source": "QNS.com",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBnNFJ3bFplQWFBcW81X2Q1dk12QWFKZDFBZVUxdV9IbUd6cWRudzFDMm8wZnFLenJqOGNVTThWOFJpWHlad1haRVpSSUdzazNOQXNqTk12VFlQVVl3UmxrSy1LYnBnVnQ3SXdENQ?oc=5",
-      "publishedAt": "2026-11-06T03:15:56+08:00"
-    },
-    {
-      "title": "Four América players in Mexico squad for Jamaica quarter-final",
-      "source": "OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORVY4bXhaT0Q2c0t0WmxLMzlKcmFPblhmSHJUN2dNOUdMdFFjaEI5LWllUW9GZ2ZKdXNtSFN4ekdUQkVkRXJLd3NURGRNaTFxMFFiTDVOQzhLVjJfYXhQWTJleFZUb0NDOEcxRk5FZFZoV01LRldGV25xdnl0T0JBS0ZXV0dELWJBYVlub0dWYVRuR21IMHRwRVJRaV96R2pfaVFFLXB3?oc=5",
-      "publishedAt": "2026-11-06T02:39:15+08:00"
-    },
-    {
-      "title": "Cops eye suspect who robbed teenager at Parsons Boulevard subway station in Jamaica Hills: NYPD",
-      "source": "QNS.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTVTOG43MVBzcmpNbERFeXhVeXVIc05NZ3J2dWxxR3FYdHo5c2lIcFhsOGpuTjJJbjJFR3FZQWxJT0dHNm9lc1V0RUFiaTU4WHFwVThGNGlFOTd6cXg4blZ5S3JmdU9yM1ZjRzRfZmFrY1hEWUtiM2RGQnZpVnVWZ3h2eGhmWS1McTNzX21qQ3ZSQQ?oc=5",
-      "publishedAt": "2026-11-06T02:00:18+08:00"
-    },
-    {
-      "title": "Bahia Principe Explore Jamaica to reopen in Runaway Bay on December 1",
-      "source": "Jamaica Observer",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOay1Ga1ZsZ1duNjB1eXlOMXZFUWRCMTRFdjluenJuSFJsZzBfMFBQTWZZNjVEODNzZUVpYzlJdy02eHRUSjNnalNTTWx4VEFFVkFKTjZBWEYxTEgwZ2tvVzJjUUR2NTJPNDBlWGxqSjczeDEtRXRHWE5zRUJFY2Z3M3lXT1lPd19tUGI5b0RIcUhhYXJYLW9ONnp6OGtyMTJXem43V0RiTQ?oc=5",
-      "publishedAt": "2026-11-06T01:25:51+08:00"
-    },
-    {
-      "title": "Jamaican physiotherapist named among World Physiotherapy's 75 noteworthy professionals",
-      "source": "Caribbean National Weekly",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaFVJVlBQamFuX0FyLUI5bmdtOG5VNlkyZkd2UUJHbzlxNk1Ld2RzdW5zc25yN0J6Z21rMWNGdlE2S205QkVFeUVlYlllVHlyOGtTS1Mya2x1WWRfUUEwQi1GYkt6cEhycndjeWJOMVZ2NG11NEtiUFVoTTYyTDJKTVFpemZkUkg2blp4MHJYUUxFTS1ZcUVRMTJWazlDakF6Z3JYSjVCN0lSREtvb19rVER3b21tbXdOcHE5eDlkNE1nVUJLX1E5bXBxTQ?oc=5",
-      "publishedAt": "2026-11-06T01:16:27+08:00"
-    },
-    {
-      "title": "Jamaican Students Overseas Encouraged to Contribute to National Development",
-      "source": "Jamaica Information Service (JIS)",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNml4NktmNzZLbEk0UDZ0NWVHYkZzOFJQWm5MdzN5d0xRQnktUVQ3N0diWTJEd0ZaMzlXck5OLXV5Z0dyYWVLUUlLUUNNSS0yRWFPS0lfZ1ZIQlgwdnFOb3NrM1dXMUEwaGxvRENJRG42MnNFZWViYVR5QjJqcXNRMXBIbGdseFBiMnVkSXJ2MzBYbDQ0Z0NlY3picw?oc=5",
-      "publishedAt": "2026-11-06T01:14:53+08:00"
-    },
-    {
-      "title": "Developer plans 3rd project in Jamaica, 1 year after major rezoning",
-      "source": "Crain's New York",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMVJSbjY2SGdzdmZpV01kR1JDZUd0cGxRUkRCVmI4cUQ5QU9PdFdFTVRNY3FfaHhCOFNBRlFFMy0xYUhpSWFEY3RrTDgxRVZTY0VMelF4T08yaWdic1BwWkVhVXVNUkFKa2VhT255Q3VESXd4TFNIWlBCS1RtbTVVZDhPRzR4Um1jWklaV09LbnI5WFVTSWlSSG5R?oc=5",
-      "publishedAt": "2026-11-06T01:12:00+08:00"
     }
   ]
 }

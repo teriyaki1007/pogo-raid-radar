@@ -1,11 +1,15 @@
 {
   "iso2": "MG",
   "name": "Madagascar",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Antananarivo"
+    },
+    {
+      "label": "Population",
+      "value": "32,740,678 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Light mag. 3.1 earthquake (unconfirmed) - Mayotte: Northwest of Madagascar on Friday, Nov 6, 2026, at 05:56 am (GMT +3)",
+      "source": "Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQkpLdFd2NTdMb2g2MjRldnluOFpBMURLQkVvVUFIRzJrYVRiYzczcjVsLXpJMWcxODlEZ25RandjMHJmQk1sVVMteGlKa01XYVRJNkVlazRxMm9TbURWMzAyRGM3cmIwZkxxSno0cTBvY3dhX3FsbzlMVURTZzU2QnhWbHQxWmVvQzZzUnVkZ3JLX2xvVUYxSGNTamtkaFBxZ0ZJMDZ3SWVoNERoM214Q2lXVGhGRGdZMmhPSldZTQ?oc=5",
+      "publishedAt": "2026-11-06T11:05:49+08:00"
+    },
     {
       "title": "AFCON 2027 Qualifiers: Madagascar Name Squad for Guinea-Bissau Double-Header",
       "source": "Dailysports",
@@ -66,12 +76,6 @@
       "source": "Divernet",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcnpqdWlncjRpS0liWFVEcjdCRFVsTExnOE5tM1NudW41WHA5TWFEV2NNYndTRXkzV251ZGt4d1V4MUVPWTk5dUt0c1RIV3pGeTV2d1dlQzNOVlEtdEhLcFd4aHBkaDJnSUNRV2Fsd3VoalVCLTZ1SnZxRXBEY2hBLXJCMA?oc=5",
       "publishedAt": "2026-11-05T21:17:24+08:00"
-    },
-    {
-      "title": "Madagascar's labor minister urges transparency in allocating public resources",
-      "source": "Report.az",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNemFBbnA3VG9Gd0EyY1FjZ0hZUjVHZXhkUi15Z0VzUHpVVFVDMXBCTHVsOXBFdXJCb1dLbUdVamc0QTZvOXdKOUQtVnRUdk1KWkE2MzdrekhWbkVMV092dFFjbjVESW53c09WM21jRHlSVnM5ci11VTNxZjk5Nkc2WHBKTU5pVTRhLVo4dDR5cTJrbHV2SFVGaHhURWNmQVNZQ2U5TkJMeXpQRE5ZOTNMVVRLYlRxUQ?oc=5",
-      "publishedAt": "2026-11-05T21:04:22+08:00"
     }
   ]
 }

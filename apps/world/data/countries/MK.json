@@ -1,11 +1,15 @@
 {
   "iso2": "MK",
   "name": "North Macedonia",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Skopje"
+    },
+    {
+      "label": "Population",
+      "value": "1,820,909 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,24 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Three extradited under international arrest warrants, two to North Macedonia and one from France to Kosovo",
+      "source": "Nacionale",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNU5KUVZxdFh4VmJmUFdzUlNPVC1WVW1FdGlpT3FFZDl6OG1UalJnRlBtSGFnOUliUDh2bmhPX2RqSFhmM2lKdnlSUXdlRFBKcVRQQkFHSHVrd0RBR2dGR3dEa2VKMFUySlY5WEh1eGtxdEJ0b0NKRmlnMnNBN3NsMzIteUY5T0tvS0dHMA?oc=5",
+      "publishedAt": "2026-11-06T06:02:58+08:00"
+    },
+    {
+      "title": "Three internationally wanted people extradited, two from Kosovo to North Macedonia and one from France to Kosovo",
+      "source": "Nacionale",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzR0dFBRdGJZRWpVTGt4SEVJd01xNHh1M2dpa2FOZm1GM2UwQmJaOU1templY2prN2JsaUJLZU52WDdjcG5mc09kc0tueFBnZ0VQN2dFV1pPM2VvMmJOYjJtSnFFeXRIU3QxRzZSUFhzcHA3UDlnTGJyTkR4aW1DdEZTQ3hSbDd1Z1h4cQ?oc=5",
+      "publishedAt": "2026-11-06T05:05:39+08:00"
+    },
+    {
+      "title": "Tensions Surrounding Alta Banka AD Bitola Remain Major Topic in North Macedonia",
+      "source": "БТА",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV0JldmNGTE1jU3ZZMlZLS1BoMVlUTXVqVWhvUUkwdlozX1ZucFk1ZzdueGZxTzVuclFfSzFZS0RCYkZnT2xRTE9QSFJNNFRaLXdaZV9pWU9ScHNzM0hId0lmNXZTTjlEN05JZGxjY3o4YlhLa2l0bzY4R2UyS1pNaHhXSXd6M3psZ0lydWhKcHNMdWlXcXZLaWNYUVNaNW5UOTFRMjNnV1lKX3BuUk9kbHEwYWxmamRhNDZmTld0UQ?oc=5",
+      "publishedAt": "2026-11-06T02:37:08+08:00"
+    },
     {
       "title": "North Macedonia's hospitality prices rise 1.6% in Oct",
       "source": "SeeNews",
@@ -50,28 +72,10 @@
       "publishedAt": "2026-11-05T17:30:00+08:00"
     },
     {
-      "title": "North Macedonia’s opposition accuses senior government official of ties to Serbian intelligence and glorifying war criminals",
-      "source": "BGNES",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRk9kaHZjOFloS2FBWlh5V09NNEl0TGRhS0VIWVY3TW4zU0Z6LWs0UVAzc3BtNDhvdmQyQURqLWVJVEFfdnk2SnRKeUhHczlPaGFYYUVCN2QtaU5fRGJKTTFMQ3dSVldlVHNEWDBfZWRtNHljQ09TeFdqbjBXT3pUdTl0b05aVkFXUElhQXVLeFoydllzSFczV3N0SVhSSF9IOGdGUkRZOXZSTThmTFI2RDBlN3hhcW1NQnhMVXZYMjYyN1RXLU83M3ZZbV9WMWZkdU1JeFliUDRYclJLUzFpekQzRkppRFdGU3c?oc=5",
-      "publishedAt": "2026-11-05T17:11:31+08:00"
-    },
-    {
       "title": "EU takes tougher line on Turkey and North Macedonia over Aegean and Prespa Agreement",
       "source": "ProtoThema English",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0VtbEc2QkRlckNoMmdQSGRzREdpbkpKU0k3akh4Nm5mZVJaWkhFMXJlRHhCVUVFTldUTGhoWkw5NUlZLUhldWxJSEZBTVNMb0sySDgxNC11dVlJMXp1NGVVX3FGVVFEaUpjTTBRcVFiUnJKazJOSm0tYUVyTjVia1Q0YVhJRUVUeFBBaXo2c3lnQmpydWFnRC1HaGlFSGFnTUFia1k3WV96c1FDSlRtZlB5Yjl4aUxpTXBzWVNB?oc=5",
       "publishedAt": "2026-11-05T14:47:38+08:00"
-    },
-    {
-      "title": "EU Warns North Macedonia Over Prespa Agreement Violations",
-      "source": "tovima.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYkVfUmRjSF83NE5YMlJuUm5DNWFLOHdpaEcyRnJiNVRDbVFkNW42WW1GLWlyel93d1BKcVEyYTh2NEU5MkVybmZaRW9scXBFc1J0MFhfanF1ajFsOFJld2F0S2Zlbi1kY20ydGtTRmRfeTdSeUFoZG1sbmFRZFJfbklRa3FjRzdVV05sYmNpZW0?oc=5",
-      "publishedAt": "2026-11-05T14:38:59+08:00"
-    },
-    {
-      "title": "Film set in North Macedonia wins Tokyo Grand Prix",
-      "source": "NHKニュース",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5rWWY2dV9vX0s3S2M2Ulh2V2ZtbVh6bkUzMnpGSFZvVVQ0NTZ0OXJwLU8xOURyTGc1WGxHamkxdUl2MXFrbGotUG8xU05Mc2ZTaVBXSGlZTFBNYmNoTlNCTHZDaw?oc=5",
-      "publishedAt": "2026-11-05T13:54:20+08:00"
     }
   ]
 }

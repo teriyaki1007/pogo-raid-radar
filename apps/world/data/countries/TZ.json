@@ -1,11 +1,15 @@
 {
   "iso2": "TZ",
   "name": "Tanzania",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Dodoma"
+    },
+    {
+      "label": "Population",
+      "value": "70,545,865 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,9 +30,33 @@
   ],
   "headlines": [
     {
-      "title": "World's fourth-largest gold producer commits $900 million to expand gold mines in Tanzania, Guinea and Brazil as it seeks to add 400,000 ounces to annual output",
+      "title": "The Case of Tundu Lissu, Tanzania’s Democratic Descent, an Unbelievable President, and America’s Message",
+      "source": "The Common Sense",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSHl5bXBNOWJJWGtSV29NQmhJVTFOczRBVlAxN3U4cGpHWmFVZnhBVDV0VzllV2ktbDJMOFRiOFlMWnJJSC0xMTJKU041VjhBcVg5UVlDZm5HblVvY3ppNFFxcWU2V2Ffb2VYSkpUeUFPSzlVVTJjak1yaXR0VjVERE1aV3hJbXNwV3FQQmU4WG41VXBOaWJURVBTMDZSU1h4cFE?oc=5",
+      "publishedAt": "2026-11-06T11:03:34+08:00"
+    },
+    {
+      "title": "Tanzania Digital Airtime Top-Ups Reach 78% as Scratch-Card Phase-Out Starts January 2027",
+      "source": "TanzaniaInvest",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNXzJ0Q0EwTEswQjRyWjl1dUlpZWtpdFRDN3BPeU0telZTSV9JZlVJbnJRZUI5alAyWXU5c3F6MW1MOF9wdEZOajJnUG5OYjJwUmZUMTltSVVYOElfNm52X1J5N0JCX2c4RVA5eHJ2RWJwa1RBN2pHTUY4UGhxeXNrYzFxRnpxN2FVZUpyMU9Ucw?oc=5",
+      "publishedAt": "2026-11-06T10:18:33+08:00"
+    },
+    {
+      "title": "Tanzania opposition leader set for verdict in high-stakes treason trial",
+      "source": "Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4Vm9TSk5SdGN5bjBFQWpkS0tBZHBMRVlTYUlHQ1Q2cEJFYlN3OXA3aGhQc1R0NDQtY1BSaDE5SlNGT0diX3hQOXNWNkhaa19xWk9NMDZ6cw?oc=5",
+      "publishedAt": "2026-11-06T10:04:02+08:00"
+    },
+    {
+      "title": "Chinese medical team explores AI solutions for radiology in Tanzania's Zanzibar",
+      "source": "Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LQVY3WnFPZ1NTRWxZYXNCLVgtTTFEVjNvVm1qeXdQS2wyQVVmN1lZbm96aWMyX0pLZXJsM3A3N1o0eFdCaXluYWZoX3pQblJOdTNERmx6WWRZRlY5eFdxZzJR?oc=5",
+      "publishedAt": "2026-11-06T08:16:00+08:00"
+    },
+    {
+      "title": "World's fourth-largest gold producing firm commits $900 million to expand gold mines in Tanzania, Guinea and Brazil as it seeks to add 400,000 ounces to annual output",
       "source": "Business Insider Africa",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeERwRVd5bmJ4akt0YndGV2x4UXZGSVhCclBETlBNWTRPRlU3WWVuUXVIb1l2MnYtVzJ2eEdMVk1KTXZfcFpTZ2JfOExoM25iUWVac2lrX3dLODdLWURDWWtONjVrYS16bk1fb19DZV9sWWtVWEFZd1hjRlVKRnBmd3JuWUVxa0xGWDFlV3FVSGVMYS1FZ1QxR0ZQUVNFenh0a243bi1rbmloVGxrTHJLaVJmakQ0bVRSYlZfU0djM1dtS0RSSmJBS1E5T09uUkt6Tjg1X2s3T0lQdw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb3Judl94N0xMYXNRZUlTN3ptN3VrQzJiRmliX2tELVF2Z2NQSWU2OTJ5R0l1YS04ZWxPbFA1bE9PcnU5d3hmbERqYmJEbkJYVE56UnpGQURkNjIxS2wwU1hGd0liTmp0ekkxT3ZCSHRrV25NMHc2RkZCVjMtUXZ2bWJSR1lKaXFRb1k0ak9JTDU4ZFYxdlp4TlRuSzJwdWZqdVBNRW1Md3dULUFPTFpDaXhJX1hFSlEzNDRTS0R2dEQ0X2N4aUNLN1EtWnhrTlRaZjRaYld3?oc=5",
       "publishedAt": "2026-11-06T04:12:35+08:00"
     },
     {
@@ -48,30 +76,6 @@
       "source": "Club of Mozambique",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQV2Y3WVhCRFplMDVEMmFfZmF5cUlFV3Y0RVo5WXZaX3VPQUUwOGI4REs3UHBsRFg4dmFMTElwWDM5dHQ3ajlma0FmaVdTME56TEw3Q3NfZUtTN2pwVWVDSWVldWRtUG0tdjhyRWljcVlONFpQMGpBREg0ckNYRjdhOXVtOWZkY3FRR2ZFX0h5UEk1ZjBLcko0TTV6bXVTWTA?oc=5",
       "publishedAt": "2026-11-06T03:08:43+08:00"
-    },
-    {
-      "title": "Zambia copper train derails and overturns in Tanzania, killing two people",
-      "source": "The Tanzania Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNOUdjZ05KN1FrVW9TeHYwRWNaRDlPTlZ1azd1QTE3MDR1Zmx2WXFKWlczUHpfbGtLMnMyZmxMYUw1OFNpdXZ1Yl9OWXgtUm42YzVMam1FUGR0bmwwLVVQY1Q5ZTZhYUNFQTBaNHFLcG9mYnFIazZNZzlYNENkWks2azRYMy1BVldfR0pIWENyYnpiTXNWcmxocnRnVWxEUU8x?oc=5",
-      "publishedAt": "2026-11-06T03:00:50+08:00"
-    },
-    {
-      "title": "Tanzania unveiled as World Travel Awards Grand Final 2026 host",
-      "source": "Breaking Travel News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jcmNIai1SNXlCdnVBaWFqYktwYnFZMzl2bWk1b1BtdlhIU19CRmwxUHJBNmFKREw4LWt3bWFIeTBXdE5wbTAxYnUxRXVCMFM3NmJRQzBPWkFRSWxwWTFFT2dhUTJpVTF5Z2tVZEhpVHdkUHBrQ21v?oc=5",
-      "publishedAt": "2026-11-06T02:36:40+08:00"
-    },
-    {
-      "title": "Kenya experiences tremor from Tanzania earthquake",
-      "source": "Daily Nation",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR3k4QjFzYThHNXdyeTJmNWNYQllfZHY5dTVUMTlqbFVCWlRYdXpNT0JZX0lkbWF5VlZnaThnTXVoMzQyZVZ4V0ExeXVhdDZQV2RYdXRWbHF4bnNJWWRUWER0UUk3WW45dXFZQUJ5ZnlNZWpfaGZwZWgtUTdnOHdHUWRrSFpvNjVqaVp0a0kxTEJlQ2RLUExITA?oc=5",
-      "publishedAt": "2026-11-06T01:26:06+08:00"
-    },
-    {
-      "title": "Map: 5.1-Magnitude Earthquake Shakes Tanzania",
-      "source": "The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM05USEJhUmxoZ3NsaXp4QnFKcm0ydENqb3Y4X242MEVXT3lobkJ6Tm9hdTFoMElSN0NsYXBvaWFick5aU1BxT0xVSG5pVVRhSWJuQ3FfbjdQTnphZVppSC1keXV3eU80ejJGN2NoVDRNdUZBdzNCdFkzRnUtNE9YQ1k3UGplYUc2SEJPdDdLQ25tVzdnd3p3?oc=5",
-      "publishedAt": "2026-11-06T01:17:13+08:00"
     }
   ]
 }

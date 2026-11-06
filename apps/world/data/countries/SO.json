@@ -1,11 +1,15 @@
 {
   "iso2": "SO",
   "name": "Somalia",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Mogadishu"
+    },
+    {
+      "label": "Population",
+      "value": "19,654,739 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,16 @@
   ],
   "headlines": [
     {
+      "title": "Somalia warns Ethiopia unrest could weaken AUSSOM security operations",
+      "source": "Hiiraan Online",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzRTTFlYakw2WUUybFk0OWdoMzVxbHR3ckFLbVVnb21DRmJOenFVb3ZSS3lDWDlvTXZuUG9fOFcyN3JrUko0MERUMWVwTXRTQm9qUjcxRk1xaWNqbENuSmpEeS1MQzhLWmpiaXRsU2U4ZFhiWnFjbGtCbEtjSENOS3h1b1hJdW5RR3BvcWRBUVVlLXhNNzRocEtoTFRGM1BuaDVSc3lvdTltdk1lT0VQU1ZjOWRsQ2U4YkUyU2FfSldCZw?oc=5",
+      "publishedAt": "2026-11-06T09:21:14+08:00"
+    },
+    {
       "title": "Somalia’s Supreme Court overturns the presidential term extension and triggers a new political crisis",
       "source": "Demócrata",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPd0JDdGdwbF9YSEZUVzRMSndyRk83YmtTbVljUlcwVzlQbjJPU255ZFJhRHJpVnhUT0lURTVRWDdvWHJYcGRnTUZVb3JteWpWQ2MyU1Zwd2N1S05OYjMyRThTaU9zZnRwRUZtbTFnaGJtR2NoRTBleE9XTEgzUHhVa3pEZGhHcFUxZ2phRHYzQWlmNzhTYnhsZkwxeWp2MWZDcks4a2s1VUZSMWtNTEFtV0M4VHhBWE9QcTdHRUNsZXNLeXRkRWxHWnlCenZkVHBrQlRiU2xkcmdRZGY50gHiAUFVX3lxTE11QlF5cUNiQ25oaVc0ODJjSDU3Um54eFJYTlY5X3FYZ3BoUTZYS1NKT2ZkYXhNcG5EaHB4dm9BTW5zQWdCQjBmVmhlTllpN2xaZ3NtVTAzdXVUdTdkSWtFdVY4MWpVWnpoRWE0emdsX3Nsb0N3Q0Naal9SWWlPQ0xtekxCOG82RjRJLW5Lc0hMT1dOSHNJZnQtdFhHbll6ZmFzTVpjeXE4Nzcwb28wa1lTRGxyTm43SnNtUy1Ba1M1djFMbWVjSm52TmNncTAyZEZRaXB4V2VYS1pvTGw3a0RHcFE?oc=5",
       "publishedAt": "2026-11-06T04:38:36+08:00"
-    },
-    {
-      "title": "Chaos in Somalia as president accused of arresting chief justice over adverse ruling",
-      "source": "The New Arab",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMi0xbGtMVTQ1ZnpKNHZPYmxCTlQxRHlreHZlc2hfSDFRZDZZS3FYdXFGSndoalYybnlTYm9kUzJxTkxOb2pTUUdDWmpBVERjM21NcUQyamlXZU9ZdlpzMFVVMkRuUmNfb08xam03U0hwOHZSLXhad2pkeDV2RlJHcVVhZ2JuR0x4eVU5eg?oc=5",
-      "publishedAt": "2026-11-06T04:02:24+08:00"
     },
     {
       "title": "Somalia’s Supreme Court overrules presidential term extension",
@@ -44,10 +48,10 @@
       "publishedAt": "2026-11-06T03:30:00+08:00"
     },
     {
-      "title": "Somalia warns Ethiopia unrest could weaken AUSSOM security operations",
-      "source": "Hiiraan Online",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQzRTTFlYakw2WUUybFk0OWdoMzVxbHR3ckFLbVVnb21DRmJOenFVb3ZSS3lDWDlvTXZuUG9fOFcyN3JrUko0MERUMWVwTXRTQm9qUjcxRk1xaWNqbENuSmpEeS1MQzhLWmpiaXRsU2U4ZFhiWnFjbGtCbEtjSENOS3h1b1hJdW5RR3BvcWRBUVVlLXhNNzRocEtoTFRGM1BuaDVSc3lvdTltdk1lT0VQU1ZjOWRsQ2U4YkUyU2FfSldCZw?oc=5",
-      "publishedAt": "2026-11-06T03:23:09+08:00"
+      "title": "Somalia's supreme court rules the extension of presidential and parliamentary terms is unconstitutional",
+      "source": "ConstitutionNet",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVkZxXzhTT0oyMUZkc29TNm1tVWQ3Z3FoZ3lLNzhHeF9oWmRLMGxoSTdYREhKRXZoU0Q1QjlEM0YwS25IMDkzQnpQbXlpNXhWZmJrUUhPVUVnTFVPY3BFSkNTWi14ZHdNREp2cHo2SjZvUzBXX3IyMkJYcEstQVc5ckl1T2EtMWpqUUVNaS03WWktV3BOMTk3U2MwNUlyRGFCZnVRNFZXMmRkOWZKRHVDdHpnNXIxZHlLc2hvNGhzTFN6Zjg?oc=5",
+      "publishedAt": "2026-11-06T02:33:56+08:00"
     },
     {
       "title": "Somalia’s Constitutional Crisis: A Former President Clinging to Power and a Chief Justice Who Found His Voice After Dismissal",
@@ -62,16 +66,16 @@
       "publishedAt": "2026-11-06T02:13:04+08:00"
     },
     {
-      "title": "Somalia's supreme court rules the extension of presidential and parliamentary terms is unconstitutional",
-      "source": "ConstitutionNet",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVkZxXzhTT0oyMUZkc29TNm1tVWQ3Z3FoZ3lLNzhHeF9oWmRLMGxoSTdYREhKRXZoU0Q1QjlEM0YwS25IMDkzQnpQbXlpNXhWZmJrUUhPVUVnTFVPY3BFSkNTWi14ZHdNREp2cHo2SjZvUzBXX3IyMkJYcEstQVc5ckl1T2EtMWpqUUVNaS03WWktV3BOMTk3U2MwNUlyRGFCZnVRNFZXMmRkOWZKRHVDdHpnNXIxZHlLc2hvNGhzTFN6Zjg?oc=5",
-      "publishedAt": "2026-11-06T01:59:30+08:00"
-    },
-    {
       "title": "Media accreditation now open for Ghana’s 2027 AFCON qualifier against Somalia",
       "source": "Asaase Radio",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUJJNEhWR1RvTGUtOHE4WGVVaTk2MWpVNk4tMXBtSnllekZ0M3lmRVlFWTVUYVM2ZndDdEtfc3NZU1A5SVZHVmNOY3Q3OHl2aTJvYmdIdy1KWUNMVW1jUWVib0Q4ZTRWLTMwV1Y1TGREa1Rnc0R6UXEtajRFcEZwcUhiTDhBR1ZOV2FnSWR3OG5vLS1JSjZOYkE3ZGdQcXJpbXRJ?oc=5",
       "publishedAt": "2026-11-06T01:50:02+08:00"
+    },
+    {
+      "title": "ALTERED: This video of Somalia’s President Mohamud's address at UNGA is doctored",
+      "source": "PesaCheck",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYlFPcXp4blpJS2xKaWdkenpHVk5vSUdPamJWUElVcF9zRXlXRWNJU211ODFLVktPZTF4aUN0TTRNcGQtVm4xSG5HMXI2S3hWSkMyaTloRk13NjRPdnJUMjB1ZHh3MlRVWng1bk13b3REWGh0SUFEZVA3NjVVWDNLdlZoYUtsNm5CcEVyaE9uaVRrekhTeGxNeTJpcWJSbHhheEE?oc=5",
+      "publishedAt": "2026-11-06T01:34:23+08:00"
     }
   ]
 }

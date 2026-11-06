@@ -1,11 +1,15 @@
 {
   "iso2": "CN",
   "name": "China",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Beijing"
+    },
+    {
+      "label": "Population",
+      "value": "1,406,585,000 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "Pentagon Eyes Unprecedented 75-Year Deal to End China's Rare Earth Stranglehold",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSmxiUkRkOGMwWVRxN1daYVdnd3NwR3VOSWtITHFyLUNza2JVUklENUxjTS1oVFlncVJSNzhkZUM1RnNhNjVFNXUtXzJXMElIVGNfTmdrNDNDVDJsdktKbl9heTJnWTV4SUlSWjIwVmhtX0NmNG4yNjJQd3pWTUpWc3VZRDRVZ2xORlZucnJSZDVrcWk2MGNadUUzX1Nlc2g1LXRvaVhmT1I0bVFheElheVA0eHFNcDVWcjNNSDVFMTRaeVRP0gHKAUFVX3lxTE5OUkNTS2Fna2s3Q1pVaTVxRnJpd0tOWmlpamF2U3RMZlB1ZmNUUjkzWjhob2FzMkhqWU9CNzE4Tkp3TkhiVTVkVEd4V2g0ci05RjVMWEFPbVVrazFHS1lfRHh4eW1UWnRtUXlCcVdEcE1taW9wV215WG5NRlNCTjctZFpUVFNFTXBuQnpoejduQ0thQVlPMUJUQWo1dUJsT3JFc0RXblFFZFRnNWw5ZkZTMzJyYW1uekdXM2xKXzMySkJtWXY4RFBuT0E?oc=5",
-      "publishedAt": "2026-11-06T04:39:52+08:00"
-    },
-    {
-      "title": "The Blogs: Where China’s Strategy Is Really Being Tested",
-      "source": "The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWWlRMU9kTGNadlZJS3YzWko1LWJBZlpxX0xVUUo0SmlyUk9hZ0RwaGM2djI5RGwtTjE3eTBnRXBURXpRdGZuUFFwSVV1SEhBSElRQzNxUDVkbXlNbS1yX3JDaHgtb09INU0wMlVuZjNJNFYtTVZVem1rMVg5azlGN1JlRQ?oc=5",
-      "publishedAt": "2026-11-06T04:16:00+08:00"
-    },
-    {
-      "title": "US sanctions Chinese firms over alleged military supplies to Cuba",
-      "source": "South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZ2JTLXRkU2VVQWZkTXYya3VPSllnczhIQng1bnk2bkc4clgxRjFvdGdUVlVaOGQwQTg1M3FkbGQtUGtUY3BuVjNuek1nRl9KVVN3RGZIQ0tiYWhuSTAxd1hTM2d2YlNZSGtha3dqRUQyZG1ILWZxM1VVZkt1UUQwbjQtOVVpcWhZUkJwZ3BIRWJmMHJfQjY1dkhuam1BUG9qdjFjcmhicDlVeUlrbjVaMVZFRF9xMGZXS2owedIBvAFBVV95cUxPSy1yaUVJQm0tUkttZVFvWmdrRVl3VmtWc3IxN09XTDdjcHNaay00Rnl4LTZYdDZVOWJldnp3QklZMXNfMTdMYVhOQUxSSV9sYTFDdlB0eDFQQjZYX2twdzcxZFpjcEFMX2gwVk50RTdfVkxDa29tbFM2TFBkaWprcTZZTXhkc29sM0NyQnFlSWM1Y3FuSVhKNDhLNmVQSXFHVEQ5dkFLUG5TVVE0cld5ZmlKVV9MZ2tJb1VTeQ?oc=5",
-      "publishedAt": "2026-11-06T04:13:47+08:00"
-    },
-    {
-      "title": "US escalates economic campaign against Cuba and targets China-based suppliers",
-      "source": "WRAL",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQb2FEVFVwcTFkVGFEd0EwSEU5WWY0amRya3lSVWxCZ1hJeGhVeVhvVjE2VElOX3QzOGNkTVI3aHBjQ2RsR294TGV0cDM4S0cwNXVxR3lnak4wYnVNaENKWG02ZHlvOTJ3RTlTZEZqMWNOVXFKUi1jOENybnExNldQZTZSTl9OelVKd1JtajVNYlJSLUtpY016cUlNQTlFLURXRl9sU3VvdUJGWlkzOFIzckhXcw?oc=5",
-      "publishedAt": "2026-11-06T04:11:38+08:00"
-    },
-    {
-      "title": "Two New Gelatinous Mushroom Species Unearthed in China",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ3BzVC13Znh6VnYyc0FHTmNuWEkzWUd1Q0NNMFVmVTgwTGw3cjZ3dUc4WldoTzFrcXVGbmV2aWVDVnJRNVBvUVgxTjZ3T19qel9OMzlQajF0TFJyTkRta09IT0R3MkNIc2ltdEZsWXQ1dHNNTE81cnBzM0NKTmZ2RHQ5X3dzdw?oc=5",
-      "publishedAt": "2026-11-06T04:03:21+08:00"
-    },
-    {
-      "title": "🇨🇳 China’s AI selloff may be the warning America hasn’t fully priced in yet Some tech-heavy parts of the Chinese market are down around 50%, and Beijing is already stepping in. Officials are reportedly scrutinizing insurers’ equity positions and pushing comp",
-      "source": "X",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XakhyR21HUGlpMHpnWURERmM5WGtfbTgyU2U1c1BtOHhRelJEYTQyT2hGVWlyVFJReFhGV1Z2Y2k0MmxORVNURkpQR0NuNE5NQWN5bUFLQ21XbktlSGJmZ3R2dXFydWNRcWJCaQ?oc=5",
-      "publishedAt": "2026-11-06T04:00:06+08:00"
-    },
-    {
-      "title": "China's Qyuns Therapeutics licenses antibody program to Caldera in up to $780 million deal",
+      "title": "Taipei mayor election is a victory for democracy over China whoever wins, says candidate",
       "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQnkwM0x0WnpkNVJmUFJHTkFzVGRrTmtXZ3NzN2JNN0I2aVNOVmpTdHQyS1k5NkZPalViNVBCVFFiMUxWLUNYN2RZb2xXWHdPZTdFaVRYVFR0UFRxeVRwdjhCakZvQlZiYUxZS3o2YXJHclZKTFZ1UWNxaVYyeGl4OHkyS01RdE1tUm1WWjhjTllVaUdlRThselNFTjNpVVhLdURmNVFEbGEwcFQwYzdRZ2VRTzVLWEpUX3NybU9UWG4xbTZCWHMtbzAydEI?oc=5",
-      "publishedAt": "2026-11-06T03:45:44+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRW5XalRkamVpa3ZpbjZneDktVzZXeHlkVV91TVdMcFRQZ0VpOURMSy1fM0t5UmVrNTVMNlk2b0d0YXF4cFBhc0VOenVXRlIwdVpkck9VSmZxRWJQRU4zd1gxWjdjMlpCTkloYUh2d2tqS19KTkt5dTVPbXdqWG5PUTZlSXFfdTJkNDNlbkpvT2ZzRWxoWWZTaXdHU21icjQyenVlVmNOMU9Lc2dFdk1XUUtrYVBLa1RpeVlv?oc=5",
+      "publishedAt": "2026-11-06T11:08:09+08:00"
     },
     {
-      "title": "Kimberly-Clark beat earnings estimates as China furor weighs on sales",
-      "source": "Quartz",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZkItbmhIVUJOOWo5VjVXYXhyWkloTmFUXzhsUHZhdkh6cGQwR29BV1hrd2x4b18xckZBaUZaTG1tOUJPcUhOaUlNRlZuUWJ1T095R0lZRlFDLTFaT1dwMHZ6ZzJZU0Nxa2phTE1SdTdLZUUyWU1BcWVTYUtrMkJ5eA?oc=5",
-      "publishedAt": "2026-11-06T03:38:47+08:00"
+      "title": "China's Standing Committee of the National People's Congress passes cross-border corruption law",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ09kN2ZORmUzV3NkUVJmRFpwaGhfdkFzMnJ2ZjNGcjFXRmJqLV9fUGZQMXRTVlFFSGhEeEFRM0tVNmkzb3VKVzJ6alZDZHExdDF0ZjZ5WDdZNHljTTlVdWUxdFhJOFR4cUpKTnJkTUg4QlJkOXhLOVBuaUNweTlubFBIRlJ2Q3o5Z25uRnZVVHFzQjg?oc=5",
+      "publishedAt": "2026-11-06T10:58:00+08:00"
+    },
+    {
+      "title": "China's Marriage Rate in Third Quarter Tumbles to 18-Year Low",
+      "source": "U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkp4Vkx3TGdDTFlZSmJsQkRqWms2enl2elhvOHA2emxFRGwySnpWWDVNRTlJYWlCYXZnaFFJd28wOTdfSkhpOF9PaDQzQm40Wmd5TWpwSW1NT0NkMzZmekV3NThfeDF2bWtTbEJuc0xvZlpxVXlGZmlHNElQUEVtbUIxLXU1ODlTUzd1bU5EaFJBclV0cTVyQ0VNYlkzVVdxUlFlY05IZENlR2NhQUxrMWdGVks?oc=5",
+      "publishedAt": "2026-11-06T10:52:00+08:00"
+    },
+    {
+      "title": "Stellantis and Dongfeng Shift From Selling Cars in China to Two-Way Technology Exchange",
+      "source": "Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZzdPOWs2R1ZzaEhyWHNpeXFMaWNQcU5WeE85ZmE5cnRzZnA0SzFqcFZSVmt1MERiVWFMWndTYjREb3BubVdlRXlYS1V3NnFjMm94YWkwbGs3ZmZ5MnpBWVJBcjBseFhKSVRHbDJQS1M3WmdEQlJ5ODNCUEpXX2dHR3ZXSUZ4T1BZMFRtbkRreG9RaXV0UWQ0NFljbGJoZ0FGOWVNZ1IyYjJaczZlU1ZFQTFFd3lTdDFydWhDSjVBbXhxaXV4YzN0TG9rbXBEcnhjQk43dVBRMmpiWlMwSlVmeEpXNA?oc=5",
+      "publishedAt": "2026-11-06T10:46:41+08:00"
+    },
+    {
+      "title": "Brazil Looks to China's Rare Earths Playbook as Lula's Reelection Complicates Trump's Plans",
+      "source": "The China-Global South Project",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVFVNWS1raGhNNmhsQ0dvNThMVThBVS1UOGdJVGpBTmxWbnFqNks5ekU2NjBROXdhdmpzZU5URHN6Z2piMmtQSnNsOUx6NWNXQWZ5R2V5S1ZXbVI1d1c3dTRqQV9rdFYwTGFibXhWdV9BSTlOUGM5bEEwM3l0LW51TUFxU0U3V0JuM1Vj?oc=5",
+      "publishedAt": "2026-11-06T10:36:09+08:00"
+    },
+    {
+      "title": "Lawmakers demand answers from Air Force on cuts to China Aerospace Studies Institute",
+      "source": "Federal News Network",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHhjdTQ0ZllHampVY2g2Sk9WT0puaGhLOWFhRGgyaWROeG9RUkZqZWx3TUE0SzQzOTNobmNmeHBUZ1Aya2pfZnBhN1ljb010dDByOGMwalN1RHlSdTBENkIwd3BpYU9Jai1nS0JwR3FhSk1IYXFtYk1KVVAyX0gzQzZNazExZFA2SWhDNmdfOWdfLWRJU1Zpc1dkRXItODVqdlBqei1aZFpoZXg4dXNyckIzVWlpcTdXc1FjWlUyblNwbW9Cdi1TZUtwVnlmdw?oc=5",
+      "publishedAt": "2026-11-06T10:26:15+08:00"
+    },
+    {
+      "title": "China-Italy poetry and cultural exchange event held in Rome",
+      "source": "Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtRjg5bTB5X2R1S09ySVFlRmtWTFo1MV9nUy1yYVdTYXhyTHM0REhfLThKMnBxekNqZjR3TXZ1VmF0bFAyQnNaTmNQU1psWEYtYzE0ZTJQc0d3OVpfaXA0SktB?oc=5",
+      "publishedAt": "2026-11-06T10:21:00+08:00"
+    },
+    {
+      "title": "China Sees Fastest Emissions Drop Since COVID Due to Mideast War: Report",
+      "source": "The China-Global South Project",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdHBtQUtFTnVuYkt3SUl6YTc0QlZMNG9RQWNfRWFsTUVkVzFOSWVZQjFpR1Q1N18wdGZETnlTX2VUYTNieEwwdmZCTGlYekFWdUFBV3NzRTEzbVZ5Um1HUWJYMGJSSk43T2NNUEdrTmViMXdaZW5lajB6OXhxSG15cW1GTGFuMjRxTFJGYXVwR0pzUm42aVNDamN5MA?oc=5",
+      "publishedAt": "2026-11-06T10:17:47+08:00"
     }
   ]
 }

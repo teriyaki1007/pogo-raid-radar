@@ -1,11 +1,15 @@
 {
   "iso2": "CR",
   "name": "Costa Rica",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "San José"
+    },
+    {
+      "label": "Population",
+      "value": "5,152,950 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Costa Rica Welcomes Direct Flights from Poland: First Flight Lands in Guanacaste with 251 Passengers",
+      "source": "The Costa Rica News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb2ZtbFhZbWJGd2NpWGFCX0pPOVE3VVFmem9tbW9jMGpTdGN4Ml82MW9CQXlyZ3JFUXBrM3M5b3hEdkNHX1pkNkdnNmpRcmdmSXN1YUJJbGc0UEE0UE9tdENhWFRueGk2ajAzek5jRGMzWnYwUll1SnpMeGJMVERxSmdfWTNjSkQ1NUxBeThLMHd3bkh6REZweENhdTlOMHBfckJKQlFkYUdmOFAtTTE2RXd3LW5uRm9PWkdlY2JOblpIM2RLN1NpaA?oc=5",
+      "publishedAt": "2026-11-06T10:47:38+08:00"
+    },
+    {
+      "title": "New AI Agent Arrives to Transform Corporate Accounting Management in Costa Rica",
+      "source": "The Costa Rica News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGw0Zk51TUZnWDlvbUg1a0ZhYkJjbFBoVUVVSTg4cDJYWElDVGNjazQyNXVTV09qTDFTTFFnb0V4SHNvTG9pMU5iQmNiQVV0T3VTOWVwTjRqakc2dThHa1A2WDZXMm90X1JNSnlkRHhOakt2RDR5eG9sZHhaV2tNOEpLTlhBRzRhenYyWFBNb1FOdFNxSXVEejIybDlTWjhDakt3MUMyS1VwX1ZfeGc?oc=5",
+      "publishedAt": "2026-11-06T10:29:17+08:00"
+    },
+    {
+      "title": "Costa Rica Voted World’s Most Desirable Country by 250,000 Travelers",
+      "source": "The Tico Times",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUlBRdVNEcmUxSnFUTFVGMHNpUzlHb3A1NER0SExWcHlZNk1Za1lxN2FxNUw1OFF6Nm5HcHZCRHNEbnVCdE9fRVRZQVlvTjAtcDVHWmtDa2htRFBGNjdvY1liLTFrOWpOYm5UYzJPRk9VQ0lYcWJMSDQ3LWc2Tm8zLU9kQVFEX0xqM2c?oc=5",
+      "publishedAt": "2026-11-06T06:00:00+08:00"
+    },
+    {
+      "title": "Costa Rica’s Grynspan extends lead in informal UN chief poll, sources say By Reuters",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ01Ia2Fuc1YxZnQ0NjdkSTNKa0hlRFkyWWVnRWJMRk5OLTE5R21YZndPanFwTmhiXzZHMVpTbGY4Q2pyWVpCVDN6N05HQWNyLVR1djlsRU5XNWRUUEFqa0pGZ3BYM0FBNUtNQmdsYTRuWUVwQWlfZmJYMUVaSVRGS2JnX2ZYM3JtVlktZ29BZ1AyVUZWUlYwWkViVnR2MDdOdWFaRnVTNmV5R3ppT1ZZLV8wMFFBSjdEZzY0SGlpMFpxQ094TGNn?oc=5",
+      "publishedAt": "2026-11-06T05:49:08+08:00"
+    },
+    {
+      "title": "Costa Rica's Grynspan extends lead in informal UN chief poll, sources say",
+      "source": "www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOWdIU1pmSDk5UHNORkt1SE1kcVQ0ZTd4RGU0Ym1pWjZhRW1SbllTcTdpTTFnQjBwZjlUMDFiREFiTmwyMHhia3pSUGFLbkltck1QT0NZcUdOYmRCNUI5MjZoVVJiRldHTUdPbDV3TU5ydy1jTmtDOTFxR2xfeDZsLUhSV3c4QXN5T0hRSDYtU1NIdTlNOUNJU1g5T2lvWlBvbFJXZTJoRUk4TjhHTnUydko1TjNvRTYtZndjaFI3S1NWR00?oc=5",
+      "publishedAt": "2026-11-06T05:39:35+08:00"
+    },
+    {
       "title": "Costa Rica's Grynspan extends lead in UNSG poll as Nusseibeh places fourth",
       "source": "Al-Monitor",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmlVLXNjVC05dEFEZ29QQmNoU0tWVnF2a1o4VG9yb1dTbXc0TElfTkZzS0RpOTlZYlJIQTByT3BCVDY5RlhyejZod2c2dTVBZU9jbjA2MnVrWDhEeUlBR0VUTWZaM0VRcjA0TTNWc3lOdWhyVlBZZWtRenRHc0NudHpHSG52Y0dJYS1wS2ZiNjQ1UDhpN1NrTDYtYlRZVkF0ZDMyTGtNc2hKUVRZVG5YeVhB?oc=5",
@@ -38,40 +72,10 @@
       "publishedAt": "2026-11-06T04:47:13+08:00"
     },
     {
-      "title": "Costa Rica's Grynspan extends lead in informal UN chief poll, sources say",
-      "source": "Devdiscourse",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWm84bjh1Rl9Od0ZpbEJTQlVSY3dlMi1xcWw0ZTdpdkxkeEtHRmpkNEZWVEpXLTVqVFM2clpheHE5MVEwMkc1TVVNY25ocWNvQ09fUEdzVERVUjRJWlBDYUtRUnVZTU05SlFVQlQzNkVVVUJ0dkpFSWdRUkZzYUQ3MFZqYko1dW5iTWlQemlTTk9HVmEyeW5YZnFNWG9ZNG8tYi1VWm5pSzlXeU1EYTYxeGdjZTRDMm5XLUYwRGhURlRTRGQ3Y0hTcmJB0gHPAUFVX3lxTFBFdmFhTE4tRXV6UC0yVVZhcWg1NkliQlEtT1J3ZlFYWndlcUJ4cGFVazROOFBxVXlZeGNlOGpSbS1vVnp6ZmFiZ2xma2R1ZXJQeGM3bi1LcTRRRFp1cG01MVo5MURIX2R6QXc5R3RYYW1TaFJHSVByVFB3VEtXYkxoVldtU0VDcjk5MTJMSXpTZzhkNjF2amF0VlNVUjM4LTcyU3g0R2VDV28xeUNiT1BaZW5mUTRxLWFreXZhbW1CSFdrTUptc3J1T2JWNzVZcw?oc=5",
-      "publishedAt": "2026-11-06T04:11:26+08:00"
-    },
-    {
-      "title": "Costa Rica’s Grynspan extends lead in informal UN chief poll, sources say By Reuters",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ01Ia2Fuc1YxZnQ0NjdkSTNKa0hlRFkyWWVnRWJMRk5OLTE5R21YZndPanFwTmhiXzZHMVpTbGY4Q2pyWVpCVDN6N05HQWNyLVR1djlsRU5XNWRUUEFqa0pGZ3BYM0FBNUtNQmdsYTRuWUVwQWlfZmJYMUVaSVRGS2JnX2ZYM3JtVlktZ29BZ1AyVUZWUlYwWkViVnR2MDdOdWFaRnVTNmV5R3ppT1ZZLV8wMFFBSjdEZzY0SGlpMFpxQ094TGNn?oc=5",
-      "publishedAt": "2026-11-06T03:30:00+08:00"
-    },
-    {
       "title": "Costa Rica and Spain triumph as the Duke of Sussex delivers the keynote at the 25th Wanderlust Reader Travel Awards",
       "source": "Wanderlust Travel Magazine",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQbVFiazdtN2dQdkFQVWFJWmJWSWMtc1d2VWtLbVYxU1QzSHRIbEZYeURtS251NVFlUFV6VnJfVy0tWFh2LWk0M3Q1SWFkazVWbXlQbjR1TGpzVVlLR2JzS1VjZ2htMDBLaTJNQjFhNlE4Ni1vRGVuQmpqa21OdXh3aEZBQmhPdHViTDhOdDZSWks4WE5ENVk5UzhieGdjeHRPNU1wYjZLRllSbFhwQmZheUVNckNGRnhUTGdWcnE4LVp0NXBVNW0tOE1oTnoydzhMbnN6ZGktSG9DeHUxTHktMVRMRklnVjN0eW02OQ?oc=5",
       "publishedAt": "2026-11-06T03:29:54+08:00"
-    },
-    {
-      "title": "Costa Rica Unemployment Climbs to 6.5% With 20,000 More Out of Work",
-      "source": "The Tico Times",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTWJrVXdRTzRsV0VRYzY0ak1makczT1l0dVdvUUR6anJSQ2RvUXgyVTRrUS1fNVZ1Y09pTVMyeUlCMWNLN2NmVDhpdVhwZTFfZEZDRmVWVDlsSVFEVUl1TUt1WGs4SkdyakxucDVGWW0xcEZJeGRiRDktcU5kNmUwOFZZd2VjYUlvdXJCTExaMWc?oc=5",
-      "publishedAt": "2026-11-06T02:25:29+08:00"
-    },
-    {
-      "title": "National Geographic Names Costa Rica Central America’s Ultimate Nature Escape",
-      "source": "The Tico Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ3pmZVN6VUFWNHJSWVhqVHVianVIVzROdjFyZWpjb3BGcHpfN3JIU0JGVkRCTmlLWVlON3RaNVpaZmpXcmNWMERQd0FxbW5vWThGOHlKY1Y5Zlp2dk5BSk43bHN1U0x5WUlubHFtNVVmaWVpYUFxRWdKeGsza3lNMFFjNU4welAzZ1NnblFoRQ?oc=5",
-      "publishedAt": "2026-11-06T01:00:00+08:00"
-    },
-    {
-      "title": "Geographers Experience the Pura Vida in Costa Rica",
-      "source": "Godolphin and Latymer",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNDNBSS1ESUowVzJxTTRfODdSU0JTMlp4djFpcEwybFlYX1hicWZvZnRFaDVjblJXLTZmLUFCTG5YT0ZmMmw5NDlGVFlHeV8wdkp1Ry1UdE9rYm9Qa2dtMHloX3pTR2xGX1FMYnIxck1hb3YtZFBMSGJXcVlhODZ3cWp0ZmdaRy16Y1o3WEx6VFk?oc=5",
-      "publishedAt": "2026-11-05T23:40:00+08:00"
     }
   ]
 }

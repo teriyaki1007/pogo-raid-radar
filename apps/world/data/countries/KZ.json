@@ -1,11 +1,15 @@
 {
   "iso2": "KZ",
   "name": "Kazakhstan",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Astana"
+    },
+    {
+      "label": "Population",
+      "value": "20,843,754 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Kazakhstan and Germany expand environmental cooperation",
+      "source": "Qazinform",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY0R6bThWWURUbmJ2NWpmRjZpemp3M3pjV0U2NGxyb0h0REN6NDZ6WXN0cE9OWkhpb1FUZGxrdEpFRW5mNDFNUmlNQnNtNVEweXJQWDkyc3ZTV0NzaVBtWWtDaWhydEpDZEVHaHNuaWZqMks1bzB4UThxZGU0dlA0NWdITXBfaHliZW84dWJXU3NvSnPSAZMBQVVfeXFMUFJ0SWQ3NUtNeXNwZWpEWDBtTmdSU25rd0hhb3B1TUtGa3FjN1JtR0VaLUVKeDhpcXZoeTlSR2R4WkVLSTJxT1YtOWJJQTBjSlo2NWl5ckFUZXR2Tk9VZTNhaGg2TS1XRTJFZzZSd1R6Z1B4aWlRaXRhT0xnWElIdmlaMmtUNmt3V0ZVM201OFI3alh3?oc=5",
+      "publishedAt": "2026-11-06T09:41:37+08:00"
+    },
+    {
+      "title": "Operator for radioactive waste management designated in Kazakhstan",
+      "source": "AKIpress News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPblByTTJMY3paTWUwY3NjVjU1dmZxOFM0cENDMXlwTF9mRU9saDFfZGFfS3dwMG5YemNXNk5rM2Z1TmNiSC0zY1lhcWdFcF9mTlU0YzZ5UUpwS2JaNFdxMGhieFR6OE4yVlpEekhBN0ZfdE5WT0FoT0pPQkthRDVqZVNOaGtGT3NXbnU0VVRmT0o0ZDhfU0hpeWk0YVFWZkp1YlE?oc=5",
+      "publishedAt": "2026-11-06T08:24:00+08:00"
+    },
     {
       "title": "Kazakhstan, Tajikistan Prepare for High-Level Talks in Astana",
       "source": "Caspian Post",
@@ -60,18 +76,6 @@
       "source": "Latest news from Azerbaijan",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQay1PZzBucjQzcjZzY09HNVdxRFFuS0F2ZHpKVUI3UG43X3pxNF9uTmxaS0EtekRxTEZXUk9Xc01kTF9kTmJaOVBRX1o4OVVUa2lNbmpJVXdCSWl2bkpyUkprei1aakwzTWJyU0M5UU5fS0UzRnlEczNjQkxQZmZFWWZXaFJrVGFXOUUyWHVMNEV3Nlk?oc=5",
       "publishedAt": "2026-11-06T01:50:35+08:00"
-    },
-    {
-      "title": "Kazakhstan charts tricky path to export 79 million tonnes of crude next year",
-      "source": "Baird Maritime",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN2REUkxGQUhqbUZGanBFYnRnYUpkZk1EanBjTWZtOVdYdlkwdFpTYndCaklQRy1Kc3d5ZXYwNUZVSFMyUFN1OF9tcFBuWV9EMmJrRkNjMk9qcnhDVFBFNXM2dE5aN21aLXQzSmtfYWpOZlpMZEo3NWc5T1VVS0d4RHdQbTZ2Q3hhaXE4NUgyWHp4QW5aeGdfNzdESWdDR0dFZkN6N1VYVVdaUkoyLXhfSlJvakh6YXNtcnRrXzVUQkvSAc4BQVVfeXFMUGpmY3ZFQ3Byc3ZQWTRjcXBCV21jYV9IeGdqSzU1QnBBa2RVc3RIdFJxRDFUVnFoWFlBZklMM1FsMjZHck9xZ2Ffd20yTXNzUTMwNW9tVllOLXNnVFhsc2VoLTZjQVBWeUVUc2cxSkVIWnRQdmlhU1pEZHF3RF9fY2lmeG9MVTM5RnlGbWRrZTNEZFl0cUN0R05rWDVrb3ZtLWlfb0F6Y1VxX0dYblB2VUhDZU9IT2YzMDAzeUM5VnkxWEhnUFlQbDYtQVRBOVE?oc=5",
-      "publishedAt": "2026-11-06T01:45:36+08:00"
-    },
-    {
-      "title": "Kazakhstan to brace for precipitation, strong winds and icy roads Nov 6",
-      "source": "Qazinform",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZzl5S3h3N2l1N21kaHl1MTQ4Q2poMTlBekZTeEkwd1ZXa2lIZzdBWEFGekctZ05MWXZXR2d2NTBYMFo4OG1zMVVGWTBxenJDVl9GVlJiRDY1LVNpSXh1d3pxR01CWTdWYmhnYzdaNjJZb3lvak9QWW80c2szN3dlSm8xS2ZnUGFnR0xDVlVWVlNuNF9sQzNpVXBTaW5JdHRGTkZRYzJNMNIBpwFBVV95cUxOdmlHZjdNZTFfV1l5RDQ0YUdfckVTWXR5aF9JT3NpNmtQXy1XaUFkUFNDcml6V25KTVN0YWRYa3BkX1A1QzJHSzNBVEF0OE94OHhjeHpCSktCalFyTlN5RDZhSTZvNlJJMFJxTzJTdlQxNnlQdW5pRUZxTV9ZNVlweHota1RTN0pad0JydXg3NzdnR3F5Rm9JTlNJdl9zeDdWOEcwZU9SVQ?oc=5",
-      "publishedAt": "2026-11-06T01:28:02+08:00"
     }
   ]
 }

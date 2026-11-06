@@ -1,11 +1,15 @@
 {
   "iso2": "CY",
   "name": "Cyprus",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Nicosia"
+    },
+    {
+      "label": "Population",
+      "value": "1,370,754 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "EU Report Warns Turkey Over Aegean Violations, Cyprus and Libya Deal",
+      "source": "GreekReporter.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdUhCbGxzTVpZT0thMUZNb1FBTEw2SEN1a0RjWmZWTE5uR1NfME5GMnRxOTJUX1JzaHhGQWJ2dkpYN1FheHg5dE9NT2N0TEFMdXNtOVd4VHczRmdoRTlzWjlNcU9obGs4OTI4LUw3S3RLLWphdmVIOThRd0dkcjc1R1ZkVzhtODR5S0FQalV1OVZ1eWVX?oc=5",
+      "publishedAt": "2026-11-06T10:41:25+08:00"
+    },
+    {
+      "title": "Cyprus eyes fuel tax cut extension",
+      "source": "eKathimerini.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMGktS3REUFZJRXNuTEN2Um1TYmk4MnBkeHVXVl9iVENTSFdtSC1LQ3FSWkZCd0RRSGI5NU1rbmtyM05FV0RBaHpIQ19WVkdIcXZiNHpXM0JvQVE1VUhNOERGZzVSX1d2em80RHFKZnpVRVZyT2ZvRTNIZlNiMWhBMWxIcU1hS2NkU1hTeko5bGg?oc=5",
+      "publishedAt": "2026-11-06T10:04:48+08:00"
+    },
+    {
+      "title": "Greece–Cyprus electricity cable project set to resume surveys as NAVTEX expected",
+      "source": "The Greek Herald",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVHBwYzJsQlAtQmgzMDRnZW5BUlY4VXlqUXViY0sxdE9DRVBweTVwSEF2c3N1bU16QTZYS1FzNVNEVUowNjVhV1BCVHRNY0FZNnk5U09MWDJHVXBEMHM2WTRocEEwZVV5bUlSOG9zUmpzb3c3Z3otSzlMUGs1eHhVRDFYbHZ6RGJPWndBMnhNTURsQ0lvZzE0Z3RPNmx2RHRyTE5OQ0RMWmMzVjRHTTh5VWNvdw?oc=5",
+      "publishedAt": "2026-11-06T06:27:59+08:00"
+    },
+    {
+      "title": "New opportunities from Cyprus gas deposits for European Union, says president",
+      "source": "European Interest",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX1BVdm5TSlVXbHBrUi1ldjRIajQyTWs4d3gtaW9wX2Z5ak9RUFBrX25Rejc2MnlVTy1xaEwtanhkMDhDdVZydThUUUo3bzlsOGNyTER2ZHV2TEgwR2MwbFpnOGk1WVM2aFdEU0hya1JfMFNCektvMzZfSk1QNng2R1czWTZTZDcteGZqX2NxVW1NZ0thQ0lqT2x4R3ZwRWFzQURyOWV0VWNiYXBtbEE?oc=5",
+      "publishedAt": "2026-11-06T06:09:09+08:00"
+    },
+    {
       "title": "EU Warns Turkey Over Threats to Greece and Cyprus in New Report",
       "source": "GreekReporter.com",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVEt6OF95R1A0VVZVR3dVaVpVNzdmSFQwVFZqSndTVkVMQlUzSVNtXzZCRzJXRTByaWVYeURLQV9qTTZKWmFQRlVwbUlZb3JnR052ZkFGQzZLVVcwalhzalJib21pMlB2SkJuLUI4Mm5acHJrS2ZzM0tIeTl6VmJiQUJ1TF9ZWEczbXVETVV2NA?oc=5",
       "publishedAt": "2026-11-06T04:55:59+08:00"
-    },
-    {
-      "title": "Cyprus Foreign Minister Kombos Speaks With Iranian Counterpart Araghchi by Phone",
-      "source": "Cyprus Inform",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMjNJMWJ4TnZRZ0dsMXJEbTVkQmtHdWlIZi1PSWgzbkdoZ2V6WlBUVnhZd0E4aUR1VV9NOGV5cHdWZzQtN0I4SGFyUzc1NnVvYkR1TzdST28xVmExb3hMVm1CUHVtYXdDb2VuX3A1blI4UG5sLWNlSmRrNThPc3JhMFhsbWpLQWIzTkxwbGs2ckplSGNuSlVtRHE0M1lKd19rZkxzeE85UnEyZzlWYTRjemVaNV9VdUU?oc=5",
-      "publishedAt": "2026-11-06T04:08:06+08:00"
     },
     {
       "title": "Cyprus mandates judicial review of detention exceeding six months — Cyprus Mail",
@@ -44,7 +66,7 @@
       "publishedAt": "2026-11-06T03:42:03+08:00"
     },
     {
-      "title": "Israel, Greece, Cyprus slam Turkey-Libya sea deal, agree to deepen defense ties",
+      "title": "Israel, Greece, Cyprus reject Turkey-Libya maritime deal, agree to deepen defense ties",
       "source": "The Jerusalem Post",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxdG9oZm1hWXZybkdlX0tfVV9QbUh4ZWQ1cl8wSTlTS01jZHNtZXZzamRKdGNJRm5zWGk4dEZqWUVjZnJxaU00VXlIU0xhQlRGSlA1V2FiWmRwYjNO?oc=5",
       "publishedAt": "2026-11-06T03:41:52+08:00"
@@ -54,24 +76,6 @@
       "source": "Κυβερνητική Πύλη - Gov.cy",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMWc3V2JaWklqOFA5V3RKdDlVOWhuZDFSOHo2SkpiX0xZeElHTG5YYmh6ZDlJZ09jeEM4dW5JVEhjcFNEcS03N1ZfQWVzZ3JkS0FsTThPS1N3VWV4bko5bHFUbWhvdnZRQ2hueWVQRmN2WjZnamRqRTlkTDRwbUZVWkxacnFRQUR6ZkFRanVVN3d3Qkg4Yl9VMXNPd3Z0NXhtbDZoeWNyYXpseDRkakhLdWhSbk5aRTd4UzlBRTV5YUFuWmZ4TDdRX28yQWdCSjVhMzdwWGJUa09XT0F6NEFVaENxSTdzVlR3OElKeg?oc=5",
       "publishedAt": "2026-11-06T03:17:40+08:00"
-    },
-    {
-      "title": "President of the Republic of Cyprus – Visit to Paphos II Industrial Area and the Carpentry Factory",
-      "source": "Κυβερνητική Πύλη - Gov.cy",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQckV2ZnFTTHJ5VnYtaVZ4ZHpCTVdldzhNMi1JVlNXcW1sWk1FSmVBSlZfN3pZN2pFYTV0ME1waEpEUy1Udy1nY1VMM2lOZnRjSzRzZXB6NzV1SnZuVGcyTHdZWl9tdGxBcVhIYjViZEhxQnJWdGFOUHpmT0NwZ0VySE9LTW1ZU3FlLVd6azUzODJrNEZYVzNxZjduNmJMN2lWREd4clRvSGdWbHdjTlVPTUJpWkVmMjFHSC16MmVpaWczM1BYaWFwc01aNWZGdUUtU3hWYjFEckVFWEtuWTdjLWVuR01BVlVpQ2s0TmdCamZTb25jQ1l4Q29GTWxCZHVLOEpfcFRmUjA0eVNqYkFsUzN5c3VmZWpQUTVjdGozWlByUVZPbkNpOU11ZS1hYlM3NldlTUw3cmNYNzNyQktLTXNKUFJUVzQ?oc=5",
-      "publishedAt": "2026-11-06T03:06:32+08:00"
-    },
-    {
-      "title": "Greece, Cyprus, Israel Again Voice Rejection of Turkey-Libya Maritime Deal",
-      "source": "tovima.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSnhKQjY1TUFUQ0psOEVvOUViX3NudllBUVRLbFlqcWhQbldQV2tfM2swVXo0SEt6WkFaU0N4NGh0b0EycHhhYTdFb3psYlpEcUdfRWZXWjNoQk51cl9KWms1d0xrUEpqTFR6bmE1TllUOFVQY2lFSV9nckFvUHFkeWtIODhBcDhTZkVpNS1DdXVqUkduYmRkMFZ2YWRWWXlraUNCZWhndEQ?oc=5",
-      "publishedAt": "2026-11-06T02:57:51+08:00"
-    },
-    {
-      "title": "Greece, Cyprus and Israel reject Turkey-Libya maritime deal at Athens defense talks",
-      "source": "eKathimerini.com",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTlFDZThkU25nQ1dHbVluOUozYkNFcDN2VFRyS0JoVkx5NmgyOWktcUhXYzZLUmxHek9MRjh6ZHZSZDhwY1pKbUN3a2JydEEta3c4c3l5dU01UWJuLTMwWDZUNXJoSDA0dFVRMUJPR3lFVlpWUDFGNlcyaTE0SkJNSTJzb0NfVlhxZnpyT2hZMWY1bmVtV1lhLXlVZFZISjRRbEF1Qkotd1lSRm1XT1VmNEZKNG9nVm5BcDRVYjRCdHFWOGNDYmMtV1hHVm5RaF84ZFpjTXVoSjktZGQ4?oc=5",
-      "publishedAt": "2026-11-06T02:47:47+08:00"
     }
   ]
 }

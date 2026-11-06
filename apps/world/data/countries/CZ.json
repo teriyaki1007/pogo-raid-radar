@@ -1,11 +1,15 @@
 {
   "iso2": "CZ",
   "name": "Czechia",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Prague"
+    },
+    {
+      "label": "Population",
+      "value": "10,886,878 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Czech Foreign Policy Under Babis: A Shift In Tone But In What Direction? – OpEd",
+      "source": "Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORTk4Wmx0SmtFV3JUaU1sQUt0b0FzaTQxR2FocHFLUDBJZ3lsQW5iTlE3VXZPaHNTd3I0cVpGUE04ZUlIdmYxeTVIZGtzbEx4T3JRNVNnUnZjdzNocTNJbDQzUHVuY2lxbk1FcU1QU3dseXo0Nm1BUVdKMTktZm4tQkVINlVHREMtUEZMMlhvMlhvRjVrSHNtNGl4azBiMnN1WklfQW5hbmF2ZE8wRW1KenpQX3RjQQ?oc=5",
+      "publishedAt": "2026-11-06T09:19:20+08:00"
+    },
+    {
+      "title": "APTOPIX Czech Republic Europa League Soccer",
+      "source": "Springfield News-Sun",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMV8tcXFmUmdxMk5saXgyenJodXV3X1JuUUJidnhZNGxBQVNiLU1Ydm5UY3ZQRWJta2VfeUthci1IMlZpM1lMQmdiclZuOVlydHVIa0ZpUlpYTDd0dUQtVnlINVJ4MVJPVnotOFVlR1k2MXk0ckVBd0tEN05HVWZ2QU9lTXJOc1BXUEt1b1NuWVVPclRWSWxFY250NVRKNW45U0ZMaHk1QVRpUmdSZGtuV250aEdiSTh6WFEzdjdYYW1nMklraVpERGVrcm90dFhfeThZWHhn?oc=5",
+      "publishedAt": "2026-11-06T08:36:13+08:00"
+    },
+    {
+      "title": "Czech Republic Europa League Soccer",
+      "source": "couriernews.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQTVIU0xDaWt5NHhsZ2lPek1iT3RKQ3NsTWw1azBpd1VqYmdva1dtRHBsX0dacENTa1hTOHpDRlg1dEhXZ25OaUJsOTM2WEpSUUVwWHl6cU5USnF4U0RmdXl5b0hSRlg1MnowckwtRl9md0VNRXFlZWVlVmZhLTJJSy1qazg4TWg1dUFDYnVtQ1IyV2lLQlNQaEVacmQ4dU1vUkJmNTF2QUlDTDJYYXo5NUdDR05ZX215Znc?oc=5",
+      "publishedAt": "2026-11-06T06:14:32+08:00"
+    },
+    {
       "title": "Serbia Purchases Six L-39 Skyfox Aircraft and Unspecified Number of L-410s from Czechia",
       "source": "Мілітарний",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3ZrckFrdUplVDBvd0ptTkJpR3J1a1VyVjAxVVRuR3FOdFZnNEZPSFg4akFKQnUxc3BXeE5POF9VNnBaUkM0TmRLdm1QYTdmaG9OOW1hTENJcHc3cG9YdkVjazZmN3VBV0xUdUxxclpGdHU0cmlJOUl6LUxFd3htbHhMckhvanFkSUZscktDQQ?oc=5",
       "publishedAt": "2026-11-06T04:31:45+08:00"
-    },
-    {
-      "title": "Czech Republic Europa League Soccer",
-      "source": "Idaho State Journal",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSlIwVmYxcHIyNm5aNks3ZnBCa3oySGZsYVR4YnlUNURweHR3Zm9wOUlYMl95ZnZteXptU05CUEJOalNPTWRLUG55MHJJYUw5RUxBYkdZakIwd2ZkcUtYc0Y0aTRWczBTRUxtbWlVSmpwbEdPakd4eXNnNG9GNWFQaU1LS1c5a1BTckNrVWhIRlFPLWtZZnJZb1BnWkdLUGNidUhnMU1LRm84TVpKWEJMWnVtamt3TEpJU3RPdXBwQU1fS2FGY0l4Ulh0MUJtdw?oc=5",
-      "publishedAt": "2026-11-06T04:21:33+08:00"
     },
     {
       "title": "The Czech government’s new culture war shows the Maga spirit is still alive in Europe",
@@ -51,27 +67,15 @@
     },
     {
       "title": "Conference of INGOs is visiting the Slovak Republic and the Czech Republic to discuss civic space and democratic participation",
-      "source": "www.coe.int",
+      "source": "coe.int",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU1lBa2poU3cyd2E1ZXlJYzNLWEhWZFdudnMtUkZZeTRMdTNhOWV3bFBnWWlVU3hzNEgtLTdkN2pBRDBvbnoxNC1WTGxaeUtqLVhXWlh5QWhvLUpEemM5bGNmMm0wT0h0ZVhYaTVUZHBKdFZpd1kzcFhFaHY3TjFOa2I3Z25tVEZERGxsSFduS1gtcTRMeFdFbkJpaEhUWXBWckJubWUyOUxidmIzTUltVklidjZxOGpiaGU2QVNUZ3pyM3B6ZXVtS1Vsel9sX2xJYkxkSUJsaE5sNnNDTFJmc1k1ZkVwQ3ZCdVg0NWpKVlgtQQ?oc=5",
-      "publishedAt": "2026-11-06T01:20:00+08:00"
+      "publishedAt": "2026-11-06T01:19:49+08:00"
     },
     {
       "title": "How to watch Zrádci - The Traitors Czechia season 3 online – stream the spin-off from anywhere",
       "source": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQjRQQkYyXzBOUnk4eWpRZmhmR2RxV0xzbXliYUt4M2JJQlo1UDFXS0ItSzJiRml1dTZCQzJ3VmZMOFJoeFRzY2xWNDJPTkJvZTNwdmt4cjZsTHpUMmx0R05tQmRqU2R1b0dVX2VHekNqdlUwMTRpenRORU1aaWVvZGNDbWtwN2xBb0p3NWNVZWJoajVRWUhr?oc=5",
       "publishedAt": "2026-11-06T01:07:32+08:00"
-    },
-    {
-      "title": "Horton Nets a Pair in 4-1 Win Against Czechia",
-      "source": "USA Hockey National Team Development Program",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeEl1djQxUWRiXy0wbTFscUx4ZW9MV3g3bl9kcEdUcVBYZHd3ZVhITjA2RkpkM3dkc3NsSmx1R2x0QzZEOUZ4NlJhMUlsTVZESVRkdndiT3hFQlM5c1RrMzBtbUI0TWxCYl9TVnZZRGJqc1NmZFpGRVZOdzhQTDRHeQ?oc=5",
-      "publishedAt": "2026-11-06T00:45:00+08:00"
-    },
-    {
-      "title": "3 Orange Round Faux Leather Nesting Stitching Detail Made in‎ Czech Republic",
-      "source": "khorasantimes.com",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMVVWQjNSUXIxVGQ0LTdWeXpBaTZsdk9YVDhFckg5UUdhMExxTHNpZ0xiUjU0RmxydmZ0blRpU2o3eXRqRHZweWVWNEdYRENJd1g1NG9KMzdhb0dNTURxQU1WN2xac3AwdTQzMmxrTVlsSGRITTY2Wm5Bbkctcmt5TUU3ZzBCZmFuWjQ4TV9lRXBudV9hU1RydkJiYVVla0k2Yk5GZ0I3MWNQNVBUYi1sRXNuNVRJbzFOcU5WTg?oc=5",
-      "publishedAt": "2026-11-05T23:43:08+08:00"
     }
   ]
 }

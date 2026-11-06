@@ -1,11 +1,15 @@
 {
   "iso2": "MX",
   "name": "Mexico",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Mexico City"
+    },
+    {
+      "label": "Population",
+      "value": "131,946,900 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "\"I’m Never Going to Be Silenced\": Hamilton Won’t Apologize for His Mexico Radio",
-      "source": "MotorBiscuit",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaGp5Yk0zOEM0NHVNckFZZlMyVF9udFdtamp5Yk15bi1BWjJxQnhXaFhMSVQwMGpobEtlSXF5bDEwdDNDeFg2MXkzbkNMeURETjFUZTZJZ1FTSElGMTlsRUt2M0dqTWs1enVmNXRwUjRGUUlRbk1FQVZJOFJyRER6U0ZNTnRwTFJIZW5SS2xjTEJCaFdGTnhmbnFLTDZzQ3BGNGFtUkEzYw?oc=5",
-      "publishedAt": "2026-11-06T04:59:23+08:00"
+      "title": "F1 driver makes history at Mexico City Grand Prix and other top photos from Latin America and the Caribbean",
+      "source": "The Daily Gazette",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPcHlSdG5wZGZaaERMcGtiWjV2MW5WMnZfT0hGandxaDJJQjR4dmxNOC1QcEVFTU9RVXpUODVrUndpaXptLTE4LUo5RTJBZk9pRzhkNkJVOWdMZkJUWkQzQkVUc2VnOElRdjZIQ3hyb19SZzNSaHRESUM5NVRYaWJVWUxoZzRHM19xTFlhbktyYWxNcHZwWjBJbDR5N2FmTjU1SzVqR1NLamI2VDMzRFNydVlwTDdJNGJzZHE1Yl8zTV82ZmwwelZFcDI5S0tRazVqTGNxNDZZMW1MTHo4MVhjUUpoOHdnejFYZm9JS0FNd1FQVUR5OWlPR19ZMWZYZldhNmVsWm1jSHp0Zw?oc=5",
+      "publishedAt": "2026-11-06T10:14:03+08:00"
+    },
+    {
+      "title": "Probable founder of Cartel Nuevo Imperio killed in Mexico — The Rio Times",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNODBoaHkzTHZicnp4dkpYQkdoX2VGYllNRzRJVVN4ZEplMHNuM3NyRElWMzhGajJPWmJ6RGMwdm9oWGROUkFOVV8yZHJFOXpoZW1PUWFxd0NRRHd0alNhMUlQcDBsRDFSenFDbVFYQkVDYW5jcm1YRk5VSW9xVjlRT2lKR3JzUUFkMXRxZzhPX1phWlF6bkN3RUpnSzY3N20xaWVWeTJRMXdtUQ?oc=5",
+      "publishedAt": "2026-11-06T10:05:08+08:00"
+    },
+    {
+      "title": "Márquez names Mexico Nations League squad as pressure and scrutiny continue to mount",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmpaamVzaWt5TzdhUGtJN0RqNmx6Y0VIWDBXZkMwYUVRSDdLaDVRSEdhMWFHWjdNa2lfNkh0LXVJQkt3aEtmVVlJWWtOSXJObFBsc2hGUFpnc3RiU2Z2a2ZoSGVlOWx3QUtrSktQaFRHejdjZ09VUVJ6cUtPLTlOaGNLbWZUSk9MMG1jN0FHUzhwNE9OVUxXRVRCaVJ6Zw?oc=5",
+      "publishedAt": "2026-11-06T10:00:00+08:00"
+    },
+    {
+      "title": "Proud Pioneer | Ex-Nugget Eduardo Najera talks growing game in Mexico",
+      "source": "Denver Gazette",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT19ndnhaYVU4ZnVlZ1Y0dUt5dGNDUkhzZWY3dE90N1BtSkp5RkdEQnU0SXpZemxuMUNtcEwzMHhsUW5vT1lxcWpYWlJiWGlBQ05NZk1vSDlYU2s0MUJ2RDFqX1pWS0pVY2tDUkROYU1kRnc1cEtkbXI1RHV4cUo1cmo1d0cxd1VGUWRfdnRMVHFCTllYNElvcF9heTR1UHRYNTFyRHhnVVJTR2Y1dFE?oc=5",
+      "publishedAt": "2026-11-06T09:57:45+08:00"
     },
     {
       "title": "Kanye West Announces March 2027 Concert at Mexico City’s Estadio Azteca",
       "source": "TicketNews",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNXRjeDZpTnhYbktOU2dDZ1NPRTB0SnA0NmhSVGdCeXM0T1ZYRk9lTmdXd3NCVjBMUE9nSElCS19weGlCUTZCNVNfS2VEQTZZLU9Qa3h6QzhvLTRkcV9QYzY5alRCZktLT25vZjVRaDNKLUF4aGhwdlpTclliRnVWSTMwT3Q?oc=5",
-      "publishedAt": "2026-11-06T04:51:20+08:00"
+      "publishedAt": "2026-11-06T09:57:20+08:00"
     },
     {
-      "title": "Mexico in Numbers: How many people are emigrating from Mexico?",
-      "source": "Mexico News Daily",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03bW5BaFNpaEtpZWd1SkdpLTJmbEVmQmZzdUFtOU93TjJVQ3Jja2dVaVlZYWdYNi11ZHYwOW8xWkxwS2stREhKYWhHYTdiQjRRSS13Q1dKR1d3MkJSbVRkZTlSTDBaSFpGMXVwcUlOaw?oc=5",
-      "publishedAt": "2026-11-06T04:26:23+08:00"
+      "title": "Mexico bans cellphones in schools, despite opposition from parents worried about violence",
+      "source": "Santa Fe New Mexican",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPRU0tVVJJMU5pVkQ2T3I0clVpc19Pd25uRDhUcVpfRU9DaHFfUkxORnJYbXlzcEdqeDd0emlxdjVLeGJsS1lRcVVGMWJZanE0a1czcjhuT2c2YUxzTzJ6bVlhNHZXVm9nS3BHS1ptYl9QQVpqTnMyNV9uZXNTVHR0RUxCcV9uR25jdEZxNFhaTUpVSzF0X2NCeTNUUmZhSnpaZjhaS1p1WWVKcjlFcGJVc0QtZDhXdHFoM3haYkRyTXhDNlRLT3FzTmJpRFVUMThZck1iM0h1bWU2TzhjLVdaaHRKdml6V0xILWhKeEtGRzl0a2RSYnoyMl9NbDhJTEdmN0RiZFJiWEZWSWxrWU95UnRB?oc=5",
+      "publishedAt": "2026-11-06T09:26:00+08:00"
     },
     {
-      "title": "Houston Dynamo FC Homegrown midfielder Matthew Arana to represent Mexico at FIFA U-17 World Cup 2026",
-      "source": "Houston Dynamo FC",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONUJrOHh1dldveHUxZDUzZll5bGVSNkZ3anBkemtKTFcwa2JtUkMwTDN0eWJ4RFYzUFN5QVFBMEY0bTY3NzRvN1p1SkZ0YU96STI5dXVzVGxIaTNCYzVrLXFnMWhHdUdDREZRNlBQbUJka083dXgzbFpoeFY3RHo4Mm1KUWM2cWszNjcxQ3lJbkRFeERNOE9JUHB1cFI3SHMtT3dJUVNBRmVySVZzUzQwczFEanZPX2dLWXRxV1F1UEs3bG5wazVsaUVkUXJWdWF0NEsw?oc=5",
-      "publishedAt": "2026-11-06T04:17:48+08:00"
+      "title": "Hamilton 'still frustrated' after Mexico City GP incident with Ferrari teammate Leclerc",
+      "source": "The Killeen Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPUGtSWk9PT1J3U1FGQ2paRDU5MkdYZk1OSnhfaXpLOUlINTRCMkdFWHRrM1cxbE1nYUVNUkxsV29hblBIeUtYOVcyTHZLVDE2MEg4dnhIcDJHaDk1d1hodTVVbGd0THNRV1ZwUkZtTGQtU3kxTzNVY2dvVWpPVS04dXFoblZCOEFKWmU2bXlxTTBvZnplQlJtUEozRzZIWnk0OVczOWtSYjdrX2RNZDRfNTBYRmNiMWUtV3V2NUlUX1ZQcVRWSXZpSmxRRGFheXZsUkJnQUh5bENtazNVU29SRGxuQVluMTRRQ1dudE1fTldkRmNjRWdhem9DSXVISTZNRlJ4NG9HeTdrazJz?oc=5",
+      "publishedAt": "2026-11-06T09:09:21+08:00"
     },
     {
-      "title": "Mexico and Jalisco will allocate US$1.3bn to tackle water cuts in Guadalajara",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORGhvaE8yRDNfVExMNW9zQ1owaG96ek50MVFFdU1NbGsyNnBVVkh0aG42TWZwaEpCZmR0dFhoWTAtMG1Sa0dGdlJCNFp0dnBkVk1GMVdfbHZvM2R0cGVxbklyVUQtNmJwdEdRQW03cndHMGtEeEhGQnZzZENBTE1GSmp2eUJPM2lyY3lDVXlWU01kY2k3QVdaUHZ1UjliYU1pVkt3bTVLRjZ3Y2RHQ2NJ?oc=5",
-      "publishedAt": "2026-11-06T04:16:28+08:00"
-    },
-    {
-      "title": "Mexico’s central bank cuts key rate to 6.25%",
-      "source": "Investing.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUS1OZmRQVVZaVFRTbVlub2NoNDNiS2p6anVObWtTeUZFRE9SZnE1LWIxX21hSTd1MFFIZm9JYXdac0V4X1prdEhpbkJqY0ZIVkx5aXNuNERHWFdxNlpyZmpUT0tPYXZWT1dvN3RfbG9RNF9LeWo2VC1fVS0xc2swRElzQjlaamtpYWwwVnNWaW1VZDRHTWt5RERKMS1ERk0?oc=5",
-      "publishedAt": "2026-11-06T04:15:00+08:00"
-    },
-    {
-      "title": "F1 driver makes history at Mexico City Grand Prix and other top photos from Latin America and the Caribbean",
-      "source": "Herald Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZEhhVTlWazBWWDhENExyQ0FDdHd3anJfM0hxbG8wbUMtS253WkRFOHl3am1ES2haMEVlcUZXeXB6WFhCQjVOZ0Q1aUZSSTlmcmRwYWVLSHUxTnNWTU1lMzNoWU1sMXQyOTdTSmJ0d09hUHBjdUxGdDM3ekQ4QWd3ZHl1Y0l0U0JPQkNJTzVrdWpySE1mRDlPNE9ZdnBTYjlhNXBNVjVFNEdLSEJoZFd2dUhYNFJVNkRxMF8xaUZmMURrWDFRaXZKM0M5SzFpWnMyZXlCbjBsUG5RX04wR2F0amdNWm1PdngtdVdCLW1fNzlnMENHMDBBQ3g2QUFZWV9KdF8xa3BHcXlfaGR3?oc=5",
-      "publishedAt": "2026-11-06T04:14:13+08:00"
-    },
-    {
-      "title": "Mexico Unexpectedly Cuts Key Rate to 6.25% for ‘Extended Period’",
-      "source": "Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcEdSZlFKakZaX0MxMHBGeXlES2daQ1FiS1UzWTU0eW9kQ1BBdFhIb083Z0JNXzhscjZoMlI1ZkszVUgxNENVdm9HZUZFSDB3OE1xY1hRR3hpRERtaDhMcjdWazhDWGR4UEV4WnBTY0M1TFd4TlRtM05ZYk9seTNRejFVcDlRTE5xR3Q0b0dWNVNycHMtREpVTGV0V1E3NktaZWtvTWpZbktzTjRlRXB6dVY5cXc?oc=5",
-      "publishedAt": "2026-11-06T04:12:04+08:00"
+      "title": "Democrats win every House district on US-Mexico border",
+      "source": "DC News Now",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUzFGSjZWbFc2UkV3RkJTSGdJZlZwbDRhdG1HWlo2TUdvLUl5X2pPd2VTSVYzem9yT1pWTXpHTkNzbTlCekxyY3YxZUxYWUlRQ0ttQ05yR2xNQVI0SFprSVNNMjR0aHVSRXM3aXpVUHBkel9uMG5HT2x4QmRHcTlrRzZsaU5FNndUQy0ydlZJaWsxalNnRHo1NWtNUEZVd2d1NWtKMUdDUldMUm8yRktRRTRmbENMOVEyMFHSAb8BQVVfeXFMUER2eDloaEpRa2FtcFROekxFVTJHNG9Gcno4V1Q1SGVxUWlac0ppaXFid0lNbTNBak13WC1acWtyS25UZE12LU9ZY09tVGpUSTc3Zm9KTkp0MTl1TS00SnUxakdZcTN6bWxDak9HXzQ0ZU5lWEs3dXdObkJCeFdKbkp6dXJHMzh1U0M5bktSUzB1aHljbDdjWi1ReEcwampBTjZzMF9iVE9walUzZG1FMzREMFB5cUE1VWt3WXhtS00?oc=5",
+      "publishedAt": "2026-11-06T08:58:36+08:00"
     }
   ]
 }

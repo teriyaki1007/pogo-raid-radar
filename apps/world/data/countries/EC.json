@@ -1,11 +1,15 @@
 {
   "iso2": "EC",
   "name": "Ecuador",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Quito"
+    },
+    {
+      "label": "Population",
+      "value": "18,289,896 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,40 @@
   ],
   "headlines": [
     {
-      "title": "US charges son of Ecuador's former president, 4 others with cocaine trafficking",
-      "source": "Seattle Post-Intelligencer",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObW1ucEJ6d0RyM3lUbTgxb3ZJWVZSay1qNTAwVUtydFYzSGY1aExzTmdZdEFIb1hzZ1VtMWhUbjZUTGYzMlU1WDVlbE1va1JscmE0UHA2Y3VHWGVQVXVuSHZIanQtUjh0V3ZWeUd0ZXp3bDI1RTJkYS1ScW5DUV80Q3hoaFkzNjZ0c2R2bmJsRVE?oc=5",
-      "publishedAt": "2026-11-06T05:03:39+08:00"
+      "title": "El Niño Flooding Isolates Communities Across Ecuador",
+      "source": "teleSUR English",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZRXM4M3dZQmFqY3VtMWItV3BBMzJLd0tRdHh0enJ4cEJkOERXVUFiaDNfc2NNV1MtNXdDRGg5emVxQ195emJDenBwQ2tmVmRja0FuaGU1VTBPNzVzelRySEUwY1FSbTRvSGxMRVNDbEsydk51UnRN?oc=5",
+      "publishedAt": "2026-11-06T07:21:52+08:00"
+    },
+    {
+      "title": "Cocaine trafficking charges name Ecuador figures in tuna-container shipments to US and Europe",
+      "source": "Goodreturns",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0k5c3hKQzFKNzkwZWFyTUNvaGtieTFibWZsVzJPN0t1VnVZd21PdVN5czVDbkJTTnFhSTh0TWVrdDlBRzZEeWM0dzdiM2J5bVMzUDBmUllCUnIwQm1raS1mSGcxc2c0dHIwc1VQV0VMcFVfbXF6X2d6cW9ySWIyVFpFRGFlMmZieXRjQzJSaU1xZk02eG5yM1VGRUxOQl9yV0xuNGU4TEcxNUtublBPaVlHS1FvUQ?oc=5",
+      "publishedAt": "2026-11-06T05:21:01+08:00"
     },
     {
       "title": "Ecuador Cocaine Charges",
-      "source": "Times Argus",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb3E0NmlYeGp5ZXV1TmcxYVRXS2pseFNHZFMtN01MUjNpTjJGcjNoR3ZLYlNKbzFpUGh0ZndlZ2M5QVF0Qkhra1VRdnRULTlYdDJGaXM3VjRmQ05DQm95d2ktMWRZUUhrUDVDd2V2aGNOVGtQM3hwazlpS19MNUxJY3R6eU9zX19BOFByMWJ1cmt2MXFCMHNIZjFDb2huaGlwdHJGQ0c2MGtOS20tYy1EOVZB?oc=5",
-      "publishedAt": "2026-11-06T04:37:35+08:00"
+      "source": "timesdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcGFrUDV5U2NjNm5sU2kxWGNJNkwyRUZfQV9aemNNNTBra3lMbXhRdk5mV3RUMk53VFI1dFlxYVlzZlRzOTVhUFZFRy1UdEZPdzBxeXVnU1BNMDVRNl9oaXFVanN4V296OHlhNG5wcXVmcmM0alVMaW9LOVZUUTNvbGRldzhlazRYbDVqY2ZFYzBzdjhkNGhkRTJMajdUNEFTX3NVMjBrcWdzaXhOa1NN?oc=5",
+      "publishedAt": "2026-11-06T05:15:12+08:00"
+    },
+    {
+      "title": "US charges son of Ecuador’s former president, 4 others with cocaine trafficking",
+      "source": "Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPY2JjWmUtclRzT01GY1ppQmhPY0tIZE96cEhDY0NnY0hDSUwyeWo1QUIwblZ2cHIyX3hiNERqYjBRMjFTaGdLTGRHZlRMLTluOHM0YVpKZHRkbDVpUmNLN25QeDZMSEJXNnFadkY5ZHAyOGc5RUdFeXFDSXJOODZybGN0a0xGbmhKLXp6VkVlNnd4ZzEzTG5MVEhxSGFKTjd1cE9KVE9hVmJvLVFzNkNPeVJzTEJucEtyRG9UdDl5eDJXS2tyRmJYaC1sdDNoUkhJNDl2VWpzeEhBbUcwM0JyUDI2dlRJSmJhcEVMRVdKeUNJM1Fwbm14ZmNpMzk2UFhUNTNaX3Z1b1o?oc=5",
+      "publishedAt": "2026-11-06T05:00:30+08:00"
+    },
+    {
+      "title": "Tower sales yield a $13.9M gain as SBA Communications (SBAC) exits Chile and Ecuador.",
+      "source": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1UxQjJnV25UYjZWZ1lERzZOZFUxTzNzUi1oMVh0MHJlZjRiN3lPdGdVUWpwU2ZHdzZVUGhSN2IyYk81R1J1QS10WGFNY3hsVUg3WHZzcTlDWEQxWlB3c1BhTEtOQlAydkZ5WU00VnFteThQc0FnVzRPVnE4b0Zjejh3REJidDlSRmtVdVVaaWV6YjhScmFsWUVGMnNpdTBjejkyQlphRzlnMGg1VzRXMnM4aC1EZEE?oc=5",
+      "publishedAt": "2026-11-06T04:22:37+08:00"
+    },
+    {
+      "title": "Collared Forest Falcon Found Nesting in Giant Ceiba Tree in Ecuador’s Urban Dry Forest",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPazZvdGRHbnZYRjhLYU9ZaXFHcDk2djZIekN1Uk1kbzZTUDE2Zmlma2pTWUxrVk53NS0yUlVJR1V3UC1hUF9OWlozU2hjLWVjMHU1eVdhaTJidzhoeWxUMUxFQjRNWkRqZlVUVXhqMXVTVU81cmJtUVhsRmhoWVBzZnlwWU50VzkxU1BZSFQ5U2xPcmp5d0xicnMzNHR5dnAzUDNBQTVyUmV3SGhjTTRV?oc=5",
+      "publishedAt": "2026-11-06T04:08:21+08:00"
     },
     {
       "title": "\"90% of the salary goes to basic needs\"/ Xhaferri: Albanian economy like Ecuador and Venezuela",
@@ -44,34 +72,10 @@
       "publishedAt": "2026-11-06T04:05:00+08:00"
     },
     {
-      "title": "Collared Forest Falcon Found Nesting in Giant Ceiba Tree in Ecuador’s Urban Dry Forest",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPazZvdGRHbnZYRjhLYU9ZaXFHcDk2djZIekN1Uk1kbzZTUDE2Zmlma2pTWUxrVk53NS0yUlVJR1V3UC1hUF9OWlozU2hjLWVjMHU1eVdhaTJidzhoeWxUMUxFQjRNWkRqZlVUVXhqMXVTVU81cmJtUVhsRmhoWVBzZnlwWU50VzkxU1BZSFQ5U2xPcmp5d0xicnMzNHR5dnAzUDNBQTVyUmV3SGhjTTRV?oc=5",
-      "publishedAt": "2026-11-06T04:03:45+08:00"
-    },
-    {
       "title": "Ecuador calls seven people to stand trial in candidate murder plot",
       "source": "Reuters",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaEtYWWlQYkV3TnUwRlRPaWpiMGdpVUptOVpFc1FZWm5Zb2FiSVg0Y2trMWdvMlFfSDJKcTI4N253VFRaNFE0UERqNHZpUkVGVnZRdWVsX2VHUnRBNmZhNjd2SDA5Z2V1T1F3bW9qTnBkUHpxak15WUlvX3Z4cHVIOXozRDU3bWFBYS15eGd6N1JkaVJHeHBOOXZrbHhKS05XZE5FNGw4Vk05c2x1VjQtRA?oc=5",
       "publishedAt": "2026-11-06T03:53:43+08:00"
-    },
-    {
-      "title": "Ecuador defends multilateralism as the only path in the face of regional challenges despite differences",
-      "source": "Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMEI0WDZEdEJZV296Z2plU3NyZG9NdEpSTlI3WmdmbTdKeFpRTjZXMy00R1pNZ2pHMDJUOVlMa2p1WEZ2SFlrV3BaY1kwaHhjOURfb2FUZ0hPUmV3MnFEY2ZwM1drQWNud2ZzQmRRVWxiazNLSmNSRzRhRW1HY25mZzMtN3N1OUNoN1JOMVRtTHJ6b0NwazdHa3ZkNUNjNjFpVDRNMnhQVGc3MEZXSEY2ejlkWS1MdVN2ZEowbjViNHFncUVSYUZxMkxMd19ZU2ZFNXRFUUh0WkRoWXgxNEpv0gHkAUFVX3lxTE1qaGUxS2pLaFZ1NGNXcWVaYjVqdzllMHNTSDhUcVhMUWV2WVQwWUFrWWRKeW9pREl6ZlRBNHJwSnowMmNBMnlBTEJOVkR0ZXM0UDEzRkRuZkRZZFFIVnJJUEZTWk84UWhXdnRrMnBvUXM1Y0txcDJBWUR1SjMtdW5JNWFEM0dXMF9jZmFGcUxjRjNudmNJNWlwSjRhbXBMTnYtdlJfM053bGpuNTd1RUlmemU1aFVvZ0JpUEJkN01obkphLWZHU0NuZHFEbll6WlVaeDZheFBweFBEZ3lZS1RTM242Qw?oc=5",
-      "publishedAt": "2026-11-06T02:44:33+08:00"
-    },
-    {
-      "title": "SBA Communications sheds Chile, Ecuador towers during Q3",
-      "source": "Data Center Dynamics",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPREdXTVc5NHJ6UUdZaDFOU19aazJJc0QyZ1I0WVdhcDhJd3Zsb3ZhZUNLTGIxNm90V2ZQT3JLZkZDYl9md05HTVZ2Z2ZZbUhHdHZiaVpkeFA2R3FPT1dLZjU0WTlReURYUXBmZ0phTFMxaVZIX19ncVBBVzdIdm81RnItMGhPUlRSaHN3WnhTS3ZJM1l3NHBIOXBGbGh1eDNL?oc=5",
-      "publishedAt": "2026-11-06T01:18:38+08:00"
-    },
-    {
-      "title": "News Briefs from La Sierra, Portugal, Ecuador, Ghana, and the Philippines",
-      "source": "Adventist Today",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeS05b2ZwYWZSX3ZmRV84Q0ttTlZVTEo2aEVSVG9uSG5fUjlGNFMtWFJ3TGxqdnF2YzRzanNPamhFbTh4U1VXRjdJOWx3WG04QTlLaWY3ajdoVlN2NXRYVXRjMm9wd2N1YnBOX2dFalVrT2tBbUw0SVBmYUkxLVl5di1ZQlFnWHRCeVF0TGIxTUpXZ0k?oc=5",
-      "publishedAt": "2026-11-05T22:13:45+08:00"
     }
   ]
 }

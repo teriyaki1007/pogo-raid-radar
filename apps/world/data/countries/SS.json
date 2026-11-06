@@ -1,11 +1,15 @@
 {
   "iso2": "SS",
   "name": "South Sudan",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Juba"
+    },
+    {
+      "label": "Population",
+      "value": "12,188,788 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,22 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "South Sudan strained by refugee influx and foreign aid cuts",
+      "source": "THIRTEEN - New York Public Media",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ3lfZUY5NVYtQ04wZVF3Nng1QlkycWdEbm56UDBsQ1dhUHJlVFlnV2hZeDlvZWNoV3kwbmRTVmRUYmlONE1ZREF4NUg0RTd3MEdvTGJ0LVp1Rld5bF9IUHNhYndMT1NNTkxOOFlwTUFPV0FFSHFUdzlpRHZJbFE1a0Jn?oc=5",
+      "publishedAt": "2026-11-06T09:49:31+08:00"
+    },
+    {
+      "title": "Today's top news: Sudan and South Sudan, Colombia, Cyprus, Central Asia, Women in Ceasefire Negotiations course",
+      "source": "DPPA",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX19RVDB0Vi04UXJwWENld1p6eFY1Tm8xY19odFd5NHVHYVJGcGFCTXF0aDlOOW5oVzk4enVhYnNHRkhMVkpPcVdUTWJFcjU2OG8xTGU2STk5TEl4VWJ6WkFteUlvME5mSHdacFplZGlfelprN1BibVVUQm5nNnVlUjlQeUd5cUY5UTlYZlVNMlg4VUY1OUJYRzRCTEpDZi1CeUd5cWVXZTEwbWo2LXVyeXRzVQ?oc=5",
+      "publishedAt": "2026-11-06T05:14:36+08:00"
+    },
+    {
       "title": "Funding shortages threaten essential services for 150,000 displaced people in South Sudan",
       "source": "Oz Arab Media",
       "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNdDlTeW5uWGNzXzJ4Wk1NRWwycTNjZHhSemtra1BiOXNLZ3gyZ0duOUs1Q2tsRlI0Q2FfZ2ZNbTRPbW9JbTZ2czB2OTcyOWR1MGRVOUFwVmR5LTdpTk5sWTJrZlEwam5KeUJQWENqcmlwX2c3dzNyRFhWcHhVbFdqLUh3WXYyY2RucTBoU0tad0dEMmJxZklBUWEzM3FwSXJDTmN6dGM4Y0s0Zkg2Y1FlQmhfai1fNndrSkhMeURYbFVIRzlWa2w4UFhkQWxUWVItcWthUUNlWHBXZGxaeF9JRHdSTl9LbVRVdGU4T293TVEwbWFNYkc2S3RBQnBzWDJYaXhKazUtSThQTW15OVMxUTVDUHg0REZiVXF4YUtjN2JWZUNwY2ZjYWgxZ0Q3VlBoa3ZMMHliQVFIQnVpZWJCZEQ0YXZ5RTVBTWxEQ0JTTXJvQ1JaSU1aeG5kWmpQNms?oc=5",
       "publishedAt": "2026-11-06T04:31:39+08:00"
     },
     {
-      "title": "Aid funding cuts raise health risks for displaced people in South Sudan",
-      "source": "Doctors Without Borders",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbV96Y3AzVHdlYVF5Y3JpSWliTEZoSGxiWU1pZUtISmtvMEJrV1hrcXlWSjRDZ2tkTjAtdHhYU3RyN0dqSnFnVTBhcV9aejlPeHNzYmtfX2VlcEMzQVIzWUJaSnBiNlZ6U2hLaHJqMm0wMFpiX3FBb0V1eWIzeURWLWtJcGFDeEJodm5URGJyRUg1eklsSG4zVTg4blREVXNTdl9yckV5OC1tNmppU3c?oc=5",
-      "publishedAt": "2026-11-06T03:03:51+08:00"
-    },
-    {
       "title": "UN peacekeeping chief says Abyei mission delivering 'tangible results' in disputed Sudan, South Sudan border region",
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNY3NqdnNnSjA4ZFpHVjlINHVUc21QdlZLejNoVU80X3lURml2YXc5cXlNa2xWS1Y2ZkI5cWJkTGRROTEwNXJkc081TkI0WkF0cjMyX0hiekNQX2d5RHhkdGV4UG1jZEpBNVF2UGxEejIxNUlkT3o3U1V5dVNiN0plUExEN2I1WEhaVTJ4U2dtZE1kN01PbFNoQVg0Skk5WjhRR21yR05LSXdJc1dvZUQtbzdaOEtXbUFCQVg5TFNhSkxhcGZXZDZYbjRtdzUtR1kydmItdXFuVXRnU1lWY2dUTEZrS1hVb01PM2VKQmpn?oc=5",
       "publishedAt": "2026-11-06T01:17:45+08:00"
+    },
+    {
+      "title": "Aid funding cuts raise health risks for displaced people in South Sudan",
+      "source": "Doctors Without Borders",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbV96Y3AzVHdlYVF5Y3JpSWliTEZoSGxiWU1pZUtISmtvMEJrV1hrcXlWSjRDZ2tkTjAtdHhYU3RyN0dqSnFnVTBhcV9aejlPeHNzYmtfX2VlcEMzQVIzWUJaSnBiNlZ6U2hLaHJqMm0wMFpiX3FBb0V1eWIzeURWLWtJcGFDeEJodm5URGJyRUg1eklsSG4zVTg4blREVXNTdl9yckV5OC1tNmppU3c?oc=5",
+      "publishedAt": "2026-11-06T01:01:29+08:00"
     },
     {
       "title": "Sahara Energy says South Sudan owes US$355mn in oil-backed debt",
@@ -60,18 +76,6 @@
       "source": "Uganda Radionetwork",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSjllTWJKN2wxMGNnWjlvQVpha3Voam56Szc0RGNQd1JuckZ4a3VncVVsd1ZVRGl0bXd3ZTlsdFYyckhpQjVweDZrNGlEdVJrWXhudnFkNUNadzdCTU81WWh5Nnplb0hxekp5QnFNU2xaWXNkdm9yeVRZNzRzdVhXNFNzRm9vMUhvV3M5TU5uMFdnVXZmY0FiMW9nbEtKSE9FMHNIRUN4ZWN2WFE?oc=5",
       "publishedAt": "2026-11-05T23:43:54+08:00"
-    },
-    {
-      "title": "United Nations Mission in South Sudan (UNMISS) peacekeepers help advance agricultural skills among South Sudanese farmers",
-      "source": "Africa.com",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTXBTNmpCTjVNc1BlNTV2U1Nma3AydEhzdnJXX2ZCeWFTUThpRXVOQjVVbWNfalByakFuelBIY1hJc2piY3RPWFMxVWtrdTljV1otMzZWMXZTenJmR3MweTRaNnlvZWtJVjZ4N01IQXJrYm5fNUlXT3lpaVZvNDYwOE5XelZSRGFCSVc3MXBwSFFvM2p1UHVyWUJGdEZySHRUeUVsaUVZVkJqcVFyMFhvNzZZWXFhdS0xODVvaTJhUzh6Nll2QkdyNUM4c0xBS01rdnZmWGRGRjhQQQ?oc=5",
-      "publishedAt": "2026-11-05T23:42:18+08:00"
-    },
-    {
-      "title": "South Sudan records 8,124 cancer cases, 5,128 deaths in 2024",
-      "source": "Sudans Post",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ2RUMlFmZ3FDQ3VXSzJ1cVVOc3JKdzJWeTNUbDZ0SldzRUxKVElyU3JQeV80VmhFZEcwQ2EzZ2dVYUo1NjRTdG5rcWVidk1aeU5wTGlyV196Vk5uTHJWNUdac2JUWVNCSkk4NUNrcVVRZHM2aUJGUFZKYXBPSjZXQTFoSFpSdmh6ek5nck1n?oc=5",
-      "publishedAt": "2026-11-05T22:49:49+08:00"
     }
   ]
 }

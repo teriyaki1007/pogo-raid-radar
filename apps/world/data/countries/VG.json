@@ -1,11 +1,15 @@
 {
   "iso2": "VG",
   "name": "British Virgin Islands",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Road Town"
+    },
+    {
+      "label": "Population",
+      "value": "39,732 (2025, World Bank)"
     },
     {
       "label": "Region",

@@ -1,11 +1,15 @@
 {
   "iso2": "FI",
   "name": "Finland",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Helsinki"
+    },
+    {
+      "label": "Population",
+      "value": "5,646,436 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Finland October 2026: Toyota bZ4X delivers first ever victory",
+      "source": "Best Selling Cars Blog",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXVYRnloblVSampseU9jY256cFNQb183LXhpeDQ4SmhOSXhMZkRZUWctZ0NjcVI3T3g2SVRzNjhrNTZqMHNXNERZUGxBNmdob0FNR1Zsa3ZUZG8wYWxWUW5NWlVjMXJwZEp0UEpmVzUwMjhXeG9PVWliRGVqTXdUaGVROUtTNVllOUVpRzVSaW8zemkxOVN4T2tuMEo3eS1vbTVB?oc=5",
+      "publishedAt": "2026-11-06T10:53:18+08:00"
+    },
+    {
+      "title": "Finland sentences Fitburg captain and boatswain to prison over damage to Gulf of Finland cables",
+      "source": "Ukrinform",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQODJBYUdySFFDVVYtaXJsd1NGUHVrbm52b1AzM3lLeVhIZXdqVFhEcFZkLU1nTHF3ZnRFV2ZndXBqZ01rVWdMbGkzZTZoS0d3d1JkVVF4SGxzbGdSV2toQlJsV2VEN1RkNTJUdjZTN1p5Um9sQThLU2hIcUF6OU9GTjFUczl4YllSbXVpMHNWMTNneXEtb3NRZjdFeHdTeXU4MFpxR1luSVhmLWgwQWJ2OXZQb2NWZFFpanY5d0dxTHJEZnY3VDRqSDJJcElxeng2dXRITkRhTGpYRVdETHI1Y9IB5gFBVV95cUxOVG5uMFBiMGViekVSTGprV0lyYzVjdzA4NXg1elBMOUNyb25nSm1UeVJJWXd0VG05MTdNSGlTWW1oamJBU3puck9zMzVyaW9QVHFERkViOWhJX0R5c2ZKdjdMMUFkVjROeTRXZmpiZktVMzVGNzVvVTV4SHo1aWd1ZWZ6bVIyaF80YU9lazl1Zk00UzhsbnRFcnMtaGswalhFNmFLbW9Rdjl6Z29QbjY5S2RKdnBuOEM5V1BGdS1hN0FEbzFWOEV1Q0JJRnhTaW1nZ0dUanlaLWp2VzNBZGttN2xFYXRVUQ?oc=5",
+      "publishedAt": "2026-11-06T08:37:00+08:00"
+    },
+    {
+      "title": "Assessing the growth trajectory of Finland’s largest companies",
+      "source": "McKinsey & Company",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWE1LSmV5RzhmQ1VjYUJveUNyUG11ZldwUVpwc3R3Z2pwRjZrT1l0VjNOUzNGaFBBcW9UZTEtSkZraUtTY2JhY1hlek1tVTRPQTVTTlFkckdJMzVMVFFvdjQ4Z29nVlpoX0J5QkVEVGRvMVRJSHVxLTlrMkdUeS0wUlFzNkVzRi1rWGhHSjJrTnRtVW5yekM4ZVhoU3lVbkxYRUNLNWF3VFRQR3BTQWFhVGJ1N1IyQ2ljTk5CTDFnRjNoWnNGT1YzNXk3MHJTdGJDOTItQ2ZPSFhiWms?oc=5",
+      "publishedAt": "2026-11-06T08:00:00+08:00"
+    },
+    {
+      "title": "Finland begin Nocco Hockey Games by beating Swiss in repeat of worlds final",
+      "source": "Flashscore.com",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOaXNXM2Q5bWFfVmRITk5Sd2hqOXUzVHVYRnhab3hkRTFNWlF0RGVWekNzRjRlMkxMTElScHZfQTlIUjhRZWYyY191RE1XSjZZWmR3TkdfeGlmM21LbWQ1RVlFMTZpODFyMWw1RmdMTFdqYUx2VVljaFhHRVlOU01rMmhoZmt5S3JmYTFvRFVuamExSnNUdFE1STA0ZklnZU5aX0lDaEpiMl9Na2RUdTZEQ0lORENCQmxMSzdHMDFab1cxc0o3NmR1eEZYelVBRVhlTEttNnA2X3k2c3c?oc=5",
+      "publishedAt": "2026-11-06T05:44:13+08:00"
+    },
+    {
+      "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeDkxMmZIcTBITTRSNjlLRXNNenNqSmNZX0JZUEgtS2pBX1NpMjY3VGpBTC14aERTNFdRVTdtQTM3Q2tKTEgyUFQ4LUgteUtHX3FyeDJwRnBoQWs4eDlhY090LWgwY1BWSHpYaW5hRWNQVERubS11bUptaU9GaXF4aHNOczA5MktiN1ZURmZoSG1zTWI4ZmRkdmhoRTZ4bS14YXhNb293?oc=5",
+      "publishedAt": "2026-11-06T05:34:35+08:00"
+    },
+    {
       "title": "Finland Is Inviting Single Canadians To A Free Blind Dinner Date Vacation",
       "source": "604 Now",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE80SDRrLXNGa3hIZG9nd0VxOWVHalRRNE1oYlRYX3VpNDBfY3M5alNfY1VxWGFXN0c4dUhIZGFEaFNHN3FPVEdoeHZIV0RvMDl5cEFpZDRfS2dXb1hsZ0F0TGZ6blZ5UQ?oc=5",
       "publishedAt": "2026-11-06T03:59:47+08:00"
-    },
-    {
-      "title": "Finland attracts 90% Nordic defense tech venture capital",
-      "source": "Daily Finland",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd0RqMWR5bnRuYTdZQmRReXlkYlU3ekIxYUV0VVlmQmJPR1pNODRrdzBBNERxcTlHVEVxMllPZ2pQa0hnbHExSFp2Zk16Qmw2Z0xzNEp3Y19NMjNwd0VxdDJNdkZFOGNta25TYU9DUDRrdGtOVTIxdnlITVBON2o0enJSOV96UGpWdUQ3aDdUZ0F5UzFiWGFTVVpkdF8xbmc?oc=5",
-      "publishedAt": "2026-11-06T03:45:42+08:00"
     },
     {
       "title": "GNE: Lumo Finland claim seeks €35.2M swap gain from Genie Nordic",
@@ -48,30 +76,6 @@
       "source": "The Maritime Executive",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZTY2NVg4RXNvQk0xZk4tY0VtV21nNUpjQWx6bUpmaXFEeGlVVFUyLWd6WVl2M2hGbVR1RkpmOUVFLXhhSnliZEVwd1RmZXl5UDZfZGpPUFdQMWt3dTBxNVNQNnFnZXZyeHlyU0xXX2tmekVlS2w2dFdxVnpKS0t4ajk3TXpZRkZDbzFhTFd0Ui1PQWZlakFsX3EwLWZjQTh1T0ZEQ3E4bkMtQQ?oc=5",
       "publishedAt": "2026-11-06T02:55:03+08:00"
-    },
-    {
-      "title": "From Here To Helsinki: Kraken Prep For Finland",
-      "source": "NHL.com",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNTY5eGFfa1pUSGtWV3p5WXdrNVJza2FVVjRTUDdIUFJxdzZacUNFLXdkeVJsaWJfM1RtZkFsN1JlajdBQU5GUFlFVW5JUDhiTTBBTmlRRnVfQU4yNU5zeWxTeFhnaTQyTkFBTkwzWnJWOEQ1NFF1d3Vjb01tRzV5cldiNHRvRE5SMEtQRGZ2bWU5SGtzZDVUVFdOQQ?oc=5",
-      "publishedAt": "2026-11-06T02:33:45+08:00"
-    },
-    {
-      "title": "Finland shares lower at close of trade; OMX Helsinki 25 down 0.60%",
-      "source": "Investing.com India",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVmczeGRZaWEyNWpnT0dYTjFjSXpnUm1hYmtSOG45UWd2djZLUUZRNzJpQVBhYTJqekFMNTRqNTl5MXNIWjV3dmpIY3ZFc0R2OWRNbG5TNy13TTlsVFE4aGNnRlhfVlpxWVpOX2pzaldXbC03Tmt5Z1k0ZmN3MUtjMTlSLXNOUFVfdlRYRmJsUkQ1clFFTklseURaRlExTGJYcmNyaGVmWVExR3lSc05RYWJjX1lBdldaRTZV?oc=5",
-      "publishedAt": "2026-11-06T01:07:59+08:00"
-    },
-    {
-      "title": "Finland outlines offshore wind auction plan",
-      "source": "reNEWS",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa1E4c0JpTGV1T0ZJb2VXX2NwNURBSW1aZTFLUUIxaUQwWGZMeDRac1BDcXdjeDVoRi1pNlhBXzZTMmcwSjcteldFaEVJb3pFRzhmNUNobDR3dEZkWkdLY0NuVWp0b09nLTB3UGJqa1RadzBQQU5fSUhVNkVuWGdHSDFJM2VQVF9t?oc=5",
-      "publishedAt": "2026-11-06T00:32:38+08:00"
-    },
-    {
-      "title": "A Russian captain and a member of his crew convicted in Finland after their vessel destroyed two undersea cables in the Baltic Sea",
-      "source": "Informat.ro",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQejFRblk4WGR3N1d4YTh5RjVFZUxsNmotdkdnNVZrTTduLURBY0labzM2YWEyUzRfTm1MbU5xaGdWZEpaOFlUdWxULTRmOHdHNHNiLVhadEFwZVRsbVMtMmNUUUJDeWlMYktJLUNpeC1adGx4cmRDY0tIbndoQ0gwbmVISjBwRE1DZkhhUC1FcWJBVFhpdWNUWlI0dExxMmpXQnhrTDNIOA?oc=5",
-      "publishedAt": "2026-11-06T00:01:45+08:00"
     }
   ]
 }

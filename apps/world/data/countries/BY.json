@@ -1,11 +1,15 @@
 {
   "iso2": "BY",
   "name": "Belarus",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Minsk"
+    },
+    {
+      "label": "Population",
+      "value": "9,085,991 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Belarus: ‘Forbidden’ To Give Information On Catholic Priest’s 3-Year Jail Term – Analysis",
+      "source": "Eurasia Review",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOVQzODF3QjFBVjRGZlhYR1U3WDQwdGoyd2YwTTN5SzRVOUpONURVM3NBWHlHX2dvUHFtekwzbjY3a1ctS1pEV1QxY0NNLUwxa3A1dTJHLVVWQnVtb1hlMkJxVklETVA5aGxRUVVCRkZZU2F0WENHN2tSeDBVbFdLbjlNNDE3TEtHS3hJWHFhdjZud0FBRnVWY2VwMi1VNkJfRGRBZUpESEkxMnRBaVpyd2ZCeHpHSHR6b3c0Zy1nNkk?oc=5",
+      "publishedAt": "2026-11-06T09:28:03+08:00"
+    },
+    {
+      "title": "Belarus Sentences Priest Who Opposes War on Ukraine",
+      "source": "Newser",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWlYwcVlFck1fNUIzT2M1dFc3R3Rla1FVbXpVODg3RVY4bDlnaTVnbk1EaHRyUVluNm9tbTJjSXpvcEtLbkkxTzFMTHE3d3RCWFlFSW1jZjJKLVhoVmxBVHpQOTdvaUdYMEVRX1QtTWt1S21wNDRwdEk5eTVtNUZuc094TUxuV3YtaXI0QUVocnpZUFp4Rk44?oc=5",
+      "publishedAt": "2026-11-06T06:06:00+08:00"
+    },
     {
       "title": "Historian: Sophia of Lithuania left her mark on Belarusian, Russian history",
       "source": "BelTA – News",
@@ -57,21 +73,9 @@
     },
     {
       "title": "Belarus sentences Catholic priest to 3 years after he opposed the Ukraine war",
-      "source": "Arab News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1ItWG1UV0hXcUEyb1BHdG1oVFJadGZYVEYzMVJQNU1ITXdGdE5aZFo4TEZxQ2E0Wk9wWVZBSGlZbEt1MDllRUJWNXJ1STNDdkVwUEgwaW51eFVnZXVoME8xNkZvLVNMMHZFcXhBa1dwUzV0OW5KRkxwVjRpa3FJRXdxZnFQa0lrZTdmNnpTZUZMdFFwcGpJVGdyMWdISHRaMDRLSkNabWJMcWZkV1hlX0FhUV9Pd2s?oc=5",
-      "publishedAt": "2026-11-06T02:24:22+08:00"
-    },
-    {
-      "title": "Beaver Moon to rise over Belarus at the end of November",
-      "source": "Наша Ніва",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5GTzZjSWR3UzgtR2Z3OEJVTXJIZDBIMDNKRDFTd2lkWkltakVPU2Y5MlVia18wU1lheE5lSE96WkVlU0JFdWfSAUtBVV95cUxNMVVLeFZ1WkxlRGk5WGRfWEZJTnM1Smwya3VqTnQySVZJY1RjRE1wb1pFb3VoSF9IajdGcjA4UHZwTjg5QTZmWGYteDA?oc=5",
-      "publishedAt": "2026-11-06T01:40:45+08:00"
-    },
-    {
-      "title": "A teenager who had already tried to flee via Belarus was successfully evacuated from the occupied Kherson region",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZlV6VHR1Y3lMdjF3enBiZFFuZFhyeFE4UVQtZXJiUzJpWmJuMG4yaE42SDYzV0gzRVZ1X090dTlkSE5NNHVJeFJzSnlTRmR6ekptYVJ6T3dXRTJDXzdfUnlMSmdCb1I5TGtzZl9MS2Ewdlh1Sjl5M2VnR21PX3hidS1JZEI5V2dRWWhJNHozdGxMdUVnejUtYlhuMHlMRS1ycjZsTVZ6WU4zWGtxWi13cXM4d3lhLVR2SHVvU2hhUy1zTXZDVTE1cA?oc=5",
-      "publishedAt": "2026-11-06T01:35:17+08:00"
+      "source": "www.livingstonenterprise.net",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQUhtRGU3YXF3SHA5ZGEzTlBrNlcxdmhhaWFiZGtBSG41VG1JNlNQRWYtSjhQUXBCYnJ6VXI2dnA5RHJUNUhaWW5WMjVSVW1ta3BGcVEwbmEyWnlIaDU3cE0xeTkyYlNlQzZodkN4eHdPMUhLVGZBSHZIVHJiUXRkMXYzQ2trVDBSSnV3M2pwSW9zWVloel9tSFVWM3EzTHYtT3JTRkd1a0hFLTJiLV9RWVZkRHdOYzZ0ZkV3V21ZUENwS0U2eHY4?oc=5",
+      "publishedAt": "2026-11-06T02:14:00+08:00"
     }
   ]
 }

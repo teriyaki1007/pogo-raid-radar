@@ -1,11 +1,15 @@
 {
   "iso2": "LV",
   "name": "Latvia",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Riga"
+    },
+    {
+      "label": "Population",
+      "value": "1,847,785 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "How Latvian artist Arta Raituma paints with fire",
+      "source": "The Hindu",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGFWbVlacEdmVEZhV0t1d3NKekJXN3VWTklxZldnQV92d0J4VlN0WVd3NXJsVWpzR2NaVTFXUWVXeW1XTHNLNmJiMmx5Ykd3SUNocUgzcEVfb0prdzBHMFpIS0E2NmNCeS1jRHZfQllBRzFxQTBIV2o0RFhHR09sbHlRbGhiZHNOVW9ScjJvZFkxbzZDamlJX1Npc3JwU18xcmRHZmlxYnhTSWswTk02MtIBtwFBVV95cUxNRkhEQWZWYU5RRG5MeHRnLWh5MDJqMW8wSER0ekdHdnJFUWlQVzd2bXpIWDJMSnpFMDVsMDRwc19VMm4xSlN3S0tDM3Q4Ml9HU0kzR3g1djIyN1BBNDlFTHFSS0VvVjlDbWl4ZDFLZHBkZ2l5OW1nZl9BbHBrdFd5R2VaSXBlcTFPLVg4V1M4RGo0aWc5LTUzbEVEU1V2NFJtbEJfdlAzb3pLTWdLd2pHQ1k2aHBHQms?oc=5",
+      "publishedAt": "2026-11-06T10:09:03+08:00"
+    },
+    {
+      "title": "Inside Canada's military mission to deter Russia in Latvia",
+      "source": "CTV News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQmtJVlc1Y09Hd1Z3Q1QzME05LWtCbVpRSy1FY0lqeWVFNC1VY2dmT0dJQUh1ZDBSWnJCbGtiRTAzd1daUFB3Q0R4YmtIRVpBYmpQRW1ER0haMHczcFlaeC1DNnJLNkM0MWNWYWkzTWlGSlVVZDRYcUlrdno1NlU4YWo4STlQSDhZc196Ym1PQTNoenZiclEwenhNS3M0Sk0?oc=5",
+      "publishedAt": "2026-11-06T06:51:13+08:00"
+    },
+    {
+      "title": "Latvia's foreign minister says any peace deal is welcome if Ukraine can accept it | DW News",
+      "source": "Modern Ghana",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50cm4taUJpb2E3NS1wTnptbHpHTkVqS2dYQTlFSUhxSmpTWTNtUzF2Mm90bVlzem5LWTBGRkg2T3FuOUYwdUFpYUp1UFFGLW5zUjl3eWdFaTE5Wk9sZlHSAVxBVV95cUxPSnk3LUNWQnBqTEMzZllJMGF3VUluTGZTdHlxZVNBSFlGM29BQnFDbGtGQ3l6am1rb0RvMFFPT1RjM191eEZ2SGtDb0N0VERvOUt3MmYzRXMwREhwXw?oc=5",
+      "publishedAt": "2026-11-06T06:50:00+08:00"
+    },
+    {
+      "title": "Latvia Conference League Soccer",
+      "source": "Idaho State Journal",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZWVUZXBvRTgzS0E0clNVRFRLYTA3NFJjWjRJLWZCVUZzc3owdjZ6VFk2ZnpIdUdFMkpoR19CV2d0LWtWNHRUYzg0Wk1aS19NS1JYcXZPTS10TXZCT3Myc01oMVlTakdZSmZtYVF2RWNLMlNUdWVjLVRQS2dsUHZOX1o4T09XeU1iLWhNeFM4RnRDZTh3SDhsRE52UndUeUZQakpzVUotd0dOQkN3MlB5M0g0Z1ptT3poQ0trN3Vma1YwMDMyRklEQQ?oc=5",
+      "publishedAt": "2026-11-06T06:18:54+08:00"
+    },
+    {
       "title": "After condemning Latvia’s support for Kyiv, activist moves to Russia and is sent to fight in Ukraine, relatives say",
       "source": "Meduza",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONFVVM3MyYWZmdzJvMlhhaDVBR0hnWFJ3V3VNcFNJUThOY01ERFhJdy1ReDRGaE5VSkthWW9oZE0wTG1kNExQZ0VzdnlrLVhxWkRocE9Wa0p6dUNhMmF1UTJIRHJlQ3IyOEdUQWhSYnZQZWplaVZTUVhocl83NV9nT0stMmx4NmJvYzJ4Ul9fdHJlVm9fLXIyUGdqalVRX2k5WUlsT1gtbm4zUkZ5VWJYXzRGWnhkRGw5bHU4dU9pUTZjMXR4bkVMdllPZE9kV29FZmtIbWc1N253c2RuX1FsNjlhYi3SAeoBQVVfeXFMTXVtQzB4RGtPVGY1N0xPdExVZ0drV0FwLXlzMVBiSXFLYk8wSzBRdW9UR2RweTVIUXQyaWRMb0xIVlZibWtQQjdJeFNodDhXNmhkV3JVemxDRUR2dE90ZlIzbjk2LUN0cEJFOXJrTnNfMTBPVTUwckNVV0VGTm0tSVdpemxMRG5xdDEyLVhoMTRtcjMzSWw4V1lHMVdWQjNqNnlFNVRxZTA3VmZtMUkyS0J6anVzcldJVWtkd1ZKNThZMW5nX0l4SWI1SzQ4UGR3cUpGWlpMR1k0ai1YZ3VhcHNiYy1vbUxhWlhn?oc=5",
       "publishedAt": "2026-11-06T04:52:00+08:00"
-    },
-    {
-      "title": "Latvia Conference League Soccer",
-      "source": "Corsicana Daily Sun",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWDNaN2Vla2RtbGZtakJHdjAxNDNPT25hdGFvRUIzVzJYejJURmZBY081UUs1RVNEdll2X3k1TmZQQzFpYi16WnNuMEQ4SFN6TjlLVlZBdl9FcS1oYjJpbEgweExzYjhJcHBMQlVIbkozZ21tZ0tiYTR0ZlJOYUlUdkZydUptWHh0aTJrbHRqbVVVbG1sSGpfMGg0TGh0aC00R1dqNjduWUZMN2pKak1vcWxRcG9sXzJ0NFNMaFhTdXdjY3lJanpJNXFHNDlxXy0zRUE?oc=5",
-      "publishedAt": "2026-11-06T04:39:12+08:00"
     },
     {
       "title": "Latvian Putin supporter sent to the front in Ukraine after being jailed in Russia",
@@ -44,34 +66,16 @@
       "publishedAt": "2026-11-06T03:20:32+08:00"
     },
     {
+      "title": "The Fourth Edition of the MICHELIN Guide Latvia has Been Unveiled",
+      "source": "WebWire",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zdmxfaXBhT3VkQ24yRFJaNjFwWkRPMVF0ZDI0cVJBT1dlTjhWQUk3SHh2X0xNLUl0QkQybTQydjdTTm5SLXpNVkYyRFJvSUJQWWk4TWEtWUs2U1JyblVtZw?oc=5",
+      "publishedAt": "2026-11-06T02:44:41+08:00"
+    },
+    {
       "title": "Pro-Russian Latvian moves to Russia, gets forcibly conscripted into the Russian army",
       "source": "The Kyiv Independent",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcHozNDJmVU9paERsa2hUOU4wYVcyakVVSE9QYWxzR0lwS00xMFh0ekNmOGlnS0NoYXF1SU14eUxvNzludnR6Y3BmQVVnTmtaUU43dGlzbEgzU2NBLWktb2hJcFBKeG9nSy01ZXdKNnFJTkl5ay1mNjBxZ0dfUnRyRGJCLXRDMVhMTlhlOHVMdlNIYUtNNTB5c3ZxSnNyN0JuRHV3U2RCUklNZUUwcDV2VFp3?oc=5",
       "publishedAt": "2026-11-06T02:41:45+08:00"
-    },
-    {
-      "title": "The Fourth Edition of the MICHELIN Guide Latvia has Been Unveiled",
-      "source": "WebWire",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zdmxfaXBhT3VkQ24yRFJaNjFwWkRPMVF0ZDI0cVJBT1dlTjhWQUk3SHh2X0xNLUl0QkQybTQydjdTTm5SLXpNVkYyRFJvSUJQWWk4TWEtWUs2U1JyblVtZw?oc=5",
-      "publishedAt": "2026-11-06T02:32:11+08:00"
-    },
-    {
-      "title": "A pro-Russian activist from Latvia who moved to Russia was tricked into fighting in the war against Ukraine",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ1NhWGJSU0tVWTFlcUd1N0pDak9rU0w0WWNMOU1Ea2FqMlNqQWpjVjgwbWNiaVBaTERSbzhpc1ZXelF1eTFiZWJ1Q09ZdkdSN00xQTJGM0h3R2ZDVVRjMi11MDZlM1dTbzZTQml1WUY3RVE1UDYzenE5eHB5STRBNVlLRU1VTEMwVzBwT3dWWjhKNk10cDkwR1lTUjBUN0lNVEk2VUlJLXBrYmxKWjVodHZHUEVicEpkQ0d2am8ydlNZXzhfMk53?oc=5",
-      "publishedAt": "2026-11-06T01:21:54+08:00"
-    },
-    {
-      "title": "Lithuania, Latvia launch joint evacuation drill amid tensions with Russia",
-      "source": "Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0NBQWhWanNkaVNwcHZ1NWZrdFdTSW1GaVpzVmx3X09hbzNfMUFkdlhEMnREbUdmVkpwUlBBMzVlQ2h5RU80cTBQS0dFdUFadmM5cTl3NTJMa3RZTWNvRjJQeF9MM09CNDNtUHRzdkVva2M1TDNuY2lBVlpRcU84UFliclhKcVBfTHlyTU9MN0tBSkpfS3hBQw?oc=5",
-      "publishedAt": "2026-11-06T01:20:53+08:00"
-    },
-    {
-      "title": "Riga Restaurant Week 2026 highlights seasonal Latvian cooking",
-      "source": "The Baltic Review",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSmxTZ3hiT2cxWWlTQzU1MTdCbjlxNk5NWmFKa25PUUtqWFQ1elJST1lnM1VueHAwOVlmZFc0WFUzRFdEMFUtY2tYVmtqb3dRSEcwcFlEajNVd0d1NzRBTFVjSDlQalpyZV9yZ0JiOUM5VUNzU2FWem41UHlyMVlITjdoUQ?oc=5",
-      "publishedAt": "2026-11-06T01:15:57+08:00"
     }
   ]
 }

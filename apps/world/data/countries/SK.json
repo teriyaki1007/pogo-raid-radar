@@ -1,11 +1,15 @@
 {
   "iso2": "SK",
   "name": "Slovakia",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Bratislava"
+    },
+    {
+      "label": "Population",
+      "value": "5,413,813 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "Nippon Steel Trading stock: CLN Slovakia deal expands Europe reach",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaktGVmdaMGxXaWZLcU9VTTZqdW1KNURTMnJpQnBkSmoxR3JlOHZ3RUZEaTJzQkdnaHZjS1JOenp1SzNMcmtuYUZ4SzAzSElNclZ6X0l4dmRmVDZIUGlsVU92aU1DbTFzTE52TFZoXzA3TlJYbUY1OVNlaUNtMDNyTTdsLXZ4bUcxbk5zWGl3ZFByMFk4Z0VmR1c4cHBaeEVjRmFUQkhRbi1OcElLN3lFUTJFR2FqREQzUHk0ZzFEY2tNZw?oc=5",
+      "publishedAt": "2026-11-06T09:36:47+08:00"
+    },
+    {
+      "title": "Europe’s Deadliest Summer of the Century: Heat Claimed Hundreds of Lives in Slovakia",
+      "source": "VSquare",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbjRlYURBSTEyNDY3Y2tUNmQ4UUV3MmtQa19FTm1DLVdVdG1FTnlSTnpqLWhLN25FN05vVGdNc00za1BRWjNrcmcxdHoxdXVaemF6c3hVa1FmOTJpSUFPXzRrUk03T3lfYy11MmI5NjFqZlFsbDBEZndHVHluT00zSHVsR3YzUlBUem1VWWFCOXpYOW1UTkNIbnNJaVZ6SG02cTNXTE9B?oc=5",
+      "publishedAt": "2026-11-06T06:27:48+08:00"
+    },
+    {
+      "title": "The Ukrainian e-Queue may begin operating at the border with Slovakia",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVnJYS0dmVC10UjAyTDI1b3E5T0NsbkZSTGhuc1hxSFpjb09ZZnJMaUVRVG5GcWI3UDRYYW96bGxKX1dvY1Y3WGw1NHV1WFFUV3FqTUdQOHBRQjV2Vk9FLTUtc182bFNMTFV4MTZha2dWNy1LNzNtNmhqSWJueDNYVkczTjc2WThFd1NoSEZNbTVKaEVrOUNEV0UxOA?oc=5",
+      "publishedAt": "2026-11-06T05:29:22+08:00"
+    },
+    {
+      "title": "Foreign Ministry: Ukrainian detained in Slovakia on suspicion of killing a fellow countryman; neither is a member of the military",
+      "source": "LIGA.net",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSGxYaktzNHpod2YyQjdCcGdoTXVWNVRRS3FEbmdWSHhFTXNhUEFjdTVHc2xvSm80N3AwSG04UW1wWkx1RHZyRzJseHQyTzlHUEcxTlNFS1hka0Z3Uk9Jay1MaXNMOGVFUEZ5bGg4V29sQVNnQy1DWTNOaFBsYTByWW1EaGNUNm83LXozN2NKc0VqcERvQk9lUFBmaTI1d1AtWE5LT3lFa2NuOG0zc2ZLclY5M0NBazFLbUIzVFBOMWpaMVpJcGZPTDRhaWpmQlV4R19rX1UtLVVpQjRGTVU4Sk9DRXdXT3dZVHh0aFZHTzZTUFhNel92Z9IB_gFBVV95cUxPTkNfbmZjVWRCY3pnRzk4OVAxc2YtbzhhczhaX3U3RU5uNXYteGFyYS04WEhhYWJ6NE15ak5CSmZLRHdFUU5rb3ZOY3JkbmJMcDBtcmVkR0tBTE9nb09iZnd6RGVZT3BVUXF5YU9lbjBNa0tjcWVrLWo1cnVpbzRXRC11bC0zWnRjLXlMbDlsOGlPcU9QdkJrRUhLX2doUHZOaGhkajAzV1hKME50a0xWbWlCb0xNR0NYWG1FQldiRDRZR2JsWXN1bkRDUXRzcWFvV0VNLWNUQWJJSExlVVJFREtsUDdIeUE5cU8zTUJNWXB0ZWN6ZDJhLXZ4bG1ldw?oc=5",
+      "publishedAt": "2026-11-06T05:25:00+08:00"
+    },
+    {
       "title": "Participants in the fatal brawl in Slovakia have no connection to Ukraine’s Defense Forces — Foreign Ministry",
       "source": "Українські Національні Новини (УНН)",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONXlvMTlleE43VW1rTHFBcE1BeU44RWV2SGwxMllYUEhjMExIZUpqV0gtRm5MWW55eFBjVlBLeWl1YWdkc2VlWDlkenc1YVQyckZ3X0o5dDZLdmxJWExPQ3Z1Y3lXUXdTS3JTMFpjeGlKVmVSZ3dHcGFVS2F1SHBzbExibnczeHZqTlRVMG9OdUN5WC1EdzVibmJ2NkhJVmhXMHFzY1Rua0trcmVXQjJRcFlQbDl2X0lqaHRhVTNSUHE1b3djQ1dwRXFB0gHIAUFVX3lxTE9oQU5TYWVGdVJRZFBqWmExU2loelhjTFM2WVlBY19GSlJJN1F3R2tSTnRCNHF1ZVlVYTNuajU2VWFha0xuQ2VDRDFmWDZmX2NZaG1qTFFJbS1FQkZJOENJTEJlRERhcExmaTYzRXdITjM5MEt0Rm4wLXRMOVRIalZSNldxdEloLWptdUhrdGFabUl0NjZhRnNua3BYNlRaS1IwcldLR0dPaGlLSVZQNzZ6QWdTMXNMXzFaQ1NiTW9ZczdUMkhweTRr?oc=5",
@@ -44,34 +72,10 @@
       "publishedAt": "2026-11-06T02:51:41+08:00"
     },
     {
-      "title": "Europe’s Deadliest Summer of the Century: Heat Claimed Hundreds of Lives in Slovakia",
-      "source": "VSquare",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbjRlYURBSTEyNDY3Y2tUNmQ4UUV3MmtQa19FTm1DLVdVdG1FTnlSTnpqLWhLN25FN05vVGdNc00za1BRWjNrcmcxdHoxdXVaemF6c3hVa1FmOTJpSUFPXzRrUk03T3lfYy11MmI5NjFqZlFsbDBEZndHVHluT00zSHVsR3YzUlBUem1VWWFCOXpYOW1UTkNIbnNJaVZ6SG02cTNXTE9B?oc=5",
-      "publishedAt": "2026-11-06T02:51:22+08:00"
-    },
-    {
       "title": "Ukraine and Slovakia have agreed on the transfer of generators and three electric locomotives",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbzBUeHUtdWZ4c0FEZ2d1c2VidTBLSnV0c1lxbEJEMWVBNjFRYkswbkZqeHJRbWQxSG9OSzctOFFTNXlLOTNKSmNLUXZyTzNvbDNYM2dQc2tHenVwSVh2d2p5MERldWV6MnBiem5EYzFXNzNiSGxtaG5NWU5rOUhrMzJGX0hEU1Y1RTZoaWhzMXdVX0tPSUNrbDQ4eDBwTHFvdUNRQkN1Y281N1ZZN0dv?oc=5",
       "publishedAt": "2026-11-06T02:27:37+08:00"
-    },
-    {
-      "title": "Fatal brawl in Slovakia: Ukraine’s Air Force denied information about the involvement of its military personnel",
-      "source": "Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMFRpV2ZySUNYRGZQelpkSkNBRWdsclZWcC0zdDJiRVhTSFFLbTQ0eGtVTHMxLVhTTFFxNWJjM3hObGRVVjhaT0xXS0VhczFZQ1pEdzlZMEhkbWh2MmlHdnlfZXFlNmhjZDQtd0xuaDJNLU5Qc2Z5MHNxaF92eFlod2tnNWlva3NLTHlQb0xJZlk1MUFxbF85aXRhbTVvUFJhZEh6QUFtQlBSUllVSlhBNmtJeW5feEtJUGJneURxNEVXa3dIMGtidjA5V0LSAcsBQVVfeXFMTUFQWmVwYVpGa2hDMUJyTFdiV2haNXdNQVdzOE5yWFBsYVozbkM0U05JYndsLUM0MVh1NGNsdWRjQ0JJTk1aLXNGRlpkekZObjFWWnJQX3psQm9VZEJxdTdmdmpDbGF3R3RnNHlSLWplWUFpWlFaQUJ6dnpwZFU1MTgyY2lWM0Vfb1JzQkhja3IyQWMzcUlZNU00YVRmRHo5RmQxdmhJNGVUeUQxZF9lY1RnVUtrOEpXdlRqazRWSWhMUDI0RGpkbjB0aWs?oc=5",
-      "publishedAt": "2026-11-06T02:20:22+08:00"
-    },
-    {
-      "title": "Ukraine and Slovakia agree to introduce eQueue on the Slovak side of the border - Infrastructure Ministry",
-      "source": "Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQN0dRRE5fbzhuakNTQ3cwaTg0SjQ0MlJ1eXJvQlAyVUVFeUFXM3pJQnBaeEQtT01jQ1huVUpNRjdzS096SzNTWW12Ym5zQXNrQVRQVnQzN3VuaFo1eFNKRTE2aVNxMFU4UGh0TXJhcUx1Vnh5dGZHdHNpMGNxSlJfSE5lYXd6Zw?oc=5",
-      "publishedAt": "2026-11-06T02:18:21+08:00"
-    },
-    {
-      "title": "Slovakia takes action to support Ukraine: Winter preparations begin",
-      "source": "TodayPress.tv",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMnJsa2puaXdsY1RSdmlNSWVrdUotYk85U0l3cEtpQkZUSi1PWkZXX2trNWhIYzg1d19SQWlTQ0QxdzJHYm54WEJXY3ZLd1puVEdfcG5rT25RQWFqc0VwVmg4dFllVVJ3MDBkeC02MXdxa2dkcnA3UTEzRTJtb2JRWTFLUGoyZFJTdzFuUE9rQm5Ja3lhMVF5UHNBY1JjZw?oc=5",
-      "publishedAt": "2026-11-06T02:15:34+08:00"
     }
   ]
 }

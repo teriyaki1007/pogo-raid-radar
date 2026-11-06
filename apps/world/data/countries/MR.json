@@ -1,11 +1,15 @@
 {
   "iso2": "MR",
   "name": "Mauritania",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Nouakchott"
+    },
+    {
+      "label": "Population",
+      "value": "5,315,065 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Murphy takes operatorship of two offshore Mauritania PSCs",
+      "source": "Offshore Magazine",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMGdTbDJ5OHdLaG5yMVh4UlBIbTR5U1lMOW5vX0wtb192RkZOdXJKbElwbzRXRi1HOElacHVnZ05maWlfSlBuZUltUkdHb2F5Z3pHU25mUWFNdjZaOWo0Ujh0TTBCdFdtRTRKN3RBSHZfcXJueUhTbXNwR1ZtSmNES0d0bVBzVzNwNjhja3E5Si1GQTZ6NE1tdjVsN19JRVlNbndod2I5UF9PWlVGWjJITQ?oc=5",
+      "publishedAt": "2026-11-06T06:40:30+08:00"
+    },
+    {
+      "title": "Mauritania Sends Military Delegation to Morocco Amid MINURSO Drawdown",
+      "source": "Morocco World News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUVLZ3Y0U29KY0FBOVNFSE5yNV9HcTZQVHgwdXdwR1UxU0dGSmQzWXdkLTU5aWhzdjhRNWEtSGRjdGNZYWNmenFLWEszcnBrNm9KRi1WaWdhbGVDams4QWxRY1A1c2RrdG1ST2pYdTU2ZHBuY2Fid0QyTS1mNXphdGVIZzJ6M1djTDhSQS1JNmszaUpBRVVCMUZxcTAtWUxwN3cybjVqZkhEaHVIRmkzVW1Gb2dpcXBvUlE?oc=5",
+      "publishedAt": "2026-11-06T06:03:24+08:00"
+    },
     {
       "title": "AFCON 2027 Qualifiers: Burkina Faso Name Squad for Mauritania Double-Header",
       "source": "Dailysports",
@@ -47,7 +63,7 @@
       "title": "Sahara: Mauritania claims a position of «positive neutrality»",
       "source": "Yabiladi.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZXBqdlVaaVhwekV0Z3p4VnVlYUtvcVRidVdiaU9SNWFPNGpjcV9reG9DamU1TURCajlwU2o5R1hlOG5nWHBUUGRnSElPTkdOdVBsMWVRTnhsN29iRXlzOTVyWVhxbWQzOWhjQkRmc25LeE1uOWJTVW1vNzNBNFZGeG9NS2JuM0NYcmotWE9aTGszci1sQVZBSWppOA?oc=5",
-      "publishedAt": "2026-11-05T23:01:26+08:00"
+      "publishedAt": "2026-11-05T23:00:00+08:00"
     },
     {
       "title": "Murphy Oil Takes 90% Stake In C-10 And Tiof Blocks Off Mauritania",
@@ -57,21 +73,9 @@
     },
     {
       "title": "Murphy Oil Signs Landmark Agreements With Mauritania",
-      "source": "Zawya",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMjBna1NDNEIwVzFuRUZjTm1aRzgwMlpDZTItM1Y1VUttNnJCUVBpeVBGTUtYbFhvZE9TbFdJaE5pdF9RQnlYcHZ1Q0swNURMOG9kZG5JLUNMeEgxMy1OenBaTkUtdC16S0tIdUNJakpjanRqVGdRX3lmSkp4aFQ0SGY4UTR1WFFDdlVfT1Nzc0Z6MDVjblVvM0R2ZnlXWFRwRElRV2JLejdpeUFkTDlKRk9Sb1ppb3lvSDdXX0p3?oc=5",
-      "publishedAt": "2026-11-05T22:41:00+08:00"
-    },
-    {
-      "title": "Mauritania says it seeks to be part of solution to Sahara file",
-      "source": "HESPRESS English - Morocco News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYmwyUUE3LTZDMy1nVWtZSU0yQXZLd3RYbDQ0TFVaSnZoZ2J0OEIyemh5SEEyYUhsejJTc19Gd0EwZjF0U01ILXpDR2RNZG5YakJLMnZjSTh0aHZXTDRNUXpzOF9MT01FS0UxZkh1OXBvOTFiZ3BxejA3Z3pMeVNVa3JfQ3RhV1pJVUFmRDZwLU1ZcENFOW5Fb3hKZWpra2M?oc=5",
-      "publishedAt": "2026-11-05T21:32:39+08:00"
-    },
-    {
-      "title": "Egypt, Mauritania FMs discuss boosting bilateral co‑operation",
-      "source": "Egyptian Gazette",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRmZteE5NU0dNeFVKRzZHdUFQYy0ySUxiM0J2aGtackZ5UzY0NmRzUWtnVjQtQlBuZ3dOTkxSWmhpZ2M3N2J2VTFfN2pjb1dOdk9kRVRzOEpCcDVTZ1MwaUh1WnAwWERUcDhueTFORmRwdU1JQnRWR1NPRkYyQ2Y0blhZaXQyaDhwNW5ERW9tcmhGZWV5QTRkU085cVE?oc=5",
-      "publishedAt": "2026-11-05T20:48:46+08:00"
+      "source": "Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMFp4UEVjb09aTl9NNkF5bExXR0FkcHJiTHZKT2tRcVFjQk5TVVlQME5fYlIyM0hQWGJTWE5PdXJxYm9pZnE3SU5wbFg2VW9Tb3hPN1N3TUNmM04zVjIzRzl6S0hITWdSc1RMSFA5UGxEVWN2YWFjSG1KeHM2ank1OA?oc=5",
+      "publishedAt": "2026-11-05T22:46:58+08:00"
     }
   ]
 }

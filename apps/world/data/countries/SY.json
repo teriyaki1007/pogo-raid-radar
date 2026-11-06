@@ -1,11 +1,15 @@
 {
   "iso2": "SY",
   "name": "Syria",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Damascus"
+    },
+    {
+      "label": "Population",
+      "value": "25,620,427 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "After the Revolution, Before the War: Tracing Khartoum’s Syrian Community",
+      "source": "African Arguments",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUDVzeWJzNW5IQVJzbkNhQ1c3Qi1LbkdHdTZZZnRvYjRFeDdEeGUzT3ZTczJVUTQ3WGdpZWs3b1QwRW5TNmhEbjdGSmo1aUhsdjdTSUszbFhNbHFKMVcwQkZRQnZrazRlZTFnVThBblNmTm1lVTZzTUlEZ2M4ZU1EQWRXY0NOVy0tanFHeUhSSnp0b0RhQmhNdzFIUGVsMXVzc1lRWjhkUUg0UjRf?oc=5",
+      "publishedAt": "2026-11-06T05:28:52+08:00"
+    },
+    {
+      "title": "Flooding in Syria Exposes Crumbling Infrastructure",
+      "source": "Enab Baladi",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2pHVmlXamEwVG1tLWl5bVVUUm82b2dlc3NtTENqWm9BTE9lNWVoTEZDUlRDVUVGSDlyTnFJT3lRNnZoQTZ5enAxNWpqS05GM1gyNmFzWi0wcmF4QTl1R2k1cnY2OEcyZWo2b0EyUUVVZDVHcXFoSDFrcUdJZ0VPUWRkbmtpM1Zf0gGOAUFVX3lxTE9MX3E4TXl1YkRBNFFiWUtvTVpyS1E2Z1E1UHkyZ2Nmc1FzU0w2YTROZFN1ZzBzMU04SXRkenRPQjZzWnA0alpvckFFaUhjUnQtTHRhZVY2OXhwYjFWOEJPeWZTMVVKcl83UjRITGRiMUNmVWhEVEFjd05NNXg3WFZBUlAtMWxBUEFlX05sNlE?oc=5",
+      "publishedAt": "2026-11-06T05:01:29+08:00"
+    },
+    {
       "title": "Syria, EU discuss cooperation in development and banking sectors",
       "source": "سانا",
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UVEJZWmY5U0V6bWp2bC1acUM3aV94OEs2N0dINVBNRk83TmVoUU1GVTBJMXJpd0JIZzZWZjdhR0NHeVM0UFZMYk9iWnk?oc=5",
@@ -36,6 +52,12 @@
       "source": "FDD's Long War Journal",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYkMtRElfOXhLcEJEZU0zSjl3WTA0VUtnVkY0S09QQ1BoRHVadndMZjFJY2hWUVJLZjBfMU5OelBQdkNUd0s0M04weEJzZEFaMHFWVEVmZVAyU0NuTHZQRFFoR2RvWl8yTXFZYnZyMi1LTkJ6ZzAzOEtBUmxPOUxmcDRkZDVOR0QzamtrWE9qdEU2NUw3eTdNa2lUU1FVWmlfSGZB?oc=5",
       "publishedAt": "2026-11-06T04:27:52+08:00"
+    },
+    {
+      "title": "5 Syrian Fighters Killed While Fighting Alongside Houthis in Western Yemen",
+      "source": "Yemen Online",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA3WW9DQWFkdmo1S2JTOXd4V3F5R0k3ZG5jcnc3YU1mWU92NEp2eWZjanB0UVFscXhPVnBZZldzVGoyNHFvRlJuV3lfRmduTGNVWkdBWjVhVHI5UQ?oc=5",
+      "publishedAt": "2026-11-06T02:58:28+08:00"
     },
     {
       "title": "Syrian Woman Killed by Lebanese Army Fire at Border - Enab Baladi",
@@ -54,24 +76,6 @@
       "source": "The Guardian",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTkRPbFhuRGRNZkNfRV90RUpjNXJlcDVucGtJX3RYRGE1SmhCbmtyaldRc2FCMFNjLVQ5bzAzYlR4aVViUXlNNnNKX0l5ajdZOS14Sll4SjVWaHduY1pjeFhwcmVDdlh4bHFzR0w4eE04U1pvOVdPa2pZXzdZaEJUME9RVHlLWGNiQWxaMGlJbDc3d0R6OEk0MW1jNkw0RFFlUF84bGRaaWIxSHJKUC1YTWxwMHpoNy00WEZvVA?oc=5",
       "publishedAt": "2026-11-06T02:38:00+08:00"
-    },
-    {
-      "title": "Syria’s Ahmed al-Sharaa signs reconstruction, military deals with Saudi Arabia",
-      "source": "The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1PWDIyOGZIWE8wWDJYZkpWWlRpR0xPcXRub2lQd0pNaTFWWjlGY2t1VldFVGJFZS00dFNSMDlHR3FzZ1A4eUJCVjVxM1JsZHR4R1JYUkwxNnZTUWdqa0tN?oc=5",
-      "publishedAt": "2026-11-06T02:23:08+08:00"
-    },
-    {
-      "title": "470 displaced families return to Ras al-Ain as part of ‘Syria Without Camps’ initiative",
-      "source": "Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbk9FcG1qQ3ZRRTlSZEtiRzV1MW0zZEFBc0dfVFdhRDFFeXB5aFRHRlB0U2hlaEJHY01tZm96bG55eFBhT1N5ZGVKNjFtWUJEX2VDLWdmcWdHNkhiYzI1ekZlVExBY19Xb0xlMk1ndndUM0N6NWV5X1JEY2M0Y3ZsNWVLNXl1WFRydkFTU3h4ZXd0YlBCNlNSZkJJSjc5QVZfdE5GRlZpMTBobmEwTDFTY3JZQjhtemRuYVJFanI1anJiX2lBdjZ4LXpn?oc=5",
-      "publishedAt": "2026-11-06T02:11:10+08:00"
-    },
-    {
-      "title": "Patriarchs of Antioch express Concern Over Christians’ Future in Syria",
-      "source": "Orthodox Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlRlZnNSSS1lWUtHdUlNTmNiWTJXaXJSRzBKaWxva3p2MWxqVmFCMXdzQVB6emxpNHlJX2NSUVBpWmVIOVNPcDF2WFRCYV9Rbjd4Y25yZ0x2N241bldqX1Z2eE1vaXR5bzVZa0dpQWw5MDdPcUN1V3A0NnJWYVZCQ2hiZl9nbmY1cllid0dEVGdGNGtiYWgzS0hhYnU?oc=5",
-      "publishedAt": "2026-11-06T01:45:59+08:00"
     }
   ]
 }

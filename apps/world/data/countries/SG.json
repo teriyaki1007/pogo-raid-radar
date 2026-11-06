@@ -1,11 +1,15 @@
 {
   "iso2": "SG",
   "name": "Singapore",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Singapore"
+    },
+    {
+      "label": "Population",
+      "value": "6,111,175 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "Singapore's First SAF Tender To Target Up To 30,000 Metric Tons",
-      "source": "Aviation Week",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeno5MEJWQmRBdU1CMi1VZDU0eXRfSzZmWEE5R1Z6UnFidFVPQzBvQW8zWXUyNHpJZE1LakNyLVJMMWRVWm5WX2pCMUhFLVdNRllEakRVSmcxd25qR0dJNmI4dHh0LWYzMkFHUHNvRU5XZGxyckZzODNKV2MtcWpTMTh1c1VhdVc1eEkyWnFNcHk5LWdvUG5zcHhQMnFtenZjYkVBbV8zYzF5UzFkQXc?oc=5",
-      "publishedAt": "2026-11-06T04:59:07+08:00"
+      "title": "Singapore SMEs embrace AI as delivery demand rises",
+      "source": "IT Brief Asia",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQb3U0UExOTENRWlQ0aU9xYkJxdUZCZC1PVDFhQXV4Tkl6SHlYbmw0Y2QtQk5hZF8wTzZrb0ZOTXpCd0c3eTVIMDZkRzM2bUNDdmpDeGtoNXhNYkFaTlFDWkgybTdKT1VkaEJrczZkTHNEYUdNcVVwc3BGdmJERUlRMFptYw?oc=5",
+      "publishedAt": "2026-11-06T11:07:59+08:00"
     },
     {
-      "title": "Singapore office uses chilled ceiling beams to keep workers cool with less noise",
-      "source": "The Cool Down",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM3FxMklTTXJGR2RHV2N1OG5hRzdSUDk0R2hSaWdqZnpjWEJpQWNrS1VLVTFWYzZIa25sSTR6MDdSRE5oSGhvNExEX0hSMXYzX1BOMl9LTDRxUUJyeVFDbkpMVzFLQVpDbGNDRnFMc2toSmVrLVczbEhpSEtONVdZbXNjemVUYXR3a1ZjOEVwNA?oc=5",
-      "publishedAt": "2026-11-06T04:07:00+08:00"
+      "title": "Chaucer adds Jay Bae, Jessica Lee to Singapore underwriting platform",
+      "source": "InsuranceAsia News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWUNicFNnS2F4a2ZyRTJMUnhSdXYwVTdKMlVzeGpIQ0t1RWF6NEJIaVVqOFpqWUpsSGZZSHlKZ29YZEd1NzFiajBzanB4OE1oNWhWRG5ROUFPUmtCSFpLekthemxfVzcwLU5URGZ5X1pDOEo5WjktamtDMDV0LThCUUgtSHE5X295eFFxTTllR2RMV2Y3NnRESEZaNFlmM1U?oc=5",
+      "publishedAt": "2026-11-06T10:58:26+08:00"
     },
     {
-      "title": "Singapore to see more workers with 'uniquely human' skills by 2031",
-      "source": "Human Resources Director",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUklHZFY3a3l2ZFF3bHY3ejNmN21uWXhsVVFOaXBtRUwwUDNiN2hybDl3azRLM1ZxaFNDSzd3QU1oSjd5VGg5YTNmeTZ0N1YwcTMxaDZnMlVldjQ2eldtM0c5ZG1ONHJLcnJqamlrTi1SaTVkOEM0eVF2Njk2TEpLNzIzLVg4UDU5Q3E2QWRfeGRDTVpDQ1lEQUwzcEZrZWk2U3E5TU5Fa1FlbHpWaUR5LTdod2Z1ZDlTb2h5c0hUeFBXNE0tYk9ndV9QeGtCY0pn?oc=5",
-      "publishedAt": "2026-11-06T03:51:16+08:00"
+      "title": "Kevin Chin joins Willis Re’s growing Singapore team",
+      "source": "InsuranceAsia News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRldGdVBJNS1QQUZGdVBISUtQZnFxMHNpX01uOVhDR0VKN1k5VWNiV252M0F6YTlHeDB5Zk5INS1LZWZlWHcyYmFMVDNkZ0owcDBvWUI0Wk5tNGxHeG5aR2RXbkdjYlhSMF9vbFBCWlJ6VkVsZnlCSlFxdGhja3U3MzAzaG42c09V?oc=5",
+      "publishedAt": "2026-11-06T10:58:26+08:00"
     },
     {
-      "title": "Singapore Dollar: Further gains hinge on USD weakness – UOB",
-      "source": "FXStreet",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQzM5aFJYa2sxdEdmQkRuaXJLYTU1dWVud05JSDhCRGc2MmlHRlVWaWdUMHJnYmpKWnhNYklKc2JaS2xfMUNRT0VLUVFYLWtOazNQR3lzeVd5VDlUd2FBV18zMExpYktZVGZ4YTVSS3djYU1IbjE2RHl3U1lyLWhmcVcwRmxaZ3NmbjNUWmhveDdSSXNoN3lNckl5U1JJXzBQ?oc=5",
-      "publishedAt": "2026-11-06T03:37:00+08:00"
+      "title": "Trevor Noah plays pickleball in Singapore, including with actress Jaime Teo, during comedy tour",
+      "source": "CNA Lifestyle",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY3BsRktrTkJMblp0VjhVT2NuNGJnRTFadVFsY2ZzTjNaRmhuY1ZMS2VUVnMwaC1WRDduREhmT1RpVXFlZ3JYVWlWYmlxeTNiSm9rX18yVjByVVUyUGNiTDVoeFJrQmE1UGZhVUZDUmxibXlQWC1LcHlUT2Jfamp4MmtWZVFEeVJYaHZSQV9KU3V4THRUMHZSYlAxQmhOdkNCR1RJRkJYZw?oc=5",
+      "publishedAt": "2026-11-06T10:58:00+08:00"
     },
     {
-      "title": "Singapore, Bangladesh discuss boosting flight connectivity, carbon cooperation",
-      "source": "The Financial Express",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLVNGU0JydFduSlZYZlhRWG91aFd3UDVtdnZGcjBucEFkSUVrMGpxRllJQUhqU18yZ1BXWFd0V2xRQ2RSVHF3NldBR29VUVJISDdrLVJBNmY4YVVHT3gycGM4NVpHUGFnUkgwMEVQZlFEY2pKOFhPV0FxenA5SUd0aUkyNUgzUkhQT1VVdzQ5aVBjR3Bhc1kxYW9FN1ZfWjZFZ0ptWFhhT2R2ZHI2aW9OejNWREFIYkQ2ZEg0UQ?oc=5",
-      "publishedAt": "2026-11-06T02:47:25+08:00"
+      "title": "FORMER SGX CIO & CTO TINKU GUPTA APPOINTED VICE CHAIRMAN OF WISSEN TECHNOLOGY SINGAPORE",
+      "source": "TNGlobal",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaG8tZ1F2NmVYRkFJZVhueFl0U1BJOHlHTFhMbnZ0Qi0zSjFKMWtnUXBnQWZCOGQtUjN0YmIzYXZZeWh3QlZoaDdtX2pGcm9DOFI5NVBNaTMtVVJmTF9pbWMzazdTODh2YUMwdjZkb3dYNVBlS2tjX0dYUkhKTER3MThfSDVmMUwyZldOUjNUVl8tSFVwT1FRc0ozdmNUOTVTUzBSZEJnWWJudkxlZWtTb3VOdXl1UmYxbkE?oc=5",
+      "publishedAt": "2026-11-06T10:53:53+08:00"
     },
     {
-      "title": "Singapore, Norway Launch Call for Green Shipping Research Grants",
-      "source": "MarineLink",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE52ajVCNUwzdWdFb1RfTzlpaHNmSTZGS2dJWTdfdUltQ1VQLVQ5TEFiY2labEdIaUZmZkx3V3l3V3J5cm5qTHU5SzVYSGJSdDgzMENmQVByVEVoMHJ2M1B1cnRPLWRfMElNTVBEUVNZLWhlMlRvbzlRUmtwZnJxQQ?oc=5",
-      "publishedAt": "2026-11-06T02:00:16+08:00"
+      "title": "Mandai Wildlife Group stages Singapore’s first runway show in a cave setting",
+      "source": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbWMxZ3NSaHFyMURjdGZzdHVrZGhuVWQxUExaeGZ0bDF6cHJSVzZPUnhabmdMS1BwRV9DcmZFc1JGVHp2amgxTmxBRTd1cUFpUTBTRjBWcjFjQ2N5VTNTMmN6MDJwQ1FGbmxPSHMtcXgyc0FxSHZyNG01cWJZN3d6Q1FtUXVvT05OMWd3emU5MzQwSW96MVVaTWZncS14eS1GdnhwV29sWmVXUlJfSE50UDIwWmh6M3RKelRXcGhNeFJaSW81TEx1TDh6ZERTUU9jNHc?oc=5",
+      "publishedAt": "2026-11-06T10:53:00+08:00"
     },
     {
-      "title": "Cambodia, Singapore link trade growth to food safety",
-      "source": "Khmer Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNGR2VXdIdFRRQ0FFYURNeE5DNmNEQTF0VU41SUUxYzBCNFYzbDJva2FCZlNNX05TR3Z4eFBpLXd4WE9HTkcycTEtaDhDWGVSX3I0eUZkNzZtX3A0X2liaUc1YmRNcU5hNjdYbERLWkd2SHBlVklSMlhydlFvd3hoZFAzTmhIbHdmajhEVmdEckVwR1dNNmc?oc=5",
-      "publishedAt": "2026-11-06T01:19:44+08:00"
+      "title": "Award-winning Singapore designer Nathan Yong leads Asian showcase at 2026 Design Miami fair",
+      "source": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOaTZyUmVwa3VjdnhDYmI4SF91ZFU1YVg2a1J2YnJkcGdvR3NnRWNRTUVPTVNYcTFxZFZXcEdCazRqZ25EbGMyZ3ZYMXBEeG9DRWpqWTJnT1FwOXRMaFZVRWtFSGJ4WEhmR0NxTkMwdUVocG81T3JVbmlkME1YQ05pcWRNc1FhdjBpNHRxUnItaERyVWpzckZaTE5VOWZyb0RmS1Bsai1obUE5MU16VnNxWWhHaUM1ajJfdmJVS0lUckdFLUVKd3RscWktTTBfYVNTbzh3?oc=5",
+      "publishedAt": "2026-11-06T10:45:00+08:00"
     },
     {
-      "title": "Notes from the Asia-Pacific region: Singapore charts course for AI risk management in financial services",
-      "source": "IAPP",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONnpGZm5EbFpnNTdRYWNpam10N25tTlFJRF9XSUxvR2xFVDMxSkU4V2MzVHdxVTVZcU9ubjh0WERDZGFlVk5HZVRWcFFNWlpLTTE1NlhsYVIxYXZKTW9mbmtxTUdwUzN2S0JwWjdDRXZZUmU5Vk5NanZuR0lBNzE3bUtiT0dBR0ZacDN4YmtxZk9YcmNQSDROcmpVSjNtUldBLTJxcnBkY3J3V08weENwUkI0R0t1b0ZLZkk3ZllnTEJGYkRtNFE?oc=5",
-      "publishedAt": "2026-11-06T01:09:22+08:00"
+      "title": "Gareth Gates returns to Singapore for 25th anniversary concert in January 2027",
+      "source": "Bandwagon",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYnhSZWNHT2VTMjJfejYxTGxLUzZCOGFOeVhYZHB6SndtQVBfa01NdFhVQ3VTTTUtUnYtamtkYWFSQjVJY0dnQUROdTZ3a3NVdTVzSF93dGhwNHp6VXFIaHAySmcyQkZKQlpZRGlJQ1V3NVpYbkN6RkN6WWFESzdOQ3JaOUpvcGNEX1lKeC1STDJ3QjNabUNNa1lPUTlMX05mWEk1ZWxxWk1VQlFZU1FEYnBQSWh3cUZpMUJEVmh5Q3V3Ym9PbjBEMFJWOFE?oc=5",
+      "publishedAt": "2026-11-06T10:27:00+08:00"
     }
   ]
 }

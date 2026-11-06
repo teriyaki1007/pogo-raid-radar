@@ -1,11 +1,15 @@
 {
   "iso2": "CD",
   "name": "DR Congo",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Kinshasa"
+    },
+    {
+      "label": "Population",
+      "value": "112,832,473 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,34 @@
   ],
   "headlines": [
     {
-      "title": "British Ebola patient evacuated from DRC arrives at London hospital",
+      "title": "British doctor who contracted Ebola while working in DR Congo being treated at London hospital",
+      "source": "LBC",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBBMkx5dUo5dEd1MFZFSW9ySVZDNkV1T0FCNVBleEFDRVNaZjNvdUoxNV9LamExa3ZPeGY3XzNFUVE5VUtDR0NURGM3OVVLeEJUemNtU0VZZF9xVnptTzVOSk9VMmFpUHBkZV9lUEgxUW5kbjBWcUhfNg?oc=5",
+      "publishedAt": "2026-11-06T07:20:43+08:00"
+    },
+    {
+      "title": "Ebola: UK evacuates infected doctor from DR Congo",
+      "source": "Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWNFNhUnBKOHc3cURZSzRBclVBcV9Fd0pmMTRDUXN3Z0oyaGxTNEV5UnBaZDZlSDJkYURHZGJPU0d4VjU0MTk0X2UxWm92WkQyRl8wbEF3Y2xxQXd2N19TVDl0ZEV4dlFWSTdNdmZxcG15YV9XTzZsMw?oc=5",
+      "publishedAt": "2026-11-06T07:07:44+08:00"
+    },
+    {
+      "title": "Ebola Patient Flown To UK From DR Congo",
+      "source": "Channels Television",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFVOVlgwVGZXblprYjFpTXNnajNtVlFJU2JfTFBFbHBJS080UmZYVnNlSTFMSUVDRUo4dkI0SXhoQ2twa0JLWnZyNjdCWlFUTmVSZFZPdDk0ODhaaC00WVg2WTBFR2t6ZWJTcU1CU1hFU3poR2xzcm9EczBxeURlRjkwRlE?oc=5",
+      "publishedAt": "2026-11-06T06:38:29+08:00"
+    },
+    {
+      "title": "Doctor with Ebola evacuated from DR Congo to London — Interia",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZEEwNE5QR1BFbVZSbTlabDB5YWlJVEpzT0g1ZkJ3TzdjR1RsZkRhNWdKTkpsTHROb1pjSXBwc21JSXB0Q3FDdkljT3dna0JVY2dEV3VwYlh3NjAxVV9Mcl9BSnpZOVdId3lTc3FxVXZpZ0paVHhmV0w5MDdxTGN4Q1hWN0dMQ1dKVV9aeWYzY2JlVzUwUHM4?oc=5",
+      "publishedAt": "2026-11-06T06:29:42+08:00"
+    },
+    {
+      "title": "British Ebola patient evacuated from DR Congo arrives at London hospital",
       "source": "The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGdZeXZiZTV6UFNLeXV4UFliLUhZZmlMUHZ4eWVvZDBFcXVjOFpCQTVONU9tdzdGZld2UUtfRVY1OHFJQ25XWlZidVg5WUZtQVdWWnZFQ0dYa3pXWEtEMWItWDE2akxMODlhMUkxQlQza0VuYTFhRGZRVXZ3NEpIOURqb3k5U2FtRkdqa1R6UVJWWEVzM0VtbmVkdkFUb1dXQmFBSjdqUDM?oc=5",
-      "publishedAt": "2026-11-06T04:33:00+08:00"
+      "publishedAt": "2026-11-06T04:51:00+08:00"
     },
     {
       "title": "British doctor with Ebola arrives back in UK from DR Congo",
@@ -44,34 +72,10 @@
       "publishedAt": "2026-11-06T02:25:00+08:00"
     },
     {
-      "title": "DR Congo Locals in the Dark Over Massive Lobito Mineral Railway Plan",
-      "source": "The China-Global South Project",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcUJMQW9EaVNJYUZhcjFlUndvcDgzT2VTVU1Vd1hqR0V0Z0ZMaS0wUlFrWllvTnpYUkYyTEwweGhzSjUwRnlqcEFzQWVFQTU0Q2tLa2o0cnJVWUFOZ2FuT0RybFFiR3hfRklPeDBVaXllZVVSR0QwUzNFdkN0MDFkOXllekJINkJpQ3RFcVgtZWpPT2xFZ2prYURB?oc=5",
-      "publishedAt": "2026-11-06T01:12:44+08:00"
-    },
-    {
-      "title": "Two new Ebola vaccines to join DR Congo clinical trial",
-      "source": "UN News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wdkFTWnl2OUhpT0tYWm1Ta1FmdUZielpYUEo2VE1rdFJFQnVUM19ZOHQyNFVnT0JPVU82cnAwR3JjWjZJYkFGN00tNHBpZGZrWVo4d3FYYw?oc=5",
-      "publishedAt": "2026-11-05T19:24:07+08:00"
-    },
-    {
-      "title": "Cholera kills 1,800 in DR Congo since start of 2026",
-      "source": "Gulf Today",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVnRHMlJ6eS1hdmJ5dWJrTHl4VHJnSHBEWDd2bzJVcGV5ZVpIcVFiOUNaVDdWVmRqdGdfTzg4LUFNMFFiTk5rQmJqdzVGVktPcjhsOVFTQ2NOVlZaUTd1c0tHUDVlcEZHYzhwTlJHNk82V0tLTWp6WmpXXzhhWHVVaDBaMGtqQkJkb0NGb0Q5RWo1NmIzdUhZZHZ2d3k?oc=5",
-      "publishedAt": "2026-11-05T18:58:21+08:00"
-    },
-    {
-      "title": "Song and Dance in Mongbwalu: A Milestone in DR Congo's Ebola Fight, but Not the End",
-      "source": "Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTlhOWnpEM09uZGluSjdfVXRpOTZPemlkNjEwZktiZC1tOXg0Z182b2NENWotWVRoMWluR2YwVU1aZ1Y5Vzl0b0h5OTU3aFI0TTJ5WncxNEJPOTdsbW5TVzlwaDJDclJ2OVAwZ1EzX1ZkUWpOR2hCU2NVV3FKWmM2S09GTkNaOF9zcDNkODRReFh4bmlqTUE?oc=5",
-      "publishedAt": "2026-11-05T18:22:00+08:00"
-    },
-    {
-      "title": "British man gets infected with Ebola in DR Congo. Flown back to the United Kingdom with the virus",
-      "source": "The Tanzania Times",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONVE5TzM2a1l6MzIzRlRjV1prbWhDZXRTdllrcjZwWjJlTjdXNjRVTUhrUTd3SlhIMHl6aWxpUXpBZ00xNzczQ1hwSnpuSTE5VlBLdHBvblJYMEdRcXhUcFI1cnFITkxtbkp5VzQzV3hxMWlZTTlhM0xsTmNaZWR2elh6Si1rTDFJYVdPTGFFd1liXzFBYjVMR0Y0cFZnU1VJWVVuTFlOWHNWQ0RoNUFHREVxRnNtRHNNMTRDLXlGNUI?oc=5",
-      "publishedAt": "2026-11-05T17:21:37+08:00"
+      "title": "British man infected with Ebola in DR Congo arrives in UK for treatment",
+      "source": "The Star, Kenya",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOei1oUTZvaFplWTF0azNEZktXSEFkSFZnUVBORnpWUW90LVY0TjBvNzRxQWhJd1RxV1FuM0NkNFE3Y2ZfOVR2TFlNYzB6LTBLXy1RdlBiZDVpcno3Z0Y5TUtwS2FiWWFxemN6LXlBakp6RTMwX042WC1YOUxVX0tkemtyTllzOUZDd1NYcTVUak0zci1RMlFpbGNWS2FQZ0pld2ozYVFrRlRfRFc0Q3k5Z0pTVE93SU84X2lkeg?oc=5",
+      "publishedAt": "2026-11-06T02:23:00+08:00"
     }
   ]
 }

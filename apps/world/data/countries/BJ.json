@@ -1,11 +1,15 @@
 {
   "iso2": "BJ",
   "name": "Benin",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Porto-Novo"
+    },
+    {
+      "label": "Population",
+      "value": "14,814,460 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Benin Wins Big at the Africa Tourism Awards",
+      "source": "MoreBranches",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Smw1Q1J4MWc2d29tYXYyOGMwNGxUZ09FWGJScEtpX0ktM0hvNmJ3dUtfUUF5MG43LUFkd1lwV0V2M1Z3ZDVobHdjWURmVmZrS0x2c1JENG1yS0JkZkYydUkzd3ZLZGVIelM1UGQzanlrYXNJdTNneVhNMFdrdw?oc=5",
+      "publishedAt": "2026-11-06T07:53:17+08:00"
+    },
+    {
+      "title": "Benin: Guinean Siaka Cissoko appointed head of ECOWAS representation",
+      "source": "Bénin Web TV",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR09UbEFLUEc2MTJmTHZBRnc5RVBweWV6WXZNaWJ0VTZKUDVJaFVDSjA1U0trazVIZWk0SlNPZEVKUVpHcGEwM3ZzRnItbk9EdG5sTTFWNUF5d2ZuNm5Nb0M2MExsRmxreVdJRzMxZFRtZ1JMRW5PVWZTd3pqcFJUaEc2a1Rha1RndlN3MlB3dUNLVThESkN1cQ?oc=5",
+      "publishedAt": "2026-11-06T07:35:29+08:00"
+    },
+    {
+      "title": "Oba of Benin, Okpebholo, back NDLEA’s campaign against drug abuse",
+      "source": "FRCN HQ",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa1F1eVEwQUYzRU10Q2NlTUdNWTAxVHhCZ2lveTcxaWJmMDQ1clNQTEE2Z2QwWGtXQ2d1SHljMjBrNlBPWEM2eGFtT1VzVkVsdDVOVDhwNFZnUHZfZ1NrY0hjc1VxamkwcFlNWXFUaDdQekpUSnphUmZ4OGhzS0VMeUZwVjRjQzdRNU11eXJxZ0U1c0txM2wtYVhIZ1VFLUhFdmV1OQ?oc=5",
+      "publishedAt": "2026-11-06T06:05:55+08:00"
+    },
+    {
+      "title": "Sweden Returns Benin Bronze Trove to Nigeria, Indigenous Remains to Bolivia",
+      "source": "ARTnews.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZWlnOFkxOVlNd0FTMnptUTdXZGxSbHZJSVJSSkhWOGZ1a2lydTJ0NXJ0RFYwRE9FbWxlcTBHeXpsVGhkTEl5NElQSE1sd3QwY2dRWHRNaVphSFpaWk9RbUxHTUtROU1RTzhtR25SNm1BYzBFb0lhcXVkX3dzV2JPbzU2SWRJaklNTGloLW5CWjNaUGR1Wi1CRkE5OEg5UTNCT0NrZjB0SFF1QnNPdGF6bTBB?oc=5",
+      "publishedAt": "2026-11-06T05:33:00+08:00"
+    },
+    {
+      "title": "Benin-Sapele Road: Contractor’s return to site delights motorists, residents",
+      "source": "Peoples Gazette Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVk01eFNXTkxkd21nTko4a01SUHpFNDM0SkZ6aDJoV1ItZUYtYXllcXd2Y3FCdGpQSG1wLWdWZzd3b0ZHa2FpeGRZRmtILVk3cm1IcmV4cXpoRFVBV0RQS2dqNGtxSUROeDN4ZzJLXzVHX2lITkdWNkMzNzZacGwyOVdtZ0lncll4ZmRtZXFLVDJNbG9CUlhSZEpkVlVSQQ?oc=5",
+      "publishedAt": "2026-11-06T05:11:47+08:00"
+    },
+    {
       "title": "TCN Benin Receives Equipment to Boost Grid Reliability",
       "source": "Voice of Nigeria",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdk50Z1p5RnBXQUU3X09lMzA5Y2N0VnFQWXBiRFQ5cTJIZEh3X1lpZjJEYVQtUlVwam9PRWdMelcxYmZOeGxqbk1XaGdmQkNVYXh1ZFZOdmNGazRoX2RQbVJac0RCdl9zYzVxSjF3aF9JV2tXSzdmZVN1NUM4czQ?oc=5",
@@ -38,40 +72,10 @@
       "publishedAt": "2026-11-06T04:48:21+08:00"
     },
     {
-      "title": "Benin-Sapele Road: Contractor’s return to site delights motorists, residents",
-      "source": "Peoples Gazette Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVk01eFNXTkxkd21nTko4a01SUHpFNDM0SkZ6aDJoV1ItZUYtYXllcXd2Y3FCdGpQSG1wLWdWZzd3b0ZHa2FpeGRZRmtILVk3cm1IcmV4cXpoRFVBV0RQS2dqNGtxSUROeDN4ZzJLXzVHX2lITkdWNkMzNzZacGwyOVdtZ0lncll4ZmRtZXFLVDJNbG9CUlhSZEpkVlVSQQ?oc=5",
-      "publishedAt": "2026-11-06T04:41:52+08:00"
-    },
-    {
       "title": "COAS assures commitment to full takeoff operation of 83 Division in Benin",
       "source": "Daily Post Nigeria",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPLS0tbDVJNzBUeDdhUGxBb05PcTFSaEpZdE5KUkQzMV9JQnRwMW9vWURiSDNBcDZNSUJqSnZIWGxKQVRoRUJOMFFWUkc1OGdMbmIzaWN2VUxRZXFKTVoxbWVNYW85N2ZTekVrQzFkT1BkUkZnQTlDUFNZdl8xVnNJN3E4ZjljQUtMVTVqeEdDWWhTWXplWW93anVrUlFXcjg5b3JXWTJB?oc=5",
       "publishedAt": "2026-11-06T04:39:54+08:00"
-    },
-    {
-      "title": "TCN Guard Nabs 24-year-old Allegedly Stripping Cables At Benin 330kv Switchyard",
-      "source": "Independent Newspaper Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS3hUVnk3ZTE1VlMxYnVwMkxURDNlTTcxb2lXc3dtN21nQlVrSTdMVFAwWWltVXFqUHVTQlhNTVhPXy0wS2NJd1BWWDMwS3hqeGl6LW1jUkQyQkIxVUlyUHExU1ZQaEp5T1ktYjVUWWZWNU44SWR1MUZxR2dOTkZWdjk5ZnVTeE44clV1VmJkTEJjNU1TNjVJUUJwWDFUOG1oRUdqbGdn?oc=5",
-      "publishedAt": "2026-11-06T02:23:24+08:00"
-    },
-    {
-      "title": "Oba Ewuare II Welcomes Return of 40 Benin Artefacts From Sweden",
-      "source": "The News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa29PNFpURG00cEE2MTB3Yk54Z3pUb0tiaUoyVjJIV3VDNjZYRWtRLUVCMkhHME9PaVBHYXg0ZmdYbk9uMC1uTEdzTW5pc21yRWNJaWV6V2o5UjNmMDl1RnFDTFo3QU82LU12ZTVCTUY4QW1xTExlZTgzWGQ1MTV0TEhNd1RKQnVPOUxEYzRKVVJZMTJtVkIzQ0ZocUx6SUlHajYxdXpQR0M?oc=5",
-      "publishedAt": "2026-11-06T01:28:17+08:00"
-    },
-    {
-      "title": "Contractors resume work on Benin-Sapele road",
-      "source": "Punch Newspapers",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wU2JDelRvS0NhWHBXQUtWMEVSajJQTE8tVjUxMk1LRjNWVVhHdGFySVFyUE13ZUU4ekc4aWlqaWVHOTdERUFER2N4SnliMUl2OWo2d0dQdGNxTlhmSElfa2o3TGNVRjAxWUoyT3VOdW93Q3M?oc=5",
-      "publishedAt": "2026-11-06T00:49:43+08:00"
-    },
-    {
-      "title": "Edo Governor, Benin Monarch Support Anti-Drug Abuse Campaign",
-      "source": "Voice of Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRTlzWmI2XzV3SmNJWVRRRkxqMjZQbzd0azV0YzQyal94YTRHUk5kcE5DTE9Sb3U4ejEwQkhZTzlRdmg1Qldra1hTRkJlZVZEMXpqQU0tSy1ZS3lxejcxUXRlb0ZMamN6Zlp3NEFuUjVTUFgxelVHejlqUUR2OHZKU0ppbWNlRHR3T0xuT1RR?oc=5",
-      "publishedAt": "2026-11-06T00:09:52+08:00"
     }
   ]
 }

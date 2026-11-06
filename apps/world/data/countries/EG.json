@@ -1,11 +1,15 @@
 {
   "iso2": "EG",
   "name": "Egypt",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Cairo"
+    },
+    {
+      "label": "Population",
+      "value": "118,365,995 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "Egyptian",
-      "source": "The Quad-City Times",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4tTnpBekRzRHpOSWdjOWljdlc0M3ZBV3poODd5bUJTZ2l2dEZkMF96OGU5bGo5NTlhN3h4VFhpdTdIZjFWa2h5TUF4TER5UmNGZHRINjVFWS1RYmVCZXRhZ2c1QVlSazcwVlpLSWlGd3pqLVpvU0E?oc=5",
-      "publishedAt": "2026-11-06T04:43:00+08:00"
+      "title": "US commits first $125 million of five-year, $625 million pact to bring American companies into Egypt’s energy, AI and infrastructure sectors",
+      "source": "Business Insider Africa",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU3g0VDB2MnpPM1hWZXk4M0xJVGxpbXpGSnB2cVJaWjRWZUN2TDExdF9VUktNS3RONkxob2dZSWU1djRfQW5YWTBsMnVrdzcxOGdsTGhYbG9fZmc2WjhYTGVqYXdCRWNJMmtxTy01bXJKRE51NTZBMTNpMDRxaTRLU0NnTzRUbGN6NUVRT0FtaWY0ZTk5eGZibE9UMm1hM09iWUxLcVVraGhuYUZsS3VTbi1idlI1WC1fZklpV3lDYWdmbEo3TklsTnYzMGhlZWhXZ0E?oc=5",
+      "publishedAt": "2026-11-06T10:00:00+08:00"
     },
     {
-      "title": "Military Spox: Egypt’s sovereignty and territorial integrity non-negotiable",
-      "source": "Egyptian Gazette",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUTlDZDRiOGF6QlRFVXQ2Mlp0dEU1Z0ppMC1adE9rTkVDYTNRMzFDM25WZUV5MjZ4Y25IMkY5bkE5QmlNVzdhYUlFN2FqbUdhbHpaUnN0ODlBcC1kdUR5eGhpTGRLSnNoVVJNSnZfRG9rNTFhakpWMF9fY2lKX1VPY0xVakJVei1tWFN0aXNWNXIwU2NuUjBWZ09sVHRxMVgydmhfWVlmUWtXNmstbmc?oc=5",
-      "publishedAt": "2026-11-06T04:26:51+08:00"
+      "title": "Nile Seray launches luxury river cruises in Egypt",
+      "source": "Travel Daily Media",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdnZ6Mm1pbldlSjVMRUtDbk1mX05qdVIzTVdGNTE4ZEdUUjZoZEwtZDI1M09hVDBvWlFmTmdNaEc1QUdsZDh3Z1M2ZWwtV2MwMzZYeF9QNVp0SEktQ185VDJSdmcyX3lsQzFCX1liNUVLR1pYUi1YZGxOLVczTXJjNVpnTVYwWlBObDVZ?oc=5",
+      "publishedAt": "2026-11-06T07:03:18+08:00"
     },
     {
-      "title": "PM Egypt Raises Prices for Second Time in 2026",
-      "source": "Tobacco Reporter",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQnM1bDRfSmluR0pudnI1WlJCZ3A2WnU0NW9sajdWU3dDcmRES3JzRVJDNU5odlE5Z2IyQzJsWnA0Z1M4bWUxSWZnaUtzdDRPdjVvakRPUXBZOXh3Q3p2eXdzXzlydC05M1BUSUlHdEJ5R2xZX0gzR0N4a05fYTZwRUhXcUJpX0tpckY5UVJhNA?oc=5",
-      "publishedAt": "2026-11-06T04:22:35+08:00"
+      "title": "ROBINSON expands with new resort in Egypt",
+      "source": "Travel Daily Media",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOXU3V1VqVldHYUN5Mlp0c1FRQUFPUUlVMU4wcVdwa0N0cDhZcTVmRVF4NktoS0ZnMHZ4NGRxODBtMWIwWGNwcjN4dDhaUEtZbktLZi1LRXByNUc0emFVRWYxVDlkaDB2UmNPM2w3aVhnTFI3QklUZGZxa2dKRUJxTw?oc=5",
+      "publishedAt": "2026-11-06T07:03:18+08:00"
     },
     {
-      "title": "Egypt's annual urban consumer inflation falls to 12.7% in October",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYzVSV0JZNFJ1TjA4eUpfODVNaFpYUWl4MklCSk1sN0k2ak5SdFZIZDFrVC1WNEptNTI1aW9QS1JCRElLXy1aSjR1U3R0VDlxU3QzWlJkQjBGd0dYSTNsb3hLVUp1RkxoX2JZT3ZIcmpWVXMzcjIybTZtdXNXZUNVanNybjNQNUNsS21GOC1OOVI2OC1UY0VBb1VQYjJJcUpHVGctbERVbE1hcURPUDNjODJLV3oxQWFT?oc=5",
-      "publishedAt": "2026-11-06T04:16:16+08:00"
+      "title": "A&K Nile Seray riverboat launches 4-night Egypt voyages",
+      "source": "Karryon",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WRHU1REk3a3hwS1Z5VjJ3ZlRYWmVyOWQ1TTJteGxaNmlUNGU5TU1VMm4yVURjeEpoZlh3RXlJYVBDS0tYanh2VThuMmRnNXNaQVAtb1luZE1SM3p5cXhRdktGd1hwVkNIZ2EzRQ?oc=5",
+      "publishedAt": "2026-11-06T06:58:30+08:00"
     },
     {
-      "title": "Egypt's M2 money supply rises 17.2% year-on-year in September",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSW1ZdkRQbXR5ZzUwOTBiUllOQmlzWTZxTE5zQ1pkVXBJQ1ViaXhmUzNkRGR5SnlEU29lbThXWGRZZkJKdXFnRGdSN1VVZ1VjNlhJRFFETVhpNTJ6T1BWbGpfY1MwUVQwSlJKT2FwZDNjd0lsS2NaNGI2S2piNGRieWlna3V4bFZiNW05ZU5ZWlJQNkQ1ckpvbXdRSGFzdXBwRnZYZHkxZWNrbFdGdk12U1N5OA?oc=5",
-      "publishedAt": "2026-11-06T03:18:48+08:00"
+      "title": "Two Egyptian army officers killed during gold-mining crackdown",
+      "source": "The New Arab",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa1dpdU45aG42blBncFFrMXdpWV9ONHRfV2lHVzFRNUFCLXg5MnhmeURhWGxkcXpfOWFOdEZ5dktzMFE1dDlFWEpBaWloT2FkYXlBcTFocGNNWWpnUUVnY2lmWEFUUm5DX0sxNjNDT09ZaEI3RDQ4SXB5TjFKNUE4cFVtVGYzb2dkVGRrNElHYWZtVHZSRnc?oc=5",
+      "publishedAt": "2026-11-06T06:26:04+08:00"
     },
     {
-      "title": "Egypt: UN experts condemn arrest, disappearance and detention of entire newsroom crew",
-      "source": "ohchr",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaXFhX2Nrd1ctRTJMY3pxN2I3ZVJwaGJFN3Q1dlBMU1IzYlYyVHlTMEt1M3hJNU5HUU1IYl9iWkRpMWJPY25TQm1PVm5OYjh3UU1hUVd4WTlMR2E1TU1kTXc2ZE10Ul83bkNLQWkxTnZRcWZIcTdXOTROSEFfcm93bEdDMm44TURNNnVxTWFmdGhRVVk1WXlNcW1MU0dOQ1lCWThXN1NJdVhIbUpjeXQwbmRzWW9HUkI1NW1mNG1TOUw?oc=5",
-      "publishedAt": "2026-11-06T03:16:01+08:00"
+      "title": "Two Egyptian army officers killed in gold-mining crackdown on southern border, military says",
+      "source": "Mining.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWUFzRnNmajlod0lGWWhRQnY4M290eXZVeUhxV0pmVG1NSGdqS0ZCclFVbUVEM0tEb2l6YWpEV0ZxTnZPckFXRlRpRGU1Qk1Hb3NFcVZJSFpMWDNqdXZVQXhQcThITGZ3Nkxsdl9KbGpFRjNnN2RCVzlYdllMWFFnNzZicTZjOTJnSUQtZEFQQzFGWDVwbW1XRHM4d2xNcHMyR0VpaUZ1bFFHZUg0R0I2NlRaeFExaHdWUUo0?oc=5",
+      "publishedAt": "2026-11-06T06:10:44+08:00"
     },
     {
-      "title": "Egypt Benefits from Sudanese People’s Suffering amid Ongoing Conflict: Minister",
-      "source": "Fana Media Corporation S.C",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeDlTYlkzdm82d1dOWnhjenN0ZlQwdmtIRmQtUUxIRWN0WXRKZldaZWJqaFgwTi1tdnhUTVRXTk1xTng0V0UwaEdyT0tlTW1qTkpOdTNWZG52MUJTcXl4S09UZk95LTViMl9JMEctUUEyblJsMVZtdDhFdlp3U2Q1bUtNN3gzSVVqcGRTU3ZTcVF3V2pPcjRsNjlsOXN5am5RZDhSSGxhVnBfNVhfRXc?oc=5",
-      "publishedAt": "2026-11-06T02:15:39+08:00"
+      "title": "Egyptian army officers killed in anti-illegal gold mining operation near Sudan border",
+      "source": "Arab News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQlVqSldWdlV3X2tWNmNUMDhMSnZGMGJEbTk4d212NXdpdmNyMVVYNVBsVmZmdk5ROTFOQV94MHFzXzR4N21rNjVacUwxTWxWd2huWUhCbDZQbzg5Tmt0MnpZLVhpYlVwTkNjTnB6Z3ZwazBQckJVRktSSks0VGU4SWJMLXQ1akZCejEzYjFnancxSk5lNXRLUlJYWlNBRURfUjQxT2xsOTgxdElFVXh3aXpNeTdvVnlZZlhWd0IxU0pYSjJaSHdxV19n?oc=5",
+      "publishedAt": "2026-11-06T05:56:55+08:00"
     },
     {
-      "title": "Egypt and Saudi Arabia call for diplomacy to prevent renewed Middle East war",
-      "source": "Latest news from Azerbaijan",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLWkwRHhQemQ2V3dnbE5uQkE0OUpmN3FzRDJVc2Jpa1ZKcWVROWx5LXp5QkRwMkJjTmxjYUhNMHVPdHcyS3RtMnhSYmRUemdON2w1R3pZMmtpYVIyZk1kck50cXZLc0E4dVJWbmNFUXpNckJGS2doM3VPa19jSzE2T0R4b0hpcm5GRE15dzVra1FncVlIQmJqOU1BTHJQdw?oc=5",
-      "publishedAt": "2026-11-06T01:51:06+08:00"
+      "title": "Egyptian Village of Al-Qudah Gains Nationwide Fame Through Football",
+      "source": "ASHARQ AL-AWSAT English",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOVRUOHk4WEF3SHZJTVdVRkxzcmFxYVBYcnhuODdjQ3dad25iSmdDdkNEOHVwSnVNVFVua0ZZekFFTlktQ3FIT3FTeEpIYzlBaHI2NUtmWGpNWG10bVU1RjZCTEdRXzRjQ1NuVG5oLWxmRGYxWHlhd0dCNG9kbUpqNTdXQ0VFV3A4dFB0MGZZVWRLcnlQZ1NzWVRFcTVLZlJoam11WWVHc2RtWENkdXc?oc=5",
+      "publishedAt": "2026-11-06T05:42:42+08:00"
     }
   ]
 }

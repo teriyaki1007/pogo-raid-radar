@@ -1,11 +1,15 @@
 {
   "iso2": "SC",
   "name": "Seychelles",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Victoria"
+    },
+    {
+      "label": "Population",
+      "value": "122,730 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -38,10 +42,22 @@
       "publishedAt": "2026-11-06T00:14:20+08:00"
     },
     {
+      "title": "Seychelles advocates for blue economy investment and reparatory justice at Commonwealth summit",
+      "source": "Seychelles News Agency",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTTNtWUY3MWhmanNOZFZaT1BUQlJkaHdhREZZVzRqSzNNSE9jREVfNVRXbXI0Q1Z2OHR3UmF2Ti1oMlBqQk5QMlMtbGpGeGFld1ZDRWV1MWt4dVM5QTFub0wwY3N6MEs2NUVpVVhhU29XcjVHZmhoRlMxSTdfYTBiM25mZDZvVjVaSFlVSjNDVlcxVUh3RG9DODlucm15RjctRnkyZGkwOVYxWHg5aGxSYkh1U25oaFp3UG04UlAzNzROakN1RTJiNWFfaU5GdUVlWWdWVDFyS2FMUFlrRGpWVjJ1dXJLbHpL?oc=5",
+      "publishedAt": "2026-11-05T23:16:28+08:00"
+    },
+    {
       "title": "Seychelles: Utility-scale plant extension commissioned",
       "source": "African Energy",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZDhxcU5HbjQzLU5WVVA5dXMwNlBlTkNqUUU3WmVUZE1wTkNHZHJaNWw5X1UxR01HQ0x2My1Ca2tsVEMzRjQ1Zng1WERYVkpJN1lXdlNjQmRGSFV0S1VmYzltdy1GYmR6QldwckVuakhfdzBXZUc4RWt0ZHNGTmlBMXM1Q2tFWXdaTTZ3QVU0T0dCMVpKVzQ4eDBneHlXaTdPSFRzUGZn?oc=5",
       "publishedAt": "2026-11-05T22:05:45+08:00"
+    },
+    {
+      "title": "Seychelles targets faster UK tourism recovery in 2027 with new marketing strategy",
+      "source": "Seychelles News Agency",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdTRfU3pSSlB6XzBhWV9MNzJXXzQwU3pVWDQ0Y0RNRU55QjFPdFFRWlI2QzVZdFJJOG9ZTG1HQmVkNVZibnFyV3ptSlR2NUpfbDRWZjJBV2ZkSi1NUndkbGZSb0o3NlBqOWJJTV81Qy00a1A4TFZCWTdDdmVINGRLdXNRNmE4b1llUVJZY21QelpJVXZoeFNwbjhyVEZsc1V3OHUxekdYOVhtRlZkM1RuaUxMXzcxaFFZQWxuekNkZHp4Tk5JWWpvRmswZEZpQmYzYlM3enlXcw?oc=5",
+      "publishedAt": "2026-11-05T20:40:02+08:00"
     },
     {
       "title": "Clio Infotech puts Rs 51.9207 crore into Seychelles unit",
@@ -56,22 +72,10 @@
       "publishedAt": "2026-11-05T19:39:00+08:00"
     },
     {
-      "title": "Seychelles advocates for blue economy investment and reparatory justice at Commonwealth summit",
-      "source": "Seychelles News Agency",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTTNtWUY3MWhmanNOZFZaT1BUQlJkaHdhREZZVzRqSzNNSE9jREVfNVRXbXI0Q1Z2OHR3UmF2Ti1oMlBqQk5QMlMtbGpGeGFld1ZDRWV1MWt4dVM5QTFub0wwY3N6MEs2NUVpVVhhU29XcjVHZmhoRlMxSTdfYTBiM25mZDZvVjVaSFlVSjNDVlcxVUh3RG9DODlucm15RjctRnkyZGkwOVYxWHg5aGxSYkh1U25oaFp3UG04UlAzNzROakN1RTJiNWFfaU5GdUVlWWdWVDFyS2FMUFlrRGpWVjJ1dXJLbHpL?oc=5",
-      "publishedAt": "2026-11-05T17:19:42+08:00"
-    },
-    {
-      "title": "Seychelles' top meteorological official: Sea level at Pointe Larue has risen about 17cm over 3 decades",
-      "source": "Seychelles News Agency",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTnpMY0hOT2o1N3NoMzNDSDQyVkRFTDBUV01DZElwMUFQeTV5QXBLWENZWUtieUV1VllxaFZnb2FfXzh5aGRBODd0cFo1WERvd2FRbElRUjZFdTFTUGVfNjlWV1FPSVJyQTk2b0V3NDR4UHJGNjZtY0VVa0djeVpNMENpd1dBdHlrYWw0SHBSV08xZmdWMUpPV0pvd0daNjNtSGdtVHhja0dqNVN4Nm9GM25keFF0aG96S3FIVmdjNFJQUnlZNnE0SEpMeV9sZVkzWHdEQlFiOURFcDhkRlNHdHdYWjVRc185cDZSeVA4NzE?oc=5",
-      "publishedAt": "2026-11-05T15:19:09+08:00"
-    },
-    {
-      "title": "Seychelles plastic waste: who is polluting Aldabra atoll",
-      "source": "Around Prague",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM1p0RU1vZFFIb0tFaUFKSHpJSi1HYy1EaU9yVlphdmRYN3VaN00tYmdrNjkzNzhURTVNdHN2c193YjRKZ05mbXVtQ3llLW0tR1AtXzdGOVVlckVhSExCV2JTRDhvblVta2tFWFhBX2lYclEyREYxSjlrM09kUXhaQzRLSG5idjB1LWYzRW5DZzd5NVZRYmtzTnBCLWJud3NwVk5ZQ3VLWGxsNjRKeXFuT2FYVQ?oc=5",
-      "publishedAt": "2026-11-05T12:47:21+08:00"
+      "title": "Seychelles: Appointment of Chief Executive Officers in the Culture Department",
+      "source": "Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQeThNN1c3cUJTVkRDOGs2TGYxLU9oMVlwWC1yWVczdEtvMXJtcV9rZERRR2VnQk9NZ3hEclNTamVZeVpNcE5sdndSTC1rbHBwSTc5NTNWUUF6SWMwOEMyV3VyanZ6c2lzSlRpOHF1aFBnVExEdGxvbmVLMW1FU2FLMk9FR3dnNnlSTmprejVDc2tqT3lvVS1LNXFPbTBVZndB?oc=5",
+      "publishedAt": "2026-11-05T16:45:26+08:00"
     }
   ]
 }

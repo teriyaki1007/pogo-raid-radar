@@ -1,11 +1,15 @@
 {
   "iso2": "LU",
   "name": "Luxembourg",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Luxembourg"
+    },
+    {
+      "label": "Population",
+      "value": "686,970 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -32,22 +36,22 @@
       "publishedAt": "2026-11-06T01:57:23+08:00"
     },
     {
-      "title": "Triathlon: Luxembourg's Emile Vanolst wins silver at Youth Olympic Games",
-      "source": "RTL Today",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3hhUS1QeENPa1FqOHdVcW5SR3Y1NGtUbTRLdE9EYTZ1bFJabE9SbU5qRnV5UF9zS19oWE45bDlMTnRHM214dnluZFZIUjF4cmJiVTZVdEtMblhXQXFCa2luUDJMVGhheG9SMzlaZUNHbzNyakFvak5oQUdzc0RsUjlMbmJFT3FZRjFNRDBqanQ5ejliNHhV?oc=5",
-      "publishedAt": "2026-11-06T00:58:59+08:00"
-    },
-    {
-      "title": "Relentless 61-year-old coach builds bridges between Luxembourg and Rwanda",
+      "title": "Luxembourg cyberattacks jump 20% as phishing threat intensifies",
       "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSk5sVEFRWVhHSHpWbS1lRk5FT2pfdzR0YzVzVDY3eXNZeHQyTDc0VE5fNXF6aDFTX2t5SVprS2ZJNjFyVGRGVGh6WUpwT3RZazVMTENrMEZSMk5xbEp1UHUyR0tIZ09OTGtWWl9FdWRkZWc5Yjg3emJ4SGM1M2RFT2RDZEhhd1VPNWpVRVlYS2I2ZDRPNmdSR2RHT3RlUW15azNpZ3VLQWhyWHI5cTQ2d2QwQnlhcmdIR1N1VHdzRVE?oc=5",
-      "publishedAt": "2026-11-06T00:30:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUGE3NmNwYTc1T3cyVlFoYWlaMXVxcjRnRVF6RHNiMVhZM1NGOGp4UVE1YU5yWFE0cFlyd0lhbUhzd1d2RzF5WGl3Q3QxU1NsNDY3ZVotbGtWN3liX28yYnMyNk4tQkswZkpKZnhSREpPMnYxMFZkdlN6RXQzOTY0RnJJX2k4NWZsMkNJX2kxbHowdmVMbUE1eWJqdmlHRE14QVhWZDdlaFRSMHhfN0s2OXFaRkhEUXRLZUtiZA?oc=5",
+      "publishedAt": "2026-11-06T01:30:00+08:00"
     },
     {
       "title": "Energy prices pushed 23% of Luxembourg residents into debt or late bills",
       "source": "Luxembourg Times",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONHlPZ09IQ2tTMzQwWEx5aWRqZFlpejhUVDVLSm14WHI5VnlOb2RIWmpZRnpia0xmZmtrVHZHdzZzT2lpeVlTMjQ5dk9VaGlJSk02eV9GLUZGMFZ2SVpidmdUY2J2WWoyLVJvdjRrSXhsMG5YbUtGUXFHTnRueF9MNnVDLVk2QndmRHV5S29JNDV0Y1czWFVQMkpMcW1iTmV5MzU1cGM5YUdNNktKSEhXVTFNazNWMDFNNFhPSEhuazJLRWN0VFkxOUVuNjUxVGNY?oc=5",
-      "publishedAt": "2026-11-06T00:12:12+08:00"
+      "publishedAt": "2026-11-06T01:00:52+08:00"
+    },
+    {
+      "title": "Triathlon: Luxembourg's Emile Vanolst wins silver at Youth Olympic Games",
+      "source": "RTL Today",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3hhUS1QeENPa1FqOHdVcW5SR3Y1NGtUbTRLdE9EYTZ1bFJabE9SbU5qRnV5UF9zS19oWE45bDlMTnRHM214dnluZFZIUjF4cmJiVTZVdEtMblhXQXFCa2luUDJMVGhheG9SMzlaZUNHbzNyakFvak5oQUdzc0RsUjlMbmJFT3FZRjFNRDBqanQ5ejliNHhV?oc=5",
+      "publishedAt": "2026-11-06T00:58:59+08:00"
     },
     {
       "title": "Ogier is strengthening its Luxembourg expertise in Asia with Aline Sun",
@@ -62,16 +66,16 @@
       "publishedAt": "2026-11-05T22:51:21+08:00"
     },
     {
-      "title": "Mutuactivos moves its Spanish Stock Exchange fund to a Sicav in Luxembourg",
-      "source": "Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcEd6OTRhZzdHTkUtZjZmOE1tdzE1U2piN1VyR2U5eVZzTVNpRm1RbDlCc3ZWa2NjRmdYUkhac2tNMmtvblJuNm1sejdScTFXNkllMDBRV1hiT05zc2pDRmtYS0lXTXlaVUJjMkJ2WUttY0d2VW9aYU9Na2FSMnVhYXYxTDR6YnJvRkE0QnZsOU4wMUJsdTYxN1JWQW5YQVNGTEtqZElvNmJhUkRINXdHT9IBtgFBVV95cUxNN29XQmYzV0JOX1NIUU42cWJTMk1RekQ4QVdadV95WmhZNE95OVJTOHlrZTQ1WWRvbi1XMHRWejRweWFvcjEwdWYwM2JYdEM4cllmLW1FWUZUb0gwTmU0LWFwTGl4cUJFUTloMVZzNzNPWDhhZmloQkpNaDJNa1hlakVaRm43Q2pVeW10SlhmY1cwMllOaVU0b1l0RzYzbW13Rm1TaWNJWjNzYmtHbVpzOUJuZ0FnUQ?oc=5",
-      "publishedAt": "2026-11-05T17:30:44+08:00"
-    },
-    {
       "title": "Hans Biomed Signs Tissue Graft Supply Deal With Luxembourg Tissue Bank",
       "source": "Seoul Economic Daily",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZnE5eU9tcmc2SHdKUnhBa0laM1UtcDB4d1ZRd1ZGZlpZeTFqRDllOVoyaXpqSXFmbHRBYlBaQW5xTmx6ZDBoN084MTNKbUlWZDlLMVFVVkJiTjdWRVVmcGh2cDRwbk1USzZ4bjFUbV9TUG1PTnhCZkpQbkhuSERIVHdzRV9VNzNfazJNTTR2YmpKMlVjQlZiZEhGWThMdUNWMFE?oc=5",
       "publishedAt": "2026-11-05T17:04:36+08:00"
+    },
+    {
+      "title": "h264 eye AFM sales on queer historical drama ‘Arsenal’, wrapping in Luxembourg",
+      "source": "Screen Daily",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbHpSMXMzSUxQcVRDMkR3QnZBenJtd0w5Wjg3VzBLb2ZrcXpqQ0MweVAycTdWSy1VOWtOT3ZmRS1qekJjNTdpY1lFS1QxNmliSE1MYjdldDdrUnhqLWczMHVMTGtNdzA5bEJUUTFjMHpmaDdKblZPU1JIaW56Z19nRVBaR3JhLWY0elJ1Q3JvTW8zaGZjcWYzNkw2OVFaUWNodmVlcUctYm42LUlMbWU2VHlZZkZiTXk0bEc3cUd5bVhndw?oc=5",
+      "publishedAt": "2026-11-05T11:35:18+08:00"
     }
   ]
 }

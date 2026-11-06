@@ -1,11 +1,15 @@
 {
   "iso2": "DO",
   "name": "Dominican Republic",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Santo Domingo"
+    },
+    {
+      "label": "Population",
+      "value": "11,520,487 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,28 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Weak mag. 2.8 earthquake - Dominican Republic Region on Thursday, Nov 5, 2026, at 07:27 pm (Santo Domingo time)",
+      "source": "Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGVfWm10X3hoNWxZcnBXeUY0SmRBa21ZQ2YxbndvTG5mVTM5N3V6aVJWZ1Y3Ri1hYkk0Y1JydUZMZ1prMHlOSThjNW5wR3BvYml1amItVUl5Zk1wbWlnNGVKeDRmQUh2MHI4OEJ0OHhrYkFzM0I3UDRKMjdJZWJlZEFsSlhOaGdLcVZXOHRabnBaendtTW42WGRJSW9qSlNuTDFPMlhNcGZtU1VQRmNCbmREeklkRUE?oc=5",
+      "publishedAt": "2026-11-06T07:38:08+08:00"
+    },
+    {
+      "title": "Federal Jury Convicts Dominican Republic Man of Illegally Reentering U.S. After Deportation",
+      "source": "St. Croix Source",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWE9Oa000RHlCS1ExMEtsaG0ycE91TU44SlZGMVdSTDBUTlBvdkpNTklqN1hxZWQtdDRpVkVMMU5QeDRSZjNoOC0zVHc4MHBFS3BxWTIyVTR1ZUpuLURZRGpmQURRRXdaNnVNcTlBZWhBWGEzak9LU2ppektBblJYZzE3dXE1Z2lrVUlFUERBeW54Y2NwMjJzcGUtd0ZCLXFkaDB5dWZoUl9jZnBIOFhwOTNaWm8tU1NDTWFwZXZ0OXN0dEJEdUk4?oc=5",
+      "publishedAt": "2026-11-06T07:19:38+08:00"
+    },
+    {
+      "title": "Abinader meets EIB president Nadia Calviño to strengthen investment in Dominican Republic",
+      "source": "Dominican Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd2Y0czJPVHNOQlkycnNVdEtLWXcxb09DR3YzbklhdjVtVko5X1NtR2RSdWhLUjVhc2IzVnZUSldtSG9pTWZmZXFXSnlGdTg4d3djS2RpT3ZHcW1ybGxNc3duLXFkb3MzWWljS2lodFpmbDFQX2lQWWdfWGNVdnBhMDM2anJhTWpoZEJVYWEwMXJZalN2LTJBMHV3aXNJVkNwcnhYclJ0eXM2bkZTRkpHOXlfZE5CN2RB?oc=5",
+      "publishedAt": "2026-11-06T05:38:29+08:00"
+    },
+    {
+      "title": "North Country Mission of Hope plans inaugural mission trip to Dominican Republic",
+      "source": "Sun Community News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNVJseFo3N2lXOFhaeVJhMDJPQVlqWURXRlBveWkwTXU4MnNNZGxTaDUwY1hlcHJ4emNTdWdyWkthSzNUdTJDYUhVd2RfaFhRNHhmR1ZYOEJjVVl4c2lsMVlxb0lWS1hLcVV1NjZ4QmxZOW82LXRkMmZ6YVlnNFFtQkkwZWJvYmtRZjVMa2JkT1R5Nk1ldW1GQUxfTXN0dXZ6SjJzVEVyMUJsR3RZa2xXeE90VTk5U1Y4cTYzeHlkcw?oc=5",
+      "publishedAt": "2026-11-06T02:00:00+08:00"
+    },
+    {
       "title": "Dominican Republic expels more than 40,500 Haitians in October",
       "source": "Caribbean National Weekly",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY2hxbzdqdk05MlBwcWZxVUdWSFl0UE5VaF9zUjE0UnNFOTVEYThzWE8zUHhMYlBBZDJfeXNsSkhGcUFlUnJaTEMzMG9vNndmZHZxWUtUN2ZkVm9zbEJkS3UwOXNkUm8zWEdoTi1ZVTdZWUxoNV95ZmtIMExRYm9ObGdlUkZpN082UXI4XzlORXVFUkJVWHZrY0R3NUFQZFNVZkQzX3FadlhyVjQ?oc=5",
       "publishedAt": "2026-11-06T01:46:29+08:00"
     },
     {
-      "title": "North Country Mission of Hope plans inaugural mission trip to Dominican Republic",
-      "source": "Sun Community News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNVJseFo3N2lXOFhaeVJhMDJPQVlqWURXRlBveWkwTXU4MnNNZGxTaDUwY1hlcHJ4emNTdWdyWkthSzNUdTJDYUhVd2RfaFhRNHhmR1ZYOEJjVVl4c2lsMVlxb0lWS1hLcVV1NjZ4QmxZOW82LXRkMmZ6YVlnNFFtQkkwZWJvYmtRZjVMa2JkT1R5Nk1ldW1GQUxfTXN0dXZ6SjJzVEVyMUJsR3RZa2xXeE90VTk5U1Y4cTYzeHlkcw?oc=5",
-      "publishedAt": "2026-11-06T01:16:47+08:00"
-    },
-    {
       "title": "Dominican Republic highlights importance of trade as UK arrivals grow",
       "source": "Travel Weekly - Home",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM1NWbXhIXzJYaktYZVJsWnBCVHVENFpYQjQzUHgzZ19qS0g2VzlpTzdQZmwzaTRyLWllWXl2UV9Xc1B2UmlVMjhQVV9ZZ3l4S1YteWl3UzQwZDJtdUtvNll2STJac3FBZjRtenBzb3JtWi1DNGhvRDVESXBTcTJNeUFuQjBSa0s5aTN6ckFvZ0ZadGF4UGVjVC1ndHI0eERObVZF?oc=5",
       "publishedAt": "2026-11-06T00:20:00+08:00"
-    },
-    {
-      "title": "Weak mag. 2.7 earthquake - Dominican Republic Region on Thursday, Nov 5, 2026, at 11:57 am (GMT -4)",
-      "source": "Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQVNsUzBDaUh4bGd0VkhiSUx3dVpJSFlsdEtBWnpoSDhmMFJzSXFSTUoyLVRqckRJQVlSM0tVakNLakgzU3lweHQ3U2s4UUtoZ3k3X3NYdWhybUtzdXRhR1UzY21LVmdSQ2dLTFVwS0NwdmUxZ0lhdi1nbm55aXdwNUp2ckpsNEdRUnp3c3Vid056Zjkzcy0wYkt1d0NpYnVCQTFmVlFmVllldWxkMm80c2RtRHN0MEk?oc=5",
-      "publishedAt": "2026-11-06T00:00:44+08:00"
     },
     {
       "title": "Central America and the Dominican Republic strengthen their presence in the British market at WTM London",
@@ -60,18 +76,6 @@
       "source": "Dominican Today",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMU9GM1FmdVV0SC1MVllhTVNJQk83am9EN0ZhOUd0bEs2Y0JlekJWZzRJWXVsbXlDMWlybEhEMHc1eklBSU8ydENzcVdWSDVHTlRmOFJEeFoyMmVsV2c0czJKTFNWNHJRQjhlREd4NTVSdWNxdFFhaWlmLW1ya1dwY0ZwUDlHRnNQejNocEx2ZllJb3RQSWRvUUc0OGM?oc=5",
       "publishedAt": "2026-11-05T21:41:09+08:00"
-    },
-    {
-      "title": "Abinader proposes Dominican Republic as headquarters for Ibero-American AI Center",
-      "source": "Dominican Today",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQalNXTmx4XzBrT0hfZks5X0V6ZGwxNWpOdURYQ0VVQW1YOWhET2ZSRjYydHNZMnMwZ3V5Sy1XN0M4TVFOVHZrejNLSXNrdUFPMnpXblRZa1dLNHBvQmFjWXg5OGxyT0RyNl9BY3hnWi12a2o3WFlEWUdNam1kUGlOMUVBZ2dkUUF4T1VLRmJPdHNUcGRqUGdvSlk0M3RPTTFxWWhuUXUyOThMdjB5d2c?oc=5",
-      "publishedAt": "2026-11-05T21:14:50+08:00"
-    },
-    {
-      "title": "American Counter-Cartel Coalition Advances Regional Cooperation in Dominican Republic",
-      "source": "Diálogo Americas",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaVpGNWtBeTBwUkV4b2txeFNrLVp2YU83c19SZndaSlI2WkZFWDhmU09WdGdzTHEzVkl6TmhXdGV4WTBQQnpTa3lPMnBzdXhBSC1YMXVJbi03c0lHeGR1VFlDREF1OEJ2S0YydkpOZ1FWRVFLUERHaW9OczByQ0VOUjRsZmVFMHc3QjZITUVmaFZDOVQ1X3NxT0Z3Q19xWG9zOGZWQTlFU1ZxRW5YdEtUM0FtaXJnX3BmMkN1blBOUjk?oc=5",
-      "publishedAt": "2026-11-05T19:00:01+08:00"
     }
   ]
 }

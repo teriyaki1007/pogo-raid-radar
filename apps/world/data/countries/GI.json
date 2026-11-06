@@ -1,11 +1,15 @@
 {
   "iso2": "GI",
   "name": "Gibraltar",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Gibraltar"
+    },
+    {
+      "label": "Population",
+      "value": "40,126 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Gibraltar Industries Investigation Notice: Levi & Korsinsky Notifies Investors of Pending Investigation Into Gibraltar Industries (ROCK)",
+      "source": "PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNRWxUaVZkMTRXZG8wbEhkZXRxcDhNOHdXdllDUjh5d2NTcUt2aWczdWZURmhENDZPNmwwVmRvRG45ZXk0VTZlV0h2bDA4TUQydko4VUxJNnZ3anlFZGJaWS1fampCdElUdmo2akYxNlRrMTFCN3B5V2IzODVXNi05WC1qRW5FVlU5dUotWGNES2VvMVF1UEd3UGxvSWtLLVIyNmV3YjhZUFFqQlRFN05uU2RLT0xXdllNUnhUWldLVGNQTGR5MUEteWg5UjVYM0lnbHU2RlkyVHhFVFB0Wk16UUV3dElkZVpxVVM4d1d2em1GZWVKcHl2ZGNoYm1kV1NxT1hqbElwOEFlb3FxcVNvMi1UWXlsUGs?oc=5",
+      "publishedAt": "2026-11-06T08:34:00+08:00"
+    },
+    {
+      "title": "Gibraltar Industries (ROCK) After Q3 Results And CFO Change Is The Recovery Story Already Priced In",
+      "source": "Yahoo Finance Australia",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON3FualpjQ05wMmNYTG5fOG5RSGlQbW9INDRHOERiWS1ObE1TVEtOdFoyZzdZT29GZXQxNEJmNGpHRmZHWHFva2twdUhfSlFEN0xuSWtYaUtvV1ltaHJrTW1vT2ZlX29URnIyQVpxcHJvNTdlRmoxaEpfaXpEUlcxWEdPNFg1OGNQQnVpZGpB?oc=5",
+      "publishedAt": "2026-11-06T06:12:42+08:00"
+    },
+    {
+      "title": "Gibraltar Industries (NASDAQ:ROCK) Issues FY 2026 Earnings Guidance",
+      "source": "MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGlIN3NjRmtvRWtkYjNSTHhDVXcwR0tidm45STdGcy1MWWNmZE5IXzN4VGVfTVVRQkl6RHRfRG9LUk83VlhJbEVrZDZFc09PVUF6MjY2Y0FZa0xYWjZPQkdiN1lEdEZLZV9GRS1CLUhCV1pnX1h5cjdCcmhDVC1Rc1dCdEF4Znl0dGszaWxQVEtja1RUb1R2N2g2TTl0SlppaUNuaWVVWHJpLWY2bTJxQm9oV1BNSjR6OFBtbXpfOWtieWh4b1JV?oc=5",
+      "publishedAt": "2026-11-06T06:09:35+08:00"
+    },
+    {
       "title": "Data centre would not draw power from Gibraltar’s electricity grid, says Pelagos",
       "source": "Gibraltar Broadcasting Corporation",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNk12TkMxdGtwdmN4T19mcjRoeE1IRkRPZE83SFk2ak5DeUNta1VxdWV3S2I2R3JwRWM3enozS1NtVFVOS3pwUDBDenFjeDVfVGI5NVdvRlNKakF5MGVZYUF2bUlsTVJDZldoWFVuLXgzQnluek52NDFQUDVtZUNNaXJFQ0pVenRLSG9mNmhoLU05QmxleHdPNmIyc212RDdyeVY2MA?oc=5",
       "publishedAt": "2026-11-06T03:39:15+08:00"
+    },
+    {
+      "title": "Gibraltar voters reject public safety tax, leaving city leaders to seek new funding for police and fire",
+      "source": "WXYZ Channel 7",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd0JJREZFcXRBbXdWTXlyXzBqTHpNaGJxRmoyU3Rhb3BpZXRMbE5ERlc3QjN5S0JkTEFjZ0tsdVd6UUtuamxudXI5RVRfQjBqY3B4UDJMYXBiR20xRlBaRGs4LTItLUJmd3lNQ3luenJoU2NUakdkd0RNNkRSbTlRc09CWkZ1Y05pb2RUQlFzUXN1UVJmdmdIaWcwM0VOZ0dUclNzdzRXd2RTanhweUN1ekJ2VGpWYk9ack85OWpnQ0tPcDRIQ21n?oc=5",
+      "publishedAt": "2026-11-06T02:52:00+08:00"
     },
     {
       "title": "Watch Gibraltar vs Malta",
@@ -38,40 +66,16 @@
       "publishedAt": "2026-11-06T01:51:50+08:00"
     },
     {
+      "title": "DCM: Gibraltar must look beyond physical limitations to unlock digital economic opportunities",
+      "source": "Gibraltar Broadcasting Corporation",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNlEzUUJRNF9UMTd3Nk9BeFFRbWhvX2JVWVRPX2R4WDRBZ2xtbmRXMTd1YzNrcVJteV81blVKSWt3QUlJeUZSMF9yZWdqdVhIREd5dmttMTJOODlVck1GSl9ocUl1MFhhNUcyaEdibkdmOGhtelo1S19VWjFWTmxPWHM0UWZscTdUMnA5V205N29hdnQ5QnA1ZnVMMWswUFVYeGl4dmVEWndQcVhCQkNVMzJ0ZGh6bk0?oc=5",
+      "publishedAt": "2026-11-06T01:43:51+08:00"
+    },
+    {
       "title": "Gibraltar Industries Shares Fall After Q3 Miss, Lower 2026 Outlook; CFO Joe Lovechio Steps Down",
-      "source": "www.marketscreener.com",
+      "source": "marketscreener.com",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc2YwZktnQVdNMnB5eHpjZ3FPdDVVYWczODhFNS1pY2M5Z2pSN21qaFdTWjhTM1JLQ0l4cUpBTGVpbEc2SkJ5U0tpeHo1S1lHMG5rMERNUkprX0I2VktDZEF5Vl9rcWJpQTM3SHU5aWVieVRsT3VweFlGall0dzJBeFlkT0xITWkzeGduNkFjRHFWRXNKdmloZUlBTkZ6X3BlV2lIWGFzU2FicDVUZUZwM09Eai0zV1BEdVFmMlhvRjd4bnk2Y0NZdUtVMFZYU3I2cmQ1SU9aR0R0dHBxSElZ?oc=5",
       "publishedAt": "2026-11-06T00:57:58+08:00"
-    },
-    {
-      "title": "Gibraltar Industries Stock In Focus After Return To Profit In Third Quarter",
-      "source": "Simply Wall St",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZ0ZwLXExNVJiY2o4V1g2RWVJQWJ5VHRBSTRTdEYtVEVqcEJ6Z0MwZjVFZUhid1d1Q3o2b1lnWjVjQWdKcE9aOVhvYnNvaEM2eHNiUk41a3NJYXJUTTZOZnlGRjcwdGM2eXl4eHptSnc4cnJrdi1EYW5VUEtsU3ZQSlF1OHA0OVNKSlpySkEwbUVyRkdDTHFheTM2TVZCbGhhR3M3SW5GSDdUR1FVXzBnYVktVW5WaEVISHRlRi14RU10aS16QnU3VlBGS2R6anppLXJQcWN0Y2h2dTRC0gHiAUFVX3lxTFBUc0NvMXFGVjI5d05vRmxTOVBJNURZS2NpcEV1SlE2R01maExfdTVLR3pKY0NZZld5SGlEX3p4b3FSNGhfLWVJV3JBckthX1BkanFseXJYVklNcllCNEtWTXVlb1JKZi0xODQ1RDdhRm1iNzJxcmVhWWJnR3h6Nk9aSjgzRGI3WTljOXRrNXllZnlMUVdUcjlZc2JjcDNtWW5jOFVUY3VBUE0zbGNQczhkbnIzWF80YlA0cXlXdWx0QU9TRlhFNEhMeXMxNkhybHJvdFlQT2hLSHdDanpsMVBacFE?oc=5",
-      "publishedAt": "2026-11-06T00:28:33+08:00"
-    },
-    {
-      "title": "Visit Gibraltar shortlisted for travel industry award",
-      "source": "Gibraltar Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMllkdjhIdjBsZ0xKQVRJWmFZRGJTSkY3NkQteW83cms5bEx5YVd2OUx4cU5kd2lVUDBPMDdJOVJEdVpyMXFUaVRMYWwyeE5XNHp2c0N0SEpadFJJU29VR2NKUkUxMlp0MHVoOVBTWGxnYUQ4b3V6ODUtdUxlcHVYUmo1RQ?oc=5",
-      "publishedAt": "2026-11-06T00:04:22+08:00"
-    },
-    {
-      "title": "Gibraltar Industries, Inc. reports results for the quarter ended September 30 - Earnings Summary",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObWludzVrNHFEbnZlVG82T2pVVjY4Q2JaTmdObmNCNndwRFR6SkVMWmdIYXBOQXU0aHhOdmc4Z25CNHNJUEpEZEpuUXJCMVNkM3BSTnptUDBuN1d4azVfM202Z3ljdElNMjFFY3pyMGwtbzk4QS1peTNCMUZKeUxSQUI5Rkl3TExtOWhsMHhBWmF1dnRBWEQxTFhRNXZIV3FhdzVhSkVIRUtUWnZLVVZ6cjdURkxNQTAzTFY5aGFBY25rb3VjOTl4bU9TMDg2Z210cnJmOVJnaE9NZmU3X19ndlN1QUFjbEQ4NjFTeTJQZWdXcERE?oc=5",
-      "publishedAt": "2026-11-06T00:00:26+08:00"
-    },
-    {
-      "title": "Prediction Markets Summit Europe 2026 to bring industry leaders and regulators to Gibraltar",
-      "source": "Yogonet",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQamFydDFPTzZIdVQ3ZFdCR2pNRnMtSmhIVjJkWFlUTDhnUkpJV1FhZlE1SUtpeEZhaW9oWGZyMUpSd1liWTlTRFlHMmJVYmFKdDlyQjZtZUsxaW9jb2hJWDlFOExMa25jMk9GQlM2eUxCNTNvVzEycEpZM1hLRlFuUHd4V1JVdkxERnVRazNQNkwwMlhDZnc1MWlNTThWSXJJdktNUGdSekFvRGROcVdGb1l5Y29FYmlabnJmZmxtaHQxYWk0bzF3NVJ1b0REX21LQmlta19Sc3pJLWE1V1ZoLXZobDBXT1E?oc=5",
-      "publishedAt": "2026-11-05T23:29:08+08:00"
-    },
-    {
-      "title": "(ROCK) Gibraltar Industries Expects Full Year 2026 Adjusted EPS Range $2.70 - $2.85, vs. FactSet Est of $3.80",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZ190cXR2WlF4b3JuT2FLXzNXczF5SGw0NXV6dHpxWUNhUzRtODhoNExuTGstaF9QZkxyY3hCdjA5aFlMNGpNM0NjRlBnVmNvTEhWUkc3dDhETDA3dzNTUjZKMUxiMWVGZmhCcUVRc0djdDlBUGo2MmdROF9jVVVBQmdlN3hRVkxFczdQYkpKR1dWMERjSWRHc2FIMERPdU16TEUyc192REhpenpLYU00WHk0dElLMEljRXQ1aEpLVThGLWd1T19xdk5WRzJreDIxbUxrbUQwdHpNajd2bEE?oc=5",
-      "publishedAt": "2026-11-05T23:15:41+08:00"
     }
   ]
 }

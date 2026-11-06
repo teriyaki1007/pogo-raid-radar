@@ -1,11 +1,15 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Dublin"
+    },
+    {
+      "label": "Population",
+      "value": "5,484,367 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Social welfare Ireland: Fuel Allowance criteria and how to apply before new season starts",
+      "source": "Dublin Live",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcWI5RFVsWFJyUGxxQnZ1NXVkalBPTzlRWWpDWlRaME5vTlZJLUctQ09sRTBHQlF2OWpveGVWTGMtZXBsUHdCallBOGZfYktRcTlfRzZMOW96UVh2MUFOamxZN2JWdkx4X3RMVHZnSzZWOXdldVFlQ1UyR0M4R3RuWmEzUdIBiAFBVV95cUxOUFBscEpQMUkxdzVWM0s4NnNLNjFzNXU2U1JLY09OYXp0VmpqS094dmtGaDZmQ29NTlBTelVRREFTQ2Vod1hrVWR0SnM3SDBnVVZ1eWpJeXRvR0EwM1puY21iZURkQzliYWQ2OFU3WnBPSE1ETUNlMnhPZTRGZVdOM09kNVlISS1S?oc=5",
+      "publishedAt": "2026-11-06T10:06:17+08:00"
+    },
+    {
+      "title": "Review: DRACULA at The Gaiety Theatre, Dublin",
+      "source": "BroadwayWorld",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeTF2LUlIU0RnRmsxd0RRREl1ZGdHSC1HYWZNN09IdElucHZvUlBfWFpWTG1ibG84NGJZNkI0M2k1bDZzU2VlNlctMEdwc1lPNlpzbEN4MXdBUzBqSFhyWVhKMUhKQzduMFFSdGcxTXRjUUdWb2w0Y1ZIUTRoUEZMN29Kd1FhTVBFUnZleTZFXzNKenZ5dXhuSmVTM1h1NUU?oc=5",
+      "publishedAt": "2026-11-06T09:01:33+08:00"
+    },
+    {
+      "title": "18 places to learn a new hobby in Dublin",
+      "source": "RTE.ie",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaDk3eXhROC1qWlF0UkFnUDJfbWI5MHctdXV3SGVUSGVXa284SjdSZ3BwYUlJMnZObjF1Uk5Fa1FRSW5CWHlXNmVZcXN1bGxHODVuUXRVb2s2anFuSTZDbHVlLURVaWNaUmVYU3hJdm5yUUlLVXl5R3FNQWhGaVNTZFFkQnllaGZvODBiQjZJVThlRC1jQk1MaHR4VQ?oc=5",
+      "publishedAt": "2026-11-06T08:06:33+08:00"
+    },
+    {
+      "title": "Ireland's Cleaning Awards Take Place In Dublin",
+      "source": "European Cleaning Journal",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWVaZDBicUhHVHlUV0xKWEhHT2tlVVRQMlpqcjc3cGQwcE1VT1NELVg0dmFvQnE5MVZGWmRDVnp2WGFSaEhxUWlmaVo4TUh4a3YzWUo4X2VYYWVXZU1Ud0NkRjlwQlp3X2c2bEg5a3ZiMW1rY0NKLUo0RmtVVGhWQXBKX3NjeEtycXJSR1JiMzhSazdRVHFpR2o3Ty1VTmpUdF9ZVjhnQWZaY2dZN1FDSTNyb0g?oc=5",
+      "publishedAt": "2026-11-06T08:00:52+08:00"
+    },
+    {
       "title": "RD#4 Nations Championship : Pumas team named for Ireland Test",
       "source": "Super Rugby",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbHZlNENVa0lsamt0MEZsRTRQVklUbklxSGpXZEFRVmRsRjh6b24tZjdNdElfM3E2WTBjNFZPbXhMck9YdU1UTGlTd1RLQ1Ayck1rekViVm9xbC0ySml5MlZRQVA1VmJtNnBwUzdfX2ZhekQwNFdWZ1diM2stdGNyUWdaLTJHRGhDWGJvUzNidkVPMjJzOXFYNFdfbHNXcHlvSExVcGRjZjQ?oc=5",
       "publishedAt": "2026-11-06T04:53:11+08:00"
     },
     {
-      "title": "18 places to learn a new hobby in Dublin",
-      "source": "RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaDk3eXhROC1qWlF0UkFnUDJfbWI5MHctdXV3SGVUSGVXa284SjdSZ3BwYUlJMnZObjF1Uk5Fa1FRSW5CWHlXNmVZcXN1bGxHODVuUXRVb2s2anFuSTZDbHVlLURVaWNaUmVYU3hJdm5yUUlLVXl5R3FNQWhGaVNTZFFkQnllaGZvODBiQjZJVThlRC1jQk1MaHR4VQ?oc=5",
-      "publishedAt": "2026-11-06T04:38:08+08:00"
+      "title": "Full list of Dublin road closures and public transport changes for EU presidency meetings",
+      "source": "Irish Mirror",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGM5T25ncFZWX0EzSmJ3c1ZmdVBBY0hqM2xXNXRsa1BMUnlhNmpfX3NyeVpWWTBaVWh4djNOa3htYktWTDZpWFhnbWE5d0tlZC16TC1nR3B3VGR2bHRDUjhDbkRDUERQb2FMSEhrREs1Qk0wSEJPT1k4TG1IdElWM2E1WXpfN2Fma2c?oc=5",
+      "publishedAt": "2026-11-06T04:13:05+08:00"
     },
     {
       "title": "Andy Farrell's son could play for Ireland instead of England",
@@ -48,30 +76,6 @@
       "source": "The Irish Times",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYjQwTWE0bVhjOUg0eko5V3R2UktrLVRnb1poSjhSejc0ek5GbE15OXRtcUMydVIzaEUwRnFNZGM1cXFaRWFfY3BiZzdsdGUzZ1Z5VzRkWnlDZktDV1NqQzBCR1JmVUw5M2l2eVVxRGFUSUVqdlRLOWw4aEtpNl9MNkFDUkhzM2hsRS16eDJOcUhIdEpQUGJZeklZTWhJNXhiMGk4eTNkSDdmc1JOMk5hTUxLMC05MW1qSmpVeVhlc3kya1JHR0s5VGl3?oc=5",
       "publishedAt": "2026-11-06T03:17:55+08:00"
-    },
-    {
-      "title": "Dublin Town backs proposed city centre safety scheme",
-      "source": "Drinks Industry Ireland",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTXEwc2l4bWRGNDR5SEVmbEN1bm1zZlZtQ1YwN0RUZEVjLTJsYjVYc1QzZWNkTEwwMmhidWY2SkdZdlptS3p5TDFyc1o0MmxwZ3U2QUVIYVVXTndIYnpoZTFOS2VUVGdmd1daN0dNemhDa1pxUVRjNzh3aGZGNWhMWDU2MnM3ZXhPd3BKZVBOWkJ6ZHJR?oc=5",
-      "publishedAt": "2026-11-06T02:14:24+08:00"
-    },
-    {
-      "title": "Garth Brooks announces 10 Irish concerts for 2027",
-      "source": "RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1FrTXd0czB6Y29OcV9ITDhncm9jbGY5M2lVaHNzUU5YQWlQU25pbEdTU3R1XzlyZzU4a2stZXhmUklOM0h4RG42NGtHd1E3R0E3VkNlZThpTnExbGRpVS1CRkotZFF1aXdCb0N5ZDhzTlAzSURhMnhrN2hvbWlPWnlJQjZ1WG0yQkFNSWNjTk5LYjEzTUpZcUtXalVWY2Rpcng4?oc=5",
-      "publishedAt": "2026-11-06T00:55:18+08:00"
-    },
-    {
-      "title": "Manning named in Republic of Ireland squad for Nations League fixtures",
-      "source": "Connacht Tribune",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakRySktXWGg5TUdjX3VBOWo3cXRrblZ6UHhGNS1WMncwLXJabGNybkRvQWxkUnFhVVpCNGFXa2FxSk1jR1A3ZWxBZnB6UllUVlBqOFp5VTBBWnVYVlFZaVYyZUxhdjdlclhJQzFOOVlJb203MVpSakkzTUt6QTl1UWdGYk4yMjd3eTJkY1lZZFliakk3RUtJU2xFWnpxanFsT3NUZk5XSkI1eUs1Qk5Zc2JEZHRSQQ?oc=5",
-      "publishedAt": "2026-11-05T22:28:00+08:00"
-    },
-    {
-      "title": "Director appointed for new BSS Ireland branch",
-      "source": "Builders' Merchants News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdkJWSEZ3ZTg4SFIxS21ZOFVabExfWExrNlBVemkyNFRJekpBOEZFRXRaSFlxWkhQTHR6T1pIbHIxMDFlZW5tZmxqY2tFekJJM0o2OWRXMFM4OC1SYzJWU25VNE1TMlFPZms4Qm9CR2xKaWRJQ0FmTVdvZVZ6NVRINDFMY2pyWmlqSHpvQg?oc=5",
-      "publishedAt": "2026-11-05T21:56:20+08:00"
     }
   ]
 }

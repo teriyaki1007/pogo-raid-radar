@@ -1,11 +1,15 @@
 {
   "iso2": "CV",
   "name": "Cape Verde",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Praia"
+    },
+    {
+      "label": "Population",
+      "value": "527,326 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Cape Verde captain Ryan Mendes cleared of rape allegations; accuser charged by New Zealand police",
+      "source": "Sportstar",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOdlVrQ0ZobEVmZWNORkNlaVNWb1pYekVsWVV3TmNlaWZMY3pNZndRV1JGQTNtS1piQnZ3LUhqZ3pUdXNleG42djEzOWtwemFuUUZjT0pyS19TSl9YV2oxeVFDdWZUOXJWWlh3ZUZXYnBIdG81bkQ0QzJzUC1iTVNnRzhCdUFSTDZLRUYzREJKbHZHU2hUcVIyRWdsQ0RtWnN6OHJMMmVXYkU3ZEZ3RGFER3I1NXFYZHRnbkM4cFBFenpXcHc0QWdEOXo3VGRCV3htM3h3dURzTlpOMTBXSkFhNFk0SzLSAesBQVVfeXFMT2NiZEpnTDhGT095T3IyRi0tZElqSmlwTnpmY2ZtaVVhckk0YjdzS283RThKV3M4dEVJa3phZ1ppWGo5VE9GWEpoOUpkQ1lWWlVJQy10eDhDYjdqXzhIdVp2Y2ZzMGZxZEZsekZYQmFRWmFkT0o4N1BNVFdwclNlM3pkLTV6LWFZUVVnVFNYVk5vdDBaNHl5ZEhMQ3QzUFdwVjBEZUZmZ2VicHlsU1ZNOVV0aXE0U2hIM2hXYzIwNXpFcWMxcWUtbHpndGhibEhTYXJwbjFUd3NKQXFVQ3ZTVkFEUjBNb0Z4eFFKMA?oc=5",
+      "publishedAt": "2026-11-06T10:27:39+08:00"
+    },
+    {
+      "title": "New Zealand police dismiss rape allegation against Cape Verde soccer captain and charge accuser",
+      "source": "The Killeen Daily Herald",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQU1hmQzV4ZWwydjNObkp4UUtvTWxmTXctblRESE9LdHY1TU9qcTFqYlpJa2pHVXlVXzl1VTlnazY0VnNhbDJfOHBCM0JaZGh4RGxCbm9Dd2MtOGdpcXdKR09lQlozT2xEV1pYRjhHOTVUMHBmUjZQQlZUbkJmTmQtc3ZRNU1mSllJblpmenVCdVF5VTJqOHR2WjdQN0lNVDJZZ3JNZHM5alduME1HRll4V3ZRVkZhUlFYa3pCSHRpY2k5aHVHdGh0SEZvNjJPclRqeFNDU0xHLU9CeGxvQmw0d0RJRHYtMHhISWwzM2dJZTFFNF85bEZuQ1BoNGRTc1VQNlRXZ3Zvdw?oc=5",
+      "publishedAt": "2026-11-06T09:42:36+08:00"
+    },
     {
       "title": "Woman charged with false testimony as Cape Verde captain Ryan Mendes cleared of rape allegation",
       "source": "The New York Times",
@@ -46,7 +62,7 @@
     {
       "title": "Cape Verde, Africa’s Atlantic Paradise",
       "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZlVyZXNrZzFLb3FneTNRWUdfaDlBcGJ2Ukp6LXMzdTZyZHVEdVNYZVpiQ2hzV2NENzgxSDFKTW1WU1o3WTNHc0k0dTBXdkZZS0I5d3BSMk1LQ21HU21RSHY3VU5CeGphTzIzTzdNWjZ4dWdWZXhDaG90UlRoS3pNaGtZQndzSS1Jc1c3RmV1akxVMkRCcWZpMA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM0JHaFpZWl9zbWt3RkcteTBxTjU3ZUQxZnI5RlAyLXR4Y2lSRU83bXVLdXFHMm15a0RlMENrVC01RFZqMVZfdVpNQlBNVm80SWRzOGxUME1nYUhfSHkwZm1OWHlKZTZkMWtMejBJOW1jbEVwUmZSbld3WTdrbUdLVDAyazlSWC1FSFNwaExpWjdFellHN2VPTA?oc=5",
       "publishedAt": "2026-11-05T12:45:00+08:00"
     },
     {
@@ -56,22 +72,10 @@
       "publishedAt": "2026-11-05T07:29:04+08:00"
     },
     {
-      "title": "Worrying extent of petrel hybridisation in Cape Verde revealed",
-      "source": "BirdGuides",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUmNPWklic1VXU1QwMmp4UFNLY3Z1SDYxZnRUWlhlZEplN2RpTFZaY2tPNW1Ha0dMczU2bFMzcm9TemhZbFBpd2dQclBZZEl4azNSYlhmYjY1cTU1Qm16MVlGWTZ3Y1h5elA5RWttOWdJRWxGbFdLcVhsZUhSa0U1aThPRjFkRzZpeDNYNHhOdEM0TlBWT25QX0c1eEo4WXRV?oc=5",
-      "publishedAt": "2026-11-04T20:34:08+08:00"
-    },
-    {
       "title": "Woman charged with false statement in Cape Verde player rape investigation",
       "source": "NZ Herald",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOeWo0Z2ZkSVFEN1lTRXJGUEg4em1PVGJKM3kwWFdVVzJ2NkRNVm53SEVsb0prZDJ2WnloRHBvb0MzVXhaenFtejhRRW1hVG90NUp2dzZZRDlvWWxUYnhWMkVCT01iTW5HWGpObnNDc0xfRnljM0RXWGNrZHEwNjYzUzJWb3QzVFFjNmQxSVRTRTVOaTdRQmVnVGxiTnh2djhoOGdzTWRJd0laQjN1VEZhNllwb0t0OVVkMGFqN1RIRmk3QXY5S2FLZF9MbTc2QTRDT0V3LVFyeUlWU2tMb3NBLTV1bW10cHBJUzc3bmE5OHZfRHlkUFVIdVg4Ung?oc=5",
       "publishedAt": "2026-11-04T19:33:51+08:00"
-    },
-    {
-      "title": "Woman charged with making false statement over Cape Verde football team sexual assault claim",
-      "source": "Stuff",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORFFZR0dGNlB2NDJ3V2dyX2pmbnVQWXJXNmI2LWVBTDN0dTJUS0NwVlZicXU1bUJoZjdoMHVfanNRN1ZJYWdqWGNUd2tVUXlsbkdRU1VOSmNCb1ZPNmpsN3FXT0dST0lzLTdhYmxpOGRsTFRCSHU1Ujk4X0VXNUE5OHc4NldEVkxBUzY2WVBObzJnZi1jUnYxQVRxZThBTnBNWFgyQ0pnQ2l2SmpwQ3U1ZDVYVXpsVXlUeUNSMXdCWDVVYWkwUzQwRA?oc=5",
-      "publishedAt": "2026-11-04T11:17:12+08:00"
     }
   ]
 }

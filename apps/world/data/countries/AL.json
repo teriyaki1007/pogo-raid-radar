@@ -1,11 +1,15 @@
 {
   "iso2": "AL",
   "name": "Albania",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Tirana"
+    },
+    {
+      "label": "Population",
+      "value": "2,349,580 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,15 +30,15 @@
   ],
   "headlines": [
     {
+      "title": "Global Voices condemns the attacks on Albanian fact-checking service Faktoje",
+      "source": "Global Voices",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS3dqakI4T2Z0R0JLZ2dlNHhLYmQwYVcwTGhjMzRRUVdWemxUUXUyaTNMVkMtaThRWFBCb3kwVG00bE5PcU1sd1dPWnRkR01ueXhLalBFbkxRT2dpaVdfOHJRbHk0SV9RMnJvcXpQdmVDUXhQdzYtU2V0cTgzOE9ieHdIMXRSdFdEMGhnZVNhdk5oblBQRVRYS19IbDJGZ0FEeDVQWkg3TUdIXzlSTWpqV1pSYw?oc=5",
+      "publishedAt": "2026-11-06T09:41:10+08:00"
+    },
+    {
       "title": "Albania's protest movement takes a violent turn",
       "source": "TVP World",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVEl1VDBTTk81b0FleE5JVFpoQ0RWejhtZnNWM2dzVEUtTlpTUkFFOFFmbnUtdmNSRVRqTVFIbEl6MV9zMWZJOVBiRlFhOHF6dTBJLVAzMFJQdUZsZjRWV1VDUHVwVEFNNFlfLV8tSm9tb1dXNEVabldfNHhCNGlkQnpuY1NHYmN0bjZKaHpzMA?oc=5",
-      "publishedAt": "2026-11-06T04:05:00+08:00"
-    },
-    {
-      "title": "\"90% of the salary goes to basic needs\"/ Xhaferri: Albanian economy like Ecuador and Venezuela",
-      "source": "cna.al",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaXdxSVJuOVl3Q1FfNWVZTmhfMEFxbjBPaS05c0RReEJDYkxjQXJmTDBQUnJrdDBuR2NoRjVOdkpISFhJcWJRWE9YNVJELUN3VkNjN3hoSnp4Ui1KbHlXbk14RVlUQWhsVkFSdnlzaXVlUEFULTBnc1R4aWhkV1djZGs5WTFqaHRGb1B3eDVCN05xdzB2dFZRUHJfVjhQVTZpSGVmM095UjExSTdZWWl3UUhXYlFzUQ?oc=5",
       "publishedAt": "2026-11-06T04:05:00+08:00"
     },
     {
@@ -44,16 +48,16 @@
       "publishedAt": "2026-11-06T03:08:32+08:00"
     },
     {
-      "title": "Meeting for the 8th International Conference/ Bank of Italy supports Albania in the modernization of payments",
-      "source": "cna.al",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXowRVBuUTNjVktGRG9xSm5yUGhiUWIzYnBBaTZobjNIZ2JfS0p5WmpNM2dTM2VyVU1kVkhoTkhXYWZMZFhUeGU2Y1ZlT1ZYTGF3T1FoYTEyOURHZS1PVnE5bDllZVlzeVRMUGExOVBzWFM5WHNTNDg5ODNYcHJNMWxyYXNHai1GN1JfdGFpanptU1FYT3hyeEJVX2hQY0N4SmlUZVlGSFgxYmVhUXpERHVrVWU4dw?oc=5",
-      "publishedAt": "2026-11-06T01:21:00+08:00"
-    },
-    {
       "title": "Albanian PM claims Iran 'fueled' mass protests against Kushner luxury resort",
       "source": "thecradle.co",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUVhnLUNhRl9ZSW54R2JPZnVTMEJnYkRKWEt4QjJjM0JKTFVtNjFrcE5nU1ljLXhXYUxOX1M1TzVLZEJVV2ZkaGo3b3h4RTFvVnhFbUE3cmxPTDJPeVJpWi1DcW5OQTd6LUoxMjZKZE9Sc0RyMm5vQzB6RDhycHM3QmFrQS1MZ1c2SFhVTGtFWEpTV1ZIbHUzdWpPRHdXWHNrMXE1OXhuVQ?oc=5",
-      "publishedAt": "2026-11-06T01:00:04+08:00"
+      "publishedAt": "2026-11-06T01:09:28+08:00"
+    },
+    {
+      "title": "Progress report for Albania/ Alimehmeti: Undermined healthcare, how many EU countries see us as a value?",
+      "source": "cna.al",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXBZeGNySTBjQVNTSDJ4amM0amI0Wlhrd2VIN2RiSVVtMU1YNWZqNTc0NTh3cVZfMVFFWXZ4cTRJNnVRdGFieGdSVURCelQ3WFV5NlpEWEtqTnl2RDc5SWVJUDhhd0lNLW85a01CVi00MU5BLThLbkVMaEM5Q2ZJc2JxZDFlZ0tpanMydFBScEVBeUREdk50M2I4eE45bElxVmkwcjhyQmdEZTduTG9XOVV2Z2RRUQ?oc=5",
+      "publishedAt": "2026-11-05T22:26:00+08:00"
     },
     {
       "title": "Fines, Blacklists, and Protest Limits: Students Challenge PM Rama’s Crackdown in Albania’s Constitutional Court",

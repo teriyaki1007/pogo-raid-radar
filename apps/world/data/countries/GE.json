@@ -1,11 +1,15 @@
 {
   "iso2": "GE",
   "name": "Georgia",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Tbilisi"
+    },
+    {
+      "label": "Population",
+      "value": "3,935,766 (2025, World Bank)"
     },
     {
       "label": "Region",

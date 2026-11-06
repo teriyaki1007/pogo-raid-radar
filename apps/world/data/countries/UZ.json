@@ -1,11 +1,15 @@
 {
   "iso2": "UZ",
   "name": "Uzbekistan",
-  "updatedAt": "2026-11-06T05:04:22+08:00",
+  "updatedAt": "2026-11-06T11:12:19+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Tashkent"
+    },
+    {
+      "label": "Population",
+      "value": "37,053,428 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,16 @@
   ],
   "headlines": [
     {
-      "title": "Silk Road Cities in Uzbekistan Merge Trade, Faith, Learning",
+      "title": "LX wins contract to provide technical assistance for building Uzbekistan’s National Address Register",
+      "source": "파이낸셜뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1DSW5WbTlwNDU2NXpBdEdIdUFtdExoZnZzZkJZaGlZZGhrMFFldHYxQ09SQWxldWhxN1JqMkxCREJXREJXQkUzR2Q2djRjVWQ0X2pUdEotelg?oc=5",
+      "publishedAt": "2026-11-06T10:04:21+08:00"
+    },
+    {
+      "title": "Uzbekistan's Silk Road Cities Merge Commerce and Culture",
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWjlsSzR2ei12anA1UC1HNzFiaU1WazRMNkhsQ242dF9nOHR3WERjLXUwY0hQOGtGSWVmWXNGX05WQmYxSG5pMERUb3BVX1dpZUtIR3Q5UEhIV0MtaDFxblNuZENDNVV6bC1vZGFZZFM0SjQ3MVUtSmJxYUk1eFYyQ2RUb2E?oc=5",
-      "publishedAt": "2026-11-06T05:03:27+08:00"
+      "publishedAt": "2026-11-06T09:04:51+08:00"
     },
     {
       "title": "Uzbekistan’s External Debt Climbs to $88 Billion",
@@ -56,22 +66,16 @@
       "publishedAt": "2026-11-06T03:13:07+08:00"
     },
     {
+      "title": "Uzbekistan slams general visa ban on Nigerian passport holders",
+      "source": "Peoples Gazette Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUFlTYWswLTVBNGwyZC1ac2hHRldfeHJucHZMcjRjOHNQWktGNEs0QVJpaTRWb1ZsNmhVOGZIVVpwd2ZMU2JPV0ZmWXhZOXZEMTFMdmNqTGNpUVRkMktGLWxLcWhhUDZNbGRyYzBrSU1LdUNtazFMQTAzMVk1enNjM1dqTW03cjRSdEI1MXo2NA?oc=5",
+      "publishedAt": "2026-11-06T03:09:11+08:00"
+    },
+    {
       "title": "Uzbekistan’s Public External Debt Surpasses Kazakhstan’s — World Bank Data",
       "source": "UzDaily.uz",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYnI5VXFkSWd3MWx2X2JPeXBabndlZ2RFclFYbk5pdGFqdFhWYmluUTIwVHhmSU5nLW5aaFVuWU93YmtKdDlwZjJXX1paWDM4VGVOeERkWmNfLURma1BFc0lIOGpUbzJZcGFESmVBWF9QbXFWdGVOSzFVT1JqcURmZUZhWUMtY0NOcXAzcUVjYmRQemN5Mzl4VjhMbFNUQQ?oc=5",
       "publishedAt": "2026-11-06T02:10:00+08:00"
-    },
-    {
-      "title": "Uzbekistan named a top 2027 destination for its history, architecture, and travel ease.",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU3kzWEpxUmFiZ244OG92VFdtMDhwMC1PbE1LeUtEenJ5SGlFbUpnWXlFeEowSTZmMHVxcnZlUVcyWnBoTFFHOXkwZjZCeE1TNm1xd21nSmJGdkM0eVNHWlJDMWtMNFQ5cVJ0V1VQWWFJLUhpUkhZdW5RY1JvVURVREFqbWJ1ZFNJclVacGMyWjRoR2Uwa3c?oc=5",
-      "publishedAt": "2026-11-06T02:01:33+08:00"
-    },
-    {
-      "title": "Uzbekistan’s External Debt Rises 24.7% to US$88 Billion in 2025",
-      "source": "UzDaily.uz",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTRUT3VRdHZzZ2xZZG1ZVUVBTm5Hcm8yUnhpSnNBWjM1cm9sbkxwanpJZmUtRGtaNkZCMVhhdUM3Q3I5cjhpQ09kWk5KOU01ZEUweXNFYmE5enN6UkpwRWpWQ0tJNHh4eHBQYXRKVG1CQVZqb1JHOU9uOTh4LVpYTFh2d0taOUdOeFdNY3VWWQ?oc=5",
-      "publishedAt": "2026-11-06T02:00:00+08:00"
     }
   ]
 }
