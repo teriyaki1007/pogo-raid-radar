@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-06",
-    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG /parts/__data.json usage (2026-11-06 refresh; beywatch dataUpdatedAt 2026-11-05T20:10:36.697Z; lastDate 2026-11-02; scope 3708/10825/34886 (0/0/0 vs 2026-11-05; MD5 1c18a9bebe0d3ac37f5d2f9acdf23045; prior MD5 eb40311fc678f042f828a2e9ad99d1d9; direct curl HTTP 200); part stats identical vs Nov 5 — no tier/rank/usage moves; no new catalog parts — BX-54 Sieg Superion / CX-20 Customization Set C still 2026-11-21 (TT); CX-00 ValkyrieVolt gunmetal BXG-65 ~2026-11-05 recolor only — not added; BW stubs sieg-superion / valor-bison / suppress-superion / luster-dragoon 0-sample-or-? / M-65 / Metal Taper / Force — not added)",
+    "updated": "2026-11-07",
+    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG /parts/__data.json usage (2026-11-07 refresh; beywatch dataUpdatedAt 2026-11-05T20:10:36.697Z; lastDate 2026-11-02; scope 3708/10825/34886 (0/0/0 vs 2026-11-06; MD5 1c18a9bebe0d3ac37f5d2f9acdf23045; prior MD5 1c18a9bebe0d3ac37f5d2f9acdf23045; byte-identical vs Nov 6; direct curl HTTP 200); part stats identical vs Nov 6 — no tier/rank/usage moves; no new catalog parts — BX-54 Sieg Superion / CX-20 Customization Set C still 2026-11-21 (TT); CX-00 ValkyrieVolt gunmetal BXG-65 ~2026-11-05 recolor only — not added; BW stubs sieg-superion / valor-bison / suppress-superion / luster-dragoon 0-sample-or-? / M-65 / Metal Taper / Force — not added)",
     "currency": "HKD",
     "priceDisclaimer": "All HKD values are estimates (sealed retail anchors, MSRP-derived, or unknown ranges). Never treat as verified live listings. Meta shifts.",
     "viabilityNote": "Tiers mapped from BEYWATCH.GG: beywatch X→S, S→A, A→B, B→C, C→D, sparse/?→Unranked. usagePct = BEYWATCH pickRate × 100.",
@@ -41,10 +41,10 @@
       "Ball",
       "Low Orb"
     ],
-    "updatedAt": "2026-11-06",
-    "metaAsOf": "2026-11-06",
+    "updatedAt": "2026-11-07",
+    "metaAsOf": "2026-11-07",
     "usageSource": "BEYWATCH.GG /parts/__data.json pickRate",
-    "usageScope": "3708 tournaments / 10825 top-three / 34886 combo slots; lastDate 2026-11-02 (0/0/0 vs 2026-11-05; dataUpdatedAt 2026-11-05T20:10:36.697Z; MD5 1c18a9bebe0d3ac37f5d2f9acdf23045; part stats identical)",
+    "usageScope": "3708 tournaments / 10825 top-three / 34886 combo slots; lastDate 2026-11-02 (0/0/0 vs 2026-11-06; dataUpdatedAt 2026-11-05T20:10:36.697Z; MD5 1c18a9bebe0d3ac37f5d2f9acdf23045; byte-identical vs Nov 6; part stats identical)",
     "topLockChips": [
       "Valkyrie",
       "Unicorn",

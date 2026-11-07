@@ -6,5 +6,5 @@ subtitle: Combo builder + X parts reference (HK pricing)
 copy to: apps/beyblade/ (sibling of /raid/, /homework/, etc.)
 include img/: yes — copy entire folder including img/ (WebP part thumbnails)
 note: Pokemon Go Helper / Pages deploy must sync img/ or cards fall back to initials placeholders
-cache: ?v=20261106meta on css/js/json
-last refresh: 2026-11-06 HKT (beywatch dataUpdatedAt 2026-11-05T20:10:36.697Z advanced timestamp/MD5 only; part stats identical vs Nov 5; no tier/usage/rank moves; HK: no material price/stock moves vs 2026-11-05; BX-54/CX-20 still 2026-11-21)
+cache: ?v=20261107meta on css/js/json
+last refresh: 2026-11-07 HKT (beywatch dataUpdatedAt 2026-11-05T20:10:36.697Z byte-identical vs Nov 6; no tier/usage/rank moves; HK: Battleground BX-54 HK$148缺貨→HK$168有貨, CX-20 HK$698缺貨→HK$728有貨; BX-54/CX-20 still 2026-11-21)
