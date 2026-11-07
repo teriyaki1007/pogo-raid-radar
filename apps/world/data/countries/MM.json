@@ -1,7 +1,7 @@
 {
   "iso2": "MM",
   "name": "Myanmar",
-  "updatedAt": "2026-11-07T17:11:42+08:00",
+  "updatedAt": "2026-11-07T23:11:10+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,34 +30,40 @@
   ],
   "headlines": [
     {
-      "title": "Myanmar Traditional Festival : Pwe Zay held in Yangon from November 6 to 8",
+      "title": "China-ASEAN Esports Competition : Myanmar defeats China 2-0 to secure grand final spot",
       "source": "Myanmar International TV",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTHhsa0x4am52ajJ3VFdUdnNjVm9vM0FFY2kwQWVqY2dqekhRa3lWbmZkbTJVYW16aS10S1pmRWRpeFFiWkxpb29BTHUwRXdZY1NiUGNDM2tKTEZQTlk3aXlMVV9RNnBZcXBuc1ZsSFhtQk9oaFNIRkFadkxIMXVsQ09YUUoxdUZHUzBvVTNTTWZ2dXQ5QzR1Xw?oc=5",
-      "publishedAt": "2026-11-07T16:51:17+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTTVzeDZsTzZlZ2dKMzZLSWl0ZHlfblNpcTdBbkJNVEQtclY2THZHUjFZcEF4UWhUUHVXRmJBWHJrQVJxY2d0Qm5tbWdlalVrMXUwXzUyZW1uWkxGT1VWVlJKWGxSQWhkaFpOUlNBNEthUVNmMnZmMjRQZm0ybEYtUXJQQ05nM014OFRUWHBuZzRXbW1OZXdpLU8yZnFDQ1hmZkxzRm01OEZUbVJHQS1zTU1UOA?oc=5",
+      "publishedAt": "2026-11-07T18:46:27+08:00"
     },
     {
-      "title": "Committee Meeting : Development of Myanmar Special Economic Zones",
+      "title": "Driver held with 300 sacks of urea fertilizer destined for Myanmar",
+      "source": "Bangladesh Sangbad Sangstha (BSS)",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9SQVkySHdvNHZHUmFxN2FyM0NBM0NqLUd1YTJ3TDYwNEstRDRrQjhTSWtINFlDWV9KdUVSTjNwMkkyX0NGVVN1UlhIUkZVUEhY?oc=5",
+      "publishedAt": "2026-11-07T18:40:46+08:00"
+    },
+    {
+      "title": "International Conference : 18th Myanmar Radiology Conference in Yangon",
       "source": "Myanmar International TV",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTV9VOExIdTZkYWY1WjZpTlQ1alRPeDVYU2J0WGF3cnhtMnBWNUs3dHpBZS1Eb0NMTnBYcktzbHpoVDNCMkh6ZkU5Z2E4WU9wQ191NEVwUTNTNWRsM3RjYjM1Umo3NDE3RU82Y1JoT2lSRzZXLUMzRzFqVUhfQUxCODA2ZDFwS2lxMTFBTE1EZnNERjFLVDBV?oc=5",
-      "publishedAt": "2026-11-07T16:41:15+08:00"
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUU1pNWlabHNwaVgtQ21SOHdVclJsZksteUxOSUQtRlY5Z0dvSmhxUnZld3kxUzF6RU1pYkVaYVctQ2Y0R1FkTzlDMDRqUjd5ZG5KS29LVnJhMWt5eFJRREQwc3Q5VGFZSDJMUEVUNm0tZnVFZHlaUEtjUFVZVkxra1c1ZVlGLS1rOENRTFBsMl9HaHRwdmpHS2NwWmhUZw?oc=5",
+      "publishedAt": "2026-11-07T17:35:22+08:00"
+    },
+    {
+      "title": "Myanmar Regime Plans April Vote in 55 Constituencies Despite Continued Clashes",
+      "source": "The Irrawaddy",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaTRENW4wc3Y4LV84U2oteDM2UlBVZXM3WGtrM0FBRXFROWhoTE5pSTIycmFFWUpKQlpwM0pBdXdEZTJMbVJnS3FPTmYzNjJsclNRNkpQQnNsdEYwTVByR3U5MmdRV09Pck1qUWRnR1h0ODZtV3UzcnNoM0I4VkdUY3RnQ0ppdGc3QmNuQVVDamN3ZHF1MXV1eS1BNzdmWXNtOC16UmhPSEJTNXAwNXJmdDQ3QnlVMFRRQjh2eFp0YXQ?oc=5",
+      "publishedAt": "2026-11-07T16:40:35+08:00"
     },
     {
       "title": "India, Myanmar conduct maiden tri-services exercise ‘Rahat Mitra’",
       "source": "Manorama Yearbook",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS3p6NTgwVlFGRW5NOFFhR20zY1IxZjJSUUFWR1hzX1RQSHZJb0FfcWlidElJbjFVcHpsa210ZjR5TkM5SGVXNUhoeTg3RkcwdlJteG1LcTNGdmJFN3V0cXh4RTRIOVdyT3JyNmxLbDN6R1dxV054Vnp6amQ3SUNGVGlPQXZOX1VjZ0Vpc2l3TlprZVlPQUNVdkR0b2tYMlY4cl9sMEVIZE4wTDVNcXlEY3ZfdG00NnY4?oc=5",
-      "publishedAt": "2026-11-07T15:04:31+08:00"
+      "publishedAt": "2026-11-07T15:04:06+08:00"
     },
     {
       "title": "Indian, Myanmar, and Sri Lankan Navies Conclude the Inaugural BIMSTEC Maritime Security Exercise in Andaman Islands",
       "source": "Defence.in",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRHhTY2loLTAwNDFfc2t5WUhyZHdrM29DUFJjbzFwUTRDZ2o3TXRSazF2WEhtSFNjOTBNbzJDZTNiZ2ZzNTNfMVBKLUZXbzlicU5wVUhuREc4QTlTek9GbEdJd0F6RmV1SmNab0ZpSGFRZ1AtcmFRTGtMS05fOTF2ejA3cWFBN3JLSmJBN01CZUQ3aXNFUndVMnZJeW1JSXFydlRVS2JDR1A5NE1wNDJUZUEyVFdhSnRvZF9FMWdnZkFVZVo5WnJzbl9zWjNIYUwwWFVMT3hYeFBLNmlsUl8zRA?oc=5",
       "publishedAt": "2026-11-07T14:27:45+08:00"
-    },
-    {
-      "title": "President Murmu Receives Credentials From Myanmar Ambassador",
-      "source": "Sarkaritel.com",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kaVdkbnNpYWNaRjY2eVJfVUdsdWotcm10bzZfMXBlSXFBTi1Zb0w5c0x3Qk1rdXJzVkNqaWRUSi1PdkFiTTVfeTZhT2VfNHpHbFc3OWpMOE1sMzh1SHBEWTE3OVRFQVBZXy1YQk1tMGx4R095dFFwYmhLSVAtN0k?oc=5",
-      "publishedAt": "2026-11-07T13:54:08+08:00"
     },
     {
       "title": "Musk also shuts down Starlink in Myanmar",
@@ -70,12 +76,6 @@
       "source": "Travel Trade Journal",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZHR3YWk4Ymg3alRkRmNXWmVwMDQ1eVVCbEV3ZTNGTXdFdVVZbmpaTkUwdTZFNTFhQXIwcVdQc3F5VEZkTG9vMXFOUTJYVEo0WmtUalhobjhza3VWQm9QTWM2X2FIdDFyTWVHaXhBTUtPM2NBRHlqZGtadlVIZEJaN0FBT2w5d2E2Z3lQTjJKNHlNRUlzRUt5X3AtRmZPcXJNYTByd0tB?oc=5",
       "publishedAt": "2026-11-07T12:40:00+08:00"
-    },
-    {
-      "title": "Mirik man saved from Myanmar ‘scam centre’, hospitalised with multiple injuries",
-      "source": "Telegraph India",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ1BwQ0ROVWFJc0pzUlN2cm4tX25tWGNHRnJ5bTlxOEJSNTVFWXltSGIyTDlCeVhOZWIwc3piZjRzcFlUeGU1YmNHOE53S212WVJTekt6UUhFdTNhM2c3NTd6aGJuYVluRFEwS0EyWGFGNy0xd2ptZlJiQmNPWGpYOXZBOHNxcUFVa2xsbkdhS1lyNlVZam9ScFFKUWkzTjJISHV5eUNpdzZRZWdIbEs4WlFwUUFQQWV6UE1rZy1xLXphUkh2UHhIWmtKM2JKRWk0Q3fSAdcBQVVfeXFMTTBHTnBQazRwNmZIU3JKTzZqTVBKSHJMaVlTNnVQakZFR0lFeEFwNHMwYmRfbVJpSmNqaW5TTVlyLWs0aktvdW9jWjd4NDU3cVBWODNhSEFuMVM5RmtZVEtDMlFoOFY5S3lRY1JWMEd4T3RYNE82M09nNzhFbEhFbC1SVkNGeXhXSGtxZXZsQ2Z5WjJOTnR4aTd1ajdWMVNweGNKbzk1N3dQNFo4T0FPeGVfczV2dnhXS0N4aFhrWHZrVTVDVXoxOF8yRkRycWswaW5SWFJxODA?oc=5",
-      "publishedAt": "2026-11-07T12:37:50+08:00"
     }
   ]
 }

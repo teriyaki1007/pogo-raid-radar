@@ -1,7 +1,7 @@
 {
   "iso2": "TR",
   "name": "Türkiye",
-  "updatedAt": "2026-11-07T17:11:42+08:00",
+  "updatedAt": "2026-11-07T23:11:10+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Should Türkiye be concerned after the U.S. midterms?",
+      "source": "Türkiye Today",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWlVlQjQ3eUU4TEFtUFBHSU56bnFxMFRiYWtMdS1qby1mUXU2UjUxbzRKUmdMQjhza3J2bk1pRFdfaGFLY1VqV1lacjh2VXdHXy16bHlUNVdmNmlKaGU5ZjRjUkhJbFM1Q3phZ3FJS29SNHZ3cFVEUTBLQ3EtazlURlN3bmRQUGJ5enJ0Ym96VURUNklpQWJZaXd3?oc=5",
+      "publishedAt": "2026-11-07T19:00:50+08:00"
+    },
+    {
+      "title": "Türkiye, Bulgaria agree on new border crossing exclusively for trucks",
+      "source": "Hürriyet Daily News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVBBa3hiV0JNV2JZM0dPMkp1VnRwQld5dnZHZXVKVkduOTlQSkk1THI3VmpidElTeHZOWVdFU2ZfYTFBNVRuUnFhdHRBY3BHVFVtc1NjNjRYeVlvVXNKWVhOZ3VXdWg5MFFkb0FTRjNrNjN6REtMVU94SEdGNnhDeDlTQzdsaF93Rmo2UzV5S2lhTm9pa3pnQW5UR0hjbXhwbDcxcE4xOUhocTRScWc?oc=5",
+      "publishedAt": "2026-11-07T11:17:16+08:00"
+    },
+    {
+      "title": "Turkish detainees in Baghdad appeal to Ankara after inmate death",
+      "source": "Rudaw",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tVVdWRllMa2paQ3dfUnlXRm9FRkFZa0lINDMyQUt6WmNsOGFOQzBvVjQ2TnRFUTZmYUpwTEduZnVqbTdvNXdYOERmamxFM0MzQnpzREFURjVaMlBObWc?oc=5",
+      "publishedAt": "2026-11-07T02:43:14+08:00"
+    },
+    {
       "title": "Ankara Disputes Greek NAVTEX as GSI Cable Surveys Set to Resume",
       "source": "POLITIS - To the point",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzlRN2V5RGRBN3JPaGNjTFJCZ2lrUmljbE45dzRPOHE3NkZwVHo4cVJrc0JuTi05ZjZxTW5KRUExYUk0QlZTTDVoZjlYTUlqbDFrYkJLZFQxSW83WFRHNU9VNmNRa0tnSDZXQ2llVlJ6dHoyeXo1RHY2eTFNX29fWlVsTEtCWVhBM3dRRzhOa2x0NV9Lcy1zUkN6TFdpMDhyWTBiQnRRbVB6dw?oc=5",
@@ -40,12 +58,6 @@
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLUNYRGJCUnQySjRaRkRVNTR1RzlZLUppQnhsbTY2bUNyMG1XMFhQcldtNU1GRjRlTkp4WE4tVUFHZDdxOHMyN1M3bVBtSjUyTU5xRjgwX1FKZlhMVkI2N1ZvVGJhblY4dWRqMlNMS0otYU94d3Nfcy0zN1NxaDVlSXVYeFRWQm1uVkZLOGJCZUptcTFuRDNUaS1CU0VGT0toaTFBWW9qTWN0SXFPUVlMTzBENVR4YldiNTVnNkpXQzdIbDNKY0xKa2pQUQ?oc=5",
       "publishedAt": "2026-11-07T01:59:52+08:00"
-    },
-    {
-      "title": "Turkish detainees in Baghdad appeal to Ankara after inmate death",
-      "source": "Rudaw",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5tVVdWRllMa2paQ3dfUnlXRm9FRkFZa0lINDMyQUt6WmNsOGFOQzBvVjQ2TnRFUTZmYUpwTEduZnVqbTdvNXdYOERmamxFM0MzQnpzREFURjVaMlBObWc?oc=5",
-      "publishedAt": "2026-11-07T01:42:26+08:00"
     },
     {
       "title": "The “NAVTEX battle” between Greece & Turkey over the cable to Cyprus has begun, with Ankara making provocative demands",
@@ -64,18 +76,6 @@
       "source": "Philenews",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXJ0MmRlbzVHNEVxcDY2cVF0RS02RzBvX1QwWXozdTNoTWRUd1BrVzVTN3pGdGFBLVRhRHVYSlM0NXplOGtWaTQ4WGFlY3FXdVVWUzk0UGxHTW8yV3BSSl9Ydm1mVDRIVUJ0TC1ESFMxeU1VSjY2RXotY3RoXzNKaVJ6Vk5VRHJvdkhEN3YwSHA1MUtpMjJDNUFCQjN4dklHc0pPZFlyR1NjN1VHOHJuaHFRV2tST2RMdHhnZnFRS1U?oc=5",
       "publishedAt": "2026-11-06T22:11:38+08:00"
-    },
-    {
-      "title": "Erdogan to visit Baku after hijab dispute: what concessions has Ankara made, and what does Baku want?",
-      "source": "JAMnews",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaThDcWJQQk9UN05UdnU0YnBjdkpiaDc3dGpLRWdzbXdzWkRhMVhOSHhmdFRRb1ZOMDJTNTdfQXAwTmFUOFVCN241Tndwb1YyaHhLajJya0NrZFJSUl9kRXBnSVZiVHdBZUgyNDRjRG96NmdJTUcxSGZQZkdjWGE0ZDNmbFJOVUczMFF2UG9lSmdWVFdmejYzMC03VkFac0MxYmdTVzVxM0VWVWZydzYzN1BzYVREM1BfM2NOVA?oc=5",
-      "publishedAt": "2026-11-06T21:19:33+08:00"
-    },
-    {
-      "title": "Türkiye's Fidan signals Mecca defense alliance expansion as Ankara ratifies pact",
-      "source": "Türkiye Today",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS3ZuQndBbmFXeVpTaTBObC12eTFNVGd4dmFqUU94eEJ4R2I3UkxSb2dNNE5yNVJoM2owVkFRZVhMajhpdjNDLUxFNFFjUTNBMjloR1NUWUlBUEMxRzdjYnhWQnYxUUl3eVJjN2g0dXlkb3FQUlBGcDEwTlNUT21JZzhZcWhscmhHWFZraHd3a3ZCYkdQYTNIN3lpSGhjai10cEVYSnVQWnFoZFJQek5XN1o0aWRCc1NRekZycVZxa3M?oc=5",
-      "publishedAt": "2026-11-06T18:26:28+08:00"
     }
   ]
 }

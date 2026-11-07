@@ -1,7 +1,7 @@
 {
   "iso2": "KH",
   "name": "Cambodia",
-  "updatedAt": "2026-11-07T17:11:42+08:00",
+  "updatedAt": "2026-11-07T23:11:10+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "Cambodia revokes 18 Prince-linked casino licences as scam crackdown rolls on",
+      "source": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOHhRNHpwc0VIdWI1N09vY0M3SHpSTW1Ma2xteDRnTUxTeEZHS2ZkMUVuckhYTzlTWXF5cFpnRDRxMy0tLU9sNDJ5aV9nVmZKaGd2R1MzeXdfM3BpRm9lcjJBdkw0ODdNMzNKT0lDYnRhdHJTNGhERF9yTkxvSmktVGU0WTlxZHE4dkxGMFNVbm9WenM3RDJCR2o4Y1Uza1hjRXpsWEpVa0NLamNsRTFBZlI3SC1YbkJ5Rmc?oc=5",
+      "publishedAt": "2026-11-07T20:30:00+08:00"
+    },
+    {
+      "title": "At 51, Angelina Jolie Owns 39 Hectares In Cambodia and Has Helped Transform an Area Affected By Poaching Into a Conservation Area",
+      "source": "Grazia",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOLVlmb3FZNHRreWZmTzYta1hKbk42ampPMVg0Sk5SNjEtTWhld0haZkZmZW5jOTg1Y0JzVlBkNXFZcjA4NWVjR3VlX2RjVHdEekVpVDV0d3ZoYnNVNTRCbi0yZlBJQ3E5TDRsdFZXWXhJaldpQlkzbnptSkdCOGE5MGpKUlpKTmtNZGVQRFVSeUptX0xUZ3h5cnh3MlFTY19FUC11ZldWOXVEaW8tVFFYQjZ4aXBUSlhqYVJwd0otZGFtQjZjMXg0MXVtUTJFVHZsQ2h6ajMwU0xaNmh1OXdteHJxLVI1eC1Ec2VxRE1FbFU4MV9XM2lFT0l5NWk?oc=5",
+      "publishedAt": "2026-11-07T19:59:04+08:00"
+    },
+    {
+      "title": "Cambodia raids 972 scam sites, deports 23,760 foreigners",
+      "source": "The Star",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQclM1UVJJY0hKRFlyaEpqNVY1MXMzZk9ZekZ3YTFEcHlIWEZramluV2FWYVQ5aTdHZkNwd1FyRFlybVJHbmk2aW9nZ1lQcTQ3RFhBbmV3QVU3SXNhY04tRFJEWFhWREFMbU80OVlTOU9UYkZzTDBLNjJ2YkJUTlZSaWNDSXVlV1VZNGZtMThGX1o1WF9PRWpfbnF1SXZNb3BHY1VTbUZKQXhKRW5BelFHN2F6YzFkZkFl?oc=5",
+      "publishedAt": "2026-11-07T19:58:00+08:00"
+    },
+    {
+      "title": "Etihad and Cambodia Tourism Board Sign New Tourism Agreement",
+      "source": "Travel Radar",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZlRQZl9OS0J1cGZnNVpSRjMxYWxKWTlfTkJlaTdPQ1Y4OEk0ZVcxeGNHZVVEb0Y1YlktZWs4QzRKaGtIVkx2RHVIdlZYQ3ctc0JKVFpxN1BjY2ZpMjh3b3BEOUg1R1c0N3Y3NldDMVFlWmFyTXRYVjc0MTNjTEhIWk9SdUhOQXBUQXJ4TDVyNA?oc=5",
+      "publishedAt": "2026-11-07T19:25:33+08:00"
+    },
+    {
+      "title": "Cambodia urges responsible AI use, inclusive innovation in media sector",
+      "source": "Khmer Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYTUwb1IwV1ByaEFENXJORWF1MDlHYU1RelVvNGhvdXpiU0dEMXBSS3NBaUk5NFU3cUkxc3F4WENhYmNVMkJlc3NJSW9aUmxWRXhtZzN5M0Z6TUtYd0ZRMXd3bHlIVEh1LWVvMjhCejRzcVNPR3ZnZFA1RGVETzJOcFhweGZ3eXE2UWM4RTQ1VDRXYmJvVnRMby1kVVJKb3cxaERSRHA4eFBIb09pZ0tN?oc=5",
+      "publishedAt": "2026-11-07T18:36:32+08:00"
+    },
+    {
+      "title": "Cambodia marks 23rd anniversary of Royal Ballet’s UNESCO recognition",
+      "source": "Khmer Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY1hZZVpyUlFGUm81WVNmdVViMHltWFpPVTVkQkxROTE0NGFMc1FwbGxBWDVSS1N6V2ZGNnFBQzRTTnhnMHF5bklEbEQ3cGwzVk1xajY2d0J3UElLYThvQVRxQnM2bHctZDRMdUsyb1J6OWlROGx0MVdsSGtTenRiVjREaHJSS1REZlpFUDVWX2VxY2ZoRU5oVzBfSlMyLXVwM09jWUpBbk1yZmM?oc=5",
+      "publishedAt": "2026-11-07T17:52:47+08:00"
+    },
+    {
       "title": "CTB, Etihad Sign $120,000 Marketing Deal to Raise Cambodia’s Tourism Profile",
       "source": "Kiripost",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWo0bTlxYjJwQzEzS244ek0wSWY2MnpKNk1pYndhVXRDUE1FT1VCX2wzRlgwREpqaC1ranRFWVNLLWxJOWtrek83YnpMSHhNUUpfSnlUbnRJc0FtYW5yNFpVcUFpQndLWThXNTA3ZUxYSkVJY1ZPVGVabWtRODFLdUZyZnZ2ZFAtTWxTaWJkdjhTbXQ4LWdTV2phTkpWRnY3WG1n?oc=5",
@@ -40,42 +76,6 @@
       "source": "Kiripost",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRGNiLXNESHJnMGRQYlhONHFveWpad3VENFNiZUNiYy1pTFlZZzVxTWNiOXItUXhYUFJ2cDJTWDNwQ2dSWi1pSmR5U1ZSM3NQT1pDek1jLXdpYU5GWkZNTWhBeTNFUkZNN2toSGI5WFRXSG1ya3ZaTV93Q2o3bUtueEE3ODdWTGE1U2ZXQ3VYSjJtTTY0UUExNjZhaS1iMmVxTklSbThCU1R1bWI3dWxNMlBSb0dCVkRJYWQ2OHZHajlfaDhzNWVLRGtnLUhyNDU3enV3?oc=5",
       "publishedAt": "2026-11-07T16:21:41+08:00"
-    },
-    {
-      "title": "New U.S. Ambassador Arrives in Cambodia, Eyes Stronger Trade and Security Ties",
-      "source": "Cambodianess",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOUpEWnIwYS12RUI1a1c2TVdFS1Q2OG9YaHBlbUN3cWwwUFlWZDZOb0JwT2FjZFBEekVZLUNzYWpVMDBLOVlPdTlTNXhDQzlfN3Y0dXpHZ0lDMWVWZmNnaXV3RmNuSTg0Q01NOU90YWNZVGk2cG1mSXpfenoyaGt3V1RzQzV4WlpkUGUtZ2lmSmtOZ2tvYVVQNFNxbkZ3c2s3dVl3ZjJtWWpmWFJa?oc=5",
-      "publishedAt": "2026-11-07T16:04:07+08:00"
-    },
-    {
-      "title": "Cambodia revokes 18 Prince-linked casino licences as scam crackdown rolls on",
-      "source": "Phnom Penh Post",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON0V3NFdLalJzeWVzVzdLc1NzOTNOLWRIZ01aRURZaDAwNEFHY3VCanFIMC1LX19RaVNxeXFPdi1rSzVGdTZzb3c3c0hDdmpzTEItejJjVzRXa2JTQ1duY1JqN2lRNmN0XzE1QTNIcHIxaEozQV9GSXJFdGhjN0FyYk9KMjlOYlJpYmNQZmV6NUtlSkFWUjJuMk84OTNncUpQUGtIN3NJNk9hZGdmTGRSeThn?oc=5",
-      "publishedAt": "2026-11-07T15:29:27+08:00"
-    },
-    {
-      "title": "Seventh suspect arrested over Cambodia-based scam syndicate targeting Singaporeans",
-      "source": "The Star",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVy1DQ0ppRWVIcnRUSVhxQ1huUlhNU2hNTTZQOUlJTERLbDBOUmVTLWc4cTdXV0VUcVlQeFQ2NTZmNkFRYUFjMmJZa3dxbG1WOFNuOFNzZFE0WS1HejhNb3huWVhPaWJEZ3VCUUFtbFhBOW9VSS0zUm8xdzhGZWxvUHZqb2N2alo3SVhKM2M0WUtlVjdrSTVJRjNFMDNZbnJJZ3RsZzB3NFNYenh5a1IzWFlZb1ltUnVVeUxhci1RSng4VVJzN2tDZzZKb2l0M0kwMHVNU0E5X004cm9mMXc?oc=5",
-      "publishedAt": "2026-11-07T14:19:00+08:00"
-    },
-    {
-      "title": "Top News Headlines In Cambodia, Indonesia, Philippines, Singapore, Thailand & Vietnam: Nov 7, 2026",
-      "source": "Bernama",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MbVh3Tk5mN3d0enlleDhVTmtqM3lrUHd2N2dTUDRDbnkyek9ValY1M2s5UUJweE5NSXhVTVNFaUxLTGZPT092dEJBWWFXMmY2Z0J3ZXB3R0RxQnlo?oc=5",
-      "publishedAt": "2026-11-07T14:06:42+08:00"
-    },
-    {
-      "title": "Rong Chhun Asks Macron to Press Cambodia to Lift Political Ban",
-      "source": "Cambodianess",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNT00xSDkzWFNRdGw0Y2NHMXFfQXRqSVA2NFZfeTlKUlVWSDY0ZUhnWndKMXdEMDdlYTJCc2JidEFobGZwbDRHUE8wU09HTl9JMmFiVUVweWQwWkl0b2pRcW9Pb1ZENTNfd2QtZTZmS25DZHViZC0zZGpPWHFBbkhmWEpPQ0p2N183OTNhOFRrQTdFTDFyUWpwcVIzRQ?oc=5",
-      "publishedAt": "2026-11-07T12:34:47+08:00"
-    },
-    {
-      "title": "VIDEO: Japan reaffirms commitment to strengthening security ties with Cambodia",
-      "source": "Khmer Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSXBVdU9wazRFODhUUWw1UTVSS3ZLandMVHRhdTBWbnA1UGxHZHJQVTRzYTI5R28zbnJhUXlSdFV3dHRVeE1Bc2lwWDFiUjBibG9MSDhULWxETC1KTzBsdmpUQkgxQkRra3FKS2pnb2d3TVQzeTJDQTczaVUwSDFBYndUcGIyNkhWVGRDbHhMdDVnMHBCTXpEWFFjMnAyR3h2VEg5TUF3RVAtMGFmYkRYRUdtU2NzSzMt?oc=5",
-      "publishedAt": "2026-11-07T11:44:40+08:00"
     }
   ]
 }
