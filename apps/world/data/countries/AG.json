@@ -1,7 +1,7 @@
 {
   "iso2": "AG",
   "name": "Antigua and Barbuda",
-  "updatedAt": "2026-11-07T05:09:50+08:00",
+  "updatedAt": "2026-11-07T11:04:44+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "PM Brown Reaffirms Support For Antigua And Barbuda Becoming A Republic",
+      "source": "Radio Jamaica News Online",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWxlUS10OTFEd092X0JMbEg1bDFOZGJxRXZZa3p2NG9KZTJRX3hkeDJtRkJRZmFTM0hIV1ViMHhUM0EzRWN5YXIyRWFUQi1oUGRzRnN2WFRqNW9fczJPb3g3Ympia3EzM2VmOHZqb0lHOGtMTDlySU5yS0JYZjctQklZekpVZnVoM29mRFQ5b1ktN29DNFdQcXQxVXlmWWZsREREbWdHWmw3SHhLT2Z0Sw?oc=5",
+      "publishedAt": "2026-11-07T09:50:58+08:00"
+    },
+    {
+      "title": "OPINION: Beyond Tradition: What Does the Monarchy Still Offer Antigua and Barbuda?",
+      "source": "Antigua News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjNhSXBvLV96RnVOOWUxRTFJZlFuUWlJUlFFamFOUUFVcFdtR1NweXZqLVhuTWxqbWpGODVwblRpVlNjeW5SbTN0RzhkWWpSUms3ZkRaMkNrYktiS091SjZQeHByc1RpaVRfa2ZZaWtHQVJDd1NPSFRPZ1ctR0hYa04xZDlhb3N5d1pPYnBIZzlCQTd6VE56eGQxZk5JVUdaRzFlZlhLSzRJMTl4bWhaeQ?oc=5",
+      "publishedAt": "2026-11-07T06:21:36+08:00"
+    },
+    {
+      "title": "Antigua and Barbuda Diplomats Gather for Annual Ambassadors’ Meeting Following CHOGM 2026",
+      "source": "Antigua News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRS1rRGwzYzR0cDVFSWJtOTZXRzA0a0dtWjRLSkNfektmQXJnM3o2QVN6ZnVIanhzY1YtZFFqcl83LXVGLV85blJ3TWNseDJyLWpRckxZMXoxVkUyRzlvbVV5cklMWU0wdW5DdTJDWDBsX1dFY2ZjWlFEUHhyTWNFbWpZdFhGOXhNVm9QMGZLUm02aXdNNzFaenI4a3JxZXlpMV9nVVVWakxyTUE3Y3gzYUpEc0VqLXQxN3lmbA?oc=5",
+      "publishedAt": "2026-11-07T05:19:12+08:00"
+    },
+    {
       "title": "Antigua and Barbuda hails 2026 CHOGM as leaders agree on shared Commonwealth priorities",
       "source": "Writeups 24",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZUdxVlY1ZEFHR29KZ045TUY0Yi1YU084MzNsUTBpMmMyRVRsbWxnU3p5aDROMTBYSWIyQ1hkcG82Vm5FdTI4U3FuZlZWSUYwZDVHY2FVQ003S29RMDNiZ0NCMWw0bkMwY1hBZjhXRlBHZ0NRM2ZRMzIwVklDRG5oNDJQQ21iLW5PMG5mOFN6ek95bDJFallDQ0cwN1pjd3FhbDFOTWhCTkhtWkVtUmktcXpMM0g0QQ?oc=5",
@@ -45,7 +63,7 @@
       "title": "Young Commonwealth writers take centre stage during CHOGM 2026 in Antigua and Barbuda",
       "source": "Royal Commonwealth Society",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdGRzYWMzMnJRMHpvTGhUaFFGTDdMdm1SdG9odnpDdUN0M29JVjRSTENXOW8wNGpKNHFkb1F2Tk9vbVdJMFpHTlZHUHJqS1dQSW9ZYWJtU1hPMTRHTXdwU0RvTWVLSkRYOF95aEkwdEhGdHlSODJxQUF1QlhCVzlQa1VjN1VWUXkwYUZoc2N5ME1PREdYUTVnZFpCY3NZRm00T1R5clVZaU9RdTYySExSMGhUSTJyRGFVT1ctOHhn?oc=5",
-      "publishedAt": "2026-11-06T23:12:56+08:00"
+      "publishedAt": "2026-11-06T23:18:58+08:00"
     },
     {
       "title": "53rd Universal Periodic Review of human rights: UK statement on Antigua and Barbuda",
@@ -58,24 +76,6 @@
       "source": "Macau Business",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2dlRE5QeWNNdGU3NEZCVEhfN2xYcUJTZk83NVdMMXlua0dHMFNrWV9tNGVlWnVua1BPTnJDdk9aa1FoQnB2UHNKN0FVQjFWeU9oN3hnQmlnajlBQi1iTVcwVjhEUnF2VWpzQmQ0VmtUcFEzTVNuOHA0cS1GMW1VaDVMdmpMVmNLeFFSUWRZNHo1XzdNN3VnZlZGal94NWNZdGNUXzNsaHVaS2pSelE?oc=5",
       "publishedAt": "2026-11-06T20:45:07+08:00"
-    },
-    {
-      "title": "UK Reviews Human Rights Record in Antigua and Barbuda",
-      "source": "Mirage News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaWY5Vkx3RXVTX3V1VHZOS2VpTTVUWExVdEhvNDIyWUh0dEl2XzUxZkhNbHZ0aFhoMzk4bXNKcG5kX1p4aTh5bk1XVlRqRGlLVE9OQ2p6aWtaUmxIeHZjd1hyZVpHazQ5VGV5R0d6RUg0cnR0b0N4WjBKd0NFUWdGS1ZHSEFHbHk0?oc=5",
-      "publishedAt": "2026-11-06T20:44:00+08:00"
-    },
-    {
-      "title": "PM joins CHOGM 2026 Executive Session in Antigua and Barbuda",
-      "source": "The Morning",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAyYzBac19RamQzQ2xuQXZ1LWRoNkJ6a0dLXzJnenRJdzY1MFUxelFCRnp1ZzY3MGFSU2hYc2h1S0ZLTHpTbDRPdDZ5b3ZPRlBQR2Q1cDMwTjQ3SWNGcnYxRzRzd0k0UQ?oc=5",
-      "publishedAt": "2026-11-06T20:00:02+08:00"
-    },
-    {
-      "title": "Snapshot: English Harbour, Antigua and Barbuda",
-      "source": "Sight Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNERQUldKUnR4c2o0dEVKNmEwcVo0bTBlZWY0UElmbFZRNXowYVdnMnRFaTFkODZYLXVkR2RLM3pETm4yZG4xVEl6bHZFMngwdjJXdldSTldDRGVJVjJHVmRhMXVWNmRkSkZFMnRibXZSc3RLOWUxRVpxdXVDM01sNGh2OWFYbnhnMExz?oc=5",
-      "publishedAt": "2026-11-06T14:02:57+08:00"
     }
   ]
 }
