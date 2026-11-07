@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-11-06",
-    "asOfLabel": "6 Nov 2026 ~11:45 PM HKT",
+    "asOf": "2026-11-07",
+    "asOfLabel": "7 Nov 2026 ~10:25 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Evening 6 Nov: global raid roster UNCHANGED vs morning — LIVE 1★ Duskull / Frillish / Frillish (Female) / Litwick (Leek Duck raid-bosses + ScrapedDuck + GogoRaid + PoGoPit; GO Hub current-bosses page still stale on Halloween costume 1★). Ghosty 3★ Cofagrigus / Trevenant / Dhelmise + Altered Giratina 5★ + Mega Sableye still LIVE → Sun 8 Nov ~10:00 PM. Shadow Tornadus (Incarnate) 5★ weekends first window → Sun 8 Nov 10:00 PM (longer package Mon 16 Nov → Tue 1 Dec); Shadow 1★ Gastly/Totodile/Shieldon/Gible + Shadow 3★ Primeape/Kirlia/Drapion per Leek Duck/ScrapedDuck/GogoRaid (ScrapedDuck/Leek Duck raid-bosses shadow-5★ header still stale on Landorus — keeping Tornadus from event pages). Festival of Lights India-only NOW LIVE since Fri 6 Nov 10:00 AM India local → Sun 8 Nov 8:00 PM — 1★ Pikachu wearing a saree + Pikachu wearing a kurta (shiny / Special Background possible; Snack Nap Live + GO Hub / GameInfo; not a global replacement). Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged.",
-      "endsAtLabel": "Global 1★ Duskull/Frillish/Litwick + ghosty 3★ + Giratina (Altered) + Mega Sableye + Shadow Tornadus first window → Sun 8 Nov ~10:00 PM · Festival of Lights India LIVE → Sun 8 Nov 8:00 PM"
+      "text": "Evening 7 Nov: MEANINGFUL CHANGE — Shadow 1★/3★ rotated. LIVE Shadow 1★ Larvitar / Mudkip / Makuhita / Cranidos + Shadow 3★ Prinplup / Piloswine / Poliwhirl (Snack Nap Updated Nov 7 + GO Hub current Shadow raids + Dexerto Nov 4 + DoctorPokeGoGo Nov 4 update log). Prior Gastly/Totodile/Shieldon/Gible + Primeape/Kirlia/Drapion dropped — Leek Duck raid-bosses / ScrapedDuck / PoGoPit still stale on that old set and still show Landorus on shadow-5★ header (overridden). Unchanged: global 1★ Duskull / Frillish / Frillish (Female) / Litwick + ghosty 3★ Cofagrigus / Trevenant / Dhelmise + Altered Giratina 5★ + Mega Sableye → Sun 8 Nov ~10:00 PM; Shadow Tornadus (Incarnate) 5★ weekends first window → Sun 8 Nov 10:00 PM (longer package Mon 16 Nov → Tue 1 Dec). Festival of Lights India-only still LIVE → Sun 8 Nov 8:00 PM India — 1★ Pikachu wearing a saree + kurta (shiny / Special Background possible). Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged. Skipped Snack Nap Anniversary/Astronaut Pikachu 1★ (museum / prior-event leftovers, not global current).",
+      "endsAtLabel": "Global 1★ Duskull/Frillish/Litwick + ghosty 3★ + Giratina (Altered) + Mega Sableye + Shadow Tornadus first window → Sun 8 Nov ~10:00 PM · Shadow 1★/3★ Larvitar set LIVE · Festival of Lights India LIVE → Sun 8 Nov 8:00 PM"
     },
     "legend": {
       "standard": {
@@ -224,6 +224,14 @@
       {
         "name": "GameInfo — Festival of Lights 2026",
         "url": "https://pokemon.gameinfo.io/en/events/festival-of-lights-2026"
+      },
+      {
+        "name": "Dexerto Shadow Raid schedule November 2026",
+        "url": "https://www.dexerto.com/pokemon/pokemon-go-shadow-raid-schedule-2318983/"
+      },
+      {
+        "name": "DoctorPokeGoGo Raid Guide (Nov 4, 2026 update)",
+        "url": "https://doctorpokegogo.com/en/raid-guide/"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
@@ -958,92 +966,100 @@
       "highlight": true
     },
     {
-      "id": "shadow-gastly",
-      "name": "Shadow Gastly",
+      "id": "shadow-larvitar",
+      "name": "Shadow Larvitar",
       "form": "Shadow",
-      "species": "Gastly",
+      "species": "Larvitar",
       "catchForm": null,
       "tier": "shadow-1",
       "tierLabel": "Shadow 1★",
       "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Continues with Shadow Tornadus rotation / Halloween Part II (GO Hub current + event guides)",
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
       "windowStart": "2026-11-04T06:00:00",
       "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
       "ivFloor": "6/6/6",
-      "cpL20": 702,
-      "cpL25": 878,
+      "cpL20": 594,
+      "cpL25": 743,
       "weather": [
-        "Fog",
-        "Cloudy"
+        "Partly Cloudy",
+        "Sunny"
       ],
       "sprite": {
-        "pokeapiId": 92,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png"
+        "pokeapiId": 246,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png"
       },
-      "notes": "Shadow Gastly — LIVE in Shadow 1★ (GO Hub current Shadow raids + Nintendo Wire / Halloween Part II guides; Leek Duck raid-bosses page still stale). Same lower-tier pool carried from prior Landorus window. Shiny-eligible where marked. Hundo rate 1/1000; IV floor 6/6/6.",
+      "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm246.icon.png",
+      "notes": "Shadow Larvitar — LIVE in Shadow 1★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Rock/Ground — Water/Grass double weakness. Leek Duck/ScrapedDuck/PoGoPit still stale on prior Gastly set + Landorus 5★ header. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 513–594 (642–743 Partly Cloudy/Sunny).",
       "types": [
-        "Ghost",
-        "Poison"
+        "Rock",
+        "Ground"
       ],
       "weakTo": [
-        "Ghost",
-        "Dark",
-        "Psychic",
-        "Ground"
+        "Water 2×",
+        "Grass 2×",
+        "Fighting",
+        "Ground",
+        "Steel",
+        "Ice"
       ],
       "counters": [
         {
-          "name": "Darkrai",
-          "moves": "Snarl / Shadow Ball"
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
         },
         {
-          "name": "Mega Gengar",
-          "moves": "Lick / Shadow Ball"
+          "name": "Mega Greninja",
+          "moves": "Water Shuriken / Hydro Cannon"
         },
         {
-          "name": "Shadow Tyranitar",
-          "moves": "Bite / Brutal Swing"
+          "name": "Mega Sceptile",
+          "moves": "Bullet Seed / Frenzy Plant"
         },
         {
-          "name": "Mewtwo",
-          "moves": "Psycho Cut / Psystrike"
+          "name": "Shadow Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        },
+        {
+          "name": "Kartana",
+          "moves": "Razor Leaf / Leaf Blade"
         }
       ],
-      "countersSource": "type"
+      "countersSource": "GO Hub Larvitar counters (db.pokemongohub.net/pokemon/246/counters)"
     },
     {
-      "id": "shadow-totodile",
-      "name": "Shadow Totodile",
+      "id": "shadow-mudkip",
+      "name": "Shadow Mudkip",
       "form": "Shadow",
-      "species": "Totodile",
+      "species": "Mudkip",
       "catchForm": null,
       "tier": "shadow-1",
       "tierLabel": "Shadow 1★",
       "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Continues with Shadow Tornadus rotation / Halloween Part II (GO Hub current + event guides)",
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
       "windowStart": "2026-11-04T06:00:00",
       "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
       "ivFloor": "6/6/6",
-      "cpL20": 646,
-      "cpL25": 808,
+      "cpL20": 644,
+      "cpL25": 805,
       "weather": [
         "Rainy"
       ],
       "sprite": {
-        "pokeapiId": 158,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/158.png"
+        "pokeapiId": 258,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png"
       },
-      "notes": "Shadow Totodile — LIVE in Shadow 1★ (GO Hub current Shadow raids + Nintendo Wire / Halloween Part II guides; Leek Duck raid-bosses page still stale). Same lower-tier pool carried from prior Landorus window. Shiny-eligible where marked. Hundo rate 1/1000; IV floor 6/6/6.",
+      "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm258.icon.png",
+      "notes": "Shadow Mudkip — LIVE in Shadow 1★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Water — Electric/Grass weak. Leek Duck/ScrapedDuck/PoGoPit still stale on prior Totodile set. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 560–644 (700–805 Rainy).",
       "types": [
         "Water"
       ],
@@ -1053,176 +1069,57 @@
       ],
       "counters": [
         {
-          "name": "Zekrom",
-          "moves": "Charge Beam / Fusion Bolt"
+          "name": "Shadow Thundurus (Therian)",
+          "moves": "Volt Switch / Wildbolt Storm"
         },
         {
-          "name": "Shadow Raikou",
-          "moves": "Thunder Shock / Wild Charge"
-        },
-        {
-          "name": "Xurkitree",
-          "moves": "Thunder Shock / Discharge"
-        },
-        {
-          "name": "Kartana",
-          "moves": "Razor Leaf / Leaf Blade"
+          "name": "Mega Raichu Y",
+          "moves": "Thunder Shock / Zap Cannon"
         },
         {
           "name": "Mega Sceptile",
-          "moves": "Bullet Seed / Frenzy Plant"
+          "moves": "Fury Cutter / Frenzy Plant"
+        },
+        {
+          "name": "Regieleki",
+          "moves": "Lock-On / Thunder Cage"
+        },
+        {
+          "name": "Mega Manectric",
+          "moves": "Thunder Fang / Discharge"
         }
       ],
-      "countersSource": "type"
+      "countersSource": "GO Hub Mudkip counters (db.pokemongohub.net/pokemon/258/counters)"
     },
     {
-      "id": "shadow-shieldon",
-      "name": "Shadow Shieldon",
+      "id": "shadow-makuhita",
+      "name": "Shadow Makuhita",
       "form": "Shadow",
-      "species": "Shieldon",
+      "species": "Makuhita",
       "catchForm": null,
       "tier": "shadow-1",
       "tierLabel": "Shadow 1★",
       "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Continues with Shadow Tornadus rotation / Halloween Part II (GO Hub current + event guides)",
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
       "windowStart": "2026-11-04T06:00:00",
       "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
       "ivFloor": "6/6/6",
-      "cpL20": 509,
-      "cpL25": 636,
-      "weather": [
-        "Partly Cloudy",
-        "Snow"
-      ],
-      "sprite": {
-        "pokeapiId": 410,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png"
-      },
-      "notes": "Shadow Shieldon — LIVE in Shadow 1★ (GO Hub current Shadow raids + Nintendo Wire / Halloween Part II guides; Leek Duck raid-bosses page still stale). Same lower-tier pool carried from prior Landorus window. Shiny-eligible where marked. Hundo rate 1/1000; IV floor 6/6/6.",
-      "types": [
-        "Rock",
-        "Steel"
-      ],
-      "weakTo": [
-        "Fighting 2×",
-        "Ground 2×",
-        "Water"
-      ],
-      "counters": [
-        {
-          "name": "Primal Groudon",
-          "moves": "Mud Shot / Precipice Blades"
-        },
-        {
-          "name": "Mega Lucario",
-          "moves": "Force Palm / Aura Sphere"
-        },
-        {
-          "name": "Terrakion",
-          "moves": "Double Kick / Sacred Sword"
-        },
-        {
-          "name": "Excadrill",
-          "moves": "Mud-Slap / Scorching Sands"
-        },
-        {
-          "name": "Shadow Conkeldurr",
-          "moves": "Counter / Dynamic Punch"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "shadow-gible",
-      "name": "Shadow Gible",
-      "form": "Shadow",
-      "species": "Gible",
-      "catchForm": null,
-      "tier": "shadow-1",
-      "tierLabel": "Shadow 1★",
-      "category": "current",
-      "isShadow": true,
-      "isMega": false,
-      "window": "Continues with Shadow Tornadus rotation / Halloween Part II (GO Hub current + event guides)",
-      "windowStart": "2026-11-04T06:00:00",
-      "windowEnd": "2026-11-08T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 635,
-      "cpL25": 794,
-      "weather": [
-        "Windy",
-        "Sunny"
-      ],
-      "sprite": {
-        "pokeapiId": 443,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png"
-      },
-      "notes": "Shadow Gible — LIVE in Shadow 1★ (GO Hub current Shadow raids + Nintendo Wire / Halloween Part II guides; Leek Duck raid-bosses page still stale). Same lower-tier pool carried from prior Landorus window. Shiny-eligible where marked. Hundo rate 1/1000; IV floor 6/6/6.",
-      "types": [
-        "Dragon",
-        "Ground"
-      ],
-      "weakTo": [
-        "Ice 2×",
-        "Dragon",
-        "Fairy"
-      ],
-      "counters": [
-        {
-          "name": "Shadow Mamoswine",
-          "moves": "Powder Snow / Avalanche"
-        },
-        {
-          "name": "Shadow Weavile",
-          "moves": "Ice Shard / Avalanche"
-        },
-        {
-          "name": "Galarian Darmanitan",
-          "moves": "Ice Fang / Avalanche"
-        },
-        {
-          "name": "Glaceon",
-          "moves": "Frost Breath / Avalanche"
-        }
-      ],
-      "countersSource": "type"
-    },
-    {
-      "id": "shadow-primeape",
-      "name": "Shadow Primeape",
-      "form": "Shadow",
-      "species": "Primeape",
-      "catchForm": null,
-      "tier": "shadow-3",
-      "tierLabel": "Shadow 3★",
-      "category": "current",
-      "isShadow": true,
-      "isMega": false,
-      "window": "Continues with Shadow Tornadus rotation / Halloween Part II (GO Hub current + event guides)",
-      "windowStart": "2026-11-04T06:00:00",
-      "windowEnd": "2026-11-08T22:00:00",
-      "shiny": true,
-      "shinyRate": "not published",
-      "hundoRate": "1/1000",
-      "ivFloor": "6/6/6",
-      "cpL20": 1307,
-      "cpL25": 1634,
+      "cpL20": 467,
+      "cpL25": 583,
       "weather": [
         "Cloudy"
       ],
       "sprite": {
-        "pokeapiId": 57,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png"
+        "pokeapiId": 296,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png"
       },
-      "notes": "Shadow Primeape — LIVE in Shadow 3★ (GO Hub current Shadow raids + Nintendo Wire / Halloween Part II guides; Leek Duck raid-bosses page still stale). Same lower-tier pool carried from prior Landorus window. Shiny-eligible where marked. Hundo rate 1/1000; IV floor 6/6/6.",
+      "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm296.icon.png",
+      "notes": "Shadow Makuhita — LIVE in Shadow 1★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Fighting — Flying/Psychic/Fairy weak. Easy solo. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 391–467 (489–583 Cloudy).",
       "types": [
         "Fighting"
       ],
@@ -1237,12 +1134,12 @@
           "moves": "Psycho Cut / Psystrike"
         },
         {
-          "name": "Mega Alakazam",
-          "moves": "Psycho Cut / Psychic"
-        },
-        {
           "name": "Mega Rayquaza",
           "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Mega Alakazam",
+          "moves": "Psycho Cut / Psychic"
         },
         {
           "name": "Shadow Moltres",
@@ -1253,125 +1150,267 @@
           "moves": "Charm / Dazzling Gleam"
         }
       ],
-      "countersSource": "type"
+      "countersSource": "type meta (Fighting weaknesses)"
     },
     {
-      "id": "shadow-kirlia",
-      "name": "Shadow Kirlia",
+      "id": "shadow-cranidos",
+      "name": "Shadow Cranidos",
       "form": "Shadow",
-      "species": "Kirlia",
+      "species": "Cranidos",
       "catchForm": null,
-      "tier": "shadow-3",
-      "tierLabel": "Shadow 3★",
+      "tier": "shadow-1",
+      "tierLabel": "Shadow 1★",
       "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Continues with Shadow Tornadus rotation / Halloween Part II (GO Hub current + event guides)",
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
       "windowStart": "2026-11-04T06:00:00",
       "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
       "ivFloor": "6/6/6",
-      "cpL20": 552,
-      "cpL25": 690,
+      "cpL20": 1040,
+      "cpL25": 1300,
       "weather": [
-        "Windy",
-        "Cloudy"
+        "Partly Cloudy"
       ],
       "sprite": {
-        "pokeapiId": 281,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/281.png"
+        "pokeapiId": 408,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png"
       },
-      "notes": "Shadow Kirlia — LIVE in Shadow 3★ (GO Hub current Shadow raids + Nintendo Wire / Halloween Part II guides; Leek Duck raid-bosses page still stale). Same lower-tier pool carried from prior Landorus window. Shiny-eligible where marked. Hundo rate 1/1000; IV floor 6/6/6.",
+      "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm408.icon.png",
+      "notes": "Shadow Cranidos — LIVE in Shadow 1★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Rock — Water/Grass/Fighting/Ground/Steel weak. Higher CP than other Shadow 1★. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 922–1040 (1153–1300 Partly Cloudy).",
       "types": [
-        "Psychic",
-        "Fairy"
+        "Rock"
       ],
       "weakTo": [
-        "Ghost",
-        "Poison",
+        "Water",
+        "Grass",
+        "Fighting",
+        "Ground",
         "Steel"
       ],
       "counters": [
         {
-          "name": "Shadow Metagross",
-          "moves": "Bullet Punch / Meteor Mash"
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
         },
         {
-          "name": "Mega Gengar",
-          "moves": "Lick / Shadow Ball"
+          "name": "Mega Swampert",
+          "moves": "Water Gun / Hydro Cannon"
         },
         {
-          "name": "Excadrill",
-          "moves": "Metal Claw / Iron Head"
+          "name": "Mega Sceptile",
+          "moves": "Bullet Seed / Frenzy Plant"
         },
         {
-          "name": "Chandelure",
-          "moves": "Hex / Shadow Ball"
+          "name": "Kartana",
+          "moves": "Razor Leaf / Leaf Blade"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
         }
       ],
-      "countersSource": "type"
+      "countersSource": "type meta (Rock weaknesses)"
     },
     {
-      "id": "shadow-drapion",
-      "name": "Shadow Drapion",
+      "id": "shadow-prinplup",
+      "name": "Shadow Prinplup",
       "form": "Shadow",
-      "species": "Drapion",
+      "species": "Prinplup",
       "catchForm": null,
       "tier": "shadow-3",
       "tierLabel": "Shadow 3★",
       "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Continues with Shadow Tornadus rotation / Halloween Part II (GO Hub current + event guides)",
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
       "windowStart": "2026-11-04T06:00:00",
       "windowEnd": "2026-11-08T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
       "ivFloor": "6/6/6",
-      "cpL20": 1401,
-      "cpL25": 1752,
+      "cpL20": 972,
+      "cpL25": 1215,
       "weather": [
-        "Cloudy",
-        "Fog"
+        "Rainy"
       ],
       "sprite": {
-        "pokeapiId": 452,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png"
+        "pokeapiId": 394,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png"
       },
-      "notes": "Shadow Drapion — LIVE in Shadow 3★ (GO Hub current Shadow raids + Nintendo Wire / Halloween Part II guides; Leek Duck raid-bosses page still stale). Same lower-tier pool carried from prior Landorus window. Shiny-eligible where marked. Hundo rate 1/1000; IV floor 6/6/6.",
+      "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm394.icon.png",
+      "notes": "Shadow Prinplup — LIVE in Shadow 3★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Water — Electric/Grass weak. CP max 972 / 1215 Rainy (Dexerto + GO Hub Prinplup guide; Snack Nap 868–972 / 1086–1215). GO Hub current page weather figure 1515 looks stale/typo — using 1215. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6.",
       "types": [
-        "Poison",
-        "Dark"
+        "Water"
       ],
       "weakTo": [
-        "Ground"
+        "Electric",
+        "Grass"
       ],
       "counters": [
         {
-          "name": "Primal Groudon",
-          "moves": "Mud Shot / Precipice Blades"
+          "name": "Mega Sceptile",
+          "moves": "Bullet Seed / Frenzy Plant"
         },
         {
-          "name": "Therian Landorus",
-          "moves": "Mud Shot / Sandsear Storm"
+          "name": "Kartana",
+          "moves": "Razor Leaf / Leaf Blade"
         },
         {
-          "name": "Excadrill",
-          "moves": "Mud-Slap / Scorching Sands"
+          "name": "Zekrom",
+          "moves": "Charge Beam / Fusion Bolt"
         },
         {
-          "name": "Shadow Rhyperior",
-          "moves": "Mud-Slap / Earthquake"
+          "name": "Shadow Raikou",
+          "moves": "Thunder Shock / Wild Charge"
         },
         {
-          "name": "Garchomp",
-          "moves": "Mud Shot / Earth Power"
+          "name": "Xurkitree",
+          "moves": "Thunder Shock / Discharge"
+        },
+        {
+          "name": "Mega Manectric",
+          "moves": "Thunder Fang / Wild Charge"
         }
       ],
-      "countersSource": "type"
+      "countersSource": "GO Hub Prinplup raid counters guide"
+    },
+    {
+      "id": "shadow-piloswine",
+      "name": "Shadow Piloswine",
+      "form": "Shadow",
+      "species": "Piloswine",
+      "catchForm": null,
+      "tier": "shadow-3",
+      "tierLabel": "Shadow 3★",
+      "category": "current",
+      "isShadow": true,
+      "isMega": false,
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
+      "windowStart": "2026-11-04T06:00:00",
+      "windowEnd": "2026-11-08T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/1000",
+      "ivFloor": "6/6/6",
+      "cpL20": 1340,
+      "cpL25": 1675,
+      "weather": [
+        "Snow",
+        "Sunny"
+      ],
+      "sprite": {
+        "pokeapiId": 221,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png"
+      },
+      "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm221.icon.png",
+      "notes": "Shadow Piloswine — LIVE in Shadow 3★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Ice/Ground — Fighting/Steel/Fire/Water/Grass weak. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 1217–1340 (1521–1675 Snow/Sunny).",
+      "types": [
+        "Ice",
+        "Ground"
+      ],
+      "weakTo": [
+        "Fighting",
+        "Steel",
+        "Fire",
+        "Water",
+        "Grass"
+      ],
+      "counters": [
+        {
+          "name": "Mega Mewtwo X",
+          "moves": "Counter / Dynamic Punch"
+        },
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Crowned Sword Zacian",
+          "moves": "Metal Claw / Behemoth Blade"
+        },
+        {
+          "name": "Dusk Mane Necrozma",
+          "moves": "Metal Claw / Sunsteel Strike"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Fire Spin / Aura Sphere"
+        },
+        {
+          "name": "Primal Kyogre",
+          "moves": "Waterfall / Origin Pulse"
+        }
+      ],
+      "countersSource": "GO Hub Shadow Piloswine counters (db.pokemongohub.net/pokemon/221-Shadow/counters)"
+    },
+    {
+      "id": "shadow-poliwhirl",
+      "name": "Shadow Poliwhirl",
+      "form": "Shadow",
+      "species": "Poliwhirl",
+      "catchForm": null,
+      "tier": "shadow-3",
+      "tierLabel": "Shadow 3★",
+      "category": "current",
+      "isShadow": true,
+      "isMega": false,
+      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
+      "windowStart": "2026-11-04T06:00:00",
+      "windowEnd": "2026-11-08T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/1000",
+      "ivFloor": "6/6/6",
+      "cpL20": 811,
+      "cpL25": 1013,
+      "weather": [
+        "Rainy"
+      ],
+      "sprite": {
+        "pokeapiId": 61,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png"
+      },
+      "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm61.icon.png",
+      "notes": "Shadow Poliwhirl — LIVE in Shadow 3★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Water — Electric/Grass weak. Easy duo/solo for prepared teams. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 716–811 (895–1013 Rainy).",
+      "types": [
+        "Water"
+      ],
+      "weakTo": [
+        "Electric",
+        "Grass"
+      ],
+      "counters": [
+        {
+          "name": "Mega Raichu Y",
+          "moves": "Thunder Shock / Zap Cannon"
+        },
+        {
+          "name": "Mega Manectric",
+          "moves": "Thunder Fang / Discharge"
+        },
+        {
+          "name": "Mega Sceptile",
+          "moves": "Bullet Seed / Frenzy Plant"
+        },
+        {
+          "name": "Kartana",
+          "moves": "Razor Leaf / Leaf Blade"
+        },
+        {
+          "name": "Shadow Raikou",
+          "moves": "Thunder Shock / Wild Charge"
+        },
+        {
+          "name": "Zekrom",
+          "moves": "Charge Beam / Fusion Bolt"
+        }
+      ],
+      "countersSource": "type meta (Water weaknesses) + GO Hub ranking cues"
     },
     {
       "id": "shadow-tornadus-incarnate-nov4",
@@ -1400,7 +1439,7 @@
         "pokeapiId": 641,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png"
       },
-      "notes": "LIVE since Wed 4 Nov 6:00 AM local — first Shadow 5★ weekend window through Sun 8 Nov 10:00 PM (Leek Duck). Longer package resumes Mon 16 Nov → Tue 1 Dec. Pure Flying (not Ground/Flying). Hundo CP 1911 (2389 Windy); catch range 1762–1911 / 2203–2389 Windy (GO Hub). Local-only; Purified Gems needed when enraged. Recommend 4–6+ trainers. Shadow 1★/3★ continue per GO Hub current list + Halloween Part II guides (same species as prior Landorus window).",
+      "notes": "LIVE since Wed 4 Nov 6:00 AM local — first Shadow 5★ weekend window through Sun 8 Nov 10:00 PM (Leek Duck event page). Longer package resumes Mon 16 Nov → Tue 1 Dec. Pure Flying. Hundo CP 1911 (2389 Windy); catch range 1762–1911 / 2203–2389 Windy (Snack Nap / Dexerto). Local-only; Purified Gems needed when enraged. Recommend 4–6+ trainers. Shadow 1★/3★ rotated with this package to Larvitar/Mudkip/Makuhita/Cranidos + Prinplup/Piloswine/Poliwhirl (Snack Nap Updated Nov 7 + GO Hub current + Dexerto / DoctorPokeGoGo Nov 4; Leek Duck/ScrapedDuck/PoGoPit still stale on prior Gastly set + Landorus 5★ header).",
       "types": [
         "Flying"
       ],
