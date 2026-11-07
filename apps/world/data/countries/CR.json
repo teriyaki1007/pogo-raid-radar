@@ -1,7 +1,7 @@
 {
   "iso2": "CR",
   "name": "Costa Rica",
-  "updatedAt": "2026-11-07T23:11:10+08:00",
+  "updatedAt": "2026-11-08T05:08:16+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "A Costa Rican Beach Resort with a World-Class Coffee Program",
+      "source": "Bon Appétit: Recipes, Cooking, Entertaining, Restaurants | Bon Appétit",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ3JuLTliUS05OVAtWFJnSGxHTzZtMENEYmtNYXBleUhtRWFsd3NnbW43LWFYN0otcmh0dlMtcXdLQmhqVW9JSHFlRVFnLW9PcTJ1ZUc4czg4eWRvUXU0US0yVG94NWJqV2NZNU9RTUg1cVhuT2RYYTFNdnphdnYycE5kZjdhWVZ0NHg2S1dyM050U2RQUW5MMQ?oc=5",
+      "publishedAt": "2026-11-08T03:00:00+08:00"
+    },
+    {
+      "title": "Red Tide Spreads in Costa Rica’s Gulf of Nicoya and Cooking Won’t Make Shellfish Safe",
+      "source": "The Tico Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYWNqdktuN1FHSUJvUUI2QnFvRVphY2xhWExwdkhrcHhaLW1aRXppMHl2UEJySkw2MVNNMm80di1vSkVIano4TmgydEdEV1dqc1J4V2dMR0xlOWphQW54cXc4WVRrYUVSUnZxaGZSeTJGcHJRa3NOUnNNZGxXVWlTd3AtYXROa0RO?oc=5",
+      "publishedAt": "2026-11-08T01:01:00+08:00"
+    },
+    {
+      "title": "Costa Rica’s Grynspan Wins 12 of 15 Votes in Eighth UN Secretary-General Poll",
+      "source": "The Tico Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUFp0ZjNMMTdRbEJDMG9JOTYyS2UtcDRlQVcxTlpmQzJqLUhwQ2Z0SmRFLWFfenBEd2twM3dmWUZWTXlPNy1tXzhZWS15bFllb2NaYjV2V0xaYjlRRkRvQk5LT2VCalZudk9pa0t6a2c1bUU1cG96TWxPb1NwSUN0ZDNmSVRtczVy?oc=5",
+      "publishedAt": "2026-11-07T23:01:00+08:00"
+    },
+    {
       "title": "Costa Rica native came to U.S. at age 22; joined military; flew medevac in Vietnam; retired after 20 years’ service",
       "source": "The Killeen Daily Herald",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSnZadjQ2Sl9KbHlKQUVQSkx0X1h3bF9LMmluWjVhaTkwQXlmNVJjakJYUmRCWldRaWtPSEtBY3ota1Q5X05jcExWX3EzVGpOZ3YtbkhhOWpROUxkQ1JLakFTVno2bnI3aEFJTGptUFQ2UDQtZ05xeDVxVmRYd0xFMWQtOXNPeGQyZUJXbEZsRlRQZWdxS01LQWV0XzBYNTg2dk1Ob25wYWJDM1NMamxHekJtWnR1NVAtWllkRzBGOXBPMVBpMFVtLUpKX0ZpUEpQMlUwZjZEWFdqek5CUGlXc2I0X1V1V3JUbUg3ZU42bw?oc=5",
@@ -42,40 +60,22 @@
       "publishedAt": "2026-11-07T22:32:03+08:00"
     },
     {
+      "title": "ServiceNow's Headcount Puzzle: Costa Rica Reports, a Securities Probe, and the 18.5% Contract Hurdle",
+      "source": "ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxON0NqNTE2UWpuUEJ0TTVnZG9tOHRGdm9IMGlDMGItOWpRTDJTNlh5R29IcU1ya2xfWUxuUzl1Y19iRlBVRG9HcjVNLUFxRkF2NklSQzI5UWlodldoRlZzN1BoOEV6eDhjaGhZa1ozODREZzU4Z3g2NU5KR3pEb2l0Zy1XQXJuWTB0eUprSnhXUXZtWTV5cF9tRVJVRHJvaHM3OXdHT1dNc25LMjdjdzhJeWYtSGxvdnV6NHJfYlVsREJLUTB2dFA0V2tWbnBDVTZTU3hiYXlmTTV6NFoxazNkdU5NcFFWSExTZzBIVjRveWlmbGxMci04UWFWWm4?oc=5",
+      "publishedAt": "2026-11-07T22:32:03+08:00"
+    },
+    {
+      "title": "Software Is Replacing the Card Terminal in Costa Rica, Says Ivaylo Bozoukov",
+      "source": "Business Model Analyst",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQkFPWGlOMUNoalJDZGZ3VWtQTkFxQWtJeG9wQkJjZE11elNTcVpjeE5UOXJpbFJQTkd6TWt2UnZVZTdNcmhfVzBQQTlaUlVra1BwNTlNSDMyT09pOXN4TFVtalRsY2RTbjUtVHdpM1RtWDlCQVlNTWlCVjV4TjM2MDNUVmE1QTBXZjFudHQyVXJYSE45NDFyeHFESjk5TjRzR3ZiS1VlLTRqT2cy?oc=5",
+      "publishedAt": "2026-11-07T22:26:48+08:00"
+    },
+    {
       "title": "This Underrated Virginia Bakery Is Serving Costa Rican Specialties",
       "source": "Southern Living",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNkJWMUdBNi1fcFZQb0MzaDVDUENGWksxcjdSdkc5NC10SF9pXzBfRFVKMGZTWXdKb2ZEMmQtQ0pSeDAwemhsM2U2VFVJdUtwYUlyUUxQT0dldlJLQjlfa2gwamlod0FHSXdtZ0I4cjFjSnotZ2hvREdVQjh5R0tLVGd2X3RJRXQyZHY0WlByVkE3YlpNVHFrRFhaT3FlNlE?oc=5",
       "publishedAt": "2026-11-07T21:45:00+08:00"
-    },
-    {
-      "title": "Five Costa Rica Regions on Yellow Alert as Saturday Rain Hits Soaked Ground",
-      "source": "The Tico Times",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUWtfUFNmeHlyVkRPcWctSVFObDc3VHpWenJfY3JOcDNVRmdqc0xqQUplTUdJLS12TGNDM2tNZ0hzeTh2NWRBeExDeVNvLUZxck9rTFRhTk5aak5aRGtVaV92dDRuY280QTd1b3R5UlhUZHdHSFFsdU5jOW5xRFIybm9JVUM3NFpzYlpj?oc=5",
-      "publishedAt": "2026-11-07T20:43:58+08:00"
-    },
-    {
-      "title": "ED raids at 2 Bengaluru crypto platforms reveal Costa Rica shell entity, overseas trades worth crores",
-      "source": "ThePrint",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVmdma0dtdEw5N0YyRTRRMkZkd2daSG9PaVlfWDlScGs5R0dUV3ZHQlRlZHVtVzBET21YTXlBem9LVjR5NXhBVngtTDY4X0pmc25QSzVHOFhfY1NHeVlROGdEclNiUDhXSVlyU21ld2tQWDBtMEE5cW5yUndNWVpOZTkwRHRMSjFfVXRqaUx5UG1XOHo0TGs1eDVpanJlS1pFS2YwOHdwUUxnbWRTWTFzTEJaTTZwZ1NtMmtiamh3UUZCQ0w5SzVRWGVqQmhhMG1B0gHWAUFVX3lxTE1RY09pUDgzVVRReWpXSUV0aEY0a3dIN0FtUlR2TEdhQzVrUXdqWTBPVC1MclJJQ0tYZlhFWm9kZTRMMDJtc01Da1B3aVNPN21LTUxqYk52eFEyWTEybWFUVVZpRmpxaGo0MzlYUTJyQ25CZ0pRUTlYbFQ2ZUMyeXZTVTVKSmNKbmVvUk5hZ0U0ODcza21hUlE3dlNYcnhVTzJicVd1b09Nbzc4dEtqcGoyUlgycXBLR2xlZ0FHSWN1QjZORlJoZ1d2T2RFc3lDazJsTFlndEE?oc=5",
-      "publishedAt": "2026-11-07T18:22:45+08:00"
-    },
-    {
-      "title": "The adventure of a lifetime: How Ciara Mageean embraced every day in Costa Rica",
-      "source": "BreakingNews.ie",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1g2TGp0WU0ta1BjVTY0dVVOZUsweHpEQW4zQnhqWmFfbkRiU0tsaDJzLXdBa1NKWGw5b0NWNS1XaGxUbTZtUTdCa2ZzYjAxdmNvMXZoTGpPWUlIelk5VkpVMWV1eDNQX2J5MWNuOEpHdVBvS0VfWkd5NzR0dEZua3pMT3pYTGRPUWJYS25OYUZfYzR3c2k3QzFrZnQ0N3VfeWdOdlZacGZtOXdORnc?oc=5",
-      "publishedAt": "2026-11-07T10:17:36+08:00"
-    },
-    {
-      "title": "Costa Rica Removes Don Pepe Figueres Monument After Protest Vandalism",
-      "source": "The Tico Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWGFDbjRlaWd0SE44dmZheW93a0hXajhJWl9iOExHVE5ZN0tFaTZqRDR4ZDVhTEhlRkFWb0otaDY4b2NVQ29kSTczTlBEeTFXWjRJRUZVajFEa2xUMDVlRjVBTks1UE5qcFpLT3Z5WlhvZ0MyVEo4N1BDR1JqZ2hhY1NpWEM5bzRW?oc=5",
-      "publishedAt": "2026-11-07T09:34:00+08:00"
-    },
-    {
-      "title": "Ecuador vs. Costa Rica (14 Nov, 2026) Live Score",
-      "source": "ESPN Philippines",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xTzY1OGtNcW5mSmxkcFAtdUI5czQzeGYtX3lyNTZVbld6a3FaS3A5VjdKOGw1OXRWckFtcFVXUjZiZEljRFE0cjBDUkhoendITXNZajZrcGFXSnhRcnVTSHp1WmxRbFBoM2hMNm84Y0JTTjZKWHV1eUdBU0Y?oc=5",
-      "publishedAt": "2026-11-07T06:04:35+08:00"
     }
   ]
 }

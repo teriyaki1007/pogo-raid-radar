@@ -1,7 +1,7 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-11-07T23:11:10+08:00",
+  "updatedAt": "2026-11-08T05:08:16+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Bomb threats made days before Dublin hosts key EU meeting",
+      "source": "The Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1N3UkhQcHpQeHozMjB6ZnUwRHJTVTVCaEZReWJ6ZXJPaHpkbndWdTNWbFBFLVN4TGZNZUl6SHh3ZEZuY0VSRjBqNjAwM0VnVm1TQ09HYXp4cXV3a183UjR4UHJYQ0h6M2pxTk1FUmZsLTNxanhaUlN6RGhaSUhpRXNSWTc1SkhveUpua3RYY2xvX3hEX3VaeUl3eHh2QUZnNTlxY3RpZ3g5UUtOMXJQMW45MzNUOEg2cVZj?oc=5",
+      "publishedAt": "2026-11-08T03:00:00+08:00"
+    },
+    {
+      "title": "Dublin protest hears calls for moratorium on new data centres",
+      "source": "RTE.ie",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04VDVpdDhXQjRFdjdxMjAzOUF6Z3E2aW9rb1AxZXNzY3dZdC1CenVMMEFUNTlDVXp2Yk5feDg4TlE1Z2tpT1B6RFo4SUZpTm1HcVVSeFIyeUxpcEVZOUxGYl81bHExVkRERm1iS3ZrNkhWYWU4dmE1SzN3?oc=5",
+      "publishedAt": "2026-11-08T01:52:01+08:00"
+    },
+    {
+      "title": "Dublin Data Centre Protest: 21% of Irish Power [2026]",
+      "source": "tech-insider.org",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWUYtd0h5a1B0YkhYQllOZUtFN0NXRTNGTzZsQUF2bC1jZG54MU9VT1Qwekd5QlN1cmNhWUFIYlJOd3FqLWloOG9wNmhvdTVlbk1MNGtKZmNrWVBjWGl0WWtKLXJ1RG1KY0hiTDF3eFpIUTRUM2E5TVlQdm9OWVVGUk84YWp6THM?oc=5",
+      "publishedAt": "2026-11-08T01:16:04+08:00"
+    },
+    {
+      "title": "Thousands march through Dublin's streets in protest against data centres",
+      "source": "Dublin Live",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNU3VvZmYtX3NqR3FjYmZJSUY3ZHRCaDZrOVFKa2QweGxiYnp2N1pyOWMwcG8yamJMeEZrWkkxYVZJR2c3Ry1fQ01hVFkwY0N1Z1VsMVQtUWk3ck5qT0xjMVhLc1F3NnpnTFQxVUR3aWhqSlJUNlZwRzA3MmhuZzRBZjUwYXFrWnd1U0YzOGlyb1kwZTBEVlHSAZsBQVVfeXFMTy1IdTlNa0lRWlFqbVlPeUFHM3FuaGlEQVBNQnlUOWpfODBIQnUzTmxnNEFVclpjTDdQUGgwUnh1bUZxMjVscnJySktYdG1DSGV4RHhhTURUa1F2LXg3eE1OVXFJbjNTVF8yUkJlcndiYTFSU1FPeWxFSXJBVm14Qmp5Y0xKMVc2eXZkaDBLV1BMVmZvX0pfN1g0S2c?oc=5",
+      "publishedAt": "2026-11-08T00:54:08+08:00"
+    },
+    {
+      "title": "Full list of Ireland bank holidays 2027 as six move dates",
+      "source": "Dublin Live",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORUoyR3dIc0xWbmJqRWwzUG0zZ3p6Ynp6aUJ1RU5Mcjh6OThlSTFpR3pFYzROV3NvT1dDUlRicUR4MUc4VjlYQ3kzLUJHTjU0TGdyLVpuX0hURU43aVRCdmpIaUJJbThtWjBKLWVTOGFQQU51bUJPc1l3dVp2WUxhamNIaWVaT3RwRzBB0gGQAUFVX3lxTE44N2hOQ3NkNkZ1SkpQVV9ORnpuem9DelVMTURHcEdRT2RKUUF6WmgzMWZ3T0tNdUQ3OGk5Vlh6ZUhIS1Jnd3dHeldmWVJSYW4yRzJWU3Mzc2hnVlh3ZlNSOFdLVi1FbUM4MFNXUXV3OU83WGNGZHYtREI3ak1kb2pRS0hqZWlVZ0R1NHJudGhZOQ?oc=5",
+      "publishedAt": "2026-11-08T00:19:19+08:00"
+    },
+    {
       "title": "Estonian Philharmonic Chamber Choir, NSO Ireland, Kaljuste, NCH Dublin review - minimalism brings maximum listening pleasure",
       "source": "The Arts Desk",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZUtBal9xcmI0UUROMWdqb3VQcnFXZS0yVWY5eFhXNUlIWFdQT1JuemhlT0VrY19tenNxSlFweGwzRmJaRG9LLWZlYkNxeWozbkRQRE5HMlJoWWlvZjhKZFlLR2FRZFFkbUVGNFEtWElTVjAzTlVPcFlNSzI0UGItUVVSa0sxLU5YSUdWMWxKV2Y0ZlZUbUV6ODV3Qm9aZi1GMFhrN0NSMXZ5eGFnUkN1SlBZSy1yNFI4WkFOek1IRGhvT01HZ045R1ZRZzU?oc=5",
       "publishedAt": "2026-11-07T22:42:21+08:00"
-    },
-    {
-      "title": "'Feeling very grateful' Westlife end UK and Ireland tour on a historic note",
-      "source": "EVOKE",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTndhejZpZjJaR1ItSUx5bm9XX3JlbmxFSmFSVnZGM1FpOXAyQUxzVkE5X3JWdmo4cGE5a1VjN2pUaTNCSVZJTzhmR0Z5eFROTjctdGNzM1FINjRGSlJDTkM1bWtqbVNmV2VXbWMyT3BiSVJGMlI0STd3ODVSVmZtaw?oc=5",
-      "publishedAt": "2026-11-07T22:35:08+08:00"
     },
     {
       "title": "Thousands gather in Dublin for Ireland’s first national protest against data centres",
@@ -52,30 +76,6 @@
       "source": "Irish Mirror",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHF1d0MtSU5WTjFnUkxMckVadjI5UzJ5QTRQejJTUlFBR0NWc0RYSjlMSmRBbTQ1ZWJnbFlialhFckFXbko5TURyY0hQQTRJNVE2VXNvSTdsVEN3aFdMMzhoVURaMzVfMnpwNnp0TzdJaU5RX214QVVhSGc4VXZaYWtfaFhVSFoxWU9F0gGQAUFVX3lxTE80amhsYlFZM3kwVk5pNlN5d0VaUmM1ZHNXNGZ1aW1oejRPNHVxTnFBbFR4QTB2WFZRWEhSa29MZ2dpSHEtYXdNQnhKNkducGNEUENGTWFneTlsREEyRWtLT3lPN05WSE9tMk4wSmxjaGFvVTR1SEY3NlRqV1BuRDVzU2pxeHVTU2tEdWp2TVlJRA?oc=5",
       "publishedAt": "2026-11-07T22:10:35+08:00"
-    },
-    {
-      "title": "Met Éireann issues 14-hour Status Yellow warning for Dublin and 24 other counties",
-      "source": "Dublin Live",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOREliekFISnVaSmprZVZWbVR5ejI2STUtQjdKbGktY01aVHFRY3JEM3RBeXhNUWJiWnR2R3F4T2ZFZ29RZkY4X2x3T1RQbEFlNnhXT2RSWGZkQWVqNlVneDJaUllRU08xSzJucTh0VDZqQWZzeXFaRGNCVGF0VkhnV1BBRkTSAYoBQVVfeXFMTkg5Y3RJS0plYTN1c0pieWxacUdaeWRZTnRwYnBLdkVSRzd0RG1Qa3hsMUFJNWsxLUxTWGJpZUl1c09KSUVCUVJIbXhycWdkXzM5dU1tajhzUHlRNUpxUEdnWXp6NmlVSjhJdk1wNG1jTGt4X0ZvYzd5Y3FFTS1yVjRUakUwVXNHUk5R?oc=5",
-      "publishedAt": "2026-11-07T22:07:16+08:00"
-    },
-    {
-      "title": "Thousands attend Dublin protest against data centres",
-      "source": "RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04VDVpdDhXQjRFdjdxMjAzOUF6Z3E2aW9rb1AxZXNzY3dZdC1CenVMMEFUNTlDVXp2Yk5feDg4TlE1Z2tpT1B6RFo4SUZpTm1HcVVSeFIyeUxpcEVZOUxGYl81bHExVkRERm1iS3ZrNkhWYWU4dmE1SzN3?oc=5",
-      "publishedAt": "2026-11-07T21:29:12+08:00"
-    },
-    {
-      "title": "'The Trump Regime Is Over': Rosie O'Donnell Weighs Leaving Ireland Following Midterm Elections",
-      "source": "inkl",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ3JIVElCbF9hT3U3a3lZRWRDR0VEWjRkM2MwV05KWElUcDhHOFJOc3l5dGVJbVRyUVRxWWk4MDZ5U05tZFljRzRiMkFjc2d2U05TalNZekYzelN3aElkeFhvM3dXdTBqWU96VWxsZ05kMnBJNzMyLUNCUzFHTkNmYmRMWmdLb2pfSnlLeGVFc3RDZlhNblZWemdmRXhPQVVsbG9LNDFObXNpcmhMZjlNSmhBMHhfMms?oc=5",
-      "publishedAt": "2026-11-07T21:29:03+08:00"
-    },
-    {
-      "title": "Kildare Residents To Join Dublin Protest Against Data Centre Developments Today",
-      "source": "Kfm Radio",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPd2d5a3JxZDZZUVRHeTJLZmdVbWJScW52Z1JTMHRQdnVVM2JyY0toRlVtWlNhMS02S2lXbFFLWHIzNkVpaEJfaVNqakliVjEwY28zU180UzhUT0NEMVZ0YzhNcWIwaTFBbFBzWVVvb0Z0dEJXUTMzRjJGZS1HZER0YlIyNTZtb2tic1VlVW1PcjJ6b2xrSmVpWjh0MmhkUkZVMHBMUWQ3STV3V2xob0lqZjVlcW91WEc4cEhxNA?oc=5",
-      "publishedAt": "2026-11-07T19:39:14+08:00"
     }
   ]
 }

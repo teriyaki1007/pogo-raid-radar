@@ -1,7 +1,7 @@
 {
   "iso2": "NO",
   "name": "Norway",
-  "updatedAt": "2026-11-07T23:11:10+08:00",
+  "updatedAt": "2026-11-08T05:08:16+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -29,6 +29,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Norway's Six F-16 Jets Still Not Delivered to Ukraine",
+      "source": "Военное дело",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOFQ4SDJMVVFpaXFESzBKMTRzVURKWGw5c0N6WGtCUmFzc0g4TVpnOVdDQnVzNzF6Zk9SNmNlUEVpZXB3V3hVQkk0V0NqZGl3SDd4Q015ZTRESzhPNUd3dm9vY2F2clpuWTdDVmRrd1dqWVBsZkpNcERNcXVWNkVRdjVOTWpRM01ER3VxSDFfTTdTTkZmNDJtc25B?oc=5",
+      "publishedAt": "2026-11-08T01:02:01+08:00"
+    },
     {
       "title": "Norway Gives 500M Kroner Through World Bank for Ukrainian Public Services",
       "source": "Kyiv Post",
@@ -70,12 +76,6 @@
       "source": "Arctic Today",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQc0xveUNhYjEyR0JGQTFVQkNUZ2xVNjNzUDZEY2xPRkgySEJLYWp6ZTVqQURBVlVTaDV6eG5RYkIzeENQbTByeFZKTEE0eGJQRVprbk9aVzlFYjRyRHlRM2oxOEt0Qk9WZnZJdWdFQVdXSkV5dDl6VmJGT21jYUp1aHZXemlDZnpjMHRQcVFhY01ENDR5MHhUMG4xMVo5bTdFUk5MVDIybEtzM3ZIbFluYVI1SGtrQlIxSXpDTVlHS0xsaWgtU0E?oc=5",
       "publishedAt": "2026-11-07T16:04:26+08:00"
-    },
-    {
-      "title": "Eviny and Zephyr get go-ahead to study wind power projects in western Norway",
-      "source": "EnergyWatch",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ybEVIeVI1WGZ5TTBuUUZzVlFDdkZhRE5FQjdxczh6OEhGRjliRElkZm1uSzZfUE9kbm95QTdrb0NJeEdac1pXbm4zYjJBLWx4VFUtdXNPTC1Yb0szY0p3WnFUc0IxZi1GMFplejcxOG9wR2M?oc=5",
-      "publishedAt": "2026-11-07T14:45:00+08:00"
     }
   ]
 }

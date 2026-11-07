@@ -1,7 +1,7 @@
 {
   "iso2": "CO",
   "name": "Colombia",
-  "updatedAt": "2026-11-07T23:11:10+08:00",
+  "updatedAt": "2026-11-08T05:08:16+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Drone Attack in Colombia Kills 3 Soldiers and Wounds 8",
+      "source": "ColombiaOne.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9BLURPaFlLdWhFd05rcUp4WmJnYzlULWswT2RHMVVxZnJRekpBRi1kWEF2Wi1zYXI0bG5Bel9Ob1J2VzRjM1JjYklCb19IaXFsMV8ybDlLdzlzck05WFVxWHFEMDVvdDNFMFdWLXJRSzNQbnZsb0oyVTMwb1A?oc=5",
+      "publishedAt": "2026-11-08T04:01:00+08:00"
+    },
+    {
+      "title": "Armed men kill three women in a house in Toro, Colombia — The Rio Times",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaXIyYV9Kb2pXaTE5SVViX05iMjl3UEpzalE5bmlDVXk5a2QtaFMtbmxROWNEZzJMS1ZCTXAzdDFadlJiU2pTNFJKZk0ycHd4RWpsYnpFd09MRWdTU3dEMFk0aDAwY1NRY0hDeUFnNWY5aHRyUUNudXEybm51emZuU1U1U3FscDZCajlaYzRfblhmLUhXWVFPU182QklZVVJlU0ZGOVRmVTdNMFhTbHFwZndGVXA?oc=5",
+      "publishedAt": "2026-11-08T03:21:01+08:00"
+    },
+    {
+      "title": "Botanists Discover Three Distinctive New Columnea Plant Species in Western Colombia",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOamdSdnllbDRCb3gzaWRrMEJ6SG5ZSDRLanVyN2RPVXZhTTdnMVVPZWlkM05haVhncVBhTnpzLWZtLWFzOXBnMlVOYWNTWFN4Q01HSl9aemJmQms1ZFpoUU1hUDhmNUt3bkxySmNUWXhwU2hCajNrMmE2SDV3R2ZTMVVaVE14cVVVWnRMekpSTy1Eb0JTUjJ4WHBOT0d3QTVjR0tSc1pqcEgtbDlV?oc=5",
+      "publishedAt": "2026-11-07T23:48:44+08:00"
+    },
+    {
       "title": "Abelardo de la Espriella’s First 90 Days: How Is Colombia Changing?",
       "source": "ColombiaOne.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZlFhMnZBWW11N1llUFpmR2tlV1NfM2FmVDY2bVc2S01NWkdjV0FFR2V2VU9YRk5QaFphQ1czWE1SWk9GeHRDMnFobDdOdUZCVFZtTXNxakhqc2o2Sm04Sm0tWkNsSW9IV1YxVnNmNDRSekpFWU5JUVJRZWs2RWlROHNsSVE0dExoMTFJb3RFSDViOHpTWW9HRXNuYmtjNUhDSmc?oc=5",
@@ -48,34 +66,16 @@
       "publishedAt": "2026-11-07T16:18:49+08:00"
     },
     {
-      "title": "Mexican Judge Accused of Accepting a $2 Million Bribe Arrested in Colombia",
-      "source": "ColombiaOne.com",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbjVsMGQ0N0VuOUJsUmZYdWpvV0cwNk9KcEI5b2tmNnpuel81cE5iWHdSU1BEVWRqYWRFNWwwVWx1WFJ4Y3RjYkNjc2hhY245MkFqd2IyXzk5bUF4cFBQbEk2V2xtcEZXMDI0bUQtR3hJRG9QRGlpMUphR0NVNXJNZ0lfdjJSb2lKMmJUTFh1REJFeWZlckE0TjRfVl9VSThhY0ZTYmhJMklVM3FRYlE?oc=5",
-      "publishedAt": "2026-11-07T12:30:00+08:00"
-    },
-    {
       "title": "Juan Manuel Santos, former president of Colombia: A man of peace in times of war",
       "source": "EL PAÍS English",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMWpfcGdVZER6dmVHZHFfNTdxT1FYZWgwVU5pSUEwZ1BmVGJEVjY1Sk9mTnNlMXBoNWlrT0s2SzNjNmVhb0M0NHlFV0JqNEZXbTRibDdNSFlXaENQQ29lWU9XQkxjWmZMN3VOUHN0VkYwS0JhdUhOVVdlTDdCbno0SUhybkhzeVppWHBUOURrQ0JwYzZjdnRCRTl1MWNJOFhFVV9UdzdRNkpEZmMzazMtYXdlSHRoSmV4U1V3dENtTEVfNEJBa2ljUlQ5OVpjYk1k0gHkAUFVX3lxTE5uRVY4UVYwUGJRdV9wVEFBZFVQZU1qeHZiU1p6UVc4djFCdHNWMHB0UUlGOFR0Q0NkbXJnX0EzZ3pRSzJQZ2hyRUpkV2ZBTFhXM3Yyc1UxcTN0NVpSclp2SVYwalR1X3dZdENZY2lmcGpXRzRzbmJYRGdieDI1WWxKZTAxTTd1T3FtT1RnaUJlNmdGbm85RlNhcVY5X2xqekF1R2VOWWM5X0huLVJ4UExnOXZUVUFQSVh6cFF4U3FFVDBWVGg1UGxmamJXOWsySDR5VDNIbVRaX1MxZWRGSl9qeGdGTQ?oc=5",
       "publishedAt": "2026-11-07T12:00:00+08:00"
     },
     {
-      "title": "Colombia expels 80 allegedly ‘criminal’ Venezuelans",
-      "source": "Free Malaysia Today",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQakN1dWRMMXdmbVJZdmZpN2ZDckV1SkVxUWlWeWo3MHltd0RZbFozcTA1cU96Y0RDUzIxZnlfdFU4X3NHbVJ5Q0hoYnZJWEkwTWlYTEJiVG1OVTRiTVdHWWN0X2ZaSUR1cnJDdm54Y29qTFRWSDItSW5adUNLSXZtbG5PZG1KQ2dDSjdOSkNNQmFwNXVwZ2RzRi1EemJNdU1zUDJWMzBTNFhzZEtKYmc?oc=5",
-      "publishedAt": "2026-11-07T10:33:00+08:00"
-    },
-    {
       "title": "Symposium on the 10th Anniversary of the Colombian Peace Agreement - Part IX: A space for better conflicts, hollowed from within: Colombia's peace architecture ten years after the 2016 Agreement",
       "source": "www.iconnectblog.com",
       "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOSVlRc1d1TW1qaEU5VWlVeXFhZHY1THBQZWNYaDN1NFo3TFJFSHNGM3RheTk2RWtkTTlNWUQ5U1VrOTg3TVZBX0lpNUZyenJzR3hERzk3bUwwVlRMd24yTjVlc2RMeHpYdE9DZzBTXzVCZlk1QXE0aEp2dlpYWEFmeFBYWkJIYkVTd0dXTjU2Xy1kNDViUm5jVjFmRDlLT1RwbkJPV1RILW93WFhwMkpWVTRjZWtHZzZEMURoVDZ0Mnd5SWxKX3dwV1VIcDNpOXRHLThRbG9EZUhMeWJHeVhldDBxVjZkVC1sWk1pWGo1QllBNzVVTWZCb0w2UW5Vc29qb1BFS09OSjJLZ2ZsaGJENWFONVFRcFJzTjFhZ3lPeXBKcUFfZDM5dF9FeW9PSVNqc2hIZFNDTExkYm85WU1Z?oc=5",
       "publishedAt": "2026-11-07T10:32:00+08:00"
-    },
-    {
-      "title": "Néstor Lorenzo names Colombia squad for Chile friendlies, Jhon Arias in, Andrés Gómez and Carrascal omitted",
-      "source": "OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT3ZKZ0FkUUgyU21CWmdvemJFTEE1UURBcWtySWdsaWM4TXMtalVxd1hRSWRXYmtWbGpDaVhmSjRMZjJCSkVsQ1FzN21PdTdlTEwteVNUVkV6Z2pVN1VjbXVJLVdDN1BrR3JnajVhdWdWZTZzc3ZFb2FCMTZwVW5VejdDUy1QVWI1Q2d6SHZQX3dRTGpadXhhMndtY2IyNUQtWUZydmo0OGNrVmJ1SnNEOFo3WERGT2hXRm1DZjRHUDdkVTBkd3ZyTVVreVRlQmpNSkU3c01BUkg3bm1pV0hF?oc=5",
-      "publishedAt": "2026-11-07T09:59:39+08:00"
     }
   ]
 }
