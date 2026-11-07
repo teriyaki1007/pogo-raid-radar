@@ -1,7 +1,7 @@
 {
   "iso2": "DK",
   "name": "Denmark",
-  "updatedAt": "2026-11-07T11:04:44+08:00",
+  "updatedAt": "2026-11-07T17:11:42+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "On the Agenda: What's happening in Denmark next week?",
+      "source": "The Local Denmark",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeVRmT0xpWjJlS3FVcnVQM3p5TXNRLXg0VGYxSVMwQVdXc3lGeERSUWRSRHB4VjVBWTF2bjdkLWFoN3RlbWRSX1BIVnJOdzViWkp1YTV5UGw3TlVUcEpBemtaVERKX184dVFGbXZWNGF5U0NsVFlSRlRLZXJFb0JNSWlQaUhoY0F1QUxMZVZ3?oc=5",
+      "publishedAt": "2026-11-07T16:41:35+08:00"
+    },
+    {
+      "title": "Football: Denmark crowned Region 6-7A champions",
+      "source": "Forsyth County News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd3JqT2s3QW1GVmFwX2k1VjF0N1l0MTBJSDQ2ZWRfZHBKX3hscVRoSHloNHV0R09WMVJQUzVNRHMtREpGa1E0U01tNG14STZBOFQ1dDlaMkhqNjFlb3pmWmRqaHotcEpVTnRMd1dIMlhRVGdtSXA4Xy15V2w2a3ZSbDBqT1lzS1RfYWotRkQzV2NRX3p5TkE?oc=5",
+      "publishedAt": "2026-11-07T15:33:04+08:00"
+    },
+    {
+      "title": "Avian Influenza in Denmark",
+      "source": "PoultryMed",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTS29MdlZtT20xaDJDS2dJS3ZfUTJCQ2dNYWcyMTBNQVVDZ1pFYVpSQnZubVA5dUE0b0liYm5iUzNaajQ2N2lrSEdsOXgzWTdEc0haMXAtTkNQSEU?oc=5",
+      "publishedAt": "2026-11-07T15:21:01+08:00"
+    },
+    {
+      "title": "DJ Kate Jagdon marries girlfriend in Denmark",
+      "source": "Inquirer.net",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSXBoNjFRSlBwcHUzSEozajdJWWc2amY4T0ZmeF9uZTdhMkxxQjVmN0xJU0hEZkpWMVF0em1yeVJtenkzUHZEaVM0NXdDT2tCS3VUQlRldTFwV2VOR3VNSHZ6M01WbGJtUXU3Zk1GVi1ieUZYSW9qY3RKMEVFbVRfdUZKVGg2VUR3bWVFOE1mY9IBlAFBVV95cUxQY2drQWM0VEVoenN5OHlUN0NYWnNjcnR5Rng2eklKdnQ4OXZ4aXQta2dlVEdkTWxISVNFNEZVR29KWnduNUtRc1k2SlZ0SW8zY3lrS3M1cW9NTEJYZXBheFNlLW9fNVFqbnFIZGN4eEdna19PMUdpSE9QVXpYS2RrV1d5ZjlLY25TQk9VZEdEcWN6ZWVH?oc=5",
+      "publishedAt": "2026-11-07T15:02:00+08:00"
+    },
+    {
       "title": "Jorge Jesus Rilis Skuad Portugal Lawan Denmark dan Wales",
       "source": "OneFootball",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWjRzNzlRbWk5S0hyVVRocU00WnFFRHlCcEhLMWlXb2NZVUJHaTlPeE9hUHNXZ18yWDJHbHhIV1hISjdsdGlTWU1GY3pkVjN3TTZCd3RPbDZrV3Z2c3BiMTZKelhLVzg1QnE3WHQwZ0pVRjlZOWRKNmZndFlaaklNbkhGVmppNmo1b3ZfaGRVUTJpdVdQVnVBTS1QNXVJRVk?oc=5",
@@ -48,34 +72,10 @@
       "publishedAt": "2026-11-07T06:00:00+08:00"
     },
     {
-      "title": "Denmark vs Clarkston - Girls Varsity Basketball 11/06/2026 | Watch Live & On Demand",
+      "title": "Denmark vs Clarkston - Boys Varsity Basketball 11/06/2026 | Watch Live & On Demand",
       "source": "NFHS Network",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUHFyRWxTU3E0UGlYX20yQkVNNTg2RkhKT1hWWFB1cjBVbXcya2xzSjFwS2dQZ1lsTS1rQklGbkktTHo4VzQ4WUNDbkxxbVVUdk9vQk5TSEgzVlJ1bTAzUExUMmRNdnlKN3FWV19rdkx2LU9naXZfQzlEOHZGX3RQQ1I4ZjBJWGR1S1E?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZmFQZ2hWcjNIczM4YUVxVU4wNkQ0MEhfZVVhT0RwemZxOGVpbTROQnFISjZldkZobU5SQjdGdEtkalc3U1g2b0h2Y2E0LUxlTFVYTUhTQUVKQjdramhUQmVCc1kzRmRsbFhUcGJpXzhSUGszQzdmRGQ0S3BtQTZUcjNfanpkU016Nmc?oc=5",
       "publishedAt": "2026-11-07T05:43:38+08:00"
-    },
-    {
-      "title": "Women's Worlds: Finland 4, Denmark 1",
-      "source": "TSN",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObjZPems4LVBSSzZxRUhMNGZ5WnE5RTVuQ1JBX2xEOHJvNXNiaFh1anRNc19wZW9FdHByZ0RMdGg1M200ZnVyREwxU3UxcU9aT3cyUjlyeWx0cE9zZDhlcXdFZG1RRm5GTDJyV0pDZnRfQS1ZUUlhSXphakJ0STRKT3VBQkxYaUo0V1VPNw?oc=5",
-      "publishedAt": "2026-11-07T05:14:09+08:00"
-    },
-    {
-      "title": "Denmark to Install Radar System on Bridge Spanning Strait Between Baltic and North Seas",
-      "source": "Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd3dsckZ5bUd0WkdMeVEzc3Y5QVNHbW1uYjRpeFdhWlBTS1ljcEdPaWhvVkhYWmQ2WFk3dmw5am9qQ2JWY2JIeU5XUkc3UlJfN2UzS2YzVlZ6ZUFKak1lV21rN3p6clBUZGtqUURtWW05Nm9ZSmZnU1hSd25JUE1CTXVvMV9hUkZ3dVdoNFFLTUtXUWhHbDN0eVNkMEY?oc=5",
-      "publishedAt": "2026-11-07T05:04:46+08:00"
-    },
-    {
-      "title": "Dylan Graves Rode Possibly The Best Barrel in Denmark and It Came From a Ferry",
-      "source": "The Inertia",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQXzhEY1F2MVB5VGh3Y3VNX0N2M0lRbHZKU3dXN21XSi1LTm4yb0o5cnd6TWJ0aGRzNjE4cVUxS2lKVnZJYU16SjEtaTlyOURJcl8xZVJRYzdmSW95VTV2QUZjZ3Z1SlM0SlpYbFoxTlhOVjNUTEpFb19TTm5nY3gwenZhNTA2S3o4Y291X1ZLMUVNLTM5R1BWSmhOVkRpTlY5RnNXVEVsRWlhTVpBWURqSA?oc=5",
-      "publishedAt": "2026-11-07T04:55:57+08:00"
-    },
-    {
-      "title": "Finland dominates, beats Denmark 4-1",
-      "source": "IIHF",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9OM3Nac1Z6T2NBd3lySkVEamh1UUxacHc4Ul9jWlJEQVNTU3o0cEhiQV9sLWdSY2R2bjhlemdtV241djVaZGZZS1h1anhLeTh4T2dEYlVGSk5HT3ZsTHBFMDJzV3NZWTA?oc=5",
-      "publishedAt": "2026-11-07T04:53:47+08:00"
     }
   ]
 }

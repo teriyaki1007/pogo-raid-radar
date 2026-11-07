@@ -1,7 +1,7 @@
 {
   "iso2": "BH",
   "name": "Bahrain",
-  "updatedAt": "2026-11-07T11:04:44+08:00",
+  "updatedAt": "2026-11-07T17:11:42+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Bahrain Set to Seal Landmark GCC Railway Deal",
+      "source": "News of Bahrain",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdDJKb0oyZHN3amo1NEhrcEJkVVh1eVdoMUVEUkVTNnFsbnRwUUh0M3R2UGJJZG00VnY1UHltMG9rM3VPRHRielAtdFE3MzBNU2l2OHBqVnBfLWVvSUVKdExYWE1zOGRMQk1DS0ZjbWgzMmZvZXVLRDRJT1haYnMxbU52ekNUdDl5ZnduVDBvbw?oc=5",
+      "publishedAt": "2026-11-07T17:07:37+08:00"
+    },
+    {
+      "title": "Road Upgrades to Ease Traffic in Western Bahrain",
+      "source": "News of Bahrain",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYVpuUk9QNmRRb2lULUJMUGREbEY3TW9zZkMtbFJMZ2dHU3dIRGRzb2xBOUtPeGhjRmN6OXRvWE1laUE1SmRNeTdKXzRhclhxS2YtcnA5NGd0OVBvb0JXVEpab3JjQXI1UzBRWVA0MXZRc1dkdDRMdzBRN2xTZHpHeHE1WWxuV2I4U1JBbzNVR0N2b1U?oc=5",
+      "publishedAt": "2026-11-07T17:07:37+08:00"
+    },
+    {
+      "title": "Azerbaijan’s Victory Day marked in Bahrain",
+      "source": "Azərtac",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTnpUMElEMkg1XzFKMk9lMmlkLTdEMHhfUGNIQk5mclNpWkZ2cm5ybTlncDRRRWtsX05DNkZMMW5QUHBHMFl4SWhBbTZjb1puTDFlcHVaTnZrWXRkbzNuc3ZGT1RXbUVLMVVtS0s3OHZ1X3BMdUI2MVpYWWx2SVVGUkhuNA?oc=5",
+      "publishedAt": "2026-11-07T16:11:00+08:00"
+    },
+    {
+      "title": "Bahraini Hold Rallies in Support of Detained Clerics",
+      "source": "خبرگزاری بین المللی قرآن",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYnk5QW1FMms0T1lQZzdkRHpjSjJQQ0FwQl8xeTB5VVBycWE1bENkclRNNmZLaXBDWDN1d3ZXSm42VzloQi1kSTJfYktZN1dyUk9mTnBVX2o1aHpVTS1kTzVEbE51bTNDamRxTklxaE1Pd1FXTjlabUtSUmE5VWowNDYwRFBrZmZnS1FpTw?oc=5",
+      "publishedAt": "2026-11-07T14:19:59+08:00"
+    },
+    {
       "title": "Bahrain: Shia Clerics Face Mass Trial Marred by Torture Allegations and Grave Fair Trial Violations",
       "source": "World Organisation Against Torture | OMCT",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMlIyN1dwQ0hCWGNIRnREbTUxN0g4cS1nRXI3clNXRWpWMEFwMFlkT09XTGgzeWVTUmlZYzA4TFlsMzhzQ2FGS0VuaFhaVDZuRHBzRGQ4cjRaeVpfWXlmN1BJSVBBZlZhZUFxMkk2MEcwb2JGUVBvSHh5TlRwMmJ5SWZ0dkxpXzZ1WnFReFA2aXREWGNOYjZOS0M0Q3dCM2VhQkJRRXpJWUxfM0NPdHp2T0dPakZjWXZsSDZSRFhJOWJ5YWpRU3VvdVJxOFZDU1NpdGxGOV9nYXFXOTQ?oc=5",
       "publishedAt": "2026-11-07T09:36:27+08:00"
-    },
-    {
-      "title": "VINTAGE SUCCESS: HRH Prince Salman attends Royal Bahrain Concours 2026",
-      "source": "Gulf Daily News (Bahrain)",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMFhYSWdFTHd1Njh1N0JoVnVEWHJiUXd3QWRWdHktUHR5eDVOaDVYSHNnaUJrbDBQNU9Ea2djTWxiUTQ3ZmEyWXdSRVFpTHl1bXBMc05NM3RjNHF4U29hU19vTXh4TmRKZUdVWWZtWTVXZlBEeFZKLTM4UDRJYl9MbzVSV1N6bVBwaUloVW9QT0Y0RWsybkhEeTlLQ2NuenpyM3QyWXgzbTE2VUJscHlyckxB?oc=5",
-      "publishedAt": "2026-11-07T08:34:24+08:00"
     },
     {
       "title": "Bahrain’s Security Sword – OpEd",
@@ -58,24 +76,6 @@
       "source": "Arab Times Kuwait News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOejlLamRqbG42UXJBNHBXWkQwODhvZmdOLTJMX3hoT3hmRXl6eDFxSmdiWlJsTHhTNzB4MjdRZmRENEM2aG5vRk9UNkRzUldrWklla196aUNCazc3eXFpOGt5LWtTWGlweWJTU1pHNUxSODlhODlrSWlNRGFYcERveW1uYTVsNFByUkxSc2lHQlNsSl92ZjRGVUxIRW1ITDVOc2lhOWdhR1U2UHBsOTR6RmRWeWNTVFIyQ2k1VVU5a0s?oc=5",
       "publishedAt": "2026-11-07T03:50:39+08:00"
-    },
-    {
-      "title": "Thawabit Submits Lowest $27M Bid for Eskan Bank’s 72-Villa Project in Bahrain",
-      "source": "SaudiGulf Projects",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSkpycDRKTGFvMUx0MzVMRzBRMWFRRDNzSThLZF8zQXdWbDVqNU5qRmFmT1piMUZGY3JQOGk5WFlLdjRTNzVMd0Iwdl9ZOHJIS2tIUTUyVjFUQXFVa0Y4Um82OXA5Y1ZIRDZNOG9Bc2psOUFmSkdiVy1DcXdqV0JWWXFOME0xdFFHQ2tuSjIyakVfdW1CNmhBTmstT1pTVnVwX1hON3pQenBuVEVYX3lZcw?oc=5",
-      "publishedAt": "2026-11-07T03:24:40+08:00"
-    },
-    {
-      "title": "Rights groups condemn Bahrain's largest mass trial of Shia clerics in history",
-      "source": "Middle East Eye",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzNhU2I4RHhJUFVOekpKbmppdDZYTm14WEdyZ2NTTFZyUGNucHBPZHpYS0xqVUY1ZUdjZ2dPZFp0ZC1jdm14UDdaRHlaY0sxbnpPY01vYzVLRDdPN3NlV3N4V2xqLXpXLWhDTTk1TFVYX29JUm14LV9GUkxWTVJMd1NFRXB6SS04cmhGWWw4Q3d0Ry1qcU1VNmh0TGFlR2VnckhTY2tBYTg?oc=5",
-      "publishedAt": "2026-11-07T00:42:00+08:00"
-    },
-    {
-      "title": "Bahrain's American shield becomes its greatest liability",
-      "source": "thecradle.co",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQck1sNms2UGtPbno2WkMwTDRqdWk4WHFOZTNaWnRPOUNnUzdMYlVpbEIydkRDb3k4a1Ewa2o5WnBXQkNadlRXSVBQaUUzUk45bW5CQUdLbnVfWXl2T2stMXZIS1Q0VHQyUktIZkstcVd6cWZzNWkyYk0xUDhCTExEUWRLSWhsVzRGN2VUOUNR?oc=5",
-      "publishedAt": "2026-11-07T00:35:54+08:00"
     }
   ]
 }
