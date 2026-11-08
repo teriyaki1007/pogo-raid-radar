@@ -1,0 +1,83 @@
+{
+  "meta": {
+    "schemaVersion": 1,
+    "owner": "Nature Catalogue",
+    "note": "Catalogue game-layer stub (Product Skeleton). Replace when Catalogue pastes a fuller table. Not Species Guide facts.",
+    "moveSlots": 4,
+    "stab": 1.2,
+    "strong": 1.6,
+    "weak": 0.6,
+    "level": {
+      "start": 1,
+      "max": 50,
+      "xpToLevel2": 100,
+      "xpGrowth": 1.25,
+      "fightWin": 30,
+      "fightLoss": 12,
+      "forfeit": 0
+    },
+    "bpLevelScale": "leveledBp = round(baseBp * (1 + 0.02 * (level - 1))); habitat affinity overlap → ×1.15"
+  },
+  "pools": {
+    "Forest": [
+      { "id": "canopy-strike", "name": "Canopy Strike", "power": 40 },
+      { "id": "root-bind", "name": "Root Bind", "power": 25, "kind": "status" },
+      { "id": "leaf-barrage", "name": "Leaf Barrage", "power": 55 }
+    ],
+    "Ocean": [
+      { "id": "tide-crash", "name": "Tide Crash", "power": 45 },
+      { "id": "spray-jet", "name": "Spray Jet", "power": 35 },
+      { "id": "undertow", "name": "Undertow", "power": 30 }
+    ],
+    "Sky": [
+      { "id": "dive-peck", "name": "Dive Peck", "power": 40 },
+      { "id": "gale-cut", "name": "Gale Cut", "power": 50 },
+      { "id": "wing-guard", "name": "Wing Guard", "power": 20, "kind": "status" }
+    ],
+    "Earth": [
+      { "id": "quake-stomp", "name": "Quake Stomp", "power": 55 },
+      { "id": "stone-toss", "name": "Stone Toss", "power": 35 },
+      { "id": "burrow-guard", "name": "Burrow Guard", "power": 25 }
+    ],
+    "Fire": [
+      { "id": "ember-snap", "name": "Ember Snap", "power": 40 },
+      { "id": "blaze-rush", "name": "Blaze Rush", "power": 60 },
+      { "id": "smoke-veil", "name": "Smoke Veil", "power": 20 }
+    ],
+    "Ice": [
+      { "id": "frost-bite", "name": "Frost Bite", "power": 45 },
+      { "id": "chill-gust", "name": "Chill Gust", "power": 35 },
+      { "id": "freeze-latch", "name": "Freeze Latch", "power": 30 }
+    ],
+    "Bug": [
+      { "id": "swarm-needle", "name": "Swarm Needle", "power": 40 },
+      { "id": "silk-trap", "name": "Silk Trap", "power": 25 },
+      { "id": "mandible-crush", "name": "Mandible Crush", "power": 50 }
+    ],
+    "Shadow": [
+      { "id": "night-slash", "name": "Night Slash", "power": 50 },
+      { "id": "haunt-pulse", "name": "Haunt Pulse", "power": 35 },
+      { "id": "fade-step", "name": "Fade Step", "power": 20 }
+    ],
+    "River": [
+      { "id": "rapid-strike", "name": "Rapid Strike", "power": 45 },
+      { "id": "silt-cloud", "name": "Silt Cloud", "power": 25 },
+      { "id": "current-pull", "name": "Current Pull", "power": 35 }
+    ],
+    "Meadow": [
+      { "id": "pollen-burst", "name": "Pollen Burst", "power": 35 },
+      { "id": "thorn-lash", "name": "Thorn Lash", "power": 45 },
+      { "id": "bloom-guard", "name": "Bloom Guard", "power": 20 }
+    ],
+    "Storm": [
+      { "id": "thunder-crack", "name": "Thunder Crack", "power": 60 },
+      { "id": "wind-shear", "name": "Wind Shear", "power": 40 },
+      { "id": "static-cling", "name": "Static Cling", "power": 30 }
+    ],
+    "Crystal": [
+      { "id": "shard-volley", "name": "Shard Volley", "power": 50 },
+      { "id": "prism-guard", "name": "Prism Guard", "power": 25 },
+      { "id": "refract-beam", "name": "Refract Beam", "power": 55 }
+    ]
+  }
+}
