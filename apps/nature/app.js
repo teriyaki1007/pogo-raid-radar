@@ -53,6 +53,22 @@
     { id: "mountain", label: "Mountain", icon: "⛰️" },
   ];
 
+  const HABITAT_AFFINITY_ENUM = new Set(HABITATS.map((h) => h.id));
+
+  /** Species Guide closed enum: 1–3 of tree|ocean|grassland|wetland|urban|mountain */
+  function normalizeHabitatAffinity(raw) {
+    if (!Array.isArray(raw)) return [];
+    const out = [];
+    for (const v of raw) {
+      const id = String(v || "").trim().toLowerCase();
+      if (!HABITAT_AFFINITY_ENUM.has(id)) continue;
+      if (!out.includes(id)) out.push(id);
+      if (out.length >= 3) break;
+    }
+    return out;
+  }
+
+
   const DEMO_FRIENDS_SEED = [
     { username: "trailfox", status: "online", pending: false },
     { username: "tidewalker", status: "offline", pending: false },
@@ -125,7 +141,10 @@
       catalogue = { meta: { demo: true, slotCount: 12 }, speciesCards: [], demoUser: null };
     }
 
-    speciesCards = Array.isArray(catalogue.speciesCards) ? catalogue.speciesCards : [];
+    speciesCards = (Array.isArray(catalogue.speciesCards) ? catalogue.speciesCards : []).map((c) => ({
+      ...c,
+      habitatAffinity: normalizeHabitatAffinity(c.habitatAffinity),
+    }));
     SLOT_COUNT = catalogue.meta?.slotCount || 12;
     XP = { ...DEFAULT_XP, ...(catalogue.meta?.xp || {}) };
 
@@ -661,6 +680,15 @@
   function commitSighting(status) {
     if (!pendingSighting) return;
     const s = { ...pendingSighting, confirmed: true, status };
+    if (s.sampleMeta) {
+      s.sampleMeta = {
+        ...s.sampleMeta,
+        habitatAffinity: normalizeHabitatAffinity(s.sampleMeta.habitatAffinity),
+      };
+    }
+    s.habitatAffinity = normalizeHabitatAffinity(
+      s.habitatAffinity || s.sampleMeta?.habitatAffinity || []
+    );
     if (status === "uncertain") s.idConfidence = "unsure";
     if (status === "confirmed" && s.idConfidence !== "unknown" && s.idConfidence !== "unsure") {
       s.idConfidence = "confirmed";
@@ -1122,7 +1150,7 @@
       types: cardOrSeed.types || seed.types || [],
       rarity: cardOrSeed.rarity || seed.rarity || "common",
       bp: cardOrSeed.bp ?? seed.bp ?? 0,
-      habitatAffinity: cardOrSeed.habitatAffinity || seed.habitatAffinity || [],
+      habitatAffinity: normalizeHabitatAffinity(cardOrSeed.habitatAffinity || seed.habitatAffinity || []),
       source: cardOrSeed.source || "card",
     };
   }
