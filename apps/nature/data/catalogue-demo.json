@@ -3,8 +3,8 @@
     "demo": true,
     "version": "0.1.0-demo",
     "title": "Nature Catalogue \u2014 demo data",
-    "note": "SAMPLE / placeholder species facts only. Species Guide owns real fact packs later. Personal dex/sightings/XP stay per account; speciesCards are the shared store shape.",
-    "slotCount": 12,
+    "note": "SAMPLE / placeholder species facts only. Species Guide owns real fact packs later. Personal dex/sightings/XP stay per account; speciesCards are the shared store shape. Dex/sightings unbounded; battle party capped at 3.",
+    "slotCount": null,
     "xp": {
       "confirm": 10,
       "newSlot": 25,
@@ -237,94 +237,6 @@
         "firstSeenAt": "2026-11-07T09:30:00+08:00",
         "photoRef": null,
         "sightingId": "sight-demo-001"
-      },
-      {
-        "slotId": "slot-2",
-        "taxonId": null,
-        "status": "empty",
-        "firstSeenAt": null,
-        "photoRef": null,
-        "sightingId": null
-      },
-      {
-        "slotId": "slot-3",
-        "taxonId": null,
-        "status": "empty",
-        "firstSeenAt": null,
-        "photoRef": null,
-        "sightingId": null
-      },
-      {
-        "slotId": "slot-4",
-        "taxonId": null,
-        "status": "empty",
-        "firstSeenAt": null,
-        "photoRef": null,
-        "sightingId": null
-      },
-      {
-        "slotId": "slot-5",
-        "taxonId": null,
-        "status": "empty",
-        "firstSeenAt": null,
-        "photoRef": null,
-        "sightingId": null
-      },
-      {
-        "slotId": "slot-6",
-        "taxonId": null,
-        "status": "empty",
-        "firstSeenAt": null,
-        "photoRef": null,
-        "sightingId": null
-      },
-      {
-        "slotId": "slot-7",
-        "taxonId": null,
-        "status": "empty",
-        "firstSeenAt": null,
-        "photoRef": null,
-        "sightingId": null
-      },
-      {
-        "slotId": "slot-8",
-        "taxonId": null,
-        "status": "empty",
-        "firstSeenAt": null,
-        "photoRef": null,
-        "sightingId": null
-      },
-      {
-        "slotId": "slot-9",
-        "taxonId": null,
-        "status": "empty",
-        "firstSeenAt": null,
-        "photoRef": null,
-        "sightingId": null
-      },
-      {
-        "slotId": "slot-10",
-        "taxonId": null,
-        "status": "empty",
-        "firstSeenAt": null,
-        "photoRef": null,
-        "sightingId": null
-      },
-      {
-        "slotId": "slot-11",
-        "taxonId": null,
-        "status": "empty",
-        "firstSeenAt": null,
-        "photoRef": null,
-        "sightingId": null
-      },
-      {
-        "slotId": "slot-12",
-        "taxonId": null,
-        "status": "empty",
-        "firstSeenAt": null,
-        "photoRef": null,
-        "sightingId": null
       }
     ],
     "progress": {

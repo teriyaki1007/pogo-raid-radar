@@ -278,7 +278,8 @@
 
   let catalogue = null;
   let speciesCards = [];
-  let SLOT_COUNT = 12;
+  /** Unbounded dex — Catalogue lock; battle party still max 3 */
+  let SLOT_COUNT = Infinity;
   let XP = { ...DEFAULT_XP };
 
   let state = null;
@@ -337,7 +338,7 @@
     } catch (err) {
       console.error("Failed to load catalogue-demo.json", err);
       showToast("Demo data failed to load");
-      catalogue = { meta: { demo: true, slotCount: 12 }, speciesCards: [], demoUser: null };
+      catalogue = { meta: { demo: true, slotCount: null }, speciesCards: [], demoUser: null };
     }
 
     try {
@@ -356,7 +357,9 @@
       ...c,
       habitatAffinity: normalizeHabitatAffinity(c.habitatAffinity),
     }));
-    SLOT_COUNT = catalogue.meta?.slotCount || 12;
+    SLOT_COUNT = catalogue.meta?.slotCount == null || catalogue.meta?.slotCount === 0
+      ? Infinity
+      : Number(catalogue.meta.slotCount) || Infinity;
     XP = { ...DEFAULT_XP, ...(catalogue.meta?.xp || {}) };
 
     state = loadState();
@@ -396,9 +399,10 @@
     observedAt.value = local.toISOString().slice(0, 16);
   }
 
-  function emptySlots() {
-    return Array.from({ length: SLOT_COUNT }, (_, i) => ({
-      slotId: `slot-${i + 1}`,
+  function makeSlot(partial = {}) {
+    const n = (state?.slots?.length || 0) + 1;
+    return normalizeSlot({
+      slotId: partial.slotId || `slot-${Date.now()}-${n}`,
       taxonId: null,
       status: "empty",
       firstSeenAt: null,
@@ -407,7 +411,12 @@
       level: 1,
       battleXp: 0,
       moves: [],
-    }));
+      ...partial,
+    });
+  }
+
+  function emptySlots() {
+    return [];
   }
 
   function normalizeSlot(s) {
@@ -418,6 +427,13 @@
       battleXp: typeof s.battleXp === "number" ? s.battleXp : 0,
       moves: Array.isArray(s.moves) ? s.moves : [],
     };
+  }
+
+  /** Drop leftover empty placeholders from the old fixed-12 grid */
+  function compactSlots(slots) {
+    return (Array.isArray(slots) ? slots : [])
+      .map(normalizeSlot)
+      .filter((s) => s && s.status !== "empty");
   }
 
   function emptyState() {
@@ -452,8 +468,8 @@
     const du = catalogue?.demoUser;
     if (!du) return emptyState();
     const slots =
-      Array.isArray(du.slots) && du.slots.length === SLOT_COUNT
-        ? du.slots.map((s) => normalizeSlot({ ...s }))
+      Array.isArray(du.slots)
+        ? compactSlots(du.slots.map((s) => ({ ...s })))
         : emptySlots();
     return {
       user: null,
@@ -490,7 +506,7 @@
     return {
       ...base,
       ...s,
-      slots: (Array.isArray(s.slots) && s.slots.length === SLOT_COUNT ? s.slots : base.slots).map(normalizeSlot),
+      slots: compactSlots(Array.isArray(s.slots) ? s.slots : base.slots),
       sightings: Array.isArray(s.sightings) ? s.sightings : [],
       progress: { ...base.progress, ...(s.progress || {}) },
       friends: Array.isArray(s.friends) ? s.friends : base.friends,
@@ -1253,21 +1269,22 @@
     let filledNew = false;
 
     if (!existingSlot) {
-      const empty = state.slots.find((sl) => sl.status === "empty");
-      if (empty) {
-        empty.taxonId = s.speciesRef;
-        empty.status = status === "uncertain" ? "uncertain" : "filled";
-        empty.firstSeenAt = s.observedAt;
-        empty.photoRef = s.photoRefs[0];
-        empty.sightingId = s.id;
-        empty.level = 1;
-        empty.battleXp = 0;
-        empty.moves = isCombatAnimal(meta)
-          ? normalizeMoves(pendingMoves, fighterTypesFromMeta(meta))
-          : [];
-        filledNew = true;
-        xpGain += XP.newSlot;
-      }
+      state.slots.push(
+        makeSlot({
+          taxonId: s.speciesRef,
+          status: status === "uncertain" ? "uncertain" : "filled",
+          firstSeenAt: s.observedAt,
+          photoRef: s.photoRefs[0],
+          sightingId: s.id,
+          level: 1,
+          battleXp: 0,
+          moves: isCombatAnimal(meta)
+            ? normalizeMoves(pendingMoves, fighterTypesFromMeta(meta))
+            : [],
+        })
+      );
+      filledNew = true;
+      xpGain += XP.newSlot;
     }
 
     const streakGain = updateStreak();
@@ -1399,7 +1416,7 @@
     $("#stat-xp").textContent = String(state.progress.xpTotal);
     $("#stat-streak").textContent = String(state.progress.streakDays);
     const filled = state.slots.filter((s) => s.status !== "empty").length;
-    $("#stat-slots").textContent = `${filled}/${SLOT_COUNT}`;
+    $("#stat-slots").textContent = String(filled);
 
     const row = $("#badges-row");
     row.innerHTML = "";
@@ -1417,7 +1434,6 @@
     grid.innerHTML = "";
 
     const filledSlots = state.slots.filter((s) => s.status !== "empty");
-    const emptyCount = state.slots.filter((s) => s.status === "empty").length;
 
     if (filledSlots.length === 0) {
       const hero = document.createElement("button");
@@ -1426,31 +1442,16 @@
       hero.innerHTML = `
         <span class="dex-hero-icon" aria-hidden="true">📷</span>
         <strong>Log your first sighting</strong>
-        <span class="muted">Photo → Identify → Confirm to fill a slot</span>`;
+        <span class="muted">Photo → Identify → Confirm · unlimited logs</span>`;
       hero.addEventListener("click", () => {
         resetCaptureForm();
         showPanel("capture");
       });
       grid.appendChild(hero);
-
-      for (let i = 0; i < EMPTY_SLOTS_SHOWN; i++) {
-        const btn = document.createElement("button");
-        btn.type = "button";
-        btn.className = "slot is-empty";
-        btn.disabled = true;
-        btn.innerHTML = `
-          <span class="slot-silhouette" aria-hidden="true">🌿</span>
-          <span class="slot-num">#${String(i + 1).padStart(2, "0")}</span>`;
-        grid.appendChild(btn);
-      }
-      const more = document.createElement("p");
-      more.className = "dex-empty-more";
-      more.textContent = `${SLOT_COUNT - EMPTY_SLOTS_SHOWN} more empty slots`;
-      grid.appendChild(more);
       return;
     }
 
-    filledSlots.forEach((slot) => {
+    filledSlots.forEach((slot, i) => {
       const btn = document.createElement("button");
       btn.type = "button";
       btn.className = "slot";
@@ -1480,28 +1481,17 @@
       grid.appendChild(btn);
     });
 
-    const emptyToShow = Math.min(EMPTY_SLOTS_SHOWN, emptyCount);
-    const emptySlots = state.slots.filter((s) => s.status === "empty");
-    for (let i = 0; i < emptyToShow; i++) {
-      const slot = emptySlots[i];
-      const idx = state.slots.indexOf(slot);
-      const btn = document.createElement("button");
-      btn.type = "button";
-      btn.className = "slot is-empty";
-      btn.disabled = true;
-      btn.innerHTML = `
-        <span class="slot-silhouette" aria-hidden="true">🌿</span>
-        <span class="slot-num">#${String(idx + 1).padStart(2, "0")}</span>`;
-      grid.appendChild(btn);
-    }
-
-    const remaining = emptyCount - emptyToShow;
-    if (remaining > 0) {
-      const more = document.createElement("p");
-      more.className = "dex-empty-more";
-      more.textContent = `${remaining} empty`;
-      grid.appendChild(more);
-    }
+    const add = document.createElement("button");
+    add.type = "button";
+    add.className = "slot is-empty";
+    add.innerHTML = `
+      <span class="slot-silhouette" aria-hidden="true">＋</span>
+      <span class="slot-num">Log</span>`;
+    add.addEventListener("click", () => {
+      resetCaptureForm();
+      showPanel("capture");
+    });
+    grid.appendChild(add);
   }
 
   function shortName(name) {
