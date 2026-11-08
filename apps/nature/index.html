@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Nature Catalogue — Project Nature</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell" id="app">
+    <!-- AUTH -->
+    <section class="screen" id="screen-auth" data-screen="auth" aria-label="Sign in">
+      <div class="auth-bg" aria-hidden="true">
+        <svg class="leaf leaf-a" viewBox="0 0 80 80" fill="none"><path d="M40 8C40 8 12 28 12 48c0 16 12 24 28 24s28-8 28-24C68 28 40 8 40 8z" fill="currentColor" opacity=".35"/><path d="M40 12v52" stroke="currentColor" stroke-width="2" opacity=".5"/></svg>
+        <svg class="leaf leaf-b" viewBox="0 0 80 80" fill="none"><path d="M40 8C40 8 12 28 12 48c0 16 12 24 28 24s28-8 28-24C68 28 40 8 40 8z" fill="currentColor" opacity=".25"/><path d="M40 12v52" stroke="currentColor" stroke-width="2" opacity=".4"/></svg>
+      </div>
+      <div class="auth-card">
+        <div class="brand">
+          <div class="brand-mark" aria-hidden="true">🌿</div>
+          <h1>Nature Catalogue</h1>
+          <p class="brand-sub">Collect what you notice outdoors</p>
+        </div>
+        <div class="auth-tabs" role="tablist">
+          <button type="button" class="auth-tab is-active" role="tab" aria-selected="true" data-auth-mode="login">Log in</button>
+          <button type="button" class="auth-tab" role="tab" aria-selected="false" data-auth-mode="signup">Sign up</button>
+        </div>
+        <form id="auth-form" class="auth-form" autocomplete="on">
+          <label class="field">
+            <span>Username</span>
+            <input type="text" name="username" id="auth-username" placeholder="trailwalker" required minlength="2" />
+          </label>
+          <label class="field">
+            <span>Password</span>
+            <div class="password-wrap">
+              <input type="password" name="password" id="auth-password" placeholder="••••••••" required minlength="4" />
+              <button type="button" class="password-toggle" id="btn-password-toggle" aria-label="Show password" aria-pressed="false">Show</button>
+            </div>
+          </label>
+          <button type="submit" class="btn btn-primary btn-block" id="auth-submit">Log in</button>
+          <p class="hint muted" id="auth-hint">Demo only — no real account is created. State stays in this browser.</p>
+        </form>
+      </div>
+    </section>
+
+    <!-- APP CHROME -->
+    <section class="screen is-hidden" id="screen-app" data-screen="app" aria-label="Catalogue">
+      <header class="topbar">
+        <div class="topbar-brand">
+          <span class="topbar-mark" aria-hidden="true">🌿</span>
+          <span class="topbar-title">Nature Catalogue</span>
+        </div>
+        <div class="topbar-user">
+          <span class="user-chip" id="user-chip">you</span>
+          <button type="button" class="btn-ghost" id="btn-logout" title="Log out">Log out</button>
+        </div>
+      </header>
+
+      <div class="progress-strip" id="progress-strip" aria-label="Progress">
+        <div class="stat">
+          <span class="stat-value" id="stat-xp">0</span>
+          <span class="stat-label">XP</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="stat-streak">0</span>
+          <span class="stat-label">Streak</span>
+        </div>
+        <div class="stat">
+          <span class="stat-value" id="stat-slots">0/12</span>
+          <span class="stat-label">Slots</span>
+        </div>
+        <div class="badges-row" id="badges-row" title="Badges"></div>
+      </div>
+
+      <main class="main" id="main-panels">
+        <!-- CAPTURE -->
+        <div class="panel is-active" id="panel-capture" data-panel="capture" role="tabpanel">
+          <header class="panel-head">
+            <h2>Log a sighting</h2>
+            <p class="muted">Photo + place + time → Identify (sample ID)</p>
+          </header>
+          <form id="capture-form" class="capture-form">
+            <div class="photo-drop is-empty" id="photo-drop" tabindex="0" role="button" aria-label="Add photo">
+              <input type="file" id="photo-input" accept="image/*" capture="environment" hidden />
+              <div class="photo-drop-inner" id="photo-preview">
+                <div class="photo-icon" aria-hidden="true">📷</div>
+                <strong>Add a photo to identify</strong>
+                <span class="muted small">Tap or drop an image — required</span>
+                <span class="photo-cta-chip">Choose photo</span>
+              </div>
+            </div>
+            <label class="field">
+              <span>Where did you see it?</span>
+              <input type="text" id="place-label" placeholder="e.g. Coastal path near pier" required />
+            </label>
+            <div class="field-row">
+              <label class="field">
+                <span>Date &amp; time</span>
+                <input type="datetime-local" id="observed-at" required />
+              </label>
+              <label class="field field-narrow">
+                <span>Privacy</span>
+                <select id="privacy">
+                  <option value="private" selected>Private</option>
+                  <option value="shareable">Shareable</option>
+                </select>
+              </label>
+            </div>
+            <details class="more-details" id="more-details">
+              <summary class="more-summary">More <span class="optional">(notes &amp; tags)</span></summary>
+              <div class="more-body">
+                <label class="field">
+                  <span>Notes <span class="optional">(optional)</span></span>
+                  <textarea id="notes" rows="2" placeholder="Leaf shape, behaviour, tide…"></textarea>
+                </label>
+                <label class="field">
+                  <span>Tags <span class="optional">(optional, comma-separated)</span></span>
+                  <input type="text" id="tags" placeholder="bird, coast, morning" />
+                </label>
+              </div>
+            </details>
+            <button type="submit" class="btn btn-primary btn-block btn-identify" id="btn-identify" disabled>
+              <span class="btn-identify-label">Identify</span>
+              <span class="btn-identify-hint">Add a photo first</span>
+            </button>
+          </form>
+        </div>
+
+        <!-- CONFIRM -->
+        <div class="panel" id="panel-confirm" data-panel="confirm" role="tabpanel" hidden>
+          <header class="panel-head">
+            <p class="sample-banner">Sample ID — not a real species determination</p>
+            <h2>Confirm sighting</h2>
+          </header>
+          <article class="confirm-card is-provisional" id="confirm-card">
+            <div class="provisional-watermark" aria-hidden="true">PROVISIONAL</div>
+            <div class="confirm-photo" id="confirm-photo"></div>
+            <div class="confirm-body">
+              <div class="name-row">
+                <div class="name-block">
+                  <h3 id="confirm-common">—</h3>
+                  <p class="scientific" id="confirm-scientific">—</p>
+                </div>
+                <span class="confidence-badge" id="confirm-confidence">likely</span>
+              </div>
+              <dl class="fact-grid">
+                <div>
+                  <dt>Avg. size</dt>
+                  <dd id="confirm-size">—</dd>
+                </div>
+                <div>
+                  <dt>Native range</dt>
+                  <dd id="confirm-range">—</dd>
+                </div>
+                <div>
+                  <dt>Habitat</dt>
+                  <dd id="confirm-habitat">—</dd>
+                </div>
+                <div>
+                  <dt>Season</dt>
+                  <dd id="confirm-season">—</dd>
+                </div>
+              </dl>
+              <div class="lookalikes quiet" id="confirm-lookalikes"></div>
+              <p class="place-logged" id="confirm-place"></p>
+              <p class="muted small" id="confirm-disclaimer">Facts above are SAMPLE placeholders for the prototype.</p>
+            </div>
+          </article>
+          <div class="confirm-actions">
+            <button type="button" class="btn btn-primary btn-block" id="btn-confirm">Confirm &amp; collect</button>
+            <div class="text-link-row">
+              <button type="button" class="text-link" id="btn-edit">Edit</button>
+              <span class="text-link-sep" aria-hidden="true">·</span>
+              <button type="button" class="text-link" id="btn-unsure">Mark unsure</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- DEX -->
+        <div class="panel" id="panel-dex" data-panel="dex" role="tabpanel" hidden>
+          <header class="panel-head panel-head-row">
+            <div>
+              <h2>Your dex</h2>
+              <p class="muted">Slots fill on first confirm</p>
+            </div>
+            <button type="button" class="btn btn-secondary btn-sm" id="btn-new-log">+ Log</button>
+          </header>
+          <div class="dex-grid" id="dex-grid" aria-label="Collection slots"></div>
+        </div>
+
+        <!-- DETAIL (overlay style inside panel) -->
+        <div class="panel" id="panel-detail" data-panel="detail" role="tabpanel" hidden>
+          <header class="panel-head">
+            <button type="button" class="btn-back" id="btn-detail-back">← Dex</button>
+            <h2 id="detail-title">Sighting</h2>
+          </header>
+          <article class="confirm-card detail-card is-locked" id="detail-card"></article>
+        </div>
+      </main>
+
+      <nav class="tabbar" role="tablist" aria-label="Main">
+        <button type="button" class="tab is-active" role="tab" data-nav="capture" aria-selected="true">
+          <span class="tab-icon" aria-hidden="true">📷</span>
+          <span class="tab-label">Log</span>
+        </button>
+        <button type="button" class="tab" role="tab" data-nav="dex" aria-selected="false">
+          <span class="tab-icon" aria-hidden="true">📗</span>
+          <span class="tab-label">Dex</span>
+        </button>
+      </nav>
+    </section>
+
+    <!-- TOAST -->
+    <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
