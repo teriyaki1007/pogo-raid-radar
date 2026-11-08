@@ -1,7 +1,7 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-11-08T23:10:22+08:00",
+  "updatedAt": "2026-11-09T05:06:29+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "Seven teenagers struck by car outside shop in south Dublin",
+      "source": "BreakingNews.ie",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbWloajFnOWVkc1RHT3dGZWxneGhvNkFLNTBiM2RMWmJFWlkzc1BpZndWNXEwSlBCU2Jwb3NmQzJxb2MtRXduSWZseHk1Mm1XTmtTNkk2VkhtNElnRkpPUU9UNmN0UEhlek9mamlIS29Qa1RuRFM5QkpMOEJaQ0lIQlg0dlpRcFNULU9rUmZ4Rld4NG9qcUpZVU5ybGRCaEZMV0g0NEhQSVRRZ19sSTVpOXBsQ1hRYThwMXA1ZEVDdw?oc=5",
+      "publishedAt": "2026-11-09T03:03:26+08:00"
+    },
+    {
+      "title": "Eight injured as car mounts footpath in south Dublin",
+      "source": "RTE.ie",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8ycHR5ZnVybUpzWXduREZ0UDZDOVNiOTNkbU13cHFEWUM4aVNwYWphbFB6b1RYYkFwNm9FNEd0ck9nYUxBU1E2NXQ1TmxRQkNFUlVNNnlDRWQ0N09icURIMDFqQ3NtUUFfbmpkTUhhdFk?oc=5",
+      "publishedAt": "2026-11-09T02:06:44+08:00"
+    },
+    {
+      "title": "Seven teenagers struck by car in Dublin",
+      "source": "Belfast Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdzFLSzREU2I4MUx5dG55NVZkWnZ2MVFGaV9XT3Z0TloxSWZkcUlTWkhSakg2ZHdpSElQcGZxRExLLUpMdnVGWnFaYWY1S1BIbm9kdUdTSmNaRWdkSWc3X0d2M0RoR2pMd2NyLXBwTlZQTElJRU4yNDlNQS12UXBlU2hDMTFrU3RJcmhBd0wzd3VVZ3lfV0dCeVFfZ29LWHllZ2o5V0tKMTZpTzVkaHl2ajhGQm1Mbk0?oc=5",
+      "publishedAt": "2026-11-09T01:41:28+08:00"
+    },
+    {
+      "title": "Eight people in hospital after car hits pedestrians in South Dublin",
+      "source": "The Journal",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9RVE13V2tIUFV0LWNINVpYWDNPS05RSFZWcmNBVVBXc0ZpdVV4NjlPMnRub3ZrY1F0bHBLV3R2WTVILVMtOEs4T2JOLXVrY0xhOUpwd3hCM1haSFd0UXAxcFN3Nk80T294WjhWX1FwNjVxVHZW?oc=5",
+      "publishedAt": "2026-11-09T00:43:00+08:00"
+    },
+    {
+      "title": "EU meetings and public sector strike to disrupt Dublin roads and transport",
+      "source": "BreakingNews.ie",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaTFzU0gyVkRqSnlzYkwxU0RpaV9mRTFEdFdxNXRCR19qeFZ1SE1TTkpxVWFlMm0xYXdqNlFjcVMxQTQxQjJsYjhmdWVnLXUzcFBJZkFOcmxQX1VQTFVWNmtkdlo2MnBBQjBUZFZMZG02QUdrcGlaX3ppNDE0NS0tSHVWeVozdHNGTzY0LVVYQmRhNTl6R0pCMkRGa1R6SXBUcXZwT2dpOFJoYWJhTm1SOTV2Z003Tnk4N2RiRHZ4WkQ?oc=5",
+      "publishedAt": "2026-11-09T00:10:37+08:00"
+    },
+    {
+      "title": "Dublin by Night Fest draws record numbers to city centre",
+      "source": "Irish Independent",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUHU3a0ZXYzVWTHltY0tyM05JMjNVMklGZWxUbWxERjkxNGh0Yi1ncEpWbmoxbjY4a1l2dUludFB5RnB3amVuUWpIclJTLUNieFA2T3ZFTnNiSHN5Q1hFWG9vVDE2LUhjZWt3b0NOenRJR0QwSEhhT1FZdXROelM5NWV1WG1rUnVIUG12ODRkQ0ludkxUYlJXY2h3ZjN2WnBsdXdJS1JLZFJOQ0ZpYzlrTA?oc=5",
+      "publishedAt": "2026-11-08T22:55:00+08:00"
+    },
+    {
       "title": "Dublin launches ‘blueprint’ for united Ireland",
       "source": "Financial Times",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2EzTklWODFIc0V6Q1BaSTU0bDloaHB4c04tQWJTTVlVMHRXSTI1VHlWdjN6ZFVVZENLNDBvVmJVTjlaWHFpYUt5a0VhdWxERmpBcEl0RjVLbkYxRS0wWmp5MlR3RTgzNzluemhTYkhwdUdNQllYV1lrRmNxcEE5WWdWZ1Q?oc=5",
@@ -40,42 +76,6 @@
       "source": "The Mayo News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDFmSlNjdm5peXZyUVJwVldrb0ZqbkptcW5rZDJMeVNnR3FqaDg4bTZZNVhNTkMyMTJpTlZkRGI1Y1RwUGEweDJmOFNmMlktY0xNSGFTdENjZFhGQVdYRk95UUJWbVBfOFpBNHI2ZFNZTHFwYU9EWkdoblMwZWZKTVV2SDVKbWJOVTZXci1DYkpWN2E4Zk0zQmVleEpKTmRVYmc?oc=5",
       "publishedAt": "2026-11-08T21:11:00+08:00"
-    },
-    {
-      "title": "Hugo Keenan admits Ireland still have plenty to prove despite win over Argentina",
-      "source": "Belfast News Letter",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR3Q2R19YcnpsaUxvZThSU1VsSDJyZDJLanFYaVRiMUFqVGRtYmdKbmFsbWthNldNVXVtMGpUVXVaSWhPb1AwN1FkbkJsSXJzNi1uY0RHSmZqQkZIVmptSjJvM25SRDAtT3l3ZUpSRi1uTVlGVm9ZanpuLVVSbHgyZzVIazEtNHlFNVg2aGpyMW54VDUyT3JFMmZhbVA3bUoxY3E2SVd2VTJYZHZHLUEwNURvb204MTd5ZUFxTTVsVjcxV0dmNV9YemVhOWlwTTRp?oc=5",
-      "publishedAt": "2026-11-08T19:18:00+08:00"
-    },
-    {
-      "title": "RS Aero European Championship 2027 set for Dun Laoghaire, Ireland",
-      "source": "Sail-World.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEV5SzNXbDhuTG9NZVNkemM2QnNhVE1uMWx6REJ5a1lKZ1gyMTFfT3ZrQWRKOWl6YjI4VHE4MlE5eWpuekhEZXhKNU1IajdXbmVyWjZRdU9iaWxTV25mYXhod3psRGpPcWNhWnEyN3dRY2FTLUI4cUNlNmVqVGVQLXk3LURhX0FMX1Fz?oc=5",
-      "publishedAt": "2026-11-08T17:44:00+08:00"
-    },
-    {
-      "title": "Gardaí investigate threats against Ireland’s media organizations",
-      "source": "https://www.irishsun.com/",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdE1oVGtHRl9HN01FTF8yTzgwTkF5Z1lMVHRlVURCUHZVZG5WbEY5NXdwVFlfZnA0NFR0ekJoUmxQa3o0ekhtLWh6UUpZQWhjaEtScDVJMVZ6MFlRMHhPMXZpYnA5SlY0OG44ZkZ0b0YtUjlMcWRJRU9ia0RCdVFyQk13WkltM2p2Y0t5U0FDNkFUWFV5Z01KaEdPcERiUG9rbGhxUldLWQ?oc=5",
-      "publishedAt": "2026-11-08T16:05:00+08:00"
-    },
-    {
-      "title": "‘I can’t wait to leave’ – In Ireland’s fastest growing town, residents are growing tired of waiting for facilities",
-      "source": "Irish Independent",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX1BFVWgtWFhTcnFTVGl6Ymd5Uk9nSThqY1hfaTNOUDFkdWo3Z25ia0t3NXoyeUk1LW5kcWJRMGpFc3JaUzFfS2E5WjhMQ2o4RkNaa3JaWUJ6dFA3MTZpNFF0eUN5TDZMa3l3MzY4MU1xVjRYRU1JN3E5YUJ5djFFRDRINm1HbHBFY1Y5OVlLaHFKSFlNYm5GeDdwZkhsWkdldVYtTUt5aFFfMEh1cjJ0aEw4X01PeEZGWWhjQW9NbmhfMllVYXc1RS1TanU0Yy0yZ05BYjQzajJvSmIzX2kzUzVWRFExeUxvLXh6aXZzMWJENUtm?oc=5",
-      "publishedAt": "2026-11-08T13:30:00+08:00"
-    },
-    {
-      "title": "Social welfare Ireland alert as Government issues November Child Benefit update",
-      "source": "Dublin Live",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3NZbkZQZ0JLNTM1WnpYemw2OW53clM0eDZOSFBEZ0lrTmsyZnhhTWVzS1JJY2x2cmQtT2c5NXJVWFJGcVdhejZ4OXNSN0lmLVBJQnl1ak15ODF1dklvQk5XOG50TXVHeEwwSEdTMHR5cTVjQ3A5dnl1VWd1bDhYN1dSaG1QQQ?oc=5",
-      "publishedAt": "2026-11-08T10:01:17+08:00"
-    },
-    {
-      "title": "Four arrested and cash seized as part of intimidation crackdown in Dublin",
-      "source": "The Irish Times",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeDNwemE3OHZCUEp1eHhkY2k5Q25wTlU4Mkl2M2VMWVJPM3Z4M2RCN0lHeFB3SjZuV0NOdFdGVGpOcFV0QWZCUF9Mc08xR2VmakFIN3hTZU1lSWtYelhYVldKOVgtZ3I0Y1FjU3NjcUxlUG5DVW9VTXFJdklkLWx1aXdMYU1URGZSNXFKQlZXSTBabEk4aE1xcG1LQ3N6VENseDBjb3BMZzY0Q1p6ekxDVkdZa2ZJVG50Q2k2a21DQmlQSGc5U0lOVXdWakxIbF9DRnFvRTY5MA?oc=5",
-      "publishedAt": "2026-11-08T06:50:08+08:00"
     }
   ]
 }
