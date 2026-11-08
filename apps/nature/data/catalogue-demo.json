@@ -2,7 +2,7 @@
   "meta": {
     "demo": true,
     "version": "0.1.0-demo",
-    "title": "Nature Catalogue — demo data",
+    "title": "Nature Catalogue \u2014 demo data",
     "note": "SAMPLE / placeholder species facts only. Species Guide owns real fact packs later. Personal dex/sightings/XP stay per account; speciesCards are the shared store shape.",
     "slotCount": 12,
     "xp": {
@@ -21,79 +21,165 @@
       "id": "demo-european-robin",
       "commonName": "SAMPLE: European Robin",
       "scientificName": "Erithacus rubecula",
-      "averageSize": "~12.5–14 cm; ~16–22 g",
+      "averageSize": "~12.5\u201314 cm; ~16\u201322 g",
       "nativeRange": "Europe, western Russia, parts of North Africa / Middle East (demo summary)",
       "habitat": "Gardens, woodland edges, parks, hedgerows",
       "seasonality": "Year-round resident in much of range; more visible in winter gardens (demo)",
-      "lookalikes": ["SAMPLE: Japanese Robin", "SAMPLE: Bluethroat (female/juvenile)"],
-      "caution": "Demo card — not a field ID. Do not handle wild birds.",
-      "sources": ["DEMO PLACEHOLDER — replace with Species Guide sources"],
-      "emoji": "🐦"
+      "lookalikes": [
+        "SAMPLE: Japanese Robin",
+        "SAMPLE: Bluethroat (female/juvenile)"
+      ],
+      "caution": "Demo card \u2014 not a field ID. Do not handle wild birds.",
+      "sources": [
+        "DEMO PLACEHOLDER \u2014 replace with Species Guide sources"
+      ],
+      "emoji": "\ud83d\udc26",
+      "kind": "animal",
+      "types": [
+        "Sky",
+        "Meadow"
+      ],
+      "rarity": "common",
+      "bp": 140,
+      "habitatAffinity": [
+        "urban",
+        "tree"
+      ]
     },
     {
       "id": "demo-coast-redwood",
       "commonName": "SAMPLE: Coast Redwood",
       "scientificName": "Sequoia sempervirens",
-      "averageSize": "Typically 60–100+ m tall in old growth (demo)",
+      "averageSize": "Typically 60\u2013100+ m tall in old growth (demo)",
       "nativeRange": "Coastal California and southwest Oregon fog belt (demo summary)",
       "habitat": "Moist coastal forests, valleys with summer fog",
       "seasonality": "Evergreen; cones mature over multiple seasons (demo)",
-      "lookalikes": ["SAMPLE: Giant Sequoia", "SAMPLE: Dawn Redwood"],
-      "caution": "Demo card — not a field ID.",
-      "sources": ["DEMO PLACEHOLDER — replace with Species Guide sources"],
-      "emoji": "🌲"
+      "lookalikes": [
+        "SAMPLE: Giant Sequoia",
+        "SAMPLE: Dawn Redwood"
+      ],
+      "caution": "Demo card \u2014 not a field ID.",
+      "sources": [
+        "DEMO PLACEHOLDER \u2014 replace with Species Guide sources"
+      ],
+      "emoji": "\ud83c\udf32",
+      "kind": "plant",
+      "types": [
+        "Forest"
+      ],
+      "rarity": "common",
+      "bp": 0,
+      "habitatAffinity": [
+        "tree"
+      ]
     },
     {
       "id": "demo-common-starfish",
       "commonName": "SAMPLE: Common Starfish",
       "scientificName": "Asterias rubens",
-      "averageSize": "Arms often ~10–30 cm across (demo)",
+      "averageSize": "Arms often ~10\u201330 cm across (demo)",
       "nativeRange": "Northeast Atlantic rocky shores (demo summary)",
       "habitat": "Intertidal and subtidal rocky bottoms, tide pools",
       "seasonality": "Visible year-round; easiest at low tide (demo)",
-      "lookalikes": ["SAMPLE: Spiny starfish", "SAMPLE: Soft coral / anemone forms (distant)"],
-      "caution": "Demo card — leave tidepool animals in place; do not pry from rocks.",
-      "sources": ["DEMO PLACEHOLDER — replace with Species Guide sources"],
-      "emoji": "🌊"
+      "lookalikes": [
+        "SAMPLE: Spiny starfish",
+        "SAMPLE: Soft coral / anemone forms (distant)"
+      ],
+      "caution": "Demo card \u2014 leave tidepool animals in place; do not pry from rocks.",
+      "sources": [
+        "DEMO PLACEHOLDER \u2014 replace with Species Guide sources"
+      ],
+      "emoji": "\ud83c\udf0a",
+      "kind": "animal",
+      "types": [
+        "Ocean"
+      ],
+      "rarity": "common",
+      "bp": 110,
+      "habitatAffinity": [
+        "ocean",
+        "wetland"
+      ]
     },
     {
       "id": "demo-monarch",
       "commonName": "SAMPLE: Monarch Butterfly",
       "scientificName": "Danaus plexippus",
-      "averageSize": "Wingspan ~8.9–10.2 cm (demo)",
+      "averageSize": "Wingspan ~8.9\u201310.2 cm (demo)",
       "nativeRange": "Americas; migratory populations well known in N. America (demo summary)",
       "habitat": "Open fields, meadows, gardens with milkweed / nectar plants",
       "seasonality": "Warm months; migration pulses in fall/spring (demo)",
-      "lookalikes": ["SAMPLE: Viceroy", "SAMPLE: Queen butterfly"],
-      "caution": "Demo card — not a field ID. Caterpillars feed on milkweed (toxic to some predators).",
-      "sources": ["DEMO PLACEHOLDER — replace with Species Guide sources"],
-      "emoji": "🦋"
+      "lookalikes": [
+        "SAMPLE: Viceroy",
+        "SAMPLE: Queen butterfly"
+      ],
+      "caution": "Demo card \u2014 not a field ID. Caterpillars feed on milkweed (toxic to some predators).",
+      "sources": [
+        "DEMO PLACEHOLDER \u2014 replace with Species Guide sources"
+      ],
+      "emoji": "\ud83e\udd8b",
+      "kind": "animal",
+      "types": [
+        "Bug",
+        "Meadow"
+      ],
+      "rarity": "uncommon",
+      "bp": 180,
+      "habitatAffinity": [
+        "grassland"
+      ]
     },
     {
       "id": "demo-fly-agaric",
       "commonName": "SAMPLE: Fly Agaric",
       "scientificName": "Amanita muscaria",
-      "averageSize": "Cap often ~8–20 cm across (demo)",
+      "averageSize": "Cap often ~8\u201320 cm across (demo)",
       "nativeRange": "Temperate Northern Hemisphere woodlands (demo summary)",
       "habitat": "Under birch, pine, spruce; forest floors and edges",
       "seasonality": "Late summer to autumn fruiting (demo)",
-      "lookalikes": ["SAMPLE: Other Amanita species", "SAMPLE: Lookalike red-capped mushrooms"],
-      "caution": "DEMO — TOXIC if eaten. Never eat wild fungi from an app ID. Species Guide must confirm before any real card.",
-      "sources": ["DEMO PLACEHOLDER — replace with Species Guide sources"],
-      "emoji": "🍄"
+      "lookalikes": [
+        "SAMPLE: Other Amanita species",
+        "SAMPLE: Lookalike red-capped mushrooms"
+      ],
+      "caution": "DEMO \u2014 TOXIC if eaten. Never eat wild fungi from an app ID. Species Guide must confirm before any real card.",
+      "sources": [
+        "DEMO PLACEHOLDER \u2014 replace with Species Guide sources"
+      ],
+      "emoji": "\ud83c\udf44",
+      "kind": "other",
+      "types": [
+        "Shadow",
+        "Forest"
+      ],
+      "rarity": "uncommon",
+      "bp": 0,
+      "habitatAffinity": [
+        "tree"
+      ]
     },
     {
       "id": "demo-unknown",
       "commonName": "SAMPLE: Unidentified organism",
-      "scientificName": "— (unknown / lookalike set)",
+      "scientificName": "\u2014 (unknown / lookalike set)",
       "averageSize": "Unknown (demo)",
       "nativeRange": "Insufficient data (demo)",
       "habitat": "As logged by observer",
-      "seasonality": "—",
-      "lookalikes": ["Could be plant", "Could be animal", "Needs clearer photo"],
-      "caution": "Photo not sufficient for a sure ID. Mark unsure / unknown — do not invent a binomial.",
-      "sources": ["DEMO PLACEHOLDER"],
-      "emoji": "❓"
+      "seasonality": "\u2014",
+      "lookalikes": [
+        "Could be plant",
+        "Could be animal",
+        "Needs clearer photo"
+      ],
+      "caution": "Photo not sufficient for a sure ID. Mark unsure / unknown \u2014 do not invent a binomial.",
+      "sources": [
+        "DEMO PLACEHOLDER"
+      ],
+      "emoji": "\u2753",
+      "kind": "other",
+      "types": [],
+      "rarity": "common",
+      "bp": 0,
+      "habitatAffinity": []
     }
   ],
   "demoUser": {
@@ -102,13 +188,23 @@
       {
         "id": "sight-demo-001",
         "photoRefs": [],
-        "place": { "label": "Demo garden path", "lat": null, "lng": null, "precision": "label-only" },
+        "place": {
+          "label": "Demo garden path",
+          "lat": null,
+          "lng": null,
+          "precision": "label-only"
+        },
         "observedAt": "2026-11-07T09:30:00+08:00",
         "notes": "SAMPLE seed sighting for empty-state preview",
-        "tags": ["demo", "bird"],
+        "tags": [
+          "demo",
+          "bird"
+        ],
         "idConfidence": "likely",
         "speciesRef": "demo-european-robin",
-        "lookalikeRefs": ["SAMPLE: Japanese Robin"],
+        "lookalikeRefs": [
+          "SAMPLE: Japanese Robin"
+        ],
         "privacy": "private",
         "confirmed": true,
         "status": "filled",
@@ -124,23 +220,102 @@
         "photoRef": null,
         "sightingId": "sight-demo-001"
       },
-      { "slotId": "slot-2", "taxonId": null, "status": "empty", "firstSeenAt": null, "photoRef": null, "sightingId": null },
-      { "slotId": "slot-3", "taxonId": null, "status": "empty", "firstSeenAt": null, "photoRef": null, "sightingId": null },
-      { "slotId": "slot-4", "taxonId": null, "status": "empty", "firstSeenAt": null, "photoRef": null, "sightingId": null },
-      { "slotId": "slot-5", "taxonId": null, "status": "empty", "firstSeenAt": null, "photoRef": null, "sightingId": null },
-      { "slotId": "slot-6", "taxonId": null, "status": "empty", "firstSeenAt": null, "photoRef": null, "sightingId": null },
-      { "slotId": "slot-7", "taxonId": null, "status": "empty", "firstSeenAt": null, "photoRef": null, "sightingId": null },
-      { "slotId": "slot-8", "taxonId": null, "status": "empty", "firstSeenAt": null, "photoRef": null, "sightingId": null },
-      { "slotId": "slot-9", "taxonId": null, "status": "empty", "firstSeenAt": null, "photoRef": null, "sightingId": null },
-      { "slotId": "slot-10", "taxonId": null, "status": "empty", "firstSeenAt": null, "photoRef": null, "sightingId": null },
-      { "slotId": "slot-11", "taxonId": null, "status": "empty", "firstSeenAt": null, "photoRef": null, "sightingId": null },
-      { "slotId": "slot-12", "taxonId": null, "status": "empty", "firstSeenAt": null, "photoRef": null, "sightingId": null }
+      {
+        "slotId": "slot-2",
+        "taxonId": null,
+        "status": "empty",
+        "firstSeenAt": null,
+        "photoRef": null,
+        "sightingId": null
+      },
+      {
+        "slotId": "slot-3",
+        "taxonId": null,
+        "status": "empty",
+        "firstSeenAt": null,
+        "photoRef": null,
+        "sightingId": null
+      },
+      {
+        "slotId": "slot-4",
+        "taxonId": null,
+        "status": "empty",
+        "firstSeenAt": null,
+        "photoRef": null,
+        "sightingId": null
+      },
+      {
+        "slotId": "slot-5",
+        "taxonId": null,
+        "status": "empty",
+        "firstSeenAt": null,
+        "photoRef": null,
+        "sightingId": null
+      },
+      {
+        "slotId": "slot-6",
+        "taxonId": null,
+        "status": "empty",
+        "firstSeenAt": null,
+        "photoRef": null,
+        "sightingId": null
+      },
+      {
+        "slotId": "slot-7",
+        "taxonId": null,
+        "status": "empty",
+        "firstSeenAt": null,
+        "photoRef": null,
+        "sightingId": null
+      },
+      {
+        "slotId": "slot-8",
+        "taxonId": null,
+        "status": "empty",
+        "firstSeenAt": null,
+        "photoRef": null,
+        "sightingId": null
+      },
+      {
+        "slotId": "slot-9",
+        "taxonId": null,
+        "status": "empty",
+        "firstSeenAt": null,
+        "photoRef": null,
+        "sightingId": null
+      },
+      {
+        "slotId": "slot-10",
+        "taxonId": null,
+        "status": "empty",
+        "firstSeenAt": null,
+        "photoRef": null,
+        "sightingId": null
+      },
+      {
+        "slotId": "slot-11",
+        "taxonId": null,
+        "status": "empty",
+        "firstSeenAt": null,
+        "photoRef": null,
+        "sightingId": null
+      },
+      {
+        "slotId": "slot-12",
+        "taxonId": null,
+        "status": "empty",
+        "firstSeenAt": null,
+        "photoRef": null,
+        "sightingId": null
+      }
     ],
     "progress": {
       "xpTotal": 40,
       "streakDays": 1,
       "lastConfirmDay": "2026-11-07",
-      "badges": ["first-find"]
+      "badges": [
+        "first-find"
+      ]
     }
   }
 }

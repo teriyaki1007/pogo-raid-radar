@@ -28,6 +28,54 @@
     { id: "streak-3", label: "3-day streak", icon: "🔥", needStreak: 3 },
   ];
 
+  /** Locked Catalogue chart: Strong ×1.6 / Weak ×0.6 */
+  const TYPE_CHART = {
+    Forest: { strong: ["Earth", "River"], weak: ["Fire", "Ice", "Bug"] },
+    Ocean: { strong: ["Fire", "Earth"], weak: ["Storm", "Meadow", "River"] },
+    Sky: { strong: ["Bug", "Meadow"], weak: ["Ice", "Storm", "Crystal"] },
+    Earth: { strong: ["Fire", "Storm", "Crystal"], weak: ["Ocean", "Ice", "Forest"] },
+    Fire: { strong: ["Forest", "Ice", "Bug"], weak: ["Ocean", "River", "Earth"] },
+    Ice: { strong: ["Sky", "Forest", "Meadow"], weak: ["Fire", "Crystal", "Earth"] },
+    Bug: { strong: ["Forest", "Meadow", "Shadow"], weak: ["Fire", "Sky", "Ice"] },
+    Shadow: { strong: ["Sky", "Meadow", "Crystal"], weak: ["Bug", "Fire", "Storm"] },
+    River: { strong: ["Fire", "Earth"], weak: ["Forest", "Meadow", "Ocean"] },
+    Meadow: { strong: ["Earth", "River", "Ocean"], weak: ["Fire", "Ice", "Bug"] },
+    Storm: { strong: ["Ocean", "Sky", "Bug"], weak: ["Earth", "Crystal"] },
+    Crystal: { strong: ["Shadow", "Ice", "Storm"], weak: ["Earth", "Fire", "Bug"] },
+  };
+
+  const HABITATS = [
+    { id: "tree", label: "Tree", icon: "🌳" },
+    { id: "ocean", label: "Ocean", icon: "🌊" },
+    { id: "grassland", label: "Grassland", icon: "🌾" },
+    { id: "wetland", label: "Wetland", icon: "🪷" },
+    { id: "urban", label: "Urban", icon: "🏙️" },
+    { id: "mountain", label: "Mountain", icon: "⛰️" },
+  ];
+
+  const DEMO_FRIENDS_SEED = [
+    { username: "trailfox", status: "online", pending: false },
+    { username: "tidewalker", status: "offline", pending: false },
+    { username: "meadowjay", status: "online", pending: false },
+  ];
+
+  const DEMO_REQUESTS_SEED = [
+    { username: "crystalfern", status: "pending" },
+  ];
+
+  /** Demo combat seeds when speciesCards lack game-layer fields yet */
+  const DEMO_FIGHTERS = [
+    { id: "demo-european-robin", kind: "animal", types: ["Sky", "Meadow"], rarity: "common", bp: 140, habitatAffinity: ["urban", "tree"], emoji: "🐦" },
+    { id: "demo-common-starfish", kind: "animal", types: ["Ocean"], rarity: "common", bp: 110, habitatAffinity: ["ocean", "wetland"], emoji: "🌊" },
+    { id: "demo-monarch", kind: "animal", types: ["Bug", "Meadow"], rarity: "uncommon", bp: 180, habitatAffinity: ["grassland"], emoji: "🦋" },
+    { id: "demo-woodpecker", kind: "animal", types: ["Forest", "Sky"], rarity: "rare", bp: 360, habitatAffinity: ["tree", "mountain"], emoji: "🪶",
+      commonName: "SAMPLE: Forest woodpecker", scientificName: "Exemplar picus" },
+    { id: "demo-fox", kind: "animal", types: ["Earth", "Meadow"], rarity: "uncommon", bp: 280, habitatAffinity: ["grassland", "urban"], emoji: "🦊",
+      commonName: "SAMPLE: Meadow fox", scientificName: "Exemplar vulpes" },
+    { id: "demo-otter", kind: "animal", types: ["River", "Earth"], rarity: "rare", bp: 410, habitatAffinity: ["wetland"], emoji: "🦦",
+      commonName: "SAMPLE: River otter", scientificName: "Exemplar lutra" },
+  ];
+
   let catalogue = null;
   let speciesCards = [];
   let SLOT_COUNT = 12;
@@ -56,6 +104,16 @@
   const captureForm = $("#capture-form");
   const observedAt = $("#observed-at");
 
+  let battle = {
+    step: "lobby",
+    mode: "casual",
+    habitat: "tree",
+    opponent: null,
+    partyIds: [],
+    foeParty: [],
+    lastResult: null,
+  };
+
   async function boot() {
     try {
       const res = await fetch(DATA_URL);
@@ -77,6 +135,7 @@
     bindCapture();
     bindConfirm();
     bindNav();
+    bindFriends();
     bindLogout();
 
     if (window.NatureApi && window.NatureApi.getToken()) {
@@ -129,6 +188,9 @@
         lastConfirmDay: null,
         badges: [],
       },
+      friends: DEMO_FRIENDS_SEED.map((f) => ({ ...f })),
+      friendRequests: DEMO_REQUESTS_SEED.map((r) => ({ ...r })),
+      rating: 1000,
     };
   }
 
@@ -149,6 +211,9 @@
         lastConfirmDay: du.progress?.lastConfirmDay ?? null,
         badges: Array.isArray(du.progress?.badges) ? [...du.progress.badges] : [],
       },
+      friends: DEMO_FRIENDS_SEED.map((f) => ({ ...f })),
+      friendRequests: DEMO_REQUESTS_SEED.map((r) => ({ ...r })),
+      rating: 1000,
     };
   }
 
@@ -173,6 +238,9 @@
       slots: Array.isArray(s.slots) && s.slots.length === SLOT_COUNT ? s.slots : base.slots,
       sightings: Array.isArray(s.sightings) ? s.sightings : [],
       progress: { ...base.progress, ...(s.progress || {}) },
+      friends: Array.isArray(s.friends) ? s.friends : base.friends,
+      friendRequests: Array.isArray(s.friendRequests) ? s.friendRequests : base.friendRequests,
+      rating: typeof s.rating === "number" ? s.rating : base.rating,
     };
   }
 
@@ -916,10 +984,443 @@
         } else if (nav === "dex") {
           renderDex();
           showPanel("dex");
+        } else if (nav === "friends") {
+          renderFriends();
+          showPanel("friends");
+        } else if (nav === "battle") {
+          battle.step = "lobby";
+          renderBattle();
+          showPanel("battle");
         }
       });
     });
   }
+
+
+  function bindFriends() {
+    const form = $("#friend-add-form");
+    if (!form) return;
+    form.addEventListener("submit", (e) => {
+      e.preventDefault();
+      const input = $("#friend-username");
+      const name = (input.value || "").trim().toLowerCase();
+      if (name.length < 2) return;
+      if (state.user && name === String(state.user.username).toLowerCase()) {
+        showToast("That's you");
+        return;
+      }
+      if ((state.friends || []).some((f) => f.username.toLowerCase() === name)) {
+        showToast("Already friends");
+        return;
+      }
+      state.friendRequests = (state.friendRequests || []).filter(
+        (r) => r.username.toLowerCase() !== name
+      );
+      state.friends = state.friends || [];
+      state.friends.push({ username: name, status: "offline", pending: false });
+      saveState();
+      input.value = "";
+      renderFriends();
+      showToast(`Added @${name} (demo)`);
+    });
+  }
+
+  function renderFriends() {
+    const reqEl = $("#friend-requests");
+    const listEl = $("#friend-list");
+    if (!reqEl || !listEl) return;
+
+    const inbound = (state.friendRequests || []).filter((r) => r.status !== "outgoing");
+    if (!inbound.length) {
+      reqEl.innerHTML = `<li class="empty-hint">No open requests</li>`;
+    } else {
+      reqEl.innerHTML = inbound
+        .map(
+          (r) => `
+        <li class="friend-row" data-user="${escapeHtml(r.username)}">
+          <div class="friend-avatar">${escapeHtml(r.username.slice(0, 1).toUpperCase())}</div>
+          <div class="friend-meta">
+            <div class="friend-name">@${escapeHtml(r.username)}</div>
+            <div class="friend-status">Wants to be friends</div>
+          </div>
+          <div class="friend-actions">
+            <button type="button" class="btn-chip" data-friend-act="accept">Accept</button>
+            <button type="button" class="btn-chip is-danger" data-friend-act="decline">Decline</button>
+          </div>
+        </li>`
+        )
+        .join("");
+    }
+
+    const friends = state.friends || [];
+    if (!friends.length) {
+      listEl.innerHTML = `<li class="empty-hint">No friends yet — add by exact username</li>`;
+    } else {
+      listEl.innerHTML = friends
+        .map((f) => {
+          const online = f.status === "online";
+          return `
+        <li class="friend-row" data-user="${escapeHtml(f.username)}">
+          <div class="friend-avatar">${escapeHtml(f.username.slice(0, 1).toUpperCase())}</div>
+          <div class="friend-meta">
+            <div class="friend-name">@${escapeHtml(f.username)}</div>
+            <div class="friend-status ${online ? "is-online" : ""}">${online ? "Online" : "Offline"}</div>
+          </div>
+          <div class="friend-actions">
+            <button type="button" class="btn-chip" data-friend-act="challenge">Challenge</button>
+          </div>
+        </li>`;
+        })
+        .join("");
+    }
+
+    reqEl.querySelectorAll("[data-friend-act]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const row = btn.closest(".friend-row");
+        const user = row?.dataset.user;
+        const act = btn.dataset.friendAct;
+        if (!user) return;
+        if (act === "accept") {
+          state.friendRequests = (state.friendRequests || []).filter((r) => r.username !== user);
+          if (!(state.friends || []).some((f) => f.username === user)) {
+            state.friends = state.friends || [];
+            state.friends.push({ username: user, status: "online", pending: false });
+          }
+          saveState();
+          renderFriends();
+          showToast(`Friends with @${user}`);
+        } else if (act === "decline") {
+          state.friendRequests = (state.friendRequests || []).filter((r) => r.username !== user);
+          saveState();
+          renderFriends();
+        }
+      });
+    });
+
+    listEl.querySelectorAll('[data-friend-act="challenge"]').forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const user = btn.closest(".friend-row")?.dataset.user;
+        if (!user) return;
+        battle.opponent = user;
+        battle.mode = "casual";
+        battle.step = "lobby";
+        renderBattle();
+        showPanel("battle");
+        showToast(`Challenge @${user}`);
+      });
+    });
+  }
+
+  function enrichFighter(cardOrSeed) {
+    const seed = DEMO_FIGHTERS.find((d) => d.id === cardOrSeed.id) || {};
+    return {
+      id: cardOrSeed.id,
+      commonName: cardOrSeed.commonName || seed.commonName || cardOrSeed.id,
+      scientificName: cardOrSeed.scientificName || seed.scientificName || "",
+      emoji: cardOrSeed.emoji || seed.emoji || "🐾",
+      kind: cardOrSeed.kind || seed.kind || "other",
+      types: cardOrSeed.types || seed.types || [],
+      rarity: cardOrSeed.rarity || seed.rarity || "common",
+      bp: cardOrSeed.bp ?? seed.bp ?? 0,
+      habitatAffinity: cardOrSeed.habitatAffinity || seed.habitatAffinity || [],
+      source: cardOrSeed.source || "card",
+    };
+  }
+
+  function collectAnimalRoster() {
+    const cards = Array.isArray(catalogue?.speciesCards) ? catalogue.speciesCards : [];
+    const fromCards = cards.map((c) => enrichFighter({ ...c, source: "card" }));
+    const seeds = DEMO_FIGHTERS.map((d) => enrichFighter({ ...d, source: "demo" }));
+    const fromSlots = (state.slots || [])
+      .filter((s) => s.status === "filled" || s.status === "uncertain")
+      .map((s) => {
+        const card = findCard(s.taxonId) || { id: s.taxonId };
+        return enrichFighter({ ...card, source: "slot", photoRef: s.photoRef });
+      });
+
+    const seen = new Set();
+    const out = [];
+    [...fromSlots, ...fromCards, ...seeds].forEach((f) => {
+      if (!f.id || seen.has(f.id)) return;
+      if (f.kind !== "animal" || !(f.bp > 0)) return;
+      seen.add(f.id);
+      out.push(f);
+    });
+    return out;
+  }
+
+  function matchupChips(types) {
+    const strong = new Set();
+    const weak = new Set();
+    (types || []).forEach((t) => {
+      const row = TYPE_CHART[t];
+      if (!row) return;
+      row.strong.forEach((x) => strong.add(x));
+      row.weak.forEach((x) => weak.add(x));
+    });
+    [...strong].forEach((t) => {
+      if (weak.has(t)) weak.delete(t);
+    });
+    return { strong: [...strong], weak: [...weak] };
+  }
+
+  function effectiveBp(fighter, habitatId) {
+    const base = fighter.bp || 0;
+    const buff =
+      Array.isArray(fighter.habitatAffinity) && fighter.habitatAffinity.includes(habitatId);
+    return { bp: buff ? Math.round(base * 1.15) : base, buffed: buff };
+  }
+
+  function bestMultiplier(atkTypes, defTypes) {
+    let maxM = 1;
+    (atkTypes || []).forEach((a) => {
+      const row = TYPE_CHART[a];
+      if (!row) return;
+      (defTypes || []).forEach((d) => {
+        let m = 1;
+        if (row.strong.includes(d)) m = 1.6;
+        else if (row.weak.includes(d)) m = 0.6;
+        if (m > maxM) maxM = m;
+      });
+    });
+    return maxM;
+  }
+
+  function pickFoeParty(roster) {
+    const pool = roster.slice().sort(() => Math.random() - 0.5);
+    return pool.slice(0, 3).map((f) => ({ ...f }));
+  }
+
+  function scoreParty(party, foe, habitatId) {
+    let score = 0;
+    party.forEach((mine, i) => {
+      const theirs = foe[i] || foe[0];
+      const myBp = effectiveBp(mine, habitatId).bp;
+      const theirBp = effectiveBp(theirs, habitatId).bp;
+      const mult = bestMultiplier(mine.types, theirs.types);
+      const theirMult = bestMultiplier(theirs.types, mine.types);
+      score += myBp * mult - theirBp * theirMult;
+    });
+    return score;
+  }
+
+  function renderBattle() {
+    const root = $("#battle-flow");
+    if (!root) return;
+
+    if (battle.step === "lobby") {
+      const friends = state.friends || [];
+      const oppOptions = friends.length
+        ? friends
+            .map(
+              (f) =>
+                `<button type="button" class="fighter-card ${battle.opponent === f.username ? "is-selected" : ""}" data-opp="${escapeHtml(f.username)}">
+                  <div class="fighter-emoji">👤</div>
+                  <div>
+                    <div class="fighter-name">@${escapeHtml(f.username)}</div>
+                    <div class="fighter-sub">${f.status === "online" ? "Online" : "Offline"} · challenge</div>
+                  </div>
+                  <span class="bp-pill">VS</span>
+                </button>`
+            )
+            .join("")
+        : `<div class="empty-hint">Add a friend first to challenge</div>`;
+
+      const habitats = HABITATS.map(
+        (h) =>
+          `<button type="button" class="habitat-chip ${battle.habitat === h.id ? "is-active" : ""}" data-hab="${h.id}">${h.icon}<br>${escapeHtml(h.label)}</button>`
+      ).join("");
+
+      root.innerHTML = `
+        <div class="mode-toggle" role="group" aria-label="Mode">
+          <button type="button" class="mode-btn ${battle.mode === "casual" ? "is-active" : ""}" data-mode="casual">
+            <strong>Casual</strong><span>No rating change</span>
+          </button>
+          <button type="button" class="mode-btn ${battle.mode === "ranked" ? "is-active" : ""}" data-mode="ranked">
+            <strong>Ranked</strong><span>Rating ${state.rating ?? 1000}</span>
+          </button>
+        </div>
+        <h3 class="section-label">Habitat field</h3>
+        <div class="habitat-grid">${habitats}</div>
+        <h3 class="section-label">Opponent</h3>
+        <div class="opponent-pick">${oppOptions}</div>
+        <div class="battle-actions">
+          <button type="button" class="btn btn-primary btn-block" id="btn-battle-continue" ${battle.opponent ? "" : "disabled"}>Pick party of 3</button>
+        </div>`;
+
+      root.querySelectorAll("[data-mode]").forEach((b) =>
+        b.addEventListener("click", () => {
+          battle.mode = b.dataset.mode;
+          renderBattle();
+        })
+      );
+      root.querySelectorAll("[data-hab]").forEach((b) =>
+        b.addEventListener("click", () => {
+          battle.habitat = b.dataset.hab;
+          renderBattle();
+        })
+      );
+      root.querySelectorAll("[data-opp]").forEach((b) =>
+        b.addEventListener("click", () => {
+          battle.opponent = b.dataset.opp;
+          renderBattle();
+        })
+      );
+      $("#btn-battle-continue")?.addEventListener("click", () => {
+        if (!battle.opponent) return;
+        battle.partyIds = [];
+        battle.step = "party";
+        renderBattle();
+      });
+      return;
+    }
+
+    if (battle.step === "party") {
+      const roster = collectAnimalRoster();
+      const selected = new Set(battle.partyIds);
+      const cards = roster
+        .map((f) => {
+          const on = selected.has(f.id);
+          const disabled = !on && selected.size >= 3;
+          const { strong, weak } = matchupChips(f.types);
+          const { bp, buffed } = effectiveBp(f, battle.habitat);
+          const types = (f.types || [])
+            .map((t) => `<span class="type-chip">${escapeHtml(t)}</span>`)
+            .join("");
+          const strongHtml = strong
+            .slice(0, 3)
+            .map((t) => `<span class="strong-chip">Strong ${escapeHtml(t)}</span>`)
+            .join("");
+          const weakHtml = weak
+            .slice(0, 3)
+            .map((t) => `<span class="weak-chip">Weak ${escapeHtml(t)}</span>`)
+            .join("");
+          const label = (f.commonName || "").replace(/^SAMPLE:\\s*/i, "");
+          return `
+            <button type="button" class="fighter-card ${on ? "is-selected" : ""} ${disabled ? "is-disabled" : ""}" data-fighter="${escapeHtml(f.id)}">
+              <div class="fighter-emoji">${f.emoji || "🐾"}</div>
+              <div>
+                <div class="fighter-name">${escapeHtml(label)}</div>
+                <div class="type-chips">${types}</div>
+                <div class="matchup-row">${strongHtml}${weakHtml}</div>
+                <div class="fighter-sub">${escapeHtml(f.rarity)} · animals only</div>
+              </div>
+              <span class="bp-pill ${buffed ? "is-buffed" : ""}">${bp} BP${buffed ? " +15%" : ""}</span>
+            </button>`;
+        })
+        .join("");
+
+      root.innerHTML = `
+        <button type="button" class="btn-back" id="btn-party-back">← Lobby</button>
+        <p class="party-count">${selected.size}/3 fighters · animals only</p>
+        <div class="party-picker">${cards || '<div class="empty-hint">No animal fighters yet</div>'}</div>
+        <div class="battle-actions">
+          <button type="button" class="btn btn-primary btn-block" id="btn-start-fight" ${selected.size === 3 ? "" : "disabled"}>Enter battle</button>
+        </div>`;
+
+      $("#btn-party-back")?.addEventListener("click", () => {
+        battle.step = "lobby";
+        renderBattle();
+      });
+      root.querySelectorAll("[data-fighter]").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const id = btn.dataset.fighter;
+          const idx = battle.partyIds.indexOf(id);
+          if (idx >= 0) battle.partyIds.splice(idx, 1);
+          else if (battle.partyIds.length < 3) battle.partyIds.push(id);
+          renderBattle();
+        });
+      });
+      $("#btn-start-fight")?.addEventListener("click", () => {
+        if (battle.partyIds.length !== 3) return;
+        const roster = collectAnimalRoster();
+        const party = battle.partyIds.map((id) => roster.find((r) => r.id === id)).filter(Boolean);
+        let foePool = roster.filter((r) => !battle.partyIds.includes(r.id));
+        if (foePool.length < 3) foePool = roster.slice();
+        battle.foeParty = pickFoeParty(foePool);
+        const score = scoreParty(party, battle.foeParty, battle.habitat);
+        const won = score >= 0;
+        let ratingDelta = 0;
+        if (battle.mode === "ranked") {
+          ratingDelta = won ? 18 : -14;
+          state.rating = (state.rating || 1000) + ratingDelta;
+          saveState();
+        }
+        battle.lastResult = { won, score, ratingDelta, party, foe: battle.foeParty };
+        battle.step = "fight";
+        renderBattle();
+      });
+      return;
+    }
+
+    if (battle.step === "fight" || battle.step === "results") {
+      const res = battle.lastResult;
+      if (!res) {
+        battle.step = "lobby";
+        renderBattle();
+        return;
+      }
+      const hab = HABITATS.find((h) => h.id === battle.habitat) || HABITATS[0];
+
+      function sideHtml(label, party) {
+        return `
+          <div class="arena-side">
+            <div class="arena-label">${escapeHtml(label)}</div>
+            ${party
+              .map((f) => {
+                const { strong, weak } = matchupChips(f.types);
+                const { bp, buffed } = effectiveBp(f, battle.habitat);
+                const types = (f.types || [])
+                  .map((t) => `<span class="type-chip">${escapeHtml(t)}</span>`)
+                  .join("");
+                const name = (f.commonName || "").replace(/^SAMPLE:\\s*/i, "");
+                return `
+                <div class="fighter-card" style="margin-bottom:8px">
+                  <div class="fighter-emoji">${f.emoji || "🐾"}</div>
+                  <div>
+                    <div class="fighter-name">${escapeHtml(name)}</div>
+                    <div class="type-chips">${types}</div>
+                    <div class="matchup-row">
+                      ${strong.slice(0, 2).map((t) => `<span class="strong-chip">×1.6 ${escapeHtml(t)}</span>`).join("")}
+                      ${weak.slice(0, 2).map((t) => `<span class="weak-chip">×0.6 ${escapeHtml(t)}</span>`).join("")}
+                    </div>
+                  </div>
+                  <span class="bp-pill ${buffed ? "is-buffed" : ""}">${bp}${buffed ? " ▲" : ""}</span>
+                </div>`;
+              })
+              .join("")}
+          </div>`;
+      }
+
+      root.innerHTML = `
+        <div class="habitat-banner"><span>${hab.icon} ${escapeHtml(hab.label)} field</span><span>+15% BP if affinity matches</span></div>
+        <div class="battle-arena">
+          ${sideHtml("You", res.party)}
+          ${sideHtml("@" + (battle.opponent || "foe"), res.foe)}
+        </div>
+        <div class="results-card">
+          <h3>${res.won ? "Victory" : "Defeat"}</h3>
+          <p class="muted">${battle.mode === "ranked" ? `Ranked ${res.ratingDelta >= 0 ? "+" : ""}${res.ratingDelta} → ${state.rating}` : "Casual · rating unchanged"}</p>
+          <p class="muted small" style="margin-top:6px">Strong ×1.6 · Weak ×0.6 · dual-type uses best multiplier</p>
+        </div>
+        <div class="battle-actions">
+          <button type="button" class="btn btn-primary btn-block" id="btn-battle-again">Rematch lobby</button>
+          <button type="button" class="btn btn-secondary btn-block" id="btn-battle-friends">Friends</button>
+        </div>`;
+
+      $("#btn-battle-again")?.addEventListener("click", () => {
+        battle.step = "lobby";
+        battle.partyIds = [];
+        battle.lastResult = null;
+        renderBattle();
+      });
+      $("#btn-battle-friends")?.addEventListener("click", () => {
+        renderFriends();
+        showPanel("friends");
+      });
+    }
+  }
+
 
   let toastTimer = null;
   function showToast(msg) {

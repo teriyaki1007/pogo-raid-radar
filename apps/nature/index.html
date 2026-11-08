@@ -190,6 +190,43 @@
           <div class="dex-grid" id="dex-grid" aria-label="Collection slots"></div>
         </div>
 
+
+        <!-- FRIENDS -->
+        <div class="panel" id="panel-friends" data-panel="friends" role="tabpanel" hidden>
+          <header class="panel-head panel-head-row">
+            <div>
+              <h2>Friends</h2>
+              <p class="muted">Add by username · dex stays private</p>
+            </div>
+          </header>
+          <form id="friend-add-form" class="friend-add">
+            <label class="field field-grow">
+              <span class="sr-only">Username</span>
+              <input type="text" id="friend-username" placeholder="Add by exact username" required minlength="2" autocomplete="off" />
+            </label>
+            <button type="submit" class="btn btn-primary btn-sm" id="btn-friend-add">Add</button>
+          </form>
+          <div class="friends-section">
+            <h3 class="section-label">Requests</h3>
+            <ul class="friend-list" id="friend-requests" aria-label="Friend requests"></ul>
+          </div>
+          <div class="friends-section">
+            <h3 class="section-label">Friends</h3>
+            <ul class="friend-list" id="friend-list" aria-label="Friends"></ul>
+          </div>
+        </div>
+
+        <!-- BATTLE -->
+        <div class="panel" id="panel-battle" data-panel="battle" role="tabpanel" hidden>
+          <header class="panel-head">
+            <h2>Competitive</h2>
+            <p class="muted">Animals only · party of 3 · habitat buff +15%</p>
+          </header>
+          <div id="battle-flow">
+            <!-- filled by JS: lobby | party | fight | results -->
+          </div>
+        </div>
+
         <!-- DETAIL (overlay style inside panel) -->
         <div class="panel" id="panel-detail" data-panel="detail" role="tabpanel" hidden>
           <header class="panel-head">
@@ -208,6 +245,14 @@
         <button type="button" class="tab" role="tab" data-nav="dex" aria-selected="false">
           <span class="tab-icon" aria-hidden="true">📗</span>
           <span class="tab-label">Dex</span>
+        </button>
+        <button type="button" class="tab" role="tab" data-nav="friends" aria-selected="false">
+          <span class="tab-icon" aria-hidden="true">👥</span>
+          <span class="tab-label">Friends</span>
+        </button>
+        <button type="button" class="tab" role="tab" data-nav="battle" aria-selected="false">
+          <span class="tab-icon" aria-hidden="true">⚔️</span>
+          <span class="tab-label">Battle</span>
         </button>
       </nav>
     </section>
