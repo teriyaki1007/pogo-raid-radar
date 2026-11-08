@@ -109,8 +109,8 @@
   const MOVE_SLOTS = 4;
   const MAX_FIGHTER_LEVEL = 50;
   const XP_PER_LEVEL = 100;
-  const BATTLE_XP_WIN = 40;
-  const BATTLE_XP_LOSS = 20;
+  const BATTLE_XP_WIN = 30;
+  const BATTLE_XP_LOSS = 12;
 
   let pendingMoves = [];
 
@@ -1484,8 +1484,63 @@
         <p class="place-logged">${escapeHtml(sight?.place?.label || "—")} · ${sight ? formatWhen(sight.observedAt) : "—"}</p>
         ${sight?.notes ? `<p class="muted small" style="margin-top:8px">Notes: ${escapeHtml(sight.notes)}</p>` : ""}
         <p class="muted small" style="margin-top:8px">XP from this log: +${sight?.xpAwarded ?? 0}</p>
+        ${
+          isCombatAnimal(sample) || (slot.moves && slot.moves.length)
+            ? `<div class="move-picker" id="detail-moves" style="margin-top:12px">
+                <h4 class="section-label">Edit moves</h4>
+                <p class="muted small">Change outside of fights · exactly ${MOVE_SLOTS}</p>
+                <div class="move-grid" id="detail-move-grid"></div>
+                <p class="muted small" id="detail-move-count"></p>
+                <button type="button" class="btn btn-secondary btn-block" id="btn-save-moves" style="margin-top:8px">Save moves</button>
+              </div>`
+            : ""
+        }
       </div>`;
     showPanel("detail");
+    bindDetailMoves(slot, sample);
+  }
+
+  function bindDetailMoves(slot, sample) {
+    const grid = $("#detail-move-grid");
+    const countEl = $("#detail-move-count");
+    const saveBtn = $("#btn-save-moves");
+    if (!grid || !saveBtn) return;
+    let draft = normalizeMoves(slot.moves || [], fighterTypesFromMeta(sample));
+    function paint() {
+      const learn = learnsetForTypes(fighterTypesFromMeta(sample));
+      grid.innerHTML = learn
+        .map((mv) => {
+          const on = draft.includes(mv.id);
+          return `<button type="button" class="move-chip ${on ? "is-selected" : ""}" data-move="${escapeHtml(mv.id)}" aria-pressed="${on}">
+            <span class="move-name">${escapeHtml(mv.name)}</span>
+            <span class="move-meta">${escapeHtml(mv.type)} · PWR ${mv.power}</span>
+          </button>`;
+        })
+        .join("");
+      if (countEl) countEl.textContent = `${draft.length}/${MOVE_SLOTS} selected`;
+      grid.querySelectorAll("[data-move]").forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const id = btn.dataset.move;
+          const idx = draft.indexOf(id);
+          if (idx >= 0) draft.splice(idx, 1);
+          else if (draft.length < MOVE_SLOTS) draft.push(id);
+          paint();
+        });
+      });
+    }
+    paint();
+    saveBtn.onclick = () => {
+      if (draft.length !== MOVE_SLOTS) {
+        showToast(`Pick exactly ${MOVE_SLOTS} moves`);
+        return;
+      }
+      const live = state.slots.find((s) => s.slotId === slot.slotId);
+      if (!live) return;
+      live.moves = [...draft];
+      saveState();
+      showToast("Moves updated");
+      openDetail(live);
+    };
   }
 
   function bindNav() {
