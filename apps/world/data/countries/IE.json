@@ -1,7 +1,7 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-11-08T17:11:02+08:00",
+  "updatedAt": "2026-11-08T23:10:22+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Dublin launches ‘blueprint’ for united Ireland",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPM2EzTklWODFIc0V6Q1BaSTU0bDloaHB4c04tQWJTTVlVMHRXSTI1VHlWdjN6ZFVVZENLNDBvVmJVTjlaWHFpYUt5a0VhdWxERmpBcEl0RjVLbkYxRS0wWmp5MlR3RTgzNzluemhTYkhwdUdNQllYV1lrRmNxcEE5WWdWZ1Q?oc=5",
+      "publishedAt": "2026-11-08T21:49:18+08:00"
+    },
+    {
+      "title": "Registration open for free hamstring webinar with Mayo and Dublin All-Ireland winners",
+      "source": "The Mayo News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZDFmSlNjdm5peXZyUVJwVldrb0ZqbkptcW5rZDJMeVNnR3FqaDg4bTZZNVhNTkMyMTJpTlZkRGI1Y1RwUGEweDJmOFNmMlktY0xNSGFTdENjZFhGQVdYRk95UUJWbVBfOFpBNHI2ZFNZTHFwYU9EWkdoblMwZWZKTVV2SDVKbWJOVTZXci1DYkpWN2E4Zk0zQmVleEpKTmRVYmc?oc=5",
+      "publishedAt": "2026-11-08T21:11:00+08:00"
+    },
+    {
+      "title": "Hugo Keenan admits Ireland still have plenty to prove despite win over Argentina",
+      "source": "Belfast News Letter",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPR3Q2R19YcnpsaUxvZThSU1VsSDJyZDJLanFYaVRiMUFqVGRtYmdKbmFsbWthNldNVXVtMGpUVXVaSWhPb1AwN1FkbkJsSXJzNi1uY0RHSmZqQkZIVmptSjJvM25SRDAtT3l3ZUpSRi1uTVlGVm9ZanpuLVVSbHgyZzVIazEtNHlFNVg2aGpyMW54VDUyT3JFMmZhbVA3bUoxY3E2SVd2VTJYZHZHLUEwNURvb204MTd5ZUFxTTVsVjcxV0dmNV9YemVhOWlwTTRp?oc=5",
+      "publishedAt": "2026-11-08T19:18:00+08:00"
+    },
+    {
+      "title": "RS Aero European Championship 2027 set for Dun Laoghaire, Ireland",
+      "source": "Sail-World.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcEV5SzNXbDhuTG9NZVNkemM2QnNhVE1uMWx6REJ5a1lKZ1gyMTFfT3ZrQWRKOWl6YjI4VHE4MlE5eWpuekhEZXhKNU1IajdXbmVyWjZRdU9iaWxTV25mYXhod3psRGpPcWNhWnEyN3dRY2FTLUI4cUNlNmVqVGVQLXk3LURhX0FMX1Fz?oc=5",
+      "publishedAt": "2026-11-08T17:44:00+08:00"
+    },
+    {
+      "title": "Gardaí investigate threats against Ireland’s media organizations",
+      "source": "https://www.irishsun.com/",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdE1oVGtHRl9HN01FTF8yTzgwTkF5Z1lMVHRlVURCUHZVZG5WbEY5NXdwVFlfZnA0NFR0ekJoUmxQa3o0ekhtLWh6UUpZQWhjaEtScDVJMVZ6MFlRMHhPMXZpYnA5SlY0OG44ZkZ0b0YtUjlMcWRJRU9ia0RCdVFyQk13WkltM2p2Y0t5U0FDNkFUWFV5Z01KaEdPcERiUG9rbGhxUldLWQ?oc=5",
+      "publishedAt": "2026-11-08T16:05:00+08:00"
+    },
+    {
       "title": "‘I can’t wait to leave’ – In Ireland’s fastest growing town, residents are growing tired of waiting for facilities",
       "source": "Irish Independent",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX1BFVWgtWFhTcnFTVGl6Ymd5Uk9nSThqY1hfaTNOUDFkdWo3Z25ia0t3NXoyeUk1LW5kcWJRMGpFc3JaUzFfS2E5WjhMQ2o4RkNaa3JaWUJ6dFA3MTZpNFF0eUN5TDZMa3l3MzY4MU1xVjRYRU1JN3E5YUJ5djFFRDRINm1HbHBFY1Y5OVlLaHFKSFlNYm5GeDdwZkhsWkdldVYtTUt5aFFfMEh1cjJ0aEw4X01PeEZGWWhjQW9NbmhfMllVYXc1RS1TanU0Yy0yZ05BYjQzajJvSmIzX2kzUzVWRFExeUxvLXh6aXZzMWJENUtm?oc=5",
@@ -46,36 +76,6 @@
       "source": "The Irish Times",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeDNwemE3OHZCUEp1eHhkY2k5Q25wTlU4Mkl2M2VMWVJPM3Z4M2RCN0lHeFB3SjZuV0NOdFdGVGpOcFV0QWZCUF9Mc08xR2VmakFIN3hTZU1lSWtYelhYVldKOVgtZ3I0Y1FjU3NjcUxlUG5DVW9VTXFJdklkLWx1aXdMYU1URGZSNXFKQlZXSTBabEk4aE1xcG1LQ3N6VENseDBjb3BMZzY0Q1p6ekxDVkdZa2ZJVG50Q2k2a21DQmlQSGc5U0lOVXdWakxIbF9DRnFvRTY5MA?oc=5",
       "publishedAt": "2026-11-08T06:50:08+08:00"
-    },
-    {
-      "title": "Putin ‘waging hybrid war on Ireland’ before it hosts EU summit",
-      "source": "The Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbHVuNWluWko3UnUteHBzbG1IXzNIZ1pDVmlCbXJoMGNTNHVFQTlWVV93RjBNX0NwTVZlSTBzbUpJTHlyN2R3NUYxVGZibFdtOWd3NGdOSHAyREJOLTNTOHlYeVljSk1Ca292OXZCSUpKUkcwSjlQODZSbW0wMEVnajZVenFvOExaeXViLWRDRDlZRkJ1NUgtUmc4ZDNmZ2YybXlUcGd4cjBIeXc?oc=5",
-      "publishedAt": "2026-11-08T04:45:00+08:00"
-    },
-    {
-      "title": "Dublin Civil Defence members helped Krakow victims",
-      "source": "RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5zMlpzSHMxZ3BuMkNJaU1IUTgzY2ZNakxOWm9hUUJXNi1SbV8takJqWXBkT2F2VnFWMmlReWlMV1RqZGFXTVIzTElacG9KZjJ0MUJDXy1RazF2eWVrVVExZGNzSjl5ZkJ0ckpRS290cw?oc=5",
-      "publishedAt": "2026-11-08T04:11:21+08:00"
-    },
-    {
-      "title": "How Russia tried to sabotage Ireland’s hosting of crucial EU summit",
-      "source": "The Times",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1N3UkhQcHpQeHozMjB6ZnUwRHJTVTVCaEZReWJ6ZXJPaHpkbndWdTNWbFBFLVN4TGZNZUl6SHh3ZEZuY0VSRjBqNjAwM0VnVm1TQ09HYXp4cXV3a183UjR4UHJYQ0h6M2pxTk1FUmZsLTNxanhaUlN6RGhaSUhpRXNSWTc1SkhveUpua3RYY2xvX3hEX3VaeUl3eHh2QUZnNTlxY3RpZ3g5UUtOMXJQMW45MzNUOEg2cVZj?oc=5",
-      "publishedAt": "2026-11-08T03:00:00+08:00"
-    },
-    {
-      "title": "Dublin protest hears calls for moratorium on new data centres",
-      "source": "RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04VDVpdDhXQjRFdjdxMjAzOUF6Z3E2aW9rb1AxZXNzY3dZdC1CenVMMEFUNTlDVXp2Yk5feDg4TlE1Z2tpT1B6RFo4SUZpTm1HcVVSeFIyeUxpcEVZOUxGYl81bHExVkRERm1iS3ZrNkhWYWU4dmE1SzN3?oc=5",
-      "publishedAt": "2026-11-08T01:52:01+08:00"
-    },
-    {
-      "title": "Dublin Data Centre Protest: 21% of Irish Power [2026]",
-      "source": "tech-insider.org",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWUYtd0h5a1B0YkhYQllOZUtFN0NXRTNGTzZsQUF2bC1jZG54MU9VT1Qwekd5QlN1cmNhWUFIYlJOd3FqLWloOG9wNmhvdTVlbk1MNGtKZmNrWVBjWGl0WWtKLXJ1RG1KY0hiTDF3eFpIUTRUM2E5TVlQdm9OWVVGUk84YWp6THM?oc=5",
-      "publishedAt": "2026-11-08T01:16:04+08:00"
     }
   ]
 }
