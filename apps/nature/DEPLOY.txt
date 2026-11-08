@@ -12,7 +12,7 @@ Dad / CF dashboard (same Pages project as groot.zynergy.studio — once):
 
 Soft defaults:
 - Username/password only (PBKDF2 like Marvel).
-- Photos: client canvas re-encode strips EXIF/GPS; long-edge max 2400, do not upscale below ~1600.
+- Photos: keep EXIF (esp. DateTime) by uploading originals when ≤2400px / ≤6MB; canvas resize only if oversized (drops EXIF). Long-edge floor ~1600 for ID quality; max 2400.
 - Size cap ~6 MB after encode; jpeg/png/webp allowlist.
 - Sightings private by default.
 

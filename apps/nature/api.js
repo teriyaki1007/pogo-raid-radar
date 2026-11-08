@@ -63,7 +63,11 @@
     return true;
   }
 
-  /** Canvas re-encode: strips EXIF/GPS; caps long edge at 2400 (won't upscale). */
+  /**
+   * Prefer original bytes so EXIF DateTime (and other tags) survive for Species Guide.
+   * Canvas resize only when long edge > 2400 or file > 6MB — that path drops EXIF.
+   * GPS may remain on originals; place is still collected on the form.
+   */
   function encodePhoto(file) {
     return new Promise((resolve, reject) => {
       if (!file || !file.type || !/^image\/(jpeg|png|webp)$/i.test(file.type)) {
@@ -74,12 +78,31 @@
       const img = new Image();
       img.onload = () => {
         URL.revokeObjectURL(url);
-        let { width, height } = img;
-        const long = Math.max(width, height);
+        const srcW = img.naturalWidth || img.width;
+        const srcH = img.naturalHeight || img.height;
+        const long = Math.max(srcW, srcH) || 0;
+        const belowGuideFloor = long > 0 && long < LONG_EDGE_MIN_NOTE;
+        const needsResize = long > LONG_EDGE_MAX || file.size > MAX_BYTES;
+
+        if (!needsResize) {
+          resolve({
+            blob: file,
+            width: srcW || null,
+            height: srcH || null,
+            contentType: file.type || "image/jpeg",
+            longEdge: long || null,
+            belowGuideFloor,
+            exifPreserved: true,
+          });
+          return;
+        }
+
+        let width = srcW;
+        let height = srcH;
         if (long > LONG_EDGE_MAX) {
           const scale = LONG_EDGE_MAX / long;
-          width = Math.round(width * scale);
-          height = Math.round(height * scale);
+          width = Math.round(srcW * scale);
+          height = Math.round(srcH * scale);
         }
         const canvas = document.createElement("canvas");
         canvas.width = width;
@@ -93,7 +116,7 @@
               return;
             }
             if (blob.size > MAX_BYTES) {
-              reject(new Error("Photo still too large after encode (max 6 MB)"));
+              reject(new Error("Photo still too large after resize (max 6 MB)"));
               return;
             }
             resolve({
@@ -103,6 +126,7 @@
               contentType: "image/jpeg",
               longEdge: Math.max(width, height),
               belowGuideFloor: Math.max(width, height) < LONG_EDGE_MIN_NOTE,
+              exifPreserved: false,
             });
           },
           "image/jpeg",
@@ -146,16 +170,23 @@
 
   async function uploadPhoto(fileOrBlob, meta = {}) {
     const encoded =
-      fileOrBlob instanceof Blob && !(fileOrBlob instanceof File)
+      fileOrBlob instanceof Blob && !(fileOrBlob instanceof File) && meta.skipEncode
         ? {
             blob: fileOrBlob,
             width: meta.width || null,
             height: meta.height || null,
             contentType: fileOrBlob.type || "image/jpeg",
+            exifPreserved: true,
           }
         : await encodePhoto(fileOrBlob);
     const fd = new FormData();
-    fd.append("photo", encoded.blob, "sighting.jpg");
+    const name =
+      encoded.contentType === "image/png"
+        ? "sighting.png"
+        : encoded.contentType === "image/webp"
+          ? "sighting.webp"
+          : "sighting.jpg";
+    fd.append("photo", encoded.blob, name);
     if (encoded.width) fd.append("width", String(encoded.width));
     if (encoded.height) fd.append("height", String(encoded.height));
     return request("/photos", { method: "POST", formData: fd });

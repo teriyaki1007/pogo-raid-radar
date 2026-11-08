@@ -1,5 +1,6 @@
 /**
  * POST /nature/api/photos — multipart field "photo" (jpeg/png/webp, ≤6MB)
+ * Stores bytes as-is (client should preserve EXIF DateTime when possible).
  * Returns { ok, photoId, url }
  * Env: NATURE_DB, NATURE_PHOTOS, NATURE_AUTH_SECRET
  */

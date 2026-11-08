@@ -190,7 +190,7 @@ Source: `functions/marvel/api/{register,login,progress}.js` (+ `_lib.js`)
 | `GET`/`POST` | `/nature/api/sightings` | Bearer | create/list private sightings |
 | `PATCH`/`DELETE` | `/nature/api/sightings/:id` | Bearer | update/delete own sighting |
 
-Passwords: PBKDF2-SHA-256 (100k), same pattern as Marvel. Photos: client canvas re-encode strips EXIF/GPS; long-edge max 2400.
+Passwords: PBKDF2-SHA-256 (100k), same pattern as Marvel. Photos: keep EXIF DateTime (original upload when ≤2400px/6MB); resize only if oversized.
 
 **Production bindings / secrets** (Cloudflare Pages dashboard — do not commit):
 
