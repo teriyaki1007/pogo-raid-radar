@@ -1958,3 +1958,77 @@ p {
   opacity: 0.55;
   pointer-events: none;
 }
+
+
+/* Move picker + level chrome */
+.move-picker {
+  margin: 12px 0 8px;
+  padding: 12px;
+  border-radius: 14px;
+  background: var(--mint-100, #e8f5ee);
+  border: 1px solid var(--mint-300, #b7e0c8);
+}
+.move-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 8px;
+}
+.move-chip {
+  text-align: left;
+  border: 1.5px solid var(--forest-200, #c5d9cc);
+  background: #fff;
+  border-radius: 12px;
+  padding: 8px 10px;
+  cursor: pointer;
+  font: inherit;
+}
+.move-chip.is-selected {
+  border-color: var(--forest-700, #1f5c3d);
+  background: var(--mint-200, #d4f0e0);
+  box-shadow: inset 0 0 0 1px var(--forest-700, #1f5c3d);
+}
+.move-chip .move-name {
+  display: block;
+  font-weight: 700;
+  font-size: 0.85rem;
+  color: var(--forest-900, #143528);
+}
+.move-chip .move-meta {
+  display: block;
+  font-size: 0.7rem;
+  color: var(--forest-600, #3d6b52);
+  margin-top: 2px;
+}
+.lv-pill {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: #1f3d2e;
+  color: #e8fff2;
+}
+.slot-lv {
+  position: absolute;
+  left: 6px;
+  bottom: 6px;
+  z-index: 1;
+}
+.fighter-sub .lv-pill { margin-right: 4px; }
+.move-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 4px;
+}
+.move-tag {
+  font-size: 0.65rem;
+  font-weight: 700;
+  padding: 2px 6px;
+  border-radius: 6px;
+  background: #eef6f1;
+  color: #1f5c3d;
+}

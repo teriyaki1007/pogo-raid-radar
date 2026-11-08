@@ -44,6 +44,140 @@
     Crystal: { strong: ["Shadow", "Ice", "Storm"], weak: ["Earth", "Fire", "Bug"] },
   };
 
+  /** Type-themed learnsets — Catalogue can tighten names later */
+  const MOVE_DEFS = {
+    Forest: [
+      { id: "leaf-lash", name: "Leaf Lash", power: 45 },
+      { id: "root-bind", name: "Root Bind", power: 30 },
+      { id: "canopy-crush", name: "Canopy Crush", power: 60 },
+    ],
+    Ocean: [
+      { id: "tide-slap", name: "Tide Slap", power: 45 },
+      { id: "brine-burst", name: "Brine Burst", power: 55 },
+      { id: "undertow", name: "Undertow", power: 35 },
+    ],
+    Sky: [
+      { id: "gust-cut", name: "Gust Cut", power: 40 },
+      { id: "divebomb", name: "Divebomb", power: 60 },
+      { id: "tailwind", name: "Tailwind", power: 25 },
+    ],
+    Earth: [
+      { id: "soil-slam", name: "Soil Slam", power: 50 },
+      { id: "quake-step", name: "Quake Step", power: 55 },
+      { id: "burrow", name: "Burrow", power: 20 },
+    ],
+    Fire: [
+      { id: "ember-peck", name: "Ember Peck", power: 45 },
+      { id: "blaze-rush", name: "Blaze Rush", power: 60 },
+    ],
+    Ice: [
+      { id: "frost-nip", name: "Frost Nip", power: 40 },
+      { id: "glacier-ram", name: "Glacier Ram", power: 55 },
+    ],
+    Bug: [
+      { id: "pincer-snap", name: "Pincer Snap", power: 40 },
+      { id: "swarm-buzz", name: "Swarm Buzz", power: 35 },
+      { id: "silk-snare", name: "Silk Snare", power: 25 },
+    ],
+    Shadow: [
+      { id: "umbra-tap", name: "Umbra Tap", power: 40 },
+      { id: "night-slash", name: "Night Slash", power: 55 },
+    ],
+    River: [
+      { id: "current-cut", name: "Current Cut", power: 45 },
+      { id: "spray-jet", name: "Spray Jet", power: 40 },
+    ],
+    Meadow: [
+      { id: "pollen-puff", name: "Pollen Puff", power: 30 },
+      { id: "bloom-bash", name: "Bloom Bash", power: 50 },
+    ],
+    Storm: [
+      { id: "spark-dart", name: "Spark Dart", power: 45 },
+      { id: "thunder-clap", name: "Thunder Clap", power: 60 },
+    ],
+    Crystal: [
+      { id: "shard-shot", name: "Shard Shot", power: 50 },
+      { id: "prism-guard", name: "Prism Guard", power: 20 },
+    ],
+  };
+
+  const UNIVERSAL_MOVES = [
+    { id: "tackle", name: "Tackle", power: 35, type: "Neutral" },
+    { id: "dodge", name: "Dodge", power: 10, type: "Neutral" },
+  ];
+
+  const MOVE_SLOTS = 4;
+  const MAX_FIGHTER_LEVEL = 50;
+  const XP_PER_LEVEL = 100;
+  const BATTLE_XP_WIN = 40;
+  const BATTLE_XP_LOSS = 20;
+
+  let pendingMoves = [];
+
+  function learnsetForTypes(types) {
+    const seen = new Set();
+    const out = [];
+    (types || []).forEach((t) => {
+      (MOVE_DEFS[t] || []).forEach((m) => {
+        if (seen.has(m.id)) return;
+        seen.add(m.id);
+        out.push({ ...m, type: t });
+      });
+    });
+    UNIVERSAL_MOVES.forEach((m) => {
+      if (seen.has(m.id)) return;
+      seen.add(m.id);
+      out.push({ ...m });
+    });
+    return out;
+  }
+
+  function moveById(id) {
+    for (const list of Object.values(MOVE_DEFS)) {
+      const hit = list.find((m) => m.id === id);
+      if (hit) {
+        const type = Object.keys(MOVE_DEFS).find((t) => MOVE_DEFS[t].some((x) => x.id === id));
+        return { ...hit, type };
+      }
+    }
+    return UNIVERSAL_MOVES.find((m) => m.id === id) || null;
+  }
+
+  function normalizeMoves(raw, types) {
+    const learn = learnsetForTypes(types);
+    const ids = Array.isArray(raw) ? raw.filter((id) => learn.some((m) => m.id === id)) : [];
+    const uniq = [...new Set(ids)].slice(0, MOVE_SLOTS);
+    while (uniq.length < MOVE_SLOTS && learn[uniq.length]) {
+      const fill = learn.find((m) => !uniq.includes(m.id));
+      if (!fill) break;
+      uniq.push(fill.id);
+    }
+    return uniq.slice(0, MOVE_SLOTS);
+  }
+
+  function levelFromXp(xp) {
+    const lv = 1 + Math.floor(Math.max(0, xp || 0) / XP_PER_LEVEL);
+    return Math.min(MAX_FIGHTER_LEVEL, lv);
+  }
+
+  function xpIntoLevel(xp) {
+    return Math.max(0, xp || 0) % XP_PER_LEVEL;
+  }
+
+  function applyBattleXpToSlots(partyIds, won) {
+    const gain = won ? BATTLE_XP_WIN : BATTLE_XP_LOSS;
+    const leveled = [];
+    (partyIds || []).forEach((taxonId) => {
+      const slot = (state.slots || []).find((s) => s.taxonId === taxonId && s.status !== "empty");
+      if (!slot) return;
+      const before = levelFromXp(slot.battleXp || 0);
+      slot.battleXp = (slot.battleXp || 0) + gain;
+      slot.level = levelFromXp(slot.battleXp);
+      if (slot.level > before) leveled.push({ id: taxonId, level: slot.level });
+    });
+    return { gain, leveled };
+  }
+
   const HABITATS = [
     { id: "tree", label: "Tree", icon: "🌳" },
     { id: "ocean", label: "Ocean", icon: "🌊" },
@@ -208,7 +342,20 @@
       firstSeenAt: null,
       photoRef: null,
       sightingId: null,
+      level: 1,
+      battleXp: 0,
+      moves: [],
     }));
+  }
+
+  function normalizeSlot(s) {
+    if (!s || typeof s !== "object") return s;
+    return {
+      ...s,
+      level: typeof s.level === "number" ? s.level : levelFromXp(s.battleXp || 0),
+      battleXp: typeof s.battleXp === "number" ? s.battleXp : 0,
+      moves: Array.isArray(s.moves) ? s.moves : [],
+    };
   }
 
   function emptyState() {
@@ -244,7 +391,7 @@
     if (!du) return emptyState();
     const slots =
       Array.isArray(du.slots) && du.slots.length === SLOT_COUNT
-        ? du.slots.map((s) => ({ ...s }))
+        ? du.slots.map((s) => normalizeSlot({ ...s }))
         : emptySlots();
     return {
       user: null,
@@ -281,7 +428,7 @@
     return {
       ...base,
       ...s,
-      slots: Array.isArray(s.slots) && s.slots.length === SLOT_COUNT ? s.slots : base.slots,
+      slots: (Array.isArray(s.slots) && s.slots.length === SLOT_COUNT ? s.slots : base.slots).map(normalizeSlot),
       sightings: Array.isArray(s.sightings) ? s.sightings : [],
       progress: { ...base.progress, ...(s.progress || {}) },
       friends: Array.isArray(s.friends) ? s.friends : base.friends,
@@ -869,15 +1016,66 @@
   }
 
   function fighterThumb(f) {
+    const label = (f.commonName || "fighter").replace(/^SAMPLE:\s*/i, "");
     if (f.photoRef) {
-      return `<div class="fighter-emoji has-photo"><img src="${f.photoRef}" alt="" /></div>`;
+      return `<div class="fighter-emoji has-photo"><img src="${f.photoRef}" alt="${escapeHtml(label)}" /></div>`;
     }
-    return `<div class="fighter-emoji">${escapeHtml(f.emoji || "🐾")}</div>`;
+    return `<div class="fighter-emoji" role="img" aria-label="${escapeHtml(label)}">${escapeHtml(f.emoji || "🐾")}</div>`;
   }
 
   function habitatLabel(id) {
     const h = HABITATS.find((x) => x.id === id);
     return h ? `${h.icon} ${h.label}` : id || "—";
+  }
+
+  function fighterTypesFromMeta(m) {
+    const seed = DEMO_FIGHTERS.find((d) => d.id === (m && m.id));
+    return (m && m.types) || (seed && seed.types) || [];
+  }
+
+  function isCombatAnimal(m) {
+    const seed = DEMO_FIGHTERS.find((d) => d.id === (m && m.id));
+    const kind = (m && m.kind) || (seed && seed.kind) || "";
+    const bp = (m && m.bp) ?? (seed && seed.bp) ?? 0;
+    return kind === "animal" && bp > 0;
+  }
+
+  function renderConfirmMoves(s, m) {
+    const wrap = $("#confirm-moves");
+    const grid = $("#confirm-move-grid");
+    const countEl = $("#confirm-move-count");
+    if (!wrap || !grid) return;
+    if (!isCombatAnimal(m)) {
+      wrap.hidden = true;
+      pendingMoves = [];
+      grid.innerHTML = "";
+      return;
+    }
+    wrap.hidden = false;
+    const types = fighterTypesFromMeta(m);
+    const learn = learnsetForTypes(types);
+    if (!pendingMoves.length) {
+      pendingMoves = normalizeMoves([], types).slice(0, MOVE_SLOTS);
+    }
+    grid.innerHTML = learn
+      .map((mv) => {
+        const on = pendingMoves.includes(mv.id);
+        return `<button type="button" class="move-chip ${on ? "is-selected" : ""}" data-move="${escapeHtml(mv.id)}" aria-pressed="${on}">
+          <span class="move-name">${escapeHtml(mv.name)}</span>
+          <span class="move-meta">${escapeHtml(mv.type)} · PWR ${mv.power}</span>
+        </button>`;
+      })
+      .join("");
+    if (countEl) countEl.textContent = `${pendingMoves.length}/${MOVE_SLOTS} selected`;
+    grid.querySelectorAll("[data-move]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const id = btn.dataset.move;
+        const idx = pendingMoves.indexOf(id);
+        if (idx >= 0) pendingMoves.splice(idx, 1);
+        else if (pendingMoves.length < MOVE_SLOTS) pendingMoves.push(id);
+        renderConfirmMoves(s, m);
+      });
+    });
   }
 
   function renderConfirm(s) {
@@ -902,6 +1100,7 @@
     $("#confirm-habitat").textContent = m.habitat;
     $("#confirm-season").textContent = cardSeason(m);
     renderPopulationFields(m);
+    renderConfirmMoves(s, m);
     $("#confirm-place").textContent = `${s.place.label} · ${formatWhen(s.observedAt)}`;
     renderLookalikesQuiet($("#confirm-lookalikes"), m.lookalikes);
     const disc = $("#confirm-disclaimer");
@@ -945,6 +1144,12 @@
       s.idConfidence = "confirmed";
     }
 
+    const meta = s.sampleMeta || {};
+    if (status === "confirmed" && isCombatAnimal(meta) && pendingMoves.length !== MOVE_SLOTS) {
+      showToast(`Pick ${MOVE_SLOTS} battle moves before collecting`);
+      return;
+    }
+
     let xpGain = XP.confirm + XP.photo;
     const existingSlot = state.slots.find((sl) => sl.taxonId === s.speciesRef && sl.status !== "empty");
     let filledNew = false;
@@ -957,6 +1162,11 @@
         empty.firstSeenAt = s.observedAt;
         empty.photoRef = s.photoRefs[0];
         empty.sightingId = s.id;
+        empty.level = 1;
+        empty.battleXp = 0;
+        empty.moves = isCombatAnimal(meta)
+          ? normalizeMoves(pendingMoves, fighterTypesFromMeta(meta))
+          : [];
         filledNew = true;
         xpGain += XP.newSlot;
       }
@@ -974,6 +1184,7 @@
     saveState();
 
     pendingSighting = null;
+    pendingMoves = [];
     const fileForUpload = photoFile;
     resetCaptureForm();
     renderProgress();
@@ -1153,13 +1364,20 @@
       };
       const sight = state.sightings.find((x) => x.id === slot.sightingId);
       const conf = sight?.idConfidence || (slot.status === "uncertain" ? "unsure" : "likely");
+      const nameShort = shortName(sample.commonName);
       const thumb = slot.photoRef
-        ? `<img class="slot-thumb" src="${slot.photoRef}" alt="" />`
+        ? `<img class="slot-thumb" src="${slot.photoRef}" alt="${escapeHtml(nameShort)}" />`
         : `<div class="slot-thumb-ph">${sample.emoji || "🌿"}</div>`;
+      const lv = slot.level || levelFromXp(slot.battleXp || 0);
+      const lvHtml =
+        sample.kind === "animal" || (slot.moves && slot.moves.length)
+          ? `<span class="lv-pill slot-lv">Lv ${lv}</span>`
+          : "";
       btn.innerHTML = `
         <span class="slot-conf" data-level="${conf}" title="${conf}"></span>
         ${thumb}
-        <span class="slot-name">${escapeHtml(shortName(sample.commonName))}</span>`;
+        ${lvHtml}
+        <span class="slot-name">${escapeHtml(nameShort)}</span>`;
       btn.addEventListener("click", () => openDetail(slot));
       grid.appendChild(btn);
     });
@@ -1242,6 +1460,21 @@
           <div><dt>Habitat</dt><dd>${escapeHtml(sample.habitat || "—")}</dd></div>
           <div><dt>Season</dt><dd>${escapeHtml(cardSeason(sample))}</dd></div>
           ${populationDetailHtml(sample)}
+          ${
+            (slot.moves && slot.moves.length) || sample.kind === "animal"
+              ? `<div><dt>Battle level</dt><dd>Lv ${slot.level || levelFromXp(slot.battleXp || 0)} · ${xpIntoLevel(slot.battleXp || 0)}/${XP_PER_LEVEL} XP</dd></div>
+                 <div class="fact-span"><dt>Moves</dt><dd>${
+                   (slot.moves || []).length
+                     ? (slot.moves || [])
+                         .map((id) => {
+                           const mv = moveById(id);
+                           return mv ? escapeHtml(mv.name) : escapeHtml(id);
+                         })
+                         .join(" · ")
+                     : "—"
+                 }</dd></div>`
+              : ""
+          }
         </dl>
         <div class="lookalikes quiet">
           <div class="lookalike-label">Lookalikes</div>
@@ -1463,6 +1696,10 @@
 
   function enrichFighter(cardOrSeed) {
     const seed = DEMO_FIGHTERS.find((d) => d.id === cardOrSeed.id) || {};
+    const types = cardOrSeed.types || seed.types || [];
+    const moves = normalizeMoves(cardOrSeed.moves || seed.moves || [], types);
+    const battleXp = cardOrSeed.battleXp ?? seed.battleXp ?? 0;
+    const level = cardOrSeed.level ?? levelFromXp(battleXp);
     return {
       id: cardOrSeed.id,
       commonName: cardOrSeed.commonName || seed.commonName || cardOrSeed.id,
@@ -1470,9 +1707,12 @@
       emoji: cardOrSeed.emoji || seed.emoji || "🐾",
       photoRef: cardOrSeed.photoRef || seed.photoRef || null,
       kind: cardOrSeed.kind || seed.kind || "other",
-      types: cardOrSeed.types || seed.types || [],
+      types,
       rarity: cardOrSeed.rarity || seed.rarity || "common",
       bp: cardOrSeed.bp ?? seed.bp ?? 0,
+      level,
+      battleXp,
+      moves,
       habitatAffinity: normalizeHabitatAffinity(cardOrSeed.habitatAffinity || seed.habitatAffinity || []),
       source: cardOrSeed.source || "card",
     };
@@ -1491,7 +1731,14 @@
           s.photoRef ||
           (sight && sight.photoRefs && sight.photoRefs[0]) ||
           null;
-        return enrichFighter({ ...card, source: "slot", photoRef: photo });
+        return enrichFighter({
+          ...card,
+          source: "slot",
+          photoRef: photo,
+          level: s.level || 1,
+          battleXp: s.battleXp || 0,
+          moves: s.moves || [],
+        });
       });
 
     const seen = new Set();
@@ -1522,9 +1769,16 @@
 
   function effectiveBp(fighter, habitatId) {
     const base = fighter.bp || 0;
+    const lv = Math.max(1, fighter.level || 1);
+    const leveled = Math.round(base * (1 + (lv - 1) * 0.05));
+    const moveBonus = (fighter.moves || [])
+      .map((id) => moveById(id))
+      .filter(Boolean)
+      .reduce((sum, m) => sum + (m.power || 0), 0);
+    const withMoves = leveled + Math.round(moveBonus * 0.35);
     const buff =
       Array.isArray(fighter.habitatAffinity) && fighter.habitatAffinity.includes(habitatId);
-    return { bp: buff ? Math.round(base * 1.15) : base, buffed: buff };
+    return { bp: buff ? Math.round(withMoves * 1.15) : withMoves, buffed: buff, level: lv };
   }
 
   function bestMultiplier(atkTypes, defTypes) {
@@ -1547,14 +1801,23 @@
     return pool.slice(0, 3).map((f) => ({ ...f }));
   }
 
+  function attackTypes(fighter) {
+    const fromMoves = (fighter.moves || [])
+      .map((id) => moveById(id))
+      .filter(Boolean)
+      .map((m) => m.type)
+      .filter((t) => t && t !== "Neutral");
+    return fromMoves.length ? fromMoves : fighter.types || [];
+  }
+
   function scoreParty(party, foe, habitatId) {
     let score = 0;
     party.forEach((mine, i) => {
       const theirs = foe[i] || foe[0];
       const myBp = effectiveBp(mine, habitatId).bp;
       const theirBp = effectiveBp(theirs, habitatId).bp;
-      const mult = bestMultiplier(mine.types, theirs.types);
-      const theirMult = bestMultiplier(theirs.types, mine.types);
+      const mult = bestMultiplier(attackTypes(mine), theirs.types);
+      const theirMult = bestMultiplier(attackTypes(theirs), mine.types);
       score += myBp * mult - theirBp * theirMult;
     });
     return score;
@@ -1789,13 +2052,21 @@
             .map((t) => `<span class="type-chip">${escapeHtml(t)}</span>`)
             .join("");
           const label = (f.commonName || "").replace(/^SAMPLE:\s*/i, "");
+          const moveTags = (f.moves || [])
+            .slice(0, 4)
+            .map((id) => {
+              const mv = moveById(id);
+              return mv ? `<span class="move-tag">${escapeHtml(mv.name)}</span>` : "";
+            })
+            .join("");
           return `
             <button type="button" class="fighter-card ${on ? "is-selected" : ""} ${disabled ? "is-disabled" : ""}" data-fighter="${escapeHtml(f.id)}">
               ${fighterThumb(f)}
               <div>
                 <div class="fighter-name">${escapeHtml(label)}</div>
                 <div class="type-chips">${types}</div>
-                <div class="fighter-sub">${escapeHtml(f.rarity)} · animals only</div>
+                <div class="fighter-sub"><span class="lv-pill">Lv ${f.level || 1}</span> ${escapeHtml(f.rarity)}</div>
+                <div class="move-tags">${moveTags}</div>
               </div>
               <span class="bp-pill ${buffed ? "is-buffed" : ""}">${bp} BP${buffed ? " +15%" : ""}</span>
             </button>`;
@@ -1842,6 +2113,8 @@
           state.rating = (state.rating || 1000) + ratingDelta;
           saveState();
         }
+        const xpOut = applyBattleXpToSlots(battle.partyIds, won);
+        saveState();
         battle.lastResult = {
           won,
           score,
@@ -1850,6 +2123,8 @@
           foe: battle.foeParty,
           opponent: battle.opponent,
           opponentRating: battle.opponentRating,
+          fighterXp: xpOut.gain,
+          leveled: xpOut.leveled,
         };
         battle.step = "resolving";
         renderBattle();
@@ -1857,6 +2132,9 @@
           if (battle.step !== "resolving") return;
           battle.step = "results";
           renderBattle();
+          if (xpOut.leveled.length) {
+            showToast(xpOut.leveled.map((x) => `Level up → Lv ${x.level}`).join(" · "));
+          }
         }, 900);
       });
       return;
@@ -1898,6 +2176,7 @@
                   ${fighterThumb(f)}
                   <div>
                     <div class="fighter-name">${escapeHtml(name)}</div>
+                    <div class="fighter-sub"><span class="lv-pill">Lv ${f.level || 1}</span></div>
                     <div class="type-chips">${types}</div>
                     <div class="matchup-row">
                       ${strong.slice(0, 2).map((t) => `<span class="strong-chip">×1.6 ${escapeHtml(t)}</span>`).join("")}
@@ -1930,6 +2209,11 @@
                 battle.mode === "ranked"
                   ? `Ranked Elo ${res.ratingDelta >= 0 ? "+" : ""}${res.ratingDelta} → ${state.rating}`
                   : "Casual · Elo unchanged"
+              }</p>
+              <p class="muted small">Fighters +${res.fighterXp || 0} battle XP each${
+                res.leveled && res.leveled.length
+                  ? ` · ${res.leveled.length} leveled up`
+                  : ""
               }</p>
             </div>
             <div class="battle-arena">
