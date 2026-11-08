@@ -1,7 +1,7 @@
 {
   "meta": {
     "asOf": "2026-11-08",
-    "asOfLabel": "8 Nov 2026 ~1:00 PM HKT",
+    "asOfLabel": "8 Nov 2026 ~1:05 PM HKT (Zacian/Zamazenta crowned sprites fixed)",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
@@ -1530,8 +1530,8 @@
         "Snow"
       ],
       "sprite": {
-        "pokeapiId": 10055,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10055.png"
+        "pokeapiId": 10188,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10188.png"
       },
       "notes": "Into the Wild (Leek Duck). Fairy/Steel. Hundo 2845 (3556 Cloudy/Snow). Raid Hour Mon 9 Nov 6–7 PM. Wins award Crowned Sword Energy; Special Background possible on 5★ catches.",
       "types": [
@@ -1595,8 +1595,8 @@
         "Snow"
       ],
       "sprite": {
-        "pokeapiId": 10056,
-        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10056.png"
+        "pokeapiId": 10189,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10189.png"
       },
       "notes": "Into the Wild (Leek Duck). Fighting/Steel. Hundo 2384 (2980 Cloudy/Snow). Raid Hour Tue 10 Nov 6–7 PM. Wins award Crowned Shield Energy; Special Background possible on 5★ catches.",
       "types": [
