@@ -3,7 +3,7 @@
   "include": [
     "/recipes/api/*",
     "/marvel/api/*",
-    "/nature/api/*"
+    "/nature/*"
   ],
   "exclude": []
 }
