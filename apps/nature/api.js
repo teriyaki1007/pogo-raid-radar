@@ -68,6 +68,110 @@
    * Canvas resize only when long edge > 2400 or file > 6MB — that path drops EXIF.
    * GPS may remain on originals; place is still collected on the form.
    */
+
+  /** Read JPEG EXIF DateTimeOriginal / DateTime → ISO string (local wall time, no TZ). */
+  function readExifDateTime(file) {
+    return new Promise((resolve) => {
+      if (!file || !/^image\/jpeg$/i.test(file.type || "")) {
+        resolve(null);
+        return;
+      }
+      const reader = new FileReader();
+      reader.onload = () => {
+        try {
+          const view = new DataView(reader.result);
+          if (view.byteLength < 4 || view.getUint16(0) !== 0xffd8) {
+            resolve(null);
+            return;
+          }
+          let offset = 2;
+          while (offset + 4 <= view.byteLength) {
+            const marker = view.getUint16(offset);
+            offset += 2;
+            if ((marker & 0xff00) !== 0xff00) break;
+            if (marker === 0xffe1) {
+              const len = view.getUint16(offset);
+              if (offset + len > view.byteLength) break;
+              // APP1 "Exif\0\0"
+              if (
+                len >= 8 &&
+                view.getUint32(offset + 2) === 0x45786966 &&
+                view.getUint16(offset + 6) === 0x0000
+              ) {
+                const tiff = offset + 8;
+                const le = view.getUint16(tiff) === 0x4949;
+                const u16 = (o) => (le ? view.getUint16(o, true) : view.getUint16(o, false));
+                const u32 = (o) => (le ? view.getUint32(o, true) : view.getUint32(o, false));
+                if (u16(tiff) !== 0x4949 && u16(tiff) !== 0x4d4d) break;
+                const ifd0 = tiff + u32(tiff + 4);
+                const readIFD = (ifd) => {
+                  if (ifd + 2 > view.byteLength) return null;
+                  const entries = u16(ifd);
+                  let datetime = null;
+                  let datetimeOriginal = null;
+                  let exifOffset = null;
+                  for (let i = 0; i < entries; i++) {
+                    const e = ifd + 2 + i * 12;
+                    if (e + 12 > view.byteLength) break;
+                    const tag = u16(e);
+                    const type = u16(e + 2);
+                    const count = u32(e + 4);
+                    const valOff = e + 8;
+                    const size = type === 2 ? count : 0;
+                    let dataPtr = valOff;
+                    if (size > 4) dataPtr = tiff + u32(valOff);
+                    if (tag === 0x8769) exifOffset = tiff + u32(valOff); // ExifIFD
+                    if (tag === 0x0132 || tag === 0x9003) {
+                      if (dataPtr + count <= view.byteLength) {
+                        let s = "";
+                        for (let j = 0; j < count; j++) {
+                          const c = view.getUint8(dataPtr + j);
+                          if (c === 0) break;
+                          s += String.fromCharCode(c);
+                        }
+                        if (tag === 0x9003) datetimeOriginal = s;
+                        else datetime = s;
+                      }
+                    }
+                  }
+                  return { datetime, datetimeOriginal, exifOffset };
+                };
+                const ifd0data = readIFD(ifd0);
+                let raw = ifd0data && (ifd0data.datetimeOriginal || ifd0data.datetime);
+                if (ifd0data && ifd0data.exifOffset) {
+                  const exif = readIFD(ifd0data.exifOffset);
+                  if (exif) raw = exif.datetimeOriginal || exif.datetime || raw;
+                }
+                if (!raw) {
+                  resolve(null);
+                  return;
+                }
+                // "YYYY:MM:DD HH:MM:SS" → ISO-ish local
+                const m = /^(\d{4}):(\d{2}):(\d{2})[ T](\d{2}):(\d{2}):(\d{2})/.exec(raw.trim());
+                if (!m) {
+                  resolve(null);
+                  return;
+                }
+                resolve(`${m[1]}-${m[2]}-${m[3]}T${m[4]}:${m[5]}:${m[6]}`);
+                return;
+              }
+              offset += len;
+              continue;
+            }
+            if (marker === 0xffda) break; // SOS
+            const len = view.getUint16(offset);
+            offset += len;
+          }
+          resolve(null);
+        } catch {
+          resolve(null);
+        }
+      };
+      reader.onerror = () => resolve(null);
+      reader.readAsArrayBuffer(file.slice(0, Math.min(file.size, 256 * 1024)));
+    });
+  }
+
   function encodePhoto(file) {
     return new Promise((resolve, reject) => {
       if (!file || !file.type || !/^image\/(jpeg|png|webp)$/i.test(file.type)) {
@@ -205,6 +309,7 @@
     setToken,
     apiAvailable,
     encodePhoto,
+    readExifDateTime,
     register,
     login,
     me,

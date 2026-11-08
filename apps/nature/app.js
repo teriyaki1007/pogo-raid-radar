@@ -390,9 +390,19 @@
       return;
     }
     try {
+      if (window.NatureApi && window.NatureApi.readExifDateTime) {
+        const exifWhen = await window.NatureApi.readExifDateTime(file);
+        if (exifWhen && observedAt) {
+          // datetime-local wants YYYY-MM-DDTHH:MM
+          observedAt.value = exifWhen.slice(0, 16);
+        }
+      }
       if (window.NatureApi) {
         const encoded = await window.NatureApi.encodePhoto(file);
-        photoFile = new File([encoded.blob], "sighting.jpg", { type: "image/jpeg" });
+        const type = encoded.contentType || "image/jpeg";
+        const name =
+          type === "image/png" ? "sighting.png" : type === "image/webp" ? "sighting.webp" : "sighting.jpg";
+        photoFile = new File([encoded.blob], name, { type });
         photoDataUrl = URL.createObjectURL(encoded.blob);
         if (encoded.belowGuideFloor) {
           showToast("Photo is soft for ID — try closer / sharper if you can");
