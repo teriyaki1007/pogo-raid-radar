@@ -1714,6 +1714,23 @@ p {
   background: var(--mint-200);
 }
 
+.lb-you-sticky {
+  position: sticky;
+  bottom: 0;
+  z-index: 2;
+  margin-top: 8px;
+  box-shadow: 0 -6px 16px rgba(12, 31, 20, 0.08);
+}
+
+.identify-busy {
+  opacity: 0.7;
+  pointer-events: none;
+}
+
+.identify-busy .btn-identify-label::after {
+  content: "…";
+}
+
 .lb-rank {
   font-weight: 800;
   color: var(--forest-800);
@@ -1753,7 +1770,7 @@ p {
 
 
 /* —— Landscape tablet / desktop: fill screen, horizontal chrome —— */
-@media (min-width: 900px) {
+@media (min-width: 720px) {
   body {
     padding: 0;
     align-items: stretch;
@@ -1839,6 +1856,17 @@ p {
     align-items: start;
   }
 
+  .battle-wide-split {
+    display: grid;
+    grid-template-columns: minmax(0, 1.1fr) minmax(0, 0.9fr);
+    gap: 20px;
+    align-items: start;
+  }
+
+  .battle-wide-split .leaderboard {
+    grid-template-columns: 1fr;
+  }
+
   .habitat-grid {
     grid-template-columns: repeat(6, 1fr);
   }
@@ -1860,7 +1888,7 @@ p {
   }
 }
 
-@media (min-width: 900px) and (max-height: 700px) {
+@media (min-width: 720px) and (max-height: 700px) {
   .progress-strip {
     padding-top: 8px;
     padding-bottom: 8px;

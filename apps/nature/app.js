@@ -545,43 +545,210 @@
     return card.seasonality || card.season || "—";
   }
 
-  function pickSampleCard() {
-    if (!speciesCards.length) {
-      return {
-        id: "demo-unknown",
-        commonName: "SAMPLE: Unidentified organism",
-        scientificName: "—",
-        averageSize: "Unknown (demo)",
-        nativeRange: "Insufficient data (demo)",
-        habitat: "As logged by observer",
-        seasonality: "—",
-        lookalikes: ["Needs clearer photo"],
-        caution: "Demo unknown",
-        emoji: "❓",
-        _confidence: "unknown",
-      };
-    }
-    const roll = Math.random();
-    const unknown = speciesCards.find((s) => s.id === "demo-unknown");
-    if (roll < 0.12 && unknown) return { ...unknown, _confidence: "unknown" };
-    const pool = speciesCards.filter((s) => s.id !== "demo-unknown");
-    const pick = pool[Math.floor(Math.random() * pool.length)] || unknown || speciesCards[0];
-    const conf =
-      pick.id === "demo-unknown"
-        ? "unknown"
-        : (pick.lookalikes || []).length > 2
-          ? "unsure"
-          : "likely";
-    return { ...pick, _confidence: conf };
+  function unknownCard(extra) {
+    return {
+      id: "demo-unknown",
+      commonName: "Unidentified from photo",
+      scientificName: "— (needs Species Guide)",
+      averageSize: "Not measured from photo",
+      nativeRange: "Unknown until confirmed ID",
+      habitat: "As logged by observer",
+      seasonality: "—",
+      lookalikes: ["Needs clearer photo", "Species Guide review"],
+      caution: "Provisional visual read — not a field ID",
+      emoji: "❓",
+      _confidence: "unknown",
+      _fromPhoto: true,
+      ...(extra || {}),
+    };
   }
 
-  function runIdentify() {
-    const sample = pickSampleCard();
+  /** Score shared cards against a visual read of the uploaded photo (not random). */
+  function scoreCardForVisual(card, visual) {
+    let score = 0;
+    const hay = `${card.commonName || ""} ${card.habitat || ""} ${card.scientificName || ""} ${(card.lookalikes || []).join(" ")}`.toLowerCase();
+    (visual.keywords || []).forEach((k) => {
+      if (hay.includes(k)) score += 3;
+    });
+    const aff = normalizeHabitatAffinity(card.habitatAffinity);
+    if (visual.habitatGuess && aff.includes(visual.habitatGuess)) score += 4;
+    if (visual.kind === "plant" && /tree|plant|fung|moss|leaf|wood|redwood|agaric/.test(hay)) score += 2;
+    if (visual.kind === "animal" && /bird|fox|otter|butterfly|starfish|insect|robin|monarch|animal/.test(hay)) score += 2;
+    if (visual.kind === "water" && /ocean|tide|star|fish|marine|water|wetland/.test(hay)) score += 2;
+    return score;
+  }
+
+  function pickCardFromVisual(visual) {
+    const pool = (speciesCards || []).filter((s) => s.id !== "demo-unknown");
+    if (!pool.length) return unknownCard({ habitat: visual.habitatLabel || "As logged by observer" });
+
+    let best = null;
+    let bestScore = -1;
+    pool.forEach((c) => {
+      const s = scoreCardForVisual(c, visual);
+      if (s > bestScore) {
+        bestScore = s;
+        best = c;
+      }
+    });
+
+    if (!best || bestScore < 2) {
+      return unknownCard({
+        habitat: visual.habitatLabel || "As logged by observer",
+        averageSize: visual.sizeHint || "Not measured from photo",
+        lookalikes: visual.keywords.slice(0, 3).map((k) => `Photo cue: ${k}`),
+      });
+    }
+
+    const conf = bestScore >= 6 ? "likely" : bestScore >= 3 ? "unsure" : "unknown";
+    return {
+      ...best,
+      _confidence: conf,
+      _fromPhoto: true,
+      _visualScore: bestScore,
+      habitat: best.habitat || visual.habitatLabel,
+      caution:
+        (best.caution ? `${best.caution} · ` : "") +
+        "Matched from your photo cues — Species Guide still owns final facts.",
+    };
+  }
+
+  function analyzePhotoDataUrl(dataUrl) {
+    return new Promise((resolve) => {
+      const img = new Image();
+      img.onload = () => {
+        const w = img.naturalWidth || img.width;
+        const h = img.naturalHeight || img.height;
+        const canvas = document.createElement("canvas");
+        const maxEdge = 120;
+        const scale = Math.min(1, maxEdge / Math.max(w, h));
+        canvas.width = Math.max(1, Math.round(w * scale));
+        canvas.height = Math.max(1, Math.round(h * scale));
+        const ctx = canvas.getContext("2d", { willReadFrequently: true });
+        if (!ctx) {
+          resolve({ kind: "unknown", keywords: [], habitatGuess: null, habitatLabel: "As logged", sizeHint: `${w}×${h}px frame` });
+          return;
+        }
+        ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+        const { data } = ctx.getImageData(0, 0, canvas.width, canvas.height);
+        let r = 0, g = 0, b = 0, n = 0;
+        let greenish = 0, blueish = 0, brownish = 0, bright = 0, dark = 0;
+        for (let i = 0; i < data.length; i += 4) {
+          const pr = data[i], pg = data[i + 1], pb = data[i + 2], pa = data[i + 3];
+          if (pa < 20) continue;
+          r += pr; g += pg; b += pb; n++;
+          const max = Math.max(pr, pg, pb);
+          const min = Math.min(pr, pg, pb);
+          const lum = 0.2126 * pr + 0.7152 * pg + 0.0722 * pb;
+          if (lum > 200) bright++;
+          if (lum < 50) dark++;
+          if (pg > pr + 12 && pg > pb + 8) greenish++;
+          if (pb > pr + 10 && pb >= pg) blueish++;
+          if (pr > 70 && pg > 40 && pb < 70 && pr >= pg && (pr - pb) > 25) brownish++;
+        }
+        if (!n) {
+          resolve({ kind: "unknown", keywords: ["empty"], habitatGuess: null, habitatLabel: "As logged", sizeHint: `${w}×${h}px frame` });
+          return;
+        }
+        r /= n; g /= n; b /= n;
+        const gShare = greenish / n;
+        const bShare = blueish / n;
+        const brShare = brownish / n;
+        const keywords = [];
+        let kind = "unknown";
+        let habitatGuess = null;
+        let habitatLabel = "Mixed / unclear from photo";
+
+        if (bShare > 0.22 && b > g && b > r) {
+          kind = "water";
+          habitatGuess = "ocean";
+          habitatLabel = "Blue / water-heavy frame — possible shore or wetland";
+          keywords.push("water", "ocean", "tide", "blue");
+        } else if (gShare > 0.2) {
+          kind = "plant";
+          habitatGuess = brShare > 0.12 ? "tree" : "grassland";
+          habitatLabel = habitatGuess === "tree" ? "Green + woody tones — woodland / tree" : "Green open frame — meadow / grassland";
+          keywords.push("green", "leaf", "plant", habitatGuess === "tree" ? "tree" : "meadow");
+        } else if (brShare > 0.18) {
+          kind = "animal";
+          habitatGuess = "urban";
+          habitatLabel = "Warm earth tones — possible animal / ground subject";
+          keywords.push("brown", "animal", "fur", "ground");
+        } else if (bright / n > 0.45) {
+          kind = "animal";
+          habitatGuess = "urban";
+          habitatLabel = "Bright open frame — park / urban possible";
+          keywords.push("bright", "open", "urban");
+        } else if (dark / n > 0.4) {
+          kind = "plant";
+          habitatGuess = "tree";
+          habitatLabel = "Dark canopy-like frame — forest / shade";
+          keywords.push("dark", "shade", "forest");
+        } else {
+          keywords.push("subject", "field");
+        }
+
+        // Aspect: tall subjects vs wide landscapes
+        if (h > w * 1.25) keywords.push("portrait");
+        if (w > h * 1.35) keywords.push("wide");
+
+        resolve({
+          kind,
+          keywords,
+          habitatGuess,
+          habitatLabel,
+          sizeHint: `Photo frame ${w}×${h}px`,
+          avgColor: { r: Math.round(r), g: Math.round(g), b: Math.round(b) },
+        });
+      };
+      img.onerror = () =>
+        resolve({ kind: "unknown", keywords: [], habitatGuess: null, habitatLabel: "As logged", sizeHint: "—" });
+      img.src = dataUrl;
+    });
+  }
+
+  async function runIdentify() {
+    if (!photoDataUrl) {
+      showToast("Add a photo first");
+      return;
+    }
     const place = $("#place-label").value.trim();
     const when = $("#observed-at").value;
     const notes = $("#notes").value.trim();
     const tagsRaw = $("#tags").value.trim();
     const privacy = $("#privacy").value || "private";
+
+    const form = $("#capture-form");
+    form?.classList.add("identify-busy");
+    if (btnIdentify) {
+      btnIdentify.disabled = true;
+      const lab = btnIdentify.querySelector(".btn-identify-label");
+      if (lab) lab.textContent = "Reading photo";
+    }
+    showToast("Generating card from your photo…");
+
+    let sample;
+    try {
+      const visual = await analyzePhotoDataUrl(photoDataUrl);
+      sample = pickCardFromVisual(visual);
+      // Fold place notes into habitat line when visual is weak
+      if (sample._confidence === "unknown" && place) {
+        sample = {
+          ...sample,
+          habitat: `${sample.habitat} · logged at ${place}`,
+        };
+      }
+    } catch (err) {
+      console.error(err);
+      sample = unknownCard();
+    } finally {
+      form?.classList.remove("identify-busy");
+      if (btnIdentify) {
+        const lab = btnIdentify.querySelector(".btn-identify-label");
+        if (lab) lab.textContent = "Identify";
+        btnIdentify.disabled = false;
+      }
+    }
 
     pendingSighting = {
       id: `sight-${Date.now()}`,
@@ -600,8 +767,10 @@
       lookalikeRefs: (sample.lookalikes || []).slice(),
       privacy,
       sampleMeta: sample,
+      habitatAffinity: normalizeHabitatAffinity(sample.habitatAffinity),
       confirmed: false,
       xpAwarded: 0,
+      fromPhoto: true,
     };
 
     renderConfirm(pendingSighting);
@@ -673,9 +842,14 @@
     renderLookalikesQuiet($("#confirm-lookalikes"), m.lookalikes);
     const disc = $("#confirm-disclaimer");
     if (disc) {
-      disc.textContent = m.caution
-        ? `SAMPLE facts · Caution: ${m.caution}`
-        : "Facts above are SAMPLE placeholders for the prototype.";
+      if (s.fromPhoto || m._fromPhoto) {
+        disc.textContent = m.caution
+          || "Generated from your photo cues — Species Guide confirms real taxon facts.";
+      } else {
+        disc.textContent = m.caution
+          ? `SAMPLE facts · Caution: ${m.caution}`
+          : "Facts above are SAMPLE placeholders for the prototype.";
+      }
     }
   }
 
@@ -1289,9 +1463,16 @@
             <span class="lb-elo">${row.rating}</span>
           </li>`;
         }).join("");
-        const youRank =
-          DEMO_LEADERBOARD.find((r) => state.user && r.username === state.user.username)?.rank ||
-          "—";
+        const youOnBoard = DEMO_LEADERBOARD.find(
+          (r) => state.user && r.username === state.user.username
+        );
+        const youRank = youOnBoard?.rank || "—";
+        const stickyYou = `<li class="lb-row is-you lb-you-sticky" aria-label="Your worldwide rank">
+            <span class="lb-rank">#${youRank}</span>
+            <span class="lb-name">@${escapeHtml(state.user?.username || "you")} · you</span>
+            <span class="lb-region">YOU</span>
+            <span class="lb-elo">${myRating}</span>
+          </li>`;
         const searchBlock = battle.searching
           ? `<div class="matchmake-card is-searching">
               <strong>Finding opponent…</strong>
@@ -1316,7 +1497,7 @@
           </div>
           ${searchBlock}
           <h3 class="section-label">Worldwide leaderboard</h3>
-          <ol class="leaderboard">${board}</ol>`;
+          <ol class="leaderboard">${board}</ol>${stickyYou ? `<ol class="leaderboard lb-sticky-wrap">${stickyYou}</ol>` : ""}`;
         ctaDisabled = !battle.opponent || battle.searching;
         ctaLabel = battle.opponent ? "Pick party of 3" : "Find a match first";
       }
@@ -1332,9 +1513,13 @@
                 <strong>Ranked</strong><span>Online Elo · world board</span>
               </button>
             </div>
-            <h3 class="section-label">Habitat field</h3>
-            <div class="habitat-grid">${habitats}</div>
-            ${middle}
+            <div class="battle-wide-split">
+              <div>
+                <h3 class="section-label">Habitat field</h3>
+                <div class="habitat-grid">${habitats}</div>
+              </div>
+              <div>${middle}</div>
+            </div>
           </div>
           <div class="battle-sticky">
             <button type="button" class="btn btn-primary btn-block" id="btn-battle-continue" ${ctaDisabled ? "disabled" : ""}>${ctaLabel}</button>
