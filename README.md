@@ -175,3 +175,30 @@ Passwords: PBKDF2-SHA-256 (100k iters), random salt, stored in `users`. Sessions
 Recipe webhook env (`GROK_RECIPE_IMPORT_*`) is untouched. Routes include both `/recipes/api/*` and `/marvel/api/*` in `functions/_routes.json` + `public/_routes.json`.
 
 Source: `functions/marvel/api/{register,login,progress}.js` (+ `_lib.js`)
+
+## Nature catalogue account API (D1 + R2)
+
+`/nature/` register / login / me / photos / sightings against D1 bind **NATURE_DB** + R2 **NATURE_PHOTOS** (hold live landing/build until E2E works):
+
+| Method | Path | Auth | Body |
+| --- | --- | --- | --- |
+| `POST` | `/nature/api/register` | — | `{ "username", "password" }` |
+| `POST` | `/nature/api/login` | — | `{ "username", "password" }` |
+| `GET`/`PUT` | `/nature/api/me` | Bearer | progress upsert on PUT |
+| `POST` | `/nature/api/photos` | Bearer | multipart `photo` (jpeg/png/webp ≤6MB) |
+| `GET` | `/nature/api/photos/:id` | Bearer | private image bytes |
+| `GET`/`POST` | `/nature/api/sightings` | Bearer | create/list private sightings |
+| `PATCH`/`DELETE` | `/nature/api/sightings/:id` | Bearer | update/delete own sighting |
+
+Passwords: PBKDF2-SHA-256 (100k), same pattern as Marvel. Photos: client canvas re-encode strips EXIF/GPS; long-edge max 2400.
+
+**Production bindings / secrets** (Cloudflare Pages dashboard — do not commit):
+
+- D1: `NATURE_DB` → `nature_accounts` (apply `apps/nature/schema.sql`)
+- R2: `NATURE_PHOTOS` → `nature-photos`
+- Secret: `NATURE_AUTH_SECRET`
+
+Routes include `/nature/api/*` in `functions/_routes.json` + `public/_routes.json`. Client falls back to localStorage when API returns 503. See `apps/nature/DEPLOY.txt`.
+
+Source: `functions/nature/api/*` (+ `apps/nature/api.js`)
+

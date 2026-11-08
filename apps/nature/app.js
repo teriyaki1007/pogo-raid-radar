@@ -1,7 +1,7 @@
 /**
  * Project Nature — /nature/ demo mount (v0.1 UI + demo JSON)
  * Loads shared speciesCards from data/catalogue-demo.json.
- * Personal dex / sightings / XP stay in localStorage (per browser).
+ * Prefers /nature/api/* (D1+R2) when bound; falls back to localStorage.
  * SAMPLE facts only — Species Guide owns real packs later.
  * Design Critique v0.1 pass applied (UI clear for demo wire).
  * LIVE Pages publish intentionally held — not in package.json build / landing.
@@ -36,6 +36,7 @@
   let state = null;
   let pendingSighting = null;
   let photoDataUrl = null;
+  let photoFile = null;
   let authMode = "login";
 
   const $ = (sel, root = document) => root.querySelector(sel);
@@ -77,6 +78,21 @@
     bindConfirm();
     bindNav();
     bindLogout();
+
+    if (window.NatureApi && window.NatureApi.getToken()) {
+      try {
+        const remote = await window.NatureApi.me();
+        if (remote.ok && remote.username) {
+          applyRemoteSession(remote.username, remote);
+          saveState();
+          enterApp();
+          return;
+        }
+        if (remote.status === 401) window.NatureApi.logout();
+      } catch (_) {
+        /* keep local */
+      }
+    }
 
     if (state.user) {
       enterApp();
@@ -222,7 +238,7 @@
 
     updateAuthSubmitLabel();
 
-    authForm.addEventListener("submit", (e) => {
+    authForm.addEventListener("submit", async (e) => {
       e.preventDefault();
       const username = $("#auth-username").value.trim();
       const password = $("#auth-password").value;
@@ -231,39 +247,90 @@
         return;
       }
 
-      // Mock only — password not stored. Personal dex stays private in this browser.
-      const isFresh =
-        !state.user &&
-        state.sightings.length === 0 &&
-        state.slots.every((s) => s.status === "empty");
-      state.user = { username, demo: true };
+      authSubmit.disabled = true;
+      try {
+        const api = window.NatureApi;
+        let remote = null;
+        if (api) {
+          remote =
+            authMode === "signup"
+              ? await api.register(username, password)
+              : await api.login(username, password);
+        }
 
-      // First login as "demo" with empty personal state → seed from demoUser JSON
-      if (isFresh && username.toLowerCase() === "demo" && catalogue?.demoUser) {
-        const seeded = seedFromDemoUser();
-        state.slots = seeded.slots;
-        state.sightings = seeded.sightings;
-        state.progress = seeded.progress;
-        state.user = { username, demo: true };
-        showToast(`Logged in as ${username} (seeded demo dex)`);
-      } else {
-        showToast(authMode === "signup" ? `Welcome, ${username}` : `Logged in as ${username}`);
+        if (remote && remote.ok && remote.token) {
+          applyRemoteSession(username, remote);
+          showToast(
+            authMode === "signup" ? `Welcome, ${username}` : `Logged in as ${username}`
+          );
+          saveState();
+          enterApp();
+          return;
+        }
+
+        if (remote && api && api.apiAvailable(remote) && remote.error) {
+          showToast(remote.error);
+          return;
+        }
+
+        // Fallback: local demo (API unbound / offline)
+        const isFresh =
+          !state.user &&
+          state.sightings.length === 0 &&
+          state.slots.every((s) => s.status === "empty");
+        state.user = { username, demo: true, localOnly: true };
+
+        if (isFresh && username.toLowerCase() === "demo" && catalogue?.demoUser) {
+          const seeded = seedFromDemoUser();
+          state.slots = seeded.slots;
+          state.sightings = seeded.sightings;
+          state.progress = seeded.progress;
+          state.user = { username, demo: true, localOnly: true };
+          showToast(`Logged in as ${username} (local demo)`);
+        } else {
+          showToast(
+            authMode === "signup"
+              ? `Welcome, ${username} (local — API not live yet)`
+              : `Logged in as ${username} (local)`
+          );
+        }
+
+        saveState();
+        enterApp();
+      } finally {
+        authSubmit.disabled = false;
       }
-
-      saveState();
-      enterApp();
     });
+  }
+
+  function applyRemoteSession(username, remote) {
+    const progress = remote.progress || {};
+    state.user = { username, demo: false, remote: true };
+    if (Array.isArray(progress.slots) && progress.slots.length) {
+      state.slots = progress.slots;
+    }
+    state.progress = {
+      xpTotal: progress.xpTotal ?? 0,
+      streakDays: progress.streakDays ?? 0,
+      lastConfirmDay: progress.lastConfirmDay ?? null,
+      badges: Array.isArray(progress.badges) ? [...progress.badges] : [],
+    };
+    if (Array.isArray(remote.sightings)) {
+      state.sightings = remote.sightings;
+    }
   }
 
   function bindLogout() {
     $("#btn-logout").addEventListener("click", () => {
+      if (window.NatureApi) window.NatureApi.logout();
       state.user = null;
       saveState();
       pendingSighting = null;
       photoDataUrl = null;
+      photoFile = null;
       resetCaptureForm();
       showScreen("auth");
-      showToast("Logged out (demo)");
+      showToast("Logged out");
     });
   }
 
@@ -317,26 +384,44 @@
       <span class="photo-cta-chip">Choose photo</span>`;
   }
 
-  function handlePhotoFile(file) {
+  async function handlePhotoFile(file) {
     if (!file.type.startsWith("image/")) {
       showToast("Please choose an image");
       return;
     }
-    const reader = new FileReader();
-    reader.onload = () => {
-      photoDataUrl = reader.result;
+    try {
+      if (window.NatureApi) {
+        const encoded = await window.NatureApi.encodePhoto(file);
+        photoFile = new File([encoded.blob], "sighting.jpg", { type: "image/jpeg" });
+        photoDataUrl = URL.createObjectURL(encoded.blob);
+        if (encoded.belowGuideFloor) {
+          showToast("Photo is soft for ID — try closer / sharper if you can");
+        }
+      } else {
+        photoFile = file;
+        photoDataUrl = await new Promise((resolve, reject) => {
+          const reader = new FileReader();
+          reader.onload = () => resolve(reader.result);
+          reader.onerror = reject;
+          reader.readAsDataURL(file);
+        });
+      }
       photoDrop.classList.add("has-photo");
       photoDrop.classList.remove("is-empty");
       photoPreview.innerHTML = `<img src="${photoDataUrl}" alt="Sighting photo preview" />`;
       btnIdentify.disabled = false;
-    };
-    reader.readAsDataURL(file);
+    } catch (err) {
+      photoFile = null;
+      photoDataUrl = null;
+      showToast(err.message || "Could not read photo");
+    }
   }
 
   function resetCaptureForm() {
     captureForm.reset();
     setDefaultDatetime();
     photoDataUrl = null;
+    photoFile = null;
     photoInput.value = "";
     photoDrop.classList.remove("has-photo");
     photoDrop.classList.add("is-empty");
@@ -532,6 +617,7 @@
     saveState();
 
     pendingSighting = null;
+    const fileForUpload = photoFile;
     resetCaptureForm();
     renderProgress();
     renderDex();
@@ -542,6 +628,60 @@
     if (streakGain) parts.push("streak");
     if (newBadges.length) parts.push(`badge ×${newBadges.length}`);
     showToast(`Collected · ${parts.join(" · ")}`);
+
+    syncSightingRemote(s, fileForUpload);
+  }
+
+  async function syncSightingRemote(sighting, file) {
+    const api = window.NatureApi;
+    if (!api || !state.user || state.user.localOnly || !api.getToken()) return;
+    try {
+      let photoId = null;
+      if (file) {
+        const up = await api.uploadPhoto(file);
+        if (up.ok && up.photoId) photoId = up.photoId;
+        else if (up.error && api.apiAvailable(up)) {
+          showToast(`Photo sync: ${up.error}`);
+        }
+      }
+      const payload = {
+        id: sighting.id,
+        photoId,
+        place: sighting.place,
+        observedAt: sighting.observedAt,
+        notes: sighting.notes,
+        tags: sighting.tags,
+        idConfidence: sighting.idConfidence,
+        speciesRef: sighting.speciesRef,
+        lookalikeRefs: sighting.lookalikeRefs,
+        privacy: sighting.privacy || "private",
+        status: sighting.status,
+        xpAwarded: sighting.xpAwarded,
+        sampleMeta: sighting.sampleMeta
+          ? {
+              id: sighting.sampleMeta.id,
+              commonName: sighting.sampleMeta.commonName,
+              scientificName: sighting.sampleMeta.scientificName,
+              emoji: sighting.sampleMeta.emoji,
+            }
+          : null,
+      };
+      const created = await api.createSighting(payload);
+      if (created.ok && created.sighting) {
+        const idx = state.sightings.findIndex((x) => x.id === sighting.id);
+        if (idx >= 0) state.sightings[idx] = { ...state.sightings[idx], ...created.sighting };
+      }
+      await api.putProgress({
+        xpTotal: state.progress.xpTotal,
+        streakDays: state.progress.streakDays,
+        lastConfirmDay: state.progress.lastConfirmDay,
+        badges: state.progress.badges,
+        slots: state.slots,
+      });
+      saveState();
+    } catch (err) {
+      console.warn("Nature remote sync failed", err);
+    }
   }
 
   function updateStreak() {

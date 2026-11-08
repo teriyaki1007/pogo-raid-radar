@@ -1,5 +1,9 @@
 {
   "version": 1,
-  "include": ["/recipes/api/*", "/marvel/api/*"],
+  "include": [
+    "/recipes/api/*",
+    "/marvel/api/*",
+    "/nature/api/*"
+  ],
   "exclude": []
 }

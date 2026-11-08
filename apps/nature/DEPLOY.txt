@@ -1,0 +1,20 @@
+Project Nature — auth + photo uploads (Cloudflare Pages Functions)
+
+Status: code in-repo; hold live /nature/ landing+build until E2E works.
+Stack: Pages UI + D1 (NATURE_DB) + R2 (NATURE_PHOTOS) + NATURE_AUTH_SECRET.
+
+Dad / CF dashboard (same Pages project as groot.zynergy.studio — once):
+1. Create D1 database `nature_accounts`; apply apps/nature/schema.sql.
+2. Bind D1 as NATURE_DB on Production.
+3. Create R2 bucket `nature-photos`; bind as NATURE_PHOTOS on Production.
+4. Set secret NATURE_AUTH_SECRET (long random); optional AUTH_SECRET fallback unused for Nature.
+5. Redeploy Pages after bindings so /nature/api/* sees them.
+
+Soft defaults:
+- Username/password only (PBKDF2 like Marvel).
+- Photos: client canvas re-encode strips EXIF/GPS; long-edge max 2400, do not upscale below ~1600.
+- Size cap ~6 MB after encode; jpeg/png/webp allowlist.
+- Sightings private by default.
+
+Routes: functions/_routes.json + public/_routes.json include /nature/api/*.
+Client falls back to localStorage when API returns 503 / unreachable (demo still works).
