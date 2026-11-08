@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T05:08:16+08:00",
+  "updatedAt": "2026-11-08T11:05:25+08:00",
   "facts_source": "mledoze",
   "skipped": {
     "AQ": "only 2 facts available",
@@ -9,7 +9,8 @@
     "BV": "only 3 facts available",
     "CC": "only 2 real headlines found",
     "CX": "only 1 real headlines found",
-    "DM": "only 1 real headlines found",
+    "DM": "only 0 real headlines found",
+    "FO": "only 2 real headlines found",
     "GF": "only 0 real headlines found",
     "GU": "only 0 real headlines found",
     "HM": "only 3 facts available",
@@ -25,7 +26,7 @@
     "RE": "only 0 real headlines found",
     "SH": "only 0 real headlines found",
     "SJ": "only 1 real headlines found",
-    "ST": "only 0 real headlines found",
+    "ST": "only 1 real headlines found",
     "SX": "only 1 real headlines found",
     "TC": "only 2 real headlines found",
     "TD": "only 0 real headlines found",
@@ -33,8 +34,8 @@
     "TV": "only 2 real headlines found",
     "UM": "only 1 real headlines found",
     "VC": "only 1 real headlines found",
-    "VI": "only 2 real headlines found",
+    "VI": "only 1 real headlines found",
     "WF": "only 1 real headlines found",
-    "YT": "only 2 real headlines found"
+    "YT": "only 1 real headlines found"
   }
 }

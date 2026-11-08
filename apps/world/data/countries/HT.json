@@ -1,7 +1,7 @@
 {
   "iso2": "HT",
   "name": "Haiti",
-  "updatedAt": "2026-11-08T05:08:16+08:00",
+  "updatedAt": "2026-11-08T11:05:25+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Haiti’s 400 Mawozo gang offers authorities dialogue — Taipei Times",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT005N2dkb1J5ODFzSHN3TGNRRlU0SWJwRW5wOUZhTUwySWtaSU05NXI4SW1pSWxUZWhPOXgtbW5mTFFVOXBFeDhna2NTN2J2dDRWX0JFRjZDd0lvWjVBLUIzQXBWZlAwa3oteElzcjFhdF9YSEtRQlZRbFFmQmxHTXBOOE1Cdmh5QlExbXRhRjFHWmlGX0s0R0lwaEVjcnc?oc=5",
+      "publishedAt": "2026-11-08T06:49:29+08:00"
+    },
+    {
+      "title": "Haitian third-grader taken into federal custody after immigration check-in",
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdThRcURvOWc2UHZoRldNN1FnLXN3WGhnd3p1MmRDUUxqOGM0eUpfQUJMM01fS1ZTTE40dXVnaGIzMkFORWJFNEJwalpMS2I2X0tmbjdfekJ3ZEhQbm1yaWtJdVJ4cWI2NVgtY0tncXgxSHBkempqWXg0a0UzT1VGX0kzY3o2TmpqYXFVZGdENS1rR005MUprOWlJYXhlZU5hcWthRzFDbGdXQm1NeXZMakpDS2E?oc=5",
+      "publishedAt": "2026-11-08T04:33:00+08:00"
+    },
+    {
       "title": "Haiti Prime Minister says gang leader Mathias Saintil is dead",
       "source": "Citizen Digital",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlBsRUNWZGN3ZV94VG9BempQaFVCOHhRc2ZpQzBubkRJUF92YlpuRkNIWVR4Q1VMOU9CSXlkOFpQN1MzRGI4TXBWc3lUMXpEc3I3YkIyN0p5VjhqUGw3YlJ4UFBvbS1Jc0N1Vkc2R2V2cHNHa2xOY3ZwSlVueWdLd1JVdl9sOWVSRWozSUpycDQ0U1kxbERBel9WXzNVYWZITVZR?oc=5",
@@ -49,33 +61,21 @@
     },
     {
       "title": "Jack McGlynn replaces injured Gio Reyna on US roster for matches against Haiti",
-      "source": "Herald Bulletin",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQd2xDR1oxdXRmUC1PMFAzOUg1X0N5amwyUFJicTFEeTQxR2xPd053Q1NPYUxjQVJ5QjgwZnFXVE8zWXBDWVB3MWEyMjU3WVU5MXFpX0M4T2dHWV9yMS1adHRvTm51RUhWUW5iRHRRMWNQNUlnejBCdWhmT3FfZjU4NGk5aGZMNGhCMmJNZVhMM2JyUURuTVk4SEdEU296blN6ZXIwMTQwYmRlWDgwLUdhX1JlMUx3RzRFdFZrclluUVpBcE9YY2o5LWQxdHVYNzQteW5nd0Itc2VoWkpIa1N4T2Fmd19tck92TWJIbnl5VlZiLXRhR29BSjJxbWt0b1N4azlSbk1rTGtQWEYtSVQ4?oc=5",
-      "publishedAt": "2026-11-08T03:07:54+08:00"
+      "source": "Toronto Star",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQUnpXUEphM3BRQTNONjRxVFRUdW5xci1MbUNZaVRfSWNPNXY0NkNkV2dFNG1pNkkwVHVxckdkdndGZ1F1SDRFTk44YXdRdmlhT0VkemM2anFOZHpHREcybXY4RzJKUll6cDFNaV9TNkZOb2tuaF84bVEwRVVSZUQ4bE9hc2tRTnBGakc5WWpGRW5FQ1RJVGF4Y3JyREVDaTl1d25Venc1NklCZTNHYWxSQnIxdE9OSjJDUm5ORmQ3U01kZllKNGs5RF9iRU9MQ3p2a1UwWHBlU05zRnFjaGttaVlMXzR1WHBDMVNtRXdtd1cwdkF1c29KSzZB?oc=5",
+      "publishedAt": "2026-11-08T03:08:25+08:00"
     },
     {
       "title": "Jack McGlynn replaces injured Gio Reyna on USMNT roster vs. Haiti",
-      "source": "Central Oregon Daily",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNUtTM2QwRUtpWTljbnZrOWp6OEpOU01nRzRPTGowZVp4eUhzYjEyMjk5NnF3eVlTMXBLM2hPcXpKSndMLXFzR1U1SWsyRE9ETHIwdUI1X0lFbnl3QWdwdDlQbzlPNUYxS2VEQWxyekIwaHg3cHpWZ2p6NDZXNUJXZ0h0Q0dhSm1yYU5uVm5aNEpiQ1pZVDY2aEVxdUtSMHlIVDJES2tHQmFCYVVqeThxZEZIbDlIYUpDajlXQVpGUGdNVWpoSEZ6V2xybVRVY0R1R2cxVW05UXIybHY4SEhsOTB3WG9PcktMb1AzMA?oc=5",
-      "publishedAt": "2026-11-08T01:43:29+08:00"
+      "source": "USA Today",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV3F1NVlTZHc1VG41d1NxYV9fZzQtVE4zVFB0dk9MUVFERWpRR09WcDNuS19vZFpTZWhTelYzR3VrQ0JYWnhjVHN1TkJyTjVNc01DZFA1SGx6eUdWcF9aUEYtT29ncTBWM3BtMXNySGo5cGZuNER0MldtSmhSeGlvVmJBYmI1TDBlWjBuQW5OQkg2UmtwTXJHQTFOcTF6QUFDSklLbE5hYVo0alFFWmc3NUxoeFlONlc0WndQcnp1eFU0dw?oc=5",
+      "publishedAt": "2026-11-08T01:43:00+08:00"
     },
     {
       "title": "Food Tank’s Weekly News Roundup: Election Surprises, an Investment in School Meals, Haiti's Hunger Crisis",
       "source": "Food Tank",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSy1Jekd1RmlFODlyWHY1X1J1cW5xUDBOTWZVaE0tSGY3eW5HR2wzSEtJaDhQNGRYVU9BN0hvUzhUbVo3SXRZRWtmVTV0bWJRWmVINEhqVUtMbV9QNkpZSThlN01JR1ZlMHdjNHpRNmZnU1lZYTRpTWNvZ2E3S3pSTHkzYkEzYzZOY1ZaTG00S1JwRGVmMF9aUkVWYUpXaEJtRU14WmtRTDJ5TGpzbFdSbWZ6VmEwUzE4cTRpLXEzN043allxaXVyeHdDTVNGa3Zr?oc=5",
       "publishedAt": "2026-11-08T01:17:46+08:00"
-    },
-    {
-      "title": "Pochettino Adds Midfielder Jack McGlynn to USMNT Roster for Concacaf Nations League Quarterfinals Against Haiti",
-      "source": "US Soccer",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRUk4LS05VzRKVFloV0kyV3Z2Q3VBOUJfdTNBaE84XzF5WVFpd0VmSGV6dmdKbXV1QTMzNTl5YXA5amxua1l5ZWI5bHZrbjBOTV9BN3dRWXc5cl85MXlKTEN1alViMllTOXJ4M2RQQXd0eXBYQ0d5OTJNNkJpT09EN09TVnRNWFlQVHdGMkZZMnIzSldiN0NKZlhqMzlhekl1alpUTTZPM2JUSTdzWXhMMElwQnBMWGRmY2RhTTlaWVJmbXFMbUgyTmxEX2hnY0xuLWxuNmxEejVETnUtc2dIWFZReXE?oc=5",
-      "publishedAt": "2026-11-08T01:00:24+08:00"
-    },
-    {
-      "title": "Haitian gang reaches out to agency, calls for peace",
-      "source": "Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZb0tkRkY5T1l0WHBGbUVubmVkaHE4d2h3V3lLZklrdFUwczZjSHBiN3RhdlJfbkVhdjZHdTVrR21vbnJ4TWtWODNUTzhkeEppYTVCVnRKbnkxSkFub0RPM1UwSVp3LTd4Nk9hTjN6NTFEei1KcW9qbQ?oc=5",
-      "publishedAt": "2026-11-08T00:00:00+08:00"
     }
   ]
 }
