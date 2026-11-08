@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-11-08",
-    "asOfLabel": "8 Nov 2026 ~10:40 PM HKT (Festival of Lights India 1★ ENDED; global ghost window still listed live)",
+    "asOf": "2026-11-09",
+    "asOfLabel": "9 Nov 2026 ~6:30 AM HKT (Into the Wild promoted to LIVE; ghost window ended)",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Evening refresh 8 Nov ~10:40 PM HKT: Festival of Lights India 1★ (Pikachu saree/kurta) ENDED Sun 8 Nov 8:00 PM India local — removed from LIVE. No global replacement published yet: Leek Duck raid-bosses + events + ScrapedDuck still list Altered Giratina 5★, Mega Sableye, ghosty 1★ Duskull/Frillish(±Female)/Litwick and 3★ Cofagrigus/Trevenant/Dhelmise as current through Sun 8 Nov ~10:00 PM local (still live in later timezones; do not invent a post-window pool). Shadow Tornadus (Incarnate) first weekend window → Sun 8 Nov 10:00 PM local; longer package resumes Mon 16 Nov → Tue 1 Dec. Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still listed (GO Hub / Snack Nap; Leek Duck/ScrapedDuck remain stale on the old Gastly set + Landorus). Next: Into the Wild Mon 9 Nov 10:00 AM (Crowned Sword Zacian + Crowned Shield Zamazenta 5★; Druddigon/Orthworm 3★; Raid Hours Zacian Mon 9 + Zamazenta Tue 10 6–7 PM) — not promoted to LIVE. Upcoming also unchanged: GO Wild Area Global Sat 14 (Zekrom + White Kyurem + Dynamax Dialga) & Sun 15 (Reshiram + Black Kyurem + Dynamax Palkia) + Modern Jacket Machamp 3★ → Cresselia + Darkrai 5★ + Mega Banette Mon 16–Tue 24 Nov → Deoxys (all 4 formes) 5★ + Mega Metagross Wed 25 Nov–Tue 1 Dec. Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged.",
-      "endsAtLabel": "Festival India ENDED Sun 8 Nov 8:00 PM · LIVE → Sun 8 Nov ~10:00 PM local (Giratina Altered / Mega Sableye / ghosty / Shadow Tornadus first window) · Next: Into the Wild Mon 9 Nov 10:00 AM"
+      "text": "Morning refresh 9 Nov ~6:30 AM HKT: Into the Wild promoted to LIVE (Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local; already live in NZ/far-east; starts 10:00 AM HKT). 5★ Crowned Sword Zacian + Crowned Shield Zamazenta (catch Hero of Many Battles — hundo 2188 / 2735 Cloudy; was incorrectly listed as crowned-form 2845/3556 and 2384/2980) and 3★ Druddigon + Orthworm. No 1★ or Mega published for this event (official + Leek Duck). Remote Raid limit 30. Zacian Raid Hour tonight 6–7 PM; Zamazenta Raid Hour Tue 10, 6–7 PM. Ghost window ENDED Sun 8 Nov ~10:00 PM local and removed from Current: Altered Giratina 5★, Mega Sableye, 1★ Duskull/Frillish(±Female)/Litwick, 3★ Cofagrigus/Trevenant/Dhelmise (still finishing in later/Americas timezones until that local 10 PM; Leek Duck raid-bosses + ScrapedDuck not yet flipped). Shadow Tornadus first weekend window ENDED; longer package resumes Mon 16 Nov → Tue 1 Dec. Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still listed (GO Hub). Upcoming unchanged: GO Wild Area Global Sat 14 (Zekrom + White Kyurem + Dynamax Dialga) & Sun 15 (Reshiram + Black Kyurem + Dynamax Palkia) + Modern Jacket Machamp 3★ → Cresselia + Darkrai 5★ + Mega Banette Mon 16–Tue 24 Nov → Deoxys (all 4 formes) 5★ + Mega Metagross Wed 25 Nov–Tue 1 Dec. Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged.",
+      "endsAtLabel": "Into the Wild → Fri 13 Nov 8:00 PM local · Zacian Raid Hour tonight 6–7 PM · Zamazenta Raid Hour Tue 10 6–7 PM"
     },
     "legend": {
       "standard": {
@@ -260,6 +260,22 @@
       {
         "name": "GO Hub — Crowned Sword Zacian counters",
         "url": "https://db.pokemongohub.net/pokemon/888-Crowned_Sword/counters"
+      },
+      {
+        "name": "Pokémon GO — Into the Wild 2026",
+        "url": "https://pokemongolive.com/news/into-the-wild-2026"
+      },
+      {
+        "name": "GO Hub — Crowned Sword Zacian raid guide",
+        "url": "https://pokemongohub.net/post/guide/zacian-crowned-sword-raid-guide/"
+      },
+      {
+        "name": "GO Hub — Crowned Shield Zamazenta raid guide",
+        "url": "https://pokemongohub.net/post/guide/zamazenta-crowned-shield-raid-guide/"
+      },
+      {
+        "name": "GO Hub — Crowned Shield Zamazenta counters",
+        "url": "https://db.pokemongohub.net/pokemon/889-Crowned_Shield/counters"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
@@ -273,7 +289,7 @@
       "catchForm": null,
       "tier": "1",
       "tierLabel": "1★",
-      "category": "current",
+      "category": "ended",
       "isShadow": false,
       "isMega": false,
       "window": "Fri 6 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck with Altered Giratina window)",
@@ -293,7 +309,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/355.png"
       },
       "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm355.icon.png",
-      "notes": "LIVE since Fri 6 Nov 6:00 AM local (Leek Duck raid-bosses + ScrapedDuck). Replaced Halloween costume 1★ Pikachu/Sinistea. Pure Ghost — easy solo. Shiny-eligible. Hundo 1/216. CP 364–403 (456–504 Fog).",
+      "notes": "ENDED Sun 8 Nov ~10:00 PM local (Leek Duck event pages). Not inventing a post-window 1★/3★/Mega pool — official Into the Wild lists only 3★ Druddigon/Orthworm and 5★ Crowned Zacian/Zamazenta. LIVE since Fri 6 Nov 6:00 AM local (Leek Duck raid-bosses + ScrapedDuck). Replaced Halloween costume 1★ Pikachu/Sinistea. Pure Ghost — easy solo. Shiny-eligible. Hundo 1/216. CP 364–403 (456–504 Fog).",
       "types": [
         "Ghost"
       ],
@@ -327,7 +343,8 @@
           "moves": "Snarl / Foul Play"
         }
       ],
-      "countersSource": "GO Hub Duskull counters (db.pokemongohub.net/pokemon/355/counters)"
+      "countersSource": "GO Hub Duskull counters (db.pokemongohub.net/pokemon/355/counters)",
+      "highlight": false
     },
     {
       "id": "frillish-nov6",
@@ -337,7 +354,7 @@
       "catchForm": "Male",
       "tier": "1",
       "tierLabel": "1★",
-      "category": "current",
+      "category": "ended",
       "isShadow": false,
       "isMega": false,
       "window": "Fri 6 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck with Altered Giratina window)",
@@ -358,7 +375,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592.png"
       },
       "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm592.icon.png",
-      "notes": "LIVE since Fri 6 Nov 6:00 AM local (Leek Duck / ScrapedDuck). Male Frillish listed separately from Female. Water/Ghost — easy solo. Shiny-eligible. Hundo 1/216. CP 668–718 (835–898 Rainy/Fog).",
+      "notes": "ENDED Sun 8 Nov ~10:00 PM local (Leek Duck event pages). Not inventing a post-window 1★/3★/Mega pool — official Into the Wild lists only 3★ Druddigon/Orthworm and 5★ Crowned Zacian/Zamazenta. LIVE since Fri 6 Nov 6:00 AM local (Leek Duck / ScrapedDuck). Male Frillish listed separately from Female. Water/Ghost — easy solo. Shiny-eligible. Hundo 1/216. CP 668–718 (835–898 Rainy/Fog).",
       "types": [
         "Water",
         "Ghost"
@@ -395,7 +412,8 @@
           "moves": "Thunder Shock / Discharge"
         }
       ],
-      "countersSource": "GO Hub Frillish counters + Frillish raid guide"
+      "countersSource": "GO Hub Frillish counters + Frillish raid guide",
+      "highlight": false
     },
     {
       "id": "frillish-female-nov6",
@@ -405,7 +423,7 @@
       "catchForm": "Female",
       "tier": "1",
       "tierLabel": "1★",
-      "category": "current",
+      "category": "ended",
       "isShadow": false,
       "isMega": false,
       "window": "Fri 6 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck with Altered Giratina window)",
@@ -426,7 +444,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/592-female.png"
       },
       "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm592.fFEMALE.icon.png",
-      "notes": "LIVE since Fri 6 Nov 6:00 AM local (Leek Duck / ScrapedDuck lists Female separately). Same Water/Ghost typing and counters as male. Shiny-eligible. Hundo 1/216. CP 668–718 (835–898 Rainy/Fog).",
+      "notes": "ENDED Sun 8 Nov ~10:00 PM local (Leek Duck event pages). Not inventing a post-window 1★/3★/Mega pool — official Into the Wild lists only 3★ Druddigon/Orthworm and 5★ Crowned Zacian/Zamazenta. LIVE since Fri 6 Nov 6:00 AM local (Leek Duck / ScrapedDuck lists Female separately). Same Water/Ghost typing and counters as male. Shiny-eligible. Hundo 1/216. CP 668–718 (835–898 Rainy/Fog).",
       "types": [
         "Water",
         "Ghost"
@@ -463,7 +481,8 @@
           "moves": "Thunder Shock / Discharge"
         }
       ],
-      "countersSource": "GO Hub Frillish counters + Frillish raid guide (same typing as male)"
+      "countersSource": "GO Hub Frillish counters + Frillish raid guide (same typing as male)",
+      "highlight": false
     },
     {
       "id": "litwick-nov6",
@@ -473,7 +492,7 @@
       "catchForm": null,
       "tier": "1",
       "tierLabel": "1★",
-      "category": "current",
+      "category": "ended",
       "isShadow": false,
       "isMega": false,
       "window": "Fri 6 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck with Altered Giratina window)",
@@ -494,7 +513,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/607.png"
       },
       "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm607.icon.png",
-      "notes": "LIVE since Fri 6 Nov 6:00 AM local (Leek Duck / ScrapedDuck). Ghost/Fire — easy solo. Shiny-eligible. Hundo 1/216. CP 530–575 (663–719 Fog/Sunny).",
+      "notes": "ENDED Sun 8 Nov ~10:00 PM local (Leek Duck event pages). Not inventing a post-window 1★/3★/Mega pool — official Into the Wild lists only 3★ Druddigon/Orthworm and 5★ Crowned Zacian/Zamazenta. LIVE since Fri 6 Nov 6:00 AM local (Leek Duck / ScrapedDuck). Ghost/Fire — easy solo. Shiny-eligible. Hundo 1/216. CP 530–575 (663–719 Fog/Sunny).",
       "types": [
         "Ghost",
         "Fire"
@@ -532,7 +551,8 @@
           "moves": "Snarl / Foul Play"
         }
       ],
-      "countersSource": "GO Hub Litwick counters (db.pokemongohub.net/pokemon/607/counters)"
+      "countersSource": "GO Hub Litwick counters (db.pokemongohub.net/pokemon/607/counters)",
+      "highlight": false
     },
     {
       "id": "mega-sableye-oct28",
@@ -542,7 +562,7 @@
       "catchForm": "Sableye",
       "tier": "mega",
       "tierLabel": "Mega",
-      "category": "current",
+      "category": "ended",
       "isShadow": false,
       "isMega": true,
       "window": "Wed 28 Oct 6:00 AM – Sun 8 Nov 10:00 PM local",
@@ -561,7 +581,7 @@
         "pokeapiId": 302,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/302.png"
       },
-      "notes": "LIVE through Sun 8 Nov 10:00 PM (Leek Duck + GO Hub). Catch form: Sableye (not Mega). Dark/Ghost — Fairy is its only weakness. Running alongside Altered Giratina 5★. Halloween Part II ends tonight but Mega continues. Shiny-eligible.",
+      "notes": "ENDED Sun 8 Nov ~10:00 PM local (Leek Duck event pages). Not inventing a post-window 1★/3★/Mega pool — official Into the Wild lists only 3★ Druddigon/Orthworm and 5★ Crowned Zacian/Zamazenta. LIVE through Sun 8 Nov 10:00 PM (Leek Duck + GO Hub). Catch form: Sableye (not Mega). Dark/Ghost — Fairy is its only weakness. Running alongside Altered Giratina 5★. Halloween Part II ends tonight but Mega continues. Shiny-eligible.",
       "types": [
         "Dark",
         "Ghost"
@@ -595,7 +615,8 @@
           "moves": "Charm / Moonblast"
         }
       ],
-      "countersSource": "type + GO Hub typing"
+      "countersSource": "type + GO Hub typing",
+      "highlight": false
     },
     {
       "id": "cofagrigus-oct28",
@@ -605,7 +626,7 @@
       "catchForm": null,
       "tier": "3",
       "tierLabel": "3★",
-      "category": "current",
+      "category": "ended",
       "isShadow": false,
       "isMega": false,
       "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck still listing with Altered Giratina; continues past Halloween Part II)",
@@ -624,7 +645,7 @@
         "pokeapiId": 563,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/563.png"
       },
-      "notes": "Still LIVE through Altered Giratina window → Sun 8 Nov ~10:00 PM (Leek Duck raid-bosses + ScrapedDuck 6 Nov morning). Costume 1★ rotated out Fri 6 Nov 6:00 AM; ghosty 3★ stayed. Shiny-eligible. Hundo 1/216.",
+      "notes": "ENDED Sun 8 Nov ~10:00 PM local (Leek Duck event pages). Not inventing a post-window 1★/3★/Mega pool — official Into the Wild lists only 3★ Druddigon/Orthworm and 5★ Crowned Zacian/Zamazenta. Still LIVE through Altered Giratina window → Sun 8 Nov ~10:00 PM (Leek Duck raid-bosses + ScrapedDuck 6 Nov morning). Costume 1★ rotated out Fri 6 Nov 6:00 AM; ghosty 3★ stayed. Shiny-eligible. Hundo 1/216.",
       "types": [
         "Ghost"
       ],
@@ -658,7 +679,8 @@
           "moves": "Snarl / Dark Pulse"
         }
       ],
-      "countersSource": "GO Hub"
+      "countersSource": "GO Hub",
+      "highlight": false
     },
     {
       "id": "trevenant-oct28",
@@ -668,7 +690,7 @@
       "catchForm": null,
       "tier": "3",
       "tierLabel": "3★",
-      "category": "current",
+      "category": "ended",
       "isShadow": false,
       "isMega": false,
       "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck still listing with Altered Giratina; continues past Halloween Part II)",
@@ -688,7 +710,7 @@
         "pokeapiId": 709,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/709.png"
       },
-      "notes": "Still LIVE through Altered Giratina window → Sun 8 Nov ~10:00 PM (Leek Duck raid-bosses + ScrapedDuck 6 Nov morning). Costume 1★ rotated out Fri 6 Nov 6:00 AM; ghosty 3★ stayed. Shiny-eligible. Hundo 1/216.",
+      "notes": "ENDED Sun 8 Nov ~10:00 PM local (Leek Duck event pages). Not inventing a post-window 1★/3★/Mega pool — official Into the Wild lists only 3★ Druddigon/Orthworm and 5★ Crowned Zacian/Zamazenta. Still LIVE through Altered Giratina window → Sun 8 Nov ~10:00 PM (Leek Duck raid-bosses + ScrapedDuck 6 Nov morning). Costume 1★ rotated out Fri 6 Nov 6:00 AM; ghosty 3★ stayed. Shiny-eligible. Hundo 1/216.",
       "types": [
         "Ghost",
         "Grass"
@@ -726,7 +748,8 @@
           "moves": "Snarl / Foul Play"
         }
       ],
-      "countersSource": "GO Hub"
+      "countersSource": "GO Hub",
+      "highlight": false
     },
     {
       "id": "dhelmise-oct28",
@@ -736,7 +759,7 @@
       "catchForm": null,
       "tier": "3",
       "tierLabel": "3★",
-      "category": "current",
+      "category": "ended",
       "isShadow": false,
       "isMega": false,
       "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (Leek Duck / ScrapedDuck still listing with Altered Giratina; continues past Halloween Part II)",
@@ -756,7 +779,7 @@
         "pokeapiId": 781,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/781.png"
       },
-      "notes": "Still LIVE through Altered Giratina window → Sun 8 Nov ~10:00 PM (Leek Duck raid-bosses + ScrapedDuck 6 Nov morning). Costume 1★ rotated out Fri 6 Nov 6:00 AM; ghosty 3★ stayed. Shiny-eligible. Hundo 1/216.",
+      "notes": "ENDED Sun 8 Nov ~10:00 PM local (Leek Duck event pages). Not inventing a post-window 1★/3★/Mega pool — official Into the Wild lists only 3★ Druddigon/Orthworm and 5★ Crowned Zacian/Zamazenta. Still LIVE through Altered Giratina window → Sun 8 Nov ~10:00 PM (Leek Duck raid-bosses + ScrapedDuck 6 Nov morning). Costume 1★ rotated out Fri 6 Nov 6:00 AM; ghosty 3★ stayed. Shiny-eligible. Hundo 1/216.",
       "types": [
         "Ghost",
         "Grass"
@@ -794,7 +817,8 @@
           "moves": "Fire Spin / Blast Burn"
         }
       ],
-      "countersSource": "GO Hub"
+      "countersSource": "GO Hub",
+      "highlight": false
     },
     {
       "id": "giratina-altered-nov4",
@@ -804,7 +828,7 @@
       "catchForm": null,
       "tier": "5",
       "tierLabel": "5★",
-      "category": "current",
+      "category": "ended",
       "isShadow": false,
       "isMega": false,
       "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local",
@@ -863,7 +887,7 @@
         }
       ],
       "countersSource": "GO Hub Altered Forme Giratina raid guide (Nov 2026)",
-      "highlight": true
+      "highlight": false
     },
     {
       "id": "shadow-larvitar",
@@ -876,9 +900,9 @@
       "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
+      "window": "Since Wed 4 Nov 6:00 AM local (GO Hub still listing as current; continues past first Tornadus weekend)",
       "windowStart": "2026-11-04T06:00:00",
-      "windowEnd": "2026-11-08T22:00:00",
+      "windowEnd": "2026-12-01T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
@@ -894,7 +918,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png"
       },
       "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm246.icon.png",
-      "notes": "Shadow Larvitar — LIVE in Shadow 1★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Rock/Ground — Water/Grass double weakness. Leek Duck/ScrapedDuck/PoGoPit still stale on prior Gastly set + Landorus 5★ header. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 513–594 (642–743 Partly Cloudy/Sunny).",
+      "notes": "Shadow Larvitar — LIVE in Shadow 1★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Rock/Ground — Water/Grass double weakness. Leek Duck/ScrapedDuck/PoGoPit still stale on prior Gastly set + Landorus 5★ header. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 513–594 (642–743 Partly Cloudy/Sunny). Morning 9 Nov: still listed current by GO Hub after first Tornadus weekend ended; no published replacement.",
       "types": [
         "Rock",
         "Ground"
@@ -942,9 +966,9 @@
       "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
+      "window": "Since Wed 4 Nov 6:00 AM local (GO Hub still listing as current; continues past first Tornadus weekend)",
       "windowStart": "2026-11-04T06:00:00",
-      "windowEnd": "2026-11-08T22:00:00",
+      "windowEnd": "2026-12-01T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
@@ -959,7 +983,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/258.png"
       },
       "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm258.icon.png",
-      "notes": "Shadow Mudkip — LIVE in Shadow 1★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Water — Electric/Grass weak. Leek Duck/ScrapedDuck/PoGoPit still stale on prior Totodile set. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 560–644 (700–805 Rainy).",
+      "notes": "Shadow Mudkip — LIVE in Shadow 1★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Water — Electric/Grass weak. Leek Duck/ScrapedDuck/PoGoPit still stale on prior Totodile set. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 560–644 (700–805 Rainy). Morning 9 Nov: still listed current by GO Hub after first Tornadus weekend ended; no published replacement.",
       "types": [
         "Water"
       ],
@@ -1002,9 +1026,9 @@
       "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
+      "window": "Since Wed 4 Nov 6:00 AM local (GO Hub still listing as current; continues past first Tornadus weekend)",
       "windowStart": "2026-11-04T06:00:00",
-      "windowEnd": "2026-11-08T22:00:00",
+      "windowEnd": "2026-12-01T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
@@ -1019,7 +1043,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/296.png"
       },
       "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm296.icon.png",
-      "notes": "Shadow Makuhita — LIVE in Shadow 1★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Fighting — Flying/Psychic/Fairy weak. Easy solo. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 391–467 (489–583 Cloudy).",
+      "notes": "Shadow Makuhita — LIVE in Shadow 1★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Fighting — Flying/Psychic/Fairy weak. Easy solo. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 391–467 (489–583 Cloudy). Morning 9 Nov: still listed current by GO Hub after first Tornadus weekend ended; no published replacement.",
       "types": [
         "Fighting"
       ],
@@ -1063,9 +1087,9 @@
       "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
+      "window": "Since Wed 4 Nov 6:00 AM local (GO Hub still listing as current; continues past first Tornadus weekend)",
       "windowStart": "2026-11-04T06:00:00",
-      "windowEnd": "2026-11-08T22:00:00",
+      "windowEnd": "2026-12-01T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
@@ -1080,7 +1104,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/408.png"
       },
       "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm408.icon.png",
-      "notes": "Shadow Cranidos — LIVE in Shadow 1★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Rock — Water/Grass/Fighting/Ground/Steel weak. Higher CP than other Shadow 1★. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 922–1040 (1153–1300 Partly Cloudy).",
+      "notes": "Shadow Cranidos — LIVE in Shadow 1★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Rock — Water/Grass/Fighting/Ground/Steel weak. Higher CP than other Shadow 1★. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 922–1040 (1153–1300 Partly Cloudy). Morning 9 Nov: still listed current by GO Hub after first Tornadus weekend ended; no published replacement.",
       "types": [
         "Rock"
       ],
@@ -1126,9 +1150,9 @@
       "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
+      "window": "Since Wed 4 Nov 6:00 AM local (GO Hub still listing as current; continues past first Tornadus weekend)",
       "windowStart": "2026-11-04T06:00:00",
-      "windowEnd": "2026-11-08T22:00:00",
+      "windowEnd": "2026-12-01T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
@@ -1143,7 +1167,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png"
       },
       "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm394.icon.png",
-      "notes": "Shadow Prinplup — LIVE in Shadow 3★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Water — Electric/Grass weak. CP max 972 / 1215 Rainy (Dexerto + GO Hub Prinplup guide; Snack Nap 868–972 / 1086–1215). GO Hub current page weather figure 1515 looks stale/typo — using 1215. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6.",
+      "notes": "Shadow Prinplup — LIVE in Shadow 3★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Water — Electric/Grass weak. CP max 972 / 1215 Rainy (Dexerto + GO Hub Prinplup guide; Snack Nap 868–972 / 1086–1215). GO Hub current page weather figure 1515 looks stale/typo — using 1215. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. Morning 9 Nov: still listed current by GO Hub after first Tornadus weekend ended; no published replacement.",
       "types": [
         "Water"
       ],
@@ -1190,9 +1214,9 @@
       "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
+      "window": "Since Wed 4 Nov 6:00 AM local (GO Hub still listing as current; continues past first Tornadus weekend)",
       "windowStart": "2026-11-04T06:00:00",
-      "windowEnd": "2026-11-08T22:00:00",
+      "windowEnd": "2026-12-01T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
@@ -1208,7 +1232,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/221.png"
       },
       "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm221.icon.png",
-      "notes": "Shadow Piloswine — LIVE in Shadow 3★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Ice/Ground — Fighting/Steel/Fire/Water/Grass weak. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 1217–1340 (1521–1675 Snow/Sunny).",
+      "notes": "Shadow Piloswine — LIVE in Shadow 3★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Ice/Ground — Fighting/Steel/Fire/Water/Grass weak. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 1217–1340 (1521–1675 Snow/Sunny). Morning 9 Nov: still listed current by GO Hub after first Tornadus weekend ended; no published replacement.",
       "types": [
         "Ice",
         "Ground"
@@ -1259,9 +1283,9 @@
       "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (with Shadow Tornadus rotation; Snack Nap / GO Hub / Dexerto / DoctorPokeGoGo)",
+      "window": "Since Wed 4 Nov 6:00 AM local (GO Hub still listing as current; continues past first Tornadus weekend)",
       "windowStart": "2026-11-04T06:00:00",
-      "windowEnd": "2026-11-08T22:00:00",
+      "windowEnd": "2026-12-01T22:00:00",
       "shiny": true,
       "shinyRate": "not published",
       "hundoRate": "1/1000",
@@ -1276,7 +1300,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png"
       },
       "fallbackSprite": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm61.icon.png",
-      "notes": "Shadow Poliwhirl — LIVE in Shadow 3★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Water — Electric/Grass weak. Easy duo/solo for prepared teams. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 716–811 (895–1013 Rainy).",
+      "notes": "Shadow Poliwhirl — LIVE in Shadow 3★ since Wed 4 Nov with Tornadus rotation (Snack Nap Updated Nov 7 + GO Hub current + Dexerto Nov 4 + DoctorPokeGoGo Nov 4). Water — Electric/Grass weak. Easy duo/solo for prepared teams. Shiny-eligible. Hundo 1/1000; IV floor 6/6/6. CP 716–811 (895–1013 Rainy). Morning 9 Nov: still listed current by GO Hub after first Tornadus weekend ended; no published replacement.",
       "types": [
         "Water"
       ],
@@ -1320,12 +1344,12 @@
       "catchForm": null,
       "tier": "shadow-5",
       "tierLabel": "Shadow 5★",
-      "category": "current",
+      "category": "upcoming",
       "isShadow": true,
       "isMega": false,
-      "window": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local (Shadow 5★ weekends; first window)",
-      "windowStart": "2026-11-04T06:00:00",
-      "windowEnd": "2026-11-08T22:00:00",
+      "window": "Mon 16 Nov 6:00 AM – Tue 1 Dec 10:00 PM local (Shadow 5★ weekends; longer package)",
+      "windowStart": "2026-11-16T06:00:00",
+      "windowEnd": "2026-12-01T22:00:00",
       "shiny": true,
       "shinyRate": "~1/20 community legendary estimate; Niantic not published",
       "hundoRate": "1/1000",
@@ -1339,7 +1363,7 @@
         "pokeapiId": 641,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png"
       },
-      "notes": "LIVE since Wed 4 Nov 6:00 AM local — first Shadow 5★ weekend window through Sun 8 Nov 10:00 PM (Leek Duck event page). Longer package resumes Mon 16 Nov → Tue 1 Dec. Pure Flying. Hundo CP 1911 (2389 Windy); catch range 1762–1911 / 2203–2389 Windy (Snack Nap / Dexerto). Local-only; Purified Gems needed when enraged. Recommend 4–6+ trainers. Shadow 1★/3★ rotated with this package to Larvitar/Mudkip/Makuhita/Cranidos + Prinplup/Piloswine/Poliwhirl (Snack Nap Updated Nov 7 + GO Hub current + Dexerto / DoctorPokeGoGo Nov 4; Leek Duck/ScrapedDuck/PoGoPit still stale on prior Gastly set + Landorus 5★ header).",
+      "notes": "First weekend window ENDED Sun 8 Nov 10:00 PM local (Leek Duck event page). Longer Shadow package resumes Mon 16 Nov → Tue 1 Dec (weekend Shadow 5★). Pure Flying. Hundo CP 1911 (2389 Windy); catch range 1762–1911 / 2203–2389 Windy (Snack Nap / Dexerto). Local-only; Purified Gems needed when enraged. Recommend 4–6+ trainers. Shadow 1★/3★ Larvitar/Mudkip/Makuhita/Cranidos + Prinplup/Piloswine/Poliwhirl still listed by GO Hub.",
       "types": [
         "Flying"
       ],
@@ -1375,17 +1399,17 @@
         }
       ],
       "countersSource": "GO Hub Shadow Tornadus Incarnate counters (Nov 2026)",
-      "highlight": true
+      "highlight": false
     },
     {
       "id": "zacian-crowned-sword-nov9",
       "name": "Zacian",
       "form": "Crowned Sword",
       "species": "Zacian",
-      "catchForm": null,
+      "catchForm": "Hero of Many Battles",
       "tier": "5",
       "tierLabel": "5★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "window": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (Into the Wild)",
@@ -1395,8 +1419,8 @@
       "shinyRate": "~1/20 community legendary estimate; Niantic not published",
       "hundoRate": "1/216",
       "ivFloor": "10/10/10",
-      "cpL20": 2845,
-      "cpL25": 3556,
+      "cpL20": 2188,
+      "cpL25": 2735,
       "weather": [
         "Cloudy",
         "Snow"
@@ -1405,7 +1429,7 @@
         "pokeapiId": 10188,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10188.png"
       },
-      "notes": "Into the Wild (Leek Duck). Fairy/Steel. Hundo 2845 (3556 Cloudy/Snow). Raid Hour Mon 9 Nov 6–7 PM. Wins award Crowned Sword Energy; Special Background possible on 5★ catches.",
+      "notes": "LIVE with Into the Wild (official / Leek Duck) Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local. Fairy/Steel. You fight Crowned Sword but catch Hero of Many Battles — hundo 2188 (2735 Cloudy). Raid Hour Mon 9 Nov 6–7 PM. Wins award Crowned Sword Energy; Special Background possible on 5★ catches. Shiny-eligible.",
       "types": [
         "Fairy",
         "Steel"
@@ -1440,17 +1464,19 @@
           "moves": "Fire Fang / Fusion Flare"
         }
       ],
-      "countersSource": "GO Hub Crowned Sword Zacian counters"
+      "countersSource": "GO Hub Crowned Sword Zacian counters",
+      "event": "Into the Wild",
+      "highlight": true
     },
     {
       "id": "zamazenta-crowned-shield-nov9",
       "name": "Zamazenta",
       "form": "Crowned Shield",
       "species": "Zamazenta",
-      "catchForm": null,
+      "catchForm": "Hero of Many Battles",
       "tier": "5",
       "tierLabel": "5★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "window": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (Into the Wild)",
@@ -1460,8 +1486,8 @@
       "shinyRate": "~1/20 community legendary estimate; Niantic not published",
       "hundoRate": "1/216",
       "ivFloor": "10/10/10",
-      "cpL20": 2384,
-      "cpL25": 2980,
+      "cpL20": 2188,
+      "cpL25": 2735,
       "weather": [
         "Cloudy",
         "Snow"
@@ -1470,7 +1496,7 @@
         "pokeapiId": 10189,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10189.png"
       },
-      "notes": "Into the Wild (Leek Duck). Fighting/Steel. Hundo 2384 (2980 Cloudy/Snow). Raid Hour Tue 10 Nov 6–7 PM. Wins award Crowned Shield Energy; Special Background possible on 5★ catches.",
+      "notes": "LIVE with Into the Wild (official / Leek Duck) Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local. Fighting/Steel. You fight Crowned Shield but catch Hero of Many Battles — hundo 2188 (2735 Cloudy). Raid Hour Tue 10 Nov 6–7 PM. Wins award Crowned Shield Energy; Special Background possible on 5★ catches. Shiny-eligible.",
       "types": [
         "Fighting",
         "Steel"
@@ -1482,31 +1508,33 @@
       ],
       "counters": [
         {
+          "name": "Mega Mewtwo X",
+          "moves": "Counter / Dynamic Punch"
+        },
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
           "name": "Mega Blaziken",
+          "moves": "Fire Spin / Aura Sphere"
+        },
+        {
+          "name": "Mega Delphox",
           "moves": "Fire Spin / Blast Burn"
         },
         {
-          "name": "Primal Groudon",
-          "moves": "Mud Shot / Precipice Blades"
+          "name": "Blacephalon",
+          "moves": "Incinerate / Mind Blown"
         },
         {
           "name": "Mega Charizard Y",
           "moves": "Fire Spin / Blast Burn"
-        },
-        {
-          "name": "Shadow Heatran",
-          "moves": "Fire Spin / Magma Storm"
-        },
-        {
-          "name": "Terrakion",
-          "moves": "Double Kick / Sacred Sword"
-        },
-        {
-          "name": "Mega Garchomp",
-          "moves": "Mud Shot / Earth Power"
         }
       ],
-      "countersSource": "type chart + GO Hub Fighting/Steel counters"
+      "countersSource": "GO Hub Crowned Shield Zamazenta raid guide",
+      "event": "Into the Wild",
+      "highlight": true
     },
     {
       "id": "druddigon-nov9",
@@ -1516,7 +1544,7 @@
       "catchForm": null,
       "tier": "3",
       "tierLabel": "3★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "window": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (Into the Wild)",
@@ -1535,7 +1563,7 @@
         "pokeapiId": 621,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
       },
-      "notes": "Into the Wild 3★ all week (Leek Duck). Dragon. Hundo 1561 (1951 Windy).",
+      "notes": "LIVE Into the Wild 3★ all week (official / Leek Duck) Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local. Dragon. Hundo 1561 (1951 Windy). Shiny-eligible. No 1★ or Mega published for this event.",
       "types": [
         "Dragon"
       ],
@@ -1570,7 +1598,8 @@
           "moves": "Dragon Tail / Dynamax Cannon"
         }
       ],
-      "countersSource": "type"
+      "countersSource": "type",
+      "event": "Into the Wild"
     },
     {
       "id": "orthworm-nov9",
@@ -1580,7 +1609,7 @@
       "catchForm": null,
       "tier": "3",
       "tierLabel": "3★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
       "window": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (Into the Wild)",
@@ -1599,7 +1628,7 @@
         "pokeapiId": 968,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
       },
-      "notes": "Into the Wild 3★ all week (Leek Duck). Steel. Hundo 1313 (1642 Snow).",
+      "notes": "LIVE Into the Wild 3★ all week (official / Leek Duck) Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local. Steel. Hundo 1313 (1642 Snow). Shiny-eligible. No 1★ or Mega published for this event.",
       "types": [
         "Steel"
       ],
@@ -1634,7 +1663,8 @@
           "moves": "Mud Shot / Earth Power"
         }
       ],
-      "countersSource": "type"
+      "countersSource": "type",
+      "event": "Into the Wild"
     },
     {
       "id": "zekrom-wild-area-nov14",
@@ -2616,44 +2646,16 @@
   ],
   "events": [
     {
-      "id": "festival-of-lights-2026",
-      "when": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM India local (ENDED · India only)",
-      "title": "Festival of Lights 2026 (ENDED · India only)",
-      "impact": "ENDED Sun 8 Nov 8:00 PM India local (official window; IGN / GameInfo / Snack Nap). India-exclusive 1★ Pikachu wearing a saree + Pikachu wearing a kurta are no longer live and were removed from the current list. Worldwide 1★ remains Duskull/Frillish/Litwick through the Altered Giratina window → Sun 8 Nov ~10:00 PM local.",
-      "urgent": false
-    },
-    {
-      "id": "giratina-altered-nov4",
-      "when": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local (LIVE)",
-      "title": "Giratina (Altered) 5★ (LIVE)",
-      "impact": "LIVE since Wed 4 Nov 6:00 AM local through Sun 8 Nov 10:00 PM (Leek Duck). Shiny-eligible. Hundo CP 1931 / 2414 Fog or Windy. Raid Hour Wed 4 Nov 6–7 PM ENDED. Global 1★ now Duskull/Frillish/Litwick; ghosty 3★ still listed alongside through this window.",
-      "urgent": true
-    },
-    {
-      "id": "shadow-tornadus-nov4",
-      "when": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local (LIVE — Shadow 5★ weekends; first window)",
-      "title": "Shadow Tornadus (Incarnate) in Shadow raids (LIVE)",
-      "impact": "LIVE since Wed 4 Nov 6:00 AM. First Shadow 5★ weekend window through Sun 8 Nov 10:00 PM (Leek Duck). Pure Flying — weak to Electric / Ice / Rock. Longer package resumes Mon 16 Nov → Tue 1 Dec. Shadow 1★/3★ pool continues per GO Hub.",
-      "urgent": true
-    },
-    {
-      "id": "global-1star-nov6",
-      "when": "Fri 6 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (LIVE)",
-      "title": "Global 1★ rotation: Duskull / Frillish / Litwick (LIVE)",
-      "impact": "Leek Duck raid-bosses + ScrapedDuck rotated costume Halloween 1★ out at Fri 6 Nov 6:00 AM local. Now: Duskull, Frillish, Frillish (Female), Litwick. Ghosty 3★ unchanged. GO Hub current-bosses page still stale on costume 1★ (last edit Nov 3).",
-      "urgent": true
-    },
-    {
       "id": "into-the-wild-2026",
-      "when": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (upcoming)",
-      "title": "Into the Wild 2026 (upcoming)",
-      "impact": "5★ Crowned Sword Zacian + Crowned Shield Zamazenta all week (Crowned Sword/Shield Energy from wins; Special Background possible). 3★ Druddigon + Orthworm. Remote Raid limit 30. Max Battles (Registeel Wed / Regidrago Thu / Latias+Latios Fri) are Max dens — see Leek Duck, not gym raid cards. Raid Hours: Zacian Mon 9 + Zamazenta Tue 10, 6–7 PM.",
+      "when": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (LIVE)",
+      "title": "Into the Wild 2026 (LIVE)",
+      "impact": "LIVE from Mon 9 Nov 10:00 AM local (already started in NZ/far-east at this 6:30 AM HKT check; ~10:00 AM HKT). 5★ Crowned Sword Zacian + Crowned Shield Zamazenta all week — catch is Hero of Many Battles, hundo 2188 / 2735 Cloudy (Crowned Sword/Shield Energy from wins; Special Background possible). 3★ Druddigon + Orthworm. No 1★ or Mega listed. Remote Raid limit 30. Max Battles (1★ Ralts, 2★ Machop; 5★ Registeel Wed / Regidrago Thu / Latias+Latios Fri) are Max dens, not gym raid cards. Raid Hours: Zacian Mon 9 + Zamazenta Tue 10, 6–7 PM.",
       "urgent": true
     },
     {
       "id": "raid-hour-zacian-nov9",
-      "when": "Mon 9 Nov 6:00–7:00 PM local (upcoming)",
-      "title": "Raid Hour: Zacian (Crowned Sword) (upcoming)",
+      "when": "Mon 9 Nov 6:00–7:00 PM local (upcoming tonight)",
+      "title": "Raid Hour: Zacian (Crowned Sword) (tonight)",
       "impact": "Into the Wild Raid Hour — denser Crowned Sword Zacian 5★ spawns 6–7 PM local Mon 9 Nov.",
       "urgent": true
     },
@@ -2662,6 +2664,34 @@
       "when": "Tue 10 Nov 6:00–7:00 PM local (upcoming)",
       "title": "Raid Hour: Zamazenta (Crowned Shield) (upcoming)",
       "impact": "Into the Wild Raid Hour — denser Crowned Shield Zamazenta 5★ spawns 6–7 PM local Tue 10 Nov.",
+      "urgent": false
+    },
+    {
+      "id": "shadow-tornadus-nov4",
+      "when": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local (ENDED — first weekend window)",
+      "title": "Shadow Tornadus (Incarnate) first weekend window (ENDED)",
+      "impact": "First Shadow 5★ weekend window ENDED Sun 8 Nov 10:00 PM local (Leek Duck). Longer package resumes Mon 16 Nov → Tue 1 Dec (weekends). Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still listed as current by GO Hub (no published replacement).",
+      "urgent": false
+    },
+    {
+      "id": "giratina-altered-nov4",
+      "when": "Wed 4 Nov 6:00 AM – Sun 8 Nov 10:00 PM local (ENDED)",
+      "title": "Giratina (Altered) 5★ (ENDED)",
+      "impact": "ENDED Sun 8 Nov 10:00 PM local (Leek Duck event page). Ghosty 3★ Cofagrigus/Trevenant/Dhelmise ended with the same window. Still finishing in later (Americas) timezones until that local 10 PM. No published 5★ replacement before Into the Wild Mon 9 Nov 10:00 AM.",
+      "urgent": false
+    },
+    {
+      "id": "global-1star-nov6",
+      "when": "Fri 6 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (ENDED)",
+      "title": "Global 1★ rotation: Duskull / Frillish / Litwick (ENDED)",
+      "impact": "ENDED Sun 8 Nov ~10:00 PM local with the Altered Giratina window (Leek Duck / ScrapedDuck). Mega Sableye ended the same night (Leek Duck: Sun 8 Nov 10:00 PM). Into the Wild does not list a 1★ or Mega replacement (official + Leek Duck: 3★ Druddigon/Orthworm and 5★ Crowned Zacian/Zamazenta only).",
+      "urgent": false
+    },
+    {
+      "id": "festival-of-lights-2026",
+      "when": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM India local (ENDED · India only)",
+      "title": "Festival of Lights 2026 (ENDED · India only)",
+      "impact": "ENDED Sun 8 Nov 8:00 PM India local (official window; IGN / GameInfo / Snack Nap). India-exclusive 1★ Pikachu wearing a saree + Pikachu wearing a kurta are no longer live and were removed from the current list. Worldwide 1★ remains Duskull/Frillish/Litwick through the Altered Giratina window → Sun 8 Nov ~10:00 PM local.",
       "urgent": false
     },
     {
