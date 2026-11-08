@@ -121,14 +121,27 @@
   const observedAt = $("#observed-at");
 
   let battle = {
-    step: "lobby",
+    step: "lobby", // lobby | party | resolving | results
     mode: "casual",
     habitat: "tree",
     opponent: null,
+    opponentRating: null,
     partyIds: [],
     foeParty: [],
     lastResult: null,
+    searching: false,
   };
+
+  const DEMO_LEADERBOARD = [
+    { rank: 1, username: "apexkite", rating: 1842, region: "JP" },
+    { rank: 2, username: "reefpulse", rating: 1795, region: "AU" },
+    { rank: 3, username: "trailfox", rating: 1710, region: "HK" },
+    { rank: 4, username: "meadowjay", rating: 1644, region: "UK" },
+    { rank: 5, username: "crystalfern", rating: 1588, region: "US" },
+    { rank: 6, username: "tidewalker", rating: 1520, region: "CA" },
+    { rank: 7, username: "urbanotter", rating: 1462, region: "SG" },
+    { rank: 8, username: "alpinejay", rating: 1398, region: "CH" },
+  ];
 
   async function boot() {
     try {
@@ -1235,50 +1248,105 @@
   function renderBattle() {
     const root = $("#battle-flow");
     if (!root) return;
+    const myRating = state.rating || 1000;
 
     if (battle.step === "lobby") {
       const friends = state.friends || [];
-      const oppOptions = friends.length
-        ? friends
-            .map(
-              (f) =>
-                `<button type="button" class="fighter-card ${battle.opponent === f.username ? "is-selected" : ""}" data-opp="${escapeHtml(f.username)}">
-                  <div class="fighter-emoji">👤</div>
-                  <div>
-                    <div class="fighter-name">@${escapeHtml(f.username)}</div>
-                    <div class="fighter-sub">${f.status === "online" ? "Online" : "Offline"} · challenge</div>
-                  </div>
-                  <span class="bp-pill">VS</span>
-                </button>`
-            )
-            .join("")
-        : `<div class="empty-hint">Add a friend first to challenge</div>`;
-
       const habitats = HABITATS.map(
         (h) =>
           `<button type="button" class="habitat-chip ${battle.habitat === h.id ? "is-active" : ""}" data-hab="${h.id}">${h.icon}<br>${escapeHtml(h.label)}</button>`
       ).join("");
 
+      let middle = "";
+      let ctaLabel = "Pick party of 3";
+      let ctaDisabled = true;
+
+      if (battle.mode === "casual") {
+        const oppOptions = friends.length
+          ? friends
+              .map(
+                (f) =>
+                  `<button type="button" class="fighter-card ${battle.opponent === f.username ? "is-selected" : ""}" data-opp="${escapeHtml(f.username)}">
+                  <div class="fighter-emoji">👤</div>
+                  <div>
+                    <div class="fighter-name">@${escapeHtml(f.username)}</div>
+                    <div class="fighter-sub">${f.status === "online" ? "Online" : "Offline"} · friend challenge</div>
+                  </div>
+                  <span class="bp-pill">VS</span>
+                </button>`
+              )
+              .join("")
+          : `<div class="empty-hint">Add a friend first to challenge</div>`;
+        middle = `<h3 class="section-label">Opponent (friends)</h3><div class="opponent-pick">${oppOptions}</div>`;
+        ctaDisabled = !battle.opponent;
+      } else {
+        const board = DEMO_LEADERBOARD.map((row) => {
+          const you = state.user && row.username === state.user.username;
+          return `<li class="lb-row ${you ? "is-you" : ""}">
+            <span class="lb-rank">#${row.rank}</span>
+            <span class="lb-name">@${escapeHtml(row.username)}${you ? " · you" : ""}</span>
+            <span class="lb-region">${escapeHtml(row.region)}</span>
+            <span class="lb-elo">${row.rating}</span>
+          </li>`;
+        }).join("");
+        const youRank =
+          DEMO_LEADERBOARD.find((r) => state.user && r.username === state.user.username)?.rank ||
+          "—";
+        const searchBlock = battle.searching
+          ? `<div class="matchmake-card is-searching">
+              <strong>Finding opponent…</strong>
+              <p class="muted small">Worldwide · ±100 Elo of ${myRating}</p>
+              <div class="matchmake-pulse" aria-hidden="true"></div>
+            </div>`
+          : battle.opponent
+            ? `<div class="matchmake-card is-found">
+              <strong>Match found</strong>
+              <p>@${escapeHtml(battle.opponent)} · Elo ${battle.opponentRating ?? "—"}</p>
+              <p class="muted small">Near your rating · worldwide queue (demo)</p>
+            </div>`
+            : `<div class="matchmake-card">
+              <strong>Ranked queue</strong>
+              <p class="muted small">Real online matchmaking by Elo · worldwide</p>
+              <button type="button" class="btn btn-secondary btn-block" id="btn-find-match">Find match</button>
+            </div>`;
+        middle = `
+          <div class="ranked-elo-bar">
+            <div><span class="muted small">Your Elo</span><strong class="elo-num">${myRating}</strong></div>
+            <div><span class="muted small">World rank</span><strong class="elo-num">#${youRank}</strong></div>
+          </div>
+          ${searchBlock}
+          <h3 class="section-label">Worldwide leaderboard</h3>
+          <ol class="leaderboard">${board}</ol>`;
+        ctaDisabled = !battle.opponent || battle.searching;
+        ctaLabel = battle.opponent ? "Pick party of 3" : "Find a match first";
+      }
+
       root.innerHTML = `
-        <div class="mode-toggle" role="group" aria-label="Mode">
-          <button type="button" class="mode-btn ${battle.mode === "casual" ? "is-active" : ""}" data-mode="casual">
-            <strong>Casual</strong><span>No rating change</span>
-          </button>
-          <button type="button" class="mode-btn ${battle.mode === "ranked" ? "is-active" : ""}" data-mode="ranked">
-            <strong>Ranked</strong><span>Rating ${state.rating ?? 1000}</span>
-          </button>
-        </div>
-        <h3 class="section-label">Habitat field</h3>
-        <div class="habitat-grid">${habitats}</div>
-        <h3 class="section-label">Opponent</h3>
-        <div class="opponent-pick">${oppOptions}</div>
-        <div class="battle-actions">
-          <button type="button" class="btn btn-primary btn-block" id="btn-battle-continue" ${battle.opponent ? "" : "disabled"}>Pick party of 3</button>
+        <div class="battle-layout">
+          <div class="battle-scroll">
+            <div class="mode-toggle" role="group" aria-label="Mode">
+              <button type="button" class="mode-btn ${battle.mode === "casual" ? "is-active" : ""}" data-mode="casual">
+                <strong>Casual</strong><span>Friends · no Elo change</span>
+              </button>
+              <button type="button" class="mode-btn ${battle.mode === "ranked" ? "is-active" : ""}" data-mode="ranked">
+                <strong>Ranked</strong><span>Online Elo · world board</span>
+              </button>
+            </div>
+            <h3 class="section-label">Habitat field</h3>
+            <div class="habitat-grid">${habitats}</div>
+            ${middle}
+          </div>
+          <div class="battle-sticky">
+            <button type="button" class="btn btn-primary btn-block" id="btn-battle-continue" ${ctaDisabled ? "disabled" : ""}>${ctaLabel}</button>
+          </div>
         </div>`;
 
       root.querySelectorAll("[data-mode]").forEach((b) =>
         b.addEventListener("click", () => {
           battle.mode = b.dataset.mode;
+          battle.opponent = null;
+          battle.opponentRating = null;
+          battle.searching = false;
           renderBattle();
         })
       );
@@ -1291,11 +1359,34 @@
       root.querySelectorAll("[data-opp]").forEach((b) =>
         b.addEventListener("click", () => {
           battle.opponent = b.dataset.opp;
+          battle.opponentRating = null;
           renderBattle();
         })
       );
+      $("#btn-find-match")?.addEventListener("click", () => {
+        battle.searching = true;
+        battle.opponent = null;
+        battle.opponentRating = null;
+        renderBattle();
+        setTimeout(() => {
+          if (!battle.searching) return;
+          const pool = DEMO_LEADERBOARD.filter(
+            (r) => !state.user || r.username !== state.user.username
+          );
+          // Prefer closest Elo
+          pool.sort(
+            (a, b) => Math.abs(a.rating - myRating) - Math.abs(b.rating - myRating)
+          );
+          const pick = pool[0] || { username: "wanderer", rating: myRating };
+          battle.searching = false;
+          battle.opponent = pick.username;
+          battle.opponentRating = pick.rating;
+          renderBattle();
+          showToast(`Matched @${pick.username}`);
+        }, 1100);
+      });
       $("#btn-battle-continue")?.addEventListener("click", () => {
-        if (!battle.opponent) return;
+        if (!battle.opponent || battle.searching) return;
         battle.partyIds = [];
         battle.step = "party";
         renderBattle();
@@ -1310,27 +1401,17 @@
         .map((f) => {
           const on = selected.has(f.id);
           const disabled = !on && selected.size >= 3;
-          const { strong, weak } = matchupChips(f.types);
           const { bp, buffed } = effectiveBp(f, battle.habitat);
           const types = (f.types || [])
             .map((t) => `<span class="type-chip">${escapeHtml(t)}</span>`)
             .join("");
-          const strongHtml = strong
-            .slice(0, 3)
-            .map((t) => `<span class="strong-chip">Strong ${escapeHtml(t)}</span>`)
-            .join("");
-          const weakHtml = weak
-            .slice(0, 3)
-            .map((t) => `<span class="weak-chip">Weak ${escapeHtml(t)}</span>`)
-            .join("");
-          const label = (f.commonName || "").replace(/^SAMPLE:\\s*/i, "");
+          const label = (f.commonName || "").replace(/^SAMPLE:\s*/i, "");
           return `
             <button type="button" class="fighter-card ${on ? "is-selected" : ""} ${disabled ? "is-disabled" : ""}" data-fighter="${escapeHtml(f.id)}">
               <div class="fighter-emoji">${f.emoji || "🐾"}</div>
               <div>
                 <div class="fighter-name">${escapeHtml(label)}</div>
                 <div class="type-chips">${types}</div>
-                <div class="matchup-row">${strongHtml}${weakHtml}</div>
                 <div class="fighter-sub">${escapeHtml(f.rarity)} · animals only</div>
               </div>
               <span class="bp-pill ${buffed ? "is-buffed" : ""}">${bp} BP${buffed ? " +15%" : ""}</span>
@@ -1339,11 +1420,15 @@
         .join("");
 
       root.innerHTML = `
-        <button type="button" class="btn-back" id="btn-party-back">← Lobby</button>
-        <p class="party-count">${selected.size}/3 fighters · animals only</p>
-        <div class="party-picker">${cards || '<div class="empty-hint">No animal fighters yet</div>'}</div>
-        <div class="battle-actions">
-          <button type="button" class="btn btn-primary btn-block" id="btn-start-fight" ${selected.size === 3 ? "" : "disabled"}>Enter battle</button>
+        <div class="battle-layout">
+          <div class="battle-scroll">
+            <button type="button" class="btn-back" id="btn-party-back">← Lobby</button>
+            <p class="party-count">${selected.size}/3 fighters · animals only</p>
+            <div class="party-picker">${cards || '<div class="empty-hint">No animal fighters yet</div>'}</div>
+          </div>
+          <div class="battle-sticky">
+            <button type="button" class="btn btn-primary btn-block" id="btn-start-fight" ${selected.size === 3 ? "" : "disabled"}>Enter battle</button>
+          </div>
         </div>`;
 
       $("#btn-party-back")?.addEventListener("click", () => {
@@ -1361,10 +1446,10 @@
       });
       $("#btn-start-fight")?.addEventListener("click", () => {
         if (battle.partyIds.length !== 3) return;
-        const roster = collectAnimalRoster();
-        const party = battle.partyIds.map((id) => roster.find((r) => r.id === id)).filter(Boolean);
-        let foePool = roster.filter((r) => !battle.partyIds.includes(r.id));
-        if (foePool.length < 3) foePool = roster.slice();
+        const rosterNow = collectAnimalRoster();
+        const party = battle.partyIds.map((id) => rosterNow.find((r) => r.id === id)).filter(Boolean);
+        let foePool = rosterNow.filter((r) => !battle.partyIds.includes(r.id));
+        if (foePool.length < 3) foePool = rosterNow.slice();
         battle.foeParty = pickFoeParty(foePool);
         const score = scoreParty(party, battle.foeParty, battle.habitat);
         const won = score >= 0;
@@ -1374,14 +1459,37 @@
           state.rating = (state.rating || 1000) + ratingDelta;
           saveState();
         }
-        battle.lastResult = { won, score, ratingDelta, party, foe: battle.foeParty };
-        battle.step = "fight";
+        battle.lastResult = {
+          won,
+          score,
+          ratingDelta,
+          party,
+          foe: battle.foeParty,
+          opponent: battle.opponent,
+          opponentRating: battle.opponentRating,
+        };
+        battle.step = "resolving";
         renderBattle();
+        setTimeout(() => {
+          if (battle.step !== "resolving") return;
+          battle.step = "results";
+          renderBattle();
+        }, 900);
       });
       return;
     }
 
-    if (battle.step === "fight" || battle.step === "results") {
+    if (battle.step === "resolving") {
+      root.innerHTML = `
+        <div class="resolve-beat" role="status">
+          <p class="resolve-title">Battling…</p>
+          <p class="muted">Habitat buffs · type matchups resolving</p>
+          <div class="matchmake-pulse" aria-hidden="true"></div>
+        </div>`;
+      return;
+    }
+
+    if (battle.step === "results") {
       const res = battle.lastResult;
       if (!res) {
         battle.step = "lobby";
@@ -1401,7 +1509,7 @@
                 const types = (f.types || [])
                   .map((t) => `<span class="type-chip">${escapeHtml(t)}</span>`)
                   .join("");
-                const name = (f.commonName || "").replace(/^SAMPLE:\\s*/i, "");
+                const name = (f.commonName || "").replace(/^SAMPLE:\s*/i, "");
                 return `
                 <div class="fighter-card" style="margin-bottom:8px">
                   <div class="fighter-emoji">${f.emoji || "🐾"}</div>
@@ -1420,35 +1528,60 @@
           </div>`;
       }
 
+      const oppLabel = res.opponent || battle.opponent || "foe";
+      const oppElo =
+        battle.mode === "ranked" && (res.opponentRating || battle.opponentRating)
+          ? ` · Elo ${res.opponentRating || battle.opponentRating}`
+          : "";
+
       root.innerHTML = `
-        <div class="habitat-banner"><span>${hab.icon} ${escapeHtml(hab.label)} field</span><span>+15% BP if affinity matches</span></div>
-        <div class="battle-arena">
-          ${sideHtml("You", res.party)}
-          ${sideHtml("@" + (battle.opponent || "foe"), res.foe)}
-        </div>
-        <div class="results-card">
-          <h3>${res.won ? "Victory" : "Defeat"}</h3>
-          <p class="muted">${battle.mode === "ranked" ? `Ranked ${res.ratingDelta >= 0 ? "+" : ""}${res.ratingDelta} → ${state.rating}` : "Casual · rating unchanged"}</p>
-          <p class="muted small" style="margin-top:6px">Strong ×1.6 · Weak ×0.6 · dual-type uses best multiplier</p>
-        </div>
-        <div class="battle-actions">
-          <button type="button" class="btn btn-primary btn-block" id="btn-battle-again">Rematch lobby</button>
-          <button type="button" class="btn btn-secondary btn-block" id="btn-battle-friends">Friends</button>
+        <div class="battle-layout">
+          <div class="battle-scroll">
+            <header class="panel-head">
+              <h2>Results</h2>
+              <p class="muted">${hab.icon} ${escapeHtml(hab.label)} field · +15% BP on affinity</p>
+            </header>
+            <div class="results-card">
+              <h3>${res.won ? "Victory" : "Defeat"}</h3>
+              <p class="muted">${
+                battle.mode === "ranked"
+                  ? `Ranked Elo ${res.ratingDelta >= 0 ? "+" : ""}${res.ratingDelta} → ${state.rating}`
+                  : "Casual · Elo unchanged"
+              }</p>
+            </div>
+            <div class="battle-arena">
+              ${sideHtml("You", res.party)}
+              ${sideHtml("@" + oppLabel + oppElo, res.foe)}
+            </div>
+          </div>
+          <div class="battle-sticky">
+            <button type="button" class="btn btn-primary btn-block" id="btn-battle-again">Back to lobby</button>
+            <button type="button" class="btn btn-secondary btn-block" id="btn-battle-board">${battle.mode === "ranked" ? "Leaderboard" : "Friends"}</button>
+          </div>
         </div>`;
 
       $("#btn-battle-again")?.addEventListener("click", () => {
         battle.step = "lobby";
         battle.partyIds = [];
         battle.lastResult = null;
+        if (battle.mode === "ranked") {
+          battle.opponent = null;
+          battle.opponentRating = null;
+        }
         renderBattle();
       });
-      $("#btn-battle-friends")?.addEventListener("click", () => {
-        renderFriends();
-        showPanel("friends");
+      $("#btn-battle-board")?.addEventListener("click", () => {
+        if (battle.mode === "ranked") {
+          battle.step = "lobby";
+          battle.lastResult = null;
+          renderBattle();
+        } else {
+          renderFriends();
+          showPanel("friends");
+        }
       });
     }
   }
-
 
   let toastTimer = null;
   function showToast(msg) {
