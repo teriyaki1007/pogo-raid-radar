@@ -1903,3 +1903,49 @@ p {
     transition: none !important;
   }
 }
+
+
+/* Photo sprites in competitive */
+.fighter-emoji.has-photo {
+  padding: 0;
+  overflow: hidden;
+  background: #1a2e22;
+}
+.fighter-emoji.has-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.fact-span {
+  grid-column: 1 / -1;
+}
+.pop-note {
+  margin-top: -6px;
+  margin-bottom: 10px;
+}
+
+.invite-biome {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 4px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--forest-800);
+  background: var(--mint-200);
+  border-radius: 8px;
+  padding: 3px 8px;
+}
+
+.invite-card {
+  flex-direction: column;
+  align-items: stretch;
+  gap: 8px;
+}
+.invite-card .friend-row-top {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

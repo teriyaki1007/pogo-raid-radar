@@ -130,6 +130,8 @@
     foeParty: [],
     lastResult: null,
     searching: false,
+    invitePending: false,
+    inviteId: null,
   };
 
   const DEMO_LEADERBOARD = [
@@ -222,6 +224,17 @@
       },
       friends: DEMO_FRIENDS_SEED.map((f) => ({ ...f })),
       friendRequests: DEMO_REQUESTS_SEED.map((r) => ({ ...r })),
+      battleInvites: [
+        {
+          id: "inv-demo-1",
+          from: "trailfox",
+          to: "you",
+          habitat: "tree",
+          mode: "casual",
+          status: "incoming",
+          createdAt: new Date().toISOString(),
+        },
+      ],
       rating: 1000,
     };
   }
@@ -245,6 +258,7 @@
       },
       friends: DEMO_FRIENDS_SEED.map((f) => ({ ...f })),
       friendRequests: DEMO_REQUESTS_SEED.map((r) => ({ ...r })),
+      battleInvites: [],
       rating: 1000,
     };
   }
@@ -272,6 +286,7 @@
       progress: { ...base.progress, ...(s.progress || {}) },
       friends: Array.isArray(s.friends) ? s.friends : base.friends,
       friendRequests: Array.isArray(s.friendRequests) ? s.friendRequests : base.friendRequests,
+      battleInvites: Array.isArray(s.battleInvites) ? s.battleInvites : base.battleInvites,
       rating: typeof s.rating === "number" ? s.rating : base.rating,
     };
   }
@@ -817,6 +832,54 @@
     container.appendChild(ul);
   }
 
+  function formatPopulation(m) {
+    const est = (m.populationEstimate || "").trim();
+    if (!est) return { label: "Unknown", note: "", conf: "unknown" };
+    const conf = m.populationConfidence || "unknown";
+    const src = (m.populationSource || "").trim();
+    const noteParts = [];
+    if (conf && conf !== "unknown") noteParts.push(`Confidence: ${conf}`);
+    if (src) noteParts.push(`Source: ${src}`);
+    else noteParts.push("Sourced estimate — not a census headcount");
+    return { label: est, note: noteParts.join(" · "), conf };
+  }
+
+  function renderPopulationFields(m) {
+    const pop = formatPopulation(m || {});
+    const dd = $("#confirm-population");
+    const note = $("#confirm-population-note");
+    if (dd) dd.textContent = pop.label;
+    if (note) {
+      if (pop.note) {
+        note.hidden = false;
+        note.textContent = pop.note;
+      } else {
+        note.hidden = true;
+        note.textContent = "";
+      }
+    }
+  }
+
+  function populationDetailHtml(m) {
+    const pop = formatPopulation(m || {});
+    const note = pop.note
+      ? `<p class="muted small pop-note">${escapeHtml(pop.note)}</p>`
+      : "";
+    return `<div class="fact-span"><dt>Est. population</dt><dd>${escapeHtml(pop.label)}</dd></div>${note}`;
+  }
+
+  function fighterThumb(f) {
+    if (f.photoRef) {
+      return `<div class="fighter-emoji has-photo"><img src="${f.photoRef}" alt="" /></div>`;
+    }
+    return `${fighterThumb(f)}`;
+  }
+
+  function habitatLabel(id) {
+    const h = HABITATS.find((x) => x.id === id);
+    return h ? `${h.icon} ${h.label}` : id || "—";
+  }
+
   function renderConfirm(s) {
     const m = s.sampleMeta;
     const card = $("#confirm-card");
@@ -835,9 +898,10 @@
     badge.textContent = s.idConfidence;
     badge.dataset.level = s.idConfidence;
     $("#confirm-size").textContent = m.averageSize;
-    $("#confirm-range").textContent = m.nativeRange;
+    $("#confirm-range").textContent = m.nativeRange || m.originRange || "—";
     $("#confirm-habitat").textContent = m.habitat;
     $("#confirm-season").textContent = cardSeason(m);
+    renderPopulationFields(m);
     $("#confirm-place").textContent = `${s.place.label} · ${formatWhen(s.observedAt)}`;
     renderLookalikesQuiet($("#confirm-lookalikes"), m.lookalikes);
     const disc = $("#confirm-disclaimer");
@@ -1173,10 +1237,11 @@
         </div>
         <p class="sample-banner" style="margin-top:10px">Sample ID — not authoritative</p>
         <dl class="fact-grid">
-          <div><dt>Avg. size</dt><dd>${escapeHtml(sample.averageSize)}</dd></div>
-          <div><dt>Native range</dt><dd>${escapeHtml(sample.nativeRange)}</dd></div>
-          <div><dt>Habitat</dt><dd>${escapeHtml(sample.habitat)}</dd></div>
+          <div><dt>Avg. size</dt><dd>${escapeHtml(sample.averageSize || "—")}</dd></div>
+          <div><dt>Native range</dt><dd>${escapeHtml(sample.nativeRange || sample.originRange || "—")}</dd></div>
+          <div><dt>Habitat</dt><dd>${escapeHtml(sample.habitat || "—")}</dd></div>
           <div><dt>Season</dt><dd>${escapeHtml(cardSeason(sample))}</dd></div>
+          ${populationDetailHtml(sample)}
         </dl>
         <div class="lookalikes quiet">
           <div class="lookalike-label">Lookalikes</div>
@@ -1319,9 +1384,79 @@
         battle.opponent = user;
         battle.mode = "casual";
         battle.step = "lobby";
+        battle.invitePending = false;
         renderBattle();
         showPanel("battle");
-        showToast(`Challenge @${user}`);
+        showToast(`Pick biome, then send invite to @${user}`);
+      });
+    });
+
+    renderBattleInvites();
+  }
+
+  function renderBattleInvites() {
+    const el = $("#battle-invites");
+    if (!el) return;
+    const me = state.user?.username || "you";
+    const invites = (state.battleInvites || []).filter(
+      (i) => i.status === "incoming" || i.status === "outgoing" || i.status === "pending"
+    );
+    if (!invites.length) {
+      el.innerHTML = `<li class="empty-hint">No battle invites — challenges send an invite with the biome</li>`;
+      return;
+    }
+    el.innerHTML = invites
+      .map((inv) => {
+        const incoming = inv.status === "incoming" || (inv.to === me || inv.to === "you");
+        const other = incoming ? inv.from : inv.to;
+        const hab = habitatLabel(inv.habitat);
+        return `<li class="friend-row invite-card" data-invite="${escapeHtml(inv.id)}">
+          <div class="friend-row-top">
+            <div class="friend-avatar">${escapeHtml(String(other).slice(0, 1).toUpperCase())}</div>
+            <div class="friend-meta">
+              <div class="friend-name">${incoming ? "From" : "To"} @${escapeHtml(other)}</div>
+              <div class="invite-biome" title="Selected biome">${hab} · ${(inv.mode || "casual")}</div>
+            </div>
+          </div>
+          <div class="friend-actions">
+            ${
+              incoming
+                ? `<button type="button" class="btn-chip" data-invite-act="accept">Accept</button>
+                   <button type="button" class="btn-chip is-danger" data-invite-act="decline">Decline</button>`
+                : `<button type="button" class="btn-chip is-ghost" data-invite-act="cancel">Cancel</button>
+                   <span class="friend-status">Waiting · they see ${hab}</span>`
+            }
+          </div>
+        </li>`;
+      })
+      .join("");
+
+    el.querySelectorAll("[data-invite-act]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const id = btn.closest("[data-invite]")?.dataset.invite;
+        const act = btn.dataset.inviteAct;
+        const inv = (state.battleInvites || []).find((i) => i.id === id);
+        if (!inv) return;
+        if (act === "accept") {
+          inv.status = "accepted";
+          battle.mode = inv.mode || "casual";
+          battle.habitat = inv.habitat || "tree";
+          battle.opponent = inv.from;
+          battle.inviteId = inv.id;
+          battle.invitePending = false;
+          battle.partyIds = [];
+          battle.step = "party";
+          saveState();
+          renderBattleInvites();
+          renderBattle();
+          showPanel("battle");
+          showToast(`Accepted · biome ${habitatLabel(battle.habitat)}`);
+        } else if (act === "decline" || act === "cancel") {
+          state.battleInvites = (state.battleInvites || []).filter((i) => i.id !== id);
+          saveState();
+          renderBattleInvites();
+          showToast(act === "cancel" ? "Invite canceled" : "Invite declined");
+        }
       });
     });
   }
@@ -1333,6 +1468,7 @@
       commonName: cardOrSeed.commonName || seed.commonName || cardOrSeed.id,
       scientificName: cardOrSeed.scientificName || seed.scientificName || "",
       emoji: cardOrSeed.emoji || seed.emoji || "🐾",
+      photoRef: cardOrSeed.photoRef || seed.photoRef || null,
       kind: cardOrSeed.kind || seed.kind || "other",
       types: cardOrSeed.types || seed.types || [],
       rarity: cardOrSeed.rarity || seed.rarity || "common",
@@ -1350,7 +1486,12 @@
       .filter((s) => s.status === "filled" || s.status === "uncertain")
       .map((s) => {
         const card = findCard(s.taxonId) || { id: s.taxonId };
-        return enrichFighter({ ...card, source: "slot", photoRef: s.photoRef });
+        const sight = (state.sightings || []).find((x) => x.id === s.sightingId);
+        const photo =
+          s.photoRef ||
+          (sight && sight.photoRefs && sight.photoRefs[0]) ||
+          null;
+        return enrichFighter({ ...card, source: "slot", photoRef: photo });
       });
 
     const seen = new Set();
@@ -1451,8 +1592,21 @@
               )
               .join("")
           : `<div class="empty-hint">Add a friend first to challenge</div>`;
-        middle = `<h3 class="section-label">Opponent (friends)</h3><div class="opponent-pick">${oppOptions}</div>`;
+        middle = `<h3 class="section-label">Opponent (friends)</h3>
+          <p class="muted small" style="margin-bottom:8px">Sends an invite — they see your biome before accepting</p>
+          <div class="opponent-pick">${oppOptions}</div>`;
         ctaDisabled = !battle.opponent;
+        ctaLabel = "Send battle invite";
+        if (battle.invitePending && battle.opponent) {
+          middle += `<div class="matchmake-card is-found" style="margin-top:12px">
+            <strong>Invite sent to @${escapeHtml(battle.opponent)}</strong>
+            <p>Biome: <span class="invite-biome">${habitatLabel(battle.habitat)}</span></p>
+            <p class="muted small">They must accept before party select · waiting (demo)</p>
+            <button type="button" class="btn btn-secondary btn-block" id="btn-sim-accept" style="margin-top:10px">Simulate their accept</button>
+          </div>`;
+          ctaDisabled = true;
+          ctaLabel = "Waiting for accept";
+        }
       } else {
         const board = DEMO_LEADERBOARD.map((row) => {
           const you = state.user && row.username === state.user.username;
@@ -1570,8 +1724,51 @@
           showToast(`Matched @${pick.username}`);
         }, 1100);
       });
+      $("#btn-sim-accept")?.addEventListener("click", () => {
+        battle.invitePending = false;
+        const inv = (state.battleInvites || []).find((i) => i.id === battle.inviteId);
+        if (inv) inv.status = "accepted";
+        (state.battleInvites || []).forEach((i) => {
+          if (i._demoMirror && i.habitat === battle.habitat) i.status = "accepted";
+        });
+        saveState();
+        battle.partyIds = [];
+        battle.step = "party";
+        renderBattle();
+        showToast("Opponent accepted · pick your 3");
+      });
       $("#btn-battle-continue")?.addEventListener("click", () => {
         if (!battle.opponent || battle.searching) return;
+        if (battle.mode === "casual") {
+          const inv = {
+            id: `inv-${Date.now()}`,
+            from: state.user?.username || "you",
+            to: battle.opponent,
+            habitat: battle.habitat,
+            mode: "casual",
+            status: "outgoing",
+            createdAt: new Date().toISOString(),
+          };
+          state.battleInvites = state.battleInvites || [];
+          state.battleInvites.unshift(inv);
+          // Demo mirror: also show as incoming for the challenged persona in this browser
+          state.battleInvites.unshift({
+            ...inv,
+            id: `${inv.id}-in`,
+            status: "incoming",
+            from: inv.from,
+            to: "you",
+            _demoMirror: true,
+            habitat: inv.habitat,
+          });
+          saveState();
+          battle.invitePending = true;
+          battle.inviteId = inv.id;
+          showToast(`Invite sent to @${battle.opponent} · biome ${habitatLabel(battle.habitat)}`);
+          renderFriends();
+          renderBattle();
+          return;
+        }
         battle.partyIds = [];
         battle.step = "party";
         renderBattle();
@@ -1593,7 +1790,7 @@
           const label = (f.commonName || "").replace(/^SAMPLE:\s*/i, "");
           return `
             <button type="button" class="fighter-card ${on ? "is-selected" : ""} ${disabled ? "is-disabled" : ""}" data-fighter="${escapeHtml(f.id)}">
-              <div class="fighter-emoji">${f.emoji || "🐾"}</div>
+              ${fighterThumb(f)}
               <div>
                 <div class="fighter-name">${escapeHtml(label)}</div>
                 <div class="type-chips">${types}</div>
@@ -1697,7 +1894,7 @@
                 const name = (f.commonName || "").replace(/^SAMPLE:\s*/i, "");
                 return `
                 <div class="fighter-card" style="margin-bottom:8px">
-                  <div class="fighter-emoji">${f.emoji || "🐾"}</div>
+                  ${fighterThumb(f)}
                   <div>
                     <div class="fighter-name">${escapeHtml(name)}</div>
                     <div class="type-chips">${types}</div>

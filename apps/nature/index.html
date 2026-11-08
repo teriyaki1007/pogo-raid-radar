@@ -162,7 +162,12 @@
                   <dt>Season</dt>
                   <dd id="confirm-season">—</dd>
                 </div>
+                <div class="fact-span">
+                  <dt>Est. population</dt>
+                  <dd id="confirm-population">—</dd>
+                </div>
               </dl>
+              <p class="muted small pop-note" id="confirm-population-note" hidden></p>
               <div class="lookalikes quiet" id="confirm-lookalikes"></div>
               <p class="place-logged" id="confirm-place"></p>
               <p class="muted small" id="confirm-disclaimer">Facts above are SAMPLE placeholders for the prototype.</p>
@@ -206,6 +211,10 @@
             </label>
             <button type="submit" class="btn btn-primary btn-sm" id="btn-friend-add">Add</button>
           </form>
+          <div class="friends-section">
+            <h3 class="section-label">Battle invites</h3>
+            <ul class="friend-list" id="battle-invites" aria-label="Battle invites"></ul>
+          </div>
           <div class="friends-section">
             <h3 class="section-label">Requests</h3>
             <ul class="friend-list" id="friend-requests" aria-label="Friend requests"></ul>
