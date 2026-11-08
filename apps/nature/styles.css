@@ -1949,3 +1949,12 @@ p {
   align-items: center;
   gap: 10px;
 }
+
+.invite-demo-note {
+  margin: -4px 0 10px;
+  line-height: 1.35;
+}
+.habitat-chip.is-locked {
+  opacity: 0.55;
+  pointer-events: none;
+}

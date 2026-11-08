@@ -872,7 +872,7 @@
     if (f.photoRef) {
       return `<div class="fighter-emoji has-photo"><img src="${f.photoRef}" alt="" /></div>`;
     }
-    return `${fighterThumb(f)}`;
+    return `<div class="fighter-emoji">${escapeHtml(f.emoji || "🐾")}</div>`;
   }
 
   function habitatLabel(id) {
@@ -1402,7 +1402,7 @@
       (i) => i.status === "incoming" || i.status === "outgoing" || i.status === "pending"
     );
     if (!invites.length) {
-      el.innerHTML = `<li class="empty-hint">No battle invites — challenges send an invite with the biome</li>`;
+      el.innerHTML = `<li class="empty-hint">No invites — Casual challenges send a biome invite (local demo)</li>`;
       return;
     }
     el.innerHTML = invites
@@ -1567,9 +1567,10 @@
 
     if (battle.step === "lobby") {
       const friends = state.friends || [];
+      const habitatLocked = !!battle.invitePending;
       const habitats = HABITATS.map(
         (h) =>
-          `<button type="button" class="habitat-chip ${battle.habitat === h.id ? "is-active" : ""}" data-hab="${h.id}">${h.icon}<br>${escapeHtml(h.label)}</button>`
+          `<button type="button" class="habitat-chip ${battle.habitat === h.id ? "is-active" : ""} ${habitatLocked ? "is-locked" : ""}" data-hab="${h.id}" ${habitatLocked ? "disabled aria-disabled=\"true\"" : ""}>${h.icon}<br>${escapeHtml(h.label)}</button>`
       ).join("");
 
       let middle = "";
@@ -1805,7 +1806,7 @@
         <div class="battle-layout">
           <div class="battle-scroll">
             <button type="button" class="btn-back" id="btn-party-back">← Lobby</button>
-            <p class="party-count">${selected.size}/3 fighters · animals only</p>
+            <p class="party-count">${selected.size}/3 fighters · animals only · biome locked: ${habitatLabel(battle.habitat)}</p>
             <div class="party-picker">${cards || '<div class="empty-hint">No animal fighters yet</div>'}</div>
           </div>
           <div class="battle-sticky">
@@ -1946,6 +1947,8 @@
         battle.step = "lobby";
         battle.partyIds = [];
         battle.lastResult = null;
+        battle.invitePending = false;
+        battle.inviteId = null;
         if (battle.mode === "ranked") {
           battle.opponent = null;
           battle.opponentRating = null;
