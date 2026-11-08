@@ -1,12 +1,12 @@
 {
   "meta": {
     "asOf": "2026-11-08",
-    "asOfLabel": "8 Nov 2026 ~1:05 PM HKT (Zacian/Zamazenta crowned sprites fixed)",
+    "asOfLabel": "8 Nov 2026 ~1:20 PM HKT (Dynamax Dialga/Palkia added to Upcoming)",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Upcoming tab filled (8 Nov ~1 PM HKT): Into the Wild Mon 9–Fri 13 Nov (Crowned Sword Zacian + Crowned Shield Zamazenta 5★; Druddigon/Orthworm 3★; Raid Hours Zacian Mon 9 + Zamazenta Tue 10 6–7 PM) → GO Wild Area Global Sat 14 (Zekrom + White Kyurem) & Sun 15 (Reshiram + Black Kyurem) 10 AM–6 PM + Modern Jacket Machamp 3★ → Cresselia + Darkrai 5★ + Mega Banette Mon 16–Tue 24 Nov (Raid Hour Wed 18) → Deoxys (all 4 formes) 5★ + Mega Metagross Wed 25 Nov–Tue 1 Dec (Raid Hour Wed 25). Still LIVE tonight: Altered Giratina 5★ + Mega Sableye + ghosty 1★/3★ + Shadow Tornadus first window → Sun 8 Nov ~10 PM; Festival of Lights India saree/kurta 1★ → Sun 8 Nov 8 PM India. Shadow Tornadus longer package resumes Mon 16 Nov → Tue 1 Dec. Pruned ended Sep–Oct events. Sources: Leek Duck Into the Wild / Wild Area raids / Cresselia–Darkrai / Mega Banette / Deoxys + GO Hub Nov schedule.",
+      "text": "Upcoming tab filled (8 Nov ~1 PM HKT): Into the Wild Mon 9–Fri 13 Nov (Crowned Sword Zacian + Crowned Shield Zamazenta 5★; Druddigon/Orthworm 3★; Raid Hours Zacian Mon 9 + Zamazenta Tue 10 6–7 PM) → GO Wild Area Global Sat 14 (Zekrom + White Kyurem + Dynamax Dialga) & Sun 15 (Reshiram + Black Kyurem + Dynamax Palkia) 10 AM–6 PM + Modern Jacket Machamp 3★ → Cresselia + Darkrai 5★ + Mega Banette Mon 16–Tue 24 Nov (Raid Hour Wed 18) → Deoxys (all 4 formes) 5★ + Mega Metagross Wed 25 Nov–Tue 1 Dec (Raid Hour Wed 25). Still LIVE tonight: Altered Giratina 5★ + Mega Sableye + ghosty 1★/3★ + Shadow Tornadus first window → Sun 8 Nov ~10 PM; Festival of Lights India saree/kurta 1★ → Sun 8 Nov 8 PM India. Shadow Tornadus longer package resumes Mon 16 Nov → Tue 1 Dec. Pruned ended Sep–Oct events. Sources: Leek Duck Into the Wild / Wild Area raids / Cresselia–Darkrai / Mega Banette / Deoxys + GO Hub Nov schedule.",
       "endsAtLabel": "LIVE → Sun 8 Nov ~10:00 PM (Giratina Altered / Mega Sableye / ghosty / Shadow Tornadus first window) · Festival India → Sun 8 Nov 8:00 PM · Next: Into the Wild Mon 9 Nov 10:00 AM"
     },
     "legend": {
@@ -1900,6 +1900,71 @@
       "countersSource": "GO Hub Kyurem / White Kyurem raid counters"
     },
     {
+      "id": "dynamax-dialga-wild-area-nov14",
+      "name": "Dialga",
+      "form": "Dynamax",
+      "species": "Dialga",
+      "catchForm": "Dynamax",
+      "tier": "max",
+      "tierLabel": "Max ★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Sat 14 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · Max Battle)",
+      "windowStart": "2026-11-14T10:00:00",
+      "windowEnd": "2026-11-14T18:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 2307,
+      "cpL25": 2884,
+      "weather": [
+        "Snow",
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 483,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
+      },
+      "notes": "Dynamax Max Battle at Power Spots (not a gym raid). GO Wild Area Global Saturday only — debut; can be Shiny. Max Battle catches aren't weather-boosted (Leek Duck). Fighting/Ground recommended.",
+      "types": [
+        "Steel",
+        "Dragon"
+      ],
+      "weakTo": [
+        "Fighting",
+        "Ground"
+      ],
+      "counters": [
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Shadow Machamp",
+          "moves": "Counter / Dynamic Punch"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Mega Garchomp",
+          "moves": "Mud Shot / Earth Power"
+        },
+        {
+          "name": "Shadow Excadrill",
+          "moves": "Mud-Slap / Scorching Sands"
+        }
+      ],
+      "countersSource": "Leek Duck Wild Area raids + type chart (Steel/Dragon)"
+    },
+    {
       "id": "reshiram-wild-area-nov15",
       "name": "Reshiram",
       "form": null,
@@ -2032,6 +2097,71 @@
         }
       ],
       "countersSource": "GO Hub Kyurem / Black Kyurem raid counters"
+    },
+    {
+      "id": "dynamax-palkia-wild-area-nov15",
+      "name": "Palkia",
+      "form": "Dynamax",
+      "species": "Palkia",
+      "catchForm": "Dynamax",
+      "tier": "max",
+      "tierLabel": "Max ★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · Max Battle)",
+      "windowStart": "2026-11-15T10:00:00",
+      "windowEnd": "2026-11-15T18:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 2280,
+      "cpL25": 2850,
+      "weather": [
+        "Rainy",
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 484,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
+      },
+      "notes": "Dynamax Max Battle at Power Spots (not a gym raid). GO Wild Area Global Sunday only — debut; can be Shiny. Max Battle catches aren't weather-boosted (Leek Duck). Dragon/Fairy recommended.",
+      "types": [
+        "Water",
+        "Dragon"
+      ],
+      "weakTo": [
+        "Dragon",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
+          "name": "Eternatus",
+          "moves": "Dragon Tail / Dynamax Cannon"
+        },
+        {
+          "name": "Shadow Salamence",
+          "moves": "Dragon Tail / Outrage"
+        },
+        {
+          "name": "Xerneas",
+          "moves": "Geomancy / Moonblast"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Black Kyurem",
+          "moves": "Dragon Tail / Freeze Shock"
+        }
+      ],
+      "countersSource": "Leek Duck Wild Area raids + type chart (Water/Dragon)"
     },
     {
       "id": "machamp-modern-jacket-wild-area",
@@ -2666,7 +2796,7 @@
       "id": "go-wild-area-global-2026",
       "when": "Sat 14 & Sun 15 Nov 10:00 AM – 6:00 PM local (upcoming)",
       "title": "GO Wild Area 2026: Global (upcoming)",
-      "impact": "Sat 5★: Zekrom + White Kyurem. Sun 5★: Reshiram + Black Kyurem. Both days 3★: Machamp wearing a modern jacket. Kyurem raids award Fusion Energy; Kyurem may know Glaciate. Max/GMax (GMax Duraludon both days; DMax Dialga Sat / Palkia Sun) are Max Battles — not gym raid cards. Sources: Leek Duck Wild Area raids.",
+      "impact": "Sat 5★: Zekrom + White Kyurem. Sun 5★: Reshiram + Black Kyurem. Both days 3★: Machamp wearing a modern jacket. Kyurem raids award Fusion Energy; Kyurem may know Glaciate. Max Battles also on Upcoming: Dynamax Dialga (Sat) + Dynamax Palkia (Sun) at Power Spots; GMax Duraludon both days (6★ Max — dens, see Leek Duck). Sources: Leek Duck Wild Area raids.",
       "urgent": true
     },
     {

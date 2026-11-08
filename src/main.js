@@ -109,6 +109,7 @@ function badgeClass(tier) {
   if (String(tier).startsWith("shadow")) return "badge-shadow";
   if (tier === "mega") return "badge-mega";
   if (tier === "super-mega") return "badge-super-mega";
+  if (tier === "max" || String(tier).startsWith("max")) return "badge-5";
   if (tier === "5") return "badge-5";
   if (tier === "3") return "badge-3";
   return "badge-1";
