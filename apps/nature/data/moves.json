@@ -2,7 +2,7 @@
   "meta": {
     "schemaVersion": 1,
     "owner": "Nature Catalogue",
-    "note": "Catalogue game-layer stub (Product Skeleton). Replace when Catalogue pastes a fuller table. Not Species Guide facts.",
+    "note": "Catalogue game-layer (Product Skeleton expanded \u22655/type). Not Species Guide facts.",
     "moveSlots": 4,
     "stab": 1.2,
     "strong": 1.6,
@@ -16,68 +16,396 @@
       "fightLoss": 12,
       "forfeit": 0
     },
-    "bpLevelScale": "leveledBp = round(baseBp * (1 + 0.02 * (level - 1))); habitat affinity overlap → ×1.15"
+    "bpLevelScale": "leveledBp = round(baseBp * (1 + 0.02 * (level - 1))); habitat affinity overlap \u2192 \u00d71.15"
   },
   "pools": {
     "Forest": [
-      { "id": "canopy-strike", "name": "Canopy Strike", "power": 40 },
-      { "id": "root-bind", "name": "Root Bind", "power": 25, "kind": "status" },
-      { "id": "leaf-barrage", "name": "Leaf Barrage", "power": 55 }
+      {
+        "id": "canopy-strike",
+        "name": "Canopy Strike",
+        "power": 40,
+        "type": "Forest"
+      },
+      {
+        "id": "root-bind",
+        "name": "Root Bind",
+        "power": 25,
+        "type": "Forest",
+        "kind": "status"
+      },
+      {
+        "id": "leaf-barrage",
+        "name": "Leaf Barrage",
+        "power": 55,
+        "type": "Forest"
+      },
+      {
+        "id": "vine-whip",
+        "name": "Vine Whip",
+        "power": 35,
+        "type": "Forest"
+      },
+      {
+        "id": "sap-drain",
+        "name": "Sap Drain",
+        "power": 30,
+        "type": "Forest"
+      }
     ],
     "Ocean": [
-      { "id": "tide-crash", "name": "Tide Crash", "power": 45 },
-      { "id": "spray-jet", "name": "Spray Jet", "power": 35 },
-      { "id": "undertow", "name": "Undertow", "power": 30 }
+      {
+        "id": "tide-crash",
+        "name": "Tide Crash",
+        "power": 45,
+        "type": "Ocean"
+      },
+      {
+        "id": "spray-jet",
+        "name": "Spray Jet",
+        "power": 35,
+        "type": "Ocean"
+      },
+      {
+        "id": "undertow",
+        "name": "Undertow",
+        "power": 30,
+        "type": "Ocean"
+      },
+      {
+        "id": "brine-slap",
+        "name": "Brine Slap",
+        "power": 40,
+        "type": "Ocean"
+      },
+      {
+        "id": "deep-pressure",
+        "name": "Deep Pressure",
+        "power": 50,
+        "type": "Ocean"
+      }
     ],
     "Sky": [
-      { "id": "dive-peck", "name": "Dive Peck", "power": 40 },
-      { "id": "gale-cut", "name": "Gale Cut", "power": 50 },
-      { "id": "wing-guard", "name": "Wing Guard", "power": 20, "kind": "status" }
+      {
+        "id": "dive-peck",
+        "name": "Dive Peck",
+        "power": 40,
+        "type": "Sky"
+      },
+      {
+        "id": "gale-cut",
+        "name": "Gale Cut",
+        "power": 50,
+        "type": "Sky"
+      },
+      {
+        "id": "wing-guard",
+        "name": "Wing Guard",
+        "power": 20,
+        "type": "Sky",
+        "kind": "status"
+      },
+      {
+        "id": "talon-slash",
+        "name": "Talon Slash",
+        "power": 45,
+        "type": "Sky"
+      },
+      {
+        "id": "air-burst",
+        "name": "Air Burst",
+        "power": 35,
+        "type": "Sky"
+      }
     ],
     "Earth": [
-      { "id": "quake-stomp", "name": "Quake Stomp", "power": 55 },
-      { "id": "stone-toss", "name": "Stone Toss", "power": 35 },
-      { "id": "burrow-guard", "name": "Burrow Guard", "power": 25 }
+      {
+        "id": "quake-stomp",
+        "name": "Quake Stomp",
+        "power": 55,
+        "type": "Earth"
+      },
+      {
+        "id": "stone-toss",
+        "name": "Stone Toss",
+        "power": 35,
+        "type": "Earth"
+      },
+      {
+        "id": "burrow-guard",
+        "name": "Burrow Guard",
+        "power": 25,
+        "type": "Earth"
+      },
+      {
+        "id": "mud-shot",
+        "name": "Mud Shot",
+        "power": 40,
+        "type": "Earth"
+      },
+      {
+        "id": "cliff-crush",
+        "name": "Cliff Crush",
+        "power": 60,
+        "type": "Earth"
+      }
     ],
     "Fire": [
-      { "id": "ember-snap", "name": "Ember Snap", "power": 40 },
-      { "id": "blaze-rush", "name": "Blaze Rush", "power": 60 },
-      { "id": "smoke-veil", "name": "Smoke Veil", "power": 20 }
+      {
+        "id": "ember-snap",
+        "name": "Ember Snap",
+        "power": 40,
+        "type": "Fire"
+      },
+      {
+        "id": "blaze-rush",
+        "name": "Blaze Rush",
+        "power": 60,
+        "type": "Fire"
+      },
+      {
+        "id": "smoke-veil",
+        "name": "Smoke Veil",
+        "power": 20,
+        "type": "Fire",
+        "kind": "status"
+      },
+      {
+        "id": "spark-bite",
+        "name": "Spark Bite",
+        "power": 35,
+        "type": "Fire"
+      },
+      {
+        "id": "heat-wave",
+        "name": "Heat Wave",
+        "power": 50,
+        "type": "Fire"
+      }
     ],
     "Ice": [
-      { "id": "frost-bite", "name": "Frost Bite", "power": 45 },
-      { "id": "chill-gust", "name": "Chill Gust", "power": 35 },
-      { "id": "freeze-latch", "name": "Freeze Latch", "power": 30 }
+      {
+        "id": "frost-bite",
+        "name": "Frost Bite",
+        "power": 45,
+        "type": "Ice"
+      },
+      {
+        "id": "chill-gust",
+        "name": "Chill Gust",
+        "power": 35,
+        "type": "Ice"
+      },
+      {
+        "id": "freeze-latch",
+        "name": "Freeze Latch",
+        "power": 30,
+        "type": "Ice"
+      },
+      {
+        "id": "snowpack",
+        "name": "Snowpack",
+        "power": 25,
+        "type": "Ice",
+        "kind": "status"
+      },
+      {
+        "id": "icicle-dart",
+        "name": "Icicle Dart",
+        "power": 50,
+        "type": "Ice"
+      }
     ],
     "Bug": [
-      { "id": "swarm-needle", "name": "Swarm Needle", "power": 40 },
-      { "id": "silk-trap", "name": "Silk Trap", "power": 25 },
-      { "id": "mandible-crush", "name": "Mandible Crush", "power": 50 }
+      {
+        "id": "swarm-needle",
+        "name": "Swarm Needle",
+        "power": 40,
+        "type": "Bug"
+      },
+      {
+        "id": "silk-trap",
+        "name": "Silk Trap",
+        "power": 25,
+        "type": "Bug"
+      },
+      {
+        "id": "mandible-crush",
+        "name": "Mandible Crush",
+        "power": 50,
+        "type": "Bug"
+      },
+      {
+        "id": "pincer-snap",
+        "name": "Pincer Snap",
+        "power": 35,
+        "type": "Bug"
+      },
+      {
+        "id": "hive-rush",
+        "name": "Hive Rush",
+        "power": 55,
+        "type": "Bug"
+      }
     ],
     "Shadow": [
-      { "id": "night-slash", "name": "Night Slash", "power": 50 },
-      { "id": "haunt-pulse", "name": "Haunt Pulse", "power": 35 },
-      { "id": "fade-step", "name": "Fade Step", "power": 20 }
+      {
+        "id": "night-slash",
+        "name": "Night Slash",
+        "power": 50,
+        "type": "Shadow"
+      },
+      {
+        "id": "haunt-pulse",
+        "name": "Haunt Pulse",
+        "power": 35,
+        "type": "Shadow"
+      },
+      {
+        "id": "fade-step",
+        "name": "Fade Step",
+        "power": 20,
+        "type": "Shadow"
+      },
+      {
+        "id": "umbra-bind",
+        "name": "Umbra Bind",
+        "power": 30,
+        "type": "Shadow"
+      },
+      {
+        "id": "void-peck",
+        "name": "Void Peck",
+        "power": 45,
+        "type": "Shadow"
+      }
     ],
     "River": [
-      { "id": "rapid-strike", "name": "Rapid Strike", "power": 45 },
-      { "id": "silt-cloud", "name": "Silt Cloud", "power": 25 },
-      { "id": "current-pull", "name": "Current Pull", "power": 35 }
+      {
+        "id": "rapid-strike",
+        "name": "Rapid Strike",
+        "power": 45,
+        "type": "River"
+      },
+      {
+        "id": "silt-cloud",
+        "name": "Silt Cloud",
+        "power": 25,
+        "type": "River"
+      },
+      {
+        "id": "current-pull",
+        "name": "Current Pull",
+        "power": 35,
+        "type": "River"
+      },
+      {
+        "id": "bank-leap",
+        "name": "Bank Leap",
+        "power": 40,
+        "type": "River"
+      },
+      {
+        "id": "eddy-spin",
+        "name": "Eddy Spin",
+        "power": 30,
+        "type": "River"
+      }
     ],
     "Meadow": [
-      { "id": "pollen-burst", "name": "Pollen Burst", "power": 35 },
-      { "id": "thorn-lash", "name": "Thorn Lash", "power": 45 },
-      { "id": "bloom-guard", "name": "Bloom Guard", "power": 20 }
+      {
+        "id": "pollen-burst",
+        "name": "Pollen Burst",
+        "power": 35,
+        "type": "Meadow"
+      },
+      {
+        "id": "thorn-lash",
+        "name": "Thorn Lash",
+        "power": 45,
+        "type": "Meadow"
+      },
+      {
+        "id": "bloom-guard",
+        "name": "Bloom Guard",
+        "power": 20,
+        "type": "Meadow"
+      },
+      {
+        "id": "seed-shot",
+        "name": "Seed Shot",
+        "power": 30,
+        "type": "Meadow"
+      },
+      {
+        "id": "prairie-rush",
+        "name": "Prairie Rush",
+        "power": 50,
+        "type": "Meadow"
+      }
     ],
     "Storm": [
-      { "id": "thunder-crack", "name": "Thunder Crack", "power": 60 },
-      { "id": "wind-shear", "name": "Wind Shear", "power": 40 },
-      { "id": "static-cling", "name": "Static Cling", "power": 30 }
+      {
+        "id": "thunder-crack",
+        "name": "Thunder Crack",
+        "power": 60,
+        "type": "Storm"
+      },
+      {
+        "id": "wind-shear",
+        "name": "Wind Shear",
+        "power": 40,
+        "type": "Storm"
+      },
+      {
+        "id": "static-cling",
+        "name": "Static Cling",
+        "power": 30,
+        "type": "Storm"
+      },
+      {
+        "id": "squall-peck",
+        "name": "Squall Peck",
+        "power": 45,
+        "type": "Storm"
+      },
+      {
+        "id": "flash-arc",
+        "name": "Flash Arc",
+        "power": 55,
+        "type": "Storm"
+      }
     ],
     "Crystal": [
-      { "id": "shard-volley", "name": "Shard Volley", "power": 50 },
-      { "id": "prism-guard", "name": "Prism Guard", "power": 25 },
-      { "id": "refract-beam", "name": "Refract Beam", "power": 55 }
+      {
+        "id": "shard-volley",
+        "name": "Shard Volley",
+        "power": 50,
+        "type": "Crystal"
+      },
+      {
+        "id": "prism-guard",
+        "name": "Prism Guard",
+        "power": 25,
+        "type": "Crystal"
+      },
+      {
+        "id": "refract-beam",
+        "name": "Refract Beam",
+        "power": 55,
+        "type": "Crystal"
+      },
+      {
+        "id": "facet-cut",
+        "name": "Facet Cut",
+        "power": 40,
+        "type": "Crystal"
+      },
+      {
+        "id": "gleam-spike",
+        "name": "Gleam Spike",
+        "power": 35,
+        "type": "Crystal"
+      }
     ]
   }
 }
