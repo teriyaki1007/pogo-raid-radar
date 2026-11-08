@@ -1,7 +1,7 @@
 {
   "iso2": "NL",
   "name": "Netherlands",
-  "updatedAt": "2026-11-08T11:05:25+08:00",
+  "updatedAt": "2026-11-08T17:11:02+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Social farming celebrated in Mayo with Irish and Dutch ambassadors",
+      "source": "Agriland",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONDFKNHFHR201bkdkSjhRcS1pUnB1T0JLWFRaU1RqS0wxdXpLZFpibUwwWVJOS0paMG9VWWV6QS1aU08td0g2Mi1RaW9pblBfcFBlbXBCcmw5MTVRcXo2eFZRNWFOaXJCaVllVjRQYTgtcWFZQkRpOWIyYVp1WVdDdWhqZHhrb2k0R2pVVGNDRFFWeTIxQl84S3JXSnlqa2dvLUUza0xlaw?oc=5",
+      "publishedAt": "2026-11-08T17:00:00+08:00"
+    },
+    {
+      "title": "Amsterdam readies for fourth Red Line protest as organizers expect tens of thousands",
+      "source": "NL Times",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa0hwNmx1d2cwb204TFdSbjF1OVhiRFY4LXJDbi1HX2dOamM5ZG1QYkpybG5UNVNlRVRqOERCVVo2aXc4Ull1SU1Vcm9PbDVncWpOX1F4ZXpQZ3k4MndZVWpnTk9KX0JObjdZNGNIQk9oNjhYZUU1eGphRndXaFpDcjc2cWlRdHNwdE1IQVdrYkdGSzZTZ0tEbHQ3TnRNb3kyb0tKbTRLWQ?oc=5",
+      "publishedAt": "2026-11-08T15:15:00+08:00"
+    },
+    {
+      "title": "Best places to go stargazing in the Netherlands",
+      "source": "IamExpat",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQjdoQ0FDNkRYWlBUQmJLTWMxTmRQbFJ2aEltUG41VnZjaXJzUUdGcGNGVEpFQXJ5MlJmU2ZvQUxZVlZwVm91cko2V0JmNlhsQ3hhNHpTMjNGa2tDUUJzYXhqbnZjYjBSMmdhamRFdzJnbWRLeHFLWGQzRTJjaV85ZVNNejBsZG5EMk5V?oc=5",
+      "publishedAt": "2026-11-08T15:06:23+08:00"
+    },
+    {
+      "title": "Lviv received 200,000 tulip bulbs from the Netherlands",
+      "source": "Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPajZ4UFEtdDdIV2g5VmNBRm9NMWZDQTZnbDV5U2ZTUFZfaFd3NHcxME1qTkktZElWNjVOUDlQd2s4ZlZ3Rlc0aW1BMjBOQVZmd3FJS1RkeUs2LWZ5cU1qcS13Q3VJUFBoMnZTTDVXbkxuYy1lWHRwcjA1SEFsQ1Izc29B0gGAAUFVX3lxTE1PWUh0blR2dHZ0ZWNBanJFX3NtNFF1Z3FHZW5Fa0VHc3EwVFgyLURJZHRwaUlvbEswTk5kU1hQalZjeWR0RkhkY3VFT2JnaWFHOTQ0TlZQdTUtam9LeWVlX1V3X0JON1JUWWdOWTJDczZsQlFIRWVzaUNHZUNUemVY?oc=5",
+      "publishedAt": "2026-11-08T12:24:31+08:00"
+    },
+    {
+      "title": "China opposes joint statement criticizing HKSAR court's Wong Chi-fung sentencing decision: Chinese embassies in Canada, France and Netherlands",
+      "source": "Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Ucjg0OWxzUjFubGd5QVlubEZmSE1BUVBCdE1CcmRCREZJb3YyQlJLSXVuaExYZW5MMGtidExhcnVmWmdnZm1BMnZvZl9IRHVJU1kwakZXVHBrUFI0Z21HYWJR?oc=5",
+      "publishedAt": "2026-11-08T10:57:00+08:00"
+    },
+    {
       "title": "← UCI CycloCross World Championships Zeddam, Netherlands",
       "source": "Canadian Cyclist",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY3B4WGU5N2dqNUZjdm9CcHdleW5XQWRBQnpyQk1jUTBZQmJPRnlsZmpFanhzeTZTQTYwc2lmbFNIaWNRT3pTR1dfUVd6Zk9NRzRGejVaRWRIazFONWFURm50NmNQOWJvTkxUNU9PVzFWWXNYWFJHbzVDT2MyZTlId2lCTHVzVy1TLXkzeEwxa2N3ZG4wR1NnX0Y2MmFpbEpk?oc=5",
@@ -46,36 +76,6 @@
       "source": "Coinbase",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnVpZ2dIOXJGQ3F5M0d6NDVCbVJHblhNcmFaS1BkRlBkMXNQb3FxUzMyVGhTNVFGQ3Y0V3JEMjlhVU9iaVF4UWJ4RE13SzZ3Z1FlTjdBTWJiSFI3V0hJa042Yy1zdWxaLXVPMUR5X2h4Y0JOOFRHeXpmaHhwSDlHNEFEM0JTUVpEWFBDU05TTnd6eXZLQTc4Rg?oc=5",
       "publishedAt": "2026-11-08T01:11:42+08:00"
-    },
-    {
-      "title": "A Meme Crypto Price, AMC Price, Live Charts, and Marketcap - Coinbase Netherlands",
-      "source": "Coinbase",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Mcng5d0wxUkI0dnVkU2dWZlNxMnNieU9KdWZacVRrRW5OOXFVb0VhS3FQOUlTR1ZaRlNKcWxvMmxBdWNTR2ljUnZuTmFZOWtTb3JDVlA2d21fSDNzNWQ5TzJQSWNod2lvTEVNUHZscTlkQWVq?oc=5",
-      "publishedAt": "2026-11-08T01:11:42+08:00"
-    },
-    {
-      "title": "Men’s standings: Sweden take fifth place. Sixth position for Brazil, Netherlands seventh",
-      "source": "International Padel Federation",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQU1oyUlpUUHRCLUl4ZEM1Y3Yyd0ZzeEJWcXpEOW02ZFNqa1Q4RzA1V2JzRE50aThCOUh1NnZqRWM3ODU3TmYwdzk4SU5BMU9Ya3dGU0JkWm83eEFieEUxb3JSa0tRb1NVbDFTZHc0elRMSTJQNDFlOVpfdEZRSmtxMnlfTGFzQjhSa3N2TUtUZWd1dFhOcWQ5QzhoY090akRoWVhLcGJ1VjBpaXRxZHp5ZmlzZGlrTlFqMHc?oc=5",
-      "publishedAt": "2026-11-08T00:32:52+08:00"
-    },
-    {
-      "title": "Netherlands surpasses 2,000 hours of sunshine for only the sixth time since 1906",
-      "source": "NL Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSkNNMHZSeUJVTVpaYzZLSndkNHlkcHdhVUVSRnA1TGVjMTZ2Y2laYnBQcHpRMHFDVEFTZS1TdjJIY3Y5cXFkYjVmSzg4MWIwajV2NXlXdEY5SDdPanZRdGdYSUhNejBRRkJjdUJoV1NzdDJEY0JieTI4UU5YNl9HTHlPNmk1X2dCNXc1Qjh6Ni15NlBYN1g3Rw?oc=5",
-      "publishedAt": "2026-11-07T23:25:00+08:00"
-    },
-    {
-      "title": "Netherlands: De Jong voices disappointment after Ayoub Oufkir chooses Morocco",
-      "source": "Yabiladi.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdy1YOW9pVGU2cUpYdHpoVy1fbUJ0c2RMbEVhNFd5WXZoalZIbVJEME41anZJUlJ5U1NseThBNlF5OVE3azhxSjF1MmNtTHlEamhzeWxxdzVHZUpKeWpiZG4td3piT3hYRHBjdnM3T3JlUm1mU0N0dmh2T3lfUGhPZGk3VEd4dnprTjY1bmd2akdzNGsyaG9uemxfSklTZw?oc=5",
-      "publishedAt": "2026-11-07T22:10:00+08:00"
-    },
-    {
-      "title": "The Netherlands protects its own, while St. Maarten gets the prosecutions - One Kingdom, two standards of accountability?",
-      "source": "SMN News",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNU0pueVR6TTc0WjJvRkJKS0dJOEtoQWZiZXRYc2o5aTh0M2tfZ2UzWkY4U3dEdFdEbVozNkRmSkJELW85V1dxMmhldWFvWExaWUxZYjdKa0lHd09JekROSUtmQl9pZmVMY2x2ZDVRdmJLNUtodUJwWGFaYkROWGNxaDRzWkl2N21HNWxjQkotbW8wTFNzT19nblR4blFtU0VyWTZTNWNFZW90WnlRRmZMbDNTVkNhNHVTNllNa25PZnR1UHpYdGRiWkFhUW1GNXBQLWxiS25QTm56dkw2TUt3YzVpRkx4eUlOWHFPTzU1eVBhY1FUU0xpdjhKTTdmR0d2WmNfU0x2OTF2LU0zWTRCTw?oc=5",
-      "publishedAt": "2026-11-07T22:08:35+08:00"
     }
   ]
 }
