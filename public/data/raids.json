@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-11-07",
-    "asOfLabel": "7 Nov 2026 ~10:25 PM HKT",
+    "asOf": "2026-11-08",
+    "asOfLabel": "8 Nov 2026 ~1:00 PM HKT",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Evening 7 Nov: MEANINGFUL CHANGE — Shadow 1★/3★ rotated. LIVE Shadow 1★ Larvitar / Mudkip / Makuhita / Cranidos + Shadow 3★ Prinplup / Piloswine / Poliwhirl (Snack Nap Updated Nov 7 + GO Hub current Shadow raids + Dexerto Nov 4 + DoctorPokeGoGo Nov 4 update log). Prior Gastly/Totodile/Shieldon/Gible + Primeape/Kirlia/Drapion dropped — Leek Duck raid-bosses / ScrapedDuck / PoGoPit still stale on that old set and still show Landorus on shadow-5★ header (overridden). Unchanged: global 1★ Duskull / Frillish / Frillish (Female) / Litwick + ghosty 3★ Cofagrigus / Trevenant / Dhelmise + Altered Giratina 5★ + Mega Sableye → Sun 8 Nov ~10:00 PM; Shadow Tornadus (Incarnate) 5★ weekends first window → Sun 8 Nov 10:00 PM (longer package Mon 16 Nov → Tue 1 Dec). Festival of Lights India-only still LIVE → Sun 8 Nov 8:00 PM India — 1★ Pikachu wearing a saree + kurta (shiny / Special Background possible). Eggs (Leek Duck Updated Sep 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged. Skipped Snack Nap Anniversary/Astronaut Pikachu 1★ (museum / prior-event leftovers, not global current).",
-      "endsAtLabel": "Global 1★ Duskull/Frillish/Litwick + ghosty 3★ + Giratina (Altered) + Mega Sableye + Shadow Tornadus first window → Sun 8 Nov ~10:00 PM · Shadow 1★/3★ Larvitar set LIVE · Festival of Lights India LIVE → Sun 8 Nov 8:00 PM"
+      "text": "Upcoming tab filled (8 Nov ~1 PM HKT): Into the Wild Mon 9–Fri 13 Nov (Crowned Sword Zacian + Crowned Shield Zamazenta 5★; Druddigon/Orthworm 3★; Raid Hours Zacian Mon 9 + Zamazenta Tue 10 6–7 PM) → GO Wild Area Global Sat 14 (Zekrom + White Kyurem) & Sun 15 (Reshiram + Black Kyurem) 10 AM–6 PM + Modern Jacket Machamp 3★ → Cresselia + Darkrai 5★ + Mega Banette Mon 16–Tue 24 Nov (Raid Hour Wed 18) → Deoxys (all 4 formes) 5★ + Mega Metagross Wed 25 Nov–Tue 1 Dec (Raid Hour Wed 25). Still LIVE tonight: Altered Giratina 5★ + Mega Sableye + ghosty 1★/3★ + Shadow Tornadus first window → Sun 8 Nov ~10 PM; Festival of Lights India saree/kurta 1★ → Sun 8 Nov 8 PM India. Shadow Tornadus longer package resumes Mon 16 Nov → Tue 1 Dec. Pruned ended Sep–Oct events. Sources: Leek Duck Into the Wild / Wild Area raids / Cresselia–Darkrai / Mega Banette / Deoxys + GO Hub Nov schedule.",
+      "endsAtLabel": "LIVE → Sun 8 Nov ~10:00 PM (Giratina Altered / Mega Sableye / ghosty / Shadow Tornadus first window) · Festival India → Sun 8 Nov 8:00 PM · Next: Into the Wild Mon 9 Nov 10:00 AM"
     },
     "legend": {
       "standard": {
@@ -232,6 +232,34 @@
       {
         "name": "DoctorPokeGoGo Raid Guide (Nov 4, 2026 update)",
         "url": "https://doctorpokegogo.com/en/raid-guide/"
+      },
+      {
+        "name": "Leek Duck — Into the Wild 2026",
+        "url": "https://leekduck.com/events/into-the-wild-2026/"
+      },
+      {
+        "name": "Leek Duck — GO Wild Area 2026 Raids",
+        "url": "https://leekduck.com/pokemon-go-wild-area/raids/"
+      },
+      {
+        "name": "Leek Duck — Cresselia & Darkrai 5★ Nov 2026",
+        "url": "https://leekduck.com/events/cresselia-darkrai-in-5-star-raid-battles-november-2026/"
+      },
+      {
+        "name": "Leek Duck — Mega Banette Nov 2026",
+        "url": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2026/"
+      },
+      {
+        "name": "Leek Duck — Deoxys formes 5★ Nov 2026",
+        "url": "https://leekduck.com/events/deoxys-normal-defense-attack-speed-formes-in-5-star-raid-battles-november-2026/"
+      },
+      {
+        "name": "GO Hub — November 2026 Events",
+        "url": "https://pokemongohub.net/post/event/pokemon-go-november-2026-events/"
+      },
+      {
+        "name": "GO Hub — Crowned Sword Zacian counters",
+        "url": "https://db.pokemongohub.net/pokemon/888-Crowned_Sword/counters"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
@@ -1476,320 +1504,1121 @@
       ],
       "countersSource": "GO Hub Shadow Tornadus Incarnate counters (Nov 2026)",
       "highlight": true
+    },
+    {
+      "id": "zacian-crowned-sword-nov9",
+      "name": "Zacian",
+      "form": "Crowned Sword",
+      "species": "Zacian",
+      "catchForm": null,
+      "tier": "5",
+      "tierLabel": "5★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (Into the Wild)",
+      "windowStart": "2026-11-09T10:00:00",
+      "windowEnd": "2026-11-13T20:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 2845,
+      "cpL25": 3556,
+      "weather": [
+        "Cloudy",
+        "Snow"
+      ],
+      "sprite": {
+        "pokeapiId": 10055,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10055.png"
+      },
+      "notes": "Into the Wild (Leek Duck). Fairy/Steel. Hundo 2845 (3556 Cloudy/Snow). Raid Hour Mon 9 Nov 6–7 PM. Wins award Crowned Sword Energy; Special Background possible on 5★ catches.",
+      "types": [
+        "Fairy",
+        "Steel"
+      ],
+      "weakTo": [
+        "Fire",
+        "Ground"
+      ],
+      "counters": [
+        {
+          "name": "Mega Delphox",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Mega Chandelure",
+          "moves": "Fire Spin / Overheat"
+        },
+        {
+          "name": "Blacephalon",
+          "moves": "Incinerate / Mind Blown"
+        },
+        {
+          "name": "Shadow Reshiram",
+          "moves": "Fire Fang / Fusion Flare"
+        }
+      ],
+      "countersSource": "GO Hub Crowned Sword Zacian counters"
+    },
+    {
+      "id": "zamazenta-crowned-shield-nov9",
+      "name": "Zamazenta",
+      "form": "Crowned Shield",
+      "species": "Zamazenta",
+      "catchForm": null,
+      "tier": "5",
+      "tierLabel": "5★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (Into the Wild)",
+      "windowStart": "2026-11-09T10:00:00",
+      "windowEnd": "2026-11-13T20:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 2384,
+      "cpL25": 2980,
+      "weather": [
+        "Cloudy",
+        "Snow"
+      ],
+      "sprite": {
+        "pokeapiId": 10056,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10056.png"
+      },
+      "notes": "Into the Wild (Leek Duck). Fighting/Steel. Hundo 2384 (2980 Cloudy/Snow). Raid Hour Tue 10 Nov 6–7 PM. Wins award Crowned Shield Energy; Special Background possible on 5★ catches.",
+      "types": [
+        "Fighting",
+        "Steel"
+      ],
+      "weakTo": [
+        "Fire",
+        "Fighting",
+        "Ground"
+      ],
+      "counters": [
+        {
+          "name": "Mega Blaziken",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Shadow Heatran",
+          "moves": "Fire Spin / Magma Storm"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Mega Garchomp",
+          "moves": "Mud Shot / Earth Power"
+        }
+      ],
+      "countersSource": "type chart + GO Hub Fighting/Steel counters"
+    },
+    {
+      "id": "druddigon-nov9",
+      "name": "Druddigon",
+      "form": null,
+      "species": "Druddigon",
+      "catchForm": null,
+      "tier": "3",
+      "tierLabel": "3★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (Into the Wild)",
+      "windowStart": "2026-11-09T10:00:00",
+      "windowEnd": "2026-11-13T20:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1561,
+      "cpL25": 1951,
+      "weather": [
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 621,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
+      },
+      "notes": "Into the Wild 3★ all week (Leek Duck). Dragon. Hundo 1561 (1951 Windy).",
+      "types": [
+        "Dragon"
+      ],
+      "weakTo": [
+        "Ice",
+        "Dragon",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Shadow Mamoswine",
+          "moves": "Powder Snow / Avalanche"
+        },
+        {
+          "name": "Baxcalibur",
+          "moves": "Ice Fang / Avalanche"
+        },
+        {
+          "name": "Shadow Dragonite",
+          "moves": "Dragon Tail / Outrage"
+        },
+        {
+          "name": "Eternatus",
+          "moves": "Dragon Tail / Dynamax Cannon"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "orthworm-nov9",
+      "name": "Orthworm",
+      "form": null,
+      "species": "Orthworm",
+      "catchForm": null,
+      "tier": "3",
+      "tierLabel": "3★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (Into the Wild)",
+      "windowStart": "2026-11-09T10:00:00",
+      "windowEnd": "2026-11-13T20:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1313,
+      "cpL25": 1642,
+      "weather": [
+        "Snow"
+      ],
+      "sprite": {
+        "pokeapiId": 968,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
+      },
+      "notes": "Into the Wild 3★ all week (Leek Duck). Steel. Hundo 1313 (1642 Snow).",
+      "types": [
+        "Steel"
+      ],
+      "weakTo": [
+        "Fire",
+        "Fighting",
+        "Ground"
+      ],
+      "counters": [
+        {
+          "name": "Mega Blaziken",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Shadow Heatran",
+          "moves": "Fire Spin / Magma Storm"
+        },
+        {
+          "name": "Mega Garchomp",
+          "moves": "Mud Shot / Earth Power"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "zekrom-wild-area-nov14",
+      "name": "Zekrom",
+      "form": null,
+      "species": "Zekrom",
+      "catchForm": null,
+      "tier": "5",
+      "tierLabel": "5★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Sat 14 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global)",
+      "windowStart": "2026-11-14T10:00:00",
+      "windowEnd": "2026-11-14T18:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 2307,
+      "cpL25": 2884,
+      "weather": [
+        "Windy",
+        "Rainy"
+      ],
+      "sprite": {
+        "pokeapiId": 644,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png"
+      },
+      "notes": "GO Wild Area Global Saturday only (Leek Duck). Dragon/Electric. Hundo 2307 (2884 Windy/Rainy).",
+      "types": [
+        "Dragon",
+        "Electric"
+      ],
+      "weakTo": [
+        "Dragon",
+        "Ground",
+        "Ice",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Eternatus",
+          "moves": "Dragon Tail / Dynamax Cannon"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
+          "name": "Mega Garchomp",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
+          "name": "Black Kyurem",
+          "moves": "Dragon Tail / Freeze Shock"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Shadow Haxorus",
+          "moves": "Dragon Tail / Breaking Swipe"
+        }
+      ],
+      "countersSource": "GO Hub / MattSimplified Zekrom raid guide"
+    },
+    {
+      "id": "white-kyurem-wild-area-nov14",
+      "name": "Kyurem",
+      "form": "White",
+      "species": "Kyurem",
+      "catchForm": "Kyurem",
+      "tier": "5",
+      "tierLabel": "5★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Sat 14 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global)",
+      "windowStart": "2026-11-14T10:00:00",
+      "windowEnd": "2026-11-14T18:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 2042,
+      "cpL25": 2553,
+      "weather": [
+        "Snow",
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 10023,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10023.png"
+      },
+      "notes": "GO Wild Area Global Saturday (Leek Duck). Fight White Kyurem; catch is Kyurem (Fusion Energy awarded; may know Glaciate). Hundo Kyurem 2042 (2553 Snow/Windy). Leek Duck also lists fused-form card CP 2631 / 3289.",
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "weakTo": [
+        "Fighting",
+        "Rock",
+        "Dragon",
+        "Steel",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Crowned Sword Zacian",
+          "moves": "Metal Claw / Behemoth Blade"
+        },
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Dusk Mane Necrozma",
+          "moves": "Metal Claw / Sunsteel Strike"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Mega Metagross",
+          "moves": "Bullet Punch / Meteor Mash"
+        }
+      ],
+      "countersSource": "GO Hub Kyurem / White Kyurem raid counters"
+    },
+    {
+      "id": "reshiram-wild-area-nov15",
+      "name": "Reshiram",
+      "form": null,
+      "species": "Reshiram",
+      "catchForm": null,
+      "tier": "5",
+      "tierLabel": "5★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global)",
+      "windowStart": "2026-11-15T10:00:00",
+      "windowEnd": "2026-11-15T18:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 2307,
+      "cpL25": 2884,
+      "weather": [
+        "Sunny",
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 643,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png"
+      },
+      "notes": "GO Wild Area Global Sunday only (Leek Duck). Dragon/Fire. Hundo 2307 (2884 Sunny/Windy).",
+      "types": [
+        "Dragon",
+        "Fire"
+      ],
+      "weakTo": [
+        "Dragon",
+        "Ground",
+        "Rock"
+      ],
+      "counters": [
+        {
+          "name": "Eternatus",
+          "moves": "Dragon Tail / Dynamax Cannon"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
+          "name": "Mega Garchomp",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Shadow Garchomp",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
+          "name": "Rampardos",
+          "moves": "Smack Down / Rock Slide"
+        }
+      ],
+      "countersSource": "GO Hub / MattSimplified Reshiram raid guide"
+    },
+    {
+      "id": "black-kyurem-wild-area-nov15",
+      "name": "Kyurem",
+      "form": "Black",
+      "species": "Kyurem",
+      "catchForm": "Kyurem",
+      "tier": "5",
+      "tierLabel": "5★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global)",
+      "windowStart": "2026-11-15T10:00:00",
+      "windowEnd": "2026-11-15T18:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 2042,
+      "cpL25": 2553,
+      "weather": [
+        "Snow",
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 10022,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10022.png"
+      },
+      "notes": "GO Wild Area Global Sunday (Leek Duck). Fight Black Kyurem; catch is Kyurem (Fusion Energy awarded; may know Glaciate). Hundo Kyurem 2042 (2553 Snow/Windy).",
+      "types": [
+        "Dragon",
+        "Ice"
+      ],
+      "weakTo": [
+        "Fighting",
+        "Rock",
+        "Dragon",
+        "Steel",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Crowned Sword Zacian",
+          "moves": "Metal Claw / Behemoth Blade"
+        },
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Dusk Mane Necrozma",
+          "moves": "Metal Claw / Sunsteel Strike"
+        },
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Dragon Tail / Breaking Swipe"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        }
+      ],
+      "countersSource": "GO Hub Kyurem / Black Kyurem raid counters"
+    },
+    {
+      "id": "machamp-modern-jacket-wild-area",
+      "name": "Machamp",
+      "form": "Modern Jacket",
+      "species": "Machamp",
+      "catchForm": "Machamp wearing a modern jacket",
+      "tier": "3",
+      "tierLabel": "3★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Sat 14–Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global)",
+      "windowStart": "2026-11-14T10:00:00",
+      "windowEnd": "2026-11-15T18:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1746,
+      "cpL25": 2183,
+      "weather": [
+        "Cloudy"
+      ],
+      "sprite": {
+        "pokeapiId": 68,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png"
+      },
+      "notes": "GO Wild Area Global both days during event hours (Leek Duck). Costumed debut; knows Karate Chop; shiny-eligible. Hundo 1746 (2183 Cloudy).",
+      "types": [
+        "Fighting"
+      ],
+      "weakTo": [
+        "Flying",
+        "Psychic",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Rayquaza",
+          "moves": "Air Slash / Dragon Ascent"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Dawn Wings Necrozma",
+          "moves": "Psycho Cut / Moongeist Beam"
+        },
+        {
+          "name": "Shadow Mewtwo",
+          "moves": "Psycho Cut / Psystrike"
+        },
+        {
+          "name": "Incarnate Enamorus",
+          "moves": "Fairy Wind / Springtide Storm"
+        },
+        {
+          "name": "Yveltal",
+          "moves": "Gust / Oblivion Wing"
+        }
+      ],
+      "countersSource": "type"
+    },
+    {
+      "id": "cresselia-nov16",
+      "name": "Cresselia",
+      "form": null,
+      "species": "Cresselia",
+      "catchForm": null,
+      "tier": "5",
+      "tierLabel": "5★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local",
+      "windowStart": "2026-11-16T06:00:00",
+      "windowEnd": "2026-11-24T22:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1633,
+      "cpL25": 2041,
+      "weather": [
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 488,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png"
+      },
+      "notes": "Leek Duck event. Psychic. Hundo 1633 (2041 Windy). Raid Hour Wed 18 Nov 6–7 PM (with Darkrai).",
+      "types": [
+        "Psychic"
+      ],
+      "weakTo": [
+        "Bug",
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Mega Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Mega Houndoom",
+          "moves": "Snarl / Foul Play"
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Darkrai",
+          "moves": "Snarl / Shadow Ball"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Shadow Chandelure",
+          "moves": "Hex / Shadow Ball"
+        }
+      ],
+      "countersSource": "type + MattSimplified Cresselia notes"
+    },
+    {
+      "id": "darkrai-nov16",
+      "name": "Darkrai",
+      "form": null,
+      "species": "Darkrai",
+      "catchForm": null,
+      "tier": "5",
+      "tierLabel": "5★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local",
+      "windowStart": "2026-11-16T06:00:00",
+      "windowEnd": "2026-11-24T22:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 2136,
+      "cpL25": 2671,
+      "weather": [
+        "Fog"
+      ],
+      "sprite": {
+        "pokeapiId": 491,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
+      },
+      "notes": "Leek Duck event. Dark. Hundo 2136 (2671 Fog). Raid Hour Wed 18 Nov 6–7 PM (with Cresselia). Top Dark attacker farm target.",
+      "types": [
+        "Dark"
+      ],
+      "weakTo": [
+        "Fighting",
+        "Bug",
+        "Fairy"
+      ],
+      "counters": [
+        {
+          "name": "Mega Lucario",
+          "moves": "Force Palm / Aura Sphere"
+        },
+        {
+          "name": "Mega Blaziken",
+          "moves": "Counter / Focus Blast"
+        },
+        {
+          "name": "Terrakion",
+          "moves": "Double Kick / Sacred Sword"
+        },
+        {
+          "name": "Mega Gardevoir",
+          "moves": "Charm / Dazzling Gleam"
+        },
+        {
+          "name": "Shadow Conkeldurr",
+          "moves": "Counter / Dynamic Punch"
+        },
+        {
+          "name": "Keldeo",
+          "moves": "Low Kick / Sacred Sword"
+        }
+      ],
+      "countersSource": "type + Darkrai raid guides"
+    },
+    {
+      "id": "mega-banette-nov16",
+      "name": "Mega Banette",
+      "form": "Mega",
+      "species": "Banette",
+      "catchForm": "Banette",
+      "tier": "mega",
+      "tierLabel": "Mega",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": true,
+      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local",
+      "windowStart": "2026-11-16T06:00:00",
+      "windowEnd": "2026-11-24T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1313,
+      "cpL25": 1642,
+      "weather": [
+        "Fog"
+      ],
+      "sprite": {
+        "pokeapiId": 354,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png"
+      },
+      "notes": "Leek Duck Mega Banette event. Catch form: Banette. Ghost. Hundo 1313 (1642 Fog). Easy solo; top Ghost Mega.",
+      "types": [
+        "Ghost"
+      ],
+      "weakTo": [
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Mega Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Mega Houndoom",
+          "moves": "Snarl / Foul Play"
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Darkrai",
+          "moves": "Snarl / Shadow Ball"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Shadow Chandelure",
+          "moves": "Hex / Shadow Ball"
+        }
+      ],
+      "countersSource": "type + MattSimplified Mega Banette"
+    },
+    {
+      "id": "deoxys-normal-nov25",
+      "name": "Deoxys",
+      "form": "Normal Forme",
+      "species": "Deoxys",
+      "catchForm": null,
+      "tier": "5",
+      "tierLabel": "5★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Wed 25 Nov 6:00 AM – Tue 1 Dec 10:00 PM local",
+      "windowStart": "2026-11-25T06:00:00",
+      "windowEnd": "2026-12-01T22:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1806,
+      "cpL25": 2257,
+      "weather": [
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 386,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/386.png"
+      },
+      "notes": "Leek Duck. All 4 formes share the window. Hundo Normal 1806 (2257 Windy). Raid Hour Wed 25 Nov 6–7 PM (all formes).",
+      "types": [
+        "Psychic"
+      ],
+      "weakTo": [
+        "Bug",
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Mega Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Mega Houndoom",
+          "moves": "Snarl / Foul Play"
+        },
+        {
+          "name": "Darkrai",
+          "moves": "Snarl / Shadow Ball"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Shadow Chandelure",
+          "moves": "Hex / Shadow Ball"
+        }
+      ],
+      "countersSource": "type + MattSimplified Deoxys notes"
+    },
+    {
+      "id": "deoxys-attack-nov25",
+      "name": "Deoxys",
+      "form": "Attack Forme",
+      "species": "Deoxys",
+      "catchForm": null,
+      "tier": "5",
+      "tierLabel": "5★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Wed 25 Nov 6:00 AM – Tue 1 Dec 10:00 PM local",
+      "windowStart": "2026-11-25T06:00:00",
+      "windowEnd": "2026-12-01T22:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1474,
+      "cpL25": 1842,
+      "weather": [
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 10001,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10001.png"
+      },
+      "notes": "Leek Duck. Attack Forme — easy solo. Hundo 1474 (1842 Windy). Raid Hour Wed 25 Nov 6–7 PM.",
+      "types": [
+        "Psychic"
+      ],
+      "weakTo": [
+        "Bug",
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Mega Houndoom",
+          "moves": "Snarl / Foul Play"
+        },
+        {
+          "name": "Mega Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Darkrai",
+          "moves": "Snarl / Shadow Ball"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Shadow Absol",
+          "moves": "Snarl / Payback"
+        },
+        {
+          "name": "Shadow Chandelure",
+          "moves": "Hex / Shadow Ball"
+        }
+      ],
+      "countersSource": "type + MattSimplified Deoxys Attack"
+    },
+    {
+      "id": "deoxys-defense-nov25",
+      "name": "Deoxys",
+      "form": "Defense Forme",
+      "species": "Deoxys",
+      "catchForm": null,
+      "tier": "5",
+      "tierLabel": "5★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Wed 25 Nov 6:00 AM – Tue 1 Dec 10:00 PM local",
+      "windowStart": "2026-11-25T06:00:00",
+      "windowEnd": "2026-12-01T22:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1299,
+      "cpL25": 1624,
+      "weather": [
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 10002,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10002.png"
+      },
+      "notes": "Leek Duck. Defense Forme — hardest of the four (trio). Hundo 1299 (1624 Windy). Raid Hour Wed 25 Nov 6–7 PM.",
+      "types": [
+        "Psychic"
+      ],
+      "weakTo": [
+        "Bug",
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Mega Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Mega Houndoom",
+          "moves": "Snarl / Foul Play"
+        },
+        {
+          "name": "Darkrai",
+          "moves": "Snarl / Shadow Ball"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Hydreigon",
+          "moves": "Bite / Brutal Swing"
+        }
+      ],
+      "countersSource": "type + MattSimplified Deoxys Defense"
+    },
+    {
+      "id": "deoxys-speed-nov25",
+      "name": "Deoxys",
+      "form": "Speed Forme",
+      "species": "Deoxys",
+      "catchForm": null,
+      "tier": "5",
+      "tierLabel": "5★",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": false,
+      "window": "Wed 25 Nov 6:00 AM – Tue 1 Dec 10:00 PM local",
+      "windowStart": "2026-11-25T06:00:00",
+      "windowEnd": "2026-12-01T22:00:00",
+      "shiny": true,
+      "shinyRate": "~1/20 community legendary estimate; Niantic not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1645,
+      "cpL25": 2056,
+      "weather": [
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 10003,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10003.png"
+      },
+      "notes": "Leek Duck. Speed Forme. Hundo 1645 (2056 Windy). Raid Hour Wed 25 Nov 6–7 PM.",
+      "types": [
+        "Psychic"
+      ],
+      "weakTo": [
+        "Bug",
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Mega Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Mega Houndoom",
+          "moves": "Snarl / Foul Play"
+        },
+        {
+          "name": "Darkrai",
+          "moves": "Snarl / Shadow Ball"
+        },
+        {
+          "name": "Mega Gengar",
+          "moves": "Lick / Shadow Ball"
+        },
+        {
+          "name": "Shadow Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Shadow Chandelure",
+          "moves": "Hex / Shadow Ball"
+        }
+      ],
+      "countersSource": "type + MattSimplified Deoxys Speed"
+    },
+    {
+      "id": "mega-metagross-nov25",
+      "name": "Mega Metagross",
+      "form": "Mega",
+      "species": "Metagross",
+      "catchForm": "Metagross",
+      "tier": "mega",
+      "tierLabel": "Mega",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": true,
+      "window": "Wed 25 Nov 6:00 AM – Tue 1 Dec 10:00 PM local",
+      "windowStart": "2026-11-25T06:00:00",
+      "windowEnd": "2026-12-01T22:00:00",
+      "shiny": true,
+      "shinyRate": "not published",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 2166,
+      "cpL25": 2708,
+      "weather": [
+        "Snow",
+        "Windy"
+      ],
+      "sprite": {
+        "pokeapiId": 376,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png"
+      },
+      "notes": "GO Hub Nov schedule + community hundo list. Catch form: Metagross. Steel/Psychic. Hundo 2166 (2708 Snow/Windy). Elite TM Meteor Mash recommended. Duo.",
+      "types": [
+        "Steel",
+        "Psychic"
+      ],
+      "weakTo": [
+        "Fire",
+        "Ground",
+        "Ghost",
+        "Dark"
+      ],
+      "counters": [
+        {
+          "name": "Mega Delphox",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Primal Groudon",
+          "moves": "Mud Shot / Precipice Blades"
+        },
+        {
+          "name": "Mega Charizard Y",
+          "moves": "Fire Spin / Blast Burn"
+        },
+        {
+          "name": "Mega Tyranitar",
+          "moves": "Bite / Brutal Swing"
+        },
+        {
+          "name": "Shadow Chandelure",
+          "moves": "Hex / Shadow Ball"
+        },
+        {
+          "name": "Darkrai",
+          "moves": "Snarl / Shadow Ball"
+        }
+      ],
+      "countersSource": "type + MattSimplified Mega Metagross"
     }
   ],
   "events": [
-    {
-      "id": "zamazenta-live",
-      "when": "Wed 16 Sep 6:00 AM – Tue 22 Sep 10:00 PM local (ended)",
-      "title": "Zamazenta 5★ + Mega Venusaur (ended)",
-      "impact": "Ended Tue evening local. Overnight gap until Wed 6:00 AM.",
-      "urgent": false
-    },
-    {
-      "id": "horizons",
-      "when": "Wed 16 Sep 10:00 AM – Tue 22 Sep 8:00 PM local (ended)",
-      "title": "Pokémon Horizons: The Series Celebration (ended)",
-      "impact": "1★ Cap Pikachu + 3★ goggles Charizard / Meowscarada / Skeledirge / Quaquaval ended with the event.",
-      "urgent": false
-    },
-    {
-      "id": "raid-hour-zamazenta",
-      "when": "Wed 16 Sep 6:00–7:00 PM local (ended)",
-      "title": "Raid Hour: Zamazenta",
-      "impact": "Extra 5★ density"
-    },
-    {
-      "id": "spotlight-charmander-goggles",
-      "when": "Thu 17 Sep 6:00–7:00 PM local (ended)",
-      "title": "Spotlight: Charmander wearing Friede's goggles",
-      "impact": "Wild spotlight only (2× Catch Stardust) — not a raid list change"
-    },
-    {
-      "id": "staraptor-day",
-      "when": "Sat 19 Sep 2:00–5:00 PM local (ended)",
-      "title": "Staraptor Super Mega Raid Day (ended)",
-      "impact": "Mega Staraptor debut window closed. Catch was Staraptor (Mega Level 1 unlocked); boosted shiny ~1/10 (GO Hub)."
-    },
-    {
-      "id": "shadow-weekend-19",
-      "when": "Sat–Sun 19–20 Sep 2026 (ended)",
-      "title": "Shadow 5★ weekend",
-      "impact": "Shadow Thundurus Incarnate weekend window closed. Next: 26–27 Sep.",
-      "urgent": false
-    },
-    {
-      "id": "ubs-malamar",
-      "when": "Wed 23 Sep 6:00 AM – Tue 29 Sep 10:00 PM local (ended)",
-      "title": "Regional Ultra Beasts + Mega Malamar (ended)",
-      "impact": "Ended Tue 29 Sep 10:00 PM local. Replaced by Xerneas + Mega Victreebel.",
-      "urgent": false
-    },
-    {
-      "id": "raid-hour-ubs",
-      "when": "Wed 23 Sep 6:00–7:00 PM local (ended)",
-      "title": "Raid Hour: regional Ultra Beasts (ended)",
-      "impact": "Extra 5★ density window closed.",
-      "urgent": false
-    },
-    {
-      "id": "spotlight-rattata",
-      "when": "Thu 24 Sep 6:00–7:00 PM local (ended)",
-      "title": "Spotlight: Rattata (ended)",
-      "impact": "Wild only (2× Evolution XP; XXS chance) — ended.",
-      "urgent": false
-    },
-    {
-      "id": "shadow-weekend-26",
-      "when": "Sat–Sun 26–27 Sep 2026 (ended)",
-      "title": "Shadow 5★ weekend (ended)",
-      "impact": "Shadow Thundurus Incarnate weekend window closed. Next: Sat–Sun 3–4 Oct (package continues through ~6 Oct).",
-      "urgent": false
-    },
-    {
-      "id": "catch-mastery-phantump",
-      "when": "Sat 26 Sep 10:00 AM – 8:00 PM local (ended)",
-      "title": "Catch Mastery: Phantump (ended)",
-      "impact": "Ended Sat evening. Not a raid rotation change.",
-      "urgent": false
-    },
-    {
-      "id": "harvest-festival",
-      "when": "Tue 29 Sep 10:00 AM – Mon 5 Oct 8:00 PM local (ended)",
-      "title": "Harvest Festival: Applin Picking (ended)",
-      "impact": "Shiny Applin debut; Mossy Lures → apples; GO Pass includes Super Rocket Radar. Wild/research focused — not a raid boss rotation change (Leek Duck / GO Hub).",
-      "urgent": false
-    },
-    {
-      "id": "shadow-weekend-oct3",
-      "when": "Sat–Sun 3–4 Oct 2026 (ended)",
-      "title": "Shadow 5★ weekend — Thundurus Incarnate (ended)",
-      "impact": "Weekend Shadow 5★ window closed. Shadow Thundurus package ended Tue 6 Oct 8:00 PM local; Shadow Landorus (Incarnate) takes over Wed 7 Oct.",
-      "urgent": false
-    },
-    {
-      "id": "harvest-taken-over",
-      "when": "Fri 2 Oct 12:00 AM – Mon 5 Oct 8:00 PM local (ended)",
-      "title": "Harvest Festival: Taken Over (ended) — Shadow Zekrom",
-      "impact": "Giovanni was active with Super Rocket Radar (GO Pass). Leaders refreshed (Cliff Cubone / Sierra Pancham / Arlo Alolan Grimer). New Grunt Shadows: Wimpod, Fomantis, Sandygast. Frustration removable; wider IV variance on 1★/3★ Shadow raids.",
-      "urgent": false
-    },
-    {
-      "id": "xerneas-victreebel",
-      "when": "Wed 30 Sep 6:00 AM – Tue 6 Oct 10:00 PM local (ended)",
-      "title": "Xerneas 5★ + Mega Victreebel (ended)",
-      "impact": "Ended Tue 6 Oct 10:00 PM local. Replaced by Yveltal + Mega Blastoise from Wed 7 Oct 6:00 AM.",
-      "urgent": false
-    },
-    {
-      "id": "raid-hour-xerneas",
-      "when": "Wed 30 Sep 6:00–7:00 PM local (ended)",
-      "title": "Raid Hour: Xerneas (ended)",
-      "impact": "Extra 5★ density window closed.",
-      "urgent": false
-    },
-    {
-      "id": "spotlight-seedot",
-      "when": "Thu 1 Oct 6:00–7:00 PM local (ended)",
-      "title": "Spotlight: Seedot (ended)",
-      "impact": "Wild spotlight only — ended.",
-      "urgent": false
-    },
-    {
-      "id": "world-space-week-2026",
-      "when": "Sun 4 Oct 12:00 AM – Sat 10 Oct 11:59 PM local (ended); Timed Research claim through Mon 12 Oct 11:59 PM (ended)",
-      "title": "World Space Week 2026 (ended) — Astronaut Pikachu",
-      "impact": "Astronaut Pikachu 1★ raids ended Sat 10 Oct 11:59 PM. Timed Research claim window ended Mon 12 Oct 11:59 PM local.",
-      "urgent": false
-    },
-    {
-      "id": "yveltal-blastoise-oct7",
-      "when": "Wed 7 Oct 6:00 AM – Tue 13 Oct 10:00 PM local (ended)",
-      "title": "Yveltal 5★ + Mega Blastoise (ended)",
-      "impact": "Ended Tue 13 Oct 10:00 PM local. Replaced by Dialga + Mega Dragonite from Wed 14 Oct 6:00 AM.",
-      "urgent": false
-    },
-    {
-      "id": "shadow-landorus-oct",
-      "when": "Wed 7 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (ENDED)",
-      "title": "Shadow Landorus (Incarnate) in Shadow raids (ENDED)",
-      "impact": "ENDED Tue 3 Nov 10:00 PM local. Shadow 5★ weekend Oct 31–Nov 1 already closed; midweek Shadow 1★/3★ ended with the package. Next: Shadow Tornadus Incarnate from Wed 4 Nov 6:00 AM (first weekend window → Sun 8 Nov 10:00 PM; longer package from Mon 16 Nov).",
-      "urgent": false
-    },
-    {
-      "id": "raid-hour-yveltal",
-      "when": "Wed 7 Oct 6:00–7:00 PM local (ended)",
-      "title": "Raid Hour: Yveltal (ended)",
-      "impact": "Extra 5★ density window closed.",
-      "urgent": false
-    },
-    {
-      "id": "spotlight-elgyem",
-      "when": "Thu 8 Oct 6:00–7:00 PM local (ended)",
-      "title": "Spotlight: Elgyem (ended)",
-      "impact": "Wild spotlight with 2× Catch Candy — not a raid event.",
-      "urgent": false
-    },
-    {
-      "id": "community-day-zorua-oct10",
-      "when": "Sat 10 Oct 2:00–5:00 PM local (ended)",
-      "title": "Community Day: Zorua (ended)",
-      "impact": "Wild Community Day ended (increased Zorua spawns, 3× Catch XP; evolve for Zoroark with Sucker Punch). Not a raid rotation change.",
-      "urgent": false
-    },
-    {
-      "id": "dialga-dragonite-oct14",
-      "when": "Wed 14 Oct 6:00 AM – Tue 20 Oct 10:00 PM local (ended)",
-      "title": "Dialga 5★ + Mega Dragonite (ended)",
-      "impact": "Ended Tue 20 Oct 10:00 PM local (incl. Dialga-window 1★/3★). Replaced by Palkia + Mega Charizard X & Y from Wed 21 Oct 6:00 AM.",
-      "urgent": false
-    },
-    {
-      "id": "spotlight-stufful",
-      "when": "Thu 15 Oct 6:00–7:00 PM local (ended)",
-      "title": "Spotlight: Stufful (ended)",
-      "impact": "Ended. Wild spotlight only — not a raid event.",
-      "urgent": false
-    },
-    {
-      "id": "max-monday-rookidee-oct12",
-      "when": "Mon 12 Oct 6:00 AM – 9:00 PM local (ended)",
-      "title": "Max Monday / Dynamax Rookidee (ended)",
-      "impact": "Dynamax Rookidee Max Battles window closed Mon 12 Oct 9:00 PM local (featured for the Oct 12–18 Max Battle rotation). Denser Monday Power Spots also ended for today. Tier-1 Max Battle (~250 Max Particles on win), Flying — weak to Electric, Ice, Rock; shiny-eligible (GO Hub). Not a Gym raid change.",
-      "urgent": false
-    },
-    {
-      "id": "fall-marathon-buddy-trek",
-      "when": "Tue 13 Oct 10:00 AM – Mon 19 Oct 8:00 PM local (ended)",
-      "title": "Fall Marathon: Buddy Trek (ended)",
-      "impact": "Ended Mon 19 Oct 8:00 PM local. Bramblin debuted (GO Pass / Incense / Field Research). Boosted shiny Electrike throughout. Incense phase 2 (Fri 16 Oct 10:00 AM – Mon 19 Oct 8:00 PM): Hisuian Growlithe, Nincada, Electrike, Helioptile, Bramblin — boosted shiny Hisuian Growlithe from Incense (Daily Adventure Incense excluded). Mega Manectric Super Max Level + Discharge+. GO Pass rewards claimable until Wed 21 Oct 8:00 PM local (Leek Duck). Not a raid rotation change.",
-      "urgent": false
-    },
-    {
-      "id": "sandile-hatch-day",
-      "when": "Sat 17 Oct 11:00 AM – 5:00 PM local (ended)",
-      "title": "Sandile Hatch Day (ended)",
-      "impact": "Ended Sat 17 Oct 5:00 PM local. During the window: 2 km Eggs collected hatched Sandile much more frequently with an increased shiny Sandile chance; 2× Hatch Candy; ½ Egg Hatch Distance (¼ with paid Timed Research ticket); more 2 km Eggs from PokéStops (Leek Duck / GO Hub / official news). Egg-focused — not a raid rotation change. Seasonal Twilight Trails egg pools apply again.",
-      "urgent": false
-    },
-    {
-      "id": "max-monday-sneasel-oct19",
-      "when": "Mon 19 Oct 6:00 AM – 9:00 PM local (ended denser window); Dynamax Sneasel may continue in Max Battles through ~Sun 25 Oct",
-      "title": "Max Monday / Dynamax Sneasel (denser window ended)",
-      "impact": "Denser Power Spots window ended Mon 19 Oct 9:00 PM local. Dynamax Sneasel was the featured Max Monday (Leek Duck); Sneasel may still appear in Max Battles Oct 19–25. Dark/Ice — weak to Fighting, Rock, Bug, Steel, Fire, Fairy. Shiny-eligible per event notes. Not a Gym raid change.",
-      "urgent": false
-    },
-    {
-      "id": "palkia-charizard-oct21",
-      "when": "Wed 21 Oct 6:00 AM – Tue 27 Oct 10:00 PM local (ended)",
-      "title": "Palkia 5★ + Mega Charizard X & Y (ended)",
-      "impact": "Ended Tue 27 Oct 10:00 PM local. Replaced by Giratina (Origin) + Mega Sableye from Wed 28 Oct 6:00 AM.",
-      "urgent": true
-    },
-    {
-      "id": "raid-hour-palkia",
-      "when": "Wed 21 Oct 6:00–7:00 PM local (ENDED)",
-      "title": "Raid Hour: Palkia (ENDED)",
-      "impact": "Raid Hour ended after 7:00 PM local on Wed 21 Oct.",
-      "urgent": false
-    },
-    {
-      "id": "spotlight-morelull",
-      "when": "Thu 22 Oct 6:00–7:00 PM local (ENDED)",
-      "title": "Spotlight: Morelull (ended)",
-      "impact": "Wild spotlight only — ended Thu 22 Oct 7:00 PM local. Not a raid event (Leek Duck events).",
-      "urgent": false
-    },
-    {
-      "id": "max-battle-day-lake-trio-oct24",
-      "when": "Sat 24 Oct 2:00–5:00 PM local (ENDED)",
-      "title": "Dynamax Uxie, Mesprit & Azelf Max Battle Day (ended)",
-      "impact": "Ended Sat 24 Oct 5:00 PM local. Max Battle Day featuring Dynamax Lake Guardians (Leek Duck). Not a Gym raid rotation change.",
-      "urgent": false
-    },
-    {
-      "id": "max-monday-sableye-oct26",
-      "when": "Mon 26 Oct 6:00 AM – 9:00 PM local (ended denser window); Dynamax Sableye may continue in Max Battles through Sun 1 Nov",
-      "title": "Max Monday / Dynamax Sableye (denser window ended)",
-      "impact": "Denser Power Spots window ended Mon 26 Oct 9:00 PM local. Dynamax Sableye was the featured Max Monday (Leek Duck / GO Hub); Sableye may still appear in Max Battles through Sun 1 Nov. Max Battles only — not a Gym raid change.",
-      "urgent": false
-    },
-    {
-      "id": "raid-hour-dialga",
-      "when": "Wed 14 Oct 6:00–7:00 PM local (ended)",
-      "title": "Raid Hour: Dialga (ended)",
-      "impact": "Ended. More 5★ raids for one hour on Dialga’s first day.",
-      "urgent": false
-    },
-    {
-      "id": "giratina-sableye-oct28",
-      "when": "Wed 28 Oct 6:00 AM – Tue 3 Nov 10:00 PM local (Origin ENDED); Mega Sableye continues → Sun 8 Nov 10:00 PM (LIVE)",
-      "title": "Giratina (Origin) 5★ ENDED · Mega Sableye still LIVE",
-      "impact": "Origin Giratina + Origin-window 3★ ENDED Tue 3 Nov 10:00 PM. Mega Sableye still LIVE through Sun 8 Nov 10:00 PM alongside Altered Giratina.",
-      "urgent": false
-    },
-    {
-      "id": "raid-hour-giratina-origin",
-      "when": "Wed 28 Oct 6:00–7:00 PM local (ENDED)",
-      "title": "Raid Hour: Giratina (Origin) (ENDED)",
-      "impact": "Raid Hour ended after 7:00 PM local on Wed 28 Oct. Giratina (Origin) 5★ remains in the normal rotation through Tue 3 Nov 10:00 PM.",
-      "urgent": false
-    },
-    {
-      "id": "super-mega-raid-day-oct31",
-      "when": "Sat 31 Oct 2:00–5:00 PM local (ENDED)",
-      "title": "Chandelure Super Mega Raid Day (ENDED)",
-      "impact": "Ended after 5:00 PM local on Sat 31 Oct. Mega Chandelure debuted in Super Mega Raids (Ghost/Fire); catch was Chandelure with Mega Level 1 unlocked (boosted shiny chance; Niantic not published). Super Max Level + Ominous Wind+ while Mega Evolved remain for owned Mega Chandelure. Global Challenge window ended Sat 31 Oct 8:00 PM PDT; bonus period Nov 2–15 PST (Leek Duck / official).",
-      "urgent": false
-    },
-    {
-      "id": "tcg-30th-celebration",
-      "when": "Sun 27 Sep 10:00 AM – Tue 20 Oct 10:00 PM local (ended)",
-      "title": "Pokémon TCG: 30th Celebration (ended — US retail)",
-      "impact": "Ended Tue 20 Oct 10:00 PM local. Was Mega Gengar boost at participating US Target / Best Buy / GameStop only.",
-      "urgent": false
-    },
-    {
-      "id": "minior-showers-orionids",
-      "when": "Mon 19 Oct 5:00 PM – Sat 24 Oct 11:59 PM local (ENDED)",
-      "title": "Minior Showers: Orionids — Green Core Minior Debut (ended)",
-      "impact": "Ended Sat 24 Oct 11:59 PM local. Green Core Minior debut window closed (Meteor Form; boosted wild 5–9 PM nightly during the event). Next Minior Showers: Leonids Nov 14–19 (Leek Duck / GO Hub). Not a raid rotation change.",
-      "urgent": false
-    },
-    {
-      "id": "halloween-2026-part-1",
-      "when": "Tue 27 Oct 10:00 AM – Sun 1 Nov 10:00 AM local (ENDED)",
-      "title": "Halloween 2026 Part I (ENDED)",
-      "impact": "ENDED Sun 1 Nov 10:00 AM local. Costume 1★ Pikachu (hat+capelet) + Sinistea (bow) CONTINUE in Part II through Thu 5 Nov 8:00 PM.",
-      "urgent": false
-    },
-    {
-      "id": "halloween-2026-part-2",
-      "when": "Sun 1 Nov 10:00 AM – Thu 5 Nov 8:00 PM local (ENDED)",
-      "title": "Halloween 2026 Part II (ENDED)",
-      "impact": "ENDED Thu 5 Nov 8:00 PM local. Spawns / Field Research / GO Pass Halloween bonuses closed (claim unlocked GO Pass rewards by Sat 7 Nov 8:00 PM). Costume 1★ Pikachu/Sinistea rotated out Fri 6 Nov 6:00 AM (Leek Duck/ScrapedDuck → Duskull/Frillish/Litwick). Ghosty 3★ still LIVE through Altered Giratina window → Sun 8 Nov ~10:00 PM.",
-      "urgent": false
-    },
     {
       "id": "festival-of-lights-2026",
       "when": "Fri 6 Nov 10:00 AM – Sun 8 Nov 8:00 PM India local (LIVE · India only)",
       "title": "Festival of Lights 2026 (LIVE · India only)",
       "impact": "LIVE since Fri 6 Nov 10:00 AM India local → Sun 8 Nov 8:00 PM (Snack Nap Live; GO Hub / GameInfo). India-exclusive 1★: Pikachu wearing a saree + Pikachu wearing a kurta (shiny / Special Background possible; CP 493–536 / 616–670 Rainy). Not a global raid rotation replacement — worldwide 1★ remains Duskull/Frillish/Litwick.",
       "urgent": true
-    },
-    {
-      "id": "shadow-weekend-oct31",
-      "when": "Sat–Sun 31 Oct–1 Nov 2026 (ENDED)",
-      "title": "Shadow 5★ weekend — Landorus Incarnate (ENDED)",
-      "impact": "Weekend Shadow 5★ window closed after Sun 1 Nov. Shadow Landorus package continues through Tue 3 Nov 10:00 PM for Shadow 1★/3★ midweek. Next Shadow 5★ weekends: Tornadus Incarnate (GO Hub November schedule).",
-      "urgent": false
-    },
-    {
-      "id": "max-monday-machop-nov2",
-      "when": "Mon 2 Nov 6:00 AM – 9:00 PM local (ended denser window); Dynamax Machop may continue in Max Battles through Sun 8 Nov",
-      "title": "Max Monday / Dynamax Machop (denser window ended)",
-      "impact": "Denser Power Spots window ended Mon 2 Nov 9:00 PM local. Dynamax Machop was the featured Max Monday (Leek Duck / GO Hub); Machop may still appear in Max Battles through Sun 8 Nov. Fighting-type Tier-2 Max Battle (~400 Max Particles on win); weak to Flying, Psychic, Fairy; shiny-eligible. Max Battles only — not a Gym raid change.",
-      "urgent": false
     },
     {
       "id": "giratina-altered-nov4",
@@ -1806,25 +2635,88 @@
       "urgent": true
     },
     {
-      "id": "raid-hour-giratina-altered",
-      "when": "Wed 4 Nov 6:00–7:00 PM local (ENDED)",
-      "title": "Raid Hour: Giratina (Altered) (ENDED)",
-      "impact": "Raid Hour ended after 7:00 PM local on Wed 4 Nov. Giratina (Altered) 5★ remains in the normal rotation through Sun 8 Nov 10:00 PM.",
-      "urgent": false
-    },
-    {
-      "id": "spotlight-teddiursa-witch-nov5",
-      "when": "Thu 5 Nov 6:00–7:00 PM local (ENDED)",
-      "title": "Spotlight: Teddiursa wearing a witch hat (ENDED)",
-      "impact": "Spotlight Hour ended after 7:00 PM local on Thu 5 Nov. Was wild spotlight only (2× Evolution XP) — not a raid list change (Leek Duck).",
-      "urgent": false
-    },
-    {
       "id": "global-1star-nov6",
       "when": "Fri 6 Nov 6:00 AM – Sun 8 Nov ~10:00 PM local (LIVE)",
       "title": "Global 1★ rotation: Duskull / Frillish / Litwick (LIVE)",
       "impact": "Leek Duck raid-bosses + ScrapedDuck rotated costume Halloween 1★ out at Fri 6 Nov 6:00 AM local. Now: Duskull, Frillish, Frillish (Female), Litwick. Ghosty 3★ unchanged. GO Hub current-bosses page still stale on costume 1★ (last edit Nov 3).",
       "urgent": true
+    },
+    {
+      "id": "into-the-wild-2026",
+      "when": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (upcoming)",
+      "title": "Into the Wild 2026 (upcoming)",
+      "impact": "5★ Crowned Sword Zacian + Crowned Shield Zamazenta all week (Crowned Sword/Shield Energy from wins; Special Background possible). 3★ Druddigon + Orthworm. Remote Raid limit 30. Max Battles (Registeel Wed / Regidrago Thu / Latias+Latios Fri) are Max dens — see Leek Duck, not gym raid cards. Raid Hours: Zacian Mon 9 + Zamazenta Tue 10, 6–7 PM.",
+      "urgent": true
+    },
+    {
+      "id": "raid-hour-zacian-nov9",
+      "when": "Mon 9 Nov 6:00–7:00 PM local (upcoming)",
+      "title": "Raid Hour: Zacian (Crowned Sword) (upcoming)",
+      "impact": "Into the Wild Raid Hour — denser Crowned Sword Zacian 5★ spawns 6–7 PM local Mon 9 Nov.",
+      "urgent": true
+    },
+    {
+      "id": "raid-hour-zamazenta-nov10",
+      "when": "Tue 10 Nov 6:00–7:00 PM local (upcoming)",
+      "title": "Raid Hour: Zamazenta (Crowned Shield) (upcoming)",
+      "impact": "Into the Wild Raid Hour — denser Crowned Shield Zamazenta 5★ spawns 6–7 PM local Tue 10 Nov.",
+      "urgent": false
+    },
+    {
+      "id": "go-wild-area-global-2026",
+      "when": "Sat 14 & Sun 15 Nov 10:00 AM – 6:00 PM local (upcoming)",
+      "title": "GO Wild Area 2026: Global (upcoming)",
+      "impact": "Sat 5★: Zekrom + White Kyurem. Sun 5★: Reshiram + Black Kyurem. Both days 3★: Machamp wearing a modern jacket. Kyurem raids award Fusion Energy; Kyurem may know Glaciate. Max/GMax (GMax Duraludon both days; DMax Dialga Sat / Palkia Sun) are Max Battles — not gym raid cards. Sources: Leek Duck Wild Area raids.",
+      "urgent": true
+    },
+    {
+      "id": "cresselia-darkrai-nov16",
+      "when": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (upcoming)",
+      "title": "Cresselia + Darkrai 5★ (upcoming)",
+      "impact": "Both in five-star raids. Raid Hour Wed 18 Nov 6–7 PM. Shiny-eligible. Source: Leek Duck.",
+      "urgent": false
+    },
+    {
+      "id": "mega-banette-nov16",
+      "when": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (upcoming)",
+      "title": "Mega Banette in Mega Raids (upcoming)",
+      "impact": "Mega Banette replaces Mega Sableye after the overnight gap. Catch form Banette; shiny-eligible. Source: Leek Duck.",
+      "urgent": false
+    },
+    {
+      "id": "raid-hour-cresselia-darkrai-nov18",
+      "when": "Wed 18 Nov 6:00–7:00 PM local (upcoming)",
+      "title": "Raid Hour: Cresselia + Darkrai (upcoming)",
+      "impact": "Denser Cresselia and Darkrai 5★ spawns 6–7 PM local Wed 18 Nov.",
+      "urgent": false
+    },
+    {
+      "id": "shadow-tornadus-resume-nov16",
+      "when": "Mon 16 Nov 6:00 AM – Tue 1 Dec 10:00 PM local (upcoming · weekends)",
+      "title": "Shadow Tornadus (Incarnate) resumes — longer package (upcoming)",
+      "impact": "After the first weekend window ends Sun 8 Nov 10 PM, Shadow Tornadus (Incarnate) 5★ returns in the longer Shadow package Mon 16 Nov → Tue 1 Dec (weekend Shadow 5★ windows). Source: Leek Duck / Dexerto / current boss notes.",
+      "urgent": false
+    },
+    {
+      "id": "deoxys-formes-nov25",
+      "when": "Wed 25 Nov 6:00 AM – Tue 1 Dec 10:00 PM local (upcoming)",
+      "title": "Deoxys (Normal / Attack / Defense / Speed) 5★ (upcoming)",
+      "impact": "All four formes in five-star raids. Raid Hour Wed 25 Nov 6–7 PM (all formes). Shiny-eligible. Source: Leek Duck.",
+      "urgent": false
+    },
+    {
+      "id": "mega-metagross-nov25",
+      "when": "Wed 25 Nov 6:00 AM – Tue 1 Dec 10:00 PM local (upcoming)",
+      "title": "Mega Metagross in Mega Raids (upcoming)",
+      "impact": "Mega Metagross alongside the Deoxys window (GO Hub Nov schedule). Catch form Metagross; Elite Charged TM Meteor Mash recommended.",
+      "urgent": false
+    },
+    {
+      "id": "raid-hour-deoxys-nov25",
+      "when": "Wed 25 Nov 6:00–7:00 PM local (upcoming)",
+      "title": "Raid Hour: Deoxys (all formes) (upcoming)",
+      "impact": "Denser Deoxys Normal/Attack/Defense/Speed 5★ spawns 6–7 PM local Wed 25 Nov.",
+      "urgent": false
     }
   ]
 }
