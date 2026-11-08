@@ -11,7 +11,6 @@
 
   const STORAGE_KEY = "nature-catalogue-v0";
   const DATA_URL = "data/catalogue-demo.json";
-  const EMPTY_SLOTS_SHOWN = 3;
 
   const DEFAULT_XP = {
     confirm: 10,
