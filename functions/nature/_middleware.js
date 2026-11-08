@@ -4,7 +4,7 @@
  * Not a hard security boundary — keeps casual visitors out.
  */
 const COOKIE = "nature_preview";
-const EXPECTED = "b579c042b29dcb1b4df849da5b4638f73d82cb68777bc0fc245dc4c9b9cdb2c6";
+const EXPECTED = "459a05eb9a5a719fff388569b50a6cb4c58ed5213ff0113a1aae159261e16c9b";
 
 function getCookie(req, name) {
   const raw = req.headers.get("Cookie") || "";
