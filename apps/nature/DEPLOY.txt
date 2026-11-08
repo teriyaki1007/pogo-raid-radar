@@ -1,6 +1,6 @@
 Project Nature — auth + photo uploads (Cloudflare Pages Functions)
 
-Status: code in-repo; hold live /nature/ landing+build until E2E works.
+Status: demo UI on live /nature/ (localStorage fallback). Hold real auth until CF bindings + E2E.
 Stack: Pages UI + D1 (NATURE_DB) + R2 (NATURE_PHOTOS) + NATURE_AUTH_SECRET.
 
 Dad / CF dashboard (same Pages project as groot.zynergy.studio — once):
