@@ -170,16 +170,16 @@
               <p class="muted small pop-note" id="confirm-population-note" hidden></p>
               <div class="move-picker" id="confirm-moves" hidden>
                 <h4 class="section-label">Choose moves</h4>
-                <p class="muted small">Pick exactly 4 from this animal’s typed pool before it locks into your dex (editable later)</p>
+                <p class="muted small" id="confirm-move-hint">Pick moves from this animal’s typed pool before it locks into your dex (editable later)</p>
                 <div class="move-grid" id="confirm-move-grid" role="group" aria-label="Choose battle moves"></div>
-                <p class="muted small" id="confirm-move-count">0/4 selected</p>
+                <p class="muted small" id="confirm-move-count">0 selected</p>
               </div>
               <div class="lookalikes quiet" id="confirm-lookalikes"></div>
               <p class="place-logged" id="confirm-place"></p>
               <p class="muted small" id="confirm-disclaimer">Facts above are SAMPLE placeholders for the prototype.</p>
             </div>
           </article>
-          <div class="confirm-actions">
+          <div class="confirm-actions is-sticky">
             <button type="button" class="btn btn-primary btn-block" id="btn-confirm">Confirm &amp; collect</button>
             <div class="text-link-row">
               <button type="button" class="text-link" id="btn-edit">Edit</button>

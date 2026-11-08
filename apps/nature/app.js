@@ -1002,7 +1002,10 @@
   }
 
   function bindConfirm() {
-    $("#btn-confirm").addEventListener("click", () => commitSighting("confirmed"));
+    $("#btn-confirm").addEventListener("click", () => {
+      if ($("#btn-confirm")?.disabled) return;
+      commitSighting("confirmed");
+    });
     $("#btn-unsure").addEventListener("click", () => {
       if (pendingSighting) {
         pendingSighting.idConfidence = "unsure";
@@ -1102,15 +1105,33 @@
     return kind === "animal" && bp > 0;
   }
 
+  function syncConfirmButton(m) {
+    const btn = $("#btn-confirm");
+    if (!btn) return;
+    const combat = isCombatAnimal(m);
+    const types = fighterTypesFromMeta(m || {});
+    const need = combat ? requiredMoveCount(types) || MOVE_SLOTS : 0;
+    const ready = !combat || (need > 0 && pendingMoves.length === need);
+    btn.disabled = !ready;
+    btn.setAttribute("aria-disabled", ready ? "false" : "true");
+    if (!ready && combat) {
+      btn.title = `Pick ${need} moves to confirm`;
+    } else {
+      btn.removeAttribute("title");
+    }
+  }
+
   function renderConfirmMoves(s, m) {
     const wrap = $("#confirm-moves");
     const grid = $("#confirm-move-grid");
     const countEl = $("#confirm-move-count");
+    const hint = $("#confirm-move-hint");
     if (!wrap || !grid) return;
     if (!isCombatAnimal(m)) {
       wrap.hidden = true;
       pendingMoves = [];
       grid.innerHTML = "";
+      syncConfirmButton(m);
       return;
     }
     wrap.hidden = false;
@@ -1118,6 +1139,12 @@
     const learn = learnsetForTypes(types);
     const need = requiredMoveCount(types) || MOVE_SLOTS;
     pendingMoves = pendingMoves.filter((id) => learn.some((mv) => mv.id === id)).slice(0, need);
+    if (hint) {
+      hint.textContent =
+        need === 1
+          ? "Pick 1 move from this animal’s typed pool before it locks into your dex (editable later)"
+          : `Pick ${need} moves from this animal’s typed pool before it locks into your dex (editable later)`;
+    }
     grid.innerHTML = learn
       .map((mv) => {
         const on = pendingMoves.includes(mv.id);
@@ -1129,11 +1156,10 @@
       })
       .join("");
     if (countEl) {
-      countEl.textContent =
-        need < MOVE_SLOTS
-          ? `${pendingMoves.length}/${need} selected (typed pool has ${learn.length})`
-          : `${pendingMoves.length}/${need} selected`;
+      countEl.textContent = `${pendingMoves.length}/${need} selected · pool ${learn.length}`;
     }
+    const group = $("#confirm-move-grid");
+    if (group) group.setAttribute("aria-label", `Choose ${need} battle moves`);
     grid.querySelectorAll("[data-move]").forEach((btn) => {
       btn.addEventListener("click", () => {
         const id = btn.dataset.move;
@@ -1143,6 +1169,7 @@
         renderConfirmMoves(s, m);
       });
     });
+    syncConfirmButton(m);
   }
 
   function renderConfirm(s) {
@@ -1181,6 +1208,7 @@
           : "Facts above are SAMPLE placeholders for the prototype.";
       }
     }
+    syncConfirmButton(m);
   }
 
   function formatWhen(iso) {

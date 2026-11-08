@@ -974,6 +974,20 @@ p {
   flex-direction: column;
   gap: 6px;
 }
+.confirm-actions.is-sticky {
+  position: sticky;
+  bottom: 0;
+  z-index: 5;
+  margin-top: 8px;
+  padding: 10px 0 4px;
+  background: linear-gradient(180deg, transparent, var(--cream, #f7f3ea) 28%);
+}
+#btn-confirm[disabled],
+#btn-confirm[aria-disabled="true"] {
+  opacity: 0.45;
+  cursor: not-allowed;
+  pointer-events: none;
+}
 
 /* —— Dex grid —— */
 .dex-grid {
