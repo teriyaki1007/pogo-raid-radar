@@ -1,7 +1,7 @@
 {
   "iso2": "CW",
   "name": "Curaçao",
-  "updatedAt": "2026-11-09T17:11:31+08:00",
+  "updatedAt": "2026-11-09T23:07:19+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Netherlands Allocates €23 Million to Expand Curaçao's Battery Storage and Strengthen Electricity Grid",
+      "source": "Curaçao Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLUJSTDRNSkR1ZDZhbUoxbWE5a0JhcXRIT24zaUZGS1p1WWVfOHVJNTZHT2xnTFVsTnloOFhpMENDbGZvaXgyZzQ0ZU5IUXpRVW5SbDBHc1puRGhadDRJTTJYNVJHMEhTb0ZZRktSd2JkMWRXNnZSYjVNSHdfMXdHZjdyVTNQMkVFVTNQOXBnU25Qem5vNVVrbi1nSXhVZ3N5dXNlSlM2a195SHIxTG9WaVFEYzlIN2dsZ3V3TWwzVFk3eEhCZHpaWjVxdGUydF94QVVCNjl2T2wwUkk?oc=5",
+      "publishedAt": "2026-11-09T21:30:35+08:00"
+    },
+    {
+      "title": "Corendon Could Earn More From American Tourists but Warns Cutting European Flights Would Hurt Curaçao Residents",
+      "source": "Curaçao Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVU4wRHFIWGE5Y0EyTldraDJ4UHM0c1VQYTc2RFFvaXNMbjNFYmwzUFhQcHlOeDMycGJkYll6TzdSaUt5dHZVRlBrUTB0QWo0eXhIVW1OaHlRU1RjNF9HemhPTW9odzZMa0p4bHZoV041NWhveHZmekpDZXNEUUtGbVFKVS1MV1FZNW80a2FVXzFBMHV0VHJod3RvSS1BdjJVc003UGpYTjZ5Sk9aZHpIQ1BSeXo4dDZpNGpUa25FUzVCMHBTdS01Q2ZQZXlEdmNmVE50UGRXc0xocmlLcktVLUJic2I3U3VqTzJR?oc=5",
+      "publishedAt": "2026-11-09T21:25:35+08:00"
+    },
+    {
+      "title": "Curaçao conference explores aquaculture and food security",
+      "source": "The Fish Site",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWMwSXZGU0hSbTh1aTV4dlBUaEhZXzNGTTVvbllYVmt3VlBKSmxRN1otamxaZHZfLXlJYW05NFZJbjhtSDA3SDUzWkthTGt3b0R6aUhtQmlwNlVydnUzMjZ0YjBBbVRWeFJGN2gyMFFQNGRtYnFMSnlENGcxY2FpTVB0TURWcUZGWnBMeDh4RTNRVVVwemI2Q0VaWQ?oc=5",
+      "publishedAt": "2026-11-09T17:21:02+08:00"
+    },
+    {
       "title": "Marriott’s Newest Caribbean All-Inclusive Is Opening in Curaçao in Early December",
       "source": "Caribbean Journal",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWQxV3REbDc4b2N4X2tJS2FvSTVVY1lTTXh5RkpKZUZWM0RManB2MWhac1hNSFMyazNaUlRUNGEwcTBRRzR0MHBCVlVPRGYzYnZxUFd1RV82MHN5RU5OUF9wQks1VWk5cWpnZVpQWVNOT2k4OWIzMzktWUhWakYxSFg3YnNWRXVtb0JNR253?oc=5",
       "publishedAt": "2026-11-07T11:06:03+08:00"
-    },
-    {
-      "title": "Former Health Minister Silvania Urges Monthly Talks to Resolve Curaçao's Healthcare Disputes",
-      "source": "Curaçao Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcWlNWU5ocV9hdE9GRTVROXNnNG9BOHhHSU13NGxOWExUVl80X3BzMVNMT3UyS2dpNEZXa1pJTnl2cmFLNi03ZVBpckhQYWZXc2FaSzdjWEg4cDJ1OThrcHY4WjNERnB3dTNMeHN4UmdXX0hxWUVnVl9rMFQyREprSG1xdmpoLWpodmk3akFENmYxVGtHbnRPNXIxNGs0TC0yTzhReE1QRGNxR3p3enlSY2lCSmxOYnlhNHpkMmtXRVVheFA3N0lqZXJyeTQ4U1pOZmJ3?oc=5",
-      "publishedAt": "2026-11-06T22:20:30+08:00"
     },
     {
       "title": "How Cruise Guests Help Curaçao’s Hidden Gems Shine",
@@ -64,12 +76,6 @@
       "source": "USA Baseball",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmZMeWtDTmROdk5hWGRuUG9sdS1sUFpweVdSSUNQbDlHX3JDZ28zYTNrUnZXREdPempHUm0tdHM4QTNMZ0szalprUjBUN3BnZ1o4aFdpYWdhbFJVeUd1RHAzMjd1clJKRFJZaU45LWtzSEhWcmZFQnZrOXh0S2VEc0tLcWtOTWdmQjREZTAxeTJUS2dlczdEcjZaLXdjU1FVNmRxQmhmeUxEdUppRC1ZRw?oc=5",
       "publishedAt": "2026-10-23T15:00:00+08:00"
-    },
-    {
-      "title": "From island constraints to a resilient grid: Curaçao’s transformation",
-      "source": "ABB",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVU14UUNUdzdGWTZjanJ2Qkk4S3liak1sN20yeTRiZzJxM182bWVBNWpqYWN6a05GYU9QMlBkM0VrWERLLUNmQW8wLUgzVnlONnFJYk9rRjBaTVNvR1JQTjlJSExMUGtfRE83dmtSc3gyVTRHVzNTVDNVbHRTWXZhNDlBa1hCRGxQOUhwTUtmZzhmeWw4Vzhub05XREt1RFRhOWFUZ0pnUXI4dw?oc=5",
-      "publishedAt": "2026-10-14T15:00:00+08:00"
     }
   ]
 }

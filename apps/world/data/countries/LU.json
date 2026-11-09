@@ -1,7 +1,7 @@
 {
   "iso2": "LU",
   "name": "Luxembourg",
-  "updatedAt": "2026-11-09T17:11:31+08:00",
+  "updatedAt": "2026-11-09T23:07:19+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Building rules must be ‘reset’, urges Luxembourg top architect",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaE1WWDZCbmxETzJsRjNHUmlobUVsVG5IdDNYUE9seG1nNDNPSkc2ZkpkVDVCUnh6WkgyNG0teDZiTUlzZXRCMTdCd2FKM0hzT3BMMWUzUjVQbWFocEpJMnQwWDhENTNOY2dNUUdWRXdBNU9VLXhQbHRsdTJrc09WZGR2a1duTXByOWdkM3pRbXB1LTdxSlNZdzM2YU02c09MbFVwN1VobkZqS2VJdHc?oc=5",
+      "publishedAt": "2026-11-09T22:00:00+08:00"
+    },
+    {
+      "title": "Luxembourg demands the return of European gold to Schreiber, but UCI regulations complicate the appeal",
+      "source": "Brujulabike.com",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdjB5TXhpa1Q2MmRJS3VMM3N0Nl9rekRFeEhUVGZtZ3JZbGFQMEY3THJIckRPTGFnbFEtZVczaEZkSDVVWV9tUk1mQnRvQ0FWUC1DaUFYREY0RmdlTmtIb181cmItbFkxQkFLSWNTUmNveFNXV29iNmJ5dTM3TE91allTYm5FeHhfb0NWcWFoRk5VOWlqbUZ1dEkwcXFHem00WmxZYXI4Qlg1UlVGU2M2NC1FNHo5RDZPTnFDemNlb2IwVnFPUF9JSQ?oc=5",
+      "publishedAt": "2026-11-09T21:43:00+08:00"
+    },
+    {
+      "title": "Close to 700 abortions carried out in Luxembourg last year",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1I2THVWY1dwRDM5V2NGbXllbWN6TUtFU0R4SGVPdmRHN3Zhb2lBZ2FVTW1uU09icWd2T0Y1S0ZrdDRvZHBHV0JJQ3czLWN1STBVN2k5eFVsZWpyWFdlNXp1Z1dzYjJfcWFiUGhoOU5CZldXRU8yS0doLWltSHJxMjJlaTNTaTRBTzZDQ25RZWVvekY2LW5RSVZGNjQxSlkxb1RwcDJjNVZ2TmxK?oc=5",
+      "publishedAt": "2026-11-09T20:52:53+08:00"
+    },
+    {
+      "title": "Luxembourg federation lodges official complaint over Marie Schreiber's lost European title, but how can they hope to overturn the decision?",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3NJVXFpT1BlREltNml1SGxDUnBSVXg5ak5RY2U5ZFVjaUxmaXRHMi1KUHZIcm9iTXZjZDV4amlLZVNTVnYzN0Q5SWFtbDNvLWROejhTZnNBUHBXRGVZSmxjY1Q5Z3ZRaHZxNEkyQ0NMVVpRT2RYUHRNdllqWVM3RHN3dm1MQ3N6bnJ1QVd6VGMyOVFrdi1aX08wV0RQRTBIa05DMnZ3?oc=5",
+      "publishedAt": "2026-11-09T20:39:56+08:00"
+    },
+    {
+      "title": "Kyrgyz citizens in Belgium, Netherlands and Luxembourg advised to step up security measures",
+      "source": "Economist.kg",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeERURDB5TDhwNzhYdHBDNVRDSmVtX0gwY2tHVHM0TmVwY0dVdjgzdEJyRWU0eko4LVV6QWVlVk5YSGNiX2xSaFhQSVhNd2lXTDdNRUM0TTVrZUxtQkVsZEZmdUhlVkJaWDlQaEsyUnp0VmxJY3VMazdYOTZBaHBXM0xvTGxXVjhUYzRwdlN3?oc=5",
+      "publishedAt": "2026-11-09T17:16:58+08:00"
+    },
+    {
       "title": "Amazon opens its first IT logistics hub in continental Europe, investing €12.5 million in Luxembourg",
       "source": "About Amazon Europe",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcmQ2ZXNhNnU5LWJvel95SlJXYlRiNjlPaU1LSWJtRlVYSlRYSW91aUtXbUZZNXpuYmxMb0xvX1NyOVJlQndHVkF4VUxWTjRXcHNSTHRtU1ljU21sNUdnMlp2b2RaT0YwYk16NmE4c2cxbGlDWmlHczl4Q0RzWHNqUDhMa3RYbHVsV2xNb3VaeFgyNk45LVNkMTZmUE1zRnJqQVY3MUpxalI1UQ?oc=5",
-      "publishedAt": "2026-11-09T17:11:34+08:00"
+      "publishedAt": "2026-11-09T17:11:29+08:00"
     },
     {
       "title": "Pension replacement rate: Luxembourg ranks fourth among Europe's most generous pension systems",
@@ -46,36 +76,6 @@
       "source": "RTL Today",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUxKdlhPSXdvOGs0VndXRTl1dVI0NFJWelI5NktWU3lQc096Y0k5V1FQSlVmVjFsZ1NYZGNPZzZ0OWdzb2dPbzVnblJiSTF5NHY4ajBKQ0c3Z0RiSzJJUk1mQWdsVzg1TFcwcXFGQ1N6ZFFINVlNVFVmbGVjMEQySzQ5cXZYNTBaMWtTWTVmVnQ2ZUdyenhBSWJxaVZDVUwzellSSXZDVV80WHBDX2Q4?oc=5",
       "publishedAt": "2026-11-09T15:44:59+08:00"
-    },
-    {
-      "title": "Ogier taps Aline Sun for Luxembourg-Hong Kong funds business",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZTZMNFNYMmFUSEdfQk16ajNiVUNFYUgwdjJXSUhXUzJfQUsxN0VyVWhnX0NCaDNGd3hPMVcxNUFBbmxJWktSb0pDS3VJQW9tS19uMTFGN1I3OVkxNWYyei13RVpHNm5nXzBDUmw5MXMwc2hQbHpPUWJGcVhtZ2t4S0NfSThIbFFPOHZuTF9Yd1RiN3UtaG16SUFPMkJFczU3MVdvbUkxUWtreDB1X3dkeWlVcmptOXllc3c?oc=5",
-      "publishedAt": "2026-11-09T15:36:22+08:00"
-    },
-    {
-      "title": "Luxair Introduces Embraer E195-E2 Aircraft on Luxembourg–London City Route",
-      "source": "TRAICY Global",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuNHk1SmhVa0dKQXhqS29xY0dPVDBXc3NNX3FSdXRoNnRXZDk0dFVGUEpmRC04cUFCX0RiQ3hjSGJ3SkcyanNLdHZJck5aQ0hWTF9KXw?oc=5",
-      "publishedAt": "2026-11-09T15:20:16+08:00"
-    },
-    {
-      "title": "Building rules must be ‘reset’, urges Luxembourg top architect",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaE1WWDZCbmxETzJsRjNHUmlobUVsVG5IdDNYUE9seG1nNDNPSkc2ZkpkVDVCUnh6WkgyNG0teDZiTUlzZXRCMTdCd2FKM0hzT3BMMWUzUjVQbWFocEpJMnQwWDhENTNOY2dNUUdWRXdBNU9VLXhQbHRsdTJrc09WZGR2a1duTXByOWdkM3pRbXB1LTdxSlNZdzM2YU02c09MbFVwN1VobkZqS2VJdHc?oc=5",
-      "publishedAt": "2026-11-09T14:00:00+08:00"
-    },
-    {
-      "title": "Electrica stock: Luxembourg approves EUR 1 billion bond framework",
-      "source": "ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdzNDWVdKXzFnT1hKV0pld3F5Zk1JdjFmeS1LaHVRc1Bvc0xkRHBqZnRPZW9vcE5vNk83SXJRUG1WcDR6RTdjSE41QzZuOThNUF8xdW1MYlUxNExZOVhPd1VnY3ZwR1E2UEhrQ21FM0JqZEQ0OVFBMHNJMlZMR3I3ckZVNXR6WG51UWczc2w0TDNaRHJodzBud1F2Znh6NHNld25Yc3RRYVBjTEdvT0d6WU0zLXBPNGdkQXBaS2R4ZHA?oc=5",
-      "publishedAt": "2026-11-09T09:02:15+08:00"
-    },
-    {
-      "title": "Luxembourg Federation file official complaint following Schreiber's relegation",
-      "source": "IDLprocycling.com",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzFtM0YxOVNZb1FiQXlEaXBLT0E4V2hfUDBCcE9GS3FPZDFYcVJtQXZNOTV0UVZVQlVjQkZneW44SEt0VVlBSWJPdEJ3LW1lWUV4aE90LTNCclpTQVZMdU50WDFKcktHeUkwMFJ2S3I3UzFwcEVrekY0U0dLQmd1T1poZ1JWZjIzbzM0WS04a0pCckEtd3VuWHh4SDJYSmZteHdidUJGS3ZfYTVCaEUzQ0R6eVNBeFprU284?oc=5",
-      "publishedAt": "2026-11-09T02:34:00+08:00"
     }
   ]
 }
