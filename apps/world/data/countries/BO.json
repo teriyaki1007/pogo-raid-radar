@@ -1,7 +1,7 @@
 {
   "iso2": "BO",
   "name": "Bolivia",
-  "updatedAt": "2026-11-09T05:06:29+08:00",
+  "updatedAt": "2026-11-09T17:11:31+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Bolivia Weighs Safe Passage for Activist Nadia Beller",
+      "source": "teleSUR English",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ueG1KeVYxX21tMXF1V1UyXzhLdFNFR2I0SUJuOHpkeVJsTHBHQ1lIa0FNd1BzeUdpQXEtM3NlTVJjMmhjTTM2ZlRocDdpNXZNMXpIaUgwc29SYnEyUFBVeTE5bUwtTi1KcUhLT2JyaEJDS0FLQnE3N1VTRHU?oc=5",
+      "publishedAt": "2026-11-09T16:24:35+08:00"
+    },
+    {
+      "title": "Bolivia's top judge reportedly crossed into Brazil after an arrest warrant was issued—with no migration alert in place",
+      "source": "Latin Times",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0R6eTlZOHRUMmJEdFNIcTZ4Ml9qSWNsN0pBeVBYcm5MZk1wUXMzek9yYktZanZrblRST2I3MVpjQVVTVUotT3IyWkJqRzZwbGlIN29HV2tYUWg1ZGc3T1A1NDlpaGtQbnI2UkZtS0l0bmZqR1hnV3F1U3Y5cFBOM1dWN244WXhH?oc=5",
+      "publishedAt": "2026-11-09T15:17:56+08:00"
+    },
+    {
+      "title": "Travel YouTuber Jo Jin-woo dies in Bolivia after promising to return to Korea",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ1dpNUp0Rm0zbjdERGt3ZE5FUkYyR3pua1gzUVNsbjlpMmVJR0lieS1Jb0VEdHhxbW9DTXFUd1BHblViRWlmRzBZWC1QQkhhOEpIWWdFNjdzczVvYWppdVlpRlFjVGxnd1BzNjk3ZzlKMG52UmFndWUyQzFMM2MtYVFfel8yU2pR0gGcAUFVX3lxTE1mSEp4WTdkWWs0cC03bDRwQkJSaW01RDRJREpETGVvRmxkbk52Mkt5U21lbldyNl9RXzdVdVZBVHlvWVU4aFUwb3ZhY0xQSXQ0RmdRb1Fjci1rT005OXhteV9UXzRSTldJU3F1RnpRaWtXcEI4VGVQamh5SnJQME83ZmJScUxPWUFVbXB2N0wyVVY1ZkN5Q0NLX3ktZg?oc=5",
+      "publishedAt": "2026-11-09T14:30:00+08:00"
+    },
+    {
+      "title": "Korean YouTuber 'Jin's Travel' dies in hit-and-run during Bolivia cycling trip",
+      "source": "The Star",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZEtGb3NoNlJqMWxPbTkyLTV2Z0c3SGFjaTRqeEpadWpJNUZMNVRYRzFhaUN5QTZ4OXdWbEdvTTRySGs5Snc4SmFkSEV5YllOdzF1QkhBQ201d0RVbDlmdFNuU0EyZnBiRG9neFdQU2tkUWd0RjlKWEtkMXpldWlMQkktaFdteU1wUEM1NWdvZlNaYVI5LTFzdkVsV1MwczVraWItV1NZQ3M2NVhkWVhxMjJkMk9pVEdwcXpMNFFUbkVvdHVuUFpDSmVTeTdHblBTd2pWeWdCSXVFV3l1TXVz?oc=5",
+      "publishedAt": "2026-11-09T14:10:00+08:00"
+    },
+    {
+      "title": "Marcelo Gallardo calls two Flamengo Ecuadorians for Costa Rica and Bolivia friendlies",
+      "source": "OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVDBIQ0dlTHhURm9pN3Y5aWxNenlQUW1Pd3BaOEVjRFZuUUpmVzFZaXJhMlFYNktVM01iUms2WGZkdzRJdVpOR1dmRVpUZWNvSDJ0WHQ0emFSWkd0bE1lU2c5aFVSaVRkSUkyVkt2NWFVZkllSThkNkFYLUlUTF9ubmhjSWJRNzBtUGtNWDBUN0xlZGs5eHlRYmQyZVh0OTVhbVpBb0loYlFyMkxTeUY1bkJoVFhMZ1ZYMklzSzRXSnJJc2lT?oc=5",
+      "publishedAt": "2026-11-09T06:11:08+08:00"
+    },
+    {
       "title": "Meet the donkeys finding new lives at a Bolivia rescue",
       "source": "Wilmington Star-News",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPY0pNeW1hc3BEQTNLdjM2TFpJRVZCUWRvWVR2bEcwa2pVTUdqVmJjLURNUmlaVHZfV3gwQ1k4V3doMWdUTHowNHItT1RQSjROZ2lEbWwyQ0V2S2hhejBlek1OVFFIRWRoUVhQVC13Y0NiWk5ZZHZjZ09aMmRuNEV4SXBIdE83ajdCSklhVHN4aklJZWpzaHJXUGNiLW5YdU0zWUVVZ0pnRDdFUVdYaDlFcnBCSVpNQ3N5VnM1eGo1ZzhEZUJ1a3lGTzEtZHlTTjA3TzJR?oc=5",
       "publishedAt": "2026-11-08T18:01:00+08:00"
-    },
-    {
-      "title": "Cal Orck’o: Why Bolivia’s Dinosaur Tracks Are On A Wall",
-      "source": "deeparrival.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUWtPeXk3MlNTSFpQdHgtMnNpYWJObmNQeGUyM0U4Nm5ubElUa0pIS1dOS0l3UmNlSmRUcHlTbGtlSjJURjdOYXZRaTBTZ2Z5UjV4eFNmX0VraExUQUk1ZEtDSnpPNUVYTFAxMTRTUjZNTDd2RDAzaklFOXNtdnBSZzZNZGRUYTE5WlRr?oc=5",
-      "publishedAt": "2026-11-08T07:48:19+08:00"
     },
     {
       "title": "President of the Supreme Court of Bolivia flees to Brazil after arrest order",
@@ -48,34 +72,10 @@
       "publishedAt": "2026-11-07T18:57:00+08:00"
     },
     {
-      "title": "Chuck McNeill Obituary (2026) - Bolivia, NC - Roanoke Times",
-      "source": "Legacy | Obituary",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWkM1MGdBTHR5dFFCS0ZQQVFCQzI4UXRwSG9hYnRibW45dGxtRWhmN2xldWZNS3NneVFQeEpzbFItZEVSNk11TkV5N2JscVNtU3dMelNhcHlJN2xJbW9XclhSRXZ0T3VaWU00TVNyN1U5Y0tCOTJta1FkeGJUQWlEZTdjeDRaa3hES2VhRA?oc=5",
-      "publishedAt": "2026-11-07T16:12:05+08:00"
-    },
-    {
-      "title": "Felipe VI culminates the Ibero-American Summit week with a meeting with the president of Bolivia",
-      "source": "Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNWpUVGUtSWlSVVl4bVJSQzVobXhudmR3Y09EYlVkSVNYZEJPQi1vYTZtdzNDZXJnMElGTGtSREhZTjhBMkRsMDdYVmF0cWVieXRlOHIzbUwyWXVJWEtRNzR1RFhjTmRKb3hJRmlkYlY1THNXWl9tWDVkNTZRUXo4eFpMMUtQcGJUb0JqVUZEZ1FkTHV6OU5Da3BISjhCMWxuZUVDR1dsOWxSMnZyUEMybklMSE5udUpnZ3hZa0FDcjF6WGE5M3BMajNBRFdjX2vSAdQBQVVfeXFMTTFrRmFNeDMxU1dIM3hSdUx3elZrWTA4QWowNjZxMHZKUThPdFJkU1JlMTR1bHNsdWhUSEI4dUJsVnNfYW1IZ1ZOekRnXzhrX3U1MFd1LUVwVlRETkh3X0RkRXR2c3pndDN2a2xlU1ZVamEzMXZPMjJTenNFOTB5MmlydXM3bjlXWmxlc2ZRZHBudXlETUNYZF9tNTBHWjVqN3Y5dkl2cEg4VjBNM0xOMU5PUVI5STdzRDk0Vm5oTndGUkhVRlhFdHJMeEZ4R0paRmpHRzM?oc=5",
-      "publishedAt": "2026-11-06T23:38:27+08:00"
-    },
-    {
-      "title": "Silver Elephant Reclaims Pulacayo-Paca Silver Mining Project Following Favorable Ruling by Bolivian Supreme Tribunal of Justice",
-      "source": "TMX Newsfile",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPMmNoazJpWWR0OGVhd0lCd05ZQkJXMmF5Y214cDZLMmowemJ4bjdoSW5ia3NMX2tKM293dHV0c0FLdkpZLUQwWkwwc0d4VEU3MnpzLU1qTzFUa0s4SU1jazlyWVpTY2YxdmwzOUtMLUlvMGo5QmJjTGNqcGVyelBuZmh0YlBDRXBQZjA3TWRyWDFsRi1wWHdNMDZDeDBNeElmQjF0NzA5X3dCMW5tbWlaOGhDV24tRlhUNmdyRXYtdzFfQktWelVZMlRjOEpZZ1pNODY2dHpfSlZSRW9oVDB0YnVfeGRlTVRURWFrWWxpaVhldXVEejVFU0diSFlLaXM?oc=5",
-      "publishedAt": "2026-11-06T23:04:00+08:00"
-    },
-    {
-      "title": "Who Was Cho Jin-Woo? South Korean Travel YouTuber Dies At 33 In Bolivia Truck Crash",
-      "source": "NDTV Sports",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTy1fSm8yalI2Q2dHdWRlSlIxMHBnaElUdGVEX1QtQ3p0aE9JSlJWclJYbS03Qm93WGJ2djRReEozMTFPRzJfelRBMjhrcFVTM3ROOTRrWjJNS3JIblFFcTVyR3IzdlhHRW42WDVBeF9IRHNpajRhcUZtQmJTRjBmUURqa1h2TkpNRE1vbmpiVzZ3ekdYSHlaamVKYUxleTVmR0ZXNnVpeEJUWmpfYjZwSmZLT25Geld4TTBDdGdsUktvemttM1B6WkNYQQ?oc=5",
-      "publishedAt": "2026-11-06T17:02:53+08:00"
-    },
-    {
-      "title": "Korean YouTuber 'Jin's Travel' dies in hit-and-run during Bolivia cycling trip",
-      "source": "The Korea Herald",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xV05xaEJzTlU1Smk3OGI3Z2JMUTIyZUJMS0JUN0M0SkRUTVByLVpBcEFscG5hT2tSQl9VZ1V4b2RLbm5LM2tMS01wRG9GLXpQRTcweE45TQ?oc=5",
-      "publishedAt": "2026-11-06T15:49:28+08:00"
+      "title": "Silver Miner Up 50% as Bolivia’s Top Court Reverses Project Cancellation",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPRFdVejZ6Zzl5bDZTQXA0X0F0ME5zWlRTWTB0ei1rY3VtZVBxU1JtekVBclJjcHkxMHVjRVdKQi1iUGFFWE51d2dCRDZxNE1RRC12NEs3U2Y3RmdlVzQ3UFNvQ2d3Ni1yTVlVa0tab0c0X25YNHJLbWdXUl9GR2p1eU9lSUE0eVJ3bmdwVTdlVUF5YnFwR0EzbG9USkhmcThDRjRqNEtHZFZyd2tONXo2RXZUVGxoOGl2LThHT2J0V1BRYkJIckJtclJhQk16Y2g0WmNXWHBWc3o3bkhxLS1DZ0xHNjVrdmJfZXJN?oc=5",
+      "publishedAt": "2026-11-07T14:13:48+08:00"
     }
   ]
 }
