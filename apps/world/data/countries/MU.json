@@ -1,7 +1,7 @@
 {
   "iso2": "MU",
   "name": "Mauritius",
-  "updatedAt": "2026-11-09T23:07:19+08:00",
+  "updatedAt": "2026-11-10T05:03:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "INS Tarkash concludes port call at Mauritius",
+      "source": "News On AIR",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JX2hnMGFkRThqX0dzckNaTlotdjB1TEE3Sm9PbEQ1djZYNWttaW50aUhjaHFuRGpldnNzcXV5NTJ5MEhnSS1teDJZalFEV184NnplSHRRUEdFNXVPdkNRakNUU2s0UTBJdzNZRmU0b1kxRTh4Q2h3ZFBR?oc=5",
+      "publishedAt": "2026-11-10T03:02:39+08:00"
+    },
+    {
+      "title": "Review: Try the ‘lively, tangy and electric’ flavours of Mauritius at Le Dodo Affamer in Canterbury",
+      "source": "شبكة تواصل الإخبارية",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8wcTRiR0daVEczSDZON0JRRm9fSlpEWjEwRVJ0dWNRWVlGbmwzZ2N2MU9jRFVOQUFYdlNDakdvVXlxQk41VDlBNHEtYVFDX2xEamdn?oc=5",
+      "publishedAt": "2026-11-10T02:03:56+08:00"
+    },
+    {
       "title": "Mauritius Seeks Regional Help As Piracy, Drugs And Arms Trafficking Spiral",
       "source": "StratNews Global",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcFl2TExlZllzeWZpbkRSNmpvQ1JLeGJ3Z0ZtUDhMTDdDbmYzTDNYN1p1aG1BMzR5Nzh6WDNBQlFhZUJVUmlWeHUzT1RlVmc1ajJzUUZDZmJhdTBnQW01R2JueldyNDFPU2pYVzhRaFZZOG42bEdIY1B3d1lJVkdERXhjYWRibzNrVjJOT1NhSWU2clRLNlVqbW1Bb1BJZTdXYjJvVFhKTUJQNFV1dDRoOA?oc=5",
@@ -55,7 +67,7 @@
     },
     {
       "title": "Mauritius Arrests Three Malaysians in 76-Kilogram Airport Cannabis Seizure",
-      "source": "streamlinefeed.co.ke",
+      "source": "https://streamlinefeed.co.ke/",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPekhwRERkNTFqM0ZiRHcwZV9KQUh4MTZzaVNabEhmcXBsdXd2aFBUd2RTUmlxOHJmczlUclFHUE5pdURsYWpuc0h1MHZvWE9SOU9wVVkwNFdFalpVc0dUX2NUZjFWYTFoWHVUTjdDYldyN3pwR010a29FOUItaGpMZUdMVkN4UURCNkdDSTNibFRJS1plbjVsSzVvOE1NbTREN3dWNTloWDlWZnRu?oc=5",
       "publishedAt": "2026-11-09T17:10:00+08:00"
     },
@@ -64,18 +76,6 @@
       "source": "Business in Cameroon",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTlFwZVFhV21fUGJ6eFRWamo1d0tDVXh2elNweE53c24tdWJzX1B2MklJOUZVM2hIVXNGN0c0eHNhTTFjd3ItalFMQy1kQnluWmlqZi1FN1RYNFZaY1VuSUQ4ZWxRUVhIYlUydWwtME0yRGdjV0tGNDRyRGdscmFmbDNZSkVNU01SV0M4dG8xOFpvdEhTcHpjOFEwa1RldjhqY3V0ZUZkZUhmVkR2RndGR3hPdVNiZDNFZmFOOV9idldHcHc?oc=5",
       "publishedAt": "2026-11-09T16:59:53+08:00"
-    },
-    {
-      "title": "Three Malaysians arrested in Mauritius after 76kg cannabis seizure at airport",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUThqSmdmMTZvdzZBT1lnS3JIVG1VeHFfcHoyZlpGOE1IdHJTS3Y5VGRZLVhhY1dpUjB2YzVwbVhXeTJZbjY3a0E5UldPR0R3VldMS1l5S2JBbFhJNXk1LUtURlR6VEFQZVBnMjVqaG1PM1hKWnF2NjEzLVdtSTRjV09UOXJFWWtmQ253WVlGUnc?oc=5",
-      "publishedAt": "2026-11-09T16:22:35+08:00"
-    },
-    {
-      "title": "Mauritius Telecom Launches Free AI and Digital Skills Training Platform with AWS",
-      "source": "TechAfrica News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaG9WMFNVM18yOGp3amJjSjd4MnRMSXdVSHh4TW5LcmxYemtCVm9vcEc2MGhkWXRMR3JlZXpOVHRpZl93SFZFQ0RXbVRfWTZHbm90TFpzMG5RemJPVVlUT1ZOejVBeXg4YXpiTGh5Vmc5VGFTZDN4SjBSWmd5VENBY2REaGNyajVmTU5na2p5Ql9QSmZsUmtIY0xOM0lWTEduTHNXRkpNcXlqR09MV2IwVlloOWZMTzhXUnBJ?oc=5",
-      "publishedAt": "2026-11-09T16:21:16+08:00"
     }
   ]
 }

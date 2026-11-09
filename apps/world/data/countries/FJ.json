@@ -1,7 +1,7 @@
 {
   "iso2": "FJ",
   "name": "Fiji",
-  "updatedAt": "2026-11-09T23:07:19+08:00",
+  "updatedAt": "2026-11-10T05:03:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "JW Marriott Will Open in Fiji",
+      "source": "Luxury Travel Advisor",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVVcyb1lERHFVZEJiOEFHWGd2Vmo5VlFMNTlyVHAyeXJpdUJ3cjB4T0tqWmowaFFOb0ZvQ3YwNG9fQW14VGJINFZiOTZvbHNMUTQxX2VvaGVPa0s2bUw0U1dTbDFHQXpGM0JZOFp6aDlRc1FtOTM4NmV6Rk9vS2VnU2c4Q1ZjUHVp?oc=5",
+      "publishedAt": "2026-11-10T04:35:00+08:00"
+    },
+    {
+      "title": "Church on Sunday: Fab four from Abbi helps Jillaroos outlast Fiji",
+      "source": "Post Courier",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUnc2ZDZBM2p6YXhaMWthaEJQTC11d3Y4RF9xVjRIaGpNTGJaM2JOVGhpY2xKdDNFTHE3N05SdVk5OVVaS1ZJbGFzRFJLWFBLaXV5VExWTUUwT2RwVURCeHNGTnVrWHNObGd2bER4dXJPZnozREJ4U2ZjWG1nTkd5alJFM0NqVVpoZk1uX2dfdDl6a19zSlMyMFdoNUk?oc=5",
+      "publishedAt": "2026-11-10T01:48:24+08:00"
+    },
+    {
+      "title": "Ireland’s hand weakened ahead of must win Fiji clash",
+      "source": "The Irish News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTy11YTFib19MVy1iS2xTUXVZakVWenIweVhQeERqOGczb3VHUWthczA5Nk9KeVpTZ2pYcFBuX0YxSXA5WVNzRm9DNEJrQTZ6dU8yTDl2Tm1Dc0Vrd0kyd0lPSzRwYVFUSU14Ti1aVlpnZU5NNVY4MUQyOFBkOUltQmhMbkRRTzlQWWJtZkNuejNmVE40RWFKb3VjSFlybXhCb1lTNzBYTWU1NkswaU1WNTFGSHZKdHc?oc=5",
+      "publishedAt": "2026-11-10T00:30:35+08:00"
+    },
+    {
+      "title": "Ireland rugby team to face Fiji",
+      "source": "Slugger O'Toole",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9Ca29NRDN4Q2twejJDODMwdzNRZDYwTDh5ZVZaQ1JFN19TdERYSnUwT0llZHlybXViR2l6S3Q2dHhBR3c1UUt0UkZnOWh2dTFNdVFxbTIxcGo0d3g0c085d05oSmZxS18waVRjRkljaU50VjEyTi1BUw?oc=5",
+      "publishedAt": "2026-11-09T23:48:00+08:00"
+    },
+    {
+      "title": "Picking the Ireland team to take on Fiji this weekend",
+      "source": "RugbyLAD",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hZDNJVjFoOHg1V2ZXYmlOS2hPazk3b3VWZkUteDJKaXNCZWxmeDdRTXJzTmhhUHVNVHhQYzNYT2RYQXZmalJwOGp5RGtsZWFpbi1oOUZTbUp0Z3hLNndSb09LRXYzdmk0WEZJ?oc=5",
+      "publishedAt": "2026-11-09T23:22:16+08:00"
+    },
+    {
+      "title": "Fiji show Kiwi Ferns the way to beat Australia in women's Rugby League World Cup final",
+      "source": "Stuff.co.nz",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONm91OGxNUGk4VnZtY0FrQXpTX0lBRzI4aTF2VENQcHpOWkNVMDdQSmZfZFFSTXRBQkViWUZXZUlKbVh5Vk1FR21oZnI5T295YmxVQUsyM2djQTBXYWhXTHRCbFJWZVlMWUZ1NUVIenltdnlHaWM0RGQzZ3RYSDRSRXlVcmJkQUlFZ09nYVNIQ0J3bHNrb3dPLWIxUDNtb3RBUmgtb2E5c2liTzZVVlV6UDRBNGdsX0VE?oc=5",
+      "publishedAt": "2026-11-09T23:00:00+08:00"
+    },
+    {
       "title": "Ireland captain Dan Sheehan to miss Fiji match due to concussion — Channel NewsAsia",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUTBTMHIydy1lSWh4SjhOaWstaUd5aUl3bFFER2lueFZKRk9jVHZKX0lGdXRWcjdWVkM1MkpUM05FMno3a2Nhd1FTZVZLdmFEdThlWDFNbC1yZktWbVpBUUExZ2ZOUi10ZmczRzNsODFsLTRjM1Z5cFRvcmZVM2FyRXlaVS1qNnhhSUJ2VzIzZjBfZmoyM1JfVDl2Q2psdDZ6aFo4aWxic3BWRnRtS2pfZDhILVR1WF95RXZwZWU2aEZZS0pD?oc=5",
@@ -40,42 +76,6 @@
       "source": "Irish Rugby",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HeEQwWko5b2JyUGd4SHhucjlCYy05NXFRUlJKcnpwaHdyVlV5WXNLZWtfQ3VJRjdnbjZ2VXNyNmJfMkc5MW9xY2VCWnpFQ0RlMG92eU9zRUtYQnlpUTRfQmVrQzRXTkR1aEh2RW5lVFN0Z0xLY2lZRjhJTQ?oc=5",
       "publishedAt": "2026-11-09T20:55:31+08:00"
-    },
-    {
-      "title": "Ireland look for consistency as Jake White's Fiji visit Dublin",
-      "source": "The 42",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDNi1PNTBTRjhRR2dUa2VDMG1iQWMyajlUdWhGaUt0SXFWeTNJczFzbXkzWEtpc3VmNzg3X25HenRGRUpTTHlzdkNkMktLSS1LdVRLbzRfeWdpQkdiV3k3aEt3YXpIN3MySkE?oc=5",
-      "publishedAt": "2026-11-09T20:48:00+08:00"
-    },
-    {
-      "title": "Ireland captain Sheehan ruled out of Fiji test",
-      "source": "The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOM0huTm52T1FHWVo2T0Zfc0ROcU1hZHk2dm5GeGdHYnoyblZlaUpjeUpDYlo1WUZSYmMxVGVxOUY5eXI5UjFiZDJ6aXdxX1BhSVA5VjNaVkRVemFGMDZDU1hNbmpfYTAxNWJ6YzB0Y1EydjNQQUxfbjVNeS1ZN3dReGZnNXBzVi1w?oc=5",
-      "publishedAt": "2026-11-09T20:39:00+08:00"
-    },
-    {
-      "title": "The Ireland Rugby 23 We Want To See Andy Farrell Pick To Take On Fiji",
-      "source": "Balls.ie",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mbDZOQXhRYkZ1QXIxOW5kd3hWUFZsSm1BUXlzZkJ0Zzh1VlhCbUxyUTRLbjZBVHB0ejlfZEd0OE1nOHVlSTJqVnllX0k4ZzJlVzBQdFl1MHpRaG10a1RHd3lPdUQ0ek9oTXNFZmNraw?oc=5",
-      "publishedAt": "2026-11-09T20:20:31+08:00"
-    },
-    {
-      "title": "Sheehan out of test with Fiji",
-      "source": "Radio Kerry",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yUk50OUc2Yi0yeldXa0tta0xHYUhqbUFNd1E3ZDBzMWpXOVVxcnJHcERKaTdHdl9SSUpRNFU1Y0pUVG4zbEwybkxXeVVKa19MM1ZyQzFYY0ZOQmxLUXExWjlNSmtUNUxIUTNSZkcyM3dmLXNLbG9v?oc=5",
-      "publishedAt": "2026-11-09T20:13:59+08:00"
-    },
-    {
-      "title": "Irish captain Sheehan ruled out of Fiji game",
-      "source": "RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSjNySjNwRGtLY2RiVEFHeVp0YVNSMEVBZ3F6c2NxeE85eGRmVjNYOWhkTFNuYVA5c2ZreTQ3bGlQNDd1akh3UFA5bmY4bmdjMGF1MUZnQmFZZ0VNNG11WFFqWW9pYldhaUtVTmYyeHItOE9kR1VTRHJrRDV3dV96Z2ZZTk5nbWExbWl6Q2VPN01Yd29sQmtOMDJn?oc=5",
-      "publishedAt": "2026-11-09T19:53:59+08:00"
-    },
-    {
-      "title": "Ireland rugby: Sean Jansen ruled out of Fiji and South Africa games with knee injury",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iTmtDbUVyWkF4djV1RUdzdWkxbVlHVFpKWWVjdHd2b20wRFl6aEFhS2J6em9HVkxHZzZhTTFnb25fcTFJNVYyOFdkTTVMd3NaenhZMVlpdUV0SjA3c3RrSGJHR3owbVFrWjJxSw?oc=5",
-      "publishedAt": "2026-11-09T19:44:10+08:00"
     }
   ]
 }
