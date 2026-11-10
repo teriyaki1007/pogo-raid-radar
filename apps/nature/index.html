@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css?v=880c6c82photo" />
+  <link rel="stylesheet" href="styles.css?v=perphoto-tb1" />
 </head>
 <body>
   <div class="app-shell" id="app">
@@ -131,7 +131,7 @@
         <!-- CONFIRM -->
         <div class="panel" id="panel-confirm" data-panel="confirm" role="tabpanel" hidden>
           <header class="panel-head">
-            <p class="sample-banner is-sample" id="confirm-id-banner" role="status">Sample ID — not a real species determination</p>
+            <p class="sample-banner is-identifying" id="confirm-id-banner" role="status">Identifying — photo logged, facts will fill in</p>
             <h2>Confirm sighting</h2>
           </header>
           <article class="confirm-card is-provisional" id="confirm-card">
@@ -243,7 +243,7 @@
             <p class="muted">Animals only · party of 3 · habitat +15% · Casual invites local until CF</p>
           </header>
           <div id="battle-flow">
-            <!-- filled by JS: lobby | party | fight | results -->
+            <!-- filled by JS: lobby | party | fight | results (turn-based) -->
           </div>
         </div>
 
@@ -280,7 +280,7 @@
     <!-- TOAST -->
     <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
   </div>
-  <script src="api.js?v=880c6c82photo"></script>
-  <script src="app.js?v=880c6c82photo"></script>
+  <script src="api.js?v=perphoto-tb1"></script>
+  <script src="app.js?v=perphoto-tb1"></script>
 </body>
 </html>

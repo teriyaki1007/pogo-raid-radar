@@ -2,7 +2,8 @@
  * Project Nature — /nature/ demo mount (v0.1 UI + demo JSON)
  * Loads shared speciesCards from data/catalogue-demo.json.
  * Loads Species Guide Identify packages from data/identify/<id>/species-card.json
- * (meta.identifyPackages / identifyDemoPackage). Guide-owned cards preferred over SAMPLE.
+ * (meta.identifyPackages). Identify is per-photo: never reuse demo-001 / passer-montanus
+ * as the default for an uploaded shot. Instant Confirm first-paint is slim/provisional.
  * Prefers /nature/api/* (D1+R2) when bound; falls back to localStorage.
  * Design Critique v0.1 pass applied (UI clear for demo wire).
  * Soft-gated live at /nature/ (preview cookie) until CF auth E2E.
@@ -306,17 +307,25 @@
   const observedAt = $("#observed-at");
 
   let battle = {
-    step: "lobby", // lobby | party | resolving | results
+    step: "lobby", // lobby | party | fight | results
     mode: "casual",
     habitat: "tree",
     opponent: null,
     opponentRating: null,
     partyIds: [],
     foeParty: [],
+    playerParty: [],
     lastResult: null,
     searching: false,
     invitePending: false,
     inviteId: null,
+    isChallenger: true,
+    activeIndex: 0,
+    foeActiveIndex: 0,
+    phase: "pick", // pick | resolve | faint-switch | switch-pick
+    turnLog: [],
+    turnNumber: 1,
+    pendingAction: null,
   };
 
   const DEMO_LEADERBOARD = [
@@ -738,59 +747,98 @@
       <span class="photo-cta-chip">Choose photo</span>`;
   }
 
+  function previewPhotoUrl(url) {
+    if (!url) return;
+    photoDrop.classList.add("has-photo");
+    photoDrop.classList.remove("is-empty");
+    photoPreview.innerHTML = `<img src="${url}" alt="Sighting photo preview" />`;
+    if (btnIdentify) btnIdentify.disabled = false;
+  }
+
   async function handlePhotoFile(file) {
     if (!file.type.startsWith("image/")) {
       showToast("Please choose an image");
       return;
     }
+    photoFile = file;
+    let instantUrl = null;
     try {
-      if (window.NatureApi && window.NatureApi.readExifDateTime) {
-        const exifWhen = await window.NatureApi.readExifDateTime(file);
-        if (exifWhen && observedAt) {
-          // datetime-local wants YYYY-MM-DDTHH:MM
-          observedAt.value = exifWhen.slice(0, 16);
-        }
-      }
-      if (window.NatureApi) {
-        const encoded = await window.NatureApi.encodePhoto(file);
-        const type = encoded.contentType || "image/jpeg";
-        const name =
-          type === "image/png" ? "sighting.png" : type === "image/webp" ? "sighting.webp" : "sighting.jpg";
-        photoFile = new File([encoded.blob], name, { type });
-        const blobUrl = URL.createObjectURL(encoded.blob);
-        try {
-          photoDataUrl = await ensurePersistentPhotoRef(blobUrl);
-        } catch (persistErr) {
-          console.warn("Early photo persist failed; keeping blob URL until Identify", persistErr);
-          photoDataUrl = blobUrl;
-        }
-        if (encoded.belowGuideFloor) {
-          showToast("Photo is soft for ID — try closer / sharper if you can");
-        }
-      } else {
-        photoFile = file;
-        const rawDataUrl = await new Promise((resolve, reject) => {
+      instantUrl = URL.createObjectURL(file);
+    } catch (err) {
+      console.warn("Could not create object URL for first paint", err);
+    }
+    if (!instantUrl) {
+      try {
+        instantUrl = await new Promise((resolve, reject) => {
           const reader = new FileReader();
           reader.onload = () => resolve(reader.result);
           reader.onerror = reject;
           reader.readAsDataURL(file);
         });
-        try {
-          photoDataUrl = await ensurePersistentPhotoRef(rawDataUrl);
-        } catch (persistErr) {
-          console.warn("Early photo persist failed; keeping full data URL until Identify", persistErr);
-          photoDataUrl = rawDataUrl;
-        }
+      } catch (err) {
+        photoFile = null;
+        photoDataUrl = null;
+        showToast(err.message || "Could not read photo");
+        return;
       }
-      photoDrop.classList.add("has-photo");
-      photoDrop.classList.remove("is-empty");
-      photoPreview.innerHTML = `<img src="${photoDataUrl}" alt="Sighting photo preview" />`;
-      btnIdentify.disabled = false;
-    } catch (err) {
-      photoFile = null;
-      photoDataUrl = null;
-      showToast(err.message || "Could not read photo");
     }
+    photoDataUrl = instantUrl;
+    previewPhotoUrl(instantUrl);
+    // Instant first paint — do not wait on EXIF, encode, or Guide facts.
+    openInstantConfirm({ remint: true });
+
+    (async () => {
+      const sightingId = pendingSighting && pendingSighting.id;
+      try {
+        if (window.NatureApi && window.NatureApi.readExifDateTime) {
+          const exifWhen = await window.NatureApi.readExifDateTime(file);
+          if (exifWhen && observedAt) {
+            observedAt.value = exifWhen.slice(0, 16);
+            if (pendingSighting && pendingSighting.id === sightingId && observedAt.value) {
+              pendingSighting.observedAt = new Date(observedAt.value).toISOString();
+              const placeEl = $("#confirm-place");
+              if (placeEl && pendingSighting) {
+                const label = pendingSighting.place && pendingSighting.place.label;
+                placeEl.textContent = label
+                  ? `${label} · ${formatWhen(pendingSighting.observedAt)}`
+                  : formatWhen(pendingSighting.observedAt);
+              }
+            }
+          }
+        }
+        let persistSource = instantUrl;
+        if (window.NatureApi && window.NatureApi.encodePhoto) {
+          const encoded = await window.NatureApi.encodePhoto(file);
+          const type = encoded.contentType || "image/jpeg";
+          const name =
+            type === "image/png" ? "sighting.png" : type === "image/webp" ? "sighting.webp" : "sighting.jpg";
+          photoFile = new File([encoded.blob], name, { type });
+          persistSource = URL.createObjectURL(encoded.blob);
+          if (encoded.belowGuideFloor) {
+            showToast("Photo is soft for ID — try closer / sharper if you can");
+          }
+        }
+        let persistent = persistSource;
+        try {
+          persistent = await ensurePersistentPhotoRef(persistSource);
+        } catch (persistErr) {
+          console.warn("Background photo persist failed; keeping first-paint URL", persistErr);
+          persistent = persistSource;
+        }
+        photoDataUrl = persistent;
+        previewPhotoUrl(persistent);
+        if (pendingSighting && pendingSighting.id === sightingId) {
+          pendingSighting.photoRefs = [persistent];
+          const photoEl = $("#confirm-photo");
+          const confirmPanel = $("#panel-confirm");
+          if (photoEl && confirmPanel && !confirmPanel.hidden) {
+            photoEl.innerHTML = `<img src="${persistent}" alt="Logged photo" />`;
+          }
+        }
+      } catch (err) {
+        console.warn("Background photo upgrade failed", err);
+      }
+    })();
   }
 
   function resetCaptureForm() {
@@ -808,23 +856,43 @@
   }
 
   function cardSeason(card) {
-    return card.seasonality || card.season || "—";
+    return card.seasonality || card.season || "";
+  }
+
+  function setFactText(el, value, { skeleton } = {}) {
+    if (!el) return;
+    const text = (value == null ? "" : String(value)).trim();
+    el.classList.toggle("is-skeleton", !!(skeleton && !text));
+    el.textContent = text;
   }
 
   /**
    * Load Species Guide Identify packages bundled under data/identify/<id>/.
    * Merges Guide fields onto speciesCards with guideOwned:true.
-   * Combat types/bp/rarity/emoji stay from catalogue when present; otherwise interim stubs
-   * (Catalogue owns combat — mark combatInterim for retune).
-   * identifyDemoPackage in catalogue.meta (e.g. "demo-001") drives the demo photo→card path:
-   * when the user Identifies any uploaded photo, pickCardFromVisual prefers that Guide card
-   * if visual leans animal/urban/tree or SAMPLE match is weak.
+   * Combat types/bp stay from catalogue when present; otherwise mark combatInterim
+   * without copying demo-001 / Tree Sparrow Sky+Meadow types onto a new taxon.
+   * Packages may include demo-001 for the actual Tree Sparrow sample photo, but
+   * that pack is never the default ID for an unrelated upload.
    */
   const GUIDE_COMBAT_INTERIM = {
-    animal: { types: ["Sky", "Meadow"], bp: 135, rarity: "common", emoji: "🐦" },
+    animal: { types: [], bp: 120, rarity: "common", emoji: "🐾", provisionalMoves: true },
     plant: { types: ["Forest"], bp: 0, rarity: "common", emoji: "🌿" },
     other: { types: [], bp: 0, rarity: "common", emoji: "🌿" },
   };
+
+  /** Catalogue-typed provisional pool — not a species-specific (sparrow) set. */
+  const PROVISIONAL_MOVE_IDS = [
+    "canopy-strike",
+    "spray-jet",
+    "dive-peck",
+    "stone-toss",
+    "thorn-lash",
+    "rapid-strike",
+  ];
+
+  function provisionalLearnset() {
+    return PROVISIONAL_MOVE_IDS.map((id) => moveById(id)).filter(Boolean);
+  }
 
   function mapGuideConfidence(card) {
     const g = String(card?.idConfidence || "").toLowerCase();
@@ -834,10 +902,18 @@
     return "likely";
   }
 
+  function isSlimIdentifying(card) {
+    if (!card) return false;
+    if (card._slim || card._identifying) return true;
+    const named = String(card.commonName || "").trim();
+    return !card.guideOwned && !card._guideOwned && !named && card.idTier === "lookalike-set";
+  }
+
   function isGuideCard(card) {
     if (!card) return false;
+    if (isSlimIdentifying(card)) return false;
     if (card.guideOwned || card._guideOwned) return true;
-    if (card.provisional && card.packageId) return true;
+    if (card.provisional && card.packageId && card.packageId !== "demo-001") return true;
     const name = String(card.commonName || "");
     return !/^SAMPLE:\s*/i.test(name) && !!card.scientificName && card.idTier;
   }
@@ -847,6 +923,8 @@
       ? catalogue.meta.identifyPackages.slice()
       : [];
     const demo = catalogue?.meta?.identifyDemoPackage;
+    // Load demo-001 into the shared store if listed or if no other packs exist,
+    // so the real Tree Sparrow sample remains available — never auto-applied.
     if (demo && !listed.includes(demo)) listed.push(demo);
     if (!listed.length) listed.push("demo-001");
 
@@ -856,163 +934,206 @@
         if (!res.ok) continue;
         const guide = await res.json();
         if (!guide || !guide.id) continue;
-        const existingIdx = speciesCards.findIndex((c) => c.id === guide.id);
-        const existing = existingIdx >= 0 ? speciesCards[existingIdx] : null;
-        const stub = GUIDE_COMBAT_INTERIM[guide.kind] || GUIDE_COMBAT_INTERIM.other;
-        const merged = {
-          ...(existing || {}),
-          ...guide,
-          habitatAffinity: normalizeHabitatAffinity(guide.habitatAffinity),
-          guideOwned: true,
-          packageId: guide.packageId || pkgId,
-          types: (existing && existing.types && existing.types.length ? existing.types : null) || stub.types,
-          bp: existing && existing.bp != null ? existing.bp : stub.bp,
-          rarity: (existing && existing.rarity) || stub.rarity,
-          emoji: (existing && existing.emoji) || stub.emoji,
-          combatInterim: existing && existing.combatInterim != null ? existing.combatInterim : true,
-        };
-        if (existingIdx >= 0) speciesCards[existingIdx] = merged;
-        else speciesCards.push(merged);
-        if (catalogue) {
-          if (!Array.isArray(catalogue.speciesCards)) catalogue.speciesCards = [];
-          const ci = catalogue.speciesCards.findIndex((c) => c.id === merged.id);
-          if (ci >= 0) catalogue.speciesCards[ci] = { ...catalogue.speciesCards[ci], ...merged };
-          else catalogue.speciesCards.push(merged);
-        }
+        mergeGuideCardIntoStore(guide, pkgId);
       } catch (err) {
         console.warn("Identify package load failed", pkgId, err);
       }
     }
   }
 
-  function unknownCard(extra) {
+  function mergeGuideCardIntoStore(guide, pkgId) {
+    const existingIdx = speciesCards.findIndex((c) => c.id === guide.id || c.taxonId === guide.taxonId);
+    const existing = existingIdx >= 0 ? speciesCards[existingIdx] : null;
+    const stub = GUIDE_COMBAT_INTERIM[guide.kind] || GUIDE_COMBAT_INTERIM.other;
+    const existingTypes = existing && existing.types && existing.types.length ? existing.types : null;
+    const merged = {
+      ...(existing || {}),
+      ...guide,
+      habitatAffinity: normalizeHabitatAffinity(guide.habitatAffinity),
+      guideOwned: true,
+      packageId: guide.packageId || pkgId,
+      types: existingTypes || stub.types || [],
+      bp: existing && existing.bp != null ? existing.bp : stub.bp,
+      rarity: (existing && existing.rarity) || stub.rarity,
+      emoji: (existing && existing.emoji) || stub.emoji,
+      combatInterim: existing && existing.combatInterim != null ? existing.combatInterim : true,
+      _provisionalMoves: !!(stub.provisionalMoves && !existingTypes),
+    };
+    if (existingIdx >= 0) speciesCards[existingIdx] = merged;
+    else speciesCards.push(merged);
+    if (catalogue) {
+      if (!Array.isArray(catalogue.speciesCards)) catalogue.speciesCards = [];
+      const ci = catalogue.speciesCards.findIndex((c) => c.id === merged.id || c.taxonId === merged.taxonId);
+      if (ci >= 0) catalogue.speciesCards[ci] = { ...catalogue.speciesCards[ci], ...merged };
+      else catalogue.speciesCards.push(merged);
+    }
+    return merged;
+  }
+
+  function slimMeta(sightingId) {
     return {
-      id: "demo-unknown",
-      commonName: "Unidentified from photo",
-      scientificName: "— (needs Species Guide)",
-      averageSize: "Not measured from photo",
-      nativeRange: "Unknown until confirmed ID",
-      habitat: "As logged by observer",
-      seasonality: "—",
-      lookalikes: ["Needs clearer photo", "Species Guide review"],
-      caution: "Provisional visual read — not a field ID",
-      emoji: "❓",
+      id: `prov-${sightingId}`,
+      taxonId: null,
+      commonName: "",
+      scientificName: "",
+      idTier: "lookalike-set",
+      idConfidence: "unknown",
       _confidence: "unknown",
       _fromPhoto: true,
-      ...(extra || {}),
+      _slim: true,
+      _identifying: true,
+      averageSize: "",
+      nativeRange: "",
+      originRange: "",
+      habitat: "",
+      seasonality: "",
+      lookalikes: [],
+      caution: "",
+      populationEstimate: "",
+      populationSource: "",
+      populationConfidence: "",
+      habitatAffinity: [],
+      sources: [],
+      provisional: true,
+      kind: "",
+      types: [],
+      bp: 0,
     };
   }
 
-  /** Score shared cards against a visual read of the uploaded photo (not random). */
-  function scoreCardForVisual(card, visual) {
-    let score = 0;
-    const hay = `${card.commonName || ""} ${card.habitat || ""} ${card.scientificName || ""} ${(card.lookalikes || []).join(" ")} ${card.id || ""}`.toLowerCase();
-    (visual.keywords || []).forEach((k) => {
-      if (hay.includes(k)) score += 3;
-    });
-    const aff = normalizeHabitatAffinity(card.habitatAffinity);
-    if (visual.habitatGuess && aff.includes(visual.habitatGuess)) score += 4;
-    if (visual.kind === "plant" && /tree|plant|fung|moss|leaf|wood|redwood|agaric/.test(hay)) score += 2;
-    if (visual.kind === "animal" && /bird|fox|otter|butterfly|starfish|insect|robin|monarch|sparrow|passer|animal/.test(hay)) score += 2;
-    if (visual.kind === "water" && /ocean|tide|star|fish|marine|water|wetland/.test(hay)) score += 2;
-    // Strongly prefer Species Guide packages over SAMPLE placeholders
-    if (card.guideOwned) {
-      score += 8;
-      const conf = String(card.idConfidence || "").toLowerCase();
-      if (conf === "high") score += 4;
-      else if (conf === "medium") score += 2;
-    }
-    return score;
+  function readCaptureMeta() {
+    const tagsRaw = ($("#tags") && $("#tags").value.trim()) || "";
+    return {
+      place: ($("#place-label") && $("#place-label").value.trim()) || "",
+      when: ($("#observed-at") && $("#observed-at").value) || "",
+      notes: ($("#notes") && $("#notes").value.trim()) || "",
+      tags: tagsRaw
+        ? tagsRaw
+            .split(",")
+            .map((t) => t.trim())
+            .filter(Boolean)
+        : [],
+      privacy: ($("#privacy") && $("#privacy").value) || "private",
+    };
   }
 
-  function wrapIdentifiedCard(best, visual, conf, score) {
-    const guide = isGuideCard(best);
-    return {
-      ...best,
+  let guidePollTimer = null;
+
+  function stopGuidePoll() {
+    if (guidePollTimer) {
+      clearInterval(guidePollTimer);
+      guidePollTimer = null;
+    }
+  }
+
+  async function fetchGuidePackage(pkgId) {
+    if (!pkgId) return null;
+    const res = await fetch(`data/identify/${encodeURIComponent(pkgId)}/species-card.json`, {
+      cache: "no-store",
+    });
+    if (!res.ok) return null;
+    return res.json();
+  }
+
+  function startGuidePoll(pkgId) {
+    stopGuidePoll();
+    if (!pkgId) return;
+    const tick = async () => {
+      if (!pendingSighting || pendingSighting.packageId !== pkgId) {
+        stopGuidePoll();
+        return;
+      }
+      // Never treat demo-001 as the fill for a different photo's package.
+      if (pkgId === "demo-001" || pkgId === "passer-montanus") return;
+      try {
+        const guide = await fetchGuidePackage(pkgId);
+        if (!guide || !guide.id) return;
+        if (guide.packageId && guide.packageId !== pkgId && guide.packageId === "demo-001") return;
+        applyGuideCardToPending(guide, pkgId);
+      } catch (err) {
+        console.warn("Identify poll failed", pkgId, err);
+      }
+    };
+    tick();
+    guidePollTimer = setInterval(tick, 3000);
+  }
+
+  function applyGuideCardToPending(guide, pkgId) {
+    if (!pendingSighting) return;
+    const storeCard = mergeGuideCardIntoStore(guide, pkgId || guide.packageId);
+    const conf = mapGuideConfidence(guide);
+    const prev = pendingSighting.sampleMeta || {};
+    pendingSighting.sampleMeta = {
+      ...prev,
+      ...storeCard,
       _confidence: conf,
       _fromPhoto: true,
-      _visualScore: score,
-      _guideOwned: guide,
-      habitat: best.habitat || visual.habitatLabel,
-      caution: guide
-        ? best.caution || "Species Guide provisional ID — Confirm to log."
-        : (best.caution ? `${best.caution} · ` : "") +
-          "Matched from your photo cues — Species Guide still owns final facts.",
+      _slim: false,
+      _identifying: !String(storeCard.commonName || "").trim() && storeCard.idTier === "lookalike-set",
+      _guideOwned: true,
+      guideOwned: true,
     };
+    pendingSighting.idConfidence = conf;
+    pendingSighting.speciesRef = storeCard.taxonId || storeCard.id;
+    pendingSighting.lookalikeRefs = (storeCard.lookalikes || []).slice();
+    pendingSighting.habitatAffinity = normalizeHabitatAffinity(storeCard.habitatAffinity);
+    pendingMoves = [];
+    renderConfirm(pendingSighting);
   }
 
-  function pickCardFromVisual(visual) {
-    const pool = (speciesCards || []).filter((s) => s.id !== "demo-unknown");
-    if (!pool.length) return unknownCard({ habitat: visual.habitatLabel || "As logged by observer" });
+  function openInstantConfirm({ remint } = {}) {
+    if (!photoDataUrl) {
+      showToast("Add a photo first");
+      return;
+    }
+    const cap = readCaptureMeta();
+    const observedAtIso = cap.when ? new Date(cap.when).toISOString() : new Date().toISOString();
 
-    const scored = pool.map((c) => ({ c, s: scoreCardForVisual(c, visual) }));
-    scored.sort((a, b) => b.s - a.s);
-
-    // Demo UX: meta.identifyDemoPackage (e.g. demo-001) — when user uploaded a photo,
-    // prefer that Guide card if visual leans animal/urban/tree OR SAMPLE match is weak.
-    const demoPkg = catalogue?.meta?.identifyDemoPackage;
-    if (demoPkg) {
-      const demo = pool.find((c) => c.guideOwned && (c.packageId === demoPkg || c.id === demoPkg));
-      if (demo) {
-        const sampleBest = Math.max(
-          0,
-          ...scored.filter((x) => !x.c.guideOwned).map((x) => x.s)
-        );
-        const aff = normalizeHabitatAffinity(demo.habitatAffinity);
-        const habitatHit = !!(visual.habitatGuess && aff.includes(visual.habitatGuess));
-        const animalish = visual.kind === "animal" || visual.kind === "unknown";
-        const urbanTree =
-          habitatHit ||
-          aff.includes("urban") ||
-          aff.includes("tree") ||
-          visual.habitatGuess === "urban" ||
-          visual.habitatGuess === "tree";
-        if ((animalish && urbanTree) || sampleBest < 6) {
-          const demoScore = scoreCardForVisual(demo, visual);
-          return wrapIdentifiedCard(demo, visual, mapGuideConfidence(demo), demoScore);
-        }
+    if (!remint && pendingSighting && pendingSighting.sampleMeta) {
+      pendingSighting.place = {
+        label: cap.place,
+        lat: null,
+        lng: null,
+        precision: "label-only",
+      };
+      pendingSighting.observedAt = observedAtIso;
+      pendingSighting.notes = cap.notes || null;
+      pendingSighting.tags = cap.tags;
+      pendingSighting.privacy = cap.privacy;
+      if (photoDataUrl && (!pendingSighting.photoRefs || pendingSighting.photoRefs[0] !== photoDataUrl)) {
+        pendingSighting.photoRefs = [photoDataUrl];
       }
+      renderConfirm(pendingSighting);
+      showPanel("confirm");
+      return;
     }
 
-    let best = scored[0]?.c || null;
-    let bestScore = scored[0]?.s ?? -1;
-
-    // Prefer top guideOwned over SAMPLE even on ties / near-ties
-    const topGuide = scored.find((x) => x.c.guideOwned);
-    if (topGuide && (!best || !best.guideOwned || topGuide.s >= bestScore - 2)) {
-      best = topGuide.c;
-      bestScore = topGuide.s;
-    }
-
-    if (!best || bestScore < 2) {
-      // Last resort: still surface high-confidence Guide demo card if any
-      const guideFallback = pool.find(
-        (c) => c.guideOwned && String(c.idConfidence || "").toLowerCase() === "high"
-      );
-      if (guideFallback) {
-        return wrapIdentifiedCard(
-          guideFallback,
-          visual,
-          mapGuideConfidence(guideFallback),
-          scoreCardForVisual(guideFallback, visual)
-        );
-      }
-      return unknownCard({
-        habitat: visual.habitatLabel || "As logged by observer",
-        averageSize: visual.sizeHint || "Not measured from photo",
-        lookalikes: visual.keywords.slice(0, 3).map((k) => `Photo cue: ${k}`),
-      });
-    }
-
-    const conf = isGuideCard(best)
-      ? mapGuideConfidence(best)
-      : bestScore >= 6
-        ? "likely"
-        : bestScore >= 3
-          ? "unsure"
-          : "unknown";
-    return wrapIdentifiedCard(best, visual, conf, bestScore);
+    const id = `sight-${Date.now()}`;
+    const packageId = `log-${Date.now()}`;
+    pendingMoves = [];
+    pendingSighting = {
+      id,
+      packageId,
+      photoRefs: [photoDataUrl],
+      place: { label: cap.place, lat: null, lng: null, precision: "label-only" },
+      observedAt: observedAtIso,
+      notes: cap.notes || null,
+      tags: cap.tags,
+      idConfidence: "unknown",
+      speciesRef: `prov-${id}`,
+      lookalikeRefs: [],
+      privacy: cap.privacy,
+      sampleMeta: slimMeta(id),
+      habitatAffinity: [],
+      confirmed: false,
+      xpAwarded: 0,
+      fromPhoto: true,
+    };
+    renderConfirm(pendingSighting);
+    showPanel("confirm");
+    startGuidePoll(packageId);
   }
+
 
   function analyzePhotoDataUrl(dataUrl) {
     return new Promise((resolve) => {
@@ -1169,85 +1290,8 @@
     return null;
   }
 
-  async function runIdentify() {
-    if (!photoDataUrl) {
-      showToast("Add a photo first");
-      return;
-    }
-    const place = $("#place-label").value.trim();
-    const when = $("#observed-at").value;
-    const notes = $("#notes").value.trim();
-    const tagsRaw = $("#tags").value.trim();
-    const privacy = $("#privacy").value || "private";
-
-    const form = $("#capture-form");
-    form?.classList.add("identify-busy");
-    if (btnIdentify) {
-      btnIdentify.disabled = true;
-      const lab = btnIdentify.querySelector(".btn-identify-label");
-      if (lab) lab.textContent = "Reading photo";
-    }
-    showToast("Generating card from your photo…");
-
-    let sample;
-    try {
-      const visual = await analyzePhotoDataUrl(photoDataUrl);
-      sample = pickCardFromVisual(visual);
-      // Fold place notes into habitat line when visual is weak
-      if (sample._confidence === "unknown" && place) {
-        sample = {
-          ...sample,
-          habitat: `${sample.habitat} · logged at ${place}`,
-        };
-      }
-    } catch (err) {
-      console.error(err);
-      sample = unknownCard();
-    } finally {
-      form?.classList.remove("identify-busy");
-      if (btnIdentify) {
-        const lab = btnIdentify.querySelector(".btn-identify-label");
-        if (lab) lab.textContent = "Identify";
-        btnIdentify.disabled = false;
-      }
-    }
-
-    let persistentPhoto = photoDataUrl;
-    try {
-      persistentPhoto = await ensurePersistentPhotoRef(photoDataUrl);
-      if (persistentPhoto && persistentPhoto !== photoDataUrl) {
-        photoDataUrl = persistentPhoto;
-      }
-    } catch (err) {
-      console.warn("Could not persist photo ref; keeping original URL", err);
-      persistentPhoto = photoDataUrl;
-    }
-
-    pendingSighting = {
-      id: `sight-${Date.now()}`,
-      photoRefs: [persistentPhoto],
-      place: { label: place, lat: null, lng: null, precision: "label-only" },
-      observedAt: when ? new Date(when).toISOString() : new Date().toISOString(),
-      notes: notes || null,
-      tags: tagsRaw
-        ? tagsRaw
-            .split(",")
-            .map((t) => t.trim())
-            .filter(Boolean)
-        : [],
-      idConfidence: sample._confidence,
-      speciesRef: sample.id,
-      lookalikeRefs: (sample.lookalikes || []).slice(),
-      privacy,
-      sampleMeta: sample,
-      habitatAffinity: normalizeHabitatAffinity(sample.habitatAffinity),
-      confirmed: false,
-      xpAwarded: 0,
-      fromPhoto: true,
-    };
-
-    renderConfirm(pendingSighting);
-    showPanel("confirm");
+  function runIdentify() {
+    openInstantConfirm({ remint: false });
   }
 
   function bindConfirm() {
@@ -1270,6 +1314,8 @@
       showToast("Edit your log, then Identify again");
     });
     $("#btn-new-log").addEventListener("click", () => {
+      stopGuidePoll();
+      pendingSighting = null;
       resetCaptureForm();
       showPanel("capture");
     });
@@ -1295,7 +1341,10 @@
 
   function formatPopulation(m) {
     const est = (m.populationEstimate || "").trim();
-    if (!est) return { label: "Unknown", note: "", conf: "unknown" };
+    if (!est) {
+      if (isSlimIdentifying(m)) return { label: "", note: "", conf: "unknown", pending: true };
+      return { label: "Unknown", note: "", conf: "unknown" };
+    }
     const conf = m.populationConfidence || "unknown";
     const src = (m.populationSource || "").trim();
     const noteParts = [];
@@ -1372,6 +1421,15 @@
   /** Swap SAMPLE vs Species Guide provisional framing on Confirm / Detail banners. */
   function syncIdBanner(el, card, variant) {
     if (!el) return;
+    el.classList.remove("is-sample", "is-guide", "is-identifying");
+    if (isSlimIdentifying(card)) {
+      el.textContent =
+        variant === "detail"
+          ? "Identifying — Species Guide has not filled this card yet"
+          : "Identifying — photo logged, facts will fill in";
+      el.classList.add("is-identifying");
+      return;
+    }
     const guide = isGuideCard(card);
     if (guide) {
       el.textContent =
@@ -1379,14 +1437,12 @@
           ? "Species Guide provisional — not authoritative"
           : "Species Guide provisional — awaiting your confirm";
       el.classList.add("is-guide");
-      el.classList.remove("is-sample");
     } else {
       el.textContent =
         variant === "detail"
           ? "Sample ID — not authoritative"
           : "Sample ID — not a real species determination";
       el.classList.add("is-sample");
-      el.classList.remove("is-guide");
     }
   }
 
@@ -1411,12 +1467,30 @@
     return kind === "animal" && bp > 0;
   }
 
+  function usesProvisionalMoves(m) {
+    if (!m || isSlimIdentifying(m)) return false;
+    if (m._provisionalMoves) return true;
+    return m.kind === "animal" && !(fighterTypesFromMeta(m) || []).length;
+  }
+
+  function confirmMoveLearnset(m) {
+    if (usesProvisionalMoves(m)) return provisionalLearnset();
+    return learnsetForTypes(fighterTypesFromMeta(m || {}));
+  }
+
   function syncConfirmButton(m) {
     const btn = $("#btn-confirm");
     if (!btn) return;
-    const combat = isCombatAnimal(m);
-    const types = fighterTypesFromMeta(m || {});
-    const need = combat ? requiredMoveCount(types) || MOVE_SLOTS : 0;
+    const named = String((m && m.commonName) || "").trim();
+    if (isSlimIdentifying(m) || !named) {
+      btn.disabled = true;
+      btn.setAttribute("aria-disabled", "true");
+      btn.title = "Waiting for a Species Guide name — or mark unsure to log";
+      return;
+    }
+    const combat = isCombatAnimal(m) || usesProvisionalMoves(m);
+    const learn = confirmMoveLearnset(m);
+    const need = combat ? Math.min(MOVE_SLOTS, Math.max(0, learn.length)) || MOVE_SLOTS : 0;
     const ready = !combat || (need > 0 && pendingMoves.length === need);
     btn.disabled = !ready;
     btn.setAttribute("aria-disabled", ready ? "false" : "true");
@@ -1433,7 +1507,8 @@
     const countEl = $("#confirm-move-count");
     const hint = $("#confirm-move-hint");
     if (!wrap || !grid) return;
-    if (!isCombatAnimal(m)) {
+    const combat = isCombatAnimal(m) || usesProvisionalMoves(m);
+    if (!combat) {
       wrap.hidden = true;
       pendingMoves = [];
       grid.innerHTML = "";
@@ -1441,13 +1516,14 @@
       return;
     }
     wrap.hidden = false;
-    const types = fighterTypesFromMeta(m);
-    const learn = learnsetForTypes(types);
-    const need = requiredMoveCount(types) || MOVE_SLOTS;
+    const provisional = usesProvisionalMoves(m);
+    const learn = confirmMoveLearnset(m);
+    const need = Math.min(MOVE_SLOTS, Math.max(0, learn.length)) || MOVE_SLOTS;
     pendingMoves = pendingMoves.filter((id) => learn.some((mv) => mv.id === id)).slice(0, need);
     if (hint) {
-      hint.textContent =
-        need === 1
+      hint.textContent = provisional
+        ? `Provisional moves from the Catalogue pool — pick ${need} now; types retune when the ID is known`
+        : need === 1
           ? "Pick 1 move from this animal’s typed pool before it locks into your dex (editable later)"
           : `Pick ${need} moves from this animal’s typed pool before it locks into your dex (editable later)`;
     }
@@ -1479,41 +1555,51 @@
   }
 
   function renderConfirm(s) {
-    const m = s.sampleMeta;
+    const m = s.sampleMeta || {};
     const card = $("#confirm-card");
+    const slim = isSlimIdentifying(m);
     card.classList.add("is-provisional");
     card.classList.remove("is-locked");
+    card.classList.toggle("is-identifying", slim);
 
     const photoEl = $("#confirm-photo");
-    if (s.photoRefs[0]) {
+    if (s.photoRefs && s.photoRefs[0]) {
       photoEl.innerHTML = `<img src="${s.photoRefs[0]}" alt="Logged photo" />`;
     } else {
-      photoEl.innerHTML = `<span class="ph-fallback">${m.emoji || "🌿"}</span>`;
+      photoEl.innerHTML = `<span class="ph-fallback">${m.emoji || ""}</span>`;
     }
-    $("#confirm-common").textContent = m.commonName;
-    $("#confirm-scientific").textContent = m.scientificName;
+    setFactText($("#confirm-common"), m.commonName, { skeleton: slim });
+    setFactText($("#confirm-scientific"), m.scientificName, { skeleton: slim });
     const badge = $("#confirm-confidence");
-    badge.textContent = s.idConfidence;
-    badge.dataset.level = s.idConfidence;
-    $("#confirm-size").textContent = m.averageSize;
-    $("#confirm-range").textContent = m.nativeRange || m.originRange || "—";
-    $("#confirm-habitat").textContent = m.habitat;
+    badge.textContent = s.idConfidence || "unknown";
+    badge.dataset.level = s.idConfidence || "unknown";
+    setFactText($("#confirm-size"), m.averageSize, { skeleton: slim });
+    setFactText($("#confirm-range"), m.nativeRange || m.originRange, { skeleton: slim });
+    setFactText($("#confirm-habitat"), m.habitat, { skeleton: slim });
     renderConfirmAffinity(m);
-    $("#confirm-season").textContent = cardSeason(m);
+    setFactText($("#confirm-season"), cardSeason(m), { skeleton: slim });
     renderPopulationFields(m);
+    if (slim) {
+      const pop = $("#confirm-population");
+      if (pop && !(m.populationEstimate || "").trim()) setFactText(pop, "", { skeleton: true });
+    }
     renderConfirmMoves(s, m);
-    $("#confirm-place").textContent = `${s.place.label} · ${formatWhen(s.observedAt)}`;
+    const placeLabel = (s.place && s.place.label) || "";
+    const whenLabel = formatWhen(s.observedAt);
+    $("#confirm-place").textContent = placeLabel ? `${placeLabel} · ${whenLabel}` : whenLabel;
     renderLookalikesQuiet($("#confirm-lookalikes"), m.lookalikes);
     syncIdBanner($("#confirm-id-banner"), m, "confirm");
     const disc = $("#confirm-disclaimer");
     if (disc) {
-      if (isGuideCard(m)) {
+      if (slim) {
+        disc.textContent = "Facts will fill in when Species Guide identifies this photo — this is not a sure ID.";
+      } else if (isGuideCard(m)) {
         disc.textContent = m.caution
           ? `Species Guide provisional · Confirm to log · ${m.caution}`
           : "Species Guide provisional · Confirm to log";
       } else if (s.fromPhoto || m._fromPhoto) {
         disc.textContent = m.caution
-          || "Generated from your photo cues — Species Guide confirms real taxon facts.";
+          || "Logged from your photo — Species Guide owns real taxon facts.";
       } else {
         disc.textContent = m.caution
           ? `SAMPLE facts · Caution: ${m.caution}`
@@ -1552,13 +1638,14 @@
     }
 
     const meta = s.sampleMeta || {};
-    const moveNeed = isCombatAnimal(meta)
-      ? requiredMoveCount(fighterTypesFromMeta(meta)) || MOVE_SLOTS
-      : 0;
-    if (status === "confirmed" && isCombatAnimal(meta) && pendingMoves.length !== moveNeed) {
+    const combat = isCombatAnimal(meta) || usesProvisionalMoves(meta);
+    const learn = confirmMoveLearnset(meta);
+    const moveNeed = combat ? Math.min(MOVE_SLOTS, Math.max(0, learn.length)) || MOVE_SLOTS : 0;
+    if (status === "confirmed" && combat && pendingMoves.length !== moveNeed) {
       showToast(`Pick ${moveNeed} battle moves before collecting`);
       return;
     }
+    stopGuidePoll();
 
     let xpGain = XP.confirm + XP.photo;
     const existingSlot = state.slots.find((sl) => sl.taxonId === s.speciesRef && sl.status !== "empty");
@@ -1577,8 +1664,10 @@
           sightingId: s.id,
           level: 1,
           battleXp: 0,
-          moves: isCombatAnimal(meta)
-            ? normalizeMoves(pendingMoves, fighterTypesFromMeta(meta))
+          moves: combat
+            ? (usesProvisionalMoves(meta)
+                ? [...new Set(pendingMoves.filter((id) => learn.some((mv) => mv.id === id)))].slice(0, moveNeed)
+                : normalizeMoves(pendingMoves, fighterTypesFromMeta(meta)))
             : [],
         })
       );
@@ -2157,6 +2246,7 @@
           battle.opponent = inv.from;
           battle.inviteId = inv.id;
           battle.invitePending = false;
+          battle.isChallenger = false;
           battle.partyIds = [];
           battle.step = "party";
           saveState();
@@ -2317,6 +2407,448 @@
     });
     return score;
   }
+
+  const SPEED_PLUS_TYPES = ["Sky", "Storm", "River"];
+  const SPEED_MINUS_TYPES = ["Earth", "Crystal", "Ice"];
+
+  function fighterSpeed(f) {
+    const lv = Math.max(1, Math.min(MAX_FIGHTER_LEVEL, (f && f.level) || 1));
+    let spd = 40 + lv * 2;
+    const types = (f && f.types) || [];
+    if (types.some((t) => SPEED_PLUS_TYPES.includes(t))) spd += 10;
+    if (types.some((t) => SPEED_MINUS_TYPES.includes(t))) spd -= 10;
+    if (f && f.speedDrop) spd -= 15;
+    return spd;
+  }
+
+  function statusEffectForMove(move) {
+    if (!move || move.kind !== "status") return null;
+    const n = `${move.name || ""} ${move.id || ""}`.toLowerCase();
+    if (/guard|veil|snowpack|fade/.test(n)) return "skip";
+    return "speed-drop";
+  }
+
+  function calcMoveDamage(move, attacker, defender, habitatId) {
+    if (!move) return { dmg: 0, stab: 1, match: 1, status: null };
+    const status = statusEffectForMove(move);
+    if (move.kind === "status" || status) {
+      return { dmg: 0, stab: 1, match: 1, status: status || "speed-drop" };
+    }
+    const { bp } = effectiveBp(attacker, habitatId);
+    const stab = (attacker.types || []).includes(move.type) ? STAB_MULT : 1;
+    const match = bestMultiplier([move.type], defender.types || []);
+    const dmg = Math.max(1, Math.floor((move.power || 0) * (bp / 100) * stab * match));
+    return { dmg, stab, match, status: null };
+  }
+
+  function prepFighterForBattle(f, habitatId) {
+    const { bp } = effectiveBp(f, habitatId);
+    const maxHp = Math.max(1, bp);
+    return {
+      ...f,
+      maxHp,
+      hp: maxHp,
+      fainted: false,
+      speedDrop: false,
+    };
+  }
+
+  function startTurnBattle(party, foeParty) {
+    battle.playerParty = party.map((f) => prepFighterForBattle(f, battle.habitat));
+    battle.foeParty = foeParty.map((f) => prepFighterForBattle(f, battle.habitat));
+    battle.foeParty = battle.foeParty; // keep alias for results
+    battle.activeIndex = 0;
+    battle.foeActiveIndex = 0;
+    battle.phase = "pick";
+    battle.pendingAction = null;
+    battle.turnNumber = 1;
+    battle.turnLog = [
+      `Battle start — ${habitatLabel(battle.habitat)} field. Pick a move each turn; faster Speed acts first.`,
+    ];
+    battle.lastResult = null;
+    battle.step = "fight";
+  }
+
+  function livingMembers(party) {
+    return (party || []).filter((f) => f && !f.fainted && f.hp > 0);
+  }
+
+  function firstLivingIndex(party, except) {
+    return (party || []).findIndex((f, i) => i !== except && f && !f.fainted && f.hp > 0);
+  }
+
+  function battleOverWinner() {
+    const youLeft = livingMembers(battle.playerParty).length;
+    const foeLeft = livingMembers(battle.foeParty).length;
+    if (!youLeft && !foeLeft) return "foe"; // challenger didn't keep a living party
+    if (!youLeft) return "foe";
+    if (!foeLeft) return "player";
+    return null;
+  }
+
+  function finishBattle(won, { forfeit } = {}) {
+    const outcome = forfeit ? "forfeit" : won ? "win" : "loss";
+    let ratingDelta = 0;
+    if (battle.mode === "ranked" && !forfeit) {
+      ratingDelta = won ? 18 : -14;
+      state.rating = Math.max(100, (state.rating || 1000) + ratingDelta);
+    }
+    const xpOut = applyBattleXpToSlots(battle.partyIds, outcome);
+    saveState();
+    battle.lastResult = {
+      won: !!won,
+      forfeit: !!forfeit,
+      score: 0,
+      ratingDelta,
+      party: battle.playerParty.slice(),
+      foe: battle.foeParty.slice(),
+      opponent: battle.opponent,
+      opponentRating: battle.opponentRating,
+      fighterXp: xpOut.gain,
+      leveled: xpOut.leveled,
+    };
+    battle.step = "results";
+    battle.phase = "pick";
+    battle.pendingAction = null;
+    renderBattle();
+    if (xpOut.leveled && xpOut.leveled.length) {
+      showToast(xpOut.leveled.map((x) => `Level up → Lv ${x.level}`).join(" · "));
+    }
+  }
+
+  function pickFoeMove(foe, player) {
+    const moves = (foe.moves || []).map((id) => moveById(id)).filter(Boolean);
+    if (!moves.length) {
+      const t = (foe.types || [])[0];
+      return t ? { power: 40, type: t, name: "Strike", id: "basic-strike", kind: "damage" } : null;
+    }
+    let best = moves[0];
+    let bestDmg = -1;
+    moves.forEach((mv) => {
+      const { dmg } = calcMoveDamage(mv, foe, player, battle.habitat);
+      const score = mv.kind === "status" ? 8 : dmg;
+      if (score > bestDmg) {
+        bestDmg = score;
+        best = mv;
+      }
+    });
+    return best;
+  }
+
+  function pushLog(line) {
+    battle.turnLog = (battle.turnLog || []).concat(line);
+    if (battle.turnLog.length > 40) battle.turnLog = battle.turnLog.slice(-40);
+  }
+
+  function applyFaint(side, index) {
+    const party = side === "player" ? battle.playerParty : battle.foeParty;
+    const mon = party[index];
+    if (!mon) return;
+    mon.hp = 0;
+    mon.fainted = true;
+    const name = displayFighterName(mon);
+    pushLog(`${name} fainted!`);
+  }
+
+  function displayFighterName(f) {
+    return String((f && f.commonName) || "fighter").replace(/^SAMPLE:\s*/i, "") || "fighter";
+  }
+
+  function executeAction(side, action) {
+    const isPlayer = side === "player";
+    const myParty = isPlayer ? battle.playerParty : battle.foeParty;
+    const theirParty = isPlayer ? battle.foeParty : battle.playerParty;
+    const myIndex = isPlayer ? battle.activeIndex : battle.foeActiveIndex;
+    const theirIndex = isPlayer ? battle.foeActiveIndex : battle.activeIndex;
+    const actor = myParty[myIndex];
+    const target = theirParty[theirIndex];
+    if (!actor || actor.fainted) return { fainted: "actor" };
+
+    if (action && action.type === "switch") {
+      const next = action.index;
+      if (next == null || !myParty[next] || myParty[next].fainted || next === myIndex) {
+        pushLog(`${displayFighterName(actor)} couldn't switch!`);
+        return {};
+      }
+      if (isPlayer) battle.activeIndex = next;
+      else battle.foeActiveIndex = next;
+      pushLog(`${isPlayer ? "You" : "Foe"} withdrew ${displayFighterName(actor)} and sent out ${displayFighterName(myParty[next])}!`);
+      return { switched: true };
+    }
+
+    if (!target || target.fainted) return { fainted: "target" };
+    const move = action && action.move;
+    if (!move) {
+      pushLog(`${displayFighterName(actor)} hesitates…`);
+      return {};
+    }
+    const hit = calcMoveDamage(move, actor, target, battle.habitat);
+    if (hit.status === "skip") {
+      pushLog(`${displayFighterName(actor)} used ${move.name} — it braced (no damage).`);
+      return {};
+    }
+    if (hit.status === "speed-drop") {
+      target.speedDrop = true;
+      pushLog(`${displayFighterName(actor)} used ${move.name} — ${displayFighterName(target)}'s Speed fell!`);
+      return { status: "speed-drop" };
+    }
+    target.hp = Math.max(0, target.hp - hit.dmg);
+    const stabNote = hit.stab > 1 ? " STAB" : "";
+    const matchNote = hit.match > 1 ? " · Super effective!" : hit.match < 1 ? " · Not very effective." : "";
+    pushLog(
+      `${displayFighterName(actor)} used ${move.name} — ${hit.dmg} dmg${stabNote}${matchNote}`
+    );
+    if (target.hp <= 0) {
+      applyFaint(isPlayer ? "foe" : "player", theirIndex);
+      return { fainted: "target" };
+    }
+    return { dmg: hit.dmg };
+  }
+
+  function maybeAutoFoeSwitch() {
+    const cur = battle.foeParty[battle.foeActiveIndex];
+    if (cur && !cur.fainted) return false;
+    const next = firstLivingIndex(battle.foeParty, battle.foeActiveIndex);
+    if (next < 0) return false;
+    battle.foeActiveIndex = next;
+    pushLog(`Foe sent out ${displayFighterName(battle.foeParty[next])}!`);
+    return true;
+  }
+
+  function resolveLockedTurn() {
+    const player = battle.playerParty[battle.activeIndex];
+    const foe = battle.foeParty[battle.foeActiveIndex];
+    const action = battle.pendingAction;
+    if (!player || !foe || !action) return;
+
+    const foeMove = pickFoeMove(foe, player);
+    const foeAction = { type: "move", move: foeMove };
+
+    const pSpeed = fighterSpeed(player);
+    const fSpeed = fighterSpeed(foe);
+    // Ties: challenger first.
+    let order;
+    if (pSpeed > fSpeed) order = ["player", "foe"];
+    else if (fSpeed > pSpeed) order = ["foe", "player"];
+    else order = battle.isChallenger !== false ? ["player", "foe"] : ["foe", "player"];
+
+    // Consume speed drop after it has applied to this turn's Speed.
+    player.speedDrop = false;
+    foe.speedDrop = false;
+
+    pushLog(`Turn ${battle.turnNumber} — Speed ${pSpeed} vs ${fSpeed}; ${order[0] === "player" ? "you" : "foe"} go first.`);
+
+    const acts = { player: action, foe: foeAction };
+    for (const side of order) {
+      const actor = side === "player" ? battle.playerParty[battle.activeIndex] : battle.foeParty[battle.foeActiveIndex];
+      if (!actor || actor.fainted) continue;
+      const result = executeAction(side, acts[side]);
+      if (battleOverWinner()) break;
+      if (result && result.fainted === "target") {
+        // Target fainted — they skip their action if they haven't acted yet.
+        continue;
+      }
+    }
+
+    const winner = battleOverWinner();
+    if (winner) {
+      finishBattle(winner === "player");
+      return;
+    }
+
+    maybeAutoFoeSwitch();
+    const you = battle.playerParty[battle.activeIndex];
+    if (!you || you.fainted) {
+      const next = firstLivingIndex(battle.playerParty, battle.activeIndex);
+      if (next < 0) {
+        finishBattle(false);
+        return;
+      }
+      battle.phase = "faint-switch";
+      battle.pendingAction = null;
+      battle.turnNumber += 1;
+      renderBattle();
+      return;
+    }
+
+    battle.pendingAction = null;
+    battle.phase = "pick";
+    battle.turnNumber += 1;
+    renderBattle();
+  }
+
+  function choosePlayerSwitch(index, { free } = {}) {
+    const mon = battle.playerParty[index];
+    if (!mon || mon.fainted || index === battle.activeIndex) return;
+    if (free) {
+      const prev = battle.playerParty[battle.activeIndex];
+      battle.activeIndex = index;
+      pushLog(`You sent out ${displayFighterName(mon)}${prev && prev.fainted ? " (free switch)" : ""}.`);
+      battle.phase = "pick";
+      battle.pendingAction = null;
+      renderBattle();
+      return;
+    }
+    battle.pendingAction = { type: "switch", index };
+    battle.phase = "resolve";
+    renderBattle();
+    setTimeout(() => resolveLockedTurn(), 280);
+  }
+
+  function choosePlayerMove(moveId) {
+    const player = battle.playerParty[battle.activeIndex];
+    if (!player || battle.phase !== "pick") return;
+    const move = moveById(moveId) || ((player.moves || []).includes(moveId) ? moveById(moveId) : null);
+    if (!move) return;
+    battle.pendingAction = { type: "move", move };
+    battle.phase = "resolve";
+    renderBattle();
+    setTimeout(() => resolveLockedTurn(), 280);
+  }
+
+  function renderFight() {
+    const root = $("#battle-flow");
+    const hab = HABITATS.find((h) => h.id === battle.habitat) || HABITATS[0];
+    const you = battle.playerParty[battle.activeIndex] || battle.playerParty[0];
+    const foe = battle.foeParty[battle.foeActiveIndex] || battle.foeParty[0];
+    const phase = battle.phase || "pick";
+    const switching = phase === "faint-switch" || phase === "switch-pick";
+    const picking = phase === "pick";
+    let turnText = "Your turn — pick a move";
+    let turnClass = "is-yours";
+    if (phase === "resolve") {
+      turnText = "Resolving… faster Speed goes first";
+      turnClass = "is-resolve";
+    } else if (phase === "faint-switch") {
+      turnText = "Faint! Choose a replacement (free switch)";
+      turnClass = "is-faint";
+    } else if (phase === "switch-pick") {
+      turnText = "Switch — this uses your turn";
+      turnClass = "is-switch";
+    }
+
+    function hpBlock(f) {
+      if (!f) return "";
+      const max = f.maxHp || 1;
+      const hp = Math.max(0, f.hp || 0);
+      const pct = Math.max(0, Math.min(100, Math.round((hp / max) * 100)));
+      const tone = pct <= 20 ? "is-low" : pct <= 50 ? "is-mid" : "";
+      return `
+        <div class="hp-block">
+          <div class="hp-bar" role="meter" aria-label="HP ${hp} of ${max}" aria-valuemin="0" aria-valuemax="${max}" aria-valuenow="${hp}">
+            <div class="hp-fill ${tone}" style="width:${pct}%"></div>
+          </div>
+          <span class="hp-text">HP ${hp}/${max}</span>
+        </div>`;
+    }
+
+    function sideRow(f, who) {
+      const name = displayFighterName(f || {});
+      const lv = (f && f.level) || 1;
+      const types = ((f && f.types) || [])
+        .map((t) => `<span class="type-chip">${escapeHtml(t)}</span>`)
+        .join("");
+      return `
+        <div class="fight-side is-${who}">
+          ${who === "you" ? fighterThumb(f || {}) : ""}
+          <div class="fight-meta">
+            <div class="fight-name-row">
+              <strong>${escapeHtml(name)}</strong>
+              <span class="lv-pill">Lv ${lv}</span>
+            </div>
+            <div class="type-chips">${types}</div>
+            ${hpBlock(f)}
+          </div>
+          ${who === "foe" ? fighterThumb(f || {}) : ""}
+        </div>`;
+    }
+
+    const moves = ((you && you.moves) || []).map((id) => moveById(id)).filter(Boolean);
+    const tray = moves.length
+      ? moves
+          .map((mv) => {
+            const kind = mv.kind === "status" ? " · status" : "";
+            return `<button type="button" class="move-tray-btn" data-move="${escapeHtml(mv.id)}" ${picking ? "" : "disabled"}>
+              <span class="move-name">${escapeHtml(mv.name)}</span>
+              <span class="move-meta">${escapeHtml(mv.type)} · PWR ${mv.power}${kind}</span>
+            </button>`;
+          })
+          .join("")
+      : `<p class="muted small">No moves on this fighter</p>`;
+
+    const bench = battle.playerParty
+      .map((f, i) => {
+        const alive = f && !f.fainted;
+        const active = i === battle.activeIndex;
+        const name = displayFighterName(f || {});
+        return `<button type="button" class="bench-chip ${active ? "is-active" : ""} ${alive ? "" : "is-faint"}" data-switch="${i}" ${!alive || active ? "disabled" : ""}>
+          ${fighterThumb(f || {})}
+          <span>${escapeHtml(name)}${alive ? "" : " · fainted"}</span>
+        </button>`;
+      })
+      .join("");
+
+    const log = (battle.turnLog || [])
+      .slice()
+      .reverse()
+      .map((line) => `<li>${escapeHtml(line)}</li>`)
+      .join("");
+
+    const switchPanel = switching
+      ? `<div class="switch-panel" role="region" aria-label="Choose a replacement">
+          <p class="muted small">${phase === "faint-switch" ? "Free switch — pick a remaining party member." : "Switch uses this turn."}</p>
+          <div class="switch-grid">${bench}</div>
+          ${phase === "switch-pick" ? `<button type="button" class="text-link" id="btn-switch-cancel">Cancel switch</button>` : ""}
+        </div>`
+      : "";
+
+    root.innerHTML = `
+      <div class="battle-layout fight-layout">
+        <div class="battle-scroll">
+          <div class="habitat-banner"><span>${hab.icon} ${escapeHtml(hab.label)} field</span><span>+15% BP on affinity</span></div>
+          <p class="turn-banner ${turnClass}" role="status">${escapeHtml(turnText)}</p>
+          <div class="fight-stage">
+            ${sideRow(foe, "foe")}
+            ${sideRow(you, "you")}
+          </div>
+          ${switchPanel}
+          <ol class="turn-log" aria-label="Turn log">${log || "<li class='muted'>Waiting for the first move…</li>"}</ol>
+        </div>
+        <div class="battle-sticky fight-tray-wrap">
+          <div class="move-tray" role="group" aria-label="Choose a move">
+            ${tray}
+          </div>
+          <button type="button" class="btn btn-secondary btn-block" id="btn-fight-switch" ${picking ? "" : "disabled"}>Switch</button>
+          <button type="button" class="text-link" id="btn-fight-forfeit">Forfeit</button>
+        </div>
+      </div>`;
+
+    root.querySelectorAll("[data-move]").forEach((btn) => {
+      btn.addEventListener("click", () => choosePlayerMove(btn.dataset.move));
+    });
+    $("#btn-fight-switch")?.addEventListener("click", () => {
+      if (battle.phase !== "pick") return;
+      battle.phase = "switch-pick";
+      renderBattle();
+    });
+    $("#btn-switch-cancel")?.addEventListener("click", () => {
+      if (battle.phase === "switch-pick") {
+        battle.phase = "pick";
+        renderBattle();
+      }
+    });
+    root.querySelectorAll("[data-switch]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const idx = Number(btn.dataset.switch);
+        choosePlayerSwitch(idx, { free: battle.phase === "faint-switch" });
+      });
+    });
+    $("#btn-fight-forfeit")?.addEventListener("click", () => {
+      pushLog("You forfeited.");
+      finishBattle(false, { forfeit: true });
+    });
+  }
+
 
   function renderBattle() {
     const root = $("#battle-flow");
@@ -2491,6 +3023,7 @@
           if (i._demoMirror && i.habitat === battle.habitat) i.status = "accepted";
         });
         saveState();
+        battle.isChallenger = true;
         battle.partyIds = [];
         battle.step = "party";
         renderBattle();
@@ -2528,6 +3061,7 @@
           renderBattle();
           return;
         }
+        battle.isChallenger = true;
         battle.partyIds = [];
         battle.step = "party";
         renderBattle();
@@ -2597,51 +3131,25 @@
         if (battle.partyIds.length !== 3) return;
         const rosterNow = collectAnimalRoster();
         const party = battle.partyIds.map((id) => rosterNow.find((r) => r.id === id)).filter(Boolean);
+        if (party.length !== 3) {
+          showToast("Pick 3 animal fighters");
+          return;
+        }
         let foePool = rosterNow.filter((r) => !battle.partyIds.includes(r.id));
         if (foePool.length < 3) foePool = rosterNow.slice();
-        battle.foeParty = pickFoeParty(foePool);
-        const score = scoreParty(party, battle.foeParty, battle.habitat);
-        const won = score >= 0;
-        let ratingDelta = 0;
-        if (battle.mode === "ranked") {
-          ratingDelta = won ? 18 : -14;
-          state.rating = (state.rating || 1000) + ratingDelta;
-          saveState();
+        const foeParty = pickFoeParty(foePool);
+        if (foeParty.length < 1) {
+          showToast("Need a foe party to battle");
+          return;
         }
-        const xpOut = applyBattleXpToSlots(battle.partyIds, won);
-        saveState();
-        battle.lastResult = {
-          won,
-          score,
-          ratingDelta,
-          party,
-          foe: battle.foeParty,
-          opponent: battle.opponent,
-          opponentRating: battle.opponentRating,
-          fighterXp: xpOut.gain,
-          leveled: xpOut.leveled,
-        };
-        battle.step = "resolving";
+        startTurnBattle(party, foeParty);
         renderBattle();
-        setTimeout(() => {
-          if (battle.step !== "resolving") return;
-          battle.step = "results";
-          renderBattle();
-          if (xpOut.leveled.length) {
-            showToast(xpOut.leveled.map((x) => `Level up → Lv ${x.level}`).join(" · "));
-          }
-        }, 900);
       });
       return;
     }
 
-    if (battle.step === "resolving") {
-      root.innerHTML = `
-        <div class="resolve-beat" role="status">
-          <p class="resolve-title">Battling…</p>
-          <p class="muted">Habitat buffs · type matchups resolving</p>
-          <div class="matchmake-pulse" aria-hidden="true"></div>
-        </div>`;
+    if (battle.step === "fight") {
+      renderFight();
       return;
     }
 
@@ -2712,9 +3220,11 @@
             <div class="results-card">
               <h3>${res.won ? "Victory" : "Defeat"}</h3>
               <p class="muted">${
-                battle.mode === "ranked"
-                  ? `Ranked Elo ${res.ratingDelta >= 0 ? "+" : ""}${res.ratingDelta} → ${state.rating}`
-                  : "Casual · Elo unchanged"
+                res.forfeit
+                  ? "Forfeit · no battle XP"
+                  : battle.mode === "ranked"
+                    ? `Ranked Elo ${res.ratingDelta >= 0 ? "+" : ""}${res.ratingDelta} → ${state.rating}`
+                    : "Casual · Elo unchanged"
               }</p>
               <p class="muted small">Fighters +${res.fighterXp || 0} battle XP each${
                 res.leveled && res.leveled.length
