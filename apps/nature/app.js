@@ -1293,13 +1293,14 @@
   function bindConfirm() {
     const placeInput = $("#confirm-place-input");
     if (placeInput) {
-      const onPlace = () => {
-        writePendingPlace(placeInput.value);
-        if (pendingSighting) paintConfirmPlace(pendingSighting);
+      const syncPlaceFromInput = ({ trimEnds }) => {
+        writePendingPlace(placeInput.value, { trimEnds });
+        if (trimEnds) placeInput.value = (placeInput.value || "").trim();
+        if (pendingSighting) paintConfirmPlace(pendingSighting, { syncInput: false });
         syncConfirmButton(pendingSighting && pendingSighting.sampleMeta);
       };
-      placeInput.addEventListener("input", onPlace);
-      placeInput.addEventListener("change", onPlace);
+      placeInput.addEventListener("input", () => syncPlaceFromInput({ trimEnds: false }));
+      placeInput.addEventListener("change", () => syncPlaceFromInput({ trimEnds: true }));
     }
     $("#btn-confirm").addEventListener("click", () => {
       if ($("#btn-confirm")?.disabled) return;
@@ -1491,13 +1492,13 @@
   }
 
   function readConfirmPlace() {
-    const typed = ($("#confirm-place-input") && $("#confirm-place-input").value.trim()) || "";
+    const typed = ($("#confirm-place-input") && $("#confirm-place-input").value) || "";
     const pending = (pendingSighting && pendingSighting.place && pendingSighting.place.label) || "";
-    return typed || pending;
+    return (typed || pending).trim();
   }
 
-  function writePendingPlace(label) {
-    const value = (label || "").trim();
+  function writePendingPlace(label, { trimEnds = false } = {}) {
+    const value = trimEnds ? (label || "").trim() : (label || "");
     if (pendingSighting) {
       pendingSighting.place = {
         ...(pendingSighting.place || {}),
@@ -1508,7 +1509,7 @@
       };
     }
     const cap = $("#place-label");
-    if (cap && cap.value.trim() !== value) cap.value = value;
+    if (cap && cap.value !== value) cap.value = value;
   }
 
   function focusConfirmPlaceIfEmpty() {
@@ -1523,15 +1524,18 @@
     }
   }
 
-  function paintConfirmPlace(s) {
+  function paintConfirmPlace(s, { syncInput = true } = {}) {
     const input = $("#confirm-place-input");
     const placeEl = $("#confirm-place");
     const label = (s && s.place && s.place.label) || "";
-    if (input && input.value !== label) input.value = label;
+    if (syncInput && input && input !== document.activeElement && input.value !== label) {
+      input.value = label;
+    }
     if (!placeEl) return;
+    const shown = label.trim();
     const whenLabel = s && s.observedAt ? formatWhen(s.observedAt) : "";
-    if (label && whenLabel) placeEl.textContent = `${label} · ${whenLabel}`;
-    else if (label) placeEl.textContent = label;
+    if (shown && whenLabel) placeEl.textContent = `${shown} · ${whenLabel}`;
+    else if (shown) placeEl.textContent = shown;
     else if (whenLabel) placeEl.textContent = whenLabel;
     else placeEl.textContent = "";
   }
@@ -1678,7 +1682,7 @@
 
   function commitSighting(status) {
     if (!pendingSighting) return;
-    writePendingPlace(readConfirmPlace());
+    writePendingPlace(readConfirmPlace(), { trimEnds: true });
     if (!readConfirmPlace()) {
       showToast("Add where you saw it");
       $("#confirm-place-input")?.focus();
