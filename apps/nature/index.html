@@ -79,7 +79,7 @@
         <div class="panel is-active" id="panel-capture" data-panel="capture" role="tabpanel">
           <header class="panel-head">
             <h2>Log a sighting</h2>
-            <p class="muted">Photo + place + time → Identify (sample ID)</p>
+            <p class="muted" id="capture-identify-hint">Photo + place + time → Identify (sample ID)</p>
           </header>
           <form id="capture-form" class="capture-form">
             <div class="photo-drop is-empty" id="photo-drop" tabindex="0" role="button" aria-label="Add photo">
@@ -131,7 +131,7 @@
         <!-- CONFIRM -->
         <div class="panel" id="panel-confirm" data-panel="confirm" role="tabpanel" hidden>
           <header class="panel-head">
-            <p class="sample-banner">Sample ID — not a real species determination</p>
+            <p class="sample-banner is-sample" id="confirm-id-banner" role="status">Sample ID — not a real species determination</p>
             <h2>Confirm sighting</h2>
           </header>
           <article class="confirm-card is-provisional" id="confirm-card">
@@ -157,6 +157,10 @@
                 <div>
                   <dt>Habitat</dt>
                   <dd id="confirm-habitat">—</dd>
+                </div>
+                <div class="fact-span" id="confirm-affinity-wrap" hidden>
+                  <dt>Habitat affinity</dt>
+                  <dd id="confirm-affinity" class="affinity-chips" aria-label="Habitat affinity"></dd>
                 </div>
                 <div>
                   <dt>Season</dt>

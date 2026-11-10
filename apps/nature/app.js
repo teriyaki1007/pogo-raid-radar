@@ -358,6 +358,7 @@
       habitatAffinity: normalizeHabitatAffinity(c.habitatAffinity),
     }));
     await loadIdentifyPackages();
+    syncCaptureIdentifyCopy();
     SLOT_COUNT = catalogue.meta?.slotCount == null || catalogue.meta?.slotCount === 0
       ? Infinity
       : Number(catalogue.meta.slotCount) || Infinity;
@@ -1245,6 +1246,63 @@
     return h ? `${h.icon} ${h.label}` : id || "—";
   }
 
+  function affinityChipsHtml(raw) {
+    const ids = normalizeHabitatAffinity(raw);
+    if (!ids.length) return "";
+    return ids
+      .map((id) => {
+        const h = HABITATS.find((x) => x.id === id);
+        const label = h ? h.label : id;
+        const icon = h ? h.icon : "";
+        return `<span class="chip affinity-chip">${icon ? `${icon} ` : ""}${escapeHtml(label)}</span>`;
+      })
+      .join("");
+  }
+
+  function renderConfirmAffinity(m) {
+    const wrap = $("#confirm-affinity-wrap");
+    const dd = $("#confirm-affinity");
+    const html = affinityChipsHtml(m && m.habitatAffinity);
+    if (dd) dd.innerHTML = html;
+    if (wrap) wrap.hidden = !html;
+  }
+
+  function affinityDetailHtml(m) {
+    const html = affinityChipsHtml(m && m.habitatAffinity);
+    if (!html) return "";
+    return `<div class="fact-span"><dt>Habitat affinity</dt><dd class="affinity-chips" aria-label="Habitat affinity">${html}</dd></div>`;
+  }
+
+  /** Swap SAMPLE vs Species Guide provisional framing on Confirm / Detail banners. */
+  function syncIdBanner(el, card, variant) {
+    if (!el) return;
+    const guide = isGuideCard(card);
+    if (guide) {
+      el.textContent =
+        variant === "detail"
+          ? "Species Guide provisional — not authoritative"
+          : "Species Guide provisional — awaiting your confirm";
+      el.classList.add("is-guide");
+      el.classList.remove("is-sample");
+    } else {
+      el.textContent =
+        variant === "detail"
+          ? "Sample ID — not authoritative"
+          : "Sample ID — not a real species determination";
+      el.classList.add("is-sample");
+      el.classList.remove("is-guide");
+    }
+  }
+
+  function syncCaptureIdentifyCopy() {
+    const el = $("#capture-identify-hint");
+    if (!el) return;
+    const hasGuide = speciesCards.some((c) => c.guideOwned || c._guideOwned);
+    el.textContent = hasGuide
+      ? "Photo + place + time → Identify (Species Guide)"
+      : "Photo + place + time → Identify (sample ID)";
+  }
+
   function fighterTypesFromMeta(m) {
     const seed = DEMO_FIGHTERS.find((d) => d.id === (m && m.id));
     return (m && m.types) || (seed && seed.types) || [];
@@ -1344,11 +1402,13 @@
     $("#confirm-size").textContent = m.averageSize;
     $("#confirm-range").textContent = m.nativeRange || m.originRange || "—";
     $("#confirm-habitat").textContent = m.habitat;
+    renderConfirmAffinity(m);
     $("#confirm-season").textContent = cardSeason(m);
     renderPopulationFields(m);
     renderConfirmMoves(s, m);
     $("#confirm-place").textContent = `${s.place.label} · ${formatWhen(s.observedAt)}`;
     renderLookalikesQuiet($("#confirm-lookalikes"), m.lookalikes);
+    syncIdBanner($("#confirm-id-banner"), m, "confirm");
     const disc = $("#confirm-disclaimer");
     if (disc) {
       if (isGuideCard(m)) {
@@ -1647,7 +1707,7 @@
   }
 
   function openDetail(slot) {
-    const sample = findCard(slot.taxonId) || {
+    const base = findCard(slot.taxonId) || {
       commonName: "SAMPLE: Unknown",
       scientificName: "—",
       averageSize: "—",
@@ -1659,6 +1719,20 @@
       emoji: "❓",
     };
     const sight = state.sightings.find((x) => x.id === slot.sightingId);
+    const meta = sight?.sampleMeta || {};
+    const sample = {
+      ...base,
+      ...meta,
+      // Prefer live Guide catalogue fields for ownership + affinity display
+      guideOwned: !!(base.guideOwned || base._guideOwned || meta.guideOwned || meta._guideOwned),
+      habitatAffinity: normalizeHabitatAffinity(
+        base.habitatAffinity || meta.habitatAffinity || sight?.habitatAffinity || []
+      ),
+      commonName: base.commonName || meta.commonName,
+      scientificName: base.scientificName || meta.scientificName,
+      habitat: base.habitat || meta.habitat,
+      lookalikes: (base.lookalikes && base.lookalikes.length ? base.lookalikes : meta.lookalikes) || [],
+    };
     const conf = sight?.idConfidence || (slot.status === "uncertain" ? "unsure" : "likely");
     $("#detail-title").textContent = sample.commonName;
 
@@ -1681,11 +1755,16 @@
           </div>
           <span class="confidence-badge" data-level="${conf}">${conf}</span>
         </div>
-        <p class="sample-banner" style="margin-top:10px">Sample ID — not authoritative</p>
+        <p class="sample-banner ${isGuideCard(sample) ? "is-guide" : "is-sample"}" id="detail-id-banner" role="status" style="margin-top:10px">${
+          isGuideCard(sample)
+            ? "Species Guide provisional — not authoritative"
+            : "Sample ID — not authoritative"
+        }</p>
         <dl class="fact-grid">
           <div><dt>Avg. size</dt><dd>${escapeHtml(sample.averageSize || "—")}</dd></div>
           <div><dt>Native range</dt><dd>${escapeHtml(sample.nativeRange || sample.originRange || "—")}</dd></div>
           <div><dt>Habitat</dt><dd>${escapeHtml(sample.habitat || "—")}</dd></div>
+          ${affinityDetailHtml(sample)}
           <div><dt>Season</dt><dd>${escapeHtml(cardSeason(sample))}</dd></div>
           ${populationDetailHtml(sample)}
           ${

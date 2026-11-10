@@ -597,6 +597,33 @@ p {
   text-align: center;
 }
 
+/* Guide provisional framing — not SAMPLE yellow */
+.sample-banner.is-guide {
+  background: #d7e8df;
+  color: #1f4d38;
+}
+
+.affinity-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0;
+}
+
+.affinity-chips .chip,
+.chip.affinity-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 5px 10px;
+  border-radius: 999px;
+  background: var(--mint-200, #e5f3ea);
+  color: var(--forest-800, #1f4d38);
+  border: 1px solid #b7d4c2;
+}
+
 /* —— Capture —— */
 .capture-form {
   display: flex;
