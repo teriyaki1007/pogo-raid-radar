@@ -796,13 +796,7 @@
             observedAt.value = exifWhen.slice(0, 16);
             if (pendingSighting && pendingSighting.id === sightingId && observedAt.value) {
               pendingSighting.observedAt = new Date(observedAt.value).toISOString();
-              const placeEl = $("#confirm-place");
-              if (placeEl && pendingSighting) {
-                const label = pendingSighting.place && pendingSighting.place.label;
-                placeEl.textContent = label
-                  ? `${label} · ${formatWhen(pendingSighting.observedAt)}`
-                  : formatWhen(pendingSighting.observedAt);
-              }
+              paintConfirmPlace(pendingSighting);
             }
           }
         }
@@ -1105,6 +1099,7 @@
       }
       renderConfirm(pendingSighting);
       showPanel("confirm");
+      focusConfirmPlaceIfEmpty();
       return;
     }
 
@@ -1131,6 +1126,7 @@
     };
     renderConfirm(pendingSighting);
     showPanel("confirm");
+    focusConfirmPlaceIfEmpty();
     startGuidePoll(packageId);
   }
 
@@ -1295,8 +1291,23 @@
   }
 
   function bindConfirm() {
+    const placeInput = $("#confirm-place-input");
+    if (placeInput) {
+      const onPlace = () => {
+        writePendingPlace(placeInput.value);
+        if (pendingSighting) paintConfirmPlace(pendingSighting);
+        syncConfirmButton(pendingSighting && pendingSighting.sampleMeta);
+      };
+      placeInput.addEventListener("input", onPlace);
+      placeInput.addEventListener("change", onPlace);
+    }
     $("#btn-confirm").addEventListener("click", () => {
       if ($("#btn-confirm")?.disabled) return;
+      if (!readConfirmPlace()) {
+        showToast("Add where you saw it");
+        placeInput?.focus();
+        return;
+      }
       commitSighting("confirmed");
     });
     $("#btn-unsure").addEventListener("click", () => {
@@ -1479,16 +1490,65 @@
     return learnsetForTypes(fighterTypesFromMeta(m || {}));
   }
 
+  function readConfirmPlace() {
+    const typed = ($("#confirm-place-input") && $("#confirm-place-input").value.trim()) || "";
+    const pending = (pendingSighting && pendingSighting.place && pendingSighting.place.label) || "";
+    return typed || pending;
+  }
+
+  function writePendingPlace(label) {
+    const value = (label || "").trim();
+    if (pendingSighting) {
+      pendingSighting.place = {
+        ...(pendingSighting.place || {}),
+        label: value,
+        lat: (pendingSighting.place && pendingSighting.place.lat) || null,
+        lng: (pendingSighting.place && pendingSighting.place.lng) || null,
+        precision: "label-only",
+      };
+    }
+    const cap = $("#place-label");
+    if (cap && cap.value.trim() !== value) cap.value = value;
+  }
+
+  function focusConfirmPlaceIfEmpty() {
+    const input = $("#confirm-place-input");
+    if (input && !input.value.trim()) {
+      // Don't steal focus if the user is mid-type; first paint only.
+      setTimeout(() => {
+        if (input && !input.value.trim() && $("#panel-confirm") && !$("#panel-confirm").hidden) {
+          input.focus({ preventScroll: false });
+        }
+      }, 0);
+    }
+  }
+
+  function paintConfirmPlace(s) {
+    const input = $("#confirm-place-input");
+    const placeEl = $("#confirm-place");
+    const label = (s && s.place && s.place.label) || "";
+    if (input && input.value !== label) input.value = label;
+    if (!placeEl) return;
+    const whenLabel = s && s.observedAt ? formatWhen(s.observedAt) : "";
+    if (label && whenLabel) placeEl.textContent = `${label} · ${whenLabel}`;
+    else if (label) placeEl.textContent = label;
+    else if (whenLabel) placeEl.textContent = whenLabel;
+    else placeEl.textContent = "";
+  }
+
   function syncConfirmButton(m) {
     const btn = $("#btn-confirm");
     if (!btn) return;
     const combat = isCombatAnimal(m) || usesProvisionalMoves(m);
     const learn = confirmMoveLearnset(m);
     const need = combat ? Math.min(MOVE_SLOTS, Math.max(0, learn.length)) || MOVE_SLOTS : 0;
-    const ready = !combat || (need > 0 && pendingMoves.length === need);
+    const hasPlace = !!readConfirmPlace();
+    const ready = (!combat || (need > 0 && pendingMoves.length === need)) && hasPlace;
     btn.disabled = !ready;
     btn.setAttribute("aria-disabled", ready ? "false" : "true");
-    if (!ready && combat) {
+    if (!hasPlace) {
+      btn.title = "Add where you saw it";
+    } else if (!((!combat || (need > 0 && pendingMoves.length === need)))) {
       btn.title = isSlimIdentifying(m)
         ? `Pick ${need} moves to collect this provisional card`
         : `Pick ${need} moves to confirm`;
@@ -1582,9 +1642,7 @@
       if (pop && !(m.populationEstimate || "").trim()) setFactText(pop, "", { skeleton: true });
     }
     renderConfirmMoves(s, m);
-    const placeLabel = (s.place && s.place.label) || "";
-    const whenLabel = formatWhen(s.observedAt);
-    $("#confirm-place").textContent = placeLabel ? `${placeLabel} · ${whenLabel}` : whenLabel;
+    paintConfirmPlace(s);
     renderLookalikesQuiet($("#confirm-lookalikes"), m.lookalikes);
     syncIdBanner($("#confirm-id-banner"), m, "confirm");
     const disc = $("#confirm-disclaimer");
@@ -1620,6 +1678,12 @@
 
   function commitSighting(status) {
     if (!pendingSighting) return;
+    writePendingPlace(readConfirmPlace());
+    if (!readConfirmPlace()) {
+      showToast("Add where you saw it");
+      $("#confirm-place-input")?.focus();
+      return;
+    }
     const s = { ...pendingSighting, confirmed: true, status };
     if (s.sampleMeta) {
       s.sampleMeta = {

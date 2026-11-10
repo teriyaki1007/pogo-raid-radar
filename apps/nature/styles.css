@@ -986,6 +986,21 @@ p {
   margin-bottom: 2px;
 }
 
+.confirm-place-field {
+  margin: 12px 0 6px;
+}
+
+.confirm-place-field > span {
+  display: block;
+  font-size: 0.75rem;
+  font-weight: 650;
+  margin-bottom: 4px;
+}
+
+.place-logged:empty {
+  display: none;
+}
+
 .place-logged {
   font-size: 0.8125rem;
   color: var(--forest-700);

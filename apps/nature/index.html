@@ -7,7 +7,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="styles.css?v=prov-collect1" />
+  <link rel="stylesheet" href="styles.css?v=place-prompt1" />
 </head>
 <body>
   <div class="app-shell" id="app">
@@ -179,6 +179,10 @@
                 <p class="muted small" id="confirm-move-count">0 selected</p>
               </div>
               <div class="lookalikes quiet" id="confirm-lookalikes"></div>
+              <label class="field confirm-place-field">
+                <span>Where did you see it?</span>
+                <input type="text" id="confirm-place-input" placeholder="e.g. Coastal path near pier" required autocomplete="off" />
+              </label>
               <p class="place-logged" id="confirm-place"></p>
               <p class="muted small" id="confirm-disclaimer">Facts above are SAMPLE placeholders for the prototype.</p>
             </div>
@@ -280,7 +284,7 @@
     <!-- TOAST -->
     <div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
   </div>
-  <script src="api.js?v=prov-collect1"></script>
-  <script src="app.js?v=prov-collect1"></script>
+  <script src="api.js?v=place-prompt1"></script>
+  <script src="app.js?v=place-prompt1"></script>
 </body>
 </html>
