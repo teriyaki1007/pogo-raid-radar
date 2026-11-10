@@ -1,10 +1,11 @@
 /**
  * Project Nature — /nature/ demo mount (v0.1 UI + demo JSON)
  * Loads shared speciesCards from data/catalogue-demo.json.
+ * Loads Species Guide Identify packages from data/identify/<id>/species-card.json
+ * (meta.identifyPackages / identifyDemoPackage). Guide-owned cards preferred over SAMPLE.
  * Prefers /nature/api/* (D1+R2) when bound; falls back to localStorage.
- * SAMPLE facts only — Species Guide owns real packs later.
  * Design Critique v0.1 pass applied (UI clear for demo wire).
- * LIVE Pages publish intentionally held — not in package.json build / landing.
+ * Soft-gated live at /nature/ (preview cookie) until CF auth E2E.
  */
 (function () {
   "use strict";
@@ -356,6 +357,7 @@
       ...c,
       habitatAffinity: normalizeHabitatAffinity(c.habitatAffinity),
     }));
+    await loadIdentifyPackages();
     SLOT_COUNT = catalogue.meta?.slotCount == null || catalogue.meta?.slotCount === 0
       ? Infinity
       : Number(catalogue.meta.slotCount) || Infinity;
@@ -784,6 +786,80 @@
     return card.seasonality || card.season || "—";
   }
 
+  /**
+   * Load Species Guide Identify packages bundled under data/identify/<id>/.
+   * Merges Guide fields onto speciesCards with guideOwned:true.
+   * Combat types/bp/rarity/emoji stay from catalogue when present; otherwise interim stubs
+   * (Catalogue owns combat — mark combatInterim for retune).
+   * identifyDemoPackage in catalogue.meta (e.g. "demo-001") drives the demo photo→card path:
+   * when the user Identifies any uploaded photo, pickCardFromVisual prefers that Guide card
+   * if visual leans animal/urban/tree or SAMPLE match is weak.
+   */
+  const GUIDE_COMBAT_INTERIM = {
+    animal: { types: ["Sky", "Meadow"], bp: 135, rarity: "common", emoji: "🐦" },
+    plant: { types: ["Forest"], bp: 0, rarity: "common", emoji: "🌿" },
+    other: { types: [], bp: 0, rarity: "common", emoji: "🌿" },
+  };
+
+  function mapGuideConfidence(card) {
+    const g = String(card?.idConfidence || "").toLowerCase();
+    if (g === "high" || g === "medium") return "likely";
+    if (g === "low") return "unsure";
+    if (g === "likely" || g === "unsure" || g === "unknown" || g === "confirmed") return g;
+    return "likely";
+  }
+
+  function isGuideCard(card) {
+    if (!card) return false;
+    if (card.guideOwned || card._guideOwned) return true;
+    if (card.provisional && card.packageId) return true;
+    const name = String(card.commonName || "");
+    return !/^SAMPLE:\s*/i.test(name) && !!card.scientificName && card.idTier;
+  }
+
+  async function loadIdentifyPackages() {
+    const listed = Array.isArray(catalogue?.meta?.identifyPackages)
+      ? catalogue.meta.identifyPackages.slice()
+      : [];
+    const demo = catalogue?.meta?.identifyDemoPackage;
+    if (demo && !listed.includes(demo)) listed.push(demo);
+    if (!listed.length) listed.push("demo-001");
+
+    for (const pkgId of listed) {
+      try {
+        const res = await fetch(`data/identify/${encodeURIComponent(pkgId)}/species-card.json`);
+        if (!res.ok) continue;
+        const guide = await res.json();
+        if (!guide || !guide.id) continue;
+        const existingIdx = speciesCards.findIndex((c) => c.id === guide.id);
+        const existing = existingIdx >= 0 ? speciesCards[existingIdx] : null;
+        const stub = GUIDE_COMBAT_INTERIM[guide.kind] || GUIDE_COMBAT_INTERIM.other;
+        const merged = {
+          ...(existing || {}),
+          ...guide,
+          habitatAffinity: normalizeHabitatAffinity(guide.habitatAffinity),
+          guideOwned: true,
+          packageId: guide.packageId || pkgId,
+          types: (existing && existing.types && existing.types.length ? existing.types : null) || stub.types,
+          bp: existing && existing.bp != null ? existing.bp : stub.bp,
+          rarity: (existing && existing.rarity) || stub.rarity,
+          emoji: (existing && existing.emoji) || stub.emoji,
+          combatInterim: existing && existing.combatInterim != null ? existing.combatInterim : true,
+        };
+        if (existingIdx >= 0) speciesCards[existingIdx] = merged;
+        else speciesCards.push(merged);
+        if (catalogue) {
+          if (!Array.isArray(catalogue.speciesCards)) catalogue.speciesCards = [];
+          const ci = catalogue.speciesCards.findIndex((c) => c.id === merged.id);
+          if (ci >= 0) catalogue.speciesCards[ci] = { ...catalogue.speciesCards[ci], ...merged };
+          else catalogue.speciesCards.push(merged);
+        }
+      } catch (err) {
+        console.warn("Identify package load failed", pkgId, err);
+      }
+    }
+  }
+
   function unknownCard(extra) {
     return {
       id: "demo-unknown",
@@ -805,33 +881,97 @@
   /** Score shared cards against a visual read of the uploaded photo (not random). */
   function scoreCardForVisual(card, visual) {
     let score = 0;
-    const hay = `${card.commonName || ""} ${card.habitat || ""} ${card.scientificName || ""} ${(card.lookalikes || []).join(" ")}`.toLowerCase();
+    const hay = `${card.commonName || ""} ${card.habitat || ""} ${card.scientificName || ""} ${(card.lookalikes || []).join(" ")} ${card.id || ""}`.toLowerCase();
     (visual.keywords || []).forEach((k) => {
       if (hay.includes(k)) score += 3;
     });
     const aff = normalizeHabitatAffinity(card.habitatAffinity);
     if (visual.habitatGuess && aff.includes(visual.habitatGuess)) score += 4;
     if (visual.kind === "plant" && /tree|plant|fung|moss|leaf|wood|redwood|agaric/.test(hay)) score += 2;
-    if (visual.kind === "animal" && /bird|fox|otter|butterfly|starfish|insect|robin|monarch|animal/.test(hay)) score += 2;
+    if (visual.kind === "animal" && /bird|fox|otter|butterfly|starfish|insect|robin|monarch|sparrow|passer|animal/.test(hay)) score += 2;
     if (visual.kind === "water" && /ocean|tide|star|fish|marine|water|wetland/.test(hay)) score += 2;
+    // Strongly prefer Species Guide packages over SAMPLE placeholders
+    if (card.guideOwned) {
+      score += 8;
+      const conf = String(card.idConfidence || "").toLowerCase();
+      if (conf === "high") score += 4;
+      else if (conf === "medium") score += 2;
+    }
     return score;
+  }
+
+  function wrapIdentifiedCard(best, visual, conf, score) {
+    const guide = isGuideCard(best);
+    return {
+      ...best,
+      _confidence: conf,
+      _fromPhoto: true,
+      _visualScore: score,
+      _guideOwned: guide,
+      habitat: best.habitat || visual.habitatLabel,
+      caution: guide
+        ? best.caution || "Species Guide provisional ID — Confirm to log."
+        : (best.caution ? `${best.caution} · ` : "") +
+          "Matched from your photo cues — Species Guide still owns final facts.",
+    };
   }
 
   function pickCardFromVisual(visual) {
     const pool = (speciesCards || []).filter((s) => s.id !== "demo-unknown");
     if (!pool.length) return unknownCard({ habitat: visual.habitatLabel || "As logged by observer" });
 
-    let best = null;
-    let bestScore = -1;
-    pool.forEach((c) => {
-      const s = scoreCardForVisual(c, visual);
-      if (s > bestScore) {
-        bestScore = s;
-        best = c;
+    const scored = pool.map((c) => ({ c, s: scoreCardForVisual(c, visual) }));
+    scored.sort((a, b) => b.s - a.s);
+
+    // Demo UX: meta.identifyDemoPackage (e.g. demo-001) — when user uploaded a photo,
+    // prefer that Guide card if visual leans animal/urban/tree OR SAMPLE match is weak.
+    const demoPkg = catalogue?.meta?.identifyDemoPackage;
+    if (demoPkg) {
+      const demo = pool.find((c) => c.guideOwned && (c.packageId === demoPkg || c.id === demoPkg));
+      if (demo) {
+        const sampleBest = Math.max(
+          0,
+          ...scored.filter((x) => !x.c.guideOwned).map((x) => x.s)
+        );
+        const aff = normalizeHabitatAffinity(demo.habitatAffinity);
+        const habitatHit = !!(visual.habitatGuess && aff.includes(visual.habitatGuess));
+        const animalish = visual.kind === "animal" || visual.kind === "unknown";
+        const urbanTree =
+          habitatHit ||
+          aff.includes("urban") ||
+          aff.includes("tree") ||
+          visual.habitatGuess === "urban" ||
+          visual.habitatGuess === "tree";
+        if ((animalish && urbanTree) || sampleBest < 6) {
+          const demoScore = scoreCardForVisual(demo, visual);
+          return wrapIdentifiedCard(demo, visual, mapGuideConfidence(demo), demoScore);
+        }
       }
-    });
+    }
+
+    let best = scored[0]?.c || null;
+    let bestScore = scored[0]?.s ?? -1;
+
+    // Prefer top guideOwned over SAMPLE even on ties / near-ties
+    const topGuide = scored.find((x) => x.c.guideOwned);
+    if (topGuide && (!best || !best.guideOwned || topGuide.s >= bestScore - 2)) {
+      best = topGuide.c;
+      bestScore = topGuide.s;
+    }
 
     if (!best || bestScore < 2) {
+      // Last resort: still surface high-confidence Guide demo card if any
+      const guideFallback = pool.find(
+        (c) => c.guideOwned && String(c.idConfidence || "").toLowerCase() === "high"
+      );
+      if (guideFallback) {
+        return wrapIdentifiedCard(
+          guideFallback,
+          visual,
+          mapGuideConfidence(guideFallback),
+          scoreCardForVisual(guideFallback, visual)
+        );
+      }
       return unknownCard({
         habitat: visual.habitatLabel || "As logged by observer",
         averageSize: visual.sizeHint || "Not measured from photo",
@@ -839,17 +979,14 @@
       });
     }
 
-    const conf = bestScore >= 6 ? "likely" : bestScore >= 3 ? "unsure" : "unknown";
-    return {
-      ...best,
-      _confidence: conf,
-      _fromPhoto: true,
-      _visualScore: bestScore,
-      habitat: best.habitat || visual.habitatLabel,
-      caution:
-        (best.caution ? `${best.caution} · ` : "") +
-        "Matched from your photo cues — Species Guide still owns final facts.",
-    };
+    const conf = isGuideCard(best)
+      ? mapGuideConfidence(best)
+      : bestScore >= 6
+        ? "likely"
+        : bestScore >= 3
+          ? "unsure"
+          : "unknown";
+    return wrapIdentifiedCard(best, visual, conf, bestScore);
   }
 
   function analyzePhotoDataUrl(dataUrl) {
@@ -1214,7 +1351,11 @@
     renderLookalikesQuiet($("#confirm-lookalikes"), m.lookalikes);
     const disc = $("#confirm-disclaimer");
     if (disc) {
-      if (s.fromPhoto || m._fromPhoto) {
+      if (isGuideCard(m)) {
+        disc.textContent = m.caution
+          ? `Species Guide provisional · Confirm to log · ${m.caution}`
+          : "Species Guide provisional · Confirm to log";
+      } else if (s.fromPhoto || m._fromPhoto) {
         disc.textContent = m.caution
           || "Generated from your photo cues — Species Guide confirms real taxon facts.";
       } else {

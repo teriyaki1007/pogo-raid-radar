@@ -1,0 +1,33 @@
+{
+  "packageId": "demo-001",
+  "provisional": true,
+  "id": "passer-montanus",
+  "taxonId": "passer-montanus",
+  "commonName": "Eurasian Tree Sparrow",
+  "scientificName": "Passer montanus",
+  "idTier": "species",
+  "idConfidence": "high",
+  "kind": "animal",
+  "averageSize": "~12.5–14 cm; ~18–28 g",
+  "nativeRange": "Native across much of Europe and Asia; common synanthrope in East Asia including Hong Kong; introduced populations elsewhere (e.g. parts of North America).",
+  "habitat": "Towns, villages, farmland edges, parks, and open woodland edges. Nests in cavities, buildings, and other human structures; often forages on bare or sparsely vegetated ground in flocks.",
+  "habitatAffinity": ["urban", "tree"],
+  "seasonality": "Year-round resident across most of its range, including Hong Kong / coastal South China; not a long-distance migrant.",
+  "lookalikes": [
+    "House Sparrow (Passer domesticus) — gray crown, no black cheek patch",
+    "Russet Sparrow (Passer cinnamomeus)",
+    "Juvenile / female sparrows at distance"
+  ],
+  "caution": "Wild bird — observe without handling or feeding bread; keep distance from nests.",
+  "populationEstimate": "215–305 million mature individuals globally (preliminary; may underestimate eastern densities)",
+  "populationSource": "BirdLife International / IUCN Red List 2025 (Passer montanus; Least Concern; estimate year 2011, data quality poor)",
+  "populationConfidence": "medium",
+  "sources": [
+    "BirdLife DataZone — Eurasian Tree Sparrow factsheet (population 215–305M mature individuals)",
+    "IUCN Red List — Passer montanus (2025 assessment, LC)",
+    "Photo diagnostics: brown crown + black cheek patches on white cheeks (vs House Sparrow)"
+  ],
+  "uncertaintyNotes": "Species ID high from diagnostic cheek patches in photo. Population figure is a global order-of-magnitude estimate (not a Hong Kong local count). habitatAffinity follows Guide v1 urban+tree for this synanthrope.",
+  "observedAt": "2026-11-10T08:15:00+08:00",
+  "placeLabel": "Hong Kong Island"
+}

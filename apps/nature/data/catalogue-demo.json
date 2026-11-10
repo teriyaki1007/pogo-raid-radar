@@ -1,9 +1,9 @@
 {
   "meta": {
     "demo": true,
-    "version": "0.1.0-demo",
-    "title": "Nature Catalogue \u2014 demo data",
-    "note": "SAMPLE / placeholder species facts only. Species Guide owns real fact packs later. Personal dex/sightings/XP stay per account; speciesCards are the shared store shape. Dex/sightings unbounded; battle party capped at 3.",
+    "version": "0.1.1-demo",
+    "title": "Nature Catalogue — demo data",
+    "note": "Species Guide owns real Identify cards (demo-001+). SAMPLE: prefixed cards remain placeholders until replaced. Personal dex/sightings/XP stay per account; speciesCards are the shared store shape. Dex/sightings unbounded; battle party capped at 3. Combat types/bp/rarity/emoji on Guide cards are Catalogue interim stubs pending retune.",
     "slotCount": null,
     "xp": {
       "confirm": 10,
@@ -14,14 +14,18 @@
     },
     "privacyDefault": "private",
     "publicProfiles": false,
-    "generatedAt": "2026-11-08T05:09:00.000Z"
+    "generatedAt": "2026-11-10T01:12:00.000Z",
+    "identifyDemoPackage": "demo-001",
+    "identifyPackages": [
+      "demo-001"
+    ]
   },
   "speciesCards": [
     {
       "id": "demo-european-robin",
       "commonName": "SAMPLE: European Robin",
       "scientificName": "Erithacus rubecula",
-      "averageSize": "~12.5\u201314 cm; ~16\u201322 g",
+      "averageSize": "~12.5–14 cm; ~16–22 g",
       "nativeRange": "Europe, western Russia, parts of North Africa / Middle East (demo summary)",
       "habitat": "Gardens, woodland edges, parks, hedgerows",
       "seasonality": "Year-round resident in much of range; more visible in winter gardens (demo)",
@@ -29,11 +33,11 @@
         "SAMPLE: Japanese Robin",
         "SAMPLE: Bluethroat (female/juvenile)"
       ],
-      "caution": "Demo card \u2014 not a field ID. Do not handle wild birds.",
+      "caution": "Demo card — not a field ID. Do not handle wild birds.",
       "sources": [
-        "DEMO PLACEHOLDER \u2014 replace with Species Guide sources"
+        "DEMO PLACEHOLDER — replace with Species Guide sources"
       ],
-      "emoji": "\ud83d\udc26",
+      "emoji": "🐦",
       "kind": "animal",
       "types": [
         "Sky",
@@ -45,7 +49,7 @@
         "urban",
         "tree"
       ],
-      "populationEstimate": "12\u201320 million mature individuals (Europe est.)",
+      "populationEstimate": "12–20 million mature individuals (Europe est.)",
       "populationSource": "IUCN / BirdLife (demo cite)",
       "populationConfidence": "medium"
     },
@@ -53,7 +57,7 @@
       "id": "demo-coast-redwood",
       "commonName": "SAMPLE: Coast Redwood",
       "scientificName": "Sequoia sempervirens",
-      "averageSize": "Typically 60\u2013100+ m tall in old growth (demo)",
+      "averageSize": "Typically 60–100+ m tall in old growth (demo)",
       "nativeRange": "Coastal California and southwest Oregon fog belt (demo summary)",
       "habitat": "Moist coastal forests, valleys with summer fog",
       "seasonality": "Evergreen; cones mature over multiple seasons (demo)",
@@ -61,11 +65,11 @@
         "SAMPLE: Giant Sequoia",
         "SAMPLE: Dawn Redwood"
       ],
-      "caution": "Demo card \u2014 not a field ID.",
+      "caution": "Demo card — not a field ID.",
       "sources": [
-        "DEMO PLACEHOLDER \u2014 replace with Species Guide sources"
+        "DEMO PLACEHOLDER — replace with Species Guide sources"
       ],
-      "emoji": "\ud83c\udf32",
+      "emoji": "🌲",
       "kind": "plant",
       "types": [
         "Forest"
@@ -75,7 +79,7 @@
       "habitatAffinity": [
         "tree"
       ],
-      "populationEstimate": "~200,000\u2013300,000 mature trees remaining (demo range)",
+      "populationEstimate": "~200,000–300,000 mature trees remaining (demo range)",
       "populationSource": "Save the Redwoods / demo cite",
       "populationConfidence": "medium"
     },
@@ -83,7 +87,7 @@
       "id": "demo-common-starfish",
       "commonName": "SAMPLE: Common Starfish",
       "scientificName": "Asterias rubens",
-      "averageSize": "Arms often ~10\u201330 cm across (demo)",
+      "averageSize": "Arms often ~10–30 cm across (demo)",
       "nativeRange": "Northeast Atlantic rocky shores (demo summary)",
       "habitat": "Intertidal and subtidal rocky bottoms, tide pools",
       "seasonality": "Visible year-round; easiest at low tide (demo)",
@@ -91,11 +95,11 @@
         "SAMPLE: Spiny starfish",
         "SAMPLE: Soft coral / anemone forms (distant)"
       ],
-      "caution": "Demo card \u2014 leave tidepool animals in place; do not pry from rocks.",
+      "caution": "Demo card — leave tidepool animals in place; do not pry from rocks.",
       "sources": [
-        "DEMO PLACEHOLDER \u2014 replace with Species Guide sources"
+        "DEMO PLACEHOLDER — replace with Species Guide sources"
       ],
-      "emoji": "\ud83c\udf0a",
+      "emoji": "🌊",
       "kind": "animal",
       "types": [
         "Ocean"
@@ -106,7 +110,7 @@
         "ocean",
         "wetland"
       ],
-      "populationEstimate": "Unknown \u2014 locally abundant; no global count",
+      "populationEstimate": "Unknown — locally abundant; no global count",
       "populationSource": "",
       "populationConfidence": "unknown"
     },
@@ -114,7 +118,7 @@
       "id": "demo-monarch",
       "commonName": "SAMPLE: Monarch Butterfly",
       "scientificName": "Danaus plexippus",
-      "averageSize": "Wingspan ~8.9\u201310.2 cm (demo)",
+      "averageSize": "Wingspan ~8.9–10.2 cm (demo)",
       "nativeRange": "Americas; migratory populations well known in N. America (demo summary)",
       "habitat": "Open fields, meadows, gardens with milkweed / nectar plants",
       "seasonality": "Warm months; migration pulses in fall/spring (demo)",
@@ -122,11 +126,11 @@
         "SAMPLE: Viceroy",
         "SAMPLE: Queen butterfly"
       ],
-      "caution": "Demo card \u2014 not a field ID. Caterpillars feed on milkweed (toxic to some predators).",
+      "caution": "Demo card — not a field ID. Caterpillars feed on milkweed (toxic to some predators).",
       "sources": [
-        "DEMO PLACEHOLDER \u2014 replace with Species Guide sources"
+        "DEMO PLACEHOLDER — replace with Species Guide sources"
       ],
-      "emoji": "\ud83e\udd8b",
+      "emoji": "🦋",
       "kind": "animal",
       "types": [
         "Bug",
@@ -145,7 +149,7 @@
       "id": "demo-fly-agaric",
       "commonName": "SAMPLE: Fly Agaric",
       "scientificName": "Amanita muscaria",
-      "averageSize": "Cap often ~8\u201320 cm across (demo)",
+      "averageSize": "Cap often ~8–20 cm across (demo)",
       "nativeRange": "Temperate Northern Hemisphere woodlands (demo summary)",
       "habitat": "Under birch, pine, spruce; forest floors and edges",
       "seasonality": "Late summer to autumn fruiting (demo)",
@@ -153,11 +157,11 @@
         "SAMPLE: Other Amanita species",
         "SAMPLE: Lookalike red-capped mushrooms"
       ],
-      "caution": "DEMO \u2014 TOXIC if eaten. Never eat wild fungi from an app ID. Species Guide must confirm before any real card.",
+      "caution": "DEMO — TOXIC if eaten. Never eat wild fungi from an app ID. Species Guide must confirm before any real card.",
       "sources": [
-        "DEMO PLACEHOLDER \u2014 replace with Species Guide sources"
+        "DEMO PLACEHOLDER — replace with Species Guide sources"
       ],
-      "emoji": "\ud83c\udf44",
+      "emoji": "🍄",
       "kind": "other",
       "types": [
         "Shadow",
@@ -173,23 +177,66 @@
       "populationConfidence": "unknown"
     },
     {
+      "id": "passer-montanus",
+      "taxonId": "passer-montanus",
+      "commonName": "Eurasian Tree Sparrow",
+      "scientificName": "Passer montanus",
+      "averageSize": "~12.5–14 cm; ~18–28 g",
+      "nativeRange": "Native across much of Europe and Asia; common synanthrope in East Asia including Hong Kong; introduced populations elsewhere (e.g. parts of North America).",
+      "habitat": "Towns, villages, farmland edges, parks, and open woodland edges. Nests in cavities, buildings, and other human structures; often forages on bare or sparsely vegetated ground in flocks.",
+      "habitatAffinity": [
+        "urban",
+        "tree"
+      ],
+      "seasonality": "Year-round resident across most of its range, including Hong Kong / coastal South China; not a long-distance migrant.",
+      "lookalikes": [
+        "House Sparrow (Passer domesticus) — gray crown, no black cheek patch",
+        "Russet Sparrow (Passer cinnamomeus)",
+        "Juvenile / female sparrows at distance"
+      ],
+      "caution": "Wild bird — observe without handling or feeding bread; keep distance from nests.",
+      "populationEstimate": "215–305 million mature individuals globally (preliminary; may underestimate eastern densities)",
+      "populationSource": "BirdLife International / IUCN Red List 2025 (Passer montanus; Least Concern; estimate year 2011, data quality poor)",
+      "populationConfidence": "medium",
+      "sources": [
+        "BirdLife DataZone — Eurasian Tree Sparrow factsheet (population 215–305M mature individuals)",
+        "IUCN Red List — Passer montanus (2025 assessment, LC)",
+        "Photo diagnostics: brown crown + black cheek patches on white cheeks (vs House Sparrow)"
+      ],
+      "idTier": "species",
+      "idConfidence": "high",
+      "kind": "animal",
+      "provisional": true,
+      "guideOwned": true,
+      "packageId": "demo-001",
+      "uncertaintyNotes": "Species ID high from diagnostic cheek patches in photo. Population figure is a global order-of-magnitude estimate (not a Hong Kong local count). habitatAffinity follows Guide v1 urban+tree for this synanthrope.",
+      "combatInterim": true,
+      "emoji": "🐦",
+      "types": [
+        "Sky",
+        "Meadow"
+      ],
+      "rarity": "common",
+      "bp": 135
+    },
+    {
       "id": "demo-unknown",
       "commonName": "SAMPLE: Unidentified organism",
-      "scientificName": "\u2014 (unknown / lookalike set)",
+      "scientificName": "— (unknown / lookalike set)",
       "averageSize": "Unknown (demo)",
       "nativeRange": "Insufficient data (demo)",
       "habitat": "As logged by observer",
-      "seasonality": "\u2014",
+      "seasonality": "—",
       "lookalikes": [
         "Could be plant",
         "Could be animal",
         "Needs clearer photo"
       ],
-      "caution": "Photo not sufficient for a sure ID. Mark unsure / unknown \u2014 do not invent a binomial.",
+      "caution": "Photo not sufficient for a sure ID. Mark unsure / unknown — do not invent a binomial.",
       "sources": [
         "DEMO PLACEHOLDER"
       ],
-      "emoji": "\u2753",
+      "emoji": "❓",
       "kind": "other",
       "types": [],
       "rarity": "common",
