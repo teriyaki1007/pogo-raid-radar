@@ -1,7 +1,7 @@
 {
   "iso2": "ZM",
   "name": "Zambia",
-  "updatedAt": "2026-11-10T23:12:01+08:00",
+  "updatedAt": "2026-11-11T05:10:54+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,40 @@
   ],
   "headlines": [
     {
-      "title": "Zambia U23 charter to Ouagadougou delayed",
+      "title": "Zambia U23 finally off to Ouagadougou",
       "source": "ZamFoot",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXeWlhTjdDQW80QmlwZkpYSkIzQUNJVEtMUlpVZWpNNVozMVVzU3l0bmYtQnpZYUdLMEkwVExVWUEzZmlyZUJMWHpsSFVjNFJxblZpV3RXRU1RRERvMlVUcTJxQ0ZGMEFFMGV3TTViaXlhOHNNei1vRDd6N0Q?oc=5",
-      "publishedAt": "2026-11-10T22:33:46+08:00"
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00RU0wR1VHU1g3dXJyc1Q4NEk2eE1DMU9aQkptYXNORkZ6WHg5MFFuZjVUSmJKWHV0YUVQSk9NcXJzUTNOY3RvZmJIWWJVbkpkSzVUcWtfUkk5d0hSQkVoeDlNSzlia1M4Sjk1M2lYdmdhaE1tb2VZ?oc=5",
+      "publishedAt": "2026-11-11T04:54:44+08:00"
+    },
+    {
+      "title": "Zambia Moves To Strengthen Coordination For Nuclear Power Development",
+      "source": "Majorwaves Energy Report",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSFotVlVleHJEYXVSYnlhdUlYbW1lSGotM1BSdE9PTFl1dkNVS0FoSTNSRXY1Zjl1eXotQ1pJVTlwbXJDMkpOWDBubVYyajFUNE5HLXAzdHRvOE0tRnE3aUEydEQ2bkdCbUQ1Vll6U05jZzhmc0Q4UXFjazFDWWVIM3dhOHFuVGV3ZVRVWkJoVmpINmZXSFU4MWhrTGZ2OWgzOTFyZEQ4SHh0dHJjQmc?oc=5",
+      "publishedAt": "2026-11-11T01:37:03+08:00"
     },
     {
       "title": "Transforming the Global Biodiversity Framework into Tangible Action in Zambia",
       "source": "World Wildlife Fund",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUlVmY0xWcmdGOEJ3Q2hkTFdkSkRaREd3NVBWbnh0ZmZQQ3F5S0dMQnk2Yk1ZRlh3Wmlld0x2eWdpRjUySl93dklHYzBoNWwxZGVHY3g5ODNrVkNDZDZPMWdDTWNESDdUZmlnWkdUNEk1ZHhSZGxGcW1ibkZDQ1FkRzhITGZTWE5LSzRvblE4Z3RHWk5OT2NoQzhod3RPdFFCSHExaGd1dzFvS2lreEFTY3Zjc0tDcWNFZ2FnNDB1N1JWY2x3SFcxZDJZdWI4c05jZUxHNHhUcw?oc=5",
-      "publishedAt": "2026-11-10T22:16:35+08:00"
+      "publishedAt": "2026-11-11T01:16:55+08:00"
+    },
+    {
+      "title": "Greece Ambassador to Zambia Pays a Courtesy Call on Hon. Haimbe",
+      "source": "Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOODBvOGlEckdVaTZyWGNEVXFaX1VrR1BRcGEyX20tOUF3eDhFZEtLdi1yYUpBTTBKVGtFOTZhMnJwWVViLWlyUmxGb2Nkbzlqb0pRdDhHamZESWZLOU9BS2lBQW9zT2ItTzJ1Uk96VUJPMjl1WTdiczNHZkRVdWZCazBENGtYeEd2em9aR3F3?oc=5",
+      "publishedAt": "2026-11-11T00:45:09+08:00"
+    },
+    {
+      "title": "AfroQuality brings Africa’s fashion to Zambia",
+      "source": "Times of Zambia -",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oR0RHREd1cUJfY0pzOEFIUHQzLWNpaGl3VzZjNG80bWpweDFnWlZHQzBnUFVfNEVHdHlWanVoQTEwOFBMTVdVaTk3MGdwbVNYQ2R1XzFZbVMxWXphZXViYmdxcUUxajRISjB3LURjNnU5ZTQ?oc=5",
+      "publishedAt": "2026-11-11T00:22:41+08:00"
+    },
+    {
+      "title": "Zambia U23 charter to Ouagadougou delayed",
+      "source": "ZamFoot",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBXeWlhTjdDQW80QmlwZkpYSkIzQUNJVEtMUlpVZWpNNVozMVVzU3l0bmYtQnpZYUdLMEkwVExVWUEzZmlyZUJMWHpsSFVjNFJxblZpV3RXRU1RRERvMlVUcTJxQ0ZGMEFFMGV3TTViaXlhOHNNei1vRDd6N0Q?oc=5",
+      "publishedAt": "2026-11-10T22:33:46+08:00"
     },
     {
       "title": "$795 million committed, 30 years of production ahead as world's third-largest gold miner pushes ahead with $2 billion Zambia expansion",
@@ -48,34 +72,10 @@
       "publishedAt": "2026-11-10T21:45:12+08:00"
     },
     {
-      "title": "Phase one of Zambia's Cooma solar plant targets commissioning in Dec",
-      "source": "Renewables Now",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTGRpUTh6b1FoM3JyWlBRb2RmY29taTV1cU84bWNTVC1tdnRBdkxuZHNsYjN2RnNDckdKOEdNc1JqSExybGthZXp1WXEwNWFScS1fd0YzUV91dFNUVHJlRlhWNUhDNS1NS2NmaEFkQncyTkQ3NkRSakRMYjkzWllaNzN5dUJ5bVcxbGxTa1RUZzNmSHZxLXY5ZXItNlVISEFlUjVTeS1lNUlfUWM?oc=5",
-      "publishedAt": "2026-11-10T21:17:20+08:00"
-    },
-    {
-      "title": "McNamara publishes final report on Zambia elections, calling for urgent democratic reforms",
-      "source": "Irish Legal News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcWNkLVoxSTJ4aHFHczFTMW1pbUtCU25tX2t0c2RJTGRPNHdVV1pBVU55dXBoOWdDMU5hNkdUdDNDVXNQX2hWVUV1WF84aHA0RzdmS1BDVDE0TWd4bndkQ0pZNFNuV3NDbEF5QlZMZG1mRVNTZHlITHVhOXc3d0N0Wm5Sd1hkWWhubXNwdWNoZkNsay13UTdjamxXWUFLNUVmS0stN3hycXZ3SGN5c29LYUlsajBfUHFxaWltZE1LLXJtMlE?oc=5",
-      "publishedAt": "2026-11-10T19:43:12+08:00"
-    },
-    {
-      "title": "Fake Leopard Skins Are Helping Save Real Leopards in Zambia",
-      "source": "AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFkyRWxablRZYnZoRHdGZWtibUNSZGhacVhTamNJcHdta2E2THE2T1pCZlVqMzU3QU44MUdCTTlYSk56X1JNcXBTN2YyVENfbG1WWWktendVcU01a3RudkpjWWNSbXc5NDdzYkNwQTNFN0lrT2M3ZTJGQ1p3Z3dUag?oc=5",
-      "publishedAt": "2026-11-10T19:00:33+08:00"
-    },
-    {
-      "title": "Airtel says Zambia needs 10 mln smartphones over 5 years to support economic growth",
-      "source": "Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeTBCaHlpT0hVQnhib1ZCX04xb0JCcmoxMmxtdHB6LVM5QldXN3BYcy14cEF0Y243ZVgzZTRuVXBhTm9ic0hGLWZYekJ4VHp5MjVyRzhPWm1YaTQyeGgycXpYdUt5SzJoMnpSRUhla1A3UVNvaFJEdzVsM0RYUTE5cFduZHFZQUJfY2phVDh2SFpaLVc4M2dESGRjZFBvUXN1dXppVDk3bURhZEo3ZHdEMHJGTlFPOFdFTWpJX0Q4MFhvMDFE?oc=5",
-      "publishedAt": "2026-11-10T18:32:55+08:00"
-    },
-    {
       "title": "Oryx Energies agrees Zambian downstream sale to Horizon",
       "source": "Mobility Plaza",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb0ZQa3JJbFBpSDBHVm15cE5qSkdKbDVleXRNeTJJVFBDdUxpTmhQcEVadlBqQjdTLTJiVUM4bzd1bGlRM0J5VFF2eXZxQkhkODNNQmJzeWJHMTVyRDlGWHdCeTFxc0U0R3hYY01meDZTb1FwRW5MZzBselZMcnVQeWpnY3VBdUZUTFRDOTNzajVwZ1pw?oc=5",
-      "publishedAt": "2026-11-10T18:30:00+08:00"
+      "publishedAt": "2026-11-10T21:25:34+08:00"
     }
   ]
 }
