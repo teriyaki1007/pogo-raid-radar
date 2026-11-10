@@ -1084,6 +1084,25 @@
     });
   }
 
+
+  async function ensurePersistentPhotoRef(url) {
+    if (!url || typeof url !== "string") return url;
+    if (!url.startsWith("blob:")) return url;
+    const blob = await fetch(url).then((r) => r.blob());
+    const dataUrl = await new Promise((resolve, reject) => {
+      const reader = new FileReader();
+      reader.onload = () => resolve(reader.result);
+      reader.onerror = reject;
+      reader.readAsDataURL(blob);
+    });
+    try {
+      URL.revokeObjectURL(url);
+    } catch (_) {
+      /* ignore */
+    }
+    return dataUrl;
+  }
+
   async function runIdentify() {
     if (!photoDataUrl) {
       showToast("Add a photo first");
@@ -1127,9 +1146,20 @@
       }
     }
 
+    let persistentPhoto = photoDataUrl;
+    try {
+      persistentPhoto = await ensurePersistentPhotoRef(photoDataUrl);
+      if (persistentPhoto && persistentPhoto !== photoDataUrl) {
+        photoDataUrl = persistentPhoto;
+      }
+    } catch (err) {
+      console.warn("Could not persist photo ref; keeping original URL", err);
+      persistentPhoto = photoDataUrl;
+    }
+
     pendingSighting = {
       id: `sight-${Date.now()}`,
-      photoRefs: [photoDataUrl],
+      photoRefs: [persistentPhoto],
       place: { label: place, lat: null, lng: null, precision: "label-only" },
       observedAt: when ? new Date(when).toISOString() : new Date().toISOString(),
       notes: notes || null,
