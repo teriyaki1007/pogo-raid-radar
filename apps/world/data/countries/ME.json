@@ -1,7 +1,7 @@
 {
   "iso2": "ME",
   "name": "Montenegro",
-  "updatedAt": "2026-11-10T11:09:44+08:00",
+  "updatedAt": "2026-11-10T17:08:54+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "Montenegro's public debt edges up to 58.7%/GDP at end-Sept",
+      "source": "SeeNews",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaXhtdmVhdFNGZlU1eUc5UlZYWER3cHNUbUJvb1RKdDV2dEJsNktIaHZtWFB0aHVhUHhQeVlHeEdKcVZEa0NRdENyRkQzek9sMVpKNEk1aTJ2OHIyY1JMMkI5ZVNJVlZrYmJLckF3d3FrcEpnbmFIWERuaXVILU9nbWpKWmNwTzJURTBQUVF1RUEtVnJPX2N6SFJ5ekU?oc=5",
+      "publishedAt": "2026-11-10T16:59:36+08:00"
+    },
+    {
+      "title": "Montenegro's Permonte seeks enviro nod for 120-MW solar project",
+      "source": "Renewables Now",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnNqMkZhZk1KcjUwQm5fMkQ0a0NhZ0JCOWRHV0F0bkRRaThpM3ZoSUhPb2hNWjFfYjFXQXBGZ0hGWmxrUC1MdDZmTVd5a2o2eUN1UV9qUHdTNWphRzNlc3cyMDBzc3JGYzNmek1hVHFlMDRCNlRRb3JLM1ZmX0xoRWZWaUtleFJ2SnQ3eHYzQWl5anYxa1p1YUJPZ0tWeHRTZmFoQw?oc=5",
+      "publishedAt": "2026-11-10T16:45:30+08:00"
+    },
+    {
+      "title": "Sunrise Europe obtains permit for 220-MW solar park in Montenegro",
+      "source": "Renewables Now",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMmxsMGxhWFZ6YktiSVZmSElCRGNuREc2NGVGM0tCX3A2TFloVGItV2JTYmJ3UUZfWmo0dzY3Wld0eGhzQUs2YjN3ZDFWM0VodGx2dlhDZmJ2QllKRTA4VVZSckYxc3lLaEEzRDd3VmFGTDdsSGtkZDJOWnYyNkI4M0xuNHlFbGRFbUNQOEFGcWxhSHp2WlFCbUdDYm15UEdqay1CRHNpVWQ?oc=5",
+      "publishedAt": "2026-11-10T15:06:48+08:00"
+    },
+    {
+      "title": "EU on track to add Montenegro in 2028 despite national vetoes, says Ireland",
+      "source": "Financial Times",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOE1taThQTFo4U3VianRlZkNid1kxczVBbm9GQTBqNjZhSDVFUG9hWWI1X2tRNndkelBuQnlnY0czbW1pQ3plY2p5WnZOdlpnaFRZU256TkhCT1ludmg3Z2lRX3VtaEF4Y2JnMHE5WTI3NWZvRUY5cjVlUnhMZUljemxoelM?oc=5",
+      "publishedAt": "2026-11-10T14:00:09+08:00"
+    },
+    {
       "title": "Ibrahimović: Montenegro will contribute to the affirmation of common European values",
       "source": "vijesti.me",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMll0VXEzY2dMd0tONVZobVgzbW9BU21tZE92cHZONU9uMF9jUzR6eUI0cGc5bElDeTZoaFpydmI3UGMzZjUzaC1pRlAyWXVqZUtjNHhsenRfSVNGakxnenNFaEdjdktNMDJESnlBSEtMTmVGbzFETlVBX21Gbkg5M1AzNF81cDZHeDJ3azVnUjRteDQ3MU95STZFYUhQckp6bUtZanhfNW1TS3I4ckdhOWdubm1PMVBUS0U4V0liRmhIbnBBN3dj0gG3AUFVX3lxTE1faUdYSHhqd2FOLTZXaGhCMHFGakhUUm4ybWhmcHB2TGlWOWxzMUtTZ0xIaTNyamRBVnN1aEd4OU9FYm9CcS1HWU9aRzFNM2FnczZxb3RPMkY5OE0tbENLLTE0VFZ2Rmd6Y2JxRmVVZElsUURWTS1USFpJdUxhNUFEM3hHM1dodmc1VHJDR3hFTlQwbnBySXJVeW5KaFpTcF9yTUd0R19TT190bzV4emRmbnF1WVFoSQ?oc=5",
@@ -42,12 +66,6 @@
       "publishedAt": "2026-11-10T02:25:39+08:00"
     },
     {
-      "title": "Montenegro edges closer to EU membership as two more chapters closed",
-      "source": "The Brussels Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPV1YwZl9SWnVjU2NEQUYyYVVlMXJjM01TcHJkN01INDlMLTRMUm4tV3pfcF9kd0NFaWRtQ0hFY3l0ZVE2SkZiTmc2Sk5ob2pFaFoxQWNYNHBDcUI4Z1BlUTdBUWpBNWJaaVkyNUwwYlpYSDFGT3BfT2dDUmFEajNIdGUteW1yRmdDaGdSelJiY3l0YTRaNHF2Z09uTnJDMHFYLS1OUmpvZXBDbkVEdko5eUQzQ0lCVFFU?oc=5",
-      "publishedAt": "2026-11-10T01:49:49+08:00"
-    },
-    {
       "title": "Montenegro Registers 14 Citizens Fighting in Foreign Wars Since 2022",
       "source": "Balkan Insight",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUnpoZklxejA2YlFPb3duallnckJrelRCUm94bUFsZDVsM2ZDNldaVVo2b1lfMnlORlFucUtCSXBpV0UtRnE1MzM3Q2xNbld2enBSZmJsNjFFQVJ3SzhrbXQ4MzlsV2dFb2tOaDFLTF9aZXNZSmQwWm1Fa1BvdjJPSTF6aDJIVUxMZTZHaWhtbklvakdlLXhKakk5VWJIa2ptN2FqZ0ZWUnQ1UmtxN2c?oc=5",
@@ -58,24 +76,6 @@
       "source": "Mansion Global",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbzdpalZ4aGxTaW55TTU0a1Y4eFF2NU1CbTF3QXJPWjJVSTBwMF9qN05hWjd6YmE2ZXFuZ0hobXpzWGEtUG1wdkprVkhZd3Fta3MxRmNMbXVEX095eWtSbkNYWDdtNENYR1ZMRHhuWFl4anFCaHJyUURfYjd5cldJRTFTZXozcFdXbDRZSzRoOXNDbXc4aWlNUTVUSVhqWm5YU3BpQ3hPLXUySDhiUlcxZWdfWWpoNTNNSnfSAb8BQVVfeXFMUDNtdno0TzR3YUI1ZlFxOEh2TmdDQjhzdWlTZURDakJCWDRldWQzTVBFMFRsMkprYzZfeUs5Y1BWVUlkancxbExnLXVDQUp5Ml9vODVPSDJxRUlVTldUYjZhWUpBM0dPQzQ0bDg4Qi16S20tVnhLNkRYV0x2a2NDUXJEMnNlOGxZVnJtUGZyc1Vha3pLRU9VYi1SR3JWeGI3Uko4dTZGTV83a0lKNHJLQkxEaUJMYk0tVGxwdEIzXzQ?oc=5",
       "publishedAt": "2026-11-09T19:57:00+08:00"
-    },
-    {
-      "title": "Montenegro's Sunrise Europe gets building permit for 220 MW solar project",
-      "source": "SeeNews",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYUFlTXZ2SkF3dnBiZGNkczBwOW9BeDB3a3owQmN6WjZhTHVvb3lwQlJwUkZ3Y0QtUmt5a3BpLVB4OXNrOW1ZUThNU3l0NTRRRGtZOTZPa2JLcFhTRTl2cDB0RGlXWHphRVFLVHVUZTVOYkNVWXJVcGVsMkNBMWxQNUloWkhVYVpyODQwb3JXRDRESmRWSzJQOThZbDF4QUFKb0FxRGFaSzk?oc=5",
-      "publishedAt": "2026-11-09T19:53:09+08:00"
-    },
-    {
-      "title": "Montenegro eyes 313 mln euro SocGen loan for university clinic",
-      "source": "SeeNews",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ0NicktkVk1NRi1IVmJ1cldETXgwRUROT0VlTTNPRTdLbmJMRnhCbnF6dld0b0xjV21ISE90Vk11Ylp0b2xoR1RhUUc2WUZiMHh3QVFFQmZOckdESnljSDcyeXBfY3hoQ2ViLXpab1NIUkJtQlk0dlg0SmRtclpmR0NoWVdyZE9oeGdHZVJWT3FaSy1VUi1XRzd4dw?oc=5",
-      "publishedAt": "2026-11-09T19:48:20+08:00"
-    },
-    {
-      "title": "Moldova in EU accession talks could catch up with Montenegro as early as next year",
-      "source": "Наша Ніва",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1DTFZoc0VpYml4eXh6THc4WHlUUTBRYTgzV1JoaWFObExxRkEyLVc2THBWeG10MXZxMnE3cFRCUUd1eE1CTVHSAUtBVV95cUxOOGFRSXpFcjBnOFRQaVdhUFhvMUxVZVZIc3RFNDhhUzlCbVkySlJWbTQ4VlRZZ251dGhpZHVndEJJU3VLQXVJa3N6VHM?oc=5",
-      "publishedAt": "2026-11-09T19:15:01+08:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "iso2": "EC",
   "name": "Ecuador",
-  "updatedAt": "2026-11-10T11:09:44+08:00",
+  "updatedAt": "2026-11-10T17:08:54+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,16 @@
   ],
   "headlines": [
     {
-      "title": "Ecuador's Court Denies Habeas Corpus to Luisa González",
-      "source": "teleSUR English",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oTE9wNnRobmkzOGkzcEJEVkRqR0VYT2N5ekxmZC00LWROMjMzUzRKak5ZNW45UmlkdlpoR1VTNnp6RmxsWDZLLThTOFp2T2pTbmN1NTI5T25NcC0zV19LRVBmQUp2eEFTSXJJdXg1blp4YmZUOTRIcA?oc=5",
-      "publishedAt": "2026-11-10T09:31:46+08:00"
+      "title": "BioMar opens first phase of Ecuador feed expansion",
+      "source": "Aquafeed.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ0lMVjAzT1BkWU9UWDlDeTUxMmp0QVhYMVZEXy1iOEpYMWpSdFRNZWZMUW1rb1FEcktENGtjcnZkc0tFNTlNMkdISksyb3VxWGprMzJxRE10cS0xeUNKUmU1ZnlHOTI1OGg5eTd1Z2VRNTIwWXhiNnA2QTA0bWdMeGVsRjA4MDNncmtiaE5sZUx1TEdJbkFkOUMxVjI5RWc?oc=5",
+      "publishedAt": "2026-11-10T15:25:52+08:00"
+    },
+    {
+      "title": "Vitapro and UNEMI partner to advance aquaculture innovation and talent development in Ecuador",
+      "source": "Aquafeed.com",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONWxReW15R0MwYUpLQldHdC00UHBTNUlIeHFnTVN2QTJIRURWbWp3bnVhc21lVVZLOFpSZXh4VWt0U2dXTC0zVGRBMlQwcEpoT0FDVnFJN1l5Y3diYS1KU3RwMDFpYVlPQTB0SllCMUw5Q1ExUldpQ0VjTnRtTHdXb3g3U1FwTjZyOHN6elVHMVFVbERHVEV6UnNUUjZGM3V3aHA4U1hlc2lLUFNGYVNXU1hJN1l3ZEItZHdZV2ZYMGRmMzVDVDFmT3F5QVAxWWhNQ0ZUWFFYcDY?oc=5",
+      "publishedAt": "2026-11-10T15:25:52+08:00"
     },
     {
       "title": "Ecuador allocates US$323mn to transmission works",
@@ -54,6 +60,12 @@
       "publishedAt": "2026-11-10T07:06:51+08:00"
     },
     {
+      "title": "Ecuador journalist Tomás Beltrán Conforme, who denounced local gov corruption, killed outside home",
+      "source": "Committee to Protect Journalists",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX1NiRXp0X1JVUUFpQjFiRHJrbF80Y0dteGtLRlI1Nk1KdzQ3dmFHRFpHOFVQekhxV1hXUGdjdEZ4TFJpNGMyaW1mc0F3XzIzQVE1cllab2I1Q3llOVl0QjgwU2JGcG0xTjUzcDFmN3R5TFZHYWpJeElJVUZzM2ZJSHIyX3JqcnRudWxyZjF1UGNrTmF5dUdvY3hFV25STGF2ZjdqRk1qSjh1LVFBSnl6Qk83bTRZbGNZbFRJSjFn0gHDAUFVX3lxTE5UZVdXTEJDSkRpSDZjMEZpV1FUUFhQSlMwZDhkOGxWVVhuQkVQRm5UQ2FZR0FkZldWWG5PMDR6V0hXNkRfSW9VTjJvRzNvZmxka3pqdS1qUXNTZVNMS3haU3RxRzRxdnZJVzN6bVIyYmVXdHpvT1VycDBhb3NhTU42ajBCM3NBNGhtYlFSamUtdHZXNVVtcTdDOHhzX1NmcjBxZzVQYmhCN0lnZndUdjZOaUM3ekJac2Y0ekNya2J6elg2MA?oc=5",
+      "publishedAt": "2026-11-10T07:04:33+08:00"
+    },
+    {
       "title": "Uzbekistan U-17 draw 1-1 with Ecuador in friendly",
       "source": "UzDaily.uz",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcm1MLS02SVRhY21OTmJNOXlRQ2x5R1RMd19PbTZ3YmtTajkwSmhyMHBTd0xYUEo0WDNfOW0zRjNYYXozY1dCcmhySGkxaUNDaG90d1RhSEQ3Q29zcG92MVY3MGk1bVpuelFoMmRjc2dwWlBPd2hXOUtHdmVpQVhjcDh3?oc=5",
@@ -64,18 +76,6 @@
       "source": "Atalayar",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbW83LUdtVjd2ZVduRTJSQWlSZFlwMHZSQzVFOWJBNk9nWmw3S01uZ2hPQTh6NTgzS1FvV253N2ZCWEh2MTZrX2c1ajhUNDA4U1FScGQ0dmlJVWsyOTlVTDlJVTJxQUFrRVhmZEVTZDJZZ3k5M2VJb3ZiTDd3X0JzQWFWUlRHWTBCY0EyODBTdTlIRlFNZFBvT1pUUnVmYTZLRzN2N3c0SU5Na0YxWW0wUHUtdEktWTRwVy1zNURHdnFCVldxZnJObVg3M3NyOXVqUm9vX25QMk9RQXAwdXN2Mkx4WUI2Tmw5WWhGSWpEaVd1SFBDcG5ET3BxRktQUQ?oc=5",
       "publishedAt": "2026-11-10T03:23:32+08:00"
-    },
-    {
-      "title": "Ecuador showcases its exportable offer at CIIE 2026 in Shanghai",
-      "source": "Data Portuaria",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSll6YUM1WV9aY2xlVm85Z1o4STdva05iaUJYQ1dFc1dlMG9kSkxyVDN3bEZ0dzFsQUlfY1ZiRHJHSGg1cUNlYnZ2b3pMX0ZUTmRQQ3U1ZUR4d0tRaVYtdHVqdE9NUm5iZlFJMzRsbmRPalN6bVpUMEV5UmRRRWpfWXg3RnZWZE8yS1FpMWJScnIzSld0Vy1xY0lxZkZEUU91anpqSVNHMnNVNjd1Rm5qVnV1M25DeDBmV25udzlB?oc=5",
-      "publishedAt": "2026-11-10T03:15:07+08:00"
-    },
-    {
-      "title": "Uzbekistan U17 team avoids defeat against Ecuador in the 90+2 minute",
-      "source": "Zamin.uz",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHdoYXFzc004S1RmREhxcERSUDdGcUFlOGNQb2Z5ek1sLTFwSkxKLVU4V3BzbVlMVS1SUDFoTzYyNDQ4VU91U2QtYzZNRVEtU3g2Y2JrY1EwZ29aUG1LTmVUVldpSVVPUmk5eVVTd0xhTTdHUUZ1NnAyeTdlOGZLMzVHZ3VXWS1RVEVzZzl0bWlTSm5lMktQOXZJRFhES0hQNFA3S2hqQ0ZqUQ?oc=5",
-      "publishedAt": "2026-11-10T02:01:00+08:00"
     }
   ]
 }
