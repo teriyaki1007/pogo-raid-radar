@@ -1,7 +1,7 @@
 {
   "iso2": "EC",
   "name": "Ecuador",
-  "updatedAt": "2026-11-10T05:03:45+08:00",
+  "updatedAt": "2026-11-10T11:09:44+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "Ecuador's Court Denies Habeas Corpus to Luisa González",
+      "source": "teleSUR English",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5oTE9wNnRobmkzOGkzcEJEVkRqR0VYT2N5ekxmZC00LWROMjMzUzRKak5ZNW45UmlkdlpoR1VTNnp6RmxsWDZLLThTOFp2T2pTbmN1NTI5T25NcC0zV19LRVBmQUp2eEFTSXJJdXg1blp4YmZUOTRIcA?oc=5",
+      "publishedAt": "2026-11-10T09:31:46+08:00"
+    },
+    {
+      "title": "Ecuador allocates US$323mn to transmission works",
+      "source": "BNamericas",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFJTcHZqNVJ2dTNiNmVrVkRNd0ROQnUzODJDTWdFblgtLW5hME9WZVRrVUpoRXBIbzVQQjVrbHZBNWhmb0Z0RnVKUC1wcS0wa3VKanRLRFJZenpUQmtIR1lUVGthdndxTDNCYzk1d2NoU0kybkUwbHJqVHJaai1sWUNnTlR5V3NOcmc?oc=5",
+      "publishedAt": "2026-11-10T07:44:16+08:00"
+    },
+    {
+      "title": "Endangered leatherbacks find new nesting beaches in Ecuador as Pacific Ocean warms",
+      "source": "Phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMHhOdkc5TTNWbXpWS2QwaklLd091d2VpR0NKM1BNaXBCeXNGOGprbWVwM2ZkR0ZmelJLVExVbUNvUWVuVmlLYlVGa3hZcmlnQWpfSGw3Wm9Lc3hqeGpCRGRSOE96eDhUUHFaMTg3bGc4SE14X19VT01zYm4wTXByRzJOQ01maUFwLXc?oc=5",
+      "publishedAt": "2026-11-10T07:40:01+08:00"
+    },
+    {
+      "title": "Trade Deals and Logistics Boost Ecuador’s Banana Ambitions in Asia",
+      "source": "Produce Report",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNX3I3d0xJYlV4N0Vubmp6NmFsc1pKdEZkM0g1WlBNaENMWmRWVEhsMTgxV05DcVNsdGNXT3FHTWZPUmgtZ1ozeTV4RnRBZU1vOG8wWXg3TmxsV0drS25BU2hqLWZCMnp1aDFxbnlqemNzY0ZkZkdrU2NReUt2d29XZW9lNktQUWVVX0poNzRGM1Z2MElYM1BZb1RmN2E?oc=5",
+      "publishedAt": "2026-11-10T07:06:51+08:00"
+    },
+    {
       "title": "Uzbekistan U-17 draw 1-1 with Ecuador in friendly",
       "source": "UzDaily.uz",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQcm1MLS02SVRhY21OTmJNOXlRQ2x5R1RMd19PbTZ3YmtTajkwSmhyMHBTd0xYUEo0WDNfOW0zRjNYYXozY1dCcmhySGkxaUNDaG90d1RhSEQ3Q29zcG92MVY3MGk1bVpuelFoMmRjc2dwWlBPd2hXOUtHdmVpQVhjcDh3?oc=5",
@@ -38,14 +62,8 @@
     {
       "title": "Ecuador Reaffirms Support for Moroccan Sovereignty Over the Sahara and Strengthens Bilateral Ties",
       "source": "Atalayar",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQYlFxMDJHMGNIaUw4Nk9ZR3A0clAwU1lXM2hicnQ4WjhQcnB6RjVSa3FVeUlMR2wtekdwbzZaYnNRdElTYl9YVDlGSE9HbHlqckxubVk4a3JOLUlBcWJFZy1RR1VlWTBudzVubF85N0FrZ0FLNnZ4clVrQVBjTWtnUFpnYmxZaThlYUlaMnByeF9DZm1fV0tzSm1iMWhBVkl5UENNSG51R1VJRTFjTmtrYnJUQ2hqbFNqZUVJcjhSVnkyRDd3akNFaU5tQUxGRHdvZUExeVNNcnduc2dXYlZjTzh2WDg2WWF1akpiR0RqMmVzYUE3UG1ubA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNbW83LUdtVjd2ZVduRTJSQWlSZFlwMHZSQzVFOWJBNk9nWmw3S01uZ2hPQTh6NTgzS1FvV253N2ZCWEh2MTZrX2c1ajhUNDA4U1FScGQ0dmlJVWsyOTlVTDlJVTJxQUFrRVhmZEVTZDJZZ3k5M2VJb3ZiTDd3X0JzQWFWUlRHWTBCY0EyODBTdTlIRlFNZFBvT1pUUnVmYTZLRzN2N3c0SU5Na0YxWW0wUHUtdEktWTRwVy1zNURHdnFCVldxZnJObVg3M3NyOXVqUm9vX25QMk9RQXAwdXN2Mkx4WUI2Tmw5WWhGSWpEaVd1SFBDcG5ET3BxRktQUQ?oc=5",
       "publishedAt": "2026-11-10T03:23:32+08:00"
-    },
-    {
-      "title": "Ecuador allocates US$323mn to transmission works",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeFJTcHZqNVJ2dTNiNmVrVkRNd0ROQnUzODJDTWdFblgtLW5hME9WZVRrVUpoRXBIbzVQQjVrbHZBNWhmb0Z0RnVKUC1wcS0wa3VKanRLRFJZenpUQmtIR1lUVGthdndxTDNCYzk1d2NoU0kybkUwbHJqVHJaai1sWUNnTlR5V3NOcmc?oc=5",
-      "publishedAt": "2026-11-10T03:20:38+08:00"
     },
     {
       "title": "Ecuador showcases its exportable offer at CIIE 2026 in Shanghai",
@@ -54,28 +72,10 @@
       "publishedAt": "2026-11-10T03:15:07+08:00"
     },
     {
-      "title": "Endangered leatherbacks finding new nesting beaches in Ecuador as Pacific Ocean warms, study finds",
-      "source": "EurekAlert!",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1menp6WU1ZLXJ4WUpHMzFmbUxEQVBkU09UNXFjWG9hblNTTFc2ZUxCQmp2SldjekMxZXZhUGwtcUl1dVEtNmR1M1psbWxZSXpwVW1ZaDdzc0pNT1JS?oc=5",
-      "publishedAt": "2026-11-10T02:06:53+08:00"
-    },
-    {
       "title": "Uzbekistan U17 team avoids defeat against Ecuador in the 90+2 minute",
       "source": "Zamin.uz",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONHdoYXFzc004S1RmREhxcERSUDdGcUFlOGNQb2Z5ek1sLTFwSkxKLVU4V3BzbVlMVS1SUDFoTzYyNDQ4VU91U2QtYzZNRVEtU3g2Y2JrY1EwZ29aUG1LTmVUVldpSVVPUmk5eVVTd0xhTTdHUUZ1NnAyeTdlOGZLMzVHZ3VXWS1RVEVzZzl0bWlTSm5lMktQOXZJRFhES0hQNFA3S2hqQ0ZqUQ?oc=5",
       "publishedAt": "2026-11-10T02:01:00+08:00"
-    },
-    {
-      "title": "Thousands take to Ecuador's streets over violence, healthcare cuts and the detention of Luisa González",
-      "source": "Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVE1BcWtmX2dDQ1NUNkFHS1BDSUpYQlFqVE9xbVRlUVlmYXBFRWZSbHNwbFp5RzRITF8wSFpjY2RnTk1XeDdqYWh2LVBZYWhkLVl1dmxKYldVZGlycThfZy00Z2xRWUxSUUJjb1hRSDVOOXV3alFleWU0NTVEcTF6dg?oc=5",
-      "publishedAt": "2026-11-10T01:57:17+08:00"
-    },
-    {
-      "title": "🇪🇨 DAAAAMN. An armed robber in Ecuador picked the absolute wrong shop worker to mess with. When he pulled a gun on her, she didn't even flinch. This is NOT a woman you want to mess with. Writer: Bri",
-      "source": "X",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yMEpwUHZrQjctX1VOWl9lNVNVNkdyNmtTSjFqUm1wWXN1aEQ0UGRkc3pmOXBnX0VOSjRjZi1ZOFE2M2ludnJxOGhBNlVvNHljQ3M0MWdoWEJLTFVhUXZ0M3lPcnNZTjVBZXdvNQ?oc=5",
-      "publishedAt": "2026-11-10T01:40:00+08:00"
     }
   ]
 }
