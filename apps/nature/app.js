@@ -1468,7 +1468,8 @@
   }
 
   function usesProvisionalMoves(m) {
-    if (!m || isSlimIdentifying(m)) return false;
+    if (!m) return false;
+    if (isSlimIdentifying(m)) return true;
     if (m._provisionalMoves) return true;
     return m.kind === "animal" && !(fighterTypesFromMeta(m) || []).length;
   }
@@ -1481,13 +1482,6 @@
   function syncConfirmButton(m) {
     const btn = $("#btn-confirm");
     if (!btn) return;
-    const named = String((m && m.commonName) || "").trim();
-    if (isSlimIdentifying(m) || !named) {
-      btn.disabled = true;
-      btn.setAttribute("aria-disabled", "true");
-      btn.title = "Waiting for a Species Guide name — or mark unsure to log";
-      return;
-    }
     const combat = isCombatAnimal(m) || usesProvisionalMoves(m);
     const learn = confirmMoveLearnset(m);
     const need = combat ? Math.min(MOVE_SLOTS, Math.max(0, learn.length)) || MOVE_SLOTS : 0;
@@ -1495,7 +1489,11 @@
     btn.disabled = !ready;
     btn.setAttribute("aria-disabled", ready ? "false" : "true");
     if (!ready && combat) {
-      btn.title = `Pick ${need} moves to confirm`;
+      btn.title = isSlimIdentifying(m)
+        ? `Pick ${need} moves to collect this provisional card`
+        : `Pick ${need} moves to confirm`;
+    } else if (isSlimIdentifying(m)) {
+      btn.title = "Collect as provisional — facts can fill in later";
     } else {
       btn.removeAttribute("title");
     }
@@ -1851,13 +1849,16 @@
       btn.className = "slot";
       btn.dataset.slotId = slot.slotId;
 
-      const sample = findCard(slot.taxonId) || {
-        commonName: "SAMPLE: Unknown",
-        emoji: "❓",
-      };
+      const found = findCard(slot.taxonId);
       const sight = state.sightings.find((x) => x.id === slot.sightingId);
+      const meta = sight?.sampleMeta || {};
+      const sample = {
+        ...((found && found.id !== "demo-unknown") ? found : {}),
+        ...meta,
+        emoji: meta.emoji || (found && found.id !== "demo-unknown" && found.emoji) || "❓",
+      };
       const conf = sight?.idConfidence || (slot.status === "uncertain" ? "unsure" : "likely");
-      const nameShort = shortName(sample.commonName);
+      const nameShort = sightingDisplayName(sample);
       const thumbSrc = resolveSlotPhoto(slot);
       const thumb = thumbSrc
         ? `<img class="slot-thumb" src="${thumbSrc}" alt="${escapeHtml(nameShort)}" />`
@@ -1893,6 +1894,13 @@
     return String(name).replace(/^SAMPLE:\s*/i, "").replace(/^Sample:\s*/i, "");
   }
 
+  function sightingDisplayName(card) {
+    const raw = String((card && card.commonName) || "").trim();
+    const cleaned = shortName(raw).trim();
+    if (cleaned && !/^Unknown$/i.test(cleaned)) return cleaned;
+    return "Identifying";
+  }
+
   function escapeHtml(str) {
     return String(str)
       .replace(/&/g, "&amp;")
@@ -1902,17 +1910,8 @@
   }
 
   function openDetail(slot) {
-    const base = findCard(slot.taxonId) || {
-      commonName: "SAMPLE: Unknown",
-      scientificName: "—",
-      averageSize: "—",
-      nativeRange: "—",
-      habitat: "—",
-      seasonality: "—",
-      lookalikes: [],
-      caution: "Demo",
-      emoji: "❓",
-    };
+    const found = findCard(slot.taxonId);
+    const base = (found && found.id !== "demo-unknown") ? found : {};
     const sight = state.sightings.find((x) => x.id === slot.sightingId);
     const meta = sight?.sampleMeta || {};
     const sample = {
@@ -1921,15 +1920,17 @@
       // Prefer live Guide catalogue fields for ownership + affinity display
       guideOwned: !!(base.guideOwned || base._guideOwned || meta.guideOwned || meta._guideOwned),
       habitatAffinity: normalizeHabitatAffinity(
-        base.habitatAffinity || meta.habitatAffinity || sight?.habitatAffinity || []
+        meta.habitatAffinity || base.habitatAffinity || sight?.habitatAffinity || []
       ),
-      commonName: base.commonName || meta.commonName,
-      scientificName: base.scientificName || meta.scientificName,
-      habitat: base.habitat || meta.habitat,
-      lookalikes: (base.lookalikes && base.lookalikes.length ? base.lookalikes : meta.lookalikes) || [],
+      commonName: String(meta.commonName || base.commonName || "").trim(),
+      scientificName: String(meta.scientificName || base.scientificName || "").trim(),
+      habitat: meta.habitat || base.habitat,
+      lookalikes: (meta.lookalikes && meta.lookalikes.length ? meta.lookalikes : base.lookalikes) || [],
+      emoji: meta.emoji || base.emoji || "❓",
     };
     const conf = sight?.idConfidence || (slot.status === "uncertain" ? "unsure" : "likely");
-    $("#detail-title").textContent = sample.commonName;
+    const displayName = sightingDisplayName(sample);
+    $("#detail-title").textContent = displayName;
 
     const detailPhoto = resolveSlotPhoto(slot);
     if (detailPhoto && slot.photoRef !== detailPhoto) {
@@ -1949,16 +1950,12 @@
       <div class="confirm-body">
         <div class="name-row">
           <div class="name-block">
-            <h3>${escapeHtml(sample.commonName)}</h3>
-            <p class="scientific">${escapeHtml(sample.scientificName)}</p>
+            <h3>${escapeHtml(displayName)}</h3>
+            <p class="scientific">${escapeHtml(sample.scientificName || "")}</p>
           </div>
           <span class="confidence-badge" data-level="${conf}">${conf}</span>
         </div>
-        <p class="sample-banner ${isGuideCard(sample) ? "is-guide" : "is-sample"}" id="detail-id-banner" role="status" style="margin-top:10px">${
-          isGuideCard(sample)
-            ? "Species Guide provisional — not authoritative"
-            : "Sample ID — not authoritative"
-        }</p>
+        <p class="sample-banner" id="detail-id-banner" role="status" style="margin-top:10px"></p>
         <dl class="fact-grid">
           <div><dt>Avg. size</dt><dd>${escapeHtml(sample.averageSize || "—")}</dd></div>
           <div><dt>Native range</dt><dd>${escapeHtml(sample.nativeRange || sample.originRange || "—")}</dd></div>
@@ -1997,7 +1994,7 @@
           isCombatAnimal(sample) || (slot.moves && slot.moves.length)
             ? `<div class="move-picker" id="detail-moves" style="margin-top:12px">
                 <h4 class="section-label">Edit moves</h4>
-                <p class="muted small">Change outside of fights · pick ${requiredMoveCount(fighterTypesFromMeta(sample)) || MOVE_SLOTS} from typed pool</p>
+                <p class="muted small">Change outside of fights · pick ${usesProvisionalMoves(sample) ? MOVE_SLOTS : (requiredMoveCount(fighterTypesFromMeta(sample)) || MOVE_SLOTS)} ${usesProvisionalMoves(sample) ? "provisional moves" : "from typed pool"}</p>
                 <div class="move-grid" id="detail-move-grid"></div>
                 <p class="muted small" id="detail-move-count"></p>
                 <button type="button" class="btn btn-secondary btn-block" id="btn-save-moves" style="margin-top:8px">Save moves</button>
@@ -2005,6 +2002,7 @@
             : ""
         }
       </div>`;
+    syncIdBanner($("#detail-id-banner"), sample, "detail");
     showPanel("detail");
     bindDetailMoves(slot, sample);
   }
@@ -2015,11 +2013,17 @@
     const saveBtn = $("#btn-save-moves");
     if (!grid || !saveBtn) return;
     const types0 = fighterTypesFromMeta(sample);
-    const need0 = requiredMoveCount(types0) || MOVE_SLOTS;
-    let draft = normalizeMoves(slot.moves || [], types0);
+    const need0 = usesProvisionalMoves(sample)
+      ? MOVE_SLOTS
+      : requiredMoveCount(types0) || MOVE_SLOTS;
+    let draft = usesProvisionalMoves(sample)
+      ? (slot.moves || []).slice(0, need0)
+      : normalizeMoves(slot.moves || [], types0);
     function paint() {
-      const learn = learnsetForTypes(fighterTypesFromMeta(sample));
-      const need = requiredMoveCount(fighterTypesFromMeta(sample)) || MOVE_SLOTS;
+      const learn = confirmMoveLearnset(sample);
+      const need = usesProvisionalMoves(sample)
+        ? Math.min(MOVE_SLOTS, Math.max(0, learn.length)) || MOVE_SLOTS
+        : requiredMoveCount(fighterTypesFromMeta(sample)) || MOVE_SLOTS;
       grid.innerHTML = learn
         .map((mv) => {
           const on = draft.includes(mv.id);
@@ -2043,7 +2047,9 @@
     }
     paint();
     saveBtn.onclick = () => {
-      const needSave = requiredMoveCount(fighterTypesFromMeta(sample)) || MOVE_SLOTS;
+      const needSave = usesProvisionalMoves(sample)
+        ? MOVE_SLOTS
+        : requiredMoveCount(fighterTypesFromMeta(sample)) || MOVE_SLOTS;
       if (draft.length !== needSave) {
         showToast(`Pick exactly ${needSave} moves`);
         return;
