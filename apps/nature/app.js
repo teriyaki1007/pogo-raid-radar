@@ -519,7 +519,19 @@
   }
 
   function saveState() {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+      return true;
+    } catch (err) {
+      console.warn("nature saveState failed", err);
+      // Quota or private-mode: keep in-memory state; photos are already downscaled data URLs.
+      try {
+        showToast("Local save full — photo kept for this session");
+      } catch (_) {
+        /* showToast may not exist yet during boot */
+      }
+      return false;
+    }
   }
 
   function showScreen(name) {
@@ -745,18 +757,30 @@
         const name =
           type === "image/png" ? "sighting.png" : type === "image/webp" ? "sighting.webp" : "sighting.jpg";
         photoFile = new File([encoded.blob], name, { type });
-        photoDataUrl = URL.createObjectURL(encoded.blob);
+        const blobUrl = URL.createObjectURL(encoded.blob);
+        try {
+          photoDataUrl = await ensurePersistentPhotoRef(blobUrl);
+        } catch (persistErr) {
+          console.warn("Early photo persist failed; keeping blob URL until Identify", persistErr);
+          photoDataUrl = blobUrl;
+        }
         if (encoded.belowGuideFloor) {
           showToast("Photo is soft for ID — try closer / sharper if you can");
         }
       } else {
         photoFile = file;
-        photoDataUrl = await new Promise((resolve, reject) => {
+        const rawDataUrl = await new Promise((resolve, reject) => {
           const reader = new FileReader();
           reader.onload = () => resolve(reader.result);
           reader.onerror = reject;
           reader.readAsDataURL(file);
         });
+        try {
+          photoDataUrl = await ensurePersistentPhotoRef(rawDataUrl);
+        } catch (persistErr) {
+          console.warn("Early photo persist failed; keeping full data URL until Identify", persistErr);
+          photoDataUrl = rawDataUrl;
+        }
       }
       photoDrop.classList.add("has-photo");
       photoDrop.classList.remove("is-empty");
@@ -1085,22 +1109,64 @@
   }
 
 
+  /** Max long-edge + JPEG quality so several sighting photos fit in localStorage. */
+  const PERSIST_PHOTO_MAX_EDGE = 864;
+  const PERSIST_PHOTO_QUALITY = 0.72;
+
+  function isDurablePhotoRef(url) {
+    return typeof url === "string" && url.startsWith("data:image/");
+  }
+
+  /**
+   * Convert blob:/data:/http(s) image refs into a small JPEG data URL before
+   * Confirm→slot.photoRef→Detail/localStorage. Revokes blob: only after the
+   * data URL is ready so Confirm never keeps a revocable URL.
+   */
   async function ensurePersistentPhotoRef(url) {
     if (!url || typeof url !== "string") return url;
-    if (!url.startsWith("blob:")) return url;
-    const blob = await fetch(url).then((r) => r.blob());
-    const dataUrl = await new Promise((resolve, reject) => {
-      const reader = new FileReader();
-      reader.onload = () => resolve(reader.result);
-      reader.onerror = reject;
-      reader.readAsDataURL(blob);
+    const source = url;
+    const img = await new Promise((resolve, reject) => {
+      const el = new Image();
+      el.onload = () => resolve(el);
+      el.onerror = () => reject(new Error("Could not decode photo for persistence"));
+      el.src = source;
     });
-    try {
-      URL.revokeObjectURL(url);
-    } catch (_) {
-      /* ignore */
+    const w = img.naturalWidth || img.width || 0;
+    const h = img.naturalHeight || img.height || 0;
+    const long = Math.max(w, h) || 1;
+    const scale = Math.min(1, PERSIST_PHOTO_MAX_EDGE / long);
+    const tw = Math.max(1, Math.round(w * scale));
+    const th = Math.max(1, Math.round(h * scale));
+    const canvas = document.createElement("canvas");
+    canvas.width = tw;
+    canvas.height = th;
+    const ctx = canvas.getContext("2d");
+    if (!ctx) throw new Error("Canvas unavailable for photo persistence");
+    ctx.drawImage(img, 0, 0, tw, th);
+    const dataUrl = canvas.toDataURL("image/jpeg", PERSIST_PHOTO_QUALITY);
+    if (source.startsWith("blob:")) {
+      try {
+        URL.revokeObjectURL(source);
+      } catch (_) {
+        /* ignore */
+      }
     }
     return dataUrl;
+  }
+
+  /** Prefer durable slot.photoRef; fall back to matching sighting photoRefs[0]. */
+  function resolveSlotPhoto(slot) {
+    if (!slot) return null;
+    const sight = (state.sightings || []).find((x) => x.id === slot.sightingId);
+    const fromSight = sight && Array.isArray(sight.photoRefs) ? sight.photoRefs[0] : null;
+    const candidates = [slot.photoRef, fromSight];
+    for (const ref of candidates) {
+      if (isDurablePhotoRef(ref)) return ref;
+    }
+    for (const ref of candidates) {
+      if (ref && typeof ref === "string" && !ref.startsWith("blob:")) return ref;
+    }
+    return null;
   }
 
   async function runIdentify() {
@@ -1498,13 +1564,16 @@
     const existingSlot = state.slots.find((sl) => sl.taxonId === s.speciesRef && sl.status !== "empty");
     let filledNew = false;
 
+    const durablePhoto =
+      (Array.isArray(s.photoRefs) && s.photoRefs[0]) || null;
+
     if (!existingSlot) {
       state.slots.push(
         makeSlot({
           taxonId: s.speciesRef,
           status: status === "uncertain" ? "uncertain" : "filled",
           firstSeenAt: s.observedAt,
-          photoRef: s.photoRefs[0],
+          photoRef: durablePhoto,
           sightingId: s.id,
           level: 1,
           battleXp: 0,
@@ -1515,6 +1584,12 @@
       );
       filledNew = true;
       xpGain += XP.newSlot;
+    } else if (durablePhoto) {
+      // Refresh thumb/Detail when a later sighting has a durable photo and slot was blank/broken.
+      if (!existingSlot.photoRef || String(existingSlot.photoRef).startsWith("blob:")) {
+        existingSlot.photoRef = durablePhoto;
+      }
+      if (!existingSlot.sightingId) existingSlot.sightingId = s.id;
     }
 
     const streakGain = updateStreak();
@@ -1694,8 +1769,9 @@
       const sight = state.sightings.find((x) => x.id === slot.sightingId);
       const conf = sight?.idConfidence || (slot.status === "uncertain" ? "unsure" : "likely");
       const nameShort = shortName(sample.commonName);
-      const thumb = slot.photoRef
-        ? `<img class="slot-thumb" src="${slot.photoRef}" alt="${escapeHtml(nameShort)}" />`
+      const thumbSrc = resolveSlotPhoto(slot);
+      const thumb = thumbSrc
+        ? `<img class="slot-thumb" src="${thumbSrc}" alt="${escapeHtml(nameShort)}" />`
         : `<div class="slot-thumb-ph">${sample.emoji || "🌿"}</div>`;
       const lv = slot.level || levelFromXp(slot.battleXp || 0);
       const lvHtml =
@@ -1766,8 +1842,12 @@
     const conf = sight?.idConfidence || (slot.status === "uncertain" ? "unsure" : "likely");
     $("#detail-title").textContent = sample.commonName;
 
-    const photoHtml = slot.photoRef
-      ? `<img src="${slot.photoRef}" alt="Sighting photo" />`
+    const detailPhoto = resolveSlotPhoto(slot);
+    if (detailPhoto && slot.photoRef !== detailPhoto) {
+      slot.photoRef = detailPhoto; // heal slot from sighting for later saves/thumbs
+    }
+    const photoHtml = detailPhoto
+      ? `<img src="${detailPhoto}" alt="Sighting photo" />`
       : `<span class="ph-fallback">${sample.emoji || "🌿"}</span>`;
 
     const lookList = (sample.lookalikes || [])
