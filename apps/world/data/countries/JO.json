@@ -1,7 +1,7 @@
 {
   "iso2": "JO",
   "name": "Jordan",
-  "updatedAt": "2026-11-11T23:07:45+08:00",
+  "updatedAt": "2026-11-12T05:02:31+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Purported ISIS-Linked Group In Jordan Claims Attacks",
+      "source": "MEMRI | Middle East Media Research Institute",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWXNEYk1kTW5aVElNNkktdXVIVTNSS3RLaGtublB3c1kwSHlWQnh2cks0TmlVd055VGtqRXZBemdUc0pERDZEMmRPNUYwTnFKWlByMURzOVh1UTlSQy00T1JxNW5FMWVKMHZxZXBsaURaV3BYTE8yOUtjaWczWWd5TWdCQVBvVS1obTdvLVZxYWFFTUlFaUdLREw4MVpTd19fSU9sVG1QSUgxRWhvUk9WRmNhSFEzcTA?oc=5",
+      "publishedAt": "2026-11-11T23:38:01+08:00"
+    },
+    {
       "title": "Air Arabia Dammam Opens First International Route to Amman - News and Statistics",
       "source": "IndexBox",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdFZ0Q0luM2Z5b25aRmh0TS1BZThsdjJxWHBmS0pFUUNBRzFYRDBGVkd2a3JzajRHbVZ0cXI2VnM1WTZQQnM4MzA1YmJnN0h2eWhZZG1pYUZjc0tNQk50RTVaS1o2VWVXTlcyZHJoSExiRHV1dmEwSG1FcEh0TnFBZUNqdVdmbDlBY1dyTUNMLW0weXRxbGNWUGMyMjN0RVE5WDZpdzZJY3oyQk90VjNvTGx2cVdNdHA1?oc=5",
       "publishedAt": "2026-11-11T22:31:27+08:00"
     },
     {
+      "title": "Amman Stocks Down 0.03% on Wednesday",
+      "source": "وكالة الانباء الاردنية",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zdy1uejNSR3hZazF0TDhNOHd1Uk5CRWcyTDdQN1FJMTVvek5zRDBHUW91YXhaTVZHS0o4R1lZT05FYjBDRGdPOXF3TjA0bDRXdzBub3B2ck5XV0p5Y01qZVFsdGtvenptR2k3eWZ5YVgwSENSRC1v?oc=5",
+      "publishedAt": "2026-11-11T19:46:23+08:00"
+    },
+    {
+      "title": "Jordan stabbing: Ex-convict faces terrorism charges after policeman’s death",
+      "source": "The National",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE15alZlclAtVGVSajdQeE1ERjFUQ1dBREQ4TWRqTkg4Vm5JTk14R3RqUnYwbkwweDVJSXhXb2MzbnBVYnFoZlQ2Sm5VbUJGc290dGRmYVJNNE1jcDdZdzZwSUtLamJFNjF0UHRGOUI2N0xDR19oN3ZZa0hR?oc=5",
+      "publishedAt": "2026-11-11T19:37:41+08:00"
+    },
+    {
       "title": "Man stabs father to death in Amman",
       "source": "Ammon News",
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UTVBKY2RCdTVhcTUyN1NFYWtjM2NOSGd2Rll2VEpJRXdoWjZsZ3RVTUtoQzBzbWpUTEI4NFdVcEtPYjBSdjUzUlFCLTJwQW8?oc=5",
       "publishedAt": "2026-11-11T15:21:55+08:00"
+    },
+    {
+      "title": "State Security Court Prosecutor Completes Investigation into Terrorist Attack on Public Security Personnel in Amman",
+      "source": "Jordan News",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOWGtDUGk3YzZSamVpWFhLMEtYMGY1RmJZNk9MQUJKcVhVS3hleGV6N1QwRGpOd1JlNy0wNmpMT2dLekdwblA3aFhJRmhtV18xaVVjLVVQN1BaUm85b3l1Rk1rdFdET2lmcnNtZkhJb0s4cy1HWDd3V0REUXhjU1dqYTZpX3dVdndLa1QtXzRDZVVHN3B2Rk9wWjVud2VlZjJMTi14eTVJUFA2NjBEYkdDUVZmWkZlNlpKcmpQeDdKQjBuc0EzcHBRMUJrelBndmc1aGpoTFZ5TzRVeVdxaHhsMC1fbWplRFpkeml3d1RiZlZyVmxUdjJn?oc=5",
+      "publishedAt": "2026-11-11T15:12:45+08:00"
     },
     {
       "title": "State Security Court files two terrorism charges against Amman attack suspect",
@@ -52,30 +76,6 @@
       "source": "Word&Way",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4zUG1QN1BSRkJUVF9LbHN2aWczOVFYOVM1OWFsNnphclFHQU40MjNMZk52NHpaaWZldl94SEZGOWFfbnpRbFhkMnJrM1VONFR1VHRmUjF5eWZ0Nl8wSzNvYjFiTUxIdTM4SUdLaURpQnBlUndsOWVra2JxQTBJZw?oc=5",
       "publishedAt": "2026-11-11T07:31:35+08:00"
-    },
-    {
-      "title": "Princess Wijdan of Jordan presents retrospective Echoes of Memory exhibition",
-      "source": "Muslim Network TV",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS3NrS09iUzlPVmtScV8tc3MwMHZKSXgweDRER0pqUGtERTY5RVlwdktsQ2lXbnQ3bGMyRjc2WXdXS2k5WGQydHkySUNDQ2lnc2czYkIwRjV5UzItNUNRWWV5SnU5NmFDSnhoSnZrdGJ1Vm1IOXplcmp1SzRRV0RoYTNULWNQVjBIZGNnWGtVcFVkZE5pWXA5TWs1RUtTZUt0b2xRbVZFWWp1Zw?oc=5",
-      "publishedAt": "2026-11-11T00:09:35+08:00"
-    },
-    {
-      "title": "Uzbekistan–Jordan business forum set for Amman in November",
-      "source": "UzDaily.uz",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYklwNW12ZXViLTBXUGh6S2hqc0dLZnlWNjF6aW1TdmViN1Q3c09DQS1zX0hieGdldFNuUXhUWDdtS3poNEdMQ043MHYxbC1Zbk54TkFCM2lFZTdKczhrWVl0ck5hdFBCN0k3c0JsX0NLVTlPSXRYM19ZRTlSa1RCclVONk1FNk9qWWotSVV3?oc=5",
-      "publishedAt": "2026-11-10T13:50:00+08:00"
-    },
-    {
-      "title": "Popovic refuses to blacklist Socceroos who pull out of Jordan friendly",
-      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS215UWZjR2tSYlpFLXN4ZFVJUlNzSEIweWRIOUV5bkdqYkpOdGpKTGhKSTRiYnJjX3B4NFc0WkNXUmR2SEttOERYLTZOSXNQLTlKUm5udFN3ZWJ1YmltLUlxckpoNnZ5ZlM3RDNFZ01xUWVrZUJYVEFLSlJ4aE1PUU8yck9SdjY2d0V6d3N1MllPc3ZZSGFKTjdjSUQ1NHdITEhhZU91UC00a2R1?oc=5",
-      "publishedAt": "2026-11-10T04:16:28+08:00"
-    },
-    {
-      "title": "Lawmakers Seek Stricter Terrorism Penalties Following Karak, Amman Attacks - The Jordan News Agency",
-      "source": "وكالة الانباء الاردنية",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOekNFbS1EbzVCaHJ1ZllEdTYzdzFxQVdOQXVoTm9UemZuOUVIcEUya2V3N3ZEMXVFQVEyZjhpOWtYZ09jVXBuaW1NZ2d5TEQyLWY5WWRmc3VhejNYZzBKWWV1eE1UdGVGS3AzMXI0VE9aR0V2Z2NVb2tXbkM4Tm1tVXlBXzQ4alJEMGJhcUJZSUtBYm51SFh0R0U4cWcxUkZPNTduQg?oc=5",
-      "publishedAt": "2026-11-09T19:45:14+08:00"
     }
   ]
 }
