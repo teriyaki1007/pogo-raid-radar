@@ -326,6 +326,9 @@
     turnLog: [],
     turnNumber: 1,
     pendingAction: null,
+    matchId: null,
+    partySubmitted: false,
+    waitingOnParty: false,
   };
 
   const DEMO_LEADERBOARD = [
@@ -338,6 +341,136 @@
     { rank: 7, username: "urbanotter", rating: 1462, region: "SG" },
     { rank: 8, username: "alpinejay", rating: 1398, region: "CH" },
   ];
+
+  let rankedLive = false;
+  let rankedBoard = null;
+  let rankedYou = null;
+  let rankedPollTimer = null;
+  let rankedPartyPollTimer = null;
+  let queuePollToken = 0;
+  let partyPollToken = 0;
+
+  function rankedApiUp(result) {
+    const api = window.NatureApi;
+    if (!api || !result) return false;
+    if (!api.apiAvailable(result)) return false;
+    if (result.status === 503) return false;
+    return true;
+  }
+
+  function stopQueuePoll() {
+    queuePollToken += 1;
+    if (rankedPollTimer) {
+      clearTimeout(rankedPollTimer);
+      rankedPollTimer = null;
+    }
+  }
+
+  function stopPartyPoll() {
+    partyPollToken += 1;
+    if (rankedPartyPollTimer) {
+      clearTimeout(rankedPartyPollTimer);
+      rankedPartyPollTimer = null;
+    }
+  }
+
+  function applyLiveMatch(data) {
+    stopQueuePoll();
+    battle.searching = false;
+    battle.matchId = data.matchId || battle.matchId;
+    battle.opponent = data.opponent || battle.opponent;
+    battle.opponentRating = data.opponentRating ?? battle.opponentRating;
+    if (data.habitat) battle.habitat = data.habitat;
+    if (battle.step === "lobby") renderBattle();
+    if (data.opponent) showToast(`Matched @${data.opponent}`);
+  }
+
+  function serializeFighter(f) {
+    return {
+      id: f.id,
+      commonName: f.commonName,
+      types: f.types || [],
+      moves: f.moves || [],
+      level: f.level || 1,
+      habitatAffinity: f.habitatAffinity || [],
+      rarity: f.rarity || "common",
+      photo: f.photoRef || f.photo || undefined,
+      emoji: f.emoji,
+      bp: f.bp,
+      kind: f.kind || "animal",
+    };
+  }
+
+  async function refreshRankedLobby() {
+    const api = window.NatureApi;
+    if (!api || !api.getToken() || typeof api.rankedMe !== "function") {
+      rankedLive = false;
+      return false;
+    }
+    const me = await api.rankedMe();
+    if (!rankedApiUp(me)) {
+      rankedLive = false;
+      return false;
+    }
+    rankedLive = true;
+    if (me.ok) {
+      if (typeof me.rating === "number") state.rating = me.rating;
+      rankedYou = {
+        username: me.username,
+        rating: me.rating,
+        rank: me.rank,
+        region: me.region || "—",
+      };
+    }
+    const board = await api.rankedLeaderboard();
+    if (rankedApiUp(board) && board.ok && Array.isArray(board.entries)) {
+      rankedBoard = board.entries;
+      if (board.you) {
+        rankedYou = board.you;
+        if (typeof board.you.rating === "number") state.rating = board.you.rating;
+      }
+    }
+    return true;
+  }
+
+  async function cancelRankedQueue() {
+    stopQueuePoll();
+    battle.searching = false;
+    const api = window.NatureApi;
+    if (rankedLive && api && api.getToken() && !battle.matchId && typeof api.rankedCancel === "function") {
+      try {
+        await api.rankedCancel();
+      } catch {
+        /* ignore */
+      }
+    }
+  }
+
+  async function startLiveQueue(habitat) {
+    const api = window.NatureApi;
+    const enqueue = await api.rankedEnqueue({ habitat });
+    if (!rankedApiUp(enqueue)) return { live: false, result: enqueue };
+    if (!enqueue.ok && enqueue.status === 401) {
+      return { live: true, result: enqueue, auth: false };
+    }
+    if (enqueue.matchId && enqueue.opponent) {
+      applyLiveMatch(enqueue);
+      return { live: true, result: enqueue, matched: true };
+    }
+    const token = ++queuePollToken;
+    const poll = async () => {
+      if (token !== queuePollToken || !battle.searching) return;
+      const st = await api.rankedQueueStatus();
+      if (token !== queuePollToken || !battle.searching) return;
+      if (rankedApiUp(st) && st.matchId && st.opponent) {
+        applyLiveMatch(st);
+        return;
+      }
+      rankedPollTimer = setTimeout(poll, 1500);
+    };
+    rankedPollTimer = setTimeout(poll, 1500);
+    return { live: true, result: enqueue, matched: false };
+  }
 
   async function boot() {
     try {
@@ -2145,8 +2278,14 @@
           showPanel("friends");
         } else if (nav === "battle") {
           battle.step = "lobby";
+          battle._rankedKickoff = false;
           renderBattle();
           showPanel("battle");
+          if (battle.mode === "ranked") {
+            refreshRankedLobby().then((ok) => {
+              if (ok && battle.step === "lobby") renderBattle();
+            });
+          }
         }
       });
     });
@@ -2560,10 +2699,36 @@
     return null;
   }
 
-  function finishBattle(won, { forfeit } = {}) {
+  async function finishBattle(won, { forfeit } = {}) {
+    if (battle.finishing) return;
+    battle.finishing = true;
     const outcome = forfeit ? "forfeit" : won ? "win" : "loss";
     let ratingDelta = 0;
-    if (battle.mode === "ranked" && !forfeit) {
+    const api = window.NatureApi;
+    const useServer =
+      battle.mode === "ranked" &&
+      battle.matchId &&
+      rankedLive &&
+      api &&
+      api.getToken() &&
+      typeof api.rankedResult === "function";
+    if (useServer) {
+      try {
+        const res = await api.rankedResult(battle.matchId, outcome);
+        if (res && res.ok && typeof res.rating === "number") {
+          ratingDelta = typeof res.ratingDelta === "number" ? res.ratingDelta : 0;
+          state.rating = res.rating;
+        } else if (res && res.status === 409) {
+          showToast("Result already recorded");
+          const me = await api.rankedMe();
+          if (me && me.ok && typeof me.rating === "number") state.rating = me.rating;
+        } else if (res && !res.ok) {
+          showToast(res.error || "Could not record Ranked result");
+        }
+      } catch {
+        showToast("Could not record Ranked result");
+      }
+    } else if (battle.mode === "ranked" && !forfeit) {
       ratingDelta = won ? 18 : -14;
       state.rating = Math.max(100, (state.rating || 1000) + ratingDelta);
     }
@@ -2584,6 +2749,7 @@
     battle.step = "results";
     battle.phase = "pick";
     battle.pendingAction = null;
+    battle.finishing = false;
     renderBattle();
     if (xpOut.leveled && xpOut.leveled.length) {
       showToast(xpOut.leveled.map((x) => `Level up → Lv ${x.level}`).join(" · "));
@@ -2973,19 +3139,27 @@
           ctaLabel = "Waiting for accept";
         }
       } else {
-        const board = DEMO_LEADERBOARD.map((row) => {
+        if (!battle._rankedKickoff) {
+          battle._rankedKickoff = true;
+          refreshRankedLobby().then((ok) => {
+            if (ok && battle.step === "lobby" && battle.mode === "ranked") renderBattle();
+          });
+        }
+        const liveBoard = rankedLive && Array.isArray(rankedBoard);
+        const boardRows = liveBoard ? rankedBoard : DEMO_LEADERBOARD;
+        const board = boardRows.map((row) => {
           const you = state.user && row.username === state.user.username;
           return `<li class="lb-row ${you ? "is-you" : ""}">
             <span class="lb-rank">#${row.rank}</span>
             <span class="lb-name">@${escapeHtml(row.username)}${you ? " · you" : ""}</span>
-            <span class="lb-region">${escapeHtml(row.region)}</span>
+            <span class="lb-region">${escapeHtml(row.region || "—")}</span>
             <span class="lb-elo">${row.rating}</span>
           </li>`;
         }).join("");
-        const youOnBoard = DEMO_LEADERBOARD.find(
+        const youOnBoard = boardRows.find(
           (r) => state.user && r.username === state.user.username
         );
-        const youRank = youOnBoard?.rank || "—";
+        const youRank = (rankedYou && rankedYou.rank) || youOnBoard?.rank || "—";
         const stickyYou = `<li class="lb-row is-you lb-you-sticky" aria-label="Your worldwide rank">
             <span class="lb-rank">#${youRank}</span>
             <span class="lb-name">@${escapeHtml(state.user?.username || "you")} · you</span>
@@ -2997,12 +3171,13 @@
               <strong>Finding opponent…</strong>
               <p class="muted small">Worldwide · ±100 Elo of ${myRating}</p>
               <div class="matchmake-pulse" aria-hidden="true"></div>
+              <button type="button" class="btn btn-secondary btn-block" id="btn-cancel-match" style="margin-top:10px">Cancel</button>
             </div>`
           : battle.opponent
             ? `<div class="matchmake-card is-found">
               <strong>Match found</strong>
               <p>@${escapeHtml(battle.opponent)} · Elo ${battle.opponentRating ?? "—"}</p>
-              <p class="muted small">Near your rating · worldwide queue (demo)</p>
+              <p class="muted small">${battle.matchId ? "Near your rating · worldwide queue" : "Near your rating · worldwide queue (demo)"}</p>
             </div>`
             : `<div class="matchmake-card">
               <strong>Ranked queue</strong>
@@ -3047,10 +3222,17 @@
 
       root.querySelectorAll("[data-mode]").forEach((b) =>
         b.addEventListener("click", () => {
+          if (battle.mode === "ranked" && b.dataset.mode !== "ranked") {
+            cancelRankedQueue();
+          }
           battle.mode = b.dataset.mode;
           battle.opponent = null;
           battle.opponentRating = null;
+          battle.matchId = null;
           battle.searching = false;
+          battle.partySubmitted = false;
+          battle.waitingOnParty = false;
+          battle._rankedKickoff = false;
           renderBattle();
         })
       );
@@ -3067,11 +3249,26 @@
           renderBattle();
         })
       );
-      $("#btn-find-match")?.addEventListener("click", () => {
+      $("#btn-find-match")?.addEventListener("click", async () => {
         battle.searching = true;
         battle.opponent = null;
         battle.opponentRating = null;
+        battle.matchId = null;
         renderBattle();
+        const api = window.NatureApi;
+        const canTryLive = api && typeof api.rankedEnqueue === "function" && api.getToken();
+        if (canTryLive) {
+          const started = await startLiveQueue(battle.habitat);
+          if (started.live) {
+            if (started.auth === false) {
+              stopQueuePoll();
+              battle.searching = false;
+              showToast("Sign in required for worldwide queue");
+              renderBattle();
+            }
+            return;
+          }
+        }
         setTimeout(() => {
           if (!battle.searching) return;
           const pool = DEMO_LEADERBOARD.filter(
@@ -3085,9 +3282,17 @@
           battle.searching = false;
           battle.opponent = pick.username;
           battle.opponentRating = pick.rating;
+          battle.matchId = null;
           renderBattle();
           showToast(`Matched @${pick.username}`);
         }, 1100);
+      });
+      $("#btn-cancel-match")?.addEventListener("click", async () => {
+        await cancelRankedQueue();
+        battle.opponent = null;
+        battle.opponentRating = null;
+        battle.matchId = null;
+        renderBattle();
       });
       $("#btn-sim-accept")?.addEventListener("click", () => {
         battle.invitePending = false;
@@ -3176,19 +3381,32 @@
         })
         .join("");
 
+      const waitingNote = battle.waitingOnParty
+        ? `<div class="matchmake-card is-searching" style="margin-bottom:12px">
+            <strong>Waiting for @${escapeHtml(battle.opponent || "opponent")}…</strong>
+            <p class="muted small">They are picking a party of 3</p>
+            <div class="matchmake-pulse" aria-hidden="true"></div>
+          </div>`
+        : "";
+      const canEnter = selected.size === 3 && !battle.waitingOnParty;
+      const enterLabel = battle.waitingOnParty ? "Waiting for opponent" : "Enter battle";
+
       root.innerHTML = `
         <div class="battle-layout">
           <div class="battle-scroll">
             <button type="button" class="btn-back" id="btn-party-back">← Lobby</button>
             <p class="party-count">${selected.size}/3 fighters · animals only · biome locked: ${habitatLabel(battle.habitat)}</p>
+            ${waitingNote}
             <div class="party-picker">${cards || '<div class="empty-hint">No animal fighters yet</div>'}</div>
           </div>
           <div class="battle-sticky">
-            <button type="button" class="btn btn-primary btn-block" id="btn-start-fight" ${selected.size === 3 ? "" : "disabled"}>Enter battle</button>
+            <button type="button" class="btn btn-primary btn-block" id="btn-start-fight" ${canEnter ? "" : "disabled"}>${enterLabel}</button>
           </div>
         </div>`;
 
       $("#btn-party-back")?.addEventListener("click", () => {
+        stopPartyPoll();
+        battle.waitingOnParty = false;
         battle.step = "lobby";
         renderBattle();
       });
@@ -3201,12 +3419,46 @@
           renderBattle();
         });
       });
-      $("#btn-start-fight")?.addEventListener("click", () => {
-        if (battle.partyIds.length !== 3) return;
+      $("#btn-start-fight")?.addEventListener("click", async () => {
+        if (battle.partyIds.length !== 3 || battle.waitingOnParty) return;
         const rosterNow = collectAnimalRoster();
         const party = battle.partyIds.map((id) => rosterNow.find((r) => r.id === id)).filter(Boolean);
         if (party.length !== 3) {
           showToast("Pick 3 animal fighters");
+          return;
+        }
+        if (battle.mode === "ranked" && battle.matchId && rankedLive && window.NatureApi && typeof window.NatureApi.rankedSubmitParty === "function") {
+          const api = window.NatureApi;
+          const sub = await api.rankedSubmitParty(battle.matchId, party.map(serializeFighter));
+          if (!rankedApiUp(sub) || !sub.ok) {
+            showToast((sub && sub.error) || "Could not submit party");
+            return;
+          }
+          battle.partySubmitted = true;
+          if (sub.status === "ready" && Array.isArray(sub.opponentParty) && sub.opponentParty.length) {
+            stopPartyPoll();
+            battle.waitingOnParty = false;
+            startTurnBattle(party, sub.opponentParty);
+            renderBattle();
+            return;
+          }
+          battle.waitingOnParty = true;
+          renderBattle();
+          const token = ++partyPollToken;
+          const poll = async () => {
+            if (token !== partyPollToken) return;
+            const st = await api.rankedMatch(battle.matchId);
+            if (token !== partyPollToken) return;
+            if (rankedApiUp(st) && st.status === "ready" && Array.isArray(st.opponentParty) && st.opponentParty.length) {
+              stopPartyPoll();
+              battle.waitingOnParty = false;
+              startTurnBattle(party, st.opponentParty);
+              renderBattle();
+              return;
+            }
+            rankedPartyPollTimer = setTimeout(poll, 1500);
+          };
+          rankedPartyPollTimer = setTimeout(poll, 1500);
           return;
         }
         let foePool = rosterNow.filter((r) => !battle.partyIds.includes(r.id));
@@ -3326,6 +3578,10 @@
         if (battle.mode === "ranked") {
           battle.opponent = null;
           battle.opponentRating = null;
+          battle.matchId = null;
+          battle.partySubmitted = false;
+          battle.waitingOnParty = false;
+          battle._rankedKickoff = false;
         }
         renderBattle();
       });
@@ -3333,6 +3589,10 @@
         if (battle.mode === "ranked") {
           battle.step = "lobby";
           battle.lastResult = null;
+          battle.matchId = null;
+          battle.partySubmitted = false;
+          battle.waitingOnParty = false;
+          battle._rankedKickoff = false;
           renderBattle();
         } else {
           renderFriends();

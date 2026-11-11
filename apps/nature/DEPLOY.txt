@@ -1,6 +1,6 @@
 Project Nature — auth + photo uploads (Cloudflare Pages Functions)
 
-Status: /nature/ live behind preview password gate (middleware); off public landing. Hold real auth until CF bindings + E2E.
+Status: /nature/ stays behind the preview password gate. Auth, uploads, and Ranked API are bound on Production D1/R2; client uses the live queue when /nature/api/ranked/* is available, otherwise the local demo queue.
 Stack: Pages UI + D1 (NATURE_DB) + R2 (NATURE_PHOTOS) + NATURE_AUTH_SECRET.
 
 Dad / CF dashboard (same Pages project as groot.zynergy.studio — once):

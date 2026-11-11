@@ -189,6 +189,14 @@ Source: `functions/marvel/api/{register,login,progress}.js` (+ `_lib.js`)
 | `GET` | `/nature/api/photos/:id` | Bearer | private image bytes |
 | `GET`/`POST` | `/nature/api/sightings` | Bearer | create/list private sightings |
 | `PATCH`/`DELETE` | `/nature/api/sightings/:id` | Bearer | update/delete own sighting |
+| `GET` | `/nature/api/ranked/me` | Bearer | Elo (starts at 1000), world rank |
+| `GET` | `/nature/api/ranked/leaderboard` | Bearer | top 100 + caller row |
+| `POST`/`GET`/`DELETE` | `/nature/api/ranked/queue` | Bearer | worldwide Elo queue (±100, closest) |
+| `GET` | `/nature/api/ranked/matches/:id` | Bearer | match + parties once both ready |
+| `POST` | `/nature/api/ranked/matches/:id/party` | Bearer | submit 3-fighter party |
+| `POST` | `/nature/api/ranked/matches/:id/result` | Bearer | win/loss/forfeit; Elo once, idempotent |
+
+`/nature/` stays preview-gated. Ranked uses Production D1 (`NATURE_DB`); tables auto-migrate on first request (also in `apps/nature/schema.sql`).
 
 Passwords: PBKDF2-SHA-256 (100k), same pattern as Marvel. Photos: keep EXIF DateTime (original upload when ≤2400px/6MB); resize only if oversized.
 

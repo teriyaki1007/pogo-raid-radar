@@ -304,6 +304,46 @@
     setToken("");
   }
 
+  async function rankedMe() {
+    if (!getToken()) return { ok: false, error: "No token" };
+    return request("/ranked/me");
+  }
+
+  async function rankedLeaderboard() {
+    if (!getToken()) return { ok: false, error: "No token" };
+    return request("/ranked/leaderboard");
+  }
+
+  async function rankedEnqueue(body = {}) {
+    return request("/ranked/queue", { method: "POST", body });
+  }
+
+  async function rankedQueueStatus() {
+    return request("/ranked/queue");
+  }
+
+  async function rankedCancel() {
+    return request("/ranked/queue", { method: "DELETE" });
+  }
+
+  async function rankedMatch(matchId) {
+    return request(`/ranked/matches/${encodeURIComponent(matchId)}`);
+  }
+
+  async function rankedSubmitParty(matchId, party) {
+    return request(`/ranked/matches/${encodeURIComponent(matchId)}/party`, {
+      method: "POST",
+      body: { party },
+    });
+  }
+
+  async function rankedResult(matchId, outcome) {
+    return request(`/ranked/matches/${encodeURIComponent(matchId)}/result`, {
+      method: "POST",
+      body: { outcome },
+    });
+  }
+
   global.NatureApi = {
     getToken,
     setToken,
@@ -317,6 +357,14 @@
     uploadPhoto,
     createSighting,
     logout,
+    rankedMe,
+    rankedLeaderboard,
+    rankedEnqueue,
+    rankedQueueStatus,
+    rankedCancel,
+    rankedMatch,
+    rankedSubmitParty,
+    rankedResult,
     LONG_EDGE_MAX,
     LONG_EDGE_MIN_NOTE,
   };

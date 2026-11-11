@@ -53,3 +53,39 @@ CREATE TABLE IF NOT EXISTS photos (
   height INTEGER,
   created_at TEXT NOT NULL
 );
+
+-- Ranked (auto-migrated on first /nature/api/ranked/* request as well)
+CREATE TABLE IF NOT EXISTS ranked_ratings (
+  username TEXT PRIMARY KEY REFERENCES users(username),
+  rating INTEGER NOT NULL DEFAULT 1000,
+  wins INTEGER NOT NULL DEFAULT 0,
+  losses INTEGER NOT NULL DEFAULT 0,
+  updated_at TEXT NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS ranked_queue (
+  username TEXT PRIMARY KEY REFERENCES users(username),
+  rating INTEGER NOT NULL,
+  habitat TEXT NOT NULL,
+  enqueued_at TEXT NOT NULL,
+  match_id TEXT
+);
+
+CREATE TABLE IF NOT EXISTS ranked_matches (
+  id TEXT PRIMARY KEY,
+  player_a TEXT NOT NULL,
+  player_b TEXT NOT NULL,
+  rating_a INTEGER NOT NULL,
+  rating_b INTEGER NOT NULL,
+  habitat TEXT NOT NULL,
+  party_a_json TEXT,
+  party_b_json TEXT,
+  status TEXT NOT NULL,
+  winner TEXT,
+  elo_applied INTEGER NOT NULL DEFAULT 0,
+  created_at TEXT NOT NULL,
+  updated_at TEXT NOT NULL
+);
+
+CREATE INDEX IF NOT EXISTS idx_ranked_ratings_board ON ranked_ratings(rating DESC, username);
+CREATE INDEX IF NOT EXISTS idx_ranked_queue_open ON ranked_queue(match_id, rating);
