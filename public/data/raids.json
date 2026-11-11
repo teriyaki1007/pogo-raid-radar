@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-11-11",
-    "asOfLabel": "11 Nov 2026 ~6:30 AM HKT (Zamazenta Raid Hour ended in Asia/Oceania/Europe; still later today in the Americas)",
+    "asOfLabel": "11 Nov 2026 ~10:30 PM HKT (Zamazenta Raid Hour ENDED worldwide; Dynamax Registeel ended in Asia/Oceania)",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Morning refresh 11 Nov ~6:30 AM HKT: Into the Wild still LIVE (Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local). 5★ Crowned Sword Zacian + Crowned Shield Zamazenta (catch Hero of Many Battles — hundo 2188 / 2735 Cloudy) and 3★ Druddigon + Orthworm. No 1★ or Mega published for this event (official + Leek Duck). Remote Raid limit 30. Zacian Raid Hour (Mon 9, 6–7 PM) ENDED worldwide. Zamazenta Raid Hour (Tue 10, 6–7 PM local) ended in Asia, Oceania, and Europe; still later today in the Americas (starting shortly in Eastern North America as of this check). Today’s 5★ Max Battle is Dynamax Registeel (Max dens, not gym raid cards; Regidrago Thu / Latias+Latios Fri). Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still listed (Leek Duck + GO Hub). Shadow Tornadus first weekend ended; longer package resumes Mon 16 Nov → Tue 1 Dec. Upcoming unchanged: GO Wild Area Global Sat 14 (Zekrom + White Kyurem + Dynamax Dialga) & Sun 15 (Reshiram + Black Kyurem + Dynamax Palkia) + Modern Jacket Machamp 3★ → Cresselia + Darkrai 5★ + Mega Banette Mon 16–Tue 24 Nov → Deoxys (all 4 formes) 5★ + Mega Metagross Wed 25 Nov–Tue 1 Dec. Eggs (Leek Duck Updated Sep 14; Wild Area 10 km event pool Honedge/Klefki/Drampa/Duraludon starts Sat 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged.",
-      "endsAtLabel": "Into the Wild → Fri 13 Nov 8:00 PM local · Zamazenta Raid Hour (Tue 10) later today in the Americas 6–7 PM local · Dynamax Registeel Max Battles today"
+      "text": "Evening refresh 11 Nov ~10:30 PM HKT: Into the Wild still LIVE (Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local). 5★ Crowned Sword Zacian + Crowned Shield Zamazenta (catch Hero of Many Battles — hundo 2188 / 2735 Cloudy) and 3★ Druddigon + Orthworm. No 1★ or Mega published for this event (official + Leek Duck). Remote Raid limit 30. Zacian Raid Hour (Mon 9, 6–7 PM) and Zamazenta Raid Hour (Tue 10, 6–7 PM) ENDED worldwide. Today’s 5★ Max Battle is Dynamax Registeel (Max dens, not gym raid cards) — ended in Asia/Oceania as of this check; still later today in Europe and the Americas. Dynamax Regidrago debuts Thursday (already Thu in NZ/far-east Australia — later today 6–7 PM local there; Latias+Latios Fri). Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still listed (Leek Duck + GO Hub + ScrapedDuck). Shadow Tornadus first weekend ended; longer package resumes Mon 16 Nov → Tue 1 Dec. Upcoming unchanged: GO Wild Area Global Sat 14 (Zekrom + White Kyurem + Dynamax Dialga) & Sun 15 (Reshiram + Black Kyurem + Dynamax Palkia) + Modern Jacket Machamp 3★ → Cresselia + Darkrai 5★ + Mega Banette Mon 16–Tue 24 Nov → Deoxys (all 4 formes) 5★ + Mega Metagross Wed 25 Nov–Tue 1 Dec. Eggs (Leek Duck Updated Sep 14; Wild Area 10 km event pool Honedge/Klefki/Drampa/Duraludon starts Sat 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged.",
+      "endsAtLabel": "Into the Wild → Fri 13 Nov 8:00 PM local · Dynamax Registeel Max Battles later today in Europe/Americas · Dynamax Regidrago Thu"
     },
     "legend": {
       "standard": {
@@ -1496,7 +1496,7 @@
         "pokeapiId": 10189,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10189.png"
       },
-      "notes": "LIVE with Into the Wild (official / Leek Duck) Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local. Fighting/Steel. You fight Crowned Shield but catch Hero of Many Battles — hundo 2188 (2735 Cloudy). Raid Hour Tue 10 Nov 6–7 PM local ENDED in Asia/Oceania/Europe; still later today in the Americas. Wins award Crowned Shield Energy; Special Background possible on 5★ catches. Shiny-eligible.",
+      "notes": "LIVE with Into the Wild (official / Leek Duck) Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local. Fighting/Steel. You fight Crowned Shield but catch Hero of Many Battles — hundo 2188 (2735 Cloudy). Raid Hour Tue 10 Nov 6–7 PM ENDED. Wins award Crowned Shield Energy; Special Background possible on 5★ catches. Shiny-eligible.",
       "types": [
         "Fighting",
         "Steel"
@@ -2649,7 +2649,7 @@
       "id": "into-the-wild-2026",
       "when": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (LIVE)",
       "title": "Into the Wild 2026 (LIVE)",
-      "impact": "LIVE through Fri 13 Nov 8:00 PM local. 5★ Crowned Sword Zacian + Crowned Shield Zamazenta all week — catch is Hero of Many Battles, hundo 2188 / 2735 Cloudy (Crowned Sword/Shield Energy from wins; Special Background possible). 3★ Druddigon + Orthworm. No 1★ or Mega listed. Remote Raid limit 30. Max Battles (1★ Ralts, 2★ Machop; 5★ Registeel today Wed / Regidrago Thu / Latias+Latios Fri) are Max dens, not gym raid cards. Raid Hours: Zacian Mon 9 ENDED worldwide; Zamazenta Tue 10 6–7 PM local (ended in Asia/Oceania/Europe; still later today in the Americas).",
+      "impact": "LIVE through Fri 13 Nov 8:00 PM local. 5★ Crowned Sword Zacian + Crowned Shield Zamazenta all week — catch is Hero of Many Battles, hundo 2188 / 2735 Cloudy (Crowned Sword/Shield Energy from wins; Special Background possible). 3★ Druddigon + Orthworm. No 1★ or Mega listed. Remote Raid limit 30. Max Battles (1★ Ralts, 2★ Machop; 5★ Registeel ended in Asia/Oceania, still later today in Europe/Americas / Regidrago Thu — already Thu in NZ/far-east / Latias+Latios Fri) are Max dens, not gym raid cards. Raid Hours: Zacian Mon 9 and Zamazenta Tue 10 ENDED worldwide.",
       "urgent": true
     },
     {
@@ -2661,10 +2661,10 @@
     },
     {
       "id": "raid-hour-zamazenta-nov10",
-      "when": "Tue 10 Nov 6:00–7:00 PM local (ended in Asia/Oceania/Europe; later today in the Americas)",
-      "title": "Raid Hour: Zamazenta (Crowned Shield) (Americas still later today)",
-      "impact": "Into the Wild Raid Hour — denser Crowned Shield Zamazenta 5★ spawns 6–7 PM local Tue 10 Nov. Ended in Asia, Oceania, and Europe as of this 6:30 AM HKT Wed 11 Nov check; still later today in the Americas (starting shortly in Eastern North America).",
-      "urgent": true
+      "when": "Tue 10 Nov 6:00–7:00 PM local (ENDED)",
+      "title": "Raid Hour: Zamazenta (Crowned Shield) (ENDED)",
+      "impact": "ENDED after 7:00 PM local Tue 10 Nov worldwide (including latest timezones). Into the Wild Crowned Shield Zamazenta 5★ remains in raids all week.",
+      "urgent": false
     },
     {
       "id": "shadow-tornadus-nov4",
