@@ -29,8 +29,9 @@
     }
   }
 
-  async function request(path, { method = "GET", body, headers = {}, formData } = {}) {
+  async function request(path, { method = "GET", body, headers = {}, formData, cache } = {}) {
     const opts = { method, headers: { ...headers } };
+    if (cache) opts.cache = cache;
     const token = getToken();
     if (token) opts.headers.Authorization = `Bearer ${token}`;
     if (formData) {
@@ -300,6 +301,20 @@
     return request("/sightings", { method: "POST", body: sighting });
   }
 
+  async function createIdentifyJob(job) {
+    return request("/identify", { method: "POST", body: job });
+  }
+
+  async function getIdentifyJob(packageId) {
+    if (!getToken()) return { ok: false, error: "No token" };
+    return request(`/identify/${encodeURIComponent(packageId)}`, { cache: "no-store" });
+  }
+
+  async function getIdentifyCard(packageId) {
+    if (!getToken()) return { ok: false, error: "No token" };
+    return request(`/identify/${encodeURIComponent(packageId)}/species-card`, { cache: "no-store" });
+  }
+
   function logout() {
     setToken("");
   }
@@ -356,6 +371,9 @@
     putProgress,
     uploadPhoto,
     createSighting,
+    createIdentifyJob,
+    getIdentifyJob,
+    getIdentifyCard,
     logout,
     rankedMe,
     rankedLeaderboard,

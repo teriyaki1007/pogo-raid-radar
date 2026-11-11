@@ -2,7 +2,8 @@
  * Project Nature — /nature/ demo mount (v0.1 UI + demo JSON)
  * Loads shared speciesCards from data/catalogue-demo.json.
  * Loads Species Guide Identify packages from data/identify/<id>/species-card.json
- * (meta.identifyPackages). Identify is per-photo: never reuse demo-001 / passer-montanus
+ * (meta.identifyPackages) and polls live /nature/api/identify/<id> for signed-in users.
+ * Identify is per-photo: never reuse demo-001 / passer-montanus
  * as the default for an uploaded shot. Instant Confirm first-paint is slim/provisional.
  * Prefers /nature/api/* (D1+R2) when bound; falls back to localStorage.
  * Design Critique v0.1 pass applied (UI clear for demo wire).
@@ -605,6 +606,8 @@
         },
       ],
       rating: 1000,
+      pendingSighting: null,
+      pendingMoves: [],
     };
   }
 
@@ -657,6 +660,8 @@
       friendRequests: Array.isArray(s.friendRequests) ? s.friendRequests : base.friendRequests,
       battleInvites: Array.isArray(s.battleInvites) ? s.battleInvites : base.battleInvites,
       rating: typeof s.rating === "number" ? s.rating : base.rating,
+      pendingSighting: s.pendingSighting && typeof s.pendingSighting === "object" ? s.pendingSighting : null,
+      pendingMoves: Array.isArray(s.pendingMoves) ? s.pendingMoves.slice() : [],
     };
   }
 
@@ -700,6 +705,7 @@
     showScreen("app");
     renderProgress();
     renderDex();
+    if (restorePendingSighting()) return;
     showPanel("capture");
   }
 
@@ -820,8 +826,14 @@
     $("#btn-logout").addEventListener("click", () => {
       if (window.NatureApi) window.NatureApi.logout();
       state.user = null;
-      saveState();
       pendingSighting = null;
+      pendingMoves = [];
+      if (state) {
+        state.pendingSighting = null;
+        state.pendingMoves = [];
+      }
+      saveState();
+      stopGuidePoll();
       photoDataUrl = null;
       photoFile = null;
       resetCaptureForm();
@@ -956,11 +968,13 @@
         previewPhotoUrl(persistent);
         if (pendingSighting && pendingSighting.id === sightingId) {
           pendingSighting.photoRefs = [persistent];
+          persistPending();
           const photoEl = $("#confirm-photo");
           const confirmPanel = $("#panel-confirm");
           if (photoEl && confirmPanel && !confirmPanel.hidden) {
             photoEl.innerHTML = `<img src="${persistent}" alt="Logged photo" />`;
           }
+          startIdentifyJobUpload(pendingSighting);
         }
       } catch (err) {
         console.warn("Background photo upgrade failed", err);
@@ -1145,6 +1159,116 @@
   }
 
   let guidePollTimer = null;
+  const guidePollIds = new Set();
+  const identifyUploadInFlight = new Map();
+
+  function isRemoteAuthed() {
+    const api = window.NatureApi;
+    return !!(api && api.getToken && api.getToken() && state && state.user && !state.user.localOnly);
+  }
+
+  function persistPending() {
+    if (!state) return;
+    state.pendingSighting = pendingSighting
+      ? {
+          ...pendingSighting,
+          sampleMeta: pendingSighting.sampleMeta ? { ...pendingSighting.sampleMeta } : pendingSighting.sampleMeta,
+        }
+      : null;
+    state.pendingMoves = Array.isArray(pendingMoves) ? pendingMoves.slice() : [];
+    saveState();
+  }
+
+  function restorePendingSighting() {
+    if (!state || !state.pendingSighting || !state.pendingSighting.packageId) return false;
+    pendingSighting = state.pendingSighting;
+    pendingMoves = Array.isArray(state.pendingMoves) ? state.pendingMoves.slice() : [];
+    const ref = Array.isArray(pendingSighting.photoRefs) ? pendingSighting.photoRefs[0] : null;
+    if (ref && typeof ref === "string" && !ref.startsWith("blob:")) {
+      photoDataUrl = ref;
+      previewPhotoUrl(ref);
+    }
+    renderConfirm(pendingSighting);
+    showPanel("confirm");
+    focusConfirmPlaceIfEmpty();
+    startGuidePoll(pendingSighting.packageId);
+    startIdentifyJobUpload(pendingSighting);
+    return true;
+  }
+
+  function applyGuideFieldsToSighting(sighting, storeCard, conf) {
+    if (!sighting) return;
+    const prev = sighting.sampleMeta || {};
+    sighting.sampleMeta = {
+      ...prev,
+      ...storeCard,
+      _confidence: conf,
+      _fromPhoto: true,
+      _slim: false,
+      _identifying: !String(storeCard.commonName || "").trim() && storeCard.idTier === "lookalike-set",
+      _guideOwned: true,
+      guideOwned: true,
+    };
+    sighting.idConfidence = conf;
+    sighting.speciesRef = storeCard.taxonId || storeCard.id;
+    sighting.lookalikeRefs = (storeCard.lookalikes || []).slice();
+    sighting.habitatAffinity = normalizeHabitatAffinity(storeCard.habitatAffinity);
+  }
+
+  async function startIdentifyJobUpload(sighting) {
+    const api = window.NatureApi;
+    if (!sighting || !sighting.packageId) return;
+    if (!isRemoteAuthed() || !api.createIdentifyJob || !api.uploadPhoto) return;
+    const pkgId = sighting.packageId;
+    if (identifyUploadInFlight.has(pkgId)) return identifyUploadInFlight.get(pkgId);
+    const run = (async () => {
+      try {
+        let photoId = sighting.photoId || null;
+        if (!photoId && photoFile) {
+          const up = await api.uploadPhoto(photoFile);
+          if (up.ok && up.photoId) {
+            photoId = up.photoId;
+            sighting.photoId = photoId;
+            if (pendingSighting && pendingSighting.packageId === pkgId) {
+              pendingSighting.photoId = photoId;
+            }
+            persistPending();
+          } else if (up.error && api.apiAvailable(up)) {
+            showToast(`Photo upload: ${up.error}`);
+            return;
+          } else {
+            return;
+          }
+        }
+        if (!photoId) return;
+        const created = await api.createIdentifyJob({
+          id: pkgId,
+          photoId,
+          observedAt: sighting.observedAt,
+          placeLabel: sighting.place && sighting.place.label,
+          place: sighting.place,
+          notes: sighting.notes,
+          privacy: sighting.privacy || "private",
+        });
+        if (created.ok) {
+          sighting.identifyJob = true;
+          if (pendingSighting && pendingSighting.packageId === pkgId) {
+            pendingSighting.identifyJob = true;
+            pendingSighting.photoId = photoId;
+          }
+          persistPending();
+        } else if (created.error && api.apiAvailable(created)) {
+          showToast(`Identify job: ${created.error}`);
+        }
+      } catch (err) {
+        console.warn("Identify job create failed", err);
+      } finally {
+        identifyUploadInFlight.delete(pkgId);
+      }
+    })();
+    identifyUploadInFlight.set(pkgId, run);
+    return run;
+  }
 
   function stopGuidePoll() {
     if (guidePollTimer) {
@@ -1155,6 +1279,22 @@
 
   async function fetchGuidePackage(pkgId) {
     if (!pkgId) return null;
+    const api = window.NatureApi;
+    // Live job API first (no Pages deploy needed once Guide writes the card).
+    if (isRemoteAuthed() && api && (api.getIdentifyCard || api.getIdentifyJob)) {
+      try {
+        let job = null;
+        if (api.getIdentifyCard) job = await api.getIdentifyCard(pkgId);
+        if ((!job || !job.ok || !job.card || !job.card.id) && api.getIdentifyJob) {
+          job = await api.getIdentifyJob(pkgId);
+        }
+        const card = job && job.ok ? job.card : null;
+        if (card && card.id) return card;
+      } catch (err) {
+        console.warn("Identify API poll failed", pkgId, err);
+      }
+    }
+    // Static file fallback for an already-open session or a pushed package.
     const res = await fetch(`data/identify/${encodeURIComponent(pkgId)}/species-card.json`, {
       cache: "no-store",
     });
@@ -1163,49 +1303,64 @@
   }
 
   function startGuidePoll(pkgId) {
-    stopGuidePoll();
-    if (!pkgId) return;
+    if (pkgId && pkgId !== "demo-001" && pkgId !== "passer-montanus") {
+      guidePollIds.add(pkgId);
+    }
+    if (!guidePollIds.size) return;
     const tick = async () => {
-      if (!pendingSighting || pendingSighting.packageId !== pkgId) {
+      if (!guidePollIds.size) {
         stopGuidePoll();
         return;
       }
-      // Never treat demo-001 as the fill for a different photo's package.
-      if (pkgId === "demo-001" || pkgId === "passer-montanus") return;
-      try {
-        const guide = await fetchGuidePackage(pkgId);
-        if (!guide || !guide.id) return;
-        if (guide.packageId && guide.packageId !== pkgId && guide.packageId === "demo-001") return;
-        applyGuideCardToPending(guide, pkgId);
-      } catch (err) {
-        console.warn("Identify poll failed", pkgId, err);
+      for (const id of [...guidePollIds]) {
+        // Never treat demo-001 as the fill for a different photo's package.
+        if (id === "demo-001" || id === "passer-montanus") {
+          guidePollIds.delete(id);
+          continue;
+        }
+        try {
+          const guide = await fetchGuidePackage(id);
+          if (!guide || !guide.id) continue;
+          if (guide.packageId && guide.packageId !== id && guide.packageId === "demo-001") continue;
+          applyGuideCardToPending(guide, id);
+          const stillSlim =
+            (pendingSighting && pendingSighting.packageId === id && isSlimIdentifying(pendingSighting.sampleMeta)) ||
+            (state.sightings || []).some((s) => s.packageId === id && isSlimIdentifying(s.sampleMeta));
+          if (!stillSlim) guidePollIds.delete(id);
+        } catch (err) {
+          console.warn("Identify poll failed", id, err);
+        }
       }
+      if (!guidePollIds.size) stopGuidePoll();
     };
     tick();
-    guidePollTimer = setInterval(tick, 3000);
+    if (!guidePollTimer) {
+      guidePollTimer = setInterval(tick, 3000);
+    }
   }
 
   function applyGuideCardToPending(guide, pkgId) {
-    if (!pendingSighting) return;
-    const storeCard = mergeGuideCardIntoStore(guide, pkgId || guide.packageId);
+    const id = pkgId || guide.packageId;
+    const storeCard = mergeGuideCardIntoStore(guide, id);
     const conf = mapGuideConfidence(guide);
-    const prev = pendingSighting.sampleMeta || {};
-    pendingSighting.sampleMeta = {
-      ...prev,
-      ...storeCard,
-      _confidence: conf,
-      _fromPhoto: true,
-      _slim: false,
-      _identifying: !String(storeCard.commonName || "").trim() && storeCard.idTier === "lookalike-set",
-      _guideOwned: true,
-      guideOwned: true,
-    };
-    pendingSighting.idConfidence = conf;
-    pendingSighting.speciesRef = storeCard.taxonId || storeCard.id;
-    pendingSighting.lookalikeRefs = (storeCard.lookalikes || []).slice();
-    pendingSighting.habitatAffinity = normalizeHabitatAffinity(storeCard.habitatAffinity);
-    pendingMoves = [];
-    renderConfirm(pendingSighting);
+    if (pendingSighting && pendingSighting.packageId === id) {
+      applyGuideFieldsToSighting(pendingSighting, storeCard, conf);
+      pendingMoves = [];
+      persistPending();
+      renderConfirm(pendingSighting);
+    }
+    let updatedCollected = false;
+    (state.sightings || []).forEach((s) => {
+      if (s && s.packageId === id) {
+        applyGuideFieldsToSighting(s, storeCard, conf);
+        updatedCollected = true;
+      }
+    });
+    if (updatedCollected) {
+      saveState();
+      renderDex();
+      renderProgress();
+    }
   }
 
   function openInstantConfirm({ remint } = {}) {
@@ -1230,9 +1385,12 @@
       if (photoDataUrl && (!pendingSighting.photoRefs || pendingSighting.photoRefs[0] !== photoDataUrl)) {
         pendingSighting.photoRefs = [photoDataUrl];
       }
+      persistPending();
       renderConfirm(pendingSighting);
       showPanel("confirm");
       focusConfirmPlaceIfEmpty();
+      startGuidePoll(pendingSighting.packageId);
+      startIdentifyJobUpload(pendingSighting);
       return;
     }
 
@@ -1257,10 +1415,12 @@
       xpAwarded: 0,
       fromPhoto: true,
     };
+    persistPending();
     renderConfirm(pendingSighting);
     showPanel("confirm");
     focusConfirmPlaceIfEmpty();
     startGuidePoll(packageId);
+    startIdentifyJobUpload(pendingSighting);
   }
 
 
@@ -1459,8 +1619,13 @@
       showToast("Edit your log, then Identify again");
     });
     $("#btn-new-log").addEventListener("click", () => {
-      stopGuidePoll();
+      if (pendingSighting && pendingSighting.packageId) {
+        guidePollIds.delete(pendingSighting.packageId);
+      }
+      if (!guidePollIds.size) stopGuidePoll();
       pendingSighting = null;
+      pendingMoves = [];
+      persistPending();
       resetCaptureForm();
       showPanel("capture");
     });
@@ -1568,8 +1733,9 @@
     if (!el) return;
     el.classList.remove("is-sample", "is-guide", "is-identifying");
     if (isSlimIdentifying(card)) {
-      el.textContent =
-        variant === "detail"
+      el.textContent = !isRemoteAuthed()
+        ? "Identifying — sign in so the photo can upload and facts can fill"
+        : variant === "detail"
           ? "Identifying — Species Guide has not filled this card yet"
           : "Identifying — photo logged, facts will fill in";
       el.classList.add("is-identifying");
@@ -1640,6 +1806,7 @@
         lng: (pendingSighting.place && pendingSighting.place.lng) || null,
         precision: "label-only",
       };
+      if (trimEnds) persistPending();
     }
     const cap = $("#place-label");
     if (cap && cap.value !== value) cap.value = value;
@@ -1889,10 +2056,14 @@
     s.xpAwarded = xpGain;
     state.progress.xpTotal += xpGain;
     state.sightings.unshift(s);
-    saveState();
-
+    const stillIdentifying = isSlimIdentifying(s.sampleMeta);
+    if (stillIdentifying && s.packageId) {
+      startGuidePoll(s.packageId);
+    }
     pendingSighting = null;
     pendingMoves = [];
+    persistPending();
+
     const fileForUpload = photoFile;
     resetCaptureForm();
     renderProgress();
@@ -1912,8 +2083,8 @@
     const api = window.NatureApi;
     if (!api || !state.user || state.user.localOnly || !api.getToken()) return;
     try {
-      let photoId = null;
-      if (file) {
+      let photoId = sighting.photoId || null;
+      if (!photoId && file) {
         const up = await api.uploadPhoto(file);
         if (up.ok && up.photoId) photoId = up.photoId;
         else if (up.error && api.apiAvailable(up)) {

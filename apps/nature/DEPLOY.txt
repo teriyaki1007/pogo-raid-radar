@@ -1,14 +1,35 @@
-Project Nature — auth + photo uploads (Cloudflare Pages Functions)
+Project Nature — auth + photo uploads + Identify jobs (Cloudflare Pages Functions)
 
-Status: /nature/ stays behind the preview password gate. Auth, uploads, and Ranked API are bound on Production D1/R2; client uses the live queue when /nature/api/ranked/* is available, otherwise the local demo queue.
-Stack: Pages UI + D1 (NATURE_DB) + R2 (NATURE_PHOTOS) + NATURE_AUTH_SECRET.
+Status: /nature/ stays behind the preview password gate. Auth, uploads, Ranked, and live Identify jobs are bound on Production D1/R2; client uses the live APIs when /nature/api/* is available, otherwise local demo fallbacks.
+Stack: Pages UI + D1 (NATURE_DB) + R2 (NATURE_PHOTOS) + NATURE_AUTH_SECRET + NATURE_IDENTIFY_SECRET (Guide writes).
 
 Dad / CF dashboard (same Pages project as groot.zynergy.studio — once):
 1. Create D1 database `nature_accounts`; apply apps/nature/schema.sql.
 2. Bind D1 as NATURE_DB on Production.
 3. Create R2 bucket `nature-photos`; bind as NATURE_PHOTOS on Production.
 4. Set secret NATURE_AUTH_SECRET (long random); optional AUTH_SECRET fallback unused for Nature.
-5. Redeploy Pages after bindings so /nature/api/* sees them.
+5. Set secret NATURE_IDENTIFY_SECRET (long random, for Species Guide card writes). Do not commit it.
+6. Redeploy Pages after bindings so /nature/api/* sees them.
+
+Identify jobs (so a photo's profile can fill without a repo/box folder handoff):
+- On Instant Confirm, a signed-in user (real API token, not localOnly) uploads the photo immediately and POSTs a job whose id is the client packageId (`log-<timestamp>`).
+- Confirm polls GET /nature/api/identify/<id> and GET /nature/api/identify/<id>/species-card (Cache-Control: no-store), with the static data/identify/<id>/species-card.json file as fallback only.
+- Species Guide writes the card with:
+    PUT /nature/api/identify/<id>
+    (or PUT /nature/api/identify/<id>/species-card)
+    Header: Authorization: Bearer <NATURE_IDENTIFY_SECRET>
+    Body: JSON matching identify-handoff-contract-v1 species-card.json fields
+          (packageId, provisional, id, taxonId, commonName, scientificName,
+          idTier, idConfidence, kind, habitat, habitatAffinity, seasonality,
+          lookalikes, caution, populationEstimate, populationSource,
+          populationConfidence, sources, uncertaintyNotes; also averageSize,
+          nativeRange, observedAt, placeLabel as in the sample card).
+          Omit combat types/bp/moves. Wrap as { "card": { ... } } is also ok.
+- After a successful write, GET becomes status=ready and the client poll picks
+  up the card without a Pages deploy. If NATURE_IDENTIFY_SECRET is unbound,
+  write endpoints return JSON 503 ({ ok:false, missing:["NATURE_IDENTIFY_SECRET"] }).
+- Guide may also GET /nature/api/identify (list) and GET /nature/api/identify/<id>/photo
+  with the same secret. Owner GETs are scoped to their own jobs; other users' photos are not leaked.
 
 Soft defaults:
 - Username/password only (PBKDF2 like Marvel).

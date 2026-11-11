@@ -89,3 +89,22 @@ CREATE TABLE IF NOT EXISTS ranked_matches (
 
 CREATE INDEX IF NOT EXISTS idx_ranked_ratings_board ON ranked_ratings(rating DESC, username);
 CREATE INDEX IF NOT EXISTS idx_ranked_queue_open ON ranked_queue(match_id, rating);
+
+-- Identify jobs (auto-migrated on first /nature/api/identify/* request as well)
+-- Live photo→profile fill: client packageId (log-<timestamp>) is the job id.
+CREATE TABLE IF NOT EXISTS identify_jobs (
+  id TEXT PRIMARY KEY,
+  username TEXT NOT NULL REFERENCES users(username),
+  photo_id TEXT,
+  observed_at TEXT,
+  place_label TEXT,
+  notes TEXT,
+  privacy TEXT NOT NULL DEFAULT 'private',
+  status TEXT NOT NULL,
+  card_json TEXT,
+  created_at TEXT NOT NULL,
+  updated_at TEXT NOT NULL
+);
+
+CREATE INDEX IF NOT EXISTS idx_identify_jobs_user ON identify_jobs(username, created_at DESC);
+CREATE INDEX IF NOT EXISTS idx_identify_jobs_status ON identify_jobs(status, created_at DESC);
