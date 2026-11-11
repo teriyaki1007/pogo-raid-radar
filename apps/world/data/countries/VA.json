@@ -1,7 +1,7 @@
 {
   "iso2": "VA",
   "name": "Vatican City",
-  "updatedAt": "2026-11-11T17:07:50+08:00",
+  "updatedAt": "2026-11-11T23:07:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,16 +26,40 @@
   ],
   "headlines": [
     {
-      "title": "Pope Leo in Latin America: Christ makes the world truer and freer",
-      "source": "Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRVo4SmVTWXM2aERYckNSQllabWIteG1SNXR6ZzhVWU5pc0VzUHRuQ3J0cTVpSFF6T0Q4akJfSXVLWVExZVdCWk9nNzRvUnJaUGJ5M2psUldZN2JVRjNibm1OWDBpSk1WaHlzREp6dmxDb2JHNGVXdGc2UmxSRWVwdjhJdy1GSThTelA3bDU2b2NCRFRLZWk5NmVMT0c3VThocGZpMzk1Yk5UNzkt?oc=5",
-      "publishedAt": "2026-11-11T15:34:24+08:00"
+      "title": "The Pope and the Vatican’s Diplomatic Offensive in Latin America",
+      "source": "Connectas",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObjhYXzlyOENJclZibFF6OUdTX3lpYUs2Unppa1JBdzNpZ3VHRDJhc3NDMFJldkY1a2RicWhBSGNvdkl5S3ZNT2VaTk1QNXFqOGJYUkFZMk56MV9LSkpJNG1GLTc1bGlJYzg5cnVDUGY3a3RXUWJzN2dGMGNkQTVYaVBULTdpdFJRdmc?oc=5",
+      "publishedAt": "2026-11-11T23:06:13+08:00"
     },
     {
-      "title": "Pope Leo urges Argentinians to proclaim Christ with joy",
+      "title": "Pope invites Argentina to reconciliation, enlightenment, communion, mission",
       "source": "Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVWJKZHlPLVJkWXIxREdpYVNiVVZFQmdzcUtMdE5zaUwwci10Wm16OUg2dEZWUHhQMXBDdmItWEJuNy1NdWVGY2I4a1RaUFVOVlFSdTVGXzRjX1RjdHBWdVU3ZWVGcUNNUHVSQ0ZxZmNwNF9tT0EtNW9oaGVnT3R6WDRNSFI2T2ZWSkFkQ2J5WjJfMXBkWjZYVEI4aUMzWHVtc29GT1ZzeHcxZGFpbG4xaUJ4OVE?oc=5",
-      "publishedAt": "2026-11-11T15:24:20+08:00"
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNi01QUJTd0Z6WnZiclRUUkxFb25HTGxta0ZGLWxWajYzT1V6VHVVV1BUQ2xnR2ZQV1ZJYmZaalg2QW1PNkthTkhna1FvVmdpZzFzTkx6VFN4RUY1Zm5OaU53N09zclNpOWVfazlYNFd5MmdjaXI1SWlfY0RMTlpxdGRvMUYyNHp5d1c1RWNVR2hqNmZDbWYtM1lTSQ?oc=5",
+      "publishedAt": "2026-11-11T22:10:29+08:00"
+    },
+    {
+      "title": "The latest encounter between an LDS apostle and a Catholic pope",
+      "source": "The Salt Lake Tribune",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wdldwMkpMVEZteGVYRlM4NnpzWWNfU2t4X0NWdThDZEJ5WC1PTGU5aHZXVldhNGttMmFocWdUZVZxTWJRbkhfOG5sVkhXNDQwbUQta21vdVhJY0xXSmpzS1FGQUluVVkyUlVLVVZOWG12MVIzdE5iZUs0N2EtOHM?oc=5",
+      "publishedAt": "2026-11-11T21:04:50+08:00"
+    },
+    {
+      "title": "‘An unsettling colonial collection’: should the Vatican return items ‘gifted’ to it from Indigenous peoples?",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU0xqcXpEZS1sWTZabTJUMDBpM2UtTzJQVXpPeWlxbEVhTVRkRUM0RmRrTzVlcWxyT1NrX3R5TzRuLUZqbnh6VXl1X2FvX2N6TmpjMzc5SXZ0akN2VWowZjUwek9TaFFQN29NVnRqVVlHZnVBaFhOaUJMSVVVaXMzNGUtSXowbnRZcGZOSW83QWNVaURKTEJZSTVKLXpPbjZ4?oc=5",
+      "publishedAt": "2026-11-11T20:20:00+08:00"
+    },
+    {
+      "title": "Pope to prisoners in Argentina: Human person flourishes through limitations",
+      "source": "Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjhvXzJZT1IwWWJmLUphMXFaY1Q2RzdKdGdyVEd6T2R6Y0NLcWtRbmUwQ0FkQ3JNd2IwTlZ0bmlzbjNKcnd4Z19PMnJzT3dUNWZuaVFTQmFqUXkyeVk5b0NvTHhZbGJmTHlYakthSl9naWxFZjVEVDQzXzZZMVoxV0lJSzI2QXF0OUVCSkc5anZ6VEg0ZkJFUF9yR3R3Mkd6WjhiSzV3?oc=5",
+      "publishedAt": "2026-11-11T19:45:26+08:00"
+    },
+    {
+      "title": "Vatican: Silicon Valley does not have a monopoly on artificial intelligence",
+      "source": "The Cryptonomist",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQNjd0M1Rmd09scFMtbkdGQkstRWRob3VsRDQ1a2JwTm5jWkZETXFuYUlWYnZwTmlYN3JOV0tPeFVhcHVVenhiTFpXWkFmWmpjYmo1ODZlUXY1N2E0ZDlWalJJcjcyNDVNWE5tUW5oSEdMR3IxaF9XYWVmY2FxRzRjcW5tSXhzMUZrTGNuUUJ1ZTdoc3hMX0M4NXhVaWFUMVM3dHNjdkZhdFpVc19BdV9tLWRIUU94MG1qZ0ZvVGhKXzRjQXBnVldiNnJfaEFBUDJIM1d3cnZUTDRHZUhsWlphVlpaaVExNEdNQnlOaVQtUlRBVmZVNUNSeDN3c1JMakZhX1E?oc=5",
+      "publishedAt": "2026-11-11T19:16:13+08:00"
     },
     {
       "title": "PHOTOS: Pope Leo XIV visits Argentina during South American papal trip",
@@ -48,30 +72,6 @@
       "source": "America Magazine",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS3pZbUZNOU9ibEpMZFlLbFNGeFNPajdrcXVpeDcxV2hRZ2xweVdfYnR4WDBKZTNYaE8xRG90WDR2SzdwMEJmU2dBMUw2STVkUGRKVGZBaDJjV0V4dnBOd0JIY3MwU3NvaC1kOUViNUUxN1JzZGo4UEZqUzdqaDNwNHpiNFU0bmtvYy1VRXc5Wm55QzNpZmZBTy1XMA?oc=5",
       "publishedAt": "2026-11-11T06:06:18+08:00"
-    },
-    {
-      "title": "Pope Leo meets privately with five survivors of clergy abuse in Argentina",
-      "source": "The Dialog",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN3JjbTl1b3JqMWdrd3JJdVQ0MnJFMkJnbldHU05OQTNFcUpoWWlHd3lxZmdSZ3k3NkxFRDR1VDkwYm1NcmFJSEstQjFJMEhNOFdjdFFKVG5Fa01ib3B2R1VwR0JSZDROZHFmOUlaVDU0QzNGSmE5cmNnQ2FmcTZvdEZDMGlrVVVtRzNITzJUcXllejZNMW0tMWEwRUpqUmxSM0hqbkFTOTNub3dZ?oc=5",
-      "publishedAt": "2026-11-11T02:58:48+08:00"
-    },
-    {
-      "title": "Vatican investigation into the Sodalitium reveals ovary removals and the use of psychiatric drugs to ‘treat’ homosexuality",
-      "source": "EL PAÍS English",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQb2ROSkdhdW9ianhmdExrVmNJZHpSQnc1YnRrWWg0QXE4WXJNMGVKWGNXZXdHSlgtRUZueGY3VjJHbGtCR2JjWE9YekR0WklNLWdWX1hJZXZ3V3JucXBtdE1BZURvcUFkVUFVTHdmTE03OWctaU84NUZzM29tV2JDc0xYTW43dGtuMFpZQk5wdURNc210SmVEdTJVUXVmV3ZhdlltM1pYNzRBLUp4REVZRVloLWJSUEhpRThyMUNNa1FRVWdWeTM0TFdobFJ6cWQwY3NBLUhvdGlaNmVQUEF1bUlFQjdXR25GbzZESEFmMndwejNpVDh5bENqWjhnazlWWFhFVmk5QXbSAZwCQVVfeXFMT2tYc0RWQkgwbkl1TzhhU25od3RsSThJajQyMVNvc2tScVd2bG9uZWhYY3VtcjZCVlZ5Wm95UU51MGxMQUlPbG9WV3R0eVp1eXZBaUNCX2hmaGd2ZmRza1VWTU5aUXN3amdRckRQNXAyMFgxTlQyYW1JSzUycmRONzc0Z0ZwZ08zaENaNXp1aWlta1NnSk9kbXN0RTlybVZkVG1yMjlDRTdKemh0ZTRnTTUwS2duVFFzbmpZWmpmRHlrcUF1NWZnamZacnc0N2Q5Y2Y4NEdJelpiZl9OV0NDWktLaERZQkNQajREYk5pZ0xLU3ktU2dpdV9jR2N0aXhRV2lLY09ZUk42NERkLTBkb1N1eXhhM0xVcXdaLUw?oc=5",
-      "publishedAt": "2026-11-11T02:33:23+08:00"
-    },
-    {
-      "title": "Jennifer Hudson Set to Perform for Pope Leo at Vatican Concert",
-      "source": "That Grape Juice.net",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZnhSZDAtbFh5Qzl3Q213MjFTVVVPaW14VFQyVUo0a1FtN0NHLWMxaXBvdlpYR2c3VlMtbm1GV2l4Unp0Q0JUY2VxM2lZSldacF9LVEs4SlFoWGxKQXE1MGRnSWZIZlFlT0Z6WXZKT283Y0ZfbHUxT0JmX3UyVnEyMWFHUzE4bDduRWNEQnJiRjRlOHdlelZEdWhCTnZSSHPSAaQBQVVfeXFMT0N6ZHU1V3VmRFd3YUJZTzFvQy1mQTY1NXZUSDVIQW5NbEpkVVo4UTc5djA2TUdQU0FFWVN6aUozYmxLcElSYkVjZVRQUmFtbVV4anJMYmJ1SVJJVDkxR2JESlVTNnBZX2p4NVBfemRBX0RZc2NqQUxSU1VjaWE1dEVCZmVBcGZIWlJfVVhDUXdfZ2ZycTlXTHdONk1jVUNBSC1reEI?oc=5",
-      "publishedAt": "2026-11-10T23:24:07+08:00"
-    },
-    {
-      "title": "How a Vatican Trip by Six Black Catholics Planted Seeds of Change",
-      "source": "The Tablet Catholic Newspaper",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2UzJKWXhIQW04TFQxZENsYVJpbEkzUUxYek1wSkc1VG5hUnBWVWM5V1NFMzkzUlNKU0pyaHVyMlhWZDF0QnhZb182OUtGQlFIM2VMOXNGYTZQTjJvblFKUXpwQTNyMlk?oc=5",
-      "publishedAt": "2026-11-10T23:16:00+08:00"
     }
   ]
 }
