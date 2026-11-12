@@ -1,7 +1,7 @@
 {
   "iso2": "LU",
   "name": "Luxembourg",
-  "updatedAt": "2026-11-12T23:08:38+08:00",
+  "updatedAt": "2026-11-13T05:11:03+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Abdullah bin Zayed attends Luxembourg Embassy’s 15th anniversary",
+      "source": "Sharjah24",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9rQ2JUbmM4bUtrZ3ZOeHZsVHVfeVpXNzAzUGdiWFdqQXJHR1RUMFJBQjNoUDZUd28tRVc4bTdqcDRtQXpuOVViVXRIajZyaFJvb0hWWWdJbW1MQS1vdXc?oc=5",
+      "publishedAt": "2026-11-13T04:00:54+08:00"
+    },
+    {
+      "title": "Codere Online Luxembourg, S.A. Q3 2026 Earnings Call Summary",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdzFjSE1QeXQ1VF9BcWYwZUpWTEhUVktKNmtqeEREMVVNWlBHVm9xRWJJczdoWGh5UW5uWTJsNlVlQW1PQzA3WDVacUYwRi1RVFh2UjJFTzRBLVNraGx4RG1fdGtpZlJHTEhIZUNFdEc5cmpUc2xQSGp1TTVaWVNuM2xYaDg1VUxPd2Z0Z3BkX3EzSzVMaE5yVDBUVXJpZw?oc=5",
+      "publishedAt": "2026-11-13T02:02:30+08:00"
+    },
+    {
+      "title": "English-language poets win two Luxembourg literature prizes",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFR0RFBwUUhFRi1TcWNoc01MZE5wMDY2THdFUl9UOW05Ul9pVWVjZ0IxZ2FhOWotTXF2NjhFRjBlRG9TQmZITFhNM2cySlFCZkRodmcxWDhvR1liUi13eG9TVVBOZTlXZVdaZTRnbkZOUkd0QWMxdXBCbDFtWTBhZXB6clBEaVEtdHRxeUFBQk9NY2o3dHY5TnNleU1vLWtqLXdNMG1RbzZ4QQ?oc=5",
+      "publishedAt": "2026-11-13T01:40:35+08:00"
+    },
+    {
+      "title": "Ministry of Defence: Luxembourg's defence budget to hit 2.1% of GNI in 2027",
+      "source": "RTL Today",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaG1DTllOcVl0YS1uVnZ4TkM5a1lWRFJwdUZYZmk0RC11SlF6UEJtVlAtTjI2Z2trZTdQTXNQTnBaTGUtS3V5SExKWUQ2a1dDaER3S2NHdHRYUi1ZX0VYU3dtM2xmSTZ4VG5PZ0tnYkE4Yml0RnhmZzhXZUViQl9EQ25URVFSaWNLTFBjYXM4VER2ajI0eVN1TVg3Tmx0dnFn?oc=5",
+      "publishedAt": "2026-11-13T00:39:42+08:00"
+    },
+    {
+      "title": "Former Luxembourg financial heavyweight passes away",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX2Q3YlYxR25JeEx6WE9ZdGE4VFJDbzJZc3E4ZEt5X3hrUVRKUkdHOUR5OEdCSEt2eFFGV1VsdVAxM2FXdndTZ21NMkh5QlZidXJ2VVA0Vnpoa2E4T1JGRWVYaUFRR1V3MkFLdjc0bEUyTVJ3X3hOdUpGQVpoY1luMl9SdEpWVDdJZ0hLUkdCX0pocTU2bDFheWdUOXRZeEVKandKd1RybFVXcFhrWXc?oc=5",
+      "publishedAt": "2026-11-12T23:39:47+08:00"
+    },
+    {
       "title": "Up to €6,000 for EVs: Luxembourg extends incentive scheme",
       "source": "electrive.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT2tDN2ptRU9WbEdGamdpUkFxSzRYS25RaGpTcU1MSkNxMXpSSW5lb2hVZVk2UGs3d0dXejVkUUV0Y3JJNTNnM2xPcnN5ZGtlNVhic0w0UkgzSEhXYm1rXzVrdkpCaFN4cG1xMUVlX2llTWp6ampYa3k3Z210WFRJTmJUZGhWX2NfNFd1eHNqS0hBSkl6RVV6Qg?oc=5",
@@ -39,43 +69,13 @@
       "title": "🇱🇺 Luxembourg: Will Not Participate in Junior Eurovision 2027",
       "source": "Eurovoix",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQalZGS2pKMTVTUFVfYmRqT1hLeWlQSGlxM1pWYzdVV3pPRXZsTDBmVGpqUGhMY3FnYWlDM2lLakh6Q2NyRzVKU0djVG5zZE94MnBLQU9SbmJfcUFVRDNUQklOaWhxbEg1RzhFdmM4WjZPWHNSSEJnejVzd0ZfNzBEYV9qLVlCaUt2TW5fZ2xEWWtWY05P?oc=5",
-      "publishedAt": "2026-11-12T22:06:17+08:00"
+      "publishedAt": "2026-11-12T22:06:24+08:00"
     },
     {
       "title": "Police bulletin: Victim's wallet stolen in violent attack in Luxembourg City",
       "source": "RTL Today",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNWFwRmpvTmF3RVU3cFpWQmJXUTQxSVltbW9KT1dYQklPeWdENTJNeUVQT0xiS1k1dFNFNTJBaVBTM1J3VTJGcnM4Tm94dkFXSVVNb3ZvNERyeTFVSmEyOFFCQ3JzM2FzSU9BbVRCbjNYYjkwQ2Q2ZUJJOXozSWFQamE4allIaWF6ZGNhNlFyWFBaZDZDMHk5Zjl4SnptSWJ5aEg2ZjA0dnI?oc=5",
       "publishedAt": "2026-11-12T21:54:52+08:00"
-    },
-    {
-      "title": "Luxembourg school says it was ‘let down’ over David Walliams visit",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ3pqcUpDbnFUT1FWbzNsRGh6ZzctRWU1RDVzZ0JyYTVvNG1EU1BfNUFvZjViZmRvdnB6Ym5aOVJDck85NkJ0UzQ2ZXVfd2R1WXhxOXU3WGc5YTg4N3k3bm5zc1NvNlplci1QY0dERzg0U2ZmQkdCQkk2YklNRlFjTzFEX1Rpb0FvMkpqVUdKTXlJUTB2NkJzcFk4dVFvOHRXZFp3clBXemhQV0E5LXFRbw?oc=5",
-      "publishedAt": "2026-11-12T21:46:07+08:00"
-    },
-    {
-      "title": "Codere Online Luxembourg Q3 2026 Earnings Call Is Live",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUjVkMzRrSlA2Ny03T0dDOGZwaXEwZUFHaGtvaWFpSFhRdHZFR1ljeWNzeDU1ZnhtQ05MVklYU19fOU80aTVBbG5RMEFiUXRIRFNEMTJwSEpGOHVDaDZJdFVwRWlDMk9JN0ZyMGxOc3otX0NkaEFEbWpKYnNxMXJBMFBRSkc3MU9VVVpUOURrQnE2clZNVGxqM2g5QTlTZkwyc2N0TWowSnplemdoRzYwSEZCcHhMd3J3TXpGYWFWTzk?oc=5",
-      "publishedAt": "2026-11-12T21:31:06+08:00"
-    },
-    {
-      "title": "Luxembourg vs. Estonia – prediction, preview & betting tips – 13/11/2026",
-      "source": "Football Whispers",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMjlVZDg0M3o1UnJ0Z0NseFVvVVN4LWRIb09pcGFZVEZSRDhaWldvMlVLcVFuQzVMb1IxbXVTZWVQVGxvTzZEYUgxTUVDak5yU0RsWnQtOVJBVDRIVkVHcV9zcGUycWNza0tid3hrQmRjREViSTdKN2luUGkyeFZrVkVHcG8?oc=5",
-      "publishedAt": "2026-11-12T21:23:56+08:00"
-    },
-    {
-      "title": "Luxembourg's Luc Frieden speaks for Belgium and the Netherlands at EU summits",
-      "source": "Belga Share",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOOEQ1SHI2d1dLRnhpalBWTUdVZU44cGwwYzlKajRWeFdGbHZ2eVc4b1BBS2VmV0ZYQVBUdUMtVlFoa05YMk5qcjBTNDFXQW9GZkZ6WGtwYVpscGtqS3hvRjRKenZyZW5WM3B4QUwzbWptcVFIc3lsSkNWczRHUkdVb2x3QnROWjQzdml5eWlBUGtiRS1XbmFvVjZkZnlqRThoNzNKWk9ieFAxTFFSZEJkNmlGdzR1Ynp4MmdnS3JKaGUwRUNxak5leDM0ZEkxUQ?oc=5",
-      "publishedAt": "2026-11-12T19:09:55+08:00"
-    },
-    {
-      "title": "Luxembourg MEP: Tilly Metz elected vice president of European Parliament",
-      "source": "RTL Today",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMWtzOGRXcGFxMmJvSURDbXlUM0x5N3lHNkc3ZXdZUGx5Rm1LbTIyaE5SUmUwaW1GZzhIU1hnWFUwa1ZJcmtSVFBmTG9mUU9JcEYxTTFKMHl4WGFOSExXMTZTNWtRT1VQT0ZPRU5uRWRPTGl5bFE1RzdsemZMeGdHcXJWT1NkUC1ZVWtGb3o3V25tbjVqTkdTVnFhWGxDdy1EZUJ6RWJUQQ?oc=5",
-      "publishedAt": "2026-11-12T19:06:51+08:00"
     }
   ]
 }

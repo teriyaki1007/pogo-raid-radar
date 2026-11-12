@@ -1,7 +1,7 @@
 {
   "iso2": "EC",
   "name": "Ecuador",
-  "updatedAt": "2026-11-12T23:08:38+08:00",
+  "updatedAt": "2026-11-13T05:11:03+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Superintendency approves Boluda Towage's acquisition of CITI TUG in Ecuador",
+      "source": "Data Portuaria",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY3NzVmNyUFgzRFhUb2o5X0paRHFodDJ1Zk4xT2RuQ0VHNUpaQURlM0dZTzFTTUJpV042ekllVGhEN1N0UXQ2Wk1zbmQ2aDBpRmQ2cXRyMFRQeEtBRi1VUF9FWG05Vy1lU1NWbUtUVWtjY3NQb1VGUXBtbUc3M0t1X1lTV0plMjdPM1pOSFdvcVRHQ0VBSFk0ekpiSnV4Y251S1FLNUVwRGlLdTJrRmJyaGM0ZWNLZHZ4RHY4eV9hYUcxNFE?oc=5",
+      "publishedAt": "2026-11-13T04:25:22+08:00"
+    },
+    {
+      "title": "U.S.-Ecuador security cooperation expands with anti-narcoterrorism tools",
+      "source": "Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRUR5dEJsMWs1UGJjcEo2djV1T1NqUlFzeG5MTEJ5VnNsbHl1UUhsbnRkWTE5QVVXYVpiYkhKakFjWks5cnQzdmhXdjJ2N205eWxUOUk1VXpBaEFHOHdqOS1JQXRrSldrUGFva3FkVFVPTzM1SjM0OENhY1RUNElYZWM3NkF2X05lb25FMnJnM3BUZFpuc3lrOTRncmtfX3k5dHFXQmZRMTJEVUlk?oc=5",
+      "publishedAt": "2026-11-13T04:18:27+08:00"
+    },
+    {
+      "title": "SUCCESS STORY: Grocery Boat Cargoes and USW Buyer Engagement Expands U.S. Wheat Sales in Ecuador",
+      "source": "U.S. Wheat Associates",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOHdVSnRGSXNkcVcyZlhvLVFvVEY1Y2o0WVBrUVpUbGtBdUVRdWJrMmtwQXpiZnFZQWUxNkJ1YlFFaElVZWRodXBnT01mVXZzal9ocXJObzFSakVDOGU2LU5Za25Id0dzTXZKMjNjU2JYZlRxNGJFUXBpNjFTMGgwc1JKbHZqMVFsV2R5VUs1NXNnal9hSEpKaFM5QTdLb2xKajFQT2JuUUZ0R2pobGZ1b2Q0V21UWTZYOTRFaUh4a29oUllIRkE?oc=5",
+      "publishedAt": "2026-11-13T02:31:21+08:00"
+    },
+    {
+      "title": "Ecuador - Campaign Violence - November 2026",
+      "source": "Latin America Risk Report",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QY2hzRmRMdWZGSmdpZm5fM2EzR2kzT0tTaXZWNTFYOF91YUZWSnhLeG0tRll2VWJldGZNdXJBNXcxTFRieXh6dXFGNU5YbHNkTFNJMXFuTHhnbDVIQTAxNlZZbEZxcFBoVngzbkFB?oc=5",
+      "publishedAt": "2026-11-12T23:54:34+08:00"
+    },
+    {
+      "title": "Salazar Resources Defines 1.9 km by 0.9 km Copper-in-Soil Anomaly at Monja Porphyry Target, Ecuador, Rock Samples up to 2.76% Cu",
+      "source": "Junior Mining Network",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQbGlqaGZzYkxWa00zZnQ0bUFTN2poSEdPZ0pjaEVCUGFQUnFrQWxnbDFKV1F6WndFMHFBOWRtVVI3dkdPU3M4eWY0NWZXeFpuMWFpZ2txdWNpWEh4RlB2UEhHOGZ0R29rc1dIOGhQZmdvZWhYbEphMFgtcjBaRlBFUlFkT01hcmxLbE1jbzhxQm4wbERSQVNydE5OQmJJME02ODg2eGYxNE80WUFQVVNCR0JtTTh5SnRTTlpzb0RId3pRcE5LSm1XUHlsbG9uVUE2WGxBZ0V1X2E2eUFDUUkxMTJhRFlFbldscV9yRkNpaVZtZ2xCdE1wUmZ6alZoT1ZpTmU2ZFdCWHpFdlRVYVIzS0hlRFc2VktXMnFIUTlkYzNBdUhPQV9rYjVDOGE2NGYzU3ZRbWJ4dEJEQlpYdVp1Q0VOeVdzN00yWUE?oc=5",
+      "publishedAt": "2026-11-12T23:27:58+08:00"
+    },
+    {
       "title": "Assistant Secretary Weiland Delivers New Tools to Counter Narcoterrorism in Ecuador",
       "source": "U.S. Department of State (.gov)",
       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNLXV1RmlLSkl1SFFPWGtZSGJ5RWMwUkMtV3BIbXpTRnhQbE40eDBSOURVbEo0ZXlGLUEzWDJLQTV5cHFuM3k5Yi11dk9ZMEpTY2paUWhVbXpFXzVucnljUTNSd3BJeTkzMEktSUktLXVsU2hwc3ZVZ1lTUzJ6dVBEZ0ZFVHU0VGtVeUNpX256MmZWdlQyUTRNaDU1MUg3NlVuMHpwUFRJbnV3U29xdm9RanNCdEtLR3lseE04b2xXYnJQYkRRMzRZQXlSUVI4V0g4REpoUnFOTWhpdVVYWlhoVw?oc=5",
-      "publishedAt": "2026-11-12T22:48:24+08:00"
-    },
-    {
-      "title": "Weiland Delivers Tools to Counter Narcoterrorism in Ecuador",
-      "source": "Mirage News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ud1doSW1DcHpuQldPak5hUnN0ajFrYV82SzlkbS11dHNteGtaTzQ3SXdUejRrNXNSTmQwdDcyZ3NiT0NzM2U4dFh4M2RyUTRheEtZY2FnUE9oa3ZuVE85amx5MEplWkpZcG9HTWtZR0NOZG1MekJiRw?oc=5",
-      "publishedAt": "2026-11-12T22:44:00+08:00"
+      "publishedAt": "2026-11-12T22:47:35+08:00"
     },
     {
       "title": "Ecuador extends state of emergency by 30 days over 'serious internal unrest'",
@@ -52,30 +76,6 @@
       "source": "Parametric Architecture",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHByeG9NcUgtbEFNRnBaNmwtTHQ4Y19KTC1jM2RTNzcxU1BIaG10UEdrRmNIdi1DZFhNNFp5NW80YjhtOTRUUnBrWWdTbkhPbXV0Ry12bzRFY0pyUXIyZWZob3BiYjlWOGxfRnc0QkRKRjlmOHlISUJjMnctRXB2Yw?oc=5",
       "publishedAt": "2026-11-12T21:00:00+08:00"
-    },
-    {
-      "title": "Ecuador shows a new blow to 'Los Choneros': Even grandma was trafficking",
-      "source": "Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3pYTTdfMUNfX3Ewcm8tWm1LSzFHUnBhcTJycTNDcm5PYWdjY05FczZzb0RHRHBEWEw3aGlzN0tyeVBwbmpENmxOYTQ5OWdZNTMwMUpRQnZlUjE3TmUzbWhEVTJDM09QMmt5ZnFZOUx5VzJCZkdqbElPdTUwelEzakR4LTlRcGQ0MElPOWhWQnJRcFQ0NXB5VEpTN0JUQ0N1Qlk1bTVZekRDZEJnMHJWbVBB0gG3AUFVX3lxTE9YcEdTY2NNZTZOYTI1aF9ZTXlMVDRJMWltbHk2cE8wMEtLWV82QTA0M0t0b0dybjVuOVdDRVFzeXlWN0Z0c1FMZWNNRnhTTkIyeG5BRXFKaHBxMmxTSDVibzY2aURtQUgyVk8wd09kZmRhcmVrZmVRa1RZbjloV0hEVm5jcDhrbElOU2tjTHBUWkJpSC01RFhsUnRmN3VEeDkwVy1HeU5QcHlDeTMxRlFXcnlqdklEVQ?oc=5",
-      "publishedAt": "2026-11-12T20:33:37+08:00"
-    },
-    {
-      "title": "A devastating blow to cartels in Ecuador: strict measures cut regional homicide rates nearly in half",
-      "source": "PravdaReport",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUFMMkRZT2tTUVNiTml3MWo4NnNOSGhUYWRWa1p6TnBUcVVxZlBLSjBwT2x4SVBXNkZmVlNyc3hOektCelBMbWdyX095RGhoWktkR3FVTmF1MXoyaWlkMmxlZ0M3bmxmell5c3UzT0NSNjBmakpVNjZveXc0dHZkZ3FtdlJyTlVE?oc=5",
-      "publishedAt": "2026-11-12T12:54:00+08:00"
-    },
-    {
-      "title": "Caá Porá and Jerome Haferd Design Drum-Inspired Performance Campus for Ecuador’s Chota Valley",
-      "source": "freeyork",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51UWZQc3Q2NnV5Sy1kVW1tMy1Cb0c4TjNRLUlDd0hyM0tHLTdWN2ZIVDVGZjFQWk1vSmVqd2xuYmRtd3JmMVZBemo3RkVsNEo4TkRGdnd1T0pVLXAxM083NVlJVkxqZk81VzhacDhFN3Vudw?oc=5",
-      "publishedAt": "2026-11-12T11:07:55+08:00"
-    },
-    {
-      "title": "Ecuador - Costa Rica prediction & picks 14.11.2026",
-      "source": "www.transfermarkt.us",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVXh5bDBmMFJXWE9uMGhDZGd1eFdVNy1kRlFPYk1nTF9HTzllejhWczJiTDBWNXFJN0lxNld5SV8wdXVMUVZXdzBPV2I4Z2Z0ZTVrbVFlVXhwUzNBTThVUWJGdEJVMDBlNldySUduTmFQSE11SUJMTDJjcjl5UllOanFKUld3dmpWd2UtQTMyRHFqNlk?oc=5",
-      "publishedAt": "2026-11-12T10:59:39+08:00"
     }
   ]
 }
