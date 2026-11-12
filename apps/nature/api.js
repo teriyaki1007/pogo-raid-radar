@@ -64,6 +64,31 @@
     return true;
   }
 
+  /** True when the Nature API is reachable (401 on /me still counts as live). */
+  async function probe() {
+    try {
+      const res = await fetch(`${API_BASE}/me`, { method: "GET", cache: "no-store" });
+      if (res.status === 503) {
+        let missing = null;
+        try {
+          const data = await res.json();
+          missing = data.missing || null;
+        } catch (_) {
+          /* ignore */
+        }
+        return { ok: false, live: false, status: 503, missing };
+      }
+      return { ok: true, live: true, status: res.status };
+    } catch (err) {
+      return {
+        ok: false,
+        live: false,
+        offline: true,
+        error: String(err && err.message ? err.message : err),
+      };
+    }
+  }
+
   /**
    * Prefer original bytes so EXIF DateTime (and other tags) survive for Species Guide.
    * Canvas resize only when long edge > 2400 or file > 6MB — that path drops EXIF.
@@ -363,6 +388,7 @@
     getToken,
     setToken,
     apiAvailable,
+    probe,
     encodePhoto,
     readExifDateTime,
     register,

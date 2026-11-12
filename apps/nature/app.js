@@ -516,19 +516,39 @@
     bindFriends();
     bindLogout();
 
-    if (window.NatureApi && window.NatureApi.getToken()) {
+    const api = window.NatureApi;
+    if (api && api.getToken()) {
       try {
-        const remote = await window.NatureApi.me();
+        const remote = await api.me();
         if (remote.ok && remote.username) {
           applyRemoteSession(remote.username, remote);
           saveState();
           enterApp();
           return;
         }
-        if (remote.status === 401) window.NatureApi.logout();
+        if (remote.status === 401) api.logout();
       } catch (_) {
-        /* keep local */
+        /* fall through and decide below */
       }
+    }
+
+    let apiLive = false;
+    if (api && typeof api.probe === "function") {
+      try {
+        const ping = await api.probe();
+        apiLive = !!(ping && ping.live);
+      } catch (_) {
+        apiLive = false;
+      }
+    }
+
+    // A leftover local/demo session looks signed in but never creates Production jobs.
+    if (state.user && (!api || !api.getToken() || state.user.localOnly) && apiLive) {
+      state.user = null;
+      saveState();
+      showScreen("auth");
+      showToast("Sign in with an account so identification can run");
+      return;
     }
 
     if (state.user) {
@@ -770,8 +790,14 @@
           return;
         }
 
-        if (remote && api && api.apiAvailable(remote) && remote.error) {
+        if (remote && remote.error && api && api.apiAvailable(remote)) {
           showToast(remote.error);
+          return;
+        }
+
+        // Only fall back to a local session when the API is actually down.
+        if (remote && api && api.apiAvailable(remote)) {
+          showToast(remote.error || "Could not sign in");
           return;
         }
 
@@ -1215,10 +1241,17 @@
     sighting.habitatAffinity = normalizeHabitatAffinity(storeCard.habitatAffinity);
   }
 
+  function requireRemoteAuthToast() {
+    showToast("Sign in with an account (not just Unlock) so this photo can be identified");
+  }
+
   async function startIdentifyJobUpload(sighting) {
     const api = window.NatureApi;
-    if (!sighting || !sighting.packageId) return;
-    if (!isRemoteAuthed() || !api.createIdentifyJob || !api.uploadPhoto) return;
+    if (!sighting || !sighting.packageId) return false;
+    if (!isRemoteAuthed() || !api.createIdentifyJob || !api.uploadPhoto) {
+      if (!isRemoteAuthed()) requireRemoteAuthToast();
+      return false;
+    }
     const pkgId = sighting.packageId;
     if (identifyUploadInFlight.has(pkgId)) return identifyUploadInFlight.get(pkgId);
     const run = (async () => {
@@ -1233,14 +1266,15 @@
               pendingSighting.photoId = photoId;
             }
             persistPending();
-          } else if (up.error && api.apiAvailable(up)) {
-            showToast(`Photo upload: ${up.error}`);
-            return;
           } else {
-            return;
+            showToast(up.error ? `Photo upload: ${up.error}` : "Photo upload failed");
+            return false;
           }
         }
-        if (!photoId) return;
+        if (!photoId) {
+          showToast("Photo isn’t ready to send yet — try choosing it again");
+          return false;
+        }
         const created = await api.createIdentifyJob({
           id: pkgId,
           photoId,
@@ -1257,11 +1291,14 @@
             pendingSighting.photoId = photoId;
           }
           persistPending();
-        } else if (created.error && api.apiAvailable(created)) {
-          showToast(`Identify job: ${created.error}`);
+          return true;
         }
+        showToast(created.error ? `Identify job: ${created.error}` : "Couldn’t create the identify job");
+        return false;
       } catch (err) {
         console.warn("Identify job create failed", err);
+        showToast("Couldn’t create the identify job");
+        return false;
       } finally {
         identifyUploadInFlight.delete(pkgId);
       }
@@ -1595,16 +1632,39 @@
       placeInput.addEventListener("input", () => syncPlaceFromInput({ trimEnds: false }));
       placeInput.addEventListener("change", () => syncPlaceFromInput({ trimEnds: true }));
     }
-    $("#btn-confirm").addEventListener("click", () => {
-      if ($("#btn-confirm")?.disabled) return;
+    async function ensureIdentifyJobForConfirm() {
+      if (!pendingSighting) return false;
+      if (!isRemoteAuthed()) {
+        requireRemoteAuthToast();
+        return false;
+      }
+      if (pendingSighting.identifyJob && pendingSighting.photoId) return true;
+      const ok = await startIdentifyJobUpload(pendingSighting);
+      if (pendingSighting && pendingSighting.identifyJob) return true;
+      if (!ok) {
+        showToast("Couldn’t create the identify job — stay on this card and try again after signing in");
+      }
+      return false;
+    }
+
+    $("#btn-confirm").addEventListener("click", async () => {
+      const btn = $("#btn-confirm");
+      if (btn?.disabled) return;
       if (!readConfirmPlace()) {
         showToast("Add where you saw it");
         placeInput?.focus();
         return;
       }
-      commitSighting("confirmed");
+      btn.disabled = true;
+      try {
+        if (!(await ensureIdentifyJobForConfirm())) return;
+        commitSighting("confirmed");
+      } finally {
+        if (btn) btn.disabled = false;
+      }
     });
-    $("#btn-unsure").addEventListener("click", () => {
+    $("#btn-unsure").addEventListener("click", async () => {
+      const btn = $("#btn-unsure");
       if (pendingSighting) {
         pendingSighting.idConfidence = "unsure";
         pendingSighting.sampleMeta = {
@@ -1612,7 +1672,13 @@
           _confidence: "unsure",
         };
       }
-      commitSighting("uncertain");
+      if (btn) btn.disabled = true;
+      try {
+        if (!(await ensureIdentifyJobForConfirm())) return;
+        commitSighting("uncertain");
+      } finally {
+        if (btn) btn.disabled = false;
+      }
     });
     $("#btn-edit").addEventListener("click", () => {
       showPanel("capture");
