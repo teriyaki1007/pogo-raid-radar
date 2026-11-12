@@ -1,7 +1,7 @@
 {
   "iso2": "AT",
   "name": "Austria",
-  "updatedAt": "2026-11-12T11:08:25+08:00",
+  "updatedAt": "2026-11-12T17:04:00+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "A group of Romanians allegedly defrauded Austria’s deposit-return system using 600,000 counterfeit bottles",
+      "source": "Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRFJaT1JmRjhWaHd3RmRXa2RnNHhRLXlDYWEwOFRuLUVvcGZpZ0hYXy1KMkJzOVp6X2tIRGFUeTZta3k4YkZ1VU5TQm9jeE1zQ0VzZ3g4TVMtZ3Z5Z1ZjVlNCTnJJWUlPMldKc0ZhSjJyX2JWMnZTWURfcEpJeEl2RG9ROVlMa2o5ZzBBcUV2V245cm9kOHpZenhBQ1VMU1VQa1Zfd2tR?oc=5",
+      "publishedAt": "2026-11-12T16:44:20+08:00"
+    },
+    {
+      "title": "Today in Austria: A roundup of the latest news on Thursday",
+      "source": "The Local Austria",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa29xN0x5b3BsbjhPRmRFVTVZanoxOTNyX0VnUTRfMGtNTVZHdnVfR2xELXByNDJnT2xLUzFtYmpCU01iNnBpOEFuTTJFbDdlOHhCVUZXUWJGd0t4SlcyRDhzS2NrZzV5LUt2Ql93azJIbWVVZlVmRERFWVl4UzdITXRUNUNaMVoxS043Tkctb2NNWVg0S3BxNWVB?oc=5",
+      "publishedAt": "2026-11-12T15:27:09+08:00"
+    },
+    {
+      "title": "Séamus Coleman remains in limbo between player and coach ahead of Ireland’s trip to Austria",
+      "source": "The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxORjFRNzA3RVNBeWNWbGIxUk5kcll5QkViRHlpeVFJR1p0NlFnbFZUS0RuellITVdBanY5MjkzeE90UUYtS2RPUjlBQkxHMVVoQjdtZDhFdWJwWnFPRTVYT3JLZUJScDBrUUVTNDFZTWdmSE9ZdjJrOXdiUC0xVmZlNncwRjg0TVg4eU5uaUtkcERlZzUtWGJKekJFN2lfODdfcTJlMnljUW04ZHZSMS1DSG1feTNnZjA4TjY5TWFuOW1rR2tQNHFBdU1JUnBzUW5vRTFxeHgtbUtBZw?oc=5",
+      "publishedAt": "2026-11-12T14:39:13+08:00"
+    },
+    {
+      "title": "Austria Participates in New EU Mission in Lebanon",
+      "source": "Militär Aktuell",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRENqcGNKNlFVN3MtZ1hNQnk4OEx0eklDbG03ejRKY2ZHcFZGNVBoSExSZWFjc3NRRGtJYldzTlRWb1RIeDhQM3J5b0hJM2pfcm1tNjhjY3Q0djhwQks4ME1EMUctS1plRTFzMTduakQ0UHRVeFk2WmNEdTAySllReGwzaG91Mms?oc=5",
+      "publishedAt": "2026-11-12T13:06:58+08:00"
+    },
+    {
+      "title": "Siemens wins contract to digitize and increase grid capacity for Austria’s Kärnten Netz GmbH",
+      "source": "Process and Control Today",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTnNSNC1GRHM1SEFlQ1dGaHZuSjJHTXlOR0NDak1BUkhITEhwbGczZnFCSm5pVm93ZlMtd0dpSWx0TmF5VEg2MEJNSF9Odzg1Q3BJX0VYTnI3WnpjNkZJMkhuQUZzeTdYdFJRQWh1MjdweHdNN2xhaU9mRk9kaldHZG12OW9DVE5kMERVSWF3TkhxRnBBbmtjNU1zdUtrMTlFckFNQzdlT01DVC15Vkt6bWVWZ0E4akFDMFc2MU9mbDJtZw?oc=5",
+      "publishedAt": "2026-11-12T13:02:54+08:00"
+    },
+    {
       "title": "Austria proposes penalties for spying against the EU — The Independent",
       "source": "UA.NEWS",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWWxYWWhHRmdYTmZ0MHBIRzBOZms3czRIa1hJYlNxR1dvX0NEWkNuNy1oU2UtOE1COURPNWVxak5FMEotTmgxNFFTSVBqSmE5S2dxdG9YNUVKM0h2MTV0QlBTWktWZXVhU3JIajhQNzRPbkRLN2FzbHo3XzRrcEV2VVNZSHFwVkV2Wi0xWHNpUjQzTnRQZDZBdC1odEhsMFZUSHF3MQ?oc=5",
@@ -46,36 +76,6 @@
       "source": "Robotics & Automation News",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOb3dRbUpaSUItdDZnQUFpM1RjZWRWNGxwYjJVZUhId2ozOXliYTJGREp6cDJUYnZfY0VEeTI5eG1kR3FMSmwtZ0h1RXdFVHR1eUNaT2tORkN1VUlJMXoxMGdjQndXOGJEVzZLZjVzWnZtNFMzdW5vb2FZTWtNTVJYeExyQ3U2U2FpZUU3Wkd2dVFJRVNkZUxJYWM0dVN0dHJ3ZWRZQVRnY2NuV2IyaFJEN2VMdUxWVGpmaG41cXhXMGZWbi0zLVBCSzBmR20ySFhsYVZaTmVFYlBNRnRFb1RCd3ZWMl9FVEVn?oc=5",
       "publishedAt": "2026-11-12T07:13:35+08:00"
-    },
-    {
-      "title": "Syria joins 16th Arab-Austrian Economic Forum",
-      "source": "Middle East Online",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbjR3Y05pR3l0YjFzUGtKeEFTRU5EUDRhWUpNbFU2dzBZWUdVSmc1R1FzckxOZHd5SVNFb2w4Q1dWb3EyWTZETkxsRWpobnhWdC1xQ1h2SjcxRnpvTEI4QkQxNEVuRTJWOHkwOWZZbndGS2xvS2dJbFlKZ0ZaTWNyc212ekE4Zw?oc=5",
-      "publishedAt": "2026-11-12T04:56:50+08:00"
-    },
-    {
-      "title": "Coleman trains with Ireland ahead of Austria match",
-      "source": "Donegal News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzBXMFdvRXFzTXlLUGYxTm5wbllSVWlMbGpZd0xacnVQODFCenYyeGpxMmtYR21wd3gyWmtBSk40Tk1WM0VfbjMxMDJCQnhLdm1UdEt3cTRTQ2RudVNQbTBKNXlPZkVjSGw2TGFzVFVrUlNURlFhQnJtR1AzMTlFQg?oc=5",
-      "publishedAt": "2026-11-12T04:14:00+08:00"
-    },
-    {
-      "title": "Austria toughening espionage law to address Vienna’s ‘den of spies’ image",
-      "source": "The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1BNT0VvR0g5cnN4bjdBUlpvMzBZbDJJSGF4WVhadjU3N2hXd2ZUS00zMnNhMEdENklvS3FRaEZJdm9EVXJ3RU5MY3NKUVZWTWJEOUZwNzc0VXJJQ01qZzRQY1k2YllrRUdDNTl3ODJsT3AxaUV4Qm15eDl3aklKbXdSa1dCanZVYUFqOUpoeUNFUkNtQlBhUVRjbXBTN19meWxoeWZsQndEQUdIZ3ZTUmxn?oc=5",
-      "publishedAt": "2026-11-12T02:31:00+08:00"
-    },
-    {
-      "title": "Austria moves to cover international organizations under espionage law",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUstM2pCMTdzRGxUeGtGekNac1pTaVhoZEs5cmtCOXhnT1kwaExJUjA3a19rWUhFVXpUQ2VQY3lzS2JRT0VtRW8xRTg4UEdXQU9SVXE1aGxHYnNQRlJ3ZVcwWUlNOXNrVzFCeUsyUXk0Z1ZVNGVoWGh1TUcwVVMzUTU2SjhmSWxYNVpSSFNvQ2RvaVpWbDhnLVhTQ2dtYVg3dUdrb3VjQQ?oc=5",
-      "publishedAt": "2026-11-12T02:18:27+08:00"
-    },
-    {
-      "title": "Austria moves to tighten espionage laws, expand criminal liability | Daily Sabah",
-      "source": "Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2pLWkE2NGZPcjBPTGJtcEhQekp4YXQtM2lkQWxFeXRETWdwYTFmcTEzR2hYZVE1TGVtaE1xZjNQUnBmM29GZThzM3RIVWdBT29vcGVxcXF0cV9MNWhvWlFoX0h5VW9SdWN0UGl1TnJwRzA3eVRJSU9PN2d1a0ZybTJwUGlTa0ktNVdZWlpjRkdZbmZjYXFTdDRtYmxHa0dDa084TlV0VHnSAa4BQVVfeXFMTWR4eHBUZnhCbkRrZUZSNlpGcVFiWXZPWFZJbjBvaktRVlU0cGZNYW9yTVNjNDR1SnlVWlhfTTZEWTh2aW5aYk9FSXF4VnRla3NaN29KZ1RmajItMVFpVzNfQ3BfaVBBZC1IbVRaT2o1MkY3Ykp5NjM2cWNITEZCd0VHYmNmeUV3bkR5OFNNZHRsbHBvQWpiZDB4clhSQ19rYmgxUDNhdUlRTXVmTFRn?oc=5",
-      "publishedAt": "2026-11-12T02:17:00+08:00"
     }
   ]
 }
