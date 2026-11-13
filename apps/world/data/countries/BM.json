@@ -1,7 +1,7 @@
 {
   "iso2": "BM",
   "name": "Bermuda",
-  "updatedAt": "2026-11-13T17:05:40+08:00",
+  "updatedAt": "2026-11-13T23:03:36+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Bermuda Relegated From League B",
+      "source": "Bernews",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04aVJrOVBSSVllZXI2VEJsOXNPOHpzLU9pTUxMNXVLYkZReDdyY2dNMzB0aktETDRTVTRpNmdrcU9qN2ZRLWZaZkVXWlFxaWIzVTVaSnFEbHVLcWxSMFMzb2prcUdBaUMyRXZB?oc=5",
+      "publishedAt": "2026-11-13T20:32:44+08:00"
+    },
+    {
+      "title": "Software outage hits Bermuda and US users",
+      "source": "Royal Gazette | Bermuda",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2E3Zm01QWFBaF9EeVdpLVBwOV9OcXpQWkZoMGNTXzBrYXYyWHRULU0xSnhRdTAtS1Y0ODAwUS03azVEc2JLRWQzVnlaVEI2QUpRS1c2ZEw1Q3Q2a3ZYdFJDUnJZUlptbXRVY3RMZlRBQmlkc0JDNzFKUDhUSWl5ZkFlVEp6MVBwcGZuX0hhaGlKRC14Mk5Zazc3aklfcWNjS3Rn?oc=5",
+      "publishedAt": "2026-11-13T20:02:56+08:00"
+    },
+    {
+      "title": "Bermuda inspires beach blanket invention",
+      "source": "Royal Gazette | Bermuda",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeWF6Zlp0T3JHRFJPVngxYnFOZDYzWXBpbWVSM3Z2TFdQM3BuMTFOeE1meEEycDEzd18wNnBRemQ2bWU0STJpOTNfLXJFYk82Y2VFZ2p3NHlITE5ZVHJEYV94MmZRMHNEQ21wSm0wamIxWTFYN25MZFJ3M3pObmdmQnk4LXpYNzRXUG1ScmxXR3hIcEdURGxkZ1Q0SUQzbzdYZG9Xd2VjMlFlTHE0TGx3cQ?oc=5",
+      "publishedAt": "2026-11-13T20:00:00+08:00"
+    },
+    {
       "title": "Pre-match Bermuda vs Saint Lucia, CONCACAF Nations League Round 5",
       "source": "BeSoccer Livescore",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RdktHc2JUWGVZcGtMcTdaOXUwVFVzNjRwVHl4VDRZVVVoai1VQUZ3US1zb0ZwZ0o5NzFJaWttVFN5cEJwSXFxSUFQQjVBNHBZNzBUcXo0YXplWWNmbE1LWXRNME8yVTdpZDhrX2EwRkJBOWRnTWs4dHdENjc?oc=5",
@@ -39,37 +57,19 @@
       "title": "DAVID WINGATE Obituary (2026) - Hamilton, Bermuda - The Royal Gazette",
       "source": "Legacy | Obituary",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU1EtcjdaS1NJSTNnb1AzZDBocklZUlJHbEtGZWIyMGVHU2t1TUhqMWotVDFMUkFkUXp5SUktR1NiM3FTa2kwdWR0R0NrVUNTS3ZwbVRHcmgwdUl1NDM5LXd6OGdVQWpxYWpHX21KRTJYa01vTmFfYWh2aGF6dHNTVmd4ZElxcUNIYWVzX2xmYl9EY2JUS0FN?oc=5",
-      "publishedAt": "2026-11-13T14:56:15+08:00"
+      "publishedAt": "2026-11-13T14:56:46+08:00"
     },
     {
       "title": "KAROLYN SWAN Obituary (2026) - Hamilton, Bermuda - The Royal Gazette",
       "source": "Legacy | Obituary",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOTV4OGd1bnpLWlZTZ0dhMFA3TWpCZjB3bk5IZkZnaU5BdF9lZnRPUW1SVkJqVUp1TTJ0ZGJfamh6UXpTc3JHV19fRlBDWmlsRHJPcDdCUE9PcnJQSjcwZVpDLXpFb3FZeWp3QmwwWWZoLWRmNHN2d3ozTjloUGZGNnBUUWV3TloxeWNxZk9Ja3d2TF92akE?oc=5",
-      "publishedAt": "2026-11-13T14:56:15+08:00"
-    },
-    {
-      "title": "Brookfield’s Bermuda insurance platform drives Q3 growth",
-      "source": "Royal Gazette | Bermuda",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeFNDdkpCZkFqbUhfVEZYSmdlVS1ocm9MOFdQcE52ckIyYlhnR2lhWjUwZmd3SUppelVOQkFULWNVajktUFZuVl9wWFI1ZHlDREQ4aFAzbTdSbHM3OW5ud1M2eUVmcS1sWHBFbTc3Z3BoYURJcXBMVi0zdWkzRUhIRXpISXV5WnNVTUIzQmlzVlgxWWxmMDQ4cU1BN3hsSTlYNXZaajh3MzZfVnlMd01YaFJVSmNzVjVuQm9yS0ZmSWo?oc=5",
-      "publishedAt": "2026-11-13T06:02:54+08:00"
-    },
-    {
-      "title": "Bermuda relegated in Nations League",
-      "source": "Royal Gazette | Bermuda",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVDh0dWRLU2NEd0hnZGxJcW9ERzYzcW9peTVTYm1GZTRQdDBwYUEyeFB1cUxNTGlBMXZOMjVtODJOT2xib01HTU9OaGluMFYwVXV5U2pBYktSa3R6WW8yeXBaSjluTzhfTmdkUG83QVJJR2lrckhTd0FjU3A3T3BMY3hRNS1zaGwxVnNiUDdvUTZRNHMzUXVRNXlyOFctZw?oc=5",
-      "publishedAt": "2026-11-13T05:56:05+08:00"
+      "publishedAt": "2026-11-13T14:56:46+08:00"
     },
     {
       "title": "Bermuda To Host Events To Promote Peace",
       "source": "Bernews",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VNlhsc196cDZwblhDeF8yRE1EU0hsYy03RUpDSFN5TnUwd25BVFpkdmVLN016NUQ5UUc3d0xCc0ZUU09ZbElON2dMc3hqWE50eGpsOVJJM2JvSDdkRFdTbi1laWNuUkdSek1qOE83WWRaUGxmSTBz?oc=5",
       "publishedAt": "2026-11-13T04:32:04+08:00"
-    },
-    {
-      "title": "Bermudian Trio Westtown Reach Semi-Finals",
-      "source": "Bernews",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBHY2hnRWxmdVhyVFpkQjdXUG9mSzVMQ3BxOTltWTdjdC00b2ZvX0tjMGpIU0h4d1JoYlo0THNBN2oydTVGVFBFVmF3TXNHQXQyaWJkX01fSmZWN0pvTzFZVGEtUHpmLUN2dkJ6dDJYWTFCcTZLOXdtTXpR?oc=5",
-      "publishedAt": "2026-11-13T04:02:45+08:00"
     },
     {
       "title": "Bermuda Beach petunias pop with color",

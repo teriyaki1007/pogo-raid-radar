@@ -1,7 +1,7 @@
 {
   "iso2": "VA",
   "name": "Vatican City",
-  "updatedAt": "2026-11-13T17:05:40+08:00",
+  "updatedAt": "2026-11-13T23:03:36+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,10 +26,16 @@
   ],
   "headlines": [
     {
-      "title": "Argentine Bishops to take up Pope Leo’s challenges for pastoral work",
+      "title": "Pope Leo: Let's continue with the same spirit of joy in Chiclayo",
       "source": "Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTEM5Y3pFZk9udkVLRXRXNTNuU1lCQkt3QlV1WGw3MTMwaFR2Z21NdTZKb3FJT095UmtSZTJLcFJyWnV3dVVRSUJrekx4ZUxYbTBUelN4ZkNmRHpVVzdFWmhzalpkTXMzZmN4ejk4WWcyZkpIanN2aVhHbTV5NGliSE9ZRF90OHNFSEJwNHFCUkpHbFhtdlhaT09uQjBEMFdQSDY0MmU0UVU2OHNWMUJQejhsamNvVjhS?oc=5",
-      "publishedAt": "2026-11-13T14:06:52+08:00"
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQckhqTDlSeWN0c0FnMlhyWTlGWDNzbGNTODNXeU1yWU5mbkFTTTdYanVPOUJTMUk3TzdfMjhQMzZZVXhlSjFsMnNzOVFTTWsxWFR2NzZ2T0ZDODJZYmUxVVVhZkxyS2hfYTZPOS1wTm1kRTlGUFEzY2FITWlqTXNkZDlaT0xSRTl4azVZTjV5UzZXNW5KcFFtNk9lMTc1N1ZxT0tXT3FTMjJ1Ync5dnhoZw?oc=5",
+      "publishedAt": "2026-11-13T21:55:42+08:00"
+    },
+    {
+      "title": "Pope Leo XIV names Notre Dame theologian to Vatican commission",
+      "source": "South Bend Tribune",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObmRWRnBEb0ZCdE5CLTZpQWhFcmt0X3FlYXpITjI3WlZXS1V5ZlRCUzVwSElJSm5XTERoQUh0V2dnc1hyR1ZhODlDY0t5QlI2WFMtdWJ3eWs1VGFIa0FaSXMwUk1OYmxMeHZaVDAyOEhLSDhXa3dCVGFHeGZVRmIyYjEwOHNiTWxBT1JNczNJYlh3TmhlekJneG83b044SW9ZeldOS2xfYThpYjJpR0ZwMmxISHNtZzlySTNrczZ1MmVRWkx0clNXdDVTQlpua1FqakIxcw?oc=5",
+      "publishedAt": "2026-11-13T18:03:00+08:00"
     },
     {
       "title": "Pope to prisoners in Argentina: Human person flourishes through limitations",
@@ -38,16 +44,16 @@
       "publishedAt": "2026-11-13T12:23:29+08:00"
     },
     {
+      "title": "Pope Leo mulls changes in how Church treats abuse victims in Peru meeting",
+      "source": "WTVB",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZDlBenUteEtFMTFiV2JoR2dNVFhEckQ4bHNfTE1Jd3h3dWhZZW1zQVM3SnN2ZGp5UnFqZnJyekoyb0dDd1EtMnhzTjlJQXVlVmNFSnJMQThnTng1UzNQa1FYd1kya1RBQ3VNOGFRRUVXaHBDQ1hCVmZsbnN3X0RIMkhFTFNHTzRtSEVvNUVyTndlZUtLTGl5YnhvM1NxUm1xdVRocTJzTQ?oc=5",
+      "publishedAt": "2026-11-13T11:31:40+08:00"
+    },
+    {
       "title": "Pope Leo meets with abuse survivors in Peru",
       "source": "OSV News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RakpJc3pQV3Yteml6eF91Y25EdmotSUYwRGNDaUJONEppMFBsRDFLNS1tdXdMa3FZSWlBZi14WXNjeHhJblVqUmNiWThpUXBWbnlyaFd3QW13RWl5LTRSdTBQRVZsNHluSnZNVE1QeDF6RU9JTEJB?oc=5",
       "publishedAt": "2026-11-13T10:18:24+08:00"
-    },
-    {
-      "title": "Vatican at UN expresses grave concern for people of Gaza",
-      "source": "Independent Catholic News",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14cWVLS0dRS1V1YlNFdUVaU0NtQ1dZRE92RTJQaUVfdGtKU2VOcEpyaUNTeUVlMGV5bWxzeEMyekhfcWV3bE4wYXY3c0VianAtLTEwaw?oc=5",
-      "publishedAt": "2026-11-13T06:02:57+08:00"
     },
     {
       "title": "Nein, nein, nine: Vatican pauses German diocese’s parish merger plan",
@@ -66,12 +72,6 @@
       "source": "EWTN News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdUtESFdncmJEb1EzZThRYUZPV1R4dWdRR295S3BnVWpNcW82RnJGNVF0MFhpcVgzSGFlcE85dV81cVhLS040ZDVhRWFINndMZkhiZWdpeUFaYlM5NWZ1NjhNQlMteEV3Wl92cUEzZE95bUV6ZVMtWG9NWXM2bjd4VXk1OGNkbTlLUjE2U2JNX29uOFlpN0ZlTzdtSC1YUGl2?oc=5",
       "publishedAt": "2026-11-12T23:31:00+08:00"
-    },
-    {
-      "title": "Apostolic Journey to Peru: Meeting with the Bishops, Priests, Men and Women Religious, Seminarians, Synodal Teams and Pastoral Councils - Calendar of Activities | Vatican.va",
-      "source": "The Holy See",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZTl3aWFnYWVQcFFHQ19obDNxT3BUUEwwTUt0ZXE1QjE1bDh5aVpkdjJrRjdfdk9YWGVGVjRqVXVOTUdMa0NobVZSVXRLdDQ4MW9ieldGUmhoSlA1ajBuNzI0bmpTQk43MnlkZUwxSXYwSlVPY0d2bFhhN0R1WUVZRnlkLXFDRkdEc3ljWmZ1Y21IOVBBei02aGdUQUxYenhiQTJBNkJ6eFhzUEUxd2FPRGFmaFdRMjlmU3ZYam9JMlhhOUk?oc=5",
-      "publishedAt": "2026-11-12T22:50:45+08:00"
     }
   ]
 }
