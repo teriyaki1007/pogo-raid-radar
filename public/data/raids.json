@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-11-13",
-    "asOfLabel": "13 Nov 2026 ~6:30 AM HKT (Dynamax Latias+Latios 6–7 PM local later today in Asia/Oceania; Regidrago still later today in the Americas; Registeel ENDED worldwide)",
+    "asOfLabel": "13 Nov 2026 ~10:30 PM HKT (Into the Wild ENDED in Asia/Oceania; still later today in Europe and the Americas until 8:00 PM local; Dynamax Latias+Latios ENDED in Asia/Oceania; Regidrago ENDED worldwide)",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Morning refresh 13 Nov ~6:30 AM HKT: Into the Wild still LIVE (Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local). 5★ Crowned Sword Zacian + Crowned Shield Zamazenta (catch Hero of Many Battles — hundo 2188 / 2735 Cloudy) and 3★ Druddigon + Orthworm. No 1★ or Mega published for this event (official + Leek Duck). Remote Raid limit 30. Zacian Raid Hour (Mon 9, 6–7 PM) and Zamazenta Raid Hour (Tue 10, 6–7 PM) ENDED worldwide. Today’s 5★ Max Battles are Dynamax Latias + Latios (Fri 13 Nov 6–7 PM local; Max dens, not gym raid cards; official: Latias knows Mist Ball, Latios knows Luster Purge) — later today across Asia/Oceania (already Friday there). Dynamax Regidrago (Thu 12, 6–7 PM) ENDED in Asia, Oceania, and Europe; still later today in the Americas (US East shortly after this check; later westward). Dynamax Registeel (Wed 11, 6–7 PM) ENDED worldwide. 1★ Ralts / 2★ Machop still in Max dens all event. Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still listed (Leek Duck + GO Hub + ScrapedDuck). Shadow Tornadus first weekend ended; longer package resumes Mon 16 Nov → Tue 1 Dec. Upcoming unchanged: GO Wild Area Global Sat 14 (Zekrom + White Kyurem + Dynamax Dialga) & Sun 15 (Reshiram + Black Kyurem + Dynamax Palkia) + Modern Jacket Machamp 3★ → Cresselia + Darkrai 5★ + Mega Banette Mon 16–Tue 24 Nov → Deoxys (all 4 formes) 5★ + Mega Metagross Wed 25 Nov–Tue 1 Dec. Eggs (Leek Duck Updated Sep 14; Wild Area 10 km event pool Honedge/Klefki/Drampa/Duraludon starts Sat 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged.",
-      "endsAtLabel": "Into the Wild → Fri 13 Nov 8:00 PM local · Dynamax Latias+Latios 6–7 PM local today in Asia/Oceania · Regidrago still later today in the Americas · Registeel ENDED worldwide"
+      "text": "Evening refresh 13 Nov ~10:30 PM HKT: Into the Wild ENDED in Asia and Oceania after 8:00 PM local Friday; still LIVE later today in Europe and the Americas until 8:00 PM local. 5★ Crowned Sword Zacian + Crowned Shield Zamazenta (catch Hero of Many Battles — hundo 2188 / 2735 Cloudy) and 3★ Druddigon + Orthworm while the event is still live. No 1★ or Mega published for this event (official + Leek Duck). Remote Raid limit 30 during the event. After a region’s 8:00 PM local end, no published 5★/3★/Mega replacement until GO Wild Area Global starts Sat 14 Nov 10:00 AM local. Zacian Raid Hour (Mon 9, 6–7 PM) and Zamazenta Raid Hour (Tue 10, 6–7 PM) ENDED worldwide. Dynamax Latias + Latios (Fri 13 Nov 6–7 PM local; Max dens, not gym raid cards; official: Latias knows Mist Ball, Latios knows Luster Purge) ENDED in Asia/Oceania; still later today in Europe and the Americas. Dynamax Regidrago (Thu 12, 6–7 PM) ENDED worldwide. Dynamax Registeel (Wed 11, 6–7 PM) ENDED worldwide. 1★ Ralts / 2★ Machop Max dens ran all event and end with Into the Wild in each timezone. Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still listed (Leek Duck + GO Hub + ScrapedDuck). Shadow Tornadus first weekend ended; longer package resumes Mon 16 Nov → Tue 1 Dec. Upcoming: GO Wild Area Global Sat 14 (Zekrom + White Kyurem + Dynamax Dialga) & Sun 15 (Reshiram + Black Kyurem + Dynamax Palkia) + Modern Jacket Machamp 3★ (10:00 AM–6:00 PM local) → Cresselia + Darkrai 5★ + Mega Banette Mon 16–Tue 24 Nov → Deoxys (all 4 formes) 5★ + Mega Metagross Wed 25 Nov–Tue 1 Dec. Eggs (Leek Duck Updated Sep 14; Wild Area 10 km event pool Honedge/Klefki/Drampa/Duraludon starts Sat 14) / Rocket (Updated Oct 2; Giovanni inactive) unchanged.",
+      "endsAtLabel": "Into the Wild ENDED in Asia/Oceania · still later today in Europe/Americas until Fri 13 Nov 8:00 PM local · Dynamax Latias+Latios ENDED in Asia/Oceania, still later today in Europe/Americas · Regidrago + Registeel ENDED worldwide · Wild Area starts Sat 14 Nov 10:00 AM local"
     },
     "legend": {
       "standard": {
@@ -1429,7 +1429,7 @@
         "pokeapiId": 10188,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10188.png"
       },
-      "notes": "LIVE with Into the Wild (official / Leek Duck) Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local. Fairy/Steel. You fight Crowned Sword but catch Hero of Many Battles — hundo 2188 (2735 Cloudy). Raid Hour Mon 9 Nov 6–7 PM ENDED. Wins award Crowned Sword Energy; Special Background possible on 5★ catches. Shiny-eligible.",
+      "notes": "ENDED in Asia/Oceania after 8:00 PM local Fri 13 Nov; still LIVE later today in Europe and the Americas until 8:00 PM local (official / Leek Duck). Fairy/Steel. You fight Crowned Sword but catch Hero of Many Battles — hundo 2188 (2735 Cloudy). Raid Hour Mon 9 Nov 6–7 PM ENDED. Wins award Crowned Sword Energy; Special Background possible on 5★ catches. Shiny-eligible. No published 5★ replacement after the local end until GO Wild Area Sat 14 Nov 10:00 AM.",
       "types": [
         "Fairy",
         "Steel"
@@ -1496,7 +1496,7 @@
         "pokeapiId": 10189,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10189.png"
       },
-      "notes": "LIVE with Into the Wild (official / Leek Duck) Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local. Fighting/Steel. You fight Crowned Shield but catch Hero of Many Battles — hundo 2188 (2735 Cloudy). Raid Hour Tue 10 Nov 6–7 PM ENDED. Wins award Crowned Shield Energy; Special Background possible on 5★ catches. Shiny-eligible.",
+      "notes": "ENDED in Asia/Oceania after 8:00 PM local Fri 13 Nov; still LIVE later today in Europe and the Americas until 8:00 PM local (official / Leek Duck). Fighting/Steel. You fight Crowned Shield but catch Hero of Many Battles — hundo 2188 (2735 Cloudy). Raid Hour Tue 10 Nov 6–7 PM ENDED. Wins award Crowned Shield Energy; Special Background possible on 5★ catches. Shiny-eligible. No published 5★ replacement after the local end until GO Wild Area Sat 14 Nov 10:00 AM.",
       "types": [
         "Fighting",
         "Steel"
@@ -1563,7 +1563,7 @@
         "pokeapiId": 621,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
       },
-      "notes": "LIVE Into the Wild 3★ all week (official / Leek Duck) Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local. Dragon. Hundo 1561 (1951 Windy). Shiny-eligible. No 1★ or Mega published for this event.",
+      "notes": "ENDED in Asia/Oceania after 8:00 PM local Fri 13 Nov; still LIVE later today in Europe and the Americas until 8:00 PM local (official / Leek Duck). Dragon. Hundo 1561 (1951 Windy). Shiny-eligible. No 1★ or Mega published for this event. No published 3★ replacement after the local end until GO Wild Area Sat 14 Nov 10:00 AM (Modern Jacket Machamp).",
       "types": [
         "Dragon"
       ],
@@ -1628,7 +1628,7 @@
         "pokeapiId": 968,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
       },
-      "notes": "LIVE Into the Wild 3★ all week (official / Leek Duck) Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local. Steel. Hundo 1313 (1642 Snow). Shiny-eligible. No 1★ or Mega published for this event.",
+      "notes": "ENDED in Asia/Oceania after 8:00 PM local Fri 13 Nov; still LIVE later today in Europe and the Americas until 8:00 PM local (official / Leek Duck). Steel. Hundo 1313 (1642 Snow). Shiny-eligible. No 1★ or Mega published for this event. No published 3★ replacement after the local end until GO Wild Area Sat 14 Nov 10:00 AM (Modern Jacket Machamp).",
       "types": [
         "Steel"
       ],
@@ -2647,9 +2647,9 @@
   "events": [
     {
       "id": "into-the-wild-2026",
-      "when": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (LIVE)",
-      "title": "Into the Wild 2026 (LIVE)",
-      "impact": "LIVE through Fri 13 Nov 8:00 PM local. 5★ Crowned Sword Zacian + Crowned Shield Zamazenta all week — catch is Hero of Many Battles, hundo 2188 / 2735 Cloudy (Crowned Sword/Shield Energy from wins; Special Background possible). 3★ Druddigon + Orthworm. No 1★ or Mega listed. Remote Raid limit 30. Max Battles (1★ Ralts, 2★ Machop; 5★ Latias+Latios later today Fri 13 Nov 6–7 PM local in Asia/Oceania; Regidrago Thu 6–7 PM ENDED in Asia/Oceania/Europe, still later today in the Americas; Registeel Wed 6–7 PM ENDED worldwide) are Max dens, not gym raid cards. Official: Latias knows Mist Ball, Latios knows Luster Purge. Raid Hours: Zacian Mon 9 and Zamazenta Tue 10 ENDED worldwide.",
+      "when": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (ENDED in Asia/Oceania; still later today in Europe and the Americas)",
+      "title": "Into the Wild 2026 (ENDED in Asia/Oceania)",
+      "impact": "ENDED in Asia and Oceania after 8:00 PM local Fri 13 Nov; still LIVE later today in Europe and the Americas until 8:00 PM local. While live: 5★ Crowned Sword Zacian + Crowned Shield Zamazenta — catch is Hero of Many Battles, hundo 2188 / 2735 Cloudy (Crowned Sword/Shield Energy from wins; Special Background possible). 3★ Druddigon + Orthworm. No 1★ or Mega listed. Remote Raid limit 30. After a region’s 8:00 PM local end, no published 5★/3★/Mega replacement until GO Wild Area Global Sat 14 Nov 10:00 AM local. Max Battles (1★ Ralts, 2★ Machop; 5★ Latias+Latios Fri 13 Nov 6–7 PM local ENDED in Asia/Oceania, still later today in Europe and the Americas; Regidrago Thu 6–7 PM and Registeel Wed 6–7 PM ENDED worldwide) are Max dens, not gym raid cards, and end with Into the Wild in each timezone. Official: Latias knows Mist Ball, Latios knows Luster Purge. Raid Hours: Zacian Mon 9 and Zamazenta Tue 10 ENDED worldwide.",
       "urgent": true
     },
     {
@@ -2698,7 +2698,7 @@
       "id": "go-wild-area-global-2026",
       "when": "Sat 14 & Sun 15 Nov 10:00 AM – 6:00 PM local (upcoming)",
       "title": "GO Wild Area 2026: Global (upcoming)",
-      "impact": "Sat 5★: Zekrom + White Kyurem. Sun 5★: Reshiram + Black Kyurem. Both days 3★: Machamp wearing a modern jacket. Kyurem raids award Fusion Energy; Kyurem may know Glaciate. Max Battles also on Upcoming: Dynamax Dialga (Sat) + Dynamax Palkia (Sun) at Power Spots; GMax Duraludon both days (6★ Max — dens, see Leek Duck). Sources: Leek Duck Wild Area raids.",
+      "impact": "Starts Sat 14 Nov 10:00 AM local (after the Friday 8:00 PM Into the Wild end — overnight gap; no published filler raids). Sat 5★: Zekrom + White Kyurem. Sun 5★: Reshiram + Black Kyurem. Both days 3★: Machamp wearing a modern jacket. Kyurem raids award Fusion Energy; Kyurem may know Glaciate. Max Battles also on Upcoming: Dynamax Dialga (Sat) + Dynamax Palkia (Sun) at Power Spots; GMax Duraludon both days (6★ Max — dens, see Leek Duck). Sources: Leek Duck Wild Area raids.",
       "urgent": true
     },
     {
