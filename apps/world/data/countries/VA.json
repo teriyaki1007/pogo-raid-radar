@@ -1,7 +1,7 @@
 {
   "iso2": "VA",
   "name": "Vatican City",
-  "updatedAt": "2026-11-13T05:11:03+08:00",
+  "updatedAt": "2026-11-13T11:04:33+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,25 +26,37 @@
   ],
   "headlines": [
     {
+      "title": "Pope Leo meets with abuse survivors in Peru",
+      "source": "OSV News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RakpJc3pQV3Yteml6eF91Y25EdmotSUYwRGNDaUJONEppMFBsRDFLNS1tdXdMa3FZSWlBZi14WXNjeHhJblVqUmNiWThpUXBWbnlyaFd3QW13RWl5LTRSdTBQRVZsNHluSnZNVE1QeDF6RU9JTEJB?oc=5",
+      "publishedAt": "2026-11-13T10:18:24+08:00"
+    },
+    {
+      "title": "Pope: Jesus 'knows your story and continues to invite you to walk with Him'",
+      "source": "Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLVY5NXZVMHFqbEtCT29hZmtvdkEtU09XWVRfamxpUEtBYUhuRjlZbWdRNXpYb1VkRDA5VnVXN1B4VDlKNnBfaHRXLTA1WVBzdkVqVDBPQklmdDlLamgxOHhpUU50Y0hVWGZ1NExPSUQ4dDZYM1JkUEhROXdxaW1NaDJ4U1M4SEFHQUJmZ2xKa1AyeURqSXowcms3azBvM0RsU0E?oc=5",
+      "publishedAt": "2026-11-13T09:17:59+08:00"
+    },
+    {
+      "title": "Pope invites Argentina to reconciliation, enlightenment, communion, mission",
+      "source": "Vatican News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNi01QUJTd0Z6WnZiclRUUkxFb25HTGxta0ZGLWxWajYzT1V6VHVVV1BUQ2xnR2ZQV1ZJYmZaalg2QW1PNkthTkhna1FvVmdpZzFzTkx6VFN4RUY1Zm5OaU53N09zclNpOWVfazlYNFd5MmdjaXI1SWlfY0RMTlpxdGRvMUYyNHp5d1c1RWNVR2hqNmZDbWYtM1lTSQ?oc=5",
+      "publishedAt": "2026-11-13T08:27:58+08:00"
+    },
+    {
+      "title": "Vatican at UN expresses grave concern for people of Gaza",
+      "source": "Independent Catholic News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14cWVLS0dRS1V1YlNFdUVaU0NtQ1dZRE92RTJQaUVfdGtKU2VOcEpyaUNTeUVlMGV5bWxzeEMyekhfcWV3bE4wYXY3c0VianAtLTEwaw?oc=5",
+      "publishedAt": "2026-11-13T06:02:57+08:00"
+    },
+    {
       "title": "Nein, nein, nine: Vatican pauses German diocese’s parish merger plan",
       "source": "The Pillar",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DU2RzMHI3NU5seS1EQTk1VGlFeFdieHgwR01xMXhEeEdPZkx4SzlIWFBVSTV4SldZOEJfdm90dUo5TkJSUHRpUjdwRi1peFN6em1BY1FRZ2g2N0pPeTJVUlIzYlRGVHVOd0cwdF9mY3hqZ0w2b010aQ?oc=5",
       "publishedAt": "2026-11-13T03:03:30+08:00"
     },
     {
-      "title": "Pope urges Peruvians to build a society based on respect, inclusion, solidarity",
-      "source": "Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY3ZUM3FmMmFuWnNGelNCR0l5SS04dGpIekZrV1h2cDFXaVp3dzBMU2NSOFk4WmR1dnRrWi15bE80QjlxWlJDcm1FVjR0LVpoQmhIZWo3V1U3M2hxckJXV0NtYzlJa25fd0tLbjliSWpMVGYybXozWUh0ZU43aFlVaFRCUGphc0t2ck1vNU8xRFNnR1JzbXpydm56cUMtX0tNVGlvVlloMmUyNHNvSFJrbjlYZw?oc=5",
-      "publishedAt": "2026-11-13T02:04:14+08:00"
-    },
-    {
-      "title": "Pope Leo encourages the Church in Peru to continue to spread the Gospel",
-      "source": "Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2duQU4xQnQtMkxOZXJKaGRUQ2Fnbmc3N09MMGtUZHBCQ0k0dS1LRnI1OHI3ZGR4WFEtNjZZOFU0VHVmVGhMSzlZM1RTb1I1S0QtMmt5QnJ5U2lCZ0stUjFMcWd3Y3BKc3JQakV2ekl0ejZwVXdKY21EYTBaRUw3dXg3a29paXhMY1Nr?oc=5",
-      "publishedAt": "2026-11-13T00:26:08+08:00"
-    },
-    {
-      "title": "German Vatican ambassador says Pope Leo XIV wants to visit Germany",
+      "title": "German ambassador to Vatican says Pope Leo XIV wants to visit Germany",
       "source": "Crux: Covering all things Catholic",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTWZoNXZMNlJ5NWJFenZmUWtYbG9pVEZ0SU5jUjZiV1VLM3R4TkpQYXQtR1RSNVlDYnRERGV0VXN0T3BwdFhJWG1zalBVaTlPT1RGVnVFN28zeno4UFBCV2VwTFkyWGo4bG1FQ1BYNk1xSzNsdGlZdExIM3RfbmREVnBGWVdTakxtUkN6SHFCZFFVMW1HcFJBemlBZkw5US1jUGlvVmhZVjRqeWtYTngwQm1n?oc=5",
       "publishedAt": "2026-11-12T23:58:00+08:00"
@@ -56,22 +68,10 @@
       "publishedAt": "2026-11-12T23:31:00+08:00"
     },
     {
-      "title": "‘If only Rome knew us’: New study challenges Vatican Latin Mass restrictions",
-      "source": "The Catholic Herald",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa05KOXJCckFTQjlaRXhkdG9QbzFmV3BscHBFcWhTaGJKN25CSzBLT2lhUXpoQ2FLZ2FNSHdUaHlvTDhDR2FxWnlUNFBsSmo5aWVDR002WlJSM2ctSUNnaVVteFZaUlZNeklLbXNRTTVqQXFKRHhlNTRmWjBtS3picllIYm1QX0o3el9SdU5NUVJVQm5lSmVNY2h0bWVob3AzbHJ4SS1VTWRIX2R5clNveA?oc=5",
-      "publishedAt": "2026-11-12T22:00:00+08:00"
-    },
-    {
-      "title": "ETHIOPIA: Pallium Bestowed on Archbishop Abune Tesfaselassie Tadesse at the Vatican",
-      "source": "AMECEA",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdXpXalllRWdGa2JnT1M4TmxYcVZPNld2T2V4SHFJMWJPUTRMVzRWbWtBZ0l6enUyeDBHcjJGbzFueGQzUFI0TnFQMjVxWEdYRkdRRHVzZkdIQ29Iek5QM1JwNk5fdTFMZnQyRmlrQ09IQWE0NXRwbXZwTjVRXzV1ODJMd1NxY2JCdWNxRDZNVHpvZVg3TTV4UnNHRk02anFKTDlqQVM4cVhhN3ZmZkdiVkJjU212dTZNejZjM2lTWUxmWWxydE14Y0gwdy1GVXJnZDBnUQ?oc=5",
-      "publishedAt": "2026-11-12T20:56:12+08:00"
-    },
-    {
-      "title": "PHOTOS: Pope Leo XIV concludes visit to Argentina, returns to adopted country of Peru",
-      "source": "EWTN Vatican",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWJsUlNSTUZ3M3Z6Q2FUQURKUDBzaUtfci1rMHAtY0t5YVNYdURWamlnU1NQZGt3SVk4bkV2TWM4X09STVY4UWs3U3Fhb1ZXSHZOdF92ZWs5eFUyNE4tdUVneE1ORzA2VWJtTXhDZlo0QU9ZTG8yNFowVC01U0RMS3RyejQwMGpqYWZfY0ZlOHJiRUtpNng0aGdTVTY5OXRFV1h3bVkyRG9WZU52amdBYUZFRWZwUFU?oc=5",
-      "publishedAt": "2026-11-12T19:30:53+08:00"
+      "title": "Apostolic Journey to Peru: Meeting with the Bishops, Priests, Men and Women Religious, Seminarians, Synodal Teams and Pastoral Councils - Calendar of Activities | Vatican.va",
+      "source": "The Holy See",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZTl3aWFnYWVQcFFHQ19obDNxT3BUUEwwTUt0ZXE1QjE1bDh5aVpkdjJrRjdfdk9YWGVGVjRqVXVOTUdMa0NobVZSVXRLdDQ4MW9ieldGUmhoSlA1ajBuNzI0bmpTQk43MnlkZUwxSXYwSlVPY0d2bFhhN0R1WUVZRnlkLXFDRkdEc3ljWmZ1Y21IOVBBei02aGdUQUxYenhiQTJBNkJ6eFhzUEUxd2FPRGFmaFdRMjlmU3ZYam9JMlhhOUk?oc=5",
+      "publishedAt": "2026-11-12T22:50:45+08:00"
     }
   ]
 }
