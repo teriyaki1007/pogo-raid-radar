@@ -9,7 +9,8 @@
     "Justin": { "photo": "img/justin.jpg", "pos": "52% 28%", "zoom": 2.2 },
     "Curtis": { "photo": "img/curtis.jpg", "pos": "40% 28%", "zoom": 2.2 },
     "Baron": { "photo": "img/baron.jpg", "pos": "60% 25%", "zoom": 4 },
-    "Karson": { "photo": "img/karson.jpg", "pos": "30% 27%", "zoom": 4.5 }
+    "Karson": { "photo": "img/karson.jpg", "pos": "30% 27%", "zoom": 4.5 },
+    "Ashton": { "photo": "img/ashton.jpg", "pos": "50% 52%", "zoom": 3 }
   },
   "matchDays": [
     {
@@ -35,6 +36,18 @@
         "Justin": { "g": 4, "a": 2 },
         "Karson": { "g": 1, "a": 1 },
         "Baron": { "g": 0, "a": 2 }
+      }
+    },
+    {
+      "day": 3,
+      "date": "2026-11-13",
+      "stats": {
+        "Dastan": { "g": 2, "a": 5 },
+        "Lucas": { "g": 5, "a": 5 },
+        "Wesley": { "g": 5, "a": 2 },
+        "Justin": { "g": 6, "a": 2 },
+        "Karson": { "g": 1, "a": 1 },
+        "Ashton": { "g": 0, "a": 1 }
       }
     }
   ],

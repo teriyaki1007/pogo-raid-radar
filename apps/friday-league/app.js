@@ -83,7 +83,9 @@
     $("season-label").textContent = seasonLabel(d.season);
     var last = S.latestDay(d);
     $("updated").textContent = last
-      ? "Updated after Match Day " + last.day + " (" + S.formatDate(last.date) + ")"
+      ? (S.formatDate(last.date)
+          ? "Updated after Match Day " + last.day + " (" + S.formatDate(last.date) + ")"
+          : "Updated after Match Day " + last.day)
       : "No match days played yet";
   }
   function renderHeader() {
@@ -225,7 +227,8 @@
       b.setAttribute("aria-selected", String(d.day === state.activeDay));
       b.tabIndex = d.day === state.activeDay ? 0 : -1;
       b.appendChild(document.createTextNode("MD " + d.day));
-      b.appendChild(el("small", null, S.formatDate(d.date)));
+      var tabDate = S.formatDate(d.date);
+      if (tabDate) b.appendChild(el("small", null, tabDate));
       b.addEventListener("click", function () { selectDay(d.day, false); });
       b.addEventListener("keydown", function (e) {
         var idx = days.findIndex(function (x) { return x.day === d.day; });
@@ -255,7 +258,7 @@
     panel.setAttribute("aria-labelledby", "tab-" + t.day);
 
     var head = el("div", "md-head");
-    head.appendChild(el("h3", null, "Match Day " + t.day + " · " + S.formatDate(t.date)));
+    head.appendChild(el("h3", null, S.formatDate(t.date) ? "Match Day " + t.day + " · " + S.formatDate(t.date) : "Match Day " + t.day));
     head.appendChild(el("p", null, t.goals + " goals · " + t.assists + " assists · " + t.rows.length + " players"));
     panel.appendChild(head);
 
@@ -452,7 +455,7 @@
       P.perDay.forEach(function (d, i) {
         var tr = el("tr", d.played ? "" : "absent-row"); tr.style.setProperty("--i", i);
         tr.appendChild(el("td", null, "MD " + d.day));
-        tr.appendChild(el("td", "dim", S.formatDate(d.date)));
+        tr.appendChild(el("td", "dim", S.formatDate(d.date) || "–"));
         [d.g, d.a, d.ga].forEach(function (v, k) {
           var td = el("td", "num" + (k === 2 ? " ga" : "") + (d.played ? "" : " dash"), d.played ? String(v) : "–");
           if (!d.played) td.setAttribute("aria-label", "did not play");
@@ -553,7 +556,7 @@
     window.addEventListener("hashchange", route);
   }
 
-  fetch("data/league.json", { cache: "no-cache" })
+  fetch("data/league.json?v=gw3", { cache: "no-cache" })
     .then(function (r) { if (!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
     .then(init)
     .catch(function (err) {

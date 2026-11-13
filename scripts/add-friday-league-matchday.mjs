@@ -2,6 +2,7 @@
 // Append a match day to apps/friday-league/data/league.json.
 //
 //   node scripts/add-friday-league-matchday.mjs 2026-10-09 "Lucas 3/1, Dastan 2/2, Wesley 1/0"
+//   node scripts/add-friday-league-matchday.mjs --no-date "Lucas 3/1, Dastan 2/2"   # label as Match Day N only
 //
 // Profiles/photos live in the "players" key of league.json and are never modified by this script.
 // Options: --new  allow player names not seen before (initials badge until a photo is added)   --dry-run  print only, don't write
@@ -78,22 +79,26 @@ function main() {
   const pos = argv.filter((a) => !a.startsWith("--"));
   const allowNew = flags.includes("--new");
   const dry = flags.includes("--dry-run");
-  const bad = flags.filter((f) => !["--new", "--dry-run"].includes(f));
-  if (bad.length || pos.length !== 2) {
-    console.error('Usage: node scripts/add-friday-league-matchday.mjs <YYYY-MM-DD> "<Name g/a, Name g/a, ...>" [--new] [--dry-run]');
+  const noDate = flags.includes("--no-date");
+  const bad = flags.filter((f) => !["--new", "--dry-run", "--no-date"].includes(f));
+  if (bad.length || pos.length !== (noDate ? 1 : 2)) {
+    console.error('Usage: node scripts/add-friday-league-matchday.mjs <YYYY-MM-DD|--no-date> "<Name g/a, Name g/a, ...>" [--new] [--dry-run]');
     process.exit(2);
   }
-  const [date, statsArg] = pos;
+  const date = noDate ? null : pos[0];
+  const statsArg = noDate ? pos[0] : pos[1];
   try {
-    if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || Number.isNaN(Date.parse(date + "T00:00:00Z")) ||
-        new Date(date + "T00:00:00Z").toISOString().slice(0, 10) !== date)
-      throw new Error(`Invalid date "${date}" (use YYYY-MM-DD).`);
+    if (!noDate) {
+      if (!/^\d{4}-\d{2}-\d{2}$/.test(date) || Number.isNaN(Date.parse(date + "T00:00:00Z")) ||
+          new Date(date + "T00:00:00Z").toISOString().slice(0, 10) !== date)
+        throw new Error(`Invalid date "${date}" (use YYYY-MM-DD, or --no-date if the date is unknown).`);
+    }
 
     const S = loadStandings();
     const data = JSON.parse(fs.readFileSync(dataFile, "utf8"));
     const days = S.sortedDays(data);
     const last = days[days.length - 1];
-    if (last && date <= last.date)
+    if (!noDate && last && last.date && date <= last.date)
       throw new Error(`Date ${date} must be after the latest match day (${last.date}, MD ${last.day}).`);
 
     // Known = anyone with stats, a players entry, or an archive entry (so returning players don't need --new).
@@ -122,7 +127,7 @@ function main() {
     JSON.parse(text); // sanity check
 
     const table = S.computeStandings(data);
-    console.log(`${dry ? "[dry run] " : ""}Match Day ${data.matchDays.at(-1).day} (${date}) ${dry ? "would be" : "added"}.`);
+    console.log(`${dry ? "[dry run] " : ""}Match Day ${data.matchDays.at(-1).day}${date ? " (" + date + ")" : ""} ${dry ? "would be" : "added"}.`);
     console.log("\n #  Player      MD   G   A  G+A");
     for (const r of table)
       console.log(`${String(r.rank).padStart(2)}  ${r.name.padEnd(10)} ${String(r.md).padStart(3)} ${String(r.g).padStart(3)} ${String(r.a).padStart(3)} ${String(r.ga).padStart(4)}`);

@@ -42,13 +42,14 @@ Individual players only, ranked by goals + assists (G+A). Tiebreak: more goals, 
 cd /workspace/pogo-raid-radar
 git pull --rebase origin main
 node scripts/add-friday-league-matchday.mjs 2026-10-09 "Lucas 3/1, Dastan 2/2, Wesley 1/0"   # Name goals/assists
+# If the date is unknown: node scripts/add-friday-league-matchday.mjs --no-date "Lucas 3/1, Dastan 2/2" [--new]
 node scripts/test-friday-league.mjs
 npm run build           # copies apps/friday-league into dist/
 git add apps/friday-league/data/league.json
 git commit -m "Friday League: Match Day 3"
 git pull --rebase origin main && git push origin HEAD:main   # Cloudflare Pages republishes in ~1 min
 ```
-The script appends the next day number, validates the date (must be after the last match day), names (must already exist; use `--new` for a new player), and numbers, rewrites `league.json` in a stable format, and prints the new totals. Use `--dry-run` to preview. Leave out anyone who was absent. `players` (photos) and `archive` are left untouched.
+The script appends the next day number, validates the date (must be after the last match day; use `--no-date` to label it Match Day N only), names (must already exist; use `--new` for a new player), and numbers, rewrites `league.json` in a stable format, and prints the new totals. Use `--dry-run` to preview. Leave out anyone who was absent. A player who first appears mid-season is not listed as absent on earlier days. `players` (photos) and `archive` are left untouched.
 
 You can also edit `data/league.json` directly (append an object to `matchDays` with the next `day`), then run `node scripts/test-friday-league.mjs`, which also checks the file stays in the stable format.
 

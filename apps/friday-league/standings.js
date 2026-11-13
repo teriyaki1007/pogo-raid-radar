@@ -37,7 +37,8 @@
     return (b.a - a.a) || compareOverall(a, b);
   }
 
-  /** Overall standings, computed from matchDays only. Each row: {name, rank, md, g, a, ga, gaPerMd, share, perDay}. */
+  /** Overall standings, computed from matchDays only. Each row: {name, rank, md, g, a, ga, gaPerMd, share, perDay}.
+      Rank is competition-style on G+A (ties share a rank; the next rank is skipped). Sort order still uses goals, then fewer match days, then name. */
   function computeStandings(data) {
     var rows = {};
     playerNames(data).forEach(function (n) {
@@ -55,7 +56,7 @@
     var list = Object.keys(rows).map(function (k) { return rows[k]; }).sort(compareOverall);
     var lead = list.length ? list[0].ga : 0;
     list.forEach(function (r, i) {
-      r.rank = i + 1;
+      r.rank = (i > 0 && r.ga === list[i - 1].ga) ? list[i - 1].rank : i + 1;
       r.gaPerMd = r.md ? r.ga / r.md : 0;
       r.share = lead ? r.ga / lead : 0;
     });
@@ -70,10 +71,15 @@
     playerNames(data).forEach(function (n) {
       var s = (day.stats || {})[n];
       if (s) { var g = num(s.g), a = num(s.a); played.push({ name: n, md: 1, g: g, a: a, ga: g + a }); }
-      else absent.push(n);
+      else {
+        var first = firstAppearance(data, n);
+        if (first != null && first < day.day) absent.push(n);
+      }
     });
     played.sort(compareOverall);
-    played.forEach(function (r, i) { r.rank = i + 1; });
+    played.forEach(function (r, i) {
+      r.rank = (i > 0 && r.ga === played[i - 1].ga) ? played[i - 1].rank : i + 1;
+    });
     absent.sort(function (x, y) { return x.localeCompare(y, "en"); });
     return {
       day: day.day, date: day.date, rows: played, absent: absent,
@@ -132,7 +138,10 @@
     var s1 = arch ? (arch.rows.filter(function (r) { return r.name === name; })[0] || null) : null;
     if (!s2 && !s1) return null;
     var extras = playerExtras(data, name);
-    var days = sortedDays(data).map(function (d) {
+    var first = firstAppearance(data, name);
+    var days = sortedDays(data).filter(function (d) {
+      return first == null || d.day >= first;
+    }).map(function (d) {
       var e = s2 && s2.perDay[d.day];
       return { day: d.day, date: d.date, played: !!e, g: e ? e.g : 0, a: e ? e.a : 0, ga: e ? e.ga : 0 };
     });
@@ -160,9 +169,19 @@
     return d.length ? d[d.length - 1] : null;
   }
 
-  /** Format an ISO date (YYYY-MM-DD) as "2 Oct 2026" without time-zone surprises. */
+  /** First match day a player has a stat line in, or null. */
+  function firstAppearance(data, name) {
+    var days = sortedDays(data), i;
+    for (i = 0; i < days.length; i++) {
+      if (days[i].stats && Object.prototype.hasOwnProperty.call(days[i].stats, name)) return days[i].day;
+    }
+    return null;
+  }
+
+  /** Format an ISO date (YYYY-MM-DD) as "2 Oct 2026" without time-zone surprises. Empty when no date. */
   function formatDate(iso) {
-    var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso || "");
+    if (iso == null || iso === "") return "";
+    var m = /^(\d{4})-(\d{2})-(\d{2})$/.exec(iso);
     if (!m) return iso || "";
     var mon = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"][Number(m[2]) - 1];
     return Number(m[3]) + " " + mon + " " + m[1];
