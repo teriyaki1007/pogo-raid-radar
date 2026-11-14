@@ -1,7 +1,7 @@
 {
   "iso2": "MT",
   "name": "Malta",
-  "updatedAt": "2026-11-14T05:02:34+08:00",
+  "updatedAt": "2026-11-14T11:09:53+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,7 +30,43 @@
   ],
   "headlines": [
     {
-      "title": "In Malta, new chips, new jobs: fab construction starts",
+      "title": "Single-family home in Malta goes for $325,000",
+      "source": "Shaw Local",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaGRBc3Uzb2NhZWhjeG54WjZjY0hVYlowbFhXM05OSTZueDVpaEdyU1V5Z3pLUVRnSHRkWVA3cUowaTlYYW9lWnVRNTN5Rno1UXRiSkJscmt5U1VKQkdoYUFRYnVRRmJzVGUyUGhnT0h1LTRPc0RzS3N6NElZRnEtd1ZCbUhVUmtEVlhYRVpsWnU5WElBQkhGQg?oc=5",
+      "publishedAt": "2026-11-14T08:02:52+08:00"
+    },
+    {
+      "title": "900,000 computer chips per year to be built in Malta beginning 2029",
+      "source": "WRGB",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVkJ0endIRWY3dDhzT1AyeXVUV0ExNHFHaXJaZVJ0VkNRRjJTcFBvZkpIY1JadWdLY0RwcUprM0czZDJLU1lSNVJnaUtqQkJYUEhiaEdpOUVyYzR3a1VHbjl4ZWFYTUxaQjFSeVI3MFd4RmJ4WUJyR05zbDV1cXhPellhRzdGb2lJS2hTREo0OUsxVG43VU5HOVFBU1FSOFBVN3c?oc=5",
+      "publishedAt": "2026-11-14T07:26:15+08:00"
+    },
+    {
+      "title": "MedTech World Europe concludes with prestigious awards ceremony in Malta",
+      "source": "MedTech World",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZGlDQlgwemgxeW9lSWI0SmZ3NlpBTTJ1UXhheWt1dm1EOHljNE9pZnJoRDZLaDdJWEdOU1haSFE4QlpmUHpINzc1OVkzNEktSG5jR1dOS2pQYTQ5Nm0xNTllR2ROQm94ZjVGSjhaWGZwOHVjdmU1b2ltWGJCVzktVzVXalh2c01pM1ljSHJvUW00ZWNFVEhkQTZqTks5eWd5OXZR?oc=5",
+      "publishedAt": "2026-11-14T06:50:38+08:00"
+    },
+    {
+      "title": "GlobalFoundries Malta expansion to bring 1,000+ new chip jobs",
+      "source": "WNYT.com",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTkRIYUU4MlAwSTlKeUkzYkxMWUFaRmRHLXQwWkNxN0I1b05YbXVxVS1oYkRHaG83OWdGb0lkbEw4d1dGUTZ2WW9CN183N1kxRWVZM015UFZnb3RlYlJqNC1kN3NidUQ0MnRUdS1PcXB1OGR6SWx5R3pLTG44YXhmRE0walRiNE9aX0ZTRi1CckRQU28?oc=5",
+      "publishedAt": "2026-11-14T06:50:18+08:00"
+    },
+    {
+      "title": "Malta solar water heater owners can claim up to €500 for upkeep 5 years after their original grant",
+      "source": "The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ0xRWXFaX1k3Vl9qLVlKeE9wYXJqajlqMWhRbjJKczJxMjYxQmpPQ2RjYzhJbjlCbEc2SjlTYUVpYmZNRWcxTHJUa0lRenlTblZvcld6ZDFFd3A2OVAxQ2pQeVRHRVFTaENiT2lUTTZPOGNjcjVUc0ZaSVgxX2EycVM2UEx4V1pwVmc?oc=5",
+      "publishedAt": "2026-11-14T06:03:00+08:00"
+    },
+    {
+      "title": "Malta assured of top spot in Group D1 of Nations League as Andorra stun Gibraltar",
+      "source": "SportsDesk",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYTZmTDhQWmxnSWs1OTZ0NXExT01Qa3VfVFV6S2Vlc054d3Y2M29kNFJITWNUTklvd2QxYzZOVy04N2FpeGpMVk1sbE4xaXgtcnlqMmVkTGtEclhKX04tNlZqcWRvbHE4SkhsUWVBMndkVFlOeHkwWmFSZDRlRXBRWDlSdTU0UTd3U01LOVhSVUlPSGt6ZG1XYVp6aHFTY2Z0WDVvVGZ2ZG9pSE1TT0tKOHFXVmJxejVsYmpGc3lDa28wQQ?oc=5",
+      "publishedAt": "2026-11-14T05:57:05+08:00"
+    },
+    {
+      "title": "GlobalFoundries breaks ground on Malta expansion",
       "source": "The Daily Gazette",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXUyTy1LT1NBVjJoTmkzVjFtUHVGWFNqM3BWOFJRd21iNW9RdjdIdV9HcEwxSWFfUy1xc1hoRnJaN1FrdFEyLXRNZDFPQ2hNM0FTOURrUldSVlg1M0RCVGJTN0ZiY2dtMENmS2pZc3AtX2hCUVM2WGlsbEZMWndZNTdVajFONWYtUXI4bUVyQkJIbjN1NVM4eVllVkpqY1g2THBSYWJPdTJRV05PdHRTZ0FPOUVRUkhYY1I2elduUQ?oc=5",
       "publishedAt": "2026-11-14T04:51:00+08:00"
@@ -40,42 +76,6 @@
       "source": "Troy Record",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPekNIcHRtbzAxcGpIbjRLLUF4WnQ4RkNGSFVVMkx3OHgxUTRnTTduM2Y2UFE5a3BTZGVidHZhUkVWampVUHJZRlBWdFhPVVkxaThTVUpVRFJlNDA3blE4bkJ5cjdpcE80Wk5md20zdGhXSWhGb1pfblg1TDlDM184R3hweVpMWUZ1cFBOc25nNllabTYzaTZYampCakNOYlBaVzRxTVJJMFZrS2hmWVF3bW8zZURXd0JsU3c?oc=5",
       "publishedAt": "2026-11-14T04:47:18+08:00"
-    },
-    {
-      "title": "Last Call for Applications for ESO’s Refresher Course on Breast Cancer in Malta",
-      "source": "Oncodaily",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TNWh3QUw1QlE4Q2lSM3JTRGRQa0hnYURlNGE0dlk1ZGxSQUd1aTZ2c3VpUnVTOGtLRFFnTWNibE50WVFnMlU0ZEVxR3QtZkE1b3BETQ?oc=5",
-      "publishedAt": "2026-11-14T04:05:34+08:00"
-    },
-    {
-      "title": "Malta: End of MINURSO mandate must not mean end of UN engagement in Western Sahara",
-      "source": "وكالة الأنباء الصحراوية",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9JMzlSNkFWcEtHSUEzQVQ1cTZ2OWJDUmFOZl95a3lxaHl5NmhMeGt6LUhWa0RVNHlwcm9vV3ZSYkQ2VFRQWFdZRlh5VXh1MHRBdFU1aFllSDN3eDFmWGc?oc=5",
-      "publishedAt": "2026-11-14T03:44:00+08:00"
-    },
-    {
-      "title": "These are the winners of Malta’s oldest architectural, conservation awards",
-      "source": "Times of Malta",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaXJJclVuVlZCaFNNZEZJMzhiZDd3bWtZQl8yUHZFbE9zd2xwRmd6NENWTzhhWXo4VkFNQ1F6a2hUaTdrektMR002V29aQmM1NURTRFdMN3lycHpadEV2UWtnQ2lWclQ0b2laLUtVQzIySURoWmZKZE1RbnpQUHkwWFp1aWtQSkJDbk9Edno1MEhJN0ktT0NuQklLdw?oc=5",
-      "publishedAt": "2026-11-14T02:50:00+08:00"
-    },
-    {
-      "title": "Everything I ate over three days in Malta",
-      "source": "SMH.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcEdCWDJ3dzV0WTE4cFJpejZicVZjc1REVUxWSkdQVnVROE9UUW9UY3hNQWgyMkFOajZnUGtfQWJwWmxXTnU4VDBYcl9sRi1rTHQwb1ZvLXk0VFBEcUVyN1VkMDdGQWdfbUtocC1iV2w5TVBWUjl3WlZzdzVaUU1EcUlFNjR6aGpieW5TWk1odExSemhHREhQLU5xWi1xVXBCZE40SjNIbFVhTzQ?oc=5",
-      "publishedAt": "2026-11-14T02:00:00+08:00"
-    },
-    {
-      "title": "Scientists discover 200m seabed bulge linked to fault system shaping Malta and Gozo",
-      "source": "MaltaToday",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcG9kd1drdjZTdlFyaHhCTGplZ1djcE9GNmpidjJ3STJyV09iN0QwSFRXNlZJUW5SMUhnbUtqbDRjRnd3ZHl3MnExQVZRTnRReVVDY3REdDU0RkROanZncGswQWFkWlBjallmWHN3ODNhczBQclhjdkJEX0lua1FLcXFFRUtLU3VsRjBWajkxUHpTZ2dmRFljSllpSkVLOHBsWEIxYmxEdmx6djJBNnVrNUJwMndYUDhoUGRmOENLa0Vfa1Nhbm5oTURwcFBkLUU?oc=5",
-      "publishedAt": "2026-11-14T02:00:00+08:00"
-    },
-    {
-      "title": "Maltese Students To Strike Over Budget, Environment And Global Injustice",
-      "source": "Lovin Malta",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaU8wejFpZ3JJZ1hzY1RsLUFhQ1N6WkkyUmctXzdCeTNqOFc2S1AwS1lDVVo3OWxyeVBtenNKLWlneENHLUo4bUx1ZHhnVzRmdS05X0dLMkZVWDZSZnNJSmJlRHlSX0FxcFByel9maWRjZXota2paMlYtekVfWjQ3MDk1bnRwdVNhaEpPUi16T0VFZmJ3RjV3VjBjNHBNUC1ISUNSXy1EYjhHZw?oc=5",
-      "publishedAt": "2026-11-14T01:03:13+08:00"
     }
   ]
 }
