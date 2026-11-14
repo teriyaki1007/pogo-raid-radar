@@ -1,7 +1,7 @@
 {
   "meta": {
-    "asOf": "2026-10-17",
-    "asOfLabel": "17 Oct 2026 ~10:30 PM HKT",
+    "asOf": "2026-11-14",
+    "asOfLabel": "14 Nov 2026 ~10:30 PM HKT",
     "season": "Twilight Trails",
     "seasonWindow": "Tue 8 Sep 2026 10:00 AM – Tue 1 Dec 2026 10:00 AM local",
     "sources": [
@@ -16,6 +16,18 @@
       {
         "name": "Dexerto Egg Chart",
         "url": "https://www.dexerto.com/pokemon/pokemon-go-egg-chart-2km-5km-10km-1640682/"
+      },
+      {
+        "name": "Leek Duck — GO Wild Area 2026 Eggs",
+        "url": "https://leekduck.com/pokemon-go-wild-area/eggs/"
+      },
+      {
+        "name": "GO Hub — GO Wild Area 2026: Global",
+        "url": "https://pokemongohub.net/post/event/wild-area-2026-global/"
+      },
+      {
+        "name": "Serebii — GO Wild Area 2026 Global",
+        "url": "https://www.serebii.net/pokemongo/events/gowildarea2026global.shtml"
       }
     ],
     "notes": [
@@ -30,7 +42,8 @@
       "11 Oct ~6:40 AM HKT refresh: seasonal pools still match Leek Duck (14 Sep 2026). World Space Week / Zorua CD ended; no event egg override active. Sandile Hatch Day still upcoming (17 Oct).",
       "15 Oct ~6:40 AM HKT refresh: seasonal pools still match Leek Duck (Updated 14 Sep 2026). No event egg override active. Sandile Hatch Day still upcoming Sat 17 Oct 11:00 AM–5:00 PM local.",
       "17 Oct ~6:30 AM HKT refresh: seasonal pools still match Leek Duck (Updated 14 Sep 2026). No event egg override active yet (pre-11 AM). Sandile Hatch Day is TODAY Sat 17 Oct 11:00 AM–5:00 PM local.",
-      "17 Oct ~10:30 PM HKT refresh: seasonal pools still match Leek Duck (Updated 14 Sep 2026). Sandile Hatch Day ENDED Sat 17 Oct 5:00 PM local — no event egg override active; Twilight Trails pools apply."
+      "17 Oct ~10:30 PM HKT refresh: seasonal pools still match Leek Duck (Updated 14 Sep 2026). Sandile Hatch Day ENDED Sat 17 Oct 5:00 PM local — no event egg override active; Twilight Trails pools apply.",
+      "14 Nov ~10:30 PM HKT refresh: seasonal Twilight Trails pools still match Leek Duck eggs chart (Updated 14 Sep 2026) + ScrapedDuck (no species changes). GO Wild Area 10 km event pool is now active during event hours (see eventEggsNote)."
     ]
   },
   "eggs": [
@@ -925,6 +938,62 @@
       ]
     }
   ],
-  "eventEggs": [],
-  "eventEggsNote": "No limited-time event egg pools active right now — Twilight Trails seasonal pools apply (Leek Duck eggs chart dated 14 Sep 2026). ENDED Sat 17 Oct 5:00 PM local: Sandile Hatch Day (boosted Sandile from 2 km Eggs + increased shiny chance during that window)."
+  "eventEggs": [
+    {
+      "id": "10km-wild-area-2026",
+      "distanceKm": 10,
+      "label": "10 km Eggs (GO Wild Area 2026: Global)",
+      "source": "PokéStops / Gyms during event hours (ticket holders: increased 10 km chance)",
+      "window": "Sat 14 & Sun 15 Nov 10:00 AM – 6:00 PM local (Saturday ENDED in Asia/Oceania; still LIVE in Europe; live or starting in the Americas; Sunday tomorrow 10:00 AM local)",
+      "event": "GO Wild Area 2026: Global",
+      "incomplete": false,
+      "pokemon": [
+        {
+          "name": "Honedge",
+          "pokeapiId": 679,
+          "sprite": {
+            "pokeapiId": 679,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/679.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/679.png",
+          "shiny": true,
+          "hatchCp": 794
+        },
+        {
+          "name": "Klefki",
+          "pokeapiId": 707,
+          "sprite": {
+            "pokeapiId": 707,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/707.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/707.png",
+          "shiny": true,
+          "hatchCp": 1114
+        },
+        {
+          "name": "Drampa",
+          "pokeapiId": 780,
+          "sprite": {
+            "pokeapiId": 780,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/780.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/780.png",
+          "shiny": true,
+          "hatchCp": 1665
+        },
+        {
+          "name": "Duraludon",
+          "pokeapiId": 884,
+          "sprite": {
+            "pokeapiId": 884,
+            "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png"
+          },
+          "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/884.png",
+          "shiny": true,
+          "hatchCp": 1753
+        }
+      ]
+    }
+  ],
+  "eventEggsNote": "GO Wild Area 2026: Global 10 km event eggs (Leek Duck Wild Area eggs, Updated Nov 4; GO Hub; Serebii): Honedge (hundo 794), Klefki (1114), Drampa (1665), and Duraludon (1753) — all shiny-eligible; hatch rates unpublished. Applies to 10 km Eggs obtained during event hours, Sat 14 & Sun 15 Nov 10:00 AM–6:00 PM local. Saturday window ENDED in Asia/Oceania after 6:00 PM local; still LIVE in Europe until 6:00 PM local Saturday; live or starting from 10:00 AM local in the Americas; Sunday window tomorrow 10:00 AM–6:00 PM local. Ticket holders have an increased chance of 10 km Eggs from PokéStops and Gyms (not a better chance of a specific hatch). Egg contents are fixed at pickup — eggs obtained before the window keep the seasonal pool. Seasonal Twilight Trails distance pools otherwise unchanged (Leek Duck eggs chart dated 14 Sep 2026)."
 }

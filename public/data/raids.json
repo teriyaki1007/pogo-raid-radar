@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-11-14",
-    "asOfLabel": "14 Nov 2026 ~6:30 AM HKT (Into the Wild ENDED in Asia/Oceania/Europe; still later today in the Americas until 8:00 PM local Friday; Dynamax Latias+Latios ENDED in Asia/Oceania/Europe, still later today in the Americas; GO Wild Area starts later today in Asia/Oceania at 10:00 AM local, tomorrow in Europe/Americas)",
+    "asOfLabel": "14 Nov 2026 ~10:30 PM HKT (Into the Wild ENDED worldwide; GO Wild Area Saturday ENDED in Asia/Oceania after 6:00 PM local; still LIVE in Europe until 6:00 PM local Saturday; live or starting from 10:00 AM local in the Americas; Sunday lineups tomorrow 10:00 AM local)",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Morning refresh 14 Nov ~6:30 AM HKT: Into the Wild ENDED in Asia, Oceania, and Europe after 8:00 PM local Friday; still LIVE later today in the Americas until 8:00 PM local. 5★ Crowned Sword Zacian + Crowned Shield Zamazenta (catch Hero of Many Battles — hundo 2188 / 2735 Cloudy) and 3★ Druddigon + Orthworm while the event is still live in the Americas. No 1★ or Mega published for this event (official + Leek Duck). Remote Raid limit 30 during the event. After a region’s 8:00 PM local end, no published 5★/3★/Mega replacement until GO Wild Area Global starts Sat 14 Nov 10:00 AM local. Zacian Raid Hour (Mon 9, 6–7 PM) and Zamazenta Raid Hour (Tue 10, 6–7 PM) ENDED worldwide. Dynamax Latias + Latios (Fri 13 Nov 6–7 PM local; Max dens, not gym raid cards; official: Latias knows Mist Ball, Latios knows Luster Purge) ENDED in Asia/Oceania/Europe; still later today in the Americas. Dynamax Regidrago (Thu 12, 6–7 PM) ENDED worldwide. Dynamax Registeel (Wed 11, 6–7 PM) ENDED worldwide. 1★ Ralts / 2★ Machop Max dens ran all event and end with Into the Wild in each timezone. Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still listed (Leek Duck + GO Hub + ScrapedDuck). Shadow Tornadus first weekend ended; longer package resumes Mon 16 Nov → Tue 1 Dec. GO Wild Area Global starts later today in Asia/Oceania (Sat 14 Nov 10:00 AM–6:00 PM local) and tomorrow in Europe/Americas: Sat 5★ Zekrom + White Kyurem + Dynamax Dialga + GMax Duraludon; Sun 5★ Reshiram + Black Kyurem + Dynamax Palkia + GMax Duraludon; both days 3★ Modern Jacket Machamp. Then Cresselia + Darkrai 5★ + Mega Banette Mon 16–Tue 24 Nov → Deoxys (all 4 formes) 5★ + Mega Metagross Wed 25 Nov–Tue 1 Dec. Eggs (Leek Duck Updated Sep 14; Wild Area 10 km event pool Honedge/Klefki/Drampa/Duraludon starts with the event at 10:00 AM local) / Rocket (Updated Oct 2; Giovanni inactive) unchanged.",
-      "endsAtLabel": "Into the Wild ENDED in Asia/Oceania/Europe · still later today in the Americas until Fri 13 Nov 8:00 PM local · Dynamax Latias+Latios ENDED in Asia/Oceania/Europe, still later today in the Americas · Regidrago + Registeel ENDED worldwide · GO Wild Area later today in Asia/Oceania from 10:00 AM local, tomorrow in Europe/Americas"
+      "text": "Evening refresh 14 Nov ~10:30 PM HKT: Into the Wild ENDED worldwide after 8:00 PM local Friday (5★ Crowned Sword Zacian + Crowned Shield Zamazenta and 3★ Druddigon + Orthworm are gone in every timezone, including the Americas). GO Wild Area 2026: Global is the live raid event — Saturday 10:00 AM–6:00 PM local: 5★ Zekrom + White Kyurem (catch is Kyurem — hundo 2042 / 2553 Snow/Windy; Fusion Energy; may know Glaciate), Dynamax Dialga Max Battle, plus both-day 6★ GMax Duraludon and 3★ Modern Jacket Machamp (Karate Chop; hundo 1746 / 2183 Cloudy). ENDED in Asia/Oceania after 6:00 PM local Saturday; still LIVE in Europe until 6:00 PM local Saturday; live or starting from 10:00 AM local in the Americas (already underway in earlier American timezones). Sunday (15 Nov 10:00 AM–6:00 PM local, tomorrow everywhere): 5★ Reshiram + Black Kyurem, Dynamax Palkia, and the same both-day GMax Duraludon + Modern Jacket Machamp. No 1★ or Mega published for Wild Area (official + Leek Duck). Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still listed (Leek Duck + GO Hub + ScrapedDuck). Shadow Tornadus longer package still upcoming Mon 16 Nov → Tue 1 Dec (weekends). Then Cresselia + Darkrai 5★ + Mega Banette Mon 16–Tue 24 Nov → Deoxys (all 4 formes) 5★ + Mega Metagross Wed 25 Nov–Tue 1 Dec. Event 10 km eggs (Honedge/Klefki/Drampa/Duraludon) follow the same 10:00 AM–6:00 PM local Saturday/Sunday windows — see Eggs tab. Rocket unchanged (Leek Duck Updated Oct 2; Giovanni inactive).",
+      "endsAtLabel": "Into the Wild ENDED worldwide · GO Wild Area Saturday ENDED in Asia/Oceania after 6:00 PM local · still LIVE in Europe until 6:00 PM local Saturday · live or starting from 10:00 AM local in the Americas · Sunday lineups tomorrow 10:00 AM local"
     },
     "legend": {
       "standard": {
@@ -276,6 +276,26 @@
       {
         "name": "GO Hub — Crowned Shield Zamazenta counters",
         "url": "https://db.pokemongohub.net/pokemon/889-Crowned_Shield/counters"
+      },
+      {
+        "name": "Leek Duck — GO Wild Area 2026: Global",
+        "url": "https://leekduck.com/events/pokemon-go-wild-area-2026-global/"
+      },
+      {
+        "name": "Leek Duck — GO Wild Area 2026 Eggs",
+        "url": "https://leekduck.com/pokemon-go-wild-area/eggs/"
+      },
+      {
+        "name": "GO Hub — GO Wild Area 2026: Global",
+        "url": "https://pokemongohub.net/post/event/wild-area-2026-global/"
+      },
+      {
+        "name": "Pokémon.com — Gigantamax Duraludon debut",
+        "url": "https://www.pokemon.com/us/news/gigantamax-duraludon-debuts-in-pokemon-go-wild-area-global-event"
+      },
+      {
+        "name": "Serebii — GO Wild Area 2026 Global",
+        "url": "https://www.serebii.net/pokemongo/events/gowildarea2026global.shtml"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
@@ -1409,7 +1429,7 @@
       "catchForm": "Hero of Many Battles",
       "tier": "5",
       "tierLabel": "5★",
-      "category": "current",
+      "category": "ended",
       "isShadow": false,
       "isMega": false,
       "window": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (Into the Wild)",
@@ -1429,7 +1449,7 @@
         "pokeapiId": 10188,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10188.png"
       },
-      "notes": "ENDED in Asia/Oceania/Europe after 8:00 PM local Fri 13 Nov; still LIVE later today in the Americas until 8:00 PM local (official / Leek Duck). Fairy/Steel. You fight Crowned Sword but catch Hero of Many Battles — hundo 2188 (2735 Cloudy). Raid Hour Mon 9 Nov 6–7 PM ENDED. Wins award Crowned Sword Energy; Special Background possible on 5★ catches. Shiny-eligible. No published 5★ replacement after the local end until GO Wild Area Sat 14 Nov 10:00 AM.",
+      "notes": "ENDED worldwide after 8:00 PM local Fri 13 Nov (official / Leek Duck), including the Americas. Fairy/Steel. You fight Crowned Sword but catch Hero of Many Battles — hundo 2188 (2735 Cloudy). Raid Hour Mon 9 Nov 6–7 PM ENDED. Wins awarded Crowned Sword Energy; Special Background was possible on 5★ catches. Replaced by GO Wild Area Saturday 5★ (Zekrom + White Kyurem) in each timezone at 10:00 AM local Saturday.",
       "types": [
         "Fairy",
         "Steel"
@@ -1466,7 +1486,7 @@
       ],
       "countersSource": "GO Hub Crowned Sword Zacian counters",
       "event": "Into the Wild",
-      "highlight": true
+      "highlight": false
     },
     {
       "id": "zamazenta-crowned-shield-nov9",
@@ -1476,7 +1496,7 @@
       "catchForm": "Hero of Many Battles",
       "tier": "5",
       "tierLabel": "5★",
-      "category": "current",
+      "category": "ended",
       "isShadow": false,
       "isMega": false,
       "window": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (Into the Wild)",
@@ -1496,7 +1516,7 @@
         "pokeapiId": 10189,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10189.png"
       },
-      "notes": "ENDED in Asia/Oceania/Europe after 8:00 PM local Fri 13 Nov; still LIVE later today in the Americas until 8:00 PM local (official / Leek Duck). Fighting/Steel. You fight Crowned Shield but catch Hero of Many Battles — hundo 2188 (2735 Cloudy). Raid Hour Tue 10 Nov 6–7 PM ENDED. Wins award Crowned Shield Energy; Special Background possible on 5★ catches. Shiny-eligible. No published 5★ replacement after the local end until GO Wild Area Sat 14 Nov 10:00 AM.",
+      "notes": "ENDED worldwide after 8:00 PM local Fri 13 Nov (official / Leek Duck), including the Americas. Fighting/Steel. You fight Crowned Shield but catch Hero of Many Battles — hundo 2188 (2735 Cloudy). Raid Hour Tue 10 Nov 6–7 PM ENDED. Wins awarded Crowned Shield Energy; Special Background was possible on 5★ catches. Replaced by GO Wild Area Saturday 5★ (Zekrom + White Kyurem) in each timezone at 10:00 AM local Saturday.",
       "types": [
         "Fighting",
         "Steel"
@@ -1534,7 +1554,7 @@
       ],
       "countersSource": "GO Hub Crowned Shield Zamazenta raid guide",
       "event": "Into the Wild",
-      "highlight": true
+      "highlight": false
     },
     {
       "id": "druddigon-nov9",
@@ -1544,7 +1564,7 @@
       "catchForm": null,
       "tier": "3",
       "tierLabel": "3★",
-      "category": "current",
+      "category": "ended",
       "isShadow": false,
       "isMega": false,
       "window": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (Into the Wild)",
@@ -1563,7 +1583,7 @@
         "pokeapiId": 621,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/621.png"
       },
-      "notes": "ENDED in Asia/Oceania/Europe after 8:00 PM local Fri 13 Nov; still LIVE later today in the Americas until 8:00 PM local (official / Leek Duck). Dragon. Hundo 1561 (1951 Windy). Shiny-eligible. No 1★ or Mega published for this event. No published 3★ replacement after the local end until GO Wild Area Sat 14 Nov 10:00 AM (Modern Jacket Machamp).",
+      "notes": "ENDED worldwide after 8:00 PM local Fri 13 Nov (official / Leek Duck), including the Americas. Dragon. Hundo 1561 (1951 Windy). Shiny-eligible. Replaced by GO Wild Area 3★ Modern Jacket Machamp in each timezone at 10:00 AM local Saturday.",
       "types": [
         "Dragon"
       ],
@@ -1599,7 +1619,8 @@
         }
       ],
       "countersSource": "type",
-      "event": "Into the Wild"
+      "event": "Into the Wild",
+      "highlight": false
     },
     {
       "id": "orthworm-nov9",
@@ -1609,7 +1630,7 @@
       "catchForm": null,
       "tier": "3",
       "tierLabel": "3★",
-      "category": "current",
+      "category": "ended",
       "isShadow": false,
       "isMega": false,
       "window": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (Into the Wild)",
@@ -1628,7 +1649,7 @@
         "pokeapiId": 968,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/968.png"
       },
-      "notes": "ENDED in Asia/Oceania/Europe after 8:00 PM local Fri 13 Nov; still LIVE later today in the Americas until 8:00 PM local (official / Leek Duck). Steel. Hundo 1313 (1642 Snow). Shiny-eligible. No 1★ or Mega published for this event. No published 3★ replacement after the local end until GO Wild Area Sat 14 Nov 10:00 AM (Modern Jacket Machamp).",
+      "notes": "ENDED worldwide after 8:00 PM local Fri 13 Nov (official / Leek Duck), including the Americas. Steel. Hundo 1313 (1642 Cloudy/Snow). Shiny-eligible. Replaced by GO Wild Area 3★ Modern Jacket Machamp in each timezone at 10:00 AM local Saturday.",
       "types": [
         "Steel"
       ],
@@ -1664,7 +1685,8 @@
         }
       ],
       "countersSource": "type",
-      "event": "Into the Wild"
+      "event": "Into the Wild",
+      "highlight": false
     },
     {
       "id": "zekrom-wild-area-nov14",
@@ -1674,10 +1696,10 @@
       "catchForm": null,
       "tier": "5",
       "tierLabel": "5★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Sat 14 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · later today in Asia/Oceania; tomorrow in Europe/Americas)",
+      "window": "Sat 14 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · ENDED in Asia/Oceania; still LIVE in Europe; live or starting in the Americas)",
       "windowStart": "2026-11-14T10:00:00",
       "windowEnd": "2026-11-14T18:00:00",
       "shiny": true,
@@ -1694,7 +1716,7 @@
         "pokeapiId": 644,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png"
       },
-      "notes": "GO Wild Area Global Saturday only (Leek Duck). Dragon/Electric. Hundo 2307 (2884 Windy/Rainy). Later today in Asia/Oceania from 10:00 AM local; tomorrow in Europe/Americas.",
+      "notes": "GO Wild Area Global Saturday only (Leek Duck + GO Hub current bosses). Dragon/Electric. Hundo 2307 (2884 Windy/Rainy). ENDED in Asia/Oceania after 6:00 PM local Saturday; still LIVE in Europe until 6:00 PM local Saturday; live or starting from 10:00 AM local in the Americas (already underway in earlier American timezones).",
       "types": [
         "Dragon",
         "Electric"
@@ -1732,7 +1754,8 @@
         }
       ],
       "countersSource": "GO Hub / MattSimplified Zekrom raid guide",
-      "highlight": true
+      "highlight": true,
+      "event": "GO Wild Area 2026: Global"
     },
     {
       "id": "white-kyurem-wild-area-nov14",
@@ -1742,10 +1765,10 @@
       "catchForm": "Kyurem",
       "tier": "5",
       "tierLabel": "5★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Sat 14 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · later today in Asia/Oceania; tomorrow in Europe/Americas)",
+      "window": "Sat 14 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · ENDED in Asia/Oceania; still LIVE in Europe; live or starting in the Americas)",
       "windowStart": "2026-11-14T10:00:00",
       "windowEnd": "2026-11-14T18:00:00",
       "shiny": true,
@@ -1762,7 +1785,7 @@
         "pokeapiId": 10023,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10023.png"
       },
-      "notes": "GO Wild Area Global Saturday (Leek Duck). Fight White Kyurem; catch is Kyurem (Fusion Energy awarded; may know Glaciate). Hundo Kyurem 2042 (2553 Snow/Windy). Leek Duck also lists fused-form card CP 2631 / 3289. Later today in Asia/Oceania from 10:00 AM local; tomorrow in Europe/Americas.",
+      "notes": "GO Wild Area Global Saturday (Leek Duck + GO Hub). Fight White Kyurem; catch is Kyurem (Fusion Energy awarded; may know Glaciate). Hundo Kyurem 2042 (2553 Snow/Windy). Leek Duck also lists fused-form card CP 2631 / 3289. ENDED in Asia/Oceania after 6:00 PM local Saturday; still LIVE in Europe until 6:00 PM local Saturday; live or starting from 10:00 AM local in the Americas (already underway in earlier American timezones).",
       "types": [
         "Dragon",
         "Ice"
@@ -1770,8 +1793,9 @@
       "weakTo": [
         "Fighting",
         "Rock",
-        "Dragon",
         "Steel",
+        "Fire",
+        "Dragon",
         "Fairy"
       ],
       "counters": [
@@ -1801,7 +1825,8 @@
         }
       ],
       "countersSource": "GO Hub Kyurem / White Kyurem raid counters",
-      "highlight": true
+      "highlight": true,
+      "event": "GO Wild Area 2026: Global"
     },
     {
       "id": "dynamax-dialga-wild-area-nov14",
@@ -1811,10 +1836,10 @@
       "catchForm": "Dynamax",
       "tier": "max",
       "tierLabel": "Max ★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Sat 14 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · Max Battle · later today in Asia/Oceania; tomorrow in Europe/Americas)",
+      "window": "Sat 14 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · Max Battle · ENDED in Asia/Oceania; still LIVE in Europe; live or starting in the Americas)",
       "windowStart": "2026-11-14T10:00:00",
       "windowEnd": "2026-11-14T18:00:00",
       "shiny": true,
@@ -1831,14 +1856,15 @@
         "pokeapiId": 483,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png"
       },
-      "notes": "Dynamax Max Battle at Power Spots (not a gym raid). GO Wild Area Global Saturday only — debut; can be Shiny. Max Battle catches aren't weather-boosted (Leek Duck). Fighting/Ground recommended. Later today in Asia/Oceania from 10:00 AM local; tomorrow in Europe/Americas.",
+      "notes": "Dynamax Max Battle at Power Spots (not a gym raid). GO Wild Area Global Saturday only — debut; can be Shiny. Max Battle catches aren't weather-boosted (Leek Duck). Steel/Dragon — weak to Fighting, Ground, and Fire. ENDED in Asia/Oceania after 6:00 PM local Saturday; still LIVE in Europe until 6:00 PM local Saturday; live or starting from 10:00 AM local in the Americas (already underway in earlier American timezones).",
       "types": [
         "Steel",
         "Dragon"
       ],
       "weakTo": [
         "Fighting",
-        "Ground"
+        "Ground",
+        "Fire"
       ],
       "counters": [
         {
@@ -1867,7 +1893,8 @@
         }
       ],
       "countersSource": "Leek Duck Wild Area raids + type chart (Steel/Dragon)",
-      "highlight": true
+      "highlight": true,
+      "event": "GO Wild Area 2026: Global"
     },
     {
       "id": "gmax-duraludon-wild-area-nov14",
@@ -1877,10 +1904,10 @@
       "catchForm": "Gigantamax",
       "tier": "max6",
       "tierLabel": "GMax ★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Sat 14–Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · 6★ Max Battle · later today in Asia/Oceania; tomorrow in Europe/Americas)",
+      "window": "Sat 14–Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · 6★ Max Battle · Saturday ENDED in Asia/Oceania; still LIVE in Europe; live or starting in the Americas; Sunday tomorrow 10:00 AM local)",
       "windowStart": "2026-11-14T10:00:00",
       "windowEnd": "2026-11-15T18:00:00",
       "shiny": true,
@@ -1898,14 +1925,15 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/884.png",
-      "notes": "Gigantamax Max Battle at Power Spots (6★, not a gym raid). GO Wild Area Global both days — debut (Leek Duck + Pokémon.com). Later today in Asia/Oceania from 10:00 AM local; tomorrow in Europe/Americas. Can be Shiny. Max Battle catches aren't weather-boosted (Leek Duck); card CP 1674–1753 / 2092–2191. Steel/Dragon — only weak to Fighting and Ground. Official: prepare Ground- and Fighting-types.",
+      "notes": "Gigantamax Max Battle at Power Spots (6★, not a gym raid). GO Wild Area Global both days — debut (Leek Duck + Pokémon.com). Can be Shiny. Max Battle catches aren't weather-boosted (Leek Duck); card CP 1674–1753 / 2092–2191. Steel/Dragon — weak to Fighting, Ground, and Fire. Official: prepare Ground- and Fighting-types. ENDED in Asia/Oceania after 6:00 PM local Saturday; still LIVE in Europe until 6:00 PM local Saturday; live or starting from 10:00 AM local in the Americas (already underway in earlier American timezones). Both-day bosses return Sunday 10:00 AM–6:00 PM local.",
       "types": [
         "Steel",
         "Dragon"
       ],
       "weakTo": [
         "Fighting",
-        "Ground"
+        "Ground",
+        "Fire"
       ],
       "counters": [
         {
@@ -1934,7 +1962,8 @@
         }
       ],
       "countersSource": "Pokebattler GMax Duraludon Max Battle + official Fighting/Ground",
-      "highlight": true
+      "highlight": true,
+      "event": "GO Wild Area 2026: Global"
     },
     {
       "id": "reshiram-wild-area-nov15",
@@ -1947,7 +1976,7 @@
       "category": "upcoming",
       "isShadow": false,
       "isMega": false,
-      "window": "Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global)",
+      "window": "Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · tomorrow)",
       "windowStart": "2026-11-15T10:00:00",
       "windowEnd": "2026-11-15T18:00:00",
       "shiny": true,
@@ -1964,7 +1993,7 @@
         "pokeapiId": 643,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/643.png"
       },
-      "notes": "GO Wild Area Global Sunday only (Leek Duck). Dragon/Fire. Hundo 2307 (2884 Sunny/Windy).",
+      "notes": "GO Wild Area Global Sunday only (Leek Duck). Dragon/Fire. Hundo 2307 (2884 Sunny/Windy). Starts tomorrow 10:00 AM local everywhere (Sat 14 Nov evening in Asia/Oceania; still Saturday afternoon/morning in Europe and the Americas).",
       "types": [
         "Dragon",
         "Fire"
@@ -1972,7 +2001,9 @@
       "weakTo": [
         "Dragon",
         "Ground",
-        "Rock"
+        "Rock",
+        "Water",
+        "Fairy"
       ],
       "counters": [
         {
@@ -2000,7 +2031,8 @@
           "moves": "Smack Down / Rock Slide"
         }
       ],
-      "countersSource": "GO Hub / MattSimplified Reshiram raid guide"
+      "countersSource": "GO Hub / MattSimplified Reshiram raid guide",
+      "event": "GO Wild Area 2026: Global"
     },
     {
       "id": "black-kyurem-wild-area-nov15",
@@ -2013,7 +2045,7 @@
       "category": "upcoming",
       "isShadow": false,
       "isMega": false,
-      "window": "Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global)",
+      "window": "Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · tomorrow)",
       "windowStart": "2026-11-15T10:00:00",
       "windowEnd": "2026-11-15T18:00:00",
       "shiny": true,
@@ -2030,7 +2062,7 @@
         "pokeapiId": 10022,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10022.png"
       },
-      "notes": "GO Wild Area Global Sunday (Leek Duck). Fight Black Kyurem; catch is Kyurem (Fusion Energy awarded; may know Glaciate). Hundo Kyurem 2042 (2553 Snow/Windy).",
+      "notes": "GO Wild Area Global Sunday (Leek Duck). Fight Black Kyurem; catch is Kyurem (Fusion Energy awarded; may know Glaciate). Hundo Kyurem 2042 (2553 Snow/Windy). Starts tomorrow 10:00 AM local everywhere.",
       "types": [
         "Dragon",
         "Ice"
@@ -2038,8 +2070,9 @@
       "weakTo": [
         "Fighting",
         "Rock",
-        "Dragon",
         "Steel",
+        "Fire",
+        "Dragon",
         "Fairy"
       ],
       "counters": [
@@ -2068,7 +2101,8 @@
           "moves": "Double Kick / Sacred Sword"
         }
       ],
-      "countersSource": "GO Hub Kyurem / Black Kyurem raid counters"
+      "countersSource": "GO Hub Kyurem / Black Kyurem raid counters",
+      "event": "GO Wild Area 2026: Global"
     },
     {
       "id": "dynamax-palkia-wild-area-nov15",
@@ -2081,7 +2115,7 @@
       "category": "upcoming",
       "isShadow": false,
       "isMega": false,
-      "window": "Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · Max Battle)",
+      "window": "Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · Max Battle · tomorrow)",
       "windowStart": "2026-11-15T10:00:00",
       "windowEnd": "2026-11-15T18:00:00",
       "shiny": true,
@@ -2098,14 +2132,15 @@
         "pokeapiId": 484,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/484.png"
       },
-      "notes": "Dynamax Max Battle at Power Spots (not a gym raid). GO Wild Area Global Sunday only — debut; can be Shiny. Max Battle catches aren't weather-boosted (Leek Duck). Dragon/Fairy recommended.",
+      "notes": "Dynamax Max Battle at Power Spots (not a gym raid). GO Wild Area Global Sunday only — debut; can be Shiny. Max Battle catches aren't weather-boosted (Leek Duck). Water/Dragon — weak to Dragon, Fairy, and Electric. Starts tomorrow 10:00 AM local everywhere.",
       "types": [
         "Water",
         "Dragon"
       ],
       "weakTo": [
         "Dragon",
-        "Fairy"
+        "Fairy",
+        "Electric"
       ],
       "counters": [
         {
@@ -2133,7 +2168,8 @@
           "moves": "Dragon Tail / Freeze Shock"
         }
       ],
-      "countersSource": "Leek Duck Wild Area raids + type chart (Water/Dragon)"
+      "countersSource": "Leek Duck Wild Area raids + type chart (Water/Dragon)",
+      "event": "GO Wild Area 2026: Global"
     },
     {
       "id": "machamp-modern-jacket-wild-area",
@@ -2143,10 +2179,10 @@
       "catchForm": "Machamp wearing a modern jacket",
       "tier": "3",
       "tierLabel": "3★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Sat 14–Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · later today in Asia/Oceania; tomorrow in Europe/Americas)",
+      "window": "Sat 14–Sun 15 Nov 10:00 AM – 6:00 PM local (GO Wild Area Global · Saturday ENDED in Asia/Oceania; still LIVE in Europe; live or starting in the Americas; Sunday tomorrow 10:00 AM local)",
       "windowStart": "2026-11-14T10:00:00",
       "windowEnd": "2026-11-15T18:00:00",
       "shiny": true,
@@ -2162,7 +2198,7 @@
         "pokeapiId": 68,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png"
       },
-      "notes": "GO Wild Area Global both days during event hours (Leek Duck). Costumed debut; knows Karate Chop; shiny-eligible. Hundo 1746 (2183 Cloudy). Later today in Asia/Oceania from 10:00 AM local; tomorrow in Europe/Americas.",
+      "notes": "GO Wild Area Global both days during event hours (Leek Duck + GO Hub). Costumed debut; knows Karate Chop; shiny-eligible. Hundo 1746 (2183 Cloudy). ENDED in Asia/Oceania after 6:00 PM local Saturday; still LIVE in Europe until 6:00 PM local Saturday; live or starting from 10:00 AM local in the Americas (already underway in earlier American timezones). Both-day bosses return Sunday 10:00 AM–6:00 PM local.",
       "types": [
         "Fighting"
       ],
@@ -2198,7 +2234,8 @@
         }
       ],
       "countersSource": "type",
-      "highlight": true
+      "highlight": true,
+      "event": "GO Wild Area 2026: Global"
     },
     {
       "id": "cresselia-nov16",
@@ -2718,10 +2755,10 @@
   "events": [
     {
       "id": "into-the-wild-2026",
-      "when": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (ENDED in Asia/Oceania/Europe; still later today in the Americas)",
-      "title": "Into the Wild 2026 (ENDED in Asia/Oceania/Europe)",
-      "impact": "ENDED in Asia, Oceania, and Europe after 8:00 PM local Fri 13 Nov; still LIVE later today in the Americas until 8:00 PM local. While live: 5★ Crowned Sword Zacian + Crowned Shield Zamazenta — catch is Hero of Many Battles, hundo 2188 / 2735 Cloudy (Crowned Sword/Shield Energy from wins; Special Background possible). 3★ Druddigon + Orthworm. No 1★ or Mega listed. Remote Raid limit 30. After a region’s 8:00 PM local end, no published 5★/3★/Mega replacement until GO Wild Area Global Sat 14 Nov 10:00 AM local. Max Battles (1★ Ralts, 2★ Machop; 5★ Latias+Latios Fri 13 Nov 6–7 PM local ENDED in Asia/Oceania/Europe, still later today in the Americas; Regidrago Thu 6–7 PM and Registeel Wed 6–7 PM ENDED worldwide) are Max dens, not gym raid cards, and end with Into the Wild in each timezone. Official: Latias knows Mist Ball, Latios knows Luster Purge. Raid Hours: Zacian Mon 9 and Zamazenta Tue 10 ENDED worldwide.",
-      "urgent": true
+      "when": "Mon 9 Nov 10:00 AM – Fri 13 Nov 8:00 PM local (ENDED worldwide)",
+      "title": "Into the Wild 2026 (ENDED worldwide)",
+      "impact": "ENDED worldwide after 8:00 PM local Fri 13 Nov, including the Americas (Saturday morning there at this refresh). 5★ Crowned Sword Zacian + Crowned Shield Zamazenta (catch Hero of Many Battles, hundo 2188 / 2735 Cloudy) and 3★ Druddigon + Orthworm are no longer live. Max Battles from the week (1★ Ralts, 2★ Machop; Fri Dynamax Latias+Latios 6–7 PM; Thu Regidrago; Wed Registeel) ENDED with Into the Wild in every timezone. Replaced by GO Wild Area Global in each region at 10:00 AM local Saturday.",
+      "urgent": false
     },
     {
       "id": "raid-hour-zacian-nov9",
@@ -2767,9 +2804,9 @@
     },
     {
       "id": "go-wild-area-global-2026",
-      "when": "Sat 14 & Sun 15 Nov 10:00 AM – 6:00 PM local (later today in Asia/Oceania from 10:00 AM; tomorrow in Europe/Americas)",
-      "title": "GO Wild Area 2026: Global (later today in Asia/Oceania)",
-      "impact": "Starts Sat 14 Nov 10:00 AM local — later today in Asia/Oceania (after the Friday 8:00 PM Into the Wild end; no published filler raids in the gap); tomorrow in Europe/Americas (still Friday night / Friday evening there). Sat 5★: Zekrom + White Kyurem. Sun 5★: Reshiram + Black Kyurem. Both days 3★: Machamp wearing a modern jacket. Kyurem raids award Fusion Energy; Kyurem may know Glaciate. Max Battles at Power Spots: Dynamax Dialga (Sat) + Dynamax Palkia (Sun); GMax Duraludon both days (6★ Max — dens, not gym raid cards). Ticket holders have an increased chance of 10 km Eggs (event pool: Honedge/Klefki/Drampa/Duraludon) from 10:00 AM local. Sources: Leek Duck Wild Area raids + official / Pokémon.com.",
+      "when": "Sat 14 & Sun 15 Nov 10:00 AM – 6:00 PM local (Saturday ENDED in Asia/Oceania; still LIVE in Europe; live or starting in the Americas; Sunday tomorrow 10:00 AM local)",
+      "title": "GO Wild Area 2026: Global (LIVE in Europe / the Americas)",
+      "impact": "LIVE this weekend 10:00 AM–6:00 PM local each day. Saturday 5★: Zekrom + White Kyurem (catch Kyurem; Fusion Energy; may know Glaciate). Sunday 5★: Reshiram + Black Kyurem. Both days 3★: Machamp wearing a modern jacket (Karate Chop). Max Battles at Power Spots: Dynamax Dialga (Sat) + Dynamax Palkia (Sun); GMax Duraludon both days (6★ Max — dens, not gym raid cards). No 1★ or Mega published. ENDED in Asia/Oceania after 6:00 PM local Saturday; still LIVE in Europe until 6:00 PM local Saturday; live or starting from 10:00 AM local in the Americas (already underway in earlier American timezones). Both-day bosses return Sunday 10:00 AM–6:00 PM local. Ticket holders have an increased chance of 10 km Eggs (event pool: Honedge/Klefki/Drampa/Duraludon) from PokéStops and Gyms during event hours. Sources: Leek Duck current bosses + Wild Area raids/eggs, GO Hub current raids, Pokémon.com, Serebii.",
       "urgent": true
     },
     {
