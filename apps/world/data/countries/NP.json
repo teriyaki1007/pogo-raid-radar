@@ -1,7 +1,7 @@
 {
   "iso2": "NP",
   "name": "Nepal",
-  "updatedAt": "2026-11-15T05:09:00+08:00",
+  "updatedAt": "2026-11-15T11:07:31+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Why Nepal's Democracy Falters",
+      "source": "The Rising Nepal",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9DMlJndURWMkw5dGhUVEVjQkdKaW9obHZPSzNTMGYzeXlyRFN3Ti1VWm1DUXp3bWU1MEpOSW9RWm5nWWVfRG5kVU9tQXRtRko4?oc=5",
+      "publishedAt": "2026-11-15T10:36:11+08:00"
+    },
+    {
+      "title": "Opinion | Nepal’s psychedelic mushrooms need experts, not hype",
+      "source": "The Kathmandu Post",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWFpESUR5VFlZb0VjNXlFVHhqNmVZd1BvczZvZno1NkpkX2R6NzBjTEMySlRsMk1QaGtrRGJUX19jZEFSWHBrUzdjbm56dkNFSnNtTVdRdjZaYjdKSVlwd2VlMVo4ZV9JQWVxdXdMcUF6YVdMRERaaS1sZGplV2l2blQ5RHFOWVk2bXhvSkJaQUFheVhicnF6ZTlhZGo?oc=5",
+      "publishedAt": "2026-11-15T08:43:46+08:00"
+    },
+    {
+      "title": "Opinion | AI is coming to Nepal either way. The real question is who’s in charge",
+      "source": "The Kathmandu Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQlZsNThQbE5NSG5VUGZXQy1NMTNkcllFQ2dZYXVLejlFSTBuS3N3NDQ1SEJ5X0xHT25WMm5sZ1l3TkNvZkJJbVRMRHJZOElyR3BFSXdSbkJtV0FnRWowc0VabVVpTEgxM0Z3aE5QMHZrU2k3RG9aWG04aVgwdVJKQ2hvRHhjVFBkSFVTVFoxcWt3emFkamQxdlBkOWhkM21CQkRqRE1ybzFjUFZlLXRqU1RpUlQ?oc=5",
+      "publishedAt": "2026-11-15T08:43:46+08:00"
+    },
+    {
+      "title": "Nepal lobbies for mountain agenda at COP31",
+      "source": "The Rising Nepal",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtTzlab1h0QndrNDZBcVhMUXJiZUREZHZrOVNiODBmRUJ1UVZaVEhmSjM5cUJhams0SFF6d3dhTHFrV3hNbFZSWTdvU01VNF8w?oc=5",
+      "publishedAt": "2026-11-15T08:13:29+08:00"
+    },
+    {
+      "title": "Involving Nepal, China, UN in new Ganges treaty drafting stressed",
+      "source": "New Age BD",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa3l4VnY4QWs0bHBCWW1lRC1WY3BBVzJSLWRRYzQ5WkQyeHpXZkVNeDRNNFNQb3NVbmpURVd3bE12RjAtX2Y1Nk9YcFY3eGY3QVp3V0VrVzE0Rm1NRWRMdDExdXpJM3NDZENELUpJcnI0d3VOSFp2Qzh1RFp4TnJ5NWhUQ2pHT2lUS1NCT0NjMHNtTjBIWm5vWExkWTZKWnNsaGhwTnFzZ3EyamtV?oc=5",
+      "publishedAt": "2026-11-15T05:20:00+08:00"
+    },
+    {
       "title": "India-Nepal ties poised for reset as Balendra Shah prepares for maiden visit",
       "source": "Deccan Herald",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYTV6ZGx3NnlpOFV0MEExeC1OQmZCTG83M0pmZ0Q1UlZhNzBvY21QcV9UdlRUd0J1eVE5R3NTZ05iNzVWTVdOTFAxcXRiNDdZV2FkOTlsYVFRM01JY3hIS1lPWmJWa0Zsa1pHbUYtYU1ZS2dYdEVtOVdWUTc1TFJtVWIwWlMxeVg5Y3JhOHlLdzY4UUE4Vnd1WWdaWklZZXZYbTN3SUc1UlpnRk9tbXVMVmd6TlRKanAwLXpn?oc=5",
@@ -37,45 +67,15 @@
     },
     {
       "title": "APTOPIX Climate COP31 Nepal Flooding",
-      "source": "The Batesville Daily Guard",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYTBZWi1PVGZhM21vSElJa2lzMVg3ZUw0NkJyakJlNFUyVXFEUkkyV1VITVdTTEFMMmxpU1YxbXZVYndTUURDSnFaV3o4ckRhZEFKclFhWUVrUFNXbUVUa2tUUkROckI4X0VFLV9FU2dJbm9jXzBIRW5UaHpRaEFvVDR3XzU0MFNqNWZtUjhYQ01jRzVCTWZFVlA1NVVVX2dKUHdqNXlRTjBHdDlzTmh0QkZlSk42TnNFVDY4NjJXVlE?oc=5",
-      "publishedAt": "2026-11-15T02:59:22+08:00"
-    },
-    {
-      "title": "The Everest explorer, the death metal drummer, the Buddhist, and the prime minister: The journey back to Sir Ed's first Nepal hospital",
-      "source": "Stuff.co.nz",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdkZ5dktvWVRhN3FOWGp6bEkyRnBlcHdtbEpsYmkxRUVMcWg3T091bWdzT1VPdXdPQV9rd2FoY2J6dHlOX05PZGptaDZBdUFERW5pUHZ3QXJlbngtNV9XRXgwbjcyay1oalVvX05pNjJHbkFFRzVwdTRSQzVHdm1CVGJUNUFSU25TLW1qS1RMOUFHdmxxdGlrUXdnQWtFZmNkaGhYV2h1Y3dGeEg4OGRoSW9Jd2NiUmxxYWkyUTduS3FkbDNpRzBsUGJXNWZZRnN3X1RVRDhJTVo?oc=5",
-      "publishedAt": "2026-11-15T02:04:00+08:00"
-    },
-    {
-      "title": "Involving Nepal, China, UN in new Ganges treaty drafting stressed",
-      "source": "New Age BD",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa3l4VnY4QWs0bHBCWW1lRC1WY3BBVzJSLWRRYzQ5WkQyeHpXZkVNeDRNNFNQb3NVbmpURVd3bE12RjAtX2Y1Nk9YcFY3eGY3QVp3V0VrVzE0Rm1NRWRMdDExdXpJM3NDZENELUpJcnI0d3VOSFp2Qzh1RFp4TnJ5NWhUQ2pHT2lUS1NCT0NjMHNtTjBIWm5vWExkWTZKWnNsaGhwTnFzZ3EyamtV?oc=5",
-      "publishedAt": "2026-11-15T01:14:01+08:00"
-    },
-    {
-      "title": "Nepal Proposes UAE Investment in Budhi Gandaki Hydropower Project",
-      "source": "Ratopati",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQei1mTE5XTHI2VkZOVWV4bEx3REZoTlQtT3dhUmVkWHBFZnFNOTFHbU5SS2JQMDBlRU5LMGpkRkdzTHNMUWVGZXEtOUU4S1FjMkRJMG5qNC1SUnZlVnoyRDFncktEOF9QejZBRDZoYUxpOGZiN0dGMXFhcUhpY2ZBVzNDRWNzcTJRNlF4cUN1LUJ6UmZwZDA3WFo5eWdRVFBkaXp2TE41a3FCVVYtcHAxYXlRRUljdjQ?oc=5",
-      "publishedAt": "2026-11-15T00:57:32+08:00"
-    },
-    {
-      "title": "Indian Railways approves weekly train service connecting Nepal’s Janakpur Dham with Ayodhya",
-      "source": "The Indian EYE",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaGNVaXplMlVIZTFzdGQ1eTM3eTkwZmIyM1o4bDFSODU2R1l6UGdfa3NmNUN1bThzcmU5Q3ZVOWxUZk1ZbVBOTzJ0SWVWaFJseEdDNWJVN28zblJFek50RDdWUlIxSEFBdWVxT0dYd0xqYXR1YjNQWW5lMExHdFRHZU8zb2w1Wnd4V0x2WGZpQ1g4aE9LaVFNcGcyQlpTaE9Vc001VjBKNE1mbDhSYmxkdFE2by1Oa3l6VTZ4N2NwUTl3ODBIbnc?oc=5",
-      "publishedAt": "2026-11-15T00:26:57+08:00"
-    },
-    {
-      "title": "India to launch weekly train between Nepal and Ayodhya — The Hindu",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWkpVaWRpejRBbDJoR0RjUXo4MVJBT2xzX004NWNELUxOYXFnOEV0VXpZVmZnNDQ3UEh6R0tGUFJ1TlU0aW5CdDY1M1Vpb1BWbUJvNkJ4bE0tQjIxU1lyT2t3VFN0cHlKcTRNa3VhVUtZVG5XZnhTMnJESnJ3bVZrM1Roekd1RlVfRXpmWGVMQnlsdzB4VnZXQ1hpZ095NVZBa2wwanFWM1JaMk0?oc=5",
-      "publishedAt": "2026-11-15T00:06:36+08:00"
+      "source": "Goshen News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMzhPMWRxQXk3UHpOSHQ3bGF6WG1fQkxGalJULVlBVkR1QkY1aktPR1FnSjJINGF1bEFhVE0zMHlUZ2cwZlE1RF93SGRDcnMxdlBoazdZczF4OGNwQXEtMUh5R2N3UkJXMmRGLWwxNktBLUNqRFBoZ2Q4V2Y0NkZuUlFsVG5MTDM2bGpOX2dpMll1QUItRENHNHhBTDlkZ3Z0UWhUcWtiY3hjSFYxanlTdlcxZC1OUW83NzJqLVBPUkVobGI0ZktuUXJR?oc=5",
+      "publishedAt": "2026-11-15T03:53:12+08:00"
     },
     {
       "title": "Climate COP31 Nepal Flooding",
-      "source": "The Batesville Daily Guard",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZmN4Qk1Hd3RseklfVVNWZmthSkNwNFlkS1hDZ0R6QnQ0clAzQWFud0xubjBTUVVBZkplV0NWajdpMnVGOFlhSzJHaGl2WWpYazZlWUFPNnNIWUhad2cxM3B6UU0zZzIzWk45c1BZWll0bVY2QnVad0VwVDY1ZEtvb1NfbmxoRUk2TVU3bnlqaHEzZlp6YXhzTlZCb2Etb1BxaVFLS1VmR3FxVW9WdXVpbU9iNHBoUQ?oc=5",
-      "publishedAt": "2026-11-14T23:36:21+08:00"
+      "source": "Daily News-Record",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVjFzanltYVd6QjF4Z2pfcmJLbU1Ga2xuRzBPcXdwU1dsOWE2djJOcEJHemt4ZDRCd09remU4bWdrcFVUWlFXSGFfblpKWFVTZ2R6cHdVZERwdDYxejFDcW1LclRMc1l0Y09TOVllR1NBSHB5c3R5QjkybnpGNGZOXzJESmtfV1VFWnExejlSZm5EMXFxRGVfTU1fMi1mOXVsbWVUbmg0cTNpN1Q5MWdBc3dhdmFnX0xsX3dZSktfNjhYRFRGZTBfZHZnbDZ6Zw?oc=5",
+      "publishedAt": "2026-11-14T23:32:45+08:00"
     }
   ]
 }
