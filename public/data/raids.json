@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-11-16",
-    "asOfLabel": "16 Nov 2026 ~10:30 PM HKT (Cresselia + Darkrai 5★, Mega Banette, and newly published standard 1★/3★ LIVE worldwide except Alaska/Hawaii and farther west, still before 6:00 AM local. GO Wild Area Sunday ENDED worldwide. Max Monday canceled.)",
+    "asOf": "2026-11-17",
+    "asOfLabel": "17 Nov 2026 ~6:30 AM HKT (Cresselia + Darkrai 5★, Mega Banette, and standard 1★/3★ now LIVE worldwide. Dynamax Trails now LIVE worldwide. Eggs and Rocket unchanged.)",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Evening refresh 16 Nov ~10:30 PM HKT: Cresselia + Darkrai 5★ (hundo 1633 / 2041 Windy and 2136 / 2671 Fog; Raid Hour Wed 18 Nov 6–7 PM) and Mega Banette (catch Banette, hundo 1313 / 1642 Fog) are LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local). Standard 1★/3★ for this window are now published: 1★ Alolan Meowth (455 / 569 Fog), Misdreavus (1100 / 1376 Fog), Galarian Yamask (561 / 701 Sunny/Fog), Sandygast (705 / 881 Fog/Sunny); 3★ Alolan Marowak (1048 / 1311 Sunny/Fog), Liepard (1055 / 1318 Fog), Golurk (1630 / 2038 Sunny/Fog) — all shiny-eligible (Leek Duck / ScrapedDuck / GO Hub). GO Wild Area Sunday (5★ Reshiram + Black Kyurem, Dynamax Palkia, both-day 6★ GMax Duraludon + 3★ Modern Jacket Machamp) ENDED worldwide after 6:00 PM local Sunday. Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current. Shadow Tornadus (Incarnate) 5★ package window is LIVE — weekends only, next Sat 21–Sun 22 Nov, through Tue 1 Dec 10:00 PM local. Dynamax Trails is LIVE in Asia/Oceania and Europe since 10:00 AM local (Mon 16–Mon 23 Nov 8:00 PM local); starts 10:00 AM local still today in the Americas (official: all previously released Dynamax except Legendary/Mythical may appear; Eternamax Eternatus Sat 21 Nov 11:00 AM–2:00 PM local — not catchable from those battles, candy/XL only). Today’s Max Monday is canceled (Dynamax Trails instead; no Max Monday-specific bonuses such as guaranteed Rare Candy XL). Event 10 km eggs ENDED worldwide after 6:00 PM local Sunday — eggs obtained during the window can still hatch the event pool. Rocket unchanged (Leek Duck Updated Oct 2; Giovanni inactive).",
-      "endsAtLabel": "Cresselia + Darkrai + Mega Banette + standard 1★/3★ LIVE worldwide except Alaska/Hawaii and farther west · GO Wild Area Sunday ENDED worldwide · Max Monday canceled · Dynamax Trails LIVE in Asia/Europe, starts 10:00 AM local still today in the Americas"
+      "text": "Morning refresh 17 Nov ~6:30 AM HKT: Cresselia + Darkrai 5★ (hundo 1633 / 2041 Windy and 2136 / 2671 Fog; Raid Hour Wed 18 Nov 6–7 PM) and Mega Banette (catch Banette, hundo 1313 / 1642 Fog) are now LIVE worldwide (Alaska, Hawaii, and farther west have passed Mon 16 Nov 6:00 AM local). Standard 1★/3★ remain: 1★ Alolan Meowth (455 / 569 Fog), Misdreavus (1100 / 1376 Fog), Galarian Yamask (561 / 701 Sunny/Fog), Sandygast (705 / 881 Fog/Sunny); 3★ Alolan Marowak (1048 / 1311 Sunny/Fog), Liepard (1055 / 1318 Fog), Golurk (1630 / 2038 Sunny/Fog) — all shiny-eligible (Leek Duck / ScrapedDuck / GO Hub). Windows still listed through Tue 24 Nov 10:00 PM local on Leek Duck event pages; official Twilight Wishes 1★/3★/Mega start Tue 24 Nov 10:00 AM local and may replace the current standard and Mega pool then. Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current. Shadow Tornadus (Incarnate) 5★ package window is LIVE — weekends only, next Sat 21–Sun 22 Nov, through Tue 1 Dec 10:00 PM local. Dynamax Trails is now LIVE worldwide (Mon 16–Mon 23 Nov 8:00 PM local; official: all previously released Dynamax except Legendary/Mythical may appear; Eternamax Eternatus Sat 21 Nov 11:00 AM–2:00 PM local — not catchable from those battles, candy/XL only). Next Max Monday is Mon 23 Nov 6:00 AM–9:00 PM local featuring Dynamax Espurr (the 16 Nov Max Monday was canceled). Eggs unchanged (Leek Duck Updated Sep 14; Wild Area 10 km event eggs ended — leftover event eggs can still hatch that pool). Rocket unchanged (Leek Duck Updated Oct 2; Giovanni inactive).",
+      "endsAtLabel": "Cresselia + Darkrai + Mega Banette + standard 1★/3★ now LIVE worldwide through Tue 24 Nov 10:00 PM local · Dynamax Trails LIVE worldwide through Mon 23 Nov 8:00 PM local · next Max Monday Dynamax Espurr Mon 23 Nov"
     },
     "legend": {
       "standard": {
@@ -2275,7 +2275,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide except Alaska, Hawaii, and farther west — still before 6:00 AM local)",
+      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
       "windowStart": "2026-11-16T06:00:00",
       "windowEnd": "2026-11-24T22:00:00",
       "shiny": true,
@@ -2292,7 +2292,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10107.png"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10107.png",
-      "notes": "LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local) as of 16 Nov ~10:30 PM HKT. Newly published standard 1★ for this window (Leek Duck current bosses + ScrapedDuck + GO Hub; not listed at the 16 Nov morning refresh). Pure Dark — easy solo. Shiny-eligible. Hundo 455 (569 Fog); catch range 416–455 / 520–569 Fog.",
+      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT. Newly published standard 1★ for this window (Leek Duck current bosses + ScrapedDuck + GO Hub; not listed at the 16 Nov morning refresh). Pure Dark — easy solo. Shiny-eligible. Hundo 455 (569 Fog); catch range 416–455 / 520–569 Fog.",
       "types": [
         "Dark"
       ],
@@ -2341,7 +2341,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide except Alaska, Hawaii, and farther west — still before 6:00 AM local)",
+      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
       "windowStart": "2026-11-16T06:00:00",
       "windowEnd": "2026-11-24T22:00:00",
       "shiny": true,
@@ -2358,7 +2358,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/200.png"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
-      "notes": "LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local) as of 16 Nov ~10:30 PM HKT. Newly published standard 1★ for this window (Leek Duck current bosses + ScrapedDuck + GO Hub). Pure Ghost — easy solo. Shiny-eligible. Hundo 1100 (1376 Fog); catch range 1039–1100 / 1298–1376 Fog.",
+      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT. Newly published standard 1★ for this window (Leek Duck current bosses + ScrapedDuck + GO Hub). Pure Ghost — easy solo. Shiny-eligible. Hundo 1100 (1376 Fog); catch range 1039–1100 / 1298–1376 Fog.",
       "types": [
         "Ghost"
       ],
@@ -2406,7 +2406,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide except Alaska, Hawaii, and farther west — still before 6:00 AM local)",
+      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
       "windowStart": "2026-11-16T06:00:00",
       "windowEnd": "2026-11-24T22:00:00",
       "shiny": true,
@@ -2424,7 +2424,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10179.png"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10179.png",
-      "notes": "LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local) as of 16 Nov ~10:30 PM HKT. Newly published standard 1★ for this window (Leek Duck + ScrapedDuck list Galarian Yamask, Ground/Ghost; GO Hub label is “Yamask” but CPs and typing match Galarian). Easy solo. Shiny-eligible. Hundo 561 (701 Sunny/Fog); catch range 516–561 / 646–701 Sunny/Fog.",
+      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT. Newly published standard 1★ for this window (Leek Duck + ScrapedDuck list Galarian Yamask, Ground/Ghost; GO Hub label is “Yamask” but CPs and typing match Galarian). Easy solo. Shiny-eligible. Hundo 561 (701 Sunny/Fog); catch range 516–561 / 646–701 Sunny/Fog.",
       "types": [
         "Ground",
         "Ghost"
@@ -2476,7 +2476,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide except Alaska, Hawaii, and farther west — still before 6:00 AM local)",
+      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
       "windowStart": "2026-11-16T06:00:00",
       "windowEnd": "2026-11-24T22:00:00",
       "shiny": true,
@@ -2494,7 +2494,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/769.png",
-      "notes": "LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local) as of 16 Nov ~10:30 PM HKT. Newly published standard 1★ for this window (Leek Duck current bosses + ScrapedDuck + GO Hub). Ghost/Ground — easy solo. Shiny-eligible. Hundo 705 (881 Fog/Sunny); catch range 655–705 / 819–881 Fog/Sunny.",
+      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT. Newly published standard 1★ for this window (Leek Duck current bosses + ScrapedDuck + GO Hub). Ghost/Ground — easy solo. Shiny-eligible. Hundo 705 (881 Fog/Sunny); catch range 655–705 / 819–881 Fog/Sunny.",
       "types": [
         "Ghost",
         "Ground"
@@ -2546,7 +2546,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide except Alaska, Hawaii, and farther west — still before 6:00 AM local)",
+      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
       "windowStart": "2026-11-16T06:00:00",
       "windowEnd": "2026-11-24T22:00:00",
       "shiny": true,
@@ -2564,7 +2564,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10115.png"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10115.png",
-      "notes": "LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local) as of 16 Nov ~10:30 PM HKT. Newly published standard 3★ for this window (Leek Duck current bosses + ScrapedDuck + GO Hub). Fire/Ghost — easy solo for high-level trainers. Shiny-eligible. Hundo 1048 (1311 Sunny/Fog); catch range 988–1048 / 1235–1311 Sunny/Fog.",
+      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT. Newly published standard 3★ for this window (Leek Duck current bosses + ScrapedDuck + GO Hub). Fire/Ghost — easy solo for high-level trainers. Shiny-eligible. Hundo 1048 (1311 Sunny/Fog); catch range 988–1048 / 1235–1311 Sunny/Fog.",
       "types": [
         "Fire",
         "Ghost"
@@ -2616,7 +2616,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide except Alaska, Hawaii, and farther west — still before 6:00 AM local)",
+      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
       "windowStart": "2026-11-16T06:00:00",
       "windowEnd": "2026-11-24T22:00:00",
       "shiny": true,
@@ -2633,7 +2633,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/510.png"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/510.png",
-      "notes": "LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local) as of 16 Nov ~10:30 PM HKT. Newly published standard 3★ for this window (Leek Duck current bosses + ScrapedDuck + GO Hub). Pure Dark — easy solo for high-level trainers. Shiny-eligible. Hundo 1055 (1318 Fog); catch range 993–1055 / 1241–1318 Fog.",
+      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT. Newly published standard 3★ for this window (Leek Duck current bosses + ScrapedDuck + GO Hub). Pure Dark — easy solo for high-level trainers. Shiny-eligible. Hundo 1055 (1318 Fog); catch range 993–1055 / 1241–1318 Fog.",
       "types": [
         "Dark"
       ],
@@ -2682,7 +2682,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide except Alaska, Hawaii, and farther west — still before 6:00 AM local)",
+      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
       "windowStart": "2026-11-16T06:00:00",
       "windowEnd": "2026-11-24T22:00:00",
       "shiny": true,
@@ -2700,7 +2700,7 @@
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/623.png"
       },
       "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/623.png",
-      "notes": "LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local) as of 16 Nov ~10:30 PM HKT. Newly published standard 3★ for this window (Leek Duck current bosses + ScrapedDuck + GO Hub). Ground/Ghost — easy solo for high-level trainers. Shiny-eligible. Hundo 1630 (2038 Sunny/Fog); catch range 1554–1630 / 1943–2038 Sunny/Fog.",
+      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT. Newly published standard 3★ for this window (Leek Duck current bosses + ScrapedDuck + GO Hub). Ground/Ghost — easy solo for high-level trainers. Shiny-eligible. Hundo 1630 (2038 Sunny/Fog); catch range 1554–1630 / 1943–2038 Sunny/Fog.",
       "types": [
         "Ground",
         "Ghost"
@@ -2752,7 +2752,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide except Alaska, Hawaii, and farther west — still before 6:00 AM local)",
+      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
       "windowStart": "2026-11-16T06:00:00",
       "windowEnd": "2026-11-24T22:00:00",
       "shiny": true,
@@ -2768,7 +2768,7 @@
         "pokeapiId": 488,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png"
       },
-      "notes": "LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local) as of 16 Nov ~10:30 PM HKT (Leek Duck event + GO Hub current bosses + ScrapedDuck). Pure Psychic. Hundo 1633 (2041 Windy); catch range 1555–1633 / 1944–2041 Windy. Raid Hour Wed 18 Nov 6–7 PM (with Darkrai). Shiny-eligible. Standard 1★/3★ for this window now published (see Alolan Meowth / Misdreavus / Galarian Yamask / Sandygast and Alolan Marowak / Liepard / Golurk).",
+      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT (Leek Duck event + GO Hub current bosses + ScrapedDuck). Pure Psychic. Hundo 1633 (2041 Windy); catch range 1555–1633 / 1944–2041 Windy. Raid Hour Wed 18 Nov 6–7 PM (with Darkrai). Shiny-eligible. Standard 1★/3★ for this window now published (see Alolan Meowth / Misdreavus / Galarian Yamask / Sandygast and Alolan Marowak / Liepard / Golurk).",
       "types": [
         "Psychic"
       ],
@@ -2817,7 +2817,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": false,
-      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide except Alaska, Hawaii, and farther west — still before 6:00 AM local)",
+      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
       "windowStart": "2026-11-16T06:00:00",
       "windowEnd": "2026-11-24T22:00:00",
       "shiny": true,
@@ -2833,7 +2833,7 @@
         "pokeapiId": 491,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
       },
-      "notes": "LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local) as of 16 Nov ~10:30 PM HKT (Leek Duck event + GO Hub current bosses + ScrapedDuck). Pure Dark. Hundo 2136 (2671 Fog); catch range 2048–2136 / 2560–2671 Fog. Raid Hour Wed 18 Nov 6–7 PM (with Cresselia). Shiny-eligible. Top Dark attacker farm target.",
+      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT (Leek Duck event + GO Hub current bosses + ScrapedDuck). Pure Dark. Hundo 2136 (2671 Fog); catch range 2048–2136 / 2560–2671 Fog. Raid Hour Wed 18 Nov 6–7 PM (with Cresselia). Shiny-eligible. Top Dark attacker farm target.",
       "types": [
         "Dark"
       ],
@@ -2882,7 +2882,7 @@
       "category": "current",
       "isShadow": false,
       "isMega": true,
-      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide except Alaska, Hawaii, and farther west — still before 6:00 AM local)",
+      "window": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
       "windowStart": "2026-11-16T06:00:00",
       "windowEnd": "2026-11-24T22:00:00",
       "shiny": true,
@@ -2898,7 +2898,7 @@
         "pokeapiId": 354,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/354.png"
       },
-      "notes": "LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local) as of 16 Nov ~10:30 PM HKT (Leek Duck Mega Banette event + GO Hub current bosses + ScrapedDuck). Catch form: Banette (not Mega). Pure Ghost. Hundo 1313 (1642 Fog); catch range 1244–1313 / 1555–1642 Fog. Shiny-eligible. Easy solo / small group; top Ghost Mega energy farm.",
+      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT (Leek Duck Mega Banette event + GO Hub current bosses + ScrapedDuck). Catch form: Banette (not Mega). Pure Ghost. Hundo 1313 (1642 Fog); catch range 1244–1313 / 1555–1642 Fog. Shiny-eligible. Easy solo / small group; top Ghost Mega energy farm.",
       "types": [
         "Ghost"
       ],
@@ -3318,23 +3318,23 @@
     },
     {
       "id": "cresselia-darkrai-nov16",
-      "when": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide except Alaska, Hawaii, and farther west — still before 6:00 AM local)",
-      "title": "Cresselia + Darkrai 5★ (LIVE worldwide except Alaska/Hawaii and farther west)",
-      "impact": "Both in five-star raids through Tue 24 Nov 10:00 PM local (Leek Duck event page; raid bosses change at 6:00 AM local). LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local) as of 16 Nov ~10:30 PM HKT. Cresselia hundo 1633 / 2041 Windy; Darkrai hundo 2136 / 2671 Fog. Raid Hour Wed 18 Nov 6–7 PM. Shiny-eligible. Standard 1★/3★ for this window are now published (Leek Duck current bosses + ScrapedDuck + GO Hub). Sources: Leek Duck event pages + GO Hub.",
+      "when": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
+      "title": "Cresselia + Darkrai 5★ (LIVE worldwide)",
+      "impact": "Both in five-star raids through Tue 24 Nov 10:00 PM local (Leek Duck event page; raid bosses change at 6:00 AM local). Now LIVE worldwide as of 17 Nov ~6:30 AM HKT (Alaska, Hawaii, and farther west have passed Mon 16 Nov 6:00 AM local). Cresselia hundo 1633 / 2041 Windy; Darkrai hundo 2136 / 2671 Fog. Raid Hour Wed 18 Nov 6–7 PM. Shiny-eligible. Sources: Leek Duck event pages + current bosses + ScrapedDuck + GO Hub.",
       "urgent": true
     },
     {
       "id": "mega-banette-nov16",
-      "when": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide except Alaska, Hawaii, and farther west — still before 6:00 AM local)",
-      "title": "Mega Banette in Mega Raids (LIVE worldwide except Alaska/Hawaii and farther west)",
-      "impact": "LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local) as of 16 Nov ~10:30 PM HKT. Catch form Banette, hundo 1313 / 1642 Fog; shiny-eligible. Source: Leek Duck + GO Hub Mega Banette raid guide.",
+      "when": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
+      "title": "Mega Banette in Mega Raids (LIVE worldwide)",
+      "impact": "Now LIVE worldwide as of 17 Nov ~6:30 AM HKT. Catch form Banette, hundo 1313 / 1642 Fog; shiny-eligible. Leek Duck’s Mega Banette event page still ends Tue 24 Nov 10:00 PM local. Official Twilight Wishes Mega raids (Beedrill, Houndoom, Sableye, Manectric) start Tue 24 Nov 10:00 AM local and may replace Mega Banette then — GO Hub’s current-bosses header also groups this rotation through 10:00 AM Tue 24 Nov. Source: Leek Duck + official Twilight Wishes + GO Hub.",
       "urgent": true
     },
     {
       "id": "standard-1-3-star-nov16",
-      "when": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide except Alaska, Hawaii, and farther west — still before 6:00 AM local)",
-      "title": "Standard 1★ / 3★ rotation now published (LIVE worldwide except Alaska/Hawaii and farther west)",
-      "impact": "1★: Alolan Meowth (hundo 455 / 569 Fog), Misdreavus (1100 / 1376 Fog), Galarian Yamask (561 / 701 Sunny/Fog), Sandygast (705 / 881 Fog/Sunny). 3★: Alolan Marowak (1048 / 1311 Sunny/Fog), Liepard (1055 / 1318 Fog), Golurk (1630 / 2038 Sunny/Fog). All shiny-eligible (Leek Duck / ScrapedDuck). Listed with the current Cresselia/Darkrai/Mega Banette rotation on Leek Duck current bosses, ScrapedDuck, and GO Hub (GO Hub header groups them through Tue 24 Nov; Leek Duck’s 5★ event page ends that window Tue 24 Nov 10:00 PM local, which we keep). LIVE worldwide except Alaska, Hawaii, and farther west (still before 6:00 AM local) as of 16 Nov ~10:30 PM HKT.",
+      "when": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
+      "title": "Standard 1★ / 3★ rotation (LIVE worldwide)",
+      "impact": "1★: Alolan Meowth (hundo 455 / 569 Fog), Misdreavus (1100 / 1376 Fog), Galarian Yamask (561 / 701 Sunny/Fog), Sandygast (705 / 881 Fog/Sunny). 3★: Alolan Marowak (1048 / 1311 Sunny/Fog), Liepard (1055 / 1318 Fog), Golurk (1630 / 2038 Sunny/Fog). All shiny-eligible (Leek Duck / ScrapedDuck / GO Hub). Now LIVE worldwide as of 17 Nov ~6:30 AM HKT. Listed with the current Cresselia/Darkrai/Mega Banette rotation; Leek Duck’s 5★ event page ends that window Tue 24 Nov 10:00 PM local, which we keep for now. Official Twilight Wishes 1★/3★ (sun/moon-crown Pikachu; sun/moon-scarf Espeon and Umbreon) start Tue 24 Nov 10:00 AM local and may replace this standard pool then (GO Hub header also groups current bosses through 10:00 AM Tue 24 Nov).",
       "urgent": true
     },
     {
@@ -3353,9 +3353,9 @@
     },
     {
       "id": "dynamax-trails-nov16",
-      "when": "Mon 16 Nov 10:00 AM – Mon 23 Nov 8:00 PM local (LIVE in Asia/Oceania and Europe since 10:00 AM local; starts 10:00 AM local still today in the Americas)",
-      "title": "Dynamax Trails (LIVE in Asia/Oceania and Europe; starts 10:00 AM local still today in the Americas)",
-      "impact": "Official week of Max Battles: all Dynamax Pokémon that have appeared in Pokémon GO may appear (excludes Legendary and Mythical). LIVE in Asia/Oceania and Europe since 10:00 AM local; starts 10:00 AM local still today in the Americas. More Power Spots than usual; chance of a Special Background on Max Battle catches. Eternamax Eternatus takes over most Power Spots Sat 21 Nov 11:00 AM–2:00 PM local (not catchable from those battles — Eternatus Candy/XL only; the Eternatus encounter is via GO Pass: Dynamax Trails). Today’s Max Monday is canceled (Dynamax Trails instead; no Max Monday-specific bonuses such as guaranteed Rare Candy XL). Sources: Pokémon GO Live (dynamax-trails-eternamax-eternatus-2026) + Leek Duck events + Leek Duck [Canceled] Max Monday page.",
+      "when": "Mon 16 Nov 10:00 AM – Mon 23 Nov 8:00 PM local (LIVE worldwide)",
+      "title": "Dynamax Trails (LIVE worldwide)",
+      "impact": "Official week of Max Battles: all Dynamax Pokémon that have appeared in Pokémon GO may appear (excludes Legendary and Mythical). Now LIVE worldwide as of 17 Nov ~6:30 AM HKT (Americas have passed Mon 16 Nov 10:00 AM local). More Power Spots than usual; chance of a Special Background on Max Battle catches. Eternamax Eternatus takes over most Power Spots Sat 21 Nov 11:00 AM–2:00 PM local (not catchable from those battles — Eternatus Candy/XL only; the Eternatus encounter is via GO Pass: Dynamax Trails). The 16 Nov Max Monday was canceled (Dynamax Trails ran instead). Next Max Monday is Mon 23 Nov 6:00 AM–9:00 PM local featuring Dynamax Espurr. Sources: Pokémon GO Live (dynamax-trails-eternamax-eternatus-2026) + Leek Duck events.",
       "urgent": false
     },
     {
@@ -3370,6 +3370,20 @@
       "when": "Sat 21 Nov 11:00 AM – 2:00 PM local (upcoming)",
       "title": "Eternamax Eternatus Max Battles (upcoming)",
       "impact": "During Dynamax Trails, Eternamax Eternatus takes over the majority of Power Spots for three hours. You cannot catch Eternamax Eternatus from these Max Battles; rewards are Eternatus Candy and Candy XL for the Eternatus obtained via GO Pass: Dynamax Trails (one catch per Trainer this event, or 100 candy if already caught). Source: official Pokémon GO Live Dynamax Trails post + Leek Duck events.",
+      "urgent": false
+    },
+    {
+      "id": "max-monday-espurr-nov23",
+      "when": "Mon 23 Nov 6:00 AM – 9:00 PM local (upcoming)",
+      "title": "Max Monday: Dynamax Espurr (upcoming)",
+      "impact": "Featured Dynamax Espurr in Max Battles Mon 23 Nov 6:00 AM–9:00 PM local (Leek Duck). Power Spots refresh more frequently, and additional Power Spots are active on Mondays. This falls on the last day of Dynamax Trails (Trails ends Mon 23 Nov 8:00 PM local). Source: Leek Duck Max Mondays 23 Nov page.",
+      "urgent": false
+    },
+    {
+      "id": "twilight-wishes-raids-nov24",
+      "when": "Tue 24 Nov 10:00 AM – Mon 30 Nov 8:00 PM local (upcoming)",
+      "title": "Twilight Wishes event raids (upcoming)",
+      "impact": "Official Twilight Wishes raids begin Tue 24 Nov 10:00 AM local: 1★ Pikachu wearing a sun crown or a moon crown; 3★ Espeon wearing a sun scarf and Umbreon wearing a moon scarf; Mega Beedrill, Mega Houndoom, Mega Sableye, and Mega Manectric (all shiny-eligible). These may replace the current standard 1★/3★ and Mega Banette pool at 10:00 AM — earlier than Leek Duck’s Mega Banette / current-rotation 10:00 PM Tue 24 Nov listing. 5★ Cresselia + Darkrai are still listed on Leek Duck through Tue 24 Nov 10:00 PM local; Deoxys (all formes) and Mega Metagross start Wed 25 Nov 6:00 AM local. Sources: official Pokémon GO Live Twilight Wishes post + Leek Duck Twilight Wishes event page.",
       "urgent": false
     },
     {
@@ -3391,6 +3405,13 @@
       "when": "Wed 25 Nov 6:00–7:00 PM local (upcoming)",
       "title": "Raid Hour: Deoxys (all formes) (upcoming)",
       "impact": "Denser Deoxys Normal/Attack/Defense/Speed 5★ spawns 6–7 PM local Wed 25 Nov.",
+      "urgent": false
+    },
+    {
+      "id": "clefable-super-mega-raid-day-nov28",
+      "when": "Sat 28 Nov 2:00 PM – 5:00 PM local (upcoming)",
+      "title": "Clefable Super Mega Raid Day (upcoming)",
+      "impact": "Super Mega Raid Day featuring Clefable, Sat 28 Nov 2:00–5:00 PM local. Source: Leek Duck events.",
       "urgent": false
     }
   ]
