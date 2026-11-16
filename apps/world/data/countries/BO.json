@@ -1,7 +1,7 @@
 {
   "iso2": "BO",
   "name": "Bolivia",
-  "updatedAt": "2026-11-16T11:08:02+08:00",
+  "updatedAt": "2026-11-16T17:10:55+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
-      "title": "Light mag. 3.4 earthquake - Potosi, Bolivia, on Sunday, Nov 15, 2026, at 09:38 pm (La Paz time)",
+      "title": "Moderate mag. 4.3 earthquake - 51 km west of Ixiamas, Departamento de La Paz, Bolivia, on Monday, Nov 16, 2026, at 02:47 am (La Paz time)",
+      "source": "Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWx3RjZUMjFLY2RzdXNLY3hSZG5yeGQ0bjNPUEtwY3NUeHlGaWlKVW1FTnl6alR1cDQtTTZ3MG9QalhObGJsWVlLUXJzZFV1emFGS214OG9xRDlFT25Sb0lHY0dXVXMyeXcwNngyYkZVZk1VcjY3WUdSWG56U19JQ2RhVWd5N0phVUdVRnU4OExmYXBHNWw2XzVFbkVNakdYM1B6S2Y4azZaeDU2YV9oVzhEb2tUdjJVd1E?oc=5",
+      "publishedAt": "2026-11-16T14:53:12+08:00"
+    },
+    {
+      "title": "Matarani Discharges 13,414.582 t of Iron and Metals for Bolivia",
+      "source": "Data Portuaria",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRDNjMkpPa0JZVWo4XzNhcndOSTU1RU1PU1hJcFlNcHhNWXd6VHNxck5OcEc1ZzQ0cjRRb29IOHUtZU9OQjVlT09rTjJXLXFpUWo2TXFxTU5mdWJaZl9DdlZ4LW82OV9CeGhmeEItbFVYemh6S1lsMjRBNEVBVTdSN3dBdVlodzVRQTB6QVpsbF9hX2dkRE1aUUhzc0pIYzdLajRPWnA5X1ItaVQzb2E0?oc=5",
+      "publishedAt": "2026-11-16T13:40:18+08:00"
+    },
+    {
+      "title": "Bolivian governors reject central tax proposal calling for greater fiscal autonomy in regions",
+      "source": "PravdaReport",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNN0t6Q3ZOQkZESDFpdUlVWHBQbDZQUWdBNHdTclh0YTdTeDJOUkFIT3NYa1pOUHduWWlmdHJCaGNDeW1WcUEtMVN2ZnVheDlRbTQwYzBFaVk2WjBLa0pKWlRnU1ZzZF83cGRLaEw2R0FaZkV2WmNlNlFzQW5tbHo4cFN3?oc=5",
+      "publishedAt": "2026-11-16T13:32:00+08:00"
+    },
+    {
+      "title": "UMass Chan-Baystate med student conducts research in Bolivia, creates health policy elective",
+      "source": "UMass Chan Medical School",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQazkteEc1TlozQVlGcDBWWXFvY29QMy1IRzU2QjhHWWp3UkI3bEhVTi1sdHhkV0hZLWJwODVFQ202SkRIZXE5dWk5bkJRT1hMQ0ZVdTZZWTQ2OWxGbERjZ0VIMkhHeEt3bmphTXJCY3hOODBjSHI4NlRVZUJxVnpUVWtkVC1UcFB5bGUxMzVKTkdMRzRfTWE0TWh4WnJ3M1kya19vSFp5djZSTG54aW95MXBMYXBHQWJRc1ZNR3preU40Q3l0dVhMakphN1JRWFFBbW5CTnNR?oc=5",
+      "publishedAt": "2026-11-16T13:17:05+08:00"
+    },
+    {
+      "title": "Bolivia Seized Alcohol",
+      "source": "The Messenger",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMzNFXzVFRFFKR1k1amhweFZCRU41U3U4YjMxRkFpNU9TQU51aHdrckhQai1lZzktVWprWE5UbzFxSTBBTFFWMHFaVW43azRHcEUzMlZNaWs2RDUzOUZPenJ5b3FPSzIwa1g3UWFIRW5sLUE5bmF6RUUwdEg4aEhKSWFncUVEU3lvNFhDWkFTU1BZZw?oc=5",
+      "publishedAt": "2026-11-16T12:59:42+08:00"
+    },
+    {
+      "title": "Light mag. 3.4 earthquake - Departamento de Potosi, Bolivia, on Sunday, Nov 15, 2026, at 09:38 pm (La Paz time)",
       "source": "Volcano Discovery",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnpHMmsxS0JPTmRka1oyWkR2QzdyVmZqdlF6WXlqQ0ZQSGpBSTc4QlFuZnk4YUNLRlFsRXBDTjdzU19jQUl0LXFYUUxZcTc0S3hrcDgtdVgxSTZIa2FPeHJRQTAzeUpPczZMMVh2dXRyRzNFcmtrUW4waUNkTmwzeU5GcHlCNUs4SFlaSDZJS0tYdXp0ZVU3ZWFJQWI4UF90V3hTWldCQWRxZw?oc=5",
-      "publishedAt": "2026-11-16T09:57:15+08:00"
+      "publishedAt": "2026-11-16T12:59:16+08:00"
     },
     {
       "title": "Ecuador vs Bolivia Prediction and Betting Tips | November 17th 2026",
@@ -46,36 +76,6 @@
       "source": "Transfermarkt",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSG9haDBDVS1QeFRjcGw4TDVFZ2dSNjlwM0RETnRkSS1mT2psUFMxYkVpanB3dmhOV2tIbVhOQjNFSDl4RDZ3WGNDR19XNGloRkNoTFVMSmtzTkpzcUY1WFFHbXI4SEZtYU1Sdk00T2s1eXp4el95b29oRXFiclU5V2hNUHR4bDV0S0lBdg?oc=5",
       "publishedAt": "2026-11-15T23:26:20+08:00"
-    },
-    {
-      "title": "Bolivia Negotiates Direct Carbon Credit Payments for Indigenous Forest Guards",
-      "source": "PravdaReport",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1zeVBCZURES2VaVzVVMVNNa0RqeVJTNURHQkRfU0Z0OUdJZm0taER6VlFhNncwRlRTUExjSEE1OXpCd1hkbXFzTW9mRTNucGlaRVlkQ202b2FtdHBfc2Q2eHM4QzhRQUdSQWNWZThGaVlHbVdTTFdWWVBXWjk1QQ?oc=5",
-      "publishedAt": "2026-11-15T16:37:00+08:00"
-    },
-    {
-      "title": "Light mag. 3.1 earthquake - 115 km southeast of Sucre, Departamento de Chuquisaca, Bolivia, on Saturday, Nov 14, 2026, at 01:49 pm (GMT -4)",
-      "source": "Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUnRQUFdOa3R1VVozTEVZTFItYVZndVpCRDJGRG5aYlB6T2hOTVNITWRCVmdqaFAxY0V5MWpmendCM2prWkE4MEpBQnVCbGl1WEhUVV8ybEt1VjVBd0otMVFLYVJGRHVWczYtOGlHS3ZHbXpweHE3YnU1TmxEWS0tcWdHaHFjbm95V1BHc08xS0hmQ0VNQTZPX1JTcmpsVGZSbXZiUzBpWHRxZ0JT?oc=5",
-      "publishedAt": "2026-11-15T02:46:40+08:00"
-    },
-    {
-      "title": "Turkish President Erdoğan meets Bolivian counterpart in Istanbul to discuss defense cooperation",
-      "source": "ssbulten.com.tr",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYWhxMmJtMUs5bDMwSDhoa05KUGZXUU5ybUVyYzhZU2JYTkZyVkxLY25rWENCN3RTNkRQY2NDN2xjR2NyRzJ6MlJyVUsyVHZ4ckR5WFVFNUVyRFpyOENXbjJmUE9VX3duSFZBMzViYm9PVGtpMkdiMTh6bU9RVUFFRkVZLUdVSElBTUtfOVBYTU12LWNxb1duaTRWT2MyUURSTUtkSktSTEJRcENGR1FmemNSbkdRUEJFREdiWm9LTkJNdTBQWHBNbWtuVGVZam5nNVkwSEctYVp3UQ?oc=5",
-      "publishedAt": "2026-11-15T01:57:23+08:00"
-    },
-    {
-      "title": "Bolivia’s Infamous Death Road Once Claimed Up to 300 Lives Annually",
-      "source": "Hypefresh Magazine, Inc.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWDhtTTF5UDVRTjBaQzhlcGh5MFlzaV9oT2lwRUd3ZWRSRzRXVm5sTjVCdDJ3OXdpQzRDQW5Yc3UtOWRtWXk4ajVFUjAxX3d5czc4V2pxaDl0emFlY3RRU2QxR3VPZU9Nb09yYjRhUTVGaGo5UHI5UnJOeFJDNDg4QkpVeDFIM2NsS2V5b3lMV0RYWlBDOC15Zg?oc=5",
-      "publishedAt": "2026-11-14T23:24:58+08:00"
-    },
-    {
-      "title": "Erdogan, Bolivia's Paz discuss deeper defense, mining cooperation",
-      "source": "Türkiye Today",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNlc5X2xZQ3VyYVpIdTdNVmVtVnV3VEZ2UFJGMlBVODJYcndMNjdEdE5fVkRnRU5rYjJ3ZzhUT2V4cXdGaTdRRlRUejQ3RDlvaS12bkhDMERoMjY2RGk4dnByQmQzbHNkb2RYdWN2UVFjQVRDSHRabWowclYxWmlQaDhzaHJJcGE5c1hfMmFPRVB2ZnZldVpmWDBvNGgxcWMxXy1PMVczM24?oc=5",
-      "publishedAt": "2026-11-14T22:22:47+08:00"
     }
   ]
 }

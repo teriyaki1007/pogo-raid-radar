@@ -1,7 +1,7 @@
 {
   "iso2": "CR",
   "name": "Costa Rica",
-  "updatedAt": "2026-11-16T11:08:02+08:00",
+  "updatedAt": "2026-11-16T17:10:55+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Dream Trips: How to see Costa Rica without the crowds",
+      "source": "The Times",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb3o1SERFcUNuOF9ZeWdLWG5VUEpaaGNjeV9KUzNkeWpDalRuaTNRSWIyN0hpWjljMkJxU0JBLWRZekVsZTFDNld5dUhpVmxReGM4eUhOWWRCd2szTFByOWw3TGxGcGFKZmlKSXlKeGY1TVZZTkZQc3BFTVRiUHFIaEYzUEI4U0I3cUloM1dwVkxaTERtZkE1OUNUQUZpUmNaT2RqN0dqNVQycThocld6blJlVDJSU0toMHZ4YlR5TDZjekZqd05MV3Rn?oc=5",
+      "publishedAt": "2026-11-16T13:00:00+08:00"
+    },
+    {
+      "title": "Cricket match squads | FALK vs CRI, 2nd T20I, Costa Rica tour of Falkland Islands, 2026",
+      "source": "Cricbuzz",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSk1PVTNYU3Y3bU54dFRnLTlXV3FCMjdHQ3gxQkpuTVcxQzNhY0hsSTZiVVZEVzRzNlUwOWRVdkpWdTR4N3J2cTJsem5FcTFwU2VsTnI3ck51YmNQT21JcTZaV0I4V3ZYSGFqLUxaM3ZUc201WERRUmE0SGcwOFYtMmlKWnhRWHVmaldLbGQ4TVpPTE1sTjFQVFIxM3NSTjZCU0lZclJrb09lUHFpeldJZ1NZRDQ?oc=5",
+      "publishedAt": "2026-11-16T12:48:20+08:00"
+    },
+    {
+      "title": "Chilling Details Emerge in Surf Legend’s Costa Rica Death",
+      "source": "The Daily Beast",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVTNNa3JwU1lkN1Zvd3JTeTVwV29pdDBHYUNCWjNDMmNjWVFSazdzSWtpeWFmM0VLa2dWVFhjTDExQXlnMWYtTWJmQ3ZDODhtM2tZQjdQOHhLSHp0RGdQbzVja3lCUE1zMHZ2UnJJYlRIcmtiazBLVUxzbWo2VXIxTFRjZzdBR3JmSUhfWGpOOEJnOEZUOGc?oc=5",
+      "publishedAt": "2026-11-16T12:22:00+08:00"
+    },
+    {
       "title": "Costa Rica Bill Would Let Towns Cap Airbnb Rentals",
       "source": "The Tico Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOS1ltQXpRWmxiU3F6YXowZHpPODQzdkZEeUdfRGxHOHdvQnM1QXdYS1FBbFNnSndNMlhKbzhsbkwwR1lfZ3dub3Z1UnY3Sk1DNkZUc2VqcHJyM01OcHNidXFBcllOVDVqdmxRTVBld0xuLWVaaUllVVRWTS0tQmF5N1B3VHZSZmJRTDNCVFN3?oc=5",
@@ -40,12 +58,6 @@
       "source": "DAZN",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU2JTaXdGZTNMSXloWVpLWFJVaWRjY2JUbFhhRVA5SE9YRVotbzhETng2Z084VzhJUi12ejRTZVhNci1xSjN6YkNYY2F5M0YyZTJxWVNfVTRGeXBtRlEzUHZDcTJKZVg1bnFLRkxNcGVzUklsSU91cGJHNW9LeXpnNkxRQnRlTkkzeXhB?oc=5",
       "publishedAt": "2026-11-16T09:11:48+08:00"
-    },
-    {
-      "title": "One backyard, many crops: Lessons from a Costa Rican farmer",
-      "source": "Food For Mzansi",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjVXT1drUy05SjlnMVJDaWhDZ1JBUUNUUnBUb19FeWNqSGZadWdqNXZYVEk5SndrTVlueDZ2TlYzTUV4VFVkeHlyUjZkUS02ZTVyUk91LVR6cTBmdXBvcHlXU2ZabWx4VERMWGh0WEtnMWRGVW5mSkU1Zl9uQTRYNFF3c3ZmRGhTdGw1bUtQYzVjbG5Z?oc=5",
-      "publishedAt": "2026-11-16T08:19:21+08:00"
     },
     {
       "title": "Nearly Half of Costa Rica Driving Tests Failed in 2026, the Most Since 2015",
@@ -64,18 +76,6 @@
       "source": "Combat Antisemitism Movement",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOWFpxaUpjQkw3SExLWHRlS0JwbWtMSGpWbFoyc29CSlNraDlWYkdRSWFMeTFQWkZSb2lkX0piMTh1Tk5wWnEtbGtvUTFselJFSmRuNDIyQjV5WTd4dHVSSjc0OXpKTFJMbEt0QklUaEhRTnZxZG9Zc3Z2VHpEV1RERmJoMFVhc3lxbHZGREd2M21hM1JMY2plNEpSRmJXSFdpNlJjLU1ZXzdhTFNEd2toLVg1OTZGaE4zMmg4MHFEMDR3STNpVEVBWnVubjIxYVAxYlI1ZF9odDc5LXlxSnZzRE1PT0pXOWNNeGlRS0ZqVUs3Qm1HRXc?oc=5",
       "publishedAt": "2026-11-15T23:45:36+08:00"
-    },
-    {
-      "title": "A pineapple’s journey from Costa Rica to rural Manitoba",
-      "source": "Manitoba Co-operator",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTnZ2Y2tDNC1Cb2IxaDM1UXBoSmtDUk8zOElQazlvYXFLUG1mU0FiazlKakt4NzcyLUdSLXJNQjVoX1NCajQyVEYzOGVwWG1jTWxVN2U5Q2tGVkRwQzNqWkM1MVpQT2xyMTVLNDhjUDNXUlpBa2NXeUEzdUFMcC14LXVFenJyaE80b01KamtHdVlqdWJzN0hwUHg3TzdvMGdfU3c?oc=5",
-      "publishedAt": "2026-11-15T19:32:29+08:00"
-    },
-    {
-      "title": "Ground stop delays Waco chamber members’ return from Costa Rica",
-      "source": "KWTX",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZlRFaXpmdU9tWmZJaTB1YlRtcnZxNUxtTlZucFFwTGVQZEU3TFBWNGVuNVQwM1VFU29jWG81b0tIakJCNlB1UGpvQnI3cFhoYVlXaGpsYlQ5NV9NZEVYLTYtTjd6OEZoRUZlYlBsckNyOGQxbzdMeDVHZjJMcFk5Xy14YUpPTWx0VU4tOGZRV0c0X05rWmZMdDNTcFM?oc=5",
-      "publishedAt": "2026-11-15T07:45:00+08:00"
     }
   ]
 }
