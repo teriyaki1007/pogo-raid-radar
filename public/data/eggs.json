@@ -1,7 +1,7 @@
 {
   "meta": {
     "asOf": "2026-11-16",
-    "asOfLabel": "16 Nov 2026 ~6:30 AM HKT (GO Wild Area Sunday 10 km event eggs ENDED in Asia/Oceania and Europe after 6:00 PM local Sunday; still LIVE in the Americas until 6:00 PM local Sunday. Seasonal Twilight Trails pools unchanged.)",
+    "asOfLabel": "16 Nov 2026 ~10:30 PM HKT (GO Wild Area 10 km event eggs ENDED worldwide after 6:00 PM local Sunday. Seasonal Twilight Trails pools unchanged.)",
     "season": "Twilight Trails",
     "seasonWindow": "Tue 8 Sep 2026 10:00 AM – Tue 1 Dec 2026 10:00 AM local",
     "sources": [
@@ -46,7 +46,8 @@
       "14 Nov ~10:30 PM HKT refresh: seasonal Twilight Trails pools still match Leek Duck eggs chart (Updated 14 Sep 2026) + ScrapedDuck (no species changes). GO Wild Area 10 km event pool is now active during event hours (see eventEggsNote).",
       "15 Nov ~6:30 AM HKT refresh: seasonal Twilight Trails pools still match Leek Duck eggs chart (Updated 14 Sep 2026) + ScrapedDuck (no species changes). GO Wild Area 10 km event pool Saturday window ENDED in Asia/Oceania/Europe; still LIVE in the Americas until 6:00 PM local Saturday; Sunday window already LIVE in New Zealand / UTC+12+ and starts 10:00 AM local later today elsewhere.",
       "15 Nov ~10:30 PM HKT refresh: seasonal Twilight Trails pools still match Leek Duck eggs chart (Updated 14 Sep 2026). GO Wild Area 10 km event pool Saturday window ENDED worldwide; Sunday window ENDED in Asia/Oceania after 6:00 PM local, still LIVE in Europe until 6:00 PM local Sunday, still LIVE or starting from 10:00 AM local in the Americas until 6:00 PM local Sunday.",
-      "16 Nov ~6:30 AM HKT refresh: seasonal Twilight Trails pools still match Leek Duck eggs chart (Updated 14 Sep 2026). GO Wild Area 10 km event pool Saturday window ENDED worldwide; Sunday window ENDED in Asia/Oceania and Europe after 6:00 PM local Sunday, still LIVE in the Americas until 6:00 PM local Sunday."
+      "16 Nov ~6:30 AM HKT refresh: seasonal Twilight Trails pools still match Leek Duck eggs chart (Updated 14 Sep 2026). GO Wild Area 10 km event pool Saturday window ENDED worldwide; Sunday window ENDED in Asia/Oceania and Europe after 6:00 PM local Sunday, still LIVE in the Americas until 6:00 PM local Sunday.",
+      "16 Nov ~10:30 PM HKT refresh: seasonal Twilight Trails pools still match Leek Duck eggs chart (Updated 14 Sep 2026) + ScrapedDuck (no species changes). GO Wild Area 10 km event pool ENDED worldwide after 6:00 PM local Sunday. Eggs obtained during the window can still hatch that event pool."
     ]
   },
   "eggs": [
@@ -947,7 +948,7 @@
       "distanceKm": 10,
       "label": "10 km Eggs (GO Wild Area 2026: Global)",
       "source": "PokéStops / Gyms during event hours (ticket holders: increased 10 km chance)",
-      "window": "Sat 14 & Sun 15 Nov 10:00 AM – 6:00 PM local (Saturday ENDED worldwide after 6:00 PM local Saturday; Sunday ENDED in Asia/Oceania and Europe after 6:00 PM local Sunday; still LIVE in the Americas until 6:00 PM local Sunday)",
+      "window": "Sat 14 & Sun 15 Nov 10:00 AM – 6:00 PM local (ENDED worldwide after 6:00 PM local Sunday; leftover event eggs can still hatch this pool)",
       "event": "GO Wild Area 2026: Global",
       "incomplete": false,
       "pokemon": [
@@ -998,5 +999,5 @@
       ]
     }
   ],
-  "eventEggsNote": "GO Wild Area 2026: Global 10 km event eggs (Leek Duck Wild Area eggs, Updated Nov 4; GO Hub; Serebii): Honedge (hundo 794), Klefki (1114), Drampa (1665), and Duraludon (1753) — all shiny-eligible; hatch rates unpublished. Applies to 10 km Eggs obtained during event hours, Sat 14 & Sun 15 Nov 10:00 AM–6:00 PM local. Saturday window ENDED worldwide after 6:00 PM local Saturday. Sunday window ENDED in Asia/Oceania and Europe after 6:00 PM local Sunday; still LIVE in the Americas until 6:00 PM local Sunday. Ticket holders have an increased chance of 10 km Eggs from PokéStops and Gyms (not a better chance of a specific hatch). Egg contents are fixed at pickup — eggs obtained before the window keep the seasonal pool; event eggs obtained during the window can still be hatched after it ends. Seasonal Twilight Trails distance pools otherwise unchanged (Leek Duck eggs chart dated 14 Sep 2026)."
+  "eventEggsNote": "GO Wild Area 2026: Global 10 km event eggs (Leek Duck Wild Area eggs, Updated Nov 4; GO Hub; Serebii): Honedge (hundo 794), Klefki (1114), Drampa (1665), and Duraludon (1753) — all shiny-eligible; hatch rates unpublished. Applied to 10 km Eggs obtained during event hours, Sat 14 & Sun 15 Nov 10:00 AM–6:00 PM local. Both Saturday and Sunday windows ENDED worldwide after 6:00 PM local on those days. Ticket holders had an increased chance of 10 km Eggs from PokéStops and Gyms (not a better chance of a specific hatch). Egg contents are fixed at pickup — eggs obtained before the window keep the seasonal pool; event eggs obtained during the window can still be hatched after it ends. Seasonal Twilight Trails distance pools otherwise unchanged (Leek Duck eggs chart dated 14 Sep 2026)."
 }
