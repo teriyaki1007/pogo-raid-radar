@@ -1,7 +1,7 @@
 {
   "iso2": "AF",
   "name": "Afghanistan",
-  "updatedAt": "2026-11-16T05:08:26+08:00",
+  "updatedAt": "2026-11-16T11:08:02+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "M4.6 earthquake recorded in Afghanistan",
+      "source": "Qazinform",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBmQkhYcUVINGEtOHF0ZnZjTDJUV1piTzU3LUphaGlFVzN4bWxtbWFWWDE1V1Nhd3FjTXA3TFAzV3BIS3VlcXdLTElJTVNTMWh6V0VBZTR0aFZvZDFOeWhfRHVIVGNtNDViZ0ZtRVUzbkVOTXV0U2R2aDdYUEPSAXxBVV95cUxNeS1MbWVzeG1Mck9rZ3lOREVSX3lpX1Q0OGEyNTZ5NzF5cTNrcWFlaXFkYWFtMl81MmUxNi1VbThWM2lDVDNUQ1VjMW4yNlN0eHpGTmYtdmVCOFNDT2tkLVEzLVoxbzAyNWxGZFF2b2JTU0U5SjVxNXI1cE5l?oc=5",
+      "publishedAt": "2026-11-16T10:51:33+08:00"
+    },
+    {
+      "title": "Iran-Afghanistan annual trade reaches $2.7bn: Iranian minister",
+      "source": "Pajhwok Afghan News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWWpDa0JrUTVZZDJPMXBIQ0g4TUZqRmZKdDc3UFlMZHVfRmNKb1hLZzd0TG9jY2E3ODVwb0N6NEU1SW5UdXkzaG9lX29BTGpTU1ViVXpGbGtXVV9ZSGh2b2hYZUppTzBZcWd1Q2xLdHhjSHB6d2dZaGJFTlczSXkwdG52a2ZRVVF4UjJ0b3E5SjA2c3NUOEdB?oc=5",
+      "publishedAt": "2026-11-16T10:09:24+08:00"
+    },
+    {
+      "title": "5.1-magnitude quake hits Afghanistan-Tajikistan border region -- GFZ",
+      "source": "Apa.az",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa2JuR1lTRHR5T2ZIeEhCQUFyRmFZNXhFZVBnMU5JNHFjQW11WjZORkE5WEFDUzdNWWtyQ1FZUUxLelVEVDZyZjdLWlFaT3FWZC1jc1U5ZzZ3cjdZU3IxZF9FMTdFckNxWEFadWhkQnRiTVd2SGlDekw5OUQtMTd0ang3Zk1SUkZSaTJMNVhOM1Q4TWxYaUU4aHl3?oc=5",
+      "publishedAt": "2026-11-16T07:00:00+08:00"
+    },
+    {
+      "title": "Brendan Taylor strikes another half-century as Zimbabwe extend lead to 291 runs against Afghanistan",
+      "source": "Cricket World",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1JFY3ZySDhPelRuakE0dEF6SkQ2bTVVSlluTm5xMWxUYWFVZUtIMDd5QlFWSF95ekMyU2Z0ZUo3M0RwM092WERZREVKSkZoLWRtT001anNpSFN6NW5FZVpFc01WbHo0TU5CS2VGR1pkOV9DZzRURTdvU3ZaMWlESFJQdkJUbmZ6c05sa19iSXdmbFhVTlVnSWVtV0lmbkJ1UzRuSzZWUkJDM3FuTHJLcjdtanBjSmxBYlRSVFpjN0I0YU5Nb1dlZmlEbWxSWjkxLVZrOE5R?oc=5",
+      "publishedAt": "2026-11-16T05:44:48+08:00"
+    },
+    {
+      "title": "Taliban Restrictions, Female Doctor Shortage Leave Afghan Women Without Medical Care",
+      "source": "The Media Line",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVgyVWxZZ3g2YjFDOFBmTjJwQ0g3bUFyNm9yWTkxNDMzWnowb0ZDRmtlTmRYTEthcHlLb0JoblRuOGRPSmxoWVhFdENFTXlQb2Zwb3M2V1RNNUxvVnl5bElNR2FIaTFMUkMzTmlBRzU3Tkp4S1Q5aEdFb2xfeVNWZm8ydEQwWFN0UkhOVnBTem83a0lOYWgtM0o0LVR2VTc5c2JEQzNzYUw0Z0tVUkhzQW0yRGZtUjlJc2szMkJn?oc=5",
+      "publishedAt": "2026-11-16T05:11:15+08:00"
+    },
+    {
+      "title": "Afghanistan Women's Hidden Lives",
+      "source": "WV News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcWxuODBURzlGTEEycHJ4WVpESFc5T29lUTl3VTdpcE5fbDMzTFZjVEJEcTNjX2VzbERTZ21tYjdnbUNCTERrS2dfdjdJVmFFODVqVFRMYjFSd014cDZBckxOVEhTLVhUMUVtMHAzbG1zSUpXWVREaTBkV3d0QzhzU0RNbGpudXNIUE55WUhPVnVDaWxLVUxfc1NCc1ZtbDlyYVNYd1NVM0dIX0dWTEQ5VG1xU2x3bVdm?oc=5",
+      "publishedAt": "2026-11-16T04:55:43+08:00"
+    },
+    {
       "title": "Afghanistan's lawyers face uphill battle in Taliban courts: 'Since when do women work as lawyers?'",
       "source": "Le Monde.fr",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMnVuU09nUzQyXzVpLXV4WG1qQWtObjVzbWR5Vkg0WWU4TFh1cTlILUFwYlJjenJBLUFmdDFZV045V0wtVngzTjhiem9RMjRtQUp5YUJjRzZGUHRYQjh2eDllQnFiZ0ZHNFZJQlFKY0RmQmFiYmdzV3BKb3N1YUJLcnBuaFZJLVZ5WWgxTHpYVkFjQTkxTURWUkZYbWd3TGFoYXJLRG53akdqRm1vVTRpRkVJVXV2UXNfem1LcTRKVU1tMUVZWnhzbEhweGd4ZENxZmFQTmZ4alRTUmg0WmVHTTVtNFlnMEJfdjVkZlV0WEthM0Q3alZTYy0zWEw?oc=5",
@@ -40,42 +76,6 @@
       "source": "The New Indian Express",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGUxV3V4QnlrRDlkZDh6NW5iVHgtd194Ry1ocUNXM0tWbWFZd0RDTEJldlFhVFJjT0lEbUhKM0FYQlVXRW1KT0lNZmNhZDdsdkh4OXJETUo0NWdqTmp6X19sOHFZVWZ3NDlmMEx2dlNIeWxvTGRvcnFqRFlvQUZXV005ei0zQVFRUGllRl8tYk9LOXNzRmVrc0N0X3o5SDdkbkZaaldiLXdMODg4aTVnSUo5SkxkTGx4Z2JyUU11TGVHV2hO0gHSAUFVX3lxTE9YSE9NbkttczdGVndQbHZNNXc1SlhUT2pON21XS2o4M1FVV0lmUFVBeVVrV3MzM080SjhLVXJVZzRzZjZ4RFZaeXhMMHhPSWhVNWpVVEIwMm9KOGt5Tm1HN3pVME5yMzlfMTktSUV5ZkxlTFd6SC1maDFzemh1dnFKeXJ4M3l2cXZzN1FzWUhWY3gyNUJaLURtaTMtTWxkeVg0UmRpa1lHODR5QlBqTmFGZ0U5b0lQTkQtU1Q2TDlhT3gxTlZBVndVSzB4R0lQaVNldw?oc=5",
       "publishedAt": "2026-11-16T03:12:20+08:00"
-    },
-    {
-      "title": "5.1-Magnitude Earthquake Strikes Afghanistan, Tremors Felt in Parts of Jammu Kashmir",
-      "source": "Kashmir Life",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3dUTHFNaGNmMmVNbmRFSlpqWFNzR2NkMnF4ZDNJa0dCV2ZJMjJLMm90RTUtMDVfeWlrTDJpZG9xN1ZrNFVOV2toazlRb2Fmd3h6a2t3UW5UcV8tNXNscGxtV095MHdKalBfSXJTV1diblJKVlZKMmlYNGpVdHcxRjQ3bjZiTUFEUGdzS0RDQlRIZUg1Y0N4M21iaWNpX3NVWnpPNmpLY2lXVVpZSTZ1dTFNRENVUQ?oc=5",
-      "publishedAt": "2026-11-16T02:10:56+08:00"
-    },
-    {
-      "title": "Brendan Taylor strikes another half-century as Zimbabwe extend lead to 291 runs against Afghanistan",
-      "source": "Cricket World",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOY1JFY3ZySDhPelRuakE0dEF6SkQ2bTVVSlluTm5xMWxUYWFVZUtIMDd5QlFWSF95ekMyU2Z0ZUo3M0RwM092WERZREVKSkZoLWRtT001anNpSFN6NW5FZVpFc01WbHo0TU5CS2VGR1pkOV9DZzRURTdvU3ZaMWlESFJQdkJUbmZ6c05sa19iSXdmbFhVTlVnSWVtV0lmbkJ1UzRuSzZWUkJDM3FuTHJLcjdtanBjSmxBYlRSVFpjN0I0YU5Nb1dlZmlEbWxSWjkxLVZrOE5R?oc=5",
-      "publishedAt": "2026-11-16T00:36:51+08:00"
-    },
-    {
-      "title": "Young Man Found Stabbed to Death in Southern Afghanistan, Body Discovered in Garbage Dump",
-      "source": "KabulNow",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZHdoZWk4c2JoTzA3Wm5jWF9Bd0dHV0lFdVROa21LQkxHLXdYQTVfZWk4THJqMGQ3bDJuRzVnQ3JlaWNaSXZWLVdrSzhXZV9oelZkQjItY3EzRnoyNEVlc0FDQllXbTZndUF0bmJmMXdxLW9ObnRzRW9pbmw3SHdMUHRIRFd6ek4tbUZjX3A4RU1pMThwVDNraUprOEFjVFY2dkxXOGtTSVlmVDlURW9MWm9vb2o0NFpaNnc?oc=5",
-      "publishedAt": "2026-11-15T23:50:36+08:00"
-    },
-    {
-      "title": "Iran, Afghanistan to expand agricultural, livestock cooperation",
-      "source": "Tehran Times",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObHRpOVJpS3NtTkNSVGZ5ZE1CY2hKZFdLN3c0cXFiOFdOcDYyNDhxLWlEczMwTmtnWW52RWVzcVVmcVZRWEZCNzY4RUh1NU5uRExqMzZJZnpjWnVITGd4NnVIWXByV3dlazVMdFF2S3VfbGNrQUthUVZHcDV5a1NhWUJxVE90WmhQUWl4T3Z1TGdyU3o2TzVMV3ZOQmQwSXc5alNF?oc=5",
-      "publishedAt": "2026-11-15T23:19:51+08:00"
-    },
-    {
-      "title": "In Afghanistan, Women Keep Caring For Women, Despite Huge Challenges",
-      "source": "Forbes",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSG5BMHhzNWFfWTQtS09ESzU5M2R5aXZob2dWMDBIYkhBZ05lZVJJaXM2cmo0RE50RWRRdWN1UnJfaW1OeHJsUU9yRkl5SUIyWkRsWWlxeURwNUVVaFA1THF5enNsOHVTUjlsb1dHWmpSLXEwRmw4ZWNWTnBXTEphUmNkRmNoNVc5ZmtKVFp2MXhieURhTWU4ektldUw5QVJXVk9oQjdqUXZFSEJ3ZkRld2x2dE14a1o2ekZv?oc=5",
-      "publishedAt": "2026-11-15T22:04:28+08:00"
-    },
-    {
-      "title": "First Shipment of Afghan Potatoes Arrives in Uzbekistan under New Export Program",
-      "source": "thekabultribune.com",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44S2FvaERxZlBpemREN2xvX3h2Q2lQa05VV19wbkZWdlREbUY1NHRuTjdBQTROUXFXZFBYcTNHamFuNDJSYkR4SzZHQVRjekE?oc=5",
-      "publishedAt": "2026-11-15T21:47:47+08:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "iso2": "MO",
   "name": "Macau",
-  "updatedAt": "2026-11-16T05:08:26+08:00",
+  "updatedAt": "2026-11-16T11:08:02+08:00",
   "facts": [
     {
       "label": "Population",
@@ -26,16 +26,22 @@
   ],
   "headlines": [
     {
+      "title": "Made in Macau: A female first at Guia",
+      "source": "Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMSE91aEZMQmZkdmtnNVZqSndsQjc0eHBDWUJvLXRRRllYTEVZd09UMUFjeVBuQXNTUk5PejhKQ1FqSlN3WGRKY2J4NHg1RlVHalhoTFB3WnBic0Q1VTdzZVFHemlINlhfdDdhcDFtdVg?oc=5",
+      "publishedAt": "2026-11-16T10:37:47+08:00"
+    },
+    {
+      "title": "Macau Resident Gaming Employment Falls to Lowest Level Since Records Began in 2013",
+      "source": "iGamingToday.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON1pRVVRiNVRtS1B1QVhrRDRmOUswSFR1ZmZvWlFoRENGR0RlazAtZXFDeFF0MlA1NHEyRDVybWd3VG5QY2gtV09yVUF2QTMwOEp0ZktLS0J3YlIzQTdvSUJjck9QU1MyYm9OVnd5b2I3MkNpZi1CY3dpUDA5UjNzTlJ2SHhBSGhGZENEd0lIVW9TYnpWUTNxTVYtTUpQOV80MEFvaE1xTTJqb1FqRnAyOHh3?oc=5",
+      "publishedAt": "2026-11-16T07:49:48+08:00"
+    },
+    {
       "title": "Macau’s MICE-driven non-gaming receipts up 12.2% to US$514 million in first three quarters of 2026",
       "source": "IAG – Inside Asian Gaming",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM0Fpc20xVGx5M2dRa05wN2JZZkFFd1RFVk41OFVsdjVOTUlUQXp5aUJHUlNib2taMEtZUElMckxLSlNmOTNMcThYM3N5NWFsMDJtOVFTd0NuMmJ0SHZfTnBNNEM2ZFhwVjgtbzd6V2ZhLTZlSDVHMXJoLWNyTzVPRlAtemwzUDJJWlQ0U1c3N1RWVEduNVBTRzNreGQtTTdhb3YzNk9qR2htVDRNZ0pITkh1UzI1ZGNGMG9hSTIzZGRPTEE?oc=5",
       "publishedAt": "2026-11-16T04:49:58+08:00"
-    },
-    {
-      "title": "1 in 14 people in Macau has diabetes: SSM",
-      "source": "The Macau Post Daily",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DMlJES2FpRUttU2duQWhfZlhGQk91UjI3RkVkZnhWMU9FVWUwMlJyV1JDTTlXcmZ2dHFFaEJFdlY0b18xN0ZBeDlvcDU1THpTcW9r?oc=5",
-      "publishedAt": "2026-11-16T02:28:05+08:00"
     },
     {
       "title": "Andy Consani, the sole French representative for the F4 World Cup in Macau: \"My only objective is victory.\"",
@@ -56,22 +62,16 @@
       "publishedAt": "2026-11-15T18:32:45+08:00"
     },
     {
-      "title": "Year-end events to keep Macau economy stable: Think tank",
-      "source": "Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYXNMNk5Yei1UOVpoa0ctRk1qTVZNNVdDbVA2YnE1UURwQi16dGNjbDVNOE90bmxpelBVR0Zjb09Sa0N0YUY5OGxaTVV4Y2hmSnpoYUdEczhmRnZXM1c0U0FYQ0E2d19hMnQ2TmkwTHl3dXZCOFA5ZkZtRGsxMGt1M0ZIbnN0MTQ5MXc?oc=5",
-      "publishedAt": "2026-11-15T18:06:14+08:00"
-    },
-    {
       "title": "Ethiopians boss Hong Kong-Zhuhai-Macau Bridge race, as local ace battles stress",
       "source": "South China Morning Post",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaFpwM1htVGZtS2p0RUJmbFNtWmExLV9UbzJnRmNGR3lKeTJBNXdlYWRvdFJhTjBmZVhrRHRrYkJaTy1Mclg0bVdsdHd6d2Q2c0dUWC1GMWc0QkhsZXFwSE15R0RWYy0wRVpoaDE1MWsxYUw5WnB3RktvS2JHM2VES21teVRRZjBHSlA2aFdUX2hMZ0xJeHRnUzlLYkF2UXB3OENvX1hTb3lIYWJJREhNSzJEZ1dOWVI5NWVCMWxuUFd3WmxOVEVEVTVrRWZ5Y3hSUGFmQkdB0gHWAUFVX3lxTE5zSi1udndIYlN0OXIzZjl3THduMlF5VmVraEhlSUQ4UDA0RnBJeDM3OUxWRTNmaWFNQ2JZTjNoRDhNM3pDM05IU0xXTm8tam5nX2pJM3IwSmpOclcwTmFYSHluNTc0cHVUbGJnNzJ5dXEtdE9ETHp0NExuc0hWUjZUZlF1b2lIeEhfVFlBRTZncGJ3MmxlVjZrTnZISTF1bGxreUNlcmNrNEhVYXNremllam9SRXlUczZWQVl1ZzZxNnJsWTN5dkFWZjZMU0FQemVtcEtLeGc?oc=5",
       "publishedAt": "2026-11-15T17:35:04+08:00"
     },
     {
-      "title": "Series activities to welcome the 73rd Macau Grand Prix (Photos: GCS) – Macao SAR Government Portal",
-      "source": "澳門特別行政區政府入口網站",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBZNW96RzRLUHZSbDAzZW5aRzVLbVVOM1J5SXVnWllNUFFXQnRtbEhNdENoUVlweUJleElZZ1k1N0hPNWc2ODVXRXZn?oc=5",
-      "publishedAt": "2026-11-15T09:33:00+08:00"
+      "title": "Qualifiers - Group C: UAE 3-0 Macau, China; Bangladesh 4-0 Bhutan",
+      "source": "The AFC",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWtUUjBNcmoyRGxJd3d0V1FSY2ZtYXZQeWJwelJwd2tyYUptN08tTS1wNEhtNGFjQTFCbDVSUlFlLXUtMUY2bDNmNTdjQUd4YUNmS2IzR3VsSDFWSEk4UmY5Y213R3BSeEY2OEZmZy1QM29SUkExY1NxMC1JLWJnZGRiTmlNLUNtbHF4UmhhT0RtdTVxYjVPY2hFN1lacVhoMHR0ZDJkcFpJdVBrUVhPc1hVMzdCYklHUEFDUEgzMXhtdw?oc=5",
+      "publishedAt": "2026-11-15T01:18:17+08:00"
     }
   ]
 }
