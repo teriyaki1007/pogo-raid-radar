@@ -1,7 +1,7 @@
 {
   "iso2": "IM",
   "name": "Isle of Man",
-  "updatedAt": "2026-11-17T11:02:46+08:00",
+  "updatedAt": "2026-11-17T17:06:28+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,34 @@
   ],
   "headlines": [
     {
-      "title": "Third weather warning issued as heavy rain, severe gales and snow set to hit Isle of Man",
+      "title": "Tall ship breaks loose in Douglas Harbour, closing bridge",
+      "source": "Manx Radio",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYlBTeXM1bmwxR3NhcjRubTdfbnN2ejNHNVA3UVhCMDdIZWJIMjF2T2RtZ0dnSjJYQnNUZ0RpbWRweWZoMHUyejhwTy14Z3huUEpCT0drODNIenl4SkFXRUVjQlo0azJTbC1CMjVlUFNRWFRmcGlWT3FHdWNBTzNnbWtuMU5ySVowendMTUQ0eXQ2Q3My?oc=5",
+      "publishedAt": "2026-11-17T15:42:00+08:00"
+    },
+    {
+      "title": "Swing Bridge closed to traffic in Douglas",
+      "source": "3FM Isle of Man",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVFhCeTVTRFk1QlVNRFdNZFRXUjU1dGlrVlZndHdhb0c5WG5hOE9uSThWc3JkNGdVamY1ZVI3NnJ5aktuQ0ZkWkR0b0ZQdDlEMHBES2dsWXVuWGZvTFNjSmNZM3JqYUc4WXg2MXBFclhJQVU5ZDNhSlBXZ3IwdlVMN0d3MjZyb280cTBfRlJR?oc=5",
+      "publishedAt": "2026-11-17T15:24:00+08:00"
+    },
+    {
+      "title": "Abandoned Manx lamb forms special bond with UK volunteer",
+      "source": "3FM Isle of Man",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzZ5RHNoZWF1bHhZVXQ0TzROVVdsVzlwclRkdkg1MU96aWdQbjNyRXhJS24ycU53UDFHc2s4WVJMOXhnUy1oenZmYVNNOERJajQyQ2J1SVpyTllQS2NwZFdjMDVUUW5FUEFIbVZmSWhhU21NV3RDZ1plWG4xNUhRU2VkUjRrRFV2d1Vrd1FoRXpmRUFDTjctTGFzMlFyYU1mb0E?oc=5",
+      "publishedAt": "2026-11-17T14:43:00+08:00"
+    },
+    {
+      "title": "Tougher Isle of Man immigration rules could threaten local businesses, Minister warns",
       "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZGI4MkxPaVlKcWVBX3hIdVdJVEdsdXFrZFhFZW9TMUJmVEtGUmhGU1dGWnFXVjNXSTBCdFU3bkZCOTRxTUlnZ0duMTRlSkktTDhILWlGcHpUMkxSdEUzMjE4Y1pqOXJjVHVWWm11LXRzZzBKTjNoSmRGMTFnVXU3WTlfdExJNjdGRldBXzdGb3lPUWlzaGowWXhDLTRjSnFMaXd1ZnpOaG5jTnI0RUxSYXBhMFZfb2RMdDA5ZFZBZy1CTWRU?oc=5",
-      "publishedAt": "2026-11-17T03:37:45+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaXdmaEkxbFV4RFRnWkNud3hTcVBjZlhtZzAwVjdnamNHV1cxbVRudzgydE9ldlJYdVB0OUl1b2RrWThUcFM5WFRsUFJtUUYwZzE5bWVlMlJQU1prVnhsUE1fZ0pka0pwSjlMMy1BTUVzRXZvVkM2aEcyaDFKMWVwNHVZVHdkOXJWWFo3NnBZUUduRVFUc1d6emRDTHozMXl1aTdtdURyZkhJbk5OZ0wybUJGT3NZN2pYOWR4MGJ1b2E?oc=5",
+      "publishedAt": "2026-11-17T13:02:30+08:00"
+    },
+    {
+      "title": "Logos Hope team ‘excited’ to take on Isle of Man in ‘international’ friendly",
+      "source": "Isle of Man Today",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbThJRzhJUXVKRHdib2otX1h0VVZ1X3pubUdEWXZDaVNfS0gxSnVyU3F6RU5xcDVRTDg4OUJESXhKSHJsVTc0c203eEdCcWtrdjk1S1MxYkp6SUs4VmFvV2hRNTUycHNlUkFlcTZfQzJrZnZvQ29ldnA2d2tFN1lRTlRnZHdRR0UwY1lsUWhLZGExaGNkX0xhZ3BHOV9rZ1RqM21zMkE1Wm13RjVkRDFHdHlOV3pxSWdhdnNva2xB?oc=5",
+      "publishedAt": "2026-11-17T13:02:30+08:00"
     },
     {
       "title": "Warnings for snow, severe gales and heavy rain on Isle of Man",
@@ -42,27 +66,9 @@
       "publishedAt": "2026-11-17T02:14:06+08:00"
     },
     {
-      "title": "Manx Flagship’s Return to Service Delayed into December",
-      "source": "Afloat",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcERXdzZudWR2XzA5Ti1XRUNMd3N4SVY3WUdxc0x0anN6ZFp5RnlsdGc1ZEV6MVI5b1QyelREN1FfazNSVlBWbUYwdG96enlDTXFKMUs5ZlRLMGRZd2VXWWNXVy1qLS1MbHFyX2FWakJrUjExckUzLU1Kd0ozMnprWUc2Wkx6d2lEMnpOOE1QY3dic3VtOXRVbnFueUQ0c1RUNWc?oc=5",
-      "publishedAt": "2026-11-17T00:20:23+08:00"
-    },
-    {
-      "title": "Manx Family Centre celebrates one year anniversary",
-      "source": "Manx Radio",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaHAyMk42NUt6WFFab3pyVC1vS0RFNHZCZ1FaWm9SWjZZc3hhNTRJUm4zLWxCQlRmcjkyQnd6RFVDTHZTRTE3OG1RZUF6MkpCbUZ0TE1ORU1lTTRheVVkT25feVIxVnUxQ1BGYTRLVU9xLTR0QV9yUTVLbGtERkFTUjlDYkdzUXB4UThtLVdiT0ZlVEhGTDhjYUFMT3JyTmE3?oc=5",
-      "publishedAt": "2026-11-17T00:09:00+08:00"
-    },
-    {
-      "title": "Body found at Isle of Man harbour as police issue statement",
-      "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWER2cXlOUzRoeFBvdlJ6ZmxpNzdlSjliTENWS2hZTXN2OHFoRWZfd210N0ZUM2pPY3JDTVI2Z0ZHNWJmU0hYYmVuUjRjMTBoMmpNY1Bhb3k0TVFlSDdBOHRkOV9SWm1POHpkQzdaUnd6cW1MR25IOTVaVHJ4bU1ZUDVsRjhrYng1U2lCZ3NwV211V2k0LUZJdUNyS1VKbGM?oc=5",
-      "publishedAt": "2026-11-16T23:58:17+08:00"
-    },
-    {
       "title": "Isle of Man passport applications move online",
       "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WWkt3X2JfaGhZeWdNdlhnTVYtaXNRS1JLNkNzS0F0Z2RndXctbW1NcHM3U00yYjQwVWZYWGo2bHhvd1J1WjFEdlhlYkswOVkxY3lFYi1JZFY1TEU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ySlZlTlh5NVl3YTVLTGNweFdIRXYxRlppNnF5Y2Y0M2l1VUVMb3hBSF9oNTI3bEFzbktfLXYyUHhVRDNSRmFaTHFFdjlmNzBvU2ZOMlQ4TUlnallxQWc?oc=5",
       "publishedAt": "2026-11-16T23:13:49+08:00"
     },
     {
@@ -70,12 +76,6 @@
       "source": "Crash.net",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWEc3SWlpeklkRllkSmV4bS1RVXRKSFk4TTJUWWpWMG0xenZybXVlT0R2RkJNUmI5TWJnOVc2ZVE0RDZUXzJTeERGLWFJcF92SjBPMHRFc1pTQlFYdlBBZk12RzQ2UERmMmJRR2FDMzB2V3JlNVlKZld3Uml2cXJrZUk4WTRVZVZsWG1zS0d4eFNLNnFhVTFfVW50TE1udWtNX1lhX19mVEIzU1hqUDEwZW1XZUo?oc=5",
       "publishedAt": "2026-11-16T20:51:15+08:00"
-    },
-    {
-      "title": "Sidecar teams rule out 2027 Isle of Man TT participation over revised technical regulations",
-      "source": "Visordown",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPem8zd3o5YlJaOFk5eFFiQ2NsRWNrRmdQQUVwcHRJaE5XRk4xeU1wVG04Y2hqVnE1T1N1anVTcjl3ZTJ3RVRoNFFpc2NLY3ZyU2FmSFJUYllXNm5FV0l5MXU1MnVCV2dZV2FRMzh6ZjVxRmM4dXNMS1lFTkExWHJudUN5VjR6T3FIZHFqQUc0XzVwUkNCX0lUUWN6all1bFlUOTJwdEZVMHBkNVFkNkhOakFyaU9HZXFvM0h3?oc=5",
-      "publishedAt": "2026-11-16T20:06:42+08:00"
     }
   ]
 }
