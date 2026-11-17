@@ -1,7 +1,7 @@
 {
   "iso2": "CK",
   "name": "Cook Islands",
-  "updatedAt": "2026-11-17T23:05:15+08:00",
+  "updatedAt": "2026-11-18T05:05:55+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,6 +26,30 @@
   ],
   "headlines": [
     {
+      "title": "Category 5 Cyclone Xavier Batters Northern Cook Islands, Tracks Northeast of Samoa",
+      "source": "Samoa Global News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOUxuUDRKdm1MT3hLSVdJUFVaTHlTcDJhZURoZlh0Nmw1WTVjWTQ0c2JlLW80cGdxVlZJaG9La0plWjZCT0pMMEpPZXo1TktKX2RHLXl4eGFLd1ItODdSTHVlLUp2c2JwVG9XWnFaQTdFRXBVOFlBSWZ3S1JNZlJGbnVOcFpYdFRJa2d0ZWxhY3F2VF9ZLTlnTFdBa2pSdGFIYjMzblZ2cWhVMlk?oc=5",
+      "publishedAt": "2026-11-18T03:29:22+08:00"
+    },
+    {
+      "title": "Ten-member team represents Cook Islands at Türkiye climate meeting",
+      "source": "Cook Islands News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQnJ6anBxVExPeGZHZFp6QWM1MjBxemUyRW1fcll5M195aHR6Zm1XbnpfM0l5X0x5aWF1NEhndEVDVklDb1RVNy1INGd5WU0xRUViWUV3bkVPaUh0SzZQY3l5WUUzSUxHWnVyVUV2N2JXd0xEekdrUGpKSW9DcDJJSUhyTFh3TjhJUlo2LUp2ZGx1ZFVFa1F5R0JWWG9FMkh2Zkh1emNaNXlhdHZoUG1JeEdKWGhmWHd4ZFA2cDduWUJzLTA?oc=5",
+      "publishedAt": "2026-11-18T03:21:21+08:00"
+    },
+    {
+      "title": "Cook Islands and China eye deeper ties as new ambassador arrives",
+      "source": "Cook Islands News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUmFydUJ4SExQMHRvYWgzRzVDMG50MGFVMWdXSmlNbjdzZmxoY2FYYVZkaThZd1psZFlROExrSFRFMnZIUGpBUU1TQnU0V0h1dWVVcURRQmFFa3haV29EaEVyQjkxb0xWOElLYmItN1RhbEduUTFSZmZYUDZRTXdfMDZRUU5kT29zRTVhQUVyYWhUeFVUZEEyNW5oS2NqdTJyemI1V1VXSkQ3ejVfMGFBZTdoRXI1a2FCMmIwaQ?oc=5",
+      "publishedAt": "2026-11-18T03:16:18+08:00"
+    },
+    {
+      "title": "Category 5 Cyclone Xavier batters Northern Cook Islands with gusts up to 295km/h",
+      "source": "NZ Herald",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNF9vZnIweXoxX3ZhOG5LbTFvWEgwaFRac3kwZWRhV3U1SW1EcVdrTXRoazc1Rkg5R2dJSXd2WDJtRHRzY2lGR2trQmlqQl9fWjhycC1UeHVsLUg0OVNwcVRjdGE1clNON2NFanpiYXZiN1JreGNuOVNiNGlVQ2dWaDhVVVhHU244WWk3WTk4aHNDTExVOUJCVDJGdzE2Ql9PY3kzSTJ5bEVNVldvTVZoVnliaHFFelRyaU5WR09HYnZOLXNyYktwdFl2dGlOVkdacFdDZmpVdDBxZw?oc=5",
+      "publishedAt": "2026-11-18T02:28:24+08:00"
+    },
+    {
       "title": "Cyclone Xavier Hits Northern Cook Islands at Category 2",
       "source": "Nature World News",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOT2w5ZTVTZms0dTUyWkM5VDJ0d2drd3NNc1BscUQ3bG1qU1F4cEVjNW9RUHNQQ3A5SGhkQ3BDTWxzUEVnZXdQX1RXLTFyU0hfeDg4cnlhM1JqM2E0ZnY1eW1BSFdIV2xZMjBOOG0wS19vTEVpWl9NejZQX24zby1YLWk0WS1HTWRQRjJaeTdOajhXNk1Fdjd3VmFhUUNoNTFIY1hlTUpJY0NUcWNyZUFkS0lVOG9jc0lIM0o4Vi1RLWNGZVdEczktaEl3RVFkaERaR2xWdmd4alNHRENL?oc=5",
@@ -33,15 +57,9 @@
     },
     {
       "title": "Cyclone Xavier intensifies to Category 4 over Northern Cook Islands",
-      "source": "NZ Herald",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYTBfSTlpOWQtcUkxVUl5M0NZWXlEMm9DNUktbk1PQ18tcjhRYXQ0SUFnZHNYZ0x6U3R5M2FpRk1kOEpJZ3paeEZyWS1JWklvQlozbXl1dng3R3V0QmE4dVo0RTJXdEYyZW44TTVoZkUybDRDN01McWZoMWJNdEI2ZHJvWTRWQVVtZ09HdXpPQ3NDVTBjM0dpRDRua2Y1a3NGZWV2MTZqZWE2RzFDdVRtU1FLWTN6ZmtyV0s1S0l0RGFuWHM?oc=5",
-      "publishedAt": "2026-11-17T18:20:59+08:00"
-    },
-    {
-      "title": "Tahiti vs Cook Islands",
-      "source": "beIN SPORTS",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVdOS3VYeDJINTN0RXYtSTA0eXpsQy1oNWF0SmlLUzBwazduZnU5SmM1OE93eXJuZzZldkFVcUo2OEpyRUtsZTlVQTRjVHpVdlRybkxHdkgybE9ZdFVZaVdHanM0RFJta00xVXdLVFZNWkY3eHd6UWNORU1jWXA0NERSYUlSN0VQSlZOXw?oc=5",
-      "publishedAt": "2026-11-17T16:57:28+08:00"
+      "source": "RNZ",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUVFhcFctanJCNW96TC1YUURqZVctRjVuYkYxd3BGY1hhN2ZFVk5PZVJ6a0pVVnRGN1lYSXVIWUJ6S19QRVZ2bDJ6M2ExZnMtUUZlQjFKX0pSd05PcG40MjFYdVNVaXJKOUxGeC1EQWJEejQ1ZmJDU1BqVnBPcDAtX1VPTmg1VTFzNnp4Zk9HbUlyVjVnUlNOUktXUGpKZXNxVjNJZ2poa0NmQXVpcHBB?oc=5",
+      "publishedAt": "2026-11-17T17:00:51+08:00"
     },
     {
       "title": "Tahiti Vs Cook Islands Soccer: Fourth Autumn Meeting Adds Another Layer to a Strange Mini-Series",
@@ -54,24 +72,6 @@
       "source": "Pacific Media Network",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMjdGdzBDVjdKNUl3c29Bb25LbDFZbW5BRFpMbVlsdkRLWEY3RWdJbDlnWlZBMWhhXzZpUmtKYTRyUGVvemlXX0wwa2xqUl9sZGJUaFVGTVhKREVUX2U2ZE9RaC1MSno1endzX0FFbVdZV1hRSVZ1aWdnVEs4LW45bUx1cDNremRrRXIwckNMck9IaUNtWkxSb2Ztb0VfbXljc0FNaw?oc=5",
       "publishedAt": "2026-11-17T13:25:04+08:00"
-    },
-    {
-      "title": "The dreamiest stays in the Cook Islands for every type of visit",
-      "source": "Gourmet Traveller",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObVBHaGlBcTVXVW5WZGhoR0l2VzZpNXNhQUZWRV9GVmtSYXNaWVdNOVJoQTF4TVJ1RUowZnhGLUMxS01hQVVNNVVsYUZhVHFGcEE5SXAzRjc4X0xxQVVROGZkMTlRTnVVVUc3YWQ0TWYwX3ZLcGdKY3J5ZUZMN1YxMDdsVk55UTl1LUxR?oc=5",
-      "publishedAt": "2026-11-17T09:01:19+08:00"
-    },
-    {
-      "title": "Upgraded Avarua public toilets reopen following major refurbishment",
-      "source": "Cook Islands News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmg1bmY0c2pFTDF5NWxoM201akVqcnFhWHBYejlMcWplblRsbnYzX0U5eFZVbkZUMHkxQ3h4UDhDUzFGdFFzX0oxdnRTVVQxczN4eWo3TGxoYXVCM21OdWxZY0RvRk91YmExSzc5aTJZdldOblZ1NWxUZTNHeVFRd0tWV1c1SUtvbFFLRmRranZfQkNTdV91NUZzQ0k1NERuOVdBR1NPV1ZqSGhwOWVYazhlOG1uU2RSWXRPOE5QUUU4Zw?oc=5",
-      "publishedAt": "2026-11-17T02:38:29+08:00"
-    },
-    {
-      "title": "Tropical Cyclone Xavier to bring damaging winds to Northern Cook Islands",
-      "source": "RNZ",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN0dEdFhveFhIVUJYUU1XYmMzLTQwd1FnVjFFZFIwQ0o0SFQyUUZ6ZnBBODJ1RHpLeFEwMWI4ODFpUUkwSTdGOFNjaWJwYzBadXpENFlVMTNLLVNxUW9tdVUyTkpPRXpxbW9iRFBYWmJXWFhPMzBINE4wMi15TUhyenR4QVhpbkYxMnBRVDdoN21kd0dBS1BnVndxNGt3b3pER0xQTzRhb0JBREhiblREWlpic3F0QQ?oc=5",
-      "publishedAt": "2026-11-17T02:32:43+08:00"
     }
   ]
 }
