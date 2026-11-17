@@ -1,7 +1,7 @@
 {
   "iso2": "EC",
   "name": "Ecuador",
-  "updatedAt": "2026-11-17T05:08:13+08:00",
+  "updatedAt": "2026-11-17T11:02:46+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Ecuador’s Noboa denies US operates base after AFP reports troop buildup",
+      "source": "Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV3diYzVqbGFiaV9MUWJoS1pOQno4RlpJVDVYUW85STRJNUkzbkZ5Q2tGWEdFYk9JMmptRzZkSlNEZk9tUmkwOEVhYlVZWDRBa3FnUndfN3BfZzhBSkp4MGZqUVJfUlA5Wml5RmFkVHpVMFZRQjBUVjNKd3gyVzJ1MWlraEMzQkR4?oc=5",
+      "publishedAt": "2026-11-17T08:47:50+08:00"
+    },
+    {
+      "title": "Ecuador's president denies US operates military base despite reports of troop buildup",
+      "source": "Fox News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTdHb2ZSLS1TWU1PQlpoS3M4UFNzSmo1MkFPYWJvNnY3VDFXODQ4dG5ZaGZvS2JyNDZWTjBqVnJWRV9aTVlOcDZnb1JFU0FmVl9fREJ4bXpxTy10aW91bDM1N3FWc3AyUTR3Tk1GbkdVN2dzV3dmYldmc0tqX25nd3NfLXZoYldxcmx1OUNPX2ZzZXFjNHo3SDN0TG9oRnZXbTlvMNIBqgFBVV95cUxPQWNhb2hkbjBHVEZPNEhuV0lTTjU4M0plb21QMG5rUHVYOG5mSkg1ZjV6V2M4SW4yOWdLdG1fSUNmRjEzRktfVnZpQ2dJX0o2bVd1dWk4OXM4TEhYTmVYYS1xZXp5TUxsU0NKcjg5M2FHcGY0VVhrUlBzYnowZjFkemx3TWhyd3gxRjI3OTI2Uk9tYWJmSTIxOWFETkVLR245b055SF9YRVF6UQ?oc=5",
+      "publishedAt": "2026-11-17T08:23:50+08:00"
+    },
+    {
+      "title": "Ecuadorean fishermen sue Trump administration over Pacific drone attack",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZFFLRXdkUk9WMWJDc3RYTVhnYlZ2bEhVTGRqazJ6OEE5YVFFemtWa2dVdDU2ZG9ycGJkRkVzV1FrSDVaLVlJN1JSNmZpU1E0R29rc0lEbU1mRnVCMzN2aFE2RGNhUFU2cGM2Sm5Rc1liQ0pkNjVhQ1BoeEVBdUxRdzZpU005TDJpRS1GdUVlX2Z3bmZldG1WS2txOGhUMmFHeU5WRVhWclk5RnNyLTFJZUp2M0tOb1d2cTJYd3h6YmU3dw?oc=5",
+      "publishedAt": "2026-11-17T07:27:33+08:00"
+    },
+    {
+      "title": "World Bank backs Ecuador climate finance program with U.S.$30 million commitment",
+      "source": "Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSmNRSC1vTld5RHNacnl2QkdZUHZyNlhQUzVzakpPS1A2RVFWb01yRERuUTB5VXR1OXlNSHlXbjRzYTNTZ3VHeUpHNGpad2gwcjd3RktZRW53MjQxbS04U3F1QWppOFJ5SzlLbXlWOHc0UVlOSGdObnhnYzU2ZUk0RW5pUklxWWM3WXVja1J3c3BsLUxxQVE?oc=5",
+      "publishedAt": "2026-11-17T06:22:30+08:00"
+    },
+    {
+      "title": "Torrential Rains in Ecuador Threaten Cocoa Crop and Could Push Prices Up",
+      "source": "Briefs Finance",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLW91OVExcUt3eDBJWHQxY0VqT3BETVh6dUFLTHlQM09YSzdqVFVSRjlNZDVNT0hCVHc4aDBiWkFQVXZGdDh4end5QlRJb0RHYmlhQlZta1V3ZGo3THIyRmgzZElIdGx3OVBRN1NhMlRqdnc3UmZHWFlFRVNhQ2U4Wjl0bnJCUnZxTGV2VnFqUU1fQQ?oc=5",
+      "publishedAt": "2026-11-17T05:15:00+08:00"
+    },
+    {
       "title": "Ecuador Launches Fair Trade Strategy 2026-2035 to Boost Exports",
       "source": "Data Portuaria",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQUJmbll0QURZVlBGcFpBbVRhVmxZNG04ZkNmcWVDa1RPNmhmMDdLS0xsX21Ic2MzSVNiQXZwX0wzSzFaVnZCakNRV2E4Z0p3T0ZXZ0JmblVIWFpMX3ZkaGVSZDJSc25DdXA4MU1JNzlnVG83MUZlR1ZxZkVDOWh5NUZNT3lLZ3NuYVNJSWVDbnY4WmVxaFBKNVQ1bHBnZGtvVjVRZXRzdG95ZGJTcE1wS0J2NW84YkMyNFNXb1R3?oc=5",
@@ -46,36 +76,6 @@
       "source": "IntelliNews",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZmVTSTUxNzAyMUVUdzdzbkk5OW04Wkp3Y1ZxSFdaeFowUnN1VDVMREk3aHlFWGhxZGZ2S0hYV0lKQ1dxNExxVEVUX2hWWV9MLVk4UWhma1k3WmNhZ01FdWUxN00zbnlNbHBlTTY2N21QanFRNkgyWjR6U2ZWZ0RkaWprSUE4LTQ1V1NMd2FXRjVnSks3cG5v?oc=5",
       "publishedAt": "2026-11-17T00:19:53+08:00"
-    },
-    {
-      "title": "Record-breaking rains in Ecuador threaten global cocoa supplies — Bloomberg",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXg2N3RRaFlTeHN5c2VNSDVWNEdPVzdhOWxQZ0R4OHZ1RmVidGZKa2Mwc0xsVmFpZW5IWDhtQnhsVC1Db3NkaHc1dFZpaXAtSDUzWEdVbTNyRW5UdXFua3VjVEpJbFBNQlNlYlZYbkJyVHRaaWFLemdsR3ZseWZnT2psRVFmMC04a2FMWG43cFF1NkpNeFRmLWZlcUgyWEMy?oc=5",
-      "publishedAt": "2026-11-16T23:47:37+08:00"
-    },
-    {
-      "title": "NORBIT demonstrates its LMD technology with the WINGHEAD X sonar in Ecuador",
-      "source": "Inspenet",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VZEhoYUVMSE9nNXh0clhEdzRqOFk2cjFPVWF6ZktGUkNMbXR1MEtZS2NCMHdnOGtNakRmOEdnZThFM3hZVzVnUUZPbGlHX2p4U3NCc1NiR3pWbVI5Wm04akQ1RXQ1Q016TEIwWldUNUxYakdCelRr?oc=5",
-      "publishedAt": "2026-11-16T22:44:25+08:00"
-    },
-    {
-      "title": "El Niño floods kill 2 in Guayaquil as 172.8 mm of rain swamps Milagro, Ecuador’s toll rises to 14",
-      "source": "The Watchers - Watching the world evolve and transform",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQczI1RHYzRDVzeWFNb2pieWppVkgxNTlaXzBIT1ZKWjRWWEpoZU40UmMxajltdDNxaEotRm10Vm5ZM1lRMkZSODhzOEFGdG4wNDlIcGljaVFSQmVIeGh0U1ZKRnE3MS1aUzExSy1zOTRWYno3Z1NkTUhIOGRjNUR0bHNEbWZIRnEwWl9MVmtSc1EyMkhSS3NYaTNRSGR1R1ZhakVfbQ?oc=5",
-      "publishedAt": "2026-11-16T19:57:08+08:00"
-    },
-    {
-      "title": "Ecuador Marks 104th Anniversary of 1922 Workers’ Strike With Marches",
-      "source": "teleSUR English",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM2RNRzFCSHhFeFpEdHdtUEJySHF1ZDVOWXdyWVF2Q19yRVJEcUl4b0w2WWVXbjJIY1VPTmtRdlhtNFhOR0ExWEwtc3d6WkpXYVFYZ09EX0d6VXlIQ0g4NVpCckE5YUZsOFhkNW8wZ19PX3I3em5LZnFuRVk4LWhRTGdIcWZwMnV1dFk4bFAzZnFNUWNZQ3c3MDBEMFphUVNB?oc=5",
-      "publishedAt": "2026-11-16T18:48:46+08:00"
-    },
-    {
-      "title": "Caicedo plays 84 minutes and scores for Ecuador despite admitting he was tired",
-      "source": "LiveScore",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcnFjVW9MNy1BZ3FZdXJ3RWNZaHlodW42dVFmNkxoaFdidVk0UzJpcWZTLWxKMVhsNXF1TDlZa2NmWU40U2NIckMzMkJIT2FFekpYeHBTeXNQeFhCRGp1Q1RmaFYtbFFiazE1UXNtVmRmM0szRzdOQTRmVHFMWHFUelhiMHVLZHhQVDlVVk9NamE3ajNYLUtMNFJXOTR3bzhEdGxwUUE3cU9leVgxd0h0el8zOGYtMl9qOThFcno3bk8zbXJlaDQ3czVVa2ZFQ3JzSDFXVG5Jd2xjTHJRa1d1c3ZR?oc=5",
-      "publishedAt": "2026-11-16T18:22:04+08:00"
     }
   ]
 }

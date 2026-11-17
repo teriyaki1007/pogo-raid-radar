@@ -1,7 +1,7 @@
 {
   "iso2": "BG",
   "name": "Bulgaria",
-  "updatedAt": "2026-11-17T05:08:13+08:00",
+  "updatedAt": "2026-11-17T11:02:46+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "UEFA Nations League 2026/27 League C Group C4: Estonia vs. Bulgaria",
+      "source": "Xinhua",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ianRCc0VVQ0k5eVdxSDRDVFg4dGJBYWhMN0FtRzZZcGdRWUlGVVFqMkhQeU9VWkRmbi03ZnhwWkdQYUJ3Y3c2UmVveVRHMnMyaEs2OGxDNWpEN3lqTGhCcXZpNVpzX0NIeTgxTEF4N2l5dDBGbFBLbnR6c3A?oc=5",
+      "publishedAt": "2026-11-17T10:05:57+08:00"
+    },
+    {
+      "title": "Cargo Ship Capsizes Off Bulgaria After Reported Sea Drone Attack",
+      "source": "gCaptain",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcUt1S0NicjlNbjlxSEcxRFVnWUdxLUxwbklTMmZsUHNrX2Z0VzF3UEZEWDc5UERLdXl0Zzc5ZzBYRXNpWHJNUTlWQUlnbWFNeUhqbURacjRrRU1KN0R2d3ZRVGtQak5SdmNrdVhQOUpneGtGZ1h5aDlTZ0NRWGRYbTNYUFFtbEU3ekF3UHU4dw?oc=5",
+      "publishedAt": "2026-11-17T04:36:56+08:00"
+    },
+    {
       "title": "Bulgaria Rescues 12 Crew as Attacked Cargo Ship Capsizes",
       "source": "The Maritime Executive",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTEN3OVdDeXcxN1U5eHdEZVhzSTVtNE1sUUNkTkxKVVhFVUNLMmxubzVfMzdoQW1INHUzazBCc0RPSVYxRkZMQVpaa1h5VjB5aklSVFdHMkhoZkVobkMwWHM5bUdnN0NWczREQ0lycDYwWGFyZUxqSFdLcXV5MEM1WTBwX3lqX0ZNZUhqVGJ2TGoxWDBlUGVrU2oxWQ?oc=5",
       "publishedAt": "2026-11-17T04:22:29+08:00"
+    },
+    {
+      "title": "Cargo ship capsizes after suspected drone strike off Bulgaria",
+      "source": "Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLS1fVGNiMGpUaVJncWtZeXUyTF9sMDFISVZ1MVdvUm9JWmJkXzZTU244VHR4cENBVFNINlNRMkl3MUZfTWk4Q3Bsb0dVRl93Q2IyTzdxTTlJODVWWFh3NFZ3Rk1Lb0pkLWF6eEgxN2EzbVZBc3NrTmI1MXQ3MWVOU3pPdDdMWVM2SDI4V0o4Vy1VQQ?oc=5",
+      "publishedAt": "2026-11-17T03:15:40+08:00"
     },
     {
       "title": "Cargo ship sinks in Bulgaria's Black Sea after reported drone attack, all 12 crew rescued",
@@ -42,34 +60,16 @@
       "publishedAt": "2026-11-17T03:02:57+08:00"
     },
     {
-      "title": "Cargo ship capsizes after suspected drone strike off Bulgaria",
-      "source": "Macau Business",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLS1fVGNiMGpUaVJncWtZeXUyTF9sMDFISVZ1MVdvUm9JWmJkXzZTU244VHR4cENBVFNINlNRMkl3MUZfTWk4Q3Bsb0dVRl93Q2IyTzdxTTlJODVWWFh3NFZ3Rk1Lb0pkLWF6eEgxN2EzbVZBc3NrTmI1MXQ3MWVOU3pPdDdMWVM2SDI4V0o4Vy1VQQ?oc=5",
-      "publishedAt": "2026-11-17T02:56:59+08:00"
+      "title": "Cargo Ship Offshore Bulgaria Sinks After Drone Strike",
+      "source": "Marine News Magazine",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbjdRaU54UlNzX3luQjNyQjdWa2tBeXNRV2JhdVNXeDFaSGQ3XzZrTXR3WUJ2cjc5dUxYOC1JY012S1hKa0hWNU5OcmZfVXJVdlVFNnZfR3hFWXVPbUQxU2R4Yll3UXRxWDR0THotbDFCV0hBN0lIZW9jXzcxNUhCaGd1TzFIdw?oc=5",
+      "publishedAt": "2026-11-17T03:01:08+08:00"
     },
     {
       "title": "Conductor and violinist Droujelub Yanakiew: Being Bulgarian is profound",
       "source": "БНР Новини",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZ2RYT3ZJQ2xmV2pSTjdXLUFXdjBndmNOWXNyQWtVZDRkTDZheUZLXzBBZ2VUa091YkxqSS1mNWlJVjJXdDBhOGZWTTgtN2Q3YjhQMUk2M0MwS1RrVTZMUG50cmd1Q2Jqd2ZxM0RQd2xEdzE4V0JuVjdfSHFxWU43SVB6VlRBcGxaVU1LUm5VSzE4R2xhZjFxTVVLakJLV1lrR1JLUDhQRQ?oc=5",
       "publishedAt": "2026-11-17T02:49:28+08:00"
-    },
-    {
-      "title": "Sailors report drone strike as cargo ship capsizes off Bulgarian coast",
-      "source": "The Brussels Times",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcU5uQ0tkbTkzOHJhSFQtejJsbFdKQTJNcVpZWERtS3V1LUNGOVd2Z3NFakVPTXpDbjVDcTlNczdpc0RIQ0MyQldkVTRLdTJXaTFBUWtVYWNCVzJvUEYtRHEzZW9WNnNab3p5czBBZHF6cVdoZG9QR3Jxc3BMNEdYZnlKcEVZS0Q5QUhMZE5yT2NrN1ZIN0tJZWtaNXRTZi0tbWtoN0FTTXkwQ0hNQ2xwZ0VYZEM?oc=5",
-      "publishedAt": "2026-11-17T02:15:43+08:00"
-    },
-    {
-      "title": "Crew rescued after sea drone sinks cargo ship off Bulgaria",
-      "source": "Baird Maritime",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUptb2hhRC1LUzJaSzRjbV9TRFFhZDZFU013eFNGQ1l5Rm1TQ2hfR3RRQVdnLVpyRjlzYjdJSmZfazE1R1hFS2p0SkxJTVlGamtONmVDSE5fbGpaMXFoR1dteWd3VG80TlN0S3FYRHktbURMekRMMDdKcEpKNi02SXIwcXF3NHp3YVdnd1hZNlFCcWIzWFppdDl3QVBCdHY4c0JkS3kyOVo1N3NjUUtkS0Zxd2lLVlBwUndz0gHIAUFVX3lxTE9SMkRkdEJhSV81b0haQXRTX01mMXE0OTVsMXNVUjdMV1VfcUFCcjFRMXluckZ4ZGxpMDI1WlQ5QTdFTEVROXNyMHg2UTJ6eFVCeVJHbk56RGlrc21jV3JCcURKN3ItRHljWHY3SE1UaGZBenRSTFpjbDhCcGstX1REQXcyMjhMcXExeG1XR2pUc2xqT19PT2FaQXU2ZHlXakhlQ3ZhYzJKUVBCTjAybl9SWmhEZmZRNkNDTl9mbkdROEVGcV9xeVZY?oc=5",
-      "publishedAt": "2026-11-17T02:08:00+08:00"
-    },
-    {
-      "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdm42c29LOXNVREw1dWxnRVo5WlpBalQ1Q2N0a3NvYjVaNkRiVXA4NG9YZGx3X0drT2FVT3I1SGFMNmhaOExDbnhrWks2TXZDck1RRk1Hd3hRYlhReUxZOVhOeWppQmIxclBwZGM2SE9pTFZ2Rmc0ZkRsd3FTT3hvb2xjdFFzcWVJaEl3dUQ0WGUxME1XNWfSAZsBQVVfeXFMUGJ4VHFwbTd2OXhPRlFOUG5nVks4S0o2ckQyd2hTRnZ0cW8xR2xOVHFQVFZ0R0xQcVp3aFloWDZELVhPT2ZzcVJZdERud2R2R0kxMW44TmlPQ09QVU51WTF3aXQtR1RQc2JoMGdMWk1ZaWdSN3JYUHVLZk9BSDBUR0thaGZZbWVwbUVFUTRheDNYUkh0dVRBQmRKNFU?oc=5",
-      "publishedAt": "2026-11-17T02:02:37+08:00"
     },
     {
       "title": "‍(LIVESTREAMs!) Bulgaria v Estonia 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ free 16.11.2026",
