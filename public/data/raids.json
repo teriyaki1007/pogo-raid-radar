@@ -1,13 +1,13 @@
 {
   "meta": {
     "asOf": "2026-11-18",
-    "asOfLabel": "18 Nov 2026 ~6:30 AM HKT (Cresselia + Darkrai Raid Hour tonight 6–7 PM local. Gym rotation, eggs, and Rocket unchanged.)",
+    "asOfLabel": "18 Nov 2026 ~10:30 PM HKT (Cresselia + Darkrai Raid Hour ended in Asia/Oceania; still later today in Europe and the Americas. Gym rotation, eggs, and Rocket unchanged.)",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Morning refresh 18 Nov ~6:30 AM HKT: Cresselia + Darkrai Raid Hour is tonight, Wed 18 Nov 6:00–7:00 PM local (denser 5★ at Gyms). Current gym rotation is unchanged and still LIVE worldwide: Cresselia + Darkrai 5★ (hundo 1633 / 2041 Windy and 2136 / 2671 Fog) and Mega Banette (catch Banette, hundo 1313 / 1642 Fog) through Tue 24 Nov 10:00 PM local on Leek Duck event pages; official Twilight Wishes 1★/3★/Mega start Tue 24 Nov 10:00 AM local and may replace the current standard and Mega pool then. Standard 1★ remain Alolan Meowth (455 / 569 Fog), Misdreavus (1100 / 1376 Fog), Galarian Yamask (561 / 701 Sunny/Fog), Sandygast (705 / 881 Fog/Sunny); 3★ Alolan Marowak (1048 / 1311 Sunny/Fog), Liepard (1055 / 1318 Fog), Golurk (1630 / 2038 Sunny/Fog) — all shiny-eligible (Leek Duck / GO Hub / ScrapedDuck). Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current. Shadow Tornadus (Incarnate) 5★ package window is LIVE — weekends only, next Sat 21–Sun 22 Nov, through Tue 1 Dec 10:00 PM local. Dynamax Trails still LIVE worldwide through Mon 23 Nov 8:00 PM local (official: all previously released Dynamax except Legendary/Mythical may appear; Eternamax Eternatus Sat 21 Nov 11:00 AM–2:00 PM local — not catchable from those battles, candy/XL only). Next Max Monday is Mon 23 Nov 6:00 AM–9:00 PM local featuring Dynamax Espurr. Eggs unchanged (Leek Duck Updated Sep 14; leftover Wild Area 10 km event eggs can still hatch that pool). Rocket unchanged (Leek Duck Updated Oct 2; Giovanni inactive).",
-      "endsAtLabel": "Raid Hour tonight Wed 18 Nov 6–7 PM local · Cresselia + Darkrai + Mega Banette + standard 1★/3★ LIVE worldwide through Tue 24 Nov 10:00 PM local · Dynamax Trails LIVE through Mon 23 Nov 8:00 PM local"
+      "text": "Evening refresh 18 Nov ~10:30 PM HKT: Cresselia + Darkrai Raid Hour (Wed 18 Nov 6:00–7:00 PM local) has ended in Asia and Oceania as of this check; still later today in Europe and the Americas. Current gym rotation is unchanged and still LIVE worldwide: Cresselia + Darkrai 5★ (hundo 1633 / 2041 Windy and 2136 / 2671 Fog) and Mega Banette (catch Banette, hundo 1313 / 1642 Fog) through Tue 24 Nov 10:00 PM local on Leek Duck event pages; official Twilight Wishes 1★/3★/Mega start Tue 24 Nov 10:00 AM local and may replace the current standard and Mega pool then. Standard 1★ remain Alolan Meowth (455 / 569 Fog), Misdreavus (1100 / 1376 Fog), Galarian Yamask (561 / 701 Sunny/Fog), Sandygast (705 / 881 Fog/Sunny); 3★ Alolan Marowak (1048 / 1311 Sunny/Fog), Liepard (1055 / 1318 Fog), Golurk (1630 / 2038 Sunny/Fog) — all shiny-eligible (Leek Duck / GO Hub / ScrapedDuck). Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current. Shadow Tornadus (Incarnate) 5★ package window is LIVE — weekends only, next Sat 21–Sun 22 Nov, through Tue 1 Dec 10:00 PM local. Dynamax Trails still LIVE worldwide through Mon 23 Nov 8:00 PM local (official: all previously released Dynamax except Legendary/Mythical may appear; Eternamax Eternatus Sat 21 Nov 11:00 AM–2:00 PM local — not catchable from those battles, candy/XL only). Next Max Monday is Mon 23 Nov 6:00 AM–9:00 PM local featuring Dynamax Espurr. Eggs unchanged (Leek Duck Updated Sep 14; leftover Wild Area 10 km event eggs can still hatch that pool). Rocket unchanged (Leek Duck Updated Oct 2; Giovanni inactive).",
+      "endsAtLabel": "Raid Hour ended in Asia/Oceania · still 6–7 PM local later today in Europe and the Americas · Cresselia + Darkrai + Mega Banette + standard 1★/3★ LIVE worldwide through Tue 24 Nov 10:00 PM local · Dynamax Trails LIVE through Mon 23 Nov 8:00 PM local"
     },
     "legend": {
       "standard": {
@@ -2768,7 +2768,7 @@
         "pokeapiId": 488,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/488.png"
       },
-      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT (Leek Duck event + GO Hub current bosses + ScrapedDuck). Pure Psychic. Hundo 1633 (2041 Windy); catch range 1555–1633 / 1944–2041 Windy. Raid Hour tonight Wed 18 Nov 6–7 PM (with Darkrai). Shiny-eligible. Standard 1★/3★ for this window now published (see Alolan Meowth / Misdreavus / Galarian Yamask / Sandygast and Alolan Marowak / Liepard / Golurk).",
+      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT (Leek Duck event + GO Hub current bosses + ScrapedDuck). Pure Psychic. Hundo 1633 (2041 Windy); catch range 1555–1633 / 1944–2041 Windy. Raid Hour Wed 18 Nov 6–7 PM (with Darkrai) ended in Asia/Oceania; still later today in Europe and the Americas. Shiny-eligible. Standard 1★/3★ for this window now published (see Alolan Meowth / Misdreavus / Galarian Yamask / Sandygast and Alolan Marowak / Liepard / Golurk).",
       "types": [
         "Psychic"
       ],
@@ -2833,7 +2833,7 @@
         "pokeapiId": 491,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
       },
-      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT (Leek Duck event + GO Hub current bosses + ScrapedDuck). Pure Dark. Hundo 2136 (2671 Fog); catch range 2048–2136 / 2560–2671 Fog. Raid Hour tonight Wed 18 Nov 6–7 PM (with Cresselia). Shiny-eligible. Top Dark attacker farm target.",
+      "notes": "LIVE worldwide as of 17 Nov ~6:30 AM HKT (Leek Duck event + GO Hub current bosses + ScrapedDuck). Pure Dark. Hundo 2136 (2671 Fog); catch range 2048–2136 / 2560–2671 Fog. Raid Hour Wed 18 Nov 6–7 PM (with Cresselia) ended in Asia/Oceania; still later today in Europe and the Americas. Shiny-eligible. Top Dark attacker farm target.",
       "types": [
         "Dark"
       ],
@@ -3320,7 +3320,7 @@
       "id": "cresselia-darkrai-nov16",
       "when": "Mon 16 Nov 6:00 AM – Tue 24 Nov 10:00 PM local (LIVE worldwide)",
       "title": "Cresselia + Darkrai 5★ (LIVE worldwide)",
-      "impact": "Both in five-star raids through Tue 24 Nov 10:00 PM local (Leek Duck event page; raid bosses change at 6:00 AM local). LIVE worldwide. Cresselia hundo 1633 / 2041 Windy; Darkrai hundo 2136 / 2671 Fog. Raid Hour tonight Wed 18 Nov 6–7 PM. Shiny-eligible. Sources: Leek Duck event pages + current bosses + ScrapedDuck + GO Hub.",
+      "impact": "Both in five-star raids through Tue 24 Nov 10:00 PM local (Leek Duck event page; raid bosses change at 6:00 AM local). LIVE worldwide. Cresselia hundo 1633 / 2041 Windy; Darkrai hundo 2136 / 2671 Fog. Raid Hour Wed 18 Nov 6–7 PM ended in Asia/Oceania; still later today in Europe and the Americas. Shiny-eligible. Sources: Leek Duck event pages + current bosses + ScrapedDuck + GO Hub.",
       "urgent": true
     },
     {
@@ -3339,9 +3339,9 @@
     },
     {
       "id": "raid-hour-cresselia-darkrai-nov18",
-      "when": "Wed 18 Nov 6:00–7:00 PM local (upcoming tonight)",
-      "title": "Raid Hour: Cresselia + Darkrai (tonight)",
-      "impact": "Denser Cresselia and Darkrai 5★ spawns 6–7 PM local tonight, Wed 18 Nov (Leek Duck). Current 5★ gym rotation is otherwise unchanged.",
+      "when": "Wed 18 Nov 6:00–7:00 PM local (ended in Asia/Oceania; later today in Europe and the Americas)",
+      "title": "Raid Hour: Cresselia + Darkrai (Europe/Americas still later today)",
+      "impact": "Denser Cresselia and Darkrai 5★ spawns 6–7 PM local Wed 18 Nov (Leek Duck). Ended in Asia and Oceania as of this 10:30 PM HKT Wed 18 Nov check; still later today in Europe and the Americas. Current 5★ gym rotation is otherwise unchanged.",
       "urgent": true
     },
     {
