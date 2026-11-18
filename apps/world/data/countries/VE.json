@@ -1,7 +1,7 @@
 {
   "iso2": "VE",
   "name": "Venezuela",
-  "updatedAt": "2026-11-18T05:05:55+08:00",
+  "updatedAt": "2026-11-18T11:06:04+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "ICE detains former Venezuelan boxing champion Jorge Linares in Texas",
+      "source": "KRDO",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUHlfaHR3WldvOFBBMUpiTFNlYkJOd3NHYkJfNE5lZGJ5Vk5reVZBSFJTd1dpZ0F1Yl9CLUx3eHdHX2VrenprVGZEMjZkTGEtMWNocnJqdkYzZ0VRMDV2WFlhRGFYcTlMM0JwM0xGcXF1c29RS3dnc3BFTDZWd1NhSTRaZmN4bURvZGVOeXdZZXQ2TDl1Nk4tYmdpQ3VVMjhhNExuaE80MTU1Z0pQSjhPNVFBNE50YkhtVFc0a25TRUFHc2RIaW8xR1N3?oc=5",
+      "publishedAt": "2026-11-18T09:37:17+08:00"
+    },
+    {
+      "title": "Venezuela Lawmakers Back $26.6 Billion Public Borrowing Bill",
+      "source": "Bloomberg.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ2RrN1pyRjVkRUhjd0N3VE1ncXFJV2UzdGpYTXNVc2dRdjIwLV9wZjZLTk0zYU5na21MOXQ4eG04ZTlDak05YnhJbFlVY3ozdXBFLXg3Ty1BcVlHcnFyWk4tOUs1dFprSnFfLXFCTUgxMnh5aDVBWG44QlJ2NjZuTXBGWDZFVXItMldzaW11T2dEeDg3TUdPZ2FPRXVsN1IwVnZEQ0VLTE5ySjdiX1dj?oc=5",
+      "publishedAt": "2026-11-18T06:25:28+08:00"
+    },
+    {
+      "title": "Venezuela: A Roadmap to Recovery",
+      "source": "Center for Global Development",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xV1ZVSkR2Q0Q2WDJjVnRaSlNWYm5nVnZJdVY4S0libDBIQUtoeE9jeTRRQlpYMVVuY0JYZHpRVjl4MWRWblBxNEwyOEo1UVNuc3RJS0xQbXZpeTkwLTBfa0JhdDNMQTZxZDdhXw?oc=5",
+      "publishedAt": "2026-11-18T06:10:49+08:00"
+    },
+    {
+      "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ2k0dlhuRFlHWUdlUVNHd2NYMnFYNDg3dzhJeGd0UnBmU2o5ejVtX09ia2FPcnhPOXJILTgxeV93NHpRc1hsVi16MTBpampINnNYT3hTeGFQZXJXQzhubmZYZGplMmdfUEV6dXE2MjdyMnNCVUJoVm85N2tQdzRuTlE4VkpvOTRpdXlmaTMtanRxWFhQWnZHX3ZXdWRqbE4zZldXNVM5UdIBrAFBVV95cUxNNVF4NlRlclJRODN1SzBOckVCczJuQzYtNmo1ZDhkd3RzZDRNQzVMZUtzWWJFOEJ0UklTeEZPOW9ja1U5OFBhRnl1Mnl5MnVwbW5nOHplWGwxZFdJaUd0em9wdjlfdGxOcXdEZjBlYW9iaDZsOTRhZXRVazY3OEhIbkYwblpNeG1wRGRIWmVUUktyUG43bFM3XzdRZjVRanNYaWhfNWlZNXFJUk5I?oc=5",
+      "publishedAt": "2026-11-18T05:28:34+08:00"
+    },
+    {
+      "title": "Venezuela's court shakeup: 900+ lawyers eye 32 Supreme Court seats before Rubio's deadline",
+      "source": "Latin Times",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQkVUVnlobzR2aWN6MzNGbHNqa0dQMzZHNGJaTkgwMnptc0lzT3dvZ1lyOHJaTjNrdVJBaHJUc2xkalJFakJ2ZzhDM2pWQ09uRHFjeEF1Mm5lUENITWFaOTQ4TW80VVY1MTcwZjlFT2FJZEN2SF9zZDNHTFlvbDhIWEY4aVNXaGFGVDFBNVRXblF0Y1lOM2NCSnEwWG5PaGJNS05N?oc=5",
+      "publishedAt": "2026-11-18T05:11:17+08:00"
+    },
+    {
       "title": "Venezuelan workers announce 24-hour strike, protest at Miraflores Palace",
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSWo4MmRaZmpqbUR3VkJPSlpqb2ZVckJUMTRNQXJmdnpFRXJFLXFscHluZm42QjI1c2dIaWVETHl4NmNRMmJ6Qlcwanpydi1qWE40OWdrRDNPLUtxSVhiZFZKMkdodTRrX1RPUldBY2taMmZDS0R1UDhyRzJGMU5GeHdLTmd0eWgxRlZJbkdzWEJZSEx3dEpWX0E2cEFadWNKNDJPZC10TjJPQWpKdkE?oc=5",
       "publishedAt": "2026-11-18T04:38:28+08:00"
-    },
-    {
-      "title": "Football Union of Russia vs Venezuela: Friendlies stats & head-to-head",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBIVTdlTlRNRUVmLTRXT1dBMWV1N3VuWkRsOV9DTTE1ajFYR2R2S1ZhaFljcHlmbjV2WXBXd3ZGOVZpREM1c25KREZoX29jUE5HUzVmai1UOWlVRzlvdjJJNUhiUQ?oc=5",
-      "publishedAt": "2026-11-18T03:41:37+08:00"
     },
     {
       "title": "Democrats are preparing multiple probes of Trump's Venezuela oil deal",
@@ -49,33 +73,9 @@
     },
     {
       "title": "Russia Venezuela Soccer",
-      "source": "WV News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOW03N2gteTByZWluZGtvbVdsRWhBX2VPVTVTVXA4NHJYa2c2c3dHYzBZMmQ5eTVxQVVyRUxlM0RfWnZKMl8xWnlZZV9QY0RBd3dDOVlOdDJMbS1OUjhISDl0R1JDLUdpYXVsR2h4UjB1ZTFGRU1sbzhLTWhoYXdMS3dTQlBseTFVeXUxZVNIMnJDTnp2RHAtcnp6eGMyQjYwQi1PLTFBc1U?oc=5",
-      "publishedAt": "2026-11-18T01:10:31+08:00"
-    },
-    {
-      "title": "Democrats Target Trump's $100 Billion Venezuela Oil Deal",
-      "source": "Crude Oil Prices Today | OilPrice.com",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcVdpX2xvbGVTRU53YTl6N2habi1SdTFXZVVwclV5UWpqcElzZUJ4Z3dKUlgxZm0zaFFlY2hzbFRwZkdBeG9zUlEweFVROEMxR2t6d0JVYnU3UEtLa3E2Z2VNa2NteFJmYWJWUE9vVTRQVkpPd3paNkNhVlpMQmh6ZGk4YV9aSHJ1Si1yNllqenhjNjVRVURCX0tHazhyYjhXNlBjMdIBqgFBVV95cUxQclFtVXN5U09OYWc0c2YzRXRTWmlvMDdFT09KT1ZYdTZ1WFd6dWhpbVNmNE12NFpYVU1Mc0duRzM2MUJQVW1EdlYxM3dHR2pIVmhmWmRVTHYzWFVCOUZZdmZuWTJ0ZFZlbWhVbmlOTDNodTZ6YWd4VUhoOTAzUm9vLWQwa29hNVFUUF9YWUtYdEFaNVZ4Y1ZSOWtRMWVEUzc3QS1PanNZSnpidw?oc=5",
-      "publishedAt": "2026-11-18T01:00:00+08:00"
-    },
-    {
-      "title": "Sulzer to supply new distillation column for Venezuelan upgrader",
-      "source": "ChemEngOnline",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPODk0RC1vdXRhd0QwTElBc0kxTFJxV3RVbnJEYVFMc0VUNjBBTW9TY2VzVW5Pa3NaQUItaUNRVEZwN3pvRm1XQzBsYkppWHQ1ZWplRk5QZmZVZjRYd2tHdVBTWThQd0kzLXcxZ1AwS2pxenRJc2duQ2RCYlUtNGd4SV9adjNYbGt1N0EwODlDZGdaYm9GLUVSdlQxRQ?oc=5",
-      "publishedAt": "2026-11-18T00:58:22+08:00"
-    },
-    {
-      "title": "Venezuela uses US$12 billion in US-supervised oil revenue to prop up the bolívar",
-      "source": "MercoPress",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSGxNWkZTTHRwMi1FLWpCYUFqYkVkbk5WVTFVZmkxVTBUWkgycmNVaURSbFhrQ3lKSmZwY0JEUEFKajRDbklHdUJHSllJd3puWTBJaVdIT0NvMW5NWTZKeXM3NG1Nemh1R0pINjVlY211YUwzVld2akwyNE9ZcnU3UTRoSDYzd2tGQ3RPM1dxeGswOXpxa2dwZDc0bzd0T2NuTHB6Mk9ySy1uOFNlem5FeU9XVnV1YUVX?oc=5",
-      "publishedAt": "2026-11-18T00:30:00+08:00"
-    },
-    {
-      "title": "Russia vs. Venezuela (17 Nov, 2026) Team Stats",
-      "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNWZ1SjdjR25RUlVCejdnVHV5aGlVMHdEVlZwRE5OdmNnV3dRYmhBOEROUUUtd2VycURVZ2xlWWp4LXJPdXpvWmdGRHA3TW93X0NnX0JCMjBRcGpHd0dfNk9vVVRJbUNmcHFJZy1fNXowREFseW51bG40RFZaNXhQREpDVDFFRzJ2ZFE?oc=5",
-      "publishedAt": "2026-11-18T00:19:28+08:00"
+      "source": "itemonline.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON3B5cFN4ZnJOOFAwU0xuVjhhZWVFTTN0TnZORmRiUlpKbGJjbHZ5bVluVDhZQnE0WUhDalEwMjMxcUpmOFpuQWJ0emhJRWM3NDFZOUctX20wdGFRWjBWNjlkcnh5dS00UkNhLTlOcDlHS0w3Y3BmdEtXeE1sNml1Zy1XVVZSVWptQ0o5alJmZkNnVlBQZ1plc3lseFhyV1ZRMF8yV25aaUNSTEJUM2xCSk9fdTFQVG42LWt3LXpn?oc=5",
+      "publishedAt": "2026-11-18T02:03:17+08:00"
     }
   ]
 }
