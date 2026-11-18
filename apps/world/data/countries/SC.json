@@ -1,7 +1,7 @@
 {
   "iso2": "SC",
   "name": "Seychelles",
-  "updatedAt": "2026-11-18T17:05:44+08:00",
+  "updatedAt": "2026-11-18T23:04:47+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "Young Seychellois entrepreneur aims to build multimillion-rupee technology company",
+      "source": "Seychelles News Agency",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTTZENEE1T0pFazNqYzFfeG01Z1AxUGlrX3F0cnFZdmd6cmR2ZTlWcDlkOU1YaE5TTWkwcWZvcnJNWTBlNjNEbTd1SG0tbi1nTk9VSUg0WE9idEdmU3Q5OExwTEVrbWU5eXkyVFBKYVZOU1F5T01IN0pjQ3B5eFF3Y0s0QnQ1NUxBUVFkOWRrc2lRZDFxSUtzbnNZLWd6WW82ZE1nakJyY2U3MVhSeDRNM0VhS3kxRnNaOWRMdXI1YWR5OTByRHZDbTZzWGROelJaOXBZSnJRNUc?oc=5",
+      "publishedAt": "2026-11-18T20:27:43+08:00"
+    },
+    {
+      "title": "Seychelles urged to introduce national cancer screening programmes as study reveals late diagnoses",
+      "source": "Seychelles News Agency",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVTR1UWF5NmJNRTlzcE5wcjdfb2ZzeGNZRnJaMW1YUmRrWnVpZ0tQeU92U0J5c1J0QjdrR1dIMDAtWG4yamFPVlVITzVWTnlZakNST1FGQUhaNXM0cFFMZ1cyMWprZWdxX0c1X1RLQlJGTkY1T0dBdmlrYzJRZjhlVUdLNUFFWmJ5YS1xX3c1dzRvYlMySExWQTZ3RmVzeE4yMklUU1Z1RldsQUc1WEJiRXZ5N1FmdklJQU8tN0ZiODVfRGRoYXYzMjYzX29ST2picjBwS3ZYaldZZGttbVR0MkZVQS1YaU5NLTRnYTBB?oc=5",
+      "publishedAt": "2026-11-18T20:06:29+08:00"
+    },
+    {
+      "title": "Seychelles Calls for Greater Global Support to Protect the Ocean and Advance a Sustainable Blue Economy",
+      "source": "Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWlpjUG9aOGhPb0dtTE5MdHlESFpDVksya2JJOVZoVUQyNUNyU1RXZk9LRHNETWV2U2xNTnM3dkd4LS0zZ2NyNjhRVnFVekpBQWFKVTF1NHdHY2pPVHlRUTJIeTNIdjJTR0JkVXFST2h5YmtBdDQ3Sk45ZXBmbEpNY0JVcG5sMkdYRXVkNV95R2g1QnV1ZkNDNVA3OGNPNTZzcGk4ZUl4M1U4QUZIeGFkZEV5RmZPVHhSNHRJZUZJM1Z0cGIz?oc=5",
+      "publishedAt": "2026-11-18T19:48:47+08:00"
+    },
+    {
+      "title": "Guyana and Seychelles sign Air Services Agreement",
+      "source": "PravdaReport",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVlJ5Q1pONDlmdXpLdFE2SURQYlphTW5SNEpRZ3VTNHZFenk4c3BIU3lqWV9QbjNhUk5lTkRuUFQ2T0pJLUd4ck5BNUlvSzNyTnhianpHY2IzOEFrUTVfNVVXTDBiT0tIU1RzMlhRMlViMk1OY3dfQ2tSNEc4OVFfT3BMVGRlX3FkN3g0d3dR?oc=5",
+      "publishedAt": "2026-11-18T18:33:00+08:00"
+    },
+    {
       "title": "Guyana, Seychelles strengthen ties with landmark air services agreement",
       "source": "Guyana Chronicle",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0RpYTh3T3B0Vy1vdUxfUk5jV0JSVFZZY0cycTJyaUNFNm9LQjVaSGRKb3JvLWlzdjNPSnU0Mk9YTllJR0lQUWlFSmhzci0ybm5NYTZCZjcwUzFaUDJfYTNmanFNQVBsSmVMRWdoRWFOc2k3OW1nMHhGTUhTRFZKR2R2emUyMEs1bVlkN3VQTGFDMlA4UjFNOWExMjgxUkV4NFRSbGtMaDVpVE95TDd3?oc=5",
@@ -37,21 +61,9 @@
     },
     {
       "title": "COP31: Seychelles Joins African Ministers in Strengthening Africa’s Position at COP31",
-      "source": "Zawya",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUVlycUZNOVJwWnVwSkVxQlZ5YzJ0bU1xQ2h6WTc3OXJpeVQtYkFERDJWbWxObjNsYkxVMDAtN2R0ZElCNHY2RDJVbVItaUNjajRHZk1CUzRnanV2RWV6S1VxTzFtOEI2TmpXSTFQVGE0OGZQcTJHdjRKUTNyT0ROWmZlTjVrOTZUNFBPUDFVaTNMQWd1VHZmTFZ2eW1MeFVfQXVQT2lmRDNZN1hua0ZLc2NJaHUyazFscVNLdURxYmF6REo1SkMwN1N5SlBvN3g3aHhsQ3pxcGlxVUdXeEM2REVkS051bTA?oc=5",
-      "publishedAt": "2026-11-18T15:31:00+08:00"
-    },
-    {
-      "title": "Ambassador Accreditation: Seychelles and Hungary Explore Cooperation in Education, Health and Water Management",
       "source": "Africa.com",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTThCS2JPckVYSmUxd18ya0UtZ3hvSkw5bWh4LXRLWl9xZVd4TENoWjJoY2J1QU40dF93by1xb1BBWFRIRU9IRVk2Ym9MZGoyTS1aWlMwNEh3dnRPRlV2T3BSS0RqOURHd0RBOVFVSlc5QmxNbnYwQTZRZ0FPN2NlMlAyN2hDZ0hKMVdGWUtUb0Q1bF9waXdMUWlmQldEWk05LXF1T0YtZGVzbmw5RVRFQlBESm56dUhzWHFUWkRGRk1uaTJfLWlVTklMQQ?oc=5",
-      "publishedAt": "2026-11-18T14:41:57+08:00"
-    },
-    {
-      "title": "Seychelles Made label awarded to 4 firms as Herminie backs local goods",
-      "source": "DNE Africa",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WRWVld2RsR25vTlN0UUl0a1pxVlh5ZVJBejFHSXhVYV9FbU9yTXVMMFFWZ3RUZW1pOXlnY3RwQldrakhWVkRVeHdXZ0p4VV9xaGFCMENRSThtN0YyTTZEOUFXcWFFNnhpOXBLY0t6SUhiMUJTUWFwV2N0Y2w?oc=5",
-      "publishedAt": "2026-11-18T05:58:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdjIwc0VjOE9GUG1xWmN6YkN1RnZvM0dLY3V3Z0o5OUZtcURqclJYVDdWTG9WbU5xTnBFUENJWDJPZk9nR19kUGFJZHJVODZ6TmxjaTJja0F0ajNoMXBXSVloVmdwVDNuMElCYmlobkZOUGQ4S0t4XzUwQlZQcGtSUEMza3NhYW1YTU9CcUx6LVpWMmMzWm1SVnM1YXhKXzk2LXc?oc=5",
+      "publishedAt": "2026-11-18T15:42:31+08:00"
     },
     {
       "title": "EXCLUSIVE: Jan De Nul launches land reclamation program in Seychelles",
@@ -64,18 +76,6 @@
       "source": "Soccer Laduma",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUWRhZGtuc2ZHU29vVXZGWnJMNEh0dFNjUVg1cTFWaTdlX293UWptQ05MWFg0S3JvZUhBLXg1NmZfTjFkMFZwVlhkcXpLcjNURnZiWldsajU1XzNKSmlPQ1ItUFc0eEo1MkN3OTI0bERKMXRYWHZxUzMtQk1ONDBEcE1uMVhzUVgyTEhlRQ?oc=5",
       "publishedAt": "2026-11-18T00:15:00+08:00"
-    },
-    {
-      "title": "Seychelles-EU Partnership Dialogue: 5 new EU ambassadors to Seychelles accredited, outlining cooperation priorities ahead of talks",
-      "source": "Seychelles News Agency",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxORjctUFdLX05OV1F3YkFMM1VXZjQ4QjhVMTQtLUxvZFJJaGJvZFlSRVRsc3Q5VlczZ2NlWldpbklNaXJVcDBSTU1qaW1mNHNQc09idlFsd2hoZWZoTW91ck9aY0N2UXhsVzh6UDEtZ2dFQjg0VWxjMmNFNlJfWks3akV1SVNXVmxFcE00YjRPc0tLRzFNNi1jOVlsOUJoMHlZTmVQUUJuSXJuaXpkQkhFMEh1WnZuRzlOWkk1ODBpc2NFcDhkclcweWxZbTBXM3RNR1Q4UTNRTWNxSTJTTXplWGVZeVRaUU1MQmVIVXVsM2Z4dDhlVzA3MDkzMS1QeHFaWUFpTTZKOHhvSVI5YjRLelJYRVhldw?oc=5",
-      "publishedAt": "2026-11-18T00:12:04+08:00"
-    },
-    {
-      "title": "Ambassador Accreditation: 570,000 Square Metres of New Land Headline Seychelles–Belgium Talks",
-      "source": "State House Seychelles",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRE5SaVRycGdQY2NPaHZMUE1XV3JaTkViT3VYUFR2RHZVRUoyNkFoLVZfMERqaHdYdzVPUkxmeWJvdlZDa1dqSWxOYXBNSi1aRUZsWWVBbFVyUENyTWRud3Z5aDRGMXhPZm14SW9SZnZXUHE3cG1nOENlV3BCZTNEVHhvNEhJVXRpM3NVV3pOWklwRTBGN3puNHRVM3JoVHBpYkp5V0xfbW5udHlMcG1TVV9EYThWc3M3Y2xWc2RDX0x5SE5wcUE?oc=5",
-      "publishedAt": "2026-11-17T23:48:42+08:00"
     }
   ]
 }
