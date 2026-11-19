@@ -1,7 +1,7 @@
 {
   "iso2": "LU",
   "name": "Luxembourg",
-  "updatedAt": "2026-11-19T05:08:19+08:00",
+  "updatedAt": "2026-11-19T11:08:59+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,28 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "GFTN Partners Luxembourg Fintech Hub on New Private Wealth Forum",
+      "source": "Fintech Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSGpPZjByS1VZRVlrR3RhVmpMSFR1S1RLUTRQTVNad081R09NdzZJX0k1MEhIcFlTWG5qUEFNMGc1Q21zNm9uSC1xM29wM1hoN3JLd0lXVmRBMm5HUXJ0QVRsTUVfMEpFWnB6OTBYUkZkWGpjS0VXSTR1ME9mcTloQzl5cWhsQWtIWkZaejFaZHgyOFVtTUVfRng4RlJOZjloVkpXRmRIX3I?oc=5",
+      "publishedAt": "2026-11-19T09:49:32+08:00"
+    },
+    {
+      "title": "Grand Duke Guillaume V of Luxembourg at Buckingham Palace",
+      "source": "The Royal Watcher",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaDhSWXZrUW5qdko2NEJUeDNnSHFIOUJDUU5zbnNDWUUtdVR3YjJTRGVfTjlPZVgtSXVZN1B6VmdEd1VNMW9lSDgxMEpTZTVDS29JMkNXOFJrWVNYVURoSGdfZE05TlE0UGZvakxkdnQ5SDdvbnY5ZFJ2ZW02eXNMQXVoaTZ0aDhUV2liVW9kbWFGSUNDSTRwYTRaSUl6NkU?oc=5",
+      "publishedAt": "2026-11-19T08:01:33+08:00"
+    },
+    {
+      "title": "Surge in vasectomies in Luxembourg, with men in their 40s leading demand",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZS1OLURtZE9BeEIwY0x1MkZ6aU5oN1YwSWxfX2ctUDlfUFBnWGlBSy13Tlh1WW9YeG1nTEVoVzVMdXIwLXFQd2M4Xzd0LWNDeDNWMUdFZFl5RXFGOXFNeHlJM2M3eGwzR2ZRRzZUb3o3WmlHaXdvREZ1aDR2ck5YZVJhTHhnUFliMkh3S0RiQjFLcnJ3WkFHeGF5dnozOGtxWXc5eHNxb195bFRkc2ZTcXJwb1hZSUFpWk83VVNB?oc=5",
+      "publishedAt": "2026-11-19T07:30:00+08:00"
+    },
+    {
+      "title": "Pictet Asset Services makes two senior appointments to Luxembourg team",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQXF1ZFJ4QkNoZlpMNlkydTVLN0U5Z1dQejdQSlBRMm9pa1RMdkZzRHFlcmx4NkZjcS1hZzJ0R2laYW1NSGZLQmNiTzhkenljM1pHYzNkMWlLb01QUE94aU5NZURtMU1IYk9za2FwdF9fei04bk8tQ2hPV0pmdFM5eDQwZWJUUTl5UVVBVFA1SFFibnRhU0RKb0w1a1BCS2stQVI3RXpvRkN3aWUzMVZmSS1MRDNqbTdNcmZka2w4c1k5d3R1aTNj?oc=5",
+      "publishedAt": "2026-11-19T07:30:00+08:00"
+    },
+    {
       "title": "ESMORZAR: a free exhibition about embroidery at Slow Galerie Luxembourg in Paris",
       "source": "Sortir à Paris",
       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPaVV5SjVuVXA2QUJRQzRDRG5HV1oxQ0hWLUlSN2lvTzY3ZmszNG94OTdQUXpJanNYdC03bTkzeVZrYUtMRHhDUXBKSVI4akd0VDNmZlNnZlIzdGFUUWkzQU10eXhUazRUWTdkZXA5M3QxS1ZoN0puU2h2cDVOdFU2VU8zN2d0U3dPVVZlU1dUZnRFdnhYQXE2RUZuSWVjWGt3X3hQWTEyVDMwQ3Y1TU1tT1RlYWVDVldXaE9LMnNPSnhQNkJUMHJxS3M3Q1d4ZUFvYXVmVU1TRllzSWNVbkRNZ3U3dTJveW5WQng3ZWlydDJSWGJEZ0syaA?oc=5",
       "publishedAt": "2026-11-19T03:40:34+08:00"
     },
     {
-      "title": "Luxembourg to build new public European school in Redange",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUEVnRzlrMFNwZ28xaTR2ZHA3ZWJDdWxqc09fQTdhb1FUOXZyM280ajNiM1E1VEl0eERRclNvVTNBejhydjRRZzUwSW9yTTFnUmRELXk2SlFhOU9Hd3dxbDgwRGNVUW9kN2hVYWdYVFJRZWlwWTFaSEFtWTVBalBRTTl6QmR0T3RuYkdGOFJua1Z2TEticEdrVHR1YmNXYTlhSDd2MGJNY29OcTg?oc=5",
-      "publishedAt": "2026-11-19T01:40:07+08:00"
-    },
-    {
       "title": "RTL reveals the eight finalists for Luxembourg Song Contest 2027",
       "source": "ESCXTRA.com -",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNazZFcktRWGFhQXBVZlhvU2ZMX1R0Ti12cDBPbDFFdVpaUWJ0S01uUlptZmsweEpxNXRBV2tTc0pVN2FtWE9OU1lMV3BzZmg4SnpZUVpwUHdISi0tY3EzVzFoWmdoWEpsbHhrYnlRZHQyX2VCNk5yeDBOaEJYcElmRGNmVWxyQlc3RmZ4Y3p6TzIyMEtDVnd6bGlzWk8?oc=5",
       "publishedAt": "2026-11-19T00:55:44+08:00"
-    },
-    {
-      "title": "Luxembourg gamers cancel pre-orders of GTA VI after box comes without physical copy",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFk2TE1jWEtGd0Z1WksycXdVakRPX2tmc0VRMW1vWHVjak5TQ3c1aExUT19wMzFNNGlWbXFsZkdKa2t2amoxNk5OTG9FT1NCcmNtQ2o2RmNpaVpHMzdSNjlZNGhaNzhJVnFSalA3TW53MFhRZHNKd2VIbFItRzVWOTlfbVRJd01Vb1REWldHREJMc2MtVVlZVTVmdjZoUzFzVUJkUFUzd1g4SWhCQVU1QjI0bjRhSHZmazN6eTNQQjRFbU0?oc=5",
-      "publishedAt": "2026-11-19T00:30:00+08:00"
     },
     {
       "title": "Volvo EWR150 Electric wheeled excavator gets to work in Luxembourg",
@@ -64,18 +76,6 @@
       "source": "RTL Today",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMVZiOGtNVDE3S0xBXzdrODZ6dFFodVdOek8yWGFuMjdJaDRVV0ozMWRRQmZhTlh3cXdjbWxEYld2OTVWX3l2WGozZHh2MDBOUmcxSDlMQmxoaTRVcVFCVTBIWHhwRVhQQUVJcVBCeWtkR0RuRDQ5dzBOd3BXcC16RVkzTHNRM0IzcWoyNTRUTWR5bFI0UV81Q2ZxY2U?oc=5",
       "publishedAt": "2026-11-18T22:55:56+08:00"
-    },
-    {
-      "title": "Ahead of Rockhal concert: Heidi Klum joins Tokio Hotel on private jet to Luxembourg",
-      "source": "RTL Today",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc1V0ZHNlYjRtYzJGN1NQQTZDODh1bHVVNXlacmpNeWd1OUd6WEx1dU5tX0ZHeVZfak5HQXJqLUF4NlE0WWxmX21oWUlRdkFobHlBZnpJMkEzdldMLTN6YzE3OTBVQzN6OGRXYkVHOXdSTjhoMmp0RTMzeVBhQ3huX0h5OXNWY1RZdjJZaFIxQm1iamZ6M2pXaWtSdWpZMVpvdWxZRl9R?oc=5",
-      "publishedAt": "2026-11-18T22:13:11+08:00"
-    },
-    {
-      "title": "Lineup reveal for 'Luxembourg Song Contest' 2027",
-      "source": "Eurovision.tv",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNEU2bFdoSDEzMTFJVUk1VzVTTVZUWmw2LTJ4SVFjMHA0M2J1VnFJLUlPV3RnZzBJcFRMaHhhZkt0dGx4dWF2QjZCRFpYUEJtdFBRMFNZV2JXdFRNVHhITHk1b1dmeDdYRTJOdzFaZHlNVFl1R3hiTE52YjJDYUlCc1g2V0hmMDBfRHc?oc=5",
-      "publishedAt": "2026-11-18T20:40:00+08:00"
     }
   ]
 }
