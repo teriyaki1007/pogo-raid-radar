@@ -1,7 +1,7 @@
 {
   "iso2": "GA",
   "name": "Gabon",
-  "updatedAt": "2026-11-19T23:03:42+08:00",
+  "updatedAt": "2026-11-20T05:09:15+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Borr Drilling appoints investigators as cause of Sh26 billion rig disaster off Gabon remains unknown",
+      "source": "The Eastleigh Voice",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPejJldW5fNGhJcDlZNmNGV3pvZFo1UXRaODMycF9odm5ZOF9QYXhhTm1ETkRyWUhfOXFHUXFTWHFvNFB6ZmthT19mMWFKd0Z5OTQyQzFnOHJYa2lSaVdhZGFQb3hjeDRIWmZqczgyWlltMG9sN2ZmRjRBaHJ4dWxkSC1zRnlqRWI0Z3p1MWF2MnQwVkp1eGNRX2ltN281UURFZTZXT2d6c2dDaWREMjh1TndCZDd2QXBSYzhnQ1FDamdTRVd6YzNnLXlIQjljZTBLZ29YaW1rLVFaSjQ?oc=5",
+      "publishedAt": "2026-11-20T03:59:19+08:00"
+    },
+    {
+      "title": "Cause of fatal Borr Drilling rig sinking off Gabon still undetermined",
+      "source": "Baird Maritime",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQODFKUngyS2xhSFVjTklzRjRFdGVJdk56VXdtSGRSS3ZocHlaUVpUZnBocmZaYTdXTXN1RHN3dEQxdkxzS2ZvN0cyd0dNSmZLcUpBRkFRazUtNE1veUJYNHRKRWppY0ZuVmt5RUxDZ1RWZWV0MWNoZE82WXFZaGkzd2JMUlQyS3JDdWhOMmhaNXFYM3R1LVU0Wm92bGlOQk43M0UwUEpXRTVrYmotSGdxUGhodUQxNGY5aXNiOTR3ZENOSy1aNTFv0gHUAUFVX3lxTE5RM1JRekNQbXZaTW1WTmF1VExOMlRHSUFKd04wa3V6ZS03MW9aeTdZUmhfWHBOc2xDdkdsSHdOWUxYNmlpcFpCYjlaaFRRQUF1aUhVaWwyUjNFc2dlYzIySGNVTnMwbmlLdVVtdWZYRUNwcG9FcjNrQmZ5bHppc29HaEttQ1RqQ2xSbzg4dXk2ZnEza091Znp2NVVYTDV6R1hOY05nYUJZZEdMMHpuenotQTd6cHpfMWMySHBEUEJFRHNvZXJNMkJxR2w1bDhoTkl5MzNE?oc=5",
+      "publishedAt": "2026-11-20T01:19:44+08:00"
+    },
+    {
       "title": "Gabon Seeks IMF Deal Next Month After Audit Shows Lower Debt",
       "source": "Bloomberg.com",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXcxandTS1NTX3l6QWViWWxQLTNkd25Jc2ZPRTBBTU9RX0JrRU1GVVotRy1sRThhQU9ZckVtZ0tQZHNqcG42Yml5WUhjT0h5SEdYZlk5STZJbzNWMzZ0d3pLQXZPQ3ozWk5XeUhCMm1jLTluSTJrallWdnVueFpOeHVvSTR3NFpvRnMzV1lWT2lzR3k2anhyTXdaY1RPLXdtNFVkemlkenp2TGpqOFdtWg?oc=5",
-      "publishedAt": "2026-11-19T19:58:23+08:00"
+      "publishedAt": "2026-11-19T23:44:28+08:00"
+    },
+    {
+      "title": "Borr Drilling Says Cause of Fatal Gabon Rig Sinking Remains Unclear",
+      "source": "www.marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVzM2U2RWaEg2SDZxX21ndWdDVlZCcGRFNkR3V1JOaFB0b2RxZVdiRktuUEdIU0ZDaW9EOE0zY2hQVDROb0xBelJrUWJSTTgyV0F1T0dZSmNWSzdhRzlvX1dBTml0WDNKUlFzUTVuZFdhbHYzODFiS2tDSjdSOUxwLTBqZlV0el9MMU40eGg3a2otOEZkQmxjNE00U2V0bnBVQzdWdTlXZmFFRHF2STVpSFVaWUJqYlBQN2RSTw?oc=5",
+      "publishedAt": "2026-11-19T19:56:21+08:00"
     },
     {
       "title": "Borr Drilling says cause of fatal Gabon rig sinking still unclear",
@@ -58,24 +76,6 @@
       "source": "Dailysports",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcDhwRGhRdjk3U0RNVDRGeFhYdzMyQkpVQU1xMkxYOVVGUTg5OFJVRE9Oem5qQW5YSk1qTDJVRnBTZjh4UEN2QXZocFhfNGNPYjRRRjhmRlptbjU4ODNqRkRNRFdYTDV2T05UMlI1bzFGRkhIaUo2c3M4Mjh1Y1RPd29BNWRkX3VrSVNSZ3N3WGwxZmNaaWVlU3EyeTVmYUVCWHdCWGg1RVlrQXlzdVBsZjNaR01JUUtz?oc=5",
       "publishedAt": "2026-11-18T22:51:09+08:00"
-    },
-    {
-      "title": "Great Yarmouth rig worker stuck in Gabon after disaster",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40OTJMVkNvWG8yTEVOVEw1aFJYSEpveS01eUlUcTNjX2stSWszMFRqYXNtM1Y1RHVrU09vbm9kRW43MUMzRXJmcU1weFpqOV9Qc1daNlY1MkF2Z00?oc=5",
-      "publishedAt": "2026-11-18T20:20:59+08:00"
-    },
-    {
-      "title": "Wrexham’s Jacques Ekomié Plays Full 90 As Lesotho Hit Gabon Either Side Of Half-Time",
-      "source": "roundtable.io",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdHY1d2ZFb1pudTJmY29KU2dCc1lRQXo4dkNPdVlkdWZEU0xaRjN2dGNrVElBdjlYdTJwZEVUcG9ubEVLR3BfVHhGeTFpMk8xc3VZMjBrdlctWE9HY0xGSE9LRXJNb2ZJYmlHUTR0UldFVE85dTVPZjlja2FPOENad1N5SG0yUzY5YnZ2MFVOaFlqbVZ6aDhXWV9mTFFId2xJVlhaYjZfcVB1RWlCQXA0dmRnMkowVkRBbzRSbTUwYU82azJaQ3c3QUVWZEo1SlpRU3dhOUN6Ym1Mdw?oc=5",
-      "publishedAt": "2026-11-18T20:01:49+08:00"
-    },
-    {
-      "title": "Reps probe displacement, harassment of Nigerian fishermen in Gabon",
-      "source": "Galaxy Television",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalhScHpaVG5JVFduTl82RG1DOExMMU5KeWw1SjNIN0JHWnlZMGFHMGF3azZWVF9rLXV4UTdRZTdMSm00TFJiRjhySFk2VEVJWnc3UG83Um5RTUVFN1o5TTZsRHR3cUNuQ0pRMWxtQU13RmtiRjJ2N2Jqc0YwNDBxRk9valkteFZlY3ZpSFh4eVBxQWZqRHE0Tlc3MmdIaEtqeG4wcm5iM01tQ01JZkRV?oc=5",
-      "publishedAt": "2026-11-18T17:35:51+08:00"
     }
   ]
 }

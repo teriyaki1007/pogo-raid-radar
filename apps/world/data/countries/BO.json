@@ -1,7 +1,7 @@
 {
   "iso2": "BO",
   "name": "Bolivia",
-  "updatedAt": "2026-11-19T23:03:42+08:00",
+  "updatedAt": "2026-11-20T05:09:15+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,22 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Bolivia's first U.S. ambassador in 18 years will be a CEO — evaluated with KPIs",
+      "source": "Latin Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaTJQQ1owVzc0VGJSWTdwbUZTWmNBNEFwZ2JCSU9ldVZpRzJPVVlxSnBMVzdMQnFVRGpsbHhDdS1QU09JcDBscUFFX0QybWctU0JyQlpFOFAwcHdTZ01OVXlqNnFHeEJzMXRNNTA3SUlQN2pTbXF5b1RETmtNMDFVWE81RzZuRzJEb0xxX2xENnVXU0NxMlRuOV95Ulg3ZFNaTXhyYktpMGhVWll2YkZOZkx3?oc=5",
+      "publishedAt": "2026-11-20T04:43:55+08:00"
+    },
+    {
+      "title": "Bolivia hands over to the United States a retired colonel accused of drug trafficking and arms trafficking",
+      "source": "Demócrata",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQeUl4ZllZR2xMbUNVM3FDY2ZZMUE4Yi1yVE5PTHp6eHBMbHB4b0lHclhaTElJNUtSaEo3RlozSm5ZQ0x0Wml2YnRJWUx0YWJfTkw1Zkd5WHljNEs2RU9EQzNuTERpNmRMU0NGajFFVmRyNklKUE5ZTzFYUG1zM19VYVJsdW55UHhBTWN3WVJJdjg3VWE2bHZac09iU3hYNzFXT0c3YXJjVU9LRW5iNC1LNC1NR05idUF2RUY3NzEtMXRrLXh0YUx2cHRMdEhYQlNHZTM0WlNNaTZoQ3NwUjhQbU9WMNIB6AFBVV95cUxQS2ZXMGxlaUtSYkdSS0w2Y01qQm9nbDM3c2pqRnNWVjM3WjhMamt0ZnZCRmk0YlNDMWF5c0lqU2x0eDJuQjlxTl9aNGc2WnZyZlU1QXZiVHc2NFpTNC1Db0xLbkd5eE9BM1FsWTlub3VfcjJnRXZDZlpEMjRjX0FsR3B4Mk5jMWc1d2M1LTJhVUk4VFcwNzdXWDU5a0g5UTV4Yi11LWVkbUlEMWpUSThpNkxVS3EySWZOYmRoRlVVSmRWenNFbkNOZkV0a1RPeU0yZi1kMmhFZTZ4VEhkd3AtenMtaENtN0p6?oc=5",
+      "publishedAt": "2026-11-20T03:06:45+08:00"
+    },
+    {
+      "title": "Colcapirhua in Bolivia Launches Permanent Collection System for End-of-Life Tyres",
+      "source": "Tyre & Rubber Recycling",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdXpiLXBDaDN4ZnQwZ3duRDdkUVh6b1dxRUxvcUs1UzBqX19iMVc1TXlneUw2czMwMVlsalBVX0dxT1ZuM2VEWjhQRE10WU55eEtNZVNqMTNGZC0yRllHQzlaVG5Lck5sWUhlZ18wRnVReUs1MHZRWjBiY254X2FNVFhFSFQ1a2VGTFMyWDIxVzdjYVBLdHI5UWx4RHhMVG91cU51cWJ0eUFFdHVqd3N4d25tTmZKQ1daQ3RqWDhMRHFCUURaajhnQWcyZHlFelltX195X3JJaUpEZzVt?oc=5",
+      "publishedAt": "2026-11-19T23:34:50+08:00"
+    },
+    {
+      "title": "Light mag. 3.2 earthquake - Potosi, Bolivia, on Thursday, Nov 19, 2026, at 10:59 am (La Paz time)",
+      "source": "Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUDhZYUdmN25NakNJODRUbkFTV2FfdkIyT1dKbnFlZGVIWFU1MXNuSndwRnFMOEdYWG1CemFJSG9EY0s0bExGSFg0VDdPVUJKSVhMM0MtaFRyWWJtU1lORUVMZWcydVdCLVdZN0ROUzZnaFNFQnpzMElzTk5CTlRENmtUSWQzVUUyelB0VG9LbjlGdGt3R1F6bU45WFpvb0ZHNFpaOFpGcWlSQQ?oc=5",
+      "publishedAt": "2026-11-19T23:05:00+08:00"
+    },
+    {
       "title": "Camera Trap Distance Sampling Reveals High Red Brocket Deer Density in Bolivia",
       "source": "Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQckZaTS1YLWotWXRFYmtRcnFtbmMtUmx2clM2eENQQV9OOUxSc2tYS2ZSYWpsZlNra25QX3ZKZURYT3NXVDFRd09pMjBScFBJdTJlVjFXY05OR3BUS3hWQ0pxajZJcExjQzZaczRQMGRUTUtVOVRQSHFCcmlfQ1BWLUJMRUJhWEstRDk3SXY3RjZ6UlVLbHVhdkhnWU9xN2l1XzkzVVBB?oc=5",
       "publishedAt": "2026-11-19T22:45:03+08:00"
-    },
-    {
-      "title": "Bolivia launches EPC tender for 40 MWac solar project",
-      "source": "pv magazine Global",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWGNtRk9GWGFRenpqUEJTYXNmX1EzaEhCUFp3N3FMNllCTk9tc29DMS1zS1R3WHd5aUx2eGs0QzhqODJ0b2dHa1hjQ01mcGZ2NUNVQlNCNEd4M3pJSF80Wjhaa0NoaUVqRnFlY0JLblJiTTctM01sbnpGMXlCUEFyYXByS2t0TXlhdWtxLW84cnplODYwOGpxZQ?oc=5",
-      "publishedAt": "2026-11-19T18:45:03+08:00"
-    },
-    {
-      "title": "Light mag. 3.7 earthquake - 167 km west of Villazon, Departamento de Potosi, Bolivia, on Thursday, Nov 19, 2026, at 03:35 am (La Paz time)",
-      "source": "Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdjFzMTFjak5rbi1xWk9PcVh4UHp4TTh5TW9meVMzUWU2RmpERVJvUjRSSmw4dVNlS042V1oyd0wtM1lGWGJpRFcyS1BhZnlmNHJhTlZPVlBCLXc1NFh5QzNYVDhpZWNabnUyQWtOZjVoT050bjdRTDg3RUxJQTJvN3RMR1NVdHR3ZHR6ekRES3F0Z1FkVnV2RlpSNDFySEVOd2M5VGhaUEM5TlpEX29uZkNUOXU3d0NxMWpj?oc=5",
-      "publishedAt": "2026-11-19T16:16:14+08:00"
     },
     {
       "title": "Weak mag. 2.6 earthquake - Potosi, Bolivia, on Wednesday, Nov 18, 2026, at 11:09 am (GMT -4)",
@@ -64,18 +76,6 @@
       "source": "CANCILLERIA :: BOLIVIA",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lZTVkTkRpNENpUHN6NllRWUhpZl9UcVdoVTFDdVZjT3VDN1pFaC03dW8tVlR4d3VGNHRvZ1hDdUhmb0hiMnMzYm1CWHlZd2p2ZHVDa2ptVUdXR0gy?oc=5",
       "publishedAt": "2026-11-19T05:31:20+08:00"
-    },
-    {
-      "title": "Bolivia's VP flies to Fort Lauderdale to court investors at a 70-nation trade expo",
-      "source": "Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUUxFQ0JUQVZFV0dZbFpSQl9nN2E2cXc5aGZieHA5cDE4enUta3d1ZmZ1cVFsNF9sUE1xTERiVUNYU1RRNFB3Tm1iS243dldPZV9lalZ0SmJYX3MydHpncHhSNzdkYTRpangyQVBQcTU5eTRIX05oUHRkZlhPcUdvNkkyZ3doc1QycGE1cnl1aVlXUGFybGlUMHFueFNkWUViNkJFNVlVcVd5ZGJncTBrVnBPWQ?oc=5",
-      "publishedAt": "2026-11-19T03:06:49+08:00"
-    },
-    {
-      "title": "Bolivia's Madidi National Park shelters 99 bat species, including 7 new to the country",
-      "source": "Phys.org",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92Rk02aGJfTDhjaU1xMFBid1VDbUlqTVllMGM0WlQ2Um5iUmRnM0lic0todl9Wd0VOdGlsbm04eE1OVUh4ZEJwczhyeU5tM0RpSGN5MjNuMEI1RnhkVFZ4aWtZemZZcjRLMnhmNW8yR2NFUm03UGlFMm5pS3A2ZDQ?oc=5",
-      "publishedAt": "2026-11-19T02:00:15+08:00"
     }
   ]
 }

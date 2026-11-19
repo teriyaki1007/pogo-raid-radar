@@ -1,7 +1,7 @@
 {
   "iso2": "BG",
   "name": "Bulgaria",
-  "updatedAt": "2026-11-19T23:03:42+08:00",
+  "updatedAt": "2026-11-20T05:09:15+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Bulgaria hails Turkey's fight against illegal migration",
+      "source": "Yeni Safak English",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZXlzbGNoaVNhU0VqY0l3b29ybFhKUFozNkpoTlRFR1RNWk5CVXZNM2ZJT0o3bTkzQ3RlUC16MWpSSFpiQThmWGhmY0d6RjRpSFZ5c1Nzb3JFd2RNd3E1MXBtbnNXa2RyQXpLV3YxOG9SbHNxQmtwQkZXbGxrZmFVOTJULXpWcVl2Z3lKa0VTOWFqd2VuRWQ5cw?oc=5",
+      "publishedAt": "2026-11-20T04:27:41+08:00"
+    },
+    {
+      "title": "Bulgaria's GullivAir wet leases A320 for Armenia ops",
+      "source": "ch-aviation",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUUZFZjdhczlySGJfS1NRZnpsR1FRSXdpUzU0NzY0MndaM0tEV0EydEdLMlRGUjVJd3dwV09pSlBYSWJxTTVfT19MQTBXZnhBTTUyS3NqdlpGZVhGZ3ZWTnNPS19BVFJETXVEaGtvc2p0bHVaUUg5YnRqY3hiaFVHNDc1T1B3NkhyU0luRWJFN2RGWnhzb0E?oc=5",
+      "publishedAt": "2026-11-20T00:54:40+08:00"
+    },
+    {
+      "title": "Bulgarian stock indices close higher, turnover drops",
+      "source": "SeeNews",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTEROM0FkNXREYm82VGxDdVJVTEUwMG1HNi05Q2x3R2trWml6VXV3SmRXMWhuS0F4eUxkX21qeGVQMzBWZDZHNjZCbndYVWowN3poNkk3RGZOUHdkT1Fpd09IOUpNWU9FckFTaTYxQ2JHelNwUmp1VjRWSHhYTXBock1WbkpUb29vNTdnbA?oc=5",
+      "publishedAt": "2026-11-19T23:36:11+08:00"
+    },
+    {
+      "title": "Bulgaria celebrates its Roma champions. But only political representation will make it a true democracy",
+      "source": "New Eastern Europe",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ0c2SmZkRlNzSHRySXVxQ1A3TXloN25IMDJpNFFMTHZYQjJPeXhsOVJhWElGUGZleXI1ZndzUk8teU1Cd1dDNkkzOUdhQ0JRRXNIMXpVbFRlTkxSWUk3NmRRVmdWbjZTbXFtY1p6V1UxQ3Q1V3AzN1BsSjNqSWVmVWwwOTZfeWYzMnZ5d2VGckk2YkpudUN4Qm1Ganlsc1JvTDJ1X2FMTjF3TkZPeE1CTTBaNUFzU0J1dWMwd3FDeHAyMTZVNjBQQTZ2MFY4UURUWkttbGNZdEFnQQ?oc=5",
+      "publishedAt": "2026-11-19T23:35:26+08:00"
+    },
+    {
+      "title": "Bulgaria's battery revenues: strong today, but for how long?",
+      "source": "Solarplaza",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSlphdnNyV0hMSy1PTnUyWUg1eElvVldFcVVfZWdGYy1EbFZSQUMyYm0tUDdNdTlyX0pMTDR6LURHWkc3ZVpQMERkSS1VOW52aF9xeEo3OEhMeGw0MlYtc3FQTFlmQnFybWNWNngyM0o2bE16UGluc2x4RzZtUG9Gb05oWEs4RHpWeDBiMnVTWWRwazM5anowUEc3SkowemFUclo0TXAtdk80ZjZtSVR2OFdR?oc=5",
+      "publishedAt": "2026-11-19T23:29:35+08:00"
+    },
+    {
       "title": "US allows NIS to sell its Bulgarian and Romanian subsidiaries",
       "source": "CEEnergynews",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpa1ExRFlBSUxZQnRxVk9ZNW5lc1lXZFhTQ1lHYkMxU0duaFotV1plaTBCZEx6Zmo1X1I2bGxhMG9kVktCV2NTemtiVFpoeVMwbnhKa01KbTdpR3dVOVhkNVlXcVFTTXRoaklTMVlndkdPbGpPN1VYbg?oc=5",
@@ -46,36 +76,6 @@
       "source": "ssbulten.com.tr",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY013dGhWcDk2cEQ1SHB3UE9zNnJldUtTMjZVWUsxSkxDdnhjRzhtMFpoVmd0WGY0VUg0OUc4cFpMOUk3TktNMXl3TUhEcDhGY29CRzlqUHoyb0hRSTJmQ2o2NWdNb1p6aE9YMGJILUZwYWdKbTN6SnNRZ0d4Nk9LMXFxSzFZbndGOF8tRVRrbkxURktCdGd2Z3pwMk02cnNHc3BhZUIxdzQyLUk2eWpaam55bjFxN20wRFppVA?oc=5",
       "publishedAt": "2026-11-19T22:36:51+08:00"
-    },
-    {
-      "title": "Bulgaria blocks new cyberattacks on government websites, minister says",
-      "source": "БНР Новини",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWVNLQl8xaWM0aUxpLWo3Y2QxNjhXRWtfQkd5Ujk0V1pJekZFbXVzZUhlWHpDazZCaWJUU2g2ZGFNMEFQNHZ6ZFkyQUlYdmJZUTRkNE1Qd2l5d3FKR0tFUDRlRlNuclJ1Rk5sQjQyWF9YcUNlZ09NZHlzazF6YUJNS2ZxRkJKMUZZVjVSbF9UWHBJWDQ4TFFMSVNwU1ZMYUFlZklxMmc5OVY?oc=5",
-      "publishedAt": "2026-11-19T22:19:46+08:00"
-    },
-    {
-      "title": "EU prosecutors charge one person over alleged rail funding fraud in Bulgaria",
-      "source": "БНР Новини",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN1VSX2k3ZWF6QXF0OHBCY0Z3NmtfTGc4STJ3N04wR3Z6U05oZklrNzlzZV9McDZzX1l6anRhTk5OX1R0c1oxWDdHLW5VelpNZFFvY0ZmY21BeUtMZ3ExSnNNUzlOdi1qNkhKNDUtdDZiU05KWFBCZ3E2dVB4bk9ObzFRX21pVjVMZmd4RnViWm9TdTZieGVNQ2xWb29CNUVuSFJmUTJIeTRoT0g2VG1n?oc=5",
-      "publishedAt": "2026-11-19T22:19:44+08:00"
-    },
-    {
-      "title": "INTERVIEW - Bulgaria more exposed than Romania to Black Sea shipping risks",
-      "source": "SeeNews",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTW5rRUpZNFAyRDlJZnlwQzBVcE9hRFBzaGZDSnVYREhNWkJEZkstQmR5ZFZkRUNsalBXVkRRTUtOZnZzaEhHM1hPb2VIR0RWNXR0RTBXdU5mb3ZNNEtPNVNlZHlTYXViRlBBdGVKNEVBM0czdERCaWc3cThOd2dabzZYaVJmUHVraFFtZDNCdnhycFd1VTdGQXBiekJzdDA5T1JKajVzTko?oc=5",
-      "publishedAt": "2026-11-19T21:56:09+08:00"
-    },
-    {
-      "title": "Bulgaria’s State-Owned NEK Signs MoU On Potential BWRX-300 SMR Deployment",
-      "source": "NucNet",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRUpmZW5BeFRPTjBlaWVUUTcycHlFTFk5bDdIWngxdjJEcEFKTW5lcElWX052ejZSNHp0dXVrdGZEbllQX3JCWVlNdURkZm1XRW1IS3pKT3IyTWc1T19nRHQ3bTl0Z0NNOHFDX1RjYm9TSkVnUTlfOVE1ejdnNHZPaWRlM2E5MkNtU3RyN25KQ1JEX1oxYVlnb2I3UTRsX05KX3JZMkVxZWNFVm9ibmRHUg?oc=5",
-      "publishedAt": "2026-11-19T21:52:12+08:00"
-    },
-    {
-      "title": "bulgaria-uncovers-five-year-cyberattack-hackers-stole-over-62-million-pages-of-government-records Archives",
-      "source": "TV ONE USA",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa3VXMEptTHFCbW9qNEFHdGRtY1hLeXBaakJkazVEdXhTamEzbUhIX3gtdDhLbGNMTjFJdUI2N1RLR090anQtRlh2SjZBSVNoNThLS0VUZGNpWUZha3d3Yml3Nm9kSFJVbms0dFpSU2ZHM081eng3YmU0VFJQd3FoZDBVMk94eUdEQkxfckZXd1prR3ZYRDJMeHVHSEI1QXVKX2lWNHpIamRaci14bFhPdTZvZUNBeFFYZ0VfTGl0SnU?oc=5",
-      "publishedAt": "2026-11-19T20:07:43+08:00"
     }
   ]
 }

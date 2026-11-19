@@ -1,7 +1,7 @@
 {
   "iso2": "BF",
   "name": "Burkina Faso",
-  "updatedAt": "2026-11-19T23:03:42+08:00",
+  "updatedAt": "2026-11-20T05:09:15+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Ibrahim Traore: Human Rights Watch accuse Burkina Faso junta govment of targeting journalists, activists, and oppositions on exile",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8yeGdBMXZQeHdkUUZ0UGlvRVM2LWtzTXpNaGVPT0JuYW1FWVZXUVZxall0S2hkcG1makZxUHp2aS1SNXNET0s2T3FTVXZFX2hoc1B2ZHVCMHlrRVc5THfSAWNBVV95cUxQbXZTdmkzWXpxci1iTDhkV3I1ZFVSNEtwM0pSbVMyRWxNUVlxM1RkSHRkRzZRWWtuNnU3RFVXenhmamtxNlZRX2VrYjVhX1F5SVNOWU5kVWg3bHFNeWF0TmxIQ0U?oc=5",
+      "publishedAt": "2026-11-20T03:58:58+08:00"
+    },
+    {
+      "title": "Burkina Faso: military junta hunts down dissidents even abroad",
+      "source": "la Repubblica",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPLUNEbkhvdmI2aUt3b3NqSm5TaWN6UmlHT0VOYmYtNU1tVTNuamlhV3dxSUIwaTBYSlRCR00zMklBd1NjQXJDaGxpeklneUZkWHY2VEJ5RlpUVnVTdDY2ODV1QWhtX3d3RmgwVmFaQkVhMTgyWm9SYXd5ZWZkeTBYVHZTcVBWR0NKclpEM19QaDVjSVBDLVp1NjdYbkdFdG5OWmlVRTNfS0M1M2pVTlVCSmpWMmljNUc1eENodDlxTktJUTdNcG1ScEc1aUpLOHkyQndFUEN5dE1LLU03d3JiNXFvVQ?oc=5",
+      "publishedAt": "2026-11-20T02:05:20+08:00"
+    },
+    {
+      "title": "Burkina Faso: Amir Abdou notes progress following qualification for the 2027 AFCON",
+      "source": "Foot-Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcF96aV96MDVVdl9KTFpzXzdJWTBDMTdtVTRER1A4N3hEN3M1WHRrbUFFVUhHRk1COU4tYkdyc3pRQzFqYmtVQ1lJN2J4ejBNUTJoUHJxSF9yaS1PYmVWN3FmMzFNel85VnB2SUZfR0ZuaHgxV3BTUXB4cVNRWERkYTV4QlI2el9mdjREbXg5YnB2SHNLZ1hXMjdCWmU2bFkwYWtoMENIZ2pHWFRMc1VqYmwxcG82WGRERmw0bnN0bw?oc=5",
+      "publishedAt": "2026-11-20T00:00:00+08:00"
+    },
+    {
+      "title": "When Burkina Faso fans can watch Dango Ouattara’s Brentford face Everton and Manchester United",
+      "source": "Sport News Africa",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONF9NQk9IQkdKOWVXTGlEeWNuSnRYX3hnaE4wdFdQLV9GWkgxbS12d2dWekl3X2QyTjQ4X0tuRTdRTHh2czNvZjZ6VzlpYVRmVkJpZWdxeDBkaF9WSXF0QmlZMkJrMmZGa0w2Y1AweG9ZRzdmV01qREV3aUtKbVlzQ3A0NVU4eWtFRVFUYzd0QUtjdTBwRTlIY3pYZndobTBnUFBKcjNpRzF0WUtt?oc=5",
+      "publishedAt": "2026-11-19T23:19:20+08:00"
+    },
+    {
+      "title": "Burkina Faso women set for possible Morocco friendlies in December",
+      "source": "AfricaSoccer.com",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdDk4SF9YOHFqb3l3VnE4TEN3QjJuTE9FZnFXYks4eUpKaTcwVFhLYm9BLUdlY3NhNnhEUEpQWWw4UUJjendfcFlrcmZ6SkFrVThVZGdTeXBsNFhlQVVGekNseEpROE9RVUhPQ25PQlNTMGxFN2JuR0I2elFuTTRnUU1hQVpJQ2lJTXVpczQ4Y1lwT25RbWtr?oc=5",
+      "publishedAt": "2026-11-19T18:42:20+08:00"
+    },
+    {
       "title": "Impact of Resilient Education Services on Educational Pathways and Skills Development among Learners in Burkina Faso",
       "source": "Unicef",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNWdQckNYSlNBWUc4ZEJPejVhRWNPN1k4NUN1c0pjUUdxMEFFbkJ5Q0ljZjNnN3lJSWJUSDNxUkFqdkRzclU0b05iWEVhZ2RkNDZ4dk1jNU9QcGZMaVFVeGhUcGd5SjU4MlhBVVNScVBfSTAxcGsxeVQ0Rzg0U1VxdHZmVlFLY3kxOGh2aWFrLURCbVhXZ3RLRTUtQ2xwdlpBb0p6NjVheUw1c2tEdVJLamlkM3BtbGdvQWpqdk92Zw?oc=5",
@@ -46,36 +76,6 @@
       "source": "Yeni Safak English",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQzdTaDR4cHh4VXBrODd1QlM5STlFQndQbkRsb2FnU1Btc2JxcDJiT1Z2NWRvR2FxOU53cllsemxoeGpoT2RVeG8zRUNXZUVMZHBEOFlpSWc0TXFOT1VpT2dROV9xejF3Zk1sQmtYa2hucXNVanV4UTBFVE9OZ19WdE9LYllhSTBsLWdHbzdsNGxzMVIxeEZxMnEyWEVIa1Y2b2JUcmZrTDY4cEU1dkpod19DdTRRUDk2UUtOREx0QmJmRUFlZElxaTVrbVUzem9J?oc=5",
       "publishedAt": "2026-11-19T16:12:19+08:00"
-    },
-    {
-      "title": "Burkina Faso Media Organisations Establish National Umbrella Body",
-      "source": "Broadcast Media Africa",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzFCbmQ1dDBzQmx4dDBlWE5UT2FpU1pTUXZvZE4tRG9pN1VxcXEtNVFzdU52blVSRERmTUE5bXkzLUFzU3pPaVBDdnJsbWtuZmEzRFFyT21FMnY1ZmpndTFWaW1rU1E5dDJpNE41WjJmRVN5R19BeWpsYllaS2J1MWpQVUhfX2l1X0JfYlM5dWtPSUV4U1B5MHBlLUhVZDB5U1JRQkdXbVVTUExCRmJWdjd6Nk1JZw?oc=5",
-      "publishedAt": "2026-11-19T15:07:37+08:00"
-    },
-    {
-      "title": "Burkina Faso Targets Critics in Exile",
-      "source": "allAfrica.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rSDRnVk5nRmN6dnFtQ01CQWdwcnRBUS1oa1UtTzNrOEFYTFhqdUIyZmlTZTFxdjlaOERINlJXS0JyaEdfUXRWdkdOX3NnbWdVSmY5WGFpUlNGQUk?oc=5",
-      "publishedAt": "2026-11-19T13:23:05+08:00"
-    },
-    {
-      "title": "Burkina Faso banker Idrissa Nassa plans $138 million listings for two banks",
-      "source": "Billionaires.Africa",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNlJ3ay1SZHFVNkwxOVVkXzZGYllvMUt5angtYTRIenY1UmZKTEEwajk2VmVJZThxT24waVJqRzNDMElnQ1hFcE51VEFMRGxGUEtyNUFFT0dfZzZXWFJocTRObUEtdDlfSzlzdlpTRndhUkxXMUJlU000c0pHLWRxdHFJZEpaMHJzMHpuMWRmellfR2VOSXJQbzgtaTV3bUVYdlRNQi1NNFlGcG55bWttekN1bzV2akRDQ1E?oc=5",
-      "publishedAt": "2026-11-19T07:35:17+08:00"
-    },
-    {
-      "title": "India and Burkina Faso Discuss Cooperation in Traditional Medicine",
-      "source": "Asianet Newsable",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTFJpMWxUUDRPVTBzSzhXMWdoZk1VTlZ3SW9fVjI4aVZjSHQ1MGE1emZfdS1GOXlyLXdMYUtGYi1FYWJ1LVpva2N2RHlKU1kweF9zeTVtVlR1NFpfYUs0cElfN1ZtbTBfNHFnSVZkRVFHaHcwU24xMXVWZDlnTFdaRnN3QWZwa19WYnlnNFMyZHFic295ZHFOREotalQ1X2lYWFo5N3VxTnRsR3IzWURBSEpHTFlDUDJpZnpIaEhQY3BxQnfSAcgBQVVfeXFMTzVPOFpsOFZOTXRrNGYtbmpEMXJqM1NtYWEtNlhtOWtfMVBwR2tvV21ONFdDb2FVaF9NZ1pEYkRPNTBkejBwWHRHMkZWSi1Jemc3cjBqVXlRWTM0QmV1SHkyMHJPdExndERwYUxoaktYZ01sNWZKQl9FV3dkT0xYdjRMSzFqRG5QUjlWSWlpVWtXNk5scnJkOGVCY29KZkdnNVp1YzZSVGNVWjdyRllxa0RtOFduVlVldlR5Ny1KblpxNUF2emgta3E?oc=5",
-      "publishedAt": "2026-11-19T05:30:03+08:00"
-    },
-    {
-      "title": "India keen to work closely with Burkina Faso in traditional medicine: Union Minister Prataprao Jadhav",
-      "source": "Big News Network.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPX1p1NENNSV9NakRRSHZOTmZVcnEwRlB6LWdiODV3WFFlVElFMjVROXA3VlVOV2hNMkdUYk5sakJBS3FKcDBDSnBNWDg0WUxnYkVIc2NwclhkZG9NZ081THhHWG4tbUp1aWxtV2VQVE9rejFsZkY1U1FFcjVoSGhQOVpxdnd3eGowMXlST2hSTWh2YzBuZXdBV3ZmYkU5TXZhMTF2R3U5QmI5ZzBTc0NyVlRHNF95Q21ZU2dmQ2xnblktX0JDcmJpTDY5Rlp6RUxsS3Z4N095OWpBLTdOWXZr?oc=5",
-      "publishedAt": "2026-11-19T04:57:00+08:00"
     }
   ]
 }
