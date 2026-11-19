@@ -1,7 +1,7 @@
 {
   "iso2": "AG",
   "name": "Antigua and Barbuda",
-  "updatedAt": "2026-11-19T11:08:59+08:00",
+  "updatedAt": "2026-11-19T23:03:42+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Minister Michael Joseph Demands Action at COP31 as Antigua and Barbuda Backs Global Electrification Pledge",
+      "source": "Antigua News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQXdMQXNFQnZnRmMyRFVSNXc4aU81cVZFSnd0bC03YjlQeTBkcDhVWlVMWlRfQ2Exd05RU0xaZF9yTEg4UDRMOE1mU19tdERXV0dYdEdaZE00Ujg3aU1pZnVKX1V0VkdSZk9qNFJsbWwxQm9rdFBWSXhhR2lEN01jVGMzM2RYbm1IdHFlZGdSTDcyeTUwZFRTNGppeWd3MUlQaXA0ZWtYU0hNdUNjYzFxODhtMUFrbGtBNy10c2l2dEpRc1REZlNGWUl3Mm9qejNxbnpXTQ?oc=5",
+      "publishedAt": "2026-11-19T20:40:58+08:00"
+    },
+    {
+      "title": "Antigua and Barbuda welcomed more than 5,000 delegates to the Commonwealth summit",
+      "source": "Travel2Latam",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWHM2bHYzczdWa1d3bjJhaTZRZGZvOHFXQlc2YnI3X0dua2FGb2tOQUdaYjJXWUN6WFRqZDB5OFBWZlRBOEgtSHRaRlFPSXUzUzZfdVhqLVJia2diZ1poWnktUS1Kc3psU0U3SnBWTm5od0tLN3gyS3duMzhVMzZmbWI4clM1ZW1xaEVQdFpnejhBOVRUSmo1QVJOUFJWYjNtclY4c190WHhIN29YendYS2lLby1sbExIbkdJakllR1R5R0U?oc=5",
+      "publishedAt": "2026-11-19T20:22:23+08:00"
+    },
+    {
+      "title": "Antigua and Barbuda Reports 68% HPV Screening Coverage as Country Pushes to Eliminate Cervical Cancer",
+      "source": "Antigua News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPXy1vTDBSV0t0M0FtbnhfMXpNcGlmT1F1STJ4LW0wS1I5c2JUQ0dhaHJ2emVKYmVyM1U0Nk9TTHhNeHc0Zjk0bm40b0lCR3RiZ1VsUzh1Tmh4ejFrRFJFT0NqczFyMWUxdk9va2k4eVJreXZUVjZoYmVHbTYxNUVEWHRfS3VOVGd2M0J4d3pGRFFmLXNPRElTZ0RZUmVKWTRfYkVNQmhpeHZuYmtlUW01bHBDTTVpa0lncXExaGdhSHZ3dlEteGRGM3VOaDQ?oc=5",
+      "publishedAt": "2026-11-19T19:39:58+08:00"
+    },
+    {
+      "title": "Antigua and Barbuda partners in KARULINK project to develop regional green ferry network",
+      "source": "Associates Times",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZFM3MlQ1M09uSDlUQXViZmgyTmlYMnNKd3FZZlczZXc5R1d1NU5ES2FsTnVnSW1tSTBHcWVrSW1HZTRnZzd2dzI2ODdJaXdLX242ajItWl9wajhVbFZidkdZM1RMajctRDFESVJmZU9VaHB5ZEVCc3BlblI1MEtCWUowU0Y3VDd0MWhWMW1LZFBEMkJXWTJvMWZfLXBhZ0tBVjB3MURRZlBEN3J2blFOT1JQUWRPRFFvUGlhVHhR?oc=5",
+      "publishedAt": "2026-11-19T17:41:44+08:00"
+    },
+    {
+      "title": "Five Cruise Ships visit Antigua and Barbuda, Norwegian Prima makes inaugural call",
+      "source": "Associates Times",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTjVtelpiNFc5Q0lnMUR1N0dueEhORGRkaWhIRVhWWFA0WjV5emZ5Tnh1VVBQbVR3RGd1MHpMcmZ3amZhLV9XS2d2NmhqUHV0eFAzeXhZdUQ1QVl2Q1NjNDRCQnJhVlZPc25vcTA0ZzBZYk94ZWdVSmZuSWczMV9qQTJPTjZOeG5pY0lzVDNpQXJnbDNwSHp2M200S2NiU3lzc3pTZTJVY1dHS3l1SHJMYzRYWQ?oc=5",
+      "publishedAt": "2026-11-19T16:41:52+08:00"
+    },
+    {
       "title": "Antigua and Barbuda draws firm line on 1.5-degree climate target at COP31",
       "source": "Antigua Observer Newspaper",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLXZiZjExMmFjVldZSnlIb1VNWGhjUGxsMU8yY3Z1dUxWQUk2QnNyZDhBR1FXWEUzd0hlQTZwTXM0dC0zZlZpc3dxN3BRdEJQTmx1amNxaEZ1bk5NRnlPM2NiNlFhRnFxd2FKaUVkLUNxWDJBZDQ5ZU1BNmNmVFlkSlByUDRLNUs1aUsycnJ6Uk9VRl9teUxTckVtMC03aHVXNTlZVA?oc=5",
       "publishedAt": "2026-11-19T09:20:22+08:00"
-    },
-    {
-      "title": "Antigua and Barbuda Hosts Its First Clinical Neurology Summit",
-      "source": "Antigua News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV2RRWkR4WXVpY2gxX3ZpWWtKMUd3YzdjQmhTeE8wWU40UGFDMC02WU45N0lxREJJRjVMTjlVS0NfMjR1QlJFaHE5bThDa2Fzd0tablB4YUp6OUs4XzJ3N1JtMHkxTy0tcWtHTE1TU3RPdDc2ekVDSWg1MTd2TmNGSWNxaWU3N3FxX3ItcldLRjU5UE44Mnk3TQ?oc=5",
-      "publishedAt": "2026-11-19T08:38:16+08:00"
     },
     {
       "title": "Antigua and Barbuda Hosted King Charles III and Thousands of Delegates. Now It’s Courting More Meetings and Events",
@@ -52,30 +76,6 @@
       "source": "TTG Media",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOElIcnZwZVQ0dHpGSEZZQXZXQU11OE45QjU5aWNuM2xTU3BnU1NZcUx2NEl0RHdUS1lFWjBnOHhIQjdwV2ZETkFmM2R6c291amI5aE53NmdpdU5aNnZVVmw4LVAydHF4QmxDbzNpenZXekIwRnRjTjJSb0FsNlBRTjRDT0FkMTRmckJ5bXpad2dST1dWTnZpVHpZRHZyelUtRTEtSUtn?oc=5",
       "publishedAt": "2026-11-18T23:06:01+08:00"
-    },
-    {
-      "title": "Why Antigua and Barbuda Is Emerging as a Premium Corporate Incentive Travel Destination — Beyond the Bahamas",
-      "source": "eTurboNews",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6OGRseFRPRmpvdTBDcEZXaXY4M3lFVWM0OUI0d1VZQkNWT2pNYWRMeUhDX0tiZnp1YWQwUVh6X2k4VlNHR2VadEFmakhjRHUzZFhzb3p3emdsQUhPOG16Q05HaV9OLVJGMjhkeFIxV25oQWhaSE9LYV9SRnhydw?oc=5",
-      "publishedAt": "2026-11-18T21:19:58+08:00"
-    },
-    {
-      "title": "Mobile Seed Bank to Help Antigua and Barbuda Farmers Replant After Hurricanes",
-      "source": "Antigua News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlVGRjRGUFZDQkZrMkpZdUs3dTBjb0NlRWlINkFHNzJoVG41TGFuX05xY2ZDeTdHRXJGN1pZN1dKSkNGc085c1Myclp3V0pNZjU5ZUFXeFJYRHJXb21UNzBwcUZNNHhFUzVNWE1Mc25KWVY0cG9wZTUxQmc0TkNYWlZzM3dWbXFYMjBxdlBqS244WWpMX2tlWElLRFFYeHRQSVAwXzRaSG5CSVFJZ1E?oc=5",
-      "publishedAt": "2026-11-18T20:06:30+08:00"
-    },
-    {
-      "title": "Antigua and Barbuda qualifies for 2026 SSL Gold Cup finals in Brazil",
-      "source": "Writeups 24",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOandabnRoR0hBTzZSVGdaQWRsZkE1WWFwNzJWRnFPNmYxWEhaS0tGbHdTVnctSXYxdk9sd1lYYTkyQjJtUjN5aGM1bng0RDFwYmtWd1pMSkhfbFpZbnZnaEVHZHN5Umwzb3d4cnRTWUszNThyVXZHZGl5Y2JOOW1fWVJGcjFuWFNjOGVYb2cwdkFNUF92dUxpRVNZUFc?oc=5",
-      "publishedAt": "2026-11-18T18:32:46+08:00"
-    },
-    {
-      "title": "Antigua and Barbuda cricket teams prepare for historic Pan American Games debut in 2027",
-      "source": "Associates Times",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSWhucjdGSFpRYXJSV2poSHdhSkhHMFBvS3RwQ3hHS3ZUY2ducjV0RGVEZVUxSGlGU1UwdXMwTGtJa2hmUzQzeXNaM19sc3NiZ2tvRE9aVU9xRFhXRFJTUG1NYjVQU3Jwd1k0WXJ6S3ZxUG9rVVh6NG5JY1V0aW1aLV9zQmlZWno3bENoOXBLdURKYlN2T1pFMF9hT0FIWl9pb1FfSUVUbi1tZEpUMnZIMGdWcWk2bUpJM0lBLQ?oc=5",
-      "publishedAt": "2026-11-18T15:17:08+08:00"
     }
   ]
 }

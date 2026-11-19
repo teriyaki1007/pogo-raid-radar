@@ -1,7 +1,7 @@
 {
   "iso2": "EE",
   "name": "Estonia",
-  "updatedAt": "2026-11-19T11:08:59+08:00",
+  "updatedAt": "2026-11-19T23:03:42+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "Estonia may close its borders with Russia",
+      "source": "AzerNews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FRDhxR3FjRTJ3M1Bzd0FWSVVoTEhwNGZZNXlEWDYyUlNfOHJfaDJEaFZSZXlYS2thYlVkRE1DajJOeU5ORllqeGUycnZDV3VkYVo4Ug?oc=5",
+      "publishedAt": "2026-11-19T20:14:00+08:00"
+    },
+    {
+      "title": "Study: Estonia's large-family benefit made having a third child more likely",
+      "source": "ERR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGRzSHJfLUZaVTd5dDB4QkxCUkRPMzFYNkRrd3RrTEZwb0lnUnlZRWFsQTZqOF9yd2pZdk1CdmZUcW9sampCUkVRRG9iekx6UkJaNHUyX1dLVjZNUkZlOHFlcFN4aDR0R1lEeEZXRGZscEFmbWwtLUs1c1c1clFhZW1HNGlzUEJEZWNVaDFNWGFoMXdQYjFjTmltTFhtMU5pUVdPbTg4M1M?oc=5",
+      "publishedAt": "2026-11-19T20:02:00+08:00"
+    },
+    {
+      "title": "Estonia has a chance to reboot the Ukraine Recovery Conference",
+      "source": "Atlantic Council",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVktXOVI5Z2xTR2VSdjI1ak42SU1aYkxidlhoUGx5QVdrZW13dVVyc3RkSUV5a3UxbU5jejhlZW1Wa2xScVlqMHE1X1pKd01RVHJwVjdDZUV4X0NISlE1NDVsczhrQkVOV29lOXNxcjMyMlZiVGZZVGlfNzRLaUJMNEZpNWlfS3habTJiNEVsWlVueU1kSDBFZTBwdy1WekpSaUdKZEEzTWY5dGdzU0RUbXlNb2U?oc=5",
+      "publishedAt": "2026-11-19T19:39:00+08:00"
+    },
+    {
+      "title": "Russia warned attack on Estonia would be futile as CDS visits troops in Baltic state",
+      "source": "Forces News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGhtdHN2bU9QMU16d3Z4RzlyVzZjSTFhMGhRWnNGVHRmUF9JYlJsejRMM21pTWxXdXhPejdDWUFQVVFDdWc5cmpwMUlEN01QNzNhdzE4TG9vcTRHcDZYSU1DaVBmQm9FaHFLT3FRelJyOGh5ZFJYckZHT2dtR0hyNTFZZ2ZzckNha1NkYlBwbmFNS1RIcGJ2WjFZT0Frb1N6RGlJem1DMDY2VmM?oc=5",
+      "publishedAt": "2026-11-19T19:22:12+08:00"
+    },
+    {
+      "title": "Estonia's men's football team climbs 5 places in FIFA rankings after back-to-back wins",
+      "source": "ERR",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZDdQV2FTTHNWaldoQTFPRFlBWXhyd3lsSENmell5aXFyNmkzR3ljNnhkRk1WNWJBN3FmUmZFa04tWG5zeTNHa2JZdkk0T0o3NHpRVmhUb3ltcGNvd0NjTGVia3Vtd3ZibUQ2QS1QQ2ZBZEhfcG56NWNucE5WcS1nUGZhNjVEMjY2Ym1FLUdiRjA1ODJRTmpUbW1VdDdQQmZzVVhhdFplMjYwckhHZUNLQWdmaXBOcXZz?oc=5",
+      "publishedAt": "2026-11-19T18:21:00+08:00"
+    },
+    {
+      "title": "Two weeks to get home. Estonia shuts its Russian border",
+      "source": "EU Perspectives",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUlJ3LWh6OFN4djNLbnV6NlZCY1VIenlhdGF2MlFGUUdDOWdCTWd3VHNFa3pCNm9MRTNPU3NHbVBvQzBYX3NYS2Z6YXdQb3NUM3lndTc0dUxjU1NJTWlMY0VMd2xRelB5dEsya2dsYTVibmhGYkJMVGoybm5FdFNObFUyOTFRS3l6Y0tBS3RuQXhSSzA?oc=5",
+      "publishedAt": "2026-11-19T15:03:08+08:00"
+    },
+    {
       "title": "EU-funded Euroguard semi-autonomous naval vessel launched in Estonia",
       "source": "INSIGHT EU MONITORING",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTlzOUktTFVHTVUzendEZHJIMGM1VkRCVU10dTJiNmR2S2tsLWZBYnlsNGVJVzcxVEt5YmlxenVLZmpZN0ZwQmJ6amFmZGtMZzQ4Y1dFUzZyT2NadWZPc1BvcnlTSGxzclpGVXZzMkNvTjdsRUZPd05XLXN3aVByUlAyMDZxdmVmbm9VNDRVQ19PcmEzVlQzZjl4NEdPTXFnZ1I3Z0RoRl9BOHdxMHlDS003WGFuR0V3M2hSVFEtMmQtbDdCRTRweTYyMFMzTmlM?oc=5",
@@ -40,42 +76,6 @@
       "source": "Estonian World",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMFduZ2JNbHRaTzBFZkVUSlBWWGdrckF4REsyVkRrYWxydWFDTzNrcXo3bGxzcnlhSEtkbHZKcDAzUHVvNl9JZ1pqMWthdXA1UVhlNGJZUEVMc3J6eFVZakYtTTJKdDZSZjZPNWdFdEdGbTZ5aUowQ210ZUZ0MmlEMGN5YV91XzRiVlZoSUdWZ0JSRUZNc1k0N2FpOEZDdFBWRWItczFfRWg5QQ?oc=5",
       "publishedAt": "2026-11-19T09:13:19+08:00"
-    },
-    {
-      "title": "Video: Estonian folk dancers give an Atlanta rap hit a Baltic accent",
-      "source": "Estonian World",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVFRS1cyUlpnSEsyeHVVVGM4bk5NOTdUVUtpNTRjNXhRcm1JT1F1cWQ4YTFhb1RiRU12UTVmSDBGVjVlX1h1TDhNcm5oYjNoWU0xUzE0UDNkTmhtOUc3YjA3S21PNUd4LW45d3JVS2cyVm9QeVFnX05jdXZHMTRWTDUxTWNoVENvZ2dwWExmU2NkUU1JTFkzbkxJc0RNRFZBbWhaRQ?oc=5",
-      "publishedAt": "2026-11-19T08:27:43+08:00"
-    },
-    {
-      "title": "Estonia hosts EEVZA #EuroVolleyU16W qualifier in Kääriku",
-      "source": "CEV",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaW5aTW5fLXlJMU9hbTd1OXhqdXFCNUozelBFajZCOElVcV9nWEctNGREUnM0NF9veTBfT2JRUnVnY00zYzFZNXltWGhiUTJpbjNHTGl0S216ZmxwVzhNYUlMUnhpSUNXcVRTVk0wOG8xQ1RPRjYtSHFJRTlqQm1YazJBaUNqVVIzRkVYSTlSZXE3bzhQX2d6VQ?oc=5",
-      "publishedAt": "2026-11-19T05:52:05+08:00"
-    },
-    {
-      "title": "Estonia's Soldera lands €1.5M loan to untangle renewable energy rules",
-      "source": "Dealroom",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQb1IxelZEQU9rQ2FaU1dmd0JSaGRLdjZwMXVLMWM3VUlRbUw5ekRpTVRNekZRa3gybERnMDFMaGpfMHZUY2pBNFYtU19NakN6bDBhTndjYnVCS21hSXRjd25hN3lSOXVMVERoZVBudjJlY3N6eFE0WWFYLVZaTUpSUFdjeXNSdWoxRnhTSnM3cGdhS3FEYk5naWlyY2MyZ0JwYWpYYQ?oc=5",
-      "publishedAt": "2026-11-19T05:45:25+08:00"
-    },
-    {
-      "title": "Estonia approves text to end iGaming tax discount",
-      "source": "CDC Gaming",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDlvM1RwNms1U3BJVGpRbFUzRThZMEd0bHp6d3hrbFdVN3BZSVVJNFJNWmg2TDdtbWxxak5nRGswQ2c1dkZqUERma1NrcDh4Y1BuTmwxS0RBekFDRTNLQWNjTE1Za0tRV3JaR1MxM2JEVDEtTUp6UnVxcjBCa19zdXdCUHE?oc=5",
-      "publishedAt": "2026-11-19T05:42:06+08:00"
-    },
-    {
-      "title": "Europe Tonight hosts former Estonian President Toomas Hendrik Ilves",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQXdFbjJHWTJjOFdYeHZfeUJ4d2tHNlhBYnFtSVk4MU1mSlc1aUFxWHltOXFPX2ZCNkN1U0tvTEdrTkVlUzF0c3JYRjZZRWJrQUg5MXpLbEcta1JySWlpUkJPVmtTYlQ0Y1k3UU1LR3M0OFFsQ2cyNlJJblIzaUdiM2U2cnhJcDhYd0xKNC1jNzlxNnNoNUpHWXFxVmZVejdnclJWeUJTN251QTh4X3ZqbDlCNTRrYUZSUERIUV9yZldoaFpZ?oc=5",
-      "publishedAt": "2026-11-19T04:42:39+08:00"
-    },
-    {
-      "title": "Telia Estonia offers device discounts under Black Friday promotion",
-      "source": "Telecompaper",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVG9OeVpRTG1IdWg3c0ozWHF1dzNhRTJ1ZTZSR1RRMno1N2Rjc0ctWER6Y3ZzMUwxa3hXNVlJWC1BbHJkTkxpNlI1alV1NWFXeEQzLTdHcUMwa2szXzNkMi1kblA4TmVhYU84SFVDVHNHMHFSNHpBVXdaV2gtYzlCbjM5RzNyejNVNXUzRkVUSzRKdkdzTEdlMVdhenZoSFkzSENMc3ZpZEdlRmlXLWc?oc=5",
-      "publishedAt": "2026-11-19T03:30:32+08:00"
     }
   ]
 }
