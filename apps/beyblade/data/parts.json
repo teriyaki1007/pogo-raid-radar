@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-18",
-    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG /parts/__data.json usage (2026-11-18 refresh, parts payload md5 a999a5341d63ad1c11c3253b5b8963b6; beywatch dataUpdatedAt 2026-11-17T21:10:50.617Z; scope 4,028 tournaments / 11,758 top-three / 37,974 combo slots; lastDate 2026-11-15; direct curl HTTP 200, size 96016 vs prior 96100; prior 2026-11-17 refresh dataUpdatedAt 2026-11-16T22:25:20.667Z / 4,007 tournaments / MD5 940175fc4f63e23733bb0b5f0e5a38f2; delta +21/+63/+213 vs 4007/11695/37761; catalog-mapped tier moves Low Rush S→A (beywatch X→S, 44.2→44.1%, rank 3), ratchet 5-60 A→B (beywatch S→A, 23.5→23.4%, rank 8), main Blade Blitz B→A and blade Bahamut Blitz B→A (beywatch A→S, 0.9% flat, rank 19→14), main Blade Eclipse B→C and blade Sol Eclipse B→C (beywatch A→B, 0.8% flat, rank 22→25), lock Bahamut C→B (beywatch B→A, 0.7% flat, rank 6→5); usage ≥0.2pt Narrow 4.4→4.7, Shark Scale 46.6→46.8, Phoenix Wing 25.7→25.5; otherwise ±0.1pt; topBlades Knight Shield ahead of Blast (ranks 5↔4), Glory Valkyrie ahead of Cobalt Dragoon and Wyvern Hover (Hover Wyvern 6→8, Glory 8→6); Dran Strike remains catalog #10 (BEYWATCH Sieg Superion rank 9 skipped — unreleased); topRatchets 5-50 / 7-60 ahead of 9-60 (9-60 4→6, 5-50 5→4, 7-60 6→5), 9-70 ahead of 3-70 (ranks 10↔9); topLockChips Valkyrie ahead of Emperor (ranks 2↔1), Bahamut ahead of Dran (ranks 6↔5); topAssistBlades Jaggy ahead of Free (ranks 5↔4); no new catalog parts — BX-54 Sieg Superion / CX-20 Customization Set C still 2026-11-21 (TT bx54.html / cx20.html 発売 2026/11/21 HTTP 200, byte-identical vs Nov 17); BX-55 Random Booster Vol.12 / UX-22 Vanish Lucifer WW still HTTP 200, 発売 2026-12-26 — not added; BX-58 / CX-21 / BX-59 / CX-22 / UX-23 still 404; BX-57 is 3on3 deck case (tool) not a part; CX-00 ValkyrieVolt gunmetal BXG-65 recolor only — not added; UX-00 BisonValor lottery exclusive — not added; wiki limited CX-00 BahamutBlitz Metal Coat: Black (Dec 26) recolor — not added; BW stubs vanish-lucifer 0g/0%/unranked and bit-metal-orb 0g/0%/unranked — not added (UX-22 / Vol.12 unreleased); existing stubs sieg-superion 1.2%/S rank 9 / valor-bison / suppress-superion / M-65 0g / Metal Taper 0g / Force 0g — not added; BW overblades Peak A (1.2%, rank 1) and Flow A→B (0.9%, rank 2→3) not in our mainBlades catalog (Over designations, not added); Stormtrooper stub 0→1 game still unranked — not added",
+    "updated": "2026-11-19",
+    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG /parts/__data.json usage (2026-11-19 refresh, parts payload md5 a999a5341d63ad1c11c3253b5b8963b6 IDENTICAL vs 2026-11-18; beywatch dataUpdatedAt still 2026-11-17T21:10:50.617Z; scope 4,028 tournaments / 11,758 top-three / 37,974 combo slots; lastDate 2026-11-15; direct curl HTTP 200, size 96016 unchanged; prior 2026-11-18 refresh same MD5 / same dataUpdatedAt / same 4028/11758/37974; no catalog-mapped tier, usage, or rank-order moves; topBlades / topRatchets / topBits / topLockChips / topMainBlades / topAssistBlades unchanged; no new catalog parts — BX-54 Sieg Superion / CX-20 Customization Set C still 2026-11-21 (TT bx54.html / cx20.html 発売 2026/11/21 HTTP 200; lineup page md5 80dbd3e996cd7813784db250734bbfad unchanged vs Nov 17/18); BX-55 Random Booster Vol.12 / UX-22 Vanish Lucifer WW still HTTP 200, 発売 2026-12-26 — not added; BX-58 / CX-21 / BX-59 / CX-22 / UX-23 still 404; BX-57 is 3on3 deck case (tool) not a part; CX-00 ValkyrieVolt gunmetal BXG-65 recolor only — not added; UX-00 BisonValor lottery exclusive — not added; wiki limited CX-00 BahamutBlitz Metal Coat: Black (Dec 26) recolor — not added; BW stubs vanish-lucifer 0g/0%/unranked and bit-metal-orb 0g/0%/unranked — not added (UX-22 / Vol.12 unreleased); existing stubs sieg-superion 1.2%/S rank 9 / valor-bison / suppress-superion / M-65 0g / Metal Taper 0g / Force 0g — not added; BW overblades Peak A (1.2%, rank 1) and Flow B (0.9%, rank 3) not in our mainBlades catalog (Over designations, not added); Stormtrooper stub still unranked — not added",
     "currency": "HKD",
     "priceDisclaimer": "All HKD values are estimates (sealed retail anchors, MSRP-derived, or unknown ranges). Never treat as verified live listings. Meta shifts.",
     "viabilityNote": "Tiers mapped from BEYWATCH.GG: beywatch X→S, S→A, A→B, B→C, C→D, sparse/?→Unranked. usagePct = BEYWATCH pickRate × 100.",
@@ -41,10 +41,10 @@
       "Low Orb",
       "Level"
     ],
-    "updatedAt": "2026-11-18",
-    "metaAsOf": "2026-11-18",
+    "updatedAt": "2026-11-19",
+    "metaAsOf": "2026-11-19",
     "usageSource": "BEYWATCH.GG /parts/__data.json pickRate",
-    "usageScope": "4028 tournaments / 11758 top-three / 37974 combo slots; lastDate 2026-11-15 (+21/+63/+213 vs 2026-11-17 refresh 4007/11695/37761 lastDate 2026-11-15; dataUpdatedAt 2026-11-17T21:10:50.617Z; MD5 a999a5341d63ad1c11c3253b5b8963b6; prior saved dump MD5 940175fc4f63e23733bb0b5f0e5a38f2 / dataUpdatedAt 2026-11-16T22:25:20.667Z; size 96016 vs prior 96100; direct curl HTTP 200)",
+    "usageScope": "4028 tournaments / 11758 top-three / 37974 combo slots; lastDate 2026-11-15 (UNCHANGED vs 2026-11-18 refresh 4028/11758/37974 lastDate 2026-11-15; dataUpdatedAt still 2026-11-17T21:10:50.617Z; MD5 a999a5341d63ad1c11c3253b5b8963b6 identical vs Nov 18; size 96016 unchanged; direct curl HTTP 200)",
     "topLockChips": [
       "Valkyrie",
       "Emperor",
@@ -105,7 +105,7 @@
       "shorthand": "Scale / SS",
       "usagePct": 46.8,
       "usageNote": "BEYWATCH pickRate 46.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/shark-scale.webp"
     },
     {
@@ -137,7 +137,7 @@
       "shorthand": "Rod / WR",
       "usagePct": 60.7,
       "usageNote": "BEYWATCH pickRate 60.7% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/wizard-rod.webp"
     },
     {
@@ -168,7 +168,7 @@
       "shorthand": "Aero / AP",
       "usagePct": 20.4,
       "usageNote": "BEYWATCH pickRate 20.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/aero-pegasus.webp"
     },
     {
@@ -197,7 +197,7 @@
       "shorthand": "Blast",
       "usagePct": 11.5,
       "usageNote": "BEYWATCH pickRate 11.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/blast.webp"
     },
     {
@@ -227,7 +227,7 @@
       "shorthand": "CD / Dragoon",
       "usagePct": 21.9,
       "usageNote": "BEYWATCH pickRate 22.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/cobalt-dragoon.webp"
     },
     {
@@ -257,7 +257,7 @@
       "shorthand": "GV / Glory",
       "usagePct": 3.8,
       "usageNote": "BEYWATCH pickRate 3.7% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "ratchetIntegrated": true,
       "image": "img/blades/glory-valkyrie.webp"
     },
@@ -288,7 +288,7 @@
       "shorthand": "MD / Meteor",
       "usagePct": 6.9,
       "usageNote": "BEYWATCH pickRate 6.9% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/meteor-dragoon.webp"
     },
     {
@@ -318,7 +318,7 @@
       "shorthand": "Hover / WH",
       "usagePct": 18.0,
       "usageNote": "BEYWATCH pickRate 18.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/wyvern-hover.webp"
     },
     {
@@ -346,7 +346,7 @@
       "shorthand": "Shield / KS",
       "usagePct": 1.2,
       "usageNote": "BEYWATCH pickRate 1.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/knight-shield.webp"
     },
     {
@@ -376,7 +376,7 @@
       "shorthand": "Wolf / SW",
       "usagePct": 15.1,
       "usageNote": "BEYWATCH pickRate 15.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/silver-wolf.webp"
     },
     {
@@ -405,7 +405,7 @@
       "shorthand": "PW / Wing",
       "usagePct": 25.5,
       "usageNote": "BEYWATCH pickRate 25.7% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/phoenix-wing.webp"
     },
     {
@@ -433,7 +433,7 @@
       "shorthand": "Strike / DS",
       "usagePct": 3.2,
       "usageNote": "BEYWATCH pickRate 3.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/dran-strike.webp"
     },
     {
@@ -459,7 +459,7 @@
       "shorthand": "Blitz",
       "usagePct": 0.9,
       "usageNote": "BEYWATCH pickRate 0.9% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/bahamut-blitz.webp"
     },
     {
@@ -488,7 +488,7 @@
       "shorthand": "Griffon",
       "usagePct": 2.3,
       "usageNote": "BEYWATCH pickRate 2.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "ratchetIntegrated": true,
       "image": "img/blades/bullet-griffon.webp"
     },
@@ -516,7 +516,7 @@
       "shorthand": "TB",
       "usagePct": 9.4,
       "usageNote": "BEYWATCH pickRate 9.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/tyranno-beat.webp"
     },
     {
@@ -542,7 +542,7 @@
       "shorthand": "ID",
       "usagePct": 2.6,
       "usageNote": "BEYWATCH pickRate 2.7% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/impact-drake.webp"
     },
     {
@@ -568,7 +568,7 @@
       "shorthand": "Spear",
       "usagePct": 3.8,
       "usageNote": "BEYWATCH pickRate 3.9% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/scorpio-spear.webp"
     },
     {
@@ -594,7 +594,7 @@
       "shorthand": "Clock",
       "usagePct": 2.6,
       "usageNote": "BEYWATCH pickRate 2.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/clock-mirage.webp"
     },
     {
@@ -620,7 +620,7 @@
       "shorthand": "Rage",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/ragna-rage.webp"
     },
     {
@@ -647,7 +647,7 @@
       "shorthand": "Golem",
       "usagePct": 5.4,
       "usageNote": "BEYWATCH pickRate 5.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/golem-rock.webp"
     },
     {
@@ -673,7 +673,7 @@
       "shorthand": "Arrow",
       "usagePct": 0.8,
       "usageNote": "BEYWATCH pickRate 0.8% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/wizard-arrow.webp"
     },
     {
@@ -699,7 +699,7 @@
       "shorthand": "Mummy",
       "usagePct": 1.9,
       "usageNote": "BEYWATCH pickRate 1.9% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/mummy-curse.webp"
     },
     {
@@ -725,7 +725,7 @@
       "shorthand": "Delta",
       "usagePct": 1.4,
       "usageNote": "BEYWATCH pickRate 1.4% (as of 2026-11-16)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/unicorn-delta.webp"
     },
     {
@@ -751,7 +751,7 @@
       "shorthand": "Scythe",
       "usagePct": 2.5,
       "usageNote": "BEYWATCH pickRate 2.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/hells-scythe.webp"
     },
     {
@@ -777,7 +777,7 @@
       "shorthand": "Eclipse",
       "usagePct": 0.8,
       "usageNote": "BEYWATCH pickRate 0.8% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/sol-eclipse.webp"
     },
     {
@@ -803,7 +803,7 @@
       "shorthand": "Hammer",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH pickRate 1.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/hells-hammer.webp"
     },
     {
@@ -829,7 +829,7 @@
       "shorthand": "Drake",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH pickRate 1.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/cobalt-drake.webp"
     },
     {
@@ -855,7 +855,7 @@
       "shorthand": "Sword",
       "usagePct": 1.6,
       "usageNote": "BEYWATCH pickRate 1.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/dran-sword.webp"
     },
     {
@@ -881,7 +881,7 @@
       "shorthand": "Dagger",
       "usagePct": 0.8,
       "usageNote": "BEYWATCH pickRate 0.8% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/dran-dagger.webp"
     },
     {
@@ -907,7 +907,7 @@
       "shorthand": "Roar",
       "usagePct": 1.2,
       "usageNote": "BEYWATCH pickRate 1.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/tyranno-roar.webp"
     },
     {
@@ -933,7 +933,7 @@
       "shorthand": "Calibur",
       "usagePct": 1.6,
       "usageNote": "BEYWATCH pickRate 1.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/samurai-calibur.webp"
     },
     {
@@ -959,7 +959,7 @@
       "shorthand": "Buster",
       "usagePct": 4.0,
       "usageNote": "BEYWATCH pickRate 4.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/dran-buster.webp"
     },
     {
@@ -985,7 +985,7 @@
       "shorthand": "Mail",
       "usagePct": 4.5,
       "usageNote": "BEYWATCH pickRate 4.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/knight-mail.webp"
     },
     {
@@ -1011,7 +1011,7 @@
       "shorthand": "Edge",
       "usagePct": 3.6,
       "usageNote": "BEYWATCH pickRate 3.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/shark-edge.webp"
     },
     {
@@ -1037,7 +1037,7 @@
       "shorthand": "Saber",
       "usagePct": 1.8,
       "usageNote": "BEYWATCH pickRate 1.8% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/samurai-saber.webp"
     },
     {
@@ -1063,7 +1063,7 @@
       "shorthand": "Brave",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH pickRate 1.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/dran-brave.webp"
     },
     {
@@ -1089,7 +1089,7 @@
       "shorthand": "Garuda",
       "usagePct": 0.7,
       "usageNote": "BEYWATCH pickRate 0.7% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/crimson-garuda.webp"
     },
     {
@@ -1115,7 +1115,7 @@
       "shorthand": "Whale",
       "usagePct": 2.2,
       "usageNote": "BEYWATCH pickRate 2.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/whale-wave.webp"
     },
     {
@@ -1141,7 +1141,7 @@
       "shorthand": "Chain",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH pickRate 1.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/hells-chain.webp"
     },
     {
@@ -1167,7 +1167,7 @@
       "shorthand": "Sting",
       "usagePct": 1.9,
       "usageNote": "BEYWATCH pickRate 1.9% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/unicorn-sting.webp"
     },
     {
@@ -1191,7 +1191,7 @@
       "shorthand": "Spiral",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/dranzer-spiral.webp"
     },
     {
@@ -1215,7 +1215,7 @@
       "shorthand": "Feather",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/phoenix-feather.webp"
     },
     {
@@ -1239,7 +1239,7 @@
       "shorthand": "",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/samurai-steel.webp"
     },
     {
@@ -1263,7 +1263,7 @@
       "shorthand": "",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/mammoth-tusk.webp"
     },
     {
@@ -1287,7 +1287,7 @@
       "shorthand": "Lance",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/knight-lance.webp"
     },
     {
@@ -1311,7 +1311,7 @@
       "shorthand": "Claw",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/leon-claw.webp"
     },
     {
@@ -1335,7 +1335,7 @@
       "shorthand": "Viper",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/viper-tail.webp"
     },
     {
@@ -1359,7 +1359,7 @@
       "shorthand": "Rhino",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/rhino-horn.webp"
     },
     {
@@ -1383,7 +1383,7 @@
       "shorthand": "Gale",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/wyvern-gale.webp"
     },
     {
@@ -1407,7 +1407,7 @@
       "shorthand": "Sphinx",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/sphinx-cowl.webp"
     },
     {
@@ -1431,7 +1431,7 @@
       "shorthand": "Tiger",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH pickRate 0.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/weiss-tiger.webp"
     },
     {
@@ -1455,7 +1455,7 @@
       "shorthand": "Shell",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/black-shell.webp"
     },
     {
@@ -1479,7 +1479,7 @@
       "shorthand": "Tricera",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/tricera-press.webp"
     },
     {
@@ -1503,7 +1503,7 @@
       "shorthand": "Shelter",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/shelter-drake.webp"
     },
     {
@@ -1527,7 +1527,7 @@
       "shorthand": "Heavens",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/heavens-ring.webp"
     },
     {
@@ -1551,7 +1551,7 @@
       "shorthand": "Shinobi",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/shinobi-shadow.webp"
     },
     {
@@ -1577,7 +1577,7 @@
       "shorthand": "Crest",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/leon-crest.webp"
     },
     {
@@ -1603,7 +1603,7 @@
       "shorthand": "Rudder",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH pickRate 0.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/phoenix-rudder.webp"
     },
     {
@@ -1629,7 +1629,7 @@
       "shorthand": "Ghost",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/ghost-circle.webp"
     },
     {
@@ -1655,7 +1655,7 @@
       "shorthand": "Orochi",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH pickRate 0.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/orochi-cluster.webp"
     },
     {
@@ -1679,7 +1679,7 @@
       "shorthand": "Arc",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/wizard-arc.webp"
     },
     {
@@ -1703,7 +1703,7 @@
       "shorthand": "Dark",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/perseus-dark.webp"
     },
     {
@@ -1727,7 +1727,7 @@
       "shorthand": "Fortress",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/knight-fortress.webp"
     },
     {
@@ -1751,7 +1751,7 @@
       "shorthand": "Nether",
       "usagePct": 1.4,
       "usageNote": "BEYWATCH pickRate 1.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/blades/hells-nether.webp"
     },
     {
@@ -1759,7 +1759,7 @@
       "name": "Luster Dragoon",
       "type": "Attack",
       "tier": "Unranked",
-      "hkdMin": 145,
+      "hkdMin": 130,
       "hkdMax": 198,
       "pros": [
         "Officially announced left-spin Attack Blade",
@@ -1773,13 +1773,13 @@
         "Luster Dragoon 6-60 LC"
       ],
       "scoreBase": 40,
-      "priceNote": "Japan streeted 2026-10-10 (TT bx52.html). HK sealed via hkbeybladex ~2026-11-14 09:15 HKT: Incubase HK$149 有貨; HobbyDigi HK$159.9 有貨; GCS HK$198 有貨; BuyMarketToy 港版現貨 HK$175 有貨 (was HK$185); BMT 11月出貨 listing still HK$185 有貨; Animes Pro HK$145 缺貨; Moonroad 11月預訂 HK$199 缺貨; Battleground aggregator model BX52 HK$198 有貨 (unhyphenated; also present Nov 13); The Club 【組合】HK$140 有貨 (was 預購 HK$140 缺貨 — 組合 vs single not fully clear, so hkdMin stays 145). UP-NEXT official+parallel HK$229 有貨 (inv 1 / 6). Loose unknown.",
+      "priceNote": "Japan streeted 2026-10-10 (TT bx52.html). HK sealed ~2026-11-19 09:08 HKT: Moonroad starter HK$130 有貨 (was HK$199; confirmed on moonroadhk product page available=true); The Club 【組合】HK$140 有貨 confirmed InStock on shop.theclub.com.hk; Incubase HK$149 有貨; HobbyDigi HK$149.90 有貨; GCS HK$198 有貨; Battleground HK$198 有貨; BuyMarketToy 港版現貨 HK$175 有貨 (confirmed InStock on buymarkettoy); BMT 11月出貨 listing HK$185 有貨→缺貨 (aggregator updated 2026-11-18 21:16 HKT); Animes Pro HK$145 缺貨; Toys R Us HK$139.90 缺貨. UP-NEXT official HK$229 缺貨, parallel HK$229 有貨 (qty 6). Loose unknown.",
       "code": "BX-52",
       "notes": "Takara Tomy left-spin BX Expand Blade (Japan street 2026-10-10). Uses a separate 6-60 ratchet; not ratchet-integrated. First BEYWATCH sample: 12 games / 0.1%, still Unranked.",
       "shorthand": "Luster / LD",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (13 games, as of 2026-11-12); still Unranked",
-      "usageAsOf": "2026-11-18"
+      "usageAsOf": "2026-11-19"
     }
   ],
   "ratchets": [
@@ -1808,7 +1808,7 @@
       "protrusions": 1,
       "usagePct": 74.7,
       "usageNote": "BEYWATCH pickRate 74.6% (as of 2026-11-16)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/1-60.webp"
     },
     {
@@ -1838,7 +1838,7 @@
       "protrusions": 9,
       "usagePct": 65.6,
       "usageNote": "BEYWATCH pickRate 65.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/9-60.webp"
     },
     {
@@ -1867,7 +1867,7 @@
       "protrusions": 3,
       "usagePct": 43.9,
       "usageNote": "BEYWATCH pickRate 43.9% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/3-60.webp"
     },
     {
@@ -1893,7 +1893,7 @@
       "protrusions": 1,
       "usagePct": 18.5,
       "usageNote": "BEYWATCH pickRate 18.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/1-70.webp"
     },
     {
@@ -1920,7 +1920,7 @@
       "protrusions": 1,
       "usagePct": 9.7,
       "usageNote": "BEYWATCH pickRate 9.7% (as of 2026-11-14)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/1-50.webp"
     },
     {
@@ -1948,7 +1948,7 @@
       "protrusions": 7,
       "usagePct": 22.6,
       "usageNote": "BEYWATCH pickRate 22.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/7-60.webp"
     },
     {
@@ -1974,7 +1974,7 @@
       "protrusions": 5,
       "usagePct": 23.4,
       "usageNote": "BEYWATCH pickRate 23.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/5-60.webp"
     },
     {
@@ -2000,7 +2000,7 @@
       "protrusions": 4,
       "usagePct": 5.1,
       "usageNote": "BEYWATCH pickRate 5.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/4-50.webp"
     },
     {
@@ -2027,7 +2027,7 @@
       "protrusions": 6,
       "usagePct": 5.7,
       "usageNote": "BEYWATCH pickRate 5.7% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/6-60.webp"
     },
     {
@@ -2054,7 +2054,7 @@
       "protrusions": 9,
       "usagePct": 6.2,
       "usageNote": "BEYWATCH pickRate 6.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/9-70.webp"
     },
     {
@@ -2080,7 +2080,7 @@
       "protrusions": 0,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/0-60.webp"
     },
     {
@@ -2106,7 +2106,7 @@
       "protrusions": 0,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH pickRate 0.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/0-70.webp"
     },
     {
@@ -2132,7 +2132,7 @@
       "protrusions": 0,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/0-80.webp"
     },
     {
@@ -2158,7 +2158,7 @@
       "protrusions": 2,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH pickRate 0.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/2-60.webp"
     },
     {
@@ -2184,7 +2184,7 @@
       "protrusions": 2,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/2-70.webp"
     },
     {
@@ -2208,7 +2208,7 @@
       "protrusions": 2,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/2-80.webp"
     },
     {
@@ -2234,7 +2234,7 @@
       "protrusions": 3,
       "usagePct": 2.6,
       "usageNote": "BEYWATCH pickRate 2.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/3-70.webp"
     },
     {
@@ -2260,7 +2260,7 @@
       "protrusions": 3,
       "usagePct": 1.4,
       "usageNote": "BEYWATCH pickRate 1.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/3-80.webp"
     },
     {
@@ -2286,7 +2286,7 @@
       "protrusions": 3,
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/3-85.webp"
     },
     {
@@ -2312,7 +2312,7 @@
       "protrusions": 4,
       "usagePct": 2.2,
       "usageNote": "BEYWATCH pickRate 2.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/4-55.webp"
     },
     {
@@ -2338,7 +2338,7 @@
       "protrusions": 4,
       "usagePct": 2.3,
       "usageNote": "BEYWATCH pickRate 2.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/4-60.webp"
     },
     {
@@ -2364,7 +2364,7 @@
       "protrusions": 4,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/4-70.webp"
     },
     {
@@ -2388,7 +2388,7 @@
       "protrusions": 4,
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/4-80.webp"
     },
     {
@@ -2415,7 +2415,7 @@
       "protrusions": 5,
       "usagePct": 1.0,
       "usageNote": "BEYWATCH pickRate 0.9% (as of 2026-11-16)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/5-50.webp"
     },
     {
@@ -2441,7 +2441,7 @@
       "protrusions": 5,
       "usagePct": 2.1,
       "usageNote": "BEYWATCH pickRate 2.2% (as of 2026-11-16)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/5-70.webp"
     },
     {
@@ -2465,7 +2465,7 @@
       "protrusions": 5,
       "usagePct": 0.8,
       "usageNote": "BEYWATCH pickRate 0.8% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/5-80.webp"
     },
     {
@@ -2489,7 +2489,7 @@
       "protrusions": 6,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/6-70.webp"
     },
     {
@@ -2513,7 +2513,7 @@
       "protrusions": 6,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/6-80.webp"
     },
     {
@@ -2537,7 +2537,7 @@
       "protrusions": 7,
       "usagePct": 1.0,
       "usageNote": "BEYWATCH pickRate 1.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/7-55.webp"
     },
     {
@@ -2564,7 +2564,7 @@
       "protrusions": 7,
       "usagePct": 6.3,
       "usageNote": "BEYWATCH pickRate 6.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/7-70.webp"
     },
     {
@@ -2590,7 +2590,7 @@
       "protrusions": 8,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.5% (as of 2026-11-16)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/8-70.webp"
     },
     {
@@ -2614,7 +2614,7 @@
       "protrusions": 8,
       "usagePct": 0.0,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/8-80.webp"
     },
     {
@@ -2638,7 +2638,7 @@
       "protrusions": 9,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/9-65.webp"
     },
     {
@@ -2662,7 +2662,7 @@
       "protrusions": 9,
       "usagePct": 1.4,
       "usageNote": "BEYWATCH pickRate 1.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/9-80.webp"
     },
     {
@@ -2688,7 +2688,7 @@
       "protrusions": "M",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/ratchets/m-85.webp"
     },
     {
@@ -2716,7 +2716,7 @@
       "protrusions": 1,
       "usagePct": 2.1,
       "usageNote": "BEYWATCH pickRate 2.1% (as of 2026-11-14)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "code": "BX/UX ratchet",
       "notes": "Gap-fill 2026-09-21 — on BEYWATCH, was missing from catalog",
       "image": "img/ratchets/1-80.webp"
@@ -2742,7 +2742,7 @@
       "protrusions": 7,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "code": "BX/UX ratchet",
       "notes": "Gap-fill 2026-09-21 — on BEYWATCH, was missing from catalog",
       "image": "img/ratchets/7-80.webp"
@@ -2773,7 +2773,7 @@
       "mech": "Hexagonal tip; high burst resist",
       "usagePct": 46.5,
       "usageNote": "BEYWATCH pickRate 46.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/hexa.webp"
     },
     {
@@ -2801,7 +2801,7 @@
       "mech": "Free-spinning axle ball",
       "usagePct": 25.0,
       "usageNote": "BEYWATCH pickRate 24.9% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/free-ball.webp"
     },
     {
@@ -2828,7 +2828,7 @@
       "mech": "Lower Rush flat",
       "usagePct": 44.1,
       "usageNote": "BEYWATCH pickRate 44.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/low-rush.webp"
     },
     {
@@ -2855,7 +2855,7 @@
       "mech": "Flat rush tip",
       "usagePct": 44.1,
       "usageNote": "BEYWATCH pickRate 44.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/rush.webp"
     },
     {
@@ -2881,7 +2881,7 @@
       "mech": "Leveling tip behavior",
       "usagePct": 20.3,
       "usageNote": "BEYWATCH pickRate 20.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/level.webp"
     },
     {
@@ -2909,7 +2909,7 @@
       "mech": "Kick/pocket oriented",
       "usagePct": 26.8,
       "usageNote": "BEYWATCH pickRate 26.8% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/kick.webp"
     },
     {
@@ -2935,7 +2935,7 @@
       "mech": "Height-changing / elevate motion",
       "usagePct": 21.7,
       "usageNote": "BEYWATCH pickRate 21.7% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/elevate.webp"
     },
     {
@@ -2960,7 +2960,7 @@
       "mech": "Newer CX tip",
       "usagePct": 4.7,
       "usageNote": "BEYWATCH pickRate 4.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/narrow.webp"
     },
     {
@@ -2985,7 +2985,7 @@
       "mech": "Aggressive attack tip",
       "usagePct": 5.5,
       "usageNote": "BEYWATCH pickRate 5.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/jolt.webp"
     },
     {
@@ -3010,7 +3010,7 @@
       "mech": "Classic ball tip",
       "usagePct": 15.8,
       "usageNote": "BEYWATCH pickRate 15.8% (as of 2026-11-16)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/ball.webp"
     },
     {
@@ -3035,7 +3035,7 @@
       "mech": "Flat tip",
       "usagePct": 2.8,
       "usageNote": "BEYWATCH pickRate 2.8% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/flat.webp"
     },
     {
@@ -3061,7 +3061,7 @@
       "mech": "Shorter Flat",
       "usagePct": 4.4,
       "usageNote": "BEYWATCH pickRate 4.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/low-flat.webp"
     },
     {
@@ -3086,7 +3086,7 @@
       "mech": "Accel flat variant",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/accel.webp"
     },
     {
@@ -3111,7 +3111,7 @@
       "mech": "Geared flat",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/gear-flat.webp"
     },
     {
@@ -3136,7 +3136,7 @@
       "mech": "Geared Rush",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/gear-rush.webp"
     },
     {
@@ -3161,7 +3161,7 @@
       "mech": "Under-profile flat",
       "usagePct": 0.9,
       "usageNote": "BEYWATCH pickRate 0.9% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/under-flat.webp"
     },
     {
@@ -3186,7 +3186,7 @@
       "mech": "Free-spinning Flat",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/free-flat.webp"
     },
     {
@@ -3211,7 +3211,7 @@
       "mech": "Rubber Accel",
       "usagePct": 2.6,
       "usageNote": "BEYWATCH pickRate 2.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/rubber-accel.webp"
     },
     {
@@ -3236,7 +3236,7 @@
       "mech": "CX turbo tip",
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/turbo.webp"
     },
     {
@@ -3261,7 +3261,7 @@
       "mech": "Unique attack tip",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/zap.webp"
     },
     {
@@ -3286,7 +3286,7 @@
       "mech": "Oscillating attack",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/quake.webp"
     },
     {
@@ -3311,7 +3311,7 @@
       "mech": "Left-spin cyclone",
       "usagePct": 0.9,
       "usageNote": "BEYWATCH pickRate 0.9% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/cyclone.webp"
     },
     {
@@ -3337,7 +3337,7 @@
       "mech": "Merge tip",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/merge.webp"
     },
     {
@@ -3362,7 +3362,7 @@
       "mech": "CX Bahamut tip",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/ignition.webp"
     },
     {
@@ -3387,7 +3387,7 @@
       "mech": "Bound spike",
       "usagePct": 0.5,
       "usageNote": "BEYWATCH pickRate 0.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/bound-spike.webp"
     },
     {
@@ -3412,7 +3412,7 @@
       "mech": "Tapered tip",
       "usagePct": 5.6,
       "usageNote": "BEYWATCH pickRate 5.7% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/taper.webp"
     },
     {
@@ -3437,7 +3437,7 @@
       "mech": "Taller taper",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/high-taper.webp"
     },
     {
@@ -3462,7 +3462,7 @@
       "mech": "Sharp needle",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/needle.webp"
     },
     {
@@ -3487,7 +3487,7 @@
       "mech": "Tall needle",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/high-needle.webp"
     },
     {
@@ -3513,7 +3513,7 @@
       "mech": "Point tip",
       "usagePct": 10.8,
       "usageNote": "BEYWATCH pickRate 10.9% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/point.webp"
     },
     {
@@ -3538,7 +3538,7 @@
       "mech": "Orb tip",
       "usagePct": 2.4,
       "usageNote": "BEYWATCH pickRate 2.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/orb.webp"
     },
     {
@@ -3564,7 +3564,7 @@
       "mech": "Lower Orb",
       "usagePct": 8.5,
       "usageNote": "BEYWATCH pickRate 8.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/low-orb.webp"
     },
     {
@@ -3589,7 +3589,7 @@
       "mech": "Spike tip",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/spike.webp"
     },
     {
@@ -3614,7 +3614,7 @@
       "mech": "Geared ball",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/gear-ball.webp"
     },
     {
@@ -3639,7 +3639,7 @@
       "mech": "Geared point",
       "usagePct": 0.8,
       "usageNote": "BEYWATCH pickRate 0.8% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/gear-point.webp"
     },
     {
@@ -3665,7 +3665,7 @@
       "mech": "Geared needle",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/gear-needle.webp"
     },
     {
@@ -3690,7 +3690,7 @@
       "mech": "Disc + ball",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/disc-ball.webp"
     },
     {
@@ -3715,7 +3715,7 @@
       "mech": "Metal needle",
       "usagePct": 0.0,
       "usageNote": "BEYWATCH pickRate 0.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/metal-needle.webp"
     },
     {
@@ -3740,7 +3740,7 @@
       "mech": "Unite tip",
       "usagePct": 2.6,
       "usageNote": "BEYWATCH pickRate 2.7% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/unite.webp"
     },
     {
@@ -3765,7 +3765,7 @@
       "mech": "Glide stamina",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/glide.webp"
     },
     {
@@ -3791,7 +3791,7 @@
       "mech": "Under needle",
       "usagePct": 2.9,
       "usageNote": "BEYWATCH pickRate 2.9% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/under-needle.webp"
     },
     {
@@ -3817,7 +3817,7 @@
       "mech": "Wedge tip",
       "usagePct": 4.8,
       "usageNote": "BEYWATCH pickRate 4.8% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/wedge.webp"
     },
     {
@@ -3842,7 +3842,7 @@
       "mech": "Vortex tip",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/vortex.webp"
     },
     {
@@ -3867,7 +3867,7 @@
       "mech": "Wall ball",
       "usagePct": 1.0,
       "usageNote": "BEYWATCH pickRate 1.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/wall-ball.webp"
     },
     {
@@ -3892,7 +3892,7 @@
       "mech": "Transform kick",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/trans-kick.webp"
     },
     {
@@ -3917,7 +3917,7 @@
       "mech": "Transform point",
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/trans-point.webp"
     },
     {
@@ -3942,7 +3942,7 @@
       "mech": "Operate tip",
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/operate.webp"
     },
     {
@@ -3967,7 +3967,7 @@
       "mech": "Yielding tip",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/yielding.webp"
     },
     {
@@ -3992,7 +3992,7 @@
       "mech": "Dot tip",
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/dot.webp"
     },
     {
@@ -4017,7 +4017,7 @@
       "scoreBase": 45,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH pickRate 0.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/disk-spike.webp"
     },
     {
@@ -4041,7 +4041,7 @@
       "scoreBase": 45,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/wall-wedge.webp"
     },
     {
@@ -4065,7 +4065,7 @@
       "scoreBase": 45,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH pickRate 0.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "image": "img/bits/gear-unite.webp"
     },
     {
@@ -4087,12 +4087,12 @@
         "Luster Dragoon 6-60"
       ],
       "scoreBase": 40,
-      "priceNote": "acquisition via BX-52 starter — Animes Pro sealed HK$145 缺貨; BuyMarketToy HK$185 現貨 有貨; GCS HK$198 有貨; Incubase HK$149 有貨; HobbyDigi HK$159.9 有貨; Moonroad 預購 HK$199 缺貨; Battleground listing absent; UP-NEXT parallel HK$229 有貨 (as of 2026-11-13 via up-next.com.hk products.json). Japan street 2026-10-10. BEYWATCH games=0; usagePct null.",
+      "priceNote": "acquisition via BX-52 starter — HK sealed ~2026-11-19: Moonroad starter HK$130 有貨 (was HK$199); The Club 【組合】HK$140 有貨 (InStock); Incubase HK$149 有貨; HobbyDigi HK$149.90 有貨; BuyMarketToy 港版現貨 HK$175 有貨; BMT 11月出貨 HK$185 有貨→缺貨; GCS HK$198 有貨; Battleground HK$198 有貨; Animes Pro HK$145 缺貨; UP-NEXT official HK$229 缺貨, parallel HK$229 有貨 (qty 6). Japan street 2026-10-10. BEYWATCH games=0; usagePct null.",
       "mech": "Low Cyclone (LC); official stock Bit for BX-52 Luster Dragoon",
       "notes": "BX-52 stock bit (Japan street 2026-10-10). BEYWATCH games=0; Unranked / usagePct null.",
       "usagePct": null,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-11-18"
+      "usageAsOf": "2026-11-19"
     },
     {
       "id": "low-point",
@@ -4118,7 +4118,7 @@
       "notes": "Hasbro G2745 stock Bit; public release timing reported Aug–Oct 2026 depending market.",
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18"
+      "usageAsOf": "2026-11-19"
     }
   ],
   "lockChips": [
@@ -4145,7 +4145,7 @@
       "scoreBase": 95,
       "usagePct": 5.8,
       "usageNote": "BEYWATCH pickRate 5.7% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": true,
       "image": "img/lockChips/emperor.webp"
@@ -4173,7 +4173,7 @@
       "scoreBase": 68,
       "usagePct": 3.8,
       "usageNote": "BEYWATCH pickRate 3.8% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/pegasus.webp"
@@ -4201,7 +4201,7 @@
       "scoreBase": 95,
       "usagePct": 2.2,
       "usageNote": "BEYWATCH pickRate 2.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": true,
       "image": "img/lockChips/valkyrie.webp"
@@ -4227,7 +4227,7 @@
       "scoreBase": 42,
       "usagePct": 0.9,
       "usageNote": "BEYWATCH pickRate 0.9% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/sol.webp"
@@ -4255,7 +4255,7 @@
       "scoreBase": 68,
       "usagePct": 0.8,
       "usageNote": "BEYWATCH pickRate 0.8% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/dran.webp"
@@ -4281,7 +4281,7 @@
       "scoreBase": 55,
       "usagePct": 0.7,
       "usageNote": "BEYWATCH pickRate 0.7% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/hells.webp"
@@ -4307,7 +4307,7 @@
       "scoreBase": 42,
       "usagePct": 0.7,
       "usageNote": "BEYWATCH pickRate 0.7% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/bahamut.webp"
@@ -4333,7 +4333,7 @@
       "scoreBase": 42,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/fox.webp"
@@ -4359,7 +4359,7 @@
       "scoreBase": 68,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/unicorn.webp"
@@ -4385,7 +4385,7 @@
       "scoreBase": 55,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/wolf.webp"
@@ -4411,7 +4411,7 @@
       "scoreBase": 40,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH pickRate 0.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/cerberus.webp"
@@ -4437,7 +4437,7 @@
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/perseus.webp"
@@ -4463,7 +4463,7 @@
       "scoreBase": 40,
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/phoenix.webp"
@@ -4490,7 +4490,7 @@
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/wizard.webp"
@@ -4518,7 +4518,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/hornet.webp"
@@ -4544,7 +4544,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/knight.webp"
@@ -4572,7 +4572,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/kraken.webp"
@@ -4598,7 +4598,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/ragna.webp"
@@ -4626,7 +4626,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/rhino.webp"
@@ -4654,7 +4654,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/whale.webp"
@@ -4682,7 +4682,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/brachio.webp"
@@ -4710,7 +4710,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/leon.webp"
@@ -4738,7 +4738,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": null
@@ -4766,7 +4766,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH pickRate 0.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/croco.webp"
@@ -4794,7 +4794,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH pickRate 0.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/drake.webp"
@@ -4822,7 +4822,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH pickRate 0.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/enlil.webp"
@@ -4850,7 +4850,7 @@
       "scoreBase": 40,
       "usagePct": null,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": null
@@ -4878,7 +4878,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH pickRate 0.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/croc.webp"
@@ -4906,7 +4906,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/eva.webp"
@@ -4934,7 +4934,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": null
@@ -4962,7 +4962,7 @@
       "scoreBase": 40,
       "usagePct": null,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip",
       "metal": false,
       "image": "img/lockChips/tiga.webp"
@@ -4990,7 +4990,7 @@
       "scoreBase": 40,
       "usagePct": null,
       "usageNote": "no tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "lockChip"
     }
   ],
@@ -5023,7 +5023,7 @@
       "scoreBase": 95,
       "usagePct": 11.5,
       "usageNote": "BEYWATCH pickRate 11.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/blast.webp"
     },
@@ -5054,7 +5054,7 @@
       "scoreBase": 55,
       "usagePct": 1.4,
       "usageNote": "BEYWATCH pickRate 1.4% (as of 2026-11-16)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/delta.webp"
     },
@@ -5085,7 +5085,7 @@
       "scoreBase": 42,
       "usagePct": 1.0,
       "usageNote": "BEYWATCH pickRate 1.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/brave.webp"
     },
@@ -5116,7 +5116,7 @@
       "scoreBase": 68,
       "usagePct": 0.9,
       "usageNote": "BEYWATCH pickRate 0.9% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/blitz.webp"
     },
@@ -5147,7 +5147,7 @@
       "scoreBase": 55,
       "usagePct": 0.8,
       "usageNote": "BEYWATCH pickRate 0.8% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/eclipse.webp"
     },
@@ -5180,7 +5180,7 @@
       "scoreBase": 55,
       "usagePct": 0.6,
       "usageNote": "BEYWATCH pickRate 0.6% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/rage.webp"
     },
@@ -5211,7 +5211,7 @@
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/arc.webp"
     },
@@ -5242,7 +5242,7 @@
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/flare.webp"
     },
@@ -5273,7 +5273,7 @@
       "scoreBase": 40,
       "usagePct": 0.5,
       "usageNote": "BEYWATCH pickRate 0.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/might.webp"
     },
@@ -5304,7 +5304,7 @@
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/brush.webp"
     },
@@ -5335,7 +5335,7 @@
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/fortress.webp"
     },
@@ -5366,7 +5366,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/hunt.webp"
     },
@@ -5397,7 +5397,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/dark.webp"
     },
@@ -5428,7 +5428,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/reaper.webp"
     },
@@ -5459,7 +5459,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/volt.webp"
     },
@@ -5490,7 +5490,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/antler.webp"
     },
@@ -5521,7 +5521,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/fang.webp"
     },
@@ -5552,7 +5552,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/flame.webp"
     },
@@ -5583,7 +5583,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/wriggle.webp"
     },
@@ -5614,7 +5614,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/fort.webp"
     },
@@ -5645,7 +5645,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/tread.webp"
     },
@@ -5676,7 +5676,7 @@
       "scoreBase": 42,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "mainBlade",
       "image": "img/mainBlades/whip.webp"
     }
@@ -5705,7 +5705,7 @@
       "scoreBase": 95,
       "usagePct": 9.5,
       "usageNote": "BEYWATCH pickRate 9.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/heavy.webp"
     },
@@ -5731,7 +5731,7 @@
       "scoreBase": 68,
       "usagePct": 3.7,
       "usageNote": "BEYWATCH pickRate 3.8% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/wheel.webp"
     },
@@ -5756,7 +5756,7 @@
       "scoreBase": 55,
       "usagePct": 1.5,
       "usageNote": "BEYWATCH pickRate 1.5% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/jaggy.webp"
     },
@@ -5782,7 +5782,7 @@
       "scoreBase": 55,
       "usagePct": 1.1,
       "usageNote": "BEYWATCH pickRate 1.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/slash.webp"
     },
@@ -5808,7 +5808,7 @@
       "scoreBase": 82,
       "usagePct": 0.7,
       "usageNote": "BEYWATCH pickRate 0.7% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/free.webp"
     },
@@ -5833,7 +5833,7 @@
       "scoreBase": 40,
       "usagePct": 0.4,
       "usageNote": "BEYWATCH pickRate 0.4% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/assault.webp"
     },
@@ -5858,7 +5858,7 @@
       "scoreBase": 40,
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/turn.webp"
     },
@@ -5883,7 +5883,7 @@
       "scoreBase": 40,
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/bumper.webp"
     },
@@ -5908,7 +5908,7 @@
       "scoreBase": 40,
       "usagePct": 0.3,
       "usageNote": "BEYWATCH pickRate 0.3% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/dual.webp"
     },
@@ -5933,7 +5933,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/knuckle.webp"
     },
@@ -5958,7 +5958,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/massive.webp"
     },
@@ -5983,7 +5983,7 @@
       "scoreBase": 40,
       "usagePct": 0.2,
       "usageNote": "BEYWATCH pickRate 0.2% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/round.webp"
     },
@@ -6008,7 +6008,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/charge.webp"
     },
@@ -6033,7 +6033,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/erase.webp"
     },
@@ -6058,7 +6058,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/vertical.webp"
     },
@@ -6083,7 +6083,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH pickRate 0.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/gravity.webp"
     },
@@ -6108,7 +6108,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "BEYWATCH pickRate 0.0% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/odd.webp"
     },
@@ -6133,7 +6133,7 @@
       "scoreBase": 40,
       "usagePct": 0.1,
       "usageNote": "BEYWATCH pickRate 0.1% (as of 2026-11-12)",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/zillion.webp"
     },
@@ -6158,7 +6158,7 @@
       "scoreBase": 40,
       "usagePct": 0.0,
       "usageNote": "no released-product tournament sample yet (BEYWATCH games=0); usagePct null",
-      "usageAsOf": "2026-11-18",
+      "usageAsOf": "2026-11-19",
       "kind": "assistBlade",
       "image": "img/assistBlades/quell.webp"
     }
