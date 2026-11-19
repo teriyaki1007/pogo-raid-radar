@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-11-19",
-    "asOfLabel": "19 Nov 2026 ~10:30 PM HKT (Cresselia + Darkrai Raid Hour ended worldwide. Gym rotation, eggs, and Rocket unchanged.)",
+    "asOf": "2026-11-20",
+    "asOfLabel": "20 Nov 2026 ~6:30 AM HKT (Official Remote Raid limit 30: Fri 20 Nov 1:00 PM–Sat 21 Nov 6:00 PM PST. Gym rotation, eggs, and Rocket unchanged.)",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Evening refresh 19 Nov ~10:30 PM HKT: Cresselia + Darkrai Raid Hour (Wed 18 Nov 6:00–7:00 PM local) has now ended worldwide, including North America and remaining western time zones. Current gym rotation is unchanged and still LIVE worldwide: Cresselia + Darkrai 5★ (hundo 1633 / 2041 Windy and 2136 / 2671 Fog) and Mega Banette (catch Banette, hundo 1313 / 1642 Fog) through Tue 24 Nov 10:00 PM local on Leek Duck event pages; official Twilight Wishes 1★/3★/Mega start Tue 24 Nov 10:00 AM local and may replace the current standard and Mega pool then. Standard 1★ remain Alolan Meowth (455 / 569 Fog), Misdreavus (1100 / 1376 Fog), Galarian Yamask (561 / 701 Sunny/Fog), Sandygast (705 / 881 Fog/Sunny); 3★ Alolan Marowak (1048 / 1311 Sunny/Fog), Liepard (1055 / 1318 Fog), Golurk (1630 / 2038 Sunny/Fog) — all shiny-eligible (Leek Duck / GO Hub / ScrapedDuck). Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current. Shadow Tornadus (Incarnate) 5★ package window is LIVE — weekends only, next Sat 21–Sun 22 Nov, through Tue 1 Dec 10:00 PM local. Dynamax Trails still LIVE worldwide through Mon 23 Nov 8:00 PM local (official: all previously released Dynamax except Legendary/Mythical may appear; Eternamax Eternatus Sat 21 Nov 11:00 AM–2:00 PM local — not catchable from those battles, candy/XL only). Next Max Monday is Mon 23 Nov 6:00 AM–9:00 PM local featuring Dynamax Espurr. Eggs unchanged (Leek Duck Updated Sep 14; leftover Wild Area 10 km event eggs can still hatch that pool). Rocket unchanged (Leek Duck Updated Oct 2; Giovanni inactive).",
-      "endsAtLabel": "Raid Hour ended worldwide · Cresselia + Darkrai + Mega Banette + standard 1★/3★ LIVE worldwide through Tue 24 Nov 10:00 PM local · Dynamax Trails LIVE through Mon 23 Nov 8:00 PM local"
+      "text": "Morning refresh 20 Nov ~6:30 AM HKT: Official Dynamax Trails / Eternatus-return bonus — daily Remote Raid limit rises from 10 to 30 from Fri 20 Nov 1:00 PM to Sat 21 Nov 6:00 PM PST (GMT−8; Sat 21 Nov 5:00 AM – Sun 22 Nov 10:00 AM HKT). Current gym rotation is unchanged and still LIVE worldwide: Cresselia + Darkrai 5★ (hundo 1633 / 2041 Windy and 2136 / 2671 Fog) and Mega Banette (catch Banette, hundo 1313 / 1642 Fog) through Tue 24 Nov 10:00 PM local on Leek Duck event pages; official Twilight Wishes 1★/3★/Mega start Tue 24 Nov 10:00 AM local and may replace the current standard and Mega pool then. Standard 1★ remain Alolan Meowth (455 / 569 Fog), Misdreavus (1100 / 1376 Fog), Galarian Yamask (561 / 701 Sunny/Fog), Sandygast (705 / 881 Fog/Sunny); 3★ Alolan Marowak (1048 / 1311 Sunny/Fog), Liepard (1055 / 1318 Fog), Golurk (1630 / 2038 Sunny/Fog) — all shiny-eligible (Leek Duck / GO Hub / ScrapedDuck). Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current. Shadow Tornadus (Incarnate) 5★ package window is LIVE — weekends only, next Sat 21–Sun 22 Nov, through Tue 1 Dec 10:00 PM local. Dynamax Trails still LIVE worldwide through Mon 23 Nov 8:00 PM local (official: all previously released Dynamax except Legendary/Mythical may appear; Eternamax Eternatus Sat 21 Nov 11:00 AM–2:00 PM local — not catchable from those battles, candy/XL only). Next Max Monday is Mon 23 Nov 6:00 AM–9:00 PM local featuring Dynamax Espurr. Eggs unchanged (Leek Duck Updated Sep 14; leftover Wild Area 10 km event eggs can still hatch that pool). Rocket unchanged (Leek Duck Updated Oct 2; Giovanni inactive).",
+      "endsAtLabel": "Remote Raid limit 30: Fri 20 Nov 1:00 PM–Sat 21 Nov 6:00 PM PST · Cresselia + Darkrai + Mega Banette + standard 1★/3★ LIVE worldwide through Tue 24 Nov 10:00 PM local · Dynamax Trails LIVE through Mon 23 Nov 8:00 PM local"
     },
     "legend": {
       "standard": {
@@ -3355,8 +3355,15 @@
       "id": "dynamax-trails-nov16",
       "when": "Mon 16 Nov 10:00 AM – Mon 23 Nov 8:00 PM local (LIVE worldwide)",
       "title": "Dynamax Trails (LIVE worldwide)",
-      "impact": "Official week of Max Battles: all Dynamax Pokémon that have appeared in Pokémon GO may appear (excludes Legendary and Mythical). Now LIVE worldwide as of 17 Nov ~6:30 AM HKT (Americas have passed Mon 16 Nov 10:00 AM local). More Power Spots than usual; chance of a Special Background on Max Battle catches. Eternamax Eternatus takes over most Power Spots Sat 21 Nov 11:00 AM–2:00 PM local (not catchable from those battles — Eternatus Candy/XL only; the Eternatus encounter is via GO Pass: Dynamax Trails). The 16 Nov Max Monday was canceled (Dynamax Trails ran instead). Next Max Monday is Mon 23 Nov 6:00 AM–9:00 PM local featuring Dynamax Espurr. Sources: Pokémon GO Live (dynamax-trails-eternamax-eternatus-2026) + Leek Duck events.",
+      "impact": "Official week of Max Battles: all Dynamax Pokémon that have appeared in Pokémon GO may appear (excludes Legendary and Mythical). Now LIVE worldwide as of 17 Nov ~6:30 AM HKT (Americas have passed Mon 16 Nov 10:00 AM local). More Power Spots than usual; chance of a Special Background on Max Battle catches. Eternamax Eternatus takes over most Power Spots Sat 21 Nov 11:00 AM–2:00 PM local (not catchable from those battles — Eternatus Candy/XL only; the Eternatus encounter is via GO Pass: Dynamax Trails). The 16 Nov Max Monday was canceled (Dynamax Trails ran instead). Next Max Monday is Mon 23 Nov 6:00 AM–9:00 PM local featuring Dynamax Espurr. Sources: Pokémon GO Live (dynamax-trails-eternamax-eternatus-2026) + Leek Duck events. Official Eternatus-return bonus: daily Remote Raid limit increases from 10 to 30 from Fri 20 Nov 1:00 PM to Sat 21 Nov 6:00 PM PST (GMT−8).",
       "urgent": false
+    },
+    {
+      "id": "remote-raid-limit-30-nov20",
+      "when": "Fri 20 Nov 1:00 PM – Sat 21 Nov 6:00 PM PST (GMT−8) (upcoming)",
+      "title": "Daily Remote Raid limit 30 (upcoming)",
+      "impact": "Official Dynamax Trails / Eternatus-return bonus: the daily Remote Raid limit increases from 10 to 30 for this fixed PST window (not player-local). In Hong Kong that is Sat 21 Nov 5:00 AM – Sun 22 Nov 10:00 AM HKT. Source: official Pokémon GO Live Dynamax Trails post (pokemongolive.com/en/news/dynamax-trails-eternamax-eternatus-2026).",
+      "urgent": true
     },
     {
       "id": "max-monday-nov16-canceled",
@@ -3369,7 +3376,7 @@
       "id": "eternamax-eternatus-nov21",
       "when": "Sat 21 Nov 11:00 AM – 2:00 PM local (upcoming)",
       "title": "Eternamax Eternatus Max Battles (upcoming)",
-      "impact": "During Dynamax Trails, Eternamax Eternatus takes over the majority of Power Spots for three hours. You cannot catch Eternamax Eternatus from these Max Battles; rewards are Eternatus Candy and Candy XL for the Eternatus obtained via GO Pass: Dynamax Trails (one catch per Trainer this event, or 100 candy if already caught). Source: official Pokémon GO Live Dynamax Trails post + Leek Duck events.",
+      "impact": "During Dynamax Trails, Eternamax Eternatus takes over the majority of Power Spots for three hours. You cannot catch Eternamax Eternatus from these Max Battles; rewards are Eternatus Candy and Candy XL for the Eternatus obtained via GO Pass: Dynamax Trails (one catch per Trainer this event, or 100 candy if already caught). Source: official Pokémon GO Live Dynamax Trails post + Leek Duck events. Official bonuses listed with this window: Power Spots refresh more frequently; Max Particle collection limit increased to 2,400; 8× Max Particles from Power Spots; and the daily Remote Raid limit increases from 10 to 30 from Fri 20 Nov 1:00 PM to Sat 21 Nov 6:00 PM PST (GMT−8).",
       "urgent": false
     },
     {
