@@ -1,13 +1,13 @@
 {
   "meta": {
-    "asOf": "2026-11-20",
-    "asOfLabel": "20 Nov 2026 ~6:30 AM HKT (Official Remote Raid limit 30: Fri 20 Nov 1:00 PM–Sat 21 Nov 6:00 PM PST. Gym rotation, eggs, and Rocket unchanged.)",
+    "asOf": "2026-11-21",
+    "asOfLabel": "21 Nov 2026 ~6:30 AM HKT (Remote Raid limit 30 now LIVE worldwide. Shadow Tornadus weekend window LIVE. Gym rotation, eggs, and Rocket unchanged.)",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Morning refresh 20 Nov ~6:30 AM HKT: Official Dynamax Trails / Eternatus-return bonus — daily Remote Raid limit rises from 10 to 30 from Fri 20 Nov 1:00 PM to Sat 21 Nov 6:00 PM PST (GMT−8; Sat 21 Nov 5:00 AM – Sun 22 Nov 10:00 AM HKT). Current gym rotation is unchanged and still LIVE worldwide: Cresselia + Darkrai 5★ (hundo 1633 / 2041 Windy and 2136 / 2671 Fog) and Mega Banette (catch Banette, hundo 1313 / 1642 Fog) through Tue 24 Nov 10:00 PM local on Leek Duck event pages; official Twilight Wishes 1★/3★/Mega start Tue 24 Nov 10:00 AM local and may replace the current standard and Mega pool then. Standard 1★ remain Alolan Meowth (455 / 569 Fog), Misdreavus (1100 / 1376 Fog), Galarian Yamask (561 / 701 Sunny/Fog), Sandygast (705 / 881 Fog/Sunny); 3★ Alolan Marowak (1048 / 1311 Sunny/Fog), Liepard (1055 / 1318 Fog), Golurk (1630 / 2038 Sunny/Fog) — all shiny-eligible (Leek Duck / GO Hub / ScrapedDuck). Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current. Shadow Tornadus (Incarnate) 5★ package window is LIVE — weekends only, next Sat 21–Sun 22 Nov, through Tue 1 Dec 10:00 PM local. Dynamax Trails still LIVE worldwide through Mon 23 Nov 8:00 PM local (official: all previously released Dynamax except Legendary/Mythical may appear; Eternamax Eternatus Sat 21 Nov 11:00 AM–2:00 PM local — not catchable from those battles, candy/XL only). Next Max Monday is Mon 23 Nov 6:00 AM–9:00 PM local featuring Dynamax Espurr. Eggs unchanged (Leek Duck Updated Sep 14; leftover Wild Area 10 km event eggs can still hatch that pool). Rocket unchanged (Leek Duck Updated Oct 2; Giovanni inactive).",
-      "endsAtLabel": "Remote Raid limit 30: Fri 20 Nov 1:00 PM–Sat 21 Nov 6:00 PM PST · Cresselia + Darkrai + Mega Banette + standard 1★/3★ LIVE worldwide through Tue 24 Nov 10:00 PM local · Dynamax Trails LIVE through Mon 23 Nov 8:00 PM local"
+      "text": "Morning refresh 21 Nov ~6:30 AM HKT: Official Dynamax Trails / Eternatus-return bonus is now LIVE worldwide — daily Remote Raid limit is 30 (instead of 10) from Fri 20 Nov 1:00 PM to Sat 21 Nov 6:00 PM PST (GMT−8; Sat 21 Nov 5:00 AM – Sun 22 Nov 10:00 AM HKT). Shadow Tornadus (Incarnate) 5★ weekend window is LIVE Sat 21–Sun 22 Nov (package through Tue 1 Dec 10:00 PM local; weekends only). Eternamax Eternatus Max Battles are LIVE in New Zealand / UTC+13+ and start 11:00 AM–2:00 PM local later today elsewhere, including 11:00 AM HKT (not catchable from those battles — candy/XL only; Eternatus encounter is via GO Pass: Dynamax Trails). Pawniard Community Day is 2:00–5:00 PM local today (1/4 egg hatch distance for eggs placed in an Incubator during the event; evolve buddy Bisharp after a Dark- or Steel-type raid boss for a Kowtow Cleave Kingambit through 9:00 PM local) — no published raid-pool change. Current gym rotation is unchanged and still LIVE worldwide: Cresselia + Darkrai 5★ (hundo 1633 / 2041 Windy and 2136 / 2671 Fog) and Mega Banette (catch Banette, hundo 1313 / 1642 Fog) through Tue 24 Nov 10:00 PM local on Leek Duck event pages; official Twilight Wishes 1★/3★/Mega start Tue 24 Nov 10:00 AM local and may replace the current standard and Mega pool then. Standard 1★ remain Alolan Meowth (455 / 569 Fog), Misdreavus (1100 / 1376 Fog), Galarian Yamask (561 / 701 Sunny/Fog), Sandygast (705 / 881 Fog/Sunny); 3★ Alolan Marowak (1048 / 1311 Sunny/Fog), Liepard (1055 / 1318 Fog), Golurk (1630 / 2038 Sunny/Fog) — all shiny-eligible (Leek Duck / GO Hub / ScrapedDuck). Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current. Dynamax Trails still LIVE worldwide through Mon 23 Nov 8:00 PM local (official: all previously released Dynamax except Legendary/Mythical may appear). Next Max Monday is Mon 23 Nov 6:00 AM–9:00 PM local featuring Dynamax Espurr. Eggs unchanged (Leek Duck Updated Sep 14; leftover Wild Area 10 km event eggs can still hatch that pool). Rocket unchanged (Leek Duck Updated Oct 2; Giovanni inactive).",
+      "endsAtLabel": "Remote Raid limit 30 LIVE: Fri 20 Nov 1:00 PM–Sat 21 Nov 6:00 PM PST · Shadow Tornadus 5★ weekend LIVE Sat 21–Sun 22 Nov · Eternamax Eternatus 11:00 AM–2:00 PM local today · Cresselia + Darkrai + Mega Banette + standard 1★/3★ LIVE worldwide through Tue 24 Nov 10:00 PM local · Dynamax Trails LIVE through Mon 23 Nov 8:00 PM local"
     },
     "legend": {
       "standard": {
@@ -320,6 +320,10 @@
       {
         "name": "GO Hub — Mega Banette raid guide",
         "url": "https://pokemongohub.net/post/guide/mega-banette-raid-guide/"
+      },
+      {
+        "name": "Leek Duck — Pawniard Community Day (Nov 2026)",
+        "url": "https://leekduck.com/events/november-communityday2026/"
       }
     ],
     "disclaimer": "Raid Radar is an unofficial fan project and is not affiliated with Niantic, The Pokémon Company, or Nintendo. Data compiled from community and official sources as of the as-of date. Egg hatch rates and many shiny odds are unpublished."
@@ -1388,10 +1392,10 @@
       "catchForm": null,
       "tier": "shadow-5",
       "tierLabel": "Shadow 5★",
-      "category": "upcoming",
+      "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Mon 16 Nov 6:00 AM – Tue 1 Dec 10:00 PM local (Shadow 5★ weekends only; package window LIVE; next Sat 21–Sun 22 Nov)",
+      "window": "Mon 16 Nov 6:00 AM – Tue 1 Dec 10:00 PM local (Shadow 5★ weekends only; weekend window LIVE Sat 21–Sun 22 Nov)",
       "windowStart": "2026-11-16T06:00:00",
       "windowEnd": "2026-12-01T22:00:00",
       "shiny": true,
@@ -1407,7 +1411,7 @@
         "pokeapiId": 641,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png"
       },
-      "notes": "Longer Shadow package window is LIVE as of Mon 16 Nov 6:00 AM local (weekends only — not a Monday gym raid). Next weekend: Sat 21–Sun 22 Nov, then Sat 28–Sun 29, through Tue 1 Dec 10:00 PM local (Leek Duck event page + current bosses + ScrapedDuck). Pure Flying. Hundo CP 1911 (2389 Windy); catch range 1762–1911 / 2203–2389 Windy (Leek Duck / ScrapedDuck). Local-only; Purified Gems needed when enraged. Recommend 4–6+ trainers. Shadow 1★/3★ Larvitar/Mudkip/Makuhita/Cranidos + Prinplup/Piloswine/Poliwhirl still current (Leek Duck + GO Hub + ScrapedDuck).",
+      "notes": "Weekend Shadow 5★ window is LIVE Sat 21–Sun 22 Nov (package window through Tue 1 Dec 10:00 PM local; weekends only — not midweek). Next after this weekend: Sat 28–Sun 29. Source: Leek Duck event page + current bosses + ScrapedDuck. Pure Flying. Hundo CP 1911 (2389 Windy); catch range 1762–1911 / 2203–2389 Windy (Leek Duck / ScrapedDuck). Local-only; Purified Gems needed when enraged. Recommend 4–6+ trainers. Shadow 1★/3★ Larvitar/Mudkip/Makuhita/Cranidos + Prinplup/Piloswine/Poliwhirl still current (Leek Duck + GO Hub + ScrapedDuck).",
       "types": [
         "Flying"
       ],
@@ -1443,7 +1447,7 @@
         }
       ],
       "countersSource": "GO Hub Shadow Tornadus Incarnate counters (Nov 2026)",
-      "highlight": false
+      "highlight": true
     },
     {
       "id": "zacian-crowned-sword-nov9",
@@ -3346,23 +3350,23 @@
     },
     {
       "id": "shadow-tornadus-resume-nov16",
-      "when": "Mon 16 Nov 6:00 AM – Tue 1 Dec 10:00 PM local (package window LIVE · weekends only; next Sat 21–Sun 22 Nov)",
-      "title": "Shadow Tornadus (Incarnate) longer package (weekends only)",
-      "impact": "Package window is LIVE as of Mon 16 Nov 6:00 AM local. Appears in five-star Shadow Raids every weekend only (Leek Duck) — not midweek. Next: Sat 21–Sun 22 Nov, then Sat 28–Sun 29, through Tue 1 Dec 10:00 PM local. Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current. Source: Leek Duck event page + current raid bosses + ScrapedDuck.",
-      "urgent": false
+      "when": "Mon 16 Nov 6:00 AM – Tue 1 Dec 10:00 PM local (package window LIVE · weekends only; weekend window LIVE Sat 21–Sun 22 Nov)",
+      "title": "Shadow Tornadus (Incarnate) weekend window (LIVE Sat 21–Sun 22 Nov)",
+      "impact": "Weekend Shadow 5★ window is LIVE now through Sun 22 Nov local (then next Sat 28–Sun 29, through Tue 1 Dec 10:00 PM local). Appears in five-star Shadow Raids weekends only (Leek Duck) — not midweek. Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current. Source: Leek Duck event page + current raid bosses + ScrapedDuck.",
+      "urgent": true
     },
     {
       "id": "dynamax-trails-nov16",
       "when": "Mon 16 Nov 10:00 AM – Mon 23 Nov 8:00 PM local (LIVE worldwide)",
       "title": "Dynamax Trails (LIVE worldwide)",
-      "impact": "Official week of Max Battles: all Dynamax Pokémon that have appeared in Pokémon GO may appear (excludes Legendary and Mythical). Now LIVE worldwide as of 17 Nov ~6:30 AM HKT (Americas have passed Mon 16 Nov 10:00 AM local). More Power Spots than usual; chance of a Special Background on Max Battle catches. Eternamax Eternatus takes over most Power Spots Sat 21 Nov 11:00 AM–2:00 PM local (not catchable from those battles — Eternatus Candy/XL only; the Eternatus encounter is via GO Pass: Dynamax Trails). The 16 Nov Max Monday was canceled (Dynamax Trails ran instead). Next Max Monday is Mon 23 Nov 6:00 AM–9:00 PM local featuring Dynamax Espurr. Sources: Pokémon GO Live (dynamax-trails-eternamax-eternatus-2026) + Leek Duck events. Official Eternatus-return bonus: daily Remote Raid limit increases from 10 to 30 from Fri 20 Nov 1:00 PM to Sat 21 Nov 6:00 PM PST (GMT−8).",
+      "impact": "Official week of Max Battles: all Dynamax Pokémon that have appeared in Pokémon GO may appear (excludes Legendary and Mythical). Still LIVE worldwide through Mon 23 Nov 8:00 PM local. More Power Spots than usual; chance of a Special Background on Max Battle catches. Eternamax Eternatus takes over most Power Spots Sat 21 Nov 11:00 AM–2:00 PM local (not catchable from those battles — Eternatus Candy/XL only; the Eternatus encounter is via GO Pass: Dynamax Trails). Already started in New Zealand / UTC+13+; starts 11:00 AM local later today elsewhere, including 11:00 AM HKT. The official Eternatus-return bonus is now LIVE worldwide: daily Remote Raid limit is 30 (instead of 10) from Fri 20 Nov 1:00 PM to Sat 21 Nov 6:00 PM PST (GMT−8; Sat 21 Nov 5:00 AM – Sun 22 Nov 10:00 AM HKT). The 16 Nov Max Monday was canceled (Dynamax Trails ran instead). Next Max Monday is Mon 23 Nov 6:00 AM–9:00 PM local featuring Dynamax Espurr. Sources: Pokémon GO Live (dynamax-trails-eternamax-eternatus-2026) + Leek Duck events.",
       "urgent": false
     },
     {
       "id": "remote-raid-limit-30-nov20",
-      "when": "Fri 20 Nov 1:00 PM – Sat 21 Nov 6:00 PM PST (GMT−8) (upcoming)",
-      "title": "Daily Remote Raid limit 30 (upcoming)",
-      "impact": "Official Dynamax Trails / Eternatus-return bonus: the daily Remote Raid limit increases from 10 to 30 for this fixed PST window (not player-local). In Hong Kong that is Sat 21 Nov 5:00 AM – Sun 22 Nov 10:00 AM HKT. Source: official Pokémon GO Live Dynamax Trails post (pokemongolive.com/en/news/dynamax-trails-eternamax-eternatus-2026).",
+      "when": "Fri 20 Nov 1:00 PM – Sat 21 Nov 6:00 PM PST (GMT−8) (LIVE worldwide)",
+      "title": "Daily Remote Raid limit 30 (LIVE worldwide)",
+      "impact": "Official Dynamax Trails / Eternatus-return bonus is now LIVE: the daily Remote Raid limit is 30 (instead of 10) for this fixed PST window (not player-local), from Fri 20 Nov 1:00 PM to Sat 21 Nov 6:00 PM PST (GMT−8). In Hong Kong that is Sat 21 Nov 5:00 AM – Sun 22 Nov 10:00 AM HKT. The window started Sat 21 Nov 5:00 AM HKT. Source: official Pokémon GO Live Dynamax Trails post (pokemongolive.com/en/news/dynamax-trails-eternamax-eternatus-2026).",
       "urgent": true
     },
     {
@@ -3374,10 +3378,17 @@
     },
     {
       "id": "eternamax-eternatus-nov21",
-      "when": "Sat 21 Nov 11:00 AM – 2:00 PM local (upcoming)",
-      "title": "Eternamax Eternatus Max Battles (upcoming)",
-      "impact": "During Dynamax Trails, Eternamax Eternatus takes over the majority of Power Spots for three hours. You cannot catch Eternamax Eternatus from these Max Battles; rewards are Eternatus Candy and Candy XL for the Eternatus obtained via GO Pass: Dynamax Trails (one catch per Trainer this event, or 100 candy if already caught). Source: official Pokémon GO Live Dynamax Trails post + Leek Duck events. Official bonuses listed with this window: Power Spots refresh more frequently; Max Particle collection limit increased to 2,400; 8× Max Particles from Power Spots; and the daily Remote Raid limit increases from 10 to 30 from Fri 20 Nov 1:00 PM to Sat 21 Nov 6:00 PM PST (GMT−8).",
-      "urgent": false
+      "when": "Sat 21 Nov 11:00 AM – 2:00 PM local (LIVE in New Zealand / UTC+13+; starts 11:00 AM local later today elsewhere)",
+      "title": "Eternamax Eternatus Max Battles (LIVE in New Zealand; later today elsewhere)",
+      "impact": "During Dynamax Trails, Eternamax Eternatus takes over the majority of Power Spots for three hours. As of this 21 Nov ~6:30 AM HKT refresh, the window is LIVE in New Zealand / UTC+13+ and starts 11:00 AM–2:00 PM local later today elsewhere, including 11:00 AM HKT. You cannot catch Eternamax Eternatus from these Max Battles; rewards are Eternatus Candy and Candy XL for the Eternatus obtained via GO Pass: Dynamax Trails (one catch per Trainer this event, or 100 candy if already caught). Official bonuses listed with this window: Power Spots refresh more frequently; Max Particle collection limit increased to 2,400; 8× Max Particles from Power Spots. The daily Remote Raid limit 30 bonus (Fri 20 Nov 1:00 PM – Sat 21 Nov 6:00 PM PST) is already LIVE worldwide. Source: official Pokémon GO Live Dynamax Trails post + Leek Duck events.",
+      "urgent": true
+    },
+    {
+      "id": "pawniard-community-day-nov21",
+      "when": "Sat 21 Nov 2:00 PM – 5:00 PM local (upcoming today; some bonuses through 9:00 PM local)",
+      "title": "Pawniard Community Day (upcoming today)",
+      "impact": "November Community Day, Sat 21 Nov 2:00–5:00 PM local (Leek Duck). No published gym raid-pool change — current Cresselia + Darkrai 5★, Mega Banette, and standard 1★/3★ stay. Egg-related bonus: 1/4 egg hatch distance for Eggs placed in an Incubator during the event. Raid-related evolution bonus: from 2:00–9:00 PM local, evolve your Buddy Bisharp into Kingambit after defeating 1 Dark- or Steel-type Raid Boss with that Bisharp as your Buddy; evolving Bisharp during the event or up to four hours afterwards can yield Kowtow Cleave. Source: Leek Duck Pawniard Community Day event page.",
+      "urgent": true
     },
     {
       "id": "max-monday-espurr-nov23",
