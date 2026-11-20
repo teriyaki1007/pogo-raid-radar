@@ -1,7 +1,7 @@
 {
   "iso2": "NU",
   "name": "Niue",
-  "updatedAt": "2026-11-20T11:08:08+08:00",
+  "updatedAt": "2026-11-20T23:08:09+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -25,12 +25,6 @@
     }
   ],
   "headlines": [
-    {
-      "title": "Women and Youth take centre stage in Niue’s political arena",
-      "source": "Post Courier",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQXFuMUVIVTFnbl93QkVtcFdXd2NsTS04V0RCa3c1em1JV1lNSlpUMTcxeFJJTEE1VlkxcXlxVHM2WVYwSjljdU5qZkVGTVFmdzhrMW5WN2RCMzBORGtkdEh1TW4zOEZ5dHlsWWNuN05SNDBZNjZEWXlabGZwMlRkV0cwYVNZajZQR0tWdkExcTZhRjBh?oc=5",
-      "publishedAt": "2026-11-19T14:27:14+08:00"
-    },
     {
       "title": "Niue Ocean Trust wins prestigious Earthshot Prize",
       "source": "University of Auckland",
@@ -56,6 +50,18 @@
       "publishedAt": "2026-11-18T19:39:45+08:00"
     },
     {
+      "title": "Niue wins $2.4 million Earthshot prize for protecting its ocean",
+      "source": "Pacific Media Network",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeTktV3Y4U05xTkZxQ3VUTVVwN1UxSXRFbXBIbWViQTNZSWJZcWNTRFV5bDBQcDZ3S1BIaEszM0NiQ3NDSWJBQWs5aW1NcTVGdzZEVTI3V1VQc015Y3ZWZUFsQl9lZ1JZTXppaGJ5bGJOMEptWTlWTnFDQTc3YmY0TFFYV1hvRXpMd212MFhMdUxtUEI4TTRJb2dIdTV6c1JlX2c?oc=5",
+      "publishedAt": "2026-11-18T17:25:16+08:00"
+    },
+    {
+      "title": "Women and Youth take centre stage in Niue’s political arena",
+      "source": "United Nations Development Programme",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLTAxeEdaUFNlUF9mdVhyYWEyRFJ3OGhvYXNkM2NqckxxZ3BQcERkNzJnbjBqV29Kd0ZGcjBvSGYwdUtBakFyajd3b3FMUTlKbzRrUHNGdTl2eXFhOVRqalNKTjB6a0RwYlVYcVpHQXR5TjhLZXhEV2pZUC1JVHY3MU5LMDQtTzBZRS1uVDRadFRTVE1j?oc=5",
+      "publishedAt": "2026-11-18T13:47:04+08:00"
+    },
+    {
       "title": "The Earthshot Prize 2026 Winners: Mahindra Last Mile Mobility, Niue Ocean Wide Trust, PFAS-Free France, Ørsted and Bhutan",
       "source": "The Hollywood Reporter India",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOUE4xQlhtQ2ZQaGszUUpCOEFKb2RLdm1BRUh2OFBuUUhzVVV3U0FGZ05oN0h0ZVMyRWRHMEJGajY2S1JKanNVQTN2d2ZpT1BtR29mTDdSQnctelZXLVJRS09KQVFPM3hwd1IwdEw3UW1ZTDhxV2xDblVwOGZ6eHNocUpYTjBFd1NUX1Y4REt5QWFWOXdRc2FteGFzR1hfQXNiRTd4RFZudm5PSXBvY3F0VHpBMXNJOXY1NTd4VlRSZGduRXhGOTEzeVRWUXVVemVMOTRLSEMya3pRa3RLUl9XVTYteWVPZjBoMXJNeWdBc2JIR1dWbmdqMk16d25sVEVFbGdHSkIyR2dYZ9IBlwJBVV95cUxNbWxPMFVhbU5YU3B2TXVfakIyTUV5Q2pzejlpLU5fX0RCU2JZY2dvWXVQX1VjNTF5RTdRSGhJU0M1bHZzSTVpdFJ4cjAzQV9ISkJSTVE5NTJXeU1JaEpvNXEzWjJpWnZrTlVycDZnMm9UTElfSmp0bDlPeU1XLUVkemxFZ2w3SDFzM2lZaWdRa0dNLTkzdDl6SVJFRVU5c0NhZmNKdlVzQTBQT3gtUXo3Rjh1VldMaVZWUkhyLVVndVVTaTNnOWFHOG9TQ2d6dnhNWWQzVFBNRkdKaGJ5TlhvQkg3YnFGU0R1NkZiRnhsRTBIN1pabDdnRFpfcXNhdmF4cElyTWRrQkNsX0ZQSDJDQ1pYUmhZX28?oc=5",
@@ -66,12 +72,6 @@
       "source": "Tech Times",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNeWJfdVdQdFAwbjBMbWtfX0RFbE1LZHQtS3JKUnFGNEQzbERLY2ZCSXI5ZmhOSm8tWnRYakVEdUxCRzFydFBBb1AtbU9qRE8tRE4wNERfa01yeHpfbmZsbExQMHJ2by1MZHJyUHpnLTE5WGVoeGtEVGliVXdqdS14VGw1WjFIcDgtVzd6bnlyUUttbjI5Ull3eDYyc2FqN2I1cUZQM1FxSWlsN0JkYjgxZ1o0aGNRVFUzd09SZGFBLWNUSzljM0JycjIyQlpfbV9scFh1dll6ekMwb2pqQXZwMEJXVXM?oc=5",
       "publishedAt": "2026-11-18T07:15:45+08:00"
-    },
-    {
-      "title": "Bhutan and Niue ocean trust win 2026 Earthshot Prizes",
-      "source": "Conservation International",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZVVlV0xHN2pqNzc3QXJucXBnV1pVd2pNNG9kbVJQWUxuaV9NVXlaOTVPNjdqdkV1NzBXM3BrODVLc2JqYTJaTVAwSzBJLXdIQkZ1UjQya0paYXFXV19kaWRMNEVDZHB4TDlsOC1RandfNDRkYnRGMldOaTVmVXVWbW5TUUtMaGVjaWhfYV9LVV8?oc=5",
-      "publishedAt": "2026-11-18T04:24:47+08:00"
     }
   ]
 }
