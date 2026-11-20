@@ -1,7 +1,7 @@
 {
   "iso2": "ER",
   "name": "Eritrea",
-  "updatedAt": "2026-11-20T23:08:09+08:00",
+  "updatedAt": "2026-11-21T05:03:26+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "U.S. Lawmaker Seeks to Tie Ethiopia, Eritrea Trade Deals to Peace",
+      "source": "allAfrica.com",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4clVZVXNzMTJMaFFoMm52RXR6RXJFcWszUU5ac0NsZnc2Q1d1Y2tnT0FxUTZhN3dmU0JoOUpzNERMMFowWkphelhrQ2llY2UxYzdaMXdIOFZIWTZtdkJhLUQzSWJlRnU0VFZR?oc=5",
+      "publishedAt": "2026-11-21T00:52:38+08:00"
+    },
+    {
+      "title": "Eritrean Delegation Participates in OACPS Meetings in Brussels – Eritrea Ministry Of Information",
+      "source": "Eritrea Ministry Of Information",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNblY3SUtweXVxcmRGTW1LU0Mxcm5KOWc3VmtnTi1LTEwwS0ktV050ZnhXMDVweU9ZZU1tVXFLOTNUUTBNdVh5MzkxYlRVaEliRkpJREs3emd0NHEwMU5PSmNxWFdXQUlDeUVCZzJxWWdVM1k2ejQ2VVZqNkZkMTBUZDU0WG9QeE9ud2xEY0xjOG85Y095T2hIeDZ3?oc=5",
+      "publishedAt": "2026-11-21T00:02:35+08:00"
+    },
+    {
+      "title": "Haddas Ertra 20 November 2026 – Eritrea Ministry Of Information",
+      "source": "Eritrea Ministry Of Information",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LbmUyb19Jb3Jody1NOXR5a1dfX0pSNzF2NU9qOTVkYXZYbzBsX21kdjVHZ1BwZmYyQ0pzQVZnYlJ0MHZHUjZRNlFjalFBVm1kR0h3SDVadkNxYlctRjUtSzlBZFNvTDRqdkRmMS1R?oc=5",
+      "publishedAt": "2026-11-20T23:45:08+08:00"
+    },
+    {
       "title": "Ethiopia-Eritrea: Why Badme, the town that sparked a bloody war, is back in the firing line",
       "source": "The Africa Report",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRndMWm94UDU2a2FSeFNQQkZYOGRxek50aUxlWWYybmR6OWt4T1pvSFF2VkxZMHlGdnNBdTNDZmoxSkZzRVJVdmxlYXRjeDlhbS1Jdk81b1VvVm5MdUszSmJJdnlrMjJSWjgxbVhQNlU4MGZFU1lZY0F3OEx3eEkxZjVtcWNMVHM5MlJmLTQ5X3BnQU1Yd2ZuNnJfRkxDRmFEeGJSNlZ0UlRxQjctcGNHM0t3UUIwVS1CSlZpXzRtUFJGcjJQa2g4?oc=5",
-      "publishedAt": "2026-11-20T21:45:56+08:00"
+      "publishedAt": "2026-11-20T22:37:56+08:00"
+    },
+    {
+      "title": "Over 200 Tigrayan fighters surrender to Ethiopian army amid Eritrea tensions: Report",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3JUcm9TVjVQdzNSUVJjSDVyQ2YzNThtcUZQNmxodDJFUkhYQ0s5YkpGOGRQMjhLQ2Y2QlpleUl6SlRhY2FsakVDUHE3SmdUVjI4MXlGU0doWjJBWDNFUzRQb0FJMUx6Q1g5NjQ3akxEbnFLRUVSSXViMkxYdmtOeHBmWEs3MXNqRGw4SEFBcE5RMUE1ZzJlRDRtY1B0c1FPd25YSlpGZWhJSmx5amlmZzhhRk9RQUhSTTRr?oc=5",
+      "publishedAt": "2026-11-20T21:13:06+08:00"
+    },
+    {
+      "title": "Eritrea: U.S. Lawmaker Proposes Trade Incentives to Push Ethiopia, Eritrea Off Conflict Cliff, Toward Peace",
+      "source": "allAfrica.com",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5RLUZvSldNd1dwbEt5M1NKMU43cG9TWFhKUnY4cDdHYWxFSjVQOGxxd2pTZkhWb2ROZ0dkWlVYSWtVZUVsMFlYZEd0UlpJbWZSM0FYQjkyZVBSMWc?oc=5",
+      "publishedAt": "2026-11-20T18:42:30+08:00"
     },
     {
       "title": "News: US lawmaker proposes trade incentives to push Ethiopia, Eritrea off conflict cliff, toward peace",
@@ -46,36 +76,6 @@
       "source": "Yahoo",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWRqdWdpS2VjZFlPSVhOem5yVmhQUmtBYTFDMDZWTmRteVJpM1IydDluSW8yV0xIcHp0cjE4RFp3RS1sNlNEZW5rQjRyc2lFdnRCSjhiT0xmbFhoaVNVamVmZHJ5TmlKMXVxb2daNmJlWGs5aDNmZ2liZDIzbkJnMzhkbmhuZk84eUt6Q2Fla1B3dE1RRWMzTmtqcUltdw?oc=5",
       "publishedAt": "2026-11-20T05:05:55+08:00"
-    },
-    {
-      "title": "Eritrea: President Isaias Receives Credentials of Six Ambassadors",
-      "source": "Africa.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNzNRR0daNnFWWU1qOTdnXzZmcUZlcDI3VTU2RGVxcEdNTXF6V0N2QnlFb2ljYU92SERCd3NiczZVcENHNmNNZGRJdUZqUzRXbjJHeU5tLUZLSDB2TEpjQzhSTE1xdGtLS3RCMGRLOTFlTklKVHdYZFZkSXZnTmpoNEw5MEZNZUVsejFmakdhRE4?oc=5",
-      "publishedAt": "2026-11-20T03:44:58+08:00"
-    },
-    {
-      "title": "#Video_News:- Overnight drone, artillery strikes reported around Badme amid Ethiopian, Eritrean military buildup watch",
-      "source": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxON2hoRG9UTGNXVzFLUjdoVWhEMkk4SGtzakxGbnQtbEFDSXR1eUZFTmpUMDVJNUlTZXFjMk1TNjd5NmF5V01xQUZ3T3FlLWVWcThuRjNuYTBQbW1XMW1TWXpGRFE3QXlQOUxfcDRjTWpHaGgydFY5bmQyMVBLVzRqQkhBYWxLR01nR2RZLTBRX0tSTTEtcU01VDBmS29abXN3aUxYTGljdFQtS2JXb3hFdHR3S1hZLTdfNXhkZzQ3Ym5EUS1PN255ZkZkR1o3TDdOcVIzSEdIYjY3bTVqdzBHeQ?oc=5",
-      "publishedAt": "2026-11-19T23:35:12+08:00"
-    },
-    {
-      "title": "President Isaias Receives Credentials of Six Ambassadors – Eritrea Ministry Of Information",
-      "source": "Eritrea Ministry Of Information",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0w4U3NBaTZ1RjNTal9wVHh2TW54T2FzUnkyWEZZMnV1c3JuaGd3TjRzNm9WeFlPSVdkQ1o2UmhNTl9XYWo1VDhmZXROekxzSlRFMGVrTF80ODNLQVNqLTY4ZGYtc3lyUjBfQW9VdUtHQmtibFNyWGFIMHBWdk1fSlE4U1NpdmNtSWg3ZGVobFZDUFNr?oc=5",
-      "publishedAt": "2026-11-19T22:36:44+08:00"
-    },
-    {
-      "title": "Drone strikes and artillery fire reported near Ethio–Eritrea border, civilians injured",
-      "source": "Ethiopia Observer",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcWpHTGhkRzBjclh2UUpGWWVXWlpmMVl3a3pHUThDY3U2UDFQcFQxb2VoSGMzZ1NSaUJDSWl4X0NMa3BQcHdUYWF1RFEzU2xLNENjaVoybHIwQzREcm9vaGRSRDhZMUpsaks3dnJDd3g5Tlg5OTFpNWZicjJKTXY5UXIzYV9wR2ZTN3hpQ3l5b2MyQWJHTmpQLXFEX2syS3o5QVlmQTMyMUJicjltUU1CdWUyXzlsVmxabWVjLWdPWHZ0UXhTdm41cGdB?oc=5",
-      "publishedAt": "2026-11-19T22:00:52+08:00"
-    },
-    {
-      "title": "News: Overnight drone, artillery strikes reported around Badme amid Ethiopian, Eritrean military buildup",
-      "source": "Addis Standard",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWGE3VUJXTGxHdmRKZ09UWnNLZy1WYm41SVBYaFlJTHFSSVVMQktDaXdudldQMFdwd04yT2hzdFJISlAtSElRMkFiczMxVGI0dnRnSnBFTVBpSllob2pmTlJTQ0lQczNiVzFkOUZFOXVSZlVjMG5yZGNJNFFMY3RDWENfZGNPS0l4Q0gyaHA3UVBvcEhOMEkwVXp4XzRLNW4zZUpqU3Q2MU9JMWlnSlBzVk5aS0tqV0lXQTc1Y2xSLWg?oc=5",
-      "publishedAt": "2026-11-19T21:48:51+08:00"
     }
   ]
 }

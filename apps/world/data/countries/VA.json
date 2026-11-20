@@ -1,7 +1,7 @@
 {
   "iso2": "VA",
   "name": "Vatican City",
-  "updatedAt": "2026-11-20T23:08:09+08:00",
+  "updatedAt": "2026-11-21T05:03:26+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,10 +26,34 @@
   ],
   "headlines": [
     {
-      "title": "Pope Leo to meet with former and current cycling champions at Vatican",
-      "source": "Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQajF5S3dKY0VQeU9ZS3RPM0JsMVNGZXNxMmdFOFlUb1J2NlNDOTZiaWhKQVhYUVBuMFJYYjRFNzhCYzBoRzh1UE15RnV6cGhsWklPbDFvZFBEQ3F1TU1ORWRRd09pVm54ZE9iZEtqSkxXRW1BT3NjYld3SDJnYi1WQlR4N2pSWTBVTWRlUHFweHRvWDFEckNLWTlBN1UtVFdCODhWSkNvX1lFY00tY1FzZXBrNkFYMlN5?oc=5",
-      "publishedAt": "2026-11-20T23:07:22+08:00"
+      "title": "Vatican to publish Pope Francis’s diary, offering insight into pontiff’s life, spiritual journey",
+      "source": "The Varsitarian",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPclpLazNRYTlWT19faFlVOUNrb0NXNkQ4cGdiYUxJbk1PY0ttQ2x6a1VnbHlDeDVlSVBsSk9yNTNVY1RCNWJpeGNzVTlXb2hZSkR6ZnRIVGhsUkppOTlrN2xsaHdBbUJab1VnUHZNWTJnWFR2ZFEzekxvQjlKZTZZUnk2a1lKZnloWTNHZ1BpY2pGRXdVVUJfWkNoS0ZLaW9tQUs5enFQbVhuTEctR3Z1WWlmWUtCaHpz?oc=5",
+      "publishedAt": "2026-11-21T04:06:11+08:00"
+    },
+    {
+      "title": "Holy See to UN Weapons Conference: Autonomous Weapons Lead to ‘Even More Inhumane Conduct’ in War",
+      "source": "National Catholic Register",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBpR3p4ZlJDNGJ6Uk1IQ1JiVEhsTjhudGIya1F1QmpMOG1hVUFKTEVWRkUtUklXUzlRMW1fQloxRVhKR3QwUlM4MkJZeUZMb2VHWE1iMnRtV3pJc1ItR0VF?oc=5",
+      "publishedAt": "2026-11-21T02:39:54+08:00"
+    },
+    {
+      "title": "This Week: Pope Leo Ends Visit to Latin America, Resumes Full Schedule in Rome",
+      "source": "CatholicPhilly",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRXpNWExwdU5ya1M5cVBUQ3hMOWtNanhOWG9wMVoxUjNPTkRnVDBkM3JVdHR2aFdadGZHVE1uVEZULUQxa1Z1U2lTUzdHLXhkdDd6ajlLZUxRbGh1c2lsRkZTaWlzdjdBYTl6UkhmR1AwRG02WjZCbTY5TUVCcG44czRzZ3p1ZEk1OTdpYXkwYkRjY1ZVRHZINEdGRGNMemhZbTkxaW5UUWtHVVZvSEEzMl9xQjZ5cGlBZEo4ZA?oc=5",
+      "publishedAt": "2026-11-21T00:31:19+08:00"
+    },
+    {
+      "title": "Pope Leo prays with families of the disappeared from Northern Ireland conflict",
+      "source": "EWTN News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmRLX3REZ3NKQjB3YzdEMzVzMHdma2E0c0dpMllVTlZKenZ3ZW5feExhOXA4LUszLWlzREZheEUwS1RTd2ZZb0cxVUJFWEJ5M09ZMmlCMTFXMFpwWVN4Q0pESHFIeFZId2dNREJtME41MGxkMkJKWExzMTFVbl9JWEpYQlB1cC1JMmc1V2JCRnZsZlpJNTFINTdWTWl5TkRpczh0WVFuY01oRWhLa0o1a3BZUzAxUQ?oc=5",
+      "publishedAt": "2026-11-21T00:29:00+08:00"
+    },
+    {
+      "title": "Pope Leo XIV to Meet Cycling Legends at the Vatican, Including Greg LeMond, Eddy Merckx and Mark Cavendish",
+      "source": "TodoMountainBike",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fZ3VVTFJVVDZGaFVpZXdOVDJHMnRZMXpmeDNNWnp1c2xlOF9qeGpNQTZJTTd1NVphUzNNdkkyQ1ZaWjVoUlRqcFhOLVljNDVrSW44ZWRqbGkzOGp3OVl0aFdSMV9hMk44WXdVRGdFOWNmbGZTSGxDdWhRTmk?oc=5",
+      "publishedAt": "2026-11-20T23:10:41+08:00"
     },
     {
       "title": "Senior Vatican Cardinal hopes to retire to Carvoeiro",
@@ -48,30 +72,6 @@
       "source": "EWTN News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSHB0Tk52QWU4eFRkOW1UXzJWNGJPVkttZXNXb2ZCUEhGcVJXQWtPdk8tZ1V4TENka3M5cllKd1ZsUGVvV0MxdHI5QmhwTkRjaVhTX1hUZGg1d2FGY242U3RuUXI0ekhqNTlUbU5RWVZ1bHFiemZoNEN2Qnl1ZzZnaHB1M2pMcHRZN2JqVlppWmJ3X0t5UEQwbzJsbDZnblg1VnhHRHpjb2lwcUpnZWc?oc=5",
       "publishedAt": "2026-11-20T22:10:00+08:00"
-    },
-    {
-      "title": "Vatican Christmas tree arrives in St. Peter’s Square",
-      "source": "Vatican News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGUtOHpsTTNUbUJOQVpUTTZicWstNGtZXzQwR2daUEZwWWRYdFh5UzZUQUhsNmpUeVNxWmdxOU9qdUhkVGM4dElNYlpzcmtmMnZYRUNaSnh5cVBvUklHaUxVVzZYT2cwMFluZG9ZWVZGcHFFV1F1ZjdsUGduY3JDeWtTNEFZVk1Ib082a1l5dDh3RDdtOGg0NmZaR2VOU1lBVUx4bUd0akhNNnp6bktRV3RfRGg?oc=5",
-      "publishedAt": "2026-11-20T22:02:46+08:00"
-    },
-    {
-      "title": "Vatican's Christmas tree arrives in St. Peter's Square",
-      "source": "Yahoo News Canada",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRUFYVHhBWElKQzN2RmhtM2ZsZ1NYUUV2NTRmMVdhVWlIaldvTFdXNndwb3RiNC0ta1lVNTYyNTlremw0TG1fM0tDMjV3ZlNEWHNnOGhnaW1laXRHaTRCQl9nSXN0RmZ2elVyNm9GeUY4dzYzZW9oT1JURXpsU1FhLQ?oc=5",
-      "publishedAt": "2026-11-20T21:45:01+08:00"
-    },
-    {
-      "title": "WJC President Ronald S. Lauder Meets Pope Leo XIV at the Vatican",
-      "source": "World Jewish Congress",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRTFEdEJLQVl5OVR3ME5QMTIybnRBOTdKYy1YSDJEWE96NzlJdzVBdzhSVDhpNHpDUlIxM2xQajRpTFQwbjNmVXF6VnowQWJwODloZ1VUeGUwLXJYZ1FtSXZBek9xZGMxTkZ5UzZScm5vVGlZaV83YjlTM3NKSzVFR0xma2ZZNDV0RW9fMDRMa25QN0RWWmp1Wm5TcFJabGVlTzlwU25ZUlZhMTg?oc=5",
-      "publishedAt": "2026-11-20T21:29:16+08:00"
-    },
-    {
-      "title": "(Photos) The Vatican Christmas tree arrived! (a day later than we said)",
-      "source": "Aleteia EN",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUtVUTdYTDNWcmJ0bV8xZHJKNG9EOUxNa09TdW0yamFPNGRJYmdEYWJNZXNCOVd5aTg4RmRLdWtDQ2E3UjRRTTB6ZVBhWWtXRkdDRFNJMi1GakREYzFwRVNTSnNHNkU4aXJrTm1OYU1Bak1XcmFIcU9IbDB5OGFBZG81TTRvQ3VzNVZOMjM4RmtfWllDdmlKSm5xdHNkZ2M?oc=5",
-      "publishedAt": "2026-11-20T20:26:41+08:00"
     }
   ]
 }

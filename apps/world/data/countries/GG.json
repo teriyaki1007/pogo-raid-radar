@@ -1,7 +1,7 @@
 {
   "iso2": "GG",
   "name": "Guernsey",
-  "updatedAt": "2026-11-20T23:08:09+08:00",
+  "updatedAt": "2026-11-21T05:03:26+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,6 +26,24 @@
   ],
   "headlines": [
     {
+      "title": "Ynys Mon and Gozo await Guernsey’s ‘strong squad’",
+      "source": "Guernsey Press",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZWhnd0ZiWGVyWDBRYnpJTVl5NWVhTUlXM0NEM3RrTEg2ZTBOMWktWHBUb1A1UUswVXlBZy1LQlRtWF9CTXZIRFFJZ0JTYTUwTy04UnZJZmJwVzRIX3FrOFFZa0poSExwUlcyNjF5b0VIR1VXenQzMjVWWU1YNkI3TlJXSDNOR0k0ZTUtMHFvR3NEYUk?oc=5",
+      "publishedAt": "2026-11-21T02:16:57+08:00"
+    },
+    {
+      "title": "Guernsey resets relationship with the EU",
+      "source": "Guernsey Press",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR0RMUUpnS1UxQkltdDNWWEFUWjZiaEIxMVdCNlRtQVZqRW95VGJham1DTUFBWkRVMk9samdBR21GNlI5dUJ4aW9hMFhyU0dUR1VlNjNnRlh5MVREX3NYNm9qeWRhb2ZYWUlPZF9iQkRxVWdBLThLd2syelA0YUk4MU9JTHNzY25EVkE?oc=5",
+      "publishedAt": "2026-11-21T01:45:54+08:00"
+    },
+    {
+      "title": "People urged to share views on Guernsey's online safety policy",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yTkJ0R05MM2xSTE9kZzcyZlViYWMwTDFDNGxwazlxSU5mRWFRdmMyUThLREo5S2xrYlEzaXN4anN6WFZrc2xGOVJuODVRRHJIY0Y5emdhUGg5bGVIVEE?oc=5",
+      "publishedAt": "2026-11-21T01:29:39+08:00"
+    },
+    {
       "title": "Art Fix with Guernsey Arts",
       "source": "Bailiwick Express",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Ub3RVQnFZLWFRQnpLQmRrTkJ4TWhUcUFEOER5eE9vc09qb3lJYklLQ2VsNkhmNW5WN3lmekdodWxNcG16enEwdzZpRHY1OVMzNks5dkc3cG1xY21wVnpHelpjQk55NnpCbFhQVzNweVJkelcwNlJaYU9ITQ?oc=5",
@@ -38,40 +56,22 @@
       "publishedAt": "2026-11-20T17:47:34+08:00"
     },
     {
+      "title": "11% of Guernsey households 'often cannot afford essentials'",
+      "source": "Island FM",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZk1jbmc5VVJxX1NCVDExTEZjTng4MVZpUDRqUEVOYjVCVnFKeUNHbkM3ODczcnRkT0d0RjNaVHc3dlpYa1JXa2FlbDNRd0ltakE0dlhtRmZwY0o0LXhIYm5QWk1vbUFIcjdkREtzZjZ4Uk1Sai1sVTQ1UWpLXzRfaWRvejdvcjZKYVNOVzVJX0VuRHpC?oc=5",
+      "publishedAt": "2026-11-20T15:30:23+08:00"
+    },
+    {
       "title": "Jersey & Guernsey kept apart in Island Games football",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCZm91bWc4MXNSSFFMWGRaVW5iMkkyVVB2RnBveks3SVFFU2MtSWJIOHhydEZoZDZWdnFpcC04ZTJPakQwbDFHekYwUU1pbFdlVVNRYUNyaFFIOUcyUVFpTHJqc01TRktucFc0?oc=5",
-      "publishedAt": "2026-11-20T00:27:41+08:00"
+      "source": "Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbE4zLUVoZ0g1cUtscENoSDU3S3ZodnBiYm5NdHBnVlRsUHRRdVcwMXJROWRVSlFlSkNZUnZPQ2ZKcnhaTXg5aXY2V0pUNVdLNmJidnNHbERxQ1AzRmtjSW1zWGRIOUJJS0hqOUdwY1hrWDRUalRmbFlLVk9MVEVacWI0bllKZWNx?oc=5",
+      "publishedAt": "2026-11-20T00:27:46+08:00"
     },
     {
       "title": "Guernsey prepares to give UK automatic access to beneficial ownership register",
       "source": "Step.org",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUDNFTGxpMWVJLWVUWWdCeWNsTkJOUWhHWFB1MXpmMmk0eHpYVUljV3dmYWpYVVd3bDVsQUlxWm03Y3NTaXJ1ODFqemJhb0dETXdtWTJMYkp1R1JHRU9iX3hyUU81S1lSaGljZG9wcUpFSnZlM1hGSlpSNTAxS01VcDV6Z0dHSEpublBPcjRRNXJ6ckVHeUJsYlc0enBCQ1htUExxN3hFbmlCazA?oc=5",
       "publishedAt": "2026-11-19T23:58:25+08:00"
-    },
-    {
-      "title": "Alderney Ferry Services to stop Guernsey sailings",
-      "source": "Guernsey Press",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ19mR2dWek1SSFV0c0VzUDc4ZTZuUlVVMVVUV2dBbFJnRU16SEl5RFlLVVQ1bk9MTXVuOElCMDhqeTBYSnpwMWhFNUZwMktaX1FmQ0hPU09RZUhqVGpKSmNkZTZKVURNX2I0NVV0RThvcm1PeG9pWW02RW1tX25ob1hwRDJuRHF6TzItbXNheVhwU0xNQWc?oc=5",
-      "publishedAt": "2026-11-19T23:15:04+08:00"
-    },
-    {
-      "title": "UK’s Loganair still looking to enter Guernsey",
-      "source": "ch-aviation",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMWtRVGJtOHFCX3FtQXJRbFBQa0VpRDBnR1RqTGR3UzdOdjVqbXZGX3BtYW5Ja2ZlOTYtR1VSaVFrU0ZDem8tZWlqd2NRUDQyRkU5STh2U0RZT2lFc2xJSjRfNmJJVkZHcTdBRVNwMVEwaW5vcl9Bc21jbmg1cER4UFBpeHpGMGRralZfbQ?oc=5",
-      "publishedAt": "2026-11-19T19:08:30+08:00"
-    },
-    {
-      "title": "Jersey, Guernsey and Isle of Man tourism leaders agree joint initiatives",
-      "source": "Channel Eye",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZi00UUlRNUFrOGpOc0w4US10eVVkSWFrTHVwN2podWd1OWw2UGRhZ2NULVZLQzQ2dDhraXNZQXhVbkFZMTJBZlRRcHotZGlPcktNTjU3WFdHVDhYcGZHMzJQVmVJMXdhaXpkM2xWcTlacG1OTXdpNkhqM2RZOFhjNkxnTFFZcFpIbWRxUFpWdW8xNVFXVFU3VjMtTm5nZw?oc=5",
-      "publishedAt": "2026-11-19T17:07:42+08:00"
-    },
-    {
-      "title": "Tourism leaders from Jersey, Guernsey and Isle of man explore opportunities for closer collaboration",
-      "source": "Jersey Evening Post",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOF8zdHpBN3RkRS1HZDJGT0JFZ0t4c0thX2V3ZnBkeGdWV0oydHkxOTl0QjZpSThnY2lrMmZtVV9tMFhJTmpsS3V2U3Z0VEM0cUF6aTVrSWJNRXQyaDFjLXdVNm5UMDBqMzh6M095aXRMeEY3QzIzcHdfaU1uR0p5WDhadVFFZ3Z1UUdQT29ET0xLRXJiTXU2TVc3M29ON2JScWZiZWlVb3FINU9UZjZFVEV5Vk96bGFjWFJNRHppNnVuRmVHX2pib3ViOHktVThaVXVRaGpaV0pDNmc5SWZn?oc=5",
-      "publishedAt": "2026-11-18T15:10:00+08:00"
     }
   ]
 }
