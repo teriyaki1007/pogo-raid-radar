@@ -1,15 +1,11 @@
 {
   "iso2": "HK",
   "name": "Hong Kong",
-  "updatedAt": "2026-11-21T23:06:37+08:00",
+  "updatedAt": "2026-11-22T05:06:05+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "City of Victoria"
-    },
-    {
-      "label": "Population",
-      "value": "7,498,900 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,15 +26,39 @@
   ],
   "headlines": [
     {
-      "title": "Hong Kong Publishes Bill to Expand Crypto Licensing Beyond Trading Platforms",
-      "source": "FinanceFeeds",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQd0x6LUhFZnFHNDlmaDh5ODFEeHlFZjcwZmJxUlEydEs0UGpXUnZib0JnWGQyRi1uUjF5aWpXNjk5OVRfdmhyTWIzcWxZMC1vbzg5dXA5NUZJRExfUG05UjJ3S01JMFpmNTFiOXU5WGZJeVJYaF9QVXFGMzUyWWlHNHRId1V4YjB2MXlnR0lJcTRtcm9vWVpCUnRDcEZwcXNnSWx1dw?oc=5",
-      "publishedAt": "2026-11-21T23:02:24+08:00"
+      "title": "Wang Zhiyi Faces Pornpawee in Hong Kong Open Final",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ1VITzFOZ3BhcVFMRWpvZjlZOWZzNjZGREt4SE1jdHYySnFIUlBWcUtPTFJ0SUNJTHc3UnZhODM0WlpaZWtkR1dwbVlLV0ZUMkNidERWb3ZNVno0blRsVFptRVZraXNKZURJZzNfY2xXLXd3eG9Uc0lZYnBMZ0MwekdKSHJzdw?oc=5",
+      "publishedAt": "2026-11-22T04:55:20+08:00"
+    },
+    {
+      "title": "HSBC expands tokenized fund offering on Ethereum for Hong Kong savers",
+      "source": "Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdFhGaHAwczdDdmJTd3gwVjFvODdORF9pLU44M0NfTUI5N29mVHoxQW84T0JieEUzLVRic2VZOXptRnB2SjFuNkJ1dXd6eVRHcG82cUlfS2JFcUVwZFVmd1pKZHVDVGRmR0ZvdTItWXpDcFZUWkFTaS1Eb0VleHlnRTRxdTZYY1NETFU3bm5CdTFnQjZKQUJPc213cHIwUGdoQVRF?oc=5",
+      "publishedAt": "2026-11-22T02:18:21+08:00"
+    },
+    {
+      "title": "Hong Kong flight makes emergency landing in Philippines after engine fire alert",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd2FrWVhBNnJIcDlZaTNadWNEVjJWcXBTMXBQNXlFcVlaU0hZUUhLUlpTY3RBakhhRnc0QlBUNHRZU1RTM3VwUGYwLUVJWmIxSDl1dU0wRFhPRkdBblJzVkJnUEdDR0FfdXY2aktpREZXWHBEUkFXZTVPM0I4TVVVZzJhVlhwR0lrY1FFOElaUHFxR3lrVzRWTjZyWGIybG10VE1ncXhwT1NoZTBzbmgxWXNoODdwY2JnVVhxLVFfQV9LM05pcEFkVk5NWVNhOUlIdW5CRNIB1AFBVV95cUxPOXFYU3UzY0NZWUpzSmdkTnJYbXFiaEFodVp2a2hnMzZjRDl1bEl0UUR0dnZmYTlxN0FBSGstSXktY21ueXdzQWZGc0dkdW03QVhCT2J4VjVPWFJFMnltYnlSQi1GVmdsOHhDNXFaMjg0YzQyUFBHT3c3NjAxLXBZOWNpQ25xU2RpOFZBVnZCMnIyUF8xbE5VTmpUTUtYX2xveGhJY25ITC1TcDR2aHhuVTlJRVgydDZWUm8tbmRZdmhrekxDNlRoZzlRaGZ4TVE2X1JqSQ?oc=5",
+      "publishedAt": "2026-11-22T00:29:39+08:00"
+    },
+    {
+      "title": "Celebrating the Successful Unveiling of the Guangzhou Laboratory–CUHK Joint Laboratory and the Guangdong–Hong Kong Joint Laboratory for Testing and Evaluation of Biological Products and Medical Devices",
+      "source": "Oncodaily",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BM2lrcklnaXRIajdlRi04QTZ0NHJtaTJXVG1uRkFuT3c3aFRiT2NkZnB1RHJQdF9WZU5rZFZaTUI5bW8tbU1XMDlzTVdBd1JTMEN4ZUlENEJMSlg3eU9IWGhiNGd6UU5wbDNqQllMZkhtZw?oc=5",
+      "publishedAt": "2026-11-22T00:11:10+08:00"
+    },
+    {
+      "title": "HKETO San Francisco broadens its reach for Hong Kong cinema through institutional partnerships (with photos)",
+      "source": "www.info.gov.hk",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NTjBQUFdKTmVqZkExWFVWMFZsMTNfT1Y2UFQ3U2kybEpuVDN1M2lXVkUyNllYejVfQWEtLWViS2JJS2FlaV9YdXMzSk1rdVB5VEhQMjd5bXFLZ09YZ1J0VGdYXzBFMlByelhrM0Z3SXphdw?oc=5",
+      "publishedAt": "2026-11-21T23:21:46+08:00"
     },
     {
       "title": "Hong Kong pledges extra US$20m to AIIB special fund as bank sets up city office",
       "source": "South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQWNVMFZQMEwxdWN3c0ZTcEkwSnRjWmFMT0FSNnNnWllXVmpLSEFuZXFsTVdvRWNUV2JkN0FuNm5HZzY1VF94amNSWnhiS2NkT0l0eEVVUmVYVXJjRmZJOVhWTnp1Y3paV1p2TU1kQmQzLWhEdDRFZWlfM1FYNV9HWFlzZFRkMVFsZVFMZjE2Y3JxLTdLc1pOUE9ucS1wYXpoandoYmdEczB0OTdTVndhckhuT1dEZW01UmNZYmFVYUZCSjFIZVlfaEcwREVDMExYMy1NZ0ZR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQWNVMFZQMEwxdWN3c0ZTcEkwSnRjWmFMT0FSNnNnWllXVmpLSEFuZXFsTVdvRWNUV2JkN0FuNm5HZzY1VF94amNSWnhiS2NkT0l0eEVVUmVYVXJjRmZJOVhWTnp1Y3paV1p2TU1kQmQzLWhEdDRFZWlfM1FYNV9HWFlzZFRkMVFsZVFMZjE2Y3JxLTdLc1pOUE9ucS1wYXpoandoYmdEczB0OTdTVndhckhuT1dEZW01UmNZYmFVYUZCSjFIZVlfaEcwREVDMExYMy1NZ0ZR0gHWAUFVX3lxTE5Gb3RXdmdfNnBnU25kT1B5eUFPQnl5dDhUdjFNLXNCcWVsVDZJOFJudEZBa2dWbkpxZmx6d1BxN09lMlhTNnlETHR0RnhQbGxHcVEyVHhTWmNTQmMtZk5TdmxOZUNIVzdKczg3aW1VaGRaWGc3alJtcUdOWTBVWnRmYTFyM3dTdGxiYWI4NWZBTHVNLUJzY2hhRnExRTFZUm0zZ2xMWThSNXFZU1diemRKX3M4bUxoMnRaVDZiay1OMS1nVElRbXA4UG9CNmF5TzRsQjRvakE?oc=5",
       "publishedAt": "2026-11-21T23:01:14+08:00"
     },
     {
@@ -48,34 +68,10 @@
       "publishedAt": "2026-11-21T22:46:41+08:00"
     },
     {
-      "title": "Savoring the night: Hong Kong Gourmet Month shines a spotlight on vibrant after-hours dining and creative local flavors",
-      "source": "The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPb3VvYzlqZ2tsM1dJcEtUZjJQZzRQYVVTZUh1Q19yZWR4Wjhvb3RveXNETFdSdHpmN2ZzaGU4QUtxSHNpS3k0bGs3YzZtSzBRN0FuOXVNcmJTVmVUOFpwdlBWbndWV0ZmRlBNNUFaS3dvRHJEeS13QkE0a3pQc3lWeXRqOU5OTXd0czBqVVlxY3UwaDd4dmNPSEFadmdhTVdyeXE2cE80TUM3bGJIZ3BDMHlXY2l1clRST3hnRnVEMkI1bGJIdHdCVnZ1MGtQdmdtZkJPVDRSUU1MekZNMWlrZHQzVTRnbnhNZ0NmR0FmcDRyWGs1RjNuSF9POXk0dw?oc=5",
-      "publishedAt": "2026-11-21T22:02:50+08:00"
-    },
-    {
       "title": "Kang Soo-jung Angry at Hong Kong School's No Textbooks",
       "source": "조선일보",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbFpyX0dRTVVnMkpLdVFIYnhkM3JBRUFJeW5PdHlERG9TaktDLXNxUW9iTU9MLWMzSTkwTHdpak4wdVU3bGhfS2xXa1ZDMEdoeU5kV2t5ZkpSLTF0VHJ5NFBmd2pDaVBlNVJ5R0RnNU9udWMzMFZqaV81VXFjUGRZTjROM1BYRHdlRkpuVHd3?oc=5",
-      "publishedAt": "2026-11-21T21:52:30+08:00"
-    },
-    {
-      "title": "Kang Soo-jung criticizes Hong Kong international school’s textbook policy",
-      "source": "Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPejNQTkl3S2REa0F6SHJzRTljVmNNWFdRZ3VWTTlQeTZnTVI3aXZqYXBLRXhUZTc3cVBPTER2MnJyZVVHaHQxdGxjQmdrSWpndy1EZTlTeFJfWXhHY3U4MlVMcmxUQWtsSkhjN2RWSnBiaHhJWXVxYW0tbHhGVm9RNjQ3LW5vRzY40gGcAUFVX3lxTE1fMlg4d1FDaU9QbzlKNEs4Y3VPUW8yZ1QxOUV2aGVwemVQUGt5UDROV1g5enpfZnIyY3N4dnFTX3U1Vkc0RllBS2wyNlpFVU01enhrMnpZdlVNUUdqbzBPV0Y5QWVTUVE1MDFsQnFTa3o4WXBLanNjdlVFa1l1T095Zkw0U05HNmgxVGd2M0NCWmRjWWlMMHFVWWNTcQ?oc=5",
-      "publishedAt": "2026-11-21T21:50:00+08:00"
-    },
-    {
-      "title": "Former Olympic swimmer Alex Fong breaks record in 35-kilometer Hong Kong-Macau charity swim",
-      "source": "The Standard (HK)",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOFdqelBvaVBmNFpMQ0dySTBHTFdjQWRLemRmUjNNNVAzODN4MTFLZkNYOVVETTk1SFBRZExqTERLSEZTRDgxbnVLc0JnZjBqRzI0TTBlZTNNZHJCbWVNN3UwTDNxTGpEQTdKUjNQMXZMeFVlaXNKdlVrQkQzaDZzSVNqcGJ6ZHh5aEZvYmZ0TDdISGlrNEtIb3BhQ1NuRVczejBMeF9yVU5rd25IV21ScjkyXzJjNVhHS0hJTElwYmJ6QnRiZFZ2Um1pX19LNFhFWTkzbjlFZGhvUQ?oc=5",
-      "publishedAt": "2026-11-21T21:27:43+08:00"
-    },
-    {
-      "title": "Asian Gaelic Games brings 2-day celebration of all things Irish to Hong Kong",
-      "source": "South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3pORFFoY2oxR0xQNnlCNXgycFQ0YWdOXzJ0S2phcEVZSDN2elRkcWhjaHJzZEItdzdrekhnYjRMTmltYTJSdnkzTDZfQmg1MXBPdUdqeWZYdXA4bEdTQTN5cjdyaDB5U2tMaUJ4VjlEREVBNVg5WjFneEJkRGhsT3pjNktzRUFreW9XMzdILTRnQ1hJU0xya3ZMZmhVRU1Odl9fZHBWaERFNEFubFRIOUZuRWxCd094NzZJWmx6R2JxUzTSAcMBQVVfeXFMTjRnTjBZMS1KLS1oZXVlQU5VeVZqRTdnTHlaWFlGMjlRcEp6d21ZT1hiSzU1aFhZelhoVk9WSnV1R2pLNUI0V2poTE5oLWY0TXFpWEp1UUlZek5lcmRQeGtZYXhDQUZXMjlRYUZsUUJFS1Fma1ZjWFIxdGhZelNHZ1lIR2dURE91Q25NYjBMR2tFZGMyQmtOZkFsQmpsRHFndDlLcnpyVlNIR0lwX2gyZDlUQl9uLWNsLWdkR3RuYWstX1Jr?oc=5",
-      "publishedAt": "2026-11-21T20:52:29+08:00"
+      "publishedAt": "2026-11-21T22:09:46+08:00"
     }
   ]
 }

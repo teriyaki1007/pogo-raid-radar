@@ -1,15 +1,11 @@
 {
   "iso2": "EE",
   "name": "Estonia",
-  "updatedAt": "2026-11-21T23:06:37+08:00",
+  "updatedAt": "2026-11-22T05:06:05+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Tallinn"
-    },
-    {
-      "label": "Population",
-      "value": "1,366,475 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,16 +26,34 @@
   ],
   "headlines": [
     {
-      "title": "'Divided': Residents scramble to cross before Estonia closes border | Daily Sabah",
-      "source": "Daily Sabah",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPanlwQUh3MG10U3p5elZpb2tvMFI1QWF4dk5rTkk4bUI4U2E1U3NMSEgwUDQ5N2tNTkFHZkJ3ekVFeTFnVllxVUZaczNCdG1KMjRHb2Y1RFVoRlN1QzNzYnprVV9tQlgxdlVsS2NTS29ZMDNHSnQ1WUFoWWRoLWk3RnFqdUdQN09OcEthSTV4YTlqNVd3NUxHdkxlOWNWUXJlS0JiY285ONIBrAFBVV95cUxNbGFfaGh1RXdZZ3BrOVhiZzFCWEE5S2ZtSGxVcUdrTlZsNlhWcUd2emFLRXc4aG9BRHpBNmozdWM3V0J2WFVZVEFpMW81cXp1TFRQZC1xcUVGS2JQMl95ejBDLXo1cVM2SjlNQnpWRkZCTVhmaDVNT01semlETEo4LWdaVndJcTJSNFlyZUI4VE5oemFPR01xMXFScUlqOWw2cVZZWEdaazd4djhR?oc=5",
-      "publishedAt": "2026-11-21T22:26:00+08:00"
+      "title": "Estonia's Selevko captures his 1st ever Grand Prix figure skating title",
+      "source": "CBC",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yWWw2bElRRC05cExBXzdkNzVfX0RVMkp4TmQzbVFoeW1TTGxZTkRSZWZnb243TGlFSHRORXFvSjJGTnNpQ1dGaGh2UTMwSFFiLTZRWk9DbGxZUQ?oc=5",
+      "publishedAt": "2026-11-22T02:02:10+08:00"
     },
     {
-      "title": "‘Divided’: queues in Russian town as Estonia border closure looms",
-      "source": "The Australian",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaWlSQjAyalcwS19UVURpczU2X0VoWHRiVzZubGl3Y1dwUTI4TGdQcDNGWVJsNldHY0FjWHJjUjlVMVdMNGxZLUIxRjBnQ2xTdURYeDVSQS1LNHlTUWtDekFEYVp0Q0VqLUdfcjBOajA1cEpCVUFzTkY1QTRFdmdJczBMMWs4ZDdHRzcyaTNUTjRRMXRHWnhtcVV3SlU1dlVuMW11bHBWbkpWYXZ2YUxjTHJkNDE1aWxvZ05VT0RSRXBGN3Jla1pNN3VDVTJJZUg3WDBwdmNzSl9teTN2TV9fcmgyMmpmYnFOcU85TA?oc=5",
-      "publishedAt": "2026-11-21T22:24:37+08:00"
+      "title": "Poland yesterday, Finland and Estonia today. More aircraft will enter NATO airspace",
+      "source": "Defence24.com",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR3k0R1lmWWM1aVJ1QVVYRkVleHlPWF95Vmk4MDkwcGtyLV84ZlZ4b3Q2aWlRZzFOUXpHbGFCSE0xcFZtRWlmNGpZZHJNbHhCNTVBR1NmZ252T2NtZTQ0NnJGQU5OVEZNRzhjX0h1MkNLWU5qcnVnM2hJSlNpejhsczBzdHdzNlNtN2lVVnJFZlRjczZGVXFJa3RTZDJIemZFLW5jRGtQb0tXbTh2c3dxOXJuMUJpdw?oc=5",
+      "publishedAt": "2026-11-22T00:32:54+08:00"
+    },
+    {
+      "title": "Estonia-Russia border closure sends residents rushing to cross before deadline",
+      "source": "AOL.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSDNBR09pWnlqRmZxM2tROUtHVy1jQkhESzFuZXZRLVM5QUEzVnR6SDQ2c0s5WjZxQ3hrTEQzLWJGZ3ZsaWN6bTV4SGNHRkpwaE43UXhVS1RpdHlWQ2tKMWpKeHlLRGFJMGxBX24yN0lCa3Vzd2NyRjhadHUwbE1mbnRnaGhZQ0xq?oc=5",
+      "publishedAt": "2026-11-21T23:43:14+08:00"
+    },
+    {
+      "title": "Queues in Russian town as Estonia border closure looms",
+      "source": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVZDeWRrN19ZWnVXeDdrYXBUdXJNNm02anlsZVJ5eXJOa0ZCVVVXX1g0SVJWUnRlOVpMNE9BMHIwc2xTM0hTMjEtTGoyX1p4RGhtS1FjRk0zRTloXzAzQktMWjdiUXF0M2tJb09iRVhhbGhPWlRfbDkyVXVOa2pYWTlNcGRZUXBXTmVFMmI3eE8xX0I4UnFfcElpS0U?oc=5",
+      "publishedAt": "2026-11-21T23:10:00+08:00"
+    },
+    {
+      "title": "'Divided': queues in Russian town as Estonia border closure looms",
+      "source": "Winnipeg Sun",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZVdIbVhPR05VYlhaUm1ZMm1KUFVxWWY1SmlKSGxDbVp1aHVTU3ROYm9iYS1IdzU3NzFzMEYxT2pKZGxYZXotLWtKRUxVSUx4WE1Udmt3SlNnbkVXeU82VzNUSi1mbGY3VlBSZzkybW1YU2tCX1dMQkhKVVpXYngyM3R1MXJ2S1ZpeEZCY0NtajdJY3RTUGR1QWdSZWNPaC1Nb18wWlQ2eGI1NS1aUkt4bXVQMjJRc241eVBMRWNDZUsyOW5SX0dLeE4zYXRzZTktbm9xMHF3YUNRVUlwQlFNNmZwRzc1dw?oc=5",
+      "publishedAt": "2026-11-21T22:24:21+08:00"
     },
     {
       "title": "Gallery: Estonia's largest solar park opens in Risti with 340,000 panels",
@@ -58,24 +72,6 @@
       "source": "ERR",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSkd5TG5Iay11bVMzM2hSZmhDWHltMHJ3dUhYZTRkWk9IRzU5SmR2RVFaREhkZ1BHb0ljN0Z1NHlLemM4Yzl2V1hWUC0zZDc1VFU3cGxqMUZFcXpCdjlZSGY5R1NVWmZYdWFUeFRONzZ0V2V3N1pkTV9uOW1uZXVUcm5RbnAwR3hUV093LWRPMUZ3WW1CTTRyQjYteWdfUQ?oc=5",
       "publishedAt": "2026-11-21T18:01:00+08:00"
-    },
-    {
-      "title": "Estonia scrambles allied aircraft over drone threat",
-      "source": "Mezha.net",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMEs4WkhsdHpIYkUwdFhCZTh5MTktNzRISXlPWTBPOEpRWm9VN1JETE1LOENrdXZmWTFETE50bXo0LWl3NTFQbE92R2djdDZUT284RVl0UTJRMWE5VENUOFJQdUlsT2RscUVGNFpIa2J4MTdzV2pIZkZDNjZFUllxNlcya2dFeDN5Q2FB?oc=5",
-      "publishedAt": "2026-11-21T16:50:54+08:00"
-    },
-    {
-      "title": "Estonia scrambles NATO allied aircraft over drone threat",
-      "source": "Українська правда",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UcHFJSVAzTXNjQm5zVDRQdGpiSUN3d0lKd3hPQWVkaVV0RjUyNkpUTGRjQTlPWlc4V1BteDJkZnlveTVpLWFDUFNVbUJVSlJ3TkFKU3RCal9pMTZISFItOEdITjXSAXBBVV95cUxPZmlvcUJjQUI0ZGV3Q2VrT1JvVFZ5ZGFMQU9IWDZWanRPdkZWSUdMT181QkdDelB3WkNyWGp2cTZlMUFTNmFyQWY2M3ZYZnVkcUhlQjJPcVRBdjB2VDJPSEFscERCNUJKbUVZT240eGd2?oc=5",
-      "publishedAt": "2026-11-21T16:45:00+08:00"
-    },
-    {
-      "title": "Estonia has scrambled NATO fighter jets in response to the drone threat",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZDNYZjdSa3ZhYnA4QUFiRi1mVDdzWXFPN3lSTmdzY0N3bi1xUDA0VjAyTFZsNDhfaFhLZjVCa3RzYUtvOENGV1hlZlliNGgzUmtDdVJyWWxlRExiTVN6Y0hlVVpUUEZ2eHkyWFdvZEdfUXRWaGFCeFpONVNuTXozWFlmMzVDaXBpZE9MXy14cmJGZ0NZV0E?oc=5",
-      "publishedAt": "2026-11-21T16:12:46+08:00"
     }
   ]
 }

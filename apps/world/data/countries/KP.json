@@ -1,15 +1,11 @@
 {
   "iso2": "KP",
   "name": "North Korea",
-  "updatedAt": "2026-11-21T23:06:37+08:00",
+  "updatedAt": "2026-11-22T05:06:05+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Pyongyang"
-    },
-    {
-      "label": "Population",
-      "value": "26,571,036 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,22 +26,16 @@
   ],
   "headlines": [
     {
+      "title": "Ministry of Foreign Affairs, Unification Ministry Clash Over North Korea Policy",
+      "source": "조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT2dPaTQwdEw4VlUzcWpEaUhHa0xqalFZUGhmcjdMZDdoN1NSN3dteHRSTXNzM2paV2swWHFFTDByS1NRVG9PRGRBTW1fdW9BTjhPckw4dGRXTk55WGVlMkk3TkpoelFhbjBjcWxfdURtNDJaaDhTNnNtUlM0WUttcXVGSDZ4MC11?oc=5",
+      "publishedAt": "2026-11-22T04:34:33+08:00"
+    },
+    {
       "title": "Obama discusses North Korea with Asian leaders",
       "source": "Yeni Safak English",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTEY2UW9QQVFkSWdKeDJGc3pHNzYwTjN6MFY4bUFTVHRCS3NPb0ZzbEI1RFJhQmlPSlpJZDZfZDlfczZQNjlPamwtdFlHa3NneXU2UHNfVzRNUnd5QXFZUloycEhvREpKcktDdzNKdklWWHZXUWkweU1JOFhMcjJLU2FWcVFISF95SDdod2Nn?oc=5",
       "publishedAt": "2026-11-21T22:30:08+08:00"
-    },
-    {
-      "title": "UK conducting offensive cyber operations against Russia, China, Iran and North Korea: Military chief",
-      "source": "Saudi Gazette",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQX0poLWd1b3ZVYW5hVEFBcEJxLURkTzd4bUh3VWVOUTlZak1DdFNEaVNjX0J6Vy1kdkZ3WlFXQXFlQlVFdDByb0dwemFLVHR0STRsNnBEY1VKY2VCLU1jbzQxOVBDQlZMOG1Qa0Z0cTZLUlBXRmF5eVd3LUxRaWVQNHpQMUR3TFFMSFFPN19oY3hEYy1UQkxZVmFHWnNhbFhPVW0tb3dWb3Q0d0FaelkzbEM3SHQxamNpZ1lyNWRCRVpNQ2I3OHBFTFRxOGVUaG04MGJtMi1ZVV9rR2dMelNn?oc=5",
-      "publishedAt": "2026-11-21T19:01:00+08:00"
-    },
-    {
-      "title": "Russia North Korea",
-      "source": "Bluefield Daily Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbUdnSk8wbk5TLTBkQzlmMm1UbUliNEVJRlB4T2VXZ2lsSHhMNGVKRHhNblVzR1BRbVFWcE0yRDVFWUhxMjFKbDczSlJZaEk4Y2VxeHpwSXhHZWVlNzNjaExsQUFIazhPWXJ0OXJSck1JVDY2T3BzRzA0eWhwQlk2Vlp2TEdzUlNNajBGakR0VU9fQzBnRXJ3N1RoOW5jOEZIeDB1VEtQM29oLU9sejdyWW5oQ2o?oc=5",
-      "publishedAt": "2026-11-21T17:43:08+08:00"
     },
     {
       "title": "Kim Jong-un’s daughter put front and center in North Korean media in bid to cultivate image as heir",
@@ -67,15 +57,21 @@
     },
     {
       "title": "North Korea’s Kim visits factory sites after apparent Trump snub",
-      "source": "Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPekxXbHh4YkVaOEk0a3NvSDBNOVZybS1GTGhaUndmbjVpOFZlVm5SVU9ZRnB3NlVVcEI5c1VaVEhYdEtPOUVkS2pLWlRPcVhKVkM5UkdvX3owV2s1cGRidEJTY1phbFVlT3BWWG9iaUZtRUpZTWRCUUY3X0pyaUVRRUtLS0lnUFVkS2UzV2o0NHphY1k4ZDA1YWJXNEJQNThvUktoZTZfN2cxNUREbnUwXzBtU0h4YU3SAbwBQVVfeXFMT3ZQc19pVm1WbzNKTGFnQWU3T0FQdVFQeUZGUmxsb084R0Q4LXAwckszRzNrQS1CLWtvMnZESHNqWWZraWF6WmozNzhkY0U2RnhOZllOU19uS05iVk5HV1pKa1oxdm1PdWprVDMzeEVwcEVCZmdVMXdXalRvT0dxWjhCbVpkaTFpcU03QnpOeWQya29lZHNCVG5yLW1pVFFkZXA2ODhwRVM4bkszWkkyTl9tUEs3Z1FZbUpGSDM?oc=5",
-      "publishedAt": "2026-11-21T15:19:00+08:00"
+      "source": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMjZFNHVvaHlpTkc0bWFHWHhBZ21UR3ZPbW9qbTJ3WkJJX0o5T1VxSzU3anlkaVozMnNBNlZGajBoY3VrZWZjbm1VSloxanV0R0IxOWVpUi1lTjlqN1U1U1M5Rl9RWl9EN1pCYlI2eXhFZmdZSDBPWXJ5STJkZlJfRTBSdTVQc3FMazhaWTc2TnY3SGJrMk1sSFNMZUZnMWxRM2oyTzY5ZnNpcVE?oc=5",
+      "publishedAt": "2026-11-21T14:25:00+08:00"
     },
     {
       "title": "Elliptic: North Korea-Linked Hackers Launder $149M in Bitcoin Through CoinJoin After Binance Breach",
       "source": "BigGo Finance",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54a3o5UFVnRWRMUGxFcks1Y09XN1AwX0lxQTBKZTFmM2oyQ2pIR2hacDRjMlB5aTZkSC1uc2FaalpOMHlBYVpUSWc4S2FHRll1MXhrQmN1eXpCdFNLalJodFE3aGJQa2pvZXlud1ZLc2lDUWoxRlE?oc=5",
       "publishedAt": "2026-11-21T14:05:00+08:00"
+    },
+    {
+      "title": "North Korea’s Kim Jong-un visits school gear factories after apparent Trump snub",
+      "source": "South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZUxSa0NPLW1rRnRla2RKOFBNR3h5VHIxN28zOFhsYmFCeWt1Z2NhUUJGa1BYc3BEY1hyZVY2Y25XLWdIRWRyc2I1UGVvSDhNNVF0SU5qZWdRT01wUUt1cndoSHlENWJaeDVWQW0tTDJaZEtwQ2hXTFhseUFuMkJhOUZyUkJfRHNPQUctQXlxZFVxZ243aEJ6ekl2R2gzRTVFQXR0bVBiaXNrbEE2WGJPYzdWVzRmSnJWUXJvZ0lIOXh3SFp5cG9iR1Y4RnVOTDlnSHfSAdIBQVVfeXFMTkNYbUNZRU1XLVppS2w0ZkhHU1hmc0VhRjlEU0xjZGtKeW83QTQ5OFJteHlEdk0tV3N1UVpsYkdzYVhRckhfdnU5Q1cxZ2tqQjd0SzYxRmdPN3VOck9pTEdNTHhWTG4zRFF0X2xLZGxiUXhiUUlZcEJXdjg4RDhTYy1TNnotR013V0FYTUlCZ1F2cHlUVzZHd0lBclhFYzdjb013alJTYWdISjl4dWZsWktqTHE0cU9IMzFmdEdUWmNyaC10MEdZWHMyMExiVnhTdTVR?oc=5",
+      "publishedAt": "2026-11-21T10:10:03+08:00"
     }
   ]
 }

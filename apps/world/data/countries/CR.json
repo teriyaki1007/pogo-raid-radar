@@ -1,15 +1,11 @@
 {
   "iso2": "CR",
   "name": "Costa Rica",
-  "updatedAt": "2026-11-21T23:06:37+08:00",
+  "updatedAt": "2026-11-22T05:06:05+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "San José"
-    },
-    {
-      "label": "Population",
-      "value": "5,152,950 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,52 +26,52 @@
   ],
   "headlines": [
     {
+      "title": "Costa Rica’s Dollar Slide Is Cutting Into Workers’ Pension Savings",
+      "source": "The Tico Times",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNEpEdktNZ1Q2ZUh0Z2Uwa2I3M3pyTlA4c3V6V2htX0lFWjlDZHBGYzdxcWwxM180ZWxOSkMydVZQSmxnU0F6SzBlSHJYbFltWXg1eThkYWZQdmZaejN0bUNGOV9vdnBHbEUtVGFVa3ltNWhUaW9XSG9oSEZrb1phY1pmYw?oc=5",
+      "publishedAt": "2026-11-22T04:15:00+08:00"
+    },
+    {
+      "title": "Costa Rica’s Grynspan Leads UN Race Again, but Two Veto Powers Stand in Her Way",
+      "source": "The Tico Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVFRBRUZRN3JIU292Uzg0T2hQU3pkeE5ueUtkSzdqRnJuZTlKcnEyVTRnbE1NbXE4Y21YTFQ5RDg4THM2T192Y1g3dFRyaG41cnl0Q2lCT1VrajVNXzB5YmJlNUtYMWhiMTJBc0t1aWE0dDVNRTJleDZxZmVsYWl4SDNKX3ZGZWM?oc=5",
+      "publishedAt": "2026-11-22T02:15:00+08:00"
+    },
+    {
+      "title": "General of Costa Rica in New York brings mobile passport services to Evanston",
+      "source": "Evanston RoundTable",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSzJNTDdXU2lPNFFvbVQ3SnFMOUhEa01SdDAwcWVTaTFDaUpmWjRyWk54SGMtemdsU0RHVDJWUzhGZGFiNlcyUG9ObUV4U0NERFNtU1BrWS1aMFJ3dGxyRXMyOGQ5Q2o4Vng1bzR6VV9vWUFpR1R1SEN1RFh5YXBFTnRWQ2FPRWY0WWNJc0gySkhRRWI4bm00LVQ1Qi1CdC1nNEFMZFpOSVB6dGVVZ3B2QzBhZkdrWmNyRDNOeQ?oc=5",
+      "publishedAt": "2026-11-22T02:03:18+08:00"
+    },
+    {
+      "title": "Costa Rica secures point in 2026 U-17 World Cup debut",
+      "source": "Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFA5TFdLZTVxbERpRENjN2hWMWlrOUZlVGUxNGV1STBYYVNvTmhqdXB2MTd1akhrclo5WUs3VmpfWkVuLXdiOGYyQ0RNLTJtYldaVDAycHNCa09SUnNKV2xHWWF6enBPMEh2NXAyQWlHRTVUbzNfQ2ZfQVczZk9qNC1EZjlwbE9LdjBKWXF2SE5tZFZMNnJRT1gzN1plX3VPX2g2bFhXckRLbENTR29lWURBUVZQb28?oc=5",
+      "publishedAt": "2026-11-22T01:13:08+08:00"
+    },
+    {
+      "title": "Tennis star Marta Kostyuk draws attention with Costa Rica vacation photos",
+      "source": "Chosunbiz",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE51aTZGbEloaXF3YlNKdDBNUGdzVlp2a0ZBQmp2NGliSWxEbVBSTWhTUkw3clBsU0lSa0JLdkRVZmVyRzEwUGI4M2JQVjVVckdnZzNwTkZPQ0haeFZHZVZPQ0FEbi1QNzdXTjcteDE2NFdSMlNLTld3ZGZKTkNfQlXSAZMBQVVfeXFMUHpRNXRnMTkzaGtRSEJ2ZW53bl9OMlpqa21YMWZ2YTQ1NmZiUmJKek1aaHZCMGpyLVZmREtIb2xzLWt2cHlhcXhtaVN4N3JrNl9QNS1YY0x5QTF1QkdTT3E5VWtZbjFfOFZUbU9ya1Bac0g2T0ZHT3ZVQzhjbTkzV3VnR0s5SkM0MWpIVXJkMzJ1aFM4?oc=5",
+      "publishedAt": "2026-11-21T23:11:00+08:00"
+    },
+    {
+      "title": "Serengeti Boys fight back to hold Costa Rica in World Cup opener",
+      "source": "thecitizen.co.tz",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZV9obzRUaEJRZDlUUUhXbjJPZDRpc3BzVW5iS1FGTzhFV3c0NmpnY2hVMzgyaWJLS3dDaWs5ZVAyZlhEbnhDdms1em5VY0NLUGxSUTdGVzRKT2dKb3VaVmlQWVRRd1VpVUQ1cGhqZEx6ckxBOGZUSUVHV01fbW9SNjRPX2Y1Z2lFak9qZjV3ZzNrT3c3LWdSdkhXU0RMT0h2MFZ6STkwQVVJa1VGajNhclpIWDhWcHZNRjI5YTRFV0NWaUlN?oc=5",
+      "publishedAt": "2026-11-21T23:07:17+08:00"
+    },
+    {
       "title": "Jamaica vs. Costa Rica Live Stream of Soccer",
       "source": "CBS Sports",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE03bExUeW5BZXFMLVhXbXhOT2F3MWl5Tm1aTkdfSzQzSGZsWWJNSjlMaXZXUDBwbmw1SGk2WHJsUU5PSmUyQklxcVY0aWRuRUNQM1BINDdzM24tekE4U09LakV3?oc=5",
       "publishedAt": "2026-11-21T21:40:17+08:00"
     },
     {
-      "title": "Costa Rica strengthens its position as a meetings and events destination",
-      "source": "Travel2Latam",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRnlMWHE1c21xVmJVX3pWU1BaUHFmU0lQcWdiZFktcVdyZmNNNnFIcWxpMWdrLTJMUlpRdWFYeWdTTE5jU1h4TFdpbjUybUpueVp6aGpOVGQ5ZE15SHdxZ1g0VHg2UGhsM1lxODczQ2kyRHpoNjZCc0JWMjMtMUp2ZkJJU29HY0h4cWI5ZFloaGlvbng4WWVTYmp0dlVaYWJWeEhDelhaXzBjbGJnYmpkWk1jZWktUXI0?oc=5",
-      "publishedAt": "2026-11-21T07:54:59+08:00"
-    },
-    {
-      "title": "Costa Rica’s Main Airport Faces Up to 21% Fewer Seats Through August 2027",
-      "source": "The Tico Times",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVDZQckx4Q1UxcVUxRlkxdTRrdXU5bkJJb2NnelpUVFo3TE9zejRwdy1aUTNTVzRDWFd3UzhaQjg2WWtOT1hIbXBSbkZRaVFIZXRacld2V1ZMMzNsWFZ2aERhdGZPOHBweTNDUmtYS3MtWDZvMXZtUTBteXZ1cXlKY2ZsdFdRMWZwd28wbE5Xcw?oc=5",
-      "publishedAt": "2026-11-21T05:00:00+08:00"
-    },
-    {
-      "title": "Two veto-wielding powers reject Costa Rica's Grynspan as UN chief in poll, sources say",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSDY4NjdrMXdBMnZVZEhOd0ZCR19VYk5LX3NCaDF5dHRHNENkUnJsQjhlTC1hLWpIdUdzbGMwYVNTWGhpUmVZX2hROTVSN3NTLXJVVXpGTlY4WmhwUWxHMGhvajhNelJoMmZVeEoxWU0tR0p2cjhJYWdFZUtWeWFickh4ZEt4QW0yY2tVUUU5MjB2eGRIMTFGLS11MXc5NWZqb3A0YTVNS0s1b0FRMmlaYUFVQUVrTnQ3U2prWWJUZUNMUjY1?oc=5",
-      "publishedAt": "2026-11-21T03:42:03+08:00"
-    },
-    {
-      "title": "Organized Crime Has Become Costa Rica’s Third Economy, Report Warns",
-      "source": "The Tico Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNHAwT2d0QnV5eWlqeGpoZU9vMW44clpVVk9GOXNXS0Nqa05XVHNwYUtCSFlNcDRQRXVKYmJ5aDV6ZlU1Nk5kamM3QTdKVlBmZDJ3b2IxS2oxSjh3U29iNXlzaUNaZjdiSTByTzJPc0o3QTVDQXJzeGU4Yy1CRWlKamRwbjBvbzNjMDU4ekVGR2xGbjd0SWt0bw?oc=5",
-      "publishedAt": "2026-11-21T03:00:00+08:00"
-    },
-    {
-      "title": "Girlz eye historic double as Busby names 23 for Costa Rica showdown",
-      "source": "Caribbean National Weekly",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0FLS1YyVE9yRmhCY1hsYUxPM21MOGc3MFNzbmFESWxibUtLRDFOWllTMU1UeXM4LUJPekw1eVo1anV4TFY0cVdMSTdsMktvMWg0YnZ1UWdWVnJuM2NyU09lUDUtclIwV1I2d0VjdzRrdGdIYXlidmFPdU1qelM3Tk1xNHVfcU00cy1XZ0I1R1lSd3psYVNnZHhWcmxTY3lpYnhfVEdoZ1VQWmxkUk0wU1BYNA?oc=5",
-      "publishedAt": "2026-11-21T01:31:06+08:00"
-    },
-    {
-      "title": "Costa Rica projects an annual growth of 5% in the MICE segment",
-      "source": "Travel2Latam",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa1hadkkyeHA0SUFHMlpvYjBFZXZva0cwelFNM3psdVNra3RpX1hoVy0yOWJWWksyVVczUmlqOXFIMzJqMUw5cERVa2ZqVFRhUlRlZ2dhcWd6TDdIdlVreTM2dnYwX0ZpVGxMbnYtNHZHYi03QmJxdllkaE5QLW9zMVNEejA5ZU9XcDBvMC1TaFVvQWw4U3l6MUw3TmN6bWstT0NhM2xUVXRlZw?oc=5",
-      "publishedAt": "2026-11-20T23:51:56+08:00"
-    },
-    {
-      "title": "Journalist Camilo Rodríquez, Who Exposed Costa Rican Politicians’ Drug Trafficking Ties, Is Murdered",
-      "source": "Democracy Now!",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXUzUkpzeXVPcGZOa2xBMUFiU1c1ZS1JMUJPcWlNdU5oM2lyVXVzUHBEdnVmbGRJZGJ4Y1ZqZEhKWUJHWDIxejRHU0hhUkdGWDNjTE8xNEhhd1p3Y0dpMERkMTFrSGV3cmN1Z04tTWpOc3BnbEdvTFI3Z0hIa3E2ZlVEOHNkMThFYmxValI1NXEtVnVUU09iN1lJV2NUZFJERDBad1FMV2o0WFpCUWFscTFUX1pvWU1DUWZzWVFpTlNpdkxhTDh3bHJ1QWZreGNoZk9ISE9VYkVDbzcwTzd3Xw?oc=5",
-      "publishedAt": "2026-11-20T23:38:02+08:00"
+      "title": "%titleGTA VI Launch in Costa Rica Sparks Social Media Frenzy",
+      "source": "The Costa Rica News",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhTXlqNk9fQThwNDF3NmZLU2M3djNYM2hYVERzUEVGNms1NTJGSlpIdWJuNEw0dlNhZWgwZldqRGpocHhscGUxN3BXc2JDaG5Qenh3cGJmR0dXNXBZQ1dxOWVZVGVoQnJL?oc=5",
+      "publishedAt": "2026-11-21T13:26:37+08:00"
     }
   ]
 }

@@ -1,15 +1,11 @@
 {
   "iso2": "BY",
   "name": "Belarus",
-  "updatedAt": "2026-11-21T23:06:37+08:00",
+  "updatedAt": "2026-11-22T05:06:05+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Minsk"
-    },
-    {
-      "label": "Population",
-      "value": "9,085,991 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,6 +26,18 @@
   ],
   "headlines": [
     {
+      "title": "Human Rights Defenders Do Not Know The Whereabouts Of 139 Political Prisoners In Belarus",
+      "source": "REFORM.news",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcWVpNVlKX2U4U1JaenlYOHdJUjF1ZkdMZ3I4a2lCTVZXNGR2OXJrNnhrZUZGakprWGIwZDNOU25EenNKYzNpNHZuQ2NVeVdlLTFyaXZEMTZ4bXVNV3YyUmtCNGk3Q0JMWVh5RVNnXzBjdHdkWVpkRjUyMHBJdFhtVUMyWlpnVEJudmJBb1lQZGFZMlpTSUhVZHBISFZIOTVfTDNUWWZ2a0NSUFRNeUFwYzZn0gG3AUFVX3lxTE9VdWR6Zko3ek1WYTZkNXN1NVlzSTk3YWNZTDRZWHd0b25xTEg1aGZWZmlxWGlsOFRzT0NaWm1kWHo3YW5QcWFKbzl4dGN2X2pkNTRQa3BuSEQ4bVZMRUYzQTItY3NQV3ZIY3VKTjM2WldpVXh3V2R0YzQwMVN4dS01Z2RnbmQtSWRJcjB0ZGtFQTF1MWZCTmQ1XzROTHpsR1hFOHJDTkkwMzJ4YjVBd1h6YW54R0UyZw?oc=5",
+      "publishedAt": "2026-11-22T00:36:35+08:00"
+    },
+    {
+      "title": "Russian Drones Flew Along Belarusian-Ukrainian Border Throughout The Night — Flagshtok",
+      "source": "REFORM.news",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWh4UUVmZWxDSmtvU3Y2YjZCeXlnZk9DMVNoaVB4SmVWTktBY1VQOEw5YmVEQlBaWWJxX2ljMkxsUWVwLTJZM093UndVX1FWTXItQ2k5VS1ZYmJpQjR5VlFEYm5SeWNwMjhVbGI3VXBPRDlMMzVVeERESEpfczRZWkx3Q213RWxmMl9sb2ppZUp5dkI3aHhLUWJ1MW5nS3NvblZLeWxzdHFNcGRP0gGyAUFVX3lxTE9UcTFIWXU4N0NaYXdfc0JEaFhBYjQyXzFYU01QMVBxNE5hZXpDZFpEaTdsU0pFeWtXRDhLNjlyN3JEZUFpdTJlVEhpUTViTmNLQ1VhOC1CZXBXaXRoR1FnaXlyUDdWNUFoTUFpQUdpcVQ3dk1zQjFPTFNLV19ic1VWejdGQ0cwVGJmVUJkcUNmT2FURms1Y0hSbFlkNXFJTGhTRFlzNnhwcUVsenpzRHJGckE?oc=5",
+      "publishedAt": "2026-11-21T23:16:04+08:00"
+    },
+    {
       "title": "Translating Homer in dark times: Liavon Barshcheuski on his Belarusian Odyssey and Iliad",
       "source": "Belsat",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGVtd3pLcmZ2b0MyckNoNFdVQWJZY0NVRFYtSVhVT1lCS09naW1US21QcXJEU2dGTi1NUGM0S3lWVk5iNmkxLVgtSjk0S0VWU1czV0JQcjZxaWViMFFCLVdoSDkwbF9UcDctXzB5MFlWU0FlTWEtUzBwYl9LNTh4d2s5MWxTeXV0QlBiUFZCcjBlSUxSU1JmYmlKTktoS3NOMmlYNE9fWkhfNFZxVzRjR2VIZkpmaVJu?oc=5",
@@ -42,10 +50,10 @@
       "publishedAt": "2026-11-21T21:45:19+08:00"
     },
     {
-      "title": "International Biathlon Union Maintains Suspension Of Belarus And Russia",
-      "source": "REFORM.news",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdVc3cVZhbDRlcjZRV051Qmd0WHNJOEhCZFdMeW0zczB3VDVJMDBISEVCTXpSNDFuV1VJNVN4OUxuNWpfVnBCS01CdklRZVlNTGdrS3RqR1lsMlBKRUpmNmhDR0N5WEdHNGRFMGlWS3BaVTYzTUdnT29sOXdObFF1M3JVd21laUs5bDZwdWZoUmxkb1RjazFHa2N0c9IBoAFBVV95cUxOajZxY21xU0EyQ3d5SnZqYkI5elZKNlRvazd6UVpUNGxrTFY2UVpUTkVVWFJjbGtkX0dvaG5TWkc0cnQxdnIxU2owWkZIU3hlZXgyUmFOQ0dnTk9RVDBpeW8wcHJQMWRFSnBwcDV4Qkh1dnhja3RpWTZRMFJkN25LVjNaSE1uNm5NQUtTNUVvSzUybXE5MDdCYWc5UzhhdGJo?oc=5",
-      "publishedAt": "2026-11-21T18:48:08+08:00"
+      "title": "25-year-old Belarusian with the call sign \"Dekan\" found dead at the front",
+      "source": "Наша Ніва",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9MZnM1b1UtMkhYb0QxRkloamVQWnVuOXYzb2VERjVyZUlRY3U3R2hFVlJzTFpLOFU2YlZsV0ZHNXZpTzhoUlHSAUtBVV95cUxQbGViMmRnLTJScjU2REc4WEg4alVHdldlTU9nRXJtOWxObEx4Y3REZDFUWW1Fb0FtaHZqMHNadUMteDZLaC1iYmNiUTA?oc=5",
+      "publishedAt": "2026-11-21T21:33:31+08:00"
     },
     {
       "title": "Skindzerau is actually wanted in Belarus. But only for bribery",
@@ -64,18 +72,6 @@
       "source": "Haaretz",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcXprS25WWnUzdzlVQ0pCeVRvZXctMTQ0S0ZMeUtMbnJnVE5OVHNWcVI3dFEwZS10dk5JcVplUjNVTldKUHQ5MDNNeDBqSmFFeTVSNTA5UzJjMUVYcTg2QzhmOUZrcWFGN2laY0cta0wySXZqeV9KM2RVQzN1UUE0Q1JmbGJjN1RjQl91eXY0S2dmQ3RzSnVQNTJOdXdwMG1oNi0ycFhpcElJUHQycmdLYmVHd3R2WkhfRUFWTmVwZFZZMl8wQ0o1VWs4OWhDZlc5U3JtYUxaX1VfMFRxd3lINF9BQTNZMElId3pwMVFEcTV0cF8xTjJvZXJESnVIUzQ?oc=5",
       "publishedAt": "2026-11-21T12:53:00+08:00"
-    },
-    {
-      "title": "Election Affairs: Meeting with the Belarusian Charge d'Affaires a.i",
-      "source": "Myanmar International TV",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTEhlY2c5emxzLXhRdFlOVWRjdnJMaXhsaFFYNllCQ0FOR3JVZFZpa2ZUTmZpRlFha01tQTM1Y2c2Mk95U3VCckVKT0pob0tYR2xVdWQ5Y0ZZQVFBTzFrYVVtTDg2VUFJeU00YklLdlM2TDducDA2eXJfbEk1UG54bHhNcE1EY1JEako0ZHYzRWQ?oc=5",
-      "publishedAt": "2026-11-21T12:19:49+08:00"
-    },
-    {
-      "title": "Belarus' Lukashenko inaugurates nuclear power plant amid safety concerns",
-      "source": "Yeni Safak English",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUlNmVnpiVjBsWmVkNEUwaVhkeURndnFpQ0VoZDR3Qzhiemt0OHJ2WEpGWnNqWjI4Smt5REZBQlNyQ0ZvRl90NVpGQlBmOENJdWlBZ3h5MFdDNTl5LTVNTUJfRE1MWHpZdEJMQWt4czlIZjNzQzNqb0VqaVpEdWdFXzc1aEFmRlY0WG1Rc2lpdm5rdEZVa0ctWWowbWNKLUwzaXpTdXhjWWpaby1YWnA0?oc=5",
-      "publishedAt": "2026-11-21T11:27:40+08:00"
     }
   ]
 }

@@ -1,15 +1,11 @@
 {
   "iso2": "TG",
   "name": "Togo",
-  "updatedAt": "2026-11-21T23:06:37+08:00",
+  "updatedAt": "2026-11-22T05:06:05+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Lomé"
-    },
-    {
-      "label": "Population",
-      "value": "8,591,626 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,6 +26,12 @@
   ],
   "headlines": [
     {
+      "title": "Togo Starts Project to Make Building Panels From Farm Waste",
+      "source": "Togo First",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZlQwQWtSaVRSZ0xXZG5XWjVMNzZ4emRJVVVvMnBzenJ3cUlhMng3WEtNTWN5LXhGMU0tcnRpVGUzYTV0WHNJblVac2pyb1IxRmV5dXdDS1dCeEpoRmI0dV8zSWNGRDhTRFhmN0RXYlFFZlFRaGc4dFEwLXpFUnVYeUIydFlwdS1ic0pHQ3p1NkdyTHJKb19RQTRJU2VoajdHQjdQdUM4Mm1kN2xhT184Rw?oc=5",
+      "publishedAt": "2026-11-21T23:59:24+08:00"
+    },
+    {
       "title": "IMF talks on Togo reforms continue without agreement",
       "source": "Channel Africa",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNnVjM3pNLWN3R0d3anVCQnh5aHhIdmJ6TFlRQ0ZLZW1LZTVPOWpXRVFhRWtiaFJHTWFxZGlYMWxQWlpzcGUyNWNuSzVTUjZmQXMzeXdBX3hRQmJNQmFubEtCRXp1ZDdXTm5BU3VZRlducXN4VkY0UkZzaVl4VWJWcGFKai1tYkZlWUh6dHJ5ZmtJWjlFb2hhVm81SkhndkJwY1hXTEVBMA?oc=5",
@@ -48,28 +50,22 @@
       "publishedAt": "2026-11-21T04:08:48+08:00"
     },
     {
-      "title": "Chartered Institute of Logistics and Transport to Launch Togo Branch December 4",
-      "source": "Togo First",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMTI2akJOUUJ4T3V3R09sVWc0ZjlrVzdYYllVVm0xVE96Q0VLSVB1ME1qcGpOeDRBREo5UlpuYmZFMGdRM1hrcERaVTZtb21qMHNTODhVUEUyRUN3YXdEUUc3cjM5WFBtRjNlbTJIWDJyWWItR1U5cHh1TTdPM0FOeFI3aWt0bVV4dFE2X29LaWEtVHpzbUY1eG9xSG5qbkhMTXF2SDlEQVAtb2RTWnh2Mkwwa2lSOHpPNjU1Z1hqazkxaXZUNktXeA?oc=5",
-      "publishedAt": "2026-11-21T03:48:46+08:00"
-    },
-    {
       "title": "Togo IMF talks end with no agreement on fifth loan review",
       "source": "DNE Africa",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5Wm9zLXNwSDVrdzZLeENucV9EdVVHd3Q1MGMzMHhiOExDZE44MmUzZlFieEpkUXktTlVWRElvMWU5d2syR1JObXdCVElnQjF6MThvNVRjQ0NWV3VacGMwTk5DZ19vSG8?oc=5",
       "publishedAt": "2026-11-21T03:12:52+08:00"
     },
     {
-      "title": "Attaf Holds a Bilateral Meeting with his Togolese Counterpart",
-      "source": "الإذاعة الجزائرية |",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9iTTJYQnV4TVFpWXNFVUc0QTJ6NzllVzYybjQwbnJpYlRvQkZZYmhKNkhUeUROYTRBeWhYN3FMLUFSLWNmQzlqNzctbWlZcVZaQXVnQQ?oc=5",
-      "publishedAt": "2026-11-21T01:14:36+08:00"
-    },
-    {
       "title": "Adjal Discusses with his Togolese Counterpart Prospects for Strengthening Cooperation and Partnership in the Field of Energy",
       "source": "الإذاعة الجزائرية |",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84NU4yQm9UZ1JBVHpLRzR5bmNHZmFtMzFzU3hrWlduWnZIdlRWZHlha1FteU9BQTJYRXFnUmNHWnVQa250aGxVQ0RZOHFJdXJVTkd5Qw?oc=5",
       "publishedAt": "2026-11-21T00:43:02+08:00"
+    },
+    {
+      "title": "AFCON 2027 (Qualifiers): Togo releases a statement following historic victory over Algeria",
+      "source": "Foot-Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUjREYkhuWEZ0VFZDUUJuank1Zm55b3lrUFVuV01IUGJYVGhOdVdGdHBwTGY3OTBNeUhnaExOLTRSTG4td2lOWmppNV81ZGloN2hRVHBNb1pGYjR0YlBndWhaMk41cmpGNTNLY19nTUpiSGhIZGo1RUZoclM4RU94Vy1XeGp3RjJEaThBbHZBNFdFOTl0WUxQVDFJMmFRY3N4TWQwbDVLc25RdWl4UUVOTWpBZDVTWUpjSGVIRHpOMVNoRXVI?oc=5",
+      "publishedAt": "2026-11-19T20:00:00+08:00"
     },
     {
       "title": "Mercy Ships and the Government of Togo Rekindle a Historic Partnership Ahead of Milestone Medical Mission",

@@ -1,15 +1,11 @@
 {
   "iso2": "MR",
   "name": "Mauritania",
-  "updatedAt": "2026-11-21T23:06:37+08:00",
+  "updatedAt": "2026-11-22T05:06:05+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Nouakchott"
-    },
-    {
-      "label": "Population",
-      "value": "5,315,065 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,6 +26,36 @@
   ],
   "headlines": [
     {
+      "title": "Mauritania Calls for a Shared Response to Irregular Migration",
+      "source": "Atalayar",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUUdWYTNWUWtJXzMxV1Nta0puOFZncDh4WFAxejYxd3lwbXV3ZThfZDdNMmFEQlFHZzR4TFEwOWtJY3BFeGUtWE1hMUY1Y0xsN1RQU3JZLV8td3dvYVJuV2VSY2d2RUFCV1BQX3dUTGJjSUxpUlFuQTdpdEx1X0Q1OUR1SjVYYjZHdFc0LUd5a2NKRFNWYkRjWDBEdGhiYWF2YWpqclZHdUpvT2E1UFVpS1V3OWpKRGpEZk9BYTMyQQ?oc=5",
+      "publishedAt": "2026-11-22T03:47:24+08:00"
+    },
+    {
+      "title": "Mauritania Seizes 1.7 Tonnes of Cocaine",
+      "source": "Wisevoter",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaE1QRUNxX2VvZGcwMDR0RGFFUEdQcnRSdG5RYm90MXZyQ2NhTnRvZWRaMTFiT0ZvM3k4eTJld2F1eC0yZ0VNbXJzeFdqUVFyaEhsN0haa256bk41MnRxUk5PTEI2S0IwNkpSbXdoby1VLTNaLVRwc3RWUUM2UHc5ZGxMdGdDQ05CcEE?oc=5",
+      "publishedAt": "2026-11-22T02:55:52+08:00"
+    },
+    {
+      "title": "Mauritania's Military Power: How Many Tanks, Aircraft and Ships Are in the Inventory? (2026)",
+      "source": "Envanter Medya",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CNF9qZ1gyd1FoUi1YSVhDZDEyYXo0QkJQZE5qSE80VTRxUmtsUW5oX1hqNTUzc2tmbzVHQzN4eThvWk1IZ1lyMkdmX081MVNVaW9QMjZzN3ZtbjE1NERRenp5MUhEeVQydExhNV9zVQ?oc=5",
+      "publishedAt": "2026-11-22T01:22:00+08:00"
+    },
+    {
+      "title": "1,700 kg of Cocaine: How Did Mauritanian Police Dismantle an International Smuggling Network?",
+      "source": "Daily Beirut",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORDRVOTEteVRLUnNRQVdkcmtzOUcyTkhVNHlRSGFsV1ZiV1JkNVhuUVJ6S3JMYzJtb0hZMTVMd05sa3lHOUI4Z1VJcW00RXQ4YmQwY1BadW5rZkVPOFFyVGJEUmkwUjhSNFJlcHYtOFJMNEhVclp3SXdiQ2JlY1BDRHFxME0tVmhpdVlPS203VVotaUJxWEpBclhEX3lIRWJCZW9Nc0FocENOT25feW5zY2NFUkE?oc=5",
+      "publishedAt": "2026-11-22T00:06:19+08:00"
+    },
+    {
+      "title": "Morocco and Mauritania Leave Spain’s Fishing Fleet Without African Grounds",
+      "source": "Morocco World News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeGNqNFRTOXlmQnVtX1pTdUtVdlVSMXQ5blprWG9RSXl6OGxlbkV5RzBPd0JrWERrbFhCNk9tbHdIMVlYOWZLZl9qbGtPSVJUVkl4MDhQTjZyZkg4QUNCOHNYQUZyS1ZyakNJUTZFM3ZPS1hjVHNZMVp1dklHN21iTXJyMlB5cEhvQWhzbWJWMHRKUnhLVFZYakkyZEx5UjlCUUM3aHppX19JcGgweGstaWNDME8wYXQya2hPeW52MA?oc=5",
+      "publishedAt": "2026-11-21T23:13:18+08:00"
+    },
+    {
       "title": "Mauritania: Closer ties with Morocco and the UAE worry the Polisario",
       "source": "Yabiladi.com",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDl0OURrRUVoSF8xNWpIZzhfNmloUkNYMS0xSk5RTFhkdDVsc2NIQ0o1QlpESUgzS2dfSmVEQi1GNThjMDBkOEF2OVNjeG9oQkp1ekZaM3JSY1RqNGJkbUR0Rm5YZjY4VWpMX3ptZjhvZzUyN3NVOFFUV19BVVJ4TllXbG5nNWV2YlM5UDlmVnJkQQ?oc=5",
@@ -46,36 +72,6 @@
       "source": "Demócrata",
       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUVBtOUVPM08zMlJid1BPNnJldFJZQTB4OXVCYTlnS1g5eWRyckY5X0xhaE83VmlUQzBJN1Rvcjk5cjRuVlN2YU4xOUpkUDdBZlhpTC16UUowdlhPZjNhMEpzdmFPbXRJa1U3ZS1uQ25hUmdNN3I5S1diWlljM2FPOHlndjVFMnJBRVF6UGIwMUxZNFpYTE5fX3IzeWg3d2dUY3psOXFBb3BzanNWWkgtbmt5bWJwLVpWZWdVNjZYMGhmZnI1Q1laeFlwNXNES3luMTB1eUJPeVlXYVpTNzlpU1dxUmIyUdIB6wFBVV95cUxOREIxN0dSLVNHU3BYRjJtUWpDakVtN1hibkdIZ1lNSFdpY1FJSGtGemRGUEJUREVqS1JpWFh5dnBlZGJFelNpdVZHNEQ4RURfVEI1aFFHVk1FcE5oa2FuMWJNdEUyRGR1UFl6bHUyOS1YUXBTbURVcUpHeW1lanhXWXFzbkV0X3IwWmh5NHlzS1FwRy1HeTd2RW5zSmY1TjF1dFJPV0NfSXJZOHVLUEFBS0NubFltWEFzMUxWM3lLX3RSQllGZ1dCUTdvcjg1SnU3OG01VXZScUduVHp2NTQzN1BvdVg5SER2QjhF?oc=5",
       "publishedAt": "2026-11-20T19:08:27+08:00"
-    },
-    {
-      "title": "Mauritania youth leagues set for kick-off · SNA",
-      "source": "Sport News Africa",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX0h5VmRBSHQ1cTRYVEMzdkxFcTBfWjd3dnRzWEs2TWlRMmlIZzZrRDBWQklBY0k1M0FrZ1ZlZDZlWlk5aDdHcEpzN3V6ZkNLSFdBb1FaS3Q4SVpsZ25lN3g2ZTBlOUViMlN1dzUzR0RHeWgwNnp1YWg3X0ZOcVFpRzhYNHQ3MWs?oc=5",
-      "publishedAt": "2026-11-20T15:34:24+08:00"
-    },
-    {
-      "title": "The mayor of Cádiz, in a letter, calls on Planas for a solution to the halt in fishing in Mauritania",
-      "source": "Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVDNLbVBYVzFSZlNsLUNmLXZvUm1PNmExOWdhUXlyblhRRGVlY1ZZckVqbWtodU1idUlqamlmcW1iS0Z3RjRGMXZPaXNGM2VhblEwbEVBUjZseVpkdVVjcU5Kb0pRQkV1VEd0dE0tWWNJVVY5X3ROZ1pyT3B0ZXdrRnhRWUJuWGNoR00yalpQd0NaZERKMEFfUEg5Y0pkemw5ZnBHWlFfdUtNWHN2SU5oMzNfS0dqb21VVXhiYy1SSzBQb0lSMXRIYlVCRHFlQ2lHZEdKd01yMjdRZDhZ0gHiAUFVX3lxTE9rNnJwckxiTEZoNjRzVVdQU0o5UjlvOU8xeVZwT181Tl9yLUl2YTFCb2FQQ3JJalF4VkNWeG1YZ19iN3h4bzhrNk44bC03Q2dweWR3SzRPRXE2cWFmSUVMam9CeDRLaXc5TDVZVHRRUnJTejNacEN5cFdQT3ZIS2s3aWljWU5xQVg3QUVKby13cVgyRmkwQVRJMXdMR3ZVV09TZUxSUURuajFOandTYjRsRW5BOWZTYWJadDUxTFBobDFnTS15elVzVFp2R3NuNS1PeE8wZEZNOVNDSkNiclpjY2c?oc=5",
-      "publishedAt": "2026-11-19T19:06:24+08:00"
-    },
-    {
-      "title": "Mauritania orders its gold miners on the border with Morocco to evacuate within 14 days to avoid drone attacks",
-      "source": "Atalayar",
-      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTXZPOFNsS2RJTVpCendnWWJwV2duSTlKUDk5a0Mzckg2Q05PdE8ySnhFX2F5R3Bld3J3dldSZ1MwMEUzMXdqTERZSFpkOFR6b3o3aGl0dzRRYTV0LTdtem9BamxJMVhNVjJWV0hDcWxkSlVLSU9ET0tOaWtxcjRWRkxpUEVRbzd3MDBZb3RLZHlNWEJZZFZuTHZ2dlN3X0oxTjNYckotaVJpaG85N1k0RUtkeDNmOUJqelhwdThLVTdpaU9Nak9fYjhBQXpiSnMxODNWMEdvaVFQcFNLc2xmWWYybW5aS3diUVhMM2pIMnU4QUdiWlpKMTFhTXVWbHl5czRZ?oc=5",
-      "publishedAt": "2026-11-19T18:49:57+08:00"
-    },
-    {
-      "title": "Morocco, Mauritania Complete Studies for Joint Electricity Interconnection Project",
-      "source": "Morocco World News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOVdVZ1FYSEJhTnlOdWQybEE0ckZ6eTF0NzViTmVYR3dvSG05WHhNN2pTUDZSU0puQmUtQ3dIY0Q4T2hEWWtoZmNBY2s2aUFwV0lVay12T3VuZ01Rdk1oUU1PNk5aWW50WnJyMWtwUnlwMDVEZkoxQnpZeXVoeFZ5QU9hM0k0eWFLMnBEQkRBVEduTUlhQWt1N01rN2pvSG5kUDB0VjNxN24xaHBQSjBmSUxRZFF4czF1eWE1aElBZ0tCLVA1bjRFMG1R?oc=5",
-      "publishedAt": "2026-11-19T03:17:57+08:00"
-    },
-    {
-      "title": "Mauritanian President Sends Congratulatory Message to King Mohammed VI on Independence Day",
-      "source": "Morocco World News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYVp0blZHMnZZZWRXYkhMa3M3Nm9yd29iZ25kYTJCMXFacXlJVXp6ck9lNVZqSFFUZkRabkdTTEJja2Q3ZS0zcFpzc0pNQ2VYcUpqZ2c0M2hLbjNObElGd25tM2xNUGpQdkNmVVJaWVZSclp3eW5OekdYUzd0RXBESzlhaVQyTUg4SzROdTRHWE5fNWI5ZjJ4dldsVUpBZTJYajltQ2pPM3U4bEVSS1VQNk5nbi1mMHZjbkpBV2oxNUh1c1RFNnJJc280RUpPVzVNd01CMnVR?oc=5",
-      "publishedAt": "2026-11-18T03:55:32+08:00"
     }
   ]
 }

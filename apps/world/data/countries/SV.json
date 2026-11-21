@@ -1,15 +1,11 @@
 {
   "iso2": "SV",
   "name": "El Salvador",
-  "updatedAt": "2026-11-21T23:06:37+08:00",
+  "updatedAt": "2026-11-22T05:06:05+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "San Salvador"
-    },
-    {
-      "label": "Population",
-      "value": "6,365,503 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,6 +26,24 @@
   ],
   "headlines": [
     {
+      "title": "Haiti strikes deal with El Salvador to build new prisons after minister visit",
+      "source": "The Haitian Times",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWEZlNWdSODZzdUdRSnVEQUN4LURIakVhanBnemdFc2t3MFE1LXUzUDZjYWZ2OFBKV2ZCVE9mU0JPa1hldHlhS0F0RHZ0OHlSTmY0UlJFU1JBcUtLemlEeEtKclpTV1NBUFQ2U3NzM1hfMk43N3k0MUhmTjIwa2tWbzhJOUJQaEhaLVBZ?oc=5",
+      "publishedAt": "2026-11-22T00:41:05+08:00"
+    },
+    {
+      "title": "El Salvador Deploys Thousands of Troops to Fight Haiti Gangs",
+      "source": "bsinews.id",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Kd3N4QUZlM1I4bmNwakp4bzFQMEd5MkV4SkkyT2NWcGZsbmx6RmFTZjZuV0JHcVJUNm1jLXRqaWMtcXdtZ2s0UGR2V19ydzROSUFFZXluWVpkTVpSRGNXYU9rakd5bk0?oc=5",
+      "publishedAt": "2026-11-21T23:19:41+08:00"
+    },
+    {
+      "title": "USA vs. El Salvador Live Stream of Soccer",
+      "source": "CBS Sports",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xaHZ6OTVQSzRSTWVicnY1aFU2ZEh4ckpiZHF6SUo3TTRQeTNLeGFwY19UY2I4eVA3bEd0RjlJRVFWTFJnamFrU18tQzV5RTJfZG9IeXNRYU1GdGVEMWtIbTRn?oc=5",
+      "publishedAt": "2026-11-21T21:45:08+08:00"
+    },
+    {
       "title": "Haitians excited but uneasy as El Salvador troops fight gangs",
       "source": "The Guardian",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdUpnajZydnpaU3U0WjBwVHl4U3Uzckc2Q2JUY01IWjJEQXRyUmlrTXloVXpGVTlWbDRteER3bXNUY2w1bVFSVzk2TDNrQzBGenRqM0RfUm4xOWtCYnJWWnNBbHVuaHk0Vm9nLVpQcC1yYzNsV0FUX0xvMnVZbGVhRHF2bzNXNTNIeW9vQlR2LWR6b05nTlBWSHRLZm5lN2lROU5BSkRfYVo?oc=5",
@@ -45,7 +59,7 @@
       "title": "Three El Salvador soldiers die in Haiti while handling explosives",
       "source": "DW.com",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX0hLSEFrQlZVeEdRRFp3enVSTVNsekpZWk02Tmg0WS1zRk9mM3djUVpac2V6OExYZGdhNWtkMUtLWndQN3ZVenQwUVpSdkp4eFUzUGJpMkdXNy1VTldYeGZ3TFM1emlDMWZRSWxzc2h6VnJPUlFVVjlrUEVnOHhxLUxXc2Y0dVh0Ti14UzhIVVkyaG5memYwak9Gc9IBmwFBVV95cUxOXzhucGYwQU43MnFudjJlQm0yS2FtNTAwbWRPOFEtUmZZWnFyaVU5UW5kZ0dEOV9iUm1NVWI2Vl96NmR1ZXhQZjFYLW41YU5YYUZMdFhKbkZ4TXozYXpKY1pLRzNLaGd4X1N3QzU3bzhBTWl1MVQtMWZwZzExZUdyMUNFMEplc3FmLUFwUjFEbXA0LUFCTlVhUEZEZw?oc=5",
-      "publishedAt": "2026-11-21T15:24:35+08:00"
+      "publishedAt": "2026-11-21T15:12:54+08:00"
     },
     {
       "title": "Bukele launches a third-term bid while more than 2,500 Salvadoran troops operate in Haiti",
@@ -54,28 +68,10 @@
       "publishedAt": "2026-11-21T14:28:32+08:00"
     },
     {
-      "title": "Three Salvadoran soldiers killed in Haiti while handling explosives",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2RDQWNhRjF6MlhhYmprSkN5Z3NqVk9Jd3loaUdDN0k4SHBlUlVIR0tUOXc0X3lndGdFNEEwUC1ZLWNCSlhqSDk4QldKTC00dTlSdG1ZblRxMjVVeEV3ODgwMGlKOTB4RlhhUEJIN2ZrS2F5N1JaQUpRTnBRQk9ieWdINGJSTUFlRGR2UVdHYXJrZnI0dnYzTk1Xc1ZvS09sRHBIRWRETExLQUXSAbABQVVfeXFMTmNGVnYxcjdzeFBXYnFHOWQ4dTZjWkxmZmZaUWR4VEpMM0x3ZzZQdnBuWlh2eko3V2NWYmNRekR4ZDRjZml0TXRFN0tIS2tqZENrSm9MZEdGalF2akdUaW55cHUxdzdBd1p4UDFmN3BjQjFITkJNUEJVWTV2aTVxdlhvS2hyemgwWjFJTW1qRUFGUmxuWEh4MVBVbHZMUWFHbUd1Sms3eTJDQWV1Sl80dFE?oc=5",
-      "publishedAt": "2026-11-21T14:11:09+08:00"
-    },
-    {
-      "title": "El Salvador Takes Its Gang-Fighting Strategy to Haiti",
-      "source": "WSJ",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSjltVnJJcnNTX0ljRm1SQjEtVTZNbE1TVld4dnJMQk15dW10YjY3Uk1Ga25LN0JFYmdOTm9RQlF1TmUyUlp2TnI1YU15d3VOX2NGajBDWmh4M19sUG11NmprUXFPdkJ4aTh4S0ZGOVk5R2hnYlF0TWExRDRheHYtMjN3Q1JtWHVhZ3hoLVVWVTBzU21KR2NQc1ZrY2g5QQ?oc=5",
-      "publishedAt": "2026-11-21T13:33:50+08:00"
-    },
-    {
-      "title": "Is El Salvador building prisons in Haiti? Haiti says it has a deal for three new prisons",
-      "source": "Nacionale",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWVBOa2JzZzNXNWEyTW05TWpDWEUwZGtkZFR5S2lYbU81T0JsSjV5bXBmaUExQTloVGNVNnhna3VQZ0xWbU5fR3BxUUFpY0psSnVxMTdqTmZuNlpZdk5FLTRpREY0N2lMZ2FqS2pMTjdSSFVZbzMtaWxCUGJ5ZWxPUUFPbHZSa1Fsc1U1QUFQRGd2bl85MXpicVowZFpKcVR4ZnlLR09OYjh3ZDVRcUhV?oc=5",
-      "publishedAt": "2026-11-21T13:33:04+08:00"
-    },
-    {
-      "title": "The ‘Emperor of El Salvador’ storms into Haiti",
-      "source": "Financial Times",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3Qwa1U0THlNRHgzUWticlAwM1FRT1AxZFd0a1BnX1Z2T1NqNTZyaHhpdjJKRUdMQ2pwMHpzZFp0TE91RXJ4bmZuSmd6cWRmWE1LSWl1TFJpRkswLWR0T2hMNHRXWTdXNW51UXpMVEEyNDZPTHZtYzBrS0pZb1VpZ2w2TG4?oc=5",
-      "publishedAt": "2026-11-21T13:04:45+08:00"
+      "title": "El Salvador’s Bukele seeks third term that could keep him in power until 2033",
+      "source": "The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWFRUUGdOREVyZlBVN25xNmtrdk1fNjB6Q3E5bThCUFR6WGJfZ0k4RWwxM3J3SlVhUm9WWWhsV3l3UGoxc3dGUXdOaG9JSDFZWnBxR1JhcDZwa05FLXdQd2Itam5JWkRRMEt2bXVEMkFGUTY2ci1aWGo2M1VuRTJRRTVtQ0dpdTFFLWh0bm9RYnExSFZ5bV9sNE5BSUU0QU1XajBTRzhjaVhOWVBXTkhCMFpTaVZ1U2o3TnlBZWtIUQ?oc=5",
+      "publishedAt": "2026-11-21T14:15:00+08:00"
     }
   ]
 }

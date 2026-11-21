@@ -1,15 +1,11 @@
 {
   "iso2": "CV",
   "name": "Cape Verde",
-  "updatedAt": "2026-11-21T23:06:37+08:00",
+  "updatedAt": "2026-11-22T05:06:05+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Praia"
-    },
-    {
-      "label": "Population",
-      "value": "527,326 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -29,12 +25,6 @@
     }
   ],
   "headlines": [
-    {
-      "title": "Cape Verde Promote Humberto Bettencourt After World Cup Run",
-      "source": "Football.com",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QdkxPNkFmUUNGV3hUN2RxYzYtbHBaVkFESkdKZ081SjZOQVJtaVJ1RGxGNkVwVkhNcWJtSjM2S0k3a3J0b3Z4SlVScG83LVhH?oc=5",
-      "publishedAt": "2026-11-20T14:15:39+08:00"
-    },
     {
       "title": "Cape Verde: ECOWAS calls for increased participation after presidential election",
       "source": "Bénin Web TV",
@@ -76,6 +66,12 @@
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0ybG52dFhoVUdfR0xRdG9XcS1FbThGYTI0ZmJGZVZUSk9ZOFFobko5Zmo1dEI1and6OTJDNElJUzBwYm1oejhWNmJaYS1WbkhweUhPOWkxenNZd2I5V2NKbm5SbXo2UQ?oc=5",
       "publishedAt": "2026-11-18T03:00:35+08:00"
+    },
+    {
+      "title": "Cape Verde President José Maria Neves Secures Second Five-Year Term",
+      "source": "Central News South Africa",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdGRJVFNGT2w0cmpQT1VKVjVVOWd5bzJvYnEyUlFmSjgwdFZPZDhhOTg2VTU2NWhiVzktQlloZkM5R3dCRE9LWmRQd3FYV1pKUzlsOVFNMHJxUldxUVExWHFFYjY3eUc0MURZV2pwN3dyTjNCcGJWM3R4d0xKQXR0ZFpobk5qR1JsRGZUUVB1WGVlZkM4WlBYNER3?oc=5",
+      "publishedAt": "2026-11-18T00:52:45+08:00"
     }
   ]
 }

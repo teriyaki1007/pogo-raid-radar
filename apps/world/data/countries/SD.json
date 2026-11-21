@@ -1,15 +1,11 @@
 {
   "iso2": "SD",
   "name": "Sudan",
-  "updatedAt": "2026-11-21T23:06:37+08:00",
+  "updatedAt": "2026-11-22T05:06:05+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Khartoum"
-    },
-    {
-      "label": "Population",
-      "value": "51,662,147 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -30,52 +26,52 @@
   ],
   "headlines": [
     {
+      "title": "Egypt signs cooperation pacts with Sudan, DR Congo at Aswan Forum",
+      "source": "Daily News Egypt",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGNtNW1JWE5mVHhGTlZ0RENQZzBMbFgtRmliWWpQTjJWVEhOREswTUd6cHRvX214OV9Na1ZJdXl0bGJoLUo1aGF2NXE4NTI0aDB2UmMwRFNVQ0Fmc0VHUjlwYWpNVTJlbHU0eE9LYjM0UlFKbmJ1SU04X3l2SldYQnFnZS1CdmxFTUJGT3BfV0RsMV9IaDhWb3E4LU5wYXJEOS1zLWh3?oc=5",
+      "publishedAt": "2026-11-22T04:46:55+08:00"
+    },
+    {
+      "title": "Sudanese face starvation as most Khartoum charity kitchens shut down",
+      "source": "Sudan Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CR3ctUjBHWVgxMjBJSVAxVkw0eDVwakxnRUxYV0ZQNnJQOEdYR21xX3JodHcxdkZiWUFOeldJVjFGTHVodzFkRkhQeEtpZGZf?oc=5",
+      "publishedAt": "2026-11-22T03:31:51+08:00"
+    },
+    {
+      "title": "Sudan’s Burhan reassures Ed Damazin residents as paramilitary RSF closes in",
+      "source": "Sudan Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tRVJHWDhYZlpkVzk5QlFibjdNWWhNSVBLblR1OVpHRTNCb0Zwb2V6aWdwcGJOQTgxQXR6dUc1OXNxWjNQNkxRN0JFZUNFdUI1?oc=5",
+      "publishedAt": "2026-11-22T02:33:56+08:00"
+    },
+    {
+      "title": "Egypt, Sudan, Eritrea call for Red Sea security, freedom of navigation",
+      "source": "الهيئة العامة للاستعلامات",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeGE3Q21Ycmk5MUxkRnRxQWxteUl2T2NUM3czZFp5Z3FqZmxucFM5blFvWU9SWjJoOUN0dXFSUXN1aWRaVEtPcy1RVldnZW81YXZZaEtDMjJTLTBHMW02SnpyY2xHd0Z0Z2VhaDhOTTBOXzF6M1ZjVlg1c1BzcXVvSm9fSTRJZ2NlcXhUS1BKWjlvSE5TZ1NKRFNfU1VLdk5OX0hEY0RrSGs0SzFy?oc=5",
+      "publishedAt": "2026-11-22T02:05:44+08:00"
+    },
+    {
+      "title": "NJ Ayuk Calls for Bold Energy Investments Ahead of South Sudan Oil & Power 2026",
+      "source": "pan african visions",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTDBPT0s5YkdGaFZxSjRsdFkzUVhtaUlvNFNzcHJNekNndl9YeXJsZlhrek1HMDNuc1gzRHlFNXVNVjAzM00tR0g1VFVEZTVPXzMwZjVIZmhCMktGN1AxTnFIOHctSVl3T2NIWEZJOXIyYmtsXzV2RDhLX3ZDWmplUFpxa3dHNXpOLWtvemo3VExCUVJjdkZoTzdQVkJRTERuNzh5clhobm1fVERSU0RGNTVBMmoxS1k?oc=5",
+      "publishedAt": "2026-11-22T01:56:09+08:00"
+    },
+    {
+      "title": "UAE, US discuss regional developments and Sudan",
+      "source": "ARN News Centre",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMkliNXRlNmxOUmRoMUpMamRSTHRqUFFvcGtSUnQxQmZnamlEcHh0V0luazNZRFB4d1g0Um45MWhjakV6Q1VScGh1Nl92dXZXdkZ6S3d0TjNWMmt3ZXIyOWxJcnBQcUdWSjk2STQ1SV8xcEhxLXpnMWt2T3Vybl9KdDljSEcyVEN5ajlFcmVQYWhBZw?oc=5",
+      "publishedAt": "2026-11-21T23:20:49+08:00"
+    },
+    {
       "title": "Egypt, Sudan, Eritrea reaffirm commitment to regional stability",
       "source": "Egyptian Gazette",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTl96WkwwQURyX3dEdHl4ejVBMVRoMG9QWTRwNHc4dk1pQ05jYUNzd1ZabE9ZdThjNkhNaFAtOFhwNEQzUnFlYS1mdERCbExHZ3lfdGpBOXZwdkpvTlVKdUNYbTZ6NzIyVFA1b3MwZ1RsenFVajRjTjZ5ZDVaM0ZZNmx0dzg4TTdoMWxqcWpOU3g4bThhd3YyZEY4X01PUQ?oc=5",
       "publishedAt": "2026-11-21T22:34:51+08:00"
     },
     {
-      "title": "Sudan Reopens Jabra Emergency and Trauma Hospital",
-      "source": "Oz Arab Media",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNeW5mMHpYMzRPWjRXRzhJem81ZUZGbER3b1JBZklEMTQ0d1RZbUFJZ1RSLUp6YWxNR1p0bmFucFMyUGZoZXhrbzlCYk53RjRqNlgtay1KaUMyQUtNb2k2MHd6a0hKUUZGSDZXSUlBV0o2Y1phNHZtYVkxYlhuejRLNjBKQmhzTV9RZVB1dXVXRThPMVNmb2pvbUVmNWlQcjJtZDFXVGtJNmRNbXdsM2t3U2RhRUxEOFBRUkFuaEhfQ0dUbGE0UmtpeE42UzhzVXpRYmYyRDNPODZWVzY3V2ZQWTE5NVYzOGJXeF9VdkdxVHIxQ0Z4eVFz?oc=5",
-      "publishedAt": "2026-11-21T22:30:29+08:00"
-    },
-    {
       "title": "Sudanese relief group accuses RSF of killing civilians, including 3 children, in West Kordofan",
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0NkUmotbVk4ZkVZYnFGWTVDV3NiVVNDa3JoLXRrdDhYdUJDeXZvRlktV0tGbHRXWTNiaEtkSEtralNvbHh1UW5CTVRCQWZ3M256MG5NNXFvblY4aXRzaVpDaXdMRk1jM3QxNlFaTEJWdDMxcVMwTW5IZDhaMkt1YUxrZjRzWkg0cG91U3hqam9TRWJ1aUhselVuaEJiMGNlelRhd3hULXgySXV0bmpSZm1HeG9NQnRSamNEVjVBcU1CZGc4Vzdj?oc=5",
       "publishedAt": "2026-11-21T22:27:12+08:00"
-    },
-    {
-      "title": "Sudanese Practitioners Maintain Remote Mental Health Care Amid Infrastructure Collapse and War",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU0phdEpZNEJmVjdkaVk5V09qRlVvWFo4aG9XdGR6RkIwNlg2OTR2R3piQ2FYelRUM3RxVkw3UUR6d0dNT2VaYUdjcjFrdE9UYXFJRXRmaFdkcWtWM2lRbzR2UVpBd2RLR3VjU3BEUl9PV2hZZDdXc1Zkc0VQcVRYRnhLLTVFNEVhcjhFODhPYk5TUF9kUEZKWUFJS290LUJvLU9YSTM3SmIwUzRTcnl0ZWNZQ24tS3QzQmNr?oc=5",
-      "publishedAt": "2026-11-21T22:12:40+08:00"
-    },
-    {
-      "title": "Islamic Extremists Are Prolonging the Conflict in Yemen and Sudan",
-      "source": "Fair Observer",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbFRCQkw0WkptZEdXX3lwdHNZcnlSUmZ5Y3VnVndkN3ZZcFZkOFd6VWxxTFRoSWxXQUFza0VqS3VjLXlCTmp4cTVOUmVhNUhFd0JyTlp4MnZvZ1R5VWZfWXdMRU1TUDBoU2hOVTZSaU9sS1FYWUJnRDc2WU9yNEtnanBhUjZibkxKeWUxdnNySUF5OHZhWFI2UUxIdjd5QUx1Z0dheFFlcjJqa3RIZmFXOHd5UVVLWU9pZndEdUNZaHdUbkVSRWc?oc=5",
-      "publishedAt": "2026-11-21T21:35:44+08:00"
-    },
-    {
-      "title": "Sudan Conflict Strains Pharmacy Care for Acute Diarrhea and Antibiotic Stewardship",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORDlCdDhFYlpyQlQwRDhDOXFCQ2JxMFJNR09CWjZTbEJYa21xUkNxdTNWZGlWRUdKbExwYk8tdS1kd0tvZG5DcHlnM01QVVR1QlJPZ3RtWmE0ZzQzaWdBUm9jbEprVmg3WHY5M2djUUFrYWlKYXpiZ2lxbTExNkxtSEhoLS1pcDE2ci15ZTJpWGhQVXFkTzkwV0JncEdmQ0Rjc29YejU0MjhRbFk?oc=5",
-      "publishedAt": "2026-11-21T21:22:33+08:00"
-    },
-    {
-      "title": "Sudan's Tasis Alliance Seizes Blue Nile’s Strategic Bau District",
-      "source": "ASHARQ AL-AWSAT English",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMDRETF8yX0IzT1E0cjUwU1I2ME9NUDBnQ3NzSmxuT3BQdFNaemswcEtJMWdQZGNPdDFxWVdzVG03Ty03SGUzUkxFTW9ONFotTFJSSUlsUEQ4V1hFZUM2eDdTQzRuSXZkMDFETW5BSi03WEJwRkFFc1I1M1dJcXp1SUF0aDBfa3gzWk16YUx1bmNmZk53RkJxS0p3cVlUSklVYkljVnAxRl90ZWdhc1JmSmdKUWowS050?oc=5",
-      "publishedAt": "2026-11-21T20:45:00+08:00"
-    },
-    {
-      "title": "Egypt, Sudan Sign Training and Capacity-Building Deal",
-      "source": "DNE Africa",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMWtSNU9iZ1NWQXFjOFc3QVQyYmYzVklZems0djhyWmhKNVZMZDhsaXdIRUhNN3lRMHJjcnd4NEdVaDB1RWdYV2Y0M1hfS0FaRkR1SlpSaTRJT0I4WWJLSmVtM1NqTmJRVkZJQmY1SjBRNGpGd09fWHYwMmYtV0JVbzBKanBHdDRWQTdObURfTXo?oc=5",
-      "publishedAt": "2026-11-21T20:39:40+08:00"
     }
   ]
 }

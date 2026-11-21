@@ -1,15 +1,11 @@
 {
   "iso2": "HU",
   "name": "Hungary",
-  "updatedAt": "2026-11-21T23:06:37+08:00",
+  "updatedAt": "2026-11-22T05:06:05+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Budapest"
-    },
-    {
-      "label": "Population",
-      "value": "9,514,251 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -29,6 +25,24 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Picking up the Pieces: Searching for a New Order on Hungary’s Right",
+      "source": "Hungarian Conservative",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmQyTkk5Q0NnMzd3bVJiZDB1TVV0aHhCYlFsVlBMdk9XWXI1RFdNbWF6SjRvbnZwMWxaVy11aXhXUEtNd3pCR0xFVUVGTW12UHFLNzY4SDZMbDBzSHd4dlAtakhUcWoxeFAwTDVEU2FlSUh5TkFLclRzSWNKRWx6QUE2NUpfdmtCVXBsYURpc28yQ0lYbTNnRWlCYUF1VHRlVkVaYzFrYmoxZGFTTDVGaQ?oc=5",
+      "publishedAt": "2026-11-22T02:45:00+08:00"
+    },
+    {
+      "title": "Hungary jails 10 migrants for up to 3 years for border crossing",
+      "source": "Yeni Safak English",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWl9mMDNTMVlGaTl3NkY3NFJYM3BfRmVnZ1hvZnQ3MnBzX3c1VkFwbTM1TjRWMmJNa2lXbzg4bTd2UEczSVNYN2lmWElBOUFYcjJBdWpkU3JWRE9UQmpnSXYwNWtXNVY5cllFczhSeVpIRko2cWNTblFKcHlaY19jTmRTYVZDaU5HTzNpTGFEOHZsVU02OXRVR0ZadnRIdDVJR3RnWA?oc=5",
+      "publishedAt": "2026-11-22T01:17:49+08:00"
+    },
+    {
+      "title": "Hungarian Survey Identifies Distinct Consumer Motivations For Freshwater Aquaculture Market Planning",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOel9zMDFaa0VIR1JVeUdyMHpOelk4U0lMOW12OVM3UXBMUEpxWU1qcnZfOU5McWl6Rzh3cW5kMVdScW1kc2JGeU5DSHVLWTNJSTQxdlREMU1aMW8zcVo3VlZjZWdJUEEyS2J0Z09OMEh2N2xyVTEyTnU2cl9mN3BsSVZWdEpWMGNfX3ExeDlNMjNQZ1ByRFJqN21MaFNDTklMTkc1U1czYmhwMzhia2ItUlJpOXpETzgtMmRGTXhqVEJnbFU?oc=5",
+      "publishedAt": "2026-11-22T00:47:55+08:00"
+    },
     {
       "title": "Moody’s Revises Hungary’s Rating Outlook to Stable, Affirms Baa2",
       "source": "BBJ - Budapest Business Journal",
@@ -50,7 +64,7 @@
     {
       "title": "Hungary’s first and final €10bn RRF claim gets partial EU Commission clearance",
       "source": "INSIGHT EU MONITORING",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYjFKbk94N1dNb3Y3SFIyQXNrcEZmY1p3X1VlWVNHc1pjTW5raVJ2TVNmamdsY1o2X3llNE5zNUJmQnlNNFFPM093aEdfb0c1amx5Y044YzNoS0xXTWU0bzhjeXdLdjZmaHNMa2JCaEx6NjZmNHZVV3dWVnJvUkdpRUtjMDFuX0Q3M0JKd2E0YWMwNVlRZklEbFRULWFfeGkzVWNlLVBmckpLT3JWOXR0akY2bG54OTZlQ21hMGJJSzdqZnlnZ1NPUG82YUdlU09NaTR3ZzFjbi02RFlqTkE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdzhNbHlBVmQ0bDRMcjVHQ09mVGhNd2p6MHN2X0ZyWWE1bFROMVBfMzJ1TjFlT3BCWEEySFNXWjAxNk95N2dTdG9HYjJyLUExejNRMkh4aFdueTBpU09kYm4tUzNaYVZzWExRbWJ0MUl2aXhQcmV2b2Z6VDNrbWNNQUsxVkZ2TzlDR242VVVJOW1FZVhRbHhQazVyVTIxTFdQdWxfQlJ6aVFnWUxvUTVFMVdydkd1eUJYT3A5aXAxb256QTFoQ2pVRGFmcDI4Y1ZiMEtEdzVheXJqdTB2?oc=5",
       "publishedAt": "2026-11-21T08:15:16+08:00"
     },
     {
@@ -58,24 +72,6 @@
       "source": "Investing.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ25wZmpPdzhtaERpOFZGWGplQllHNGkzZ2ZNMEVMOUZraTNTaXdraWhNZU5IS2lBMjJjU1BmQXBsblU3dzhYaHdMVHRkdi1mRE9SSXM3cEtybnE0UnVRTHN0Q2NWNFc1czRoeE9uWS1vTnhxX2VPU1ZPdWhsbTA0b2t0M3I3LUMwSURSekxFczJiaENRQUljWi1DZjZ5WHN5dTRLMmNidE5Md1pFMXIteW9aSGVNZkZ5MTlfSg?oc=5",
       "publishedAt": "2026-11-21T06:43:50+08:00"
-    },
-    {
-      "title": "Coco Gauff, Ann Li to Launch USA v. Hungary BJK Cup Playoff",
-      "source": "Tennis Now",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVE9YcXI1YTBqNTFmZnZsYnlUYVd4R1VfNlFvUmNZS2R1OWlJRmd3V3F4SGdKWEZVaURidzlRUV9XN1VEbEVvVVJfVjl1RzJSSkJjYkhhWTBXZEdQLWZRWnUtemZhYUtWb3Z4MFNMWDVDUVlUSFdldFo3SHhlRFowME85MnVZc0k?oc=5",
-      "publishedAt": "2026-11-21T05:55:41+08:00"
-    },
-    {
-      "title": "Moody's lifts Hungary outlook to stable on reforms, EU ties",
-      "source": "marketscreener.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRGF5TXQzRGhxaDl1TFNLYlBldE5vX1lDN0dUQUxuZ0VYYUJfc2VnMGhVZ3hoSDBZMmxNTHp0Mk85ZE5RVzdxVkkwZXRabGhHVUxhWkRlR0JYWFhSUkRhZWlLMkxYenRObEhhV3ZOSjJZUjFDNnRyQVVBZDZWd3Y3ZjFES2hqQlJ5UzVhcUpUdXBIeTlKUnVGV3phTW9KVkNpZFY2a3dfUVZick91eEtGUQ?oc=5",
-      "publishedAt": "2026-11-21T05:54:27+08:00"
-    },
-    {
-      "title": "BMW iX4 production kicks off in Hungary - ArenaEV",
-      "source": "ArenaEV",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTTViVy12enhtYlgyZnB6Y0VSN1RLVGxaUkh2bE82clAzakw3S2ZWYXNxekRzN21yLURNWEVZaVdKY2htRW8wQ05BbUdrZzZFMlBUQURVcTkzUDFsc3I1N3FaV1lWU2hydU81NllKRHdFNVFzWGxTUDBpck9zaHdrZmw1c9IBf0FVX3lxTE1EbmNlcXViZElVUjhvdjRSakllVHdfRHFFSFV5T0JxTWQ0U1RFZ0hFdVZWbUNtZkFFUFlqOTcwRm5XV0xrYm1KVlMzbS1ubW1xSms1cEFlV2hDUkpvRzIwb3cyNkM0dU1HUWZ0RUNjTFF1N0p3MUlfeExVdGVQM0E?oc=5",
-      "publishedAt": "2026-11-21T04:14:01+08:00"
     }
   ]
 }
