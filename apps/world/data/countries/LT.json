@@ -1,7 +1,7 @@
 {
   "iso2": "LT",
   "name": "Lithuania",
-  "updatedAt": "2026-11-21T11:05:35+08:00",
+  "updatedAt": "2026-11-21T17:02:52+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "EU iGaming weekly: Bill 55 stands, Lithuania plans 36% tax, Banijay widens guidance",
+      "source": "European Gaming",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUlNHUXVfQjk3V0Fpd1BuZnRpY2R5NG1neFhDVjl2MkJHZTkzLXJCU0VNbV9XTjg2WU1nbUxlajh6dWFPS01PLW5KcGNZZ05DVVlvV0cwRms2MVNnZkVxYmhLQnQwVWprV21fSndQcjRVTU1YMDJzRE9EajhqNnBrUmpqNkhGMzRKS0NubzRDNzMzRWJLSlNoOFcxTnJieU1uczhVQWhPd0xyOE9YX0Y4OQ?oc=5",
+      "publishedAt": "2026-11-21T15:00:00+08:00"
+    },
+    {
+      "title": "Chasing storms and Baltic gold: Lithuanian retiree’s passion for amber fishing",
+      "source": "LRT",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdXdDOFV3MzNJU21vcUtnY1VUMTBlVG5FdUpFbFJQa0dKLVExR3N5elRWNF9wMy0xUlB3M1otZTZNVVlMNFFaS3o3VmMxTkVPeXhTdzNuV3lNOERpUUV1NGtZUUU3WjRCcmVLMmxKcWVSZnE5d1B0Q3hXcnQ2V0JsSTZtcGZnWVN5N2F4cWpNMlE2cllRMnVzaFQxNlE2V3JDNjg0YlEzcGRabDhSR3ZQZWs1VUxPYVBqcHRkb1RKMVFVMmk2?oc=5",
+      "publishedAt": "2026-11-21T14:00:00+08:00"
+    },
+    {
       "title": "In Lithuania, they opposed Europeans holding talks with putin in moscow and named the main condition for dialogue",
       "source": "Українські Національні Новини (УНН)",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNM0ZOcjMyalRqUWhtSGdlaHBpYW1URmlmLVY4WGx6MzViR09GZFBHQWxOVGtqYzVWQ0p2WUdydlVFcjZnYUhxSDV2VjF1MkdDSjUwZllmckgzMm92RWJKRExGbjM2VUc2dlVybmw2YzQxVTBKSk04UWRTUEZCVjFXVHhrbExBUXh2d0ROcm93RXJ3aFg0VUdiVkMtLW8zUUNLbGk0N3JMM3ZEel8xd19xaDhsaDZxaEdvSzFwYnhlZmZJbE5BU2FiWllDX3h5MTNs0gHPAUFVX3lxTFBaWlllRElFcEhSeXhDcjR6M3hYdFFtQ3dVblVtdkl0cm1HVXd2c1pLaWdEUm81UDNoNER0WU0zZmpER3VfQ0xWSkkyRHlnSkJmY3J6a3Jzc1J0VnNRbjZoeG00Q1N5MkFZU2dHSVNraXRVNVhfMjNLcXdhcXhsLUltdENhTXMySEd3ajJ5RUQzQ0tPcGlpRHpBb2xvbUZnWmY2XzFlSEF2MkpOYlgyZ3JkN0pDVkV2d1RwaVZUNloyZzk1aUpTdzZoX1lOZ2JDYw?oc=5",
@@ -54,28 +66,16 @@
       "publishedAt": "2026-11-21T01:44:00+08:00"
     },
     {
+      "title": "Lithuania: Biomapas acquires Pinnaxis and Alira Health's CMC business to expand technology and US presence",
+      "source": "Investors in Healthcare",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNjI0Zjg3Y0dKWUtMUlY5aGozaDJlZk9hYV81QkszMDREM054eXNrY21mUWFXNWVBbjdMd00xRk41VEhrMElmSTRxU1oxWENIT093NWMwRmZENnRRSVdLc3NaR0FORmwwbmp2M1lhM3RBSDR1bGhldDVyaFRmRUFlall0SWpBM3IxdUNoeEpRdF80bmdVLWRfY2tpb2JaQ3JEWUtnQVkxS0UzRWhZZkhDbk5LbmMwdHJLTG9IRkRIS1dTaTlLajNJa1hkN0tLZWp6V1pWR2licXZZckczYW5Nc25LWDZ2cnR5TkctOHBUanpVWGxHa0VnSXpR?oc=5",
+      "publishedAt": "2026-11-21T00:31:31+08:00"
+    },
+    {
       "title": "MP Vėgėlė’s party Citizens’ Lithuania to hold founding congress in January",
       "source": "Delfi",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMDkzQ3BJTW5RZXAwdDVvb2M0ZVZFb0pvWWhXcXZwQXZxdlgtRkstN1dwNGl6V094eXozLUpEMVJQN0lGczVBSUdDa0RwNmc2LTdRLTBrWU5BUTljZ3Z0N3pHNjlJYXJkcFNaYWFPUDVxTHpGSVFZQU5UVjl1QlNxaWFvS0xpcUFzU0VURzI5TVNFWUwxb2w0NTM1aE16eFFKaU1XYjBNWmpOUkhuMXgydWhSMWI1eE0?oc=5",
       "publishedAt": "2026-11-21T00:19:56+08:00"
-    },
-    {
-      "title": "Lithuania designates CO₂ terminals as national energy infrastructure",
-      "source": "CEEnergynews",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTU0wWXFZN2pjLVVNUmxOT2ctWDRzY3lTMGNSeGhDMVcwREx1M0pRTUJ5dGpYUGNkR3M2SGNjSmJEWWV3RS1qWXNmVzI5T3RRMEwtVEhtWG4xNFRlQlA5QmdsSUNSbUtpTUpEclVqSjI0NTJQQllRLVc5WnA2Zy04MEdkYVRrbG1DRWZQOVpuZG5ET0xnTk1pNXZnMkJiSDRQYzdtc2U1UjhVWFNJUEZJ?oc=5",
-      "publishedAt": "2026-11-20T23:56:16+08:00"
-    },
-    {
-      "title": "Lithuanian troops join European drills for possible postwar mission in Ukraine",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVXpldHR6eUJrME9pNXNkUVptZF80RlB4WU5rVFBDVVlOWlZZbUI0VHdRbmx4OEJYaFl6RFB2M244d2lXQUR0MkdwRHNMOHJIMUlvX3BieHlZWW9sQURNQzVFdzBKb2VVeVVYTFYwUTkwbVN2YVB4dHA0Tld0Vjh5bm9tLVZhNHQ0cmF6bnBtb1RuZVA4NzN1bTFHcEkya2Y0NzFuYURGb3VVOEhCTkdOZWxPTlZWUVFxVjRmWXBKYVRNbmNR?oc=5",
-      "publishedAt": "2026-11-20T23:52:11+08:00"
-    },
-    {
-      "title": "The Bank of Lithuania has approved the base prospectus of the Tier 2 subordinated bond programme of Urbo bankas, UAB with a nominal value of up to EUR 15,000,000",
-      "source": "GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOUXBlS2VmaUdLRW9pQjZISG1wVl9wbHI1UTA5aU9say1DelRBOUE2S1VnYnUxUU1XUDg2NFRCajFIS1lpTkFLUXBneGc5WTBJVlNuRXp2REtGSHRpV0doTm9lSndiUkZncXVkNURJX25MbjdjTkJiaUszZmlWMTE3SEoyYUIydENydXdwNEdhWElSRjZ2VG5keHEtT2VVRDRCTlhyejNPTjE4VWQyNFBPRE9PR0U3VVdBOGF6TXQtOHZGemFpTEJ5MUVBdkY0MVg3S1lEaVpkNzQzYThHdFFVV1ZiUU5DMC0wUlBubzBNYlctS3NOWkpfc1VGc05Mb1Q5NXpaekdTblRhc05yYW1UYjJ0cFpqUWUzVUVEaXl4RlJBLTIxUld1R2luVkRQTmxKUmlhcGJwVHJOYVBpSXFkMnlQeDJnbW41TmdRMnZBeUhFdw?oc=5",
-      "publishedAt": "2026-11-20T22:00:00+08:00"
     }
   ]
 }

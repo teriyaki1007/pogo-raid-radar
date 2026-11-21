@@ -1,7 +1,7 @@
 {
   "iso2": "CL",
   "name": "Chile",
-  "updatedAt": "2026-11-21T11:05:35+08:00",
+  "updatedAt": "2026-11-21T17:02:52+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Philippines, Chile Ink First Latin America FTA, Unlocking Duty-Free Access for Manila's Exports",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CM1lCN3hFbkhEMExGTjhNd1FHVDZucDlSdzlScnctZmF0a1ZvMWUzbjJaZ2tScWl6WVJISlJ3OEdtamxrZk5sc1hDeXBjWDdpUjBMSnkzQUI0ZHJVT3RUYWxwdE1XaXlaUzA2clpSNFBKRnoydkE?oc=5",
+      "publishedAt": "2026-11-21T15:55:00+08:00"
+    },
+    {
+      "title": "Chilean peso suffers one of its steepest weekly declines of 2026 as copper drops below $6 and the dollar surges",
+      "source": "Latin Times",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOME9aUW5vTi1KOFA5NlRhZ2VLUC1pY2hNYkRZdTQwYThNRzRaVjNDMUhyT2w2cnB1VzJ2RTVBUmM2b0pvUkdYaXg0T0JIZ3A0dHFYOFNTR0xCQVJncDFacTJNeHZOTld1X2t4akNZVlVKWW5kYmEtVTVuaDdKUVF6Xw?oc=5",
+      "publishedAt": "2026-11-21T14:28:39+08:00"
+    },
+    {
+      "title": "Satellite Laser Ground Stations: NTT Signs SSC Space and Safran DS, Maker of SSC's Chile Station",
+      "source": "Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONkttdHZsWmlGdTItSmFQaTBuM0xBQWhXYVU4N0RvNkwzSUNfaXp6MWMzekplNDNHdEE5eU5WUFU3OW0zeVhGY3hWY1R0YkpBNVdQbzVWMmZkZEo2T3hxbTRmRDJkRmFJYWQySDJ2YWRHOGhhZ0loWVJnOGp6SXcxS2UzSERWSmRzbHlIWEppZ1lDZk1kYVFYa2E0TWU2QTBRdlRNRDBla0VlTHFqd3lMcHlRLUZqdlp2dU9hQUdHZ1F5TWc1dC00M1U0UnpFYllZc0JiTFpjVWw?oc=5",
+      "publishedAt": "2026-11-21T12:01:19+08:00"
+    },
+    {
+      "title": "Japan, Chile agree to deepen cooperation on critical minerals, defense",
+      "source": "毎日新聞",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZT3cwRGZrNlAwcFVBTHhOY3hFUnl2b2xOb0FSQjJwMFlBcEY0NFBLOHpkQmxWLTVfVWtYYmFjZGV2Tm9zU1paRVNuc1lLLU80bDJmVmV0eDdRN1ZXdkwtc2tpTlZLclJWUnpmSUdTb3dfdTg?oc=5",
+      "publishedAt": "2026-11-21T11:24:41+08:00"
+    },
+    {
       "title": "Ultrasound Model Predicts Preterm Birth in Retrospective Chilean Hospital Study",
       "source": "Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3lveGFjal9fdmRxNkYxQWFOZEN6Y3N1cFUwZ3M3al9XRXhoNmx4bDU0RVZyWWJVY2thY2FwN29CNmo0Y0xtaE1GM3RPRmdLN0hpZ1kzd0lpZndTN1pLOTdkVlVocDJ3b0w2RjdRQV9KdjBCZEgybi1LMno3R2lCZ0dsTmxGb1NrVmhPVVZxYTMxZjZEVEFvcm45ZkZRa2RXTG9XRExjUQ?oc=5",
-      "publishedAt": "2026-11-21T10:10:50+08:00"
+      "publishedAt": "2026-11-21T10:21:08+08:00"
+    },
+    {
+      "title": "India, Chile Push To Seal Trade Pact",
+      "source": "StratNews Global",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTkpCb2hhb3Z1WWdfMFVmSWc0UzNnbW1FbjUzSmpFNGNRaUdwLXVBb1VISkpjX1hCT0F5aFNaYmVycXJmMTM1UFJCcEZ1S1ZnX29EX3ZDejZxZ3lEWEpXMHlIRzdXYkhTS290b183MjBnV1RnT0gyVkJhbS1JdUU2YTNZNmlJRzgwMFRUWQ?oc=5",
+      "publishedAt": "2026-11-21T10:00:26+08:00"
     },
     {
       "title": "Chile’s $111bn mining boom: lithium approvals and copper pipeline for project teams",
@@ -46,36 +76,6 @@
       "source": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMnd0Sl9JaVgxbGw0ZDZyQmhVU3E5RU9uc2ZycjB3U0tQR055ZWVyd3dObVZObWJVcnl5Yng0bkxDdTNhNXlpMFFYeWo0R003OVMtbGJNMGFuQlpFcUtkS1gtMjYyRHZXSW12YUtEelhUeGk2aTlYWWozZVV6aWExdHZhZjBEOVpEY2xGWDlNYlVWSTJBR1R3YmRwbllSYkItWmc2VG16RTlRTUZvWjRleF94V0owblgwcmdla01kd3IwcWRCa0xHRm9lREpJVlVzbVpPNmpHbmdNYjRIT1h0cFdzSnlFd3BnX0pLTTlMYjhFc1lFYlgxX1U4WW8xMk1OYjFMbmw3MThidw?oc=5",
       "publishedAt": "2026-11-21T07:43:10+08:00"
-    },
-    {
-      "title": "11th chile week kicks off in china",
-      "source": "Modern Ghana",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1JbFlWSmQ5blEyOHU1ZHotNkk2bUxfdFg4d3VyZVBaRE5ORlBoLVQyZ0Z2R2MzaGhWaEZBUVE0MlIxM1lDTzhhUktheGx4WnI2X2N5d2dTQXN6bmF6REV4d9IBXEFVX3lxTE81ODVRMzg1X0ktdHlRMjAzYllVcHd5T3RjZlA4czNKU0tNVE5pWUVmd2ZBa19SSEtBTVFQQUtId2NLeUhyUW5BVS05V1JNTTNjMHYwdXBPTkdLTFM0?oc=5",
-      "publishedAt": "2026-11-21T07:30:00+08:00"
-    },
-    {
-      "title": "Chile: Supreme Court questions bill to strengthen blocking of betting platforms",
-      "source": "Yogonet",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNaTluRFRtUFhaa0YydkNuQjNuYTJFeVl4NXZ2SzdmMzVRZ2NrSkpFcTJRWmRBeXp1eU16cm5iMWxWaXFRU2wtRnRBMU9LZ3VFNmRqUzZrMFo3amJWZ2pYc3RNc0pRLUhsdm1YOFJQZ294NHNOWkhaMVNRR3V3aTFqMTFYYjcyQmFhbkFtdzUyUUpMMDQ3dmpFWGNZWlBRRWRVRnlXUFdBM0lXcUxkbFJybTkwa1d6TVlkOU1lbXBRVHBERklYdjlibzNsWlp2Rm9ocDF5Q0Nn?oc=5",
-      "publishedAt": "2026-11-21T06:47:22+08:00"
-    },
-    {
-      "title": "Musk's SpaceXAI Held Nine Lobbying Meetings With Chilean Government Officials",
-      "source": "Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORFBYR2ZFb09NcFN2bWdEajA3WTFaZDhSdkVRWm02YVY2UEgtQXljb0xMcENJWnZrXzFwQ2UzRkNwaXE2Nl9BRFI0TkdrbmZxa3ZBY0tFTWJ2ZzJRUEVXWWdhVEx0SVh3SzZxbjhzbjB3ZU81LVA0czVJR0NMQkQ3Rk1pOFh0cFlnLVE?oc=5",
-      "publishedAt": "2026-11-21T06:12:47+08:00"
-    },
-    {
-      "title": "Chile and Japan deepen critical minerals ties as Tokyo turns to Peru too",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdFBwdXQyemZBQkZJX1lwRkNRakxEU09sMjdlemxtYmF5VndOX3Q4aWdPbVZlczRwLTZIa0RTdkJKd0RaQXVvTllVV2RQaEs4Mkh6RGZpQkdwRWdHa1c0SUFhd25IRkFvUUpQUWFmdW14WGxzdmFZbGliSXZFTHVGZVl6TVMxRUVnX2VRUGI1R1ctUnBMR1MtX1MxLXpheEVfX0E1QUFyM1R0bzA?oc=5",
-      "publishedAt": "2026-11-21T05:45:00+08:00"
-    },
-    {
-      "title": "Bill Gates’ mine visit fuels Chile copper privatisation debate",
-      "source": "Mining.com.au",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vWEExenJaZkdDS1hlbU1LbnRLdDJHM3RsWmllX2hrNjBQQXY5bW9uZU1ZQXlPWHZaZGMteXRuVTRfZ2k1UlM0cUZLQ3AyUXp4SHJqRnNPejlYM29BeE83TzNncW9SNGc?oc=5",
-      "publishedAt": "2026-11-21T05:32:21+08:00"
     }
   ]
 }
