@@ -1,7 +1,7 @@
 {
   "iso2": "IM",
   "name": "Isle of Man",
-  "updatedAt": "2026-11-21T05:03:26+08:00",
+  "updatedAt": "2026-11-21T11:05:35+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "FC Isle of Man wary of Barnton threat this weekend",
+      "source": "Manx Radio",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeEgwTGgzb3VOaWVUMU5nNHFJUzlKcFhyQ3VwSGE5YjNURGZ3ejAwMEF6MFd1dXg4d1hVVXl4ZlVzaDR6SW15T3BVRWtyMG9xaDZ6VFpZUHpGWHdWZEI5SEVleU9OQzY5S19FMjJGTUt1NWQ0M3hvYXlPdzBmRkVzZTFmeW5WRklFSl96YlkyS0R1a0pwQVE0S0xSZ09TMGozMHc?oc=5",
+      "publishedAt": "2026-11-21T05:34:53+08:00"
+    },
+    {
+      "title": "Déjà vu for Celts and Nomads in Manx Shield",
+      "source": "Isle of Man Today",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbkw1cElTVE95YV9pbWhJRzZONG16NnZWZ2h0ajlvMkQ1RHRCamRQbE1ReG8yLTdnVEl3TG9oSGwtc2lIVkVhd0FuVEt5a3JGb3pHNTN5Tlgycy11LUxmT0NsOHBtekZaNTNtRmp6cXFFLVNzRjJsVnBTdjR5N0NmNnR0ckMxVjlTa20yNjhIamJ6T2s?oc=5",
+      "publishedAt": "2026-11-21T03:02:57+08:00"
+    },
+    {
       "title": "Big Manx Feast made loss of more than £85k",
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EbUJBajljQ2ZKU3dmUzZWSHBmVkVVN2JLdzZuT0dHeTFxTTNTWFNWbHI2bjY2UUZpcEQ1QV91aDdGV3I1Y19GN0JBVl9SQnZNam1UVDB6RGtvbldmR1E?oc=5",
       "publishedAt": "2026-11-21T02:09:34+08:00"
     },
     {
-      "title": "FC Isle of Man wary of Barnton threat this weekend",
+      "title": "Isle of Man Met Office issues new 17-hour weather warning for ice",
+      "source": "Isle of Man Today",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHB0VFRHN3FQVjJTelZFYTdRTURkd19LbGlTYmhfVkNsdXZCNE9mMWV3MVNSaFNzMVNfR0xXbVNfbE9IelI1ZWNNN2hpUERRRTdRN2pYMHZpU2hnUzBFWF9DNWZZOGRxcnZ0TTdGOTJ1ZFJDTUtONm9pVUluaG5ldjhzM2p2SlhTc0FlQkoteFd3WVhZbFMxUU9LRGt1ZXpEUDRwU1l0UQ?oc=5",
+      "publishedAt": "2026-11-20T23:54:33+08:00"
+    },
+    {
+      "title": "Doctors say assessment of Manx Care exposes \"severe systemic, operational, and governance failures\"",
       "source": "Manx Radio",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeEgwTGgzb3VOaWVUMU5nNHFJUzlKcFhyQ3VwSGE5YjNURGZ3ejAwMEF6MFd1dXg4d1hVVXl4ZlVzaDR6SW15T3BVRWtyMG9xaDZ6VFpZUHpGWHdWZEI5SEVleU9OQzY5S19FMjJGTUt1NWQ0M3hvYXlPdzBmRkVzZTFmeW5WRklFSl96YlkyS0R1a0pwQVE0S0xSZ09TMGozMHc?oc=5",
-      "publishedAt": "2026-11-21T00:00:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdk1WNnFfcHZkNHFGbWVzQTY0TENVLXpQT1RPbEpXd0RreWVzRnlOMjdickd6NGs3VEtOYjNMSFpWX2ZHTWRYdkVRQkk5aG5JVldKUllESHFOMjJ4aXRObFM1VGdYTl9vNlp4VXlvNWwxeXA1NzhCXzR4Z3NFYVBjRWEtTDFaRkg5MUx5RnZhWnNsQ2pWR2NMcEEta2x1TmFYOVZZSmRQVlZHUHdmazhHYUZvc09fdWFqVVVMZGF3XzZZWGp3NUhPQVUxWUtRODFEb3pDeG9IQ1JnUlhh?oc=5",
+      "publishedAt": "2026-11-20T19:38:00+08:00"
     },
     {
       "title": "Mystery hidden figure in Manx martyr Illaim Dhone's portrait",
@@ -58,24 +76,6 @@
       "source": "3FM Isle of Man",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcnhJQ2dNNTJWc0d3bV8zSGFCSUdVeHJFcjlobWJDY3h0T1E0LW9namRleHBTdnRzTktTX3g5Z1RXRXk1UmdQYXJYTWFsX0pUMmdkSmxlbDJPaFFSeGZ3Njh6Xy1jNUpaNHVhTkJUZ2pTdC1TQVRqaFFQX1ZuMjZIVGNEUHAycG9YcjJ0Nm5XSmRvWFRLUTRtbGJlZTFEWmw1NDBKS1ljVQ?oc=5",
       "publishedAt": "2026-11-20T15:13:00+08:00"
-    },
-    {
-      "title": "'Buy it now' price revealed for one of Northern Ireland motorcycling legend Joey Dunlop's most iconic Isle of Man TT machines after six-figure auction estimate",
-      "source": "Belfast News Letter",
-      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOdmJXbGNfU0NMYzFJaXBDdi0tZnNJSVZoWE1vN0s4eERfUUFMeS1wYlV0aHhpVVlYR19HMFJTM3FXTEV2N0txVjN4c2FUWnBEenE2ZmxCUGozcmdEemJlQk4xZXRRdkJuODVqY3lXaDc1dmszdmZfUGkxaUJZaGZ4LVFHN2NwRXllRzMtbmZFSTlHTHk4OTRGUzhtV0d1dWo2SVUtQVF3YU9ybWNLNWdxdENtalF0eTllTDFoN1QybnM1VVRrOVR2WlFVdUJOcDc0T3RtaU9ybzRsWTUyZEYxUDhtRTVRdjF4Q0w5V1R4REd2azBpd3ZyTGsxdVBxWVdrOHlRMkRjdnZxYWxYaThvYkxZWVpxd0pXQXNNeWVOZ3Nwa29uS1hjU0VTSlNuOEIwdlBXOC1iRQ?oc=5",
-      "publishedAt": "2026-11-20T09:20:00+08:00"
-    },
-    {
-      "title": "Full list of winners at the Media Isle of Man Awards for Excellence",
-      "source": "Isle of Man Today",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcVFHMWYzcHYwQXRsRW9SNml5QWxxVFMwSTBfcnR0SW5GX3JEczlTVXVidUs0bTBQWmJOb1hqQzFKZ3J0R01nOVRyaVpXMTMxc25TVlg4ZFBmNTJRalZpZ0p3VEZzaWZReHJ5TWd5QnpoSm1zcjA5WEl0THlKbGQ5dzVpQUtCNEF2UnB0bFM3aFBBSlJfSGViQ25NbktxTUJOc1MzVU1VRXpqQQ?oc=5",
-      "publishedAt": "2026-11-20T07:27:09+08:00"
-    },
-    {
-      "title": "Isle Of Man TT Eases Sidecar Rule Changes For 2027",
-      "source": "Motorcycle.com",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdmctX3pUNFFsTkh3SHZMRGRfQ3dQd3p6MHg0SzJNZG9yY3JsQU1hOUE0WHNiXzJranc1eGxkd01zUFFrbWJMa3Bac0FLVFYyTmFSVzQ0VzZuUVJ3V1IxaGxIeko5cV93cnZWdE9hNUg0dFd1UjZsVTNwOTdWamJOV0I0bjBKdmlDZ0J6NEJ6NlFwc1pfOWcxX3pKUFI4dw?oc=5",
-      "publishedAt": "2026-11-20T06:48:01+08:00"
     }
   ]
 }

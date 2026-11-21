@@ -1,7 +1,7 @@
 {
   "iso2": "LY",
   "name": "Libya",
-  "updatedAt": "2026-11-21T05:03:26+08:00",
+  "updatedAt": "2026-11-21T11:05:35+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,28 @@
   ],
   "headlines": [
     {
-      "title": "Libya Medical Supply Organisation Announces January 2027 Conference",
+      "title": "US Seeks Stronger Regional Coordination on Libya, Sudan and Red Sea Security",
+      "source": "DNE Africa",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOUFaNnBuOTNHNHY2SXF0N2xyTm45bXlpbHg2bTVzTTdib0NjTTJacE03QlhXQm5JVGNFV1Q1Y04xT1FHVUJpek9lSVNvLWV6STFKMktjUmZkSTZqMlpOY05fTTE3VzJydWVmQ0l6VlBKYVg0clk3STJBNVJtOGszN1A5YzdkZTYxcnB3ekpaQ0pEbEJOU3ZYVHk2U195UTZPZlpCUlFpbTc0a2hJMUs0?oc=5",
+      "publishedAt": "2026-11-21T05:39:30+08:00"
+    },
+    {
+      "title": "Libyan and US Officials Discuss Trade and Investment Council Plans",
       "source": "Libya Herald",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVkdlMTRoXzRqU2QxVTdJbW84QW50dWE3Y19fRG1faXlXQUQyb2haaU11bEJfYkNtSGUySnhCemIyS0lzcXBqekVGajhhaE85enR1aE5zb3NCOHJZaTdyUFlMWFJ5WjM0UkVWRjFxNm9IMEw2MnNWREttTmNkZVJrc1dYbXdldGx0bWQzTUduNmd1MTEtVEFWS3A1bndRdjdHYWhxVHU4ajI3cnE3SC1yUmxUUjlfd2hIVjdRTWJmQ2pjbmM4UnlFNDEzdkVzTWkwbkJnVXZUOVV3QXJmaU1r?oc=5",
-      "publishedAt": "2026-11-21T04:40:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMUFOYkJRNE5MMjZELXRyc3hNNHV0NXJFcnlmbXlmOU9PdFFwN3JwTnF6aFA3WkhTRkNrUjB5NTdudDVZWllRN2dkRTJjLVZ1U1l0UlRnLTVrNENCaHlTazRkR2k1S3ptaFl6ZEdCQm5HVzZ6MENaY05NNkZjYTJBS2dua0t1V1ZfbkZWZWdkNjYyaFNEcnBCVzY0TElRQ0pLUEEtalR4S2N0em1mSTZDMlFBRGJidl91ci1SOHVqMlloZDRXZk1V?oc=5",
+      "publishedAt": "2026-11-21T05:27:00+08:00"
+    },
+    {
+      "title": "‘‘Executive Programme for a Strategic Partnership between Libya & the United States’’ launched in Washington, D.C.",
+      "source": "Libya Herald",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSWozTU5kLTQ0U1BjcFJQMkxlTkZoUzVOazJoUGJHU2p6R0prb2Q1Y3FNU0d4RGxqU0szem44RG83bzJoZVNocU9ZaENvaXhtcHcyQU5mN012UVkyNmdvb2RzbUhPNm5CVkVKWXVTbDM1dVh4QVYzbzdfcXh5RmVYX3BKeGc0VTc4ZWI4N0ZLeTdfZGJFbXNsRU9kTUw0YVVYTkw4dXBCMmtlN1MxRVI5Tm1CbmgyanhZVTZWVWZ4c0ZkS2d0Uk11Z2gtWndkUVZmTFpv?oc=5",
+      "publishedAt": "2026-11-21T05:17:00+08:00"
+    },
+    {
+      "title": "Is Egypt Rethinking its Strategy in Libya?",
+      "source": "ASHARQ AL-AWSAT English",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeV9jR3pDYTNxeWk0TWxjWElaSVpzSTdmWXFWQnozRVJCcV9DLUg2YXB6dUFRU2VibEN2cnB2YmxuSHM3d2pVNGR4NGVOdE1NSU1oMG4wVnowUk5vN1NYVnptd09OeHh2a0hDMlk5QzQtYTVTVVVJb25qZ2hWVGJZOFpLSkNzWk5n?oc=5",
+      "publishedAt": "2026-11-21T05:02:37+08:00"
     },
     {
       "title": "Libya, Malta prepare to hold joint naval exercise “Dolphin II”",
@@ -54,28 +72,10 @@
       "publishedAt": "2026-11-21T03:27:34+08:00"
     },
     {
-      "title": "Following business deals, China is returning to Libya with military forces as well",
-      "source": "Il Sole 24 ORE",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTV9QUExHNVRIdWFBRW5nd2I4TGRrODMyR2lCbmFld0tsb0UwUEt0SnhhUHZvUDJzZURJQ0NtUHh4S0doVkVCT195RElXcEdCcjg2RmQ1LTYwODY2OTJYY0tadXdKdzFKQWhUX213Yk9Iem9Xd0JSOV94elEwb0Y0RVliZFhnMTFYbnFjNXhpcGNPcnNEaGxuMDF3Y0JsU2RkS3FSbldlbnpzSTNNSjlMQUdaRFNYM1AtV20wQ09SU2R5MzFZ?oc=5",
-      "publishedAt": "2026-11-21T03:23:15+08:00"
-    },
-    {
       "title": "Antiretroviral Stock-Outs and Clinic Attrition Impact HIV Outcomes in Libya",
       "source": "Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV0F2X2xMVlJVRUswTGxJT2lJbXI5SXE2b0RkOVdPVkIxeTY2UExyN2k3MVMxRkhqaFo4cFFSS203VFZhVzMtdTM1SjB4VE9zd0lycm9FaXZtY2MtNUhHXzVrdnBYOFRnUzBPQTc0aXVIc05wWUFwSWc1dVpLeUYzbUF3MkNDSjFreWF6SFQ0WUltcFZYOW8zcTEyWnBpdldTc2c?oc=5",
       "publishedAt": "2026-11-21T02:19:29+08:00"
-    },
-    {
-      "title": "Will Saddam Haftar be Libya’s next president?",
-      "source": "Chatham House",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT0htekJfMHdHS2ItYmRCQXdBNmdjUG1ISUxoMkx6Ym9BTW5EaE84ckRrU1JXamlNSUJ5dVZXUEdjajNTQWdaRWJ2WlhRNUZPLVQ4emwxVGpnNkl2Mll4RURVeEsxQ3RyRkQ5cFBGTnU0Vnp0NWw1dGtmTERIQnA1WmNiandwbFU?oc=5",
-      "publishedAt": "2026-11-21T01:26:15+08:00"
-    },
-    {
-      "title": "Is Egypt Rethinking its Strategy in Libya?",
-      "source": "ASHARQ AL-AWSAT English",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeV9jR3pDYTNxeWk0TWxjWElaSVpzSTdmWXFWQnozRVJCcV9DLUg2YXB6dUFRU2VibEN2cnB2YmxuSHM3d2pVNGR4NGVOdE1NSU1oMG4wVnowUk5vN1NYVnptd09OeHh2a0hDMlk5QzQtYTVTVVVJb25qZ2hWVGJZOFpLSkNzWk5n?oc=5",
-      "publishedAt": "2026-11-20T23:30:09+08:00"
     }
   ]
 }

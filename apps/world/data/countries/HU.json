@@ -1,7 +1,7 @@
 {
   "iso2": "HU",
   "name": "Hungary",
-  "updatedAt": "2026-11-21T05:03:26+08:00",
+  "updatedAt": "2026-11-21T11:05:35+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "Hungary’s first and final €10bn RRF claim gets partial EU Commission clearance",
+      "source": "INSIGHT EU MONITORING",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOYjFKbk94N1dNb3Y3SFIyQXNrcEZmY1p3X1VlWVNHc1pjTW5raVJ2TVNmamdsY1o2X3llNE5zNUJmQnlNNFFPM093aEdfb0c1amx5Y044YzNoS0xXTWU0bzhjeXdLdjZmaHNMa2JCaEx6NjZmNHZVV3dWVnJvUkdpRUtjMDFuX0Q3M0JKd2E0YWMwNVlRZklEbFRULWFfeGkzVWNlLVBmckpLT3JWOXR0akY2bG54OTZlQ21hMGJJSzdqZnlnZ1NPUG82YUdlU09NaTR3ZzFjbi02RFlqTkE?oc=5",
+      "publishedAt": "2026-11-21T08:15:16+08:00"
+    },
+    {
+      "title": "Moody’s revises Hungary outlook to stable, affirms Baa2 sovereign rating",
+      "source": "Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ25wZmpPdzhtaERpOFZGWGplQllHNGkzZ2ZNMEVMOUZraTNTaXdraWhNZU5IS2lBMjJjU1BmQXBsblU3dzhYaHdMVHRkdi1mRE9SSXM3cEtybnE0UnVRTHN0Q2NWNFc1czRoeE9uWS1vTnhxX2VPU1ZPdWhsbTA0b2t0M3I3LUMwSURSekxFczJiaENRQUljWi1DZjZ5WHN5dTRLMmNidE5Md1pFMXIteW9aSGVNZkZ5MTlfSg?oc=5",
+      "publishedAt": "2026-11-21T06:43:50+08:00"
+    },
+    {
+      "title": "Moody's lifts Hungary outlook to stable on reforms, EU ties",
+      "source": "TradingView",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWXpKVXVLRG1iS3dQWXMyTTJlSHJYUXBoMDZ3QzVkaXN2Vk1icVJHRFRpeHk3R3IwclFSV2h3T01JWWt4dDc2NE1jVi0wZzd6YWEtYTNLVUVOcXNxSzRYRUowSnNMS21UY1lYUVpLVy1odDdxaWFURnZHZW5Xa1hHbXFIemplZkR4eU1WYUlhUEZlVE40b0laVnd5ZnNZalZmUUo0QjFzbFhlRDRuRmJmcUNnYVkwWFdQa2h1X1dYNTRrUk1RTl9V?oc=5",
+      "publishedAt": "2026-11-21T06:06:12+08:00"
+    },
+    {
+      "title": "Coco Gauff, Ann Li to Launch USA v. Hungary BJK Cup Playoff",
+      "source": "Tennis Now",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVE9YcXI1YTBqNTFmZnZsYnlUYVd4R1VfNlFvUmNZS2R1OWlJRmd3V3F4SGdKWEZVaURidzlRUV9XN1VEbEVvVVJfVjl1RzJSSkJjYkhhWTBXZEdQLWZRWnUtemZhYUtWb3Z4MFNMWDVDUVlUSFdldFo3SHhlRFowME85MnVZc0k?oc=5",
+      "publishedAt": "2026-11-21T05:55:41+08:00"
+    },
+    {
       "title": "BMW iX4 production kicks off in Hungary - ArenaEV",
       "source": "ArenaEV",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTTViVy12enhtYlgyZnB6Y0VSN1RLVGxaUkh2bE82clAzakw3S2ZWYXNxekRzN21yLURNWEVZaVdKY2htRW8wQ05BbUdrZzZFMlBUQURVcTkzUDFsc3I1N3FaV1lWU2hydU81NllKRHdFNVFzWGxTUDBpck9zaHdrZmw1c9IBf0FVX3lxTE1EbmNlcXViZElVUjhvdjRSakllVHdfRHFFSFV5T0JxTWQ0U1RFZ0hFdVZWbUNtZkFFUFlqOTcwRm5XV0xrYm1KVlMzbS1ubW1xSms1cEFlV2hDUkpvRzIwb3cyNkM0dU1HUWZ0RUNjTFF1N0p3MUlfeExVdGVQM0E?oc=5",
@@ -38,8 +62,8 @@
     {
       "title": "US LNG Gains in Poland as Orlen Explores Supply to Slovakia, Hungary",
       "source": "Natural Gas Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORXdYaHlCVkV4anhXck1mS094TFlpaTNvQzJSTmJzeUtqbmRZNlZ3T1hUOVN5YkhpOXY2T3NtOVVTcGZORF85ZDlMRjFtMV9CakhYMDFKallzUGVyc2YwMWR3SWJDa3dJY1BHUUh1SlNsclRZd2l4VWMzMzZtR003VG5qOG10RF83SFpRM3JzdzVybnlSc3gwV01uNU56RDRuS2txMzJJcFQ?oc=5",
-      "publishedAt": "2026-11-21T02:56:42+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEdlQjFEVjRFYUpsNXM3Nm44WEtpRFp4aVVMNWZ1dmZxN05PSHZMLXdrTllydnNacjR6X0d5OXI1V2JvVnQyblptUlNTY0RKemlEb0xNWHYwb2tac3dfd0V5bmxlR3cwaWQ5ckZ0MUxuXzFhcnNoWDRPRXNJc0EtRFk5RVpoSjRNekhpY1Fnb21mU1MzY0ZYTGlYb1E4SlVTT2lJ?oc=5",
+      "publishedAt": "2026-11-21T02:56:00+08:00"
     },
     {
       "title": "PANIM.APP Announces Decision to Relocate Headquarters to Hungary",
@@ -52,30 +76,6 @@
       "source": "Daily News Hungary",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbk00QXRyc0VORWZreGZQT3hBZmZJVmQwT215V3pSa1EtWFJXSlVvY0NXM3RtUkltaFNnazZVQlMyMmRXOWNuSVRscFpMU0V6Q0ZGaWF5VzkyemxOWlduNnhneWVwM2J6eE90UmdzTWxVWGtCalozVlYzTHlqUTJDXw?oc=5",
       "publishedAt": "2026-11-21T01:54:00+08:00"
-    },
-    {
-      "title": "Breaking: EC partially approves Hungary’s EUR 10 billion EU recovery fund payment request",
-      "source": "Daily News Hungary",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JYU9zSl9PaU5xNkZaRlpWV0xYcldYZHJ0R1QyTXpNNlNTd3lfeWdaTTluclp3OFc5Wmp3YVRjQlBuY19EMVc4UGJ3VE5malNmNjlOMERROF9qUjZYQ282VTN6aE40VnJENG9NQ1Y3RU5hRTZ2aFNZaw?oc=5",
-      "publishedAt": "2026-11-21T00:34:00+08:00"
-    },
-    {
-      "title": "🇭🇺 Hungary: Eurovision 2027 Participation Still Undecided",
-      "source": "Eurovoix",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcEpjWEV5UzB2c0N6eGlZOVpiRzJxN1FTak1ZNEp4SC1lYXRUOXZhdGlnSDI4SWZWWkZXWjdFU0xveE1wNHlOcnlpU05nS3ItZXFIbU8wRnMzd3J0dWVYN3lPb3FHNDBaemtlMnZtZjlESzh1V29JdUJiY3Q4V3AwRTJReUNXZ3JBcE1CNDRLSQ?oc=5",
-      "publishedAt": "2026-11-21T00:33:09+08:00"
-    },
-    {
-      "title": "Hungary to receive 10 bln euros in EU recovery funds by Dec 31, minister says",
-      "source": "TradingView",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSUZTSXJxZkJFWGFCZ3g4aTJrQmtMQnZ5REkwNDBUeEQwdURkU0ZtMW82elpXVDdtcnNRdlVyaHZ5VmlxUmdxWW50R2hmMTA0UEstcnZIYjZ5VWJEZTdPNDZ4UzhobEhXNEJscDNPOFJrNnIwZG1VUVFsOXY3cGtxYWs2UEZvV3plQXE0blV6eko5TklsRGxsaDJNbV93bEVtd2ZrRnhjQzhsT1ZVZ3BHV1FzRjJVdVBkbEpDTUdzU1kxZzNPekpyLTludldzd2s5dDlTWTBvNElmUVBMR09Z?oc=5",
-      "publishedAt": "2026-11-21T00:21:22+08:00"
-    },
-    {
-      "title": "Hungary Lifts Veto on Ukraine’s Final 2 EU Accession Clusters",
-      "source": "Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5LTmV1RzNJY2VOSVZCbEFaX2xhQ1lUVkpCYkpoTWk2WTREVkl1b19sQmtwWnFmNU94aU1UUGdnaVVVYTZLTlNvb0JPYw?oc=5",
-      "publishedAt": "2026-11-21T00:07:17+08:00"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "iso2": "LU",
   "name": "Luxembourg",
-  "updatedAt": "2026-11-21T05:03:26+08:00",
+  "updatedAt": "2026-11-21T11:05:35+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Investor launches petition against Luxembourg’s plan to tax ‘speculation’",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNnQ5OWFXWldvSnQwVF9fQUY0YTVUYm5HMldMMzQ0VmY2VUpNWnkyOVJYN0RPT2h0azJTNlhjSDg3N2x0VUowcDVsQ2lRbVJ4ZUVDS2I5MzlNRHNyYXpWSEtEVU55Y1BNWkhRZWkwVUxBemdkSXZNTTgwTVNza2Y4R2RIRWxuaGtLOXRqQzVwWEkzWXRZbHRRQlJiNGlpS01mZTNpYnhtaFRqSFdpaEgtLVY2R1hvMUtEcEktb0pGVnEwV3o2Ny1R?oc=5",
+      "publishedAt": "2026-11-21T06:30:00+08:00"
+    },
+    {
+      "title": "Luxembourg prime minister rejects calls to declare a housing emergency",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOajAzNy14d2k3NVJ5MFBqUUhVUFVuWndkcmJ6OTl4MWduZER1RGtPcjlnVlk4NVJoZ01kcF9OSlBXSDRMbGVYSjRPa0ZiMXNJQ0p4eWg1UkJfVUF1Q0h3STJzUTJodElkdktGY2J3SC1DNHJzX3RnYW1mMmRwLU5PandiZ2RvN0Rka0QyNEJibnlnb2VsTG1OMjE0R2p5bnpwdG9LQ2N1MlRfLVNYd01PcDFmcTBUTTMyS1lLNg?oc=5",
+      "publishedAt": "2026-11-21T06:00:00+08:00"
+    },
+    {
       "title": "Givenchy Spring/Summer 2027 Campaign: Jardin du Luxembourg Photos, Cast and Details",
       "source": "stupidDOPE",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVXpFOFNKeHlMR1k2dmZ3d2VTZWpUMDlEM0dlVlRxV21YbHpZbjVQX2c2VTZhb2hQRDFod2RFYm52LXpMcjJ6Vk4tTzQyVTJmcVNuNmZpaVFldzM5QVYtYVJPdFdCdnl6dEcwV0h6OWV5UnltTTRvNzdaZWZkVVlZTDVkU2l3RzlZMlhleXI5THBReUJhM1lSZnRLSEU0cHpTeDZhZmIwS3dfQTZBaXRTeFpkdnctMjBBNWMyM3Q0MERGVTg?oc=5",
@@ -45,25 +57,13 @@
       "title": "Interview with PM Luc Frieden: Luxembourg Prime Minister says housing crisis is 'an absolute priority'",
       "source": "RTL Today",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZDdNejBpTURwbEhwWnNaWS1nTlQ4TFo2ZnB6YURsM1VRck56aHhxdVpDSU5QRXZSY1ZPQnVwSVBxNFR1eExzbTBDTldtTHFtbDRCZFhEWW80cHhYcW51WHhfYVh6WE9tcF9nc3Bzdl9aYWlwaE1UVTFiSkhiSUdrakwwdEZmRkhuLWNmY1RQSHA0SUcxUDNIZGlIRXQ5OVZQdFROZ3ZaOGtUODIyRzlyeV9ZUmMtcTQ?oc=5",
-      "publishedAt": "2026-11-21T01:45:59+08:00"
+      "publishedAt": "2026-11-21T01:50:15+08:00"
     },
     {
       "title": "Neo-Nazi gathering in Wiltz: Nazi symbolism not punishable per se in Luxembourg",
       "source": "RTL Today",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTlRHX1dfcjdwQXA5elFRbXY0UUdmUmg2Z21NeWU4VzZJQ3lTcnZ1cTVfNmVfTnlsMEJWeF9HQ3NHZDExLUpNeUxCTzMtaUV2TUZFckZxeXF2OFlpaUdpNmo5Yzc1Sk9uYVd1Z1JWSk9UbWRGTU5fS2JGeGdHeG11c0p4RVBsZWRPQlI4Zi1EOENXWHY1bGlqVFhzTmRBdw?oc=5",
       "publishedAt": "2026-11-21T01:30:11+08:00"
-    },
-    {
-      "title": "€9,400 a month: online database reveals Luxembourg civil servants’ average pay",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcVNhU0I0NWR6M08wMDBnT0llcjdua2M0LUNWRlJWZms0bVdOWF9TVURwQlNLWVRrNTVGSFczdkllSkx4dVk1U000M29oYThmRUZBa1dnRy1pU3JYZWhmQ3RnalFVandEcmpFWWRlR2Z0QVN0clg0ZG5ZYXdxRjZsRmxWbVg0bTBzTWZVQmZqNmdXaWEtQWgxUmhqZkE1aFRzWXBSQ0gtS2U0elNnNmRVeXphN1FncFRBU3JCeDk0b3Z2dw?oc=5",
-      "publishedAt": "2026-11-21T01:25:00+08:00"
-    },
-    {
-      "title": "Let there be lights: Luxembourg City’s festive season begins as Christmas markets open",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZXlSY2VoejRjQnVqRVdjbldkYkJFOGR1WDBLZ280dVotd0tmZHluZWl6cGl6OTZHM0lmdnpsalVTcHA5NkpDWjZOaGpKWDlBM25FUHhUbTZKUVZxVXgtSEJfNnpGLWJpZm1TZTBvVnhDU2tTVExBeW5rWXN1TFVzUTdnUF9OZkl3SjBocVJFanM4VWtweHMyeDFaTWpDOW1TVXBSbVpEc1BkSm9fZmNzZEZUSzRGUWRPRFcxX0V3UG5heWhOdzZWYzVTeTlqenM?oc=5",
-      "publishedAt": "2026-11-21T01:20:10+08:00"
     },
     {
       "title": "A day in the life at Amazon Luxembourg on RTL’s “Eis Industrie – meng Zukunft”",
