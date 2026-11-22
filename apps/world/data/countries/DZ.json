@@ -1,7 +1,7 @@
 {
   "iso2": "DZ",
   "name": "Algeria",
-  "updatedAt": "2026-11-22T11:02:45+08:00",
+  "updatedAt": "2026-11-22T17:09:23+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,16 +26,40 @@
   ],
   "headlines": [
     {
+      "title": "Dakarun Algeria sun harbe ƴan Morocco biyu da ake zargi da safarar miyagun kwayoyi",
+      "source": "RFI",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSGg3S1l5QXhqdWZJc2hvbmpBSlVLVjhpakVITld2NEt3ekItZldoTU82OW9ZNjVBOWtsZlNFN05aV09WYTdoVHBZMnBjb1czRC1leFpzd04xSHpCVUVHOTdnaGlRR1R2Q1dlUnRIZXN5OE9NLXFyNUVMaDlYX1JQVXZ0bG5Nc2pWVnNFSXRnS25waG1DS0x2UmhkWGl5RUNkYWpqd1A2b0NMQklWTW1rQUpRbE5JeUtvcE1YdWFUOHBKbGM?oc=5",
+      "publishedAt": "2026-11-22T16:08:46+08:00"
+    },
+    {
+      "title": "Chile fight back to down Algeria 4-2; Brazil win",
+      "source": "The Peninsula Qatar",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPS2ZDQ3g4WndWQzJFanZVWklKTWFZWV9pUUZYQUdGNDZyVGg1YVRfcmlvWHgzVmhxMGdmNDB5aU5lcm9aaVduX1pKbXpIeDhHWTRWdDlCbGxTeHBPUWVRY0Rac1ZDU2tyQVZwQzBNQXZEekdGWXEtNWtJaFZTVzlkOWJpTVRzNGxRNGhucU8yc2RSbjdWY2Zmamx1YV8?oc=5",
+      "publishedAt": "2026-11-22T13:41:37+08:00"
+    },
+    {
       "title": "France – Algeria: The End of French Influence over Algeria?",
       "source": "Pressenza - International Press Agency",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY1p5RGRqMXBrSjF4eUc0ZllzMGw3Uy1PMmNGR3pkQWRxM05JbUhhY0J1WlVReF9FbmJHa3VCTjhEa0JYcWtFSG1ER21RUHlFWmJZTklOOWZzT3FtallMSFJwVDNCQ1pGajRPc3RVS2hqZ3BqV081TDJmdnhjQzR0TFRVNzRxMkpIMDR1Ymw1ODB0Tkpk?oc=5",
       "publishedAt": "2026-11-22T08:34:39+08:00"
     },
     {
+      "title": "Chile fight back from being two goals down to beat Algeria",
+      "source": "Qatar Tribune",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMThFcHE2M2JFeXpqQU9nam5aU0gtSzdaS3lxNWVTdWxsc2J2ZXZyQ0k1N2prUE5KX3lhZkRvYXM4c0F0akE1UmRTSkZuN2VNOVU4a0RNeXRia29ac2I0d0xsblZORm5qSzJyODVpVF9jQ2NQSXMxNEhMa0pObkNiR3pCN1p1M2tXc0gyMFJHYVZBSUppNEtfNE15LXBnaEhpT2dnamhkME5kQlRta3B3?oc=5",
+      "publishedAt": "2026-11-22T07:30:44+08:00"
+    },
+    {
       "title": "Algeria railway investment: $500mn decree to boost 3 lines",
       "source": "DNE Africa",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YRFhkVmFlQXJCOFZZb1RMSWtmQmJhNFZTa1RRMVJ2azZhWnptSlIwVmtwdGdqdVp4R1RqN1Q1dWlwTXlzaTFMc3pwcEtXV3NUeFYxWEluQTh0YlFCZ0VuQV9ESUNjOXNWOGdvSzdR?oc=5",
-      "publishedAt": "2026-11-22T05:30:00+08:00"
+      "publishedAt": "2026-11-22T07:05:00+08:00"
+    },
+    {
+      "title": "Tanzania draw on U-17 World Cup debut as Algeria and Cameroon lose",
+      "source": "DNE Africa",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8yZUYwSVZUTURHUFBJeVZLMFFuY3lHbUhqMTRfX0djb1JLWjc0NDdXNVM5ZUQzNnZlaVBxZnNrYTFVUW1uQ2gyTnA3UlBiY3p0ZzlJT3pmSTdLbk1oZ2liNTh6b0czSm5JSlhBRHRacVZOQQ?oc=5",
+      "publishedAt": "2026-11-22T07:05:00+08:00"
     },
     {
       "title": "Two alleged Moroccan drug traffickers killed by the Algerian Border Guard",
@@ -48,30 +72,6 @@
       "source": "CAFOnline.com",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdzBTOW16MF93aEpKZWJobWc0Z1BWLXItdFlKdTdGOXY5RHJEYlJZRW1STWJRenJfODRubm1jRW4xaVk5d2NGVkdINE85YllJSE1TZTRGU1VjVW53aEU0ZlVSU2N0b3R3LVBaV3BtdHhsaWlRMWpQMVBEbGkzXzNCQWVtbFd0WDVTbGY5X2x2UWtEbllUZDllS3otWlk3TWJGV2FsbTMxME1OQi1UT1pULWYtajkzR19ISnRjd25vSQ?oc=5",
       "publishedAt": "2026-11-22T02:59:36+08:00"
-    },
-    {
-      "title": "“The Men of Dawn”: an Algerian newspaper editor faces the courts",
-      "source": "Substack",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBqQ0NuemJOdXQtTmluc1ZDT0N0cGtaeldBNWR6cnZpWVNCX2VKQUlnc0dkWWduYmpfS2s1dXVRaVQwNFRnMzgxbTBrOVJnRjBkMUhLM1NIanplNEc2X0RxamJtTzFla2RaMWN3UWhSb3YyMG1xQVM1T3FCRkg?oc=5",
-      "publishedAt": "2026-11-22T02:00:52+08:00"
-    },
-    {
-      "title": "Health Minister oversees suspected Ebola case drill at Algiers International Airport",
-      "source": "وكالة الأنباء الجزائرية",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVG1uVlJlakE3V1praU9Lb2VvTlBkT2otQjFaT3czTnItYzRPTFcyVkRkQnhJcUpyRHZaMGUzZGRabWdwV1dCQk9USGRnSHNaaEpGcFNERWM4WXVsWENPNmdwdmYtNlpDbTl6dnhQM2dBX1ZieWFfcDd1SU1DdnI1OUlfc3ZtU29STUFONENrbzJuMVlodXhTUDE1Qk85YWJWSk5tR1V5cF9iU0FOZ0JkZ2cxTG9VRk9uR3QyaTR0bHR5SzZjc09iTmRJb1dZQkVsTi1pcF9GcnVkUQ?oc=5",
-      "publishedAt": "2026-11-22T01:54:00+08:00"
-    },
-    {
-      "title": "Algerian army says it killed two Moroccans near border over alleged drug smuggling",
-      "source": "HESPRESS English - Morocco News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRTNvc1dRS1JndlRvMGpFcURiWTdNM21EeE9RU2FxSEZKbXJFQXNRYXB0MU5qV3FzSWRzdFJxaWYxRVhVVWlGdlNzbThFV3Z3S1ZPXzJETUpvUTd3RFU1ZUR1Y2JtQ2xPRWQ5VDhqM3h0aUJTQWYxMXpFR2E4cHB4QWhicFhnOEtXaVhZLUF1N29jQzJ5aXp4a1JzeDBmcDFjaEx4QnJ0VExpdTdlRlg1YWNnSEJodElkbFE?oc=5",
-      "publishedAt": "2026-11-22T00:28:55+08:00"
-    },
-    {
-      "title": "Algeria says killed two Moroccans over drug trafficking",
-      "source": "The New Arab",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdW5GYlNIUUZ5eDRXUmpYMENFWENxbkc2aEZHSEcyWkxUSk5kUWZxZTI4VHdES2dqcG52RzNpeUZzck14LWxDWXZBWjdGX2loTWNJVW0telRPOXkteWItNDdqN010MHlRT3VmWXRLSExMenJwN0ZTd1E1UkRYY3d5NDd1YXI4cWpxNmg2ddIBkgFBVV95cUxNcEZNWldYZ3hlbWFoLUZNWUFJQnE5bkJ4cXZOVmNlM1Q2c1hRc3JwdDhLem5ZWGJVUXliVjNVQ0dpR3c2YkxMZkc5bWp1YW9ucHYzUGhKd2Q0VHl0MmY2aktkenVIR2djOXVaZ3BWendxNDVQTnhHNW15dzFLWXpwZGluOXZrSkFHUW4zV0M5MG5HUQ?oc=5",
-      "publishedAt": "2026-11-22T00:08:58+08:00"
     }
   ]
 }
