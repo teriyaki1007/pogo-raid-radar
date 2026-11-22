@@ -1,11 +1,15 @@
 {
   "iso2": "PR",
   "name": "Puerto Rico",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "San Juan"
+    },
+    {
+      "label": "Population",
+      "value": "3,184,835 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,13 +30,31 @@
   ],
   "headlines": [
     {
+      "title": "UVA Football is going bowling: At least Puerto Rico is warm on Dec. 16",
+      "source": "Augusta Free Press",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRWVuOUo1b3o3dHBBd0ZpYjJETkJUbS1OaE9EOXlxYXI5RHZlRXJacHJGU0w5YmtLRmxfTkhUTER1V2sxQW9KQkdoWXhCelJUM3FNNTgtd0RQTjJKRmE1MXJ2dGlGbWNJM2tOOFF0YXlXdHdZN3J6aTh3NmZnOEtXdzY3bkZpdS1YYm1rYkROenlFVktVbFh2RW5wOWlaanJBWl9MMzZn?oc=5",
+      "publishedAt": "2026-11-23T04:21:43+08:00"
+    },
+    {
+      "title": "Frontier’s $399 Unlimited Flight Pass Covers St Thomas, Aruba, Jamaica, Puerto Rico, St Maarten and Punta Cana",
+      "source": "Caribbean Journal",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGZMcldiSnVraFR4TWtOSmRyMzZZbUhxeGNucF9ucTZzeGJrdW1YZGhicVM5anZtTUdiX2hTR29QN0NRQWdYaFUtQWFqengzQUMxYnRwYmN4MFFiVkRfWXRTcW9LbFNGeVJHd2MyLWZMeUdPZUNlTnMzVGpmX0huRHRrZnVYVmVN?oc=5",
+      "publishedAt": "2026-11-23T04:01:09+08:00"
+    },
+    {
+      "title": "Pablo Delano shifts his focus from Puerto Rican colonialism to a museum in Brazil",
+      "source": "El Nuevo Día",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNzZxSTFsTUpOTHVaNTJRQWhnOFNTQjFvS2ZoWmdGVjVmUi1CaTdCd09wNzJuazRuSm5uU1JUZC1kTV96WVdYOGthQU9rc1VCcWlLRUZHeXJXNGpNSl9oWU1fWGtBajRBb29QbV9WbUVCZHUxa00zSmV5cTd4QmpLd1RqUVdERG9FeUJwWjcwejdCUDR5QzNIcXFlUDZzVk9GVmRwN25QRkx1d0ExSWt4aE1EQnpaWEVDc0c2NWY2djk3VUIwcG9tZGZmUV9IRkJYSFBz?oc=5",
+      "publishedAt": "2026-11-22T23:48:01+08:00"
+    },
+    {
       "title": "Two and a half hours of work, four hunters, and a dig into the depths of the earth: this is how they managed to capture this \"powerful superpredator\" in Puerto Rico",
       "source": "MARCA",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQS2RJb0otaEFiU3pQWjVzU3lHOFpaSHdkMTFtbGg1Ums2bEJlcWZiSWlqX2RBcjB5eTRFNExpeVZUQ1VKQU5ZYzJQOHZnMF91bjBmTS1EbzJhS2hYYmFfdUtDWUwtdWZtWkdrRERpTTAxcXZDM25DYTZFNlBTRzlUZFVLUFdmdmVpclJUUC1MNGNLMEF0RjFkSzllaWRYMnFzeFBZZ3hlQ3RXRjJtVFByRFJKb2NtTnhEUXJ4djhNZ3lMZmhEU0NvQXRuOTFzMzhnVEFpTEtsVnZMNTlmM1VGZ2hiWDRYdHRUc0pfRjhURFZYTkdpb2RKRnN0LUg1MzhNcU85YW1uQWlRY1pLUXF1NnhGWXVqSGI4NEd3dVVpRGVoSjNjVUVxMGF4MmZlbmhEano1WExWMU1KZVNqQ1HSAb4CQVVfeXFMTU1sRS1ta1pWOEtCTGFwUlk3UHZ5S3ZsN2lnUUNjcVkyamhYc1B2NjRpTVlyaDdrWldTbFlDRzA5QUJBaDB1Q01aUUt4Vm9BaVdMei13dHpEY0owdFdxdlFmd3RvZUZpeUp6TEVyOVNsN0FZRVhyeGYxd3VnQldtNXVfNVFEcHlIaHZkdEVybmpMVmtCdm5yVXZkOG1yTFpURFdFUjdoXzlyeW56SV95WUpfLTVoay1RMFpDU2t5cV9zcWxiUXJhLVFTUHNsMXgtV0dNNVlRaG1kamNRcm03a2ZnZ2Y3U1VncnB2TjFpa2toNDdGMWZ4blk3dXduX3JXUnE0Qkk3ZzRGX09tTGJyMkt1YzV1OFRKNGs0eU0yUXVQVXFpNTF2elZnY1UzY2lRU18yUTRTbjNRT0J4WUd3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQS2RJb0otaEFiU3pQWjVzU3lHOFpaSHdkMTFtbGg1Ums2bEJlcWZiSWlqX2RBcjB5eTRFNExpeVZUQ1VKQU5ZYzJQOHZnMF91bjBmTS1EbzJhS2hYYmFfdUtDWUwtdWZtWkdrRERpTTAxcXZDM25DYTZFNlBTRzlUZFVLUFdmdmVpclJUUC1MNGNLMEF0RjFkSzllaWRYMnFzeFBZZ3hlQ3RXRjJtVFByRFJKb2NtTnhEUXJ4djhNZ3lMZmhEU0NvQXRuOTFzMzhnVEFpTEtsVnZMNTlmM1VGZ2hiWDRYdHRUc0pfRjhURFZYTkdpb2RKRnN0LUg1MzhNcU85YW1uQWlRY1pLUXF1NnhGWXVqSGI4NEd3dVVpRGVoSjNjVUVxMGF4MmZlbmhEano1WExWMU1KZVNqQ1E?oc=5",
       "publishedAt": "2026-11-22T21:38:18+08:00"
     },
     {
-      "title": "Miss Universe India Kaziah Liz Mejo showcases cultural pride with Kerala-inspired ensemble in Puerto Rico",
+      "title": "UAE-born Miss Universe India Kaziah Liz Mejo showcases cultural pride with Kerala-inspired ensemble in Puerto Rico",
       "source": "Gulf News",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeG11cWE0VWpLTmhKUzRuZkRMSTlmQ0FGWllTdXdzNkRzZUg2Um5oeFY3ZDhkbkdEX3pVeEU3a2VhTC11bm5OMlJyanFiWkZUSGIwUFZmTUNkZ3pDMFFQWjZRaHVOVzJlWWpJX21rQ2xRQXBieXppYVBYRFRuNFFXamhETGhSUEFzdkxHNDhtRG1sc0RmdVlEWUE0ZkEzZ1JVQ0I0Zk9hMVM1R01XRUZCZUUyWGM0R1U5UDNmUDRIVkZ2ZmtlN3dyTWxjb01rUXpoS3JneUZ2dUJrLUpSdU1yR1pxLXhNN2drSHZMWtIB_wFBVV95cUxPVmNvbS1IVXRRaW5OVXVHZDdiVkF3Sjk1V1daU1FCWEpxT085WnpWS0dNb3BWdmhiRXEwWmY5X0NDalBma0stR01UTWVxZHF5M1FqTFprbkpPai1NcEJ6dFdSSWozVFMybjdNNEtOMjZlWTJPNE9xeWdwUHpqT0k1VFJ0VXZCNElqQUl5bkVMdGJDdUxZcVpKdVdWYWlwVl82WVNVQWUzcHN0M01iT1FzRUgwZjdhSmlpcWZJdHVnUkNJRXBKS0x2NVVsWF90b21Ya0l2SDl1cFJ2OWE2Z25nVE1WdHdQTGEwSVF2X1Jnd2RpS3RPS2NMYTZrLXhmbWc?oc=5",
       "publishedAt": "2026-11-22T20:26:53+08:00"
@@ -54,24 +76,6 @@
       "source": "cwibc.co.id",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zWjNxbzZoQzhfaFl5UHRXVUZuOHlhWERnam12TF9ieTFPN2V0WFJBWERBQ2Rjc2gySDhnQ2ZkNHAySjhWVm5zUUZlUHVyOWJSZjB2TFNUVGtZLWNfRlRwSDRnZw?oc=5",
       "publishedAt": "2026-11-22T08:39:50+08:00"
-    },
-    {
-      "title": "SHARING A PIECE OF OUR HERITAGE TO THE UNIVERSE 🇵🇭 Bea Millan-Windorski proudly shared Cordillera’s rich and diverse Indigenous heritage in her national costume for Miss Universe 2026 in Puerto Rico. \"A heritage worth carrying, a story worth sh",
-      "source": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWHVoVG5QeXJ3UkNqTWRCMXhjei01a2V0ZjJsTDZNSUE4RHVZMi01em11d2tOb0RmdVpZZ3R0SjQ0Xy1HYU9kb1lWcGdBU0p1V3IyRjg0Vnl1dkpNU0dLcGJhUWI0R1cwOXNpSndKQ1pjZFMwMUZucElnMkV3U2tsRk5PWld5bmZ5SGJGdnIzOFQ2bnhtOUZNZDNEVnhtSnRmVUZNakFQLWYzdDNqZldTckY1bWM1ODBFMGdqN2pYSUpVUVZ6cGZsSEN0cmd1bm5haTA0?oc=5",
-      "publishedAt": "2026-11-22T08:39:10+08:00"
-    },
-    {
-      "title": "JTF-DC Puerto Rico guardsmen receives a visit from U.S. Rep Pablo José Hernández Rivera",
-      "source": "DVIDS",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNenJJZ2tzUDhiRkNmNTJSUlJTVnNwUHBEZUpZWDlCS2c2UEhqcUYycUFXN2RLazQ1NWd2LVBmMDJnZnJDcDBEdlZ1ZFBKVUxVTDJoMmlkWEUxN2tXbmN3T0dDNFIwME9kcS1GVGtHdURGSkNjd21MaUFBUk5oNlBqdGx0bmJTdHlTdHVteHBaY2syZ1VIU2I1SkVGMXd4QU9xSmVfaUNpQTNka0dZOGpIVTE1ZzNyY3FYY2c?oc=5",
-      "publishedAt": "2026-11-22T01:22:00+08:00"
-    },
-    {
-      "title": "As outages persist, Puerto Rico finds a way to help keep the lights on with 'virtual power plant'",
-      "source": "New Castle News",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMHE3THBZd3Jwc3Jub0t4WkhyRW1mT19RT3BnUElfR3RBWDhRRnRPdXVWN0tZbnB3R1NLekp4QVk3ODF2aXV2QXVKbkJnWldFZHBPRkxUZEhQMmFJUktheFI5VFRNQ2JxVEJRZHhjX0ZiOGM1Q2R5dUtSZTdkREs2Zno2WlE4UWNKMFBMcDJCZkwxZS1hTGJaNDBkRHRZNlkxb2Z3cHR6dG14ekVrSU9CaDREbGFiUFBNOC1uSWxoekFHeGhCeDQzV1F5dHVIWUgtaGp0NG1GNEVPci0wdVkyZmhESmVlY1RZMl9vZm9nSHFmQ1lnVVlOdGZDTQ?oc=5",
-      "publishedAt": "2026-11-21T13:57:34+08:00"
     }
   ]
 }

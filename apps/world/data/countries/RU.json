@@ -1,11 +1,15 @@
 {
   "iso2": "RU",
   "name": "Russia",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Moscow"
+    },
+    {
+      "label": "Population",
+      "value": "143,513,328 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "Zelenskyy urges US to release Patriot missiles as Russia kills 3 in Ukraine",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWDROSjJ4ZmFrSWp4VDNoeS1aRVlHb25QQXJvV0JhQWtrNjdJekNQWHEyQ0VhZUIyNHBpd3l2eEJSYmc4Zk45V2lhcWxwMzJBT09XYk1hRzZwa0FkT2ltdUl2STFtb1lBVHRtVFpDTGtYc2FVZWJqQXYyYlFSVzBhNzhpbE83NlByTGJHQjloNEZvZ9IBlwFBVV95cUxORzQwam00SzMzbWFrZHNQMlAxQU1sTmJ3ZEFQRU51V1B4MGxUb1FFeUo3R05ya0hQMFRVRjRGOTlVZDliV25wbGdnZzI1YlI5N2lpTnltOE5ZYUItZDViTlJvNkRCaGR0M2NxQ19zeEJrSmhVTGVKVGpoRFBNTlFlMFpxUzNKblhkYjlBek91OUJxbmZNdkRr?oc=5",
-      "publishedAt": "2026-11-22T22:54:58+08:00"
-    },
-    {
-      "title": "Russian Navy Corvette Merkury Reportedly Destroyed in Massive Explosion at Libyan Port",
-      "source": "UNITED24 Media",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMjUxM2tmRzF0M3I5bld1ekNtUXBrX01BWGpHQUJtLUZ1YzJPSFVrdXI3MlZ3Qkx1eDBZY2JnVHJDclJLLXB3X05PQnJBWlkyT2l1R0VkejJxQTFRUXdlZVN6R0ZwRHFfSFNLSnpYZHRJMkNQSFBTVVp0NnE2LThLV0Ixa1F3c3ZrZzdRMC1aSlZMVmRKVnBxLTFlNnNaYTV3clhCNUNadVRMZXZBMng0eWxka21jRFExZWdfUThBY20wZw?oc=5",
-      "publishedAt": "2026-11-22T22:34:22+08:00"
-    },
-    {
-      "title": "John Kennedy says Trump is not putting enough pressure on Russia: Full interview",
-      "source": "NBC News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOTVdvOTRsTHQ2MGIyT3R3RnVta2Z5UHFZdkYyWnVvakNMV2syT2ExQzJpU1FaN0FDTm1hVVF1bnZQQlpMbGlCM05qaE5xSG55NzVrMHlZTXl2dHVlNDBITVYybFJua1RXdUlCR1dReTNKWDJUakRxY21HVUJaSmo4NmNKcWptdlNDMlJoYjNRYXpXWEJOQjE1MTBzR08yWnpzT1owY0Z2QXNHWkFIWFU4VU11bktCc3ZPWkhHeTVBdWlERnZVSHZlX1llRmlydU05ZlBZ?oc=5",
-      "publishedAt": "2026-11-22T22:33:46+08:00"
-    },
-    {
-      "title": "Libya's eastern government suspects drone attack caused explosion on Russian ship at Benghazi port",
-      "source": "Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSHNFQ2hvQUxyR05zYXIyVjczNjE3eEVLWWhMdk1mS01BQV91dy03OU5SSzVzbzlvVk1ManQ2TFhqU2xkRkhZcGthVlZad0E1aVRKU1E5ZWxJTWRQVG5UYmFYYmcxZGJ1TFc1YzE0a2E4XzQ4SGJLNjNlc0otTGhGRnRWTHpmeW1mWnVBLTNhYmFLU3JOUTVfSTliN19fMG9rRWlmeFdKNHFSU1JVTTdnQUNhUlBUWmRSTDVXUUJuUW9fNEV2cjNWdTlPZw?oc=5",
-      "publishedAt": "2026-11-22T22:25:44+08:00"
+      "title": "Finland confirms Russia is towing drone-hit cargo ship after Baltic Sea attack",
+      "source": "Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ09ZcjhlT1pEdy1vTmRRanhVU1ZTdm5VOWpXREZuX281YVE2dmJmZmJkVWRibGdnMGxJZUJOT2dzelR4NmNRdUVYM3hkNDRqWks0VEZ5MncwVkFiOWtVUTZfVHMzZzA3MW1ERnROOVFpZXJYa3ViaE5QYVlaaHNRZkxjZDNEa25YS1lBQmRHVGtrTFY1WkRkSU1xX1M5WGtzWTBramtsdXd2SVRNaDhTNlg1RGk?oc=5",
+      "publishedAt": "2026-11-23T04:38:31+08:00"
     },
     {
       "title": "Russia Accused Of ‘Ecocide’ In Invasion Of Ukraine",
       "source": "Forbes",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaFU1bzhJREpndmhkaU51TTFtRVNHa1ZiUm4ydTNsMmh3aEFfQ1hucktKaXFRN1RSaXlxbjBwUWdtaDhiQUc2RG5BV3V4a3hvcUpHZlVCcUViTlpmeEFMZWNkTFRHTEZZdUVCdC1lU0pRLU9YQ29mRXBlSGFrSnNaaDYxanBpZEFYVmhqTG5xdnkxczI5M3hLTmJueS1yYnVyYWVfc2Q5TQ?oc=5",
-      "publishedAt": "2026-11-22T22:24:53+08:00"
+      "publishedAt": "2026-11-23T04:25:41+08:00"
     },
     {
-      "title": "Russian Warship Explosion in Libya Destroys Corvette Merkury",
-      "source": "Naval News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSWM3MGdwLTVVbHhtSG1NM3l1Y2lCdFBkRHZEV0M0Y2I3Sk53MVhQd2VHZENrdEg3emYxc1NNU1pKUG9qeURhR1NoMVFsenlqTkZmcGJmQlR6VnVBd3E3SG9FdlVhZU5ad09RSmNNaDB6MEQ3TnhlcVlNcW5KYnV4NmtOak5lcVJIRWRxMEg1VzBsclJTdlRoOHNNS1QzYTQ?oc=5",
-      "publishedAt": "2026-11-22T22:11:36+08:00"
+      "title": "After murder plot at Danish concert, kicking out Russian diplomats may be the only language Putin understands",
+      "source": "EUobserver",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX3VfVElXZk5HdDl2VHJzYVZ0NjdReGZBR1pxam1jdjA2eGszXzZYNFd3WUlxZU96V3FiQkNFeU5SaUVaZ1EycDM4WldRWWtiR2lHWFR0ZmFLb2MtYXFSbmRQejVWeERCR3VVdlJFcFlJSjBBc0ZvQXpUYkVFS3dFLTVaRHFxVThvRFVhNnlEREtJS0h2eE9xRjVyYXpnaFhLQUhDUm9mTV9SVGFNNGlMbFdqQXNibGNpelNaVUJheWRjSHU2OG1FeXhpXzRyd3lrQmhobHVR?oc=5",
+      "publishedAt": "2026-11-23T04:24:50+08:00"
     },
     {
-      "title": "Russian attack near Ukraine's capital strikes apartment building, killing 2 and wounding 4 others",
-      "source": "AP News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV0dYbG15VGlQaUxBOGJXQkhMem1ZTEJVSWE3QkJHT0FaaVo3Tk5iai1LcHd0NEVPRm1EYldUR1pHNENaa3dYTmpfOUpsVHJnTGtXa2VvRXNLaHc0bjNBZWNXTVowT3FWRTk0MzgtNXktN2hUNFhnUlVYSjFXRVBNNUt5bDcyNXMyb3pQV2pCbWphUGItclFzeDVKV1pTT0xUQzVZQ2xrVUZ0UWtoZEo0?oc=5",
-      "publishedAt": "2026-11-22T22:10:00+08:00"
+      "title": "Russian warship sunk in Libya by suspected Ukrainian drone",
+      "source": "The Times",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUEpWSGxCaFBCMGt3aEZPNXJWdTJNazRHU0g2UzNUcHlBZTJhcXNnZDZFM0taZmJvT2xMUVlSbXlkQldlY2kxR0FRX2ZucnV1S3VCZktPNDNBY0hsdl9ldE1YUVB4X0MwaFRWcVo4OVRTcWgzVjRvdC01T1RWbFFSTU1aQ2lIT3p5QVdHYkFDLTUwNlJaSXFCU2RDNG9GV0hMVk41dk5paFhYRHFR?oc=5",
+      "publishedAt": "2026-11-23T04:17:35+08:00"
     },
     {
-      "title": "Russian attacks cause 'serious damage' to Odesa power grid as outages disrupt city",
-      "source": "The Kyiv Independent",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd1hRVmU3UlFDRDdTTnNEMXJCWTBrN05WcTlQalJfX09ha3BVYXFUTGZkZC1aWk9yUU5LTlhsNEhRNU9hS2xhYTFWakhLdVhSSDhTWFZkOUlZc2lTSy1sZHkxZndtc2JEejEzamwyN1cwUFVfZTJBZVZNTXVDRThLTlFuTjlUOGp4UTBtZVkwb2JpOXpJRVI4cUpUeU5NTk43VG1sbXFWWU9XdGhNT1E?oc=5",
-      "publishedAt": "2026-11-22T22:08:06+08:00"
+      "title": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZzU3ZEZYME5lS0ROc3NoTHNrNlpjVlUyd2xjVnRLREpzSWlZWXMyS1E3OTJMZmxZNHZJV1BpbGM1U045c3JTc2p2dlFTYTNTSU9qdnVZamZZN29zR0JBY3ZpYjZ0Z1FpVXc2cDViTFZRMHNwejhPcTBrUHVqdFhZZG5XTTFSYi1Yc3AxaVlLc09VcTdyVzdFaNIBngFBVV95cUxNZlFIcHE3SVRDUFdGeE9CTEgtM3I3T2o3OTBUZWlQaU5IbWhXNVY4NjVqQ2s2eEJLVTRlUXFXakFWdkc0T3ViME1EMUt5US1zejJPSkthWjVaejRkTExNOGJ3LURHWDB3dndjeDBBM0hyRWt6d05ESnE0Ul9BbzlzSXZLSS1MZHM2RUJ4ZjJaMVFZSmlWS3ZSMEgtR2RJdw?oc=5",
+      "publishedAt": "2026-11-23T04:11:47+08:00"
+    },
+    {
+      "title": "Venice art show looks back on year of controversy over Russia, Israel",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVHc5OHUtVFpiZmIwVnVLLVM3dVlRMWsxalYzNjE5NS1YazgyY0EybzRCelg3MkhneFlkbVd5TzRCQ2E2NnBXUWZMaFVyT2ZMVTVWa0taUUw3RnR2YnJvMG1GdTR4dmpIaWNXS25hekFpRlQ3NjJfRUUyNkdtRnlfY0tQQTNYS3BWMkhV?oc=5",
+      "publishedAt": "2026-11-23T04:03:29+08:00"
+    },
+    {
+      "title": "Kushner Doubles Down On Claim Russia Is Open To NATO-Style Security Guarantees For Ukraine",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2dPNFEtd1dleEZTY01UVmFkUVNBb181Slhpd2IxeWxiZWpIR0pfM2NKdE1BSDQ0Sy1fM2RGMXNfSnpfdnVMSm16NnpsUEFROE10TmJsUDctVjRMTmsxQWI1RFpGOW9mQlcyUnNTZnJJZldacDRtWEJRNVlKRzRjSUVfWTlNQlFLOVFfU003MEZTZlZpRmR3aA?oc=5",
+      "publishedAt": "2026-11-23T04:02:12+08:00"
+    },
+    {
+      "title": "Russian cargo ship leaves Finland’s territorial waters after drone attack",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd2NCaGF6MUxSRzUwVFhLTFAxUzR6bnU3TW5PSE9vQzRrRnk4Qnd3d0ZpQ1RMYk1wZEd3eHVla1lNOFhZTHktekYwZWJ2eElMaXRpamVCWWFrSEpUTVQxVjRpdHJ2WG9SSFp1aXVHTTBXUWVCdHFHTFJzc0I3Zks1dzZxNS1zWjhCTFhKR0tCM3RJdy1YLXJsTWhwSGhJUktORXJwaTBaQjHSAa4BQVVfeXFMTjJuTVlYMUFraG1VUWhHUXY5TTJiMF9SajVvX1lqLWNtOTRqaHNsei1OcUVuN1NuVU5ucDNoa2lZZFk3ZGkzRm1ybW50UllFcUZveEhIMDBnaG5pVmdzTktDeWpfejBrVk9kQ0NQV2pWNDBfcTJ0eHNfYTM0cUNaZjNTdVFWV3VWWWFEeS0wWDFMYTZrbHBMeEl5NzItRE1jRE5qZG5mdFJ5VUxoV3lB?oc=5",
+      "publishedAt": "2026-11-23T03:55:45+08:00"
     }
   ]
 }

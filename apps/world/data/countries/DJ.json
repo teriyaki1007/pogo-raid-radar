@@ -1,11 +1,15 @@
 {
   "iso2": "DJ",
   "name": "Djibouti",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Djibouti"
+    },
+    {
+      "label": "Population",
+      "value": "1,184,076 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "17,000 refugees in Djibouti benefit from Qatar Charity relief project",
+      "source": "Qatar Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNkZBQWx3UzhtQkZ2dENwZXhIMlRPcVVZdl9iZUh1ZnRxZllyVV9BODBHdmt2ODJScEdreExpN1ZwaHhkTm5IN1RQdDN5d3l6ZUVhTEgzZXBMTjR6cHN2ZTNiNWFmYXAyazdJOTRlS1dnbFFVaTBHNzRMcTN1UkxEZUIybjR0NktybWFBS2hDZ3N5NGxrRmkxRUUyQnZuVXdXZDlWTkpQV3BzWFlkMFVmZ2N5VnQ3Y3RMc2E2N3ZGLWF1UW8?oc=5",
+      "publishedAt": "2026-11-23T00:59:48+08:00"
+    },
+    {
+      "title": "Qatar Charity provides food baskets to thousands of refugees in Djibouti | Gulf Times",
+      "source": "Gulf Times",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZTJpSFdCQVlkdlgxazVoRkVsR3ZLc0RTSFpKUjNOTUtLamFCOFZIT1AtelBRZkkwSlpkZjNjcTVqcU5GMUFrN1hMQWtPRkp6YVlCbUl2Z2xlT2J2eFBIY1ZXbDVCMG0zbWlLZEJlbDJVNmNMWXE5YXM4bS1GZTVjRkgtSFRsNDdUTnRkMm90QzhuNWxoUldlWndvSTFSZWl3Rkt4QVRiV0NvSHBhT2RuWkxyMXRqWjZjV1NWQdIBwgFBVV95cUxPbDc2Q2p0V19qekdfUUpjU2xQR18tb1FGYkpUN3JwNXpvNHB6cFBLUEZzOXNNRkk2dHViVEZJcFR1TDB5Sm03TnJtUV9lSU0wei1vWjBtdTZQR0ZhZzdfbGlmR0UwblNOM3NobzlTUEZuRDR0blpvdEJFcTh0Y281SEhCSlhuYnQxQWxkZWc3M1NYODFYZERQa04zejJxS0E0R09mMVJxQ3UxaDhQTjFUNVlsZUZlQzZNdW9ET280NE5uQQ?oc=5",
+      "publishedAt": "2026-11-23T00:08:00+08:00"
+    },
     {
       "title": "Djibouti to Host Second African Official Journals Forum in December",
       "source": "Dawan Africa",
@@ -50,28 +66,16 @@
       "publishedAt": "2026-11-21T06:50:38+08:00"
     },
     {
+      "title": "WFP Djibouti Country Brief November 2026",
+      "source": "ReliefWeb",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRzJ5RjRqNUZhM28xTkZjSDdBWXFFUkFURnd4XzFGZy03Q1dWdFphakJFSVotelh5Sl8xVU5ONUlnVDcyM2xyMkZ1cW9GeWFWbXZXZDhmNDRkcEJfVEJPaXFkVm5YRXUydUM0VVFnUHJ0d2lQTlhtSVVLQmdmVEZ0VEhOSWY?oc=5",
+      "publishedAt": "2026-11-20T17:03:16+08:00"
+    },
+    {
       "title": "Somalia: Djibouti peacekeepers killed in clash with Hawadle militias at Beledweyne airport",
       "source": "Somali Guardian",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmF5V2FxNUNfQ1N4Z2RMRU1xYWYxUklnbjZEck5XQWlGRHhCTjdycFhVTExjSHFCVGhzdzlNTTFONUpKSFE5ZXdVdTBaX2R5OUdTME9fQ1AyWVpsaW9aLWxIcGg3SW9DRDlWVkw2QjFUbzF1ZEFmTjEzMmxka0NhUm15SGU4RVhJS1B4TFYxSTZqZGlUWVdFSHdaSDhhZVE2c2lzODRnTmktY3hnTVpHS2U4c2loNFhTb3BveVRYUQ?oc=5",
       "publishedAt": "2026-11-20T02:08:49+08:00"
-    },
-    {
-      "title": "Djibouti plays referee in new Gulf war between Emiratis and Saudis",
-      "source": "The Africa Report",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMDlZRjV1X2s2Q1BzcVg2aFhZazAtMV8xZEgtUmFoTy11Zzg5XzZFY2lQR2Q2Q3RqTWxPcHBUOFo4eHhUb0ZzaDVTbWJuZDFyS2J1bVJwLWp3a2FrT0JjVm9SWWZrREwyYjJVWlhsX2pVa2g4am5vM1YyTW5TTEdzMGJKSGt6MEhPcUFHNkt2aDR5RS1SNnIzWnp2eUNHNXRHWGR5REE5VXhqUQ?oc=5",
-      "publishedAt": "2026-11-19T22:34:18+08:00"
-    },
-    {
-      "title": "China deepens role in Ethiopia’s $4bn Djibouti rail line as war raises fears for trade corridor",
-      "source": "bne IntelliNews",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVVA3ZmduU1hDUXFlQmFuUzhaamhURjFaa29MT0NPUFROX3YtTzJZMWluVWdObFhDT3FROWh6YXRVVkZlSVVDVjhkWGlrZ1FHcVRYc0NubFVvcHVxczV3V0t3ZGp3VkJJNFVpMDljZEVIWlJTcm1qYnhENjRyTUhmNkp0cDZMbGlyY1pETUtVZFMwS0t2WVZrWmVmN2d6Sm5rTlc0UE1RUzh4NVc4VXpETzU1MkFXeldwdGpTQ2JKbXEyVHVNZHV3UXhB?oc=5",
-      "publishedAt": "2026-11-19T21:30:34+08:00"
-    },
-    {
-      "title": "Djibouti Strengthens Regional Port Security Cooperation",
-      "source": "Mirage News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVmppTV9vek0wbFJMcTJYUVctcGRUR3NLSXNiSUhsM25PaW16elZSY0VFaFBLdVQzUldOX3BPNkxKVHNINmFEd0h5aGp5YzNpNENtYS1YSUUtS0lpZGpROWRGTXFTcVc4RGg0N1ZCbVhHeU5xMWFXdUZhNmxQNkEtQmk4MEdWQQ?oc=5",
-      "publishedAt": "2026-11-18T00:26:00+08:00"
     }
   ]
 }

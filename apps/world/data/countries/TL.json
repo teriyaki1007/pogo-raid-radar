@@ -1,11 +1,15 @@
 {
   "iso2": "TL",
   "name": "Timor-Leste",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Dili"
+    },
+    {
+      "label": "Population",
+      "value": "1,418,517 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Timor-Leste pursues Greater Sunrise development as China, Russia interest emerges",
+      "source": "Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNYkRDSTFjWGFpaXc4SUhCNGpvbmxYb2JYUmk5clFlRHl4UXgzZTFHNy1mN29La3VNWXV5RTdWSUZHOXp4MWI4SE9jcGJTODMzU01qdjJGb3JrSUFRZWZsQ0NQUGh4QVMxYmxURllhQzhKSkZYTHY3VXlBZXZiS3FXMk43S2lWdFd5Y25BcXFXMnZjU1YyREtzOUR2cw?oc=5",
+      "publishedAt": "2026-11-23T02:55:22+08:00"
+    },
     {
       "title": "Asean summit highlights Timor-Leste membership and regional growth ambitions",
       "source": "Traders Union",
@@ -66,12 +76,6 @@
       "source": "Daily Observer",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BRjJPY2x1VEViUkFXUzJmZ3hDSUF6RG5xb04yZ19nRWV3eld0SFlvTVJ4Q1FXTzZpNGhvY3I1eF9WZEhCUl94Vm53?oc=5",
       "publishedAt": "2026-11-21T19:06:22+08:00"
-    },
-    {
-      "title": "Magnitude 6.8 Earthquake Strikes Banda Sea Near Timor-Leste: GFZ",
-      "source": "https://www.businesstimes-bd.com/",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNN0tSRkZLTVRneVhDX29vOU5iUUp1U0pMZDZEQURjd2NLa1YzRGtjcU82ZHpoTlRjQktiNUVJeDhSOFVjbXVLcFdHUzZpM2ZZX3Z6WThfbW9qY0RJb1NqZ0lwTTZFb25L?oc=5",
-      "publishedAt": "2026-11-21T18:56:15+08:00"
     }
   ]
 }

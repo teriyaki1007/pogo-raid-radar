@@ -1,11 +1,15 @@
 {
   "iso2": "FJ",
   "name": "Fiji",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Suva"
+    },
+    {
+      "label": "Population",
+      "value": "933,154 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
+      "title": "Fiji makes progress against violence",
+      "source": "FBC News",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50RDBNaWZHRnJtWlF5eFAtVWQ4Szh1V0dQbkFrbFczMGFMYnNKUlM5cjYwN000SXFkaXRSaEM0eDRGRHFwSUVCdVlSVENNRkJxQ1pwRVdGcnRBYjJ0Q2V6TzQwN2NzaHNWS09Uc3BzWEUzSTJqSFg0dg?oc=5",
+      "publishedAt": "2026-11-23T04:01:25+08:00"
+    },
+    {
+      "title": "Fiji seeks standalone ocean decision after COP31 cover text rejected",
+      "source": "Fijivillage",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFJ4bFF4SkRISDBUNzA2ZWN2THMtbzZQR1FlWHM2alAtRGRJUWtuSHVEX09BaHJzYXJubHdXMHVHajFlOGJIT3lrRTNYSFQzUXAxYVFJSXRGTE83ODZnRmY2UlVBX01rTGdGTWhqMGpFZDh6LXVDZ0o2eXVGdFpaZzNab3VuU0Z4WmQtNE84bXp6TzNNTEhjaC1PQmEwclAwTnNNR1laNUJQc2JI?oc=5",
+      "publishedAt": "2026-11-23T03:30:36+08:00"
+    },
+    {
+      "title": "Young voters must shape Fiji's future: Sharma",
+      "source": "Fiji Sun",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkV3VEExSzRUUU8tVy1EQnRvZG12T2p2ZjlEbjJ5SzJGdlljR0o4MW9uMlV5OVF0dXFkc0FIR3p1czZxQmNRNmhpNlMzLWw0ZzhHRklkS2VfY3RoT20welpxV0NhelkxajRIbW9QVXBHUXRkenY4V01yUmNPTEdOVFJPTVQ?oc=5",
+      "publishedAt": "2026-11-23T02:35:44+08:00"
+    },
+    {
+      "title": "Study reveals gaps in medical oxygen access at Fiji health facilities",
+      "source": "The Fiji Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRk9fRFVETnp0TEFrYlV6S0VMb3g2aFd0RnN3LUs2a0JQVUkta1hISUQydXFpRkwtT1Jtc2NUbmJDZHdhcEJ0VGttcDlWOXNxWHhSVHNqMnU5SDNzcUtRUUlWUm5xeVNmc2VPa1Y5cVRVNnl1TGlZdGlmTFZLSzVFUER4eWt6cmd4UkV0Yi15YWIxblZsWXItNmlQMlRGdXZX?oc=5",
+      "publishedAt": "2026-11-23T02:00:40+08:00"
+    },
+    {
+      "title": "Fiji beat Italy for first Nations Championship win",
+      "source": "Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5KVmRjZlJRdlJmSGowbHFnb3R4b2VNbkJ3WXg3ZU8xQ3hFZWJZd3ZLN1otTTRSZVlXaVdEaURPZnp0OE1BM1JyZk9LaWtyeDJ4MU5Jd3JtbDNIOU5zY0FKbHp3b0ZEZzJDY1NmOV9JTHlSSm1TOTdGbg?oc=5",
+      "publishedAt": "2026-11-23T00:00:00+08:00"
+    },
+    {
+      "title": "Prolonged dry spell could shut down Fiji's hydro dams by January: EFL",
+      "source": "Fiji Sun",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1U5UFRzZnJzVTE0Z2RDejgzdFh4Y01zZ0Qyazd6TUwtX1ltZV9rbm5rUlBUbGt0eTJ3UWVSOXEtWUd4aEN6NDJDVmhBVldwckk3dUZUeEVTNmFUSTdPYm9VQ0RES2J2RTJ3WUJzNFIzWGY4YXZrTGY0MDZKYzUzdkNyS24xeWVlVTZ5WWRXNjJYRTdBNm9faUw0dUpvalMxdzdScg?oc=5",
+      "publishedAt": "2026-11-22T21:34:18+08:00"
+    },
+    {
       "title": "Fiji names seven debutants for opening SVNS rounds",
       "source": "FBC News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSGY2OUxLbmU0emtmQ2lScWhEdVMwSkJDQUJmZkZBYWhRRlpTeEx1b0VaVHBWb0F6c3k3NlF2RUg3dUx3cU0ycG01dm9GZnJWNHlxcHhzdk9LV2VWVDRQMEc1ZnZUck9ESXpTZWtIUGZOTjZ5UWJBZzdoTDRrb0VMZjNDeVJmMmM5N3NaV3N1WmR0Q2N0d0E?oc=5",
       "publishedAt": "2026-11-22T19:53:59+08:00"
     },
     {
-      "title": "Trafficking victims leave Fiji as cases drag on",
-      "source": "Fiji Sun",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPcHJfdmQwaFMxcV9yak53R2ItYl9oeUFqZVpYdUhxMjF5SE14T3FkVnFfNmVHMTdwM19vN0VjVWo1a29ERzFGVE5WS3NzTmIxNWxlVlNPZ0RLa3JvVDFvM1E5MHI5cGF2QXdNVWJ3Z2N6WlFzbEplei1VM0V1OFFzQ1BBWXRUa2JCaUE?oc=5",
-      "publishedAt": "2026-11-22T18:55:57+08:00"
-    },
-    {
-      "title": "Every life matters on Fiji's roads",
-      "source": "Fiji Sun",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfdEQxbE0yYXZIdG1JUEVQM2NIUERlcjFWZ1lpc3VVNGlhNl85WElqRVhpQnlPWnlsSjROZkJXbWwtVEstOW90YUUzZWVObEpkUFVVa2RidllNcmU1NnNHSHBsank0S2dXajNYTUo1V1BIMVVjZ29j?oc=5",
-      "publishedAt": "2026-11-22T14:35:34+08:00"
-    },
-    {
-      "title": "Fiji strengthens european diaspora ties",
-      "source": "FBC News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZdFJNMENsYkNYbGRhMVNNSnpHSnUzNWhjOXc0ZGtNcEh5Sk9LSlA3NUFEMEVLc0hYbk0zNkZEUG9ieXFhazZpVGFHaTNweC0xNE9VVTlwMWpXQjJ1TmI4VGR5eXRKY0pHeFRuQmVndkF2RXJ1Y3M5Y2o3Qmc?oc=5",
-      "publishedAt": "2026-11-22T13:31:08+08:00"
-    },
-    {
-      "title": "Fiji launch second-half fightback to deny Italy",
-      "source": "Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVnhjV3B6dExpendFOHQ3eWFfUUk0cWxaU0dCdFZOVVJZV0lieUFfalhKdHFpNXFWdjgwQ2RlWUg3dzhEd2FZZ1NfQV9oZHdneEE3TzRDbFVBdUJUeTI2ZDNwc0NRQTRxZ3k3UXVhNm1uejZDZjhqakp2ZUdidnU3YTR6VGxEYjVNa2c?oc=5",
-      "publishedAt": "2026-11-22T11:59:00+08:00"
-    },
-    {
-      "title": "Fiji claims first win as Pacific three celebrate",
-      "source": "RNZ",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVERKTFIxM1lETThoZ1JXbWdxNUpmQjE3YVppWTZfcklzU09EempyX3ZULXdDb0VfclB0b2dRcGtPLXFHUDFhZlpNMk4teEFVVlBIRmREaW1ZU2ZBTHV3VktXRmtEWFgtNjQwaEgyYkJNRHJ4RTJVQjFTY0pFN19CZEgtdklKc2JPQXJadjFET29KRWFJOXc?oc=5",
-      "publishedAt": "2026-11-22T10:12:27+08:00"
-    },
-    {
-      "title": "Suva snatches dramatic win",
-      "source": "The Fiji Times",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5udUFJeTFkVVY2Q2NnVG1Oa0VYdGlLdmd3RjRUT1NmbXJfcDkxbHJkT2hQNWV1ZHVqR1hDbkNMbXhSSnlTVUZfQUZRRnoyaUNoZnNZTHkzNkg4Q2tybVpaWmVzR0NaRGM?oc=5",
-      "publishedAt": "2026-11-22T10:00:38+08:00"
-    },
-    {
-      "title": "Mexican cartels target Fiji",
-      "source": "The Fiji Times",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWT01UcWpvSGhpOEhBVTdueUEtUERSTkVPMEZWZjEtcVNHd1o5RWtLUklEakNUTVZSbUpjSnFqZ2k3R2VWcFFoSEZ6QmZBT19JSmVLWmV3REtDUTN6ZkRrNTNFck8xMzBn?oc=5",
-      "publishedAt": "2026-11-22T10:00:33+08:00"
+      "title": "FWCC finds 1 in 10 women in Fiji experience technology-facilitated violence",
+      "source": "Fijivillage",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTk9HZkgyR0R1NFRSOUh0eWRqUWZHSUdYQ0ExWTk2OWt1c3pyaV9Ta3NqY2NBeUtzUUxuYlgyeFI1YW9sZHc4Yl9oei0wTTV5d3kwTi1CZnZvbXc1ZWtXVU9sV0xSeExOR2E1UlgzTTJmVVFYT21SMHRiNmhvdnBNalBuNEtmVWE2cThobndkalZRaGRwbVBYU09pNGNScm8tMVlkeVFfa3JFWFVrSndaV1E5M2Ewa28?oc=5",
+      "publishedAt": "2026-11-22T12:03:24+08:00"
     }
   ]
 }

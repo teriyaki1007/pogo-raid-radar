@@ -1,11 +1,15 @@
 {
   "iso2": "BZ",
   "name": "Belize",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Belmopan"
+    },
+    {
+      "label": "Population",
+      "value": "422,924 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,22 @@
   ],
   "headlines": [
     {
-      "title": "How a rural school in Belize is shaping healthier habits, one sip at a time",
-      "source": "Pan American Health Organization (PAHO)",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUdpY3g0a1VqS3h3a1JfY2hubE1lNE8zeURvbGsxMUl1bEFfcDdkSmlUckgzSmw3aENPb1lucnN0ZzdXNk9Id3dtWFJJRmFCRmFHNUZhNHNxVHU5a3IyY3I5bUZQOENnMTRiU2VjRGhuaTN5WlBOSm1RZW9oWjdEYjVTZUpfb1h3Tk5maV9kR0JfdGtOMTVBMA?oc=5",
-      "publishedAt": "2026-11-22T01:51:19+08:00"
+      "title": "New Sugar Refinery Marks Major Step for Belize’s Sugar Industry",
+      "source": "Greater Belize Media",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQc2dXZVRjc29IWnhkQkNORXdlbnBKelMxcUZyTjNGTERLS19zTXRMdmhJaDJ1eEFHQVJaTEY5enlyQjIwd2RzU0k5MHZONHBtbjFYX0YzdWRmNWw5OVN4dGE4bkV3Q0FxMkZwMU1uVGdRaUNGQWI3ZEo4SEdtbVRqQlNiVXNZNWJ4d2g3WXZuMDhwYTh3RDktRA?oc=5",
+      "publishedAt": "2026-11-23T01:59:42+08:00"
+    },
+    {
+      "title": "Belize Advances the Better Care for Non-communicable Diseases Initiative Through Expansion of the HEARTS Initiative",
+      "source": "The San Pedro Sun",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNb0ltWE1OYTl2ZGtxTDhjSzJURWR0R2dqaXQ2dEs0SGE0RlBGWDVxUkZhZjVEQUozNloxdEtqWTBLNUhna2RXZTlrQWxoMS1fWHl6SkpaQThuT1ZHTnIxYnlTVnE0NVpSY3VtWHcySDA5N0I3dDRtWGkycVJZbVRUTVVMRHpoLWFJaGhOLWk0MmM4ZG5IS3ExbTVJcGJTNXpybzkwTXl2S05iSzdnT0F4V1dTLWtpcXAtTWcxZkxVQndyQ2pYdE5pYmVhcmhzQ3A0anZoTVBibnVOYTJnNVdUcEIzVU0ySzVfVXU1ZHJmdGc0aVlMaDhpWGtwUy02cmlwSk03WXhXaXQ?oc=5",
+      "publishedAt": "2026-11-22T05:48:38+08:00"
+    },
+    {
+      "title": "Belize wins two gold and five silver medals at Taste of the Caribbean 2026",
+      "source": "Writeups 24",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdGJlM3M4OFJodXlIek9fVXl3ZUp0eWhxUkNULVhyMlk4Wmg2amZjdGdvMy1rN3RySzNnd2ZCU3dPMHVIREh6bHVDQ2RaeG9XcXFnXzBnUjFZdVJwb2VELUtTZ3hzT3BnOXJFR3Q5OFRIZkZvSzBHQ1RIb2h0VEIyaWdyMTZubU9vcHJhZTF5MmxiSF82bUxaakdTS2dFQUUtVEtvbQ?oc=5",
+      "publishedAt": "2026-11-21T23:33:02+08:00"
     },
     {
       "title": "CWU & Ports of Belize finalize stevedores’ CBA",
@@ -48,18 +64,6 @@
       "source": "Greater Belize Media",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZFFLVGQxOGlybWg5UmpybmxIWGJPQjJWZkZFamx0SnNyeGZEb3YwYUVhLVVUTVplUmJQZVhLTUVZQnYwYUdGajh2Q2lhNHI5a2doMjdlMG9UY0FEZnJhLTFtZnMtbzRTMXk2blZtYlA3VDM3Z1BBcVpRWHFrd3F6TUY3SWgtbGQ4MHIxUV9XWl9RLTRf?oc=5",
       "publishedAt": "2026-11-21T10:29:23+08:00"
-    },
-    {
-      "title": "“Enough Is Enough” Rallies Heading Across Belize, Says Senator Dennison",
-      "source": "Greater Belize Media",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPODBtUDNwQ2lGNXZ6a0djN0hFSXJGdFd1OHp3VGNhSGhtblJZX3AtYmRxWGlIMmpXWVBwa0pzMXlPVWhaT2Fyb3M3MlNJTmtSUjhORmNURjVQUlZPUk0wNW5YYzM5cnN0RFVHR1Jvczk5WEpaMUQ4bDk4SFlLM0FJdEE3X1l4TkdKRUZsUGFJenpNYUFiN2ktZEVwTDFGZDlq?oc=5",
-      "publishedAt": "2026-11-21T10:28:37+08:00"
-    },
-    {
-      "title": "Belize Advances the Better Care for Non-communicable Diseases Initiative Through Expansion of the HEARTS Initiative",
-      "source": "Pan American Health Organization (PAHO)",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ1hsOXpSYms1MzNrV3VmZUxFclhJdDdBLWlDeERva2k5RzIzblktdnZ0Y0FSY2JCTlhzUjRYenExVWNSal9PV2JDRXU4eVJZY3JQSC1wcGNjQkhGSGlnRFhQQWNlaHd3MDNnc2J6ZjdLOUgzMDJPWDczTk1zYWFqMVFheUpRc3MzTE1GcXJUcDJ6LTZ2eXd3NENMdWlHVzVVSmwyd0FMYS1sX0RjeXZ2MnJWV25TUDJ4YzdxRV9zaw?oc=5",
-      "publishedAt": "2026-11-21T01:02:06+08:00"
     },
     {
       "title": "Belize Spider Surveys Uncover New Genus and Four Novel Species",

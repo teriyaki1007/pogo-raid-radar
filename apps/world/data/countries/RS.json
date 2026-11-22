@@ -1,11 +1,15 @@
 {
   "iso2": "RS",
   "name": "Serbia",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Belgrade"
+    },
+    {
+      "label": "Population",
+      "value": "6,549,143 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,7 +30,19 @@
   ],
   "headlines": [
     {
-      "title": "Mustafa questions Kosovo ban on Serbian power traders",
+      "title": "The Guardian view on Serbia’s new political era: a generational opportunity must not be wasted | Editorial",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc3g5Mmk5RnVoLXpkbVlWbExDdEZlN2dRY0RhaVdIbDhjakJXMk9tUWltd2Z4NXJyaDE5bHNodHptWDNGWkJlUVJKQ01oeGRDanA2MENiNlF4bkFseEZSVzAwdmdiNXF1dVZNcU5sRFFjODdEeHRydVJlMzBtLVFqMEZzMDExOTUwOFV5dy0wY24xRkpzMnFpLUNkWVBIcHJFbEZLNzhsUkFFZE1mWEpRNVB6R3BkQU1lTFlzV1B3cVZTZ0VDNGRWY0d2TGh2bUYyUE9jMTlBVVhzckJ1YXhB?oc=5",
+      "publishedAt": "2026-11-23T04:03:00+08:00"
+    },
+    {
+      "title": "Navarro on Zvezda’s Serbian internationals: \"Tuesday’s game is our priority\"",
+      "source": "Eurohoops",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY2JCUjY4cGUtNUR5TWlETlpvZHNENzZFc2tmMWhONEVIeVM3OFJES0FlQ1dPRWdST0kydVJBOG5JMXFHMk5rQzdNTkxSMUxWOVY1V1dtZEtsZUpLa2xSblRZVURFN19aQkRSeUFXVXZrLW9nU0I1OXJVcjJXQTV2bWZNaDQtdHBUM183dFp6cDJsN3R0RHZ1bkNwMmpnNkFwTWFHdWdoWkpWdGZkcUdUWTk3dU13MGh6b0VDdA?oc=5",
+      "publishedAt": "2026-11-23T00:53:00+08:00"
+    },
+    {
+      "title": "Mustafa seeks clarification from Kurti after decision: Can Serbia sell electricity to Kosovo through non-Serbian companies?",
       "source": "Nacionale",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3BtSXB2bUtiSUxwb0M2bk1TcWxzWkw2SUlzUmgzNVEzcTBlTEFrWUN4UkdmdGFSSHl0VHcwZzB5U0R5Q3FCQzVnSzhvZnphb19nMS1tZF9uOGJGOFVCQ013ZEhMY29yRXA0WXF2aW1XdVdLczZrR2pZbXFGSlFYQWlnTktjR25IMXBNelBEUnhZV0p1cjF0SDR2bmVmUQ?oc=5",
       "publishedAt": "2026-11-22T19:43:57+08:00"
@@ -56,22 +72,10 @@
       "publishedAt": "2026-11-22T16:41:38+08:00"
     },
     {
-      "title": "Mustafa: Government should disclose which Serbian companies have traded energy with Kosovo and the value of imports",
-      "source": "Dukagjini - Lajmet e fundit",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdDllaFNiUWg2Nmt0RXpRRjRROTNjUklmZ0t5ai1sdk9tNE9SUXFySjByaVlDbFBwYzMwazFSeTdsUDFPUU5zYVRIY3JXaDFLTHlOa1dQdHdMOFY2dUZpTWx2Qm83YUVCY1FKZUdaVjh1U19LaVEwVDhfZ0VNWEdiSVFfVUJzeV9qZUJHWjlfWFRmNS1rX0s0X0FMMzdiMjVRS2NBVkxPNWNSMnN2ZENNd25B?oc=5",
-      "publishedAt": "2026-11-22T16:36:54+08:00"
-    },
-    {
-      "title": "Air Serbia by Bulgaria Air: Bucharest - Belgrade",
-      "source": "EX-YU Aviation News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdUsySmp2Y3lYa0NSaFpfNjcyUWtKc1NmTTNqdDlTeWtsVUJONEJ0MjdmU0dQczlvUGZmZDdJRHJ2dnRFWkVhMGV0cUJGOEx3NlJPbndZdWo1RndrRWY5TnFQUTFtT0IxSkQxLUJreFM3eFhTX0ZaWU1RNzcxMTVVVHQ4NVo?oc=5",
-      "publishedAt": "2026-11-22T15:59:00+08:00"
-    },
-    {
-      "title": "Serbia’s student-led government wants cap on reality TV and four-day week",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ01sRms5SFo3ajZmWlhidHBlUURFV3Q2a05RdXJNck52aktsOXV3U2gwX1I0MmtVV0J3UmY2Z1ZhOXRUS3AxTXlZaDJCMHJYc3ZJN1JVU1AzUUszU3RWYlhTNUc3Z0J3V0VUTG5LQUtQeC1DMnBJT09lVEFPRkhybUhqSEpUR0J3ODNuek50VF9feFBDR2JhOVZJbw?oc=5",
-      "publishedAt": "2026-11-22T15:00:00+08:00"
+      "title": "Turkey sends truckload of medical supplies to Serbia",
+      "source": "Yeni Safak English",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSkZaUFBUNzE4VmV6YkpKVkZrX3lPZGVOVy0wMGVvRnlYbEh0TjI1cDQzQS01ZE9ZdlRwemNINVVOVGxWbV93UnNJMHZfZENZZnQyLUtvSVRxVzlINFlsS3F6cU1hTnRjSXJCQTd0ZmNyRHlDMHJMTEFKdXhDZWtHT25JNHN4US1LRmFKZFFrZUJhbjY3RHc?oc=5",
+      "publishedAt": "2026-11-22T16:41:37+08:00"
     }
   ]
 }

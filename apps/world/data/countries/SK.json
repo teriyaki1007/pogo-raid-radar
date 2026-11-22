@@ -1,11 +1,15 @@
 {
   "iso2": "SK",
   "name": "Slovakia",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Bratislava"
+    },
+    {
+      "label": "Population",
+      "value": "5,413,813 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Slovakia reaffirms refusal to send soldiers to Ukraine",
+      "source": "وكالة سبأ",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02UFVFd2hhZkNaWnY3UlV0OGg5OTFEQ2Y3REpLNFgzV05GRGxFSDNCYzBPTDNsTExWU19hUEVhZHRzN2FDUkM3bElRXzhIZW8?oc=5",
+      "publishedAt": "2026-11-23T01:08:16+08:00"
+    },
+    {
+      "title": "Slovakia refuses to contribute to a new EU loan for Ukraine.",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdk9SWTE1VHVLeHFNY2c0NU1yRThZWERiakY2SWFpQ2NLUmFHOV8wUEQxNkdRdS1aU3NkTC1VYzE2NzFlcUlvbVRtakotbnJDOHQ5UmZyX0FrQ21IVWZkamxUZkI5aWFXYWkzU0NMcHFQY1hhYzlhZi13TkdHVkdsaEtGS1hsZFgxYzczajh4N2lZby1pRDJUaw?oc=5",
+      "publishedAt": "2026-11-23T00:01:21+08:00"
+    },
+    {
       "title": "Slovak foreign minister hints Ukrainians were behind the invasion of Czechoslovakia",
       "source": "Українська правда",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiQ1JRNXFaRXZlVUZ3ckdGYlNzX3Y0Vk9wSFUyVFZFaW92QmstRWVKbk5xQmpRTEpyMWp2dkxlaHppUGwzWkdSVHBrQUhlMlNfQk9qU1lzNkZMX0QySmlWaU1TWjjSAXBBVV95cUxOZ014YVU1WjVUOVZNQ1RZZ1VtLXpvOFIzNHZEV0F0TDNoTEpFMnJneE84ZzVrU0pIby1fcGtUUXZPeDBtOEpaQzJCcmtZUnJ1WWVYV3Y1ZGtTdGRfX2JGY0ZSbm5ybFBqZXZMNGhlNXZB?oc=5",
       "publishedAt": "2026-11-22T21:55:00+08:00"
+    },
+    {
+      "title": "Slovakia refuses to join EU’s new €45bn loan for Ukraine",
+      "source": "112.ua",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSDhIOUF3dTczeWZCY3MyMmt5TkdMZ3hRNFhhSUd0RHM3ZTZhQnF6UVFSMXdxeGFjSV9UdmFFUm1TX2I2TXhMMllRd3dBbld2WlBEdVNjSjdoOXgwUUJwZ2o5RWQwS0NQVmxuVVA3WGtWajdJaUtwLWo1M0kwY3VDOFJxT0NDVFlJV04xcXRUeWpvUVVPRXk4aGhTb0pqaVp2RmNqTURn?oc=5",
+      "publishedAt": "2026-11-22T21:48:25+08:00"
     },
     {
       "title": "Slovak PM Robert Fico Says Bratislava Will Not Join New €45B EU Loan Program for Ukraine",
@@ -54,24 +76,6 @@
       "source": "Report.az",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdjAxV0pZTnZnVms2ejdOWWVfNVJGUnRaOGMxLUhPYVVGOWlEY0JIUUVXSnE1U1g4YVNkUjVtRXc3Sk51RTdJWkJ1SWNHaTlleUliS21GM3pidmNKdldTbXFxdlhoZ2g5Z1FCR0RZYjg0Zl8yWnFWWnZCMVN6UUZyWlZlSVlRQTRNZHhDTHhMa0pfOG5mUWFfUmpCUkR6TUpLdHc?oc=5",
       "publishedAt": "2026-11-22T15:48:07+08:00"
-    },
-    {
-      "title": "Slovakia refused to participate in the EU’s €45 billion loan for Ukraine",
-      "source": "Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQTRLLXVqWXJnalVXaHdXTUlsUEttMXdFOTFBZkZzVFVkN3NGV0RlNFlWU3FCVnM5T1A0VDhaY1ZDRkdqRHZVRHJxanhMaGdRcXhEMFQtb0hoaDFuMWZXQWhMTWtqbzVrRHFlbDcyaVpKZ3RQMDVLQUxHSURqUEZ0WTU0TlNjeER2ZGxZUjlvX05MWVdRUUdvSDhuTGI5d9IBnAFBVV95cUxOc08zc2tRa0xFdUlrZU5OWkNsb2VraTVEaHR3bEFyVG5uX3AtVzJOeEJmdndvYzlSczlTeTdVbFFpN0dubXZWUmtQUUxBT2YyZ1RKZEJLc3VocGRMUWR2SDdheE5sMHBsMm1keU9wX3ozZ0kwclRybmc1eE1NbmU4LU5lQXZacmZjbFFhbTNwLWZENFdmZTdTSmNvUk0?oc=5",
-      "publishedAt": "2026-11-22T15:38:10+08:00"
-    },
-    {
-      "title": "Fico: Slovakia will not participate in €45 billion EU loan to Ukraine",
-      "source": "Apa.az",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbG91bU9Ud1RfNFVBNUptWmtsbHVocV9GSHFfQWh1aWhZOWt3M205TnpuSC1jQ2xEZXJCZ2gxWmsyY0lNQmRMcWlwWUhQYm5UUFZnaFA0U1QtZHJHOWdzS2Q5TjZ0Zk8wNk8xM0xqRUtNeVNTYWluTWsyVzAxNjByMHhaRS1hd0M2QVlEMFd3MWtzMHJaNWFTOF82V29nS1lpTFJ1cA?oc=5",
-      "publishedAt": "2026-11-22T10:34:00+08:00"
-    },
-    {
-      "title": "Mama a Tato sú Božskí arrives in Slovakia with Slavic fantasy and hybrid VFX",
-      "source": "Foro3D",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSHQxYTlJZ0JpRVIwa2htaHN5am5lNmtKSFZJYy1lVWpQY0dfbVo5U0xiZW1RcV9xcDZTQXV4cDAxcU1fOEM0MWVHNzJkbU9aQlZZTnpkVS1kRWRuc2h6dlZ3OWN1VGNQb0JJU2VoVnNQOUNEX0wxenZ2X1JkbTY0eFItNFlOT0tlbW1Ka0JXZ1c2LS1tenZoYnhfdjZ0QmxuUWtuRDNHR3JFMmFnLTVaS1FB?oc=5",
-      "publishedAt": "2026-11-22T03:54:09+08:00"
     }
   ]
 }

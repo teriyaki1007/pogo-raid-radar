@@ -1,11 +1,15 @@
 {
   "iso2": "TR",
   "name": "Türkiye",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Ankara"
+    },
+    {
+      "label": "Population",
+      "value": "85,878,556 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Mag. 2.4 quake - 24 km north of Cubuk, Ankara, Turkey, on Sunday, Nov 22, 2026, at 02:27 pm (Istanbul time) - just now",
+      "source": "Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTW8zUHk0dzluaUFINE5Od1dmSG4xczlvMExyUnhCZnNQNFAwVFhNcmppRlBuTi01Qk8tRnRiMDdqcnRJMm1YNUJMbEJnQ0FwMHRnTTEwem9fWDBxdjZiUmhjMEozRjN5OG9wc2Q0YnNSTDF4WWJVNlBsajMxZUE4QXVrNzRueDZLMkF1TThMYXRGOFR5VDJVbUh5Rk5XSUNZS1hiUm5LNTlTZw?oc=5",
+      "publishedAt": "2026-11-22T19:34:00+08:00"
+    },
+    {
+      "title": "Weak mag. 2.1 earthquake - 4.3 km southwest of Beypazari, Ankara, Turkey, on Sunday, Nov 22, 2026, at 03:25 am (Istanbul time)",
+      "source": "Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMWhvanlYOUx2SE5OZ1d4N0VoYTRObmRDVDBhQ2lhN3oxMHppejlCZkUxZGl4anlGS1RmdE9ULU8xUldBN1otVDdTYkF5aGE2SjFNX3VPUW1sVElKSU5SbE9lemNxQUcyOFlLVVdWTGwyTThKMDhrTFFHcDZXQzVfWVlLTUJMSEl6djVkNzhVTGl5M2RyRTJwOGk5c3o3T1hESm1oVHlSYXdaUQ?oc=5",
+      "publishedAt": "2026-11-22T18:45:55+08:00"
+    },
+    {
       "title": "Türkiye, EU conduct technical talks for visa liberalization: Fidan",
       "source": "Hürriyet Daily News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXFhb0JMb1JzS2djMi1MZ0FxMTdTTG1MMWZxR3AycXFZVGZfVm1XNEJrUkduc0RQdHo4di1XUkNFeTFlSEhCWVMwTWZLY1JuV3VkU3BidTBVRDd1Y1ZHblJfTFI3UmYzUVRzanlYVUtpdndQZ1M4dVh3aXhmQ0ZjZXB3WTlpbUVEVVFLNFBwazVKOHNBWFFxYjh1RE9vX2pza1hmZHd5Njk?oc=5",
@@ -44,12 +60,6 @@
       "publishedAt": "2026-11-22T15:38:00+08:00"
     },
     {
-      "title": "Weak mag. 2.1 earthquake - 4.3 km southwest of Beypazari, Ankara, Turkey, on Sunday, Nov 22, 2026, at 03:25 am (Istanbul time)",
-      "source": "Volcano Discovery",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMWhvanlYOUx2SE5OZ1d4N0VoYTRObmRDVDBhQ2lhN3oxMHppejlCZkUxZGl4anlGS1RmdE9ULU8xUldBN1otVDdTYkF5aGE2SjFNX3VPUW1sVElKSU5SbE9lemNxQUcyOFlLVVdWTGwyTThKMDhrTFFHcDZXQzVfWVlLTUJMSEl6djVkNzhVTGl5M2RyRTJwOGk5c3o3T1hESm1oVHlSYXdaUQ?oc=5",
-      "publishedAt": "2026-11-22T12:45:55+08:00"
-    },
-    {
       "title": "Turkish foreign minister says Ankara keeps Gaza on global radar despite other crises",
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOclU2X2hXYkhUaTd3N1BILWQ3OGdqNlRTWGVLYVFMRG9BcG5UYXBZNl93WXBxS2lNYWt3QWhIUHdHaTNaZXlPcUx4MEdGUzloRWxqNEV1bmZJemRvYXJEUW5qV0tYdVRtdGRVd2lxVWdFZDBMOVlISmxYYkp4UzZnMlNYNksxcUxJTFAwQTJZY3c0emE1ZUpnN1NuVmwtcEtmTE9ZR1BLY1Z6aGNKS2diV25kcHM5OUhOeGNyYTFrbnIyUjk3?oc=5",
@@ -66,12 +76,6 @@
       "source": "Yeni Safak English",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnlZWFBmVUxWeHR5S3FDd2hZc0dZSHVVOXJHZmxyT1BnS2tqM3lkTHRhcGF2Qjk4TjNSSVRHcVZweGtFQWNCUHRZT3JRNDlxd1JFYUlXSUU4ZUlEejh5X2hWblRpMERodlFxRDRHT1llTC1MeElPM3VaclYzY0w5RXI4YjRoYnI1Q1FkcjBKMERQUVJ2OFpYTU5B?oc=5",
       "publishedAt": "2026-11-22T02:51:18+08:00"
-    },
-    {
-      "title": "Turkey approves deal to build new Somali embassy in Ankara",
-      "source": "Somalia Today",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbXhvWU9YbXAtNmc4UnU0aXBHSll0VEdkXzJOdU43bENqSjR0NUlRMHp3SzRkeS1fZy1naDE5dUJCakJtXy1OQWlfS0dfVU1mMWNLSXZyV2RILVVJWjVqdWtKNTJoQkg4c2xhbl9NWlJfaXhQUWpPQTdWa2gyb0cycDlVVFJtX2tuZ0xuZVgzdmRvVFl0VG5UMFc3ZnE3RFdpQ2c?oc=5",
-      "publishedAt": "2026-11-22T01:17:18+08:00"
     }
   ]
 }

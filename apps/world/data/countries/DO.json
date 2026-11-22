@@ -1,11 +1,15 @@
 {
   "iso2": "DO",
   "name": "Dominican Republic",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Santo Domingo"
+    },
+    {
+      "label": "Population",
+      "value": "11,520,487 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,34 @@
   ],
   "headlines": [
     {
-      "title": "UAE to train 1 million AI coders in Dominican Republic under digital drive",
+      "title": "UAE to train one million AI coders in Dominican Republic under digital drive",
       "source": "The National",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXpvemJkeWhzekM4SlFWb2dxN1BPZ1JBOHAzQXlYeVZiTDZ6WEhXQXJRWkxZTjJ0VXVDNVdNRTRIaTJFSk1rR20zTmVCTWJEMlBNUDRONF9ndjFQQ2ZvUDBXY1p4MTNPNTVtSXhBYzVMclV1MHlRNnB6UGVLSlJBSUtXZjBmUkdFMDhrV3hYek8tN1MzcVhaZDBRcHk5X1JzLXQ1VGlMZE04MEg5S09DSTMzX3ZSTE1Qc29qd0FtM0VfTW1Eb1E?oc=5",
-      "publishedAt": "2026-11-22T21:15:24+08:00"
+      "publishedAt": "2026-11-23T01:52:54+08:00"
+    },
+    {
+      "title": "Miches, Cabo Rojo and Puerto Plata lead push to diversify Dominican tourism",
+      "source": "Dominican Today",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWjd4WXI4d1dZZi03VVQ4MU1XcHJUYzZuekkyX2RWVWVVTWdMeWtQRklCMlpDenJJRDhfMXdCYUpOMTN6ZjFrLURQVGc3ZC1qcjlpbGRwWnEzVlBJSlpMaDNnV0NHUVlSbjcxNUt4LWNlY0VMYl9uSXFpaGluaXZXVDlVbDlTZ2tHdE1RSTBmZmNyWUtfX1JlOEFmZUpnTzJHekxEcw?oc=5",
+      "publishedAt": "2026-11-23T01:00:48+08:00"
+    },
+    {
+      "title": "Dominican Republic issues state of emergency over virus",
+      "source": "Yeni Safak English",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbmdlQldJM3RNYzU3Y05yaHlraVplQVZPZWxocFdqWUY2OGFrdTVZNEFlVmpmTm5KU2x4eVNsY2N3d1BtczlhcGlKRExPb2c2SmllMldyWllGdGZwaFpmRW9VaFMwNHJ2NTMta2xnZnVfVVRzQU9rUkVVcGI5UEtYbThQT2cyYmhvdFdUang3U3EtMHJvVmZJcHR3bjQ?oc=5",
+      "publishedAt": "2026-11-22T23:55:58+08:00"
+    },
+    {
+      "title": "Weak mag. 2.4 earthquake - 6.5 km northwest of Santiago de los Caballeros, Santiago, Dominican Republic, on Sunday, Nov 22, 2026, at 01:34 am (GMT -4)",
+      "source": "Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMlZTNzhETjZfYlhGMlVQY0pJQTkwSDBqQ1lLMXFKSEs4SWkxVE9ZUlNNMHZfVGhGblBoVmZUOGpTd3JFOGpEQS1acWxZVXdEQkR6UlJnNXlrS21RV0hoTGVkZjdnd01DVmpwRTB2a2ZWZmVIcXB0MjduWmk0VFIyY203ZEQ2cDJIa3RDWGFqUGxsbmNQcWtKQjlvLThMVWE0b3IwdFI5VHpwQnZlN1NtWkdMeXoxZzRr?oc=5",
+      "publishedAt": "2026-11-22T22:06:06+08:00"
+    },
+    {
+      "title": "Negro Veras laments that corruption and a lack of transparency prevail in Dominican society.",
+      "source": "Dominican Today",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTkVSWUlpYzkzSFVvMHg5REJONEpodWJCRWVlY0xEZU85Z0Z0Nk1ZMFZnaXB5OW1NNDVXTUJpeWdVZjl5MU9kQkl1R3FVRXVsZVJINnRWRG9kUjZGTDJScnZiLTV2S3NCaDdDanF3VDVZd3R3VllHSWhNdkMyNUhWLTh6dDJEeFRWN1ItUzNiT2cxWG5yRndGOGZGMmR1YUlXZzZTelNreXowd1g4NlJubHAwTERYNzQ0Q2Mw?oc=5",
+      "publishedAt": "2026-11-22T20:00:04+08:00"
     },
     {
       "title": "Stranded in the Dominican Republic, the Cadeddu brothers' ordeal: \"Every day the announcement of their departure, then everything falls apart.\"",
@@ -44,34 +72,10 @@
       "publishedAt": "2026-11-22T02:37:18+08:00"
     },
     {
-      "title": "How service in the Dominican Republic brought Humana’s purpose to life",
-      "source": "Humana",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVBiVTNCY0lJQUdYUTRnYlFYTmwxQlhkTWxhWExzX2dTU1NkLW54RkcyMTRMcm5lNW91SGh4ZUFwcnN6VmpwRjNaSXAwUG1KMkVneUhsekRkR3JNcC1QalRlajFTaVVMZWZibjdLcXh0Y29mUVR2LThieWV6WlpqNk1jcE43cDktR3FZam5R?oc=5",
-      "publishedAt": "2026-11-20T23:54:19+08:00"
-    },
-    {
-      "title": "IDILIQ Group to develop Wyndham Grand Cap Cana in Dominican Republic",
-      "source": "Hotel Management",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTFdibTl0VHRlNTdpSEhLb1RuLVNEczNKX0V2NEIzaGozUXVjbWhGRFJEck1XM0pBTUppbXN5b0R5NVo3QXBNTTVuaVB5UmxGMVE1aV9DU2ZscExESzV5VUFqLXJTbUxxcHU0aDF5QXVGWWpPNDNaSFAzaVl0MzRFN1hRQ3ltNnhnbFdaZmcxWXpscE9RMGl1QTF6d01pajBsU19SVzllMnd3QQ?oc=5",
-      "publishedAt": "2026-11-20T21:00:00+08:00"
-    },
-    {
-      "title": "Mercer students create STEM learning lab in Dominican Republic",
-      "source": "Mercer University",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSEU4MnJxNjAzczNsY19TN2ludkZJZWN5Vm1TMEEyS1hnY3VOY3ltd1lvRlhaUTczLXhrVDBuUEF6MDdReUtkaERPVjFvZTc3RFZRc1JsYjlqWU1EYmZJcFNYRERzOVk1NmEzUnpKWXN0T1lnV1lHaDRoamo4Yl9jTFhoT1puYUhpYTY5TVVHVQ?oc=5",
-      "publishedAt": "2026-11-20T19:00:00+08:00"
-    },
-    {
-      "title": "The Dominican Republic Is Helping Rewrite Global Rules on Free Education",
-      "source": "Human Rights Watch",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcjZqUU1JbElxYjNnRDhMeE45eVQ5b1RYQnNCcFoxaENJTjdGeVh1Yl8xXzY1XzdjWEprVVF1RHNGQWhZOVNXeFJuVm1vb2szX21LUjlxMGUwWnhYcTlPbkoyV2NDODl0bXpoZzlQQWdDS2F1RWdNcHdxSmJhT2xHMjZNanFRWXFneXNmMlI4SWsxNFUtWUJGR1pHS2JjcVBpeHhMQWNKWUk2TnBl?oc=5",
-      "publishedAt": "2026-11-20T19:00:00+08:00"
-    },
-    {
-      "title": "Gregor Chisholm: Vladimir Guerrero Jr. wants to play winter ball in the Dominican Republic. The Blue Jays can’t allow it",
-      "source": "Toronto Star",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPRHlvM25WTTNzanBQQ3hFZ3N5R09Ra21BV0dDckx6MzhfcWZKckxwQ1lSVEltWllWMXNvbU8tajZSSFAzNWhnVFJRcTkteGRBZmhOLURlcjBDczB5TzhyenFnOFZyR0hBUmxySVlzWDRiMTZNZ0NlM2NwVGVsZV9uYlA0VDQwNm01dktCaVlFYmpPT1d5Zk80WDNzZHhiQWNSX1hhMVltOGhIcnNEcmRPRnRJakhhVHFqMm1FbWdQU01LeEpwYXZsaHNpWDN1U19JVGU5UllJMnlzdU1rd0ZMLVVGek9aMXl5RGxUNE1Xa3RqQ2xLZDhzWUc4TzFCQzgtUi04aE5WU0FFNTdKR2hNMDJFNHRjbUR6WUpHTw?oc=5",
-      "publishedAt": "2026-11-20T09:30:00+08:00"
+      "title": "Moderate mag. 4.6 earthquake - Caribbean Sea, Provincia de La Altagracia, 26 km northwest of Isla Saona Island, Dominican Republic, on Saturday, Nov 21, 2026, at 11:00 am (Santo Domingo time)",
+      "source": "Volcano Discovery",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeUxJbWF2VG5xTU8wWnFnOWxRMTlmOXhMU3pvZlRuNEhzcGp2dk01ZWVoZEV5dnFoSlN4WVBvWlZVVjJvS2pRTmlaa3VubW9MVE45eEYyMWEyLXd2eTFwbDNpdEk2ckQycXpWMmpVeFBPc0VpbkFGblB1N1d0eGFYVFc5M0Z1RzlVcHBjcm5UTVpIazBfeHVpSjFFeGt2ajY4bHVQZEtEZkp4WUxiOWZVcENRaThqeXhOODhRTmQ3R3g?oc=5",
+      "publishedAt": "2026-11-21T23:57:26+08:00"
     }
   ]
 }

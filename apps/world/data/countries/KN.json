@@ -1,11 +1,15 @@
 {
   "iso2": "KN",
   "name": "Saint Kitts and Nevis",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Basseterre"
+    },
+    {
+      "label": "Population",
+      "value": "46,922 (2025, World Bank)"
     },
     {
       "label": "Region",

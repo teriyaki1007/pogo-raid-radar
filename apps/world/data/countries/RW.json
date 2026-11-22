@@ -1,11 +1,15 @@
 {
   "iso2": "RW",
   "name": "Rwanda",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Kigali"
+    },
+    {
+      "label": "Population",
+      "value": "14,569,341 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Polish technology aims to cut Rwanda’s milk losses",
+      "source": "TVP World",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNFlpUHVMaGR6N05mQzI0S293YW5lV2dsa0xEZnYwUnJSZUphSjdvUi0zMDhNc2lPazFNdGtzSWkxTk84YWprbHB5ZG5BV285SHljemI1Y2t1OWFId2lEa0NPb1ZHdlh0SmRuOVNDQkdRSktPdUk4aVYtdUMyUVF6UWl1Y2hFR0hqTXc?oc=5",
+      "publishedAt": "2026-11-23T03:51:00+08:00"
+    },
+    {
+      "title": "Vines, Gorillas and Community: The Vinmusa Story in Rwanda",
+      "source": "Wine-Searcher",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaFF0MGpEaVdONG1WdTl1cGJkdFFLeURya2x3N2dYUzJ3S3pCNTNuVFhycURYazBTdFE2dkw3SVJ2S28yajBqMDNEdGlRNmlqZkp2c3JNVW0xZlNVa0NDNVBTTTRLZ2hEUDJ6dG9PYlozS3M5NmxmS29nMk9IQ3JSUHNKd2hIQWU0NHZtSmUzNHVwUHo4YTBFSEZLX3k?oc=5",
+      "publishedAt": "2026-11-23T02:33:51+08:00"
+    },
+    {
+      "title": "Is Europe’s Rwanda deportation plan just a political bluff?",
+      "source": "EU Perspectives",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbmdlN0g0T1VOMEpBSW9zLUZsYTVSOElOV29mSE9QZDdHSEVtUElnOEVidXZLdzNPU3dGWkpkMXZjRVBNT2w4Z0h0QmJjSDBJVzRSWG5KaS1rTkNEUEhYMGVZZGhkZnFvbkZHMC04MGxiOHZRNk5SVnYwSTAyM0FzQk4wbFVCeU5ZWmdWbTh3MVMzaFREdmw4?oc=5",
+      "publishedAt": "2026-11-23T01:51:40+08:00"
+    },
+    {
+      "title": "Grange meets with Rwandan delegation after tragic death of Special Olympics athlete",
+      "source": "Jamaica Observer",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLTBtaFNTbUNoZi1GeVB1bVdrMGdMRWVtaGdKU2p4YmJUWm5mbEdyWXhTRnM3bkFDTzRiMGp0d0JvS2RYQ0RhU3FtcWozOE1DRFowcW5aYzV6Uks5UjBxc2NOQ0pIU1Z0ZEIyeG1yWUdWWmhwc2M0V24xRG80T1VyeVcyTjZ4dnRjV0Q4cUpKQm50dlBWdWZqSDhVdkc1YUNMQTZsMHVFaFpieWNaSDFFTzJn?oc=5",
+      "publishedAt": "2026-11-23T01:18:03+08:00"
+    },
+    {
+      "title": "The options for UK's new small boats deal with EU – including 'return hubs' in Rwanda",
+      "source": "The i Paper",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94S19wTGkwLUtBYmdxOXk4RURfR2toWWd5THlIbzBUVnVkMXNKbm9WZ25KOExTTmRxSG4zVndHR2I3ejRNbTktNzdMRFZ1bi1tVlRxbXVvc1IxcGk1cmJNeVFHR3pOaWstVXRQX3FKNzZja2tY?oc=5",
+      "publishedAt": "2026-11-23T01:00:00+08:00"
+    },
+    {
       "title": "How an Iraqi Refugee’s Search for Belonging Found New Meaning in Rwanda",
       "source": "KT PRESS -",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV2RPR19YY19SNzYzdFFIY29ydE5xQVRVOE1FZ09xUzk4UU1BNTltQjZmTEFlTHNkN2RaV1d2MVV3ZUxpS0pKNGhjSldCU3F2SXZjMVdTX3hybU9NcE1LaUhkRU8yRnAwYXNTdjc2eHpKcjBKb1VFYUVDdzk2TndpcFFvRG56UWdmXzBadkFhOHRmWFZELUtrb05nd2xnZmJGNU5PaQ?oc=5",
@@ -42,36 +76,6 @@
       "source": "Jamaica Gleaner",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaURHdDVzRm5QYkhSR0JxNkNvdlhfV0c4eEVlTHQ4aGNVTTF4anlCYjlfclpoaDZjb25xd25UOXhCNW5kSjk1eVhsX2p0a0hTVEctaVFybndJV1M2NFNGLXpwcXVjSzN1NGo2OHl4YXkwVWZrQ1plRnY5QnQzNEtGaUw0b1AtTG1CR2lQVHUwdFNLandxcmZKdlBUU0FJZk1HQWdQekxsLWV4WEtLSVdCN1d1Y1NTakVCWGpsbA?oc=5",
       "publishedAt": "2026-11-22T14:11:19+08:00"
-    },
-    {
-      "title": "From Cape Town To New York, The Rwandan Designer Showing His Work At Angelina Jolie’s Atelier",
-      "source": "Forbes Africa",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOXlBSnpXUFpDYl9IREJfbDhNaEh6YnZBNTJ1Rjcya0FmU2ZqNnVBYzNONVF3bEl5YU5UcGM2Um91THdZTFpadE9rMko3Z2haNUFWZVNSbDl5T3RILUoxc0RmZ0JCaWNWcjY1Z1JDSml6TFpaZnoyOHltN0lYYXBPd1o3QzVRNGxYaHdZY3AxRkEyd1V1ZkFPaW0ya1Rzd09KcHUzOTU2SWVES25WTnBGRnN6TnVUdHQ4UUhicFlsc1h4YnIxNGtTTVVWVHVIY0l5aURrWEhwVWJwUllsNU5IZUdR?oc=5",
-      "publishedAt": "2026-11-22T04:46:00+08:00"
-    },
-    {
-      "title": "Lacy Hubbard at BICC 2026: Cervical Cancer Elimination Lessons from Rwanda and Bangladesh",
-      "source": "Oncodaily",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vcUNEMDRhR2JpVWp3YTJDMlpnVFhXZDlzZlIzaWZLVkNDdS1fTWF4aV9BRWU5TlJCdG1GQnRTc3R2UldLVHptNW5LUVNFYzBMSk9PWWdSN2JFNkRqMk9jRWxPTTlnMi1TcW1GbWNpcEl3Zw?oc=5",
-      "publishedAt": "2026-11-22T01:43:30+08:00"
-    },
-    {
-      "title": "Rwanda Health Gains Coincided With Insurance Coverage but Direct Link Remains Unproven",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXUxN3djSUlMVF9LYmh3bTFWRVF5NllROVNnMzhWdk03VnFDVDU4dGtrbzZCbERjbE1MWmwyWDhpYnBZTUNWcWRGR29PcFhWSUhxM3F4MldTVkVuMmo0Q1FnLURkUWpTTkVodHFLOE51TmREbVZiemRqWE1SMlktWU5XZ1VFNkJGTHZRVEhoejJfWUZaZkh0NmwzcUFpcWpqNnFRTl85bVVjemZYWEgybw?oc=5",
-      "publishedAt": "2026-11-22T00:47:55+08:00"
-    },
-    {
-      "title": "The Hotel Rwanda for Refugees Shipped from Greece?",
-      "source": "The National Herald",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZVE5RkszTmJwYmdHZGUxOEFWNWYyV1FhU1ZXcjlVTjBiZXl2V2lvWEdmZnpTT0tUSWxoaFB3NUJEQVZXLThTanA4SjdFM194ODh1VDJRYTdiT3BtYXdFcEZkcUVBNDRDZHZDVnVWUVE1TTd1UFk3MmFRcUNSUWthcmZCVDRPQmN1MmhQUg?oc=5",
-      "publishedAt": "2026-11-21T20:06:55+08:00"
-    },
-    {
-      "title": "Five EU countries plan to send migrants to Rwanda. Is it legal?",
-      "source": "Euronews",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORGVQaklpNjVBWVZESllRQWFla0ZManpBSDFmSXNfSWxWeUdfM083a1lmdVJZSTF4Xy1STFVBeDVTa01aZXNiUmRDUEdMVTBubnBoUVo4UDdBaTF6S3doOW9FUjBNUUYxQ1RQNS1wMUJrc3BmZWxrY3A3eEhTbTFJWFc2TFZfWEpkOW1VRVFWaVhiYnY2cDlSSFI3bE5JUQ?oc=5",
-      "publishedAt": "2026-11-21T14:00:14+08:00"
     }
   ]
 }

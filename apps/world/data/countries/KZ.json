@@ -1,11 +1,15 @@
 {
   "iso2": "KZ",
   "name": "Kazakhstan",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Astana"
+    },
+    {
+      "label": "Population",
+      "value": "20,843,754 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "Royal Jordanian considers launching regular flights to Kazakhstan",
+      "source": "jiji press",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9CWmtKblFURnpMaGNxLVJZV1REQVpEQzJXWi0tSEg4WTk4X1NELVM5bzBvV0RFTlpUSTBYdk45YlhRX21xSF9OT1pzMkU4XzRZRk13MU5VZDRLejNVXzRvRGg1My13RFJ5YzJLZzhPY1REVEpudU5LblJ1d29oZw?oc=5",
+      "publishedAt": "2026-11-23T05:02:03+08:00"
+    },
+    {
+      "title": "Kyrgyzstan outpaces Kazakhstan and Russia in terms of freight transport growth - EEC",
+      "source": "AKIpress News Agency",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWnhkNUdEYW9lcFhMY3NMb1RyUDdDaHdpTXl0clpxVXgxQ2hkWjZUTDRnN0hNcjhEcl9TZTRCX1RWVVlEbmQySWdHdjlPQmc2bkw1SHhUTGh6X0xrVkdvc0o5XzhGSWpFblNHTXViUEVrR2hHYmZhU05Ga2U5eEZGZXAtdDdQNDRpUzI2bXhIRG1zbTZha21yTHhrSnMzUFJNbUhiTVNWVThrRmJLY1dJQ2RFSmx4SmFQdUE?oc=5",
+      "publishedAt": "2026-11-23T04:42:00+08:00"
+    },
+    {
+      "title": "Selling ‘success’ courses in Kazakhstan will soon require real credentials",
+      "source": "Kursiv Media",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQnc0M0tyNGxBN0RmU3hfcjFhV3ZWY09yMUZKT185am5IUUNXel9GZ01XMExvMGU5QlVfMVNNT1k5V19yOEtiemFkNVhIUzVQQ1luQzV5UXdqV052MDUzajFfS1FvUml3SkVWR2JOajRmbkkxeWNwWkE5dmxJV01VVmFDZ21GNUpFaGlYb3c4ejFXcGR4VHNFd0FDLXFIeF9BSElpYWRWVzk5cXRNRnI3Qm5KY1dKZ19CbWZiM1VR?oc=5",
+      "publishedAt": "2026-11-23T03:15:11+08:00"
+    },
+    {
+      "title": "Kazakhstan, Algeria agree to launch weekly flights",
+      "source": "jiji press",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01WUFQUExyelJvZHBZdHZYUjJnc0k2MVRLaUh6cTdwdzNJV0d1UjZPV0kyZ1lSRDdrbFMtVXFQenhRdDFlaThfdWVlejdNelFEcjRXd0NGN0daaW9EYjljNGx5c3hhSkdiNWVRWmkzZS1jcDNtaUJBbTdWZWpFQQ?oc=5",
+      "publishedAt": "2026-11-23T02:41:39+08:00"
+    },
+    {
       "title": "Kazakhstan To Start Work On New Gas Pipeline To Russia",
       "source": "russia's pivot to asia",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjhidkFFZ0VtWXdSbFFCU2lSNmpxRVN5V2lzM2JyY0FQYzZlanpDUmkwVC15bHZ5MUZlNzVlT3liWXdVNVlESkFoRmc5QVBucG13NEZGbWVVR2xKTExnVmY2STZzM0xSREVnNVVDRWQ0emw2T2xyWWU4VlNxWTM2MW1VZG1vZld5NmR3c3YxMA?oc=5",
@@ -35,43 +63,19 @@
       "title": "Kazakhstan advances proposal for International Water Organisation ahead of UN Water Conference",
       "source": "EUalive",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcTJNYmRZMG5QU2dsRzN3YTV4bl9QRVJCMmtULXFPclkyRC1JNnpTZlZ1N2JCOTVkSXJtX1dYcWhVMnFBN0FVcldoOXRpUGpKejlUYUNIcDhKNGNQVW5UTlZpMmVVc0NjanZDMlhzUzhueUhlVGFwa0VNNE9aZmE0R0pTaDVRYUt5RWhNSGtrdExXWEJkZkZ1MFV0bFA5bjFVT0YxTW5JbGRwTjhQNmF0Z1E0V21SUQ?oc=5",
-      "publishedAt": "2026-11-22T22:09:24+08:00"
+      "publishedAt": "2026-11-22T22:12:02+08:00"
+    },
+    {
+      "title": "Seat at Global Table: How Astana Is Embracing World Gastronomy",
+      "source": "The Astana Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYmxDRWJSeU1UNnk0LU9yMWlUMThkb0hoX3MwWEVaTUlFdkFlZDM1UzU5T2tpbEhKUENJaW93cnhhNmc1SFo4V1FNWDlpQWg5bVBTTUNoNzdQR3JVZ1BrTV9aNkY1dUVGaVdkZHp3aXdfaDlWaWNxMFFmbmpSZGdKWkVvZ1BuUlkzOFppcDJlS1N1bmNFSklpS1ln?oc=5",
+      "publishedAt": "2026-11-22T21:37:02+08:00"
     },
     {
       "title": "Kazakhstan unveils priority climate technologies at COP31",
       "source": "Qazinform",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeXhWcnA3WGE4YmMzOElvNHduN19YalVPY295Vm9udDc0R09WdTZlazhQYVJpbjR3dWpCVEtLUWU0VmM1aWlTZnVXY2J0TGhpMGF6ejhKRU5oUVpMb2NBU3lLSW13akJ3VUhEY29lTFV1d1kwVFVsb3djdHNVR28wTFRwa2ZkM3V6YjJrU2dTOHY2UnBWUUHSAZYBQVVfeXFMTWRsLVh0R3NjRW96VGZFUjYyZVY1SG1QVklZWkEzYVNoZUtTVnVSMWhFdjU5MVlSZlZaU0hzeXI2bWdHSkxWeU9EMlNHSXAwMTBaY2d6WGkyNUh3dlJPS2d0U0psem5kSy1SX2xxcUI4YlJXZl8zaXZQOHRCZjRGWGtyd0hpeUo3UG5FSkhYR2djM2VldnhR?oc=5",
       "publishedAt": "2026-11-22T21:31:59+08:00"
-    },
-    {
-      "title": "Trade between Kazakhstan and Kyrgyzstan rises 17.9% in nine months",
-      "source": "Trend News Agency",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xQ1lONW1PaUgyTzlTcXpaUG9BOFlaNERCb2NkbFl3WldtRWVFWDd4djIyYm9WNmFGSTVSSmVQOThhYXU3ZlF3YlJSVy1kYnlib0lqNm1NZUtHQ3RMTUM0?oc=5",
-      "publishedAt": "2026-11-22T20:29:00+08:00"
-    },
-    {
-      "title": "Cross-border trade boom at China-Kazakhstan Horgos cooperation center",
-      "source": "巴士的報",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONlY2bWtzYzdUWXBEdVVGQktCak5rS0Y5S1B0cDE3T1RYTGZRaEJfelRWYW5uVWt1NU5uRjVWTWFDSjhVLU04eGp2VkkxVFhBaUlZUTVpbjUtTnFCMWxlSXNORXBjVjU4Wk1qenBrZFFCMUMybXE4SUE4NzMwS2oyWVhTWUxNaVNGdlZsQTF1T2loWEktMW1FSTNtNnN4Qk1nZFJPbUxCRUNHR25jdkFNYklWekcwTzlGcXVhUkRR?oc=5",
-      "publishedAt": "2026-11-22T16:31:00+08:00"
-    },
-    {
-      "title": "russia-requests-official-health-data-from-kazakhstan-over-seasonal-respiratory-illness-reports Archives",
-      "source": "TV ONE USA",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMG1fX2hOM2pYZm1KelpiRU5mQWI0TEZTTS1FSDZDNHd6RE9fMEJTX1VwZGlLQllGd2JTajk0ZWQ2Uk5wclpHX2NrREgwMjJjZklUSnlHYW9lcEtfaHo3LWpwWE1JRVJlUFJQUVh2anlOdXU1aWl3OGc3X294VmxtQUpZZk1vN01ITW9ueUZ0YVhHMURCYWhiS2JhdHVIU09nMkV1YzdBWVFaaWN3MmxiTldlZ1l6U3VBSXFUYw?oc=5",
-      "publishedAt": "2026-11-22T16:11:35+08:00"
-    },
-    {
-      "title": "Kazakhstan congratulates Lebanon on Independence Day",
-      "source": "Qazinform",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNlNVNWVrVl9rRC1veWhNZTJMNS1LaVpBb2tsRVFwaG1kcTFnUVREZ1A0ZGdnN3ZFZVlJcWpfa1dWNGlrQXZTU244LWFoTTM0Y1dHSHBpSy1MU3JCc2hsSUVHamd3OFJHVWhNeGdlNElPdkxYVWVPOF9tV0F3cjdIdkF2b3VxUDdnbl9HcVU5TdIBjwFBVV95cUxQdm9NU0pGWkZLYjNiQ09WemFneDk3RjNrU1hWaUVnWTFscHA4dmtGRkh6ZWVDWEVjakVpVExxeFhOUU03ZTZjQ0ZCaS0ySTZ2dENhYk8xV1d3UEdadlJKRFF3TGQtZHlsYjZtZDBzMmFhblVMRTA1V1VjWGw2MTdtalJHTzFSWjU4SE9RdGNfdw?oc=5",
-      "publishedAt": "2026-11-22T15:53:09+08:00"
-    },
-    {
-      "title": "Developments in Kazakhstan bring back 'memories of situations to be avoided': EU",
-      "source": "Yeni Safak English",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzIwUGk1NnhzUkFqMXFfb1d1WklhREk2TWx5NnFTcjVpTnNmTWVhdkFGODZVM0dBQnpIWFYtQlZzMWN2Njl2blhhTGc1cUZXaUxHcGZPN1RWOU5CbkswcTBPVTFzM2pPSjl0ZnlQVlNIdTdXSUIzTXg5U2F2bXFyR3pzNzFtMkpOdTdjZjVXdDVzOHRHWEhxMVZDWGF2MjVQMk5YY2pYZ0J0aXdjeWs2eXRadnlFQTA?oc=5",
-      "publishedAt": "2026-11-22T14:17:11+08:00"
     }
   ]
 }

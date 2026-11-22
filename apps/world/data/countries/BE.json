@@ -1,11 +1,15 @@
 {
   "iso2": "BE",
   "name": "Belgium",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Brussels"
+    },
+    {
+      "label": "Population",
+      "value": "11,941,781 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,28 @@
   ],
   "headlines": [
     {
-      "title": "Flights in Belgium cancelled on Monday due to one-day strike",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTzB0dmc4bkozUjhLQ3Z0cTZVRVhpZExFejFSUmFZRGRoVHJqdmpJbEwydi1WaUJKU0s5cnJUMUZoZEI4MjlQd2hUVVkxekNpZmlzenB1RFRna3RENkpHNGNLUlh1cnhScmM5b2h5ZTJWT1c2QV81akZXcUVvdThTWGhleHVxVWxJb3EwZTVES1dTNnBuY0xxaQ?oc=5",
-      "publishedAt": "2026-11-22T22:48:27+08:00"
+      "title": "Belgian climate minister storms out of COP31 summit",
+      "source": "The Brussels Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakpGeS1tTThIYW1OcThCOTNqRm5UcllGVDhRSHZMMG8wWEtMZFd0b3FaLTR1U0l3Qk02cWJVZm5QX3NnR2VmLXpqSTlUdlBybEtQM3hKMkZkeFVkcGVzcEdMbXhKcDM2SWdfWTBLa0dXZ21LdG5fblo2bVJJdWVCbFZCLWJ3TjJQd0ctVmtkaHZxMkI3OHVWZWRYV3cwZw?oc=5",
+      "publishedAt": "2026-11-23T01:58:49+08:00"
+    },
+    {
+      "title": "Belgium Nationwide Strike to Disrupt Flights and Public Transport on November 23",
+      "source": "TRAICY Global",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QcW11YnB5c2pxY3Q1RDNqeE1RYjZ6LVlNRDFjeWxNMDREejZkZEVTUkNNczFPRnl3MERkN3l0YUFqTmZVTWFDbDlkYnZlaHVBd2tDWg?oc=5",
+      "publishedAt": "2026-11-22T23:56:58+08:00"
+    },
+    {
+      "title": "Brussels Airport Cancels All Flights as Skeyes Shuts Belgian Airspace",
+      "source": "MiGFlug",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDRHWFpfNkpNSnA2QlFNLWtEVzQtTzBWTnRtVDJfMnU4bVlwZ2hObHJ3QnRkN25fMURIb1M1cnRyQ2tnbkxwVDVuV2d6QjRtUWdmM2xmTVJHci1mLWhORmFfei1KN1d1NEp0T1lTaGdETm15d3JMVUYwUktMQmFYN204TlhqOEh3TXhkcXdZRlRNZTRtTXpQZUw1X3ZpT1lRcWhCWTZRVEg?oc=5",
+      "publishedAt": "2026-11-22T23:52:25+08:00"
     },
     {
       "title": "Hélène Dutrieu: Belgium’s Girl Hawk and the First Coupe Femina",
       "source": "MiGFlug",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMEFQNUd2cG5vWVZoUXpoa0RHN1l2ZDVWS0RxSG82eC1PTHlRejRqUllybjhZOEdGWUFEc2JQbkxPNnUwVl9TdHplRWM1d0NZeURqMTlsREhVenVsckJCRUd6d2ViQmx1a0szUVBDQXhId3kxam80NktWYVh1UWROVUROVE1KNjdGOXFBTGF3?oc=5",
-      "publishedAt": "2026-11-22T21:58:28+08:00"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRXVPSUVvX2Z0UW9XUkxvZE9OYTF2alRVTU5GRlRWS0VzS2xjcEpidmI5dHJrTGE2VDZ0N3RKVlNBY1NkNWM4djlJYV9UMkNLTkJmSmZmNExIM25fSUlEUEdka1hmamxwVlYxdHBqc0cwM0QxMF9zQW93Yl91WnBnWmFhR0lYUHV4WDlsWXh3?oc=5",
+      "publishedAt": "2026-11-22T21:58:21+08:00"
     },
     {
       "title": "Embassy of Oman in Belgium Celebrates Glorious National Day",
@@ -60,18 +76,6 @@
       "source": "Arise News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT1JTTEptWWtFUVA5SFJwTUZWTFJOZzBzeVdHRHZXZ3c1cDZ2eEVtUERPYU9SYURGbEMzUWNULUY3ZkM2MXI3YlpsUjZxUTZLRWV2cUFvSmRuMUswd1dNUU5JMkFOWU9XNG9mTnlYU29LNGJRNGJETTBIcDlfWnJNRUVuVUY5bGY2YXNSWW5McFUyTVVFc3psQWFNSUU2LXNHUjl3Q0t0Yw?oc=5",
       "publishedAt": "2026-11-22T20:12:58+08:00"
-    },
-    {
-      "title": "Miet Warlop: The runaway artist who represented Belgium at the Venice Biennale",
-      "source": "The Brussels Times",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUzVtdDBuaUIxQ3Q0bFphTENzb2Jpc0hOYVRvV1JELVpEZno1N3VlVEhUdG9iUjdXOFpFbE5IYkZvTE1tVndSQlBtbDBmMVRNZFJJMjlUcVd0YjZwM3lBc0dxaUpqZzVPaktsTWk2dGRnM2ZKb1k5VWtUejlUN3dkNTg0bw?oc=5",
-      "publishedAt": "2026-11-22T19:33:51+08:00"
-    },
-    {
-      "title": "National strike in Belgium! All flights will be canceled tomorrow, 60,000 passengers will be affected.",
-      "source": "Haberler.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSjdURmVuaXZaSmlWcEpfWHVHSUlvT2RyYm9vdjFYMVQ5NTlVQXZqeDhoc09KOG9LclZUM0lEdW1oSGZEREdUR2syR2lRbDlqVktKU0JTOFZ1QzJ1Yk9veTVYUFpNYkJaclJOU1dUZWEwaXZZS1hFanNRNGItZEUxTzd3OVVxUQ?oc=5",
-      "publishedAt": "2026-11-22T18:48:24+08:00"
     }
   ]
 }

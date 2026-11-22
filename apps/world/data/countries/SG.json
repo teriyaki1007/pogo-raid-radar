@@ -1,11 +1,15 @@
 {
   "iso2": "SG",
   "name": "Singapore",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Singapore"
+    },
+    {
+      "label": "Population",
+      "value": "6,111,175 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "9 of the Best Hotels in Singapore, From Architectural Wonders to Island Playgrounds",
-      "source": "National Geographic",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYXQ0SlRpZnAzNFVOZG5sMmJBSWZ0VEJQUkd4b1pjMFFEblhCZE1LU3NKM0hRSnRseGlMR3hIRnl6dlU2aDFKSVhSVFlpMVNFQXp0NktXdWQzMVl3VjlUZnhNOGpPUmFJWFpBVE1kd0tOZGhoMl9mRHNHNF9lMFJnRmJESDR6a0xhbi12N1EyQkJWQQ?oc=5",
-      "publishedAt": "2026-11-22T22:02:58+08:00"
-    },
-    {
-      "title": "Japan’s Princess Aiko ends Singapore visit, hopes for deeper bilateral friendship",
-      "source": "联合早报",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUgxV3puVGY0NldySDZwU3pqbjE0eDhTT1k1UDJhTHVmb2F4bWNVYl9XV0N3ZVlDTlZHelI1UWpoM2FFQzBGYmNWcF9lUThSYTROUkVZVFpQSDVmS0RYdXpxOHNCdXFUVlczbkVuTGxFYXI5blVUQU9IdnNIbTQ4dFVlRkNHbEVxY1hNNVlJcUhYQnQ3LXNfRmNYckhFZVNZWG00N0FDcmsxcW00RjgzUXFtcEFtdw?oc=5",
-      "publishedAt": "2026-11-22T21:55:28+08:00"
-    },
-    {
-      "title": "Chinese Vice-Premier Ding Xuexiang meets Singapore PM Wong, DPM Gan",
-      "source": "The Star",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYk5ZY0hmWm1rT1BTczBEZ2QyMVYwRGM1VnFIaU5PaU11Z2FVOXpVZmNqTEhmeUhzTUQyWFRrdW5lZUVZU2htV0xNMWpESlBEVzZBWEJHY3J2OXQ4N2dBdW4tcndwYlMzZ2pCUUUxT2RDWFY2OXpZdkZMVWNxUnUyeWJRSHg1akRWcFZkSGxFVGxmWTJENUZuX3lFa3E0VHJFVW5PX2dxOEt3VjRvUnRZc0c4OEtDcmtFVjZ0WTBwejlhTnlxRDFsUw?oc=5",
-      "publishedAt": "2026-11-22T21:44:00+08:00"
-    },
-    {
-      "title": "Umairah named Singapore women’s team captain ahead of Bangladesh friendlies",
-      "source": "ASEAN Football Federation",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY09vU05fYU9JNVE2VFlmZHpEOTNHc0pyRnZMR0NfamJKdkE3bnQ4Ukh4TklWd290azh6cWNNNjBEd0RRbWtTLTB5NlBxbEM4d3BmcmZjZE90LWdoLXF6UWxhVk5JQlRfWmtFelp6RUYxeVVoSDBBTHJiSEZ3MnJhSXZ3WWVVN193ZkgzUjM5Smo0N0FiazFaVjhSX3JnZi0xNS1BYjBzb3FtOHJT?oc=5",
-      "publishedAt": "2026-11-22T21:29:41+08:00"
-    },
-    {
-      "title": "Three in four Singapore residents aged 13 and above exercise weekly as new Punggol sports centre opens",
-      "source": "联合早报",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVHJhMUtmN21ZVXBzMUtHelB1bDkzckNCQjN2MGQ5MFQ4cGRRdHcybjY3dFIzUmFna2IzYXZTSS1ILVRXdXZ5anluOXNVaVRkUy1BSGhOb2lNTXFmODJWdnpyMXNKQUxnSjUtaEdZd1FiNF8zalozZ2dlZlJMUXk2dFBVNFh2OWEyMFpFLWxDdEwzNVdwcmJDc3dOaS1vZlJ4bzd4alZJZTNzZERCSll3SjNKR1c4VmRHVFhwZThwaGt6RVBobDdTVzEyUE8xclM1LXNpM1FjWQ?oc=5",
-      "publishedAt": "2026-11-22T21:27:59+08:00"
-    },
-    {
-      "title": "ITMA Asia leaves China for Singapore",
-      "source": "Ecotextile News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbjY5ci1tTmgwR2xibkpmekl2bTdNNzdYR1R6RjhwaXBYZXFDMkxrQ1ByclZ1cGY5R2VQZXNvSjd4RzFVOUVreFc4UW8tN3ZHWklER0VKd3AweTZ1RzlxNDg1SjZzYTVPM3J1RjhRY3czRFJldWQ3enVtdmFacHhqT2p3ODA2Ykt3VS04bi1EUUt2S193YkNGdzVUV2Q?oc=5",
-      "publishedAt": "2026-11-22T20:36:51+08:00"
-    },
-    {
-      "title": "Singapore’s The Violinist wins Best Animated Feature, Adapted Screenplay at Golden Horse Awards",
+      "title": "Beyond the political barbs: How Singapore and Indonesia can weather tensions in ties",
       "source": "The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORE5qSERTckFEVXVfMU5GM0RqXzl6QzAxR1dMSHllNHZ2dWxaQ1Yyc2pmSWZnNDBfNlA0MzUzV1o5OFAycGN4QXBpT3hmRjNpNm82VUpBbWtSdzEtOGJCVE14ZHZiQzF1TG4zd1FZSTJFaXZiRzBtZmZXcTcweFRXd0VuZmE3ZjQ3VEdieDEwOE1DQWJXT3dzNDF2d0dyd3VCX0k3UHdUbDYzbnlIX2JmdDlUT1ZWMUxRalFDS3Z3aE9ka0hZd2c?oc=5",
-      "publishedAt": "2026-11-22T20:20:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeDlWb1JMbDdwVDY2X2t1eE45Z2g0NTNWVGVRdzRidF8tdUx2Y0NXRk95aGl3S2ZnRkZ3OWkzM3hWV2FCTVJDM05kQy1Ta2p2ZnBuNng0LUtrYlFmNDIzZGVCbktKQlcwSlkxbVo2M3d6LV9nU192TTd1dVBFaUZxNEpWNHRCX2ZLVnhlQzFtX3FYM0hhT21NLXVMaU5Ub3Z5emZRcWh6cVlzT3lVVlozeW1UWjBZYUhFUkVwVUh5RE9EUnhqYmhrUFR2eldlcHVBYU41eQ?oc=5",
+      "publishedAt": "2026-11-23T05:00:00+08:00"
     },
     {
-      "title": "Singapore PM to take SIA’s inaugural flight to Western Sydney International Airport for three-day visit to Australia",
-      "source": "Malay Mail",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNZld0ZXRKQTVrRUZyVWZkdk83R2djYnlfVmtaSjF5c2NxeHg4NVk1SUt2T2IxMDg1ellkX3JQYUhfV2hOTmxNWnFPeEZncHhydGpHZ0YtYjhfbVlJZnFDclhpTi1Fc0stNmR0NmhCM3p0Ry1kSFJXeEVEcURrazhEMTN2bnhOc3ltQkJuSnB4UXZiMFBtZDc3LTRhZVhfdFlKal8yM0dnS3dJRGFTcHlYQkF1ZVBPV3NLMlhwMzJOeGx5NXFXdmZra2RmOHl0MUExdEk0aDZtb1JaVHo4Yy1IVkdwcnlWZ3pxTDJKR3JSUEhFRmVqdGRvT1EyQW9MNElGaWh0VdIBigJBVV95cUxPZ3ZXZUZzRkZ6amFDTVhULVZJMElqWFRyN1RuLS1Nd1dCOUtCampUMW1hX2pfeXZGcFlpSDBjdDNyM3VhVlRtREZONVItUGZIb0hLbzRHcVhrbUJncmlwMmVzOEFuYm45X1BnMnFCY3hCMDZESGZyMjBHcW9rdG93LXJ3QUFEdjcydm5ycU85bllLS1RwQlNVZ3M3ekdyUW9Lakt2SUdPVWprb1FGcmRJNEVXS2E0S3FFWXZYbzVvRUZpX3lTNEQ4eWlWRkNobURFZXJoSlF5ekN5WTU5Z0RyOUVhY2YteXdtU1RCRWlqMk5EWnc0c0lTNXk4S3c5cGMwb3FMV25YV2I5dw?oc=5",
-      "publishedAt": "2026-11-22T20:12:31+08:00"
+      "title": "askST: AI tool Artex hijacked for hacking globally, drawing FBI warning; is Singapore vulnerable?",
+      "source": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFpsWng2cHVfQmdmZm9weDdHUDFKU1hfZnBhcnJWUUhYUVhFb0pJV1hzOWhLQnJjZ3hpOGhmSnJwNjBFU2xQb2xlSWlvY2RpWFF3VEgtZWdiQ0pkZk9pXzdETENoREVsU0hPejlVMEtmQi1mRlVaZlBYYXpDUm1qNTFtdFlBLW85Q1c4OW1BejBFWnJKV0FuU3BFa0ROWV8tRFNnQXF2d1hPNGNLNXAtUHM3dFEwRFZveWVVWkhTeDROV1NfVkE?oc=5",
+      "publishedAt": "2026-11-23T05:00:00+08:00"
+    },
+    {
+      "title": "Shangri-La Singapore Valley Wing Reopens: Rooms From S$764",
+      "source": "deeparrival.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVl9sRHhpOXdRamR4UkZQdVJWRjViZnFBczB6Z0NOOU1YTkljNjBJSXVmcmFtUk1xSFRGbGRONVRQR3I0bDg2WHFxLWtvRXdqMnN5d2RKOTdaX2xwU0ZzUU9kQXozQ2t3YWRtNmwyd3ZtVnNLdzlFTVNxb29QTU54ZUNGWTlVZHFyc09nR2pBVHhEcXI2b2tHZg?oc=5",
+      "publishedAt": "2026-11-23T04:11:38+08:00"
+    },
+    {
+      "title": "Dubai vs Singapore: Which City Offers the Ultimate Luxury Lifestyle?",
+      "source": "Modern Diplomacy",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QNFA1ajExLWpKb2M4UU1wa0RFUjdma0pMXzYxWmhPUjgwWW54NURJZUdvMnI3dlJnbTVlUXpxd2dQSjUwUXdZX1NPTVdET0Rqay1tNzdtam40N0tJOG41RWRUb2JDNC1tUGptOTVpQlJ5UWhQdUNwR3F4bExVNmc?oc=5",
+      "publishedAt": "2026-11-23T02:10:00+08:00"
+    },
+    {
+      "title": "The Lawyer Guide Chooses Singapore as Its Next Test of Legal Discovery",
+      "source": "The Globe and Mail",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMmpTSVpFNm9fYVNNLXNYc1lwV2xTMDNNNzZJak1vc3A4VXA2QkVYYk5fcmgyTXBXcFg4OUd1S1VJYU8tMDZ5VzA3LUdZRlhxejRkYmR5SUJERnJUS0sxMzRXWVEzZHIycGhwbmU4TVNGZFZxNkF6dVViczdnVzY4Rl9pT01wZTIwLW41aHlZSFYxUV9OUEVUWGl2a1pJYXhqUmw5enp5Q2FmYVRWeUFyMThDRENRbWhLU0N6dGQ2SUlYT1VFZVFHOC14SzNaSW53ODRhU2lRa3VvWjFRN3pjc2JZd2M1QQ?oc=5",
+      "publishedAt": "2026-11-23T02:08:39+08:00"
+    },
+    {
+      "title": "Plot Twist: As CFO, Nvidia’s Interim CEO Said “Over 99%” of Singapore Billings Were for U.S. Customers",
+      "source": "TIKR.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2dFZjdwbjhWdVBjZ0RTYkpqTjJ6dVFGVHdIVzN3RVlkUEJDWTVBNi1nQldpWlBlZkFxWFdZS3ZSSXV1ODlkU0hSTC0xQ2JVdk1fbGlFVWI3OTNKdi1tT1A2LTFETjNxR25PNF9XQVNnaWJqTVd1WEhPXzQzNXhOSEFZMDZ5blY2RmdBX2ZRQXFKdm5KTzY2emoyX2syV3l1dXZCRlkxMXA3RUJodHoyTHd5WGFUNTAzTUhHeGdn?oc=5",
+      "publishedAt": "2026-11-23T01:52:56+08:00"
+    },
+    {
+      "title": "Singapore Airlines Flies a Record 21.8 Million: Plan Asia Trips",
+      "source": "deeparrival.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa1dhamptdFBXSE5ObjNpdFBZM2IzSmRZRlBmX1p1TEtXbHFVNWFSX2UyYWFBcHpUaThFUlZ3M0NBbzdkLUNUUTFlcU9jR1FVUFhUVkR1cFhKU1BYUXdua0VKeU9WWFJyRDhfd28yMGUwLXRVMk1Sbk5xNjNWOWkxVFJLaVBwSXFITThLT3lvaGZXUQ?oc=5",
+      "publishedAt": "2026-11-23T01:18:33+08:00"
+    },
+    {
+      "title": "Bangladesh women begin Dhaka preparations ahead of Singapore friendlies",
+      "source": "The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM3JMWEIwN1ZxMThEeEFFS0hibGxYRk5PTnc2dVp4TzhBM0RhVVQxWVRvUjNaU1RqSnJiMXlYV2Q4YnFlMVhKTjNSLTdRM1pBZ1lTZDJnMGJRbEY5QlcxV3ZJUDdibDVnUGJxNjU3NHIxNnhLY0FicURWTUFia3JyeV9LV0xLdzZScnU0YUNQNWF2SEV5dXBWZ2x5MzY3X0NDbTAyNFJsdUMyd0dyVDNpcTV1WTBuWmRCU09yd0JQbnFWVEVM?oc=5",
+      "publishedAt": "2026-11-23T00:38:25+08:00"
     }
   ]
 }

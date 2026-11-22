@@ -1,11 +1,15 @@
 {
   "iso2": "BY",
   "name": "Belarus",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Minsk"
+    },
+    {
+      "label": "Population",
+      "value": "9,085,991 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Germany Tests AI-Powered Kamikaze Drones Near Belarus Border Amid Rising NATO Tensions",
+      "source": "The 420.in",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZnJHUk5NSDV5RmQyTWl3MUxDYTRKbGNoRndmeWpEbXVEZ3FnVHd4ZWlXT2N3dHgyRm93cUtvbVM1VW1QY2UycWJNblFHVkhyb2hiV0tSTWtXUkN6QncwaGUwZVZDSlUwMXVUb1hxeFpoZWo3NDlLY0NwTlduUTIxUDNXekZJaXlGTlNMLVJ6aGNBbFBHR25CTHplV0ZuYlZFQVVyTklfTno?oc=5",
+      "publishedAt": "2026-11-23T01:38:52+08:00"
+    },
+    {
+      "title": "Near the border with Belarus, the German military tested kamikaze drones during drills for the first time",
+      "source": "Наша Ніва",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HZVlSTU1FYWVmU0UxWndjSmV6WVhjWWhuZklJUGdtc1V2TFVVQjBUbm5teDJ2dDRmT0RHcW9USDZlZHZQTEHSAUtBVV95cUxOc0JGc1B5T0hYeDhfeHd6WlhQNmFOdG9EdGZPa1dJTno1QjhWaUlaWWRWLTd0WXlnRGQ0aXlCYXh6NlVvb3d0R1FROW8?oc=5",
+      "publishedAt": "2026-11-23T00:58:50+08:00"
+    },
+    {
       "title": "Belarus And Russia Criticise Election Procedures For UN Climate Conference Bureau",
       "source": "REFORM.news",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLTVNSG5qNVNlT18wd1RnS2Z2NFRZVUhMQWpBZVpDY3hxTF9OUzFoM1k1Yk1mRWN4Q3p1akVrd3Z1U0sxX2h6am1STUlKb3NBajZLZGZIbExHcDZfQ2dYQkdVVXh2RzVmVUhJQUY4V1FoYmVQczVWenYtemtXdmJRbWJjQmRxbXRxbmxCalpBRUhoOThVNkVEWmdMRzdDUkxsNnJySjVGNXfSAa4BQVVfeXFMUEhSWjh6VDdTSDZWTnNkWWJoZ0owVGkwMHBuM1g1RGxBVkdFdl9JVkRXeENUaEJVWDAzZWRDUkFleVdmTUlfb2w5bmdUaDhLTUFfUkF1TjlGeGNvWkctWjM3RmlPNnRfLTAtUkZlbEZOOEVWeWs3MVlXLXlObHBvTUpZU2hfUFpwQ2tmdGdxWFp0TUFya1JoeS1IUjdYYWtnNEVmT3ZpSEdGN1BySDJn?oc=5",
@@ -36,12 +52,6 @@
       "source": "Наша Ніва",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5nTG1mRGZkNF9XUkxaQ2Y2cE1OV2pjaF9GUkRHQXdJOW5YT0Q5OUZPdWQwX1NCNUtqdGdNOUF1b1hRbVNLNnfSAUtBVV95cUxOdWhEYVdPLVZJQ0ZmQ21RRkRhd0F3Sk5TbGFMMG10R3Y5akxSbm42ZXNRSkRDaHFhemZTbmt5OTYzZS04elJfVXNGMWM?oc=5",
       "publishedAt": "2026-11-22T17:02:17+08:00"
-    },
-    {
-      "title": "In France, a Court Allowed a Belarusian Man Not to Pay Child Support for His Daughter — Because He Has",
-      "source": "Наша Ніва",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMYWczVndKV0FoRHQ5V0dRTUVoU3BiaHp6YndsdkM3WlU3QVpMc2g5QUtsQV84clFjUFJrcm4xYmx1R0ZLSXfSAUtBVV95cUxNb25BQkJ0cU5naERwS0E4QlpINksxZTI2QkRvaVp3U1M3a1hvS28waEdVNzk4UkI5SUwzVmQwVEUwY1o0RFJHbldQNDA?oc=5",
-      "publishedAt": "2026-11-22T16:23:24+08:00"
     },
     {
       "title": "Israel vs Belarus",
@@ -66,12 +76,6 @@
       "source": "Belsat",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbGVtd3pLcmZ2b0MyckNoNFdVQWJZY0NVRFYtSVhVT1lCS09naW1US21QcXJEU2dGTi1NUGM0S3lWVk5iNmkxLVgtSjk0S0VWU1czV0JQcjZxaWViMFFCLVdoSDkwbF9UcDctXzB5MFlWU0FlTWEtUzBwYl9LNTh4d2s5MWxTeXV0QlBiUFZCcjBlSUxSU1JmYmlKTktoS3NOMmlYNE9fWkhfNFZxVzRjR2VIZkpmaVJu?oc=5",
       "publishedAt": "2026-11-21T22:01:00+08:00"
-    },
-    {
-      "title": "Trade turnover between Belarus and India increases by 30% over nine months",
-      "source": "TV BRICS",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWXIyc0F2QUxPMnk0cFM4d0pobmxCWWlaQkNxcnNsR3Nfa1A2R1FrSTdHTVJDZXZKVHozM1V2UURyX2lmamQ1bUItOGk4eXk1NlVmOGNIX21hZF94SjBTcjlkNmlBWERCZERxVU1jdzNUVE1nQWpYZkd2MS16Q3hoSXEzaFFXZ1d4QXBLUV84YzF3cGd1ZkFFRTZFM3hUcXV4YmV2Mw?oc=5",
-      "publishedAt": "2026-11-21T05:00:00+08:00"
     }
   ]
 }

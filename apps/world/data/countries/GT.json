@@ -1,11 +1,15 @@
 {
   "iso2": "GT",
   "name": "Guatemala",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Guatemala City"
+    },
+    {
+      "label": "Population",
+      "value": "18,687,881 (2025, World Bank)"
     },
     {
       "label": "Region",

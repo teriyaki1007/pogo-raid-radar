@@ -1,11 +1,15 @@
 {
   "iso2": "GY",
   "name": "Guyana",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Georgetown"
+    },
+    {
+      "label": "Population",
+      "value": "835,986 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "TechnipFMC wins subsea contracts for ExxonMobil Guyana’s Longtail project",
+      "source": "Offshore Magazine",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSUoxeWhtLXhZT05UWDlsbmlYSGpWZk5Pb0VPVjZITjEwbU1BQXhTdE9Wdk4xc0VrQW9oZWJYSVlLLW10VVpLY0ZWaFgxV0c5d1g0aWdRMkgyUVJXNlUxSHJXOHh3bDR1ZDd5MHZlRkFnSFBNUFB0VzZ1ZWw3VmVNbVhFUmNpbW81cTREOWhBeVVCR2tPTElEaHN0YU1pRzRVcWdBRXN3Wk9uVThFZlFuNFhCRWM5em5Jd1hnaG5qcw?oc=5",
+      "publishedAt": "2026-11-23T02:26:21+08:00"
+    },
     {
       "title": "Guyana pitches regional hub to European firms targeting Suriname",
       "source": "Ocean Energy Resources",
@@ -56,22 +66,16 @@
       "publishedAt": "2026-11-21T17:50:11+08:00"
     },
     {
+      "title": "TechnipFMC (FTI) Stock May Be 43% Undervalued Following Guyana Contract Win",
+      "source": "Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNb1doTnVLdkdLVjdCOHFkZlh4ejl0SDNmb3hOTGFTb2RrMzVDQ3UzX0x0OGNnZi1FanR3ZnpwdlhGRnNBMEZycVlrc0w1QnQ3bjlsck03WHdfeEVwZ2RSYWZmMXhLWW51OWRuSUhEbnFkTlhpRDlGMHdjRUVHam45Yl9BUy1xMWFQbXNlRkhLZE9Rc2ZGaWJz?oc=5",
+      "publishedAt": "2026-11-21T04:15:36+08:00"
+    },
+    {
       "title": "Venezuela rejects ICJ jurisdiction over Essequibo dispute, calls for talks with Guyana",
       "source": "Anadolu Ajansı",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbklzWFNtTWwzaW0zczR2TXU3M3YwQkZ5QW9XUU5ScEdQS3d5MTIxaWlScVo2QUZobmlvVWN0NlBtWGZkWll0ZlZpSW1LeUNuSXFtN0NxNlhoQU91RXkwRFZvQVBKWnEwRzhhZ3BtdWJLd3lpaVNhWE8xV2V5RV9yZ0ZZYU1pcDRKcFBOSHlDLXJFY3pVZnY1OUlfQjBqWGNZUlJ2YXNNLVh5LThFaG1wb2YzYkg0RDNha25YdHJQRUlFbHJWM0E?oc=5",
       "publishedAt": "2026-11-21T04:02:36+08:00"
-    },
-    {
-      "title": "Baker Hughes breaks ground on production fluids facility in Guyana",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYVFOd1FjQmVndWVGb1dISW1kZEhaazVTRUFjem5JTVNHUkxXekRBakg2dDdEc2U5R2lRSUNySUlUN0Nna2FtS2s1RjlpdFI1TDgya2RNNXQtRElyMmRmY0prRHZYa1VfYWcxQnpyM2RsWkhJcFNrLUhSZlhXZmlyQllLbWZvQVdtSVN2bmV6LUU3RkZZbDB1OXE0a1ZCUFlCUnhz?oc=5",
-      "publishedAt": "2026-11-21T02:49:33+08:00"
-    },
-    {
-      "title": "Guyana High Court Dismisses Application For Bail for Opposition Leader",
-      "source": "Caribbean Today",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZmo0ZkpraEwzaW53ZWkxeG5hdEZXLU1ETWtRakpRZzItdWd5dEVYaEQwZl9fY2xyVnhTdjU2a2FUUXJzemdXYzNRdmJRbkNjRFMxUGxjUUc5QWRjaGtycGR6UDh3dmllSXlsclVhSUphbVRDN3cyUkhqa05FRnpWTk53b294d1REcG5reG5nMVF6MHpEclVrX1B1TGdkQUd6Y0tNaUZ5ZmZvN3lVVlZrMkRYdnkyNU40VC1F?oc=5",
-      "publishedAt": "2026-11-21T02:40:59+08:00"
     }
   ]
 }

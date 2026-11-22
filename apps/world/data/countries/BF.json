@@ -1,11 +1,15 @@
 {
   "iso2": "BF",
   "name": "Burkina Faso",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Ouagadougou"
+    },
+    {
+      "label": "Population",
+      "value": "24,074,580 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,12 @@
   ],
   "headlines": [
     {
+      "title": "Burkina Faso: Air Burkina resumes flights to Libreville via Cotonou",
+      "source": "Bénin Web TV",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU2E5cmQ0Wk9SdmRnMzQtRlBsMHEzcy03TXBROTNPU2FGZWR1M0hUSllpc1hkUVpjdDZrN1B3dktFeFBNZGhicGFOaWhDZGZQSmstT0VOZEtlR3NEWG5xdG1mQmladXVvbnNoYW9OQ2FfVnJIdEpVcEd1S1ljQzdDb2FIWnBVVWplZEU4anB6UC1KenJoN2hv?oc=5",
+      "publishedAt": "2026-11-23T03:10:36+08:00"
+    },
+    {
       "title": "Burkinabe tycoon Idrissa Nassa's Coris launches $105 million Ivorian bank IPO",
       "source": "Billionaires.Africa",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTZlcXF2NzlyOHp0amNPVHJEMnZvaGUzdGRrZTNJRDl2U3BzNVNrOGZFZnJJc1V5WDN4emdLRHVCYVJWaEV3czZ5ek5HRGRVcWgwOHpycWF0ZTlMTnN1cWVPVVNmUVlSRzI5a21hQ2t1Wkc3dEU1MFZDZlZEYTYtdFZ6ODc0NmVxbEV0c0VjVlpYb3FkbGNYV1JxdFpoQjhOdmNTdk1jTDg4dGxJN1BMN1BBYlpGRVhuT2Nv?oc=5",
@@ -44,34 +54,28 @@
       "publishedAt": "2026-11-22T04:10:48+08:00"
     },
     {
-      "title": "Majalisar sojin Burkina Faso ta rusa ƙungiyar masu magunguna ta ƙasa (SPBF)",
-      "source": "RFI",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOF9kbjgzVTVfY1VmalJQcHctY0VQeXJQZVktUzVxajhLMWx2YkNzZVdHS3E0Z1kydi1URGNQTC1Pd1JPZ0JHdzZWUHE4WGFNZUN5V2JITVZsMDVhdHJCN3hMRWQxM2x4aGZuRG5ZZWZjVFNreXV4RkRyUDh4Um9CTjhGWmozeXpVbkJBbFdRajZmMUhOZ2M5QU5wR0UwUFh3YXdtamdnNFcweHBCeFJUMF81bnlhaWVMQmIyYkxB?oc=5",
-      "publishedAt": "2026-11-21T16:42:08+08:00"
-    },
-    {
-      "title": "Mali, Nijar da Burkina Faso,su shiga tattaunawa da masu jihadi na JNIM -ICG",
-      "source": "RFI",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZUtsWTMyNm9pSU1KOHNDZGJ5WjRpQy1MY2ozUENKYXFQNURVY2NWR3hIcldNLWt6LVMzcXRpZnVqd2xPS0ZNQWpFYURXaVJSWGhyV0ZpVGRVb1l1d3h1Wkd4YXNJaGY2WWdiTUgwa1Z3TkEzR3JRMm9LVjNxTzFOb3BJVkw1ZTYwdDFJUzQtZjM2MGg1RmRiZWJ3aGE5Sk10ck1qdC1CY3J5RkQ2dGtNeQ?oc=5",
-      "publishedAt": "2026-11-21T16:28:00+08:00"
-    },
-    {
       "title": "Eye on Africa - Guinea bans Burkina Faso broadcaster, escalating diplomatic tensions",
       "source": "France 24",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcS11cVFvdkxIb204RHl5SktwRVRZeE4xMjY3YmZBRW9WYlNldEJqN1FBdG1iRlZxSGhLd2k3WTZodnlzbWNNMU5fdmxySmdJLVdMcGJSeFEtSGphYjVjRExzbkxtSWZFY1RjTXppWVJXSXVhVEUwNGNKdnRQVk1uTTFSVTZSSXE0Y2h6bjVuLU1HVEpoa1AxSGxBWUhOTlhhMVFrM1BVWlE0em8taGdPMzBGRVo0UXExaFVKeHIweEg3cnJJWkE?oc=5",
       "publishedAt": "2026-11-21T05:53:35+08:00"
     },
     {
-      "title": "Burkina Faso's Military Power: Which Armoured Vehicles, Aircraft and Drones Are in the Inventory? (2026)",
-      "source": "Envanter Medya",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSN3lEWDc0X1EzVmpsQ18tNFA4VnpmazIzMmxnNm11U0IxVWtUMFhRb0d4WFI4WGhyT0xmN2ZKa2tzOGFzVUVPbW1kTmlzU0FDVGFacXg3dnFQV2F1UHJNUDkxaG1vU09lZTJhRDFSMU9aQQ?oc=5",
-      "publishedAt": "2026-11-21T00:19:00+08:00"
+      "title": "Death penalty in Africa: Burkina Faso brought it back – who could be next?",
+      "source": "The Africa Report",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb0Y3VE5WZHZKTndEcklpdjFCZW1lY1ZCT0t0Zm1EUVlUVFZDQzhsRjhFd3ZLWl9LSFJVR0V5R05KV3BHREdiQ0k3dnZHOUVYSnV1VzhZZnZqbk9WOGNhSnFfWnM0bVF5Smw4ZTlJUGM1UEFkLUZFMkVJajFrd29TUWxlUm5fUkFMZGN1ZkZzdDl5U21VdmNGRWQ5TzZBdGhXWG9jbGVHMUJEUkR4b2pR?oc=5",
+      "publishedAt": "2026-11-20T15:30:00+08:00"
     },
     {
       "title": "Burkina Faso banker Idrissa Nassa plans $138 million listings for two banks",
       "source": "Billionaires.Africa",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNlJ3ay1SZHFVNkwxOVVkXzZGYllvMUt5angtYTRIenY1UmZKTEEwajk2VmVJZThxT24waVJqRzNDMElnQ1hFcE51VEFMRGxGUEtyNUFFT0dfZzZXWFJocTRObUEtdDlfSzlzdlpTRndhUkxXMUJlU000c0pHLWRxdHFJZEpaMHJzMHpuMWRmellfR2VOSXJQbzgtaTV3bUVYdlRNQi1NNFlGcG55bWttekN1bzV2akRDQ1E?oc=5",
       "publishedAt": "2026-11-19T07:35:17+08:00"
+    },
+    {
+      "title": "Burkina Faso Targets Critics in Exile",
+      "source": "Human Rights Watch",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5oaldvZGc3R01yM0d3ZUVEczdzRmVCWnA0OE1FaFBITGp3dXYwd1RtaERhWmFNblhLbmtQczBBaXB0UjFncUlpcndiUlJOY0VReTVVZXR4QXBwOTJBMEwwR19fejItSXJzeE9JZWpLaUNhSU9PbVRCT01uU3pQUQ?oc=5",
+      "publishedAt": "2026-11-19T05:01:13+08:00"
     }
   ]
 }

@@ -1,11 +1,15 @@
 {
   "iso2": "EE",
   "name": "Estonia",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Tallinn"
+    },
+    {
+      "label": "Population",
+      "value": "1,366,475 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "A Real-Life ‘Unicorn’ Was Caught on Camera Wandering Through a Forest in Estonia.",
+      "source": "VICE",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGdudHJtRWZWNlh1U0N6RUxMTXRqWk1lX2dITjgtVlA5WEJobUFsS0hIZHZkTE1iR1RoQTg2dVZESXBUbVloRVdQQ1h0bjkxQTJBcV9ZLTlJMlRlMWRJT3NLUzl6S3NHX2dXRVlTalp5a0RBdFNkeXFDQW1BLTRWZTV5NEo2RHF5VkJ1SVFoOHBoVzlRcUlVZHQtSVJDQkRVa0NRMDRmLVJZakNBMnh6LQ?oc=5",
+      "publishedAt": "2026-11-22T23:52:57+08:00"
+    },
+    {
+      "title": "Estonia has no objection to Ukrainian attacks on Russians in the Baltic region",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeTdxZkVVMUFXT05Bb2phb2RBVXBnbnEyNldFYUZlcWFBOEJvZVlXcEFQdkdfRzgyUjJrVzdvQktDSTNFOGxfbzZ5TjNIYmZfVHdaLUQ5WF9zbzBzMTVwd291TWhCUTRXSnFHWXVaYWV4TW5xbnRlS1NPVjBhbk1RdnRIakhscGhhUkFXZ0EteHU?oc=5",
+      "publishedAt": "2026-11-22T23:24:33+08:00"
+    },
+    {
+      "title": "Estonia reacts to Ukraine's strike on Russian vessel in Baltic Sea",
+      "source": "RBC-Ukraine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYXU4TkF4STQ4NnozVHZKR2NqNFJYU2NGcGg0NDdxZ19QWF9reHdFRWhnWC00S2czanNVU2tlWGRNeUdtZk1YVVlhNVhIVnI1bXd1VnNJa3pRWVlpMnRHYmg3aHF3YnNWajJiRUZfc21ESzVJWEJvdzNjWFQzcDhZdnljTTlmendKWXF4Z09tdk1fajVHbFFFLQ?oc=5",
+      "publishedAt": "2026-11-22T23:10:00+08:00"
+    },
+    {
       "title": "Estonian Foreign Minister on attack on Russian vessel: Ukraine has the right to defend itself",
       "source": "Mezha.net",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMkhYRmV4dGhKMVc1bGM1UG9PeXhPMVNvbHJZNzdnNy15SHhjQl9mSTZQcVdLNnJ3X0hJemtnWWVhaGhJM2prSGhVM3VTbDZXOWxkYS1pX1RIdXZ6b1dXR0JtODlKNHJ5MC1YWmNWd18zb215X0NBQmZJWXRqWUpYcG1WSHVLWlJ1c2F4cA?oc=5",
       "publishedAt": "2026-11-22T22:04:45+08:00"
+    },
+    {
+      "title": "Russian ship hit by drones in Baltic still smolders as Finland, Estonia help put out blaze",
+      "source": "CNBC",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWTNqd2hHZnkteFM3WHh6dzlkc3l6RW10TDJnZWl1ZEphUnI4V2NmQVI3d3lscTZsenBobUdkZTlqSUNwR0R4dmpkbUZpaVFPU2kzOV9wQnVyaUFyS2UyQ1FhUUJwLWQwU29KeXNSdUFSRWlIUko0a3lsS1AyajdsaF9wdEl1VG5VMlFaZjNFQ3BiMFJZZGJFUlJR0gGfAUFVX3lxTE1YbFdZV1Rvb011Rm9sbVlCVndXekpCRG5ONjc1WDQtMEtsZ3BmU212blR3YTdLVmlCY0V3UVZvUk0tQmZEUGcybG54MGxmeEllMHBwbGpSd0VfMnhRc1JLTnAzQklVZ0Z3cEJhNkNXNTBtRi1LODl2b3hqb2RxanZOREpqTkVDVFZNSmg0MFdsN3pTc2M0eWdxTmRsdC1kMA?oc=5",
+      "publishedAt": "2026-11-22T21:53:30+08:00"
     },
     {
       "title": "Estonia links drone strike on Russian cargo ship to Moscow’s war in Ukraine",
@@ -38,40 +66,16 @@
       "publishedAt": "2026-11-22T21:32:45+08:00"
     },
     {
+      "title": "Estonia to close road crossings with Russia over security fears",
+      "source": "The Telegraph",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYTdhTFBOdnVrMTFZNG1vV0pEMU9qUFAwZFZBRzhnZm9RSGtqLVJKVk53LWR4UjZXUzBGVVpESjV4RjlGaGZqbk9SMl9ad3I1N2NaX2JDd3FlVmxWNGhOZl91Wm5WNS1zdThIeC1pcUpXSWxpUi01RkU2aE1DbnNfLWFNMWZQZFJQZzBSd1FBZzZfMlNvVEVVajVyc0liOHFFN0EtSQ?oc=5",
+      "publishedAt": "2026-11-22T20:17:00+08:00"
+    },
+    {
       "title": "Russia threatens retaliation as Estonia seals entire border with Putin’s regime",
       "source": "London Business News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLTNKRmxZS1QycXZ4LUl2TDA2R2huR1E4QjN1cW90LWYxekFIZUxfLVNoNUIwWEExZ3J6SndsNEFWclBoZkJMUF9kdWxsYndjTEp5UzJJb0Y2RzRldDZIajFJODRjLV9fNDFCZi1MSjUwYjQ3UmNtQ2JVTHB5M3I0eDBER0RIV0hlVE9IY0dOVV9hdlNXcWZ5Q3l2Y1JnQUh0eWg0V214X1IyODJyUDNGSw?oc=5",
       "publishedAt": "2026-11-22T20:10:23+08:00"
-    },
-    {
-      "title": "RIA Novosti fake claims closing the border with Russia means the “collapse” of Estonia",
-      "source": "https://theins.press/en",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84ajJyZEVDNnZEbjMzM01Dd1N6bzNZUkdqVC10cWpDekJ0YlVGTFFHRFZuSDhNYUtMelRXVU9HWmRtUWl0eHIyTHdOY3E3cXFQ?oc=5",
-      "publishedAt": "2026-11-22T20:01:15+08:00"
-    },
-    {
-      "title": "Estonia comments on Ukrainian attack on Russian vessel in Baltic Sea",
-      "source": "Українська правда",
-      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpOTMxRzNIa3k0TGZQSDQ1TkNkSncxT3hpbjR1SkQtbFFQa1VtTEFHS0lJRHRZcllEWXJyamthZmxpcjI4UnFkcWtyVktBWjY0Unl2YmNad2tNN0xLRzdEQ1NxSFnSAXBBVV95cUxNVkY3eW4xQmZWTFU2VS1SUE4yMldYWUhNM3pKSnc4TkFHbXota3lMS1F5Q2NDREl2clNYQnJ0VkpSQlFRR0ZxMXliaHZMNmROYlk3ZnAwc1lWVVN6ZXlYby1id3pfSmo0OVlBVHRRd2p2?oc=5",
-      "publishedAt": "2026-11-22T18:44:00+08:00"
-    },
-    {
-      "title": "Tallinn Opens Christmas Market as Estonia’s Medieval Capital Welcomes Winter Visitors",
-      "source": "EU Today",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Jc1lPMUFudGdTbkZZd2N0ZFpmcVBtUGdiaV96TUROTWN5M0ctcHhfZGlUUzQxNlJzWG9MZ2pWc21XdkZyZmtabFMwRVR0WUZ4TTdDOGVDSDRWVHpidXJMSTY4Zk4zMVBYbjVHV0FsM19XdzZKYmp2UUlDZTk?oc=5",
-      "publishedAt": "2026-11-22T18:00:00+08:00"
-    },
-    {
-      "title": "Estonia to close border with Russia, Moscow decries ‘new Iron Curtain’",
-      "source": "NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNal96QXI0V1dfY0pMODlfUEpMNHJzcThBNjBKNDRPZEs5V05FVnpEaU9TRFJkWm1lMWE5TTZDRE1hMmJnZkM4ZFJrOC1rVHpVMUpydW5mTVhGOGs5elRncEhHUjdlb1J2cmdpUFpGbFplWDJnTmZRZVR0bTM3cHpRRllwb3lELXBNS3puNm83UTZKWlVYMkVUbFZCVEgxdHgzNUZ6X3lja1VnMWs?oc=5",
-      "publishedAt": "2026-11-22T16:42:59+08:00"
-    },
-    {
-      "title": "Russian ship attack is a consequence of Russia's actions, says Estonia's FM, PM",
-      "source": "ERR",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUG9xb1U5cFNnU3hXQjlqOHp0RF9OSjRIZWd0Z05aNi1uZzJ5TUhwYjFLeTlWSTYxQWxqVzhJLXI5ZUZSSURVY3RHX21wVWhSSkRBRG9pTUcwMGQyUllDTl9wX3gwWm9kTmtjVk1xeDREeThIVS02UXhjVHVuQVk0NEFkWTBRMk1NbEM0UzBMbVlMekpJN2R3Y3dlTFJnRW51Q1JhQXpKbmlSWFJa?oc=5",
-      "publishedAt": "2026-11-22T14:51:00+08:00"
     }
   ]
 }

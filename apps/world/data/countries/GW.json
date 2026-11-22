@@ -1,11 +1,15 @@
 {
   "iso2": "GW",
   "name": "Guinea-Bissau",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Bissau"
+    },
+    {
+      "label": "Population",
+      "value": "2,249,515 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -25,6 +29,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Turkish FM speaks to Guinea-Bissau president, condemns coup attempt: Sources",
+      "source": "Yeni Safak English",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUklYS1RneV8yWF9WTURLd29wR0ktUVQtY21PVkRYczA0elZva3VzbWk1Q09VTHlFT0FWWW10TWZvdF9rTUxWc1pZcVBRSll5d1pRbUtVRzl3OUY2dl91a3diOFQ3b2hpNDhrQlU1UUpldXEzanNuWWF6d3Y4aUFhajNnS2VTOExSbUtHREY4TnpSdWxnZkNwamFsbVZWd3FhRG9kN05jMi15RlpyN2paYjU5Q011UQ?oc=5",
+      "publishedAt": "2026-11-23T03:00:53+08:00"
+    },
     {
       "title": "Super Eagles news: Meet Madagascar, the side that held Guinea-Bissau",
       "source": "Soccernet.ng",
@@ -50,18 +60,6 @@
       "publishedAt": "2026-11-18T18:02:06+08:00"
     },
     {
-      "title": "2027 AFCON Qualifier: Guinea-Bissau beat Madagascar, extend lead over Nigeria in Group L",
-      "source": "Peoples Gazette Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMVlGaWNYek15cjhFYjBTR0hSU0dPMzJtMUlCOEJQejRBdEl6YklzWURGRmZEVUJzZkpDdjlIUHBMeS1Dblc2cUxZUUROeUpjQjNScmRScHdiNENncktZMzhwdFlMZWI5ajRUNUFnRXNXTFliQ01raW9rczBWZ0VvV2VnTFhhV2ZRN09SNWdSMld0MVE4cnNpVlBPRE5PX0NrRlhyTXBfUTI2cFdSRWFr?oc=5",
-      "publishedAt": "2026-11-18T14:05:06+08:00"
-    },
-    {
-      "title": "Super Eagles news: Bissau’s 2-0 sets Chelle a March sum to solve",
-      "source": "Soccernet.ng",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjZTSFVpRVZETVRPaFZDdVFGTXZ3T0w0ZldoVWVnV2Vpc1JzTWZWanRaeHpFNDFiY1NCWTBHU2tMOE1ST2JqclViTEhXeS0xR3FXSS1ITTMwaGc1NHAxWEMzM3R6U3BnUm84WEU0TzRsMHdDV2NMQXd1X3NYZUUtWEZtcEIyU0l5VGRadVlxSko?oc=5",
-      "publishedAt": "2026-11-18T14:00:00+08:00"
-    },
-    {
       "title": "2027 AFCON qualifiers: Algeria stumble, Guinea-Bissau make their mark, Tunisia sink deeper into doubt",
       "source": "Sport News Africa",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOTBzSnp3UEk2Q0J5eHhGNnlXRFFKVmhqT0xTc1BFUTBBb2NUeVZWZmV2TEh0VlJTY19fMlAwSFl2aFNfRWZhd0czTWtvMHdSR3lTd19GamZERFBuWWV1bmkyMFZocUVrTGhpYmtQRThFNWh1TEY2WmFOOVZKSk9HNVhjVDR1c0JiMFNob1JwWUdMVldESVFjaExlT1lJT3UwaFF0YlQtanlpWmJjNmgyTkZVSEs0SXQy?oc=5",
@@ -72,6 +70,12 @@
       "source": "AllNigeriaSoccer",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZzFtZVI4MTB0dnY5ZzQ3b0JjUFVDeWpMbDZFVFFCMWZhekg1NHJRRlEtckI4cTRpVEQ5al9GTVo3ZVp4OHFYZ2dxWnVBbGowRFFidXVJWWEyVTJoTHdnVkVoMTB3MlZ4RlRmZ3haemUya2NFLWYwNG9GNFBWRlB6Y2xuNWhPRHFZZkYtNDVFVEQ2OG82RGlibGU0Q3MwaE1rcUdnRUlhNE10RnRxWms2dEt2Z0ZMUDJqZE5SQnJpbWdGOGpH?oc=5",
       "publishedAt": "2026-11-18T05:18:09+08:00"
+    },
+    {
+      "title": "AFCON: Nigeria's hopes suffer blow after Tanzania draw as Guinea-Bissau take control",
+      "source": "TribalFootball",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPYURpOWRJOFBGVUhPcklOd0JxOThsWTh4OW9UdFN6ejVUQVBUcnNwdHNaUENnTjV2MTAyR3VYUktobGpkNnpxeGVWNVNkbFRubVRwS1F1NFdMaDVjSVpPdG9OOE9ZT21DVVVfaV93OW9GbFpINGJHTmg0OFhqNWVjX1dDV2treGVCYm1RVGRxVlp3MEM5SlM1RTB2cVo2QTJaZWlSMFc2LTRGZkROaVdXX0V5WWZFRXhKZ1hCY2l3eWdscFkyeUpTdlhaemZfOWV5ZWZOVC1qRDJBZVJUektsLUI5SXRzS1ZMc1Q4OXRYZXE?oc=5",
+      "publishedAt": "2026-11-18T04:50:05+08:00"
     }
   ]
 }

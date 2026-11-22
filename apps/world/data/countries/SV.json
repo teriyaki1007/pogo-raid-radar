@@ -1,11 +1,15 @@
 {
   "iso2": "SV",
   "name": "El Salvador",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "San Salvador"
+    },
+    {
+      "label": "Population",
+      "value": "6,365,503 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Stacy Herbert: Panelists agree on approach to Bitcoin initiatives in El Salvador",
+      "source": "Traders Union",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMXFrcWdRMFZGbFhmbzRMTWxWd0RELVJjUDZwdmE3WHhnSkVjUUdnVVpRa3RBNEVYX2tsWHFwRzJ5Zk85QUhGbW9yX0hqQnFKWUp4dEdIYjlhMWcwVUdWNWpYc3N1SVZPMEszYzJTVWlRSHNoSFZ6Sy1IdGFZR29iY3FsU2s1OHEteUJfVU96OA?oc=5",
+      "publishedAt": "2026-11-23T00:40:08+08:00"
+    },
+    {
+      "title": "Haiti Pathway Forward Addresses El Salvador’s Security Cooperation in Haiti",
+      "source": "IndyStar",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3ZLbDloUThDYkFkMkNud2Y0N1pOV3V4eVpVcnQtMmZRb2FEWmRqUDlKZjV2RG5NVjlhRkdpNXBxZlljVFhiNDNrMUtRbTNTdHRmTU5BLVhNaVZPYVpreENrSlhYODRGT2NaQVI4amdtamZBWno5bXFHSFVXTl9CT1hZVnZGRWVBbWhPWG1GMHF3M20xZzRZcVhOTkx6MDR6LVo5Ukd6ZHZXNmRleDBxaHdWekowVXlvVDVKa0ZUdVl0cXozWnc?oc=5",
+      "publishedAt": "2026-11-23T00:28:02+08:00"
+    },
+    {
       "title": "El Salvador sees tourism numbers soar as country cracks down on violence",
       "source": "News24",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQd0ZfSDVldXFKcWZWMGU4eDRkcmFqcWJKNnQzX2JfMnpWUkE0cGQ1M1VsTEtmajYzdERmOHhDUmFwNzI2Rjc0V204QzQ2OUw0cU9kU1VZSFd0X1VNSmNIVFc2enRvYlVmQ1FxdVRrRWJEQ0dOWVA4M2IzaV9FRG5NeWNxSFRmNWVaRDFBazRNNHBlNzBTbjQ0Rl84QXNSaFIzWE5yc1g1UmV2VFNQeDFYOU51MWxPbkswem16Qk9XMUpnWm5mSnBWaGxHc1NyNGFLUDJKX0oya0pHVkxrZDlOSmw4QWhWbjNhUFQ3b09aUdIB9AFBVV95cUxPcDRjeW1WbWFVcWdWaVQtcUZPMm4wTWNDWVdmWURYUlVCVW1aR2otSlNpU2d2c1FGRVhteEdkdFBtM3dYRnRfUzBXbWxHbnRWU1dmYzFlNGtlSmFadGludThFS0tIeGhyNVNhUnZNd3hpSUVrTGNGc1RVd3l6bFB1b0VLM1BkX19Odlp4cUNkZlpzTkxoTnl6ZVpXSWsyY3JrM1Y1Z3Z0Ym5PQkNzdDNHYW1RY3RKYlM2akJIdGJtTmRJT3R6aVMyUHV1ZGhQRzdIYXpYZlBqeWs3UTdZakI0WV9uU3hYLTJneEhnaUhIamlJZGVh?oc=5",
@@ -36,18 +52,6 @@
       "source": "News24",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWHBFNUtLRGpKVmRGTENPdS1YQzhKZ0lxcS04RjFkbVlhUDRiazlNR0ZHREJTU0NNYzl0X19BNDdPcTBQUkZ4XzJ5ZlFha1g2VTdDM0p5UGxtMHhwR2s1VngtU1k3bXUzUUVreHBjV0hhUWpZajFVMEx0em90WkZDQ3lqRFc3eXRsTE5Jbi1wREk2cFpUR1EzNm9ELWxLLTZwNmw3N2JCR2ZvT2NLamhMcWhuUktaWVU2bFNFOXpNclpWOW9KU2RBNFg5aGpuWDZyQVNtTm1YakhRamM3Q2VhMi1nQk01eE1IMFMtWXUxQmFaS01tVnVLSElqWjJrZ9IBgwJBVV95cUxNa1NwMlNrSmlIVkZDVldkZG5aRjE4ZHFJd1E3MjYzYnpycTZ4cFJjTnFjV3BHUVhLT3J0S2VnVHVZT196ZXFuSHRTRmxJbVVabEdndWIzWXZKS21hcWd0d204SmwwdG5zSGRhSWhMcGRqTDJrVF94c09meUVZREE2aThKMU5rRmtiV1VJLVNoSVhMVk8tcXFkbHREbHVlNVRFeThyMFc5N0ozbFZfejhndVYxS3ZGMmt3cEpINnVWNkJIUkQ3Szh6M096VG9RNWEtbDBjVDJmekxuWlBLaDNhMFI3MmRmaHNGOHF0UEk1Q3FzbGdrVGhZQTlCeTlpeEgydVlr?oc=5",
       "publishedAt": "2026-11-22T14:19:07+08:00"
-    },
-    {
-      "title": "Air Europa Adds 3 Weekly San Salvador Flights Dec. 18: Book",
-      "source": "deeparrival.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQmc5LVd5emxySmdROVRENW94WkRmQ0VDNlZNS1Y5bUZacWtDY0xiMWtHNWhGZ2N6SjU2UVZlWENkSmxVb3lVZ2c1NlhfSWQyUzBQQUtaRVB3bXVoT2NYTWNDQ1d4YmQ5bE9iSVFIREdCWXdkN181b1hkMXkyOVh1TDhPcFdqSHE1?oc=5",
-      "publishedAt": "2026-11-22T07:18:32+08:00"
-    },
-    {
-      "title": "El Salvador Airport Plans 6 New Gates as Traffic Hits 5.4M: Plan",
-      "source": "deeparrival.com",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTHZvS1BzeXpIM0NsSE5wSjZSejV6Zk5obndIWW80ak9MWUdyS09IRTlwVFlfZkUtWm5RNEF0Rjd3MDZpd2daYTNxcHdJMlF2bXhNTy1IR2gwam1IT0xGSEktRDhrcXlhbVBIeVFRbmNGeWoxalZyajM5ZHVPNjUtOFBiS0RyVmc?oc=5",
-      "publishedAt": "2026-11-22T06:04:37+08:00"
     },
     {
       "title": "The next generation of World Champions is heading for the Surf City El Salvador World Junior Championships",

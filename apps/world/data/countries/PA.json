@@ -1,11 +1,15 @@
 {
   "iso2": "PA",
   "name": "Panama",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Panama City"
+    },
+    {
+      "label": "Population",
+      "value": "4,571,189 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,18 @@
   ],
   "headlines": [
     {
+      "title": "Copa Starts Panama-Margarita Island Flights Nov. 26: Book Now",
+      "source": "deeparrival.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTWZJSVZtaUpvNVVibGZBVTNMVGVtbWlQV3pNZFdmX082c1ZMRXFHT09ZY01KblN1YzRmZ2JIMzFtQ1E4c2VGSWI4UmJ0TnkyY3RLZG1DZENhWUtUWDBqcVpQZUdkcmxhNU03U3N1ZzZoekxTamQ0T0VvWnR5aDBpMFBfVmJ6ME9sbWgw?oc=5",
+      "publishedAt": "2026-11-23T00:17:25+08:00"
+    },
+    {
+      "title": "Panama sees back-to-back defeats in FIFA U-17 World Cup",
+      "source": "Concacaf | Official Website",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVBLQlo5UXJ6dkMybUowOWw3WEY3Z1N1dnNZc21aaWZVZWpubGRlN0lBcVcwbnU4ZWVCNEV0bFBIOXlNakl5YUd5ZVBzNFYtakJWR0ttald3ajNwV05INU1oUzhRVDlKWlI2SnBGUHE4Nl9qdnFxc0J2NERQZHdfTERSZ1E4WmhlRUJsWDc0VHhkdmhIMnhyWjQ3UFV5cUxBTFNpczk2M3RkbGhHMzZwTHBEZnRlNURwTXc?oc=5",
+      "publishedAt": "2026-11-22T23:41:55+08:00"
+    },
+    {
       "title": "EU and Panama reject draft deal at UN climate talks, putting agreement in doubt",
       "source": "Vatican News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbGFvZVIzRWpoOWNURXhZOXhSemxYMzBTMlhLM2RwWWw2ZldTTXZVelJyVnRDeE96MU55eDExNm1ScUNfcy15RVJiMkw3TjRuWlRBM1QyRWI3UzY0T3RyeUwzeFhhTG8wWjRzRk0zZ3Qwa3B3Y1F2OHNXYkVFMlI3dU9NeFBpQ19vendLajl3VHBLVk01RW1EN0g4T3h6Y25PZ0V4ZVdONG1uRE5NRUNycDJvcnR3c0VSYlE?oc=5",
@@ -33,9 +49,9 @@
     },
     {
       "title": "FUELUS Opens New Office in Panama City to Strengthen Its Fuel Supply Services in the Region",
-      "source": "Cincinnati Enquirer",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdUozRUxHS0s2YXJ3STJGZV9IZUJpeGRzWllWQ1FMM2cyQmtDWGpaY3ktRVFNWWlDdDhUVnp3cXhyVnhPSElYVW90cUcxLUY4ZVRERzVrX0tTMEpzT2Rvb05zOW5kUkFSbTBfTnd3Yy13SnFmYnI0NWFwY3hPc01lUW5yTXJRRzAzQ2JoYWF0djJXbWR3Ml9QNi1xd2szeGttQWIwdUhiQnI2czNSR0xXMWdyM3l2V3h6RDVJVjdIUlhlT0xjQll4OWdCZFNHYUtHdFo4LUNLMFlxTnJ0djVv?oc=5",
-      "publishedAt": "2026-11-22T22:23:22+08:00"
+      "source": "The Des Moines Register",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNT3k4MVpabUpTeFpGQjlXY1BkLUpwbHU3blJ4M1BweXBxN195bW5yMnRKMEotdGlWSlVWbjZ4eEk4eHZlTlVzOEM2Y1FmR3Q0d3U0NVJ1d2ZKaTFQd0FWYllEdU9FLUdQX3RfMU5jS2NDaUNDQU1IWDA1RXItUFVNT2t3bUFrTHVKckVURFFsdElkaE1QRE9RcnhZN1F2NkMtZFFfNmtxT211VmxtNGZMcTFDNFBrY1Q0MTdjRkFwRGVLWC10YS0tZDhzWmpYMFBGVmRjcmwxNWd0V3VtWktQS0ZlRkhFYUNy?oc=5",
+      "publishedAt": "2026-11-22T22:06:15+08:00"
     },
     {
       "title": "COP31 ends without consensus as EU, Panama reject final draft | Daily Sabah",
@@ -57,21 +73,9 @@
     },
     {
       "title": "Feeling generous? Panama City has 2 holiday programs for those in need",
-      "source": "Panama City News Herald",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTTAwSEt5ZWdvdjc3LThwX00xOElNd1ZKTFhHbzhkN0ctYlk2OV94R1h0QlgxcXJHdFZZN0M0VDdKamZFOFg4bkZjVGRaeTQxVm1aVFZaS3VSclc1NnlyUV9ITUZZck1TUWlFUmNtQk9yRUpxVmstcW5Fb1dwQVJudVVLOEdwaHBWS2s0cUlMSnNQQW9vZzRROGZoS0xZTWdsYi0yZUNadlFtemVhR3R3U2J0alI5TlRIRkJZMzZXNjU4RWVXaHl1d1JrQW5EckRFNzloVWtTU3QtLUVEU0RjcVZheTU?oc=5",
-      "publishedAt": "2026-11-22T18:01:00+08:00"
-    },
-    {
-      "title": "President Ali among 10 regional leaders confirmed for 2027 CAF International Forum in Panama",
-      "source": "Guyana Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbFN3UVd1ckh5NXpIdnpNNGlOOC05dGF2Mk9JSDFmU0lvbmV4dVEtblE1SUc4ZDY0Mkxrb1RTd2p2NlNYY09YRVUxeDQ2T2tzVElwMnVjM1ozQ0JGemVJanhLTE5VVmtnNmZIbjBETlJuclF5ZUJGWlIxbWtMRW5YeUlzcFI3MmFnbTB4Xy13NmdvSDJoM1kyTUVmNWN5MXAzVkZscVk5Y2UzWVJLWDBkbXB6NGlwWk5GbzVkWUw4TThBLXZBdG40Ym15TTg?oc=5",
-      "publishedAt": "2026-11-22T16:20:59+08:00"
-    },
-    {
-      "title": "Cops n’ Kids returns in Panama City Beach",
-      "source": "WJHG",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9sTkVvYWljdlFSLWoxVjZnRGtUQUQ2UzBQX1NMcmM0Znh3OV9qY0p0WnRfMkJlazZaNHlVQ0tsWG5HVTB2Tk5YelU4MnYyZm5XLUZWR3BOQTFkYmctUUo0blFjcm5YcjhtVTluX1VjY1Y5YmVtM2ZxRVFB0gGOAUFVX3lxTE1uby1XYnRGSmc0cTZRc3FWSTlSYmlkM0pQVUhiX1Z4QnJMcmlZSEpDTUoyeko2WUtVMUlrSVQ3a0EzU082SF9Zd3czSzQtcGxLMDJoRFViSE1vVS1nMUI4bHJFZmdCSDc0dmZVQVNOY2sxd19HSFBSRTd4c05IN3RybmRZRkl0T2F6UHY2VHc?oc=5",
-      "publishedAt": "2026-11-22T12:43:00+08:00"
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeVpBSkRjVGJwMi04Q0t6UlpzTVM2X2NxaVZ3bUkyaTVXTjEtQkRlYjhqMjkyZW5qallwVEdoQV8xTXhkNVV3dnlqdXJBRm5pVmcyZzE1d09iQlZQYXZEMDBVV0Q0aTFqX1JZcWNFc2xFYjZNWmFSTXRCRTU0WkZFb1B5OGpIYWt0?oc=5",
+      "publishedAt": "2026-11-22T18:01:24+08:00"
     }
   ]
 }

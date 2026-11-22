@@ -1,11 +1,15 @@
 {
   "iso2": "JM",
   "name": "Jamaica",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Kingston"
+    },
+    {
+      "label": "Population",
+      "value": "2,837,077 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
+      "title": "Frontier’s $399 Unlimited Flight Pass Covers St Thomas, Aruba, Jamaica, Puerto Rico, St Maarten and Punta Cana",
+      "source": "Caribbean Journal",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZGZMcldiSnVraFR4TWtOSmRyMzZZbUhxeGNucF9ucTZzeGJrdW1YZGhicVM5anZtTUdiX2hTR29QN0NRQWdYaFUtQWFqengzQUMxYnRwYmN4MFFiVkRfWXRTcW9LbFNGeVJHd2MyLWZMeUdPZUNlTnMzVGpmX0huRHRrZnVYVmVN?oc=5",
+      "publishedAt": "2026-11-23T04:01:09+08:00"
+    },
+    {
+      "title": "Secrets, squabbles and laughs as a Jamaican family mourns in modern classic Nine Night",
+      "source": "The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNDV1NGFtbkRDS3N0dlZlM29Pb0o5aFowdlZuakxKeVpXN0IzejE1eTdIVnRibnJES3p5dl9zUVhEUjF6dEc1MUtfUThJRmlZdDR2aER4QlJ1TG5IVUtyWHlPQzNEZHE0WlBlZXd2Rm8za3N5Z1pYanJkTUpOa3BoOC0yUldCRWFnWEtyVFhEMFUxXzcwVEE?oc=5",
+      "publishedAt": "2026-11-23T03:59:00+08:00"
+    },
+    {
+      "title": "Landslide buries major road in Jamaica under mud and debris, bringing traffic to a halt",
+      "source": "The Cool Down",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdDlVRktRTHF0QW9UQjg2ZkxOM2ZDQ3dBMGUzLVFnUTB1LUpWajBDNnN1UE5CN1NpeWhaUzB6YUNLM0UwRWpCMk9zaTVKQmYtUzM2dzRIdXlsaU5ibDZGdldPQlBhNXFqYjVGTTZ5VlNzSjBCV3VOYlpJMWtMQTNiSHF0MllKUU0?oc=5",
+      "publishedAt": "2026-11-23T01:59:00+08:00"
+    },
+    {
+      "title": "New Ministry Marks Major Shift in Jamaica’s Mineral Resource Management",
+      "source": "Jamaica Information Service",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN3BFX1FqbllkR3h1MGZubGJrSW8wNEQ5RWhmQnE1Z0t6TzFGM1NBV3AtcUlMSjZfMFk2eUx2LVl3dFh4UmVycEFTZzR2SEF6aW9PanZ6OWlaTjNfVmQ2dVVRUzFYRnp2Wloxc2tFWlhkclJDZjJuVXVzd3I0VVZRajVRc2xNczFWYmc2SF9PdEM0S0wt?oc=5",
+      "publishedAt": "2026-11-23T01:55:09+08:00"
+    },
+    {
+      "title": "Green calls for increased investment, innovation and value added production in Jamaica’s mining industry",
+      "source": "IRIE FM",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdWlKZ3RXY1NlM3picEcwWWF4V3N3NDE0VFE1cnY0NXptTDE0Sm45SjlBSVdFcDdqbUcwdkdMM0hRZTZWQWhVSnIzZlN3MVJjVThFOE1XeXlGZnFIdzZGYXNZc2pRRzhheXdtcjVCS194SFREOW52Q3RfVmRRS1BUeG11LVBTdDhrM2pqTmg5SnloOXFNbDhzQ0xScWd2MldON3VWaENWVGMwT1ctNDdNbTZIV2RUUGg5c1p5Nnc2aw?oc=5",
+      "publishedAt": "2026-11-23T01:54:50+08:00"
+    },
+    {
+      "title": "Digitize Jamaica founder says AI benefits should not be slept on",
+      "source": "Jamaica Observer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaGJlS042a01KS3VFaVRuTlRUOHp1V1oyTGlpNVNyQ1lvOEo3VHlWVU1qeDBDNlVyV3NZWDJaSktILUpYWWJYbm9PaHNjQUxvVWo4a3R5R25DS1dMR2dRYjY4RjNkSl9VTWJpLTdiZFl4RFJWdVlsaWdvaGp2b3ljRG5idFVuTldoQ1RNVnYwS0tiLUZIZ3Uxc2xzcw?oc=5",
+      "publishedAt": "2026-11-22T23:17:54+08:00"
+    },
+    {
       "title": "Mr. Vegas Wades Into Jamaica Relief Homes Controversy, Takes Aim at Mark Golding",
       "source": "DancehallMag",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTlBLWFN4XzFrNTlJbEVnNk0zdGNJRE1jY0hFSUZMcFU0RC1TbHFnLWd1TWpMemtYRWYxM01UWUNqbkNDWTlZNGtsVEQ4LWNBejFEbVVXUjdldm00NjJFcVZPN29MeFQ2eFNqOU1tN1U1QlMxd3FESGFmbXItczMtWWpvenNTU0J0em8zVU9MckVmRzBrNnRBQWd3YmlxWE1yMkJHa2oyOGYtSFlRdVZCM2c4T0thVno0eVY4cm83dEhKWFFkX2hZ?oc=5",
       "publishedAt": "2026-11-22T22:04:56+08:00"
     },
     {
-      "title": "Secrets, squabbles and laughs as a Jamaican family mourns in modern classic Nine Night",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNDV1NGFtbkRDS3N0dlZlM29Pb0o5aFowdlZuakxKeVpXN0IzejE1eTdIVnRibnJES3p5dl9zUVhEUjF6dEc1MUtfUThJRmlZdDR2aER4QlJ1TG5IVUtyWHlPQzNEZHE0WlBlZXd2Rm8za3N5Z1pYanJkTUpOa3BoOC0yUldCRWFnWEtyVFhEMFUxXzcwVEE?oc=5",
-      "publishedAt": "2026-11-22T21:25:00+08:00"
-    },
-    {
       "title": "Commentary: My two-pronged fight for LGBT rights in Jamaica",
       "source": "Erasing 76 Crimes",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQWZaZ1dMUjdKbUNOWmtOOEdRdTlLcHFudVVFc25yRnBMdE9lY3ZoZ2xLZ0g3bmFfbWNJOU9HbmREYllGSDFReUxZbWE0eDNJYlotTFN2LXZHQU9NQVZ3TGFDa1kyUHYyQ1BjM2hBN1VXMXU5VEM4cTBFVDRvN19JZ0NxVUZRR1NyLU9EcExKREZaMjZkV0E?oc=5",
       "publishedAt": "2026-11-22T20:20:04+08:00"
-    },
-    {
-      "title": "Jamaica’s growth problem starts in the classroom",
-      "source": "Jamaica Gleaner",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1NKNllxWDlMbWk4dWU1R0ktUVRLSVNOZ1M4YngtVmRZSk93RGUwNkhoRzUwdm5CMTZRaTZnTEdBYUc1TVdvUzUtMDhOd2VnaE5fbXJkbk01YUVPb056VDB0QnZtT3Z1VnFuSC0xZTNuNWM0YnVFNzdSS19SQUJRcDloYUxCc3MtVTdfR3RlbUI3NlB4MlJacA?oc=5",
-      "publishedAt": "2026-11-22T14:10:38+08:00"
-    },
-    {
-      "title": "A. J. Nicholson | Jamaica’s disastrous journey: How are the mighty fallen",
-      "source": "Jamaica Gleaner",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHh3RWFaTWxhTEQ3T2pudVNSTWFDa3hoMGZhbFB5czRKTnNYU3VjLWViRDZ6bGd4ckF2QXZOYnpYdEJwNmRLdlduWGZVWWJPcTdoVVJGcjFnTDVRcE1CbmhQRGR6em16VEZTaTk3SzZ1SVFVZGFGQ194MjZnRExnQTdhYVVTemYzTW5lTENOQXVtdmJmMElDcGF1c1JBQ3NvNjJxMlJuQWU2aS1XUUpuVzZn?oc=5",
-      "publishedAt": "2026-11-22T14:09:08+08:00"
-    },
-    {
-      "title": "Safety sells Jamaica",
-      "source": "Jamaica Observer",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Ha0FFZld2S0xyVWZWQ0RnNWlrMWZpUEVyclBxeDNISTBBMndrWi1ER2lYMjJSLTg1cmg0WFduMVNWSktzdzg1NlkyUDhmUHNhazlQSGNPNGhaYjdTZldfNnFkZXRSNXlwVXhpdEQxaC1zZw?oc=5",
-      "publishedAt": "2026-11-22T13:19:50+08:00"
-    },
-    {
-      "title": "Jamaica’s future builders",
-      "source": "Jamaica Observer",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FSTZCcWlBNmxtLVdaaC12VkxZTnFxb3FJcHV5OXNybm16UzJpSGdaWXc3RW1PNWdhUG9YNXR2dkx0TmNnOHdDOVlWVTVabnV5U04yM2ZKVENCeGFYUDI5QkMwQTZfVUlJUU9sQVIxRjU1NmxIQi1V?oc=5",
-      "publishedAt": "2026-11-22T13:08:47+08:00"
-    },
-    {
-      "title": "Family races to save Millcreek Jamaican food business after building sale",
-      "source": "FOX 13 News Utah",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb3h2UER6SVBLMkFtYUYwMzV0UXE0UGQwdmIzVlhjMUdobHMxeW1XeHhDbUxpd1ZySTU1ZUthalhya0JnS0p2ZUNtbkJJajBhcXpFMmJHR2lNd0ZOTmFXcy1iWVVPUVdYVWdieFBEZHlHTnpvdDR3Q2QtMGsteTZyVW1qTHUzQjJCUnJzYVU0OFJaZXd3QjRqd2xVQ1k5RGpGTnZ2RnZkbTMzS3ZPbUJUSVRLU254cnUzbTdUTlhwQ0J6ZG55R3FZRg?oc=5",
-      "publishedAt": "2026-11-22T07:24:26+08:00"
     }
   ]
 }

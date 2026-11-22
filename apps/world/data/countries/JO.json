@@ -1,11 +1,15 @@
 {
   "iso2": "JO",
   "name": "Jordan",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Amman"
+    },
+    {
+      "label": "Population",
+      "value": "11,520,684 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "UNRWA, South Korea Inaugurate Renovated Auditorium at Amman Training Centre",
+      "source": "وكالة الانباء الاردنية",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORHI4UkZvR1MweWlYQWxHRWdTZjdXU1BmVHVoTk9jZlN4WUJ6ZTdsbWZ0TDh6SkltUFU1LUhNVkk1ZXRUYXRaOEZual9abDR6d2JLVW1mMHdfVFZRMy00ZENtM0dhR055NU9ZNFBZMGs2Rnk3UEowUXdzX3pPemVNdVZNLTREMDViblRzaDJtVEVMSWc0WFhhakpEZjNuNktDUkg3MWRB?oc=5",
+      "publishedAt": "2026-11-23T01:14:39+08:00"
+    },
+    {
+      "title": "Amman Municipality Launches Amman Children Charter",
+      "source": "وكالة الانباء الاردنية",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZlFoZk9BbkFSN1ZiOUNpMWdhTmpMOFNKZnNiU001VUF0Yy1HSmxWeFpjX0JOM3VGNTdZN3JHVXdiQVM1Q2VMYl9VWTZNUlk2bjhVNDkzbWMzc1lSU1Z4czhYazFhUjRvUDFWaDZCc1VjVWttUXJhZFVkWG5aWTVXaVlHek5kZw?oc=5",
+      "publishedAt": "2026-11-22T23:36:23+08:00"
+    },
+    {
       "title": "Greater Amman Municipality issues first Corporate Sustainability Report",
       "source": "Ammon News",
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBTaV92MzFoX18xZmlpOXVpaGo0YmlPLWIwdThHT1hmUm41ZFpXcFE3b3p5QVVNOE4zUXRzZ0xfYlFIVmRwbEpGb25hTzFwdw?oc=5",
-      "publishedAt": "2026-11-22T18:12:29+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wOG9WV2VEdHdfcjRsQ1ZWcUNuYThfNzFFYWdiaFZ0ZnhlWjNNOWV6OTFVN3lrMGN2S1d0RnIwX2FQanUtRlRkUE94NHp4QTQ?oc=5",
+      "publishedAt": "2026-11-22T18:17:19+08:00"
     },
     {
       "title": "Construction Begins On Jordan’s US$6.7 Billion Aqaba-Amman Water Desalination And Conveyance Project",
@@ -60,18 +76,6 @@
       "source": "Water Tech Online",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV3p1Zlp5SGp1NmRCNGZwbFJVcHJoX1FiZDNEcHdMWWFtaHAwUHdpQ2xuc1FkaHBweUJxZDljUmFEc2kzc2dTYmZpZkFuZV9EZ2lIdno4MXQyTnk2VXo5ZTNmd2prMTFUenF5cjVqMjd5dE8zTjhQQ3VZdTF4SF94dkkxWVY1Y2hnSmoyby1rYXlEY25rTTlvUEdIQWJabVFsdW1wWFVwbEFoSGJValk3Ri1sZHJ2OEdSbjFFenNhcEpZMkhSSW1ZbWdRNTNNZHNvZ2FWVVln?oc=5",
       "publishedAt": "2026-11-20T03:53:57+08:00"
-    },
-    {
-      "title": "Jordan, EU launch 1st investment conference with 15 bln USD in opportunities",
-      "source": "Xinhua",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CYzVyNmxnZGMzQkk4a2tIYWlQdHRlb1MyN1pWcjl1OFJkTVRxSTYzYzNUbE9SbFhBSzNoQklHSjVfbnFJUUZOWmtlQW9xekt5TmJpTXRqcy0zY3ZFUWVfMzVPeWlRd3RvVXA2YWV1ZG1iVUFHZVUyVHd1djA?oc=5",
-      "publishedAt": "2026-11-19T23:57:00+08:00"
-    },
-    {
-      "title": "Jordan breaks ground on US$6.7bn Aqaba-Amman desalination and conveyance project",
-      "source": "Smart Water Magazine",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObVE5aXRUTklTQU9KY3lZdnVNNld2UjIwZXVQTGNDeE5OTngtQTQ0NG1YWlBLdTM5MjdseGlzSGFCYnRyZVpmUmVIaEhOc3pWcWphSWdvU29saEVYMC1FbFJXQjJxeUlhcFlIbzVnOGQtUTY2YmdCa1lGWFFZY25RMW1FNS01QkEyTmgzbnpsRE5mNDRkTWVBNEhTelNGNlZRVnpldGNGSXUydVk5LVFyNEl4S185Z3VPNVlaSXBmYnhydw?oc=5",
-      "publishedAt": "2026-11-19T21:49:14+08:00"
     }
   ]
 }

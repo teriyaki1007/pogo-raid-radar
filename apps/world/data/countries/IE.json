@@ -1,11 +1,15 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Dublin"
+    },
+    {
+      "label": "Population",
+      "value": "5,484,367 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Several big wins for Cork soccer at the 2026 PFAI Awards in Dublin",
+      "source": "echo live",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05aEozTjNCRnlWaDVaSEtsRTFxemJtUGJsblJUUlBGVktMbkxTel9DanhrNnladTZuV2ZaQ1kyX1Y3dEEtZWp2MVRVMXpMaEVibXotd2JHb0tWRGVEeWRHNTRn?oc=5",
+      "publishedAt": "2026-11-23T04:56:55+08:00"
+    },
+    {
+      "title": "Ireland weather: Polar vortex 'battleground' of wintry hazards",
+      "source": "Dublin Live",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWkxcGQyRU4ySkpGMXExdk1XRU5idFdNYmNzMEdKcTNjQmhpaFd5cU5YQ1BhWGZtU09kR1cxNnhoTk9mTDVkVVE2TUZoRG9mZ3hieVJrTzA0eGJzTWJILUNXd1c1cW1iczRQeUZEeDg2R19iUjRzTWhJNEp1bHVhRUx4T200UnVnN19MdnBlaGpyc1E3Vk9VQdIBngFBVV95cUxPUS1WZ01kSEVtLUZNWEJEb1lQSG85dUwwd1Q5VUUtdTVXSFB0aE5GdVhqd0dsVl9zU3VCN3E4Q05rdUw1OXZkc1gyOGxNSjNIdWNudll1VGxmVmV6dWxEcEk2cHNRWmpobUQyanB6NzZ6aHFCak93Ny1ybk5RS2FKS3UwSFN1VzMzWmkyajZoY3J1WWNPM1JqTGp0NG5TZw?oc=5",
+      "publishedAt": "2026-11-23T00:07:45+08:00"
+    },
+    {
+      "title": "Dublin primary school teacher and professional Disney dancer crowned Miss Ireland 2026",
+      "source": "The Irish Sun",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZkl5Rk5wMjloR3ExVWczenYxUHBaMjl0cGd2RjFpcHNIbHZwczh3Y094cjR5VnZ4M2NsOWlQYlVzMzQ3QWZkdWRSMzV3c2ZBajFpdnhjY2xJem5scnEyTF83OFU5QjBSZDZJYkt4akx5NUxLY0R3TGVMR2JrN2hWb05YSVJCd0hSRkNxMXM5TDc1NWxNc3lNejVn?oc=5",
+      "publishedAt": "2026-11-22T23:03:08+08:00"
+    },
+    {
+      "title": "South Africa Media Are In Panic Mode After Their Shock Loss To Ireland",
+      "source": "Balls.ie",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoN3UtVlVhMmlEV2pLYXZCaU1OZHpKTVdzelptTUtIdVphdDFOLWhEWUZDSUl2Y1JOQkxWeElEOFozMFZ6bk53MTB4MndnUWYxQ1RsSXl2RC1wVlhPeDdvaUtqbkdld0IzY3ZoTDBJbVlOYmxpbGZ0UkJtcDh6Umc?oc=5",
+      "publishedAt": "2026-11-22T22:50:56+08:00"
+    },
+    {
+      "title": "In photos: Lucan teacher Iris Ruddy crowned Miss Ireland 2026",
+      "source": "Dublin Live",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVi10WGFGQWp2dGZET0hMWWhDTHN1UFVqd05kcl9XZWVJZHl5blhPTy1qdWtLdl8xSExlb2ZxQ3FJa29QOW9nWk11NnRBRnE3ZWdzcjhIYUY5c055cHZnWkN3dGQzYlNjVEItNXpUbzlCTU9qejlIMl9hRXhleXpGOGNBamFGcTBFVjViSNIBkgFBVV95cUxOaHNGZVEycjZyVFNqZUxoUUpsTF8wX1JpbHNfLWNqMDlKWDM5amdjOXNmTTRoMTktYkxuTjMzT254ZjB4aGwtclQ5dkNpNmgyMlFOa1BiY1Zkb01XTzNKV0lTcVJwbE5hUGJnZ1NLMTQzbnNtVW82UlEyalBISkpic0hMVzloVlRabXUwZm53NXFHQQ?oc=5",
+      "publishedAt": "2026-11-22T22:02:42+08:00"
+    },
+    {
       "title": "Dublin primary school teacher crowned Miss Ireland 2026",
       "source": "Extra.ie",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTnJWWl93cHhIaE0tb3ZmVk1XV2J5Nk5VOFhweDlkVko1OUlzaHNGVzNfaXJsbWZsTHFnTUtRNkFmWV9aSi1UR2xtWHpuRVg2bXhEdWMxcUVad2tnTTIxcG9rSHV5d2o1Wk5xQU81OU9ZaEozcGJMcUl5ZF96TW4zbGZXUWFTemNx?oc=5",
@@ -42,36 +76,6 @@
       "source": "Rugbypass.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWEswRkxwUVpTZnBOdldoMzEwWWpxZHlGbkw2YmdIdV93aktsYzJYbUl1V0xhWU16RFJzTlpsRndQOS1KOXhBUE5NN3A4bTMxVWxteHBKaGVLQ19ITC1sd1RCUXJmb0FoczJhcDRnYnFfQ2JtcFRrRXZKQldOd01GVXk0YXJTUE1NQ21yOS1GU25ZcDM5a3kxWQ?oc=5",
       "publishedAt": "2026-11-22T20:24:38+08:00"
-    },
-    {
-      "title": "Springboks left searching for answers after Ireland expose flaws in Dublin.",
-      "source": "Fullview",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbVN3bjZRazZyQ0swOFNkZHNzajJrU1ZOM2ZFYXRCRFNUcUJOdDU1MzlTUVRFenF1bkcxVTFUeEo1VUhpYXQwTmVHZnkwc2tPXzBka0h6YmpVak90UjFYMGZ3QWdQWlVfSm1vSWpaTW5LbGVqVmFLa1JPYW5mQXM2ZjZOSEd5RTY0SzN4UldnZW5Ta251TVg2VzRzU21YNEk?oc=5",
-      "publishedAt": "2026-11-22T20:01:07+08:00"
-    },
-    {
-      "title": "Ireland weather: Met Eireann pinpoint counties most at risk of flooding amid rainy forecast",
-      "source": "Dublin Live",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNak5XV3VzdkJWaDkwWjM5S2FTSi1zb1I0LWJRaGl6eDlNNHNzeUUyYTVaenMwY0NISzJiMnVIaFVucHJUa3prbEpyNW1LeHdJMV93bEtkTl9KS0xOUHptRXZENjRaaFF4WjlBbUtoZ3VlQV95eDZNZlMtRVIya2xSR2ppMHNGWEN1UTB5MTFXRnBnUQ?oc=5",
-      "publishedAt": "2026-11-22T19:37:30+08:00"
-    },
-    {
-      "title": "Ireland 20-17 South Africa: Did hosts 'change the narrative' against the Springboks?",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1xWXhnVkt5czI3M21CblhiRVJqY3E1S3VqYnZNTE4tRUlxQmpLcGF4bnJKTENsVFVvZjA5WkhiVXVrMU01SmhRZjRjTGZwdkFQa1JhUmItVHpzc0k4VTFCNWZ4U2FSTTdPUGdBdkowRQ?oc=5",
-      "publishedAt": "2026-11-22T19:09:29+08:00"
-    },
-    {
-      "title": "Pics: Iris Ruddy from Dublin is crowned Miss Ireland 2026",
-      "source": "EVOKE",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VcmZTQ1JaMmtaaWVaSUhmM1d6QlppWkowZEJvX0ZodmJIbnZjMGZpdWFQOWJ6Q3lKSE1kcjZfSTNyQktJMk9LNlVTYmdGajA0a0N6aTZOUWliWldOVVdxSWRYeU5EU0lyNGRB?oc=5",
-      "publishedAt": "2026-11-22T18:01:31+08:00"
-    },
-    {
-      "title": "Ireland 20-17 South Africa: Springboks downed as Andy Farrell's side hold on for big victory in Nations Championship",
-      "source": "Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdHNFbGNYYm43ZEVpSGdpa1QycTZVamtzVmVzOW90bG9waFI1aFlVSGQ0YTAtMVdXMHNBeWNXd1YyWGM3OS1BU19RT0l3dFF0VHdIRExSWkdlbWFIVW8zemYwaFRtS2owZnZtWnNxaVE4OU9VTUdLbGc2Uk9rNENmandjSW9NT0lETk9idFVNLUJQdUk4WWhVMkdVSUdpczg1MTlsWk00aW5pYXBKZVhRUUtIV05QNUxRZjFWVWZTWHRlVUlmMU83dWFvVjZ4Yk9vSnM0V0JKa3lmd1hVTk4xTDRJX21pd19LdEU1V09WV05qdjVneVAzekpR?oc=5",
-      "publishedAt": "2026-11-22T18:00:02+08:00"
     }
   ]
 }

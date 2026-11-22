@@ -1,11 +1,15 @@
 {
   "iso2": "NC",
   "name": "New Caledonia",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Nouméa"
+    },
+    {
+      "label": "Population",
+      "value": "295,333 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,10 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "Korea Republic’s fast start sinks New Caledonia at FIFA U-17 World Cup™",
+      "source": "Oceania Football Confederation",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcmJYT1BVYW5lQ3otWmhycXZfUjQ1MWdwMHlBdGlXcmFVajBKNHdxYTNjQ3pvUl8wM0VqdzY4YllBTmc1c29lM1FORXhpTGN2VS1oSnU5MlR4VGVNTXZNM0tBcDFQLXU5U3VwUUpmYnROYjc0WEhvRk5RTkNCcHJjYVNjQ2hWOXMzTThYbTRwS2NES0xhM0JOVmMzZXUzUmRKVGZzRA?oc=5",
+      "publishedAt": "2026-11-23T04:44:22+08:00"
+    },
+    {
+      "title": "Match Highlights South Korea U17 - New Caledonia U17",
+      "source": "YSscores",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBHdmhVMGpDTVl5UlVTRDJ2Sms1WjVPMC1DRS1pNGp6V0pBQThtXzlfaVc5V3JYZ1Ruamp5RW53SHZ5V3lVU09oX1lqNEI0Q2pyeVE?oc=5",
+      "publishedAt": "2026-11-23T01:41:51+08:00"
+    },
+    {
       "title": "South Korea vs. New Caledonia (22 Nov, 2026) Live Score",
       "source": "ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCMHg1UEQxTF9kX052LTUyekE1T1F4SmhfQWx6TnRFLVJIOVgxUjNJWjBkZjhGck1aenppV1lneTFXaGkyVmp2QzJFS2dfbDVuYzdSZm9MWGFJMXZpSmZaWjZCazRodDg?oc=5",
-      "publishedAt": "2026-11-22T22:38:47+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jVXozNWk3emYzMWYxSmh1OW53VGFzLVY0QVFvVWZqX1pZT2d0Sk5icnhReFktalpsd1NPMmlPN21tS2ZxM0tIN2d2UHNZRnFXeU00SXhIdzVDeWNJSFl2QWdBcDhCMTBz?oc=5",
+      "publishedAt": "2026-11-22T23:11:13+08:00"
     },
     {
       "title": "Salzburg-Bound Kim Jiho Faces New Caledonia in U-17 World Cup",
@@ -44,16 +60,10 @@
       "publishedAt": "2026-11-21T23:34:15+08:00"
     },
     {
-      "title": "Why economy beats upgrading to premium on a flight to Nouméa",
-      "source": "Stuff",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPajVoVXppUWJ4ZVdrT0VUMnBPbWpRMlZNSEpod2pLcnVqWnRmMTBKQXRxVGxST0NKY2RuMjM2bEJJeFo2a2M4bFg1N3BFZXdrZnpaODhydFNWV3NSVlZsOGFFLTc1QUx2V05uYmducUJpU0tWdE81a1pZdUo3MUNEbUN6cEEwbVdHNk1xRFpWOWlOTlpp?oc=5",
-      "publishedAt": "2026-11-20T23:00:00+08:00"
-    },
-    {
       "title": "College of New Caledonia researchers receive nearly $350K to study urban bears in Prince George",
-      "source": "North Thompson News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdVFYVFF6aXRVMTRwcExQV3hIMFY0REdDdlotQTVtYjctZFUtWGxFZHZSR1NYUUdZYlVoU2ZrRkcxNGFHbWs3TzVkRXN4U1E2MTRuV0NpcWpDYTU3MldxOVBOaHBVcmpaQTBxLVZscVluMHFzaVhRWEs2YUcwNTVtQ2hqWVZOYl9wQURYVXZQaWRTM0tHWkZ3R01CMmQyalpqMy1HYlRjZUZmLXhuUU1BN25zTjlnaW41SEYybDFuTmRWbV9UNmxOUkhsbE5sRERTMUFzQQ?oc=5",
-      "publishedAt": "2026-11-20T06:19:43+08:00"
+      "source": "Fort St. James Caledonia Courier",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLU9faEFURGtFOUNTRE9Qc2VQa3RJRGRZTmdyZ1FnZ3BYZ2dNQ3hWRTlEbVlGaVg1QnZwX0E2S0E5dmJEM1gyT3ByMUQ3MURYN3h0dU9LanVyb3hTVTl5T0ZicEVlb3V0WWcwT2ZfVjUzT1hiRVg3RWF6LTNKVGdPYlQ3SktQTl9yZHRRbV9hMWxKRVdxQjhYcWNaZHlDeG5jVXJqUU1ZQnBxMlRGbUNsTkZUdndRVC1Ya2ZfQlBZOGtnTjlId3N0cU9tdXkwMy1C?oc=5",
+      "publishedAt": "2026-11-20T06:28:48+08:00"
     },
     {
       "title": "New Caledonia go down fighting in opening game at FIFA U-17 World Cup",
@@ -66,12 +76,6 @@
       "source": "Oceania Football Confederation",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMG1WeHI3Q05iMjFiTDV1V2wwRGtoaERtMGUwQ1o5OV9nbHdGMUgxUzlLVnJwU0VXc2QwZmdIczY0NlhFam9mc2J4WHBNc011QzRVRFp0YXVYeGxGWkh0ZTBfVEdvdzZaV3FUZGVzaURzdjZOekk0TGZHRHlza1BaVWNjNXZEcmdTMmpNZkR6TWlxS1N1bi12Tkxubw?oc=5",
       "publishedAt": "2026-11-20T04:10:41+08:00"
-    },
-    {
-      "title": "Match Highlights New Caledonia U17 - Ecuador U17",
-      "source": "YSscores",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fbTZGNGtKdHplNFc3cEplSFh4RVlOREZiRHVvOGh2QVJsLXQ4Rkd4azNJU000VmM5c2tqQ1dyOU8zUXhzMmVkRmJJM01ic3VSU2c?oc=5",
-      "publishedAt": "2026-11-20T00:10:20+08:00"
     }
   ]
 }

@@ -1,11 +1,15 @@
 {
   "iso2": "LU",
   "name": "Luxembourg",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Luxembourg"
+    },
+    {
+      "label": "Population",
+      "value": "686,970 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,16 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "Luxembourg had no choice but to reject UN climate deal, says Wilmes",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU1hMZkMwRVFHRFp3eXJuZEZPeHozeUM2cElSVGNLbnVIVTJ5ekhnVDN4dmdhUEYtNXBMVks2SXRac3ZrWmJHMFAtLTdNaXNKb2FGYTVyM1FfQktoUi1sQVdhVWdTOUFvSlk3QVU2cjY0U05WZHdrV3NETEVHTHB6eEpwMTZvb1FSMk1FamhNc012N3BpUC13S2ZzWFJ1ZGUzZWpLT0h4TjRRTGNwMHVqVg?oc=5",
+      "publishedAt": "2026-11-22T22:30:00+08:00"
+    },
+    {
+      "title": "Luxembourg Red Cross unveils affordable housing project with 25 homes",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTJzenQ4QjIycW93R1Qzajc4SEloMl9ibnZvSkIzX0UxSGdQTjRNa25GX2FBRHR2Y2RMOHV3OHRRWUF3dnVIWURZUnkyYmlnMldYbTVJQi10Y25zbHU1bDB4LTh3cWpDR0EyZ2VFRHJzVFMwUXFYZjNoc2dyMzZoTGtiQWxkVFFoNDNBSmFxTHluM2tQR1k0QzAyRzVEcllRY0NodzJMbUdrV2lJaXJzdmdNd3FxUVV1MS1r?oc=5",
+      "publishedAt": "2026-11-22T21:00:00+08:00"
+    },
+    {
       "title": "Sunday Interview: From Luxembourg to Iraq: Pauline Weis sets out on a journey of discovery",
       "source": "RTL Today",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTi1ZY3BFMF9BRTVmOG1QbFRkaEpNb2lnUzJGTnZxQ1Ftc3RCUXNvaDBRak13dmJuOHJ6NzRzV3dFOHhSeHh3ck5wU3Nxb2VoRzVFajRKcFVRU1pQUFpaR3lzcHliQ29EWGlGWE9wWVlFV05yMTVOa1BmaUVkQ1V2aUVVNGxMQURfU0szUnlUeDN4c1QyWjVKeGowTDlRZGY5dnJnNk9nTUlnczhtWjhnQThMa1lISTU5M1E?oc=5",
       "publishedAt": "2026-11-22T18:44:35+08:00"
-    },
-    {
-      "title": "Why are Luxembourg’s Spanish Civil War volunteers still controversial?",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbFFRNmFIQWYzUDNSRloxanh2RFpTaWhobU9aM2tDUkl1dXdsUTJhd2VHV2NIYUFoZnlYQjlZcUVkM3dGNnRrQjFQbnduaEFENjRJYTc1VjhEU2F2ZXczQ011QTVHUFN1UGdtWnlCbTNtdzJnbFhYQlhHWEprVmdib1VXYmhNT1dUYVk0d0QyZXJJZ1lmTkI1cjEtY1pJZnhuSkViT2k1eVlqMjJjdUpvVEVTLUd3VmxnV1E?oc=5",
-      "publishedAt": "2026-11-22T17:00:00+08:00"
     },
     {
       "title": "Winterlights Festival in Luxembourg City (21 Nov 2026)",
@@ -56,22 +66,16 @@
       "publishedAt": "2026-11-22T14:58:18+08:00"
     },
     {
-      "title": "End of an era for Luxembourg fair trade store after nearly 30 years",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUEJmTTJEQk1DdnJRRlhHLU11OUdXZm82bEM4aWZBczZlMnRlWjNDWkE3VnJXWHZIRm1UbDlWMVJNaXMwd2JkdEV1QmpzUnJuank5WUlOeE9YR3BxZ1VnWDlRazhJTU5WckJzbmhZeGN6OUhGeUdjLUg5LVJLbk9HWS12RW8xUDZ3VWN5UVpUOUhEa3BzcXlQVEFVcVZZb2I2MG1XdGhRZWtJYXdHU0RuY0NNUFp5Smpu?oc=5",
-      "publishedAt": "2026-11-22T08:00:00+08:00"
-    },
-    {
       "title": "UCI sees no wrongdoing in Schreiber relegation, but Luxembourg federation considering further action",
       "source": "Escape Collective",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeDh0M3FEa1d0ZVg3ZDd4MWlIc0JTU05TOFhPY3piOHY0ZGEyOS1SUE5IRHd4WFI3MlYzSjhoeU5DV1lhX0QxUE9ST2h2SXkxNUVoWkpSUjN1TlVHZk1sMTRWQndpcGpDQlI3S292WlN6MlJ4QlRGelhGeVlBSmdvZHpQclRPMEVIOGxfckdUSm81RHdVVWloT0wwLXhkalYxTnRUQ0l1X1hsVnpaSF9idW5tMjhMX0VTWVFhRUE5S29UemVIdk5sbQ?oc=5",
       "publishedAt": "2026-11-21T20:40:35+08:00"
     },
     {
-      "title": "Gilly Mathieson Announces the Launch of Digestive Cancer Luxembourg",
-      "source": "Oncodaily",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tZlhDOWQ2bU5Wcm83RDBuTThteU05N1JGNllZUWhteU1qbHJsQWVJRVEzTURhOHRjVG1JV1Q1cDMtM0hBZ3BIamhRcXl2Wm92aUNNTW1hdlFvOTB0TDNZTg?oc=5",
-      "publishedAt": "2026-11-21T19:04:24+08:00"
+      "title": "Givenchy Spring/Summer 2027 Campaign: Jardin du Luxembourg Photos, Cast and Details",
+      "source": "stupidDOPE",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVXpFOFNKeHlMR1k2dmZ3d2VTZWpUMDlEM0dlVlRxV21YbHpZbjVQX2c2VTZhb2hQRDFod2RFYm52LXpMcjJ6Vk4tTzQyVTJmcVNuNmZpaVFldzM5QVYtYVJPdFdCdnl6dEcwV0h6OWV5UnltTTRvNzdaZWZkVVlZTDVkU2l3RzlZMlhleXI5THBReUJhM1lSZnRLSEU0cHpTeDZhZmIwS3dfQTZBaXRTeFpkdnctMjBBNWMyM3Q0MERGVTg?oc=5",
+      "publishedAt": "2026-11-21T04:26:57+08:00"
     }
   ]
 }

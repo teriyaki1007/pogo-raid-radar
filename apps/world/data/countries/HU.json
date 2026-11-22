@@ -1,11 +1,15 @@
 {
   "iso2": "HU",
   "name": "Hungary",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Budapest"
+    },
+    {
+      "label": "Population",
+      "value": "9,514,251 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,30 @@
   ],
   "headlines": [
     {
+      "title": "Migrating birds may be bringing unusual ticks to Hungary",
+      "source": "AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeWNjbzhDbzI1MnZKZXlLYUFIVWtiY1J4U1dkOXR4djJmWmFEU3RvZmt5M1ZiQlhyMzh2ODlEdkltVFNTM1M0dGphWWNSN211cU00M3RuelhfazBRbFRmLVRId1FLV25CX2toNXhJRVJ3SHZKSE51WjJmdWthSHh3UFB2Y3lBYjg?oc=5",
+      "publishedAt": "2026-11-23T01:07:18+08:00"
+    },
+    {
+      "title": "Hungary Draws against Visiting Northern Ireland at Puskás Arena",
+      "source": "Hungary Today",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORVFlaFFUWjVWZmtQTzlxTV9zenEycVpnTzd1U0VCY3BfNl9aNVNYTHk1MEcyTldWelRveDVaQVJsbzBXVlIwaTlSYXFmNERzV2szOHNBanhQekRuSmJXY3B0M0dkbHFWbkY1Sk1DZU1XZUdNNHhBUFhkRnZYT1ZiR2JHdlZndTF3ZU4xZ1lrVEIxZ2FqbThN?oc=5",
+      "publishedAt": "2026-11-23T00:57:56+08:00"
+    },
+    {
+      "title": "BYD's Ti7, Accused of Copying the Defender, Banned From EU Sales; Hungary Plant Production Also Disrupted",
+      "source": "BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9fRTJ6bm8yX2Z0Q29kczBic3AwSVpuOF9yQkpGRHB6bU03Z2YzbmFSUWI0Tkc2S2NhQnBkVmwzR0RwSVRqdVhBaEZ6WC1zMkcybngtQ2NCTlhoZHpFenhHR1JJb2NURnU3ZGdzWnhzOC1fdkpaVGc?oc=5",
+      "publishedAt": "2026-11-23T00:25:00+08:00"
+    },
+    {
+      "title": "Gauff, Li Stake Team USA to 2-0 Lead over Hungary at BJK Cup",
+      "source": "Tennis Now",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRU9ycHR2ZF9PUmlMbWxPQWRNcjNlUXh3cDU1aVFCdGluQ3dhNFIwMXJJM2ZkYXZKNk5seDlwNmxaVWthUDlNbjhlQXAyRURpZjRaWXJhS0dmQ1RQcGZ4UHA2TUNpSE9Ndk4xZ2pGQWhPUFNCY2ZaQzg4VHRMU0JaVllld2FYYVZ0U0E?oc=5",
+      "publishedAt": "2026-11-23T00:02:16+08:00"
+    },
+    {
       "title": "EU Commission Gives Preliminary Green Light to Hungary’s EUR 10 bln Recovery Fund Request",
       "source": "BBJ - Budapest Business Journal",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTmpsZEtUcVZ1ZHU1bmtSbFM0Q0p1cXhCTGxHUTBTdGxqQU1DU3o2ZVRuSHByNWUxdGgtZnl4N0RYbFl4UDBINjRtdzRQZmR6Rnc1SGxHVFNMeFhiSk9KZ2daZUhZZE9hcF84cEVaaDJ5cnJkX21jSEJqcTZEMG9QT3AwbHFUaTZoTXFJM280R051VDBManNIbXhzWmlyZWM0RmVmNFFMZEZOcHVhNVd1X3ZlWEs1WF9qRW52NGIzcHRTNUo2YlNWWmxjM1A?oc=5",
@@ -45,33 +73,9 @@
     },
     {
       "title": "Euronews' Attila Kert tapped to lead Hungary's public broadcaster",
-      "source": "Euronews",
+      "source": "Euronews.com",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY1FSRm5OUGJYVkM4RHBjR1dKVTZBQ3ZPRW5NZ2FNQW1SckZ6cUtpUGNDd19vWVhnWmttTF96SjlfMWwwVmFOdkZQTkxYZC16OC1TT1JaZWM2WmZyUmg2cFNvSldZQmQtNXlXWkNCSV9DYUlpVVVwT1lRazhrNzJQSm5YTzFnZnlrMHQ5ZUNVMXhMM28tMkFmcE9xeDhwTW1o?oc=5",
       "publishedAt": "2026-11-22T18:05:06+08:00"
-    },
-    {
-      "title": "Hungarian Peacekeeping Troops Practice Rapid Helicopter Deployment",
-      "source": "Hungary Today",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcXdwcjJjdGVlbU5COVBKeF9pTTUtcXVhWVhPRVFKcDVQNEZ6cVVMTVRVVzBKMVllS0ZheFlCX1NLUzFUZzdkUDJ3c2RTZm1UR3p3aTR2dl9LYWRLRzRzeHo4WWdSaThmcy1xQW10RTF6bGZIbmZrbzRPM3RPYnpRUzhqRHVmbWMxS1JHV21HQlpreDZvM3c?oc=5",
-      "publishedAt": "2026-11-22T17:26:44+08:00"
-    },
-    {
-      "title": "$19.5 million hidden in forests and barns: Hungary's 'Breaking Bad' corruption scandal rocks Orban's legacy",
-      "source": "Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9kVDVQLU54YXZfNFlDQ2ZVY0RQOE1UT09fdXJzMG81RnFUel9oMmk0WUJOZHhPUkpCNzUwdDZaZEpoM3d0eWZ6VjA3R3ZmQXhpSGJPWEUyMA?oc=5",
-      "publishedAt": "2026-11-22T17:06:52+08:00"
-    },
-    {
-      "title": "High prices triggered by inflation dampen Hungarian families' Christmas spirit",
-      "source": "巴士的報",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNekUyd05sczNpZEdiQUZFNEVGVk5JaG50QlRSUVd0ZXFZUkRjWEptN3Z6Q21rcjBfallKaWNKRzhMcWh4cm8yTkNNcDRfWVMtd2l2aDVpQjNCNFM5cVVKWm1sRnE3T2tkQWNPWFg5MjVkd2ZzVkMwUzNEb0REMGJHckxCNGlkazJsVkNpaVROc3R3aERuV0VlZG11WmlfQWp0QTV2UkNuci1lMmgzUi1HdmFISW5nQi1GbWNfQVdkaEJBcF8zQWpjXw?oc=5",
-      "publishedAt": "2026-11-22T16:55:00+08:00"
-    },
-    {
-      "title": "Watch: Highlights as Gauff puts USA 1-0 up against Hungary after rain delay",
-      "source": "Billie Jean King Cup",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzFPRHEwbnlpT0NVWmc0aGhDU3RHZjBqOS1lc2dKSjlaRWhzY1cwbTBZcUU0a1FkV0YybFVVeWpyZ1cxQ2VHZ01iXzk2anBQbU5YVTQyM0ZDeEF2dGhDemZTSERYSGxYbU1QSmZlZ0ZOLXo0UmZ4aEZTSDBoV2Z6Vi1zZ1VFMnc5eFFCcl9EX25Jd2RUWDBMTmV1NUJqWDRsdXV3b1l2ajl6Q0ZoMVlGdXMxVjRYT0k?oc=5",
-      "publishedAt": "2026-11-22T16:50:48+08:00"
     }
   ]
 }

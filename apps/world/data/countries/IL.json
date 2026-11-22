@@ -1,11 +1,15 @@
 {
   "iso2": "IL",
   "name": "Israel",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Jerusalem"
+    },
+    {
+      "label": "Population",
+      "value": "10,122,800 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "Israel must define its purpose beyond Zionism’s success",
-      "source": "The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uWG5oV1Fud1BJMnFPbHNGdzh4MnE3NUthdjJ1eWVRdlkxS18xQ0ZSWHRUSnNpWThTOTJsR19VYmVKU1pfQmNZSUdES0swMmFuUGxDS2xnOA?oc=5",
-      "publishedAt": "2026-11-22T23:00:00+08:00"
+      "title": "Bank of Israel to keep rates on hold amid uncertainty about new government",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0ItQ1JnUkNlVzIyRVhPMWNrdWVSX0pNMVRQbUNHQUN1X19QTWxEcHE3d0U2THpOdXdFMlVRTVdUZnBJT0JobGJsdmIzdmtoX0JHcnZNWXllemZQRHdrdmZndGIyczRaTzlmR21UeUFXeUlmOHdSc09CbmpJNWFqVTFYZmhYZW9vRkdMWmIybXJ0T3ZWYmhYaEcyLV9aZXk3R2FEYW1WUFdvb0hCdUQ1T05pOWcwSFZfQzZ3?oc=5",
+      "publishedAt": "2026-11-23T04:57:49+08:00"
     },
     {
-      "title": "Israel Uncovers More Gaza Tunnels After Years of Devastating War",
-      "source": "ASHARQ AL-AWSAT English",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWFpwTEZzcGJxdXptdnplMU9RNmh4YUJFVlNtSlhjd3psRkd5bF91WkNNYTdQdkJIWmF4QWxkZ1RTWUdHcHE1TjVuUHE4dUtlOHFVa1NDZGJwY1IwQjhVMC1xNWNYNHkxV3dQTHRodlRtbmRWWWJjRldiSXpwakZvVElhUjVTMzRkNGRHOW0yUGROYXdRLXBHN3BrMFRMSExxelBkYUZiRi1fZTA?oc=5",
-      "publishedAt": "2026-11-22T22:48:45+08:00"
+      "title": "Israel's Eisenkot condemns arson attacks by Jewish settlers in West Bank",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NtOW83bnNaeXNoY0g0REh2Ym8yMU52U0FCaGVTRy1oeTRrM1dPclNpZTF4QWVtVE95eG9TUXJkT3JBZldRWDNjejBRcFpiWTVPV1ZqeEVZdS1qMVZ6QzVvNUtSRXY0RUxLX05pdlB3V0tvLXA1Nk0wQXhxT1dQYVNyMm1YYTZtX0pRZFI4VWNDTHctYVk2NnJMdDlWSmhxbWlzbVg5OWFacVhQUzdHSU5lNDdJTlBRZVhlVXZaUQ?oc=5",
+      "publishedAt": "2026-11-23T04:21:39+08:00"
     },
     {
-      "title": "Why does Israel continue to send students on Holocaust trips to Poland?",
-      "source": "The Jerusalem Post",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9wWlV6aDVGNFk5WHZOVXpCRG8xeGpGZ2V1S3k1YnR4cnlVYVhZM3RCRXcwU1hBcHVQVmg3RG9wckNrdnNibGpKbzBFTnV2cmowWVNsOE00enc?oc=5",
-      "publishedAt": "2026-11-22T22:41:37+08:00"
+      "title": "Is environmental destruction part of Israel’s displacement playbook?",
+      "source": "Arab News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxON3BXblQ5WUU0OS1rMlRVOVNzZURrd3F2Sk1HVXRseUhrM01tZ2tUdERNZ2tWbkt4MExfMkpvNnVnZ2xDdHRwdUdoUFVXZVpCaEZaWWZxei1Md3pkRW9uWHFlSFJjSlNWVnlUMmRucWJCcjMzQWdMclFjQnBGUFdQdzhyamRuRGVSS0xlR2pOUDY1OVI4eW4tdGpRSTV3VVJvN2JrWk1OMVY4TEVvTEpWTw?oc=5",
+      "publishedAt": "2026-11-23T04:15:57+08:00"
     },
     {
-      "title": "Jerusalem Daily: Israeli settlers set Palestinian vehicles ablaze",
-      "source": "Al Jazeera",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUEhEY2gwSk1weXZJTG1iM2E3bDJvN3pzeXo5RWVOYzdVUHJ1QUV2dU5NTnZ3U0V6SmN6eHJHQjBLdVVxNnR1Q25oV3NSMzlma1YtRmFscnNOSXhUWnRzTjRDQ2dydjdPTy16QkRpNEg2Wkw0OXc1aEFTQlB6WUIzSFFwakZ4bEZQWWxZeWVNYlZPQkRsV3B0cG1DTF91X29kamhpT3BYaDNsX2Y5a0tvMVhLclVRblHSAbwBQVVfeXFMT2FlcWRxbEp0U3c5UERjQ0luMW1nSlFMOHlsdTlKZDJQdFhKY09CeWRGa0ZIV3Z4bWRxZ2xKT0lYbm9xQVhnaWxTdnN2OEoxaWpSdFVaZEVaSFM1UWV1aUFVM0VXWFV1dE53cFdzWE5FS3Exb0NZZVhVMFNzcS1aZWV3NnQ4T3pyQlgtTjZNT0xfaGhUc0tWNndOcGRmRjhiOFR0aHl5NGJvZUp5Z1M5b3FyZmVYQ1NMOG56Q3A?oc=5",
-      "publishedAt": "2026-11-22T22:31:01+08:00"
+      "title": "Family seeks answers after car bomb kills mother of two in central Israel",
+      "source": "Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOUWVtZFZCaVB3NS1EWGxPdE9ITmNUQ0FuZWx0cnhOUWdkWm1td3l2bVFpeVpHbkFMUVE1dlhWR2VmTzBFYndzOHMwMzk0VTA3MDBBWVdiMWtpaWNtZGcyWnBfZVBubGpJaUZ1VmQxMVA0WVF3VzNsLWxsb3dFdVhaY3VNSHJJTHFPQXJnTkI2NEdwTUZ3VmtnQktrd3g2WGxGNDdjMW96MzZqcVo3bG1WWjVkN2UtTENmbWRhZjJtZXVvcllxWlhwRDhhNUp1WXkwV2l3RGdhcmdEaWpBekxzVVYxRDgtQjdYOEo3TWhyRzEtVEFfcmZyRlpHSnoyZ0hVblg0Zy1FWFBvNnJwQTYtcXU0Z05qcWVVbjVXLXJTZ2dqUms2TFE?oc=5",
+      "publishedAt": "2026-11-23T04:06:00+08:00"
     },
     {
-      "title": "Netanyahu and Eisenkot parties resume talks to form Israel govt",
-      "source": "Al-Monitor",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmtqOUQ0ekExQ2l3dVQwMG02Z1NHTXlRMllnbjJUbmU3TkJUNjh5SmFMNkZtTkF0WlZtOGVZMl81SXBjb1pFQmJkeVVFZEtGMTNXeE5vc0xyMFhaTGVZVVdBTW4xNm9rQm01alZKWUltMU5ENmJtR1hHMmNjM2VUeUNEMDk5d3p3Wld3d1E5Xzc4NVJ0TC05MWdqTEdBdkxTZnhmV0lnckU?oc=5",
-      "publishedAt": "2026-11-22T22:30:24+08:00"
+      "title": "Israel’s New Tech To Watch: A Companion Robot for the Elderly, AI Safeguarding the Workplace",
+      "source": "The Media Line",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTEp2enVKTkxrUEJYVDFLWERFR3cwdnZBRnQtYmIzd194b1owclNLaGloSVRKU0RRQUNIMG5uLTh4dWhwVV9fZmpvR0QwclBxcS1OeVZ3amF5UDE2MncybUhiSEx3RVd5MFU5VVRDR2dvaEhrSVB5Yk9aZThObzMtRTZBczVOczJ4cy1jakFzNVZaMjB4ZEZwZkE0TVlxRmRZMjBOUTl3cHJpNlF0RU5FNGJnWTdPOUVUYXRQWTBndnhLRzNWMVE?oc=5",
+      "publishedAt": "2026-11-23T04:05:34+08:00"
     },
     {
-      "title": "Israel construction industry sees surge in company collapses",
+      "title": "Venice art show looks back on year of controversy over Russia, Israel",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVHc5OHUtVFpiZmIwVnVLLVM3dVlRMWsxalYzNjE5NS1YazgyY0EybzRCelg3MkhneFlkbVd5TzRCQ2E2NnBXUWZMaFVyT2ZMVTVWa0taUUw3RnR2YnJvMG1GdTR4dmpIaWNXS25hekFpRlQ3NjJfRUUyNkdtRnlfY0tQQTNYS3BWMkhV?oc=5",
+      "publishedAt": "2026-11-23T04:03:29+08:00"
+    },
+    {
+      "title": "Israel's education crisis deepens as political deadlock raises threat of teachers' strike",
+      "source": "Ynetnews",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uRXF4Tnc3WmZRWWZBZ24xQXl5ZE1CR1F5alRfZHN5c0hnbGhMU1FacUItT09NS3htdklKc3JxMGJQV0lnZHBSRW1lZDVnUW5RcnRXVXlB?oc=5",
+      "publishedAt": "2026-11-23T03:46:29+08:00"
+    },
+    {
+      "title": "Israel publicly offers its best wishes to Lebanon on its Independence Day",
       "source": "The Times of Israel",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVTVOUlVnREU5dmdPNjNwQmRzN1JqMDBxbzRVTWpENE1YN2FDQ2Z0M0lRS0l1bWdEemZ3VHNtYmljQnpneENGdjNUUjRhMFNPZHB3QkljSWI0Nl9sMkVtQUhwNmxpN3FIZmZiRVNQR1JKRndnU0U2aEgwSEFXdDVlS2R2V1V3eHRGSFpNTzhjQTVOakI3UHVONlpNZTJTRUVvZ0t4aG9RajhaUQ?oc=5",
-      "publishedAt": "2026-11-22T22:19:38+08:00"
-    },
-    {
-      "title": "Arson attacks by Israeli settlers in West Bank add to tense political debate",
-      "source": "The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZm9CNGQyVU1MUXlCUFdFdkthV0RVUDZBSzFvTGJDSlJ0bFBHV2tpXzU2NmZob0c3MmdIRWdQQVc4OU9DbjRuaTY2Z055X0xoQW5XWEs4ZnBLU1NYcFVCTlREX0lVaEpDdTRlcDNkVVJubURlZFVLWnh0czNCNUxOYWQwZ1JYQzNPMENsU21YbkJWRUIxUmtXSlRid2dvMm9IMzNUcHFGMDNPdXpNdm1ZZWc1LXRHNGRVVWFV?oc=5",
-      "publishedAt": "2026-11-22T22:17:21+08:00"
-    },
-    {
-      "title": "Israel’s Eisenkot condemns arson attacks by Jewish settlers in West Bank",
-      "source": "NBC News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZm9fd1VGZDkwR2pnOWV4RXF3ck5rSzdKSUpwblNtbjdUMVVFeWhBTXdKbUZqSERzTE4weV9vNFdfdllnd25XQllYYmZtVDNhMjBERnJrQlltQ0tFbHhwdFNoWlBycFhyWVdfX1pSWjhOU25IWlJGc29yWDQxcDgzWUhaQW1mLV9wb2hnbG9KOUtrWDRtYlE4TlczdGFudG9aYUNIMkcxZ3k1TWktdnBaWVFzMA?oc=5",
-      "publishedAt": "2026-11-22T22:17:01+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1FEdUg4Y1o3YXVsM1dOeVlDUmJYaTBZeXNDeFdjQmxkWGV4YU1qOXlDVTluUjM2aTE0cUxwZldhQVduajh4Z0pJUG16Q0VDT0VrQUFPaFozNnh6UnMtRGtiakhUd0hhMXp1bDE2cVhRRHE5ZEVOLTlJLXlSXzh3eFBqbjhlaWxRS2hjNV9STnQ5Y1o4ZnRzYmVVQVUzMzdpc1Z6LW5naTd2MUxlNDJCWWxLcm12NEdmekZZ?oc=5",
+      "publishedAt": "2026-11-23T03:34:38+08:00"
     }
   ]
 }

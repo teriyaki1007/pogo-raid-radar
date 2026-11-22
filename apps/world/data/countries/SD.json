@@ -1,11 +1,15 @@
 {
   "iso2": "SD",
   "name": "Sudan",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Khartoum"
+    },
+    {
+      "label": "Population",
+      "value": "51,662,147 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "Sudan intercepts drones from Ethiopia targeting Khartoum, media report",
-      "source": "Yeni Safak English",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcGZtZUhiQV9TODQ2cExWb1JmZXZZNGVITUl6YVZrR21rSzA3UkQ4WnZzbFJ1Q0RTUXdFbzNoWVd4ZFdHZ24tZGdJWmdsYnNudGxpcGdxX1czR2IyeWVkRVo0blRVNHJlZ1NvcWNRQ003TXh0aW5rWDhkNkxjWU1UTFJST3dXeXE3bG9zV3V4SlJfMWY2M1I4X3g0dkM1LUhxbmQ3WHR5MDREV3M1?oc=5",
-      "publishedAt": "2026-11-22T22:42:53+08:00"
+      "title": "Sudanese teacher’s 10-year prison sentence sparks outrage",
+      "source": "Sudan Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA1OG9RSkRoam1CcC1HY3FXb0VxY1dmX3Jpd0cwUDdneDV3RnZiZ2psSlF1QVJad2hGZUNZckRodzlDdl9NWkpveU5wUFluY3pS?oc=5",
+      "publishedAt": "2026-11-23T04:39:41+08:00"
     },
     {
-      "title": "Drone strikes hit homes, UN premises in Sudan's capital",
-      "source": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR095ZVIzbVJLMUVaaUk5WGVaNllOVkdobGNyaWctdndlT0l4dWpxWDlJUEdFSEZQRm55QjJ5SnVDUFZfT2twTVBkbGhhRDFCSmIzM3RMVEQwTnRteDBiUVUtcTRDbFhFWENGeVpEVG9sMzROWDZSTEhfNjY0c216X0x5VDQyallYTE9vV2pDbWtLZ2V2TkpMZEtiNWRSalE1Y3A3T1FTekFiWUVJVngzbUZPckFsWFVL?oc=5",
-      "publishedAt": "2026-11-22T22:25:27+08:00"
+      "title": "Saudi Arabia condemns drone strikes on Sudan’s capital that hit UN building",
+      "source": "Arab News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZnpMU0FtOV9qajExOFFLdDcwYm5nemV3a0UwbGJGc1NWRzR0dnRaOFNXbEIyWW90MzBzWlJteE5RbUNvRGY4S1Vudk42Y3R2aVNaSlhDWXJuSUhnWWd4ZGpRT0tKSjZxVWFIRlNRX3JmN3dMU3FiY1czelAxa09JVlZDZVNNLWlGNDgxMmU5emFLSTZPQk4xZ2RTb3RiSi0tOTVxdDltS3J2Y3AycmhoTjlyNjZYRjBLZ1Z6MQ?oc=5",
+      "publishedAt": "2026-11-23T04:06:23+08:00"
     },
     {
-      "title": "Sudan Strike",
-      "source": "chronicleonline.com",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa2pRdUp6UGdaWkJDekw4eEQtNVpWX3I5UVh6bExLZndYQVRsVU44QzBOQ3FqSFFlaEhIaEtNdGVWckZLeEdlMl96dVpNcTM4TDJrYkhOSEp0T05QYVVBemJneVpPc1JGSk5hMm0wZWhRb2ZTVjNhRWN5UU5BM2JmS0VfeFQzc2JESDZ6R05rNk42akxtRnhjRHNidU9RRWNzVE1OOVBR?oc=5",
-      "publishedAt": "2026-11-22T21:54:52+08:00"
+      "title": "In Sudan, the Ancient 'Great Church of Jesus' Emerges",
+      "source": "Newser",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOR253S0MtNGRVQllCbGtCY3NFVzB6T0hYRzJjQVhhZkxxSzZpZWc2V2VKZUNkYkQ0d25BUGFGdDhyMk9FbTFxazMtWVBHaTk3T0lkYlN3LUI5UnFqYlRucHRQTzRpLU1vUHJuOVpsNWNZOEIybEw0YUNWUURqU28ycjJ5eERwNjBDTzQ1MTAxT1lPZW5Xd1E?oc=5",
+      "publishedAt": "2026-11-23T04:00:00+08:00"
     },
     {
-      "title": "Drone strikes hit Sudan's capital, damage UN premises",
-      "source": "巴士的報",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTnhFQ1JyQkF3NUNhbTVnVjRjMEREN2pmZUZzQmZaNXVtYkFDRnUzamQ2VGFSY1B6WGo1X1k5amtFRjBSNW1tUW9CWm1KMjRHT1BTX1EwRW4tdXUyTXpWSFd6N3BNdS1NcmdOOW9uRVNxT2E1LURZZ09zZU1tcndWcWczNS1uNlBIQm5uOTFscFlrcUY3SlV1dDVpMlFYdHRrSmw4YkJB?oc=5",
-      "publishedAt": "2026-11-22T21:42:00+08:00"
+      "title": "Sudan condemns RSF execution of captured soldiers in Blue Nile",
+      "source": "Sudan Tribune",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nZUNQUl9qMkJOZ2FOckVsQlpmaDNGcjcxRERFSkhDcEtQeS1Na2NXYUZ4M0JTYldibWdNajdHSjgzc0Z1NjU5M0lyU1FMdXlq?oc=5",
+      "publishedAt": "2026-11-23T03:34:32+08:00"
     },
     {
-      "title": "The Geographical: New report reveals risk of links between Sudanese conflict gold and major companies",
-      "source": "https://thesentry.org/",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTzROaVE5ZEswQmdTbnVPa0ZTZkZlZTZCbmFGWFZsSjNNdTl5VDZ5dVRjS2M5ME1aTXdhemc0TFlqaHozWjk4b0diX2lNVnpHX0ozMGlCa3VibnBRdkw3U2FaRnUxRkJTVVJQdDdZRjQ5aVhnejFwclMwSG1Dd1lhek1HQ3phUVpMVzlEUjYxMGczdmp2eTRqWFVLZ2NRWVBZZURJNXVaRnpjM2ZFUUE?oc=5",
-      "publishedAt": "2026-11-22T21:05:31+08:00"
+      "title": "Drones damage UN office in Sudanese capital",
+      "source": "AzerNews",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzc0VOV0lHN3ZhRVl1cXl0UUlrRTZaTDMtQVo5ckZxWGZ3VjFxdDBXYTNrbkNCbnprTDZFdHBwczZRNlNlalp5RG5uOHFTc2ItWF8wcA?oc=5",
+      "publishedAt": "2026-11-23T02:35:00+08:00"
     },
     {
-      "title": "Sudan remains committed to fighting terrorism",
-      "source": "Yeni Safak English",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMm1BVFA3ZENfSHNBY3ZrUENfTHVnYmwzVTJsbndXaE1QOGtIVTFfZ2FTRDhENnkxNzUtVXhRSUxpVDQ5OGc1TnRlQnBpRHdTU0lrVTFUSUpKUmZSMWZGRWN1LUtuU2FGdlRsVTg0ZzBMdnJ1Z2doYVFndGh5OFNIRWhhRm5sOFB1V0ZNag?oc=5",
-      "publishedAt": "2026-11-22T21:00:37+08:00"
+      "title": "Civilians killed in RSF drone strikes in Sudan",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd2twanBDZGZqWURQRTFDcHF5VTdfTmJjU1dYNTh0WENNZ2Izb1VTem1nZ2NGSm00MEVUZlVCUmNITjY4Zl9oMWxfZVBmVjhaMThJUS1OTHVJNmFJU3pOV0trTFhHVlJPNXFqYmt4bVUyVGxPVHdlVEtYZlNlMnh6RGJVbWV0aHYtdS1iZkJoVmpwTERkbUw3VzEwbkozLU3SAaQBQVVfeXFMTk0xOG5wbU5Ncl9qQmhRV3pFbTdTRU5mMUl0N3ZyZ2MxQ0VOclU0Z1BFeWZMdFVrV3AzNFRQU2Q4c2F0VUJ2SFNwWm9TZURWMHUzZHVfZ00tZi11akU4Y080TVBfbHU0UWNNZEh3STFabnV2US1ZdUY1NjhyN3EtWmVaUTEtdEZ2N2NoWWd0eXNXWFc2UjNldks3NjVsdWtCZ2ZQT2o?oc=5",
+      "publishedAt": "2026-11-23T02:26:51+08:00"
     },
     {
-      "title": "Sudan accuses paramilitary RSF of executing soldiers in Blue Nile state",
-      "source": "Anadolu Ajansı",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbDNyRlE2YlhMS0Joc2dsNl95d1pHRVcyclh3RmFQOWNpTVdidU9wb0kxQ2JwR1MwZ1NxMjlVTmxjSWRBUThEb2k1TzJ1VmEwTEJmSmR3Nm56M2JYSEZmeENlNEI4YkdiM0ItVDN2UHJDSThhNXpVYlZQcGpxNmNNNWxMT2ZxTmpMRlE5OXVHcEt2NHg5dlJaSHZSRXBYcUt3ZUFNbW9tZWpfb2RkR2FuaA?oc=5",
-      "publishedAt": "2026-11-22T20:34:38+08:00"
+      "title": "UN reports attack on residential area in Sudan, UN building damaged",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcm9kNmlyeVdQQ2FfeWh1UVhLRDA0LXY3NlVEY1ZtU2lwaTcyaXBSQ1ByNy12UFM0WDdNOVBvX0NMdks5NThMZEU4U1F3Sk5GRUZwY0lpVFBUWmQ2R0JMWktRSUxLRl9ZRHQzckllQUE4ajV0bEttRERpSTQ4MkpzRjZsaWVmNkxQaEgxV2g2dFVFMnZwcUE?oc=5",
+      "publishedAt": "2026-11-23T01:48:28+08:00"
     },
     {
-      "title": "Rebels kill 15 in South Sudan",
-      "source": "The Hindu",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0lDbjZBcGRKZ2pfZmtfRlpjTjd1LUpkNURpN0NCcC1TMmViRTlvQ1ozRDVjb3FfdnRLRU5VWkV5WmJBbl9kNVp0ZHZacUYwdDhwTWljV3VOZmZEelFOUU83VXA3TjFhcnlSY0tRVVZCYmY0aHVvZUVZNzZGTzNmSWxTYXB2MEE4MGNGTGxwZTJtSnJna2Q4ZFJhNNIBogFBVV95cUxPekZCV3E3UERCRGRSYTd1TTNnMVl6dHRvWVlBZHllSFB1dktubWRIQ3hUdzkteXl1N2JCclFuM0JTWk5mUzFKTHZBUFFqUWdpSHVRWDBwMlZmS3JYUGkzTDVteXBsZFpEeDN3SlZOTzBtdWU4anpHOWVyM1hkbUtDQ0JHcm5ZY05hOEluZ3pWVjlyLTl1b3RNSkFKVXUwYnQzaUE?oc=5",
-      "publishedAt": "2026-11-22T20:26:48+08:00"
+      "title": "Drone strikes hit homes, UN premises in Sudan’s capital",
+      "source": "New Age BD",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOckwzTVloSEZmd1Y2YVdoZjZmLVUxT2hLX2xKeC1GakowS1ByaFVGZnZwd29FeC11dnlOR3BNWm5IWTlOYjBMX3dRWThhQm94TTM4bFk1cklnQ3hBaXluYkNuWHRXLWF3QnZ5bDNWX2Z1dGJVYmh1ZVE4UW0wSzUyZEVsUTdwMWJjQ3VGVmg0bXF2RFJLVnNhNGlhUFVRQQ?oc=5",
+      "publishedAt": "2026-11-23T01:34:30+08:00"
     }
   ]
 }

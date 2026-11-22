@@ -1,11 +1,15 @@
 {
   "iso2": "RO",
   "name": "Romania",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Bucharest"
+    },
+    {
+      "label": "Population",
+      "value": "19,020,271 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "A Ukrainian man was found dead in the mountains of Romania; two other men were rescued",
+      "source": "Українські Національні Новини (УНН)",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnJUT2xuRTFBcWJCbWZPQ21vZ3RZUlJxS1RYRDFMS19EcjZpck5PNmlSb3E2N3A4UUpLTHY5ZWpqbUZKOG00Yi1NbDlseFE0QndqQUhvTzRHZDc1U1ZXLVRMcFN0cUowU2xlTXpNeDc0RGRjamtZTzNrZldtT3p3WGo3ZW1XQVNxZUJkSFktYlE4aTF6WmpBME9rSXFYcWlibklOaVN2MmVWUGFp0gGrAUFVX3lxTE96MERoelEyQzBwTkE3dVlPeTNQWWp4Qzh4bHg5OEFjNHVrTUdvMW9DUnpVVXE1ODJKUV9BbVNvTm5NTzZoZk5xN0pFTTEySzFCSjhPU0RROThEd3FtR3ZJRjBFUTZvb0lXZFEtZ1M3Zkk1MVIxbVZSYV9jNjhjVDg0bDRZeWFqVVhQRllMRWN6WEdwb1d3Wmo1WkJ1eEEwaWxoejlsYjNKMzl0TQ?oc=5",
+      "publishedAt": "2026-11-23T04:58:40+08:00"
+    },
+    {
+      "title": "Ilie Bolojan: “Romania has more state employees than it can afford”",
+      "source": "Informat.ro",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVXVvMmtXcHZXQXZYaURMZWczZWMtbFZ3UUtXUXQzQWM1eU5VWVlDWFIzZXE0RTZYRXZHelJjdXNCSndUaElieURKRFBPdHZXSXg4akNtREZlTjFPQjl4dmhjS0JvLXU0aHk1eUhhY1MxSm02eEJTQUo0ZF9wLWtvT3JCNDZsUWpEYVNEc1dJUjhIRnQyRzJ1VF9VZlFNUQ?oc=5",
+      "publishedAt": "2026-11-23T04:35:18+08:00"
+    },
+    {
+      "title": "Q and A with Mihai Lupu, Managing Director of Creative Romanian Film Makers",
+      "source": "Film New Europe",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWF8zQVA2QlBLVmdPLXo3TG15LVFBc19ncUEwQWJRTU1ucUIzcElaNlY4aGstclFramY2dGFfeVUtUmdHOVEyZHBCMzNLQm9SaFZJcFZwa1RkWnpxN3pfUVJBSzhmRVVYYW9qd3NLcmdQRnBkTm05WkIxb09jb25FZE1saGFDRmNQQnVWV0pBRllhbS1TYWRIZDZKeERmbjlJZkpnYUoxdDBnVjBsT2FCZVJFWGk0bFNCYTdMNjhZTXFNOXFybWhoTmVkMG5pQ2s?oc=5",
+      "publishedAt": "2026-11-23T03:34:14+08:00"
+    },
+    {
+      "title": "Rescuers found one deceased Ukrainian and two survivors in the mountains of Romania",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV29IYXh1RzhSYjEtRjZOVDdvUk43ck55TkNYMHEyOE1OdUc4NmwxbkpzSXVNZDNJVVlNTGdqS2N6Yy1aQll2QmMwZnlQZVNHdzBYc0I1OGVNbTh4OGtobXVRS3hoTkxvZ0NZYWZnTUxBZ1ltUC0ycTNmazAwd0VkWXVEZERoeTZrei16dG1iY0VHeWFQWDctdGxEZzhhbmV5WUthSk1B?oc=5",
+      "publishedAt": "2026-11-23T02:05:37+08:00"
+    },
+    {
+      "title": "Two Ukrainians found in Romania’s mountains; third has no signs of life",
+      "source": "Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tMVROY0dFQW9aTm1aRWpCUHdiTlRmQm80NFFNRFVGckZlRHdkVmN2QXBsbUw3c2tQR0sxWFBnVEFwNTlGdkltQVMzTHJvNjZBWFloYzhpeTQ4dXRyRWVmcnFxSy1KTWJ0cXc?oc=5",
+      "publishedAt": "2026-11-23T01:31:29+08:00"
+    },
+    {
       "title": "APTOPIX Romania Daily Life",
       "source": "Dayton Daily News",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQS1sdThqckJZeEdiY2RCdUtmWEhoMGdFaWJBeU43YUJrVmhremJ6QlloR21vNWZpbXJsOUJTaTlqckFjVUZrOWZwejVOdzJlQURvVzU5R3FkMG5Wd3hHTGVYalhHQlJJR1hNTlQ4SGR5MmNqOUhpRHNOcjZSenpRS0pPMU9iZVNuSWhlTk51VVd0UlpGbkI5Z2dUUi1LMFBGNGdWclVUY1AxTUNyTUF4LXFMNUNpLW85SjZZ?oc=5",
@@ -42,36 +76,6 @@
       "source": "Ynetnews",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10RVZyVXA4RnVIbjRUNkFsVUxXTFFqX3luZ1V5TkVCSTVqS2M4T1IySmZ5TUhLbC0zanpXbjNRMDkzY1lRVXM4QkhsV3ZPcGNXYzZ2M1I1QlBtQmZrbG1lU0RtcThUc00?oc=5",
       "publishedAt": "2026-11-22T17:19:23+08:00"
-    },
-    {
-      "title": "Embassy of India Celebrates Diwali at IBSB School, Bucharest, Promoting Indian Culture and Strengthening India–Romania Cultural Ties",
-      "source": "The Indian Panorama",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOSW1LTWZmRURHR2VFYlZpYThNdEx6TVhGV1NRejgyNzFibEZ3Q1ZMZDZRS3d0SVJSR3lkZEZVc3pMS1RfdUxjclNaVHU0dDlaM3h4ZTJOSXQ1SWpsQmV6VnZEQzZWSzRjeEM1amRRRXhtYl9lb01HV1FsRWZOdkx5SWNHZ09sTmRBMllTWEhSOGE1dVNZbEQtLWRRS1U5emYyWlp3c1FmajFfakFDQTdWTFF6ZWdQME01bXBNaThydnNPcE1WYk5sNVhiMFdBdXVkQU16Tk5BM0kwbGtfaVoxanM4MVkyYlcyVW15c1E0VXN1MjdrNmstX2hB?oc=5",
-      "publishedAt": "2026-11-22T16:28:41+08:00"
-    },
-    {
-      "title": "Over 1,200 Members of the Indian and Romanian Communities Celebrate Diwali in Bucharest in Collaboration with the Embassy of India on 8th November 2026",
-      "source": "The Indian Panorama",
-      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOT2tfeVhnTGU1TWMyLUw0QUtTTWVtc3JyeFpsX1ctR2ozZXRQMVAtMG85TlBCZFJTOUh3ZWFVc1ZXTXAwckRyWGxrTEpCdGFEVm8wNUQteVhGdVlRYWdVSmxFNmRjNk9rYzZjcmFIRGdwVkE3OTRRcktIb0tTVWU3REk2QndRM3o2YlpqVlZOd2hISjhuckc2ZzFmWkJjVWFCU0JMLUNiR3I0dWdPX01BbkVfZlhRRHdIcXdNSVBmZUs5azIyWEpQbjVxdTRQVHpfNGM1VTltcktqaGV0M0x5SDR1ZS1fdHJjSTdkeWlzY3hvYVQyd0haMk1acmRMZEFWTDBPYjJKdzVxbWVwbEZaQ0FPZUU?oc=5",
-      "publishedAt": "2026-11-22T16:17:00+08:00"
-    },
-    {
-      "title": "Romania vs Estonia",
-      "source": "beIN SPORTS",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZEJ3TjBHaTllZ3lRTHVOR05iWHkwT0ctcnJRVFN3cTZ3QTlKbnpQandfVjZjQjc4SmNhMzdxQlJDSk1Hbm9mSDdHRDBqR1JYbnNmNThVZUxpWU05akdiSjh6YkxFeFFjdFk5cHZCalRPVmhaN2UyVkUtQ1loUXAtQndIcmtmZ0NQdHdMY2NWSWc5cnM?oc=5",
-      "publishedAt": "2026-11-22T14:33:14+08:00"
-    },
-    {
-      "title": "Two NATO Reconnaissance Aircraft Spotted Over Black Sea After Leaving Romania",
-      "source": "Военное дело",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGZzWEZTam1LOWJkMFhtOVNBcjhITTVnbkY4ZkFSb0lfdFZjUTNadm5ObmpxRElmQm1FQ2tMSkk0NHhMbnY5ZEsxSWl2dWVKMmtwYXpvQXozbTVQWGZfdTQzbThXNkx1WjVzYzcwMkJQVGV3NjVpNnAwanhNSjVlTzdYTEs2LVRMSGgzUTUzLWp3ZUttVW5sZ3pPNk9uR1B0X2dramRUWGVOaVlhZTZIUGF5WUktbnEtOFE?oc=5",
-      "publishedAt": "2026-11-22T08:41:02+08:00"
-    },
-    {
-      "title": "Estonia vs Romania",
-      "source": "beIN SPORTS",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUlI4Und2WHFKUGo1cVNhLVI1S1lqNnpFckF6T3Z0a0Y4OEViVXNQMDllaUhqeWxHSHVfQWZiNDFDZ0xLc3B2UEtGQ1ZIQVJJZlh4aFhoWlpEeDNSMEpRdkxfRGM4Tjk2dUdvTUhFbXZtT3VNTU9OUE9jdHMtb1I5V1NuQ0FUVFkzU25RY2NYUWRUUlNnNHc?oc=5",
-      "publishedAt": "2026-11-22T05:12:41+08:00"
     }
   ]
 }

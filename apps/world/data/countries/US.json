@@ -1,11 +1,15 @@
 {
   "iso2": "US",
   "name": "United States",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Washington D.C."
+    },
+    {
+      "label": "Population",
+      "value": "341,784,857 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "US senators warn White House that AI-enabled cyber threats are outpacing defenses",
-      "source": "news8000.com",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPbDhaMXhlMGZaY2dMSnhsODNRb0ZkSEpldTNSWmRlNVl2VUdKWXVCeGg0Z3FWcmJSUHBHN195WGN4eHJoQ1JBYTR6OHFkcWs3bUZqUWVfT2I5TjV4WXpHR21jM254RmxSMzl3bERJN1JFWTlxV2tDeVlyRVZhUWFQd2ptUk9vWWdFZWVYUmoyY1FLWGxNakxhejVsUFRUSlV3WkxKN3NMMG5COVhneW01RGZ2c01qVlhQTjROTVA5NG52SnFMTThCSjBDUEZvdzFuQVgzeWJXMEp0aDR4UHVnVUVqN1hvZnZuVzN6TDJ1ZjZ2Vjl3N1BXUHJuTlk0V2doejJXcHlyVE43eU5pMGdKZUtsX29NRlU?oc=5",
-      "publishedAt": "2026-11-22T22:30:00+08:00"
-    },
-    {
-      "title": "Indonesia Plans New Soybean Import Controls as U.S. Exporters Face Greater Trade Uncertainty",
-      "source": "AgroLatam",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWWR5UF9wSjVsV1U5TFo1QnItX2VRTzhCZnJ1RnhMZVF2WHZjXzRtQ08wMGV0V296cG1HZGFyTUVELXFOVENXbUpmeHJzM2tuUlVYWDlHMWZGZnR3akRXZjN5OVNxcURPbkp6blJpRF9zWnl2T2U3YmtOTjJBMlpsSTZ5WFk4Y2xNR1V4eFZzOXN0dXcwVzlGM0dJbW5kVkkzSTFDakpjT2J0NUZLUVctM1dpRkRHMnRDV0pheHNOTFhoeUc3VVE?oc=5",
-      "publishedAt": "2026-11-22T21:51:11+08:00"
-    },
-    {
-      "title": "Texas U.S. Attorney warns Democratic lawmakers about investigating Trump associates, faces pushback",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRnZrTjZyNmlLMEZTOS1lX0hkRFhWZXdCdXNBZWZCeEpNN3dwVkZsRnNLYmdGZVFEYmxkVHM1Y0hFT3FKQXgxSW5IaTVUdXNHX1VZWUQzY2szczdJTVlBRjF6NFY4UDY5RjYxRExLUnJDRDZaR1lsQ0hqcVp0UUVfQW5zYXlKUUFPQWNFNmdOSk9hV1RoWGpIdjlOcEZoTWF2ajBsR1RJbW1tOFJaVlp5ZFFvUG54RmRXZ1F1R0E1MHRmYlUtbVhNNzdScWRZbFU?oc=5",
-      "publishedAt": "2026-11-22T21:26:00+08:00"
-    },
-    {
-      "title": "U.S. Army plans to carry out detonation at Iowa plant despite indefinite pause, court records say",
-      "source": "CBS News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14RXRhQ3NQZl96X0toc0VkUm5jYTBZSkxndXRkbHhINWc3Y1JPcjV5Qi1QMEpqRmMyZ3hVZVhRaTZZMjlSRjJocVJoUXMyb1BWemIwOXRoUXJMWXZlanBueGFZU1JNNmhfcElrcUdlYjdaRW91Q3FfUy1jV2VhQQ?oc=5",
-      "publishedAt": "2026-11-22T21:13:02+08:00"
-    },
-    {
-      "title": "Trump’s immigration crackdown drives international students away from US universities",
+      "title": "US intelligence chief says he trusts Trump’s description of Putin as ‘my friend’",
       "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVEZzUktCcmpMQmpaZTZUQlB6SjFJdHk0Q0VJZ0NOSjlFeWZObzlWTmhRdlZqYVpRbm85Z2IzM05xRk9venNLa3Jfa09ROUJwWTdjdHNhSDJlTFUzZElITzNDcmRSOWhsN0Z6SlJDNmhNV0NBUGpXT0lremMzbmgzRmJwSGRiaTFkUExwTndrV0JEajZ5MWo5aW8yQ2hSX3lMTWc?oc=5",
-      "publishedAt": "2026-11-22T21:03:00+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS0tiNDdnSGhwdlhuYlc3LVpyYWJCX1NzRDZ5ZEJhVS1FbVFVUVc3c2NDdTVYazA0R0dRMmgwenNNcHNWSERMaDQ3ZDRaYU5NckRIVS1xLU10RmhsV2dZb1lRV0Nfd2p4RTRVLWJaRWdLWkpaVU1NdE1fRHpJZG9WMEhIOG1DeE5wdS03UnJMWXJTa1ByR25UeHBNczhEMlNKNkE?oc=5",
+      "publishedAt": "2026-11-23T04:55:00+08:00"
     },
     {
-      "title": "Why the U.S. air traffic control system still relies on an 'antique' network",
-      "source": "Louisville Public Media",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZDZTdUMzaTN6V1h2TVNzb19UVXo5NGdlWXdJMy1yUmU1QkNLdnlCekNMQlh3ODZjMGFVVU03Q2J4SlU2NFhQRHFaY3JaNENYVGZNUm5Pc3VlcXNKOVVwRC1WZERfYncxWm5oZmFtYzdWdE9ReTQ5X2tLUlF6a2FVbnBCZzhHXzJFVjloall3RDdGYVh5V3c0SkJENHBUazNlYlhoTjVnS2J5V3VwWkE?oc=5",
-      "publishedAt": "2026-11-22T21:00:00+08:00"
+      "title": "U.S. Army to perform detonation at Iowa munitions plant by Tuesday",
+      "source": "upi",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oWEpjNVd6enRxTE5aLU9qazJqWVBUNlI1dTdrUTBiSEhtbWtxWEFCVFpIUlpEeERWSEowdllUeVhLVTdIbEpaSXc5SHNjMkFmd0g0a1psY1Q4aG9KbkNYZWdjRlBIVG92V05JcE9Fb09XcmhjQ3fSAXtBVV95cUxNb295RnRVNHZTSFV1S3FBeFpqRFlYYVlrYzNKcFVvN0EwaGplR19NVERDeWlmUkdfdzUyaTlWU0hXZ3NwZldtTVhRX0NpNlVrZlVjeHpzM0xEMno4eFBsYk1oZzNkMS1yZVI5eDhueGhYUndnWEQ2RXlHR2M?oc=5",
+      "publishedAt": "2026-11-23T04:15:39+08:00"
     },
     {
-      "title": "U.S. tennis star Coco Gauff visits hometown school where grandmother made history",
-      "source": "Olympics",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeXVzSWhjUGpTUVoybmo0OEZzdDlDdXpUMDNpNVBTUUNVVUFuZm50bU1WYmpJN2I2dDRPQzRMWkFTRDZybDMtNGRQWDVmNFV1djhmclFyT3VnajlwZ0RDcGlqNUlSM1hnRTF1MGxDZGtJSTd4WGtOUmJhYS1hZVRXdzRxMXIxV3RmOTUwbFF3VHZwa01xOTEwcDJkMEF4dTM3aE9OdWZ5MEVnS21ER3haNmJiXzc?oc=5",
-      "publishedAt": "2026-11-22T20:02:00+08:00"
+      "title": "U.S. Marine found dead in San Bernardino County after going missing",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWnlNLWFNaWlzU1JVRkVCbGgyeEJtQmhJdDhwVzhLaW5HbTBRTGJuWmw1Y2FnckNINzBNa285NG1vZmV6SVdIU3FCSzNqYTI1SG4yOF9TdV96a1Ytci1WVjZfSEk3MWFnSVRWRXlTZTRORjBjNWk1V2NqY3FVSlVJX3VIN3RFb2M4TEVEQnJ0S0dkMloyMnBQVGE3QnlacDdHMGZ5bnpyZl9rcUU?oc=5",
+      "publishedAt": "2026-11-23T04:04:12+08:00"
     },
     {
-      "title": "Conservative media weighs its future as cracks emerge in Trump’s movement",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNTU2SWk4VGxNcXN3R1JCbTdKSmxUaW1ZOUk1QnFfaDdKT1B3TzJJU08zb3FsMVlOZmd0aFN3QWFGMFhxcDV6THdkbTVnTFF4aTJjb3NOckc1bTM3UE95WVU3OWVGcTNoY2c5dU1mNDVjNFE5UDU3YVFKRFlXSkUxRHF3cFdYQ2hNNURPQ19NcTU3M0wwRUNicTVDaVNfcUU?oc=5",
-      "publishedAt": "2026-11-22T19:01:00+08:00"
+      "title": "Likud MK invokes U.S. internment of Japanese Americans in attack on Arabs",
+      "source": "Haaretz",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTjZ3MGpVM18tR3BfeGVvTmhHcC1BTWNVRXRHc0pKd09CbFIwVHh3UGNQazlYeVg0UUFLQ3g1Vk1SbFdSUXJXY2dFVjVPRFVOa0RzaDFfb214WnM3bHBYY0tSZ2JYbWhtQTBneDZIRzM2UEtxMy13Z1pfem5ZeDVfd2x3cldGS2dxbl9ZN09RYkZwaFk0ZW5BQnNSc2xxSU5wamQ2Y1E4VVVDdGlkR3VLd3NiQ05BcFYwQzVvamZ5c0pwakN4VWwyWTVLX1lJNEJhYW03R1pIWGxKdTBzQVUtaEJZUWx5SEJFYTNqcUR1aEU0cDZ0OTJfZHFlZWNZek9NM0dLVVFrX0txazdhdlJhNGdn?oc=5",
+      "publishedAt": "2026-11-23T02:47:00+08:00"
+    },
+    {
+      "title": "U.S. intelligence chief says Trump's description of Putin as a 'friend' is 'entirely appropriate'",
+      "source": "PBS",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNUdjYmJXazI4V25FVTFNTUVCNU1kQXlCRUdVMW90d2JrT1JWX2dkaWlBOVJqTzJ6anFZeW9rWkFOaDZqczZobXh6ZkxxUzc2c3QyVnViLXZVa1VuN3FpMHNDYWRIT1BkWGxHZ01TOEI1THUtbXdyeGd4RnRzel9zU0EwdU94UUdjajZpMnYzTUloMndpb0U0UHF3ZklvNXdQbjFNWDlqM3hGOHdZdk9mU09GR1RoMHV5VElVVlhiRTRxbUpZ0gHKAUFVX3lxTE1NRmhrWTVpbDNtWURtTTRKbHVfdF8taVk2ZWJFR0pxY0Q5R0pyMWtFbFc0YzBBR29LdWtBSUg4VzRJUFMtcUVYT0xfSlR3YWgxREZNMEtJMk1ZTjFWY0RNaHk4SXpZdTBHR1FzWGV6aE9fWjZFcHNTYjM3YXFVVUQzQjMzYm9XdF9zdWlxSWhQOWdrWElkVjhYZU92VFpydThLNjk4R0lFeFZEYVVBLWZNMmtDQUVURDUxT2l5U0V4Zm0xUWNMUXpmeEE?oc=5",
+      "publishedAt": "2026-11-23T02:37:06+08:00"
+    },
+    {
+      "title": "Maryland makes its case to become home of U.S. Space Academy with UMD serving as interim campus",
+      "source": "WMAR 2 News Baltimore",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWjdGTXl3aW1wSEt3dHQ1c2dadHk0cGlpZ2xXSzNDWXZJbXVlWHAwejAzelV5aW1DOHpiVTgtY05QZkxGeW42YzJTU2lkS2VVWFBxMm9jb1pWaFF1T09PQ1JrRjhmQzBTbGdmUk9uVFBWZ0g2T08wVXNSV1lrTDJpa3ZhcEpXMnN2TjloQjFMSG5qMFdPaVd5M2RfTjVkOUN4NDlvNXJuejM3Rmxxckp2SmFyOTEwQXYtOF9IcjBEZng1V1d4?oc=5",
+      "publishedAt": "2026-11-23T02:25:28+08:00"
+    },
+    {
+      "title": "Poland Says Russia Allegedly Twice Tried to Kill a Ukrainian American Rapper",
+      "source": "U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaGtrblJ3R2tZUTd4Z3JPZERkZC14RVpUY0w3Wk1kZnVuTktVVGpMa1FJb01wNERHOHBYdkpkNDRhN2NMc09XTl84NjZ1cjBTUnl0Z0tnclVWREd1NXdWcGZmQUtfWU1RQ01PRmJNT1JZWXNFbUdOeV9aMmJ3LTdUc2NkSUFUa20tUzlibVp1Rl94RWJHV0dmNXM5NTlfT1YwakQ1aXNPOXR5a0pNUXh4ZG5ETFlxa2d4ajdLcFZjM1pyQUlWS1JVQWpR?oc=5",
+      "publishedAt": "2026-11-23T02:12:00+08:00"
+    },
+    {
+      "title": "Canada defense minister sees no shift in U.S. military ties",
+      "source": "Denver Gazette",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNa29jX3RKRWRSY0VibGZwd1dtdW1lbDZleE1SOHdDQ0JnTHhtSjNkaDhhdE5HVk9lRzhKY0RGSnFERk5KSDk1V2YwdndoVTFzbDB3UnEycm1XOTkySG03b2V5Nm1fLXNqMTdrcURMTm1lODUyT0Y2SjF4aHpQOHBSbzRvYlY4Y09Pa3A5WVlBdWtPMEVGVXU5M0ZFVlRGOWVDbHc?oc=5",
+      "publishedAt": "2026-11-23T01:28:27+08:00"
     }
   ]
 }

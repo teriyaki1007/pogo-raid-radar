@@ -1,11 +1,15 @@
 {
   "iso2": "PH",
   "name": "Philippines",
-  "updatedAt": "2026-11-22T23:05:45+08:00",
+  "updatedAt": "2026-11-23T05:04:51+08:00",
   "facts": [
     {
       "label": "Capital",
       "value": "Manila"
+    },
+    {
+      "label": "Population",
+      "value": "116,786,962 (2025, World Bank)"
     },
     {
       "label": "Region",
@@ -26,52 +30,52 @@
   ],
   "headlines": [
     {
-      "title": "Climate Change Commission Executive Director Robert Borje, representing the Philippines, says \"the disagreement is palpable, the disappointment is unnerving, the frustration is real\" in Antalya, Turkey, as COP31 comes to a close on Sunday, November 22.",
-      "source": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzBsbXNkR1hJcmNlMVpFZmVsNVBKak1oQWliUHRqdzVJdFdIdGtob1pNUERMSWU1MUFpQjRSTk5SeVFDWThua2ttdzZRb1hfVW1sTFVNNGFZU1VtVDFubW9ZdGxPZ3V0WkprdjRmTkJSUnNrcm13LTdURTk3Rm9KNzk2bVY0UGZvWXAwUjlGWTNDQTUxWkY4b0hfZVJTTVFjZDJHS3JzNVNFckNBcmQ1d1JpLWJjQnIxNUFJRlJ6OW9ZcVd6SEp5bWlkczY1WWlEVENxVzNvSEhBUmpf?oc=5",
-      "publishedAt": "2026-11-22T22:11:14+08:00"
-    },
-    {
-      "title": "Philippines pushes skills, regulatory reforms for Pax Silica manufacturing jobs",
-      "source": "Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVHhXQUw3UkliVFZ6ZkFvaGc4X3EwaGpNZGQxTGI5dXN3YzllZ29EZnBDbkhuQjc3RDAzYnNXNEhuWGE4WDU4YWEwSGZ1c2swRXNyNW1LNUxwWGxsdklUR3diRjVQbk9USV9QaHgydDhndmVYLW9jY1JMUnFvcjhEVVVsMXB0TVg2QVAteGJrUkNyd1pVTGZHc1lBNEdpM1k0dU5V?oc=5",
-      "publishedAt": "2026-11-22T21:57:28+08:00"
-    },
-    {
-      "title": "Philippines pushes to shape AI policy as Marcos backs investment drive",
-      "source": "Traders Union",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSk9tT1EtaUJjczZJVjI0YlBEbWNIU1FKTUx1N2prSUViUkUtX3MxWE52NVBIVXFlRlZLNkZhV2JyejAwX2x5eWNDdTR1RXNYMW5FbEZBQWJVc0d5NER4WWlPd1J1NEU4Vk9aLVdWV3V6MTVVdzhBaGRrOUJkaFo5VUIxQ1pSdlpjMjU3OHNNSlhyMnJDQjVRZ1N4cUE5QQ?oc=5",
-      "publishedAt": "2026-11-22T21:57:25+08:00"
-    },
-    {
-      "title": "Marcos says Philippines should shape AI decisions",
-      "source": "BusinessWorld Online",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbHhZWTE2aVNYMHVvN1RGY2NUSjgxNi00TTh1ZXRITHhkZmFQYmxOcUM5TjJFNjY4YzZXeWlvdTlqSHc3dnRJXzlibWZvLXJnalZFbFpIZm42QTJEeHNQaWN2M3kyOXdEN1MtNkstSGFyaF8yUUFfVjMta1lmb3F6X3hiMGRQZThNV2Z0TFRCUFBhblNVZDRhV2Y1NXEzZXlNc3czMWpvQQ?oc=5",
-      "publishedAt": "2026-11-22T21:42:54+08:00"
-    },
-    {
-      "title": "Red tape delaying foreign investment in Philippines, Danish envoy says",
-      "source": "BusinessWorld Online",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMXV4M0xCc3lESlNsQ1JSUnFGcjJHSTBTLTAycHhGM2JQNG1TenNTTDgyeHBIWWJ2Z0FxTG5PelEtWG42SzB4eWVqcXFmNktybTdIbm9HT0ttdzFrUllNdU14MnV2VkJudlBrRkFicDFoeUtycUF0aGQ2d2I3YzNhYl83Z0QzWHZvczlGOUJjVEtuODFlMV9TNE9nU0dyVW94RmJDeVNkMGhmVWNSVWcxSnR0bjI2VFhLUmQ1M2N2cTgwdw?oc=5",
-      "publishedAt": "2026-11-22T21:42:54+08:00"
-    },
-    {
-      "title": "VIETNAM-BOUND 🇻🇳 Oasis Gaming emerges triumphant once more, ruling the Predator League 2027 Philippine qualifiers by overcoming a gritty Maxxing side, 3-2, in the best-of-five grand finals on Sunday. They will represent the Philippines in the Asia Paci",
-      "source": "Facebook",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkhSdVkzOWhsSkxCXzdVcTAzcFd3X1B1NkpRXzZYVERTN0w4ZzNZTWExa3RQNXBZRDN0ZXlHUTlucFIwWnl6cnZvSU1kUF9UdjYwR3lyNi16bmFFY1ZNOW9QUXl2c0lmWWRnZFRWMmVZMnNuenhRSGJYby1YdWMzVm12WjFnbWJ3U3d3WGh0QTFZSWlPVmJWU1hVSFFIUHJfT0h1dllwLWNIdEJMeS1xUk5YUTZqRVZwMmtPTGFlTUVWS0JYcjFseHc0VmRVV041bmVMZk9KQQ?oc=5",
-      "publishedAt": "2026-11-22T21:31:01+08:00"
+      "title": "Air Niugini plane makes emergency landing in Philippines over possible engine fire",
+      "source": "CNA",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWjBBT0hib0pBaTZqZXhLSUpjWXhONHZlWS16eWNQU3BKVWpQbldHMlBaOHlzNmNieUNodVltbHVqWXJSOG9nam5zb2M3T3ZNUU5JMGUtOHQwaVowSFpXOGtxN1RldjVFYmNsZXlMRjZEYXFId1BMekNXbm1faVJGYXR1MXdEQXJ3VUVFVjZveDlDOERSUi1zV0lMR1MzS01TcmZTcjNuaC1ZZnAyUkpCQ3FSZWh4eWN2THEtV19CU3J6RUIxQzU1Tg?oc=5",
+      "publishedAt": "2026-11-23T04:06:42+08:00"
     },
     {
       "title": "Philippines raises $453 million in dollar bonds, opens sale to overseas Filipinos",
       "source": "Asian Journal News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQVJIejEzVkNzUmc2S2pIZUhwZlpUWFZWZ3FlVWxoSjdOaHcxSWpWUGo1bHN5M2xtN0RlTmRBNGktNHN3dndod3ZnWFAxM1pjMkhEa01HbXJYU08ydTlaNDl0dnBqZkpEb0NIVGw2RklIOE43LW51NWU3aWlHY21VZF9qNTdnUVVXXzB1aG5aWQ?oc=5",
-      "publishedAt": "2026-11-22T21:03:41+08:00"
+      "publishedAt": "2026-11-23T03:03:41+08:00"
     },
     {
-      "title": "Russia to give Philippines arms, vehicles",
+      "title": "Philippines Struggles To Sell $1.6M McLaren Senna And $8.9M LaFerrari Nearly Two Years After Seizure",
+      "source": "AUTOJOSH",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeUdDaVNPUUUycU5lRFBOYnlIS1JDYmZCSEtBZnVEbDd3NFdoRk1OcDQ5RDBURldCYnctUk5qc21QbkY4bUpjMzZxVm04MmN2RUotS0d0M2xPZlh0TlpJNFhnbWVzWDRjeFJxS0tYMUlDbEZNaWdpejEySEFQOUNGa1VHVXRTXzAtVFgtOFJJRE50aUtkM0k2OWVyclRXVXM?oc=5",
+      "publishedAt": "2026-11-23T02:45:00+08:00"
+    },
+    {
+      "title": "World war ‘could erupt from clash involving Philippines or Japan’",
+      "source": "The Times",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRUxIZlh6bkhzTnVEdXliSHZpS1ZBODM3MklPNnJ3QUFzdXhpc0NFYnhKRm5SMEV6d1VqQXlUNjNXQjNTa0RXVUFPQWlWSE5veGJUTGJMS2hyQlRkNXc0SW1UR0JfNVdzUkh6SFM4NUFaeXNVLWRaV1JYdFNWaXpIMVE1cWVVaWdHOF9Cd2xlWHU4MUtPQzJySFI0WnA3a1NBRmZJZ3Zrako1eWcwZUlybF9heWI4MEQzRmc?oc=5",
+      "publishedAt": "2026-11-23T01:46:59+08:00"
+    },
+    {
+      "title": "Philippines arrests 45 for kidnap of Singaporean woman",
       "source": "Yeni Safak English",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQnlsUC1iaWtRd2lUMGFybkNBLTNjeWlyWWNKMFdoTi1pYzJXdUptQ3RQWjhZbGxlLTVSOENlU0NtclVIbXJ4ZjF1Rk1MLUR4TEJpd1Awdjd4dUFaaUNkUkhGYXIybXctUDFSMEpZdnM4bkFZb0J5bFcxY2NPSHlQeVg3bHJwZw?oc=5",
-      "publishedAt": "2026-11-22T21:00:41+08:00"
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmZ3YjZ5Y0JzUDlsY3N5dkZWd19rUlJ5ZmJZUWNRaU0yZmRQek9GbEQtU3lZT01tQWdJeXRPUlhVUE1EUmlST1VyYjVydUxKcFk5R0N2dzhFZlRMM3dYZmkxTEJfRWxsT0N3UGhBLTVTUXJXbkJCY2FWcWRnTHdhM25uSXE0QzZydUVyUlZ1d1I2TWh4UndHNQ?oc=5",
+      "publishedAt": "2026-11-23T01:30:26+08:00"
+    },
+    {
+      "title": "The Philippines impacted by climate change, 1",
+      "source": "Panay News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4ycmxpVlZ6UXlOZmEwdWZ6dTY0dXpSS0t1bmt3eVJWUlJqdFo5YWdLU1lQREQ5aF80dWF2SnBETmpzTnNYbGlQSmtQNmd2aTBneWlOWC1nSFUtUUpnOHl6eGRmRjdSRVh5Ml9qZl90ajFzNGtkckR3c1Jtaw?oc=5",
+      "publishedAt": "2026-11-23T00:50:00+08:00"
+    },
+    {
+      "title": "🏆🇵🇭 Philippines sweeps men’s, women’s Asia Rugby Sevens titles DOUBLE GOLD FOR TEAM PHILIPPINES! 🏉🔥 The Philippines ruled both the men’s and women’s divisions of the Asia Rugby Emirates Sevens Trophy 2026 (South, Southeast & East), compl",
+      "source": "Facebook",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjZW5KcFpmQk16ak5OczFoeGZPS3dNeDAzUzB3dnBwWkxvcGxrSGRydWFZVGY5SnBCTzhtSm02TG5lTUhyMlp3UmxpeElPbnkzaXRXVGlnUE1OaWgtcWI2R2lUbGpELV8tLW9Ub3MzZUc2TUE?oc=5",
+      "publishedAt": "2026-11-23T00:22:00+08:00"
+    },
+    {
+      "title": "Philippines, France conduct bilateral maritime exercise",
+      "source": "Philstar.com",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVFQtejBOUGN0ZDRxUjZodldlNmxiT1pPbFF6dGZ4X0lMakFDX1FHRURjcW5acVRSbEI2MlBMYTd4X19pU1ZVOXZJUFdIWHRZYzh3MXY1NHc5LS0tbC1HUHJzdzY4RDdBS19lQTFPZlNTbWtsMzgzYV9TM21EYThaODdkbjUxQ0JBV0RrbnB0Tnl1R1F5UzBiM1NyTXFLaEJudVR0N1d0RXRZZzBC0gGzAUFVX3lxTE5EaElrVF9jZXQ2TVVFNzRJUlh5WmNUUWtGdU9NQlRZOU9MTDAzUXBCZDVtWFdpVXQtdjZ4VlBFRzd3WHdyU0RDa29tbjFfbTExbWY2dnZ4UzBOV0paTTZNanR4NGh5c1JSRU5fbzZ2bURfY0ptTlFRUTlxYmJUb3QzSnRuZERhSGptWVBnS1dQZkQ0MUo1d1hrU3B3a2dhRTBEZmczVldoLUtXNTBCRHRiYUY4?oc=5",
+      "publishedAt": "2026-11-23T00:00:00+08:00"
     }
   ]
 }
