@@ -1,7 +1,7 @@
 {
   "iso2": "CD",
   "name": "DR Congo",
-  "updatedAt": "2026-11-22T05:06:05+08:00",
+  "updatedAt": "2026-11-22T11:02:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,28 +26,34 @@
   ],
   "headlines": [
     {
+      "title": "Ebola death toll tops 5,600 in DR Congo",
+      "source": "巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU2txRHdOYk0xWlY2VzkxV2RsOTRVakFQeW5aM1pDTm9zU1BYZlZvWGFhdkx3eEM4VHA0Z0p5Ui0zcVpWbndGeWE3UjM2Ti04U2VQSlJ1cnZEMXBrNlFfSnpNMFZ0TGIxNDdkSHpBR285bktILUxWaUVyWjR2eWNEMUx5Z2hZdzdrd3RFQndfenBfU3hI?oc=5",
+      "publishedAt": "2026-11-22T09:49:00+08:00"
+    },
+    {
+      "title": "Congo River boats: DR Congo lifts ban for 3 months",
+      "source": "DNE Africa",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rOXJjZG1qU0xxUnNqb0N5OXBvQ2pPYUFFeDh5T1dNXzVvVXg1cW84RnZjdXFtOVZDVDIxWENqTEhhRml5d0Q3V1pUWHdfSEQwZDR4M0tBdUcteld5N1gwNDVn?oc=5",
+      "publishedAt": "2026-11-22T07:05:00+08:00"
+    },
+    {
+      "title": "Egypt and DR Congo sign disarmament deal, plan 2027 talks",
+      "source": "DNE Africa",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEUWFTU2Y1ZUtRVjdvNDQxbzFOOU9Gc2dmb1Y0RGtMT2lZMU1kMEkzeXBodlhJLXJwaHhibmhRbGRiUFRJZjdMb25SZ1ZLR2lyazRpMGtWeWNUQ2JPamZwaV9LVGE2VGZGNVJMWHF5d3hpRHF0UzdaYlZR?oc=5",
+      "publishedAt": "2026-11-22T07:05:00+08:00"
+    },
+    {
       "title": "Egypt signs cooperation pacts with Sudan, DR Congo at Aswan Forum",
       "source": "Daily News Egypt",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeGNtNW1JWE5mVHhGTlZ0RENQZzBMbFgtRmliWWpQTjJWVEhOREswTUd6cHRvX214OV9Na1ZJdXl0bGJoLUo1aGF2NXE4NTI0aDB2UmMwRFNVQ0Fmc0VHUjlwYWpNVTJlbHU0eE9LYjM0UlFKbmJ1SU04X3l2SldYQnFnZS1CdmxFTUJGT3BfV0RsMV9IaDhWb3E4LU5wYXJEOS1zLWh3?oc=5",
       "publishedAt": "2026-11-22T04:46:55+08:00"
     },
     {
-      "title": "Egypt and DR Congo sign disarmament deal, plan 2027 talks",
-      "source": "DNE Africa",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEUWFTU2Y1ZUtRVjdvNDQxbzFOOU9Gc2dmb1Y0RGtMT2lZMU1kMEkzeXBodlhJLXJwaHhibmhRbGRiUFRJZjdMb25SZ1ZLR2lyazRpMGtWeWNUQ2JPamZwaV9LVGE2VGZGNVJMWHF5d3hpRHF0UzdaYlZR?oc=5",
-      "publishedAt": "2026-11-22T03:59:00+08:00"
-    },
-    {
       "title": "Egypt, DR Congo sign MoU; stress int'l law in managing transboundary rivers - Foreign Affairs - Egypt",
       "source": "Ahram Online",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5mUkFBM2xMdFZNdU9oaF9CVnJmNF9Qcjh4aDdVYXBQU0p6Q1JhREIzakNtMXdSQXJWT0tGS2RLay05Tkdyb1N2QUUyZDY2cGpRbnNhemdtV04?oc=5",
       "publishedAt": "2026-11-22T02:43:13+08:00"
-    },
-    {
-      "title": "Congo River boats: DR Congo lifts ban for 3 months",
-      "source": "DNE Africa",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rOXJjZG1qU0xxUnNqb0N5OXBvQ2pPYUFFeDh5T1dNXzVvVXg1cW84RnZjdXFtOVZDVDIxWENqTEhhRml5d0Q3V1pUWHdfSEQwZDR4M0tBdUcteld5N1gwNDVn?oc=5",
-      "publishedAt": "2026-11-22T01:15:00+08:00"
     },
     {
       "title": "Mobile Phones, Solar Panels And The War In DR Congo",
@@ -66,12 +72,6 @@
       "source": "Nilepost",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0xBMEZQbW5LazVoLVNpeHhqMjcza3E2dEE2Ty1DNWxpZlZ2R0d3dVRLcVR1X1lhM000blk1em43ZHc4Z3pOYXJGRHM5d1lDMjduT1hELUdtMFZ6dTBsd0ZpS3lhZWlUZTNoSURuTUJ1eHgycEZrckFiZDBLUk1DWW82SnVPajVEb212eTRtY2dLQWQzZi03TTRlMTlqekZ0?oc=5",
       "publishedAt": "2026-11-21T21:08:23+08:00"
-    },
-    {
-      "title": "Egypt, DR Congo sign disarmament co-operation deal",
-      "source": "Egyptian Gazette",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZnEwd0ZhMUl1WmVUMVdMeW9HVmNYeHpoNGpLdXhvY3dDM1dhNEVGN1F5UjhLendqakxSLU82dzJtOVZWYXFPb1pwQkRMUTZkaEpfdm5WOUdLTWh6ZkZ5MjE1WmhCQ2dpX0xVZmlhbVB1X2sydjE4TXBiRTJRVGFPLWtDUEd2ZUpOY01fam93?oc=5",
-      "publishedAt": "2026-11-21T20:54:15+08:00"
     }
   ]
 }

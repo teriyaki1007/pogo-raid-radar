@@ -1,7 +1,7 @@
 {
   "iso2": "BE",
   "name": "Belgium",
-  "updatedAt": "2026-11-22T05:06:05+08:00",
+  "updatedAt": "2026-11-22T11:02:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,10 +26,40 @@
   ],
   "headlines": [
     {
+      "title": "Why is Belgium on strike on Monday? Budget cuts, and a deadline for the PM with the king",
+      "source": "Nacionale",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQekN3UDdPYjRySmRPdVZhSzB5SHhmcUZZNG5ocmFmYVYzS0tJMDRuQ3h1X0pncVVzYlZiRjE4cGY4c0xCeE5LUHk3WF9zWVJDQ2ZQR2E1ZC1HVUR6R3JENjRUXzB6ZXlwX0RFN3JJdWwxZDRmRTdYWkZYODJRbVp1dWtPcVJRY2c0TmRHTE5kTk5IcHUzS3lBZ05lbk9MQzhOUVY3ZXpSX3pvNGcwOUlKaQ?oc=5",
+      "publishedAt": "2026-11-22T09:51:00+08:00"
+    },
+    {
+      "title": "Vietnam eyes U17 World Cup knockout spot after narrow Belgium defeat",
+      "source": "Báo VietNamNet",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelQ2ZU5RWVRNVU80cF8ydnI3R0RzMkwyc3hvR3I4Wm1MNndadk5WX21XcDJwS3lMMWFqRG80RlpaWFkyb3JtbUtQX01iU3lJZ09hbjNqSE9KZUVNMTMzcmpqTTh4YjV0U2cyYkcxMTF0UnRITFlMUDdkLUJqQ0U5bmE3dnc?oc=5",
+      "publishedAt": "2026-11-22T09:04:00+08:00"
+    },
+    {
+      "title": "Belgium Suspends Most Flights During National Strike",
+      "source": "Demokratis.co.id",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CVnotV0MzQzZCd1hkZVM5TU5SRTNKNWpOVGNQdWg4bUVmS29LQmZKOERkeUNMeW5VS0NaWHFabExTSnBaMTlmQjAtX0RQU29mTk1odnRfMVhUYkFYRmpyT3JMVnpoMjhxNXcteXdpR0NWYUFUenc?oc=5",
+      "publishedAt": "2026-11-22T08:15:03+08:00"
+    },
+    {
+      "title": "Belgium faces air traffic shutdown due to national strike on Nov 23",
+      "source": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTnBueEJwTURsY3lrSi15VlNCcXBZdDQ1ckpnUnFyMFlyMktGOFlCMjJ5LW1qWE1IWHMxTDNDQ2ZRLWVnWDVvZnR2RUtGTmFjRF94Ym15d25tRml3eWNCVmludU9VbGEzcFVtWlpjU1VoZ0NpRklCa3R1UjF1aDRxU1lDdzhkM1puM3MteExBLWVqbXRXNHF4Z19vZlJBcEVXMTFqWXdDZzVlemxHSFE?oc=5",
+      "publishedAt": "2026-11-22T07:37:00+08:00"
+    },
+    {
+      "title": "Belgium eyes deeper education and cultural exchanges to expand Macau ties",
+      "source": "Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVFl6cE9UVzRVLVVVaktWSFdyOGRhWGVuQ2x6a3h5OWQ3YUF6eGVWQ1oxbHJGQ2RDRThxam5PZTFXcjVjOU1nYV8tWENzRG1BaW96OHh2OUM2QnoxTTQxMXEtcVZuTzdmRWlZdGRucnZuNzFqYVYyM0lxZHhnX2d4UVJUZnR2eldxS0tFU0tsV3kydzdhemotT3Z5LXRwNW02S1E?oc=5",
+      "publishedAt": "2026-11-22T06:52:30+08:00"
+    },
+    {
       "title": "Rapencross 2026 Results – Lokeren, Belgium – Elite Women, Elite Men",
       "source": "Cyclocross Magazine",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LWTduTVBLVGx6SEQyc2RUWDJfaThwb2hxOWc0VWhIUmwwaFFsWGlCYmpsNG4wUW5pQVE5VTNuOFgtNlJ0eWdKV0hkaWtJU0p6bzJRczlYdWJjM3VFcGRsTUxVWHdIRUREY0N5b1IyQ21UOG5FR2c?oc=5",
-      "publishedAt": "2026-11-22T04:05:32+08:00"
+      "publishedAt": "2026-11-22T04:08:24+08:00"
     },
     {
       "title": "US Embassies Issue Demonstration Alerts in France, Belgium",
@@ -42,36 +72,6 @@
       "source": "Bavarian Football Works",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNejJZX29IZHhVYW93bXpJOTJXdjNUS3J6Ny1lcHpIZUNCVmtGMTJEM2FMeHk4NUdBT25SQnVfXzh3ckcyN2dGVEtkR0tBcTVsODJEeDNMaHcwYmxJdkJtRXh6SFp1Vy02S2gybVI2NUpMdFZXX21PLXBnSFVkMmdDWEdtNkJqMEVxbEczWFJsNVJSekg4N1RUUGEtOFh6TENEX0txQU5SVUp1Zi16VDN6LUc1OHVSbFd3QjVyUDV0cklDRjVrWjItQmNwSG94clpoYmc?oc=5",
       "publishedAt": "2026-11-22T02:15:00+08:00"
-    },
-    {
-      "title": "Morocco and Belgium forge partnership to strengthen industrial maintenance",
-      "source": "HESPRESS English - Morocco News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMnRnaFF1RUM0QWdWSGZibkpPY25YclRmdGd1XzVrbjd3cGgtSGRGOEp5eXVuSzdOVmFtS2xVQTRQMWFxYzRGMHBSMXU2dFlKQlk4cm1fN2oteGdTOTY5MnAyejgwSm1LMkF6ZHc5LTJVOF9zbk03b2w5V1V3akgydkpjRGMzX1A2NXVIMmRJYkRkc2EySzJpUi1rZjcxcFg2WnNlcWZYTjRQaFpUZVY0?oc=5",
-      "publishedAt": "2026-11-22T02:08:27+08:00"
-    },
-    {
-      "title": "Gold bars and coins worth $10 million found hidden in a wall in Belgium: authorities still don’t know who they belong to",
-      "source": "El Cronista",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUUNLbDl5eGNNbnBkNVhCNThWc1ZPYzRVdW9jYmJQcHJ2NlhkTnJFcVY5RHlkUFo5bFdMNGpGV2lvaEtnVFlwdW9FVE96YVoyVUZTMzFJZ2xYUGg5RVBGcy01YUlXeEM1UmdmZ2ZpREsyUU9QMXlrRXRyNXIwUkhCT28xdm1QeVJreXJDakhaRlBMZkltQnNieFJxVS1fbVhuaVEtOVotWl9LbFJqYnJzSlIwTHA0cGZHaVZTdVJOTTdtQkpUREJLdU10RWlRTUlEUENzZk1oYnlLV29rSVhZYTRvT09tWVE?oc=5",
-      "publishedAt": "2026-11-22T01:20:41+08:00"
-    },
-    {
-      "title": "Man convicted of Belgian kidnapping extradited from Spain",
-      "source": "The Brussels Times",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOelZ1ZkYxT2FxY2puR2NvUkhBaU9KLU9VeDdTVW5rX2JYazRYUjFhZEplNWRqRk9Ob21qYjV4Mm9PS2s5bXc4MWNoai1FZ1JudkxPZTBpWmJYTnlabjhFeWx0bFNXYklkTUtxaTFpSHRUaU1PWG5aaERNdWE0VUZYRzZCYVY3Qk9nd0RuWXZDN3BlLVRDUTVuLW5YM2txVjRrbXo1T0JjRQ?oc=5",
-      "publishedAt": "2026-11-22T00:12:25+08:00"
-    },
-    {
-      "title": "Vietnam makes World Cup history with two stunning goals against Belgium",
-      "source": "Báo VietNamNet",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR0Rhcmp5eXBxWTdoOW8xUFhEdmx5TXBFUl9EOGctTV9ZbFhRUmd5SXZVVlI3TGdOd05iYy1lay15bHFEOTFBVUhxYXRpWDZNekhJWkxMN2Y0T1h2OTg1NEdjY2QxMzY3R2dlYzY3bWMzc0ktRllaV21FQ2Q0R002OXNHX09EQUp6SnZoWTZVS081d2luZDU3WmpNX0VNZEUxWFE?oc=5",
-      "publishedAt": "2026-11-21T18:16:00+08:00"
-    },
-    {
-      "title": "World: Migrant crossings to UK from Belgium surge in 2026",
-      "source": "NewVision.co.ug",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd1NCekprM0lLbmVaTFM0Ul9MVUg1MkEwdlhvVDNOMDFWR0lzblItTUJZMGIzOExyWlNpQTh4X3N0bjdpUlpxaUd6aUU0dUdlalhzcy1MVE5rMkJFN0tkMVYzQ0s0NC0xa2ExcE16U1lNbE1lZThzd3JndFFMVTczV0FfcGNCVTdKN3ZGc2tzRGtxQW40Zk9qZFh0Sm9uemRpcHVpbkN0NU8?oc=5",
-      "publishedAt": "2026-11-21T17:00:05+08:00"
     }
   ]
 }

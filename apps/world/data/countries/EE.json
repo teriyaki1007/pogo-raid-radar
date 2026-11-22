@@ -1,7 +1,7 @@
 {
   "iso2": "EE",
   "name": "Estonia",
-  "updatedAt": "2026-11-22T05:06:05+08:00",
+  "updatedAt": "2026-11-22T11:02:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,10 +26,40 @@
   ],
   "headlines": [
     {
+      "title": "Estonia Issues Drone Alert as NATO Jets Scrambled; Finland Restricts Airspace and Shipping in Gulf of Finland",
+      "source": "Avi-Go",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LcF9uODNwa2hNanhHbFNKclZsajNVa25tMFNaNHFRYU1hMmpoZ0k0ektJZFNkVFBiUWtNNTJrNi0xR3FvZy13VTMxV2FpYlBlX3BGTXpHc1h2UjhzSGo2RXZxZjBDNGFXWnFuUEtiTmI2V28?oc=5",
+      "publishedAt": "2026-11-22T06:59:43+08:00"
+    },
+    {
+      "title": "Is Estonia closing its border with Russia? Yes, all road crossings shut on December 1 for six months",
+      "source": "Nacionale",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQR08ydlMzTjVMQW9DTVh5ZmNjYV9rNGd6bEYtRTFrSWFOczZTX0dUSDhOVVJ2b0hkNXNkQUxza2htajdYSUs0NE9fR0tXcDZSM0pzcjVxbFc2ZnNvU1hUd1o1NjE4a3RocjlmaUtyZFJ3cE5jNHdwcXNWUHhMVjVHaTVLUVM5Z05Hclpwb2ZlVEFGRVB5WGRCdVRLQjJzQW0xLXJLNENJVnUydmNINk8wVHhn?oc=5",
+      "publishedAt": "2026-11-22T06:50:08+08:00"
+    },
+    {
+      "title": "Estonia vs Romania",
+      "source": "beIN SPORTS",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUlI4Und2WHFKUGo1cVNhLVI1S1lqNnpFckF6T3Z0a0Y4OEViVXNQMDllaUhqeWxHSHVfQWZiNDFDZ0xLc3B2UEtGQ1ZIQVJJZlh4aFhoWlpEeDNSMEpRdkxfRGM4Tjk2dUdvTUhFbXZtT3VNTU9OUE9jdHMtb1I5V1NuQ0FUVFkzU25RY2NYUWRUUlNnNHc?oc=5",
+      "publishedAt": "2026-11-22T05:12:41+08:00"
+    },
+    {
+      "title": "'Divided': queues in Russian town as Estonia border closure looms",
+      "source": "Winnipeg Sun",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZVdIbVhPR05VYlhaUm1ZMm1KUFVxWWY1SmlKSGxDbVp1aHVTU3ROYm9iYS1IdzU3NzFzMEYxT2pKZGxYZXotLWtKRUxVSUx4WE1Udmt3SlNnbkVXeU82VzNUSi1mbGY3VlBSZzkybW1YU2tCX1dMQkhKVVpXYngyM3R1MXJ2S1ZpeEZCY0NtajdJY3RTUGR1QWdSZWNPaC1Nb18wWlQ2eGI1NS1aUkt4bXVQMjJRc241eVBMRWNDZUsyOW5SX0dLeE4zYXRzZTktbm9xMHF3YUNRVUlwQlFNNmZwRzc1dw?oc=5",
+      "publishedAt": "2026-11-22T05:02:03+08:00"
+    },
+    {
       "title": "Estonia's Selevko captures his 1st ever Grand Prix figure skating title",
       "source": "CBC",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yWWw2bElRRC05cExBXzdkNzVfX0RVMkp4TmQzbVFoeW1TTGxZTkRSZWZnb243TGlFSHRORXFvSjJGTnNpQ1dGaGh2UTMwSFFiLTZRWk9DbGxZUQ?oc=5",
       "publishedAt": "2026-11-22T02:02:10+08:00"
+    },
+    {
+      "title": "People Rush to Cross from Russia into Estonia",
+      "source": "Наша Ніва",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9NYmxSU1l5RF9aVzVmS3FSMnZER2hQVUYzUlBzNjItenZKSFNFUTJvVE5yZzNMdV9qd2ZwaDF3d3FNSjRVcnfSAUtBVV95cUxQcGhPbTRTeVlYb2h0MEc4dEFrVFBUMXJSbVJubGxzX05iNnkwZlZMN1NKSERmczIxZXU0MDY2clE0Y3I3MXhNMmVmb1U?oc=5",
+      "publishedAt": "2026-11-22T01:29:46+08:00"
     },
     {
       "title": "Poland yesterday, Finland and Estonia today. More aircraft will enter NATO airspace",
@@ -42,36 +72,6 @@
       "source": "AOL.co.uk",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSDNBR09pWnlqRmZxM2tROUtHVy1jQkhESzFuZXZRLVM5QUEzVnR6SDQ2c0s5WjZxQ3hrTEQzLWJGZ3ZsaWN6bTV4SGNHRkpwaE43UXhVS1RpdHlWQ2tKMWpKeHlLRGFJMGxBX24yN0lCa3Vzd2NyRjhadHUwbE1mbnRnaGhZQ0xq?oc=5",
       "publishedAt": "2026-11-21T23:43:14+08:00"
-    },
-    {
-      "title": "Queues in Russian town as Estonia border closure looms",
-      "source": "The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTVZDeWRrN19ZWnVXeDdrYXBUdXJNNm02anlsZVJ5eXJOa0ZCVVVXX1g0SVJWUnRlOVpMNE9BMHIwc2xTM0hTMjEtTGoyX1p4RGhtS1FjRk0zRTloXzAzQktMWjdiUXF0M2tJb09iRVhhbGhPWlRfbDkyVXVOa2pYWTlNcGRZUXBXTmVFMmI3eE8xX0I4UnFfcElpS0U?oc=5",
-      "publishedAt": "2026-11-21T23:10:00+08:00"
-    },
-    {
-      "title": "'Divided': queues in Russian town as Estonia border closure looms",
-      "source": "Winnipeg Sun",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZVdIbVhPR05VYlhaUm1ZMm1KUFVxWWY1SmlKSGxDbVp1aHVTU3ROYm9iYS1IdzU3NzFzMEYxT2pKZGxYZXotLWtKRUxVSUx4WE1Udmt3SlNnbkVXeU82VzNUSi1mbGY3VlBSZzkybW1YU2tCX1dMQkhKVVpXYngyM3R1MXJ2S1ZpeEZCY0NtajdJY3RTUGR1QWdSZWNPaC1Nb18wWlQ2eGI1NS1aUkt4bXVQMjJRc241eVBMRWNDZUsyOW5SX0dLeE4zYXRzZTktbm9xMHF3YUNRVUlwQlFNNmZwRzc1dw?oc=5",
-      "publishedAt": "2026-11-21T22:24:21+08:00"
-    },
-    {
-      "title": "Gallery: Estonia's largest solar park opens in Risti with 340,000 panels",
-      "source": "ERR",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOXzNELVNiZG9oalNIc1M1RHhYMWFyU0ZhejFsalVQM3pQZHc1V0EtS3pnQXlFU2w1aUt0QzJRYnhXVWtZLWM1akozTkkxaVdRZEF3MjVuRjg4ZHF5ajBKLTR6dTZpN2lZbnNRVWpBNzJpQy1qNmMwT1o4Sk4xVUx4bEUwV0RScVZOV2VsVFRYZTRhM0xCc3BZMUhzZXZwWWVmMTA4TQ?oc=5",
-      "publishedAt": "2026-11-21T22:18:00+08:00"
-    },
-    {
-      "title": "Due to Drone Threat, NATO Fighter Jets Scrambled in Estonia, and Finland Restricted Flights and Shipping",
-      "source": "Мілітарний",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbUd5Rl9JM3ZpbUUtT18yOVVhUHgwVzRMR0F5M2I2Uk92dk9ZMUo1czA5a04yZjJqRTVZc3VlU2Jsc1VfMUlhYVBzVkZSamlNN29SQVllRDJqeV9pZjRnUmswSkZOZ0NVWllGcnNmZGlDSGtsR3ZnMEFvQUU4bUZqa2sya0JxQVVZX2Z1VEg2S3A2Ync0TUp3MU56c1NnUl9yQ25yOEp3?oc=5",
-      "publishedAt": "2026-11-21T21:15:41+08:00"
-    },
-    {
-      "title": "Data center boom in Estonia: Who is building, where and at what cost",
-      "source": "ERR",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSkd5TG5Iay11bVMzM2hSZmhDWHltMHJ3dUhYZTRkWk9IRzU5SmR2RVFaREhkZ1BHb0ljN0Z1NHlLemM4Yzl2V1hWUC0zZDc1VFU3cGxqMUZFcXpCdjlZSGY5R1NVWmZYdWFUeFRONzZ0V2V3N1pkTV9uOW1uZXVUcm5RbnAwR3hUV093LWRPMUZ3WW1CTTRyQjYteWdfUQ?oc=5",
-      "publishedAt": "2026-11-21T18:01:00+08:00"
     }
   ]
 }

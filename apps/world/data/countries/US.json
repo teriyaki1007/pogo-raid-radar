@@ -1,7 +1,7 @@
 {
   "iso2": "US",
   "name": "United States",
-  "updatedAt": "2026-11-22T05:06:05+08:00",
+  "updatedAt": "2026-11-22T11:02:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,6 +26,42 @@
   ],
   "headlines": [
     {
+      "title": "FBI probes crime database intrusion as Trump fires US cyber chief",
+      "source": "Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1neUtNNTlwREg1c01sdGpuWTdxNnZpbGYtbm1xdng5SXZNT1FZRGYxODhLMjA1LVowbkMxTXFteXNhOTFjNnB1MG9kX1lobmVpNVNqNDAzODg5dEV5Ui1z?oc=5",
+      "publishedAt": "2026-11-22T09:42:00+08:00"
+    },
+    {
+      "title": "U.S. House passes Westerman bill to transfer oversight of southeast Arkansas research forest to state",
+      "source": "The Arkansas Democrat-Gazette",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHg3OW9YSGFtT3lCYTItcWpmYmFqcUc5d1pwSkhxZEIxakNTRXNhUmVHS1M5WmlzWndEdmhxbXA2VU1WZFVnWjdLdVdkOG9JQmc5Z1c3N3AyZEJreDFwTzM0MjcyaU8xWVZtdHRHS1Q1SVNKLWptRTFUNUptY1Q1dDVjdVhpbHFvT2dNY29PcmZXRkk0Tk1N?oc=5",
+      "publishedAt": "2026-11-22T09:30:00+08:00"
+    },
+    {
+      "title": "Congressmember-elect Cait Conley blames \"incompetent leadership\" for recent outages across U.S.",
+      "source": "CBS News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM3JNNVNSdmNnRERIX1FQSGZURE1RSWNkWmtPQU1id2d1LTg2ejdXeDlydklYZm9GWE9ZdEdQcmc4OFJ4d3hSS0hMTThpbGpPLXBCVTVJMHpfRW5oZjkwYWxobUNjZ0VMa0RJZk9VVHpnTEFxYUp0TEotQVBkWkR6UA?oc=5",
+      "publishedAt": "2026-11-22T09:02:01+08:00"
+    },
+    {
+      "title": "U.S. Agriculture Department and FBI breached by hackers, reports say",
+      "source": "The Japan Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEl3UnJhaXdVUkc3Vmd5ZTJBM1NGc192dk4zR2hwNmsxYmZoTW9ZZFVGUnozZEs2LW9qaEw1bDlKTEg4bkFTeFZFeHVwMTFZdmQxQWhuUW81Tnk4QTNuZU9nVXJYV2ZhaVZJd1gyTTFLY1pRMXl1dFBzQ0JPUFdlMjgwU2doNU40ZnVkbVJwencyUQ?oc=5",
+      "publishedAt": "2026-11-22T08:56:15+08:00"
+    },
+    {
+      "title": "US senator says Pentagon restrictions on Canada focus on think tanks and social events",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQy1HRmtuYU9aVXlJYkNPR1FxLXlDMEVLMzd1M1Q4ODRfUV9Zd3BLenJBRENhYVNMSTM2UU1Yc2VCSkxaXzNJRy1jM3AyZWhldE41WmJET0huQUlIaUZNdF9ZNVhQanMtLUIwc1RUTHF4QlFzeWNBdVgxZkRneFZfNkdCTkd1UjJ2dzM2bUVYOVRfX0ZFemRZTE5vREVlZEp6ajNvcWw5RUlwMkhXeHVZ?oc=5",
+      "publishedAt": "2026-11-22T07:19:00+08:00"
+    },
+    {
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHR2dpZ2NvZm9LaGMtbEhsZktqOFBMYVMxZHNOVGd6NktTLTlqMWdIVmtlLS11S0RJQjU2dkw3cUpvNTZUUE40MkhHU01KbTZIREpaRlJleU9FX1k?oc=5",
+      "publishedAt": "2026-11-22T06:01:19+08:00"
+    },
+    {
       "title": "Trump skipped COP. US fossil fuels showed up.",
       "source": "Politico",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR3A3VVAtUTZCM00zR0FQYWRzVl8tQUkzaU5IbjAzREdwU29mb3d5RDZnZVFJNUVHVFlhbkl5alFNUl9XaUpra195cnBYaTBmYm9WYjlLQ3hOdUFVcDNoUFNuOUZBemdVZ09laW1nek1HV3Y0VnVIcUlTTkFlVE9rc1N4NjdIZFd1WC1VQzd1eWd0UVNERTJTMG9B?oc=5",
@@ -34,44 +70,8 @@
     {
       "title": "Adoption Day helps children find their families across the U.S.",
       "source": "Spectrum News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXFZeV9kX2hHY1UyYzd3SjRLZlV6Mk51Wmhqdk1tUkRUcFpUckxSMDgtV2NoZzg5VTI5cmx0YWtjWU41MDI1RTNUWERxT0xwM1FyTnY2R21fcFFNYk9pdWk0NjVkd1JzSDJnaHNPVVhwMV8xeUNMMW5XdUFTZ2tWNVA2aHNYaVI2bHJkQWZhU1ZyakphNWdrUmVR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUI3SVdKTWdTdldOMUxIZFlHWTBnWmdkUkE0bG5zaFFvYVFSRFZRVlpQS2lXdVpUWWJBVlh5YXFWb3Nlb1p1X0NocU9wX3V6MW9xX01WeGZEaTNEYkFaWTloaEY0N0FadmpyM2lpX0lLTE4zeVJEbURSenZVMFZMdGJseTNOOE9vU1JaWTk4U1J1SllCZXRWTnRB?oc=5",
       "publishedAt": "2026-11-22T04:15:00+08:00"
-    },
-    {
-      "title": "U.S. News recognized these Louisville hospitals in latest rankings",
-      "source": "The Courier-Journal",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSVNkSG1BUml4WFp0eTVaRlJvM2RvVHItYmNLdHZIOEJuQzdGVlp1R05GVjMwRENzeU93c0J4TDZXbEwzNllVcEtMajFzeXdlN2lnUkVkUjNJUGZ5Y2FLdDlxRTBVX1J6SDhIczlqUkZKTllVbnNmQl91TXJGTmtwdzZLb1hfNy01NW1XT1NNa09WUWc0a0lYdXlWaGxhTjUxQWhDdWF0N09fSURyeU00dWpRV1Vabnk4ajVuZkx5V0lqTWlZWGV6SlFrYmFWWC1KdU0zWnhJdlE?oc=5",
-      "publishedAt": "2026-11-22T04:10:00+08:00"
-    },
-    {
-      "title": "US senator says Pentagon restrictions on Canada focus on think tanks and social events",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZmw3Y1htZGpZMHFxYmNleFp6ZWV4eGNfdU5GSGdWbFd3cmtiaS1XV0RsT3R0WExOeDVwOXExRmxMOWFUc0xyakhsSzBQb282RUVWVXRYTmU2YlVWLTBfWHBDZk96U1hseDZPSFJVcmd1VWZwVlYyTTAzNEQ1XzVZbGU1d1ItVmdvZ3hDaWhVNDVRNnpTUnNiUXJrWG9uaHpKOGw4?oc=5",
-      "publishedAt": "2026-11-22T03:37:27+08:00"
-    },
-    {
-      "title": "Trump Says He Will Consider Championing Barry Bonds' Hall of Fame Candidacy",
-      "source": "U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTXZ2R2NodFFwZFRjOUxHeGhQRkExYU92Y2RRb2ZPRWNkUHBST2pzX1doTFA1Y1oweDExV0ZXd0hiUnVEYjRBMWZvWldQT2RCVWVGZ0RyZ1kxT1JBUlJqa0tZMGtUd2FrSU1vaGxOd3VwTXRpM09WY3kwb05oaW9GcUNkclZJLUlwbm90bUw2MUtzYTJNblU2Mkp3NzVFbHB0V2Z6cWxrRnFYMnhhSW1USjZQQ2hzbkFPZ3BNZl9GYXFZQXM?oc=5",
-      "publishedAt": "2026-11-22T02:22:00+08:00"
-    },
-    {
-      "title": "U.S. Marshals capture Michigan fugitive in Waterbury",
-      "source": "fox61.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQX1VnVzlvaU1DQlFRNWV3SG1LbjVPWWlwOEZ6ejdOTXluZ2Y3ZS10TEJsOVZlVjBmNlJDV1lGbERFcTRwUkF4UDE3cmVENXZ2Wnh4SmZaVm9DWXFHWGR6TzhhS1JXcG5sWW9rOXRrVVY2MDJWT0xPU3NlRFNRa18wSEJ1RjhBMmV2cllqYm9ERUxDSjhsQkZNLWdobVhjdEY5WWtzREFnRFBzUk9yb3d4czF2aEpGb0RibGdycERGUUU0WU8wdGlFZUFWeC1wbG5SVGNWWDFDZl82aThNWWdHUjJFa1ZXVEZFakhhMGZRWEhqMFdBeTJ2LXZ3?oc=5",
-      "publishedAt": "2026-11-22T02:12:00+08:00"
-    },
-    {
-      "title": "Trump Vows to Work With Democrats to Cap Credit Card Interest Rates at 10%",
-      "source": "U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDRuNzRlNW90VmVBVUtvUTFHSkNieDRTd3lhSG5BTkJJSVZsVTYxa1pESlVZX05TRGw0aWpydEJzYWRwMTVzRmNhTXlRUE5Oem43eVo5bEp4eFByZ3pCc1ZzTUF2aTR1WlUzLWZSQWlUMW9Kc0MwU19fZzdEcWxZam9RWWN0eEVYd2hzc1FBcXhWTmoyeGhGUlJzb1VZd0ZvTFZpdjdJUmUwUkg5UlhLQ01lc2FlTjhORGJPbURUaTFKUDNtanVvUWNn?oc=5",
-      "publishedAt": "2026-11-22T01:54:00+08:00"
-    },
-    {
-      "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
-      "source": "The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUGEzcUdkaW9kYmFheHhDbzBMTG9PTnhmeGZwTzBURFA5amgtbEZRX1Z2WTVRZzRKV3Z5a09ObWVpMXFpMG83bWxvYngzZi1jOTJMWnJPVkN0V1FiTUxPTkdQYWVraW5hWVN0QXZ0SWtmSExMSmQ2cWtibmdrRFdKRTg4VFhDdw?oc=5",
-      "publishedAt": "2026-11-22T01:26:00+08:00"
     }
   ]
 }
