@@ -1,7 +1,7 @@
 {
   "iso2": "PE",
   "name": "Peru",
-  "updatedAt": "2026-11-22T17:09:23+08:00",
+  "updatedAt": "2026-11-22T23:05:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,10 +26,40 @@
   ],
   "headlines": [
     {
+      "title": "Undercover Peru Cop Jumps From Wheelchair With Sledgehammer in Drug Raid",
+      "source": "Men's Journal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUG9zR1ZhWEppS2wyTmJwNjh2dG1XdkN1S0RoNjNPRTJqVXdiTkZnRGdNQUlLOUNGRlJuWm9DMWJsTWJ1cmUySUVkUy1SdXBBLWh1VlN3eGUtOUFRYW0yMHlmd3g3U1oxWnNvWkNLZHBlb0RWX3UyYnZKbHN5NFB3ay1SZXVxTVlLMmR6cjdrVk5uM0JUVzI5UE94MW9yOW9wXzVpUERzTUc?oc=5",
+      "publishedAt": "2026-11-22T23:01:00+08:00"
+    },
+    {
+      "title": "Map: Earthquake Shakes Peru",
+      "source": "The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMFI2ZkdVM21PODM4OUotYlUzSUNudkxJSkREMkp5aEJ4bHFfNVNfNHZXenA3ZXdFeDQ2empmdWJqTDZ2aFp5cy1oNWlHSWRfd1AwOVhRNUdzTlNKcEliazZ0Q2xNMUdRX0pRSjJyeFZ6WVV6TFZmYnpsSzc1QnZWdnhKMl9ZZGhOV3p1MGhZUE1sUHQwMzBIVmNR?oc=5",
+      "publishedAt": "2026-11-22T21:20:29+08:00"
+    },
+    {
+      "title": "Peru's Amazon named among world's top destinations for 2027",
+      "source": "News of Bahrain",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWFVsOWhxTHVBbVotZnFoWWdycWVoZHZBdW81Sm9UaWN5S0pHdFpDZVdVSVlBUWxnYnVkZURFU0FzamRkaXlJZmhTWnNFdkhGNG1TVHNNYzUwY2RKNVUwclFvSEV0aVE2bEl4Q2VHM0xmeDRacFdVLU9yX1F6bEU3UWxTRUp6U0oxYVFFWVRkOENfVDZtVnNSOWV3RW5iVFE?oc=5",
+      "publishedAt": "2026-11-22T20:15:03+08:00"
+    },
+    {
+      "title": "5 Magnitude Earthquake Strikes Peru",
+      "source": "Qatar news agency",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNVlKLXowY0N3bEdpS19qZ0hpanhYdTdkWi1vTkJJLWVpS1hzNEhkQmxrYWhVWkg2OEdkLTZzMGJnZENxck42d2dnaGYzRlhUSVQ0aGJsTi1qcTZnUE9NNGR6ZjU2MmloQkN1OFFVZ1NfZnV6QjVZNTMwSHZKYms1NE9pbklORXlEQmVr?oc=5",
+      "publishedAt": "2026-11-22T17:55:16+08:00"
+    },
+    {
       "title": "Peru inaugurates seabird rescue center to mitigate El Nino impact",
       "source": "巴士的報",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMXl5Y1lRVE1oSzlfQUFZR21FcHZacDRhS0p6clhxYmlRaVE4MEdzWXh1ZTU0MDFzTWxkQ2dOYnFUVkFSbkxmUm1RMlpSenJsSHd4MXF4OUJVVGlVQW0zcGVfVHZUSGZMNUpwQ0ZfNDVCZzQtcE9icXhTUGstaEU2dEU0Z0YxZWNabDdfRUZEZTluaWtfWllfTXppcjh0T2pMMnlLWGhVSF9TTWFfSVR4Y0plZ1M1LS1l?oc=5",
       "publishedAt": "2026-11-22T15:58:00+08:00"
+    },
+    {
+      "title": "McTague's 369 rushing yards lead Glens Falls past Peru 35-14",
+      "source": "Sun Community News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2N4N1ZxN3llZ3d6T2JkTVJybU9tRlg5ZENGbzdoRVBiWVFGX3I5VVRtTHpXTDNOa1RNVUlYTFZfSF93OExmZFMwQ2FOM0dLOEFvQmxpTkRmZDJZR3pucmtKNGtsalM0UjNCZW0xdi11aEs4ZURWaHA2NWR0bWVsTUlyZ0RfajhkRmpNYXloU2s0dExlTDg1MklLaWhaeDhJVVZJ?oc=5",
+      "publishedAt": "2026-11-22T15:10:08+08:00"
     },
     {
       "title": "5.1-magnitude earthquake shakes Peru",
@@ -42,36 +72,6 @@
       "source": "Shaw Local",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPblJzZ1htbldLYXpNUkY3M081NUlEeGlLVHBOREt2RzBKajRzOWVwTGlBZlVDd2lyT0dLTm53bzZuRUF1RWd4c1A4UEZyaWtySVBOOXZaVVpiRHYtcWppYXpNVnRQQllNSkRSZ2M4dXpZbkVsVUIyUzE0NF9TdWhEQjU0YXZwMExCVU01U3U4N0FLYV9IckR1Q2g4Y2lQRWF5Sk54SUl0RlZTLXBzZUg2R1RyLVdQdThFQllVd1NtUG9DeGVTQUZ1TmxzNmI0UThFcERBZE5Rc3J2eGlhR2dzSzRZdjFBZjROUjhMZlBWZXFSbUVoSHQ2RXZxei1DUDA?oc=5",
       "publishedAt": "2026-11-22T14:24:01+08:00"
-    },
-    {
-      "title": "Peru vs Panama",
-      "source": "beIN SPORTS",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM3Bqd3FjSkpHQnRsZTVKUnZMT3FvNEhEYU9xOTczN1BYMk90VXFsM3dRYWJYbzJIdkhNaTVyNlBFaUlPOXUxQ2x2alQzUGRSYm5uZDIzLUc4dk8zdUdVY1dhVTBzeHF1cTZwTU5NNmRsdGFWX0Y3alo3ZFhkbDQwNEVyekk?oc=5",
-      "publishedAt": "2026-11-22T12:27:18+08:00"
-    },
-    {
-      "title": "PHOTOS: Glens Falls defeats Peru to reach third straight Class B state football semifinal",
-      "source": "The Post Star",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTW9xWDR1Nk01OFAxZUx0UE5KQ0F0SkJjQjNiTEQtMEZwdERZczFKWXhSaTBDRHNtUzlfMXUzVVVQS1VpWGNhaEV5NW1hYVN1aUJDdE5aMnF5TnNGMzF1TGVqUDBRd1ZiRWIzazR4di04bEFrVFJvd1FXRlVOeGFsbjhlQUJDZXdnWnNxNEJvT3JRM1o4bHRpeC05T1RGbTcxR0xn?oc=5",
-      "publishedAt": "2026-11-22T12:21:00+08:00"
-    },
-    {
-      "title": "Peru's S/ 2 billion El Niño credit guarantee aims to keep vulnerable small businesses afloat",
-      "source": "Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FNUVtUXJiVksxMUdDc3VmZlozUUxqNVgtRXByVGI4NzZoTE91dmw0aEhkUUZ3N2pQSnR4NmcyUE00WW91aGZiQlI4ZUhlcWpIMEF2bHIzTW1mOW9ib0N3cy1aOTFScmNuaFM5dU9kcGtRY0xoNC11Yg?oc=5",
-      "publishedAt": "2026-11-22T07:00:33+08:00"
-    },
-    {
-      "title": "Peru's $3.2M Audio and Screen Failure at Pope Leo XIV's Mass Sparks Political Firestorm",
-      "source": "Latin Times",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWnRYQS1sWXZkTTYxczM5NjlWS1pBU19temdoaUt2QS0xcnRTeEJMOHp2X2RsMWlMcHA1cThKM2ZKcEdJU18zTmVyR0xOVnpzTVpaSVVPRWMtQ2NSVzA1ZUhJTmNNZUUwUUhzTjZyNVp5cU1hSnpwaXVyOVp3ZnZDNQ?oc=5",
-      "publishedAt": "2026-11-22T04:44:58+08:00"
-    },
-    {
-      "title": "++[LIVESTREA.M.tv] Peru vs Glens Falls Live Free High School Football on TV CHANNEL",
-      "source": "Grice Connect",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1od1VoUnZNakRsNDFzeWVyUEg0YVI3SmJUZEpJYk1MdkE0djBFV3JMcnlxaEltc2pQT3lPbmJWYkVRTEJ3cUhObmhQX2U0U3dlZ2Z3eUpNaGFGd2VFMHg3LUlDQU5kYm9Wb3ItbWwtSE9xUXJNZWMyUjlnaVE?oc=5",
-      "publishedAt": "2026-11-22T02:09:47+08:00"
     }
   ]
 }

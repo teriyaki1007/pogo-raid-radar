@@ -1,7 +1,7 @@
 {
   "iso2": "LV",
   "name": "Latvia",
-  "updatedAt": "2026-11-22T17:09:23+08:00",
+  "updatedAt": "2026-11-22T23:05:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,6 +26,36 @@
   ],
   "headlines": [
     {
+      "title": "After its election defeat: Latvia's once-leading pro-Russian party self-dissolved",
+      "source": "24 Канал",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc1gzQzdaNVg0M2Q2RF91SG1oZ1ZKSnJhZjFSNHNXcGVLT2ljal80ZzY3SFU0NGw0SDBQUHRDTU81a2JHYXNWdG9SMjY3T2dYb1VkNGxOQndBU2tRWTI3SjRSVElUMUpBZ0RHcHdUVm13Mi0ydVB3OTdjS0ZKdE05WjFqWk9uNzZVVkZZbmtLMDFtbHJEU0dZRm8xeFdYVWthemJoM0ln?oc=5",
+      "publishedAt": "2026-11-22T22:40:49+08:00"
+    },
+    {
+      "title": "Ukrainian Service Members Take Part in Joint Drone Exercises with Forces from the United States, the United Kingdom, Germany and Latvia",
+      "source": "zsu.gov.ua",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNQ2JEMGJ1bDJrb3lQOFRmX2JFZjNnUFh5Y0F3MGszQ1dBYnJPUXI0aUdKVHFhMDhVc0FtNmpLUFlqZjdQUFQ1X2ZuaFRZTExGYlRsdURKRi1jR1Y4aVRqbVh2VVNsdE1NZXE1OXpHT0p4S0x1RFNDQkpTTTVETlktR1plWnJaUm1PUUtqamY1VUZUcG1meEQ3MUQ2U05QbUV2U3NPanV2Z0tDWEQ4NVhPRDRScGVYZFkzb1VlVEZDMVVaWTktVEk5c3dmQkNXZmdQcVZ3STdPaFNaU1lxckRLdmJ3dnBqVDZRclFDSXpJdkNodw?oc=5",
+      "publishedAt": "2026-11-22T22:38:52+08:00"
+    },
+    {
+      "title": "Ukrainian troops joined the first Drone Crucible exercises with military personnel from the United States, the United Kingdom, Germany and Latvia",
+      "source": "Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeEFoZlBpU2FLaHBiMEp4VDBoaUQ1YzVZbDlVTGV3RGlHV0lVdXE4QjRwRExvZWJKMGY0VW5DOFJIRG0zTy1BdG40MWFRYmJWcE52eGY4cU1lTUFadDdETVZNM0c4aWlhNHY3ekZJRXBVV0ZJdGtoZ2ZwRVdSSlNkclY1RVZ2d0xja0E?oc=5",
+      "publishedAt": "2026-11-22T21:30:36+08:00"
+    },
+    {
+      "title": "Latvian party Harmony decides to dissolve",
+      "source": "Mezha.net",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX3M3cFNYRTNXTmxaTi1QZzZ6U2pFX203MzFVRnpPUXlZTmdYZWRUQU5FYVBSVHVXVVgtUV9GMlotMXRsUFFWMmtXSUdScXNHWkdRMTR3UzZRMjFnUGp2dFdfVlpSNllFOGdaNUdqUlMzSFg2ZzJ3eEl4VEZ0Mkx6M3ZGTFRFMUk?oc=5",
+      "publishedAt": "2026-11-22T18:40:08+08:00"
+    },
+    {
+      "title": "Latvian PM: Return to normal relations with Russia is impossible, a new era has arrived",
+      "source": "Наша Ніва",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9obTVoSUZNcWVqd0VvMDFjbXNaYWhEdmJTa0JEN3N1RUlaM2R2cUsxcFZvNWtZdDB5RkxKN3I4VW1ZOHlMREHSAUtBVV95cUxNTkZXcWN0TkU0M0FyUzQzVnlqaW0ybUJMTmNwNWkwWXIzUWJWbTBPWXZiQnVJbkNsRm1sMng5SXFJeF9WME5qS0tSeTg?oc=5",
+      "publishedAt": "2026-11-22T16:54:24+08:00"
+    },
+    {
       "title": "Latvia increases defense spending to 6.4% of GDP",
       "source": "Apa.az",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTnhIVzdNNjJybFc1NFhQaW9WOW1rN1NqRDZFd2Y1eHhlNFMwMno0bTVaTHpNZ3dsN21kNmVUV2dDSHl2N0p6NzRqOUpUUmxGVkM5ZFZwMkF5NnN1ZUgyU0FSRkRBN0IwWDhVWnNLUEw5N0FmOUVkZ3o3QVF6dlFqUlM5N1g?oc=5",
@@ -42,36 +72,6 @@
       "source": "The Baltic Review",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yb3N6MHNCcm1DUE02N082Qy02ZzMtY2h5T0ttWlUtbENoR1dQa0ViM3lzMWlxOXJWay0wUkp6SElMYnE5WTBuTDZXX29HYU9rZGRJWHhRSmphTlVUVGZ6NmtTemdQcWhKOThOeEZRdFJyRERDcjNN?oc=5",
       "publishedAt": "2026-11-21T19:15:08+08:00"
-    },
-    {
-      "title": "Latvia: Fight past tonight",
-      "source": "Paul Wells | Substack",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBydHpidjBMV1JXMWZuUDM1bElJUUwxdEo3UWtTTUFJMnBtOUJNN2FwMzZTS00xNzd5a1E5bWE3UW5WTEZGam1hQmJUU0hESzlQUUk2MlNyMWtKOFpvd3JJRm1zMVBCVFNwd1E?oc=5",
-      "publishedAt": "2026-11-21T07:42:03+08:00"
-    },
-    {
-      "title": "Colombia, Denmark, France, Greece, Latvia, Liberia, Panama and the United Kingdom — Joint Statement to the Press on Women, Peace and Security in Syria",
-      "source": "The America Times",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQOUttZ29EcFp1V3YxVzE3dG1HZVM5Z2NSUkZwZHQxNGNGOVRoZ2g4dDFJVzZxRzFCeWNCTXk2UERBUEs5U2lNdXctNmdNVUVuRkJpQVNmRFVSMDYyT0lxYmQxSUtDbkhDUlRJbEVEZGo0dnFLSHZlc05fZ0JSYkF3bUlCTkdLWVYyR3o2Q0c4SVpvOWtfaGkyMkQxZnNpV0VFbUJwNFRIVVY1bUx2dG1jZFZHTGVxR0lhMGU0QmJaMHBUZ0RVcUszOGdEeWhza1k5U1BzcmVnV0prSXpBcG5zUkdrYXFmZWM0M25EbDl3bVlXWV9wblFLOEw2NS1heHh2R1E?oc=5",
-      "publishedAt": "2026-11-21T03:08:57+08:00"
-    },
-    {
-      "title": "Latvia’s Prime Minister Calls on EU to Close Its Borders to All Russian Citizens",
-      "source": "UNITED24 Media",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVnhHbXVPZTE4NHRJR0xNZU1nN3ZwWkE3cGx1aDJfcFZaZG9uY3dEZjBacXVrbDI0RkRjdmZKSG85em84RjVYTGFiTURYZ08xS2I1Z1NSMEVxRHNyc3pDS2dZYnJXZlVTT0hiZERCTXlETVRCYzFBVDhTUzRSSHFKT0ZsTFFUeUVHREZUSEhFdnBiUjNCVC1hSE1PVHl2d05oUHFZTE0taVQxSmFwOWJjcXFhN21VdUZo?oc=5",
-      "publishedAt": "2026-11-21T02:43:33+08:00"
-    },
-    {
-      "title": "The Prime Minister of Latvia called on the EU to close its borders to all Russian citizens",
-      "source": "Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdWJfeVF6UGZCeG5VcXBfRV9QMXljbjE5SXdNbzZmeUY0alZtZDF6dXdybm92QTlfM2prc3dHOG5ESmpFLVNucTZYUlFnLVNMTmplSWtGNF9vVUJSQ2xNdDRUbFk5dWZmNXJncUZ2ek5XTU5ZbFhMaTZlQzZ1cGZ6NWZJVTZha3JEYndtVzZpZ3g5UHExcHlYTkdwcEpWTmZTVTFJWmtxc3plM0RKY0d1YjkxMNIBsgFBVV95cUxQMmJ5RU9uZTIyUG5zWnYyNlJKOVJnTXluVVhSU3d6M2gwUkdYa3VGc2szZ2ZlbXBaci1sSDBaR3cxd1U2YWJleWh6TG1VSUFNRzF0aDBrT0ZwUmN2Wks4TEZ6YVhPVlhISFc5MGFiNXhHWnltUHRtbkxqcnRjdGRvcE9zem80ZDhCSGxfRVpJY09CcmYzRkNXaE1WVFRqbm1RcjF5SGgzdHNLVXIydWlYOGVB?oc=5",
-      "publishedAt": "2026-11-21T02:11:23+08:00"
-    },
-    {
-      "title": "Latvia's one-woman cabinet caps a year of women losing premierships in Eastern Europe",
-      "source": "bne IntelliNews",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQV1BfVkNfZWREcGxLNnJjTHYxVjRxX08ySk9OaWhTSW5NZWd5S09DT3NOV0NqMjV4TVRiYV9FY05GeUdSSWt6QlJzaHFQaGs3b2RqbVU1ak1TUEZKUVA5eGdNdDl4U2hHS3Y1MUZiWDlNQnM5cm5PWi1GbGFYbjVLT1otQWtBa2hKdzdLLXBQTkFvZUdPdWhrT3JqV2M5bExBeG5GVXFoRXRZY2NjU0w2Vjc2TDlUc29oajZJRG5n?oc=5",
-      "publishedAt": "2026-11-21T01:15:50+08:00"
     }
   ]
 }

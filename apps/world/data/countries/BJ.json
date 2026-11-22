@@ -1,7 +1,7 @@
 {
   "iso2": "BJ",
   "name": "Benin",
-  "updatedAt": "2026-11-22T17:09:23+08:00",
+  "updatedAt": "2026-11-22T23:05:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,6 +26,36 @@
   ],
   "headlines": [
     {
+      "title": "President Tinubu Charges Benin Monarch On Return Of More Stolen Artefacts",
+      "source": "The Source",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUWNXRmw5bU9yYlBsSElxRjBsT2RjTkwxUjJLSGR0WUI0RjM1clZRT05QLVpnd2taUzd4SUllWmxkQmNBY3lpOVEwbUs0c2ZXVnF5SjZEUm1SbWFJYW9lVzRrN3FReWlnemlFUHp6UUxvNHg0RGFZRUtZanlVeHNRUjdpdkxrS1BJLU9va0k4QkdQNERGRUN5b3lja3B3Z2s?oc=5",
+      "publishedAt": "2026-11-22T22:46:05+08:00"
+    },
+    {
+      "title": "MTN Benin calls for stronger data sovereignty and digital infrastructure in Africa",
+      "source": "Tech Review Africa",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdW1ZZE1vSzdmV1FYQ0ZhV1B0VlhDMksxZjNLS2FOa0NoM3JXZ2FscGtDQjh0T3dVQ1NPY0NhY29TYm4wUDBuMTVxeDI4eGZFX0g1RW9uQWVqSGthM21WczlpNHZTR2xxYWpKT05FZWVOTVROVGp5TlFOa04yMWZnRExja2JYblRySjFVQ3doT1A0a0JwRjVZRi1KWVctRTNJbHlSR0VWSzNPYkhlWU54aGlVYzc0VU1lRjVIYlpR?oc=5",
+      "publishedAt": "2026-11-22T22:14:33+08:00"
+    },
+    {
+      "title": "Benin: Why the government is installing artificial intelligence specialists in ministries",
+      "source": "Bénin Web TV",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2tBQk5GOVRuUE1VR1hhVkxndjdRZ3FObHYtSXp6S0RnM3hHTElZUVJMRnh6WDVNOHVva1IwNi1zOHJrandTUlFWMDlUT2pCRzRNRWJrZm1VaG5oX0ZfNDNOTUVzQ3ZPYUIycXFxbTNOVk5mb0Z6TjI3WnV5WTZZS1R4YXhUNE1YcWZKMzlNVHRqLTdiTWtPZ3VOc2piYUFGSWVITHFqdnh0X3Z5U25WajVBYlM?oc=5",
+      "publishedAt": "2026-11-22T20:09:30+08:00"
+    },
+    {
+      "title": "NPFL: Doma United’s Benin result changes Bendel Insurance’s chase",
+      "source": "Soccernet.ng",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVozUnFkWWl2RGhGbDNLUDdRNFQ3Q0pfUzR3QXIyM3lGVEVrdXJoLXdxazN3UTFHQlJRb09BWmNicFM4ajJidE1GYlV0VXNoMUxaZ2NqZEdjVlNqZ2lpV2x4d3dBSV9yZm50OUtKQjA2MjJXYm1PWl9venBNVzlNNFN5bmp3T0V3R2E2RmFQLWRNQ3cxalE?oc=5",
+      "publishedAt": "2026-11-22T20:00:00+08:00"
+    },
+    {
+      "title": "Danielle Adewusi showcases Benin heritage in Miss Universe national costume",
+      "source": "QED.NG",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeklsUUl3SXVlQksxN1VXV25kQy1hb0F4aTZacXcwdkVmU0YtREU4TnE4RjhkZnB3Z25MMzVRdkgwdTNMV0pYM2FZaFhnWlZjVUczbHJFU3dHajk5aThiRWdzZC15V3lLYXdDTU9UWEY4NGk4SjBrYkM5M21GaEEwTFZyYjVjM0t0dmdUMkRGTGRVclpvMjdDR005dw?oc=5",
+      "publishedAt": "2026-11-22T18:45:11+08:00"
+    },
+    {
       "title": "Tinubu commends Oba of Benin for championing return of looted artefacts",
       "source": "Peoples Gazette Nigeria",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaGRTd2JZX01fOE9NZkh2a21oM1VUdWFXV2lZUXZLSFdPMEJXdTJWY3hNTE5HSlJ1TGYwZjdPRXZHU0ctRUoyZ29FYVQyUTBPZVFSQ0lUWC03RmVlZzhJMkJVTHhhWWlqYjZkVkFPZmVmOXJza3hpcU5tR0VReFhRNThuZ3haNHZUb1p6aFRzMnVmN0hiZml3LUM1TQ?oc=5",
@@ -42,36 +72,6 @@
       "source": "New Telegraph",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX2VGOUFCd2JEN2tGVzAyN1hVZEtPVjl5T28wUi0wOWc1MEhrdnF3LXU2WjlnZzF4VjZEdEtCVVQyb284TDhzSjhvTWhhckw3WlpmVnVlUGhMWWdheVoweEllRFdieUlSaXJham1XeDBMTDVVSFU2cDVBMHdaMzIyNzB5bndyY0pjWVE?oc=5",
       "publishedAt": "2026-11-22T06:32:12+08:00"
-    },
-    {
-      "title": "10th Anniversary: Tinubu Commends Benin Monarch's Advocacy For Return Of Looted Artefacts",
-      "source": "New Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObzhmeUs0cHM1czVKSlFzZ0sybV94MWF6YlU4NWI0aEU2WUFmTS0zNmJ4VWhPa0gxU1pac3daY2RycnhrVkNNa1pBMldWY0dyQ2RoU2ppZ2J6VXRFdXhub2JDTGRZQXIzekZRNzkxeWREc1VIcnFxckZtM3BxNEE5T2M5cTZ3WUZ2aC04OHpWZ0F2X3Q5SDdBVG00RkxIUDh1TTY0cFZhbTdJSTRtSTFUYm56MGtOdw?oc=5",
-      "publishedAt": "2026-11-22T05:14:07+08:00"
-    },
-    {
-      "title": "Tinubu Hails Oba Of Benin’s Artefacts Advocacy At Monarch’s 10th Coronation Anniversary",
-      "source": "Independent Newspaper Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTndvcHNONTVBbFItenJnWGEwSUp6NzE2aGYzV0RNVU1QRmhQOWNQY0pBUjBWU2s2QnhJTEZnZTFoUV9WN00zT2VlSmJKMndVMkUtNTlucG9jTTFXREJYWmE0ajJKUGQ4U3lPcGQ5MlhEVUp3c0xqR2FIZlFBTjVFOXNnSEY5dFR6ZklMNlpNR3huODJZVm0tNzU0YnF4elF6dDI2V0hWRjVuZHUwQnc?oc=5",
-      "publishedAt": "2026-11-22T02:25:01+08:00"
-    },
-    {
-      "title": "Oborevwori Congratulates Oba Of Benin On 10th Coronation Anniversary",
-      "source": "Independent Newspaper Nigeria",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdlZ3b2xMNGlLTXUwd0JkUkh1WVlhZXZTemNtWmNNeFI5S0tNT3VVSGgtU2szMjJfMUNWYTY4VHEzVzVhMEI0TWlWcFdfQlcyQzhxcEMxekNzMEp0UG1CdWNKeXYwZkpqTjh4eWU2bWV1cExPc2hCQW9KNERVUWRFX0M3TVNyQ1J1WThJNjJkUG52NzBUWHpZ?oc=5",
-      "publishedAt": "2026-11-22T01:20:32+08:00"
-    },
-    {
-      "title": "Benin: Romuald Wadagni Demands France Return 35 Historical Treasures",
-      "source": "Entrevue.fr",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmxUVGNUeEVDR1ZwcXdlRkItLXRxQXVnS1o4aUhSMTBwR0NXZkMtVWhuWjJ1cjVPWlJqRzlJeXZsWXM4WWVGVW90cE1jcDhHTl9jNFlabWRTdWsxTFpWajROUmFBcFlrSG1uSHplSnA0bDFINjZKdGJkNGtjbU4wUV9sRGk3ZUlydEgzcjdsME5leTMzNEZDSVdrRHl2aC1haGprTm5kSGNleHA5V2c?oc=5",
-      "publishedAt": "2026-11-21T20:22:00+08:00"
-    },
-    {
-      "title": "Sultan arrives Benin to honour Oba Ewuare II on 10th coronation anniversary",
-      "source": "Vanguard News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2lQeDdxWE5JbXlYZXg2VzhTVjl5NjY2dWlpNmIzYzRSWmNOaVBQWDJ3Z1lRTmNNMWVRMExnSGM2ODBmTVNqU0NuV00xYVAxTmVKSVRJY2RGd3VEOHBtbU9lLUNLc2Y5cE9OeE1Jb2ExTHNGaTZ6U2dDaWQ0MVFMWk45WlZkM1dZVVpCMHdIdHYzbkNuT2FxWDlQeV85cmtkVWJRc1hDMjVVMU5NUGZ1YlVn0gG3AUFVX3lxTE1rNEFEdk1xTmdtOU92T08xdnZzMDN0NlVoaHZjZWhLakJUTHZZbjVzN25WMDEwOEQwR0ExdjgyaWpLZ2lKVEpxb29OSjBKOXJqUXVEWEpEMUw2TUNCY19JNnF1X3JVSG9zcXE1ZHl4UERyaHlkb2hIV0VRWU1WeHBOTkxuMDg2REJVZ2dXMGl3cTUtNUtIZXM4d29ISG9NdE1BeDVkS09sQ2ZMbmhlTElaV3NEdjdjaw?oc=5",
-      "publishedAt": "2026-11-21T17:23:24+08:00"
     }
   ]
 }

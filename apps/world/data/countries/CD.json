@@ -1,7 +1,7 @@
 {
   "iso2": "CD",
   "name": "DR Congo",
-  "updatedAt": "2026-11-22T17:09:23+08:00",
+  "updatedAt": "2026-11-22T23:05:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -25,6 +25,18 @@
     }
   ],
   "headlines": [
+    {
+      "title": "New Report: ISIL Affiliate in the DR Congo Has Evolved into a Self-Reliant Insurgency Sustained by Conflict Gold",
+      "source": "https://thesentry.org/",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOLUM4SE80V25PcE9weThCMDNRdktCbnBOSmRYazBJdjNrSHRRdkQ3MWEzcmljOUJSOTdmZUVja0xjT3NKdUN3Y1RENWVQMmw1WjJkakUzNHo4bkFhU1Y2ajJydlRnZG5PSnU0WURjcGpXaEFqYjRLa3RjODV2eGcxQlp6cWpoRmRvNi0tOC1namdlZXNLdVM5QWFjM1pFWGZLaXY3NVB5MlBaRWp4bnhkZXlSUTB2dE9TRElUdW9FdVZIUmhBblN1Z0VQUTlrTGw0RkhUazJn?oc=5",
+      "publishedAt": "2026-11-22T21:21:26+08:00"
+    },
+    {
+      "title": "Schools in DR Congo grapple with hygiene gaps to keep classrooms open",
+      "source": "巴士的報",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdExQZ2IybFh0YVJWTG9lbVdMaGlSUG40YnZnZlZWLTdHTjBDQ09CTjg1SnZUbjM5ZVd2NTVHWWUzNjh4TmhxT3VUYjJLQWRUakxKQi1XWlREcWdZTmxOTmNIQS1QZGFxN195WVlxOWlkUnBRVktLcHBxc0U0MGxaRVBDOUhyZExnc2dobWZjdHl4MlNiczNSaVJwbG9DNmw4UWc4aXdBam9RZlFxSnZiT1F0SlFMOGtibFgxTG9R?oc=5",
+      "publishedAt": "2026-11-22T17:12:00+08:00"
+    },
     {
       "title": "Ebola death toll tops 5,600 in DR Congo",
       "source": "巴士的報",
@@ -56,22 +68,10 @@
       "publishedAt": "2026-11-22T02:43:13+08:00"
     },
     {
-      "title": "Mobile Phones, Solar Panels And The War In DR Congo",
-      "source": "Glasgow Guardian",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaXRtMlAzZHBHTHNHSVMxN2FSVExwZmcwWGNYMHNFSW81UF9zal9xcEdhajF2VmFhUWotN3dkWkNxZm04UVRQT1VITEZ4YUQ5QXJjYUo1QUR5OFZBWjF2ODlhNnRvNVFadWZYSHZHT3A2b2xqU3NycFc5cWFlMjRWWVJXczVObWNyVjFlcUsyX2NDZkFmODlF?oc=5",
-      "publishedAt": "2026-11-21T23:31:04+08:00"
-    },
-    {
-      "title": "Child Stunting Declined in the DRC While Economic and Regional Inequalities Widened",
-      "source": "Bioengineer.org",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdkhMQ1lka1FDZ09EcS0xbDdyTTFDZkpkS0lZbTkxYmwwVHo4NGp1cEhtVVJnX2I5VXVQQllJQV9vYWZQWGFGcHRtbVlEYU81clNPWG5kbjJtSE5IOHZmYjBKQmhueHZyRDkwa2tWQ0QtLUd6ZUJSMG12ajJFNjZUbVpBMUF4NXFScVI0R1pqYnJEWW1QN1JQVzJGdkNBa2Z6blFoRzJHSHEzMEJv?oc=5",
-      "publishedAt": "2026-11-21T23:17:49+08:00"
-    },
-    {
-      "title": "WHO Maintains Ebola Emergency Status as DR Congo Cases Exceed 11,600",
-      "source": "Voice of Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnpqdDhMcVF3eHhQTzVPcjBTdVBiWGZaTmpfbUFaYzNhaldJajYwSEZOMGNLZ0Y4SFhIZlFXUGtOSzM0c3IxMEI1QlMyaHFDQzNTMVZtSTRMbzBYWi05ZUN3QUVnY1k2UFBJeWxNbzhQUFFuclI0cFNfRnpJX1FWUm5GRV9GejJCY1VJVVhRdnUyRnJPUEpIQ01DLXBmUjRX?oc=5",
-      "publishedAt": "2026-11-21T21:42:45+08:00"
+      "title": "Geography, violence, distrust hitting DR Congo Ebola fight: Handicap International",
+      "source": "Arab News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTFgyNTdDOWZ5elVQWDhhenhwRjJlWm85RnlyNmUwVXN0WHBxa1drZUFod056VW8tTUNESENwVUJFVFBvZlNIZE53Y0dCMjJ2cU5nUkp2VlVYQ2x0WGR6eFZmc2N1dVNsMnI1c2R2UHV2ZGRqVFBNZzF1QjZocEdJN0ZTaDhNN3VhcW53dXlkN1M4cDJtQXdvMjZnb05adDRGcUczalljY0hjWVBjd2J5Y3BZOXRxRTVtS2c?oc=5",
+      "publishedAt": "2026-11-22T01:48:56+08:00"
     }
   ]
 }

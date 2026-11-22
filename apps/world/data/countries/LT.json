@@ -1,7 +1,7 @@
 {
   "iso2": "LT",
   "name": "Lithuania",
-  "updatedAt": "2026-11-22T17:09:23+08:00",
+  "updatedAt": "2026-11-22T23:05:45+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,52 +26,52 @@
   ],
   "headlines": [
     {
+      "title": "German army starts testing kamikaze drones and AI targeting tool in Lithuania",
+      "source": "Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaEZNb1cwZkRsWmFUN0Nkc0dfTGt4SUVDaXNCSHphV2VrQTBXYnQzTWN2Z0tkOEdiUnRyRnJqX2NST1pmYXJrYVFUQ204QllMNFRtelc0cEtUZy1MWlFMeXRfemNPS0pGQU1veHZyMU1XTWdJNE5pcWstLXUtZ0d4QXRMVzAzZFJKNzlteEZlWUVRbHpIeTJyanFWSlJVMlY4R0NOODNIN1RSLWJDdnQyM25KcDNNbDRvMHZkT1Nfenl6SUl2YUoxalBLT1RqQQ?oc=5",
+      "publishedAt": "2026-11-22T22:47:23+08:00"
+    },
+    {
+      "title": "Russia tied its Kaliningrad drone scare to Lithuania—Vilnius says the viral fire photos came from Iran",
+      "source": "Euromaidan Press",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWVZuZ2FuWXNQbDJFTHBiWUlXYXFRNXJVczJKbTFiUWxpMzJZR002X0F2bmU0dHIxSndzN2J1dVNhZ3NLTk42ek1qbjBHTFp1eTdZUDMzX3RUa1pTeFJoZXgzVnBwN1otNU1zTkhhM05EQU9JVUktcDB4X0JlVU4tdXV2ejNDYUpINFdONHpnbmdlZThla25NbThlRzFENTJIQUFpSVI1Q0UydUNadG9WVWtTYXBCRXo3ZUo5TGF3VzlCaFdZQjkzSlJjcTdMR2cwWWFyQXNHUWxadw?oc=5",
+      "publishedAt": "2026-11-22T22:12:07+08:00"
+    },
+    {
+      "title": "Lithuania rejects accusations of involvement in a drone attack on the Kaliningrad region",
+      "source": "Defence24.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkg5cmZSYzItWjQ1bWVtYWRhWkxCZnV0UDVOR3FLMC1haktrX1FLaXdkREpwTWRIYVF0TFhDZmpqV0pXZUlfZE4zN3FXbzc2cENFTUs2aXNUakE4dl9XUmhfbXE4NmJBa1RtalNTRDAwZ3RUYlo2MFJMc283UE1mSlZUd29LeEVLTUpPa1FNM0VVa19hTUVBcTE5NXBpdXA1cm5NUVR6REZmeUJITG1iZDZmLTBIajlYYW1kb2g1bw?oc=5",
+      "publishedAt": "2026-11-22T21:30:01+08:00"
+    },
+    {
+      "title": "Lithuania denies involvement in reported drone attack on Russia’s Kaliningrad",
+      "source": "Operativ Məlumat Mərkəzi",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdjVQdzgxU2c1NmJLdTdlTUV3Mk1STTRXZ2ZkNjJLXzZodWgzMERDSkNyd2EtaHItQ2xBak00azdPNzk2aWYxNGtYNmhXWEE4UGRIMjEyVDJFaTh2eWJ5cFZLS0hWTTJqTFBTS1p5WC1mLTlKM19OMXJxQXRiNzlfc0x5MHJDZ1gwN01Ma2tKU1hvWEtCRGJ0RUtxNlRsNThFamZRekozSmlmRXg0bTRCSFdn?oc=5",
+      "publishedAt": "2026-11-22T21:22:21+08:00"
+    },
+    {
+      "title": "Will Russia retaliate against Lithuania over Kaliningrad? What Moscow has threatened and what NATO says",
+      "source": "Nacionale",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR2hHdUFFSngtaG5zU25KQ2ozWjVjNWpHd056Zl9NeHV5TzV4bHd0SUcxbjFydTFIa3BYYW1CbURyUEI0MkZLOFRaZG1lT1QtUDAtUkVicUVuc29veHZhVl95bGxpSHNqelBQTHFGVFVoRUp0MTZzWllMYlVoUEd1OUtzRWRHOVZBcHloQ1NzZnpKcEE1QWVXQ0s2SkFXSUtpZXozRXQtWXQwZmZGNmJGRVE0T25oaXpyR0E?oc=5",
+      "publishedAt": "2026-11-22T20:00:56+08:00"
+    },
+    {
+      "title": "Did Lithuania attack Kaliningrad? No evidence it did, and Vilnius denies any role",
+      "source": "Nacionale",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0pZbllldDYwLWNvSGlUT1Z2RE5PWU9rZ0RwVGRHZnVWY3lPRnZKdDY3YWtvd2lqN19FVXRNb2JZbUVpSmwwQXZsNTlEUWJId3JlcjdDQURDZERVdFcxa2l0RWhnWldOTWtvQmhIX2t6SHRHcS1udzlhc3RXQnJ2Mkx1V3ZwXzZ3amgtT1Q3U2pMNzlwLUNfWXVNVXpoTzNSVmpLZTRTOA?oc=5",
+      "publishedAt": "2026-11-22T18:39:10+08:00"
+    },
+    {
+      "title": "Bundeswehr transports equipment to Lithuania by train instead of convoy through Poland — Der Spiegel",
+      "source": "UA.NEWS",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWmVCTGM0eVNPT2tRc1QwUzBpSVYzSkJvaDVCZUNVZ0tFUUtsQnFySnl3cGlzbEN6cU5Ucm1UNUpYTzg2WmJpRVVnWWgxdzg4SDhDSVU4MmpkY01tYnhWbk10Y01Rdzk1czYwVU1iRi1hcUNNcFpqR213bk40RnFWemFwNXZkX1NmWWFyMDFCd3J4WVptZl9zdmF1aGlYejVHRTdZdnNhWFV0b1V3TDdGQWpmNU90Y0hmMkNF?oc=5",
+      "publishedAt": "2026-11-22T18:35:39+08:00"
+    },
+    {
       "title": "Vilnius denies role in alleged drone attack on Kaliningrad",
       "source": "TVP World",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZjd6TmxPWk5sZlVzS0h3dnF6WE1fT1BSd1pObGItSDR5bFc1MHBoRHhwY1Z4SXh3anhrZHRpcGJaZkJ0SVBSNkNOTnhBQVhqVFY2WUdxS3NUeEZsSFBlTHZwSXU5cFlpZ1R1U2xzVzdWTzlBQzdrMWRiU0h6SEdzYWFzT3BIVTFYRkRuWHBMMkpDdlk2OWZJNm1pcw?oc=5",
       "publishedAt": "2026-11-22T16:51:00+08:00"
-    },
-    {
-      "title": "Lithuanian ambassador welcomes Bakus U20 EuroBasket hosting role",
-      "source": "Report.az",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaC16SXRzajJ2RUE0XzRacW12WVNTV3hVLXFtZVV1b3lSZW5MVm0xeG9fYkdQNmNQa3Q1VDlPNVJveDh0SklMZXMzTmxfT19ldFhONFRQcy1aOGtpYTBxNW5IVjBFQURITWczTGhaUXdVeFl2U0pCcEkyTGthRTdKZU1ZTkx3MmFFVWdIZVJOTHU1QWZqV3c?oc=5",
-      "publishedAt": "2026-11-22T16:23:20+08:00"
-    },
-    {
-      "title": "The loneliest people in Lithuania are youths – why?",
-      "source": "LRT",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSVRRZ3ZldEk3ZmJMUjY3UzJuQUV1eFltNXR1M3RfVFp1ZF85cHlhNVg0YWFicV9XYkNqeGREampITml4dkhuRHYza2dCaTFwZGRVTVJLTm10aGxRNTl1WUZLQW16QmRRQmt4UFc3NDBrOTZFVWZDRnAtelVPczk5bE5qSEFCSHktRF9vVnRSV05jejZRdkxvWEU0bFRiUQ?oc=5",
-      "publishedAt": "2026-11-22T16:00:00+08:00"
-    },
-    {
-      "title": "Lithuania denies involvement in drone attack on Russia",
-      "source": "RBC-Ukraine",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMmNVV29lM3hPTDRlWEhWempvb1kyTmdfc3lCSjMxVmJUT0YxZGFkdDdWeXdaUHNLdkoxRVNzNks0SzNXMmp6YkczdjNjY0REa0RqUlByUnVlTHl4aTg4WmRoR1Q1bnFBVnJsU0hoTVFnYWR0ajRUamd1Y3NNVGVyTnNIcDVjV0Q3MkZPRzNRRE53OEQ4Tl9Z?oc=5",
-      "publishedAt": "2026-11-22T15:25:40+08:00"
-    },
-    {
-      "title": "Why does Kaliningrad matter? Russia's exclave between NATO's Poland and Lithuania, explained",
-      "source": "Nacionale",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVWxDUzlmejZ2eEIxb0NpZ3lrQ1VGRVBBMldLODBXeEF5bGdqMFZoaHY2Ym5tWTR3ajlOSm8zaDNqemJWcENLNWpSR3VqUzJLdGt6M055aS1tN2VIbG1EQWdBU2IyTWQtY3BmMnZiOWpSb0M2QU1vdHhNVGs5MlAwU09zUUFXeVl0TUI3YXNUSVM2RG5ROXNCNXJyVDN6TVFwSFZCWndHRWtBZ1pjVHJqallDUFJPV0F5d21mSXlKMXc3QU0?oc=5",
-      "publishedAt": "2026-11-22T14:21:58+08:00"
-    },
-    {
-      "title": "Lithuanian-speaking robot joins library staff: ‘It can read, tell stories'",
-      "source": "LRT",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3k1emJlV0M4UVF5eHU5WXBZaERNUDkwWmdqNTVibjNBR2RiSnVTcnlIZ2RTMUVjaUlvU2Z2MExBRUc5UU1RUDRVdW1DVjRORkExZXphamtnOXJzM0xGTWxPRW12TmduN0F6NmJGV0Q3LTNMWU4zTlZlQ3VILW8tUlFjNmEwSG1HWHQwSHI3TlhOLUZLU2pENHdKTTRZREE0cDljYk5wTjVqMXBDTEpfUERXU2YtdGl5dVZF?oc=5",
-      "publishedAt": "2026-11-22T14:00:00+08:00"
-    },
-    {
-      "title": "Lithuania denied involvement in the attack on the Kaliningrad Region following Russia’s accusations",
-      "source": "Українські Національні Новини (УНН)",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMGFRclIyYmNLRVpjSUJRQUw4NUJPNm5oWVFROE92Q2ZOUkRFMVdnUnhHTWN3ZmxRcmRjNlgzY3RSMlFDS19yYVNXNzlCVUxvM1ZfWnVLR05nekVWM0RITE9wUWxsclItdWxZWXBvUEJrU2JPNkF1NG12R1Q3dkNrTFJaa3R5MnZRS0FTWWZIeWVJTWNtY1d0bjhDdW1SeHl0TTJJMTZQVUI5czlaX0J3M2JlYmgwbjIzQVNOMHFn0gG8AUFVX3lxTE80NG14RUdNeFBEbVUxdnY2LUZYeURLSThMb2QxY2JWWWRzX19qVTRaVERIM05mQnFYb3pnSzBWa2YzR0FmQUxTT3lLTnpza3hJU1pReUtrekZCeUZUcHRsSDZMcXJLSGYyZGNaV1BKVFM0ejJaQld4ZF93eGtBbzNXRzdhb1FpRHFFcGVDOXBPOFlnVVN3MFc0MzZpTlJqZnBNa1lpbDhsN1R5Tk0wMXp5ZXdNcWx2UGlQQzV5?oc=5",
-      "publishedAt": "2026-11-22T13:24:42+08:00"
-    },
-    {
-      "title": "Kaliningrad issues alert over suspicious object from Lithuania",
-      "source": "Apa.az",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLUx6T09kbGNta0tSdnVMQW5pQmN6OTQ4bUpwT05vSmVWY0FTWXlSLWktSWdLY1VmYWRPSUw2djNkUWdoY1ZoMndBd3RoVkxSam01NW9PclA0bWVRcjBfTndGV1NuaVdRYTI1c3hBNUJuSGxZMFU5TjJjMjRBR0dwT0ZldXF2YkNJYk5ZVWlFelY4dzRxaDI0Mk1fZk5VMFdVOGh3?oc=5",
-      "publishedAt": "2026-11-22T02:02:00+08:00"
     }
   ]
 }
