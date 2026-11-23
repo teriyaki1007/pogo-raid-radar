@@ -1,7 +1,7 @@
 {
   "iso2": "SY",
   "name": "Syria",
-  "updatedAt": "2026-11-23T05:04:51+08:00",
+  "updatedAt": "2026-11-23T11:02:39+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Why is Turkey warning of an Israeli military operation in Syria?",
+      "source": "Middle East Eye",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMXRvYzBaLTc0ajNzaE9xMGU0UEZTSUdEakhZOUtYSzJlSE80SmlIWGRPVThPcS1sMjJrRk15Q2t6bEtJNjdZRmZuenk1THU5eHdaTm83aU1CNGxRQU9MN3h5NkRhb1RMSjY0Y0FkNlIwcTFDeTRuekNPajlHSXV6RDhNdkpLZ2ZENmdFNTI2OUVranFfR3NCSEI1ODZaMExZOWR4NGxwNzAwTjVT?oc=5",
+      "publishedAt": "2026-11-23T09:39:00+08:00"
+    },
+    {
+      "title": "Israeli army probes civilian’s visit to Syria in military uniform: Report",
+      "source": "Anadolu Ajansı",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOW9JNUtHTFNzOWktOGxJOUloQnlxUnBzU2JaNWozaGdvVlJrNnViUDd5dDd4RkY2VmFRYXIzN3hIU0pkSHFsT0dfWndlOW9IQlUxc1pZTEJVLVZfb1p1UVZVNVUyN0FVLUZxdUxpRVBJQzl4dFIyb25mc1lVUTA3Qm5MNjB0U04zWG5FcE1hbWFTN0dXazNacXg3S2JhbkljeGZhZHVBS09QZ1EtV0JYM3FOWQ?oc=5",
+      "publishedAt": "2026-11-23T09:31:58+08:00"
+    },
+    {
+      "title": "Shafaq News..Rising transport costs squeeze farmers in Syria’s Latakia",
+      "source": "شفق نيوز",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmZHSWVrUExRZi1fWlRQNzdvVWFLcFVXWEotRU5HTk0tazByanA2cXItcFVXdU9VbUI0OUotUnluckxFMzlEWHd4cnUxaG1CWVVaRVNQYzlLSkxJemZxTnRlNE84b2ltSW9XSmNuZXhWZWNtYUsxd0taVnJxQnJDMGFvbDM3dmZTX2F0dnh3?oc=5",
+      "publishedAt": "2026-11-23T07:01:33+08:00"
+    },
+    {
+      "title": "Fidan Warns of Possible Israeli Military Action Against Syria Under Pretext of Protecting Druze",
+      "source": "The Syrian Observer",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOWZ1aHNDSlJoWThaY3RZcVI2VEVLQnFKWi1hdzV3QWdFdEhQY3pUWUM0aC15SEtDeVRkdWRVT0F4TTQxV091RWVnSmdyNVJvYlFtbUJtVi1sc1QxcnhOUkpIX2kzVkh1SE1QYS13V0JVUXMtZXVmT0c5bmo3SFNSS24wWnoxQ0RKLWszcXRxS2U5T25IVnl1V2FMdDZXeWJDLVpTU1E0V29TS2dyNU9GLUlENzE4cnVxcC1vLXNwYVVDQ3d5VzNBbTh4QUg4bXRibzE0ZmhoYjdiQQ?oc=5",
+      "publishedAt": "2026-11-23T05:13:39+08:00"
+    },
+    {
+      "title": "Syria Forecasts 12.8% Growth as Poverty Persists - Enab Baladi",
+      "source": "Enab Baladi",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUhaTUR6NjUxZXF1VGRzNEN2R0R1cU96cG9jUG9vWjN6UW92bFhGZEtOTEVMcUU2YTFDUVI4QWFHNmVXd1ZfcVZyMTBUa01EWVVWYXdxQUR6WTJBQ2ZnY2J2Nmc2VEN4WkZMR2FnQ2xQbzB5VTVVMlVUNktTRTNDTGZQV05JR3Q3OWtQVjI5czEtcDVXaXRmNlJBaVDSAaIBQVVfeXFMTk9OdHpfQlZNLWZOaE1hWkRvOFlBYjFkc1Bod1pqREZvWmk0S1Rrbm5FZlV6T2dzZFZfelZWa0NlbWFlN0NQSVJFMjYyaU10SHZCUFNQVVNZdXFQU0xvZWxkY29KUHJhWjlESVJMckFtbGt2Nk5XRmlrLWp4MkpOTWJTU3RBVmtJMEI2MnhQcVZKVXdGRnNMRUtzOHM2dTY2azdn?oc=5",
+      "publishedAt": "2026-11-23T04:50:43+08:00"
+    },
+    {
       "title": "Syrian toddler treated in Israel for a heart condition",
       "source": "San Diego Jewish World",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWkpOaWRnQTlWRjhSX2hZSkx6Y2ItMnNBbnp6OWY1WW0xdUk1Z3FJS094MXNWMW1Id0VsSGxLbXg3ZXFwdXRMSFRzcGdNblZvNml2MGFtVHdza3lRSTRabk5SNTd4eE83N2E2R1EwZFl0RFE4eGdmZThGVjI5ckxLRUZES0Q0VUVZRk1LS3dpSVRSYmcyN2ZTOXdwSHo?oc=5",
-      "publishedAt": "2026-11-23T04:05:07+08:00"
-    },
-    {
-      "title": "Ahmed al-Sharaa Is Misleading the World – While Christians Remain Unprotected in Syria",
-      "source": "Borkena",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUVPNEtPajNKVHhiVkNSSGZ1Y1l2U2FYeWFsaTJiS1EyZWFaeFM3ZGRPbUpZTzVIUlJ0bmVtcl9pbjRHNDh0NTA1QWIxdDBtN0s2blJWeU5UenJlb2JYTnNneUxVekkxN2pHc0dFMEFJU0J0TVIyV1J2akk1RWlhS0pzSXJzeXpTRW9GcGpuM0tRTHlSZGhrUnBVT2VmMVNpZEZ1Z1I1R0tLMDA3ci13dUh1cjhzcVJRWTBjM3U5S2xkNGFKT1NrYmlIako?oc=5",
-      "publishedAt": "2026-11-23T03:55:28+08:00"
+      "publishedAt": "2026-11-23T04:05:31+08:00"
     },
     {
       "title": "Syria to restore desert oases as drought threatens rural livelihoods",
@@ -48,34 +72,10 @@
       "publishedAt": "2026-11-23T03:26:43+08:00"
     },
     {
-      "title": "Shafaq News..Israeli incursion in Syria’s Daraa lasts into evening",
-      "source": "شفق نيوز",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVZiRkVBa2RTc3RCOWZFSEVJZWxfQ3p0ZnFJTHZ2ODNFdGR4UlMxTGJIQjZEYXQ5RmEtM2dDOHVqUzNMSDItMXVpUk9NRlVlLWFNUnRzN2NOVUlVaDhPYjBMS0VEdm5NaWtJRUpzYzJsRVd4ZlBHWkJVT2dvTjZPckdsZnVKVW1U?oc=5",
-      "publishedAt": "2026-11-23T02:34:25+08:00"
-    },
-    {
-      "title": "Aegean Airlines joins the European carriers flying to Syria",
-      "source": "Aviacionline",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTnNYZDRvYlpPOEhUQlYxRGFPSWpScE1wRWpRZTNuUmtHVlpVYUxKaG1BdFV6VVJnN0lZSnBIRnFaVEVITXVNSDItc1dqMzdQVFdmVTY1TFE3V0pDQml0dWZydVJtX201ZTdtQ2ZEWm9hdml0ckpJbDcwYTNHdW9xU2FJZklrdkdqQ2RhdzFWZENiS2I4WXgtajJtLUpGM0luR0lkbkR3TmdoRjFSV2g1bG0xdUpMWGlTVVdsQW9pQ2FtVkRPS2FhNUFfaE1TSm16SG9rd19iWVVFTllGV2EzbXBqNA?oc=5",
-      "publishedAt": "2026-11-23T02:31:00+08:00"
-    },
-    {
-      "title": "Landmine blast kills four children in northwest Syria: state media",
-      "source": "Arab News PK",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd0lld3pCUUV0SjZHRkZGNUI3Ri1vYnBmZUJFYXZudXRURFR5LXk1VDhpc1dodE4xV2Rudzg0UlZ6SkNvenczemQ5cG14aHdqNjR6M2RMZ2QzdDdjUVBQRVNRTTY0aHRFWGVHUUtBWEdQZ2pFLTJtQ1hOaE10blJpNUY0NEdpYkVQZlMzTGp4LWF5SWJscElIazI3VkJPNVZrUU1EeUxkQ0o0c2hnTnc?oc=5",
-      "publishedAt": "2026-11-23T02:30:31+08:00"
-    },
-    {
-      "title": "Syria’s Anti-Narcotics Department Destroys Drugs Seized in Security Operations - Enab Baladi",
-      "source": "Enab Baladi",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOXFpZTM0amlaeHlXbWlsRkQ3TmxjVXhUbjdxeTZVLUxBdmZ6SUNzMWJ6QkN0a3lHZ3Nybm1Va1lFLU5MaE1iUEtJa2F2YVE5d2dLV2FFLUF0VWlfa0llTGUzSmhhNnRhS2hQX0xhZlQxeVBYM0NmdlN2dTN3ZmlVYjhfMWdEOWUwUW53aEJQMmpydHZWX3BpaE1yZHBKS09TUVI1Sld6NTkza25rM3l4RXBRMF9tLTdNald2ZUpMNkMwQ0140gHKAUFVX3lxTE5QallDWHV5b3BOSU5CWk82ZUd4MWRiSWNpME5SZWVLZUpEZHpLdTJBemhDNDFveGNyWXJ1cTdndVdlU0xWUkhoRjdiWXJwcTMxVXRzazhvQkJTcUtnNWMxQWRJcEtkejNuMU9TeHZFNjRlSkRMTC1HYUp6RmEtRC0xMW1BRFhqT29IR21JQVZSMWZ3N0Y1Mks1MVpOeUpCYW1oaU1tOFI3WlFlNkxWVG1jSFJ3ak4zZEFydXowcVhlTHc5dUQ5TUVIcVE?oc=5",
-      "publishedAt": "2026-11-23T02:21:01+08:00"
-    },
-    {
-      "title": "Four children killed, two injured in landmine explosion in northwestern Syria",
-      "source": "TRT World",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kZWVCbms4T3dINUhURGVjNFF2TjZzaG92UFQyM3dJQ2tsQXo0aFNxY1E1NFNqUUlyZmJGOXhIUHphVHJIdS0tTllUUzV6WC1kb0pLZmUtM18?oc=5",
-      "publishedAt": "2026-11-23T02:19:03+08:00"
+      "title": "Landmine explosion kills 4 children, injures 2 in northwestern Syria",
+      "source": "Middle East Monitor",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOV1N5MXNXVDJSTEN6VDBRaUdaNlZPbHRUWm1fT2F6MWpaNDF3QlRtMGsxRFlwb2U1UmgwUU5MWnhfTXN0VU10c2VMTDBPNTFwWVFUYndwdDJRMGczMnBRQUVKelNDQ281MEtzS244SVVtZExHR0JPQlU2U2t0UDZiTmdnMVZDQzZRMy1TV2xZb2JSZzQ1X0RRRWN5eEc0MXhzZEhXRHdqbjZSX2xMWGVYYdIBtgFBVV95cUxNQTI2WFlIbHJ1X2kzbU1vSmFBdjVycGFjUENpM1kwa0ZvWmdrZjV0WDdSSkN1QVBNc3IwT3paNDZ5MzZ6NUpvM3dOeVBMWmU5Xzl6eDJSVVRtcDF6ZGFMWDN6REhIbzNpTTlmYURJZE1kaFd6MWl4eEtVNVNzd0RGWG1rMktrTTlnVTd6c2VFMUJXdjhPbWVvLWZHb2tMRTR6cnVUZHRBblFNRUNZazZDOFFHRnRKdw?oc=5",
+      "publishedAt": "2026-11-23T02:41:00+08:00"
     }
   ]
 }
