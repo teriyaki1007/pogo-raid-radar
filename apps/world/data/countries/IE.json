@@ -1,7 +1,7 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-11-23T23:12:00+08:00",
+  "updatedAt": "2026-11-24T05:13:00+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Dublin City Council €1.85bn budget approved despite rent row",
+      "source": "The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOWNyeXBMMERZVE1vakdnRzRSNEI1SzB5cG1qY3JGU2ljT2ZKTlR1QWgyWmxSeWZ0VHdib2MzSXpocHpYbGQta1VnaUVFalprb1BpRGhPc3NIcTEySWxWRE4yeC1PYlp2VVVfSmV4c1FCa004NXVZODRfTkU1NmhNRHBULUtheFQ5V2lkdVA2Z0hmdG1HTk0xbWk1YzY0aFNBUEZXQ0RJX0R1UktnSnItMlhn?oc=5",
+      "publishedAt": "2026-11-24T04:46:35+08:00"
+    },
+    {
+      "title": "Swimmer, 27, dies after getting into difficulty off Dublin beach",
+      "source": "RTE.ie",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BMzF4TEJRcjM2SGZBTVIzUmR2Q25oUThOVmFseC04c2VxQkxKNTBBNnpLODBPNno2UDlNMU5ab0FqaldwSS1QWGgzZUhZSTdDc2F4cGdKZ3JHU1FxaEZsU0VDTmRkRm5FVktFT2xjeThxNHhma3lGbXFSVUhDdw?oc=5",
+      "publishedAt": "2026-11-24T04:41:33+08:00"
+    },
+    {
+      "title": "‘Blessed that we just happened to be there’: Dublin firefighters rescue teenager in Brazil",
+      "source": "The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdnMtOHlSNEJuUVpreGoxQlRudzJDSXBmV3VFWWktNmdxMGNxM0tTc05INlJCcXZUUnJPTzRLZzN2Q0x0WFlEUGhDdHA0QTUyeTZSTXpOLXp5WUZ5WmRSdEpDNG52ZXN3THNZSVpDWF9mN0ZPZDNmRS0zMVFxTDRxajlnczZvY1hVQ1NzeVZtOWNkcEVWcEVJVV9yajFPVUgwdWNoeUVySGpraFlQLU1GSWp1d2FWcGRrbFdaX2hQSllzQ3c2SzRRb21IcTBBOU1nM2hGQWp1S1g?oc=5",
+      "publishedAt": "2026-11-24T01:55:26+08:00"
+    },
+    {
+      "title": "Here’s how Ireland’s biggest local authority is proposing to spend almost €2bn next year",
+      "source": "The Journal",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUXNXNTJkdG9XeWh4NFFpN1k1VzU1Y1FVamtiUlFNdU5jc3ltQTZocFVmNFlnTjVBbmptaFZEZ3J4dUVULWNJREpvMWZVSDlxM2dyN3ZLS2thdDFqYWw3T1RrbHpWdFRrSEdKY2x5cUx3S0tMd2hRV1pWeV9jdDFhZzZKdDNSSGc?oc=5",
+      "publishedAt": "2026-11-24T00:31:00+08:00"
+    },
+    {
+      "title": "Dublin Fire Brigade Teams Claim Top Global Honours at World Rescue Challenge in Rio de Janeiro",
+      "source": "Dublin City Council",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUlVxSVUxOXhtUjk3Rk9lZDM4aTU0a0dDc2drWUZhV1hRUjZNVzg2alRJNjNwLTJ2RFpFSENVc0djUE5BZkcwUk55VGw2VHdxaG53TWhoN2tzclJTblRVRjVlcFFfMDFROXNnRVhsQ0o0QVJlS2Q3X240cFVDSUVMalNiaGpmWVVvQ3Q2QmJuNC05QlVza2NjQTlwaGRTRmt1SWtTaU9pbmRSc0JlNUIxYUN2VnlIUXlVSERJ?oc=5",
+      "publishedAt": "2026-11-23T23:27:48+08:00"
+    },
+    {
       "title": "Dublin Primary School Teacher Wins Miss Ireland 2026",
       "source": "Ireland's Classic Hits Radio",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaGhmMVZ0UHY5Um5GcnZ1ZUREOFF5LVRHWTFBSzJfbndBVVl4dGYxdGh3RXBNanZtR2xuZmpkY2IxVy1XZno2dXltYTdjYlBCajhNQmZrWTBQTk9nQW9rSGxZMGRJMDc0dnFJeGRYMFQzZDF2MUJUZmZIWlVyTF9WN0N4MnFVNi01VXFma2thVG5wZU1UQ0NGRW9KcTduTU1U?oc=5",
@@ -44,38 +74,8 @@
     {
       "title": "IARC highlights the importance of evidence-based implementation for cervical cancer elimination at high-level EU ministerial conference in Dublin, Ireland",
       "source": "IARC – INTERNATIONAL AGENCY FOR RESEARCH ON CANCER",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPVm0zSTF5c1BYNmhTZDhoX294WFRCdV84RXk3V0ZlOENFVXVBSDNvS3JuVThfR1c2SG5LU05YYThmSHpZa3liSVh6MmE0dkVFOWlHY21qLVdsVUExMGlJZWcxdy1IR2p0X3lsMFJPYWRhV2NRVS0zeTdlR0tPXzlXLUQ0c1lxOXdtbW9KaTJ0Ym1iWVBHa3VfTEFCV0VyekRnWFpmSDVfUW9YMlFiUk94NE5rWjA3bkZSd3R4RHJEV0JQUklTUFZicFg2MWZKLVZDVEZSd0VDZDFoV2NEQ1loVUxwaDMxTGlVdlhXLUdpNEd2N180TVdOQmJjQVk5eWoxd3NTLUp2YlVRZTdqaEEyUWFhYmJWRVBrU25DV0JLOA?oc=5",
-      "publishedAt": "2026-11-23T18:09:03+08:00"
-    },
-    {
-      "title": "Dublin City Council’s appeal for more homeless funding refused",
-      "source": "The Irish Times",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVUZ0T0t1Y1dOLVlyWHZ6SGk1ekRKZ0hLeW9JbUd0M1Q1QzhrLXhXR2pMNXI2ZEs3bGFYZHhLaHJLc20xTHVCNVB2Y3VWNU5KVW9HQUpHWFBVcjZHQ0JvUjlVbnBUeEloZzB4RlBFZ3dYam8xdHFPOUk0MUdXNU5xQUx2a0tqTVBYNXpqTm9uaGZmcGJabWV3LXltaVVnbUdiRkZzb3B5dUZUUTdFUVlvRFl5LVpLdw?oc=5",
-      "publishedAt": "2026-11-23T18:04:01+08:00"
-    },
-    {
-      "title": "Ireland v Springboks incident sees two red carded after match as officials step in",
-      "source": "Wales Online",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM1I1am9CN1RMU2V0RkxDLTdoZHdNbnFkMEhLVldrMFh3cmtCZDhsQkhyV2lyZGM4Mlk5VWlzVHh1XzQwUFc4WEVDdmxwc0doNTRaREI3bTNwM1hqckU2YmFpZzBBTzlXRVprUjdpLUZPcHpaR2xSUFFlU2VUTUJHazVKWEx6LTlvZllheUJZdFdiNUlYOWY5VHhtLUvSAaIBQVVfeXFMT3FFUjVvR2xkNHl4UklvMEZBem9RbnEtRWs0MzhBZklCdWxpVlA0X09WUF9mdmxyU0pXd0hFTmpBOHNxZU5jY29UZ3hyeVQ5c1kwNVJKd3Y1RTM4NVNhdlh1eHM5UGpTeWVmS2RRWnpZMDhKbHhkTHhKM0hKWmNDMlBCN2RZandvQl9ER1BfQXVEZENKdUZaZC1tUnN3enRZNlBR?oc=5",
-      "publishedAt": "2026-11-23T15:37:00+08:00"
-    },
-    {
-      "title": "Assistants insist Erasmus had zero contact during Dublin loss",
-      "source": "https://novanews.co.za/",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNckthZlZRQnNBREh3UllZN3FBWGpjZ19hQU4xRlgxSHZtU2dRWlVlYS1fN3NaTmlKVVIzRUxiLUcwbm54TzFyb3dLXzRsV0J5dmxBak5ZSXBKWFM1Y01PTEpjcnozdVl5ZW1sV2FCdWdaMS1NQzBTekxIa3BVcXliN0VEYmFpbFpDc0xBQ0ktd2JaQQ?oc=5",
-      "publishedAt": "2026-11-23T14:31:40+08:00"
-    },
-    {
-      "title": "Bittersweet day for De Villiers as Boks make Nations Championship final despite Dublin defeat",
-      "source": "News24",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNWHRCWDVDYlltYkFPWlkzS3JqXzQ3djVDOHBCMm05Q0RIazJYNko5dHBaNnNOTzhodUdSa05mN0ZGb2c2Y0FlR2huN0ludnE2SkdaODJzM0pqLVlBWXZ1clJUSWl2S2ZCS3BNR0JIT1RrbXIwVDJWeVUzbTRvSlNjMmh0WnV0RUl6alY5dzJaWmg5QWpGQTVRSVhldEp4Sy1ZVTJUS3c1UC12MVNIN2gzQ2p1SnpNdkhLcmlXUDRrRzBjZHpqaHZEQzhXME9RS2NsVHBpRVFzMUg2NnV3amltVlR2NW1XbnF5?oc=5",
-      "publishedAt": "2026-11-23T10:51:54+08:00"
-    },
-    {
-      "title": "Several big wins for Cork soccer at the 2026 PFAI Awards in Dublin",
-      "source": "echo live",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE05aEozTjNCRnlWaDVaSEtsRTFxemJtUGJsblJUUlBGVktMbkxTel9DanhrNnladTZuV2ZaQ1kyX1Y3dEEtZWp2MVRVMXpMaEVibXotd2JHb0tWRGVEeWRHNTRn?oc=5",
-      "publishedAt": "2026-11-23T04:56:55+08:00"
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQY3dadEktckxReHJMRFZidW5VeEhEdGpxaTdRWXpvcnl6RXFPeHFGS3ZoYzJQcFBUVlI3eXJqb3JkcVcwYUdrYTZmRzJzT293N0FNbTczYjNITUNnbXdSb2NfYjFuTk5mdy05a2ZCZzlPbGRUSXVXbE9kb2N1MmVtaWJOZHY5Tk0xa0lPOENZQ0NuSXBPT0hQZjNDOHRZT0lOaGRYQm9BcHplX0ZaREY3RTY2YkNadzZOVWdrOU5FREtXVnRkbFJnRFB3SEFkdHNBVnNwTzhkNHRUY1hpajhSQ1F0RzFseWFaVEd3SlNyNjcyZC1ZSU5DRjQ4a3BSR2lOZmlNbHlfS0ROclU5bEx4c3MwSmVnWG9kQ0RV?oc=5",
+      "publishedAt": "2026-11-23T18:16:21+08:00"
     }
   ]
 }

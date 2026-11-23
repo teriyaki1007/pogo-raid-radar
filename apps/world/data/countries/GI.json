@@ -1,7 +1,7 @@
 {
   "iso2": "GI",
   "name": "Gibraltar",
-  "updatedAt": "2026-11-23T23:12:00+08:00",
+  "updatedAt": "2026-11-24T05:13:00+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Work begins revamping Gibraltar’s new open border with Spain plus new road layout and roundabouts",
+      "source": "Olive Press News Spain",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZWFQRVlFS2FaQnh0eWdvbV90dUgyS21wZmExSWZCTVhYSWJVWTJCOUVES2NjTE4wdFVGTXpUeGVySUxITERjWFJQbnd2bTllOHpmRnRQUFAyTWtVRGdFSjlNbFdzbEp0MXUydjFpbF8yYzdUS3B6VDBublBiUXdBOUxtMkNvVHpLY3p2d0VCS1RfcXhSaFVwYTI2T1U?oc=5",
+      "publishedAt": "2026-11-24T01:00:00+08:00"
+    },
+    {
+      "title": "Form 4 Gibraltar Industries Inc: Joseph A. Lovechio (former VP and CFO) For: 20 November By Investing.com",
+      "source": "Investing.com India",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMXBxNEg0NlkyX2lGT0JnOWNZYVBDd21sR1JLUlNUcDc0eFZXcnhvNlp0SnU4TWpWYjVwcE5jSTZVV1VCWnc4RzliM1MwUDVPUUItekltbEJVWmxjVXI2UXRMbGlWU2ltWXBSMkN2NnVoME5tY2ZNUjVVUENiSzNwTkJBSDlxNHhnd3VRN1l4OWJzYU93aXlqakZNX2pNN09mNU1KdndsenNlRE9zYVcyZFhTNDZfeWJYcFpkRnV1cmFxN2hrUFZRNUU1V3dGMUdQbHhORHBlc2ZRS0xK?oc=5",
+      "publishedAt": "2026-11-23T23:54:29+08:00"
+    },
+    {
+      "title": "Gibraltar welcomes over 400 young players for JDC World Championships",
+      "source": "Gibraltar Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmhuMHJydTJnNF9rSWl5SndjN0V0NWRvZmpPOUJQRmZkS2VOOUZ3Zmw3Zk52TWtRWVVUZ3BSVGhSQVAyRXN6bWYzR2JocFlXTDlNQkFIa0RzTTBac0tNa200aUY1OTlnNGd0Q1VRa3ZuRzVVS0NUcDRxMGdGeDJOV05lT3RVZXhrWHB2Qkc2eTBMcHd1XzhWTzZNTQ?oc=5",
+      "publishedAt": "2026-11-23T23:24:12+08:00"
+    },
+    {
+      "title": "After his service ended, the former CFO of Gibraltar Industries (ROCK) returned shares for no payment.",
+      "source": "Stock Titan",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTE5BdHh5c0JQTS1fd2JZaEh6ZjBiZ0JVSTZyX2ZQU25pdFhHM04yTmg4bnlkeUZuWkFBbmxfb2ktMW96dDZPNGNuSF93ekZ2aGdUS1BZa3ZpdHJWa2lNRHUzdkNtdjlEMG1nMTFBWjdVMjZtSURjSUNmNTlqYUs0ZWpvRFZUWUZqLXBVT3d5N2l1NU5CUTdMY0NTNHVMZ2lzemM3ZWQyenRjWXVLRktkbEFHOU1nSU04cVE?oc=5",
+      "publishedAt": "2026-11-23T23:14:17+08:00"
+    },
+    {
       "title": "Bushido Gibraltar takes part in successful international ju jitsu course in Ellesmere Port",
       "source": "Gibraltar Chronicle",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjhGRTM2NHRsdjNwRE43eVlYYUh4QTUyUnd0V1g5S3RzdlUwNlpJbU84UTdrREwzb1NwMVJRdGg0OVVpRTZ3WTU5ZWxjTzRCWXpEZUkyOFRFMGFuOHNFRHhVbjJwZWlTakw5YUkzYTRHWGo5SUhLR0xKU2M0QjNYdVZuX3hwbEFYaV8tNER4Sk1tTWkzdkZ0NDR6VkVUQlFCNHFBbU43WkZjdUdFd21xZnh2RTVyWlk?oc=5",
-      "publishedAt": "2026-11-23T22:48:45+08:00"
+      "publishedAt": "2026-11-23T22:52:31+08:00"
     },
     {
       "title": "New permanent exhibition honours Gibraltar’s role in the First World War",
@@ -51,31 +75,7 @@
       "title": "Gibraltar Health Authority Announces Further Expansion of Seasonal Flu Vaccination Programme",
       "source": "Your Gibraltar TV",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOM1pTY2FPZlU4UmFmZV92VURYQVZlNmloaWppd3A4SjdhUk81cS1vRUdNSXNqbVdsdW50YmZnTE5namhpZ3g1RnR3Rm5JSDBJb2pPMWZvUW94WklaM3h1Mkw4Mnl1M1hRaTJ1QVc3THgyaXpnczAtemRfRVNSZlh6QTRxVUZfc2JldzI5b19BMks5UkRXSmthNWhBS2w4Uk1NN2RMczl5RnFLdW5UT0VyTzZldEZ3dHRKZW1zTHI5aS1tRlNuNFF0TDB3?oc=5",
-      "publishedAt": "2026-11-23T17:30:22+08:00"
-    },
-    {
-      "title": "2026 Gibraltar Literary Festival Records Highest Attendance To Date",
-      "source": "Your Gibraltar TV",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbVo0YWVXTE1Sam9QQUlHQ2djTGhTR05xX0E1bXJOWWJiRE5fckpUUjFHOFBiUUVIM3FJZUJOTnp0alFBRzJvTms3RGNZZ3BNQmFBRmxnSFl3M0g0ZXpWOEhiZ2h1Ri1EM0tuQjlKeHcwaURWN2Z4eG5oVVVTQm0tQ0pxaGZXeENvWHZZM0I4cTdoWkN0RFZhaHNaVGt0cm1rUzlpYUpFbEE?oc=5",
-      "publishedAt": "2026-11-23T17:17:19+08:00"
-    },
-    {
-      "title": "Gibraltar Airport: The Runway Cars Crossed for 80 Years",
-      "source": "deeparrival.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOajRuN0hfOU1EalA0eHp6LXI4TURZbVMtUjdmbFd1Y1RsN2dZZHJOamJoYnFlbHNFTnJiR19abnJvYUtlLW9tYXYtRk5SSzZoejhWNXkxc25jeG5ELWRwLXhLN1JxN0FSbWhYTGNmbEtqT2xhM3RuV1hDRWtpMkdsMHdaNWh1dzRuUExRTkVPd3F3ZG9US19qaWtoWC1NRUpQaVowNEZhdTNoamFOSV9rXzdVNVg?oc=5",
-      "publishedAt": "2026-11-23T16:36:40+08:00"
-    },
-    {
-      "title": "Babel Brain research seeks bilingual participants in Gibraltar",
-      "source": "Gibraltar Chronicle",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaFFhT1N5cmRKYndRNG0tUjBxRkxtVlRoeXVQa2hJQlp2SmNTMG53QW9zYi1KcldWWEl2ZUprUGZ6a21RTlBKZ0RDeFZJeDM1U0p6ZHRFT2ZNRmV1b2huVjJNSGNWRU9Zb3hNNktWNW9kOUJTM3V3SGlCemFJX3IwT1JPeDdaUkhWTktqUFVCMUJ5UQ?oc=5",
-      "publishedAt": "2026-11-23T15:00:58+08:00"
-    },
-    {
-      "title": "Gibraltar Crypto License: GFSC Fees, Process and MiCA",
-      "source": "CryptoTicker.io",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GYndpY185cFdLVXJWQ3lfQjBEdmJMOU1ZTTJ3dzlLYjNBajJqQU5xWlp0ejVNeVRKRERUNnh0dlhpMGsxMVJyelFZRzJjeFQtdTlUeWRKc3U4OGtkTmxoR3R3?oc=5",
-      "publishedAt": "2026-11-23T13:36:08+08:00"
+      "publishedAt": "2026-11-23T17:43:22+08:00"
     }
   ]
 }
