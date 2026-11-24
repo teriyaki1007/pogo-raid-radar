@@ -1,7 +1,7 @@
 {
   "iso2": "PA",
   "name": "Panama",
-  "updatedAt": "2026-11-24T17:08:51+08:00",
+  "updatedAt": "2026-11-24T23:10:41+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,52 +30,52 @@
   ],
   "headlines": [
     {
+      "title": "REM service down between Montreal Gare Centrale and Panama",
+      "source": "CityNews Montreal",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wc0lmcWFnYXdzU0VncDBNUlFIbUdKdnB6VlFUcHhBbmdJZUxuQjBrUmMwN0dMdl8ySkZtcVg3S1c4dUpkY1Q0eVdtRXJVTlRPWjlkWFdpQlNiQWFHNThTWWpDSWJ0OU93dFhEaTJadUVUeHhW?oc=5",
+      "publishedAt": "2026-11-24T22:36:13+08:00"
+    },
+    {
+      "title": "IBIS Management Associates Named Entrepreneur of the Year by Holland House Panama and the Dutch Embassy",
+      "source": "Curaçao Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQblo3TEtlVjhaWjBEOHpSb0hBYUFfanhYbm11c0pyR0R3cngwWWtWNW9hMTF5cnh5eHV6Tm9ueG9SdHVfZ01QR1VSYUFpUXVHejdCd2NNZUJkUnZWTnJwbEtzd3dfZy1xZVR4eDFDdmVpZUxjZHVJdHRRckZUZ0FXYWxpV3NqSkYxMWRJaGdhMGxIekU2Q1FrNVZZTWR6MHFFeE5NdnVYaFRQNjVzVVNvTnJ5NU9GeW9WZHpvcTltNWd2cUdXVkNYRk14Mk96X3ZvbnJXcndDOUVaZGZpQ2ppRA?oc=5",
+      "publishedAt": "2026-11-24T22:10:52+08:00"
+    },
+    {
+      "title": "Auragens to Lead Panama Chapter Work for American Regenerative and Longevity Medicine Boards",
+      "source": "The Joplin Globe",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQYlJ0TUxYTEI1NHg2anh2QmJwNC1OT1g3ZkRUcmRtRGhucUpnc2xuZWZXbURJMzRuYzBUYUU5VlRTUW91Zl8zeW9zb25iZ25zT0dEV1JtYUYwUFl1N0hUek92X0tRd09uRmQ0b2tGVndTcjFCRTE1YkU0SWp5VHZ4b2RJQUNXc3NOZF9OWGRaZERBUXU2RExXalh2WHJUSWRJQUVrMXZQTE9VbE1YR1pIUnZnUmRma2pxQ3BDcEdXNkpZczFFTTRuX0tuTU9JbXNIUTVSUW5qSm9JbDFrRzdHOWo0WDN1clpiN291aTViRjNaM3MtaHc4d3JlRG5aVl9rTEVza05jRy1ocHJYWm9WRkhaMnhCbXlLZUREdGlBVHM?oc=5",
+      "publishedAt": "2026-11-24T22:00:51+08:00"
+    },
+    {
+      "title": "Panama, First Quantum restart talks on Cobre Panama",
+      "source": "www.mining-journal.com",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZFB4bWQ2QXBKY2VqTUhCX3ppTVpYNHY3U3QxMUFFNm9SVzRLZW1Kcm5kaFJlQ2Y1Z1hkYWpyTmNMVGRpMEx4QTBPWndwdHA1X2JVYkIyNnNUQmx1ZzZDeHhqcXgtV0ZFTzE4X0Z6dkhkaHBqd0JpbVM0eVlFUkxUQXJ4Mk95eGotS3RhZ0pjanAxQllyY3AyOU9wMjFFRTJFMWdFbV9NTEY?oc=5",
+      "publishedAt": "2026-11-24T21:09:47+08:00"
+    },
+    {
+      "title": "First Quantum Accepts Panama's Five Conditions to Negotiate Cobre Panama Reopening - News and Statistics",
+      "source": "IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSlVNWXZDQUwyMEVnRnN5QVVNYnNhblNtaWg5QW5nSzB1MWM5YW51RHlqeWcxNnBvOC1FcURCZFMxckNqLVNNZTlLUFNjR1VYSU9IblVxWG9aWTFwR1RGY1ZvdzFReDhudWdSVFU5YjB5Qi1VcUI1OHpybVZwMXQ3dmFRRmRJdkxXVmttcDBsRmYxZF9fV0FnM0hYQkc4VDQ?oc=5",
+      "publishedAt": "2026-11-24T20:40:50+08:00"
+    },
+    {
+      "title": "Panama City police seek help finding missing 16-year-old",
+      "source": "mypanhandle.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObnJPd3VJdWJUT2JnQk5CT2wwbHIzUEw0TXZxdWZjY0x4c0xKQVdTS1FYUEVaVHE4eVQ1clYzWXZwQW1LMlplMVVfak42S3VTczlUZmNpcFY5T2wzeVVNTGg1eVAwZ2dZLTU4aVFkU09sQkVqX00xMllHdHN2VTkwYkg0WjRwWmlDbXRYTmVfQUpKM1B4eXVXdUlPNUxWVjd4NDFDX1pyd1pIZl9xek1JOHB5dmcxTlRZMGRNbF84QTloQdIBxwFBVV95cUxPUmFHWExwRVBSVld2M3ROeDFRZEhkbTVieFpZakQ4aE9YQ1owWHAyejhWLW1Jbmh4d1VrMjRsMlpQdEcwYlctZ2ZOQll1eHBqNjY4ZUFmemFQaE9RZ093ZHM1VEx5X1VVQ1RBMzJleDRIUUJrT0xzX2pENDY0ekNENVRrVm1DODQyTUJVVkVIcy1qb3dQaWk2emhhSXZXZGN1NVlSMFIyMFQ2RkdxelZQdGZMVW5TdHNxT0w0MzVRNmdTVFc1dkhV?oc=5",
+      "publishedAt": "2026-11-24T19:35:41+08:00"
+    },
+    {
+      "title": "KIO Data Centers starts building second data hall at Panama facility",
+      "source": "W.Media",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdllyajNHdmx1OWhudGZobnhqbmIySVo1Sm5NbTRGdk5MMmxUWVZuT3ZfaktlSGF3bEpXanZ3REpILXdGQk1yRk1kb0lJTUtlVE40Q0ZZTlNpM3VLZXhpR2JxMW9aT0pUZlZPTGY5UmFUMVo1R0FsWGlIbWlSZjduenNzdWdaUWxlQjE3VF9R?oc=5",
+      "publishedAt": "2026-11-24T17:09:00+08:00"
+    },
+    {
       "title": "A mother and her three children were stranded in Panama for 33 days after Air Canada raised concerns abou",
       "source": "The Times of India",
       "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxPd0h5V003aVdYR1VlM05pVC1SLVU5ajdyZmNNNWRyOFRlMVpobEVQcGN0V2plQUtEMlV2YUdLMGZEU1hmMUR5ak9VSFJvT3N1NTVwRU5QU0dWZnNReFNZZzlfSC1SUmR0NVFrOEFHa0JRaHNpQjQzU3RZX2pGem8wUk9nSHZlX2pqSFdEam11UEJEMU91akhjamJIVmlwb3ZxeG5CMU02TEV6QzQxTUI2M05tNXBNNWxhTVk2RjdTeGg0bW84bXFXMFRvdDM0ZGVBMnRIS2ZyQy1xWTZWNUxoWDA5TWNkTUVqZFdWcm90SkJhZ1hzZDYxWFVWR0doWks4Yjg0aUFDVGVPUlNGUVBDQ1VCcnlEX1Q3aXZDZGhyLUstNVJRZDJ6b2JfX1pVZHFtYzIxNjJ4ejVUbnJ2amxEcGRqYXBNQ0FCaVk1cGdVWEhBdWF4WmZpU041VVhGb1AyMXEzU1pxVHdJYnVtVndMc1I1X09iam1OeTBONNIBggNBVV95cUxPUi1ySzBzbHRwRWsxemJWYUJVM1R5ZndWVjBRMmFlRGhmZFNSdWlQREd2U3JfRWt3Zk9lVHVSdVJ0TGZCc2MxUGw1T0l2SmhySXY1UzRNVTlxYjF0XzQ0R3F4ZHlaVHdUNnRJeHlXYVZHUkQ0cWVjWDRzeWhLVDB3UlJPTVVnSE5VT0tXeDA2c19ZY2lvS2hOVUVBcjFMX01sZEpYVUtvNEF0aGRwUHNpTU5VclF4RVIxMjVMWERnTExkX3lkdVNzY180LWxqZFVTc3VldXpzSTB3ek43NXBtdWxkVEJpN1JOblBWUjhWeE41WG9jZjgxT1VEajhwaFpFMHBsQTFHQnFSTGFIcjNJMWcwMU5BWGw5bXVBR3VlNFowamhSVllvdEVrVkRVMXdyVk45SldYQlJ3S0E3LUtMSDdockR4V0tXak1xRVQzYWpVSDd2Z3VVUVgtRmpGSFI1LWtYdGR4ZG5pUzBYSURsV3hlN3JwQlNSUWJ0Z0c3VjllQQ?oc=5",
       "publishedAt": "2026-11-24T14:30:00+08:00"
-    },
-    {
-      "title": "Does First Quantum Minerals (TSX:FM) Sit Above Fair Value After Panama Talks?",
-      "source": "Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUFI4Vk9ORkgxalV1UWxweVlMNkE4SlBjeDZjQ2dTNTlSMnRqZlJBSzdGbmFYYk40ZWs4YW5UaXl1ZkZyaThFdlZxbHRIZmxmYWhPczhZN1JGOFhtOER6YkxqRmh6bWlvR2hCaUs0WUNIXzFOZlpLZnlfVTZVeklvQ3NSQjBOYVlVM3ZJNUR5X2hOd0hfVXdfczZLRC0?oc=5",
-      "publishedAt": "2026-11-24T13:19:00+08:00"
-    },
-    {
-      "title": "K Line orders two dual-fuel VLGCs sized for both Panama Canal lock sets",
-      "source": "Baird Maritime",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3hZOFk1ZTBMQWJLTVp6ZU53MEszZU1WRjNQZGM3bHlIOF92Q3VtV0Q2bksxTTFENW5hdy1STkxEYjVYYno1cHBvZW1YdzQyMkNfUXdfak5HMXZFRjdsemo3SHBLMG50TXp4SmxiZVBST3QxRFJGSXdSdnVVMHZyTlZpUFbSAZIBQVVfeXFMTnYzTVBpTkJWYUtLbHd3VF9IeWRhVVQxcjFDS2tqcFZLQVZSbFhtLVFjeEducWFPaHgzZ1djbzRWOHROU09YaFcxdUd5U1BnTmV5QVhpYXBNT2ZUcGh2T3c0Z0lqcmdCZFZBbklfcU1ldWswTnV0OEQ0dUE5TlpJc0U1RjlQdVZGa25nbGw0b0lMRHc?oc=5",
-      "publishedAt": "2026-11-24T13:13:20+08:00"
-    },
-    {
-      "title": "How could changes in an ocean phenomenon in Panama affect your Omega-3 supplements?",
-      "source": "Smithsonian Magazine",
-      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOTXFicXFhVEpMbnJua1lTbERZZVZrUm1yX2VLeGM1ZDFSSFA1dllnd2hkSERHSWhFXzJMd1hvZkJfWGVIdi1YNW1uUDk5VG1JNmVxbTBPanNYWjRiMGtiYzFpTXEyU0N3ZVM4VHBvWnk5NHNRNGVQTHZHUzVfQVZzdmFHTEppMWVzaEZKbnZWc3U0VWtzU2V4RUI4U3pOeXVjakxMMmNDOUlwclJJOHZ3d25aemlaTEhSVUNpUTd3YktwanFUQ21IVWdZQXFNd0dTbEtMN1BSMXdmY1dSam9OeUVVXzFqWHVOXzJ1bGR0OE5xTXFJajdRRHpNOGlNNEFJ?oc=5",
-      "publishedAt": "2026-11-24T09:07:24+08:00"
-    },
-    {
-      "title": "7 Exclusive: How Port Panama City connects to everyday life in Bay County",
-      "source": "WJHG",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR1VINmNFb2ltejRTb09RdENuODdlWnpyMWNwWnAzbEV4NlNuWVUzRjZVUmNYd0JUSnhoWlVKaWlSbTdPUjhtWEUwNGk4QV9yaWVkYnZNWTM2YUNVdnJMNHliV1BydzJrT1pEY2N3aUkzVGJkUjNKV1ZxZnBaUVEzUnBKZEw3d3ZkSmZIZGxZLV9OVzlwZFNBQjdVY0VSQmwt?oc=5",
-      "publishedAt": "2026-11-24T08:15:00+08:00"
-    },
-    {
-      "title": "How Port Panama City connects to everyday life in Bay County",
-      "source": "WJHG",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNEF5VnU3cDJJbUpaU040eFFJUk0xSWNZejV0ZC11WHI1c2c5RTVhdklVUXltSXViMTY4X1BXd1VfYWNwRk95aC1tcVk4R1lTYy1lQTlGLVplNktfSTRHb21nV0RFWW1NVGljOTI1N1Q1cEhtZWhBbVBmc0Q1R1lSWENXRVJ0Ri1KRE5SYm56MnphczltT0JOSg?oc=5",
-      "publishedAt": "2026-11-24T08:15:00+08:00"
-    },
-    {
-      "title": "Cobre Panama reopening talks: environmental and production outlook for mine planners",
-      "source": "Geomechanics.io",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMTk0U0NjZ1BGc3JPQjV5REZndkpoYXRTcFFuam1iWmRDck5hckhLNUQ1UzM5RVlsZ3NnbUpyRWUyTk9tZzVub1ZBd2V6bFY5Y2drbjM3MUxFVDdzb2NVOVJJVlFSNDNqUEtMdE1uYW9RcHFINEpwbjNMdTdwa1BCenFEV0t0cG9DSU5sMGtCbU0wV3NOcEJseGY3QnpnSjRPbHRJSnJpb2ZlWHM5aWYwSGJVQTB0WmNoRGhVWHhWZFQ2Zw?oc=5",
-      "publishedAt": "2026-11-24T08:02:27+08:00"
-    },
-    {
-      "title": "Cambrian College students pitch in with earthquake relief during trip to Panama",
-      "source": "Sudbury News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanNwRlV3NkttTERKN3o4ZUowXzg3WmhrSmJtRXVxVm1PWGxQTnp1V1VpSS1vSlJrVGtMVTZrRUxObGxXaGVuMGJlWXNJclZZZUlBdnpWR3NyeWZMeWItbkI4eXRZU29pbzBFa0FKbmFjOHZDLUZNLUU1R0d4N1AzMmFiVHNieDVvLWxIZW41aF9RTXJuS3NwN1pGajVud1JJeXU5dFQyM2MzZHZhYS1MWklvdnZ5dmhkM2xtMEYyNjk?oc=5",
-      "publishedAt": "2026-11-24T08:02:11+08:00"
     }
   ]
 }

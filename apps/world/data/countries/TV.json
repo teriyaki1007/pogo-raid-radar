@@ -1,7 +1,7 @@
 {
   "iso2": "TV",
   "name": "Tuvalu",
-  "updatedAt": "2026-11-24T17:08:51+08:00",
+  "updatedAt": "2026-11-24T23:10:41+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -29,6 +29,12 @@
     }
   ],
   "headlines": [
+    {
+      "title": "Over One-Third of Sampled Reef Fish in Tuvalu Contain Microplastic Particles",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU2wwRWs3VXhDcENnNW5zM01rN3NvSlg0NnZGeXZubUFIQ3dCbHkyUkl5VmREV0dNd2FTVGp3TkQ2elNBVjBhdmxOSFFHR0NjWkI5U1ItbHNaWV9wSTBzR3Iyc3M2RlBDSW1fYjhnTTBnc3lobUhOVjZWT1kxNWx5Vm51cFRNVHhFdXhLMkFqUU1NREVLdlU1NTM2bDFidWxMQ3RB?oc=5",
+      "publishedAt": "2026-11-24T22:05:23+08:00"
+    },
     {
       "title": "Tuvalu and Vanuatu join global push to end fossil fuel subsidies",
       "source": "Islands Business",
@@ -70,12 +76,6 @@
       "source": "RTE.ie",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDU0VrWjlKX29KczQ2Z0hGOVdhQk9ZSHBvUFJIbTdSOXBWRENsMjNHYXJ4cllsVmhNNGpSYVY0WVRhWEhkRjZWaw?oc=5",
       "publishedAt": "2026-11-19T23:03:33+08:00"
-    },
-    {
-      "title": "'We're not drowning, we're fighting': How tiny Pacific nation of Tuvalu is adapting to rising seas",
-      "source": "RTE.ie",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE90LUZKa1JwOTR5ZmlCMEZSRXFoOGl6U0JLMlVHYnJsemNUQTVVMWhXaW9oNE1HMTFsNkFEQUVxT1F4RE9lTWJfSlJtYXZ4OEVzSnNDc01zNzN5Nk9jVy1WajdBb2V0WnlMNmdjcXFHRE8tUVEwdUlCb21R?oc=5",
-      "publishedAt": "2026-11-19T22:05:00+08:00"
     }
   ]
 }
