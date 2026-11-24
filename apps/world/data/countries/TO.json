@@ -1,7 +1,7 @@
 {
   "iso2": "TO",
   "name": "Tonga",
-  "updatedAt": "2026-11-24T11:02:36+08:00",
+  "updatedAt": "2026-11-24T17:08:51+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "Helping children read Tongan on their own through audio-assisted stories",
+      "source": "Kaniva Tonga News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd1BNQy1pbjZQSnZXNURLSnhodE1LTFVkSkdXd19xeHBEbU5LaVVMLXkxSHdBMjhhQ3RqUVo2S0tuakJub2dNbVhIQmlrVTBtQy0wSUZDcUhRWlNsV0lhTThYUE1Yek0yWkxaekx0cWZ1RTFwY2tXdE8zMmQxcUhFWHUzSG5FUkwxTnVGcW9OWG1GR09SdmVxQTZNWnlwM3lMb0xtNlhTSll5dW8?oc=5",
+      "publishedAt": "2026-11-24T16:21:31+08:00"
+    },
+    {
       "title": "Tonga NGO delivers water tanks to 47 drought-hit households",
       "source": "NZ Herald",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeHk2R2s4MUFFcUVNS09HdnBublNrb2RETXhudkg1SFZ6VEtOLTNEalI5RV9NVUpTZmE5NC00cTlscUdCbHE0WE50MVFJanhacGctUFZ3T0NpYmtmQTVqMERzcmJHS0VXdnRNanR0bVpEa0R3c0lmdHFkTXEzM2sxNEwySFZHcWl5Rm0tdjdtaWFIS2o3NktKWkVOMGNpX3o0T2sxOUVlSjl3TVhBZzd4LURFN1N2WGVFbUN0MXVydTZ3VjJM?oc=5",
       "publishedAt": "2026-11-24T09:18:42+08:00"
+    },
+    {
+      "title": "47 water tanks heading to Tonga’s remote Haʻapai islands as drought threatens freshwater supplies",
+      "source": "Kaniva Tonga News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaUhSRDRKNHp6dXNXYUgxZm9BaTZSUXhWS1VYMFpnRHFEbEMxQTF3aTRsTlluRUR4MXlMVWZqT0lVVmFiZVRlSXBNdTFUS3BfRldDWVJUaHpNSm1Rd3pWU194ZC1ueFgzaW5vZlc5c05mbHZFUzBhTWM2dUJJTU5VSk1wZFE2X3c1bXEyNFo2YTVPUHhBeXJ1c3AwUHozdW1XbzJ4dEE1d08zUFVVUUxNNGxPd1YzX2tyTFc3NXdLdEJuamNTV1Jmd3dZS3UwcENPaUE?oc=5",
+      "publishedAt": "2026-11-24T09:00:37+08:00"
     },
     {
       "title": "'A bad COP is better than no COP at all', Tongan Prime Minister says",
@@ -48,34 +60,22 @@
       "publishedAt": "2026-11-24T03:03:57+08:00"
     },
     {
-      "title": "Homicide investigators examine sudden death of Tongan-raised lawyer in Tupac Shakur murder case",
-      "source": "Kaniva Tonga News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGszVHFYSWM5Z2VJOTU5cGhybVU5NVg4RmU1VzRCRHJJNXZTU0xXMkJ5T3d4QW00OFVKbXdmY0lDNjBuTTU0VXdDMGJHNWJmMjBrQmwtTklMNUNwTGVwclZQZEptMkYxMjVGNTlqUjR5WnBxX3Z3N0V0VXBnYy0wdldvRnZhUDRMb0twaXdWRjJJcWJRSlN3d3hqZkFscUpNZU1DM2dzMTFHVmhqYzVlYWh5VXFYb0Q3Y0lmcS04WUlxVEdsYjZjSHpB?oc=5",
-      "publishedAt": "2026-11-24T01:07:27+08:00"
-    },
-    {
       "title": "Tonga's Volcanic Eruption Reached the Edge of Space. Then the Atmosphere Cooled, and Still Hasn’t Fully Recovered",
       "source": "The Daily Galaxy",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxdmdWMjVqY1ZWZFZIX2VWV2R0YjVkMi1yUHJTVjZMSDRVeU02QUwxQ0pMV1JUNU1qcVhLM0FVWHNxSHBMS2hDYl9xb2dQdU5SNllET1BOc1l0M0Y0VnMxdlpaVExRTnkzclptS2MxN1J0aUpfRGFNYUVaM2ZYUQ?oc=5",
       "publishedAt": "2026-11-24T00:45:00+08:00"
     },
     {
-      "title": "Chief Justice rejects Piukala’s bid to dismiss charges after he admitted helping Hopoate flee Tonga",
-      "source": "Kaniva Tonga News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQXJUd0RKYnZoWDVQMzdlSFdvN1JjNUVibEVVZlVIOWUzd0NqRm1zM25DVHl0WEItNkZZNkx2ZDFFZzVGOFp0QWcxWHhZQVduR3Z4Qko4S3d3eVh0UXZMUDhKNXVTM2oxdXk5Q1BOVWhYS3F3QjNaOHFUT0FiaTltbF9sTnlBYXJvSnItQU5ieTBNSTQ2OVZ5dGxoNVgtNHVUcXhSdlNuMEtMakRNdkVBNFJxQTl2Qk92SDNvdkhtYjk4NWRQVzIxOFFpRWJTdw?oc=5",
-      "publishedAt": "2026-11-23T21:55:39+08:00"
+      "title": "HKCR MEN'S TOPPLED BY TONGA IN LAST TEST OF 2026",
+      "source": "Hong Kong China Rugby",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbUt0TXRXSnpNVVdpTFZVWDJJT2FwZkt5R0FtR3p0T3gyRk1nb2VTLV9vLTNIMFdjcFlGdm5MMUJWY2xwN0E1M1VSOFNyaFlJOXZLbXBod1pzX0ltUzJnZXBLM3o5WmRyTlA2b095OGMzWlNXUWFwX19ZUzZqc3lzd1RCcmZOZ19QcFBQUw?oc=5",
+      "publishedAt": "2026-11-21T20:33:32+08:00"
     },
     {
-      "title": "Tonga Football official says team will get better",
-      "source": "RNZ",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQT25IeVlJakJmcWlmeGRWRnU0VmdjUWhVeUw0cXRjOWVLRERJU3BSdVd4c0o5QnJ6bmFNaXFfSUJzcmtkdTE2UzV6bExUSXRNbVl6SkUzSUVMNW5SVnNVQ2xDXzBIZFJmdjEydjdEU1lyNldlZGl4UWtvcnY4TkdYSjRIMTRpMy05dFlEMkdQSzNJX1FNRkQ0?oc=5",
-      "publishedAt": "2026-11-23T08:43:52+08:00"
-    },
-    {
-      "title": "Large victoire pour les Tonga face à Hong-Kong",
-      "source": "Rugby Scapulaire",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNU2FCM2gxS3ktRzZRbHk3ckZpWFRETWxVSjdra3c1ZVpBbXVNazcySlBNNmZfUVFkTlFjZEdZLTF4cWVMblBKUUhhVmNZSGlTMjltcnZXUjFEZE8xcTljOHQxMGNCVm5JeDB6MmNGTEJBSXlRNGFMMFBTVGNESndqOTUtVXYzWlE5ajRjZ1U1LW01NXM?oc=5",
-      "publishedAt": "2026-11-22T16:00:21+08:00"
+      "title": "Tongan trio impress as Hong Kong beaten",
+      "source": "Dragons RFC",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPLVhpX3MzRnJxYW11SVN4a0FzS19YM2hzZ0pUOGVZalJrZ1NWMndsOFVBNlR4QVpuMk11VnJHQzgzNzJ0eXNqUGswVTc2bWVCTDRoczdLWm1SaGFfQklhdkNJSlpuVDVuX3JSUmhoZlozUGk0ZWdoWC0tR2l1ejJjWlNPQ1Z4cTVQR0doU2NBbnpudw?oc=5",
+      "publishedAt": "2026-11-21T20:25:19+08:00"
     }
   ]
 }

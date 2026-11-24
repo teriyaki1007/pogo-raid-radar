@@ -1,7 +1,7 @@
 {
   "iso2": "LU",
   "name": "Luxembourg",
-  "updatedAt": "2026-11-24T11:02:36+08:00",
+  "updatedAt": "2026-11-24T17:08:51+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "European Testing Week: Mobile HIV unit offers rapid STI tests across Luxembourg",
+      "source": "RTL Today",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejlGQWFvNXpBeFZwTk5NS0xMdGk5X0U0U0Rmb0Y2RlJlcUxaLUJqR1ZKMkEtbVZldGcxWXp0UlMwdnByZkZISDlVemRpTGZmMHdyRVd5SGM3T0dTSng5NXpCV3ZjWFdFRGZCNXlYQUw4SlhTdkY4VlBIcXBoTDlfcWozSnNDT2JjQXl5QlA0NnJwVkpwNzJIeHpkY0JrYjNIWkZySHlB?oc=5",
+      "publishedAt": "2026-11-24T16:20:20+08:00"
+    },
+    {
+      "title": "'Give your positive two cents': Luxembourg students encouraged to tackle online hate with cheerfulness",
+      "source": "RTL Today",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOTh5QUV5bmlqQ2xHU0tpTllHN2taRkIwNUN1dUhreWdRWlp2ZWtNZ1paUEhIYUlGdWNYOHUxRThyZmNHNVFkN3pqZExXcnVmWjV6aFJoaDczZEpfc2V4amplY1ZSbGc1b0p1ZU5GRVlvaFVyUU95SVRJQnlBRVZKdU9ZMlhkQjhPZmp4Ti0xZTdiR1prTWdhSkJYRXFtb0FmUU9YU2JJM2Z1bC1qdjVJWDZ5QzM3UzNm?oc=5",
+      "publishedAt": "2026-11-24T15:21:50+08:00"
+    },
+    {
+      "title": "Luxembourg, India share complementary strengths to deepen space cooperation: Ambassador Christian Biever",
+      "source": "https://www.indiagazette.com/",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTmNHd215LWNRSDByZUFERW1paDJBdDdKMVRTUjJ6ZEZJZ0ZZWHRVSjdIbm5WWVlSMnl4cDJLUjN0elVhd2N4Zmx2c0FRakJvNU02QUhTanR0UnlUUlR5dVR2dWNXZW85SEE4SkFHY3Y3OG5VbHZ5UE85bXRqV2tzQ3pvYjQyaHVodXFkWVFab1NKN3lZdXhtS3VKR0FWU2ZXVVA2dFBjT3d4SlVXMXNfcmsydUFUaGNzYkR3MWhkeFE1S01URFdKbUxRV2pDZGplMWlCWXg5SzBLMm41STR3?oc=5",
+      "publishedAt": "2026-11-24T11:33:00+08:00"
+    },
+    {
       "title": "Worldchefs, EHTL Luxembourg, ICCA Dubai and Foodverse join forces to bring comprehensive culinary training to aspiring chefs worldwide.",
       "source": "Asia Food Journal",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY2lqZ3NnQm83Rms4WGh2bUVHX24wa1NRLU0wREhtLURWLVBkLXZ3TGhlNUFVYVJyb3p6WjhnWU03ZFBoUG40WGxjZzV3LUNPcVRsWDBOMm5nR2g2NmR6enhlLVJfOU51RUdnWmw5VGRtOG5MODhSQXFzcWJWbFJxdU1WY01yOHl5THJSay1WRHN3cG5nckNyTXV2MmVZMVkxa2JmSDZNQm5tN2s1VmhCcDM1ZG5RdWQzOUMzYmttaG5CVkVaNkZMTjhEODhSSmJwZldwZmNGN2UybURlbERxMHlnbkJaZERQblJGQXp2aEgtM2M?oc=5",
       "publishedAt": "2026-11-24T10:06:44+08:00"
+    },
+    {
+      "title": "Watchdogs question Luxembourg tax reform and spending plans",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeU5LelJlNVJwYUZoaVhOZkFEWHlSaV90WW1hWmV6WV9zRFB5SFNlZ2tBNC1YT2dmSVpzbTY4Q09oYW0wQk56QmhVckJTdXYzcUZqS3lJRWkyYzEybTBoTVVPd016YkNVS1FFa1FIeEp2M1ZzSHZMUmRoOVQwOWFJSWw4RTgzUldkZjM3Z2x6dk5vSVR0akJlWXBqbndMNWNxM1FMLTRleDNtel9pUDM0T0ZEQkp6OWtG?oc=5",
+      "publishedAt": "2026-11-24T10:00:00+08:00"
+    },
+    {
+      "title": "Luxembourg state joins immigration corruption case as civil party",
+      "source": "Luxembourg Times",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ28tZklrV3Z6bkNmSVE2WmFTQkpaN0tqQU9IeVJkUS1Md0RpMkdNRVhGZGdudHlmTHo5VEVFMHoxRWJ5MWtxZmw5Ti1sczBSSEhrVHpvb2JHc1c1dU8yNVAzMk9yYmd5NXVERzJ5anJJMDNva2dZekp6RzR1WXRWaWI0M2VRYjgyRFpUN1ZpS1dPTVVtSjQ2MDlIeUwxNkExMUpOeV9tZTFYWVRCTUhvRGpLcHBFdw?oc=5",
+      "publishedAt": "2026-11-24T09:00:00+08:00"
     },
     {
       "title": "How Chay Bowes Plans to Fight EU Sanctions at the General Court in Luxembourg",
@@ -42,40 +72,10 @@
       "publishedAt": "2026-11-24T07:54:14+08:00"
     },
     {
-      "title": "No technical evidence to confirm Luxembourg drone sightings",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTVsWGtONFZWeVdZUGxLb3NFRnVnbjhsNlBBWWFMdlhiU0dTSy1xcFAxSXJHeG8waGRFRE1yVlZNRS1EUDUySzg4TVRqYlRJNjhCTWpPTDUyVHVpQllDaVpCeld3NkJaT3ZzN3FTR2VxbE00SWdRalRBVTF3dnFsNXFURlNUUVY4eXZwVU90eGJLYnZZYjV5RHNHRUZXZkNwc2s0WDl6U3ZUOUxncHc?oc=5",
-      "publishedAt": "2026-11-24T07:46:13+08:00"
-    },
-    {
       "title": "Luxembourg National Division 2025/26 Final Table – Standings & Points | All Football",
       "source": "懂球帝",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uQ3FPbVZaRjQ4NzhTakd0TjhNSi1CUENYc3lLY2ZtTmZDeW9GdVFEM0lBcFpIOEJhZl9kN0loZnNXMnBKMzhzZDhkR2FLbUdHMFhBeWhwVG9JV0ZV?oc=5",
       "publishedAt": "2026-11-24T07:37:12+08:00"
-    },
-    {
-      "title": "Germany: Draft for new Investment Screening Act | Luxembourg | Global law firm",
-      "source": "Norton Rose Fulbright",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbkNzTHdGN3hUaW9Mei04MzdEbmRVTHZETnprNWZQbkh5MnEwOXFhQ0hOYXZveXRzeDNfS0dnTFVJb3JBZDZRbkhRU0VDSm9TUmJ5M3BJMm1KRU54ZWVpN1ZrTllzZVRUX0lYZlp1VHpoY2RtZzJrMFVmRGxCNXp4Vnl6MllXd1p6YnhkV0toTTlsa2pVZGU5dms0blJTN05lTlQwa3pfNm9ZdkRhdTlKWmx4bnFCQXZ3V2c?oc=5",
-      "publishedAt": "2026-11-24T07:34:26+08:00"
-    },
-    {
-      "title": "Luxembourg MEP is planning next trip to Russia",
-      "source": "Luxembourg Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOalg3Q3QtZUoyWUNsOFlNOXdIR1BORWptT3NSdm9wbVFYZTM3alhEVXVZYzByTlAzdGE3anFHbXNaRUl2QWU3dUwzN0wzaE9RRmFQMlIyZHdtUlh0b2I0NGRSZUYxT2xFd05HdksxcVBXOFZXa2I3Um8yaFhYV0pxUzVka09QOGRteFJCdWlOQUF3S2ZfU01MeFZuVDg?oc=5",
-      "publishedAt": "2026-11-24T07:30:00+08:00"
-    },
-    {
-      "title": "LuxProvide Hosts 52 Quantum Leaders In Luxembourg Building A European Network",
-      "source": "Quantum Zeitgeist",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeGhPX1Jjc0hyWVFmY3djNzRpb25jR3dZQU1TdDBKZFlDQmRpZUF1MHV1YklBSXJLVzZqUm9xOHNiVklPR09QcHNWb0xTWXV6S0U4MjNSRmVTZWZvLW1HX0kxTVQ1TmlHQTF0dDRfcXhKUVBiSGJCMWZLRDVKYUNPWGpwVHZTRWl5OUE?oc=5",
-      "publishedAt": "2026-11-24T06:05:32+08:00"
-    },
-    {
-      "title": "D'Amour wins silver, Carter takes bronze at GT Open in Luxembourg",
-      "source": "USA Archery",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYW1YMkZUallMbFpWOXBSd01aeGRicW9xUTVKZFVoYjg5ekhuREc2Ti1mY2huVGpUeXdUbWZxN3Rabmp4OW1HdWUtZEszQjRlMXRhYkp6eTN1YXZ4RU9RM0FuQS01T0ZkUWVEOS1QR2VVZ2FVakpscXhtVE44bU9XWXRqdHVzaWpYSlBmRFRoUnBKVjU3WmVUcUV1SHZJSDQ?oc=5",
-      "publishedAt": "2026-11-24T05:45:41+08:00"
     }
   ]
 }
