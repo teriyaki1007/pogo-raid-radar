@@ -1,7 +1,7 @@
 {
   "iso2": "MN",
   "name": "Mongolia",
-  "updatedAt": "2026-11-24T05:13:00+08:00",
+  "updatedAt": "2026-11-24T11:02:36+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,22 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Gateway to ASEAN: Vietnam positions itself as processing hub for Mongolian agricultural exports",
+      "source": "www.agnavigator.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNldESXhtbjI0TktJdlFFaVQzREZyb0JmR2VBd0tVUDRGR3ltSFBnaEwxWEtFYk80SmtSZm10Q0ZrWElENjltMjhVZG8wbVRoVElQcHA2MGtQZXo2SWxfbEFmV3p2RjBSMVcwbUZEREZhM25zM3p5YkZocWpQU2NZeG9YNjJHZ0l2Smh1eVhUdEc5dDk2SXQzOWxiVWNkV1hYTVhVTmU3RjRqQ3U3cGNrZEdiV3BmZ295UHA2d3p2dFQtT1U?oc=5",
+      "publishedAt": "2026-11-24T10:39:57+08:00"
+    },
+    {
+      "title": "Persian Art at the Mongol Court: Turin’s MAO Brings Thirteen Works to Mongolia",
+      "source": "Finestre sull'Arte",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQzFMaUNWczZGVHpEME5VdFM4QVZtYzNzOUdGS2Jfb05NZ0gxT0JiZUs4N3ZzV21SWTZhWEluWVpxY3VzT3ZhbFVRazBYWmRzdlItYXBmQkhVbEZNOWR6bFlWN2hJZmtxYTVpX2VNVGtnWW04NkVFeXRkSGdRNVR3Zk9tTHExbXl5dUk5ZjhhWFFmbkJhbmJIN1hKdUpKQ0hPMzd3Z21mYVRzbXRoclVxb015cFFpRVhxbmg3YVo3Vzg2bXg5?oc=5",
+      "publishedAt": "2026-11-24T09:35:02+08:00"
+    },
+    {
+      "title": "Mongolia Beverage Tax Is Projected to Save Millions and Prevent Premature Deaths",
+      "source": "Bioengineer.org",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWNvOEFSbl9HTlJTallTc19fZE5TMGs2ZGRjR3pkeDlHN0FrOHZVNXZGZ25pcWNRc2Y3R01MWWFYa1c0VExTaGU4cWx3THZtT09VSzFoX3J5Z3phT1dMYnFhcVdqYXpXVkgtOWdPRlpVSmNoaFcxNExna1N0bldyYVc3TDFaT2pfeGF0cUpyY3NMTVU4YlN6MzNFMjhfRWZvNVhHNllSUW0?oc=5",
+      "publishedAt": "2026-11-24T05:51:42+08:00"
+    },
+    {
       "title": "Explorer.Company Mongolia Highlights Family Travel Opportunities in the 'Land of the Eternal Blue Sky'",
-      "source": "EIN Presswire",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbEZIZ0dnTTE5LXpCXy1pS0RMeXc4NTlEYjlCcE80c01TaEkwb0tsWlN0WDVzckdVZXdfdkN3akNvRDJKYkxSTzNDRHAyVlFZLW5JUFl2eGFvblFKelhTZVZQRmZac3NJUS1UN0FYUnBuTDVSV2pNTnlRWEs3S1V5RFB3aW8wb0ZIVWR3NGNPQjNyZklQc1h4Z1k2YVdXV09TSm5pRGp2NDFLenpTU3JUQWdrbXA4bVZQUU1UOG0wcTNZaG0yZmF2Y3VYZU9WTVNZcl96RGhsc1dkSjlXX0xDaw?oc=5",
+      "source": "EIN News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUGRmYkxaOEVheHVfQVp4eXVqa1FOb3VXZmtjMEZ4azhsOEtGSDNEQk0wSWVOdk04Q2d1UEk5R0FkbzR4V2E5bXB2ZnRPeGh4WTRPYUZuNjUwck9RczdIZ29DRmpUTzE5d3NQM183eGZuaFQ1TFNndnZmdWdlWUxMc0Q0STVrcWxpX1NCaHpCc0R0c3pwa2ZiQmtLekZWNS11TlFFbFRMQ2YzMDZ5aFhBakc1TDNQT1AybGh6QXQxOEtfb0xHUHF0NEJpOGk5RDM0T1lOcGFUSThpUQ?oc=5",
       "publishedAt": "2026-11-24T04:03:00+08:00"
+    },
+    {
+      "title": "Mining in Mongolia: 10 things to know",
+      "source": "Norton Rose Fulbright",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV3gwN0pvd1M2eHRqazRvVGJleVh4VUV4cGZhSVdYUkhnMW43b095UGJBeFktRzEtU3hpcnRhZVJHM3JfWjNSXzNxem1TRkZwa2lYb0R2R21BLVVUd0JkWTQtMGNjUkRLSmFMY01mUHQ4OERIUlVXRWJFVzdzcGhocFRpenRSbmU0LVRmUDE3UmJLWUJBVGJ3ajNmenhJWU4ybktDWFVHZ2RLZw?oc=5",
+      "publishedAt": "2026-11-23T17:55:36+08:00"
     },
     {
       "title": "Foreign Ministers of Mongolia and South Korea discuss issues of cooperation",
       "source": "AKIpress News Agency",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObUhRdzVQSi1CQWlfaFY1TnZQTEc3RkNpdG1ib3czWXZ0R3pQbXlibGtmUmotd09fdExOc3lreUl6djAxM3h2TEpDTnptYUlhZXV5eHRDWTJybDVjaDF5Y0FnM3NNZEdHZVE1NHpPQTJMOUQ2QktZTXVfa2pmVkRZYkVKbVUyZ0FfZDd0TTFoeWZHMjlqVjQyUFdadnRzaDJVRTRoVm1pT2o3RmRtMUE?oc=5",
       "publishedAt": "2026-11-23T16:51:00+08:00"
-    },
-    {
-      "title": "Ski resorts across Inner Mongolia open new season with upgraded facilities and winter offerings",
-      "source": "巴士的報",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUTE3TXFuclpHemt0RjVKeTUxX3RhZ2JNRjQwUi1QU3JZc2tjd2lUWE11RHo1RjdyN3FKZXN1RnFDam5KT3dlZWM1RnE3WTBvVlFIUzYzZjJ0d1lGLUZYbzRzS1ZiZ090Q0FGUFBxeWRnY2d1UGxFcG5hQjZWZjJCSFE2Sms0UF9wRGUzeGpMVzl0SE5BV0NRRXMyeFU3QUM0aDVCcnJyZHZuQjVVcFFyWnVQbHRIRW5MR0tJdkJKdEc5OHk3dndQNXZ1NzhYNFNMNVBwWnNxYkNQbm1IVnY4dg?oc=5",
-      "publishedAt": "2026-11-23T16:31:00+08:00"
     },
     {
       "title": "Korean, Mongolian FMs discuss cooperation on critical minerals, trade",
@@ -58,24 +76,6 @@
       "source": "MissionNewswire",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM1RoczFqOWtXUlJibDVVQkxxVHhfRXpCSkJ5OEcydEN6R1ZFaFJSU1NEWFZ3VWtCN1FRYzRDQ2VmLTFxR1FBMzFvV1pvSGUyVlJ5aTNBSXJlWE5YdXVvak03cENfejhrYW1wNFBtUDFsaFpWQ2Q2VzVMQmtuYWNPd1ROSFZ1LU8zbVVjd0hLMHRBWndlQm5fTGdDSmlSRkl5QU13bWZLcXRqUEwzMGNwNFBPdHRSZGJsZC1EYy1rdlh5bmpYdEtIeVpWTGRaXzV4TlJRazZ2SkJyTjVnZXNSS2Rn?oc=5",
       "publishedAt": "2026-11-23T16:01:59+08:00"
-    },
-    {
-      "title": "Unification minister, Mongolian FM vow closer cooperation for peace on Korean Peninsula",
-      "source": "Yonhap News Agency",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SeGtqNFBDbjBoT3NwUGZNc0Y5SmxraGRnYmtFMUlNaFBGZUw3eXE2U2RFWGhUVjVQUzlodE0wQTZ6Umd2NVNJUnAyRVY3ME15Nlo3YWVYd1Zidw?oc=5",
-      "publishedAt": "2026-11-23T15:19:26+08:00"
-    },
-    {
-      "title": "Brokerslink adds Ardonagh's Orvia and enters Mongolia and Madagascar",
-      "source": "Insurance Business",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWTItVDcyV3NDSUYtdDc5OFlTc3h3Rkl5LWJ1SzYyOXdiTzNjQmZuMlZjUEY1VkJOMzUxdWpPbm02c0NUd1YwMjF0cDBsYnhXZzNwVFVtVnp0UHRzRUdLS1o5WkpCUVQycy0teXNROEhRU0RNYlN4ck50bnkxRXdqcnlLQk44QkhaWmxId1R6TkU4SVN2MTE4SnVTY01PcVg1TXY3OWhja2ktWWRMc0RNNGhQZVpmQ0IxWEFtZ1YyWm1pRlJjZGhjaXQtenlRQ0prbHQyTw?oc=5",
-      "publishedAt": "2026-11-23T14:20:18+08:00"
-    },
-    {
-      "title": "S. Korea-Mongolia talks",
-      "source": "Yonhap News Agency",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aR3FXZ3ozMHE4SjV6SkQxM0FsUFZpRGZQTmdpRDZNck1xQlFTWVgxdVpGRVNKYl81TXhzem1lVUdsU2ItYjd6ZmtyS2NpdG9UWnJPTV9CeVhuMkhTbnF5UThFdDdlRkk3bWE3NmJQUFFpSjFzdldN?oc=5",
-      "publishedAt": "2026-11-23T13:53:44+08:00"
     }
   ]
 }
