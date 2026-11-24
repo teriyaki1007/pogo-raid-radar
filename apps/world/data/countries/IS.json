@@ -1,7 +1,7 @@
 {
   "iso2": "IS",
   "name": "Iceland",
-  "updatedAt": "2026-11-24T23:10:41+08:00",
+  "updatedAt": "2026-11-25T05:06:01+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,34 @@
   ],
   "headlines": [
     {
+      "title": "Former Eurovision hopeful takes to the Miss Universe stage for Iceland",
+      "source": "Aussievision",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGgydmkwQkF1a1Q0VTZvR2F4Sk03dFZXT1dSeTlmbVE4NG1sRFM4Qm5oclFVVDRTMFNqSTNrRjNXdjMyaXhzS1BuSHU1VnJmdXMxcWlQQmNtX3M1ZGdyOXcwSXM3bENyOHdPb3ZueWdnQTg1TlVfdTJKTHlQdDIya1JGZEQwa29NMFNva09UR0IzdmVHckVERTNIdVh1R0MwNHJ1X2NHVQ?oc=5",
+      "publishedAt": "2026-11-25T04:42:36+08:00"
+    },
+    {
+      "title": "Iceland Opens Grid-Expansion Environmental Review",
+      "source": "Iceland Review",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWHhHbmhjY3JUNDEzUzc1OWVTV2l0YkJ3d2pwYmNqSy1ZVG9DV1cyUFNMal9UaDI1WGR2dnRDUE9WLW41d2JtSjFZcnZlSzFEMnM3bWpBOWlDYllVaUMxQXRBU1BQWnpGVTRDRUpSb2FlU3hiM0lvUjBMVTZxbWlQNjBaRndxdw?oc=5",
+      "publishedAt": "2026-11-25T03:30:00+08:00"
+    },
+    {
+      "title": "Iceland’s President Wants Us to Rethink Power",
+      "source": "Georgetown University",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY0R2MWgtdUsxbWpVZDhfVGhhdFE3MUZCQktta3ZfMDBuVVVRYTB3ZFNjUEYwQXRteE1tV1N5RWFGbzNfeFhVV3JSaGdBTG5vNFB1MWJEbUY0VTVHczNBTXQ5aVA4QzFlNnE0MWRyTlJ0c2YzNjZUWGh1VnV2LURqS1IzRWZVOUtyRWNlNTFB?oc=5",
+      "publishedAt": "2026-11-25T01:14:31+08:00"
+    },
+    {
+      "title": "Iceland’s Blue Lagoon shares fall in market debut",
+      "source": "IceNews - Daily News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTGp2dzJ4NkptQzBDNVlHNTJFSlF3eG1pVmdWMHlNbUhGMDRaU3VLdXl5c3NWSmR1VGlUVHBManlETUdXOUtHMXh5YnY1MjB4NTdhWDdUcFg2U2JkYjQ1RlVVU3B1bVJaQUJqdl9FeTYwRmJHckExSVdDXzZsazB1SHhvclZVdw?oc=5",
+      "publishedAt": "2026-11-24T23:23:51+08:00"
+    },
+    {
       "title": "Danish-Icelandic Partnership Deepens Iceland’s Ocean Research",
       "source": "Iceland Review",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX182VjQyQjc4NUpDSWlxbHJLRnQ0T3FXSHdzTWhwWFhZcDZkYmwzNTB2MzZmQnJtT0R0NnNuVGdPMWFkYUpDc1llM29yck96a19LX2pDVnd1U2hSRVRxMXdSU1NpY3Z5VGg4bHBwWkdreEE4aGtmckFJeXQ2TzRzNXNrYnhsQQ?oc=5",
       "publishedAt": "2026-11-24T23:00:00+08:00"
-    },
-    {
-      "title": "Former Eurovision hopeful takes to the Miss Universe stage for Iceland",
-      "source": "Aussievision",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSGgydmkwQkF1a1Q0VTZvR2F4Sk03dFZXT1dSeTlmbVE4NG1sRFM4Qm5oclFVVDRTMFNqSTNrRjNXdjMyaXhzS1BuSHU1VnJmdXMxcWlQQmNtX3M1ZGdyOXcwSXM3bENyOHdPb3ZueWdnQTg1TlVfdTJKTHlQdDIya1JGZEQwa29NMFNva09UR0IzdmVHckVERTNIdVh1R0MwNHJ1X2NHVQ?oc=5",
-      "publishedAt": "2026-11-24T22:42:36+08:00"
     },
     {
       "title": "Retirement Savings Not Keeping Up With Inflation? Iceland Offers One Answer",
@@ -54,28 +72,10 @@
       "publishedAt": "2026-11-24T21:30:00+08:00"
     },
     {
-      "title": "Royal Return: Burger King to Re-Open in Iceland by 2032",
-      "source": "Iceland Review",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlRBYnpvSFEtYm1RWFNvX1NYM3cyaHo5WDZnd3g5cU5rVzY5SXAtWnJfRnBSemd4MTByV0lGOFlpd3FzekR6REN4WXlKSUdBQlg3d213QzhtWldITlpsNDc2cW53bms0ZUE3S3BsZmJxcjUtV0ZMakloMUw3UlVqVEpWRDlRR09IR1hSSUJNMXFmQ2ZD?oc=5",
-      "publishedAt": "2026-11-24T20:57:33+08:00"
-    },
-    {
       "title": "Passengers aboard Iceland flight bypass passport check in major error",
       "source": "The Independent",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNkYwRnhfc25PT2xYRjY2T2QtYmVYQ0tZTU1aa2tLazdIQmFiaXJKU1MyaHJUckl4dy1Sa05HeklxemJyVFkwdXVVd0xGLXkzcXZ1RGNqZ0k0UnVKQ21yWk1QbmRLSUFwQXQtaVNfbE5xbDFGNmliVmhqbWVUMGx1Q2ZFZ3BHRFJFa0RfdXBVbFJpMy1haFVoU2kxUW5PY25TeEFDMHdmU1g?oc=5",
       "publishedAt": "2026-11-24T19:10:00+08:00"
-    },
-    {
-      "title": "Norway and Iceland bring aluminium imports under CBAM from January 2027, setting 50t threshold",
-      "source": "AL Circle",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTmFabUhSYzBGX1d0czEyNVZQLXlDZEZ2UDhCeHBLMUVsRk42VU1MSldOcHNISXBOY3pkNDhUWlFHU2hIRElIbmQ5RmwwdU9HcXczTHlnSlpBeFBXNUlQck9ySjlXalZOQzBib2pPNk9FdG5zc1VfeGNLQ0oxRWpRS2M5RlJzWEQxU09DU0ZnZ2w0RGwtNVRFT3MxTS1WcndQbk1qWWVmN1RPUkE2alJ3RHJUc0dPZ1BfVkJwRi1OYXJWbHp5S0hoWmtB?oc=5",
-      "publishedAt": "2026-11-24T19:08:08+08:00"
-    },
-    {
-      "title": "Iceland flight skips passport checks at Edinburgh Airport",
-      "source": "The Independent",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTZXSnNHOTVoU3NfczZjcDFrVzRmN2RoX3liUEpacWYtU2Zpa3l4T3hJS0J3eGtfZDZpTURhNHJsYnJPNTllbFc1X01FaE5MQWZDbUloSTNrOThpcjhjeVpFZ3VOU1dfSV85SElHNlJyWGtITkd4QVFqMjl6U1h6MzRBRWMzeTlPVUJLeEVZcEVpMjFwOVhxZFFiUEFLZS1xSjhmXzE4YkFLTkRCNTh1M01nQkllU2c?oc=5",
-      "publishedAt": "2026-11-24T18:49:00+08:00"
     }
   ]
 }

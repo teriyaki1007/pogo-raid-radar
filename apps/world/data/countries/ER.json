@@ -1,7 +1,7 @@
 {
   "iso2": "ER",
   "name": "Eritrea",
-  "updatedAt": "2026-11-24T23:10:41+08:00",
+  "updatedAt": "2026-11-25T05:06:01+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Eritrea: Voluntary blood donation in Central Region",
+      "source": "Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlJld2R5eGwxNzVfTnVKVHNmZUhQTE56a1Y5MVYtNkdjUWJHZE9ybkU4cnkyNmlIUVZUWF84bE1nLTRQa3pBYi1RdC0zZ0U3MVVFdU1JWGhGZE9HUWt4d1hvNTdhWjVEbzVBLVNqUkVYX2dzUGE2ZnFrVmJWUHRUbA?oc=5",
+      "publishedAt": "2026-11-25T04:41:23+08:00"
+    },
+    {
+      "title": "Annual Festival of Eritrean Residents Opens in Jeddah",
+      "source": "Africa.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR2djTFBYQTJqS0tKeTAtUk90S3labVJiSFA2enJvQ19PX2hyMDVoVDJGdjRpOFNPblBFNDE4UFN2ekZ3bVlFWURWUi1GOUotNWtyeDVvSkJEcTNuQ1YxN3JONjZzNE5qZXpnczBKYWYyQ1BmanpiOFpUNVZNVVlBV19n?oc=5",
+      "publishedAt": "2026-11-25T03:45:49+08:00"
+    },
+    {
+      "title": "Egypt, Eritrea and Sudan Strengthen Red Sea Security Ties",
+      "source": "kulu-media.com",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQlN4NUtMYkVLXzdhWVRwdFN0Y2FldVdpb014Y1liZ083ZmVSWjVidUdEQ0tGaUFlcnU1VU1UYVRnMm5FN0hpX3ZTeDVDWWtzVHBOSnlmMGR3aU5jdGhxTzZqcWoyNjlIMkZHNVFPLWF0NkdaTFN3NzdyNVdGUEstXzY2Y2VTM0k?oc=5",
+      "publishedAt": "2026-11-25T02:12:31+08:00"
+    },
+    {
       "title": "Eritrea’s bishops urge leaders to reject domination, seek peace through dialogue",
       "source": "Catholic World Report",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeUVhVHpLdnRXWkM4N0o2WEtqc3lhbXFLOURkNXBKTnFXd0lEQnBoRUdEcjBKQkNPUGpqOGJOYllpTkJHY2hJWks5cGJxMVJpUHUyNkFNbDZnYUVBd3lIb2lFVDFCcldUNXBWR0lBbjFsamFjWlFScVRWWE12ejZBLUtqVjNlS0d1ckR4em1IM3ZJRG1zcld3UU84X1dwMDdrQ21qMWlsRm9XQ1p3cnhwUVIzNTBTNlFibEdyeUJLc1RCQlZK?oc=5",
@@ -48,12 +66,6 @@
       "publishedAt": "2026-11-24T13:07:18+08:00"
     },
     {
-      "title": "Eritrea: Meeting to assess situation of war disabled citizens",
-      "source": "Africa.com",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRUlqZ1VianBPeUJ4VW1TOHpjZzNGWDlSbVhYbmtDdHBWVTF0RmVOZURZUm8tYUR3dTZfM0V2WXY2OGJrak5LSVRTUkpfUi1PQzlQVUo2YVd4ZnJJcGFyWV93V2NIQy1lU0JXYzlpaGJEVHc2N3FkWERuVlYtZ3prVlg2QVYwd24wemNZ?oc=5",
-      "publishedAt": "2026-11-24T03:44:57+08:00"
-    },
-    {
       "title": "Eritrea: Training for female teachers in the Central Region",
       "source": "Zawya",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTXhUVUFhNHA2TjRiZUtEZHNDZ3FJSnhRUGhwQ1Y5YVNSelNBWEdhd0p6U1VuVmlXVDNQZjhfRkJPTmxMME1BTS11N1lhRk43M3doV001UUtIQmpXVDg4bF91aFd5LS1iazdsWW1TbU40LTVrVjM4enRpcHNCNlZFUnlndF9pWmFYY204ZUhfVWo2TDV0b2RVMzlGRktLYTczUFR5WS14V0x3cE9sVlgyMmFNVmRhenNVRlZmZ3lCT0VQUHpCMUE?oc=5",
@@ -64,18 +76,6 @@
       "source": "Borkena",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPM3FSTWNMMU9CNEk0QzctNWhJQV95YTJPOHowdXFIYlpoZHNQNkh4ZGV4c1oyWHctb2Z5LTVpVVdLUTNERU1RdXlXUnJXSnpmemg1RDZDb3AtRXlfLU9md3d0UGRxWGFlUWo0aC1TMTMwdnVrZmM2M3lqaWdMRVpWdDFLV3pzQ3c0eWdzemo4VDZiVnU1Sk1PZnBpa2JwUk9oQkptWXVmSnkxMHI5SExWZ3NNWWctVHNYamZ0NDZ2S21Gakp3QzViMEs3UnVrc0hPQXZHMnlqN0VSNzBNSENVZ2dvT3JodGo1d1ZEUjVzRmY1czVKem1xZ1VSallGVDl4ZFFRRG1KZW1FNS1pN3RB?oc=5",
       "publishedAt": "2026-11-24T01:50:27+08:00"
-    },
-    {
-      "title": "Training for female teachers in the Central Region – Eritrea Ministry Of Information",
-      "source": "Eritrea Ministry Of Information",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTkRxYnloVGRPdll0ZDRlS1c5ZmI5dmRjV3FWMG5Lc1p3X0RldFg5cHg5b2VLZmFyWWE4MmJKcnY1RmdodGtNNGprXzYwRktOSmtzNWNIZ2tfbW5ZVjU3dGRVWVgxWU9JbEZjX2YwODYxQjN5bDBIbURHTVVkZDNxaXlubm1CWnRLTFE?oc=5",
-      "publishedAt": "2026-11-24T00:07:11+08:00"
-    },
-    {
-      "title": "Meeting to assess situation of war disabled citizens – Eritrea Ministry Of Information",
-      "source": "Eritrea Ministry Of Information",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb3JGQUpYQ05saHU3Yk1YZDRaRzZPc3RSRlgxYW1qYkZRMXY2LV82U2tjbUN2OTlwcVlJS3lobXo1dlBJcU9Zemp5NGhobDc5bGlZa2RteEhUZjQ2VmFVRDBYejVUY2M1dHJkaHhHWW5Rd25SVzF5VGpDUWItbGFGdk1IZTA2U0V5QjhMZg?oc=5",
-      "publishedAt": "2026-11-24T00:07:07+08:00"
     }
   ]
 }
