@@ -1,7 +1,7 @@
 {
   "iso2": "EE",
   "name": "Estonia",
-  "updatedAt": "2026-11-25T11:11:17+08:00",
+  "updatedAt": "2026-11-25T17:11:23+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Russia Warns Estonia of 'Open War' as NATO Ally Plans 6-Month Border Closure With Moscow",
+      "source": "Kyiv Post",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9kaTFwbmlKOVlydG8xOVBOTGNRZW93d0wwOUsyVU0wZHA4Y2NJQ0R1RTNUQ3NpdXBEZHRaNDlSdzVtR1pEeDdXYWVsMA?oc=5",
+      "publishedAt": "2026-11-25T17:04:29+08:00"
+    },
+    {
+      "title": "Russia warns Estonia is ‘on the verge of triggering open war with Russia’ as NATO tensions explode",
+      "source": "London Business News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOV3B6OFdQWC1Pc296Sno2a0tVdDYtNzk0UU5GMkpuSFI0YmFqU3lITmJoQS1kcHZjSng1bmlqQ3Q2Qjh5OXN4MmJ5V2RNZXhiNDM2WE9Kd2dHa2tfdjRiWVVKUHNuZEVqeElZQ2h6ODh1T2xLMnoxZnBxVy10Qzl5eVJ5aXlvS2hEalhoWEhHcWdQVVJ0TnFnc2Z1YUFac21sWkxwU05Ldkp2R3JERTBtSUZwLU5fTGw3VFB5VWZrRGZYSlZQQlNzeA?oc=5",
+      "publishedAt": "2026-11-25T16:03:15+08:00"
+    },
+    {
+      "title": "Security expert: Chances of Russia attacking just Estonia minute",
+      "source": "ERR",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMHpZbzIxc0FIMFowcU5TaWFrMndJd3N3UXc4cmN4cnRXQmlEQ0dJRTJ0bmdoU3pyZUtfRmE3WXB0NFdsTEctMjlqTUlub1daY0pmbHBVeTlaNTk4aGJRTEpnbjI1RGtYWUZxQUhuVGgzLV9RSDVRd2ZkUTJYN3N6WExjejFia2Z1ODVLNmNGMmVuNldUTlNuaUdn?oc=5",
+      "publishedAt": "2026-11-25T16:02:00+08:00"
+    },
+    {
+      "title": "Russia's threats are a 'helpless outburst of anger,' says Estonian diplomat",
+      "source": "ERR",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdzNsS2xYcmpfT05QSVpGVC1JZV9GWlg0WEdsVlVXNFVUR1dOQkRqV0hXcDBlRGtmeVZmUDZtOXBlb1RLcS01YVpaaE13aWpEM3pONEtJbXZ3TzJxVUhlc3FySktNLWw1Z1dtMjNzbHQwRUd4NDB4UFE0QUcwXzNxbE53Qy1OUmtrM3pOMV95Qy1mc2JEZXJueTVxT2hlaDNKSjJWYjZB?oc=5",
+      "publishedAt": "2026-11-25T14:11:00+08:00"
+    },
+    {
+      "title": "Russia Threatens Estonia with Retaliation Ahead of December Border Closure",
+      "source": "EU Today",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE01M2s1bHJvSmFXcXJscWVmNkNlMm9Pa01VZmZFclhZR0dReW9wMjBpVEhnamdVbUNEbUVITklseDNFQU0zM1BSMHRaNklRYTM3bmZmeGRndlVOaVFBMG51SlJUbzQ4bWxsSTJYQXFaUHFlV0xQcUVxa2VOMXc?oc=5",
+      "publishedAt": "2026-11-25T14:06:02+08:00"
+    },
+    {
       "title": "Estonia warns of growing Russian hybrid threats, to close remaining road border crossings",
       "source": "CNA",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXI3TjM0R3cwS09jUE1uNDUwZ0J5a2VYcnhfSEFxcHlKMUdNQTJPSm40b3pBdlBTc2drWFNOT2lLbDdfbU8yWVRkVklxZk41d3NUcUpZMTVlcVhQenhkMnYzdUJHZmpyZTBBODBuTkhnNzZWZDZ2cjF2dnFrYllmMmpadTZIT3FHdEEzNm83LXdZX1JfRmJhbjNnOE8yX1IyRjItZW1kVm9NS3FBem54S3hRbWJPand6?oc=5",
-      "publishedAt": "2026-11-25T10:56:14+08:00"
+      "publishedAt": "2026-11-25T10:56:00+08:00"
     },
     {
       "title": "Estonia to close border with Russia over attacks blamed on Kremlin",
@@ -46,36 +76,6 @@
       "source": "livetube.tv",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORUJtY09TaWtCMWpDcGt1NzEySVhKNDIyMWJVNV9BZU5MVzBfVENoUlk3RnRrZXFUeTJ4bUEzOGRqN1VTR2s3ekh5WlBaZkhSY0x2TGZQZ1pEMVRRVTNvalJMVVI2cy1yZy1BTTZTamM3MjNKdUFGdGtOS2JFdVBCem9aSVpvT1IwT1l6V1JJcHhNel91OVpET01GT2ltLTg?oc=5",
       "publishedAt": "2026-11-25T10:15:19+08:00"
-    },
-    {
-      "title": "Estonia Weighs Closing Last Rail Crossing With Russia After 12 Attacks Linked to Moscow",
-      "source": "Kyiv Post",
-      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tVDlUVVdNUDNUOFVOQ1B2TWtKQ0VMR25fSFVIMTdJcGZyYkYxQ0NCLWdSMUlMUHhVSG1PTmdNaHZid1M0UllqMVRFOA?oc=5",
-      "publishedAt": "2026-11-25T09:15:28+08:00"
-    },
-    {
-      "title": "Sten Hankewitz: Estonia, close the gates to Russia and don’t look back",
-      "source": "Estonian World",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN0VGWV9USXNJWXhtZHRzREJEZEdfcE1fenhDclVnR25NWTZMUGxDcWx6MTViSTVoaGxxTlRDZ3RMYlNQU1ZWNjRPSnBEY2x6cmQ3bks5MkhzOGtHUGthcURXODd2amtkNE02MWtmaFJ5V1gzblhzSWJhU05qZmVsREM5MGFfZDl1YkxZaXB0b29DQVNyYjhNVHM0TWFxYkJfVWhsYw?oc=5",
-      "publishedAt": "2026-11-25T07:07:16+08:00"
-    },
-    {
-      "title": "Russia ratchets up its rhetoric after Estonia announces border closure",
-      "source": "Yahoo",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVWU5dTJPZGVxcHBVZy1DNTkwWEVYQ1hYTkhZLTZZS19Mby1SeWd6aml3LVlaeVpROTl4VjhkUlJPdHVER1FFRmJtZXNxRFNUNjNCdXBfTzdIYVdQUDBLbTBnYlJPbkFhQUFkWm9XaWhLaGlVZ3hTMENMclBacTdubGY0a09HZGo3VkV1a1VDWmd3Y2pyQUE?oc=5",
-      "publishedAt": "2026-11-25T07:03:10+08:00"
-    },
-    {
-      "title": "Estonia has warned Ukraine about attacks on Russian tankers in the Baltic Sea",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZlphWTctVWFSb3ZjS0tUNDM1bDNDN1NXNEgwbXFpbEo0SmRaa19ra0c3cEJxMXQxNXJjYXZnX0pwSGEwMm1lcEI5dm9VY0xacTFEdkNaaW8xQ2dDMFZDVHZhejhxNHROZ3VERlY3eHJjRlg0WXZTRWZ2OXVoTG81UVE4aTl4T2pWRFJFR2piMjVSaUxPVUNUdTllS2lCVDl6cEVzVmVhY0dDZVAxTmc?oc=5",
-      "publishedAt": "2026-11-25T02:04:09+08:00"
-    },
-    {
-      "title": "Estonia–Russia Border Standoff: Moscow's 'Open War' Warning and NATO Deterrence",
-      "source": "Diplomacy and Law",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00UDN2TTJhLVhmY3BFQmt4NUR0b2RUSTYzTmZ0R2U1SHlUVGRONkdTZ1JIYWU2V28tYkpuVXRERVNSTFZFM0ktOGtScWNaNkN6UnROeEtTd2dDWEFibUVJS2xMTHVOZFg3WWc?oc=5",
-      "publishedAt": "2026-11-25T02:03:43+08:00"
     }
   ]
 }
