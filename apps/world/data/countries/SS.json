@@ -1,7 +1,7 @@
 {
   "iso2": "SS",
   "name": "South Sudan",
-  "updatedAt": "2026-11-25T17:11:23+08:00",
+  "updatedAt": "2026-11-25T23:11:48+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "South Sudan Oil Output Target: 400,000 bpd and 50% Power",
+      "source": "Construction Review",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWE55cTZfeWF3R0NoSWVJRkRETi1FQVFPVkEtdFpkbG9xSmpOcE5BM19kQTFnZTc1bmJqTVRtU1UwdHBfR3ZrWUt3SENkbFlpLW1HMEVUaUk5Q3JDZ3NQYl80ODdrQlBMcGFUQ0xoWk02bWdrQVB6eEFIUUdnQlQyZ2pyd05rdU9lQml2aW12YTZuS0FndEE?oc=5",
+      "publishedAt": "2026-11-25T20:42:48+08:00"
+    },
+    {
+      "title": "How President Kiir abandoned South Sudan’s December Elections",
+      "source": "The Arab Weekly",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcXYwRm5DMjlkRENaOTlCa0ExcTVOQTZlSnM1Q1ktODVnZnJWbjZRd2s2SFBOUGNnZ1ZKZ3h3ZUpFTWZJNkRmYkdwRUdCLW9FdC05NS1QYXNmU0p2MVoxSGQ3ZGQ1Y3Z1Y25xTHVqU1dvekFha3gtTndLYzJETlFORm5Jdk9LZUgtNXdXZVhTNA?oc=5",
+      "publishedAt": "2026-11-25T20:21:09+08:00"
+    },
+    {
+      "title": "Electricity access in Africa: South Sudan ranks last at 5.4%",
+      "source": "DNE Africa",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJTVN2SGRtSV9zeVN5NmtidTJBRWNRWVdDbjdCTVo4Rzd2THpoWkwtUHdLTHRRRGpsMk9zRnhFeG9iYTh6WERCbHZyN0VZSW1naThiNWFaTk92NXVsWW1rak5jRXpkM2NOdnpONVVPWklHSWZ1d25GMENyUUE?oc=5",
+      "publishedAt": "2026-11-25T20:02:00+08:00"
+    },
+    {
+      "title": "South Sudan oil production: new 400,000 bpd growth goal",
+      "source": "DNE Africa",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tQk1mcC1OTjFtdXdyZi1CcTBuRmNvX1F4RGltYTNKOFBTQlNSbGgybi1oYzZCTHFjS3M3dWlzZ2RYclV2UjJqN3RCWjNTZE5GLUxyMVJqV1lsU21Za0ZQNVFKd0hINGpWNHRwWkJn?oc=5",
+      "publishedAt": "2026-11-25T19:50:00+08:00"
+    },
+    {
+      "title": "Opinion| Abiy Ahmed must answer for South Sudan before offering to mediate Sudan",
+      "source": "Radio Tamazuj",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOY3ZPOTNFajg2amRhcm1FbExpSlFidXlXcjBzdUhHYXg5bFh5QXlLd2xmUkJrZDk4ZG5sT201OGpQVTE1NzQ0b1JpYjMtWkJxdlpLX0VUMkZQN1h0TG1laWpIckVMYUN3bFZGUG82Zl9OWERwalRJWnJXSW0xVkF0YlJKMjJ6c2d0UDgwaUtHekRXS0FwZ0pEaWU0Umh3NEpQWU8yOHBUQXVUUnZhLVFzMHJ0RVlXU0JaM2l4NE4tX1ZNdw?oc=5",
+      "publishedAt": "2026-11-25T17:39:16+08:00"
+    },
+    {
+      "title": "South Sudan rules out forced evictions in national parks demarcation",
+      "source": "Radio Tamazuj",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYUtWTWk2LUh2eDZkSEJsUmlKMzU0dUdfa1NqZWlQaXZ1ZkNpT3ZsSjVfSlZDYV9aVEsxRklMZmhib0w4NGtfNHc2R3dzRVhfTXBvZTA2SjNpTkFBSWtSRU9WTW5NNnpXU0tkS1hqUDRWVWxYUHR2NzQweGhmMkloQ01ES0REdU04Zm9rQVR3eks0b0V3cVh5T3N3MHYxTlRsOUxNQUM0RU5yMVdzNVdvV01zVQ?oc=5",
+      "publishedAt": "2026-11-25T17:14:17+08:00"
+    },
+    {
       "title": "Message of Solidarity by UNDP South Sudan Resident Representative, Dr. Mohamed Abchir",
       "source": "United Nations Development Programme",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOFAycFN2QUd6LXd2ZTlvUDlZdFRIeGhuRnBWWmduNnMzNUVHcVpXWkxrTkVxNFYzbHpRS00zZThPVnZJN20wNmtTcGtKa0stVFByeXdMdTQ0UnNSUURtbDNUVFlYcmVKMnlfZ2FlQ2JZSUdlMF9IWkp0OTZzcEFNNU9tMUVDNy05TFRpejhLQmk5emgzQWxXVWx3Z21fbXpVZ2N0QklyZUxWMmlpSmFlUDUxSHlLUQ?oc=5",
@@ -40,42 +76,6 @@
       "source": "Tech Review Africa",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNa1JhUG1BMmZKNVJlUUtkNEF3YnBfbFB2dVU1TkRKcEdocmZCcHVoLWQzZUpBRXJzQUhUc0cxcWNvUkRHempxSU56OUtxdzJvcWZrNDJ6VDE1NWpSZGlhQkRLV0h2UHk5RlNJb1hOVWg3RzBqTHV2TFBueHJXRXo4ZUhfYzc4YW1mUU5VdThReUVka05URFczUVVwY1c3czBTbzdaUm8tekVMbTRFOU1iYUhYTUZxNjI5NFJZOXBSOW01R1VIcnllckNMQVJudw?oc=5",
       "publishedAt": "2026-11-25T16:15:36+08:00"
-    },
-    {
-      "title": "Image of South Sudan adviser with Russian envoy is manipulated",
-      "source": "FactCheckHub",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaHVER3RkQnRnWi03OGtsSWZZTUtKMjZZck1JdVFJT0lFWF9Rd3ZJd0ZJekRJZkhoMHZTUnlxY0paa0txeTJlS0tRM09IMl9qNEw1bU1PRWx4YmhNeTZkNnVPN3FILVlQX194MHQzM0xQNk1UZUNxTk1ja1pSYjFiSjFxSFBZeUFUbWtCQWtJY2I1Zw?oc=5",
-      "publishedAt": "2026-11-25T16:00:24+08:00"
-    },
-    {
-      "title": "United Nations Mission in South Sudan (UNMISS) Deputy Special Representative of the Secretary-General (SRSG) Political calls for stronger civilian protection during visit to Unity",
-      "source": "Zawya",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPNFJCdDFQTE1VSE9sTkQzZlpjSV9PeVJZaVIyWHE3WDQwclYwVC1DTU9Mb01ZQWV0bndwYlVyQThJNjFJZlZ2OTBLLThCUnFyc21lVW8xREhpRXFESXJtZWNHdUhfaVFLUDlMZGEzWEtpOGNIZTJWZGlBOWZaUkpHMzI3VXFnV0doQWE0UVdqamRtdE5SRzNHZDVDbWM5R3NNSXdpT1BSYVFhbHNfaHRtU0daSTFiZjJLd1FCaHBPMi15cXlqVmxxbnN5aDVJc184UXpLX1l5MW96eHhGNERzTndad1hzakk3T3E1MzdWaHRlMDNESXRtSmdPaWtqWVhTN0VadGYyd0ZoTG5PNVJKWVREcElrNGxoaGJEUUtzc1RuWDEzODlaMXlNTVhxckRfTG1HRmY2M21tUWxqS05walZVcExYdUx3cUdhVEwwZTVMaUZ4M0RtNnF1LVBHbW1ITFE?oc=5",
-      "publishedAt": "2026-11-25T14:51:00+08:00"
-    },
-    {
-      "title": "South Sudan: Mundri West stakeholders unite to improve child protection",
-      "source": "Africa.com",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0x1ZEprV3FlSUVZUGpSMXYtYVVrUGFRQkh5Ml9kSFZyMU5ZTTJld3hyWE5nQ1Jjelo1NzBib0YtM283bmYtbVRyaDl4NGJwa1hYWmdUUTJycDI0QjdfdUhqb1AxdFR2RnR4MjdRVTRUUEJZNTJFVFBnemJKa25aUDI0QWVlaTBhWDlCbnJuajBiNXhmbGJpZg?oc=5",
-      "publishedAt": "2026-11-25T14:42:22+08:00"
-    },
-    {
-      "title": "South Sudan plans joint betting oversight system",
-      "source": "sigma.world",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTTW9UZFJ2SHBvcGFWeE83V1R1bWpvQVZQMmp4ZXhfU0E2ajJKT3dTSUVTRlRtcnctWUlNUk9MOVVETnFvOFF4WUFDZC0tR2Fsb2tqdEhMak9PN1ZUWG9KYlZUYmpEUXNCblhCajJVdmJRLWNUc3p4b1hvSFJDbDg?oc=5",
-      "publishedAt": "2026-11-25T14:07:28+08:00"
-    },
-    {
-      "title": "South Sudan Following the elections' postponement, opposition struggles to present united front against Salva Kiir",
-      "source": "Africa Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPSkx4UnRWN1dlUFpHVFA1elBYOVhibTdkZDdPYVBaUjJaY1VVc29BeHB4U3lTckNkN1Zhcnk3Tml0bExFRFBPTWl5NFdOYmIxSWhIZldIV2hWUFRSX1lUTndNX2RtWXpWd2xYdXBleGZ4Y25ZMWQ4dGhWWWFFMS0tQXVDOVotRFR3bF9ZUWo4ek5PLWFSUkl3LWtjZVBSVmU2RWY3TlEzU09jQks5OEdnRWdMWHZTR0xSRDRldmpMdlhZUXM2RzA3SWVadFFFbmxWSGNWQllpV3JvUE50MXBpOUdEM2QySGFLRWVfekx6ZU1pSDNSd29WMzN2bUhjR1kwUDVoel9vQ1RNOU9iS254azhDX21vcXZa?oc=5",
-      "publishedAt": "2026-11-25T13:44:22+08:00"
-    },
-    {
-      "title": "The New Guard Guinea, South Sudan, South Africa",
-      "source": "Africa Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNV3ZZaG05R0V6ZlFoOVh4OWdzNElkWlNtbzFtbzllai1iWkFYUXJhMkxPX01vb1ItYm1fZjhqeE9fb1BsQ1BtOWpBZXVSM2c1MkZwSUVQLUo4dXBNem9fSnpiTWxpcHozdzNHODljdjRNVE9yeVpJSC1waDhiX09sc1pTMWdpWmJwNTd3ZnZkeTgtZFl5NWZTS3BDR1BzRlRoOEJDNklFeDQ?oc=5",
-      "publishedAt": "2026-11-25T13:43:49+08:00"
     }
   ]
 }

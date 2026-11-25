@@ -1,7 +1,7 @@
 {
   "iso2": "FJ",
   "name": "Fiji",
-  "updatedAt": "2026-11-25T17:11:23+08:00",
+  "updatedAt": "2026-11-25T23:11:48+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,16 @@
   ],
   "headlines": [
     {
-      "title": "McGechan and Reddy claims Mr/Ms Fiji title",
-      "source": "FBC News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMi1lNm9rVnRHdUNRQ0UzcVlReEtyeE5PSk1FckxtUWIyb29nVkFCUWlRckh2ZE1xRFdjS2I3bkNUcmkwRnhzeHM3TndIUHpxUG0ycnhnLTM5bE92YWctRkdQMmN0NE1jd1dpal9ENGZsZWlxSUtDdTJjTFhxTkZwVzZCWQ?oc=5",
-      "publishedAt": "2026-11-25T15:04:01+08:00"
+      "title": "El Niño forces downgrade of Fiji’s 2027 economic growth forecast",
+      "source": "The Fiji Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOWlSYXNvSjk3VW1zQlBhczRkNVp2REprMUpETHpNMHdPUjBTTUlHNjYyb3ZpUXBsMWVGUTJhWktKdmVQVGFCRHZLUWoxM1JNSE5ETEhWalNhN3g0b1pxOHluMjMyNG9HVmhEVHRFdnhsdHZFRHM5R3d1MlpQTnRIOEZQYVVocjgyS1Y4WnBEVDlzX1NwWTlwYQ?oc=5",
+      "publishedAt": "2026-11-25T14:28:17+08:00"
     },
     {
-      "title": "Fiji U16 kick off title defence with 2–0 win over Canada",
-      "source": "Fijivillage",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPck1EaUY2TFZFM3ZxOEpUeGtzbnRJT1dOVmg5alIwb0stMVg2aVNfdjlMemF2Rjg4OWRsRFNTV3ZfNXp5bThPeXJKanQxa3lSa2hZN1ViWFl5TE1zQzJYM0MyNVBGQVhkX3dreV9HMkdISGZ4aWhBVTAtNHRiRUJuYnJKOWRBZURhOGVSdHhDZFdENUs2cVN3WnBB?oc=5",
-      "publishedAt": "2026-11-25T13:57:18+08:00"
+      "title": "Fiji, India urged to expand trade opportunities",
+      "source": "FBC News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTURCTUxiREtUM1FQVWUxN2FUcTFSUUF3N00yaW02ZmVpWVdKY3oxZTRjeVVoZ01JZDM3VzkzX1Q2LTRyRWdtQUg2THZsUHg1NjMzNUI0SV92U0lRYXhGQ2dmQjFBZGRwVjdfV01NQ3hFaUpRRzRWQXFVcjJha19JQ2x0cEZPUQ?oc=5",
+      "publishedAt": "2026-11-25T13:54:49+08:00"
     },
     {
       "title": "$800,000 vessels to strengthen Fiji’s maritime border security",
@@ -60,6 +60,12 @@
       "publishedAt": "2026-11-25T12:43:28+08:00"
     },
     {
+      "title": "Fiji U16 kick off title defence with 2–0 win over Canada",
+      "source": "Fijivillage",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPck1EaUY2TFZFM3ZxOEpUeGtzbnRJT1dOVmg5alIwb0stMVg2aVNfdjlMemF2Rjg4OWRsRFNTV3ZfNXp5bThPeXJKanQxa3lSa2hZN1ViWFl5TE1zQzJYM0MyNVBGQVhkX3dreV9HMkdISGZ4aWhBVTAtNHRiRUJuYnJKOWRBZURhOGVSdHhDZFdENUs2cVN3WnBB?oc=5",
+      "publishedAt": "2026-11-25T12:02:25+08:00"
+    },
+    {
       "title": "Fiji’s Mohelata wins ABC Radio Australia’s Pacific Break 2026",
       "source": "RadioInfo Australia",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNUE5SFpBLUNsM2lXNWZGTldQUzUyWTRJc0U3dXFGZjl1eFhvX2dGRzVlSDYtcTRzUWY4UmRrWmhXS3k0U0VhN2hoRER1TktVN2k3QWNlUHVqSGxVSlE1NnV2MW1uY19JaElTRmhiR29Sc2o1eHNFTkU5M3lxUDlpOWVsYjVmLXp1eUR4QzlZODJVOWQt?oc=5",
@@ -70,12 +76,6 @@
       "source": "Fiji Sun",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeDZkbjlRNF9veG9zTVltVzN6alFQZjFkRnh0c0pjNV9xaFpaWEJpb2kwb3d5ZktWV3hyMDJkSnB5TlJhdmNuUXRTcTl0NVJodGZyanJqUWRMNXV0MFo0dXJUaktnbUM0MFlnbjQ4WXM5MWFQOG9EVkRLSkdSRjM0QzgxcE04RlE1N0xXbW1qbmgxbDVDdGtlSW9LSVBmMmQ1b0hRZW9oMTZBQ29nRnNUcEg4TQ?oc=5",
       "publishedAt": "2026-11-25T10:29:35+08:00"
-    },
-    {
-      "title": "Fiji's Rising Stars Look to Build on National Success",
-      "source": "FIBA",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenB3NlI3QlFORy1XZGF5V3hEcnJnb3Y0OWd2NWJ4dDBNWnowWnFUTHRrOGxtRy1pY0t5dnE3al9sT0daNXNLTEV4aEx2cld4N3dsTURwXzRkaTNvdHFFTERQYW43TWhEMzh6YjByQTFDelhvMGpfUk52WGUtVk5XQlVYQnVrNHdJUTlwejRxVmx4QQ?oc=5",
-      "publishedAt": "2026-11-25T10:29:08+08:00"
     }
   ]
 }

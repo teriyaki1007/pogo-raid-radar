@@ -1,7 +1,7 @@
 {
   "iso2": "GG",
   "name": "Guernsey",
-  "updatedAt": "2026-11-25T17:11:23+08:00",
+  "updatedAt": "2026-11-25T23:11:48+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,10 +26,40 @@
   ],
   "headlines": [
     {
-      "title": "Deputies approve new sites for affordable housing in Guernsey",
+      "title": "Will Guernsey become home to the Next Great American Base?",
+      "source": "Guernsey Gazette",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEU0V3RCRk1sRmpyR1cxbVd5bGd0MnVwMTVjRXlNY04tcHdkaDAzNWU2NmZDSzY0amdJYnpXYkpDTzU4SGRqQkVZWnZHczIzQlRCbDFrMFp6ZVlsWE9XakhEbTByam9JUkhha1R0UnFxa1pOUHU0T2c0STFKTDhwdjA3bTNGNXlRWUxZQXpldWZPXzdVZDc5V1EtMkdVT05ZT2ZBc2Z3?oc=5",
+      "publishedAt": "2026-11-25T22:58:27+08:00"
+    },
+    {
+      "title": "Speeding drivers stopped in Guernsey road safety week",
       "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1Dd2xncUg0SUY5UlQ1QjJEWGZYYTJBSDVzNGR5TEtoUGZQV2F6M18yV3JEemJKZnYxdm9TV3VFMnFfZEstN0dfcG9fUnBWalFhWWdfNlE4bXQ3cUpzNHc?oc=5",
-      "publishedAt": "2026-11-25T03:41:23+08:00"
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA5anBzMzNqNTFKTEotODNUcElzNGdnZTZGWEQ1dDlmUV9BTFB0U0g2NmpzUXJvNmNGWHhqOGhvYkZZdjlTNzFJa3h0QkE0LUdadU1WNVRkelZObC1aYUE?oc=5",
+      "publishedAt": "2026-11-25T19:55:35+08:00"
+    },
+    {
+      "title": "Rising interest rates impact on Guernsey's housing market",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8xdGtXakIwSE9LQ2dyVnFsYkVwcEFSVkxhQ0F5M3BzRFlNdVF1TEx1d05XOThEN01pLV9uMVpWZkZrRVl5OG16T2FTMUFjU0hhaDBHazhVa0ZBYXc?oc=5",
+      "publishedAt": "2026-11-25T17:56:33+08:00"
+    },
+    {
+      "title": "OPINION: Guernsey's population problems hurt us all - but the debate mustn't become about race",
+      "source": "Bailiwick Express",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWGQ1V1I2Y0lXeHVVWDIta01fRi1xX0pkTlVmaDEwR1lhUlVyQUhkVUQwN2Z6Q3NIckRJVWltampnSk9KZzJKTHYtUkRpcDVhaDM0dFJ1cUh5ZGpfdW02dHBvRjl5RDlUbUVxRmpISlVHLWJrNWIwUlpzelRiUTRlNHZxZDQ4RUNVQlE0Z1NrVjdGbzZlRi1rekxZSERRSmJGYjh4ZTVuZjIzNkt2clQ3ZVdIMG5EMlo4VkNGR2VEVGpTbVdLWU1XS1J2VzAyS28?oc=5",
+      "publishedAt": "2026-11-25T17:10:00+08:00"
+    },
+    {
+      "title": "UNCOVERED: YouTubers charge two years' salary for 'Move to Guernsey' courses, but States says they're not fuelling immigration spike",
+      "source": "Bailiwick Express",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOY0ZhY3ZLQmhPQ01Ha3RLYXlXVVVSR3hLSDVwZmN4blFJZ0RteXc3a1M2eU40emdIbXE1S1NxNWlPYUlFbVBjRFhNODBqQ2J2MU9qd05ORnFURnFDVDB5c0s2RDQyMzJtYW55RE1acU0yeldNTVJIWTVNNnRtaTNDcU1teW1uejl5MjZoQUdGejlNTHhrbXNDaFBVejlJNWc1WWFjMW4zMXMwT0JuWUoyRndTcTQ4Q2dqZ0tRRjg2enZYYXpRN1c1ekp3VUlEWU9TMmxuQUVPSFVyX28xMk91Y05zb1ZTd0xrSHkzcWt5UQ?oc=5",
+      "publishedAt": "2026-11-25T17:00:00+08:00"
+    },
+    {
+      "title": "Sure confirms it is cutting 13 jobs across Guernsey, Jersey and the Isle of Man",
+      "source": "Guernsey Press",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbTFTYVNqdHpibEh4ZllQM3M4SWdJVUNwMFRDenhKX1BVdmZSYzlXeEc2dWNuUDFmQ2UzeUxGNS1uWG8ydDRsc29HV3R2NlVGa3lwSjlOQkdmU3dSU1R6dnVuTXFwdzV1ekpneld3Y052SDVMNWJObmFhS1BOLThHTTJWSjdfSk9KSVotYURKNEhaU01icXpBY0cwOEZkVGx2bDk1X2JuSXJIWlYwem50ODU1c25mZEJnRUZUVw?oc=5",
+      "publishedAt": "2026-11-25T15:38:08+08:00"
     },
     {
       "title": "Air quality in Guernsey County",
@@ -42,36 +72,6 @@
       "source": "Legacy obituary",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NeVFqSnRGUXBvUU5DSUVTZklmTHI5SzBhRWE5Ukxaa1N0WFhDUjRySDZrS1J3VElVUlQzOGhBNkpxNWJvUVpBb1ZfcTZkSG02aUNFMWhnYW1tR1pRTm1LN3pR?oc=5",
       "publishedAt": "2026-11-25T00:48:25+08:00"
-    },
-    {
-      "title": "Guernsey’s Insurance Industry Gives A Glimpse Into Its Future",
-      "source": "Legal 500",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS2oxYmtvUW43V3U4Y3hhVUg4dTgzUFJ6bWo4UFdvb2ZCWUREdFU4cm9melAyb1dmNGs5LVhwZk5NV3pSSC13QjdEc29saUw5d1ZGMVRZeXJFa2ZfZnluOVRMMllYUEU0WjM0dnBoTnQtNW0zZFRyMFBiQTFNX3BxWDdIX01OTlpqOTV3NGx3SjcyejFpUEI5UG1GdGdwWk8wdUhjVW4xSk1SLXg0aldVMGxYRDd1a2NV?oc=5",
-      "publishedAt": "2026-11-24T23:57:51+08:00"
-    },
-    {
-      "title": "Skipton bank in Guernsey fined £2m for money laundering failings",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBsUWNpZXJiZy1ZQ0pIZENVWFVxWER5VDlkR3Q1Q1M2TndTVmdlMGIxVXVWZTN6bmNzS0xjVHhLMkl1NUNIdTBtWUx4M2Y0ZUF1RlU5N2tMZXVHSHBuVGc?oc=5",
-      "publishedAt": "2026-11-24T23:55:40+08:00"
-    },
-    {
-      "title": "Demo flights and top speakers at 2027 Guernsey Air Rally :",
-      "source": "FLYER magazine",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTmREOEVLR2xIOE9qR0lubnRVVGYzWXFQTEZvVFoxZjZ6by0yS2V6UFAwVW1pMXhVX1RRLXRlTFpzZTVlNFI2SUZLYXZqdzgyOTUzSVRoMjVWYi1GUE1SN0JsMVF5eHlsZ3BnSnBrNWtkZlNxRWpib2dqbGRrZzFPY3JsMA?oc=5",
-      "publishedAt": "2026-11-24T22:59:32+08:00"
-    },
-    {
-      "title": "Should’ve worked at Specsavers: Guernsey-based optician one of world’s best employers",
-      "source": "Bailiwick Express",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMHBub2pocHVhSEZVa0RJelhwLWdnNFhFSU4zcFlNeUlaVlRMS1oxTXhiM3A4TzJIYU9rLU9PNHZCMjJfVU8tU3pOWjJVQkVmMGdibXlOTE15c0FxQ2tFd283eXlhczRIMjUwWkJNaDUxZEgzTlpJRnhnZ2VITXI1RG1LT3lRM3oxOXg4d0ZjTXFuYVV3LUFCVzlRZXVCYWZRYmRJLVROWm8xWEtlRXY3VV9TRDFPb0lsblhQU2tlOXBzNVZzNlZV?oc=5",
-      "publishedAt": "2026-11-24T18:18:24+08:00"
-    },
-    {
-      "title": "Slow decisions and housing shortages holding back Guernsey’s growth, IoD warns",
-      "source": "Channel Eye",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYVZJdmxpT0dtWVR0UEpqQ2Zxamd5eTdzdzdLMHRDTFliZUdpcW9MdTctb0lVMEVBTjZnTDJHb3RRcTJvXzltc0dacWhQTjJrZktGOWVSZ2NpUlJVVjhPY1FLUjNRSzVKZjByanZpWlFQY3FFMDRUX0EydEVnMGRDTkFuVVlHWGZVMmtkMmVka2pDZ3VhYlNiOTBteXM2TWQ4T3dfcw?oc=5",
-      "publishedAt": "2026-11-24T17:27:46+08:00"
     }
   ]
 }
