@@ -1,7 +1,7 @@
 {
   "iso2": "CI",
   "name": "Ivory Coast",
-  "updatedAt": "2026-11-25T05:06:01+08:00",
+  "updatedAt": "2026-11-25T11:11:17+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,28 +30,22 @@
   ],
   "headlines": [
     {
+      "title": "Cocoa Prices Climb as Ivory Coast Shipments Decline",
+      "source": "Barchart.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeTQwSVFtbHVCUTEtWkpYQm5Db1M2cjAtYWlncE83NF9tVEFNWUFvMFJBeG9naHQtc0MwMUlpUmNsOU50Y3ZWR1Z3NmJoS0MxRkd0MmExSHQySFhDY05rYUdHZXlJWUluYjU0VnVPSmNJZjR0S2xzUmVRQ05MSldvMENIS3hCbEtYVHZrVVBCME1GSEV1NGU3eGtrbw?oc=5",
+      "publishedAt": "2026-11-25T03:23:21+08:00"
+    },
+    {
       "title": "Ivory Coast: Massetou Traoré Takes the Helm of CREDAF GROUP",
       "source": "Financial Afrik",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOFR1RlFMd0kycmVvaDNjUUd4Zmszam1GUFNYODJCQk5iaE5oRmRDR2JnbGlhcGdBNkJEbmZNbjNXZVdfN1c5dWVZbFhsbEtfVkMzRlh3NU5wYzJTSEVTU0l2RVFCbDlPWXdxdlNBSnZxVTJjUEVPcEZ6blF6NmhaUGxMWWp4NHllRUoxNDhqQ2RjNzhVQTA1WWpQUUVmSlc1ZFpuSVpYOA?oc=5",
       "publishedAt": "2026-11-25T02:19:41+08:00"
     },
     {
-      "title": "Smaller Supplies from the Ivory Coast Boost Cocoa Prices",
-      "source": "Barchart.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWGpFZnNYZ3c4UVdnenYtdHJDd0RaQ0c5NmNfSlFRQ3c3ZnBib0EyLW9lWUNIVWw2UEtFNDUzY3BjQXdzbmJOTzdMMjJwOUd0dDNGLXNCZlFYRkN4eGEyOTV6bG9iMlNMUFU5ZVNaSEV2dHA0dVBRNXVSbGN0Y1NrejZfbUptQ1lHUFFsejI0M2Y0WFYybmFNeGRVTjdLanVpTmc?oc=5",
-      "publishedAt": "2026-11-25T01:10:01+08:00"
-    },
-    {
       "title": "Cocoa Climbs As Ivory Coast Arrivals Keep Slipping",
       "source": "Finimize",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNUhLVE56ZF9UdzA3dEFxUl9Ec0hHSDdjOXh1UjduVjk2eFFkeTM3YmNXQ29kM3VrWU4yYm1ZQTdWYVNaelB0YmhGVTctMkFzN3lSSF9DRlVfRVhZZE52aVVrZ1NJalZKV3IxT1czUzBoZWtieWp0YlNMZ2Z2bGZJNGt3WElRQQ?oc=5",
       "publishedAt": "2026-11-24T22:34:29+08:00"
-    },
-    {
-      "title": "Ivory Coast secures Dutch grant for Ebrie Lagoon dredging and channel marking",
-      "source": "Baird Maritime",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGE3Z3JYekFBdWlyaTVOdldmbXF2MWNfRU1abVA5OU9zZzlSY05HeDRoRVZzVG5rek9jNXpYQmZMWmpPVGVFS015MFU2TVJ1MU40T2d1clNIRGV2dWxrbk5wSXQ3eFpLTHN3VUlTTnBLODVfSU9KU3ZfQWF6d1JuNHloRS1qV1Jvc3VvSFoyU0owZ9IBnwFBVV95cUxQVjhwQXVRdDlRaTJjajMyS3NhQjVQSTRZSFpOVlFfVmFfMGNCTllrYzlNVDNrZHVNVHN4LXo1V2U5SXpLZDRITl9yTEVCWWR5YmJYcnhMZkNiWlpyTk55NDZuZmlrVFY1WllpTnlJZmcxbDhsNVA2Q0pkNDRYWGczSndwVnVZX00ycHBaYjI1ZkF5VFVjRVVMeWVnOHZfYXc?oc=5",
-      "publishedAt": "2026-11-24T12:37:40+08:00"
     },
     {
       "title": "Ivory Coast: €27 million from the Netherlands for navigation on the Ébrié Lagoon",
@@ -76,6 +70,12 @@
       "source": "Africanews",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMUhpYTU0OUJva2FmYkxMc1RpdGFDZ2p0ZjJvSFhHd05aekR3bVRfbm9WdXh5YVlDWUY5bGsyUTlCWkJDSUY0ei1pb3liZVpXYUczT3hBTFUtRk5KMHlYWGJzbkNIeTNwLVJmTjZVWmE1TGQ1WTJWaXFmXzV3R3pUamhUUThVZjlJNWdPeER5WHlzZW9Rek9lZ1F3QnJwY1nSAaQBQVVfeXFMTUpiaENaRnhkY3FURU00RnJxeFVmel85cnlkbWozNlJMcDRETUhsMkJ6bDFjZ0FnMUNJWTZ2M2hhWVBxTDdRenBpa3FQODUzajh3S0VLZTRManZpQlRtbkhqZ2YyV2ZrdC1iT1o2NmxjWGtjTHZMUFgtcFNmZk9OYlF5Mkw0TXkyRmhCNVdsbnZCbzc4TjBVd0hrc0VHRjlUbjNfRng?oc=5",
       "publishedAt": "2026-11-22T17:27:30+08:00"
+    },
+    {
+      "title": "Ivory Coast U17 vs Uzbekistan U17 - live score, predicted lineups and H2H stats",
+      "source": "FotMob",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGtTcVM4eG1hZE14eDRxN2pMbEk4TVRodDRQb0dPcHZHa3FpcmVZTEdRdndvRXNKMldndnVQWkd1b3J6S1MxR3ZFOVBXRl9yb3VtX2FMUDNmT0QyOEpWNV9SQmt1ejFKcWxiMkdHSmFZZkVtUW9XamQyaV9CLWYwbDZaYkg?oc=5",
+      "publishedAt": "2026-11-21T00:00:00+08:00"
     }
   ]
 }
