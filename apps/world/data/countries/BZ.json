@@ -1,7 +1,7 @@
 {
   "iso2": "BZ",
   "name": "Belize",
-  "updatedAt": "2026-11-25T23:11:48+08:00",
+  "updatedAt": "2026-11-26T05:10:46+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "$176K in New Trucks to Patrol Belize’s Mangroves",
+      "source": "Greater Belize Media",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR3RkUmtZLWhOVTlKUGU5Wnh6bGFTU216Vzk0dE9fOWZTRWcyVHdac2FlN0ZCVUhUR2dON2p4VHo2QnlQTDNnMGs5OENRWjk4WTZSb0NtaHRia2l4X2JQNzhsMTBlNTZTVkhEajN1bjJJYnlwMl9SWVNoZnZMZzBOY3dNVQ?oc=5",
+      "publishedAt": "2026-11-26T05:04:20+08:00"
+    },
+    {
+      "title": "HIV Infections Up 40% in Belize Since 2010",
+      "source": "Greater Belize Media",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAzQ0NyZmxubkRNcWN5ZlFRVS1vanhQNms0ejk5ZUtWNVpWX0NjZzV4VDJodUtjNWNTQkVDWkZSeEN1azVFTWxWV18zNmlKWlRudW5Ocl9hY0V1Wms3SjNSc2xFa1VmTUNTbjljTnFWUzFfS2t1Y0YydmRobHE?oc=5",
+      "publishedAt": "2026-11-26T03:13:31+08:00"
+    },
+    {
       "title": "US Casino Winner Robbed of $15K in Belize Golf Cart Holdup, Two Cops and Nurse Charged",
       "source": "Casino.org",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWERacVprOTZSbUxjUllnYWQ4QWRwZGszTWJLeXMxMEp5VHZ4Y2ZwQmpQdFpMX2tPYlBSN0ZsVmFsUFZNWWZLMjBZQjU2ci03NVRDZ01RUXhOWThBZ0FaRW15WlI1RUk5MjlMT0E3MW5NRWUxNUZlVGhmSzd4SmMzUU44b1Y4R084RFF1ZTcxLVJLVzl4SmZZa2ViYjJ3R3ZjNUVMMC01S3VGQXlndG9zY05XZw?oc=5",
-      "publishedAt": "2026-11-25T19:10:14+08:00"
+      "publishedAt": "2026-11-26T01:04:40+08:00"
+    },
+    {
+      "title": "Island students showcase Belize’s heritage at Cultural Day",
+      "source": "The San Pedro Sun",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQakwwdHRJeUVRV2x6eG1hcUdXRWFoNU03NzBPYXhtZ1NnVHk5bVRBRjl2NmhzZEhXUlo1ZWxCVU84WE9SajZiamlybjMtSUpIT284cDlsam9uT3VWLW4wNmtfb0E3ZElIZUJzWTVLWER2RWdXbDNQNHZBZjcwVERRUThObzFGWVdDSkxaQ0tUY0p2bnpobHBXcWtVa1Bha2VzS1ZLVWhVa1NLZE9RWmFF?oc=5",
+      "publishedAt": "2026-11-26T01:00:10+08:00"
+    },
+    {
+      "title": "Belize and Uruguay Share Experiences to Strengthen Health Services in Belize",
+      "source": "Pan American Health Organization (PAHO)",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZHctQUpBcGxnLUFPVzFncS1sbmhPSU1EUjNFREZNcjRFMFpXeXZoOUNwRHZRRVhfWDZkTHhxekNxODR1cmhPZFBpMUVVYldGWTZsTUlQUnk1cGp3cVVEYUlqOWc2WnF0MzFTcnh5QkZCN2Jlak95NlBseGUzbGFreVA5WFRnTk5fVFNmbXpnckJRZ1FVbXp1M0hYSjRhdWI4YzJKRUZ2cGRXQkp1d0xv?oc=5",
+      "publishedAt": "2026-11-26T00:56:01+08:00"
+    },
+    {
+      "title": "Belize PM Says No Final Decision Yet on New Domestic Airport for Northern Ambergris Caye",
+      "source": "Avi-Go",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1rZnVfdEJOaW9pUFhfWlJ3UU1EYXFIZVFJWGttdWF0d2toMGltZGJIdDJuTTVKVFBuYkNqX21DRDhvTi0wLU94YWctZGEzbFh4blhySWZSQTNXZEpKT0xBbTFjNW5wU0Q1Y1lXMFZULU5OVFk?oc=5",
+      "publishedAt": "2026-11-26T00:49:15+08:00"
     },
     {
       "title": "From Turks and Caicos to Belize: Four Caribbean Resorts Unveil Black Friday Offers",
@@ -46,36 +76,6 @@
       "source": "7 News Belize",
       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBeFBCdHQwdWFOSEpEUVY0amtJRmR0T0d0Y0x5c0d5dk1qUU8yS2NTUmdDcUpXNy1jSW9HVlhScGl3RGV5aXg5c05fQTVGMkZiX053dGJoZ29NdmJv?oc=5",
       "publishedAt": "2026-11-25T12:31:22+08:00"
-    },
-    {
-      "title": "Belize Hosts SICA Meeting of Education and Culture Ministers",
-      "source": "7 News Belize",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1uZEItcjZXQzZlSkhCWmtZSjhYT2dlXzRuLUh0S1FxUEhGclE4dWlvcVE2RUk5R0RVbGlxVVFIQmxVYnlOcmQ5ZWFfOVltN3RNbHZKWFhWT3ltTDFn?oc=5",
-      "publishedAt": "2026-11-25T12:31:22+08:00"
-    },
-    {
-      "title": "Foreign Minister Reaffirms Belize’s Strong Diplomatic Ties with Taiwan",
-      "source": "Love FM Belize",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdnYwNXlTd05QQTdXTFdCYWxINjVwd1RvWE5ibmxmWE1mYk5GMHVoQ2FiSWRtSWlYWl9EQ2pqWnotTU9ZRjZjUXViX1lwaU9sajNfSHhtVlR1aGJRVnB2SjRtcVVYcldjOTV6Wnc3Y1RZX0ZuWEMybS0xemZOYlVEbXZld1FHMkhvRXBpR0RmUVQ5WjQ?oc=5",
-      "publishedAt": "2026-11-25T12:07:12+08:00"
-    },
-    {
-      "title": "Hydro Belize Announces Interim Dividend Following $11.1 Million Profit",
-      "source": "Love FM Belize",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQblRMUXBlUFRPRjUwS1JKX1JWcGxLTEM2cWo2VUxhUWtBQWI5VnlwM1ZWQ2FlSWFTWXI4ZV8wUmxnUzNHUnBPWEl6S2dydE5oRzl5OWh2Mm5ha2dWZFBvWTJXbFByS2g4ck16TlIzVFFvb2xFY05TU3RuY0l5amxVZFBlclVVV2d0SHFidk1rX3BSaHM?oc=5",
-      "publishedAt": "2026-11-25T11:58:04+08:00"
-    },
-    {
-      "title": "\"Not Under Our Government\": Fonseca Rules Out Belize Switching From Taiwan to China",
-      "source": "Greater Belize Media",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQejNIXzVpcDRnLUFqQy03OVZwREVBRHBUaGRVcHlOaUlIR21MYWdzZy1BRERyUldXMUQwZFN0NlRYOWVFRnVlY3Q2VnNZRy1PLXhFblhHY0NmM1JvSEtkTXB0LW9VLTBRUW9iMkZtaXdiMEFpWk1oUlJ6LUdRWXBZaDhSTGdiZVFyOHVyaHRRUEFVT3h6bHhIX3ljUE9pSFJ1Q1NuM01xTmFYbks2OU5LbQ?oc=5",
-      "publishedAt": "2026-11-25T09:27:43+08:00"
-    },
-    {
-      "title": "US SOUTHCOM to Visit Belize",
-      "source": "Greater Belize Media",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45MFdfR0Z5V0lIRTJnMUt2clBLcG05dC1na01jaElVd2xKNldadTNVSHVaMWh6M3NhdnNYM29OeVJ5REt6U3h1RVltVkc3WFRyRHhRaVVzVUJrUW12UlJCdGtGeHd2SXlESFE?oc=5",
-      "publishedAt": "2026-11-25T09:27:37+08:00"
     }
   ]
 }
