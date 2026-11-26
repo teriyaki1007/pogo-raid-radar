@@ -1,7 +1,7 @@
 {
   "meta": {
-    "updated": "2026-11-25",
-    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG /parts/__data.json usage (2026-11-25 refresh, parts payload md5 a999a5341d63ad1c11c3253b5b8963b6 IDENTICAL vs 2026-11-24; beywatch dataUpdatedAt still 2026-11-17T21:10:50.617Z; scope 4,028 tournaments / 11,758 top-three / 37,974 combo slots; lastDate 2026-11-15; direct curl HTTP 200, size 96016 unchanged; prior 2026-11-24 refresh same MD5 / same dataUpdatedAt / same 4028/11758/37974; no catalog-mapped tier, usage, or rank-order moves vs Nov 24 parsed; topBlades / topRatchets / topBits / topLockChips / topMainBlades / topAssistBlades unchanged. No new catalog or CX parts. TT lineup / bx54 / cx20 / bx55 / ux22 pages byte-identical vs Nov 24 (lineup md5 1f48ac18cc584f30c28bef46e7f395df; bx54 2e4bbec080b007c7154da71926d64e40; cx20 1255f35048508f77925a0b102df9f87a). BX-55 Random Booster Vol.12 / UX-22 Vanish Lucifer WW still HTTP 200, 発売 2026-12-26 — not added; BX-58 / CX-21 / BX-59 / CX-22 / UX-23 still 404; BX-57 is 3on3 deck case (tool) not a part. Wiki List of Beyblade X products (Takara Tomy) revid still 654085 / 2026-11-22T08:43:03Z, wikitext md5 68fc13ecfd9b3a9122287bed1e1facc7 identical vs Nov 24. HK shop-confirmed 2026-11-25 HKT: HobbyDigi BX-52 HK$149.90→140 InStock (LD+JSON/itemprop/og price=140, schema.org/InStock); MayToys BX-54 HK$138→119 InStock (itemprop price=119, schema.org/InStock); MayToys CX-20 HK$538→498 InStock (itemprop price=498, schema.org/InStock). GCS BX-52 still 130 InStock, BX-54 still 120 InStock, CX-20 still 499 InStock; Club BX-52 still 140 InStock; BMT BX-52 still 145 InStock / BX-54 still 260 PreOrder / CX-20 still 750 PreOrder / BX-56 still 85 InStock and other BMT anchors unchanged (CX-19 79 / 3-pack 235, UX-03 99, CX-14 125, CX-15 79, CX-17 115, BX-23 195 InStock, CX-11 PreOrder 250). Shopify unchanged vs Nov 24: Moonroad BX-52 still 130 InStock, Moonroad BX-54 180 available=false, Moonroad CX-20 699 available=false; AnimesPro BX-54 129 available=false; AnimesPro CX-20 現貨 variant listed 499→467 but available=false; BG BX-52 198 InStock, BX-54 168 InStock, CX-20 728 InStock, BX-53 749 available=false; Incubase BX-52 149 InStock; UP-NEXT BX-52 official 229 缺貨, parallel 229 InStock qty 5. hkbeybladex 1124 offers / 175 models / 292 cards vs Nov 24 1107/175/290; aggregator-only BX-52 floor HK$130–198→113–198 not treated as shop-confirmed.",
+    "updated": "2026-11-26",
+    "source": "beyblade-x-parts-reference.md + BEYWATCH.GG /parts/__data.json usage (2026-11-26 refresh, parts payload md5 a999a5341d63ad1c11c3253b5b8963b6 IDENTICAL vs 2026-11-25; beywatch dataUpdatedAt still 2026-11-17T21:10:50.617Z; scope 4,028 tournaments / 11,758 top-three / 37,974 combo slots; lastDate 2026-11-15; direct curl HTTP 200, size 96016 unchanged; prior 2026-11-25 refresh same MD5 / same dataUpdatedAt / same 4028/11758/37974; no catalog-mapped tier, usage, or rank-order moves vs Nov 25 parsed; topBlades / topRatchets / topBits / topLockChips / topMainBlades / topAssistBlades unchanged. No new catalog or CX parts. TT lineup / bx54 / cx20 / bx55 / ux22 pages byte-identical vs Nov 25 (lineup md5 1f48ac18cc584f30c28bef46e7f395df; bx54 2e4bbec080b007c7154da71926d64e40; cx20 1255f35048508f77925a0b102df9f87a). BX-55 Random Booster Vol.12 / UX-22 Vanish Lucifer WW still HTTP 200, 発売 2026-12-26 — not added; BX-58 / CX-21 / BX-59 / CX-22 / UX-23 still 404; BX-57 is 3on3 deck case (tool) not a part. Wiki List of Beyblade X products (Takara Tomy) revid still 654085 / 2026-11-22T08:43:03Z, wikitext md5 68fc13ecfd9b3a9122287bed1e1facc7 identical vs Nov 25. HK shop-confirmed 2026-11-26 HKT: BuyMarketToy UX-03 still listed HK$99 but schema.org/OutOfStock (was InStock on 2026-11-25; LD+JSON Offer availability OutOfStock, sold-out badge 售完). No shop-confirmed in-stock sealed price cuts vs Nov 25. HobbyDigi BX-52 still 140 InStock; MayToys BX-54 still 119 InStock; MayToys CX-20 still 498 InStock; GCS BX-52 still 130 InStock, BX-54 still 120 InStock, CX-20 still 499 InStock; Club BX-52 still 140 InStock; BMT BX-52 still 145 InStock / BX-54 still 260 PreOrder / CX-20 still 750 PreOrder / BX-56 still 85 InStock and other BMT price anchors unchanged (CX-19 79 / 3-pack 235, CX-14 125, CX-15 79, CX-17 115, BX-23 195 InStock, CX-11 PreOrder 250). Shopify in-stock anchors unchanged vs Nov 25: Moonroad BX-52 still 130 InStock, Moonroad BX-54 180 available=false, Moonroad CX-20 699 available=false; AnimesPro BX-54 現貨 variant listed 129→107 but available=false (not treated as shop-confirmed in-stock; sieg hkdMin stays 119); AnimesPro CX-20 現貨 variant still listed 467 available=false; BG BX-52 198 InStock, BX-54 168 InStock, CX-20 728 InStock, BX-53 749 available=false; Incubase BX-52 149 InStock; UP-NEXT BX-52 official 229 缺貨, parallel 229 InStock qty 5. hkbeybladex 1139 offers / 175 models / 293 cards vs Nov 25 1124/175/292; aggregator-only BX-53 floor HK$311–1088→680 and BX-52 floor still HK$113–198 not treated as shop-confirmed.",
     "currency": "HKD",
     "priceDisclaimer": "All HKD values are estimates (sealed retail anchors, MSRP-derived, or unknown ranges). Never treat as verified live listings. Meta shifts.",
     "viabilityNote": "Tiers mapped from BEYWATCH.GG: beywatch X→S, S→A, A→B, B→C, C→D, sparse/?→Unranked. usagePct = BEYWATCH pickRate × 100.",
@@ -41,10 +41,10 @@
       "Low Orb",
       "Level"
     ],
-    "updatedAt": "2026-11-25",
-    "metaAsOf": "2026-11-25",
+    "updatedAt": "2026-11-26",
+    "metaAsOf": "2026-11-26",
     "usageSource": "BEYWATCH.GG /parts/__data.json pickRate",
-    "usageScope": "4028 tournaments / 11758 top-three / 37974 combo slots; lastDate 2026-11-15 (UNCHANGED vs 2026-11-24 refresh 4028/11758/37974 lastDate 2026-11-15; dataUpdatedAt still 2026-11-17T21:10:50.617Z; MD5 a999a5341d63ad1c11c3253b5b8963b6 identical vs Nov 24; size 96016 unchanged; direct curl HTTP 200)",
+    "usageScope": "4028 tournaments / 11758 top-three / 37974 combo slots; lastDate 2026-11-15 (UNCHANGED vs 2026-11-25 refresh 4028/11758/37974 lastDate 2026-11-15; dataUpdatedAt still 2026-11-17T21:10:50.617Z; MD5 a999a5341d63ad1c11c3253b5b8963b6 identical vs Nov 25; size 96016 unchanged; direct curl HTTP 200)",
     "topLockChips": [
       "Valkyrie",
       "Emperor",
@@ -1773,7 +1773,7 @@
         "Luster Dragoon 6-60 LC"
       ],
       "scoreBase": 40,
-      "priceNote": "Japan streeted 2026-10-10 (TT bx52.html). HK sealed 2026-11-25 HKT shop-confirmed: Moonroad starter still HK$130 有貨 (moonroadhk product.js available=true, price=13000); GCS still HK$130 InStock; The Club 【組合】 still HK$140 有貨 (InStock); BuyMarketToy local in-stock listing still HK$145 InStock; Incubase still HK$149 有貨 (product.js available=true, price=14900); HobbyDigi HK$149.90→140 InStock (LD+JSON/itemprop/og price=140, schema.org/InStock); Battleground still HK$198 有貨 (bgtcg product.js available=true, price=19800). UP-NEXT official HK$229 缺貨, parallel HK$229 有貨 (qty 5). Loose unknown.",
+      "priceNote": "Japan streeted 2026-10-10 (TT bx52.html). HK sealed 2026-11-26 HKT shop-confirmed: Moonroad starter still HK$130 有貨 (moonroadhk product.js available=true, price=13000); GCS still HK$130 InStock; The Club 【組合】 still HK$140 有貨 (InStock); BuyMarketToy local in-stock listing still HK$145 InStock; Incubase still HK$149 有貨 (product.js available=true, price=14900); HobbyDigi still HK$140 InStock (LD+JSON/itemprop/og price=140, schema.org/InStock); Battleground still HK$198 有貨 (bgtcg product.js available=true, price=19800). UP-NEXT official HK$229 缺貨, parallel HK$229 有貨 (qty 5). Loose unknown.",
       "code": "BX-52",
       "notes": "Takara Tomy left-spin BX Expand Blade (Japan street 2026-10-10). Uses a separate 6-60 ratchet; not ratchet-integrated. First BEYWATCH sample: 12 games / 0.1%, still Unranked.",
       "shorthand": "Luster / LD",
@@ -1802,7 +1802,7 @@
         "Sieg Superion 0-70 LP"
       ],
       "scoreBase": 68,
-      "priceNote": "Japan streeted 2026-11-21 (TT bx54.html 2026.11.21 release; view_timer end 2026/11/21 12:00 already passed; official manual live). HK sealed 2026-11-25 HKT shop-confirmed: MayToys HK$138→119 InStock (itemprop price=119, schema.org/InStock); GeneralCardShop still HK$120 InStock (LD+JSON price=120, schema.org/InStock); BuyMarketToy still HK$260 PreOrder (schema.org/PreOrder); Battleground HK$168 InStock (bgtcg product.js available=true, price=16800). Moonroad listed HK$180 but product.js available=false (title still 11月預訂). AnimesPro listed HK$129 現貨 variant but available=false. Loose unknown.",
+      "priceNote": "Japan streeted 2026-11-21 (TT bx54.html 2026.11.21 release; view_timer end 2026/11/21 12:00 already passed; official manual live). HK sealed 2026-11-26 HKT shop-confirmed: MayToys still HK$119 InStock (itemprop price=119, schema.org/InStock); GeneralCardShop still HK$120 InStock (LD+JSON price=120, schema.org/InStock); BuyMarketToy still HK$260 PreOrder (schema.org/PreOrder); Battleground still HK$168 InStock (bgtcg product.js available=true, price=16800). Moonroad listed HK$180 but product.js available=false (title still 11月預訂). AnimesPro 現貨 variant listed HK$129→107 but available=false (not used for hkdMin). Loose unknown.",
       "code": "BX-54",
       "notes": "Takara Tomy right-spin BX Expand Blade (Japan street 2026-11-21). Hasbro name: Suppress Superion (G2745, Aug 2026). Uses a separate 0-70 ratchet; not ratchet-integrated. Wiki weight 40.0g. Stock bit Low Point (LP).",
       "shorthand": "Sieg / Superion",
@@ -2800,7 +2800,7 @@
         "Force + Heavy"
       ],
       "scoreBase": 52,
-      "priceNote": "unknown loose — included in CX-20 Customize Set C. HK sealed set 2026-11-25 HKT shop-confirmed: MayToys HK$538→498 InStock (itemprop price=498, schema.org/InStock); GeneralCardShop still HK$499 InStock (LD+JSON price=499, schema.org/InStock); BuyMarketToy still HK$750 PreOrder; Battleground HK$728 InStock (bgtcg product.js available=true, price=72800). AnimesPro 現貨 variant listed HK$499→467 but available=false; Moonroad listed HK$699 but available=false.",
+      "priceNote": "unknown loose — included in CX-20 Customize Set C. HK sealed set 2026-11-26 HKT shop-confirmed: MayToys still HK$498 InStock (itemprop price=498, schema.org/InStock); GeneralCardShop still HK$499 InStock (LD+JSON price=499, schema.org/InStock); BuyMarketToy still HK$750 PreOrder; Battleground still HK$728 InStock (bgtcg product.js available=true, price=72800). AnimesPro 現貨 variant still listed HK$467 but available=false; Moonroad listed HK$699 but available=false.",
       "height": 65,
       "protrusions": 3,
       "usagePct": null,
@@ -4148,7 +4148,7 @@
         "Luster Dragoon 6-60"
       ],
       "scoreBase": 40,
-      "priceNote": "acquisition via BX-52 starter — HK sealed 2026-11-25 HKT shop-confirmed: Moonroad starter HK$130 有貨; GCS HK$130 InStock; The Club 【組合】HK$140 有貨 (InStock); BuyMarketToy local listing HK$145 InStock; Incubase HK$149 有貨; HobbyDigi HK$149.90→140 InStock; Battleground HK$198 有貨; UP-NEXT official HK$229 缺貨, parallel HK$229 有貨 (qty 5). Japan street 2026-10-10. BEYWATCH games=0; usagePct null.",
+      "priceNote": "acquisition via BX-52 starter — HK sealed 2026-11-26 HKT shop-confirmed: Moonroad starter still HK$130 有貨; GCS still HK$130 InStock; The Club 【組合】 still HK$140 有貨 (InStock); BuyMarketToy local listing still HK$145 InStock; Incubase still HK$149 有貨; HobbyDigi still HK$140 InStock; Battleground still HK$198 有貨; UP-NEXT official HK$229 缺貨, parallel HK$229 有貨 (qty 5). Japan street 2026-10-10. BEYWATCH games=0; usagePct null.",
       "mech": "Low Cyclone (LC); official stock Bit for BX-52 Luster Dragoon",
       "notes": "BX-52 stock bit (Japan street 2026-10-10). BEYWATCH games=0; Unranked / usagePct null.",
       "usagePct": null,
@@ -4177,7 +4177,7 @@
         "Suppress Superion 0-70"
       ],
       "scoreBase": 40,
-      "priceNote": "unknown loose — included in BX-54 Sieg Superion booster. Japan streeted 2026-11-21. HK sealed booster 2026-11-25 HKT shop-confirmed: MayToys HK$138→119 InStock; GCS still HK$120 InStock; Battleground HK$168 InStock; BMT still HK$260 PreOrder.",
+      "priceNote": "unknown loose — included in BX-54 Sieg Superion booster. Japan streeted 2026-11-21. HK sealed booster 2026-11-26 HKT shop-confirmed: MayToys still HK$119 InStock; GCS still HK$120 InStock; Battleground still HK$168 InStock; BMT still HK$260 PreOrder.",
       "mech": "Low Point (LP); detailed public mechanics not yet established",
       "notes": "Takara Tomy BX-54 stock Bit (Japan 2026-11-21); also Hasbro G2745. Detailed public mechanics not yet established.",
       "usagePct": 0.2,
@@ -4206,7 +4206,7 @@
         "Sieg Superion 0-70"
       ],
       "scoreBase": 42,
-      "priceNote": "unknown loose — included in CX-20 Customize Set C. HK sealed set 2026-11-25 HKT shop-confirmed: MayToys HK$538→498 InStock (itemprop price=498, schema.org/InStock); GeneralCardShop still HK$499 InStock (LD+JSON price=499, schema.org/InStock); BuyMarketToy still HK$750 PreOrder; Battleground HK$728 InStock (bgtcg product.js available=true, price=72800). AnimesPro 現貨 variant listed HK$499→467 but available=false; Moonroad listed HK$699 but available=false.",
+      "priceNote": "unknown loose — included in CX-20 Customize Set C. HK sealed set 2026-11-26 HKT shop-confirmed: MayToys still HK$498 InStock (itemprop price=498, schema.org/InStock); GeneralCardShop still HK$499 InStock (LD+JSON price=499, schema.org/InStock); BuyMarketToy still HK$750 PreOrder; Battleground still HK$728 InStock (bgtcg product.js available=true, price=72800). AnimesPro 現貨 variant still listed HK$467 but available=false; Moonroad listed HK$699 but available=false.",
       "mech": "Metal Taper (MT); official in-depth mechanics not yet published",
       "notes": "Takara Tomy Custom Line bit; Japan debut CX-20 2026-11-21. Counterpart of Taper.",
       "usagePct": null,
@@ -5784,7 +5784,7 @@
       "shorthand": "Force",
       "hkdMin": null,
       "hkdMax": null,
-      "priceNote": "unknown loose — CX Metal Blade in CX-20 Customize Set C. HK sealed set 2026-11-25 HKT shop-confirmed: MayToys HK$538→498 InStock (itemprop price=498, schema.org/InStock); GeneralCardShop still HK$499 InStock (LD+JSON price=499, schema.org/InStock); BuyMarketToy still HK$750 PreOrder; Battleground HK$728 InStock (bgtcg product.js available=true, price=72800). AnimesPro 現貨 variant listed HK$499→467 but available=false; Moonroad listed HK$699 but available=false.",
+      "priceNote": "unknown loose — CX Metal Blade in CX-20 Customize Set C. HK sealed set 2026-11-26 HKT shop-confirmed: MayToys still HK$498 InStock (itemprop price=498, schema.org/InStock); GeneralCardShop still HK$499 InStock (LD+JSON price=499, schema.org/InStock); BuyMarketToy still HK$750 PreOrder; Battleground still HK$728 InStock (bgtcg product.js available=true, price=72800). AnimesPro 現貨 variant still listed HK$467 but available=false; Moonroad listed HK$699 but available=false.",
       "pros": [
         "Official CX Metal Blade (wiki 27.5g) from Customize Set C",
         "Stock PhoenixForce WHM-65MT is official Balance; TT copy highlights metal on blade, ratchet, and bit for heavy attack and defense"
