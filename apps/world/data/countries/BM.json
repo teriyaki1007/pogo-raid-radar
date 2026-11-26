@@ -1,7 +1,7 @@
 {
   "iso2": "BM",
   "name": "Bermuda",
-  "updatedAt": "2026-11-26T23:05:57+08:00",
+  "updatedAt": "2026-11-27T05:08:15+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "The forecast calls for sunny days in Bermuda",
+      "source": "TravelPress",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95VWlCZVlpLUo5ZkdyemF5YW1WRTBJYlVwU0RyMm9LQ01rZE5DeVVXbEIyYVE0eVc1YUtENXctdjdNX2Y5TzBmbmg2NDA2cVNTNlBvWS1XUW5hOFp3TENCZGY5dDR2Z2VyN3JYVnZEejVfUDc0b0xla3ZmMWNmdw?oc=5",
+      "publishedAt": "2026-11-27T02:40:10+08:00"
+    },
+    {
+      "title": "Venezuela calls Bermudian company’s mine ‘national strategic asset’",
+      "source": "Royal Gazette | Bermuda",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYVc4T3JWa1gzaDMtZExaZzBKUHhSVXVTdDh1cll5S0RaSVEtUmtrUVVFcjl3ZlVFclRnbFNWdHRZaHNoZDg5NURxZDNBYVI3bzNWV0FUN0FZUjM2ZTZZbHZESUg2TmprMWJpVVFDSzB0UjVqSUs2OWZ2VzhtM216cHE5cE9UUm43RmtaQXJMSW5sWEpSRDBvWnZNNlNVSXljMExmYmNPem1naU1BdEhwZVJybmg1WXdNdXpBdnZEcVduYUFyT0RwT0hyTmg0SlE?oc=5",
+      "publishedAt": "2026-11-27T01:47:05+08:00"
+    },
+    {
+      "title": "More flights, more rooms: Bermuda’s “thrilled” with Canadian market growth",
+      "source": "Travelweek",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMVhDQ05xb0NLcjc1NElSMGcyQTZQcEZzRUh5SnMxSTBSNEloSmtvODNfX3VZcEw5aXNLd3BUbWRWX1NEcDlpazc4MVFfbkpoUHBjOUxnWk8wQlg0ejBqZkZCZk5iUTRYSzJsdGNMeDJHY2RJWlJhN1F6R3dQcnJ5QnFjNDd1dV9KblpaMXNtbTdlZFgzZGZfeElUZVluM2ZfQjBr?oc=5",
+      "publishedAt": "2026-11-27T00:22:24+08:00"
+    },
+    {
+      "title": "Bermuda schools netball champions crowned",
+      "source": "Royal Gazette | Bermuda",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOFNtaVQxVElJNlctdGJaaE9EbV94Zkd4aE9CeXcyVEV0TUJQdDRrYXVkRUxWMXl5dmh1VzlreElNdGEzVnBJZVZjT2JLR1NFX2RJY0IybXhXWnVWTzVNMUV5eEloZG1wWm5ZaVRSLXlZNUQ2ZDdSMjE1RVZMMEo3aVMyWU9acC1DYXhmTEZrWTZaaUJrekJZU1h5OGp1VW5meFl5eA?oc=5",
+      "publishedAt": "2026-11-26T23:50:11+08:00"
+    },
+    {
+      "title": "Bermuda’s Pink Forecast highlights Canadian growth and hotel expansion for 2027",
+      "source": "Pax News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObWpCclVqZnhHdmpGbzlFelVSdUNDV1cyTnZZalFYd1pLMzhNb29PSFJOZDVULVV3bTFlRzlTTWo0TndoVGRZODNWX3BWNGU4VFU3X2lJNWxVN25Uc2tPSThldk5oQ2N5bHRGTzRXd2phTVMxSnZrSDJtdDZwYmVYX2J2Y3dwbkxKNnNqbGNFTHU5RWZfSjdBaW8xbm8ydzh0bjl1dGpYMy04RXBsNmx3dzN4aXM5VGFU?oc=5",
+      "publishedAt": "2026-11-26T23:19:11+08:00"
+    },
+    {
       "title": "Truck crashes into wall, fire hydrant near Silverado Ranch, Bermuda",
       "source": "FOX5 Vegas",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUFdaTDh2QkduMDNyenFFUTNvWVd4eTIydE5qeWtIS2NlTzMtY3lyZWpfd0k3T18xM1BhMnFWai1EOV9CMlFJdVJncHFWSUU5UUZxM1NGWVFYMjB3REsteEZCMXc4S1phTk5IakRTRGJpaWdhN29nR0M0RkwydDUtTjNlZU9hRHNwU2xTalpsSUhkMWRxUjdKNEZCZmppTkJtT05BTkhB?oc=5",
@@ -45,37 +75,7 @@
       "title": "Transamerica Life Bermuda expands DIFC presence",
       "source": "Government of Dubai Media Office",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHBvM2dhUG96RS1GZG9WRnpubWtYWm9LU3RGQUc1dFlXOXNuVEs4bUFlbnlDOTROTzVIamdRRmJraFRVTlFwV0ItX2tvbGVTQmpvZjZ4bEJ6NkE5cW50TmR5ZGo5Q2VLR1RieWVJem9yWXlnUU9oeU4tU2xuaU1XeDZRSGNCRUdBRDU3ZWFJSWFHbmU3b2VvZnhlN2xRQzA?oc=5",
-      "publishedAt": "2026-11-26T20:47:03+08:00"
-    },
-    {
-      "title": "The forecast calls for sunny days in Bermuda",
-      "source": "TravelPress",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95VWlCZVlpLUo5ZkdyemF5YW1WRTBJYlVwU0RyMm9LQ01rZE5DeVVXbEIyYVE0eVc1YUtENXctdjdNX2Y5TzBmbmg2NDA2cVNTNlBvWS1XUW5hOFp3TENCZGY5dDR2Z2VyN3JYVnZEejVfUDc0b0xla3ZmMWNmdw?oc=5",
-      "publishedAt": "2026-11-26T20:36:34+08:00"
-    },
-    {
-      "title": "Bermuda Reach Two Squash Semi-Finals",
-      "source": "Bernews",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sbWJKWmpYNDh4SHVQZnllbnk2Qk1PWWFsOTlvOGhNMmVpTVQycFRGbVFod2gySWFOcExzeHpPNmNWOU9uRnd6RHNWVEZqN0djVG9aLWczTEtKUmN3cUZMekRZUTNTNHhJR3BrMERTTHRuOVk?oc=5",
-      "publishedAt": "2026-11-26T19:44:48+08:00"
-    },
-    {
-      "title": "Bermuda Looks to Build on Canadian Growth with New Strategy, Destination Brand",
-      "source": "Travel Market Report",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTXRyTlNVay1VbThmcWdaYVFhRVlUbVkzYWNIa05tUTl6SHlob3A2V2xoVmVSSUI4ZTRoM2JReWFGRzg5WXVKTDZScWZyVUNQZnU3RWREZFBhNmEwS1YtdzR3M3VwdXFvVTA5R1Z6RW1iSVRhVlJSZnRqa056dVhlcXBURTk0aGZldC1yRl9NRXRoM2RUWWZtUmI4R3lCWG9rOFp4UmxsbDctWndBZEwyMUlLdXV1a0JjWThpcTdOeUdoSWJEUjR5OW9NLXM?oc=5",
-      "publishedAt": "2026-11-26T19:43:57+08:00"
-    },
-    {
-      "title": "How will BermudAir fly from New Haven to Bermuda if Tweed Airport doesn't have customs services?",
-      "source": "Howl.Link",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBhOUdzb0ZuTEZNcjVwWFU0RlpGc0s1dHozdFQ1dW14d3cwbDJqYVJsVVEtSTUxbWtBc0xz?oc=5",
-      "publishedAt": "2026-11-26T19:31:09+08:00"
-    },
-    {
-      "title": "SALLY GODET Obituary (2026) - Warwick, Bermuda - The Royal Gazette",
-      "source": "Legacy obituary",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTVNBaktrUmg2eVRZczZydTRzbTMxRzdUSWNwVkNia1NfT05vZ041Nm84bHpZVWFEdGxja1J2akNnV3U2MkVySU9vTTNxX3NFdzE2d05ZaWE0ZGF5RkdQZFluVmRHdWZ2M0NHMXNyY0kzdnZiUjBTWEh5LU1JOUNiRmN1Y0Q1OEZURWhrV1FnR1I2aWNT?oc=5",
-      "publishedAt": "2026-11-26T16:31:08+08:00"
+      "publishedAt": "2026-11-26T20:56:03+08:00"
     }
   ]
 }
