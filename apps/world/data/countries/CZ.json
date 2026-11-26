@@ -1,7 +1,7 @@
 {
   "iso2": "CZ",
   "name": "Czechia",
-  "updatedAt": "2026-11-26T11:03:57+08:00",
+  "updatedAt": "2026-11-26T17:06:31+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "From work to everyday life: AI use in Czechia surges in just one year",
+      "source": "Expats.cz",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkg1Z0pxT3lEX1E3RGg2MFBlVzJ2NTJQZ3dNRDY3Q1pDZUxoTy1BMHQ5THhSQ1NNa3NqQjdnVDdzcE9Yc3RHaGc3bzhaZ0txZExhV1pZLS1OaW5Rbi1HRWtNY0dDLWlzY1BKWjc3aU52bXFheUZnbm0wbjA5UU9lX3BEcHhVUDJENHR0cWZqTWRPeUpzaVo4OWtOaVpwUktjRVF0NjZFUUI1UzVxemc?oc=5",
+      "publishedAt": "2026-11-26T16:08:00+08:00"
+    },
+    {
+      "title": "Germany's Aluminium Exports to Czechia Rise 1.94% in 2026",
+      "source": "AL Circle",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeThrNDhYaVpDYm1TN0VCQVVLNTRBYWluTkRUZGtxR0RrTllVMDRranJoU0NpM2E1Z1VqSDlSdXJ0SF91Mkp2TkJDSzNuU29zNUZBTXRVYk8wMVBONzZoLWl2c2N3X2ZIU1NpRXg1VjBpbTd4UC0zbDFOOWY2d0JlYzliMWxHOWs4SWdoREJ3QUowSnVQclhXYU8zcFRkeHYyczhfNEhadU1lX21NMUx5azF6dnEyUWZ4ZFU0Mjk5VS1CbHJEaTdOUzNGaENELTNUNGlHRg?oc=5",
+      "publishedAt": "2026-11-26T15:07:09+08:00"
+    },
+    {
+      "title": "Celebrate and dine: 15 spots serving Christmas menus across Czechia",
+      "source": "Expats.cz",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYnRjU2JQUjhUdWd1UC1UQ29zRkFrS3N4am5RQ2ZOajZvYzBXcXVPOVBVMkZyTDVxZnFLNHdMRjNJZlMtMDROSFYyOWx4VlpDdExMNzMwYXJJa3pvUk1qeVl0cFBrN3p2T0ItNm82c3oyV3RwZUxXRmlEYWhLbjFGa3JTTllZNmlWWjhESlZjbGRBOTZCa3gxamJaSFIxWDA?oc=5",
+      "publishedAt": "2026-11-26T15:00:00+08:00"
+    },
+    {
+      "title": "Rick Steves Says A Fairytale Spot In Czechia Offers The Quaint Small-Town Europe People Dream To See",
+      "source": "Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQkFJSmNWdVJZUVNYakVUYWhVYVNUaUVnM2NYbVRqZkJwSFZxSk5zM3RMOFU4Z2toeVlDUENXNmwtOVNvZk40VXloVlZ3VVZBRlQ0dGRSUnI4amdFQU5IV3VnYXlBQWJGS1J0VHBrU3ZnME9ZdFNtV3lNQUlaenJxLUZqNEpubjloMHhuM0Y3QUg?oc=5",
+      "publishedAt": "2026-11-26T12:45:00+08:00"
+    },
+    {
       "title": "Czech Republic sends tanks, infantry fighting vehicles to Ukraine",
       "source": "Yeni Safak English",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZlZ0M0paNTZOSVp2NDR5OERBb1pNWHB0N2UyUVBIVG5CX3U2ZVN4RHBnVjVRN1FycXJoM0FtNlVWaVY0ck1iRDBmYTVld2E3anR0Z045SWUxbmtMZ2o2VGNqdlctd09OX0JQMWE5REQwMzJLMmY5cmRJdmZXVUFXSUs5OW1OWXJXSnRjTUZtZ0cyQUFacnlOcVBkSHNoTXJYZDJ6WkpB?oc=5",
       "publishedAt": "2026-11-26T07:41:10+08:00"
+    },
+    {
+      "title": "Czechia selects Wultra-led consortium for Valetka digital identity wallet",
+      "source": "Digital Watch Observatory",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tNHVNWVR5cmNLYjBqSUpjUnJ0Q2tidnVUVE9BVXlxNzFGMnBLN2RJRG9NeGdINVlOQU9oakx4eGVORFJfZGdVcWR6RFJnSWUtc2dHcEhWSkltQXhnWE9YNmdLekc4MzBwbVIxeS00T1FtTVpXWmxZSXhn?oc=5",
+      "publishedAt": "2026-11-26T05:38:00+08:00"
     },
     {
       "title": "An AI granddaughter named Eliška has been launched in the Czech Republic to help elderly people",
@@ -46,36 +76,6 @@
       "source": "Corsicana Daily Sun",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdEZxN29fczhqSUttZkY1clVibjNYMnB0djVkamRLcVJPM0pDSlJ1ckpjc0VFM2IzT3lSRzltWHZLTnJSY09ERWNaRXZpdWZLY2ZpbUVscGJMWEQ0WG1IYXNURVZKY3JQQ2xVM2JlOFVJcjZTTXhqLXlvMDh1cWlVanVpN2dmd0R5V0dBX3ZLM2VkV0ZwQl9jSFNmUE5mWnpsVTc2cm5UUV9mbWRKWnJ1RG81a3phUTBIb2RWeXViVmZycUNVOFBOWGhjWTFQN2J4TlE?oc=5",
       "publishedAt": "2026-11-26T03:50:02+08:00"
-    },
-    {
-      "title": "Czechia v Canada: Preview",
-      "source": "Davis Cup",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwNlNVb3dQR1JVbDg3dk1CNG5hN0JXOENweFU1ZFVHWTJESlpBZm5wc0RTVDdrdkJZZWZzekNwQzNqemlFenU3Y0J2cDZvY0dOdWRLTTluSlRqa2VHV1lPZGFwdmU2cWRw?oc=5",
-      "publishedAt": "2026-11-26T03:28:38+08:00"
-    },
-    {
-      "title": "Czechia beat Canada 2-0 in Davis Cup doubles in Bologna",
-      "source": "Sofascore",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd3U1amlZTGk4aGQ0V1JfaC1Ib0t4NENKOFhERDhjZkxtTTk3X05ldVc3UmtKRncyNjZpd1pUTmxuUUlDZlJndFVHcmRmcHhEQi00d3NCcjJsdjlKWElwdmVhT0ZVQmNjN0hVUWIyTVVHZzlsNXRuSDlzTHhVeWhOenNfVnRrUnFGcnVVbFcwVQ?oc=5",
-      "publishedAt": "2026-11-26T03:25:11+08:00"
-    },
-    {
-      "title": "Czechia eyes team sweep after BJK Cup triumph",
-      "source": "Davis Cup",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wVGFQdWdWWkh2bG1tVk5ZMUlXM2tIWG13S0pDbEhWVW1UQncycE0wQmsyNjRMbVlJZXB0elU5T29JVHN4dzVsZzJOcy1Sdnp5YTJoam1BN2dIbEliRTR3cDhwX2pRcDlfMXg2UHlBQ2pfbWs0UHc?oc=5",
-      "publishedAt": "2026-11-26T02:05:18+08:00"
-    },
-    {
-      "title": "Video. Grand Voyager | Exploring the Czech Republic",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3NpcGFOeVRka09VQmJxcHRHbTBwSUJLVG1peEQzVzFDMWxDUTNTRUpQQ2RGR2xTbWpOQVhsZkpPN1VEQU8tNG5qSEVDcVpJZ1lkN1hqNFEtMUdXMzBudkF3SGt0aE54TWRQaU1MX0pweXZvLVlpSHFpVVAtckcwVmlpSWx4TUFaTUl1TWxnZTN1TjlHRlBHaHgxd2RCOFlwRHdIT2hkMGM?oc=5",
-      "publishedAt": "2026-11-26T01:00:51+08:00"
-    },
-    {
-      "title": "Grand Voyager | Exploring the Czech Republic",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDdZVk51M2l5dl9keHR2aEdocVRzOGgwM3dBWHZCbl9oUFg0RmY2UHpTSUEwOUNzSlBiUHprcVJMU2E5cW4wUElScmtqLUR4TTlFdWdsZ0ljOHpJVVVwaWVoLVpjQm03VFlNSnBMdXo2NGs1WHJWVFh3TVBlWUVyZTBxNWN5amdfbnMzRW8tYmlHUmpVczhMeldNWGNZZlZ3?oc=5",
-      "publishedAt": "2026-11-26T01:00:51+08:00"
     }
   ]
 }

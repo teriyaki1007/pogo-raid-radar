@@ -1,7 +1,7 @@
 {
   "iso2": "GI",
   "name": "Gibraltar",
-  "updatedAt": "2026-11-26T11:03:57+08:00",
+  "updatedAt": "2026-11-26T17:06:31+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,36 @@
   ],
   "headlines": [
     {
+      "title": "Minister Cortes Represents Gibraltar At Westminster Prayer Breakfast",
+      "source": "Your Gibraltar TV",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeWRzbXowMWtkT3VQWlo1X3VvanphcDliOVM4TWRISzM4ZUQ0YVpfUHY4b2w5VUZ2VjJ1c0NjbGxQaTNxUDFZZlZiWllpc0VJZFFwdm1DdHlSNHh6Z2xQQ0tpRV9jekxCNDZrQ09xSUNKTk14eWJUclNtXzh5ck15TDdzZXRDTlFvQ01hWXNoaHRvNTVCLVM0RzB0QU1VUE5Fc2ZFdVBONGtUdw?oc=5",
+      "publishedAt": "2026-11-26T16:57:46+08:00"
+    },
+    {
+      "title": "Freedom Of The City To Be Proposed For Gibraltar’s Two Fire Services",
+      "source": "Your Gibraltar TV",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclZVTTJmaGNGQU10dEZNQThEVC04MEs4WGVhLUs4R0J2TGZPSkJJWUxzM3ZPSVNEUkgtbnRpdWk5SVBYRVV2M2g5MUs4NHh6YlRZZU1TeFBhY1NCdnJ6OGxYZDQ0bl8xcnpONmVlY0RNOWJLYzhCRnNVc0ZrOUlRdWIyWUl6bXpiVXdlXzNyNDJmZ0RETGp5TDZ4SjMyTjlWTkNkMDNyM0I?oc=5",
+      "publishedAt": "2026-11-26T16:32:46+08:00"
+    },
+    {
+      "title": "Heritage Journal launch marks 32nd edition with fresh insights into Gibraltar's past",
+      "source": "Gibraltar Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcTI3QThmb2YxNS1fZml3TFFnOE9SbzNWOEFBS1BkTUNVZHZBZlprMFg1Um5zWVZuMUNxRHRVeG5zLTdFR2dSekxBWmJFSW1fWC16ZndiMDlNYm1YR0xSX1lOblFLb2xVdGNJOTZFMjBDUExDT0loYnI5aFBZSjJkZDl2d2oxZ2ZXNmVmZkRaUGsxcVA5aVFEY0J0cV9JdW43SFJvd1YzeTk5RVNvRUE?oc=5",
+      "publishedAt": "2026-11-26T15:05:31+08:00"
+    },
+    {
+      "title": "Gibraltar’s Great War history back to life at Princess Caroline’s Battery",
+      "source": "Gibraltar Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPako0emZfdnZ5bE5GUUI3QjVWazlWVHgtdzJ5X3Q0Q0VVN3cxRFBDQ1JuOXZKUHhoVXpWZFQ2NF9oclVaN180ODB1ZGpEQTJ2bXFLRy04cEZEM0hpeDZGbmRBN1JFS1JsWGFxWXI5Q0pYeERPWmt5TWxuTVNCNnFiRU1ydDNwX3NPTnFXV3JLYzg3Q3NKLUMyT3RzLXFoZw?oc=5",
+      "publishedAt": "2026-11-26T15:00:28+08:00"
+    },
+    {
+      "title": "Photo gallery of Grosse Ile vs Gibraltar Carlson in an early season ice hockey matchup",
+      "source": "Southgate News Herald",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNHFOVGRZNmphYlRwSmtlWFZGMXBVM3F0VGlLYTAzcEN2MWxXRGFScld2U0VjcXgtbDFvcV9vQlNhOTExYjNZQlFJX0lSYW4yRE1EYTZ6N1dCNzZLdGlZZlZXdWhXQlU0ME44OUNuOE52MFQtWUJDZTF2TmIxVmFwa1ZiU3Vxako2NjROcDZTSnlYeHFxMXBWVDZaaFdobXpGd3lNU2tKbTdOWTNVcEV2azA2V1dXMTh5enNPZTk4WnJHdVRNb1U4?oc=5",
+      "publishedAt": "2026-11-26T13:13:40+08:00"
+    },
+    {
       "title": "Gibraltar Industries, Inc. (ROCK) Stock Forecasts",
       "source": "Yahoo Finance",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTzZWdlFTQkhsel9tUjBNVnNiaVZySWVxVFRQSDhZemdvUzNhRVVNSG5aUExLNWdFLTNFLUJYOWVtWXNCTnpfRmU4UVpaWkVsd0xsMEVSZDR1WGJZeWJBMU5fYnFLOUpzSDlNNmpXekxvOGRLaDd5VkZ1Nm95Z3phRC10ZnN4djBSdXFvVlBIMA?oc=5",
@@ -46,36 +76,6 @@
       "source": "TradingView",
       "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxORUljdm1mZVZITzNRMjh6aW9HNVh2NmdpTXFVVkNhX2NydjFpcC1kNmlVMjJDbTc0RkplMmpDUU9tdFliaURvTUQ2UkJyNUhEbVJEZnpsQ1VVNkFheWFHdE81d1hRb1duOW1kWjl2THFBenB0U0dLTDZHTnFDckNOSm1oWlJSUXZyUnFCV25yWVBUSEJ0ZE1KTGN3T0FqMWhuSi1lQmJkVjNvM3J0YWNHdDlpUE9sSWQ0ZDJqSjcxUW9WLTNrbHNxOC1wQXBsRVR5bUZVa1VsNEwwRW1EemQwY1R0YjZyZ2VDNjZpZzdNYTAxTDNSVTN3VmhWT2VWZVF6clh2SGdCZ05UTmZlWkdTWnBJYVktcURwaWhjNXdLVFdKUVk?oc=5",
       "publishedAt": "2026-11-26T04:15:43+08:00"
-    },
-    {
-      "title": "Britain will wait for final EU guidelines on Gibraltar: May's spokesman",
-      "source": "Yeni Safak English",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmp6SVJXYUc5S28wVGp4Sm1KemZPZlV6MTV4TzVkRUdlazg4eVNPVEJlMHBMQmZSa2hMbnd0X2lWOC14MkZkS2Y4U0FvYmRRTEJBTVMtWWtYNWlUaEFTQ3l5SWQycy1FbTNvUTFWSmlQeVZCX2RKV1h2bUROa0g3YmVPR0FmVmhlZG1FdkJ0QzJvMmFrcVUwM1p2RE5LcFd3NDhqYlVHZ21xQVI0?oc=5",
-      "publishedAt": "2026-11-26T02:06:14+08:00"
-    },
-    {
-      "title": "Gibraltar in talks for direct flights to Ireland, Paris, Amsterdam and more - but passengers face wait until 2028",
-      "source": "Olive Press News Spain",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUmtlUkZVMmtsNkdYd251R0NROUxEMzVJVmtsMFhwb3IzVW1XekFDRkFvTVdETUEzUjJZWTlzcVNPMm5WeHNfLUN6UnI2U1Q4emppNDJVMzd1X1pCbXBTenl1aUpsU09jdEVHbWszQldpb3FPRnoxTHlCeG8xeWt6NDlPazZ3ZldOUk9PTElhUzBRV1NrQTd5WkY2RjBRS3BqbW4wRjRJcUk0cU0?oc=5",
-      "publishedAt": "2026-11-26T02:01:00+08:00"
-    },
-    {
-      "title": "Ice-breaker style €300m superyacht boasting a beach club and helipad linked to British-American billionaire behind Warner Music docks in Gibraltar",
-      "source": "Olive Press News Spain",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQakdVWk43V21VSEs5eWljTDN3SEpYLXB0VDhobW5EaW45dlZBTW40WVRZUUI2NWNiSTRsUzhvT2pGdkJaRGJmTWpOLXlCUjlJVXVEVFNJOGloZHlwZ3RsY3Etc21BcUVPaDA4Q0pzZkNlOUl2UkhIUmVHeE5rWkVwbW1ERlZ0amtLdEc5UUNDMzMtWnV0XzBObTFseVBDUUdHeERvR0JqNnJVdw?oc=5",
-      "publishedAt": "2026-11-26T01:41:00+08:00"
-    },
-    {
-      "title": "Gibraltar marks International Day for the Elimination of Violence against Women",
-      "source": "Sur in English",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeW41TG5PNFFsUUZKekE3bFhoc0hyTUljWkl4SllvdXRNbHBrMndTLVkzcXVGMVhMT2Npc3E1UGEwTE1GWjlYZy1WdXRSMmFBTC1wZnVnY3FEUUJaVWpsX0p6YXotVTVEbWZrMENvbkxtWm8yV1JtOVBQclVOVThrZ3k3YWFpOUk4dm9zQUV3Nkt2NjJZcnVaelA4MERtQlJjc2k5NndsZTB5YlJKR0otNm1scWR6QQ?oc=5",
-      "publishedAt": "2026-11-25T23:30:38+08:00"
-    },
-    {
-      "title": "Gibraltar, Luxemburg-Casco earn all-state honors at theater festival",
-      "source": "Door County Daily News",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zVXdKQnkzdWRJT0xBTHBMN3UyTUxEREdUR1ozTWJyQUZYY2xqbWtIbXd5d2dYS2xlVlM5bFluYVA4WjRmdTFsMUV1X2pEdkg0YnVkZzd3?oc=5",
-      "publishedAt": "2026-11-25T05:46:25+08:00"
     }
   ]
 }
