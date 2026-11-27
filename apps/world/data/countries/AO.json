@@ -1,7 +1,7 @@
 {
   "iso2": "AO",
   "name": "Angola",
-  "updatedAt": "2026-11-27T05:08:15+08:00",
+  "updatedAt": "2026-11-27T11:07:46+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,16 @@
   ],
   "headlines": [
     {
+      "title": "Angola penal code bill raises child abuse sentences to up to 20 years",
+      "source": "DNE Africa",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxbVdCS1VhQUVrOTdUY2ZhZm1WenZsTkJPRFpvOW11M0lLcFEwNGJBaXhaM2F5QUhseE90Y1dlWjJ5NmZzc1gtemN3RmhwNGp4WEhjMXlfMnlZSmxNd1M5eVVB?oc=5",
+      "publishedAt": "2026-11-27T06:16:00+08:00"
+    },
+    {
       "title": "5 Places NGOs in Angola, Cabo Verde and Guinea-Bissau Can Find Grant Calls in Portuguese",
       "source": "fundsforNGOs",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWGI4blJzaUk4QWFuV1ZFRWZHQ1ZLWGtfeE1IZDhyMUdRallMZ2xnNGZQdDcxMkpNeGVIQk8zTzR2U0NwNGxWcEZmNjN3YWtaQkQ3WGtpbF93bUR5cW9rd2hnZXpCcUJfTGFZZURaYjF2M2VCcEtHV1A0Rl9YUUZ1X3Iyb3IxalVNTEhfNzVBME5BT0dtMEFCUXFUTWpfU1JYdW5jVU80aVZEeEVkcjloMGVCMmdGellSQVJwQUZiWmd4TXVKMGplSkVxQzdjTHc1eWFrX3ZQV0pUZXVzcnVlc2JleWhsU2RJVThB0gHwAUFVX3lxTE91NHQ3b0thdEhsaFBzS0kwME1aZ1dwN1d1eDQxT0w4aVh4TzlDQXVENXpXMlZ6Z084NDM2TUR4bGRlRDF1RW1SRlZlT0VJT1liZUhnc1JQTjd1dGdVN0YzZU5uQjhudXRsc3hmNFRfclFJZkVaX0xuNjZ0a0cwN0tiNVpMRmJDV1ZjUHBMd0E4Ti0xekhLbzVubndVSXNTaDg0VmZhYzQ5eUZGSzM0d19UX1hfaGRTNVdYVFZkdG5iaVdwUm5TN3FKUVpFZVlqWGNjMUFhUHN0RTNLb0Y2WXhUNV9BaHFvTEVzcVFaVFg0OA?oc=5",
       "publishedAt": "2026-11-27T04:25:48+08:00"
-    },
-    {
-      "title": "Angola penal code: 20-year terms proposed for child abuse",
-      "source": "DNE Africa",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxbVdCS1VhQUVrOTdUY2ZhZm1WenZsTkJPRFpvOW11M0lLcFEwNGJBaXhaM2F5QUhseE90Y1dlWjJ5NmZzc1gtemN3RmhwNGp4WEhjMXlfMnlZSmxNd1M5eVVB?oc=5",
-      "publishedAt": "2026-11-27T04:21:00+08:00"
     },
     {
       "title": "Ivanhoe Mines taps AI to unlock Angola’s geological archives",
@@ -52,12 +52,6 @@
       "source": "Tribute Archive",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JMVVxRjFxVWdFSG5wSFVDMmJTblNzN0ZnSngtYUx3S2JXZDExZk1yRTZPRHIxakFHUDFKRFJJUktTUER1U2taUmtfUGg3VmVrQXlRSmJzamFGSTF1MUlad3hLSXhTNWwzME1COXBpc2w?oc=5",
       "publishedAt": "2026-11-27T01:13:45+08:00"
-    },
-    {
-      "title": "Angolan street children moved from Windhoek to Berg Aukas centre",
-      "source": "The Namibian",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZFNFaEhlZWt5NXFpbzdNbWtKYTUxcmpJTHhWZ3NfdGotcmQwVkotQ2prYnEzZjVkMzRTWW1jSE94NnNfTGFHcUdXZkxLWmoxaXR1dUpuRnVrc2pHMC1hd0NpbFNSUjR6M3Uza2dnUURKQ2MyNC1WMWxFTjY0WEJZQ2ZyeFRVWUNlYUFORVdPRVJuNDc1blZzMw?oc=5",
-      "publishedAt": "2026-11-27T01:00:00+08:00"
     },
     {
       "title": "Angola to cut January crude exports to lowest since at least 2008",
@@ -76,6 +70,12 @@
       "source": "Mining Weekly",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRnZZQmJKMTVEYWVQbS15bUYzMjN5NGI0SWlXMExxckt0WF9UMDJ0VlFEckl3T0NkRjljT2ZoR0w5bGp2eWdUSEwzSUNONnhNRTZvRVljeUFoQk9jcWNXWW5RTGJLeW9RbHNyTm52dVYwZEFpSldaTjhEQWc4ak1ZeDdOVlpmZjYzRjBPNEZnZDF0bXFFX1dJdTdCeFpOYVpGQWZ3NmducktsTURQT0ExUUNZNEZUeWxZbExGY1VKa201dmNlSkRadVFsSDl0a2JVZE5xWGF0cU10YVdGZGFrbmJoNA?oc=5",
       "publishedAt": "2026-11-26T22:04:00+08:00"
+    },
+    {
+      "title": "Shearwater awarded 4D streamer project by TotalEnergies offshore Angola",
+      "source": "euro-petrole.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVFdWZ2x4Yk1KQ2dib1E5ajdhOUNUWnlhQi1JbkVmRlZWV2cxMmxsSVRmMGxZeWJ6Rzlhcm9ma3BnTEgtRVhJQUlvOFZfYzdla0JzVGhlWENYSmVOalZpYjBNenRDODFTOXAxQlptd3VVSG9wQmlXNmxGQ0lTeUlJcEVNaFRaY1VaSU5iSG8xYkR5NW4tS0xnbjlpMVoydDNaRDltcnBnTkNobVJ1MHpn?oc=5",
+      "publishedAt": "2026-11-26T21:36:40+08:00"
     }
   ]
 }

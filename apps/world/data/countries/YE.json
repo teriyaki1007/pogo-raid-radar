@@ -1,7 +1,7 @@
 {
   "iso2": "YE",
   "name": "Yemen",
-  "updatedAt": "2026-11-27T05:08:15+08:00",
+  "updatedAt": "2026-11-27T11:07:46+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Pakistan to Host Trilateral Talks on Saudi-Houthi Escalation in Yemen",
+      "source": "Yemen Online",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjMnNxbDNzdDUwNUhBcGhTNDFsS0dFcXVYY0s0dmFOcjNINmlzQ3VSSGxDTHlNTGJNempZRVp2Nlp6SXQtbWRzWkk5ajFIUjVVWnc?oc=5",
+      "publishedAt": "2026-11-27T09:57:19+08:00"
+    },
+    {
+      "title": "Yemeni Voices in Paris Call for Internationalising the Yemen File and Reactivating the International Quartet",
+      "source": "Yemen Online",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TajNtT0w0cTRySEZ2MjhzZm9wRmhXM2ptUmRCMjlVakpoa2tzdmdiZGJzSERfTGVNZ3hBTEtxME82YnR6N1dzZHMxZlAyLUlnQ0xRT2UtQUNQUQ?oc=5",
+      "publishedAt": "2026-11-27T08:32:10+08:00"
+    },
+    {
+      "title": "Yemen rebels claim downing US spy plane in Marib",
+      "source": "Yeni Safak English",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPd0stQVFTVmNZSE1CbFpsbXFRdzQ2dlhsdzF6VEMwcFZsbl8zT3luVWNaNTh5SGpxbXZEcW9kU1A0SkdDVTBhR2psY05jQXRhbjU2VHpxR19MYUF1WDdDVVJUUjNsb1lKN05ydEYweG0yQ0NBRS1BN1NscUEycExRalE3MHFRYUxSMnk5MFNEUTc?oc=5",
+      "publishedAt": "2026-11-27T06:54:43+08:00"
+    },
+    {
       "title": "APTOPIX Mideast Wars Yemen",
       "source": "Goshen News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObHh0bkplWVZINmRHYXV5X1FZOW5BUmhoMkVYNGlHa2pRTi1YUE05ZTkyUFdlVEtfMXV5bm5VMnZQLWUzM1RoNDVfcHBiWVhweVdjdHlBREdvdlp1YnF4UTU5d2N5eklWWUZoSXRSRE1OcmVLQWhNZDJ3RXdVTmQ5N3BnQmdXaTh4VUFWZ0NleEFrZWZnZjVndU1taFM4T1FGQ2llZGI4cDc3VWNNLXdLRkdRTjQ0MTk4UW5HUA?oc=5",
-      "publishedAt": "2026-11-27T04:54:35+08:00"
+      "publishedAt": "2026-11-27T05:26:13+08:00"
+    },
+    {
+      "title": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen",
+      "source": "KWWL",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaHBZOWN5dG4wNllpLVlDYzhQYzZXdW0zOXFKM2NRU0o3WW1fVkJaWkZMMnd1eEs4aUh2OU9rUEhCdGFaaEdJU2Y0UW9lVGd5Qm5yLTlWdlM0TTFBOHZFRGpSdmEycWlVeDBBWjFaeDNSeXZEMk1Qb3BDR2lsV0xqZHRhZ2RrM2pZTTBwVG5JVVlKSFFqcUFsaE5CNlp2a2w0NmZqbzl6WlFVdFFUWkVHOFRZcUJTcGVlNmJES2tHWVQ4MDkxZnNFcWtCc0pYRUlBVno3RDJNQnhtMzVfcmpDbVZTdGlRUVEyUVBVaUhxQUpyNHc?oc=5",
+      "publishedAt": "2026-11-27T05:05:33+08:00"
+    },
+    {
+      "title": "Saudi Arabia Launches 109 Raids on Yemen in 24 Hours, Child Killed",
+      "source": "Palestine Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQT1Q1Nnc4YnB5UUU0YjRHZ2Z3NEpYV3NiUXFIWmY3cU1RSVZwY3dYUXVzMjVSZ1NTdzl2MEJDcjFtTW82cV9vOUdYWndVeEU3MkZEcjdVaFBoYWMtclpaajBYb2hNckprTzFGVy1yeC02VnExOS1pVmRGTU83MlhvRHh5YmltYU9qb0NGTWxVT29HbGtuam5uYzlUTklveWdlcjlF?oc=5",
+      "publishedAt": "2026-11-27T04:58:50+08:00"
     },
     {
       "title": "Saudi-led coalition says it destroyed 50 Houthi military targets across Yemen",
@@ -46,36 +76,6 @@
       "source": "Middle East Monitor",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYlhYSEVnQ1pOMkE1LVRaaHc4YURkdXlDRVJtQUkyUzExXzJscUY2MzdpOElhNllGQ3FnN0FjTDBpa1lZWV9sN3JQUHNBUzNXWDlHWEltWjA2TWhpQ3RCc0t5Q2Q3blZVZzNsX19hT0V6akpQeHFoaEY0OGRJSGRNU2hjWXdhUnZGNDZjRkJ5M3JTLW1CTkt5bnZBbmpKVVNFMTB5Wk1oMllLWXM2S0VGaFQ1RlhYYUpzTXhLbWk4b0hfV0tqYkFNZTdfMDNrdEFCNlHSAdcBQVVfeXFMTk41d2RrSlRkZEJGQldLOVFDSXRXMHJ1SXJJVTYtRTVaR3FVTlBhd0tnblE4OU8xZnpZR0k4WnhMMU41UWNBeDZsMUE1TGE4dXhabGlhaHhjTGczelZfRnlENmg0NXVlb0x2ZnQ2Z2lmUEw3ZGp3ZFJvY0ZnU0ZULVVoSGs4TGcwRGFXYWxGcXVNNHlRZF9BUkMyTXlFMjVWTmNocTA5Z3RxdndFcFY4NGFsYTA1NHJSSHJpM2k4dVRNczBmLUkySmppMnNnY2FTOEYwb2JsQVU?oc=5",
       "publishedAt": "2026-11-27T03:52:00+08:00"
-    },
-    {
-      "title": "Yemen exchanges remains of the dead for first time since July — Anadolu Agency",
-      "source": "UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNnY2RnVvYWlsb2hxZ3BqMEZWZ1NZTTFGbEpNR0FXYzlNQ2l0QWZvSHM4NF9LR0hDaFZTU2RJMkdkeGZqQ0ZiNWM4aTF3QVh2ZWJERi1ud0UyS1R2YWxXQkhzOVNHQnhFbWRFUHZzYW1DWThqYjIxcnJqNEFrXzJQSjk3R21ucWtiQnJiUjBLb05LOUcyTGNIRDJTbm9UWDFuaXhNcXVjNmI?oc=5",
-      "publishedAt": "2026-11-27T03:46:21+08:00"
-    },
-    {
-      "title": "Houthi Siege Puts Vaccination of Over 350,000 Children at Risk in Yemen’s Taiz",
-      "source": "ASHARQ AL-AWSAT English",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOeHFTMFRjNTk0WVo0U3lYcUFHZTZxYlBJRFE4Ymh2Y1c5MktoWHBJRUM5T2NzRHFjS2dXeVZNQ1JzakhVeGVaVDdfUHE3UjBVT3F0bkdMUWdxYWdmN3Y5cjc2b1QwZWNWV01GYXpJTjN4WHZMU3ZOekZIY1FyUWlEV1FLdjdCaFBUUXNRU3VfZjdtZFhRSWd6bzJobmx1TlFaZUZXQ0FoTk53VGRhazBlT3Z2Z1dCNDhiRHBmQkZjdw?oc=5",
-      "publishedAt": "2026-11-27T03:29:40+08:00"
-    },
-    {
-      "title": "Yemen on the brink of humanitarian collapse",
-      "source": "CNN",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWWxZUlk2VmNYVHB2a1ptT3RRWlRuRFA1MExuT1VQVnZnNDBleEFhNDM1Q3p2eDFEcGo2ZDVIYmlXaDg4Q0xUVjdSU0Q5RkQtcDBMNnVrT2RiMjF6aDNvNlJfMVpyY3dHVEducFVHektGdXJkTi1nYm01RWpHTG9RT3BXenJHckFuanNLcWJLSzU2dG9fZEdWSzY3QlZzOGZkcm45R1ExcHBmSGotNkp5LWFFb1Y3Ykt1dlBz?oc=5",
-      "publishedAt": "2026-11-27T02:45:49+08:00"
-    },
-    {
-      "title": "‘Dawn of Yemen’ Conducts 767 Strikes Against Houthis",
-      "source": "Al Arabiya English",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSEdXbGVlczRIbEJUZ2hEbFppT2JqOXlNTzZGSnBFNEEtSUwzajFIWjI2Z2VrTnluS3NNakIyaF9fTUlWYVh1VFJTd1ZxbG5CeFZCYjFJMG5ENXVzbjZxMVU0T1hjdGFPcDNaQ2RIYURZZERkYmRoMDVTVUJWNXRlT3IzNWJPZUI3aXIwTHM3X1YxZ0ZrbWowMWViU0VGTVl2ZGdfQXBwWdIBrAFBVV95cUxOOGNoVzhwRHI5UG14MTM1SmpTLVM2a1oyX3ppek9jR01CX3lWVUQ0OWVqVW1STmxlNUtEUzVoMDJadldBWTlVNTA3dl9kX09ocnhUQWhGSFh3R0pOaU5fNEVENFhMTWRIWlZka2l2endabTJaSmlabC15d2F4el9zekdyenF0UHA3WUx6eGktRDVCSDQzcXo4WDRHSF9oYnpadGNQME5tRmZVaVlF?oc=5",
-      "publishedAt": "2026-11-27T02:25:32+08:00"
-    },
-    {
-      "title": "Yemeni army reports 767 operations against Houthi forces, claims 117 killed",
-      "source": "Arab News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdjFWMWI0X1VYRjRmSmdNRnVFdEhnVzJCWE85ZGhPQ0p6M0FaT2o4UWNmLXhTclRHd1llanNOb2JBeDNmQzJfUmQ0RjBwcDNXRjlYbENkNlgtX0FVLXdTWjVwcnlxMm8yMHd5eDFVMzZZM1FZV1JEOVh5ZmtPMUc1TllNRHlsX1hKV3V0Z09RR09ldndnNUVBVFhzWi1zMjRtRjZ3VEhiY1VFcnJ2ZUpsbDJqTEhQRl9BczNv?oc=5",
-      "publishedAt": "2026-11-27T01:45:10+08:00"
     }
   ]
 }
