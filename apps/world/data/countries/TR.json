@@ -1,7 +1,7 @@
 {
   "iso2": "TR",
   "name": "Türkiye",
-  "updatedAt": "2026-11-27T11:07:46+08:00",
+  "updatedAt": "2026-11-27T17:11:28+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,28 @@
   ],
   "headlines": [
     {
+      "title": "Ankara pushes ‘Made with Europe’ strategy in press tour",
+      "source": "Hürriyet Daily News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdTVrLWZCUjUxZzNqbGtaZUM5dzJxX3hhSUdHczdOeGV5TjljX0pIRGNJQ1JDT2pIMWRTd1B4TTh3MUk4WDFJdzItUWJhLTNWWXNNemJTWVI3UGRxWGNjTjQ1WjEtS3IwSFJCNWhBbHRFeURYYzJYc1hrS1FHa0hrNzdxM29JZWNySWUwdGxuSEFNY05qUUlrOWdR?oc=5",
+      "publishedAt": "2026-11-27T11:14:53+08:00"
+    },
+    {
+      "title": "Security council reaffirms ‘terror-free Türkiye’ commitment",
+      "source": "Hürriyet Daily News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbEJHcjNjNVYyVlA4clA1Q1FNenlZNmwwOV8zbGd3SlNRMnExWlB1QVpnTWhXeWIzYXh6Mml6Y0lFZ1cwTHBlN3VXUzVWS2lrbXlfU1FQdkkxb3FOZl9NNUFxVTZ5RDIzZndiMDBnVFh0NkZfazdtTUpxWmZXOXgxdjZNSTFvZzZGZDliQTUzaDV4cEVIcHB1b1pKSEZzSmM?oc=5",
+      "publishedAt": "2026-11-27T11:14:06+08:00"
+    },
+    {
       "title": "Türkiye outlines plans to strengthen Somalia’s maritime security",
       "source": "TRT Afrika",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5xSTkxVDh3U3RzU016SmV4ZWdyWktfVmZSaGdSUmRONUpRVjN4bm1mY1padmIyT3BFOWxXSGQySXJWeXhXclAtamIzbWVQYlRpTEx0TE1SMDVDTDNuWUhkYXNsN0o?oc=5",
       "publishedAt": "2026-11-27T05:38:16+08:00"
+    },
+    {
+      "title": "Erdogan hosts longtime Libyan rival Khalifa Haftar in Ankara, shifting regional ties - analysis",
+      "source": "The Jerusalem Post",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBLTFRYR09pM042U3hzLUhDamF0VWVTYU1MN3lMa2xfOUJ5YTQ4NjZheW11aHNTRFFPODVmNFd5NUducTIxbWVPVnVXVDRQYktOZHdIZURxZXpWaUtC?oc=5",
+      "publishedAt": "2026-11-27T04:13:02+08:00"
     },
     {
       "title": "Haftar makes historic visit to Ankara amid Turkish push to 'unify' Libya",
@@ -54,28 +72,10 @@
       "publishedAt": "2026-11-27T01:41:43+08:00"
     },
     {
-      "title": "Turkiye rejects European Parliament resolution on maritime deal with Libya",
-      "source": "Middle East Monitor",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWk4bGR2czNyY2FJdkhwTElDZEFLcHRudVJHaEg3R01QLTVyMUl1anlPQlhlb0xKNUZzeU9XUXJrZ253cC0taXdkX3o5bDFtTmlVRnZKVTU4SHhmbmlkR2pxbjlJUDNJMGVrekE5azctanpIa2ZvSjdkSHhiRXJhakhXMURmNFp1azlOVU9uZGR6S3lOX014OEhHX2dVVXhxc1RLOUgySFdoemJfSUo5NW5CYlNkZkk0dGfSAb8BQVVfeXFMTkJ3eVRFSVdMdWgtbVl1UFMxckRiSl9ISDJJZ2N6a3d2N05MZTl3eDZBSUoxLVhiMnMwU2pjSE1xcjRXNU9pcWlYZGtMYnBaQ2FXdUFPWWRKUmF0eVNVaDFJU1RFNll4UHhKZzU2WF8xWGlndDR5LTdVTTVGVE4tRDR2a0hRNU14QXpTUF8tWVUzQnRMNlpuVUg4V2NGQkYxVWJzNkdkYTlPc0FVc0tpUTBXVDZDdUpqWkZiRGpsblk?oc=5",
-      "publishedAt": "2026-11-27T01:31:00+08:00"
-    },
-    {
       "title": "Ankara reiterates Aegean, Eastern Mediterranean stance, open to dialogue",
       "source": "eKathimerini.com",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeVRFQ1NFUlNSYUp6RUVSdVY2X01OWWxOT2EybDU3c3FWNGs0cVRwVF84UUVRNW1OWWVZQUhtdzFTYVdZcUp5S1p3eGhCRklfTEczN05lNmFlVHB0UkJTTmdiMXJSSmU0QlV3clJvZndlQzhUVVF3RVVIZFVjVDhOUlNnYzVrcG9DU1ZkZFUzNzNacWt2NEtlbHFoaURjaUk3Q0FmWWdOY1otb3NKeDg2QWItUXc1a0lHV1lxY2lXZm5KTnVOaXNlOUpPX3Y?oc=5",
       "publishedAt": "2026-11-27T01:00:02+08:00"
-    },
-    {
-      "title": "Turkey’s defense minister to visit US as Ankara seeks sanctions relief",
-      "source": "Turkish Minute",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONGZyX2c1THdvTE93bE96MUdtclhfTVFiNE0zYXpEeWJ6a1l1Zi11SV9vWmQ5ZVhMby1JellGNHFJVjVtSVR5dDBhd0hFZmN3dWtkU3JlUXZIUWo5MjFUd1A2UFVFRFZ2WFNMLVNYajU2TVUyTWRNOGhPTXo4dFZmUTNFXzVrcFNKVEdyZU5aZ2o5bDhhYl85RXNnQ1pUSjZ4d18zV0ZaQTZsakY5ZzJIRdIBtgFBVV95cUxNeDlLOUFtbVJLMGFJbDFfLWNMclhITWN6RHg1TncwdURscUJ2MUsxMVNLblpIQThQUEJncmI5YUhwYTV3WnRzQ0RLMFV0Z2x3Zmx3SkV3di02VHo2cEJmOGlmOFhLVjBKS3lrUlhoVWN3NUcxeU5nUURLYmUwd3RNT1drcnN1OEUwZjNlendQR1RZOWVaeXV2TXNoZ29HcG9wYjRyZ05hUU9Ua0Z0U2R3MzVJZkg0dw?oc=5",
-      "publishedAt": "2026-11-27T00:30:37+08:00"
-    },
-    {
-      "title": "Aselsan highlights electronic warfare technology development and international cooperation in Ankara",
-      "source": "Defence Industry Europe",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc0lld3hwTUxkYmtiejl6Z09adlhqaHc3RHVhczRoVDk2TXVFOEV5N2Y1VFlCLVd5S0Z3cjh5R0VCbko4LXlpN0w0Q2N3LU5ZMXAtMkZZQTdabWNkMGdfU3cyc3h6VnQ5SXBNcHplZU5SOURwTzZmNmNITWRMNm9pOVlkaFlNaFpJWVhfQV9XcHZDX2hSMzBSZ0dhek5fOWZncTNDaWcxZjA2aDdOeEFrU3V0WjNqZ2YtczNpQjlBdDlxQmpMZWh0eQ?oc=5",
-      "publishedAt": "2026-11-26T23:44:26+08:00"
     }
   ]
 }

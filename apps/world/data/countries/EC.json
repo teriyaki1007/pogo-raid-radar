@@ -1,7 +1,7 @@
 {
   "iso2": "EC",
   "name": "Ecuador",
-  "updatedAt": "2026-11-27T11:07:46+08:00",
+  "updatedAt": "2026-11-27T17:11:28+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,24 @@
   ],
   "headlines": [
     {
+      "title": "Here’s what to know about President Noboa’s strategy to fight record violence in Ecuador",
+      "source": "AP News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPd194YjZXYnJlV1RNS0E3M2tOc3BvZXEzMlQzbzJPQzlNbWd2clhWVlhRSDdLZkoyUmhxQ3ZuQTRydWwtY0tvQ0dua3VMQk1NaHRnY0FLbjlxeDEzZGt3cnY5ZVZjNjBRX0FmR1pKZGVmd0NCZVd0aHI5WjAyOG5zWE9CZ1NoSDFNNWlLSlROMk00TG9XdU1ha0JIN3hCTnllWmpBQzZNUmhYRVp1TVU0djFsYmh1LUk1ZEc3V0VkRGx0bk02N0xiVVdsaGZFem9WX29GWkZPUWk4azJE?oc=5",
+      "publishedAt": "2026-11-27T17:04:00+08:00"
+    },
+    {
+      "title": "Deadly floods leave parts of Ecuador under water",
+      "source": "Al Jazeera",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUnZJc21MQnpPaklKMFVaemxGMlhqLWJJcFlkb1ZfVHo4U1N5ZHY5dVFPckxrLUZ0bk92cEVadmxGeVZkNFRoYUF0U0NKMnplT0lmWkZBTHltdGtYZUtyVlFyRmF2azd4ZFNIdXViY1JhZFNaUHdTVTJDd2s0UDZyc1NBVUJtWjQzLW1HUUNVUU53Vm1lSnJDQ1FDUDFtSzVLblHSAacBQVVfeXFMTjYxMDM4TjRGOTM0THNFdmxvSnNUTEdNenc1UEFzUEJybjZpY0VnSjdHUzF5ckxZMEE3NzU2bWFydkpJNG5ySWRGcWpRZW9sYVdMMzJZaFlwd0lDMnZKdF9xaVlLMEZOSFQ4SWxaQ3htSE1ZM21lWGRxZU1CbkFsUWVIa1JjY2FaMEh5dUcyYnA3dVY3QTF5bmJ1SHhTd0Q4N2RMRGtobEU?oc=5",
+      "publishedAt": "2026-11-27T16:28:14+08:00"
+    },
+    {
+      "title": "Ecuador Violence What to Know",
+      "source": "Daily News-Record",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdjMtUmtQMXA5Q2JieWRWU2ZfRFo2UWFDdHNvbnRXb1VIRXQ1cHhhWE1NREthWlFlYnZzTGNBa1BBc2stZDdjQUk0MmZNdktoTkpVaWF3ZzZyWjBab0dNSEFSWFlhajFsdEVNamE4WnRCcUpibFpBUExyTEJQZHZUZjBzSHlGN0QtYzVZLXFHaW16cXZxZDlEc0JhdFpfMVZzZU9ZTGpCNm13dXVWNkVWX2JVWDloMHE4bjUzYWpQeUJjY1RKZU9uZERYSnl6d0E?oc=5",
+      "publishedAt": "2026-11-27T13:15:57+08:00"
+    },
+    {
       "title": "Combating money laundering: Ecuador implements artificial intelligence in sports betting.",
       "source": "LIGA.net",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaDJwajZSNTFKYTF2RlpkM1V4ZXdRZDZhOFNUd3NnYmJCMFJMQ2FiUzliODk2ZU4wbUpramlCU1VtWGo3X2V2MEFkR2V4d0twaF9pdGplZE5rb1ZlajlMYUYyTGUzaHNTd3lRUHhVWWc5NEFNalRtQzRzOVNjY0JhUjNHcjF4d3BzZnVQNU1WV1h2UW11NUM0NDQ2TDlvM0p4aGgwZ1lKT0FWaU4tbVFFN3JudUZLMVExOG1lOEF6Z9IBxAFBVV95cUxPa1dhLXBCZHRUUlVDMFItVDhPZUVpTXpVX2RRb1hMUk5hMmx4WXBPX1JjaXdBbFlXS0U2U05GYXNaUEdwdWxaTWxzOFRfMzhjSV80ZmJ5LTRpTXlNVUhrRERRZzhBVHFjaVFRbWgweGMxWWo5Z1ZVQ2xUTUszM3VQX2pyN0t1eWR2MEtzUzJweXNyLURXNm9qVDVCTnFBOTFuT3BVRFdfYzktWUhET0xkVi01Qm1wNG9rTVJtMk5fajdKaUgz?oc=5",
@@ -43,9 +61,9 @@
     },
     {
       "title": "APTOPIX Ecuador Violence Against Women",
-      "source": "Goshen News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZmRpVW9xYkpkWE82ZG1XSVF1djBmcmF5OXNYWENtOHdPemhfVktXLUx5UVMtajlqRDhfLThiZnBaUDJQd3pFMkZoOXdxa1pxUmZ4b24wdkl1Q3VheWd0S0hVT0R6VkJGRGUyMkdaU3E2MFhadm5wVDY5ZFExQWlaY0ZKR0t5UE84Mm94cGxjSnVPYnd3aXF2NXpCUzk1bm9VSE9PZnBvdVY5dE5zQ1lNdFBrZG1zcUVNeUhtSnRCQVRLWXplYTJkR1hlUVo?oc=5",
-      "publishedAt": "2026-11-27T06:25:29+08:00"
+      "source": "timesdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObE5nanR6MkRMRlN6cFpLRjNoMnVpblFGc3pRSWh1bFMydF8yOUlqTDA3UmhjSzFIejdjY21ZeC1IWG9EWEx1cUFkc3pyeFBMa0VBMEtLb1Z2TFdudTlqYWJnT3R2c0wyYWZWa3NMM2ZDN1A3ZE1Ea091WjVLUTN3U2RvVGR5Z1RqWVlURl8tUFdFWWpYbkM4YVlmU1JOY3hUaWFaVEVDUWhEN2NKMjltMy04SzRiaXVldFBORGhma3Z1WDhOa0k2bl9n?oc=5",
+      "publishedAt": "2026-11-27T06:00:36+08:00"
     },
     {
       "title": "Venezuela v Ecuador Odds",
@@ -58,24 +76,6 @@
       "source": "Bioengineer.org",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWkxSUTZQbXBPZnV1cXRmTHJyNTlxSXNxT0dTSVc1Q1FXVDFfb2RuQjMwUWdId3A4U3dMSGdxeWNES2NRTHF0UHd0QW5GZTRJeTA0MkFrZXBKaXVxT3NHMDhyUmVBbVR1V0pfck5KTi12NGJXRk1LOGlYTnpXanJFYmluVzFvRnJPNWpVMGtKRWFpUl80X2JZcmRHVUlpRGlXTFhKSkQ5bEpYLTc2S25MN0lldU5FTWIwTkt0ZjNB?oc=5",
       "publishedAt": "2026-11-27T04:38:27+08:00"
-    },
-    {
-      "title": "Ambassador Davoli inaugurates the “Olivetti Vivo” exhibition in Cuenca, Ecuador",
-      "source": "ANSA",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQRjFhQ0UwcThwYi1WWEY2WDlFX0dmbFc0YTNfMmt5MHlEX3Q1N3BNaXJNM0xYRzczY1pHSVRBeDJNSE55TlVvMWFLSWJjWDVheE9FUjZfLU5ZZTZ0dUZ1eUZ6c0hadVFnLUdPMVJDeFZ0NnZGeEdUbnhLOGtwbTdUZlRCeVVLd185TzlWY20zZXFxbjdsMFRhbDBUT0VhQkt1MUtVVjJnRFh4YmlhNlU0ZVB3TGdLeGc1RFR1bFhTMFdzSHRIWC1SWjRkVm9EXzlxVFhtWVFreWNzS0gxamZ5NTFfZ0E5cEJtdjVFdzZRd2h4TDNjOS1nTlFlOWdFbGhHLUEydXJKT0NFcFQyVDcw0gGUAkFVX3lxTE45a1YzeWNHZVE2ck1nUWtxTjhhb0VkQjJNYmJnUVpnRlJ6N1dxNFhrR2EwRklIZW02T1ZmdjVQWkZnakpHYnZKZU9xa2h2bmRiUmhaNlRTeGJLT2ZPak01UGN2Z0tod3JUQmxMX2ZtaVNnMEhpLWhneVByOHpvTjJla3dpeWVUWlpnUXkzTHZzNkNqRkRnRzAzY1l1OUFHYjc2bkJXdDl1SkQzdXZwcGREOGxEakxiVldQQXRLSHU4YTV2eGxueHNNbENNZ2VjTnFSWGk3blVENlppZnUzVkhVYVZ6OUVYSUFpQ3FhUlNsMS1mOFBvM2NFcENqSnQtOTVhT0QzNFVSWEtZd18wMUdtZ3dRVA?oc=5",
-      "publishedAt": "2026-11-27T03:46:00+08:00"
-    },
-    {
-      "title": "Ecuador rejects as inadmissible the warnings of Almagro about the democratic deterioration in the country",
-      "source": "Demócrata",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMzhUYjBtXzlQVnRyYmo4ZDRCd0RQNUpRMVRnalZQZlhVc2ZHRC1oaFJkekdRaVY5YThkaVBiWUNGUWtVaDVwbUN1Vlo4ZmZPNVR3bk1xSWVjTHdIVk1KaE1JRjYtUU52RkY3NFYwUXFoZ2lvNHlEQ3BvdWtXVURlbVc1aU5qUjdoMXFsSFZMNGpfLU51eGRuUmZUWFVEZnJiVnBrRmdaNVpZSVl0VmxqZXhhM3ItZEM4Yk5aZVBfMmhBVnNtZE9XV0tXbzFXSFR2ZFh5cXdpcUE3Z1dpNWRyOHpR0gHnAUFVX3lxTE9XMFZkN3JzQmJOSWtvMHQ1SEdzYWcwQVpfYmhSaGpObUg5c2tCX3czZXZPY3VOdllOYzZjUDc4UEh2UWkyVXhIZGk1azlKb2s1VkY5Uzd6d0dQXzZmdXJyMTdua0VEdWxUbzlJdHFoWnFFNkxZdjE0NUs3UHRwTHVKZm9WWHpFekdvbnpsR19YcUd4YkwxbEJ6N0hXbzBUa3pIaFJIUnFLVk1kS3RRTGdFbWplSmxEdlBMUFUzX3hBbTRFT3FIeWZxR1YwV3UzdkEyVEVQaG12U09jOGRkRWtUS3lGbk1idw?oc=5",
-      "publishedAt": "2026-11-27T03:30:37+08:00"
-    },
-    {
-      "title": "Ecuador gives initial grid nod to over 500MW, led by solar",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU0lUTkFTVTJUUGVIdjQ4V0oxTTNrTG91T1ZJZ2I0dHhKbEc5RlFaLUVQSjhOQVV0d0d1V2t0M1dLWmtRa1p1ZkNmcW9QS1JsRWNrMVduaDNrOE9LOGlPbEJtZ2FSQU5HSF9CMFZjVWpoUWhqbTdPTGZrdHRJbnlydlBNUTlPQVZ5bk4tWmNOTzl6TzlOcFRN?oc=5",
-      "publishedAt": "2026-11-27T02:17:13+08:00"
     }
   ]
 }
