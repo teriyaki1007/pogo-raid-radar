@@ -1,12 +1,12 @@
 {
   "meta": {
-    "asOf": "2026-11-26",
-    "asOfLabel": "26 Nov 2026 ~10:30 PM HKT (Deoxys Raid Hour (Wed 25 Nov 6:00–7:00 PM local) has now ended worldwide, including the Americas. Gym rotation unchanged: Deoxys 5★ LIVE worldwide through Tue 1 Dec 10:00 PM local; Twilight Wishes 1★/3★ and Megas (Beedrill, Houndoom, Sableye, Manectric) still LIVE worldwide through Mon 30 Nov 8:00 PM local. Mega Metagross stays announced but is not marked live — official Twilight Wishes, Leek Duck’s current raid-bosses list, and GO Hub’s current bosses section still show the event Megas. Eggs and Rocket unchanged.)",
+    "asOf": "2026-11-28",
+    "asOfLabel": "28 Nov 2026 ~6:30 AM HKT (Clefable Super Mega Raid Day later today 2:00–5:00 PM local; Remote Raid limit 20 starts 5:00 PM PST / 9:00 AM HKT; Shadow Tornadus weekend LIVE Sat 28–Sun 29. Gym rotation unchanged.)",
     "timezoneNote": "All times are local to the player unless noted.",
     "tagline": "Raids, eggs & Team GO Rocket — CPs, shinies, and lineups at a glance.",
     "callout": {
       "urgent": true,
-      "text": "Evening refresh 26 Nov 2026 ~10:30 PM HKT: Deoxys Raid Hour (Wed 25 Nov 6:00–7:00 PM local) has now ENDED worldwide, including North America and remaining western time zones. Gym rotation unchanged — Deoxys (Normal / Attack / Defense / Speed) 5★ still LIVE worldwide through Tue 1 Dec 10:00 PM local (Leek Duck Deoxys event page + GO Hub current bosses). Hundos: Normal 1806 / 2257 Windy, Attack 1474 / 1842, Defense 1299 / 1624, Speed 1645 / 2056; all shiny-eligible. Twilight Wishes 1★/3★ (crown Pikachu, scarf Espeon/Umbreon; all shiny-eligible) and Megas (Beedrill, Houndoom, Sableye, Manectric) still LIVE worldwide through Mon 30 Nov 8:00 PM local. Official Twilight Wishes, Leek Duck’s current raid-bosses list, and GO Hub’s current bosses section (updated 25 Nov) still list those four event Megas, not Mega Metagross. The Metagross event page and GO Hub November mega schedule still announce Wed 25 Nov 6:00 AM–Tue 1 Dec 10:00 PM local, but that handoff is not confirmed in gyms, so Metagross stays announced and is not marked live. Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current; Shadow Tornadus 5★ weekends only, next Sat 28–Sun 29. Eggs unchanged (Leek Duck Updated Sep 14; no Twilight Wishes event egg override published). Rocket unchanged (Leek Duck Updated Oct 2; Giovanni inactive)."
+      "text": "Morning refresh 28 Nov 2026 ~6:30 AM HKT: Clefable Super Mega Raid Day is later today, Sat 28 Nov 2:00–5:00 PM local — Mega Clefable debuts in Super Mega Raids (official + Leek Duck + GO Hub). Catch Clefable, hundo 1392 / 1741 Cloudy (GO Hub event page; raid guide also lists Windy), Mega Level 1 unlocked, increased shiny chance (GO Hub guide states 1/10; official post only says increased chance). Up to six free Raid Passes from Gym Photo Discs; US$4.99 ticket raises that to 14 and adds Rare Candy XL chance plus 5,000 XP/Stardust. Super Mega raids need 7+ trainers, each with a Mega (Primals cannot break shields). Daily Remote Raid limit rises to 20 from Fri 27 Nov 5:00 PM to Sat 28 Nov 8:00 PM PST (GMT−8; Sat 28 Nov 9:00 AM – Sun 29 Nov 12:00 PM HKT) — starts in about 2½ hours at this check; same window as the Global Challenge. Shadow Tornadus (Incarnate) 5★ weekend window is LIVE Sat 28–Sun 29 Nov (package through Tue 1 Dec 10:00 PM local; weekends only). Gym rotation unchanged — Deoxys (Normal / Attack / Defense / Speed) 5★ still LIVE worldwide through Tue 1 Dec 10:00 PM local (Leek Duck Deoxys event page + GO Hub current bosses). Hundos: Normal 1806 / 2257 Windy, Attack 1474 / 1842, Defense 1299 / 1624, Speed 1645 / 2056; all shiny-eligible. Twilight Wishes 1★/3★ (crown Pikachu, scarf Espeon/Umbreon; all shiny-eligible) and Megas (Beedrill, Houndoom, Sableye, Manectric) still LIVE worldwide through Mon 30 Nov 8:00 PM local. Official Twilight Wishes, Leek Duck’s current raid-bosses list, and GO Hub’s current bosses section (dated 25 Nov) still list those four event Megas, not Mega Metagross, so Metagross stays announced and is not marked live. Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current. Upcoming: Max Monday Dynamax Cryogonal Mon 30 Nov 6:00 AM–9:00 PM local; Regidrago 5★ + Mega Slowbro from Wed 2 Dec 6:00 AM local (Regidrago through Tue 8 Dec 10:00 PM local, Raid Hour Wed 2 Dec 6–7 PM local) — Leek Duck. Eggs unchanged (Leek Duck Updated Sep 14; no event egg override published). Rocket unchanged (Leek Duck Updated Oct 2; Giovanni inactive)."
     },
     "legend": {
       "standard": {
@@ -24,6 +24,30 @@
       "shinyNote": "Niantic rarely publishes shiny odds. Community estimate ~1/20 for legendaries/UBs (Dittobase). Exact rates marked when a source states them."
     },
     "sources": [
+      {
+        "name": "Pokémon GO — Clefable Super Mega Raid Day",
+        "url": "https://pokemongo.com/en/news/clefable-super-mega-raid-day-2026"
+      },
+      {
+        "name": "Leek Duck — Clefable Super Mega Raid Day",
+        "url": "https://leekduck.com/events/clefable-super-mega-raid-day-2026/"
+      },
+      {
+        "name": "GO Hub — Super Mega Clefable Raid Day",
+        "url": "https://pokemongohub.net/post/event/super-mega-clefable-raid-day/"
+      },
+      {
+        "name": "GO Hub — Super Mega Clefable Raid Guide",
+        "url": "https://pokemongohub.net/post/guide/super-mega-clefable-raid-guide/"
+      },
+      {
+        "name": "Leek Duck — Regidrago in 5★ (Dec 2026)",
+        "url": "https://leekduck.com/events/regidrago-in-5-star-raid-battles-december-2026/"
+      },
+      {
+        "name": "Leek Duck — Regidrago Raid Hour 2 Dec",
+        "url": "https://leekduck.com/events/raidhour20261202/"
+      },
       {
         "name": "Leek Duck — Mega Metagross (Nov 2026)",
         "url": "https://leekduck.com/events/mega-metagross-in-mega-raids-november-2026/"
@@ -1438,7 +1462,7 @@
       "category": "current",
       "isShadow": true,
       "isMega": false,
-      "window": "Mon 16 Nov 6:00 AM – Tue 1 Dec 10:00 PM local (Shadow 5★ weekends only; weekend window ENDED worldwide, including the Americas and remaining western time zones, after 10:00 PM local Sunday)",
+      "window": "Mon 16 Nov 6:00 AM – Tue 1 Dec 10:00 PM local (Shadow 5★ weekends only; weekend window LIVE Sat 28–Sun 29 Nov)",
       "windowStart": "2026-11-16T06:00:00",
       "windowEnd": "2026-12-01T22:00:00",
       "shiny": true,
@@ -1454,7 +1478,7 @@
         "pokeapiId": 641,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png"
       },
-      "notes": "Weekend Shadow 5★ window (Sat 21–Sun 22 Nov) has now ENDED worldwide, including the Americas and remaining western time zones, after 10:00 PM local Sunday. Package window through Tue 1 Dec 10:00 PM local; weekends only — not midweek. Next weekend: Sat 28–Sun 29. Source: Leek Duck event page + current bosses. Pure Flying. Hundo CP 1911 (2389 Windy); catch range 1762–1911 / 2203–2389 Windy (Leek Duck / ScrapedDuck). Local-only; Purified Gems needed when enraged. Recommend 4–6+ trainers. Shadow 1★/3★ Larvitar/Mudkip/Makuhita/Cranidos + Prinplup/Piloswine/Poliwhirl still current (Leek Duck + GO Hub + ScrapedDuck).",
+      "notes": "Weekend Shadow 5★ window is LIVE Sat 28–Sun 29 Nov (package window through Tue 1 Dec 10:00 PM local; weekends only — not midweek). Source: Leek Duck event page + current bosses. Pure Flying. Hundo CP 1911 (2389 Windy); catch range 1762–1911 / 2203–2389 Windy (Leek Duck / ScrapedDuck). Local-only; Purified Gems needed when enraged. Recommend 4–6+ trainers. Shadow 1★/3★ Larvitar/Mudkip/Makuhita/Cranidos + Prinplup/Piloswine/Poliwhirl still current (Leek Duck + GO Hub + ScrapedDuck).",
       "types": [
         "Flying"
       ],
@@ -3805,7 +3829,7 @@
         "pokeapiId": 376,
         "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/376.png"
       },
-      "notes": "NOT marked live as of this 26 Nov evening check. The Leek Duck Mega Metagross event page and GO Hub this-week / November mega schedule still announce this window (Wed 25 Nov 6:00 AM – Tue 1 Dec 10:00 PM local). Official Twilight Wishes lists Mega Beedrill, Houndoom, Sableye, and Manectric throughout the event (through Mon 30 Nov 8:00 PM local), and Leek Duck’s current raid-bosses list and GO Hub’s current bosses section (updated 25 Nov) — which did update 5★ to Deoxys — still show those four event Megas, not Metagross. Kept as announced until the current list or official raids confirm it in gyms. Catch form: Metagross. Steel/Psychic. Hundo 2166 (2708 Snow/Windy). Shiny-eligible. Elite Charged TM Meteor Mash recommended. Duo.",
+      "notes": "NOT marked live as of this 28 Nov morning check. The Leek Duck Mega Metagross event page and GO Hub this-week / November mega schedule still announce this window (Wed 25 Nov 6:00 AM – Tue 1 Dec 10:00 PM local). Official Twilight Wishes lists Mega Beedrill, Houndoom, Sableye, and Manectric throughout the event (through Mon 30 Nov 8:00 PM local), and Leek Duck’s current raid-bosses list and GO Hub’s current bosses section (article dated 25 Nov) still show those four event Megas, not Metagross. Kept as announced until the current list or official raids confirm it in gyms. Catch form: Metagross. Steel/Psychic. Hundo 2166 (2708 Snow/Windy). Shiny-eligible. Elite Charged TM Meteor Mash recommended. Duo.",
       "types": [
         "Steel",
         "Psychic"
@@ -3844,6 +3868,75 @@
       ],
       "countersSource": "type + MattSimplified Mega Metagross",
       "highlight": false
+    },
+    {
+      "id": "mega-clefable-smrd-nov28",
+      "name": "Mega Clefable",
+      "form": "Mega",
+      "species": "Clefable",
+      "catchForm": "Clefable",
+      "tier": "super-mega",
+      "tierLabel": "Super Mega Raid Day",
+      "category": "upcoming",
+      "isShadow": false,
+      "isMega": true,
+      "window": "Clefable Super Mega Raid Day · Sat 28 Nov 2:00–5:00 PM local (later today)",
+      "windowStart": "2026-11-28T14:00:00",
+      "windowEnd": "2026-11-28T17:00:00",
+      "shiny": true,
+      "shinyRate": "increased (official); GO Hub Super Mega Clefable Raid Guide states 1/10",
+      "hundoRate": "1/216",
+      "ivFloor": "10/10/10",
+      "cpL20": 1392,
+      "cpL25": 1741,
+      "weather": [
+        "Cloudy"
+      ],
+      "sprite": {
+        "pokeapiId": 36,
+        "url": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png"
+      },
+      "fallbackSprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+      "notes": "Later today Sat 28 Nov 2:00–5:00 PM local (official + Leek Duck + GO Hub). Mega Clefable debut (Fairy/Flying). Catch form: Clefable with Mega Level 1 unlocked. Hundo 1392 (1741 Cloudy) — GO Hub event page; raid guide also lists Windy for the weather-boosted catch. Super Max Level eligible; Moonblast+ while Mega Evolved (Trainer Battles 80 power / Raid Battles 160 power, scales with Mega Level). Super Mega raids require a minimum of 7 trainers, each with a Mega in the team; Primal Groudon/Kyogre cannot break shields (GO Hub raid guide). Up to six free Raid Passes from Gym Photo Discs (14 with the US$4.99 ticket). No double weakness — weak to Electric, Ice, Poison, Rock, and Steel.",
+      "types": [
+        "Fairy",
+        "Flying"
+      ],
+      "weakTo": [
+        "Electric",
+        "Ice",
+        "Poison",
+        "Rock",
+        "Steel"
+      ],
+      "counters": [
+        {
+          "name": "Zacian (Crowned Sword)",
+          "moves": "Metal Claw / Behemoth Blade"
+        },
+        {
+          "name": "Dusk Mane Necrozma",
+          "moves": "Metal Claw / Sunsteel Strike"
+        },
+        {
+          "name": "Zamazenta (Crowned Shield)",
+          "moves": "Metal Claw / Behemoth Bash"
+        },
+        {
+          "name": "Shadow Metagross",
+          "moves": "Bullet Punch / Meteor Mash"
+        },
+        {
+          "name": "White Kyurem",
+          "moves": "Ice Fang / Ice Burn"
+        },
+        {
+          "name": "Shadow Thundurus (Therian)",
+          "moves": "Volt Switch / Wildbolt Storm"
+        }
+      ],
+      "countersSource": "GO Hub Super Mega Clefable Raid Guide",
+      "highlight": true
     }
   ],
   "events": [
@@ -3933,10 +4026,10 @@
     },
     {
       "id": "shadow-tornadus-resume-nov16",
-      "when": "Mon 16 Nov 6:00 AM – Tue 1 Dec 10:00 PM local (package window LIVE · weekends only; weekend window ENDED worldwide after 10:00 PM local Sunday)",
-      "title": "Shadow Tornadus (Incarnate) weekend window (ENDED worldwide)",
-      "impact": "Weekend Shadow 5★ window (Sat 21–Sun 22 Nov) has now ENDED worldwide, including the Americas and remaining western time zones, after 10:00 PM local Sunday. Next weekend window is Sat 28–Sun 29, through the package end Tue 1 Dec 10:00 PM local. Appears in five-star Shadow Raids weekends only (Leek Duck) — not midweek. Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current. Source: Leek Duck event page + current raid bosses.",
-      "urgent": false
+      "when": "Mon 16 Nov 6:00 AM – Tue 1 Dec 10:00 PM local (package window LIVE · weekends only; weekend window LIVE Sat 28–Sun 29 Nov)",
+      "title": "Shadow Tornadus (Incarnate) weekend window (LIVE Sat 28–Sun 29 Nov)",
+      "impact": "Weekend Shadow 5★ window is LIVE now through Sun 29 Nov local (package through Tue 1 Dec 10:00 PM local). Appears in five-star Shadow Raids weekends only (Leek Duck) — not midweek. Shadow 1★ Larvitar/Mudkip/Makuhita/Cranidos + Shadow 3★ Prinplup/Piloswine/Poliwhirl still current. Source: Leek Duck event page + current raid bosses.",
+      "urgent": true
     },
     {
       "id": "dynamax-trails-nov16",
@@ -3998,7 +4091,7 @@
       "id": "mega-metagross-nov25",
       "when": "Announced Wed 25 Nov 6:00 AM – Tue 1 Dec 10:00 PM local (NOT confirmed live)",
       "title": "Mega Metagross in Mega Raids (announced, not confirmed live)",
-      "impact": "The Leek Duck Mega Metagross event page and GO Hub this-week / November mega schedule still announce Mega Metagross for Wed 25 Nov 6:00 AM – Tue 1 Dec 10:00 PM local. As of this evening check, official Twilight Wishes, Leek Duck’s current raid-bosses list, and GO Hub’s current bosses section (updated 25 Nov) still show Mega Beedrill, Houndoom, Sableye, and Manectric (and those current lists already show Deoxys 5★). Metagross is not marked live until those lists confirm it. Catch form Metagross; Elite Charged TM Meteor Mash recommended. Shiny-eligible. Community hundo 2166 / 2708 Snow/Windy.",
+      "impact": "The Leek Duck Mega Metagross event page and GO Hub this-week / November mega schedule still announce Mega Metagross for Wed 25 Nov 6:00 AM – Tue 1 Dec 10:00 PM local. As of this 28 Nov morning check, official Twilight Wishes, Leek Duck’s current raid-bosses list, and GO Hub’s current bosses section (article dated 25 Nov) still show Mega Beedrill, Houndoom, Sableye, and Manectric (and those current lists already show Deoxys 5★). Metagross is not marked live until those lists confirm it. Catch form Metagross; Elite Charged TM Meteor Mash recommended. Shiny-eligible. Community hundo 2166 / 2708 Snow/Windy.",
       "urgent": true
     },
     {
@@ -4010,16 +4103,44 @@
     },
     {
       "id": "clefable-super-mega-raid-day-nov28",
-      "when": "Sat 28 Nov 2:00 PM – 5:00 PM local (upcoming)",
-      "title": "Clefable Super Mega Raid Day (upcoming)",
-      "impact": "Super Mega Raid Day featuring Clefable, Sat 28 Nov 2:00–5:00 PM local. Source: Leek Duck events.",
-      "urgent": false
+      "when": "Sat 28 Nov 2:00 PM – 5:00 PM local (later today)",
+      "title": "Clefable Super Mega Raid Day (later today)",
+      "impact": "Mega Clefable debuts in Super Mega Raids later today, Sat 28 Nov 2:00–5:00 PM local (official + Leek Duck + GO Hub). Catch form: Clefable with Mega Level 1 unlocked; hundo 1392 / 1741 Cloudy (GO Hub event page; raid guide also lists Windy). Increased shiny chance (GO Hub guide states 1/10; official post only says increased chance). Fairy/Flying — weak to Electric, Ice, Poison, Rock, and Steel (no double weakness). Super Max Level eligible; Moonblast+ while Mega Evolved. Super Mega raids need 7+ trainers, each with a Mega; Primals cannot break shields. Up to six free Raid Passes from Gym Photo Discs (14 with the US$4.99 ticket, which also adds Rare Candy XL chance plus 5,000 XP/Stardust). Timed Research: Premium Battle Pass + Metagross encounter (official). Global Challenge shares the Remote Raid limit 20 window: Fri 27 Nov 5:00 PM – Sat 28 Nov 8:00 PM PST; rewards Mon 30 Nov 12:00 PM – Sun 13 Dec 12:00 PM PST (Moonblast+ power and Super Max CP boosts scale with completed tiers; Moonblast+ bonus does not apply in GBL). Sources: official Pokémon GO post, Leek Duck event page, GO Hub event page + raid guide.",
+      "urgent": true
+    },
+    {
+      "id": "remote-raid-limit-20-nov27",
+      "when": "Fri 27 Nov 5:00 PM – Sat 28 Nov 8:00 PM PST (GMT−8) (upcoming · starts 5:00 PM PST / Sat 9:00 AM HKT)",
+      "title": "Daily Remote Raid limit 20 (upcoming)",
+      "impact": "Official Clefable Super Mega Raid Day bonus: daily Remote Raid limit increases from 10 to 20 from Fri 27 Nov 5:00 PM to Sat 28 Nov 8:00 PM PST (GMT−8; Sat 28 Nov 9:00 AM – Sun 29 Nov 12:00 PM HKT). This is a fixed PST window (not player-local). Same window as the Global Challenge. At this 28 Nov ~6:30 AM HKT check it has not started yet (~2½ hours out). Source: official Pokémon GO Clefable Super Mega Raid Day post (pokemongo.com/en/news/clefable-super-mega-raid-day-2026).",
+      "urgent": true
     },
     {
       "id": "max-monday-cryogonal-nov30",
       "when": "Mon 30 Nov 6:00 AM – 9:00 PM local (upcoming)",
       "title": "Max Monday: Dynamax Cryogonal (upcoming)",
       "impact": "Featured Dynamax Cryogonal in Max Battles Mon 30 Nov 6:00 AM–9:00 PM local (Leek Duck). Power Spots refresh more frequently, and additional Power Spots are active on Mondays. Source: Leek Duck Max Mondays 30 Nov page.",
+      "urgent": false
+    },
+    {
+      "id": "regidrago-dec2",
+      "when": "Wed 2 Dec 6:00 AM – Tue 8 Dec 10:00 PM local (upcoming)",
+      "title": "Regidrago 5★ (upcoming)",
+      "impact": "Regidrago will be in five-star raids Wed 2 Dec 6:00 AM – Tue 8 Dec 10:00 PM local (Leek Duck). Shiny-eligible. Raid Hour Wed 2 Dec 6:00–7:00 PM local. Raid bosses change at 6:00 AM local. Source: Leek Duck Regidrago event page.",
+      "urgent": false
+    },
+    {
+      "id": "raid-hour-regidrago-dec2",
+      "when": "Wed 2 Dec 6:00–7:00 PM local (upcoming)",
+      "title": "Raid Hour: Regidrago (upcoming)",
+      "impact": "Increased number of five-star raids featuring Regidrago, Wed 2 Dec 6:00–7:00 PM local (Leek Duck).",
+      "urgent": false
+    },
+    {
+      "id": "mega-slowbro-dec2",
+      "when": "Wed 2 Dec 6:00 AM – Tue 8 Dec 10:00 PM local (upcoming)",
+      "title": "Mega Slowbro in Mega Raids (upcoming)",
+      "impact": "Mega Slowbro in Mega Raids from Wed 2 Dec 6:00 AM to Tue 8 Dec 10:00 PM local (Leek Duck events calendar). This would follow the announced Mega Metagross window (through Tue 1 Dec 10:00 PM) and the Twilight Wishes Megas (through Mon 30 Nov 8:00 PM local).",
       "urgent": false
     }
   ]
