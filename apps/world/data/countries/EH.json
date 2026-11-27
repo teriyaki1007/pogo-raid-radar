@@ -1,7 +1,7 @@
 {
   "iso2": "EH",
   "name": "Western Sahara",
-  "updatedAt": "2026-11-27T17:11:28+08:00",
+  "updatedAt": "2026-11-27T23:08:10+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -26,6 +26,24 @@
   ],
   "headlines": [
     {
+      "title": "Western Sahara faces a crunch year",
+      "source": "https://labourhub.org.uk/",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OU1Q1djZvbUxEcHBiRmRXaXhaNHl4VWtjS19PSThYdnFiNURDVk1kdFdFMkEtOGhPbW1rTzZlZHRnWmE5NlBiUTlJVl9QTTlwQ1FQUTVHa083UEM1T3dqRkxvS2doazZ5Snc0ZEhVeHNLV3pvanFORDFlNA?oc=5",
+      "publishedAt": "2026-11-27T17:29:21+08:00"
+    },
+    {
+      "title": "Western Sahara expert talks about potential solutions at Gibraltar Literary Festival",
+      "source": "Gibraltar Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPV25BZElKWHB0MDZsbnFBa0tYbFBtdEZGOGxTTDhwb3dLckRNVEZXZVBRVkxZZ1pMWENhR2VaWkZrNUZHRm9jMTk5Q0tFeVl2dm1LR1VOQ2d0bi01d0hzVEZvWkFwQ3ZVd3JkQUZkTG8yVnBKLVpNWjFXQ2xFbnBfS0ljdlBGcTdyRFhYX0p5UW1xWWJkcE9FbFhiQmJaUk9vOXRHT21jcDFUVWdIZUU0?oc=5",
+      "publishedAt": "2026-11-27T15:09:53+08:00"
+    },
+    {
+      "title": "Russian Deputy Foreign Minister and Algerian Ambassador Discuss Withdrawal of UN Mission from Western Sahara",
+      "source": "maliweb",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3VhQTRobGdzczFGMjRwTFhmd1lPQkNFUTRYRUV2ZnBnd0VJSnpTaXFTajV4SHEwdE5iWFJIWllsVXFOTjM4dDZUNWw4a1pGU1dsbGZQTDQ0Ri1JOFRKTEVyemlqZVZ0bmRVQTNVb2RFRFRtQ2VvLWxpNVAwMzRKdnRBX01aR3gtWDJvSEhtNGRNRmxxUnJPM19qbE0wWm1taG9TVGFqNFd4OG5kQWlj?oc=5",
+      "publishedAt": "2026-11-27T08:35:40+08:00"
+    },
+    {
       "title": "Liam Fox Urges UK to Recognize Moroccan Sovereignty Over Western Sahara",
       "source": "Morocco World News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVnloS29KM0NUa2hiR2R0ZWxnV2JKYTNCeXZlZjlsYl8ya0RueUZGODFwY2NSYVFJUm94UHNDRmQzWlo0Y3BnT2NWSWo0VWVrWEVrakl0MmNQTTA3Y29hckJjajdRRUhxNmFKNUNBVDFzcmZJZXR1cXJXRHBMb0xKQlBrM0xjem1DdDVHbUZiX2hneGpHSm5ldzNLRTNIdWRHMy1QaUsydTdBdDRaUGpQUEkwQ3RTVU1ldUFrRA?oc=5",
@@ -38,40 +56,22 @@
       "publishedAt": "2026-11-27T01:16:57+08:00"
     },
     {
-      "title": "NUSW condemns all forms of violence against Sahrawi women in occupied territories",
-      "source": "وكالة الأنباء الصحراوية",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvMUVXcWRGWkwzVnktUlIxVjVEdVZ1TUlRTDhxR2hRSHdKRHh5WjJzakNpZXpweHR4VnZNcU93YldXRjJtZmVuX2RSNzRtTlBndnFrWUQ3UEtYYzEtN0E?oc=5",
-      "publishedAt": "2026-11-27T00:48:13+08:00"
+      "title": "Attaf: The Stability of the Maghreb Region Remains Contingent Upon Respecting the Sahrawi People's Right to Self-determination",
+      "source": "الإذاعة الجزائرية |",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fckZ2Z0l2LTV6Sld3V0p1VTJJeWJUUzFDN3FoUWhEWGxxbHJlUEdnNUVPWnBGekg2VVR3NU95YnpOQ1NPVU5hb2UwR2YyNHJNTWplQw?oc=5",
+      "publishedAt": "2026-11-27T00:52:25+08:00"
     },
     {
-      "title": "Western Sahara and the Growing Risk of a Morocco-Algeria Confrontation",
-      "source": "horn review",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ3prWUtfSy1tZ0RtTW9lc3c2SjJqZWxDbkJlbTNlcXpGMHB6V1l2LVR5aUVBSF9WeUgyeUY2SmJJcG1GM0t4UFdEeE1KOWZNNkRQM09Pc25sZmdNXy0zRGdNVjFiSlJEM0VhRzAyQ3A2Y0FJQ0NUYlVpRUpmcHowMDdMY1RYam1vUWNOZldlWXE5bG1kUF9JN3RrYWtiVUJUd1lERk52bnQ?oc=5",
-      "publishedAt": "2026-11-26T22:05:58+08:00"
+      "title": "Burundi Renews Support for Morocco’s Sovereignty Over Western Sahara",
+      "source": "Morocco World News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSkFUT0M1dEFRZENWYkluYW9DUHp4cUdtZHJsX0pUeTFXa1FIV2tyZlFnYkd3RUJPUk12REdCSmFLTWxYaUhxWnZ6dUxqN3B4OERSUmhrRl9KSnRJN0xCOUg3d2syS2p1Q2tyZ2t0aFJzTThPOUVkckJ0d185UTJNOXBhUDRUeEFidF94N1Y2bXg3YUNMTEhILVRqajc5RmEwOThZeFJvaUZKU19wQlh2bVJPb0ZEUTQ?oc=5",
+      "publishedAt": "2026-11-26T23:08:12+08:00"
     },
     {
-      "title": "Waltz meets Algeria’s UN Ambassador, calls for calm in Western Sahara",
-      "source": "Yabiladi.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORkZLQ1F5S1ZhRk9fckFQa3l2WWtMY0wwaTJCUkp1R05QQ1FOeEpRQ2tvaTU0WGl5dFhpa3M5WFpRM1VuSDZtNUYxNk9fdmlfNk16QjNBazBqODBjVXMzdldabkEwYTJOdHNjWXAwZmF2ak1FWmdrLVVyaWs4S1VjVlN3TGpZcHdZdUZ2WXNBa2ZPUEVMWnc?oc=5",
-      "publishedAt": "2026-11-25T18:10:00+08:00"
-    },
-    {
-      "title": "Western Sahara and the Selective Enforcement of International Law",
-      "source": "Jurist.org",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSTczVmNEcnJQWWtiQ0pMVWN2Y3JaaDdkWmlaeUlXdk10WF9XSVZJekE0SFE1MDUtWTh3MVB2ZzZfcVJBZ2lxYVdma2hrSExMYmJLZ2xIVjJzU3hoWmhYUHVsaUNsaTFEX2gwRk9MUlRvMTY0Q1VMdFRsQUEtZUhjdmNINXhFRTBHNDBGZ3NMSDVCT1F0WHptS0JUMTZCV19pWDRMTWJ0eVNRc3JC?oc=5",
-      "publishedAt": "2026-11-25T09:31:24+08:00"
-    },
-    {
-      "title": "Morocco Jails Sahrawi Students: Four Sentenced for Protesting the Occupation of Western Sahara",
-      "source": "Savage Minds | Substack",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TR1g1MTZlTHJfS2ZKODFnTEhadkU3Mm1vV0N3Z1pIaGVscUg2RVJ0b0d6T29FVGtDdHBRS25tTG4xeFRERlRNU0NFaUFWdjQ3SmZYQ0hlb0djRlhYUm9KbkVBMEZ1b1g1cXI0?oc=5",
-      "publishedAt": "2026-11-25T06:55:58+08:00"
-    },
-    {
-      "title": "Western Sahara becomes a new front in US-Russia rivalry in Africa",
-      "source": "The Africa Report",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3RHODhpT2ZpWGY3b1N4cG51QjBzOTJ4RS1hUWZnSFdQTGN5emNyU2p3YURFSkNQaUVWemNfdFVEdWtGYzN2YkFpNzhYU3Q3cjhhSklHMGhDV2JMOVZmLVRUOW5tQ1BLY2s3ZGhzc3RKVmpNVGhBLTREUXMtaEx2eF84U0J3elZXR09lNk03US1UU0FuNDMzQks5R213WUZ2dkU2cnVlTHk?oc=5",
-      "publishedAt": "2026-11-24T15:01:53+08:00"
+      "title": "Stability in Maghreb contingent on respect for Sahrawi people’s right to self-determination",
+      "source": "وكالة الأنباء الجزائرية",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTW9pQklLOTlYemtGb1MyZGhpY2NxczRaWHJfVGgtSF81TTFSTkFVeXRaUllVeV9nWWlKb3BqbVROMG4zT1dZR2xiRDV6eDVtcUdvMnRvdWR4WjJtcnhUdWJKMzZpZnowcno4ZWUwM1JiMWxiaFFqT25YaXExVU1XQkIzLWNfOXJQZ19EMTRVZVRLZF90cTF6clRNRFp4TlhjWi05OFo0eGJULVlobGZ1WWs2S0htanpqUXZralMycU91OFZ1aVVUdHpzbEgwS2JS?oc=5",
+      "publishedAt": "2026-11-26T23:00:00+08:00"
     }
   ]
 }
