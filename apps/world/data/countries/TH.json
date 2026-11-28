@@ -1,7 +1,7 @@
 {
   "iso2": "TH",
   "name": "Thailand",
-  "updatedAt": "2026-11-28T05:07:05+08:00",
+  "updatedAt": "2026-11-28T11:06:41+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,6 +30,42 @@
   ],
   "headlines": [
     {
+      "title": "Thailand seeks 2028 OECD entry with simpler rules and green finance",
+      "source": "Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5INnhLWUxDMmNQcHNkLWk2ejk1MUNTWGpyWWhNWWFCZElsUHBZcWRxdWhhTGk5WmIwT2tLVXJtc2hZR0QtUXBDQUJyVm1XLW42VEtLZ3pUcTNiZkFJZmh5S0JNazdNZVE?oc=5",
+      "publishedAt": "2026-11-28T09:13:00+08:00"
+    },
+    {
+      "title": "Chinese tourists cut overseas spending, favor Vietnam, Thailand",
+      "source": "VnExpress International",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOck1lR3I4NUZOZlIxTk5fWTlQaWZCQ0o1MTMxbkpINklIWmJxdlExeC12eDJESG5yZ1NPVFdGckd4QjdycjlEMjJIcmVXV05uaVBmQ05UT0xIWFJvMHpRR0EyMVdXMlV3VnQ0dDJuY0pVXzd1SllzdE1Ud0s2VUFmd0ZibjRLNXZIakhiLThOQ2xwN1pueVhqbG9sOHJmcUdVcjlCR0FiTUpFQkdLd1RpRWtWZERMWlV3?oc=5",
+      "publishedAt": "2026-11-28T08:06:13+08:00"
+    },
+    {
+      "title": "Beyond Chiang Mai: Why Chiang Rai should be your next Thailand getaway",
+      "source": "The Straits Times",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTGxJa2ZxcFNHOXRnMWxBbWRpVnI2VWtiRmk4ZGY5RHhaRmFvZGVBaEIzRUVkRkN3VFpqbWlIangyUGgxdlNCS0wxWVZGNmFVTnljd3JUbi0tZUtxeUZxb2lra1M3OGxyQmVnMEVsY3pNSUpQbFFVVzdVRDdyUnBjVVRiVnl0cWtPOThVNTFtU0htN2xiTno4a0xHQXpFeDl3d3ViUmhocDAzVklyRVdZ?oc=5",
+      "publishedAt": "2026-11-28T07:55:00+08:00"
+    },
+    {
+      "title": "TMD warns 14 southern provinces of heavy rain on 28 Nov as lower Gulf seas turn rough and upper Thailand cools",
+      "source": "Nation Thailand",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DcVlPVUppa3R4ZnhBXzJCSHhnSnlocVlucWpIdklSQ2R1LUIwZVQ0QTBkRWo2WlpWeUtLdU5YbjJ3RGFrRUMwS3dSTGtpX196VHJEcFpFdGpkc2NKeUI4OFdn?oc=5",
+      "publishedAt": "2026-11-28T07:50:00+08:00"
+    },
+    {
+      "title": "Thailand's exports increase at fastest rate in 5 years",
+      "source": "Bangkok Post",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUE1VUlFFamxxSTBnUnRaZTJ3amZVQTBOelBVTHVSeWdPMmJ5d0F3a1M4c0lGMFR0VGIyeERBSXNoNEF3NS1EQ2ctQk1oaExCcFpaUW53UXNqTWM0cVdRTGJEMmEyby1GcjRSWkpVbkpCWmUyUkxUaE1LSkx2OTA2aWkwcU9Sem9KdEhVSElyTGtEZU80VTI1V0hlYVVqV2VEcloySlIyaklDUQ?oc=5",
+      "publishedAt": "2026-11-28T06:10:00+08:00"
+    },
+    {
+      "title": "Thailand to Host Park Golf Open With 125 Million Won in Prizes and Gifts",
+      "source": "Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNktHaVVPUGxfaEpfZlI0YmVkVm5kaENlMXZpR2pxaWhPM2VXckZqbWtTYV9ETlE5V2dLMjNCTzh2bmRrNFZGSmtZX1JQZmIweWRzWlhZNDZVMmxHSVNVb25HMDZXUmRDaVVyRUItQWQ4a2p1MTlLdDl2eTMwNm80Q2JLdHJHQVN2bUtQUXJOZ01VSWV1S1VmQWRCR3U?oc=5",
+      "publishedAt": "2026-11-28T05:30:15+08:00"
+    },
+    {
       "title": "Thailand moves to pin down source of Myanmar mine river pollution",
       "source": "Mining.com",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYlJ1N1VEYW02NllIbUNfaW1xQ09NQlp1TFJSVndWcmZrbTdmZWFQd2p3R1F3VE9kZFUzQzMyREdLanRHRllfVTRNTEgzdHJBNWl2T3dDbzZLdmtFSWcwT3d6R1MtQUk3dHM4am1MVFhweFZHT0VwZ2MtNEIwY2k1RnhkQ2pqM3c2YVJoNHBNYnZQRDh0czdmcw?oc=5",
@@ -40,42 +76,6 @@
       "source": "SafeAbroad",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPa2tlb0VZSGF4Q2lwdm5GNU1SX19jVW9BZmxsLTFmVDZ2UmNGX3JhUWVPNjlLcUJWbDlmY2tFYjc4UDN5MVVOcFViNW5WRkhtTHU2Mjl4dVkzbGJfQllTZGxoUFkzaEFKN3Z6SFNMMFczMElPM1VxM0o2TUlfOGtPcURGNmNYemYxNnRwMjVXNHQ2eVhOYUlfelhta0hIUzlpNmlPVU1FVXFnbVdUenoyR2o1aElSQXFJREVwX0J4VGZuS2MtaUc2N01BM29QbURZSWxRMFVZNlpQTzZEN3A1aWNqcDhtRlVHbWNUUHo2akFWQ1M5Q2dYQlYyVlo?oc=5",
       "publishedAt": "2026-11-28T03:06:04+08:00"
-    },
-    {
-      "title": "Siam Legal International Sees Growing Interest From British Nationals Under 50 in Thailand Privilege",
-      "source": "Cincinnati Enquirer",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVWpVbVFXN2ktaVJwRWpfR2xWYi1aMC1LTHFZUXNvRHFwdVFzdDRiaFFaMklpRWU5Z2dSRnRqWkktbWlyN3NVcExaUU93WXVKeWlTTEtXajRXSWt0aDlMZHZOLTJBSm5NNjhnQ2ZlVGk0N1lvN01BUkxxNVRYS0o3RnJlQ3AxcDZBOGJuc3hjUEt6cWlQV1VZQS1PQUFBVGl6YnhLalRLV2I1SDIxRlVHUDlOV05LNGxwWURMSkM3bXpPQ1NQbnRPcWJjZzNBVzFSbkRBU1VOQ1JXOERra1ZVZVpEdEw0a2U2TTJR?oc=5",
-      "publishedAt": "2026-11-28T01:33:09+08:00"
-    },
-    {
-      "title": "Myanmar Heavy Rare Earth Pollution Thailand River Crisis",
-      "source": "Rare Earth Exchanges",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0g1TWwyTTdRU2JsOWtXc3FLNXNteGVMLTNZUWN5bmhZZGMtaTdkTWJHS3BtWEdCWkRyQzlIM25rWDNraTd6WFROZ0toMVFXR2VjV0xSaTh3aHRtMEZJbTdVNXZxYXEtLUZRSVhlZ2RqbHhhU0RxaFhTdzlhNDEyZWpLT3FwbkFG?oc=5",
-      "publishedAt": "2026-11-28T01:20:46+08:00"
-    },
-    {
-      "title": "The Centara Reserve Krabi resort will open in Thailand in early 2027, with 119 rooms beneath limestone cliffs",
-      "source": "La Revue des Hôtels",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1FYU3dNaGROZnJVbFo1a2x3UTdmalR0M0lWdDZ1bmlWOEJOYVN1VXpOa0tjQ1FTSnBFdVdIWnBFdVQ5SnNGOGhKU3dUbV91RGdYSXVyZTQ1Qm1fcVlmM2ktbWtIN1hEc3JqUllmanRKa250MnlkNmtncko5M3NobzNyUEZTY01XUHc?oc=5",
-      "publishedAt": "2026-11-28T01:09:49+08:00"
-    },
-    {
-      "title": "KCC in Thailand hosts rainbow-colored rice cake workshop",
-      "source": "Korea.net",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcFBqRGE5UU16VDZacGRPOEtTOXlVQlVnOE1zTWJFUDRxTzRYN1RtWTZHcmo1T00zMkV4RWVhOERyUVpmUjQzQjdyOFdnM3l6c25vb0dqdGFUSFBVa2JIOWRsYkxQTkNaTkdKVG5mMmlxcWRxQ0ZBdFFaWFBfZ1F4a0VDUWY4Rk5pcXg0?oc=5",
-      "publishedAt": "2026-11-27T23:31:14+08:00"
-    },
-    {
-      "title": "Thailand is pushing its neighbour Myanmar to take on unregulated mining",
-      "source": "DW.com",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObmZURTgwRWlxQ0lUdE9qSlpPdWRJVVV3UHpOZE5vVnNJeVZMWVVJSTBUSGdJZEdLM2dlWjhRQ09EUUlWMlc5eVNJSEhRUE1EdXhtTWhJVGY5OGRnSEJSS0FYYlpLQXRPcG4wNXEzWG45RENDR2ZyVkJDeVUzSWt6eGlscllTVFpQWS0xUldTbXlMRWwwWnh2SlJ6WmNSTGtkdEHSAaIBQVVfeXFMUElvOHpfQW0yaUt4NjZ6UWFpSjdBT3pYUG5aTFZtV3Y3Y2hNejl6NnN0Q1N0ZV8wWGxmaS1mbzJLVnFER0RoMWNCbzhPQlRKMU9FWnFocWNNTHJLTTRNQmw5bVA2NGczXzR0cy1mU0pXaE1TUEk0VVc5RVF3bk1VOVgtTXJyeXllTmlacmFtSFBVVnI1NlNDYnVKVGVPNFZrN3B3?oc=5",
-      "publishedAt": "2026-11-27T22:59:41+08:00"
-    },
-    {
-      "title": "Thailand jet fuel exports hit record as diesel shipments surge",
-      "source": "Quantum Commodity Intelligence",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1QtQlZRbnNwbzAzcjVDT2ZReGl2TG1fUThDRXgyVmdqd2kyaUtuVXlhT2t4c1ByLVR2enBOMHI4S1RMQ0VLcnZyc0h6MVJ1RnpWZjEwZFpXRktnZzJFbWYzY0UzUDdJZ1lQVGJFTTFVSElvS1ZWSDFaVURUTDd1Y2JyNkxvTHRWNktxVGRsS0l6X1hVODVPdUh6Z3JqbXRYVl96QXZhN3c?oc=5",
-      "publishedAt": "2026-11-27T22:08:29+08:00"
     }
   ]
 }
