@@ -1,7 +1,7 @@
 {
   "iso2": "AR",
   "name": "Argentina",
-  "updatedAt": "2026-11-28T11:06:41+08:00",
+  "updatedAt": "2026-11-28T17:06:46+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,16 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Scotland’s Twickenham ‘home game’ against Argentina is rugby union in more ways than one",
+      "source": "The Scotsman",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeHRKbGdrbnF0UDJheGdWR0RZeGhfMDdXTFVqSmptRUU1NVpXaEd1N0FkMEQ0UlBPV1VRb0NNUzBiNThxaVVQaWZuaHlycmRTMFZqaG9PQVpPMDNtdnp1RFVSVVN4QXlCeFRrMHhWTVhkNzhEaTdFT0FFQ2VDbm55ZUtybFlBaVpyeW1zdnJnQW15VVE2SGhfSDhrSWJ1SUkxaFY5YnNKSEtZdkxEVUZkOWlvWDIxT0VURFhKT1BVZGNuRlR2RDFUZlA4cFRIWVJIY2dqSF8yc1RhQQ?oc=5",
+      "publishedAt": "2026-11-28T14:00:00+08:00"
+    },
+    {
+      "title": "Argentina Advances Acquisition of Israeli ATMOS 155mm Wheeled Artillery Systems",
+      "source": "Defense Mirror",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeENxTEdxcTlyV1FvU0JkT0FGZm5hNE4tcm9YTVRPd0NaczdrRXRuYXUzMm9lSl9WaXNpSG1FSkx6Vk1VZUJyTEQ5Nkt3RFZxbEdkVGxKTlRsTFVrT2JERk1hdnZlWktTNlVsdHFmMkpWMk95OTJBSVhWRXhzMXpUSzZxREJSOU4yQlVzY3N3cGZKR1VNb2RKX2I4LURaZTJvQ2tVLWVHcjRjUHA4a0U1bDNROEVXdG8?oc=5",
+      "publishedAt": "2026-11-28T13:56:53+08:00"
+    },
+    {
+      "title": "Argentina's airport workers plan month-long December action, putting holiday flights at risk",
+      "source": "Latin Times",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUYtSF9qblpVWjZxZkI5cGhDeHQwaGRkZWtwVzhnaWpma0hGdGRpV1dFcHUtem1KSE05ZnllLXdYTDhFZWhaUC1QZHFtWTY4Z0FhUlVTdlF3c3VPYnpnZ0ItQW5YRDdzalluR2l0ZEpuTVE1a2pZWW9PS2FTSTI3cW41NktvaUtaQjJ1SUdlQVRneHJLWnpXSDN3?oc=5",
+      "publishedAt": "2026-11-28T11:03:30+08:00"
+    },
+    {
       "title": "Scotland Vs. Argentina Rugby Lineups: Nations Championship 2026",
       "source": "FloRugby",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSC1yS3FGNjlubVZ1Mno1ZS1RWWk0ZkpDdlpWS2xyMUF6b0o4amdTeVh6QUd2bmN4MktDblY4VG9SUXVWWG40a3hWZkpxb3NuZmw3UURtdFVCY0hSY1FZbmZKZ3Q5ZmJxdU9jSmhVc05MUzZweU14UmlCcjB4b2dnUWtYQ09ES3lDNGdKMkxpdm85NWpqNXE5MUd5QnJLcUJDdXhTLU03UQ?oc=5",
       "publishedAt": "2026-11-28T10:34:07+08:00"
     },
     {
+      "title": "A Child’s Mummified Skull Was Seized in Argentina. An Investigation Links the Package to Big Brother’s Paul Abrahamian, Who Denies It",
+      "source": "Creepy Catalog",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQc0ZLa3JYX0wtUDR3NlJxVWJLdmJicjVENG1MQThtaFNUWjV4Y3lXV1ZIdDJCNVVJbm9rRWdiWW8wUDRnaGljR2c3cnpiNm9MOXRRaDFDaHlaaE1qMDhqQ2h1Y01fTUZjaUNoRTl5QjNsQllXcHJzYm9DQ1A1X1NHek9Tb2JjZGxCd09aZjJoWEZRUkpDcUdjaTVKWXVybVdscGRoVC13WnlQNzVLVXI2WlVxM3VZZHg5OVRMMUtPa0RfZGFMMFhLazZDUXlJcExpNlZsYXJZeUowT1FUZVdjbnJzNXVwWUppNnFQag?oc=5",
+      "publishedAt": "2026-11-28T10:23:51+08:00"
+    },
+    {
       "title": "Hindus in Argentina: The Untold Story of Vedic Culture in South America – Hindu Press International",
       "source": "Hinduism Today",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQTFuelFzM1NNc09xcS1DYTE4Z3dRemJTM0JFQ2NWM2t6X1FVbXB3MUw5TWhwaXpxdXNraVppbjh5Mm1CMWJYVGp3Y1BlTmVUZlNpdm0tcjZ3RVM2T2huWUhaNzF1UXg2VVFmTVhOam10LTRkbUM4VjhFbWdUYTJac3JTWXJYZ2I3RENwQjBEdVhaMTJzQjBjem1xV2JkYkR3MXpKNlRGOGo1UElzTUxYZUJlczlVZU0?oc=5",
-      "publishedAt": "2026-11-28T10:00:03+08:00"
+      "publishedAt": "2026-11-28T10:00:44+08:00"
     },
     {
       "title": "Argentina reforms its central bank",
@@ -52,30 +76,6 @@
       "source": "Onmanorama",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNM1p4ZE54c0JIS3FqTFJCZHVqUlkyZXJEZi1WeVBmMjV3b3d0YXhPY0lFMjRPazV5Mlk0OHFMX0F4RkM3S3lKQW4xM25XdVlubEU3SVdkMUJLSFNVTTUtS0YxbW9lcjRCc1AtYWVXYTB2amluNzEtM1JmejR1a3RsR2JsLTBiSzVoYkxpSG9IOTVqcnR2S0ZJdVpvMWFFdVNSRXZJbVliVWtFLWNYMGJsSG5HNEVlZUVWNkpPTGpCNGJtUQ?oc=5",
       "publishedAt": "2026-11-28T09:14:50+08:00"
-    },
-    {
-      "title": "Cambodia signs aviation deals with Saudi Arabia, Argentina",
-      "source": "Khmer Times",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZF9nS0pxRERwLWZnaHNBUUdyWlRBNlNHTXBJZ0lpRFgzNUFPYkswZjM4TFlWVlgwQVhYME5ZZFItRlhWaUdYMWdmSU9lZlhXNGE3bjdrUGF4WndULXlBWkhnaVQ1WGRkRUh6WGJQV3lRNDRDZHcteEVYbEpuQ2VWUW8ybDNPbVQ4R0l2Szc4dWxlN1plZjJVVjJsMTBEZw?oc=5",
-      "publishedAt": "2026-11-28T08:17:33+08:00"
-    },
-    {
-      "title": "Argentina adds renewable hybrids to grid reserve scheme",
-      "source": "BNamericas",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbnNtVk8yVjNKOTVjYS11VW1tM0pqZ285R3VIZHRsVmQtUks0UTBCcmdidG5UaHZuQWY4bktieHNyckFiS3BWREMwVGllcnN3cEFMMFY4NUw2NFMtaXdubkU5bFBDN1d3RjhVUEJKT3EzQV9JQWxrNVVqVnVHMGhYQUZCRjQwV05saUh0SnNpT0dmdkl6?oc=5",
-      "publishedAt": "2026-11-28T08:17:18+08:00"
-    },
-    {
-      "title": "Veronika Erjavec vs Julia Riera - Match WTA - IEB+ Argentina Open 2026 - Semi-final",
-      "source": "tennismajors.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQnhDclVHQ0ZCU3JSemV5bWUyd2dPVklhV0xaakk5VDJFc1l4eFZYRVlhb0laWXA5aEFQNWdfNW10Q3o1Mmh0aXVVMVE0V0dqem8xNTVrbE51bnZISk9Cd2VYMlpLdnI2YzA2a2QwS1ZLN0wwSHB6QVlHQVN5Uy01b2pzZXZvUGxnbEQxX2g1RWk?oc=5",
-      "publishedAt": "2026-11-28T08:10:42+08:00"
-    },
-    {
-      "title": "First Mexico, Now Argentina. What’s Up With All the ‘Pterodactyl’ Sightings?",
-      "source": "VICE",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMG9PM2RfRFpSRGJydXI3TlVqWGJiNEpxVDVpb1RFaXZfQUdtQ3U5dnhSektDS0ZTSmRSVHdMdlIwbUkwVzB2bHpzY1NKYXg1U3cycDZQS2tfbm5VTjRESm5NUDUxaW5kcENJX0dJSVZsd2J5SU5vUDZhY3dZVGpVSzZTaGJvUUdpVmdDZ1pBeXVUZjk1Y3pXV1dzSU9EbkgtQlBxaURB?oc=5",
-      "publishedAt": "2026-11-28T06:39:30+08:00"
     }
   ]
 }

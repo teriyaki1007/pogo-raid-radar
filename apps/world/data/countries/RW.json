@@ -1,7 +1,7 @@
 {
   "iso2": "RW",
   "name": "Rwanda",
-  "updatedAt": "2026-11-28T11:06:41+08:00",
+  "updatedAt": "2026-11-28T17:06:46+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,10 +30,40 @@
   ],
   "headlines": [
     {
+      "title": "Mu bantu 3,266 bakekwagaho Ebola u Rwanda rwapimye nta n’umwe wayisanzwemo",
+      "source": "Umunota.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUGY0VW5rNWRFM0twUTB5RXRoZGZCakZQTVRreUpOX2hqV0MwYmcwS2dJMFFiLU1vSm9SZThrYWFmc1FCcDFIQUdWOEo1MC1vMWt5MWthZWk5N1R1aVNSRVJRVVBGSVFINERuaFhkVUQ3UE8yQTBIUnd2cDNQano3dzEwZVN5amI0Y1I5bDFOWjM1Tnk1eTBGSA?oc=5",
+      "publishedAt": "2026-11-28T15:41:45+08:00"
+    },
+    {
+      "title": "Taking stock of Rwanda’s transformation in 15 milestones",
+      "source": "IGIHE",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaTBQNDVFSUkwdDNKNFNPMFAtbnBoX09KeGN3YTg4RlJZbWJmcm5LMV9QMENxTkdzRWp2OUdPcHdtV0Y0WS16aVY4YUE1WmxMUk1tcUlYZmtpQVZKUjJWMFEwdGFPdnM2V0ZxWVJuZkhHQTlaZkFlbXRuV21tckFILVNVYUZaS0piOVZEREdRazk0NW1EcHA0?oc=5",
+      "publishedAt": "2026-11-28T15:32:11+08:00"
+    },
+    {
+      "title": "Central African Bloc Endorses Rwanda’s Withdrawal, Backs DRC",
+      "source": "ChimpReports",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbGJ0TTczVklPVGhhVkxPandDSGNCSkx0M0g4Nkt2bkNGQ3kwWFhMclFYYldDWEE3RVhZTkU2Mm5DbUpvc2w1N0dsSXFZNHlkVmVhZDB6dGQwbWh3d3RNRjd6dzg0TGRTWXZ0U0lxckxxTWRqSmQ4dkVvNDlsQWJtVm1KcFRpT2IzdlpUNw?oc=5",
+      "publishedAt": "2026-11-28T14:53:47+08:00"
+    },
+    {
+      "title": "German tour operators express interest in bringing more tourists to Rwanda",
+      "source": "IGIHE",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZGtJd2VsRzZoZUxEMXBSWC12RnhxT1VIenk0SGNHTFZxT0JQTWtmcHVub0czZ0VaV21QWXVoX093VlNtWmhES2pZeWVmeUxWVXpwMEhsRVFWaVpnTGVPbXFseXpwZ08wYm01RVFVaGJpczNlS21CXzZwMTBnTTJhNEZKdG03czZNNVlXQ1BWQ01sV2x3MEt1dFFwbXI0aFI3bVVaVHM0cHRKemxNWmxISQ?oc=5",
+      "publishedAt": "2026-11-28T13:00:56+08:00"
+    },
+    {
       "title": "Uganda, Rwanda Military Chiefs Agree Cross-Border Security Cooperation",
       "source": "UG Diplomat",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXNKNUV5VEVDVFhvaHB2YlA3QlJnNTlwNmY5OG1aQm45RFhhU0FWTXEwOXo4dWZjQkhvc0xMLWtlZ0xMSllfOVlMV2YwSzBneTFybC1XMzE0Z2ViSmp2akdHYmRBd3FtcjJIeGxFV29oYXQ2ZVJzZ0h1VHZSVmMzOFFieHR1WkRZa21UVkVzTGNyVktSc1ZpeQ?oc=5",
       "publishedAt": "2026-11-28T07:38:07+08:00"
+    },
+    {
+      "title": "Amakuru y'u Rwanda n'Isi",
+      "source": "KigaliToday",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSGc1TExVX0NRd2Z5YWJOMFVoT1laTmJjdVJfU2dud1Z0TEJVZjhSdlRjNTFULUtoYnpuV0l5NnFYR0F3RS0wZGJWUUdjcGYzTnZwai13VUJiSWhnUHA0NTB0cHVpZTdnSTNtOXpNSFIySzZyNjBYOXJFQ3NhMVVOQzc3RQ?oc=5",
+      "publishedAt": "2026-11-28T07:19:40+08:00"
     },
     {
       "title": "Stefanos Tsitsipas Trades the Court for a Rwandan Getaway",
@@ -46,36 +76,6 @@
       "source": "5050 Markets",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VcVB3d1lzc1NiQ3E5YUExNnhBMHZvV3NwNTgxcldRSlBnOVI4Yjd3aHpYOFY5amdaYlBVem1SemhVN1lWbGh0cXI3OEVidWd0eUV6Rl9HNzUtcl83VjdDUWRBeEhsMkVVbVBoc3VCV21udzV4ZmNZZ2JYWQ?oc=5",
       "publishedAt": "2026-11-28T05:21:15+08:00"
-    },
-    {
-      "title": "Mashariki Film Festival irashaka kugira u Rwanda igihugu kiyoboye uruganda Nyafurika rwa Filime",
-      "source": "KigaliToday",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWHJWSUV1MjNvQkN4Mjl3cmdnS2Vuem9JbDRqWDNfRjR0WHRoUnp3aVdLNUFURTlmTWdTM3dRMFJ0RTkyOEJRXy1EY2RTWkZWeHBtUklLczV1dFJ4X2hpM2dhVUx2Z0hvVW1RN1ZHWV9FTjhGSDVUek52Tk9WbzdYNFlfaW9PZXVHbGxjTE5OQlVXZEM5VGlCVlNXZ3BBR0QzcHp6MXVuOE5zRFhVY2d4YndaaWlxMFhCeUYwMi1uWWl0cjJvZW8zYXNtSWstWVdKVm9EQzlEMm9LR3dMV1Ryd2RWcThkdkFkYi1TSWlEY25zNk1vQ3pxYkVQbw?oc=5",
-      "publishedAt": "2026-11-28T04:01:22+08:00"
-    },
-    {
-      "title": "After incubation, Kenyan entrepreneurs look to Rwanda for markets",
-      "source": "Daily Nation",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSmtFamFRa2tuekM3WUtLdU9jcWFmR1VVcDZnamJHRnhrUzNNWlctX3pMd01HSnJycmJXWFlLRmp1VnA0NEZIZDNlUXhucW04MW53dW5leExaSzJ3MDhhb1lUcTNZeUVhOE1EUG5wZzA0SzFvTjVVakRpWkx1RmUxSVg4Wk0wU3o3Y2hITVlfMW9UQ29ueHJkY0ZhNlBSVkkxTW56azZTeXBVWXpiTUE?oc=5",
-      "publishedAt": "2026-11-28T02:45:29+08:00"
-    },
-    {
-      "title": "Rwanda’s Global Business Services exceeds 5,000 jobs as top performers are honoured| The New Times",
-      "source": "The New Times",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPb29YbU9NcnNGckRxSFRCTEZLV3NhYlpxckJvZURKd19WSTlDcXVscnc5bGFGNFRwcENOZU15Q3htQjZSZ0dkcUloSGJ4RG14RmxBWEFMNjBvYXhnZXE4blNyNkxyakl0MlBkTkhaMTlfNDZjS1JnNGY1UmlsLU5hUjJIZ2YtU24wWnhQQmJ1Y3dqNGxqTWRCcGpQUVBwQjk1eUFxZWo5NnZoN3prMFI5eDZ3OUQ2VF9sdmRPbnByS3Q0R0g3TU5XdC1Nd2haRXZ4VlHSAdcBQVVfeXFMTUJ4OW1OU2JsTU9QSEhNMVpkdHFNc0ZpX2Q3dXBrU2NqMGlFQlJueGNGZEhwUkxWM250M1lXSTJOZXpNSjAxR19CQlV1R3RIcEN5T0dzUllKX2F2RE40aXNNZGRzTWp5V252dkk2dDJzSDh1dGc1RGxHallmNm85NHU4d1c3Unk5MmkxMGJWcUptOTVMdWI5LW9mZll0NDFUS0x6RV94YU1EUThTeE54R3RtRWhuYmFmaW1MREExZlA2NXhyNmZES1ZVSmJIclRYVVZCNVg2Ync?oc=5",
-      "publishedAt": "2026-11-28T02:02:23+08:00"
-    },
-    {
-      "title": "Migration Min Defends Rwanda Return Hub as a Deterrent",
-      "source": "tovima.com",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV1NTLWF4a29yOXlWZVd1dEFwT20tVUtCZUZvSE00LTlhUklLTzJtT3gyLU1xUmIwSHlNLXJOeFRiOWNNNnBnVTZxdVZDY0szXy1TZHdycWNFdF84QTNOSGdXLUdwN3ZhbThaNHJsTmtveThzQlZfbFBuSnVSbEJPTUozT0d5cW1TeW05VFp5V1Y?oc=5",
-      "publishedAt": "2026-11-28T01:16:46+08:00"
-    },
-    {
-      "title": "MTN Group is Exploring Banking Licenses in Ghana, Rwanda and Nigeria",
-      "source": "Tech Labari",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSUZLdUtkTENkeHVSZmlQajRhYk40QnYtdXNVVGdrZVF5LTlEV21STmxRY3N5U1ZWZ3RMVjIzSGFOSjRPWERjZ1h6NXk3czhsRW5XbXRXSDNncHJSNWFJZWw1cG04SDJ0czZQQVhSV0theXAtM0hzTXpGM3UzajRoc0Uzb1RYNTRKRXMzeU95U0hGbWU3QUE?oc=5",
-      "publishedAt": "2026-11-27T23:43:17+08:00"
     }
   ]
 }

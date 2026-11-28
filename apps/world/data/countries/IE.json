@@ -1,7 +1,7 @@
 {
   "iso2": "IE",
   "name": "Ireland",
-  "updatedAt": "2026-11-28T11:06:41+08:00",
+  "updatedAt": "2026-11-28T17:06:46+08:00",
   "facts": [
     {
       "label": "Capital",
@@ -30,9 +30,27 @@
   ],
   "headlines": [
     {
+      "title": "Finglas: Puppy Dumped Outside Dogs Trust Ireland Highlights Worrying Dog Abandonment Issue In Dublin",
+      "source": "Nova.ie",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZZUNQOWpPTk1iVE5ZdjFMSUlKd2hIVnlnTDF1ODlHdDI5bTVaeG5VYXpraU9SdFRlN0IxRHI0YnEzdmVoSFIzN19fbTBzN2RRNFBqRDVXSmR1WmdWX0RJVVFnUGxWcUlvTG5SUHlsb1EyNlZHRXJwbk1oZw?oc=5",
+      "publishedAt": "2026-11-28T16:05:39+08:00"
+    },
+    {
+      "title": "Geely Auto Ireland opens new Dublin headquarters",
+      "source": "The Avondhu Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBsNkFMczF4QUtpTDR5MkhxS1VCZngtLV9ObmlDb284NDlpX3pCUHJBRFNwMEszUWZOa253QWJ6Mi1qNU9fOXNUaEVueGU5dzZ5Q1NBTnMxb0lxa0I2VU5CSGVqSVY4Y1Bnd1FRcmtjMGJLYXItNjZVMm9kSHlPQQ?oc=5",
+      "publishedAt": "2026-11-28T15:00:00+08:00"
+    },
+    {
+      "title": "‘They’re not seagulls – they’re vermin, they’re scavenger gulls’: Dublin’s threat from above",
+      "source": "The Irish Times",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWEJ4M3FhQWRvSi1obGVaa0EyWDFwQlNjTUdtdjJKTC15TE1zakJ2Xzdqb3ZvbnNJZFQ0UWJEaVpLeWZqb2d1eG1ER2ZZUW9NZ0VVSHFFLWp3MEJvWnlCU01oS001YndWY1lYMXBySk5SV3lXQUlYMWFhT3hUQlJoNHZiNi00ZGpfUDNzMVd5SXFYZVJ0M1dIb3JwZ1MydjBLWHFnREE0ZFBWWk1iX0lobV9QMFZ5Q00xWjlaMldTYlZ6S3d2dmFPOWxSU0hHbE9KTXBuVlVCQnUyLW1FOHN5dXhEQQ?oc=5",
+      "publishedAt": "2026-11-28T14:02:25+08:00"
+    },
+    {
       "title": "Ireland 38-14 Australia: Watch highlights as Irish beat Wallabies in Dublin",
       "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CYjJjRnNPVHQ0THN5Q0dXZEtVQkMtQ1hYOTRNUUMtdkFUNkE5b2t6ZEdUbjNoUTI4a2NLdzFaNnczeDV1cDJpclpla29lejVkUm9JVXdocE9rZHVyc3E0QkJaeU9DZ0w3U2pQcA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Mm1UVWEyVjQ2d1gxUm1JVjZpZEwyNmV5VVJJZWhqZlB3SE9mR0VISUZzRHBfekViV0xoU3RYY2RYbzEwbFpxOW51OG11NzR1SUsxLWFFRkVNSW4xUl95dDRtLW41SXAwTGc?oc=5",
       "publishedAt": "2026-11-28T06:43:33+08:00"
     },
     {
@@ -48,12 +66,6 @@
       "publishedAt": "2026-11-28T05:15:15+08:00"
     },
     {
-      "title": "Irish peacekeepers land home for Christmas & families reunite at Dublin Airport",
-      "source": "The Irish Sun",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbVFRRFNOTl9JYWE3OG1GOXpQSWd6Yjh4VVlMRVpfbkxqclJWMElYVlNmQVFZQlhoWHA1SkFyZ2NSNU5PQ0FaNkhZbFlTMGpHaThpd0JpWmtzVnVmUW9DaDRvLW16WXIyOHhBWXJSRk05aG5jLWJhQTZDVXQzY2c1bzdZRDNnR1FobTVQag?oc=5",
-      "publishedAt": "2026-11-28T04:00:40+08:00"
-    },
-    {
       "title": "Ireland: history, founding, stadium and honours",
       "source": "VAVEL.com",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tcFlNbkVVZnM3VHRCZ0FYVjlWekFsZWcyaG90cnFyUDdDamNLblZvcTNDUjdHMVpaX3FiMEJfSV9pTkFFSER4b3F0QzF5SkNzdzY5ak80U29rTWhBZGJ2UVhzbmY?oc=5",
@@ -64,18 +76,6 @@
       "source": "SportsJOE",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZndSdzJXbDZNYnF1c3c3UFRMZGtUczY4RFJqRzFacWowMVR3bzhYVDZfUjlvVVdIRnBhUE9MMW5wS19FTFFGX25yaFBkUVNFSGdCZlM0Y3JMNmp5YVhjRFUzTVNWWVhDMnMyUUpKYU53ZTliN1pfVGYyYlpwOWN5MXl4cm0?oc=5",
       "publishedAt": "2026-11-28T02:44:44+08:00"
-    },
-    {
-      "title": "Dublin GAA suffer fresh blow as two-time All-Ireland winner steps away from Ger Brennan's squad",
-      "source": "The Irish Sun",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWW10V2wxV0s3NVZ2a3dsblJBck1tZnhWOVJsZU5ldzFfN1hJUnNQRXRhVl9PMk1aTV9ybGpiOWoxTzZueGV4cVlYNHNuMENWN3NuZ0kzVmZIZDZTRVZrNlFjcUphRU5Vd2RJV2VNTXk2WW9DcHZPck40cnE3cExLQzF2LU5MZ1l2QUNN?oc=5",
-      "publishedAt": "2026-11-28T02:10:36+08:00"
-    },
-    {
-      "title": "Two-time All-Ireland winner departs Dublin panel in blow to Ger Brennan",
-      "source": "Irish Mirror",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORVNHa1FVV3d1VEdPQTh6S1FvdEN2OHYtdl9wQkFmcE10OHIzdzVRVUxsal9GLUp0VS1WenR5cG04V1U4WVdNd3VlTnhXMEhIdGRLcGdXRmZ1ZTdSUmxvZ0tHWVZjVWo5dlhmcVo1S2lvbVhGTXZNTUE1b0hJN2E5MU54TdIBiAFBVV95cUxOT3A3aFI0VzhfYXl5NWxtSndURGN4WjVjNnpxdHFxcGxWVGtoRy1xbGktVXdpaXo5TmRnMHRaWXZ0V01Eclp4RmxqS05mQ2hoVXpLZ2JqUHZUVjF2UmdPY09TbWcyYW9WT3B1Q1lRMlI2bFI3MUtWX2xRekYtRHYtUkpLdkE1Q2Iz?oc=5",
-      "publishedAt": "2026-11-28T02:00:00+08:00"
     }
   ]
 }
